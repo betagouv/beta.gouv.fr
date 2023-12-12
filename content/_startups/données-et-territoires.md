@@ -17,14 +17,19 @@ contact: donnees@anct.gouv.fr
 accessibility_status: non conforme
 dashlord_url: http://dashlord.incubateur.net/url/donnees-incubateur-anct-gouv-fr-toolbox/
 stats_url: https://donnees.incubateur.anct.gouv.fr/stats
+thematiques:
+  - Transport
+  - Social
+  - Open Data
 ---
+
 ## C’est quoi Données et Territoires ?
 
 Une **mission de l’incubateur des territoires de l’ANCT** à destination des agents, des services et des collectivités territoriales.
 
 L'équipe de Données et Territoires conçoit, développe, maintient et contribue à des outils, communs numériques dont l’objectif est de faciliter le quotidien des agents et de fluidifier la circulation de la donnée entre collectivités et l'État.
 
-Son **guichet Données** accompagne les agents publics dans leurs besoins en manipulations de données. 
+Son **guichet Données** accompagne les agents publics dans leurs besoins en manipulations de données.
 
 [Contacter l’équipe par email](mailto:donnees@anct.gouv.fr).
 
@@ -47,6 +52,7 @@ Données et Territoires intervient dans le but d'aider à faciliter la remontée
 ## Quels sont les outils mis à disposition par Données et Territoires ?
 
 Ces outils sont assez nombreux mais nous en dégageons 3 principaux :
+
 - [**Grist**](https://getgrist.com) : il s'agit non seulement d'un puissant tableur collaboratif en ligne et open-source, mais également d'un outil de [no-code](https://fr.wikipedia.org/wiki/D%C3%A9veloppement_No_code) mettant à disposition une palette de widgets (calendrier, carte avec emplacements, wiki, ...) simples à mettre en place. L'incubateur propose 2 instances auto-hebergées en France de ce service, à destination des agents publics ;
- - **inSITu** : il s'agit d'un ETL récupérant les données de différentes sources pour les normaliser et les agréger dans sa base de données ;
- - [**Le catalogue d'indicateurs**](https://catalogue-indicateurs.donnees.incubateur.anct.gouv.fr/) : qui vous permet en quelques clics d'afficher les indicateurs pour tous les programmes de l'ANCT, et ce que vous soyez agent de la fonction publique ou non ;
+- **inSITu** : il s'agit d'un ETL récupérant les données de différentes sources pour les normaliser et les agréger dans sa base de données ;
+- [**Le catalogue d'indicateurs**](https://catalogue-indicateurs.donnees.incubateur.anct.gouv.fr/) : qui vous permet en quelques clics d'afficher les indicateurs pour tous les programmes de l'ANCT, et ce que vous soyez agent de la fonction publique ou non ;

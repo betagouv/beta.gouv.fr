@@ -18,6 +18,9 @@ stats_url:
 contact: c.hiernard@agglo-pau.fr
 usertypes:
   - particulier
+thematiques : 
+  - Collectivités
+  - Social
 ---
 
 ## Problème visé :

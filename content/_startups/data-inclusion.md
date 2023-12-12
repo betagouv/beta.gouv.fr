@@ -21,6 +21,9 @@ usertypes:
   - association
   - etat
 accessibility_status: partiellement conforme
+thematiques : 
+  - Jeunesse
+  - Culture
 ---
 ## Le problème 
 

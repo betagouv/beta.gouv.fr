@@ -1,6 +1,6 @@
 ---
 title: Parasport
-mission: "Faciliter la pratique sportive pour les personnes en situation de handicap. "
+mission: "Faciliter la pratique sportive pour les personnes en situation de handicap."
 sponsors:
   - /organisations/msjop
 incubator: dinum
@@ -10,8 +10,10 @@ phases:
   - name: investigation
     start: 2023-06-20
     end: 2023-09-29
+thematiques:
+  - Formation
+  - Jeunesse
 ---
-
 
 ## Contexte
 
@@ -19,7 +21,7 @@ Aujourd’hui, en France, 48 % des personnes en situation de handicap ne pratiq
 
 ## Problème
 
-Il existe de nombreux freins à la pratique sportive pour les personnes en situations de handicaps. Nos hypothèses de début d'investigation sont une information confuse et peu claire mais aussi des solutions existantes qui ne répondent pas complètement à leurs attentes. 
+Il existe de nombreux freins à la pratique sportive pour les personnes en situations de handicaps. Nos hypothèses de début d'investigation sont une information confuse et peu claire mais aussi des solutions existantes qui ne répondent pas complètement à leurs attentes.
 
 ## Stratégie
 

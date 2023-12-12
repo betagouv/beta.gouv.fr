@@ -18,7 +18,11 @@ phases:
   - name: construction
     start: 2022-11-01
 link: https://www.demarches-simplifiees.fr/commencer/dossier-accessibilite
+thematiques:
+  - Social
+  - Collectivités
 ---
+
 ## Contexte
 
 Depuis la loi du 11 février 2005 pour l’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, les établissements recevant du public (ERP) doivent être accessibles à tous les types de handicap. Ils doivent permettre à tout le monde, sans distinction, de pouvoir y accéder, y circuler et recevoir les informations diffusées.
@@ -35,12 +39,13 @@ Access'cité est un outil visant à simplifier la création et l'instruction des
 Nous avons développé un premier prototype fonctionnel d'Access'cité avec l'outil Démarches Simplifiées.
 Ce prototype est d'ores et déjà accessible au lien suivant : https://www.demarches-simplifiees.fr/commencer/dossier-accessibilite
 
-En remplissant le formulaire, le pétitionnaire génère un dossier complet (CERFA 13824*04, notice d'accessibilité et plans) pour une demande de travaux de mise en accessibilité PMR.
+En remplissant le formulaire, le pétitionnaire génère un dossier complet (CERFA 13824\*04, notice d'accessibilité et plans) pour une demande de travaux de mise en accessibilité PMR.
 
 Ce prototype est particulièrement utile aux "petits commerçants" qui ont souvent des difficultés à comprendre la législation et qui ne disposent malheureusement pas toujours de l'expertise et du temps nécessaire pour correctement monter les dossiers.
 
 Les premiers impacts attendus avec ce prototype d'Access'cité sont les suivants :
-- Simplification du remplissage du CERFA 13824*04
+
+- Simplification du remplissage du CERFA 13824\*04
 - Guidage étape par étape pour remplir la notice d'accessibilité (et éviter les problèmes associés)
 - Rappel simplifié de la réglementation à chaque étape
 

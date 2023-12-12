@@ -16,7 +16,11 @@ link: https://selexpert.anje-justice.fr/
 stats: true
 stats_url: https://selexpert.anje-justice.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/selexpert-anje-justice-fr/
+thematiques:
+  - Open Data
+  - Administration
 ---
+
 ## Problème
 
 Dans le cadre d’une procédure judiciaire, 40 % des missions sont refusées par les experts, faute de disponibilité ou d’adéquation avec leurs domaines de compétence. En résultent une charge de travail supplémentaire pour les magistrats et les greffiers, et donc des retards importants sur le démarrage des procédures pour le justiciable.
@@ -24,6 +28,7 @@ Dans le cadre d’une procédure judiciaire, 40 % des missions sont refusées pa
 ## Solution
 
 Un outil permettant la sélection éclairée et la désignation rapide des experts judiciaires grâce à :
+
 - Une recherche plus efficace des experts compatibles et disponibles
 - Une pré-sélection dématérialisée garantissant l’accord de principe de l’expert en un temps précis
 - Une solution élaborée en co-construction avec les utilisateurs
@@ -37,4 +42,3 @@ Poursuivre l'expérimentation de l’outil à Metz, Nantes et Nancy. Rendre seLE
 Systématiser le recours à seLEXpert dans les services du contrôle de expertises et des référés civils de tous les tribunaux judiciaires dans lesquels l’outil est et sera déployé, de sorte qu’il devienne le mode normal de désignation des experts.
 
 Augmenter le nombre d’utilisateurs actifs chez les experts pour atteindre le seuil de 50 %.
-

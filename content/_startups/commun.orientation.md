@@ -13,6 +13,9 @@ phases:
 usertypes:
   - collectivite-territoriale
   - particulier
+thematiques : 
+  - Jeunesse
+  - Emploi
 ---
 
 ![](/img/netlifycms/commun.orientation.png)

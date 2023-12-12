@@ -2,19 +2,22 @@
 title: Subventions innovantes
 mission: Renforcer la place des PME et l'impact dans les subventions de l'Etat
 sponsors:
-    - /organisations/dinum
+  - /organisations/dinum
 incubator: dinum
 contact: benjamin.doberset@beta.gouv.fr
 usertypes:
-    - entreprise
+  - entreprise
 redirect_from:
-    - /startups/Subventions_innovantes
+  - /startups/Subventions_innovantes
 phases:
-    - name: investigation
-      start: 2023-05-31
-      end: 2023-09-01
-    - name: alumni
-      start: 2023-09-01
+  - name: investigation
+    start: 2023-05-31
+    end: 2023-09-01
+  - name: alumni
+    start: 2023-09-01
+thematiques:
+  - Transition Écologique
+  - Territoires
 ---
 
 # Renforcer la place des PME et l'impact dans les subventions de l'Etat
@@ -36,47 +39,47 @@ L’accompagnement des lauréats doit être renforcé pour atteindre des objecti
 
 Expérimenter une nouvelle manière de subventionner en s’inspirant du modèle des fonds d’investissement, notamment ceux de capital-risque et de beta.gouv, pour :
 
--   Détecter activement les PME prometteuses et étudier leur potentiel en amont.
--   Assurer un suivi des projets dans le temps pour en accompagner le développement sans alourdir les procédures (en facilitant les rapports avec l’administration, en proposant du coaching, et en aidant à la mise à disposition ou au recrutement de compétences).
+- Détecter activement les PME prometteuses et étudier leur potentiel en amont.
+- Assurer un suivi des projets dans le temps pour en accompagner le développement sans alourdir les procédures (en facilitant les rapports avec l’administration, en proposant du coaching, et en aidant à la mise à disposition ou au recrutement de compétences).
 
 ## La stratégie
 
 **Phase 1 : Recruter un duo entrepreneur/investisseur, investiguer et affiner l'expérimentation(2-3 semaines)**
 
--   Recruter un duo entrepreneur/investisseur pour mener l'expérmientation
--   Mener une enquête en interrogeant des utilisateurs pour identifier les limites du dispositif actuel de ciblage et d’accompagnement.
--   S’appuyer sur les travaux menés par la DITP (Direction interministérielle de la transformation publique) et les expérimentations en cours, notamment Projet innovant France 2030 · demarches-simplifiees.fr.
--   Comprendre les avantages et les limites des procédures des fonds d’investissement.
--   Recueillir les données pour utiliser les appels à projets de l'ADEME comme contrefactuel
--   Valider ou infirmer nos hypothèses, prioriser les pistes d’action et proposer une solution couplée à un objectif d’impact sur 6 mois.
+- Recruter un duo entrepreneur/investisseur pour mener l'expérmientation
+- Mener une enquête en interrogeant des utilisateurs pour identifier les limites du dispositif actuel de ciblage et d’accompagnement.
+- S’appuyer sur les travaux menés par la DITP (Direction interministérielle de la transformation publique) et les expérimentations en cours, notamment Projet innovant France 2030 · demarches-simplifiees.fr.
+- Comprendre les avantages et les limites des procédures des fonds d’investissement.
+- Recueillir les données pour utiliser les appels à projets de l'ADEME comme contrefactuel
+- Valider ou infirmer nos hypothèses, prioriser les pistes d’action et proposer une solution couplée à un objectif d’impact sur 6 mois.
 
 **Phase 2 : réussir un premier financement (6 mois)**
 
--   Animer l’expérimentation en simplifiant l’appel à projet et en allant trouver des PME.
--   Construire un processus d'évaluation
--   Constituer un comité de mentors investisseurs/entrepreneurs privés et publics qui aura deux fonctions : sélectionner et accompagner.
+- Animer l’expérimentation en simplifiant l’appel à projet et en allant trouver des PME.
+- Construire un processus d'évaluation
+- Constituer un comité de mentors investisseurs/entrepreneurs privés et publics qui aura deux fonctions : sélectionner et accompagner.
 
 **Phase 3 : accompagner les PME à développer leurs impacts**
 
--   Constituer une équipe de coach pour accompagner les lauréats
--   Evaluer régulièrement l'amélioration de l'impact des lauréats
+- Constituer une équipe de coach pour accompagner les lauréats
+- Evaluer régulièrement l'amélioration de l'impact des lauréats
 
 ## Les objectifs d'impact :
 
 **Recruter plus de PME**
 
--   Un taux supérieur de PME qui candidatent par rapport aux appels à projet classique de l'ADEME
+- Un taux supérieur de PME qui candidatent par rapport aux appels à projet classique de l'ADEME
 
 **Simplifier les procédures**
 
--   100% des dossiers remplis par les PME seules (sans aide extérieure)
--   Plus de 80% de taux de satisfaction sur le remplissage du dossier
--   Réduction de 80% des délais de procédure / une procédure réduite à un mois (entre la date de fin de dépôt et le lancement de l’accompagnement + versement des fonds)
+- 100% des dossiers remplis par les PME seules (sans aide extérieure)
+- Plus de 80% de taux de satisfaction sur le remplissage du dossier
+- Réduction de 80% des délais de procédure / une procédure réduite à un mois (entre la date de fin de dépôt et le lancement de l’accompagnement + versement des fonds)
 
 **Améliorer l'impact de la subvention**
 
--   Les objectifs d’impact sont significativement mieux explicités par les porteurs de projets
--   Les PME bénéficiant de l’accompagnement DINUM ont un impact accru de 30%, à échéance 6 et 18 mois
+- Les objectifs d’impact sont significativement mieux explicités par les porteurs de projets
+- Les PME bénéficiant de l’accompagnement DINUM ont un impact accru de 30%, à échéance 6 et 18 mois
 
 ## Investigation achevée
 

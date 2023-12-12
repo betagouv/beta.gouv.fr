@@ -36,6 +36,9 @@ usertypes:
 fast:
   promotion: 12
   montant: 230000
+thematiques : 
+  - Juridique
+  - Diplomatie
 ---
 ## Contexte
 

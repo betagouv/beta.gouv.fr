@@ -20,7 +20,12 @@ phases:
     end: 2022-02-01
   - name: construction
     start: 2022-03-01
+  - name: acceleration
+    start: 2023-09-04
+thematiques:
+  - Social
 ---
+
 ### 🏗 Contexte/problème
 
 Durant la phase d'investigation, le CIAS du Grand Autunois Morvan a fait émerger la problématique du suivi numérique des bénéficiaires dans la structure.
@@ -31,7 +36,7 @@ Les outils numériques répondant au besoin sont inaccessibles financièrement p
 
 ### 💻 Solution proposée
 
-Suite à une enquête de terrain, la solution prototypée est un outil numérique à destination des agents : dossier social unique et suivi des interactions avec les bénéficiaires,  gestion des tâches et module statistique.
+Suite à une enquête de terrain, la solution prototypée est un outil numérique à destination des agents : dossier social unique et suivi des interactions avec les bénéficiaires, gestion des tâches et module statistique.
 
 Ce prototype a été testé auprès d'autres CCAS et les besoins ont été confirmés.
 
@@ -39,9 +44,9 @@ Ce prototype a été testé auprès d'autres CCAS et les besoins ont été confi
 
 1 - La construction d'une version beta de la solution (interface agent) a débuté en mars 2022, co-construction et tests auprès d'une dizaine de structures durant plusieurs mois.
 Les premières fonctionnalités expérimentées portaient sur :
-    • Dossier bénéficiaire (fiche bénéficiaire et espace document associé) 
-    • Suivi des échanges et accompagnements 
-    • Module statistique 
+• Dossier bénéficiaire (fiche bénéficiaire et espace document associé)
+• Suivi des échanges et accompagnements
+• Module statistique
 
 2 - Perspectives complémentaires : le déploiement des fonctionnalités complémentaires est progressif, et repose sur une logique de co-construction avec les usagers volontaires (entretiens individuels récurrents, clubs mensuels collectifs). Des interconnexions avec d'autres outils existants sont étudiés (prise de RDV ...) ;
 
