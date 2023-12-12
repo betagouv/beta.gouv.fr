@@ -21,6 +21,4 @@ competences:
   - Gestion de Produit
 startups:
   - expositionIJ
-teams:
-  - /teams/mission-inserjeunes
 ---
