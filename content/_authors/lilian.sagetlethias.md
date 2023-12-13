@@ -2,7 +2,7 @@
 fullname: Lilian Saget-Lethias
 role: CTO
 domaine: Animation
-link: https://deno.paris
+link: https://www.linkedin.com/in/lsagetlethias
 github: lsagetlethias
 missions:
   - start: 2021-09-01
@@ -46,6 +46,7 @@ competences:
   - "Développement Backend"
 ---
 
-CTO Incubateur de l'ADEME
-ex-Coach Tech Incubateur @SocialGouv
-ex-CTO @Simbel
+CTO Incubateur de l'ADEME  
+ex-Coach Tech Incubateur @SocialGouv  
+ex-CTO @Simbel  
+[Paris Deno](https://deno.paris) organizer
