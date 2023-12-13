@@ -24,7 +24,7 @@ techno:
     - TypeScript
 usertypes:
   - particulier
-  - commerçant
+  - entreprise
 analyse_risques: true
 analyse_risques_url: https://github.com/incubateur-ademe/carte-verte/blob/main/SECURITY.md
 ---
