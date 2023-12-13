@@ -10,7 +10,8 @@ missions:
 startups:
   - competence.validee
   - mes.aides.a.lembauche
-  - mes.événements.emploi
+  - mes.evenements.emploi
+
 ---
 
 
