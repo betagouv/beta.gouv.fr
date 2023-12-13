@@ -6,7 +6,7 @@ sidebar: sidebar-schema-a11y.html
 hero_title: "Schéma pluriannuel 2024 - 2027"
 ---
 
-*Date de publication : ...*
+*Date de publication : 04/01/2024*
 
 ## Introduction
 
@@ -19,27 +19,31 @@ beta.gouv.fr est à la fois une structure, un incubateur et un réseau d’incub
 ### Niveau 1 : Produits internes à la structure beta.gouv.fr
 
 beta.gouv.fr gère en interne les produits suivants :
-- Le site beta.gouv.fr
+- Le **site beta.gouv.fr**
 - L’**espace membre** (intranet)
 
-Nous sommes aussi responsables de nos publications sur les réseaux sociaux (LinkedIn, Mastodon et Twitter).
+Nous sommes aussi responsables de nos publications sur :
+- les réseaux sociaux (LinkedIn, Mastodon et Twitter)
+- notre newsletter interne et externe
+- notre [documentation](https://doc.incubateur.net)
 
 ### Niveau 2 : Produits incubés à l’Incubateur DINUM de beta.gouv.fr
 
-En plus des outils internes, nous incubons un petit nombre de services publics numériques. La [liste des produits concernés](https://beta.gouv.fr/startups/?incubateur=dinum) est détaillée sur le site. Début 2024, ce périmètre inclut 18 produits (7 en phase de construction, 10 en phase d’accélération, 1 en phase de transfert).
+En plus des outils internes, nous incubons un petit nombre de services publics numériques.
+
+Début 2024, ce périmètre inclut 18 produits (7 en phase de construction, 10 en phase d’accélération, 1 en phase de transfert). La [liste des produits concernés](https://beta.gouv.fr/startups/?incubateur=dinum) est détaillée sur le site.
 
 ### Niveau 3 : Produits incubés dans le réseau beta.gouv.fr
 
 Enfin, en tant que réseau d’incubateur, beta.gouv.fr accompagne de nombreux services publics, dans différents ministères. Spécificité de l’incubation, la liste de ces produits est mouvante, les produits étant incubés un temps limité.
-La [liste complète](https://beta.gouv.fr/startups/) est disponible sur le site. Début 2024, ce périmètre concerne 147 produits numériques.
+
+Début 2024, ce périmètre concerne 147 produits numériques. La [liste complète](https://beta.gouv.fr/startups/) est disponible sur le site.
 
 ### Hors périmètre
 
-Concernant les produits incubés dans le réseau (niveau 2 et 3), nous considérons hors périmètres les services :
-- en investigation (ce ne sont encore pas des services numériques)
-- pérennisés (ils ne sont plus incubés chez beta.gouv)
-- en fin de partenariat
+Les services numériques n’ayant pas rendu n’ayant pas (encore) d’URL accessible en dehors de l’équipe de conception ne sont pas concernés par ce schéma. Ainsi, concernant les produits incubés dans le réseau (niveau 2 et 3), nous considérons hors périmètres les services en investigation (ce ne sont encore pas des services numériques).
 
+Par ailleurs, les services pérennisés ou en fin de partenariat sont aussi hors périmètre (ils ne sont plus incubés chez beta.gouv).
 
 ## Ressources humaines et techniques
 
@@ -68,67 +72,91 @@ Sa mission est détaillée dans les sections suivantes.
 ### Aides externes
 
 L’équipe interne a beta et les services (niveau 1, 2 et 3) peuvent faire appel aux ressources suivantes :
-
-- Les marchés : on peut faire appel à des prestataires expert.es en accessibilité (pour faire des audits, ou pour construire les produits)
+- Les **marchés publics**, pour faire appel à des prestataires expert·es en accessibilité (pour faire des audits, ou pour construire les produits).
+- Le **fonds de financement d’accessibilité** de la DINUM.
 
 ## Moyens techniques
 
 L’incubateur dispose et propose de plusieurs moyens techniques et de l’outillage pour gérer et tester l’accessibilité numérique :
 
-- DSFR, géré par le SIG, et promu abondamment auprès des équipes
-- Dashlord = outil de suivi qui donne des mesures sur l’écran d’accueil, qui est maintenu par (????) à l’usage des équipes
-- Documentation (doc.incubateur.net) dédiée aux services de l’incubateur
-- Différents protocoles (Easy Checks, Audit Flash…) détaillé dans la partie Stratégie.
-- Générateur de déclaration d’accessibilité
+- Le **DSFR** (le Design System de l’État), géré par le SIG, et dont l’utilisation est préconisé auprès des équipes,
+- Le **Dashlord**, l’outil de suivi qui donne des mesures sur l’écran d’accueil, à l’usage des équipes,
+- La **documentation**, à destination des équipes de l’incubateur, dont une section entière est dédiée à l’accessibilité,
+- Différents **protocoles de tests** détaillés dans la partie *[Stratégie](#strategie)*.
+- Un **générateur de déclaration d’accessibilité**, pour faciliter le respect des obligations légales.
 
+Cette liste est vouée à évoluer pour compléter l’outillage de l’incubateur.
 
 ## Politique d’accessibilité
 
-Notre politique est de rendre les équipes compétentes sur l’accessibilité (plutôt que de « faire faire par des experts qui s’en vont après »). Pour ce faire :
+Notre politique est de rendre les équipes **compétentes et autonomes en accessibilité numérique**.
 
 ### Ressources humaines
 
-Actions de formation :
-- toute personne qui rejoint l’incubateur est invitée à suivre une sensibilisation à l’accessibilité numérique
-- des webinaires spécifiques sont proposés ;
-publics = développeurs, designers, intrapreneurs, coachs
+En terme de **recrutement**, chaque équipe de l’incubateur est autonome dans ses choix. Le Pôle Numérique Inclusif fournit cependant de la documentation et de l’aide au recrutement pour qualifier l’expertise a11y.
 
-Recrutement :
-- les équipes sont autonomes
-- documentation et aide au recrutement pour qualifier l’expertise a11y
+Le Pôle Numérique Inclusif mène aussi des **actions de formation** :
+- Chaque personne rejoignant le réseau est sensibilisée à l’accessibilité numérique.
+- Des webinaires spécifiques sont proposés régulièrement, pour les développeurs, coachs, designers…
 
-Recours compétences externes :
-- Si nécessaire, il peut être fait appel à des intervenants externes.
+Enfin, si nécessaire, les équipes peuvent faire appel à des **intervenants externes** pour accélérer la mise en accessibilité.
 
 ### Stratégie de mise en oeuvre
 
-La particularité de l’incubateur est d’accompagner des services en construction. Ce qui implique une approche progressive de l’accessibilité.
+La particularité de l’incubateur est d’accompagner des services en construction. Ce qui implique une **approche progressive de l’accessibilité**.
 
-On incube des services, on ne recherche pas le 100 % dès le début :
-Construction : les bons gestes, tests manuels, tests automatiques
-Accélération : (TODO préparation à l’audit RGAA avec un audit flash + <nouvel accompagnement>)
-Transfert : audit et accompagner la sortie
-préparer l’audit, préparation de l’échantillon, (former les équipes à recevoir l’audit)
-trouver l’experte.e qui peut le faire
-aide à prendre en compte les retours si besoin
+Les services numériques de beta.gouv.fr sont conçus de manière itérative. Un audit de conformité n’est pas envisageable pendant cette période (puisqu’il serait caduque aussitôt terminé) : les produits sont régulièrement refondus, en fonction des retours terrains.
 
-On accompagne les incubateurs à accompagner leurs services :
-Formation pour les profils transverses (coachs et responsables d’incubateurs)
-Aide au suivi de la progression de mise en accessibilité des services de l’incubateur
+Toutefois, l’accessibilité est prise en compte dans la construction, régulièrement, pour se préparer à l’audit final :
 
-Sans oublier les produits internes : objectif + ambitieux ; on gère le recrutement
+#### Étape 1 : Respect des obligations légales déclaratives
+
+Le Pôle Numérique Inclusif accompagne tous les services du périmètre à **respecter les obligations déclaratives** (mention de conformité, déclaration de conformité et schéma pluriannuel).
+
+En terme de moyens, les équipes bénéficient :
+- du **générateur de déclaration d’accessibilité**
+- du **DSFR**, et notamment du composant Pied de page qui inclut la mention de conformité.
+
+Un suivi régulier est fait (mis à jour 3 à 4 fois par an) pour mesurer la progression du parc.
+
+#### Étape 2 : Tests automatisés
+
+Le Pôle Numérique Inclusif aide les équipes à **mettre en place des tests automatiques ou automatisés**.
+
+Pour ce faire, les équipes bénéficient de **documentation** et **kit techniques**, ainsi que d’accompagnement pour l’écriture de tests automatisés.
+
+Le suivi est fait via le Dashlord.
+
+#### Étape 3 : Tests manuels
+
+Le Pôle Numérique Inclusif forme les équipes à la prise en compte de l’accessibilité via des **tests manuels**.
+
+En terme de moyens, les équipes bénéficient d’**ateliers pratiques** pour apprendre la méthodologie et l’incorporer à leurs process de travail.
+
+Le Pôle Numérique Inclusif conserve un suivi des équipes formées, et de leur maturité sur le sujet.
+
+#### Étape 4 : Conformité
+
+Le Pôle Numérique Inclusif accompagne les équipes en phase d’accélération ou de transfert à l’**audit de conformité**.
+
+Il propose aux équipes un **pré-audit** pour se préparer à l’audit de conformité. Par ailleurs, le Pôle **facilite les relations avec les prestataires externes** pour mener l’audit de conformité.
+
+Le Pôle Numérique Inclusif garde un suivi des services ayant bénéficié d’un audit de conformité (et leur score).
 
 ### Contrôle et validation
+
 Pour mesurer l’efficacité de notre stratégie, nous mettons en place les modalités de contrôle suivantes :
 
-Suivi régulier (mis à jour 3 à 4 fois par an) de tous les services incubés chez beta :
-monitoring des services qui ont fait un audit (et leur score)
-validité et conformité de la déclaration et de la mention (obligations de transparence)
-tests manuels ponctuels impromptus sur les services (périmètre beta interne et services DINUM) pour prioriser et valider l’avancement de la mise en accessibilité
-Monitoring automatique (Dashlord) : tests lighthouse notamment, sur les services du périmètre
+Un **suivi régulier** (mis à jour 3 à 4 fois par an) de tous les services incubés chez beta :
+- Identification des services ayant bénéficié d’un **audit de conformité**
+- Vérification de la **validité et conformité de la déclaration** et de la mention légale, conformément aux obligations de transparence
 
-Accompagnement à l’audit de conformité : on s’assure que ça soit planifié (et on accompagne sa mise en œuvre, comme détaillé dans la stratégie)
+Un **monitoring automatique** (tests automatiques Lighthouse via le Dashlord) permet de tester tous les services du réseau, au moins sur la page d’accueil.
 
-## Bilan
+Des **tests manuels ponctuels** impromptus sont menés sur certains services pour prioriser et valider l’avancement de la mise en accessibilité.
 
-on s’engage à faire chaque année un Bilan annuel de nos engagements, et de ceux des SE concernées par le présent schéma pluriannuel.
+Nous accompagnons l'**audit de conformité** : nous nous assurons que ça soit planifié (et nous accompagnons sa mise en œuvre), comme détaillé dans la stratégie.
+
+Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression en regard de nos engagements.
+
+
