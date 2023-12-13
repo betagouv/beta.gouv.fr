@@ -11,7 +11,7 @@ contact: contact@impact.beta.gouv.fr
 dashlord_url: https://dashlord.incubateur.net/url/impact-beta-gouv-fr/
 accessibility_status: non conforme
 redirect_from:
-  - /startups/plateforme.impact
+  - /startups/plateforme.impact.html
 phases:
   - name: investigation
     start: 2022-01-02
