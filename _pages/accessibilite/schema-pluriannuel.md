@@ -16,6 +16,7 @@ Ce document présente la **politique d’accessibilité de beta.gouv.fr**, pour 
 
 beta.gouv.fr est à la fois une structure, un incubateur et un réseau d’incubateurs. Notre stratégie de mise en accessibilité varie selon le périmètre concerné :
 
+<span id="perimetre1"></span>
 ### Niveau 1 : Produits internes à la structure beta.gouv.fr
 
 beta.gouv.fr gère en interne les produits suivants :
@@ -27,18 +28,21 @@ Nous sommes aussi responsables de nos publications sur :
 - notre newsletter interne et externe
 - notre [documentation](https://doc.incubateur.net)
 
+<span id="perimetre2"></span>
 ### Niveau 2 : Produits incubés à l’Incubateur DINUM de beta.gouv.fr
 
 En plus des outils internes, nous incubons un petit nombre de services publics numériques.
 
 Début 2024, ce périmètre inclut 18 produits (7 en phase de construction, 10 en phase d’accélération, 1 en phase de transfert). La [liste des produits concernés](https://beta.gouv.fr/startups/?incubateur=dinum) est détaillée sur le site.
 
+<span id="perimetre3"></span>
 ### Niveau 3 : Produits incubés dans le réseau beta.gouv.fr
 
 Enfin, en tant que réseau d’incubateur, beta.gouv.fr accompagne de nombreux services publics, dans différents ministères. Spécificité de l’incubation, la liste de ces produits est mouvante, les produits étant incubés un temps limité.
 
 Début 2024, ce périmètre concerne 147 produits numériques. La [liste complète](https://beta.gouv.fr/startups/) est disponible sur le site.
 
+<span id="hors-perimetre"></span>
 ### Hors périmètre
 
 Les services numériques n’ayant pas rendu n’ayant pas (encore) d’URL accessible en dehors de l’équipe de conception ne sont pas concernés par ce schéma. Ainsi, concernant les produits incubés dans le réseau (niveau 2 et 3), nous considérons hors périmètres les services en investigation (ce ne sont encore pas des services numériques).
@@ -49,6 +53,7 @@ Par ailleurs, les services pérennisés ou en fin de partenariat sont aussi hors
 
 Pour construire des services accessibles, l’incubateur dispose des ressources suivantes :
 
+<span id="referent"></span>
 ### Référent accessibilité numérique
 
 L’élaboration, le suivi et la mise à jour de ce schéma pluriannuel sont placés sous la responsabilité de la personne référente en accessibilité numérique. Iel peut être contacté à l’adresse accessibilite@beta.gouv.fr.
@@ -61,6 +66,7 @@ Sa mission est :
 
 Pour réaliser ces missions, le référent accessibilité peut s’appuyer sur un pôle d’expertise.
 
+<span id="pni"></span>
 ### Pôle numérique inclusif
 
 beta.gouv.fr met à disposition un Pôle Numérique Inclusif. C’est un pôle d’expertise transverse qui s’adresse aux équipes à l'œuvre.
@@ -69,12 +75,14 @@ En 2023, le PNI comporte 3 personnes à temps partiel, expertes en accessibilit�
 
 Sa mission est détaillée dans les sections suivantes.
 
+<span id="aides"></span>
 ### Aides externes
 
 L’équipe interne a beta et les services (niveau 1, 2 et 3) peuvent faire appel aux ressources suivantes :
 - Les **marchés publics**, pour faire appel à des prestataires expert·es en accessibilité (pour faire des audits, ou pour construire les produits).
 - Le **fonds de financement d’accessibilité** de la DINUM.
 
+<span id="moyens"></span>
 ## Moyens techniques
 
 L’incubateur dispose et propose de plusieurs moyens techniques et de l’outillage pour gérer et tester l’accessibilité numérique :
@@ -91,6 +99,7 @@ Cette liste est vouée à évoluer pour compléter l’outillage de l’incubate
 
 Notre politique est de rendre les équipes **compétentes et autonomes en accessibilité numérique**.
 
+<span id="ressources"></span>
 ### Ressources humaines
 
 En terme de **recrutement**, chaque équipe de l’incubateur est autonome dans ses choix. Le Pôle Numérique Inclusif fournit cependant de la documentation et de l’aide au recrutement pour qualifier l’expertise a11y.
@@ -101,6 +110,7 @@ Le Pôle Numérique Inclusif mène aussi des **actions de formation** :
 
 Enfin, si nécessaire, les équipes peuvent faire appel à des **intervenants externes** pour accélérer la mise en accessibilité.
 
+<span id="strategie"></span>
 ### Stratégie de mise en oeuvre
 
 La particularité de l’incubateur est d’accompagner des services en construction. Ce qui implique une **approche progressive de l’accessibilité**.
@@ -143,6 +153,7 @@ Il propose aux équipes un **pré-audit** pour se préparer à l’audit de conf
 
 Le Pôle Numérique Inclusif garde un suivi des services ayant bénéficié d’un audit de conformité (et leur score).
 
+<span id="controle"></span>
 ### Contrôle et validation
 
 Pour mesurer l’efficacité de notre stratégie, nous mettons en place les modalités de contrôle suivantes :
@@ -159,4 +170,8 @@ Nous accompagnons l'**audit de conformité** : nous nous assurons que ça soit p
 
 Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression en regard de nos engagements.
 
+
+### Plan d'action
+
+*Plan en cours de rédaction*
 
