@@ -12,6 +12,7 @@ dashlord_url: https://dashlord.incubateur.net/url/impact-beta-gouv-fr/
 accessibility_status: non conforme
 redirect_from:
   - /startups/plateforme.impact.html
+  - /startups/portail.rse.html
 phases:
   - name: investigation
     start: 2022-01-02
