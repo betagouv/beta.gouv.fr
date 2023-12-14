@@ -1,6 +1,6 @@
 ---
 title: La bonne alternance
-mission: Faciliter la mise en relation entre jeunes, entreprises et CFA
+mission: Faciliter la mise en relation entre jeunes, entreprises et CFA test changement
 sponsors:
   - /organisations/menjs
   - /organisations/mtei
@@ -21,7 +21,6 @@ link: https://labonnealternance.apprentissage.beta.gouv.fr
 repository: https://github.com/mission-apprentissage/labonnealternance
 stats_url: https://labonnealternance.apprentissage.beta.gouv.fr/stats
 stats: true
-contact: labonnealternance@apprentissage.beta.gouv.fr
 redirect_from:
   - /startups/labonnealternance
 usertypes:
@@ -30,7 +29,6 @@ usertypes:
   - etablissement-scolaire
 dashlord_url: >-
   https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
-accessibility_status: non conforme
 ---
 [La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) est un service destiné à faciliter la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises. D’abord développé par Pôle emploi, le service La bonne alternance a été repris en 2020 par la Mission interministérielle pour l’apprentissage dans l’objectif de renforcer l'accompagnement des jeunes intéressés par l'apprentissage, ainsi que des CFA et recruteurs accueillant des apprentis.
 
