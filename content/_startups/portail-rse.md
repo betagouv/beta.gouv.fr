@@ -1,14 +1,13 @@
 ---
 title: Portail RSE
-mission: Le meilleur moyen pour les entreprises de déclarer leur performance
-  extra-financière
+mission: Un chemin unique pour connaître et répondre à ses obligations RSE
 sponsors:
   - /organisations/dge
 incubator: dinum
 link: https://portail-rse.beta.gouv.fr/
 repository: https://github.com/betagouv/impact
 contact: contact@impact.beta.gouv.fr
-dashlord_url: https://dashlord.incubateur.net/url/impact-beta-gouv-fr/
+dashlord_url: https://dashlord.incubateur.net/url/portail-rse-beta-gouv-fr/
 accessibility_status: non conforme
 redirect_from:
   - /startups/plateforme.impact.html
@@ -20,39 +19,49 @@ phases:
   - name: construction
     start: 2022-05-17
 ---
-Le portail RSE est un produit numérique en cours de construction ayant pour objectif d'aider toutes les entreprises à déclarer leur performance extra-financière. Il a été lancé en 2021 par la Secrétaire d’État à l’Économie, Sociale, Solidaire et Responsable (ESSR) et est maintenant piloté par la Direction Générale des Entreprises (DGE).
+Le Portail RSE est un produit numérique en cours de construction ayant pour objectif d’aider toutes les entreprises à se mettre en conformité avec leurs obligations en matière de RSE (Responsabilité Sociétale des Entreprises). Il a été lancé en 2021 par la Secrétaire d’État à l’Économie, Sociale, Solidaire et Responsable (ESSR) et est maintenant piloté par la Direction Générale des Entreprises (DGE).
 
 ## **Contexte**
 
-La nouvelle directive européenne dite « CSRD » (Corporate Sustainability Reporting Directive) s'appliquera en 2025 (sur l'exercice précédent). La CSRD va imposer progressivement aux entreprises de déclarer leur performance extra-financière. Les entreprises devront ainsi renseigner des indicateurs dans les thématiques E, S, G (Environnementales, Sociales, Gouvernance). Le portail RSE doit permettre aux entreprises de s’y préparer, puis de s’y conformer.
+Dans un contexte réglementaire qui se complexifie et qui oblige les entreprises à publier de plus en plus d’informations E,S,G (Environnement, Social et Gouvernance), comme c’est le cas avec la nouvelle directive européenne dite « CSRD » (Corporate Sustainability Reporting Directive), le Portail RSE vise à aider les entreprises **à connaître leurs obligations et à se mettre en conformité avec elles**.
 
 A la suite d’une phase d’investigation menée en 2022, en se basant sur les méthodologies agiles du programme beta.gouv, la proposition de valeur du projet s’est affinée avec des retours utilisateurs.
 
-Portail RSE devra répondre aux besoins de collecte, centralisation et transmission des indicateurs ESG, mentionnés par les réglementations nationales et européennes. Il conserve comme fil rouge la directive CSRD.
+Le Portail RSE permet aux entreprises :
+ - de connaître leurs obligations en matière de RSE
+ - d’identifier un chemin pour se mettre en conformité avec elles
 
 Le projet de start-up d’Etat « Portail RSE » est entré en phase de construction depuis juin 2022.
 
 ## **Description et vision produit**
 
-Afin d’embarquer un maximum d’usagers, le portail RSE propose automatiquement l’identification des réglementations extra-financières nationales (réparties entre plusieurs administrations) et européennes faisant l’objet d’une obligation de déclaration, de transmission ou de publication de la part des entreprises.
+Afin d’informer un maximum d’usagers, le Portail RSE permet aux entreprises grâce à l’espace simulation, de connaître les réglementations extra-financières nationales (réparties entre plusieurs administrations) et européennes faisant l’objet d’une obligation de déclaration, de transmission ou de publication de leur part.
 
-L’outil réutilise des informations déjà à la disposition de l’administration, pour réduire au maximum la charge de travail des entreprises, mettant ainsi en application le principe « Dites-le nous une fois ». L’utilisateur n'aura plus qu'à renseigner un nombre limité d’indicateurs.
+Les fiches techniques réglementaires viennent compléter cet espace simulation pour rendre accessible le contenu de chaque réglementation aux entreprises.
 
-A moyen terme, cette plateforme pourra évoluer pour devenir un espace de collecte des données de performance extra-financière des entreprises, dans le but d’alimenter le projet European Single Access Point (ESAP), point d’accès unique concentrant l’ensemble des données financières et extra-financières harmonisées des entreprises à l’échelle de l’Union Européenne.
+Le tableau de bord, permet aux entreprises inscrites sur la plateforme :
+ - de consulter le statut de leurs réglementations
+ - d’être redirigé vers 3 plateformes étatiques pour se mettre en conformité avec elles
+ - de remplir les indicateurs de la BDESE après configuration, les 10 thématiques de la BDESE peuvent être complétées. Une fois les champs remplis, un document récapitulatif des tous les indicateurs peut être téléchargé.
+
+A moyen terme, les développements à venir sont :
+ - de nouvelles réglementations vont être ajoutées à la plateforme,
+ - les indicateurs demandés dans le cadre de la CSRD vont être intégrés au tableau de bord
+ - Remontée automatique des données requises disponibles au sein de l’administration de façon à pré-remplir les informations demandées aux entreprises
+
+Cette plateforme pourra également évoluer pour devenir un espace de collecte des données de performance extra-financière des entreprises, dans le but d’alimenter le projet European Single Access Point (ESAP), point d’accès unique concentrant l’ensemble des données financières et extra-financières harmonisées des entreprises à l’échelle de l’Union Européenne.
 
 **Besoins utilisateurs identifiés**
 
 L’objectif du Portail RSE est de répondre à plusieurs besoins rencontrés par les entreprises. A savoir :
 
-_ Disposer dans un seul espace des réglementations extra-financières pour lesquelles les entreprises doivent se conformer ;
-
-_ Identifier un chemin pour satisfaire leurs obligations réglementaires extra-financières (publication, transmission ou déclaration) ;
-
-_ Avoir un espace déclaratif pour renseigner les informations demandées par la future directive CSRD.
+1. **INFORMER** : Identifier les réglementations de déclaration extra-financière qui les concernent
+2. **PILOTER** : Remplir leurs déclarations directement sur la plateforme ou en étant redirigées vers les plateformes adéquates
+3. **FACILITER** : Obtenir leurs déclarations pré-remplies avec les données déjà disponibles au sein de l’administration, dans la logique du « dites-le nous une fois »
 
 ## **Solution développée**
 
-Un produit numérique en ligne à destination des entreprises, pour centraliser et faciliter la réutilisation d’informations extra-financières. Les règlementations extra-financières — dont E, S et G — gagneront ainsi en visibilité auprès du monde économique et progresseront en efficacité.
+Un produit numérique en ligne à destination des entreprises, pour connaître et répondre à leurs obligations en matière de RSE (Responsabilité Sociétale des Entreprises).
 
 ## **Feuille de route**
 
