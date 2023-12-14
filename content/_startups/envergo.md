@@ -1,6 +1,7 @@
 ---
 title: EnvErgo
 mission: Améliorer la prise en compte de l'environnement dans les projets d'aménagement
+contact: contact@envergo.beta.gouv.fr
 sponsors:
   - /organisations/dgaln
 incubator: mtes
