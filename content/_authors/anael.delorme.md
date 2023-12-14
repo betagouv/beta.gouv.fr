@@ -11,7 +11,7 @@ missions:
 competences:
   - Administration Publique
 memberType: beta
-role: Expert métier data
+role: Co-intrapreneur
 startups:
   - aquaculteurs.marins
 ---
