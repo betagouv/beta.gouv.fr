@@ -1,5 +1,5 @@
 ---
-title: Aquapreneur.e.s
+title: Aquapreneur
 mission: Simplifier les déclarations de données aquacoles et développer la filière
 sponsors:
   - /organisations/mtes
