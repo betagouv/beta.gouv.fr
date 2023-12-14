@@ -5,7 +5,7 @@ domaine: Développement
 github: procorbin
 missions:
   - start: 2022-06-20
-    end: 2023-12-29
+    end: 2024-12-29
     status: admin
     employer: SNUM
 ---
