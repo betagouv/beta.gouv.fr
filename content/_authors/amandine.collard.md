@@ -6,6 +6,7 @@ missions:
     status: admin
 competences:
   - Administration Publique
+  - Métier
 memberType: autre
 fullname: Amandine Collard
 role: Intrapreneuse
