@@ -11,11 +11,11 @@ missions:
     employer: ""
 startups:
   - trackdechets
-  - aquaculteurs.marins
 previously:
   - hydrogene
   - carbure
   - potentiel
+  - aquaculteurs.marins
 competences:
   - Coaching
 ---
