@@ -5,7 +5,7 @@ owner: /organisations/ademe
 logo: incubateur-ademe.png
 website:
 github: https://github.com/incubateur-ademe
-contact: martin.regner@ademe.fr
+contact: accelerateurdelatransitionecologique@ademe.fr
 address: 155 bis Av. Pierre Brossolette, 92240 Montrouge
 highlighted_startups:
     - nosgestesclimat

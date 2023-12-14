@@ -1,26 +1,39 @@
 ---
-title: "Impact CO2 "
-mission: Le site internet qui vulgarise et valorise les données
-  environnementales de l'ADEME
+title: Impact CO2
+mission: >-
+  Le site internet qui vulgarise et valorise les données environnementales de l'ADEME
 sponsors:
   - /organisations/ademe
 incubator: ademe
-link: https://impactco2.fr/
-repository: https://github.com/datagir/impactco2
 contact: impactco2@ademe.fr
-dashlord_url: https://dashlord.incubateur.net/url/impactco2-fr/
+link: https://impactco2.fr/
+repository: https://github.com/incubateur-ademe/impactco2
 accessibility_status: partiellement conforme
-events: []
+dashlord_url: https://incubateur-ademe.github.io/dashlord/url/impactco2-fr/
+stats: true
+stats_url: https://impactco2.fr/stats
+budget_url: https://impactco2.fr/budget
+analyse_risques: true
+analyse_risques_url: https://github.com/incubateur-ademe/impactco2/blob/main/SECURITY.md
 phases:
   - name: construction
     start: 2021-02-01
   - name: acceleration
     start: 2022-09-01
   - name: success
-    start: 2022-10-01
+    start: 2022-06-13
+    comment: Spin-off de Datagir
+techno:
+    - Next.js
+    - React
+    - TypeScript
+    - public.codes
+    - Prisma
+usertypes:
+  - particulier
+  - entreprise
+  - collectivite-territoriale
 ---
-![](/img/netlifycms/capture.d.e.cran.2023-06-09.a.23.07.15.png)
-
 ## Problème 👀
 
 L’environnement est un **sujet fort et complexe**, de plus en plus adressé sur la scène publique et médiatique, au risque de se retrouver parfois noyé sous un flot d’actualités qui ne facilite pas sa bonne compréhension par le grand public.
@@ -37,29 +50,29 @@ Cette (re)mise en perspective des chiffres dans leur contexte, et leur intelligi
 
 ## Solution 💡
 
-[impactCO2.fr](http://impactco2.fr/) ambitionne d'être une **bibliothèque de ressources de référence** pour les acteurs qui sont à la recherche de contenus informatifs didactiques et fiabilisés sur l’empreinte carbone : 
+[impactCO2.fr](http://impactco2.fr/) ambitionne d'être une **bibliothèque de ressources de référence** pour les acteurs qui sont à la recherche de contenus informatifs didactiques et fiabilisés sur l’empreinte carbone :
 
 * **Médias** (grand public, spécialisés,…) ;
 * **Entreprises** (pôles RSE, directions de l’engagement, startups *Green Tech*,…) ;
 * **Associations** (festivals culturels, challenges citoyens,…)
 * **Pouvoirs publics** (Secrétariat général à la Planification écologique via France Nation Verte,…).
 
-Les ressources disponibles sur Impact CO2 se présentent sous différentes formes : **simulateurs, comparateurs, graphiques, infographies**, etc. 
+Les ressources disponibles sur Impact CO2 se présentent sous différentes formes : **simulateurs, comparateurs, graphiques, infographies**, etc.
 
 Nos objectifs pour nos relais sont :
 
 * **Vulgariser l’information environnementale** et communiquer les bons ordres de grandeur relatifs à l’empreinte carbone ;
 * **Tracer, enrichir et valoriser les données sources utilisées** afin de garantir la validité des calculs et leur mise à disposition ;
-* **Outiller et fidéliser nos réutilisateurs** avec des ressources personnalisables sur un large panel de thématiques (Alimentation, Transport, Numérique, Chauffage, etc.) ; 
+* **Outiller et fidéliser nos réutilisateurs** avec des ressources personnalisables sur un large panel de thématiques (Alimentation, Transport, Numérique, Chauffage, etc.) ;
 * **Faciliter la diffusion et/ou l’intégration de nos ressources** à de nouveaux contenus de sensibilisation.
 
 Les données sur lesquelles sont basées les ressources sont en *open data* : [jeux de données ouverts de l'ADEME](https://data.ademe.fr/), [](https://librairie.ademe.fr/)[études de l'ADEME](https://librairie.ademe.fr/), [base Empreinte](https://base-empreinte.ademe.fr/) et [base Agribalyse](https://agribalyse.ademe.fr/). Le code source du site et la méthodologie de calcul sont entièrement open source et accessibles sur notre [repo GitHub](https://github.com/datagir/impactco2).
 
 ## Stratégie 📈
 
-[](http://impactco2.fr/)Impact CO2 rassemble aujourd'hui **près d’1 000 000 visites** depuis son lancement en février 2021, et bénéficie d’une visibilité grandissante auprès des acteurs publics et privés. L'impact recherché est donc d’accroître l'utilisation et le partage du site et des contenus proposés, ceci afin d’**accélérer la diffusion de l'information environnementale pour nos relais et le grand public** (approche B2B2C). 
+[](http://impactco2.fr/)Impact CO2 rassemble aujourd'hui **près d’1 000 000 visites** depuis son lancement en février 2021, et bénéficie d’une visibilité grandissante auprès des acteurs publics et privés. L'impact recherché est donc d’accroître l'utilisation et le partage du site et des contenus proposés, ceci afin d’**accélérer la diffusion de l'information environnementale pour nos relais et le grand public** (approche B2B2C).
 
-L'approche est simple : 
+L'approche est simple :
 
 * **Développer des kits de diffusion** à destination des cibles prioritaires pour faciliter la prise en main et la diffusion des ressources disponibles sur le site (partages, téléchargements, *iframe*, etc.) ;
 * **Entrer en contact avec des journalistes de médias grand public et spécialisés** à l’audience importante, et être à l’écoute de leurs besoins d’outillage au regard de leur calendrier éditorial ;
@@ -103,6 +116,6 @@ Impact CO2 est un service numérique conçu selon l’**approche Startup d’Ét
   * Nombre d’impressions et de partages des posts ;
   * Nombre de mentions d’Impact CO2.
 
-Aujourd'hui, une grande partie de ces métriques d’usage et d’impact sont suivies grâce aux **outils Matomo et Hotjar**, et une partie d’entre elles est déjà disponible sur la [page de statistiques de Datagir](https://datagir.ademe.fr/stats/) (menu déroulant “Impact CO2”). Suite à la fin de Datagir et sa séparation en 2 Startups d'État distinctes, nous souhaitons refondre cette page existante et l'intégrer au site Impact CO2. 
+Aujourd'hui, une grande partie de ces métriques d’usage et d’impact sont suivies grâce aux **outils Matomo et Hotjar**, et une partie d’entre elles est déjà disponible sur la [page de statistiques de Datagir](https://datagir.ademe.fr/stats/) (menu déroulant “Impact CO2”). Suite à la fin de Datagir et sa séparation en 2 Startups d'État distinctes, nous souhaitons refondre cette page existante et l'intégrer au site Impact CO2.
 
 Un **comité d'investissement**, instance de pilotage principal d'un produit numérique dans le programme beta.gouv.fr, aura lieu tous les 6 mois pour faire le point sur l'impact obtenu par l'équipe et arbitrer sur les objectifs et les investissements consentis pour la poursuite du service.

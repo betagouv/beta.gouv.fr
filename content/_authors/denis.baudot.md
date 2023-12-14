@@ -8,7 +8,7 @@ missions:
     end: 2024-03-14
     status: admin
     employer: DINUM
-startups:
+previously:
   - nosgestesclimat
 badges:
   - segur

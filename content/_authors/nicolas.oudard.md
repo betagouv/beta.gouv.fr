@@ -11,7 +11,7 @@ missions:
     employer: Malt
 startups:
   - apilos
-  - quefairedemesobjets
+  - longuevieauxobjets
 previously:
   - sppnaut
 badges:

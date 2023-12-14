@@ -7,7 +7,7 @@ missions:
   - start: 2023-07-20
     end: 2023-12-31
     status: independent
-startups:
+previously:
   - nosgestesclimat
 memberType: beta
 ---
