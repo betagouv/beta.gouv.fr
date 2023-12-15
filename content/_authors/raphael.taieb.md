@@ -10,7 +10,7 @@ missions:
     employer: Pathtech
 startups:
   - mobilic
-  - rafraichir.les.villes
+  - plusfraichemaville
 badges:
   - segur
 ---

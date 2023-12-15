@@ -11,7 +11,5 @@ missions:
 startups:
   - nosgestesclimat
 memberType: beta
-previously:
-  - nosgestesclimat
 ---
 

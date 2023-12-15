@@ -46,7 +46,7 @@ competences:
   - "Développement Backend"
 ---
 
-CTO Incubateur de l'ADEME  
-ex-Coach Tech Incubateur @SocialGouv  
-ex-CTO @Simbel  
+CTO Incubateur de l'ADEME | <br/>
+ex-Coach Tech Incubateur @SocialGouv | <br/>
+ex-CTO @Simbel | <br/>
 [Paris Deno](https://deno.paris) organizer

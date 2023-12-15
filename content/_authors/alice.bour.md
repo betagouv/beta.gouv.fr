@@ -8,8 +8,8 @@ missions:
     status: independent
     employer: ''
 startups:
-  - rafraichir.les.villes
+  - plusfraichemaville
 memberType: beta
 ---
 
-Rédactrice 
+Rédactrice

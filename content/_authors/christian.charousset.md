@@ -13,7 +13,7 @@ previously:
 badges:
   - segur
 startups:
-  - quefairedemesobjets
+  - longuevieauxobjets
 ---
 
 

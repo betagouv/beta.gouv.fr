@@ -1,22 +1,25 @@
 ---
 title: Carte Verte
-mission: Comment verdir les habitudes de consommation
+mission: >-
+  Comment verdir les habitudes de consommation
 sponsors:
   - /organisations/ademe
 incubator: ademe
 contact: carte-verte@beta.gouv.fr
+link: https://carte-verte.beta.gouv.fr
+repository: https://github.com/incubateur-ademe/carte-verte
 accessibility_status: non conforme
 dashlord_url: https://incubateur-ademe.github.io/dashlord/url/carte-verte-beta-gouv-fr/
+stats: true
+stats_url: https://carte-verte.beta.gouv.fr/stats
+budget_url: https://carte-verte.beta.gouv.fr/budget
+analyse_risques: true
+analyse_risques_url: https://github.com/incubateur-ademe/carte-verte/blob/main/SECURITY.md
 phases:
   - name: investigation
     start: 2023-01-03
   - name: construction
     start: 2023-10-13
-link: https://carte-verte.beta.gouv.fr
-repository: https://github.com/incubateur-ademe/carte-verte
-stats: true
-stats_url: https://carte-verte.beta.gouv.fr/stats
-budget_url: https://carte-verte.beta.gouv.fr/budget
 techno:
     - Next.js
     - React
@@ -25,8 +28,8 @@ techno:
 usertypes:
   - particulier
   - entreprise
-analyse_risques: true
-analyse_risques_url: https://github.com/incubateur-ademe/carte-verte/blob/main/SECURITY.md
+redirect_from:
+  - /startups/eco-euro
 ---
 ## Contexte
 Carte Verte s’inscrit dans un objectif de politique publique de réduction de l’empreinte environnementale des français et pose le constat suivant : l’empreinte environnementale de la consommation (“je mange”, “j’achète”) des citoyens est trop élevée et peu de dispositifs existent pour l’abaisser (contrairement aux champs des transports et du logement).
