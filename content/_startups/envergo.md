@@ -1,15 +1,16 @@
 ---
 title: EnvErgo
 mission: Améliorer la prise en compte de l'environnement dans les projets d'aménagement
-contact: contact@envergo.beta.gouv.fr
 sponsors:
   - /organisations/dgaln
 incubator: mtes
 link: https://envergo.beta.gouv.fr
 repository: https://github.com/MTES-MCT/envergo
+contact: contact@envergo.beta.gouv.fr
 usertypes:
   - collectivite-territoriale
   - entreprise
+stats_url: https://envergo.beta.gouv.fr/stats
 stats: true
 events: []
 phases:
@@ -23,9 +24,8 @@ phases:
 fast:
   promotion: 13
   montant: 200000
-stats_url: https://envergo.beta.gouv.fr/stats
 ---
-![](/img/netlifycms/screenshot.2022-06-22.at.12.46.58.png)
+![](/img/netlifycms/envergo.jpg)
 
 ## Le problème à résoudre
 
