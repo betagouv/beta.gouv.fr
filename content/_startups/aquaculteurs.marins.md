@@ -1,6 +1,6 @@
 ---
 title: Aquapreneur
-mission: Simplifier les déclarations de données aquacoles et développer la filière
+mission: Le portail qui accompagne les entrepreneur.e.s aquacoles
 sponsors:
   - /organisations/mtes
 incubator: mtes
@@ -14,7 +14,7 @@ phases:
     end: 2023-09-27
   - name: construction
     start: 2023-09-27
-    comment: Agrandissement de l'équipe projet
+    comment: Développement du produit minimum viable test
 ---
 ## Contexte
 
