@@ -12,7 +12,7 @@ previously:
   - territoires-en-transitions
   - mon-entreprise
   - e-inspé
-  - rafraichir.les.villes
+  - plusfraichemaville
 competences:
   - Coaching
 teams:

@@ -15,7 +15,6 @@ missions:
 previously:
     - mon-entreprise
     - comobi
-startups:
     - datagir
     - nosgestesclimat
 ---

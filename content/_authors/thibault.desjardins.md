@@ -4,10 +4,10 @@ domaine: Déploiement
 role: Chargé de déploiement
 github: Tibo-aplus
 missions:
-  - employer: octo
-    end: 2023-12-31
-    start: 2019-10-01
+  - start: 2019-10-01
+    end: 2026-12-31
     status: independent
+    employer: octo
 startups:
   - histologe
 previously:

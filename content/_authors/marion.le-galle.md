@@ -8,10 +8,10 @@ missions:
     status: admin
     employer: pole-emploi
 startups:
-    - clara
-    - La bonne place
+    - Clara
+    - La Bonne Place
     - Pôle express
-    - Mes aides à l'embauhe
+    - Mes aides à l'embauche
 ---
 
 Agent à la DSI de Nantes - Incubateur Startup Pôle emploi

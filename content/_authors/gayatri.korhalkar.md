@@ -2,6 +2,7 @@
 fullname: Gayatri Korhalkar
 role: Coach
 domaine: Coaching
+link : https://www.linkedin.com/in/gayatri-korhalkar-4796164/
 missions:
   - start: 2021-01-11
     end: 2021-06-11
@@ -11,9 +12,14 @@ missions:
     end: 2024-04-29
     status: independent
     employer: UT7
+  - start: 2023-11-22
+    end: 2024-11-22
+    status: independent
+    employer: 
 startups:
   - tout-est-permis
   - inventaireoeuvres
+  - aquaculteurs.marins
 badges:
   - segur
 ---

@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Ademe
 startups:
-  - rafraichir.les.villes
+  - plusfraichemaville
 memberType: beta
 ---
 

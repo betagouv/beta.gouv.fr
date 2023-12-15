@@ -12,7 +12,7 @@ missions:
 incubator: mtes
 startups:
   - potentiel
-  - quefairedemesobjets
+  - longuevieauxobjets
 previously:
   - cadransolaire
 badges:

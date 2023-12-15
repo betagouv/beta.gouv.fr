@@ -2,7 +2,7 @@
 fullname: Annaëlle Garcia
 role: Product manager
 domaine: Déploiement
-github: AnnaelleGarcia
+github: Annaelle24
 missions:
   - start: 2023-05-03
     end: 2024-03-29
