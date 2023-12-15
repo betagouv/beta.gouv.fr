@@ -5,7 +5,7 @@ domaine: Animation
 github: martinregner
 missions:
   - start: 2019-01-10
-    end: 2023-12-31
+    end: 2024-12-31
     status: service
     employer: ''
 teams:
