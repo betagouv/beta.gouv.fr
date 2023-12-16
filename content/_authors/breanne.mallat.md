@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: numa
   - start: 2022-03-14
-    end: 2023-12-31
+    end: 2024-01-13
     employer: Dinum
     status: admin
 startups:
