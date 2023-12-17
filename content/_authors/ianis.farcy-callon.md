@@ -1,15 +1,16 @@
 ---
 fullname: Ianis Farcy-Callon
-role: Opération de validation et support
 domaine: Autre
+role: Opération de validation et support
 missions:
   - start: 2023-06-21
-    end: 2024-01-01
+    end: 2024-03-31
     status: independent
-    employer: ''
+    employer: ""
 startups:
   - locatio
 memberType: beta
+competences:
+  - Administration Publique
 ---
-
-Opérateur de validation et support chez DossierFacile, musicien en parallèle.
+Opérateur de validation et support chez DossierFacile.
