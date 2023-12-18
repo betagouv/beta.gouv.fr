@@ -5,7 +5,7 @@ role: Coach & Designer de service
 link: https://www.linkedin.com/in/mael-inizan/
 missions:
   - start: 2021-01-11
-    end: 2023-12-31
+    end: 2026-09-30
     status: independent
     employer: NUMA
 startups:
