@@ -5,6 +5,7 @@ sponsors:
   - /organisations/dgitm
   - /organisations/ademe
   - /organisations/dinum
+  - /organisations/idfm
 incubator: mtes
 link: https://covoiturage.beta.gouv.fr/
 repository: https://github.com/betagouv/preuve-covoiturage
