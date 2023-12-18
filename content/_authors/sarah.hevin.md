@@ -5,7 +5,7 @@ domaine: Design
 github: sarahhevin
 missions:
   - start: 2021-07-01
-    end: 2023-12-31
+    end: 2024-01-31
     status: independent
     employer: Benext
 startups:
