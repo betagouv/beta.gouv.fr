@@ -6,8 +6,9 @@ link: https://www.linkedin.com/in/cl%C3%A9ment-mandron-6346a785/
 github: clementmandron
 missions:
   - start: 2023-09-24
-    end: 2023-12-31
+    end: 2024-01-31
     status: service
+    employer: ''
 startups:
   - sparte
 memberType: beta
