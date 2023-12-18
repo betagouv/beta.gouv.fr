@@ -35,7 +35,7 @@ layout: default
                     {% assign startups = site.startups | where_phase: phase.status %}
                     {% for startup in startups %}
                         <tr>
-                            <td>{{ startup.title }}</td>
+                            <td><a href="/startup/{{ startup.id }}">{{ startup.title }}</a></td>
                             <td>{{ startup.mission }}</td>
                             <td>{{ phase.label }}</td>
 
