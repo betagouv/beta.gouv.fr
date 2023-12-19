@@ -2,7 +2,7 @@
 domaine: Coaching
 missions:
   - start: 2023-09-08
-    end: 2023-12-31
+    end: 2024-05-31
     status: independent
     employer: Numa
 competences:
