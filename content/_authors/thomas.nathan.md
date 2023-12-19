@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: DINUM
 startups:
-  - locatio
+  - recosante
 badges:
   - segur
 ---
