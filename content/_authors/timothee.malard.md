@@ -9,7 +9,7 @@ missions:
     status: service
     employer: LeGratin
 startups:
-  - egalite.professionnelle
+  - archifiltre
 memberType: beta
 ---
 
