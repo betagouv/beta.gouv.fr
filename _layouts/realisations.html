@@ -65,12 +65,23 @@ layout: default
                 </div>
                 <div class="fr-grid-row fr-grid-row--gutters fr-pt-3w">
                     <!-- Only take a few in case more are defined -->
-                    {% assign chosen_startups_ids = site.data.startups.main_highlighted_startups | sample: 3 %}
+                    {% assign chosen_startups_ids = site.data.startups.main_highlighted_startups | sample: 20 %}
                     {% for startup_id in chosen_startups_ids %}
                         {% capture startup_full_id %}/startups/{{ startup_id }}{% endcapture %}
                         {% assign startup = site.startups | where: "id", startup_full_id | first %}
-                        <div class="fr-col-12 fr-col-md-4 fr-mb-2w">
-                            {% include card-startup.html startup = startup %}
+                        <div class="fr-col-12 fr-col-md-3 fr-mb-2w">
+                            <!-- {% include card-startup.html startup = startup %} -->
+                              <div class="fr-card fr-card--grey fr-enlarge-link fr-card--sm" >
+                                <div class="fr-card__body">
+                                  <h4 class="fr-card__title">
+                                    <a class="fr-card__link" href="{{ startup.url }}" >{{ startup.title | strip_html }}</a>
+                                  </h4>
+                                  <p class="fr-card__desc">{{ startup.mission | strip_html }}</p>
+                                </div>
+                                <div class="fr-card__img">
+                                  {% include screenshot.html startup=startup %}
+                                </div>
+                              </div>
                         </div>
                     {% endfor %}
                 </div>
