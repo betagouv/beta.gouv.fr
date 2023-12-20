@@ -4,8 +4,9 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-08-29
-    end: 2024-01-15
+    end: 2024-03-15
     status: independent
+    employer: ''
 startups:
   - données-et-territoires
 memberType: beta
