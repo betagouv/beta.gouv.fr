@@ -18,30 +18,25 @@ Ce document présente la **politique d’accessibilité de beta.gouv.fr**, pour 
 beta.gouv.fr est à la fois une structure, un incubateur et un réseau d’incubateurs. Notre stratégie de mise en accessibilité varie selon le périmètre concerné :
 
 <span id="perimetre1"></span>
-### Niveau 1 : Produits internes à la structure beta.gouv.fr
+### Produits internes à la structure beta.gouv.fr
 
 beta.gouv.fr gère en interne les produits suivants :
 - Le **site beta.gouv.fr**
 - L’**espace membre** (intranet)
 
-Nous sommes aussi responsables de nos publications sur :
-- les réseaux sociaux (LinkedIn, Mastodon et Twitter)
-- notre newsletter interne et externe
-- notre [documentation](https://doc.incubateur.net)
+Nous sommes aussi responsables de nos publications sur les réseaux sociaux (LinkedIn), dans notre newsletter et sur notre [espace de documentation](https://doc.incubateur.net).
 
 <span id="perimetre2"></span>
-### Niveau 2 : Produits incubés à l’Incubateur DINUM de beta.gouv.fr
+### Produits incubés à l’Incubateur DINUM de beta.gouv.fr
 
-En plus des outils internes, nous incubons un petit nombre de services publics numériques.
-
-Début 2024, ce périmètre inclut 18 produits (7 en phase de construction, 10 en phase d’accélération, 1 en phase de transfert). La [liste des produits concernés](https://beta.gouv.fr/startups/?incubateur=dinum) est détaillée sur le site.
+En plus des outils internes, nous incubons un petit nombre de services publics numériques. La [liste des produits concernés](https://beta.gouv.fr/startups/?incubateur=dinum) est détaillée sur le site. Début 2024, ce périmètre concerne environ 20 produits.
 
 <span id="perimetre3"></span>
-### Niveau 3 : Produits incubés dans le réseau beta.gouv.fr
+### Produits incubés dans le réseau beta.gouv.fr
 
-Enfin, en tant que réseau d’incubateur, beta.gouv.fr accompagne de nombreux services publics, dans différents ministères. Spécificité de l’incubation, la liste de ces produits est mouvante, les produits étant incubés un temps limité.
+Enfin, en tant que réseau d’incubateur, beta.gouv.fr accompagne de nombreux services publics, dans différents ministères. Spécificité de l’incubation, la liste de ces produits est mouvante, les produits étant incubés un temps limité. La [liste complète](https://beta.gouv.fr/startups/) est disponible sur le site.
 
-Début 2024, ce périmètre concerne 147 produits numériques. La [liste complète](https://beta.gouv.fr/startups/) est disponible sur le site.
+Début 2024, ce périmètre concerne environ 150 produits numériques, répartis dans plusieurs incubateurs ministériels.
 
 <span id="hors-perimetre"></span>
 ### Hors périmètre
