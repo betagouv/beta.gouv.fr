@@ -8,6 +8,7 @@ hero_title: "Schéma pluriannuel 2024 - 2027"
 
 *Date de publication : 04/01/2024*
 
+<span id="intro"></span>
 ## Introduction
 
 Ce document présente la **politique d’accessibilité de beta.gouv.fr**, pour les années 2024 à 2027.
@@ -170,7 +171,12 @@ Nous accompagnons l'**audit de conformité** : nous nous assurons que ça soit p
 
 Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression en regard de nos engagements.
 
+<span id="bilan-2023"></span>
+### Bilan 2023
 
+*Bilan en cours de rédaction*
+
+<span id="plan-2024"></span>
 ### Plan d'action
 
 *Plan en cours de rédaction*
