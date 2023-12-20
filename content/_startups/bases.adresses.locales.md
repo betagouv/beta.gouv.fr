@@ -20,6 +20,7 @@ phases:
 fast:
   promotion: 12
   montant: 270000
+stats_url: https://adresse.data.gouv.fr/deploiement-bal
 ---
 ## Pas d'adresse, pas de chocolat
 
