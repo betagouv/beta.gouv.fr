@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/arnaulttrac/
 missions:
   - start: 2024-01-02
-    end: 2024-03-31
+    end: 2024-05-31
     status: service
     employer: Malt
 startups:
