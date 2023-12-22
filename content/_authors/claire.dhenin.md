@@ -6,8 +6,9 @@ link: https://claire.dhenin.net/
 github: cdhenin
 missions:
   - start: 2023-07-04
-    end: 2023-12-31
+    end: 2024-07-31
     status: independent
+    employer: ''
 startups:
   - benefriches
 memberType: beta
