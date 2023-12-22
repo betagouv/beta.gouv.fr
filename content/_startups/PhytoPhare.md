@@ -3,7 +3,6 @@ title: PhytoPhare
 mission: Notifier chaque agriculteurices dès qu'un changement réglementaire advient sur les produits phytopharmaceutiques qu'il ou elle utilise, et uniquement ceux-là. 
 sponsors: 
   - /organisations/dgal
-  - /organisations/draff occittanie
 incubator: dinum
 phases:
     - name: investigation
