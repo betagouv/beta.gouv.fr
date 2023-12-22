@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: ''
 startups:
-  - espece.protegees
+  - especes.protegees
 memberType: beta
 ---
 
