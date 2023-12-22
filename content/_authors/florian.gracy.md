@@ -5,12 +5,12 @@ role: UI/UX designer
 link: http://www.florian-gracy.com/
 missions:
   - start: 2022-01-26
-    end: 2023-12-31
+    end: 2024-03-31
     status: independent
     employer: ''
 startups:
   - cartographie.nationale
-previously :
+previously:
   - conseiller-numerique
 badges:
   - segur
