@@ -11,7 +11,7 @@ missions:
 startups:
   - urbanvitaliz
   - recoco
-  - espece.protegees
+  - especes.protegees
 previously:
   - transport
   - cartobio
