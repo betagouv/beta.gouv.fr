@@ -9,12 +9,13 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-07-01
+    end: 2023-11-27
   - start: 2024-01-02
     name: construction
 ---
 ## Contexte
 
-En France, 10.000 espèces végétales et animales sont classées comme “protégées”. Il est interdit de nuire à ces espèces, à leur reproduction, ou de dégrader leurs habitats. Seuls certains projets remplissant des critères précis d’intérêt public majeur peuvent prétendre à une dérogation, tout en devant s’inscrire dans la doctrine Eviter-Réduire-Compenser (ERC).
+En France, 10.000 espèces végétales et animales sont classées comme “protégées”. Il est interdit de nuire à ces espèces ou de dégrader leurs habitats de repos ou de reproduction. Toutefois, des dérogations à ce régime strict d’interdiction existent, pour des projets remplissant des critères précis, tout en s’inscrivant dans la séquence Eviter-Réduire-Compenser (ERC).
 
 Environ 1.200 dérogations “Espèces protégées” sont ainsi accordées en France chaque année, par environ 140 instructeurs répartis dans les DREAL ou DDT du territoire. Cette procédure est longue (de 6 mois à plusieurs années entre les premiers échanges et l’arrêté de dérogation) et implique de nombreuses étapes et acteurs tiers. 
 
@@ -37,7 +38,9 @@ Ses utilisateurs principaux sont les instructeurs et instructrices Espèces Prot
 Avant d'inciter les instructeurs à réaliser plus de contrôles, il est indispensable de simplifier et automatiser ce qui peut l'être, afin de leur libérer du temps et de la disponibilité d'esprit.
 
 - Le premier enjeu est donc de remplacer les quelques fonctionnalités pour lesquelles Onagre est aujourd'hui incontournable, afin d'embarquer les instructeurs sans générer de double saisie supplémentaire : création d'un dossier, rapportage européen, envoi de données à GeoMCE.
-- Le produit pourra à partir de là embarquer les autres acteurs de la procédure, remplacer les outils de pilotage "maison" sur chaque territoire.
+- Le produit pourra, à partir de là, embarquer les autres acteurs de la procédure et remplacer les outils de pilotage "maison" sur chaque territoire.
 - A terme, de nombreuses fonctionnalités sont envisagées afin de faciliter davantage la gestion de la procédure.
 
-Dès lors que le produit sera adopté par les services instructeurs car leur apportant suffisamment de valeur au quotidien, l'objectif sera qu'il facilite aussi l'organisation, la planification et le suivi des contrôles. 
+Dès lors que le produit sera adopté par les services instructeurs, car leur apportant suffisamment de valeur au quotidien, l'objectif sera qu'il facilite aussi l'organisation, la planification et le suivi des contrôles. 
+
+
