@@ -13,12 +13,12 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     end: 2021-12-31
     status: independent
     employer: Scopyleft
-  - start: 2023-12-20 # espece.protegees
+  - start: 2023-12-20 # especes.protegees
     end: 2024-12-31
     status: independent
     employer: ''
 startups: # ta ou tes startups actuelles
-    - espece.protegees
+    - especes.protegees
 previously: # ta ou tes anciennes startups
     - comobi
     - urbanvitaliz
