@@ -1,7 +1,7 @@
 ---
 mission: Améliorer la préservation des espèces protégées
 incubator: mtes
-title: Espèce protégées
+title: Espèces protégées
 contact: vanessa.rispal@developpement-durable.gouv.fr
 accessibility_status: non conforme
 sponsors:
