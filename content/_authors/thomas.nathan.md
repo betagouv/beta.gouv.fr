@@ -12,6 +12,8 @@ startups:
   - recosante
 badges:
   - segur
+previously:
+  - locatio
 ---
 
 
