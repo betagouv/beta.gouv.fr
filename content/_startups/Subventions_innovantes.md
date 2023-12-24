@@ -10,6 +10,9 @@ usertypes:
 phases:
   - name: investigation
     start: 2023-05-31
+    end: 2023-09-01
+  - name: alumni
+    start: 2023-09-01
 ---
 # Renforcer la place des PME et l'impact dans les subventions de l'Etat
 
@@ -64,3 +67,7 @@ Expérimenter une nouvelle manière de subventionner en s’inspirant du modèle
 
 - Les objectifs d’impact sont significativement mieux explicités par les porteurs de projets
 - Les PME bénéficiant de l’accompagnement DINUM ont un impact accru de 30%, à échéance 6 et 18 mois
+
+## Investigation achevée
+
+Cette investigation n'a finalement pas abouti faute d'un niveau de sponsorship adéquat.
