@@ -7,6 +7,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2021-02-01
+  - name: construction
+    start: 2021-09-01
 link: https://devoirs-faits-communaute.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12/tree/devoirs-faits
 stats: false
