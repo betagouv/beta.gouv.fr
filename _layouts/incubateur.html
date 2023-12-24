@@ -93,9 +93,9 @@ layout: default
                 </div>
                 <div class="fr-col-12 fr-col-sm-4">
                     {% if inProgressStartupsCount > 1 %}
-                        {% capture title %}{{ inProgressStartupsCount }} services en construction{% endcapture %}
+                        {% capture title %}{{ inProgressStartupsCount }} services en incubation{% endcapture %}
                     {% else %}
-                        {% capture title %}{{ inProgressStartupsCount }} service en construction{% endcapture %}
+                        {% capture title %}{{ inProgressStartupsCount }} service en incubation{% endcapture %}
                     {% endif %}
                     {% include card-highlight.html
                         title=title
