@@ -8,6 +8,8 @@ contact: camille.andrieu@ccomptes.fr
 phases:
   - name: investigation
     start: 2021-09-03
+  - name: alumni
+    start: 2022-03-30
 ---
 # Contexte
 La Cour des comptes a pour mission principale de s'assurer du bon emploi de l'argent public et d'en informer les citoyens. Juridiction indépendante, elle se situe à équidistance du Parlement et du Gouvernement, qu’elle assiste l’un et l’autre, conformément à l'article 47-2 de la Constitution.
