@@ -7,6 +7,8 @@ incubator: dinum
 phases:
     - name: investigation
       start: 2023-06-02
+    - name: construction
+      start: 2023-11-01
 stats: false
 contact: jennifer.stephan@beta.gouv.fr
 usertypes:
