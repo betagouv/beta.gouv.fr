@@ -1,6 +1,6 @@
 ---
 fullname: Maxime Amieux
-role: Chargé de support
+role: Support / Déploiement / Communication
 domaine: Déploiement
 missions:
   - start: 2023-05-09
