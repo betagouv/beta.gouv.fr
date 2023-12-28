@@ -4,7 +4,7 @@ role: UX Researcher
 domaine: Design
 missions:
   - start: 2023-03-06
-    end: 2023-12-30
+    end: 2024-02-01
     status: independent
     employer: Malt
 startups:
