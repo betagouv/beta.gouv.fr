@@ -7,12 +7,11 @@ link: https://ut7.fr/
 github: raphaelpierquin
 missions:
   - start: 2018-03-13
-    end: 2023-12-31
+    end: 2024-07-01
     status: service
     employer: ut7
 startups:
   - l-immersion-facile
-  - sppnaut
   - données-et-territoires
 previously:
   - zam
@@ -20,6 +19,6 @@ previously:
   - visam
   - culture_amateurs
   - dumas
-
+  - sppnaut
 ---
 Coach des startups, des papillons et des abeilles aux pieds libres.
