@@ -5,7 +5,7 @@ domaine: Produit
 link: https://lucycoaching.co/
 missions:
   - start: 2023-04-12
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
     employer: ''
 memberType: autre
