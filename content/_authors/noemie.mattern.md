@@ -4,8 +4,9 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-04-12
-    end: 2023-12-31
+    end: 2024-02-29
     status: independent
+    employer: ''
 startups:
   - deveco
 memberType: beta
