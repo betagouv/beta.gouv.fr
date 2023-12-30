@@ -4,7 +4,7 @@ role: operateur validation
 domaine: Autre
 missions:
   - start: 2023-07-20
-    end: 2024-01-20
+    end: 2024-07-20
     status: independent
     employer: dinum
 startups:
