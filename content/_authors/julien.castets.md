@@ -5,9 +5,9 @@ role: Développeur
 link: https://github.com/brmzkw
 missions:
   - start: 2019-10-16
-    end: 2024-02-01
+    end: 2026-02-01
     status: independent
-    employer: Codeurs en Liberté
+    employer: Scopopop
 startups:
   - mesads
 competences:
