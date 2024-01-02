@@ -4,13 +4,12 @@ role: Intrapreneuse
 domaine: Intraprenariat
 missions:
   - start: 2022-05-25
-    end: 2024-01-01
+    end: 2024-04-01
     status: admin
     employer: DGITM
 startups:
   - le-taxi
   - mesads
-
 ---
 
 
