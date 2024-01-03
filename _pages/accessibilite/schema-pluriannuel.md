@@ -185,12 +185,12 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
     <tbody>
         <tr>
             <td colspan="3">
-                <p><em>Pour tous les périmètres</em></p>
+                <p><strong>Pour tous les périmètres</strong></p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Mettre en place des formations aux tests manuels</strong></p>
+                <p>Mettre en place des formations aux tests manuels</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -203,7 +203,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Sensibiliser les nouvelles recrues aux enjeux de l'accessibilité numérique</strong></p>
+                <p>Sensibiliser les nouvelles recrues aux enjeux de l'accessibilité numérique</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -215,7 +215,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Mise en place d'un processus de contact&nbsp;</strong></p>
+                <p>Mise en place d'un processus de contact&nbsp;</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -227,7 +227,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Accompagner sur mesure les services qui en font la demande</strong></p>
+                <p>Accompagner sur mesure les services qui en font la demande</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -239,7 +239,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Animer la communauté d'expertise</strong></p>
+                <p>Animer la communauté d'expertise</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -253,7 +253,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Animer une permanence hebdomadaire (&ldquo;Clinique Accessibilité&rdquo;)</strong></p>
+                <p>Animer une permanence hebdomadaire (&ldquo;Clinique Accessibilité&rdquo;)</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -265,12 +265,12 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td colspan="3">
-                <p><em>Périmètre 2 (produits incubés à la DINUM)</em></p>
+                <p><strong>Périmètre 2 (produits incubés à la DINUM)</strong></p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Aider chaque service à publier sa déclaration d'accessibilité</strong></p>
+                <p>Aider chaque service à publier sa déclaration d'accessibilité</p>
             </td>
             <td>
                 <p class="fr-tag">Obligations légales</p>
@@ -282,7 +282,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Accompagner tous les produits en phase de transfert à la préparation et planification l'audit de conformité</strong></p>
+                <p>Accompagner tous les produits en phase de transfert à la préparation et planification l'audit de conformité</p>
             </td>
             <td>
                 <p class="fr-tag">Conformité</p>
@@ -294,12 +294,12 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td colspan="3">
-                <p><em>Périmètre 3 (produits incubés dans le réseau)</em></p>
+                <p><strong>Périmètre 3 (produits incubés dans le réseau)</strong></p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Initier le suivi du respect des obligations légales (déclaration, conformité et schéma) pour chaque incubateur</strong></p>
+                <p>Initier le suivi du respect des obligations légales (déclaration, conformité et schéma) pour chaque incubateur</p>
             </td>
             <td>
                 <p class="fr-tag">Obligations légales</p>
@@ -311,7 +311,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Former les responsables&nbsp; d'incubateurs et coachs à la démarche accessibilité</strong></p>
+                <p>Former les responsables&nbsp; d'incubateurs et coachs à la démarche accessibilité</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -323,7 +323,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Accompagner tous les produits en phase de transfert à la préparation et planification l'audit de conformité</strong></p>
+                <p>Accompagner tous les produits en phase de transfert à la préparation et planification l'audit de conformité</p>
             </td>
             <td>
                 <p class="fr-tag">Conformité</p>
@@ -335,7 +335,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Identifier un personne relai a11y par incubateur</strong></p>
+                <p>Identifier un personne relai accessibilité par incubateur</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -367,12 +367,12 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
     <tbody>
         <tr>
             <td colspan="2">
-                <p><em>Pour tous les périmètres</em></p>
+                <p><strong>Pour tous les périmètres</strong></p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Mettre en place formations et outils tests autos</strong></p>
+                <p>Mettre en place formations et outils tests autos</p>
             </td>
             <td>
                 <p class="fr-tag">Tests automatisés</p>
@@ -380,7 +380,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Promouvoir la formation auprès des développeurs</strong></p>
+                <p>Promouvoir la formation auprès des développeurs</p>
             </td>
             <td>
                 <p class="fr-tag">Documentation</p>
@@ -388,7 +388,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Aider à qualifier l'expertise accessibilité numérique dans les recrutements</strong></p>
+                <p>Aider à qualifier l'expertise accessibilité numérique dans les recrutements</p>
             </td>
             <td>
                 <p class="fr-tag">Documentation</p>
@@ -396,7 +396,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Explorer l'accompagnement en inclusion auprès des équipes</strong></p>
+                <p>Explorer l'accompagnement en inclusion auprès des équipes</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -404,7 +404,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Initier la démarche d'accessibilité pour les app mobiles et logicielles</strong></p>
+                <p>Initier la démarche d'accessibilité pour les app mobiles et logicielles</p>
             </td>
             <td>
                 <p class="fr-tag">Documentation</p>
@@ -412,12 +412,12 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td colspan="2">
-                <p><em>Périmètre 1 (produits internes à beta.gouv.fr)</em></p>
+                <p><strong>Périmètre 1 (produits internes à beta.gouv.fr)</strong></p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Publier la déclaration d'accessibilité de l'Espace Membre</strong></p>
+                <p>Publier la déclaration d'accessibilité de l'Espace Membre</p>
             </td>
             <td>
                 <p class="fr-tag">Obligation légale</p>
@@ -425,7 +425,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Faire des tests manuels réguliers de l'Espace Membre</strong></p>
+                <p>Faire des tests manuels réguliers de l'Espace Membre</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -433,7 +433,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Former l'équipe à faire des publications accessibles (RS, blog, newsletter)</strong></p>
+                <p>Former l'équipe à faire des publications accessibles (RS, blog, newsletter)</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -441,7 +441,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Auditer le site de beta.gouv.fr</strong></p>
+                <p>Auditer le site de beta.gouv.fr</p>
             </td>
             <td>
                 <p class="fr-tag">Conformité</p>
@@ -449,12 +449,12 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td colspan="2">
-                <p><em>Périmètre 2 (produits incubés à la DINUM)</em></p>
+                <p><strong>Périmètre 2 (produits incubés à la DINUM)</strong></p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Aider les équipes à mettre en place des tests automatisés</strong></p>
+                <p>Aider les équipes à mettre en place des tests automatisés</p>
             </td>
             <td>
                 <p class="fr-tag">Tests automatiques</p>
@@ -462,7 +462,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Identifier un personne relai a11y par service</strong></p>
+                <p>Identifier un personne relai accessibilité par service</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -470,7 +470,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Aider chaque service à relier ce présent schéma annuel</strong></p>
+                <p>Aider chaque service à relier ce présent schéma annuel</p>
             </td>
             <td>
                 <p class="fr-tag">Obligations légales</p>
@@ -478,7 +478,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Former chaque équipe à la recette de tests manuels Easy Checks</strong></p>
+                <p>Former chaque équipe à la recette de tests manuels Easy Checks</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
@@ -486,7 +486,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td>
-                <p><strong>Accompagner tous les produits en phase de transfert à la préparation et planification l'audit de conformité</strong></p>
+                <p>Accompagner tous les produits en phase de transfert à la préparation et planification l'audit de conformité</p>
             </td>
             <td>
                 <p class="fr-tag">Conformité</p>
@@ -494,12 +494,12 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
         </tr>
         <tr>
             <td colspan="2">
-                <p><em>Périmètre 3 (produits incubés dans le réseau)</em></p>
+                <p><strong>Périmètre 3 (produits incubés dans le réseau)</strong></p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Aider les équipes à mettre en place des tests automatisés</strong></p>
+                <p>Aider les équipes à mettre en place des tests automatisés</p>
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
