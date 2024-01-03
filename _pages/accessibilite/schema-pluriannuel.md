@@ -164,13 +164,347 @@ Nous accompagnons l'**audit de conformité** : nous nous assurons que ça soit p
 
 Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression en regard de nos engagements.
 
-<span id="bilan-2023"></span>
 ### Bilan 2023
 
-*Bilan en cours de rédaction*
+<div class="fr-table fr-table--no-caption">
+<table>
+    <caption>Bilan 2023 de la mise en accessibilité</caption>
+    <thead>
+        <tr>
+            <th>
+                <p><strong>Action</strong></p>
+            </th>
+            <th>
+                <p><strong>Thématique</strong></p>
+            </th>
+            <th>
+                <p><strong>Statut</strong></p>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="3">
+                <p><em>Pour tous les périmètres</em></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Mettre en place des formations aux tests manuels</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+            <td>
+                <p><strong>Fait </strong>(à continuer en 2024)</p>
+                <p>5 ateliers animés données (75 personnes formées), dont un en présentiel.</p>
+                <p>à continuer en 2024 avec un rythme plus élevé.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Sensibiliser les nouvelles recrues aux enjeux de l'accessibilité numérique</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+            <td>
+                <p><strong>Fait</strong> (à continuer en 2024).</p>
+                <p>9 formations données (100 personnes sensibilisées).</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Mise en place d'un processus de contact&nbsp;</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+            <td>
+                <p><strong>Fait</strong>.</p>
+                <p>40 demandes.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Accompagner sur mesure les services qui en font la demande</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+            <td>
+                <p><strong>Fait </strong>(à continuer en 2024)<strong>.</strong></p>
+                <p>25 équipes accompagnées.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Animer la communauté d'expertise</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+            <td>
+                <p><strong>Fait </strong>(à continuer en 2024)<strong>.</strong></p>
+                <p>317 personnes dans le canal Mattermost Accessibilité</p>
+                <p>6 webinaires en ligne.</p>
+                <p>5 ateliers menés pendant des forums.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Animer une permanence hebdomadaire (&ldquo;Clinique Accessibilité&rdquo;)</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+            <td>
+                <p><strong>Abandonné</strong>, par manque d'impact</p>
+                <p>15 cliniques animées.</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <p><em>Périmètre 2 (produits incubés à la DINUM)</em></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Aider chaque service à publier sa déclaration d'accessibilité</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Obligations légales</p>
+            </td>
+            <td>
+                <p><strong>En cours </strong>(à continuer en 2024)<strong>.</strong></p>
+                <p>47 % des produits ont publié une déclaration valide.&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Accompagner tous les produits en phase de transfert à la préparation et planification l'audit de conformité</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Conformité</p>
+            </td>
+            <td>
+                <p><strong>En cours</strong> (à continuer en 2024).</p>
+                <p>Un produit accompagné (81 % de conformité)</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <p><em>Périmètre 3 (produits incubés dans le réseau)</em></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Initier le suivi du respect des obligations légales (déclaration, conformité et schéma) pour chaque incubateur</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Obligations légales</p>
+            </td>
+            <td>
+                <p><strong>En cours </strong>(à continuer en 2024)<strong>.</strong></p>
+                <p>56 % des équipes ont publié une déclaration valide.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Former les responsables&nbsp; d'incubateurs et coachs à la démarche accessibilité</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+            <td>
+                <p><strong>En cours</strong></p>
+                <p>3 incubateurs sensibilisés.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Accompagner tous les produits en phase de transfert à la préparation et planification l'audit de conformité</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Conformité</p>
+            </td>
+            <td>
+                <p><strong>En cours</strong></p>
+                <p>Un produit accompagné.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Identifier un personne relai a11y par incubateur</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+            <td>
+                <p><strong>En cours</strong></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
 <span id="plan-2024"></span>
-### Plan d'action
+<h3>Plan d'action</h3>
 
-*Plan en cours de rédaction*
-
+<div class="fr-table fr-table--no-caption">
+<table>
+    <caption>Plan d'action de la mise en accessibilité</caption>
+    <thead>
+        <tr>
+            <th>
+                <p><strong>Action</strong></p>
+            </th>
+            <th>
+                <p><strong>Thématique</strong></p>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">
+                <p><em>Pour tous les périmètres</em></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Mettre en place formations et outils tests autos</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Tests automatisés</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Promouvoir la formation auprès des développeurs</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Documentation</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Aider à qualifier l'expertise accessibilité numérique dans les recrutements</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Documentation</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Explorer l'accompagnement en inclusion auprès des équipes</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Initier la démarche d'accessibilité pour les app mobiles et logicielles</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Documentation</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p><em>Périmètre 1 (produits internes à beta.gouv.fr)</em></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Publier la déclaration d'accessibilité de l'Espace Membre</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Obligation légale</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Faire des tests manuels réguliers de l'Espace Membre</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Former l'équipe à faire des publications accessibles (RS, blog, newsletter)</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Auditer le site de beta.gouv.fr</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Conformité</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p><em>Périmètre 2 (produits incubés à la DINUM)</em></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Aider les équipes à mettre en place des tests automatisés</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Tests automatiques</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Identifier un personne relai a11y par service</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Aider chaque service à relier ce présent schéma annuel</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Obligations légales</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Former chaque équipe à la recette de tests manuels Easy Checks</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Accompagner tous les produits en phase de transfert à la préparation et planification l'audit de conformité</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Conformité</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p><em>Périmètre 3 (produits incubés dans le réseau)</em></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Aider les équipes à mettre en place des tests automatisés</strong></p>
+            </td>
+            <td>
+                <p class="fr-tag">Méthodologie</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
