@@ -1,6 +1,6 @@
 ---
 fullname: Estelle Saget
-role: Chargée de déploiement
+role: Responsable de portefeuille
 domaine: Déploiement
 github: estellesaget
 missions:
@@ -8,12 +8,11 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ''
-startups:
-  - l-application-du-cej
 badges:
   - segur
 previously:
   - apilos
+  - l-application-du-cej
 ---
 
 Couteau suisse (et bourguignon) de la tech, motivée par les projets à impact
