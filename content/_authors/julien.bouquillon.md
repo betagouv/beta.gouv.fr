@@ -11,6 +11,8 @@ missions:
     status: admin
     employer: affaires-sociales
   - start: 2023-12-28
+    end:  2026-12-28
+    status: admin
     employer: dinum
 teams:
   - /teams/animation-dinum
