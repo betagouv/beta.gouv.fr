@@ -14,4 +14,6 @@ startups:
 competences:
   - Croissance
   - Administration Publique
+previously:
+  - aplus
 ---
