@@ -8,7 +8,6 @@ hero_title: "Schéma pluriannuel 2024 - 2027"
 
 *Date de publication : 04/01/2024*
 
-<span id="intro"></span>
 ## Introduction
 
 Ce document présente la **politique d’accessibilité de beta.gouv.fr**, pour les années 2024 à 2027.
@@ -38,7 +37,6 @@ Enfin, en tant que réseau d’incubateur, beta.gouv.fr accompagne de nombreux s
 
 Début 2024, ce périmètre concerne environ 150 produits numériques, répartis dans plusieurs incubateurs ministériels.
 
-<span id="hors-perimetre"></span>
 ### Hors périmètre
 
 Les services numériques n’ayant pas rendu n’ayant pas (encore) d’URL accessible en dehors de l’équipe de conception ne sont pas concernés par ce schéma. Ainsi, concernant les produits incubés dans le réseau (niveau 2 et 3), nous considérons hors périmètres les services en investigation (ce ne sont encore pas des services numériques).
