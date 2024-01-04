@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: ''
 startups:
-  - mon.espae.collectivite
+  - mon.espace.collectivite
 memberType: beta
 ---
 
