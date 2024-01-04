@@ -7,6 +7,8 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ''
+startups:
+  - especes.protegees
 memberType: beta
 ---
 

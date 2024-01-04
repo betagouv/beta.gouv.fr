@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Incubateur des territoires
 startups:
-  - mon.espae.collectivite
+  - mon.espace.collectivite
 memberType: beta
 github: sdsgh
 ---

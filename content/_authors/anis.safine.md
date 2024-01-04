@@ -5,9 +5,10 @@ domaine: Développement
 github: anis
 missions:
   - start: 2018-11-19
-    end: 2023-12-31
+    end: 2024-02-15
     status: independent
+    employer: ''
 startups:
-    - resorption-bidonvilles
+  - resorption-bidonvilles
 ---
 Développeur full-stack javascript

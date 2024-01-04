@@ -8,8 +8,8 @@ contact: samuel.goldszmidt@beta.gouv.fr?subject=Incubateurs
 address: Arche de la Défense, 1 parvis de la Défense, Puteaux
 highlighted_startups:
     - camino
-    - partaj
-    - resorption-bidonvilles
+    - transport
+    - locatio
 ---
 
 Lancée en 2017, l'incubateur du pôle ministériel Transition écologique - Cohésion des Territoires - Mer est ouvert aux agents de :
