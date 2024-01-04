@@ -1,15 +1,16 @@
 ---
-fullname: ekram hossain
-role: Développeure
+fullname: Ekram Hossain
+role: Développeur No-code
 domaine: Développement
+link: https://www.linkedin.com/in/ekram-hossain
 missions:
   - start: 2023-11-27
-    end: 2024-02-02
+    end: 2024-03-31
     status: service
-    employer : Au carré
-  - link: https://www.linkedin.com/in/ekram-hossain/
+    employer: ''
 startups:
   - aquaculteurs.marins
 memberType: autre
+avatar: ''
 ---
 
