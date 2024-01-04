@@ -8,7 +8,7 @@ missions:
     end: 2024-03-06
     status: independent
     employer: ''
-startups:
+previously:
   - datagir
   - nosgestesclimat
 memberType: beta

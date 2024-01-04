@@ -5,8 +5,9 @@ domaine: Autre
 link: https://datactivist.coop/fr/
 missions:
   - start: 2023-09-25
-    end: 2023-12-31
+    end: 2024-01-31
     status: service
+    employer: ''
 startups:
   - sparte
 memberType: beta

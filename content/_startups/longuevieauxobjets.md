@@ -1,24 +1,31 @@
 ---
 title: Longue vie aux objets
-mission: >-
-  Faciliter la réparation et le partage des objets en mettant en avant toutes
-  les bonnes adresses pour réparer, partager, donner, vendre, acheter de seconde
-  main… afin de prolonger la vie des objets du quotidien
+mission: Faciliter la réparation et le partage des objets en mettant en avant
+  toutes les bonnes adresses pour réparer, partager, donner, vendre, acheter de
+  seconde main… afin de prolonger la vie des objets du quotidien
 sponsors:
   - /organisations/ademe
 incubator: ademe
 link: https://longuevieauxobjets.ademe.fr/
+repository: https://github.com/incubateur-ademe/quefairedemesobjets
 contact: longuevieauxobjets@ademe.fr
+stats: false
+budget_url: https://docs.google.com/spreadsheets/d/13cZIcAs25h21gqagXODms7YwDEC98RL5EcJjk595t2M/edit#gid=0
+dashlord_url: https://incubateur-ademe.github.io/dashlord/url/longuevieauxobjets-ademe-fr/
+analyse_risques: true
+accessibility_status: non conforme
 redirect_from:
   - /startups/quefairedemesobjets
-accessibility_status: non conforme
+usertypes:
+  - particulier
+  - entreprise
+analyse_risques_url: https://github.com/incubateur-ademe/quefairedemesobjets/blob/main/SECURITY.md
 events:
   - name: committee
     date: 2023-04-06
 phases:
   - name: construction
     start: 2023-05-15
-repository: https://github.com/incubateur-ademe/quefairedemesobjets
 ---
 ## Contexte 👀
 
@@ -34,7 +41,7 @@ Inspiré du principe « pollueur-payeur », le dispositif de REP implique que le
 
 ## Solution 💡
 
-Dans un premier temps, le service s’est concentré sur : 
+Dans un premier temps, le service s’est concentré sur :
 
 - **la récupération des données** de l’annuaire de professionnels de la précédente campagne ADEME “Longue vie aux objets”, la qualité et la mise à jour de ces données
 - **la mise en avant des solutions de proximité** via l’affichage de ces adresses sur une carte

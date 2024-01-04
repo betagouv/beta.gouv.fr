@@ -1,15 +1,17 @@
 ---
-title: Suite collaborative
+title: Suite numérique
 mission: Réunir les outils du quotidien des agents publics
 sponsors:
   - /organisations/dinum
-incubator: dinum
+incubator: dinum_produits_interministeriels
 contact: marie.jeammet@beta.gouv.fr
 stats: false
 accessibility_status: non conforme
 phases:
   - name: investigation
-    start: 2023-06-01
+    start: 2023-05-01
+  - name: construction
+    start: 2023-08-01
 ---
 ## Contexte
 
@@ -30,11 +32,3 @@ Une fois complète, la suite comprendra des services de :
 * Documentation des process avec Outline 
 
 Tous ces services seront interconnectés pour en faciliter les usages, à commencer par l'authentification commune grce au fournisseur d'identité Agent Connect.
-
-## Stratégie
-
-Pour Septembre, nous espérons avoir : 
-
-* recruté le ou la devOps nécessaire aux déploiements des outils n'existant pas encore en version open source à la DINUM (Nextcloud, Outline, Taiga)
-* ajouté tous les agents publics d'Etat à AgentConnect 
-* interconnecté deux services entre eux

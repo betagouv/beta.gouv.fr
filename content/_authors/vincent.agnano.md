@@ -7,7 +7,7 @@ avatar: https://vinyll.github.io/images/avatar.jpg
 link: https://vinyll.neomad.org
 missions:
   - start: 2016-04-01
-    end: 2023-12-31
+    end: 2024-12-31
     status: service
     employer: lazone
 startups:
@@ -23,4 +23,4 @@ competences:
   - Développement Backend
   - Gestion de Produit
 ---
-Accompagnant technique à l'Incubateur des Territoires (ANCT), développeur, animateur d'espaces citoyens en zone rurale.
+Accompagnement des équipes pour l'Incubateur des Territoires (ANCT), développeur, animateur de tiers-lieux en zones rurales.

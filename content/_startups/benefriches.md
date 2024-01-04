@@ -1,23 +1,30 @@
 ---
 title: BENEFRICHES
 mission: >-
-  Fournir une solution numérique de calcul des impacts positifs de la 
-  reconversion de friches aux chargés d’opération d’aménagement pour favoriser 
-  la prise de décision (pour tout type de projet d’aménagement) 
+  Fournir une solution numérique de calcul des impacts positifs de la
+  reconversion de friches aux chargés d’opération d’aménagement pour favoriser
+  la prise de décision (pour tout type de projet d’aménagement)
   et augmenter le nombre de reconversions
 sponsors:
   - /organisations/ademe
 incubator: ademe
 contact: laurent.chateau@ademe.fr
+repository: https://github.com/incubateur-ademe/benefriches
 accessibility_status: non conforme
-usertypes:
-  - collectivite-territoriale
 phases:
   - name: investigation
     start: 2023-01-03
     end: 2023-04-05
   - name: construction
     start: 2023-04-05
+techno:
+    - React
+    - Redux
+    - TypeScript
+    - public.codes
+    - NestJS
+usertypes:
+  - collectivite-territoriale
 ---
 ## Contexte
 Le renouvellement urbain et notamment la reconquête des friches est une opportunité pour atteindre les objectifs de zéro artificialisation nette.

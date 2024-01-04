@@ -11,6 +11,7 @@ missions:
     employer: Malt
 startups:
   - zero-logement-vacant
+  - aquaculteurs.marins
 memberType: beta
 ---
 

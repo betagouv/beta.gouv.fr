@@ -4,7 +4,7 @@ mission: >-
   Bâtiments de France - lors de leurs rencontres avec les usagers.
 incubator: culture
 title: Compte rendu vif
-contact: lea.genovesi@beta.gouv.fr
+contact: ateliernumerique.snum@culture.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation

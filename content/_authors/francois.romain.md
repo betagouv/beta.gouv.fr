@@ -10,14 +10,14 @@ missions:
     end: 2021-06-30
     status: independent
     employer: octo
-  - status: independent
-    employer: Octo
-    start: 2022-01-03
+  - start: 2022-01-03
     end: 2022-06-30
-  - status: independent
+    status: independent
+    employer: Octo
+  - start: 2023-05-02
+    end: 2024-01-31
+    status: independent
     employer: LBC
-    start: 2023-05-02
-    end: 2023-12-31
 startups:
   - deveco
 previously:

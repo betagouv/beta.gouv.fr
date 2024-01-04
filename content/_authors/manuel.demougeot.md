@@ -4,11 +4,10 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2018-10-01
-    end: 2023-12-31
+    end: 2025-12-31
     status: admin
     employer: DIHAL
 startups:
   - resorption-bidonvilles
-
 ---
 Directeur de cabinet DIHAL, mission Résorption bivonvilles
