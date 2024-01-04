@@ -7,8 +7,8 @@ sponsors:
 incubator: sgmas
 link: https://recosante.beta.gouv.fr/
 repository: https://github.com/betagouv/recosante/
-stats_url: https://recosante.beta.gouv.fr/stats/
 contact: contact@recosante.beta.gouv.fr
+stats_url: https://recosante.beta.gouv.fr/stats/
 stats: true
 phases:
   - name: investigation
@@ -27,6 +27,7 @@ redirect_from:
 usertypes:
   - particulier
 dashlord_url: https://dashlord.incubateur.net/url/recosante-beta-gouv-fr/
+accessibility_status: partiellement conforme
 ---
 ## Contexte
 
