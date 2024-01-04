@@ -1,7 +1,7 @@
 ---
 fullname: Laetitia Kouadria
 domaine: Produit
-role: Product Manager
+role: Experte en simplicité
 github: lkouad
 missions:
   - start: 2021-05-18
