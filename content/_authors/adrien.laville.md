@@ -10,10 +10,9 @@ missions:
     status: service
     employer: NUMA
   - start: 2023-12-31
-    end: 2024-12-30
+    end: 2026-12-31
     status: admin
     employer: DINUM
-startups:
 previously:
   - mission-transition-ecologique
   - domifa
