@@ -5,7 +5,7 @@ role: Cheffe produit
 github: saaliha
 missions:
   - start: 2021-11-08
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
     employer: DINUM
 startups:

@@ -9,7 +9,7 @@ missions:
     status: service
     employer: Sopra Steria
   - start: 2022-03-15
-    end: 2023-12-31
+    end: 2026-09-01
     status: admin
     employer: Dinum
 startups:

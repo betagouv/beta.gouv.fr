@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: ADEME
 startups:
-  - rafraichir.les.villes
+  - plusfraichemaville
 memberType: autre
 ---
 

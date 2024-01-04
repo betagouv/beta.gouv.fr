@@ -9,11 +9,13 @@ missions:
       status: admin
       employer: dinum
     - start: 2020-09-01
-      end: 2023-12-31
+      end: 2024-03-31
       status: independent
       employer: octo, malt
 startups:
     - api-entreprise
+    - api-particulier
+    - datapass
 previously:
     - mps
 ---

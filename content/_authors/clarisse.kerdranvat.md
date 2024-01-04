@@ -4,7 +4,7 @@ role: Product Manager
 domaine: Produit
 missions:
   - start: 2022-11-01
-    end: 2023-12-31
+    end: 2024-12-31
     status: admin
     employer: Pôle emploi
 startups:

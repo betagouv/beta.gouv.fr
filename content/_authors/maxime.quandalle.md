@@ -5,7 +5,7 @@ domaine: Développement
 github: mquandalle
 missions:
     - start: 2019-06-01
-      end: 2023-12-31
+      end: 2024-06-30
       status: independent
 startups:
 previously:

@@ -13,12 +13,11 @@ missions:
     end: 2023-06-30
     status: independent
     employer: numa
-startups:
-  - datagir
-  - rafraichir.les.villes
 previously:
   - comobi
   - mrs
+  - plusfraichemaville
+  - datagir
 
 ---
 Dubito ergo sum

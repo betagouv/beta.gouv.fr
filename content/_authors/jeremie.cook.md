@@ -1,21 +1,21 @@
 ---
 fullname: Jérémie Cook
 role: UX Designer
-avatar:
+avatar: null
 link: https://jeremiecook.com
 github: jeremiecook
 missions:
   - start: 2018-07-10
     end: 2019-07-01
-    employer: dinum
     status: admin
+    employer: dinum
   - start: 2019-07-02
-    end: 2023-12-31
+    end: 2024-06-30
     status: independent
+    employer: ''
 startups:
-  - aides.jeunes
-  - apilos
   - nosgestesclimat
+  - agora
 previously:
   - annuaire-entreprises
   - codedutravail
