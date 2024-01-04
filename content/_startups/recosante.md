@@ -26,8 +26,6 @@ usertypes:
 dashlord_url: https://dashlord.incubateur.net/url/recosante-beta-gouv-fr/
 accessibility_status: partiellement conforme
 ---
-
-
 ## Contexte
 
 ### Les enjeux santé-environnement
