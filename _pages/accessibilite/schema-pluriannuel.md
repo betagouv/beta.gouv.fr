@@ -22,6 +22,7 @@ beta.gouv.fr est à la fois une structure, un incubateur et un réseau d’incub
 beta.gouv.fr gère en interne les produits suivants :
 - Le **site beta.gouv.fr**
 - L’**espace membre** (intranet)
+- Le site **[EIG](https://www.eig.numerique.gouv.fr/)**
 
 Nous sommes aussi responsables de nos publications sur les réseaux sociaux (LinkedIn), dans notre newsletter et sur notre [espace de documentation](https://doc.incubateur.net).
 
