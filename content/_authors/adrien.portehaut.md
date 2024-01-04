@@ -5,7 +5,7 @@ domaine: Design
 link: https://www.linkedin.com/in/adrien-portehaut-64bb32a9/
 missions:
   - start: 2020-08-28
-    end: 2024-12-31
+    end: 2024-06-30
     status: service
     employer: Pôle emploi
 previously:
