@@ -14,7 +14,6 @@ startups:
   - api-engagement
 previously:
   - jeveuxaider
----
 
 
 Développe le réseau de projets à impacts positifs
