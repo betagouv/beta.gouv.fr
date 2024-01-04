@@ -1,6 +1,8 @@
 ---
 title: Themis
-mission: Garantir à chaque détenu la co-construction d’un projet d’exécution de peine maximisant les chances d’insertion ou de réinsertion.
+mission: >-
+  Garantir à chaque détenu la co-construction d’un projet d’exécution de peine
+  maximisant les chances d’insertion ou de réinsertion.
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -11,6 +13,8 @@ phases:
     end: 2022-10-31
   - name: construction
     start: 2023-01-02
+  - name: construction
+    start: 2023-06-16
 ---
 ## Contexte
 Un grand nombre d’affectations ne serait pas adapté aux personnes détenues.
@@ -26,11 +30,12 @@ La cause principale identifiée de la non pertinence des affectations réside da
 Sur les 38445 transferts effectués en 2021, 1/4 des affectations pourraient être concernées.
 
 ## Solution imaginée
-THEMIS propose une application de recherche multicritères des établissements pour peine, qui vise à outiller les agents pour faciliter les affectations, et la co-construction des projets d’exécution de peine des détenus.
+THEMIS propose une application de recherche multicritères des établissements pour peine, qui vise à outiller les agents pour faciliter l'accès à l'information et la co-construction des projets d’exécution de peine des personnes détenues.
 
 Au travers :
 - de la centralisation des informations au sujet des établissements pénitentiaires
 - de données actualisées des établissements pour peine accessibles à tout moment
 - d’une approche ergonomique via une recherche multicritères
 
-Une première expérimentation de l’outil par les professionnels de la Direction Interrégionale de Marseille est prévue sur le premier semestre 2023. L'objectif est d'améliorer réellement une vingtaine d'affectations et d'initialiser au moins 2 transferts d’une maison centrale vers un centre de détention.
+Une première expérimentation de l’outil par les professionnels de la Direction Interrégionale (DI) de Marseille a été réalisée lors du 1er semestre 2023. Une seconde expérimentation est en cours sur la DI de Dijon. 
+
