@@ -12,7 +12,3 @@ startups:
   - api-engagement
 previously:
   - jeveuxaider
-
-Développe le réseau de projets à impacts positifs
-link: https://www.linkedin.com/in/merzouknassim/
-
