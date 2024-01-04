@@ -4,7 +4,7 @@ mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la sa
 sponsors:
   - /organisations/dgs
   - /organisations/dgpr
-incubator: dinum
+incubator: sgmas
 link: https://recosante.beta.gouv.fr/
 repository: https://github.com/betagouv/recosante/
 contact: contact@recosante.beta.gouv.fr
@@ -19,9 +19,6 @@ phases:
     end: 2021-06-01
   - name: acceleration
     start: 2021-06-01
-    end: 2023-01-01
-  - name: transfer
-    start: 2023-01-01
 redirect_from:
   - /startups/ecosante
 usertypes:
@@ -85,8 +82,10 @@ L’ensemble des recommandations diffusées sont issues de sources officielles t
 
 ## Calendrier
 
-* Janvier 2020 : phase d’investigation
+* Janvier 2020 : phase d’investigation accompagnée par la DINUM
 * Avril 2020 : première phase de construction et recrutement de l’équipe
 * Novembre 2020 : deuxième phase de construction
 * Juin 2021 : première phase d’accélération
 * Février 2022 : deuxième phase d’accélération
+* Février 2023 : transfert du service de l'incubateur de services numériques de la DINUM vers la Fabrique numérique des ministères sociaux
+

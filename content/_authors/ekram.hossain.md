@@ -1,6 +1,7 @@
 ---
 fullname: Ekram Hossain
 role: Développeur No-code
+link : https://www.linkedin.com/in/ekram-hossain/
 domaine: Développement
 link: https://www.linkedin.com/in/ekram-hossain
 missions:
@@ -13,4 +14,3 @@ startups:
 memberType: autre
 avatar: ''
 ---
-

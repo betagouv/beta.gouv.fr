@@ -4,7 +4,7 @@ role: ML engineer
 domaine: Produit
 missions:
   - start: 2022-10-01
-    end: 2024-03-31
+    end: 2024-06-30
     status: independent
     employer: Malt
 startups:

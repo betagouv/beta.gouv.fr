@@ -7,9 +7,10 @@ missions:
     end: 2023-01-31
     status: independent
     employer: Octo
-  - status: independent
-    start: 2023-09-05
-    end: 2024-01-05
+  - start: 2023-09-05
+    end: 2024-04-01
+    status: independent
+    employer: ''
 incubator: dinum
 startups:
   - sante-psy-etudiant

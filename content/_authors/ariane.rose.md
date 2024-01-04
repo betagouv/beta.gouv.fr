@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Ariane-Rose
 missions:
   - start: 2020-09-01
-    end: 2023-12-31
+    end: 2024-12-31
     status: admin
     employer: ''
 startups:
@@ -13,6 +13,7 @@ startups:
   - pcrs
   - bases.adresses.locales
   - données-et-territoires
+  - umap
 teams:
   - /teams/anct
 ---

@@ -10,12 +10,13 @@ missions:
     status: admin
     employer: dinum
   - start: 2017-10-02
-    end: 2023-12-31
+    end: 2024-04-30
     status: independent
+    employer: ''
 previously:
-    - mon-entreprise
-    - comobi
-    - datagir
-    - nosgestesclimat
+  - mon-entreprise
+  - comobi
+  - datagir
+  - nosgestesclimat
 ---
 

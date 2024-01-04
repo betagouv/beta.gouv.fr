@@ -2,7 +2,7 @@
 fullname: Julie Ripa
 domaine: Animation
 role: Intrapreneuse Tchap
-github: julie-ripa
+github: julie-ri
 missions:
   - start: 2021-03-16
     end: 2022-05-16

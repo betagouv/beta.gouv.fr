@@ -5,7 +5,7 @@ role: Intrapreneur à la fabrique numérique (MTE) pour un projet d'open data su
   les données Loi sur l'eau
 missions:
   - start: 2021-04-09
-    end: 2023-12-31
+    end: 2024-12-31
     status: admin
     employer: MTE
 startups:

@@ -2,9 +2,8 @@
 title: BoRiS
 mission: Informer les bénéficiaires potentiels du Bail Réel Solidaire, simuler l'éligibilité au dispositif et mettre en relation les acheteurs avec les Organismes Fonciers Solidaires
 sponsors: 
- - /organisations/dinum
  - /organisations/dgaln 
-incubator: dinum 
+incubator: mtes 
 phases: 
   - name: construction
     start: 2023-09-01 
