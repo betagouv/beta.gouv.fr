@@ -8,6 +8,7 @@ incubator: sgmas
 link: https://recosante.beta.gouv.fr/
 repository: https://github.com/betagouv/recosante/
 stats_url: https://recosante.beta.gouv.fr/stats/
+contact: contact@recosante.beta.gouv.fr
 stats: true
 phases:
   - name: investigation
