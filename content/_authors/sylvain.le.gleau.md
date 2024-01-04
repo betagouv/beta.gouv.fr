@@ -14,7 +14,7 @@ startups:
   - espace.sur.demande
   - agents.en.intervention
 previously:
-  - mon.espae.collectivite
+  - mon.espace.collectivite
 ---
 
 Développeur mobile et web fullstack
