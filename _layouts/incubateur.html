@@ -19,7 +19,7 @@ layout: default
 
 {%- assign teams = site.teams -%}
 {%- assign current_authors = site.authors | community: 'current', 'alpha' -%}
-{%- assign team_authors = current_authors | where_exp: "item", "item.teams.size != 0" -%}
+{%- assign team_authors = current_authors | where_exp: "item", "item.teams.size != 0" | uniq | sort: 'fullname'-%}
 
 <div id="incubator-view">
     <div class="fr-container-fluid fr-py-6w">
@@ -153,17 +153,23 @@ layout: default
                 </div>
             </div>
             <div class="fr-grid-row fr-grid-row--gutters fr-pt-3w">
-                {%- for team in teams -%}
-                    {%- if team.incubator == incubator_id -%}
-                        {%- assign authors = team_authors | where_exp: "item", "item.teams contains team.id" -%}
-                        {%- for author in authors -%}
-                            <div class="fr-col-6 fr-col-sm-4 fr-col-md-3 fr-col-lg-3">
-                                {%- include card-community.html author=author hide_details=true -%}
-                            </div>
-                        {%- endfor -%}
+                {%- for author in team_authors -%}
+                    {%- assign is_author_in_incubator = false -%}
+                    {%- for team in teams -%}
+                        {%- if team.incubator == incubator_id and author.teams contains team.id -%}
+                            {%- assign is_author_in_incubator = true -%}
+                            {%- break -%}
+                        {%- endif -%}
+                    {%- endfor -%}
+            
+                    {%- if is_author_in_incubator -%}
+                        <div class="fr-col-6 fr-col-sm-4 fr-col-md-3 fr-col-lg-3">
+                            {%- include card-community.html author=author hide_details=true -%}
+                        </div>
                     {%- endif -%}
                 {%- endfor -%}
             </div>
+            
             {% if page.contact != nil %}
                 <div class="fr-grid-row">
                     <div class="fr-col">
