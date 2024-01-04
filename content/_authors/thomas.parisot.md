@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: octo
   - start: 2020-02-04
-    end: 2023-12-31
+    end: 2024-06-30
     status: independent
     employer: lazone/scopyleft
 link: https://détour.studio

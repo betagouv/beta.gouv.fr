@@ -1,5 +1,5 @@
 ---
-title: BatID -  Le Référentiel National des Bâtiments 
+title: RNB, le Référentiel National des Bâtiments (ex Bat-ID)
 mission: Référencer l’intégralité des bâtiments du territoire français au sein d’un géocommun
 sponsors:
   - /organisations/ademe
@@ -14,6 +14,7 @@ phases:
   - name: construction
     start: 2023-01-01
 link: https://rnb.beta.gouv.fr/
+budget_url: https://rnb-fr.gitbook.io/documentation/budget
 repository: https://github.com/fab-geocommuns/RNB-site
 ---
 ## Problème
@@ -31,7 +32,7 @@ Ainsi, les données géolocalisées actuelles ne permettent pas un pilotage sati
 
 La création d'un référentiel unique des bâtiments, en lien avec les autres référentiels (adresses, locaux, parcelles) existants est nécessaire pour passer d'un “écosystème atomisé” à un fonctionnement en réseau.
 
-C’est dans ce contexte qu’a vu le jour le projet BatID, d'abord au sein du [programme EIG](https://eig.etalab.gouv.fr/defis/batid/), pour co-construire avec l’ensemble des parties prenantes le Référentiel National des Bâtiments (RNB), à destination des acteurs publics comme privés. Ce référentiel sera alimenté par les processus administratifs existants afin d’aboutir à une mise à jour en continue des bases de données socles.
+C’est dans ce contexte qu’a vu le jour le projet, initialement appelé BatID, d'abord au sein du [programme EIG](https://eig.etalab.gouv.fr/defis/batid/), pour co-construire avec l’ensemble des parties prenantes le Référentiel National des Bâtiments (RNB), à destination des acteurs publics comme privés. Ce référentiel sera alimenté par les processus administratifs existants afin d’aboutir à une mise à jour en continue des bases de données socles.
 
 ## Stratégie
 

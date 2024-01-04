@@ -10,20 +10,18 @@ missions:
     status: admin
     employer: DJEPVA
   - start: 2022-07-04
-    end: 2023-12-30
+    end: 2025-01-31
     status: independent
     employer: NUMA
 startups:
-  - jeveuxaider
   - investigationIJ
+  - api-engagement
 previously:
   - jeveuxaider
-  - api-engagement
   - snu
   - prevention_ruptures_apprentissage
 badges:
   - segur
-
 ---
 
 

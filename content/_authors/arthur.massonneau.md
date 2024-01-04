@@ -10,6 +10,8 @@ missions:
     status: independent
     employer: Numa
 memberType: autre
+startups:
+  - BoRiS
 ---
 
 Coach Fabrique Numérique

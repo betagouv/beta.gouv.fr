@@ -105,7 +105,7 @@ Pour cela, A-JUST a pour objectif de permettre aux juridictions de visualiser et
 
 Visualisation, corrélation, simulation… A-JUST se définit comme un outil  d’aide à la décision et de prospective.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
 ¹ Pénal, civil, social, commercial…
 

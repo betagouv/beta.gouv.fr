@@ -101,14 +101,14 @@ layout: default
 
  const incubators = [
      {% for incubator in site.incubators %} {
-         id: "{{incubator.id}}".replace('/incubators/', ''),
+         id: "{{incubator.id}}".replace('/incubateurs/', ''),
          title: "{{incubator.title}}",
          owner: "{{incubator.owner}}",
          website: "{{incubator.website}}",
          contact: "{{incubator.contact}}",
          address: "{{incubator.address}}",
          github: "{{incubator.github}}",
-         url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
+         url: "/startups/?incubateur={{ incubator.id | remove: '/incubateurs/' }}"
      },
      {% endfor %}
  ];

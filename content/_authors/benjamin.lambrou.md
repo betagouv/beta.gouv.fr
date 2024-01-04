@@ -4,13 +4,14 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2022-03-28
-    end: 2023-12-31
+    end: 2024-02-29
     status: independent
     employer: ''
 startups:
-  - accesscite
+  - asso.cie
 previously:
   - tacct
+  - accesscite
 ---
 
 Coach produit @ La Fabrique

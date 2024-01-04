@@ -5,10 +5,13 @@ domaine: Produit
 link: https://www.linkedin.com/in/stephane-dosdoghrouyan/
 missions:
   - start: 2023-04-03
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
     employer: Incubateur des territoires
+startups:
+  - mon.espae.collectivite
 memberType: beta
+github: sdsgh
 ---
 
 9 ans d'expérience en direction de projet numérique et mise en application opérationnelle (De 2 à 50 personnes, sponsors inclus) :

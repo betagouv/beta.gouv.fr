@@ -71,11 +71,13 @@ mapping:
             - /organisations/fnccr
             - /organisations/hcc
             - /organisations/hcp
+            - /organisations/idfm
             - /organisations/igj
             - /organisations/ign
             - /organisations/igpn
             - /organisations/inca
             - /organisations/interieur
+            - /organisations/justice
             - /organisations/mc
             - /organisations/mctrct
             - /organisations/meae

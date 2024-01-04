@@ -15,6 +15,8 @@ events:
 phases:
   - name: construction
     start: 2020-06-01
+  - name: acceleration
+    start: 2023-04-01
 usertypes:
   - collectivite-territoriale
   - entreprise

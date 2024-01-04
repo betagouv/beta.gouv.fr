@@ -11,23 +11,12 @@ La plateforme est aujourd'hui hébergée sur Scalingo mais nous souhaitons passe
 L'équipe [RDV-Solidarités](https://beta.gouv.fr/startups/lapins.html) recherche donc une personne pour assurer la bonne migration du service et permettre sa montée en charge pour les 4 000 Conseillers Numériques France services qui viendront prochainement doubler le nombre de personnes qui utilisent la plateforme au quotidien.
 <!--more-->
 
-<style type="text/css">
-p {
-      margin: 1.5rem 0 0 0;
-}
-
-h2, h3 {
-      margin: 3rem 0 1rem 0;
-}
-</style>
-
-
 ## Responsabilités
 
 Intégré à l'équipe RDV-Solidarités vous aurez la responsabilité de **mettre en place une infrastructure facilement réplicable, basée sur Kubernetes** et d'assurer :
 
 - la migration du service vers cette nouvelle infrastructure,
-- sa stabilité pour les personnes utilisatrices actuellement et 
+- sa stabilité pour les personnes utilisatrices actuellement et
 - sa montée en charge avec les nouveaux usages.
 
 Ces travaux seront réalisés en lien avec le reste de l'équipe que vous accompagnerez dans la prise en main de cette nouvelle infrastructure.
@@ -59,7 +48,7 @@ Le code source : https://github.com/betagouv/rdv-solidarites.fr/
 - Le télétravail est possible, une présence ponctuelle à Paris est demandée pour participer aux sessions stratégiques et collaboratives.
 - Démarrage dès que possible.
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [contact@rdv-solidarites.fr avec incubateur@anct.gouv.fr en copie](mailto:contact@rdv-solidarites.fr?cc=incubateur@anct.gouv.fr&subject=Recrutement OPS RDV-Solidarité)
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [contact@rdv-solidarites.fr avec incubateur@anct.gouv.fr en copie](mailto:contact@rdv-solidarites.fr?cc=incubateur@anct.gouv.fr&subject=Recrutement%20OPS%20RDV-Solidarité)
 
 En nous rejoignant vous embarquez aussi [la communauté beta.gouv.fr](https://doc.incubateur.net/communaute/) dont les membres contribuent au quotidien à l'amélioration des services publics !
 

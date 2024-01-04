@@ -13,6 +13,7 @@ link:
 repository:
 stats: false
 contact: contact@beta.interieur.gouv.fr
+robots: noindex # Nous avons mis cette action car il y a beaucoup de contact directe à contact@beta.gouv.fr pour des plaintes
 usertypes:
   - particulier
 ---

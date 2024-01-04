@@ -15,6 +15,8 @@ phases:
   - name: construction
     start: 2022-07-03
     end: 2022-08-02
+  - name: alumni
+    start: 2022-08-02
 ---
 **Le formulaire cas par cas**
 

@@ -1,7 +1,7 @@
 ---
 fullname: Clémence Lanctuit
 domaine: Design
-role: UX Designer
+role: Product Designer
 link: ''
 missions:
   - start: 2022-01-13

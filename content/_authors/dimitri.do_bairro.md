@@ -6,7 +6,7 @@ github: rimiti
 link: 
 missions: 
   - start: 2021-02-04 
-    end: 2024-06-29
+    end: 2023-11-29
     status: independent
     employer: 
 startups: 

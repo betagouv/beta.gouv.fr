@@ -38,9 +38,11 @@ phases:
         Vous êtes une commune disposant d’un Dispositif de Recueil (DR) ?
     </h3>
 
-    <p class="fr-callout__text">
+    <div class="fr-callout__text">
+    <p>
         Vous pouvez utiliser gratuitement notre solution au sein de vos services 👇
     </p>
+    </div>
 
     <a href="https://rdv.anct.gouv.fr" title="RDV Service Public - nouvelle fenêtre" class="fr-btn" target="_blank">Découvrir la solution</a>
 </div>

@@ -6,7 +6,7 @@ link: https://jordanchapuy.com/
 github: chapuyj
 missions:
   - start: 2022-03-16
-    end: 2023-12-31
+    end: 2024-05-30
     status: service
     employer: octo
 startups:

@@ -17,6 +17,10 @@ missions:
     end: 2023-12-31
     status: independent
     employer: LBC
+  - start: 2024-01-01
+    end: 2024-06-30
+    status: independent
+    employer: Pathtech
 startups:
   - ecobalyse
 previously:

@@ -3,9 +3,11 @@ title: Estime Formation
 mission: Favoriser l'entrée en formation des bénéficiaires du RSA, AAH et ASS en anticipant l’impact d’une rémunération de formation sur les aides qu’ils perçoivent.
 sponsors:
   - /organisations/pole-emploi
+link: https://candidat.pole-emploi.fr/simulation-ressources-formation
 incubator: pole-emploi
 contact: estimeformation@beta.pole-emploi.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
+stats: true
 phases:
   - name: construction
     start: 2023-01-20

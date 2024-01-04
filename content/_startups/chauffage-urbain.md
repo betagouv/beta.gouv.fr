@@ -8,7 +8,7 @@ sponsors:
 incubator: mtes
 link: https://france-chaleur-urbaine.beta.gouv.fr/
 repository: https://github.com/betagouv/france-chaleur-urbaine
-contact: florence.levy@developpement-durable.gouv.fr
+contact: france-chaleur-urbaine@developpement-durable.gouv.fr
 stats: true
 phases:
   - name: investigation
@@ -37,13 +37,13 @@ https://france-chaleur-urbaine.beta.gouv.fr/
 
 # L'impact
 
-Au 1er janvier 2023, le site enregistre 51 000  visites et 7 833 adresses testées (hors test en masse). Fin janvier 2023, on enregistre près de 800 demandes déposées sur le site et environ 200 raccordements à l'étude. Cela représente environ 15 000 tonnes de CO2 qui seront évitées chaque année si ces raccordements aboutissent (estimation).
+Au 1er novembre 2023, le site enregistre 159 320  visites et 72 631 adresses testées (hors test en masse). Plus de 2000 demandes ont été déposées sur le site à cette date et environ 500 raccordements sont à l'étude. Cela représente environ 28 000 tonnes de CO2 qui seront évitées chaque année si ces raccordements aboutissent (estimation).
 
-Via la fonctionnalité permettant un test d'adresses en masse mise en place début décembre 2022, plus de 700 000 adresses ont déjà été testées fin janvier 2023, par des bailleurs sociaux, bureaux d'étude, gestionnaires du bâti État... 
+Via la fonctionnalité permettant un test d'adresses en masse mise en place début décembre 2022, plus de 376 990 adresses ont déjà été testées au 1er novembre 2023, par des bailleurs sociaux, bureaux d'étude, gestionnaires du bâti État... 
 
-Enfin, des partenariats ont été établis avec une cinquantaine de collectivités, et la cartographie compte aujourd'hui plus de 400 réseaux sur les 898 recensés en France.
+Enfin, des partenariats ont été établis avec une centaine de collectivités, et la cartographie compte aujourd'hui plus de 640 réseaux sur les 898 recensés en France. L'intégralité des tracés ont été mis en open data au 1er septembre 2023.
 
-Les objectifs à fin 2023 sont de 1 800 demandes et 65 000 tonnes de CO2 évitées par an, ainsi que des partenariats établis avec une centaine de collectivités.
+Les objectifs à juin 2024 sont de 3 000 demandes et 36 000 tonnes de CO2 évitées par an, ainsi que des partenariats établis avec 180 collectivités.
 
 https://france-chaleur-urbaine.beta.gouv.fr/stats
 
@@ -87,6 +87,8 @@ Une nouvelle version du site est mise en ligne fin juillet 2021.
 Mi-2022, France Chaleur Urbaine est lauréat de France Relance au titre du guichet ITN2 "transformation numérique des écosystèmes" porté par la DINUM. Le service obtient également un soutien financier renouvelé de la DGEC, l'ADEME et la DRIEAT. 
 
 Ces nouveaux moyens permettent d'élargir le service, qui ne se limite plus aux copropriétés mais cible désormais aussi le secteur tertiaire. Un volet à destination des collectivités et exploitants est également développé, pour les accompagner dans le déploiement de leurs réseaux.
+
+Mi-2023, France Chaleur Urbaine est lauréat du guichet "Exploitation et valorisation des données" de la DINUM, et voit également le soutien financier de l'ADEME et de la DGEC renouvelé.
 
 
 

@@ -4,18 +4,18 @@ role: Développeur
 domaine: Développement
 github: jdesboeufs
 missions:
-  - end: 2015-03-09
-    start: 2014-03-10
-    employer: dinum
+  - start: 2014-03-10
+    end: 2015-03-09
     status: admin
-  - employer: Octo
+    employer: dinum
+  - start: 2015-03-10
     end: 2015-09-17
-    start: 2015-03-10
     status: service
-  - employer: Living Data
-    end: 2023-12-31
-    start: 2015-09-18
+    employer: Octo
+  - start: 2015-09-18
+    end: 2024-03-31
     status: independent
+    employer: Living Data
 startups:
   - pcrs
   - vigieau

@@ -4,9 +4,11 @@ role: Product designer
 domaine: Design
 missions:
   - start: 2023-05-15
-    end: 2023-12-31
+    end: 2024-06-30
     status: independent
     employer: ''
+startups:
+  - mon.espae.collectivite
 memberType: beta
 ---
 

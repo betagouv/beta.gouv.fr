@@ -9,5 +9,7 @@ missions:
     status: admin
     employer: DIPLP
 memberType: beta
+startups:
+  - asso.cie
 ---
 

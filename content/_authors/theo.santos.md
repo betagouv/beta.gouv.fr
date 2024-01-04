@@ -7,6 +7,8 @@ missions:
     end: 2024-01-31
     status: service
     employer: Octo
+previously:
+  - qualicharge
 startups:
   - Agora
 memberType: beta

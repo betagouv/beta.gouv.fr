@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: SPIP
 startups:
-  - justif
+  - mon-suivi-justice
 memberType: autre
 ---
 

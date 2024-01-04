@@ -11,7 +11,7 @@ layout: default
 <section class="fr-py-6w">
     <div class="fr-container">
         <div class="text-center fr-mb-2w">
-            <a class="button" href="/api/v1.7/startups.csv">Télécharger au format .csv</a>
+            <a class="button" href="/api/v2.5/startups.csv">Télécharger au format .csv</a>
         </div>
 
         {% assign phases = site.phases | sort: 'order' %}
@@ -35,11 +35,11 @@ layout: default
                     {% assign startups = site.startups | where_phase: phase.status %}
                     {% for startup in startups %}
                         <tr>
-                            <td>{{ startup.title }}</td>
+                            <td><a href="{{ startup.id }}">{{ startup.title }}</a></td>
                             <td>{{ startup.mission }}</td>
                             <td>{{ phase.label }}</td>
 
-                            {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
+                            {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
                             {% assign incubator = site.incubators | where:'id', incubator_id | first %}
                             <td>{{ incubator.title }}</td>
 

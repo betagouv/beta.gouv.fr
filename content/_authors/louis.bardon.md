@@ -4,7 +4,7 @@ role: Business developpement (Avant vente, makerting, vente...)
 domaine: Coaching
 missions:
   - start: 2022-08-05
-    end: 2023-11-15
+    end: 2024-06-01
     status: admin
     employer: SG/DNUM
 ---

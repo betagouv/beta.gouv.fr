@@ -5,11 +5,11 @@ domaine: Déploiement
 github: clemencererolle
 missions:
   - start: 2021-11-18
-    end: 2023-11-01
+    end: 2024-09-01
     status: independent
     employer: Octo
 startups:
-  - eco-euro
+  - carte-verte
 badges:
   - segur
 previously:

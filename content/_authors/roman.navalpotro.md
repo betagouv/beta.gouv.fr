@@ -5,7 +5,7 @@ domaine: Coaching
 link: https://www.linkedin.com/in/romannavalpotro/
 missions:
   - start: 2022-09-01
-    end: 2023-12-31
+    end: 2024-02-28
     status: independent
     employer: NUMA
 startups:

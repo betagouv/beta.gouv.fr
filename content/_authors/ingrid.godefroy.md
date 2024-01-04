@@ -9,8 +9,8 @@ missions:
     employer: Octo
 startups:
   - signalement
-  - monstage
 previously:
+  - monstage
   - commun.orientation
 ---
 

@@ -66,9 +66,9 @@ layout: default
     ];
     var incubators = [
         {% for incubator in incubators %} {
-        id: "{{incubator.id}}".replace('/incubators/', ''),
+        id: "{{incubator.id}}".replace('/incubateurs/', ''),
         title: "{{incubator.title}}",
-        url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
+        url: "/startups/?incubateur={{ incubator.id | remove: '/incubateurs/' }}"
         },
         {% endfor %}
     ];
@@ -95,7 +95,7 @@ layout: default
             {% else %}
             {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
             {% endif %}
-            {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
+            {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
             {% assign incubator = incubators | where:'id', incubator_id | first %}
             { "id"        : "{{ startup.id | remove: '/startups/' }}"
             , "type"      : "startup"
@@ -145,13 +145,13 @@ layout: default
     <div class="fr-tabs">
         <ul class="fr-tabs__list" role="tablist" aria-label="Changer de vue">
             <li role="presentation">
-                <button id="tabpanel-currents" class="fr-tabs__tab" tabindex="0" role="tab" aria-selected="true" aria-controls="tabpanel-actifs">Membres actifs</button>
+                <button id="tabpanel-actifs-button" class="fr-tabs__tab" tabindex="0" role="tab" aria-selected="true" aria-controls="tabpanel-actifs">Membres actifs</button>
             </li>
             <li role="presentation">
-                <button id="tabpanel-alumnis" class="fr-tabs__tab" tabindex="-1" role="tab" aria-selected="false" aria-controls="tabpanel-alumnis">Alumni</button>
+                <button id="tabpanel-alumnis-button" class="fr-tabs__tab" tabindex="-1" role="tab" aria-selected="false" aria-controls="tabpanel-alumnis">Alumni</button>
             </li>
         </ul>
-        <div id="tabpanel-actifs" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-currents" tabindex="0">
+        <div id="tabpanel-actifs" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-actifs-button" tabindex="0">
             <h2><span id="currents-count">{{ currents | size }}</span> membres actifs</h2>
             <div class="authors fr-grid-row fr-grid-row--gutters">
                 {%- for author in currents -%}
@@ -159,7 +159,7 @@ layout: default
                 {%- endfor -%}
             </div>
         </div>
-        <div id="tabpanel-alumnis" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-currents" tabindex="-1">
+        <div id="tabpanel-alumnis" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-alumnis-button" tabindex="-1">
             <h2><span id="alumnis-count">{{ alumnis | size }}</span> alumni</h2>
             <div class="alumnis fr-grid-row fr-grid-row--gutters">
                 {%- for author in alumnis -%}

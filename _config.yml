@@ -73,6 +73,8 @@ collections_dir:
 collections:
   authors:
   incubators:
+    output: true
+    permalink: /incubateurs/:title.html
   intras:
   jobs:
     output: true
@@ -113,6 +115,11 @@ defaults:
       type: "startups"
     values:
       layout: startup
+  - scope:
+      path: ""
+      type: "incubators"
+    values:
+      layout: incubateur
   - scope:
       path: "img/authors"
     values:

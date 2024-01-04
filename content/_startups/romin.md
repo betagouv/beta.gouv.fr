@@ -7,7 +7,7 @@ sponsors:
 incubator: justice
 repository: https://github.com/betagouv/romin/
 contact: contact@romin.beta.gouv.fr
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM#ROMIN
+budget_url: https://pad.numerique.gouv.fr/s/WYougVwWu#ROMIN
 accessibility_status: non conforme
 events:
   - name: committee
@@ -29,7 +29,7 @@ phases:
     start: 2022-11-17
 usertypes:
   - etat
-stats_url: https://stats.beta.gouv.fr/index.php?idSite=14
+stats_url: https://romin.beta.gouv.fr/stats
 stats: true
 ---
 ## Contexte

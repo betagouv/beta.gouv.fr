@@ -1,16 +1,17 @@
 ---
 fullname: Lucas Jouin
-role: UX&#x2F;UI Designer
+role: UX Designer
 domaine: Design
 link: https://lucasjouin.com/
 github: LuluFreeDesign
 missions:
   - start: 2023-07-03
-    end: 2023-12-31
+    end: 2024-06-30
     status: independent
     employer: Malt
 startups:
   - zero-logement-vacant
+  - aquaculteurs.marins
 memberType: beta
 ---
 

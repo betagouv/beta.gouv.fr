@@ -9,7 +9,7 @@ missions:
     status: service
     employer: Codeurs en Liberté
   - start: 2023-02-15
-    end: 2023-12-01
+    end: 2024-08-01
     status: independent
     employer: Codeurs en Liberté
 startups:

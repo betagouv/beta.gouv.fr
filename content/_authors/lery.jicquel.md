@@ -15,7 +15,7 @@ missions:
 startups:
   - AidESS-Relance
   - inca
-  - justif
+  - mon-suivi-justice
   - infoparquet
   - sndv_maritime
 previously:

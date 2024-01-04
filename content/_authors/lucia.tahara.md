@@ -9,6 +9,7 @@ missions:
     status: independent
 startups:
   - bat-id
+  - zones.irriguees.et.irrigables
 memberType: autre
 ---
 

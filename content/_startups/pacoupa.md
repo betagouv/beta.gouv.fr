@@ -1,6 +1,8 @@
 ---
 title: Pacoupa
-mission: Faciliter la transition énergétique des systèmes de chauffage des bâtiments
+mission: >-
+  Outiller les copropriétaires dans l'installation de systèmes de chauffage
+  décarbonés adaptés à leur logement 
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -9,6 +11,8 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-05-25
+  - name: construction
+    start: 2023-12-01
 ---
 ## Contexte
 
@@ -21,6 +25,12 @@ Les pompes à chaleur sont un des systèmes de chauffage alternatifs permettant 
 Les alternatives écologiques aux systèmes de chauffage carbonés existent. Selon les types de bâtiments, les PAC sont plus ou moins adaptées au logement mais une rénovation globale, préalable à l’installation du nouveau système, est très souvent nécessaire. Réduisant les risques de surdimensionnement, de déperdition de chaleur, ces rénovations permettent de diminuer la puissance et le coût du système de pompes à chaleur installé. 
 Pour les utilisateurs, le sentiment de solitude face à la multiplicité des acteurs de la rénovation et la priorisation du changement de système avant la réalisation des gestes d’isolation sont à craindre. 
 
-## Investigation
+## Résultats de l'Investigation
 
-Cette investigation a vocation à identifier les moyens de renforcer la rénovation énergétique des bâtiments dans un contexte de limitation progressive des usages du gaz dans les systèmes de chauffage. Plusieurs solutions alimentées par des énergies renouvelables existent (PAC, Réseaux de chaleur, etc.), mais il existe un risque d’installation de systèmes inadaptés au bâtiment qu’il nous semble important de prévenir.
+Dans l'objectif d'outiller les copropriétaires dans l'installation de systèmes de chauffage décarbonés adaptés à leur logement, l'investigation a démontré : 
+- Un besoin d’informations déjà concrètes et personnalisées en amont des phases d’étude pour convaincre de voter un audit en Assemblée Générale de copropriété
+- Le manque d’outils pour guider le copropriétaire dans le choix de son mode de chauffage
+- L'absence de site institutionnel sur les questions de chauffage en copropriété au profit d’une multitude de sites commerciaux
+- L'existence d'outils d'aide à la décision pour les professionnels du bâtiment
+
+Afin de lever les freins à la mise en action vers l'installation d'une solution de chauffage décarbonée, Pacoupa entend fournir aux copropriétaires des conseils sur les systèmes de chauffages adaptés à leur logement à partir d'un simulateur à différents niveaux de précisions.

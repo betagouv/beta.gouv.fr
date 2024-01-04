@@ -7,8 +7,8 @@ missions:
     end: 2023-07-31
     status: independent
     employer: ''
-startups:
-  - rafraichir.les.villes
+previously:
+  - plusfraichemaville
 ---
 
 Product Designer

@@ -5,7 +5,7 @@ domaine: Animation
 link: https://surlavague.co/
 missions:
   - start: 2022-10-24
-    end: 2023-12-31
+    end: 2024-06-29
     status: independent
     employer: Octo
 badges:

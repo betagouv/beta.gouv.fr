@@ -5,7 +5,7 @@ domaine: Développement
 github: pierreericgarcia
 missions:
   - start: 2022-10-03
-    end: 2023-12-07
+    end: 2024-01-31
     status: independent
     employer: DINUM
 startups:

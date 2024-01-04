@@ -4,7 +4,7 @@ role: Customer Success Manager
 domaine: Développement
 missions:
   - start: 2022-11-28
-    end: 2023-11-30
+    end: 2024-04-29
     status: independent
     employer: DINUM
 startups:

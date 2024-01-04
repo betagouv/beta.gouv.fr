@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: Tribunal judiciaire de Nanterre
 startups:
-  - justif
+  - mon-suivi-justice
 badges:
   - segur
 competences:

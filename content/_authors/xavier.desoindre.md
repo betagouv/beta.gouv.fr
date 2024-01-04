@@ -6,15 +6,16 @@ github: desoindx
 link: https://epicse.fr/
 missions:
   - start: 2021-05-03
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
     employer: UT7
 startups:
-  - la.bonne.renov
-  - chauffage-urbain
+  - impact.co2
 previously:
   - aides.jeunes
   - sante-psy-etudiant
+  - chauffage-urbain
+  - la.bonne.renov
 competences:
   - Développement Frontend
   - Développement Backend

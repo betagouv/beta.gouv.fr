@@ -10,6 +10,9 @@ missions:
     status: independent
     employer: Incubateur des territoires
 memberType: beta
+teams:
+  - /teams/anct
+
 ---
 
 Développeur engagé, facilitateur engageant, créateur d'impact, leadership empathique, mentorat bienveillant.

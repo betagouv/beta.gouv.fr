@@ -12,16 +12,6 @@ L'équipe [Aides-Jeunes](https://beta.gouv.fr/startups/aides.jeunes.html) recher
 
 <!--more-->
 
-<style type="text/css">
-p {
-      margin: 1.5rem 0 0 0;
-}
-
-h2, h3 {
-      margin: 3rem 0 1rem 0;
-}
-</style>
-
 Ça peut paraître surprenant et c'est, il faut l'avouer, un peu expérimental comme approche. Aujourd'hui beta.gouv.fr nous semble assez mûr pour tirer vraiment partie des différentes équipes, initiatives et bases de codes ouvertes.
 
 Chaque équipe a ses priorités et nous pensons que la personne qui nous rejoindra pourra avoir le rôle de dev en résidence, avec nous, l'équipe du simulateur, mais aussi en vadrouille sur les produits alentours pour les mettre en réseau au service des citoyen·ne·s et résident·e·s.
@@ -75,7 +65,7 @@ C'est à cet endroit là que nous souhaitons faire le lien avec d'autres service
 
 Vous êtes autonome dans la conception, l'écriture et le déploiement de votre code, et en maîtrisez les bonnes pratiques.
 
-Vous êtes curieuse ou curieux, et capable de travailler sur des bases de code existantes. 
+Vous êtes curieuse ou curieux, et capable de travailler sur des bases de code existantes.
 
 Intégré·e à l'équipe de Aides-Jeunes, vous êtes responsable d'expérimenter et implémenter des fonctionnalités nécessaires à la bonne articulation entre le simulateur et RDV-Solidarités puis le simulateur et démarches-simplifiées.fr.
 
@@ -105,6 +95,6 @@ Intégré·e à l'équipe de Aides-Jeunes, vous êtes responsable d'expérimente
 - Le télétravail est possible, mais une présence ponctuelle à Paris est demandée pour participer aux sessions stratégiques et collaboratives. Des bureaux ou espaces de travail beta.gouv.fr sont accessibles à Paris et à Lyon.
 - Démarrage dès que possible.
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [aides-jeunes@beta.gouv.fr](mailto:aides-jeunes@beta.gouv.fr?subject=Recrutement dev en résidence)
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [aides-jeunes@beta.gouv.fr](mailto:aides-jeunes@beta.gouv.fr?subject=Recrutement%20dev%20en%20résidence)
 
 À bientôt ! 😀

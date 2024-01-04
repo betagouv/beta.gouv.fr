@@ -1,24 +1,33 @@
 ---
 title: Transition Écologique des Entreprises
-mission: Guider les entreprises dans leur transition écologique
+mission: >-
+  Guider les entreprises dans leur transition écologique
 sponsors:
   - /organisations/ademe
 incubator: ademe
-usertypes:
-  - entreprise
+contact: jeanbaptiste.ledevehat.ext@ademe.fr
+link: http://mission-transition-ecologique.beta.gouv.fr/
+repository: https://github.com/betagouv/transition-ecologique-entreprises-widget
+accessibility_status: non conforme
+dashlord_url: https://incubateur-ademe.github.io/dashlord/url/mission-transition-ecologique-beta-gouv-fr/
+stats: false
+# stats_url: >-
+#   https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=194&period=day&date=yesterday#?idSite=194&period=day&date=yesterday&segment=&category=Dashboard_Dashboard&subcategory=1
+# budget_url: http://mission-transition-ecologique.beta.gouv.fr/budget
+analyse_risques: false
+# analyse_risques_url: https://github.com/betagouv/carte-verte/blob/main/SECURITY.md
 phases:
   - name: investigation
     start: 2023-02-27
     end: 2023-03-30
   - name: construction
     start: 2023-03-30
-link: http://mission-transition.beta.gouv.fr/
-repository: https://github.com/betagouv/transition-ecologique-entreprises-widget
-stats: false
-stats_url: >-
-  https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=194&period=day&date=yesterday#?idSite=194&period=day&date=yesterday&segment=&category=Dashboard_Dashboard&subcategory=1
-contact: jeanbaptiste.ledevehat.ext@ademe.fr
-accessibility_status: non conforme
+techno:
+    - Vue.js
+    - TypeScript
+    - publi.codes
+usertypes:
+  - entreprise
 ---
 Le service public Transition Écologique des Entreprises est un guichet d'accueil, d'aide et d'accompagnement dans la transition écologique des entreprises.
 
@@ -32,7 +41,7 @@ La mise en œuvre de cette stratégie nécessitera des investissements massifs e
 
 ### Méconnaissance des enjeux et illisibilité des dispositifs d'aide aux entreprises
 
-A défaut d’une vision claire des opportunités et des risques, les entreprises ignorent, majoritairement, les actions à engager. L'un des freins à l’action est le manque d’informations et de temps à y consacrer. Contrairement aux grandes entreprises, les TPE, PME et ETI n’ont pas encore d’obligations légales et de personnes dédiées à ces sujets. La transition écologique et énergétique (TEE) est parfois perçue par certains dirigeants comme nécessaire à long-terme mais coûteuse et ainsi non prioritaire à court-terme. 
+A défaut d’une vision claire des opportunités et des risques, les entreprises ignorent, majoritairement, les actions à engager. L'un des freins à l’action est le manque d’informations et de temps à y consacrer. Contrairement aux grandes entreprises, les TPE, PME et ETI n’ont pas encore d’obligations légales et de personnes dédiées à ces sujets. La transition écologique et énergétique (TEE) est parfois perçue par certains dirigeants comme nécessaire à long-terme mais coûteuse et ainsi non prioritaire à court-terme.
 
 D'autres entreprises ne parviennent pas à mettre en œuvre leurs projets. Pour ces seconds, minoritaires, la difficulté n’est pas d’identifier des actions et des projets mais d'être accompagné afin de les mettre en œuvre, et de les financer.
 
@@ -40,7 +49,7 @@ Depuis peu, nous observons une multiplication des dispositifs d'aides par les op
 
 Surtout que les dispositifs d’aide à la transition écologique des entreprises sont nombreux et de nature diverse. Ils répondent à des besoins variés, allant de crédits d’impôts jusqu’à des programmes d’accompagnement individualisés.
 
-Cette situation rend illisible pour le chef d’entreprise, a fortiori de TPE/PME, le parcours à effectuer pour réaliser une démarche de transition écologique de son entreprise. Or, rien que pour la décarbonation, les analyses sectorielles, menées sur l’industrie et l’économie de proximité, montrent que près de 2 millions d’entreprises devront verdir leur activité à un degré plus ou moins poussé pour atteindre les objectifs de la SNBC - Stratégie Nationale Bas Carbone. 
+Cette situation rend illisible pour le chef d’entreprise, a fortiori de TPE/PME, le parcours à effectuer pour réaliser une démarche de transition écologique de son entreprise. Or, rien que pour la décarbonation, les analyses sectorielles, menées sur l’industrie et l’économie de proximité, montrent que près de 2 millions d’entreprises devront verdir leur activité à un degré plus ou moins poussé pour atteindre les objectifs de la SNBC - Stratégie Nationale Bas Carbone.
 
 Enfin, même par bonne volonté, l'entreprise ne peut pas toujours agir seule. Les transformatoins doivent se situer à un niveau supérieur, à une échelle locale, sectoriele ou réglementaire, dont les dirigeants ont une influence partielle.
 

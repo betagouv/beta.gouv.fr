@@ -1,34 +1,69 @@
 ---
-title: TACCT
-mission: "un véritable service autour de la méthodologie TACCT, pour aider les
-  territoires à monter en compétence et gagner en autonomie sur la thématique
-  Adaptation au changement climatique "
+title: Facili-TACCT
+mission: Vers un service d’accompagnement des collectivités pour une meilleure
+  appropriation de leur diagnostic de vulnérabilité.
 sponsors:
   - /organisations/ademe
 incubator: ademe
-link: https://tacct.ademe.fr/
+link: ""
 contact: aude.bodiguel@ademe.fr
 accessibility_status: non conforme
-events: []
+events:
+  - name: committee
+    date: 2023-10-16
 phases:
   - name: investigation
     start: 2023-02-01
     end: 2023-03-31
+  - name: construction
+    start: 2023-10-23
 ---
-## Contexte
+# Contexte
 
-**L﻿e Changement climatique :** 
+Les collectivités locales sont aux avant-postes de la transition écologique en France. Avec des compétences transverses, elles jouent tour à tour un rôle de financeur, médiateur, organisateur, quand elles ne sont pas elles-mêmes commanditaires de projets à impact.
 
-\- une réalité qui s’impose à tous : Les impacts du changement climatique, largement relayés par les médias, deviennent difficiles à ignorer. Pourtant chaque nouvel épisode (sécheresses, inondations...) reste l’occasion d’une douloureuse prise de conscience, pour certaines collectivités, de devoir adapter leur territoire au changement climatique ; pour d’autres, s’impose le constat d’une prise en compte a minima ne répondant pas aux enjeux. Les efforts à fournir pour s’adapter au changement climatique sont désormais chiffrés : au moins 2,3 Mds d’euros supplémentaires par an, avec la certitude que tout retard renforcera le coût de la facture finale.
+Depuis 2018, les établissements publics de coopération intercommunale (EPCI) de plus de 20 000 habitants sont tenus de réaliser un Plan Climat Air Énergie Territorial (PCAET), renouvelé tous les 6 ans, qui inclut obligatoirement un volet “adaptation au changement climatique”. Ce volet doit être présent dans la stratégie et le plan d’action mais aussi faire l’objet d’un diagnostic spécifique.
 
-\- et une source d’interrogations pour les territoires : Que signifie être adapté aux impacts du changement climatique ? Quelles différences avec la gestion des risques naturels ? Par quelles étapes faut-il passer ? Quelles actions mettre en œuvre aujourd’hui ? Seront-elles toujours efficaces demain ? Suis-je concernée si je suis une petite collectivité, avec peu de moyens et peu de compétences pour agir ?
+Cette première représentation locale de la problématique climatique sur le territoire pourrait être une opportunité réelle pour les collectivités de prendre conscience des enjeux et de favoriser l'émergence de visions alternatives pour le territoire. Pourtant, la mise en conformité avec la réglementation prime sur l'élaboration de stratégies de transition concertées : le diagnostic est alors considéré comme une opération technique, souvent réalisée par une entreprise externe à la collectivité.
 
-## Problème
 
-Un constat sans appel sur l’existant : des stratégies d’adaptation au changement climatique se limitant à quelques grandes orientations génériques ; une déclinaison en actions trop généralistes, assez peu opérationnelles, pas à la hauteur des enjeux climatiques ; des blocages dans leur mise en œuvre (difficulté de mobilisation notamment) ; une adaptation réactive (coûteuse) plutôt qu’en anticipation ; un risque de maladaptation pour certains, déjà une réalité pour d’autres. Les raisons ? un diagnostic de vulnérabilité désincarné, une stratégie hors-sol et un plan d’action ‘catalogue’ sans lendemain.
 
-## Solution
+# Problème
 
-Dans tous les cas à destination des chargés de mission en charge de l’adaptation au changement climatique à différentes échelles de territoire.
+Du fait que les effets du changement climatique sont ressentis au niveau local, on pourrait penser que les enjeux d’adaptation sont bien identifiés et appropriés. Ce n’est pourtant pas le cas : les diagnostics sont fortement standardisés… Enjeux “désincarnés” et volets adaptation “génériques” débouchent sur des stratégies “hors sol”.
 
-L’adaptation fait référence à l’idée de mouvement : aidons les territoires à trouver leur chemin !
+C’est pourtant sur la base d’un diagnostic exposant clairement les enjeux du territoire mais surtout compris et partagé par l’ensemble des parties prenantes (élus, services techniques, acteurs du territoire), que peuvent s’ouvrir des discussions constructives sur les problématiques d’adaptation.
+
+Dans ce cadre, Facili-TACCT, notre solution vise à aider **l’ensemble des parties prenantes à mieux s’approprier leur diagnostic de vulnérabilité.**
+
+
+
+# Solution
+
+**Facili-TACCT s’adresse aux chargé.e.s de mission climat dans les collectivités** qui :
+
+* préparent leur premier PCAET
+* révisent le PCAET réalisé plusieurs années auparavant
+* mènent une démarche volontaire d’adaptation au changement climatique, en dehors d’un cadre réglementaire (communes, PNR…)
+
+Les bureaux d’étude pourront également s’appuyer sur les ressources mises à disposition.
+
+Le service Facili-TACCT vise à leur donner les clés pour :
+
+1. **Préparer un diagnostic de vulnérabilité le plus qualitatif possible**
+2. **Permettre aux élus et services techniques, voire au delà aux parties prenantes, de s’approprier ce diagnostic**
+
+Pour se faire, Facili-TACCT :
+
+* prendra la forme d’un **outil de réflexion sur les thématiques d’adaptation des territoires**.
+* apportera des **données socio-économiques clés mises en valeur et contextualisées** à chaque territoire.
+* mobilisera les chargés de mission climat dans une **communauté de pratique dédiée à l’adaptation** au changement climatique des territoires.
+
+
+
+*—*
+
+*Note : Facili-TACCT est un service complémentaire à la plateforme [TACCT](https://tacct.ademe.fr/) :*
+
+* ***La plateforme TACCT propose un accompagnement global aux collectivités** souhaitant s’engager dans un programme ambitieux d’adaptation au changement climatique : diagnostic de vulnérabilité, définition d’une trajectoire d’adaptation et d’un plan d’action, suivi-évaluation.*
+* ***Facili-TACCT apporte une (re)lecture socio-éco du territoire permettant d’enrichir le diagnostic de vulnérabilité**. La collectivité aura toutes les cartes en main pour faire de l’adaptation un thème important de son PCAET, voire poursuivre en s’engageant dans une démarche d’adaptation au long court avec TACCT.*

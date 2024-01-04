@@ -4,7 +4,7 @@ mission: Sauver des vies en mer en facilitant la circulation d'information entre
   les plaisanciers, leurs proches et les services de secours
 sponsors:
   - /organisations/dgitm
-incubator: dinum
+incubator: mtes
 contact: patrick.lambret@beta.gouv.fr
 accessibility_status: non conforme
 events: []

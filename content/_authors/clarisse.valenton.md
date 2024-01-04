@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: DGE
 startups:
-  - plateforme.impact
+  - portail.rse
 memberType: beta
 ---
 

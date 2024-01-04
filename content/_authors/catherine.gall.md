@@ -6,12 +6,11 @@ github: GallCatherine
 link: https://www.linkedin.com/in/catherine-arod-gall-0585a82/
 missions:
   - start: 2022-03-28
-    end: 2023-12-30
+    end: 2024-12-31
     status: independent
     employer: numa
 startups:
   - emile
-
 ---
 
 

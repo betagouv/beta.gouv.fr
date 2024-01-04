@@ -8,19 +8,8 @@ RDV-Solidarités est un outil de prise de RDV en ligne et d'organisation du temp
 
 Actuellement, elle est en cours de déploiement auprès des 4 000 Conseillers Numériques France services.
 
-L'équipe [RDV-Solidarités](https://beta.gouv.fr/startups/lapins.html) recherche donc **une personne chargée de la relation utilisateur** pour prendre soin de ces nouvelles personnes qui vont utiliser RDV-Solidarités au quotidien. 
+L'équipe [RDV-Solidarités](https://beta.gouv.fr/startups/lapins.html) recherche donc **une personne chargée de la relation utilisateur** pour prendre soin de ces nouvelles personnes qui vont utiliser RDV-Solidarités au quotidien.
 <!--more-->
-
-<style type="text/css">
-p {
-      margin: 1.5rem 0 0 0;
-}
-
-h2, h3 {
-      margin: 3rem 0 1rem 0;
-}
-</style>
-
 
 ## Responsabilités
 
@@ -51,6 +40,6 @@ Nous aimerions donc que vous puissiez prendre soin des utilisateurs mieux que no
 - Le télétravail est possible, une présence ponctuelle à Paris est demandée pour participer aux sessions stratégiques et collaboratives.
 - Démarrage dès que possible.
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [contact@rdv-solidarites.fr avec incubateur@anct.gouv.fr en copie](mailto:contact@rdv-solidarites.fr?cc=incubateur@anct.gouv.fr&subject=Recrutement relation usager Conseillers Numériques)
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [contact@rdv-solidarites.fr avec incubateur@anct.gouv.fr en copie](mailto:contact@rdv-solidarites.fr?cc=incubateur@anct.gouv.fr&subject=Recrutement%20relation%20usager%20Conseillers%20Numériques)
 
 À bientôt ! 😀

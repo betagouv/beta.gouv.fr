@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Malt
 startups:
+previously:
   - a-just
 ---
 

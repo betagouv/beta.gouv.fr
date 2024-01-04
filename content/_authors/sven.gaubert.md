@@ -8,7 +8,7 @@ missions:
     end: 2023-12-31
     status: independent
     employer: ut7
-startups:
+previously:
   - tdb-apprentissage
 memberType: beta
 

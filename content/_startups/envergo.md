@@ -10,19 +10,22 @@ contact: contact@envergo.beta.gouv.fr
 usertypes:
   - collectivite-territoriale
   - entreprise
+stats_url: https://envergo.beta.gouv.fr/stats
 stats: true
 events: []
 phases:
   - name: investigation
-    end: 2021-07-12
     start: 2021-04-08
+    end: 2021-07-12
   - name: construction
     start: 2021-07-13
+  - start: 2023-09-04
+    name: acceleration
 fast:
   promotion: 13
   montant: 200000
 ---
-![](/img/netlifycms/screenshot.2022-06-22.at.12.46.58.png)
+![](/img/netlifycms/envergo.jpg)
 
 ## Le problème à résoudre
 
