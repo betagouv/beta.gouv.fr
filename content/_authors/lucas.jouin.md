@@ -12,6 +12,7 @@ missions:
 startups:
   - zero-logement-vacant
   - aquaculteurs.marins
+  - longuevieauxobjets
 memberType: beta
 ---
 
