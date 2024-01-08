@@ -9,6 +9,6 @@ missions:
     status: service
     employer: Octo
 memberType: dinum
-teams:
-  - /teams/dinum_produits_interministeriels
+startups:
+  - suite.collaborative
 ---
