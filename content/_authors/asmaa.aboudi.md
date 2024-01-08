@@ -9,5 +9,8 @@ missions:
     status: admin
     employer: GIP Plateforme de l'inclusion
 memberType: beta
+startups:
+  - l-immersion-facile
+  - les-emplois
 ---
 
