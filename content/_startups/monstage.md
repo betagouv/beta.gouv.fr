@@ -15,7 +15,7 @@ phases:
     start: 2021-01-01
 link: https://www.monstagedetroisieme.fr/
 repository: https://github.com/betagouv/monstage
-stats: false
+stats: https://www.monstagedetroisieme.fr/statistiques
 contact: support@monstagedetroisieme.fr
 usertypes:
   - particulier
