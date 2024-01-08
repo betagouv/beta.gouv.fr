@@ -5,7 +5,7 @@ domaine: Design
 github: paloma-f
 missions:
   - start: 2021-02-02
-    end: 2024-02-02
+    end: 2030-02-02
     status: admin
     employer: Ministère de l'Intérieur - Laboratoire innovation
 ---
