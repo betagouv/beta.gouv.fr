@@ -1,5 +1,6 @@
 ---
 fullname: Jerome Goujon
+github: JeromeGoujon
 role: Chargé de déploiement
 domaine: Déploiement
 link: https://www.linkedin.com/in/jerome-goujon-consulting
