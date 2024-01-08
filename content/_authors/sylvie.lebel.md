@@ -14,8 +14,9 @@ missions:
     employer: pole-emploi
 
 startups:
-    - zen
     - Immersion Facilitée
+previously:
+    - zen
 ---
 
 Je m’attache à ce que chaque demandeur d’emploi comprenne et s’approprie les services de Pôle emploi.
