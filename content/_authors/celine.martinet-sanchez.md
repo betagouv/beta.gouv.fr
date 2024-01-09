@@ -19,8 +19,8 @@ missions:
     employer: malt
 startups:
   - itou
-  - inclusion.connect
 previously:
+  - inclusion.connect
   - la-bonne-boite
 ---
 
