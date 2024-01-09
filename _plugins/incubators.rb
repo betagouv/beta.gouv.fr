@@ -32,7 +32,7 @@ module Jekyll
     end
 
     def count_all_active_startups(startups)
-      startups.count { |startup| ['investigation', 'construction', 'acceleration', 'transfer'].include?(get_phase(startup))
+      startups.count { |startup| ['investigation', 'construction', 'acceleration', 'transfer', 'success'].include?(get_phase(startup))
       }
     end
 

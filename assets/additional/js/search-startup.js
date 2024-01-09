@@ -98,7 +98,9 @@ var updateCards = function (data) {
     var grid = phaseElement.getElementsByClassName("startups")[0];
     var documentFragment = document.createDocumentFragment();
     var dataToDisplay = filterCards(data[phase]);
-    count = count + dataToDisplay.length;
+    if (phase !== "alumni") {
+      count = count + dataToDisplay.length;
+    }
     if (!dataToDisplay.length) {
       phaseElement.style.display = "none";
       optionElements.forEach((optionElement) => {
@@ -233,7 +235,7 @@ var createNationalImpactSelect = function (selectElement, data, initValue) {
     filters["is_national_impact"] = value;
     updateCards(data);
   };
-  if (initValue) {
+  if (initValue === "true") {
     selectElement.value = initValue;
     selectElement.checked = initValue;
     onNationalImpactChange(initValue);
