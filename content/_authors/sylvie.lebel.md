@@ -1,7 +1,7 @@
 ---
 fullname: Sylvie Lebel
-role: Intrapreneuse
-domaine: Intraprenariat
+role: Chargée de déploiement 
+domaine: Déploiement
 avatar: https://avatars1.githubusercontent.com/u/38952269?s=460&v=4
 missions:
   - start: 2018-04-01
