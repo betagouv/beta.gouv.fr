@@ -110,7 +110,7 @@ layout: default
                             Filtres de recherche
                         </h3>
                         <div class="fr-card__desc fr-mt-6w">
-                            {% include startups-filters.html %}
+                            {% include startups-filters.html, prefix: 'filters-' %}
                         </div>
                     </div>
                 </div>
@@ -123,7 +123,7 @@ layout: default
                         <button class="fr-accordion__btn" aria-expanded="false" aria-controls="fr-accordion-0-body-0" data-fr-js-collapse-button="true">Filtres de recherche</button>
                     </h3>
                     <div class="fr-collapse" id="fr-accordion-0-body-0">
-                        {% include startups-filters.html %}
+                        {% include startups-filters.html, prefix: 'collapse-filters-' %}
                     </div>
                 </div>
             </section>
