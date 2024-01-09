@@ -31,6 +31,11 @@ module Jekyll
       }
     end
 
+    def count_all_active_startups(startups)
+      startups.count { |startup| ['investigation', 'construction', 'acceleration', 'transfer'].include?(get_phase(startup))
+      }
+    end
+
     # copied from `_plugins/phases.rb` but it's too tricky to reapply the filter in another separated filter
     def get_phase(startup)
       startup['phases'].last['name'] || startup.data['phases']&.last['name']
