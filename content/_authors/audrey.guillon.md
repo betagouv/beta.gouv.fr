@@ -4,7 +4,7 @@ domaine: Déploiement
 role: Chargée de déploiement
 missions:
   - start: 2022-01-03
-    end: 2023-12-31
+    end: 2024-06-28
     status: independent
     employer: ''
 incubator: ''

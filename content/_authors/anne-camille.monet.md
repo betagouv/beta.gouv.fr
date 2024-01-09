@@ -5,9 +5,9 @@ role: product manager
 github: Anne-Camille
 missions:
   - start: 2017-04-01
-    end: 2023-12-31
+    end: 2024-12-31
     status: admin
-    employer: ""
+    employer: ''
 incubator: mission-apprentissage
 startups:
   - besoins.opco

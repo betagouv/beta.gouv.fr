@@ -1,7 +1,7 @@
 ---
 fullname: Julianne Lagadec
-role: Adjointe au coordinateur de la mission interministérielle InserJeunes - Responsable des relations publiques
-domaine: Déploiement
+role: Adjointe au coordinateur de la mission interministérielle InserJeunes
+domaine: Intraprenariat
 github: Julianne-Lagadec
 link: https://fr.linkedin.com/in/julianne-lagadec
 missions:
@@ -13,6 +13,7 @@ startups:
   - sirius
   - expositionIJ
   - investigationIJ
+  - pilotagevoiepro
 previously:
   - voeux-apprentissage
   - dematapprentissage

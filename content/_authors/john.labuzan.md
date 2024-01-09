@@ -16,7 +16,6 @@ startups:
   - signalement
   - mediature
   - place-des-entreprises
-  - nosgestesclimat
   - lannuaire.des.collectivites
 previously:
   - aides-territoires
@@ -24,6 +23,7 @@ previously:
   - mediature
   - commun.orientation
   - apilos
+  - nosgestesclimat
 competences:
   - UX
   - Gestion de Produit

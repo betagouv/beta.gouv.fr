@@ -7,7 +7,7 @@ avatar: null
 link: https://codeconut.fr
 missions:
   - start: 2017-01-01
-    end: 2025-01-15
+    end: 2025-01-31
     status: independent
     employer: OCTO
 startups:

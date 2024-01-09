@@ -6,7 +6,7 @@ link: https://www.miximum.fr
 github: thibault
 missions:
   - start: 2018-08-01
-    end: 2023-12-31
+    end: 2034-06-30
     status: independent
     employer: ''
 startups:

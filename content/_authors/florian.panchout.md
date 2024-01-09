@@ -8,8 +8,8 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ADEME
-teams:
-  - /teams/ademe
+startups:
+  - nosgestesclimat
 badges:
   - segur
 ---

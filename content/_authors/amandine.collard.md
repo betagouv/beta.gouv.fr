@@ -2,10 +2,11 @@
 domaine: Intraprenariat
 missions:
   - start: 2023-04-24
-    end: 2024-04-24
+    end: 2024-09-24
     status: admin
 competences:
   - Administration Publique
+  - Métier
 memberType: autre
 fullname: Amandine Collard
 role: Intrapreneuse

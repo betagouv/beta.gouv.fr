@@ -1,6 +1,7 @@
 ---
-mission: Informer et permettre l'inscription à toutes les opportunités
-  d'événements en vue du retour à l'emploi
+mission: >-
+  Informer et permettre l'inscription à toutes les opportunités d'événements en
+  vue du retour à l'emploi
 incubator: pole-emploi
 contact: deudmesevenementsemploi.00589@pole-emploi.fr
 redirect_from:
@@ -17,7 +18,8 @@ dashlord_url: http://dashlord.incubateur.net/url/mesevenementsemploi-pole-emploi
 events:
   - name: product_launch
     date: 2021-01-07
-    comment: La première version du site est ouverte aux Demandeurs d'Emploi
+    comment: >-
+      La première version du site est ouverte aux Demandeurs d'Emploi
       bénéficiaires de l'Allocation de Solidarité Spécifique.
 phases:
   - name: investigation
@@ -28,7 +30,6 @@ phases:
     end: 2021-03-08
   - name: acceleration
     start: 2021-11-01
-    comment: ""
 ---
 ### **Problème :**
 

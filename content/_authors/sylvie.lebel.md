@@ -8,7 +8,14 @@ missions:
     end: 2021-06-30
     status: admin
     employer: pole-emploi
+  - start: 2024-01-01
+    end: 2024-12-31
+    status: admin
+    employer: pole-emploi
+
 startups:
+    - Immersion Facilitée
+previously:
     - zen
 ---
 

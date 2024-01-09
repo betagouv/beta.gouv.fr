@@ -1,12 +1,13 @@
 ---
 fullname: Jessica Maitte
-role: Chargée de déploiement Service Civique
+role: Chargée de déploiement volontariat
 domaine: Déploiement
 link: https://www.linkedin.com/in/jessica-maitte/
 missions:
   - start: 2022-11-02
-    end: 2024-01-31
+    end: 2025-01-31
     status: independent
+    employer: ''
 startups:
   - api-engagement
 badges:

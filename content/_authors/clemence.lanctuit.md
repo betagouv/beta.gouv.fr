@@ -10,11 +10,11 @@ missions:
     employer: ''
 incubator: dinum
 startups:
+  - tdb-apprentissage
   - api.apprentissage
 previously:
   - dematapprentissage
   - catalogue-apprentissage
-  - tdb-apprentissage
   - docurba
 badges:
   - segur

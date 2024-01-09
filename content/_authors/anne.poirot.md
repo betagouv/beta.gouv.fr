@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: littlebigconnection
   - start: 2023-05-01
-    end: 2024-01-01
+    end: 2024-03-01
     status: independent
     employer: numa
 previously:
