@@ -6,10 +6,10 @@ contact: ines.dartiguenave@beta.gouv.fr
 analyse_risques: true
 usertypes:
   - collectivite-territoriale
-title: SPARTE
+title: Mon Diagnostic Artificialisation
 sponsors:
   - /organisations/dgaln
-link: https://sparte.beta.gouv.fr
+link: https://mondiagnosticartificialisation.beta.gouv.fr/
 stats: true
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/sparte-beta-gouv-fr/
 phases:
@@ -20,6 +20,8 @@ phases:
 fast:
   promotion: 12
   montant: 210000
+stats_url: https://sparte.beta.gouv.fr/stats
+accessibility_status: non conforme
 ---
 ## Contexte
 
