@@ -2,6 +2,7 @@
 fullname: Thomas Dauvet
 role: Product Owner
 domaine: Produit
+github: tdauvet89
 missions:
   - start: 2023-09-18
     end: 2024-03-18
