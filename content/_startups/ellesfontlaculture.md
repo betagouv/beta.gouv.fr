@@ -4,9 +4,6 @@ mission: Réduire les inégalités de genre dans la culture, en commençant par 
 sponsors:
   - /organisations/mc
 incubator: culture
-events:
-  - name: national_impact
-    date: 2023-07-01
 phases:
   - name: construction
     start: 2020-04-01
