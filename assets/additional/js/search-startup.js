@@ -236,7 +236,6 @@ var createNationalImpactSelect = function (selectElement, data, initValue) {
     updateCards(data);
   };
   if (initValue === "true") {
-    selectElement.value = true;
     selectElement.checked = true;
     onNationalImpactChange(true);
   }
