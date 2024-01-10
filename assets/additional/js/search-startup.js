@@ -236,7 +236,9 @@ var createNationalImpactSelect = function (selectElement, data, initValue) {
     updateCards(data);
   };
   if (initValue === "true") {
-    selectElement.checked = true;
+    setTimeout(() => {
+      selectElement.checked = true;
+    }, 500);
     onNationalImpactChange(true);
   }
   selectElement.addEventListener("change", function (e) {
