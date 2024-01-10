@@ -21,8 +21,6 @@ stats_url: >-
   https://matomo-metabase-carnetdebord.fabrique.social.gouv.fr/public/dashboard/81a749aa-6c29-46b2-9ca5-df9d90fd3257
 events: []
 phases:
-  - name: alumni
-    start: 2023-12-01
   - name: investigation
     start: 2021-01-25
     end: 2021-05-06
@@ -32,6 +30,8 @@ phases:
   - name: acceleration
     start: 2021-11-01
     end: 2022-04-30
+  - name: alumni
+    start: 2023-12-01
 ---
 
 # 2024 - Pause dans le développement du service numérique 
