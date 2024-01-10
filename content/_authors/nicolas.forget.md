@@ -8,6 +8,6 @@ missions:
     status: admin
     employer: DGEC
 startups:
-  - QualiCharge
+  - qualicharge
 ---
 Ingénieur énergie ET transport
