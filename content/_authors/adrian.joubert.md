@@ -1,6 +1,6 @@
 ---
 fullname: Adrian Joubert
-role: Product Design
+role: Product Owner
 domaine: Design
 missions:
   - start: 2021-06-28
