@@ -4,7 +4,7 @@ mission: FAciliter le Recouvrement de l’Impôt et de la TAxe de Séjour.
 sponsors:
   - /organisations/dgfip
 incubator: fabrique-dgfip
-contact: dtnum.culture-numerique.Innover@dgfip.finances.gouv.fr
+contact: service-faritas@dgfip.finances.gouv.fr
 events: []
 phases:
   - name: investigation
@@ -12,55 +12,43 @@ phases:
     end: 2022-12-29
   - name: alumni
     start: 2022-12-30
-    
+accessibility_status: partiellement conforme
+analyse_risques: true
 ---
 ## Le problème: une inefficience dans la collecte et le reversement de la taxe de séjour par les plateformes numériques
 
-En 2019, le législateur a décidé de placer les plateformes numériques de réservation au cœur de la chaîne fiscale de la taxe de séjour en les rendant **intermédiaires collecteurs** de cette taxe pour les collectivités locales.
+En 2019, le législateur a décidé de placer les plateformes numériques de réservation au cœur de la chaîne fiscale de la taxe de séjour en les rendant **intermédiaires collecteurs** de cette taxe pour les collectivités locales. Chaque plateforme est donc tenue, tous les 6 mois, d'adresser à chaque collectivité délibérante une déclaration listant l'intégralité des perceptions de taxe effectuées et reverser les montants collectés au comptable public référent pour chacune de ces collectivités (art. L.2333-34 du CGCT).
 
-Concrètement, chaque plateforme doit donc :
+En pratique, l'**absence de standardisation** des déclarations de taxe de séjour envoyées par les opérateurs numériques rend difficilement exploitable l'ensemble des informations reçues par les collectivités en charge de la gestion et du contrôle de cette taxe. Par ailleurs, la **décentralisation du processus déclaratif** auprès de chaque collectivité locale rend cette démarche très complexe pour des acteurs qui couvrent bien souvent une grande partie du territoire national.
 
-* Connaître les délibérations relatives à la taxe de séjour prises par les collectivités (plus de 1 800 sur le territoire national) ;
-* Intégrer ces informations dans son système ;
-* Liquider la taxe lors de la réservation ;
-* Reverser les montants collectés au comptable public référent.
-
-De leur côté, tous les six mois, les collectivités reçoivent de la part des plateformes numériques, de façon non sécurisée (envoi par mail non chiffré de fichiers non protégés) et non standardisée (pas de format spécifique de déclaration), plusieurs **déclarations de taxe de séjour très difficilement exploitables**.
-
-Cela les empêche de mener convenablement à bien leur mission de contrôle de la taxe de séjour et plus généralement de la location meublée saisonnière, ceci d’autant plus que les déclarations ne leur sont pas systématiquement envoyées, parfois par méconnaissance de la réglementation en vigueur.
-
-Enfin, les comptables publics ne disposent pas de pièces justificatives fiables pour **sécuriser les versements** opérés par les plateformes numériques et ainsi **s’assurer de la correcte liquidation de la taxe** et du rattachement des séjours déclarés aux bonnes collectivités délibérantes.
+Côté Direction générale des Finances publiques (DGFiP), les comptables publics ne disposent pas de pièces justificatives fiables pour **sécuriser les versements** opérés par les plateformes numériques et ainsi **s’assurer de la bonne application des délibérations locales** et du rattachement des séjours déclarés aux bonnes collectivités.
 
 ## La solution: un service numérique centralisé qui simplifie les démarches pour tous les acteurs impliqués dans cette chaîne fiscale
 
-Pour pallier aux difficultés rencontrées par les différents acteurs, l’offre de service FARITAS propose une solution centralisée qui s’articule autour d’une **interface de télédéclaration unique de la taxe de** **séjour** à l’attention des plateformes numériques de réservation, enrichie de modules d’analyse et de datavisualisation.
+Pour pallier aux difficultés rencontrées par les différents acteurs, l’offre de service FARITAS propose une solution centralisée qui s’articule autour d’une **interface de télédéclaration unique de la taxe de** **séjour** à l’attention des plateformes numériques de réservation, enrichie de modules d’analyse.
 
-L’idée est d’inviter les plateformes numériques à déposer *via* l’outil FARITAS une déclaration semestrielle couvrant l’ensemble du territoire national, dans un **format technique standardisé et conforme à la réglementation**. Ces déclarations seront intégrées dans une base de données protégée et hébergée par la Direction générale des Finances publiques (DGFiP) en sa position de tiers agrégateur.
+L’idée est d’inviter les plateformes numériques à déposer *via* l’outil FARITAS une déclaration semestrielle couvrant l’ensemble du territoire national, dans un **format technique standardisé**. Ces déclarations seront intégrées dans une base de données protégée et hébergée par la DGFiP en qualité de tiers agrégateur.
 
-Une fois le dépôt accompli, les **plateformes** **numériques** auront accès à un justificatif de dépôt ainsi que des rapports d’analyse liés à la déclaration transmise : descriptif des reversements attendus aux différentes collectivités, analyse des éventuelles anomalies détectées, etc.
+Une fois le dépôt accompli, les plateformes numériques auront accès à un justificatif de dépôt ainsi qu'aux rapports d’analyse de leur déclaration. Véritable parti pris innovant du projet, la **transparence des analyses vis-à-vis du déclarant** dès le dépôt (une première en fiscalité!) doit conduire à une meilleure conformité déclarative et une amélioration de la collecte de cette taxe.
 
-Sur une interface unique, les **collectivités territoriales** délibérantes en matière de taxe de séjour pourront donc :
+De leur côté, les collectivités territoriales délibérantes en matière de taxe de séjour pourront accéder aux déclarations des plateformes de réservation pour les séjours les concernant, télécharger ces déclarations pour les intégrer à leur logiciel de gestion et disposer des mêmes rapports d’analyse tant sur la conformité réglementaire de la déclaration que sur la liquidation de la taxe elle-même.
 
-* Accéder aux déclarations des plateformes de réservation pour les séjours les concernant ;
-* Télécharger ces déclarations pour les intégrer à leur logiciel de gestion ;
-* Disposer de rapports d’analyse : détail des reversements attendus répartis sur les différentes communes de leur territoire, analyse des éventuelles anomalies détectées tant sur la conformité réglementaire de la déclaration que sur la liquidation de la taxe elle-même, etc.
-
-Les **comptables publics** récipiendaires des versements des plateformes numériques disposeront également de pièces justificatives standardisées, exploitables et fiables leur permettant de sécuriser les encaissements perçus, agiliser le transfert des comptes d’imputation provisoire aux comptes d’imputation définitive et gérer les situations problématiques.
 
 ## Le parcours: de la phase d'investigation à la perspective d'un passage à l'échelle
 
 Le projet FARITAS a été retenu en juin 2021 dans le cadre de l’appel à candidatures lancé par la Fabrique numérique de la DGFiP auprès de l’ensemble de ses agents.
 
-Une première période de **six mois d’investigation**, riches en entretiens, sondages et analyses qualitatives et quantitatives auprès d’une centaine d’acteurs a permis de mieux cerner la problématique générale, d’évaluer les enjeux et de dessiner les contours d’une solution qui réponde aux principaux irritants soulevés.
+Une première période de **six mois d’investigation**, riche en entretiens, sondages et analyses qualitatives et quantitatives auprès d’une centaine d’acteurs a permis de mieux cerner la problématique générale, d’évaluer les enjeux et de dessiner les contours d’une solution qui réponde aux principaux irritants soulevés.
 
-Depuis février 2022, l’**incubation** du projet a débuté et doit permettre de disposer d’ici à la fin de l’année 2022 d’une version industrialisable de l’offre de service FARITAS, en capacité de passer à l’échelle dans le courant de l’année 2023.
+Entre février 2022 et février 2023, le projet s’est inscrit dans une **phase d’incubation de 12 mois**. Nous avons d’abord réalisé puis testé auprès de futurs utilisateurs une maquette de l’outil FARITAS tel que nous l’envisagions à moyen terme. Les retours des testeurs nous ont permis de prioriser les différentes fonctionnalités proposées et de travailler sur le parcours utilisateur. Puis nous avons construit d'abord un POC (Proof Of Concept) puis un MVP (Minimum Viable Product) de l’outil FARITAS afin de pouvoir le tester en conditions semi-réelles. Pendant cette phase d'investigation, l'équipe a réalisé de nombreux tests individuels puis collectifs auprès d'opérateurs numériques et collectivités locales volontaires, sur des sets de données fictives.
 
-Quel a été le chemin parcouru depuis l’entrée en incubation ?
+Depuis février 2023, nous sommes passés dans une **phase d’expérimentation locale** de l’outil notamment marquée par la réalisation de deux essais pilotes :
+* au printemps 2023, sur le département du **Var (83)** avec l’embarquement de 3 opérateurs numériques et 11 collectivités dont certaines parmi les plus collectrices au niveau national,
+* à l’été 2023, sur le département de la **Savoie (73)**, territoire aux caractéristiques très complémentaires du premier essai pilote, avec l’embarquement de 5 opérateurs numériques et 10 collectivités.
 
-* **Avril 2022** : **la construction d’une maquette FIGMA**\
-  Au mois d’avril 2022, le produit FARITAS tel qu’imaginé pour début 2023 a été maquetté sur FIGMA et testé auprès d’un panel d’utilisateurs afin d’évaluer l’adoptabilité de la solution, l’appétence des acteurs pour les différentes fonctionnalités proposées et l’adéquation entre l’outil et les attentes utilisateurs. Ces ateliers tests ont permis de valider l’adhésion des utilisateurs cibles à la solution proposée, tant sur l’ergonomie du service que sur les fonctionnalités proposées, et de prioriser les différents axes de développement selon le degré d’importance marqué par les utilisateurs.
-* **Mai à juin 2022** : **le développement du Produit Minimum Viable (MVP)**Entre mai et juin 2022 est née la toute première version frugale du produit FARITAS autour des fonctionnalités les plus génératrices de valeur. L’infrastructure de la base de données (côté back) à même de recevoir les déclarations des plateformes numériques, ainsi que les pages (côté front) permettant de déposer ces déclarations ont ainsi été développées, de même que différents modules d’analyse de ces déclarations.
-* **Juillet 2022** : **le passage réussi devant le comité d’investissement**En juillet 2022, le comité d’investissement a validé la poursuite de l’expérimentation FARITAS sur la base des retours utilisateurs positifs et des premiers résultats encourageants apportés par le prototype. Il a fixé comme objectif à l’équipe projet de disposer d’ici à la fin de l’année 2022 d’une version industrialisable de la solution FARITAS qui ait pu être testée auprès d’un large panel d’utilisateurs (plateformes numériques, collectivités territoriales et comptables publics) afin de quantifier l’impact utilisateur.
+Les résultats obtenus sont très positifs avec une démarche de dépôt d’un fichier national plébiscitée par les acteurs (gain de temps très net par rapport aux plus de 1800 envois d’email et échanges avec les collectivités, simplicité du process) et une attente forte des collectivités de pouvoir disposer de déclarations standardisées. Ces essais ont également permis d’identifier des marges de progression significatives sur la présentation des informations et l’accompagnement du processus de dépôt de déclaration.
+
+
 
 En cas de passage à l’échelle, la **dynamique de déploiement** **envisagée** doit être progressive afin d’embarquer de façon cohérente et maîtrisée l’ensemble des acteurs impliqués (plus de 1800 collectivités et plus d’une cinquantaine de plateformes de réservation a minima) et assurer la solidité technique et réglementaire du projet, avec en ligne de mire la tenue des Jeux Olympiques et Paralympiques de Paris 2024.
 
@@ -73,9 +61,7 @@ En filigrane de l’enjeu de **mutualisation** de l’information sur l’activi
 * La **simplification** **de la gestion** ; 
 * Le **renforcement de l’équité fiscale**. 
 
-À terme, la solution FARITAS doit permettre de répondre, à chacune des étapes de sa réalisation, aux attentes de l’ensemble des acteurs concernés dans un **ordre de priorité séquencé opportunément** : 
 
-![Calendrier de réalisation_FARITAS_Laurent MALET](/img/netlifycms/tableau._.fiche.produit.png "Calendrier de réalisation_FARITAS_Laurent MALET")
 
 ## L'impact: simplification de la gestion de la taxe de séjour et meilleure équité fiscale
 
