@@ -1,6 +1,6 @@
 ---
 fullname: Antoine de Zélicourt
-role: PO de Jardin Mental
+role: 'PO '
 domaine: Produit
 github: Antoine2Zel
 missions:
