@@ -11,9 +11,10 @@ missions:
     employer: Malt
 startups:
   - zero-logement-vacant
-  - aquaculteurs.marins
   - longuevieauxobjets
 memberType: beta
+previously:
+  - aquaculteurs.marins
 ---
 
 UX Designer ex Akeneo  Greenly, entre Nantes et Lorient ⚓️
