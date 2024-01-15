@@ -1,6 +1,6 @@
 ---
 fullname: Anne-Charlotte Tremenbert
-role: Lien adminsitration centrale 
+role: Lien administration centrale - sponsor
 domaine: Intraprenariat
 missions:
   - start: 2022-09-11
