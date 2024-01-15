@@ -1,6 +1,6 @@
 ---
 fullname: Pierre Mallein
-role: Product manager, UX Designer &amp; Développeur no-code
+role: Product manager, UX Designer, Développeur no-code
 domaine: Développement
 link: https://www.kuddos.studio/
 missions:
