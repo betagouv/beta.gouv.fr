@@ -34,7 +34,7 @@ Une fois le dépôt accompli, les plateformes numériques auront accès à un ju
 De leur côté, les collectivités territoriales délibérantes en matière de taxe de séjour pourront accéder aux déclarations des plateformes de réservation pour les séjours les concernant, télécharger ces déclarations pour les intégrer à leur logiciel de gestion et disposer des mêmes rapports d’analyse tant sur la conformité réglementaire de la déclaration que sur la liquidation de la taxe elle-même.
 
 
-## Le parcours: de la phase d'investigation à la perspective d'un passage à l'échelle
+## Le parcours: de la phase d'investigation au passage à l'échelle
 
 Le projet FARITAS a été retenu en juin 2021 dans le cadre de l’appel à candidatures lancé par la Fabrique numérique de la DGFiP auprès de l’ensemble de ses agents.
 
@@ -48,32 +48,19 @@ Depuis février 2023, nous sommes passés dans une **phase d’expérimentation 
 
 Les résultats obtenus sont très positifs avec une démarche de dépôt d’un fichier national plébiscitée par les acteurs (gain de temps très net par rapport aux plus de 1800 envois d’email et échanges avec les collectivités, simplicité du process) et une attente forte des collectivités de pouvoir disposer de déclarations standardisées. Ces essais ont également permis d’identifier des marges de progression significatives sur la présentation des informations et l’accompagnement du processus de dépôt de déclaration.
 
+Afin de passer à l'échelle ce service innovant, la DGFiP, en collaboration avec la DGCL (Direction générale des collectivités locales) et la DGE (Direction générale des entreprises) a proposé le vecteur de l'**expérimentation législative** prévue par l'article 37-1 de la Constitution. Le législateur a retenu cette proposition en intégrant à la **loi de finances pour 2024** promulguée le 30 décembre 2023, l'**[article 129](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000048727482)** prévoyant, à titre expérimental et pour une durée de 3 ans, une dérogation au processus déclaratif de la taxe de séjour codifié à l'article L.2333-34 du CGCT, conditionnée au dépôt d'une déclaration unique par le bais d'un service centralisé de télédéclaration.
 
+## Calendrier des prochaines étapes
 
-En cas de passage à l’échelle, la **dynamique de déploiement** **envisagée** doit être progressive afin d’embarquer de façon cohérente et maîtrisée l’ensemble des acteurs impliqués (plus de 1800 collectivités et plus d’une cinquantaine de plateformes de réservation a minima) et assurer la solidité technique et réglementaire du projet, avec en ligne de mire la tenue des Jeux Olympiques et Paralympiques de Paris 2024.
-
-## Calendrier de réalisation
-
-De novembre 2021 à février 2022, la **poursuite de la phase d’investigation** doit permettre d’affiner la solution FARITAS afin d’offrir aux régies une sécurisation de leurs encaissements, aux collectivités un travail de contrôle modernisé, fiabilisé et automatisé, et à la DGFiP dans son ensemble une offre de service complétée. En vue du développement de la solution, cette période sera notamment l’occasion de préciser les liens à établir avec l’application HELIOS et l’outil ECOLLAB de la DGFiP, les bases de données OCSIT@N et PERS de la DGFiP de même que la base de données API.gouv. 
-
-En filigrane de l’enjeu de **mutualisation** de l’information sur l’activité de location de meublés de tourisme, deux effets sont particulièrement recherchés : 
-
-* La **simplification** **de la gestion** ; 
-* Le **renforcement de l’équité fiscale**. 
-
-
+* juin 2024: **Mise en service** de l'outil FARITAS de télédéclaration de la taxe de séjour et **1ère campagne de dépôt** de déclarations pour les opérateurs numériques volontaires
+* octobre 2024: **APIsation des flux sortants** de données (transmission automatisée des déclarations reçues aux logiciels de gestion de la taxe de séjour de chaque collectivité locale)
+* décembre 2024: **2ème campagne de dépôt** de déclarations
+* février 2025: **APIsation des flux entrants** de données (transmission automatisée des déclarations des opérateurs numériques vers l'outil FARITAS)
+* avril 2025: Intégration du **module de paiement PayFIP** à l'outil
+* juin 2025: **3ème campagne de dépôt** de déclarations
 
 ## L'impact: simplification de la gestion de la taxe de séjour et meilleure équité fiscale
 
 La construction du projet FARITAS est guidée par différents indicateurs d’impact, qui permettent d’ajuster les fonctionnalités à développer et de garantir la bonne adéquation du produit aux attentes de ses utilisateurs.
 
-* Simplification de la gestion :
-
-  * Nombre de partenaires raccordés ;
-  * Taux de consultation des rapports produits ;
-  * Volume traité de taxe de séjour.
-* Équité fiscale :
-
-  * Taux de titres justifiés ;
-  * Nombre d’anomalies détectées ;
-  * Satisfaction des partenaires.
+Ces indicateurs s'attacheront à quantifier la **pénétration du service** qui reste facultatif dans le cadre de cette expérimentation législative (nombre d'utilisateurs actifs, volume de taxe traité), à objectiver la **simplification de la gestion** de cette taxe (gain de temps pour les agents des collectivités comme pour les déclarants) ainsi qu'à mesurer l'**amélioration de l'équité fiscale** (procédures de contrôle menées, sanctions appliquées, progression de la qualité comptable).
