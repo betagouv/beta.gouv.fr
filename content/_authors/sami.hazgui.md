@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-10-30
-    end: 2024-01-30
+    end: 2024-02-28
     status: independent
     employer: Scopyleft
 startups:
