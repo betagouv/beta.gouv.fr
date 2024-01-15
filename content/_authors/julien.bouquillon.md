@@ -4,7 +4,7 @@ role: Responsable animation de la communauté tech
 domaine: Développement
 avatar: https://avatars1.githubusercontent.com/u/124937?s=460&v=4
 github: revolunet
-link: null
+link: https://www.linkedin.com/in/julien-bouquillon-438b7819/
 missions:
   - start: 2017-10-01
     end: 2023-12-27
