@@ -1,5 +1,5 @@
 ---
-title: Teleicare 2.0
+title: Compl'Alim
 mission: Vers une circulation de compléments alimentaires conformes à la réglementation, sûrs en termes de santé publique et adaptés aux besoins physiologiques des consommateurs
 sponsors: 
   - /organisations/dgal
@@ -15,6 +15,26 @@ usertypes:
   - entreprise
 ---
 
+Cette startup d'Etat est sponsorisée par la Direction Générale de l'alimentation au ministère de l'agriculture. Après une phase d'investigation de juin à octobre 2023, l'équipe a validé un budget de 200 000 euros pour une première phase de construction de 6 mois. 
+
+Le prochain comité d'investissement se tiendra en avril 2024 et arbitrera le continuum d'une construction de solution numérique qui remplacera et améliorera un outil existant, transféré par la DGCCRF à la DGAl. 
+
+## Notre mission : 
+
+Permettre une circulation de compléments alimentaires conformes à la réglementation, sûrs en termes de santé publique et adaptés aux besoins physiologiques des consommateurs
+
+## Quelques chiffres : 
+
+plus de 2,4 Md d’euros en 2022
+: La valeur du marché avec une demande et une offre en constante croissance
+
+1600 dossiers déposés à la DGAl par mois par les professionnels
+: Tous les mois, le nombre de produits déclarés ou soumis à la demande d'autorisation de l'administration via la plateforme teleicare, outil actuel pour déposer un dossier. Outil obsolète et ne répondant que partiellement aux besoins des 3 instructrices des dossiers.
+
+50%, part estimée des compléments alimentaires en vente mais non connus de l'administration
+: Car non déclarés par les professionels et pourtant disponibles dans les canaux de distribution
+
+
 ## Le problème : 
 
 Les compléments alimentaires sont des denrées alimentaires dont le but est de compléter un régime alimentaire normal. C'est aujourd'hui un marché de plus de 2,4 Md d'euros en 2022 qui concernent des canaux de distribution variés : les pharmacies (50%), la grande distribution (16%), le e-commerce (8%). 
@@ -29,27 +49,28 @@ Distinguer ce qui est autorisé de ce qui ne l'est pas dans le domaine des compl
 
 ## Hypothèses de solution : 
 
-Une particularité de la régulation réside dans l'absence d'une liste unique de substances autorisées. Au lieu de cela, plusieurs listes et ressources jalonnent le paysage réglementaire, incluant l'arrêté de 2006 publié au Journal Officiel qui énumère les nutriments utilisables, les avis ponctuels de la CSHPF et de l'ANSES, ainsi que des annexes de textes législatifs français. Cette complexité ajoute une couche d'ambiguïté pour les consommateurs et les industriels.
+Une des principales difficultés du cadre applicable au secteur des compléments alimentaires est la multitude des sources pour identifier si une substance est ou non autorisée et sous quelles conditions. Les listes et ressources jalonnent le paysage réglementaire, incluant divers arrêtés qui énumèrent les nutriments, plantes et substances utilisables, les avis de l’Anses et de l’Efsa ainsi que des textes législatifs européens qui autorisent certaines substances dans les compléments alimentaires (voire des textes législatifs d’autres Etats membres qui vont permettre l’application du principe de reconnaissance mutuelle). Cette complexité ajoute une couche d’ambiguïté pour les consommateurs et les industriels.
+L’objectif sous-jacent est de garantir un niveau élevé de protection au consommateur, en lui fournissant des compléments alimentaires qui répondent aux exigences nationales.
 
-L'objectif sous-jacent est de garantir un niveau élevé de protection au consommateur, en lui fournissant les informations nécessaires pour faire des choix éclairés, tout en créant des conditions de concurrence équitables pour l'industrie alimentaire. Cette équation délicate nécessite un équilibre entre la promotion de la liberté de choix du consommateur et la protection de sa santé.
+Les trois missions principales que nous nous fixons pendant la phase de construction consistent à :
+- Faciliter et fluidifier l’instruction des dossiers compléments alimentaires afin d’accorder davantage de temps à la veille et actualisation réglementaire (les 1600 dossiers reçus chaque mois) ; 
+- Autonomiser et responsabiliser les professionnels du secteur en leur fournissant les ressources et outils nécessaires à une production saine et légale (transparence et accessibilité des données et informations) ; 
+- Informer les consommateurs, les rendre acteurs de leur consommation.
 
-Les 3 missions principales que nous nous fixons pendant la phase d'investigation consistent à : 
-- Faciliter et fluidifier l’instruction des dossiers compléments alimentaires afin d'accorder davantage de temps à la veille et actualisation réglementaire
-- Autonomiser et responsabiliser les professionnels du secteur en leur fournissant les ressources et outils nécessaires à une production saine et légale
-- Informer les consommateurs, les rendre acteurs de leur consommation
+Les chantiers en cours :
 
-Les solutions que nous pensons tester auprès de nos usagers-cibles lors de la phase de construction :
-- une info-lettre régulière avec les mises à jour réglementaire à destination des professionnels du secteur (avis des évaluateurs, historiques de consommation,...)
-- une dématérialisation des déclarations à la DGAl via l'outil démarches simplifiées en fluidifiant le parcours
-- la construction d'un catalogue des compléments alimentaires autorisés accessibles à toustes les consommateurs
+- Constitution d'une nouvelle base de données avec les ingrédients pouvant être incorporés dans les compléments alimentaires ainsi que leurs spécifications (dose max, message d’avertissement à apposer, etc.) accessible aux professionnels qui leur permettra en amont de leur(s) déclaration(s) de vérifier le respect des exigences applicables. Cette transparence vis-à-vis des professionnels s’accompagnera de la diffusion régulière d’une info-lettre avec les dernières mises à jour ; 
 
+- La construction d’un moteur de recherche dans cette base de donnée qui permettra de connaître le statut des ingrédients et substances, leurs spécificités réglementaires... 
 
+A termes, i.e. d'ici la rentrée de septembre 2024, il s'agira de devenir le nouvel outil de déclaration des compléments alimentaires, avec un parcours fluidifié et automatisé. 
 
-## Les différentes phases et étapes de l'investigation : 
+(à venir plus tard dans les phases de développement)
+- la constitution d'un catalogue en open data des compléments alimentaires déclarés
+- la possibilité pour un consommateur de 'signaler' et demander le statut (autorisé/interdit/inconnu) d'un produit disponible à la vente mais non présent dans le catalogue (donc non déclaré)
 
-L'investigation a été lancée en juin 2023 avec le BEPIAS (Bureau des Etablissements et Produits des Industries Alimentaires Spécialisées) avec deux agentes du bureau, devenues intrapreneuses à hauteur de 1 jour/semaine. Toutes deux sont accompagnées d'une coach, garante de la méthodologie et approche beta.gouv.fr.
-Depuis juin, nous avons pu interroger les 3 instructrices des dossiers de déclarations, 3 syndicats représentants des professionnels, ainsi que 38 industriels du secteur. Notre objectif : comprendre leurs enjeux, les points de friction qu'ielles rencontrent dans leur activité quotidienne et identifier les solutions pour les aider. 
+## En savoir plus : 
 
-Un comité d'investissement s'est tenu le 29 septembre. L'équipe de l'investigation  y a présenté ses constats et  apprentissages des deux mois d'investigation. Lors de ce comité, les hypothèses de solution imaginées, ainsi que les ressources (humaines et financières) allouées pour les 6 prochains mois ont été validées. Des critères de succès à suivre et à évaluer aux termes de cette période ont également été définis.
+Notre code est en open source ici : https://github.com/betagouv/complements-alimentaires
 
 Nous contacter : emmanuelle.miralles@agriculture.gouv.fr, caroline.viste-martin@agriculture.gouv.fr et jennifer.stephan@beta.gouv.fr
