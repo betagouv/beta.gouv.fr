@@ -69,8 +69,18 @@ A termes, i.e. d'ici la rentrée de septembre 2024, il s'agira de devenir le nou
 - la constitution d'un catalogue en open data des compléments alimentaires déclarés
 - la possibilité pour un consommateur de 'signaler' et demander le statut (autorisé/interdit/inconnu) d'un produit disponible à la vente mais non présent dans le catalogue (donc non déclaré)
 
+
+## L'équipe de la startup :
+
+En octobre 2023, après validation de la phase d'investigation, les intrapreneuses, Caroline et Emmanuelle, ainsi que la coach, Jenn, ont été rejoins par : 
+
+Alejandro Guillèn, lead dev fullstack et Perrine Letellier, dev fullstack/data scientist
+Arthur Klein, designer de services
+
+
 ## En savoir plus : 
 
 Notre code est en open source ici : https://github.com/betagouv/complements-alimentaires
+
 
 Nous contacter : emmanuelle.miralles@agriculture.gouv.fr, caroline.viste-martin@agriculture.gouv.fr et jennifer.stephan@beta.gouv.fr
