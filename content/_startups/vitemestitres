@@ -4,7 +4,7 @@ mission: > Inscrire le parcours des conducteurs routiers lauréats d’un titre 
 incubator: dinum
 contact: margot.sanchez@beta.gouv.fr
 sponsors:
-  - /organisations/mte
+  - /organisations/dgitm
 phases:
   - name: investigation
     start: 2023-12-01
