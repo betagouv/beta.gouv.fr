@@ -1,7 +1,7 @@
 ---
 fullname: Anne Pichon
 domaine: Design
-role: UX
+role: Coach, designer de services
 github: Ann-p
 missions:
   - start: 2017-05-03
@@ -15,6 +15,7 @@ missions:
 startups:
   - monstage
   - inventaire.friches.agricoles
+  - vigieau
 previously:
   - dora
   - la-bonne-boite
@@ -23,6 +24,7 @@ previously:
   - zen
   - itou
   - place-de-marche-inclusion
+  - la-bonne-alternance
 competences:
   - UX
   - UI
