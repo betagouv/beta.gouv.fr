@@ -1,6 +1,6 @@
 ---
 fullname: Alexandre LE BORGNE
-role: Juriste
+role: Coach conformité
 domaine: Autre
 link: https://numericite.eu/
 missions:
