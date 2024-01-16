@@ -1,6 +1,6 @@
 ---
 fullname: Estelle Saget
-role: Responsable de portefeuille
+role: Responsable de portefeuille Vie associative
 domaine: Déploiement
 github: estellesaget
 missions:
