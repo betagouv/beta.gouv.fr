@@ -9,8 +9,9 @@ missions:
     status: independent
     employer: Path Tech
 startups:
-  - mobilic
   - territoires-en-transitions
+previously:
+  - mobilic
 badges:
   - segur
 ---
