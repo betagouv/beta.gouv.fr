@@ -1,7 +1,8 @@
 ---
 mission: >-
-  Informer et permettre l'inscription à toutes les opportunités d'événements en
-  vue du retour à l'emploi
+  Promouvoir l’ensemble des événements de l’emploi (job dating, conférence,
+  atelier..) auprès des candidats et leur permettre de s’inscrire en ligne en
+  vue de faciliter leur retour à l’emploi
 incubator: pole-emploi
 contact: deudmesevenementsemploi.00589@pole-emploi.fr
 redirect_from:
