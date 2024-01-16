@@ -5,7 +5,7 @@ sponsors:
   - /organisations/dgal
 incubator: dinum
 phases:
-    - name: investigation
+    - name: construction
       start: 2023-06-02
 stats: false
 contact: anne.devoret@beta.gouv.fr
