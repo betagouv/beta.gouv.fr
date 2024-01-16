@@ -9,8 +9,9 @@ missions:
     status: independent
     employer: Pathtech
 startups:
-  - mobilic
   - plusfraichemaville
+previously:
+  - mobilic
 badges:
   - segur
 ---
