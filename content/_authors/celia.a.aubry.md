@@ -10,6 +10,7 @@ missions:
     employer: Pôle emploi
 memberType: beta
 previously:
+  - encyclopedie-des-metiers
   - competence.validee
 ---
 
