@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Pôle emploi
 memberType: beta
-previously:
+startups:
   - competence.validee
 ---
 
