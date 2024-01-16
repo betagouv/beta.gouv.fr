@@ -1,13 +1,17 @@
 ---
 fullname: Thibault Desjardins
 domaine: Déploiement
-role: Responsable de portefeuille
+role: Responsable de portefeuille Intérieur
 github: Tibo-aplus
 missions:
   - start: 2019-10-01
-    end: 2026-12-31
+    end: 2024-01-01
     status: independent
     employer: octo
+  - start: 2024-01-02
+    end: 2026-10-01
+    status: admin
+    employer: DINUM
 previously:
   - aplus
   - place-des-entreprises
