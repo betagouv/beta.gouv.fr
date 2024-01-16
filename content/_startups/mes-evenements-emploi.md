@@ -36,7 +36,7 @@ accessibility_status: non conforme
 
 Les candidats, par manque de visibilité et de lisibilité (multitude de supports et de communication des événements​), ratent des opportunités de s’informer, se préparer, se former et d’être recrutés. Les événements organisés par les agences Pôle emploi avec leurs partenaires sont peu visibles des candidats.​
 
-Pour les conseillers Pôle Emploi la gestion des événements est chronophage (création, suivi, relances, pilotage) et il est difficile de trouver des candidats pertinents selon des pré-requis identifiés​ 
+Pour les conseillers organisateurs d’un événement, la gestion de ce dernier est chronophage (création, suivi, relances, pilotage) et il est difficile de trouver des candidats pertinents selon des pré-requis identifiés​ 
 
 ##### Produit :
 
