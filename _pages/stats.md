@@ -192,5 +192,15 @@ Pour plus de détails sur la composition actuelle de la communauté beta.gouv.fr
         ></iframe>
       </div>
   </div>
+    <div class="fr-grid-row fr-grid-row--gutters">
+      <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
+         <iframe
+             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/5709d2c1-7ad2-4a49-b6e3-bbf7558ce2c3"
+             height="300"
+             style="width: 100%; border: 0; background-color: transparent;"
+        ></iframe>
+      </div>
+  </div>
+   
 </div>
 
