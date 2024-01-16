@@ -9,8 +9,8 @@ missions:
     end: 2023-10-01
     status: independent
     employer: Fabrique numérique des ministères sociaux
-- start: 2023-10-02
-    end: 2026-10-15
+  - start: 2023-10-02
+    end: 2026-10-01
     status: admin
     employer: DINUM
 startups:
