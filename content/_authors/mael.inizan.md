@@ -1,7 +1,7 @@
 ---
 fullname: Mael Inizan
 domaine: Coaching
-role: Coach & Designer de service
+role: Coach produit transverse
 link: https://www.linkedin.com/in/mael-inizan/
 missions:
   - start: 2021-01-11
@@ -11,6 +11,7 @@ missions:
 startups:
   - la.bonne.renov
   - parcours.de.saisine
+  - chauffage-urbain
 previously:
   - collectif_objets
   - locadocs
