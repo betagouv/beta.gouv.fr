@@ -1,5 +1,5 @@
 ---
-fullname: Etienne Tricot
+fullname: Étienne Tricot
 role: Autre
 domaine: Autre
 missions:
@@ -7,6 +7,6 @@ missions:
     end: 2024-12-31
     status: service
     employer: OCTO Technology
-memberType: autre
+memberType: attributaire
 ---
 
