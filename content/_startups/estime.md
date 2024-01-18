@@ -1,20 +1,22 @@
 ---
 title: Estime
-mission: Soutenir la reprise d'activité des personnes en demande d'emploi en
-  facilitant l'accès à l'information concernant les aides financières
+mission: >-
+  Soutenir la reprise d'activité des personnes en demande d'emploi en facilitant
+  l'accès à l'information concernant les aides financières
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
 link: https://candidat.pole-emploi.fr/simucalculreprise
 repository: https://github.com/StartupsPoleEmploi/estime-frontend
-contact: estime@pole-emploi.fr
+contact: annie.compa@pole-emploi.fr
 usertypes:
   - particulier
 stats: true
 events:
   - name: product_launch
     date: 2021-01-07
-    comment: La première version du site est ouverte aux Demandeurs d'Emploi
+    comment: >-
+      La première version du site est ouverte aux Demandeurs d'Emploi
       bénéficiaires de l'Allocation de Solidarité Spécifique.
 phases:
   - name: investigation
@@ -27,9 +29,10 @@ phases:
     start: 2020-09-01
   - name: transfer
     start: 2022-12-30
-    comment: ""
   - name: success
     start: 2023-01-19
+stats_url: https://candidat.pole-emploi.fr/simucalculreprise/stats
+accessibility_status: non conforme
 ---
 **Problème**
 
