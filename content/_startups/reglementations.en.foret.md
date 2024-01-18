@@ -1,8 +1,9 @@
 ---
 title: Règlementations en forêt
-mission: Mieux faire connaître les obligations légales des propriétaires de
-  forêts et aider à leur mise en œuvre afin de garantir les enjeux de
-  préservation des écosystèmes et de protection de la ressource
+mission: >-
+  Mieux faire connaître les obligations légales des propriétaires de forêts et
+  aider à leur mise en œuvre afin de garantir les enjeux de préservation des
+  écosystèmes et de protection de la ressource
 sponsors:
   - /organisations/ign
 incubator: fab-geocommuns
@@ -12,6 +13,8 @@ phases:
   - name: investigation
     start: 2022-09-11
     end: 2022-12-11
+  - start: 2023-09-01
+    name: alumni
 ---
 **Contexte**
 
@@ -35,3 +38,7 @@ Notre investigation a pour objectif de mieux identifier les réglementations à 
 •	gestionnaires forestiers,
 •	organismes de conseils aux propriétaires (Centre national de la propriété forestière, conseillers forestiers en chambre d’agriculture),\
 •	autorités publiques compétentes pour la définition et l’instruction des demandes liées aux réglementations applicables.
+
+**Conclusions**
+
+Les apprentissages de l'investigation sont pris en compte par la direction générale de l'aménagement, du logement et de la nature (DGALN) dans le cadre du développement d'un service en partenariat avec France Nation Verte. Cette démarche s'intègre dans le Géoportail de l'environnement. 
