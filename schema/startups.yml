@@ -33,8 +33,6 @@ mapping:
             - /organisations/cnsa
             - /organisations/cstb
             - /organisations/ddd
-            - /organisations/ddtm34
-            - /organisations/ddtm29
             - /organisations/dia-tnd
             - /organisations/departement-oise
             - /organisations/departement-pas-de-calais
@@ -92,9 +90,9 @@ mapping:
             - /organisations/mtfp
             - /organisations/msjop
             - /organisations/nouvelle-caledonie
+            - /organisations/onisep
             - /organisations/pole-emploi
             - /organisations/sgdsn
-            - /organisations/sgpe
             - /organisations/shom
             - /organisations/sndv
             - /organisations/solidarite-sante
