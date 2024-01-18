@@ -1,7 +1,7 @@
 ---
 title: Aidants Connect
 mission: >-
-  Sécuriser l'aidant et la personne accompagnée dans la réalisation de démarches administratives en ligne
+  Accompagnez vos usagers en toute sécurité
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -45,9 +45,9 @@ Ce dispositif permet à l'aidant de sécuriser juridiquement l'accompagnement et
 
 **La procédure**
 1. Le Responsable Aidants Connect <a href="https://aidantsconnect.beta.gouv.fr/habilitation/demandeur/">une demande d'habilitation ici</a>
-2. L'équipe Aidants valide la demande d'habilitation
-3. Les aidants suivent une formation (sur différents modules comme les données personnelles et le RGPD, France Connect, prise en main d'Aidants Connect à l'aide d'un site bac à sable)
-4. Le Référent Aidants Connect reçoit un kit de ressources bienvenue et active les accès des aidants sur son espace administrateur 
+2. L'équipe Aidants Connect vérifie l'éligibilité de la structure et valide la demande d'habilitation
+3. Les aidants suivent une formation (sur différents modules comme les données personnelles et le RGPD, France Connect, prise en main d'Aidants Connect à l'aide d'un site bac à sable) et réalisent un test PIX de fin de formation pour valider leur habilitation
+4. Le Référent Aidants Connect reçoit un kit de ressources et active les accès des aidants sur son espace administrateur 
 
 ## Pour aller plus loin
 
