@@ -9,6 +9,7 @@ missions:
     employer: DJEPVA
 startups:
   - jeveuxaider
+  - api-engagement
 memberType: beta
 ---
 
