@@ -10,7 +10,7 @@ contact: contact-sirius@inserjeunes.beta.gouv.fr
 usertypes:
   - particulier
   - etablissement-scolaire
-stats: true
+stats: false
 phases:
   - name: construction
     start: 2022-12-01
