@@ -21,12 +21,14 @@ phases:
     start: 2022-11-29
 ---
 
-## Avril simplifie la VAE pour tous !
+Le produit AVRIL a été pérennisé au sein du service public [France VAE](https://beta.gouv.fr/startups/reva.html).
+
+## Problème
 
 L'obtention d'un diplôme par la VAE est un accélarateur du retour à l'emploi mais trop peu de demandeurs d'emploi ont recours à cette voie d'accès au diplôme.
 Problème : __0,25% seulement des demandeurs d’emploi ont recours à la VAE__ (Source : rapport IGAS d’évaluation de la VAE, oct. 2016). La VAE est à la fois méconnue et complexe dans sa mise en œuvre. En outre, il existe plus de 14 000 certifications. Les professionnels de l’emploi hésitent donc à la promouvoir.
 
-Initialement porté par Pôle emploi, Avril est repris par la Fabrique du Ministère des Affaires Sociales. Le service fait partie intégrante du projet REVA qui vise à transformer la VAE. Depuis le mois davril 2019, c'est 110594 candidats à la VAE qui ont utilisé Avril pour entrer en contact avec presque 800 acteurs de la VAE sur tout le territoire. 
+## Solution
 
 Pour utiliser Avril:
 1/ Renseigne ton métier
@@ -34,4 +36,9 @@ Pour utiliser Avril:
 3/ remplis ton dossier de recevabilité (encore plus simple pour les personnes inscrites à Pôle emploi)
 4/ transmets ton dossier au certificateur et démarre ta VAE!
 
-En attendant l'application REVA, Avril reste disponible pour toutes celles et tous ceux qui souhaitent se lancer dans la VAE et obtenir un diplôme.
+## Pérennisation
+
+Initialement porté par Pôle emploi, Avril est d'abord repris par la Fabrique du Ministère des Affaires Sociales. Le service fait partie intégrante du projet REVA qui vise à transformer la VAE.
+[France Vae](https://vae.gouv.fr) (publication au JO du 27 décembre 2023) est désormais en charge de la mise en oeuvre du service public de la Vae.
+
+
