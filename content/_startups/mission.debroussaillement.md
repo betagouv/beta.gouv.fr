@@ -1,7 +1,8 @@
 ---
 title: Mission Débroussaillement
-mission: Mieux faire connaître les obligations légales de débroussaillement et
-  aider à leur mise en œuvre
+mission: >-
+  Mieux faire connaître les obligations légales de débroussaillement et aider à
+  leur mise en œuvre
 sponsors:
   - /organisations/ign
 incubator: fab-geocommuns
@@ -11,6 +12,8 @@ phases:
   - name: investigation
     start: 2022-09-20
     end: 2022-11-15
+  - start: 2022-11-15
+    name: construction
 ---
 ## Contexte
 
@@ -34,3 +37,7 @@ Aussi, au-delà des entretiens avec les parties prenantes de notre projet (Minis
 * les maires qui doivent faire respecter les OLD, 
 * les particuliers qui sont les premiers concernés par celles-ci, 
 * et les SDIS qui sont directement impactés dans leur stratégie d’intervention si les OLD ne sont pas respectées.
+
+**Conclusions**
+
+Les apprentissages de l'investigation ont mis en avant un véritable problème qui fait l'objet de discussion avec le Ministère de l'Agriculture et de la Souveraineté alimentaire (MASA). Dans l'attente d'une potentielle évolution le partenariat est considéré comme terminé. 
