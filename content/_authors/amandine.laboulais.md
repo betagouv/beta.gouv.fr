@@ -4,12 +4,12 @@ role: UX UI Designer
 domaine: Design
 link: https://amandinelaboulais.com/
 missions:
-    - start: 2023-06-20
-      end: 2024-02-29
-      status: independent
-      employer: ""
+  - start: 2023-06-20
+    end: 2024-02-29
+    status: independent
+    employer: ""
 startups:
-    - mon-suivi-social
+  - mon-suivi-social
 memberType: beta
 ---
 

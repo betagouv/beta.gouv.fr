@@ -5,12 +5,12 @@ domaine: Développement
 link: https://bertrand-bougon.fr
 github: bbougon
 missions:
-    - start: 2023-06-12
-      end: 2024-03-12
-      status: independent
-      employer: ""
+  - start: 2023-06-12
+    end: 2024-03-12
+    status: independent
+    employer: ""
 startups:
-    - mon-aide-cyber
+  - mon-aide-cyber
 memberType: beta
 ---
 

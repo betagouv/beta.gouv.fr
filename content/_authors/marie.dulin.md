@@ -5,13 +5,13 @@ domaine: Design
 link: https://mariedulin.framer.website/
 github: mariedulinPM
 missions:
-    - start: 2023-07-03
-      end: 2024-03-31
-      status: independent
-      employer: ""
+  - start: 2023-07-03
+    end: 2024-03-31
+    status: independent
+    employer: ""
 startups:
-    - previously:
-          - mistral-penal
+  - previously:
+      - mistral-penal
 memberType: beta
 ---
 

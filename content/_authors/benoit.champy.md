@@ -5,18 +5,18 @@ role: UX Designer & Coach d'investigation
 github: benoitchampy
 link: https://www.linkedin.com/in/benoitchampy/
 missions:
-    - start: 2022-10-17
-      end: 2026-12-31
-      status: admin
-      employer: DINUM
+  - start: 2022-10-17
+    end: 2026-12-31
+    status: admin
+    employer: DINUM
 startups:
-    - pass-sport
+  - pass-sport
 badges:
-    - segur
+  - segur
 competences:
-    - UI
-    - UX
+  - UI
+  - UX
 previously:
-    - cnr
-    - la.bonne.renov
+  - cnr
+  - la.bonne.renov
 ---

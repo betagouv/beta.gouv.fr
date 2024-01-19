@@ -4,11 +4,11 @@ role: Coach
 domaine: Coaching
 github: Sw1n
 missions:
-    - start: 2020-02-20
-      end: 2022-09-30
-      status: service
+  - start: 2020-02-20
+    end: 2022-09-30
+    status: service
 previously:
-    - signalement
-    - Anais
-    - aidess
+  - signalement
+  - Anais
+  - aidess
 ---

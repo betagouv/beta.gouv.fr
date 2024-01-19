@@ -4,25 +4,25 @@ role: Responsable de portefeuille - Éducation nationale, Vie associative, Sport
 domaine: Produit
 github: clemhacks
 missions:
-    - start: 2021-06-01
-      end: 2022-01-31
-      status: service
-      employer: Sopra Steria
-    - start: 2022-03-15
-      end: 2026-09-01
-      status: admin
-      employer: Dinum
+  - start: 2021-06-01
+    end: 2022-01-31
+    status: service
+    employer: Sopra Steria
+  - start: 2022-03-15
+    end: 2026-09-01
+    status: admin
+    employer: Dinum
 startups:
 
 previously:
-    - tchap
-    - sparte
-    - authentification
-    - cnr
-    - compte.ressources
-    - pass-sport
+  - tchap
+  - sparte
+  - authentification
+  - cnr
+  - compte.ressources
+  - pass-sport
 badges:
-    - segur
+  - segur
 teams:
-    - /teams/animation-dinum
+  - /teams/animation-dinum
 ---

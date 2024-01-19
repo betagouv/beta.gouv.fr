@@ -5,12 +5,12 @@ domaine: Développement
 link: https://www.palo-it.com/fr/
 github: GalloIT
 missions:
-    - start: 2023-07-18
-      end: 2024-07-18
-      status: service
-      employer: Palo IT &#x2F; Omnicité
+  - start: 2023-07-18
+    end: 2024-07-18
+    status: service
+    employer: Palo IT &#x2F; Omnicité
 startups:
-    - nis2
+  - nis2
 memberType: beta
 ---
 
