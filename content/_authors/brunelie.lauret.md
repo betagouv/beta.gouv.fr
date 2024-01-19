@@ -9,7 +9,6 @@ missions:
     status: service
     employer: ''
 startups:
-  - portail.rse
   - portail-rse
 memberType: attributaire
 ---
