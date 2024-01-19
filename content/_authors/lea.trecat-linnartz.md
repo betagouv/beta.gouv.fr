@@ -1,10 +1,10 @@
 ---
 fullname: Léa trecat-linnartz
-role: Product Manager 
+role: Product Manager
 domaine: Développement
 missions:
   - start: 2023-04-01
-    end: 2024-05-01
+    end: 2024-03-01
     status: admin
     employer: pôle emploi
 startups:
