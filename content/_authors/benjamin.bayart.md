@@ -1,6 +1,6 @@
 ---
 fullname: Benjamin Bayart
-role: Directeur de mission
+role: Expert Messagerie au sein de l'Opérateur
 domaine: Développement
 link: https://edgard.fdn.fr
 github: octo-yart
@@ -9,7 +9,9 @@ missions:
     end: 2024-12-31
     status: service
     employer: Octo
-memberType: autre
+memberType: dinum
+startups:
+  - suite.collaborative
 ---
 
 Réseau, système, logiciels libres et problèmes inextricables.

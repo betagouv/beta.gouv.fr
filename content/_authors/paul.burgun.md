@@ -1,6 +1,6 @@
 ---
 fullname: Paul Burgun
-role: Responsable du FAST
+role: Responsable du FAST et responsable du portefeuille Justice
 domaine: Animation
 github: paulburgun
 missions:

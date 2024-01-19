@@ -16,6 +16,7 @@ phases:
 fast:
   promotion: 13
   montant: 250000
+stats_url: https://lookerstudio.google.com/s/mfONJeK_lC0
 ---
 # **Contexte**
 

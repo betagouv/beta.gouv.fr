@@ -1,19 +1,24 @@
 ---
 fullname: Estelle Saget
-role: Chargée de déploiement
+role: Responsable de portefeuille Vie associative
 domaine: Déploiement
 github: estellesaget
 missions:
   - start: 2022-05-09
-    end: 2024-12-31
+    end: 2023-12-30
     status: independent
     employer: ''
-startups:
-  - l-application-du-cej
+  - start: 2023-12-31
+    end: 2024-12-30
+    status: admin
+    employer: dinum
 badges:
   - segur
 previously:
   - apilos
+  - l-application-du-cej
+teams:
+  - /teams/animation-dinum
 ---
 
 Couteau suisse (et bourguignon) de la tech, motivée par les projets à impact

@@ -6,13 +6,9 @@ missions:
   - start: 2022-11-01
     end: 2024-12-31
     status: admin
-    employer: ''
+    employer: Pôle emploi
 startups:
   - competence.validee
   - mes.aides.a.lembauche
-  - mes.evenements.emploi
-
+  - mes-evenements-emploi
 ---
-
-
-

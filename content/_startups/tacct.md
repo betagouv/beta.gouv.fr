@@ -1,7 +1,6 @@
 ---
 title: Facili-TACCT
-mission: Vers un service d’accompagnement des collectivités pour une meilleure
-  appropriation de leur diagnostic de vulnérabilité.
+mission: Accompagner les collectivités pour une meilleure appropriation de leur diagnostic de vulnérabilité.
 sponsors:
   - /organisations/ademe
 incubator: ademe

@@ -9,7 +9,10 @@ missions:
     end: 2022-12-31
     status: service
     employer: NUMA
-startups:
+  - start: 2023-12-31
+    end: 2026-12-31
+    status: admin
+    employer: DINUM
 previously:
   - mission-transition-ecologique
   - domifa
@@ -20,4 +23,6 @@ previously:
 competences:
   - Coaching
   - Gestion de Produit
+teams:
+  - /teams/animation-dinum
 ---

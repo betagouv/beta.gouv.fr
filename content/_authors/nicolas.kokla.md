@@ -6,7 +6,7 @@ github: nkokla
 link: https://kokla.com
 missions:
   - start: 2021-10-01
-    end: 2024-01-22
+    end: 2024-06-30
     status: independent
     employer: PathTech
 startups:

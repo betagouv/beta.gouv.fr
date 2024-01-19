@@ -1,6 +1,6 @@
 ---
 fullname: Elsa Le Duigou
-role: Reponsable portefeuille beta.gouv.fr
+role: Reponsable portefeuille Santé, Solidarité, Cybersécurité & IA
 domaine: Animation
 github: pouredfromamold
 missions:

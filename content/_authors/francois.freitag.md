@@ -9,10 +9,10 @@ missions:
     status: independent
     employer: Malt
 startups:
-  - inclusion.connect
   - itou
 previously:
   - carnet.de.bord
+  - inclusion.connect
 ---
 
 Développeur avec un faible pour le Python 🐍.

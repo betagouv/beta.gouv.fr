@@ -30,7 +30,6 @@ missions:
     status: independent
     employer: LBC
 startups:
-  - monstage
 previously:
   - andi
   - urbanvitaliz
@@ -46,6 +45,7 @@ previously:
   - deveco
   - guichet-entreprises-nc
   - la.communaute.de.linclusion
+  - monstage
 badges:
   - segur
 competences:

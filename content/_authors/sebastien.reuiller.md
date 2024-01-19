@@ -17,10 +17,16 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Malt
+  - start: 2024-01-01
+    end: 2024-06-30
+    status: independent
+    employer: LBC
 startups:
+  - urbanvitaliz
+  - recoco
   - place-de-marche-inclusion
-  - cnr
 previously:
+  - cnr
   - la.communaute.de.linclusion
   - itou
 competences:

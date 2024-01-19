@@ -1,6 +1,6 @@
 ---
 fullname: Célia d'Hervé
-role: Appui aux intrapreneuses
+role: Intrapreneure
 domaine: Intraprenariat
 missions:
   - start: 2022-09-01
@@ -11,4 +11,4 @@ startups:
 memberType: beta
 ---
 
-Cheffe du Service systèmes d'information pêche du Centre national de surveillance des pêches
+Cheffe du Service systèmes d'information pêche du Centre national de surveillance des pêches, Intrapreneure Monitor Fish

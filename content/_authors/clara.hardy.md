@@ -6,7 +6,7 @@ role: >-
 domaine: Animation
 missions:
   - start: 2023-12-11
-    end: 2024-01-31
+    end: 2024-06-30
     status: independent
     employer: ''
 startups:

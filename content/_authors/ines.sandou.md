@@ -4,7 +4,7 @@ role: Chargée de support
 domaine: Autre
 missions:
   - start: 2023-11-13
-    end: 2024-01-31
+    end: 2024-06-30
     status: independent
     employer: Octo technology
 startups:

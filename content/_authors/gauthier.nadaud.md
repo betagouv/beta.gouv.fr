@@ -1,6 +1,6 @@
 ---
 fullname: Gauthier Nadaud
-role: Coach/Expert Fast
+role: Expert Fast
 domaine: Coaching
 missions:
   - start: 2022-06-24

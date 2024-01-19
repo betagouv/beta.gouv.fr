@@ -16,7 +16,7 @@ missions:
 startups: []
 previously:
   - mediature
-  - mon.espae.collectivite
+  - mon.espace.collectivite
   - agents.en.intervention
 memberType: beta
 badges:

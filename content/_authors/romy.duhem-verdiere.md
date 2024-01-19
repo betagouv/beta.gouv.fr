@@ -9,7 +9,7 @@ missions:
     status: service
     employer: octo
   - start: 2022-11-01
-    end: 2023-12-31
+    end: 2024-04-30
     status: service
     employer: octo
 previously:
