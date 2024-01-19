@@ -1,6 +1,6 @@
 ---
 fullname: Léa trecat-linnartz
-role: Product Manager 
+role: Product Manager
 domaine: Développement
 missions:
   - start: 2023-04-01
