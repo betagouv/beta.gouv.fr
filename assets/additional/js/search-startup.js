@@ -80,6 +80,9 @@ var filterCards = function (data, value) {
   if (filters["usertypes"]) {
     data = data.filter((d) => d.attributes.usertypes.includes(filters["usertypes"]));
   }
+  if (filters["is_national_impact"]) {
+    data = data.filter((d) => d.events.find((event) => event.name === "national_impact"));
+  }
   return data;
 };
 
@@ -95,7 +98,9 @@ var updateCards = function (data) {
     var grid = phaseElement.getElementsByClassName("startups")[0];
     var documentFragment = document.createDocumentFragment();
     var dataToDisplay = filterCards(data[phase]);
-    count = count + dataToDisplay.length;
+    if (phase !== "alumni") {
+      count = count + dataToDisplay.length;
+    }
     if (!dataToDisplay.length) {
       phaseElement.style.display = "none";
       optionElements.forEach((optionElement) => {
@@ -125,7 +130,6 @@ var updateCards = function (data) {
     }
     var phaseLabel = phaseElement.getElementsByClassName("phase-label")[0];
     if (phaseLabel) {
-
       var currentPhase = phases.filter((p) => p.status === phase)[0];
       var plural = dataToDisplay.length > 1 ? "s" : "";
       if (currentPhase.status === "success") {
@@ -148,12 +152,12 @@ var updateCards = function (data) {
   }
 
   // Update global search counter
-  document.querySelectorAll('.global-search-counter').forEach((counterElement) => {
+  document.querySelectorAll(".global-search-counter").forEach((counterElement) => {
     counterElement.innerText = count;
   });
 
-  document.querySelectorAll('.global-search-counter-label').forEach((labelElement) => {
-    labelElement.innerText = count > 1 ? 'services numériques' : 'service numérique';
+  document.querySelectorAll(".global-search-counter-label").forEach((labelElement) => {
+    labelElement.innerText = count > 1 ? "services numériques" : "service numérique";
   });
 
   if (!count) {
@@ -222,6 +226,26 @@ var createUsertypesSelect = function (selectElement, data, initValue) {
     onUsertypesChange(value);
     const urlParams = new URLSearchParams(window.location.search);
     urlParams.set("usertypes", value);
+    history.replaceState(null, null, window.location.origin + window.location.pathname + "?" + urlParams);
+  });
+};
+
+var createNationalImpactSelect = function (selectElement, data, initValue) {
+  var onNationalImpactChange = function (value) {
+    filters["is_national_impact"] = value;
+    updateCards(data);
+  };
+  if (initValue === "true") {
+    setTimeout(() => {
+      selectElement.checked = true;
+    }, 1000);
+    onNationalImpactChange(true);
+  }
+  selectElement.addEventListener("change", function (e) {
+    var value = selectElement.checked;
+    onNationalImpactChange(value);
+    const urlParams = new URLSearchParams(window.location.search);
+    urlParams.set("national_impact", value);
     history.replaceState(null, null, window.location.origin + window.location.pathname + "?" + urlParams);
   });
 };

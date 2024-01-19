@@ -65,9 +65,9 @@ layout: default
                 </div>
                 <div class="fr-grid-row fr-grid-row--gutters fr-pt-3w">
                     <!-- Only take a few in case more are defined -->
-                    {% assign chosen_startups_ids = site.data.startups.main_highlighted_startups | sample: 3 %}
-                    {% for startup_id in chosen_startups_ids %}
-                        {% capture startup_full_id %}/startups/{{ startup_id }}{% endcapture %}
+                    {% assign chosen_startups = site.startups | where_national_impact: 2022 %}
+                    {% for startup in chosen_startups limit:3 %}
+                        {% capture startup_full_id %}/startups/{{ startup.id }}{% endcapture %}
                         {% assign startup = site.startups | where: "id", startup_full_id | first %}
                         <div class="fr-col-12 fr-col-md-4 fr-mb-2w">
                             {% include card-startup.html startup = startup %}
@@ -76,7 +76,7 @@ layout: default
                 </div>
                 <div class="fr-grid-row">
                     <div class="fr-col">
-                        <a class="fr-btn fr-btn--md fr-mt-2w" href="/startups">Voir nos réalisations</a>
+                        <a class="fr-btn fr-btn--md fr-mt-2w" href="/startups?national_impact=true">Voir nos réalisations</a>
                     </div>
                 </div>
             </div>

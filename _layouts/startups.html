@@ -61,6 +61,12 @@ layout: default
                     { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
                     }
                 }
+            , "events":[
+                    {% for event in startup.events %}
+                        { "name": "{{event.name}}", "date": "{{event.date}}"}{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                    ]
+                
                 // TODO ajouter sponsors
             }
             {% unless forloop.last %},{% endunless %}
@@ -104,7 +110,7 @@ layout: default
                             Filtres de recherche
                         </h3>
                         <div class="fr-card__desc fr-mt-6w">
-                            {% include startups-filters.html %}
+                            {% include startups-filters.html prefix='filters-' %}
                         </div>
                     </div>
                 </div>
@@ -117,13 +123,13 @@ layout: default
                         <button class="fr-accordion__btn" aria-expanded="false" aria-controls="fr-accordion-0-body-0" data-fr-js-collapse-button="true">Filtres de recherche</button>
                     </h3>
                     <div class="fr-collapse" id="fr-accordion-0-body-0">
-                        {% include startups-filters.html %}
+                        {% include startups-filters.html prefix='collapse-filters-' %}
                     </div>
                 </div>
             </section>
 
             <h2>
-                {% assign globalCounter = site.startups | size %}
+                {% assign globalCounter = site.startups | count_all_active_startups %}
                 <span class="global-search-counter">{{ globalCounter }}</span>
                 <span class="global-search-counter-label">
                     {% if globalCounter > 1 %}
@@ -206,11 +212,13 @@ layout: default
     })
 </script>
 
+
 <script src="/assets/additional/js/search-startup.js" type="text/javascript"></script>
 <script>
     var urlParams = new URLSearchParams(window.location.search);
     var incubatorValue = urlParams.get('incubateur');
     var usertypesValue = urlParams.get('usertypes');
+    var nationalImpactValue = urlParams.get('national_impact');
     data = generateDataWithHtmlCards(data);
 
     document.querySelectorAll('.select-incubateur').forEach((selectElement) => {
@@ -219,5 +227,9 @@ layout: default
 
     document.querySelectorAll('.select-usertypes').forEach((selectElement) => {
         createUsertypesSelect(selectElement, data, usertypesValue)
+    })
+
+    document.querySelectorAll('.select-impact').forEach((selectElement) => {
+        createNationalImpactSelect(selectElement, data, nationalImpactValue)
     })
 </script>
