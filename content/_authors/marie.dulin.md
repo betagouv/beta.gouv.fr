@@ -10,8 +10,7 @@ missions:
     status: independent
     employer: ""
 startups:
-  - previously:
-      - mistral-penal
+  - mistral-penal
 memberType: beta
 ---
 
