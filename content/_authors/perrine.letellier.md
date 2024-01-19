@@ -4,12 +4,12 @@ role: Développeuse full stack
 domaine: Développement
 github: pletelli
 missions:
-  - start: 2023-11-14
-    end: 2024-05-14
-    status: independent
-    employer: Octo-Malt
+    - start: 2023-11-14
+      end: 2024-05-14
+      status: independent
+      employer: Octo-Malt
 startups:
-  - iCare-complements-alimentaires
+    - icare-complements-alimentaires
 memberType: beta
 ---
 

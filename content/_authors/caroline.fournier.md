@@ -4,17 +4,17 @@ domaine: Coaching
 role: coach et designer
 link: https://www.carolinefournier.fr/
 missions:
-  - start: 2021-04-20
-    end: 2024-12-17
-    status: independent
-    employer: Numa
+    - start: 2021-04-20
+      end: 2024-12-17
+      status: independent
+      employer: Numa
 startups:
-  - chauffage-urbain
+    - chauffage-urbain
 previously:
-  - Mon-suivi-social
+    - mon-suivi-social
 competences:
-  - UX
-  - UI
-  - Communication
-  - Coaching
+    - UX
+    - UI
+    - Communication
+    - Coaching
 ---

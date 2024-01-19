@@ -4,12 +4,12 @@ role: Développeur logiciel
 domaine: Développement
 github: tomibennett
 missions:
-  - start: 2023-10-16
-    end: 2024-04-16
-    status: independent
-    employer: Omnicité
+    - start: 2023-10-16
+      end: 2024-04-16
+      status: independent
+      employer: Omnicité
 startups:
-  - MonAideCyber
+    - mon-aide-cyber
 memberType: beta
 ---
 

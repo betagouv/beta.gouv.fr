@@ -5,24 +5,23 @@ domaine: Coaching
 link: https://www.linkedin.com/in/yoannkassivivier/
 github: yoannbeta
 missions:
-  - start: 2020-01-01
-    end: 2022-12-31
-    status: admin
-    employer: DJEPVA
-  - start: 2022-07-04
-    end: 2025-01-31
-    status: independent
-    employer: NUMA
+    - start: 2020-01-01
+      end: 2022-12-31
+      status: admin
+      employer: DJEPVA
+    - start: 2022-07-04
+      end: 2025-01-31
+      status: independent
+      employer: NUMA
 startups:
-  - investigationIJ
-  - api-engagement
+    - investigation-ij
+    - api-engagement
 previously:
-  - jeveuxaider
-  - snu
-  - prevention_ruptures_apprentissage
+    - jeveuxaider
+    - snu
+    - prevention_ruptures_apprentissage
 badges:
-  - segur
+    - segur
 ---
-
 
 Coach & ex-intrapreneur @JeVeuxAider @SNU @API-Engagement

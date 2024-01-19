@@ -5,17 +5,16 @@ domaine: Autre
 github: Alexis-Akinyemi
 link: https://www.linkedin.com/in/alexis-akinyemi/
 missions:
-  - start: 2019-09-26
-    end: 2024-05-30
-    status: service
-    employer: AD-HOC Lab
+    - start: 2019-09-26
+      end: 2024-05-30
+      status: service
+      employer: AD-HOC Lab
 startups:
-  - diagoriente
-  - la-bonne-alternance
-  - expositionIJ
+    - diagoriente
+    - la-bonne-alternance
+    - exposition-ij
 previously:
-  - eva
+    - eva
 ---
-
 
 Ethique/Méthode/Réfutabilité

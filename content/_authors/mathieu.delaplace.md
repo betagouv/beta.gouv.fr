@@ -4,12 +4,12 @@ role: Relecteur
 domaine: Développement
 github: madssi
 missions:
-  - start: 2023-11-13
-    end: 2024-11-13
-    status: admin
-    employer: ANSSI
+    - start: 2023-11-13
+      end: 2024-11-13
+      status: admin
+      employer: ANSSI
 startups:
-  - MonAideCyber
+    - mon-aide-cyber
 memberType: autre
 ---
 
