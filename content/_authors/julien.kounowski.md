@@ -8,10 +8,11 @@ missions:
     status: admin
     employer: Ministères Sociaux / DRJSCS HDF
 startups:
-  - AidESS-Relance
+  - aidess
 badges:
   - segur
 competences:
   - Administration Publique
 ---
+
 Heureux innovateur engagé, responsable du SIILAB, laboratoire d'innovation publique PIA Hauts-de-France

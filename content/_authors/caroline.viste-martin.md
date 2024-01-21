@@ -7,7 +7,6 @@ missions:
     end: 2024-10-02
     status: admin
 startups:
-  - iCare-complements-alimentaires
+  - icare-complements-alimentaires
 memberType: beta
 ---
-

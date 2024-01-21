@@ -11,7 +11,7 @@ missions:
 startups:
   - chauffage-urbain
 previously:
-  - Mon-suivi-social
+  - mon-suivi-social
 competences:
   - UX
   - UI

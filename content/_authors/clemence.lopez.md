@@ -1,6 +1,6 @@
 ---
 fullname: Clémence Lopez
-role: Responsable de portefeuille - Éducation nationale, Vie associative, Sports et Enseignement supérieur 
+role: Responsable de portefeuille - Éducation nationale, Vie associative, Sports et Enseignement supérieur
 domaine: Produit
 github: clemhacks
 missions:
@@ -20,12 +20,9 @@ previously:
   - authentification
   - cnr
   - compte.ressources
-  - pass'sport
+  - pass-sport
 badges:
   - segur
 teams:
   - /teams/animation-dinum
 ---
-
-
-

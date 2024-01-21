@@ -8,12 +8,10 @@ missions:
   - start: 2023-07-03
     end: 2024-03-31
     status: independent
-    employer: ''
+    employer: ""
 startups:
-  - T2BJustice
+  - mistral-penal
 memberType: beta
-previously:
-  - T2BJustice
 ---
 
 Conceptrice passionnée et enthousiaste de produits utiles

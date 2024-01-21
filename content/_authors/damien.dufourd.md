@@ -7,14 +7,14 @@ missions:
   - start: 2018-09-04
     end: 2024-12-31
     status: independent
-    employer: ''
+    employer: ""
 startups:
   - diagoriente
   - histologe
   - dora
-  - expositionIJ
+  - exposition-ij
   - la-bonne-alternance
-  - NIS2
+  - nis2
   - homologation
   - tdb-apprentissage
   - data-inclusion
