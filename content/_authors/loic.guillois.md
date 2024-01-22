@@ -15,7 +15,7 @@ missions:
     status: independent
     employer: ''
   - start: 2020-12-26
-    end: 2023-11-29
+    end: 2024-01-31
     status: independent
     employer: octo
 previously:

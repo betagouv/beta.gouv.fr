@@ -9,10 +9,8 @@ missions:
     status: admin
     employer: ANSSI (SGDSN)
 startups:
-  - MonAideCyber
+  - mon-aide-cyber
 memberType: beta
-previously:
-  - MonAideCyber
 ---
 
 Délégué Sécurité Numérique ANSSI Nouvelle-Aquitaine

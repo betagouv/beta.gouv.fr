@@ -12,10 +12,9 @@ missions:
 startups:
   - diagoriente
   - la-bonne-alternance
-  - expositionIJ
+  - exposition-ij
 previously:
   - eva
 ---
-
 
 Ethique/Méthode/Réfutabilité

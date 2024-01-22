@@ -11,5 +11,5 @@ missions:
     employer: Octo Technology
 memberType: dinum
 startups:
-  - suite.collaborative
+  - suite-numerique
 ---

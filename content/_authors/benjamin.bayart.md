@@ -11,7 +11,7 @@ missions:
     employer: Octo
 memberType: dinum
 startups:
-  - suite.collaborative
+  - suite-numerique
 ---
 
 Réseau, système, logiciels libres et problèmes inextricables.

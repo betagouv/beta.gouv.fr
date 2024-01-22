@@ -1,6 +1,6 @@
 ---
 fullname: Louis Pénisson
-role: Chargée de déploiement
+role: Chargé de déploiement
 github: Musiquedelouie
 domaine: Déploiement
 missions:

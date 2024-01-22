@@ -8,9 +8,9 @@ missions:
     status: independent
     employer: Numa
 startups:
-- Maison du dessin de presse
-- ma cantine
-- iCare compléments alimentaires
+  - Maison du dessin de presse
+  - ma cantine
+  - icare-complements-alimentaires
 memberType: beta
 ---
 

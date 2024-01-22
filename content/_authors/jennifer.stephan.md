@@ -10,12 +10,12 @@ missions:
     status: independent
     employer: scopyleft
 startups:
-    - ma-cantine-egalim
-    - iCare-compléments-alimentaires
+  - ma-cantine-egalim
+  - icare-complements-alimentaires
 previously:
-    - ellesfontlaculture
-    - pop
-    - datagir
-    - au-compost-mitoyen
-    - protege-toit
+  - ellesfontlaculture
+  - pop
+  - datagir
+  - au-compost-mitoyen
+  - protege-toit
 ---

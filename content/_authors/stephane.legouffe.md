@@ -6,7 +6,7 @@ github: slegouffe
 link: https://wawy.io
 missions:
   - start: 2018-03-08
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
 startups:
   - lannuaire.des.collectivites

@@ -17,7 +17,7 @@ competences:
 teams:
   - /teams/DINUM
 startups:
-  - expositionIJ
+  - exposition-ij
 previously:
   - Design gouv
   - Observatoire de la qualité des démarches
