@@ -10,7 +10,7 @@ missions:
     status: service
 startups:
   - portail.rse
-membertype: beta
+memberType: beta
 ---
 
 UI  UX Designer, intégrateur·ice web
