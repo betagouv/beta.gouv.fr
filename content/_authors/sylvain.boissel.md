@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: Malt
 startups:
-  - suite.collaborative
+  - suite-numerique
 previously:
   - aides-territoires
 badges:
