@@ -10,5 +10,5 @@ missions:
     employer: Octo
 memberType: dinum
 startups:
-  - suite.collaborative
+  - suite-numerique
 ---

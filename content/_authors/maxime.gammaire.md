@@ -11,6 +11,7 @@ missions:
 badges:
   - segur
 startups:
-  - T2BJustice
+  - mistral-penal
 ---
+
 Directeur des services de greffe judiciaires

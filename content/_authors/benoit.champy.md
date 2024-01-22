@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - Pass'Sport
+  - pass-sport
 badges:
   - segur
 competences:

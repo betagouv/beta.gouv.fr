@@ -1,12 +1,13 @@
 ---
 title: La Bonne Boite
-mission: Favoriser les candidature spontanées en suggérant les entreprises à
-  fort potentiel d'embauche selon le lieu géographie choisi.
+mission: >-
+  Favoriser les candidature spontanées en suggérant les entreprises à fort
+  potentiel d'embauche selon le lieu géographie choisi.
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
 link: https://labonneboite.pole-emploi.fr/
-repository: "https://github.com/StartupsPoleEmploi/labonneboite "
+repository: 'https://github.com/StartupsPoleEmploi/labonneboite '
 contact: labonneboite@pole-emploi.fr
 accessibility_status: partiellement conforme
 redirect_from:
@@ -25,6 +26,7 @@ phases:
     start: 2015-05-01
   - name: acceleration
     start: 2023-01-19
+stats_url: https://labonneboite.pole-emploi.fr//stats
 ---
 Le saviez-vous ?Le marché caché de l’emploi représente **plus de 40% des recrutements** ( Sur 7 millions de recrutement , 3 millions s'est fait via la marché caché en 2020)!
 
