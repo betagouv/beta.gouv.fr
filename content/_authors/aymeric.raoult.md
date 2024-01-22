@@ -7,9 +7,9 @@ missions:
   - start: 2021-01-04
     end: 2024-06-29
     status: independent
-    employer: ''
+    employer: ""
 startups:
-  - T2BJustice
+  - mistral-penal
   - apilos
   - carte-verte
 competences:

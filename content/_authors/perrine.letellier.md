@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo-Malt
 startups:
-  - iCare-complements-alimentaires
+  - icare-complements-alimentaires
 memberType: beta
 ---
 

@@ -10,8 +10,8 @@ missions:
     employer: AMUE
 startups:
   - sirius
-  - expositionIJ
-  - investigationIJ
+  - exposition-ij
+  - investigation-ij
   - pilotagevoiepro
 teams:
   - /teams/mission-inserjeunes

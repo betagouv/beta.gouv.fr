@@ -12,7 +12,7 @@ missions:
   - start: 2022-12-05
     end: 2024-06-29
     status: independent
-    employer: ''
+    employer: ""
 startups:
   - sirius
 competences:
@@ -21,7 +21,7 @@ competences:
   - UI
 previously:
   - lannuaire.des.collectivites
-  - T2BJustice
+  - mistral-penal
 ---
 
 Designer / coach

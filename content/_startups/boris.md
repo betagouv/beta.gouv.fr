@@ -1,20 +1,20 @@
 ---
 title: BoRiS
 mission: Informer les bénéficiaires potentiels du Bail Réel Solidaire, simuler l'éligibilité au dispositif et mettre en relation les acheteurs avec les Organismes Fonciers Solidaires
-sponsors: 
- - /organisations/dgaln 
-incubator: mtes 
-phases: 
-  - name: construction
-    start: 2023-09-01 
-events: 
-  - name: committee
-    date: 2023-08-22 
-    comment: Comité de fin d'investigation 
+sponsors:
+    - /organisations/dgaln
+incubator: mtes
+phases:
+    - name: construction
+      start: 2023-09-01
+events:
+    - name: committee
+      date: 2023-08-22
+      comment: Comité de fin d'investigation
 link: https://boris.beta.gouv.fr
 repository: https://github.com/betagouv/boris # ou page de description des dépôts s'il y en a plusieurs
-stats: false 
-contact: nathan.gaudelet@beta.gouv.fr 
+stats: false
+contact: nathan.gaudelet@beta.gouv.fr
 ---
 
 ## Fiche produit
@@ -30,6 +30,7 @@ Le problème, c'est que le dispositif est complexes, l'éligibilité pas toujour
 BoRiS, c'est l'ami serviable qui s'assoit à vos côtés pour simplifier le parcours de l'achat d'un logement en BRS.
 
 La plateforme propose trois fonctionnalités complémentaires :
+
 1. Une source d'information fiable et détaillée sur les étapes à suivre pour acheter un bien en BRS
 2. Un simulateur d'éligibilité sous forme de chatbot pour savoir si son foyer correspond aux critères
 3. Un service de mise en relation pour connaître les biens mis en vente dans sa zone de recherche

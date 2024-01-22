@@ -8,7 +8,6 @@ missions:
     end: 2024-07-07
     status: admin
 startups:
-  - MonAideCyber
+  - mon-aide-cyber
 memberType: beta
 ---
-

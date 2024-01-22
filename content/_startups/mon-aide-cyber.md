@@ -4,14 +4,16 @@ incubator: lab-innov-anssi
 contact: monaidecyber@ssi.gouv.fr
 title: MonAideCyber
 sponsors:
-  - /organisations/anssi
+    - /organisations/anssi
 phases:
-  - name: investigation
-    start: 2022-01-01
-  - name: construction
-    start: 2022-09-01
-
+    - name: investigation
+      start: 2022-01-01
+    - name: construction
+      start: 2022-09-01
+redirect_from:
+    - /startups/MonAideCyber
 ---
+
 ## En cours de construction
 
 **Vous êtes intéressé(e) par notre projet ?
@@ -28,10 +30,11 @@ identifier puis mettre en œuvre des premières actions concrètes pour renforce
 A l'inverse, certaines entités ont parfois tendance à surévaluer leur niveau de cybersécurité.
 
 Ces entités très vulnérables nécessitent d’être accompagnées, par un tiers de confiance hors de toute démarche commerciale, pour
-- réaliser en 1er état de lieux de leur niveau de maturité cyber ;
-- prendre connaissance de leurs principales lacunes ;
-- identifier des premières actions concrètes, accessibles et à fort impact à mettre en oeuvre ;
-- s'engager dans une démarche progressive de renforcement de leur cybersécurité.
+
+-   réaliser en 1er état de lieux de leur niveau de maturité cyber ;
+-   prendre connaissance de leurs principales lacunes ;
+-   identifier des premières actions concrètes, accessibles et à fort impact à mettre en oeuvre ;
+-   s'engager dans une démarche progressive de renforcement de leur cybersécurité.
 
 L’ANSSI, en sa qualité d’autorité nationale de cybersécurité, œuvre déjà en soutien de collectivités et d'entreprises,
 dans le cadre de son action territoriale, mais n'est pas aujourd'hui en mesure d'apporter son soutien à l'ensemble
@@ -46,9 +49,10 @@ déjà sensibilisées au risque et souhaitant s'engager dans une démarche adapt
 A l'issue d'une phase d'investigation ayant permis de préciser le problème et de définir l'hypothèse de solution,
 MonAideCyber est entré en phase de construction. Dans le cadre de la conception d'une première version du produit,
 MonAideCyber testera prioritairement :
-- La sélection, la formation et l'accompagnement d'un premier cercle de partenaires ("tiers de confiance")
-parmi la communauté des acteurs locaux publics et associatifs oeuvrant déjà au renforcement de la cybersécurité
-d'entités publiques et privées (ex. services déconcentrés de l'Etat, opérateurs publics de services numériques,
-campus cyber régionaux, associations et fédérations d'entreprises...).
-- L'outil de diagnostic cyber rapide et ses modalités de déploiement par les tiers de confiance afin d'augmenter le nombre de diagnostics réalisés.
-- Le processus d'accompagnement des bénéficiaires par les tiers de confiance.
+
+-   La sélection, la formation et l'accompagnement d'un premier cercle de partenaires ("tiers de confiance")
+    parmi la communauté des acteurs locaux publics et associatifs oeuvrant déjà au renforcement de la cybersécurité
+    d'entités publiques et privées (ex. services déconcentrés de l'Etat, opérateurs publics de services numériques,
+    campus cyber régionaux, associations et fédérations d'entreprises...).
+-   L'outil de diagnostic cyber rapide et ses modalités de déploiement par les tiers de confiance afin d'augmenter le nombre de diagnostics réalisés.
+-   Le processus d'accompagnement des bénéficiaires par les tiers de confiance.

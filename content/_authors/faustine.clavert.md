@@ -10,7 +10,7 @@ missions:
     status: service
     employer: Omnicité
 startups:
-  - MonAideCyber
+  - mon-aide-cyber
 memberType: beta
 ---
 

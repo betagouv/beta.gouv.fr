@@ -18,6 +18,6 @@ startups:
 previously:
   - e-controle
   - aides-territoires
-  - AidESS-Relance
+  - aidess
   - trackdechets
 ---

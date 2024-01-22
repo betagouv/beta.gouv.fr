@@ -1,11 +1,12 @@
 ---
 fullname: Philippe Rahbé
-role: Opérateur de validation &#x2F; Support utilisateur
+role: Opérateur de validation &amp;#x2F; Support utilisateur
 domaine: Autre
 missions:
   - start: 2023-06-21
-    end: 2024-01-21
+    end: 2024-09-30
     status: independent
+    employer: ''
 startups:
   - locatio
 memberType: autre
