@@ -9,6 +9,9 @@ contact: aurelie.manginot@fabrique.social.gouv.fr
 phases:
   - name: investigation
     start: 2023-10-02
+    end: 2024-01-01
+  - name: alumni
+    start: 2024-01-01
 ---
 ## Contexte
 ### *Quel problème de politique publique cherchons-nous à adresser ?*
