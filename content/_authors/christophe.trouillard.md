@@ -8,8 +8,9 @@ missions:
     status: admin
     employer: DRJSCS HdF
 startups:
-  - AidESS-Relance
+  - aidess
 competences:
   - Administration Publique
 ---
+
 Socio-démographe de formation, je trifouille toutes sortes de données pour accompagner le déploiement des politiques publiques.

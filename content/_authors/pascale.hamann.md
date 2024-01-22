@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: MINISTERE DE LA JUSTICE
 startups:
-  - T2BJustice
+  - mistral-penal
 memberType: beta
 ---
 

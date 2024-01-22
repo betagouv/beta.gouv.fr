@@ -1,6 +1,6 @@
 ---
 fullname: Romy Duhem-Verdière
-role: Design UX &amp;amp; a11y
+role: Coach a11y
 domaine: Design
 link: http://romy.tetue.net
 missions:

@@ -19,6 +19,7 @@ phases:
   - name: acceleration
     start: 2022-10-03
     end: 2024-01-01
+accessibility_status: non conforme
 ---
 #### **Contexte**
 

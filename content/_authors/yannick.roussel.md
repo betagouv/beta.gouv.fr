@@ -6,11 +6,11 @@ missions:
   - start: 2022-06-23
     end: 2024-03-31
     status: independent
-    employer: ''
+    employer: ""
 badges:
   - segur
 startups:
-  - T2BJustice
+  - mistral-penal
 ---
 
 Développeur web

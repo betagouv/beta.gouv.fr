@@ -8,8 +8,7 @@ missions:
   - start: 2022-03-07
     end: 2024-02-29
     status: independent
-    employer: ''
+    employer: ""
 startups:
-  - Mon-suivi-social
+  - mon-suivi-social
 ---
-

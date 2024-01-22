@@ -1,6 +1,4 @@
 ---
-fullname: Yoan Pintas
-role: Développeur Android Sénior - Tchap
 domaine: Développement
 github: yostyle
 missions:
@@ -8,9 +6,13 @@ missions:
     end: 2024-02-21
     status: independent
     employer: Malt
+competences:
+  - Développement Frontend
+memberType: beta
+fullname: Yoan Pintas
+role: Développeur Mobile Sénior - Référent Matrix
+link: https://www.linkedin.com/in/yoan-pintas-51280783/
 startups:
   - tchap
-memberType: beta
 ---
-
 Passionné par les nouvelles technologies et voyageurs.

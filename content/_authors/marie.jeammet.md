@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - suite.collaborative
+  - suite-numerique
 previously:
   - cnr
   - tous.a.bord

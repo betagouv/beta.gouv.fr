@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Omnicité
 startups:
-  - MonAideCyber
+  - mon-aide-cyber
 memberType: beta
 ---
 
