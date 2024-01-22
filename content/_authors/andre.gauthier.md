@@ -10,8 +10,9 @@ missions:
     status: independent
     employer: Scopyleft
 startups:
-  - ma-cantine-egalim
   - a-just
+previously:
+  - ma-cantine-egalim
 badges:
   - segur
 competences:
