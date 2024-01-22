@@ -14,6 +14,8 @@ phases:
     start: 2018-03-19
   - name: acceleration
     start: 2020-12-31
+  - start: 2024-01-22
+    name: transfer
 events:
   - name: national_impact
     date: 2021-12-31
