@@ -12,8 +12,6 @@ phases:
   - name: investigation
     start: 2023-08-21
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
 ## Contexte
 
 L'égal accès à la pratique sportive souffre de divers freins parmi lesquels la disponibilité des équipements, l'accessibilité physique, le rapport individuel à l'effort mais aussi le coût de la pratique. Face à ce constat, le ministère des sports a lancé en 2021 le dispositif pass'sport qui vise à résoudre ce dernier frein financier. Toutefois, le dispositif peine à atteindre son objectif, à savoir permettre à 2 millions de jeunes de commencer une pratique sportive. 
