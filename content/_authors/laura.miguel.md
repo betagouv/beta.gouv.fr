@@ -5,8 +5,9 @@ domaine: Développement
 github: LAU-MG
 missions:
   - start: 2023-09-18
-    end: 2024-01-31
+    end: 2024-04-30
     status: independent
+    employer: ''
 startups:
   - cartographie.nationale
 memberType: beta
