@@ -8,11 +8,11 @@ missions:
   - start: 2021-04-01
     end: 2024-12-31
     status: admin
-    employer: ''
+    employer: ""
 startups:
   - sirius
-  - expositionIJ
-  - investigationIJ
+  - exposition-ij
+  - investigation-ij
   - pilotagevoiepro
 previously:
   - voeux-apprentissage
@@ -22,4 +22,3 @@ previously:
 teams:
   - /teams/mission-inserjeunes
 ---
-

@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: ANSSI
 startups:
-  - MonAideCyber
+  - mon-aide-cyber
 memberType: autre
 ---
 

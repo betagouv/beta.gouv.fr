@@ -13,7 +13,7 @@ missions:
     employer: beta.gouv
     end: 2022-02-24
 startups:
-  - AidESS-Relance
+  - aidess
   - inca
   - mon-suivi-justice
   - infoparquet
@@ -27,4 +27,5 @@ competences:
   - Administration Publique
   - Gestion de Produit
 ---
+
 In Bike I Trust. Toujours en équipe!

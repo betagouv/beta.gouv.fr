@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Omnicité
 startups:
-  - NIS2
+  - nis2
 memberType: beta
 ---
 

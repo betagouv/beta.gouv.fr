@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: NUMA
 startups:
-  - investigationIJ
+  - investigation-ij
   - api-engagement
 previously:
   - jeveuxaider
@@ -23,6 +23,5 @@ previously:
 badges:
   - segur
 ---
-
 
 Coach & ex-intrapreneur @JeVeuxAider @SNU @API-Engagement

@@ -10,7 +10,7 @@ missions:
     status: service
     employer: Palo IT &#x2F; Omnicité
 startups:
-  - NIS2
+  - nis2
 memberType: beta
 ---
 
