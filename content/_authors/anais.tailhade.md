@@ -1,6 +1,6 @@
 ---
 fullname: Anais Tailhade
-role: 'Coordination &amp; Support '
+role: 'Responsable Support '
 domaine: Autre
 github: Anais-Tailhade
 missions:
@@ -11,12 +11,14 @@ missions:
 badges:
   - segur
 startups:
-  - datapass
-  - api.gouv.fr
   - moncomptepro
-  - api-particulier
   - annuaire-entreprises
+  - suite-numerique
+  - authentification
 previously:
   - data.gouv.fr
   - oots.once-only.technical.system
+  - datapass
+  - api.gouv.fr
+  - api-particulier
 ---
