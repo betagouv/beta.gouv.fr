@@ -1,6 +1,6 @@
 ---
 title: Marché de l'inclusion
-mission: "Aider les structures inclusives à développer leur chiffre d’affaires"
+mission: Aider les structures inclusives à développer leur chiffre d’affaires
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -22,7 +22,6 @@ usertypes:
 dashlord_url: https://dashlord.incubateur.net/url/lemarche-inclusion-beta-gouv-fr/
 accessibility_status: non conforme
 ---
-
 ## Le contexte
 
 Plus de 2 millions de personnes sont en situation de chômage durable et 2,7 millions de personnes sont en situation de handicap et en âge de travailler avec un taux d’emploi de 35% seulement. Le secteur de l’inclusion porte des résultats très positifs pour l’emploi de ces publics en alliant les enjeux territoriaux, sociaux et économiques. Il regroupe les structures de l’insertion par l’activité économique (IAE) et du secteur du travail protégé et adapté (STPA). Il s'agit donc d'accompagner la croissance de ces dispositifs.
