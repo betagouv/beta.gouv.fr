@@ -2,6 +2,8 @@
 mission: >-
   Accélérer la mise en œuvre de projet territoriaux grâce à une identification
   du foncier agricole sous exploite (friches agricoles)
+sponsors:
+  - /organisations/ign
 incubator: fab-geocommuns
 title: Inventaire des friches agricoles
 contact: anne.pichon@beta.gouv.fr
