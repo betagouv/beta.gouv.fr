@@ -5,10 +5,10 @@ date: 2022-04-05
 startup: territoires-en-transitions
 title: Recherche d'une personne chargée de déploiement pour Territoires en Transitions
 ---
-    
+
 ## Mission
 
-Territoires en Transitions permet aux collectivités de piloter efficacement leur transition écologique en les aidant à définir et prioriser la mise en œuvre des actions les plus impactantes en termes de climat, air, énergie et économie circulaire. 
+Territoires en Transitions permet aux collectivités de piloter efficacement leur transition écologique en les aidant à définir et prioriser la mise en œuvre des actions les plus impactantes en termes de climat, air, énergie et économie circulaire.
 
 Le produit propose aux collectivités des référentiels d'actions et d'indicateurs adaptés à leurs compétences pour qu'elles puissent faire un diagnostic de leur situation, puis élaborer et suivre un plan d'actions pour progresser. L'équipe cherche une personne chargée du déploiement pour son produit.
 
@@ -16,9 +16,9 @@ Le produit propose aux collectivités des référentiels d'actions et d'indicate
 
 ## 💃🕺 A propos de vous
 
-Votre mission consistera à aider les collectivités qui utilisent notre produit et aller chercher celles qui ne l'utilisent pas encore. 
+Votre mission consistera à aider les collectivités qui utilisent notre produit et aller chercher celles qui ne l'utilisent pas encore.
 
-Concrètement : 
+Concrètement :
 - Accompagner les personnes utilisatrices dans l’usage du produit depuis le diagnostic jusqu'au plan d'action
 - Récolter les retours utilisateurs lors de l’usage pour aider à améliorer continuellement le produit
 - Communiquer sur les évolutions du produit et animer des sessions d'échanges collectives avec les personnes utilisatrices
@@ -27,7 +27,7 @@ Concrètement :
 - Participer aux orientations stratégiques et au développement du produit en étroite collaboration avec l’équipe (ateliers utilisateurs, recueil de besoins, contribution à la feuille de route)
 
 
-#### Profil recherché : 
+#### Profil recherché :
 - 3 à 5 ans d’expérience professionnelle pertinente par rapport à la mission
 - une bonne connaissance des collectivités est souhaitée
 - une forte appétence sur les questions de transition écologique.
@@ -35,13 +35,13 @@ Concrètement :
 
 ## 👀 À propos de nous
 
-### L’équipe 
+### L’équipe
 
 L'équipe est actuellement composée de 7 personnes :
 - Intrapreneur : Nicolas VALLÉE
 - Responsable produit : Émeline JOLY
 - Designeuse : Camille CANAPLE
-- Développeuse : Raphaëlle BERTRAND-LALO 
+- Développeuse : Raphaëlle BERTRAND-LALO
 - Développeur : Marc RUTKOWSKI
 - Développeur : Florian d'ERFURTH
 - Coach : Pénélope LIOT
@@ -55,20 +55,20 @@ Quelques précisions rapides sur l'organisation d'équipe et le projet:
 
 
 
-### 🌱 Le produit 
+### 🌱 Le produit
 
 Voici la présentation de la startup d'Etat : [Territoires en Transitions](https://beta.gouv.fr/startups/labels-transition.html)
 
 #### Les personnes utilisatrices prioritaires
   - Personnes référentes sur la transition écologique dans une collectivité territoriale (Principalement [EPCI](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_de_coop%C3%A9ration_intercommunale) et villes)
-  - Personnes accompagnatrices des collectivités dans leur transition écologique et processus de labellisation [Conseiller·e·s et auditeurs](https://territoireengagetransitionecologique.ademe.fr/climat-air-energie/labellisation/) 
+  - Personnes accompagnatrices des collectivités dans leur transition écologique et processus de labellisation [Conseiller·e·s et auditeurs](https://territoireengagetransitionecologique.ademe.fr/climat-air-energie/labellisation/)
 
 #### Liens
 Produit : https://territoiresentransitions.fr/
 
-👀 Vous pouvez accéder à une collectivité test en passant par ce lien : app.territoiresentransitions.fr/invitation/86c8273c-92b3-4245-9a77-b33a4f1a0f2f 
+👀 Vous pouvez accéder à une collectivité test en passant par ce lien : app.territoiresentransitions.fr/invitation/86c8273c-92b3-4245-9a77-b33a4f1a0f2f
 
-Statistiques : https://app.territoiresentransitions.fr/stats 
+Statistiques : https://app.territoiresentransitions.fr/stats
 
 Tableaux d'organisation de l'équipe : https://github.com/betagouv/territoires-en-transitions
 
@@ -84,7 +84,7 @@ Dans tous les domaines - énergie, air, économie circulaire, gaspillage aliment
 
 ## 🧳 Modalités d'embauche
 
-- Contrat : freelance / prestation 
+- Contrat : freelance / prestation
 - Début de la mission dès que possible
 - Temps partiel possible (4j/semaine)
 
@@ -99,7 +99,7 @@ Et nous nous sentons ouverts pour aborder d'autres sujets qui vous sembleront pe
 
 ## 📝 Nous contacter
 
-Pour en savoir plus, échanger avec nous et nous adresser votre candidature : [contact@territoiresentransitions.fr](mailto:contact@territoiresentransitions.fr?subject=Bizdev Territoires en Transitions)
+Pour en savoir plus, échanger avec nous et nous adresser votre candidature : [contact@territoiresentransitions.fr](mailto:contact@territoiresentransitions.fr?subject=Bizdev%20Territoires%20en%20Transitions)
 
 Racontez-nous pourquoi vous avez envie de nous rejoindre.
 Expliquez-nous vos motivations et les compétences que vous souhaitez apporter à l'équipe et au produit et joignez votre CV ou profil LinkedIn.

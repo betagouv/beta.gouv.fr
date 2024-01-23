@@ -5,12 +5,11 @@ domaine: Développement
 github: louptheron
 missions:
   - start: 2021-12-20
-    end: 2024-01-01
+    end: 2025-01-01
     status: independent
     employer: Octo
 startups:
   - monitorfish
-
 ---
 >-
   Je suis développeur full-stack passionné par les réseaux décentralisés,

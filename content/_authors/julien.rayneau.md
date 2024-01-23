@@ -5,8 +5,9 @@ role: Coach
 github: jrayneau
 missions:
   - start: 2018-04-10
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
+    employer: ''
 startups:
   - place-des-entreprises
   - signaux-faibles

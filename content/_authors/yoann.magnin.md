@@ -15,6 +15,7 @@ startups:
   - reflex
   - sparte
   - urbanvitaliz
+  - recoco
 competences:
   - Gestion de Produit
 teams:

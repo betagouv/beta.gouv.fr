@@ -16,7 +16,7 @@
       </div>
       <div class="fr-col-12 fr-col-md-4">
         <div class="fr-follow__social">
-          <h2 class="fr-h5">Suivez-nous<br> sur les réseaux sociaux</h2>
+          <h2 class="fr-h5">Suivez-nous<br>sur les réseaux sociaux</h2>
           <ul class="fr-btns-group fr-btns-group--lg">
             {% for item in site.data.footer.social %}
               <li>
@@ -37,6 +37,9 @@
       <div class="fr-grid-row fr-grid-row--start fr-grid-row--gutters">
         {% for item in site.data.footer.links %}
           <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
+            {% if item.label %}
+            <h3 class="fr-footer__top-cat">{{ item.label }}</h3>
+            {% endif %}
             <ul class="fr-footer__top-list">
               {% for link in item.children %}
                 {% if link.target %}

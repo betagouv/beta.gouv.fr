@@ -1,0 +1,5 @@
+---
+layout: null
+---
+
+{% render_sponsors_api %}

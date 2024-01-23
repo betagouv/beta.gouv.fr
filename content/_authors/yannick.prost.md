@@ -7,7 +7,7 @@ missions:
     end: 2023-12-31
     status: admin
     employer: DJEPVA
-startups:
+previously:
   - jeveuxaider
   - api-engagement
 competences:

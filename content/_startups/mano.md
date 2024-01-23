@@ -5,6 +5,7 @@ mission: Service de soutien aux équipes mobiles visant à améliorer la vie des
 sponsors: 
   - /organisations/solidarite-sante
 incubator: sgmas
+link: https://mano-app.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/mano/
 contact: caroline.de_kerhor@beta.gouv.fr
 stats_url: https://metabase-mano.fabrique.social.gouv.fr/public/dashboard/825cc4ad-b502-4483-aa78-c2af56032bc9
@@ -25,6 +26,9 @@ usertypes:
   - association
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/mano-app-fabrique-social-gouv-fr/
 accessibility_status: non conforme
+fast:
+  promotion: 13
+  montant: 100000
 ---
 # **Le problème**
 

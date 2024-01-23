@@ -2,13 +2,15 @@
 title: ANAIS
 mission: Maîtriser notre espace maritime
 sponsors:
- - /organisations/armees
+  - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation
     start: 2019-04-05
   - name: construction
     start: 2019-04-05
+  - name: transfer
+    start: 2023-11-13
 usertypes:
   - etat
 stats: false
@@ -16,7 +18,6 @@ contact: equipe@anais.beta.gouv.fr
 link: https://anais.beta.gouv.fr/
 dashlord_url: https://dashlord.incubateur.net/url/anais-beta-gouv-fr/
 ---
-
 ## Contexte
 11 millions de km2 : c’est la surface de l’espace maritime français, le deuxième mondial. La Marine travaille à la maîtrise de cet espace, crucial pour notre sécurité nationale, la liberté des mers et la préservation des ressources naturelles. Ce travail passe entre autres par une maîtrise des données maritimes : elles sont massives et augmentent constamment avec la progression des échanges et des activités en mer.
 En effet, le milieu marin est aussi un océan de données extrêmement variées : données océanographiques, cartographies, météo, transpondeurs des navires, données radar, satellites (radar, image …), données acoustiques, zones de pêches, routes maritimes, …

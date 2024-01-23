@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: ANSSI
 startups:
-  - NIS2
+  - nis2
 memberType: autre
 ---
 

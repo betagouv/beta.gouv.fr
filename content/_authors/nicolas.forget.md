@@ -4,8 +4,10 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2022-03-28
-    end: 2023-09-24
+    end: 2024-06-30
     status: admin
     employer: DGEC
+startups:
+  - qualicharge
 ---
 Ingénieur énergie ET transport

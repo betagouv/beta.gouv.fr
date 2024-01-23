@@ -4,7 +4,7 @@ domaine: Déploiement
 role: Chargé de déploiement
 missions:
   - start: 2020-09-01
-    end: 2023-09-09
+    end: 2023-10-13
     status: admin
     employer: independent/Malt
 startups:
@@ -12,7 +12,6 @@ startups:
 competences:
   - Croissance
   - Communication
-
 ---
 
 Chargé de déploiement pour Aidants Connect 

@@ -21,6 +21,9 @@ budget_url: https://pad.incubateur.net/s/qeT5bzHUM
 contact: contact@egalim.beta.gouv.fr
 usertypes:
   - entreprise
+fast:
+  promotion: 13
+  montant: 250000
 ---
 
 ## Une alimentation saine, de qualité, durable et accessible à tous en restauration collective

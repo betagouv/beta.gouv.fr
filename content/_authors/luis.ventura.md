@@ -6,7 +6,7 @@ link: https://www.luisventura.me
 github: Lawiss
 missions:
   - start: 2022-06-22
-    end: 2023-12-31
+    end: 2024-03-31
     status: independent
     employer: Malt
 startups:

@@ -2,7 +2,8 @@
 fullname: David Boureau
 domaine: Développement
 role: Développeur web
-avatar: https://res.cloudinary.com/bdavidxyz-com/image/upload/v1471575050/menice3_reoxvv.png
+avatar: >-
+  https://res.cloudinary.com/bdavidxyz-com/image/upload/v1471575050/menice3_reoxvv.png
 link: http://bdavidxyz.com
 missions:
   - start: 2016-09-15
@@ -10,7 +11,7 @@ missions:
     status: independent
     employer: octo
   - start: 2017-04-01
-    end: 2023-12-31
+    end: 2024-05-30
     status: independent
     employer: inop's
 startups:

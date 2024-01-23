@@ -13,14 +13,17 @@ missions:
     status: independent
     employer: Octo
   - start: 2022-09-12
-    end: 2023-10-15
+    end: 2025-01-31
     status: independent
     employer: NUMA
 incubator: fab-geocommuns
 startups:
   - mission.debroussaillement
+  - inventaire.zae
+  - monprojetsup
 previously:
   - aides.jeunes
+  - artsducirque
 competences:
   - Coaching
 ---

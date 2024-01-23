@@ -1,18 +1,23 @@
 ---
 title: Inclusion Connect
-mission: Connecter 160 000 professionnels de l’inclusion aux services numériques
-  de leur quotidien, d’une manière simple, sécurisée, efficace.
+mission: >-
+  Connecter 160 000 professionnels de l’inclusion aux services numériques de
+  leur quotidien, d’une manière simple, sécurisée, efficace.
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
 incubator: gip-inclusion
-repository: https://github.com/betagouv/itou-inclusion-connect
-contact: sonia.perelroizen@beta.gouv.fr
-accessibility_status: non conforme
+link: https://connect.inclusion.beta.gouv.fr/
+repository: https://github.com/gip-inclusion/inclusion-connect
+contact: support@connect.inclusion.beta.gouv.fr
+analyse_risques: true
+accessibility_status: partiellement conforme
+stats: true
+stats_url: >-
+  http://stats.inclusion.beta.gouv.fr/public/dashboard/8895a813-68d0-4d3a-a7e3-f71ef0615a52
 phases:
-  - name: construction
+  - name: acceleration
     start: 2022-07-01
-    comment: Produit fonctionnel et déployé sur des premiers services
 ---
 ## Le problème
 
@@ -40,3 +45,10 @@ Tous les professionnels de l’inclusion. Comme les conseillers en insertion pro
 * L﻿es Conseillers Numériques France Service (grands réseaux et structures)
 * Immersion facilitée
 * Rdv Insertion
+* Portail Emploi Lyon Métropole
+* eva
+* Académie France Travail
+
+Et grâce au mécanisme de la fédération d'identité les agents de Pôle emploi peuvent se connecter avec leurs identifiants NEPTUNE via Inlcusion Connect aux services cités ci-dessus.
+
+Voici un lien direct vers nos statistiques d'usage : [Statistiques](http://stats.inclusion.beta.gouv.fr/public/dashboard/8895a813-68d0-4d3a-a7e3-f71ef0615a52)

@@ -6,11 +6,11 @@ link: https://ananda-nono.io/
 github: K4ST0R
 missions:
   - start: 2023-02-13
-    end: 2023-08-31
+    end: 2024-06-30
     status: independent
-    employer: ''
+    employer: ""
 startups:
-  - expositionIJ
+  - exposition-ij
 memberType: beta
 ---
 

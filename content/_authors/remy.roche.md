@@ -8,7 +8,7 @@ missions:
     status: admin
 memberType: beta
 incubator: mtes
-startups:
+previously:
   - mediation.logement
 competences:
   - Administration Publique

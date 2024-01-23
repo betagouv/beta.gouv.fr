@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: lazone/scopyleft
   - start: 2021-07-01
-    end: 2023-12-31
+    end: 2024-05-30
     status: independent
     employer: lazone/scopyleft
 startups:
@@ -19,6 +19,5 @@ competences:
   - Gestion de Produit
   - Coaching
   - Communication
-
 ---
 ''

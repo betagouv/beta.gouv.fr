@@ -14,7 +14,7 @@ var filters = [];
 
 var createStartupCard = function (startup) {
   var card = document.createElement("div");
-  card.className = "fr-col-12 fr-col-md-3";
+  card.className = "fr-col-12 fr-col-md-4";
   card.id = startup.id;
 
   var startupSponsors = startup.sponsors
@@ -34,7 +34,7 @@ var createStartupCard = function (startup) {
     startupUsertypes = '<p class="fr-card__detail">' + startupUsertypes + "</p>";
   }
   card.innerHTML = `
-        <div class="fr-card fr-card--grey fr-enlarge-link">
+        <div class="fr-card fr-enlarge-link">
             <div class="fr-card__body">
                 <h3 class="fr-card__title">
                     <a class="fr-card__link" href="/startups/${startup.id}.html">${startup.attributes.name}</a>
@@ -80,6 +80,9 @@ var filterCards = function (data, value) {
   if (filters["usertypes"]) {
     data = data.filter((d) => d.attributes.usertypes.includes(filters["usertypes"]));
   }
+  if (filters["is_national_impact"]) {
+    data = data.filter((d) => d.events.find((event) => event.name === "national_impact"));
+  }
   return data;
 };
 
@@ -91,14 +94,18 @@ var updateCards = function (data) {
   for (var i = 0; i < keys.length; i++) {
     var phase = keys[i];
     var phaseElement = document.getElementById(phase);
-    var optionElement = document.getElementById(phase + "-option");
+    var optionElements = document.querySelectorAll(`.${phase}-option`);
     var grid = phaseElement.getElementsByClassName("startups")[0];
     var documentFragment = document.createDocumentFragment();
     var dataToDisplay = filterCards(data[phase]);
-    count = count + dataToDisplay.length;
+    if (phase !== "alumni") {
+      count = count + dataToDisplay.length;
+    }
     if (!dataToDisplay.length) {
       phaseElement.style.display = "none";
-      optionElement.style.display = "none";
+      optionElements.forEach((optionElement) => {
+        optionElement.style.display = "none";
+      });
       var noContentMessage = phaseElement.getElementsByClassName("phase-no-result");
       if (!noContentMessage.length) {
         var noContentMessage = document.createElement("p");
@@ -108,7 +115,9 @@ var updateCards = function (data) {
       }
     } else {
       phaseElement.style.display = "block";
-      optionElement.style.display = "block";
+      optionElements.forEach((optionElement) => {
+        optionElement.style.display = "block";
+      });
       var noContentMessage = phaseElement.getElementsByClassName("phase-no-result");
       if (noContentMessage.length) {
         phaseElement.removeChild(noContentMessage[0]);
@@ -121,7 +130,6 @@ var updateCards = function (data) {
     }
     var phaseLabel = phaseElement.getElementsByClassName("phase-label")[0];
     if (phaseLabel) {
-      
       var currentPhase = phases.filter((p) => p.status === phase)[0];
       var plural = dataToDisplay.length > 1 ? "s" : "";
       if (currentPhase.status === "success") {
@@ -142,13 +150,22 @@ var updateCards = function (data) {
       observer.observe();
     }
   }
+
+  // Update global search counter
+  document.querySelectorAll(".global-search-counter").forEach((counterElement) => {
+    counterElement.innerText = count;
+  });
+
+  document.querySelectorAll(".global-search-counter-label").forEach((labelElement) => {
+    labelElement.innerText = count > 1 ? "services numériques" : "service numérique";
+  });
+
   if (!count) {
     displayNoDataMessage(true);
   }
 };
 
-var createIncubatorSelect = function (data, incubators, initValue) {
-  var selectIncubator = document.getElementById("select-incubateur");
+var createIncubatorSelect = function (selectElement, data, incubators, initValue) {
   var optionFragment = document.createDocumentFragment();
   for (var i = 0; i < incubators.length; i++) {
     var incubator = incubators[i];
@@ -157,7 +174,7 @@ var createIncubatorSelect = function (data, incubators, initValue) {
     option.value = incubator.id;
     optionFragment.appendChild(option);
   }
-  selectIncubator.appendChild(optionFragment);
+  selectElement.appendChild(optionFragment);
   var onIncubatorChange = function (value) {
     filters["incubator"] = value;
     var incubatorElements = document.getElementsByClassName("incubator-header");
@@ -172,10 +189,10 @@ var createIncubatorSelect = function (data, incubators, initValue) {
     updateCards(data);
   };
   if (initValue) {
-    selectIncubator.value = initValue;
+    selectElement.value = initValue;
     onIncubatorChange(initValue);
   }
-  selectIncubator.addEventListener("change", function (e) {
+  selectElement.addEventListener("change", function (e) {
     var value = e.target.value;
     onIncubatorChange(value);
     const urlParams = new URLSearchParams(window.location.search);
@@ -184,8 +201,7 @@ var createIncubatorSelect = function (data, incubators, initValue) {
   });
 };
 
-var createUsertypesSelect = function (data, initValue) {
-  var selectUsertypes = document.getElementById("select-usertypes");
+var createUsertypesSelect = function (selectElement, data, initValue) {
   var optionFragment = document.createDocumentFragment();
   var usertypes = Object.keys(USERTYPES)
   for (var i = 0; i < usertypes.length; i++) {
@@ -196,20 +212,40 @@ var createUsertypesSelect = function (data, initValue) {
     option.value = usertypeKey;
     optionFragment.appendChild(option);
   }
-  selectUsertypes.appendChild(optionFragment);
+  selectElement.appendChild(optionFragment);
   var onUsertypesChange = function (value) {
     filters["usertypes"] = value;
     updateCards(data);
   };
   if (initValue) {
-    selectUsertypes.value = initValue;
+    selectElement.value = initValue;
     onUsertypesChange(initValue);
   }
-  selectUsertypes.addEventListener("change", function (e) {
+  selectElement.addEventListener("change", function (e) {
     var value = e.target.value;
     onUsertypesChange(value);
     const urlParams = new URLSearchParams(window.location.search);
     urlParams.set("usertypes", value);
+    history.replaceState(null, null, window.location.origin + window.location.pathname + "?" + urlParams);
+  });
+};
+
+var createNationalImpactSelect = function (selectElement, data, initValue) {
+  var onNationalImpactChange = function (value) {
+    filters["is_national_impact"] = value;
+    updateCards(data);
+  };
+  if (initValue === "true") {
+    setTimeout(() => {
+      selectElement.checked = true;
+    }, 1000);
+    onNationalImpactChange(true);
+  }
+  selectElement.addEventListener("change", function (e) {
+    var value = selectElement.checked;
+    onNationalImpactChange(value);
+    const urlParams = new URLSearchParams(window.location.search);
+    urlParams.set("national_impact", value);
     history.replaceState(null, null, window.location.origin + window.location.pathname + "?" + urlParams);
   });
 };

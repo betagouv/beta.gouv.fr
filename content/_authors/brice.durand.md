@@ -8,7 +8,7 @@ missions:
     end: 2022-12-31
     status: independent
   - start: 2023-04-24
-    end: 2023-12-31
+    end: 2024-10-31
     status: independent
 startups:
   - collectif_objets

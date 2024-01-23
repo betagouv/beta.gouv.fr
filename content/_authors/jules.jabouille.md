@@ -1,6 +1,6 @@
 ---
 fullname: Jules Jabouille
-role: Appui - AIC
+role: Cabinet de la DINUM
 domaine: Déploiement
 link: https://pize.fr
 missions:

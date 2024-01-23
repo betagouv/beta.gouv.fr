@@ -1,7 +1,7 @@
 ---
 title: PCRS
-mission: Accompagner les collectivités pour mettre en place un Plan Corps de Rue
-  Simplifié
+mission: >-
+  Accompagner les collectivités pour mettre en place un Plan Corps de Rue Simplifié
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -10,6 +10,8 @@ accessibility_status: non conforme
 link: https://pcrs.beta.gouv.fr
 repository: https://github.com/OpenPCRS
 phases:
+  - name: investigation
+    start: 2021-09-01
   - name: construction
     start: 2022-09-30
 ---
@@ -29,7 +31,7 @@ L’[arrêté du 26 octobre 2018](https://www.legifrance.gouv.fr/jorf/id/JORFTEX
 
 Les collectivités locales (communes, EPCI, départements ou syndicats départementaux, régions) et leurs plateformes d’information géographiques peuvent être les autorités publiques locales compétentes (APLC) au sens de l’arrêté. Elles sont bien souvent pilotes, maîtres d’ouvrage et co-financeuses. Elles sont aujourd'hui seules face à un sujet complexe aussi bien techniquement, que pour trouver un montage financier et valoriser la mise en open data.
 
-L’échéance de 2026 semble difficile à atteindre sans un accompagnement proactif national que nous nous apprêtons à apporter.
+L’échéance de 2026 fixée aux gestionnaires de réseaux semble difficile à atteindre sans un accompagnement proactif national que nous nous apprêtons à apporter.
 
 ## Solution
 

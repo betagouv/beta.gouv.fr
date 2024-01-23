@@ -1,21 +1,24 @@
 ---
 fullname: Pénélope Liot
 domaine: Coaching
-role: Coach
+role: Directrice de produit numérique
 github: penelopel
 missions:
   - start: 2020-10-01
-    end: 2023-09-30
+    end: 2023-10-02
     status: independent
     employer: Numa
+  - start: 2023-10-02
+    end: 2026-10-01
+    status: admin
+    employer: DITP
 startups:
-  - rafraichir.les.villes
+    - agora
 previously:
   - territoires-en-transitions
   - mon-entreprise
   - e-inspé
+  - plusfraichemaville
 competences:
   - Coaching
-teams:
-  - /teams/fast-dinum
 ---

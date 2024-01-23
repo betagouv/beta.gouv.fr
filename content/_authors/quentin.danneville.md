@@ -11,6 +11,7 @@ missions:
     employer: DINUM
 startups:
   - urbanvitaliz
+  - recoco
 ---
 
 Développeur full stack

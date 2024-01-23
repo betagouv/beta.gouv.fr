@@ -1,7 +1,7 @@
 ---
 fullname: Laetitia Kouadria
 domaine: Produit
-role: Product Manager
+role: Experte en simplicité
 github: lkouad
 missions:
   - start: 2021-05-18
@@ -9,10 +9,9 @@ missions:
     status: admin
     employer: Gip plateforme de l'inclusion
 incubator: gip-inclusion
-startups:
-  - mon-recap
 previously:
   - carnet.de.bord
+  - mon-recap
 competences:
   - Gestion de Produit
 ---

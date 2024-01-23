@@ -11,6 +11,7 @@ missions:
 startups:
   - mesads
   - le-taxi
+  - scienceinfuse
 previously:
   - culturecheznous
 ---

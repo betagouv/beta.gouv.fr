@@ -8,13 +8,15 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Living Data
-startups:
-  - ban
-  - bases.adresses.locales
 badges:
   - segur
 competences:
   - Communication
   - Administration Publique
+startups:
+  - umap
+previously:
+  - ban
+  - bases.adresses.locales
 ---
 Chargée de déploiement pour la startup d’État BAL (ANCT)

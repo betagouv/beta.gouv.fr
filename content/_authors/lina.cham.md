@@ -8,8 +8,6 @@ missions:
     end: 2023-12-31
     status: independent
     employer: DINUM
-startups:
-  - sante-psy-etudiant
 badges:
   - segur
 competences:

@@ -6,7 +6,7 @@ link: https://florimond.dev
 github: florimondmanca
 missions:
   - start: 2022-10-03
-    end: 2023-11-30
+    end: 2024-03-31
     status: service
     employer: Fairness
 startups:

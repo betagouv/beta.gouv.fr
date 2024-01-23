@@ -1,7 +1,7 @@
 ---
 fullname: Nathalie Reyre
 domaine: Produit
-role: Product Owner
+role: Intrapreneuse /Product Manager
 github: nathalie-reyre
 avatar: https://i.ibb.co/p2DjJdK/photo-cv.png
 missions:
@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: Codeurs en liberté
   - start: 2019-05-01
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
     employer: Octo
 startups:

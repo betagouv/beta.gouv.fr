@@ -10,13 +10,14 @@ repository: https://github.com/SocialGouv/mon-psy-sante
 contact: monpsysante@fabrique.social.gouv.fr
 stats: true
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/monpsy-sante-gouv-fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 phases:
   - name: acceleration
     start: 2022-09-01
     end: 2023-01-12
   - name: success
     start: 2023-01-12
+stats_url: https://monpsy.sante.gouv.fr//stats
 ---
 ## Contexte
 

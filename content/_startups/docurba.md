@@ -5,8 +5,9 @@ mission: Faciliter l'élaboration et le suivi des documents d'urbanisme en amél
 sponsors:
   - /organisations/dgaln
 incubator: mtes
+link: https://docurba.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/Docurba
-contact: hermance.gauthier@developpement-durable.gouv.fr
+contact: contact@docurba.beta.gouv.fr
 accessibility_status: non conforme
 stats: true
 stats_url: https://stats.data.gouv.fr
@@ -20,15 +21,11 @@ phases:
 usertypes:
   - collectivite-territoriale
   - etat
+fast:
+  promotion: 13
+  montant: 250000
 ---
 
-**L'équipe de Docurba s'agrandit pour la rentrée de septembre 2023, retrouvez nos offres de missions dans les liens suivants :**
-- [Un(e) 3ème développeur](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/developer-fullstack-pour-docurba-produit-numerique-au-service-des-enjeux-de-l-amenagement-du-territoire_paris)
-- [Un(e) designer d'interface UX/UI](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/designer-ux-ui-pour-docurba-produit-numerique-au-service-des-enjeux-de-l-amenagement-du-territoire_paris)
-- [Un(e) 3ème chargé(e) de déploiement](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/business-developer-oriente-activation-collectivites-bureaux-d-etudes-pour-docurba-produit-numerique-au-service-des-enjeux-de-l-amenagement-du-territoire_paris)
-- [Un(e) expert(e) urbanisme](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/expert-e-urbanisme-pour-docurba-produit-numerique-au-service-des-enjeux-de-l-amenagement-du-territoire_paris)
-
----
 
 **Plus de 10 000 collectivités devront décliner la trajectoire d’artificialisation des sols prévue par la loi Climat et Résilience d’ici 2027 dans leurs documents d’urbanisme, lesquels s’imposent aux 1,5 million de demandes d’autorisation d’urbanisme.** Or l’élaboration de ces documents est longue et risquée. Les collectivités mettent entre 3 et 5 ans à élaborer leur document d’urbanisme, et lors de l’approbation la majorité des avis de l’Etat présentent des réserves sur la prise en compte des enjeux environnementaux. À ce titre, la consommation d’espace, l’assainissement ou l’eau potable sont insuffisamment évalués dans ces projets de planification urbaine.
 
@@ -75,10 +72,9 @@ Notre objectif d’impact d'ici à fin 2023 :
 * 80% des DDT utilisent Docurba pour transmettre le PAC < 6 mois, et suivre leur document d’urbanisme,
 * 33% des collectivités se lançant dans un document d’urbanisme ont été orientées par Docurba.
 
-**En janvier 2023, notre produit est utilisé par 37+ DDT, soit 80 agents des services de planification, et une 20aine de collectivités et bureaux d’études.**
+**En juillet 2023, 70 DDT(M)/DEAL on été embarquées sur Docurba via une session d'information à la suite de quoi +145 agents des services de planification se sont inscrits.** 
 
-
-Nos statistiques via ce lien : [Statistiques de Docurba](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=235&period=range&date=previous30#?idSite=235&period=range&date=2022-12-01,2023-01-09&category=General_Visitors&subcategory=General_Overview)
+Nos statistiques via ce lien : [Statistiques de Docurba](https://docurba.beta.gouv.fr/stats)
 
 
 

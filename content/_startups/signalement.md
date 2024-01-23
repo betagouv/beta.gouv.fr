@@ -19,15 +19,17 @@ events:
   - name: national_impact
     date: 2021-12-31
 link: https://signal.conso.gouv.fr
-repository: https://github.com/betagouv/signalconso-published
+repository: https://github.com/betagouv/signalconso-website
 stats: true
+accessibility_status: partiellement conforme
 contact: support@signal.conso.gouv.fr
 techno:
   - Scala
   - TypeScript
   - PostgreSQL
   - Play Framework
-  - Angular
+  - React
+  - Next.js
   - Clever Cloud
 usertypes:
   - entreprise

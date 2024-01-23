@@ -1,10 +1,15 @@
 ---
 title: Mission interministérielle InserJeunes
-owner: 
+short_description: Cet incubateur développe des services numériques destinés à faciliter l’orientation et l’insertion des jeunes issus de la voie professionnelle initiale.
+owner:
 logo: logo_beta.png
-website: 
-github: 
-contact: 
-
+website:
+github:
+contact:
+highlighted_startups:
+    - expositionIJ
+    - pilotagevoiepro
+    - sirius
+    - investigationIJ
 ---
 

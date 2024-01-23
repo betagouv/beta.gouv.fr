@@ -4,7 +4,7 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-02-06
-    end: 2023-12-28
+    end: 2024-05-30
     status: independent
     employer: UT7
 startups:

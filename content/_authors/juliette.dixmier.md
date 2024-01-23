@@ -5,7 +5,7 @@ github: JDixmier
 role: Intrapreneuse
 missions:
   - start: 2021-08-23
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
     employer: Octo
 startups:
@@ -18,5 +18,4 @@ competences:
   - Communication
   - Gestion de Produit
   - Croissance
-
 ---

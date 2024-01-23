@@ -60,6 +60,7 @@ mapping:
             - /organisations/dgs
             - /organisations/dgt
             - /organisations/dhup
+            - /organisations/diair
             - /organisations/dihal
             - /organisations/dinum
             - /organisations/ditp
@@ -70,11 +71,13 @@ mapping:
             - /organisations/fnccr
             - /organisations/hcc
             - /organisations/hcp
+            - /organisations/idfm
             - /organisations/igj
             - /organisations/ign
             - /organisations/igpn
             - /organisations/inca
             - /organisations/interieur
+            - /organisations/justice
             - /organisations/mc
             - /organisations/mctrct
             - /organisations/meae
@@ -85,6 +88,7 @@ mapping:
             - /organisations/mtei
             - /organisations/mtes
             - /organisations/mtfp
+            - /organisations/msjop
             - /organisations/nouvelle-caledonie
             - /organisations/pole-emploi
             - /organisations/sgdsn

@@ -1,7 +1,7 @@
 ---
 fullname: Abdessamad Youssfi
 domaine: Déploiement
-role: Gestionnaire de produit 
+role: Gestionnaire de produit
 github: Abdessamadyssf
 missions:
   - start: 2019-10-14
@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: Octo
   - start: 2022-10-01
-    end: 2024-01-31
+    end: 2025-10-05
     status: admin
-    employer: GIP Plateforme de l'inclusion 
+    employer: GIP Plateforme de l'inclusion
 startups:
   - place-de-marche-inclusion
 previously:

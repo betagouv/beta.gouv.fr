@@ -1,7 +1,7 @@
 ---
 fullname: Arnaud Denoix
 domaine: Animation
-role: Directeur du GIP Plateforme de l'inclusion 
+role: Directeur du GIP Plateforme de l'inclusion / Coach
 github: adenoix
 missions:
   - start: 2018-12-07

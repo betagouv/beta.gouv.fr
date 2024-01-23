@@ -42,16 +42,7 @@ images:
   - /img/alpha/visio.png
 ---
 
-<br>
-Prochaines sessions : 
-- mardi 15 novembre 2022 à Lyon, 13 rue Crepet
-- mercredi 23 novembre 2022 à Paris, 77 avenue de Ségur
-<br>
-<br>
-<a id="inscription-alpha" href="https://startupdetat.typeform.com/to/MUyewj5I" class="fr-btn">Inscription à la journée du 15 novembre à Lyon</a>
-<a id="inscription-alpha-2" href="https://startupdetat.typeform.com/to/voBuG8AK" class="fr-btn">Inscription à la journée du 23 novembre à Paris</a>
-<br>
-<br>
+<br /><br />
 Vous êtes un agent public et vous souhaitez découvrir la méthode Beta.gouv ? Vous êtes agent public et vous avez identifié un problème à résoudre au sein de vos services ? **La formation Alpha est faite pour vous !**
 
 Depuis novembre 2017, la formation Alpha a pour vocation de diffuser la méthode Beta.gouv au sein de l’État afin d’aider les agents à améliorer le service public de l’intérieur en répondant vraiment aux problèmes des citoyens et agents publics.
@@ -89,16 +80,11 @@ Pause 10'
 <br>
 ---  Fin à 17h30  ---
 
-<br>
-<a id="inscription-alpha-3" href="https://startupdetat.typeform.com/to/MUyewj5I" class="fr-btn">Inscription à la journée du 15 novembre à Lyon</a>
-<a id="inscription-alpha-4" href="https://startupdetat.typeform.com/to/voBuG8AK" class="fr-btn">Inscription à la journée du 23 novembre à Paris</a>
-<br>
-<br>
-Pour plus d’information écrivez nous à <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
+Pour plus d’information écrivez nous à <a href="mailto:contact@beta.gouv.fr">contact@beta.gouv.fr</a>.
 
 **Formation dédiée**
 
-Vous êtes une administration et vous souhaitez une formation Alpha dédiée à vos services ? Parlez-nous de votre besoin à <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>. 
+Vous êtes une administration et vous souhaitez une formation Alpha dédiée à vos services ? Parlez-nous de votre besoin à <a href="mailto:contact@beta.gouv.fr">contact@beta.gouv.fr</a>. 
 
 
 <!-- conversion tracking -->

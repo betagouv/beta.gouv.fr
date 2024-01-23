@@ -30,4 +30,4 @@ Oilhi, l’outil d'instruction de lutte contre l'habitat indigne (LHI), platefor
 
 ## Stratégie
 
-Lors de l'investigation, plusieurs mairies ont été consultées dans le département du Pas-de-Calais. Une première version simple de l'outil, sur un cas de mise en sécurité, sera testée avec une mairie du territoire du Pas-de-Calais, avec pour objectif de vérifier la bonne autonomisation de cet acteur.
+Aujourd'hui, l'outil OILHI est déployé dans le département du Pas-de-Calais, contribuant à  sécuriser les collectivités dans le traitement des procédures de mise en sécurité. L'équipe concentre ses efforts sur l'amélioration de cette plateforme, dans le but d'accélérer le traitement et la résolution des cas. Par ailleurs, OILHI s'étend désormais aux communes de l’arrondissement d’Avesnes-sur-Helpe dans le Département du Nord, avec pour ambition d'apporter son soutien à un nombre croissant de collectivités souvent perdues face aux signalements reçus. Son objectif premier est d'améliorer la lutte contre l'habitat indigne, c'est pourquoi elle offre maintenant son expertise aux collectivités pour les cas ‘infractions au règlement sanitaire départemental (RSD).

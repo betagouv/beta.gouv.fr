@@ -1,7 +1,8 @@
 ---
 fullname: Nicolas Perrot
-role: PO
 domaine: Produit
+role: Coach
+github: NicolasPerrot1
 missions:
   - start: 2020-04-02
     end: 2020-10-31
@@ -11,9 +12,16 @@ missions:
     end: 2023-07-07
     status: independent
     employer: lazone
-github: NicolasPerrot1
+  - status: independent
+    employer: Numa
+    start: 2024-01-18
+    end: 2024-06-18
+incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 startups:
   - dedale
 previously:
   - cartobio
+badges: null
+competences:
+  - Coaching
 ---

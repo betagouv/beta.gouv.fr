@@ -10,7 +10,9 @@ missions:
     employer: AMUE
 startups:
   - sirius
-  - expositionIJ
+  - exposition-ij
+  - investigation-ij
+  - pilotagevoiepro
 teams:
   - /teams/mission-inserjeunes
 badges:

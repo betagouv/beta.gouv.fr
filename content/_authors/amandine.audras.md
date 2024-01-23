@@ -21,17 +21,16 @@ missions:
     status: independent
     employer: La Zone
   - start: 2022-10-15
-    end: 2023-12-30
+    end: 2024-06-30
     status: independent
     employer: octo
 startups:
-  - api.gouv.fr
-  - datapass
   - moncomptepro
+  - annuaire-entreprises
 previously:
   - openfisca
   - aides.jeunes
   - metiers-numeriques
-  - annuaire-entreprises
-  - pass-emploi
+  - api.gouv.fr
+  - datapass
 ---

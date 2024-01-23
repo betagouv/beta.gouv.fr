@@ -6,7 +6,7 @@ link: https://www.multi.coop/team?locale=fr&item=.%2Ftexts%2Fteam%2Fpeople%2FQue
 github: qloridant
 missions:
   - start: 2023-05-09
-    end: 2023-09-29
+    end: 2024-03-29
     status: service
     employer: La Zone - Scopyleft
 startups:

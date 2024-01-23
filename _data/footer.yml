@@ -1,9 +1,6 @@
 ---
 social:
 -
-  icon: twitter
-  url: https://www.twitter.com/betagouv
--
   icon: linkedin-box
   url: https://www.linkedin.com/company/betagouv/
 -
@@ -12,38 +9,38 @@ social:
 
 links:
 -
-    label:
+    label: À propos
     children:
     -
-      label: English presentation
+      label: About us (en)
       target: _pages/en/home.md
-    -
-      label: Vue d'ensemble
-      target: _pages/dashboard.md
-    -
-      label: Annuaire des membres
-      target: _pages/annuaire.md
     -
       label: Nous contacter
       target: _pages/contact.md
     -
       label: Télécharger la présentation de référence (PDF - 1,8 Mo)
       url: https://beta.gouv.fr/content/docs/betagouv_presentation.pdf
--
-    label:
-    children:
     -
       label: Une mission de la DINUM
       url: https://www.numerique.gouv.fr/
+-
+    label: Ressources
+    children:
     -
-      label: Code source
-      url: https://github.com/betagouv/beta.gouv.fr/
+      label: Annuaire des membres
+      target: _pages/annuaire.md
+    -
+      label: Annuaire de produits
+      target: _pages/dashboard.md
     -
       label: Indicateurs & mesure d'impact
       target: _pages/stats.md
     -
       label: Conventions de partenariat
       url: https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/
+    -
+      label: Code source
+      url: https://github.com/betagouv/beta.gouv.fr/
 
 mandatorylinks:
   -

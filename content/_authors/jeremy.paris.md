@@ -5,11 +5,12 @@ domaine: Produit
 github: jrmprs17
 missions:
   - start: 2023-02-15
-    end: 2023-12-15
+    end: 2024-02-28
     status: independent
-    employer: ''
+    employer: ""
 startups:
-  - expositionIJ
+  - exposition-ij
+  - investigation-ij
 memberType: beta
 ---
 

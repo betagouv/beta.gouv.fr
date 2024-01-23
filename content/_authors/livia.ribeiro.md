@@ -11,6 +11,7 @@ missions:
 incubator: mission-apprentissage
 startups:
   - boite.aux.lettres
+  - api.apprentissage
 previously:
   - aidantsconnect
 badges:

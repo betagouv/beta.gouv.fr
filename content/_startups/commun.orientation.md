@@ -2,12 +2,13 @@
 title: Commun Orientation
 mission: Aider les usagers à résoudre leurs problèmes
 sponsors:
-    - /organisations/anct
+  - /organisations/anct
 incubator: anct
 contact: commun-orientation@anct.gouv.fr
 phases:
   - name: construction
     start: 2021-03-01
+  - name: alumni
 usertypes:
   - collectivite-territoriale
   - particulier

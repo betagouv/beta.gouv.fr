@@ -11,7 +11,6 @@ missions:
     employer: numa
 startups:
   - cnr
-  - api-engagement
   - demarches-simplifiees.fr
   - tchap
 previously:

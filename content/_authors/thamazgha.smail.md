@@ -5,7 +5,7 @@ domaine: Produit
 link: https://beta.gouv.fr/startups/l-application-du-cej.html
 missions:
   - start: 2023-03-30
-    end: 2023-09-30
+    end: 2023-12-16
     status: service
     employer: Octo
 startups:

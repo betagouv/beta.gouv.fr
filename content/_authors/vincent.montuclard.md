@@ -5,12 +5,13 @@ domaine: Développement
 github: apimobi
 missions:
   - start: 2023-07-03
-    end: 2023-09-30
+    end: 2024-03-31
     status: independent
+    employer: ""
 startups:
-  - T2BJustice
+  - mistral-penal
 memberType: beta
 ---
 
-Développer,  Développer, Développer, Développer, Développer ...
+Développer, Développer, Développer, Développer, Développer ...
 ^.^

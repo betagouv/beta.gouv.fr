@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Octo
   - start: 2023-05-01
-    end: 2023-09-01
+    end: 2023-10-01
     status: independent
     employer: numa
 previously:

@@ -15,7 +15,7 @@ previously:
   - bourses.scolaires
   - tutorat_fp
   - talents.numeriques
-  - justif
+  - mon-suivi-justice
 badges:
   - segur
 competences:

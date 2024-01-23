@@ -6,19 +6,20 @@ github: octavemelusyn
 link: https://fr.linkedin.com/in/octavebory
 missions:
   - start: 2021-01-08
-    end: 2024-07-30
+    end: 2024-12-31
     status: independent
     employer: NUMA
 startups:
-  - plateforme.impact
+  - portail.rse
 previously:
   - acceslibre
   - estime
   - rim-culture
   - signaux-faibles
-  - homologation
-  - sparte
   - ban
+  - sparte
+  - bases.adresses.locales
+  - homologation
 badges:
   - segur
 competences:

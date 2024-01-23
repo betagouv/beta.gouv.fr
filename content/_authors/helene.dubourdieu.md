@@ -5,8 +5,9 @@ domaine: Animation
 github: HeleneDubourdieu
 missions:
   - start: 2022-01-03
-    end: 2024-01-01
+    end: 2024-06-30
     status: independent
+    employer: ''
 startups:
   - snu
 ---

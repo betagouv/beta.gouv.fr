@@ -10,13 +10,9 @@ phases:
   - name: construction
     start: 2023-01-20
 ---
-
-
 **Contexte**
 
-Vérifier la correspondance entre la demande de la cible à travailler au plus vite avec l'offre des entreprises en tension de recrutement sur des métiers sans diplôme requis.
-
-
+Le taux de chômage du public des étrangers primo arrivants est 2 fois supérieur à celui des personnes non immigrées en France. Ce public a un manque de repères sur le marché du travail français impliquant des contournements comme l’orientation massive vers le travail non déclaré par exemple.​
 
 **Problème**
 
@@ -27,17 +23,18 @@ Manque de repères pour aller vers l’emploi en France :
 * Méconnaissance des Services Publics à l’Emploi
 * Démarches administratives compliquées
 
-
-
 **Solution**
 
-* Faciliter l'entrée sur le marché du travail en favorisant la candidature plutôt que l'inscription à pôle emploi.
-* Identification en 2022 d’une solution mobile qui sera expérimentée en 2023 avec un bilan prévu en mars.
-
- 
+* Faciliter l'entrée sur le marché du travail en favorisant la candidature plutôt que l'inscription à pôle emploi
+* Faciliter et accélérer l’insertion du public étranger primo arrivant sur le marché du travail.​
 
 **Stratégie**
+
+Une application pédagogique pour faciliter l’accès à des opportunités ne nécessitant pas de diplômes, à proximité du domicile de l’utilisateur pour un public en recherche urgente d’emploi.
 
 * Accompagner le public qui a un besoin urgent de travailler.
 * Orienter rapidement vers des postes à pourvoir sur des métiers sans diplôme requis et en tension de recrutement.
 * Identifier les opportunités et les attentes des entreprises sur la liste des métiers sans diplôme.
+* Des contenus explicatifs pour palier le manque de repère sur les codes principaux du travail en France​.
+* Une sélection d'offres et de métiers accessibles pour faire découvrir les opportunités déclarées possibles
+* Une candidature simplifiée pour inciter et rassurer sur l'acte de candidature​

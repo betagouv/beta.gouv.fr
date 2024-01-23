@@ -21,7 +21,7 @@ layout: default
             {% else %}
             {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
             {% endif %}
-            {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
+            {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
             {% assign incubator = incubators | where:'id', incubator_id | first %}
             { "id"        : "{{ startup.id | remove: '/startups/' }}"
             , "type"      : "startup"
@@ -61,6 +61,12 @@ layout: default
                     { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
                     }
                 }
+            , "events":[
+                    {% for event in startup.events %}
+                        { "name": "{{event.name}}", "date": "{{event.date}}"}{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                    ]
+                
                 // TODO ajouter sponsors
             }
             {% unless forloop.last %},{% endunless %}
@@ -70,9 +76,9 @@ layout: default
     };
     var incubators = [
         {% for incubator in incubators %} {
-        id: "{{incubator.id}}".replace('/incubators/', ''),
+        id: "{{incubator.id}}".replace('/incubateurs/', ''),
         title: "{{incubator.title}}",
-        url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
+        url: "/startups/?incubateur={{ incubator.id | remove: '/incubateurs/' }}"
         },
         {% endfor %}
     ];
@@ -90,108 +96,140 @@ layout: default
     ];
 </script>
 
-<section class="section-blue section-main">
-    <div class="fr-container fr-my-6w">
-        <h1>Nos réalisations</h1>
-    </div>
+<section class="fr-container">
+    <h1 class="fr-h2">Explorer nos services numériques</h1>
 </section>
 
-<section class="filters fr-container fr-my-6w">
-    <h2>
-        <button class="fr-accordion__btn" aria-expanded="false" aria-controls="fr-accordion-0-body-0" data-fr-js-collapse-button="true">Filtrer les réalisations</button>
-    </h2>
-    <div id="fr-accordion-0-body-0" class="fr-container fr-collapse">
-        <label class="fr-hidden">Tous les incubateurs</label>
-        <select class="fr-select" id="select-incubateur">
-            <option value="">Tous les incubateurs</option>
-        </select>
-        <label class="fr-hidden">Tous les types d'usagers</label>
-        <select class="fr-select" id="select-usertypes">
-            <option value="">Tous les types d'usagers</option>
-        </select>
-        <label class="fr-hidden">Aller à une phase</label>
-        <select class="fr-select" id="select-phase">
-            <option>Aller à une phase</option>
-            {% for phase in phases_with_stopped %}
-                <option value="{{ phase.status }}" id="{{phase.status}}-option">{{ phase.label }}</option>
-            {% endfor %}
-        </select>
-    </div>
-</section>
-{% for incubator in incubators %}
-{% assign incubator_id = incubator.id | remove: '/incubators/' %}
-{% assign organisation = site.organisations  | where: 'id', incubator.owner | first %}
-
-<section id="{{ incubator_id }}" class="fr-py-6w incubator-header fr-scheme-soft-blue-soft" style="display: none;">
-    <div class="fr-container">
-        <div class="fr-grid-row fr-grid-row--gutters">
-            <div class="fr-col-1 incubator-logo">
-                <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
-            </div>
-            <div class="fr-col">
-                <div>
-                    <h1 class="fr-card__title">{{ incubator.title }}</h1>
-                    <p class="fr-card__title-subtitle">{{ organisation.name }}</p>
-                    <div class="markdown">{{ incubator.content }}</div>
+<div class="fr-container">
+    <div class="fr-grid-row">
+        <div class="fr-col-4 fr-hidden fr-unhidden-xl">
+            <div class="fr-card fr-mr-3w search-card">
+                <div class="fr-card__body">
+                    <div class="fr-card__content">
+                        <h3 class="fr-card__title">
+                            Filtres de recherche
+                        </h3>
+                        <div class="fr-card__desc fr-mt-6w">
+                            {% include startups-filters.html prefix='filters-' %}
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-{% endfor %}
+        <div class="fr-col">
+            <section class="fr-hidden-xl">
+                <div class="fr-accordion fr-my-6w">
+                    <h3 class="fr-accordion__title">
+                        <button class="fr-accordion__btn" aria-expanded="false" aria-controls="fr-accordion-0-body-0" data-fr-js-collapse-button="true">Filtres de recherche</button>
+                    </h3>
+                    <div class="fr-collapse" id="fr-accordion-0-body-0">
+                        {% include startups-filters.html prefix='collapse-filters-' %}
+                    </div>
+                </div>
+            </section>
 
-<div class="fr-container fr-py-6w">
-    <div id="no-data-message" style="display: none;">
-        <p>Il n'y a pas de résultats qui correspondent à ces filtres</p>
-    </div>
-    {% assign phases = site.phases | sort: 'order' %}
-    {% for phase in phases %}
-        {% assign counter_target = phase.id | remove: "/phases/" %}
-        {% assign counter = site.startups | where_phase: counter_target | size %}
-        {% assign plural = "" %}
-        {% if counter > 1 %}
-            {% assign plural = "s" %}
-        {% endif %}
-        <div id="{{ phase.status }}" class="fr-container-fluid{% if phase.status != 'success' %} fr-my-6w{% endif %}">
-            <!-- Les span contenant les class "phase-counter" et "phase-label" permettent d'afficher le counter des startups grâce à des getElementsByClassName dans le fichier javascript dans search-startup.js -->
-            {% if phase.status == 'success' %}
-                <h2><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> <span>{{ phase.label | downcase }}{{ plural }}</span></h2> 
-            {% elsif phase.status == 'alumni' %}
-                <h2>Nos {{ phase.label | downcase }}</h2>
-            {% else %}
-                <h2><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en {{ phase.label | downcase }}</h2>
-            {% endif %}
+            <h2>
+                {% assign globalCounter = site.startups | count_all_active_startups %}
+                <span class="global-search-counter">{{ globalCounter }}</span>
+                <span class="global-search-counter-label">
+                    {% if globalCounter > 1 %}
+                        services numériques
+                    {% else %}
+                        service numérique
+                    {% endif %}
+                </span>
+            </h2>
 
-            <p>{{ phase.short_description }}</p>
+            {% for incubator in incubators %}
+                {% assign incubator_id = incubator.id | remove: '/incubateurs/' %}
+                {% assign organisation = site.organisations  | where: 'id', incubator.owner | first %}
+                <section id="{{ incubator_id }}" class="incubator-header fr-mb-6w" style="display: none;">
+                    <div class="fr-grid-row fr-grid-row--gutters  blue-background fr-p-3w fr-m-0">
+                        <div class="fr-col-2 incubator-logo">
+                            <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
+                        </div>
+                        <div class="fr-col">
+                            <div>
+                                <h1 class="fr-card__title">{{ incubator.title }}</h1>
+                                <p class="fr-card__title-subtitle">{{ organisation.name }}</p>
+                                <div class="markdown">{{ incubator.content }}</div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            {% endfor %}
 
-            <div class="fr-grid-row fr-grid-row--gutters startups">
-                {% assign startups = site.startups | where_phase: phase.status %}
-                {% for startup in startups %}
-                    {% include card-startup.html startup = startup %}
+            <div>
+                <div id="no-data-message" style="display: none;">
+                    <p>Il n'y a pas de résultats qui correspondent à ces filtres</p>
+                </div>
+
+                {% assign phases = site.phases | sort: 'order' %}
+                {% for phase in phases %}
+                    {% assign counter_target = phase.id | remove: "/phases/" %}
+                    {% assign counter = site.startups | where_phase: counter_target | size %}
+                    {% assign plural = "" %}
+                    {% if counter > 1 %}
+                        {% assign plural = "s" %}
+                    {% endif %}
+                    <div id="{{ phase.status }}" class="fr-container-fluid{% if phase.status != 'success' %} fr-my-6w{% endif %}">
+                        <!-- Les span contenant les class "phase-counter" et "phase-label" permettent d'afficher le counter des startups grâce à des getElementsByClassName dans le fichier javascript dans search-startup.js -->
+                        {% if phase.status == 'success' %}
+                            <h3><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> <span>{{ phase.label | downcase }}{{ plural }}</span></h3>
+                        {% elsif phase.status == 'alumni' %}
+                            <h3>Nos {{ phase.label | downcase }}</h3>
+                        {% else %}
+                            <h3><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en {{ phase.label | downcase }}</h3>
+                        {% endif %}
+
+                        <p>{{ phase.short_description }}</p>
+
+                        <div class="fr-grid-row fr-grid-row--gutters startups">
+                            {% assign startups = site.startups | where_phase: phase.status %}
+                            {% for startup in startups %}
+                                <div class="fr-col-12 fr-col-md-4 fr-mb-2w">
+                                    {% include card-startup.html startup = startup %}
+                                </div>
+                            {% endfor %}
+                        </div>
+                    </div>
                 {% endfor %}
             </div>
         </div>
-    {% endfor %}
+    </div>
 </div>
 
 <!-- Filtres -->
 <script>
-    var selectPhase = document.getElementById('select-phase');
-    selectPhase.addEventListener('change', function (e) {
-        var url = new URL(location.href);
-        var selectedPhase = e.target.value;
-        var hash = "#" + selectedPhase;
-        location.href = hash;
-        history.replaceState(null, null, url.origin + url.pathname + window.location.search + hash);
-    });
+    document.querySelectorAll('.select-phase').forEach((selectElement) => {
+        selectElement.addEventListener('change', function (e) {
+            var url = new URL(location.href);
+            var selectedPhase = e.target.value;
+            var hash = "#" + selectedPhase;
+            location.href = hash;
+            history.replaceState(null, null, url.origin + url.pathname + window.location.search + hash);
+        });
+    })
 </script>
+
 
 <script src="/assets/additional/js/search-startup.js" type="text/javascript"></script>
 <script>
     var urlParams = new URLSearchParams(window.location.search);
     var incubatorValue = urlParams.get('incubateur');
     var usertypesValue = urlParams.get('usertypes');
+    var nationalImpactValue = urlParams.get('national_impact');
     data = generateDataWithHtmlCards(data);
-    createIncubatorSelect(data, incubators, incubatorValue);
-    createUsertypesSelect(data, usertypesValue)
+
+    document.querySelectorAll('.select-incubateur').forEach((selectElement) => {
+        createIncubatorSelect(selectElement, data, incubators, incubatorValue);
+    })
+
+    document.querySelectorAll('.select-usertypes').forEach((selectElement) => {
+        createUsertypesSelect(selectElement, data, usertypesValue)
+    })
+
+    document.querySelectorAll('.select-impact').forEach((selectElement) => {
+        createNationalImpactSelect(selectElement, data, nationalImpactValue)
+    })
 </script>

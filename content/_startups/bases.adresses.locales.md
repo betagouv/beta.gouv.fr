@@ -1,7 +1,8 @@
 ---
 title: Bases Adresses Locales
-mission: Accompagner et outiller les collectivités pour mettre à jour leurs
-  adresses et alimenter la Base Adresse Nationale
+mission: >-
+  Accompagner et outiller les collectivités pour mettre à jour leurs adresses et
+  alimenter la Base Adresse Nationale
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -11,14 +12,15 @@ contact: adresse@data.gouv.fr
 accessibility_status: non conforme
 events: []
 phases:
-  - name: acceleration
-    start: 2022-09-01
   - name: construction
     start: 2020-09-01
     end: 2022-08-31
+  - name: acceleration
+    start: 2022-09-01
 fast:
   promotion: 12
   montant: 270000
+stats_url: https://adresse.data.gouv.fr/deploiement-bal
 ---
 ## Pas d'adresse, pas de chocolat
 
@@ -40,7 +42,7 @@ La loi 3DS a consacré le rôle des communes dans l'adressage de leur territoire
 
 
 
-Aujourd'hui, **plus de 12 000 communes** ont déjà publié leur Base Adresse Locale, près de 50% de la population est couverte. Votre commune est-elle couverte ?
+Aujourd'hui, **près de 14 800 communes** ont déjà publié leur Base Adresse Locale, plus de 56% de la population est couverte. Votre commune est-elle couverte ?
 
 📍 Pour [suivre le déploiement des Bases Adresses Locales](https://adresse.data.gouv.fr/deploiement-bal) en France
 

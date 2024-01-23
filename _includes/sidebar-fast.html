@@ -7,7 +7,7 @@
         <li class="fr-sidemenu__item {% if page.url == item.target %}fr-sidemenu__item--active{% endif %}">
           {% for item in site.data.menu.fast %}
             {% if item.label contains 'Lauréats' %}
-              {% assign fasts = site.fasts | sort: 'order' | reverse %}
+              {% assign fasts = site.fasts | sort | reverse %}
               <button
                   class="fr-sidemenu__btn"
                   aria-expanded="{% if page.url contains '/fast/lauréats/' %}true{% else %}false{% endif %}"

@@ -8,7 +8,7 @@ title: Responsable du produit (Product Manager) 'Service numérique mobile d'acc
 ## Missions 
 Membre d'une équipe de 3 à 4 personnes, vous serez en charge de développer et tester en 6 mois la **première version minimale d'une appli d'accompagnement des jeunes** :
 - Rechercher le plus court chemin avec l'équipe pour mettre en ligne le produit et le proposer à des premiers d'utilisateurs  ; 
-- Recruter et animer une petite équipe pluridisciplinaire selon les principes du [manifeste des startups d’Etat](https://beta.gouv.fr/approche/manifeste) et travailler en binôme avec un agent public intrapreneur qui a conduit la phase d'investigation  ;   
+- Recruter et animer une petite équipe pluridisciplinaire selon les principes du [manifeste des startups d’Etat](https://beta.gouv.fr/manifeste) et travailler en binôme avec un agent public intrapreneur qui a conduit la phase d'investigation  ;   
 - Mesurer en continu les résultats et l'impact du produit sur le terrain, en lien avec des objectifs à 6 mois ; 
 - Recueillir chaque jour des retours utilisateurs et permettre à l'équipe de livrer une nouvelle version de la solution à un rythme régulier - toutes les semaines, voire tous les jours. 
 

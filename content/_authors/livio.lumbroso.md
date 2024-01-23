@@ -6,16 +6,18 @@ github: LivioLumbroso
 link: https://www.linkedin.com/in/liviolumbroso/
 missions:
   - start: 2020-11-16
-    end: 2023-12-29
+    end: 2024-06-29
     status: independent
     employer: numa
 startups:
   - ecobalyse
-  - datagir
 previously:
   - recosante
   - hydrogene
   - atlas-des-paysages
+  - datagir
+  - nosgestesclimat
+  - impact.co2
 badges:
   - segur
 competences:

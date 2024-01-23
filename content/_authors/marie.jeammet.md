@@ -5,11 +5,11 @@ domaine: Développement
 github: mjeammet
 missions:
   - start: 2022-09-05
-    end: 2023-12-31
+    end: 2026-12-31
     status: admin
     employer: DINUM
 startups:
-  - suite.collaborative
+  - suite-numerique
 previously:
   - cnr
   - tous.a.bord

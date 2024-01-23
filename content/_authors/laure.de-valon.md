@@ -4,11 +4,11 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2022-01-12
-    end: 2023-12-30
+    end: 2024-06-30
     status: independent
     employer: Numa
 startups:
-  - archivesarcheo
+  - versementgetorix
 ---
 
 Designer de service, coach méthodologique et peintre

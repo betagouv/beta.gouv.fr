@@ -14,7 +14,7 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.2
+        ruby-version: 3.2.2
         bundler-cache: true
     - name: Install npm dependencies
       uses: actions/setup-node@v3
@@ -57,7 +57,6 @@ jobs:
       uses: Cyb3r-Jak3/html5validator-action@master
       with:
         root: _site
-        extra: --ignore 'Element "img" is missing required attribute "src"'
         skip_git_check: true
 
     - name: Lint JSON API pages

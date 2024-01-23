@@ -10,10 +10,10 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2022-06-29
-    end: 2022-12-06    
+    end: 2022-12-06
   - name: construction
     start: 2022-12-07
-    end: 2023-06-30    
+    end: 2023-06-30
 ---
 ## C﻿ontexte
 
@@ -29,4 +29,6 @@ Afin de favoriser la connaissance des modalités d’accueil au sein des espaces
 
 ## Stratégie
 
-L﻿a stratégie est actuellement en cours de finalisation.
+\* E﻿tendre la couverture géographique aux ressorts avoisinant Lyon. 
+
+\* E﻿nrichir fonctionnellement le produit en proposant le "passage de bras".

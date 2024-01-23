@@ -11,6 +11,7 @@ missions:
 startups:
   - sepia
   - osirispn
+  - bases.adresses.locales
 competences:
   - Développement Frontend
 ---

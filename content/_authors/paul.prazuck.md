@@ -1,6 +1,6 @@
 ---
 fullname: Paul Prazuck
-role: Chargé de déploiement Bluemind
+role: Chargé de déploiement Mail
 domaine: Déploiement
 github: Oyster999
 missions:

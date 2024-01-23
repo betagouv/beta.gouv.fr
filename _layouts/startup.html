@@ -10,7 +10,7 @@ layout: default
 {% assign phase = site.phases | where: "id", phase_id | first %}
 
 {% comment %} Détection de l'incubateur {% endcomment %}
-{% capture incubator_id %}/incubators/{{ page.incubator }}{% endcapture %}
+{% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
 {% assign incubator = site.incubators | where:'id', incubator_id | first %}
 
 {% include hero-startup.html startup=page phase=phase %}
@@ -26,113 +26,7 @@ layout: default
 
 {% assign split_by_ul = content | split:'<ul' %}
 {% assign content = split_by_ul | join: '<ul class="fr-pl-4w"' %}
-
-{% capture incubator_info %}
-{% if phase.status == 'success' %}
-  L'équipe a été portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>
-{% else %}
-  L'équipe est portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>
-{% endif %}
-{% endcapture %}
-
-{% capture sponsor_info %}
-L'équipe est sponsorisée par
-{% for sponsorId in page.sponsors %}
-  {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
-  {% if forloop.index > 1 %}, {% endif %}{{sponsor.name}}
-{% endfor %}
-{% endcapture %}
-
-{% capture contact_info %}
-{% if page.contact %}
-  <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
-{% else %}
-  <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
-{% endif %}
-{% endcapture %}
-
-{% capture statistiques_info %}
-Les statistiques d'usage
-{% if page.stats %}
-  <a href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">sont disponibles</a>.
-{% else %}
-  <em>ne sont pas encore disponibles.</em>
-{% endif %}
-{% endcapture %}
-
-{% capture source_info %}
-Le code source
-{% if page.repository.size > 0 %}
-  <a href="{{ page.repository }}">est libre</a>.
-{% else %}
-  <em>n'est pas encore ouvert.</em>
-{% endif %}
-{% endcapture %}
-
-{% capture budget_info %}
-{% if page.budget_url %}
-Le budget <a href="{{ page.budget_url }}">est ouvert</a>.
-{% else %}
-L’équipe ne communique pas encore sur son budget.
-{% endif %}
-{% endcapture %}
-
-{% capture techno_info %}
-Technologies utilisées : {{ page.techno | join: ", " }}
-{% endcapture %}
-
-{% capture analyse_risques %}
-{% if page.analyse_risques_url %}
-<li>L'équipe a réalisé un atelier <a href="{{ page.analyse_risques_url }}" title="Analyse de risques de {{ page.title }}"> d'analyse de risques</a>.</li>
-{% elsif page.analyse_risques %}
-  <li>L'équipe a réalisé un atelier d'analyse de risques mais ne le rend pas encore public.</li>
-{% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
-<li>L'équipe <em>n'a pas encore réalisé ou publié son atelier d'analyse de risques.</em></li>
-{% endif %}
-{% endcapture %}
-
-{% capture dashlord %}
-Le suivi des bonnes pratiques de ce produit
-{% if page.dashlord_url %}
-  est disponible sur <a href="{{ page.dashlord_url }}" title="Dashlord de {{ page.title }}"> Dashlord</a>.
-{% else %}
-  <em>n'est pas encore disponible sur <a href="https://dashlord.incubateur.net" title="Dashlord">Dashlord</a>.</em>
-{% endif %}
-{% endcapture %}
-
-{% capture accessibilite %}
-{% if page.accessibility_status %}
-<li>Le statut d'accessibilité du produit est : <em>{{ page.accessibility_status }}</em></li>
-{% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
-<li>Le statut d'accessibilité du produit est : <em>non-conforme</em></li>
-{% endif %}
-{% endcapture %}
-
-<div class="fr-py-6w section-grey">
-  <div class="fr-container fr-grid-row fr-grid-row--center">
-    <div class="fr-col-md-8">
-      <ul>
-        <li>{{ incubator_info }}</li>
-        <li>{{ sponsor_info }}</li>
-        <li>{{ contact_info }}</li>
-        {% unless phase.status == 'investigation' %}
-          <li>{{ statistiques_info }}</li>
-          <li>{{ source_info }}</li>
-          <li>{{ budget_info }}</li>
-          {{ accessibilite }}
-          {{ analyse_risques }}
-          <li>{{ dashlord }}</li>
-          {% if page.techno %}
-            <li>{{ techno_info }}</li>
-          {% endif %}
-        {% endunless %}
-      </ul>
-    </div>
-  </div>
-</div>
-
-<section class="fr-py-6w">
-  {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
+  <!-- {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
   {% if jobs[0] %}
     <div class="fr-container fr-py-6w">
       <h2>Postes ouverts</h2>
@@ -140,14 +34,201 @@ Le suivi des bonnes pratiques de ce produit
         {% include card-job.html job=job startup=job.startup %}
       {% endfor %}
     </div>
-  {% endif %}
+  {% endif %} -->
+<div class="fr-container-fluid">
+  <div class="fr-container">
+    <div class="fr-py-2w fr-grid-row fr-grid-row--center fr-grid-row--gutters">
+      <div class="fr-col-md-8">
+        {{ content }}
+      </div>
+      <div class="fr-col-md-4">
+        <!-- INFO -->
+        <div class="fr-py-4w fr-px-4w fr-mt-3w" style="border: 1px solid var(--light-border-default-grey, #E5E5E5);">
+          <p>
+            {% if phase.status == 'success' %}
+              <b>{{ page.title }}</b> a été portée par <a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
+            {% else %}
+              <b>{{ page.title }}</b> est portée par <a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
+            {% endif %}
+          </p>
+          <p>
+            Ce service numérique est sponsorisé par
+            {% for sponsorId in page.sponsors %}
+              {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
+              {% if forloop.index > 1 %}, {% endif %}{{sponsor.name}}
+            {% endfor %}
+          </p>
+          <p>
+            <span class="fr-icon-mail-line"></span>
+            {% if page.contact %}
+            <a class="fr-link" href="mailto:{{ page.contact }}?subject={{ page.title | url_encode }}%20sur%20beta.gouv.fr">Contacter l'équipe</a>.
+            {% else %}
+            <a class="fr-link" href="mailto:{{ site.email }}?subject={{ page.title | url_encode }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
+            {% endif %}
+          </p>
+          {% unless phase.status == 'investigation' or phase.status == 'transfer'  %}
+          <div class="fr-py-1w">
+            <b>Indicateurs de qualité</b>
+            <ul style="list-style-type: none; padding: 0;">
+              {% capture accessibilite_indicator %}
+                {% if page.accessibility_status %}
+                  <li><span class="fr-badge fr-text--xs {% if page.accessibility_status == 'conforme' %}fr-badge--success{% endif %}">Accessibilité : {{ page.accessibility_status }}</span></li>
+                {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
+                  <li><span class="fr-badge fr-text--xs">Accessibilité : non conforme</span></li>
+                {% endif %}
+              {% endcapture %}
+              {% if page.accessibility_status and page.accessibility_status == 'conforme' %}
+                {%- assign indicateurs_qualite_success = indicateurs_qualite_success | append: accessibilite_indicator -%}
+              {% else %}
+                {%- assign indicateurs_qualite_warning = indicateurs_qualite_warning | append: accessibilite_indicator -%}
+              {% endif %}
+              {% capture analyse_risques_indicator %}
+                {% if page.analyse_risques_url or page.analyse_risques  %}
+                  <li><span class="fr-badge fr-text--xs fr-badge--success">Sécurité : niveau connu</span></li>
+                {% else %}
+                <li><span class="fr-badge fr-text--xs">Sécurité : niveau inconnu</span></li>
+                {% endif %}
+              {% endcapture %}
+              {% if page.analyse_risques_url or page.analyse_risques %}
+                {%- assign indicateurs_qualite_success = indicateurs_qualite_success | append: analyse_risques_indicator -%}
+              {% else %}
+                {%- assign indicateurs_qualite_warning = indicateurs_qualite_warning | append: analyse_risques_indicator -%}
+              {% endif %}
+              {% capture dashlord_indicator %}
+                {% if page.dashlord_url %}
+                <li><span class="fr-badge fr-text--xs fr-badge--success">
+                  Bonnes pratiques : suivies</span>
+                </li>
+                {% else %}
+                <li><span class="fr-badge fr-text--xs">
+                  Bonnes pratiques : non suivies</span>
+                </li>
+                {% endif %}
+              {% endcapture %}
+              {% if page.dashlord_url %}
+                {%- assign indicateurs_qualite_success = indicateurs_qualite_success | append: dashlord_indicator -%}
+              {% else %}
+                {%- assign indicateurs_qualite_warning = indicateurs_qualite_warning | append: dashlord_indicator -%}
+              {% endif %}
+              {{ indicateurs_qualite_success }}
+              {{ indicateurs_qualite_warning }}
+              </ul>
 
-  <div class="fr-container fr-py-2w fr-grid-row fr-grid-row--center">
-    <div class="fr-col-md-8">
-      {{ content }}
+              <p class="fr-text--xs"><a class="fr-link--sm" href="/stats">En savoir plus sur nos indicateurs</a></p>
+          </div>
+          <div class="fr-py-1w">
+            <b>Transparence</b>
+            <ul style="list-style-type: none; padding: 0">
+              {% capture repo %}
+              <li>
+                {% if page.repository.size > 0 %}
+                <span class="fr-icon-github-fill"></span>
+                <a class="fr-link" href="{{ page.repository }}">
+                  Code source
+                </a>
+                {% else %}
+                <span class="fr-icon-github-fill"></span>
+                <a class="fr-link" aria-disabled="true" >
+                  Code source (non disponible)
+                </a>
+                {% endif %}
+              </li>
+              {% endcapture %}
+              {% if page.repository.size > 0  %}
+                {%- assign transparence_success = transparence_success | append: repo -%}
+              {% else %}
+                {%- assign transparence_warning = transparence_warning | append: repo -%}
+              {% endif %}
+              {% capture budget %}
+              <li>
+                {% if page.budget_url %}
+                <span class="fr-icon-money-euro-circle-line"></span>
+                <a class="fr-link" href="{{ page.budget_url }}">
+                  Budget
+                </a>
+                {% else %}
+                <span class="fr-icon-money-euro-circle-line"></span>
+                <a class="fr-link" aria-disabled="true" >
+                  Budget (non disponible)
+                </a>
+              </li>
+              {% endif %}
+              {% endcapture %}
+              {% if page.budget_url %}
+               {%- assign transparence_success = transparence_success | append: budget -%}
+              {% else %}
+                {%- assign transparence_warning = transparence_warning | append: budget -%}
+              {% endif %}
+              {% capture stats %}
+              <li>
+                {% if page.stats %}
+                <span class="fr-icon-line-chart-line"></span>
+                <a class="fr-link" href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">
+                  Statistiques d'usage
+                </a>
+                {% else %}
+                <span class="fr-icon-line-chart-line"></span>
+                <a class="fr-link" aria-disabled="true">
+                  Statistiques d'usage (non disponible)
+                </a>
+                {% endif %}
+              </li>
+              {% endcapture %}
+              {% if page.stats %}
+                {%- assign transparence_success = transparence_success | append: stats -%}
+              {% else %}
+                {%- assign transparence_warning = transparence_warning | append: stats -%}
+              {% endif %}
+              {% capture link_risques %}
+              <li>
+                <span class="fr-icon-warning-line"></span>
+                <a class="fr-link"
+                  {% if page.analyse_risques_url %}href="{{page.analyse_risques_url }}"{% endif %}
+                  aria-disabled="{% if page.analyse_risques_url %}false{% else %}true{% endif %}"
+                >
+                Analyse de risque
+                {% unless page.analyse_risques_url %}(non disponible){% endunless %}
+                </a>
+              </li>
+              {% endcapture %}
+              {% if page.analyse_risques_url %}
+                {%- assign transparence_success = transparence_success | append: link_risques  -%}
+              {% else %}
+                {%- assign transparence_warning = transparence_warning | append: link_risques  -%}
+              {% endif %}
+              {% capture link_bonnes_pratiques %}
+              <li>
+                <span class="fr-icon-info-line"></span>
+                <a class="fr-link"
+                  {% if page.dashlord_url %}href="{{page.dashlord_url }}"{% endif %}
+                  aria-disabled="{% if page.dashlord_url %}false{% else %}true{% endif %}"
+                  >Suivi des bonnes pratiques
+                  {% unless page.dashlord_url %}(non disponible){% endunless %}
+                </a>
+              </li>
+              {% endcapture %}
+              {% if page.dashlord_url %}
+                {%- assign transparence_success = transparence_success | append: link_bonnes_pratiques  -%}
+              {% else %}
+                {%- assign transparence_warning = transparence_warning | append: link_bonnes_pratiques  -%}
+              {% endif %}
+              {{ transparence_success }}
+              {% if page.techno %}
+              <li>
+                <span class="fr-icon-computer-line"></span>
+                Technologies utilisées :
+                {{ page.techno | join: " - " }}
+              </li>
+              {% endif %}
+              {{ transparence_warning }}
+            </ul>
+          </div>
+          {% endunless %}
+        </div>
+      </div>
     </div>
   </div>
-</section>
+</div>
 
 <section class="fr-py-6w section-blue">
   {% include grid-authors.html startup=page %}

@@ -11,7 +11,7 @@ missions:
     status: independent
     employer: ANCT
   - start: 2020-10-12
-    end: 2023-12-29
+    end: 2024-12-29
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
 startups:

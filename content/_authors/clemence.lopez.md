@@ -1,6 +1,6 @@
 ---
 fullname: Clémence Lopez
-role: Responsable de portefeuille - Éducation nationale, Vie associative, Sports et Enseignement supérieur 
+role: Responsable de portefeuille - Éducation nationale, Vie associative, Sports et Enseignement supérieur
 domaine: Produit
 github: clemhacks
 missions:
@@ -9,21 +9,20 @@ missions:
     status: service
     employer: Sopra Steria
   - start: 2022-03-15
-    end: 2023-12-31
+    end: 2026-09-01
     status: admin
     employer: Dinum
 startups:
-  - compte.ressources
+
 previously:
   - tchap
   - sparte
   - authentification
   - cnr
+  - compte.ressources
+  - pass-sport
 badges:
   - segur
 teams:
   - /teams/animation-dinum
 ---
-
-
-

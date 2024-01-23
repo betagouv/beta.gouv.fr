@@ -5,17 +5,16 @@ role: Développeur
 github: lionelb
 missions:
   - start: 2018-10-08
-    end: 2023-09-30
+    end: 2023-11-30
     status: independent
     employer: octo
 startups:
-  - carnet.de.bord
 previously:
   - codedutravail
+  - carnet.de.bord
 competences:
   - Développement Frontend
   - Développement Backend
-
 ---
 
 null

@@ -1,7 +1,8 @@
 ---
 title: Tous à bord !
-mission: Automatiser l'octroi de la tarification sociale et solidaire des
-  transports partout en France
+mission: >-
+  Automatiser l'octroi de la tarification sociale et solidaire des transports
+  partout en France
 sponsors:
   - /organisations/mtfp
   - /organisations/dgitm
@@ -15,6 +16,7 @@ phases:
     start: 2022-08-23
   - name: construction
     start: 2022-11-01
+link: https://tous-a-bord.beta.gouv.fr/
 ---
 ## Contexte
 

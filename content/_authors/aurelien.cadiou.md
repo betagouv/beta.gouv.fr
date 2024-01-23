@@ -1,6 +1,6 @@
 ---
 fullname: Aurélien CADIOU
-role: Chargé d&#x27;accompagnement à l&#x27;ouverture des données à transport.data.gouv.fr
+role: Chargé de déploiement et développeur no-code
 domaine: Déploiement
 github: aurelienc
 missions:
@@ -10,6 +10,7 @@ missions:
     employer: pathtech
 startups:
   - transport
+  - mediation.logement
 memberType: beta
 ---
 

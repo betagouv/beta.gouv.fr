@@ -9,7 +9,7 @@ missions:
     employer: Ministère des armées
 startups:
   - oscars
-
+  - cassiopee
 ---
 
 

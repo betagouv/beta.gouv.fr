@@ -5,11 +5,11 @@ domaine: Développement
 github: jonathanperret
 missions:
   - start: 2021-12-17
-    end: 2023-12-01
+    end: 2024-12-01
     status: service
     employer: /ut7
-startups:
-  - carnet.de.bord
+teams:
+  - /teams/gip-inclusion
 ---
 
 Développeur chez /ut7

@@ -1,7 +1,7 @@
 ---
 title: Administration+
-mission: Résoudre les blocages administratifs inextricables
-sponsors: 
+mission: Résoudre les blocages administratifs complexes et/ou urgents
+sponsors:
   - /organisations/anct
 incubator: anct
 phases:
@@ -14,20 +14,19 @@ phases:
 link: https://aplus.beta.gouv.fr/
 repository: https://github.com/betagouv/aplus
 stats: true
-stats_url: https://infogram.com/stats-dusage-dadministration-1hmr6gm9mk5o6nl?live
+stats_url: https://aplus.beta.gouv.fr/stats
 contact: contact@aplus.beta.gouv.fr
 techno:
-   - Scala
-   - Play Framework
-   - PostgreSQL
-   - Atos Worldine
-   - OpenShift
-   - Mailjet
+  - Scala
+  - Play Framework
+  - PostgreSQL
+  - Atos Worldine
+  - OpenShift
+  - Brevo
 usertypes:
   - etat
 accessibility_status: non conforme
 ---
-
 ## Avec Administration+, aucun blocage ne vous résiste
 
 **Administration+**, c’est une plateforme qui **met en relation des aidants** comme des travailleurs sociaux **avec des agents d’organismes publics** comme la Caf. Ensemble, ils luttent contre **l’urgence sociale**. Pour cela, ils règlent rapidement et efficacement des **blocages inextricables** dans les dossiers des usagers. Administration+, **c’est le service public VIP pour tous !**
@@ -39,7 +38,7 @@ En 2017, **Zohra Lebel-Sedki** était en poste à la Direction de l’Informatio
 
 Elle remporte le challenge. **La Startup d’État alors appelée « A+ » est lancée en septembre 2017**. Après plusieurs itérations, Zohra s’est concentrée sur les **blocages inextricables** : ces situations où l’usager a beau se manifester auprès d’un travailleur social, quelque chose est bloqué et les moyens de communication classiques ne suffisent plus pour éviter de tomber dans la précarité. La plateforme a été lancée en expérimentation dès décembre 2017 sur Argenteuil (Val d’Oise, 95). **Le premier cas concret a été réglé en une semaine**.
 
-> J’ai été surprise de l'accueil de mon projet : les administrations sont bienveillantes avec un tel dispositif qui vient en complément de leurs services ! Ce qui m’a poussé à faire ce choix, c’est que les blocages inextricables ne sont pas une charge de travail en plus pour les organismes. Ces dossiers ne sont pas des dossiers supplémentaires : ce sont des dossiers courants, urgents, d’usagers bien réels, qui un jour ou l’autre arriveront sur les bureaux des administrations. La question, c’est de savoir : est ce qu’on a envie que ces dossiers arrivent plus rapidement pour avoir prise en charge immédiate et qui ne pénalise pas l’usager ? Ou bien est ce qu’on attend que la situation se gangrène, que les conséquences empirent et que le dossier parte en contentieux ?
+> J’ai été surprise de l'accueil de mon projet : les administrations sont bienveillantes avec un tel dispositif qui vient en complément de leurs services ! Ce qui m’a poussée à faire ce choix, c’est que les blocages inextricables ne sont pas une charge de travail en plus pour les organismes. Ces dossiers ne sont pas des dossiers supplémentaires : ce sont des dossiers courants, urgents, d’usagers bien réels, qui un jour ou l’autre arriveront sur les bureaux des administrations. La question, c’est de savoir : préférons-nous que ces dossiers arrivent plus rapidement pour avoir une prise en charge immédiate ne pénalisant pas l’usager ? Ou bien est ce qu’on attend que la situation se gangrène, que les conséquences empirent et que le dossier parte en contentieux ?
 
 *Zohra Lebel-Sedki, cheffe de produit Administration+*
 
@@ -47,7 +46,7 @@ Elle remporte le challenge. **La Startup d’État alors appelée « A+ » est l
 
 Administration+ est **une messagerie sécurisée** réservé aux travailleurs sociaux et agents d’opérateurs de l’État (CPAM, DDFIP, MSA, Caf, etc.). Il s’agit d’une plateforme qui permet de résoudre les blocages administratifs inextricables. Pour une raison inconnue, ces blocages n’arrivent pas à être traités par les canaux d’informations classiques. Ils doivent cependant être résolus en urgence pour éviter de faire basculer l’usager dans la précarité.
 
-**L’usager en situation de fragilité sociale** (perte de mobilité, illectronisme, illettrisme, handicap, hospitalisation, etc.) **n’a pas directement accès à Administration+**. C’est son travailleur social, avec son autorisation, qui utilise la plateforme pour répondre à son problème.
+**L’usager en situation de fragilité sociale** (perte de mobilité, illectronisme, illettrisme, handicap, hospitalisation, etc.) **n’a pas directement accès à Administration+**. C’est son travailleur social, avec son autorisation (mandat), qui utilise la plateforme pour répondre à son problème.
 
 Concrètement, un travailleur social **Aidant+** utilise la plateforme pour signaler un blocage dans le dossier d’une personne. La demande est qualifiée et transmise à ou aux organismes compétents. Le référent dans l’administration instructrice, l’**Agent+**, prend connaissance de la situation. Il peut à son tour contacter d’autres Agents+ lorsque le problème est kafkaïen. Une fois le blocage identifié et corrigé, l’Agent+ avise aussitôt l’Aidant+.
 

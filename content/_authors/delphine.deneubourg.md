@@ -11,6 +11,6 @@ missions:
 teams:
   - /teams/justice
 previously:
-  - justif
+  - mon-suivi-justice
 ---
 

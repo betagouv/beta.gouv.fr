@@ -9,14 +9,14 @@ accessibility_status: non conforme
 phases:
   - start: 2023-01-20
     name: construction
+  - name: success
+    start: 2023-10-20
 ---
-
-
 **Contexte**
 
 Les fiches du ROME (Répertoire Opérationnel des Métiers et Emplois) sont mises à jour par Pôle Emploi et ses partenaires.
 
-Une version 4.0 du ROME doit être livrée en 2023.
+Une version 4.0 du ROME a été livrée en 2023.
 
 **Problème**
 

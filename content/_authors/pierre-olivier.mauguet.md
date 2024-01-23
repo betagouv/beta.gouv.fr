@@ -5,10 +5,10 @@ role: Développeur
 github: pom421
 link: http://pom421.github.io/
 missions:
-  - employer: octo
-    end: 2023-09-30
-    start: 2019-03-11
+  - start: 2019-03-11
+    end: 2024-09-30
     status: independent
+    employer: octo
 startups:
   - egalite.professionnelle
 previously:

@@ -1,15 +1,15 @@
 ---
 fullname: Mathieu Perez
 domaine: Développement
-github : maperez42
+github: maperez42
 role: EIG Développeur @ Fabrique Numérique DGFiP
 missions:
   - start: 2021-09-13
-    end: 2022-07-08
+    end: 2024-11-26
     status: admin
-    employer: DTNUM - DGFiP
+    employer: FABNUMDEF - Anais
 startups:
-  - attractivite.des.territoires
+  - Anais
 competences:
-  - Développement Backend
+  - Développement 
 ---

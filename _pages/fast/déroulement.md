@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-title: Pendant le FAST
+title: Déroulement du FAST
 permalink: /fast/déroulement
 sidebar: sidebar-fast.html
 ---

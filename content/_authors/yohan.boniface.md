@@ -11,15 +11,16 @@ missions:
     status: independent
     employer: octo
   - start: 2022-01-01
-    end: 2023-09-30
+    end: 2024-03-30
     status: independent
     employer: scopyleft
 startups:
-  - données-et-territoires
+  - umap
 previously:
   - ban
   - api-drones
   - la-bonne-formation
   - classe-a-12
   - egalite.professionnelle
+  - données-et-territoires
 ---

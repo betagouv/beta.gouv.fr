@@ -10,7 +10,7 @@ missions:
     employer: ''
 startups:
   - 1000.premiers.jours.blues
-  - compte-conso
+  - carte-verte
 previously:
   - tumeplay
   - 1000.jours

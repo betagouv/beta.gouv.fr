@@ -16,17 +16,6 @@ Actuellement, elle est utilisée principalement par des services médico-sociaux
 
 <!--more-->
 
-<style type="text/css">
-p {
-      margin: 1.5rem 0 0 0;
-}
-
-h2, h3 {
-      margin: 3rem 0 1rem 0;
-}
-</style>
-
-
 ## Responsabilités
 
 Vous êtes autonome dans la conception, l'écriture et le déploiement de votre code, et en maîtrisez les bonnes pratiques.
@@ -56,6 +45,6 @@ Intégré·e à l'équipe de RDV-Solidarités, vous êtes responsable de compren
 - Le télétravail est possible, mais une présence ponctuelle à Paris est demandée pour participer aux sessions stratégiques et collaboratives.
 - Démarrage dès que possible.
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [contact@rdv-solidarites.fr avec incubateur@anct.gouv.fr en copie](mailto:contact@rdv-solidarites.fr?cc=incubateur@anct.gouv.fr&subject=Recrutement dev RDV-Solidarités)
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [contact@rdv-solidarites.fr avec incubateur@anct.gouv.fr en copie](mailto:contact@rdv-solidarites.fr?cc=incubateur@anct.gouv.fr&subject=Recrutement%20dev%20RDV-Solidarités)
 
 À bientôt ! 😀

@@ -1,20 +1,26 @@
 ---
 fullname: Douglas Duteil
-role: Lead Developper
+role: Développeur
 domaine: Développement
-avatar: https://avatars1.githubusercontent.com/u/730511?s=460&v=4
 link:
+github: douglasduteil
 missions:
+  - start: 2023-10-23
+    end: 2024-02-29
+    status: independent
+    employer: DINUM
   - start: 2018-10-01
     end:  2021-10-01
     status: admin
     employer: affaires-sociales
 startups:
-    - e-mjpm
-    - codedutravail
-    - workinfrance
-    - domifa
-    - tremplin
+  - moncomptepro
+previously:
+  - e-mjpm
+  - codedutravail
+  - workinfrance
+  - domifa
+  - tremplin
 
 ---
 

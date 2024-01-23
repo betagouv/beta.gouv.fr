@@ -5,11 +5,15 @@ sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
 incubator: gip-inclusion
-contact: laetitia.kouadria@beta.gouv.fr
+contact: annaelle.garcia@beta.gouv.fr
 accessibility_status: non conforme
+stats: true
+stats_url: https://mon-recap.fr/?e-landing-page=page-statistiques
 phases:
   - name: investigation
     start: 2023-02-13
+  - name: construction
+    start: 2023-09-04
 ---
 ## Contexte
 
@@ -24,7 +28,7 @@ Ces « aiguilleurs» maintiennent une continuité des actions de terrain entrepr
 ## Le problème
 
 34 % des personnes éloignées de l'emploi qui ont droit à un accompagnement à la levée des freins périphériques à l'emploi ou à une aide sociale y renoncent.
-[Source](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/mesurer-regulierement-le-non-recours-au)
+[Source](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/mesurer-regulierement-le-non-recours-au).
 Parmi eux, 89% sont en situation de non-recours subi, de non-orientation ou de non-demande dû notamment à cette multitude d'acteurs difficiles à coordonner pour le bénéficiaire.
 
 ## Notre service

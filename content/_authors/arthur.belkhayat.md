@@ -5,12 +5,13 @@ role: Développeur
 github: abelkhay
 missions:
   - start: 2022-06-01
-    end: 2023-09-30
+    end: 2024-01-31
     status: independent
     employer: Malt
 startups:
-  - conseiller-numerique
   - cartographie.nationale
+previously:
+  - conseiller-numerique
 badges:
   - segur
 competences:

@@ -66,7 +66,7 @@ Incubée au sein de l’Atelier numérique, la start-up d’Etat EllesfontlaCult
 - **Beta.gouv.fr** aide les ministères et autres partenaires publics à construire des services numériques simples, faciles à utiliser, à l’impact maximal.
 - L’approche beta.gouv place les usagères et usagers au cœur de l’action publique et cherche à apporter des **solutions concrètes** pour améliorer leur vie quotidienne.
 
-- Beta.gouv a accompagné la création de [dizaines de services numériques](https://beta.gouv.fr/startups/) déjà disponibles ou à venir. C'est est aussi une [communauté croissante](https://beta.gouv.fr/communaute/) de développeur·euse·s, designer·euse·s, chargé·e·s de produit… qui construisent les services publics numériques de demain au sein d’un **[réseau d’incubateurs publics](https://beta.gouv.fr/incubateurs/)** partageant les mêmes [valeurs](https://beta.gouv.fr/approche/manifeste).
+- Beta.gouv a accompagné la création de [dizaines de services numériques](https://beta.gouv.fr/startups/) déjà disponibles ou à venir. C'est est aussi une [communauté croissante](https://beta.gouv.fr/communaute/) de développeur·euse·s, designer·euse·s, chargé·e·s de produit… qui construisent les services publics numériques de demain au sein d’un **[réseau d’incubateurs publics](https://beta.gouv.fr/incubateurs/)** partageant les mêmes [valeurs](https://beta.gouv.fr/manifeste).
 
 
 N’hésitez pas à consulter notre [kit de démarrage](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage) et nos [normes de conduite](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/culture/normes-de-conduite) pour en savoir plus sur nos standards.

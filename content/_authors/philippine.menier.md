@@ -1,10 +1,10 @@
 ---
 fullname: Philippine Ménier
 domaine: Produit
-role: Chargée de déploiement
+role: Intrapreneure
 missions:
   - start: 2022-05-09
-    end: 2023-09-30
+    end: 2023-10-30
     status: independent
     employer: Haut-commissariat à l'emploi et à l'engagement des entreprises
 startups:
@@ -15,6 +15,5 @@ competences:
   - Gestion de Produit
   - Croissance
   - Administration Publique
-
 ---
 

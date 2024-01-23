@@ -1,16 +1,15 @@
 ---
 title: Archifiltre
-mission: Appréhender des ensembles volumineux de fichiers pour mieux les gérer,
-  les trier et y retrouver de l'information
+mission: Aider les archivistes et les agents des administrations à appréhender et trier des arborescences de fichiers et des messageries complètes.
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
-link: https://archifiltre.fabrique.social.gouv.fr/
-repository: https://github.com/SocialGouv/archifiltre
+link: https://archifiltre.fr/
+repository: https://github.com/SocialGouv/archifiltre-docs
 contact: archifiltre@sg.social.gouv.fr
 usertypes:
   - etat
-stats_url: https://archifiltre.fabrique.social.gouv.fr/statistiques/
+stats_url: https://archifiltre.fr/stats
 stats: true
 events:
   - name: other

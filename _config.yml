@@ -14,7 +14,6 @@ email: contact@beta.gouv.fr
 description: Nous créons des services publics numériques
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://beta.gouv.fr # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: BetaGouv
 github_username: betagouv
 github_repository: BetaGouv/beta.gouv.fr
 
@@ -73,6 +72,8 @@ collections_dir:
 collections:
   authors:
   incubators:
+    output: true
+    permalink: /incubateurs/:title.html
   intras:
   jobs:
     output: true
@@ -113,6 +114,11 @@ defaults:
       type: "startups"
     values:
       layout: startup
+  - scope:
+      path: ""
+      type: "incubators"
+    values:
+      layout: incubateur
   - scope:
       path: "img/authors"
     values:

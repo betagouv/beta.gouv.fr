@@ -31,6 +31,9 @@ phases:
     comment: >-
       Passage en accélération : amélioration continue du produit et augmentation
       du nombre d'utilisateurs. 
+fast:
+  promotion: 13
+  montant: 300000
 ---
 <!--StartFragment-->
 
@@ -102,7 +105,7 @@ Pour cela, A-JUST a pour objectif de permettre aux juridictions de visualiser et
 
 Visualisation, corrélation, simulation… A-JUST se définit comme un outil  d’aide à la décision et de prospective.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
 ¹ Pénal, civil, social, commercial…
 

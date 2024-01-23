@@ -23,7 +23,8 @@ phases:
     end: 2020-01-02
   - name: acceleration
     start: 2020-01-01
-    end: 2021-04-13
+  - name: alumni
+    start: 2023-10-17
 usertypes:
   - entreprise
 ---

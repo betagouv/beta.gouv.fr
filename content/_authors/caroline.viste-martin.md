@@ -4,10 +4,9 @@ role: Intra
 domaine: Intraprenariat
 missions:
   - start: 2023-06-01
-    end: 2023-10-02
+    end: 2024-10-02
     status: admin
 startups:
-  - iCare-complements-alimentaires
+  - icare-complements-alimentaires
 memberType: beta
 ---
-

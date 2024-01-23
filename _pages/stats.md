@@ -36,10 +36,8 @@ additional_js:
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
       <iframe
         src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/dc69430c-3929-4ca3-9d29-f6bb9f06c037"
-        frameborder="0"
-        width="100%"
         height="300"
-        allowtransparency
+        style="width: 100%; border: 0; background-color: transparent;"
       ></iframe>
     </div>
   </div>
@@ -54,31 +52,30 @@ additional_js:
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
-      <iframe 
+      <iframe
       src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/0e1d0920-fdd9-4d92-82cc-f8685cc063c5"
-      frameborder="0"
-      width="100%"
       height="300"
-      allowtransparency></iframe>
+      style="width: 100%; border: 0; background-color: transparent;"
+      ></iframe>
     </div>
   </div>
   <br>
   <br>
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
-      <h3>Respect des standards de qualité</h3>
-      <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions <b>sobres, ouvertes, accessibles, protectrices, sécurisées</b>. Pour cela, beta.gouv.fr a fixé un certain nombre de <b>standards de qualité</b> dont certains sont suivis ci-dessous. 
+      <h3 id="standards-qualite">Respect des standards de qualité</h3>
+      <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions <b>sobres, ouvertes, accessibles, protectrices, sécurisées</b>. Pour cela, beta.gouv.fr a fixé un certain nombre de <b>standards de qualité</b> dont certains sont suivis ci-dessous.
       </p>
       <p>
       Ces tableaux de bords d'animation et de pilotage du réseau beta.gouv.fr de <b>mieux guider leurs efforts et priorités</b> pour aider les produits qui en ont le plus besoin et améliorer ce qui peut l'être.
       </p>
       <div class="fr-highlight">
-        <p class="fr-text">
-          Précisions sur les différentes phases de produit<br><br>
-          - <b>Construction</b> : Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.<br>
-          - <b>Accélération</b> : L’équipe déploie le service sans cesser de l’améliorer pour en accroître l’impact.<br>
-          - <b>Transfert</b> : Le service, à présent disponible pour tous et mature, rejoint une structure propice à sa pérennisation.<br>
-          - <b>Pérénnisé</b> : Le service est devenu un service public numérique national disponible pour tous.
-        </p>
+        <p class="fr-text">Précisions sur les différentes phases de produit</p>
+          <ul>
+          <li><b>Construction</b> : Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.</li>
+          <li><b>Accélération</b> : L’équipe déploie le service sans cesser de l’améliorer pour en accroître l’impact.</li>
+          <li><b>Transfert</b> : Le service, à présent disponible pour tous et mature, rejoint une structure propice à sa pérennisation.</li>
+          <li><b>Pérénnisé</b> : Le service est devenu un service public numérique national disponible pour tous.</li>
+        </ul>
       </div>
       <br>
     </div>
@@ -86,10 +83,8 @@ additional_js:
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/df66b4b5-da83-4131-90a5-52b7c68f10e0"
-            frameborder="0"
-            width="100%"
             height="300"
-            allowtransparency
+            style="width: 100%; border: 0; background-color: transparent;"
         ></iframe>
       </div>
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
@@ -110,10 +105,8 @@ additional_js:
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/4c8c5ab0-2ff1-4d81-abe2-115be0481e0a"
-            frameborder="0"
-            width="100%"
             height="300"
-            allowtransparency
+            style="width: 100%; border: 0; background-color: transparent;"
         ></iframe>
       </div>
     </div>
@@ -122,10 +115,8 @@ additional_js:
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/e5dbecb8-8601-4cfd-916b-faefff27eb60"
-            frameborder="0"
-            width="100%"
             height="300"
-            allowtransparency
+            style="width: 100%; border: 0; background-color: transparent;"
         ></iframe>
       </div>
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
@@ -142,10 +133,8 @@ Avant cela, le produit est encore trop instable dans son design global. La prior
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bde0b5e2-0e30-4df4-954d-a458b7b3f1db"
-            frameborder="0"
-            width="100%"
             height="300"
-            allowtransparency
+            style="width: 100%; border: 0; background-color: transparent;"
         ></iframe>
       </div>
   </div>
@@ -165,10 +154,8 @@ Pour plus de détails sur la composition actuelle de la communauté beta.gouv.fr
       <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
         <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/493930f1-f3d2-4df5-a5f8-a67d593addc5"
-            frameborder="0"
-            allowtransparency
-            width="100%"
             height="300"
+            style="width: 100%; border: 0; background-color: transparent;"
         ></iframe>
       </div>
   </div>
@@ -184,30 +171,24 @@ Pour plus de détails sur la composition actuelle de la communauté beta.gouv.fr
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
       <iframe
           src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/3a9c4d96-43e6-4b82-b44d-6f99cd9ca604"
-          frameborder="0"
-          width="100%"
           height="400"
-          allowtransparency
+          style="width: 100%; border: 0; background-color: transparent;"
       ></iframe>
     </div>
  </div>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
         <iframe
-            src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/39cdc836-b883-419c-8069-88b751b8ccc6"
-            frameborder="0"
+            src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bb37a864-df62-43b9-ae42-3a097da5ddae"
             height="300"
-            width="100%"
-            allowtransparency
+            style="width: 100%; border: 0; background-color: transparent;"
         ></iframe>
       </div>
-      <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
-        <iframe
-            src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bb37a864-df62-43b9-ae42-3a097da5ddae"
-            frameborder="0"
-            height="300"
-            width="100%"
-            allowtransparency
+       <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
+         <iframe
+             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/5709d2c1-7ad2-4a49-b6e3-bbf7558ce2c3"
+             height="300"
+             style="width: 100%; border: 0; background-color: transparent;"
         ></iframe>
       </div>
   </div>

@@ -15,13 +15,10 @@ missions:
     status: independent
     employer: ''
   - start: 2020-12-26
-    end: 2023-09-30
+    end: 2024-01-31
     status: independent
     employer: octo
-startups:
-  - pass.engagement.jeune
 previously:
-  - jeveuxaider
   - mon-entreprise
   - anotea
   - pass.engagement.jeune

@@ -12,9 +12,8 @@ incubator: ''
 startups:
   - a-just
 previously:
-  - justif
+  - mon-suivi-justice
   - anct-pni-38
-  - anct-pni-49
   - mediature
 competences:
   - Coaching

@@ -5,7 +5,7 @@ domaine: Déploiement
 github: greta712
 missions:
   - start: 2021-10-28
-    end: 2023-09-30
+    end: 2024-05-30
     status: independent
     employer: ''
 startups:

@@ -1,24 +1,25 @@
 ---
 mission: Faciliter l'accès et la gestion des données entreprises pour les collectivités
 incubator: anct
-repository: null
 contact: contact@deveco.incubateur.anct.gouv.fr
 usertypes:
   - collectivite-territoriale
-stats_url: https://deveco.incubateur.anct.gouv.fr/stats
 title: Deveco
 sponsors:
   - /organisations/anct
 link: https://deveco.incubateur.anct.gouv.fr
-stats: false
+stats: true
 phases:
   - name: investigation
     start: 2021-10-14
     end: 2022-01-31
   - name: construction
     start: 2022-01-31
+dashlord_url: https://incubateur-territoires.github.io/dashlord/
+repository: https://gitlab.com/incubateur-territoires/startups/deveco/deveco
+stats_url: https://deveco.incubateur.anct.gouv.fr/stats
+accessibility_status: non conforme
 ---
-
 ## Le contexte
 
 Dans le cadre des activités de l'incubateur des territoires de l'Agence Nationale de la Cohésion des Territoires (ANCT), 2 investigations ont été menées en 2021 : l'une sur l'analyse de l'activité économique dans les Quartiers de la Politique de la Ville (QPV), et l'autre sur la vacance commerciale,  en collaboration avec la ville des Lilas.

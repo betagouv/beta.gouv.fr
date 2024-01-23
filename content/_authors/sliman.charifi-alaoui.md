@@ -4,7 +4,7 @@ role: Chargé de développement / immersion facilitée
 domaine: Développement
 missions:
   - start: 2023-03-01
-    end: 2023-08-31
+    end: 2024-02-29
     status: admin
     employer: POLE EMPLOI
 startups:

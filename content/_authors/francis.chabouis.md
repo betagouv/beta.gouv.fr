@@ -6,14 +6,15 @@ github: fchabouis
 link: https://francis.chabouis.fr/
 missions:
   - start: 2020-01-20
-    end: 2023-06-30
+    end: 2024-03-31
     status: independent
     employer: Codeurs en Liberté
 startups:
+  - bat-id
+previously: 
   - transport
-previously: null
 
 ---
 >-
   J'aime l'open-data, les transports, la cartographie, les maths et coder en
-  Elixir.
+  Elixir. Peut-être vais-je bientôt me passionner pour les bâtiments ?

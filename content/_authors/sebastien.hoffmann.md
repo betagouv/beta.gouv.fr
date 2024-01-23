@@ -1,6 +1,6 @@
 ---
 fullname: Sébastien Hoffmann
-role: UI Designer
+role: Designer UI/UX
 domaine: Design
 link: https://www.linkedin.com/in/sebastienhoffmann/
 github: lespetitssuisses
@@ -11,5 +11,8 @@ missions:
     employer: ''
 startups:
   - l-immersion-facile
+previously:
+  - mon-recap
+  - diagoriente
 ---
 UI Designer @ Les Petits Suisses

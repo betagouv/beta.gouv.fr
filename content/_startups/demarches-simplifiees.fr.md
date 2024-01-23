@@ -15,6 +15,9 @@ phases:
   - name: success
 link: https://www.demarches-simplifiees.fr
 repository: https://github.com/betagouv/tps
+dashlord_url: https://dashlord.incubateur.net/url/www-demarches-simplifiees-fr/
+accessibility_status: partiellement conforme
+analyse_risques_url: https://github.com/demarches-simplifiees/demarches-simplifiees.fr/blob/main/SECURITY.md
 stats: true
 contact: contact@demarches-simplifiees.fr
 redirect_from:
