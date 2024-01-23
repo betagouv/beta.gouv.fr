@@ -10,7 +10,6 @@ missions:
     status: independent
     employer: DGITM
 startups:
-  - le-taxi
   - dora
 memberType: beta
 ---
