@@ -13,7 +13,7 @@ phases:
     start: 2021-09-01
   - name: construction
     start: 2023-01-01
-  - name: accélération
+  - name: acceleration
     start: 2024-01-01
 link: https://rnb.beta.gouv.fr/
 budget_url: https://rnb-fr.gitbook.io/documentation/budget
