@@ -3,6 +3,7 @@ title: Panoramax - Base vues immersives libres
 mission: L’alternative libre pour photo-cartographier les territoires
 sponsors:
   - /organisations/ign
+  - /organisations/dinum
 incubator: fab-geocommuns
 link: https://panoramax.fr/
 repository: https://github.com/panoramax-project
