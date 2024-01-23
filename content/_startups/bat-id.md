@@ -18,6 +18,7 @@ phases:
     start: 2024-01-01
 link: https://rnb.beta.gouv.fr/
 budget_url: https://rnb-fr.gitbook.io/documentation/budget
+accessibility_status: partiellement conforme
 repository: https://github.com/fab-geocommuns/RNB-site
 ---
 ## Problème
