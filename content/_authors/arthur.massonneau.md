@@ -11,7 +11,7 @@ missions:
     employer: Numa
 memberType: autre
 startups:
-  - BoRiS
+  - boris
 ---
 
 Coach Fabrique Numérique
