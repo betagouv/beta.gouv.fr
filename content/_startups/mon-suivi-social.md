@@ -20,8 +20,6 @@ phases:
     end: 2022-02-01
   - name: construction
     start: 2022-03-01
-  - name: acceleration
-    start: 2023-09-04
 ---
 ### 🏗 Contexte/problème
 
