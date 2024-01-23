@@ -6,10 +6,10 @@ missions:
   - start: 2023-04-24
     end: 2024-05-24
     status: admin
-    employer: ""
+    employer: ''
 memberType: beta
 startups:
-  - BoRiS
+  - boris
 competences:
   - Administration Publique
   - Gestion de Produit
