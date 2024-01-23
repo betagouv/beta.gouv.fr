@@ -9,7 +9,6 @@ layout: null
             ,"role": "{{ author.role | escape }}"
             ,"domaine": "{{ author.domaine | escape }}"
             ,"link": "{{ author.link | escape }}"
-            ,"github": "{{ author.github | escape }}"
             {% if author.github %},"github": "{{ author.github }}"{% endif %}
             , "missions": [
                 {% for mission in author.missions %}
