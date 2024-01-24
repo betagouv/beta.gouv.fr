@@ -8,7 +8,6 @@ layout: null
             ,"fullname": "{{ author.fullname }}"
             ,"role": "{{ author.role | escape }}"
             ,"domaine": "{{ author.domaine | escape }}"
-            ,"bio": "{{ author.content | replace: '"', '\"' | remove: '<p>' | remove: '</p>' | strip }}"
             {% if author.github %},"github": "{{ author.github }}"{% endif %}
             , "missions": [
                 {% for mission in author.missions %}
