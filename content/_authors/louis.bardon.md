@@ -1,10 +1,12 @@
 ---
 fullname: louis Bardon
-role: Business developpement (Avant vente, makerting, vente...)
+role: >-
+  Conseil senior en transformation numérique (Business developpement, Avant
+  vente, makerting,..)
 domaine: Coaching
 missions:
   - start: 2022-08-05
-    end: 2024-06-01
+    end: 2024-12-31
     status: admin
     employer: SG/DNUM
 ---
