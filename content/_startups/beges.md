@@ -12,7 +12,8 @@ phases:
   - name: investigation
     start: 2023-05-02
     end: 2023-07-31
-    
+  - start: 2023-09-01
+    name: alumni    
     
 ---
 ## Contexte
@@ -20,5 +21,5 @@ Le bilan carbone des collectivités est une obligation mais après ? Les collect
 Comment réaliser cet exercice avec une méthode publique et s'en servir pour avoir de l'impact ?
 
 ## Investigation
-Les hypothèses à investiguer :
+Les hypothèses à investiguer : 
 En cours de rédaction !
