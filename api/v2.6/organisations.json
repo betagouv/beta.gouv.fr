@@ -1,0 +1,15 @@
+---
+layout: null
+---
+[
+    {% for organisation in site.organisations %}
+        {
+            "id": "{{ organisation.id | remove:'/organisations/' }}"
+            ,"name": "{{ organisation.name | escape }}"
+            ,"acronym": "{{ organisation.acronym | escape }}"
+            ,"domaine_ministeriel": "{{ organisation.domaine_ministeriel | escape }}"
+            ,"type": "{{ organisation.type | escape }}"
+        }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+]
