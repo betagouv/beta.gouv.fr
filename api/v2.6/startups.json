@@ -31,7 +31,7 @@ layout: null
                 ]
             , "sponsors": [
                 {% for sponsor in startup.sponsors %}
-                    "{{ sponsor }}"{% unless forloop.last %},{% endunless %}
+                    "{{sponsor | remove: '/organisations/' }}"{% unless forloop.last %},{% endunless %}
                 {% endfor %}
                 ]
             {% if startup.analyse_risques %}
