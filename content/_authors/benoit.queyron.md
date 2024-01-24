@@ -8,6 +8,6 @@ missions:
     end: 2024-02-29
     status: admin
     employer: DGITM
-startups:
+previously:
   - transport
 ---
