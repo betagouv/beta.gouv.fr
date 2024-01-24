@@ -1,6 +1,6 @@
 ---
 fullname: Samir Benfares
-role: Développeur
+role: Product Owner
 domaine: Développement
 github: sbenfares
 missions:
@@ -9,9 +9,12 @@ missions:
     status: independent
     employer: ut7
 startups:
+  - api.apprentissage
+previously:
   - tdb-apprentissage
   - catalogue-apprentissage
   - voeux-apprentissage
+  - uai_siret
 ---
 
 J'aspire à améliorer le monde en construisant des produits numériques ayant de l'impact.
