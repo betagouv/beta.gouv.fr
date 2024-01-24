@@ -15,6 +15,9 @@ stats_url: https://nosgestesclimat.fr/stats
 budget_url: https://nosgestesclimat.fr/budget
 analyse_risques: true
 analyse_risques_url: https://github.com/incubateur-ademe/incubateur-ademe/blob/master/SECURITY.md
+events:
+  - name: national_impact
+    date: 2022-12-31
 phases:
   - name: success
     start: 2022-06-13
