@@ -11,6 +11,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-12
+redirect_from:
+  - /startups/vite.mes.titres
 ---
 ## Contexte
 Les conducteurs routiers lauréats des titres professionnels sont confrontés à des délais d’attente parfois très importants pour obtenir les documents indispensables à l’exercice de leur profession à l’issue de leur formation. Les délais les plus longs sont en partie inhérents à la complexité du parcours administratif qui requiert de constituer un dossier en ligne auprès de plusieurs administrations. En cas d’incomplétude du dossier, l’usager se trouve seul pour débloquer sa situation. 

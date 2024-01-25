@@ -8,8 +8,9 @@ phases:
   - name: investigation
     start: 2016-01-25
   - name: construction
-    start: 2016-01-25    
+    start: 2016-01-25
   - name: success
+    start: 2020-07-24
 link: https://api.gouv.fr
 repository: https://github.com/betagouv/api.gouv.fr
 stats: true

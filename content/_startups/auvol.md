@@ -12,6 +12,7 @@ phases:
     start: 2019-03-01
     end: 2019-08-31
   - name: alumni
+    start: 2019-10-31
 repository:
 stats: false
 contact: didier.yvetot@beta.gouv.fr

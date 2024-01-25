@@ -10,6 +10,7 @@ phases:
   - name: construction
     start: 2016-01-03
   - name: alumni
+    start: 2020-07-24
 link: https://memo.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/memo
 stats: true

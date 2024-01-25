@@ -14,7 +14,7 @@ missions:
     employer: pole-emploi
 
 startups:
-    - Immersion Facilitée
+    - l-immersion-facile
 previously:
     - zen
 ---

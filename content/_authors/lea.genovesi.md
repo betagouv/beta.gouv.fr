@@ -9,7 +9,6 @@ missions:
     status: independent
     employer: NUMA
 startups:
-  - rdvif
   - precontentieux.justice
 badges:
   - segur

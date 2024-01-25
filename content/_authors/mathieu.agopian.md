@@ -20,8 +20,8 @@ missions:
 startups:
   - ecobalyse
 previously:
-  - saisissez au vol
-  - egapro
+  - auvol
+  - egalite-professionnelle
 competences:
   - Développement Frontend
   - Développement Backend

@@ -1,63 +1,67 @@
-type:       map
+type: map
 mapping:
   "fullname":
-    type:      str
-    required:  yes
+    type: str
+    required: yes
   "role":
-    type:      str
-    required:  yes
+    type: str
+    required: yes
   "link":
-    type:      str
+    type: str
   "avatar":
-    type:      str
+    type: str
   "github":
-    type:      str
+    type: str
   "memberType":
-    type:      str
+    type: str
   "missions":
-    type:      seq
-    required:  yes
-    assert:    "val.length() > 0"
+    type: seq
+    required: yes
+    assert: "val.length() > 0"
     sequence:
-        - type:      map
-          mapping:
-            "start":
-              type:      date
-              required:  yes
-            "end":
-              type:      date
-              required:  yes
-            "status":
-              type:      str
-              enum:    [service, independent, admin]
-              required:  yes
-            "employer":
-              type:      str
+      - type: map
+        mapping:
+          "start":
+            type: date
+            required: yes
+          "end":
+            type: date
+            required: yes
+          "status":
+            type: str
+            enum: [service, independent, admin]
+            required: yes
+          "employer":
+            type: str
+          "startups":
+            type: seq
+            sequence:
+              - type: str
   "incubator":
-    type:      str
+    type: str
   "startups":
-    type:      seq
+    type: seq
     sequence:
-        - type:      any
+      - type: any
   "previously":
-    type:      seq
+    type: seq
     sequence:
-        - type:      any
+      - type: any
   "badges":
-    type:      seq
+    type: seq
     sequence:
-        - type:      str
-          enum:
-            - segur
+      - type: str
+        enum:
+          - segur
   "domaine":
-    type:      str
-    enum:      [Animation, Coaching, Déploiement, Design, Développement, Intraprenariat, Produit, Autre]
-    required:  yes
+    type: str
+    enum: [Animation, Coaching, Déploiement, Design, Développement, Intraprenariat, Produit, Autre]
+    required: yes
   "competences":
-    type:      seq
+    type: seq
     sequence:
-        - type:      str
+      - type: str
   "teams":
-    type:      seq
+    type: seq
     sequence:
-        - type:      any
+      - type: any

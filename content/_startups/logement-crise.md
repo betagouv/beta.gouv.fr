@@ -6,6 +6,7 @@ sponsors:
 incubator: dinum 
 phases:
   - name: alumni
+    start: 2022-06-09
 stats: false 
 contact: brigade@beta.gouv.fr
 ---

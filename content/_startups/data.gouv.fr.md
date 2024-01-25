@@ -11,8 +11,9 @@ phases:
   - name: investigation
     start: 2013-06-01
   - name: construction
-    start: 2013-06-01    
+    start: 2013-06-01
   - name: success
+    start: 2016-01-01
 link: https://www.data.gouv.fr/
 repository: https://github.com/opendatateam/udata
 stats: true

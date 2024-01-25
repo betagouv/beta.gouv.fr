@@ -13,6 +13,7 @@ phases:
   - name: construction
     start: 2016-03-01
   - name: alumni
+    start: 2020-07-24
 link: http://www.opendatalab.fr/urbaclic
 repository: https://github.com/betagouv/urbaclic
 stats: false

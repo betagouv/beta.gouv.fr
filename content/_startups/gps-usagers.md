@@ -10,6 +10,7 @@ phases:
   - name: construction
     start: 2018-10-01
   - name: alumni
+    start: 2020-07-24
 link: https://www.calvados.fr/contact
 repository: https://github.com/betagouv/gps-usagers
 stats: false

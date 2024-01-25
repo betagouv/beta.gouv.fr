@@ -9,10 +9,9 @@ missions:
     status: independent
     employer: ''
 startups:
-  - data.insertion
+  - data-inclusion
 memberType: beta
-previously:
-  - data.insertion
+
 ---
 
 Développeur passionné, cycliste acharné, écologiste engagé

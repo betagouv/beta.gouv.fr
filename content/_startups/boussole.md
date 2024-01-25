@@ -11,6 +11,7 @@ phases:
   - name: investigation
     start: 2015-12-01
   - name: alumni
+    start: 2017-06-30
 link:
 repository: https://github.com/betagouv/boussole
 stats: false

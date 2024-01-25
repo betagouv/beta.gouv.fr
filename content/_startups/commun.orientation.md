@@ -9,6 +9,7 @@ phases:
   - name: construction
     start: 2021-03-01
   - name: alumni
+    start: 2023-10-30
 usertypes:
   - collectivite-territoriale
   - particulier

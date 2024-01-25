@@ -13,6 +13,7 @@ phases:
   - name: construction
     start: 2017-06-01
   - name: alumni
+    start: 2018-12-31
 link:
 repository: https://framagit.org/drone
 stats: false

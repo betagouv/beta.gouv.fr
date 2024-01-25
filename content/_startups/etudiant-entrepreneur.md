@@ -13,6 +13,7 @@ phases:
   - name: construction
     start: 2016-06-23
   - name: alumni
+    start: 2017-12-31
 link: https://snee.esr.gouv.fr/
 repository: https://github.com/betagouv/etudiant-entrepreneur
 stats: false

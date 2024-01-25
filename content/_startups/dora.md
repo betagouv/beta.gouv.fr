@@ -6,6 +6,7 @@ contact: contact@dora.inclusion.beta.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - association
+  - entreprise
   - collectivite-territoriale
 stats_url: https://dora.inclusion.beta.gouv.fr/stats
 title: DORA
@@ -25,9 +26,7 @@ phases:
     end: 2021-10-29
   - name: acceleration
     start: 2021-11-01
-usertypes:
-  - entreprise
-  - collectivite-territoriale
+
 ---
 ## Le problème
 

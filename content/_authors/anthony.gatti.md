@@ -3,14 +3,14 @@ fullname: Anthony Gatti
 domaine: Déploiement
 role: Chargé de déploiement
 missions:
-  - start: 2022-04-11
-    end: 2024-06-30
-    status: independent
-    employer: ''
+    - start: 2022-04-11
+      end: 2024-06-30
+      status: independent
+      employer: ""
 startups:
-  - sndv_maritime
+    - sndv-maritime
 badges:
-  - segur
+    - segur
 competences:
-  - Gestion de Produit
+    - Gestion de Produit
 ---

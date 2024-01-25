@@ -1,4 +1,3 @@
-
 ---
 fullname: Gabriella Araujo
 role: PgM/UXR

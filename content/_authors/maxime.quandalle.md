@@ -10,5 +10,5 @@ missions:
 startups:
 previously:
     - mon-entreprise
-    - aides.jeunes
+    - aides-jeunes
 ---

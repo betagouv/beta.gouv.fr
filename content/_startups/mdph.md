@@ -8,8 +8,9 @@ phases:
   - name: investigation
     start: 2014-12-01
   - name: construction
-    start: 2014-12-01    
+    start: 2014-12-01
   - name: alumni
+    start: 2020-07-24
 link: https://mdphenligne.cnsa.fr
 repository: https://github.com/betagouv/mdph
 stats: true

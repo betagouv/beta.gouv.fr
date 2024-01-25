@@ -19,7 +19,6 @@ startups:
   - delta.v 
   - sppnaut
   - place-des-entreprises
-  - plateforme.impact
   - homologation
   - signaux-faibles
   - mon-entreprise

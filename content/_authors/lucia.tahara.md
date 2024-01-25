@@ -4,12 +4,12 @@ role: coach
 domaine: Coaching
 avatar: /img/authors/lucia-tahara.jpg
 missions:
-  - start: 2023-01-24
-    end: 2024-02-24
-    status: independent
+    - start: 2023-01-24
+      end: 2024-02-24
+      status: independent
 startups:
-  - bat-id
-  - zones.irriguees.et.irrigables
+    - bat-id
+    - zones-irriguees-et-irrigables
 memberType: autre
 ---
 

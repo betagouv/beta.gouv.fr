@@ -32,6 +32,8 @@ phases:
     end: 2022-04-30
   - name: alumni
     start: 2023-12-01
+redirect_from:
+  - /startups/carnet.de.bord
 ---
 
 # 2024 - Pause dans le développement du service numérique 

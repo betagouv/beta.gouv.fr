@@ -13,7 +13,6 @@ missions:
     status: service
     employer: OCTO
 startups:
- - cert-fr
  - homologation
 previously:
  - workinfrance

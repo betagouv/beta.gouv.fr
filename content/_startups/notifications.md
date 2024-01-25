@@ -16,6 +16,7 @@ phases:
   - name: construction
     start: 2022-04-05
   - name: alumni
+    start: 2023-06-23
 usertypes:
   - etat
 ---

@@ -10,7 +10,7 @@ phases:
     start: 2021-04-12
     end: 2021-07-06
   - name: alumni
-    end: 2021-07-06
+    start: 2021-07-06
 events:
   - name: end
     date: 2021-12-31

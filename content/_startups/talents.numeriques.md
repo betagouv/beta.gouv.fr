@@ -11,6 +11,7 @@ phases:
     start: 2021-09-01
     end: 2021-12-31
   - name: alumni
+    start: 2021-10-01
 events:
   - name: end
     date: 2021-10-01

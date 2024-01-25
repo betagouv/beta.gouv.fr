@@ -10,6 +10,5 @@ missions:
     employer: HAIRAPIAN I/O
 startups:
     - potentiel
-previously:
-    - /
+
 ---

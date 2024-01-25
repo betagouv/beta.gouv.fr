@@ -12,7 +12,7 @@ badges:
   - segur
 startups:
   - seves
-  - PhytoPhare
+  - phytophare
 previously:
   - deveco
   - la.communaute.de.linclusion

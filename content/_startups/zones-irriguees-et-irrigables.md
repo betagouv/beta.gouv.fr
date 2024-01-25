@@ -6,6 +6,8 @@ sponsors:
 incubator: fab-geocommuns
 contact: christine.archias@crige-paca.org
 accessibility_status: non conforme
+redirect_from:
+  - /startups/zones.irriguees.et.irrigables
 phases:
   - name: investigation
     start: 2023-09-04

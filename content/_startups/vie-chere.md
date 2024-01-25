@@ -9,6 +9,8 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-05-15
+redirect_from:
+  - /startups/vie.chere
 ---
 ## Contexte
 

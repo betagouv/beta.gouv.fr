@@ -24,14 +24,13 @@ missions:
     status: independent
     employer: Codeurs en Liberté
 startups:
-  - aides.jeunes
+  - aides-jeunes
   - je-deviens-etudiant
-  - tous.a.bord
+  - tous-a-bord
 previously:
   - data-inclusion
   - mes-aides
   - voir-et-localiser
-  - data.insertion
   - rdv-service-public
 badges:
   - segur

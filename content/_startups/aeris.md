@@ -13,6 +13,7 @@ phases:
   - name: construction
     start: 2018-01-01
   - name: alumni
+    start: 2018-12-31
 repository: https://github.com/mtes-mct/aeris
 stats: false
 contact: jacob.carbonel@beta.gouv.fr

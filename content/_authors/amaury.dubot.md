@@ -9,10 +9,10 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - data.insertion
+  - data-inclusion
 previously:
   - signaux-faibles
-  - carnet.de.bord
+  - carnet-de-bord
 badges:
   - segur
 competences:

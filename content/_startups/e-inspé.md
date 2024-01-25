@@ -9,6 +9,7 @@ phases:
   - name: construction
     start: 2020-06-10
   - name: alumni
+    start: 2021-11-15
 usertypes:
   - etablissement-scolaire
 ---

@@ -13,9 +13,8 @@ startups:
   - données-et-territoires
   - umap
 previously:
-  - Aplus
-  - sndv_maritime
-  - Designers transverses
+  - aplus
+  - sndv-maritime
 badges:
   - segur
 competences:

@@ -1,0 +1,13 @@
+{
+    "name": "ci",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "gray-matter": "^4.0.3",
+        "zod": "^3.22.4"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.6"
+    }
+}

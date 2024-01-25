@@ -24,6 +24,8 @@ phases:
   - name: acceleration
     start: 2022-09-20
 analyse_risques: true
+redirect_from:
+  - /startups/sndv_maritime
 ---
 ## Contexte
 

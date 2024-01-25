@@ -11,6 +11,7 @@ phases:
   - name: construction
     start: 2021-05-16
   - name: alumni
+    start: 2023-06-23
 contact: contact@metiers.numerique.gouv.fr
 link: https://metiers.numerique.gouv.fr
 repository: https://github.com/betagouv/metiers-numeriques

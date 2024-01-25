@@ -13,6 +13,7 @@ phases:
   - name: construction
     start: 2016-06-08
   - name: alumni
+    start: 2018-01-01
 link: https://ogptoolbox.org/
 repository: https://github.com/ogptoolbox/ogptoolbox-ui
 stats: false

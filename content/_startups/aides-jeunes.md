@@ -10,6 +10,8 @@ contact: aides-jeunes@beta.gouv.fr
 accessibility_status: partiellement conforme
 usertypes:
   - particulier
+redirect_from:
+  - /startups/aides.jeunes
 stats: true
 budget_url: https://beta-gouv-fr-budget.netlify.app/?budget=800000&date=2022-07-13&start=2021-03-15&startup=Aides+Jeunes&startupId=aides.jeunes
 dashlord_url: https://dashlord.incubateur.net/url/mes-aides-1jeune1solution-beta-gouv-fr/
