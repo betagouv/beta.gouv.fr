@@ -52,7 +52,7 @@ Pour construire des services accessibles, l’incubateur dispose des ressources 
 <span id="referent"></span>
 ### Référent accessibilité numérique
 
-L’élaboration, le suivi et la mise à jour de ce schéma pluriannuel sont placés sous la responsabilité de la personne référente en accessibilité numérique. Iel peut être contacté à l’adresse accessibilite@beta.gouv.fr.
+L’élaboration, le suivi et la mise à jour de ce schéma pluriannuel sont placés sous la responsabilité de la personne référente en accessibilité numérique. Elle peut être contacté à l’adresse accessibilite@beta.gouv.fr.
 
 Sa mission est :
 - de promouvoir l’accessibilité par la diffusion des normes et des bonnes pratiques,
