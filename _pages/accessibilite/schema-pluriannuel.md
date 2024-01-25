@@ -66,7 +66,7 @@ Pour réaliser ces missions, le référent accessibilité peut s’appuyer sur u
 <span id="pni"></span>
 ### Pôle numérique inclusif
 
-beta.gouv.fr met à disposition un Pôle Numérique Inclusif. C’est un pôle d’expertise transverse qui s’adresse aux équipes à l'œuvre.
+Le département de l'Incubateur de Services Numériques de la DINUM met à disposition un Pôle Numérique Inclusif. C’est un pôle d’expertise transverse qui s’adresse aux équipes à l'œuvre.
 
 En 2023, le PNI comporte 3 personnes à temps partiel, expertes en accessibilité pluridisciplinaires (UX, dev, accompagnement…).
 
