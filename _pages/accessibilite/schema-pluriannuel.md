@@ -23,6 +23,7 @@ beta.gouv.fr gère en interne les produits suivants :
 - Le **site beta.gouv.fr**
 - L’**espace membre** (intranet)
 - Le site **[EIG](https://www.eig.numerique.gouv.fr/)**
+- Le site **[Accélérateur d'initiatives citoyennes](https://communs.beta.gouv.fr/)**
 - Le tableau de bord **[Dashlord](https://dashlord.incubateur.net/)**
 
 Nous sommes aussi responsables de nos publications sur les réseaux sociaux (LinkedIn), dans notre newsletter et sur notre [espace de documentation](https://doc.incubateur.net).
