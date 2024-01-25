@@ -51,5 +51,4 @@ La mise en place d’une plate-forme communautaire de services destinée à l'en
 - la valorisation des projets des EEs (en lien avec [PEPITE France](http://www.pepite-france.fr/)),
 - une mise en réseau des encadrants (tuteurs académiques et praticiens).
 
-
 Le service est construit de façon itérative en le confrontant systématiquement à ses utilisateurs afin de prioriser les améliorations en fonction de leurs attentes.

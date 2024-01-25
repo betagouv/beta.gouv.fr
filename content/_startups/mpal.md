@@ -12,7 +12,7 @@ phases:
   - name: alumni
     start: 2020-07-24
 link: https://monprojet.anah.gouv.fr/
-repository: 
+repository:
 stats: true
 contact: contact@anah.beta.gouv.fr
 ---

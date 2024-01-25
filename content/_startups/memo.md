@@ -2,7 +2,7 @@
 title: Memo
 mission: Visualiser ses candidatures Pôle emploi en un clin d'oeil
 sponsors:
-    - /organisations/pole-emploi
+  - /organisations/pole-emploi
 incubator: pole-emploi
 phases:
   - name: investigation

@@ -3,19 +3,19 @@ fullname: Audrey Guillon
 domaine: Déploiement
 role: Chargée de déploiement
 missions:
-    - start: 2022-01-03
-      end: 2024-06-28
-      status: independent
-      employer: ""
+  - start: 2022-01-03
+    end: 2024-06-28
+    status: independent
+    employer: ""
 incubator: ""
 startups:
-    - sndv-maritime
+  - sndv-maritime
 previously:
-    - monpsy
+  - monpsy
 badges:
-    - segur
+  - segur
 competences:
-    - Administration Publique
-    - Communication
-    - Croissance
+  - Administration Publique
+  - Communication
+  - Croissance
 ---

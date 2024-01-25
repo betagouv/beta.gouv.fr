@@ -4,17 +4,17 @@ role: Développeuse web
 domaine: Développement
 github: mjeammet
 missions:
-    - start: 2022-09-05
-      end: 2026-12-31
-      status: admin
-      employer: DINUM
+  - start: 2022-09-05
+    end: 2026-12-31
+    status: admin
+    employer: DINUM
 startups:
-    - suite-numerique
+  - suite-numerique
 previously:
-    - cnr
-    - tous-a-bord
+  - cnr
+  - tous-a-bord
 badges:
-    - segur
+  - segur
 ---
 
 Développeuse web. À quand les justices sociales et climatiques ?

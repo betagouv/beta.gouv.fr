@@ -4,16 +4,16 @@ domaine: Produit
 role: Experte en simplicité
 github: lkouad
 missions:
-    - start: 2021-05-18
-      end: 2024-12-29
-      status: admin
-      employer: Gip plateforme de l'inclusion
+  - start: 2021-05-18
+    end: 2024-12-29
+    status: admin
+    employer: Gip plateforme de l'inclusion
 incubator: gip-inclusion
 previously:
-    - carnet-de-bord
-    - mon-recap
+  - carnet-de-bord
+  - mon-recap
 competences:
-    - Gestion de Produit
+  - Gestion de Produit
 ---
 
 Aider à maximiser l' impact positif du numérique sur la société

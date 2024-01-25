@@ -5,14 +5,14 @@ domaine: Développement
 link: https://vincent.jousse.org
 github: vjousse
 missions:
-    - start: 2021-12-06
-      end: 2024-03-31
-      status: independent
-      employer: Octo
+  - start: 2021-12-06
+    end: 2024-03-31
+    status: independent
+    employer: Octo
 startups:
-    - carnet-de-bord
-    - inclusion.connect
-    - itou
+  - carnet-de-bord
+  - inclusion.connect
+  - itou
 ---
 
 ''

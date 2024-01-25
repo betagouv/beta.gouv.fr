@@ -4,12 +4,12 @@ role: Développeur fullstack
 domaine: Développement
 github: arturlg
 missions:
-    - start: 2023-12-04
-      end: 2024-03-04
-      status: service
-      employer: LeGratin
+  - start: 2023-12-04
+    end: 2024-03-04
+    status: service
+    employer: LeGratin
 startups:
-    - egalite-professionnelle
+  - egalite-professionnelle
 memberType: beta
 ---
 

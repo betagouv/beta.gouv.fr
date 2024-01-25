@@ -29,4 +29,5 @@ previously:
 competences:
   - Développement Full-Stack
 ---
+
 En quête de sens numérique

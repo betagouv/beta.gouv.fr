@@ -11,7 +11,7 @@ phases:
     start: 2015-01-01
   - name: alumni
     start: 2021-09-01
-events: 
+events:
   - name: end
     date: 2021-09-01
 link: https://geo.data.gouv.fr

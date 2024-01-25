@@ -5,12 +5,12 @@ domaine: Développement
 link: https://www.linkedin.com/in/jonathan-perrault-884a5257/
 github: jonat75
 missions:
-    - start: 2023-10-30
-      end: 2024-03-01
-      status: independent
-      employer: Le Gratin
+  - start: 2023-10-30
+    end: 2024-03-01
+    status: independent
+    employer: Le Gratin
 startups:
-    - egalite-professionnelle
+  - egalite-professionnelle
 memberType: beta
 ---
 

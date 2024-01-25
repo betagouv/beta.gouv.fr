@@ -26,4 +26,5 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
+
 Insatiable Curieux

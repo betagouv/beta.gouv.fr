@@ -27,12 +27,13 @@ En 2017, 105.000 candidats ont été évalués par simulation, 67.000 validés e
 
 Malgré un processus de recrutement lourd, ils ne bénéficient d’aucune autre proposition d’emploi qui corresponde à ces aptitudes validées.
 
-## Boostez vos opportunités ##
+## Boostez vos opportunités
+
 Vous avez été validé par la méthode de recrutement par simulation Pôle emploi (MRS) et vous êtes toujours disponible ?
+
 - bénéficiez d’une mise en relation avec des employeurs prêts à vous former
 - recevez des propositions de formations qualifiantes ou certifiantes gratuites
 - augmentez vos possibilités et sélectionnez d’autres métiers évalués
-
 
 **Fini la méthode de recrutement par simulation, sans nouvelles opportunités.**
 

@@ -13,13 +13,10 @@ missions:
     status: service
     employer: OCTO
 startups:
- - homologation
+  - homologation
 previously:
- - workinfrance
- - e-mjpm
+  - workinfrance
+  - e-mjpm
 ---
 
 Harder Better Faster Stronger.
-
-
-

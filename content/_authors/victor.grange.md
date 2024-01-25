@@ -3,16 +3,16 @@ fullname: Victor Grange
 domaine: Coaching
 role: Coach
 missions:
-    - start: 2021-04-22
-      end: 2024-05-29
-      status: independent
-      employer: Numa
+  - start: 2021-04-22
+    end: 2024-05-29
+    status: independent
+    employer: Numa
 startups:
-    - sndv-maritime
+  - sndv-maritime
 competences:
-    - Coaching
+  - Coaching
 previously:
-    - sndv-maritime
+  - sndv-maritime
 ---
 
 Entrepreneur au service de l'impact - Auteur Documentaire

@@ -5,16 +5,16 @@ role: Intrapreneur
 github: charrier
 link: https://twitter.com/PH_CHARRIER
 missions:
-    - start: 2021-04-16
-      end: 2023-03-30
-      status: admin
-      employer: Ministère de l'intérieur
+  - start: 2021-04-16
+    end: 2023-03-30
+    status: admin
+    employer: Ministère de l'intérieur
 startups:
-    - sndv-maritime
+  - sndv-maritime
 badges:
-    - segur
+  - segur
 competences:
-    - Administration Publique
+  - Administration Publique
 ---
 
 Intrapreneur sur le domaine régalien

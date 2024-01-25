@@ -5,11 +5,11 @@ domaine: Design
 link: https://yaal.coop
 github: funelie
 missions:
-    - start: 2023-08-01
-      end: 2024-06-30
-      status: service
+  - start: 2023-08-01
+    end: 2024-06-30
+    status: service
 startups:
-    - portail-rse
+  - portail-rse
 memberType: beta
 ---
 

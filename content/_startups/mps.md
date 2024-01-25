@@ -10,7 +10,7 @@ phases:
   - name: construction
     start: 2014-01-01
   - name: alumni
-    start: 2020-07-24 
+    start: 2020-07-24
 link: https://mps.apientreprise.fr
 repository:
 stats: true

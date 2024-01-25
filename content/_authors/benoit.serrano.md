@@ -4,16 +4,16 @@ role: Développeur
 domaine: Développement
 github: BenoitSerrano
 missions:
-    - start: 2022-03-14
-      end: 2026-10-30
-      status: admin
-      employer: DINUM
+  - start: 2022-03-14
+    end: 2026-10-30
+    status: admin
+    employer: DINUM
 badges:
-    - segur
+  - segur
 startups:
-    - notifications
+  - notifications
 previously:
-    - tous-a-bord
+  - tous-a-bord
 ---
 
 Développeur JS, passion cybersécurité

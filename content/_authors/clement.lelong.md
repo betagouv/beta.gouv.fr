@@ -4,17 +4,17 @@ domaine: Développement
 role: Développeur
 github: clementnumericite
 missions:
-    - start: 2021-03-16
-      end: 2021-05-15
-      status: independent
-      employer: Octo
+  - start: 2021-03-16
+    end: 2021-05-15
+    status: independent
+    employer: Octo
 startups:
-    - tumeplay
+  - tumeplay
 previously:
-    - aides-jeunes
+  - aides-jeunes
 competences:
-    - Développement Frontend
-    - Développement Backend
+  - Développement Frontend
+  - Développement Backend
 ---
 
 Développeur fullstack au service du bien commun

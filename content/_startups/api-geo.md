@@ -1,8 +1,8 @@
 ---
 title: API Géo
 mission: Interroger les référentiels géographiques plus facilement
-sponsors: 
-    - /organisations/dinum
+sponsors:
+  - /organisations/dinum
 incubator: dinum_produits_interministeriels
 phases:
   - name: investigation

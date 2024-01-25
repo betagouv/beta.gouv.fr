@@ -9,6 +9,5 @@ missions:
     status: independent
     employer: HAIRAPIAN I/O
 startups:
-    - potentiel
-
+  - potentiel
 ---

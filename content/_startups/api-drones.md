@@ -1,8 +1,8 @@
 ---
 title: API Drones
 mission: Améliorer la connaissance du ciel pour plus de sécurité et d'innovation
-sponsors: 
-    - /organisations/sgdsn
+sponsors:
+  - /organisations/sgdsn
 incubator: dinum
 events:
   - name: end

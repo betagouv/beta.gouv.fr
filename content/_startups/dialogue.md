@@ -17,12 +17,11 @@ phases:
     end: 2022-10-18
   - name: construction
     start: 2022-10-18
-
 ---
 
 DiaLog
 
-## Le problème 
+## Le problème
 
 Aujourd’hui, les chauffeurs de poids lourds sont quotidiennement confrontés à des difficultés dans la planification de leurs trajets. **Pour les poids lourds, connaître leurs conditions de circulation ou de stationnement est difficile.**
 
@@ -31,7 +30,7 @@ Pourtant, ces réglementations de circulation sont primordiales pour :
 - **La bonne circulation des poids lourds** (véhicules de secours, approvisionnement de marchandises…).
 - **La sécurité du public** et **la préservation des infrastructures routière.**
 
-Pour tenter de résoudre ce problème, **Dialog permet aux administrations de numériser ces règles.** La réglementation peut ainsi être diffusée aux *services de calculs d’itinéraires* (GPS).
+Pour tenter de résoudre ce problème, **Dialog permet aux administrations de numériser ces règles.** La réglementation peut ainsi être diffusée aux _services de calculs d’itinéraires_ (GPS).
 
 ## La solution
 

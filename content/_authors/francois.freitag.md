@@ -4,15 +4,15 @@ role: Développeur
 domaine: Développement
 github: francoisfreitag
 missions:
-    - start: 2022-09-05
-      end: 2024-06-05
-      status: independent
-      employer: Malt
+  - start: 2022-09-05
+    end: 2024-06-05
+    status: independent
+    employer: Malt
 startups:
-    - itou
+  - itou
 previously:
-    - carnet-de-bord
-    - inclusion.connect
+  - carnet-de-bord
+  - inclusion.connect
 ---
 
 Développeur avec un faible pour le Python 🐍.
