@@ -11,7 +11,7 @@ repository: https://github.com/StartupsPoleEmploi/estime-frontend
 contact: annie.compa@pole-emploi.fr
 usertypes:
   - particulier
-stats: true
+stats: false
 events:
   - name: product_launch
     date: 2021-01-07
@@ -31,7 +31,7 @@ phases:
     start: 2022-12-30
   - name: success
     start: 2023-01-19
-stats_url: https://candidat.pole-emploi.fr/simucalculreprise/stats
+# stats_url: https://candidat.pole-emploi.fr/simucalculreprise/stats
 accessibility_status: non conforme
 ---
 **Problème**
