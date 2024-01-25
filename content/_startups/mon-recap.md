@@ -23,8 +23,6 @@ Parmi eux, des acteurs dits “de proximité” tels que la famille, les amis, l
 
 D﻿e fait, une multitude d'acteurs interviennent dans la résolution d'une problématique. 
 
-Ces « aiguilleurs» maintiennent une continuité des actions de terrain entreprises au quotidien par une personne en insertion.
-
 ## Le problème
 
 34 % des personnes éloignées de l'emploi qui ont droit à un accompagnement à la levée des freins périphériques à l'emploi ou à une aide sociale y renoncent.
@@ -34,10 +32,18 @@ Parmi eux, 89% sont en situation de non-recours subi, de non-orientation ou de n
 ## Notre service
 
 Mettre à disposition des personnes en difficulté d’insertion socio-professionnelle un carnet de note, Mon Recap, qui leur permet :
+
 -﻿ de s'organiser dans leurs demandes d'aides ou de conseils ;
+
 -﻿ de conserver les échanges des intervenants qui les accompagnent ;
+
 -﻿ de rendre leurs démarches plus simples et efficaces ;
+
 -﻿ de trouver des solutions à leur problème.
+
+
+**Si vous accompagnez des personnes susceptibles d'utiliser des carnets, [découvrez notre site](https://mon-recap.fr/) ou [commandez gratuitement des carnets](https://tally.so/r/mRMDWl?reseau=0&source=site={{contact.EMAIL}})**
+
 
 L’expérimentation sera considérée réussie si :
 
