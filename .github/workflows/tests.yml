@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
     - uses: actions/checkout@v2
+
+    - name: Lint markdown pages
+      run: yarn --cwd=ci && node ci/tests-fiches.mjs
+
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
@@ -61,9 +65,6 @@ jobs:
 
     - name: Lint JSON API pages
       run: bundle exec jsonlint _site/api/v*/*.json
-
-    - name: Lint markdown pages
-      run: yarn --cwd=ci && node ci/tests-fiches.mjs
 
     - name: Wait for server to start
       run: |
