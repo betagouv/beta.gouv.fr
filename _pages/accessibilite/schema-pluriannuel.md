@@ -17,7 +17,7 @@ Ce document présente la **politique d’accessibilité de beta.gouv.fr**, pour 
 beta.gouv.fr est à la fois une structure, un incubateur et un réseau d’incubateurs. Notre stratégie de mise en accessibilité varie selon le périmètre concerné :
 
 <span id="perimetre1"></span>
-### Produits internes à la structure beta.gouv.fr
+### Produits internes à beta.gouv.fr
 
 beta.gouv.fr gère en interne les produits suivants :
 - Le **site beta.gouv.fr**
@@ -29,9 +29,9 @@ beta.gouv.fr gère en interne les produits suivants :
 Nous sommes aussi responsables de nos publications sur les réseaux sociaux (LinkedIn), dans notre newsletter et sur notre [espace de documentation](https://doc.incubateur.net).
 
 <span id="perimetre2"></span>
-### Produits incubés à l’Incubateur DINUM de beta.gouv.fr
+### Produits accompagnés à l’Incubateur DINUM de beta.gouv.fr
 
-En plus des outils internes, nous incubons un petit nombre de services publics numériques. La [liste des produits concernés](https://beta.gouv.fr/startups/?incubateur=dinum) est détaillée sur le site. Début 2024, ce périmètre concerne environ 20 produits.
+En plus des outils internes, nous accompagnons un petit nombre de services publics numériques. La [liste des produits concernés](https://beta.gouv.fr/startups/?incubateur=dinum) est détaillée sur le site. Début 2024, ce périmètre concerne environ 20 produits.
 
 <span id="perimetre3"></span>
 ### Produits incubés dans le réseau beta.gouv.fr
