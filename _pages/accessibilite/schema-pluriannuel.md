@@ -17,19 +17,21 @@ Ce document présente la **politique d’accessibilité de beta.gouv.fr**, pour 
 beta.gouv.fr est à la fois une structure, un incubateur et un réseau d’incubateurs. Notre stratégie de mise en accessibilité varie selon le périmètre concerné :
 
 <span id="perimetre1"></span>
-### Produits internes à la structure beta.gouv.fr
+### Produits internes à beta.gouv.fr
 
 beta.gouv.fr gère en interne les produits suivants :
 - Le **site beta.gouv.fr**
 - L’**espace membre** (intranet)
 - Le site **[EIG](https://www.eig.numerique.gouv.fr/)**
+- Le site **[Accélérateur d'initiatives citoyennes](https://communs.beta.gouv.fr/)**
+- Le tableau de bord **[Dashlord](https://dashlord.incubateur.net/)**
 
 Nous sommes aussi responsables de nos publications sur les réseaux sociaux (LinkedIn), dans notre newsletter et sur notre [espace de documentation](https://doc.incubateur.net).
 
 <span id="perimetre2"></span>
-### Produits incubés à l’Incubateur DINUM de beta.gouv.fr
+### Produits accompagnés à l’Incubateur DINUM de beta.gouv.fr
 
-En plus des outils internes, nous incubons un petit nombre de services publics numériques. La [liste des produits concernés](https://beta.gouv.fr/startups/?incubateur=dinum) est détaillée sur le site. Début 2024, ce périmètre concerne environ 20 produits.
+En plus des outils internes, nous accompagnons un petit nombre de services publics numériques. La [liste des produits concernés](https://beta.gouv.fr/startups/?incubateur=dinum) est détaillée sur le site. Début 2024, ce périmètre concerne environ 20 produits.
 
 <span id="perimetre3"></span>
 ### Produits incubés dans le réseau beta.gouv.fr
@@ -51,7 +53,7 @@ Pour construire des services accessibles, l’incubateur dispose des ressources 
 <span id="referent"></span>
 ### Référent accessibilité numérique
 
-L’élaboration, le suivi et la mise à jour de ce schéma pluriannuel sont placés sous la responsabilité de la personne référente en accessibilité numérique. Iel peut être contacté à l’adresse accessibilite@beta.gouv.fr.
+L’élaboration, le suivi et la mise à jour de ce schéma pluriannuel sont placés sous la responsabilité de la personne référente en accessibilité numérique. Elle peut être contacté à l’adresse accessibilite@beta.gouv.fr.
 
 Sa mission est :
 - de promouvoir l’accessibilité par la diffusion des normes et des bonnes pratiques,
@@ -64,7 +66,7 @@ Pour réaliser ces missions, le référent accessibilité peut s’appuyer sur u
 <span id="pni"></span>
 ### Pôle numérique inclusif
 
-beta.gouv.fr met à disposition un Pôle Numérique Inclusif. C’est un pôle d’expertise transverse qui s’adresse aux équipes à l'œuvre.
+Le département de l'Incubateur de Services Numériques de la DINUM met à disposition un Pôle Numérique Inclusif. C’est un pôle d’expertise transverse qui s’adresse aux équipes à l'œuvre.
 
 En 2023, le PNI comporte 3 personnes à temps partiel, expertes en accessibilité pluridisciplinaires (UX, dev, accompagnement…).
 
