@@ -9,12 +9,11 @@ missions:
     end: 2024-12-31
     status: service
     employer: NUMA
-startups:
-  - locatio
 previously:
   - kelrisks
   - a-dock
   - camino
+  - locatio
 competences:
   - Gestion de Produit
   - Coaching
