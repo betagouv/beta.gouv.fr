@@ -1,17 +1,18 @@
 ---
 title: Mon Suivi Justice
-link: https://mon-suivi-justice.beta.gouv.fr/
-mission: >-
-  Diminuer les rendez-vous non-honorés des personnes placées sous main de
-  justice
+mission: Diminuer les convocations non-honorées des personnes placées sous main
+  de justice
 sponsors:
   - /organisations/mj
 incubator: justice
+link: https://mon-suivi-justice.beta.gouv.fr/
 repository: https://github.com/betagouv/mon-suivi-justice
 contact: contact@mon-suivi-justice.beta.gouv.fr
-stats_url: >-
-  https://msj-metabase.osc-secnum-fr1.scalingo.io/dashboard/25-page-de-statistiques-globale-publiques
 stats: true
+budget_url: https://docs.google.com/spreadsheets/d/187hUwlMWpBbPxIZkDGTRRqunXogEUZ0Pd3EHldbeELY/edit?usp=sharing
+analyse_risques: true
+accessibility_status: non conforme
+stats_url: https://msj-metabase.osc-secnum-fr1.scalingo.io/dashboard/25-page-de-statistiques-globale-publiques
 events:
   - name: product_launch
     date: 2021-05-07
@@ -28,8 +29,6 @@ phases:
 fast:
   promotion: 12
   montant: 30000
-accessibility_status: non conforme
-analyse_risques: true
 ---
 # **Éléments de contexte**
 
