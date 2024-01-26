@@ -1,6 +1,6 @@
 ---
 fullname: Magali Migeon
-role: Intrapreneuse
+role: Intrapreneuse AIGLE
 domaine: Animation
 missions:
   - start: 2023-04-24
