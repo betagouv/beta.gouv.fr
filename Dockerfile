@@ -1,6 +1,6 @@
-FROM ruby:3.2.2
+FROM ruby:3.2.3-slim
 
-RUN apt-get update && apt-get install -y --no-install-recommends nodejs npm
+RUN apt-get update && apt-get install -y --no-install-recommends nodejs npm build-essential
 
 # minimise rebuilds by isolating Bundler and its files
 WORKDIR /bundler
