@@ -8,10 +8,10 @@ title: France Nation Verte / Agir
 contact: agir@beta.gouv.fr
 accessibility_status: partiellement conforme
 phases:
+  - name: investigation
+    start: 2023-02-01
   - name: construction
     start: 2023-06-01
-  - start: 2023-02-01
-    name: investigation
 ---
 ## Contexte
 
