@@ -4,8 +4,6 @@ mission: >-
   Accompagner les citoyens de manière personnalisée dans la transition
   écologique
 incubator: dinum
-sponsors:
-  - /organisations/sgpe
 title: France Nation Verte / Agir
 contact: agir@beta.gouv.fr
 accessibility_status: partiellement conforme
