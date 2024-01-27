@@ -15,7 +15,7 @@ phases:
 ---
 ## Contexte
 
-Le Secrétariat Général à la Planification Ecologique (SGPE) souhaite accompagner les citoyens dans la transition écologique pour leur proposer des solutions concrètes et évolutives.
+Le Secrétariat Général à la Planification Écologique (SGPE) souhaite accompagner les citoyens dans la transition écologique pour leur proposer des solutions concrètes et évolutives.
 
 
 ## Problème
@@ -24,7 +24,7 @@ La transition écologique est là et touche tous les pans de la vie des citoyens
 Complexe et diffuse, elle pose des problèmes concrets en matière d'alimentation, de logement, de consommation, de mobilité et plus généralement de préservation du vivant.
 
 Principaux problèmes identifiés :
-- complexité et diveristé des sujets ;
+- complexité et diversité des sujets ;
 - multiplicité des sources, parfois contradictoires ;
 - tonalité anxiogène voire conflictuelle ;
 - manque d'adaptation des solutions à la diversité des réalités.
@@ -32,7 +32,7 @@ Principaux problèmes identifiés :
 
 ## Solution
 
-Accompagner chaque citoyen de manière ludique, en partant de ses contraintes, ses usages, ses moyens, ses envies pour lui proposer les solutions les plus personnalisées possible, et lui permettre de s'informer et d'avancer à son rythme.
+Accompagner chaque citoyen de manière ludique, en partant de ses contraintes, ses usages, ses moyens, ses envies pour lui proposer les solutions les plus personnalisées possibles, et lui permettre de s'informer et d'avancer à son rythme.
 
 ## Stratégie
 
