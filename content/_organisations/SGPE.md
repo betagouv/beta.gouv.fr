@@ -1,6 +1,6 @@
 ---
-name: Secréatriat Général à la Planification Ecologique
-domaine_ministeriel: 'spm # Service du premier ministre'
+name: Secrétariat Général à la Planification Écologique
+domaine_ministeriel: spm
 type: administration-centrale
 acronym: SGPE
 ---
