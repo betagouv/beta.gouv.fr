@@ -6,6 +6,7 @@ sponsors:
   - /organisations/dinum
   - /organisations/ademe
 incubator: dinum
+contact: dinum@beta.gouv.fr
 repository: https://github.com/betagouv/agir-back
 stats: false
 usertypes:
