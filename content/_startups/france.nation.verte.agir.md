@@ -7,8 +7,6 @@ incubator: dinum
 title: France Nation Verte / Agir
 contact: agir@beta.gouv.fr
 accessibility_status: partiellement conforme
-sponsors:
-  - /organisations/SGPE
 phases:
   - name: construction
     start: 2023-06-01
