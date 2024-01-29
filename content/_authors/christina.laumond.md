@@ -5,10 +5,10 @@ domaine: Déploiement
 github: ChristinaLaumond
 missions:
   - start: 2022-03-07
-    end: 2024-03-30
+    end: 2024-01-31
     status: independent
     employer: ''
-startups:
+previously:
   - transport
 badges:
   - segur
