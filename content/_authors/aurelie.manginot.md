@@ -1,7 +1,7 @@
 ---
 fullname: Aurélie Manginot
 domaine: Coaching
-role: Coach Start up d'Etat
+role: 'Coach Start up d&#39;Etat '
 github: liliginot
 missions:
   - start: 2022-08-30
