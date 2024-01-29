@@ -11,9 +11,8 @@ phases:
   - name: construction
     start: 2019-03-13
   - name: acceleration
-    start: 2021-01-01
-  - name : success
-    start: 2023-06-02
+    start: 2021-03-15
+ 
 link: https://aidantsconnect.beta.gouv.fr
 repository: https://github.com/betagouv/Aidants_Connect
 stats: true

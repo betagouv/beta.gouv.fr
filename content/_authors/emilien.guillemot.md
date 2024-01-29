@@ -1,6 +1,6 @@
 ---
 fullname: Emilien Guillemot
-role: Chargé de déploiement
+role: Chargé des relations extérieures
 github: EmilienGuillemot
 domaine: Déploiement
 missions:

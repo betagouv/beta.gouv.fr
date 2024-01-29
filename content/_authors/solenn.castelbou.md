@@ -1,6 +1,6 @@
 ---
 fullname: Solenn Castelbou
-role: Product Owner
+role: Product Manager
 domaine: Produit
 github: Solenn0806
 missions:
