@@ -27,9 +27,6 @@ phases:
     end: 2022-03-31
   - name: acceleration
     start: 2022-04-01
-  - name: transfer
-    start: 2023-10-03
-    comment: En cours de transfert
 fast:
   promotion: 12
   montant: 30000
