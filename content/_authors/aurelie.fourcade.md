@@ -5,14 +5,14 @@ domaine: Produit
 github: aufavart
 missions:
   - start: 2021-05-20
-    end: 2024-02-29
+    end: 2024-03-31
     status: service
-    employer: performus
+    employer: free
 startups:
-  - reva
+  - France VAE
 previously:
   - pix
   - monstage
 ---
 
-Product Owner / Manager 
+Product Manager
