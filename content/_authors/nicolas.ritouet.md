@@ -6,13 +6,12 @@ link: https://nicolas.ritouet.com/
 github: NicolasRitouet
 missions:
   - start: 2023-05-02
-    end: 2024-02-29
+    end: 2024-04-29
     status: independent
     employer: Incubateur des territoires
 memberType: beta
 teams:
   - /teams/anct
-
 ---
 
 Développeur engagé, facilitateur engageant, créateur d'impact, leadership empathique, mentorat bienveillant.
