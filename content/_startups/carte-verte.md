@@ -18,6 +18,7 @@ analyse_risques_url: https://github.com/incubateur-ademe/carte-verte/blob/main/S
 phases:
   - name: investigation
     start: 2023-01-03
+    end: 2023-10-13
   - name: construction
     start: 2023-10-13
 techno:
