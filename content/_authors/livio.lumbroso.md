@@ -5,14 +5,14 @@ role: Coach
 github: LivioLumbroso
 link: https://www.linkedin.com/in/liviolumbroso/
 missions:
-  - start: 2023-12-30
-    end: 2024-12-29
-    status: admin
-    employer: dinum
   - start: 2020-11-16
     end: 2023-12-29
     status: independent
     employer: numa
+  - start: 2023-12-30
+    end: 2024-12-29
+    status: admin
+    employer: dinum
 startups:
   - ecobalyse
   - france.nation.verte.agir
