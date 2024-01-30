@@ -1,7 +1,7 @@
 ---
 fullname: Xavier RENAUDIN
 role: Développeur
-domaine: Déploiement
+domaine: Développement
 missions:
   - start: 2024-01-29
     end: 2024-07-29
