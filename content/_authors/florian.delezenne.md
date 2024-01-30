@@ -9,7 +9,7 @@ missions:
     end: 2017-06-01
     status: service
   - start: 2017-06-01
-    end: 2024-02-15
+    end: 2027-02-15
     employer: dinum
     status: admin
 startups:
