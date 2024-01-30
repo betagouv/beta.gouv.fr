@@ -1,6 +1,6 @@
 ---
 title: France Nation Verte / Agir
-mission:
+mission: >-
   Accompagner les citoyens de manière personnalisée dans la transition
   écologique
 sponsors:
