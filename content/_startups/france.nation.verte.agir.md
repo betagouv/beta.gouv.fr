@@ -9,6 +9,7 @@ incubator: dinum
 link: https://agir.beta.gouv.fr
 contact: agir@beta.gouv.fr
 accessibility_status: partiellement conforme
+repository: https://github.com/betagouv/agir-back
 phases:
   - name: investigation
     start: 2023-02-01
