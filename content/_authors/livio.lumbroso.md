@@ -1,7 +1,7 @@
 ---
 fullname: Livio Lumbroso
 domaine: Coaching
-role: Coach
+role: Intra/Coach
 github: LivioLumbroso
 link: https://www.linkedin.com/in/liviolumbroso/
 missions:

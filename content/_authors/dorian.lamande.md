@@ -9,5 +9,7 @@ missions:
     status: service
     employer: OCTO
 memberType: autre
+startups:
+  - france.nation.verte.agir
 ---
 
