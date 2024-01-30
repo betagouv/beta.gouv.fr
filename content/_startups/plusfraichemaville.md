@@ -5,16 +5,16 @@ mission: >-
 sponsors:
   - /organisations/ademe
 incubator: ademe
-contact: elodie.briche@ademe.fr
+contact: plusfraichemaville@ademe.fr
 link: https://plusfraichemaville.fr/
 repository: https://github.com/incubateur-ademe/plusfraichemaville-site
 accessibility_status: non conforme
 dashlord_url: https://incubateur-ademe.github.io/dashlord/url/plusfraichemaville-fr/
 stats: true
 stats_url: https://plusfraichemaville.fr/stats
-# budget_url: https://plusfraichemaville.fr/budget
+budget_url: https://plusfraichemaville.fr/budget
 analyse_risques: false
-# analyse_risques_url: https://github.com/incubateur-ademe/plusfraichemaville-site/blob/main/SECURITY.md
+analyse_risques_url: https://github.com/incubateur-ademe/plusfraichemaville-site/blob/main/SECURITY.md
 phases:
   - name: investigation
     start: 2022-06-15
