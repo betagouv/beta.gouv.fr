@@ -8,7 +8,7 @@ title: France Nation Verte / Agir
 contact: agir@beta.gouv.fr
 accessibility_status: partiellement conforme
 sponsors:
-  - /organisations/SGPE
+  - /organisations/sgpe
 phases:
   - name: investigation
     start: 2023-02-01
