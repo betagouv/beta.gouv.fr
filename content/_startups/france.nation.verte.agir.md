@@ -1,12 +1,12 @@
 ---
-link: https://agir.beta.gouv.fr
-mission: >-
+title: France Nation Verte / Agir
+mission:
   Accompagner les citoyens de manière personnalisée dans la transition
   écologique
 sponsors:
   - /organisations/sgpe
 incubator: dinum
-title: France Nation Verte / Agir
+link: https://agir.beta.gouv.fr
 contact: agir@beta.gouv.fr
 accessibility_status: partiellement conforme
 phases:
