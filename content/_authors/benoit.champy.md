@@ -11,6 +11,8 @@ missions:
     employer: DINUM
 startups:
   - pass-sport
+  - france.nation.verte.agir
+  - acceslibre
 badges:
   - segur
 competences:
