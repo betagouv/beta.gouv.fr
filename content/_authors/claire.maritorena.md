@@ -8,6 +8,8 @@ missions:
     status: independent
     employer: Malt
 memberType: beta
+startups:
+  - france.nation.verte.agir
 ---
 
 Contenus  Partenariats
