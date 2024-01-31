@@ -9,7 +9,7 @@ missions:
     status: service
     employer: free
 startups:
-  - france-vae
+  - reva
 previously:
   - pix
   - monstage
