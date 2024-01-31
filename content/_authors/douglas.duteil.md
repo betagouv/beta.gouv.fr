@@ -6,7 +6,7 @@ link:
 github: douglasduteil
 missions:
   - start: 2023-10-23
-    end: 2024-02-29
+    end: 2024-12-31
     status: independent
     employer: DINUM
   - start: 2018-10-01
