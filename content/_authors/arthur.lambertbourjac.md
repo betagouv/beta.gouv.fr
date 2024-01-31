@@ -5,7 +5,7 @@ domaine: Développement
 github: arthurlbrjc
 missions:
   - start: 2021-11-05
-    end: 2024-02-29
+    end: 2024-08-30
     status: service
     employer: OCTO Technology
 startups:

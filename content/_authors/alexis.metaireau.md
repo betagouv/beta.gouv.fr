@@ -1,12 +1,12 @@
 ---
 fullname: Alexis Métaireau
-role: Développeur
+role: Software Designer
 domaine: Développement
 link: https://blog.notmyidea.org
 github: almet
 missions:
   - start: 2023-11-05
-    end: 2024-02-29
+    end: 2024-12-31
     status: independent
     employer: Scopyleft
 startups:
