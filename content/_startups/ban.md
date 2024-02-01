@@ -15,7 +15,7 @@ usertypes:
   - entreprise
   - etat
 stats_url: https://adresse.data.gouv.fr/stats
-dashlord_url: https://dashlord.incubateur.net/url/dossierfacile-fr/
+dashlord_url: https://dashlord.incubateur.net/url/adresse-data-gouv-fr/
 stats: true
 events:
   - name: national_impact
