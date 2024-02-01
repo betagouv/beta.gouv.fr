@@ -8,7 +8,7 @@ avatar: >-
 link: https://caillou.ninja
 missions:
   - start: 2023-10-09
-    end: 2024-02-29
+    end: 2024-06-30
     status: independent
     employer: Scopopop
 incubator: dinum
