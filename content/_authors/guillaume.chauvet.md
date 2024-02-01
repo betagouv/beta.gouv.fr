@@ -8,6 +8,8 @@ missions:
     status: service
     employer: Octo
 memberType: autre
+startups:
+  - france.nation.verte.agir
 ---
 
 Développeur full stack orienté front
