@@ -5,15 +5,17 @@ sponsors:
   - /organisations/meae
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 repository: https://github.com/ambanum/
-contact: disinfo@beta.gouv.fr
-stats_url: https://stats.data.gouv.fr/index.php?idSite=89
+contact: atelier.numerique@diplomatie.gouv.fr
 link: https://disinfo.quaidorsay.fr
-stats: true
+stats: false
 phases:
   - name: investigation
     start: 2019-01-10
   - name: construction
     start: 2019-03-01
+    end: 2022-06-30
+  - name: alumni
+    start: 2022-06-30
 usertypes:
   - etat
 ---
