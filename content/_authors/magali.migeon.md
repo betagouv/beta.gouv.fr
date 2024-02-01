@@ -8,5 +8,7 @@ missions:
     status: admin
     employer: DDTM 34/DIR
 memberType: autre
+startups:
+  - aigle
 ---
 
