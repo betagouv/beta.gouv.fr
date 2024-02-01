@@ -5,11 +5,13 @@ domaine: Animation
 github : PNoemie 
 missions:
   - start: 2021-03-08
-    end: 2023-12-31
+    end: 2024-12-31
     status: admin
     employer: MEAE
+previously:
+  - expresso
 teams:
-- /teams/atelier_meae
+- /teams/latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 ---
 
 Responsable de l'Atelier numérique du MEAE
