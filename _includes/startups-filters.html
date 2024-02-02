@@ -3,20 +3,20 @@
 {% endcomment %}
 
 <div class="fr-input-group">
-    <label class="fr-label">Par opérateur</label>
-    <select class="fr-select select-incubateur">
+    <label class="fr-label" for="select-operateur">Par opérateur</label>
+    <select class="fr-select" id="select-operateur">
         <option value="">Tous les opérateurs</option>
     </select>
 </div>
 <div class="fr-input-group">
-    <label class="fr-label">Par type d'usagers</label>
-    <select class="fr-select select-usertypes">
+    <label class="fr-label" for="select-usertypes">Par type d'usagers</label>
+    <select class="fr-select" id="select-usertypes">
         <option value="">Tous les types d'usagers</option>
     </select>
 </div>
 <div class="fr-input-group">
-    <label class="fr-label">Par phase</label>
-    <select class="fr-select select-phase">
+    <label class="fr-label" for="select-phase">Par phase</label>
+    <select class="fr-select" id="select-phase">
         <option>Aller à une phase</option>
         {% for phase in phases_with_stopped %}
             <option value="{{ phase.status }}" class="{{phase.status}}-option">{{ phase.label }}</option>
