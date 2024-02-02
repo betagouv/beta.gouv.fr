@@ -221,15 +221,15 @@ layout: default
     var nationalImpactValue = urlParams.get('national_impact');
     data = generateDataWithHtmlCards(data);
 
-    document.querySelectorAll('.select-incubateur').forEach((selectElement) => {
+    document.querySelectorAll('#select-incubateur').forEach((selectElement) => {
         createIncubatorSelect(selectElement, data, incubators, incubatorValue);
     })
 
-    document.querySelectorAll('.select-usertypes').forEach((selectElement) => {
+    document.querySelectorAll('#select-usertypes').forEach((selectElement) => {
         createUsertypesSelect(selectElement, data, usertypesValue)
     })
 
-    document.querySelectorAll('.select-impact').forEach((selectElement) => {
+    document.querySelectorAll('#select-impact').forEach((selectElement) => {
         createNationalImpactSelect(selectElement, data, nationalImpactValue)
     })
 </script>
