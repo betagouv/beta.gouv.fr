@@ -10,7 +10,7 @@ additional_js:
 <div>
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
-      <h3>Suivi des objectifs du programme beta.gouv.fr</h3>
+      <h2>Suivi des objectifs du programme beta.gouv.fr</h2>
       <p>
       Le programme beta.gouv.fr, comme <a href="https://beta.gouv.fr/startups/">tous les produits numériques</a> qu'il a propulsés, rend compte de ses résultats publiquement. Certains des indicateurs de cette page sont suivis chaque année par le Parlement lors du vote du budget.
       </p>
@@ -18,7 +18,7 @@ additional_js:
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
-      <h3>Produits à impact national</h3>
+      <h2>Produits à impact national</h2>
       <p>
       L'objectif principal du programme beta.gouv.fr est de :
       </p>
@@ -45,7 +45,7 @@ additional_js:
   <br>
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
-      <h3>Nombre de produits lancés par an</h3>
+      <h2>Nombre de produits lancés par an</h2>
       <p>Cet indicateur suit le <b>nombre de nouveaux produits</b> ayant commencé une <b>phase de construction</b>, toutes administrations publiques confondues. Il donne une indication sur l'<b>évolution de la diffusion de l'approche Startups d'État</b> au sein du secteur public.
       </p>
     </div>
@@ -62,7 +62,7 @@ additional_js:
   <br>
   <br>
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
-      <h3 id="standards-qualite">Respect des standards de qualité</h3>
+      <h2 id="standards-qualite">Respect des standards de qualité</h2>
       <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions <b>sobres, ouvertes, accessibles, protectrices, sécurisées</b>. Pour cela, beta.gouv.fr a fixé un certain nombre de <b>standards de qualité</b> dont certains sont suivis ci-dessous.
       </p>
       <p>
@@ -141,7 +141,7 @@ Avant cela, le produit est encore trop instable dans son design global. La prior
   <br>
   <br>
   <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
-    <h3>Nombre de nouveaux membres par année, et nombre d'agents publics formés à l'approche</h3>
+    <h2>Nombre de nouveaux membres par année, et nombre d'agents publics formés à l'approche</h2>
 <p>beta.gouv.fr souhaite faire <b>monter en compétences l'administration</b>, en formant des agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité.</p>
 <p>
 Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr.
@@ -163,7 +163,7 @@ Pour plus de détails sur la composition actuelle de la communauté beta.gouv.fr
   <br>
 <div class="fr-grid-row fr-grid-row--gutters">
   <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
-    <h3>Etat des lieux des incubateurs du réseau beta.gouv</h3>
+    <h3>État des lieux des incubateurs du réseau beta.gouv</h3>
 <p>Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la création de leur propre structure d'incubation et d'exploitation de produits numériques.</p>
     </div>
 </div>
