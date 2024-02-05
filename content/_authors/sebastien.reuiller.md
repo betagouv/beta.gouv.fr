@@ -23,7 +23,7 @@ missions:
     employer: LBC
 startups:
   - urbanvitaliz
-  - recoco
+  - recommandations-collaboratives
   - place-de-marche-inclusion
 previously:
   - cnr

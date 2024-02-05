@@ -15,7 +15,7 @@ startups:
   - reflex
   - sparte
   - urbanvitaliz
-  - recoco
+  - recommandations-collaboratives
 competences:
   - Gestion de Produit
 teams:
