@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: Cerema
 startups:
-  - recoco
+  - recommandations-collaboratives
 memberType: dinum
 ---
 

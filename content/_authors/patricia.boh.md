@@ -9,7 +9,7 @@ missions:
     status: independent
 startups:
   - urbanvitaliz
-  - recoco
+  - recommandations-collaboratives
 memberType: beta
 ---
 

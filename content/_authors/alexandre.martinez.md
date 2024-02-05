@@ -9,6 +9,7 @@ missions:
     employer: ''
 startups:
   - deveco
+  - les.bases
 memberType: beta
 ---
 

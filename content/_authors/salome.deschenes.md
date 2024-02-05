@@ -14,7 +14,7 @@ missions:
     employer: ''
 startups:
   - urbanvitaliz
-  - recoco
+  - recommandations-collaboratives
 badges: null
 competences:
   - Communication

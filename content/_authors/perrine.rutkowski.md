@@ -10,5 +10,5 @@ missions:
     employer: CEREMA
 startups:
   - urbanvitaliz
-  - recoco
+  - recommandations-collaboratives
 ---

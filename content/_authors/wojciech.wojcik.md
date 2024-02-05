@@ -4,11 +4,11 @@ role: Développeur
 domaine: Développement
 missions:
   - start: 2023-05-22
-    end: 2024-02-29
+    end: 2024-06-30
     status: service
     employer: OCTO
 startups:
-  - datagir
+  - france.nation.verte.agir
 memberType: beta
 ---
 
