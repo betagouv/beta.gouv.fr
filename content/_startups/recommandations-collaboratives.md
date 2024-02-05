@@ -9,7 +9,7 @@ redirect_from:
 usertypes:
   - collectivite-territoriale
 stats_url: https://urbanvitaliz.fr/stats
-title: Reco-co (Recommandations collaboratives)
+title: Recommandations-collaboratives
 sponsors:
   - /organisations/cerema
   - /organisations/dgaln
@@ -42,22 +42,22 @@ Cette complexité structurelle empêche les collectivités en déficit d'ingéni
 
 Les montages de projets structurants peuvent s'étendre sur plusieurs années (en moyenne 5 à 8 ans pour la revitalisation d'une friche, par exemple). Les agents mutent, les études sont perdues dans des territoires, les conditions des acteurs d'ingénierie changent, etc. L'énergie peut vite s'étioler et un projet d'aménagement peut s'endormir et être oublié.
 
-## La solution : Reco-co est un service qui permet d'orienter les porteurs de projet de manière personnalisée pour faire avancer leurs projets, en permettant aux acteurs publics locaux de collaborer entre eux dans le temps
+## La solution : Recommandations-collaboratives est un service qui permet d'orienter les porteurs de projet de manière personnalisée pour faire avancer leurs projets, en permettant aux acteurs publics locaux de collaborer entre eux dans le temps
 
 Après une phase d'investigation de mars à mai 2020, la construction du service a débuté fin 2020 sur le sujet de la revitalisation des friches, avec la création du service [UrbanVitaliz](https://urbanvitaliz.fr/). Depuis, le service a été généralisé pour mettre à disposition des instances sur d'autres thématiques. Deux autres sont d'ores et déjà en activité : 
 * [SOS Ponts](https://sosponts.recoconseil.fr/) : pour l'entretien et la rénovation des ponts des communes 
 * [Conseil Ecoquartiers](https://ecoquartiers.recoconseil.fr/) : pour l'accompagnement des collectivités pour l'obtention du label Ecoquartiers
 
-### Zoom sur le premier service Reco-co : UrbanVitaliz
+### Zoom sur le premier service Recommandations-collaboratives : UrbanVitaliz
 
-Grace à une plateforme numérique sur-mesure et une équipe composée notamment d'urbanistes, UrbanVitaliz donne des recommandations d'actions à la collectivité, en fonction du projet qu'elle lui a soumis et des caractéristiques de la friches. **Elle oriente ainsi vers les acteurs, dispositifs, financements, prestations, outils et stratégies disponibles**, susceptibles de débloquer le porteur de projet. En moyenne, une collectivité qui sollicité UrbanVitaliz reçoit 5 recommandations qu'elle sera libre de mettre en pratique comme elle le souhaite.
+Grâce à une plateforme numérique sur-mesure et une équipe composée notamment d'urbanistes, UrbanVitaliz donne des recommandations d'actions à la collectivité, en fonction du projet qu'elle lui a soumis et des caractéristiques de la friches. **Elle oriente ainsi vers les acteurs, dispositifs, financements, prestations, outils et stratégies disponibles**, susceptibles de débloquer le porteur de projet. En moyenne, une collectivité qui a sollicité UrbanVitaliz reçoit 5 recommandations qu'elle sera libre de mettre en pratique comme elle le souhaite.
 
-**De plus en plus, les acteurs de l'ingénierie publique locale prennent part à cet accompagnement des dossiers-friche déposés sur la plateforme.** Il s'agit notamment, selon les territoires, des DDT, EPF, agences d'urbanisme etc. Ces acteurs y trouvent plusieurs bénéfices : connaissance approfondie des dossiers déposés sur leur territoire, historisation et suivi dans le temps, coordination multi-acteurs etc. Leur participation permet aussi d'enrichir le suivi des projets grace à une connaissance locale, une vision de territoire et une présence sur le terrain.
+**De plus en plus, les acteurs de l'ingénierie publique locale prennent part à cet accompagnement des dossiers-friche déposés sur la plateforme.** Il s'agit notamment, selon les territoires, des DDT, EPF, agences d'urbanisme etc. Ces acteurs y trouvent plusieurs bénéfices : connaissance approfondie des dossiers déposés sur leur territoire, historisation et suivi dans le temps, coordination multi-acteurs etc. Leur participation permet aussi d'enrichir le suivi des projets grâce à une connaissance locale, une vision de territoire et une présence sur le terrain.
 
-## Stratégie de développement et déploiement du produit Reco-co
+## Stratégie de développement et déploiement du produit Recommandations-collaboratives
 
-En date d'avril 2023, le développement de Reco-co est porté par le produit UrbanVitaliz et co-financé par SOS Ponts (via le programme national des ponts). La priorité n'est pas encore de multiplier les portails de service, mais plutôt de consolider le fonctionnement indépendant de chaque portail.
+En date d'avril 2023, le développement de Recommandations-collaboratives est porté par le produit UrbanVitaliz et co-financé par SOS Ponts (via le programme national des ponts). La priorité n'est pas encore de multiplier les portails de service, mais plutôt de consolider le fonctionnement indépendant de chaque portail.
 
-Historique : Plusieurs interlocuteurs sur d’autres thématiques (mobilité, eau, agents DDT…) ont manifesté leur intérêt à utiliser Reco-co pour faire de l’accompagnement dans la durée sur d’autres sujets que les friches. Face au manque d’outils sur ce sujet complexe, l’équipe UrbanVitaliz a produit une version minimale de l’outil générique, nommé Reco-Co, qui permet de créer d’autres portails thématiques de recommandations, à l’initiative d’autres métiers et organisations publiques. 
+Historique : Plusieurs interlocuteurs sur d’autres thématiques (mobilité, eau, agents DDT…) ont manifesté leur intérêt à utiliser Recommandations-collaboratives pour faire de l’accompagnement dans la durée sur d’autres sujets que les friches. Face au manque d’outils sur ce sujet complexe, l’équipe UrbanVitaliz a produit une version minimale de l’outil générique, nommé Recommandations-collaboratives, qui permet de créer d’autres portails thématiques de recommandations, à l’initiative d’autres métiers et organisations publiques. 
 
-La mise en place d'un portail Reco-Co est réalisée gratuitement pour des administrations publiques qui disposent déjà d'une communauté susceptible de l'utiliser.
+La mise en place d'un portail Recommandations-collaboratives est réalisée gratuitement pour des administrations publiques qui disposent déjà d'une communauté susceptible de l'utiliser.

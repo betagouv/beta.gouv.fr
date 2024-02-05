@@ -10,7 +10,7 @@ missions:
     employer: LBC
 startups:
   - urbanvitaliz
-  - recoco
+  - recommandations-collaboratives
 previously:
   - aides-territoires
 badges:
