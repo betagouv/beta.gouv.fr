@@ -11,9 +11,9 @@ phases:
   - name: investigation
     start: 2018-03-19
   - name: construction
-    start: 2018-03-19
+    start: 2018-09-01
   - name: acceleration
-    start: 2020-12-31
+    start: 2021-01-01
 events:
   - name: national_impact
     date: 2021-12-31
@@ -76,3 +76,4 @@ Pour les CFA :
 - Identifier des entreprises pouvant accueillir les apprentis de la formation ;
 - Recevoir les offres des entreprises qui recherchent des alternants et pouvoir accompagner celles-ci dans le sourcing de profils les plus intéressants ;
 - Simplifier, accélérer et sécuriser leur mise en relation avec les candidats à une formation en apprentissage.
+
