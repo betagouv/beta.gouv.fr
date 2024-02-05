@@ -8,7 +8,5 @@ missions:
     end: 2025-12-30
     status: admin
     employer: DGITM
-startups:
-  - tous.a.bord
 ---
 
