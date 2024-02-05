@@ -16,7 +16,7 @@ missions:
     employer: Ministère de l'Europe et des affaires étrangères
 startups:
   - open-terms-archive
-  - openfisca
 previously:
-  - disinfo 
+  - disinfo
+  - openfisca
 ---
