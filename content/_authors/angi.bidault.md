@@ -1,0 +1,15 @@
+---
+fullname: AnGi Bidault
+role: Designer UX - UI - DA
+domaine: Design
+link: http://www.book-angi.fr/
+missions:
+  - start: 2024-01-24
+    end: 2024-02-09
+    status: independent
+    employer: ''
+startups:
+  - ecobalyse
+memberType: autre
+---
+

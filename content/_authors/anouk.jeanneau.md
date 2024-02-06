@@ -10,7 +10,7 @@ missions:
     employer: La Zone
 startups:
   - urbanvitaliz
-  - recoco
+  - recommandations-collaboratives
 badges:
   - segur
 ---

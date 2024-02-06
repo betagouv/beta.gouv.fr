@@ -12,6 +12,7 @@ usertypes:
   - collectivite-territoriale
   - particulier
   - entreprise
+dashlord_url: https://dashlord.incubateur.net/url/panoramax-fr/
 phases:
   - name: investigation
     start: 2022-06-24

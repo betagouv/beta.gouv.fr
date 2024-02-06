@@ -10,7 +10,7 @@ missions:
     employer: ''
 startups:
   - urbanvitaliz
-  - recoco
+  - recommandations-collaboratives
   - especes.protegees
 previously:
   - transport
