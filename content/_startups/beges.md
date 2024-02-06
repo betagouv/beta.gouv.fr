@@ -10,13 +10,14 @@ usertypes:
   - collectivite-territoriale
 events:
   - name: end
-    date: 2023-10-10
+    date: 2024-02-06
 phases:
   - name: investigation
     start: 2023-05-02
-    end: 2023-07-31
+    end: 2024-02-06
 - name: alumni
-    start: 2023-10-10
+    start: 2024-02-06
+
 ---
 
 ## Contexte
@@ -50,7 +51,7 @@ L'état des lieux est le suivant :
 * Les 4 principaux bénéfices à la réalisation des BEGES-R sont 1) la réduction des GES et consommations d’énergie, 2) la sensibilisation aux enjeux, 3) la contribution à la stratégie de décarbonation et 4) l’image / exemplarité.​
 * La valeur ajoutée des prestataires se situe aussi (et surtout) dans l’analyse du BEGES et l’élaboration du plan d’actions
 
-## Conclusion
+# Conclusion
 Les principaux irritants mise en lumière justifient la nécessité de créer deux modules distincts constituant une solution numérique : 
 * Module BEGES-T : Utilisateur : chargé de mission PCAET en collectivité​ ; Proposition de Valeur : calcul simplifié du BEGES-T, visualisations des postes d'émissions de la collectivité​ ; Evolution future : outils de visualisation permettant d’engager le débat avec les acteurs du territoire
 
