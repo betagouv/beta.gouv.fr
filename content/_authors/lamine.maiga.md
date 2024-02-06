@@ -1,6 +1,6 @@
 ---
 fullname: Lamine MAIGA
-role: stagière
+role: stagiaire
 domaine: Autre
 missions:
   - start: 2024-02-05
