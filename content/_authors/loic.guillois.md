@@ -5,6 +5,8 @@ role: Développeur
 github: loicguillois
 avatar: >-
   https://avatars2.githubusercontent.com/u/55890?s=460&u=6d30adf6bede7d90474e82023d1947aabedd5635&v=4
+startups:
+  - zero-logement-vacant
 missions:
   - start: 2016-11-28
     end: 2019-12-31
@@ -15,7 +17,7 @@ missions:
     status: independent
     employer: ''
   - start: 2020-12-26
-    end: 2024-02-05
+    end: 2024-06-30
     status: independent
     employer: octo
 previously:
