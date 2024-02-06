@@ -11,15 +11,29 @@ phases:
   - name: investigation
     start: 2019-01-01
     end: 2019-02-28
-    comment: Lancement de la startup
   - name: construction
     start: 2019-03-01
   - name: success
     start: 2021-11-17
-
 usertypes:
   - entreprise
+accessibility_status: non conforme
 ---
+## Le contexte :
+
+Afin de lutter contre les inégalités salariales entre les hommes et les femmes, les entreprise employant 50 salariés minimum doivent calculer et transmettre un index mesurant l’égalité salariale au sein de leur structure aux services de l’inspection du travail en déclarant en ligne via la plateforme Egapro.
+Une campagne est ouverte chaque année entre janvier et mars afin que les entreprises concernées évaluent sur 100 points le niveau d’égalité entre les hommes et les femmes en s’appuyant sur les critères suivants:
+
+● écart de rémunération femmes / hommes
+
+● écart de taux d'augmentations individuelles
+
+● nombre de salariées augmentées à la suite de leur congé maternité
+
+● parité parmi les 10 plus hautes rémunérations
+
+● écart de taux de promotions (seulement pour les entreprises de plus de 250 salariés).
+
 **Problème** : l'écart salarial entre les femmes et les hommes au sein des entreprises françaises est chiffré actuellement à 15% en moyenne.
 
 **Solution** : Le Ministère du Travail a publié en janvier 2018 un décret qui oblige les entreprises françaises à calculer et transmettre l'index d'égalité professionnelle, calculé grâce à des indicateurs concernant les rémunérations, les augmentations et promotions, le congé maternité et la répartition femmes-hommes parmi les plus 10 hauts salaires.
