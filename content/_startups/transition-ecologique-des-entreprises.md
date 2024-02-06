@@ -5,7 +5,7 @@ mission: >-
 sponsors:
   - /organisations/ademe
 incubator: ademe
-contact: jeanbaptiste.ledevehat.ext@ademe.fr
+contact: france-transition@beta.gouv.fr
 link: http://mission-transition-ecologique.beta.gouv.fr/
 repository: https://github.com/betagouv/transition-ecologique-entreprises-widget
 accessibility_status: non conforme
