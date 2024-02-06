@@ -15,7 +15,7 @@ phases:
   - name: investigation
     start: 2023-05-02
     end: 2024-02-06
-- name: alumni
+  - name: alumni
     start: 2024-02-06
 
 ---
@@ -52,7 +52,7 @@ L'état des lieux est le suivant :
 * La valeur ajoutée des prestataires se situe aussi (et surtout) dans l’analyse du BEGES et l’élaboration du plan d’actions
 
 # Conclusion
-Les principaux irritants mise en lumière justifient la nécessité de créer deux modules distincts constituant une solution numérique : 
+Les principaux irritants mise en lumière justifient la nécessité de créer deux modules distincts constituant une solution numérique :
 * Module BEGES-T : Utilisateur : chargé de mission PCAET en collectivité​ ; Proposition de Valeur : calcul simplifié du BEGES-T, visualisations des postes d'émissions de la collectivité​ ; Evolution future : outils de visualisation permettant d’engager le débat avec les acteurs du territoire
 
 * Module BEGES-R​ : Utilisateur : chargé de mission PCAET en collectivité ; consultant de bureau d’études​ ; Proposition de Valeur : calcul simplifié du BEGES-R, grâce à une interface intuitive et ergonomique, visualisations des postes d'émissions de la collectivité​ ; Evolutions futures : module de collaboration entre services techniques pour la gestion des données, évaluation des impacts d’une politique publique guidée par un budget engagé par la collectivité.
