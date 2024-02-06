@@ -1,7 +1,7 @@
 ---
 fullname: Lucas Charrier
 domaine: Développement
-role: Développeur
+role: Développeur Fullstack
 github: LucasCharrier
 link: https://lucascharrier.com/
 missions:
