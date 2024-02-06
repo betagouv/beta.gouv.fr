@@ -1,26 +1,26 @@
 ---
 title: Oz Ensemble
-mission:  Offrir à tous un accès simple aux soins en addictologie
+mission: Offrir à tous un accès simple aux soins en addictologie
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
 phases:
   - name: investigation
-    start: 2020-01-01 
+    start: 2020-01-01
   - name: construction
-    start: 2020-02-01 
+    start: 2020-02-01
     end: 2023-01-12
   - name: acceleration
     start: 2023-01-12
-    
-link: https://www.ozensemble.fr/
+link: https://ozensemble.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/ozensemble
 stats: true
 contact: contact@ozensemble.fr
 usertypes:
   - particulier
+stats_url: https://www.ozensemble.fr//stats
+accessibility_status: non conforme
 ---
-
 ##   Le défaut d'accès aux soins condamne les personnes souffrant de conduites addictives
 
 Aujourd’hui en France, 5 millions de personnes souffrent d’une dépendance à l’alcool qui reste la deuxième cause de mortalité prématurée évitable après le tabac.  
