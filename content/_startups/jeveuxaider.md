@@ -14,7 +14,9 @@ usertypes:
   - particulier
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/www-jeveuxaider-gouv-fr/
-events: []
+events:
+  - name: national_impact
+    date: 2023-12-31
 phases:
   - name: investigation
     start: 2017-03-23

@@ -18,6 +18,9 @@ usertypes:
   - collectivite-territoriale
 stats_url: https://stats.covoiturage.beta.gouv.fr/embed/dashboard/3bec1692-1456-41c2-95a9-6606af329df9
 dashlord_url: https://dashlord.incubateur.net/url/covoiturage-beta-gouv-fr/
+events:
+  - name: national_impact
+    date: 2023-12-31
 phases:
   - name: investigation
     start: 2018-06-04
