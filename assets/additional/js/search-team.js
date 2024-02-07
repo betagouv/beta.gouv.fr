@@ -127,7 +127,7 @@ var updateCards = function (authorsteam, teams) {
 };
 
 var createIncubatorSelect = function (authorsteam, teams, incubators, initValue) {
-  var selectIncubator = document.getElementById("select-incubateur");
+  var selectIncubator = document.getElementsByClassName("select-operateur");
   var optionFragment = document.createDocumentFragment();
   for (var i = 0; i < incubators.length; i++) {
     var incubator = incubators[i];

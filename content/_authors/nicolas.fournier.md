@@ -1,6 +1,6 @@
 ---
 fullname: Nicolas Fournier
-role: Product Owner
+role: CTO
 domaine: Produit
 github: nfournier
 missions:
@@ -11,7 +11,7 @@ missions:
   - start: 2024-01-01
     end: 2024-12-31
     status: service
-    employer: ""
+    employer: ''
 previously:
-    - pass-culture
+  - pass-culture
 ---

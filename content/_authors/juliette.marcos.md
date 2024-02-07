@@ -4,9 +4,10 @@ role: Chargée de projets
 domaine: Déploiement
 missions:
   - start: 2023-09-01
-    end: 2023-09-01
-    status: independent
+    end: 2024-08-31
+    status: admin
     employer: MEAE
-memberType: autre
+startups:
+  - expresso
 ---
 

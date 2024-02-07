@@ -7,7 +7,9 @@ incubator: dinum_produits_interministeriels
 contact: tchap@beta.gouv.fr
 link: https://tchap.beta.gouv.fr/
 repository: https://github.com/tchapgouv
-events: []
+events:
+  - name: national_impact
+    date: 2023-12-31
 phases:
   - name: construction
     start: 2021-01-01

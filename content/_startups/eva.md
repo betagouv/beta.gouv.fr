@@ -5,6 +5,9 @@ sponsors:
   - /organisations/dgefp
   - /organisations/hcc
 incubator: dinum
+events:
+  - name: national_impact
+    date: 2023-12-31
 phases:
   - name: investigation
     start: 2018-06-06
