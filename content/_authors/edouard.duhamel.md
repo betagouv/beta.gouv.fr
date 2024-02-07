@@ -4,7 +4,7 @@ role: Chargé de déploiement Zéro Logement Vacant
 domaine: Déploiement
 missions:
   - start: 2022-11-02
-    end: 2024-03-01
+    end: 2024-09-01
     status: independent
     employer: Malt
 startups:
