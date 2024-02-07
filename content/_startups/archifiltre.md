@@ -80,6 +80,6 @@ Par ailleurs, la priorisation a toujours été réalisée à partir des demandes
 ## Notre mesure d’impact et les objectifs : 
 
 -	Nombre d’arborescences analysées
--	Volume de données analysés
+-	Volume de données analysé
 -	Volumes de donées taggées “à supprimer”
 -	Quantité de CO2 économisée
