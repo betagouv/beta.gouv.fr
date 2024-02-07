@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: GIP Plateforme de l’inclusion
 startups:
-  - data.insertion
+  - data-inclusion
 badges:
   - segur
 ---

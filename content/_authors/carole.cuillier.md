@@ -8,5 +8,5 @@ missions:
     end: 2021-12-31
     status: independent
 startups:
-  - rdv.apprentissage
+  - tdb-apprentissage
 ---

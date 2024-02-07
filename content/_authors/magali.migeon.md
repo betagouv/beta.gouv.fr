@@ -9,4 +9,3 @@ missions:
     employer: DDTM 34/DIR
 memberType: autre
 ---
-

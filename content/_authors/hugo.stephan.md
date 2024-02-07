@@ -9,7 +9,7 @@ missions:
     status: service
     employer: La Mednum
 startups:
-  - Réfugiés.info
+  - refugies.info
 memberType: beta
 ---
 

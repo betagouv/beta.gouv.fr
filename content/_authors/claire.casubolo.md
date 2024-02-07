@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - data.insertion
+  - data-inclusion
 badges:
   - segur
 competences:

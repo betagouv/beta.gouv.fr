@@ -9,8 +9,7 @@ missions:
     status: independent
     employer: Malt/GIP Plateforme de l'Inclusion
 startups:
-  - data.insertion
+  - data-inclusion
 badges:
   - segur
 ---
-

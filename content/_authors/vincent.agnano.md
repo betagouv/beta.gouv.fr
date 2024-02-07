@@ -14,7 +14,7 @@ startups:
 previously:
   - egalite-professionnelle
   - classe-a-12
-  - saisissezauvol
+  - auvol
   - eac
   - api-drones
   - data.gouv.fr

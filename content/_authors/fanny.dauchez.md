@@ -23,11 +23,11 @@ teams:
 previously:
   - itou
   - place-de-marche-inclusion
-  - brigade-du-numérique
 badges:
   - segur
 competences:
   - Gestion de Produit
   - Croissance
 ---
+
 @Plateforme de l'inclusion

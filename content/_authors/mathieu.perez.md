@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: FABNUMDEF - Anais
 startups:
-  - Anais
+  - anais
 competences:
-  - Développement 
+  - Développement
 ---

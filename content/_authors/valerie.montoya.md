@@ -8,5 +8,5 @@ missions:
     end: 2020-12-31
     status: independent
 startups:
-  - apprentissage
+  - tdb-apprentissage
 ---

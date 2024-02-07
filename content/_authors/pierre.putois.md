@@ -13,8 +13,6 @@ startups:
   - itou
   - pilotage.de.linclusion
   - place-de-marche-inclusion
-  - data.insertion
 badges:
   - segur
 ---
-''

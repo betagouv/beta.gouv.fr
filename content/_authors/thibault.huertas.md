@@ -9,8 +9,9 @@ missions:
     status: independent
     employer: Benext Company
 startups:
-  - pass-emploi
+  - l-application-du-cej
 competences:
   - UI
 ---
+
 Designer graphique.
