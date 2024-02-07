@@ -1,6 +1,8 @@
 ---
 title: Archifiltre
-mission: Aider les archivistes et les agents des administrations à appréhender et trier des arborescences de fichiers et des messageries complètes.
+mission: >-
+  Aider les archivistes et les agents des administrations à appréhender et trier
+  des arborescences de fichiers et des messageries complètes.
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
@@ -20,29 +22,30 @@ events:
     comment: Sortie de la 1ère version Abstract Antilop d'Archifiltre
   - name: other
     date: 2019-04-03
-    comment: Intégration d'Archifiltre en tant que startup d'Etat à l'incubateur des
+    comment: >-
+      Intégration d'Archifiltre en tant que startup d'Etat à l'incubateur des
       ministères sociaux
   - name: other
     date: 2019-11-29
     comment: 1er openlab d'Archifiltre
   - name: committee
     date: 2020-06-25
-    comment: Passage en comité d'investissement de la Fabrique numérique entérinant
-      le soutien du service interministériel des archives de France
+    comment: >-
+      Passage en comité d'investissement de la Fabrique numérique entérinant le
+      soutien du service interministériel des archives de France
 phases:
   - name: investigation
     start: 2018-01-07
     end: 2018-03-01
-    comment: Travaux d'investigation dans le cadre du lancement du défi EIG
   - name: construction
     start: 2018-03-02
     end: 2018-03-04
-    comment: Sortie de la 1ère version accessible en ligne gratuitement d'Archifiltre
   - name: acceleration
     start: 2018-03-04
     end: 2023-01-17
-  - name : success
-    start : 2023-01-17
+  - name: success
+    start: 2023-01-17
+accessibility_status: non conforme
 ---
 # Le contexte
 
@@ -73,3 +76,10 @@ Avec Archifiltre, il est désormais possible d'auditer puis d'identifier les tri
 Notre stratégie, depuis les débuts, est de développer un outil libre, gratuit, au maximum intuitif afin de rendre son utilisation possible par tou·te·s, y compris les professionnel·le·s de l'information. Des versions sont proposées régulièrement au téléchargement (environ tous les 2 à 3 mois), testées avec les utilisateur·trice·s et augmentées de fonctionnalités au fur et à mesure.
 
 Par ailleurs, la priorisation a toujours été réalisée à partir des demandes d'utilisateur·trice·s issu·e·s de contextes très variés qui permettent de vérifier, en permanence, que les fonctionnalités développées sont adaptées au plus grand nombre (tant dans les administrations de l'Etat que dans les collectivités, chez des opérateurs nationaux ou locaux, comme dans des entreprises ou des associations) grâce aux nombreux retours utilisateurs reçus lors des openlabs et sessions d'échanges (présentations, webinaires, communication réalisée lors des sorties de versions) ou encore via le questionnaire mis en place pour recueillir les attentes.
+
+## Notre mesure d’impact et les objectifs : 
+
+-	Nombre d’arborescencs analysées
+-	Volume de données analysés
+-	Volumes de donées taggées “à supprimer”
+-	Quantité de CO2 économisée
