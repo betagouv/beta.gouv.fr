@@ -9,8 +9,6 @@ missions:
     employer: Octo
 startups:
   - reva
-previously:
-  - reva
 ---
 
 Chargé de déploiement REVA
