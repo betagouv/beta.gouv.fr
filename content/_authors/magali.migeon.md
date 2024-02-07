@@ -10,5 +10,7 @@ missions:
 startups:
   - aigle
 memberType: autre
+startups:
+  - aigle
 ---
 
