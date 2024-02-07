@@ -13,6 +13,9 @@ accessibility_status: partiellement conforme
 stats: true
 stats_url: https://immersion-facile.beta.gouv.fr/stats
 budget_url: https://immersion-facile.beta.gouv.fr/pages/budget
+events:
+  - name: national_impact
+    date: 2023-12-31
 phases:
   - name: construction
     start: 2021-07-16
