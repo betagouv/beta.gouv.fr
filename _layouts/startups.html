@@ -106,9 +106,9 @@ layout: default
             <div class="fr-card fr-mr-3w search-card">
                 <div class="fr-card__body">
                     <div class="fr-card__content">
-                        <h3 class="fr-card__title">
+                        <h2 class="fr-card__title">
                             Filtres de recherche
-                        </h3>
+                        </h2>
                         <div class="fr-card__desc fr-mt-6w">
                             {% include startups-filters.html prefix='filters-' %}
                         </div>
@@ -221,7 +221,7 @@ layout: default
     var nationalImpactValue = urlParams.get('national_impact');
     data = generateDataWithHtmlCards(data);
 
-    document.querySelectorAll('.select-incubateur').forEach((selectElement) => {
+    document.querySelectorAll('.select-operateur').forEach((selectElement) => {
         createIncubatorSelect(selectElement, data, incubators, incubatorValue);
     })
 
