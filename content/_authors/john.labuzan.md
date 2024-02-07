@@ -9,13 +9,12 @@ missions:
   - start: 2019-07-02
     end: 2024-06-30
     status: independent
-    employer: academeie-en-ligne.fr
+    employer: academie-en-ligne.fr
 startups:
   - chauffage-urbain
   - place-des-entreprises
   - signalement
   - mediature
-  - place-des-entreprises
   - lannuaire.des.collectivites
 previously:
   - aides-territoires
