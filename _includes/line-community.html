@@ -23,7 +23,7 @@
     <td>{{ author.role }}</td>
     <td>
       <ul class="fr-tags-group">
-        {% for startup in startups, limit: 5 %}
+        {% for startup in startups, limit: 10 %}
           {% assign startup_id = "/startups/" | append: startup %}
           {% assign this_startup = site.startups | find: "id", startup_id %}
           {% if this_startup %}
@@ -34,7 +34,7 @@
             {% continue %}
           {% endif %}
         {% endfor %}
-        {% for startup in previously, limit: 5 %}
+        {% for startup in previously, limit: 10 %}
           {% assign startup_id = "/startups/" | append: startup %}
           {% assign this_startup = site.startups | find: "id", startup_id %}
           {% if this_startup %}
