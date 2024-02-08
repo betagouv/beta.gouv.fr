@@ -2,7 +2,7 @@
 fullname: Thibaud Chambert-Loir
 domaine: Animation
 github: thibaud-cl
-role: Chargé de mission - Incubateur des Territoires
+role: Intrapreneur
 missions:
   - start: 2021-01-18
     end: 2024-12-31
@@ -12,4 +12,6 @@ competences:
   - Croissance
 teams:
   - /teams/anct
+startups:
+  - suite.territoriale
 ---
