@@ -1,6 +1,6 @@
 ---
 fullname: Audrey PIERRE
-role: Cheffe de bureau BAOT
+role: Cheffe de bureau
 domaine: Autre
 missions:
   - start: 2023-10-02
@@ -11,3 +11,5 @@ memberType: autre
 teams:
   - /teams/lab-mi
 ---
+
+Cheffe de bureau BAOT
