@@ -5,7 +5,7 @@ mission: >-
   témoignages des apprentis.
 sponsors:
   - /organisations/dgefp
-  - /organisations/Onisep
+  - /organisations/onisep
 incubator: mission-inserjeunes
 phases:
   - name: construction
