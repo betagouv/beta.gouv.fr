@@ -8,5 +8,7 @@ missions:
     status: admin
     employer: Ministère de l'Intérieur et des Outre-Mer
 memberType: dinum
+teams:
+  - /teams/lab-mi
 ---
 
