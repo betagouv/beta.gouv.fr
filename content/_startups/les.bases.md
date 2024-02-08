@@ -1,7 +1,7 @@
 ---
-link: https://labase.anct.gouv.fr/
+link: https://lesbases.anct.gouv.fr/
 dashlord_url: >-
-  https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/labase-anct-gouv-fr/
+  https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/lesbases-anct-gouv-fr/
 mission: >-
   Faciliter le partage de ressources & de communs pour les acteurs de
   l'inclusion numérique
@@ -46,4 +46,4 @@ Une [enquête initiale](https://hackmd.io/@sonum/documentation) a été menée e
 
 Au printemps 2022, une première version a été mise en ligne, et a permis de confronter la plateforme a la réalité de l'usage.
 
-Début 2023, une nouvelle enquête auprès des utilisateurs a initié une V2 de l'outil, qui sera déployé fin 2023
+Début 2023, une nouvelle enquête auprès des utilisateurs a initié une V2 de l'outil, déployé depuis février 2024
