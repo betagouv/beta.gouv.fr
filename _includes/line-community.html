@@ -39,7 +39,7 @@
           {% assign this_startup = site.startups | find: "id", startup_id %}
           {% if this_startup %}
             <li>
-              <a class="fr-tag" aria-disabled="true" href="{{ this_startup.url }}" target="_self">{{ this_startup.title }}</a>
+              <a class="fr-tag" aria-disabled="true">{{ this_startup.title }}</a>
             </li>
           {% else %}
             {% continue %}

@@ -31,7 +31,7 @@ var createAuthorCard = function (author) {
   if (author.previously) {
     totalStartups = totalStartups.concat(author.previously);
   }
-  totalStartups = totalStartups.slice(0, 4);
+  totalStartups = totalStartups.slice(0, 10);
 
   let timestampNow = new Date();
   let authorEndDate;
