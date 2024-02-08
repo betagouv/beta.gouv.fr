@@ -113,9 +113,10 @@ layout: default
             </select>
         </div>
     </section>
+
     
     <h2><span id="currents-count">{{ currents | size }}</span> membres actifs</h2>
-    <div class="authors fr-grid-row fr-grid-row--gutters">
+    <div class="fr-grid-row fr-grid-row--gutters">
         <div class="fr-table fr-table--no-caption">
             <table>
                 <caption>Membres de la communauté</caption>                    
@@ -126,7 +127,7 @@ layout: default
                         <th scope="col">Équipe</th>
                     </tr>
                 </thead>
-                <tbody>
+                <tbody class="authors">
                     {%- for author in currents -%}
                         {%- include line-community.html author=author -%}
                     {%- endfor -%}
