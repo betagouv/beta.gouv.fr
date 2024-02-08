@@ -51,5 +51,7 @@ Acceslibre s’insère également dans le paysage plus vaste de l’accessibilit
 ## Etat d’avancement et prochaines étapes
 
 Acceslibre compte désormais près de 350 000 établissements recensés.
+
 Les informations d'accessibilité sont affichées sur plusieurs sites à forte audience : allocine.com, solocal.com, lepetitpaumé.com, servicepublic.fr.
+
 Tout l'enjeu est de poursuivre l'effort de collecte sur les lieux touristiques et décrocher de nouveaux partenariats dans ce secteur pour aider à accueillir au mieux le public handi pendant les jeux olympiques et paralympiques de Paris !
