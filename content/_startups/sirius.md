@@ -50,7 +50,7 @@ Sirius bénéficie d’un appui interministériel :
 
 * La Délégation Générale à l'Emploi et à la Formation Professionnelle *(ministère du travail)*, finance l’expérimentation et apporte un soutien technique et organisationnel au projet.
 * L’ONISEP *(ministère de l'Éducation nationale et de la Jeunesse et ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)*, pilote la réalisation et pourrait être un repreneur pérenne de la solution.
-* La mission interministérielle InserJeunes, assure un cadre méthodologique à l’équipe et apporte les expertises transverses indispensable au bon déroulé de l’expérimentation *(déploiement, environnement de travail, etc…).* Elle accompagne [d’autres produits](https://beta.gouv.fr/startups/?incubateur=mission-inserjeunes) ayant tous pour objectif d’éclairer les choix d’orientation des jeunes pour faciliter leur insertion professionnelle, contribuant ainsi à ce que notre réponse soit cohérente avec les besoins des usagers.
+* La mission interministérielle InserJeunes, assure un cadre méthodologique à l’équipe et apporte les expertises transverses indispensable au bon déroulé de l’expérimentation *(déploiement, environnement de travail, etc…).* Elle accompagne [d'autres produits](https://beta.gouv.fr/startups/?incubateur=mission-inserjeunes) ayant tous pour objectif d’éclairer les choix d’orientation des jeunes pour faciliter leur insertion professionnelle, contribuant ainsi à ce que notre réponse soit cohérente avec les besoins des usagers.
 *
 
 # Les bénéfices attendus
