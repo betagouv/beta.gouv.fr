@@ -1,49 +1,56 @@
 ---
 title: Sirius
-mission: Recueillir et exposer les avis d'apprentis sur leur formation
+mission: >-
+  Aider les jeunes dans leurs choix d’orientation en donnant accès aux
+  témoignages des apprentis.
 sponsors:
   - /organisations/dgefp
+  - /organisations/Onisep
 incubator: mission-inserjeunes
 phases:
   - name: construction
-    start: 2022-12-01  
+    start: 2022-12-01
 repository: https://github.com/mission-apprentissage/sirius
-contact: contact@inserjeunes.beta.gouv.fr
+contact: contact-sirius@inserjeunes.beta.gouv.fr
 usertypes:
   - particulier
   - etablissement-scolaire
+accessibility_status: non conforme
 ---
+# Le constat
 
-# Les problèmes
+Plus de 1 500 CFA se sont créés depuis la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel. Les jeunes, leurs familles et les personnes qui les accompagnent dans leur orientation ont une visibilité restreinte sur l’ensemble des formations existantes et leur qualité.
 
-La construction d’un parcours d’orientation est souvent complexe et source de stress pour les jeunes.
+Si des outils existent pour présenter la voie de l’apprentissage, les candidats recherchent des retours d’expériences de pairs, qui ont vécu les mêmes doutes et peuvent témoigner de ce qu’a été leur parcours. Ces témoignages permettent aux candidats de se projeter concrètement dans une formation et d’apaiser le choix d’orientation, surtout dans le secondaire. Les filières en apprentissage  proposées en infra-bac souffrent encore de préjugés et sont parfois considérées comme une voie de garage pour les mauvais élèves ou menant a des métiers peu qualifiés. Les témoignages apportent de nouveaux éléments sur la perception de la qualité de la formation et de l’accompagnement aux jeunes et aux adultes qui les appuient (parents, équipes pédagogiques, psychologues de l’Éducation Nationale, associations, …). L’accès à ces informations n’est pas aisé pour les candidats et les accompagnants car aucune source neutre n’expose aujourd’hui des avis vérifiés sur les formations en apprentissage.
 
-Aujourd’hui de nombreuses informations, notamment quantitatives sont proposées, mais pour faire leurs choix, les candidats sont également à la recherche de retours d’expériences de pairs, qui ont vécu les mêmes doutes et peuvent témoigner de ce qu’a été leur parcours. Ces témoignages permettent aux candidats de se projeter concrètement dans une  formation et d’apaiser le choix d’orientation.
 
-Les filières en apprentissage souffrent régulièrement de préjugés et particulièrement les formations infra-bac, souvent considérées comme une voie de garage pour les mauvais élèves ou menant a des métiers peu qualifiés. Les témoignages apportent de nouveaux éléments d’information aux jeunes et aux adultes qui les accompagnent dans leurs choix (parents, équipes pédagogiques, psychologues de l’Éducation Nationale, associations, …). 
 
-L’accès à ces témoignage n’est pas aisé pour les candidats et les prescripteurs car aucune source neutre n’expose aujourd’hui des avis vérifiés sur les formations en apprentissage.
+# Sirius
 
----
+Sirius donne accès aux témoignages des apprentis pour aider les jeunes dans leurs choix d’orientation. Le service est co-construit avec l'ensemble des acteurs, CFA, collégiens, apprentis, établissements scolaires et équipes éducatives ; et se décline en 2 volets :
 
-# L’expérimentation
+- **Recueillir des témoignages** dans les **4000 CFA formateurs** qui dispensent des formations accessibles après la 3è :
+    - Pour intégrer les retours de leurs apprentis et améliorer la qualités de leurs formations.
+    - Pour communiquer autrement sur l’apprentissage.
+- **Exposer** cette donnée pour **éclairer le choix d’orientation** des jeunes, auprès :
+    - Auprès des **370 000 élèves** qui s’orientent chaque années vers l’apprentissage dans le secondaire (collégiens, lycéens, prépa-apprentissages).
+    - Les accompagnants à l’orientation : **13 000 professeurs principaux** de 3è et **3 000 PsyEN**.
 
-Sirius bénéficie d’un appui interministériel. 
+Afin de s’inscrire dans le parcours de l’ensemble des usagers ciblés par notre service, nous mettons en place une expérimentation sur les régions Auvergne-Rhône-Alpes et Provence-Alpes-Côte d’Azur.
+
+Nous constituons un échantillon de collégiens, de jeunes en prépa apprentissage, de professionnels de l’orientation et de CFA qui permettront de proposer une première offre de témoignages pertinents.
+
+En réunissant l’ensemble des acteurs, nous avons co-construit un questionnaire adapté aux besoins des collégiens et aux usages des CFA et des apprentis.
+
+Nous accompagnons aujourd’hui les CFA à prendre en main ce nouvel outil pour faciliter sa diffusion auprès des apprentis des deux régions pilotes.
+
+En parallèle, nous mettons en place des terrains propice pour tester différents modes d’exposition de cette nouvelle donnée et mesurer la pertinence et l’impact de notre action. 
+
+Sirius bénéficie d’un appui interministériel :
 
 - La Délégation Générale à l'Emploi et à la Formation Professionnelle *(ministère du travail)*, finance l’expérimentation et apporte un soutien technique et organisationnel au projet.
 - L’ONISEP *(ministère de l'Éducation nationale et de la Jeunesse et ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)*, pilote la réalisation et pourrait être un repreneur pérenne de la solution.
 - La mission interministérielle InserJeunes, assure un cadre méthodologique à l’équipe et apporte les expertises transverses indispensable au bon déroulé de l’expérimentation *(déploiement, environnement de travail, etc…).* Elle accompagne [d’autres produits](https://beta.gouv.fr/startups/?incubateur=mission-inserjeunes) ayant tous pour objectif d’éclairer les choix d’orientation des jeunes pour faciliter leur insertion professionnelle, contribuant ainsi à ce que notre réponse soit cohérente avec les besoins des usagers.
-
-Dans ce contexte, Sirius propose de recueillir les témoignages et retours d’expérience des apprentis et de les exposer auprès des collégiens pour les aider dans leurs choix d’orientation.
-
-Afin de s’inscrire dans le parcours de l’ensemble des usagers ciblés par notre service, nous mettons en place une expérimentation dans la ville de Marseille.
-
-Nous constituons un échantillon de collégiens en 3è prépa métiers et de CFA qui permettront de proposer une première offre de témoignages pertinents.
-
-En réunissant l’ensemble des acteurs, nous co-construisons :
-
-- Un questionnaire adapté aux besoins des collégiens et aux usages des CFA et des apprentis ;
-- Une restitution des témoignage pertinente pour les usagers, qui sera proposée aux endroits clés de leur parcours de choix.
 
 # Les bénéfices attendus
 
