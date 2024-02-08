@@ -120,11 +120,12 @@ var createIncubatorSelect = function (members, incubators, initValue) {
       ...d,
       html: createAuthorCard(d),
     }));
-    var alumnisToDisplay = alumnis.filter((alumni) => intersection(alumni.startups, selectedStartups) || alumni.incubator === value);
-    alumnisToDisplay = alumnisToDisplay.map((d) => ({
-      ...d,
-      html: createAuthorCard(d),
-    }));
+    // var alumnisToDisplay = alumnis.filter((alumni) => intersection(alumni.startups, selectedStartups) || alumni.incubator === value);
+    // alumnisToDisplay = alumnisToDisplay.map((d) => ({
+    //   ...d,
+    //   html: createAuthorCard(d),
+    // }));
+
     var documentFragmentCurrents = document.createDocumentFragment();
     for (var j = 0; j < currentsToDisplay.length; j++) {
       documentFragmentCurrents.appendChild(currentsToDisplay[j].html);
@@ -135,15 +136,15 @@ var createIncubatorSelect = function (members, incubators, initValue) {
     var countCurrentsElement = document.getElementById("currents-count");
     countCurrentsElement.innerHTML = currentsToDisplay.length;
 
-    var documentFragmentAlumnis = document.createDocumentFragment();
-    for (var j = 0; j < alumnisToDisplay.length; j++) {
-      documentFragmentAlumnis.appendChild(alumnisToDisplay[j].html);
-    }
-    var gridAlumnis = document.getElementsByClassName("alumnis")[0];
-    gridAlumnis.innerHTML = "";
-    gridAlumnis.appendChild(documentFragmentAlumnis);
-    var countAlumnisElement = document.getElementById("alumnis-count");
-    countAlumnisElement.innerHTML = alumnisToDisplay.length;
+    // var documentFragmentAlumnis = document.createDocumentFragment();
+    // for (var j = 0; j < alumnisToDisplay.length; j++) {
+    //   documentFragmentAlumnis.appendChild(alumnisToDisplay[j].html);
+    // }
+    // var gridAlumnis = document.getElementsByClassName("alumnis")[0];
+    // gridAlumnis.innerHTML = "";
+    // gridAlumnis.appendChild(documentFragmentAlumnis);
+    // var countAlumnisElement = document.getElementById("alumnis-count");
+    // countAlumnisElement.innerHTML = alumnisToDisplay.length;
 
     if (window.lozad) {
       const observer = lozad();
