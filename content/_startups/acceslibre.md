@@ -17,9 +17,10 @@ dashlord_url: https://dashlord.incubateur.net/url/acceslibre-beta-gouv-fr/
 events:
   - name: other
     date: 2022-10-04
-    comment: "Demo-D : fin du programme d'accompagnement gamma avec résultats clés -
+    comment: >-
+      Demo-D : fin du programme d'accompagnement gamma avec résultats clés -
       plus de 100 000 fiches ERP, go de réutilisation par google et
-      servicepublic.fr"
+      servicepublic.fr
 phases:
   - name: investigation
     start: 2019-11-01
@@ -27,6 +28,7 @@ phases:
     start: 2020-09-01
   - name: acceleration
     start: 2022-09-01
+stats_url: https://acceslibre.beta.gouv.fr/stats
 ---
 ## Le problème : Le manque d’information sur l’accessibilité des lieux
 
@@ -48,6 +50,6 @@ Acceslibre s’insère également dans le paysage plus vaste de l’accessibilit
 
 ## Etat d’avancement et prochaines étapes
 
-Après 2.5 ans d'existence, Acceslibre est passée depuis septembre en phase d'accélération avec plus de 100 000 établissements recensés sur le site et des réutilisateurs majeurs : servicepublic.fr à compter de novembre 2022, google avant fin 2022.  
-
-Tout l'enjeu est de poursuivre ce rythme de forte croissance et d'accroître la notoriété d'acceslibre.
+Acceslibre compte désormais près de 350 000 établissements recensés.
+Les informations d'accessibilité sont affichées sur plusieurs sites à forte audience : allocine.com, solocal.com, lepetitpaumé.com, servicepublic.fr.
+Tout l'enjeu est de poursuivre l'effort de collecte sur les lieux touristiques et décrocher de nouveaux partenariats dans ce secteur pour aider à accueillir au mieux le public handi pendant les jeux olympiques et paralympiques de Paris !
