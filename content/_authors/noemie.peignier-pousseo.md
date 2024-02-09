@@ -11,7 +11,7 @@ missions:
 previously:
   - expresso
 teams:
-- /teams/latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
+- /teams/atelier_meae
 ---
 
 Responsable de l'Atelier numérique du MEAE
