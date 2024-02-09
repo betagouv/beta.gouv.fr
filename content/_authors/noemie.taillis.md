@@ -11,7 +11,7 @@ startups:
   - ozensemble
   - bpco
   - monsuivipsy
-  - maison.de.lautisme
+  - reva
 previously:
   - snu
 ---
