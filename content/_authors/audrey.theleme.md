@@ -11,5 +11,7 @@ memberType: dinum
 competences:
   - UX
   - UI
+teams:
+  - /teams/lab-mi
 ---
 Je suis UX Designer au sein du Laboratoire d'Innovation du Ministère de l'Intérieur
