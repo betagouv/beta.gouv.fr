@@ -11,12 +11,9 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2022-05-15
-    end: 2022-08-10
-    comment: Synthèse des irritants par les utilisateurs et validation des attente
-      avec solution technique
-  - name: construction
-    start: 2022-08-11
-    comment: Prototypage du formulaire de demande de bourses à l'aide de Démarches
+    end: 2022-12-06
+    comment: Synthèse des irritants par les utilisateurs et validation des attentes
+      avec solution technique et prototypage du formulaire de demande de bourses à l'aide de Démarches
       simplifiées
 ---
 
@@ -37,36 +34,31 @@ Pour traiter les demandes des bourses scolaires d'enfants scolarisés dans des �
 **Qui est concerné par ce problème ?**
 
 3 catégories d'usagers par ordre d'importance décroissant :
+* Les agents consulaires en charge du traitement des demandes de bourses scolaires. Une centaine d'agents titulaires, ADL et vacataires répartis dans la quasi totalité des postes consulaires à l'étranger
+* Les demandeurs de bourses réparties dans tous les pays où se trouvent des établissements homologués par l'AEFE. Plusieurs milliers de familles dont les parents sont francophones ou non francophones
+* Les membres des commissions locales voire nationales lorsqu'il s'agit de valider ou non les propositions. Plusieurs centaines de personnes expertes ou non et des élus.
 
-catégorie 1) Les agents consulaires en charge du traitement des demandes de bourses scolaires. Une centaine d'agents titulaires, ADL et vacataires répartis dans la quasi totalité des postes consulaires à l'étranger
-
-catégorie 2) Les demandeurs de bourses réparties dans tous les pays où se trouvent des établissements homologués par l'AEFE. Plusieurs milliers de familles dont les parents sont francophones ou non francophones
-
-\
-catégorie 3) Les membres des commissions locales voire nationales lorsqu'il s'agit de valider ou non les propositions. Plusieurs centaines de personnes expertes ou non et des élus. ===
-
-Pour la catégorie 1 le processus est long, chronophage avec un manque d'uniformisation des données ainsi qu'un recueil d'informations partiellement pertinent.\
-Pour la catégorie 2 le renseignement manuel du formulaire génère de nombreuses incompréhensions voire des erreurs factuelles.\
-Pour la catégorie 3 manque de temps et de flexibilité pour consulter et comprendre les informations renseignées dans le formulaire =
+Pour les agents consulaires, le processus est long, chronophage avec un manque d'uniformisation des données ainsi qu'un recueil d'informations partiellement pertinent.
+Pour les demandeurs, le renseignement manuel du formulaire génère de nombreuses incompréhensions voire des erreurs factuelles.
+Les membres des commissions manquent de temps et de flexibilité pour consulter et comprendre les informations renseignées dans le formulaire.
 
 ## Solution
 
-Repenser dans un premier temps le formulaire (son format, son contenu ) afin de le rendre plus compréhensible par les demandeurs (catgéorie 2 et catégorie 3) et plus facile à analyser et traiter par les agent traitant (catgéorie 1)
+Repenser dans un premier temps le formulaire (son format, son contenu) afin de le rendre plus compréhensible par les demandeurs et plus facile à analyser et traiter par les agent traitants.
 
 ## Stratégie
 
 **1ère phase, l'investigation**
 
-Lancer une campagne d'interview qualitative et quantitative près les agents traitant (catégorie 1) pour recueillir les points irritant concernant le formulaire (sur la forme et le fond).  C'est en effet cette catégorie d'usager qui est la plus à même de pointer les irritants au niveau du traitement du formulaire mais aussi de rapporter les difficultés récurrentes rencontrées par les demandeurs (catégorie 2). 
+Lancer une campagne d'interview qualitative et quantitative près les agents traitants pour recueillir les points irritant concernant le formulaire (sur la forme et le fond).  C'est en effet cette catégorie d'usager qui est la plus à même de pointer les irritants au niveau du traitement du formulaire mais aussi de rapporter les difficultés récurrentes rencontrées par les demandeurs. 
 
-Au niveau des entretiens qualitatifs on souhaite en effectuer une demie douzaine par téléphone.  La synthèse des ces échanges permettra d'élaborer le questionnaire destiné aux entretiens quantitatifs
+Au niveau des entretiens qualitatifs, on souhaite en effectuer une demie douzaine par téléphone. La synthèse des ces échanges permettra d'élaborer le questionnaire destiné aux entretiens quantitatifs
+Au niveau quantitatif, diffusion auprès d'une centaines d'agents une formulaire à remplir en ligne. Taux de retour espéré 30 à 40%
 
-Au niveau quantitative diffusion auprès d'une centaines d'usager (catégorie 1) une formulaire à remplir en ligne.  Taux de retour espérer 30 à 40%
+**2ème phase, le prototypage et son expérimentation en condition réelle.**
 
-**2ème phase le prototypage et son expérimentation en condition réelle.**
+Une fois la synthèse des retours quantitatifs effectuée, lancement d'une version test du prototype du formulaire revu (forme et fond) pour le soumettre en conditions réelles à ceux ayant participé aux entretiens. 
 
-Une fois la synthèse des retours quantitatif effectués lancement d'une version test du prototype du formulaire revu (forme et fond) pour le soumettre en condition réelle à ceux ayant participé aux entretiens. 
+**3ème phase, bilan de l'expérimentation et prise de décision sur les orientations suivantes possibles**
 
-**3ème bilan de l'expérimentation et prise de décision sur les orientations suivantes possible**
-
- (abandon, amélioration,  réorientation, validation des choix...
+ Abandon, amélioration,  réorientation, validation des choix...
