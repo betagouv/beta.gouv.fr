@@ -1,7 +1,7 @@
 ---
 fullname: Joël Pagniez
-domaine: Développement
-role: Développeur
+domaine: Coaching
+role: Coach
 github: JoelPagniez
 avatar: null
 link: https://www.linkedin.com/in/joel-pagniez-0941b687/
@@ -16,5 +16,7 @@ previously:
   - candilib
 competences:
   - Coaching
+  - Developpement
+teams:
+  - /teams/lab-mi
 ---
-Développeur JS fullstack
