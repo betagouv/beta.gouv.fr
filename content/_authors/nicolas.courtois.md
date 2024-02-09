@@ -10,11 +10,11 @@ missions:
     status: independent
     employer: DJEPVA
 startups:
-  - jeveuxaider
-  - api-engagement
   - snu
 previously:
   - sante-psy-etudiant
+  - jeveuxaider
+  - api-engagement
 ---
 
 UX/UI Designer
