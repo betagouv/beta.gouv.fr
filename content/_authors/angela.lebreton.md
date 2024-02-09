@@ -8,6 +8,7 @@ missions:
     status: independent
     employer: ''
 startups:
+previously:
   - jeveuxaider
 memberType: beta
 ---
