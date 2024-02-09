@@ -7,5 +7,5 @@ missions:
     end: 2021-01-30
     status: admin
 startups:
-    - poubelles-battle
+  - au-compost-mitoyen
 ---

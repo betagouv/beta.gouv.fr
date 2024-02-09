@@ -5,6 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "gray-matter": "^4.0.3",
+        "yaml": "^2.3.4",
         "zod": "^3.22.4"
     },
     "devDependencies": {

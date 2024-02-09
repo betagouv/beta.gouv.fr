@@ -1,6 +1,7 @@
 import path from "path";
 import fs from "fs/promises";
 import matter from "gray-matter";
+import { parse, stringify } from "yaml";
 
 /**
  * check authors and startups markdown files metadata againt schemas
