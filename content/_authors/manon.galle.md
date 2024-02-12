@@ -1,6 +1,6 @@
 ---
 fullname: Manon Galle
-role: Chargée de projet Suite inclusion numérique
+role: Intrapreneuse Suite inclusion numérique
 domaine: Intraprenariat
 github: manonGalle
 missions:
@@ -11,5 +11,7 @@ missions:
 teams:
   - /teams/anct
 memberType: beta
+startups:
+  - suite.d.outils.des.mediateurs.numeriques
 ---
 

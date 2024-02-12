@@ -11,6 +11,11 @@ missions:
     employer: Octo Technology
 badges:
   - segur
+startups:
+  - les.bases
+  - suite.d.outils.des.mediateurs.numeriques
+previously:
+  - dora
 ---
 
 
