@@ -1,6 +1,6 @@
 ---
 fullname: Manon Galle
-role: Chargée de projet Suite inclusion numérique
+role: Intrapreneuse Suite inclusion numérique
 domaine: Intraprenariat
 github: manonGalle
 missions:
