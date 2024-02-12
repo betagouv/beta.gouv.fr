@@ -32,7 +32,7 @@ missions:
   - start: 2023-11-06
     end: 2024-11-06
     status: independent
-    employer: ADEME
+    employer: LaZone/Pathtech (ADEME)
 incubator: ademe
 teams:
   - /teams/ademe
