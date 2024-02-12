@@ -6,9 +6,25 @@ github: pom421
 link: http://pom421.github.io/
 missions:
   - start: 2019-03-11
-    end: 2024-08-31
+    end: 2019-08-30
     status: independent
     employer: octo
+  - start: 2019-10-01
+    end: 2020-06-30
+    status: independent
+    employer: octo
+  - start: 2020-05-01
+    end: 2021-09-30
+    status: independent
+    employer: octo
+  - start: 2021-10-01
+    end: 2023-11-30
+    status: independent
+    employer: inops
+  - start: 2024-02-12
+    end: 2024-08-31
+    status: independent
+    employer: malt
 startups:
   - pacoupa
 previously:
