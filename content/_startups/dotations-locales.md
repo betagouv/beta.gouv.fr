@@ -4,18 +4,20 @@ incubator: anct
 repository: https://git.leximpact.dev/openfisca/openfisca-france-dotations-locales
 contact: contact-dotations-locales@anct.gouv.fr
 title: Dotations locales
-sponsors: 
-    - /organisations/anct
+sponsors:
+  - /organisations/anct
 link: https://dotations.incubateur.anct.gouv.fr/
 stats: false
 phases:
   - name: construction
     start: 2022-01-01
     end: 2022-07-01
+  - start: 2022-07-01
+    name: acceleration
 usertypes:
   - collectivite-territoriale
+accessibility_status: non conforme
 ---
-
 ## Le problème
 
 Les [dotations financières de l’État](https://www.vie-publique.fr/fiches/21932-quelles-sont-les-dotations-de-letat-aux-collectivites) aux collectivités représentent près d’[un tiers de leurs ressources](https://www.cohesion-territoires.gouv.fr/budget-et-dotations-des-collectivites-locales), mais elles sont délicates à estimer : complexes à calculer, notifiées en cours d’exercice et toute projection au-delà de l’année en cours peut être coûteuse. Ceci dans un contexte d'évolution des concours financiers aux budgets des territoires (voici [ce qui change en 2022](https://www.cohesion-territoires.gouv.fr/territoires-et-collectivites-territoriales-ce-qui-change-au-1er-janvier-2022)).
