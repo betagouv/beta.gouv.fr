@@ -8,7 +8,7 @@ missions:
   - start: 2019-03-11
     end: 2024-08-31
     status: independent
-    employer: octo
+    employer: malt
 startups:
   - pacoupa
 previously:
