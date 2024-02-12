@@ -11,5 +11,7 @@ missions:
 teams:
   - /teams/anct
 memberType: beta
+startups:
+  - suite.d.outils.des.mediateurs.numeriques
 ---
 
