@@ -7,7 +7,6 @@ missions:
     end: 2024-03-01
     status: independent
     employer: ''
-startups:
 previously:
   - jeveuxaider
 memberType: beta
