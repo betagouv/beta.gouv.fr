@@ -11,6 +11,8 @@ missions:
     employer: Octo
 startups:
   - cartographie.nationale
+  - les.bases
+  - suite.d.outils.des.mediateurs.numeriques
 badges:
   - segur
 competences:
