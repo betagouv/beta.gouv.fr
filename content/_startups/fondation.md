@@ -6,10 +6,10 @@ mission: >
   magistrature, 
 incubator: justice
 title: Fondation
-contact: Jean-Baptiste Crabière
+contact: jean-baptiste.crabieres@justice.fr
 accessibility_status: non conforme
 sponsors:
-  - /organisations/CSM
+  - /organisations/csm
 phases:
   - name: investigation
     start: 2023-10-02
