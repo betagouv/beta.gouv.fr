@@ -18,7 +18,7 @@ phases:
 ---
 ## Contexte
 
-Le CSM ou Conseil Supérieur de la Magistrature propose au Président de la République les premiers présidents de Cour d’appel, les présidents de tribunaux judiciaires et les magistrats du siège de la cour de cassation. Il donne son avis au Garde des Sceaux pour la nomination de tous les autres magistrats du siège et de tous les magistrats du parquet. 
+Le CSM ou Conseil Supérieur de la Magistrature propose au Président de la République les premiers présidents de Cour d'appel, les présidents de tribunaux judiciaires et les magistrats du siège de la cour de cassation. Il donne son avis au Garde des Sceaux pour la nomination de tous les autres magistrats du siège et de tous les magistrats du parquet. 
 
 L'articulation entre le CSM (Conseil Supérieur de la Magistrature et la DSJ (Direction des Services Judiciaires au sein du Ministère) est volontairement complexe. Les +1.500 recrutements prévus d’ici 2027 vont massifier les effectifs et accentuer la complexité.
 
