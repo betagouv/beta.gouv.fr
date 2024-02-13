@@ -9,7 +9,6 @@ missions:
     employer: Numa
 startups:
   - icare-complements-alimentaires
-  - maisondessinpresse
   - ma-cantine-egalim
 memberType: beta
 ---
