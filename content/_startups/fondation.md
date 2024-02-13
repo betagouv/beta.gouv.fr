@@ -34,8 +34,6 @@ Fondation comporte deux volets :
 - Des outils qui simplifient le travail des membres du CSM
 - Des méthodes de travail qui permettent de prendre de la hauteur et de se concentrer sur les dossiers à enjeux
 
-
 ## Stratégie
 
 L'expérimentation menée au premier semestre 2024 a pour ambition de réduire drastiquement délai de restitution de la grande transparence 2024, d'obtenir l'adhésion des membres du CSM et d'élaborer avec eux une vision stratégique.
-
