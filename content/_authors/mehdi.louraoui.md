@@ -19,8 +19,8 @@ startups:
 previously:
   - archifiltre
 competences:
-  - "Développement Frontend"
-  - "Développement Backend"
+  - Développement Frontend
+  - Développement Backend
 ---
 
 Développeur Fullstack JS
