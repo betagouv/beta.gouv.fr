@@ -1,9 +1,11 @@
 ---
 social:
 -
+  name: Linkedin
   icon: linkedin-box
   url: https://www.linkedin.com/company/betagouv/
 -
+  name: Github
   icon: github
   url: https://www.github.com/betagouv
 
