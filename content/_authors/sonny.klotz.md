@@ -5,7 +5,7 @@ domaine: Développement
 github: oni-Sk
 missions:
   - start: 2022-04-05
-    end: 2024-02-29
+    end: 2024-03-31
     status: service
     employer: Octo
 startups:
