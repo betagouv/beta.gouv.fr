@@ -152,8 +152,7 @@ Avant cela, le produit est encore trop instable dans son design global. La prior
 <p>
 Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr.
 </p>
-<p>
-Pour plus de détails sur la composition actuelle de la communauté beta.gouv.fr, <a href="https://beta.gouv.fr/communaute/">consultez cette page</a>.
+<p>La composition exacte est détaillée sur la page <a href="https://beta.gouv.fr/communaute/">communauté de beta.gouv.fr</a>.
 </p>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
