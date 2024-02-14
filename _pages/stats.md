@@ -147,7 +147,7 @@ Avant cela, le produit est encore trop instable dans son design global. La prior
   <br>
   <br>
   <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
-    <h2>Nombre de nouveaux membres par année, et nombre d'agents publics formés à l'approche</h2>
+    <h2>Montée en compétence de l'administration</h2>
 <p>beta.gouv.fr souhaite faire <b>monter en compétences l'administration</b>, en formant des agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité.</p>
 <p>
 Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr.
