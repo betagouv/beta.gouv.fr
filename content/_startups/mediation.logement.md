@@ -1,11 +1,11 @@
 ---
-title: Médiation logement
+title: Médiation Logement
 mission: Résoudre les litiges locatifs entre locataires et bailleurs par la médiation.
 sponsors:
   - /organisations/dgaln
   - /organisations/mtes
 incubator: mtes
-contact: caroline.mulot@developpement-durable.gouv.fr
+contact: contact@mediationlogement.beta.gouv.fr
 stats: false
 accessibility_status: non conforme
 phases:
@@ -13,6 +13,8 @@ phases:
     start: 2023-05-01
   - name: construction
     start: 2023-11-01
+link: https://mediationlogement.beta.gouv.fr/
+repository: https://github.com/betagouv/mediation-logement
 ---
 ## Contexte
 Les Commission Départementales de Conciliation (CDC) aident les propriétaires et les locataires à trouver une solution amiable à leur litige. Sa saisine est gratuite et est obligatoire pour certains types de litiges avant de faire appel au juge.
