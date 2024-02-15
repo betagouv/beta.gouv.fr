@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2023-06-01
-    end: 2023-07-31
+    end: 2024-08-31
     status: admin
     employer: MASA
 memberType: autre
