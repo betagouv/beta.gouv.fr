@@ -1,5 +1,5 @@
 ---
-fullname: Marie VAN INGELGEM 
+fullname: Marie VAN INGELGEM
 role: Product Owner
 domaine: Produit
 missions:
@@ -7,6 +7,5 @@ missions:
     end: 2023-04-03
     status: admin
 startups:
-  - mes.aides
+  - mes-aides
 ---
-

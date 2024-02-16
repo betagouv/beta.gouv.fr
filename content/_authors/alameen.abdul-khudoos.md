@@ -11,10 +11,11 @@ missions:
 incubator: pole-emploi
 startups:
   - travailler.en.france
-  - mes.aides
+  - mes-aides
 previously:
   - zen
 competences:
   - Gestion de Produit
 ---
+
 Product Manager et chef de projet chez Mes Aides

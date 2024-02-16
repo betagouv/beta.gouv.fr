@@ -10,7 +10,7 @@ missions:
     employer: INOPS
 startups:
   - travailler.en.france
-  - mes.aides
+  - mes-aides
 ---
 
 Artisan du web et entrepreneur depuis 1998.

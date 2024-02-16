@@ -1,5 +1,5 @@
 ---
-fullname: Tanguy  MASTELLONE 
+fullname: Tanguy  MASTELLONE
 role: Développeur
 domaine: Animation
 missions:
@@ -7,6 +7,5 @@ missions:
     end: 2023-04-03
     status: admin
 startups:
-  - mes.aides
+  - mes-aides
 ---
-

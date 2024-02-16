@@ -8,8 +8,7 @@ missions:
     status: admin
     employer: Pôle emploi
 startups:
-  - mes.aides
-previously :
+  - mes-aides
+previously:
   - mes-evenements-emploi
 ---
-
