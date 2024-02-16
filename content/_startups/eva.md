@@ -5,6 +5,7 @@ mission: >-
   base et en valorisant les compétences transversales acquises
 sponsors:
   - /organisations/dgefp
+  - /organisations/anlci
   - /organisations/hcc
 incubator: dinum
 events:
