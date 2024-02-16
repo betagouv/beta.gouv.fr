@@ -10,12 +10,18 @@ missions:
     end: 2023-12-27
     status: admin
     employer: affaires-sociales
+    startups:
+      - codedutravail
+      - egalite.professionnelle
+      - workinfrance
+      - domifa
+      - recosante
   - start: 2023-12-28
     end: 2026-12-28
     status: admin
     employer: dinum
+    startups: []
 teams:
   - /teams/animation-dinum
 ---
-
 Make it work, make it right, make it fast
