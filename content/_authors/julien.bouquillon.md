@@ -14,8 +14,9 @@ missions:
     end: 2026-12-28
     status: admin
     employer: dinum
+    startups:
+      - recosante
 teams:
   - /teams/animation-dinum
 ---
-
 Make it work, make it right, make it fast
