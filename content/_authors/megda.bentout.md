@@ -2,7 +2,7 @@
 fullname: Megda Bentout
 role: Chargée de déploiement
 domaine: Déploiement
-link: https://whyaphd.com/
+link: https://www.linkedin.com/in/megdabentout/
 github: megdabentout
 missions:
   - start: 2023-01-09
@@ -13,6 +13,4 @@ startups:
   - dora
 memberType: beta
 ---
-
-
-Cheffe de projets
+Chargée de déploiement
