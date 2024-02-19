@@ -8,5 +8,9 @@ missions:
     status: admin
     employer: DINUM
 memberType: beta
+teams:
+  - /teams/animation-dinum
+badges:
+  - segur
 ---
 
