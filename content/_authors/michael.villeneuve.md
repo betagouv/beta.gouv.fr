@@ -7,12 +7,12 @@ missions:
   - start: 2023-07-17
     end: 2024-06-17
     status: independent
-    employer: ''
+    employer: ""
 startups:
-  - data.insertion
+  - rdv.insertion
 memberType: beta
 previously:
-  - data.insertion
+  - rdv.insertion
 ---
 
 Développeur passionné, cycliste acharné, écologiste engagé
