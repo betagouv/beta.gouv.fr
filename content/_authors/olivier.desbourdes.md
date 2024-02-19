@@ -7,7 +7,6 @@ missions:
     end: 2024-12-01
     status: admin
 startups:
-  - rdvif
+  - compte.rendu.vif
 memberType: beta
 ---
-
