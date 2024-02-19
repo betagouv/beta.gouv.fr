@@ -15,7 +15,7 @@ previously:
   - dossiersco
   - classe-a-12
   - comobi
-  - labels-transition
+  - territoires-en-transitions
   - ma-cantine-egalim
 ---
 
