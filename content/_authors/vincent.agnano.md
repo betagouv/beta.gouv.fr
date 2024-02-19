@@ -14,7 +14,7 @@ startups:
 previously:
   - egalite.professionnelle
   - classe-a-12
-  - saisissezauvol
+  - auvol
   - eac
   - api-drones
   - data.gouv.fr
@@ -23,4 +23,5 @@ competences:
   - Développement Backend
   - Gestion de Produit
 ---
+
 Accompagnement des équipes pour l'Incubateur des Territoires (ANCT), développeur, animateur de tiers-lieux en zones rurales.
