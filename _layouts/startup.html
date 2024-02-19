@@ -60,10 +60,11 @@ layout: default
           </p>
           <p>
             <span class="fr-icon-mail-line"></span>
+            {% assign subject = page.title | append: " sur beta.gouv.fr" %}
             {% if page.contact %}
-            <a class="fr-link" href="mailto:{{ page.contact }}?subject={{ page.title | url_encode }}%20sur%20beta.gouv.fr">Contacter l'équipe</a>.
+            <a class="fr-link" href="mailto:{{ page.contact }}?subject={{ subject | url_encode }}">Contacter l'équipe</a>.
             {% else %}
-            <a class="fr-link" href="mailto:{{ site.email }}?subject={{ page.title | url_encode }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
+            <a class="fr-link" href="mailto:{{ site.email }}?subject={{ subject | url_encode }}">Contacter l'incubateur</a>.</em>
             {% endif %}
           </p>
           {% unless phase.status == 'investigation' or phase.status == 'transfer'  %}
