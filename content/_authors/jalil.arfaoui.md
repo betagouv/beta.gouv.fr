@@ -8,6 +8,9 @@ missions:
   - start: 2024-02-22
     end: 2024-12-31
     status: independent
+    employer: ''
+    startups:
+      - mon-entreprise
 startups:
   - mon-entreprise
 memberType: beta
