@@ -7,10 +7,7 @@ missions:
     end: 2024-06-30
     status: admin
     employer: DDTM 34/DIR
-startups:
-  - aigle
 memberType: autre
 startups:
   - aigle
 ---
-

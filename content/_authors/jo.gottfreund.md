@@ -14,7 +14,6 @@ missions:
     employer: Fabrique Numérique des Ministères Sociaux
 startups:
   - e-mjpm
-  - sre
 ---
 
 Open-Source Fanatic 🦊

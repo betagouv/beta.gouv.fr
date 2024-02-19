@@ -10,7 +10,7 @@ missions:
 previously:
   - qualicharge
 startups:
-  - Agora
+  - agora
 memberType: beta
 ---
 
