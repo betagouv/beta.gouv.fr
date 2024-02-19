@@ -10,8 +10,10 @@ phases:
   - name: construction
     start: 2016-05-01
   - name: alumni
+    start: 2020-07-01
+
 link: https://monprojet.anah.gouv.fr/
-repository: 
+repository:
 stats: true
 contact: contact@anah.beta.gouv.fr
 ---
