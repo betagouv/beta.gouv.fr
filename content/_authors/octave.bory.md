@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: NUMA
 startups:
-  - portail.rse
+  - portail-rse
 previously:
   - acceslibre
   - estime

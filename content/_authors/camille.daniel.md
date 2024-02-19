@@ -10,7 +10,7 @@ missions:
     status: service
     employer: La Zone
 startups:
-  - portail.rse
+  - portail-rse
 ---
 
 Développeuse et associée de Yaal Coop
