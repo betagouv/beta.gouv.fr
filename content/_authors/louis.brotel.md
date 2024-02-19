@@ -1,6 +1,6 @@
 ---
 fullname: Louis Brotel
-role: UX Designer
+role: UX Designer, designer de service, design stratégique
 domaine: Design
 missions:
   - start: 2023-06-05
@@ -8,5 +8,6 @@ missions:
     status: independent
     employer: Fabrique numérique du ministère des Armées
 memberType: beta
+link: https://www.linkedin.com/in/lbrotel/
 ---
 
