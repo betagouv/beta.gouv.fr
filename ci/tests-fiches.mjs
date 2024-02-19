@@ -72,7 +72,7 @@ errors.forEach((error) => {
   if (error.errors) {
     error.errors &&
       error.errors.map((error) => {
-        console.error(`\t${error.path} => ${error.message.substring(0, 100)}`);
+        console.error(`\t${error.path} => ${error.message.substring(0, 100)}...`);
         console.error(`\t\treceived: ${error.received} `);
       });
   } else {
