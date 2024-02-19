@@ -3,7 +3,7 @@ title: RapportNav
 mission: Rédiger simplement les compte-rendus de missions des affaires maritimes
 sponsors:
   - /organisations/dgitm
-  - /organisations/DGAMPA
+  - /organisations/dgampa
 incubator: mtes
 contact: camille.nguyen@mer.gouv.fr
 accessibility_status: non conforme
