@@ -7,7 +7,6 @@ incubator: dinum
 contact: jennifer.stephan@beta.gouv.fr
 usertypes:
   - particulier
-  - admin
   - etat
   - collectivite-territoriale
   - association
