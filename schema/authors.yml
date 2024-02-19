@@ -33,6 +33,10 @@ mapping:
               required:  yes
             "employer":
               type:      str
+            "startups":
+              type:      seq
+              sequence:
+                  - type:      any
   "incubator":
     type:      str
   "startups":
