@@ -9,7 +9,7 @@ missions:
     status: service
     employer: NUMA
 startups:
-    - co-construisons
+  - cobot
 github: roxanesch
 ---
 

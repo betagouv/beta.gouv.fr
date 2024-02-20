@@ -18,10 +18,6 @@ teams:
   - /teams/DINUM
 startups:
   - exposition-ij
-previously:
-  - Design gouv
-  - Observatoire de la qualité des démarches
-  - Incubateur des territoires de l'ANCT
 ---
 
 🌻

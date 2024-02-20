@@ -2,7 +2,7 @@
 title: Aeris
 mission: Limiter les rejets polluants dans l'air en facilitant et en harmonisant la déclaration et le suivi des émissions des industriels
 sponsors:
-    - /organisations/dgpr
+  - /organisations/dgpr
 incubator: mtes
 events:
   - name: end
@@ -13,6 +13,7 @@ phases:
   - name: construction
     start: 2018-01-01
   - name: alumni
+    start: 2018-12-31
 repository: https://github.com/mtes-mct/aeris
 stats: false
 contact: jacob.carbonel@beta.gouv.fr
@@ -41,7 +42,8 @@ Les exploitants, qui sont responsables du suivi des rejets de polluants de leur 
 Le service AERIS est un outil de transmission et d'analyse des résultats de surveillance des rejets dans l'air des industries, proposant une transposition numérique de la réglementation.
 
 En utilisant le service, un industriel remplira facilement son obligation réglementaire de transmettre à l’inspection les résultats de la surveillance de ses rejets dans l’air, en étant assuré que les données demandées sont collectées de façon harmonisée entre les sites industriels.
-Il pourra y retrouver un suivi des émissions sur une période donnée, mis en perspective de la réglementation, ce qui  lui permettra :
+Il pourra y retrouver un suivi des émissions sur une période donnée, mis en perspective de la réglementation, ce qui lui permettra :
+
 - de s’assurer qu’il prend en compte l’ensemble des contraintes auxquelles il est soumis ;
 - d’anticiper les épisodes de dépassements en identifiant les polluants dont le niveau d’émission se rapproche de la limite.
 

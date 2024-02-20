@@ -10,5 +10,5 @@ missions:
 startups:
   - encyclopedie-des-metiers
 previously:
-  - competence-valide
+  - competence.validee
 ---

@@ -13,8 +13,9 @@ startups:
   - itou
   - pilotage.de.linclusion
   - place-de-marche-inclusion
-  - data.insertion
+  - rdv.insertion
 badges:
   - segur
 ---
+
 ''

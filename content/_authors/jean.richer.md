@@ -8,7 +8,7 @@ missions:
     end: 2023-06-30
     status: admin
 startups:
-  - rdvif
+  - compte.rendu.vif
 memberType: dinum
 ---
 

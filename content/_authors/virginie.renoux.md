@@ -8,6 +8,5 @@ missions:
     status: admin
     employer: Mission Locale du Chinonais
 startups:
-  - pass-emploi
+  - l-application-du-cej
 ---
-

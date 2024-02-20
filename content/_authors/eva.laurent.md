@@ -7,9 +7,9 @@ missions:
   - start: 2023-06-21
     end: 2024-05-30
     status: independent
-    employer: ''
+    employer: ""
 startups:
-  - data.insertion
+  - rdv.insertion
 memberType: beta
 ---
 

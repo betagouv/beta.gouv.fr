@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: DGE
 startups:
-  - portail.rse
+  - portail-rse
 memberType: beta
 ---
 

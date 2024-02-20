@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - data.insertion
+  - rdv.insertion
 badges:
   - segur
 ---
