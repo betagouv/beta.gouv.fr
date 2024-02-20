@@ -46,12 +46,16 @@ Des outils permettant la remontée et l’analyse des demandes de transformation
 
 ## Les bénéfices
 
-On dénombre 13 000 visiteurs uniques sur la plateforme depuis son ouverture en 2023.
-
 Les bénéfices attendus sont les suivants : 
 - Augmentation du taux d’emploi à 6 mois et du taux de poursuite d’études des jeunes qui sortent de formation ;
 - Augmentation du nombre d’élèves dans des formations menant à des métiers d’avenir ;
 - Augmentation de la transformation des places de formation.
+
+Les premiers résultats sont encourageants : 
+- 13 700 visiteurs uniques se sont rendus sur la plateforme entre juin et décembre 2023. Chacun reste environ 7 minutes par connexion.
+- De nombreuses transformations sont prévues pour la rentrée 2024, avec notamment la création de 3 670 nouvelles places par rapport à 2023.
+
+
 
 
 
