@@ -7,6 +7,6 @@ missions:
     end: 2024-07-31
     status: service
     employer: Octo
-memberType: attributaire
+memberType: beta
 ---
 
