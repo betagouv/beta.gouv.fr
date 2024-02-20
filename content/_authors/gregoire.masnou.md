@@ -1,5 +1,5 @@
 ---
-fullname: Grégoire MASNOU
+fullname: Grégoire Masnou
 role: Intrapreneur
 domaine: Intraprenariat
 missions:
