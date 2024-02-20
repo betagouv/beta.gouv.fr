@@ -1,7 +1,7 @@
 ---
 fullname: Caroline Robillard
 domaine: Coaching
-role: Caoch
+role: Coach
 github: Carolinedanslesnuages
 missions:
   - start: 2019-09-14
