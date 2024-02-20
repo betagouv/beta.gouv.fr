@@ -9,12 +9,16 @@ incubator: mission-inserjeunes
 phases:
   - name: construction
     start: 2022-12-01
+  - start: 2024-02-20
+    name: acceleration
 repository: https://github.com/mission-apprentissage/sirius
 contact: contact-sirius@inserjeunes.beta.gouv.fr
 usertypes:
   - particulier
   - etablissement-scolaire
 accessibility_status: partiellement conforme
+link: https://sirius.apprentissage.beta.gouv.fr
+stats_url: https://sirius.apprentissage.beta.gouv.fr/statistiques
 ---
 # Le constat
 
