@@ -11,7 +11,6 @@ missions:
     employer: Mission interministérielle pour l'apprentissage
 startups:
   - catalogue-apprentissage
-  - rdv.apprentissage
   - uai_siret
 previously:
   - tdb-apprentissage

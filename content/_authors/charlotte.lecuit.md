@@ -18,7 +18,6 @@ missions:
     status: independent
 startups:
   - aides.jeunes
-  - matcha
 previously:
   - mes-aides
   - la-bonne-formation

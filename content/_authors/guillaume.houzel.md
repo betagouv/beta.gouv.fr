@@ -14,6 +14,5 @@ startups:
   - sirius
   - tdb-apprentissage
   - uai_siret
-  - Trajpro
   - voeux-apprentissage
 ---
