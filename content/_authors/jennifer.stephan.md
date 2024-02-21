@@ -1,5 +1,5 @@
 ---
-fullname: Jennifer Stephan
+fullname: Jenn Stephan
 role: Coach & PO
 domaine: Coaching
 github: JenniferStephan
@@ -12,6 +12,7 @@ missions:
 startups:
   - ma-cantine-egalim
   - icare-complements-alimentaires
+  - reperer.identifier.victimes.teh
 previously:
   - ellesfontlaculture
   - pop
