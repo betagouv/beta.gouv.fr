@@ -9,10 +9,11 @@ missions:
     end: 2024-04-01
     status: independent
     employer: Inops
+    startups:
+      - itou
 startups:
   - itou
 previously:
   - pilotage.de.linclusion
 ---
-
-Je viens de la planète des Sciences Cognitives et adore tout ce qui traite de #Design #UX #Research #Usability #HCI
+Je viens de la planète des Sciences Cognitives et adore tout ce qui traite de

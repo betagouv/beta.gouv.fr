@@ -8,9 +8,10 @@ missions:
     end: 2024-06-15
     status: independent
     employer: Opteamis
+    startups:
+      - reva
 startups:
   - reva
 memberType: beta
 ---
-
 Designer UXUI

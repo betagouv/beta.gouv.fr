@@ -32,5 +32,4 @@ competences:
 teams:
   - /teams/animation-dinum
 ---
-
 Chercheur en simplicité

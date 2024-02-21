@@ -7,6 +7,8 @@ missions:
     end: 2020-12-31
     status: admin
     employer: Département du Var
+    startups:
+      - plateforme-rsa
 startups:
   - plateforme-rsa
 previously: []

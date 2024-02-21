@@ -8,8 +8,9 @@ missions:
     end: 2024-06-30
     status: admin
     employer: ADEME
+    startups:
+      - territoires-en-transitions
 startups:
   - territoires-en-transitions
 memberType: beta
 ---
-

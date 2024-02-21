@@ -7,6 +7,8 @@ missions:
     end: 2024-03-30
     status: independent
     employer: ''
+    startups:
+      - oilhi
 startups:
   - oilhi
 competences:

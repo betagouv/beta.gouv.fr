@@ -8,9 +8,10 @@ missions:
     end: 2024-02-29
     status: service
     employer: LeGratin
+    startups:
+      - archifiltre
 startups:
   - archifiltre
 memberType: beta
 ---
-
 Développeur mais surtout entrepreneur

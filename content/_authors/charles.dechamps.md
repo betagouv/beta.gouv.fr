@@ -8,9 +8,9 @@ missions:
     end: 2023-12-01
     status: admin
     employer: GIP Plateforme de l'inclusion
+    startups:
+      - carnet.de.bord
 startups:
   - carnet.de.bord
 memberType: beta
 ---
-
-

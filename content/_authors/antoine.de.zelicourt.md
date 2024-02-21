@@ -8,11 +8,12 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Octo
+    startups:
+      - monsuivipsy
+      - nata
 startups:
   - monsuivipsy
   - nata
 memberType: beta
 ---
-
-
 Pharmacien-pharmacologue-chercheur de solutions numériques en santé

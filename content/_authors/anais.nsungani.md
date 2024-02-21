@@ -6,8 +6,9 @@ missions:
   - start: 2024-02-12
     end: 2024-06-12
     status: independent
+    startups:
+      - trackdechets
 startups:
   - trackdechets
 memberType: autre
 ---
-

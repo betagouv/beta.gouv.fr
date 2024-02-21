@@ -8,8 +8,9 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Jump Green
+    startups:
+      - tacct
 startups:
   - tacct
 memberType: autre
 ---
-

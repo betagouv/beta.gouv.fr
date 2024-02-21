@@ -7,5 +7,4 @@ missions:
     end: 2024-10-26
     status: service
 ---
-
 Développement commercial chez Pathtech

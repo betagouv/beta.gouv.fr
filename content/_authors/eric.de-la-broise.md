@@ -7,8 +7,9 @@ missions:
     end: 2022-09-15
     status: independent
     employer: Octo
+    startups:
+      - locatio
 startups:
   - locatio
 ---
-
 14 ans d'expérience en tant que Data Analyst et entrepreneur enthousiaste.

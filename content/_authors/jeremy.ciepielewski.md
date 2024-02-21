@@ -9,6 +9,9 @@ missions:
     end: 2024-09-29
     status: service
     employer: Mission interministérielle pour l'apprentissage
+    startups:
+      - la-bonne-alternance
+      - tdb-apprentissage
 startups:
   - la-bonne-alternance
   - tdb-apprentissage

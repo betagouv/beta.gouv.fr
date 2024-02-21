@@ -7,6 +7,8 @@ missions:
     end: 2022-04-01
     status: independent
     employer: Octo
+    startups:
+      - infoparquet
 startups:
   - infoparquet
 badges:

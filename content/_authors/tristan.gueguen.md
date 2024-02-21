@@ -8,8 +8,9 @@ missions:
     end: 2024-06-01
     status: service
     employer: Pathtech
+    startups:
+      - mobilic
 startups:
   - mobilic
 ---
-
 Geek professionnel

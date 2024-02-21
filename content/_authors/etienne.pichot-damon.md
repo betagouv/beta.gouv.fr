@@ -9,6 +9,8 @@ missions:
     end: 2024-09-30
     status: independent
     employer: Octo
+    startups:
+      - ban
 startups:
   - ban
 badges:
@@ -16,7 +18,4 @@ badges:
 previously:
   - api.gouv.fr
 ---
-
->-
-  J'accompagne les administrations dans la mise à disposition de leurs API sur
-  api.gouv.fr.
+J'accompagne les administrations dans la mise à disposition de leurs API sur api.gouv.fr.

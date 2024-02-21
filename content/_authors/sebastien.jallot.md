@@ -8,7 +8,10 @@ missions:
     end: 2021-06-30
     status: service
     employer: NUMA
+    startups:
+      - filharmonic
+      - fluctuat
 startups:
-    - filharmonic
-    - fluctuat
+  - filharmonic
+  - fluctuat
 ---

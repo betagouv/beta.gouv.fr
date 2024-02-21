@@ -8,6 +8,8 @@ missions:
   - start: 2018-10-02
     end: 2018-11-30
     status: independent
+    startups:
+      - mrs
 startups:
   - mrs
 ---

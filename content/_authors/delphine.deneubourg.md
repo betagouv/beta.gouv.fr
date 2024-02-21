@@ -13,4 +13,3 @@ teams:
 previously:
   - mon-suivi-justice
 ---
-

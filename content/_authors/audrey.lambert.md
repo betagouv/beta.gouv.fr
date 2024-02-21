@@ -15,5 +15,4 @@ startups:
   - tchap
 previously:
   - les-alpps
-
 ---

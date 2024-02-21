@@ -8,5 +8,4 @@ missions:
     status: service
     employer: Malt
 ---
-
 Administratrice des ventes du compte beta.gouv.fr

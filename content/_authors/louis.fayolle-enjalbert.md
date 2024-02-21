@@ -7,6 +7,8 @@ missions:
     end: 2024-03-01
     status: admin
     employer: MTES-MCT
+    startups:
+      - partaj
 startups:
   - partaj
 competences:

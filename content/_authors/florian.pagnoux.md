@@ -7,9 +7,8 @@ missions:
     end: 2017-10-26
     employer: dinum
     status: admin
-startups:
+startups: null
 previously:
   - mes-aides
 ---
-
 Souhaite construire des produits numériques qui ont du sens.

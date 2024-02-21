@@ -8,10 +8,11 @@ missions:
     end: 2024-06-16
     status: admin
     employer: ''
+    startups:
+      - dialogue
 startups:
   - dialogue
 memberType: autre
 previously:
   - dialogue
 ---
-

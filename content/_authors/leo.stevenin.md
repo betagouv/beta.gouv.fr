@@ -6,8 +6,9 @@ missions:
   - start: 2023-11-21
     end: 2024-05-31
     status: independent
+    startups:
+      - itou
 startups:
   - itou
 memberType: beta
 ---
-

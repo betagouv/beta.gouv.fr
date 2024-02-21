@@ -7,10 +7,11 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Octo
+    startups:
+      - place-de-marche-inclusion
 startups:
   - place-de-marche-inclusion
 competences:
   - Croissance
 ---
-
 Growth Marketer

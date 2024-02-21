@@ -8,8 +8,9 @@ missions:
     end: 2024-03-03
     status: independent
     employer: Malt
+    startups:
+      - versementgetorix
 startups:
   - versementgetorix
 memberType: beta
 ---
-

@@ -9,9 +9,10 @@ missions:
     end: 2024-06-28
     status: independent
     employer: Scopyleft
+    startups:
+      - cartobio
 startups:
   - cartobio
 memberType: beta
 ---
-
 Développeuse fullstack

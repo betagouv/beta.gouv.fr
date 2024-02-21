@@ -8,7 +8,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ut7
+    startups:
+      - eva
 startups:
-    - eva
-previously:
+  - eva
+previously: null
 ---

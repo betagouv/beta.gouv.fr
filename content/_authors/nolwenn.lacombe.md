@@ -7,6 +7,8 @@ missions:
     end: 2026-02-27
     status: admin
     employer: ANSSI
+    startups:
+      - nis2
 startups:
   - nis2
 memberType: autre

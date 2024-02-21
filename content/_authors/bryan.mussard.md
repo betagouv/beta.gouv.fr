@@ -8,9 +8,10 @@ missions:
     end: 2023-10-30
     status: admin
     employer: URSSAF
+    startups:
+      - mon-entreprise
 startups:
   - mon-entreprise
 memberType: beta
 ---
-
 Product owner à l'URSSAF

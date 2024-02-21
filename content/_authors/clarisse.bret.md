@@ -8,8 +8,9 @@ missions:
     end: 2024-05-29
     status: independent
     employer: ''
+    startups:
+      - mobilic
 startups:
   - mobilic
 memberType: beta
 ---
-

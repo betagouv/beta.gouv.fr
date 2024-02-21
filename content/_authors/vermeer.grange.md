@@ -18,5 +18,4 @@ previously:
   - la-bonne-alternance
   - la-bonne-boite
 ---
-
 En année sabbatique, réfléchit au futur.

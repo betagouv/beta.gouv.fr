@@ -16,5 +16,4 @@ startups:
 badges:
   - segur
 ---
-
 Je suis une drôle de dame.

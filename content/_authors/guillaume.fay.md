@@ -9,9 +9,11 @@ missions:
     end: 2024-12-31
     status: independent
     employer: DINUM
+    startups:
+      - ban
+      - bases.adresses.locales
 startups:
   - ban
   - bases.adresses.locales
 memberType: beta
 ---
-

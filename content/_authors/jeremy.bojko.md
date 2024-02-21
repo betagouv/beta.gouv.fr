@@ -7,9 +7,11 @@ missions:
     end: 2025-01-15
     status: independent
     employer: ''
+    startups:
+      - urbanvitaliz
+      - recommandations-collaboratives
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
 memberType: beta
 ---
-

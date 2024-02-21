@@ -7,7 +7,8 @@ missions:
     end: 2022-07-29
     status: admin
     employer: Ministère de la Culture
+    startups:
+      - euphrosyne
 startups:
   - euphrosyne
 ---
-

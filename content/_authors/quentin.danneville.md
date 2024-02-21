@@ -9,9 +9,11 @@ missions:
     end: 2023-11-01
     status: independent
     employer: DINUM
+    startups:
+      - urbanvitaliz
+      - recommandations-collaboratives
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
 ---
-
 Développeur full stack

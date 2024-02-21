@@ -27,4 +27,3 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-

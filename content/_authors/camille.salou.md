@@ -8,9 +8,10 @@ missions:
     end: 2023-11-30
     status: admin
     employer: IGN
-startups :
+    startups:
+      - vues-immersives-libres
+startups:
   - vues-immersives-libres
 badges:
   - segur
 ---
-

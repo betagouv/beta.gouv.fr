@@ -9,5 +9,4 @@ missions:
     status: admin
     employer: DINUM
 ---
-
 Développeur senior sur Java, SGBD et Node.js, aussi un passage sur Ruby pendant 4 ans

@@ -10,5 +10,4 @@ missions:
     status: independent
     employer: Lionel ANDRÉ
 ---
-
 Artisan développeur

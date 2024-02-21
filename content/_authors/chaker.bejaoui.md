@@ -8,10 +8,13 @@ missions:
     end: 2019-03-15
     status: service
     employer: numa
+    startups:
+      - civils-de-la-defense
+      - e-chauffeur
+      - sepia
 startups:
-    - civils-de-la-defense
-    - e-chauffeur
-    - sepia
+  - civils-de-la-defense
+  - e-chauffeur
+  - sepia
 ---
-
 I love reading good & bad books, checking my RSS feeds, really fast WiFi and making people better. Peace.

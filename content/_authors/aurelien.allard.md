@@ -14,5 +14,4 @@ previously:
 badges:
   - segur
 ---
-
 Développeur data et entrepreneur social.

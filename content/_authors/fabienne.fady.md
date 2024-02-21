@@ -6,8 +6,9 @@ missions:
   - start: 2023-09-01
     end: 2024-12-31
     status: admin
+    startups:
+      - mes.aides
 startups:
   - mes.aides
 memberType: beta
 ---
-

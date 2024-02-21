@@ -8,9 +8,9 @@ missions:
     end: 2024-06-25
     status: independent
     employer: Scopyleft
+    startups:
+      - rdv-service-public
 startups:
   - rdv-service-public
 ---
-
-
 Développeur web

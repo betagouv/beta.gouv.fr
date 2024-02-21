@@ -8,8 +8,9 @@ missions:
     end: 2024-03-29
     status: independent
     employer: DINUM
+    startups:
+      - docurba
 startups:
   - docurba
 memberType: dinum
 ---
-

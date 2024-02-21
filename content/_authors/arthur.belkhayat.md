@@ -8,6 +8,8 @@ missions:
     end: 2024-02-29
     status: independent
     employer: Malt
+    startups:
+      - cartographie.nationale
 startups:
   - cartographie.nationale
 previously:
@@ -18,5 +20,4 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-
 Développeur full stack

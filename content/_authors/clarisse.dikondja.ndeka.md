@@ -7,9 +7,10 @@ missions:
     end: 2025-09-19
     status: admin
     employer: DGALN
+    startups:
+      - locatio
 startups:
   - locatio
 memberType: beta
 ---
-
 Chargée de déploiement

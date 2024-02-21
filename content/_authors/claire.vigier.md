@@ -8,6 +8,8 @@ missions:
     end: 2022-12-31
     status: service
     employer: NUMA
+    startups:
+      - aides-territoires
 startups:
   - aides-territoires
 previously:

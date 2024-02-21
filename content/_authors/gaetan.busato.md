@@ -9,9 +9,10 @@ missions:
     end: 2024-04-05
     status: independent
     employer: ut7
+    startups:
+      - pilotagevoiepro
 startups:
   - pilotagevoiepro
 memberType: beta
 ---
-
 Dev React  NodeJS

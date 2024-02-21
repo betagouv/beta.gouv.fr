@@ -7,8 +7,9 @@ missions:
     end: 2021-12-31
     status: admin
     employer: DNUM affaires sociales
+    startups:
+      - fiche.commune.entreprise.fce
 startups:
   - fiche.commune.entreprise.fce
 ---
-
-"S'il n'y pas de solution, c'est qu'il n'y a pas de problème"
+S'il n'y pas de solution, c'est qu'il n'y a pas de problème

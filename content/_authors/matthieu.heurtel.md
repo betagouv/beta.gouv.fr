@@ -8,9 +8,8 @@ missions:
     end: 2021-06-30
     status: admin
     employer: MTES/MCT
-startups:
+startups: null
 previously:
-    - locatio
+  - locatio
 ---
-
 Transformer l'action publique sans la dénaturer

@@ -8,6 +8,8 @@ missions:
     end: 2024-03-31
     status: independent
     employer: ''
+    startups:
+      - cartographie.nationale
 startups:
   - cartographie.nationale
 previously:
@@ -18,5 +20,4 @@ competences:
   - UX
   - UI
 ---
-
 Designer d'interface, UX, principalement pour des supports web

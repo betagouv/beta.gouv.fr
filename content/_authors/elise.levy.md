@@ -7,9 +7,8 @@ missions:
     end: 2017-09-06
     employer: dinum
     status: admin
-startups:
+startups: null
 previously:
   - open-academie
 ---
-
 Pourquoi faire compliqué quand on peut faire simple ?

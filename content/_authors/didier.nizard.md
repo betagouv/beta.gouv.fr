@@ -8,10 +8,11 @@ missions:
     end: 2023-04-28
     status: independent
     employer: Malt
+    startups:
+      - tchap
 startups:
   - tchap
 badges:
   - segur
 ---
-
 Développeur mobile depuis bien trop longtemps !

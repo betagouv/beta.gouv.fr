@@ -7,7 +7,8 @@ missions:
     end: 2022-12-31
     status: admin
     employer: Inspection Générale de la Justice - Ministère de la Justice
+    startups:
+      - a-just
 startups:
   - a-just
 ---
-

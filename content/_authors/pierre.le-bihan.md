@@ -8,12 +8,11 @@ missions:
     end: 2025-01-01
     status: service
     employer: Selego
+    startups:
+      - snu
 startups:
   - snu
 badges:
   - segur
 ---
-
-
-
-Développeur 
+Développeur

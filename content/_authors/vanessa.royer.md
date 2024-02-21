@@ -7,9 +7,10 @@ missions:
     end: 2024-07-31
     status: independent
     employer: DINUM
+    startups:
+      - locatio
 startups:
   - locatio
 memberType: beta
 ---
-
 Vanessa, community manager, accro auc réseaux sociaux.

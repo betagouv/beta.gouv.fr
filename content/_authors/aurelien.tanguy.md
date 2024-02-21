@@ -9,4 +9,3 @@ missions:
     status: independent
 memberType: beta
 ---
-

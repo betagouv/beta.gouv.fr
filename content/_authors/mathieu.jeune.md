@@ -7,8 +7,9 @@ missions:
     end: 2024-06-30
     status: independent
     employer: ''
+    startups:
+      - mon.espace.collectivite
 startups:
   - mon.espace.collectivite
 memberType: beta
 ---
-

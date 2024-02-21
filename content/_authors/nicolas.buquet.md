@@ -9,11 +9,12 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - tchap
 startups:
   - tchap
 memberType: beta
 previously:
   - tchap
 ---
-
 Développeur iOS senior, runner

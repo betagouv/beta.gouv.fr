@@ -6,6 +6,8 @@ missions:
     end: 2024-04-24
     status: independent
     employer: NUMA
+    startups:
+      - evalpro
 competences:
   - Coaching
 memberType: autre

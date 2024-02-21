@@ -8,8 +8,9 @@ missions:
     end: 2022-06-30
     status: independent
     employer: octo
+    startups:
+      - locatio
 startups:
-    - locatio
+  - locatio
 ---
-
 Développeur agile mais solide

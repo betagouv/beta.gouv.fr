@@ -8,9 +8,10 @@ missions:
     end: 2024-04-30
     status: independent
     employer: ''
+    startups:
+      - cartographie.nationale
 startups:
   - cartographie.nationale
 memberType: beta
 ---
-
 Développeuse Full-stack.

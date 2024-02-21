@@ -9,5 +9,4 @@ missions:
     employer: EPEC
 memberType: autre
 ---
-
 CIP au sein du programme ALLERO de l'EPEC  j'accompagne des personnes bénéficiaires de la protection internationale dans leur insertion professionnelle.

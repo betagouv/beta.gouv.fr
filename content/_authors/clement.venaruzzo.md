@@ -7,8 +7,9 @@ missions:
   - start: 2024-01-23
     end: 2024-03-15
     status: independent
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 memberType: autre
 ---
-

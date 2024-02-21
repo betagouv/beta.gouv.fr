@@ -16,7 +16,7 @@ missions:
     employer: OCTO
     start: 2021-07-05
     end: 2021-10-31
-startups:
+startups: null
 previously:
   - signalement
   - sante-psy-etudiant

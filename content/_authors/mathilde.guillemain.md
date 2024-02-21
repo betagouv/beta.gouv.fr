@@ -8,10 +8,11 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Scopyleft
+    startups:
+      - histologe
+      - stop-punaises
 startups:
   - histologe
   - stop-punaises
 ---
-
-UX Designer & cheffe de produit
-J'aime les jeux de mots et le vert menthe !
+UX Designer & cheffe de produit J'aime les jeux de mots et le vert menthe !

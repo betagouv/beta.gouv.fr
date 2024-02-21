@@ -9,8 +9,9 @@ missions:
     end: 2024-02-27
     status: service
     employer: ''
+    startups:
+      - locatio
 startups:
   - locatio
 ---
-
 Développeuse Full Stack

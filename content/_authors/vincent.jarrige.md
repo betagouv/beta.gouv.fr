@@ -10,4 +10,3 @@ missions:
     employer: ANCT
 memberType: beta
 ---
-

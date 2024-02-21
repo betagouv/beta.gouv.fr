@@ -8,6 +8,8 @@ missions:
     end: 2022-08-15
     status: service
     employer: Selego
+    startups:
+      - snu
 startups:
   - snu
 competences:

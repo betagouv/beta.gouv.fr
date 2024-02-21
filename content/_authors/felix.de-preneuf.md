@@ -7,11 +7,12 @@ missions:
     end: 2023-10-13
     status: admin
     employer: independent/Malt
+    startups:
+      - aidantsconnect
 startups:
   - aidantsconnect
 competences:
   - Croissance
   - Communication
 ---
-
-Chargé de déploiement pour Aidants Connect 
+Chargé de déploiement pour Aidants Connect

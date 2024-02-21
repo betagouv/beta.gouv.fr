@@ -8,5 +8,4 @@ missions:
     status: independent
     employer: ''
 ---
-
 Développeur fullstack du Lab Innovation du Ministère de la justice

@@ -8,6 +8,8 @@ missions:
     end: 2024-06-30
     status: independent
     employer: UT7
+    startups:
+      - la-bonne-alternance
 startups:
   - la-bonne-alternance
 previously:

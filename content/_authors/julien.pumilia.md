@@ -9,9 +9,10 @@ missions:
     end: 2023-11-10
     status: independent
     employer: Opteamis
+    startups:
+      - signalement
 startups:
   - signalement
 previously:
   - dora
 ---
-

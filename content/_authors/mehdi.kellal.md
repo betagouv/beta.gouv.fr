@@ -7,10 +7,11 @@ missions:
     end: 2023-12-31
     status: admin
     employer: DINUM
+    startups:
+      - cnr
 badges:
   - segur
 startups:
   - cnr
 ---
-
 éveillé le jour, tente de dormir la nuit.

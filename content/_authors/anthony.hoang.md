@@ -8,9 +8,10 @@ missions:
     end: 2024-09-11
     status: independent
     employer: ''
+    startups:
+      - delta.v
 startups:
   - delta.v
 memberType: beta
 ---
-
 Ancien géomètre reconverti développeur Web

@@ -8,4 +8,3 @@ missions:
     status: admin
 memberType: dinum
 ---
-

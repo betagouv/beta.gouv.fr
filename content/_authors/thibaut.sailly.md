@@ -10,5 +10,5 @@ missions:
     status: independent
     employer: Codeurs en Liberté
 previously:
-    - eva # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
+  - eva
 ---

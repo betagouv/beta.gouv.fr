@@ -15,5 +15,4 @@ missions:
 startups:
   - e-mjpm
 ---
-
 Open-Source Fanatic 🦊

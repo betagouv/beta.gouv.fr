@@ -7,6 +7,8 @@ missions:
     end: 2019-08-31
     status: admin
     employer: MTES
+    startups:
+      - camino
 startups:
   - camino
 ---

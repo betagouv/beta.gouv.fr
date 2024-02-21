@@ -7,9 +7,11 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Incubateur Pôle emploi
+    startups:
+      - travailler.en.france
+      - mes.aides
 startups:
   - travailler.en.france
   - mes.aides
 memberType: beta
 ---
-

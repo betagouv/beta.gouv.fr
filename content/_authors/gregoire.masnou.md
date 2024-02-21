@@ -7,7 +7,8 @@ missions:
     end: 2024-08-31
     status: admin
     employer: MEAE
+    startups:
+      - expresso
 startups:
   - expresso
 ---
-

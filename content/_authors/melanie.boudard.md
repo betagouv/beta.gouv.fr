@@ -8,8 +8,9 @@ missions:
     end: 2021-06-30
     status: service
     employer: octo
+    startups:
+      - pix
 startups:
-    - pix
+  - pix
 ---
-
 Développeuse travaillant chez Octo Technology, en mission chez Pix.

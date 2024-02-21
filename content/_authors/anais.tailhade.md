@@ -8,6 +8,11 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - moncomptepro
+      - annuaire-entreprises
+      - suite-numerique
+      - authentification
 badges:
   - segur
 startups:

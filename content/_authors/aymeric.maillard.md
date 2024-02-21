@@ -8,7 +8,8 @@ missions:
     end: 2025-01-01
     status: admin
     employer: Agence Bio
+    startups:
+      - cartobio
 startups:
   - cartobio
 ---
-

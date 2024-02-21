@@ -8,6 +8,9 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Codeurs en Liberté
+    startups:
+      - api-entreprise
+      - oots.once-only.technical.system
 startups:
   - api-entreprise
   - oots.once-only.technical.system

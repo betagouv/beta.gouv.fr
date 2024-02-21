@@ -7,8 +7,9 @@ missions:
     end: 2024-03-31
     status: service
     employer: ''
+    startups:
+      - gestion.subventions.locales
 memberType: beta
 startups:
   - gestion.subventions.locales
 ---
-

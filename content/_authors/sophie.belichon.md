@@ -9,5 +9,4 @@ missions:
     employer: MASA&#x2F;DGAl
 memberType: autre
 ---
-
 Cheffe de la mission des urgences sanitaires (MASADGAl)

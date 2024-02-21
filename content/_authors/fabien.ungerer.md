@@ -9,8 +9,9 @@ missions:
     end: 2024-09-30
     status: independent
     employer: Quanted Square
+    startups:
+      - docurba
 startups:
   - docurba
 ---
-
 Web dev

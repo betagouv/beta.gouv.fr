@@ -18,5 +18,4 @@ previously:
   - workinfrance
   - e-mjpm
 ---
-
 Harder Better Faster Stronger.

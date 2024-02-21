@@ -7,8 +7,9 @@ missions:
     end: 2024-04-15
     status: service
     employer: DEUD
+    startups:
+      - mes-aides
 startups:
   - mes-aides
 memberType: beta
 ---
-

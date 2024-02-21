@@ -10,5 +10,4 @@ missions:
     employer: ANSM
 memberType: autre
 ---
-
 Designer de service UX

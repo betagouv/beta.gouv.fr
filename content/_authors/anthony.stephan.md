@@ -8,9 +8,11 @@ missions:
     end: 2023-09-29
     status: independent
     employer: INOPS
+    startups:
+      - travailler.en.france
+      - mes.aides
 startups:
   - travailler.en.france
   - mes.aides
 ---
-
 Artisan du web et entrepreneur depuis 1998.

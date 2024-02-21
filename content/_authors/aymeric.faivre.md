@@ -22,5 +22,4 @@ previously:
 competences:
   - UX
   - UI
-
 ---

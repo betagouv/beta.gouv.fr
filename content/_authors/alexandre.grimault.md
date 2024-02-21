@@ -8,12 +8,12 @@ missions:
     end: 2024-06-30
     status: independent
     employer: ''
+    startups:
+      - aplus
 startups:
   - aplus
 competences:
   - Développement Backend
   - Développement Frontend
   - Administration Système
-
 ---
-''

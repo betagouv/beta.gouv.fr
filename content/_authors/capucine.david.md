@@ -1,6 +1,6 @@
 ---
 fullname: Capucine David
-github:
+github: null
 domaine: Déploiement
 role: Déploiement
 missions:
@@ -8,6 +8,8 @@ missions:
     end: 2020-09-01
     status: service
     employer: octo
+    startups:
+      - datagir
 startups:
   - datagir
 ---

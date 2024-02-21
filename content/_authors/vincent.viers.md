@@ -3,8 +3,8 @@ fullname: Vincent Viers
 role: Data-trucs et coaching
 domaine: Développement
 github: vviers
-avatar:
-link:
+avatar: null
+link: null
 missions:
   - start: 2020-10-19
     end: 2021-11-01
@@ -23,12 +23,11 @@ missions:
     status: independent
     employer: scopyleft
 startups:
-    - données-et-territoires
-    - pilotage.de.linclusion
+  - données-et-territoires
+  - pilotage.de.linclusion
 previously:
-    - signaux-faibles
-    - disinfo
-    - a-just
+  - signaux-faibles
+  - disinfo
+  - a-just
 ---
-
 Data Dévelopeur & coach

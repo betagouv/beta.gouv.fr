@@ -1,14 +1,17 @@
 ---
 fullname: Aurélie Jallut
 domaine: Design
-role: "Designer "
+role: 'Designer '
 github: Aurelie-J
 link: http://www.marquedefabrique.net
 missions:
   - start: 2019-11-12
     end: 2024-03-31
     status: independent
-    employer: ""
+    employer: ''
+    startups:
+      - données-et-territoires
+      - umap
 startups:
   - données-et-territoires
   - umap
@@ -21,5 +24,4 @@ competences:
   - UX
   - UI
 ---
-
 Recherche utilisateurs, prototype & design d'interfaces

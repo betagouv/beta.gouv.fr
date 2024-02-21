@@ -11,5 +11,4 @@ memberType: autre
 teams:
   - /teams/lab-mi
 ---
-
 Cheffe de bureau BAOT

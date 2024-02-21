@@ -9,5 +9,4 @@ missions:
     employer: ''
 memberType: beta
 ---
-
 Intrapreneur Parasport

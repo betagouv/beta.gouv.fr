@@ -9,6 +9,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - apilos
+      - longuevieauxobjets
 startups:
   - apilos
   - longuevieauxobjets
@@ -16,6 +19,5 @@ previously:
   - sppnaut
 badges:
   - segur
-
 ---
 Envie de créer pour l'interêt général

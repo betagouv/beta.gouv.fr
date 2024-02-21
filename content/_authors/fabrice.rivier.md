@@ -1,6 +1,6 @@
 ---
 fullname: Fabrice Rivier
-role: Intrapreneur 
+role: Intrapreneur
 domaine: Intraprenariat
 github: FabriceRIV
 missions:
@@ -8,6 +8,8 @@ missions:
     end: 2021-04-30
     status: admin
     employer: Departement de l'Oise
+    startups:
+      - anti-gaspi-cantine
 startups:
-    - anti-gaspi-cantine
+  - anti-gaspi-cantine
 ---

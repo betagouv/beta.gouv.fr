@@ -8,6 +8,9 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Octo
+    startups:
+      - itou
+      - inclusion.connect
 startups:
   - itou
   - inclusion.connect

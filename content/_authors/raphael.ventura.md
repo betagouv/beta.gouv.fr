@@ -8,9 +8,10 @@ missions:
     end: 2025-08-11
     status: service
     employer: DGE
+    startups:
+      - signaux-faibles
 startups:
   - signaux-faibles
 badges:
   - segur
 ---
-

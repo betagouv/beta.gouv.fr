@@ -7,9 +7,10 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ANCT
+    startups:
+      - deveco
 startups:
   - deveco
 memberType: beta
 ---
-
 Numérique et développement éco

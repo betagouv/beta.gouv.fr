@@ -9,6 +9,8 @@ missions:
     end: 2022-06-30
     status: independent
     employer: DINUM
+    startups:
+      - histologe
 startups:
   - histologe
 badges:

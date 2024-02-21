@@ -8,6 +8,8 @@ missions:
     end: 2026-12-31
     status: admin
     employer: DINUM
+    startups:
+      - suite-numerique
 startups:
   - suite-numerique
 previously:
@@ -16,5 +18,4 @@ previously:
 badges:
   - segur
 ---
-
 Développeuse web. À quand les justices sociales et climatiques ?

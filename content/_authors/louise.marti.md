@@ -7,6 +7,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Octo
+    startups:
+      - la.communaute.de.linclusion
+      - itou
 startups:
   - la.communaute.de.linclusion
   - itou

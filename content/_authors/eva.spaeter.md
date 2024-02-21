@@ -8,9 +8,10 @@ missions:
     end: 2024-08-30
     status: independent
     employer: Malt
+    startups:
+      - datapass
 startups:
   - datapass
 memberType: beta
 ---
-
 Product Designer

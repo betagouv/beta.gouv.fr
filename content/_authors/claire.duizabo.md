@@ -8,7 +8,9 @@ missions:
     status: independent
     employer: Numa
     startups:
+      - nosgestesclimat
       - refugies.info
+      - mano
 memberType: beta
 startups:
   - nosgestesclimat

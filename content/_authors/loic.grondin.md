@@ -8,8 +8,9 @@ missions:
     end: 2024-11-06
     status: admin
     employer: IGN
+    startups:
+      - vues-immersives-libres
 startups:
   - vues-immersives-libres
 memberType: beta
 ---
-

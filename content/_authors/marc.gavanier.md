@@ -9,6 +9,10 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Octo
+    startups:
+      - cartographie.nationale
+      - les.bases
+      - suite.d.outils.des.mediateurs.numeriques
 startups:
   - cartographie.nationale
   - les.bases
@@ -23,6 +27,4 @@ competences:
 previously:
   - conseiller-numerique
 ---
->-
-  En tant qu'artisan du logiciel, j'apporte le maximum de valeur aux
-  utilisateurs en créant des outils bien conçus.
+En tant qu'artisan du logiciel, j'apporte le maximum de valeur aux utilisateurs en créant des outils bien conçus.

@@ -8,8 +8,9 @@ missions:
     end: 2024-03-30
     status: independent
     employer: ''
+    startups:
+      - ecobalyse
 startups:
   - ecobalyse
 memberType: autre
 ---
-

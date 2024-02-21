@@ -7,10 +7,11 @@ missions:
     end: 2024-07-01
     status: independent
     employer: UT-7
+    startups:
+      - collectif_objets
 startups:
   - collectif_objets
 badges:
   - segur
 github: Fantine-py
 ---
-

@@ -8,10 +8,10 @@ missions:
     end: 2024-06-29
     status: independent
     employer: ''
+    startups:
+      - nosgestesclimat
 startups:
   - nosgestesclimat
 badges:
   - segur
 ---
-
-

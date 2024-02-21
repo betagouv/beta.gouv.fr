@@ -7,6 +7,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ANCT
+    startups:
+      - lannuaire.des.collectivites
+      - espace.sur.demande
+      - agents.en.intervention
 startups:
   - lannuaire.des.collectivites
   - espace.sur.demande

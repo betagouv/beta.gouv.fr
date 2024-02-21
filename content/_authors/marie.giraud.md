@@ -8,6 +8,15 @@ missions:
     end: 2023-01-31
     status: independent
     employer: Ministère des Armées
+    startups:
+      - sepia
+      - octopus
+      - osirispn
+      - cassiopee
+      - airvam
+      - usine-chatbots
+      - stargate
+      - megalodon
 startups:
   - sepia
   - octopus

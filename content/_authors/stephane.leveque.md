@@ -9,4 +9,3 @@ missions:
     employer: Cerema
 memberType: autre
 ---
-

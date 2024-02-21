@@ -7,10 +7,9 @@ missions:
     end: 2024-05-30
     status: independent
     employer: ''
+    startups:
+      - monpsy
 startups:
   - monpsy
 ---
-
-
-
 J'accompagne les gens et les projets.

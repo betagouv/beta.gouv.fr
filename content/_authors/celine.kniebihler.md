@@ -9,6 +9,8 @@ missions:
     end: 2020-12-31
     status: independent
     employer: Arolla, Octo
+    startups:
+      - itou
 startups:
   - itou
 previously:

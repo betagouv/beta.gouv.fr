@@ -8,7 +8,8 @@ missions:
     end: 2022-01-31
     status: independent
     employer: /ut7
+    startups:
+      - locadocs
 startups:
   - locadocs
 ---
-

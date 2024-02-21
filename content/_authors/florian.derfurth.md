@@ -9,6 +9,8 @@ missions:
     end: 2024-06-30
     status: independent
     employer: null
+    startups:
+      - territoires-en-transitions
 startups:
   - territoires-en-transitions
 competences:

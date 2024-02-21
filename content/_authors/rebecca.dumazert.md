@@ -8,10 +8,11 @@ missions:
     end: 2024-12-30
     status: admin
     employer: DINUM
+    startups:
+      - authentification
 startups:
   - authentification
 badges:
   - segur
 ---
-
 Développeuse web

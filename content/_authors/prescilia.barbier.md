@@ -7,6 +7,9 @@ missions:
     end: 2024-12-31
     status: service
     employer: DEUD Pôle emploi
+    startups:
+      - mobiville
+      - la-bonne-boite
 incubator: pole-emploi
 startups:
   - mobiville

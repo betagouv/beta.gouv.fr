@@ -22,4 +22,3 @@ badges:
 teams:
   - /teams/animation-dinum
 ---
-

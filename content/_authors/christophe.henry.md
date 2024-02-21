@@ -9,8 +9,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - aidantsconnect
 startups:
   - aidantsconnect
 ---
-
-La vie n'est marrante qu'en apprenant. Aussi : chats !
+La vie n'est marrante qu'en apprenant. Aussi: chats !

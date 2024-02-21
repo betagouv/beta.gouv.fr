@@ -8,9 +8,10 @@ missions:
     end: 2024-06-30
     status: independent
     employer: ''
+    startups:
+      - benefriches
 startups:
   - benefriches
 memberType: autre
 ---
-
 🎨 Designer UXUI 🧩 Animatrice de la Fresque du Numérique

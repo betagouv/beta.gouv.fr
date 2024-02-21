@@ -15,27 +15,26 @@ missions:
     employer: dinum
     status: admin
 github: IshanB
-startups:
+startups: null
 previously:
-    - urbanvitaliz
-    - ban
-    - datagir
-    - territoires-en-transitions
-    - le-taxi
-    - preuve-de-covoiturage
-    - comobi
-    - transport
-    - auvol
-    - peps
-    - tutorat_fp
-    - cartobio
-    - ma-cantine-egalim
-    - recosante
-    - moncomptepro
+  - urbanvitaliz
+  - ban
+  - datagir
+  - territoires-en-transitions
+  - le-taxi
+  - preuve-de-covoiturage
+  - comobi
+  - transport
+  - auvol
+  - peps
+  - tutorat_fp
+  - cartobio
+  - ma-cantine-egalim
+  - recosante
+  - moncomptepro
 badges:
   - segur
 teams:
   - /teams/animation-dinum
 ---
-
 Chef du département Incubateur de services numériques à la DINUM

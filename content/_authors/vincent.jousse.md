@@ -9,11 +9,12 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Octo
+    startups:
+      - carnet.de.bord
+      - inclusion.connect
+      - itou
 startups:
   - carnet.de.bord
   - inclusion.connect
   - itou
 ---
-
-
-''

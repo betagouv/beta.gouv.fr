@@ -13,5 +13,4 @@ previously:
 badges:
   - segur
 ---
-
 Une grande passionnée de mobilités !

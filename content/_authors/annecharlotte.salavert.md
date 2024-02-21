@@ -7,6 +7,8 @@ missions:
     end: 2022-12-31
     status: admin
     employer: Ministère des Solidarités et de la Santé
+    startups:
+      - monpsy
 incubator: sgmas
 startups:
   - monpsy

@@ -8,6 +8,12 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ''
+    startups:
+      - ban
+      - pcrs
+      - bases.adresses.locales
+      - données-et-territoires
+      - umap
 startups:
   - ban
   - pcrs

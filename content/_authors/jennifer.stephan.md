@@ -9,6 +9,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: scopyleft
+    startups:
+      - ma-cantine-egalim
+      - icare-complements-alimentaires
 startups:
   - ma-cantine-egalim
   - icare-complements-alimentaires

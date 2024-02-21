@@ -9,5 +9,4 @@ missions:
     status: admin
 memberType: beta
 ---
-
 Passionné de sécurité maritime

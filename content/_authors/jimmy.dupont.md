@@ -7,9 +7,10 @@ missions:
     end: 2024-09-30
     status: independent
     employer: Malt
+    startups:
+      - locatio
 startups:
   - locatio
 memberType: autre
 ---
-
 Opérateur de validation

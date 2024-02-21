@@ -8,5 +8,4 @@ missions:
     end: 2022-10-31
     status: independent
 ---
-
 Dev Fullstack et Data addict.

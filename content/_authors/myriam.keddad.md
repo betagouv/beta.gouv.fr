@@ -8,6 +8,8 @@ missions:
     end: 2023-08-31
     status: independent
     employer: SCOPYLEFT
+    startups:
+      - rdv-service-public
 startups:
   - rdv-service-public
 badges:

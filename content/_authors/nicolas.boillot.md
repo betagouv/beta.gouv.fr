@@ -7,10 +7,11 @@ missions:
     end: 2023-10-25
     status: service
     employer: OCTO
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 badges:
   - segur
 ---
-
 Consultant UX senior

@@ -8,7 +8,8 @@ missions:
     end: 2024-05-31
     status: admin
     employer: Direction générale du travail
+    startups:
+      - codedutravail
 startups:
   - codedutravail
 ---
-

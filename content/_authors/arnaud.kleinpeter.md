@@ -7,9 +7,8 @@ missions:
     end: 2015-03-31
     status: service
     employer: octo
-startups:
+startups: null
 previously:
   - mes-aides
 ---
-
 Ex-mes-aides.

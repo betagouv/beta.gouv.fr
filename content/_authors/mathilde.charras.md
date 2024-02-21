@@ -7,9 +7,10 @@ missions:
     end: 2024-06-30
     status: independent
     employer: DINUM
+    startups:
+      - ma-cantine-egalim
 startups:
   - ma-cantine-egalim
 memberType: beta
 ---
-
 Chargée de déploiement, de communauté, de support utilisateur, j'adore et écouter les gens, se plaindre au sujet d'un bug ou raconter leur vie autour d'un verre !

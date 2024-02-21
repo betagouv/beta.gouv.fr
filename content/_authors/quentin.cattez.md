@@ -7,9 +7,11 @@ missions:
     end: 2018-09-30
     status: service
     employer: octo
+    startups:
+      - pix
+      - mpal
 startups:
-    - pix
-    - mpal
+  - pix
+  - mpal
 ---
-
 Newbie Ruby on Rails ;)

@@ -8,6 +8,8 @@ missions:
     end: 2025-01-31
     status: independent
     employer: La Startup d'État Engagement Civique
+    startups:
+      - jeveuxaider
 competences:
   - Communication
 memberType: autre

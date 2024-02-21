@@ -8,5 +8,4 @@ missions:
     status: admin
     employer: Ministère de la Justice
 ---
-
-Développeur de la Fabrique Innovation au Ministère de la Justice 
+Développeur de la Fabrique Innovation au Ministère de la Justice

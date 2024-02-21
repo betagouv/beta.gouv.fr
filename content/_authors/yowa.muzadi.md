@@ -11,4 +11,3 @@ memberType: beta
 teams:
   - /teams/animation-dinum
 ---
-

@@ -8,10 +8,11 @@ missions:
     end: 2024-04-03
     status: independent
     employer: OCTO
+    startups:
+      - bases.adresses.locales
 startups:
   - bases.adresses.locales
 previously:
   - carnet.de.bord
 memberType: beta
 ---
-

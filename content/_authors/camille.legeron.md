@@ -7,6 +7,8 @@ missions:
     end: 2024-08-05
     status: service
     employer: TelesCoop
+    startups:
+      - données-et-territoires
 startups:
   - données-et-territoires
 ---

@@ -1,6 +1,6 @@
 ---
 fullname: Pauline Vaconsin - de Yrigoyen
-role: Ambassadrice DS et BNA 
+role: Ambassadrice DS et BNA
 domaine: Autre
 link: https://www.ludmilloconsulting.com/
 missions:
@@ -9,4 +9,3 @@ missions:
     status: admin
     employer: DINUM
 ---
-

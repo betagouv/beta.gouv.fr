@@ -7,5 +7,4 @@ missions:
     end: 2023-08-31
     status: service
 ---
-
 Account Manager chez MALT

@@ -7,6 +7,8 @@ missions:
     end: 2024-07-05
     status: independent
     employer: B-NEXT
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 ---

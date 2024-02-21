@@ -10,5 +10,4 @@ missions:
     employer: Octo
 memberType: autre
 ---
-
 Coach en innovation, maker fou

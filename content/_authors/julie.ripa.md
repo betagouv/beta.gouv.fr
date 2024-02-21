@@ -29,5 +29,4 @@ previously:
   - lannuaire.des.collectivites
   - dotations-locales
 ---
-
 J'essaie de faire quelque chose pour l'humanité en luttant contre la pauvreté

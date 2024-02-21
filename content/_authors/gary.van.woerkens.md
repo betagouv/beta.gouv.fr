@@ -9,5 +9,4 @@ missions:
     status: admin
 memberType: beta
 ---
-
 Delivery Manager à la Fabrique Numérique des ministères sociaux depuis 2020.

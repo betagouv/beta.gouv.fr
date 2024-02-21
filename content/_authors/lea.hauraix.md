@@ -7,9 +7,10 @@ missions:
     end: 2024-04-30
     status: independent
     employer: Scopyleft
+    startups:
+      - rdv-service-public
 startups:
   - rdv-service-public
 memberType: beta
 ---
-
 Chargée de déploiement RDV Service Public

@@ -9,8 +9,9 @@ missions:
     end: 2021-10-01
     status: independent
     employer: Inria et DINUM
+    startups:
+      - signaux-faibles
 startups:
   - signaux-faibles
 ---
-
 Je suis chercheuse chez Inria Saclay.

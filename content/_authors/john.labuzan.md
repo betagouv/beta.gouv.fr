@@ -10,6 +10,12 @@ missions:
     end: 2024-06-30
     status: independent
     employer: academie-en-ligne.fr
+    startups:
+      - chauffage-urbain
+      - place-des-entreprises
+      - signalement
+      - mediature
+      - lannuaire.des.collectivites
 startups:
   - chauffage-urbain
   - place-des-entreprises

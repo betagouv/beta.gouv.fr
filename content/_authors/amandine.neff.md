@@ -1,6 +1,6 @@
 ---
 fullname: Amandine Neff
-role: Responsable Secteur Public Malt 
+role: Responsable Secteur Public Malt
 domaine: Autre
 missions:
   - start: 2021-10-01
@@ -9,4 +9,3 @@ missions:
 badges:
   - segur
 ---
-

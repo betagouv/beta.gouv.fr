@@ -7,6 +7,10 @@ missions:
     end: 2024-12-31
     status: admin
     employer: Pôle emploi
+    startups:
+      - competence.validee
+      - mes.aides.a.lembauche
+      - mes-evenements-emploi
 startups:
   - competence.validee
   - mes.aides.a.lembauche

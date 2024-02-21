@@ -10,6 +10,5 @@ missions:
     employer: Ministère de la Justice
 badges:
   - segur
-
 ---
 Développeur web au SNUM

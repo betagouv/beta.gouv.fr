@@ -11,4 +11,3 @@ missions:
 teams:
   - /teams/mtes
 ---
-

@@ -18,5 +18,4 @@ previously:
   - territoires-en-transitions
   - ma-cantine-egalim
 ---
-
 faire des trucs utiles avec des personnes enthousiastes🐾

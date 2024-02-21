@@ -7,9 +7,10 @@ missions:
     end: 2022-10-31
     status: independent
     employer: Ministère de l'éducation, de l'engagement et de la jeunesse
+    startups:
+      - snu
 startups:
   - snu
 badges:
   - segur
 ---
-

@@ -7,8 +7,9 @@ missions:
     end: 2024-07-29
     status: independent
     employer: LBC
+    startups:
+      - espace.sur.demande
 startups:
   - espace.sur.demande
 memberType: beta
 ---
-

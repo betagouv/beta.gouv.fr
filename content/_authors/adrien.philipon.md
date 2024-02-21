@@ -7,8 +7,9 @@ missions:
     end: 2024-05-01
     status: admin
     employer: DGALN
+    startups:
+      - accesscite
 startups:
   - accesscite
 memberType: beta
 ---
-
