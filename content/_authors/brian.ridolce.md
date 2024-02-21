@@ -8,9 +8,10 @@ missions:
     end: 2023-10-10
     status: service
     employer: Numéricité
+    startups:
+      - tumeplay
 startups:
   - tumeplay
 memberType: beta
 ---
-
 Développeur web et mobile @Numéricité

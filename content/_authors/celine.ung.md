@@ -8,9 +8,10 @@ missions:
     end: 2024-03-19
     status: independent
     employer: Malt
+    startups:
+      - l-immersion-facile
 startups:
   - l-immersion-facile
 memberType: autre
 ---
-
 Développeuse fullstack

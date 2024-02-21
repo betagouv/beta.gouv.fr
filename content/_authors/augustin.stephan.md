@@ -8,10 +8,11 @@ missions:
   - start: 2021-03-29
     end: 2021-12-31
     status: independent
+    startups:
+      - l-application-du-cej
 startups:
-  - pass-emploi
+  - l-application-du-cej
 previously:
   - aides.jeunes
 ---
-
 UI/UX Designer freelance depuis 3 ans.

@@ -10,5 +10,4 @@ missions:
     employer: Pôle Emploi
 memberType: beta
 ---
-
 Lead Product Manager à l'incubateur de Pôle Emploi.

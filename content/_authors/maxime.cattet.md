@@ -8,9 +8,10 @@ missions:
     end: 2025-01-31
     status: independent
     employer: UT7
+    startups:
+      - pop
 startups:
   - pop
 previously:
   - euphrosyne
 ---
-

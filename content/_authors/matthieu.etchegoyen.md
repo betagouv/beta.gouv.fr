@@ -9,8 +9,9 @@ missions:
     end: 2024-06-04
     status: independent
     employer: Malt
+    startups:
+      - apilos
 startups:
   - apilos
 memberType: beta
 ---
-

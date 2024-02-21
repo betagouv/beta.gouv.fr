@@ -7,8 +7,9 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Numa
+    startups:
+      - versementgetorix
 startups:
   - versementgetorix
 ---
-
 Designer de service, coach méthodologique et peintre

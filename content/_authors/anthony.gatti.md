@@ -7,6 +7,8 @@ missions:
     end: 2024-06-30
     status: independent
     employer: ''
+    startups:
+      - sndv_maritime
 startups:
   - sndv_maritime
 badges:

@@ -8,6 +8,8 @@ missions:
     end: 2024-06-30
     status: independent
     employer: DINUM
+    startups:
+      - longuevieauxobjets
 previously:
   - trackdechets
 badges:
@@ -15,6 +17,4 @@ badges:
 startups:
   - longuevieauxobjets
 ---
-
-
 La circularité, pour préserver nos ressources ♻

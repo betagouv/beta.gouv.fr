@@ -7,6 +7,8 @@ missions:
     end: 2024-01-25
     status: independent
     employer: ''
+    startups:
+      - envergo
 startups:
   - envergo
 badges:

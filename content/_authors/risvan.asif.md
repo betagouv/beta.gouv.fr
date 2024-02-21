@@ -8,9 +8,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ''
+    startups:
+      - pilotagevoiepro
 startups:
   - pilotagevoiepro
 memberType: beta
 ---
-
 Product designer le jour, entrepreneur la nuit

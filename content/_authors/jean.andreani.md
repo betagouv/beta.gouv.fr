@@ -7,8 +7,9 @@ missions:
     end: 2024-11-30
     status: independent
     employer: Malt
+    startups:
+      - vues-immersives-libres
 startups:
   - vues-immersives-libres
 memberType: autre
 ---
-

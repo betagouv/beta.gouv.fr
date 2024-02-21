@@ -7,9 +7,10 @@ missions:
     end: 2024-06-15
     status: independent
     employer: ''
+    startups:
+      - données-et-territoires
 startups:
   - données-et-territoires
 memberType: beta
 ---
-
 Facilitateur - utilise des mots simples pour expliquer des choses compliqués

@@ -8,6 +8,8 @@ missions:
     end: 2026-02-28
     status: independent
     employer: Octo
+    startups:
+      - data-inclusion
 startups:
   - data-inclusion
 badges:
@@ -15,7 +17,4 @@ badges:
 competences:
   - Développement Backend
   - Développement Frontend
-
 ---
-
-''

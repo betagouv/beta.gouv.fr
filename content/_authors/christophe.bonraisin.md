@@ -8,12 +8,10 @@ missions:
     status: admin
     employer: pole-emploi
 previously:
-    - la-bonne-formation 
-    - dematapprentissage
-    - la-bonne-alternance 
-    - sirius
-    - tdb-apprentissage
-    
+  - la-bonne-formation
+  - dematapprentissage
+  - la-bonne-alternance
+  - sirius
+  - tdb-apprentissage
 ---
-
 Irrité par les irritants, pugnace pour chercher à les résoudre, avec 😃

@@ -17,6 +17,5 @@ previously:
   - comobi
   - workinfrance
 github: DanielBMY
-
 ---
 Linchpin mindset, fighting mediocrity, the status quo… and the lizard brain!

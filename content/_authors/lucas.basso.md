@@ -10,5 +10,4 @@ missions:
     employer: Octo
 memberType: attributaire
 ---
-
 Ops a la DNUM

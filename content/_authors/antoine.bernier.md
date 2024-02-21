@@ -15,5 +15,4 @@ previously:
   - aides.jeunes
 domaine: Développement
 ---
-
 Développeur Web full stack

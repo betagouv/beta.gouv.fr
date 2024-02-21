@@ -9,8 +9,9 @@ missions:
     end: 2022-05-31
     status: independent
     employer: Octo, Benext
+    startups:
+      - partaj
 startups:
   - partaj
 ---
-
 JavaScript, Django, open source. Aime la grimpe et le surf, le cinéma et la littérature.

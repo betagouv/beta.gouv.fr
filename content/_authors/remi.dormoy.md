@@ -17,5 +17,4 @@ startups:
 previously:
   - l-application-du-cej
 ---
-
 Footballeur amateur

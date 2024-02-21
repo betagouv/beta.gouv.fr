@@ -7,10 +7,10 @@ missions:
     end: 2025-12-01
     status: independent
     employer: Octo
+    startups:
+      - l-immersion-facile
 startups:
   - l-immersion-facile
 badges:
   - segur
-
 ---
-''

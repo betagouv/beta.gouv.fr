@@ -8,9 +8,10 @@ missions:
     end: 2023-12-30
     status: independent
     employer: MALT
+    startups:
+      - pop
 startups:
   - pop
 memberType: beta
 ---
-
-DEV 
+DEV

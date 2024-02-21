@@ -8,11 +8,12 @@ missions:
     end: 2024-05-31
     status: service
     employer: Pathtech
+    startups:
+      - sante-psy-etudiant
+      - mobilic
 startups:
   - sante-psy-etudiant
   - mobilic
 domaine: Développement
 ---
-
-
 Développeuse pour projets écologiques et sociaux

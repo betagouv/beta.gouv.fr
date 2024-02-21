@@ -10,6 +10,4 @@ missions:
     employer: ''
 memberType: beta
 ---
-
 DevOps bluemind
-

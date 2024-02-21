@@ -11,5 +11,4 @@ missions:
 badges:
   - segur
 ---
-
 Coach & formateur

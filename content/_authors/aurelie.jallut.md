@@ -9,19 +9,19 @@ missions:
     end: 2024-03-31
     status: independent
     employer: ''
+    startups:
+      - données-et-territoires
+      - umap
 startups:
   - données-et-territoires
   - umap
 previously:
-  - Aplus
+  - aplus
   - sndv_maritime
-  - Designers transverses
 badges:
   - segur
 competences:
   - UX
   - UI
-
 ---
-
 Recherche utilisateurs, prototype & design d'interfaces

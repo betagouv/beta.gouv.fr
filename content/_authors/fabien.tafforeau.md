@@ -8,6 +8,10 @@ missions:
     end: 2025-01-31
     status: independent
     employer: ''
+    startups:
+      - sepia
+      - osirispn
+      - bases.adresses.locales
 startups:
   - sepia
   - osirispn
@@ -15,4 +19,3 @@ startups:
 competences:
   - Développement Frontend
 ---
-

@@ -17,7 +17,6 @@ startups:
   - suite-numerique
 memberType: beta
 previously:
-    - signaux-faibles
+  - signaux-faibles
 ---
-
 Intrapreneur de la messagerie de la suite numérique

@@ -9,6 +9,8 @@ missions:
     end: 2019-07-29
     status: independent
     employer: octo
+    startups:
+      - perspectives
 startups:
   - perspectives
 previously:

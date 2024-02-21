@@ -6,6 +6,8 @@ missions:
     end: 2024-02-21
     status: independent
     employer: Malt
+    startups:
+      - tchap
 competences:
   - Développement Frontend
 memberType: beta

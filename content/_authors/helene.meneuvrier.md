@@ -8,11 +8,12 @@ missions:
     end: 2024-03-29
     status: independent
     employer: Scopyleft
+    startups:
+      - histologe
+      - stop-punaises
 startups:
   - histologe
   - stop-punaises
 memberType: beta
 ---
-
-
 Développeuse PHP/JS

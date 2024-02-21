@@ -8,11 +8,11 @@ missions:
     end: 2024-07-07
     status: independent
     employer: Octo
+    startups:
+      - itou
 startups:
   - itou
 badges:
   - segur
 ---
-
-
 UI designer au service premier de l'utilisateur !

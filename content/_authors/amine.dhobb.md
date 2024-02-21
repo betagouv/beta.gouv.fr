@@ -8,6 +8,8 @@ missions:
     end: 2025-01-07
     status: independent
     employer: Malt/GIP Plateforme de l'Inclusion
+    startups:
+      - rdv.insertion
 startups:
-  - data.insertion
+  - rdv.insertion
 ---

@@ -7,7 +7,4 @@ missions:
     end: 2023-03-03
     status: independent
     employer: Incubateur des Territoires
-
 ---
-
-

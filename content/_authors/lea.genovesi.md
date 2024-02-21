@@ -8,8 +8,11 @@ missions:
     end: 2024-10-30
     status: independent
     employer: NUMA
+    startups:
+      - compte.rendu.vif
+      - precontentieux.justice
 startups:
-  - rdvif
+  - compte.rendu.vif
   - precontentieux.justice
 badges:
   - segur
@@ -17,5 +20,4 @@ previously:
   - tracabilite.courrier
   - tracage.vaccination.iahp
 ---
-
 Designer pour le monde du digital et des politiques publiques

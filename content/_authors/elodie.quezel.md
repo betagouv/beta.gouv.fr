@@ -14,7 +14,6 @@ missions:
     status: admin
     employer: DGE
 startups:
-    - signaux-faibles
+  - signaux-faibles
 ---
-
 Pilote opérationnelle

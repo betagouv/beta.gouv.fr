@@ -12,5 +12,4 @@ memberType: beta
 previously:
   - potentiel
 ---
-
 Coach produit @La Fabrique Numérique MTE

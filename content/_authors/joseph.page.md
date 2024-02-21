@@ -9,6 +9,8 @@ missions:
     end: 2024-03-31
     status: service
     employer: Octo Technology
+    startups:
+      - suite-numerique
 memberType: dinum
 startups:
   - suite-numerique

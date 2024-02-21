@@ -8,9 +8,10 @@ missions:
     end: 2024-10-28
     status: independent
     employer: SCOPYLEFT
+    startups:
+      - rdv-service-public
 badges:
   - segur
 startups:
   - rdv-service-public
 ---
-

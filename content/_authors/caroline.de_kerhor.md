@@ -9,6 +9,14 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ''
+    startups:
+      - ozensemble
+      - monpsy
+      - monsuivipsy
+      - mano
+      - bpco
+      - recosante
+      - nata
 startups:
   - ozensemble
   - monpsy
@@ -19,6 +27,4 @@ startups:
   - nata
 competences:
   - Coaching
-
 ---
-

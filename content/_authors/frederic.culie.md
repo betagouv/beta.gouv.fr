@@ -7,6 +7,8 @@ missions:
     end: 2024-01-14
     status: admin
     employer: DINUM
+    startups:
+      - tchap
 badges:
   - segur
 startups:
@@ -14,5 +16,4 @@ startups:
 teams:
   - /teams/dinum_produits_interministeriels
 ---
-
 CISO DINUM

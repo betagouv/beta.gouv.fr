@@ -13,5 +13,4 @@ previously:
   - histologe
   - chauffage-urbain
 ---
-
-J'adore réinventer le monde autour d'un bon repas :) 
+J'adore réinventer le monde autour d'un bon repas :)

@@ -10,5 +10,4 @@ missions:
     employer: Numéricité
 memberType: autre
 ---
-
 Juriste Numéricité

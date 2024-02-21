@@ -7,6 +7,9 @@ missions:
     end: 2024-03-30
     status: independent
     employer: ''
+    startups:
+      - euphrosyne
+      - collectif_objets
 startups:
   - euphrosyne
   - collectif_objets
@@ -16,5 +19,4 @@ competences:
 previously:
   - locadocs
 ---
-
 Designer UX/UI

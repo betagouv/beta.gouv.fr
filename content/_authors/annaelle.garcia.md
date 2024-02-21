@@ -8,10 +8,11 @@ missions:
     end: 2024-03-29
     status: independent
     employer: ''
+    startups:
+      - mon-recap
 startups:
   - mon-recap
 memberType: beta
 previously:
   - dora
 ---
-

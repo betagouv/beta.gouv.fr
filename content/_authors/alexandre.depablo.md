@@ -7,8 +7,9 @@ missions:
     end: 2022-08-31
     status: independent
     employer: octo
+    startups:
+      - api-entreprise
 startups:
-    - api-entreprise
+  - api-entreprise
 ---
-
 Ah, Biographie ! … Biographie…

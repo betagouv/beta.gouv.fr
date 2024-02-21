@@ -7,9 +7,10 @@ missions:
     end: 2024-03-31
     status: service
     employer: ''
+    startups:
+      - estime.formation
 memberType: beta
 startups:
   - estime.formation
 ---
-
 Ux Researcher / Ux Designer

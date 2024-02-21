@@ -10,8 +10,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: opteamis
+    startups:
+      - codedutravail
 startups:
   - codedutravail
 ---
-
 Artisan logiciel (DDD, TDD, DevOps culture...), vélotaffeur 🚴, 👪

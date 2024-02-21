@@ -8,6 +8,8 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Octo Malt
+    startups:
+      - apilos
 startups:
   - apilos
 badges:
@@ -15,5 +17,4 @@ badges:
 previously:
   - territoires-en-transitions
 ---
-
 Designer

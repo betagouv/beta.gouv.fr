@@ -6,11 +6,12 @@ missions:
     end: 2021-07-18
     status: admin
     employer: DGE
+    startups:
+      - place-des-entreprises
 startups:
   - place-des-entreprises
 badges:
   - segur
 domaine: Autre
 ---
-
 stagiaire le jour, étudiante la nuit

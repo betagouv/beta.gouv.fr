@@ -7,7 +7,8 @@ missions:
     end: 2021-12-31
     status: admin
     employer: Institut national de l'information géographique et forestière
+    startups:
+      - ban
 startups:
   - ban
 ---
-

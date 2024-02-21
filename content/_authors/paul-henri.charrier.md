@@ -9,6 +9,8 @@ missions:
     end: 2023-03-30
     status: admin
     employer: Ministère de l'intérieur
+    startups:
+      - sndv_maritime
 startups:
   - sndv_maritime
 badges:

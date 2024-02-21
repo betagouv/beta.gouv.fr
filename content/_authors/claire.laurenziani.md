@@ -8,9 +8,10 @@ missions:
     end: 2024-01-31
     status: independent
     employer: LBC
+    startups:
+      - themis
 startups:
   - themis
 memberType: beta
 ---
-
 Communicante engagée pour l'environnement

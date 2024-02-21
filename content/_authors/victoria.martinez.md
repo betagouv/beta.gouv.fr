@@ -8,6 +8,9 @@ missions:
     end: 2023-12-31
     status: admin
     employer: Fabrique des ministères sociaux
+    startups:
+      - e-mjpm
+      - egalite.professionnelle
 startups:
   - e-mjpm
   - egalite.professionnelle

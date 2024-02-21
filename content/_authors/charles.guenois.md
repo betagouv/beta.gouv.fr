@@ -7,6 +7,8 @@ missions:
     end: 2021-12-31
     status: admin
     employer: minarm
+    startups:
+      - anais
 startups:
   - anais
 ---

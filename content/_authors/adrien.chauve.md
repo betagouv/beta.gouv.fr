@@ -9,5 +9,4 @@ missions:
     status: independent
     employer: Opteamis
 ---
-
 Dev fullstack, devops, pour la tech à impact positif

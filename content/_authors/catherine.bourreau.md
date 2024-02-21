@@ -9,6 +9,8 @@ missions:
     end: 2024-03-31
     status: independent
     employer: ''
+    startups:
+      - tdb-apprentissage
 startups:
   - tdb-apprentissage
 badges:

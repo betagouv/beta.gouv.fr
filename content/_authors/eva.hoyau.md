@@ -9,4 +9,3 @@ missions:
     status: admin
 memberType: autre
 ---
-

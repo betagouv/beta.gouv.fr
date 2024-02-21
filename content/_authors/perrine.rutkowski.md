@@ -8,6 +8,9 @@ missions:
     end: 2025-12-31
     status: admin
     employer: CEREMA
+    startups:
+      - urbanvitaliz
+      - recommandations-collaboratives
 startups:
   - urbanvitaliz
   - recommandations-collaboratives

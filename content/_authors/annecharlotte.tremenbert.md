@@ -6,8 +6,9 @@ missions:
   - start: 2022-09-11
     end: 2025-09-15
     status: admin
+    startups:
+      - monitorfish
 startups:
   - monitorfish
 ---
-
 Cheffe du pôle environnement

@@ -23,5 +23,4 @@ previously:
   - inclusion.connect
   - la-bonne-boite
 ---
-
 Développeuse curieuse. Amatrice de blagues pas drôles, de gens trop enthousiastes et d'idées folles.

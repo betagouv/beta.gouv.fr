@@ -7,8 +7,9 @@ missions:
     end: 2024-07-01
     status: independent
     employer: Malt
+    startups:
+      - trackdechets
 startups:
   - trackdechets
 ---
-
 Passionnée par le marketing et les voyages.

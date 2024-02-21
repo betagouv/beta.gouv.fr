@@ -7,6 +7,9 @@ missions:
     end: 2024-12-30
     status: independent
     employer: OCTO
+    startups:
+      - ban
+      - bases.adresses.locales
 startups:
   - ban
   - bases.adresses.locales

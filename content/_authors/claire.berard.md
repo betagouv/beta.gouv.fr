@@ -9,5 +9,4 @@ missions:
     employer: DNUM
 memberType: autre
 ---
-
 Coach de projet d'innovation numérique & Chargée de communication digitale et événementielle à la DNUM.

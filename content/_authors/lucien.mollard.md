@@ -9,6 +9,8 @@ missions:
     end: 2024-09-30
     status: independent
     employer: octo
+    startups:
+      - place-des-entreprises
 startups:
   - place-des-entreprises
 previously:

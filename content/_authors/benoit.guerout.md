@@ -18,14 +18,10 @@ missions:
     employer: ut7
 github: bguerout
 startups:
-    - anotea
-    - sirius
-    - catalogue-apprentissage
-    - uai_siret
-    - voeux-apprentissage
-    - Trajpro
-
+  - anotea
+  - sirius
+  - catalogue-apprentissage
+  - uai_siret
+  - voeux-apprentissage
 ---
-
-J'évolue sur des projets informatiques à dominante web en prônant une approche simple et pragmatique des développements. 
-Je suis également investi dans la communauté open source au travers des projets Jongo et Oleoduc.
+J'évolue sur des projets informatiques à dominante web en prônant une approche simple et pragmatique des développements. Je suis également investi dans la communauté open source au travers des projets Jongo et Oleoduc.

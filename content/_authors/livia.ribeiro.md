@@ -8,6 +8,9 @@ missions:
     end: 2023-12-30
     status: independent
     employer: ut7
+    startups:
+      - boite.aux.lettres
+      - api.apprentissage
 incubator: mission-apprentissage
 startups:
   - boite.aux.lettres

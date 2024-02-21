@@ -7,8 +7,9 @@ missions:
     end: 2019-06-01
     status: admin
     employer: Ministère de la Culture
+    startups:
+      - eac
 startups:
-    - eac
+  - eac
 ---
-
- Chef de produit sur la plateforme pour l'éducation artistique et culturelle.
+Chef de produit sur la plateforme pour l'éducation artistique et culturelle.

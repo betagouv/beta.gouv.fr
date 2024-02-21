@@ -8,6 +8,10 @@ missions:
     end: 2024-06-30
     status: service
     employer: Pôle emploi
+    startups:
+      - travailler.en.france
+      - estime.formation
+      - plateforme.rome.4-0
 startups:
   - travailler.en.france
   - estime.formation
@@ -18,5 +22,4 @@ previously:
   - mes-evenements-emploi
   - la-bonne-formation
 ---
-
 Passionné par les technologies respectueuses de la biosphère.

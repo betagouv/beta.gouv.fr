@@ -7,8 +7,9 @@ missions:
     end: 2022-06-06
     status: admin
     employer: DTNUM
+    startups:
+      - signaux-faibles
 startups:
   - signaux-faibles
 ---
-
 Data scientist

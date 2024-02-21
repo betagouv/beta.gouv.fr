@@ -7,10 +7,10 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ''
+    startups:
+      - potentiel
 startups:
   - potentiel
 memberType: beta
 ---
-
-Chargé de mission photovoltaïque
-Ministère de la transition énergétique
+Chargé de mission photovoltaïque Ministère de la transition énergétique

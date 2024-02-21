@@ -8,8 +8,9 @@ missions:
     end: 2024-06-29
     status: service
     employer: Shodo
+    startups:
+      - anais
 startups:
   - anais
 memberType: autre
 ---
-

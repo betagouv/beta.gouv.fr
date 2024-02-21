@@ -8,5 +8,4 @@ missions:
     status: admin
 memberType: autre
 ---
-
 membre de la Fabrique Numérique DNUM MIOM et référent accessibilité numérique du MIOM

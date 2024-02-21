@@ -8,5 +8,4 @@ missions:
     status: service
 memberType: beta
 ---
-
 Responsable de comptes chez Malt

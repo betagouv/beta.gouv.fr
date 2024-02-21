@@ -8,8 +8,9 @@ missions:
     end: 2024-07-01
     status: independent
     employer: La Zone / Pathtech
+    startups:
+      - ban
 startups:
   - ban
 memberType: beta
 ---
-

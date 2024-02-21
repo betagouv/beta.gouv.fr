@@ -7,6 +7,8 @@ missions:
     end: 2024-06-29
     status: service
     employer: Incubateur ANCT via Dinum via LittleBig Connexion
+    startups:
+      - espace.sur.demande
 memberType: beta
 startups:
   - espace.sur.demande

@@ -10,9 +10,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ''
+    startups:
+      - bat-id
 startups:
   - bat-id
 memberType: beta
 ---
-
 Développeur web

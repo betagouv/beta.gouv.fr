@@ -7,6 +7,8 @@ missions:
     end: 2020-12-31
     employer: Agglomération Pau Béarn Pyrénées
     status: admin
+    startups:
+      - idquart
 startups:
   - idquart
 ---

@@ -9,9 +9,10 @@ missions:
     end: 2024-03-29
     status: service
     employer: La Zone - Scopyleft
+    startups:
+      - ma-cantine-egalim
 startups:
   - ma-cantine-egalim
 memberType: beta
 ---
-
 Data Engineer  Associé chez multi.coop

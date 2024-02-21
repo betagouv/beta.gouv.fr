@@ -8,10 +8,10 @@ missions:
     end: 2024-09-16
     status: independent
     employer: ''
+    startups:
+      - pop
 startups:
   - pop
 memberType: beta
 ---
-
-UX/UI designer • Product designer 
-🍪 • 🏝 • 😻 • 🧗‍♀️
+UX/UI designer • Product designer 🍪 • 🏝 • 😻 • 🧗‍♀️

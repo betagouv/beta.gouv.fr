@@ -8,14 +8,15 @@ missions:
     end: 2024-03-01
     status: independent
     employer: MALT / ANCT
+    startups:
+      - cartographie.nationale
 startups:
   - cartographie.nationale
-previously :
- - conseiller-numerique
+previously:
+  - conseiller-numerique
 competences:
   - Gestion de Produit
   - UX
   - Développement Frontend
 ---
-
 J'essaye de glisser le plus loin possible sur la banquise

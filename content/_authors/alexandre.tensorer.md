@@ -9,9 +9,10 @@ missions:
     end: 2025-01-31
     status: service
     employer: Le Collectif
+    startups:
+      - api-engagement
 startups:
   - api-engagement
 memberType: beta
 ---
-
 Tech, food and punk-rock

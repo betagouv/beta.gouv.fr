@@ -10,6 +10,8 @@ missions:
     end: 2021-09-30
     status: independent
     employer: null
+    startups:
+      - territoires-en-transitions
 startups:
   - territoires-en-transitions
 previously: []

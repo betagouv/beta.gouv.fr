@@ -8,5 +8,4 @@ missions:
     status: admin
 memberType: dinum
 ---
-
 Développeur le jour, musicien la nuit

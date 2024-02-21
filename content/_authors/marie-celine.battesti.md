@@ -7,9 +7,10 @@ missions:
     end: 2024-03-31
     status: independent
     employer: ''
+    startups:
+      - oilhi
 startups:
   - oilhi
 memberType: beta
 ---
-
 Bien occupée mais toujours partante pour de nouveaux projets

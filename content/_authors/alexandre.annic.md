@@ -10,6 +10,8 @@ missions:
     end: 2022-07-01
     status: independent
     employer: octo
+    startups:
+      - signalement
 startups:
   - signalement
 badges:

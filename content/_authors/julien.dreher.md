@@ -8,9 +8,11 @@ missions:
     end: 2018-06-30
     status: service
     employer: NUMA/Frontierlab
+    startups:
+      - locatio
+      - assec
 startups:
-    - locatio
-    - assec
+  - locatio
+  - assec
 ---
-
 Coach qui aide à comprendre la logique des réseaux

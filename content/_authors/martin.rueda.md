@@ -8,6 +8,8 @@ missions:
     end: 2019-08-03
     status: admin
     employer: dinum
+    startups:
+      - transport
 startups:
-    - transport
+  - transport
 ---

@@ -7,8 +7,9 @@ missions:
     end: 2023-12-30
     status: admin
     employer: GIP Plateforme de l'inclusion
+    startups:
+      - itou
 startups:
   - itou
 ---
-
-Agent comptable 
+Agent comptable

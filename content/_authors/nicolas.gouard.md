@@ -9,9 +9,11 @@ missions:
     end: 2025-01-31
     status: independent
     employer: ''
+    startups:
+      - jeveuxaider
+      - api-engagement
 startups:
   - jeveuxaider
   - api-engagement
 memberType: beta
 ---
-

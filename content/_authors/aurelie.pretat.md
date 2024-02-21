@@ -7,6 +7,8 @@ missions:
   - start: 2020-03-19
     end: 2024-09-30
     status: admin
+    startups:
+      - a-just
 startups:
   - a-just
 ---

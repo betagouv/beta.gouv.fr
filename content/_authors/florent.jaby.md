@@ -8,9 +8,8 @@ missions:
     end: 2017-07-15
     status: service
     employer: octo
-startups:
+startups: null
 previously:
   - api-particulier
 ---
-
 Développeur ~~enragé~~ engagé et Humain amateur. Cliquez pour plus d'infos.

@@ -9,5 +9,4 @@ missions:
     employer: NUMA
 memberType: dinum
 ---
-
 Entrepreneur à impact depuis toujours !

@@ -7,9 +7,10 @@ missions:
     end: 2024-09-30
     status: independent
     employer: ''
+    startups:
+      - locatio
 startups:
   - locatio
 memberType: beta
 ---
-
 Opératrice de validation chez DossierFacile

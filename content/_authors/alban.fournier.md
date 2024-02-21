@@ -9,11 +9,11 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Little Big Connection
+    startups:
+      - ecobalyse
 startups:
   - ecobalyse
 badges:
   - segur
 ---
-
-Spécialiste de l'évaluation environnementale de produits (Textile / 
- Cosmétiques) souhaitant contribuer à rendre notre modèle économique compatible avec les Limites Planétaires.
+Spécialiste de l'évaluation environnementale de produits (Textile / Cosmétiques) souhaitant contribuer à rendre notre modèle économique compatible avec les Limites Planétaires.

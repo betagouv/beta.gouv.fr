@@ -7,9 +7,10 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ''
+    startups:
+      - aldo
 memberType: beta
 startups:
   - aldo
 ---
-
-ingénieur sol - agriculture - climat à l'ADEME 
+ingénieur sol - agriculture - climat à l'ADEME

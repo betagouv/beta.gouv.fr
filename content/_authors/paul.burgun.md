@@ -14,11 +14,10 @@ missions:
 startups:
   - le-taxi
 previously:
- - sante-psy-etudiant
+  - sante-psy-etudiant
 badges:
   - segur
 teams:
   - /teams/animation-dinum
   - /teams/fast-dinum
 ---
-

@@ -8,9 +8,10 @@ missions:
     end: 2024-06-30
     status: independent
     employer: ''
+    startups:
+      - cartobio
 startups:
   - cartobio
 memberType: beta
 ---
-
 UXUI designer

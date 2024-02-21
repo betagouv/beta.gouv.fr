@@ -8,9 +8,10 @@ missions:
     end: 2024-11-13
     status: admin
     employer: ANSSI
+    startups:
+      - mon-aide-cyber
 startups:
   - mon-aide-cyber
 memberType: autre
 ---
-
 Délégué de l'ANSSI en région, participe au projet "Mon Aide Cyber"

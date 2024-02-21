@@ -8,5 +8,4 @@ missions:
     status: admin
 memberType: beta
 ---
-
 Intrapreneur déterminé à avoir de l'impact.

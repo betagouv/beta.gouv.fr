@@ -10,6 +10,7 @@ missions:
     end: 2025-01-01
     status: independent
     employer: Malt
+    startups:
+      - itou
 memberType: autre
 ---
-

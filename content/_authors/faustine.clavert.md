@@ -9,9 +9,10 @@ missions:
     end: 2024-06-29
     status: service
     employer: Omnicité
+    startups:
+      - mon-aide-cyber
 startups:
   - mon-aide-cyber
 memberType: beta
 ---
-
 Designer

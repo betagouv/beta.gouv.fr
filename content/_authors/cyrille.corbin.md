@@ -9,5 +9,4 @@ missions:
     status: admin
     employer: SNUM
 ---
-
 Développeur FullStack expérimenté très curieux des nouvelles technologies de développement.

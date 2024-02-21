@@ -7,10 +7,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ''
+    startups:
+      - sante-psy-etudiant
 startups:
   - sante-psy-etudiant
 memberType: beta
 ---
-
-
 Ancien consultant, fan de cinema.

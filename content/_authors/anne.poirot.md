@@ -13,7 +13,7 @@ missions:
     status: independent
     employer: numa
 previously:
-  - labels-transition
+  - territoires-en-transitions
   - recosante
 competences:
   - Gestion de Produit

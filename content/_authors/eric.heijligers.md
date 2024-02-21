@@ -8,6 +8,13 @@ missions:
     employer: Fabrique numérique des ministères sociaux
     start: 2020-01-01
     end: 2024-12-31
+    startups:
+      - 1000.jours
+      - tumeplay
+      - archifiltre
+      - domifa
+      - enfants-du-spectacle
+      - 1000.premiers.jours.blues
 incubator: sgmas
 startups:
   - 1000.jours

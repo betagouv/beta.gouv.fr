@@ -9,14 +9,17 @@ missions:
     end: 2024-12-31
     status: admin
     employer: Ministère des Armées
+    startups:
+      - oscars
+      - osirispn
+      - civils-de-la-defense
+      - octopus
+      - cassiopee
 startups:
   - oscars
   - osirispn
   - civils-de-la-defense
   - octopus
   - cassiopee
-
 ---
-
-
 JavaScript frontend/backend developer. React lover.

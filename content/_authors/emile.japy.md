@@ -15,7 +15,7 @@ missions:
     employer: MALT
 startups:
   - l-application-du-cej
-  - Pass Engagement Jeune
+  - pass.engagement.jeune
 badges:
   - segur
 competences:
@@ -23,4 +23,3 @@ competences:
   - UI
 ---
 UX designer
-

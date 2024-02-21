@@ -13,7 +13,6 @@ missions:
     status: independent
     employer: octo
 startups:
-    - api-entreprise
+  - api-entreprise
 ---
-
 Petit mais costaud !

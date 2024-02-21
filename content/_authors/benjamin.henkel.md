@@ -13,5 +13,3 @@ missions:
 startups:
   - demarches-simplifiees.fr
 ---
-
- 

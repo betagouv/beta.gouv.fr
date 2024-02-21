@@ -10,6 +10,8 @@ missions:
     end: 2021-09-30
     status: admin
     employer: ADEME
+    startups:
+      - territoires-en-transitions
 startups:
   - territoires-en-transitions
 competences:

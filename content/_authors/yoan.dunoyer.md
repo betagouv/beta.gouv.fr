@@ -12,8 +12,5 @@ teams:
   - /teams/justice
 badges:
   - segur
-
 ---
-
-
 Développeur, Responsable technique

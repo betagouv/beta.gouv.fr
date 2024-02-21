@@ -8,7 +8,8 @@ missions:
     end: 2024-04-29
     status: independent
     employer: UT7
+    startups:
+      - euphrosyne
 startups:
   - euphrosyne
 ---
-

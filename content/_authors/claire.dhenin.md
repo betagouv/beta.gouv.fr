@@ -9,8 +9,9 @@ missions:
     end: 2024-07-31
     status: independent
     employer: ''
+    startups:
+      - benefriches
 startups:
   - benefriches
 memberType: beta
 ---
-

@@ -9,4 +9,3 @@ missions:
     employer: MIOM
 memberType: beta
 ---
-

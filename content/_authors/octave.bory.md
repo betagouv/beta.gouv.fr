@@ -9,8 +9,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: NUMA
+    startups:
+      - portail-rse
 startups:
-  - portail.rse
+  - portail-rse
 previously:
   - acceslibre
   - estime

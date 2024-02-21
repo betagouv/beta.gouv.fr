@@ -7,8 +7,9 @@ missions:
     end: 2024-08-31
     status: independent
     employer: LBC
+    startups:
+      - romin
 startups:
   - romin
 memberType: beta
 ---
-

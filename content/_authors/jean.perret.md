@@ -5,6 +5,8 @@ missions:
     end: 2024-05-31
     status: independent
     employer: Numa
+    startups:
+      - impact.co2
 competences:
   - Coaching
 memberType: beta

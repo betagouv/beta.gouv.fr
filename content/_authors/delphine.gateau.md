@@ -8,10 +8,10 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Malt
+    startups:
+      - tchap
 startups:
   - tchap
 memberType: beta
 ---
-
-
 Biz dev pour Tchap

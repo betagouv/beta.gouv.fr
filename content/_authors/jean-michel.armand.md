@@ -17,5 +17,4 @@ startups:
 previously:
   - voir-et-localiser
 ---
-
 Code, Django et Cassoulet

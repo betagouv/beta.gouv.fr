@@ -9,8 +9,9 @@ missions:
     end: 2024-06-28
     status: independent
     employer: PathTech
+    startups:
+      - mobilic
 startups:
   - mobilic
 memberType: beta
 ---
-

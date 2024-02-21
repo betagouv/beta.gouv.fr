@@ -13,6 +13,3 @@ previously:
   - nosgestesclimat
 memberType: beta
 ---
-
-
-

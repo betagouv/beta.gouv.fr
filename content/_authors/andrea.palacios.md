@@ -7,9 +7,10 @@ missions:
     end: 2024-06-30
     status: service
     employer: ''
+    startups:
+      - monstage
 startups:
   - monstage
 memberType: autre
 ---
-
 Digital native et storyteller, née avec une passion pour le voyage et l'engagement social dans toutes ces formes.

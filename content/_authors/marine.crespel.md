@@ -9,7 +9,7 @@ missions:
     end: 2017-06-30
     status: independent
     employer: octo
-startups:
+startups: null
 previously:
   - demarches-simplifiees.fr
 ---

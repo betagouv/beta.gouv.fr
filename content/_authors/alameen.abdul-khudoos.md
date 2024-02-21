@@ -8,6 +8,9 @@ missions:
   - start: 2019-01-11
     end: 2023-06-30
     status: independent
+    startups:
+      - travailler.en.france
+      - mes.aides
 incubator: pole-emploi
 startups:
   - travailler.en.france

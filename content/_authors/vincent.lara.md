@@ -9,6 +9,8 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Codeurs en Liberté
+    startups:
+      - données-et-territoires
 startups:
   - données-et-territoires
 previously:
@@ -16,5 +18,4 @@ previously:
   - transport
   - recosante
 ---
-
 Aide à construire les infrastructures numériques publiques de demain.

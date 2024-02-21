@@ -9,6 +9,4 @@ missions:
     employer: ''
 badges:
   - segur
-
 ---
-''

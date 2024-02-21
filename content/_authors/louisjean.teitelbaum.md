@@ -22,7 +22,5 @@ competences:
   - Coaching
   - Développement Frontend
   - Développement Backend
-
 ---
-
 Bidouilleur, enseignant.

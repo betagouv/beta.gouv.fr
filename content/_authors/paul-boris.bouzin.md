@@ -8,10 +8,10 @@ missions:
     end: 2024-10-15
     status: independent
     employer: Mission Interministérielle de l&#x27;apprentissage
+    startups:
+      - tdb-apprentissage
 startups:
   - tdb-apprentissage
 memberType: beta
 ---
-
-Chargé de déploiement au Tableau de bord de l'apprentissage.
-Vélo
+Chargé de déploiement au Tableau de bord de l'apprentissage. Vélo

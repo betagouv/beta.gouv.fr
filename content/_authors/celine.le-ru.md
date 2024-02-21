@@ -8,6 +8,8 @@ missions:
     end: 2024-04-29
     status: service
     employer: OCTO
+    startups:
+      - la-bonne-boite
 startups:
   - la-bonne-boite
 competences:
@@ -16,4 +18,3 @@ previously:
   - e-mjpm
   - domifa
 ---
-

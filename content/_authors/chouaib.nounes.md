@@ -15,4 +15,3 @@ missions:
 startups:
   - histologe
 ---
-

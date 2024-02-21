@@ -9,6 +9,10 @@ missions:
     end: 2024-03-31
     status: independent
     employer: octo
+    startups:
+      - openfisca
+      - leximpact
+      - reformes-locales
 startups:
   - openfisca
   - leximpact

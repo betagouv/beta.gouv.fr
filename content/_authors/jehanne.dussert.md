@@ -8,8 +8,7 @@ missions:
     end: 2024-11-30
     status: independent
     employer: Malt
-startups:
+startups: null
 previously:
   - a-just
 ---
-

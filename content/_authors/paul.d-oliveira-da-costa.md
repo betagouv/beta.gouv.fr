@@ -8,10 +8,11 @@ missions:
     end: 2023-01-10
     status: admin
     employer: DINUM
+    startups:
+      - rdv.insertion
 startups:
-  - data.insertion
+  - rdv.insertion
 badges:
   - segur
 ---
-
 Numeric addict! Si j'étais un PNJ mon voyant serait toujours au vert pour ouvrir une nouvelle discussion :)

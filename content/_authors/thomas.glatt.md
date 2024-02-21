@@ -7,7 +7,9 @@ missions:
   - start: 2021-06-28
     end: 2024-06-30
     status: independent
-    employer: ""
+    employer: ''
+    startups:
+      - mon-suivi-social
 previously:
   - tremplin
   - workinfrance
@@ -19,5 +21,4 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-
 Accompagner les équipes - imaginer collectivement des solutions sobres

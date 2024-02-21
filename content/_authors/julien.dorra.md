@@ -11,4 +11,3 @@ missions:
     employer: NUMA
 memberType: beta
 ---
-

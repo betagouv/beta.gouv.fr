@@ -7,10 +7,9 @@ missions:
     end: 2024-03-01
     status: independent
     employer: ''
-startups:
+startups: null
 previously:
   - jeveuxaider
 memberType: beta
 ---
-
 Chargée de déploiement JeVeuxAider

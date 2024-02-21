@@ -8,8 +8,9 @@ missions:
     end: 2024-07-31
     status: independent
     employer: ''
+    startups:
+      - carbure
 startups:
   - carbure
 ---
-
 Développeur à impact, j’apprends pour construire de beaux projets, et j’ai la passion de transmettre le goût d’apprendre.

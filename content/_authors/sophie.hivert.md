@@ -7,6 +7,8 @@ missions:
   - start: 2020-06-15
     end: 2021-03-31
     status: service
+    startups:
+      - jeveuxaider
 startups:
   - jeveuxaider
 ---

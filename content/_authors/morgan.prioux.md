@@ -9,11 +9,11 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Malte
+    startups:
+      - conseiller-numerique
 startups:
   - conseiller-numerique
 badges:
   - segur
 ---
-
-
 Développeur Front End

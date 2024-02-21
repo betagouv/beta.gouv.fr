@@ -8,6 +8,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ''
+    startups:
+      - 1000.premiers.jours.blues
+      - carte-verte
 startups:
   - 1000.premiers.jours.blues
   - carte-verte

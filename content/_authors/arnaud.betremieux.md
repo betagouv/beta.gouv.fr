@@ -8,9 +8,9 @@ missions:
     end: 2018-12-31
     status: service
     employer: octo
+    startups:
+      - pass-culture
 startups:
-    - pass-culture
+  - pass-culture
 ---
-
-Précédemment techlead sur FranceConnect
-Techlead sur Pass Culture
+Précédemment techlead sur FranceConnect Techlead sur Pass Culture

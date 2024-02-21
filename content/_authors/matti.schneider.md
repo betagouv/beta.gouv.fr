@@ -46,5 +46,4 @@ previously:
   - disinfo
   - aides.jeunes
 ---
-
 Ingénieur transdisciplinaire. Sceptique des aphorismes autobiographiques.

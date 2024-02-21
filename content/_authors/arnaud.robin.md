@@ -13,5 +13,4 @@ teams:
   - /teams/animation-dinum
   - /teams/fast-dinum
 ---
-
 Chargé d'accélération FAST

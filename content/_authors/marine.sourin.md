@@ -9,7 +9,6 @@ missions:
     status: service
     employer: Captive
 previously:
-    - eva
+  - eva
 ---
-
 Développeuse chez Captive

@@ -14,5 +14,4 @@ competences:
   - UX
   - UI
 ---
-
 Une phrase... impossible !

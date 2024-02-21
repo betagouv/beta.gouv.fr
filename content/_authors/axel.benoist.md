@@ -10,5 +10,4 @@ missions:
 previously:
   - chauffage-urbain
 ---
-
 Chargé de mission en charge du développement des énergies renouvelables

@@ -8,8 +8,8 @@ missions:
     end: 2021-10-01
     status: independent
     employer: HAIRAPIAN I/O
+    startups:
+      - potentiel
 startups:
-    - potentiel
-previously:
-    - /
+  - potentiel
 ---

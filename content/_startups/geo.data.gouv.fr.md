@@ -10,9 +10,10 @@ phases:
   - name: construction
     start: 2015-01-01
   - name: alumni
-events: 
+    start: 2020-07-01
+events:
   - name: end
-  - date: 2021-09-01
+    date: 2021-09-01
 link: https://geo.data.gouv.fr
 repository: https://github.com/etalab/geo.data.gouv.fr
 stats: false

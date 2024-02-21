@@ -8,9 +8,11 @@ missions:
     end: 2024-06-29
     status: independent
     employer: Scopyleft
+    startups:
+      - histologe
+      - stop-punaises
 startups:
   - histologe
   - stop-punaises
 ---
-
 Développeur web

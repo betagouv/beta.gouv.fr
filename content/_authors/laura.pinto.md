@@ -8,5 +8,4 @@ missions:
     status: service
     employer: OCTO
 ---
-
 Chargée de formation

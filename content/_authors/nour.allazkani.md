@@ -10,5 +10,4 @@ missions:
     employer: Lamednum
 memberType: beta
 ---
-
 Chef de projet numérique, et j'adore le no-code !

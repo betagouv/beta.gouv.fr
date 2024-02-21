@@ -8,6 +8,8 @@ missions:
   - start: 2023-09-11
     end: 2024-12-31
     status: independent
+    startups:
+      - lannuaire.des.collectivites
 incubator: anct
 competences:
   - Gestion de Produit

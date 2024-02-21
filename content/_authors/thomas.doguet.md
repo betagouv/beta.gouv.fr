@@ -8,8 +8,9 @@ missions:
     end: 2024-06-01
     status: independent
     employer: Little Big Connection
+    startups:
+      - tacct
 startups:
   - tacct
 memberType: beta
 ---
-

@@ -6,6 +6,8 @@ missions:
   - start: 2023-06-26
     end: 2026-06-26
     status: admin
+    startups:
+      - nis2
 startups:
   - nis2
 memberType: autre

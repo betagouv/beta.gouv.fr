@@ -8,6 +8,8 @@ missions:
     end: 2020-09-11
     status: admin
     employer: dinum
+    startups:
+      - preuve-de-covoiturage
 startups:
   - preuve-de-covoiturage
 ---

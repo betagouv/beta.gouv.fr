@@ -10,5 +10,4 @@ missions:
 badges:
   - segur
 ---
-
 Product Owner, ancien militaire

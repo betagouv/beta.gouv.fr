@@ -7,9 +7,10 @@ missions:
     end: 2024-06-30
     status: service
     employer: Octo
+    startups:
+      - france.nation.verte.agir
 memberType: autre
 startups:
   - france.nation.verte.agir
 ---
-
 Développeur full stack orienté front

@@ -7,6 +7,8 @@ missions:
   - start: 2018-10-01
     end: 2019-09-30
     status: admin
+    startups:
+      - gps-usagers
 startups:
-    - gps-usagers
+  - gps-usagers
 ---

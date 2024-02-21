@@ -13,5 +13,4 @@ previously:
   - carnet.de.bord
 memberType: beta
 ---
-
 Développeur passionné d'Agile, de Craft, de coopération, de types et de lambda.

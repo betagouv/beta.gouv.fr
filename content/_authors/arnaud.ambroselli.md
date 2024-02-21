@@ -9,10 +9,11 @@ missions:
     end: 2024-12-30
     status: independent
     employer: Octo
+    startups:
+      - mano
 startups:
   - mano
 badges:
   - segur
 ---
-
 Développeur

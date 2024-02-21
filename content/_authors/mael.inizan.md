@@ -8,6 +8,10 @@ missions:
     end: 2026-09-30
     status: independent
     employer: NUMA
+    startups:
+      - la.bonne.renov
+      - parcours.de.saisine
+      - chauffage-urbain
 startups:
   - la.bonne.renov
   - parcours.de.saisine

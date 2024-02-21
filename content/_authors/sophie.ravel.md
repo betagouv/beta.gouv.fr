@@ -13,5 +13,4 @@ previously:
 badges:
   - segur
 ---
-
-Intrapreneuse, curieuse, j'aime la nouveauté, le changement et apprendre sans cesse de nouvelles choses ! 
+Intrapreneuse, curieuse, j'aime la nouveauté, le changement et apprendre sans cesse de nouvelles choses !

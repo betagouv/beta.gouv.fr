@@ -9,5 +9,4 @@ missions:
     status: admin
     employer: Ministère de la Justice
 ---
-
 Développeur web en alternance chez les ANJE

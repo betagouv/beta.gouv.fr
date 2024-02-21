@@ -7,6 +7,8 @@ missions:
     end: 2024-06-30
     status: admin
     employer: Pôle emploi
+    startups:
+      - l-immersion-facile
 previously:
   - l-immersion-facile
 badges: null

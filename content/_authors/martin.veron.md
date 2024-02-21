@@ -8,9 +8,10 @@ missions:
     end: 2024-09-30
     status: admin
     employer: ANSSI (SGDSN)
+    startups:
+      - mon-aide-cyber
 startups:
   - mon-aide-cyber
 memberType: beta
 ---
-
 Délégué Sécurité Numérique ANSSI Nouvelle-Aquitaine

@@ -8,10 +8,12 @@ missions:
     end: 2024-04-02
     status: independent
     employer: ''
+    startups:
+      - bpco
+      - ozensemble
 startups:
   - bpco
   - ozensemble
 memberType: beta
 ---
-
 Couteau-suisse

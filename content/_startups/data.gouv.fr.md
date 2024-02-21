@@ -3,7 +3,7 @@ title: data.gouv.fr
 mission: Partager, améliorer et réutiliser les données publiques.
 incubator: dinum_produits_interministeriels
 sponsors:
- - /organisations/dinum
+  - /organisations/dinum
 events:
   - name: national_impact
     date: 2016-01-01
@@ -11,8 +11,9 @@ phases:
   - name: investigation
     start: 2013-06-01
   - name: construction
-    start: 2013-06-01    
+    start: 2013-06-01
   - name: success
+    start: 2016-01-01
 link: https://www.data.gouv.fr/
 repository: https://github.com/opendatateam/udata
 stats: true

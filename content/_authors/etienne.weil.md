@@ -8,6 +8,8 @@ missions:
     end: 2024-06-29
     status: independent
     employer: Little Big Connection
+    startups:
+      - monstage
 startups:
   - monstage
 competences:

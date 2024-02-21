@@ -8,11 +8,10 @@ missions:
     end: 2025-09-30
     status: independent
     employer: ''
+    startups:
+      - rdv.insertion
 startups:
-  - data.insertion
+  - rdv.insertion
 competences:
   - Développement Backend
-
 ---
-
-''

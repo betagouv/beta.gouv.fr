@@ -19,7 +19,5 @@ missions:
     employer: Malt
 startups:
   - reva
-  - planification-territoires
 ---
-
 Développeur d’applications web et créateur de formations illustrées

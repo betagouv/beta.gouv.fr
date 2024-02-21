@@ -8,6 +8,8 @@ missions:
     end: 2024-01-31
     status: independent
     employer: malt
+    startups:
+      - api-entreprise
 startups:
   - api-entreprise
 competences:

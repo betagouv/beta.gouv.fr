@@ -9,5 +9,4 @@ missions:
     status: service
     employer: Benext
 ---
-
-Bizdev chez Benext le jour, scénariste-auteur-compositeur la nuit 
+Bizdev chez Benext le jour, scénariste-auteur-compositeur la nuit

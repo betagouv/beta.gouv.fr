@@ -7,8 +7,9 @@ missions:
     end: 2024-06-30
     status: admin
     employer: Ministère de la culture
+    startups:
+      - pop
 startups:
   - pop
 memberType: beta
 ---
-

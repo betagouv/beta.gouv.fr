@@ -8,6 +8,8 @@ missions:
     end: 2024-06-07
     status: independent
     employer: Fabrique numérique des ministères sociaux
+    startups:
+      - chauffage-urbain
 startups:
   - chauffage-urbain
 previously:

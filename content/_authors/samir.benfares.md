@@ -8,6 +8,8 @@ missions:
     end: 2024-03-31
     status: independent
     employer: ut7
+    startups:
+      - api.apprentissage
 startups:
   - api.apprentissage
 previously:
@@ -16,5 +18,4 @@ previously:
   - voeux-apprentissage
   - uai_siret
 ---
-
 J'aspire à améliorer le monde en construisant des produits numériques ayant de l'impact.

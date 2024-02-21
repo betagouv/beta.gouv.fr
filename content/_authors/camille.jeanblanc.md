@@ -7,10 +7,10 @@ missions:
     end: 2025-02-01
     status: independent
     employer: Malt
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 memberType: beta
 ---
-
 Psychologie + Design = <3
-

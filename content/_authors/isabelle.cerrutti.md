@@ -8,10 +8,11 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ''
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 badges:
   - segur
 ---
-
-Intrapreneur 
+Intrapreneur

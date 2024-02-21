@@ -8,9 +8,10 @@ missions:
     end: 2024-08-29
     status: independent
     employer: ''
+    startups:
+      - mon-suivi-social
 startups:
   - mon-suivi-social
 memberType: beta
 ---
-
 UXUI Designer créative et engagée pour un numérique responsable

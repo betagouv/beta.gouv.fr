@@ -7,6 +7,8 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Malt
+    startups:
+      - jeveuxaider
 startups:
   - jeveuxaider
 badges:
@@ -14,5 +16,3 @@ badges:
 previously:
   - demarches-simplifiees.fr
 ---
-
-

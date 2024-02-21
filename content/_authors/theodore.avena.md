@@ -7,9 +7,10 @@ missions:
     end: 2023-12-31
     status: independent
     employer: ''
+    startups:
+      - envergo
 startups:
   - envergo
 memberType: autre
 ---
-
 Chargé de déploiement EnvErgo

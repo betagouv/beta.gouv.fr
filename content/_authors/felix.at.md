@@ -9,13 +9,12 @@ missions:
     end: 2024-12-31
     status: independent
     employer: /ut7
+    startups:
+      - tdb-apprentissage
 startups:
   - tdb-apprentissage
 memberType: beta
 previously:
   - tdb-apprentissage
 ---
-
-
-
 Analyser des données, lire des romans et manger des croziflettes. SQL, MongoDB, Metabase...

@@ -1,6 +1,6 @@
 ---
 fullname: Lucas Bchini
-role: Développeur 
+role: Développeur
 domaine: Développement
 github: lucas-bch
 missions:
@@ -8,6 +8,8 @@ missions:
     end: 2021-06-30
     status: admin
     employer: Agence Bio
-startups: # ta ou tes startups actuelles
-    - cartobio
+    startups:
+      - cartobio
+startups:
+  - cartobio
 ---

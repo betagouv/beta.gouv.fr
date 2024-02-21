@@ -7,10 +7,11 @@ missions:
     end: 2023-03-31
     status: independent
     employer: Malt
+    startups:
+      - snu
 startups:
   - snu
 badges:
   - segur
 ---
-
 Je vis sur Figma

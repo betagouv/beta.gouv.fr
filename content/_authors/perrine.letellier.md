@@ -8,9 +8,12 @@ missions:
     end: 2024-05-14
     status: independent
     employer: Octo-Malt
+    startups:
+      - icare-complements-alimentaires
 startups:
   - icare-complements-alimentaires
 memberType: beta
 ---
-
-Data bricoleuse (engineer et scientist). Grand intérêt pour la data : de la récolte de sources variées, à l'uniformisation, analyse, visualisation et machine-learning. Féministe adepte du self-help la nuit.
+Data bricoleuse (engineer et scientist). Grand intérêt pour la data: de la récolte
+  de sources variées, à l'uniformisation, analyse, visualisation et machine-learning.
+  Féministe adepte du self-help la nuit.

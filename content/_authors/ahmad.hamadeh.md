@@ -1,6 +1,6 @@
 ---
 fullname: Ahmad Hamadeh
-role: Stagiaire 
+role: Stagiaire
 domaine: Autre
 missions:
   - start: 2024-01-15
@@ -8,4 +8,3 @@ missions:
     status: admin
 memberType: beta
 ---
-
