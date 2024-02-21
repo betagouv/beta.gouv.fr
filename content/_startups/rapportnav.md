@@ -13,8 +13,7 @@ phases:
     end: 2022-08-16
   - name: construction
     start: 2022-08-16
-stats_url: >-
-  https://docs.google.com/presentation/d/1sst8PmVTOgs6xGJBa3F71Y1xnWMPCK_Mo0kg9mYLt4I/edit?usp=sharing
+stats_url: https://pitch.com/v/rapport-nav---indicateurs-de-suivi-stwz8r
 ---
 ## Contexte
 Le Dispositif de Contrôle et de Surveillance (DCS) des Affaires Maritimes englobe l’ensemble des moyens des Affaires Maritimes dédiés aux contrôles des pêches, de l’environnement marin, du travail et de la navigation maritime.
