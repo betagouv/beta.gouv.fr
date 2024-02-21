@@ -1,13 +1,15 @@
 ---
 fullname: Christophe Amalric
 domaine: Coaching
-role: "Coach "
+role: 'Coach '
 github: tikris
 missions:
   - start: 2021-04-19
     end: 2022-04-30
     status: service
     employer: Sopra Steria Next
+    startups:
+      - la-bonne-boite
 startups:
   - la-bonne-boite
 previously:

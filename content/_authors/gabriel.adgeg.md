@@ -8,12 +8,11 @@ missions:
     end: 2024-04-12
     status: service
     employer: Octo
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 badges:
   - segur
-
 ---
->-
-  Fan d'applications mobiles, de grands débats, de stand-up, de pâtes au pesto.
-  Et du PSG pour le côté beauf.
+Fan d'applications mobiles, de grands débats, de stand-up, de pâtes au pesto. Et du PSG pour le côté beauf.

@@ -9,9 +9,10 @@ missions:
     end: 2024-03-30
     status: independent
     employer: Scopyleft
+    startups:
+      - données-et-territoires
 startups:
   - données-et-territoires
 memberType: beta
 ---
-
 UI Designer

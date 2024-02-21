@@ -1,6 +1,6 @@
 ---
 fullname: Maryline ARAUJO
-role: Gestionnaire innovation 
+role: Gestionnaire innovation
 domaine: Autre
 missions:
   - start: 2024-01-16
@@ -9,4 +9,3 @@ missions:
     employer: MINISTERE DE LA JUSTICE
 memberType: beta
 ---
-

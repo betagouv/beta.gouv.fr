@@ -7,7 +7,8 @@ missions:
     end: 2023-01-10
     status: independent
     employer: Malt
+    startups:
+      - a-just
 startups:
   - a-just
 ---
-

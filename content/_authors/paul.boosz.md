@@ -8,10 +8,11 @@ missions:
     end: 2024-04-14
     status: independent
     employer: INETUM - LBC
+    startups:
+      - ecobalyse
 startups:
   - ecobalyse
 badges:
   - segur
 ---
-
 Data, écologie et beach volley

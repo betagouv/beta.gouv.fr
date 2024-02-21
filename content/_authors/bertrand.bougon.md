@@ -8,10 +8,11 @@ missions:
   - start: 2023-06-12
     end: 2024-03-12
     status: independent
-    employer: ""
+    employer: ''
+    startups:
+      - mon-aide-cyber
 startups:
   - mon-aide-cyber
 memberType: beta
 ---
-
 Développeur, software craft, TDD lover, DDD lover

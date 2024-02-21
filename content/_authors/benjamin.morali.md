@@ -8,6 +8,9 @@ missions:
     end: 2021-06-04
     status: service
     employer: BENEXT
+    startups:
+      - archifiltre
+      - 1000.jours
 startups:
   - archifiltre
   - 1000.jours

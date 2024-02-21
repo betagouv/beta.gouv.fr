@@ -7,9 +7,10 @@ missions:
     end: 2024-04-15
     status: independent
     employer: ut7
+    startups:
+      - pilotagevoiepro
 startups:
   - pilotagevoiepro
 memberType: beta
 ---
-
 Slow-food, slow-travel, BD et littérature, podcasts en aléatoire, tiramisù, maman féministe, illustratrice jeunesse autodidacte, vraie cycliste, fausse sportive, designer engagée, jardineuse débutante

@@ -7,9 +7,10 @@ missions:
     end: 2023-12-03
     status: admin
     employer: DGFIP
+    startups:
+      - 1000.premiers.jours.blues
 startups:
   - 1000.premiers.jours.blues
 memberType: autre
 ---
-
 Chargée mission innovation, inrapreneur et attachée de la fonction publique d'Etat (1000 premiersjours)

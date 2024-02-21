@@ -7,8 +7,9 @@ missions:
     end: 2024-06-30
     status: admin
     employer: Mise à disposition GIP Inclusion
+    startups:
+      - itou
 startups:
   - itou
 memberType: beta
 ---
-

@@ -9,6 +9,10 @@ missions:
     end: 2024-12-30
     status: independent
     employer: numa
+    startups:
+      - cnr
+      - demarches-simplifiees.fr
+      - tchap
 startups:
   - cnr
   - demarches-simplifiees.fr
@@ -38,5 +42,4 @@ teams:
   - /teams/communaute-dinum
   - /teams/fast-dinum
 ---
-
 Accélérateur de startups d'État. Acquisition, Activation, Retention, Referral, Impact 👊

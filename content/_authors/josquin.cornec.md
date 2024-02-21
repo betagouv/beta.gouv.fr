@@ -8,8 +8,9 @@ missions:
     end: 2024-05-20
     status: service
     employer: scopyleft
+    startups:
+      - signaux-faibles
 startups:
   - signaux-faibles
 memberType: beta
 ---
-

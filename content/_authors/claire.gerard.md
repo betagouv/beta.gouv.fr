@@ -7,8 +7,9 @@ missions:
     end: 2023-06-23
     status: independent
     employer: Octo
+    startups:
+      - reva
 startups:
   - reva
 ---
-
 UX/UI/designer

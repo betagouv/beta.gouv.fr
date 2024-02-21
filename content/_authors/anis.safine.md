@@ -8,6 +8,8 @@ missions:
     end: 2024-02-15
     status: independent
     employer: ''
+    startups:
+      - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
 ---

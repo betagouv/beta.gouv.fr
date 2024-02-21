@@ -2,7 +2,7 @@
 fullname: Alexandre Segura
 role: Développeur
 domaine: Développement
-avatar: 'https://avatars2.githubusercontent.com/alexsegura?s=600'
+avatar: https://avatars2.githubusercontent.com/alexsegura?s=600
 missions:
   - end: 2019-05-14
     start: 2018-05-14
@@ -15,4 +15,3 @@ missions:
 startups:
   - mes-aides
 ---
-

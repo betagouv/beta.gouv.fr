@@ -8,5 +8,4 @@ missions:
     status: admin
 memberType: beta
 ---
-
 Assistante de gestion

@@ -9,9 +9,10 @@ missions:
     end: 2024-02-29
     status: service
     employer: ''
+    startups:
+      - sparte
 startups:
   - sparte
 memberType: beta
 ---
-
 Accélérateur d'ouverture des données

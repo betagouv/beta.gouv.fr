@@ -9,9 +9,9 @@ missions:
     end: 2024-12-20
     status: independent
     employer: Scopopop
+    startups:
+      - docurba
 startups:
   - docurba
 ---
-
-
 Développeur js.

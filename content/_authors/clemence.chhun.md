@@ -7,6 +7,4 @@ missions:
     end: 2023-02-26
     status: service
     employer: ''
-
 ---
-''

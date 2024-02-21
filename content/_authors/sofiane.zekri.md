@@ -11,7 +11,7 @@ missions:
   - start: 2024-01-01
     end: 2026-12-31
     status: admin
-    employer: GIP Plateforme de l'inclusion 
+    employer: GIP Plateforme de l'inclusion
 startups:
   - place-de-marche-inclusion
 badges:

@@ -7,8 +7,9 @@ missions:
     end: 2024-04-29
     status: independent
     employer: ''
+    startups:
+      - trackdechets
 startups:
   - trackdechets
 memberType: autre
 ---
-

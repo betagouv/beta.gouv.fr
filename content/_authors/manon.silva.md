@@ -8,11 +8,12 @@ missions:
     end: 2024-06-29
     status: independent
     employer: Octo
+    startups:
+      - maison.de.lautisme
+      - ozensemble
 badges:
   - segur
 startups:
   - maison.de.lautisme
   - ozensemble
 ---
-
-

@@ -8,5 +8,3 @@ missions:
     status: service
     employer: Octo
 ---
-
-

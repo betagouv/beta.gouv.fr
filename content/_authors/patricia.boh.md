@@ -7,10 +7,12 @@ missions:
   - start: 2023-09-11
     end: 2024-09-11
     status: independent
+    startups:
+      - urbanvitaliz
+      - recommandations-collaboratives
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
 memberType: beta
 ---
-
 Dev front

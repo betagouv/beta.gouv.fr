@@ -8,10 +8,11 @@ missions:
   - start: 2023-07-03
     end: 2024-03-31
     status: independent
-    employer: ""
+    employer: ''
+    startups:
+      - mistral-penal
 startups:
   - mistral-penal
 memberType: beta
 ---
-
 Conceptrice passionnée et enthousiaste de produits utiles

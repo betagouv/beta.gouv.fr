@@ -7,9 +7,10 @@ missions:
     end: 2024-03-23
     status: independent
     employer: Malt
+    startups:
+      - tchap
 startups:
   - tchap
 memberType: beta
 ---
-
 Informagicien, Photographe

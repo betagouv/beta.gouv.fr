@@ -8,6 +8,8 @@ missions:
     end: 2024-07-31
     status: admin
     employer: DGFiP
+    startups:
+      - faritas
 startups:
   - faritas
 competences:

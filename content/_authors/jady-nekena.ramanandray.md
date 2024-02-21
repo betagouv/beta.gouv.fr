@@ -8,6 +8,8 @@ missions:
   - start: 2022-10-10
     end: 2024-12-31
     status: independent
+    startups:
+      - pilotagevoiepro
 startups:
   - pilotagevoiepro
 previously:
@@ -17,5 +19,4 @@ competences:
   - Gestion de Produit
   - Développement Backend
 ---
-
 Analyste de données le jour. Et la nuit aussi. :)

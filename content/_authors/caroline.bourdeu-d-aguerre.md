@@ -8,6 +8,9 @@ missions:
     end: 2024-06-29
     status: independent
     employer: ''
+    startups:
+      - codedutravail
+      - monpsy
 startups:
   - codedutravail
   - monpsy

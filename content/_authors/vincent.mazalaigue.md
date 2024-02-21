@@ -1,6 +1,6 @@
 ---
 fullname: Vincent Mazalaigue
-role: Data 
+role: Data
 domaine: Déploiement
 github: mazalaigue
 missions:
@@ -9,5 +9,4 @@ missions:
     status: admin
     employer: DINUM
 ---
-
-Faciliter les démarches des usagers est mon leitmotiv depuis mon entrée dans l'administration.  
+Faciliter les démarches des usagers est mon leitmotiv depuis mon entrée dans l'administration.

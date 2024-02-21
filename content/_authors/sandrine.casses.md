@@ -8,9 +8,12 @@ missions:
     end: 2025-12-31
     status: admin
     employer: Pôle emploi
+    startups:
+      - itou
 startups:
   - itou
 competences:
   - Gestion de Produit
 ---
-Heureuse de participer à ce beau projet et d’apporter ma pierre à l’édifice. Ma devise : Je ne perds jamais. Soit je gagne, soit j’apprends. (Nelson Mandela)
+Heureuse de participer à ce beau projet et d’apporter ma pierre à l’édifice. Ma devise: Je
+  ne perds jamais. Soit je gagne, soit j’apprends. (Nelson Mandela)

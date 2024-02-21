@@ -7,6 +7,8 @@ missions:
     end: 2021-01-01
     status: admin
     employer: minint
-startups :
+    startups:
+      - jesaisfaire
+startups:
   - jesaisfaire
 ---

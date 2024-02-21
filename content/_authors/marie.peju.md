@@ -7,8 +7,9 @@ missions:
     end: 2024-05-31
     status: independent
     employer: Malt
+    startups:
+      - locatio
 startups:
   - locatio
 memberType: beta
 ---
-

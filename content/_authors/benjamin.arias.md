@@ -8,6 +8,8 @@ missions:
     end: 2024-12-31
     status: independent
     employer: URSSAF
+    startups:
+      - nosgestesclimat
 startups:
   - nosgestesclimat
 badges:
@@ -15,5 +17,4 @@ badges:
 previously:
   - mon-entreprise
 ---
-
 Développeur Front-End spécialisé en React. Fan de 🚲 🎸 🏊‍♂️  🚣

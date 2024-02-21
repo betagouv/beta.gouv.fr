@@ -7,8 +7,9 @@ missions:
     end: 2024-06-29
     status: independent
     employer: ''
+    startups:
+      - mon-suivi-justice
 startups:
   - mon-suivi-justice
 memberType: beta
 ---
-

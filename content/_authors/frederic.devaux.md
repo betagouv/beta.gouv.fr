@@ -9,5 +9,4 @@ missions:
     status: independent
 memberType: beta
 ---
-
 Consultant SEO / référencement naturel, jour et nuit !

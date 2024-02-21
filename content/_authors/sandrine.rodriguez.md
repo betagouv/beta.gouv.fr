@@ -8,8 +8,9 @@ missions:
     end: 2022-05-10
     status: admin
     employer: DINUM
+    startups:
+      - talents.numeriques
 startups:
   - talents.numeriques
 ---
-
-J'aime découvrir et expérimenter de nouvelles choses !  
+J'aime découvrir et expérimenter de nouvelles choses !

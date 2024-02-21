@@ -7,7 +7,11 @@ missions:
   - start: 2021-01-04
     end: 2024-06-29
     status: independent
-    employer: ""
+    employer: ''
+    startups:
+      - mistral-penal
+      - apilos
+      - carte-verte
 startups:
   - mistral-penal
   - apilos

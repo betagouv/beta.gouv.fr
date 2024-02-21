@@ -12,7 +12,7 @@ missions:
     end: 2027-02-15
     employer: dinum
     status: admin
-startups:
+startups: null
 previously:
   - datapass
   - bourse
@@ -27,5 +27,4 @@ badges:
 teams:
   - /teams/dinum_produits_interministeriels
 ---
-
-[Cliquez ici pour améliorer cette bio]
+- Cliquez ici pour améliorer cette bio

@@ -8,10 +8,11 @@ missions:
     end: 2024-07-30
     status: independent
     employer: Malt
+    startups:
+      - mon-suivi-social
 startups:
   - mon-suivi-social
 previously:
   - locatio
 ---
-
 Entrepreneure, photographe, engagée dans les enjeux de l'ESS et les questions d'innovation sociale, je n'ai qu'une tête mais de multiples casquettes !

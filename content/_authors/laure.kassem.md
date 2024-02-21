@@ -9,5 +9,4 @@ missions:
     employer: Numéricité
 memberType: autre
 ---
-
 Juriste en droit du numérique

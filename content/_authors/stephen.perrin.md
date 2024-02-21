@@ -9,8 +9,9 @@ missions:
     end: 2024-07-15
     status: independent
     employer: ''
+    startups:
+      - aigle
 memberType: beta
 startups:
   - aigle
 ---
-

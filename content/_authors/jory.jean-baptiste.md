@@ -15,5 +15,4 @@ missions:
 startups:
   - mobiville
 ---
-
 Passionné par l'environnement "Start Up" et ayant un profil très artistique, j’aime imaginer, co-créer des services et produits qui ont du sens pour des utilisateurs qui en ont besoin.

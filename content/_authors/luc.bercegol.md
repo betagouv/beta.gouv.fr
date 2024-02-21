@@ -9,5 +9,4 @@ missions:
     employer: Mtes
 memberType: beta
 ---
-
 Intrapreneur sur OTELO

@@ -17,5 +17,4 @@ missions:
 teams:
   - /teams/animation-dinum
 ---
-
 Make it work, make it right, make it fast

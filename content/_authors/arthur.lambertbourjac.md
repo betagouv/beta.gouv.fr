@@ -8,9 +8,9 @@ missions:
     end: 2024-08-30
     status: service
     employer: OCTO Technology
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 ---
-
-
 Du craft, à manger et du fun.

@@ -9,6 +9,8 @@ missions:
     end: 2024-06-22
     status: independent
     employer: DINUM
+    startups:
+      - exposition-ij
 competences:
   - Product design
   - UX UI
@@ -19,5 +21,4 @@ teams:
 startups:
   - exposition-ij
 ---
-
 🌻

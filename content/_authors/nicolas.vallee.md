@@ -10,10 +10,10 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ADEME
+    startups:
+      - territoires-en-transitions
 startups:
   - territoires-en-transitions
 competences:
   - Administration Publique
-
 ---
-''

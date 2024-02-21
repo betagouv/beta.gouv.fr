@@ -8,6 +8,8 @@ missions:
     end: 2024-05-28
     status: independent
     employer: Octo
+    startups:
+      - locatio
 startups:
   - locatio
 ---

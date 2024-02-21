@@ -7,6 +7,8 @@ missions:
     end: 2024-01-31
     status: service
     employer: Pôle emploi
+    startups:
+      - mes-evenements-emploi
 incubator: pole-emploi
 startups:
   - mes-evenements-emploi

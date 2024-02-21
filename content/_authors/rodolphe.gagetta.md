@@ -8,6 +8,8 @@ missions:
     end: 2024-03-31
     status: independent
     employer: OCTO
+    startups:
+      - itou
 startups:
   - itou
 badges:

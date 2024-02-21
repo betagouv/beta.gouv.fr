@@ -8,5 +8,4 @@ missions:
     status: service
     employer: affaires-sociales
 ---
-
 J'aide les entreprises et l'administration dans les cas d'usage de la data science.

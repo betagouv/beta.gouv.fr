@@ -10,5 +10,4 @@ missions:
     employer: ''
 memberType: autre
 ---
-
 Numérique d'intérêt général

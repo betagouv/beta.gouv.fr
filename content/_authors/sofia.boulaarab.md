@@ -9,6 +9,9 @@ missions:
     end: 2024-06-29
     status: independent
     employer: Mission interministérielle pour l'apprentissage
+    startups:
+      - catalogue-apprentissage
+      - uai_siret
 startups:
   - catalogue-apprentissage
   - uai_siret
@@ -18,5 +21,3 @@ competences:
   - UX
   - UI
 ---
-
-''

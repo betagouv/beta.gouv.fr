@@ -8,9 +8,10 @@ missions:
     end: 2024-04-19
     status: service
     employer: La Fabrique Numérique
+    startups:
+      - egalite.professionnelle
 startups:
   - egalite.professionnelle
 memberType: autre
 ---
-
 Consultante Product Owner

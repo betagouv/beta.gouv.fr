@@ -8,6 +8,8 @@ missions:
     end: 2024-06-28
     status: independent
     employer: NUMA
+    startups:
+      - sirius
 startups:
   - sirius
 badges:

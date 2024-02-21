@@ -7,7 +7,8 @@ missions:
     end: 2022-02-04
     status: service
     employer: Orange Consulting
+    startups:
+      - mobiville
 startups:
   - mobiville
 ---
-

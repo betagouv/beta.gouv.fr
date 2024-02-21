@@ -9,6 +9,8 @@ missions:
     end: 2021-06-30
     status: independent
     employer: OCTO
+    startups:
+      - fluctuat
 startups:
-    - fluctuat
+  - fluctuat
 ---

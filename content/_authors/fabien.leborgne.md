@@ -7,9 +7,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ''
+    startups:
+      - locatio
 startups:
   - locatio
-
 ---
 Développeur bienveillant et pragmatique, architecte de solutions élégantes et efficaces.
-

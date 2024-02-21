@@ -8,6 +8,8 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Path Tech
+    startups:
+      - territoires-en-transitions
 startups:
   - territoires-en-transitions
 previously:
@@ -15,5 +17,4 @@ previously:
 badges:
   - segur
 ---
-
 Product Designer et amatrice de kitesurf

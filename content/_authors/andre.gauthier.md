@@ -9,6 +9,8 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Scopyleft
+    startups:
+      - a-just
 startups:
   - a-just
 previously:

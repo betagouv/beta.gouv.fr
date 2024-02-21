@@ -8,6 +8,8 @@ missions:
     end: 2024-12-31
     status: independent
     employer: OCTO
+    startups:
+      - portail-rse
 startups:
   - portail-rse
 badges:
@@ -15,5 +17,4 @@ badges:
 previously:
   - trackdechets
 ---
-
 Chargée de déploiement de Trackdéchets

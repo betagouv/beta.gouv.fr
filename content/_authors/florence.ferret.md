@@ -8,5 +8,4 @@ missions:
     status: admin
     employer: ''
 ---
-
 Intrapreneure de Réseau Pro

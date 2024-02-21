@@ -8,8 +8,9 @@ missions:
     end: 2023-09-30
     status: service
     employer: OCTO
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 ---
-
 J'aime coder.

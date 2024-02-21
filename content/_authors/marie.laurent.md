@@ -10,5 +10,4 @@ missions:
     employer: Omnicité
 memberType: autre
 ---
-
 Directrice Artistique, designer interactif et illustratrice

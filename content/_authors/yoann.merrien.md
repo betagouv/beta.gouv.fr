@@ -8,6 +8,9 @@ missions:
     end: 2024-03-23
     status: independent
     employer: Malt
+    startups:
+      - moncomptepro
+      - bases.adresses.locales
 startups:
   - moncomptepro
   - bases.adresses.locales

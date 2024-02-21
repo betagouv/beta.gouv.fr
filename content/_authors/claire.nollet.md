@@ -11,5 +11,4 @@ missions:
 previously:
   - psij
 ---
-
 Développeuse à la Fabrique Numérique du Ministère de l'Intérieur

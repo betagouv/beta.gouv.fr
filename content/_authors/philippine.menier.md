@@ -7,6 +7,8 @@ missions:
     end: 2023-10-30
     status: independent
     employer: Haut-commissariat à l'emploi et à l'engagement des entreprises
+    startups:
+      - pass.engagement.jeune
 startups:
   - pass.engagement.jeune
 badges:
@@ -16,4 +18,3 @@ competences:
   - Croissance
   - Administration Publique
 ---
-

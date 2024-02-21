@@ -7,6 +7,8 @@ missions:
     end: 2024-01-30
     status: service
     employer: Ippon
+    startups:
+      - experts
 startups:
   - experts
 competences:

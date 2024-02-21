@@ -8,5 +8,4 @@ missions:
     status: admin
     employer: DEALM Mayotte
 ---
-
 Animateur de la MISEN de Mayotte

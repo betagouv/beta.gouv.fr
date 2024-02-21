@@ -8,9 +8,10 @@ missions:
     end: 2024-02-29
     status: independent
     employer: Opteamis
+    startups:
+      - codedutravail
 startups:
   - codedutravail
 memberType: beta
 ---
-
 Expert Tech-for-good, coach en développement pro  perso !

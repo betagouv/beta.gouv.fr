@@ -1,6 +1,6 @@
 ---
 fullname: Guillaume Gaubert
-role: En immersion 
+role: En immersion
 domaine: Autre
 github: gaubertguillaume75
 missions:

@@ -9,8 +9,9 @@ missions:
     end: 2024-07-26
     status: independent
     employer: DINUM
+    startups:
+      - icare-complements-alimentaires
 startups:
   - icare-complements-alimentaires
 memberType: beta
 ---
-

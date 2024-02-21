@@ -8,6 +8,9 @@ missions:
     end: 2025-12-31
     status: independent
     employer: ''
+    startups:
+      - sparte
+      - docurba
 startups:
   - sparte
   - docurba

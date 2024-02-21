@@ -11,6 +11,4 @@ missions:
 badges:
   - segur
 ---
-
-
 Conseillère en création et développement d'activité chez Omnicité.

@@ -8,6 +8,8 @@ missions:
     end: 2021-04-05
     employer: pass-culture
     status: admin
+    startups:
+      - pass-culture
 startups:
-    - pass-culture
+  - pass-culture
 ---

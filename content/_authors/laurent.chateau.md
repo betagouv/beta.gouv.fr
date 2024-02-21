@@ -7,9 +7,9 @@ missions:
     end: 2025-04-30
     status: admin
     employer: ADEME
+    startups:
+      - benefriches
 memberType: beta
 startups:
   - benefriches
 ---
-
-

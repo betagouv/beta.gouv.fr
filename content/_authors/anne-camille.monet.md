@@ -8,6 +8,8 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ''
+    startups:
+      - besoins.opco
 incubator: mission-apprentissage
 startups:
   - besoins.opco

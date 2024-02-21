@@ -6,6 +6,8 @@ missions:
   - start: 2020-03-22
     end: 2022-12-31
     status: admin
+    startups:
+      - zero-logement-vacant
 startups:
   - zero-logement-vacant
 competences:

@@ -36,5 +36,4 @@ previously:
 badges:
   - segur
 ---
-
 Tout faire pour les humain·e·s

@@ -8,6 +8,8 @@ missions:
     end: 2024-11-26
     status: admin
     employer: FABNUMDEF - Anais
+    startups:
+      - anais
 startups:
   - anais
 competences:

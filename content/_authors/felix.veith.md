@@ -14,10 +14,8 @@ missions:
     end: 2024-12-28
     status: independent
     employer: INETUM - LBC
-
 startups:
   - bat-id
   - decl-bombarbier-eau
 memberType: beta
 ---
-

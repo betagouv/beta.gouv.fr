@@ -10,6 +10,9 @@ missions:
     end: 2025-01-31
     status: independent
     employer: octo
+    startups:
+      - jeveuxaider
+      - snu
 startups:
   - jeveuxaider
   - snu

@@ -7,11 +7,11 @@ missions:
     end: 2024-09-01
     status: independent
     employer: Malt
+    startups:
+      - zero-logement-vacant
 startups:
   - zero-logement-vacant
 badges:
   - segur
 ---
-
-
 Chargé de déploiement Zéro Logement Vacant

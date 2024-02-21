@@ -22,5 +22,4 @@ startups:
 previously:
   - signaux-faibles
 ---
-
 Data Full Stack

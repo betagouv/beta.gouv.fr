@@ -12,5 +12,4 @@ missions:
 previously:
   - eva
 ---
-
 Développeur avec du sens, adepte du TDD et des déploiements de logiciels fonctionnels

@@ -7,9 +7,10 @@ missions:
     end: 2024-06-23
     status: independent
     employer: Omnicité
+    startups:
+      - nis2
 startups:
   - nis2
 memberType: beta
 ---
-
 Designer UX

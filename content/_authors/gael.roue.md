@@ -8,8 +8,9 @@ missions:
     end: 2023-06-30
     status: admin
     employer: Shom
+    startups:
+      - sppnaut
 startups:
   - sppnaut
 ---
-
 Ingénieur hydrographe au Shom

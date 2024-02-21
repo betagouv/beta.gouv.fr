@@ -15,4 +15,3 @@ startups:
   - mon-entreprise
 memberType: beta
 ---
-

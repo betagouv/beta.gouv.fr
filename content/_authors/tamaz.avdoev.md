@@ -8,9 +8,10 @@ missions:
     end: 2023-10-04
     status: independent
     employer: On verra
+    startups:
+      - pass-sport
 startups:
   - pass-sport
 memberType: autre
 ---
-
 Justicier le jour justifier le soir.

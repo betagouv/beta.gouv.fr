@@ -8,9 +8,10 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Malt
+    startups:
+      - experts
 memberType: beta
 startups:
   - experts
 ---
-
 Chargée de portefeuille à l'incubateur des territoires

@@ -7,6 +7,8 @@ missions:
     end: 2021-12-31
     status: admin
     employer: Mission Locale du Chinonais
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 ---

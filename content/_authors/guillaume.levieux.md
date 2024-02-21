@@ -9,11 +9,10 @@ missions:
     status: admin
     employer: MTE/DGALN
 previously:
-    - camino
+  - camino
 badges:
   - segur
 teams:
   - /teams/mtes
 ---
-
 Toujours fan des volcans et de ceux qui vivent dessus.

@@ -8,6 +8,8 @@ missions:
     end: 2026-10-30
     status: admin
     employer: DINUM
+    startups:
+      - notifications
 badges:
   - segur
 startups:
@@ -15,5 +17,4 @@ startups:
 previously:
   - tous.a.bord
 ---
-
 Développeur JS, passion cybersécurité

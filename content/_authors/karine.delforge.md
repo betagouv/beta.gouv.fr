@@ -17,12 +17,10 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Mission InserJeunes
-startups:
+startups: null
 competences:
   - Coaching
   - UX
   - UI
-
 ---
-
 Utiliser le design comme une force de changement.

@@ -8,6 +8,9 @@ missions:
     end: 2024-12-30
     status: independent
     employer: scopyleft
+    startups:
+      - benefriches
+      - jafer
 startups:
   - benefriches
   - jafer

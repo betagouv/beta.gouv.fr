@@ -9,6 +9,8 @@ missions:
     end: 2022-10-21
     status: admin
     employer: DB
+    startups:
+      - cyberbudget
 startups:
   - cyberbudget
 competences:

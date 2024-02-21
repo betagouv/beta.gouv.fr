@@ -9,9 +9,10 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Malt
+    startups:
+      - aides-territoires
 startups:
   - aides-territoires
 memberType: beta
 ---
-
 Artisan du web

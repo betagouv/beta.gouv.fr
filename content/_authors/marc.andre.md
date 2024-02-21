@@ -7,10 +7,12 @@ missions:
     end: 2024-06-30
     status: independent
     employer: /ut7
+    startups:
+      - catalogue-apprentissage
+      - voeux-apprentissage
 startups:
   - catalogue-apprentissage
   - voeux-apprentissage
 badges:
   - segur
 ---
-

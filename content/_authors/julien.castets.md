@@ -9,6 +9,8 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Scopopop
+    startups:
+      - mesads
 startups:
   - mesads
 competences:

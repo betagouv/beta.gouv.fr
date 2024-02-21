@@ -7,6 +7,8 @@ missions:
     end: 2022-12-31
     status: admin
     employer: Direction de la sécurité sociale
+    startups:
+      - monpsy
 incubator: sgmas
 startups:
   - monpsy

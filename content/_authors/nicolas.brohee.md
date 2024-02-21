@@ -7,9 +7,8 @@ missions:
     end: 2017-08-08
     status: service
     employer: octo
-startups:
+startups: null
 previously:
   - etudiant-entrepreneur
 ---
-
-Ne blâme pas les usagers : améliore le système !
+Ne blâme pas les usagers: améliore le système !

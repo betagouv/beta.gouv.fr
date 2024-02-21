@@ -8,8 +8,9 @@ missions:
     end: 2022-08-31
     status: independent
     employer: Codeurs en Liberté
+    startups:
+      - transport
 startups:
   - transport
 ---
-
 Stagiaire étudiant à l'ESIEA, sportif à mi-temps et intéressé par la cyber-sécurité.

@@ -7,8 +7,9 @@ missions:
     end: 2024-12-31
     status: admin
     employer: pôle emploi
+    startups:
+      - l-immersion-facile
 startups:
   - l-immersion-facile
 memberType: beta
 ---
-

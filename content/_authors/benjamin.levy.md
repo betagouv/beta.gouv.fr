@@ -7,7 +7,8 @@ missions:
     end: 2024-06-29
     status: independent
     employer: LBC
+    startups:
+      - monstage
 startups:
   - monstage
 ---
-

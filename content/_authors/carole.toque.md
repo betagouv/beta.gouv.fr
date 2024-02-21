@@ -6,11 +6,11 @@ missions:
   - start: 2021-09-01
     end: 2022-12-31
     status: admin
+    startups:
+      - bureaux.vacants
 startups:
-    - bureaux.vacants
+  - bureaux.vacants
 previously:
-    - zero-logement-vacant
-    
+  - zero-logement-vacant
 ---
-
 Analyste de données avant tout !

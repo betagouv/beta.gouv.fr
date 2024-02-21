@@ -9,5 +9,7 @@ missions:
     end: 2024-06-30
     status: admin
     employer: MTES/SNUM
+    startups:
+      - locatio
 ---
 Chargé de déploiement, dossierfacile.fr

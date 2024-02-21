@@ -7,8 +7,10 @@ missions:
     end: 2018-10-10
     status: independent
     employer: octo
+    startups:
+      - demarches-simplifiees.fr
 startups:
-    - demarches-simplifiees.fr
+  - demarches-simplifiees.fr
 previously:
-    - eva
+  - eva
 ---

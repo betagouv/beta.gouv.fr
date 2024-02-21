@@ -9,12 +9,12 @@ missions:
     end: 2024-06-29
     status: independent
     employer: Scop&co
+    startups:
+      - eimis
 startups:
   - eimis
 memberType: autre
 previously:
   - tchap
 ---
-
-
 DevOps freelance

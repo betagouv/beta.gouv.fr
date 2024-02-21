@@ -7,6 +7,9 @@ missions:
     end: 2024-03-31
     status: independent
     employer: ANCT
+    startups:
+      - conseiller-numerique
+      - cartographie.nationale
 startups:
   - conseiller-numerique
   - cartographie.nationale
@@ -18,5 +21,3 @@ previously:
   - conseiller-numerique
   - cartographie.nationale
 ---
-
-

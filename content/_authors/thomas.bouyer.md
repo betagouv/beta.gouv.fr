@@ -7,10 +7,11 @@ missions:
     end: 2023-04-24
     status: admin
     employer: DRIEAT
+    startups:
+      - chauffage-urbain
 startups:
   - chauffage-urbain
 badges:
   - segur
 ---
-
 Chef du service Energie & Bâtiment à la DRIEAT

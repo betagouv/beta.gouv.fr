@@ -8,10 +8,11 @@ missions:
     end: 2024-08-31
     status: independent
     employer: malt
+    startups:
+      - domifa
 startups:
   - domifa
 competences:
   - Développement Backend
   - Développement Frontend
 ---
-''

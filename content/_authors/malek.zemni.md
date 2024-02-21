@@ -8,9 +8,8 @@ missions:
     end: 2024-05-31
     status: service
     employer: OCTO
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
-
 ---
-
-

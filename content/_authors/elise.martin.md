@@ -9,5 +9,4 @@ missions:
     status: service
     employer: octo
 ---
-
 All you need is Data

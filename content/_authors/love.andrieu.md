@@ -8,6 +8,9 @@ missions:
     end: 2024-03-31
     status: admin
     employer: Ministère des solidarités et santé
+    startups:
+      - 1000.jours
+      - 1000.premiers.jours.blues
 startups:
   - 1000.jours
   - 1000.premiers.jours.blues

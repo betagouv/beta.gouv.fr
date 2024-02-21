@@ -7,11 +7,11 @@ missions:
     end: 2024-06-29
     status: independent
     employer: Ministère de la Transition énergétique
+    startups:
+      - potentiel
 startups:
   - potentiel
 badges:
   - segur
 ---
-
-
 Chargé de déploiement et apprenti jujitsuka

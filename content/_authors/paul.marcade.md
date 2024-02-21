@@ -8,6 +8,8 @@ missions:
     end: 2024-05-30
     status: independent
     employer: ''
+    startups:
+      - a-just
 incubator: ''
 startups:
   - a-just

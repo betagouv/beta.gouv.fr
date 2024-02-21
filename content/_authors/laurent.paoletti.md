@@ -9,10 +9,9 @@ missions:
     end: 2024-07-01
     status: independent
     employer: ''
+    startups:
+      - trackdechets
 startups:
   - trackdechets
 ---
 Artisan du web, amateur de fromage, arpenteur de pentes plus ou moins raides.
- 
-
-

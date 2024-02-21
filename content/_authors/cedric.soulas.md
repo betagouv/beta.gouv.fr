@@ -20,5 +20,4 @@ missions:
 startups:
   - reva
 ---
-
 Développeur d’applications web et créateur de formations illustrées

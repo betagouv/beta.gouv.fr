@@ -7,9 +7,11 @@ missions:
     end: 2023-12-31
     status: independent
     employer: ''
+    startups:
+      - monstage
+      - deveco
 startups:
   - monstage
   - deveco
 ---
-
 Data specialist

@@ -14,9 +14,8 @@ missions:
     employer: lazone/scopyleft
 link: https://détour.studio
 startups:
-    - cartobio
+  - cartobio
 previously:
-     - data.gouv.fr
+  - data.gouv.fr
 ---
-
 Vivre un futur désirable.

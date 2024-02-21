@@ -7,10 +7,9 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Fairness
+    startups:
+      - dialogue
 startups:
   - dialogue
 ---
-
-
-
 UX designer, spécialisée écoconception

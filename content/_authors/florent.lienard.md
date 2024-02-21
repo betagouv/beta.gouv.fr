@@ -7,10 +7,12 @@ missions:
     end: 2025-12-31
     status: independent
     employer: Dinum
+    startups:
+      - agents.en.intervention
+      - espace.sur.demande
 memberType: beta
 startups:
   - agents.en.intervention
   - espace.sur.demande
 ---
-
 UX/UI Designer

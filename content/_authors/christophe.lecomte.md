@@ -7,9 +7,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: OCTO
+    startups:
+      - place-des-entreprises
 startups:
   - place-des-entreprises
 badges:
   - segur
 ---
-

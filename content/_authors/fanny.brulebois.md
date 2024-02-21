@@ -7,9 +7,8 @@ missions:
     end: 2016-07-01
     employer: dinum
     status: admin
-startups:
+startups: null
 previously:
   - mdph
 ---
-
 Veut prouver que « Startup d'État » n'est pas un oxymore.

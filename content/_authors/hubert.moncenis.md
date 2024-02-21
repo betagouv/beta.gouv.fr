@@ -8,8 +8,9 @@ missions:
     end: 2024-07-20
     status: independent
     employer: Malt
+    startups:
+      - potentiel
 startups:
   - potentiel
 ---
-
-Développeur fullstack javascript 
+Développeur fullstack javascript

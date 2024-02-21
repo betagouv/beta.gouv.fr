@@ -8,11 +8,11 @@ missions:
     status: independent
     employer: ''
     startups:
-      - suite.d.outils.des.mediateurs.numeriques
+      - deveco
+      - les.bases
 startups:
   - deveco
   - les.bases
 memberType: beta
 link: https://www.linkedin.com/in/alexandre-martinez-2097b3189/
 ---
-

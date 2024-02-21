@@ -8,8 +8,9 @@ missions:
     end: 2022-06-30
     status: independent
     employer: Octo
+    startups:
+      - itou
 startups:
   - itou
 ---
-
 Freelance Social Media basée à Toulouse !

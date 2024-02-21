@@ -8,8 +8,9 @@ missions:
     end: 2024-03-31
     status: admin
     employer: DGITM
+    startups:
+      - transport
 startups:
   - transport
 memberType: dinum
 ---
-

@@ -41,12 +41,8 @@ previously:
   - egalite.professionnelle
   - maison.de.lautisme
 competences:
-  - "Coaching"
-  - "Développement Frontend"
-  - "Développement Backend"
+  - Coaching
+  - Développement Frontend
+  - Développement Backend
 ---
-
-CTO Incubateur de l'ADEME | <br/>
-ex-Coach Tech Incubateur @SocialGouv | <br/>
-ex-CTO @Simbel | <br/>
-[Paris Deno](https://deno.paris) organizer
+CTO Incubateur de l'ADEME | <br/> ex-Coach Tech Incubateur @SocialGouv | <br/> ex-CTO @Simbel | <br/> [Paris Deno](https://deno.paris) organizer

@@ -8,7 +8,9 @@ missions:
   - start: 2020-06-02
     end: 2024-06-30
     status: independent
-    employer: ""
+    employer: ''
+    startups:
+      - camino
 startups:
   - camino
 competences:

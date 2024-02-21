@@ -7,8 +7,9 @@ missions:
     end: 2024-06-20
     status: independent
     employer: ''
+    startups:
+      - snu
 startups:
   - snu
 memberType: beta
 ---
-

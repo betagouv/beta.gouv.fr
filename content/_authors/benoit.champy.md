@@ -9,6 +9,10 @@ missions:
     end: 2026-12-31
     status: admin
     employer: DINUM
+    startups:
+      - pass-sport
+      - france.nation.verte.agir
+      - acceslibre
 startups:
   - pass-sport
   - france.nation.verte.agir

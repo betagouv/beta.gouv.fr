@@ -20,4 +20,3 @@ competences:
   - Coaching
   - Communication
 ---
-''

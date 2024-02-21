@@ -8,9 +8,10 @@ missions:
     end: 2024-06-29
     status: independent
     employer: malt
+    startups:
+      - snu
 startups:
   - snu
 memberType: beta
 ---
-
 Data Analyst / Coach Tableau & SQL

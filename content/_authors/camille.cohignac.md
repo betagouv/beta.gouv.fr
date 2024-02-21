@@ -7,8 +7,9 @@ missions:
     end: 2022-10-31
     status: independent
     employer: Ground
+    startups:
+      - locatio
 startups:
   - locatio
 ---
-
 Coach produit, inspecteur gadget

@@ -8,9 +8,10 @@ missions:
     end: 2024-09-05
     status: admin
     employer: DGALN
+    startups:
+      - locatio
 startups:
   - locatio
 memberType: beta
 ---
-
 Chargée de déploiement déterminée et passionnée par les jeux de rôles

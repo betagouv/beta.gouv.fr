@@ -9,4 +9,3 @@ missions:
     employer: MTECT
 memberType: autre
 ---
-

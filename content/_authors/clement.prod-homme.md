@@ -11,5 +11,4 @@ missions:
 previously:
   - eva
 ---
-
 J'ai une soif d'apprendre au quotidien qui me pousse à sortir de ma zone de confort

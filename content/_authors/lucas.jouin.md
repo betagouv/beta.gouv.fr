@@ -9,6 +9,9 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Malt
+    startups:
+      - zero-logement-vacant
+      - longuevieauxobjets
 startups:
   - zero-logement-vacant
   - longuevieauxobjets
@@ -16,5 +19,4 @@ memberType: beta
 previously:
   - aquaculteurs.marins
 ---
-
 UX Designer ex Akeneo  Greenly, entre Nantes et Lorient ⚓️

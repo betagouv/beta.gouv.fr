@@ -8,8 +8,8 @@ missions:
     end: 2024-03-29
     status: independent
     employer: LittleBigConnection
+    startups:
+      - sparte
 startups:
   - sparte
 ---
-
-

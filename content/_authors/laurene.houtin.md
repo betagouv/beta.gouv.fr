@@ -9,6 +9,8 @@ missions:
     end: 2024-12-29
     status: service
     employer: AD-HOC Lab
+    startups:
+      - diagoriente
 startups:
   - diagoriente
 previously:
@@ -16,7 +18,4 @@ previously:
   - diagoriente
   - place-des-entreprises
 ---
-
-
-
 Réfutabilité/Méthode/Ethique

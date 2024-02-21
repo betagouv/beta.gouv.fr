@@ -17,5 +17,4 @@ previously:
   - a-dock
   - itou
 ---
-
 Aime les solutions simples et plein d'autres trucs compliqués.

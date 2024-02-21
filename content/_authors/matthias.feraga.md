@@ -9,5 +9,4 @@ missions:
     status: service
     employer: octo
 ---
-
 Ambassadeur et facilitateur des Startups d'Etat. Je contribue au recrutement des équipes et j'accompagne des réinternalisations.

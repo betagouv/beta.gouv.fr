@@ -7,9 +7,10 @@ missions:
     end: 2022-12-31
     status: independent
     employer: Pôle emploi
+    startups:
+      - l-immersion-facile
 startups:
   - l-immersion-facile
 badges:
   - segur
 ---
-

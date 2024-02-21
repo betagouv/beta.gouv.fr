@@ -24,5 +24,4 @@ badges:
 teams:
   - /teams/communaute-dinum
 ---
-
 💻🔥     🚒💨

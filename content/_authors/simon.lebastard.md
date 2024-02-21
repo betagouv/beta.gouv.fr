@@ -8,8 +8,9 @@ missions:
     end: 2021-06-30
     status: admin
     employer: DGE
+    startups:
+      - signaux-faibles
 startups:
   - signaux-faibles
 ---
-
 Data scientist @Signaux Faibles

@@ -8,10 +8,11 @@ missions:
     end: 2026-10-31
     status: admin
     employer: ANCT
+    startups:
+      - suite.d.outils.des.mediateurs.numeriques
 teams:
   - /teams/anct
 memberType: beta
 startups:
   - suite.d.outils.des.mediateurs.numeriques
 ---
-

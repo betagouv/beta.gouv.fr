@@ -7,10 +7,11 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ''
+    startups:
+      - la-bonne-alternance
 startups:
   - la-bonne-alternance
 badges:
   - segur
 ---
-
 Product Manager à la Bonne Alternance

@@ -19,5 +19,4 @@ previously:
   - pass-culture
   - mpal
 ---
-
 Y'a pas de problème, que des solutions.

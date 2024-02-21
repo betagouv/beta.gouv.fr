@@ -8,6 +8,8 @@ missions:
     end: 2023-10-13
     status: admin
     employer: DGE
+    startups:
+      - portail-rse
 startups:
   - portail-rse
 memberType: beta

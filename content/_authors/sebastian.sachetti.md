@@ -7,7 +7,7 @@ missions:
     end: 2018-06-01
     status: admin
     employer: dinum
-startups:
+startups: null
 previously:
   - mrs
   - pass-culture
@@ -16,5 +16,4 @@ previously:
   - aplus
   - api-particulier
 ---
-
 Interface Humaine à la recherche de connections pour développer les services publics numériques de demain

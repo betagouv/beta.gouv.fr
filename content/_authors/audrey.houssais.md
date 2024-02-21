@@ -9,6 +9,8 @@ missions:
     end: 2024-05-30
     status: independent
     employer: ''
+    startups:
+      - bat-id
 startups:
   - bat-id
 badges:

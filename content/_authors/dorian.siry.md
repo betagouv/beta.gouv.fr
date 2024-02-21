@@ -7,10 +7,11 @@ missions:
     end: 2021-05-14
     status: admin
     employer: DINUM
+    startups:
+      - aplus
 startups:
   - aplus
 badges:
   - segur
 ---
-
-Je suis étudiant en master grande école à Excelia 
+Je suis étudiant en master grande école à Excelia

@@ -7,8 +7,9 @@ missions:
     end: 2022-08-24
     status: admin
     employer: MTE/CGDD
+    startups:
+      - ecobalyse
 startups:
   - ecobalyse
 ---
-
 Toujours apprendre, être curieux :)

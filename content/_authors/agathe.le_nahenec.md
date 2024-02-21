@@ -11,6 +11,4 @@ startups: null
 previously:
   - mdph
   - mon-entreprise
-
 ---
-

@@ -8,6 +8,9 @@ missions:
     end: 2024-06-30
     status: admin
     employer: pole-emploi
+    startups:
+      - avril
+      - reva
 startups:
   - avril
   - reva

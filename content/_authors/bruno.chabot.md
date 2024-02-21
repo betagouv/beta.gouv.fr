@@ -7,6 +7,8 @@ missions:
     end: 2020-04-30
     status: admin
     employer: minarm
+    startups:
+      - sepia
 startups:
-    - sepia
+  - sepia
 ---

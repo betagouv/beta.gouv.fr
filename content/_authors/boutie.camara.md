@@ -6,11 +6,11 @@ missions:
     end: 2024-03-01
     status: independent
     employer: Octo
+    startups:
+      - locatio
 startups:
   - locatio
 badges:
   - segur
 domaine: Déploiement
 ---
-
-

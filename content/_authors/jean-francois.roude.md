@@ -9,4 +9,3 @@ missions:
     employer: Ministère de l'Intérieur
 memberType: beta
 ---
-

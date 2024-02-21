@@ -8,6 +8,9 @@ missions:
     end: 2024-06-28
     status: independent
     employer: ''
+    startups:
+      - histologe
+      - stop-punaises
 startups:
   - histologe
   - stop-punaises

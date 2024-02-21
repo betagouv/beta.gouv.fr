@@ -9,9 +9,8 @@ missions:
     end: 2018-11-30
     status: independent
     employer: octo
-startups:
+startups: null
 previously:
   - signalement
 ---
-
 Écrit des autobiographies percutantes en moins de 200 caractères depuis 1900.
