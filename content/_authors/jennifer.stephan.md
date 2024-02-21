@@ -1,5 +1,5 @@
 ---
-fullname: Jennifer Stephan
+fullname: Jenn Stephan
 role: Coach & PO
 domaine: Coaching
 github: JenniferStephan
