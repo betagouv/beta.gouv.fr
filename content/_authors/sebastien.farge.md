@@ -9,8 +9,6 @@ missions:
     employer: France Travail
     startups:
       - encyclopedie-des-metiers
-startups:
-  - encyclopedie-des-metiers
 memberType: beta
 ---
 
