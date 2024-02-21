@@ -14,7 +14,7 @@ phases:
 ---
 **Contexte**
 
-Avec 116 établissements à autonomie financière (EAF) regroupant 94 Instituts français et 22 instituts français de recherche à l’étranger, la France a l’un des plus anciens et des plus importants réseaux de coopération au monde, engagé dans l’enseignement du français, la promotion et la diffusion de la culture françaises, mais également les coopérations en matière de création artistique, d’enseignement supérieur et de recherche et de soutien aux industries culturelles et créatives françaises.
+Avec 119 établissements à autonomie financière (EAF) regroupant 97 Instituts français et 22 instituts français de recherche à l’étranger, la France a l’un des plus anciens et des plus importants réseaux de coopération au monde, engagé dans l’enseignement du français, la promotion et la diffusion de la culture françaises, mais également les coopérations en matière de création artistique, d’enseignement supérieur et de recherche et de soutien aux industries culturelles et créatives françaises.
 
 Ces instituts français emploient plus de 3 300 agents relevant du droit local du pays d’implantation (ADL).
 
