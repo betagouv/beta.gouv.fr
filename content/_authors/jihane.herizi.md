@@ -14,7 +14,6 @@ startups:
   - metiers-numeriques
 previously:
   - pass-culture
-  - Alpha
   - mon-entreprise
 badges:
   - segur

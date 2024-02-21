@@ -13,6 +13,7 @@ missions:
 startups:
   - l-immersion-facile
   - données-et-territoires
+  - l-application-du-cej
 previously:
   - zam
   - maraudes

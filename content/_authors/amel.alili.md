@@ -1,13 +1,13 @@
 ---
 fullname: Amel Alili
 role: Chargée d'assistance et de support à la communauté
-domaine: Autre
+domaine: Animation
 github: amelalili
 missions:
   - start: 2022-09-01
-    end: 2024-04-29
+    end: 2024-08-29
     status: independent
-    employer: LBC
+    employer: scopyleft
 previously:
   - locatio
   - tchap

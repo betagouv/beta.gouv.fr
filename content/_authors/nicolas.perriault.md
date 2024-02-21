@@ -24,9 +24,10 @@ missions:
 startups:
   - ecobalyse
 previously:
-  - egapro
+  - egalite.professionnelle
   - acceslibre
 competences:
   - Développement Full-Stack
 ---
+
 En quête de sens numérique

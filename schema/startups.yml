@@ -19,6 +19,7 @@ mapping:
             - /organisations/anct
             - /organisations/ans
             - /organisations/ansm
+            - /organisations/anlci
             - /organisations/anssi
             - /organisations/armees
             - /organisations/ars-franche-comte
@@ -46,6 +47,7 @@ mapping:
             - /organisations/dgafp
             - /organisations/dgal
             - /organisations/dgaln
+            - /organisations/dgampa
             - /organisations/dgca
             - /organisations/dgccrf
             - /organisations/dgcs

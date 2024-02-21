@@ -8,7 +8,6 @@ missions:
     status: independent
     employer: Malt
 startups:
-  - plateforme.impact
+  - portail-rse
 memberType: autre
 ---
-

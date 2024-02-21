@@ -1,7 +1,7 @@
 ---
 mission: Améliorer l’orientation des lycéens en amont de Parcoursup
 incubator: dinum
-title: Orientation des lycéens
+title: MonProjetSup
 contact: hugo.gimbert@beta.gouv.fr
 sponsors:
   - /organisations/mesr

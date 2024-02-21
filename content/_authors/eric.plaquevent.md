@@ -9,5 +9,4 @@ missions:
     status: independent
 startups:
   - catalogue-apprentissage
-  - Trajpro
 ---

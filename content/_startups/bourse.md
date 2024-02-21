@@ -1,9 +1,9 @@
 ---
 title: Bourse
 mission: Demander et liquider une bourse de collège en ligne
-sponsors: 
-    - /organisations/dinum
-    - /organisations/menjs
+sponsors:
+  - /organisations/dinum
+  - /organisations/menjs
 incubator: dinum
 events:
   - name: end
@@ -12,8 +12,9 @@ phases:
   - name: investigation
     start: 2015-03-01
   - name: construction
-    start: 2015-03-01    
+    start: 2015-03-01
   - name: alumni
+    start: 2018-01-01
 link:
 repository: https://github.com/betagouv/bourses/
 stats: false

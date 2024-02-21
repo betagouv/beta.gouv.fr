@@ -1,15 +1,16 @@
 ---
 title: API Géo
 mission: Interroger les référentiels géographiques plus facilement
-sponsors: 
-    - /organisations/dinum
+sponsors:
+  - /organisations/dinum
 incubator: dinum_produits_interministeriels
 phases:
   - name: investigation
     start: 2015-01-01
   - name: construction
-    start: 2015-01-01    
+    start: 2015-01-01
   - name: alumni
+    start: 2020-07-01
 link: https://geo.api.gouv.fr
 repository: https://github.com/etalab/geoapi
 stats: true

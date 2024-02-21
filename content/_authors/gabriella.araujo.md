@@ -1,4 +1,3 @@
-
 ---
 fullname: Gabriella Araujo
 role: PgM/UXR
@@ -10,4 +9,3 @@ missions:
 startups:
   - l-immersion-facile
 ---
-

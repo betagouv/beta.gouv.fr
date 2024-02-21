@@ -9,12 +9,11 @@ missions:
     status: independent
     employer: OCTO
 startups:
-  - portail.rse
+  - portail-rse
 badges:
   - segur
 previously:
   - trackdechets
 ---
-
 
 Chargée de déploiement de Trackdéchets

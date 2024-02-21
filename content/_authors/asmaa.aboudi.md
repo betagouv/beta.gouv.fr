@@ -11,6 +11,4 @@ missions:
 memberType: beta
 startups:
   - l-immersion-facile
-  - les-emplois
 ---
-

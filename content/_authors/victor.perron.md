@@ -11,7 +11,7 @@ missions:
 startups:
   - itou
   - pilotage.de.linclusion
-  - data.inclusion
+  - data-inclusion
 ---
 
 Développeur Python/Django & frontend & devops
