@@ -29,7 +29,7 @@ Plusieurs types d’exploitation :
 - **la mendicité forcée** : au bénéfice d’un réseau
 - **trafic d’organes** : marginal en France mais une réalité à l’échelle mondiale
 
-
+Selon les données issues des associations, le profil des victimes est le suivant : à des fins d’exploitation sexuelle (74%), d’exploitation par le travail (18%), de contrainte à commettre des délits (6%) et de mendicité forcée (1%).
 
 ## Chiffres
 
@@ -48,7 +48,7 @@ source : données 2022 du Ministère de l'intérieur et des Outre-mers et Minist
 Les chiffres précédents sont à nuancer car le repérage, les épreuves d'identification et de "certification" d'une situation de traite est le partie la plus complexe du parcours des victimes. 
 L’enjeu majeur est le repérage le plus en amont possible des signes de TEH tant pour les mineurs que pour les majeurs : la question de départ est donc qui sont les personnes/institutions les plus à même de repérer des victimes (parents/famille/ amis pour les mineurs/ voisins de l’exploiteur pour les victimes d’exploitation domestique, professionnels de santé ?)
 L'identification est produit d'une relation d'interdépendance, d'une administration distribuée entre instance de contrôle et de protection des personnes. 
-Policiers, travailleurs sociaux, associations, agent-e-s en préfecture,... il n'existe pas d'instance unique pour demander réparation, c'est donc un "véritable rite et réseau d'instituts" qui doit pouvoir être mobilisé pour repérer, identifier et accompagner une potentielle victime de traite (TEH).
+Policiers, travailleurs sociaux, associations, agent-e-s en préfecture,... il n'existe pas d'instance unique pour demander réparation, c'est donc un "véritable rite et réseau d'institutions" qui doit pouvoir être mobilisé pour repérer, identifier et accompagner une potentielle victime de traite (TEH).
 
 
 ## Investigation
@@ -59,6 +59,7 @@ Cette investigation participe du Plan national de lutte contre l’exploitation 
 Les questions à se poser sont multiples : 
 - Comment systématiser une identification rapide, complète et étayée de preuves matérielles et témoignages certifiés pour une qualification juste du statut des victimes qui leur garantit protection, aide juridique et accompagnement personnalisé ?
 - Comment les agents chargés de l'identification peuvent-ielles reconnaître une victime de TEH alors mêmes qu'elles apparaissent comme coupables de crimes ou délits pour certaines ?
+- Comment éviter la trop fréquente déqualification devant les tribunaux de traite des êtres humains ? 
 - Sur quels critères repose l'activité de cadrage du repérage ? Quel modèle de compétence, quelle équipe pluridisciplinaire mobilise-t-elle ?
 - Quel rôle pour les différentes instances et personnes en premières lignes (officiers de police judiciaire, membres de l'OCRTEH, BRP, associations, MIPROF, USIT...) ?
 - Comment sécuriser les communications, le partage d'informations sensibles entre différents acteurs et ainsi sortir de cette production sociale et sociétale de l'absence.
@@ -66,6 +67,7 @@ Les questions à se poser sont multiples :
 ## Nous contacter
 
 Karine Métayer, magistrate, référente MIPROF : karine.metayer@miprof.gouv.fr
+
 Jenn Stéphan, coach DINUM, experte numérique : jennifer.stephan@beta.gouv.fr
 
 
