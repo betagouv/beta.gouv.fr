@@ -7,8 +7,9 @@ missions:
     end: 2024-09-20
     status: independent
     employer: ut7
+    startups:
+      - sirius
 startups:
   - sirius
 memberType: beta
 ---
-

@@ -7,10 +7,11 @@ missions:
     end: 2024-07-31
     status: admin
     employer: ''
+    startups:
+      - romin
 startups:
   - romin
 incubator: justice
 github: MathieuLB44
 ---
-
 Papa fatigué, Breton têtu, CPIP engagé

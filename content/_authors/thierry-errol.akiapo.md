@@ -7,7 +7,8 @@ missions:
     end: 2022-04-15
     status: independent
     employer: Octo
+    startups:
+      - auvol
 startups:
   - auvol
 ---
-

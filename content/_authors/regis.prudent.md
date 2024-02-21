@@ -9,4 +9,3 @@ missions:
     employer: SDIT
 memberType: autre
 ---
-

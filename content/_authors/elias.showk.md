@@ -9,6 +9,8 @@ missions:
     end: 2024-07-30
     status: independent
     employer: Malt
+    startups:
+      - trackdechets
 startups:
   - trackdechets
 ---

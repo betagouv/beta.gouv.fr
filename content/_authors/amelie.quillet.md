@@ -8,6 +8,9 @@ missions:
     end: 2024-08-31
     status: independent
     employer: LBC
+    startups:
+      - urbanvitaliz
+      - recommandations-collaboratives
 startups:
   - urbanvitaliz
   - recommandations-collaboratives

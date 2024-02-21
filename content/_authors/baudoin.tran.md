@@ -9,5 +9,4 @@ missions:
     status: service
     employer: econocom
 ---
-
-Développeur 
+Développeur

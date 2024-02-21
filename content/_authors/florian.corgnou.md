@@ -8,6 +8,8 @@ missions:
     end: 2021-05-12
     status: independent
     employer: Octo
+    startups:
+      - jeveuxaider
 startups:
   - jeveuxaider
 badges:

@@ -7,9 +7,10 @@ missions:
     end: 2024-02-29
     status: independent
     employer: La Fabrique Numérique
+    startups:
+      - apilos
 startups:
   - apilos
 memberType: beta
 ---
-
 Chargée de support

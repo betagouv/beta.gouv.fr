@@ -9,6 +9,8 @@ missions:
     end: 2024-06-29
     status: independent
     employer: ''
+    startups:
+      - oots.once-only.technical.system
 startups:
   - oots.once-only.technical.system
 competences:
@@ -17,4 +19,3 @@ previously:
   - aidantsconnect
   - tchap
 ---
-

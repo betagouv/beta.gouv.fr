@@ -8,6 +8,8 @@ missions:
     end: 2024-02-14
     status: independent
     employer: 'Octo '
+    startups:
+      - aides-territoires
 startups:
   - aides-territoires
 competences:

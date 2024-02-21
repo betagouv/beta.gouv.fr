@@ -7,10 +7,11 @@ missions:
     end: 2021-08-31
     status: admin
     employer: DRJSCS HdF
+    startups:
+      - aidess
 startups:
   - aidess
 competences:
   - Administration Publique
 ---
-
 Socio-démographe de formation, je trifouille toutes sortes de données pour accompagner le déploiement des politiques publiques.

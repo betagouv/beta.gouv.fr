@@ -8,9 +8,10 @@ missions:
     end: 2026-10-15
     status: admin
     employer: DINUM
+    startups:
+      - suite-numerique
 startups:
   - suite-numerique
 memberType: beta
 ---
-
 Intrapreneur de la suite numérique.

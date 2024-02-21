@@ -8,11 +8,11 @@ missions:
     end: 2024-02-29
     status: independent
     employer: Path Tech
+    startups:
+      - mobilic
 startups:
   - mobilic
 badges:
   - segur
 ---
-
-
-Chargée de déploiement et communication 
+Chargée de déploiement et communication

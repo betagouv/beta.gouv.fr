@@ -8,8 +8,9 @@ missions:
     end: 2020-05-13
     status: service
     employer: octo
+    startups:
+      - pass-culture
 startups:
-    - pass-culture
+  - pass-culture
 ---
-
 Développeur fullstack

@@ -7,9 +7,11 @@ missions:
     end: 2018-06-08
     status: independent
     employer: octo
+    startups:
+      - open-academie
+      - dossiersco
 startups:
-    - open-academie
-    - dossiersco
+  - open-academie
+  - dossiersco
 ---
-
 Travaille chez Chemins d’avenirs, en faveur de l’égalité des chances. Business dev pour dossierSCO.

@@ -9,4 +9,3 @@ missions:
     employer: Fabrique numérique du ministère des Armées
 memberType: beta
 ---
-

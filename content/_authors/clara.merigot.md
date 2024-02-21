@@ -7,8 +7,9 @@ missions:
     end: 2024-06-30
     status: admin
     employer: ''
+    startups:
+      - je-deviens-etudiant
 startups:
   - je-deviens-etudiant
 memberType: beta
 ---
-

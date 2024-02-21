@@ -8,6 +8,8 @@ missions:
     end: 2024-03-31
     status: independent
     employer: ''
+    startups:
+      - oots.once-only.technical.system
 badges:
   - segur
 competences:
@@ -17,4 +19,3 @@ startups:
 previously:
   - aidantsconnect
 ---
-

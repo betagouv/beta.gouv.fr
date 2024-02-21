@@ -7,8 +7,9 @@ missions:
     end: 2023-08-21
     status: admin
     employer: ''
+    startups:
+      - carbure
 startups:
   - carbure
 memberType: beta
 ---
-

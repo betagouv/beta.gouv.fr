@@ -8,8 +8,9 @@ missions:
     end: 2024-04-30
     status: admin
     employer: ''
+    startups:
+      - inventaire.zae
 startups:
   - inventaire.zae
 memberType: attributaire
 ---
-

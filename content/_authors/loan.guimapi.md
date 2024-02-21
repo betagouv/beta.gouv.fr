@@ -9,5 +9,4 @@ missions:
 badges:
   - segur
 ---
-
-Apprentie designer interactif 
+Apprentie designer interactif

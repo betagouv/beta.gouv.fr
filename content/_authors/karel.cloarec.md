@@ -22,14 +22,14 @@ missions:
     status: independent
     employer: UT7
   - start: 2021-11-01
-    end : 2022-01-02
+    end: 2022-01-02
     status: independent
     employer: NUMA
   - start: 2021-02-03
-    end : 2024-06-01
+    end: 2024-06-01
     status: independent
     employer: LBC
-startups:
+startups: null
 previously:
   - andi
   - urbanvitaliz

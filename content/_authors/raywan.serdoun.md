@@ -7,8 +7,9 @@ missions:
     end: 2024-06-30
     status: independent
     employer: ''
+    startups:
+      - données-et-territoires
 startups:
   - données-et-territoires
 memberType: beta
 ---
-

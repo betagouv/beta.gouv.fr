@@ -8,5 +8,4 @@ missions:
     status: independent
     employer: Octo
 ---
-
 Serial entrepreneur et coach startup

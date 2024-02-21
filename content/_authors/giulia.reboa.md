@@ -12,5 +12,5 @@ missions:
     status: admin
     employer: MAS
 startups:
-    - maraudes
+  - maraudes
 ---

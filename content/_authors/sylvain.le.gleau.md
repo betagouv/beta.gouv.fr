@@ -9,6 +9,9 @@ missions:
     end: 2024-06-22
     status: independent
     employer: Scopyleft
+    startups:
+      - espace.sur.demande
+      - agents.en.intervention
 memberType: beta
 startups:
   - espace.sur.demande
@@ -16,5 +19,4 @@ startups:
 previously:
   - mon.espace.collectivite
 ---
-
 Développeur mobile et web fullstack

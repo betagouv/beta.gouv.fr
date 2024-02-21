@@ -8,9 +8,11 @@ missions:
     end: 2023-06-01
     status: service
     employer: OCTO Technology
+    startups:
+      - reva
+      - codedutravail
 startups:
   - reva
   - codedutravail
 ---
-
-Data scientist / data engineer voulant démystifier la data auprès des startups 
+Data scientist / data engineer voulant démystifier la data auprès des startups

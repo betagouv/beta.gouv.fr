@@ -9,9 +9,10 @@ missions:
     end: 2024-06-04
     status: independent
     employer: Scopopop
+    startups:
+      - docurba
 startups:
   - docurba
 memberType: beta
 ---
-
 Designer produit

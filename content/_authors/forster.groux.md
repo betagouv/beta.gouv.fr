@@ -16,5 +16,4 @@ startups:
   - ma-cantine-egalim
   - cassiopee
 ---
-
 Développeur passionné d'agilité et d'horizontalité

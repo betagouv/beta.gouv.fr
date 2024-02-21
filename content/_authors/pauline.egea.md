@@ -8,11 +8,12 @@ missions:
   - start: 2021-09-16
     end: 2023-12-31
     status: service
-    employer: Malt 
+    employer: Malt
+    startups:
+      - locatio
 badges:
   - segur
 startups:
   - locatio
 ---
-
 BizDev !

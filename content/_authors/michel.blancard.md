@@ -18,5 +18,4 @@ previously:
   - mes-aides
   - la-bonne-boite
 ---
-
 Artisan de l'information

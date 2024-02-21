@@ -8,10 +8,9 @@ missions:
     status: independent
     employer: Scopyleft
     startups:
-      - histologe
+      - stop-punaises
 startups:
   - stop-punaises
 memberType: beta
 link: https://www.linkedin.com/in/paulavideira/
 ---
-

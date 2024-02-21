@@ -1,5 +1,5 @@
 ---
-fullname: Jennifer Stephan
+fullname: Jenn Stephan
 role: Coach & PO
 domaine: Coaching
 github: JenniferStephan
@@ -9,9 +9,13 @@ missions:
     end: 2024-12-31
     status: independent
     employer: scopyleft
+    startups:
+      - ma-cantine-egalim
+      - icare-complements-alimentaires
 startups:
   - ma-cantine-egalim
   - icare-complements-alimentaires
+  - reperer.identifier.victimes.teh
 previously:
   - ellesfontlaculture
   - pop

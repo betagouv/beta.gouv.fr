@@ -7,9 +7,10 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Malt
+    startups:
+      - france.nation.verte.agir
 memberType: beta
 startups:
   - france.nation.verte.agir
 ---
-
 Contenus  Partenariats

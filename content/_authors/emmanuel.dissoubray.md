@@ -8,8 +8,9 @@ missions:
     end: 2024-05-31
     status: independent
     employer: Ademe
+    startups:
+      - pacoupa
 startups:
   - pacoupa
 memberType: beta
 ---
-

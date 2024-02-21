@@ -7,8 +7,9 @@ missions:
     end: 2021-06-30
     status: admin
     employer: pole-emploi
+    startups:
+      - perspectives
 startups:
-    - perspectives
+  - perspectives
 ---
-
 En recherche constante de nouvelles solutions et d'innovations. Persuadé que la personne est plus importante que le CV.

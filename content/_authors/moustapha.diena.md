@@ -8,6 +8,8 @@ missions:
     end: 2024-09-02
     status: independent
     employer: DINUM
+    startups:
+      - conseiller-numerique
 startups:
   - conseiller-numerique
 badges:

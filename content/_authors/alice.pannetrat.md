@@ -13,4 +13,3 @@ teams:
 badges:
   - segur
 ---
-

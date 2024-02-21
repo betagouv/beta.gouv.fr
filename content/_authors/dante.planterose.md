@@ -8,11 +8,11 @@ missions:
     end: 2022-11-01
     status: independent
     employer: Octo
+    startups:
+      - aides.jeunes
 startups:
   - aides.jeunes
 badges:
   - segur
 ---
-
-Dev RoR
-Magic player
+Dev RoR Magic player

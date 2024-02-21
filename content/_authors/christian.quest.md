@@ -22,5 +22,4 @@ previously:
   - ban
   - disinfo
 ---
-
 Data addict, open, maker et récidiviste

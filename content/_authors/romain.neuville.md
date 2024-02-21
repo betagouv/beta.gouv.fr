@@ -8,10 +8,11 @@ missions:
     end: 2024-05-30
     status: independent
     employer: Octo
+    startups:
+      - rdv-service-public
+      - rdv.insertion
 startups:
   - rdv-service-public
   - rdv.insertion
 ---
->-
-  Développeur Full Stack multi casquettes (Sys/NetAdmin, amateur de jeux de
-  société, danseur...)
+Développeur Full Stack multi casquettes (Sys/NetAdmin, amateur de jeux de société, danseur...)

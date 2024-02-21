@@ -9,6 +9,8 @@ missions:
     end: 2025-01-31
     status: independent
     employer: DJEPVA
+    startups:
+      - snu
 startups:
   - snu
 previously:
@@ -16,5 +18,4 @@ previously:
   - jeveuxaider
   - api-engagement
 ---
-
 UX/UI Designer

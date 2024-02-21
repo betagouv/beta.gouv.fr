@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: pole-emploi
   - status: independent
-    employer: "Octo "
+    employer: 'Octo '
     start: 2020-01-01
     end: 2025-12-01
 startups:

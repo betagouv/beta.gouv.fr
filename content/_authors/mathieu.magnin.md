@@ -8,8 +8,10 @@ missions:
     end: 2020-04-09
     status: independent
     employer: octo
+    startups:
+      - rdv-service-public
 startups:
-    - rdv-service-public
+  - rdv-service-public
 previously:
-    - demarches-simplifiees.fr
+  - demarches-simplifiees.fr
 ---

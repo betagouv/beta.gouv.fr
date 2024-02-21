@@ -9,5 +9,4 @@ missions:
     employer: AGENCE 3i
 memberType: autre
 ---
-
 Conseillère en Insertion Professionnelle

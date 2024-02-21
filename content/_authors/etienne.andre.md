@@ -8,7 +8,9 @@ missions:
     end: 2024-06-30
     status: service
     employer: CGI
+    startups:
+      - sndv_maritime
 startups:
   - sndv_maritime
-previously:
+previously: null
 ---

@@ -7,9 +7,10 @@ missions:
     end: 2022-07-26
     status: admin
     employer: DRAC ARA
+    startups:
+      - dedale
 startups:
   - dedale
 badges:
   - segur
 ---
-

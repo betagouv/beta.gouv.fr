@@ -8,6 +8,8 @@ missions:
     end: 2026-06-27
     status: independent
     employer: DINUM
+    startups:
+      - recosante
 startups:
   - recosante
 badges:
@@ -15,5 +17,3 @@ badges:
 previously:
   - locatio
 ---
-
-

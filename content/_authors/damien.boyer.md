@@ -9,6 +9,9 @@ missions:
     end: 2022-04-30
     status: independent
     employer: education nationale
+    startups:
+      - sirius
+      - la-bonne-alternance
 startups:
   - sirius
   - la-bonne-alternance

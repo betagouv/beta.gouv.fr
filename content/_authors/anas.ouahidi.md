@@ -7,6 +7,8 @@ missions:
     end: 2024-03-12
     status: independent
     employer: ANCT
+    startups:
+      - infrastructures.numeriques
 startups:
   - infrastructures.numeriques
 badges:

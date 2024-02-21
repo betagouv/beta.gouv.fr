@@ -8,8 +8,9 @@ missions:
     end: 2017-06-30
     status: independent
     employer: education-nationale
+    startups:
+      - pix
 startups:
-    - pix
+  - pix
 ---
-
 C'est moi qui pose les questions, OK ?

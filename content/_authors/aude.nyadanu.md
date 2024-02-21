@@ -8,6 +8,8 @@ missions:
     end: 2024-04-29
     status: service
     employer: ''
+    startups:
+      - eimis
 startups:
   - eimis
 ---

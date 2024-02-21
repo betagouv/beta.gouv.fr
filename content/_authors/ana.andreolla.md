@@ -16,6 +16,4 @@ startups:
   - aplus
 previously:
   - workinfrance
-
 ---
-''

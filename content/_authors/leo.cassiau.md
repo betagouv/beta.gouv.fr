@@ -7,6 +7,9 @@ missions:
     end: 2023-03-15
     status: service
     employer: Pôle emploi
+    startups:
+      - encyclopedie-des-metiers
+      - competence.validee
 startups:
   - encyclopedie-des-metiers
   - competence.validee

@@ -8,9 +8,10 @@ missions:
     end: 2024-10-04
     status: independent
     employer: Omnicité
+    startups:
+      - signalement
 startups:
   - signalement
 memberType: beta
 ---
-
 Développeur et grimpeur du dimanche

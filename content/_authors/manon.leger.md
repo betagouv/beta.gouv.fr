@@ -9,8 +9,9 @@ missions:
   - start: 2018-11-27
     end: 2021-12-31
     status: independent
+    startups:
+      - mes-aides
 startups:
   - mes-aides
 ---
-
 Infiltrée Latitudes. <3

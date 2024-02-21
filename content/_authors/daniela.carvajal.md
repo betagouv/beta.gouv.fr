@@ -8,5 +8,4 @@ missions:
     status: admin
 memberType: beta
 ---
-
 Lead Marketing Digital au sein de l'incubateur de Pôle emploi

@@ -10,8 +10,9 @@ missions:
     end: 2025-01-31
     status: independent
     employer: OCTO
+    startups:
+      - jeveuxaider
 startups:
   - jeveuxaider
 ---
-
 Laravel / Vue.js

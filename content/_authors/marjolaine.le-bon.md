@@ -8,8 +8,9 @@ missions:
     end: 2024-06-29
     status: independent
     employer: Scopyleft
+    startups:
+      - apilos
 startups:
   - apilos
 ---
-
 développeuse web à la bonne humeur revendiquée !

@@ -7,6 +7,8 @@ missions:
     end: 2024-05-24
     status: admin
     employer: ''
+    startups:
+      - boris
 memberType: beta
 startups:
   - boris

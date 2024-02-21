@@ -9,5 +9,4 @@ missions:
     employer: DINUM
 memberType: dinum
 ---
-
 Augmenter les compétences numériques dans l'administration

@@ -7,6 +7,11 @@ missions:
     end: 2024-12-30
     status: service
     employer: ''
+    startups:
+      - ozensemble
+      - bpco
+      - monsuivipsy
+      - reva
 startups:
   - ozensemble
   - bpco
@@ -15,4 +20,3 @@ startups:
 previously:
   - snu
 ---
-

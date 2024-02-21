@@ -7,6 +7,8 @@ missions:
     end: 2024-06-30
     status: admin
     employer: ''
+    startups:
+      - accesscite
 startups:
   - accesscite
 badges:
@@ -14,5 +16,4 @@ badges:
 previously:
   - accesscite
 ---
-
 Instructeur contrôleur accessibilité et sécurité, ancien élu et à l'occasion pratiquant le rugby...

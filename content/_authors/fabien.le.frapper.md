@@ -9,10 +9,12 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - sppnaut
+      - apilos
 startups:
   - sppnaut
   - apilos
 memberType: beta
 ---
-
 Développeur full-stack

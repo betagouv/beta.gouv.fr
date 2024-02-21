@@ -13,4 +13,3 @@ previously:
   - encyclopedie-des-metiers
   - competence.validee
 ---
-

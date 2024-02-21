@@ -8,8 +8,9 @@ missions:
     end: 2024-08-19
     status: independent
     employer: ''
+    startups:
+      - territoires-en-transitions
 startups:
   - territoires-en-transitions
 memberType: beta
 ---
-

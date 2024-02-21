@@ -8,6 +8,8 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Living Data
+    startups:
+      - umap
 badges:
   - segur
 competences:

@@ -8,8 +8,9 @@ missions:
     end: 2024-03-31
     status: independent
     employer: ''
+    startups:
+      - dora
 startups:
   - dora
 memberType: beta
 ---
-

@@ -10,8 +10,5 @@ missions:
     employer: NUMA
 competences:
   - Coaching
-
 ---
->-
-  J'ai participé au lancement de plusieurs entreprises, travaillé en VC, dirigé
-  2 ans DataCity et aujourd'hui prof affilié Energies-Climat à ESCP
+J'ai participé au lancement de plusieurs entreprises, travaillé en VC, dirigé 2 ans DataCity et aujourd'hui prof affilié Energies-Climat à ESCP

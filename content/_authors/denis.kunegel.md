@@ -9,4 +9,3 @@ missions:
     start: 2019-10-01
     status: admin
 ---
-

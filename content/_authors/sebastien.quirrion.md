@@ -9,10 +9,11 @@ missions:
     end: 2024-06-30
     status: independent
     employer: octo
+    startups:
+      - conseiller-numerique
 startups:
-    - conseiller-numerique
+  - conseiller-numerique
 badges:
   - segur
 ---
-
 Développeur Web

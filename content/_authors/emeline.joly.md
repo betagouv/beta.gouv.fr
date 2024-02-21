@@ -8,7 +8,8 @@ missions:
     end: 2024-12-31
     status: service
     employer: ''
+    startups:
+      - territoires-en-transitions
 startups:
   - territoires-en-transitions
 ---
-

@@ -7,9 +7,10 @@ missions:
     end: 2024-07-30
     status: service
     employer: ID6 Diagoriente
+    startups:
+      - diagoriente
 startups:
   - diagoriente
 memberType: beta
 ---
-
 Chargé de déploiement le jour

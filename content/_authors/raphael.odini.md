@@ -9,6 +9,8 @@ missions:
     end: 2024-04-30
     status: independent
     employer: octo
+    startups:
+      - place-de-marche-inclusion
 startups:
   - place-de-marche-inclusion
 previously:

@@ -9,9 +9,8 @@ missions:
     end: 2024-05-15
     status: independent
     employer: OCTO
-startups:
+startups: null
 badges:
   - segur
 ---
-
 Entrepreneur associé

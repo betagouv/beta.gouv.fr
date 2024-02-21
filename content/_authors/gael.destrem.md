@@ -8,6 +8,8 @@ missions:
     end: 2021-11-06
     status: independent
     employer: Octo
+    startups:
+      - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
 competences:

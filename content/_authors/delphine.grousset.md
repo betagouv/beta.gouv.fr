@@ -6,8 +6,9 @@ missions:
     end: 2025-05-26
     status: admin
     employer: GIP de l'Inclusion
+    startups:
+      - itou
 startups:
   - itou
 domaine: Déploiement
 ---
-

@@ -7,6 +7,8 @@ missions:
     end: 2020-12-31
     status: admin
     employer: Région Bretagne
+    startups:
+      - korrigo-lyceens
 startups:
   - korrigo-lyceens
 previously: []

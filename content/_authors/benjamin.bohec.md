@@ -9,9 +9,9 @@ missions:
     end: 2024-09-30
     status: independent
     employer: Malt
+    startups:
+      - l-immersion-facile
 startups:
   - l-immersion-facile
 ---
-
-
 Développeur TS Fullstack. ATDD / Architecture Hexagonale

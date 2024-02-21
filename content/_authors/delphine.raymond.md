@@ -9,6 +9,9 @@ missions:
     end: 2024-05-31
     status: independent
     employer: Ground
+    startups:
+      - potentiel
+      - longuevieauxobjets
 incubator: mtes
 startups:
   - potentiel

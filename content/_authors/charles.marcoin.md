@@ -8,8 +8,9 @@ missions:
     end: 2024-04-19
     status: independent
     employer: Telescoop
+    startups:
+      - mon-suivi-justice
 startups:
   - mon-suivi-justice
 ---
-
 Développeur fullstack

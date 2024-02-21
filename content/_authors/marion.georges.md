@@ -7,9 +7,8 @@ missions:
     end: 2018-05-09
     status: independent
     employer: Sogilis Lyon
-startups:
+startups: null
 previously:
   - eac
 ---
-
 Ergonome, j'observe les comportements des utilisateurs pour identifier les usages et créer des interfaces utiles.

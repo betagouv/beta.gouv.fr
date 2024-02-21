@@ -8,8 +8,7 @@ missions:
     start: 2021-01-21
     end: 2030-12-31
     status: service
-startups:
-
+startups: null
 previously:
   - metiers-numeriques
   - bourses.scolaires

@@ -7,11 +7,11 @@ missions:
     end: 2023-11-15
     status: service
     employer: GIP Plateforme de l'inclusion
+    startups:
+      - itou
 startups:
   - itou
 previously:
   - itou
 ---
-
-
 Coach RH

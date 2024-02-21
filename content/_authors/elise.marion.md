@@ -8,8 +8,9 @@ missions:
     end: 2024-06-30
     status: admin
     employer: MTES/MCT
+    startups:
+      - aides-territoires
 startups:
   - aides-territoires
 ---
-
-Faciliter le développement des territoires grâce au numérique et avec les usagers 
+Faciliter le développement des territoires grâce au numérique et avec les usagers

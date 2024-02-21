@@ -8,6 +8,8 @@ missions:
     end: 2020-12-31
     employer: Octo
     status: independent
+    startups:
+      - dumas
 startups:
   - dumas
 ---

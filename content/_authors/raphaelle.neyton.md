@@ -8,6 +8,8 @@ missions:
     end: 2024-06-30
     status: independent
     employer: NUMA
+    startups:
+      - collectif_objets
 incubator: culture
 startups:
   - collectif_objets

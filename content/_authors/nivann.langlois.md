@@ -9,12 +9,11 @@ missions:
     end: 2024-07-12
     status: independent
     employer: Malt
+    startups:
+      - tchap
 startups:
   - tchap
 badges:
   - segur
 ---
-
->-
-  Chargé de déploiement, expert en communication, analyste-rédacteur en
-  géopolitique, je cherche à donner du sens à chaque projet que j'entreprends !
+Chargé de déploiement, expert en communication, analyste-rédacteur en géopolitique, je cherche à donner du sens à chaque projet que j'entreprends !

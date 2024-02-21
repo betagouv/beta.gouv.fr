@@ -7,8 +7,9 @@ missions:
     end: 2019-12-01
     status: admin
     employer: eig
+    startups:
+      - signaux-faibles
 startups:
-    - signaux-faibles
+  - signaux-faibles
 ---
-
 Au service des entreprises en difficulté

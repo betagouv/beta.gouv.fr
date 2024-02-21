@@ -7,9 +7,10 @@ missions:
     end: 2024-03-31
     status: independent
     employer: ''
+    startups:
+      - itou
 startups:
   - itou
 memberType: beta
 ---
-
-"Ensemble on va plus loin"
+Ensemble on va plus loin

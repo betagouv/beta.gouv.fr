@@ -8,10 +8,11 @@ missions:
     end: 2022-02-28
     status: independent
     employer: BeNext
+    startups:
+      - domifa
 startups:
   - domifa
 badges:
   - segur
 ---
-
 Développeur et allergique au fun :p

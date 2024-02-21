@@ -7,9 +7,10 @@ missions:
     end: 2024-06-30
     status: admin
     employer: Pôle emploi
+    startups:
+      - mes.aides
 startups:
   - mes.aides
-previously :
+previously:
   - mes-evenements-emploi
 ---
-

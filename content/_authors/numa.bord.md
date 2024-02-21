@@ -8,8 +8,9 @@ missions:
     end: 2024-05-04
     status: independent
     employer: Scopyleft
+    startups:
+      - histologe
 startups:
   - histologe
 memberType: beta
 ---
-

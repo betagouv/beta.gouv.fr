@@ -7,6 +7,8 @@ missions:
     end: 2020-12-31
     status: admin
     employer: département du Val-d'Oise
+    startups:
+      - prev-accueil
 startups:
   - prev-accueil
 previously: []

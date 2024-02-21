@@ -8,6 +8,8 @@ missions:
     end: 2023-03-31
     status: admin
     employer: Direction Générale des Entreprises (DGE)
+    startups:
+      - portail-rse
 badges:
   - segur
 competences:
@@ -16,5 +18,3 @@ competences:
 startups:
   - portail-rse
 ---
-
-null

@@ -8,8 +8,9 @@ missions:
     end: 2024-06-03
     status: independent
     employer: ''
+    startups:
+      - l-immersion-facile
 startups:
   - l-immersion-facile
 memberType: beta
 ---
-

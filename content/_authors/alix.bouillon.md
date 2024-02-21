@@ -7,10 +7,10 @@ missions:
     end: 2024-05-14
     status: independent
     employer: ''
+    startups:
+      - data-subvention
 startups:
   - data-subvention
 badges:
   - segur
 ---
-
-''

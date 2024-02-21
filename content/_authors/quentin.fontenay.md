@@ -9,8 +9,8 @@ missions:
     end: 2024-06-27
     status: service
     employer: Octo
+    startups:
+      - conseiller-numerique
 startups:
   - conseiller-numerique
 ---
-
-''

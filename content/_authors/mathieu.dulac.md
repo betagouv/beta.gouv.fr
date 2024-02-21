@@ -8,7 +8,8 @@ missions:
     end: 2021-01-31
     status: independent
     employer: Octo
+    startups:
+      - aplus
 startups:
   - aplus
-
 ---

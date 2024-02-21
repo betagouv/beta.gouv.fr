@@ -10,5 +10,4 @@ missions:
     employer: DINUM
 memberType: beta
 ---
-
 Chargée de communication et chineuse de déco

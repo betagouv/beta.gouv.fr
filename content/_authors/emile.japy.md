@@ -22,5 +22,4 @@ competences:
   - UX
   - UI
 ---
-
 UX designer

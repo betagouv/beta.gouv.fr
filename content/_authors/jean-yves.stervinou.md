@@ -24,5 +24,3 @@ previously:
   - la-bonne-formation
   - snu
 ---
-
-

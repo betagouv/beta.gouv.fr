@@ -9,5 +9,4 @@ missions:
     employer: MASA
 memberType: autre
 ---
-
 Ingénieure Analyse de risque - microbiologiste - chaine alimentaire

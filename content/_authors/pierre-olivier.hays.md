@@ -8,9 +8,10 @@ missions:
     end: 2024-09-01
     status: admin
     employer: DGALN
+    startups:
+      - camino
 startups:
   - camino
 memberType: beta
 ---
-
 Intrapreneur

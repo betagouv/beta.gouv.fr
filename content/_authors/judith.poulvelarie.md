@@ -8,6 +8,8 @@ missions:
     end: 2020-10-04
     status: independent
     employer: Codeurs en Liberté
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
 ---

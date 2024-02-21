@@ -8,10 +8,9 @@ missions:
     end: 2025-09-14
     status: admin
     employer: Ministère de la Transition Ecologique
-startups:
+startups: null
 previously:
   - trackdechets
 teams:
   - /teams/mtes
 ---
-

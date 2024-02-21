@@ -7,7 +7,8 @@ missions:
     end: 2022-09-16
     status: admin
     employer: CMA Hauts-de-France
+    startups:
+      - cmachance
 startups:
   - cmachance
 ---
-

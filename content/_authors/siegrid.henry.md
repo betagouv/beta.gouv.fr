@@ -10,7 +10,7 @@ missions:
   - start: 2019-01-01
     end: 2020-12-31
     status: admin
-    employer : Ministère des Affaires Etrangères
+    employer: Ministère des Affaires Etrangères
 previously:
   - disinfo
   - open-terms-archive

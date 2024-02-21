@@ -7,6 +7,9 @@ missions:
     end: 2025-06-29
     status: independent
     employer: NUMA
+    startups:
+      - data-subvention
+      - ma-cantine-egalim
 startups:
   - data-subvention
   - ma-cantine-egalim
@@ -19,6 +22,4 @@ previously:
   - mon-suivi-justice
   - preuve-de-covoiturage
 ---
->-
-  Nouveau coach et anciennement CEO & Founder d'une startup d'objets connectés
-  (Smiirl).
+Nouveau coach et anciennement CEO & Founder d'une startup d'objets connectés (Smiirl).

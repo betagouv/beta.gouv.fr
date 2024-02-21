@@ -8,6 +8,8 @@ missions:
     end: 2024-12-31
     status: service
     employer: ''
+    startups:
+      - pass-culture
 startups:
   - pass-culture
 memberType: beta

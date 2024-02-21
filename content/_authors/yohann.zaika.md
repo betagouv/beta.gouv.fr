@@ -7,9 +7,10 @@ missions:
     end: 2024-07-20
     status: independent
     employer: dinum
+    startups:
+      - locatio
 startups:
   - locatio
 memberType: autre
 ---
-
 Hello , je suis yohann et je suis concepteur designer ui.

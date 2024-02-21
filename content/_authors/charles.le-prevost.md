@@ -8,8 +8,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: La Fabrique Numérique
+    startups:
+      - locatio
 startups:
   - locatio
 ---
-
 Expérience utilisateur, interface utilisateur, UX writing.

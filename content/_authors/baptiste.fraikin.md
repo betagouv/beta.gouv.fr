@@ -7,9 +7,11 @@ missions:
     end: 2022-01-01
     status: independent
     employer: minarm, ministere de l'interieur
+    startups:
+      - anais
+      - sndv_maritime
 github: bafraikin
 startups:
   - anais
   - sndv_maritime
-
 ---

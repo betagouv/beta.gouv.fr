@@ -10,5 +10,4 @@ missions:
     employer: Octo
 memberType: autre
 ---
-
 Développeur & tech lead mobile

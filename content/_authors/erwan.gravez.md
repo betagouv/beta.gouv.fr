@@ -7,8 +7,9 @@ missions:
     end: 2023-06-20
     status: independent
     employer: Path Tech
+    startups:
+      - la.bonne.renov
 startups:
   - la.bonne.renov
 memberType: beta
 ---
-

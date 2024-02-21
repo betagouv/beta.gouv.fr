@@ -7,7 +7,7 @@ missions:
     end: 2018-12-31
     status: admin
     employer: DIRECCTE
-startups:
+startups: null
 previously:
   - place-des-entreprises
 ---

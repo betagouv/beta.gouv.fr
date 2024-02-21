@@ -10,10 +10,10 @@ missions:
     end: 2025-12-30
     status: independent
     employer: LaZone
+    startups:
+      - api-particulier
 startups:
   - api-particulier
 previously:
   - transport
 ---
-
-

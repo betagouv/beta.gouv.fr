@@ -8,10 +8,12 @@ missions:
     end: 2024-05-30
     status: independent
     employer: La Zone
+    startups:
+      - urbanvitaliz
+      - recommandations-collaboratives
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
 badges:
   - segur
 ---
-

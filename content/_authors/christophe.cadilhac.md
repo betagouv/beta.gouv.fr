@@ -8,8 +8,9 @@ missions:
     end: 2025-01-31
     status: independent
     employer: Omnicité
+    startups:
+      - homologation
 startups:
   - homologation
 ---
-Lead Dev du Lab de l'ANSSI.  
-https://www.ssi.gouv.fr/
+Lead Dev du Lab de l'ANSSI. https://www.ssi.gouv.fr/

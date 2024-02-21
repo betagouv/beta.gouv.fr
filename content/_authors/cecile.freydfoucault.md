@@ -8,10 +8,9 @@ missions:
     end: 2023-05-31
     status: service
     employer: Benext
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
-
 ---
-
-
 Designeuse qui aime les design system, l'accessibilité et travailler avec les développeurs

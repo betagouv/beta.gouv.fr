@@ -8,9 +8,10 @@ missions:
     end: 2024-01-31
     status: service
     employer: ''
+    startups:
+      - sparte
 startups:
   - sparte
 memberType: beta
 ---
-
 Consultante open data, transparence des algorithmes publics

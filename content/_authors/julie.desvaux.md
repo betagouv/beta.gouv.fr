@@ -11,5 +11,4 @@ missions:
     employer: Fairness.coop
 memberType: attributaire
 ---
-
 Développeuse chez Fairness.coop

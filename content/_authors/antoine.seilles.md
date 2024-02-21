@@ -9,6 +9,8 @@ missions:
     end: 2024-06-24
     status: independent
     employer: ''
+    startups:
+      - data-subvention
 startups:
   - data-subvention
 badges:

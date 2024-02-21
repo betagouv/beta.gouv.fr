@@ -10,5 +10,4 @@ missions:
 badges:
   - segur
 ---
-
-UX Designer apprentie, grande joueuse de volley 
+UX Designer apprentie, grande joueuse de volley

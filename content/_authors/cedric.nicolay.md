@@ -8,10 +8,11 @@ missions:
     end: 2022-03-31
     status: admin
     employer: Pôle emploi
+    startups:
+      - estime
 startups:
   - estime
 badges:
   - segur
 ---
-
 la vie est un jeu... dont chacun écrit les règles

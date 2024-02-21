@@ -8,6 +8,8 @@ missions:
     end: 2024-01-31
     status: independent
     employer: Benext
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 badges:

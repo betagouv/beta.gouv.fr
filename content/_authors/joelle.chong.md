@@ -9,5 +9,4 @@ missions:
     employer: ANSM
 memberType: autre
 ---
-
 Designer de services à l'ANSM

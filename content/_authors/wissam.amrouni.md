@@ -1,6 +1,6 @@
 ---
 fullname: Wissam AMROUNI
-role: Data scientiste 
+role: Data scientiste
 domaine: Autre
 missions:
   - start: 2021-04-06
@@ -10,5 +10,4 @@ missions:
 badges:
   - segur
 ---
-
-Stagiaire dans le domaine de la data période six mois 
+Stagiaire dans le domaine de la data période six mois

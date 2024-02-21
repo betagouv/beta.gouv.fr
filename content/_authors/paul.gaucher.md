@@ -8,8 +8,9 @@ missions:
     end: 2024-04-08
     status: independent
     employer: ''
+    startups:
+      - tdb-apprentissage
 startups:
   - tdb-apprentissage
 memberType: beta
 ---
-

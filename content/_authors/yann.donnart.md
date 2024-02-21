@@ -7,9 +7,10 @@ missions:
     end: 2024-06-29
     status: admin
     employer: IGN
+    startups:
+      - ban
 startups:
   - ban
 memberType: beta
 ---
-
 Nantaisbreton, marin, cartographe et accessoirement IGN !

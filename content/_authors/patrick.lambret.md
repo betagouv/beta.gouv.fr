@@ -19,7 +19,5 @@ previously:
 competences:
   - Gestion de Produit
   - Coaching
-
 ---
-
 J'aide les équipes à avoir un maximum d'impact en un minimum d'effort

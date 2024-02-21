@@ -8,11 +8,12 @@ missions:
     end: 2024-03-31
     status: service
     employer: free
+    startups:
+      - reva
 startups:
   - reva
 previously:
   - pix
   - monstage
 ---
-
 Product Manager

@@ -8,8 +8,9 @@ missions:
     end: 2024-03-15
     status: independent
     employer: DINUM
+    startups:
+      - rapportnav
 startups:
   - rapportnav
 memberType: beta
 ---
-

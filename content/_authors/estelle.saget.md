@@ -20,5 +20,4 @@ previously:
 teams:
   - /teams/animation-dinum
 ---
-
 Couteau suisse (et bourguignon) de la tech, motivée par les projets à impact

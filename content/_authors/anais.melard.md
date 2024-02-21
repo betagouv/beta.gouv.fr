@@ -7,8 +7,9 @@ missions:
     end: 2025-06-30
     status: admin
     employer: MTE
+    startups:
+      - rapportnav
 startups:
   - rapportnav
 memberType: beta
 ---
-

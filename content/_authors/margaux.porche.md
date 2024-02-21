@@ -7,8 +7,9 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Dinum-malt
+    startups:
+      - snu
 startups:
   - snu
 memberType: beta
 ---
-

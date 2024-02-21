@@ -8,6 +8,9 @@ missions:
     end: 2022-05-31
     status: admin
     employer: minarm
+    startups:
+      - octopus
+      - stargate
 startups:
   - octopus
   - stargate

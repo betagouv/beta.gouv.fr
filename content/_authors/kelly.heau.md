@@ -8,8 +8,9 @@ missions:
     end: 2024-03-15
     status: independent
     employer: MALT
+    startups:
+      - a-just
 startups:
   - a-just
 memberType: beta
 ---
-

@@ -10,4 +10,3 @@ missions:
     employer: Octo Technology
 memberType: beta
 ---
-

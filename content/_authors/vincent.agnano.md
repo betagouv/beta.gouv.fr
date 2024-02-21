@@ -10,7 +10,7 @@ missions:
     end: 2024-12-31
     status: service
     employer: lazone
-startups:
+startups: null
 previously:
   - egalite.professionnelle
   - classe-a-12
@@ -23,5 +23,4 @@ competences:
   - Développement Backend
   - Gestion de Produit
 ---
-
 Accompagnement des équipes pour l'Incubateur des Territoires (ANCT), développeur, animateur de tiers-lieux en zones rurales.

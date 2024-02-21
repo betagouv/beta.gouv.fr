@@ -7,6 +7,8 @@ missions:
     end: 2024-09-01
     status: independent
     employer: DINUM
+    startups:
+      - zero-logement-vacant
 startups:
   - zero-logement-vacant
 badges:

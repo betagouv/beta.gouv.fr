@@ -11,5 +11,4 @@ missions:
 badges:
   - segur
 ---
-
 Data Scientist-Analyst DGALN - MTE

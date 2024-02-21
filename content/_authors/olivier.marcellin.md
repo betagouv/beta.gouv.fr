@@ -8,6 +8,10 @@ missions:
     end: 2024-06-30
     status: independent
     employer: scopopop
+    startups:
+      - mes-aides
+      - competence.validee
+      - la-bonne-boite
 startups:
   - mes-aides
   - competence.validee
@@ -15,5 +19,4 @@ startups:
 previously:
   - demarches-simplifiees.fr
 ---
-
 UX Designer

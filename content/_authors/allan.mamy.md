@@ -13,4 +13,3 @@ previously:
 badges:
   - segur
 ---
-

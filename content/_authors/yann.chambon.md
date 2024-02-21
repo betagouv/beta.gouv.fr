@@ -13,5 +13,4 @@ teams:
   - /teams/fab-geocommuns
 memberType: beta
 ---
-
 Fabricant de géocommuns

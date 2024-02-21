@@ -8,8 +8,9 @@ missions:
     end: 2024-06-29
     status: independent
     employer: Octo
+    startups:
+      - itou
 startups:
   - itou
 ---
-
 Développeur, avec beaucoup de python et d'open source

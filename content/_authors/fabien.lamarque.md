@@ -9,10 +9,10 @@ missions:
     end: 2024-06-01
     status: independent
     employer: Omnicite
+    startups:
+      - oots.once-only.technical.system
 startups:
   - oots.once-only.technical.system
 memberType: beta
 ---
-
-Développeur le jour, papa la nuit.
-Musicien punk et couturier.
+Développeur le jour, papa la nuit. Musicien punk et couturier.

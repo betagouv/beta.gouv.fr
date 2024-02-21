@@ -7,6 +7,8 @@ missions:
     end: 2022-09-06
     status: service
     employer: Pôle emploi
+    startups:
+      - encyclopedie-des-metiers
 startups:
   - encyclopedie-des-metiers
 previously:

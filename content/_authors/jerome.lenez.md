@@ -8,6 +8,9 @@ missions:
     end: 2024-08-30
     status: admin
     employer: DIRISI
+    startups:
+      - athena
+      - reva
 startups:
   - athena
   - reva
@@ -17,5 +20,4 @@ previously:
   - cassiopee
   - civils-de-la-defense
 ---
-
 Product Manager

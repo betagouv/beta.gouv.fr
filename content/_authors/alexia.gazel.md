@@ -8,6 +8,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: octo
+    startups:
+      - aides-territoires
+      - deveco
 startups:
   - aides-territoires
   - deveco

@@ -8,6 +8,8 @@ missions:
   - start: 2020-09-01
     end: 2021-12-31
     status: admin
+    startups:
+      - mission-transition-ecologique
 startups:
   - mission-transition-ecologique
 ---

@@ -9,6 +9,8 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Malt
+    startups:
+      - suite-numerique
 startups:
   - suite-numerique
 previously:
@@ -16,4 +18,3 @@ previously:
 badges:
   - segur
 ---
-

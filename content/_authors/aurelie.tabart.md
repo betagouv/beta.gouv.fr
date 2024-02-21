@@ -7,8 +7,9 @@ missions:
     end: 2024-04-25
     status: independent
     employer: DINUM
+    startups:
+      - moncomptepro
 startups:
   - moncomptepro
 memberType: dinum
 ---
-

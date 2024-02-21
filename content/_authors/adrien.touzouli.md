@@ -9,11 +9,12 @@ missions:
     end: 2024-04-29
     status: independent
     employer: ''
+    startups:
+      - eimis
 startups:
   - eimis
 memberType: beta
 previously:
   - eimis
 ---
-
 Développeur 🧑‍💻

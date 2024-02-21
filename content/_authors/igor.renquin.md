@@ -10,5 +10,4 @@ missions:
     status: admin
     employer: DNUM des Ministères Sociaux
 ---
-
 Lead de l'équipe OPS à la Fabrique Numérique des Ministères Sociaux

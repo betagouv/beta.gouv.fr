@@ -8,8 +8,9 @@ missions:
     end: 2024-02-29
     status: independent
     employer: Little Big Connection
+    startups:
+      - deveco
 startups:
   - deveco
 memberType: beta
 ---
-

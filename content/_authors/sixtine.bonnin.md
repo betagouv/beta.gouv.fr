@@ -7,10 +7,11 @@ missions:
     end: 2023-07-31
     status: service
     employer: OCTO Technology
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 badges:
   - segur
-
 ---
 Product Owner CEJ

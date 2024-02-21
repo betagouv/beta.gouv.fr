@@ -7,8 +7,9 @@ missions:
     end: 2024-05-30
     status: independent
     employer: UT7
+    startups:
+      - collectif_objets
 startups:
   - collectif_objets
 memberType: beta
 ---
-

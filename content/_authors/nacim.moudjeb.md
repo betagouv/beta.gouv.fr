@@ -7,9 +7,10 @@ missions:
     end: 2023-08-15
     status: independent
     employer: DINUM
+    startups:
+      - locatio
 startups:
   - locatio
 memberType: beta
 ---
-
 Opérateur chez Dossier Facile

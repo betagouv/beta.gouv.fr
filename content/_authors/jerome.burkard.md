@@ -8,8 +8,9 @@ missions:
     end: 2024-05-30
     status: independent
     employer: La fabrique pôle emploi
+    startups:
+      - l-immersion-facile
 startups:
   - l-immersion-facile
 ---
-
 Lead dev typescript

@@ -2,7 +2,7 @@
 fullname: Douglas Duteil
 role: Développeur
 domaine: Développement
-link:
+link: null
 github: douglasduteil
 missions:
   - start: 2023-10-23
@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: DINUM
   - start: 2018-10-01
-    end:  2021-10-01
+    end: 2021-10-01
     status: admin
     employer: affaires-sociales
 startups:
@@ -21,7 +21,5 @@ previously:
   - workinfrance
   - domifa
   - tremplin
-
 ---
-
 Living JS build tool.

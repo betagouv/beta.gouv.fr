@@ -9,9 +9,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Omnicité La Zone
+    startups:
+      - homologation
 startups:
   - homologation
 memberType: beta
 ---
-
 Développeur le jour, musicien la nuit.

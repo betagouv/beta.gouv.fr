@@ -24,5 +24,4 @@ previously:
   - leximpact
   - transport
 ---
-
 Alles Ständische und Stehende verdampft.

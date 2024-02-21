@@ -7,11 +7,11 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Octo
+    startups:
+      - locatio
 startups:
   - locatio
 badges:
   - segur
 ---
-
-
 Slasheur, passionné d'histoire, grimpeur du dimanche [7A], curieux de toute connaissance, j'adore apprendre et expérimenter, allant d'expérience en expérience [...]

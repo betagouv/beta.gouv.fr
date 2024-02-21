@@ -8,6 +8,8 @@ missions:
     end: 2019-12-31
     status: service
     employer: octo
+    startups:
+      - pass-culture
 startups:
-    - pass-culture
+  - pass-culture
 ---

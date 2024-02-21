@@ -7,8 +7,9 @@ missions:
     end: 2024-05-15
     status: independent
     employer: ''
+    startups:
+      - locatio
 startups:
   - locatio
 memberType: beta
 ---
-

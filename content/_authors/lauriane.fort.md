@@ -8,6 +8,8 @@ missions:
     end: 2024-04-29
     status: independent
     employer: /UT7
+    startups:
+      - vigieau
 startups:
   - vigieau
 badges:
@@ -15,4 +17,3 @@ badges:
 previously:
   - ellesfontlaculture
 ---
-
