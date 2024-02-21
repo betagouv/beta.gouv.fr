@@ -9,10 +9,11 @@ missions:
     status: independent
     employer: Ministère de la Transition Ecologique
     startups:
-      - locatio
+      - dossier-facile
 startups:
-  - locatio
+  - dossier-facile
 badges:
   - segur
 ---
+
 Etudiante en DD Sciences Po-HEC, je suis curieuse de tout, enthousiaste, et à côté des cours passionnée d'histoire de l'art.

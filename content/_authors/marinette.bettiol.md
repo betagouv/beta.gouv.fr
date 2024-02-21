@@ -8,8 +8,9 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - locatio
+      - dossier-facile
 startups:
-  - locatio
+  - dossier-facile
 ---
+
 Etudiante à HEC Paris, j'ai rejoint l'équipe DossierFacile en juin 2020.

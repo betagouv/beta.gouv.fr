@@ -8,9 +8,10 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - locatio
+      - dossier-facile
 startups:
-  - locatio
+  - dossier-facile
 memberType: autre
 ---
+
 Opérateur de validation

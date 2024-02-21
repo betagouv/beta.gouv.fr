@@ -7,10 +7,11 @@ missions:
     end: 2023-12-31
     status: independent
     startups:
-      - locatio
+      - dossier-facile
 startups:
-  - locatio
+  - dossier-facile
 badges:
   - segur
 ---
+
 Amoureuse de voyages, de poutine et de chocolat

@@ -8,8 +8,9 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - locatio
+      - dossier-facile
 startups:
-  - locatio
+  - dossier-facile
 ---
+
 14 ans d'expérience en tant que Data Analyst et entrepreneur enthousiaste.

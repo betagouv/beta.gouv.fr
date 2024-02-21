@@ -9,8 +9,9 @@ missions:
     status: independent
     employer: octo
     startups:
-      - locatio
+      - dossier-facile
 startups:
-  - locatio
+  - dossier-facile
 ---
+
 Développeur agile mais solide

@@ -9,9 +9,10 @@ missions:
     status: admin
     employer: DGALN
     startups:
-      - locatio
+      - dossier-facile
 startups:
-  - locatio
+  - dossier-facile
 memberType: beta
 ---
+
 Chargée de déploiement déterminée et passionnée par les jeux de rôles

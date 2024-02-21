@@ -6,11 +6,12 @@ missions:
   - start: 2023-06-21
     end: 2024-09-30
     status: independent
-    employer: ''
+    employer: ""
     startups:
-      - locatio
+      - dossier-facile
 startups:
-  - locatio
+  - dossier-facile
 memberType: autre
 ---
+
 J'accompagne les utilisateurs sur les outils betaGouv et conseille les structures publiquesprivées sur la transition alimentaire

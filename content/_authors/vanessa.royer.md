@@ -8,9 +8,10 @@ missions:
     status: independent
     employer: DINUM
     startups:
-      - locatio
+      - dossier-facile
 startups:
-  - locatio
+  - dossier-facile
 memberType: beta
 ---
+
 Vanessa, community manager, accro auc réseaux sociaux.

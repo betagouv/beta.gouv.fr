@@ -7,9 +7,9 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - locatio
+      - dossier-facile
 startups:
-  - locatio
+  - dossier-facile
 badges:
   - segur
 domaine: Déploiement
