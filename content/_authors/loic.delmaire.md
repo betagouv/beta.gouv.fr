@@ -13,6 +13,7 @@ missions:
     status: independent
     employer: octo, malt
 startups:
+  - api.gouv.fr
   - api-entreprise
   - api-particulier
   - datapass
