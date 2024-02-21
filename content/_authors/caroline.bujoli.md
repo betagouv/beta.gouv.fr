@@ -1,0 +1,14 @@
+---
+fullname: Caroline  BUJOLI 
+role: Operatrice 
+domaine: Autre
+link: https://www.carolinebujoli.fr
+missions:
+  - start: 2023-07-11
+    end: 2024-07-11
+    status: independent
+startups:
+  - locatio
+memberType: autre
+---
+
