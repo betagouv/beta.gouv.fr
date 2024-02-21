@@ -7,8 +7,8 @@ missions:
     end: 2025-01-31
     status: admin
     employer: France Travail
-startups:
-  - encyclopedie-des-metiers
+    startups:
+      - encyclopedie-des-metiers
 memberType: beta
 ---
 
