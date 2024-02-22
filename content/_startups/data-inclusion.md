@@ -5,23 +5,11 @@ sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
 incubator: gip-inclusion
-link: https://www.data.gouv.fr/fr/datasets/referentiel-de-loffre-dinsertion-liste-des-structures-et-services-dinsertion/
-repository: ""
+link: https://api.data.inclusion.beta.gouv.fr/api/v0/docs#/
+repository: http://github.com/gip-inclusion/data-inclusion
 contact: data.inclusion@beta.gouv.fr
-events:
-  - name: other
-    date: 2022-12-19
-    comment: "Premier consommateur des données de data·inclusion : cartographie des
-      lieux d'inclusion numériques
-      https://cartographie.societenumerique.gouv.fr/cartographie/regions"
-  - name: other
-    date: 2023-01-02
-    comment: "Second consommateur des données de data·inclusion : Mon collectif
-      emploi  http://moncollectifemploi.fr/"
-  - name: other
-    date: 2023-01-02
-    comment: "Troisième consommateur des données de data·inclusion : OnYgo
-      https://onygo-solutions.fr/"
+stats: true
+stats_url: http://metabase.data.inclusion.beta.gouv.fr/public/dashboard/a53c0d36-3467-41d9-876e-973311604ae2
 phases:
   - name: investigation
     start: 2022-03-17
