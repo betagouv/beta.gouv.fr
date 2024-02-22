@@ -10,10 +10,11 @@ missions:
     status: service
     employer: Malt
     startups:
-      - locatio
+      - dossierfacile
 badges:
   - segur
 startups:
-  - locatio
+  - dossierfacile
 ---
+
 BizDev !

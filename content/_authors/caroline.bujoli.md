@@ -1,6 +1,6 @@
 ---
-fullname: Caroline  BUJOLI 
-role: Operatrice 
+fullname: Caroline  BUJOLI
+role: Operatrice
 domaine: Autre
 link: https://www.carolinebujoli.fr
 missions:
@@ -8,7 +8,6 @@ missions:
     end: 2024-07-11
     status: independent
 startups:
-  - locatio
+  - dossierfacile
 memberType: autre
 ---
-

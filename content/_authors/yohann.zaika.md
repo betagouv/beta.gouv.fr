@@ -8,9 +8,10 @@ missions:
     status: independent
     employer: dinum
     startups:
-      - locatio
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 memberType: autre
 ---
+
 Hello , je suis yohann et je suis concepteur designer ui.

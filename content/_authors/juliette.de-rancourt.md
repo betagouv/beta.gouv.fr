@@ -8,10 +8,11 @@ missions:
   - start: 2022-09-05
     end: 2024-02-27
     status: service
-    employer: ''
+    employer: ""
     startups:
-      - locatio
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 ---
+
 Développeuse Full Stack

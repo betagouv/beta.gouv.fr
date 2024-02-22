@@ -8,8 +8,9 @@ missions:
     status: independent
     employer: Dossierfacile
     startups:
-      - locatio
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 ---
+
 Secrétaire et assistante indépendante auprès d'entreprises et de particuliers
