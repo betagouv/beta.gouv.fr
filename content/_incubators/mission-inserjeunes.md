@@ -7,9 +7,9 @@ website:
 github:
 contact:
 highlighted_startups:
-    - expositionIJ
+    - exposition-ij
     - pilotagevoiepro
     - sirius
-    - investigationIJ
+    - investigation-ij
 ---
 
