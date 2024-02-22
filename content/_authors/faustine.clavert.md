@@ -3,7 +3,7 @@ fullname: Faustine Clavert
 role: Designer
 domaine: Design
 link: https://menzao.fr/
-github: faketine
+github: Faketine
 missions:
   - start: 2023-06-01
     end: 2024-06-29
