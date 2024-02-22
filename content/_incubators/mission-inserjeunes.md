@@ -10,6 +10,5 @@ highlighted_startups:
     - exposition-ij
     - pilotagevoiepro
     - sirius
-    - investigation-ij
 ---
 
