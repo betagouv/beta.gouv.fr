@@ -5,7 +5,7 @@ domaine: Développement
 github: cmarcoin
 missions:
   - start: 2022-05-03
-    end: 2024-04-19
+    end: 2024-02-22
     status: independent
     employer: Telescoop
     startups:
