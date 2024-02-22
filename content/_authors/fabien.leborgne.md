@@ -8,9 +8,9 @@ missions:
     status: independent
     employer: ""
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---
 
 Développeur bienveillant et pragmatique, architecte de solutions élégantes et efficaces.

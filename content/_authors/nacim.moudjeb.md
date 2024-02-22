@@ -8,9 +8,9 @@ missions:
     status: independent
     employer: DINUM
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 memberType: beta
 ---
 

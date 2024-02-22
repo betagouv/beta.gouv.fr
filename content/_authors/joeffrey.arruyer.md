@@ -13,7 +13,7 @@ previously:
   - kelrisks
   - a-dock
   - camino
-  - dossier-facile
+  - dossierfacile
 competences:
   - Gestion de Produit
   - Coaching

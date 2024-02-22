@@ -8,9 +8,9 @@ missions:
     status: independent
     employer: Dossierfacile
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---
 
 Secrétaire et assistante indépendante auprès d'entreprises et de particuliers

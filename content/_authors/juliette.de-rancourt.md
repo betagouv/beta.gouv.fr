@@ -10,9 +10,9 @@ missions:
     status: service
     employer: ""
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---
 
 Développeuse Full Stack

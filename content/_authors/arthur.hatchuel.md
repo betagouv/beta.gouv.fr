@@ -19,7 +19,7 @@ startups:
 competences:
   - Gestion de Produit
 previously:
-  - dossier-facile
+  - dossierfacile
   - filigrane
 badges:
   - segur

@@ -8,9 +8,9 @@ missions:
     status: independent
     employer: Ground
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---
 
 Coach produit, inspecteur gadget

@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---

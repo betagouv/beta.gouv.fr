@@ -7,9 +7,9 @@ missions:
     end: 2021-03-23
     status: admin
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---
 
 En mission à la Fabrique Numérique après quelques années en détachement et en disponibilité

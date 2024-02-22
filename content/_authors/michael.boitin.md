@@ -13,7 +13,7 @@ missions:
     status: independent
     employer: ""
 startups:
-  - dossier-facile
+  - dossierfacile
   - a-just
   - vigieau
 competences:
@@ -21,7 +21,7 @@ competences:
   - UI
   - Coaching
 previously:
-  - dossier-facile
+  - dossierfacile
   - vigieau
 ---
 

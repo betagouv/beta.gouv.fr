@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: octo
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---
 
 Développeur agile mais solide

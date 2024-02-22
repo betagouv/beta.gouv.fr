@@ -7,7 +7,7 @@ missions:
     end: 2021-08-31
     status: admin
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---

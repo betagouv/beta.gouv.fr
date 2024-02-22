@@ -9,10 +9,10 @@ missions:
     status: service
     employer: NUMA/Frontierlab
     startups:
-      - dossier-facile
+      - dossierfacile
       - assec
 startups:
-  - dossier-facile
+  - dossierfacile
   - assec
 ---
 

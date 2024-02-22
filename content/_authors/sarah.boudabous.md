@@ -9,9 +9,9 @@ missions:
     status: admin
     employer: OPCO
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 badges:
   - segur
 ---

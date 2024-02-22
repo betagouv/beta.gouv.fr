@@ -16,7 +16,7 @@ startups:
   - tous.a.bord
 previously:
   - aides-territoires
-  - dossier-facile
+  - dossierfacile
   - mon-entreprise
 teams:
   - /teams/animation-dinum

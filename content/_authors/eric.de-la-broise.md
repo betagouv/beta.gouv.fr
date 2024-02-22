@@ -8,9 +8,9 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---
 
 14 ans d'expérience en tant que Data Analyst et entrepreneur enthousiaste.

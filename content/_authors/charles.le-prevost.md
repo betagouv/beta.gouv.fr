@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: La Fabrique Numérique
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---
 
 Expérience utilisateur, interface utilisateur, UX writing.

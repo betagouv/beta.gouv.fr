@@ -8,9 +8,9 @@ missions:
     status: independent
     employer: dinum
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 memberType: autre
 ---
 

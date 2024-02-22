@@ -8,9 +8,9 @@ missions:
     status: admin
     employer: Ministère de la Transition écologique
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 badges:
   - segur
 ---

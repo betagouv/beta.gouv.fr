@@ -8,6 +8,6 @@ missions:
     end: 2024-07-11
     status: independent
 startups:
-  - dossier-facile
+  - dossierfacile
 memberType: autre
 ---

@@ -13,7 +13,7 @@ missions:
 startups:
   - mon-suivi-social
 previously:
-  - dossier-facile
+  - dossierfacile
 ---
 
 Entrepreneure, photographe, engagée dans les enjeux de l'ESS et les questions d'innovation sociale, je n'ai qu'une tête mais de multiples casquettes !

@@ -7,9 +7,9 @@ missions:
     end: 2023-12-31
     status: independent
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 badges:
   - segur
 ---

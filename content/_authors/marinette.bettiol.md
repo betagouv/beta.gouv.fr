@@ -8,9 +8,9 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---
 
 Etudiante à HEC Paris, j'ai rejoint l'équipe DossierFacile en juin 2020.

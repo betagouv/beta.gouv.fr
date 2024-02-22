@@ -8,9 +8,9 @@ missions:
     status: admin
     employer: DGALN
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---
 
 Etudiant à l'Ecole polytechnique en stage pour 3 mois chez DossierFacile

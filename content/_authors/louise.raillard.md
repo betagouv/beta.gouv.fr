@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: Ministère de la Transition Ecologique
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 badges:
   - segur
 ---

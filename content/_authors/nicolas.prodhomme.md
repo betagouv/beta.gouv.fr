@@ -9,9 +9,9 @@ missions:
     status: admin
     employer: MTES/MCT
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---
 
 Hauts les cœurs et soyons bons !

@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: mtes/mct
     startups:
-      - dossier-facile
+      - dossierfacile
 startups:
-  - dossier-facile
+  - dossierfacile
 ---
