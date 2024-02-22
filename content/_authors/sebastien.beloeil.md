@@ -4,7 +4,7 @@ role: DevOPS
 domaine: Déploiement
 missions:
   - start: 2023-02-22
-    end: 2024-03-23
+    end: 2024-12-23
     status: independent
     employer: Malt
     startups:
@@ -13,4 +13,4 @@ startups:
   - tchap
 memberType: beta
 ---
-Informagicien, Photographe
+In(f[ro])magicien, Photographe
