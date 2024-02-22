@@ -40,7 +40,7 @@ Sirius donne accès aux témoignages des apprentis pour aider les jeunes dans le
 
 Afin de s’inscrire dans le parcours de l’ensemble des usagers ciblés par notre service, nous avons mis en place une expérimentation sur les régions Auvergne-Rhône-Alpes et Provence-Alpes-Côte d’Azur :
 - Nous accompagnons aujourd’hui les CFA à prendre en main ce nouvel outil pour faciliter sa diffusion auprès des apprentis des deux régions pilotes.
-- Nous mettons en place des terrains propices pour tester différents modes d’exposition de cette nouvelle donnée et mesurer la pertinence et l’impact de notre action. Un échantillon de collégiens, de jeunes en prépa apprentissage, de professionnels de l’orientation et de CFA a été constitué pour permettre de proposer une première offre de témoignages pertinents.
+- Nous avons défini des terrains propices pour tester différents modes d’exposition de cette nouvelle donnée et mesurer la pertinence et l’impact de notre action. Un échantillon de collégiens, de jeunes en prépa apprentissage, de professionnels de l’orientation et de CFA a été constitué pour permettre de proposer une première offre de témoignages pertinents.
 
 
 Sirius bénéficie d’un appui interministériel :
