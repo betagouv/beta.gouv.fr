@@ -7,8 +7,8 @@ title: Précontentieux justice
 contact: sylvie.voko@justice.gouv.fr
 accessibility_status: non conforme
 phases:
-  - name: investigation
-    start: 2023-10-09
+  - name: construction
+    start: 2024-01-18
 sponsors:
   - /organisations/justice
 ---
