@@ -1,7 +1,6 @@
 ---
 mission: >-
-  Faciliter la prise en charge des dossiers de précontentieux par
-  l'administration pour réduire les délais de réponses aux usagers.
+  Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer la qualité de service rendu aux justiciables
 incubator: justice
 title: Précontentieux justice
 contact: sylvie.voko@justice.gouv.fr
