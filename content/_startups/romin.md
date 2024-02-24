@@ -1,6 +1,8 @@
 ---
 title: ROMIN
-mission: Faciliter l'accès et l'utilisation des outils d'intervention en Service Pénitentiaire d'Insertion et de Probation (SPIP)
+mission: >-
+  Faciliter l'accès et l'utilisation des outils d'intervention en Service
+  Pénitentiaire d'Insertion et de Probation (SPIP)
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -14,7 +16,9 @@ events:
     comment: Kick-off de l'investigation
   - name: committee
     date: 2022-11-17
-    comment: Comité d'investigation, avis concluant pour un passage en phase de construction
+    comment: >-
+      Comité d'investigation, avis concluant pour un passage en phase de
+      construction
   - name: committee
     date: 2023-06-28
     comment: Comité de fin de la 1ère phase de construction
@@ -27,6 +31,8 @@ phases:
     end: 2022-11-17
   - name: construction
     start: 2022-11-17
+  - start: 2024-02-24
+    name: acceleration
 usertypes:
   - etat
 stats_url: https://romin.beta.gouv.fr/stats
