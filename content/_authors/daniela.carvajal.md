@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Autre
 missions:
   - start: 2023-10-08
-    end: 2024-01-11
+    end: 2025-01-11
     status: admin
 memberType: beta
 ---
