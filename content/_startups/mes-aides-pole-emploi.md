@@ -4,11 +4,13 @@ mission: >-
   Le service Pôle emploi qui permet aux personnes en insertion de trouver en 3
   clics les aides humaines, matérielles et financières pour faciliter leur
   parcours vers l’emploi
+redirect_from:
+  - /startups/mes.aides
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
 incubator: pole-emploi
-link: 'https://mes-aides.francetravail.fr/ '
+link: "https://mes-aides.francetravail.fr/"
 contact: mesaides@beta.pole-emploi.fr
 phases:
   - name: investigation
@@ -21,6 +23,7 @@ phases:
     end: 2025-01-01
 accessibility_status: non conforme
 ---
+
 #### **Contexte**
 
 Le parcours d’insertion professionnelle peut être ralenti par différents freins sociaux que nous avons identifiés : la mobilité, la garde d’enfant, l’accès au logement, la santé, l’accès au numérique… Dans ce contexte le projet Mes Aides a été impulsé par Madame Brigitte Klinkert, ex-ministre déléguée à l’insertion pour participer à la levée de ces freins sociaux.
