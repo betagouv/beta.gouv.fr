@@ -11,6 +11,7 @@ missions:
       - snu
 startups:
   - snu
+  - france.nation.verte.agir
 badges:
   - segur
 competences:
