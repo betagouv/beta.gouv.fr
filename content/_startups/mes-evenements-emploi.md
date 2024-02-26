@@ -32,6 +32,9 @@ phases:
   - name: acceleration
     start: 2021-11-01
 accessibility_status: non conforme
+fast:
+  promotion: 14
+  montant: 300000
 ---
 ### **Problème :**
 
