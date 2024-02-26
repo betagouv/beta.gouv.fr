@@ -13,6 +13,7 @@ missions:
     status: admin
     startups:
       - travailler.en.france
+      - mes-aides-france-travail
 startups:
   - travailler.en.france
 previously:

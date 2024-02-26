@@ -14,6 +14,5 @@ missions:
     status: admin
 previously:
   - mes-aides-france-travail
-startups:
   - travailler.en.france
 ---

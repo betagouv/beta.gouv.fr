@@ -8,6 +8,6 @@ missions:
     status: admin
     startups:
       - mes-aides-france-travail
-startups:
+previously:
   - mes-aides-france-travail
 ---

@@ -11,7 +11,7 @@ missions:
     startups:
       - travailler.en.france
       - mes-aides-france-travail
-startups:
+previously:
   - travailler.en.france
   - mes-aides-france-travail
 ---
