@@ -8,7 +8,7 @@ sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
 incubator: pole-emploi
-link: 'https://mes-aides.pole-emploi.fr/ '
+link: 'https://mes-aides.francetravail.fr/ '
 contact: mesaides@beta.pole-emploi.fr
 phases:
   - name: investigation
@@ -18,12 +18,12 @@ phases:
     end: 2022-09-30
   - name: acceleration
     start: 2022-10-03
-    end: 2024-01-01
+    end: 2025-01-01
 accessibility_status: non conforme
 ---
 #### **Contexte**
 
-Le parcours d’insertion professionnelle peut être ralenti par différents freins sociaux que nous avons identifiés : la mobilité, la garde d’enfant, l’accès au logement, la santé, l’accès au numérique… Dans ce contexte le projet Mes Aides a été impulsé par Madame Brigitte Klinkert, ex-ministre déléguée à l’insertion pour participer à la levée de ces freins sociaux. 
+Le parcours d’insertion professionnelle peut être ralenti par différents freins sociaux que nous avons identifiés : la mobilité, la garde d’enfant, l’accès au logement, la santé, l’accès au numérique… Dans ce contexte le projet Mes Aides a été impulsé par Madame Brigitte Klinkert, ex-ministre déléguée à l’insertion pour participer à la levée de ces freins sociaux.
 
 #### **Problème**
 
