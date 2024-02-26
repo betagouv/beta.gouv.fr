@@ -9,5 +9,6 @@ missions:
     status: admin
     employer: IGN
 memberType: beta
+link: https://www.linkedin.com/in/sofiane-kriat-ba339182/
 ---
-
+Passionné de cartes et données géographiques!
