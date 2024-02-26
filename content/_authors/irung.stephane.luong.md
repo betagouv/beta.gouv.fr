@@ -9,10 +9,10 @@ missions:
     employer: Incubateur France Travail
     startups:
       - travailler.en.france
-      - mes.aides
+      - mes-aides-pole-emploi
 startups:
   - travailler.en.france
-  - mes.aides
+  - mes-aides-pole-emploi
 memberType: beta
 link: https://www.linkedin.com/in/luongpm/
 ---
