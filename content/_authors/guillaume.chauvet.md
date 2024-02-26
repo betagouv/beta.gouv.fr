@@ -2,6 +2,7 @@
 fullname: Guillaume Chauvet
 role: Développeur
 domaine: Développement
+github: octo-guic
 missions:
   - start: 2023-07-31
     end: 2024-06-30

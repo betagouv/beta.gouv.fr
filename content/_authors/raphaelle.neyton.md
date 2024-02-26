@@ -10,6 +10,12 @@ missions:
     employer: NUMA
     startups:
       - collectif_objets
+  - start: 2021-03-01
+    end: 2023-04-01
+    status: independent
+    employer: NUMA
+    startups:
+      - apilos
 incubator: culture
 startups:
   - collectif_objets

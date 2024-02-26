@@ -5,7 +5,7 @@ permalink: /fast/sélection
 sidebar: sidebar-fast.html
 ---
 <p class="fr-text--lead">
-Le 14ème appel à projet du Fonds d’accélération des Startups d’État et de Territoire est ouvert jusqu'au 1 décembre 2023. Plus de 1,5 million d'euros seront accordés aux produits numériques qui souhaitent augmenter leur impact et passer à l'échelle.
+Le 15ème appel à projet du Fonds d’accélération des Startups d’État et de Territoire est ouvert jusqu'au 29 mai 2024. Plus de 1,5 million d'euros seront accordés aux produits numériques qui souhaitent augmenter leur impact et passer à l'échelle.
  </p>
 
 ## Critères de sélection
