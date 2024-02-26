@@ -1,10 +1,10 @@
 ---
 fullname: Nina Leal de Sousa
-role: UX/UI Designer
 domaine: Design
+role: UX/UI Designer
 missions:
-  - start: 2022-03-03
-    end: 2023-03-31
+  - start: 2024-02-26
+    end: 2024-06-30
     status: independent
     employer: Malt
     startups:
@@ -13,5 +13,8 @@ startups:
   - snu
 badges:
   - segur
+competences:
+  - UX
+  - UI
 ---
 Je vis sur Figma
