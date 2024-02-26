@@ -21,6 +21,9 @@ usertypes:
   - entreprise
 dashlord_url: https://dashlord.incubateur.net/url/lemarche-inclusion-beta-gouv-fr/
 accessibility_status: non conforme
+fast:
+  promotion: 14
+  montant: 125000
 ---
 
 ## Le contexte

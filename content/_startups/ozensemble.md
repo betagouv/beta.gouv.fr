@@ -20,6 +20,9 @@ usertypes:
   - particulier
 stats_url: https://ozensemble.fabrique.social.gouv.fr/stats
 accessibility_status: non conforme
+fast:
+  promotion: 14
+  montant: 220000
 ---
 ##  Le contexte : 
 

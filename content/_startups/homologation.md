@@ -19,6 +19,9 @@ phases:
 usertypes:
   - collectivite-territoriale
 dashlord_url: https://dashlord.incubateur.net/url/www-monservicesecurise-ssi-gouv-fr/
+fast:
+  promotion: 14
+  montant: 141000
 ---
 ## En phase d'accélération
 
