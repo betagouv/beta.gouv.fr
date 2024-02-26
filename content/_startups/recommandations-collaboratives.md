@@ -1,7 +1,7 @@
 ---
 mission: Outiller les projets complexes des territoires
 incubator: accelerema
-repository: https://github.com/betagouv/urbanvitaliz-django
+repository: https://github.com/betagouv/recommandations-collaboratives
 contact: recommandations-collaboratives@beta.gouv.fr
 accessibility_status: non conforme
 redirect_from:
