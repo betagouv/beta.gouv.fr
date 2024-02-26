@@ -17,9 +17,9 @@ Les conducteurs routiers lauréats des titres professionnels sont confrontés à
 
 ## Problème
 
-Cette situation est particulièrement préjudiciable pour les conducteurs, qui sont privés de travail, et pour les entreprises qui éprouvent des difficultés à recruter des personnels qualifiés. Dans le cas des transports scolaires, cette carence accentue les tensions liées à la pénurie de conducteurs à l’occasion de la rentrée.
+Cette situation est particulièrement préjudiciable pour les conducteurs, qui sont privés de travail dans l'attente des titres, et pour les entreprises qui éprouvent des difficultés à recruter des personnels qualifiés. Dans le cas des transports scolaires, cette carence accentue les tensions liées à la pénurie de conducteurs à l’occasion de la rentrée.
 En 2022, **29 311** personnes ont obtenu l'un des trois titres professionnels de la conduite routière, représentant 45% des nouveaux entrants dans la profession. 
-Les délais d'obtention des documents nécessaires à l’exercice de la profession de conducteur routier entravent l'attractivité de la profession et aggravent les tensions en matière de recrutement. Ils peuvent décourager certains candidats au titre professionnel alors que cette formation longue confère des savoir-faire qui sont appréciés par les entreprises et qui valorisent l’attractivité du métier. 
+Les délais d'obtention des documents qui sont nécessaires à l’exercice de la profession de conducteur routier entravent l'attractivité de la profession et aggravent les tensions en matière de recrutement. Ils peuvent décourager certains candidats de s'inscrire dans un parcours de formation longue au meilleur niveau de qualification des conducteurs et leur confère ainsi des savoir-faire appréciés par les entreprises, ce qui renforce l’attractivité du métier.
 
 
 ## Solution
