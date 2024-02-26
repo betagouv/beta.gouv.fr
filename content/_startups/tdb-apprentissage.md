@@ -22,6 +22,9 @@ phases:
 usertypes:
   - etat
   - etablissement-scolaire
+fast:
+  promotion: 14
+  montant: 30000
 dashlord_url: https://dashlord.incubateur.net/url/cfas-apprentissage-beta-gouv-fr/
 ---
 
