@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: scopyleft
 previously:
-  - locatio
+  - dossierfacile
   - tchap
 teams:
   - /teams/communaute-dinum

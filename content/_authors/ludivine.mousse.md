@@ -8,8 +8,8 @@ missions:
     status: independent
     employer: DossierFacile
     startups:
-      - locatio
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 memberType: autre
 ---

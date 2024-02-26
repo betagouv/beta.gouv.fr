@@ -7,8 +7,8 @@ missions:
     end: 2024-04-30
     status: independent
     startups:
-      - locatio
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 memberType: beta
 ---

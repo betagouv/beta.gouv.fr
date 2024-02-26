@@ -7,8 +7,9 @@ missions:
     end: 2021-03-23
     status: admin
     startups:
-      - locatio
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 ---
+
 En mission à la Fabrique Numérique après quelques années en détachement et en disponibilité

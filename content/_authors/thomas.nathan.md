@@ -15,5 +15,5 @@ startups:
 badges:
   - segur
 previously:
-  - locatio
+  - dossierfacile
 ---

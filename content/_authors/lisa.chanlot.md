@@ -7,7 +7,6 @@ missions:
     end: 2024-07-31
     status: admin
 startups:
-  - locatio
+  - dossierfacile
 memberType: autre
 ---
-

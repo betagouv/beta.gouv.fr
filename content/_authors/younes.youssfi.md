@@ -6,10 +6,10 @@ missions:
   - start: 2022-03-01
     end: 2024-03-31
     status: independent
-    employer: ''
+    employer: ""
     startups:
-      - locatio
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 memberType: beta
 ---
