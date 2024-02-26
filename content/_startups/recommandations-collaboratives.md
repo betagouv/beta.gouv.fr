@@ -1,7 +1,7 @@
 ---
 mission: Conseiller pour faire avancer les projets des territoires
 incubator: accelerema
-repository: https://github.com/betagouv/urbanvitaliz-django
+repository: https://github.com/betagouv/recommandations-collaboratives
 contact: friches@beta.gouv.fr
 accessibility_status: non conforme
 redirect_from:
