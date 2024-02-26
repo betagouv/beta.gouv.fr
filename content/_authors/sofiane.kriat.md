@@ -8,6 +8,8 @@ missions:
     end: 2024-12-31
     status: admin
     employer: IGN
+    startups:
+      - fonds.de.plans
 memberType: beta
 link: https://www.linkedin.com/in/sofiane-kriat-ba339182/
 ---
