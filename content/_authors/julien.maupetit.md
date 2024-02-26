@@ -5,8 +5,8 @@ domaine: Développement
 link: https://julien.maupetit.me
 github: jmaupetit
 missions:
-  - start: 2024-11-03
-    end: 2024-11-09
+  - start: 2024-03-11
+    end: 2024-09-11
     status: independent
 startups:
   - qualicharge
