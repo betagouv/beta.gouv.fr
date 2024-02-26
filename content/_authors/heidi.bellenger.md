@@ -8,8 +8,8 @@ missions:
     status: service
     employer: DEUD
     startups:
-      - mes-aides
+      - mes.aides
 startups:
-  - mes-aides
+  - mes.aides
 memberType: beta
 ---
