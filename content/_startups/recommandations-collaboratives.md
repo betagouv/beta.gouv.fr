@@ -16,7 +16,6 @@ sponsors:
   - /organisations/anct
   - /organisations/dinum
 link: https://bacasable.recoconseil.fr/
-repository: https://github.com/betagouv/recommandations-collaboratives
 stats: true
 budget_url: https://pad.incubateur.net/s/qeT5bzHUM
 phases:
