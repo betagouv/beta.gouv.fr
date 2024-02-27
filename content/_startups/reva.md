@@ -29,6 +29,7 @@ usertypes:
   - particulier
 dashlord_url: https://dashlord.incubateur.net/url/vae-gouv-fr/
 stats_url: https://metabase.vae.gouv.fr/public/dashboard/f27f670b-31fb-4b3d-8322-52761c4110c2
+repository: https://github.com/SocialGouv/reva
 stats: true
 accessibility_status: partiellement conforme
 ---
