@@ -27,6 +27,8 @@ phases:
     end: 2022-11-17
   - name: construction
     start: 2022-11-17
+  - name: acceleration
+    start: 2024-01-18
 usertypes:
   - etat
 stats_url: https://romin.beta.gouv.fr/stats
