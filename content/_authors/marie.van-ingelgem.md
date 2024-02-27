@@ -8,6 +8,6 @@ missions:
     status: admin
     startups:
       - mes.aides
-startups:
+previously:
   - mes.aides
 ---
