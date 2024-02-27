@@ -9,7 +9,8 @@ contact: enfantsduspectacle@fabrique.social.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - etat
-dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/enfants-du-spectacle-fabrique-social-gouv-fr/
+dashlord_url: >-
+  https://socialgouv.github.io/dashlord-fabrique/url/enfants-du-spectacle-fabrique-social-gouv-fr/
 link: https://enfants-du-spectacle.fabrique.social.gouv.fr/
 events: []
 phases:
@@ -21,8 +22,9 @@ phases:
     end: 2022-09-01
   - name: acceleration
     start: 2022-09-01
+  - start: 2024-01-01
+    name: success
 ---
-
 ## Le contexte
 
 Chaque année, plus de 13 000 demandes d’autorisation d’emploi pour des enfants du spectacle sont déposées dans la région Île-de-France. Les domaines concernés sont le cinéma, la télévision, la radio, le spectacle vivant et l’e-sport.
