@@ -1,6 +1,6 @@
 ---
 fullname: Marie Vacherot
-role: Chargée de déploiement
+role: Responsable produit et chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2021-06-08
