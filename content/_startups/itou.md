@@ -7,7 +7,7 @@ sponsors:
 incubator: gip-inclusion
 contact: assistance@inclusion.beta.gouv.fr
 link: https://emplois.inclusion.beta.gouv.fr/
-repository: http://github.com/betagouv/itou
+repository: http://github.com/gip-inclusion/les-emplois
 rgpd:
   responsable: DGEFP
   finalites:
@@ -46,9 +46,18 @@ rgpd:
     - type: Homologation ferme
       intervenant: Anne-Laure Hochedez-Planche
       date: 2020-10-06
-  exercer_vos_droits: https://doc.inclusion.beta.gouv.fr/mentions/protection-des-donnees
+    - type: Tests d'intrusion
+      intervenant: Ernst & Young
+      date: 2021-11-18
+    - type: Tests d'intrusion
+      intervenant: Secureaks (Romain GARCIA)
+      date: 2023-08-24
+    - type: Homologation MonServiceSécurisé
+      intervenant: Arnaud Denoix
+      date: 2024-02-20
+  exercer_vos_droits: https://emplois.inclusion.beta.gouv.fr/legal/privacy/#quels-droits-avez-vous-
   mesures_securite: La plateforme est hébergée en France par un prestataire certifié ISO.
-  validite_homologation: 2023-10-06
+  validite_homologation: 2027-02-19
 stats: true
 phases:
   - name: investigation
