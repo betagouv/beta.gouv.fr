@@ -7,11 +7,16 @@ missions:
     end: 2024-06-03
     status: independent
     employer: Scopyleft
+    startups: []
+  - start: 2023-03-14
+    end: 2024-02-02
+    status: independent
+    employer: Malt
     startups:
-      - mon.espace.collectivite
+      - jeveuxaider
 previously:
   - jeveuxaider
 memberType: beta
 link: https://www.linkedin.com/in/angela-lebreton/
 ---
-Chargée de déploiement 
+Chargée de déploiement
