@@ -17,8 +17,9 @@ phases:
     end: 2022-12-07
   - name: construction
     start: 2022-12-12
+  - start: 2024-02-28
+    name: acceleration
 ---
-
 ## Pourquoi la Maison de l’autisme ? 
 
 
