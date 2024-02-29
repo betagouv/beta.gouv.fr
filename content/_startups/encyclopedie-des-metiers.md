@@ -1,7 +1,8 @@
 ---
 title: MétierScope
-mission: Faciliter l'accès à des informations claires et pratiques sur les
-  métiers et les compétences
+mission: >-
+  Faciliter l'accès à des informations claires et pratiques sur les métiers et
+  les compétences
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
@@ -20,6 +21,7 @@ phases:
     start: 2022-10-16
   - name: success
     start: 2023-10-19
+accessibility_status: partiellement conforme
 ---
 ### Problème
 
@@ -32,10 +34,6 @@ MétierScope permet de mettre à disposition les informations sur les emplois et
 ### Stratégie
 
 Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
-
-« POC phase II » Des compétences qui font sens et campagnes réduites aux agences du POC jusque décembre
-
-Puis :
 
 * Accessibilité depuis L'espace perso
 * Référencement sur L'emploi store
