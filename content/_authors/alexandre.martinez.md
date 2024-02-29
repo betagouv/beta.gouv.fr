@@ -10,6 +10,7 @@ missions:
     startups:
       - deveco
       - les.bases
+      - suite.d.outils.des.mediateurs.numeriques
 startups:
   - deveco
   - les.bases
