@@ -24,6 +24,9 @@ phases:
 usertypes:
   - particulier
   - entreprise
+fast:
+  promotion: 14
+  montant: 300000
 ---
 ## Le problème
 

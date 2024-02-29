@@ -1,10 +1,10 @@
 ---
 fullname: Fantine Monot
-role: Chargée de déploiement &amp; Product management
+role: Product management
 domaine: Déploiement
 missions:
   - start: 2022-06-24
-    end: 2024-07-01
+    end: 2024-09-02
     status: independent
     employer: UT-7
     startups:

@@ -22,6 +22,9 @@ phases:
 usertypes:
   - particulier
   - collectivite-territoriale
+fast:
+  promotion: 14
+  montant: 121000
 ---
 # Le problème
 

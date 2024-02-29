@@ -34,6 +34,9 @@ usertypes:
   - collectivite-territoriale
 redirect_from:
   - /startups/labels-transition
+fast:
+  promotion: 14
+  montant: 300000
 ---
 
 ## Contexte

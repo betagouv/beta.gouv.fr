@@ -1,6 +1,6 @@
 ---
 mission: Faciliter la réhabilitation des friches urbaines
-incubator: dinum
+incubator: accelerema
 repository: https://github.com/betagouv/urbanvitaliz-django
 contact: friches@beta.gouv.fr
 accessibility_status: non conforme
