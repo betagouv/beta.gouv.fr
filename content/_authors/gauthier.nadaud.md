@@ -1,6 +1,6 @@
 ---
 fullname: Gauthier Nadaud
-role: Expert Fast
+role: Expert Fonds d'Acceleration des Startups d'Etat et de Territoire (FAST)
 domaine: Coaching
 missions:
   - start: 2023-12-30
