@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - snu
+      - france.nation.verte.agir
 startups:
   - snu
   - france.nation.verte.agir
