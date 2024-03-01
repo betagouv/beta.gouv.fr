@@ -19,6 +19,11 @@ missions:
     status: independent
     employer: test
     startups: []
+  - start: 2024-03-01
+    end: 2024-06-01
+    status: independent
+    employer: fzefzef
+    startups: []
 teams:
   - /teams/animation-dinum
 ---
