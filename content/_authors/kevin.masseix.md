@@ -10,6 +10,7 @@ missions:
     employer: DINUM
     startups:
       - annuaire-entreprises
+      - moncomptepro
 startups:
   - annuaire-entreprises
 memberType: autre
