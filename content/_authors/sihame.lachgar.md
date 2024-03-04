@@ -9,6 +9,11 @@ missions:
     employer: la plateforme de l'inclusion
     startups:
       - la.communaute.de.linclusion
+  - start: 2024-03-04
+    end: 2024-06-04
+    status: independent
+    employer: ''
+    startups: []
 startups:
   - itou
 memberType: beta
