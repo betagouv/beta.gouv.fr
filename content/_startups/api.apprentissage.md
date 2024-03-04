@@ -3,7 +3,7 @@ mission: >-
   Simplifier l’accès à des données de l'apprentissage fiables et à jour grâce à
   un point d’entrée unique et documenté
 incubator: mission-apprentissage
-contact: apprentissage@beta.gouv.fr
+contact: api@apprentissage.beta.gouv.fr
 title: API Apprentissage
 phases:
   - name: construction
