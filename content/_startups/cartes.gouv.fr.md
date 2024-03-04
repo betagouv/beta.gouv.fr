@@ -4,7 +4,6 @@ mission: Proposer un accès simple et unifié aux fonctionnalités de la Géopla
 repository: https://github.com/IGNF/cartes.gouv.fr-documentation
 incubator: fab-geocommuns
 title: cartes.gouv.fr
-contact: https://cartes.gouv.fr/nous-ecrire
 accessibility_status: partiellement conforme
 sponsors:
   - /organisations/ign
