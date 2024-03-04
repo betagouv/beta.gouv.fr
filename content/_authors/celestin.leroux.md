@@ -5,7 +5,7 @@ role: Responsable produit
 github: celestinleroux
 missions:
   - start: 2022-03-21
-    end: 2024-03-01
+    end: 2024-09-01
     status: independent
     employer: MALT / ANCT
     startups:
