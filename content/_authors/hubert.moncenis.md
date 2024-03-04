@@ -12,5 +12,6 @@ missions:
       - potentiel
 startups:
   - potentiel
+link: https://hubbb.dev/
 ---
 Développeur fullstack javascript
