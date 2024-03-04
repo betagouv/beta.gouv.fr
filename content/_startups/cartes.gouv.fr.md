@@ -12,8 +12,6 @@ phases:
   - name: investigation
     start: 2024-03-01
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
 ## Contexte
 
 Le développement rapide et généralisé de l’information géolocalisée se traduit par une évolution des pratiques de l’ensemble des agents publics et des citoyens dans leurs activités et leurs modes de vie.
@@ -23,8 +21,7 @@ Le produit cartes.gouv.fr est l'interface permettant d'accéder simplement aux d
 
 ## Problème
 
-De nombreux outils sont développés par l'ensemble des acteurs de la géoinformation, parfois difficiles d'utilisation pour les producteurs de données comme les utilisateurs. Ces outils sont souvent isolés des autres solutions (absence d'interopérabilité)  
-
+De nombreux outils sont développés par l'ensemble des acteurs de la géoinformation, parfois difficiles d'utilisation pour les producteurs de données comme les utilisateurs. Ces outils sont souvent isolés des autres solutions (absence d'interopérabilité)
 
 ## Solution
 
