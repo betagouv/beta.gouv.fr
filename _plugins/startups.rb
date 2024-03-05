@@ -44,7 +44,7 @@ module Jekyll
                     'expired_members' => Array.new
                   }
                 end
-                if !mission['end'] or (mission['start']<=now and mission['end'] >= now)
+                if !mission['end'] or (mission['start'] <= now and mission['end'] >= now)
                   result[startup]['active_members'].push(author.id.gsub('/authors/', ''))
                 elsif mission['end'] <= now
                   result[startup]['expired_members'].push(author.id.gsub('/authors/', ''))
