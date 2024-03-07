@@ -1,6 +1,6 @@
 ---
 fullname: Véronique RAB
-role: PO pour produit issu de BetaGouv
+role: PO mon-entreprise.urssaf.fr
 domaine: Produit
 missions:
   - start: 2024-02-23
