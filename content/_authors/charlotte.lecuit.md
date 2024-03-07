@@ -16,6 +16,10 @@ missions:
     end: 2023-01-31
     employer: Octo
     status: independent
+  - start: 2024-03-07
+    end: 2024-07-15
+    employer: Malt
+    status: independent  
 startups:
   - aides.jeunes
 previously:
