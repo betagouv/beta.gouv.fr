@@ -1,6 +1,6 @@
 ---
 fullname: Judith Lenglet
-role: Chargée de déploiement
+role: Coach
 domaine: Déploiement
 missions:
   - start: 2020-05-01

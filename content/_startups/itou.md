@@ -37,9 +37,9 @@ rgpd:
     - type: Tests d'intrusion
       intervenant: Ernst & Young
       date: 2020-03-01
-    - type: Homologation provisoire
-      intervenant: Anne-Laure Hochedez-Planche
-      date: 2020-04-02
+    - type: Homologation approuvée pour 3 ans
+      intervenant: Arnaud Denoix
+      date: 2024-02-20
     - type: Tests d'intrusion
       intervenant: Ernst & Young
       date: 2020-05-02
