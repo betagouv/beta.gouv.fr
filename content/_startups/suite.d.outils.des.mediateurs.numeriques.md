@@ -1,9 +1,7 @@
 ---
-mission: >-
-  Mettre à disposition des médiateurs un catalogue d'outils pour mieux
-  accompagner les éloignées du numérique.
+mission: Vos outils du quotidien pour accompagner les éloignées du numérique.
 incubator: anct
-title: Suite d'outils des médiateurs numériques
+title: La coop de la médiation numérique
 contact: manon.galle@anct.gouv.fr
 accessibility_status: non conforme
 sponsors:
