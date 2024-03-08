@@ -13,12 +13,10 @@ missions:
       - mes-aides-france-travail
 incubator: pole-emploi
 startups:
-  - travailler.en.france
-  - mes-aides-france-travail
 previously:
   - zen
   - travailler.en.france
-  - mes.aides
+  - mes-aides-france-travail
 competences:
   - Gestion de Produit
 ---
