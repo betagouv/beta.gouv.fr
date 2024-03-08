@@ -1,5 +1,5 @@
 ---
-title: Mes Aides
+title: Mes Aides France Travail
 mission: >-
   Le service Pôle emploi qui permet aux personnes en insertion de trouver en 3
   clics les aides humaines, matérielles et financières pour faciliter leur
