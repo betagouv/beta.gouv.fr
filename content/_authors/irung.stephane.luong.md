@@ -9,9 +9,9 @@ missions:
     employer: Incubateur Pôle emploi
     startups:
       - travailler.en.france
-      - mes-aides-pole-emploi
+      - mes-aides-france-travail
 startups:
   - travailler.en.france
-  - mes-aides-pole-emploi
+  - mes-aides-france-travail
 memberType: beta
 ---
