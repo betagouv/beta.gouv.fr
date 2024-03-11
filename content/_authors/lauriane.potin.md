@@ -5,6 +5,7 @@ domaine: Animation
 missions:
   - start: 2024-03-04
     end: 2024-07-15
+    status: independent
     employer: Malt
     startups:
      - monprojetsup
