@@ -1,8 +1,5 @@
 ---
-mission: >-
-  Faciliter le processus de contrôle et surveillance des denrées alimentaires en
-  permettant la circulation et l'accès en temps réel d’une donnée de qualité
-  entre les différents acteurs.
+mission: Faciliter le processus de contrôle et surveillance des denrées alimentaires en permettant la circulation et l'accès en temps réel d'une donnée de qualité entre les différents acteurs.
 incubator: dinum
 title: PSPC
 contact: diane.cuzzucoli@agriculture.gouv.fr
@@ -17,9 +14,9 @@ phases:
 ---
 ## Contexte
 
-Chaque année, dans le cadre du dispositif de sécurisation sanitaire de la chaîne alimentaire, la direction générale de l’alimentation (DGAl), au sein du Ministère de l’Agriculture et de la Souveraineté Alimentaire pilote et coordonne un dispositif de plans de surveillance et de plans de contrôle (PSPC). Ces plans visent à surveiller/contrôler la contamination des productions primaires animales et végétales, des denrées alimentaires d’origine animale et de l’alimentation animale.
+Chaque année, dans le cadre du dispositif de sécurisation sanitaire de la chaîne alimentaire, la direction générale de l'alimentation (DGAl), au sein du Ministère de l'Agriculture et de la Souveraineté Alimentaire pilote et coordonne un dispositif de plans de surveillance et de plans de contrôle (PSPC). Ces plans visent à surveiller/contrôler la contamination des productions primaires animales et végétales, des denrées alimentaires d'origine animale et de l'alimentation animale.
 
-Le dispositif s’articule autour de 4 grandes phases prises en charge par différents acteurs : programmation, prélèvement sur le terrain, analyse au laboratoire et bilan/valorisation des données.
+Le dispositif s'articule autour de 4 grandes phases prises en charge par différents acteurs : programmation, prélèvement sur le terrain, analyse au laboratoire et bilan/valorisation des données.
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55be1749-efe3-4e7f-95a9-23d80e66071b/a1c87586-e2d3-4d70-949a-b320da6c69a7/Untitled.png)
 
@@ -32,10 +29,10 @@ Trois dimensions du dispositif sont impactées par les dysfonctionnements des sy
 - **les agents du BGIR **perdent 50% de leur temps à organiser la programmation et gérer les problèmes relatifs aux systèmes d'informations au détriment de l'analyse de risque. De plus, ils n'arrivent pas à récupérer des données fiables valorisables en bout de chaîne.
 
 L'équipe est en compensation maximum et cela met en danger le fonctionnement du dispositif.
-- **les services déconcentrés** n'ont pas les moyens de réaliser les prélèvements terrain de manière efficace. En outre, les délégataires qui constituent un nouveau type d’acteur dans le dispositif n'ont pas d'accès au système d'information en place.
+- **les services déconcentrés** n'ont pas les moyens de réaliser les prélèvements terrain de manière efficace. En outre, les délégataires qui constituent un nouveau type d'acteur dans le dispositif n'ont pas d'accès au système d'information en place.
 - **les laboratoires** perdent un temps majeur à paramétrer leurs SI pour pouvoir restituer leurs analyses via les Échanges de Données Informatisés (EDI) vers le SI actuel.
 
-Certains domaines du dispositif ne bénéficient que d’un système d’information à plat (excel) avec ce que cela entraine de manque d’efficience et de qualité des données.
+Certains domaines du dispositif ne bénéficient que d'un système d'information à plat (excel) avec ce que cela entraine de manque d'efficience et de qualité des données.
 
 ## Solution
 
