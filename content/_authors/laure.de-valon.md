@@ -12,4 +12,4 @@ missions:
 startups:
   - versementgetorix
 ---
-Designer de service, coach méthodologique et peintre
+Coach, Designer de service
