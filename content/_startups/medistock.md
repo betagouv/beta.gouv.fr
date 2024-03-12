@@ -1,6 +1,6 @@
 ---
 title: Médistock
-mission: >-
+mission:
   Améliorer le flux de gestion des stocks de médicaments pour éviter les ruptures
 incubator: dinum
 contact: elsa.le-duigou@beta.gouv.fr

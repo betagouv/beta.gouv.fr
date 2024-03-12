@@ -1,8 +1,6 @@
 ---
-title: Conseiller numérique
-mission: >-
-  Former et déployer des conseillers numériques pour accompagner les usagers
-  vers l'autonomie numérique.
+title: France Numérique Ensemble
+mission: Outiller l'ensemble des gestionnaires de la politique d'inclusion numérique.
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -11,7 +9,7 @@ phases:
     start: 2020-10-12
   - name: acceleration
     start: 2021-03-31
-link: https://www.conseiller-numerique.gouv.fr
+link: https://inclusion-numerique.anct.gouv.fr/
 repository: https://github.com/anct-cnum
 stats: false
 contact: conseiller-numerique@anct.gouv.fr
@@ -19,47 +17,34 @@ usertypes:
   - collectivite-territoriale
   - particulier
 accessibility_status: partiellement conforme
-stats_url: >-
-  https://metabase.conseiller-numerique.gouv.fr/public/dashboard/446208c4-cae2-4c0c-be19-44cb14ce7d06
 ---
 ## Contexte
 
 
 ### Le problème 
-13 millions de Françaises et de Français ont peu, voire pas du tout, de compétences numériques.
+La politique d'inclusion numérique est plurielle, riche de visions, d'acteurs et de dispositifs divers. Cette richesse induit un manque de lisibilité pour les bénéficiaires de cette politique publique et ne permet pas toujours une mise en cohérence des actions menées et des outils déployés.
 
 
 ### Notre solution 
-
-Financer la formation et le déploiement de **4000 conseillers numériques** au sein de structure publiques et privées pour accompagner les français dans leurs usages numériques.  
+Proposer un outillage cohérent à l'ensemble des gestionnaires de la politique d'inclusion numérique. Ce dernier leur permettra de structurer l'offre de médiation numérique au sein de chaque territoire et d'accéder à des données harmonisées. 
 
 
 ### Nos utilisateurs 
-
-**Conseillers numérique**
-
-Ses missions : 
-- Accompagner les usagers vers l’autonomie numérique.
-- Suivre son activité,pouvoir la montrer. 
-- S’outiller tout au long de sa mission
-
-**Le conseiller numérique Coordinateur**
-
-Ses missions 
-- Renforcer le maillage et les synergies territoriales
-- Être le relais principal des employeurs, des Conseillers numériques et de l’équipe d’animation nationale
-- Imaginer et mettre en place des collaborations sur la base des besoins de la communauté des Conseillers numériques
-- Les Conseillers numériques coordinateurs pourront s’ils le souhaitent exercer les missions suivantes à titre facultatif (liste non-exhaustive)
-
-
-
-**Les gestionnaires ** *(Structure employeuse, Préfectures, Hubs) *
-- Recruter des CnFS pour augmenter  l'offre de service sur leur territoire, les coordonner.
-- Adapter son offre de services en fonction des besoins usagers de son territoire
-- Rendre compte de l’activité/impact du dispositif
-
+- Pilotes nationaux de la politique d'inclusion numérique
+- Préfectures
+- Hubs territoriaux pour un numérique inclusif
+- Grands réseaux associatifs
+- Coordinateurs de conseiller numériques
+- Grand public (consultation de données publiques)
 
 ## Nos produits
+
+**Site France Numérique Ensemble**
+
+Permet la formation de gouvernances France Numérique Ensemble, la construction et le financement de leurs feuilles de route. 
+Donne à voir au grand public un ensemble de données de déploiement de la politiques d'inclusion numérique sur les territoires. 
+
+👉 https://inclusion-numerique.anct.gouv.fr/
 
 **Site vitrine**
 
@@ -73,17 +58,7 @@ Permet au gestionnaire de suivre et piloter l'activité des conseillers numériq
 
 👉https://pilotage.conseiller-numerique.gouv.fr/accueil
 
-**L'espace Coop**
-
-Permet au Conseiller numérique de valoriser et partager son activité ainsi que s'outiller tout au long de sa mission pour accompagner les usagers.
- 
-👉https://coop.conseiller-numerique.gouv.fr/login
-
-
 ### Chiffres clés du dispositif 
+**Près de 100 gouvernances France Numérique Ensemble** identifiées, engagées dans la construction de feuilles de routes territoriales de l'inclusion numérique
 
- **+2 900 structures mobilisés** sur le territoire
- 
- **4 000 conseillers numérique disponibles** pour accompagner vers l’autonomie dans l’usage du numérique
-
-**+2,7 millions d'accompagnements réalisés**
+ **4 000 conseillers numérique ayant réalisé près de 3 millions d'accompagnement** pour favoriser l’autonomie dans l’usage du numérique
