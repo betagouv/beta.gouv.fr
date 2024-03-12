@@ -20,6 +20,7 @@ link: https://rnb.beta.gouv.fr/
 budget_url: https://rnb-fr.gitbook.io/documentation/budget
 accessibility_status: partiellement conforme
 repository: https://github.com/fab-geocommuns/RNB-site
+dashlord_url: https://dashlord.incubateur.net/url/rnb-beta-gouv-fr/
 ---
 ## Problème
 
