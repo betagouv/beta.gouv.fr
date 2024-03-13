@@ -1,6 +1,6 @@
 ---
 fullname: Guillaume Levieux
-role: Responsable mission numérique DGALN, ex-intra Camino
+role: Responsable mission numérique DGALN
 domaine: Animation
 github: guillaumelevieux
 missions:
@@ -8,6 +8,8 @@ missions:
     end: 2025-01-15
     status: admin
     employer: MTE/DGALN
+    startups:
+        - vert.impact
 previously:
   - camino
 badges:
