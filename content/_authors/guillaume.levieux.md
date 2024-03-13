@@ -8,8 +8,8 @@ missions:
     end: 2025-01-15
     status: admin
     employer: MTE/DGALN
-startups:
-  - vert.impact
+    startups:
+        - vert.impact
 previously:
   - camino
 badges:
