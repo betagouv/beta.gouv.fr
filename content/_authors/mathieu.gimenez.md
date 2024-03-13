@@ -9,5 +9,7 @@ missions:
     status: admin
     employer: DGALN
 memberType: dinum
+teams:
+  - /teams/mtes
 ---
 
