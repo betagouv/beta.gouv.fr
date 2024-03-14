@@ -17,5 +17,8 @@ previously:
   - sante-psy-etudiant
   - jeveuxaider
   - api-engagement
+competences:
+  - UX
+  - Figma
 ---
 UX/UI Designer
