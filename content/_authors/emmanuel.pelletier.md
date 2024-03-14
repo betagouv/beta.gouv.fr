@@ -15,5 +15,10 @@ missions:
 startups:
   - suite-numerique
 memberType: dinum
+competences:
+  - Développement Frontend
+  - Accessibilité
+  - UI
+  - UX
 ---
-
+Mon animal totem : le canard en plastique sur le bureau.
