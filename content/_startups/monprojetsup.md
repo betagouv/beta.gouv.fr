@@ -6,8 +6,11 @@ contact: hugo.gimbert@beta.gouv.fr
 sponsors:
   - /organisations/mesr
 phases:
-  - name: investigation
-    start: 2023-11-07
+  - name: construction
+    start: 2024-03-11
+  - start: 2024-03-14
+    name: acceleration
+accessibility_status: non conforme
 ---
 ## Contexte
 
