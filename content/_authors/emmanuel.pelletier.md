@@ -11,6 +11,7 @@ missions:
     employer: Malt
     startups:
       - suite-numerique
+      - moncomptepro
 startups:
   - suite-numerique
 memberType: dinum
