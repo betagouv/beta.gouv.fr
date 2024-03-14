@@ -6,6 +6,13 @@ incubator: dinum
 title: Mes aides Réno
 contact: mael.inizan@beta.gouv.fr
 accessibility_status: non conforme
+link: https://mesaidesreno.beta.gouv.fr
+repository: https://github.com/incubateur-ademe/nosgestesclimat
+accessibility_status: partiellement conforme
+techno:
+    - Next.js
+    - React
+    - publi.codes
 sponsors:
   - /organisations/dinum
 phases:
