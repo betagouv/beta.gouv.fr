@@ -10,6 +10,8 @@ missions:
     status: independent
     employer: freelance
 incubator: mtes
+startups:
+  - vert.impact
 previously:
   - camino
   - conseiller-numerique
