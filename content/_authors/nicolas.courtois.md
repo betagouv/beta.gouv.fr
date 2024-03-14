@@ -11,6 +11,12 @@ missions:
     employer: DJEPVA
     startups:
       - snu
+  - start: 2024-03-14
+    end: 2024-12-14
+    status: independent
+    employer: ''
+    startups:
+      - monprojetsup
 startups:
   - snu
 previously:
