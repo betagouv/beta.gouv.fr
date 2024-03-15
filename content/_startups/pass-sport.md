@@ -11,7 +11,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-08-21
-  - start: 2024-03-15
+  - start: 2024-03-01
     name: construction
 accessibility_status: non conforme
 ---
