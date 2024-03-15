@@ -10,10 +10,9 @@ missions:
       - mediation.logement
 incubator: mtes
 competences:
-  - UX
   - Gestion de Produit
   - Coaching
-  - Communication
+  - Product design
 memberType: beta
 fullname: Louis Laroche
 role: Coach
