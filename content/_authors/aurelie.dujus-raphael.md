@@ -8,8 +8,9 @@ missions:
     status: admin
     employer: Caisse  des dépôts
     startups:
-      - conseiller-numerique
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 ---
+
 Chargée d'animation et du support de la communauté des conseillers numérique france service
