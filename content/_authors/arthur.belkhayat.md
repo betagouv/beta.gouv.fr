@@ -13,11 +13,12 @@ missions:
 startups:
   - cartographie.nationale
 previously:
-  - conseiller-numerique
+  - france-numerique-ensemble
 badges:
   - segur
 competences:
   - Développement Frontend
   - Développement Backend
 ---
+
 Développeur full stack

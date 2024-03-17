@@ -4,6 +4,8 @@ mission: Outiller l'ensemble des gestionnaires de la politique d'inclusion numé
 sponsors:
   - /organisations/anct
 incubator: anct
+redirect_from:
+  - /startups/conseiller-numerique
 phases:
   - name: construction
     start: 2020-10-12
