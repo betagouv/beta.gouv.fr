@@ -1,7 +1,7 @@
 ---
 fullname: Patrick LAMBRET
 domaine: Produit
-role: 'Spécialiste produit : PO, PM, coach'
+role: "Spécialiste produit : PO, PM, coach"
 github: patrick-produit
 link: https://www.linkedin.com/in/plambret/
 missions:
@@ -10,9 +10,11 @@ missions:
     status: independent
     employer: freelance
 incubator: mtes
+startups:
+  - vert.impact
 previously:
   - camino
-  - conseiller-numerique
+  - france-numerique-ensemble
   - mobilic
   - dora
   - data-inclusion
@@ -20,4 +22,5 @@ competences:
   - Gestion de Produit
   - Coaching
 ---
+
 J'aide les équipes à avoir un maximum d'impact en un minimum d'effort

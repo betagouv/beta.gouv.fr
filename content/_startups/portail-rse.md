@@ -5,7 +5,7 @@ sponsors:
   - /organisations/dge
 incubator: dinum
 link: https://portail-rse.beta.gouv.fr/
-repository: https://github.com/betagouv/impact
+repository: https://github.com/betagouv/portail-rse
 contact: contact@portail-rse.beta.gouv.fr
 dashlord_url: https://dashlord.incubateur.net/url/portail-rse-beta-gouv-fr/
 accessibility_status: non conforme

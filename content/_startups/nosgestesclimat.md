@@ -26,7 +26,7 @@ techno:
     - Next.js
     - React
     - TypeScript
-    - public.codes
+    - publi.codes
     - MongoDB
     - MDX
 usertypes:

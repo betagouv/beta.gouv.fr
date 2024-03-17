@@ -8,10 +8,16 @@ missions:
     end: 2022-05-13
     status: independent
     employer: Telescoop
+    startups:
+      - mon-suivi-justice
   - start: 2022-09-12
-    end: 2024-03-30
+    end: 2024-06-28
     status: independent
-    employer: Aides Jeunes
+    employer: Malt
+    startups:
+      - rdv-service-public
+      - demarches-simplifiees.fr
+      - mon-suivi-justice
 startups:
   - mon-suivi-justice
 previously:
@@ -20,5 +26,6 @@ competences:
   - Développement Backend
   - Développement Frontend
   - Gestion de Produit
+link: https://www.linkedin.com/in/damienlethiec/
 ---
 Artisan numérique et polymathe

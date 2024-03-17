@@ -1,6 +1,6 @@
 ---
-name: Ministère du Travail, de l'Emploi et de l'Insertion
-acronym: MTEI
+name: Ministère du Travail, de la Santé et des Solidarités
+acronym: MTSS
 domaine_ministeriel: travail
 type: administration-centrale
 ---

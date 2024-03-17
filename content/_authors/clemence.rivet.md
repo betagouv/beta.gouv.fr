@@ -8,8 +8,8 @@ missions:
     status: independent
     employer: DINUM
     startups:
-      - conseiller-numerique
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 memberType: beta
 ---

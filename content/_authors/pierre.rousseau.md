@@ -11,9 +11,11 @@ missions:
     startups:
       - benefriches
       - jafer
+      - precontentieux.justice
 startups:
   - benefriches
   - jafer
+  - precontentieux.justice
 badges:
   - segur
 competences:

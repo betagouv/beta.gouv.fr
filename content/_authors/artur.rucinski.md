@@ -5,7 +5,7 @@ domaine: Développement
 github: arturlg
 missions:
   - start: 2023-12-04
-    end: 2024-03-04
+    end: 2024-06-28
     status: service
     employer: LeGratin
     startups:
