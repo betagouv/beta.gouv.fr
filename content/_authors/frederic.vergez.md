@@ -18,5 +18,5 @@ missions:
     startups:
       - dora
 startups:
-  - itou
+  - dora
 ---
