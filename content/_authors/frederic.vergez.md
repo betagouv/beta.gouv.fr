@@ -12,7 +12,7 @@ missions:
     startups:
       - itou
   - start: 2023-10-23
-    end: 2024-09-24
+    end: 2024-12-31
     status: independent
     employer: Malt
     startups:
