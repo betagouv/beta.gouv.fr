@@ -12,7 +12,7 @@ menu:
   - Produit
 ---
 
-{% assign lang = page.lang | default: site.lang | default: "fr" %} {% include hero-page.html title=page.title light=true %}
+{% assign lang = page.lang | default: site.lang | default: "fr" %} {% include hero-page.html title=page.title light=true heroTitle=page.heroTitle %}
 <section class="cards fr-py-6w">
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
@@ -109,13 +109,13 @@ menu:
         <p class="fr-mb-0"><strong>Chaque équipe est autonome</strong> dans ses recrutements. Les conditions peuvent donc varier d’une mission à l’autre.</p>
       </div>
       <div class="fr-col-md-4 fr-col-sm-12 fr-text--sm fr-p-3w text-center">
-        <img src="/img/layouts/jobs/map.png" style="max-width: 80%" alt="" />
+        <img src="/img/layouts/jobs/map.png" style="max-width: 80%" alt="Carte de France de la répartition des membres. Beaucoup de membres en Île de France, et un peu partout en région." />
       </div>
       <div class="fr-col-md-4 fr-col-sm-12 fr-text--sm fr-p-3w">
         <div class="fr-p-2w fr-mb-2w fr-text--lead fr-text--bold" style="border: 1px solid var(--border-default-grey)">30% agents publics</div>
         <div class="fr-p-2w fr-mt-2w fr-mb-2w fr-text--lead fr-text--bold" style="border: 1px solid var(--border-default-grey)">60% indépendants</div>
         <div class="fr-p-2w fr-mt-2w fr-mb-2w fr-text--lead fr-text--bold" style="border: 1px solid var(--border-default-grey)">10% prestataires</div>
-        <a href="/communaute/">En savoir plus sur les différents statuts</a>
+        <a href="https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/les-differents-statuts" target="_blank" rel="noopener noreferrer">En savoir plus sur les différents statuts</a>
       </div>
     </div>
 
