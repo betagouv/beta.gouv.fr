@@ -7,7 +7,7 @@ title: Mes aides Réno
 contact: mael.inizan@beta.gouv.fr
 accessibility_status: non conforme
 link: https://mesaidesreno.beta.gouv.fr
-repository: https://github.com/incubateur-ademe/nosgestesclimat
+repository: https://github.com/betagouv/reno
 techno:
     - Next.js
     - React
