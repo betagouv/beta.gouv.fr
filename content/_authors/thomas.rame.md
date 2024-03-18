@@ -13,7 +13,7 @@ missions:
       - mediature
       - agents.en.intervention
   - start: 2023-05-15
-    end: 2024-04-17
+    end: 2024-10-17
     status: independent
     employer: Scopyleft
 previously:
