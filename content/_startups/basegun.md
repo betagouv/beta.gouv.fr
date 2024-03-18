@@ -4,7 +4,7 @@ mission: Identifier et classer instantanément une arme sur le terrain
 sponsors:
   - /organisations/interieur
 incubator: lab-mi
-link: https://basegun.fr/
+link: https://basegun.interieur.gouv.fr/
 repository: https://github.com/datalab-mi/Basegun
 contact: basegun@interieur.gouv.fr
 accessibility_status: non conforme
