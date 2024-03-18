@@ -17,11 +17,6 @@ missions:
     employer: Malt
     startups:
       - dora
-  - start: 2024-03-18
-    end: 2024-06-18
-    status: independent
-    employer: ''
-    startups: []
 startups:
-  - itou
+  - dora
 ---
