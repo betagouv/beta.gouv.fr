@@ -13,5 +13,8 @@ missions:
       - l-application-du-cej
 badges:
   - segur
+competences:
+  - Coaching
+  - Product strategy
 ---
 Entrepreneur associé
