@@ -7,7 +7,8 @@ github: ttdm
 missions:
   - start: 2024-03-18
     end: 2024-06-18
-    status: service
+    status: independent
+    employer: Malt
     startups:
       - mission-transition-ecologique
 startups:
