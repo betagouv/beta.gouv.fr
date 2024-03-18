@@ -2,7 +2,7 @@
 title: Potentiel
 mission: Faciliter le parcours des producteurs d'énergies renouvelables électriques
 sponsors:
-  - /organisations/mtes
+  - /organisations/mefsin
 incubator: mtes
 link: https://potentiel.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/potentiel
@@ -24,8 +24,6 @@ phases:
     start: 2022-01-01
 accessibility_status: non conforme
 ---
-
-
 #  Introduction - contexte
 
 L’Etat met en œuvre une politique volontariste de soutien au développement des énergies renouvelables (EnR) électriques sous forme d’appel d’offres.
