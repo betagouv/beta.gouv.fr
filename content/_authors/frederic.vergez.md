@@ -11,6 +11,17 @@ missions:
     employer: octo
     startups:
       - itou
+  - start: 2023-10-23
+    end: 2024-09-24
+    status: independent
+    employer: Malt
+    startups:
+      - dora
+  - start: 2024-03-18
+    end: 2024-06-18
+    status: independent
+    employer: ''
+    startups: []
 startups:
   - itou
 ---
