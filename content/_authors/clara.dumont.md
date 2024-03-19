@@ -1,6 +1,6 @@
 ---
 fullname: Clara Dumont
-role: 'Responsable produit '
+role: Product owner
 domaine: Déploiement
 link: https://www.linkedin.com/in/clara-dumont-964894121/
 missions:
