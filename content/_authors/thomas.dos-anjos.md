@@ -10,7 +10,6 @@ missions:
     employer: Malt
     startups:
       - dotations-locales
-      - reva
 startups:
   - dotations-locales
   - reva
