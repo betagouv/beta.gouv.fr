@@ -1,6 +1,7 @@
 ---
 layout: jobs
 permalink: /recrutement/
-title: Nos offres de missions
+title: Nous rejoindre
+heroTitle: Mettez vos compétences au service de l'intérêt général
 domaine: "all"
 ---
