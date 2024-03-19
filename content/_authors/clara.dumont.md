@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/clara-dumont-964894121/
 missions:
   - start: 2021-03-29
-    end: 2024-07-30
+    end: 2025-03-19
     status: independent
     employer: Malt
     startups:
