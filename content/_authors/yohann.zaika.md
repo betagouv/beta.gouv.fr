@@ -13,8 +13,7 @@ startups:
   - dossierfacile
 memberType: autre
 competences:
-  - UI
-  - UX
+  - concepteur designer ui
 ---
 
 Hello , je suis yohann et je suis concepteur designer ui.
