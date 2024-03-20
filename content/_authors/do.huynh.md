@@ -1,6 +1,5 @@
 ---
 fullname: Do  Huynh
-domaine: Produit
 role: ML engineer, data-analyst, data scientist
 domaine: Développement
 missions:
