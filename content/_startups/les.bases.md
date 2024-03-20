@@ -10,6 +10,7 @@ incubator: anct
 title: Les Bases
 contact: thibault.rouveyrol@beta.gouv.fr
 accessibility_status: partiellement conforme
+stats_url: https://lesbases.anct.gouv.fr/statistiques
 sponsors:
   - /organisations/anct
 phases:

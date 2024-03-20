@@ -8,16 +8,16 @@ missions:
     status: independent
     employer: ANCT
     startups:
-      - conseiller-numerique
+      - france-numerique-ensemble
       - cartographie.nationale
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
   - cartographie.nationale
 badges:
   - segur
 competences:
   - Communication
 previously:
-  - conseiller-numerique
+  - france-numerique-ensemble
   - cartographie.nationale
 ---
