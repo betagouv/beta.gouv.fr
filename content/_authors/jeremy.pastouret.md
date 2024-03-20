@@ -5,13 +5,14 @@ domaine: Développement
 github: jenovateurs
 missions:
   - start: 2024-03-20
-    end: 2024-05-20
+    end: 2024-06-19
     status: independent
-    employer: Malt
+    employer: ''
     startups:
       - aides.jeunes
 startups:
   - aides.jeunes
 memberType: beta
+link: https://www.linkedin.com/in/jeremy-pastouret/
 ---
 
