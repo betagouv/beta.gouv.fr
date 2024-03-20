@@ -13,5 +13,9 @@ missions:
 startups:
   - homologation
 memberType: beta
+competences:
+  - Product design
+  - UX
+  - UI
 ---
 
