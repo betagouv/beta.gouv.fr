@@ -5,12 +5,13 @@ domaine: Animation
 link: http://clcommunication.fr
 missions:
   - start: 2023-05-22
-    end: 2024-01-31
+    end: 2024-12-31
     status: independent
     employer: LBC
     startups:
       - themis
 startups:
+  - suite.territoriale
   - themis
 memberType: beta
 ---
