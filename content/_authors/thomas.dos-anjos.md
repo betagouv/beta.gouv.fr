@@ -12,7 +12,6 @@ missions:
       - dotations-locales
 startups:
   - dotations-locales
-  - reva
 badges:
   - segur
 ---
