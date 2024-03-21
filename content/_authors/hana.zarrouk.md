@@ -1,5 +1,5 @@
 ---
-fullname: Hana Zarrouk
+fullname: Hana ZARROUK
 role: Product designer
 domaine: Design
 link: https://hanazarrouk.com/
