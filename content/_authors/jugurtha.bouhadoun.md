@@ -5,8 +5,13 @@ domaine: Développement
 github : jbouhadoun
 missions:
   - start: 2024-03-19
-    end: 2024-08-01
+    end: 2024-12-31
     status: admin
+    employer: IGN
+    startups:
+      - ban
+startups:
+  - ban 
 memberType: beta
 ---
 
