@@ -87,7 +87,39 @@ class RenderCommunityStatsTag < Liquid::Tag
     end
   end
 end
+
+
+class RenderStartupsStatsTag < Liquid::Tag
+
+  def initialize(tag_name, input, tokens)
+    super
+    @input = input
+  end
+
+  def render(context)
+    result = {
+      'total' => 0
+    }
+    startups = context.registers[:site].collections['startups']
+    startups.docs.each do |startup|
+      phases = startup.phases.map { |phase| phase["name"] }
+      if not phases.include?("alumni")
+        result['total'] = result['total'] + 1
+      end
+    end
+
+    if ( !@input.nil? && !@input.empty? )
+      key = @input.strip
+      return result[key]
+    else
+      return result.to_json
+    end
+  end
 end
+
+end
+
 
 Liquid::Template.register_filter(Jekyll::CommunityFilter)
 Liquid::Template.register_tag('render_community_stats', Jekyll::RenderCommunityStatsTag)
+Liquid::Template.register_tag('render_startups_stats', Jekyll::RenderStartupsStatsTag)
