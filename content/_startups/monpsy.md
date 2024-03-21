@@ -5,9 +5,10 @@ sponsors:
   - /organisations/solidarite-sante
   - /organisations/cnam
 incubator: sgmas
-link: https://monpsy.sante.gouv.fr/
+link: >-
+  https://www.ameli.fr/assure/remboursements/rembourse/remboursement-seance-psychologue-mon-soutien-psy
 repository: https://github.com/SocialGouv/mon-psy-sante
-contact: monpsysante@fabrique.social.gouv.fr
+contact: beatrice.maine@assurance-maladie.fr
 stats: true
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/monpsy-sante-gouv-fr
 accessibility_status: partiellement conforme
@@ -17,7 +18,6 @@ phases:
     end: 2023-01-12
   - name: success
     start: 2023-01-12
-stats_url: https://monpsy.sante.gouv.fr//stats
 ---
 ## Le contexte
 
