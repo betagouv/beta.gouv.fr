@@ -42,5 +42,7 @@ La plateforme Mon soutien psy permet en quelques clics :
 - à tous les psychologues volontaires et de candidater pour intégrer le dispositif ;
 - et aux patients d’identifier un psychologue proche de chez eux sur l'annuaire géolocalisé.
 
-## Pérénisation de Mon soutien psy
-Après une incubation d'environ 2 ans au sein de la Fabrique Numérique, le produit Mon soutien psy a été transféré à la CNAM et intégré au site Ameli.fr le 15 janvier 2024. 
+## Le devenir de Mon soutien psy
+
+Après son lancement et deux ans d'incubation au sein de la Fabrique Numérique des Ministères Sociaux, le service Mon soutien psy a été transféré à la CNAM. Le site est  accessible via Ameli.fr depuis le 15 janvier 2024.
+
