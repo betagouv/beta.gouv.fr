@@ -1,6 +1,6 @@
 ---
-fullname: Intrapreneur CCA
-role: Intrapreneur CCA
+fullname: Carine Temp
+role: Intrapreneur
 domaine: Produit
 missions:
   - start: 2024-03-18
