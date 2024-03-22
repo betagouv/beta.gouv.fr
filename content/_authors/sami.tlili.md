@@ -2,7 +2,7 @@
 domaine: Développement
 fullname: Sami TLILI
 role: Développement
-github: Mysa33
+github: SamiTliliDNUM
 missions:
   - start: 2024-03-22
     end: 2025-01-01
