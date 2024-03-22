@@ -12,7 +12,7 @@ menu:
   - Produit
 ---
 
-{% assign lang = page.lang | default: site.lang | default: "fr" %} {% include hero-page.html title=page.title light=true heroTitle=page.heroTitle %}
+{% assign startups_count = site.startups | count_all_active_startups %} {% assign lang = page.lang | default: site.lang | default: "fr" %} {% include hero-page.html title=page.title light=true heroTitle=page.heroTitle %}
 <section class="cards fr-py-6w">
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
@@ -25,7 +25,7 @@ menu:
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
       <div class="fr-col-md-3 fr-col-sm-3 text-center">
         <img src="/img/layouts/jobs/world.svg" style="width: 64px" alt="" /><br />
-        <strong>{% render_startups_stats total %} équipes</strong><br />dédiées chacune<br />à leur produit
+        <strong>{{ startups_count }} équipes</strong><br />dédiées chacune<br />à leur produit
       </div>
       <div class="fr-col-md-3 fr-col-sm-3 text-center">
         <img src="/img/layouts/jobs/member.svg" style="width: 64px" alt="" /><br />
