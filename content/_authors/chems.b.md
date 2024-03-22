@@ -7,8 +7,9 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Malt
+    startups:
+      - place-de-marche-inclusion
 startups:
   - place-de-marche-inclusion
 memberType: beta
 ---
-

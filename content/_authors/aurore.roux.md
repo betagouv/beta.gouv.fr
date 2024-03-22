@@ -7,8 +7,9 @@ missions:
     end: 2023-12-31
     status: admin
     employer: Ademe
+    startups:
+      - la.bonne.renov
 startups:
   - la.bonne.renov
 memberType: beta
 ---
-

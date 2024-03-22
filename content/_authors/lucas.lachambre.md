@@ -6,6 +6,8 @@ missions:
   - start: 2023-08-21
     end: 2023-12-31
     status: admin
+    startups:
+      - pass-sport
 startups:
   - pass-sport
 memberType: beta

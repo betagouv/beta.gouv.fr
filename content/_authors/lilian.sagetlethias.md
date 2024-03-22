@@ -32,7 +32,7 @@ missions:
   - start: 2023-11-06
     end: 2024-11-06
     status: independent
-    employer: ADEME
+    employer: LaZone/Pathtech (ADEME)
 incubator: ademe
 teams:
   - /teams/ademe
@@ -41,12 +41,8 @@ previously:
   - egalite.professionnelle
   - maison.de.lautisme
 competences:
-  - "Coaching"
-  - "Développement Frontend"
-  - "Développement Backend"
+  - Coaching
+  - Développement Frontend
+  - Développement Backend
 ---
-
-CTO Incubateur de l'ADEME | <br/>
-ex-Coach Tech Incubateur @SocialGouv | <br/>
-ex-CTO @Simbel | <br/>
-[Paris Deno](https://deno.paris) organizer
+CTO Incubateur de l'ADEME | <br/> ex-Coach Tech Incubateur @SocialGouv | <br/> ex-CTO @Simbel | <br/> [Paris Deno](https://deno.paris) organizer

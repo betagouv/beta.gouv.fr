@@ -9,4 +9,3 @@ missions:
     employer: Ministère de la Culture
 memberType: autre
 ---
-

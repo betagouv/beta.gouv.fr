@@ -16,5 +16,3 @@ startups:
 badges:
   - segur
 ---
-
-

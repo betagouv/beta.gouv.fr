@@ -7,6 +7,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: NUMA
+    startups:
+      - monitorfish
+      - rapportnav
 badges:
   - segur
 startups:
@@ -16,5 +19,5 @@ previously:
   - prev-ac-tion
   - jaden.gwadloup
   - acceslibre
+link: https://www.linkedin.com/in/alexia-boulot-5711002
 ---
-null

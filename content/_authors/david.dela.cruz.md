@@ -8,6 +8,8 @@ missions:
     end: 2025-02-01
     status: independent
     employer: ''
+    startups:
+      - boite.aux.lettres
 startups:
   - boite.aux.lettres
 memberType: beta

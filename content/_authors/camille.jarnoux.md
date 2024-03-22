@@ -9,5 +9,4 @@ missions:
     employer: LBC
 memberType: beta
 ---
-
 Chargée de déploiement

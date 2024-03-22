@@ -7,7 +7,7 @@ missions:
     end: 2015-03-30
     status: service
     employer: octo
-startups:
+startups: null
 previously:
   - mdph
 ---

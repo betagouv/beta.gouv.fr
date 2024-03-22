@@ -9,6 +9,8 @@ missions:
     end: 2022-01-15
     status: independent
     employer: UT7
+    startups:
+      - catalogue-apprentissage
 startups:
   - catalogue-apprentissage
 competences:

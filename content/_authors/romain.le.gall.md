@@ -7,10 +7,9 @@ missions:
     end: 2023-12-31
     status: service
     employer: Numéricité
+    startups:
+      - enfants-du-spectacle
 startups:
   - enfants-du-spectacle
 memberType: autre
-
 ---
-
-

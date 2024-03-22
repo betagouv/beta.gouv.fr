@@ -7,6 +7,8 @@ missions:
     end: 2024-06-28
     status: independent
     employer: ''
+    startups:
+      - sndv_maritime
 incubator: ''
 startups:
   - sndv_maritime

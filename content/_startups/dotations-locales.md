@@ -14,6 +14,8 @@ phases:
     end: 2022-07-01
   - start: 2022-07-01
     name: acceleration
+  - start: 2024-01-01
+    name: alumni
 usertypes:
   - collectivite-territoriale
 accessibility_status: non conforme

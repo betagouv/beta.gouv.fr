@@ -8,10 +8,12 @@ missions:
   - start: 2021-10-19
     end: 2022-01-19
     status: admin
+    startups:
+      - mesads
+      - le-taxi
 startups:
   - mesads
   - le-taxi
 badges:
   - segur
 ---
-

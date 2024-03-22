@@ -8,6 +8,13 @@ missions:
     end: 2022-04-30
     status: admin
     employer: minarm
+    startups:
+      - e-chauffeur
+      - anais
+      - sepia
+      - metiis
+      - stargate
+      - cassiopee
 startups:
   - e-chauffeur
   - anais

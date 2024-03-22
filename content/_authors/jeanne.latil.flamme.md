@@ -8,8 +8,9 @@ missions:
     end: 2024-04-29
     status: independent
     employer: ''
+    startups:
+      - nosgestesclimat
 startups:
   - nosgestesclimat
 memberType: beta
 ---
-

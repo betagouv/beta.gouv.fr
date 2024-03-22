@@ -7,10 +7,11 @@ missions:
     end: 2023-12-31
     status: admin
     employer: ''
+    startups:
+      - themis
 startups:
   - themis
 badges:
   - segur
 ---
-
-À 100 à l'heure toute l'année! 
+À 100 à l'heure toute l'année!

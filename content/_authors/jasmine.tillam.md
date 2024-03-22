@@ -7,8 +7,9 @@ missions:
     end: 2022-05-20
     status: admin
     employer: Atelier numérique culture
+    startups:
+      - collectif_objets
 startups:
   - collectif_objets
 ---
-
-"Stagiaire Collectif Objets"
+Stagiaire Collectif Objets

@@ -7,6 +7,8 @@ missions:
     end: 2025-12-31
     status: admin
     employer: GIP Plateforme de l'inclusion
+    startups:
+      - la.communaute.de.linclusion
 teams:
   - /teams/gip-inclusion
 startups:

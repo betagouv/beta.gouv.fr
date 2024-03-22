@@ -8,7 +8,8 @@ missions:
     end: 2024-12-31
     status: independent
     employer: DINUM
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
 ---
-''

@@ -7,11 +7,9 @@ missions:
     end: 2024-07-31
     status: independent
     employer: Octo
+    startups:
+      - potentiel
 startups:
   - potentiel
 ---
-
-
-Software/Coach Craftsman
-TDD, BDD et retrogaming addict
-
+Software/Coach Craftsman TDD, BDD et retrogaming addict

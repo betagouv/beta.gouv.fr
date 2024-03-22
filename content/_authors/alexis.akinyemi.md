@@ -9,6 +9,10 @@ missions:
     end: 2024-05-30
     status: service
     employer: AD-HOC Lab
+    startups:
+      - diagoriente
+      - la-bonne-alternance
+      - exposition-ij
 startups:
   - diagoriente
   - la-bonne-alternance
@@ -16,5 +20,4 @@ startups:
 previously:
   - eva
 ---
-
 Ethique/Méthode/Réfutabilité

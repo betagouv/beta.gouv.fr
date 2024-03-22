@@ -9,8 +9,9 @@ missions:
     end: 2025-01-31
     status: independent
     employer: Selego
+    startups:
+      - api-engagement
 startups:
   - api-engagement
 ---
-
 Développeur passionné le jour, breton passionné la nuit. Une vie plein de passion de manière générale

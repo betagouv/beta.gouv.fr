@@ -8,9 +8,10 @@ missions:
     end: 2024-08-30
     status: admin
     employer: MIOM
+    startups:
+      - basegun
 startups:
   - basegun
 memberType: beta
 ---
-
 ekipafond

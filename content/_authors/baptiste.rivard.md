@@ -9,5 +9,4 @@ missions:
     employer: DINUM
 github: sapeurponpier
 ---
-
 Étudiant

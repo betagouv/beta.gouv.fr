@@ -9,9 +9,10 @@ missions:
     end: 2024-06-29
     status: service
     employer: Malt
+    startups:
+      - dialogue
 startups:
   - dialogue
 memberType: beta
 ---
-
-Outilleur #opensource #opendata
+Outilleur

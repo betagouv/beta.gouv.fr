@@ -10,5 +10,4 @@ missions:
     employer: DINUM
 memberType: autre
 ---
-
-Infatigable à temps plein : UX designer, CSM support, j'aime comprendre et analyser. 
+Infatigable à temps plein: UX designer, CSM support, j'aime comprendre et analyser.

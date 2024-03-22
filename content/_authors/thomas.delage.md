@@ -7,8 +7,9 @@ missions:
     end: 2024-07-31
     status: independent
     employer: Octo
+    startups:
+      - snu
 startups:
   - snu
 memberType: beta
 ---
-

@@ -10,5 +10,4 @@ missions:
 badges:
   - segur
 ---
-
 Intrapreneuse à la Cours de Comptes. Auditrice chargée de mission auprès du Premier président

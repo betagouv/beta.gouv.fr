@@ -9,9 +9,13 @@ missions:
     end: 2024-05-09
     status: independent
     employer: ''
+    startups:
+      - transition-ecologique-des-entreprises
 startups:
   - transition-ecologique-des-entreprises
 memberType: beta
+competences:
+  - Développement Full-stack
+  - DevOps
 ---
-
 Développeur Full-stack  DevOps

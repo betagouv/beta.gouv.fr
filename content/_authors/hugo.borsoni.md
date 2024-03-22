@@ -8,9 +8,10 @@ missions:
     end: 2023-07-06
     status: independent
     employer: ''
+    startups:
+      - envergo
 startups:
   - envergo
 memberType: autre
 ---
-
 Etudiant en dernière année @ CentraleSupélec

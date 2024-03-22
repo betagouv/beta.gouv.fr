@@ -7,6 +7,9 @@ missions:
     end: 2019-10-30
     employer: dinum
     status: admin
+    startups:
+      - mdph
+      - bourse
 startups:
   - mdph
   - bourse
@@ -15,5 +18,4 @@ previously:
   - boussole
   - jeveuxaider
 ---
-
 Résiliente et engagée.

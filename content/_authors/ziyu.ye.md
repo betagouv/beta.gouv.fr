@@ -10,5 +10,4 @@ missions:
     employer: Octo
 memberType: beta
 ---
-
 Développeur Mobile

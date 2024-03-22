@@ -8,9 +8,10 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Numa
+    startups:
+      - snu
 startups:
   - snu
 memberType: beta
 ---
-
 Coach Produit passionnée de product management, design thinking et intelligence collective, et co-fondatrice d'une association de découverte de la tech pour les filles

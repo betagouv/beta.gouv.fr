@@ -7,8 +7,9 @@ missions:
     end: 2024-04-15
     status: service
     employer: SHODO
+    startups:
+      - signaux-faibles
 startups:
   - signaux-faibles
 domaine: Développement
 ---
-

@@ -11,5 +11,4 @@ missions:
 teams:
   - /teams/gip-inclusion
 ---
-
 Développeur chez /ut7

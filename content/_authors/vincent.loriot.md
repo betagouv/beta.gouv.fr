@@ -7,6 +7,8 @@ missions:
     end: 2023-12-31
     status: admin
     employer: ANSSI
+    startups:
+      - homologation
 startups:
   - homologation
 badges:

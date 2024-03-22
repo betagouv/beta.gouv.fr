@@ -6,8 +6,10 @@ missions:
   - start: 2022-06-13
     end: 2024-06-13
     status: independent
+    startups:
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 competences:
   - Administration Publique
 ---

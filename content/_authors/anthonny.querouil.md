@@ -9,8 +9,9 @@ missions:
     end: 2023-07-01
     status: independent
     employer: BENEXT
+    startups:
+      - reva
 startups:
   - reva
 ---
-
 Développeur freelance, motard et de temps en temps je dessine

@@ -10,6 +10,8 @@ missions:
     end: 2024-04-22
     status: independent
     employer: lazone
+    startups:
+      - umap
 startups:
   - umap
 previously:
@@ -18,5 +20,4 @@ previously:
   - zam
   - visam
 ---
-
 Artisan, geek et citoyen.

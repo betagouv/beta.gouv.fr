@@ -8,8 +8,9 @@ missions:
     end: 2024-06-17
     status: independent
     employer: ''
+    startups:
+      - sparte
 startups:
   - sparte
 memberType: beta
 ---
-

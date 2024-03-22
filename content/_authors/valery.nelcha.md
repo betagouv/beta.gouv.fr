@@ -7,8 +7,9 @@ missions:
     end: 2018-06-15
     status: admin
     employer: Ministère de la Culture
+    startups:
+      - eac
 startups:
-    - eac
+  - eac
 ---
-
 Coordinatrice, intrapreneuse, membre de l'équipe produit sur la plateforme pour l'éducation artistique et culturelle.

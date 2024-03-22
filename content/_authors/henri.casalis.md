@@ -7,9 +7,9 @@ missions:
     end: 2024-04-29
     status: independent
     employer: DINUM
+    startups:
+      - homologation
 startups:
   - homologation
 ---
-
-
 Passionné d'expérience client le jour, pince sans rire la nuit

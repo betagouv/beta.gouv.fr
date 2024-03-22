@@ -18,6 +18,8 @@ mapping:
             - /organisations/anah
             - /organisations/anct
             - /organisations/ans
+            - /organisations/ansm
+            - /organisations/anlci
             - /organisations/anssi
             - /organisations/armees
             - /organisations/ars-franche-comte
@@ -32,6 +34,7 @@ mapping:
             - /organisations/cnav
             - /organisations/cnsa
             - /organisations/cstb
+            - /organisations/csm
             - /organisations/ddd
             - /organisations/ddtm34
             - /organisations/ddtm29
@@ -44,6 +47,7 @@ mapping:
             - /organisations/dgafp
             - /organisations/dgal
             - /organisations/dgaln
+            - /organisations/dgampa
             - /organisations/dgca
             - /organisations/dgccrf
             - /organisations/dgcs
@@ -84,6 +88,7 @@ mapping:
             - /organisations/mctrct
             - /organisations/meae
             - /organisations/mefr
+            - /organisations/mefsin
             - /organisations/menjs
             - /organisations/mesr
             - /organisations/mj
@@ -92,6 +97,7 @@ mapping:
             - /organisations/mtfp
             - /organisations/msjop
             - /organisations/nouvelle-caledonie
+            - /organisations/ofpra
             - /organisations/pole-emploi
             - /organisations/sgdsn
             - /organisations/sgpe

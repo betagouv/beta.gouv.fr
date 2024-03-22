@@ -8,9 +8,8 @@ missions:
     end: 2017-08-30
     status: service
     employer: octo
-startups:
+startups: null
 previously:
   - mpal
 ---
-
 Dév junior ultra motivée !

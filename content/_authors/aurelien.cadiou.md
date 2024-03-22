@@ -8,9 +8,11 @@ missions:
     end: 2024-06-19
     status: independent
     employer: pathtech
+    startups:
+      - transport
+      - mediation.logement
 startups:
   - transport
   - mediation.logement
 memberType: beta
 ---
-

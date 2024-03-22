@@ -2,7 +2,7 @@
 title: RapportNav
 mission: Rédiger simplement les compte-rendus de missions des affaires maritimes
 sponsors:
-  - /organisations/dgitm
+  - /organisations/dgampa
 incubator: mtes
 contact: camille.nguyen@mer.gouv.fr
 accessibility_status: non conforme
@@ -13,7 +13,6 @@ phases:
     end: 2022-08-16
   - name: construction
     start: 2022-08-16
-    end: 
 ---
 ## Contexte
 Le Dispositif de Contrôle et de Surveillance (DCS) des Affaires Maritimes englobe l’ensemble des moyens des Affaires Maritimes dédiés aux contrôles des pêches, de l’environnement marin, du travail et de la navigation maritime.
@@ -32,7 +31,8 @@ Nous listons plusieurs problèmes:
 ## Solution
 
 RapportNav est initialement une application de rédaction de rapport qui vise à remplacer la multiplicité des outils et formats de rapport par un unique compte-rendu de mission. L'ensemble des statistiques en sont ensuite extraites. 
-Nous souhaitons refondre l'expérience utilisateur du RapportNav existant afin d'optimiser son usage par les unités terrain, et ainsi la qualité des données saisies. L'engagement des bureaux de la DGAMPA dans l'analyse de ces données permettra d'améliorer les orientations et la coordination des actions des unités sur le terrain, et de maximiser leur impact auprès des citoyens. 
+Nous souhaitons refondre l'expérience utilisateur du RapportNav existant afin d'optimiser son usage par les unités terrain, et ainsi la qualité des données saisies. 
+L'engagement des bureaux de la DGAMPA dans l'analyse de ces données permettra d'améliorer les orientations et la coordination des actions des unités sur le terrain, et de maximiser leur impact auprès des citoyens. 
 Les périmètres où nous souhaitons améliorer l’impact de l’action de l'État : la pêche, la protection de l’environnement marin, les conditions de travail des gens de mer, la navigation maritime, la sécurité des navires. 
 
 
@@ -66,3 +66,9 @@ Les futurs développements doivent permettre :
 
 Ces futurs développements s’inscrivent dans le cadre d’un changement de procédure pour les unités terrain.
 
+## Indicateurs de suivi 
+ Les indicateurs de suivi de RapportNav sont accessibles sur ce lien: https://docs.google.com/presentation/d/1sst8PmVTOgs6xGJBa3F71Y1xnWMPCK_Mo0kg9mYLt4I/edit?usp=sharing
+
+## Budget
+
+enveloppe de 480k€, répartis entre 2 bureaux de la DGAMPA (SNC3 et BSIPA)

@@ -6,7 +6,8 @@ missions:
   - start: 2022-02-01
     end: 2022-06-30
     status: independent
+    startups:
+      - urbanvitaliz
 startups:
   - urbanvitaliz
 ---
-

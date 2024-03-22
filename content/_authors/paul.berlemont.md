@@ -1,14 +1,16 @@
 ---
-fullname: Paul  Berlemont 
-role: Chargé de déploiement 
+fullname: Paul  Berlemont
+role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2021-01-04
     end: 2021-03-31
     status: admin
-    employer: Ministère de la Transition écologique 
+    employer: Ministère de la Transition écologique
+    startups:
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 badges:
   - segur
 ---

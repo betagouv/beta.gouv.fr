@@ -9,10 +9,13 @@ missions:
     end: 2025-06-20
     status: independent
     employer: Malt
+    startups:
+      - infrastructures.numeriques
+      - fonds.de.plans
 startups:
   - infrastructures.numeriques
+  - fonds.de.plans
 badges:
   - segur
 ---
-
 Product designer passionné

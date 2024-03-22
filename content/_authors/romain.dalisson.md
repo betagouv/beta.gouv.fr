@@ -10,5 +10,6 @@ missions:
     end: 2023-04-30
     status: admin
     employer: DGDDI
+    startups:
+      - delta.v
 ---
-

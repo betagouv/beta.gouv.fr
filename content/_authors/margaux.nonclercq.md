@@ -8,8 +8,10 @@ missions:
     status: service
     employer: Octo
   - start: 2023-01-15
-    end: 2023-05-30
+    end: 2024-12-31
     status: service
+startups:
+  - france.nation.verte.agir
 previously:
   - chauffage-urbain
   - enfants-du-spectacle

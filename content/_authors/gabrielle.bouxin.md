@@ -1,7 +1,7 @@
 ---
 fullname: Gabrielle (Bouxin) de Lassus
 domaine: Produit
-role: Product Owner SNU
+role: Head of Product
 link: https://www.linkedin.com/in/gabrielle-de-lassus-286410a3/
 github: Gabrielle-Bxn
 missions:
@@ -9,6 +9,8 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ''
+    startups:
+      - snu
 startups:
   - snu
 previously:

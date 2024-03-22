@@ -7,9 +7,10 @@ missions:
     end: 2024-03-15
     status: admin
     employer: DGE
+    startups:
+      - portail-rse
 startups:
-  - portail.rse
+  - portail-rse
 memberType: beta
 ---
-
 Stagiaire

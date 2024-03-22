@@ -10,4 +10,3 @@ missions:
     employer: Opteamis
 memberType: beta
 ---
-

@@ -7,9 +7,10 @@ missions:
     end: 2024-12-20
     status: admin
     employer: POLE EMPLOI
+    startups:
+      - estime.formation
 memberType: beta
 startups:
   - estime.formation
 ---
-
 Product Manager junior

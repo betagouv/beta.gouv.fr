@@ -8,6 +8,8 @@ missions:
     end: 2022-04-30
     status: admin
     employer: DGITM
+    startups:
+      - preuve-de-covoiturage
 startups:
   - preuve-de-covoiturage
 badges:

@@ -9,11 +9,13 @@ missions:
     end: 2024-06-01
     status: independent
     employer: Omnicité
+    startups:
+      - signalement
+      - reva
 startups:
   - signalement
   - reva
 badges:
   - segur
 ---
-
-Coach agile : passionné par les produits, la tech, la data, les gens...
+Coach agile: passionné par les produits, la tech, la data, les gens

@@ -9,6 +9,7 @@ link: https://conseil-refondation.fr/
 repository: https://github.com/betagouv/CNR
 contact: cnr@beta.gouv.fr
 stats: true
+stats_url: https://data.conseil-refondation.fr/public/dashboard/774242e4-290d-42a3-a444-ff0ce8c9b671
 accessibility_status: partiellement conforme
 phases:
   - name: construction

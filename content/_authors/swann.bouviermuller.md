@@ -8,8 +8,9 @@ missions:
     end: 2024-06-30
     status: independent
     employer: LBC
+    startups:
+      - sparte
 startups:
   - sparte
 ---
-
 Développeur Django sénior

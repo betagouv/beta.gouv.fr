@@ -7,5 +7,8 @@ missions:
     end: 2021-01-15
     status: admin
     employer: Ministère de l'Europe et des Affaires étrangères.
+    startups:
+      - rdv.consulat
+startups:
+  - rdv.consulat
 ---
-

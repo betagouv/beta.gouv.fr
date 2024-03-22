@@ -1,6 +1,6 @@
 ---
 fullname: Clara Dumont
-role: Responsable produit - Chargée de déploiement
+role: Product owner
 domaine: Déploiement
 link: https://www.linkedin.com/in/clara-dumont-964894121/
 missions:
@@ -8,10 +8,12 @@ missions:
     end: 2024-07-30
     status: independent
     employer: Malt
+    startups:
+      - mon-suivi-social
 startups:
   - mon-suivi-social
 previously:
-  - locatio
+  - dossierfacile
 ---
 
 Entrepreneure, photographe, engagée dans les enjeux de l'ESS et les questions d'innovation sociale, je n'ai qu'une tête mais de multiples casquettes !

@@ -7,6 +7,8 @@ missions:
     end: 2021-06-30
     status: admin
     employer: Ministère de la Transition Ecologique et Solidaire
+    startups:
+      - filharmonic
 startups:
   - filharmonic
 ---

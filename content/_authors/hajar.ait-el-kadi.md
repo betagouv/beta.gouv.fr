@@ -8,11 +8,11 @@ missions:
     end: 2024-06-29
     status: service
     employer: Octo
+    startups:
+      - annuaire-entreprises
 startups:
   - annuaire-entreprises
 previously:
   - openfisca
 ---
-
-
 Data and Python lover

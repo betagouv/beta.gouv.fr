@@ -8,9 +8,8 @@ missions:
     end: 2018-03-02
     employer: dinum
     status: admin
-startups:
+startups: null
 previously:
   - open-academie
 ---
-
 J'aime réduire les irritants.

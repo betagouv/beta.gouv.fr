@@ -1,7 +1,7 @@
 ---
 fullname: Ronan James
 domaine: Déploiement
-role: "Responsable de déploiement "
+role: 'Responsable de déploiement '
 github: ronanjames
 missions:
   - start: 2021-01-25
@@ -14,7 +14,6 @@ missions:
     end: 2022-08-30
 previously:
   - carnet.de.bord
-
 badges:
   - segur
 competences:

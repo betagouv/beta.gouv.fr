@@ -7,9 +7,9 @@ missions:
     end: 2024-05-30
     status: independent
     employer: ''
+    startups:
+      - oilhi
 startups:
   - oilhi
 ---
-
-
 Développeur No-Code, Growth

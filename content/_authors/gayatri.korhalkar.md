@@ -2,7 +2,7 @@
 fullname: Gayatri Korhalkar
 role: Coach
 domaine: Coaching
-link : https://www.linkedin.com/in/gayatri-korhalkar-4796164/
+link: https://www.linkedin.com/in/gayatri-korhalkar-4796164/
 missions:
   - start: 2021-01-11
     end: 2021-06-11
@@ -15,7 +15,7 @@ missions:
   - start: 2023-11-22
     end: 2024-11-22
     status: independent
-    employer: 
+    employer: null
 startups:
   - tout-est-permis
   - inventaireoeuvres
@@ -23,5 +23,4 @@ startups:
 badges:
   - segur
 ---
-
-Une designer entreprenante 
+Une designer entreprenante

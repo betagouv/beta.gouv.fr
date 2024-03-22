@@ -20,7 +20,7 @@ missions:
     end: 2021-11-30
     status: independent
   - start: 2021-12-01
-    end: 2024-04-01
+    end: 2024-06-01
     status: independent
     employer: Codeurs en Liberté
 startups:
@@ -31,7 +31,7 @@ previously:
   - data-inclusion
   - mes-aides
   - voir-et-localiser
-  - data.insertion
+  - rdv.insertion
   - rdv-service-public
 badges:
   - segur

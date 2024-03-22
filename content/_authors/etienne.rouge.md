@@ -1,6 +1,6 @@
 ---
 fullname: Etienne Rouge
-role: Développeur 
+role: Développeur
 domaine: Développement
 github: tumulte
 missions:
@@ -16,7 +16,5 @@ startups:
   - aplus
 previously:
   - aides.jeunes
-github: tumulte
 ---
-
 Developpeur Front-end (plutôt vuejs), fan de musique, jeux de sociétés, de jeux de mots douteux et autres

@@ -7,8 +7,10 @@ missions:
     end: 2022-09-15
     status: independent
     employer: Octo
+    startups:
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 ---
 
 14 ans d'expérience en tant que Data Analyst et entrepreneur enthousiaste.

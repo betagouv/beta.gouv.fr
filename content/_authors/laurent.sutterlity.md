@@ -9,8 +9,9 @@ missions:
     end: 2024-04-18
     status: independent
     employer: Octo
+    startups:
+      - egalite.professionnelle
 startups:
   - egalite.professionnelle
 ---
-
 Développeur front-end & Product designer.

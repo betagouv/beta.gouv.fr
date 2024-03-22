@@ -8,8 +8,8 @@ missions:
     end: 2024-07-17
     status: independent
     employer: ''
+    startups:
+      - place-des-entreprises
 startups:
   - place-des-entreprises
 ---
-
-

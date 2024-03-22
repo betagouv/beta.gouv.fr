@@ -8,8 +8,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ''
+    startups:
+      - trackdechets
 startups:
   - trackdechets
 ---
-
 Développeur front-end

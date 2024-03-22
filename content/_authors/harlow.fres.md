@@ -8,8 +8,10 @@ missions:
     end: 2022-06-30
     status: independent
     employer: octo
+    startups:
+      - dossierfacile
 startups:
-    - locatio
+  - dossierfacile
 ---
 
 Développeur agile mais solide

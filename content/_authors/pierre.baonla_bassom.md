@@ -3,11 +3,13 @@ fullname: Pierre Baonla Bassom
 role: Data Scientist
 domaine: Autre
 github: pierrelandry
-missions: 
+missions:
   - start: 2020-01-13
-    end: 2020-05-01 
+    end: 2020-05-01
     status: service
     employer: octo
+    startups:
+      - pass-culture
 startups:
-    - pass-culture
+  - pass-culture
 ---

@@ -7,7 +7,8 @@ missions:
     end: 2023-10-31
     status: admin
     employer: ''
+    startups:
+      - encyclopedie-des-metiers
 startups:
   - encyclopedie-des-metiers
 ---
-

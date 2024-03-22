@@ -8,5 +8,4 @@ missions:
     status: admin
     employer: Pôle emploi
 ---
-
 Responsable adjointe de l'incubateur de Pôle emploi

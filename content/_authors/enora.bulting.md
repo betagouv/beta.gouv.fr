@@ -4,9 +4,12 @@ domaine: Design
 role: Designer transverse
 missions:
   - start: 2021-09-01
-    end: 2024-03-30
+    end: 2024-07-30
     status: independent
     employer: ''
+    startups:
+      - euphrosyne
+      - collectif_objets
 startups:
   - euphrosyne
   - collectif_objets
@@ -16,5 +19,4 @@ competences:
 previously:
   - locadocs
 ---
-
 Designer UX/UI

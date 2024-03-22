@@ -8,9 +8,10 @@ missions:
     end: 2024-06-29
     status: independent
     employer: ''
+    startups:
+      - 1000.premiers.jours.blues
 startups:
   - 1000.premiers.jours.blues
 memberType: beta
 ---
-
 Infirmière en santé mentale

@@ -17,5 +17,4 @@ startups:
 previously:
   - memo
 ---
-
 Développeur full-stack, single page app monomaniac

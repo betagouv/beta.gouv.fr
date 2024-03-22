@@ -7,9 +7,12 @@ website:
 github:
 contact:
 highlighted_startups:
-    - expositionIJ
+    - exposition-ij
     - pilotagevoiepro
     - sirius
-    - investigationIJ
 ---
-
+À travers la production de données utiles et fiables et la construction de services numériques à impact, la mission interministérielle InserJeunes vise à :
+- L'amélioration des informations mises à disposition des jeunes, des parents et des professionnels qui les accompagnent, sur les formations et les débouchés de la voie professionnelle pour :
+    - Réduire les orientations vers des parcours qui présentent peu de perspectives d'insertion dans l'emploi
+    - Valoriser les filières de formation porteuses et stratégiques
+- La transformation de la carte de formation des lycées professionnels pour améliorer le parcours vers l'emploi des élèves de la voie professionnelle

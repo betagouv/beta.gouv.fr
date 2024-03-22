@@ -8,7 +8,7 @@ missions:
     end: 2021-05-01
     status: admin
     employer: MTES-MCT
-startups:
+startups: null
 previously:
   - kelrisks
   - trackdechets

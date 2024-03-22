@@ -8,7 +8,8 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Octo-Malt
+    startups:
+      - territoires-en-transitions
 startups:
   - territoires-en-transitions
 ---
-

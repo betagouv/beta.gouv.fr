@@ -8,5 +8,4 @@ missions:
     status: admin
 memberType: autre
 ---
-
 Intrapreneure à la DGEC

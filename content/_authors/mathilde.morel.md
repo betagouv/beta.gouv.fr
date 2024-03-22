@@ -1,6 +1,6 @@
 ---
-fullname: Mathilde Morel 
-role: Intrapreneur 
+fullname: Mathilde Morel
+role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2023-03-28
@@ -9,4 +9,3 @@ missions:
     employer: DGALN
 memberType: beta
 ---
-

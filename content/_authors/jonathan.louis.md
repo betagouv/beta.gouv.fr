@@ -8,6 +8,9 @@ missions:
     end: 2024-06-30
     status: independent
     employer: octo
+    startups:
+      - codedutravail
+      - annuaire-entreprises
 startups:
   - codedutravail
   - annuaire-entreprises
@@ -18,6 +21,4 @@ previously:
   - tchap
   - deveco
 ---
->-
-  « La principale difficulté n’est pas de produire un film, un livre ou un site
-  web, mais d’attirer l’attention du public ». Yves Citton, philosophe
+« La principale difficulté n’est pas de produire un film, un livre ou un site web, mais d’attirer l’attention du public ». Yves Citton, philosophe

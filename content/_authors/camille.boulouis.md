@@ -8,6 +8,9 @@ missions:
     end: 2022-01-30
     status: admin
     employer: Ministère des armées
+    startups:
+      - usine-chatbots
+      - octopus
 startups:
   - usine-chatbots
   - octopus

@@ -5,11 +5,12 @@ domaine: Design
 link: http://www.book-angi.fr/
 missions:
   - start: 2024-01-24
-    end: 2024-03-30
+    end: 2024-04-30
     status: independent
     employer: ''
+    startups:
+      - ecobalyse
 startups:
   - ecobalyse
 memberType: autre
 ---
-

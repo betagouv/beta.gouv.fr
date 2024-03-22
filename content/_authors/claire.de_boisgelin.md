@@ -7,6 +7,8 @@ missions:
     end: 2019-06-30
     status: independent
     employer: octo
+    startups:
+      - eac
 startups:
-    - eac
+  - eac
 ---

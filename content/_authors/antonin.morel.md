@@ -8,9 +8,10 @@ missions:
     end: 2024-06-15
     status: independent
     employer: ''
+    startups:
+      - acceslibre
 startups:
   - acceslibre
 memberType: beta
 ---
-
 Développeur le jour, coureur le midi, papa la nuit.

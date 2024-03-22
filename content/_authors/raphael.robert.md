@@ -7,9 +7,10 @@ missions:
     end: 2024-06-06
     status: independent
     employer: DINUM
+    startups:
+      - tchap
 startups:
   - tchap
 memberType: beta
 ---
-
 Chargé de déploiement

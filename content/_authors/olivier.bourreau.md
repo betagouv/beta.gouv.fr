@@ -5,13 +5,14 @@ domaine: Déploiement
 github: oblab
 missions:
   - start: 2023-04-03
-    end: 2024-04-03
+    end: 2024-09-03
     status: independent
     employer: OCTO
+    startups:
+      - bases.adresses.locales
 startups:
   - bases.adresses.locales
 previously:
   - carnet.de.bord
 memberType: beta
 ---
-

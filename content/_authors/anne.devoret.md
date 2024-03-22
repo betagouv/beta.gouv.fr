@@ -8,16 +8,17 @@ missions:
     end: 2024-12-28
     status: independent
     employer: NUMA
+    startups:
+      - seves
+      - phytophare
 badges:
   - segur
 startups:
   - seves
-  - PhytoPhare
+  - phytophare
 previously:
   - deveco
   - la.communaute.de.linclusion
   - acces.majeur.protege
 ---
-
-
-Designer très versée 
+Designer très versée

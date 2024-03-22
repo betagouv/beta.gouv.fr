@@ -7,7 +7,8 @@ missions:
     end: 2024-05-31
     status: admin
     employer: IGN
+    startups:
+      - ban
 startups:
   - ban
 ---
-

@@ -8,5 +8,4 @@ missions:
     status: independent
     employer: ANCT
 ---
-
 Du milieu des collectivités aux startups d'Etat il n'y a qu'un pas !

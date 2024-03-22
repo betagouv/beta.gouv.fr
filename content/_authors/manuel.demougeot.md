@@ -7,6 +7,8 @@ missions:
     end: 2025-12-31
     status: admin
     employer: DIHAL
+    startups:
+      - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
 ---

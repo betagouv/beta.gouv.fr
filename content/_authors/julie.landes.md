@@ -18,6 +18,4 @@ startups:
   - place-de-marche-inclusion
 competences:
   - Communication
-
 ---
-''

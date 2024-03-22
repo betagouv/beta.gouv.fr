@@ -8,8 +8,9 @@ missions:
     end: 2021-12-31
     status: admin
     employer: DGFiP
+    startups:
+      - signaux-faibles
 startups:
   - signaux-faibles
 ---
-
 Data-Scientist @ DGFiP

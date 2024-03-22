@@ -7,9 +7,10 @@ missions:
     end: 2024-06-30
     status: service
     employer: OCTO
+    startups:
+      - france.nation.verte.agir
 startups:
   - france.nation.verte.agir
 memberType: beta
 ---
-
 Développeur biodégradable

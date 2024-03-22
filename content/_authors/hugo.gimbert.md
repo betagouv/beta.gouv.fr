@@ -7,8 +7,10 @@ missions:
     end: 2024-07-31
     status: admin
     employer: ''
+    startups:
+      - monprojetsup
 startups:
   - monprojetsup
 memberType: beta
+github: Numero7
 ---
-

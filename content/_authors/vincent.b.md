@@ -7,8 +7,12 @@ missions:
     end: 2019-12-31
     status: admin
     employer: dinum
+    startups:
+      - data.gouv.fr
+      - le-taxi
+      - api-entreprise
 startups:
-    - data.gouv.fr
-    - le-taxi
-    - api-entreprise
+  - data.gouv.fr
+  - le-taxi
+  - api-entreprise
 ---

@@ -11,7 +11,7 @@ missions:
     status: admin
     employer: MTES-MCT
   - start: 2020-09-01
-    end: 2024-12-31 
+    end: 2024-12-31
     status: admin
     employer: MTES-MCT
 previously:

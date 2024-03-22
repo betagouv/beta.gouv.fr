@@ -8,8 +8,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Octo
+    startups:
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 badges:
   - segur
 ---

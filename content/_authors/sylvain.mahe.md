@@ -8,11 +8,12 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Octo
+    startups:
+      - infoparquet
 startups:
   - infoparquet
 competences:
   - Développement Backend
   - Développement Frontend
 ---
-
 Développeur la semaine, Alpiniste le week-end.

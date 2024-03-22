@@ -7,8 +7,9 @@ missions:
     end: 2023-01-22
     status: admin
     employer: Ministère de la justice
+    startups:
+      - mon-suivi-justice
 startups:
   - mon-suivi-justice
 ---
-
 Chef de département au SNUM & Fan des SE de la Justice

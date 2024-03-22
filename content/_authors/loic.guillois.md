@@ -3,8 +3,7 @@ fullname: Loïc Guillois
 domaine: Développement
 role: Développeur
 github: loicguillois
-avatar: >-
-  https://avatars2.githubusercontent.com/u/55890?s=460&u=6d30adf6bede7d90474e82023d1947aabedd5635&v=4
+avatar: https://avatars2.githubusercontent.com/u/55890?s=460&u=6d30adf6bede7d90474e82023d1947aabedd5635&v=4
 startups:
   - zero-logement-vacant
 missions:
@@ -31,6 +30,4 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-
-
 Développeur Web

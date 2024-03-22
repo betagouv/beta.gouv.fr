@@ -9,5 +9,4 @@ missions:
     employer: ANCT
 memberType: beta
 ---
-
 Designer numérique

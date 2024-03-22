@@ -18,6 +18,5 @@ previously:
   - mrs
   - plusfraichemaville
   - datagir
-
 ---
 Dubito ergo sum

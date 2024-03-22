@@ -7,8 +7,9 @@ missions:
     end: 2023-09-18
     status: independent
     employer: DINUM
+    startups:
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 memberType: beta
 ---
-

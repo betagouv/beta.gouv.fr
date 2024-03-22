@@ -1,6 +1,6 @@
 ---
 fullname: Yaël SERRALHA
-role: Stagiaire 
+role: Stagiaire
 domaine: Autre
 missions:
   - start: 2022-01-05
@@ -10,5 +10,4 @@ missions:
 badges:
   - segur
 ---
-
-Stagiaire Mon Suivi Justice 
+Stagiaire Mon Suivi Justice

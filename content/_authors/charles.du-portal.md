@@ -7,8 +7,9 @@ missions:
     end: 2022-06-30
     status: service
     employer: OCTO
+    startups:
+      - pass-culture
 startups:
   - pass-culture
 ---
-
 Delivery Manager et Product Manager

@@ -5,9 +5,11 @@ domaine: Design
 github: cami-na
 missions:
   - start: 2022-01-17
-    end: 2024-03-31
+    end: 2024-04-30
     status: independent
     employer: Octo Malt
+    startups:
+      - apilos
 startups:
   - apilos
 badges:
@@ -15,5 +17,4 @@ badges:
 previously:
   - territoires-en-transitions
 ---
-
 Designer

@@ -7,8 +7,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: DossierFacile
+    startups:
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 memberType: autre
 ---
-

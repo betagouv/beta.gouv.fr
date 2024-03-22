@@ -8,10 +8,12 @@ missions:
     end: 2024-06-01
     status: admin
     employer: Ministère de la Culture
+    startups:
+      - euphrosyne
+      - pop
 startups:
   - euphrosyne
   - pop
 teams:
   - /teams/culture
 ---
-

@@ -7,9 +7,11 @@ missions:
     end: 2024-06-29
     status: independent
     employer: MALT / ANCT
+    startups:
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 memberType: beta
 ---
 
-PO 
+PO

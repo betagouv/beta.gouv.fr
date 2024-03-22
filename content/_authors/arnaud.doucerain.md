@@ -7,9 +7,8 @@ missions:
     end: 2017-10-31
     status: service
     employer: octo
-startups:
+startups: null
 previously:
   - place-des-entreprises
 ---
-
 Simplifier, gamifier, donner du feedback, être bienveillant !

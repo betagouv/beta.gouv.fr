@@ -8,8 +8,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Scopopop
+    startups:
+      - preuve-de-covoiturage
 startups:
   - preuve-de-covoiturage
 ---
-
-Développeur et mordu de surf ! 
+Développeur et mordu de surf !

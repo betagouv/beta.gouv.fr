@@ -8,9 +8,14 @@ missions:
     end: 2024-12-30
     status: independent
     employer: scopyleft
+    startups:
+      - benefriches
+      - jafer
+      - precontentieux.justice
 startups:
   - benefriches
   - jafer
+  - precontentieux.justice
 badges:
   - segur
 competences:

@@ -7,8 +7,9 @@ missions:
     end: 2024-06-29
     status: independent
     employer: Dinum
+    startups:
+      - acceslibre
 startups:
   - acceslibre
 ---
-
-Futur président de la République ou acteur de cinéma :) 
+Futur président de la République ou acteur de cinéma :)

@@ -7,8 +7,9 @@ missions:
     end: 2024-06-29
     status: independent
     employer: MALT
+    startups:
+      - chauffage-urbain
 startups:
   - chauffage-urbain
 memberType: beta
 ---
-

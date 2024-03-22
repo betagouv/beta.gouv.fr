@@ -8,12 +8,12 @@ missions:
     end: 2024-06-29
     status: independent
     employer: ''
+    startups:
+      - sparte
 startups:
   - sparte
 memberType: beta
 previously:
   - sparte
 ---
-
-
-J'aime travailler en collectif et faire des km à vélos. 
+J'aime travailler en collectif et faire des km à vélos.

@@ -1,6 +1,6 @@
 ---
 fullname: audreyM moisan
-role: coach produit 
+role: coach produit
 domaine: Coaching
 github: audreyM
 missions:
@@ -10,5 +10,4 @@ missions:
     employer: octo
 memberType: autre
 ---
-
-coach produit 
+coach produit

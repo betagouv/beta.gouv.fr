@@ -2,7 +2,7 @@
 title: Memo
 mission: Visualiser ses candidatures Pôle emploi en un clin d'oeil
 sponsors:
-    - /organisations/pole-emploi
+  - /organisations/pole-emploi
 incubator: pole-emploi
 phases:
   - name: investigation
@@ -10,6 +10,7 @@ phases:
   - name: construction
     start: 2016-01-03
   - name: alumni
+    start: 2020-07-01
 link: https://memo.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/memo
 stats: true

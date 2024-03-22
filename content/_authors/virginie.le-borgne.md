@@ -8,11 +8,10 @@ missions:
     end: 2024-06-01
     status: independent
     employer: ''
+    startups:
+      - emile
 startups:
   - emile
 badges:
   - segur
 ---
-
-
-

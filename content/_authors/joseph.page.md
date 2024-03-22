@@ -9,7 +9,16 @@ missions:
     end: 2024-03-31
     status: service
     employer: Octo Technology
+    startups:
+      - suite-numerique
+  - start: 2024-02-26
+    end: 2024-08-31
+    status: service
+    employer: Octo Technology
+    startups:
+      - l-application-du-cej
 memberType: dinum
 startups:
   - suite-numerique
+  - l-application-du-cej
 ---

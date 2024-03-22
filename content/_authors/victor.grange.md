@@ -7,6 +7,8 @@ missions:
     end: 2024-05-29
     status: independent
     employer: Numa
+    startups:
+      - sndv_maritime
 startups:
   - sndv_maritime
 competences:
@@ -14,5 +16,4 @@ competences:
 previously:
   - sndv_maritime
 ---
-
 Entrepreneur au service de l'impact - Auteur Documentaire

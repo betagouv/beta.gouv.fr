@@ -8,4 +8,3 @@ missions:
     status: admin
     employer: Ministère de l'intérieur
 ---
-

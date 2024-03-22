@@ -7,8 +7,10 @@ missions:
     end: 2022-10-31
     status: independent
     employer: Ground
+    startups:
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 ---
 
 Coach produit, inspecteur gadget

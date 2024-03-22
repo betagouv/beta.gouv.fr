@@ -9,8 +9,9 @@ missions:
     end: 2024-12-01
     status: independent
     employer: ''
+    startups:
+      - la-bonne-alternance
 startups:
   - la-bonne-alternance
 memberType: beta
 ---
-

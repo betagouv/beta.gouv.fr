@@ -7,4 +7,3 @@ missions:
     end: 2022-11-30
     status: admin
 ---
-

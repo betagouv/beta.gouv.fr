@@ -9,6 +9,8 @@ missions:
     end: 2021-07-04
     status: admin
     employer: DINUM
+    startups:
+      - preuve-de-covoiturage
 startups:
   - preuve-de-covoiturage
 badges:

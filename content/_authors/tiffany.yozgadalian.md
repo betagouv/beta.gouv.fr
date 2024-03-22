@@ -7,10 +7,9 @@ missions:
     end: 2017-10-31
     status: admin
     employer: dinum
-startups:
+startups: null
 previously:
   - place-des-entreprises
   - signaux-faibles
 ---
-
-Mission : sauver les entreprises qui vont mal.
+Mission: sauver les entreprises qui vont mal.

@@ -4,9 +4,13 @@ role: Coach pour le programme FAST
 domaine: Coaching
 missions:
   - start: 2023-01-09
-    end: 2024-02-28
+    end: 2024-12-28
     status: independent
     employer: Numa
+    startups:
+      - nosgestesclimat
+      - refugies.info
+      - mano
 memberType: beta
 startups:
   - nosgestesclimat
@@ -17,6 +21,4 @@ teams:
 previously:
   - 1000.premiers.jours.blues
 ---
-
-
-Coach FAST 
+Coach FAST

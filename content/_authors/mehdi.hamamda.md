@@ -9,6 +9,8 @@ missions:
     end: 2022-10-21
     status: admin
     employer: DGE
+    startups:
+      - ie
 startups:
   - ie
 competences:

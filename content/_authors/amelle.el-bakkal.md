@@ -5,9 +5,11 @@ role: Développeuse
 github: elba-octo
 missions:
   - start: 2021-10-25
-    end: 2024-02-28
+    end: 2024-05-31
     status: service
     employer: Octo
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 badges:

@@ -7,12 +7,16 @@ missions:
     end: 2024-12-30
     status: service
     employer: ''
+    startups:
+      - ozensemble
+      - bpco
+      - monsuivipsy
+      - reva
 startups:
   - ozensemble
   - bpco
   - monsuivipsy
-  - maison.de.lautisme
+  - reva
 previously:
   - snu
 ---
-

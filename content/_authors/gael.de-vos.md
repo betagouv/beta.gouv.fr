@@ -10,5 +10,4 @@ missions:
 badges:
   - segur
 ---
-
 Projets digitaux, e-commerce, marketing

@@ -1,8 +1,7 @@
 ---
 fullname: louis Bardon
-role: >-
-  Conseil senior en transformation numérique (Business developpement, Avant
-  vente, makerting,..)
+role: Conseil senior en transformation numérique (Business developpement, Avant vente,
+  makerting,..)
 domaine: Coaching
 missions:
   - start: 2022-08-05
@@ -10,5 +9,4 @@ missions:
     status: admin
     employer: SG/DNUM
 ---
-
 Business dev et avant-vente actuellement en charge d'évangéliser un gros programme interministériel de télécoms critiques (DNUM/DPRRF)

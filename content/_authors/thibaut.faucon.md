@@ -7,6 +7,8 @@ missions:
     end: 2023-10-31
     status: admin
     employer: ''
+    startups:
+      - beges
 memberType: beta
 startups:
   - beges

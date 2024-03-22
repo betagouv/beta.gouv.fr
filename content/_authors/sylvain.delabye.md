@@ -8,8 +8,9 @@ missions:
     end: 2024-06-04
     status: independent
     employer: Octo&#x2F;Malt
+    startups:
+      - apilos
 startups:
   - apilos
 memberType: beta
 ---
-

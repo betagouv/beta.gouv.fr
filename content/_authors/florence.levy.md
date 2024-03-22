@@ -7,6 +7,8 @@ missions:
     end: 2024-12-01
     status: admin
     employer: DRIEAT
+    startups:
+      - chauffage-urbain
 startups:
   - chauffage-urbain
 competences:

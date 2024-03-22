@@ -7,6 +7,8 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Ground
+    startups:
+      - cas.par.4
 startups:
   - cas.par.4
 badges:

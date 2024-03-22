@@ -14,9 +14,8 @@ missions:
     status: independent
     employer: codeheroics
 startups:
-    - mobiville
+  - mobiville
 previously:
-    - zen
+  - zen
 ---
-
 Na Na Na Na Na Na Na Na Batman !

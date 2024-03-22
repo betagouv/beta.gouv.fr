@@ -8,8 +8,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: La Fabrique Numérique
+    startups:
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 ---
 
 Expérience utilisateur, interface utilisateur, UX writing.

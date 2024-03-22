@@ -10,6 +10,8 @@ missions:
     end: 2024-06-28
     status: independent
     employer: Codeurs en liberté
+    startups:
+      - le-taxi
 startups:
   - le-taxi
 ---

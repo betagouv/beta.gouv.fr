@@ -5,10 +5,9 @@ domaine: Développement
 github: thierrylee
 missions:
   - start: 2023-04-03
-    end: 2024-03-01
+    end: 2024-05-31
     status: service
     employer: Octo
 memberType: autre
 ---
-
 Développeur & tech lead mobile

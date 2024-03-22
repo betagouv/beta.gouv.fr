@@ -8,8 +8,9 @@ missions:
     end: 2024-05-25
     status: admin
     employer: SAS pass Culture
+    startups:
+      - pass-culture
 startups:
   - pass-culture
 memberType: beta
 ---
-

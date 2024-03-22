@@ -7,11 +7,12 @@ missions:
     end: 2024-06-30
     status: independent
     employer: ''
+    startups:
+      - asso.cie
 startups:
   - asso.cie
 previously:
   - tacct
   - accesscite
 ---
-
 Coach produit @ La Fabrique

@@ -7,6 +7,8 @@ missions:
     end: 2021-06-30
     employer: dinum
     status: admin
+    startups:
+      - mps
 startups:
   - mps
 previously:

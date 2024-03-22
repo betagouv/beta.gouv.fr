@@ -10,5 +10,4 @@ missions:
 badges:
   - segur
 ---
-
 Consultant en organisation, coach et responsable de compte pour OCTO Technology

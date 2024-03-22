@@ -13,10 +13,8 @@ missions:
     status: independent
     employer: malt
 startups:
-    - api-entreprise
-    - api-particulier
-    - datapass
+  - api-entreprise
+  - api-particulier
+  - datapass
 ---
-
-Rails, Music, Fun and games.
-Such experience, much skill, very work.
+Rails, Music, Fun and games. Such experience, much skill, very work.

@@ -5,10 +5,9 @@ domaine: Intraprenariat
 link: https://www.linkedin.com/in/luc-nour-allazkani/
 missions:
   - start: 2023-09-13
-    end: 2024-06-01
+    end: 2024-08-30
     status: independent
     employer: Lamednum
 memberType: beta
 ---
-
 Chef de projet numérique, et j'adore le no-code !

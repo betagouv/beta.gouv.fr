@@ -13,6 +13,7 @@ phases:
   - name: construction
     start: 2016-06-23
   - name: alumni
+    start: 2017-12-31
 link: https://snee.esr.gouv.fr/
 repository: https://github.com/betagouv/etudiant-entrepreneur
 stats: false
@@ -49,6 +50,5 @@ La mise en place d’une plate-forme communautaire de services destinée à l'en
 - un accès rapide à des informations ciblées à forte valeur ajoutée,
 - la valorisation des projets des EEs (en lien avec [PEPITE France](http://www.pepite-france.fr/)),
 - une mise en réseau des encadrants (tuteurs académiques et praticiens).
-
 
 Le service est construit de façon itérative en le confrontant systématiquement à ses utilisateurs afin de prioriser les améliorations en fonction de leurs attentes.

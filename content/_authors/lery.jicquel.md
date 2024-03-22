@@ -27,5 +27,4 @@ competences:
   - Administration Publique
   - Gestion de Produit
 ---
-
 In Bike I Trust. Toujours en équipe!

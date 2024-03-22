@@ -9,8 +9,9 @@ missions:
     end: 2024-06-29
     status: independent
     employer: La zone / Scopyleft
+    startups:
+      - sndv_maritime
 startups:
   - sndv_maritime
 ---
-
 Développeuse web front-end

@@ -10,5 +10,4 @@ missions:
     employer: DNUM MI
 memberType: beta
 ---
-
 Réutilisateur de données de père en fils, fils de cheminot.

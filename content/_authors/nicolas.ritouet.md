@@ -13,6 +13,4 @@ memberType: beta
 teams:
   - /teams/anct
 ---
-
 Développeur engagé, facilitateur engageant, créateur d'impact, leadership empathique, mentorat bienveillant.
-#montagne #devops #ecologie

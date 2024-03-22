@@ -8,5 +8,4 @@ missions:
     status: service
     employer: Malt
 ---
-
 Customer success chez Malt

@@ -8,8 +8,10 @@ missions:
     end: 2024-07-20
     status: independent
     employer: Malt
+    startups:
+      - potentiel
 startups:
   - potentiel
+link: https://hubbb.dev/
 ---
-
-Développeur fullstack javascript 
+Développeur fullstack javascript

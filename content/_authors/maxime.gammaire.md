@@ -8,10 +8,11 @@ missions:
     end: 2024-04-29
     status: admin
     employer: Ministère de la Justice
+    startups:
+      - mistral-penal
 badges:
   - segur
 startups:
   - mistral-penal
 ---
-
 Directeur des services de greffe judiciaires

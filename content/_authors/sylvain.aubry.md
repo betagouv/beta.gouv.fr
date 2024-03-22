@@ -9,6 +9,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Octo Technology
+    startups:
+      - les.bases
+      - suite.d.outils.des.mediateurs.numeriques
 badges:
   - segur
 startups:
@@ -17,5 +20,3 @@ startups:
 previously:
   - dora
 ---
-
-

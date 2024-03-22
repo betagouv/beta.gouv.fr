@@ -3,9 +3,11 @@ domaine: Développement
 github: yostyle
 missions:
   - start: 2023-08-21
-    end: 2024-02-21
+    end: 2024-05-21
     status: independent
     employer: Malt
+    startups:
+      - tchap
 competences:
   - Développement Frontend
 memberType: beta

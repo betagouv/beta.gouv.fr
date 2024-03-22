@@ -8,6 +8,10 @@ missions:
     end: 2024-12-20
     status: admin
     employer: dinum
+    startups:
+      - leximpact
+      - api-entreprise
+      - api-particulier
 startups:
   - leximpact
   - api-entreprise
