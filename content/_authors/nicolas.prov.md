@@ -1,5 +1,5 @@
 ---
-fullname: intrapreneur nau
+fullname: Nicolas Prov
 role: Intrapreneur
 domaine: Produit
 missions:
