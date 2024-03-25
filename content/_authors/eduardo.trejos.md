@@ -15,4 +15,3 @@ competences:
   - python
 memberType: beta
 ---
-Analyste de données avec plus de 10 ans d'expérience dans le commerce international, j'ai développé des compétences en développement commercial, travail en équipe et communication
