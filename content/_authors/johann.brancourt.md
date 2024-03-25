@@ -9,4 +9,10 @@ missions:
     employer: Malt
     startups:
       - snu
+link: https://www.linkedin.com/in/johann-brancourt-freelance/
+github: Johannbr
+competences:
+  - Développement Full-stack
+memberType: beta
 ---
+Architecte & Dév Full Stack sénior 
