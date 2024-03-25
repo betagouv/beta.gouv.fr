@@ -7,4 +7,7 @@ missions:
     end: 2024-06-22
     status: service
     employer: ''
+competences:
+  - Commerce
+memberType: beta
 ---
