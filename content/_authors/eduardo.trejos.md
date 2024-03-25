@@ -9,4 +9,9 @@ missions:
     employer: Tchap
     startups:
       - tchap
+link: https://www.linkedin.com/in/eduardo-trejos/
+competences:
+  - 'data analysis '
+  - python
+memberType: beta
 ---
