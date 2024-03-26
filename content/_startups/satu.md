@@ -12,11 +12,12 @@ phases:
   - name: alumni
     start: 2023-12-11
 ---
+
 ## Contexte
 
 Aujourd'hui un dispositif existe en France pour permettre aux personnes sourdes, malentendantes, sourdaveugles et aphasiques de passer des appels téléphoniques.
 
-Ce sercice se décompose en 2 grands usages :
+Ce service se décompose en 2 grands usages :
 - Les appels interpersonnels et vers les entreprises qui font moins de 250M€ de CA, pour lesquels les opérateurs mobiles (Orange, Free, Bouygues & SFR) sont responsables de fournir le service. Cela s'est traduit par la création de 2 centres relais téléphoniques opérés par 2 prestataires : Rogervoice (Orange + SFR + Bouygues) et DEAFI (Free).
 - Les appels vers les services publics et les entreprises qui font plus de 250M€ CA. Ses services publics et les services clients de ces entreprises sont chargés de signer des contrats avec l'un des 5 prestataires d'accessibilité (Rogervoice, DEAFI, Sourdline, Elioz, ACCEO-TADEO) pour assurer leur accessibilité téléphonique.
 ## Problème
@@ -37,12 +38,12 @@ L'investigation a permis de mettre en lumière certains problèmes rencontrés p
 * L'impossibilité de choisir son prestataire, alors que la qualité et les temps d'attente peuvent varier d'un prestataire à l'autre.
 * La non-disponibilité des appels interpersonnels sur ordinateur. En effet, ce service n'est disponible que sur mobile, ce qui signifie que les utilisateurs doivent signer à une main, afin de tenir leur téléphone dans l'autre main, et qu'ils ont du mal à voir et lire ce que signe l'interprète sur le petit écran de leur mobile.
 
-
 ## Solution
 
 La refonte totale du système en place en allant vers un système plus universel dans lequel les utilisateurs peuvent choisir leur prestataire d'accessibilité pour appeler qui ils veulent 24h/24 7j/7 en illimité en ayant recours à des services tels que la transcription ou l'interprétariat en langue des signes française.
 
 Le système devera, pas son organisation, favoriser la promotion du service auprès des personnes sourdes, malentendantes, sourdaveugles et aphasiques.
+
 ## Stratégie
 
 Création d'un label pour les prestataires d'accessibilité et recrutement d'un gestionnaire qui labélisera les prestataires et gérera les flux financiers entre tous les acteurs (opérateurs, entreprises privées et prestataires d'accessibilité).
