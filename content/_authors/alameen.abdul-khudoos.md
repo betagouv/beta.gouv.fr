@@ -10,13 +10,15 @@ missions:
     status: independent
     startups:
       - travailler.en.france
-      - mes.aides
+      - mes-aides-france-travail
 incubator: pole-emploi
+startups:
 previously:
   - zen
   - travailler.en.france
-  - mes.aides
+  - mes-aides-france-travail
 competences:
   - Gestion de Produit
 ---
+
 Product Manager et chef de projet chez Mes Aides

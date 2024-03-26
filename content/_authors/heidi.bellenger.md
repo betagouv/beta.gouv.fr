@@ -8,8 +8,8 @@ missions:
     status: service
     employer: DEUD
     startups:
-      - mes.aides
+      - mes-aides-france-travail
 startups:
-  - mes.aides
+  - mes-aides-france-travail
 memberType: beta
 ---

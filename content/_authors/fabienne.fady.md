@@ -7,8 +7,8 @@ missions:
     end: 2024-12-31
     status: admin
     startups:
-      - mes.aides
+      - mes-aides-france-travail
 startups:
-  - mes.aides
+  - mes-aides-france-travail
 memberType: beta
 ---
