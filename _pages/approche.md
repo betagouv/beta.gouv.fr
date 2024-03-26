@@ -95,7 +95,7 @@ title: Découvrir le programme
          </div>
          <p>Décideur public, vous voulez lancer une investigation avec nous?</p>
         <div class="fr-btns-group fr-btns-group--inline">
-          <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
+          <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="mailto:contact@beta.gouv.fr">Prendre rendez-vous</a>
           <a id="btn-decouvrir-investigation" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link" href="/approche/investigation">Découvrir l'investigation</a>
         </div>
       </div>
