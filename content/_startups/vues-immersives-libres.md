@@ -21,6 +21,7 @@ phases:
   - name: acceleration
     start: 2023-11-06
 stats_url: https://panoramax.fr/stats
+stats: true
 accessibility_status: non conforme
 ---
 ## Contexte
