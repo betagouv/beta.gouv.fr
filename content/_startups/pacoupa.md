@@ -6,7 +6,7 @@ mission: >-
 sponsors:
   - /organisations/ademe
 incubator: ademe
-contact: celine.laruelle@ademe.fr
+contact: pacoupa@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
