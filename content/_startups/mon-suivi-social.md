@@ -20,8 +20,7 @@ phases:
     end: 2022-02-01
   - name: construction
     start: 2022-03-01
-  - start: 2024-03-26
-    name: acceleration
+stats_url: https://monsuivisocial.incubateur.anct.gouv.fr/statistiques
 ---
 ### 🏗 Contexte/problème
 
