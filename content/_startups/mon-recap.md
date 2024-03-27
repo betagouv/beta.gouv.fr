@@ -8,7 +8,7 @@ incubator: gip-inclusion
 contact: annaelle.garcia@beta.gouv.fr
 accessibility_status: non conforme
 stats: true
-stats_url: https://mon-recap.fr/?e-landing-page=page-statistiques
+stats_url: https://mon-recap.inclusion.beta.gouv.fr/statistiques/
 phases:
   - name: investigation
     start: 2023-02-13
