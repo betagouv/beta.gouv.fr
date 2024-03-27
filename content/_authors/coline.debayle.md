@@ -7,6 +7,8 @@ missions:
     end: 2024-06-30
     status: independent
     employer: NUMA
+    startups:
+      - checklist.demande.aides.renovation.energetique
 memberType: dinum
 ---
 Entrepreneur à impact depuis toujours !
