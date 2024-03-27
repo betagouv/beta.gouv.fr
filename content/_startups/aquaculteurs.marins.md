@@ -15,6 +15,10 @@ phases:
   - name: construction
     start: 2023-09-27
     comment: Développement du produit minimum viable test
+thematiques:
+  - Écologie
+  - Mer
+  - Agriculture
 ---
 ## Contexte
 

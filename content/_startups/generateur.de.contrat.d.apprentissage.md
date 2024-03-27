@@ -14,8 +14,9 @@ phases:
     start: 2021-01-01
   - start: 2023-09-01
     name: construction
+thematiques:
+  - Entreprises
 ---
-
 # Le problème de politique publique
 
 
@@ -120,6 +121,3 @@ Via les réseaux sociaux, notamment LinkedIn, nous avons pu contacter les membre
 
 
 L’intrapreneur est Anne-Camille Monet, le produit a été réalisé jusqu’à présent à temps partiel, avec David Dela Cruz, développeur et Clémence Lanctuit, UX designer.
-
-
-

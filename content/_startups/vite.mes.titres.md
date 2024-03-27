@@ -11,6 +11,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-12
+thematiques:
+  - Administratif
 ---
 ## Contexte
 Les conducteurs routiers lauréats des titres professionnels sont confrontés à des délais d’attente parfois très importants pour obtenir les documents indispensables à l’exercice de leur profession à l’issue de leur formation. Les délais les plus longs sont en partie inhérents à la complexité du parcours administratif qui requiert de constituer un dossier en ligne auprès de plusieurs administrations. En cas d’incomplétude du dossier, l’usager se trouve seul pour débloquer sa situation. 
@@ -26,5 +28,3 @@ Les délais d'obtention des documents qui sont nécessaires à l’exercice de l
 
 L'ensemble de la profession et de ses représentants demande la mise en œuvre de solutions visant à faciliter les démarches des lauréats des titres professionnels et à réduire les délais d’obtention des documents nécessaires à la conduite (permis, carte de qualification de conducteur, carte tachygraphe).
 Sans remettre en cause le temps nécessaire au processus d’instruction administratif garant de la sécurité des titres, le développement d’une solution visant à faciliter, à accélérer et à fiabiliser les démarches du futur conducteur lui assurerait un meilleur accompagnement dès son entrée en formation et jusqu’à l’obtention de ses titres.
-
-
