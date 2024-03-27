@@ -11,12 +11,22 @@ missions:
     employer: Ministère de la Transition Écologique / Fabrique numérique
     startups:
       - ecobalyse
+  - start: 2023-07-03
+    end: 2024-06-18
+    status: independent
+    employer: Ademe
+    startups:
       - tacct
 startups:
   - ecobalyse
   - tacct
 competences:
   - UX
+  - Facilitation
+  - Product design
+  - Product strategy
+  - UX
+  - Coaching
 previously:
   - attractivite.des.territoires
   - aldo
