@@ -1,21 +1,16 @@
 ---
 title: Transition Écologique des Entreprises
-mission: >-
-  Guider les entreprises dans leur transition écologique
+mission: Guider les entreprises dans leur transition écologique
 sponsors:
   - /organisations/ademe
 incubator: ademe
-contact: france-transition@beta.gouv.fr
+contact: contact@mission-transition-ecologique.beta.gouv.fr
 link: http://mission-transition-ecologique.beta.gouv.fr/
 repository: https://github.com/betagouv/transition-ecologique-entreprises-widget
 accessibility_status: non conforme
-dashlord_url: https://incubateur-ademe.github.io/dashlord/url/mission-transition-ecologique-beta-gouv-fr/
+dashlord_url: >-
+  https://incubateur-ademe.github.io/dashlord/url/mission-transition-ecologique-beta-gouv-fr/
 stats: false
-# stats_url: >-
-#   https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=194&period=day&date=yesterday#?idSite=194&period=day&date=yesterday&segment=&category=Dashboard_Dashboard&subcategory=1
-# budget_url: http://mission-transition-ecologique.beta.gouv.fr/budget
-analyse_risques: false
-# analyse_risques_url: https://github.com/betagouv/carte-verte/blob/main/SECURITY.md
 phases:
   - name: investigation
     start: 2023-02-27
@@ -23,9 +18,9 @@ phases:
   - name: construction
     start: 2023-03-30
 techno:
-    - Vue.js
-    - TypeScript
-    - publi.codes
+  - Vue.js
+  - TypeScript
+  - publi.codes
 usertypes:
   - entreprise
 ---

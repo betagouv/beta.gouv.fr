@@ -1,7 +1,7 @@
 ---
 title: Agora
 link: https://www.agora.gouv.fr/
-mission: La première appli fait dialoguer les citoyens et le Gouvernement
+mission: La première appli qui fait dialoguer les citoyens et le Gouvernement
 repository: https://github.com/agora-gouv/agora-app
 sponsors:
   - /organisations/ditp

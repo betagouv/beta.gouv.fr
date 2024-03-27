@@ -22,7 +22,7 @@ phases:
     end: 2018-09-10
   - name: acceleration
     start: 2018-09-10
-stats_url: https://aides-territoires.beta.gouv.fr//stats
+stats_url: https://aides-territoires.beta.gouv.fr/stats/
 ---
 ## Le problème
 
