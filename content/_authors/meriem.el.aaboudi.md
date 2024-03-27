@@ -1,10 +1,10 @@
 ---
-domaine: Déploiement
-fullname: Meriem El Aaboudi
-role: Déploiement
+domaine: Animation
+fullname: Meriem  El Aaboudi
+role: Animation
 missions:
-  - start: 2024-03-25
-    end: 2025-12-25
+  - start: 2024-03-27
+    end: 2024-12-31
     status: independent
-    employer: Opteamis
+    employer: ''
 ---
