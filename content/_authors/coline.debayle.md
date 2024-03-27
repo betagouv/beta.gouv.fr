@@ -9,6 +9,11 @@ missions:
     employer: NUMA
     startups:
       - checklist.demande.aides.renovation.energetique
+  - start: 2023-12-27
+    end: 2024-03-27
+    status: independent
+    employer: NUMA
+    startups: []
 memberType: dinum
 ---
 Entrepreneur à impact depuis toujours !
