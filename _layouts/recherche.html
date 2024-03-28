@@ -216,7 +216,7 @@ layout: default
 
  var searchPageTitle = document.getElementById('search-page-title');
  $(searchPageTitle).text('résultats pour « ' + searchTerm + ' »');
- count = displaySearchResults(searchTerm, categories);
+ let count = displaySearchResults(searchTerm, categories);
 
  if(count == 0) {
     $(searchPageTitle).prepend('Aucun ');
