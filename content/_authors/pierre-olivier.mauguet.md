@@ -9,10 +9,14 @@ missions:
     end: 2019-08-30
     status: independent
     employer: octo
+    startups:
+      - signalement
   - start: 2019-10-01
     end: 2020-06-30
     status: independent
     employer: octo
+    startups:
+      - medle
   - start: 2020-05-01
     end: 2021-09-30
     status: independent
@@ -21,10 +25,14 @@ missions:
     end: 2023-11-30
     status: independent
     employer: inops
+    startups:
+      - egalite.professionnelle
   - start: 2024-02-12
     end: 2024-08-31
     status: independent
     employer: malt
+    startups:
+      - pacoupa
 startups:
   - pacoupa
 previously:
