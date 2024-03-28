@@ -31,6 +31,11 @@ usertypes:
 dashlord_url: >-
   https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
 accessibility_status: non conforme
+thematiques:
+  - Travail / Emploi
+  - Jeunesse
+  - Education
+  - Formation
 ---
 [La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) est un service destiné à faciliter la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises. D’abord développé par Pôle emploi, le service La bonne alternance a été repris en 2020 par la Mission interministérielle pour l’apprentissage dans l’objectif de renforcer l'accompagnement des jeunes intéressés par l'apprentissage, ainsi que des CFA et recruteurs accueillant des apprentis.
 
@@ -76,4 +81,3 @@ Pour les CFA :
 - Identifier des entreprises pouvant accueillir les apprentis de la formation ;
 - Recevoir les offres des entreprises qui recherchent des alternants et pouvoir accompagner celles-ci dans le sourcing de profils les plus intéressants ;
 - Simplifier, accélérer et sécuriser leur mise en relation avec les candidats à une formation en apprentissage.
-

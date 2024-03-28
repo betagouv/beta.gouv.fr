@@ -20,6 +20,9 @@ usertypes:
   - association
 dashlord_url: https://dashlord.incubateur.net/url/www-snu-gouv-fr/
 accessibility_status: non conforme
+thematiques:
+  - Jeunesse
+  - Education
 ---
 **Contexte**
 

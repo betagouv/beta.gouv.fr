@@ -20,6 +20,8 @@ phases:
     end: 2022-09-28
   - name: acceleration
     start: 2022-09-28
+thematiques:
+  - Patrimoine
 ---
 # Recenser les objets qui font notre patrimoine pour le protéger
 

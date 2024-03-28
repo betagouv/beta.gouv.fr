@@ -18,6 +18,9 @@ accessibility_status: partiellement conforme
 link: https://sirius.apprentissage.beta.gouv.fr
 stats_url: https://sirius.apprentissage.beta.gouv.fr/statistiques
 stats: true
+thematiques:
+  - Jeunesse
+  - Formation
 ---
 # Le constat
 

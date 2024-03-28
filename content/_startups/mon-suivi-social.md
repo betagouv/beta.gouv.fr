@@ -21,6 +21,8 @@ phases:
   - name: construction
     start: 2022-03-01
 stats_url: https://monsuivisocial.incubateur.anct.gouv.fr/statistiques
+thematiques:
+  - Social
 ---
 ### 🏗 Contexte/problème
 

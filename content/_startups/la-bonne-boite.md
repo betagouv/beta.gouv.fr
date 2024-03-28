@@ -27,6 +27,8 @@ phases:
   - name: acceleration
     start: 2023-01-19
 stats_url: https://labonneboite.pole-emploi.fr//stats
+thematiques:
+  - Travail / Emploi
 ---
 Le saviez-vous ?Le marché caché de l’emploi représente **plus de 40% des recrutements** ( Sur 7 millions de recrutement , 3 millions s'est fait via la marché caché en 2020)!
 

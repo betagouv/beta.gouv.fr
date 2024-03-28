@@ -11,14 +11,13 @@ phases:
     start: 2024-04-01
 ---
 ## Contexte
-
-Quel est le contexte de ta Startup d'Etat ?
-
-## Problème
-
 L’agence nationale des données de voyage (ANDV), service interministériel à compétence nationale, est en charge de l’amélioration des dispositifs de collecte et traitement des données de voyages à des fins régaliennes. 
 
 L’objet des travaux de la start-up d’Etat est de permettre aux services en charge du contrôle des frontières de l'espace Schengen de mettre en œuvre les contrôles systématiques attendus avant le départ ou l'arrivée d'une escale sur le territoire national en adéquation avec les acquis de Schengen. 
+
+## Problème
+
+Les activités de contrôle aux frontières sont soumises à des exigences de fluidité et de qualité des contrôles. L’usage actuel des données de voyage, déjà collectées au titre des traitements existants, ne permet pas de répondre pas à ces exigences.
 
 ## Solution
 
