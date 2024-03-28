@@ -100,13 +100,18 @@ $(function () {
               size: 12
             }
           }
+        },
+        tooltip: {
+          titleFont: {
+            family: 'Marianne',
+          },
+          bodyFont : {
+            family: 'Marianne',
+          },
         }
       },
       animation: { duration: 0 },
       maintainAspectRatio: false,
-      // legend: {
-      //     onClick: function() { return false }
-      // },
       interaction: {
         mode: "index",
         intersect: false,
@@ -114,7 +119,7 @@ $(function () {
       scales: {
         x: {
           type: "time",
-          time: { unit: "quarter" },
+          time: { unit: "quarter", tooltipFormat: 'MM/YYYY' },
           gridLines: { display: false },
         },
         y: {
