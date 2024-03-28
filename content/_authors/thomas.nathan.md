@@ -1,7 +1,7 @@
 ---
 fullname: Thomas Nathan
 role: Data
-domaine: Produit
+domaine: Data
 github: thomasnpc
 missions:
   - start: 2022-09-05

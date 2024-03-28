@@ -1,7 +1,7 @@
 ---
 fullname: Christopher LELEU
 role: Data
-domaine: Autre
+domaine: Data
 github: ChristopherLELEU
 missions:
   - start: 2022-10-03
