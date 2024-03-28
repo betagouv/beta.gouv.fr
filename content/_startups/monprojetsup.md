@@ -12,6 +12,9 @@ phases:
     name: construction
 accessibility_status: non conforme
 link: https://monprojetsup.fr/
+thematiques:
+  - Jeunesse
+  - Education
 ---
 ## Contexte
 

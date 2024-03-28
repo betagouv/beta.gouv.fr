@@ -11,6 +11,8 @@ phases:
     start: 2021-09-15
   - name: construction
     start: 2022-09-01
+thematiques:
+  - Travail / Emploi
 ---
 **Contexte**
 
@@ -38,4 +40,4 @@ Expresso souhaite permettre aux ADL des EAF de faire valoir leurs droits en leur
 
 Tout d’abord, une phase d’investigation a été menée grâce à des entretiens réalisés auprès des acteurs RH (tant en IF qu’au MEAE), en prenant en compte la multiplicité des profils d’agents et d’instituts (petits, moyens, grands EAF). Puis, une phase d’expérimentation dans 7 EAF pilotes a permis de tester la méthodologie et la nomenclature Expresso pour numériser et mettre à la disposition des agents leurs dossiers individuels. A cette phase d’expérimentation de la démarche ont succédé au dernier trimestre 2022, puis au second trimestre 2023, deux nouvelles phases avec un périmètre plus vaste, étendu à une quarantaine d’EAF supplémentaires.
 
-Au premier trimestre 2024, une nouvelle phase a été étendue à plus de trente postes. De plus, le suivi des postes ayant commencé le déploiement du projet Expresso en 2022 ou 2023 permet de remarquer que plusieurs postes, comme le Liban ou la Finlande, ont dorénavant achevé la mise en place du projet. Tous les ADL de ces Instituts ont accès à leur dossier numérisé. 
+Au premier trimestre 2024, une nouvelle phase a été étendue à plus de trente postes. De plus, le suivi des postes ayant commencé le déploiement du projet Expresso en 2022 ou 2023 permet de remarquer que plusieurs postes, comme le Liban ou la Finlande, ont dorénavant achevé la mise en place du projet. Tous les ADL de ces Instituts ont accès à leur dossier numérisé.
