@@ -57,7 +57,7 @@ $(function () {
         {
           data: datasets.admin,
           label: "Agents publics ", // trailing space to ensure legend complies with French typography rules
-          backgroundColor: "#EF7D29",
+          backgroundColor: "#F7DD6F",
           pointRadius: 0,
           lineTension: 0.3,
           fill: true,
@@ -65,7 +65,7 @@ $(function () {
         {
           data: datasets.independent,
           label: "Indépendantes et indépendants ", // trailing space to ensure legend complies with French typography rules
-          backgroundColor: "#0048B3",
+          backgroundColor: "#00008B",
           pointRadius: 0,
           lineTension: 0.3,
           fill: true,
@@ -73,7 +73,7 @@ $(function () {
         {
           data: datasets.service,
           label: "Prestataires ", // trailing space to ensure legend complies with French typography rules
-          backgroundColor: "#3EA9FF",
+          backgroundColor: "#4841B9",
           pointRadius: 0,
           lineTension: 0.3,
           fill: true,
@@ -85,7 +85,22 @@ $(function () {
         title: {
           text: "Progression des effectifs",
           display: true,
+          color: '#666',
+          font: {
+            family: 'Marianne',
+            size: 18,
+            weight: 'bold',
+            lineHeight: 1.2,
+          },
         },
+        legend: {
+          labels: {
+            font: {
+              family: 'Marianne',
+              size: 12
+            }
+          }
+        }
       },
       animation: { duration: 0 },
       maintainAspectRatio: false,
