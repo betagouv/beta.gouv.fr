@@ -134,7 +134,22 @@ $(function () {
         {
           label: "Domaine",
           data: domaineKeys.map((key) => window.data.domaine[key]),
-          backgroundColor: ["#EF7D29", "#0048B3", "#3EA9FF", "#FEA9FF", "#FEAC1F", "#9E121F", "#9E1D1F", "#9E129F"],
+          backgroundColor: [
+            "#DD6A57", // animation
+
+            "#9FE0F7", // intra
+            "#5BA7BC", // coach
+
+            "#7666F6", // dev
+
+            "#92E3A9", // bizdev
+
+            "#ECC962", // design
+            "#F4DEA8", // product
+
+            "#FFB6A3", // data
+
+            "#D9D9D9"], // autre
         },
       ],
       labels: domaineKeys.map((key) => key),
@@ -145,6 +160,13 @@ $(function () {
         title: {
           text: "Répartition des membres par compétence",
           display: true,
+          color: '#666',
+          font: {
+            family: 'Marianne',
+            size: 18,
+            weight: 'bold',
+            lineHeight: 1.2,
+          },
         },
         animation: { duration: 0 },
         maintainAspectRatio: false,
@@ -165,10 +187,13 @@ $(function () {
             legend.chart.update();
           },
           position: "right",
-          title: {
-            text: "Légende",
-            display: true,
-          },
+          labels: {
+            font: {
+              family: 'Marianne',
+              size: 12, 
+              weight: 'bold'
+            }
+          }
         },
       },
       scales: {
