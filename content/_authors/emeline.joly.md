@@ -1,5 +1,5 @@
 ---
-fullname: Emeline JOLY
+fullname: Emeline Joly
 role: Intrapreneuse
 domaine: Intraprenariat
 github: emelinejy

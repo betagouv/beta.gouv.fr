@@ -1,5 +1,5 @@
 ---
-fullname: Jean-Baptiste HAQUET
+fullname: Jean-Baptiste Haquet
 role: Intrapreneur en herbe
 domaine: Intraprenariat
 missions:
