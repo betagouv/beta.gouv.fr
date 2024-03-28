@@ -45,7 +45,7 @@ layout: default
  }
 
  function displaySearchResults(searchTerm, categories) {
-    count=0;
+    let count=0;
     for (let index = 0; index < categories.length; index++) {
         count+=displaySearchResultsForCategory(searchTerm, categories[index]);
     }
