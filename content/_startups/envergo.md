@@ -25,6 +25,8 @@ fast:
   promotion: 13
   montant: 200000
 accessibility_status: non conforme
+thematiques:
+  - Écologie
 ---
 ![](/img/netlifycms/envergo.jpg)
 

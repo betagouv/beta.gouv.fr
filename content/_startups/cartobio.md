@@ -23,8 +23,9 @@ usertypes:
   - collectivite-territoriale
   - etablissement-scolaire
   - etat
+thematiques:
+  - Agriculture
 ---
-
 ## Le problème
 
 CartoBio répond à un problème auprès de différents acteurs.

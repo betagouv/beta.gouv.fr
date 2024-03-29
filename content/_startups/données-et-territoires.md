@@ -17,6 +17,9 @@ contact: donnees@anct.gouv.fr
 accessibility_status: non conforme
 dashlord_url: http://dashlord.incubateur.net/url/donnees-incubateur-anct-gouv-fr-toolbox/
 stats_url: https://donnees.incubateur.anct.gouv.fr/stats
+thematiques:
+  - Territoires
+  - Open-Data
 ---
 ## C’est quoi Données et Territoires ?
 

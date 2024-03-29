@@ -18,6 +18,8 @@ phases:
   - name: construction
     start: 2024-01-26
 stats_url: https://vigieau.gouv.fr/stats/
+thematiques:
+  - Écologie
 ---
 ## Contexte
 
@@ -93,5 +95,3 @@ collectivités.
 
 * A lʼhorizon septembre 2024, 2 à 3 collectivités (avec téléreleve) engagées dans lʼexpérimentation (couvrant 50 000 abonnés).
 * 10% de baisse de la consommation dʼeau à horizon 1 an pour lʼensemble de ces collectivités test.
-
-
