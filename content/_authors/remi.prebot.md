@@ -5,11 +5,10 @@ domaine: Déploiement
 github: rprebot
 missions:
   - start: 2021-01-19
-    end: 2024-03-30
+    end: 2024-06-30
     status: independent
     employer: Octo
-    startups:
-      - rdv.insertion
+    startups: []
 startups:
   - rdv.insertion
 badges:
