@@ -9,4 +9,9 @@ missions:
     employer: Inetum/LBC
     startups:
       - tacct
+link: https://www.linkedin.com/in/sebprimout/
+competences:
+  - Product design
+  - UX
+memberType: beta
 ---
