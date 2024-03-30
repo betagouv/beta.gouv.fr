@@ -1,5 +1,5 @@
 ---
-mission: Outiller les agents public pour les aider à faire vivre et circuler leurs données de manière efficace, flexible, pérenne et souveraine
+mission: Outiller les agents publics pour les aider à faire vivre et circuler leurs données de manière efficace, flexible, pérenne et souveraine
 incubator: dinum_produits_interministeriels
 title: grist.numerique.gouv.fr
 contact: anna-livia.gomart@mail.numerique.gouv.fr
@@ -11,11 +11,11 @@ phases:
 ## Le drame
 
 Aujourd'hui, pour gérer le cycle de vie de leurs données, les agents publics
-doivent souvent choisir en deux options insatisfaisantes :
+doivent souvent choisir entre deux options insatisfaisantes :
 
 - les enregistrer sans structure dans un tableur, échanger leur tableau par mail, et réconcilier les données récupérées à la main ;
 
-- ou bien les enfermer dans des logiciels métiers spécialisés bien coûteux et rigides.
+- ou bien les enfermer dans des logiciels métiers spécialisés coûteux et rigides.
 
 Les outils à leur disposition rendent pénible l'exploitation et la
 réutilisation de ces données.
@@ -40,11 +40,9 @@ pérenne et souveraine.
 
 Des premières instances de Grist sont déjà déployées.
 
-Dans un premier temps, il s'agit d'explorer les communautés d'utilisateurs·ices
+Dans un premier temps, il s'agit d'explorer les communautés d'utilisateur·ices
 et de découvrir la manière dont ces agents s'emparent de l'outil, pour
 en cartographier les usages, et identifier les pratiques les plus vertueuses.
 
 On priorisera ensuite les actions qui soutiendront au mieux l'adoption de ces
 pratiques vertueuses. 
-
-
