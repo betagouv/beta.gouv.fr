@@ -10,4 +10,5 @@ missions:
     startups:
       - urbanvitaliz
       - recommandations-collaboratives
+memberType: beta
 ---
