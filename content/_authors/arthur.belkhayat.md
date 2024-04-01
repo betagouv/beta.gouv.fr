@@ -5,7 +5,8 @@ role: Développeur
 github: abelkhay
 missions:
   - start: 2022-06-01
-    end: 2024-03-31
+    end: 2024-04-12
+
     status: independent
     employer: Malt
     startups:
