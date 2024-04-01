@@ -11,8 +11,10 @@ missions:
     employer: Malt
     startups:
       - infrastructures.numeriques
+      - fonds.de.plans
 startups:
   - infrastructures.numeriques
+  - fonds.de.plans
 badges:
   - segur
 ---

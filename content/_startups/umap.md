@@ -13,9 +13,9 @@ repository: https://github.com/umap-project/umap/
 stats: false
 contact: umap@anct.gouv.fr
 accessibility_status: non conforme
-
+thematiques:
+  - Outil technique
 ---
-
 ## Pourquoi uMap ?
 
 Créer et partager une carte en quelques clics, représenter des données quantitatives ou dessiner des formes, animer en diaporamas ou
@@ -46,4 +46,3 @@ Depuis mai 2023 :
 ## Une question ? Un besoin ?
 
 Contactez-nous via le [chan Tchap](https://tchap.gouv.fr/#/room/!uPnJvxCrKXSNzYhJXe:agent.dev-durable.tchap.gouv.fr) ou par courriel: umap@anct.gouv.fr
-

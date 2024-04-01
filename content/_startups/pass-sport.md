@@ -11,6 +11,13 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-08-21
+  - start: 2024-03-01
+    name: construction
+accessibility_status: non conforme
+thematiques:
+  - Santé
+  - Jeunesse
+  - Sport
 ---
 ## Contexte
 
@@ -23,4 +30,4 @@ Le dispositif a été créé de toutes pièces en 2021 dans un temps très restr
 
 ## Stratégie
 
-Le public cible du pass'sport est très divers, il regroupe les enfants bénéficiaires de l'allocation de rentrée scolaire ou de l'allocation d'éducation de l'enfant handicapé ainsi que les étudiants boursiers et les jeunes adultes bénéficiaires de l'allocation adulte handicapé. Aussi, il convient de mobiliser divers réseaux afin d'entrer en contact avec chacun d'entre eux : réseaux sociaux, établissements scolaires, réseaux personnels. L'objectif est de rencontrer l'ensemble des classes d'âges visées afin de prendre en compte la diversité de leurs pratiques et usages. 
+Le public cible du pass'sport est très divers, il regroupe les enfants bénéficiaires de l'allocation de rentrée scolaire ou de l'allocation d'éducation de l'enfant handicapé ainsi que les étudiants boursiers et les jeunes adultes bénéficiaires de l'allocation adulte handicapé. Aussi, il convient de mobiliser divers réseaux afin d'entrer en contact avec chacun d'entre eux : réseaux sociaux, établissements scolaires, réseaux personnels. L'objectif est de rencontrer l'ensemble des classes d'âges visées afin de prendre en compte la diversité de leurs pratiques et usages.

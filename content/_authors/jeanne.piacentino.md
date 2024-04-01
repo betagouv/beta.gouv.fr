@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: La caisse des dépôts
     startups:
-      - conseiller-numerique
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 ---

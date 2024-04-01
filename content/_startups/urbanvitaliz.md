@@ -26,6 +26,10 @@ phases:
     start: 2020-09-14
   - name: acceleration
     start: 2021-12-01
+thematiques:
+  - Collectivités
+  - Territoires
+  - Écologie
 ---
 ## Le problème : beaucoup de friches restent inutilisées pendant qu'on artificialise des sols naturels et agricoles. Les collectivités sont souvent bloquées dans leurs projets de réhabilitation par la complexité à affronter.
 

@@ -10,10 +10,11 @@ missions:
     status: independent
     employer: octo
     startups:
-      - conseiller-numerique
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 badges:
   - segur
 ---
+
 Développeur Web

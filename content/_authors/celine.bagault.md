@@ -5,7 +5,7 @@ domaine: Déploiement
 github: celinebagault
 missions:
   - start: 2023-10-09
-    end: 2024-03-31
+    end: 2024-09-30
     status: independent
     employer: ''
     startups:

@@ -2,11 +2,12 @@
 fullname: Mathieu Bonamy
 role: Chargé de déploiement
 domaine: Déploiement
+github: MathieuBonamy
 missions:
   - start: 2022-08-25
     end: 2024-06-29
     status: independent
-    employer: Ministère de la Transition énergétique
+    employer: Ministère en charge de l'énergie
     startups:
       - potentiel
 startups:

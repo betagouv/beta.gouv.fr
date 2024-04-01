@@ -9,6 +9,8 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-03-06
+thematiques:
+  - Formation
 ---
 Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
@@ -27,4 +29,4 @@ Actuellement, les enseignants rencontrent des difficultés pour obtenir les ress
 Solution imaginée par le ministère à l'origine de la commande : Un moyen de paiement, appelé pour le moment « compte ressources », est proposé à chaque enseignant pour acheter des ressources et outils numériques pédagogique sur un site marchand en ligne. Les modalités opérationnelles doivent assurer un processus d’achat déconcentré, simplifié et auditable.
 
 ## Stratégie
-L'investigation a pour objectif de vérifier l'hypothèse de la commande, identifier les irritants afférents sur le terrain, et éventuellement de formuler de nouvelles hypothèses. 
+L'investigation a pour objectif de vérifier l'hypothèse de la commande, identifier les irritants afférents sur le terrain, et éventuellement de formuler de nouvelles hypothèses.
