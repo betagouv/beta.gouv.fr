@@ -73,7 +73,7 @@ $(function () {
         {
           data: datasets.service,
           label: "Prestataires ", // trailing space to ensure legend complies with French typography rules
-          backgroundColor: "#4841B9",
+          backgroundColor: "#8D84F0",
           pointRadius: 0,
           lineTension: 0.3,
           fill: true,
