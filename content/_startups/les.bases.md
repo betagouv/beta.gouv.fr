@@ -40,7 +40,6 @@ Il n’existe pas aujourd’hui d’espace partagé (ou plusieurs, mais non-exha
 
 Proposer une plateforme collaborative, ouverte à tous, et dédiées aux professionnels de la médiation numérique, aux acteurs locaux et aux collectivités territoriales qui souhaitent partager, recenser, ou trouver des ressources autour de l'inclusion numérique.
 
-
 ## Statut actuel
 
 Une [enquête initiale](https://hackmd.io/@sonum/documentation) a été menée en 2021 auprès des différents acteurs pour recueillir leurs besoins, puis co-construire Les Bases.
