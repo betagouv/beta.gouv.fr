@@ -11,7 +11,7 @@ missions:
     startups:
       - dossierfacile
   - start: 2022-01-02
-    end: 2024-04-30
+    end: 2024-12-31
     status: independent
     employer: Michael Boitin EI
     startups:
@@ -33,5 +33,6 @@ competences:
 previously:
   - dossierfacile
   - vigieau
+link: https://www.linkedin.com/in/michaelboitin/
 ---
-Ux designer DossierFacile.fr et A-JUST
+Ux designer A-JUST
