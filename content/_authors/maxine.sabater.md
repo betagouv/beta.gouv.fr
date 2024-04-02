@@ -1,7 +1,7 @@
 ---
 fullname: Maxine Sabater
 domaine: Déploiement
-role: Chargée de déploiement
+role: Responsable Déploiement et Partenariats
 github: maxinesabater
 missions:
   - start: 2022-11-07
@@ -23,4 +23,5 @@ competences:
   - Communication
   - Gestion de Produit
   - Croissance
+link: https://www.linkedin.com/in/maxine-sabater-64333bb0/
 ---
