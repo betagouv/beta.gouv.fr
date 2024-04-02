@@ -16,4 +16,4 @@ startups:
 badges:
   - segur
 ---
-Je design des expériences 🧩 et j'illustre avec des pixels 🖌️ En gros je suis UX/UI Designer-illustratrice quoi 🤓 (Et quasi toujours en baskets 💪)
+Je design des expériences 🧩 et j'illustre avec des pixels 🖌️ UX/UI Designer et presque toujours en baskets 💪

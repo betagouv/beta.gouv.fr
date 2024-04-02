@@ -24,8 +24,9 @@ usertypes:
   - etat
 dashlord_url: https://dashlord.incubateur.net/url/api-gouv-fr/
 accessibility_status: non conforme
+thematiques:
+  - Open-Data
 ---
-
 ## Le problème :
 
 Au sein des administrations, la donnée est une ressource dispersée, hétérogène et difficile d'accès.

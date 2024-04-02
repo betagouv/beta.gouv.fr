@@ -194,6 +194,10 @@ mapping:
             - entreprise
             - association
             - etablissement-scolaire
+  "thematiques":
+    type:      seq
+    sequence:
+        - type:      str
   "analyse_risques":
     type:      bool
   "analyse_risques_url":

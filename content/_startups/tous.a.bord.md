@@ -17,6 +17,9 @@ phases:
   - name: construction
     start: 2022-11-01
 link: https://tous-a-bord.beta.gouv.fr/
+thematiques:
+  - Social
+  - Transports
 ---
 ## Contexte
 
@@ -37,4 +40,4 @@ Ce travail, dont la finalité sera d’identifier les opportunités de proactivi
 - Chantier n°1 : compréhension de l’existant et de définition du besoin en matière de proactivité / notification, s’inscrivant dans la poursuite du chantier engagé depuis plusieurs mois avec Etalab sur les API.  Ce chantier sera mené avec toutes les AOM volontaires sur la base de questionnaires et d’entretiens n’engageant pas la mise en œuvre de chantiers proactifs.      
 - Chantier n°2 : expérimentation de la proactivité avec des AOM souhaitant d’ores et déjà s’engager dans une phase de test. L'expérimentation se déroulera dans un ou deux territoire(s) choisi(s) par la DINUM et le GART selon la liste des AOM ayant exprimé leur souhait de participer à l’expérimentation. 
 
-Ces deux chantiers permettront de produire un rapport qui alimentera la réflexion sur la généralisation de la proactivité pour la tarification sociale et solidaire des transports. Il définira les contours d’un éventuel produit destiné à l’ensemble des AOM. La conduite en parallèle des deux chantiers permettra en outre d’alimenter la ou les expérimentation(s) d’idées ou d’opportunités identifiées dans le cadre du chantier n°1.  
+Ces deux chantiers permettront de produire un rapport qui alimentera la réflexion sur la généralisation de la proactivité pour la tarification sociale et solidaire des transports. Il définira les contours d’un éventuel produit destiné à l’ensemble des AOM. La conduite en parallèle des deux chantiers permettra en outre d’alimenter la ou les expérimentation(s) d’idées ou d’opportunités identifiées dans le cadre du chantier n°1.

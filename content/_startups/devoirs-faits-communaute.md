@@ -13,6 +13,8 @@ link: https://devoirs-faits-communaute.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12/tree/devoirs-faits
 stats: false
 contact: camille.martinelli@ac-creteil.fr
+thematiques:
+  - Education
 ---
 # Le contexte du projet :
 A la rentrée scolaire 2017, le ministre de l'Éducation nationale, de la Jeunesse et des Sports, Jean-Michel Blanquer, a lancé le dispositif “Devoirs faits” dans les collèges.
