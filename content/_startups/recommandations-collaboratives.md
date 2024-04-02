@@ -21,8 +21,9 @@ budget_url: https://pad.incubateur.net/s/qeT5bzHUM
 phases:
   - name: construction
     start: 2023-11-16
+thematiques:
+  - Collectivités
 ---
-
 ## Le problème 
 
 Les « petites » collectivités ont des difficultés à faire avancer leurs projets complexes par manque d’ingénierie en interne, notamment sur les sujets liés à la transition écologique et à l’aménagement du territoire. Souvent, elles ne savent pas par où s’y prendre, quels acteurs peuvent les aider, quels financements leur sont accessibles etc. Elles sont alors souvent bloquées ou limitées, dans la définition du projet ou dans sa maturation, ce qui en outre les défavorise dans l’obtention de fonds.

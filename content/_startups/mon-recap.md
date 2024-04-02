@@ -14,6 +14,8 @@ phases:
     start: 2023-02-13
   - name: construction
     start: 2023-09-04
+thematiques:
+  - Social
 ---
 ## Contexte
 

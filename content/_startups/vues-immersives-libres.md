@@ -23,6 +23,9 @@ phases:
 stats_url: https://panoramax.fr/stats
 stats: true
 accessibility_status: non conforme
+thematiques:
+  - Open-Data
+  - Outil technique
 ---
 ## Contexte
 
