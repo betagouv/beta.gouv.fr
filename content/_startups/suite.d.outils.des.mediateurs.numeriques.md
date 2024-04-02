@@ -9,6 +9,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-07-03
+thematiques:
+  - Outil technique
 ---
 ## Contexte
 

@@ -14,6 +14,9 @@ phases:
     start: 2021-09-01
   - name: construction
     start: 2022-09-30
+thematiques:
+  - Collectivités
+  - Écologie
 ---
 ## Contexte
 

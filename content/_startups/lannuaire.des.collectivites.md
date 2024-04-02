@@ -19,6 +19,8 @@ phases:
 fast:
   promotion: 13
   montant: 300000
+thematiques:
+  - Collectivités
 ---
 ## Contexte
 

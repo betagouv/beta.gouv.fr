@@ -95,13 +95,11 @@ Elle s’adresse également aux Organismes de formation en apprentissage qui ne 
 ###### 💡 Que devons-nous apprendre sur les problèmes des usagers pour être en mesure de proposer une solution utile et pertinente ? Quels sujets devons-nous dérisquer en priorité ?
 
 
-
 La solution actuellement conçue est prévue pour un usage unique (aucune donnée conservée après téléchargement du contrat ainsi généré). Il faudrait pouvoir à terme proposer une solution complète, ce qui implique la mise en place d’un mécanisme de connexion sécurisée, l’installation d’un tableau de bord de suivi via lequel il serait possible d’**aller plus loin dans la logique du « dites-le nous une fois »** en permettant :
 
 •	l’enregistrement de modèles ;
 
 •	la génération d’un avenant, d’une convention de formation, d’une convention d’allongement ou de réduction de durée, d’une convention de mobilité, voire même d’un formulaire de résiliation à partir d’un contrat existant.
-
 
 
 ###### 💡 Où et comment rencontrer nos premiers usagers pour mieux comprendre le(s) problème(s) à résoudre et les envisager des hypothèses de solutions ?
