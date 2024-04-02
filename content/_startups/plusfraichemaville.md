@@ -29,6 +29,8 @@ techno:
     - Directus
 redirect_from:
   - /startups/rafraichir.les.villes
+thematiques:
+  - Écologie
 ---
 ## Contexte
 

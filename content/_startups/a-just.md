@@ -34,6 +34,8 @@ phases:
 fast:
   promotion: 13
   montant: 300000
+thematiques:
+  - Justice
 ---
 <!--StartFragment-->
 
@@ -104,9 +106,6 @@ A-JUST vise à offrir aux justiciables des délais plus courts de prise en charg
 Pour cela, A-JUST a pour objectif de permettre aux juridictions de visualiser et d’anticiper l’impact de leurs affectations d’effectifs sur les délais de prise en charge des contentieux.
 
 Visualisation, corrélation, simulation… A-JUST se définit comme un outil  d’aide à la décision et de prospective.
-
----
-
 ¹ Pénal, civil, social, commercial…
 
 ² Magistrats, greffiers, fonctionnaires, agents administratifs, vacataires, assistants de justice, magistrats honoraires, juristes assistants…
