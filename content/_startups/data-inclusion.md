@@ -21,6 +21,9 @@ usertypes:
   - association
   - etat
 accessibility_status: partiellement conforme
+thematiques:
+  - Territoires
+  - Open-Data
 ---
 ## Le problème 
 

@@ -19,6 +19,8 @@ phases:
       expérimentale le 6 juillet 2021. Récupérations des retours utilisateurs.
 usertypes:
   - etat
+thematiques:
+  - Formation
 ---
 ## Contexte
 
