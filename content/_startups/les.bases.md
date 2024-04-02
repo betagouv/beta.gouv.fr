@@ -11,6 +11,7 @@ title: Les Bases
 contact: thibault.rouveyrol@beta.gouv.fr
 accessibility_status: non conforme
 stats_url: https://lesbases.anct.gouv.fr/statistiques
+stats: true
 sponsors:
   - /organisations/anct
 phases:
