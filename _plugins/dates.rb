@@ -1,6 +1,6 @@
 module Jekyll
     module DateFilter
-        MONTHS_FR = %w(Janvier Février Mars Avril Mai Juin Juillet Aout Septembre Octobre Novembre Décembre)
+        MONTHS_FR = %w(janvier février mars avril mai juin juillet aout septembre octobre novembre décembre)
 
         def french_long_date(input)
             day = time(input).strftime("%-d") # no leading zero
