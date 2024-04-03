@@ -42,8 +42,9 @@ jobs:
         uses: marocchino/sticky-pull-request-comment@v2
         with:
           message: |
-            ### Axe result for ${{ github.sha }} to <https://beta.gouv.fr>
-
+            ### Rapport d'accessibilité [axe-core](https://github.com/dequelabs/axe-core) pour ${{ github.sha }} to <https://beta.gouv.fr>
+            
+            ```
             ${{ env.AXE_OUTPUT }}
-        
+            ```        
 
