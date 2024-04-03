@@ -18,4 +18,13 @@ jobs:
       - name: Run axe
         run: |
           npm install -g @axe-core/cli
-          axe https://beta.gouv.fr --exit
+          {
+            echo 'axe_output<<EOF'
+            axe https://beta.gouv.fr --exit 2>&1
+            echo EOF
+          } >> "$GITHUB_ENV"
+      - name: Read result
+        if: success() || failure()
+        id: unit_test_report
+        run: |
+          echo "$axe_output"
