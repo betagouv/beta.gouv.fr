@@ -16,15 +16,13 @@ jobs:
         with:
           node-version: 18
       - name: Run axe
+        id: axe
         run: |
-          {
-            npm install -g @axe-core/cli
-            echo 'axe_output<<EOF'
-            axe https://beta.gouv.fr --exit 2>&1
-            echo 'EOF'
-          } >> "$GITHUB_ENV"
+          npm install -g @axe-core/cli
+          axe https://beta.gouv.fr
       - name: Read result
         if: success() || failure()
-        id: unit_test_report
         run: |
-          echo "$axe_output"
+          echo "$AXE_OUTPUT"
+        env:
+          AXE_OUTPUT: ${{toJSON(steps.axe.outputs)}}
