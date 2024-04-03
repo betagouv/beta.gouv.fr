@@ -28,17 +28,16 @@ jobs:
         run: |
           {
             echo 'AXE_OUTPUT<<EOF'
-            axe https://beta.gouv.fr --exit
+            axe https://beta.gouv.fr
             echo EOF
           } >> "$GITHUB_ENV"
 
       - name: Read result
-        if: success() || failure()
         run: |
           echo "$AXE_OUTPUT"
 
       - name: Post result
-        if: failure()
+        if: ${{ contains(env.AXE_OUTPUT, 'Accessibility issues detected') }}
         uses: marocchino/sticky-pull-request-comment@v2
         with:
           message: |
