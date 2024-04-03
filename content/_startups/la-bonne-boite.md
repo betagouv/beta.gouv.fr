@@ -26,8 +26,6 @@ phases:
     start: 2015-05-01
   - name: acceleration
     start: 2023-01-19
-  - start: 2024-04-03
-    name: transfer
 stats_url: https://labonneboite.francetravail.fr/stats
 ---
 Le saviez-vous ?Le marché caché de l’emploi représente **plus de 40% des recrutements** ( Sur 7 millions de recrutement , 3 millions s'est fait via la marché caché en 2020)!
