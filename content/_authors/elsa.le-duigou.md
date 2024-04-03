@@ -14,6 +14,10 @@ missions:
     employer: ''
     startups:
       - collectif_objets
+      - tous.a.bord
+      - medistock
+      - notices-medicaments
+      - teleconsultation-ald
   - start: 2022-12-27
     end: 2025-12-26
     status: admin
