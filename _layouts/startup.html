@@ -227,6 +227,23 @@ layout: default
         </div>
       </div>
     </div>
+    {% if page.phases %}
+    <h2>En quelques dates</h2>
+    <div class="startup-timeline">
+      {%- assign investigated=page.phases | where: 'name', 'investigation' | first %}
+      {%- assign constructed=page.phases | where: 'name', 'construction' | first %}
+      {%- assign accelerated=page.phases | where: 'name', 'acceleration' | first %}
+      {%- assign transfered=page.phases | where: 'name', 'transfer' | first %}
+      {%- assign succeeded=page.phases | where: 'name', 'success' | first %}
+      {%- assign finished=page.phases | where: 'name', 'alumni' | first %}
+      {% if investigated %}<div class="active"><b>Investigation</b><br/>{{ investigated.start | french_long_date }}</div>{% else %}<div><b>Investigation</b></div>{% endif %}
+      {% if constructed %}<div class="active"><b>Construction</b><br/>{{ constructed.start | french_long_date }}</div>{% elsif finished==nil %}<div><b>Construction</b></div>{% endif %}
+      {% if accelerated %}<div class="active"><b>Accélération</b><br/>{{ accelerated.start | french_long_date }}</div>{% elsif finished==nil %}<div><b>Accélération</b></div>{% endif %}
+      {% if transfered %}<div class="active"><b>Transfert</b><br/>{{ transfered.start | french_long_date }}</div>{% elsif succeeded==nil and  finished==nil %}<div><b>Transfert</b></div>{% endif %}
+      {% if succeeded %}<div class="success"><b>Pérénnisé</b><br/>{{ succeeded.start | french_long_date }}</div>{% elsif finished==nil %}<div><b>Pérénnisé</b></div>{% endif %}
+      {% if finished %}<div class="finished"><b>Partenariat terminé</b><br/>{{ finished.start | french_long_date }}</div>{% endif %}
+    </div>
+    {% endif %}
   </div>
 </div>
 

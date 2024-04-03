@@ -34,8 +34,10 @@ phases:
 fast:
   promotion: 13
   montant: 300000
+thematiques:
+  - Logement
+  - Administratif
 ---
-
 ## DossierFacile.fr devient DossierFacile.logement.gouv.fr !
 
 Pas de panique, le nom de domaine change mais notre service reste le même !

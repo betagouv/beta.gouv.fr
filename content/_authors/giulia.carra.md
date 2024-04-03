@@ -14,4 +14,3 @@ competences:
   - DevOps
   - Data Science
 memberType: beta
----

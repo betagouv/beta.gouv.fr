@@ -21,6 +21,9 @@ usertypes:
   - etablissement-scolaire
 dashlord_url: https://dashlord.incubateur.net/url/classe-a-12-beta-gouv-fr/
 accessibility_status: non conforme
+thematiques:
+  - Jeunesse
+  - Education
 ---
 # Le problème :
 En sept 2017, Le dispositif classe à 12 initié par le Ministère de l'éducation nationale a permis à plus de 2500 enseignants de se lancer dans l'expérimentation d'une classe à effectif réduit afin de favoriser la réussite des élèves en  éducation prioritaire.
