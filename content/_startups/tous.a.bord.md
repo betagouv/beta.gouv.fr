@@ -45,8 +45,7 @@ Ces deux chantiers permettront de produire un rapport qui alimentera la réflexi
 
 ## 🧪 Résumé des expérimentations Tous à bord (Avril 2023) :
 
-### 💼 Expérimentation avec Artois Mobilité pour les demandeurs d’emploi (_encore en cours_)
-
+**💼 Expérimentation avec Artois Mobilité pour les demandeurs d’emploi (_encore en cours_)**
 
 L'expérimentation avec Artois Mobilité vise à simplifier le parcours des demandeurs d'emploi dans l'accès aux tarifications sociales pour les transports publics.
 
@@ -57,8 +56,7 @@ L'expérimentation avec Artois Mobilité vise à simplifier le parcours des dema
     - Diminution des délais de traitement des demandes par 3
     - Réduction des démarches administratives répétitives : passage de 7 à 1 document administratif à fournir de la part du demandeur d’emploi
 
-### 🧑‍🎓 Expérimentation avec Brest Métropole pour les étudiants boursiers
-
+**🧑‍🎓 Expérimentation avec Brest Métropole pour les étudiants boursiers**
 
 L'expérimentation menée par Brest Métropole en collaboration avec le CROUS de Bretagne vise à simplifier le parcours des étudiants boursiers pour l'accès à des tarifs réduits dans les transports publics.
 
