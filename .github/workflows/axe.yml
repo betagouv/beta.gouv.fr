@@ -23,10 +23,12 @@ jobs:
         id: axe
         shell: bash
         run: |
-          npm install -g @axe-core/cli
-          AXE_OUTPUT=$(axe https://beta.gouv.fr)
-          echo $AXE_OUTPUT
-          echo "$AXE_OUTPUT=$(echo $AXE_OUTPUT)" >> $GITHUB_OUTPUT
+          {
+            npm install -g @axe-core/cli
+            echo 'AXE_OUTPUT<<EOF'
+            axe https://beta.gouv.fr
+            echo EOF
+          } >> "$GITHUB_ENV"
 
       - name: Read result
         if: success() || failure()
