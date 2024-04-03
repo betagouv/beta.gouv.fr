@@ -19,10 +19,9 @@ jobs:
         id: axe
         run: |
           npm install -g @axe-core/cli
-          axe https://beta.gouv.fr
+          echo "AXE_OUTPUT=$(axe https://beta.gouv.fr)" >> $GITHUB_OUTPUT
+
       - name: Read result
         if: success() || failure()
         run: |
           echo "$AXE_OUTPUT"
-        env:
-          AXE_OUTPUT: ${{toJSON(steps.axe.outputs)}}
