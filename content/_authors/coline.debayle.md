@@ -13,7 +13,8 @@ missions:
     end: 2024-03-27
     status: independent
     employer: NUMA
-    startups: []
+    startups:
+      - economes.de.flux.a.disposition
 memberType: dinum
 ---
 Entrepreneur à impact depuis toujours !

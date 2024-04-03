@@ -18,6 +18,8 @@ phases:
   - name: construction
     start: 2022-11-01
 link: https://www.demarches-simplifiees.fr/commencer/dossier-accessibilite
+thematiques:
+  - Administratif
 ---
 ## Contexte
 

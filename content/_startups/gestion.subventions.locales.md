@@ -9,6 +9,9 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-04
+thematiques:
+  - Collectivités
+  - Administratif
 ---
 ## Contexte
 

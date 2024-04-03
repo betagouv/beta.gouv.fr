@@ -22,8 +22,10 @@ phases:
     start: 2022-10-03
     end: 2025-01-01
 accessibility_status: non conforme
+thematiques:
+  - Travail / Emploi
+  - Social
 ---
-
 #### **Contexte**
 
 Le parcours d’insertion professionnelle peut être ralenti par différents freins sociaux que nous avons identifiés : la mobilité, la garde d’enfant, l’accès au logement, la santé, l’accès au numérique… Dans ce contexte le projet Mes Aides a été impulsé par Madame Brigitte Klinkert, ex-ministre déléguée à l’insertion pour participer à la levée de ces freins sociaux.

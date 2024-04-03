@@ -11,8 +11,10 @@ stats: true
 phases:
   - name: construction
     start: 2023-01-20
+thematiques:
+  - Travail / Emploi
+  - Formation
 ---
-
 **Contexte**
 
 La formation professionnelle des demandeurs d’emploi est un enjeu stratégique pour France Travail.
@@ -41,4 +43,3 @@ Le bénéficiaire pourra en garder une copie en PDF ainsi qu'une version imprim�
 
 Dans un premier temps nous allons nous appuyer sur les accompagnants pour déployer la solution.
 Nous ouvrions le service d'abord pour les bénéficiaires du RSA puis nous ajouterons petit-à-petit d'autres publics et d'autres dispositifs afin de toucher à terme l'ensemble des bénéficiaires du RSA, AAH et ASS qui ont un besoin de formation. (estimé à environ 2,5 millions). Notre objectif est d'augmenter le taux d'entrée en formation des personnes qui auront bénéficié de notre solution.
-

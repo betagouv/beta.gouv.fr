@@ -10,4 +10,3 @@ missions:
 competences:
   - Intrapreneur(se)
 memberType: beta
----
