@@ -8,7 +8,8 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Octo
-    startups: []
+    startups:
+      - rdv.insertion
 startups:
   - rdv.insertion
 badges:
