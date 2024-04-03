@@ -1,0 +1,30 @@
+name: a11ywatch Tests
+
+on:
+  push:
+    branches: "*"
+  pull_request:
+    branches: "*"
+
+jobs:
+  test:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: a11ywatch/github-action@v2.1.10
+        with:
+          WEBSITE_URL: https://beta.gouv.fr
+          SITE_WIDE: true
+          SUBDOMAINS: false
+          TLD: false
+          SITEMAP: true
+          FAIL_ERRORS_COUNT: 1
+          LIST: true
+          FIX: false
+          UPGRADE: false
+          UPLOAD: true
+          #COMPUTER_VISION_SUBSCRIPTION_KEY: ${{ secrets.COMPUTER_VISION_SUBSCRIPTION_KEY }}
+          #COMPUTER_VISION_ENDPOINT: ${{ secrets.COMPUTER_VISION_ENDPOINT }}
+        env:
+          DEFAULT_RUNNERS: htmlcs,axe
+          PAGEMIND_IGNORE_WARNINGS: true
+          AI_DISABLED: true
