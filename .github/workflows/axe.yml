@@ -21,6 +21,7 @@ jobs:
           
       - name: Run axe
         id: axe
+        shell: bash
         run: |
           npm install -g @axe-core/cli
           AXE_OUTPUT=$(axe https://beta.gouv.fr)
@@ -38,6 +39,6 @@ jobs:
           message: |
             ### Axe result for ${{ github.sha }} to <https://beta.gouv.fr>
 
-            $AXE_OUTPUT
+            ${{ env.AXE_OUTPUT }}
         
 
