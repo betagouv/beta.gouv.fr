@@ -9,4 +9,5 @@ missions:
     employer: Ministère
     startups:
       - archifiltre
+memberType: beta
 ---
