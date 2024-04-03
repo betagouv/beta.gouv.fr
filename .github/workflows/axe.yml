@@ -25,7 +25,8 @@ jobs:
         run: |
           npm install -g @axe-core/cli
           AXE_OUTPUT=$(axe https://beta.gouv.fr)
-          echo "$AXE_OUTPUT" >> $GITHUB_OUTPUT
+          echo $AXE_OUTPUT
+          echo "$AXE_OUTPUT=$(echo $AXE_OUTPUT)" >> $GITHUB_OUTPUT
 
       - name: Read result
         if: success() || failure()
