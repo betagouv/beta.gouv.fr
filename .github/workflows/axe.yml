@@ -17,11 +17,11 @@ jobs:
           node-version: 18
       - name: Run axe
         run: |
-          npm install -g @axe-core/cli
           {
+            npm install -g @axe-core/cli
             echo 'axe_output<<EOF'
             axe https://beta.gouv.fr --exit 2>&1
-            echo EOF
+            echo 'EOF'
           } >> "$GITHUB_ENV"
       - name: Read result
         if: success() || failure()
