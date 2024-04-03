@@ -28,7 +28,7 @@ jobs:
         run: |
           {
             echo 'AXE_OUTPUT<<EOF'
-            axe https://beta.gouv.fr
+            axe https://beta.gouv.fr --exit
             echo EOF
           } >> "$GITHUB_ENV"
 
@@ -38,7 +38,7 @@ jobs:
           echo "$AXE_OUTPUT"
 
       - name: Post result
-        if: success() || failure()
+        if: failure()
         uses: marocchino/sticky-pull-request-comment@v2
         with:
           message: |
