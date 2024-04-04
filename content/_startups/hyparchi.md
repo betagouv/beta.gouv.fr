@@ -10,7 +10,6 @@ phases:
     start: 2024-01-15
   - name: construction
     start: 2024-05-15
-repository: https://github.com/betagouv/compte-rendu-vif/
 thematiques:
   - Patrimoine
 ---
