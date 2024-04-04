@@ -9,5 +9,10 @@ missions:
     employer: ''
 link: https://www.linkedin.com/in/hardybenjamin
 memberType: beta
+competences:
+  - Croissance
+  - Product design
+  - Product strategy
+  - UX
 ---
 👋
