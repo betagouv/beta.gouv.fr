@@ -1,7 +1,7 @@
 ---
 domaine: Coaching
 fullname: Benjamin Hardy
-role: Coaching
+role: Coach
 missions:
   - start: 2024-04-04
     end: 2024-07-04
