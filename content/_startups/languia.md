@@ -1,7 +1,6 @@
 ---
 mission: >-
-  Permettre la réalisation de comptes rendus par des agents - Architectes des
-  Bâtiments de France - lors de leurs rencontres avec les usagers.
+  L'arène LANGU:IA consiste à comparer grâce à un dispositif interactif et ludique les réponses générées par différents modèles à une invite donnée. Un utilisateur pose une question en    français et obtient des réponses de deux LLM anonymes.
 incubator: culture
 title: Arène LANGU:IA
 contact: lucie.termignon@culture.gouv.fr
@@ -11,6 +10,10 @@ phases:
     start: 2024-01-15
   - name: construction
     start: 2024-04-15
+usertypes:
+  - particulier
+thematiques:
+  - Patrimoine
 ---
 
 ### Le problème
