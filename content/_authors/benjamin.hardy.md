@@ -7,4 +7,7 @@ missions:
     end: 2024-07-04
     status: independent
     employer: ''
+link: https://www.linkedin.com/in/hardybenjamin
+memberType: beta
 ---
+👋
