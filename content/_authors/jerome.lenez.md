@@ -6,7 +6,7 @@ github: jlenez
 missions:
   - start: 2021-08-02
     end: 2024-08-30
-    status: admin
+    status: independent
     employer: DIRISI
     startups:
       - athena
@@ -19,5 +19,6 @@ competences:
 previously:
   - cassiopee
   - civils-de-la-defense
+link: https://www.linkedin.com/in/jeromelenez/
 ---
 Product Manager
