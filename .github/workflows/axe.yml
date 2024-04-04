@@ -47,3 +47,7 @@ jobs:
             ${{ env.AXE_OUTPUT }}
             ```        
 
+      - name: Exit code
+        if: ${{ contains(env.AXE_OUTPUT, 'Accessibility issues detected') }}
+        run: |
+          exit 1
