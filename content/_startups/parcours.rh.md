@@ -3,14 +3,13 @@ mission: Améliorer les étapes d'un parcours RH
 incubator: dinum
 title: Parcours RH
 contact: suheng.ngo@beta.gouv.fr
-accessibility_status: totalement conforme
+accessibility_status: non conforme
 sponsors:
   - /organisations/mtfp
 phases:
   - name: investigation
     start: 2024-03-18
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
 ## Contexte
 
