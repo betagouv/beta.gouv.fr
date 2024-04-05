@@ -1,6 +1,6 @@
 ---
 fullname: Maxime GAMMAIRE
-role: Intrapreneur
+role: Intrapreneur Mistral pénal
 domaine: Intraprenariat
 github: graphein13
 missions:
@@ -15,5 +15,11 @@ badges:
 startups:
   - mistral-penal
 link: https://www.linkedin.com/in/maxime-gammaire-73a059270/
+competences:
+  - Droit / Affaires juridiques
+  - Administration Publique
+  - Développement
+  - Intrapreneur(se)
+  - Communication
 ---
 Directeur des services de greffe judiciaires
