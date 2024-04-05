@@ -7,4 +7,6 @@ missions:
     end: 2024-09-03
     status: independent
     employer: ''
+link: https://www.linkedin.com/in/victoriabocquet/
+memberType: beta
 ---
