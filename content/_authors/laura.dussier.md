@@ -14,7 +14,12 @@ previously:
   - impact.co2
 incubator: ademe
 competences:
+  - Communication
+  - Facilitation
+  - Product design
+  - Product strategy
   - UX
+  - Accessibilité
   - UI
 teams:
   - /teams/ademe
