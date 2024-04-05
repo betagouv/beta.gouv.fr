@@ -15,4 +15,5 @@ teams:
 memberType: beta
 startups:
   - suite.d.outils.des.mediateurs.numeriques
+link: https://www.linkedin.com/in/manon-galle/
 ---
