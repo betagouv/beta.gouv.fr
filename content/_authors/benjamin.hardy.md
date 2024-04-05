@@ -14,5 +14,4 @@ competences:
   - Product design
   - Product strategy
   - UX
-👋
 ---
