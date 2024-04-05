@@ -14,7 +14,7 @@ competences:
   - Product strategy
   - Coaching
 memberType: beta
----
 2016-2020 - Cofondateur @ Implicity (startup e-santé)
 2020-Présent - Cofondateur @ Convention des Entreprises pour le Climat 
 Coach et facilitateur
+---
