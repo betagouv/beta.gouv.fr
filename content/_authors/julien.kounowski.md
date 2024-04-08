@@ -1,14 +1,12 @@
 ---
 fullname: Julien Kounowski
 domaine: Intraprenariat
-role: Intrapreneur
+role: Intraprenariat
 missions:
-  - start: 2020-10-01
-    end: 2021-08-31
+  - start: 2024-04-08
+    end: 2024-12-08
     status: admin
-    employer: Ministères Sociaux / DRJSCS HDF
-    startups:
-      - aidess
+    employer: Dinum
 startups:
   - aidess
 badges:
