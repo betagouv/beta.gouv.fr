@@ -4,7 +4,7 @@ role: Relation NUMA - Beta
 domaine: Animation
 missions:
   - start: 2020-02-28
-    end: 2024-09-29
+    end: 2025-09-30
     status: service
     employer: NUMA
 ---
