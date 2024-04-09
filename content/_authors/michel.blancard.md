@@ -1,7 +1,7 @@
 ---
 fullname: Michel Blancard
 role: Data scientist
-domaine: Autre
+domaine: Data
 link: https://www.linkedin.com/in/mblancard/
 missions:
   - start: 2016-12-30
