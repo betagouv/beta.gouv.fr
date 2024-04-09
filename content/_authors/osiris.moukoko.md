@@ -1,7 +1,7 @@
 ---
 fullname: Osiris Moukoko
 role: Consultant - Coach
-domaine: Autre
+domaine: Coaching
 github: OMoukoko
 missions:
   - start: 2020-10-01
