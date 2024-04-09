@@ -1,7 +1,7 @@
 ---
 fullname: Charlotte Lemahieu
-role: Intrapreneure
-domaine: Autre
+role: Intrapreneure 
+domaine: Intraprenariat
 missions:
   - start: 2024-03-12
     end: 2024-06-12

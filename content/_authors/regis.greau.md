@@ -1,5 +1,5 @@
 ---
-fullname: Régis GREAU
+fullname: Régis Greau
 role: CTO
 domaine: Autre
 missions:
