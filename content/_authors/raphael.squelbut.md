@@ -1,6 +1,7 @@
 ---
 fullname: Raphaël Squelbut
-domaine: Développeur
+role: Développeur
+domaine: Développement
 github: raphael-squelbut
 missions:
   - start: 2021-05-10
