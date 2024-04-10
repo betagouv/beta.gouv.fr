@@ -6,6 +6,8 @@ contact: esther.teboul@beta.gouv.fr
 phases:
   - name: investigation
     start: 2023-10-24
+  - name: alumni
+    start: 2024-03-27
 thematiques:
   - Entreprises
 ---
