@@ -15,7 +15,7 @@ usertypes:
   - etablissement-scolaire
   - etat
   - collectivite-territoriale
-dashlord_url: 
+dashlord_url: https://dashlord.incubateur.net/url/orion-inserjeunes-beta-gouv-fr/
 ---
 
 ## Le constat
