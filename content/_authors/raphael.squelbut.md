@@ -9,7 +9,13 @@ missions:
     employer: SHODO
     startups:
       - signaux-faibles
-startups:
+  - start: 2024-04-16
+    end: 2024-07-01
+    employer: SHODO
+    status: service
+    startups:
+      - suite-numerique
+memberType: beta
+previously:
   - signaux-faibles
-domaine: Développement
 ---
