@@ -24,4 +24,4 @@ competences:
 teams:
   - /teams/communaute-dinum
 ---
-Développeur Web Fullstack
+Développeur Web Fullstack Info
