@@ -67,13 +67,12 @@ main .fr-container img {
 }
 
 .hero__startup__mission {
-  color: #4941C0;
+  color: #4941c0;
 }
-
 
 /* Couleurs de sections et espacemements */
 .section-grey {
-  background-color: #E9E6FC;
+  background-color: #e9e6fc;
 }
 
 .section-lightgrey {
@@ -85,7 +84,7 @@ main .fr-container img {
 }
 
 .section-lightgrey .section-highlight {
- color: #484d7a;
+  color: #484d7a;
 }
 
 .section-dark {
@@ -93,7 +92,8 @@ main .fr-container img {
   color: var(--grey-1000-50);
 }
 
-.section-color, .section-color h2 {
+.section-color,
+.section-color h2 {
   background-color: #003b80;
   color: var(--grey-1000-50);
 }
@@ -103,7 +103,7 @@ main .fr-container img {
 */
 
 /* Afficher le curseur même quand on est sur la page active */
-.fr-nav__item--active>.fr-nav__link {
+.fr-nav__item--active > .fr-nav__link {
   pointer-events: all !important;
 }
 
@@ -112,13 +112,13 @@ main .fr-container img {
   flex-direction: column !important;
 } */
 
-.fr-card__body{
+.fr-card__body {
   padding: 1em;
 }
 
 /* Ajouter un nouveau style rond sur les cartes */
 .fr-card.fr-card__img__rounded {
-  background: linear-gradient(180deg, #ffffff00 20%, #f9f8f6 20%)
+  background: linear-gradient(180deg, #ffffff00 20%, #f9f8f6 20%);
 }
 
 .fr-card.fr-card__img__rounded:not([disabled]):hover {
@@ -138,7 +138,8 @@ main .fr-container img {
 }
 
 /* Ajouter un modificateur de tags pour les rendre inactifs */
-a.fr-tag.fr-tag--inactive, button.fr-tag.fr-tag--inactive {
+a.fr-tag.fr-tag--inactive,
+button.fr-tag.fr-tag--inactive {
   color: var(--g700);
   background-color: var(--bf100-g750);
 }
@@ -147,13 +148,15 @@ a.fr-tag.fr-tag--inactive, button.fr-tag.fr-tag--inactive {
   background-color: var(--bf300-plain);
 }
 
-.fr-tags-group a.fr-tag--sm, .fr-tags-group button.fr-tag--sm {
+.fr-tags-group a.fr-tag--sm,
+.fr-tags-group button.fr-tag--sm {
   margin-right: 0.1rem !important;
   margin-bottom: 0.9rem !important;
 }
 
 /* Garantir qu'un <p> dans un <li> ne s'affiche pas sur la ligne suivant */
-ol li p, ul li p {
+ol li p,
+ul li p {
   display: inline;
 }
 
@@ -257,7 +260,7 @@ ol li p, ul li p {
 .markdown p {
   font-size: 1rem;
   line-height: 1.5rem;
-  margin: 0 0 1.0rem;
+  margin: 0 0 1rem;
 }
 
 @media (max-width: 1000px) {
@@ -288,7 +291,7 @@ ol li p, ul li p {
   position: absolute;
   width: 100%;
   height: 100%;
-  transition: all 0.5s ease-out ;
+  transition: all 0.5s ease-out;
   max-height: 200px;
 }
 
@@ -301,8 +304,7 @@ ol li p, ul li p {
 
 /* START SECTION CLASS */
 .section-blue {
-  background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%),
-              linear-gradient(0deg, #00006D, #00006D);
+  background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%), linear-gradient(0deg, #00006d, #00006d);
 }
 
 .section-white h2 {
@@ -311,9 +313,8 @@ ol li p, ul li p {
 
 .section-description {
   font-weight: bold;
-  color: #4941C0;
+  color: #4941c0;
 }
-
 
 .section-blue h1,
 .section-blue h2,
@@ -377,18 +378,16 @@ ol li p, ul li p {
   height: 100%;
 }
 
-
 .section-principle-list-item .section-principle-list-item-content {
   font-size: 1.2em;
 }
 
 .section-principle .row {
-  background-color: #F9F8F6
+  background-color: #f9f8f6;
 }
 
-
 .section-highlight {
-  color: #FCDC59;
+  color: #fcdc59;
 }
 
 @media (max-width: 749px) {
@@ -419,7 +418,7 @@ ol li p, ul li p {
 }
 
 .text-purple {
-  color: #4941C0;
+  color: #4941c0;
 }
 
 .text-white {
@@ -480,74 +479,109 @@ img.lozad {
 }
 
 mark {
-    background-color: var(--yellow-tournesol-950-100);
-    padding: 0 0.3rem;
-    margin: 0 -0.3rem;
+  background-color: var(--yellow-tournesol-950-100);
+  padding: 0 0.3rem;
+  margin: 0 -0.3rem;
 }
 
 .search-card {
-    position: sticky !important;
-    height: fit-content !important;
-    top: 3rem;
-    margin-bottom: 3rem;
+  position: sticky !important;
+  height: fit-content !important;
+  top: 3rem;
+  margin-bottom: 3rem;
 }
 
 #realisations .hero-section img {
-    max-height: 12.5rem;
-    object-fit: contain;
+  max-height: 12.5rem;
+  object-fit: contain;
 }
 
 #realisations ul.checkmark-list {
-    list-style-image: url(/assets/images/icons/list-checkmark.svg);
-    padding-inline-start: 2rem;
+  list-style-image: url(/assets/images/icons/list-checkmark.svg);
+  padding-inline-start: 2rem;
 }
 
 #realisations .explore-startups {
-    background-color: var(--yellow-tournesol-975-75);
-    border-radius: 0rem 0rem 6rem 0rem;
+  background-color: var(--yellow-tournesol-975-75);
+  border-radius: 0rem 0rem 6rem 0rem;
 }
 
 #incubateurs .hero-section img {
-    max-height: 12.5rem;
-    object-fit: contain;
+  max-height: 12.5rem;
+  object-fit: contain;
 }
 
 #incubateurs ul.checkmark-list {
-    list-style-image: url(/assets/images/icons/list-checkmark.svg);
-    padding-inline-start: 2rem;
+  list-style-image: url(/assets/images/icons/list-checkmark.svg);
+  padding-inline-start: 2rem;
 }
 
 #incubateurs .incubator-onboarding {
-    border-radius: 0rem 0rem 6rem 0rem;
+  border-radius: 0rem 0rem 6rem 0rem;
 }
 
 @media screen and (min-width: 768px) {
-    #incubateurs ul.checkmark-list {
-        columns: 2;
-        column-gap: 40px;
-    }
+  #incubateurs ul.checkmark-list {
+    columns: 2;
+    column-gap: 40px;
+  }
 }
 
 .fr-card img.incubator-logo {
-    height: 150px;
-    object-fit: contain;
-    background-color: transparent;
+  height: 150px;
+  object-fit: contain;
+  background-color: transparent;
 }
 
 #incubator-view img.incubator-logo {
-    max-height: 150px;
-    object-fit: contain;
-    object-position: center;
+  max-height: 150px;
+  object-fit: contain;
+  object-position: center;
 }
 
 .blue-background {
-    background: var(--background-alt-blue-france);
+  background: var(--background-alt-blue-france);
 }
 
 #job-page p {
-    margin: 1.5rem 0 0 0;
+  margin: 1.5rem 0 0 0;
 }
 
-#job-page h2, #job-page h3 {
-    margin: 3rem 0 1rem 0;
+#job-page h2,
+#job-page h3 {
+  margin: 3rem 0 1rem 0;
+}
+
+.startup-timeline {
+  display: flex;
+  margin: 30px 0;
+}
+
+.startup-timeline > div {
+  border-top: 0.5rem solid var(--background-contrast-grey);
+  flex: 1 0 auto;
+  margin: 3px;
+  padding: 5px;
+}
+
+@media screen and (max-width: 768px) {
+  .startup-timeline {
+    display: block;
+  }
+  .startup-timeline > div {
+    width: 200px;
+    margin-bottom: 2rem;
+  }
+}
+
+.startup-timeline > div.active {
+  border-color: var(--background-action-low-blue-france);
+}
+
+.startup-timeline > div.success {
+  border-color: var(--background-action-low-green-emeraude);
+}
+
+.startup-timeline > div.finished {
+  border-color: var(--background-action-low-red-marianne);
 }

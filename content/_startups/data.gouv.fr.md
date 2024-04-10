@@ -25,6 +25,8 @@ redirect_from:
 usertypes:
   - particulier
   - etat
+thematiques:
+  - Open-Data
+  - Entreprises
 ---
-
 data.gouv.fr est le premier portail open data national à se constituer en véritable réseau social entre producteurs et réutilisateurs de données publiques. Il référence les jeux de données sur tout le territoire et les réutilisations qui en sont faites.

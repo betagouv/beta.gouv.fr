@@ -9,6 +9,8 @@ missions:
     end: 2024-12-31
     status: service
     employer: Ippon Technologies, Omnicité
+    startups:
+      - homologation
 startups:
   - homologation
 memberType: beta

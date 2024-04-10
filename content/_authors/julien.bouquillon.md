@@ -16,5 +16,8 @@ missions:
     employer: dinum
 teams:
   - /teams/animation-dinum
+competences:
+  - Développement Full-stack
+  - DevOps
 ---
 Make it work, make it right, make it fast
