@@ -4,9 +4,9 @@ fullname: Bruno Chiocchia
 role: Autre
 missions:
   - start: 2024-04-10
-    end: 2025-01-12
+    end: 2024-07-10
     status: admin
-    employer: MENJ
+    employer: ''
     startups:
       - monstage
 memberType: autre
