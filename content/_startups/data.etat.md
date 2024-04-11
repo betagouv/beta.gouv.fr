@@ -24,7 +24,7 @@ Lancé suite au plan de Relance avec l'enjeu de ne plus avoir à utiliser AirTab
 
 ## Problème
 
-Comment utiliser les données dont comptable de l'Etat (exemple CHOURS) et de ses opérateurs pour en faire une donnée intelligible et réutilisable pour les agents métiers et leur donner enfin une vision complète des financements publics sur les territoires pour mieux piloter les politiques publiques en toute interministérialité ?
+Comment utiliser les données dont comptable de l'Etat (exemple CHORUS) et de ses opérateurs pour en faire une donnée intelligible et réutilisable pour les agents métiers et leur donner enfin une vision complète des financements publics sur les territoires pour mieux piloter les politiques publiques en toute interministérialité ?
 
 ## Solution
 
