@@ -1,9 +1,7 @@
 ---
-mission: >-
-  Aider les agents en recherche de mobilité à identifier les opportunités
-  numériques en inter-ministériel
+mission: Aider les agents en recherche de mobilité à identifier les opportunités numériques en inter-ministériel
 incubator: dinum
-title: 'Investigation d''un pôle de compétences numérique '
+title: Investigation d''un pôle de compétences numérique
 contact: stephanie.dubois@modernisation.gouv.fr
 accessibility_status: non conforme
 sponsors:
@@ -21,7 +19,7 @@ Actuellement environ 50 000 personnes travaillent dans le numérique au sein de 
 Or, l’Etat ne dispose pas des compétences techniques numériques pertinentes et efficaces au bon endroit au bon moment, et dans tous les ministères de nombreux postes sont vacants. 
 
 
-##### Pourquoi maintenant ?
+## Pourquoi maintenant ?
 
 
 Cette investigation se situe au confluent du besoin réaffirmé de dynamiser les compétences techniques au sein de l’État, dans un contexte de création d’un département RH de la filière numérique de l’État au sein de la DINUM, et de la réforme de la haute fonction publique transposée aux corps techniques de l’État d’ici la fin de l’année 2024.
@@ -30,20 +28,20 @@ Cette investigation se situe au confluent du besoin réaffirmé de dynamiser les
 
 Les problèmes que l’on cherche à résoudre sont identifiés du côté employeur, c’est à dire au sein de l’administration (direction du numérique, chefs de corps, DES etc...) et du côté des ingénieurs issus des grands corps techniques. 
 
-###### Côté employeurs :
+## Côté employeurs :
 *  Difficulté à trouver rapidement la bonne ressource, notamment à haut niveau : absence de visibilité sur la ressource existante et rapidement mobilisable 
 * Tendance à la rétention des talents par les managers
 *  Difficulté à faire connaître les besoins et à rendre les postes vacants visibles pour les pousser dans les bons vecteurs
 * Difficulté à rendre attractive la possibilité de faire “une étape numérique” dans une carrière “métiers” et à faire valoir les expériences numériques comme des “accélérateurs de carrière”
 
 
-###### Côté ingénieurs :
+## Côté ingénieurs :
 
 * Absence de visibilité sur les opportunités de mobilités pour se projeter dans leurs prochaines étapes de carrières
 * Difficulté d’identifier les autres membres du domaine numérique de l’Etat pour échanger sur des sujets métiers et solitude perçue des agents du numérique
 * Enjeu d’enrichissement et de maintien des compétences dans des métiers en constante évolution
 
-###### Problématique retenue : 
+## Problématique retenue : 
 Comment pourrions-nous aider un agent ingénieur en recherche de mobilité qui ne parvient pas à identifier les opportunités qui s’offrent à lui en inter-ministériel dans le domaine numérique afin :
 * qu’il se sente valorisé et accompagné dans son parcours au sein de l’Etat 
 * qu’il développe son employabilité. 
@@ -58,13 +56,13 @@ A terme, nous imaginons évaluer notre impact via plusieurs types d’indicateur
 
 # Ce que nous devons apprendre ?
 
-###### Auprès des candidats : 
+## Auprès des candidats : 
 -	Comment identifient ils les opportunités qui s’offrent à eux pour envisager une mobilité 
 -	Comment envisagent ils le numérique dans leur parcours de carrière 
 -	Comment entretiennent-ils leur compétence numérique 
 -	Comment entretiennent-ils leur réseau et que recherchent ils quand ils sollicitent-ils leur réseau ? 
 
-###### Auprès des recruteurs :
+## Auprès des recruteurs :
 * Quelles sont les compétences recherchées chez les candidats ? Quel niveau de granularité leur est utile pour décrire la compétence numérique ?
 * Y a-t-il des compétences spécifiques recherchées pour les candidats de statut A+ ? Pour les A ? 
 *Quelles sont les spécificités des recrutements numériques interministériels ? 
@@ -85,9 +83,9 @@ L’accès au terrain est facilité par les mises en relation orchestrées par l
 
 # L’équipe
 
-###### Intrapeneurs : 
+## Intrapeneurs : 
 - Stéphanie DUBOIS, cheffe du pôle mobilité et parcours – Département RH de la filière numérique de l’État - DINUM
 - Miche PARDOUX, chargé de mission Réforme des corps techniques  – DIESE 
 
-###### Sponsor : 
+## Sponsor : 
 Stéphanie SCHAER Directrice interministérielle du numérique 
