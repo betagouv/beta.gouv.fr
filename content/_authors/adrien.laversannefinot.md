@@ -1,7 +1,7 @@
 ---
 fullname: Adrien Laversanne-Finot
 role: Data-Scientist
-domaine: Développement
+domaine: Data
 github: qdrn
 missions:
   - start: 2021-05-19

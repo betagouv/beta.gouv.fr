@@ -1,7 +1,7 @@
 ---
 fullname: Pauline Egea
 role: BizDev
-domaine: Autre
+domaine: Déploiement
 github: paulineegea
 link: https://www.linkedin.com/in/pauline-egea-b9786813/
 missions:
