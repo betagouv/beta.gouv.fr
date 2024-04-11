@@ -23,5 +23,9 @@ startups:
 memberType: beta
 previously:
   - aquaculteurs.marins
+competences:
+  - Product design
+  - UX
+  - UI
 ---
 UX Designer ex Akeneo  Greenly, entre Nantes et Lorient ⚓️
