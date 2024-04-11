@@ -8,14 +8,14 @@ phases:
   - name: construction
     start: 2023-01-01  
 repository: https://github.com/mission-apprentissage/tjp-pilotage
-stats_url: 
+stats_url: https://orion.inserjeunes.beta.gouv.fr/statistiques
 stats: 
 contact: contact@inserjeunes.beta.gouv.fr
 usertypes:
   - etablissement-scolaire
   - etat
   - collectivite-territoriale
-dashlord_url: 
+dashlord_url: https://dashlord.incubateur.net/url/orion-inserjeunes-beta-gouv-fr/
 ---
 
 ## Le constat

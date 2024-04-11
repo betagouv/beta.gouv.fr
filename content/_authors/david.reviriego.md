@@ -9,4 +9,7 @@ missions:
     employer: Direction des Sports
     startups:
       - pass-sport
+competences:
+  - Communication
+memberType: beta
 ---

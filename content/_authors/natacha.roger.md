@@ -1,5 +1,5 @@
 ---
-domaine: Produit
+domaine: Intraprenariat
 fullname: Natacha Roger
 role: Intraprenariat
 missions:

@@ -1,6 +1,6 @@
 ---
 domaine: Autre
-fullname: Lola  BENARROCHE
+fullname: Lola  Benarroche
 role: Autre
 missions:
   - start: 2024-03-22
