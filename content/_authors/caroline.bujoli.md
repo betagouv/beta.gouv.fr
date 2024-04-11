@@ -1,6 +1,6 @@
 ---
-fullname: Caroline  BUJOLI
-role: Operatrice
+fullname: Caroline Bujoli
+role: Opératrice
 domaine: Autre
 link: https://www.carolinebujoli.fr
 missions:

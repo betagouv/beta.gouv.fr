@@ -22,8 +22,9 @@ phases:
     start: 2020-07-03
   - name: acceleration
     start: 2022-07-01
+thematiques:
+  - Logement
 ---
-
 ## Le problème sociétal et environnemental
 
 1,1 millions de logements sont vacants depuis au moins deux ans dans le parc privé en France. Il y en aura bientôt plus de 3 millions avec l'interdiction progressive à la location des passoires thermiques d'ici au 1er janvier 2028.

@@ -12,6 +12,9 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-05-10
+thematiques:
+  - Travail / Emploi
+  - Formation
 ---
 ## Contexte
 
