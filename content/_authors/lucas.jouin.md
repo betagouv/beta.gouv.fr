@@ -11,6 +11,11 @@ missions:
     employer: Malt
     startups:
       - zero-logement-vacant
+  - start: 2024-01-08
+    end: 2024-06-05
+    status: independent
+    employer: Malt
+    startups:
       - longuevieauxobjets
 startups:
   - zero-logement-vacant
