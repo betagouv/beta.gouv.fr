@@ -9,7 +9,7 @@ phases:
     start: 2023-01-01  
 repository: https://github.com/mission-apprentissage/tjp-pilotage
 stats_url: https://orion.inserjeunes.beta.gouv.fr/statistiques
-stats: 
+stats: true
 contact: contact@inserjeunes.beta.gouv.fr
 usertypes:
   - etablissement-scolaire
