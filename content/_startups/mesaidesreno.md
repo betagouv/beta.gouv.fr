@@ -17,6 +17,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-12-15
+thematiques:
+  - Écologie
 ---
 # Le problème de politique publique
 

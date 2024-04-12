@@ -20,7 +20,7 @@ layout: default
             </div>
             <div class="fr-col-12 fr-col-md-6">
                 <div class="chart-wrapper">
-                    <canvas id="pie-chart"> Nous avons actuellement {{ currents | size }} membres. </canvas>
+                    <canvas id="pie-chart" aria-label="Graphique de répartition des membres par compétences" role="img"></canvas>
                 </div>
             </div>
        </div>
@@ -28,7 +28,7 @@ layout: default
             <div class="fr-col-12 fr-col-md-6">
                 <a
                     href="https://metabase.incubateur.net/public/dashboard/753b9685-f801-4b1a-8e09-6cefed729e2e"
-                    class="fr-btn fr-btn--md fr-enlarge-link fr-mb-3w"
+                    class="fr-btn fr-btn--md fr-enlarge-link fr-my-3w"
                     target="_blank" rel="noopener">
                     Explorer les données
                 </a>
@@ -50,7 +50,7 @@ layout: default
                 <p>
                     <span class="beta-square-list-item">■</span>
                     <b>{{ site.incubators.size }} incubateurs</b><br>
-                    au sein d'agences déconcentrées, d'opérateurs et de ministères
+                    au sein d'agences déconcentrées, d'opérateurs et de ministères.
                     <a
                         href="/incubateurs"
                         class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right fr-mt-2w">

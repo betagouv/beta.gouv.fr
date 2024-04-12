@@ -22,10 +22,13 @@ phases:
     start: 2020-07-03
   - name: acceleration
     start: 2022-07-01
+thematiques:
+  - Logement
 ---
 ## Un problème sociétal et environnemental
 
 1,1 millions de logements sont vacants depuis au moins deux ans dans le parc privé en France (source LOVAC 2022). Au-delà de ces logements déjà vacants, plus de 3 millions de logements locatifs privés risquent de verser dans la vacance avec l'interdiction progressive à la relocation des passoires énergétiques.
+
 
 Cette vacance structurelle pénalise les personnes qui cherchent à se loger, dégrade le bâti et contribue à la désaffection des centres-villes. La remise sur le marché des logements vacants permet pourtant :
 

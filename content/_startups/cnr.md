@@ -14,8 +14,9 @@ accessibility_status: partiellement conforme
 phases:
   - name: construction
     start: 2022-10-27
+thematiques:
+  - Démocratie
 ---
- 
 ## Contexte
 
 Le Président de la République a lancé le jeudi 8 septembre 2022 le « Conseil National de la Refondation », à Marcoussis, dans l'Essonne. Il a réuni à cette occasion une quarantaine de représentants de forces politiques, des partenaires sociaux, des élus locaux, des représentants du monde économique et du monde associatif. L'objectif a notamment été de poser un constat commun : le besoin pour la nation de raviver et réinventer les processus démocratiques autour des grands enjeux de transition du quinquennat.
@@ -31,4 +32,4 @@ Afin de toucher le plus de personnes possible, la création d'une plateforme en 
 
 ## Stratégie
 
-En étroite collaboration avec le Haut Commissariat au Plan, l'objectif pour l'équipe est de comptabiliser 100 000 participations aux consultations en ligne d'ici la fin d'année 2022, à travers des campagnes d'acquisition en ligne et des opérations de communication.  
+En étroite collaboration avec le Haut Commissariat au Plan, l'objectif pour l'équipe est de comptabiliser 100 000 participations aux consultations en ligne d'ici la fin d'année 2022, à travers des campagnes d'acquisition en ligne et des opérations de communication.

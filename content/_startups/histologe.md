@@ -25,6 +25,8 @@ usertypes:
   - particulier
 dashlord_url: https://dashlord.incubateur.net/url/histologe-beta-gouv-fr/
 accessibility_status: non conforme
+thematiques:
+  - Logement
 ---
 ## Problème
 
