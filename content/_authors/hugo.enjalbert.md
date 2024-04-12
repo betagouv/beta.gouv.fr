@@ -1,6 +1,6 @@
 ---
 domaine: Coaching
-fullname: Hugo Lebarrois
+fullname: Hugo Enjalbert
 role: Coaching
 missions:
   - start: 2024-04-11
