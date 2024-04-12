@@ -11,8 +11,8 @@ phases:
     start: 2021-02-01
   - name: construction
     start: 2021-09-01
-  - start: 2024-04-12
-    name: acceleration
+  - start: 2024-02-09
+    name: alumni
 link: https://devoirs-faits-communaute.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12/tree/devoirs-faits
 stats: false
@@ -44,3 +44,6 @@ Nous supposons que 20 % des animateurs du dispositif « Devoirs faits » (profes
 Pour vérifier cela, nous allons mettre en ligne 10 vidéos sur le site MVP et en assurer la promotion au sein des établissements et sur les réseaux sociaux (twitter, Instagram et facebook  pour commencer).
 Pour mesurer l’impact de notre solution initiale nous allons d’une part comptabiliser le nombre de vues uniques de vidéos et d’autre part organiser un sondage auprès des établissements permettant de savoir combien de professeurs ont vu les vidéos.
 Notre solution initiale sera validée si nous avons 20000 vues sur trois semaines et 10000 personnes ayant vu au moins deux vidéos.
+
+## Arrêt du produit
+Le produit a d'abord été placé en maintenance au sein du ministère. Son usage a chuté jusqu'à devenir nul. Le service a été totalement coupé le 9 février 2024. 
