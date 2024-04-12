@@ -1,20 +1,25 @@
 ---
 title: Devoirs Faits la Communauté
-mission: Faciliter les échanges de pratiques entre pairs autour du dispositif « devoirs faits ».
+mission: >-
+  Faciliter les échanges de pratiques entre pairs autour du dispositif « devoirs
+  faits ».
 sponsors:
- - /organisations/dgesco
+  - /organisations/dgesco
 incubator: dinum
 phases:
   - name: investigation
     start: 2021-02-01
   - name: construction
     start: 2021-09-01
+  - start: 2024-04-12
+    name: acceleration
 link: https://devoirs-faits-communaute.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12/tree/devoirs-faits
 stats: false
 contact: camille.martinelli@ac-creteil.fr
 thematiques:
   - Education
+accessibility_status: non conforme
 ---
 # Le contexte du projet :
 A la rentrée scolaire 2017, le ministre de l'Éducation nationale, de la Jeunesse et des Sports, Jean-Michel Blanquer, a lancé le dispositif “Devoirs faits” dans les collèges.
