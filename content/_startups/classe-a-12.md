@@ -13,8 +13,8 @@ phases:
     start: 2018-06-01
   - name: acceleration
     start: 2018-06-01
-  - start: 2024-04-12
-    name: transfer
+  - start: 2024-02-09
+    name: alumni
 link: https://classe-a-12.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12
 stats: false
