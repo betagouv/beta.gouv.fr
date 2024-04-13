@@ -1,6 +1,6 @@
 ---
 domaine: Déploiement
-fullname: Nesma  Hatem
+fullname: Nesma Hatem
 role: Déploiement
 missions:
   - start: 2024-04-15
@@ -8,5 +8,5 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - jeveuxaider
+      - JeVeuxAider.gouv.fr
 ---
