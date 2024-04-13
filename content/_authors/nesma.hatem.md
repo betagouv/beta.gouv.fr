@@ -8,5 +8,5 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - JeVeuxAider
+      - jeveuxaider
 ---
