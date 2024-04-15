@@ -6,7 +6,7 @@ link: https://nextmap.io
 github: gmougeolle
 missions:
   - start: 2024-02-14
-    end: 2024-05-14
+    end: 2024-10-13
     status: service
     employer: Nextmap.io
 memberType: autre
