@@ -8,6 +8,8 @@ missions:
     end: 2024-06-29
     status: admin
     employer: ANSM
+    startups:
+      - notices-medicaments
 memberType: autre
 ---
 Designer de service UX
