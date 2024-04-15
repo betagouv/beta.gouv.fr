@@ -1,7 +1,7 @@
 ---
 domaine: Développement
 fullname: Patrick Nguyen
-role: Développement
+role: Développeur fullstack
 missions:
   - start: 2024-04-15
     end: 2024-07-15
