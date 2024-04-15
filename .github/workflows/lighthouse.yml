@@ -11,6 +11,7 @@ jobs:
         with:
           configPath: .github/lighthouserc.json
           uploadArtifacts: true
+          temporaryPublicStorage: true
           urls: |
             https://beta.gouv.fr
       - name: debug
