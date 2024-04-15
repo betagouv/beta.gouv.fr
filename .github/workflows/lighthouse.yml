@@ -9,6 +9,7 @@ jobs:
         id: lighthouse
         uses: treosh/lighthouse-ci-action@v11
         with:
+          uploadArtifacts: true
           urls: |
             https://beta.gouv.fr
       - name: debug
