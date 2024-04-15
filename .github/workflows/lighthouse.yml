@@ -6,7 +6,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Audit URLs using Lighthouse
+        id: lighthouse
         uses: treosh/lighthouse-ci-action@v11
         with:
           urls: |
             https://beta.gouv.fr
+      - name: debug
+        run: |
+          echo ${{ steps.lighthouse.outputs.manifest }}
+          
