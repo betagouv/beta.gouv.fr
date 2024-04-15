@@ -9,6 +9,7 @@ jobs:
         id: lighthouse
         uses: treosh/lighthouse-ci-action@v11
         with:
+          configPath: .github/lighthouserc.json
           uploadArtifacts: true
           urls: |
             https://beta.gouv.fr
