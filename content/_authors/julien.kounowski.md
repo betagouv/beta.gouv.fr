@@ -4,6 +4,12 @@ domaine: Intraprenariat
 role: Intraprenariat
 missions:
   - start: 2022-11-01
+    end: 2024-04-01
+    status: admin
+    employer: Dinum
+    startups:
+      - aidess
+  - start: 2024-04-08
     end: 2025-12-08
     status: admin
     employer: Dinum

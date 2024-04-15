@@ -1,7 +1,7 @@
 ---
 fullname: Yannick Schini
 role: Data Geek
-domaine: Autre
+domaine: Data
 github: YannickSchini
 missions:
   - start: 2019-03-01
