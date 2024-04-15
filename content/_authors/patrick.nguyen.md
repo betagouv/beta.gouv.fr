@@ -1,6 +1,6 @@
 ---
 domaine: Développement
-fullname: Patrick Nguyen
+fullname: Patrick Tai Nguyen
 role: Développeur fullstack
 missions:
   - start: 2024-04-15
