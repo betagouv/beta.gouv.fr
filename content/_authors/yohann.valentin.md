@@ -14,5 +14,8 @@ missions:
 startups:
   - transition-ecologique-des-entreprises
 memberType: beta
+competences:
+  - Développement Full-stack
+  - DevOps
 ---
 Développeur Full-stack  DevOps

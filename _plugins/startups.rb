@@ -14,7 +14,7 @@ module Jekyll
                 'expired_members' => Array.new
               }
             end
-            if author.data['missions']&.last['end'] <= now
+            if author.data['missions']&.last['end'] and author.data['missions']&.last['end'] <= now
               result[startup]['expired_members'].push(author.id.gsub('/authors/', ''))
             else
               result[startup]['active_members'].push(author.id.gsub('/authors/', ''))
@@ -33,6 +33,26 @@ module Jekyll
             result[previous_startup]['previous_members'].push(author.id.gsub('/authors/', ''))
           end
         end
+        if author['missions']
+          author['missions'].each do |mission|
+            if mission['startups']
+              mission['startups'].each do |startup|
+                if !result[startup]
+                  result[startup] = {
+                    'active_members' => Array.new,
+                    'previous_members' => Array.new,
+                    'expired_members' => Array.new
+                  }
+                end
+                if !mission['end'] or (mission['start'] <= now and mission['end'] >= now)
+                  result[startup]['active_members'].push(author.id.gsub('/authors/', ''))
+                elsif mission['end'] <= now
+                  result[startup]['expired_members'].push(author.id.gsub('/authors/', ''))
+                end
+              end
+            end
+          end
+        end
       end
       startups = context.registers[:site].collections['startups']
       startups.docs.each do |startup|
@@ -49,6 +69,9 @@ module Jekyll
         result[startupId]['repository'] = startup['repository']
         result[startupId]['contact'] = startup['contact']
         result[startupId]['phases'] = startup['phases']
+        result[startupId]['active_members'] = result[startupId]['active_members'].uniq
+        result[startupId]['previous_members'] = result[startupId]['previous_members'].uniq
+        result[startupId]['expired_members'] = result[startupId]['expired_members'].uniq
       end
       return JSON.pretty_generate(result)
     end
