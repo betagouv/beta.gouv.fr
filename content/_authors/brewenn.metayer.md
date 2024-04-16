@@ -1,7 +1,7 @@
 ---
 domaine: Déploiement
 fullname: Brewenn Métayer
-role: Chargé d'accompagnement à l'ouverture des données
+role: Déploiement
 github: Brewennn
 missions:
   - start: 2024-04-08
