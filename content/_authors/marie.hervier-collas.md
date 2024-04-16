@@ -9,4 +9,5 @@ missions:
     employer: ''
     startups:
       - carte-verte
+memberType: beta
 ---
