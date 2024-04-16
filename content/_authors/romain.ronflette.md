@@ -1,7 +1,7 @@
 ---
 fullname: Romain Ronflette
 role: Product designer et product manager
-domaine: Design
+domaine: Produit
 link: https://www.romainronflette.com/
 github: RomainRonflette
 missions:
@@ -17,5 +17,11 @@ startups:
   - fonds.de.plans
 badges:
   - segur
+competences:
+  - UX
+  - Product design
+  - Product strategy
+  - UI
+  - Facilitation
 ---
-Product designer passionné
+
