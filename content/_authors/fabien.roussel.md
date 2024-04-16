@@ -1,7 +1,7 @@
 ---
 fullname: Fabien Roussel
 role: Data scientist / Data engineer
-domaine: Développement
+domaine: Data
 github: FabienRoussel
 missions:
   - start: 2022-03-22

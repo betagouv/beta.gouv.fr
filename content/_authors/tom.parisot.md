@@ -1,7 +1,7 @@
 ---
 fullname: Tom Parisot
 role: Directeur du programme EIG
-domaine: Autre
+domaine: Animation
 github: tparisot000
 link: https://www.linkedin.com/in/tparisot/
 missions:

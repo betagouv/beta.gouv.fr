@@ -1,7 +1,7 @@
 ---
 fullname: Raphael Deckers
 role: Data Scientist
-domaine: Développement
+domaine: Data
 link: https://entropeak.fr
 github: kezakool
 missions:
