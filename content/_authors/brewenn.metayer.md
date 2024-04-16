@@ -1,7 +1,7 @@
 ---
 domaine: Déploiement
 fullname: Brewenn Métayer
-role: Déploiement
+role: Responsable de l'ouverture des données
 github: Brewennn
 missions:
   - start: 2024-04-08
