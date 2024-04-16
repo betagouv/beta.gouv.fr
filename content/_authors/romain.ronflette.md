@@ -2,7 +2,6 @@
 fullname: Romain Ronflette
 role: Product designer et product manager
 domaine: Produit
-link: https://www.romainronflette.com/
 github: RomainRonflette
 missions:
   - start: 2022-05-09
