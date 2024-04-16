@@ -7,4 +7,6 @@ missions:
     end: 2024-07-05
     status: admin
     employer: ''
+link: https://www.linkedin.com/in/bruno-codarini-851a4660/
+memberType: beta
 ---
