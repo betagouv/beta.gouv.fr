@@ -18,6 +18,11 @@ phases:
 usertypes:
   - entreprise
 accessibility_status: non conforme
+thematiques:
+  - Travail / Emploi
+  - Social
+  - Entreprises
+  - Administratif
 ---
 ## Le contexte :
 

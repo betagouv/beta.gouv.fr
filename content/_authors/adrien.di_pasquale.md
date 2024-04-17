@@ -21,9 +21,8 @@ missions:
     end: 2024-03-10
     status: independent
     employer: ''
-startups:
-  - collectif_objets
 previously:
+  - collectif_objets
   - rdv-service-public
   - codedutravail
   - enfants-du-spectacle

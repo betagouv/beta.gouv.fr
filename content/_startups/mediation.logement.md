@@ -15,6 +15,8 @@ phases:
     start: 2023-11-01
 link: https://mediationlogement.beta.gouv.fr/
 repository: https://github.com/betagouv/mediation-logement
+thematiques:
+  - Logement
 ---
 ## Contexte
 Les Commission Départementales de Conciliation (CDC) aident les propriétaires et les locataires à trouver une solution amiable à leur litige. Sa saisine est gratuite et est obligatoire pour certains types de litiges avant de faire appel au juge.

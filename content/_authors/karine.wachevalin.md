@@ -1,7 +1,7 @@
 ---
 fullname: Karine Waché-Valin
 role: intrapreneur
-domaine: Autre
+domaine: Intraprenariat
 link: https://www.tribunal-de-paris.justice.fr/75/le-service-de-la-protection-des-majeurs
 missions:
   - start: 2022-06-29

@@ -15,8 +15,9 @@ phases:
     start: 2021-09-03
   - name: construction
     start: 2021-12-20
+thematiques:
+  - Administratif
 ---
-
 Delta V est un service à destination de toute personne voyageant à l’étranger.
 
 ## Le problème constaté :

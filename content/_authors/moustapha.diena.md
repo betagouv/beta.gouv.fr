@@ -9,12 +9,13 @@ missions:
     status: independent
     employer: DINUM
     startups:
-      - conseiller-numerique
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 badges:
   - segur
 previously:
-  - conseiller-numerique
+  - france-numerique-ensemble
 ---
+
 Développeur Fullstack

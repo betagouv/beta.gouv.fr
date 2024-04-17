@@ -25,6 +25,7 @@ competences:
   - UI
   - Administration Système
 previously:
-  - conseiller-numerique
+  - france-numerique-ensemble
 ---
+
 En tant qu'artisan du logiciel, j'apporte le maximum de valeur aux utilisateurs en créant des outils bien conçus.
