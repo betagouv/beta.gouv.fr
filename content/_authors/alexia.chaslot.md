@@ -1,6 +1,6 @@
 ---
 fullname: Alexia Chaslot
-domaine: Autre
+domaine: Déploiement
 role: Chargée de déploiement
 github: alexiachaslot
 missions:

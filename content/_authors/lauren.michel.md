@@ -17,7 +17,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 previously:
   - maintenant
   - place-de-marche-inclusion
@@ -29,4 +29,5 @@ competences:
   - Administration Publique
   - Communication
 ---
+
 Startupeuse curieuse et persévérante !
