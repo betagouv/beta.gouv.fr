@@ -24,7 +24,9 @@ fast:
   montant: 141000
 thematiques:
   - Sécurité informatique
+accessibility_status: non conforme
 ---
+
 ## En phase d'accélération
 
 - **Vous souhaitez découvrir le produit ou un accompagnement dans sa prise en main ? [Contactez Antoine et Henri qui se feront un plaisir de vous accompagner](mailto:support@monservicesecurise.beta.gouv.fr).**
@@ -55,11 +57,12 @@ MonServiceSécurisé est la solution de cybersécurité de l'ANSSI
 pour aider les entités publiques à sécuriser et à homologuer rapidement leurs sites web, applications mobiles et API.
 
 Gratuit et collaboratif, MonServiceSécurisé permet de référencer un service numérique en projet, en cours de
-développement ou déjà en ligne puis de le décrire en  :
+développement ou déjà en ligne puis de le décrire en :
+
 - Accédant à une liste personnalisée de mesures de sécurité élaborée par l'ANSSI et obtenir une évaluation
-indicative du niveau de sécurité du service concerné (l'indice cyber), sur la base des mesures de sécurité déclarées
-par l'équipe comme ayant été mises en œuvre.
+  indicative du niveau de sécurité du service concerné (l'indice cyber), sur la base des mesures de sécurité déclarées
+  par l'équipe comme ayant été mises en œuvre.
 - Générant en quelques étapes une décision d'homologation de sécurité incluant un ou plusieurs avis des membres
-de l'équipe sur le projet de décision d'homologation et de soumettre cette décision à la signature de l'autorité d'homologation.
+  de l'équipe sur le projet de décision d'homologation et de soumettre cette décision à la signature de l'autorité d'homologation.
 
 [Découvrir MonServiceSécurisé](https://www.monservicesecurise.ssi.gouv.fr/)
