@@ -1,7 +1,7 @@
 ---
-fullname: Emeline JOLY
+fullname: Emeline Joly
 role: Intrapreneuse
-domaine: Autre
+domaine: Intraprenariat
 github: emelinejy
 missions:
   - start: 2021-10-12

@@ -1,7 +1,7 @@
 ---
 fullname: Arnaud Milet
 role: data analyst
-domaine: Produit
+domaine: Data
 link: https://d-sidd.github.io/
 github: arnaudmilet
 missions:
