@@ -18,9 +18,9 @@ previously:
   - territoires-en-transitions
 link: https://www.linkedin.com/in/camille-canaple/
 competences:
+  - Facilitation
   - Product design
   - Product strategy
   - UX
-  - Facilitation
 ---
 Designer

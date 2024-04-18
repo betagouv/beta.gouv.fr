@@ -9,4 +9,8 @@ missions:
     employer: DGFiP
     startups:
       - signaux-faibles
+competences:
+  - Droit / Affaires juridiques
+  - Administration Publique
+memberType: beta
 ---
