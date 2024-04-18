@@ -161,7 +161,7 @@ layout: default
               {% endif %}
               {% capture stats %}
               <li>
-                {% if page.stats %}
+                {% if page.stats or page.stats_url %}
                 <span class="fr-icon-line-chart-line"></span>
                 <a class="fr-link" href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">
                   Statistiques d'usage
@@ -174,7 +174,7 @@ layout: default
                 {% endif %}
               </li>
               {% endcapture %}
-              {% if page.stats %}
+              {% if page.stats or page.stats_url %}
                 {%- assign transparence_success = transparence_success | append: stats -%}
               {% else %}
                 {%- assign transparence_warning = transparence_warning | append: stats -%}
