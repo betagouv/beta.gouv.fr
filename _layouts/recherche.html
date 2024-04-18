@@ -70,7 +70,7 @@ layout: default
   }
 
   // Replace to trim the query, removing extra white spaces
-  var searchTerm = getQueryVariable('q').trim();
+  var searchTerm = decodeURIComponent(getQueryVariable('q').trim());
 
   const startups = {
       {%- for startup in site.startups -%}
