@@ -1,11 +1,10 @@
 ---
 domaine: Intraprenariat
-fullname: Geneviève Regner
+fullname: Estelle BREZOUT-COZELIN
 role: Intraprenariat
 missions:
-  - start: 2024-04-05
-    end: 2024-07-05
+  - start: 2023-11-22
+    end: 2025-01-01
     status: admin
     employer: ''
-memberType: beta
 ---
