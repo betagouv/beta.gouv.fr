@@ -161,7 +161,7 @@ layout: default
               {% endif %}
               {% capture stats %}
               <li>
-                {% if page.stats %}
+                {% if page.stats or page.stats_url %}
                 <span class="fr-icon-line-chart-line"></span>
                 <a class="fr-link" href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">
                   Statistiques d'usage
@@ -174,7 +174,7 @@ layout: default
                 {% endif %}
               </li>
               {% endcapture %}
-              {% if page.stats %}
+              {% if page.stats or page.stats_url %}
                 {%- assign transparence_success = transparence_success | append: stats -%}
               {% else %}
                 {%- assign transparence_warning = transparence_warning | append: stats -%}
@@ -240,7 +240,7 @@ layout: default
       {% if constructed %}<div class="active"><b>Construction</b><br/>{{ constructed.start | french_long_date }}</div>{% elsif finished==nil %}<div><b>Construction</b></div>{% endif %}
       {% if accelerated %}<div class="active"><b>Accélération</b><br/>{{ accelerated.start | french_long_date }}</div>{% elsif finished==nil %}<div><b>Accélération</b></div>{% endif %}
       {% if transfered %}<div class="active"><b>Transfert</b><br/>{{ transfered.start | french_long_date }}</div>{% elsif succeeded==nil and  finished==nil %}<div><b>Transfert</b></div>{% endif %}
-      {% if succeeded %}<div class="success"><b>Pérénnisé</b><br/>{{ succeeded.start | french_long_date }}</div>{% elsif finished==nil %}<div><b>Pérénnisé</b></div>{% endif %}
+      {% if succeeded %}<div class="success"><b>Pérennisé</b><br/>{{ succeeded.start | french_long_date }}</div>{% elsif finished==nil %}<div><b>Pérennisé</b></div>{% endif %}
       {% if finished %}<div class="finished"><b>Partenariat terminé</b><br/>{{ finished.start | french_long_date }}</div>{% endif %}
     </div>
     {% endif %}

@@ -10,11 +10,9 @@ events: []
 phases:
   - name: investigation
     start: 2023-04-24
-    comment: Début des entretiens
     end: 2023-09-27
   - name: construction
     start: 2023-09-27
-    comment: Développement du produit minimum viable test
 thematiques:
   - Écologie
   - Mer

@@ -7,5 +7,4 @@ missions:
     end: 2026-07-05
     status: admin
     employer: ''
-memberType: beta
 ---

@@ -1,7 +1,7 @@
 ---
 fullname: Camille Lemaitre
 role: Data Analyst
-domaine: Autre
+domaine: Data
 link: https://www.linkedin.com/in/camille-lemaitre-b3b50060/
 github: camille-lemaitre
 missions:
