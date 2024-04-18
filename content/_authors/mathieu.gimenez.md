@@ -11,25 +11,15 @@ missions:
     employer: DGALN
     startups:
       - aigle
+      - envergo
       - boris
       - especes.protegees
       - docurba
       - dossierfacile
-      - envergo
       - mediation.logement
       - sparte
       - zero-logement-vacant
 memberType: dinum
-startups:
-    - aigle
-    - boris
-    - especes.protegees
-    - docurba
-    - dossierfacile
-    - envergo
-    - mediation.logement
-    - sparte
-    - zero-logement-vacant
 competences:
   - Gestion de Produit
 teams:
