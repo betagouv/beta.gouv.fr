@@ -258,9 +258,9 @@ layout: default
   const count = displaySearchResults(searchTerm, categories);
 
   if(count === 0) {
-     $(searchPageTitle).text(`Aucun résultat pour « ${escape(searchTerm)} »`);
+     $(searchPageTitle).text(`Aucun résultat pour « ${searchTerm} »`);
      document.getElementById('search-noresults').classList.remove('fr-hidden')
   } else {
-    $(searchPageTitle).text(`Résultat${count > 1 ? "s" : ""} pour « ${escape(searchTerm)} »`);
+    $(searchPageTitle).text(`Résultat${count > 1 ? "s" : ""} pour « ${searchTerm} »`);
   }
 </script>
