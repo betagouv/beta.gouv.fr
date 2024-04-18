@@ -6,11 +6,11 @@ missions:
   - start: 2023-05-15
     end: 2024-12-31
     status: independent
-    employer: 'malt'
+    employer: malt
     startups:
       - envergo
 startups:
   - envergo
 memberType: autre
 ---
-Chargé de déploiement EnvErgo
+Chargé de déploiement et d'étude EnvErgo
