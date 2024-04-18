@@ -16,6 +16,8 @@ phases:
     end: 2023-03-31
   - name: construction
     start: 2023-10-23
+thematiques:
+  - Écologie
 ---
 # Contexte
 

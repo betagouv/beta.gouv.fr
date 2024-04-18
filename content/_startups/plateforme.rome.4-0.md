@@ -11,10 +11,13 @@ phases:
     start: 2023-01-20
   - name: success
     start: 2023-10-20
+thematiques:
+  - Travail / Emploi
 ---
 **Contexte**
 
 Le ROME (Répertoire Opérationnel des Métiers et Emplois) est l'outil de référence qui permet à France Travail de rapprocher l'offre et la demande d'emploi.
+
 Historiquement, les recruteurs reprochaient au ROME V3 de ne pas suivre les tendances du marché du travail, et d'être trop "macro" pour bien caractériser les emplois.
 Les demandeurs d'emploi ont besoin de pouvoir s'appuyer sur un référentiel fiable pour pouvoir mettre en avant, ou acquérir des compétences en adéquation avec les attentes des recruteurs.
 Pour répondre à ces problématiques, le ROME 4.0 a été lancé en mars 2024 !
