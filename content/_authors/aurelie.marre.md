@@ -1,7 +1,7 @@
 ---
 fullname: Aurélie Marre
 role: Product Owner
-domaine: Autre
+domaine: Produit
 missions:
   - start: 2022-02-14
     end: 2024-06-30
