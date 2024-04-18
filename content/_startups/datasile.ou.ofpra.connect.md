@@ -10,6 +10,9 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-03-12
+thematiques:
+  - Social
+  - Administratif
 ---
 ## Contexte Quel est le contexte de ta Startup d'Etat ?
 
@@ -40,4 +43,4 @@ Il s’agirait, en fonction des administrations :
 * De transmettre les données d’état civil en elles-mêmes. Ex CAF. « Quelle est l’identité définitive de la personne pour lui créer sa carte vitale ? / il s’agit de Mme X, mère de Y et Z, mariée à AA ». 
 Dans le cas présent, le bénéficiaire final est l’usager. Mais le destinataire du produit est les autres administrations. 
 ## Stratégie Comment vous vous y prenez pour atteindre votre usager ? quel impact chiffré visez-vous ?
-Les autres administrations ont été contacté pour certaines et toutes sont intéressées par la démarche. Peut être peut on chiffrer l’amélioration du bien-être usager vis-à-vis de leurs documents d’état civil par une moindre pression sur le service de la relation à l’usager ? ou le nombre d’administrations utilisatrices ? On pourra peut être comptabiliser, au sein par exemple de l’enquête Elipa, une moindre pregnance de la rupture de droits. 
+Les autres administrations ont été contacté pour certaines et toutes sont intéressées par la démarche. Peut être peut on chiffrer l’amélioration du bien-être usager vis-à-vis de leurs documents d’état civil par une moindre pression sur le service de la relation à l’usager ? ou le nombre d’administrations utilisatrices ? On pourra peut être comptabiliser, au sein par exemple de l’enquête Elipa, une moindre pregnance de la rupture de droits.

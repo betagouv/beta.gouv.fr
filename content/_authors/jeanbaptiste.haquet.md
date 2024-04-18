@@ -1,7 +1,7 @@
 ---
-fullname: Jean-Baptiste HAQUET
+fullname: Jean-Baptiste Haquet
 role: Intrapreneur en herbe
-domaine: Autre
+domaine: Intraprenariat
 missions:
   - start: 2022-06-29
     end: 2024-04-29

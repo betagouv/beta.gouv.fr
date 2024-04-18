@@ -10,12 +10,15 @@ phases:
     end: 2022-04-01
   - name: construction
     start: 2023-04-16
+  - name: alumni
+    start: 2023-04-09
 stats: false
 contact: ateliernumerique.snum@culture.gouv.fr
 usertypes:
   - particulier
+thematiques:
+  - Culture
 ---
-
 ### Contexte
 Annoncée lors des vœux à la presse de 2020 puis de 2022 par le Président de la République, une Maison du dessin de presse, futur lieu de rencontres, d’expositions, de formation et de mise en réseau doit voir le jour à Paris en 2026. Une équipe de préfiguration y travaille en régie au sein du ministère de la culture, sous la tutelle de la direction générale des médias et des industries culturelles.
 

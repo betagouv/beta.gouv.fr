@@ -26,6 +26,8 @@ events:
 phases:
   - name: construction
     start: 2023-05-15
+thematiques:
+  - Écologie
 ---
 ## Contexte 👀
 

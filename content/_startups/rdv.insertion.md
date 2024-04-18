@@ -22,6 +22,9 @@ phases:
     start: 2021-06-02
   - name: acceleration
     start: 2022-01-03
+thematiques:
+  - Travail / Emploi
+  - Social
 ---
 ## Le problème
 
@@ -54,4 +57,4 @@ data.insertion aura réussi sa mission si :
 
 Retrouvez notre page statistiques [ici](https://www.rdv-insertion.fr/stats).
 
-Notre **[carte de suivi](https://betagouv.github.io/stats-data-insertion/)** permet de suivre l'avancée de **nos travaux** dans chaque département, et de connaître le degré de maturité du conseil départemental dans l’intégration et l’exploitation des flux de données existants. 
+Notre **[carte de suivi](https://betagouv.github.io/stats-data-insertion/)** permet de suivre l'avancée de **nos travaux** dans chaque département, et de connaître le degré de maturité du conseil départemental dans l’intégration et l’exploitation des flux de données existants.
