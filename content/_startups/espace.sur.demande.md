@@ -14,6 +14,8 @@ phases:
     start: 2022-09-01
   - name: construction
     start: 2023-09-01
+thematiques:
+  - Collectivités
 ---
 **Espace sur Demande est un site public couplé d'une web app permettant de faciliter la mise à disposition et la location d'espaces publics des collectivités. Il peut profiter autant aux particuliers, associations qu'aux entreprises.**
 

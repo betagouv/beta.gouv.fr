@@ -14,6 +14,9 @@ phases:
     end: 2022-11-08
   - name: construction
     start: 2022-11-08
+thematiques:
+  - Jeunesse
+  - Social
 ---
 ## Contexte
 

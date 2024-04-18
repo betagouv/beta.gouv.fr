@@ -22,6 +22,8 @@ dashlord_url: https://dashlord.incubateur.net/url/www-monservicesecurise-ssi-gou
 fast:
   promotion: 14
   montant: 141000
+thematiques:
+  - Sécurité informatique
 ---
 ## En phase d'accélération
 

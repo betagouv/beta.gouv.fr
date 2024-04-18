@@ -26,6 +26,9 @@ techno:
 usertypes:
   - etat
 accessibility_status: non conforme
+thematiques:
+  - Social
+  - Inclusion numérique
 ---
 ## Avec Administration+, aucun blocage ne vous résiste
 
