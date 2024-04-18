@@ -9,4 +9,5 @@ missions:
     employer: Malt
     startups:
       - jeveuxaider
+memberType: beta
 ---
