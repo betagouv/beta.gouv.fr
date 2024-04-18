@@ -1,14 +1,16 @@
 ---
-title: Mes Aides
+title: Mes Aides France Travail
 mission: >-
   Le service Pôle emploi qui permet aux personnes en insertion de trouver en 3
   clics les aides humaines, matérielles et financières pour faciliter leur
   parcours vers l’emploi
+redirect_from:
+  - /startups/mes.aides
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
 incubator: pole-emploi
-link: 'https://mes-aides.francetravail.fr/ '
+link: "https://mes-aides.francetravail.fr/"
 contact: mesaides@beta.pole-emploi.fr
 phases:
   - name: investigation
@@ -20,6 +22,9 @@ phases:
     start: 2022-10-03
     end: 2025-01-01
 accessibility_status: non conforme
+thematiques:
+  - Travail / Emploi
+  - Social
 ---
 #### **Contexte**
 

@@ -24,6 +24,8 @@ phases:
   - name: acceleration
     start: 2022-09-20
 analyse_risques: true
+thematiques:
+  - Mer
 ---
 ## Contexte
 
@@ -50,4 +52,3 @@ La solution est élaborée avec et pour les utilisateurs finaux de manière ité
 Il existe 33 services (PAF/Douane) en charge du contrôle des frontières dans les points de passage frontaliers, dont 31 en France métropolitaine avec des données reçues par le guichet unique portuaire national.
 
 La priorisation du déploiement a été guidée par deux facteurs clés : la qualité de la donnée collecté sur le port x le volume d'escale sur le port.
-
