@@ -21,8 +21,9 @@ usertypes:
 fast:
   promotion: 12
   montant: 30000
+thematiques:
+  - Outil technique
 ---
-
 ## Contexte
 
 Tchap s'est lancé en avril 2018 et compte aujourd'hui 235 000 utilisateurs. L'application est disponible sur Android, iOS et le web. Tchap est à destination de l'ensemble des agents des trois fonctions publiques (territoriale, hospitalière et centrale).

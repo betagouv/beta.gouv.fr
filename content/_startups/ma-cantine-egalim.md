@@ -24,8 +24,10 @@ usertypes:
 fast:
   promotion: 13
   montant: 250000
+thematiques:
+  - Santé
+  - Administratif
 ---
-
 ## Une alimentation saine, de qualité, durable et accessible à tous en restauration collective
 
 Garantir un système permettant une alimentation saine, durable, moins animale et plus végétale, respectueuse de la production et du climat, peu émettrice de gaz à effet de serre et accessible à tous, notamment en rendant la loi EGalim.

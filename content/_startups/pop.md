@@ -10,14 +10,17 @@ phases:
     end: 2022-12-31
   - name: construction
     start: 2023-01-01
+  - name: acceleration
+    start: 2024-01-01
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop
 stats: true
 contact: pop@culture.gouv.fr
 usertypes:
   - particulier
+thematiques:
+  - Culture
 ---
-
 ### Mise à jour le 14/09/22 : En septembre 2022, après trois ans de maintenance sur le produit, le Service du Numérique du ministère de la Culture a choisi de lancer une seconde investigation sur POP, avec le concours de la Médiathèque du patrimoine et de la photographie.
 
 ## Le patrimoine est l'affaire de tous : vers une Plateforme Ouverte du Patrimoine (POP)
@@ -50,4 +53,3 @@ La plateforme ouverte du Patrimoine est accessible au lien suivant : https://www
 Le code source publié ici fera l’objet de mises à jour jusqu’à septembre 2019 et nous ne connaissons pas à ce stade les intentions du Ministère de la Culture de publier les évolutions sous licence libre.
 
 (Source de l’image d’en-tête:[François Bernardin](https://commons.wikimedia.org/wiki/File:F54-Nancy-Maison-Schott-vitraux.jpg/) )
-

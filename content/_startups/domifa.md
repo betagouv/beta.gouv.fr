@@ -29,7 +29,10 @@ usertypes:
   - collectivite-territoriale
 dashlord_url: >-
   https://socialgouv.github.io/dashlord-fabrique/url/domifa-fabrique-social-gouv-fr/
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
+analyse_risques: true
+thematiques:
+  - Social
 ---
 ## Qu’est-ce que la domiciliation ? 
 

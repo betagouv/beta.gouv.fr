@@ -1,19 +1,17 @@
 ---
 fullname: Alexandra OUJEBBOUR
-role: Ambassadrice métier/ Co PM
-domaine: Autre
+role: Co Product Manager/intra
+domaine: Intraprenariat
 missions:
   - start: 2022-03-01
-    end: 2024-08-31
+    end: 2024-12-31
     status: admin
-    employer: Pôle Emploi
+    employer: France Travail
+    startups:
+      - estime.formation
 startups:
   - estime.formation
 previously:
   - estime
 ---
-
-
-
-"La vocation, c'est le bonheur d'avoir pour métier sa passion"
-Pour moi, aider les autres est le plus beau métier du monde...
+100% Bottom-Up
