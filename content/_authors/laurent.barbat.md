@@ -25,7 +25,6 @@ competences:
   - Facilitation
   - Product design
   - Product strategy
-  - UX
   - Coaching
 previously:
   - attractivite.des.territoires
