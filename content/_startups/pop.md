@@ -10,6 +10,8 @@ phases:
     end: 2022-12-31
   - name: construction
     start: 2023-01-01
+  - name: acceleration
+    start: 2024-01-01
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop
 stats: true
