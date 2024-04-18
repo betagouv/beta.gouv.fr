@@ -15,7 +15,7 @@ sponsors:
   - /organisations/dgaln
   - /organisations/anct
   - /organisations/dinum
-link: https://bacasable.recoconseil.fr/
+link: https://recommandations-collaboratives.beta.gouv.fr/
 stats: true
 budget_url: https://pad.incubateur.net/s/qeT5bzHUM
 phases:

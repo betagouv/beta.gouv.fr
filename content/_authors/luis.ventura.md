@@ -1,7 +1,7 @@
 ---
 fullname: Luis VENTURA
 role: Data Scientist
-domaine: Autre
+domaine: Data
 link: https://www.luisventura.me
 github: Lawiss
 missions:
