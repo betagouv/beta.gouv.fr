@@ -24,6 +24,9 @@ usertypes:
   - entreprise
 dashlord_url: https://dashlord.incubateur.net/url/santepsy-etudiant-gouv-fr/
 accessibility_status: non conforme
+thematiques:
+  - Santé
+  - Jeunesse
 ---
 ## Contexte
 

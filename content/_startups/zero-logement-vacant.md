@@ -8,11 +8,11 @@ link: https://zerologementvacant.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/zero-logement-vacant
 contact: contact@zerologementvacant.beta.gouv.fr
 dashlord_url: https://dashlord.incubateur.net/
-analyse_risques: false
 accessibility_status: non conforme
 stats_url: https://zerologementvacant.beta.gouv.fr/stats
 stats: true
-budget_url: https://docs.google.com/spreadsheets/d/1rki0Wlrk4hCL0WC8mlHcRlj8rk7iCZ4ed3lyxSa_yec/edit#gid=300205456
+budget_url: >-
+  https://docs.google.com/spreadsheets/d/1rki0Wlrk4hCL0WC8mlHcRlj8rk7iCZ4ed3lyxSa_yec/edit#gid=300205456
 events: []
 phases:
   - name: investigation
@@ -22,13 +22,15 @@ phases:
     start: 2020-07-03
   - name: acceleration
     start: 2022-07-01
+thematiques:
+  - Logement
 ---
+## Un problème sociétal et environnemental
 
-## Le problème sociétal et environnemental
+1,1 millions de logements sont vacants depuis au moins deux ans dans le parc privé en France (source LOVAC 2022). Au-delà de ces logements déjà vacants, plus de 3 millions de logements locatifs privés risquent de verser dans la vacance avec l'interdiction progressive à la relocation des passoires énergétiques.
 
-1,1 millions de logements sont vacants depuis au moins deux ans dans le parc privé en France. Il y en aura bientôt plus de 3 millions avec l'interdiction progressive à la location des passoires thermiques d'ici au 1er janvier 2028.
 
-Cette vacance structurelle pénalise les personnes qui cherchent à se loger, dégrade le bâti et contribue à la désaffection des centres-villes. La remise sur le marché de ces logements permettrait :
+Cette vacance structurelle pénalise les personnes qui cherchent à se loger, dégrade le bâti et contribue à la désaffection des centres-villes. La remise sur le marché des logements vacants permet pourtant :
 
 - Pour les territoires tendus : de constituer une offre abordable complémentaire au parc social (200 000 logements) en lien avec le plan Logement d'Abord ;
 - Pour les territoires moins denses :

@@ -3,66 +3,67 @@
   ex : {%- include grid-authors.html startup=startup -%}
 {%- endcomment -%}
 
-{%- comment -%}<!-- Initialiser l'équipe -->{%- endcomment -%}
-{%- assign current_team = "" -%}{%- comment -%}membres actifs de la startup{%- endcomment -%}
-{%- assign past_team = "" -%}{%- comment -%}membres inactifs de la startup{%- endcomment -%}
-
-{%- comment -%}<!-- Initialiser l'id -->{%- endcomment -%}
-{%- assign startup_id = include.startup.id | remove: '/startups/' -%}
-
-{%- comment -%}<!-- On boucle sur les membres de l'équipe -->{%- endcomment -%}
-{%- assign team = site.authors | where:"startups", startup_id -%}
-
-{%- for author in team -%}
-  {%- capture to_append -%}
-    <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
-      {%- include card-community.html author=author -%}
-    </div>
-  {%- endcapture -%}
-  {%- if author.missions.last.end -%}
-    {%- capture timestampNow -%}{{ 'now' | date: '%s' }}{%- endcapture -%}
-    {%- capture timestampEnd -%}{{ author.missions.last.end | date: '%s' }}{%- endcapture -%}
-    {%- if timestampNow > timestampEnd -%}
-      {%- assign past_team = past_team | append: to_append -%}
-    {%- else -%}
-      {%- assign current_team = current_team | append: to_append -%}
-    {%- endif -%}
-  {%- else -%}
-    {%- assign current_team = current_team | append: to_append -%}
-  {%- endif -%}
-{%- endfor -%}
-
-{%- comment -%}<!-- On boucle sur les anciens membres de l'équipe -->{%- endcomment -%}
-{%- assign startup_id = include.startup.id | remove: '/startups/' -%}
-{%- assign team_previous = site.authors | where:"previously", startup_id %}
-{%- for author in team_previous -%}
-  {%- capture to_append -%}
-    <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
-      {%- include card-community.html author=author -%}
-    </div>
-  {%- endcapture -%}
-  {%- assign past_team = past_team | append: to_append -%}
-{%- endfor -%}
-
-
 <div class="fr-container">
     <h2 id="equipe">L'équipe</h2>
     <div class="fr-grid-row fr-grid-row--gutters">
-      {{ current_team }}
+    {% assign current_date = "now" | date: "%s" | plus: 0   %}
+    {% for author in site.authors %}
+      {%- assign startup_id = include.startup.id | remove: '/startups/' -%} <!-- necessary here for some reason ! -->
+      {%- assign show_author = false -%}
+      {%- assign end_date =  author.missions.last.end | date: '%s' | plus: 0 -%}
+      {% if author.startups contains startup_id and (end_date=0 or (end_date > current_date)) %}  <!-- legacy format -->
+        {%- assign show_author = true -%}
+      {% else %}
+        {% for mission in author.missions %}
+          {% if mission.startups contains startup_id %}
+            {% assign start_date = mission.start | date: "%s" | plus: 0  %}
+            {% assign end_date = mission.end | date: "%s" | plus: 0  %}
+            {% if current_date >= start_date and (end_date > current_date or end_date=0) %}
+              {%- assign show_author = true -%}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      {% if show_author %}
+        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
+          {%- include card-community.html author=author -%}
+        </div>
+      {% endif %}
+    {% endfor %}
     </div>
 </div>
 
-{%- if past_team != "" -%}
 <div class="fr-container fr-py-6w">
   <button class="fr-btn" onclick="toggle_visibility('startup-alumni');">Voir les anciens</button>
   <div id="startup-alumni" style="display:none;">
     <h2>Les anciennes et les anciens</h2>
     <div class="fr-grid-row fr-grid-row--gutters">
-      {{ past_team }}
+    {% assign current_date = "now" | date: "%s" | plus: 0   %}
+    {% for author in site.authors %}
+      {%- assign startup_id = include.startup.id | remove: '/startups/' -%} <!-- necessary here for some reason ! -->
+      {%- assign show_author = false -%}
+      {% if author.previously contains startup_id %}  <!-- legacy format -->
+        {%- assign show_author = true -%}
+      {% else %}
+        {% for mission in author.missions %}
+          {% if mission.startups contains startup_id %}
+            {% assign start_date = mission.start | date: "%s" | plus: 0  %}
+            {% assign end_date = mission.end | date: "%s" | plus: 0  %}
+            {% if current_date >= start_date and mission.end and current_date > end_date %}
+              {%- assign show_author = true -%}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      {% if show_author %}
+        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
+          {%- include card-community.html author=author -%}
+        </div>
+      {% endif %}
+    {% endfor %}
     </div>
   </div>
 </div>
-{%- endif -%}
 
 <script type="text/javascript">
   function toggle_visibility(id) {

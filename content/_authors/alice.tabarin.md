@@ -7,8 +7,8 @@ missions:
     end: 2024-04-09
     status: independent
     startups:
-      - conseiller-numerique
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 memberType: beta
 ---

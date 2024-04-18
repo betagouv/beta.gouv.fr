@@ -88,6 +88,7 @@ mapping:
             - /organisations/mctrct
             - /organisations/meae
             - /organisations/mefr
+            - /organisations/mefsin
             - /organisations/menjs
             - /organisations/mesr
             - /organisations/mj
@@ -96,6 +97,7 @@ mapping:
             - /organisations/mtfp
             - /organisations/msjop
             - /organisations/nouvelle-caledonie
+            - /organisations/ofpra
             - /organisations/pole-emploi
             - /organisations/sgdsn
             - /organisations/sgpe
@@ -192,6 +194,10 @@ mapping:
             - entreprise
             - association
             - etablissement-scolaire
+  "thematiques":
+    type:      seq
+    sequence:
+        - type:      str
   "analyse_risques":
     type:      bool
   "analyse_risques_url":

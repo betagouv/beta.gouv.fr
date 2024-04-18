@@ -1,7 +1,7 @@
 ---
 fullname: Pierre Baonla Bassom
 role: Data Scientist
-domaine: Autre
+domaine: Data
 github: pierrelandry
 missions:
   - start: 2020-01-13

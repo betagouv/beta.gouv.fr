@@ -1,5 +1,5 @@
 ---
-fullname: Yaël SERRALHA
+fullname: Yaël Serralha
 role: Stagiaire
 domaine: Autre
 missions:

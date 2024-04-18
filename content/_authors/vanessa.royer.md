@@ -1,6 +1,6 @@
 ---
-fullname: Vanessa ROYER
-role: opératrice validation chez dossier facile.
+fullname: Vanessa Royer
+role: Opératrice validation
 domaine: Autre
 missions:
   - start: 2023-07-02

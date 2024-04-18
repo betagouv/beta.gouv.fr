@@ -57,7 +57,7 @@ $(function () {
         {
           data: datasets.admin,
           label: "Agents publics ", // trailing space to ensure legend complies with French typography rules
-          backgroundColor: "#EF7D29",
+          backgroundColor: "#F7DD6F",
           pointRadius: 0,
           lineTension: 0.3,
           fill: true,
@@ -65,7 +65,7 @@ $(function () {
         {
           data: datasets.independent,
           label: "Indépendantes et indépendants ", // trailing space to ensure legend complies with French typography rules
-          backgroundColor: "#0048B3",
+          backgroundColor: "#00008B",
           pointRadius: 0,
           lineTension: 0.3,
           fill: true,
@@ -73,7 +73,7 @@ $(function () {
         {
           data: datasets.service,
           label: "Prestataires ", // trailing space to ensure legend complies with French typography rules
-          backgroundColor: "#3EA9FF",
+          backgroundColor: "#8D84F0",
           pointRadius: 0,
           lineTension: 0.3,
           fill: true,
@@ -85,13 +85,33 @@ $(function () {
         title: {
           text: "Progression des effectifs",
           display: true,
+          color: '#666',
+          font: {
+            family: 'Marianne',
+            size: 18,
+            weight: 'bold',
+            lineHeight: 1.2,
+          },
         },
+        legend: {
+          labels: {
+            font: {
+              family: 'Marianne',
+              size: 12
+            }
+          }
+        },
+        tooltip: {
+          titleFont: {
+            family: 'Marianne',
+          },
+          bodyFont : {
+            family: 'Marianne',
+          },
+        }
       },
       animation: { duration: 0 },
       maintainAspectRatio: false,
-      // legend: {
-      //     onClick: function() { return false }
-      // },
       interaction: {
         mode: "index",
         intersect: false,
@@ -99,7 +119,7 @@ $(function () {
       scales: {
         x: {
           type: "time",
-          time: { unit: "quarter" },
+          time: { unit: "quarter", tooltipFormat: 'MM/YYYY' },
           gridLines: { display: false },
         },
         y: {
@@ -109,124 +129,32 @@ $(function () {
     },
   });
 
-  // new Chart(document.querySelector('canvas#domaine'), {
-  //     type: 'line',
-  //     data: {
-  //         datasets: [
-  //             {
-  //                 data: datasets['Déploiement'],
-  //                 label: 'Déploiement ', // trailing space to ensure legend complies with French typography rules
-  //                 backgroundColor: '#EF7D29',
-  //                 pointRadius: 0,
-  //                 lineTension: 0.3,
-  //                 fill: true
-  //             },
-  //             {
-  //                 data: datasets['Design'],
-  //                 label: 'Design ', // trailing space to ensure legend complies with French typography rules
-  //                 backgroundColor: '#0048B3',
-  //                 pointRadius: 0,
-  //                 lineTension: 0.3,
-  //                 fill: true
-  //             },
-  //             {
-  //                 data: datasets['Développement'],
-  //                 label: 'Développement ', // trailing space to ensure legend complies with French typography rules
-  //                 backgroundColor: '#3EA9FF',
-  //                 pointRadius: 0,
-  //                 lineTension: 0.3,
-  //                 fill: true
-  //             },
-  //             {
-  //                 data: datasets['Coaching'],
-  //                 label: 'Coaching ', // trailing space to ensure legend complies with French typography rules
-  //                 backgroundColor: '#FEA9FF',
-  //                 pointRadius: 0,
-  //                 lineTension: 0.3,
-  //                 fill: true
-  //             },
-  //             {
-  //                 data: datasets['Autre'],
-  //                 label: 'Autre ', // trailing space to ensure legend complies with French typography rules
-  //                 backgroundColor: '#FEAC1F',
-  //                 pointRadius: 0,
-  //                 lineTension: 0.3,
-  //                 fill: true
-  //             },
-  //             {
-  //                 data: datasets['Intraprenariat'],
-  //                 label: 'Intraprenariat ', // trailing space to ensure legend complies with French typography rules
-  //                 backgroundColor: '#9E121F',
-  //                 pointRadius: 0,
-  //                 lineTension: 0.3,
-  //                 fill: true
-  //             },
-  //             {
-  //                 data: datasets['Animation'],
-  //                 label: 'Animation ', // trailing space to ensure legend complies with French typography rules
-  //                 backgroundColor: '#9E1D1F',
-  //                 pointRadius: 0,
-  //                 lineTension: 0.3,
-  //                 fill: true
-  //             },
-  //             {
-  //                 data: datasets['Produit'],
-  //                 label: 'Produit ', // trailing space to ensure legend complies with French typography rules
-  //                 backgroundColor: '#9E129F',
-  //                 pointRadius: 0,
-  //                 lineTension: 0.3,
-  //                 fill: true
-  //             }
-  //         ],
-  //         backgroundColor: [
-  //             '#EF7D29',
-  //             '#0048B3',
-  //             '#3EA9FF',
-  //             '#FEA9FF',
-  //             '#FEAC1F',
-  //             '#9E121F',
-  //             '#9E1D1F',
-  //             '#9E129F'
-  //         ]
-  //     },
-  //     options: {
-  //         animation: { duration: 0 },
-  //         maintainAspectRatio: false,
-  //         legend: {
-  //             onClick: function() { return false }
-  //         },
-  //         plugins: {
-  //             // tooltip: {
-  //             //     mode: 'x'
-  //             // },
-  //         },
-  //         interaction: {
-  //             mode: 'x',
-  //             intersect: false
-  //             // mode: 'index'
-  //         },
-  //         scales: {
-  //             x: {
-  //                 type: 'time',
-  //                 time: { unit: 'quarter' },
-  //                 gridLines: { display: false }
-  //             },
-  //             y: {
-  //                 stacked: true
-  //             }
-  //         }
-  //     }
-  // });
-  var domaineKeys = Object.keys(window.data.domaine);
+  var idealOrder = ["Animation","Intraprenariat","Coaching","Développement","Déploiement","Design","Produit","Data","Autre"];
+  var domaineKeys = Object.keys(window.data.domaine).sort((a,b) => idealOrder.indexOf(a) - idealOrder.indexOf(b) );
+
   new Chart(document.querySelector("canvas#pie-chart"), {
     type: "polarArea",
     data: {
-      labels: ["Red", "Green", "Yellow", "Grey", "Blue", "Grey", "Grey"],
       datasets: [
         {
           label: "Domaine",
           data: domaineKeys.map((key) => window.data.domaine[key]),
-          backgroundColor: ["#EF7D29", "#0048B3", "#3EA9FF", "#FEA9FF", "#FEAC1F", "#9E121F", "#9E1D1F", "#9E129F"],
+          backgroundColor: [
+            "#DD6A57", // animation
+
+            "#9FE0F7", // intra
+            "#5BA7BC", // coach
+
+            "#7666F6", // dev
+
+            "#92E3A9", // bizdev
+
+            "#ECC962", // design
+            "#F4DEA8", // product
+
+            "#FFB6A3", // data
+
+            "#D9D9D9"], // autre
         },
       ],
       labels: domaineKeys.map((key) => key),
@@ -237,6 +165,13 @@ $(function () {
         title: {
           text: "Répartition des membres par compétence",
           display: true,
+          color: '#666',
+          font: {
+            family: 'Marianne',
+            size: 18,
+            weight: 'bold',
+            lineHeight: 1.2,
+          },
         },
         animation: { duration: 0 },
         maintainAspectRatio: false,
@@ -257,10 +192,13 @@ $(function () {
             legend.chart.update();
           },
           position: "right",
-          title: {
-            text: "Légende",
-            display: true,
-          },
+          labels: {
+            font: {
+              family: 'Marianne',
+              size: 12, 
+              weight: 'bold'
+            }
+          }
         },
       },
       scales: {

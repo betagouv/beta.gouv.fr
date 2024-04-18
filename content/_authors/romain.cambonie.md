@@ -20,8 +20,9 @@ missions:
 startups:
   - l-immersion-facile
 previously:
-  - conseiller-numerique
+  - france-numerique-ensemble
 badges:
   - segur
 ---
+
 Sauvons la planête, un commit à la fois :) !

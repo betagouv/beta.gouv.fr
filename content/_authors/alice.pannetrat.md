@@ -2,6 +2,7 @@
 fullname: Alice Pannetrat
 role: Directrice des Opérations
 domaine: Animation
+github: pannetratalice
 missions:
   - start: 2024-02-19
     end: 2027-02-18

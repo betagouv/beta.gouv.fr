@@ -24,8 +24,10 @@ phases:
     start: 2022-06-01
   - name: acceleration
     start: 2022-12-01
+thematiques:
+  - Sécurité informatique
+  - Outil technique
 ---
-
 ## Contexte
 
 Il existe de nombreux services numériques qui s’adressent aux collectivités territoriales (exemples : Urban Vitaliz, macantine, le.taxi, covoiturage.beta.gouv.fr, territoiresentransition.fr, data.gouv.fr, api.gouv.fr, adresse.data.gouv.fr...), ou plus largement à des personnalités morales (entreprises, associations, services de l’État). Ces services nécessitent souvent un système d’authentification.
