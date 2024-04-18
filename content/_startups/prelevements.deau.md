@@ -2,7 +2,7 @@
 title: Prélèvements d'eau
 mission: Faciliter la délivrance et le contrôle des autorisation de prélèvements d'eau
 sponsors:
-  - /organisations/ademe
+  - /organisations/dgeb
 incubator: mtes
 contact: valentin.le-tellier@developpement-durable.gouv.fr
 accessibility_status: non conforme
