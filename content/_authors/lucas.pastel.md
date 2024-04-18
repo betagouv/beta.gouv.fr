@@ -1,7 +1,7 @@
 ---
 fullname: Lucas PASTEL
 role: Chargé de déploiement
-domaine: Autre
+domaine: Déploiement
 missions:
   - start: 2022-05-20
     end: 2024-12-31
