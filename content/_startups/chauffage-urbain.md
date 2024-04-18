@@ -25,6 +25,9 @@ usertypes:
 fast:
   promotion: 14
   montant: 121000
+thematiques:
+  - Logement
+  - Écologie
 ---
 # Le problème
 
@@ -107,4 +110,3 @@ Le déploiement national de France Chaleur Urbaine passe par :
 * l'organisation régulière d'un comité des partenaires réunissant les principaux acteurs de la filière, ainsi que d'ateliers ouverts aux différentes parties prenantes.
 
 Le raccordement à un réseau de chaleur nécessitant un temps relativement long (plusieurs mois), nous estimons l’impact par le nombre de demandes de contact reçues et transférées aux gestionnaires des réseaux, et par le nombre de collectivités et exploitants partenaires du service. La quantité de CO2 évitée par les raccordements à l'étude sera également évaluée.
-

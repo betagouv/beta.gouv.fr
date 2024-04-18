@@ -10,6 +10,9 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-03-12
+thematiques:
+  - Social
+  - Administratif
 ---
 ## Contexte Quel est le contexte de ta Startup d'Etat ?
 
@@ -32,7 +35,7 @@ La population de nouveaux réfugiés rencontre des difficultés d’intégration
 Régulièrement, ils ne reçoivent pas les documents transmis par l’Ofpra, qu’il s’agisse d’une information sur leur statut (« oui la personne est bien réfugiée »), sur le fait que leur dossier est en cours (« l’état civil est en cours d’établissement ») ou même leurs actes d’état civil. 
 Les autres administrations leur demandent régulièrement des documents d’état civil qu’ils ne peuvent pas fournir et les réfugiés se retournent donc vers l’Ofpra. Le service de la relation à l’usager de la Protection peine à répondre aux usagers quel que soit le canal de communication mobilisé.  
 
-## Solution Décrit ta solution en quelques lignes ? qui seront/sont les bénéficiaires ? 
+## Solution en quelques lignes; qui seront/sont les bénéficiaires ? 
 
 La solution recherchée vise à transmettre des informations personnelles relatives aux réfugiés aux autres administrations pour prévenir les ruptures de droits et mieux répondre aux demandes des institutions partenaires. 
 Il s’agirait, en fonction des administrations : 
@@ -56,4 +59,3 @@ Pour identifier précisément les bénéfices de la démarche, les pistes suivan
 * Chiffrer la pression sur le service de la relation à l’usager de l’Ofpra et sur les partenaires de l’Ofpra et ses évolutions 
 
 La DIAIR (délégation interministérielle à l’accueil et l’intégration des réfugiés) ou d’autres administrations partenaires proches de l’usager final, pourrait par ailleurs être mobilisée pour constituer un panel usager. 
-

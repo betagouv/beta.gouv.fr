@@ -35,6 +35,8 @@ accessibility_status: non conforme
 fast:
   promotion: 14
   montant: 300000
+thematiques:
+  - Travail / Emploi
 ---
 ### **Problème :**
 

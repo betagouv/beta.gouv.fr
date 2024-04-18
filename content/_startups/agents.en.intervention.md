@@ -13,6 +13,8 @@ sponsors:
 phases:
   - name: acceleration
     start: 2022-09-05
+thematiques:
+  - Collectivités
 ---
 ## Contexte
 

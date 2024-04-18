@@ -15,6 +15,8 @@ phases:
     start: 2023-05-01
   - start: 2024-01-15
     name: construction
+thematiques:
+  - Écologie
 ---
 ## Contexte
 Le département de l’Hérault est affecté par des constructions ou installations d’habitat permanent ou temporaire dans les espaces agricoles, naturels et forestiers qui sont inconstructibles. Ces maisons, villas, caravanes, chalets, mobil-homes, yourtes… illégaux sont de plus en plus nombreux sur le littoral mais également à l’intérieur des terres. Ils posent des problèmes majeurs et mobilisent de forts moyens des pouvoirs publiques. 
@@ -44,4 +46,4 @@ AIGLE a été développé depuis 2019 et est utilisé dans une version opératio
 Aujourd'hui l'objectif est 
 * de mesurer si l'outil a un effet catalyseur sur l'action des communes
 * de mesurer si l'action est facilitée si on détecte au plus tôt. L'utilisation d'images satellites avec une récurrence de passage sera alors testée, car les photos aériennes ne sont disponibles que tous les 3 ans
-* de tester l'outil sur 3 autres départements 
+* de tester l'outil sur 3 autres départements
