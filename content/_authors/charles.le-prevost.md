@@ -1,7 +1,7 @@
 ---
 fullname: Charles Le Prévost
-role: Opérateur de validation
-domaine: Autre
+role: UX writer
+domaine: Design
 link: https://charleslp.com
 missions:
   - start: 2022-06-01
@@ -13,5 +13,4 @@ missions:
 startups:
   - dossierfacile
 ---
-
 Expérience utilisateur, interface utilisateur, UX writing.
