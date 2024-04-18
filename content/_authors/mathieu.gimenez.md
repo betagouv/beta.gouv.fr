@@ -8,6 +8,16 @@ missions:
     end: 2027-04-01
     status: admin
     employer: DGALN
+    startups:
+      - aigle
+      - envergo
+      - boris
+      - especes.protegees
+      - docurba
+      - dossierfacile
+      - mediation.logement
+      - sparte
+      - zero-logement-vacant
 memberType: dinum
 teams:
   - /teams/mtes
