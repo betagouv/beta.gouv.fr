@@ -13,10 +13,10 @@ sponsors:
 phases:
   - name: investigation
     start: 2022-11-01
-  - start: 2023-03-01
-    name: construction
-  - start: 2024-02-01
-    name: acceleration
+  - name: construction
+    start: 2023-03-01
+  - name: acceleration
+    start: 2024-02-01
 ---
 ## Contexte
 
@@ -32,4 +32,5 @@ DATA ETAT est la création par l'administration territoriale de l'Etat d'une nou
 
 ## Stratégie
 
-Déploiement en Bretagne (SGAR sur l'ATE + éducation nationale et Justice) puis déploiement aux opérateurs publics et autres SGARs de France pour nationalisation et pérennisation de la solution. 
+Déploiement en Bretagne (SGAR avec l'appui technique de la DREAL sur l'ATE + éducation nationale et Justice) puis déploiement aux opérateurs publics et autres SGARs de France pour nationalisation et pérennisation de la solution. 
+Le développement du projet est assuré via le GIP SIB dont l'Etat est membre.
