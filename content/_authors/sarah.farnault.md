@@ -27,3 +27,4 @@ ESS, Service public, RH, Industrie, Retail ...
 
 Mes convictions ? 
 ✨ Oser l'intelligence collective & Remettre le vivant au centre de nos conceptions 🌍
+
