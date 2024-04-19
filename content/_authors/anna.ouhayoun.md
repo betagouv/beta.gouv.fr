@@ -1,7 +1,7 @@
 ---
 fullname: Anna Ouhayoun
-role: Chargée de déploiement
-domaine: Déploiement
+role: Intrapreneuse
+domaine: Intraprenariat
 missions:
   - start: 2022-10-24
     end: 2025-01-24
