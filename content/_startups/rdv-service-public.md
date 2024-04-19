@@ -64,7 +64,6 @@ Nous suivons l’approche [beta.gouv.fr](https://beta.gouv.fr) qui place l’exp
 D'autres opérateurs nationaux ou locaux sont invités à rejoindre la dynamique pour s'inscrire dans la démarche collective d'un commun numérique. Écrivez-nous !
 
 
-
 ### Notre mission
 
 **1️⃣ Outiller** le service public avec une solution de gestion des rendez-vous simple à utiliser et simple à déployer.
@@ -159,3 +158,5 @@ Conscient du potentiel de cette solution numérique au sein des collectivités t
 **Préparation à la généralisation 🗓️ depuis 2023**
 
 Après plusieurs expérimentations au sein d'autres secteurs professionels et auprès d'autres niveaux de collectivités territoriales, **RDV Solidarités** devient **RDV Service Public**, un outil de gestion et de prise de rendez-vous pour tous les services publics.
+
+test
