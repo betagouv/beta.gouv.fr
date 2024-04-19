@@ -24,8 +24,9 @@ phases:
     - name: construction
       start: 2023-10-10
       comment: Construction sur un périmètre de juridictions restreint.
+thematiques:
+  - Justice
 ---
-
 ## Contexte
 
 -   [Les enseignements des Etats généraux de la justice](http://www.justice.gouv.fr/plan-daction-pour-la-justice-13010/)

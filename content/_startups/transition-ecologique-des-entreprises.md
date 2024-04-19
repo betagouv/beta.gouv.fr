@@ -23,6 +23,9 @@ techno:
   - publi.codes
 usertypes:
   - entreprise
+thematiques:
+  - Écologie
+  - Entreprises
 ---
 Le service public Transition Écologique des Entreprises est un guichet d'accueil, d'aide et d'accompagnement dans la transition écologique des entreprises.
 

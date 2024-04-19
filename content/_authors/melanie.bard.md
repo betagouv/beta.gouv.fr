@@ -4,9 +4,9 @@ role: Business Developer
 domaine: Développement
 missions:
   - start: 2022-05-02
-    end: 2024-03-31
+    end: 2024-06-30
     status: independent
-    employer: Octo
+    employer: OPTEAMIS
     startups:
       - reva
 startups:

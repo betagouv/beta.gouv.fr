@@ -12,10 +12,13 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-08-21
-  - name: construction
-    start: 2024-02-01
+  - start: 2024-03-01
+    name: construction
 accessibility_status: non conforme
-link: https://pass.sports.gouv.fr/v2/accueil
+thematiques:
+  - Santé
+  - Jeunesse
+  - Sport
 ---
 ## Contexte
 

@@ -15,6 +15,8 @@ phases:
     start: 2023-01-02
   - name: construction
     start: 2023-06-16
+  - name: alumni
+    start: 2024-01-19
 ---
 ## Contexte
 Un grand nombre d’affectations ne serait pas adapté aux personnes détenues.

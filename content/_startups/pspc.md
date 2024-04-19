@@ -1,16 +1,20 @@
 ---
-mission: Faciliter le processus de contrôle et surveillance des denrées alimentaires en permettant la circulation et l'accès en temps réel d'une donnée de qualité entre les différents acteurs.
+mission: >-
+  Faciliter le processus de contrôle et surveillance des denrées alimentaires en
+  permettant la circulation et l'accès en temps réel d'une donnée de qualité
+  entre les différents acteurs.
 incubator: dinum
 title: PSPC
 contact: diane.cuzzucoli@agriculture.gouv.fr
-accessibility_status: totalement conforme
+accessibility_status: non conforme
 sponsors:
   - /organisations/dgal
 phases:
   - name: investigation
     start: 2023-05-12
-  - start: 2024-02-26
-    name: construction
+  - name: construction
+    start: 2024-02-26
+repository: https://github.com/betagouv/pspc
 ---
 ## Contexte
 
@@ -18,7 +22,7 @@ Chaque année, dans le cadre du dispositif de sécurisation sanitaire de la cha�
 
 Le dispositif s'articule autour de 4 grandes phases prises en charge par différents acteurs : programmation, prélèvement sur le terrain, analyse au laboratoire et bilan/valorisation des données.
 
-(https://prod-files-secure.s3.us-west-2.amazonaws.com/55be1749-efe3-4e7f-95a9-23d80e66071b/a1c87586-e2d3-4d70-949a-b320da6c69a7/Untitled.png)
+![](https://beta.gouv.fr/img/startups/pspc_phases.png)
 
 ## Problème
 

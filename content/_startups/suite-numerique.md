@@ -13,6 +13,8 @@ phases:
     start: 2023-05-01
   - name: construction
     start: 2023-08-01
+thematiques:
+  - Outil technique
 ---
 ## Contexte
 
@@ -30,4 +32,4 @@ Une fois complète, la suite comprendra des services de :
 * Stockage de fichiers
 * Edition collaborative avec Collabora / Libre Office ainsi qu'avec le pad
 * Kanban 
-* Documentation avec Outline 
+* Documentation avec Outline

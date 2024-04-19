@@ -15,7 +15,7 @@ missions:
 previously:
   - aplus
   - place-des-entreprises
-  - conseiller-numerique
+  - france-numerique-ensemble
   - histologe
 badges:
   - segur

@@ -25,6 +25,9 @@ usertypes:
   - etablissement-scolaire
 link: https://documentation.exposition.inserjeunes.beta.gouv.fr/
 accessibility_status: non conforme
+thematiques:
+  - Jeunesse
+  - Formation
 ---
 ## Le problème
 

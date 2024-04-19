@@ -8,9 +8,17 @@ missions:
   - start: 2022-03-07
     end: 2024-06-30
     status: independent
-    employer: ''
+    employer: Malt
     startups:
       - camino
 startups:
   - camino
+competences:
+  - Développement Full-stack
+  - Développement
+  - Développement Backend
+  - Développement Frontend
+  - DevOps
+  - Administration Système
+  - Sécurité informatique
 ---
