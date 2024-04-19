@@ -8,7 +8,9 @@ contact: clemence.lopez@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
-    start: 2023-03-06
+    start: 2023-02-15
+  - start: 2023-06-15
+    name: alumni
 thematiques:
   - Formation
 ---
@@ -30,3 +32,10 @@ Solution imaginée par le ministère à l'origine de la commande : Un moyen de p
 
 ## Stratégie
 L'investigation a pour objectif de vérifier l'hypothèse de la commande, identifier les irritants afférents sur le terrain, et éventuellement de formuler de nouvelles hypothèses.
+
+## Apprentissages et recommandations
+L'investigation nous a permis d'identifier que la seule délégation de crédits pédagogiques dédiés est insuffisante pour renforcer l'usage des ressources numériques éducatives (RNE). 
+L'outil numérique recommandé doit pouvoir accompagner et faciliter le choix, puis l'obtention des RNE par les profs et en concertation entre eux. Il se situe en amont de l'acte d'achat, le facilite par la concertation, les retours d'expériences et une prise de décisions entre pairs.
+
+## Partenariat
+Le partenariat s'est arrêté à l'issue du comité d'investissement. Une longue attente d'arbitrage du cabinet s'est faite attendre (validation des crédit et du budget alloués), puis la direction du numérique pour l'éducation a poursuivi ses travaux sans l'accompagnement de beta.gouv.fr. 
