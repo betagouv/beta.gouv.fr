@@ -20,4 +20,3 @@ competences:
   - DevOps
   - Gouvernance
   - Communs
----

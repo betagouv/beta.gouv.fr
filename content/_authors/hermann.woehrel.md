@@ -1,7 +1,7 @@
 ---
 fullname: Hermann Woehrel
 role: Data scientist
-domaine: Autre
+domaine: Data
 missions:
   - start: 2021-09-06
     end: 2022-06-06

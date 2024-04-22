@@ -1,5 +1,5 @@
 ---
-fullname: Frédéric CULIE
+fullname: Frédéric Culie
 role: CISO
 domaine: Autre
 missions:

@@ -1,31 +1,34 @@
-{% comment %}
-  Ex : {% include startups-filters.html prefix="an-id" %}
-{% endcomment %}
+{% comment %} Ex : {% include startups-filters.html prefix="an-id" %} {% endcomment %}
 
 <div class="fr-input-group">
-    <label class="fr-label" for="{{include.prefix}}select-operateur">Par incubateur</label>
-    <select class="fr-select select-operateur" id="{{include.prefix}}select-operateur">
-        <option value="">Tous les incubateurs</option>
-    </select>
+  <label class="fr-label" for="{{include.prefix}}select-operateur">Par incubateur</label>
+  <select class="fr-select select-operateur" id="{{include.prefix}}select-operateur">
+    <option value="">Tous les incubateurs</option>
+  </select>
 </div>
 <div class="fr-input-group">
-    <label class="fr-label" for="{{include.prefix}}select-usertypes">Par type d'usagers</label>
-    <select class="fr-select select-usertypes" id="{{include.prefix}}select-usertypes">
-        <option value="">Tous les types d'usagers</option>
-    </select>
+  <label class="fr-label" for="{{include.prefix}}select-usertypes">Par type d'usagers</label>
+  <select class="fr-select select-usertypes" id="{{include.prefix}}select-usertypes">
+    <option value="">Tous les types d'usagers</option>
+  </select>
 </div>
 <div class="fr-input-group">
-    <label class="fr-label" for="{{include.prefix}}select-phase">Par phase</label>
-    <select class="fr-select select-phase" id="{{include.prefix}}select-phase">
-        <option>Aller à une phase</option>
-        {% for phase in phases_with_stopped %}
-            <option value="{{ phase.status }}" class="{{phase.status}}-option">{{ phase.label }}</option>
-        {% endfor %}
-    </select>
+  <label class="fr-label" for="{{include.prefix}}select-thematiques">Par thématique</label>
+  <select class="fr-select select-thematiques" id="{{include.prefix}}select-thematiques">
+    <option value="">Toutes les thématiques</option>
+  </select>
+</div>
+<div class="fr-input-group">
+  <label class="fr-label" for="{{include.prefix}}select-phase">Par phase</label>
+  <select class="fr-select select-phase" id="{{include.prefix}}select-phase">
+    <option>Aller à une phase</option>
+    {% for phase in phases_with_stopped %}
+    <option value="{{ phase.status }}" class="{{phase.status}}-option">{{ phase.label }}</option>
+    {% endfor %}
+  </select>
 </div>
 <div class="fr-toggle">
-    <input type="checkbox" class="fr-toggle__input select-impact" aria-describedby="{{include.prefix}}toggle-hint-text" id="{{include.prefix}}toggle">
-    <label class="fr-toggle__label" for="{{include.prefix}}toggle" data-fr-checked-label="Activé" data-fr-unchecked-label="Désactivé">Services à impact national</label>
-    <p class="fr-hint-text" id="{{include.prefix}}toggle-hint-text">Ces services sont déployés à l'ensemble du territoire national et ont atteint un seuil d'impact significatif.</p>
+  <input type="checkbox" class="fr-toggle__input select-impact" aria-describedby="{{include.prefix}}toggle-hint-text" id="{{include.prefix}}toggle" />
+  <label class="fr-toggle__label" for="{{include.prefix}}toggle" data-fr-checked-label="Activé" data-fr-unchecked-label="Désactivé">Services à impact national</label>
+  <p class="fr-hint-text" id="{{include.prefix}}toggle-hint-text">Ces services sont déployés à l'ensemble du territoire national et ont atteint un seuil d'impact significatif.</p>
 </div>
-
