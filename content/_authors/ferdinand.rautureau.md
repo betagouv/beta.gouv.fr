@@ -2,6 +2,7 @@
 fullname: Ferdinand Rautureau
 domaine: Intraprenariat
 role: Intrapreneur espace France Numérique Ensemble
+github: FerdinandRautureau
 missions:
   - start: 2022-06-13
     end: 2024-02-29
