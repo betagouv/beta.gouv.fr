@@ -18,8 +18,6 @@ events:
 phases:
   - name: construction
     start: 2021-03-01
-  - start: 2024-04-22
-    name: acceleration
 usertypes:
   - particulier
   - entreprise
@@ -33,4 +31,10 @@ thematiques:
 
 La crise sanitaire du Covid-19 a contribué à exacerber et révéler l'état de la santé mentale des étudiants en France. Cette étape transitionnelle de vie, entre l'adolescence et l'âge adulte, engendre en effet des questionnements, des doutes et parfois des troubles de la santé mentale.
 
-A partir de mars 2021, le ministère de l'Enseignement Supérieur et de la Recherche  a donc mis en place un dispositif d'accompagnement psychologique pour permettre aux étudiants de bénéficier de consultations auprès de psychologues agréés sans avance de frais.
+A partir de mars 2021, le ministère de l'Enseignement Supérieur et de la Recherche a donc mis en place un dispositif d'accompagnement psychologique pour permettre aux étudiants de bénéficier de consultations auprès de psychologues agréés sans avance de frais.
+
+Outre ce dispositif de prise en charge des consultations par les universités, Santé Psy Etudiant c'est aussi :
+- Un portail d'information en ligne pour les étudiants, leurds proches, les psychologues et les médecins qui ont des questions sur le dispositif et/ou souhaite consulter l'annuaire des psychologues disponibles ;
+- Un outil de suivi et de facturation de la patientèle étudiante des psychologues ; 
+- Une marque qui créée du contenu pour prévenir et déculpabiliser les enjeux autour de la santé mentale en adressant les étudiants mais aussi leurs proches ;
+- Et la mise en place de partenariats avec des acteurs divers pour toucher toujours plus d'étudiants et faciliter la prise de rendez-vous avec un psychologue (Doctolib, Pass Culture, Pass Sport, Nightline, etc.).
