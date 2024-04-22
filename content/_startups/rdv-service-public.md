@@ -17,7 +17,7 @@ sponsors:
   - /organisations/anct
 link: https://rdv.anct.gouv.fr
 stats: true
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM#RDV-Solidarit%C3%A9s
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#RDV-Services-Publics
 dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
 redirect_from:
   - /startups/lapins
