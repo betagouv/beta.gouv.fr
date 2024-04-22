@@ -9,4 +9,7 @@ missions:
     employer: Malt
     startups:
       - trackdechets
+competences:
+  - Développement Full-stack
+memberType: beta
 ---
