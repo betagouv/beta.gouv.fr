@@ -18,4 +18,6 @@ domaine: Développement
 competences:
   - Développement
   - DevOps
+  - Gouvernance
+  - Communs
 ---
