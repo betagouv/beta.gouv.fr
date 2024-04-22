@@ -9,4 +9,8 @@ missions:
     employer: LittleBigConnection
     startups:
       - recommandations-collaboratives
+competences:
+  - Accessibilité
+  - Développement Frontend
+memberType: beta
 ---
