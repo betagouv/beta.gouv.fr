@@ -1,7 +1,7 @@
 ---
 fullname: Ferdinand Rautureau
-domaine: Déploiement
-role: Chargé de déploiment
+domaine: Intraprenariat
+role: Intrapreneur espace France Numérique Ensemble
 missions:
   - start: 2022-06-13
     end: 2024-02-29
@@ -19,4 +19,8 @@ startups:
   - france-numerique-ensemble
 competences:
   - Administration Publique
+  - Intrapreneur(se)
+  - Product strategy
+  - Communication
+link: https://www.linkedin.com/in/ferdinand-rautureau-744691b6/
 ---
