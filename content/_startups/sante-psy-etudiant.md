@@ -16,8 +16,10 @@ events:
   - name: product_launch
     date: 2021-03-11
 phases:
-  - name: acceleration
-    start: 2021-09-01
+  - name: construction
+    start: 2021-03-01
+  - start: 2024-04-22
+    name: acceleration
 usertypes:
   - particulier
   - entreprise
