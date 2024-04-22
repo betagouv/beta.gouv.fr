@@ -16,6 +16,12 @@ missions:
     employer: NUMA
     startups:
       - apilos
+  - start: 2024-03-05
+    end: 2024-07-22
+    status: independent
+    employer: NUMA
+    startups:
+      - investigation.d.un.pole.de.competences.numerique
 incubator: culture
 startups:
   - collectif_objets
