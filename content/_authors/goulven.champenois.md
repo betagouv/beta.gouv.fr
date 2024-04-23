@@ -9,4 +9,13 @@ missions:
     employer: UT7
     startups:
       - collectif_objets
+link: https://pro.userland.fr/
+github: goulvench
+competences:
+  - Développement Full-stack
+  - Accessibilité
+  - UI
+  - UX
+  - DevOps
+memberType: beta
 ---
