@@ -14,4 +14,5 @@ badges:
   - segur
 previously:
   - dossierfacile
+memberType: beta
 ---
