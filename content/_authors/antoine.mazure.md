@@ -9,4 +9,8 @@ missions:
     employer: Octo
     startups:
       - agora
+github: inemesis
+competences:
+  - Développement
+memberType: beta
 ---
