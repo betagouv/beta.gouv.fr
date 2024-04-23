@@ -16,8 +16,6 @@ missions:
     end: 2024-06-29
     status: independent
     employer: Octo
-startups:
-  - 
 previously:
   - france-numerique-ensemble
   - maintenant
