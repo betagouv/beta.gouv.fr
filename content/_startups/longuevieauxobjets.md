@@ -24,11 +24,12 @@ events:
     date: 2023-04-06
 phases:
   - name: construction
-    start: 2023-05-15
-  - start: 2024-04-23
-    name: acceleration
+    start: 2023-06-01
+  - start: 2023-01-01
+    name: investigation
 thematiques:
   - Écologie
+stats_url: https://longuevieauxobjets.ademe.fr/stats/
 ---
 ## Contexte 👀
 
