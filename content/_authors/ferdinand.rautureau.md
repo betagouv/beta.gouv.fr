@@ -23,5 +23,4 @@ competences:
   - Intrapreneur(se)
   - Product strategy
   - Communication
-link: https://www.linkedin.com/in/ferdinand-rautureau-744691b6/
 ---
