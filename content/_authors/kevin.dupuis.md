@@ -5,7 +5,7 @@ domaine: Coaching
 link: https://linktr.ee/thenextdeals
 missions:
   - start: 2023-08-01
-    end: 2024-10-31
+    end: 2024-11-30
     status: independent
     employer: ''
     startups:
