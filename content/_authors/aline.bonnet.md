@@ -9,4 +9,8 @@ missions:
     employer: ''
     startups:
       - vues-immersives-libres
+link: https://www.linkedin.com/in/bardoualine/
+competences:
+  - Développement
+memberType: beta
 ---
