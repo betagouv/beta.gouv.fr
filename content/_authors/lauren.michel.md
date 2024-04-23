@@ -17,8 +17,9 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - france-numerique-ensemble
+  - 
 previously:
+  - france-numerique-ensemble
   - maintenant
   - place-de-marche-inclusion
   - eva
