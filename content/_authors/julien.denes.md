@@ -11,4 +11,5 @@ missions:
       - cartographie.nationale
       - france-numerique-ensemble
       - suite.d.outils.des.mediateurs.numeriques
+memberType: beta
 ---
