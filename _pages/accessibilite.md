@@ -26,7 +26,7 @@ beta.gouv.fr est non conforme avec le RGAA 4.1. Le site n’a **pas encore été
 #### Défauts d'accessibilité connus
 
 Nous souhaitons corriger ces défauts courant 2024 :
-- Les pages [Indicateurs](/stats) et [Communauté](/https://beta.gouv.fr/communaute/) affichent des graphiques non accessibles. 
+- Les pages [Indicateurs](/stats) et [Communauté](/communaute/) affichent des graphiques non accessibles. 
 - Notre [bilan 2023](https://beta.gouv.fr/content/docs/betagouv_presentation.pdf) sous forme de PDF n'est pas accessible.
 
 ### Amélioration et contact
