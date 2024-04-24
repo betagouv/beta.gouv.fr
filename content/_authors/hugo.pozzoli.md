@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/hugopozzoli/
 github: FlawaCLV
 missions:
   - start: 2023-08-16
-    end: 2025-01-31
+    end: 2024-04-05
     status: independent
     employer: Malt
     startups:

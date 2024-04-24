@@ -1,7 +1,7 @@
 ---
 fullname: Yannick Passarelli
 role: Data Analyst
-domaine: Autre
+domaine: Data
 github: YannickPassa
 missions:
   - start: 2022-02-14

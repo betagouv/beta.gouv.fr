@@ -1,7 +1,7 @@
 ---
-fullname: carole TOQUE
-role: spécialiste en sciences et management de données
-domaine: Autre
+fullname: Carole Toque
+role: Spécialiste en sciences et management de données
+domaine: Data
 missions:
   - start: 2021-09-01
     end: 2022-12-31

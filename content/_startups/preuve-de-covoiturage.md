@@ -32,6 +32,9 @@ phases:
 fast:
   promotion: 12
   montant: 300000
+thematiques:
+  - Écologie
+  - Transports
 ---
 Un résumé (2 min de lecture)
 
@@ -52,5 +55,4 @@ Covoiturage.gouv accompagne et amplifie le déploiement des politiques publiques
 Autour d'un registre de preuve aggrégeant la quasi totalité des trajets normalisés et qualifiés provenant des plateformes de covoiturage quotidien intermédié, des services connexes sont déployés pour : sensibiliser l'écosystème aux différentes politiques publiques à travers des webinaires et un observatoire national ; renforcer les liens de confience entre acteurs publics et privés en accompagnant la lutte contre la fraude; et en facilitant la mise en place des dispositifs d'aide au développement de la pratique : campagnes d'incitations financières, forfait mobilité durable, fond vert et prime CEE.
 
 L’impact :
-Le principal indicateur de succès de la SE est le volume de covoiturages du quotidien traités et enregistrés comme valides dans notre registre de preuve de covoiturage, nous vison 1million de trajets mensuel à fin 2023. Nos indicateurs secondaires sont la volumétrie de trajets invalidés ainsi que l'évolution de l'usage sur chaque de nos services connexes. [En savoir plus, voir la page de statistiques du Registre de preuve de covoiturage](https://stats.covoiturage.beta.gouv.fr/embed/dashboard/3bec1692-1456-41c2-95a9-6606af329df9) 
-
+Le principal indicateur de succès de la SE est le volume de covoiturages du quotidien traités et enregistrés comme valides dans notre registre de preuve de covoiturage, nous vison 1million de trajets mensuel à fin 2023. Nos indicateurs secondaires sont la volumétrie de trajets invalidés ainsi que l'évolution de l'usage sur chaque de nos services connexes. [En savoir plus, voir la page de statistiques du Registre de preuve de covoiturage](https://stats.covoiturage.beta.gouv.fr/embed/dashboard/3bec1692-1456-41c2-95a9-6606af329df9)

@@ -13,7 +13,7 @@ usertypes:
   - particulier
 stats_url: https://www.culture.gouv.fr/Demarches-en-ligne/Par-thematiques/Architecture/Mes-travaux-en-site-protege/A-propos
 stats: true
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#-Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
 phases:
   - name: investigation
     start: 2020-01-15
