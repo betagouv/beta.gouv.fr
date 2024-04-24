@@ -9,4 +9,6 @@ missions:
     employer: Malt
     startups:
       - territoires-en-transitions
+github: farnoux
+memberType: beta
 ---
