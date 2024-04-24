@@ -12,11 +12,13 @@ missions:
       - acceslibre
       - accesscite
       - camino
+      - prelevements.deau
       - recommandations-collaboratives
       - reflex
       - sparte
       - urbanvitaliz
-      - prelevements.deau
+      - oilhi
+      - histologe
 startups:
   - acceslibre
   - accesscite
