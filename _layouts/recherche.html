@@ -7,221 +7,260 @@ layout: default
 
   <p id="search-page-title" class="fr-h5"></p>
 
-    <div id="search-noresults" class="fr-hidden">
-        <p>Votre recherche n'a retourné aucun résultat. Vous pouvez :</p> 
-        <ul>
-            <li class="fr-pb-1w">Vérifier l’orthographe de votre recherche</li>
-            <li>Essayer avec d’autres mots-clés</li>
-        </ul>
-    </div>
+  <div id="search-noresults" class="fr-hidden">
+    <p>Votre recherche n'a retourné aucun résultat. Vous pouvez :</p>
+    <ul>
+      <li class="fr-pb-1w">Vérifier l’orthographe de votre recherche</li>
+      <li>Essayer avec d’autres mots-clés</li>
+    </ul>
+  </div>
 
   <div id="search-results-incubators">
     <h2 class="fr-h3 fr-pt-4w" id="search-results-incubators-title">Incubateurs</h2>
-    <div id="search-results-incubators-list" class="fr-grid-row fr-grid-row--gutters">
-    </div>
+    <div id="search-results-incubators-list" class="fr-grid-row fr-grid-row--gutters"></div>
   </div>
 
   <div id="search-results-realisations">
     <h2 class="fr-h3 fr-pt-4w" id="search-results-realisations-title">Services numériques</h2>
-    <div id="search-results-realisations-list" class="fr-grid-row fr-grid-row--gutters">
-    </div>
+    <div id="search-results-realisations-list" class="fr-grid-row fr-grid-row--gutters"></div>
   </div>
 
   <div id="search-results-pages">
     <h2 class="fr-h3 fr-pt-4w" id="search-results-pages-title">Pages</h2>
-    <div id="search-results-pages-list" class="fr-grid-row fr-grid-row--gutters">
-    </div>
+    <div id="search-results-pages-list" class="fr-grid-row fr-grid-row--gutters"></div>
   </div>
-
 </div>
 
-<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="/assets/additional/js/fuse.js@7.0.0.js"></script>
 <script src="https://unpkg.com/jquery/dist/jquery.min.js"></script>
 
 <script>
- function getQueryVariable(variable) {
-     let params = (new URL(document.location)).searchParams;
-     return params.get(variable);
- }
+  function getQueryVariable(variable) {
+      let params = (new URL(document.location)).searchParams;
+      return params.get(variable);
+  }
 
- function displaySearchResults(searchTerm, categories) {
-    let count=0;
-    for (let index = 0; index < categories.length; index++) {
-        count+=displaySearchResultsForCategory(searchTerm, categories[index]);
-    }
-
-    return count;
- }
-
- function displaySearchResultsForCategory(searchTerm, category) {
-     var results = category.idx.search(searchTerm);
-
-     var searchResultDiv = document.getElementById(category.searchResultId);
-     var searchResultTitle = document.getElementById(category.searchResultTitleId);
-     var searchResultList = document.getElementById(category.searchResultListId);
-
-     if (results.length) {
-         searchResultList.innerHTML = results
-             .map(result => category.store[result.ref])
-             .map(startup => category.print(startup))
-             .join('');
+  function displaySearchResults(searchTerm, categories) {
+     let count=0;
+     for (let index = 0; index < categories.length; index++) {
+         count+=displaySearchResultsForCategory(searchTerm, categories[index]);
      }
 
-     searchResultTitle.innerHTML = results.length + '&nbsp;' + (results.length == 1 ? category.name : category.name_plural);
+     return count;
+  }
 
-     return results.length;
- }
+  function displaySearchResultsForCategory(searchTerm, category) {
+      var results = category.idx && category.idx.search(searchTerm) ||[];
 
- // Replace to trim the query, removing extra white spaces
- var searchTerm = getQueryVariable('q').trim();
 
- const startups = {
-     {% for startup in site.startups %}
-     {% assign startup_id = startup.id | remove: "/startups/" %}
+      var searchResultDiv = document.getElementById(category.searchResultId);
+      var searchResultTitle = document.getElementById(category.searchResultTitleId);
+      var searchResultList = document.getElementById(category.searchResultListId);
 
-     {% assign team = site.authors | where:"startups", startup_id %}
-     {% assign current_team = "" %}
-     {% for people in team %}
-     {% capture to_append %}{{people.fullname}}, {% endcapture %}
-     {% assign current_team = current_team | append: to_append %}
-     {% endfor %}
+      if (results.length) {
+          searchResultList.innerHTML = results
+              .slice(0,25)
+              .map(result => category.print(result.item))
+              .join('');
+      }
 
-     {% assign team = site.authors | where:"previously", startup_id %}
-     {% assign past_team = "" %}
-     {% for people in team %}
-     {% capture to_append %}{{people.fullname}}, {% endcapture %}
-     {% assign past_team = past_team | append: to_append %}
-     {% endfor %}
+      searchResultTitle.innerHTML = results.length + '&nbsp;' + (results.length == 1 ? category.name : category.name_plural);
 
-     "{{ startup_id | xml_escape }}" : {
-         "title"         : "{{ startup.title | escape }}",
-         "mission"       : "{{ startup.mission | escape }}",
-         "incubator"     : "{{ startup.incubator | escape }}",
-         "url"           : "{{ site.baseurl }}{{ startup.url }}",
-         "contact"       : "{{ startup.contact }}",
-         "current_team"  : "{{ current_team | xml_escape}}",
-         "past_team"     : "{{ past_team | xml_escape }}"
-     } {% unless forloop.last %},{% endunless %}
-     {% endfor %}
- };
+      return results.length;
+  }
 
- const pages = {
-     {% assign pages = site.pages | where_exp: 'page', 'page.title' %}
-     {% for page in pages %}
-     "{{ page.url }}" : {
-         title: "{{ page.title }}",
-         url: "{{ site.baseurl }}{{ page.url }}"
-     } {% unless forloop.last %},{% endunless %}
-     {% endfor %}
- };
+  // Replace to trim the query, removing extra white spaces
+  var searchTerm = decodeURIComponent(getQueryVariable('q').trim());
 
- const incubators = [
-     {% for incubator in site.incubators %} {
-         id: "{{incubator.id}}".replace('/incubateurs/', ''),
-         title: "{{incubator.title}}",
-         owner: "{{incubator.owner}}",
-         website: "{{incubator.website}}",
-         contact: "{{incubator.contact}}",
-         address: "{{incubator.address}}",
-         github: "{{incubator.github}}",
-         url: "{{ incubator.id}}"
-     },
-     {% endfor %}
- ];
+  const startups = {
+      {%- for startup in site.startups -%}
+      {% assign startup_id = startup.id | remove: "/startups/" %}
 
- const categories = [
-     {
-         name: 'incubateur',
-         name_plural: 'incubateurs',
-         searchResultId: 'search-results-incubators',
-         searchResultTitleId: 'search-results-incubators-title',
-         searchResultListId: 'search-results-incubators-list',
-         print: function(incubator) {
-            return '<div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3"><div class="fr-card fr-enlarge-link fr-card--sm"><div class="fr-card__body"><div class="fr-card__content"><h3 class="fr-card__title"><a href="'+ incubator.url +'">'+incubator.title+'</a></h3></div></div></div></div>';
-         },
-         idx: lunr(function () {
-             this.field('title', { boost: 10 });
-             this.field('owner');
-             this.field('website');
-             this.field('contact');
-             this.field('address');
-             this.field('github');
-             for (var key in incubators) {
-                 this.add({
-                     'id': key,
-                     'title': incubators[key].title,
-                     'owner': incubators[key].owner,
-                     'website': incubators[key].website,
-                     'contact': incubators[key].contact,
-                     'address': incubators[key].address,
-                     'github': incubators[key].github
-                 });
-             }
-         }),
-         store: incubators
-     },
-     {
-         name: 'service numérique',
-         name_plural: 'services numériques',
-         searchResultId: 'search-results-realisations',
-         searchResultTitleId: 'search-results-realisations-title',
-         searchResultListId: 'search-results-realisations-list',
-         print: function(startup) {
-            return '<div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3"><div class="fr-card fr-enlarge-link fr-card--sm"><div class="fr-card__body"><div class="fr-card__content"><h3 class="fr-card__title"><a href="'+ startup.url +'">'+startup.title+'</a></h3><p class="fr-card__desc">'+startup.mission+'</p></div></div></div></div>';
-         },
-         idx: lunr(function () {
-             this.field('title', { boost: 10 });
-             this.field('mission');
-             this.field('incubator');
-             this.field('url');
-             this.field('contact');
-             this.field('current_team');
-             this.field('past_team');
-             for (var key in startups) {
-                 this.add({
-                     'id': key,
-                     'title': startups[key].title,
-                     'mission': startups[key].mission,
-                     'mission': startups[key].mission,
-                     'incubator': startups[key].incubator,
-                     'contact': startups[key].contact,
-                     'current_team': startups[key].current_team,
-                     'past_team': startups[key].past_team
-                 });
-             }
-         }),
-         store: startups
-     }, {
-         name: 'page',
-         name_plural: 'pages',
-         searchResultId: 'search-results-pages',
-         searchResultTitleId: 'search-results-pages-title',
-         searchResultListId: 'search-results-pages-list',
-         print: function(page) {
-            return '<div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3"><div class="fr-tile fr-enlarge-link"><div class="fr-tile__body"><div class="fr-tile__content"><h3 class="fr-tile__title"><a href="'+ page.url +'">' + page.title + '</a></h3></div></div></div></div>';
-         },
-         idx: lunr(function () {
-             this.field('title');
-             for (var key in pages) {
-                 this.add({
-                     'id': key,
-                     'title': pages[key].title
-                 });
-             }
-         }),
-         store: pages
- }];
+      {% assign team = site.authors | where:"startups", startup_id %}
+      {% assign current_team = "" %}
+      {% for people in team %}
+      {% capture to_append %}{{people.fullname}}, {% endcapture %}
+      {% assign current_team = current_team | append: to_append %}
+      {% endfor %}
 
- document.getElementById('search').setAttribute("value", searchTerm);
+      {% assign team = site.authors | where:"previously", startup_id %}
+      {% assign past_team = "" %}
+      {% for people in team %}
+      {% capture to_append %}{{people.fullname}}, {% endcapture %}
+      {% assign past_team = past_team | append: to_append %}
+      {% endfor %}
 
- var searchPageTitle = document.getElementById('search-page-title');
- $(searchPageTitle).text('résultats pour « ' + searchTerm + ' »');
- let count = displaySearchResults(searchTerm, categories);
+      "{{ startup_id | xml_escape }}" : {
+          "title"         : "{{ startup.title | escape }}",
+          "mission"       : "{{ startup.mission | escape }}",
+          "incubator"     : "{{ startup.incubator | escape }}",
+          "url"           : "{{ site.baseurl }}{{ startup.url }}",
+          "contact"       : "{{ startup.contact }}",
+          "current_team"  : "{{ current_team | xml_escape}}",
+          "past_team"     : "{{ past_team | xml_escape }}",
+          "thematiques"   : [ {% for thematique in startup.thematiques %}{name: "{{ thematique }}"}{% unless forloop.last %}, {% endunless %}{% endfor %} ]
+      },
+      {%- endfor -%}
+  };
 
- if(count === 0) {
-    $(searchPageTitle).prepend('Aucun ');
-    document.getElementById('search-noresults').classList.remove('fr-hidden') 
- } else {
-    $(searchPageTitle).prepend(count + '&nbsp;');
- }
+  const pages = {
+      {% assign pages = site.pages | where_exp: 'page', 'page.title' %}
+      {%- for page in pages -%}
+      "{{ page.url }}" : {
+          title: "{{ page.title }}",
+          url: "{{ site.baseurl }}{{ page.url }}",
+          search_description: "{% if page.search_description %}{{ page.search_description }}{% endif %}",
+      } {% unless forloop.last %},{% endunless %}
+      {%- endfor -%}
+  };
+
+  const incubators = [
+      {%- for incubator in site.incubators -%} {
+          id: "{{incubator.id}}".replace('/incubateurs/', ''),
+          title: "{{incubator.title}}",
+          owner: "{{incubator.owner}}",
+          content_url_encoded_markdown: "{{incubator.content_url_encoded_markdown}}",
+          short_description: "{{incubator.short_description | escape}}",
+          website: "{{incubator.website}}",
+          contact: "{{incubator.contact}}",
+          address: "{{incubator.address}}",
+          github: "{{incubator.github}}",
+          url: "{{ incubator.id}}"
+      },
+      {%- endfor -%}
+  ];
+
+  // convert to arrays
+  const startupsData = Object.entries(startups).map(([k, v]) => ({id: k, ...v}))
+  const pagesData = Object.entries(pages).map(([k, v]) => ({id: k, ...v}))
+  const incubatorsData = Object.entries(incubators).map(([k, v]) => ({id: k, ...v, content: decodeURIComponent(v.content_url_encoded_markdown)}))
+
+  const fuseOptions = {
+    includeMatches: true,
+    minMatchCharLength: 3,
+    threshold: 0.3,
+    ignoreLocation: true,
+    includeScore: true,
+    //distance: 100
+  }
+
+
+  const categories = [
+      {
+          name: 'incubateur',
+          name_plural: 'incubateurs',
+          searchResultId: 'search-results-incubators',
+          searchResultTitleId: 'search-results-incubators-title',
+          searchResultListId: 'search-results-incubators-list',
+          print: function(incubator) {
+             return `<div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
+                        <div class="fr-card fr-enlarge-link fr-card--sm">
+                            <div class="fr-card__body">
+                                <div class="fr-card__content">
+                                    <h3 class="fr-card__title">
+                                        <a href="${incubator.url}">${incubator.title}</a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>`;
+          },
+          // https://www.fusejs.io/api/options.html
+          idx: new Fuse(incubatorsData, {
+              keys: [
+                'id',
+                {name:'title', weight:5},
+                {name:'shortDescription', weight:3},
+                {name:'content', weight:2},
+                'owner',
+                'website',
+                'contact',
+                'address',
+                'github',
+                'url',
+              ],
+              ...fuseOptions,
+          }),
+          store: incubators
+      },
+      {
+          name: 'service numérique',
+          name_plural: 'services numériques',
+          searchResultId: 'search-results-realisations',
+          searchResultTitleId: 'search-results-realisations-title',
+          searchResultListId: 'search-results-realisations-list',
+          print: function(startup) {
+             return `<div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
+                        <div class="fr-card fr-enlarge-link fr-card--sm">
+                            <div class="fr-card__body">
+                                <div class="fr-card__content">
+                                    <h3 class="fr-card__title">
+                                        <a href="${startup.url}">${startup.title}</a>
+                                    </h3>
+                                    <p class="fr-card__desc">${startup.mission}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>`;
+          },
+          // https://www.fusejs.io/api/options.html
+          idx: new Fuse(startupsData, {
+              keys: [
+                {name:'id', weight:3},
+                {name:'title', weight:5},
+                {name:'mission', weight:2},
+                'thematiques.name',
+                'incubator',
+                'url',
+                'contact',
+                'current_team',
+                'past_team',
+              ],
+              ...fuseOptions
+          }),
+          store: startups
+      }, {
+          name: 'page',
+          name_plural: 'pages',
+          searchResultId: 'search-results-pages',
+          searchResultTitleId: 'search-results-pages-title',
+          searchResultListId: 'search-results-pages-list',
+          print: function(page) {
+             return `<div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
+                        <div class="fr-tile fr-enlarge-link">
+                            <div class="fr-tile__body">
+                                <div class="fr-tile__content">
+                                    <h3 class="fr-tile__title">
+                                        <a href="${page.url}">${page.title}</a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>`;
+          },
+          // https://www.fusejs.io/api/options.html
+          idx: new Fuse(pagesData, {
+              keys: [
+                {name:'id', weight:5},
+                {name:'title', weight:5},
+                'search_description',
+                'url',
+              ],
+              ...fuseOptions
+          }),
+          store: pages
+  }];
+
+
+  document.getElementById('search').setAttribute("value", searchTerm);
+
+  var searchPageTitle = document.getElementById('search-page-title');
+  const count = displaySearchResults(searchTerm, categories);
+
+  if(count === 0) {
+     $(searchPageTitle).text(`Aucun résultat pour « ${searchTerm} »`);
+     document.getElementById('search-noresults').classList.remove('fr-hidden')
+  } else {
+    $(searchPageTitle).text(`Résultat${count > 1 ? "s" : ""} pour « ${searchTerm} »`);
+  }
 </script>
