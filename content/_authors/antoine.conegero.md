@@ -9,4 +9,5 @@ missions:
     employer: Little Big Connection
     startups:
       - tacct
+memberType: beta
 ---
