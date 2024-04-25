@@ -12,5 +12,7 @@ missions:
       Réunion
     startups:
       - prelevements.deau
+startups:
+    - prelevements.deau
 memberType: beta
 ---
