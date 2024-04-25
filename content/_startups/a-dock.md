@@ -1,6 +1,8 @@
 ---
 title: A Dock
-mission: Simplifier l'accès aux données et démarches administratives du transport routier de marchandises
+mission: >-
+  Simplifier l'accès aux données et démarches administratives du transport
+  routier de marchandises
 incubator: mtes
 sponsors:
   - /organisations/mtes
@@ -22,8 +24,8 @@ phases:
     start: 2021-01-01
 usertypes:
   - entreprise
+accessibility_status: non conforme
 ---
-
 ## Le constat initial : le transport routier de marchandises, un secteur exposé à des risques de déréglementation
 
 Le transport routier de marchandises en France (TRM) - 40 000 entreprises, 400 000 salariés -  est historiquement et structurellement exposé à des risques de déréglementation. En effet, il est : 
