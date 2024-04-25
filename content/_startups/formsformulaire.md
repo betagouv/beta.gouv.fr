@@ -1,5 +1,7 @@
 ---
-mission: .
+mission: >-
+  Un produit pour la gestion des flux de commandes et la simplification des
+  processus de remontée de données manuelles.
 incubator: lab-mi
 title: Forms/Formulaire
 contact: charlotte.chaussat@beta.gouv.fr
@@ -10,20 +12,29 @@ phases:
   - name: investigation
     start: 2023-11-21
 ---
-Po.ur t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
+Simplifier les remontées "à la volée" de données opérationnelles, 
+en dotant les états major, à tous les échelons de la DGPN, d'un outil de création de formulaire et de data visualisation de portefeuilles de commandes (pour la gestion du pilotage et du suivi du traitement des commandes).
 
-## Contexte
 
-Quel est le contexte de ta Startup d'Etat ?
+**Enjeux:**
+++Intégration :++
+Simplifier les procédures
+Doter le territoire d’outils de gestion
 
-## Problème
+++Faire face aux nouveaux besoins :++
+indicateurs liés à l’actualité  
+Fraîcheur et granularité de la donnée
 
-Les problèmes que vous avez identifiés ou vos hypothèses de problèmes? Qui en souffre ? quels sont les conséquences de ces problèmes ?
+**Solutions:**
+Inverser le 80/20 à nettoyer des données
+Supprimer les goulots d’étranglement
+Doter les EM d’un outil de gestion
+++
+Créer des formulaires à la volée :++
+Uniformiser le processus, formater les données
+Fiche descriptive : valoriser les données
+Data-visualisation : manager et suivre son portefeuille
+ 
 
-## Solution
 
-Décrit ta solution en quelques lignes? qui seront/sont les bénéficiaires ?
 
-## Stratégie
-
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
