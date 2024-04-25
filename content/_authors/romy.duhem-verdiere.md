@@ -1,7 +1,7 @@
 ---
 fullname: Romy Duhem-Verdière
 role: Coach a11y
-domaine: Design
+domaine: Autre
 link: http://romy.tetue.net
 missions:
   - start: 2017-05-03
