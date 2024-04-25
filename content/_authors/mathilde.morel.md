@@ -7,5 +7,9 @@ missions:
     end: 2024-09-28
     status: admin
     employer: DGALN
+    startups:
+        - vigieau
+startups:
+    - vigieau
 memberType: beta
 ---
