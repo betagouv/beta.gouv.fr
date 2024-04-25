@@ -1,7 +1,8 @@
 ---
 domaine: Développement
 fullname: Julien Denes
-role: Développement
+role: Data
+github: jdenes
 missions:
   - start: 2024-04-15
     end: 2024-07-26
