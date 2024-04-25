@@ -32,6 +32,7 @@ stats_url: https://longuevieauxobjets.ademe.fr/stats/
 ---
 ## Contexte 👀
 
+
 *77% des citoyens sont motivés à changer leurs habitudes de consommation pour assurer l’avenir des générations futures.*
 (Baromètre Greenflex - ADEME de la consommation responsable - 2023)
 
