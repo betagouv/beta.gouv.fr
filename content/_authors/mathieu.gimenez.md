@@ -25,3 +25,4 @@ competences:
 teams:
   - /teams/mtes
 ---
+Acrobate à impact 🤸‍♂️
