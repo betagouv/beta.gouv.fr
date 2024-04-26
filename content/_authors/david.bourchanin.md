@@ -10,8 +10,9 @@ missions:
     employer: Malt
     startups:
       - reformes-locales
-      - conseiller-numerique
+      - france-numerique-ensemble
 startups:
+  - france-numerique-ensemble
   - reformes-locales
 badges:
   - segur

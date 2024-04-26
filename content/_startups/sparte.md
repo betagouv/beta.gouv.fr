@@ -22,6 +22,8 @@ fast:
   montant: 210000
 stats_url: https://mondiagnosticartificialisation.beta.gouv.fr/statistiques/
 accessibility_status: non conforme
+thematiques:
+  - Écologie
 ---
 ## Contexte
 
