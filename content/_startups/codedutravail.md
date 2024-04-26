@@ -1,5 +1,5 @@
 ---
-title: Code du travail numérique
+title: Code du travail numérique 2
 mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
 sponsors:
   - /organisations/dgt
@@ -16,7 +16,7 @@ phases:
 link: https://code.travail.gouv.fr
 repository: https://github.com/SocialGouv/code-du-travail-numerique
 stats: true
-accessibility_status: partiellement conforme
+accessibility_status: totalement conforme
 contact: codedutravailnumerique@travail.gouv.fr
 techno:
   - Next.js
@@ -27,9 +27,11 @@ techno:
 usertypes:
   - entreprise
   - particulier
+  - test-user
 stats_url: https://code.travail.gouv.fr/stats
 thematiques:
   - Travail / Emploi
+  - test-theme
 ---
 ## Le contexte
 
