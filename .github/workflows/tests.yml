@@ -3,7 +3,9 @@ name: Review env check
 on:
   check_run:
     types: [completed]
-
+  check_suite:
+    types: [completed]
+    
 jobs:
   test:
     runs-on: ubuntu-22.04
