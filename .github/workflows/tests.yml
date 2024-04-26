@@ -5,7 +5,11 @@ on:
     types: [completed]
   check_suite:
     types: [completed]
-    
+
+permissions:
+  contents: read
+  checks: read
+  
 jobs:
   test:
     runs-on: ubuntu-22.04
