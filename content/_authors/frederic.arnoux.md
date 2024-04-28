@@ -1,7 +1,7 @@
 ---
 domaine: Développement
 fullname: Frédéric Arnoux
-role: Développement
+role: Lead Dev / CTO
 missions:
   - start: 2024-04-25
     end: 2024-07-25
