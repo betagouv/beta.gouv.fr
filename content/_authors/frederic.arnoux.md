@@ -11,4 +11,5 @@ missions:
       - territoires-en-transitions
 github: farnoux
 memberType: beta
+link: https://www.linkedin.com/in/farnoux/
 ---
