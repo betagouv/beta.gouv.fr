@@ -1,6 +1,6 @@
 const STARTUP_PLACEHOLDER = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
 
-var USERTYPES = {
+const USERTYPES = {
   "etablissement-scolaire": "Etablissements scolaires et d'enseignement supérieur",
   etat: "Services de l'État",
   particulier: "Particuliers",
@@ -9,6 +9,8 @@ var USERTYPES = {
   parlement: "Parlement",
   association: "Associations",
 };
+
+const THEMATIQUES = ["Administratif", "Agriculture", "Collectivités", "Démocratie", "Écologie", "Entreprises", "Formation", "Inclusion numérique", "Jeunesse", "Justice", "Logement", "Mer", "Open-Data", "Outil technique", "Patrimoine", "Santé", "Sécurité informatique", "Social", "Territoires", "Transports", "Travail / Emploi"];
 
 var filters = [];
 
@@ -79,6 +81,9 @@ var filterCards = function (data, value) {
   }
   if (filters["usertypes"]) {
     data = data.filter((d) => d.attributes.usertypes.includes(filters["usertypes"]));
+  }
+  if (filters["thematiques"]) {
+    data = data.filter((d) => d.attributes.thematiques.includes(filters["thematiques"]));
   }
   if (filters["is_national_impact"]) {
     data = data.filter((d) => d.events.find((event) => event.name === "national_impact"));
@@ -203,9 +208,9 @@ var createIncubatorSelect = function (selectElement, data, incubators, initValue
 
 var createUsertypesSelect = function (selectElement, data, initValue) {
   var optionFragment = document.createDocumentFragment();
-  var usertypes = Object.keys(USERTYPES)
+  var usertypes = Object.keys(USERTYPES);
   for (var i = 0; i < usertypes.length; i++) {
-    var usertypeKey = usertypes[i]
+    var usertypeKey = usertypes[i];
     var usertypeLabel = USERTYPES[usertypeKey];
     var option = document.createElement("option");
     option.innerText = usertypeLabel;
@@ -226,6 +231,34 @@ var createUsertypesSelect = function (selectElement, data, initValue) {
     onUsertypesChange(value);
     const urlParams = new URLSearchParams(window.location.search);
     urlParams.set("usertypes", value);
+    history.replaceState(null, null, window.location.origin + window.location.pathname + "?" + urlParams);
+  });
+};
+
+var createThematiquesSelect = function (selectElement, data, initValue) {
+  const optionFragment = document.createDocumentFragment();
+  THEMATIQUES.forEach((thematique) => {
+    const option = document.createElement("option");
+    option.innerText = thematique;
+    option.value = thematique;
+    optionFragment.appendChild(option);
+  });
+
+  selectElement.appendChild(optionFragment);
+
+  var onThematiquesChange = function (value) {
+    filters["thematiques"] = value;
+    updateCards(data);
+  };
+  if (initValue) {
+    selectElement.value = initValue;
+    onThematiquesChange(initValue);
+  }
+  selectElement.addEventListener("change", function (e) {
+    var value = e.target.value;
+    onThematiquesChange(value);
+    const urlParams = new URLSearchParams(window.location.search);
+    urlParams.set("thematiques", value);
     history.replaceState(null, null, window.location.origin + window.location.pathname + "?" + urlParams);
   });
 };
