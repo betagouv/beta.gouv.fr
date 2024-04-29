@@ -20,14 +20,14 @@ missions:
     end: 2021-11-30
     status: independent
   - start: 2021-12-01
-    end: 2024-06-01
+    end: 2024-09-01
     status: independent
     employer: Codeurs en Liberté
 startups:
+previously:
   - aides.jeunes
   - je-deviens-etudiant
   - tous.a.bord
-previously:
   - data-inclusion
   - mes-aides
   - voir-et-localiser

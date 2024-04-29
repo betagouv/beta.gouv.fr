@@ -1,5 +1,5 @@
 ---
-title: Mes notices médicaments
+title: Info Médicament
 mission: >-
   Mettre à disposition les informations et données autour du médicament aux patients et aux professionnels de santé afin de mieux encadrer l’usage des médicaments
 incubator: dinum
