@@ -18,8 +18,8 @@ phases:
     start: 2019-09-01
   - name: acceleration
     start: 2021-01-01
-  - start: 2024-04-29
-    name: transfer
+  - start: 2024-02-29
+    name: alumni
 usertypes:
   - particulier
 dashlord_url: >-
@@ -29,6 +29,8 @@ thematiques:
   - Santé
   - Jeunesse
 ---
+# La startup est arrêtée :(
+
 # Nos constats
 
 **1. Une recrudescence des IST :**
