@@ -12,6 +12,7 @@ phases:
     start: 2024-04-29
 sponsors:
   - /organisations/sponsor-1
+  - /organisations/sponsor-2
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
