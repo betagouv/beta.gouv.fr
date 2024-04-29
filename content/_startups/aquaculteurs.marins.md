@@ -39,7 +39,7 @@ Grâce au portail des Aquapreneur.e.s, chaque entreprise exploitant sur le domai
 ## Bénéficiaires
 
 * Entreprises aquacoles marines (usagers),
-* Services de l'administration,
+* Services de l'administration, 
 * Établissements ayant des missions de service publics,
 * Structures professionnelles et interprofession (données agrégées plus précises).
 

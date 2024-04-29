@@ -36,7 +36,6 @@ stats_url: https://longuevieauxobjets.ademe.fr/stats/
 *77% des citoyens sont motivés à changer leurs habitudes de consommation pour assurer l’avenir des générations futures.*
 Baromètre Greenflex, ADEME de la consommation responsable, 2023
 
-
 Année après année, les français se déclarent de plus en plus nombreux à vouloir agir en faveur de l’environnement. Et le **tri et la consommation responsable** sont **au cœur des préoccupations** **et des gestes** que les citoyens peuvent mettre en place.
 
 Pour se désencombrer et consommer de manière plus responsable, les citoyens comme les professionnels du secteur ont besoin de connaître **l’ensemble des lieux où ils pourront réparer, recycler, partager, donner, vendre ces objets**.

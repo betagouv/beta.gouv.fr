@@ -23,4 +23,5 @@ competences:
   - Communication
   - Administration Publique
   - Intrapreneur(se)
+  - Facilitation
 ---
