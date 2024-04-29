@@ -13,8 +13,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-07
-  - name: construction
-    start: 2024-05-29
+  - start: 2024-05-29
+    name: construction
 ---
 ### Contexte
 

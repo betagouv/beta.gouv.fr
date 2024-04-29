@@ -1,6 +1,6 @@
 ---
-fullname: Florence LEVY
-domaine: Autre
+fullname: Florence Levy
+domaine: Intraprenariat
 role: Intrapreneur
 missions:
   - start: 2021-04-07
