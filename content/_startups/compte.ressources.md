@@ -1,6 +1,6 @@
 ---
 title: Compte Ressources
-mission: Faciliter l'achat de ressources éducatives par le corps enseingnant
+mission: Faciliter l'achat de ressources éducatives par le corps enseignant
 sponsors:
   - /organisations/menjs
 incubator: dinum
