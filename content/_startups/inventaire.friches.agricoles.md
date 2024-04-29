@@ -46,4 +46,5 @@ Le but est également d'identifier et comparer les méthodes existantes avec deu
 ## Conclusions de l'investigation
 Le besoin d'une cartographie nationale des friches n'est pas un besoin extrêmement sensible pour les acteurs du territoires.
 Néanmoins la mise à disposition d'outils pour simplifier la production de ces informations à l'échelle locale présente un intérêt et facilitera le travail d'agents de DDT.
-Présentation au comité de fin d'investigation : https://github.com/fab-geocommuns/friches_agricoles/blob/main/20240112_Bilan_investigation_Friches_agricoles_ss_slides_masqu%C3%A9es.pdf
+
+[Présentation au comité de fin d'investigation](https://github.com/fab-geocommuns/friches_agricoles/blob/main/20240112_Bilan_investigation_Friches_agricoles_ss_slides_masqu%C3%A9es.pdf)
