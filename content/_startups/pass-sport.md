@@ -12,13 +12,15 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-08-21
-  - start: 2024-03-01
-    name: construction
+  - name: construction
+    start: 2024-03-01
 accessibility_status: non conforme
 thematiques:
   - Santé
   - Jeunesse
   - Sport
+link: https://pass.sports.gouv.fr/
+repository: https://github.com/betagouv/pass-sport
 ---
 ## Contexte
 
