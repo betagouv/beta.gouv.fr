@@ -1,8 +1,9 @@
 ---
-title: Code du travail numérique
+title: Code du travail numérique 2
 mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
 sponsors:
   - /organisations/dgt
+  - /organisations/test-sponsot
 incubator: sgmas
 phases:
   - name: investigation
