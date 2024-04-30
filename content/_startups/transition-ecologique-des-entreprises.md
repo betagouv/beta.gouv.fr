@@ -23,6 +23,10 @@ techno:
   - publi.codes
 usertypes:
   - entreprise
+stats_url: https://mission-transition-ecologique.beta.gouv.fr/stats
+thematiques:
+  - Écologie
+  - Entreprises
 ---
 Le service public Transition Écologique des Entreprises est un guichet d'accueil, d'aide et d'accompagnement dans la transition écologique des entreprises.
 
