@@ -6,11 +6,11 @@ link: https://quentin-fontenay.fr/
 github: QuentinFontenay
 missions:
   - start: 2022-01-24
-    end: 2024-06-27
+    end: 2024-04-12
     status: service
     employer: Octo
     startups:
-      - conseiller-numerique
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 ---

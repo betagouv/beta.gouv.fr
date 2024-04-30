@@ -12,4 +12,4 @@ time bundle check || bundle install --path vendor/bundle
 time bundle exec jekyll doctor
 
 echo "# Build"
-time bundle exec jekyll build --trace
+time bundle exec jekyll build --trace -V

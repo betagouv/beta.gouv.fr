@@ -5,7 +5,7 @@ domaine: Développement
 github: pomarom
 missions:
   - start: 2024-01-08
-    end: 2024-04-08
+    end: 2025-01-08
     status: independent
     employer: ''
     startups:

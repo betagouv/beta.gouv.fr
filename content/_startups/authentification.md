@@ -14,8 +14,9 @@ phases:
 usertypes:
   - collectivite-territoriale
   - etat
+thematiques:
+  - Outil technique
 ---
-
 ## Contexte
 
 Authentification a été initié en Avril 2022.

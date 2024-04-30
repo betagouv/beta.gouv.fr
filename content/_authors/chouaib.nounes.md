@@ -9,9 +9,15 @@ missions:
     status: admin
     employer: Agglomération Pau Béarn Pyrénées
   - start: 2022-02-01
-    end: 2024-09-29
+    end: 2024-02-14
     status: admin
     employer: Ministère Transition Ecologique
-startups:
+  - start: 2024-02-15
+    end: 2025-04-15
+    status: admin
+    employer: Ministère des Sports
+    startups:
+      - pass-sport
+previously:
   - histologe
 ---

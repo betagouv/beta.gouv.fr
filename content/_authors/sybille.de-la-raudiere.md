@@ -5,7 +5,7 @@ domaine: Déploiement
 github: sybilledlr-beta
 missions:
   - start: 2022-07-05
-    end: 2024-06-30
+    end: 2024-10-05
     status: independent
     employer: UT7
     startups:
