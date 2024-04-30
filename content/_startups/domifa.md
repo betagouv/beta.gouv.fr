@@ -1,5 +1,5 @@
 ---
-title: DomiFa
+title: DomiFa 2
 mission: >-
   Faciliter l'accès aux droits pour les personnes sans domicile stable, en
   simplifiant la gestion de la domiciliation
@@ -31,6 +31,8 @@ dashlord_url: >-
   https://socialgouv.github.io/dashlord-fabrique/url/domifa-fabrique-social-gouv-fr/
 accessibility_status: partiellement conforme
 analyse_risques: true
+thematiques:
+  - Social
 ---
 ## Qu’est-ce que la domiciliation ? 
 
