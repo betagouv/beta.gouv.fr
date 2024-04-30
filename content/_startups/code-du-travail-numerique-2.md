@@ -14,6 +14,7 @@ usertypes:
   - particulier
 sponsors:
   - /organisations/dgt
+  - /organisations/new-sponsor
 phases:
   - name: investigation
     start: 2017-12-01
@@ -23,6 +24,9 @@ phases:
     start: 2019-01-01
   - name: success
     start: 2021-01-01
+  - name: alumni
+    start: 2024-04-30
+analyse_risques: true
 ---
 ## Le contexte
 
