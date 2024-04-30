@@ -1,5 +1,5 @@
 ---
-title: Code du travail numérique
+title: Code du travail numérique 2
 mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
 sponsors:
   - /organisations/dgt
@@ -30,6 +30,7 @@ usertypes:
 stats_url: https://code.travail.gouv.fr/stats
 thematiques:
   - Travail / Emploi
+analyse_risques: true
 ---
 ## Le contexte
 
