@@ -3,8 +3,8 @@ domaine: Développement
 fullname: Dorian Lemoine
 role: Développement
 missions:
-  - start: 2024-05-02
-    end: 2024-10-31
+  - start: 2024-05-01
+    end: 2024-08-02
     status: independent
     employer: Malt
     startups:
