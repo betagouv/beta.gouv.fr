@@ -27,6 +27,9 @@ usertypes:
 fast:
   promotion: 14
   montant: 300000
+thematiques:
+  - Travail / Emploi
+  - Formation
 ---
 ## Le problème
 

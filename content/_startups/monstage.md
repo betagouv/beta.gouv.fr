@@ -22,6 +22,9 @@ usertypes:
   - particulier
 dashlord_url: https://dashlord.incubateur.net/url/www-monstagedetroisieme-fr/
 accessibility_status: non conforme
+thematiques:
+  - Jeunesse
+  - Education
 ---
 ## Qui sommes-nous ?
 [Mon stage de 3e](https://www.monstagedetroisieme.fr/) est un service numérique mis en place par l’Agence nationale de la cohésion des territoires, ce produit est copiloté par les ministères en charge de la ville, de l’éducation nationale et de la fonction publique. Il permet aux élèves de troisième des collèges du réseau éducation prioritaire (REP et REP+) d’avoir accès à une offre de stages de qualité.
