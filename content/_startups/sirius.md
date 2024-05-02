@@ -18,7 +18,7 @@ accessibility_status: partiellement conforme
 link: https://sirius.inserjeunes.beta.gouv.fr
 stats_url: https://sirius.inserjeunes.beta.gouv.fr/statistiques
 stats: true
-dashlord_url: https://dashlord.incubateur.net/url/sirius-apprentissage-beta-gouv-fr/
+dashlord_url: https://dashlord.incubateur.net/startup/sirius
 thematiques:
   - Jeunesse
   - Formation
