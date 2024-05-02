@@ -23,5 +23,7 @@ badges:
 competences:
   - UX
   - UI
+  - Product design
+  - Product strategy
 ---
 Recherche utilisateurs, prototype & design d'interfaces
