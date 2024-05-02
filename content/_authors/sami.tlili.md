@@ -10,4 +10,5 @@ missions:
     employer: ''
     startups:
       - aides.jeunes
+memberType: beta
 ---
