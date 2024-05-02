@@ -1,14 +1,12 @@
 ---
 domaine: Développement
-fullname: Eric Eastwood
+fullname: Dorian Lemoine
 role: Développement
-github: MadLittleMods
 missions:
-  - start: 2024-05-02
-    end: 2024-10-02
+  - start: 2024-05-01
+    end: 2024-08-02
     status: independent
     employer: Malt
     startups:
-      - tchap
-memberType: beta
+      - transition-ecologique-des-entreprises
 ---
