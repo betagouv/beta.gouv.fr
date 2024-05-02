@@ -1,7 +1,7 @@
 ---
 fullname: Antoine Roy
 role: Data Scientist
-domaine: Développement
+domaine: Data
 github: royantoine
 missions:
   - start: 2021-11-15

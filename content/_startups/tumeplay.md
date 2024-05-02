@@ -1,6 +1,8 @@
 ---
 title: TuMePlay
-mission: Accompagner les jeunes dans leur parcours d’apprentissage en santé sexuelle de manière ludique et fiable
+mission: >-
+  Accompagner les jeunes dans leur parcours d’apprentissage en santé sexuelle de
+  manière ludique et fiable
 sponsors:
   - /organisations/dgs
 incubator: sgmas
@@ -16,11 +18,18 @@ phases:
     start: 2019-09-01
   - name: acceleration
     start: 2021-01-01
+  - start: 2024-02-29
+    name: alumni
 usertypes:
   - particulier
-dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/tumeplay-fabrique-social-gouv-fr/
+dashlord_url: >-
+  https://socialgouv.github.io/dashlord-fabrique/url/tumeplay-fabrique-social-gouv-fr/
 accessibility_status: non conforme
+thematiques:
+  - Santé
+  - Jeunesse
 ---
+# La startup est arrêtée :(
 
 # Nos constats
 

@@ -10,6 +10,9 @@ sponsors:
 phases:
   - name: construction
     start: 2022-05-14
+thematiques:
+  - Santé
+  - Logement
 ---
 ## Contexte
 Face à la prolifération des punaises de lit constatée ces dernières années, le gouvernement a publié un Plan Interministériel de Lutte contre les Punaises de Lit, devant permettre d'étudier et lutter contre ce fléau.
@@ -25,5 +28,3 @@ Et jusqu'à présent, peu de données sont exploitables par les acteurs publics 
 Stop-punaises permet d'accompagner les usagers en qualifiant le niveau d'infestation du logement, et en leur permettant d'obtenir les protocoles de préparation et traitement des logements ou d'être mis en relation avec l'ensemble des entreprises labellisées de leur département en une seule démarche.
 
 Ces signalements participeront à constituer une base de données solide pour accompagner les décideurs publics
-
-
