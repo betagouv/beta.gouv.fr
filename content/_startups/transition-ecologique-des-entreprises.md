@@ -23,6 +23,7 @@ techno:
   - publi.codes
 usertypes:
   - entreprise
+stats_url: https://mission-transition-ecologique.beta.gouv.fr/stats
 thematiques:
   - Écologie
   - Entreprises
