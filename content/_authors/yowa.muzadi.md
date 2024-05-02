@@ -11,4 +11,5 @@ missions:
 memberType: beta
 teams:
   - /teams/animation-dinum
+link: https://www.linkedin.com/in/yowamuzadi/
 ---
