@@ -8,9 +8,17 @@ missions:
     end: 2024-06-25
     status: independent
     employer: Benext
+    startups:
+      - l-application-du-cej
+  - start: 2024-03-25
+    end: 2024-06-25
+    status: independent
+    employer: ''
+    startups:
+      - envergo
 startups:
   - l-application-du-cej
 badges:
   - segur
 ---
-UX UI designer freelance & fan de chocolat
+UX Researcher freelance

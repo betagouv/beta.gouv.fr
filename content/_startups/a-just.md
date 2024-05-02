@@ -22,18 +22,15 @@ phases:
   - name: investigation
     start: 2021-02-01
     end: 2021-05-26
-    comment: Fin de l'investigation. GO pour le lancement d'une phase de construction.
   - name: construction
     start: 2021-09-01
-    comment: Construction sur un périmètre de juridictions restreint.
   - name: acceleration
     start: 2022-11-30
-    comment: >-
-      Passage en accélération : amélioration continue du produit et augmentation
-      du nombre d'utilisateurs. 
 fast:
   promotion: 13
   montant: 300000
+thematiques:
+  - Justice
 ---
 <!--StartFragment-->
 
@@ -105,9 +102,8 @@ Pour cela, A-JUST a pour objectif de permettre aux juridictions de visualiser et
 
 Visualisation, corrélation, simulation… A-JUST se définit comme un outil  d’aide à la décision et de prospective.
 
----
 
-¹ Pénal, civil, social, commercial…
+¹ Pénal, civil, social, commercial
 
 ² Magistrats, greffiers, fonctionnaires, agents administratifs, vacataires, assistants de justice, magistrats honoraires, juristes assistants…
 
