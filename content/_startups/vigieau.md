@@ -47,25 +47,29 @@ Le premier chantier de la planification écologique révélé le 30 mars 2023 vi
 
 ## Problème
 
-Comment faire évoluer les usagers vers des pratiques sobres de l’eau, en particulier en période de sécheresse ? 
+**Comment faire évoluer les usagers vers des pratiques sobres de l’eau, en particulier en période de sécheresse ?** 
 
-**Etape 1 :**
-Mieux communiquer sur les restrictions en vigueur 
-La plateforme VigiEau lancée à l’été 2023 répond à la mesure 50 du Plan Eau. Permettre à l’usager d’avoir accès de manière lisible et simple aux restrictions en vigueur sur son territoire est une première étape vers l’objectif de sobriété hydrique mais il est loin d’être suffisant. 
 
-A ce sujet, près de 50% des départements affichent des mesures sur VigiEau concernant l’eau potable qui ne sont pas cohérentes avec les mesures figurant dans les arrêtés. 
+**Etape 1 :** Levier restrictif / Permettre aux usagers d'avoir accès de manière lisible et compréhensible aux **restrictions** en vigueur en période de sécheresse
+
+La plateforme VigiEau lancée à l’été 2023 répond à la mesure 50 du Plan Eau. Permettre à l’usager d’avoir accès de manière lisible et simple aux restrictions en vigueur sur son territoire est une première étape vers l’objectif de sobriété hydrique. 
+
+Néanmoins, suite à la mise en production de VigiEau, près de 50% des départements affichaient des mesures sur VigiEau concernant l’eau potable non cohérentes avec les mesures figurant dans les arrêtés. 
+
 En cause ? Un outil de saisie des arrêtés, Propluvia Privé, non adapté à une gestion spécifique à l’eau potable 
 
---> Solution : VigiEau Admin = outil de saisie des arrêtés sécheresse pour les DDT
+--> **Solution : VigiEau Admin** = outil de saisie des arrêtés sécheresse pour les DDT
 Objectif : Afficher des restrictions sur VigiEau cohérentes avec les restrictions en vigueur, en particulier, traduire lʼétat des ressources en eau dans les restrictions appliquées aux usages de lʼeau potable.
 
-VigiEau Admin a été mise en production fin avril 2024 et déployé auprès des 101 DDTs
+VigiEau Admin a été mis en production fin avril 2024 et déployé auprès des 101 DDTs
 
+Communiquer sur les restrictions est une solution nécessaire mais elle est loin d'être suffisante. 
 
-**Etape 2** : Comment **inciter** les usagers à réduire leur consommation d'eau, en particulier en période de sécheresse
-Quel périmètre d’expérimentation pour adresser un problème réel, majeur, actionnable identifié ? 
+**Etape 2** :  **Inciter** les usagers à réduire leur consommation d'eau, en particulier en période de sécheresse
 
-* Le plus actionnable pour mesurer l’impact à d’une solution court/moyen terme est de se concentrer sur la consommation d’eau potable. 
+Quel périmètre pour l'expérimentation ? 
+
+* Le plus actionnable pour mesurer l’impact d’une solution court/moyen terme est de se concentrer sur la consommation d’eau potable. 
 
 * L’eau potable est un enjeu majeur puisqu’elle représente 26% de la consommation d’eau en France
 
@@ -81,11 +85,11 @@ Nous ne ciblerons pas les agriculteurs dans un premier temps car c’est une cib
 **Création dʼun service numérique dʼengagement vers une une sobriété hydrique des usagers des
 collectivités.**
 
-**Objectifs dʼusage** : la solution proposera aux collectivités la mise à disposition dʼun service d'incitation aux économies d'eau : 
-- via une communication conjointe collectivité / état
+**Objectifs dʼusage** : la solution propose un service d'incitation aux économies d'eau : 
+- via une communication conjointe collectivité / état / délégataire
 - permettant dʼadresser directement les usagers via lʼenvoi régulier de communications personnalisées sur (i) leur consommation dʼeau / comparaison à celle de consommateur similaire (ii) lʼétat des ressources en eau dont ils dépendent (iii) les restrictions
 
 **Objectifs de déploiement et dʼimpact**
 
-* A lʼhorizon septembre 2024, 2 (avec téléreleve) engagées dans lʼexpérimentation (couvrant chacune 5 000 abonnés minimum)
+* A lʼhorizon septembre 2024, 2 collectivités (avec téléreleve) engagées dans lʼexpérimentation (couvrant chacune 5 000 abonnés minimum)
 * 10% de baisse de la consommation dʼeau à horizon 1 an pour lʼensemble de ces collectivités test.
