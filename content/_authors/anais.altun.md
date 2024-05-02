@@ -14,4 +14,4 @@ startups:
   - sante-psy-etudiant
 memberType: autre
 ---
-Développeuse full-stack la nuit, barde le jour
+Développeuse full-stack
