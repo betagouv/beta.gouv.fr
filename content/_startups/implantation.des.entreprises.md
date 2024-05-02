@@ -11,6 +11,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-02-12
+thematiques:
+  - Entreprises
 ---
 ## Contexte
 

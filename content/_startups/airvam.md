@@ -14,8 +14,9 @@ phases:
     start: 2021-06-01
 usertypes:
   - etat
+thematiques:
+  - Transports
 ---
-
 ## Contexte
 
 Des centaines de milliers de passagers sont transportés chaque année sur des Vols Aériens Militaires (VAM). Les agents de transit aérien sont chargés de leur préparation et réalisent notamment un « dossier avion » pour chaque vol (listing de passagers, attribution des places dans l'avion, génération des cartes d'embarquement, etc.)

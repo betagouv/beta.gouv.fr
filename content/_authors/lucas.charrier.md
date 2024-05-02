@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: DINUM
   - start: 2022-01-04
-    end: 2024-03-20
+    end: 2024-06-20
     status: independent
     employer: Scopyleft
 previously:

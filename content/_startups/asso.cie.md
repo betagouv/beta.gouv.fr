@@ -6,6 +6,10 @@ contact: esther.teboul@beta.gouv.fr
 phases:
   - name: investigation
     start: 2023-10-24
+  - name: alumni
+    start: 2024-03-27
+thematiques:
+  - Entreprises
 ---
 ## Contexte
 
@@ -15,25 +19,32 @@ Afin d’encourager les initiatives solidaires spontanées nées entre acteurs p
 
 ## Problème
 
-Les premiers échanges auprès du secteur associatif et des entreprises privées ont montré :
-
--  Un manque de connaissance des secteurs respectifs causant des difficultés pour se rencontrer et pour échanger surtout au niveau local.
+L’investigation a permis d'identifier :
+- Un manque de connaissance des secteurs respectifs causant des difficultés pour se rencontrer et pour échanger surtout au niveau local.
 - Les collaborations déjà établies, notamment grâce à des outils existants, sont souvent de courtes durées avec des engagements ponctuels (appel à projet, don ponctuel ou une journée de bénévolat).
 - Les solutions existantes sont souvent payantes pour les entreprises ce qui est un frein notable principalement pour les TPE et PME.
 - Des deux côtés le temps est précieux et la recherche de partenariat est très chronophage ce qui peut être un frein pour une collaboration.
 
-## Solution
+## Méthodologie d’investigation
 
-D’après [le baromètre 2022 du mécénat d’entreprise en France a été établi par Admical](https://mecenatpublicprive.fr/barometre-du-mecenat-dentreprise-2022), les entreprises réalisent des actions de mécénat auprès d’associations afin d’i**ncarner ses valeurs, valoriser son image et renforcer son ancrage territorial** et recherche une **mise en cohérence avec l’activité de l’entreprise** et **sa stratégie de RSE.** 
+Nous avons échangé avec les acteurs locaux (associations, antennes locales, TPE, PME, ETI et franchises de grands groupes) du territoire de Bourgogne-Franche-Comté afin d’observer l’état des relations et les pistes de solutions identifier par les acteurs à une échelle micro. Nous avons également échanger avec des acteurs nationaux, afin d’avoir une vision globale de l’existant et de déterminer s’il existe des similarités, dans ce cadre nous avons échangé avec des pôles RSE de grandes entreprises, des experts de la collaboration association-entreprise, des associations nationales…
 
-- Notre première hypothèse de solution consiste à travailler sur **une solution de mise en relation cohérente entre une entreprise et une association** afin d’encourager **la pérennisation de la relation et créer une collaboration plus forte.**
-- Proposer une solution **100% gratuite et facile d’accès** pour encourager les TPE et PME à collaborer notamment.
+Pour ce faire nous avons mobilisé plusieurs réseaux, notamment celui de la DIPLP (Délégation Interministérielle à la Prévention et à la Lutte contre la Pauvreté) avec la un réseau associatif fort et l’appui de la communauté Les entreprises s’engagent.
 
-## Stratégie
+## Solutions envisagées en fin d’investigation
 
-Nous sommes actuellement en  **phase d'investigation**, il s'agit d'une première étape qui permettra de mieux identifier le problème, s'il existe, et surtout, de déterminer si une solution numérique pourrait permettre de le résoudre.
+L’équipe ayant mené l’investigation (intrapreneur et le coach beta.gouv) préconise la création d’une plateforme d’Etat de mise en relation entre entreprises et associations autour du don en nature et du prêt à l’échelle locale en proposant deux options de mises en œuvre.
 
-Nous **échangerons donc avec les acteurs locaux** (associations, antennes locales, TPE, PME, ETI et franchises de grands groupes) de Marseille afin d’observer l’état des relations et les pistes de solutions identifier par les acteurs d’une **métropole**. Le même exercice sera effectué sur le territoire de Bourgogne-Franche-Comté afin d’étudier s'il y a des différences sur un territoires **rural**. Enfin, il s’agira d’**échanger avec des acteurs nationaux**, afin d’avoir une vision globale de l’existant et de déterminer s'il existe des similarités, dans ce cadre nous échangerons avec des pôles RSE de grandes entreprises, des experts de la collaboration association-entreprise, des associations nationales…)
+1 - Conciergerie : trouver 100 entreprises et 100 associations prêtes à faire des dons et les organiser sans rien coder sur le territoire expérimental de la Bourgogne Franche Comté (46 000€ pour 3 mois).
+2 - Créer un Minimum Viable Product (produit minimum viable) de plateforme de mise en relation entre associations et entreprises déployée sur le territoire expérimental de la Bourgogne Franche Comté (268 000€ pour 6 mois de construction).
 
-Pour ce faire nous mobiliserons plusieurs réseaux, notamment celui de la **DIPLP** (Délégation Interministérielle à la Prévention et à la Lutte contre la Pauvreté) avec la un **réseau associatif fort** et l’appui de la **communauté Les entreprises s’engagent.**
+## Fin d’investigation le 27 mars 2024
 
+Ce partenariat n’a pas donné suite à une construction de service numérique car :
+- difficultés à identifier et libérer du temps d'intrapreneur·e pour mener à bien le projet au sein de la DIPLP ;
+- contexte budgétaire tendu : cet investissement, malgré son intérêt, n’est pas la priorité pour les sponsors ;
+- réserves émises quant à la capacité d’une plateforme numérique à se traduire par des partenariats concrets et **dans la durée** entre les associations et les entreprises ;
+- les solutions numériques existantes couvrent une partie des besoins identifiés et pourraient être optimisées dans le sens préconisé par l’investigation ;
+- incertitudes quant à la capacité d’une plateforme numérique publique à faire sa place dans le marché existant.
+
+Toutefois, l’ensemble des parties prenantes de l’investigation s’accordent à dire que d’autres acteurs - y compris dans la société civile - pourraient se saisir de ce sujet dont l’investigation a démontré la pertinence. Il est possible d'écrire à contact@beta.gouv.fr pour plus d'informations.

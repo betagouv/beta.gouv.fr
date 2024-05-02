@@ -8,22 +8,16 @@ missions:
     end: 2025-09-01
     status: admin
     employer: MTE
-    startups:
-      - acceslibre
-      - accesscite
-      - camino
-      - reflex
-      - sparte
-      - urbanvitaliz
-      - recommandations-collaboratives
 startups:
   - acceslibre
   - accesscite
   - camino
-  - reflex
+  - recommandations-collaboratives
   - sparte
   - urbanvitaliz
-  - recommandations-collaboratives
+  - prelevements.deau
+  - oilhi
+  - histologe
 competences:
   - Gestion de Produit
 teams:

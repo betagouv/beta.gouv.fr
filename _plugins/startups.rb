@@ -69,6 +69,9 @@ module Jekyll
         result[startupId]['repository'] = startup['repository']
         result[startupId]['contact'] = startup['contact']
         result[startupId]['phases'] = startup['phases']
+        result[startupId]['active_members'] = result[startupId]['active_members'].uniq
+        result[startupId]['previous_members'] = result[startupId]['previous_members'].uniq
+        result[startupId]['expired_members'] = result[startupId]['expired_members'].uniq
       end
       return JSON.pretty_generate(result)
     end

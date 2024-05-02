@@ -1,5 +1,5 @@
 ---
-fullname: Ludivine MOUSSE
+fullname: Ludivine Mousse
 role: Opérateur de validation
 domaine: Autre
 missions:

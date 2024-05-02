@@ -22,8 +22,8 @@ phases:
     end: 2021-07-31
   - name: acceleration
     start: 2021-08-01
-  - start: 2024-02-01
-    name: success
+  - name: success
+    start: 2024-02-01
 usertypes:
   - association
 dashlord_url: >-
@@ -32,6 +32,8 @@ accessibility_status: non conforme
 fast:
   promotion: 13
   montant: 100000
+thematiques:
+  - Santé
 ---
 ## Le contexte
 
@@ -75,3 +77,7 @@ L’ensemble des structures sociales et médico-sociales intervenant auprès de 
 - Nombre d’équipes utilisatrices
 - Nombre d’organisations utilisatrices
 - Nombre de professionnels utilisateurs
+
+## Le devenir de MANO :
+
+Après 3 ans d'incubation puis d'accéleration au sein de la Fabrique Numérique des Ministères Sociaux et devant le succès de cette expérimentation, MANO a été transféré au GIP SESAN, GRADEs de l'ARS IDF le 1er mars 2024. Il est financé par 6 ARS pour cette première année de pérénisation.
