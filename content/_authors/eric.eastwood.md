@@ -9,4 +9,6 @@ missions:
     employer: Malt
     startups:
       - tchap
+github: MadLittleMods
+memberType: beta
 ---
