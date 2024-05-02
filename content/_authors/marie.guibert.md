@@ -5,6 +5,8 @@ role: Data
 missions:
   - start: 2023-09-01
     end: 2024-09-06
+    status: admin
+    employer: Dinum
   - start: 2024-04-30
     end: 2024-12-30
     status: admin
