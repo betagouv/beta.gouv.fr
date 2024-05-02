@@ -9,4 +9,5 @@ missions:
     employer: DINUM
     startups:
       - suite-numerique
+memberType: beta
 ---
