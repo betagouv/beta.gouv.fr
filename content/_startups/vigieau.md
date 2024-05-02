@@ -85,9 +85,9 @@ Nous ne ciblerons pas les agriculteurs dans un premier temps car c’est une cib
 **Création dʼun service numérique dʼengagement vers une une sobriété hydrique des usagers des
 collectivités.**
 
-**Objectifs dʼusage** : la solution propose un service d'incitation aux économies d'eau : 
-- via une communication conjointe collectivité / état / délégataire
-- permettant dʼadresser directement les usagers via lʼenvoi régulier de communications personnalisées sur (i) leur consommation dʼeau / comparaison à celle de consommateur similaire (ii) lʼétat des ressources en eau dont ils dépendent (iii) les restrictions
+La solution propose un service d'incitation aux économies d'eau : 
+- via l'envoi d'une série d'email - envoyée de manière conjointe par la collectivité / l'état / le délégataire eau potable 
+- permettant dʼadresser directement les usagers sur (i) leur consommation dʼeau / comparaison à celle de consommateur similaire (ii) lʼétat des ressources en eau dont ils dépendent (iii) les restrictions
 
 **Objectifs de déploiement et dʼimpact**
 
