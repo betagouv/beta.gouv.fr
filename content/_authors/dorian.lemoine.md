@@ -9,4 +9,10 @@ missions:
     employer: Malt
     startups:
       - transition-ecologique-des-entreprises
+link: https://www.linkedin.com/in/d-lemoine
+competences:
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - PHP
+memberType: beta
 ---
