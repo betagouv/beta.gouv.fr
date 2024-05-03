@@ -16,42 +16,16 @@ thematiques:
   - Patrimoine
 ---
 
-## Contexte
+## Contexte 
+Le Ministère de la Culture pilote l’organisation d’une dizaine de manifestations nationales (Fête de la Musique, Nuit des Musées, Rendez-vous Jardins…) accueillant chaque année des milliers de visiteurs dans toute la France. Pour chacune de ces manifestations, un site est mis à disposition des utilisateurs pour la présenter et la promouvoir. Ces sites ont deux deux objectifs principaux : ils s’adressent d’une part aux organisateurs d’évènements pour leur permettre d’inscrire leurs évènements à la programmation de la manifestation et d’autre part au grand public pour consulter la programmation et préparer leur venue. 
 
-Le ministère collecte des données du spectacle vivant auprès des entrepreneurs du secteur. Ces entrepreneurs du spectacle remplissent une grand nombre de formulaires administratifs : les déclarations pour gérer les droits d'auteur, les taxes spécifiques au secteur, SIBIL l’outil du ministère pour l’observation des données de billetteries du spectacle, les licence de spectacle, les formalités spécifiques aux départements, villes, syndicats professionnels, etc.
+## Problème 
+Les sites sont complexes à maintenir : il y a un site pour chaque manifestation et chaque manifestation à son propre calendrier annuel. Les sites doivent ainsi fréquemment évoluer et à des moments différents dans l’année. Afin d’homogénéiser l’expérience utilisateur et simplifier le maintien opérationnel des sites, une “ usine à site “ en interne avait été mise en place il y a quelques années avec un format de site standard ajustable par évènement. 
+Ce format atteint aujourd’hui ses limites à la fois en termes de processus opérationnels pour les collaborateurs mais aussi en termes d’expérience pour les utilisateurs. De fait, les sites manquent de modernité et certains ne sont plus aux normes d’accessibilité. Des utilisateurs ont ainsi manifesté leur insatisfaction quant à la lisibilité globale des sites et l’utilisation du programme notamment, à la fois sur desktop et sur mobile. Le programme, élément clé de ces sites, est par exemple difficilement consultable sur mobile alors que le mobile constitue une part croissante et majoritaire des visites.
 
-## Problème
+## Investigation 
+Nous avons mené une phase d’investigation de plusieurs semaines et notamment interrogé plus d’une vingtaine d’utilisateurs (citoyens, organisateurs d’évènements...) et collaborateurs afin d’analyser leurs points de friction actuels et identifier des opportunités d’amélioration. En parallèle, nous avons aussi effectué un tour d’horizon des meilleures pratiques sur ces sujets pour offrir une expérience utilisateur plus moderne aux standards des usages actuels. 
+Les enjeux principaux identifiés à l’issue de cette phase d’investigation sont les suivants : clarifier le cycle de vie des sites tout au long de l’année, améliorer la lisibilité des sites à chaque étape de ce cycle de vie, améliorer l’expérience utilisateur autour du programme et repenser la stratégie éditoriale. 
 
-La collecte des données du spectacle est considérée comme une contrainte, redondante et sans bénéfice pour les entreprises du spectacle vivant. 
-
-La difficulité principale pour les gestionnaires de données réside dans le fait que les procédures déclaratives sont proches mais jamais exactement les mêmes. Cette hétérogéneité nécessite de rassembler, comparer et vérifier les données pour chaque déclarations, ce qui est fastidieux. 
-
-De plus, les changements perpétuels des champs des procédures ne permettent pas de stabiliser les outils de gestion. 
-
-Enfin, il y a autant d’obligations pour les petites structures que pour les grosses et, par conséquent, pour les structures sont moins bien dotées en personnel cela représente une charge supplémentaire pour les administrateurs.
-
-## Solution
-
-**La solution à l’étude est un assistant pour les déclarations des entreprises du spectacle.** Il permet à ceux qui déclarent des données du spectacle vivant dans SIBIL de ré-utiliser leurs propres données dans un format adapté à une nouvelle formalité. 
-
-**Usagers initiaux :** labels et structures subventionnées
-
-**Usagers secondaires** :  tous les entrepreneurs de spectacle qui déclarent des données de billetteries
-
-## Vision
-
-La vision du ministère sur les données du spectacle est une transformation progressivement de la fragmentation des données du spectacle en **un modèle de donnée unifié, ouvert et d’intérêt général**, simple à fournir pour les usagers,  permettant de **nouveaux usages pour les acteurs de l'écosystème**.
-
-Les travaux de construction de l’assistant permettront de contribuer à cette vision :
-
-- Le travail de mise en correspondance entre les données des différents formulaires permettra d’avancer sur l’alignement et la standardisation des données du spectacle
-- L’assistant sera le premier outil à utiliser l’API de récupération des données de SIBIL
-- Cela enclenchera une boucle d’amélioration de la qualité des données SIBIL
-
-## Stratégie
-
-Une premier prototype sera réalisé manuellement pour comparer les données dont dispose le ministère avec celles des autre procédures administratives.
-
-Puis un premier outil numérique sans développement spécifique sera testé à parti de logiciels existants. 
-
-Enfin un premier bilan et proposition de service numérique dédié le cas échéant.
+## Stratégie 
+La phase de construction va nous permettre de tester une version des sites repensée dès septembre pour un évènement majeur : les Journées du Patrimoine. Dans une approche itérative, nous allons mettre à disposition des utilisateurs un site repensé et aux normes du Design System de l’Etat avec une partie des nouvelles fonctionnalités imaginées pendant la phase d’investigation. Cette première étape nous permettra de confirmer nos intuitions et de poursuivre au gré du calendrier annuel des manifestations nationales la mise à jour progressive de chacun des sites en s’appuyant sur les données d’usage réelles pour ajuster nos décisions. 
