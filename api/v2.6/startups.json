@@ -34,6 +34,11 @@ layout: null
                     "{{sponsor | remove: '/organisations/' }}"{% unless forloop.last %},{% endunless %}
                 {% endfor %}
                 ]
+            , "thematiques": [
+                {% for thematique in startup.thematiques %}
+                    "{{thematique}}"{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+                ]
             {% if startup.analyse_risques %}
             , "analyse_risques": "{{ startup.analyse_risques}}"
             {% endif %}
