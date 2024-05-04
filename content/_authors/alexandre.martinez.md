@@ -14,6 +14,7 @@ missions:
 startups:
   - deveco
   - les.bases
+  - suite.d.outils.des.mediateurs.numeriques
 memberType: beta
 link: https://www.linkedin.com/in/alexandre-martinez-2097b3189/
 ---

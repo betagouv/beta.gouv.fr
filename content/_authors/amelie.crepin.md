@@ -1,5 +1,6 @@
 ---
 fullname: Amelie Crepin
+github: ameliecrepin
 role: Intrapreneuse
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/amelie-crepin-361277130

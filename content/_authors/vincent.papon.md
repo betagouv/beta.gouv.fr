@@ -4,7 +4,7 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2023-11-17
-    end: 2024-03-31
+    end: 2024-05-31
     status: service
     employer: ''
     startups:

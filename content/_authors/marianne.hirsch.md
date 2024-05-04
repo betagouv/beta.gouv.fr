@@ -2,7 +2,6 @@
 fullname: Marianne Hirsch
 role: Product Designer
 domaine: Design
-avatar: null
 link: https://www.mariannehirsch.com/
 missions:
   - start: 2021-02-22
