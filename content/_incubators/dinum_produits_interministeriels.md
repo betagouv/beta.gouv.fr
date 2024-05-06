@@ -11,7 +11,7 @@ redirect_from:
   - /incubateurs/api_dinsic
   - /incubateurs/apigouv
 highlighted_startups:
-    - demarches-simplifiees
+    - demarches-simplifiees.fr
     - tchap
     - data.gouv.fr
 ---
