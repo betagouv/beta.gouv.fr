@@ -30,10 +30,9 @@ events:
   - name: national_impact
     date: 2022-12-31
 accessibility_status: partiellement conforme
-
+thematiques:
+  - Entreprises
 ---
-
-
 Le service public Place des Entreprises permet à l’État, aux Régions volontaires et à l’ensemble des organismes publics et parapublics de développer leur rôle de conseil auprès des TPE & PME.
 
 ## Le problème : des entrepreneurs isolés, des administrations cloisonnées

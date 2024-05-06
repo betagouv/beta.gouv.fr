@@ -1,5 +1,5 @@
 ---
-fullname: Vincent LORIOT
+fullname: Vincent Loriot
 role: Sponsor
 domaine: Autre
 missions:

@@ -6,11 +6,14 @@ link: https://www.kwalia.fr
 github: anymus
 missions:
   - start: 2022-05-16
-    end: 2024-05-15
+    end: 2024-09-29
     status: independent
     employer: OCTO
-startups: null
+    startups: []
 badges:
   - segur
+competences:
+  - Coaching
+  - Product strategy
 ---
 Entrepreneur associé

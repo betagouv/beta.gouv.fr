@@ -1,7 +1,7 @@
 ---
 fullname: Vincent Mazalaigue
 role: Data
-domaine: Déploiement
+domaine: Data
 github: mazalaigue
 missions:
   - start: 2018-11-11
