@@ -8,9 +8,8 @@ missions:
     status: independent
     employer: ANCT
     startups:
-      - lannuaire.des.collectivites
-      - espace.sur.demande
       - agents.en.intervention
+      - espace.sur.demande
 startups:
   - lannuaire.des.collectivites
   - espace.sur.demande

@@ -17,7 +17,7 @@ sponsors:
   - /organisations/dinum
 link: https://recommandations-collaboratives.beta.gouv.fr/
 stats: true
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow
 phases:
   - name: construction
     start: 2023-11-16

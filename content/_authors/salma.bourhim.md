@@ -1,5 +1,5 @@
 ---
-fullname: Salma BOURHIM
+fullname: Salma Bourhim
 role: Apprentie Cheffe de Projet SI
 domaine: Autre
 missions:
