@@ -22,6 +22,5 @@ competences:
   - PostgreSQL
   - JavaScript/TypeScript
   - Python
-  - DevOps
 ---
 Make it work, make it right, make it fast
