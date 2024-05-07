@@ -23,6 +23,8 @@ phases:
   - name: acceleration
     start: 2022-01-01
 accessibility_status: non conforme
+thematiques:
+  - Écologie
 ---
 #  Introduction - contexte
 
@@ -54,7 +56,6 @@ Potentiel a vocation à réunir l’ensemble des acteurs de la filière et à re
 
 L’outil simplifie les démarches, harmonise les pratiques et génère un gain de temps considérable pour tous.
 
-## 
 ### Notre proposition de valeur pour les porteurs de projet
 
 Les porteurs de projets d’EnR répondant aux appels d’offres de l’État souffrent de complexité administrative dans la gestion de leurs projets. 
