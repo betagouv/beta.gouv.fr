@@ -19,8 +19,10 @@ stats_url: https://annuaire-entreprises.data.gouv.fr/stats
 budget_url: https://annuaire-entreprises.data.gouv.fr/budget
 dashlord_url: https://dashlord.incubateur.net/url/annuaire-entreprises-data-gouv-fr/
 contact: annuaire-entreprises@data.gouv.fr
+thematiques:
+  - Open-Data
+  - Entreprises
 ---
-
 ## Le problème :
 
 Au sein de l’administration, la donnée des entreprises françaises est une ressource dispersée. De nombreuses directions, agences ou instituts sont responsables d'une fraction de la données et en assument la publication.

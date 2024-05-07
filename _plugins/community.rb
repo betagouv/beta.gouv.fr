@@ -48,6 +48,7 @@ class RenderCommunityStatsTag < Liquid::Tag
         'Intraprenariat' => [],
         'Animation' => [],
         'Produit' => [],
+        'Data' => []
       },
       'domaine' => {
         'Déploiement' => 0,
@@ -57,7 +58,8 @@ class RenderCommunityStatsTag < Liquid::Tag
         'Autre' => 0,
         'Intraprenariat' => 0,
         'Animation' => 0,
-        'Produit' => 0
+        'Produit' => 0,
+        'Data' => 0
       },
       'total' => 0
     }
@@ -87,7 +89,10 @@ class RenderCommunityStatsTag < Liquid::Tag
     end
   end
 end
+
+
 end
+
 
 Liquid::Template.register_filter(Jekyll::CommunityFilter)
 Liquid::Template.register_tag('render_community_stats', Jekyll::RenderCommunityStatsTag)

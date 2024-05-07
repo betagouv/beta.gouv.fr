@@ -23,6 +23,8 @@ phases:
   - name: success
     start: 2023-10-20
 analyse_risques: true
+thematiques:
+  - Travail / Emploi
 ---
 # **Contexte :**
 

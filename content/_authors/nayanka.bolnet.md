@@ -9,8 +9,12 @@ missions:
     end: 2024-06-10
     status: independent
     employer: Scopyleft
+    startups:
+      - mon-suivi-social
 startups:
   - mon-suivi-social
 memberType: beta
+competences:
+  - Développement Full-stack
 ---
 
