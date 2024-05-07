@@ -24,8 +24,10 @@ accessibility_status: non conforme
 fast:
   promotion: 14
   montant: 125000
+thematiques:
+  - Travail / Emploi
+  - Social
 ---
-
 ## Le contexte
 
 Plus de 2 millions de personnes sont en situation de chômage durable et 2,7 millions de personnes sont en situation de handicap et en âge de travailler avec un taux d’emploi de 35% seulement. Le secteur de l’inclusion porte des résultats très positifs pour l’emploi de ces publics en alliant les enjeux territoriaux, sociaux et économiques. Il regroupe les structures de l’insertion par l’activité économique (IAE) et du secteur du travail protégé et adapté (STPA). Il s'agit donc d'accompagner la croissance de ces dispositifs.

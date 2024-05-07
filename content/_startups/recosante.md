@@ -25,65 +25,28 @@ usertypes:
   - particulier
 dashlord_url: https://dashlord.incubateur.net/url/recosante-beta-gouv-fr/
 accessibility_status: partiellement conforme
+thematiques:
+  - Santé
+  - Écologie
 ---
-## Contexte
+## Le contexte
 
-### Les enjeux santé-environnement
+Plusieurs associations et instances publiques fournissent des données liées aux facteurs environnementaux. Ces informations sont dispersées à travers divers portails ou bases de données. Les recommandations liées à ces indicateurs sont dispersées elles aussi, peu claires ou inexistantes. Un nombre croissant de citoyens se déclarent inquiets et intéressé par l’environnement et la pollution (source : [vie-publique](https://www.vie-publique.fr/en-bref/290379-lenvironnement-un-sujet-qui-preoccupe-de-plus-en-plus-les-francais)).
 
-En France, les causes environnementales sont directement responsables d’environ 14 % de la mortalité en France d’après une étude de l’OMS parue en 2006.
+## Le problème
 
-Si la majorité des données environnementales sont ouvertes, elles ne sont pas rendues accessibles et compréhensibles au sein d’un outil unique et simple d’utilisation pour les citoyens.
+25% des décès viennent de facteurs environnementaux (source : [OMS](https://www.who.int/fr/news/item/03-09-2021-who-and-un-partners-compendium-of-500-actions-aims-to-reduce-diseases-from-environmental-factors-and-save-lives)). 
+Les citoyens ne sont informés ni de ces facteurs, ni des leviers pour s’adapter.
 
-Par ailleurs, les comportements à adopter pour limiter les impacts de l’environnement sur la santé ne sont pas toujours connus.
+## Notre solution
 
-### Le cadre légal et administratif
+Informer + recommander sur ces indicateurs en réunissiant ces différents indicateurs avec des recommandations intelligibles et actionnables via une application mobile.
 
-*Toute personne a le droit, dans les conditions et les limites définies par la loi, d’accéder aux informations relatives à l’environnement* (Charte de l’environnement, article 7).
+## Notre cible
 
-C’est sur cette base que s’inscrit le service [Recosanté](https://recosante.beta.gouv.fr/) pour permettre à tous de connaître son environnement et d’agir pour sa santé.
+Grand public avec une cible privilégiée sur : les personnes sensibles (albinos, asthmatiques, allergiques, personnes enceintes, BPCO…) + joggeurs + velotaffeurs 
 
-La construction de ce service s’inscrit également dans le 4e [Plan National Santé-Environnement](https://solidarites-sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-mon-environnement-ma-sante-2020-2024), co-piloté par les ministères chargés de l’environnement et de la santé. 
+## Notre mesure d’impact et les objectifs : 
 
-## Notre approche
-
-### Partir du problème
-
-Les services construits au sein du programme beta.gouv ont un objectif : proposer une solution à un problème exprimé par la population.
-
-L’équipe Recosanté a réalisé plus de 50 entretiens qualitatifs avec des catégories de population différentes, à la recherche de personnes directement impactées par la qualité de l’air (qui a été la première thématique explorée par l’équipe).
-
-C’est avec des personnes sensibles, et notamment atteintes de pathologies respiratoires, que le problème a été identifié et formulé : 
-
-*En tant que personne directement affectée par la qualité de l’air, je ne sais pas comment adapter mon comportement pour me protéger des impacts de la qualité de l’air sur ma santé.*
-
-### Tester des solutions
-
-Afin de trouver la meilleure solution à ce problème, plusieurs supports et formats ont été testés en lien avec les utilisateurs du service.
-
-## Le service numérique
-
-Sur la base des itérations avec les utilisateurs, [Recosanté](https://recosante.beta.gouv.fr/) propose aujourd’hui un service d’information sur la santé environnement organisé en trois supports : 
-
-1. Un tableau de bord accessible en ligne qui permet d’accéder aux indicateurs environnementaux pour une commune choisie, et aux recommandations de comportement liées à ces indicateurs.
-2. Un service d’abonnement aux indicateurs environnementaux, par mail ou par notification.
-3. Un parcours de sensibilisation à la santé environnement via des lettres d’information hebdomadaires qui propose d’approfondir des thématiques spécifiques (liens entre la pollution de l’air et la santé, exposition aux rayons UV, etc.).
-
-Aujourd’hui, les données intégrées au service sont :
-
-- L’indice national de qualité de l’air ATMO, mesuré par les associations agréées de surveillance de la qualité de l’air.
-- Le risque d’allergie d’exposition aux pollens, mesuré par le réseau national de surveillance aérobiologique.
-- Le potentiel radon d’une commune, mesurée par l’institut de radioprotection et de sûreté nucléaire.
-- La vigilance météo, transmise par Météo France.
-- L’indice UV, transmis par Météo France.
-
-L’ensemble des recommandations diffusées sont issues de sources officielles telles que le ministère de la Santé, l’ADEME, l’OQAI, le RNSA, etc. Par ailleurs, les contenus de prévention et de sensibilisation sont conçus en lien avec Santé publique France.
-
-## Calendrier
-
-* Janvier 2020 : phase d’investigation accompagnée par la DINUM
-* Avril 2020 : première phase de construction et recrutement de l’équipe
-* Novembre 2020 : deuxième phase de construction
-* Juin 2021 : première phase d’accélération
-* Février 2022 : deuxième phase d’accélération
-* Février 2023 : transfert du service de l'incubateur de services numériques de la DINUM vers la Fabrique numérique des ministères sociaux
-
+-	Mesure d’impact : MAU application mobile
+-	Objectif : Informer et adapter les comportements des citoyens vis à vis des facteurs environnementaux pouvant impacter la santé négativement.

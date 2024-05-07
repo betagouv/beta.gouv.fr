@@ -6,7 +6,7 @@ mission: >-
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
-link: https://candidat.pole-emploi.fr/simucalculreprise
+link: https://candidat.francetravail.fr/simucalculreprise
 repository: https://github.com/StartupsPoleEmploi/estime-frontend
 contact: annie.compa@pole-emploi.fr
 usertypes:
@@ -68,7 +68,7 @@ Par ailleurs, lors des 4 saisons de webinaires internes organisés par l’équi
 
 Depuis le lancement, le simulateur a dépassé le **million de visiteurs** !
 
-Le simulateur est accessible ici : *<https://candidat.pole-emploi.fr/simucalculreprise>*
+Le simulateur est accessible ici : *https://candidat.francetravail.fr/simucalculreprise*
 
 Ainsi que sur l’Emploi store depuis début octobre 2022 : *<https://www.emploi-store.fr/portail/services/simulateurRepriseDEmploi>*
 

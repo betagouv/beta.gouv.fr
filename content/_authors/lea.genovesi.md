@@ -10,14 +10,13 @@ missions:
     employer: NUMA
     startups:
       - compte.rendu.vif
-      - precontentieux.justice
 startups:
   - compte.rendu.vif
-  - precontentieux.justice
 badges:
   - segur
 previously:
   - tracabilite.courrier
   - tracage.vaccination.iahp
+  - precontentieux.justice
 ---
 Designer pour le monde du digital et des politiques publiques

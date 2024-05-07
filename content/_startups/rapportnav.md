@@ -13,7 +13,6 @@ phases:
     end: 2022-08-16
   - name: construction
     start: 2022-08-16
-stats_url: https://pitch.com/v/rapport-nav---indicateurs-de-suivi-stwz8r
 ---
 ## Contexte
 Le Dispositif de Contrôle et de Surveillance (DCS) des Affaires Maritimes englobe l’ensemble des moyens des Affaires Maritimes dédiés aux contrôles des pêches, de l’environnement marin, du travail et de la navigation maritime.
@@ -66,6 +65,9 @@ Les futurs développements doivent permettre :
 * de prendre en compte les besoins spécifiques de chacun des bureaux engagés dans la démarche d’amélioration du ciblage des contrôles des unités terrain, en commençant par le bureau des gens de mer.
 
 Ces futurs développements s’inscrivent dans le cadre d’un changement de procédure pour les unités terrain.
+
+## Indicateurs de suivi 
+ Les indicateurs de suivi de RapportNav sont accessibles sur ce lien: https://docs.google.com/presentation/d/1sst8PmVTOgs6xGJBa3F71Y1xnWMPCK_Mo0kg9mYLt4I/edit?usp=sharing
 
 ## Budget
 

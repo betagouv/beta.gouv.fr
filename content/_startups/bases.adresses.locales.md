@@ -6,7 +6,7 @@ mission: >-
 sponsors:
   - /organisations/anct
 incubator: anct
-link: https://adresse.data.gouv.fr/gerer-mes-adresses
+link: https://adresse.data.gouv.fr/programme-bal
 repository: https://github.com/BaseAdresseNationale/mes-adresses
 contact: adresse@data.gouv.fr
 accessibility_status: non conforme
@@ -21,6 +21,8 @@ fast:
   promotion: 12
   montant: 270000
 stats_url: https://adresse.data.gouv.fr/deploiement-bal
+thematiques:
+  - Open-Data
 ---
 ## Pas d'adresse, pas de chocolat
 
@@ -42,7 +44,7 @@ La loi 3DS a consacré le rôle des communes dans l'adressage de leur territoire
 
 
 
-Aujourd'hui, **près de 14 800 communes** ont déjà publié leur Base Adresse Locale, plus de 56% de la population est couverte. Votre commune est-elle couverte ?
+Aujourd'hui, **plus de 17 000 communes** ont déjà publié leur Base Adresse Locale, plus de 63% de la population est couverte. Votre commune est-elle couverte ?
 
 📍 Pour [suivre le déploiement des Bases Adresses Locales](https://adresse.data.gouv.fr/deploiement-bal) en France
 
