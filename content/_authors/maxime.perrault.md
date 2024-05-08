@@ -1,7 +1,7 @@
 ---
 domaine: Développement
 fullname: 'Maxime  Perrault '
-role: Développement
+role: Développeur Full Stack
 missions:
   - start: 2024-05-13
     end: 2024-10-13
