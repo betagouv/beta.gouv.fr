@@ -9,4 +9,8 @@ missions:
     employer: MALT
     startups:
       - rapportnav
+github: xtiannyeto
+competences:
+  - Développement Full-stack
+memberType: beta
 ---
