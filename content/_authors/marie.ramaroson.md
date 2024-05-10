@@ -7,4 +7,9 @@ missions:
     end: 2024-07-15
     status: admin
     employer: ''
+    startups:
+      - anct-pni-45
+competences:
+  - Administration Publique
+memberType: beta
 ---
