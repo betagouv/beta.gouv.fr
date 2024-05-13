@@ -15,6 +15,6 @@ startups:
   - sparte
   - docurba
 previously:
-  - place-des-entreprises
+  - conseillers-entreprises
   - codedutravail
 ---
