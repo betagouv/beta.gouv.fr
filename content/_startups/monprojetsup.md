@@ -16,6 +16,7 @@ thematiques:
   - Jeunesse
   - Education
 stats_url: https://monprojetsup.fr/statistiques/
+repository: https://github.com/betagouv/monprojetsup
 ---
 ## Contexte
 
