@@ -1,7 +1,7 @@
 ---
 domaine: Développement
 fullname: Philippe de Mangou
-role: Développement
+role: Responsable Technique
 missions:
   - start: 2024-05-15
     end: 2024-07-31
