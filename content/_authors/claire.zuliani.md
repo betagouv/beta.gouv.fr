@@ -7,7 +7,7 @@ avatar: null
 link: https://www.lassembleuse.fr
 missions:
   - start: 2020-10-12
-    end: 2024-07-31
+    end: 2025-03-31
     status: independent
     employer: octo
     startups:
