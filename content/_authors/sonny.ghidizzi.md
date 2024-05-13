@@ -1,6 +1,6 @@
 ---
 domaine: Intraprenariat
-fullname: Lara Alberge
+fullname: Sonny Ghidizzi
 role: Intraprenariat
 missions:
   - start: 2024-05-06
