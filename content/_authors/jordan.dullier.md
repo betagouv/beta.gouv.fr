@@ -9,4 +9,7 @@ missions:
     employer: Octo
     startups:
       - agora
+competences:
+  - Développement Frontend
+memberType: beta
 ---
