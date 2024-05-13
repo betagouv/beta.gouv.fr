@@ -9,5 +9,5 @@ missions:
     employer: DIRECCTE
 startups: null
 previously:
-  - place-des-entreprises
+  - conseillers-entreprises
 ---
