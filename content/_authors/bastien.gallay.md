@@ -6,7 +6,7 @@ link: https://www.palo-it.com/fr/
 github: GalloIT
 missions:
   - start: 2023-07-18
-    end: 2024-07-18
+    end: 2024-04-19
     status: service
     employer: Palo IT &#x2F; Omnicité
     startups:

@@ -24,12 +24,8 @@ missions:
     employer: Malt
     startups:
       - monprojetsup
-startups:
-  - jeveuxaider
 badges:
   - segur
-previously:
-  - demarches-simplifiees.fr
 link: https://www.linkedin.com/in/huynhdoo/
 competences:
   - Machine learning

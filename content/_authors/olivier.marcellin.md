@@ -5,7 +5,7 @@ domaine: Design
 github: olivier-marcellin
 missions:
   - start: 2022-03-14
-    end: 2024-06-30
+    end: 2024-05-03
     status: independent
     employer: scopopop
     startups:
