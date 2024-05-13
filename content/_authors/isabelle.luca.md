@@ -9,4 +9,5 @@ missions:
     employer: DGPN/DNSP/DN
     startups:
       - formsformulaire
+memberType: beta
 ---
