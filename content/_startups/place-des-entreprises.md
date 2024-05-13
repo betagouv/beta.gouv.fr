@@ -1,72 +1,82 @@
 ---
-title: Place des Entreprises
 mission: Mettre en relation les TPE & PME et le bon interlocuteur
-sponsors:
-  - /organisations/dge
-  - /organisations/dgefp
 incubator: dinum
-phases:
-  - name: investigation
-    start: 2017-04-03
-  - name: construction
-    start: 2017-04-03
-  - name: acceleration
-    start: 2017-04-03
-    end: 2022-06-21
-  - name: success
-    start: 2022-06-21
-link: https://place-des-entreprises.beta.gouv.fr
 repository: https://github.com/betagouv/place-des-entreprises
-stats: true
 contact: mathieu.gens@beta.gouv.fr
+accessibility_status: partiellement conforme
+thematiques:
+  - Entreprises
 redirect_from:
   - /startups/e-conseils
   - /startups/reso
 usertypes:
   - entreprise
   - etat
+title: Conseillers-Entreprises
+sponsors:
+  - /organisations/dge
+  - /organisations/dgefp
+link: https://conseillers-entreprises.service-public.fr
+stats: true
 dashlord_url: https://dashlord.incubateur.net/url/place-des-entreprises-beta-gouv-fr/
 events:
   - name: national_impact
     date: 2022-12-31
-accessibility_status: partiellement conforme
-thematiques:
-  - Entreprises
+phases:
+  - name: investigation
+    start: 2017-09-01
+    end: 2019-02-28
+  - name: construction
+    start: 2019-03-01
+    end: 2021-08-31
+  - name: acceleration
+    start: 2021-09-01
+    end: 2022-06-20
+  - name: success
+    start: 2022-06-21
 ---
-Le service public Place des Entreprises permet à l’État, aux Régions volontaires et à l’ensemble des organismes publics et parapublics de développer leur rôle de conseil auprès des TPE & PME.
+**TPE PME, vous avez un projet, une difficulté ou une question du quotidien ? Échanger avec LE conseiller qui peut vous aider.**
+
+Le service public [Conseillers-Entreprises](https://conseillers-entreprises.service-public.fr) permet à l’État et à l’ensemble des organismes publics et parapublics de développer leur rôle de conseil auprès des TPE & PME.
 
 ## Le problème : des entrepreneurs isolés, des administrations cloisonnées
 
 Plus de 2 000 aides publiques aux entreprises existent, ainsi que de multiples accompagnements par différents organismes publics et parapublics. Malheureusement ces dispositifs restent largement méconnus de leurs destinataires, en particulier des TPE & PME. La lisibilité des aides devient également de plus en plus complexe.
 
-Ensuite, les chefs d’entreprise ne savent pas toujours à qui adresser leurs demandes face à la diversité d’acteurs publics. Identifier le bon interlocuteur dans la bonne administration et parvenir à le joindre relève parfois du parcours du combattant. L’activité du dirigeant ne laisse en outre que peu de disponibilité pour entamer de telles démarches.
+Ensuite, les chefs d’entreprise ne savent pas toujours à qui adresser leurs demandes face à la diversité d’acteurs publics. Identifier le bon interlocuteur dans la bonne administration et parvenir à le joindre relève parfois du parcours du combattant. 
 
-Enfin, les organismes publics chargés d’accompagner les entreprises sont confrontés à un problème de cloisonnement de leurs champs d’intervention. Ils se trouvent démunis face à des questions qui dépassent leurs attributions. Déjà restreint en pratique, le contact direct avec l’entreprise est aujourd’hui sous exploité et demande à être rénové.
+Enfin, les conseillers chargés d’accompagner les entreprises sont confrontés à un problème de cloisonnement de leurs champs d’intervention.
 
-## La solution : un système de mise en relation et un immense carnet d’adresses pour un conseil personnalisé
+## La solution : un service de mise en relation pour un conseil personnalisé et de proximité
 
-Un immense carnet d’adresse référence, au sein des administrations et organismes publics partenaires, des experts sur des champs de compétences précis. Ils rappellent et accompagnent les TPE & PME qui ont exprimé une problématique ou une question. La diversité des acteurs emmenés dans la dynamique permet de couvrir l’ensemble des besoins des entreprises : ressources humaines, droit du travail, difficultés financières, investissement, développement commercial, transition numérique, transmission-reprise, santé & sécurité au travail, tansition écologique…
+**Conseillers-Entreprises permet d’offrir un conseil personnalisé et de proximité aux TPE & PME. Le conseil humain est au cœur de ce service pour permettre au chef d’entreprise de mobiliser le bon accompagnement en fonction de ses besoins.**
 
-Ce carnet d’adresses est associé à un système de mise en relation, permettant d’adresser automatiquement un besoin d’entreprise aux experts compétents. La notification se fait en temps réel et un jeu de bouton permet de coordonner la prise en charge entre les experts notifiés.
+**Porté par le Ministère de l’Économie et le Ministère du Travail, le service compte plus de 10 000 conseillers chargés d’accompagner les entreprises au sein de 40 partenaires publics et parapublics.**
 
-L’objectif est d’offrir un conseil personnalisé et de proximité aux TPE & PME pour les aider à se développer, mais également à s’adapter aux mutations socio-économiques et environnementales qui bouleversent aujourd’hui notre société.
+Grâce à ce partenariat inédit, le service couvre **une grande variété de sujets** : recrutement, formation, organisation du travail, investissement, droit du travail, difficultés financières, appui au développement, numérique, transmission reprise, santé et sécurité au travail, transition écologique & RSE...
 
-## Les portes d’entrées du service : du numérique à l’humain
+Le chef d’entreprise choisit un sujet sur le site et indique en quelques phrases sa problématique. Après validation, sa demande est automatiquement transmise au(x) conseiller(s) compétent(s) sur son territoire pour l’accompagner. Ces conseillers le rappellent et lui proposent, lorsque les conditions sont réunies, l’accompagnement le plus adapté à sa situation.
 
-Depuis mars 2019, un portail en ligne dédié aux TPE & PME présente les grandes thématiques d’accompagnements publics. Le chef d’entreprise choisit un sujet et dépose simplement son besoin. Il est rappelé et accompagné par l’expert compétent sur son territoire.
+Pour chaque problématique, les mises en relation avec les conseillers sont conçues dans une logique de complémentarité des expertises. Par exemple, un artisan rencontrant des difficultés financières peut être accompagné par une personne de la Banque de France (diagnostic financier), de la Chambre des métiers et de l’artisanat (identification d’une aide régionale ou locale), de l’Urssaf (étalement des cotisations sociales) et de la DGFIP (dettes fiscales). Ce fonctionnement permet d’apporter collectivement **une réponse publique plus efficace** à une situation d’entreprise.
 
-Ce service de mise en relation peut être directement intégré sur les sites des partenaires publics qui le souhaitent. Chaque partenaire peut ainsi faciliter l’accès aux accompagnements publics et participer à la satisfaction des besoins des entreprises en bénéficiant du vaste partenariat Place des Entreprises.
+Un **suivi qualité** est assuré par l’équipe responsable du service afin qu’aucune demande d’entreprise ne reste sans réponse.
 
-Les conseillers du service public en contact avec les entreprises, comme les agents des intercommunalités, sont invités à utiliser l’outil chaque fois qu’un dirigeant leur fait part d’un besoin sur lequel ils ne sont pas experts. Oubliez le maquis administratif, l’orientation vers le bon interlocuteur devient automatique !
+## Les perspectives : mesure des attentes de terrain et ajustement des politiques publiques
+
+En partant des besoins exprimés directement par les TPE & PME, le service permet de nourrir l’État et ses partenaires dans l'amélioration des politiques publiques. Les attentes terrain des entreprises constituent en effet une précieuse base de données pour ajuster le périmètre ou les modalités de certains accompagnements. 
+
+Les besoins des entreprises révèlent parfois l’absence de réponse de service public sur des problématiques pourtant récurrentes. Ils sont alors exploités en quantité pour concevoir à l’avenir de nouveaux accompagnements. Ces derniers sont ensuite déployés au travers du service avec l’apparition d’un nouveau sujet sur le site ou d’une expertise complémentaire au sein d’un sujet. Cette boucle vertueuse permet de démultiplier l’impact du service.
+
+Par exemple, les conditions de travail ou la réglementation relative aux établissements recevant du public (ERP) font l’objet de réflexions pour améliorer la réponse de service public.
+
+
 
 ## La méthode : une petite équipe inspirée par vous, chefs d’entreprise et agents publics
 
 Le service a été construit pas à pas, en confrontant nos hypothèses de travail avec la réalité du terrain. Notre démarche repose sur des échanges nourris avec les chefs d’entreprise et les conseillers d’entreprises sur les difficultés rencontrées par chacun au quotidien.
 
-L’ensemble des évolutions du service sont guidées par l’impact, afin de s’assurer de leur pertinence pour les utilisateurs.
-
-N’hésitez pas à nous faire part de vos idées et critiques pour améliorer le service.
+L’ensemble des évolutions du service sont guidées par l’impact, afin de s’assurer de leur pertinence pour nos utilisateurs.
 
 ## Contactez-nous
 
-Pour toute question sur le service Place des Entreprises, écrivez-nous à l’adresse contact@place-des-entreprises.beta.gouv.fr.
+[L’équipe](https://conseillers-entreprises.service-public.fr/equipe) se tient à votre disposition. Pour toute question sur le service, écrivez-nous à l’adresse [contact@conseillers-entreprises.service-public.fr](mailto:contact@conseillers-entreprises.service-public.fr)
