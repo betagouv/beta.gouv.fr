@@ -9,4 +9,20 @@ missions:
     employer: MALT
     startups:
       - snu
+link: https://www.linkedin.com/in/philippe-de-mangou/
+competences:
+  - Product strategy
+  - Facilitation
+  - Croissance
+  - Développement Full-stack
+  - DevOps
+  - PHP
+  - Ruby
+  - Coaching
+  - Communication
+memberType: beta
 ---
+Responsable technique passionné par le produit, la tech et le développement des équipes
+
+Ex Head of Engineering @Climb
+Ex Serial entrepreneur 
