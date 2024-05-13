@@ -12,7 +12,6 @@ contact: annie.compa@pole-emploi.fr
 usertypes:
   - particulier
 stats: false
-stats_url: https://candidat.francetravail.fr/simulation-ressources-formation/stats
 events:
   - name: product_launch
     date: 2021-01-07
