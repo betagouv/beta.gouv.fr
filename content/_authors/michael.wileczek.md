@@ -26,5 +26,9 @@ memberType: beta
 previously:
   - itou
   - inclusion.connect
+link: https://fr.linkedin.com/in/mwik
+competences:
+  - Sécurité informatique
+  - Administration Système
 ---
 Consultant cybersécurité depuis 1998, fan de concerts indie et de voyages
