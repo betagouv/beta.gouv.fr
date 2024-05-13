@@ -9,4 +9,11 @@ missions:
     employer: IGN
     startups:
       - vues-immersives-libres
+link: https://www.linkedin.com/in/florianlainez/fr
+github: https://github.com/overflorian
+competences:
+  - Croissance
+  - OpenStreetMap
+memberType: beta
 ---
+Expert OpenStreetMap

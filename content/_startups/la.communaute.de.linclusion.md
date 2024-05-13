@@ -6,6 +6,7 @@ sponsors:
   - /organisations/mtei
 incubator: gip-inclusion
 stats: true
+stats_url: https://communaute.inclusion.beta.gouv.fr/statistiques
 link: https://communaute.inclusion.beta.gouv.fr/
 repository: http://github.com/betagouv/itou
 contact: contact@inclusion.beta.gouv.fr
@@ -20,15 +21,19 @@ phases:
 usertypes:
   - collectivite-territoriale
   - entreprise
-  - association 
+  - association
   - etat
+thematiques:
+  - Travail / Emploi
+  - Social
+accessibility_status: non conforme
 ---
 
 ## Le problème
 
 L'univers de l'insertion professionnelle ou de l'inclusion est marqué par la diversité et le cloisonnement des acteurs. Parmi les irritants remontés du terrain : multiplicité des lieux pour trouver de l’information, fiabilité de l'informations, défaut de lien entre acteurs d’un même territoire, ou d’un même réseau, méconnaissance réciproque des acteurs (rôle, activité, périmètre, expertise).\
 \
-Ces irritants sont d'autant plus importants que la mise en réseau des professionnels et le partage des informations est une clé pour la réussite du parcours de la personne en insertion. 
+Ces irritants sont d'autant plus importants que la mise en réseau des professionnels et le partage des informations est une clé pour la réussite du parcours de la personne en insertion.
 
 ## Notre service
 
@@ -40,10 +45,10 @@ Tous les professionnels de l’inclusion. Comme les conseillers en insertion pro
 
 ## Déploiement
 
-À ce jour, la Communauté de l'inclusion propose 3 thématiques : 
+À ce jour, la Communauté de l'inclusion propose 3 thématiques :
 
-* Devenir CIP
-* France Travail
-* M﻿obilité
+- Devenir CIP
+- France Travail
+- M﻿obilité
 
 https://communaute.inclusion.beta.gouv.fr/

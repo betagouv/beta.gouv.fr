@@ -18,6 +18,8 @@ stats_url: >-
 phases:
   - name: acceleration
     start: 2022-07-01
+thematiques:
+  - Inclusion numérique
 ---
 ## Le problème
 

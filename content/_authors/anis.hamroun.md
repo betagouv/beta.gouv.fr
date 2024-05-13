@@ -9,4 +9,13 @@ missions:
     employer: ''
     startups:
       - prelevements.deau
+github: anislerouge
+competences:
+  - Développement Full-stack
+  - DevOps
+  - Développement Backend
+  - Développement Frontend
+  - Développement
+  - Administration Système
+memberType: beta
 ---

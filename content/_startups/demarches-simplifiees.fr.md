@@ -29,8 +29,10 @@ usertypes:
 fast:
   promotion: 12
   montant: 30000
+thematiques:
+  - Outil technique
+  - Administratif
 ---
-
 demarches-simplifiees.fr est une application entièrement en ligne qui permet à tous les organismes assurant des missions de service public de créer des démarches en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.
 
 **Le constat**
