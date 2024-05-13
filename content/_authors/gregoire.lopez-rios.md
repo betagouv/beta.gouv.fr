@@ -9,4 +9,7 @@ missions:
     employer: Mon Entreprise Portage
     startups:
       - mon-entreprise
+competences:
+  - Relation usagers
+memberType: beta
 ---
