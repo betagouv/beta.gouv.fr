@@ -9,6 +9,6 @@ missions:
     employer: octo
 startups: null
 previously:
-  - place-des-entreprises
+  - conseillers-entreprises
 ---
 Simplifier, gamifier, donner du feedback, être bienveillant !

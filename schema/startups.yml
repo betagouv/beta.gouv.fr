@@ -210,3 +210,5 @@ mapping:
      - totalement conforme
      - partiellement conforme
      - non conforme
+  "mon_service_securise":
+    type:      bool

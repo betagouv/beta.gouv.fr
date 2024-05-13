@@ -7,9 +7,9 @@ missions:
     status: admin
     employer: DGE
     startups:
-      - place-des-entreprises
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 badges:
   - segur
 domaine: Autre
