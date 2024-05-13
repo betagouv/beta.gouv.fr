@@ -18,6 +18,12 @@ missions:
     startups:
       - sirius
       - vigieau
+  - start: 2024-05-10
+    end: 2024-09-30
+    status: independent
+    employer: Malt
+    startups:
+      - monprojetsup
 startups:
   - jeveuxaider
 badges:
@@ -26,6 +32,8 @@ previously:
   - demarches-simplifiees.fr
 link: https://www.linkedin.com/in/huynhdoo/
 competences:
-  - Développement Backend
+  - Machine learning
+  - Python
+  - Data Science
 ---
 Expert du machine learning et de la data-science, je modélise, explicite et intègre toutes solutions à partir de vos données métiers afin de vous faire gagner le temps utile pour ceux et celles qui comptent vraiment.
