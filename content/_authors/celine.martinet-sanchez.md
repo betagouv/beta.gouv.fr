@@ -1,6 +1,6 @@
 ---
 fullname: Céline Martinet Sanchez
-role: Développeuse
+role: Responsable technique (Lead dev)
 domaine: Développement
 github: celine-m-s
 link: https://www.linkedin.com/in/celinemartinet1/

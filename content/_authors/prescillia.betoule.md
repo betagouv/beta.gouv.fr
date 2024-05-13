@@ -1,6 +1,6 @@
 ---
 fullname: Prescillia Betoule
-role: Product Owner
+role: Product Manager
 domaine: Produit
 missions:
   - start: 2022-03-01
