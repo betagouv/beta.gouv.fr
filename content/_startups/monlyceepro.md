@@ -37,7 +37,7 @@ Cela passe par 3 fonctionnalités:
 
 Une expérimentation du fichier actif des Entreprises s’Engagent nous permet de voir la faisabilité “à la main” mais surtout cela nous amène une base de travail. 
 L’idée est d’expérimenter cet outil sur les entreprises engagées pour les lycées professionnels afin de voir rapidement l’efficacité de l’outil. Cela nous permet d’avoir un accès rapide aux entreprises qui sauront donner un retour. Et ainsi par la suite le déployer aux entreprises pas (encore) engagées.
-Il faut donc également être présents sur leur site internet et les start-up d’état liées au sujet des lycées pro (Orion, Diagorente) et au sujet entreprises (Place des Entreprises, Immersion Facilitée). 
+Il faut donc également être présents sur leur site internet et les start-up d’état liées au sujet des lycées pro (Orion, Diagorente) et au sujet entreprises (Conseillers-Entreprises, Immersion Facilitée). 
 Les travaux menés par Inserjeunes et la DNE nous amènent déjà des bases de données et un moteur de recherche adaptables à notre sujet. 
 
 Tester l’outil sur des académies test afin de rapidement avoir des retours concrets côté Education Nationale.

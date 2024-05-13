@@ -9,6 +9,7 @@ thematiques:
 redirect_from:
   - /startups/e-conseils
   - /startups/reso
+  - /startups/place-des-entreprises
 usertypes:
   - entreprise
   - etat
