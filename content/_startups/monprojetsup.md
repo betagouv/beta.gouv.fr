@@ -15,7 +15,7 @@ link: https://beta.monprojetsup.fr/
 thematiques:
   - Jeunesse
   - Education
-stats_url: https://wp.monprojetsup.fr/
+stats_url: https://monprojetsup.fr/statistiques/
 ---
 ## Contexte
 
