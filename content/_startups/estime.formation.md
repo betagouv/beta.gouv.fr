@@ -8,6 +8,7 @@ incubator: pole-emploi
 contact: dctsiestimeformation.00885@pole-emploi.fr
 accessibility_status: partiellement conforme
 stats: true
+stats_url: https://candidat.francetravail.fr/simulation-ressources-formation/stats
 phases:
   - name: construction
     start: 2023-01-20
