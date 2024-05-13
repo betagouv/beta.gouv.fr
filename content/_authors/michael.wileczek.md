@@ -12,6 +12,12 @@ missions:
       - inclusion.connect
       - itou
       - reva
+  - start: 2023-10-13
+    end: 2025-04-30
+    status: independent
+    employer: REVA
+    startups:
+      - reva
 startups:
   - inclusion.connect
   - itou
