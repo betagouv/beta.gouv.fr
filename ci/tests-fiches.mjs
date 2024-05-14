@@ -40,6 +40,8 @@ const checkMarkdownFileHeader = async (filePath, schema) => {
   }
 };
 
+console.log(`Checking ${authorsFiles.length} authors`);
+
 const authorsErrors = (
   await Promise.all(
     authorsFiles
@@ -52,6 +54,8 @@ const authorsErrors = (
 )
   .filter(Boolean)
   .flatMap((a) => a);
+
+console.log(`Checking ${startupsFiles.length} files`);
 
 const startupsErrors = (
   await Promise.all(
@@ -105,4 +109,6 @@ errors.forEach((error) => {
 if (errors.length) {
   console.log(errors.length, "errors");
   process.exit(1);
+} else {
+  console.log("No errors");
 }

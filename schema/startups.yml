@@ -59,6 +59,7 @@ mapping:
             - /organisations/dgesco
             - /organisations/dgesip
             - /organisations/dgfip
+            - /organisations/dgpe
             - /organisations/dgitm
             - /organisations/dgos
             - /organisations/dgpat
@@ -210,3 +211,5 @@ mapping:
      - totalement conforme
      - partiellement conforme
      - non conforme
+  "mon_service_securise":
+    type:      bool
