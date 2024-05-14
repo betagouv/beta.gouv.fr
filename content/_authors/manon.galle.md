@@ -10,6 +10,7 @@ missions:
     employer: ANCT
     startups:
       - suite.d.outils.des.mediateurs.numeriques
+      - les.bases
   - start: 2024-02-05
     end: 2026-10-31
     status: admin
