@@ -234,6 +234,7 @@ collections:
           "Développement",
           "Intraprenariat",
           "Produit",
+          "Data",
           "Autre"
         ]
         required: true

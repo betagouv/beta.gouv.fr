@@ -15,9 +15,10 @@ usertypes:
   - particulier
   - etablissement-scolaire
 accessibility_status: partiellement conforme
-link: https://sirius.apprentissage.beta.gouv.fr
-stats_url: https://sirius.apprentissage.beta.gouv.fr/statistiques
+link: https://sirius.inserjeunes.beta.gouv.fr
+stats_url: https://sirius.inserjeunes.beta.gouv.fr/statistiques
 stats: true
+dashlord_url: https://dashlord.incubateur.net/startup/sirius
 thematiques:
   - Jeunesse
   - Formation

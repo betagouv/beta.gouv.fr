@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - place-des-entreprises
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 badges:
   - segur
 ---
