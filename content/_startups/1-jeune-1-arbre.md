@@ -13,8 +13,7 @@ usertypes:
   - entreprise
   - etablissement-scolaire
 sponsors:
-  - >-
-    /organisations/direction-generale-de-la-performance-economique-et-environnementale-des-entreprises
+  - /organisations/DGPE
 phases:
   - name: investigation
     start: 2024-05-14
