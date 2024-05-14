@@ -29,7 +29,9 @@ phases:
 ---
 ## Le problème
 
+
 De multiples acteurs interviennent dans le suivi des démarches minières. Il est nécessaire d'avoir un outils de gestion unifié pour réunir l'ensemble des ces acteurs autour de la vie des projets miniers.
+
 
 ## La solution
 
