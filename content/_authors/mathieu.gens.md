@@ -1,6 +1,6 @@
 ---
 fullname: Mathieu Gens
-role: Directeur opérationnel
+role: Directeur
 github: MathieuGens
 domaine: Intraprenariat
 missions:
