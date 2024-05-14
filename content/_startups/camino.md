@@ -1,6 +1,7 @@
 ---
-mission: Ouvrir les données du domaine minier pour partager l'information sur
-  les projets et faciliter leur gestion.
+mission: >-
+  Ouvrir les données du domaine minier pour partager l'information sur les
+  projets et faciliter leur gestion.
 incubator: mtes
 repository: https://github.com/MTES-MCT/camino
 contact: camino@beta.gouv.fr
@@ -24,11 +25,8 @@ phases:
   - name: construction
     start: 2018-01-01
   - name: acceleration
-    start: 2019-01-01
-  - name: transfer
-    start: 2021-09-01
+    start: 2023-06-15
 ---
-
 ## Le problème
 
 De nombreux acteurs interviennent pour le suivi des démarches minières. Il est nécessaire d'avoir un outils de gestion unifié pour réunir l'ensemble des ces acteurs autour de la vie des projets miniers.
