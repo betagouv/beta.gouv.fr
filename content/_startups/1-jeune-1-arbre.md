@@ -13,7 +13,7 @@ usertypes:
   - entreprise
   - etablissement-scolaire
 sponsors:
-  - /organisations/DGPE
+  - /organisations/dgpe
 phases:
   - name: investigation
     start: 2024-05-14
