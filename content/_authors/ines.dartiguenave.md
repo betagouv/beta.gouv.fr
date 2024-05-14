@@ -17,5 +17,4 @@ startups:
 competences:
   - Coaching
   - Product strategy
-  - Croissance
 ---
