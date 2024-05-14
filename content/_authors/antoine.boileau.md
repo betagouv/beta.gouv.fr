@@ -10,6 +10,6 @@ missions:
 startups: null
 previously:
   - pix
-  - place-des-entreprises
+  - conseillers-entreprises
 ---
 :turtle: null
