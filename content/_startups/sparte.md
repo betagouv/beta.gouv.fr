@@ -11,7 +11,7 @@ sponsors:
   - /organisations/dgaln
 link: https://mondiagnosticartificialisation.beta.gouv.fr/
 stats: true
-dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/sparte-beta-gouv-fr/
+dashlord_url: https://dashlord.mte.incubateur.net/dashlord/startup/sparte/
 phases:
   - name: investigation
     start: 2021-04-08
@@ -21,7 +21,7 @@ fast:
   promotion: 12
   montant: 210000
 stats_url: https://mondiagnosticartificialisation.beta.gouv.fr/statistiques/
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 thematiques:
   - Écologie
 ---
