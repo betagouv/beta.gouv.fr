@@ -26,7 +26,9 @@ phases:
 analyse_risques: true
 thematiques:
   - Mer
+accessibility_status: non conforme
 ---
+
 ## Contexte
 
 L'agence nationale des données de voyage (ANDV), service interministériel à compétence nationale, est en charge de l’amélioration des dispositifs de collecte et traitement des données de voyages à des fins régaliennes. En France, plus de 30 millions de personnes franchissent les frontières maritimes chaque année, hors pandémie. Les transports maritimes (cargo, croisière, ferries font l’objet d’obligations réglementaires de déclaration de données de voyage aux autorités portuaires.

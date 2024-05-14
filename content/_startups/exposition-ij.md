@@ -28,6 +28,7 @@ accessibility_status: non conforme
 thematiques:
   - Jeunesse
   - Formation
+dashlord_url: https://dashlord.incubateur.net/url/exposition-inserjeunes-beta-gouv-fr-api/
 ---
 ## Le problème
 

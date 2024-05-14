@@ -23,4 +23,4 @@ teams:
 badges:
   - segur
 ---
-PO le jour, joueur de waterpolo la nuit .
+ 
