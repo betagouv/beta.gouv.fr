@@ -12,12 +12,10 @@ startups:
   - acceslibre
   - accesscite
   - camino
-  - recommandations-collaboratives
-  - sparte
-  - urbanvitaliz
   - prelevements.deau
   - oilhi
   - histologe
+  - vigieau
 competences:
   - Gestion de Produit
 teams:
