@@ -1,7 +1,7 @@
 ---
 fullname: Valentin LE TELLIER
 role: Intrapreneur
-domaine: intraprenariat
+domaine: Intraprenariat
 github: vletellier
 missions:
   - start: 2023-04-24
