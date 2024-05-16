@@ -10,20 +10,9 @@ missions:
     employer: ANCT
     startups:
       - suite.d.outils.des.mediateurs.numeriques
-      - start: 2024-02-05
-      - end: 2026-10-31
-      - status: admin
-      - employer: ANCT
-    startups:
       - les.bases
-      - start: 2024-01-01
-      - end: 2026-10-31
-      - status: admin
-      - employer: ANCT
 teams:
   - /teams/anct
 memberType: beta
-startups:
-  - suite.d.outils.des.mediateurs.numeriques
 link: https://www.linkedin.com/in/manon-galle/
 ---
