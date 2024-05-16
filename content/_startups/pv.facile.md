@@ -10,13 +10,11 @@ phases:
 sponsors:
   - /organisations/dgec
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
 ## Contexte
 
-Planification écologique. L'Etat encourage la production d'énergies renouvelables sur le territoire afin de répondre aux ambitions de réduction de gaz à effet de serre. Dans ce contexte, des acteurs privés se positionnent (ici dénommés les "Développeurs") et sont à la recherche de terrains fonciers disponibles à la location.
+Dans le cadre de la PPE, l'Etat encourage la production d'énergies renouvelables sur le territoire afin de répondre aux ambitions de réduction de gaz à effet de serre. Dans ce contexte, des acteurs privés se positionnent (ici dénommés les "Développeurs") et sont à la recherche de terrains fonciers disponibles à la location.
 
-## Problème
+## Problèmes
 
 L'installation de panneaux photovoltaïques pour produire et commercialiser de l'électricité fait l'objet de réglementations souvent méconnues et/ou ignorées des développeurs, porteurs de projets.
 
@@ -39,5 +37,5 @@ Une première solution (questionnaire de pré-cadrage) à destination des porteu
 ## Stratégie (tbd)
 
 Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
-=======
+
 ---

@@ -28,4 +28,9 @@ previously:
   - eva
 badges:
   - segur
+competences:
+  - Croissance
+  - Product strategy
+  - Facilitation
+  - Coaching
 ---

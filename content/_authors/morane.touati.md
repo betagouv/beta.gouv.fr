@@ -9,4 +9,9 @@ missions:
     employer: Opteamis
     startups:
       - reva
+link: https://www.linkedin.com/in/moranetouati/
+competences:
+  - UX
+  - UX Writing
+memberType: beta
 ---

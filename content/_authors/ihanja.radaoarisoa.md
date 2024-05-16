@@ -9,4 +9,7 @@ missions:
     employer: Omnicité
     startups:
       - mon-aide-cyber
+competences:
+  - Product strategy
+memberType: beta
 ---

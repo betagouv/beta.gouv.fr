@@ -17,7 +17,7 @@ link: https://ma-cantine.beta.gouv.fr
 repository: https://github.com/betagouv/ma-cantine
 stats: true
 stats_url: https://ma-cantine.agriculture.gouv.fr/statistiques-plateforme
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow
 contact: contact@egalim.beta.gouv.fr
 usertypes:
   - entreprise
@@ -27,6 +27,7 @@ fast:
 thematiques:
   - Santé
   - Administratif
+accessibility_status: non conforme
 ---
 ## Une alimentation saine, de qualité, durable et accessible à tous en restauration collective
 

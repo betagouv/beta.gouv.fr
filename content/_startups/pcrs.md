@@ -1,7 +1,7 @@
 ---
 title: PCRS
 mission: >-
-  Accompagner les collectivités pour mettre en place un Plan Corps de Rue Simplifié
+  Accompagner les collectivités pour mettre en place puis piloter leur projet de Plan Corps de Rue Simplifié
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -14,9 +14,12 @@ phases:
     start: 2021-09-01
   - name: construction
     start: 2022-09-30
+  - name: acceleration
+    start: 2023-10-01
 thematiques:
   - Collectivités
   - Écologie
+  - Aménagement du territoire
 ---
 ## Contexte
 
@@ -40,9 +43,9 @@ L’échéance de 2026 fixée aux gestionnaires de réseaux semble difficile à 
 
 La Startup d'Etat PCRS met en place un dispositif d'accompagnement complet des collectivités dans la mise en place de PCRS sur leur territoire :
 
-* Faire comprendre ce qu'est le PCRS simplement et l'intérêt de s'en doter,
-* Suivi d'avancement précis du déploiement,
-* Ressources et documentation,
+* Faire comprendre ce qu'est le PCRS simplement et l'intérêt de s'en doter en investigant [une multitude d'usages](https://docs.pcrs.beta.gouv.fr/usages/les-usages-du-pcrs),
+* [Suivi d'avancement](https://pcrs.beta.gouv.fr/suivi-pcrs) précis du déploiement,
+* [Ressources et documentation](https://docs.pcrs.beta.gouv.fr/),
 * Outillage nécessaire pour visualiser et exploiter le PCRS,
 * Proposition de montage financier réplicable,
 * Accompagnement à la mise en open data
@@ -57,3 +60,4 @@ Pour ce faire, nous devons passer par les étapes suivantes :
 * Offrir un support quotidien aux collectivités,
 * Valorisation d'utilisations plus larges du PCRS au-delà de la réforme anti-endommagement,
 * Initier différentes discussions nationales pour comprendre et éventuellement résoudre les déséquilibres de contributions qui peuvent exister entre acteurs signataires du protocole d'accord national de 2015.
+* Animer via la tenue de [différents événements](https://pcrs.beta.gouv.fr/evenements) en ligne comme en présentiel.
