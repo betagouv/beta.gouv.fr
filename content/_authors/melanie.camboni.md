@@ -8,9 +8,9 @@ missions:
     status: independent
     employer: MALT
     startups:
-      - place-des-entreprises
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 memberType: beta
 ---
 chargée de suivi qualité / bizdev

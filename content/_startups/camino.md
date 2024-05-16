@@ -1,6 +1,7 @@
 ---
-mission: Ouvrir les données du domaine minier pour partager l'information sur
-  les projets et faciliter leur gestion.
+mission: >-
+  Ouvrir les données du domaine minier pour partager l'information sur les
+  projets et faciliter leur gestion.
 incubator: mtes
 repository: https://github.com/MTES-MCT/camino
 contact: camino@beta.gouv.fr
@@ -24,14 +25,13 @@ phases:
   - name: construction
     start: 2018-01-01
   - name: acceleration
-    start: 2019-01-01
-  - name: transfer
-    start: 2021-09-01
+    start: 2023-06-15
 ---
-
 ## Le problème
 
-De nombreux acteurs interviennent pour le suivi des démarches minières. Il est nécessaire d'avoir un outils de gestion unifié pour réunir l'ensemble des ces acteurs autour de la vie des projets miniers.
+
+De multiples acteurs interviennent dans le suivi des démarches minières. Il est nécessaire d'avoir un outils de gestion unifié pour réunir l'ensemble des ces acteurs autour de la vie des projets miniers.
+
 
 ## La solution
 
@@ -48,16 +48,14 @@ Avec ce référentiel commun ouvert et partagé des dossiers miniers et des auto
 
 ## L'impact
 
-Camino en 2022 c'est :
- - **8,6/10** pour la satisfaction utilisateurs
- - **236** notifications de suivi d'instruction envoyées automatiquement aux services et opérateurs
- - **383** comptes utilisateur activés
- 
- Les objectifs pour 2023:
+Camino en 2023 c'est :
+ - **100%** des usagers opérateurs miniers et agents d’administration disposant d’un tableau de bord de leur activité
+  - **100%** des procédures des PEX géothermie pouvant être instruites en ligne
+
+ Les objectifs pour 2024:
  - **100%** des procédures d’octroi et de prolongation des concessions et PER pouvant être instruites conformément à la réforme du code minier
- - **80%** des usagers opérateurs miniers et agents d’administration disposant d’un tableau de bord de leur activité
- - **100%** des PEX géothermie valides en ligne avec leur données spécifiques (volume d’exploitation, puissance, etc)
- - **500** notifications de suivi d’instruction, adressées aux services et aux opérateurs.
+ - **100%** des PEX géothermie valides de la DREAL ARA en ligne avec leur données spécifiques (volume d’exploitation, puissance, etc)
+**100%** des taxes sur les substances des titres de la DREAL Grand-Est calculées automatiquement.
  
  Pour voir les différentes statistiques de Camino, c'est <a href="https://camino.beta.gouv.fr/statistiques/globales" target="_top">ici</a>
 
