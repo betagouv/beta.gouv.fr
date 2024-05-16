@@ -16,6 +16,13 @@ layout: null
                     { "start": "{{mission.start}}", "end": "{{mission.end}}", "status": "{{mission.status}}", "employer": "{{mission.employer}}"{% if mission.startups %}, "startups": [{% for startup in mission.startups %}"{{startup}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endif %} }{% unless forloop.last %},{% endunless %}
                 {% endfor %}
             ]
+            {% if author.competences %}
+            , "competences": [
+                {% for competence in author.competences %}
+                    "{{competence}}"{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+            ]
+            {% endif %}
             {% if author.startups %}
             , "startups": [
                 {% for startup in author.startups %}
