@@ -13,13 +13,16 @@ phases:
     start: 2022-05-15
     end: 2022-11-08
   - name: construction
-    start: 2022-11-08
+    start: 2023-12-15
 thematiques:
   - Jeunesse
   - Social
   - Travail / Emploi
 usertypes:
   - particulier
+link: https://cje.fabrique.social.gouv.fr/
+stats_url: >-
+  https://metabase-carte-jeune-engage.fabrique.social.gouv.fr/public/dashboard/9d6a663b-99f2-47eb-ba55-be238909b1ba
 ---
 ## Problème
 
