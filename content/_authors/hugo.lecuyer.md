@@ -9,4 +9,7 @@ missions:
     employer: Malt
     startups:
       - data-inclusion
+competences:
+  - Développement Backend
+memberType: beta
 ---
