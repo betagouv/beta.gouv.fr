@@ -16,9 +16,8 @@ missions:
     end: 2024-06-29
     status: independent
     employer: Octo
-startups:
-  - conseiller-numerique
 previously:
+  - france-numerique-ensemble
   - maintenant
   - place-de-marche-inclusion
   - eva
@@ -29,4 +28,5 @@ competences:
   - Administration Publique
   - Communication
 ---
+
 Startupeuse curieuse et persévérante !

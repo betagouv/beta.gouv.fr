@@ -12,4 +12,5 @@ missions:
 startups:
   - monprojetsup
 memberType: beta
+github: Numero7
 ---

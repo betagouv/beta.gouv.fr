@@ -5,7 +5,7 @@ role: Responsable produit
 github: celestinleroux
 missions:
   - start: 2022-03-21
-    end: 2024-03-01
+    end: 2024-09-01
     status: independent
     employer: MALT / ANCT
     startups:
@@ -13,10 +13,11 @@ missions:
 startups:
   - cartographie.nationale
 previously:
-  - conseiller-numerique
+  - france-numerique-ensemble
 competences:
   - Gestion de Produit
   - UX
   - Développement Frontend
 ---
+
 J'essaye de glisser le plus loin possible sur la banquise

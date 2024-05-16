@@ -1,6 +1,6 @@
 ---
 fullname: Pierre Camilleri
-domaine: Autre
+domaine: Data
 role: Data engineer
 github: pierrecamilleri
 link: https://multi.coop

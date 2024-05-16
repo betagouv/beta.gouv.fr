@@ -2,17 +2,15 @@
 domaine: Intraprenariat
 github: cron6502
 missions:
-  - start: 2023-04-24
-    end: 2024-05-31
+  - start: 2024-04-05
+    end: 2024-07-05
     status: admin
-    employer: mtes
-    startups:
-      - evalpro
+    employer: ''
 competences:
   - Administration Publique
 memberType: beta
-fullname: Joel FIGUERES
-role: Intrapreneur
+fullname: Joël Figueres
+role: Intraprenariat
 startups:
   - evalpro
 ---

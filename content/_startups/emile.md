@@ -18,6 +18,8 @@ usertypes:
   - particulier
 dashlord_url: 
 accessibility_status: non conforme
+thematiques:
+  - Logement
 ---
 # Le problème : 
 Des personnes sans emploi et sans logement vivent en situation précaire en Île de France alors que des territoires ont des besoins de recrutement et des logements vacants. L'idée est de recouper ces opportunités et les candidats à un changement de vie (après diagnostic et accompagnement des profils).

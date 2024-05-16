@@ -8,7 +8,7 @@ missions:
     end: 2019-12-31
     status: admin
     employer: Pôle emploi
-    
+
   - start: 2021-01-01
     end: 2023-06-30
     status: independent
@@ -16,10 +16,11 @@ missions:
 startups:
 previously:
   - maintenant
-  - conseiller-numerique
+  - france-numerique-ensemble
   - diagoriente
   - tdb-apprentissage
 competences:
   - Gestion de Produit
 ---
+
 Mon moteur : l’utilité sociale. Mon engagement : Agir pour plus d’équité.

@@ -7,6 +7,7 @@ contact: monsuivisocial@anct.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - collectivite-territoriale
+  - association
 title: Mon Suivi Social
 sponsors:
   - /organisations/anct
@@ -20,6 +21,12 @@ phases:
     end: 2022-02-01
   - name: construction
     start: 2022-03-01
+stats_url: https://monsuivisocial.incubateur.anct.gouv.fr/statistiques
+mon_service_securise: true
+thematiques:
+  - Social
+  - Collectivités
+  - Inclusion numérique
 ---
 ### 🏗 Contexte/problème
 

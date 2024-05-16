@@ -1,7 +1,7 @@
 ---
 fullname: Sarah Cocher
 role: Data Scientist
-domaine: Développement
+domaine: Data
 github: leihuayi
 missions:
   - start: 2021-09-13

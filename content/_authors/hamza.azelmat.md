@@ -1,7 +1,7 @@
 ---
 fullname: Hamza Azelmat
 role: Data engineer
-domaine: Développement
+domaine: Data
 github: hazelmat
 missions:
   - start: 2024-01-11

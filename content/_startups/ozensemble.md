@@ -23,6 +23,8 @@ accessibility_status: non conforme
 fast:
   promotion: 14
   montant: 220000
+thematiques:
+  - Santé
 ---
 ##  Le contexte : 
 

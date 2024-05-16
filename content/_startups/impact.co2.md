@@ -33,6 +33,8 @@ usertypes:
   - particulier
   - entreprise
   - collectivite-territoriale
+thematiques:
+  - Écologie
 ---
 ## Problème 👀
 
