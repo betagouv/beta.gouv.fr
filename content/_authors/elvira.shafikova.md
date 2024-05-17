@@ -9,4 +9,5 @@ missions:
     employer: ANCT
     startups:
       - infrastructures.numeriques
+memberType: beta
 ---
