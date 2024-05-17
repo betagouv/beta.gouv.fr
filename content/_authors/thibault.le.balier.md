@@ -5,8 +5,9 @@ domaine: Déploiement
 link: https://smartketing-digital.com/
 missions:
   - start: 2023-11-28
-    end: 2024-04-15
+    end: 2024-09-30
     status: independent
+    employer: ''
     startups:
       - ozensemble
 startups:

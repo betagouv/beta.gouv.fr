@@ -75,8 +75,10 @@ usertypes:
   - etat
 dashlord_url: https://dashlord.incubateur.net/url/emplois-inclusion-beta-gouv-fr/
 accessibility_status: partiellement conforme
+thematiques:
+  - Travail / Emploi
+  - Social
 ---
-
 ## Une question ou un besoin d'aide dans l'utilisation du service ?
 Voici un lien direct vers l'assistance : [aide.emplois.inclusion.beta.gouv.fr](https://aide.emplois.inclusion.beta.gouv.fr/)
 

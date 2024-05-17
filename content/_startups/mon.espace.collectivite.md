@@ -19,6 +19,8 @@ phases:
   - name: construction
     start: 2023-11-01
 accessibility_status: non conforme
+thematiques:
+  - Collectivités
 ---
 ## Contexte
 

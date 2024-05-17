@@ -13,10 +13,11 @@ missions:
 startups:
   - cartographie.nationale
 previously:
-  - conseiller-numerique
+  - france-numerique-ensemble
 competences:
   - Gestion de Produit
   - UX
   - Développement Frontend
 ---
+
 J'essaye de glisser le plus loin possible sur la banquise

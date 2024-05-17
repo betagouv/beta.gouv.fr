@@ -17,5 +17,6 @@ missions:
       - pspc
 startups:
   - versementgetorix
+  - pspc
 ---
 Coach, Designer de service

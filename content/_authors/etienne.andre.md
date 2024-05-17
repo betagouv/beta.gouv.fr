@@ -1,7 +1,7 @@
 ---
 fullname: Etienne ANDRE
 role: Data analyst
-domaine: Produit
+domaine: Data
 github: etienneandre9
 missions:
   - start: 2022-09-06

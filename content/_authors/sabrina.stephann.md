@@ -1,5 +1,5 @@
 ---
-fullname: Sabrina STEPHANN
+fullname: Sabrina Stephann
 role: Chargée de support
 domaine: Autre
 missions:

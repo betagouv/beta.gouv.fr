@@ -17,6 +17,9 @@ phases:
     end: 2021-11-01
   - name: construction
     start: 2021-11-01
+thematiques:
+  - Écologie
+  - Mer
 ---
 ## Le contexte
 

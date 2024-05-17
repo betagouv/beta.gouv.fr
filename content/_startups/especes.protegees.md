@@ -12,6 +12,8 @@ phases:
     end: 2023-11-27
   - start: 2024-01-02
     name: construction
+thematiques:
+  - Écologie
 ---
 ## Contexte
 
@@ -41,6 +43,4 @@ Avant d'inciter les instructeurs à réaliser plus de contrôles, il est indispe
 - Le produit pourra, à partir de là, embarquer les autres acteurs de la procédure et remplacer les outils de pilotage "maison" sur chaque territoire.
 - A terme, de nombreuses fonctionnalités sont envisagées afin de faciliter davantage la gestion de la procédure.
 
-Dès lors que le produit sera adopté par les services instructeurs, car leur apportant suffisamment de valeur au quotidien, l'objectif sera qu'il facilite aussi l'organisation, la planification et le suivi des contrôles. 
-
-
+Dès lors que le produit sera adopté par les services instructeurs, car leur apportant suffisamment de valeur au quotidien, l'objectif sera qu'il facilite aussi l'organisation, la planification et le suivi des contrôles.
