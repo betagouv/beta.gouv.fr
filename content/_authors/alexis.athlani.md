@@ -13,4 +13,13 @@ missions:
 startups:
   - sparte
 memberType: beta
+competences:
+  - Administration Système
+  - Data Science
+  - Développement Full-stack
+  - DevOps
+  - JavaScript/TypeScript
+  - PostgreSQL
+  - Python
+  - Product strategy
 ---
