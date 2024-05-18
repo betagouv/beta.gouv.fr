@@ -5,7 +5,7 @@ domaine: Développement
 github: Anto59290
 missions:
   - start: 2023-05-15
-    end: 2023-10-01
+    end: 2024-10-15
     status: independent
     employer: ''
     startups:
