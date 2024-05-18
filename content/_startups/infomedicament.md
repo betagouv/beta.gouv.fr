@@ -2,8 +2,8 @@
 title: Info Médicament
 mission: >-
   Mettre à disposition les informations et données autour du médicament aux
-  patients et aux professionnels de santé afin de mieux encadrer l’usage des
-  médicaments
+  patients et aux professionnels de santé afin de favoriser un meilleur usage
+  des médicaments
 incubator: dinum
 contact: elsa.le-duigou@beta.gouv.fr
 sponsors:
@@ -41,8 +41,9 @@ Cette investigation veut vérifier qu’un accès à des informations fiables, a
 **InfoMedicament.gouv.fr** met à disposition des informations claires, fiables, complètes et compréhensibles, mais aussi structurées automatiquement pour mettre en valeur les informations clés et pertinentes pour les patient.es. A terme, elles seront aussi accessibles à tous grâce une API publique.
 
 
- #
+ 
 ---
+
 
 
 
