@@ -2,6 +2,7 @@
 title: L'Incubateur du Ministère de l'Agriculture et de la Souveraineté alimentaire
 short_description: Lancé à l'été 2024, cet incubateur fait émerger et soutient les services numériques <span class="fr-text--bold">participant à la transition agricole et alimentaire</span>.
 owner: /organisations/agriculture
+logo: logo_beta.png
 address: 78 Rue de Varenne, 75007 Paris
 highlighted_startups:
     - ma-cantine-egalim
