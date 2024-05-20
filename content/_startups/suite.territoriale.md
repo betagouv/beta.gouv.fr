@@ -4,7 +4,7 @@ mission: >-
   de services mutualisés 
 incubator: anct
 title: Suite territoriale
-contact: thibaud.chambert-loir@anct.gouv.fr
+contact: suiteterritoriale@anct.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/anct
