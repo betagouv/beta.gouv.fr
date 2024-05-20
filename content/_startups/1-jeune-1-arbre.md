@@ -14,7 +14,6 @@ usertypes:
   - etablissement-scolaire
 sponsors:
   - /organisations/dgpe
-  - /organisations/agriculture
 phases:
   - name: investigation
     start: 2024-05-14
