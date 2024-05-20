@@ -3,7 +3,7 @@ title: Ma Cantine
 mission: Accompagner les acteurs de la restauration collective pour proposer une alimentation de qualité, saine et durable
 sponsors: 
   - /organisations/dgal
-incubator: dinum
+incubator: agriculture
 phases:
     - name: investigation
       start: 2020-09-01
