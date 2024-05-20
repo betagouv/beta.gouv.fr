@@ -3,6 +3,7 @@ mission: Simplifier la plantation d'arbres par les scolaires
 incubator: dinum
 title: 1 Jeune 1 Arbre
 contact: melanie.briand@beta.gouv.fr
+incubator: agriculture
 thematiques:
   - Agriculture
   - Écologie
@@ -15,7 +16,6 @@ usertypes:
 sponsors:
   - /organisations/dgpe
   - /organisations/agriculture
-incubator: agriculture
 phases:
   - name: investigation
     start: 2024-05-14
