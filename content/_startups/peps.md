@@ -3,7 +3,7 @@ title: Peps
 mission: Faciliter la transition du modèle agricole grâce au partage d'expériences
 sponsors:
   - /organisations/dgal
-incubator: dinum
+incubator: agriculture
 phases:
   - name: investigation
     start: 2019-05-13 
