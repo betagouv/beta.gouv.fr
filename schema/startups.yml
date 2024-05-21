@@ -39,6 +39,7 @@ mapping:
             - /organisations/ddtm34
             - /organisations/ddtm29
             - /organisations/dia-tnd
+            - /organisations/direction-generale-des-etrangers-en-france
             - /organisations/departement-oise
             - /organisations/departement-pas-de-calais
             - /organisations/departement-var
@@ -59,6 +60,7 @@ mapping:
             - /organisations/dgesco
             - /organisations/dgesip
             - /organisations/dgfip
+            - /organisations/dgpe
             - /organisations/dgitm
             - /organisations/dgos
             - /organisations/dgpat
@@ -194,6 +196,10 @@ mapping:
             - entreprise
             - association
             - etablissement-scolaire
+  "thematiques":
+    type:      seq
+    sequence:
+        - type:      str
   "analyse_risques":
     type:      bool
   "analyse_risques_url":
@@ -206,3 +212,5 @@ mapping:
      - totalement conforme
      - partiellement conforme
      - non conforme
+  "mon_service_securise":
+    type:      bool

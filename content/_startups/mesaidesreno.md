@@ -9,67 +9,76 @@ accessibility_status: non conforme
 link: https://mesaidesreno.beta.gouv.fr
 repository: https://github.com/betagouv/reno
 techno:
-    - Next.js
-    - React
-    - publi.codes
+  - Next.js
+  - React
+  - publi.codes
 sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
     start: 2024-12-15
+  - start: 2024-02-15
+    name: construction
+thematiques:
+  - Écologie
 ---
-# Le problème de politique publique
+## Contexte
 
-Le logement représente 11 % de nos émissions de gaz à effet de serre (GES). Il s’agit du deuxième plus gros poste d’émission après les transports. Le gouvernement s’est dès lors fixé des ambitions importantes en matière de rénovation énergétique des bâtiments.
+**Le logement représente 11 % de nos émissions de gaz à effet de serre (GES).** Il s’agit du deuxième plus gros poste d’émission après les transports. Le gouvernement s’est dès lors fixé des ambitions importantes en matière de rénovation énergétique des bâtiments.
 
-- “En finir avec les passoires thermiques et renforcer la performance énergétique des bâtiments.”
-- “Accélérer la rénovation et améliorer le niveau de performance énergétique des bâtiments publics et des logements, en tenant l’objectif de 700 000 rénovations par an (MaPrimeRénov’).” Feuille de route du MTE
+- “*En finir avec les passoires thermiques et renforcer la performance énergétique des bâtiments*.”
+- “*Accélérer la rénovation et améliorer le niveau de performance énergétique des bâtiments publics et des logements, en tenant l’objectif de 700 000 rénovations par an (MaPrimeRénov’).*” Feuille de route du MTE
 
-La mise en oeuvre de cette politique a été confié à l’ANAH, notamment à travers le dispositifs [France Rénov’](https://france-renov.gouv.fr/), qui a en charge l’accompagnement des particuliers dans leur projets de rénovation énergétique et la distribution des aides nationales.
+Avec un objectif de **700 000 rénovations par an**, les moyens accordés par l’État pour la rénovation du parc privé sont inédits en 2024 : **4 milliards d’euros sont dédiés à l’aide au financement des ménages** dans le cadre de MaPrimeRénov’ (ANAH), auxquels s’ajoutent des aides locales et d’autres dispositifs. 
 
-De son côté, Le Secrétariat général à la planification écologique (SGPE) lance le coach Agir (nom provisoire), un service numérique qui a pour **ambition d’accompagner les ménages de la manière la plus personnalisée possible** dans la **transition écologique** autour des grandes thématiques de la transition : comprendre les enjeux, évaluer ses impacts, partager les bonnes pratiques avec ses concitoyens, simuler son éligibilité aux dispositifs d’accompagnement… **L’une des thématiques centrales du “coach” est la rénovation énergétique des logements.**
+La plupart des ménages propriétaires (occupants ou bailleurs) sont désormais éligible à une aide substentiel de l’état. Pourtant, l’incitation financière ne semble pas jouer pleinement son rôle. La barrière financière reste encore l’un des principaux freins à la construction d’un projet de rénovation énergétique.
 
-Dans ce contexte, l’ANAH, le SGPE et la DINUM ont décidé d’associer leurs efforts pour améliorer l’information, la sensibilisation et l’accompagnement des usagers **dans les toutes premières étapes de la construction d’un projet de rénovation énergétique** de leur logement, en amont du parcours France Rénov’.
+**Dans ce contexte, l’ANAH, le SGPE et la DINUM** ont décidé d’associer leurs efforts pour simplifier et diffuser plus largement l’information sur les aides à la rénovation énergétique.
 
-# Les usagers et leur problèmes
+## Les problèmes des usagers
 
-Que l’on soit propriétaire bailleur ou occupant, appréhender la construction d’un projet de rénovation énergétique d’un logement se révèle souvent très complexe.
+En décembre 2023, l’Agence nationale pour l’information sur le logement (ANIL) a réalisé une enquête auprès d’un panel de 3000 ménages. Si plus de la moité d’entre-eux a réalisé ou envisage de réaliser à court terme des travaux de rénovation énergétiques, **69 % des participants à l’enquête jugent l’accès à l’information sur les aides à la rénovation trop compliqué.**
 
-L’un des principaux freins à la rénovation énergétique est la barrière financière. Une rénovation (performante) d’un logement réprésente souvent un investissement de plusieurs dizaine de milliers d’euros. Des dispositifs d’aides existent, cependant il reste souvent difficile pour les usagers de pouvoir les appréhender pour construire leur budget.
+Parmi les principaux griefs remontés lors de nos échanges avec des usagers:
 
-Des entretiens avec des usagers revèlent de nombreux obstacles dès les toutes premières étapes du parcours, parmi lesquels :
 - Des évolutions régulières des critères d’éligibilité et des barèmes;
 - Une superposition de dispositifs à l’échelle locale et nationale;
 - Une éligibilité aux aides basée sur de multiples critères, qui compliquent la lisibilité des dispositifs, notamment à travers les notions de performance de la rénovation;
-- L’existance de nombreuses plateformes commerciales (et parfois frauduleuses) en concurence avec le service public;
-La nécéssité avec la réforme de 2024 de faire un choix entre deux parcours d’accompagnement;
+- La craintes des “arnaques” et la défiance vis-à-vis de nombreuses démarches frauduleuse;
+- La nécéssité avec la réforme de 2024 de faire un choix entre deux parcours d’accompagnement;
 - Une abondance d’informations génériques et une difficultés à trouver les informations pertinentes par rapport à ma propre situation et celle de mon logement;
-La difficulté à évaluer le reste à charge, une fois les aides déduites;
+- La difficulté à évaluer le reste à charge, une fois les aides déduites;
 - Et parfois, la difficulté à identifier les bons interlocuteurs succeptibles de les accompagner
 (…)
 
-Depuis l’été 2023, France Rénov’ a mis en ligne une nouvelle version d’un simulateur d’éligibilité aux aides dont l’ambition est de simplifier l’accès aux informations sur les aides. L’investigation Mes Aides Rénov’ s’inscrit dans la continuité de ces travaux et de la stratégie de l’ANAH de construction d’un “pas-à-pas” de la rénovation énergétique.
+## La solution
 
-# L’hypothèse de solution
+**Mes Aides Réno aide les usagers à construire le projet de rénovation énergétique de leur logement en adressant deux questions récurrentes :**
 
-Dans le cadre de l’expérimentation du Coach Agir, l’investigation à pour objectif d’aider les usagers à répondre à deux questions principales :
+1. Quels montants d’aide (nationales et locales) puis-je mobiliser pour mon projet ? 
 
-- Quels montant d’aide (nationales et locales) puis-je mobiliser pour mon projet de rénovation ?
-- Quel budget envisager pour mon projet de rénovation ? Quel sera mon reste à charge ?
-- [et dans 2nd temps] où sont les gisements d’économie dans mon logement ? Quels travaux réaliser en priorité ?
+2. Quel budget envisager ? Et surtout, quel sera mon reste à charge ? **(à venir)**
 
-Les usagers seront systhématiquement orientés vers leurs conseillers France Rénov’ suite à une simulation.
+**L’objectif du produit est triple:**
 
-L’hypothèse de solution est un modèle de calcul ouvert et réutilisable via API par n’importe quel service public, à commencer par le Coach FNV. Un modèle respectant les plus hauts standards des modèles numériques publics et permettant :
+- Fournir aux usagers une estimation fiable et précise pour encourager les projets de rénovation
+- Ouvrir et diffuser le plus largement possible les calculs d’éligibilité des aides à la rénovation sur les parcours usagers (interface web et API)
+- Informer les usagers sur les coûts des principaux gestes de rénovation, en exploitant les données MaprimeRénov’  **(à venir)**
 
-- de modéliser les calculs des aides à la rénovation (locale et nationale) en fonction des profils et situation des usagers
-- de donner l’accès aux données de calcul d’aides à des services tierces
-- de proposer une interface pour permette aux usagers de réaliser des simulations en autonomie
+**En fin de simulation, les usagers sont dirigés vers un conseiller France Rénov’.** Mes Aides Réno s’inscrit directement dans la stratégie de l’accompagnement “pas à pas” fixé par l’ANAH dans la feuille Numérique et données pour la planification écologique.
 
-# Les indicateurs d’impact
+## Notre stratégie de déploiement
 
-👉 Nombre de simulations effectuées au total
+**L’objectif de Mes Aides Réno est de fournir une information aux usagers au bon moment de leur parcours, quelque soient leurs portes d’entrée.**
 
-👉 Nombre de réutilisation des données par des services tiers
+Le service est disponible sur un plateforme dédié (https://mesaidesreno.beta.gouv.fr/), mais est également conçu pour être une solution distribuée. La stratégie de déploiement de Mes Aides Réno reposera en partie sur des partenariats avec des services existants et disposant déjà d’une audience auprès des usagers visés. L’objectif des 6 prochains mois est de valider le modèles et l’impact du produit dans la perspectives d’une pleine réintégration à l’écosystème France Rénov’ début 2025.
 
-👉 % de prise de rendez-vous avec un conseiller France Rénov’ suite à une simulation
+## Nos Indicateurs d’impact
+
+À horizon fin 2024 :
+
+ 👉 Nombre de simulations terminées au total : **50k simulation / mois**
+
+👉  Nombre d’intégrations des données par des services tiers : **5 intégrations par des services tiers** (publics ou privés)
+ 
+👉  Conversion : **10% de prise de rdv** avec un conseiller France Rénov’ suite à une simulation

@@ -4,7 +4,7 @@ role: Experte métier IAE
 domaine: Intraprenariat
 missions:
   - start: 2022-01-01
-    end: 2024-04-01
+    end: 2024-12-31
     status: admin
     employer: ''
     startups:

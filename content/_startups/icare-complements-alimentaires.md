@@ -3,18 +3,21 @@ title: Compl'Alim
 mission: Vers une circulation de compléments alimentaires conformes à la réglementation, sûrs en termes de santé publique et adaptés aux besoins physiologiques des consommateurs
 sponsors: 
   - /organisations/dgal
-incubator: dinum
+incubator: agriculture
 phases:
     - name: investigation
       start: 2023-06-02
     - name: construction
       start: 2023-11-01
+link: https://compl-alim.beta.gouv.fr/accueil
+repository: https://github.com/betagouv/complements-alimentaires
 stats: false
-contact: jennifer.stephan@beta.gouv.fr
+contact: compl-alim@beta.gouv.fr
 usertypes:
   - entreprise
+thematiques:
+  - Santé
 ---
-
 Cette startup d'Etat est sponsorisée par la Direction Générale de l'alimentation au ministère de l'agriculture. Après une phase d'investigation de juin à octobre 2023, l'équipe a validé un budget de 200 000 euros pour une première phase de construction de 6 mois. 
 
 Le prochain comité d'investissement se tiendra en avril 2024 et arbitrera le continuum d'une construction de solution numérique qui remplacera et améliorera un outil existant, transféré par la DGCCRF à la DGAl. 

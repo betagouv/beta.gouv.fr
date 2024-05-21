@@ -14,8 +14,9 @@ stats: false
 contact: ateliernumerique.snum@culture.gouv.fr
 usertypes:
   - particulier
+thematiques:
+  - Formation
 ---
-
 ### Imaginé dans le cadre du 3ème appel à candidatures du Ministère de la Culture (Atelier Numérique du Service du numérique), Science infuse est un assistant personnel à disposition des enseignants de sciences. Il permet de générer plus rapidement et facilement ses supports de cours en utilisant des contenus vérifiés et validés par Universcience. Photos, vidéos, assistance rédactionnelle, quizz : personnalisez vos supports de cours en quelques minutes.   
  
 ## Contexte  
@@ -27,6 +28,4 @@ Universcience, qui regroupe le Palais de la découverte et la Cité des sciences
 
 
 ## Investigation  
-Pour répondre à cet enjeu, nous avons interrogé un panel d’enseignants du primaire et du secondaire afin de visualiser les étapes de création de leurs supports de cours, les moments clés et les problèmes rencontrés. Après une quinzaine d'entretiens avec des profils différents, la nécessité de proposer des contenus de sources fiables et adaptés au programme scolaire est primordiale. S’ajoutent à cela l’importance de mieux de connaitre le niveau scolaire des élèves pour adapter rapidement le cours et le rendre plus impactant et assimilable. Cette première phase d'investigation a démontré l’importance de la création d’un outil spécifiquement conçu pour les enseignants, le besoin de gagner en temps et en efficacité et d’identifier un espace de confiance proposant des contenus vérifiés. 
-
-
+Pour répondre à cet enjeu, nous avons interrogé un panel d’enseignants du primaire et du secondaire afin de visualiser les étapes de création de leurs supports de cours, les moments clés et les problèmes rencontrés. Après une quinzaine d'entretiens avec des profils différents, la nécessité de proposer des contenus de sources fiables et adaptés au programme scolaire est primordiale. S’ajoutent à cela l’importance de mieux de connaitre le niveau scolaire des élèves pour adapter rapidement le cours et le rendre plus impactant et assimilable. Cette première phase d'investigation a démontré l’importance de la création d’un outil spécifiquement conçu pour les enseignants, le besoin de gagner en temps et en efficacité et d’identifier un espace de confiance proposant des contenus vérifiés.

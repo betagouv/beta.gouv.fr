@@ -6,9 +6,9 @@ avatar: https://avatars.githubusercontent.com/u/68907081?v=4
 github: MorganP-projects
 missions:
   - start: 2021-03-22
-    end: 2024-06-30
+    end: 2024-04-12
     status: independent
-    employer: Malte
+    employer: Malt
     startups:
       - france-numerique-ensemble
 startups:

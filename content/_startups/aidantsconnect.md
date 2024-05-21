@@ -23,6 +23,9 @@ usertypes:
   - particulier
 dashlord_url: https://dashlord.incubateur.net/url/aidantsconnect-beta-gouv-fr/
 accessibility_status: non conforme
+thematiques:
+  - Social
+  - Inclusion numérique
 ---
 ## Contexte
 
@@ -51,4 +54,4 @@ Ce dispositif permet à l'aidant de sécuriser juridiquement l'accompagnement et
 ## Pour aller plus loin
 
 Pour en savoir plus, [inscrivez-vous à notre newsletter mensuelle](https://aidantsconnect.beta.gouv.fr/) qui se trouve en bas de la page de notre site internet.
-N'hésitez pas à consulter également [notre page ressources](https://aidantsconnect.beta.gouv.fr/ressources/) et [notre FAQ](https://aidantsconnect.beta.gouv.fr/faq/) ! 
+N'hésitez pas à consulter également [notre page ressources](https://aidantsconnect.beta.gouv.fr/ressources/) et [notre FAQ](https://aidantsconnect.beta.gouv.fr/faq/) !

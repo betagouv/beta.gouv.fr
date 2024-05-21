@@ -23,9 +23,9 @@ phases:
   - name: acceleration
     start: 2022-01-01
 accessibility_status: non conforme
+thematiques:
+  - Écologie
 ---
-
-
 #  Introduction - contexte
 
 L’Etat met en œuvre une politique volontariste de soutien au développement des énergies renouvelables (EnR) électriques sous forme d’appel d’offres.

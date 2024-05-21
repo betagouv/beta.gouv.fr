@@ -12,7 +12,7 @@ menu:
   - Produit
 ---
 
-{% assign lang = page.lang | default: site.lang | default: "fr" %} {% include hero-page.html title=page.title light=true heroTitle=page.heroTitle %}
+{% assign startups_count = site.startups | count_all_active_startups %} {% assign lang = page.lang | default: site.lang | default: "fr" %} {% include hero-page.html title=page.title light=true heroTitle=page.heroTitle %}
 <section class="cards fr-py-6w">
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
@@ -25,15 +25,15 @@ menu:
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
       <div class="fr-col-md-3 fr-col-sm-3 text-center">
         <img src="/img/layouts/jobs/world.svg" style="width: 64px" alt="" /><br />
-        <strong>153 équipes</strong><br />dédiées chacune<br />à leur produit
+        <strong>{{ startups_count }} équipes</strong><br />dédiées chacune<br />à leur produit
       </div>
       <div class="fr-col-md-3 fr-col-sm-3 text-center">
         <img src="/img/layouts/jobs/member.svg" style="width: 64px" alt="" /><br />
-        <strong>1253 membres</strong><br />venant du public<br />et du privé
+        <strong>{% render_community_stats total %} membres</strong><br />venant du public<br />et du privé
       </div>
       <div class="fr-col-md-3 fr-col-sm-3 text-center">
         <img src="/img/layouts/jobs/chat.svg" style="width: 64px" alt="" /><br />
-        <strong>10 évènements / semaine</strong><br />formations, alteliers,<br />retours d'expérience
+        <strong>10 évènements / semaine</strong><br />formations, ateliers,<br />retours d'expérience
       </div>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-mt-4w">
@@ -43,34 +43,52 @@ menu:
       </div>
     </div>
 
-    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center" id="metiers">
       <div class="fr-col-md-4 fr-col-sm-6 fr-text--sm">
-        <img src="/img/layouts/jobs/developpement.svg" style="width: 350px; max-width: 100%" alt="" /><br />
+        <div class="job-team-animation-container">
+          <img src="/assets/home/dev_back.svg" class="job-team-animation-background" alt="" />
+          <img src="/assets/home/dev.svg" class="job-team-animation-foreground" alt="" />
+        </div>
         <h3 class="fr-h4 fr-mb-0">Développement</h3>
         Conception front et back, architecture, dev ops, cartographie, accessibilité, sécurité...
       </div>
       <div class="fr-col-md-4 fr-col-sm-6 fr-text--sm">
-        <img src="/img/layouts/jobs/design.svg" style="width: 350px; max-width: 100%" alt="" /><br />
+        <div class="job-team-animation-container">
+          <img src="/assets/home/design_back.svg" class="job-team-animation-background" alt="" />
+          <img src="/assets/home/design.svg" class="job-team-animation-foreground" alt="" />
+        </div>
         <h3 class="fr-h4 fr-mb-0">Design</h3>
         Recherche utilisateur, conception de services, design d’interaction, facilitation, contenu, accessibilité...
       </div>
       <div class="fr-col-md-4 fr-col-sm-6 fr-text--sm">
-        <img src="/img/layouts/jobs/deploiement.svg" style="width: 350px; max-width: 100%" alt="" /><br />
+        <div class="job-team-animation-container">
+          <img src="/assets/home/deploiement_back.svg" class="job-team-animation-background" alt="" />
+          <img src="/assets/home/deploiement.svg" class="job-team-animation-foreground" alt="" />
+        </div>
         <h3 class="fr-h4 fr-mb-0">Déploiement</h3>
         Recrutement, prospection, support, formation, animation de communauté, acquisition...
       </div>
       <div class="fr-col-md-4 fr-col-sm-6 fr-text--sm">
-        <img src="/img/layouts/jobs/produit.svg" style="width: 350px; max-width: 100%" alt="" /><br />
+        <div class="job-team-animation-container">
+          <img src="/assets/home/intra_back.svg" class="job-team-animation-background" alt="" />
+          <img src="/assets/home/intra.svg" class="job-team-animation-foreground" alt="" />
+        </div>
         <h3 class="fr-h4 fr-mb-0">Produit</h3>
         Vision produit, priorisation des fonctionnalités, roadmap...
       </div>
       <div class="fr-col-md-4 fr-col-sm-6 fr-text--sm">
-        <img src="/img/layouts/jobs/data.svg" style="width: 350px; max-width: 100%" alt="" /><br />
+        <div class="job-team-animation-container">
+          <img src="/assets/home/produit_back.svg" class="job-team-animation-background" alt="" />
+          <img src="/assets/home/produit.svg" class="job-team-animation-foreground" alt="" />
+        </div>
         <h3 class="fr-h4 fr-mb-0">Data</h3>
         Analyse de données, visualisation et modélisation...
       </div>
       <div class="fr-col-md-4 fr-col-sm-6 fr-text--sm">
-        <img src="/img/layouts/jobs/coach.svg" style="width: 350px; max-width: 100%" alt="" /><br />
+        <div class="job-team-animation-container">
+          <img src="/assets/home/coach_back.svg" class="job-team-animation-background" alt="" />
+          <img src="/assets/home/coach.svg" class="job-team-animation-foreground" alt="" />
+        </div>
         <h3 class="fr-h4 fr-mb-0">Coach</h3>
         Stratégie, vision, agilité et développement d’un produit numérique...
       </div>
@@ -82,16 +100,31 @@ menu:
         <p>Retrouvez nos offres de missions ou d’emplois sur différentes plateformes :</p>
       </div>
     </div>
-    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-8w" style="justify-content: space-around">
+    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-4w" style="justify-content: space-between">
       <div class="fr-col-md-5 fr-col-sm-12 fr-text--sm fr-p-3w" style="border: 1px solid var(--border-default-grey)">
         <h3 class="fr-h5 fr-mb-2w">Welcome to the jungle</h3>
-        <p>Retrouvez nos <strong>missions</strong> ouverts aux indépendant(e)s et les postes d’agent(e)s du réseau beta.gouv.fr.</p>
+        <p>Retrouvez nos <strong>missions</strong> ouvertes aux indépendant(e)s et les postes d’agent(e)s du réseau beta.gouv.fr.</p>
         <a class="fr-btn" href="https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv" target="_blank" rel="noopener noreferrer">Voir nos missions</a>
       </div>
       <div class="fr-col-md-5 fr-col-sm-12 fr-text--sm fr-p-3w" style="border: 1px solid var(--border-default-grey)">
         <h3 class="fr-h5 fr-mb-2w">Choisir le service public</h3>
         <p>Découvrez nos <strong>postes</strong> d’agent(e)s publics sur la plateforme d’emploi dédiée au service public.</p>
         <a class="fr-btn" href="https://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668/" target="_blank" rel="noopener noreferrer">Voir nos offres de poste</a>
+      </div>
+    </div>
+
+    <div class="fr-grid-row fr-grid-row--gutters fr-mt-4w-8w fr-mb-8w fr-p-2w" style="border: 4px solid var(--border-open-blue-france); border-bottom-right-radius: 120px">
+      <div class="fr-col-12">
+          <div class="fr-grid-row">
+            <div class="fr-col-md-8 fr-col-sm-12">
+              <h3 style="color: var(--text-action-high-blue-france)">Vous êtes déjà agent public ?</h3>
+              <p>Vous êtes en contrat de droit public (fonctionnaire ou contractuel) ?</p>
+              <p>Vous pouvez devenir intrapreneur(e) pour résoudre une problématique publique.</p>
+              <br />
+              <a href="mailto:contact@beta.gouv.fr?subject=Proposition%20d'idée" class="fr-btn fr-btn--secondary fr-fi-mail-line fr-btn--icon-left">Contactez-nous</a>
+            </div>
+            <div class="fr-col-md-4 fr-col-sm-12 text-center"><img src="/img/layouts/jobs/produit.svg" style="width: 350px; max-width: 100%" alt="" /><br /></div>
+          </div>
       </div>
     </div>
 
@@ -173,22 +206,22 @@ menu:
         <a href="https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/team-1" target="_blank" rel="noopener norefferer">Voir toutes nos interviews</a>
       </div>
     </div>
-
-    <div class="fr-grid-row">
-      <div class="fr-col-12">
-        <div class="fr-mt-10w fr-p-6w" style="border: 4px solid var(--border-open-blue-france); border-bottom-right-radius: 120px">
-          <div class="fr-grid-row">
-            <div class="fr-col-md-8 fr-col-sm-12">
-              <h3 style="color: var(--text-action-high-blue-france)">Vous êtes déjà agent public ?</h3>
-              <p>Vous êtes en contrat de droit public (fonctionnaire ou contractuel) ?</p>
-              <p>Vous pouvez devenir intrapreneur(e) pour résoudre une problématique publique.</p>
-              <br />
-              <a href="mailto:contact@beta.gouv.fr?subject=Proposition%20d'idée" class="fr-btn fr-btn--secondary fr-fi-mail-line fr-btn--icon-left">Contactez-nous</a>
-            </div>
-            <div class="fr-col-md-4 fr-col-sm-12 text-center"><img src="/img/layouts/jobs/produit.svg" style="width: 350px; max-width: 100%" alt="" /><br /></div>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 </section>
+
+<script type="text/javascript">
+  var teambg = document.getElementsByClassName("job-team-animation-background");
+  var teamcontainer = document.getElementById("metiers");
+  window.addEventListener("scroll", function () {
+    var value = window.scrollY;
+    var containerElement = teamcontainer.getBoundingClientRect();
+    var bodyRect = document.body.getBoundingClientRect();
+    var offset = containerElement.top - (bodyRect.top + window.innerHeight);
+    if (value > offset && value < containerElement.top + window.innerHeight - bodyRect.top) {
+      const val = value - containerElement.height;
+      for (var i = 0; i < teambg.length; i++) {
+        teambg[i].style.transform = "scale(" + (1 + (0.2 * val) / containerElement.height) + ")";
+      }
+    }
+  });
+</script>
