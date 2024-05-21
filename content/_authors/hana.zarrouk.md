@@ -1,5 +1,5 @@
 ---
-fullname: Hana Zarrouk
+fullname: Hana ZARROUK
 role: Product designer
 domaine: Design
 link: https://hanazarrouk.com/
@@ -13,5 +13,9 @@ missions:
 startups:
   - homologation
 memberType: beta
+competences:
+  - Product design
+  - UX
+  - UI
 ---
 

@@ -26,8 +26,10 @@ phases:
     end: 2021-10-29
   - name: acceleration
     start: 2021-11-01
+thematiques:
+  - Travail / Emploi
+  - Open-Data
 ---
-
 ## Le problème
 
 Fin septembre 2020, le nombre de bénéficiaires du revenu de solidarité active (RSA), résidant en France entière, est estimé à 2,03 millions de foyers. Réussir son insertion professionnelle par l’emploi nécessite en règle générale d’avoir levé tous les “freins périphériques” (ex. avoir une solution de logement, de garde d’enfant, parler le français). Or, aujourd’hui de très nombreux bénéficiaires engagés dans un parcours d’insertion peinent à trouver des solutions à ces problématiques.
@@ -80,9 +82,6 @@ le service Dora est déjà implanté sur votre territoire ?
 - rendez-vous sur <https://dora.inclusion.beta.gouv.fr> pour rechercher des services pour lever les freins périphériques des bénéficiaires que vous accompagnez.\
    _Astuce 💡: mettez le lien en favori ⭐ pour gagner du temps en entretien quand un frein périphérique est diagnostiqué._
 - consultez la [page statistique Dora et la carte d'état du déploiement de l'outil](https://dora.inclusion.beta.gouv.fr/stats).
-
----
-
 Enfin, pour en savoir plus sur le service Dora :
 
 - 📰 abonnez vous à la [lettre d'information](https://d4c653e7.sibforms.com/serve/MUIEAEkY4naptXBIq5NdRg5UPxP1wmwbGCinne5c1gynY-wfrZ0Dz0QP_NqkXtfyYqhdaq3AO8VFZJ9giRi9ZT0eah7Ut2U0LeKSTVIHQb_5nhvTLUMWXo9ZMeIYCHVlzmjkXGQ66S5ewcYpSADUgV--2RVZ_mrnsRJQoCNwZ8y-sWzfQsEzfKuTA7SLbZ_dWeqaigudym3EaiHT)

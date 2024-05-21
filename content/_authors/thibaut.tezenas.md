@@ -6,12 +6,13 @@ link: https://github.com/ttdm
 github: ttdm
 missions:
   - start: 2024-03-18
-    end: 2024-06-18
-    status: service
+    end: 2024-12-18
+    status: independent
+    employer: Malt
     startups:
-      - mission-transition-ecologique
+      - transition-ecologique-des-entreprises
 startups:
-  - mission-transition-ecologique
+  - transition-ecologique-des-entreprises
 memberType: beta
 ---
 

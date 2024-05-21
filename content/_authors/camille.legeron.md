@@ -1,7 +1,7 @@
 ---
 fullname: Camille Legeron
 role: Développeuse
-domaine: Autre
+domaine: Développement
 missions:
   - start: 2021-01-10
     end: 2024-08-05

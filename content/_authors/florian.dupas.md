@@ -6,11 +6,10 @@ link: https://www.kwalia.fr
 github: anymus
 missions:
   - start: 2022-05-16
-    end: 2023-09-29
+    end: 2024-09-29
     status: independent
     employer: OCTO
-    startups:
-      - l-application-du-cej
+    startups: []
 badges:
   - segur
 competences:
