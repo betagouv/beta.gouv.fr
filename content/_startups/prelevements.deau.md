@@ -5,6 +5,8 @@ mission: >-
   contrôle des autorisations environnementales
 sponsors:
   - /organisations/dgeb
+  - >-
+    /organisations/direction-de-l-environnement-de-l-amenagement-et-du-logement-de-la-reunion
 incubator: mtes
 contact: valentin.le-tellier@developpement-durable.gouv.fr
 accessibility_status: non conforme
