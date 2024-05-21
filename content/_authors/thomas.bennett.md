@@ -16,4 +16,4 @@ memberType: beta
 competences:
   - Développement Full-stack
 ---
-Développeur logiciel avec un intérêt pour la qualité et la collaboration avec les équipes métiers, je me reconnais dans les valeurs et les pratiques de l'XP programming. Je suis aussi utilisateur de logiciels libres. Quand je ne développe pas, on peut me trouver dans des salles d'escalades, dans les rues à faire photographier notre quotidien ou bien dans un café à écrire.
+Développeur logiciel avec un intérêt pour la qualité et la collaboration avec les équipes métiers. Je partage les valeurs et les pratiques de l'XP programming. Je suis aussi utilisateur de logiciels libres. Quand je ne développe pas, on peut me trouver dans des salles d'escalades, dans les rues à photographier notre quotidien ou bien dans un café à écrire.
