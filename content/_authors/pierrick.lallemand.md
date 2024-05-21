@@ -9,4 +9,8 @@ missions:
     employer: Malt
     startups:
       - a-just
+competences:
+  - Communication
+  - Coaching
+memberType: beta
 ---

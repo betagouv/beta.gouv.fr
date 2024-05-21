@@ -7,6 +7,8 @@ missions:
     end: 2024-07-05
     status: admin
     employer: ''
+    startups:
+      - pv.facile
 competences:
   - Intrapreneur(se)
 memberType: beta

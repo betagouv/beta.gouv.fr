@@ -3,7 +3,7 @@ mission: >-
   Faciliter le processus de contrôle et surveillance des denrées alimentaires en
   permettant la circulation et l'accès en temps réel d'une donnée de qualité
   entre les différents acteurs.
-incubator: dinum
+incubator: agriculture
 title: PSPC
 contact: diane.cuzzucoli@agriculture.gouv.fr
 accessibility_status: non conforme

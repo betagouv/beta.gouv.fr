@@ -52,8 +52,8 @@ La plateforme La bonne alternance a été consolidée par différentes données 
 Concernant les données, sont maintenant exposés : 
 - Les offres de formation en apprentissage, issues du [catalogue des formations en apprentissage](https://catalogue.apprentissage.beta.gouv.fr/) ;
 - Les besoins exprimés par de très petites entreprises (TPE) ou des petites et moyennes entreprises (PME) auprès de leur opérateur de compétences (OPCO) ou de sites partenaires grâce [au service de dépôt d'offres simplifié de La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/acces-recruteur) ;
-- Les offres d’emploi en alternance, issues de [l’API “offres d’emploi”](https://pole-emploi.io/data/api/offres-emploi) de Pôle emploi ;
-- Les entreprises auprès desquelles adresser une candidature spontanée, identifiées grâce à un algorithme prédictif de Pôle emploi, rendant accessible le marché caché de l’emploi en analysant les recrutements passés pour prédire ceux à venir.
+- Les offres d’emploi en alternance, issues de [l’API “offres d’emploi”](https://francetravail.io/data/api/offres-emploi) de France travail ;
+- Les entreprises auprès desquelles adresser une candidature spontanée, identifiées grâce à l'analyse de diverses données publiques, rendant accessible le marché caché de l’emploi en analysant les recrutements passés pour prédire ceux à venir.
 
 Concernant les fonctionnalités, sont développés : 
 - [Un service de dépôt d’offres](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/matcha) accessible aux TPE, PME et aux CFA qui souhaitent rendre visibles leurs partenariats avec des entreprises : il permet d’exprimer un besoin en recrutement en quelques clics, de le multi-diffuser sur les plateformes les plus consultées par les candidats et de le gérer simplement ;
