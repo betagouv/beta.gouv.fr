@@ -3,14 +3,16 @@ title: Compl'Alim
 mission: Vers une circulation de compléments alimentaires conformes à la réglementation, sûrs en termes de santé publique et adaptés aux besoins physiologiques des consommateurs
 sponsors: 
   - /organisations/dgal
-incubator: dinum
+incubator: agriculture
 phases:
     - name: investigation
       start: 2023-06-02
     - name: construction
       start: 2023-11-01
+link: https://compl-alim.beta.gouv.fr/accueil
+repository: https://github.com/betagouv/complements-alimentaires
 stats: false
-contact: jennifer.stephan@beta.gouv.fr
+contact: compl-alim@beta.gouv.fr
 usertypes:
   - entreprise
 thematiques:

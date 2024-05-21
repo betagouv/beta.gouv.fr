@@ -1,7 +1,7 @@
 ---
 fullname: Valentin LE TELLIER
 role: Intrapreneur
-domaine: Animation
+domaine: Intraprenariat
 github: vletellier
 missions:
   - start: 2023-04-24
@@ -12,5 +12,7 @@ missions:
       Réunion
     startups:
       - prelevements.deau
+startups:
+    - prelevements.deau
 memberType: beta
 ---

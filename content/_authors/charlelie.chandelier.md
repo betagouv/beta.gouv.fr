@@ -9,4 +9,5 @@ missions:
     employer: ''
     startups:
       - snu
+memberType: beta
 ---

@@ -1,7 +1,9 @@
 ---
-mission: Aider les agents en recherche de mobilité à identifier les opportunités numériques en inter-ministériel
+mission: >-
+  Aider les agents en recherche de mobilité à identifier les opportunités
+  numériques en inter-ministériel
 incubator: dinum
-title: Investigation d''un pôle de compétences numérique
+title: Pôle de compétences numériques de l'Etat
 contact: stephanie.dubois@modernisation.gouv.fr
 accessibility_status: non conforme
 sponsors:
