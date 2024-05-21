@@ -7,4 +7,5 @@ missions:
     end: 2024-12-17
     status: service
     employer: Dinum
+memberType: beta
 ---
