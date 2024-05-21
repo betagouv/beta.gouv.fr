@@ -1,5 +1,5 @@
 ---
-fullname: Hilarie AYAFOR
+fullname: Hilarie Ayafor
 role: Prestataire Malt
 domaine: Autre
 missions:

@@ -5,7 +5,7 @@ domaine: Développement
 github: tomibennett
 missions:
   - start: 2023-10-16
-    end: 2024-04-16
+    end: 2024-06-16
     status: independent
     employer: Omnicité
     startups:

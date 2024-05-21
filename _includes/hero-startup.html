@@ -6,6 +6,13 @@
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="{% if screenshot_file %}fr-col-lg-6{% endif %}">
+
+        {% if include.startup.events.last.name == "national_impact" %}
+        <span class="fr-badge fr-badge--success">Service à impact national</span>
+        {% elsif include.startup.fast %}
+        <span class="fr-badge fr-badge--new">Lauréat FAST</span>
+        {% endif %}
+          
         <h1>{{ include.startup.title | escape }}</h1>
         {% if include.startup.mission %}
           <p class="hero__startup__mission fr-mt-3w fr-h3">
@@ -13,7 +20,7 @@
           </p>
         {% endif %}
         {% if include.startup.link.size > 0 %}
-          <a href="{{ include.startup.link }}" title="{{ include.startup.title }} - nouvelle fenêtre" class="fr-link" target="_blank">{{ include.startup.link }}</a>
+          <a href="{{ include.startup.link }}" title="{{ include.startup.title }} - nouvelle fenêtre" class="fr-link" target="_blank">{{ include.startup.link | remove:'www.' | split: "//" | last | split: "/" | first }}</a>
         {% endif %}
         <ul class="fr-mt-3w fr-tags-group">
           <li>

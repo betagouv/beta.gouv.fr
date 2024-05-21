@@ -20,6 +20,9 @@ usertypes:
   - particulier
   - collectivite-territoriale
 link: https://mediature.incubateur.net/
+thematiques:
+  - Collectivités
+  - Social
 ---
 Médiature : améliorer le suivi des demandes adressées par les citoyens aux médiateurs des collectivités territoriales.
 

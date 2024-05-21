@@ -1,6 +1,6 @@
 ---
-fullname: yohann zaika
-role: operateur validation
+fullname: Yohann Zaika
+role: Opérateur Validation
 domaine: Autre
 missions:
   - start: 2023-07-20
@@ -12,6 +12,8 @@ missions:
 startups:
   - dossierfacile
 memberType: autre
+competences:
+  - concepteur designer ui
 ---
 
 Hello , je suis yohann et je suis concepteur designer ui.
