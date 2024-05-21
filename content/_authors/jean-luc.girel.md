@@ -7,4 +7,7 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ''
+competences:
+  - Intrapreneur(se)
+memberType: beta
 ---
