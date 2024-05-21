@@ -15,17 +15,19 @@ phases:
     start: 2022-09-05
 thematiques:
   - Collectivités
+accessibility_status: non conforme
 ---
+
 ## Contexte
 
-Les interventions des agents sont une charge financière, matérielle, et humaine lourde à piloter, et inhérente à chaque collectivité… peu importe ses ressources. 
+Les interventions des agents sont une charge financière, matérielle, et humaine lourde à piloter, et inhérente à chaque collectivité… peu importe ses ressources.
 
 Le signalement, la création, la résolution, et le suivi de ces interventions de terrain constituent donc une fonction centrale au service de la qualité de vie de chaque habitant.
 
-
 ## Problème
 
-Les petites collectivités sont souvent dépourvues d’outils numériques de gestion au sein de leurs équipes techniques, ce qui amène plusieurs irritants à leur activité quotidienne : 
+Les petites collectivités sont souvent dépourvues d’outils numériques de gestion au sein de leurs équipes techniques, ce qui amène plusieurs irritants à leur activité quotidienne :
+
 - Impossibilité d'améliorer la qualité des process métier ;
 - Coût et complexité croissante ;
 - Collaboration et qualité de service impactée ;
@@ -34,10 +36,9 @@ Les petites collectivités sont souvent dépourvues d’outils numériques de ge
 - Coûts matériels et consommables supplémentaires ;
 - Dégradation temporaire ou longue de la sécurité ou de la qualité des espaces publics à destination des usagers.
 
-
 ## Solution
 
-Agents est une application disponible sur mobile et desktop permettant de : 
+Agents est une application disponible sur mobile et desktop permettant de :
 
 - Planifier et assigner plus facilement les interventions sur l'ensemble d'une équipe technique ;
 

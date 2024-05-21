@@ -20,7 +20,7 @@ stats_url:
 contact: claire.pacheco@culture.gouv.fr
 usertypes:
   - particulier
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#-Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
 ---
 
 
