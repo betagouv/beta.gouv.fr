@@ -9,5 +9,6 @@ missions:
     employer: ''
 competences:
   - Intrapreneur(se)
+  - Administration Publique
 memberType: beta
 ---
