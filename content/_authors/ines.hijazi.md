@@ -32,4 +32,6 @@ previously:
   - psyenfantado
 badges:
   - segur
+teams:
+  - teams/gip-inclusion
 ---

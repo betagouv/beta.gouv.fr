@@ -18,4 +18,7 @@ startups:
   - place-de-marche-inclusion
 competences:
   - Communication
+teams:
+  - teams/gip-inclusion
+
 ---

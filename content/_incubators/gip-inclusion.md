@@ -1,13 +1,13 @@
 ---
 title: Plateforme de l'inclusion
 short_description: Cet incubateur vise à <span class="fr-text--bold">faciliter la vie des personnes en insertion</span> et de celles et ceux qui les accompagnent.
-logo: logo_beta.png
+logo: logo_gip_inclusion.svg
 website: https://inclusion.beta.gouv.fr/
 
 highlighted_startups:
-    - carnet.de.bord
-    - itou
-    - dora
+    - Les emplois
+    - Immersion facilitée
+    - DORA
 ---
 
 La Plateforme de l’inclusion développe et améliore des services publics pour faciliter la vie des personnes en insertion et de celles et ceux qui les accompagnent.
