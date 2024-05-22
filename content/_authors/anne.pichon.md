@@ -13,7 +13,6 @@ missions:
     status: independent
     employer: ''
 startups:
-  - monstage
   - inventaire.friches.agricoles
   - vigieau
 previously:
@@ -25,6 +24,7 @@ previously:
   - itou
   - place-de-marche-inclusion
   - la-bonne-alternance
+  - monstage
 competences:
   - UX
   - UI
