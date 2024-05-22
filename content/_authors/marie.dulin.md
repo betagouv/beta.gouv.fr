@@ -6,7 +6,7 @@ link: https://mariedulin.framer.website/
 github: mariedulinPM
 missions:
   - start: 2023-07-03
-    end: 2024-05-31
+    end: 2024-06-09
     status: independent
     employer: ''
     startups:
