@@ -11,7 +11,7 @@ layout: null
         , "type"      : "startup"
         , "attributes":
             { "name"  : "{{ startup.title }}"
-            , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
+            , "pitch" : "{{ startup.mission }}"
             , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}
             {% if startup.budget_url %}
             ,"budget_url": "{{ startup.budget_url }}"{% endif %}{% if startup.link %}
