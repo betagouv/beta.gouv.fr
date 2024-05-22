@@ -24,7 +24,6 @@ previously:
   - itou
   - place-de-marche-inclusion
   - la-bonne-alternance
-  - monstage
 competences:
   - UX
   - UI
