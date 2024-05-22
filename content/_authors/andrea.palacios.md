@@ -7,9 +7,7 @@ missions:
     end: 2024-06-30
     status: service
     employer: ''
-    startups:
-      - monstage
-startups:
+previously:
   - monstage
 memberType: autre
 ---
