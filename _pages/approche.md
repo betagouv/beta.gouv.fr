@@ -7,7 +7,7 @@ title: Découvrir le programme
 <div class="fr-grid-row fr-grid-row--gutters fr-pb-6w">
    <div class="fr-col-md-6 fr-col-12">
       <p class="fr-text--lg">
-         <b>beta.gouv</b> est un programme d’incubation qui aide les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens.
+         <b>beta.gouv.fr</b> est un programme d’incubation qui aide les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens.
       </p>
       <h2>Nos accompagnements</h2>
       <a class="fr-btn fr-btn--md" href="#investigation">Lancer une investigation</a>
@@ -51,7 +51,7 @@ title: Découvrir le programme
          <div class="fr-tile fr-enlarge__link">
             <div class="fr-tile__body">
             <h3 class="fr-tile__title">
-               L'approche "Startup d'Etat"
+               L'approche "startup d'État"
             </h3>
             <p class="fr-tile__desc">Un premier produit au contact des utilisateurs le plus vite possible.</p>
             </div>
@@ -82,7 +82,7 @@ title: Découvrir le programme
           />
       </div>
       <div class="fr-col-md-8 fr-px-4w fr-col-12">
-         <h3 class="fr-text--md fr-mb-0">L’Investigation</h3>
+         <h3 class="fr-text--md fr-mb-0">L’investigation</h3>
          <h4>
             Identifier le problème à résoudre
          </h4>
@@ -95,7 +95,7 @@ title: Découvrir le programme
          </div>
          <p>Décideur public, vous voulez lancer une investigation avec nous?</p>
         <div class="fr-btns-group fr-btns-group--inline">
-          <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
+          <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="mailto:contact@beta.gouv.fr">Prendre rendez-vous</a>
           <a id="btn-decouvrir-investigation" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link" href="/approche/investigation">Découvrir l'investigation</a>
         </div>
       </div>
@@ -109,7 +109,7 @@ title: Découvrir le programme
           />
       </div>
       <div class="fr-col-md-8 fr-px-4w fr-col-12">
-         <h3 class="fr-text--md fr-mb-0">La Start-up d’Etat</h3>
+         <h3 class="fr-text--md fr-mb-0">La start-up d’État</h3>
          <h4>
             Réaliser un service public numérique
          </h4>
@@ -131,7 +131,7 @@ title: Découvrir le programme
          </div>
          <p>Décideur public, vous voulez réaliser un service public numérique ?</p>
          <div class="fr-btns-group fr-btns-group--inline">
-            <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
+            <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="mailto:contact@beta.gouv.fr">Prendre rendez-vous</a>
               <a id="btn-decouvrir-construction" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link"  href="/approche/construction">Découvrir la construction</a>
          </div>
       </div>
@@ -148,10 +148,10 @@ title: Découvrir le programme
    <div class="fr-col-md-8 fr-px-4w fr-col-12">
       <h2 class="fr-text--md fr-mb-0">La formation des agents publics</h2>
       <h3>
-         Passer une journée à beta.gouv
+         Passer une journée à beta.gouv.fr
       </h3>
       <p>
-         Une journée de formation pour apprendre les méthodes utilisées au sein de Beta.gouv, travailler sur des problèmes de politiques publiques concrets et repartir avec une nouvelle manière d'aborder les problèmes de vos services !
+         Une journée de formation pour apprendre les méthodes utilisées au sein de beta.gouv.fr, travailler sur des problèmes de politiques publiques concrets et repartir avec une nouvelle manière d'aborder les problèmes de vos services !
       </p>
       <a class="fr-btn fr-btn--md" href="/approche/formation">S’inscrire à la prochaine session</a>
    </div>

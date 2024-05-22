@@ -14,7 +14,7 @@ link: >-
 repository: https://github.com/mtes-mct/locatio
 contact: contact@dossierfacile.logement.gouv.fr
 stats: true
-budget_url: https://beta.gouv.fr/startups/locatio.html
+budget_url: https://beta.gouv.fr/startups/dossierfacile.html
 analyse_risques: true
 accessibility_status: partiellement conforme
 usertypes:
@@ -34,8 +34,10 @@ phases:
 fast:
   promotion: 13
   montant: 300000
+thematiques:
+  - Logement
+  - Administratif
 ---
-
 ## DossierFacile.fr devient DossierFacile.logement.gouv.fr !
 
 Pas de panique, le nom de domaine change mais notre service reste le même !

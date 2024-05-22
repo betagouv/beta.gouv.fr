@@ -87,7 +87,7 @@ active et impliquée, en les remobilisant.
 - Jeunes accueillis en Missions locales, en CEJ et "CEJ jeunes en rupture"
 - Recrues du Service Militaire Adapté
 - Apprentis et stagiaires de la formation professionnelle
-- Demandeurs d'emploi (dont DE longue durée
+- Demandeurs d'emploi (dont DE longue durée)
 - Bénéficiaires du RSA
 - Jeunes sans diplôme
 - Public en situation d'illettrisme (7% de la population française)

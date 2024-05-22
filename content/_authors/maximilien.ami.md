@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/maximilienami/
 missions:
   - start: 2023-09-01
-    end: 2024-02-29
+    end: 2024-05-31
     status: independent
     employer: Opteamis
     startups:

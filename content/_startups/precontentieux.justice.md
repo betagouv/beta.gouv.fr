@@ -10,6 +10,8 @@ phases:
     start: 2024-01-18
 sponsors:
   - /organisations/justice
+thematiques:
+  - Justice
 ---
 ## Contexte
 

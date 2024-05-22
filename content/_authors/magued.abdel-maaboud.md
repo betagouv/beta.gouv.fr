@@ -1,7 +1,7 @@
 ---
 fullname: Magued Abdel Maaboud
 role: Directeur incubateur Justice
-domaine: Autre
+domaine: Animation
 missions:
   - start: 2021-10-22
     end: 2023-01-22

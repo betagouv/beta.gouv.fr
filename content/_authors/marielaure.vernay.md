@@ -12,5 +12,7 @@ missions:
       - acceslibre
 startups:
   - acceslibre
+competences:
+  - Développement Backend
 ---
 Développeuse la semaine, dans les montagnes le WE
