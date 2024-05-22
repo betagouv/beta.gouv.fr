@@ -6,7 +6,7 @@ github: linnataing
 link: https://fr.linkedin.com/in/linna-taing-07289721
 missions:
   - start: 2018-11-16
-    end: 2024-12-31
+    end: 2026-12-31
     status: independent
     employer: Ministère des armées
     startups:
