@@ -6,12 +6,13 @@ mission: >-
 sponsors:
   - /organisations/dgaln
   - /organisations/dhup
+  - /organisations/agence-national-de-l-habitat
 incubator: mtes
 link: https://zerologementvacant.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/zero-logement-vacant
 contact: contact@zerologementvacant.beta.gouv.fr
 dashlord_url: https://dashlord.incubateur.net/
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 stats_url: https://zerologementvacant.beta.gouv.fr/stats
 stats: true
 budget_url: >-
@@ -32,6 +33,7 @@ thematiques:
 usertypes:
   - collectivite-territoriale
   - etat
+mon_service_securise: true
 ---
 ## Une opportunité sociale et environnementale
 
