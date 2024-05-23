@@ -1,6 +1,6 @@
 ---
 fullname: Inès Dartiguenave
-role: Coach
+role: Coach produit
 domaine: Coaching
 link: https://www.linkedin.com/in/inesdartiguenave/
 missions:
@@ -14,4 +14,7 @@ missions:
 startups:
   - sparte
   - docurba
+competences:
+  - Coaching
+  - Product strategy
 ---
