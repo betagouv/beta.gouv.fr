@@ -6,13 +6,19 @@ link: https://vincent.jousse.org
 github: vjousse
 missions:
   - start: 2021-12-06
-    end: 2024-03-31
+    end: 2024-06-06
     status: independent
     employer: Octo
     startups:
       - carnet.de.bord
       - inclusion.connect
       - itou
+  - start: 2024-06-03
+    end: 2024-09-03
+    status: independent
+    employer: PathTech
+    startups:
+      - ecobalyse
 startups:
   - carnet.de.bord
   - inclusion.connect

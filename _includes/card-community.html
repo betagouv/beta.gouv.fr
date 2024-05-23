@@ -40,7 +40,7 @@
             {% assign empty_array = "" | split: "," %}
             {% assign startups = author.startups | default: empty_array %}
             {% assign previously = author.previously | default: empty_array %}
-            {% assign all_startups = startups | concat: previously | compact %}
+            {% assign all_startups = startups | concat: previously | compact | uniq %}
 
             {% unless all_startups == empty %}
               <div class="startups">

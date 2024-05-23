@@ -5,7 +5,7 @@ domaine: Développement
 github: Arahir
 missions:
   - start: 2022-10-18
-    end: 2024-03-30
+    end: 2024-09-30
     status: independent
     employer: Malt
     startups:

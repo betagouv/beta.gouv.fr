@@ -5,7 +5,7 @@ domaine: Coaching
 link: https://www.linkedin.com/in/romannavalpotro/
 missions:
   - start: 2022-09-01
-    end: 2024-02-28
+    end: 2024-08-31
     status: independent
     employer: NUMA
     startups:
@@ -17,4 +17,4 @@ startups:
 badges:
   - segur
 ---
-Coach @ BetaGouv et consultant en stratégie, ex DG de NUMA
+Coach @ BetaGouv, ex DG de NUMA

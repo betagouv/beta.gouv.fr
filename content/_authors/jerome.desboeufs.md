@@ -13,12 +13,11 @@ missions:
     status: service
     employer: Octo
   - start: 2015-09-18
-    end: 2024-03-31
+    end: 2024-06-30
     status: independent
     employer: Living Data
 startups:
   - pcrs
-  - vigieau
 previously:
   - ban
   - api-geo

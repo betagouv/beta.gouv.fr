@@ -7,17 +7,18 @@ missions:
   - start: 2022-01-26
     end: 2024-03-31
     status: independent
-    employer: ''
+    employer: ""
     startups:
       - cartographie.nationale
 startups:
   - cartographie.nationale
 previously:
-  - conseiller-numerique
+  - france-numerique-ensemble
 badges:
   - segur
 competences:
   - UX
   - UI
 ---
+
 Designer d'interface, UX, principalement pour des supports web

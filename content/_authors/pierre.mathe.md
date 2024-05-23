@@ -1,6 +1,6 @@
 ---
-fullname: Pierre MATHE
-role: fonction support
+fullname: Pierre Mathe
+role: Fonction Support
 domaine: Autre
 link: https://www.linkedin.com/in/pierre-mathe-74544b151/
 missions:

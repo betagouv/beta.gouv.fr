@@ -6,67 +6,65 @@ contact: ines.dartiguenave@beta.gouv.fr
 analyse_risques: true
 usertypes:
   - collectivite-territoriale
+  - etat
 title: Mon Diagnostic Artificialisation
 sponsors:
   - /organisations/dgaln
 link: https://mondiagnosticartificialisation.beta.gouv.fr/
 stats: true
-dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/sparte-beta-gouv-fr/
+dashlord_url: https://dashlord.mte.incubateur.net/dashlord/startup/sparte/
 phases:
   - name: investigation
     start: 2021-04-08
   - name: acceleration
     start: 2023-05-25
+  - name: construction
+    start: 2021-11-19
 fast:
   promotion: 12
   montant: 210000
 stats_url: https://mondiagnosticartificialisation.beta.gouv.fr/statistiques/
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
+thematiques:
+  - Écologie
 ---
 ## Contexte
 
-La Loi Climat & Résilience en cours d’amendement va sans doute conduire les collectivités à :
-- viser l’objectif de zéro artificialisation nette d’ici 2050,
-- réduire par 2 le rythme de l’artificialisation des sols d’ici 2030,
-- réaliser un bilan d’artificialisation annuel ou bi-annuel de leur territoire.
+[L'article 192 de la loi Climat et Résilience](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924) fixe une trajectoire nationale de sobriété foncière en 2 étapes :
+* D'ici 2031 : diminution d'environ 50% du rythme de consommation d'espaces naturels, agricoles, et forestiers par rapport au bilan des 10 dernières années (2011-2021).
+* D'ici 2050 : Zéro Artificialisation Nette (ZAN) grâce à l'équilibre entre le total des surfaces artificialisées et renaturées.
 
-Ces objectifs vont se traduire dans les documents de planification et d’urbanisme à différents niveaux : régional (SRADDET), territorial (SCoT) et inter-communal (PLUi). Ils impacteront les projets d’aménagement, y compris les 400 000 permis de construire déposés chaque année.
+Pour les collectivités, cette loi, complétée par la loi du 20 juillet 2023 se traduit notamment par :
+* un diagnostic de consommation d'espaces NAF sur la période 2011-2021, recommandé pour estimer l'objectif d'ici 2031.
+* un rapport triennal de l'artificalisation des sols, obligatoire pour suivre la réduction progressive des surfaces artificialisées.
+* un pilotage régulier, recommandé pour s'inscrire dans la trajectoire de la loi Climat et Résilience.
 
-Cette contrainte “Zéro Artificialisation Nette” se superpose à d’autres encadrant l’aménagement du territoire : Loi SRU imposant à certaines communes un pourcentage de logements sociaux, Loi Littoral restreignant les possibilités d’extension, Loi Biodiversité… Sa mise en œuvre représente un vrai enjeu pour les territoires qui cherchent à porter leurs projets de développement, tout en se mettant en conformité.
-
+Cette trajectoire nationale doit être déclinée territorialement dans les documents de planification et d’urbanisme : à l'échelle régionale (SRADDET), territoriale (SCoT) et intercommunale (PLUi) / communale (PLU). Ils impacteront alors les projets d’aménagement du territoire, et les 400 000 permis de construire instruits chaque année.
 
 ## Problème
 
-La loi Climat et Résilience va accentuer les efforts de sobriété foncière à réaliser, et fournir la définition et les données pour calculer l’artificialisation des sols. Néanmoins son suivi reste complexe :
+La Loi Climat & Résilience et ses décrets d’application obligent les collectivités à s’inscrire dans une trajectoire de sobriété foncière. 
 
-1. Au niveau réglementaire : Il est complexe de comprendre la superposition des lois, leurs évolutions et ce qui est faisable dans le cadre du jour. Les bureaux d’études et collectivités réalisent une veille à ce sujet, mais elle est chronophage et imparfaite.
+* 10 000 collectivités doivent élaborer ou réviser leur document d’urbanisme d’ici 2028 pour territorialiser la loi Climat et Résilience. 
+* 25 000 rapports triennal local sont à réaliser dès août 2024, à minima tous les 3 ans pour suivre l’évolution de la consommation d’espaces NAF et prochainement de l’artificialisation des sols. Les services de l’Etat (DDT) seront en charge de ceux des 9000 communes au RNU (Règlement National d'Urbanisme). 
 
-2. Au niveau du calcul : Chaque acteur a sa méthode et ses données sans partager un référentiel commun, ce qui représente un investissement conséquent pour un risque élevé de non-conformité. Le portrait du territoire réalisé lors de l’élaboration des documents d’urbanisme, peut être source de recours juridique lors de sa validation 3 à 5 ans plus tard, pour cause de caducité ou méthode de calcul.
+Notre problème : Comment peut-on aider les acteurs de l’aménagement à suivre la consommation d'espaces NAF et l'artificialisation des sols de leur territoire afin de s'inscrire dans la trajectoire du Zéro Artificialisation Nette (ZAN) ?
 
-3. Au niveau de l’exploitation : Sans outil adapté, il est difficile pour les responsables urbanisme des collectivités et les acteurs de l’aménagement d’orienter leurs projets en fonction des nouvelles directives. Développer le territoire, et réduire la consommation d'espace ainsi que de l’imperméabilisation des sols parait contradictoire.
+## Solution 
 
-Notre problème : Comment peut-on aider les acteurs de l’aménagement à suivre l’artificialisation de leur territoire et comprendre la valeur patrimoniale du sol pour prendre des décisions d’aménagement optimisées ?
+Mon Diagnostic Artificialisation aide les collectivités à s’inscrire dans la trajectoire du Zéro Artificialisation Nette (ZAN) en leur permettant de : 
+1. Mesurer la consommation d’espaces NAF (Naturels Agricoles et Forestiers) du territoire pendant la période de référence, à savoir les 10 dernières années entre 2011 et 2021, 
+2. Simuler différentes trajectoires pour la décennie 2021-2031 et préparer le rapport triennal local exigé dès août 2024, 
+3. Se projeter sur l’objectif ZAN avec l’analyse de l’artificialisation des sols à l’échelle de la parcelle (pour les départements couverts par l’OCS GE). 
 
-## Solution envisagée
+Service aval de l’Observatoire de l’Artificialisation des Sols, le service numérique s’appuie sur les données et calculs de référence. En libre accès, le service fournit en instantané et toute transparence des diagnostics aux collectivités, services de l’Etat, acteurs de l’aménagement ou citoyens. 
 
-Adossé à l’Observatoire National de l’Artificialisation, SPARTE est l’outil qui fait le lien entre la réglementation et les projets d’aménagement des collectivités en favorisant la mise en œuvre du “Zéro Artificialisation Nette”.
+## Stratégie d'accélération
 
-Un site qui permettrait de :
-- prendre conscience de la valeur des sols, et l'importance de diminuer l'artificialisation,
-- comprendre et suivre l’artificialisation du territoire grâce à un bilan s’appuyant sur les définitions et outils de mesure réglementaires,
-- mesurer le "coût artificialisation" de son projet d'aménagement, en fonction de l’état d’imperméabilisation des sols et de consommation d’espace par rapport aux objectifs fixés dans les documents d’urbanisme du territoire,
-- identifier des alternatives en fonction des critères de son projet, et s’inspirer des retours d’expérience d’autres acteurs de l’aménagement.
+L’objectif est de fournir la base des diagnostics de consommation d’espaces NAF pour les 10000 documents d’urbanisme à élaborer ou réviser d’ici 2028, et les 25000 rapports locaux obligatoires tous les 3 ans à partir de 2024.
 
+Objectifs à fin août 2023 : 
 
-
-## Stratégie d'exploration
-
-Pendant la 1ère partie de la phase d’investigation (avril-mai 2021) : investiguer le problème avec des entretiens auprès des parties prenantes clés de l’aménagement du territoire.
-
-L’équipe a mené plus de 20 entretiens avec les acteurs suivants :
-- agents de l’aménagement du territoire : DDT, DREAL et Conseil Régional
-- collectivités représentées par des élus et responsables urbanisme (directeur de SCoT et PLUi)
-- bureaux d’études et agences d’urbanisme, en charge du calcul de la consommation d’espace pour les documents d’urbanisme (SCoT, PLUi)
-- acteurs de l’aménagement du territoire et de la protection de l’environnement (UNAM, Conservatoire du littoral)…
-
-Pendant la 2ème partie de la phase d’investigation (juin 2021) : définir la solution, l’impact recherché et les objectifs de la phase de construction.
+* 70 000 diagnostics du territoire cumulés d’ici 6 mois, dont 50% sur des territoires avec la compétence urbanisme;
+* 1000+ trames de rapports triennal local téléchargées;
+* 10 000 consultations de trajectoires à horizon 2031. 

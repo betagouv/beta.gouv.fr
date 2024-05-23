@@ -19,6 +19,10 @@ repository: https://github.com/betagouv/boris
 stats: false
 contact: nathan.gaudelet@beta.gouv.fr
 accessibility_status: non conforme
+thematiques:
+  - Social
+  - Logement
+  - Administratif
 ---
 <h2>2,4 millions</h2>
 
@@ -43,4 +47,3 @@ En se plaçant comme tiers de confiance, BoRiS permet d'assurer la légitimité 
 <h2>Un déploiement via le réseau</h2>
 En plus des ménages qui sont les principaux utilisateurs, nous associons les Organismes Fonciers Solidaires et leurs opérateurs à notre démarche. 
 Que ce soit pour construire le socle d'information, pour diffuser la plateforme ou pour organiser la mise en relation avec les acquéreurs potentiels, chaque étape fait l'objet d'une concertation et d'une coopération importante.
-

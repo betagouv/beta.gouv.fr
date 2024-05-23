@@ -25,6 +25,10 @@ usertypes:
   - etablissement-scolaire
 link: https://documentation.exposition.inserjeunes.beta.gouv.fr/
 accessibility_status: non conforme
+thematiques:
+  - Jeunesse
+  - Formation
+dashlord_url: https://dashlord.incubateur.net/url/exposition-inserjeunes-beta-gouv-fr-api/
 ---
 ## Le problème
 
@@ -34,10 +38,10 @@ Bon nombre de jeunes s’orientent, ou sont orientés, vers les **filières les 
 
 🔎 ***1/3 des vœux** prioritaires pour le scolaire sur la plateforme Affelnet se sont fait en 2021 **vers des filières sans perspectives** (taux d’emploi < 30% ET taux de poursuite d’études < 50%)*
 
-Pourtant, d’autres filières offrent des devenirs plus favorables. Et **des données**, issues notamment des services statistiques : 
-- du Ministère de l'Éducation nationale, de la Jeunesse et des Sports
-- du Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation
-- du Ministère du Travail, du Plein Emploi et de l'Insertion
+Pourtant, d’autres filières offrent des devenirs plus favorables. Et **des données**, issues notamment des services statistiques des ministères : 
+- la Direction de l'évaluation, de la prospective et de la performance (DEPP), pour le Ministère de l'Éducation nationale et de la Jeunesse
+- la Direction de l'Animation de la Recherche, des Études et des Statistiques (DARES), pour le Ministère du Travail, de la Santé et des Solidarités
+- la sous-direction des Systèmes d'Information et des Études Statistiques (SIES) et son dispositif InserSup, pour le Ministère de l’Enseignement supérieur et de la Recherche
 
 qui permettraient d’éclairer ces choix d’orientation **existent** et sont enrichies régulièrement.
 
@@ -78,4 +82,4 @@ Fin 2023, nos données étaient disponibles :
 Nos objectifs principaux pour S1-2024 : 
 
 - Exposer nos données sur **10 des principales plateformes d’orientation**
-- Commencer à **intégrer les données du supérieur**
+- Intégrer progressivement les **données InserSup des formations de l'enseignement supérieur**

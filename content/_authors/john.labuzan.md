@@ -12,13 +12,13 @@ missions:
     employer: academie-en-ligne.fr
     startups:
       - chauffage-urbain
-      - place-des-entreprises
+      - conseillers-entreprises
       - signalement
       - mediature
       - lannuaire.des.collectivites
 startups:
   - chauffage-urbain
-  - place-des-entreprises
+  - conseillers-entreprises
   - signalement
   - mediature
   - lannuaire.des.collectivites
