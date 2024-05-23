@@ -18,5 +18,10 @@ startups:
   - agents.en.intervention
 previously:
   - mon.espace.collectivite
+competences:
+  - Développement Full-stack
+  - PHP
+  - PostgreSQL
+  - JavaScript/TypeScript
 ---
 Développeur mobile et web fullstack
