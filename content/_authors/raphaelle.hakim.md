@@ -9,4 +9,5 @@ missions:
     employer: LBC
     startups:
       - urbanvitaliz
+memberType: beta
 ---

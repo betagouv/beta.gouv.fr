@@ -9,4 +9,6 @@ missions:
     employer: Malt
     startups:
       - plusfraichemaville
+link: https://www.linkedin.com/in/barthelemyfabry/
+memberType: beta
 ---

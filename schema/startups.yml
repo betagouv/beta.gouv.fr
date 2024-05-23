@@ -39,6 +39,7 @@ mapping:
             - /organisations/ddtm34
             - /organisations/ddtm29
             - /organisations/dia-tnd
+            - /organisations/direction-generale-des-etrangers-en-france
             - /organisations/departement-oise
             - /organisations/departement-pas-de-calais
             - /organisations/departement-var
@@ -59,6 +60,7 @@ mapping:
             - /organisations/dgesco
             - /organisations/dgesip
             - /organisations/dgfip
+            - /organisations/dgpe
             - /organisations/dgitm
             - /organisations/dgos
             - /organisations/dgpat
@@ -210,3 +212,5 @@ mapping:
      - totalement conforme
      - partiellement conforme
      - non conforme
+  "mon_service_securise":
+    type:      bool

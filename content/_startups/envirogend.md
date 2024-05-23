@@ -22,11 +22,8 @@ Le droit de l'environnement et de la santé est particulièrement complexe, repo
 
 ## Solution
 
-Il s'agit de mettre à disposition des gendarmes, puis à terme des autres entités en charge du contentieux environnemental et sanitaire, d'un écosystème numérique pour les accompagner sur l'ensemble des actions qu'ils sont susceptibles d'initier. Ainsi, l'écosystème doit répondre aux missions de prévention, sensibilisation, information, formation des acteurs, et de prise en compte, suivi, animation et répression des infractions environnementales.
+Il s'agit de mettre à disposition des gendarmes un écosystème numérique pour les accompagner sur l'ensemble des actions qu'ils sont susceptibles d'initier. Ainsi, l'écosystème doit répondre aux missions de prévention, sensibilisation, information, formation des acteurs, et de prise en compte, suivi, animation et répression des infractions environnementales.
 
 ## Stratégie
 
-Les usagers seront destinataires :
--d'un site web et d'une application sur mobile pour les acteurs institutionnels du contentieux environnemental et sanitaire
--d'un site web pour le grand public (information et sensibilisation)
--d'une application pour les élus (information, accompagnement et conseils)
+Les usagers seront destinataires d'un écosystème numérique répondant à leurs besoins.

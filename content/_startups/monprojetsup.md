@@ -11,10 +11,13 @@ phases:
   - name: construction
     start: 2024-03-11
 accessibility_status: non conforme
-link: https://monprojetsup.fr/
+link: https://beta.monprojetsup.fr/
 thematiques:
   - Jeunesse
   - Education
+stats_url: https://monprojetsup.fr/statistiques/
+repository: https://github.com/betagouv/monprojetsup
+budget_url: https://monprojetsup.fr/budget/
 ---
 ## Contexte
 

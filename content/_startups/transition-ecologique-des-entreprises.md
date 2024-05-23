@@ -6,7 +6,7 @@ sponsors:
 incubator: ademe
 contact: contact@mission-transition-ecologique.beta.gouv.fr
 link: http://mission-transition-ecologique.beta.gouv.fr/
-repository: https://github.com/betagouv/transition-ecologique-entreprises-widget
+repository: https://github.com/betagouv/mission-transition-ecologique
 accessibility_status: non conforme
 dashlord_url: >-
   https://incubateur-ademe.github.io/dashlord/url/mission-transition-ecologique-beta-gouv-fr/
@@ -23,6 +23,7 @@ techno:
   - publi.codes
 usertypes:
   - entreprise
+stats_url: https://mission-transition-ecologique.beta.gouv.fr/stats
 thematiques:
   - Écologie
   - Entreprises
@@ -63,7 +64,7 @@ La Startup d'Etat est portée par l'ADEME à travers son [incubateur](https://be
 
 - Recenser, structurer et rendre plus accessible les offres, les actions, les dispositifs d'aides et les programmes proposés par les opérateurs publics
 - Remettre sur pied une équipe afin de développer un module d'auto-diagnostic permettant de faciliter la recherche de dispositif d'aide adapté à l'entreprise
-- Collaborer avec les entités locales (directions régionales de l'ADEME, conseil régional, CCI, CMA) afin de déployer le service au plus grand nombre à une échelle locale (région par région) et/ou sectorielle et, orienter potentiellement les entreprises vers un interlocuteur à travers le service [place-des-entreprises](https://place-des-entreprises.beta.gouv.fr/).
+- Collaborer avec les entités locales (directions régionales de l'ADEME, conseil régional, CCI, CMA) afin de déployer le service au plus grand nombre à une échelle locale (région par région) et/ou sectorielle et, orienter potentiellement les entreprises vers un interlocuteur à travers le service [conseillers-entreprises](https://conseillers-entreprises.service-public.fr).
 - Apporter un service aux opérateurs (ADEME, BPI, CDC...), à commencer par des statistiques, ayant des offres aux entreprises afin de mieux les cibler et d'avoir également une vision d'ensemble sur les dispositifs existants.
 
 **Mesure d'actionnabilité** : Entreprise qui a été réorienté, a candidaté et a bénéficié d'une aide d'un opérateur public à travers la plateforme

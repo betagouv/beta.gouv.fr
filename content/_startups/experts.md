@@ -13,6 +13,7 @@ phases:
   - name: construction
     start: 2023-01-03
 link: https://selexpert.anje-justice.fr/
+repository: https://git.anje-justice.fr/selexpert
 stats: true
 stats_url: https://selexpert.anje-justice.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/selexpert-anje-justice-fr/

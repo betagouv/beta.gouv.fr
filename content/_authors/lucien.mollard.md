@@ -10,9 +10,9 @@ missions:
     status: independent
     employer: octo
     startups:
-      - place-des-entreprises
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 previously:
   - open-academie
   - dossiersco

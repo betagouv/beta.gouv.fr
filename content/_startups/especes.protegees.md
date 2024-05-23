@@ -1,8 +1,8 @@
 ---
 mission: Améliorer la préservation des espèces protégées
 incubator: mtes
-title: Espèces protégées
-contact: vanessa.rispal@developpement-durable.gouv.fr
+title: Pitchou (Espèces protégées)
+contact: especes-protegees@beta.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/dgaln
