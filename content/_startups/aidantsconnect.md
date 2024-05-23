@@ -105,23 +105,29 @@ Les demandes d'habilitation de particuliers ne sont pas pris en compte.
 [Découvrir Aidants Connect dans une structure habilitée](https://www.youtube.com/watch?v=AJGo6bydQss)
 
 **La procédure**
+
 **1) Demande d'habilitation**
+
 Le référent Aidants Connect de la structure dépose une demande d'habilitation pour les aidants salariés qui souhaitent être habilités et formés à Aidants Connect.
 
 [Déposer sa demande d'habilitation](https://aidantsconnect.beta.gouv.fr/habilitation/)
 
 **2) Inscription en formation**
+
 Suite à la validation de sa demande par Aidants Connect, le référent choisit une date de formation pour chaque aidant et s'inscrit à un webinaire dédié aux référents.
 
 **3) Validation de l'inscription**
+
 L'organisme de formation contacte le référent pour valider l'inscription. La formation est payante, une demande de prise en charge est nécessaire.
 
 [Se renseigner sur les modalités de financement](https://aidantsconnect.beta.gouv.fr/formation/)
 
 **4) Formation des aidants**
+
 Les aidants suivent la formation Aidants Connect et réalisent un test PIX qui certifie leur habilitation.
 
 **5) Activation des comptes**
+
 Aidants Connect active les comptes des aidants qui peuvent alors réaliser en toute sécurité des démarches en ligne pour le compte d'usagers.
 
 ## Pour aller plus loin
