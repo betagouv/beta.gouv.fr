@@ -33,6 +33,7 @@ usertypes:
   - etat
 mon_service_securise: true
 ---
+
 ## Faire de la vacance structurelle une ressource pour les territoires
 
 1,1 millions de logements sont vacants depuis au moins deux ans dans le parc privé en France (source LOVAC 2022). Au-delà de ces logements déjà vacants, 1,6 millions de passoires énergétiques locatives du parc privé (DPE F et G) risquent de basculer dans la vacance avec l'interdiction progressive à la relocation (la loi climat et résilence) .

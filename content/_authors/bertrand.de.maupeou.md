@@ -1,6 +1,6 @@
 ---
 domaine: Autre
-fullname: Bertrand De Maupeou
+fullname: Bertrand de Maupeou
 role: Autre
 missions:
   - start: 2024-04-10
@@ -9,4 +9,9 @@ missions:
     employer: ''
     startups:
       - l-application-du-cej
+github: bertranddm
+competences:
+  - data analyse
+  - data science
+memberType: beta
 ---

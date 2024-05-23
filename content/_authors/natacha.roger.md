@@ -4,7 +4,7 @@ fullname: Natacha Roger
 role: Intraprenariat
 missions:
   - start: 2024-04-05
-    end: 2024-07-05
+    end: 2024-12-31
     status: admin
     employer: MTECT
 memberType: beta
