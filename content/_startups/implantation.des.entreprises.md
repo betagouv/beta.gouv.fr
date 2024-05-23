@@ -48,5 +48,7 @@ Une campagne de qualification des besoins (questionnaire + entretiens) à la foi
 
 ## Abandon
 L’investigation n’a pas donné suite à une construction car :
+
 - le produit pressenti existe déjà
 - il n’y a pas de faisceau d’indices suffisant à ce jour pour confirmer le besoin d’un outil à échelle nationale
+
