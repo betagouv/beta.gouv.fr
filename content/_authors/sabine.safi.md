@@ -11,11 +11,11 @@ missions:
     startups:
       - urbanvitaliz
       - recommandations-collaboratives
-      - especes.protegees
+      - pitchou
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
-  - especes.protegees
+  - pitchou
 previously:
   - transport
   - cartobio
