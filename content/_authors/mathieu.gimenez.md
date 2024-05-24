@@ -17,7 +17,7 @@ missions:
       - envergo
       - pitchou
       - mediation.logement
-      - sparte
+      - mon-diagnostic-artificialisation
       - zero-logement-vacant
       - otelo
       - detournement-de-terres-agricoles
@@ -30,4 +30,5 @@ competences:
 teams:
   - /teams/mtes
 ---
+
 Acrobate à impact 🤸‍♂️

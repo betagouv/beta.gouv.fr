@@ -7,13 +7,14 @@ missions:
   - start: 2022-12-01
     end: 2024-06-29
     status: independent
-    employer: ''
+    employer: ""
     startups:
-      - sparte
+      - mon-diagnostic-artificialisation
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
 memberType: beta
 previously:
-  - sparte
+  - mon-diagnostic-artificialisation
 ---
+
 J'aime travailler en collectif et faire des km à vélos.

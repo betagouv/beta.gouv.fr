@@ -1,6 +1,6 @@
 ---
 domaine: Autre
-fullname: 'Florian Aubert '
+fullname: 'Florian Aubert'
 role: Autre
 missions:
   - start: 2024-05-20
@@ -9,4 +9,5 @@ missions:
     employer: Opteamis
     startups:
       - reva
+memberType: beta
 ---
