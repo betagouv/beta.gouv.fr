@@ -13,6 +13,12 @@ missions:
       - carnet.de.bord
       - inclusion.connect
       - itou
+  - start: 2024-06-03
+    end: 2024-09-03
+    status: independent
+    employer: PathTech
+    startups:
+      - ecobalyse
 startups:
   - carnet.de.bord
   - inclusion.connect
