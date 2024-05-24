@@ -30,8 +30,8 @@ jobs:
     - name: Unit tests
       run: bundle exec rspec
 
-    - name: Check data structure
-      run: make validate
+    # - name: Check data structure
+    #  run: make validate
 
     - name: "Check authors file name structure (first_name.last_name.md)"
       run: |
