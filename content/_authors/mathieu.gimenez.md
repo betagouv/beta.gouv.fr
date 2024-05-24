@@ -15,7 +15,7 @@ missions:
       - docurba
       - dossierfacile
       - envergo
-      - especes.protegees
+      - pitchou
       - mediation.logement
       - sparte
       - zero-logement-vacant
