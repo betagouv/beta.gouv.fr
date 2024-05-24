@@ -92,6 +92,7 @@ L’ensemble des connexions effectuées sont tracées et stockées.
 ## Etre habilité Aidants Connect
 
 **Les pré-requis**
+
 Tous les aidants professionnels qui accompagnent des usagers dans la réalisation de démarches administratives en ligne et qui sont salariés d'une structure éligible à Aidants Connect peuvent être habilités. Plus précisément il s'agit de toute personne morale de droit public ou privé qui :
 
 - Intervient dans le cadre d'une mission de service public d'accompagnement à la réalisation de démarches pour les usagers
