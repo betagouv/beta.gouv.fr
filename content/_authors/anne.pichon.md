@@ -13,7 +13,6 @@ missions:
     status: independent
     employer: ''
 startups:
-  - monstage
   - inventaire.friches.agricoles
   - vigieau
 previously:
