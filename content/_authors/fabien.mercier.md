@@ -16,6 +16,12 @@ missions:
     employer: octo
     startups:
       - pass-culture
+  - start: 2024-05-21
+    end: 2024-12-31
+    status: service
+    employer: octo
+    startups:
+      - france-numerique-ensemble
 startups:
   - france-numerique-ensemble
   - pass-culture
