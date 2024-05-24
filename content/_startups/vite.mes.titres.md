@@ -11,6 +11,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-12
+  - name: alumni
+    start: 2024-04-01
 thematiques:
   - Administratif
 ---
@@ -28,3 +30,7 @@ Les délais d'obtention des documents qui sont nécessaires à l’exercice de l
 
 L'ensemble de la profession et de ses représentants demande la mise en œuvre de solutions visant à faciliter les démarches des lauréats des titres professionnels et à réduire les délais d’obtention des documents nécessaires à la conduite (permis, carte de qualification de conducteur, carte tachygraphe).
 Sans remettre en cause le temps nécessaire au processus d’instruction administratif garant de la sécurité des titres, le développement d’une solution visant à faciliter, à accélérer et à fiabiliser les démarches du futur conducteur lui assurerait un meilleur accompagnement dès son entrée en formation et jusqu’à l’obtention de ses titres.
+
+## Apprentissages
+Le travail d'investigation a permis de confirmer la problématique soulevée et de renforcer le travail coopératif des 3 ministères concernés (Intérieur, Emploi, Transports). Ce travail a mis en avant 4 solutions "incontournables" qui vont permettre de réduire les délais et d'une manière générale simplifier le quotidien des stagiaires. Il a été convenu à ce stade de ne pas donner suite à une solution startup d'Etat, ni de construire un guichet unique qui n'apporte à ce jour pas de valeur ajoutée contrairement à la simplification des démarches proposées par les 4 solutions incontournables. 
+Une fois les incontournables mis en place, sera évalué à nouveau la pertinence de réaliser un service d'information à destination de l'ensemble des parties prenantes, administrations et stagiaires y compris, afin d'informer où en sont les démarches et identifier les éventuels points de blocage. 

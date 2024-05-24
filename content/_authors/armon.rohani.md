@@ -1,7 +1,7 @@
 ---
 fullname: Armon Rohani
 role: Data Engineer
-domaine: Développement
+domaine: Data
 github: calimoose
 missions:
   - start: 2024-03-18

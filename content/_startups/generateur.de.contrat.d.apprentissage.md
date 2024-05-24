@@ -6,14 +6,13 @@ contact: apprentissage@beta.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/mtei
-  - /organisations/menjs
-  - /organisations/mesr
-  - /organisations/mtfp
 phases:
   - name: investigation
     start: 2021-01-01
   - name: construction
     start: 2023-09-01
+link: https://contrat.apprentissage.beta.gouv.fr/
+
 ---
 # Le problème de politique publique
 

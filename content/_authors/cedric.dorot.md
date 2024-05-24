@@ -9,4 +9,5 @@ missions:
     employer: Octo
     startups:
       - agora
+memberType: beta
 ---

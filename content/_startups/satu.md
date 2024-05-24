@@ -40,6 +40,7 @@ L'investigation a permis de mettre en lumière certains problèmes rencontrés p
 
 Par ailleurs, l'investigation a permis de comprendre des problèmes organisationnels avec le dispositif en place :
 - En pratique, les appels vers les entreprises >250M€ CA et les services publics sont passés par les utilisateurs via les centres relais des opérateurs, qui se retrouvent donc à porter le coût d'une grande partie du système et non pas seulement des appels interpersonnels.
+
 - Les différents acteurs ne sont pas incités à ce que le service soit connu. En effet, les prestataires d'accessibilité ont souvent un contrat forfaitaire avec les entreprises et les opérateurs, alors que l'usage du service va augmenter leur coût. Les opérateurs et les entreprises risquent également des coûts qui augmentent avec l'usage, via une facturation à la minute ou une renégociation des contrats avec les prestataires. 
 
 ## Solution
@@ -49,6 +50,10 @@ Tous ces problèmes identifiés nous ont convaincus que la solution à mettre en
 La SATU ne deviendra donc pas une startup d'Etat.
 
 Le système devra, par son organisation, favoriser la promotion du service auprès des personnes sourdes, malentendantes, sourdaveugles et aphasiques.
+
+Pour se faire, les prestaires seront rémunérés à la minute d'appel utilisée.
+
+La SATU ne deviendra donc pas une startup d'Etat.
 
 Pour se faire, les prestaires seront rémunérés à la minute d'appel utilisée.
 

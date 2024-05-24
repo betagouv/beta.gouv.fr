@@ -9,7 +9,7 @@ repository: https://github.com/anct-cartographie-nationale
 contact: cartographie.sonum@anct.gouv.fr
 stats: true
 dashlord_url: https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 events:
   - name: product_launch
     date: 2022-11-21
@@ -22,7 +22,11 @@ phases:
     end: 2022-04-01
   - name: construction
     start: 2022-04-01
-stats_url: https://cartographie.societenumerique.gouv.fr//stats
+stats_url: >-
+  https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=277&period=range&date=previous30#?period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1&idSite=277
+analyse_risques: true
+thematiques:
+  - Inclusion numérique
 ---
 ## Contexte
 
