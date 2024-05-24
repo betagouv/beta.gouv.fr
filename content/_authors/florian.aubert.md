@@ -9,4 +9,5 @@ missions:
     employer: Opteamis
     startups:
       - reva
+memberType: beta
 ---
