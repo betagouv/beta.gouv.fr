@@ -10,5 +10,10 @@ missions:
     employer: MTES-MCT
 teams:
   - /teams/mtes
+competences:
+  - Product strategy
+  - Facilitation
+  - Administration Publique
+  - Coaching
 ---
 Essaie encore une fois
