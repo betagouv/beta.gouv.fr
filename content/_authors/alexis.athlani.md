@@ -7,10 +7,10 @@ missions:
   - start: 2023-10-17
     end: 2024-06-17
     status: independent
-    employer: ''
+    employer: ""
     startups:
-      - sparte
+      - mon-diagnostic-artificialisation
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
 memberType: beta
 ---

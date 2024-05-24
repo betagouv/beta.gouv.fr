@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: NUMA
     startups:
-      - sparte
+      - mon-diagnostic-artificialisation
       - docurba
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
   - docurba
 ---

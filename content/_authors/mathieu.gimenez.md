@@ -17,7 +17,7 @@ missions:
       - docurba
       - dossierfacile
       - mediation.logement
-      - sparte
+      - mon-diagnostic-artificialisation
       - zero-logement-vacant
 memberType: dinum
 competences:
@@ -25,4 +25,5 @@ competences:
 teams:
   - /teams/mtes
 ---
+
 Acrobate à impact 🤸‍♂️
