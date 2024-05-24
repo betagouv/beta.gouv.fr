@@ -8,11 +8,13 @@ missions:
     employer: NUMA
     startups:
       - mediation.logement
+      - epandage-facile
 incubator: mtes
 competences:
+  - UX
   - Gestion de Produit
   - Coaching
-  - Product design
+  - Communication
 memberType: beta
 fullname: Louis Laroche
 role: Coach
