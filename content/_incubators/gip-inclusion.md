@@ -5,9 +5,9 @@ logo: logo_gip_inclusion.svg
 website: https://inclusion.beta.gouv.fr/
 
 highlighted_startups:
-    - Les emplois
-    - Immersion facilitée
-    - DORA
+    - les-emplois
+    - l-immersion-facile 
+    - dora
 ---
 
 La Plateforme de l’inclusion développe et améliore des services publics pour faciliter la vie des personnes en insertion et de celles et ceux qui les accompagnent.
