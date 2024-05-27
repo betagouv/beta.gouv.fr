@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: telescoop
     startups:
-      - sparte
+      - mon-diagnostic-artificialisation
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
 memberType: beta
 competences:
   - Administration Système

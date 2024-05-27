@@ -11,6 +11,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-02-12
+  - name: alumni
+    start: 2024-05-23
 thematiques:
   - Entreprises
 ---
@@ -46,8 +48,7 @@ Une campagne de qualification des besoins (questionnaire + entretiens) à la foi
 
 ## Abandon
 L’investigation n’a pas donné suite à une construction car :
-- le produit présenti existe déjà
-- il n’y a pas de faisceau d’indice suffisant à ce jour pour confirmer le besoin d’un outil à echelle nationale
 
-Nous contacter
-anne.devoret@beta.gouv.fr yannick.scalzotto@ain.gouv.fr
+- le produit pressenti existe déjà
+- il n’y a pas de faisceau d’indices suffisant à ce jour pour confirmer le besoin d’un outil à échelle nationale
+
