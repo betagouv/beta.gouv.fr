@@ -1,9 +1,9 @@
 ---
-fullname: Nicolas Ritouet
+fullname: Nicolas Rles-emploiset
 role: CTO
 domaine: Développement
-link: https://nicolas.ritouet.com/
-github: NicolasRitouet
+link: https://nicolas.rles-emploiset.com/
+github: NicolasRles-emploiset
 missions:
   - start: 2023-05-02
     end: 2024-08-02

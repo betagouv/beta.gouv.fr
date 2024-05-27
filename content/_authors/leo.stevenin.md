@@ -7,8 +7,8 @@ missions:
     end: 2024-05-31
     status: independent
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 memberType: beta
 ---

@@ -10,9 +10,9 @@ missions:
     status: independent
     employer: Inops
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 previously:
   - pilotage.de.linclusion
 ---

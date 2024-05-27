@@ -12,9 +12,9 @@ missions:
     startups:
       - carnet.de.bord
       - inclusion.connect
-      - itou
+      - les-emplois
 startups:
   - carnet.de.bord
   - inclusion.connect
-  - itou
+  - les-emplois
 ---

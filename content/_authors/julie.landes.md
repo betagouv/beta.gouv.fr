@@ -12,7 +12,7 @@ missions:
     status: independent
     employer: ''
 startups:
-  - itou
+  - les-emplois
   - la.communaute.de.linclusion
   - pilotage.de.linclusion
   - place-de-marche-inclusion

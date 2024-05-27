@@ -10,8 +10,8 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 ---
 Intégrateur web, développeur front-end pour la plateforme de l'inclusion

@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: octo
     startups:
-      - itou
+      - les-emplois
   - start: 2023-10-23
     end: 2024-12-31
     status: independent
