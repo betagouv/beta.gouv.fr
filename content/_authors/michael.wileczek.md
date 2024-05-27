@@ -10,7 +10,7 @@ missions:
     employer: GIP Plateforme de l&#x27;inclusion
     startups:
       - inclusion.connect
-      - itou
+      - les-emplois
       - reva
   - start: 2023-10-13
     end: 2025-04-30
@@ -20,11 +20,11 @@ missions:
       - reva
 startups:
   - inclusion.connect
-  - itou
+  - les-emplois
   - reva
 memberType: beta
 previously:
-  - itou
+  - les-emplois
   - inclusion.connect
 link: https://fr.linkedin.com/in/mwik
 competences:
