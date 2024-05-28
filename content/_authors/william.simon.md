@@ -1,12 +1,18 @@
 ---
-domaine: Déploiement
+domaine: Autre
 fullname: William Simon
-role: Déploiement
+role: Autre
 missions:
-  - start: 2024-05-27
-    end: 2024-10-27
+  - start: 2024-05-23
+    end: 2024-09-23
     status: independent
     employer: MALT
     startups:
       - chauffage-urbain
+competences:
+  - SEM
+  - SEO
+  - Google Ads
+  - SEA
+memberType: beta
 ---
