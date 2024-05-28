@@ -14,6 +14,13 @@ phases:
     start: 2023-04-01
 thematiques:
   - Collectivités
+  - Patrimoine
+  - Social
+  - Territoires
+  - Jeunesse
+  - Administratif
+  - Entreprises
+  - Démocratie
 stats_url: https://espacesurdemande.anct.gouv.fr/statistiques
 repository: >-
   https://gitlab.com/incubateur-territoires/startups/espace-sur-demande/application
