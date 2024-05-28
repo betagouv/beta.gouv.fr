@@ -20,6 +20,16 @@ missions:
     status: independent
     employer: Malt
     startups: []
+  - start: 2023-08-10
+    end: 2024-08-28
+    status: independent
+    employer: Collège numérique France 2030
+    startups: []
+  - start: 2024-03-10
+    end: 2024-08-28
+    status: independent
+    employer: Conseil de l'Europe
+    startups: []
 previously:
   - a-just
 link: https://www.linkedin.com/in/jehanne-dussert/
