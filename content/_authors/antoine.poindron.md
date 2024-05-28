@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 badges:
   - segur
 ---

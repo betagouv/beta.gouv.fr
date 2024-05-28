@@ -11,18 +11,24 @@ missions:
     employer: DGALN
     startups:
       - aigle
-      - envergo
       - boris
-      - especes.protegees
       - docurba
       - dossierfacile
+      - envergo
+      - pitchou
       - mediation.logement
-      - sparte
+      - mon-diagnostic-artificialisation
       - zero-logement-vacant
+      - otelo
+      - detournement-de-terres-agricoles
 memberType: dinum
 competences:
   - Gestion de Produit
+  - Coaching
+  - Product strategy
+  - Facilitation
 teams:
   - /teams/mtes
 ---
+
 Acrobate à impact 🤸‍♂️

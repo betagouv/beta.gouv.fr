@@ -8,9 +8,9 @@ missions:
     status: independent
     employer: OCTO
     startups:
-      - place-des-entreprises
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 badges:
   - segur
 ---
