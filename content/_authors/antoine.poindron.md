@@ -10,8 +10,15 @@ missions:
     employer: Octo
     startups:
       - les-emplois
+  - start: 2024-05-29
+    end: 2024-11-29
+    status: independent
+    employer: Fabrique numérique du ministère de l'écologie
+    startups:
+      - chauffage-urbain
 startups:
   - les-emplois
+  - chauffage-urbain
 badges:
   - segur
 ---
