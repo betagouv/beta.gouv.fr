@@ -1,6 +1,6 @@
 ---
 domaine: Design
-fullname: Julie Urquijo
+fullname: Julia Urquijo
 role: Design
 missions:
   - start: 2024-05-31
