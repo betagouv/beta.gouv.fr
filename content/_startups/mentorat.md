@@ -1,7 +1,7 @@
 ---
 mission: >-
-  Mettre en relation des candidats à un concours ou examen professionnel avec
-  des agents volontaires pour les mentorer
+  Mettre en relation des candidats à des concours ou des examens professionnels
+  avec des agents prêts à les mentorer
 incubator: lab-mi
 title: Mentorat
 contact: estelle.brezout-cozelin@interieur.gouv.fr
@@ -9,11 +9,9 @@ thematiques:
   - Formation
 usertypes:
   - etat
-sponsors:
-  - /organisations/ministere-de-l-interieur-et-des-outre-mer-drh
 phases:
   - name: investigation
-    start: 2024-02-01
+    start: 2024-05-29
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
@@ -23,21 +21,18 @@ L’analyse des résultats des examens professionnels et les rapports de jury fo
     • ceux ayant une connaissance du ministère qui va au-delà de leur structure d’appartenance ;
     • ceux dont le socle de connaissances se limite à leur environnement professionnel immédiat.
 
-
 ## Problème
 
 Cette appropriation des connaissances hors de leur propre périmètre est souvent favorisée par la présence dans l’entourage administratif de collègues n’exerçant pas le même métier ou exerçant dans d’autres structures. 
 
 L’enjeu est donc, au-delà des préparations organisées par l’administration, de pouvoir mettre en relation des candidats avec des agents volontaires pour les mentorer. 
 
-Dans ce cadre, une solution technique apparaît opportune pour mettre en relation des mentors et des mentorés.
-
-
 ## Solution
 
-Une solution technique d'appariement apparaît opportune pour mettre en relation des mentors et des mentorés. 
+Une solution technique apparaît opportune pour mettre en relation des mentors et des mentorés.
+
 ## Stratégie
 
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
-L'objectif est de passer à l'échelle pour étendre le dispositif existant à l'ensemble du territoire national
+Une expérimentation a été menée sans outil sur un examen professionnel (attaché principal). Les résultats et les enquêtes de satisfaction confirment l'efficacité du dispositif (les mentorés représentaient 11% des inscrits et 17% des lauréats) et le degré élevé de satisfaction des d'attente des utilisateurs. 
 
+L'impact visé est l'extension du dispositif à l'ensemble des agents du ministère souhaitant passer des concours ou des examens professionnels. C'est un levier majeur d'attractivité et de fidélisation.
