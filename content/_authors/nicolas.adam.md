@@ -9,4 +9,9 @@ missions:
     employer: ''
     startups:
       - transport
+competences:
+  - Product strategy
+  - Facilitation
+  - Coaching
+memberType: beta
 ---
