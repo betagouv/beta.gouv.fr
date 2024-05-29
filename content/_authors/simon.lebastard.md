@@ -1,7 +1,7 @@
 ---
 fullname: Simon Lebastard
 role: Data scientist chez Signaux Faibles
-domaine: Développement
+domaine: Data
 github: slebastard
 missions:
   - start: 2021-05-17

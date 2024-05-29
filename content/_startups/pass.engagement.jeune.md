@@ -1,57 +1,59 @@
 ---
-title: Pass Engagement Jeune
+title: Carte jeune engagé
 mission: >-
-  Proposer aux jeunes en insertion des avantages sur des biens et services
-  essentiels 
+  Une carte pour les jeunes engagés dans un parcours d'insertion avec des
+  avantages sur des biens et services essentiels 
 sponsors:
   - /organisations/mtei
-incubator: dinum
-contact: philippine.menier@beta.gouv.fr
+incubator: sgmas
+contact: alameen.abdul@fabrique.social.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2022-05-15
     end: 2022-11-08
   - name: construction
-    start: 2022-11-08
+    start: 2023-12-15
+thematiques:
+  - Jeunesse
+  - Social
+  - Travail / Emploi
+usertypes:
+  - particulier
+link: https://cje.fabrique.social.gouv.fr/
+stats_url: >-
+  https://metabase-carte-jeune-engage.fabrique.social.gouv.fr/public/dashboard/9d6a663b-99f2-47eb-ba55-be238909b1ba
 ---
-## Contexte
-
-La Carte Jeune Engagé doit contribuer à la lutte contre la précarité des jeunes en insertion (Contrat d'Engagement Jeune, Service Civique, E2C, Epide), actuellement hors des radars des aides publiques ou privées associées au statut étudiant.
-
 ## Problème
 
-Dans un contexte où le coût de la vie augmente de façon significative (énergie, carburant, alimentation), les difficultés financières des jeunes en insertion ont tendance à se renforcer. 
+Les programmes de réductions et de tarifications avantageuses proposés pour les étudiants rencontrent un franc succès auprès des jeunes. 
 
-U﻿ne enquête menée dans le cadre de l'investigation a révélé que 70% des jeunes interrogés ne parviennent pas à subvenir à leurs besoins essentiels.  
+En France, près d’1 étudiant sur 3 est inscrit sur une application de réductions exclusives. Pourtant en France, parmi les jeunes de 18 à 25 ans ce sont 6 jeunes sur 10 qui n’ont pas le statut étudiant, et qui sont donc exclus de ces avantages mis en place par les acteurs privés.
 
-Par ailleurs, les jeunes en insertion passent « entre les mailles » de tarifications solidaires et autres dispositifs d’aides, fléchés vers les étudiants, demandeurs d’emploi ou bénéficiaires des minimas sociaux. 
+La carte “jeune engagé” est une initiative visant à rétablir l'équilibre des avantages dont peuvent bénéficier tous les jeunes âgés de 18 à 25 ans, qu'ils soient étudiants, en formation, engagés en service civique ou en insertion professionnelle.
  
 ## Solution
 
-La Carte Jeune Engagé doit permettre aux jeunes en insertion d’accéder à des biens et services essentiels à tarif solidaire. 
-
-Dans un premier temps, elle sera composé d’une 20aine d’offres, valables à l’échelle nationale, qui permettront de faire des économies sur les dépenses prioritaires exprimées par les bénéficiaires : 
-
-* Alimentation et produits d’hygiène 
-* Mobilité
-* Logement, hébergement 
-* Soins et santé mentale  
-* Sport, Loisirs, Culture 
-* Equipements (numérique, électroménager)   
-
-Elle prendra la forme d’une carte avantage dématérialisée, donnant accès aux avantages en générant un code promo lors d’un achat en ligne ou en présentant un QR code lors d’un passage en caisse. 
+La carte “jeune engagé” permettra aux jeunes en insertion d’accéder à des biens et services essentiels à un tarif remisé négocié de manière inédite avec des entreprises partenaires.
+Une seule application permettra aux jeunes de retrouver l’ensemble des offres des entreprises engagées partenaires et d’utiliser les réductions au moment du paiement que ce soit en ligne ou en magasin.
 
 ## Stratégie
 
-**2﻿022**
+**T4 2023**
+* Analyse des besoins auprès des jeunes en insertion
+* Conception et confirmation d’une solution MVP avec une stratégie de tests avec des jeunes de la cible
 
-* analyse des besoins auprès des jeunes et des professionnels qui les accompagnent 
-* négociation des offres auprès des entreprises partenaires 
-* développement de la solution technique 
+**T1 2024**
+* Développement fonctionnel du MVP
+* Co-construction des processus de création, de diffusion et d’utilisation des réductions et offres avec les entreprises partenaires qui les proposent
+* Co-construction de la phase d’expérimentation avec les travailleurs sociaux du service public à l’emploi pour cibler les jeune du CEJ (France Travail et Mission locale)
+* Lancement du MVP en phase d’expérimentation sur le territoire de l’Est du Val d’Oise.
 
-**2﻿023**
+**Mars - juin 2024**
+* Analyse et itérations en fonction des indicateurs d’usage et des indicateurs d’impact sur le nombres de réductions utilisées par les jeunes et le montant économisé en euros`
 
-* lancement de la Carte Jeune Engagé en fin d'année
-* élargissement à des partenariats publics 
-* élargissement à de nouveaux partenariats privés nationaux comme locaux
+**À partir de juin 2024**
+* Présentation des analyses des résultats de la phase expérimentation au comité
+d’investissement
+* Selon les décisions du comité, déploiement progressif du service sur l’ensemble du territoire
+et pour l’ensemble des jeunes en insertion

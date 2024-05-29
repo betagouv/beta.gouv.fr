@@ -15,6 +15,6 @@ missions:
 startups:
   - transition-ecologique-des-entreprises
 previously:
-  - itou
+  - les-emplois
 ---
 Couteau-suisse en transformation de services

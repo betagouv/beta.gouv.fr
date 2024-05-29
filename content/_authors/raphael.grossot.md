@@ -6,11 +6,9 @@ avatar: null
 github: raphael-grossot
 missions:
   - start: 2020-10-12
-    end: 2024-05-31
+    end: 2024-02-01
     status: independent
     employer: Octo
     startups:
-      - conseiller-numerique
-startups:
-  - conseiller-numerique
+      - france-numerique-ensemble
 ---

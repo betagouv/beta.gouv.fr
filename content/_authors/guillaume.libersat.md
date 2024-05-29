@@ -1,18 +1,23 @@
 ---
 fullname: Guillaume Libersat
-role: Développeur
+role: Coord Tech / Développement
 link: http://sigill.org
 github: glibersat
 missions:
   - start: 2021-05-10
-    end: 2024-04-29
+    end: 2024-09-30
     status: independent
     employer: ''
     startups:
-      - urbanvitaliz
       - recommandations-collaboratives
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
 domaine: Développement
+competences:
+  - Développement
+  - DevOps
+  - Gouvernance
+  - Communs
 ---

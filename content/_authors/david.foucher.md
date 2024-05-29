@@ -17,13 +17,13 @@ missions:
     status: service
     employer: France travail
     startups:
-      - mes.aides
+      - mes-aides-france-travail
       - travailler.en.france
       - estime.formation
 startups:
   - travailler.en.france
   - estime.formation
-  - mes.aides
+  - mes-aides-france-travail
 previously:
   - plateforme.rome.4-0
   - mobiville
@@ -31,4 +31,5 @@ previously:
   - mes-evenements-emploi
   - la-bonne-formation
 ---
+
 Passionné par les technologies respectueuses de la biosphère.
