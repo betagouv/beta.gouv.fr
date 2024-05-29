@@ -16,7 +16,6 @@ sponsors:
   - >-
     /organisations/ministere-de-l-interieur-et-des-outre-mer-direction-des-ressources-humaines
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
 ## Contexte
 
