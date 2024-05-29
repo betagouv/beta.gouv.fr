@@ -35,7 +35,9 @@ Dans ce cadre, une solution technique apparaît opportune pour mettre en relatio
 
 ## Solution
 
-Une solution technique d'appariement apparaît opportune pour mettre en relation des mentors et des mentorés et passer à l'échelle pour étendre le dispositif existant à l'ensemble du territoire national
+Une solution technique d'appariement apparaît opportune pour mettre en relation des mentors et des mentorés. 
 ## Stratégie
 
 Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+L'objectif est de passer à l'échelle pour étendre le dispositif existant à l'ensemble du territoire national
+
