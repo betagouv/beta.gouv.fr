@@ -11,7 +11,10 @@ usertypes:
   - etat
 phases:
   - name: investigation
-    start: 2024-05-29
+    start: 2023-11-26
+sponsors:
+  - >-
+    /organisations/ministere-de-l-interieur-et-des-outre-mer-direction-des-ressources-humaines
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
