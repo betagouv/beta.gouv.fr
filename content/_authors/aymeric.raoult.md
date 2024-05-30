@@ -5,19 +5,15 @@ role: Coach
 github: AymericRlt
 missions:
   - start: 2021-01-04
-    end: 2024-06-29
+    end: 2024-12-31
     status: service
-    employer: Numa
+    employer: ''
     startups:
       - apilos
       - carte-verte
       - mistral-penal
-  - start: 2024-02-21
-    end: 2024-05-31
-    status: service
-    employer: Ippon
-    startups:
       - medistock
+      - auxAJ
 startups:
   - mistral-penal
   - apilos
