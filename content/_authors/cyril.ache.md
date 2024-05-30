@@ -10,6 +10,12 @@ missions:
     employer: Malt
     startups:
       - mon-suivi-justice
+  - start: 2024-05-02
+    end: 2024-06-30
+    status: independent
+    employer: LBC
+    startups:
+      - experts
 startups:
   - mon-suivi-justice
 memberType: beta
