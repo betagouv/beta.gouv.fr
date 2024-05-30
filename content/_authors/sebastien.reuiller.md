@@ -28,7 +28,7 @@ startups:
 previously:
   - cnr
   - la.communaute.de.linclusion
-  - itou
+  - les-emplois
 competences:
   - Développement Frontend
   - Développement Backend

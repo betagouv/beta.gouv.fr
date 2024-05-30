@@ -9,14 +9,15 @@ missions:
     end: 2023-06-30
     status: independent
     startups:
+      - zen
       - travailler.en.france
-      - mes.aides
+      - mes-aides-france-travail
 incubator: pole-emploi
 previously:
   - zen
   - travailler.en.france
-  - mes.aides
+  - mes-aides-france-travail
 competences:
   - Gestion de Produit
 ---
-Product Manager et chef de projet chez Mes Aides
+Product Manager et chef de projet

@@ -5,7 +5,7 @@ role: Experte en simplicité
 github: lkouad
 missions:
   - start: 2021-05-18
-    end: 2024-12-29
+    end: 2024-04-02
     status: admin
     employer: Gip plateforme de l'inclusion
 incubator: gip-inclusion
