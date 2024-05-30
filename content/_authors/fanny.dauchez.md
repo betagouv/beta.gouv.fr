@@ -21,7 +21,7 @@ missions:
 teams:
   - /teams/gip-inclusion
 previously:
-  - itou
+  - les-emplois
   - place-de-marche-inclusion
 badges:
   - segur

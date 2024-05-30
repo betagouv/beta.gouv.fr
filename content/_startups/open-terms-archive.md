@@ -7,8 +7,8 @@ incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 repository: https://github.com/OpenTermsArchive/
 contact: contact@opentermsarchive.org
 stats_url: https://stats.data.gouv.fr/index.php?idSite=179
-budget_url: https://opentermsarchive.org/budget
-link: https://opentermsarchive.org
+budget_url: https://opentermsarchive.org/fr/budget
+link: https://opentermsarchive.org/fr/
 stats: true
 phases:
   - name: investigation
@@ -24,9 +24,10 @@ thematiques:
   - Open-Data
   - Démocratie
 ---
-[Open Terms Archive](https://opentermsarchive.org) est un outil libre et ouvert de suivi et d’archivage des évolutions des conditions générales d’utilisation des principaux fournisseurs de services en ligne qui vise à rééquilibrer le rapport de force avec les grandes plateformes.
 
-[Open Terms Archive](https://opentermsarchive.org) est un commun numérique qui archive publiquement les documents contractuels des fournisseurs de services en ligne, les rend lisibles, met en valeur les changements et fait circuler ceux-ci au sein de sa communauté pour analyse.
+[Open Terms Archive](https://opentermsarchive.org/fr/) est un outil libre et ouvert de suivi et d’archivage des évolutions des conditions générales d’utilisation des principaux fournisseurs de services en ligne qui vise à rééquilibrer le rapport de force avec les grandes plateformes.
+
+[Open Terms Archive](https://opentermsarchive.org/fr/) est un commun numérique qui archive publiquement les documents contractuels des fournisseurs de services en ligne, les rend lisibles, met en valeur les changements et fait circuler ceux-ci au sein de sa communauté pour analyse.
 
 L'archive publique suit en novembre 2022 un total de 1253 documents de 644 services, dont les grandes plateformes « gatekeepers » comme Facebook, Twitter, TikTok…
 

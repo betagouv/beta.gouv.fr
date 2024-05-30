@@ -40,15 +40,20 @@ L'investigation a permis de mettre en lumière certains problèmes rencontrés p
 
 Par ailleurs, l'investigation a permis de comprendre des problèmes organisationnels avec le dispositif en place :
 - En pratique, les appels vers les entreprises >250M€ CA et les services publics sont passés par les utilisateurs via les centres relais des opérateurs, qui se retrouvent donc à porter le coût d'une grande partie du système et non pas seulement des appels interpersonnels.
-- Les différents acteurs ne sont pas incentivés à ce que le service soit connu. En effet, les prestataires d'accessibilité ont souvent un contrat forfaitaire avec les entreprises et les opérateurs, alors que l'usage du service va augmenter leur coût. Les opérateurs et les enreprises risquent également des coûts qui augmentent avec l'usage, via une facturation à la minute ou une renégociation des contrats avec les prestataires. 
+
+- Les différents acteurs ne sont pas incités à ce que le service soit connu. En effet, les prestataires d'accessibilité ont souvent un contrat forfaitaire avec les entreprises et les opérateurs, alors que l'usage du service va augmenter leur coût. Les opérateurs et les entreprises risquent également des coûts qui augmentent avec l'usage, via une facturation à la minute ou une renégociation des contrats avec les prestataires. 
 
 ## Solution
 
-Tous ces problèmes identifiés nous ont convaincus que la solution à mettre en place ne peut pas être incrémentale et que qu'une refonte totale du système en place est nécessaire, en allant vers un système plus universel dans lequel les utilisateurs peuvent choisir leur prestataire d'accessibilité pour appeler qui ils veulent 24h/24 7j/7 en illimité en ayant recours à des services tels que la transcription ou l'interprétariat en langue des signes française.
+Tous ces problèmes identifiés nous ont convaincus que la solution à mettre en place ne peut pas être incrémentale et qu'une refonte totale du système en place est nécessaire, en allant vers un système plus universel dans lequel les utilisateurs peuvent choisir leur prestataire d'accessibilité pour appeler qui ils veulent 24h/24 7j/7 en illimité en ayant recours à des services tels que la transcription ou l'interprétariat en langue des signes française.
 
 La SATU ne deviendra donc pas une startup d'Etat.
 
-Le système devera, pas son organisation, favoriser la promotion du service auprès des personnes sourdes, malentendantes, sourdaveugles et aphasiques.
+Le système devra, par son organisation, favoriser la promotion du service auprès des personnes sourdes, malentendantes, sourdaveugles et aphasiques.
+
+Pour se faire, les prestaires seront rémunérés à la minute d'appel utilisée.
+
+La SATU ne deviendra donc pas une startup d'Etat.
 
 Pour se faire, les prestaires seront rémunérés à la minute d'appel utilisée.
 

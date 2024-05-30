@@ -28,6 +28,7 @@ missions:
 startups:
   - données-et-territoires
   - pilotage.de.linclusion
+  - grist.numerique.gouv.fr
 previously:
   - signaux-faibles
   - disinfo

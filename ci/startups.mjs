@@ -22,4 +22,5 @@ export const schema = z.object({
   thematiques: z.array(z.string()).optional(),
   redirect_from: z.array(z.string()).optional(),
   fast: z.object({ promotion: z.number(), montant: z.number() }).optional(),
+  mon_service_securise: z.boolean().optional().nullable(),
 });
