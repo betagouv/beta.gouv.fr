@@ -1,17 +1,19 @@
 ---
-mission: Aider les entités publiques et privées à passer de la sensibilisation à l'action
+mission: >-
+  Aider les entités publiques et privées à passer de la sensibilisation à
+  l'action
 incubator: lab-innov-anssi
 contact: monaidecyber@ssi.gouv.fr
 title: MonAideCyber
 sponsors:
-    - /organisations/anssi
+  - /organisations/anssi
 phases:
-    - name: investigation
-      start: 2022-01-01
-    - name: construction
-      start: 2022-09-01
+  - name: investigation
+    start: 2022-01-01
+  - name: construction
+    start: 2022-09-01
 redirect_from:
-    - /startups/MonAideCyber
+  - /startups/MonAideCyber
 thematiques:
   - Sécurité informatique
 ---
