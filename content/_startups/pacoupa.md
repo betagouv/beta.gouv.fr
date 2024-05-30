@@ -14,6 +14,7 @@ phases:
   - name: construction
     start: 2024-01-22
 link: https://pacoupa.ademe.fr
+repository: https://github.com/incubateur-ademe/pacoupa
 thematiques:
   - Logement
   - Écologie

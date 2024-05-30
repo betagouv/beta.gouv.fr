@@ -9,6 +9,5 @@ missions:
     status: service
     employer: /ut7
 teams:
-  - /teams/gip-inclusion
 ---
 Développeur chez /ut7

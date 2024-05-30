@@ -1,8 +1,8 @@
 ---
 mission: Améliorer la préservation des espèces protégées
 incubator: mtes
-title: Espèces protégées
-contact: vanessa.rispal@developpement-durable.gouv.fr
+title: Pitchou (Espèces protégées)
+contact: pitchou@beta.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/dgaln
@@ -15,6 +15,7 @@ phases:
 thematiques:
   - Écologie
 ---
+
 ## Contexte
 
 En France, 10.000 espèces végétales et animales sont classées comme “protégées”. Il est interdit de nuire à ces espèces ou de dégrader leurs habitats de repos ou de reproduction. Toutefois, des dérogations à ce régime strict d’interdiction existent, pour des projets remplissant des critères précis, tout en s’inscrivant dans la séquence Eviter-Réduire-Compenser (ERC).
