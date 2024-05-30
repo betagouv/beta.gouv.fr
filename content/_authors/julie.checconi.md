@@ -14,4 +14,4 @@ startups:
   - plusfraichemaville
 memberType: beta
 ---
-Designer de service, UXUI  illustratrice
+Designer de service, UX UI, illustratrice
