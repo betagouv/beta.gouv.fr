@@ -1,14 +1,16 @@
 ---
 title: Agents en intervention
-mission: Faciliter la gestion et le suivi des interventions techniques dans ma
+mission: >-
+  Faciliter la gestion et le suivi des interventions techniques dans ma
   collectivité.
 sponsors:
   - /organisations/anct
 incubator: anct
 link: https://agentsenintervention.anct.gouv.fr
-repository: https://gitlab.com/incubateur-territoires/startups/agents-intervention/agents-en-intervention
+repository: >-
+  https://gitlab.com/incubateur-territoires/startups/agents-intervention/agents-en-intervention
 contact: servicesnumeriques@anct.beta.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 thematiques:
   - Collectivités
 stats: true
@@ -16,8 +18,12 @@ events:
   - name: product_launch
     date: 2024-01-14
 phases:
-  - name: acceleration
-    start: 2022-09-05
+  - name: construction
+    start: 2023-04-03
+stats_url: https://agentsenintervention.anct.gouv.fr/statistiques
+mon_service_securise: true
+usertypes:
+  - collectivite-territoriale
 ---
 ## Contexte
 
