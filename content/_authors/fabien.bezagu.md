@@ -9,4 +9,8 @@ missions:
     employer: Omnicité La Zone
     startups:
       - homologation
+github: fbezagu
+competences:
+  - Développement Full-stack
+memberType: beta
 ---
