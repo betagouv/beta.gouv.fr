@@ -1,3 +1,4 @@
+---
 domaine: Développement
 fullname: Fabien Bézagu
 role: Développement
@@ -12,3 +13,4 @@ github: fbezagu
 competences:
   - Développement Full-stack
 memberType: beta
+---
