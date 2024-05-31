@@ -3,10 +3,14 @@ domaine: Design
 fullname: Maelys Gloro
 role: Design
 missions:
-  - start: 2024-04-30
-    end: 2024-12-30
+  - start: 2024-04-01
+    end: 2025-03-31
     status: admin
-    employer: Dinum
+    employer: Région Bretagne
     startups:
       - data.etat
+competences:
+  - UX
+  - UI
+memberType: beta
 ---
