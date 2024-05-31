@@ -1,28 +1,30 @@
 ---
-mission: >-
-  Faciliter la prise des rendez-vous entre le service public et les usagers des
-  territoires
+title: RDV Service Public
+mission: Faciliter la prise des rendez-vous entre le service public et les usagers
+sponsors:
+  - /organisations/anct
+  - /organisations/dinum
 incubator: anct
+link: https://rdv.anct.gouv.fr
 repository: https://github.com/betagouv/rdv-solidarites.fr
 contact: support@rdv-service-public.fr
+stats: true
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#RDV-Services-Publics
+dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
 analyse_risques: true
 accessibility_status: non conforme
+thematiques:
+  - Santé
+  - Collectivités
+  - Social
+redirect_from:
+  - /startups/lapins
+  - /startups/rdv-services-publics
 usertypes:
   - collectivite-territoriale
   - particulier
   - association
 stats_url: https://www.rdv-solidarites.fr/stats/
-title: RDV Service Public
-sponsors:
-  - /organisations/anct
-  - /organisations/dinum
-link: https://rdv.anct.gouv.fr
-stats: true
-budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#RDV-Services-Publics
-dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
-redirect_from:
-  - /startups/lapins
-  - /startups/rdv-services-publics
 events:
   - name: national_impact
     date: 2022-12-31
@@ -33,23 +35,22 @@ phases:
     start: 2018-01-18
   - name: acceleration
     start: 2019-04-01
-thematiques:
-  - Santé
-  - Collectivités
-  - Social
 ---
 <div class="fr-callout fr-fi-information-line">
     <h3 class="fr-callout__title">
         Votre administration souhaite découvrir la solution ? 
     </h3>
 
-    <div class="fr-callout__text">
-    <p>
-        Vous pouvez consulter la plaquette de présentation👇
-    </p>
-    </div>
+```
+<div class="fr-callout__text">
+<p>
+    Vous pouvez consulter la plaquette de présentation👇
+</p>
+</div>
 
-    <a href="https://www.canva.com/design/DAF7cZT3uYc/XO4Gau3d_6OXE1Ip883U0w/view?utm_content=DAF7cZT3uYc&utm_campaign=designshare&utm_medium=link&utm_source=editor">Lire la plaquette</a>
+<a target="_blank" href="https://www.canva.com/design/DAF7cZT3uYc/XO4Gau3d_6OXE1Ip883U0w/view?utm_content=DAF7cZT3uYc&utm_campaign=designshare&utm_medium=link&utm_source=editor">Lire la plaquette</a>
+```
+
 </div>
 
 ### Qui sommes-nous ?
@@ -62,7 +63,7 @@ L’équipe est guidée par une vision : *être la solution de gestion et de pri
 
 Donner la possibilité à tout agent qui le souhaite, à un groupe d’agents, à une administration ou à l’occasion de la réalisation d’une politique publique locales ou nationale, de proposer des plages de rendez-vous aux usagers en présentiel ou à distance.
 
-### Qui peut l’utiliser ? 
+### Qui peut l’utiliser ?
 
 Tout agent ou groupe d’agents qui souhaite ouvrir ses disponibilités à de la prise de rendez-vous aux usagers ou souhaite simplifier la gestion des rendez-vous dans son service. 
 
@@ -73,7 +74,6 @@ Dans le cadre d’une politique publique nationale, d’une administration centr
 🗺️ **Les services des collectivités**
 
 Dans le cadre d’une compétence exercée par une collectivité territoriale, partagée par tout ou partie des services de la collectivités ou de l’intercommunalité.
-
 
 ### Nos fonctionnalités
 
@@ -117,4 +117,4 @@ Consciente du potentiel de cette solution numérique au sein des collectivités 
 
 **Accélération 🗓️ depuis 2023**
 
-Après plusieurs tests au sein d’autres niveaux de collectivités territoriales et auprès des services de l’État, RDV Solidarités devient RDV Service Public, un outil de gestion et de prise de rendez-vous qui vise à outiller tous les services publics. 
+Après plusieurs tests au sein d’autres niveaux de collectivités territoriales et auprès des services de l’État, RDV Solidarités devient RDV Service Public, un outil de gestion et de prise de rendez-vous qui vise à outiller tous les services publics.

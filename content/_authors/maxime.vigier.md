@@ -4,7 +4,7 @@ role: Développeur
 domaine: Développement
 missions:
   - start: 2024-03-11
-    end: 2024-08-31
+    end: 2024-12-31
     status: service
     employer: Octo
     startups:
