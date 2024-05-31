@@ -9,4 +9,10 @@ missions:
     employer: MALT
     startups:
       - chauffage-urbain
+competences:
+  - SEM
+  - SEO
+  - Google Ads
+  - SEA
+memberType: beta
 ---
