@@ -1,10 +1,10 @@
 ---
-domaine: Autre
+domaine: Déploiement
 fullname: William Simon
-role: Autre
+role: Déploiement
 missions:
-  - start: 2024-05-23
-    end: 2024-09-23
+  - start: 2024-05-27
+    end: 2024-10-27
     status: independent
     employer: MALT
     startups:

@@ -7,7 +7,7 @@ link: https://benoitguigal.fr
 github: benoitguigal
 missions:
   - start: 2019-05-22
-    end: 2024-06-29
+    end: 2024-12-31
     status: independent
     employer: ''
     startups:

@@ -1,12 +1,17 @@
 ---
 fullname: Claire Berard
-role: Coach
+role: Coach JuriGPT
 domaine: Coaching
 missions:
   - start: 2022-06-06
     end: 2024-12-31
     status: admin
-    employer: DNUM
+    employer: MIOM / DTNUM
 memberType: autre
+link: https://www.linkedin.com/in/claire-berard/
+competences:
+  - Communication
+  - Facilitation
+  - Coaching
 ---
-Coach de projet d'innovation numérique & Chargée de communication digitale et événementielle à la DNUM.
+Coach startup d’État et chargée de communication innovation
