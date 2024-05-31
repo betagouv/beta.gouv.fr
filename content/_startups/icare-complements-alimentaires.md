@@ -73,12 +73,18 @@ A termes, i.e. d'ici la rentrée de septembre 2024, il s'agira de devenir le nou
 - la constitution d'un catalogue en open data des compléments alimentaires déclarés
 - la possibilité pour un consommateur de 'signaler' et demander le statut (autorisé/interdit/inconnu) d'un produit disponible à la vente mais non présent dans le catalogue (donc non déclaré)
 
+![Slide 16_9 - 8 - compl'alim (2)](https://github.com/betagouv/beta.gouv.fr/assets/36134318/3df4d4c5-e778-44cc-a709-9631b89dcd75)
+
+![Slide 16_9 - 1](https://github.com/betagouv/beta.gouv.fr/assets/36134318/acbb64e9-0bf1-42f5-be25-926ccb8ddd88)
+
 
 ## L'équipe de la startup :
 
 En octobre 2023, après validation de la phase d'investigation, les intrapreneuses, Caroline et Emmanuelle, ainsi que la coach, Jenn, ont été rejoins par : 
 
-Alejandro Guillèn, lead dev fullstack et Perrine Letellier, dev fullstack/data scientist
+Alejandro Guillèn, lead dev fullstack
+Perrine Letellier, dev fullstack/data scientist
+David Dahan, dev fullstack
 Arthur Klein, designer de services
 
 
