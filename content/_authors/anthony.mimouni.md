@@ -1,10 +1,14 @@
 ---
-domaine: Animation
+domaine: Produit
 fullname: Anthony Mimouni
-role: Animation
+role: Produit
 missions:
-  - start: 2024-05-31
-    end: 2024-12-31
+  - start: 2022-08-01
+    end: 2025-12-31
     status: admin
-    employer: Gendarmerie
+    employer: Gendarmerie nationale
+competences:
+  - Administration Publique
+  - Product strategy
+memberType: beta
 ---
