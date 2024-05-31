@@ -9,4 +9,12 @@ missions:
     employer: ''
     startups:
       - delta.v
+competences:
+  - Data Science
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - Machine learning
+  - Python
+  - PHP
+memberType: beta
 ---
