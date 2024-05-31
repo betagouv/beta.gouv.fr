@@ -19,6 +19,6 @@ startups:
 competences:
   - Communication
 teams:
-  - teams/gip-inclusion
+  - /teams/gip-inclusion
 
 ---
