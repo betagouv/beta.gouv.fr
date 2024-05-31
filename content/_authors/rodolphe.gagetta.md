@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: MALT
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 badges:
   - segur
 competences:

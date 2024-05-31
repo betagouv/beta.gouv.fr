@@ -6,7 +6,7 @@ link: https://www.charlottechoplin.com
 github: Charlottecho
 missions:
   - start: 2021-11-08
-    end: 2024-06-30
+    end: 2024-12-31
     status: independent
     employer: Octo
     startups:

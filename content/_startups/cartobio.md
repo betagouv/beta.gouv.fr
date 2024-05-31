@@ -3,7 +3,7 @@ title: CartoBio
 mission: Ouvrir, enrichir et partager les données parcellaires de l’agriculture biologique
 sponsors:
   - /organisations/agence-bio
-incubator: dinum
+incubator: agriculture
 phases:
   - name: investigation
     start: 2019-12-19
@@ -23,8 +23,9 @@ usertypes:
   - collectivite-territoriale
   - etablissement-scolaire
   - etat
+thematiques:
+  - Agriculture
 ---
-
 ## Le problème
 
 CartoBio répond à un problème auprès de différents acteurs.

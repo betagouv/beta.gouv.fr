@@ -15,6 +15,7 @@ phases:
     start: 2022-01-01
 usertypes:
   - etat
+accessibility_status: non conforme
 ---
 
 ## Contexte
@@ -31,4 +32,5 @@ Les agents ont aussi, parfois, besoin d'une solution immédiatement disponible e
 AudioConf permet de réserver rapidement un numéro de conférence téléphonique, valide immédiatement, ou pour les 30 prochains jours.
 
 ## Indicateur d'impact
+
 L'indicateur d'impact pour AudioConf est le nombre de participants par semaine aux conférences téléphoniques.

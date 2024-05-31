@@ -10,6 +10,7 @@ missions:
     employer: MTE-MCTRCT-Mer - DGALN
     startups:
       - vigieau
+      - vert.impact
 teams:
   - /teams/mtes
 startups:
