@@ -9,4 +9,10 @@ missions:
     employer: MALT
     startups:
       - a-just
+link: https://linkedin.com/in/victordelorme33
+competences:
+  - Facilitation
+  - Croissance
+  - Communication
+memberType: beta
 ---

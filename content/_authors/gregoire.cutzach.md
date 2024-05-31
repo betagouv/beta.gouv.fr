@@ -23,3 +23,4 @@ Libriste
 Coordinateur des Journées du Logiciel Libre
 Administrateur du FAI Illyse
 Administrateur de Grenode AS 51083
+---

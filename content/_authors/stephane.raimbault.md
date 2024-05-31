@@ -15,6 +15,6 @@ missions:
     employer: octo
 previously:
   - a-dock
-  - itou
+  - les-emplois
 ---
 Aime les solutions simples et plein d'autres trucs compliqués.
