@@ -13,4 +13,6 @@ missions:
 startups:
   - territoires-en-transitions
 memberType: beta
+competences:
+  - Développement Frontend
 ---
