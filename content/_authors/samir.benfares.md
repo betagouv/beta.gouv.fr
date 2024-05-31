@@ -10,6 +10,10 @@ missions:
     employer: ut7
     startups:
       - api.apprentissage
+      - tdb-apprentissage
+      - voeux-apprentissage
+      - catalogue-apprentissage
+      - uai_siret
 startups:
   - api.apprentissage
 previously:

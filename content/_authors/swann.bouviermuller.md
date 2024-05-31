@@ -9,8 +9,9 @@ missions:
     status: independent
     employer: LBC
     startups:
-      - sparte
+      - mon-diagnostic-artificialisation
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
 ---
+
 Développeur Django sénior

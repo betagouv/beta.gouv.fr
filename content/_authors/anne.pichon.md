@@ -21,7 +21,7 @@ previously:
   - estime
   - la-bonne-formation
   - zen
-  - itou
+  - les-emplois
   - place-de-marche-inclusion
   - la-bonne-alternance
 competences:

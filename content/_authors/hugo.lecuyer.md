@@ -9,4 +9,13 @@ missions:
     employer: Malt
     startups:
       - data-inclusion
+competences:
+  - PHP
+  - Développement Backend
+  - Python
+  - ElasticSearch
+  - DevOps
+memberType: beta
+link: https://www.linkedin.com/in/hugo-lecuyer-67841a8a/
+github: hlecuyer
 ---
