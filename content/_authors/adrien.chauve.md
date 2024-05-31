@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Fabrique numérique des ministères sociaux
   - start: 2024-06-17
+    end: null
     status: admin
     employer: DNUM des ministères sociaux
 ---
