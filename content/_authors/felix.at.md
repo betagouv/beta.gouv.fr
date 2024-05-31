@@ -2,7 +2,7 @@
 fullname: Félix At
 github: felixat13
 role: Data Analyst
-domaine: Autre
+domaine: Data
 link: https://www.linkedin.com/in/felixat/
 missions:
   - start: 2023-02-01

@@ -11,7 +11,7 @@ missions:
     status: independent
     employer: octo
   - start: 2022-01-01
-    end: 2024-03-30
+    end: 2024-12-31
     status: independent
     employer: scopyleft
 startups:

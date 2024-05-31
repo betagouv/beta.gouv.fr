@@ -8,9 +8,10 @@ missions:
     status: independent
     employer: MALT / ANCT
     startups:
-      - conseiller-numerique
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 memberType: beta
 ---
+
 PO

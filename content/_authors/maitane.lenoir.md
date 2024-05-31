@@ -19,7 +19,7 @@ missions:
     status: independent
     employer: ''
 startups:
-  - especes.protegees
+  - pitchou
   - sppnaut
 previously:
   - territoires-en-transitions

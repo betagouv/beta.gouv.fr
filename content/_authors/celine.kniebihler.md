@@ -10,9 +10,9 @@ missions:
     status: independent
     employer: Arolla, Octo
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 previously:
   - e-controle
 ---

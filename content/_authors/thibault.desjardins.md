@@ -14,8 +14,8 @@ missions:
     employer: DINUM
 previously:
   - aplus
-  - place-des-entreprises
-  - conseiller-numerique
+  - conseillers-entreprises
+  - france-numerique-ensemble
   - histologe
 badges:
   - segur
