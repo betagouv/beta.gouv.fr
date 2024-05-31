@@ -7,9 +7,9 @@ missions:
     end: 2020-09-30
     status: independent
     startups:
-      - itou
+      - les-emplois
       - place-de-marche-inclusion
 startups:
-  - itou
+  - les-emplois
   - place-de-marche-inclusion
 ---

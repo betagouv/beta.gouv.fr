@@ -18,6 +18,11 @@ phases:
 usertypes:
   - entreprise
 accessibility_status: non conforme
+thematiques:
+  - Travail / Emploi
+  - Social
+  - Entreprises
+  - Administratif
 ---
 ## Le contexte :
 
@@ -34,14 +39,24 @@ Une campagne est ouverte chaque année entre janvier et mars afin que les entrep
 
 ● écart de taux de promotions (seulement pour les entreprises de plus de 250 salariés).
 
-**Problème** : l'écart salarial entre les femmes et les hommes au sein des entreprises françaises est chiffré actuellement à 15% en moyenne.
+## Le problème : 
 
-**Solution** : Le Ministère du Travail a publié en janvier 2018 un décret qui oblige les entreprises françaises à calculer et transmettre l'index d'égalité professionnelle, calculé grâce à des indicateurs concernant les rémunérations, les augmentations et promotions, le congé maternité et la répartition femmes-hommes parmi les plus 10 hauts salaires.
+L'écart salarial entre les femmes et les hommes au sein des entreprises françaises est chiffré actuellement à 15% en moyenne.
 
-Pour cela, la Fabrique numérique des ministères sociaux a développé le produit "Index Egapro" (https://egapro.travail.gouv.fr), lequel permet aux 40 000 entreprises françaises concernées par cette obligation de calculer et déclarer leur index égalité professionnelle. Le produit, en production depuis juin 2018, continue encore d'évoluer avec des fonctionnalités.
+## Notre solution : 
 
-La page annexe https://egapro.travail.gouv.fr/consulter-index permet au grand public de consulter les index publics, à savoir ceux des entreprises de plus de 1000 salariés (ceux des entreprises de +250 salariés seront rendus publics à compter du 01/01/21)
+Le Ministère du Travail a publié en janvier 2018 un décret qui oblige les entreprises françaises à calculer et transmettre l'index d'égalité professionnelle, calculé grâce à des indicateurs concernant les rémunérations, les augmentations et promotions, le congé maternité et la répartition femmes-hommes parmi les plus 10 hauts salaires.
 
-\## Partenariat passé
+## Notre cible : 
 
-Le produit continue de fonctionner et s'améliore en continu. Il est toujours porté par la Fabrique des ministères sociaux.
+Depuis le 1er mars 2020, toutes les entreprises d’au moins 50 salariés sont concernées par cette obligation.
+
+## Notre mesure d’impact et les objectifs : 
+
+L’index de l’égalité professionnelle a été concu pour faire progresser au sein des entreprises l’égalité salariale entre les femmes et les hommes.
+
+Les entreprises mesurent, en toute transparence, les écarts de rémunération entre les sexes et de mettre en évidence leurs points de progression sur la plateforme Egapro.
+
+Si l’index de l'égalité professionnelle est inférieur à 75 points, l’entreprise doit notamment adopter et publier des mesures de correction et de rattrapage.
+
+En cas de non publication de l’index, l’entreprise est redevable d’une pénalité financière pouvant aller jusqu’à 1% de votre masse salariale.

@@ -1,21 +1,16 @@
 ---
 title: Transition Écologique des Entreprises
-mission: >-
-  Guider les entreprises dans leur transition écologique
+mission: Guider les entreprises dans leur transition écologique
 sponsors:
   - /organisations/ademe
 incubator: ademe
-contact: france-transition@beta.gouv.fr
+contact: contact@mission-transition-ecologique.beta.gouv.fr
 link: http://mission-transition-ecologique.beta.gouv.fr/
-repository: https://github.com/betagouv/transition-ecologique-entreprises-widget
+repository: https://github.com/betagouv/mission-transition-ecologique
 accessibility_status: non conforme
-dashlord_url: https://incubateur-ademe.github.io/dashlord/url/mission-transition-ecologique-beta-gouv-fr/
+dashlord_url: >-
+  https://incubateur-ademe.github.io/dashlord/url/mission-transition-ecologique-beta-gouv-fr/
 stats: false
-# stats_url: >-
-#   https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=194&period=day&date=yesterday#?idSite=194&period=day&date=yesterday&segment=&category=Dashboard_Dashboard&subcategory=1
-# budget_url: http://mission-transition-ecologique.beta.gouv.fr/budget
-analyse_risques: false
-# analyse_risques_url: https://github.com/betagouv/carte-verte/blob/main/SECURITY.md
 phases:
   - name: investigation
     start: 2023-02-27
@@ -23,11 +18,15 @@ phases:
   - name: construction
     start: 2023-03-30
 techno:
-    - Vue.js
-    - TypeScript
-    - publi.codes
+  - Vue.js
+  - TypeScript
+  - publi.codes
 usertypes:
   - entreprise
+stats_url: https://mission-transition-ecologique.beta.gouv.fr/stats
+thematiques:
+  - Écologie
+  - Entreprises
 ---
 Le service public Transition Écologique des Entreprises est un guichet d'accueil, d'aide et d'accompagnement dans la transition écologique des entreprises.
 
@@ -65,7 +64,7 @@ La Startup d'Etat est portée par l'ADEME à travers son [incubateur](https://be
 
 - Recenser, structurer et rendre plus accessible les offres, les actions, les dispositifs d'aides et les programmes proposés par les opérateurs publics
 - Remettre sur pied une équipe afin de développer un module d'auto-diagnostic permettant de faciliter la recherche de dispositif d'aide adapté à l'entreprise
-- Collaborer avec les entités locales (directions régionales de l'ADEME, conseil régional, CCI, CMA) afin de déployer le service au plus grand nombre à une échelle locale (région par région) et/ou sectorielle et, orienter potentiellement les entreprises vers un interlocuteur à travers le service [place-des-entreprises](https://place-des-entreprises.beta.gouv.fr/).
+- Collaborer avec les entités locales (directions régionales de l'ADEME, conseil régional, CCI, CMA) afin de déployer le service au plus grand nombre à une échelle locale (région par région) et/ou sectorielle et, orienter potentiellement les entreprises vers un interlocuteur à travers le service [conseillers-entreprises](https://conseillers-entreprises.service-public.fr).
 - Apporter un service aux opérateurs (ADEME, BPI, CDC...), à commencer par des statistiques, ayant des offres aux entreprises afin de mieux les cibler et d'avoir également une vision d'ensemble sur les dispositifs existants.
 
 **Mesure d'actionnabilité** : Entreprise qui a été réorienté, a candidaté et a bénéficié d'une aide d'un opérateur public à travers la plateforme

@@ -11,9 +11,9 @@ missions:
     employer: Malt
     startups:
       - la.communaute.de.linclusion
-      - itou
+      - les-emplois
 startups:
   - la.communaute.de.linclusion
-  - itou
+  - les-emplois
 ---
 Entrepreneur Tech Data IA Menuisier le reste du temps

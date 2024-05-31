@@ -5,13 +5,13 @@ role: Chargé de Communication
 github: RodolpheGagetta
 missions:
   - start: 2021-01-21
-    end: 2024-03-31
+    end: 2024-06-30
     status: independent
-    employer: OCTO
+    employer: MALT
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 badges:
   - segur
 competences:

@@ -7,7 +7,7 @@ missions:
     end: 2023-04-03
     status: admin
     startups:
-      - mes.aides
+      - mes-aides-france-travail
 startups:
-  - mes.aides
+  - mes-aides-france-travail
 ---

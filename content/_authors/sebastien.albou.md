@@ -1,7 +1,7 @@
 ---
 fullname: Sébastien Albou
 role: Data Analyst Expérimenté
-domaine: Autre
+domaine: Data
 github: Lahourba
 missions:
   - start: 2023-03-06

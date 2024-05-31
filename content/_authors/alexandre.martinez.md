@@ -10,9 +10,13 @@ missions:
     startups:
       - deveco
       - les.bases
+      - suite.d.outils.des.mediateurs.numeriques
+      - cartographie.nationale
 startups:
   - deveco
   - les.bases
+  - suite.d.outils.des.mediateurs.numeriques
+  - cartographie.nationale
 memberType: beta
 link: https://www.linkedin.com/in/alexandre-martinez-2097b3189/
 ---
