@@ -4,7 +4,7 @@ import fs from "fs/promises";
 import { z } from "zod";
 
 // todo: share with espace-membre
-const domaines = ["Animation", "Coaching", "Déploiement", "Design", "Développement", "Intraprenariat", "Produit", "Autre"];
+const domaines = ["Animation", "Coaching", "Déploiement", "Design", "Développement", "Intraprenariat", "Produit", "Data", "Autre"];
 
 const preventDuplicates = (val, ctx) => {
   if (val && val.length !== new Set(val).size) {

@@ -1,6 +1,6 @@
 ---
 fullname: Jady Nekena RAMANANDRAY
-domaine: Produit
+domaine: Data
 role: Data Analyst
 github: jadynekena
 link: https://jadynekena.com

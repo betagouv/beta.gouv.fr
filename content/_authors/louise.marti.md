@@ -9,10 +9,10 @@ missions:
     employer: Octo
     startups:
       - la.communaute.de.linclusion
-      - itou
+      - les-emplois
 startups:
   - la.communaute.de.linclusion
-  - itou
+  - les-emplois
 competences:
   - Croissance
 ---

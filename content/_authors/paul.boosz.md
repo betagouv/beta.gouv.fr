@@ -1,13 +1,13 @@
 ---
 fullname: Paul Boosz
 role: Data Analyst
-domaine: Développement
+domaine: Data
 github: paulboosz
 missions:
   - start: 2021-11-14
-    end: 2024-04-14
+    end: 2024-10-14
     status: independent
-    employer: INETUM - LBC
+    employer: PathTech
     startups:
       - ecobalyse
 startups:

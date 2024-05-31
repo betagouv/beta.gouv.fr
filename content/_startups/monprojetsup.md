@@ -7,7 +7,17 @@ sponsors:
   - /organisations/mesr
 phases:
   - name: investigation
-    start: 2023-11-07
+    start: 2023-11-11
+  - name: construction
+    start: 2024-03-11
+accessibility_status: non conforme
+link: https://beta.monprojetsup.fr/
+thematiques:
+  - Jeunesse
+  - Education
+stats_url: https://monprojetsup.fr/statistiques/
+repository: https://github.com/betagouv/monprojetsup
+budget_url: https://monprojetsup.fr/budget/
 ---
 ## Contexte
 
@@ -32,10 +42,22 @@ Plusieurs problèmes existent aujourd’hui autour de l’orientation des lycée
 
 L’investigation doit permettre de mieux cerner les problématiques liées à l’orientation, afin de comprendre quelles sont les problématiques terrains rencontrées par les lycéens et les parties prenantes qui interviennent dans le processus d’orientation.
 
-
 Nous irons donc à la rencontre de 5 cibles prioritaires :
 * un panel représentatif de lycéens (classes de la 2nde à la Terminale, avec un mix de filières et de typologie de lycées en Ile-de-France et en région bordelaise),
 * des étudiants en 1ère année d’études supérieures,
 * les parents d’élèves, 
 * les professeurs principaux,
 * les psyEN.
+
+## Solution / MVP
+
+L’investigation a confirmé les attentes fortes 
+des lycéens pour un accompagnement personnalisé, ainsi que le besoin d'outillage des équipes pédagogiques. Il y a effectivement une opportunité à poursuivre le développement d’un service public numérique à impact. 
+La solution envisagée consiste à développer MonProjetSup, service permettant de proposer des suggestions de formations personnalisées selon le profil des élèves.
+
+## Stratégie et impact
+
+Lancée en mars 2024, la SE MonProjetSup a pour objectif à 6 mois de construire un service numérique accessible pour les élèves de 2nde à la Terminale, proposant des suggestions personnalisées de formations, ainsi qu'un moteur de recherche.
+Fin 2024, nous aurons réussi si :
+* les élèves de 2nde ont ajouté au moins une formation ou un métier dans leur sélection; les élèves de 1ère ont ajouté plusieurs formations du sup et métiers d'intérêt dans leur sélection et ont pris connaissance des attendus des formations; les élèves de Terminale, avant fin février, pour chaque formation ajoutée dans MPS, auront au moins trois favoris Parcoursup, répartis entre A+ (ambitieux) A (réaliste) et B (sécurisant).
+*  les professeurs principaux sont prescripteurs du service, peuvent mieux suivre le projet d'orientation de leurs élèves et MPS est le support d'un dialogue de qualité avec leurs élèves.

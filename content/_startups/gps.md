@@ -9,6 +9,8 @@ contact: eric.barthelemy@beta.gouv.fr
 phases:
   - name: investigation
     start: 2023-12-05
+thematiques:
+  - Travail / Emploi
 ---
 ## Contexte
 Dans le cadre de la loi Plein Emploi deux nouvelles notions ont été introduites :

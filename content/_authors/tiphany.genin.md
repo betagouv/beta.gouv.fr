@@ -6,6 +6,7 @@ missions:
   - start: 2023-03-01
     end: 2026-12-31
     status: admin
+    employer: ''
     startups:
       - potentiel
 startups:
@@ -13,4 +14,4 @@ startups:
 github: TiphanyG
 memberType: beta
 ---
-Chargée de mission en charge de l'éolien terrestre Ministère de la Transition énergétique
+Chargée de mission en charge de l'éolien terrestre et Intrapreneuse Potentiel - Ministère chargé de l'énergie

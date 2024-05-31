@@ -16,6 +16,5 @@ competences:
   - Administration Publique
   - Gestion de Produit
 teams:
-  - /teams/mtes
   - /teams/animation-dinum
 ---

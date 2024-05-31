@@ -1,7 +1,7 @@
 ---
 fullname: Bréanne Mallat
 role: Responsable de portefeuille Agriculture
-domaine: Autre
+domaine: Animation
 github: bmallat
 missions:
   - start: 2020-07-12

@@ -26,7 +26,7 @@ techno:
     - Next.js
     - React
     - TypeScript
-    - public.codes
+    - publi.codes
     - MongoDB
     - MDX
 usertypes:
@@ -36,6 +36,8 @@ usertypes:
 fast:
   promotion: 12
   montant: 230000
+thematiques:
+  - Écologie
 ---
 ## Contexte
 

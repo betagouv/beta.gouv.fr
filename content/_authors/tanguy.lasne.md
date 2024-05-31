@@ -1,5 +1,5 @@
 ---
-fullname: Tanguy LASNE
+fullname: Tanguy Lasne
 role: chargé de compte - Malt
 domaine: Autre
 missions:
