@@ -31,6 +31,8 @@ usertypes:
   - entreprise
 redirect_from:
   - /startups/eco-euro
+thematiques:
+  - Écologie
 ---
 ## Contexte
 Carte Verte s’inscrit dans un objectif de politique publique de réduction de l’empreinte environnementale des français et pose le constat suivant : l’empreinte environnementale de la consommation (“je mange”, “j’achète”) des citoyens est trop élevée et peu de dispositifs existent pour l’abaisser (contrairement aux champs des transports et du logement).

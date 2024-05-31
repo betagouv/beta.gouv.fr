@@ -8,12 +8,14 @@ incubator: gip-inclusion
 contact: annaelle.garcia@beta.gouv.fr
 accessibility_status: non conforme
 stats: true
-stats_url: https://mon-recap.fr/?e-landing-page=page-statistiques
+stats_url: https://mon-recap.inclusion.beta.gouv.fr/statistiques/
 phases:
   - name: investigation
     start: 2023-02-13
   - name: construction
     start: 2023-09-04
+thematiques:
+  - Social
 ---
 ## Contexte
 
@@ -42,7 +44,7 @@ Mettre à disposition des personnes en difficulté d’insertion socio-professio
 -﻿ de trouver des solutions à leur problème.
 
 
-**Si vous accompagnez des personnes susceptibles d'utiliser des carnets, [découvrez notre site](https://mon-recap.fr/) ou [commandez gratuitement des carnets](https://tally.so/r/mRMDWl?reseau=0&source=sitegipbeta)**
+**Si vous accompagnez des personnes susceptibles d'utiliser des carnets, [découvrez notre site](https://mon-recap.inclusion.beta.gouv.fr/) ou [commandez gratuitement des carnets](https://tally.so/r/mRMDWl?reseau=0&source=sitegipbeta)**
 
 
 L’expérimentation sera considérée réussie si :

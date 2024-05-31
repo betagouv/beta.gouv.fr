@@ -4,7 +4,7 @@ role: Chargé déploiement
 domaine: Déploiement
 missions:
   - start: 2023-01-03
-    end: 2024-03-31
+    end: 2024-09-30
     status: independent
     employer: Opteamis
     startups:
@@ -12,5 +12,6 @@ missions:
 startups:
   - reva
 memberType: beta
+link: https://www.linkedin.com/in/eric-da-costa-5702b1236/
 ---
-Chargé déploiement
+Chargé de communication

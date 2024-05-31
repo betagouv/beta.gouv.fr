@@ -10,14 +10,14 @@ missions:
     startups:
       - l-immersion-facile
       - data-inclusion
-      - itou
+      - les-emplois
       - pilotage.de.linclusion
       - place-de-marche-inclusion
       - rdv.insertion
 startups:
   - l-immersion-facile
   - data-inclusion
-  - itou
+  - les-emplois
   - pilotage.de.linclusion
   - place-de-marche-inclusion
   - rdv.insertion

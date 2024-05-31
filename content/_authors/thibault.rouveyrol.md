@@ -12,6 +12,7 @@ missions:
     startups:
       - les.bases
       - suite.d.outils.des.mediateurs.numeriques
+      - france-numerique-ensemble
 badges:
   - segur
 startups:

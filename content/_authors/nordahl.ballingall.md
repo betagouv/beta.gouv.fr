@@ -4,7 +4,7 @@ role: Responsable Marketing
 domaine: Déploiement
 missions:
   - start: 2023-01-09
-    end: 2024-03-31
+    end: 2024-06-30
     status: independent
     employer: Opteamis
     startups:

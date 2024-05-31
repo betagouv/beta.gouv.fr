@@ -28,21 +28,24 @@ techno:
 usertypes:
   - particulier
 dashlord_url: https://dashlord.incubateur.net/url/vae-gouv-fr/
-stats_url: https://metabase.vae.gouv.fr/public/dashboard/f27f670b-31fb-4b3d-8322-52761c4110c2
+stats_url: >-
+  https://metabase.vae.gouv.fr/public/dashboard/951df0e6-757d-4491-928e-2cd2d6beafec
 repository: https://github.com/SocialGouv/reva
 stats: true
 accessibility_status: partiellement conforme
+thematiques:
+  - Travail / Emploi
+  - Formation
 ---
-
-## Contexte
+## Le contexte
 
 Instaurée par la loi de modernisation sociale du 17/01/2002, la VAE est la 3ᵉ voie d’accès à la certification en France. Elle repose sur un principe fort : celui de reconnaître que les compétences acquises en vie active confèrent les mêmes compétences que celles acquises en formation initiale et continue et en alternance.
 
-## Problème
+## Le problème
 
  Or cette voie d’accès à la certification peine à trouver sa place dans l’écosystème de la formation professionnelle du fait, entre autres, de la multiplicité de ses intervenants, de ses process et du fait de ses délais.
 
-## Solution
+## Notre solution
 
 France VAE (anciennement REVA) porte l’ambition de développer et fluidifier l’accès à la VAE et d’engager la société française dans un système de reconnaissance des compétences tout au long de la vie.
 

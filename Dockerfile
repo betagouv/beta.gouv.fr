@@ -23,4 +23,4 @@ EXPOSE 4000
 # livereload
 EXPOSE 35729
 
-CMD ["bundle", "exec", "jekyll","serve","--incremental","--host","0.0.0.0","--livereload"]
+CMD ["bundle", "exec", "jekyll","serve","--incremental","--host","0.0.0.0","--livereload", "-V"]

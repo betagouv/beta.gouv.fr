@@ -1,7 +1,7 @@
 ---
 fullname: Tuka Bade
 role: Data Product Owner
-domaine: Produit
+domaine: Data
 github: Master-Touks
 missions:
   - start: 2023-12-11

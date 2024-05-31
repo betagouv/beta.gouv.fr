@@ -14,6 +14,8 @@ phases:
     start: 2023-04-24
     comment: "Dénomination initiale du projet : \"Décisions rendues au cas par cas\"
       - Fin de la phase d'investigation programmée en septembre 2023"
+thematiques:
+  - Écologie
 ---
 ## Contexte
 
