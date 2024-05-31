@@ -9,4 +9,5 @@ missions:
     employer: MIOM
     startups:
       - gestion.subventions.locales
+memberType: beta
 ---
