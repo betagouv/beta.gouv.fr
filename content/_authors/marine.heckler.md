@@ -15,4 +15,5 @@ startups:
 memberType: beta
 competences:
   - Développement Frontend
+  - JavaScript/TypeScript
 ---
