@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2019-07-02
-    end: 2024-12-31
+    end: 2024-06-30
     status: independent
     employer: ''
 startups:
