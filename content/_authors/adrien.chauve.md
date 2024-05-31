@@ -1,12 +1,12 @@
 ---
 fullname: Adrien Chauve
-role: Tech lead / SRE
+role: DevSecOps
 domaine: Développement
 github: achauve
 missions:
   - start: 2022-03-07
-    end: 2024-06-30
-    status: independent
-    employer: Opteamis
+    end: 2024-12-31
+    status: CDI
+    employer: DNUM des ministères sociaux
 ---
-Dev fullstack, devops, pour la tech à impact positif
+Devops pour l'intérêt général
