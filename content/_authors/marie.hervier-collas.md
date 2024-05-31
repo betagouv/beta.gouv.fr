@@ -10,4 +10,5 @@ missions:
     startups:
       - carte-verte
 memberType: beta
+link: https://www.linkedin.com/in/marie-hervier-collas-827772295/
 ---
