@@ -24,7 +24,11 @@ phases:
   - name: acceleration
     start: 2022-09-20
 analyse_risques: true
+thematiques:
+  - Mer
+accessibility_status: non conforme
 ---
+
 ## Contexte
 
 L'agence nationale des données de voyage (ANDV), service interministériel à compétence nationale, est en charge de l’amélioration des dispositifs de collecte et traitement des données de voyages à des fins régaliennes. En France, plus de 30 millions de personnes franchissent les frontières maritimes chaque année, hors pandémie. Les transports maritimes (cargo, croisière, ferries font l’objet d’obligations réglementaires de déclaration de données de voyage aux autorités portuaires.
@@ -50,4 +54,3 @@ La solution est élaborée avec et pour les utilisateurs finaux de manière ité
 Il existe 33 services (PAF/Douane) en charge du contrôle des frontières dans les points de passage frontaliers, dont 31 en France métropolitaine avec des données reçues par le guichet unique portuaire national.
 
 La priorisation du déploiement a été guidée par deux facteurs clés : la qualité de la donnée collecté sur le port x le volume d'escale sur le port.
-

@@ -21,6 +21,9 @@ usertypes:
 fast:
   promotion: 12
   montant: 30000
+thematiques:
+  - Outil technique
+accessibility_status: non conforme
 ---
 
 ## Contexte
@@ -39,13 +42,13 @@ Logiciel de messagerie sécurisé qui met en relation les agents publics entre e
 
 ## Stratégie
 
-* Faciliter la maintenance de l'application en automatisant au maximum les procédures.
-* Industrialiser la demande d'ajout de domaines autorisés.
-* Concevoir une stratégie de déploiement envers les administrations non présentes sur Tchap.
-* Proposer un jeu d'API pour l'interopérabilité de Tchap avec des services externes.
-
+- Faciliter la maintenance de l'application en automatisant au maximum les procédures.
+- Industrialiser la demande d'ajout de domaines autorisés.
+- Concevoir une stratégie de déploiement envers les administrations non présentes sur Tchap.
+- Proposer un jeu d'API pour l'interopérabilité de Tchap avec des services externes.
 
 ## Indicateurs d'impact
+
 Les indicateurs d'impact pour Tchap sont les utilisateurs actifs (une connexion au service/semaine) et les messages envoyés.
 Le proxy actuel pour les utilisateurs actifs sont les inscriptions.
 

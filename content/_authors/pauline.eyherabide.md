@@ -7,15 +7,15 @@ missions:
   - start: 2021-03-18
     end: 2021-09-30
     status: independent
-    employer: ''
+    employer: ""
   - start: 2021-10-28
-    end: 2024-05-30
+    end: 2024-09-30
     status: independent
-    employer: ''
+    employer: ""
 startups:
   - ma-cantine-egalim
 previously:
-  - conseiller-numerique
+  - france-numerique-ensemble
 competences:
   - Communication
 ---

@@ -33,6 +33,9 @@ stats_url: >-
 repository: https://github.com/SocialGouv/reva
 stats: true
 accessibility_status: partiellement conforme
+thematiques:
+  - Travail / Emploi
+  - Formation
 ---
 ## Le contexte
 

@@ -21,6 +21,7 @@ events:
 link: https://signal.conso.gouv.fr
 repository: https://github.com/betagouv/signalconso-website
 stats: true
+stats_url: https://signal.conso.gouv.fr/fr/stats
 accessibility_status: partiellement conforme
 contact: support@signal.conso.gouv.fr
 techno:
