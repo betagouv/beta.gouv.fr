@@ -9,4 +9,7 @@ missions:
     employer: MESR
     startups:
       - monprojetsup
+competences:
+  - Data Science
+  - Machine learning
 ---
