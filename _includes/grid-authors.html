@@ -10,14 +10,15 @@
     {% for author in site.authors %}
       {%- assign startup_id = include.startup.id | remove: '/startups/' -%} <!-- necessary here for some reason ! -->
       {%- assign show_author = false -%}
-      {% if author.startups contains startup_id %}  <!-- legacy format -->
+      {%- assign end_date =  author.missions.last.end | date: '%s' | plus: 0 -%}
+      {% if author.startups contains startup_id and (end_date=0 or (end_date > current_date)) %}  <!-- legacy format -->
         {%- assign show_author = true -%}
       {% else %}
         {% for mission in author.missions %}
           {% if mission.startups contains startup_id %}
             {% assign start_date = mission.start | date: "%s" | plus: 0  %}
             {% assign end_date = mission.end | date: "%s" | plus: 0  %}
-            {% if current_date >= start_date and ((mission.end and current_date <= end_date) or (!mission.end)) %}
+            {% if current_date >= start_date and (end_date > current_date or end_date=0) %}
               {%- assign show_author = true -%}
             {% endif %}
           {% endif %}

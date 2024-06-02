@@ -24,8 +24,10 @@ phases:
     start: 2018-11-01
   - name: acceleration
     start: 2018-11-01
+thematiques:
+  - Écologie
+  - Open-Data
 ---
-
 En 2016, 12 millions de tonnes de déchets dangereux ont été produits en France. Il s’agit de déchets contenants des éléments toxiques ou dangereux qui présentent des risques pour la santé et l'environnement. 
 
 Ces déchets sont soumis à une réglementation particulière pour leur gestion et leur valorisation. Afin de contrôler le traitement effectif des déchets, la loi impose aux sociétés productrices une traçabilité rigoureuse assurée par un bordereau de suivi de déchets qui permet de suivre le déchet de sa collecte à son traitement. Chaque année, près de 16 millions de ces bordereaux sont édités.

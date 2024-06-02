@@ -12,8 +12,9 @@ phases:
       start: 2022-09-01
 redirect_from:
     - /startups/MonAideCyber
+thematiques:
+  - Sécurité informatique
 ---
-
 ## En cours de construction
 
 **Vous êtes intéressé(e) par notre projet ?

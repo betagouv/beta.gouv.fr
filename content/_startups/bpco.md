@@ -17,6 +17,8 @@ phases:
   - start: 2023-03-18
     name: acceleration
 link: https://bpcomieux.fabrique.social.gouv.fr/
+thematiques:
+  - Santé
 ---
 ## Le contexte
 
@@ -54,6 +56,4 @@ Cette future application vise à :
 
 •	Diminuer les coûts dans les dépenses de santé
 
-•	Améliorer la satisfaction et de la qualité de vie du patient. 
-
-
+•	Améliorer la satisfaction et de la qualité de vie du patient.

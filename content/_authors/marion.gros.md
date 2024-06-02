@@ -10,9 +10,9 @@ missions:
     status: service
     employer: OCTO
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 badges:
   - segur
 competences:

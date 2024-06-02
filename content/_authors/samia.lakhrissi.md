@@ -8,8 +8,8 @@ missions:
     status: admin
     employer: Mise à disposition GIP Inclusion
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 memberType: beta
 ---

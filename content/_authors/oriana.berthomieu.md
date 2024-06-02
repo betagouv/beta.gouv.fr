@@ -4,7 +4,7 @@ role: Product Designer
 domaine: Design
 missions:
   - start: 2023-11-15
-    end: 2024-04-15
+    end: 2024-10-31
     status: independent
     employer: ut7
     startups:

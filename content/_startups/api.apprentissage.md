@@ -8,6 +8,9 @@ title: API Apprentissage
 phases:
   - name: construction
     start: 2023-09-01
+thematiques:
+  - Open-Data
+  - Formation
 ---
 # **Le problème de politique publique**
 

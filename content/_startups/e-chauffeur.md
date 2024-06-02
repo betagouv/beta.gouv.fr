@@ -16,8 +16,9 @@ usertypes:
 repository: https://gitlab.com/fabnum-minarm/e-chauffeur/
 stats: false
 contact: romain.perroud@def.gouv.fr
+thematiques:
+  - Transports
 ---
-
 ## Contexte 
 Dans un contexte de réduction du parc automobile du ministère des Armées, le centre interarmées du soutien multiservices (CIM) multiplie les initiatives pour promouvoir de nouvelles offres de mobilité : covoiturage, mise à disposition de vélos à assistance électrique, réservation simplifiée et permanente (24/7) de véhicules partagés.
 
@@ -66,4 +67,3 @@ un [Accès conducteur](https://driver.echauffeur.fabnum.fr)
 - ouverture du service à Brest, Cherbourg, Toulon, Rochefort, Lille, Evreux, Cognac, la Rochelle, et mise en place à Besançon et pour la navette Paris-Arcueil.
 - une moyenne de 1800 courses par mois environ, avant le covid (donc jusqu'en mars 2020)
 - une centaine de chauffeurs environ
-

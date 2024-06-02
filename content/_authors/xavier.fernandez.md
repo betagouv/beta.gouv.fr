@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 ---
 Développeur, avec beaucoup de python et d'open source

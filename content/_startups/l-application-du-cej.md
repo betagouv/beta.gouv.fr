@@ -4,7 +4,6 @@ mission: Aider les jeunes les plus éloignés de l'emploi à trouver leur voie
 sponsors:
   - /organisations/dgefp
 incubator: sgmas
-link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
 repository: https://github.com/SocialGouv/pass_emploi_app
 contact: contact@pass-emploi.beta.gouv.fr
 usertypes:
@@ -22,6 +21,9 @@ phases:
   - name: acceleration
     start: 2022-03-01
 accessibility_status: partiellement conforme
+thematiques:
+  - Travail / Emploi
+  - Jeunesse
 ---
 ## Le contexte : 
 L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l’accompagnement des jeunes ayant accompagnés en CEJ par leurs conseillers (Pôle emploi ou Mission Locale) afin de limiter leurs décrochages en cours d’accompagnement.
@@ -63,4 +65,4 @@ Les jeunes suivis dans le cadre du Contrat d’Engagement Jeune à Pôle emploi 
 
 ●	Rapidité d'accès à un emploi durable 
 
-●	Taux de sorties positives des jeunes 
+●	Taux de sorties positives des jeunes
