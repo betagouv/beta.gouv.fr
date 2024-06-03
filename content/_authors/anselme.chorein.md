@@ -9,4 +9,9 @@ missions:
     employer: Malt
     startups:
       - snu
+link: https://www.linkedin.com/in/anselmechorein/
+github: achorein
+competences:
+  - Développement Full-stack
+memberType: beta
 ---

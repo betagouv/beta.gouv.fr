@@ -551,3 +551,37 @@ mark {
 #job-page h3 {
   margin: 3rem 0 1rem 0;
 }
+
+.startup-timeline {
+  display: flex;
+  margin: 30px 0;
+}
+
+.startup-timeline > div {
+  border-top: 0.5rem solid var(--background-contrast-grey);
+  flex: 1 0 auto;
+  margin: 3px;
+  padding: 5px;
+}
+
+@media screen and (max-width: 768px) {
+  .startup-timeline {
+    display: block;
+  }
+  .startup-timeline > div {
+    width: 200px;
+    margin-bottom: 2rem;
+  }
+}
+
+.startup-timeline > div.active {
+  border-color: var(--background-action-low-blue-france);
+}
+
+.startup-timeline > div.success {
+  border-color: var(--background-action-low-green-emeraude);
+}
+
+.startup-timeline > div.finished {
+  border-color: var(--background-action-low-red-marianne);
+}

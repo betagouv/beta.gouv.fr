@@ -9,4 +9,12 @@ missions:
     employer: Fairness
     startups:
       - dialogue
+link: https://www.linkedin.com/in/julien-jacquelinet-96a6a752/
+competences:
+  - Développement
+  - Développement Backend
+  - Développement Full-stack
+  - DevOps
+memberType: beta
 ---
+Ingénieur Informatique - Python, Web, traitement de données, SIG / GIS, devops

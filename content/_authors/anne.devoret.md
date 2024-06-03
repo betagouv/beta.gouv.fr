@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: NUMA
     startups:
-      - seves
       - phytophare
+      - seves
 badges:
   - segur
 startups:
@@ -21,4 +21,4 @@ previously:
   - la.communaute.de.linclusion
   - acces.majeur.protege
 ---
-Designer très versée
+Designer

@@ -10,11 +10,16 @@ missions:
     status: independent
     employer: icc
   - start: 2020-03-02
-    end: 2024-06-14
+    end: 2024-12-15
     status: admin
     employer: dinum
+  - start: 2023-04-02
+    end: 2024-12-15
+    status: independent
+    employer: malt
+    startups: []
 startups:
-  - itou
+  - les-emplois
 previously:
   - jeveuxaider
   - eac
@@ -27,5 +32,6 @@ previously:
   - psyenfantado
 badges:
   - segur
-teams: null
+teams:
+  - /teams/gip-inclusion
 ---

@@ -23,9 +23,9 @@ usertypes:
   - etat
 dashlord_url: https://dashlord.incubateur.net/url/civilsdeladefense-fabnum-fr/
 accessibility_status: non conforme
+thematiques:
+  - Travail / Emploi
 ---
-
-
 ## Problématique  
 Le ministère des Armées recrute désormais chaque année environ 1 000 agents civils sous contrat notamment sur des métiers en tension (SIC, infrastructures...). Satisfaire ce besoin a rapidement mis en évidence les problématiques suivantes :  
 une forte concurrence interministérielle et avec le secteur privé

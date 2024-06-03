@@ -10,8 +10,17 @@ missions:
     employer: MALT
     startups:
       - api-engagement
+      - jeveuxaider
+  - start: 2023-10-01
+    end: 2024-02-28
+    status: independent
+    employer: NUMA
+    startups:
+      - mobilic
+      - dossierfacile
 startups:
   - api-engagement
 previously:
   - jeveuxaider
+link: https://www.linkedin.com/in/merzouknassim/
 ---

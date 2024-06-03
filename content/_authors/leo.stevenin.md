@@ -4,11 +4,12 @@ role: Développeur
 domaine: Développement
 missions:
   - start: 2023-11-21
-    end: 2024-05-31
+    end: 2024-12-31
     status: independent
+    employer: ''
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 memberType: beta
 ---

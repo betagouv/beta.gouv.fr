@@ -11,6 +11,7 @@ title: Les Bases
 contact: thibault.rouveyrol@beta.gouv.fr
 accessibility_status: non conforme
 stats_url: https://lesbases.anct.gouv.fr/statistiques
+stats: true
 sponsors:
   - /organisations/anct
 phases:
@@ -39,7 +40,6 @@ Il n’existe pas aujourd’hui d’espace partagé (ou plusieurs, mais non-exha
 ## Solution
 
 Proposer une plateforme collaborative, ouverte à tous, et dédiées aux professionnels de la médiation numérique, aux acteurs locaux et aux collectivités territoriales qui souhaitent partager, recenser, ou trouver des ressources autour de l'inclusion numérique.
-
 
 ## Statut actuel
 

@@ -21,6 +21,9 @@ phases:
     start: 2022-07-01
   - name: acceleration
     start: 2023-07-01
+thematiques:
+  - Sécurité informatique
+  - Outil technique
 ---
 ## DossierFacile lance FiligraneFacile !
 

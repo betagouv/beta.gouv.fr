@@ -1,5 +1,5 @@
 ---
-fullname: Carine Temp
+fullname: Carine Callens
 role: Intrapreneur
 domaine: Produit
 missions:

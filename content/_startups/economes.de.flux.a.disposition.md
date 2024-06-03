@@ -42,3 +42,4 @@ L'idée est double :
 ## Stratégie
 
 La stratégie est de lancer une expérimentation sur un à deux départements sur 6 mois pour être capable de mesurer l'impact. Nous construisons actuellement une plateforme à partir de celle de Recoco (Urban Vitaliz, SOS Pont...) pour pouvoir recevoir les demandes des collectivités et de l'Etat. Nous recrutons également un Conseiller Performance et Rénovation énergétiques qui pourra les accompagner. 
+

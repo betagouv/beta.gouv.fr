@@ -1,7 +1,7 @@
 ---
 title: Mes Aides France Travail
 mission: >-
-  Le service Pôle emploi qui permet aux personnes en insertion de trouver en 3
+  Le service France travail qui permet aux personnes en insertion de trouver en 3
   clics les aides humaines, matérielles et financières pour faciliter leur
   parcours vers l’emploi
 redirect_from:
@@ -11,7 +11,7 @@ sponsors:
   - /organisations/mtei
 incubator: pole-emploi
 link: "https://mes-aides.francetravail.fr/"
-contact: mesaides@beta.pole-emploi.fr
+contact: mesaides@beta.francetravail.fr
 phases:
   - name: investigation
     start: 2021-10-04
@@ -22,8 +22,10 @@ phases:
     start: 2022-10-03
     end: 2025-01-01
 accessibility_status: non conforme
+thematiques:
+  - Travail / Emploi
+  - Social
 ---
-
 #### **Contexte**
 
 Le parcours d’insertion professionnelle peut être ralenti par différents freins sociaux que nous avons identifiés : la mobilité, la garde d’enfant, l’accès au logement, la santé, l’accès au numérique… Dans ce contexte le projet Mes Aides a été impulsé par Madame Brigitte Klinkert, ex-ministre déléguée à l’insertion pour participer à la levée de ces freins sociaux.
