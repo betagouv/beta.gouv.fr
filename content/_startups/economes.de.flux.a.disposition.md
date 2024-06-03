@@ -3,7 +3,7 @@ mission: >-
   Orienter et aider dans la rénovation énergétique et la réduction de la
   consommation des bâtiments publics 
 incubator: mtes
-title: Economes de flux à disposition
+title: Dépanne ma Rénov'
 contact: coline.debayle@beta.gouv.fr
 accessibility_status: non conforme
 sponsors:
@@ -12,6 +12,16 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-01
+  - name: construction
+    start: 2024-05-01
+thematiques:
+  - Collectivités
+  - Écologie
+  - Territoires
+usertypes:
+  - etat
+  - collectivite-territoriale
+  - etablissement-scolaire
 ---
 ## Contexte
 La rénovation énergétique est essentielle dans la lutte contre le changement climatique. L'Etat possède plus de 100 millions de m² et les collectivités environ 5 fois plus. Le décret "Energie Tertiaire" demandait déjà des efforts considérables (objectif de - 40% en 2030, - 50% en 2040 et - 60% en 2050) mais l'arrivée de la DEE révisée (Directive Efficacité Energétique) va réhausser nettement les objectifs (-1,9% de baisse chaque année et 3% du parc en travaux minimum, le tout sur un périmètre de bâtiments élargi) avec une obligation de reporting détaillé annuelle auprès de l'UE. 
@@ -23,7 +33,7 @@ Au cours de l'investigation menée au cours des derniers mois (45 entretiens et 
 
 ## Solution
 
-Pour remédier à ce problème, nous nous sommes inspirés d'une solution plébiscitée de tous : les Economes de Flux, parfois aussi appelés "Conseiller en Economie Partagé". Leur rôle consiste justement à  : prioriser et piloter des travaux de rénovation énergétique en tant que AMO, lancer des actions de réduction de la consommation énergétique, aider au montage de dossiers d’aides financières,  aider à remplir les outils de rapportage comme OPERAT. Ils sont des experts de confiance, capables de défendre les intérêts du public. Malheureusement, ils sont trop peu nombreux et sont très isolés dans leur pratique.
+Pour remédier à ce problème, nous nous sommes inspirés d'une solution plébiscitée de tous : les Economes de Flux, parfois aussi appelés "Conseillers en Economie Partagé". Leur rôle consiste justement à  : prioriser et piloter des travaux de rénovation énergétique en tant que AMO, lancer des actions de réduction de la consommation énergétique, aider au montage de dossiers d’aides financières,  aider à remplir les outils de rapportage comme OPERAT. Ils sont des experts de confiance, capables de défendre les intérêts du public. Malheureusement, ils sont trop peu nombreux et sont très isolés dans leur pratique.
 
 L'idée est double :
 1. Expérimenter un service d'orientation par des Economes de Flux en central, à disposition des collectivités et de l'Etat. Ces derniers pourraient exprimer leur besoin sur une plateforme et un à deux Economes de flux en freelance pourraient les aiguiller et les aider. A chaque nouvelle aide apportée, une fiche réutilisable pourrait être créée afin de progressivement créer une sorte de Wiki à jour permettant de partager les connaissances entre tous les professionnels du métier (ex: comment solliciter l'aide XX de telle région, comment lancer une opération de relamping...)
@@ -31,4 +41,4 @@ L'idée est double :
 
 ## Stratégie
 
-La stratégie est de lancer une expérimentation sur un à deux départements sur 6 mois pour être capable de mesurer l'impact.
+La stratégie est de lancer une expérimentation sur un à deux départements sur 6 mois pour être capable de mesurer l'impact. Nous construisons actuellement une plateforme à partir de celle de Recoco (Urban Vitaliz, SOS Pont...) pour pouvoir recevoir les demandes des collectivités et de l'Etat. Nous recrutons également un Conseiller Performance et Rénovation énergétiques qui pourra les accompagner. 
