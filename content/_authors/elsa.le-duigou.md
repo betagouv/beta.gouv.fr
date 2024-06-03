@@ -14,16 +14,16 @@ missions:
     employer: ''
     startups:
       - collectif_objets
-      - teleconsultation-ald
-      - infomedicament
-      - medistock
-      - tous.a.bord
-      - france.consulaire
   - start: 2022-12-27
     end: 2025-12-26
     status: admin
     employer: dinum
-    startups: []
+    startups:
+      - infomedicament
+      - medistock
+      - tous.a.bord
+      - france.consulaire
+      - teleconsultation-ald
 previously:
   - collectif_objets
 badges:
