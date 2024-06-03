@@ -2,6 +2,7 @@
 fullname: Mathieu Bonamy
 role: Chargé de déploiement
 domaine: Déploiement
+github: MathieuBonamy
 missions:
   - start: 2022-08-25
     end: 2024-06-29

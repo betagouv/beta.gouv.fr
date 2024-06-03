@@ -2,7 +2,7 @@
 mission: >-
   Garantir une meilleur traçabilité des viandes de gibier sauvage mises sur le
   marché
-incubator: dinum
+incubator: agriculture
 title: Traçabilité Gibier Sauvage
 contact: anne.devoret@beta.gouv.fr
 accessibility_status: non conforme
@@ -11,6 +11,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-02-06
+thematiques:
+  - Écologie
 ---
 ## Contexte
 
@@ -30,6 +32,4 @@ Nombreuses sont les carcasses qui ne suivent pas — ou que partiellement — ce
 Aussi, on note qu'au delà de la consommation du gibier, les mauvaises pratiques de chasse comportent des risques plus larges comme la contamination des sol en cas d’éviscération en milieu naturel, la prolifération de maladies zoonose ou animales comme la peste porcine africaine (PPA) lorsque le gibier rentre en contact avec des animaux d'élevage, provoquant des épidémies coûteuses à endiguer. 
 
 **Comment expliquer une faible adhésion des acteurs de la chasse à la traçabilité des carcasses ? 
-Comment créer un réseau d'intéressement pour l'ensemble des acteurs afin de sécuriser les pratiques de chasse et la consommation du gibier sauvage ?** 
-
-
+Comment créer un réseau d'intéressement pour l'ensemble des acteurs afin de sécuriser les pratiques de chasse et la consommation du gibier sauvage ?**

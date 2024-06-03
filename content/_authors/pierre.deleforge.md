@@ -9,11 +9,11 @@ missions:
     status: independent
     employer: ''
     startups:
-      - itou
+      - les-emplois
       - place-de-marche-inclusion
       - pilotage.de.linclusion
 startups:
-  - itou
+  - les-emplois
   - place-de-marche-inclusion
   - pilotage.de.linclusion
 ---

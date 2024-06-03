@@ -9,14 +9,7 @@ missions:
     status: admin
     startups:
       - mobilic
-  - start: 2023-08-28
-    end: 2024-02-29
-    status: independent
-    employer: MALT
-    startups:
-      - a-just
 startups:
-  - a-just
   - mobilic
 previously:
   - a-just

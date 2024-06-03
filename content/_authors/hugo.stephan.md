@@ -5,7 +5,7 @@ domaine: Design
 link: https://hugostephan.com
 missions:
   - start: 2023-09-18
-    end: 2024-04-01
+    end: 2024-08-01
     status: service
     employer: La Mednum
     startups:

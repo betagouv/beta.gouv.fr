@@ -6,12 +6,10 @@ link: https://www.linkedin.com/in/sandra-chakroun
 github: sandcha
 missions:
   - start: 2017-05-10
-    end: 2024-03-31
+    end: 2024-06-03
     status: independent
     employer: octo
     startups:
-      - openfisca
-      - leximpact
       - reformes-locales
 startups:
   - openfisca

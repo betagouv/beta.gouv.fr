@@ -19,7 +19,7 @@ previously:
   - rim-culture
   - signaux-faibles
   - ban
-  - sparte
+  - mon-diagnostic-artificialisation
   - bases.adresses.locales
   - homologation
 badges:

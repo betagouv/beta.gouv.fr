@@ -11,6 +11,9 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-03-01
+thematiques:
+  - Open-Data
+  - Outil technique
 ---
 ## Contexte
 
