@@ -1,17 +1,18 @@
 ---
 domaine: Développement
-fullname: Johann Brancourt
-role: Développeur full stack
+fullname: Pierre-Yves Dezaunay
+role: Développement
 missions:
-  - start: 2024-03-25
+  - start: 2024-06-03
     end: 2024-12-31
     status: independent
     employer: Malt
     startups:
-      - snu
-link: https://www.linkedin.com/in/johann-brancourt-freelance/
-github: Johannbr
+      - envergo
+link: https://dezaunay.fr/
 competences:
   - Développement Full-stack
 memberType: beta
 ---
+Développeur à la rescousse des tritons et des nénuphars 
+
