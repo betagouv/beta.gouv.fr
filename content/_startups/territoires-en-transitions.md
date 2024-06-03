@@ -37,8 +37,9 @@ redirect_from:
 fast:
   promotion: 14
   montant: 300000
+thematiques:
+  - Territoires
 ---
-
 ## Contexte
 
 Dans le cadre des programmes d'accompagnement des collectivités dans leurs démarches de transition écologique, l'ADEME (l'Agence la transition écologique) s'est associée à beta.gouv.fr. L'objectif : Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique.

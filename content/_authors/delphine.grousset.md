@@ -7,8 +7,8 @@ missions:
     status: admin
     employer: GIP de l'Inclusion
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 domaine: Déploiement
 ---

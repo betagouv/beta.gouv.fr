@@ -16,11 +16,22 @@ missions:
     end: 2023-01-31
     employer: Octo
     status: independent
+  - start: 2024-03-07
+    end: 2024-07-15
+    employer: Malt
+    status: independent
+  - status: independent
+    employer: Malt
+    start: 2024-03-11
+    end: 2024-07-31
 startups:
-  - aides.jeunes
+  - monprojetsup
 previously:
   - mes-aides
   - la-bonne-formation
+  - aides.jeunes
+  - la-bonne-alternance
 competences:
   - Gestion de Produit
+  - Croissance
 ---

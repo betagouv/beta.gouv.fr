@@ -8,14 +8,14 @@ phases:
   - name: construction
     start: 2023-01-01  
 repository: https://github.com/mission-apprentissage/tjp-pilotage
-stats_url: 
-stats: 
+stats_url: https://orion.inserjeunes.beta.gouv.fr/statistiques
+stats: true
 contact: contact@inserjeunes.beta.gouv.fr
 usertypes:
   - etablissement-scolaire
   - etat
   - collectivite-territoriale
-dashlord_url: 
+dashlord_url: https://dashlord.incubateur.net/url/orion-inserjeunes-beta-gouv-fr/
 ---
 
 ## Le constat
@@ -38,11 +38,11 @@ Un service numérique contribuant au pilotage de l’évolution de la carte des 
 - La demande économique ;
 - Etc…
 
-Actuellement, Orion propose à tous : 
+Actuellement, Orion propose à tous en accès public: 
 - Un panorama des formations par région, par département et par établissement ;
 - Une console avec des données détaillées par établissement et par formation (des données notammment sur l’attractivité des formations, le taux de pression, les effectifs, le devenir des apprenants sont disponibles, elles vont progressivement s’étayer).
 
-Des outils permettant la remontée et l’analyse des demandes de transformation de la carte des formations des lycées professionnels ont été développés. Aujourd’hui, sont proposées aux régions académiques et à la DGESCO des premières versions visant à faciliter le dialogue de gestion. Début 2024, les conseils régionaux et les établissements seront associés à ces travaux.
+Des outils permettant la remontée et l’analyse des demandes de transformation de la carte des formations des lycées professionnels ont été développés. Aujourd’hui, sont proposées aux régions académiques et à la DGESCO, via un accès connecté, des premières versions visant à faciliter le dialogue de gestion. Courant 2024, les conseils régionaux et les établissements seront associés à ces travaux.
 
 ## Les bénéfices
 
@@ -52,7 +52,7 @@ Les bénéfices attendus sont les suivants :
 - Augmentation de la transformation des places de formation.
 
 Les premiers résultats sont encourageants : 
-- 13 700 visiteurs uniques se sont rendus sur la plateforme entre juin et décembre 2023. Chacun reste environ 7 minutes par connexion.
+- 22 8000 visiteurs uniques se sont rendus sur la plateforme depuis son ouverture. Chacun reste environ 7 minutes par connexion.
 - De nombreuses transformations sont prévues pour la rentrée 2024, avec notamment la création de 3 670 nouvelles places par rapport à 2023.
 
 

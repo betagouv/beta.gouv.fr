@@ -15,6 +15,8 @@ phases:
     end: 2022-06-15
   - name: construction
     start: 2022-06-26
+thematiques:
+  - Logement
 ---
 ## Contexte
 

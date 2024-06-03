@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: ''
   - start: 2021-02-08
-    end: 2024-05-31
+    end: 2024-10-31
     status: independent
     employer: ''
 startups:

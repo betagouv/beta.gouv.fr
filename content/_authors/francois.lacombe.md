@@ -6,12 +6,14 @@ link: http://www.infos-reseaux.com
 github: flacombe
 missions:
   - start: 2022-10-02
-    end: 2024-06-01
+    end: 2025-01-01
     status: independent
     employer: ANCT
     startups:
       - pcrs
 startups:
   - pcrs
+badges:
+  - segur
 ---
 Données ouvertes, infrastructures et OpenStreetMap

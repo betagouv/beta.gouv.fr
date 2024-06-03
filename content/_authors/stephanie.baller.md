@@ -1,5 +1,5 @@
 ---
-fullname: Stéphanie BALLER
+fullname: Stéphanie Baller
 role: Utilisateur DGFIP Action économique
 domaine: Autre
 missions:

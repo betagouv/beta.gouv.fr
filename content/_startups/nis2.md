@@ -8,7 +8,8 @@ sponsors:
 phases:
   - name: construction
     start: 2023-06-01
-
+thematiques:
+  - Sécurité informatique
 ---
 ## En cours de construction
 

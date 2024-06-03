@@ -1,7 +1,7 @@
 ---
 fullname: Anna-Livia Gomart
-role: Co-responsable de l'opérateur, en charge du programme d'incubation.
 domaine: Animation
+role: Co-responsable de l'opérateur, en charge du programme d'incubation.
 github: Anna-Livia
 avatar: https://avatars3.githubusercontent.com/Anna-Livia?s=600
 link: https://www.linkedin.com/in/anna-livia-gomart-0789065/
@@ -13,7 +13,7 @@ missions:
   - employer: dinum
     status: admin
     start: 2021-03-15
-    end: 2024-03-14
+    end: 2027-03-14
 startups: null
 previously:
   - openfisca
@@ -22,6 +22,9 @@ previously:
   - api-particulier
   - aidantsconnect
   - tchap
+competences:
+  - Développement Backend
+  - Gestion de Produit
 teams:
   - /teams/dinum_produits_interministeriels
 ---

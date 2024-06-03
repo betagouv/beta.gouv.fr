@@ -1,9 +1,9 @@
 ---
 fullname: Céline Martinet Sanchez
-role: Développeuse
+role: Responsable technique (Lead dev)
 domaine: Développement
 github: celine-m-s
-link: https://www.hello-birds.com
+link: https://www.linkedin.com/in/celinemartinet1/
 missions:
   - start: 2019-06-01
     end: 2019-08-30
@@ -14,11 +14,11 @@ missions:
     status: independent
     employer: octo
   - start: 2023-05-01
-    end: 2024-04-30
+    end: 2024-12-31
     status: independent
     employer: malt
 startups:
-  - itou
+  - les-emplois
 previously:
   - inclusion.connect
   - la-bonne-boite
