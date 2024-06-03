@@ -18,6 +18,7 @@ thematiques:
 stats_url: https://monprojetsup.fr/statistiques/
 repository: https://github.com/betagouv/monprojetsup
 budget_url: https://monprojetsup.fr/budget/
+dashlord_url: https://dashlord.incubateur.net/url/monprojetsup-fr/
 ---
 ## Contexte
 
