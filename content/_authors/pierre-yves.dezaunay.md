@@ -9,4 +9,9 @@ missions:
     employer: Malt
     startups:
       - envergo
+link: https://dezaunay.fr/
+competences:
+  - Développement Full-stack
+memberType: beta
 ---
+Développeur à la rescousse des tritons et nénuphars 
