@@ -9,4 +9,14 @@ missions:
     employer: Malt
     startups:
       - zero-logement-vacant
+link: https://www.linkedin.com/in/rapha%C3%ABl-courivaud/
+github: rcourivaud
+competences:
+  - Data Science
+  - Développement Backend
+  - Machine learning
+  - PostgreSQL
+  - Python
+  - Metabase
+memberType: beta
 ---

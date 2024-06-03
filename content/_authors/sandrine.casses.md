@@ -9,9 +9,9 @@ missions:
     status: admin
     employer: Pôle emploi
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 competences:
   - Gestion de Produit
 ---

@@ -1,15 +1,17 @@
 ---
 fullname: Erwan Gravez
-role: Product owner
+role: Chargé de déploiement
 domaine: Déploiement
 missions:
-  - start: 2023-02-28
-    end: 2023-06-20
+  - start: 2024-05-29
+    end: 2024-11-29
     status: independent
-    employer: Path Tech
+    employer: malt
     startups:
-      - la.bonne.renov
+      - chauffage-urbain
 startups:
+  - chauffage-urbain
+previously:
   - la.bonne.renov
 memberType: beta
 ---
