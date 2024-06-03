@@ -11,7 +11,7 @@ missions:
     startups:
       - territoires-en-transitions
   - start: 2023-11-13
-    end: 2025-04-30
+    end: 2024-04-30
     status: independent
     employer: Octo Malt
     startups:
