@@ -12,9 +12,9 @@ missions:
     startups:
       - potentiel
   - start: 2023-05-01
-    end: 2024-06-30
+    end: 2024-12-31
     status: independent
-    employer: NUMA
+    employer: NUMA + Malt
     startups:
       - longuevieauxobjets
 incubator: mtes

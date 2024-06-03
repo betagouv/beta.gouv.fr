@@ -2,7 +2,7 @@
 mission: >-
   Garantir une meilleur traçabilité des viandes de gibier sauvage mises sur le
   marché
-incubator: dinum
+incubator: agriculture
 title: Traçabilité Gibier Sauvage
 contact: anne.devoret@beta.gouv.fr
 accessibility_status: non conforme
