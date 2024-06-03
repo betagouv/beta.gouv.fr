@@ -14,4 +14,4 @@ competences:
   - Développement Full-stack
 memberType: beta
 ---
-Développeur à la rescousse des tritons et nénuphars 
+Développeur à la rescousse des tritons et des nénuphars 
