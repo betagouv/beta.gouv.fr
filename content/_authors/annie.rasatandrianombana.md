@@ -12,8 +12,12 @@ missions:
     end: 2024-03-31
     status: independent
     employer: Malt
+  - start: 2024-04-01
+    end: 2027-03-31
+    status: admin
+    employer: GIP Inclusion
 startups:
-  - itou
+  - les-emplois
   - pilotage.de.linclusion
 previously:
   - resorption-bidonvilles

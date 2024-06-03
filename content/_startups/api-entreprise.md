@@ -20,9 +20,10 @@ usertypes:
   - entreprise
   - etat
   - collectivite-territoriale
-
+thematiques:
+  - Open-Data
+  - Entreprises
 ---
-
 ## Le problème
 
 Lorsqu'une entreprise ou une association dépose un dossier pour une démarche administrative, elle doit fournir de nombreuses informations et documents. C'est par exemple le cas pour candidater à un marché public ou faire une demande d'aide/subvention publique.

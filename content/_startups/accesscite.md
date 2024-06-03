@@ -1,6 +1,8 @@
 ---
 title: Access'cité
-mission: 'Améliorer le nombre d''ERP accessible '
+mission: >-
+  Accélérer l'accessibilité des établissements recevant du public pour les
+  personnes à mobilité réduite.
 sponsors:
   - /organisations/dgaln
 incubator: mtes
@@ -16,6 +18,8 @@ phases:
   - name: construction
     start: 2022-11-01
 link: https://www.demarches-simplifiees.fr/commencer/dossier-accessibilite
+thematiques:
+  - Administratif
 ---
 ## Contexte
 
@@ -33,7 +37,7 @@ Access'cité est un outil visant à simplifier la création et l'instruction des
 Nous avons développé un premier prototype fonctionnel d'Access'cité avec l'outil Démarches Simplifiées.
 Ce prototype est d'ores et déjà accessible au lien suivant : https://www.demarches-simplifiees.fr/commencer/dossier-accessibilite
 
-En remplissant le formulaire, le pétitionnaire génère un dossier complet (CERFA 13824*04, notice d'accessibilité et plans) pour une demande de travaux de mise en accessibilité.
+En remplissant le formulaire, le pétitionnaire génère un dossier complet (CERFA 13824*04, notice d'accessibilité et plans) pour une demande de travaux de mise en accessibilité PMR.
 
 Ce prototype est particulièrement utile aux "petits commerçants" qui ont souvent des difficultés à comprendre la législation et qui ne disposent malheureusement pas toujours de l'expertise et du temps nécessaire pour correctement monter les dossiers.
 

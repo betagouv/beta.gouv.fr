@@ -1,11 +1,11 @@
 ---
 fullname: Hajar AIT EL KADI
-role: Développeuse
+role: Data engineer
 domaine: Développement
 github: haekadi
 missions:
   - start: 2021-07-07
-    end: 2024-06-29
+    end: 2024-12-31
     status: service
     employer: Octo
     startups:

@@ -1,7 +1,7 @@
 ---
 fullname: Alice Andres
 role: Développeuse
-domaine: Autre
+domaine: Développement
 github: alice-telescoop
 missions:
   - start: 2022-03-31

@@ -1,5 +1,6 @@
 ---
-link: https://espacesurdemande.anct.gouv.fr/
+link: >-
+  https://espacesurdemande.anct.gouv.fr/?mtm_campaign=annuaire-se-beta&mtm_source=web&mtm_medium=beta-gouv
 mission: >-
   Faciliter la mise à disposition et la location des espaces publics des
   collectivités auprès des citoyens.
@@ -11,11 +12,28 @@ sponsors:
   - /organisations/anct
 phases:
   - name: construction
-    start: 2022-09-01
-  - name: construction
-    start: 2023-09-01
+    start: 2023-04-03
+thematiques:
+  - Collectivités
+  - Territoires
+  - Social
+  - Démocratie
+  - Administratif
+  - Entreprises
+stats_url: https://espacesurdemande.anct.gouv.fr/statistiques
+repository: >-
+  https://gitlab.com/incubateur-territoires/startups/espace-sur-demande/application
+mon_service_securise: true
+usertypes:
+  - particulier
+  - association
+  - entreprise
+  - collectivite-territoriale
+  - etat
 ---
-**Espace sur Demande est un site public couplé d'une web app permettant de faciliter la mise à disposition et la location d'espaces publics des collectivités. Il peut profiter autant aux particuliers, associations qu'aux entreprises.**
+**Espace sur Demande est une plateforme permettant de faciliter la réservation d'espaces publics des collectivités. 
+
+Notre ambition : agir pour que tout citoyen, entreprise ou association puisse réserver un espace public à proximité de chez lui à un coût raisonnable.**
 
 ## Contexte
 

@@ -16,7 +16,7 @@ startups:
   - dora
   - data-inclusion
 previously:
-  - itou
+  - les-emplois
   - la-bonne-alternance
   - la-bonne-boite
 competences:

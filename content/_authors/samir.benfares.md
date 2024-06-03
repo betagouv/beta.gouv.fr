@@ -5,11 +5,15 @@ domaine: Développement
 github: sbenfares
 missions:
   - start: 2020-01-22
-    end: 2024-03-31
+    end: 2024-09-30
     status: independent
     employer: ut7
     startups:
       - api.apprentissage
+      - tdb-apprentissage
+      - voeux-apprentissage
+      - catalogue-apprentissage
+      - uai_siret
 startups:
   - api.apprentissage
 previously:

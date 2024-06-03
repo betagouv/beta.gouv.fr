@@ -6,8 +6,9 @@ github: telohtrab
 link: http://trab.studio
 missions:
   - start: 2019-05-01
-    end: 2024-06-30
+    end: 2024-12-31
     status: independent
+    employer: ''
     startups:
       - aidantsconnect
 startups:

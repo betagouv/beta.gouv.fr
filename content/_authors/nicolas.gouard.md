@@ -16,4 +16,7 @@ startups:
   - jeveuxaider
   - api-engagement
 memberType: beta
+competences:
+  - Product design
+  - UX
 ---

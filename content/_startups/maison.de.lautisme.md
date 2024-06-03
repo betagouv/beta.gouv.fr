@@ -17,29 +17,24 @@ phases:
     end: 2022-12-07
   - name: construction
     start: 2022-12-12
+  - name: acceleration
+    start: 2023-04-04
+  - name: transfer
+    start: 2023-12-31
 ---
+## Le contexte
 
-## Pourquoi la Maison de l’autisme ? 
+Sur la base d’enquêtes publiques faisant état d’un déficit de ressources fiables à disposition des personnes autistes et de leurs proches, le Président de la République a souhaité que soit créée une “maison de l’autisme” qui soit un lieu d’information, de rencontres et d’accompagnement des personnes vers et dans l’accès à leurs droits. 
 
-
+## Le problème 
 *“Je ne sais, ni où trouver l’information, ni si elle est fiable”.*
 
 *“Je ne sais pas par où commencer, à qui m’adresser, quelle que soit l’étape du parcours à laquelle je me trouve”.*
 
 *“Je perds un temps fou à comprendre à quelles aides j’ai droit et à remplir mes démarches”.*
 
-Sur la base d’enquêtes publiques faisant état d’un déficit de ressources fiables à disposition des personnes autistes et de leurs proches, le Président de la République a souhaité que soit créée une “maison de l’autisme” qui soit un lieu d’information, de rencontres et d’accompagnement des personnes vers et dans l’accès à leurs droits. 
 
-
-## Qu’est-ce que la Maison de l’autisme ?
-
-
-La Maison de l’autisme est la réunion de trois équipes, que sont le Groupement national des centres ressources autismes (GNCRA), le Centre ressources autisme en Île-de-France (CRAIF) et Autisme Info service.
-
-La Maison de l’autisme est un projet physique - un espace de 1500 m2 qui a ouvert en avril 2023 à Aubervilliers, à proximité immédiate du métro Front Populaire - et numérique. 
-
-
-## Qu’est-ce que la Maison numérique de l’autisme ?
+## Notre solution
 
 
 La Maison numérique de l'autisme est une plateforme d’informations et de services. Elle a trois grandes fonctions. 
@@ -52,15 +47,19 @@ Troisièmement, elle propose des ressources et services que seul le digital peut
 
 Son ouverture bêta a eu lieu le 1er février 2023, et son déploiement officiel le 2 avril 2023. 
 
+### Qu’est-ce que la Maison de l’autisme ?
 
-## À qui ce service s’adresse-t-il ?
+
+La Maison de l’autisme est la réunion de trois équipes, que sont le Groupement national des centres ressources autismes (GNCRA), le Centre ressources autisme en Île-de-France (CRAIF) et Autisme Info service.
+
+La Maison de l’autisme est un projet physique - un espace de 1500 m2 qui a ouvert en avril 2023 à Aubervilliers, à proximité immédiate du métro Front Populaire - et numérique. 
+
+## Notre cible
 
 
 La Maison numérique de l’autisme s’adresse aux 2,8 millions de personnes concernées par l’autisme en France, c'est-à-dire 700 000 personnes autistes, diagnostiquées ou non et leurs parents ou proches aidants (2,1 millions de personnes). À cette volumétrie, s'ajoutent les professionnels de santé, du médico-social, de l’enseignement et le monde professionnel au contact des personnes autistes (recruteurs, managers…).
 
 ## Qui sommes-nous ?
-
-
 
 L’équipe de la Fabrique numérique des ministères sociaux est une équipe pluridisciplinaire composée de développeurs web, designers d’interface et d’expérience, community managers, product managers… 
 Notre méthode
@@ -71,3 +70,7 @@ Le service est développé en lien étroit avec les usagers. Leurs expériences 
 
 Le site est en évolution continue et s’enrichit régulièrement de nouveaux contenus et de nouvelles fonctionnalités.
 
+
+### Le devenir de la Maison de l'autisme
+
+Après 2 ans d'incubation au sein de la Fabrique Numérique des Ministères Sociaux, le site internet de la Maison de l'Autisme a été pérénisé. Il a été transféré au GNCRA (Groupement National des Centres Ressources Autisme) le 19 février 2024. 

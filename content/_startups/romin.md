@@ -33,6 +33,8 @@ usertypes:
   - etat
 stats_url: https://romin.beta.gouv.fr/stats
 stats: true
+thematiques:
+  - Justice
 ---
 ## Contexte
 

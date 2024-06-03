@@ -5,7 +5,7 @@ domaine: Design
 github: cami-na
 missions:
   - start: 2022-01-17
-    end: 2024-03-31
+    end: 2025-04-30
     status: independent
     employer: Octo Malt
     startups:
@@ -16,5 +16,11 @@ badges:
   - segur
 previously:
   - territoires-en-transitions
+link: https://www.linkedin.com/in/camille-canaple/
+competences:
+  - Facilitation
+  - Product design
+  - Product strategy
+  - UX
 ---
 Designer
