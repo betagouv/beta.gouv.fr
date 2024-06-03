@@ -1,31 +1,37 @@
 ---
 title: Mistral Pénal
 mission: >-
-    Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ
+  Simplifier le suivi des dossiers pour les greffiers et automatiser les
+  activités de pilotage (statistiques) pour les DSGJ
 sponsors:
-    - /organisations/mj
+  - /organisations/mj
 incubator: justice
 contact: maxime.gammaire@justice.fr
 accessibility_status: non conforme
 redirect_from:
-    - /startups/T2BJustice
+  - /startups/T2BJustice
 events:
-    - name: other
-      date: 2022-02-01
-      comment: Appel à projet du Ministère de la justice
+  - name: other
+    date: 2022-02-01
+    comment: Appel à projet du Ministère de la justice
 phases:
-    - name: investigation
-      start: 2022-06-29
-      end: 2023-03-30
-    - name: construction
-      start: 2023-03-30
-      end: 2023-10-10
-      comment: Construction du MVP et test utilisateur sur des cas vidéos
-    - name: construction
-      start: 2023-10-10
-      comment: Construction sur un périmètre de juridictions restreint.
+  - name: investigation
+    start: 2022-06-29
+    end: 2023-03-30
+  - name: construction
+    start: 2023-03-30
+    end: 2023-10-10
+    comment: Construction du MVP et test utilisateur sur des cas vidéos
+  - name: construction
+    start: 2023-10-10
+    end: 2024-04-04
+    comment: Mise en sécurité pour le lancement de l'expérimentation
+  - name: construction
+    start: 2024-04-04
+    comment: Construction sur un périmètre de juridictions restreint.
 thematiques:
   - Justice
+analyse_risques: true
 ---
 ## Contexte
 
@@ -60,43 +66,26 @@ La seconde période d'investigation a permis de s'interroger de savoir comment f
 MISTRAL Pénal est un service numérique qui simplifie le suivi des dossiers pour les greffiers et automatise les activités de pilotage (statistiques) pour les DSGJ afin de leur faire gagner du temps au quotidien et leur permettre de se concentrer sur leurs activités à forte valeur ajoutée
 
 MISTRAL Pénal améliore l’efficience du pilotage de l’activité juridictionnelle, de la saisie de la donnée jusqu’à son analyse.
-
 -   Pour les greffiers : gagnez du temps en supprimant les tâches de recopie de données et de bâtonnage, et suivez votre progression grâce à la barre d'avancement du travail
-
 -   Pour les DSGJ : améliorez la qualité des données, et gagnez en temps et confort lors de la production des indicateurs, tout en ayant des statistiques toujours à jour
-
 -   Pour les chefs de juridiction : bénéficiez d'indicateurs de meilleure qualité, plus lisibles et facilement actionnables, pour une organisation optimisée
-
-Embarquez avec MISTRAL Pénal et naviguez vers une justice plus efficace et agile.
 
 ## Apprentissage de la phase de construction #1 :
 
 Le MVP montre un potentiel de gain de temps important : Prioriser les fonctionnalités sur la base des retours utilisateurs pour maximiser le potentiel d’impact
 
 Trois fonctionnalités prioritaires pour enrichir la proposition de valeur de Mistral :
-
 -   Saisie complète des décisions dans Mistral
 -   Documents complémentaires (liées à l’exécution des peines)
 -   Mettre à jour les données dans KSP en fin d’audience
 
-## Valider notre impact au cours des 6 prochains mois :
+## Apprentissage de la phase de construction #2 :
+La mise en oeuvre de l'expérimentation a nécessité de travailler sur les éléments de sécurité pour être utilisé en situation réelle. La majeure partie de cette phase y a été consacré. 
+Les échanges avec les utilisateurs et les tests de prise en main confirment les apprentissages de la première phase
 
-🎯 Objectifs & ✅ résultats clés pour les greffiers
 
--   Confirmer le gain de temps du MVP
--   Mistral peut être utilisé avec des données réelles
--   Mistral est utilisé par ses premiers utilisateurs
-
-🎯 Objectifs & ✅ résultats clés pour les DSGJ
-
--   Affiner les besoins de reporting
--   Validation d’un MVP
--   Identifier les DSGJ innovateurs
-
-# 🚀 Actualités :
-
-> Comité de l'incubateur justice du 10 octobre 2023 : Passage en phase #2 de construction
-
-> La communauté, en quoi ça consiste ?
-> 👉 Un e-mail, 1 à 2 fois par mois, avec les actualités de Mistral et, si vous le souhaitez, la possibilité de donner votre avis sur des réflexions et nouvelles fonctionnalités !
-> Si cela vous intéresse, écrivez nous !
+## Objectifs Construction #3 :
+Lancement de l'expérimentation (les conditions sont désormais réunies) avec prise en main par les greffiers en situation réelle. 
+Nos objectifs : 
+- confirmer le gain de temps du MVP sur la phase de préparation d'audience et au cours de l'audience.
+- Mise en oeuvre des fonctionnalités sur la fin d'audience (décision, générations de documents de sortie d'audience)

@@ -11,11 +11,11 @@ missions:
     startups:
       - urbanvitaliz
       - recommandations-collaboratives
-      - especes.protegees
+      - pitchou
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
-  - especes.protegees
+  - pitchou
 previously:
   - transport
   - cartobio
@@ -28,4 +28,9 @@ previously:
   - eva
 badges:
   - segur
+competences:
+  - Croissance
+  - Product strategy
+  - Facilitation
+  - Coaching
 ---

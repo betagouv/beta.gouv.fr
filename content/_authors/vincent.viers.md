@@ -1,7 +1,7 @@
 ---
 fullname: Vincent Viers
 role: Data-trucs et coaching
-domaine: Développement
+domaine: Data
 github: vviers
 missions:
   - start: 2020-10-19
@@ -28,6 +28,7 @@ missions:
 startups:
   - données-et-territoires
   - pilotage.de.linclusion
+  - grist.numerique.gouv.fr
 previously:
   - signaux-faibles
   - disinfo
