@@ -18,7 +18,7 @@ missions:
     status: independent
     employer: malt
 startups:
-  - itou
+  - les-emplois
 previously:
   - inclusion.connect
   - la-bonne-boite

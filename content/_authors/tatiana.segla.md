@@ -1,6 +1,6 @@
 ---
 domaine: Autre
-fullname: tatiana.segla@modernisation.gouv.fr tatiana.segla@modernisation.gouv.fr
+fullname: Tatiana Segla
 role: Autre
 missions:
   - start: 2024-05-03

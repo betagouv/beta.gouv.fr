@@ -1,36 +1,37 @@
 ---
 title: Mistral Pénal
 mission: >-
-    Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ
+  Simplifier le suivi des dossiers pour les greffiers et automatiser les
+  activités de pilotage (statistiques) pour les DSGJ
 sponsors:
-    - /organisations/mj
+  - /organisations/mj
 incubator: justice
 contact: maxime.gammaire@justice.fr
 accessibility_status: non conforme
 redirect_from:
-    - /startups/T2BJustice
+  - /startups/T2BJustice
 events:
-    - name: other
-      date: 2022-02-01
-      comment: Appel à projet du Ministère de la justice
+  - name: other
+    date: 2022-02-01
+    comment: Appel à projet du Ministère de la justice
 phases:
-    - name: investigation
-      start: 2022-06-29
-      end: 2023-03-30
-    - name: construction
-      start: 2023-03-30
-      end: 2023-10-10
-      comment: Construction du MVP et test utilisateur sur des cas vidéos
-    - name: construction
-      start: 2023-10-10
-      end : 2024-04-04
-      comment: Mise en sécurité pour le lancement de l'expérimentation
-    - name: construction
-      start: 2024-04-04
-      comment: Construction sur un périmètre de juridictions restreint.
-
+  - name: investigation
+    start: 2022-06-29
+    end: 2023-03-30
+  - name: construction
+    start: 2023-03-30
+    end: 2023-10-10
+    comment: Construction du MVP et test utilisateur sur des cas vidéos
+  - name: construction
+    start: 2023-10-10
+    end: 2024-04-04
+    comment: Mise en sécurité pour le lancement de l'expérimentation
+  - name: construction
+    start: 2024-04-04
+    comment: Construction sur un périmètre de juridictions restreint.
 thematiques:
   - Justice
+analyse_risques: true
 ---
 ## Contexte
 
