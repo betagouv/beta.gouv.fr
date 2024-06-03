@@ -9,4 +9,11 @@ missions:
     employer: Malt
     startups:
       - envergo
+competences:
+  - Product strategy
+  - Product design
+  - UX
+  - UI
+  - Coaching
+memberType: beta
 ---
