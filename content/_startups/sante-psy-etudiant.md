@@ -18,6 +18,8 @@ events:
 phases:
   - name: construction
     start: 2021-03-01
+  - name: acceleration
+    start: 2021-09-01
 usertypes:
   - particulier
   - entreprise
