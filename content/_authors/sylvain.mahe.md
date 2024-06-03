@@ -10,6 +10,12 @@ missions:
     employer: Octo
     startups:
       - infoparquet
+  - start: 2024-06-03
+    end: 2024-12-31
+    status: independent
+    employer: LBC
+    startups:
+      - mistral-penal
 startups:
   - infoparquet
 competences:
