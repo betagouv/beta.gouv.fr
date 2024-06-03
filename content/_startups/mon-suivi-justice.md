@@ -32,6 +32,8 @@ phases:
 fast:
   promotion: 12
   montant: 30000
+thematiques:
+  - Justice
 ---
 # **Éléments de contexte**
 
