@@ -9,10 +9,10 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - itou
+      - les-emplois
       - pilotage.de.linclusion
 startups:
-  - itou
+  - les-emplois
   - pilotage.de.linclusion
 ---
 Rigoureuse et organisée , je prends à cœur d'analyser les chiffres pour une bonne prise de décision.

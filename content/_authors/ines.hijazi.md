@@ -19,7 +19,7 @@ missions:
     employer: malt
     startups: []
 startups:
-  - itou
+  - les-emplois
 previously:
   - jeveuxaider
   - eac
@@ -32,4 +32,6 @@ previously:
   - psyenfantado
 badges:
   - segur
+teams:
+  - /teams/gip-inclusion
 ---
