@@ -13,4 +13,4 @@ startups:
   - pilotagevoiepro
 memberType: beta
 ---
-Slow-food, slow-travel, BD et littérature, podcasts en aléatoire, tiramisù, maman féministe, illustratrice jeunesse autodidacte, vraie cycliste, fausse sportive, designer engagée, jardineuse débutante
+Slow-food, slow-travel, BD et littérature, podcasts en aléatoire, tiramisù, illustration jeunesse, jardinage du dimanche, faux cyclisme
