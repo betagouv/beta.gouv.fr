@@ -6,7 +6,7 @@ mission: >-
   ceux-là.
 sponsors:
   - /organisations/dgal
-incubator: dinum
+incubator: agriculture
 phases:
   - name: investigation
     start: 2023-09-01

@@ -12,7 +12,7 @@ missions:
 startups:
   - place-de-marche-inclusion
 previously:
-  - itou
+  - les-emplois
 badges:
   - segur
 competences:

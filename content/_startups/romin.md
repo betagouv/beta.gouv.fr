@@ -35,6 +35,7 @@ stats_url: https://romin.beta.gouv.fr/stats
 stats: true
 thematiques:
   - Justice
+dashlord_url: https://dashlord.incubateur.net/url/dashlord-romin-app-cc-anje-justice-fr/
 ---
 ## Contexte
 

@@ -41,3 +41,29 @@ Ce travail, dont la finalité sera d’identifier les opportunités de proactivi
 - Chantier n°2 : expérimentation de la proactivité avec des AOM souhaitant d’ores et déjà s’engager dans une phase de test. L'expérimentation se déroulera dans un ou deux territoire(s) choisi(s) par la DINUM et le GART selon la liste des AOM ayant exprimé leur souhait de participer à l’expérimentation. 
 
 Ces deux chantiers permettront de produire un rapport qui alimentera la réflexion sur la généralisation de la proactivité pour la tarification sociale et solidaire des transports. Il définira les contours d’un éventuel produit destiné à l’ensemble des AOM. La conduite en parallèle des deux chantiers permettra en outre d’alimenter la ou les expérimentation(s) d’idées ou d’opportunités identifiées dans le cadre du chantier n°1.
+
+
+## 🧪 Résumé des expérimentations Tous à bord (Avril 2023) :
+
+**💼 Expérimentation avec Artois Mobilité pour les demandeurs d’emploi (_encore en cours_)**
+
+L'expérimentation avec Artois Mobilité vise à simplifier le parcours des demandeurs d'emploi dans l'accès aux tarifications sociales pour les transports publics.
+
+
+- **Objectif** : réduction des démarches administratives pour les demandeurs d'emploi visant l'accès à des tarifs réduits dans les transports, grâce au principe "Dites-le-nous une fois".
+- **Mise en œuvre** : utilisation de l'API Particulier pour vérifier en temps réel l'éligibilité des demandeurs d'emploi, simplifiant le processus de demande de tarification sociale.
+- **Résultats et impact** :
+    - Diminution des délais de traitement des demandes par 3
+    - Réduction des démarches administratives répétitives : passage de 7 à 1 document administratif à fournir de la part du demandeur d’emploi
+
+**🧑‍🎓 Expérimentation avec Brest Métropole pour les étudiants boursiers**
+
+L'expérimentation menée par Brest Métropole en collaboration avec le CROUS de Bretagne vise à simplifier le parcours des étudiants boursiers pour l'accès à des tarifs réduits dans les transports publics.
+
+
+- **Objectif** : réduction des démarches administratives pour les étudiants boursiers dans les transports
+- **Mise en œuvre** : modélisation des critères avec le CROUS Bretagne
+- **Résultats et impact** :
+    - +10% de la cible atteinte : sur 6000 étudiants boursiers, 600 ont fait une demande pour leurs droits suite à la campagne (demandes liées à l’api)
+    - Diminution des délais de traitement des demandes de 95 %
+    - Réduction des démarches administratives répétitives : passage de 9 à 1 (une attestation sur l’honneur) document administratif à fournir par l’étudiant boursier
