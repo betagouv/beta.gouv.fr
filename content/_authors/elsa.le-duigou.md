@@ -24,6 +24,7 @@ missions:
       - tous.a.bord
       - france.consulaire
       - teleconsultation-ald
+      - api.prevention
 previously:
   - collectif_objets
 badges:
