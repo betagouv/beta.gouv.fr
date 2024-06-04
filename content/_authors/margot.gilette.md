@@ -1,6 +1,6 @@
 ---
 domaine: Design
-fullname: Margot GILLETTE
+fullname: Margot Gillette
 role: Design
 missions:
   - start: 2021-03-01
