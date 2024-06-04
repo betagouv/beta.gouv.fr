@@ -22,5 +22,11 @@ competences:
   - design
   - Product design
   - Communication
+  - UI design
+  - UX design
+  - Print design
+  - Identité de marque
+  - Direction artistique
+  - Supports de présentation
 ---
 UI Designer @ Les Petits Suisses
