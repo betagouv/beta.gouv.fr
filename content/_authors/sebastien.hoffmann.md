@@ -29,4 +29,4 @@ competences:
   - Direction artistique
   - Supports de présentation
 ---
-UI Designer @ Les Petits Suisses
+UI / UX Designer Senior @ Les Petits Suisses
