@@ -4,7 +4,7 @@ fullname: Giulia CARRA
 role: Développeuse Data Scientist
 missions:
   - start: 2024-04-02
-    end: 2024-07-02
+    end: 2024-07-11
     status: independent
     employer: Malt
     startups:
@@ -14,4 +14,5 @@ competences:
   - DevOps
   - Data Science
 memberType: beta
+github: gcarra
 ---
