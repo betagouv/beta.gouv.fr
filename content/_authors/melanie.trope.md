@@ -8,8 +8,5 @@ missions:
     end: 2027-05-10
     status: admin
     employer: Cerema
-    startups:
-      - urbanvitaliz
-      - recommandations-collaboratives
-memberType: beta
+memberType: autre
 ---
