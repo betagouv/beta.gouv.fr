@@ -18,5 +18,9 @@ startups:
 previously:
   - mon-recap
   - diagoriente
+competences:
+  - design
+  - Product design
+  - Communication
 ---
 UI Designer @ Les Petits Suisses
