@@ -1,6 +1,7 @@
 ---
 domaine: Autre
 fullname: Mélanie Tropé
+github: melanie.trope
 role: Directrice technique Mission incubateur Accélérema
 missions:
   - start: 2024-05-01
