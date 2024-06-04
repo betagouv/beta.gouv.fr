@@ -1,6 +1,6 @@
 ---
 domaine: Animation
-fullname: Fatma BOUHEJBA Fatma BOUHEJBA
+fullname: Fatma BOUHEJBA
 role: Animation
 missions:
   - start: 2024-06-04
