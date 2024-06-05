@@ -19,4 +19,4 @@ competences:
   - Administration Système
 memberType: beta
 ---
-Dev via Coopaname
+Je dev via Coopaname, une mutuelle de travail salarié, je réfléchis au futur des réseaux sociaux décentralisés sur technostructures.org
