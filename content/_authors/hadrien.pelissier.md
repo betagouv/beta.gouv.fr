@@ -9,4 +9,14 @@ missions:
     employer: LBC
     startups:
       - languia
+link: https://fr.linkedin.com/in/hadrienpelissier
+competences:
+  - Développement Full-stack
+  - DevOps
+  - Machine learning
+  - JavaScript/TypeScript
+  - Sécurité informatique
+  - Administration Système
+memberType: beta
 ---
+Dev via Coopaname
