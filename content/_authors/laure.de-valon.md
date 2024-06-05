@@ -17,6 +17,6 @@ missions:
       - maestro
 startups:
   - versementgetorix
-  - pspc
+  - maestro
 ---
 Coach, Designer de service
