@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: Numa
     startups:
-      - pspc
+      - maestro
 startups:
   - versementgetorix
   - pspc
