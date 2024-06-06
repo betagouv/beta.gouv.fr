@@ -9,6 +9,11 @@ missions:
     employer: ''
     startups:
       - asso.cie
+  - start: 2023-10-01
+    end: 2024-12-31
+    status: independent
+    employer: ''
+    startups: []
 startups:
   - asso.cie
 previously:
