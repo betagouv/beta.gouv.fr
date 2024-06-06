@@ -19,5 +19,11 @@ missions:
 startups:
   - pop
 memberType: beta
+competences:
+  - UX
+  - Facilitation
+  - Product design
+  - Accessibilité
+  - UI
 ---
 UX/UI designer • Product designer 
