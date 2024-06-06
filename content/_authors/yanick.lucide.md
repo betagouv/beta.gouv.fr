@@ -7,7 +7,5 @@ missions:
     end: 2024-12-05
     status: admin
     employer: Police
-competences:
-  - Facilitation
 memberType: beta
 ---
