@@ -20,4 +20,4 @@ previously:
   - tacct
   - accesscite
 ---
-Coach produit @ La Fabrique
+Coach produit France Travail
