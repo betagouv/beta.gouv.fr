@@ -4,7 +4,7 @@ role: Biz dev
 domaine: Déploiement
 missions:
   - start: 2022-10-17
-    end: 2024-06-29
+    end: 2024-08-31
     status: independent
     employer: LBC
     startups:
