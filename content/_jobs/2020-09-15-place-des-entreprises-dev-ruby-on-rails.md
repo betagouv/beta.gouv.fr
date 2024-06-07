@@ -1,6 +1,6 @@
 ---
 roles: Une développeuse ou un développeur
-startup: place-des-entreprises
+startup: conseillers-entreprises
 techno: Ruby on Rails
 junior: false
 open: false
