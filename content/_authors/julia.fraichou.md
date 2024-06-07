@@ -2,6 +2,7 @@
 domaine: Autre
 fullname: Julia Fraichou
 role: Autre
+domaine: Communication
 missions:
   - start: 2024-06-06
     end: 2024-08-16
@@ -12,3 +13,4 @@ missions:
 competences:
   - Communication
 memberType: beta
+---
