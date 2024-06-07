@@ -7,4 +7,7 @@ missions:
     end: 2024-12-08
     status: admin
     employer: Dinum
+competences:
+  - Intrapreneur(se)
+memberType: beta
 ---
