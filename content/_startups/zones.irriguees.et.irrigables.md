@@ -1,6 +1,8 @@
 ---
-title: Zones irriguées et irrigables
-mission: La préservation de la ressource en eau dans le domaine de l’irrigation agricole
+title: Zones irriguées et irrigables (Hydr'eau)
+mission: >-
+  La préservation de la ressource en eau dans le domaine de l’irrigation
+  agricole
 sponsors:
   - /organisations/ign
 incubator: fab-geocommuns

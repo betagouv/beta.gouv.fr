@@ -7,7 +7,7 @@ missions:
     end: 2025-08-31
     status: independent
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 ---

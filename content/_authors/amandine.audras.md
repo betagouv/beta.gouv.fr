@@ -21,9 +21,9 @@ missions:
     status: independent
     employer: La Zone
   - start: 2022-10-15
-    end: 2024-06-30
+    end: 2024-12-31
     status: independent
-    employer: octo
+    employer: malt
 startups:
   - moncomptepro
   - annuaire-entreprises
