@@ -1,18 +1,24 @@
 ---
 mission: >-
-  Garantir une meilleur traçabilité des viandes de gibier sauvage mises sur le
-  marché
+  Garantir une meilleure qualité sanitaires des viandes de gibier sauvage mises
+  sur le marché
 incubator: agriculture
-title: Traçabilité Gibier Sauvage
+title: Zacharie
 contact: anne.devoret@beta.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/dgal
 phases:
   - name: investigation
-    start: 2024-02-06
+    start: 2024-02-14
+  - name: construction
+    start: 2024-06-03
 thematiques:
   - Écologie
+  - Agriculture
+usertypes:
+  - particulier
+  - entreprise
 ---
 ## Contexte
 
@@ -33,3 +39,55 @@ Aussi, on note qu'au delà de la consommation du gibier, les mauvaises pratiques
 
 **Comment expliquer une faible adhésion des acteurs de la chasse à la traçabilité des carcasses ? 
 Comment créer un réseau d'intéressement pour l'ensemble des acteurs afin de sécuriser les pratiques de chasse et la consommation du gibier sauvage ?**
+
+## Enseignements
+Au travers d’un questionnaire transmis aux chasseurs et d’entretiens semi-directifs des différents types
+d’utilisateurs de la FEI (organisations professionnelles, chasseurs, exploitants des établissements de traitement
+du gibier sauvage agréés, services vétérinaires d’inspection), les enseignements principaux retenus sont :
+* L’absence de fiabilité des informations sanitaires et de traçabilité transmises par les producteurs
+* primaires (chasseurs) 
+* La méconnaissance des données sanitaires essentielles aux services vétérinaires d’inspection (SVI)
+* pour réaliser leur contrôle et attester de la qualité sanitaire des viandes de gibier sauvage mises sur le
+* marché 
+*  L’absence de canal de communication direct et efficace entre les chasseurs et l&#39;administration sur les enjeux sanitaires 
+* La méconnaissance des obligations et des enjeux sanitaires par les producteurs primaires. Le niveau de
+formation des personnes formées à l’examen initial est insuffisant ;
+* L’absence d’intérêt pour les producteurs primaires à réaliser l’examen initial du gibier sauvage. En effet,
+les producteurs primaires ne mesurent pas leur responsabilité dans la maîtrise des risques sanitaires ;
+*  L’absence de retours d’information des producteurs primaires sur les refus des carcasses par les
+professionnels ou par les SVI (volume, motifs, informations sanitaire et de traçabilité) ne permettant pas
+d’améliorer la qualité des FEI et des carcasses pendant la saison de chasse.
+
+## Solution
+
+**Zacharie** c’est un service  à destination des chasseurs et des
+acteurs de la filière de valorisation des viandes de gibier sauvage
+(collecteurs, ETG, SVI). Elle permet aux chasseurs de créer des fiches
+d’examen initial en un format numérique unique, partagé,
+modifiable et traçable par tous les acteurs.
+
+**Zacharie** a pour objectif premier d’améliorer le niveau de complétude et de fiabilité des informations
+sanitaires et de traçabilité relatives aux viandes de gibier traitées. Ainsi, Zacharie contribue à améliorer la
+qualité sanitaire des viandes mises sur le marché, réduire les risques d’intoxication alimentaire et de
+gaspillage alimentaire.
+
+Pour les chasseurs, **Zacharie** a pour but de simplifier la démarche de déclaration de la FEI (fiche d'examen initial) et de donner une meilleure visibilité sur la réception de leurs carcasses. 
+
+**Zacharie** capte en première main les données sanitaires et de traçabilité de la venaison pour permettre à la
+DGAL une surveillance (épidémio-surveillance et gestion d’alertes sanitaires) et un pilotage de la filière
+(analyse de risques, actions de sensibilisation ciblées, montée en compétence des acteurs).
+
+
+## Stratégie de développement 
+
+Le produit minimum viable sera développé dans un premier temps pour les acteurs qui à ce jour présentent un
+intérêt économique à la fluidification de l’information : le circuit agréé (passage des viandes par un
+établissement de traitement du gibier sauvage agréé). Le premier semestre de ce travail constituera une phase
+d’expérimentation de 5 à 6 mois dont au moins 3 mois pendant la saison de chasse. Il s’agira d’une
+application frugale comportant une cohorte d’environ 100 utilisateurs pour 2 à 3 établissements de
+traitement du gibier sauvage agréés situés dans les Hauts-de-France, dans le Grand Est et en Centre-Val de
+Loire.
+
+À long terme, si l’expérimentation est satisfaisante, l’application a pour vocation à toucher l’ensemble des
+circuits de valorisation des viandes de gibier sauvage et l’intégralité des chasseurs soit 1,2 millions
+d’utilisateurs potentiels.

@@ -15,5 +15,6 @@ startups:
 previously:
   - carnet.de.bord
   - inclusion.connect
+  - la.communaute.de.linclusion
 ---
 Développeur Python 🐍. Lanceur de 🥏, aussi pour mon 🐕.
