@@ -4,12 +4,10 @@ role: Chargée de communication
 domaine: Autre
 missions:
   - start: 2023-11-01
-    end: 2024-06-30
+    end: 2024-03-31
     status: service
     employer: ''
-    startups:
-      - monstage
-startups:
+previously:
   - monstage
 memberType: autre
 ---

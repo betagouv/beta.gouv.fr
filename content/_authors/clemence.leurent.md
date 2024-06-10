@@ -11,7 +11,7 @@ missions:
     end: 2022-06-30
     status: independent
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 previously:
   - demarches-simplifiees.fr
 ---

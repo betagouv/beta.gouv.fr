@@ -8,6 +8,7 @@ missions:
     employer: NUMA
     startups:
       - mediation.logement
+      - epandage-facile
 incubator: mtes
 competences:
   - UX

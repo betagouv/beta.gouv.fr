@@ -28,6 +28,8 @@ usertypes:
   - entreprise
   - particulier
 stats_url: https://code.travail.gouv.fr/stats
+thematiques:
+  - Travail / Emploi
 ---
 ## Le contexte
 
@@ -61,5 +63,3 @@ Salariés et employeurs de TPE/PME
 •	Taux de complétion (objectif : 70%)
 
 •	Taux de satisfaction (objectif : 70%)
-
-
