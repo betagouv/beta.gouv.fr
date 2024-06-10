@@ -6,8 +6,8 @@ github: vmttn
 missions:
   - start: 2022-03-02
     end: 2026-02-28
-    status: independent
-    employer: Octo
+    status: admin
+    employer: Plateforme de l'Inclusion
     startups:
       - data-inclusion
 startups:
