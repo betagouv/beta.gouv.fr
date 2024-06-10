@@ -20,6 +20,11 @@ stats_url: https://donnees.incubateur.anct.gouv.fr/stats
 thematiques:
   - Territoires
   - Open-Data
+  - Collectivités
+  - Outil technique
+usertypes:
+  - collectivite-territoriale
+  - etat
 ---
 ## C’est quoi Données et Territoires ?
 

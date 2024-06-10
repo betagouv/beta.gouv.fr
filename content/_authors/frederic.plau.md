@@ -4,7 +4,7 @@ role: PO
 domaine: Produit
 missions:
   - start: 2022-12-19
-    end: 2024-09-30
+    end: 2024-12-31
     status: service
     employer: Octo
     startups:

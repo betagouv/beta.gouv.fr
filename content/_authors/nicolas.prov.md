@@ -1,5 +1,5 @@
 ---
-fullname: Nicolas Prov
+fullname: Nicolas Aubertin
 role: Intrapreneur
 domaine: Produit
 missions:

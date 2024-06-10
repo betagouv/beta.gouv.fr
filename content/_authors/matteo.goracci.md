@@ -8,9 +8,11 @@ missions:
     status: admin
     employer: ANCT
   - start: 2022-09-12
-    end: 2024-05-15
+    end: 2024-09-30
     status: independent
-    employer: OCTO
+    employer: MALT
+    startups:
+      - aidantsconnect
 startups:
   - aidantsconnect
 ---

@@ -17,7 +17,7 @@ missions:
     status: admin
     employer: GIP Inclusion
 startups:
-  - itou
+  - les-emplois
   - pilotage.de.linclusion
 previously:
   - resorption-bidonvilles

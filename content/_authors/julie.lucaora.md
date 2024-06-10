@@ -1,7 +1,7 @@
 ---
-domaine: Autre
+domaine: Développement
 fullname: Julie Lucaora
-role: Autre
+role: Chargée de mission "Portail RSE"
 missions:
   - start: 2024-04-09
     end: 2025-07-09
