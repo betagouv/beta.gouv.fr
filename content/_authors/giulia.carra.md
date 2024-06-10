@@ -5,7 +5,7 @@ role: Développeuse Data Scientist
 github: gcarra
 missions:
   - start: 2024-04-02
-    end: 2024-07-02
+    end: 2024-07-11
     status: independent
     employer: Malt
     startups:
