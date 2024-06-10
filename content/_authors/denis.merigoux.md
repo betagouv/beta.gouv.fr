@@ -4,7 +4,7 @@ fullname: Denis Merigoux
 role: Intraprenariat
 missions:
   - start: 2024-04-10
-    end: 2024-07-10
+    end: 2024-12-31
     status: admin
     employer: INRIA
 link: https://merigoux.ovh

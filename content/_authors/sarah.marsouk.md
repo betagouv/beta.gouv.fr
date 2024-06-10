@@ -10,4 +10,7 @@ missions:
     startups:
       - >-
         gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
+competences:
+  - Administration Publique
+memberType: beta
 ---

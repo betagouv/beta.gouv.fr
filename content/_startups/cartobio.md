@@ -11,6 +11,8 @@ phases:
     start: 2019-12-19
   - name: acceleration
     start: 2023-05-01
+  - name: transfer
+    start: 2024-06-10
 accessibility_status: non conforme
 link: https://cartobio.agencebio.org
 repository: https://github.com/AgenceBio/cartobio-front

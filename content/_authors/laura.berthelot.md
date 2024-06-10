@@ -9,6 +9,7 @@ missions:
     employer: ''
     startups:
       - espace.sur.demande
+      - agents.en.intervention
 startups:
   - espace.sur.demande
 memberType: beta

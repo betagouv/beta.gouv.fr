@@ -1,12 +1,13 @@
 ---
 domaine: Intraprenariat
-fullname: Elvira Shafikova
+fullname: Elvira shafikova
 role: Intraprenariat
 missions:
-  - start: 2024-04-22
-    end: 2024-10-22
+  - start: 2024-06-07
+    end: 2025-03-20
     status: admin
     employer: ANCT
     startups:
       - infrastructures.numeriques
+memberType: beta
 ---
