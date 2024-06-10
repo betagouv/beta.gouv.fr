@@ -1,7 +1,7 @@
 ---
 fullname: Vincent Chéry
 role: Data Scientist
-domaine: Développement
+domaine: Data
 github: vincentantoine
 missions:
   - start: 2021-12-20

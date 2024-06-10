@@ -1,7 +1,7 @@
 ---
 fullname: Touraya El Hassani
 role: Data Scientist
-domaine: Autre
+domaine: Data
 missions:
   - start: 2020-01-13
     end: 2020-05-01

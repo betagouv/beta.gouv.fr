@@ -3,12 +3,12 @@ fullname: Camille Jeanblanc
 role: UX Researcher
 domaine: Design
 missions:
-  - start: 2023-03-06
-    end: 2025-02-01
+  - start: 2024-06-03
+    end: 2024-09-30
     status: independent
-    employer: Malt
+    employer: ''
     startups:
-      - l-application-du-cej
+      - data-inclusion
 startups:
   - l-application-du-cej
 memberType: beta

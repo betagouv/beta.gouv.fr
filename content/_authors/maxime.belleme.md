@@ -1,5 +1,5 @@
 ---
-fullname: MAXIME BELLEME
+fullname: Maxime Belleme
 role: Employé polyvalent en magasin
 domaine: Autre
 missions:

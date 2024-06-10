@@ -1,7 +1,7 @@
 ---
 fullname: Aurélien Allard
 role: Data Engineer
-domaine: Développement
+domaine: Data
 link: https://landing.adiuvo.app/
 github: Aurel-Allard
 missions:

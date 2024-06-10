@@ -1,7 +1,7 @@
 ---
 fullname: Daniela Carvajal
 role: Chargée de déploiement
-domaine: Autre
+domaine: Déploiement
 missions:
   - start: 2023-10-08
     end: 2025-01-11

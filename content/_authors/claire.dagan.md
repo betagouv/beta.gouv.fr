@@ -5,8 +5,9 @@ domaine: Développement
 github: claire2212
 missions:
   - start: 2023-03-29
-    end: 2024-03-29
+    end: 2024-12-31
     status: independent
+    employer: ''
     startups:
       - monitorfish
 startups:

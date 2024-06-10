@@ -1,5 +1,5 @@
 ---
-fullname: Virginie RENOUX
+fullname: Virginie Renoux
 role: Experte métier
 domaine: Autre
 missions:
