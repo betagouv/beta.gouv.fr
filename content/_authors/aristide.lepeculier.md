@@ -1,7 +1,7 @@
 ---
 domaine: Développement
 fullname: Aristide Lepéculier
-role: Développement
+role: Chef de projet
 missions:
   - start: 2024-04-01
     end: 2024-12-30
@@ -17,4 +17,5 @@ competences:
   - Administration Système
   - PostgreSQL
 memberType: beta
+link: https://www.linkedin.com/in/lepeculier/
 ---
