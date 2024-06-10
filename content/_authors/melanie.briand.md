@@ -12,11 +12,12 @@ missions:
   - start: 2024-04-19
     end: 2024-07-19
     status: service
-    employer: NULMA
+    employer: NUMA
     startups:
       - 1-jeune-1-arbre
 startups:
   - accesscite
+  - 1-jeune-1-arbre
 memberType: beta
 link: https://www.linkedin.com/in/m%C3%A9laniebriand/
 competences:
