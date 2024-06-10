@@ -1,7 +1,7 @@
 ---
 fullname: Valentin Matton
 domaine: Développement
-role: Développeur
+role: Développeur & Data
 github: vmttn
 missions:
   - start: 2022-03-02
