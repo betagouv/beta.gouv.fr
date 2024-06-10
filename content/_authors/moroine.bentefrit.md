@@ -5,7 +5,7 @@ role: Développeur
 github: moroine
 missions:
   - start: 2023-06-05
-    end: 2024-05-31
+    end: 2024-12-31
     status: independent
     employer: UT7
     startups:
@@ -17,4 +17,9 @@ startups:
   - api.apprentissage
 competences:
   - Administration Système
+  - JavaScript/TypeScript
+  - DevOps
+  - Sécurité informatique
+  - Développement Full-stack
+link: https://www.linkedin.com/in/moroine/
 ---

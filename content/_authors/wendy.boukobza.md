@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: DIHAL
   - start: 2022-10-02
-    end: 2024-06-30
+    end: 2025-01-30
     status: independent
     employer: DDTM 62
 previously:

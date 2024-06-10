@@ -1,6 +1,6 @@
 ---
 title: Compte Ressources
-mission: Faciliter l'achat de ressources éducatives par le corps enseingnant
+mission: Faciliter l'achat de ressources éducatives par le corps enseignant
 sponsors:
   - /organisations/menjs
 incubator: dinum
@@ -8,12 +8,12 @@ contact: clemence.lopez@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
-    start: 2023-03-06
+    start: 2023-02-15
+  - name: alumni
+    start: 2023-06-15
 thematiques:
   - Formation
 ---
-Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 ## Contexte
 Pendant les États généraux du numérique pour l’éducation (2021) et lors travaux de concertation sur la stratégie du numérique pour l’éducation (2022), les enseignants et les chefs d’établissement ont signalé des difficultés pour acquérir des ressources pédagogiques numériques. 
 
@@ -30,3 +30,10 @@ Solution imaginée par le ministère à l'origine de la commande : Un moyen de p
 
 ## Stratégie
 L'investigation a pour objectif de vérifier l'hypothèse de la commande, identifier les irritants afférents sur le terrain, et éventuellement de formuler de nouvelles hypothèses.
+
+## Apprentissages et recommandations
+L'investigation nous a permis d'identifier que la seule délégation de crédits pédagogiques dédiés est insuffisante pour renforcer l'usage des ressources numériques éducatives (RNE). 
+L'outil numérique recommandé doit pouvoir accompagner et faciliter le choix, puis l'obtention des RNE par les profs et en concertation entre eux. Il se situe en amont de l'acte d'achat, le facilite par la concertation, les retours d'expériences et une prise de décisions entre pairs.
+
+## Partenariat
+Le partenariat s'est arrêté à l'issue du comité d'investissement. Une longue attente d'arbitrage du cabinet s'est faite attendre (validation des crédit et du budget alloués), puis la direction du numérique pour l'éducation a poursuivi ses travaux sans l'accompagnement de beta.gouv.fr. 
