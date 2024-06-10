@@ -5,8 +5,9 @@ domaine: Développement
 github: soulso
 missions:
   - start: 2023-12-11
-    end: 2024-06-30
+    end: 2024-12-31
     status: independent
+    employer: ''
     startups:
       - tdb-apprentissage
 startups:

@@ -9,6 +9,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-02-01
+  - name: alumni
+    start: 2024-05-14
 ---
 
 ## ❓ Résumé du problème à investiguer 
@@ -30,7 +32,7 @@ Plus de 714k patients sont en affection longue durée fin 2022, dont parmi eux p
 
 **Lors du comité de fin d'investigation, déroulé le 14/05/24, l'équipe a pu présenter les résultats de la première phase et dérisquer l'investissement dans un produit numérique. Ont été effectués :**
 
-- Une enquête en partenariat avec France Asso Santé et la direction généraloe de l'offre de soin (DGOS) a été menée auprès de 150 répondants présentatants une ALD pour diabète de type 2 ou une oncologie.
+- Une enquête en partenariat avec France Asso Santé et la direction générale de l'offre de soin (DGOS) a été menée auprès de 150 répondants présentants une ALD pour diabète de type 2 ou oncologie.
 - Des entretiens qualitatifs avec des professionnels de santé (notamment en oncologie libérale, en diabétologie libérale, en médecine généraliste et en infirmerie). 
 
 **La synthèse de l'investigation donne lieu aux apprentissages suivants :**
