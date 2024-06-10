@@ -3,7 +3,7 @@ title: Compl'Alim
 mission: Vers une circulation de compléments alimentaires conformes à la réglementation, sûrs en termes de santé publique et adaptés aux besoins physiologiques des consommateurs
 sponsors: 
   - /organisations/dgal
-incubator: dinum
+incubator: agriculture
 phases:
     - name: investigation
       start: 2023-06-02
@@ -18,9 +18,10 @@ usertypes:
 thematiques:
   - Santé
 ---
-Cette startup d'Etat est sponsorisée par la Direction Générale de l'alimentation au ministère de l'agriculture. Après une phase d'investigation de juin à octobre 2023, l'équipe a validé un budget de 200 000 euros pour une première phase de construction de 6 mois. 
+Cette startup d'Etat est sponsorisée par la Direction Générale de l'alimentation au ministère de l'agriculture.
+La startup est également lauréate du guichet FTAP "valorisation et exploitation" des données, fonds porté par la DINUM et ETALAB. Ce co-financement permet à la startup d'entamer le chantier de fiabilisation de la base de données substances grâce à des logiques de NLP et branchement de sources de données externes (ANSES, avis EFSA, catalogue novel food...).
 
-Le prochain comité d'investissement se tiendra en avril 2024 et arbitrera le continuum d'une construction de solution numérique qui remplacera et améliorera un outil existant, transféré par la DGCCRF à la DGAl. 
+Le récent comité d'investissement s'est tenu en avril 2024 et a arbitrer le continuum d'une construction de solution numérique qui remplacera et améliorera un outil existant, transféré par la DGCCRF à la DGAl. 
 
 ## Notre mission : 
 
@@ -72,12 +73,18 @@ A termes, i.e. d'ici la rentrée de septembre 2024, il s'agira de devenir le nou
 - la constitution d'un catalogue en open data des compléments alimentaires déclarés
 - la possibilité pour un consommateur de 'signaler' et demander le statut (autorisé/interdit/inconnu) d'un produit disponible à la vente mais non présent dans le catalogue (donc non déclaré)
 
+![Slide 16_9 - 8 - compl'alim (2)](https://github.com/betagouv/beta.gouv.fr/assets/36134318/3df4d4c5-e778-44cc-a709-9631b89dcd75)
+
+![Slide 16_9 - 1](https://github.com/betagouv/beta.gouv.fr/assets/36134318/acbb64e9-0bf1-42f5-be25-926ccb8ddd88)
+
 
 ## L'équipe de la startup :
 
 En octobre 2023, après validation de la phase d'investigation, les intrapreneuses, Caroline et Emmanuelle, ainsi que la coach, Jenn, ont été rejoins par : 
 
-Alejandro Guillèn, lead dev fullstack et Perrine Letellier, dev fullstack/data scientist
+Alejandro Guillèn, lead dev fullstack
+Perrine Letellier, dev fullstack/data scientist
+David Dahan, dev fullstack
 Arthur Klein, designer de services
 
 

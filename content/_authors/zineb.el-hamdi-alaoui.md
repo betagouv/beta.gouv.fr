@@ -7,4 +7,10 @@ missions:
     end: 2024-12-08
     status: admin
     employer: Dinum
+    startups:
+      - >-
+        gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
+competences:
+  - Intrapreneur(se)
+memberType: beta
 ---

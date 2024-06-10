@@ -3,7 +3,7 @@ title: SEVES
 mission: Une gestion mutualisée de tous les événements sanitaires entre la DGAL et les services déconcentrés
 sponsors: 
   - /organisations/dgal
-incubator: dinum
+incubator: agriculture
 phases:
     - name: construction
       start: 2023-06-02

@@ -5,12 +5,12 @@ domaine: Développement
 github: xavfernandez
 missions:
   - start: 2022-11-14
-    end: 2024-06-29
+    end: 2024-12-04
     status: independent
-    employer: Octo
+    employer: Malt
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 ---
 Développeur, avec beaucoup de python et d'open source

@@ -3,8 +3,8 @@ mission: >-
   Faciliter le processus de contrôle et surveillance des denrées alimentaires en
   permettant la circulation et l'accès en temps réel d'une donnée de qualité
   entre les différents acteurs.
-incubator: dinum
-title: PSPC
+incubator: agriculture
+title: maestro
 contact: diane.cuzzucoli@agriculture.gouv.fr
 accessibility_status: non conforme
 sponsors:
@@ -14,7 +14,7 @@ phases:
     start: 2023-05-12
   - name: construction
     start: 2024-02-26
-repository: https://github.com/betagouv/pspc
+repository: https://github.com/betagouv/maestro
 ---
 ## Contexte
 
@@ -46,7 +46,7 @@ La solution consiste à **outiller un périmètre restreint mais représentatif 
 
 
 ## Stratégie
-Lancée en février 2024, la SE PSPC a pour objectif à 6 mois de déterminer si le processus peut être **soutenu de bout en bout** par un outil numérique de manière simple et efficace.
+Lancée en février 2024, la SE maestro a pour objectif à 6 mois de déterminer si le processus peut être **soutenu de bout en bout** par un outil numérique de manière simple et efficace.
 
 Fin septembre 2024, nous aurons réussi si :
 

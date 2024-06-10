@@ -15,6 +15,7 @@ mapping:
             - /organisations/action-logement
             - /organisations/acoss
             - /organisations/agence-bio
+            - /organisations/agence-national-de-l-habitat
             - /organisations/anah
             - /organisations/anct
             - /organisations/ans
@@ -39,6 +40,7 @@ mapping:
             - /organisations/ddtm34
             - /organisations/ddtm29
             - /organisations/dia-tnd
+            - /organisations/direction-de-l-environnement-de-l-amenagement-et-du-logement-de-la-reunion
             - /organisations/direction-generale-des-etrangers-en-france
             - /organisations/departement-oise
             - /organisations/departement-pas-de-calais
@@ -60,6 +62,7 @@ mapping:
             - /organisations/dgesco
             - /organisations/dgesip
             - /organisations/dgfip
+            - /organisations/dgpe
             - /organisations/dgitm
             - /organisations/dgos
             - /organisations/dgpat

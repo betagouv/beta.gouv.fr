@@ -1,6 +1,6 @@
 ---
 fullname: Audrey PIERRE
-role: Cheffe de bureau
+role: Cheffe de bureau des Ux & Coachs
 domaine: Autre
 missions:
   - start: 2023-10-02
