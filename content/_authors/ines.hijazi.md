@@ -33,5 +33,5 @@ previously:
 badges:
   - segur
 teams:
-  - teams/gip-inclusion
+  - /teams/gip-inclusion
 ---

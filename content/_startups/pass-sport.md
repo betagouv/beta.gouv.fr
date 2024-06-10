@@ -1,5 +1,5 @@
 ---
-title: Pass'Sport
+title: Pass Sport
 mission: >-
   Permettre et faciliter la pratique sportive des 6-30 ans bénéficiaires de
   l'Allocation de Rentrée Scolaire (ARS), ou de l'Allocation Adulte Handicapé

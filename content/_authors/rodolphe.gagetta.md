@@ -10,6 +10,12 @@ missions:
     employer: MALT
     startups:
       - les-emplois
+  - start: 2024-06-01
+    end: 2024-12-31
+    status: independent
+    employer: MALT
+    startups:
+      - transition-ecologique-des-entreprises
 startups:
   - les-emplois
 badges:
