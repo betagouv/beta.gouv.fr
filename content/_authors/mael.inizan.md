@@ -11,7 +11,16 @@ missions:
     startups:
       - la.bonne.renov
       - parcours.de.saisine
+      - locadocs
+      - collectif_objets
+  - start: 2022-02-01
+    end: 2025-12-31
+    status: admin
+    employer: ''
+    startups:
       - chauffage-urbain
+      - territoires-en-transitions
+      - mesaidesreno
 startups:
   - la.bonne.renov
   - parcours.de.saisine

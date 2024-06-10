@@ -17,7 +17,7 @@ missions:
     status: independent
     employer: octo
 startups:
-  - itou
+  - les-emplois
   - place-de-marche-inclusion
 previously:
   - andi

@@ -12,7 +12,7 @@ nav:
   - label: Communauté
     target: _pages/communaute.md
   - label: Nous rejoindre
-    target: _pages/recrutement.md
+    target: _pages/nous-rejoindre.md
 
 shortcuts:
   - label: Documentation
