@@ -8,8 +8,8 @@ missions:
     status: admin
     employer: ''
     startups:
-      - especes.protegees
+      - pitchou
 startups:
-  - especes.protegees
+  - pitchou
 memberType: beta
 ---

@@ -14,12 +14,11 @@ missions:
     status: admin
     employer: Banque de France
   - start: 2023-07-03
-    end: 2024-06-30
+    end: 2024-05-30
     status: independent
-    employer: Malt
-startups:
-  - transition-ecologique-des-entreprises
+    employer: Malt  
 previously:
   - signaux-faibles
+  - transition-ecologique-des-entreprises
 ---
 Data Full Stack

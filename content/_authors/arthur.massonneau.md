@@ -5,8 +5,8 @@ domaine: Coaching
 link: https://www.linkedin.com/in/arthurmassonneau/
 github: ArtMassonneau
 missions:
-  - start: 2023-04-24
-    end: 2024-04-29
+  - start: 2023-06-24
+    end: 2024-07-29
     status: independent
     employer: Numa
     startups:

@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: LittleBigConnection
     startups:
-      - sparte
+      - mon-diagnostic-artificialisation
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
 ---
