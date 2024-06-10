@@ -7,11 +7,16 @@ missions:
   - start: 2022-05-24
     end: 2023-02-28
     status: independent
-    employer: ANCT
+    employer: Scopyleft
+    startups:
+      - lannuaire.des.collectivites
   - start: 2023-12-11
     end: 2024-12-31
     status: independent
-    employer: ''
+    employer: UT7
+    startups:
+      - exposition-ij
+      - investigation-ij
 previously:
   - lannuaire.des.collectivites
 badges:

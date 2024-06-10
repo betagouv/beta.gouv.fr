@@ -4,7 +4,7 @@ role: Intrapreneure
 domaine: Intraprenariat
 missions:
   - start: 2022-09-01
-    end: 2024-06-30
+    end: 2025-06-30
     status: admin
     employer: Ministère de la culture
     startups:
