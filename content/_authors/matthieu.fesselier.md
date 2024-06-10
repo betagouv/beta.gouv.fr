@@ -9,4 +9,9 @@ missions:
     employer: Diair
     startups:
       - refugies.info
+link: https://www.linkedin.com/in/matthieu-fesselier/
+competences:
+  - Développement Full-stack
+  - JavaScript/TypeScript
+memberType: beta
 ---
