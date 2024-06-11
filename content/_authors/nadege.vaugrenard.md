@@ -15,7 +15,7 @@ missions:
 teams:
   - /teams/gip-inclusion
 previously:
-  - itou
+  - les-emplois
   - la.communaute.de.linclusion
 startups:
   - place-de-marche-inclusion
