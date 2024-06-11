@@ -24,6 +24,8 @@ badges:
 competences:
   - Coaching
   - Gestion de Produit
+  - Product strategy
 startups:
   - exposition-ij
+link: https://www.linkedin.com/in/jufaure/
 ---
