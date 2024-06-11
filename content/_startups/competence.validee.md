@@ -15,9 +15,6 @@ events: []
 phases:
   - name: investigation
     start: 2020-07-06
-    end: 2020-10-30
-  - name: investigation
-    start: 2020-11-02
     end: 2020-12-31
   - name: construction
     start: 2021-02-27
@@ -31,6 +28,7 @@ phases:
     start: 2023-11-17
 accessibility_status: non conforme
 ---
+
 ### Contexte
 
 Un tiers des recruteurs travaillant avec Pôle emploi sont insatisfaits de la pertinence des candidatures qu’ils reçoivent.

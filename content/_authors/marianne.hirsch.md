@@ -7,7 +7,7 @@ missions:
   - start: 2021-02-22
     end: 2025-03-22
     status: independent
-    employer: DINUM
+    employer: UT7
     startups:
       - exposition-ij
       - investigation-ij
