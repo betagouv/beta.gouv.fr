@@ -5,7 +5,7 @@ domaine: Développement
 github: hihuz
 missions:
   - start: 2023-05-30
-    end: 2024-05-31
+    end: 2024-06-30
     status: independent
     employer: ''
     startups:

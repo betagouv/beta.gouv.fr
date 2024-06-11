@@ -8,9 +8,9 @@ missions:
     status: admin
     employer: pole-emploi
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 previously:
   - la-bonne-boite
   - memo
