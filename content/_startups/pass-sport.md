@@ -1,9 +1,10 @@
 ---
-title: Pass'Sport
+title: Pass Sport
 mission: >-
   Permettre et faciliter la pratique sportive des 6-30 ans bénéficiaires de
   l'Allocation de Rentrée Scolaire (ARS), ou de l'Allocation Adulte Handicapé
-  (AAH), ou d'une bourse étudiante.
+  (AAH), de l’allocation d’éducation de l’enfant handicapé (AEEH) ou d'une
+  bourse étudiante.
 incubator: dinum
 contact: clemence.lopez@beta.gouv.fr
 sponsors:
@@ -11,13 +12,15 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-08-21
-  - start: 2024-03-01
-    name: construction
+  - name: construction
+    start: 2024-03-01
 accessibility_status: non conforme
 thematiques:
   - Santé
   - Jeunesse
   - Sport
+link: https://pass.sports.gouv.fr/
+repository: https://github.com/betagouv/pass-sport
 ---
 ## Contexte
 

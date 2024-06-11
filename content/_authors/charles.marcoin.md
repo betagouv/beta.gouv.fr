@@ -10,7 +10,13 @@ missions:
     employer: Telescoop
     startups:
       - mon-suivi-justice
-startups:
+  - start: 2024-04-22
+    end: 2024-06-22
+    status: independent
+    employer: Scopyleft
+    startups:
+      - signaux-faibles
+previously:
   - mon-suivi-justice
 ---
 Développeur fullstack
