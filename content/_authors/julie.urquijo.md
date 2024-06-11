@@ -1,6 +1,6 @@
 ---
 domaine: Design
-fullname: Julie Urquijo
+fullname: Julia Urquijo
 role: Design
 missions:
   - start: 2024-05-31
@@ -9,4 +9,8 @@ missions:
     employer: Malt
     startups:
       - plusfraichemaville
+link: https://www.linkedin.com/in/julia-urquijo-963117136/
+competences:
+  - Product design
+memberType: beta
 ---
