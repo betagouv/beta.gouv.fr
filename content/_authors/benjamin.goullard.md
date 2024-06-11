@@ -4,7 +4,7 @@ role: Déploiement
 domaine: Déploiement
 missions:
   - start: 2024-06-11
-    end: 2024-09-11
+    end: 2024-11-11
     status: independent
     employer: Malt
     startups:
@@ -13,4 +13,5 @@ startups:
   - envergo
 badges:
   - segur
+memberType: beta
 ---
