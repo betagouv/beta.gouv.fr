@@ -1,7 +1,8 @@
 ---
 title: JAFER
-mission: "Diminuer les délais de prise en charge, par les espaces de rencontre,
-  des mesures judiciaires ordonnant des visites parent/enfant "
+mission: >-
+  Diminuer les délais de prise en charge, par les espaces de rencontre, des
+  mesures judiciaires ordonnant des visites parent/enfant 
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -14,6 +15,8 @@ phases:
   - name: construction
     start: 2022-12-07
     end: 2023-06-30
+  - name: construction
+    start: 2024-01-01
 thematiques:
   - Justice
 ---
@@ -31,6 +34,6 @@ Afin de favoriser la connaissance des modalités d’accueil au sein des espaces
 
 ## Stratégie
 
-\* E﻿tendre la couverture géographique aux ressorts avoisinant Lyon. 
+\* E﻿tendre la couverture géographique à l'échelle nationale. 
 
-\* E﻿nrichir fonctionnellement le produit en proposant le "passage de bras".
+\* E﻿nrichir fonctionnellement le produit.
