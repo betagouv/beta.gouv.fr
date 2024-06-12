@@ -9,4 +9,7 @@ missions:
     employer: LBC
     startups:
       - scienceinfuse
+competences:
+  - Développement Full-stack
+memberType: beta
 ---
