@@ -1,7 +1,7 @@
 ---
-domaine: Développement
+domaine: Autre
 fullname: Xavier DUMAS
-role: Développement
+role: Autre
 missions:
   - start: 2024-06-04
     end: 2024-12-04
@@ -9,4 +9,8 @@ missions:
     employer: Diair
     startups:
       - refugies.info
+competences:
+  - Communication
+  - SEO
+memberType: beta
 ---
