@@ -6,7 +6,6 @@ sponsors:
 incubator: dinum
 contact: christine.fournier@finances.gouv.fr
 accessibility_status: non conforme
-events: []
 phases:
   - name: investigation
     start: 2023-10-15

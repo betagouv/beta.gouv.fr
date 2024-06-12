@@ -9,8 +9,8 @@ contact: mathilde.menil@gouv.nc
 stats: true
 stats_url: https://guichet-entreprises.nc/
 events:
-  - date: 2019-03-01
-    name: product_launch
+  - name: product_launch
+    date: 2019-03-01
 phases:
   - name: investigation
     start: 2018-09-01

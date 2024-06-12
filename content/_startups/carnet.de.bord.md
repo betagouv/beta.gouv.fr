@@ -18,7 +18,6 @@ usertypes:
   - collectivite-territoriale
   - association
 stats_url: https://matomo-metabase-carnetdebord.fabrique.social.gouv.fr/public/dashboard/81a749aa-6c29-46b2-9ca5-df9d90fd3257
-events: []
 phases:
   - name: investigation
     start: 2021-01-25

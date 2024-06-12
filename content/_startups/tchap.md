@@ -10,6 +10,9 @@ repository: https://github.com/tchapgouv
 events:
   - name: national_impact
     date: 2023-12-31
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 30000€ pour la promotion 12
 phases:
   - name: construction
     start: 2021-01-01

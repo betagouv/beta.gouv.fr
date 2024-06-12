@@ -7,7 +7,6 @@ incubator: dinum_produits_interministeriels
 contact: tchap@beta.gouv.fr
 link: https://authentification.beta.gouv.fr
 repository: https://github.com/tchapgouv/tchap-identite
-events: []
 phases:
   - name: construction
     start: 2022-04-01

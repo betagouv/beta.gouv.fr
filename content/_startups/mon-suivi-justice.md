@@ -16,6 +16,9 @@ events:
   - name: product_launch
     date: 2021-05-07
     comment: Lancement de Mon Suivi Justice pour une première phase de 6 mois.
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 30000€ pour la promotion 12
 phases:
   - name: investigation
     start: 2020-10-04

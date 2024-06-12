@@ -29,6 +29,10 @@ thematiques:
   - Écologie
 redirect_from:
   - /startups/sparte
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 210000€ pour la promotion 12
 ---
 ## Contexte
 

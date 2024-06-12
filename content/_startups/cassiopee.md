@@ -5,7 +5,6 @@ sponsors:
   - /organisations/armees
 incubator: fabnumdef
 contact: mathieu.mahr@beta.gouv.fr
-events: []
 phases:
   - name: investigation
     comment: Définition des acteurs et exploration des besoins utilisateurs. Réalisation de prototypes, tests utilisateurs, définition de la vision du projet et approfondissement des besoins du futur système.

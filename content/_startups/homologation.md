@@ -25,6 +25,10 @@ fast:
 thematiques:
   - Sécurité informatique
 accessibility_status: non conforme
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 141000€ pour la promotion 14
 ---
 ## En phase d'accélération
 

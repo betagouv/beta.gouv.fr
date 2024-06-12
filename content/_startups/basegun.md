@@ -8,7 +8,6 @@ link: https://basegun.interieur.gouv.fr/
 repository: https://github.com/datalab-mi/Basegun
 contact: basegun@interieur.gouv.fr
 accessibility_status: non conforme
-events: []
 phases:
   - name: construction
     start: 2022-03-01

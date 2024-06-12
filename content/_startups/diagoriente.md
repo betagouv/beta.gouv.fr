@@ -2,8 +2,8 @@
 title: DiagOriente
 mission: Permettre aux jeunes en difficulté de découvrir leurs compétences et leurs aspirations
 sponsors:
-  - /organisations/dgefp
   - /organisations/hcc
+  - /organisations/dgefp
 incubator: dinum
 phases:
   - name: investigation

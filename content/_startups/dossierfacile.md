@@ -2,8 +2,8 @@
 title: DossierFacile
 mission: Remettre la confiance au centre de la relation entre propriétaires et locataires
 sponsors:
-  - /organisations/dhup
   - /organisations/dgaln
+  - /organisations/dhup
 incubator: mtes
 redirect_from:
   - /locatio
@@ -21,6 +21,9 @@ dashlord_url: https://dashlord.incubateur.net/url/dossierfacile-fr/
 events:
   - name: national_impact
     date: 2022-12-31
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 13
 phases:
   - name: investigation
     start: 2018-01-01

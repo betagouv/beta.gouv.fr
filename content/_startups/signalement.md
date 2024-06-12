@@ -18,6 +18,9 @@ phases:
 events:
   - name: national_impact
     date: 2021-12-31
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 12
 link: https://signal.conso.gouv.fr
 repository: https://github.com/betagouv/signalconso-website
 stats: true

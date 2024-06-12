@@ -38,6 +38,10 @@ fast:
   montant: 300000
 thematiques:
   - Territoires
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 14
 ---
 ## Contexte
 

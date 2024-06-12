@@ -2,8 +2,8 @@
 title: A-JUST
 mission: Aider les juridictions dans l'affectation de leurs ressources humaines pour réduire les délais de justice.
 sponsors:
-  - /organisations/igj
   - /organisations/mj
+  - /organisations/igj
 incubator: justice
 link: https://a-just.beta.gouv.fr
 repository: https://github.com/betagouv/a-just
@@ -15,7 +15,10 @@ accessibility_status: non conforme
 usertypes:
   - etat
 stats_url: https://a-just.beta.gouv.fr/stats
-events: []
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 13
 phases:
   - name: investigation
     start: 2021-02-01

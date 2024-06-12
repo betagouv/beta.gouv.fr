@@ -6,7 +6,6 @@ sponsors:
 incubator: anct
 contact: contactincubateur@anct.gouv.fr
 stats: false
-events: []
 phases:
   - name: investigation
     start: 2021-06-01

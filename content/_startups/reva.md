@@ -6,7 +6,6 @@ sponsors:
 incubator: sgmas
 link: https://vae.gouv.fr
 contact: olivier.gerard@beta.gouv.fr
-events: []
 phases:
   - name: investigation
     start: 2021-05-17

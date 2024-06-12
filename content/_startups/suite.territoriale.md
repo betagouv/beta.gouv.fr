@@ -6,8 +6,8 @@ contact: lasuiteterritoriale@anct.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/dinum
-  - /organisations/anct
   - /organisations/anssi
+  - /organisations/anct
 phases:
   - name: investigation
     start: 2023-12-07

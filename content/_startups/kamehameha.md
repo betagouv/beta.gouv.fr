@@ -5,7 +5,6 @@ sponsors:
   - /organisations/anct
 incubator: anct
 contact: incubateur@anct.gouv.f
-events: []
 phases:
   - name: investigation
     start: 2019-11-01

@@ -7,7 +7,6 @@ incubator: dinum_produits_interministeriels
 contact: support@audioconf.numerique.gouv.fr
 link: https://audioconf.numerique.gouv.fr/
 repository: https://github.com/betagouv/audioconf
-events: []
 phases:
   - name: construction
     start: 2020-11-15

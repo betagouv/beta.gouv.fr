@@ -9,8 +9,8 @@ redirect_from:
   - /startups/mon.espae.collectivite
 sponsors:
   - /organisations/anct
-  - /organisations/mtes
   - /organisations/mctrct
+  - /organisations/mtes
 phases:
   - name: investigation
     start: 2023-10-09

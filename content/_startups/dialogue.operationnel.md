@@ -5,7 +5,6 @@ sponsors:
   - /organisations/igpn
 incubator: lab-mi
 contact: igpn-mission-appui-conseil@interieur.gouv.fr
-events: []
 phases:
   - name: investigation
     start: 2021-09-13

@@ -4,8 +4,8 @@ mission: Renforcer la collecte et la  visibilité des formations en apprentissag
 sponsors:
   - /organisations/menjs
   - /organisations/mesr
-  - /organisations/mtfp
   - /organisations/mtei
+  - /organisations/mtfp
 incubator: mission-apprentissage
 link: https://catalogue.apprentissage.beta.gouv.fr/
 repository: https://github.com/mission-apprentissage/catalogue-apprentissage

@@ -2,9 +2,9 @@
 title: France Chaleur Urbaine
 mission: Accélérer le raccordement des bâtiments aux réseaux de chaleur
 sponsors:
+  - /organisations/dgec
   - /organisations/ademe
   - /organisations/drieat
-  - /organisations/dgec
 incubator: mtes
 link: https://france-chaleur-urbaine.beta.gouv.fr/
 repository: https://github.com/betagouv/france-chaleur-urbaine
@@ -29,6 +29,10 @@ thematiques:
   - Logement
   - Écologie
 accessibility_status: non conforme
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 121000€ pour la promotion 14
 ---
 # Le problème
 

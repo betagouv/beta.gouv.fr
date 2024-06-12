@@ -6,7 +6,6 @@ sponsors:
 incubator: mtes
 contact: thomas.gergaud@developpement-durable.gouv.fr
 accessibility_status: non conforme
-events: []
 phases:
   - name: investigation
     start: 2022-04-04

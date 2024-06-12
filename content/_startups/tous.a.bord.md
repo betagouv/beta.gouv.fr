@@ -8,7 +8,6 @@ incubator: dinum
 repository: https://github.com/betagouv/tous-a-bord
 contact: tousabord@beta.gouv.fr
 accessibility_status: non conforme
-events: []
 phases:
   - name: investigation
     start: 2022-08-23

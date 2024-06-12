@@ -14,7 +14,6 @@ accessibility_status: partiellement conforme
 stats_url: https://zerologementvacant.beta.gouv.fr/stats
 stats: true
 budget_url: https://docs.google.com/spreadsheets/d/1rki0Wlrk4hCL0WC8mlHcRlj8rk7iCZ4ed3lyxSa_yec/edit#gid=300205456
-events: []
 phases:
   - name: investigation
     start: 2020-03-15

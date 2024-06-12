@@ -8,7 +8,6 @@ link: https://competencevalidee.pole-emploi.fr/
 contact: competencevalidee@pole-emploi.fr
 usertypes:
   - particulier
-events: []
 phases:
   - name: investigation
     start: 2020-07-06

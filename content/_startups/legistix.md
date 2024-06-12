@@ -2,8 +2,8 @@
 title: Légistix
 mission: Aider les rédacteurs à produire et à corriger les textes normatifs
 sponsors:
-  - /organisations/dg-tresor
   - /organisations/mefr
+  - /organisations/dg-tresor
 incubator: bercy
 phases:
   - name: investigation

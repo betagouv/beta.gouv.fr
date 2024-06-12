@@ -16,7 +16,6 @@ sponsors:
 link: https://dora.inclusion.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/tag/dora/
-events: []
 phases:
   - name: investigation
     start: 2021-01-25

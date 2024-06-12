@@ -27,6 +27,10 @@ fast:
 thematiques:
   - Travail / Emploi
   - Social
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 125000€ pour la promotion 14
 ---
 ## Le contexte
 

@@ -25,6 +25,10 @@ fast:
   montant: 280000
 thematiques:
   - Open-Data
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 280000€ pour la promotion 13
 ---
 ## La valeur de Data.Subvention
 

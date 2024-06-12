@@ -2,8 +2,8 @@
 title: Immersion facilitée
 mission: Faciliter la réalisation des immersions professionnelles
 sponsors:
-  - /organisations/pole-emploi
   - /organisations/mtei
+  - /organisations/pole-emploi
 incubator: gip-inclusion
 link: https://immersion-facile.beta.gouv.fr/
 repository: https://github.com/gip-inclusion/immersion-facile
@@ -16,6 +16,9 @@ budget_url: https://immersion-facile.beta.gouv.fr/pages/budget
 events:
   - name: national_impact
     date: 2023-12-31
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 14
 phases:
   - name: construction
     start: 2021-07-16

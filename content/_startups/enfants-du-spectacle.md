@@ -11,7 +11,6 @@ usertypes:
   - etat
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/enfants-du-spectacle-fabrique-social-gouv-fr/
 link: https://enfants-du-spectacle.fabrique.social.gouv.fr/
-events: []
 phases:
   - name: investigation
     start: 2021-02-01

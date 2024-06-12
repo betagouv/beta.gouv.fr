@@ -2,12 +2,11 @@
 title: signalement environnement
 mission: Permettre de signaler des atteintes à l'environnement
 sponsors:
-  - /organisations/mtes
   - /organisations/dgeb
+  - /organisations/mtes
 incubator: mtes
 contact: mathieu.bobin@beta.gouv.fr
 accessibility_status: non conforme
-events: []
 phases:
   - name: alumni
     start: 2023-06-04

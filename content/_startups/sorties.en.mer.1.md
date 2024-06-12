@@ -6,7 +6,6 @@ sponsors:
 incubator: mtes
 contact: patrick.lambret@beta.gouv.fr
 accessibility_status: non conforme
-events: []
 phases:
   - name: investigation
     start: 2023-05-01

@@ -3,8 +3,8 @@ title: Plante & Moi
 mission: Augmenter la présence de la nature en ville
 incubator: dinum
 sponsors:
-  - /organisations/cgdd
   - /organisations/dinum
+  - /organisations/cgdd
 phases:
   - name: investigation
     start: 2016-09-01

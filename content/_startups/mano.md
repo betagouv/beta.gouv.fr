@@ -9,7 +9,10 @@ repository: https://github.com/SocialGouv/mano/
 contact: guillaume.demirhan@sesan.fr
 stats_url: https://mano.sesan.fr/stats/
 stats: true
-events: []
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 100000€ pour la promotion 13
 phases:
   - name: investigation
     start: 2020-08-01

@@ -17,6 +17,9 @@ analyse_risques_url: https://github.com/incubateur-ademe/incubateur-ademe/blob/m
 events:
   - name: national_impact
     date: 2022-12-31
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 230000€ pour la promotion 12
 phases:
   - name: success
     comment: Spin-off de Datagir

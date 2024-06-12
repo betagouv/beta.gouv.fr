@@ -17,6 +17,10 @@ fast:
 stats_url: https://kit.refugies.info/stats
 thematiques:
   - Social
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 250000€ pour la promotion 13
 ---
 # **Contexte**
 

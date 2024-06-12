@@ -29,6 +29,10 @@ thematiques:
   - Administratif
   - Alimentation
 accessibility_status: partiellement conforme
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 250000€ pour la promotion 13
 ---
 ## Contexte et enjeux
 
