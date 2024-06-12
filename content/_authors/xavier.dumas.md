@@ -1,7 +1,7 @@
 ---
 domaine: Autre
 fullname: Xavier DUMAS
-role: Autre
+role: Support et éditorial
 missions:
   - start: 2024-06-04
     end: 2024-12-04
