@@ -1,6 +1,6 @@
 ---
 title: OpenFisca
-mission: Rendre la loi exécutable
+mission: Rendre la loi exécutable222
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -17,8 +17,7 @@ phases:
 link: https://openfisca.org
 repository: https://github.com/openfisca/openfisca-france
 stats: true
-stats_url: >-
-  https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=4&period=range&date=previous30
+stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=4&period=range&date=previous30
 contact: contact@openfisca.org
 techno:
   - Python

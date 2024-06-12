@@ -1,16 +1,14 @@
 ---
 title: AuxAJ
-mission: >-
-    Faire gagner du temps aux greffiers dans l'instruction des demandes d'aides juridictionnelles et la notifiction des auxiliaires de justice
+mission: Faire gagner du temps aux greffiers dans l'instruction des demandes d'aides juridictionnelles et la notifiction des auxiliaires de justice
 sponsors:
-    - /organisations/mj
+  - /organisations/mj
 incubator: justice
 contact: jeanne.peron@justice.fr
 accessibility_status: non conforme
 phases:
-    - name: investigation
-      start: 2024-03-27
-      
+  - name: investigation
+    start: 2024-03-27
 thematiques:
   - Justice
 ---

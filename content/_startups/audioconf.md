@@ -17,7 +17,6 @@ usertypes:
   - etat
 accessibility_status: non conforme
 ---
-
 ## Contexte
 
 Le service AudioConf a été lancé en décembre 2020 pour permettre aux agents publics de réaliser simplement des conférences téléphoniques.

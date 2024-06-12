@@ -1,5 +1,5 @@
 ---
-mission: "Recenser, mettre en visibilité et faciliter la prescription de services d'insertion, adaptés aux besoins des bénéficiaires"
+mission: Recenser, mettre en visibilité et faciliter la prescription de services d'insertion, adaptés aux besoins des bénéficiaires
 incubator: gip-inclusion
 repository: https://github.com/gip-inclusion/dora/
 contact: contact@dora.inclusion.beta.gouv.fr
@@ -11,8 +11,8 @@ usertypes:
 stats_url: https://dora.inclusion.beta.gouv.fr/stats
 title: DORA
 sponsors:
-  - /organisations/pole-emploi
   - /organisations/mtei
+  - /organisations/pole-emploi
 link: https://dora.inclusion.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/tag/dora/

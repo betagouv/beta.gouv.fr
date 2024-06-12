@@ -23,7 +23,6 @@ phases:
 usertypes:
   - entreprise
 ---
-
 ## Le constat initial : le transport routier de marchandises, un secteur exposé à des risques de déréglementation
 
 Le transport routier de marchandises en France (TRM) - 40 000 entreprises, 400 000 salariés -  est historiquement et structurellement exposé à des risques de déréglementation. En effet, il est : 

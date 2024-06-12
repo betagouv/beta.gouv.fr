@@ -1,7 +1,6 @@
 ---
 title: Docurba
-mission: Faciliter l'élaboration et le suivi des documents d'urbanisme en améliorant les
-  échanges entre les collectivités et l'État
+mission: Faciliter l'élaboration et le suivi des documents d'urbanisme en améliorant les échanges entre les collectivités et l'État
 sponsors:
   - /organisations/dgaln
 incubator: mtes

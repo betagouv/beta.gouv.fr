@@ -2,8 +2,8 @@
 title: Voir & Localiser
 mission: Voir et localiser les appelants aux centres d'appels d'urgence
 sponsors:
-    - /organisations/solidarite-sante
-    - /organisations/ans
+  - /organisations/solidarite-sante
+  - /organisations/ans
 incubator: dinum
 events:
   - name: end
@@ -22,8 +22,6 @@ usertypes:
   - particulier
   - etat
 ---
-
-
 > Après 6 mois d'expérimentation et un budget de 60k€ la réutilisation de la solution développée pour le ST(SI)² s'est avérée plus compliquée que prévu.
 >
 >La géolocalisation et l'envoi de photos ont pu être expérimentés avec succès mais pas la visiorégulation.

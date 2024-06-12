@@ -12,8 +12,6 @@ phases:
     start: 2021-03-01
   - name: alumni
     start: 2022-01-01
-link: 
-repository: 
 stats: false
 contact: amd@finances.gouv.fr
 techno:
@@ -22,7 +20,6 @@ usertypes:
   - entreprise
   - etat
 ---
-
 ## Le problème 
 
 Près de 4 millions d’entreprises françaises subissent de plein fouet la crise économique du coronavirus.

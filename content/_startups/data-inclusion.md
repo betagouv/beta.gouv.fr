@@ -1,9 +1,9 @@
 ---
 title: data·inclusion
-mission: "Créer un référentiel commun de toutes les données de l’offre d’insertion des territoires"
+mission: Créer un référentiel commun de toutes les données de l’offre d’insertion des territoires
 sponsors:
-  - /organisations/pole-emploi
   - /organisations/mtei
+  - /organisations/pole-emploi
 incubator: gip-inclusion
 link: https://api.data.inclusion.beta.gouv.fr/api/v0/docs#/
 repository: http://github.com/gip-inclusion/data-inclusion
@@ -14,7 +14,7 @@ phases:
   - name: investigation
     start: 2022-03-17
   - name: construction
-    start: 2022-06-30  
+    start: 2022-06-30
 usertypes:
   - collectivite-territoriale
   - entreprise

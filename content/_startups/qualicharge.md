@@ -1,7 +1,6 @@
 ---
 title: QualiCharge
-mission: Améliorer la qualité globale du service de recharge pour véhicules
-  électriques en analysant les données de supervision
+mission: Améliorer la qualité globale du service de recharge pour véhicules électriques en analysant les données de supervision
 sponsors:
   - /organisations/mtes
 incubator: mtes

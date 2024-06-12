@@ -1,8 +1,6 @@
 ---
 title: MANO
-mission: >-
-  Service de soutien aux équipes mobiles visant à améliorer la vie des
-  populations en rue et à favoriser leur réinsertion.
+mission: Service de soutien aux équipes mobiles visant à améliorer la vie des populations en rue et à favoriser leur réinsertion.
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
@@ -25,8 +23,7 @@ phases:
     start: 2024-02-01
 usertypes:
   - association
-dashlord_url: >-
-  https://socialgouv.github.io/dashlord-fabrique/url/mano-app-fabrique-social-gouv-fr/
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/mano-app-fabrique-social-gouv-fr/
 accessibility_status: non conforme
 fast:
   promotion: 13

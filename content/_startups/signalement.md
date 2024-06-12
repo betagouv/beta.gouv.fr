@@ -2,7 +2,7 @@
 title: SignalConso
 mission: Faire baisser le nombre d'anomalies rencontrées par les consommateurs
 sponsors:
-    - /organisations/dgccrf
+  - /organisations/dgccrf
 incubator: dinum
 phases:
   - name: investigation
@@ -39,7 +39,6 @@ fast:
   promotion: 12
   montant: 300000
 ---
-
 Trop d'anomalies aujourd'hui ne sont pas remontées
 ===================================================
 

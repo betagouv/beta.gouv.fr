@@ -2,8 +2,8 @@
 title: Recosanté
 mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la santé
 sponsors:
-  - /organisations/dgs
   - /organisations/dgpr
+  - /organisations/dgs
 incubator: sgmas
 link: https://recosante.beta.gouv.fr/
 repository: https://github.com/betagouv/recosante/

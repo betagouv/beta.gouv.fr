@@ -2,9 +2,9 @@
 title: Registre de preuve de covoiturage
 mission: Accompagner le développement du covoiturage au quotidien 🚘
 sponsors:
-  - /organisations/dgitm
   - /organisations/ademe
   - /organisations/dinum
+  - /organisations/dgitm
 incubator: mtes
 link: https://covoiturage.beta.gouv.fr/
 repository: https://github.com/betagouv/preuve-covoiturage
@@ -35,7 +35,6 @@ thematiques:
   - Écologie
   - Transports
 ---
-
 Un résumé (2 min de lecture)
 
 # 1,43 personnes par véhicule seulement dans les déplacements "courte distance"

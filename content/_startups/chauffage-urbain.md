@@ -3,8 +3,8 @@ title: France Chaleur Urbaine
 mission: Accélérer le raccordement des bâtiments aux réseaux de chaleur
 sponsors:
   - /organisations/drieat
-  - /organisations/dgec
   - /organisations/ademe
+  - /organisations/dgec
 incubator: mtes
 link: https://france-chaleur-urbaine.beta.gouv.fr/
 repository: https://github.com/betagouv/france-chaleur-urbaine
@@ -15,8 +15,8 @@ phases:
     start: 2020-03-01
     end: 2020-06-15
   - name: construction
-    start: 2020-12-01
     comment: lancement du prototype no-code en février 2021
+    start: 2020-12-01
   - name: acceleration
     start: 2022-07-01
 usertypes:
@@ -30,7 +30,6 @@ thematiques:
   - Écologie
 accessibility_status: non conforme
 ---
-
 # Le problème
 
 Alors que les réseaux de chaleur constituent un mode de chauffage écologique et économique particulièrement adapté au contexte actuel, ils demeurent trop peu connus en France et leur dynamique de développement n'est pas à la hauteur des objectifs fixés par la loi.

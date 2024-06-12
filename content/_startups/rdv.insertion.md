@@ -1,6 +1,5 @@
 ---
-mission: Accélérer les rendez-vous des usagers en insertion et diminuer le taux
-  d'absentéisme
+mission: Accélérer les rendez-vous des usagers en insertion et diminuer le taux d'absentéisme
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -27,7 +26,6 @@ thematiques:
   - Social
 accessibility_status: non conforme
 ---
-
 ## Le problème
 
 Les parcours d’insertion sont longs et peu suivis :

@@ -9,8 +9,7 @@ contact: enfantsduspectacle@fabrique.social.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - etat
-dashlord_url: >-
-  https://socialgouv.github.io/dashlord-fabrique/url/enfants-du-spectacle-fabrique-social-gouv-fr/
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/enfants-du-spectacle-fabrique-social-gouv-fr/
 link: https://enfants-du-spectacle.fabrique.social.gouv.fr/
 events: []
 phases:
@@ -24,7 +23,6 @@ phases:
     start: 2022-09-01
   - name: transfer
     start: 2024-02-27
-    
 ---
 ## Le contexte
 

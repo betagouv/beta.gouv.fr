@@ -1,6 +1,6 @@
 ---
 title: Immersion facilitée
-mission: "Faciliter la réalisation des immersions professionnelles"
+mission: Faciliter la réalisation des immersions professionnelles
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -20,7 +20,7 @@ phases:
   - name: construction
     start: 2021-07-16
   - name: acceleration
-    start: 2022-05-31   
+    start: 2022-05-31
 usertypes:
   - particulier
   - entreprise

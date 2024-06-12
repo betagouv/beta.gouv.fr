@@ -4,7 +4,6 @@ mission: Accompagner les collectivités pour une meilleure appropriation de leu
 sponsors:
   - /organisations/ademe
 incubator: ademe
-link: ""
 contact: aude.bodiguel@ademe.fr
 accessibility_status: non conforme
 events:

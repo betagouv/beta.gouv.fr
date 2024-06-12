@@ -1,11 +1,9 @@
 ---
 title: Boîte aux lettres
-mission: Centraliser et sécuriser les données de l'apprentissage dans le cadre
-  du développement des services de la Mission interministérielle pour
-  l'apprentissage.
+mission: Centraliser et sécuriser les données de l'apprentissage dans le cadre du développement des services de la Mission interministérielle pour l'apprentissage.
 sponsors:
-  - /organisations/mtei
   - /organisations/menjs
+  - /organisations/mtei
   - /organisations/mesr
   - /organisations/mtfp
 incubator: mission-apprentissage

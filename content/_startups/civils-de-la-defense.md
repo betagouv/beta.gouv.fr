@@ -2,7 +2,7 @@
 title: Civils de la Défense
 mission: Recruter simplement des agents civils sous contrat
 sponsors:
-    - /organisations/armees
+  - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation

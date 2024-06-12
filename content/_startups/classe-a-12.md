@@ -1,8 +1,6 @@
 ---
 title: Classe à 12
-mission: >-
-  Faciliter le passage en classe à 12 pour les enseignants et maximiser la
-  valeur de ce dispositif pour les élèves.
+mission: Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.
 sponsors:
   - /organisations/dgesco
 incubator: dinum
@@ -13,8 +11,8 @@ phases:
     start: 2018-06-01
   - name: acceleration
     start: 2018-06-01
-  - start: 2024-02-09
-    name: alumni
+  - name: alumni
+    start: 2024-02-09
 link: https://classe-a-12.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12
 stats: false

@@ -1,6 +1,6 @@
 ---
 title: Catalogue des formations en apprentissage
-mission: "Renforcer la collecte et la  visibilité des formations en apprentissage"
+mission: Renforcer la collecte et la  visibilité des formations en apprentissage
 sponsors:
   - /organisations/menjs
   - /organisations/mtei

@@ -16,10 +16,10 @@ dashlord_url: https://dashlord.mte.incubateur.net/dashlord/startup/sparte/
 phases:
   - name: investigation
     start: 2021-04-08
-  - name: acceleration
-    start: 2023-05-25
   - name: construction
     start: 2021-11-19
+  - name: acceleration
+    start: 2023-05-25
 fast:
   promotion: 12
   montant: 210000
@@ -30,7 +30,6 @@ thematiques:
 redirect_from:
   - /startups/sparte
 ---
-
 ## Contexte
 
 [L'article 192 de la loi Climat et Résilience](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924) fixe une trajectoire nationale de sobriété foncière en 2 étapes :

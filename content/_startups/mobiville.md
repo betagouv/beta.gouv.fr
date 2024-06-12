@@ -1,10 +1,9 @@
 ---
 title: Mobiville
-mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité
-  géographique des actifs
+mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité géographique des actifs
 sponsors:
-  - /organisations/pole-emploi
   - /organisations/action-logement
+  - /organisations/pole-emploi
 incubator: pole-emploi
 link: https://mobiville.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/mobiville

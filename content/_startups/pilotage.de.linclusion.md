@@ -1,9 +1,9 @@
 ---
 title: Pilotage de l'inclusion
-mission: "Valoriser et diffuser la donnée pour favoriser les dispositifs d'inclusion"
+mission: Valoriser et diffuser la donnée pour favoriser les dispositifs d'inclusion
 sponsors:
-  - /organisations/pole-emploi
   - /organisations/mtei
+  - /organisations/pole-emploi
 incubator: gip-inclusion
 stats: true
 link: https://pilotage.inclusion.beta.gouv.fr/

@@ -1,7 +1,6 @@
 ---
 title: Data.Subvention
-mission: Rassembler les informations sur les associations et leurs subventions
-  pour simplifier la vie des associations et des agents publics
+mission: Rassembler les informations sur les associations et leurs subventions pour simplifier la vie des associations et des agents publics
 sponsors:
   - /organisations/djepva
 incubator: dinum

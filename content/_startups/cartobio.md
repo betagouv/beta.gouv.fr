@@ -17,7 +17,6 @@ accessibility_status: non conforme
 link: https://cartobio.agencebio.org
 repository: https://github.com/AgenceBio/cartobio-front
 stats: true
-budget_url:
 dashlord_url: https://dashlord.incubateur.net/url/cartobio-agencebio-org/
 contact: cartobio@beta.gouv.fr
 usertypes:

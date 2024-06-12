@@ -5,8 +5,7 @@ sponsors:
   - /organisations/solidarite-sante
   - /organisations/cnam
 incubator: sgmas
-link: >-
-  https://www.ameli.fr/assure/remboursements/rembourse/remboursement-seance-psychologue-mon-soutien-psy
+link: https://www.ameli.fr/assure/remboursements/rembourse/remboursement-seance-psychologue-mon-soutien-psy
 repository: https://github.com/SocialGouv/mon-psy-sante
 contact: support-monsoutienpsy.cnam@assurance-maladie.fr
 stats: true

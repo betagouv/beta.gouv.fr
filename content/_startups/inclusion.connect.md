@@ -1,11 +1,9 @@
 ---
 title: Inclusion Connect
-mission: >-
-  Connecter 160 000 professionnels de l’inclusion aux services numériques de
-  leur quotidien, d’une manière simple, sécurisée, efficace.
+mission: Connecter 160 000 professionnels de l’inclusion aux services numériques de leur quotidien, d’une manière simple, sécurisée, efficace.
 sponsors:
-  - /organisations/pole-emploi
   - /organisations/mtei
+  - /organisations/pole-emploi
 incubator: gip-inclusion
 link: https://connect.inclusion.beta.gouv.fr/
 repository: https://github.com/gip-inclusion/inclusion-connect
@@ -13,8 +11,7 @@ contact: support@connect.inclusion.beta.gouv.fr
 analyse_risques: true
 accessibility_status: partiellement conforme
 stats: true
-stats_url: >-
-  http://stats.inclusion.beta.gouv.fr/public/dashboard/8895a813-68d0-4d3a-a7e3-f71ef0615a52
+stats_url: http://stats.inclusion.beta.gouv.fr/public/dashboard/8895a813-68d0-4d3a-a7e3-f71ef0615a52
 phases:
   - name: acceleration
     start: 2022-07-01

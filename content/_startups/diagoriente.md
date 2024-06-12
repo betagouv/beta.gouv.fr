@@ -1,9 +1,9 @@
 ---
 title: DiagOriente
 mission: Permettre aux jeunes en difficulté de découvrir leurs compétences et leurs aspirations
-sponsors: 
-    - /organisations/hcc
-    - /organisations/dgefp
+sponsors:
+  - /organisations/hcc
+  - /organisations/dgefp
 incubator: dinum
 phases:
   - name: investigation
@@ -23,9 +23,7 @@ redirect_from:
   - /startups/trouve-ta-voie
 usertypes:
   - particulier
-
 ---
-
 ## Le problème (enfin les problèmes…)
 
 Chaque année, plus de 80 000 jeunes sortent du système scolaire sans diplôme ni projet autre que d’entrer dans la vie active. Accompagnés par les Missions locales, ils entrent dans le dispositif Garantie Jeunes avec la ferme intention de se faire un peu d’expérience professionnelle (via des « stages ») tout en étant rémunérés et de financer ainsi leur permis de conduire. La plupart d’entre eux n’ont pas vu de conseiller d’orientation à l’école et ne connaissent qu’une dizaine de métiers, parfois très superficiellement. La Garantie Jeunes leur permettra de tester ces quelques idées de métiers via des stages (une à deux semaines de mise en situation en milieu professionnel).

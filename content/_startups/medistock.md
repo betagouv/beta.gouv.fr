@@ -1,7 +1,6 @@
 ---
 title: Médistock
-mission:
-  Améliorer le flux de gestion des stocks de médicaments pour éviter les ruptures
+mission: Améliorer le flux de gestion des stocks de médicaments pour éviter les ruptures
 incubator: dinum
 contact: elsa.le-duigou@beta.gouv.fr
 sponsors:
@@ -10,7 +9,6 @@ phases:
   - name: investigation
     start: 2024-02-01
 ---
-
 ## Contexte
 
 En 2022, ont été déposées plus de 1600 déclarations de ruptures de stock et risques de rupture de stock auprès de l’ANSM. Les pénuries de médicaments se font souvent au niveau national et mondial (triple épidémie, guerre, surconsommation).

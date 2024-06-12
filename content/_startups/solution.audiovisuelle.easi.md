@@ -1,8 +1,6 @@
 ---
 title: Solution EASI
-mission: "Améliorer par l’audiovisuel l'expérience relationnelle entre les
-  usagers particuliers et la DGFiP et réduire les taux d’erreurs sans avoir
-  besoin de contact. "
+mission: 'Améliorer par l’audiovisuel l''expérience relationnelle entre les usagers particuliers et la DGFiP et réduire les taux d’erreurs sans avoir besoin de contact. '
 sponsors:
   - /organisations/dgfip
 incubator: fabrique-dgfip

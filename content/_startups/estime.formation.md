@@ -18,7 +18,6 @@ thematiques:
   - Travail / Emploi
   - Formation
 ---
-
 > ⚠️ Pour accéder à Estime Formation, cocher la case "Je veux suivre une formation"
 
 

@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Mettre en relation des candidats à des concours ou des examens professionnels
-  avec des agents prêts à les mentorer
+mission: Mettre en relation des candidats à des concours ou des examens professionnels avec des agents prêts à les mentorer
 incubator: lab-mi
 title: Mentorat
 contact: estelle.brezout-cozelin@interieur.gouv.fr
@@ -13,10 +11,8 @@ phases:
   - name: investigation
     start: 2023-11-26
 sponsors:
-  - >-
-    /organisations/ministere-de-l-interieur-et-des-outre-mer-direction-des-ressources-humaines
+  - /organisations/ministere-de-l-interieur-et-des-outre-mer-direction-des-ressources-humaines
 ---
-
 ## Contexte
 
 L’analyse des résultats des examens professionnels et les rapports de jury font apparaître des différences sensibles de niveaux entre candidats. Les jurys distinguent généralement deux types de candidats :

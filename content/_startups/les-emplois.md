@@ -1,6 +1,6 @@
 ---
-title: "Emplois de l'inclusion"
-mission: "Faciliter la mise en relation avec les employeurs solidaires"
+title: Emplois de l'inclusion
+mission: Faciliter la mise en relation avec les employeurs solidaires
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -11,24 +11,18 @@ repository: http://github.com/gip-inclusion/les-emplois
 rgpd:
   responsable: DGEFP
   finalites:
-    - faciliter l’identification des structures d’insertion par l’activité
-      économique
+    - faciliter l’identification des structures d’insertion par l’activité économique
     - fluidifier le recrutement des personnes éligibles
     - réduire la charge administrative des structures de l’insertion
-    - renforcer les outils de suivi et de pilotage de la performance des
-      structures d’insertion
-    - stimuler le développement et l’accès aux outils digitaux d’appui aux
-      parcours d’insertion
+    - renforcer les outils de suivi et de pilotage de la performance des structures d’insertion
+    - stimuler le développement et l’accès aux outils digitaux d’appui aux parcours d’insertion
   donnees:
-    - "données relatives aux candidats: état-civil détaillé, domicile,
-      téléphone, courriel"
+    - 'données relatives aux candidats: état-civil détaillé, domicile, téléphone, courriel'
     - données relatives à la candidature, au contrat d'agrément et de travail
     - données relatives au parcours de formation
     - critères d'éligibilité des candidats
-    - "données relatives aux employeurs: nom, prénom, structure, identifiants
-      professionnels"
-    - "données relatives aux prescripteurs: nom, prénom, structure, identifiants
-      professionnels"
+    - 'données relatives aux employeurs: nom, prénom, structure, identifiants professionnels'
+    - 'données relatives aux prescripteurs: nom, prénom, structure, identifiants professionnels'
     - données techniques en vue de la traçabilité des actions sur la plateforme
   controles:
     - type: Analyse des risques
@@ -57,7 +51,7 @@ rgpd:
       date: 2024-02-20
   exercer_vos_droits: https://emplois.inclusion.beta.gouv.fr/legal/privacy/#quels-droits-avez-vous-
   mesures_securite: La plateforme est hébergée en France par un prestataire certifié ISO.
-  validite_homologation: 2027-02-19
+  validite_homologation: 2027-02-19T00:00:00.000Z
 stats: true
 phases:
   - name: investigation

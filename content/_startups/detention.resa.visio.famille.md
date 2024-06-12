@@ -1,5 +1,5 @@
 ---
-title: "Détention Résa Visio Famille "
+title: 'Détention Résa Visio Famille '
 mission: Faciliter la réservation d'un créneau visio en détention
 sponsors:
   - /organisations/mj

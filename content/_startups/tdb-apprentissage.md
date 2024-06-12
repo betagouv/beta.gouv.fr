@@ -1,14 +1,13 @@
 ---
 title: Tableau de bord Apprentissage
-mission: "Permettre l’accès aux données clés de l’apprentissage en temps réel"
+mission: Permettre l’accès aux données clés de l’apprentissage en temps réel
 sponsors:
   - /organisations/menjs
   - /organisations/mtei
-  - /organisations/mesr
   - /organisations/mtfp
+  - /organisations/mesr
 incubator: mission-apprentissage
 link: https://cfas.apprentissage.beta.gouv.fr
-repository:
 contact: tableau-de-bord@apprentissage.beta.gouv.fr
 stats_url: https://cfas.apprentissage.beta.gouv.fr/stats
 stats: true

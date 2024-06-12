@@ -5,8 +5,8 @@ title: Ofpra Connect
 contact: charlotte.lemahieu@ofpra.gouv.fr
 accessibility_status: non conforme
 sponsors:
+  - /organisations/test
   - /organisations/interieur
-  - /organisations/ofpra
 phases:
   - name: investigation
     start: 2024-03-12

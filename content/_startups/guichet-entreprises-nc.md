@@ -25,7 +25,6 @@ phases:
 usertypes:
   - entreprise
 ---
-
 ## Problème
 
 Les entreprises en Nouvelle-Calédonie font face à un parcours du combattant lors de leurs démarches administratives : elles doivent identifier leurs obligations administratives à travers des sources diverses, contacter de multiples services administratifs pour fournir souvent des informations identiques et payer un accompagnement pour certaines démarches.

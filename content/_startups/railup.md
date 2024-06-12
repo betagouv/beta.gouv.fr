@@ -17,7 +17,6 @@ events:
 usertypes:
   - entreprise
 ---
-
 ## Contexte
 
 Dans le contexte d'ouverture à la concurrence du ferroviaire, l'Etat souhaite faciliter l'arrivée de nouveaux acteurs du ferroviaire sur le marché. La demande de licence est un préalable incontournable qui peut apparaitre comme complexe. La simplification de cette démarche est donc un moyen (parmis d'autres) de faciliter l'accès au marché ferroviaire et de stimuler l'offre ferroviaire pour les voyageurs comme pour les marchandises.

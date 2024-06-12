@@ -1,16 +1,15 @@
 ---
 title: SEVES
 mission: Une gestion mutualisée de tous les événements sanitaires entre la DGAL et les services déconcentrés
-sponsors: 
+sponsors:
   - /organisations/dgal
 incubator: agriculture
 phases:
-    - name: construction
-      start: 2023-06-02
+  - name: construction
+    start: 2023-06-02
 stats: false
 contact: anne.devoret@beta.gouv.fr
 ---
-
 ## Le contexte
 Aujourd'hui, lorsqu'un évènement sanitaire survient, ce sont les directions départementales (DDecPP) , les directions régionales (SRAL) et l'administration centrale (MUS) qui sont en charge de décrire, suivre, diffuser l'information et d'accompagner les acteurs vers une maitrise des risques. Ces évènements peuvent survenir dans 3 domaines :  la sécurité sanitaires des aliments, la santé des végétaux et la santé des animaux. 
 

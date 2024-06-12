@@ -1,8 +1,6 @@
 ---
 title: Tous à bord !
-mission: >-
-  Automatiser l'octroi de la tarification sociale et solidaire des transports
-  partout en France
+mission: Automatiser l'octroi de la tarification sociale et solidaire des transports partout en France
 sponsors:
   - /organisations/mtfp
   - /organisations/dgitm

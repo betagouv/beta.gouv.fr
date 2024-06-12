@@ -1,6 +1,6 @@
 ---
 title: Marché de l'inclusion
-mission: "Aider les structures inclusives à développer leur chiffre d’affaires"
+mission: Aider les structures inclusives à développer leur chiffre d’affaires
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei

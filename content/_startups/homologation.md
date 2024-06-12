@@ -26,7 +26,6 @@ thematiques:
   - Sécurité informatique
 accessibility_status: non conforme
 ---
-
 ## En phase d'accélération
 
 - **Vous souhaitez découvrir le produit ou un accompagnement dans sa prise en main ? [Contactez Antoine et Henri qui se feront un plaisir de vous accompagner](mailto:support@monservicesecurise.beta.gouv.fr).**

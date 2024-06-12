@@ -1,5 +1,5 @@
 ---
-title: "Cartographie nationale "
+title: 'Cartographie nationale '
 mission: Orienter les publics vers les structures répondant à leur besoin
 sponsors:
   - /organisations/anct
@@ -13,21 +13,17 @@ accessibility_status: partiellement conforme
 events:
   - name: product_launch
     date: 2022-11-21
-    comment: >-
-      Première utilisation de notre outil de cartographie sur le site des
-      conseillers numériques : https://carte.conseiller-numerique.gouv.fr/
+    comment: 'Première utilisation de notre outil de cartographie sur le site des conseillers numériques : https://carte.conseiller-numerique.gouv.fr/'
 phases:
   - name: construction
     start: 2022-04-01
   - name: acceleration
     start: 2022-11-01
-stats_url: >-
-  https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=277&period=range&date=previous30#?period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1&idSite=277
+stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=277&period=range&date=previous30#?period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1&idSite=277
 analyse_risques: true
 thematiques:
   - Inclusion numérique
 ---
-
 ## Contexte
 
 Plus de **13 millions de Français** ont des difficultés avec les usages numériques.

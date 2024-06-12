@@ -1,5 +1,5 @@
 ---
-title: "Kamehameha"
+title: Kamehameha
 mission: Lutter contre le harcèlement des jeunes
 sponsors:
   - /organisations/anct

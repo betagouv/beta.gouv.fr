@@ -4,8 +4,6 @@ mission: Détecter et suivre les fraudes à l’examen du permis de conduire
 sponsors:
   - /organisations/dsr
 incubator: lab-mi
-link: null
-repository: null
 contact: frederic.gillodes@interieur.gouv.fr
 usertypes:
   - etat
@@ -19,14 +17,11 @@ phases:
   - name: acceleration
     start: 2019-06-03
   - name: transfer
+    comment: Audit en cours afin d'évaluer les conditions de la généralisation de Polex à l'ensemble des bureaux de l'éducation routière à partir de la rentrée.
     start: 2021-05-01
-    comment: Audit en cours afin d'évaluer les conditions de la généralisation de
-      Polex à l'ensemble des bureaux de l'éducation routière à partir de la
-      rentrée.
   - name: alumni
     start: 2022-05-02
 ---
-
 ## Lutter contre la fraude à l'examen du code
 
 La lutte contre la fraude est nécessaire pour garantir la sécurité routière et l’équité des candidats.

@@ -1,8 +1,6 @@
 ---
 title: Bases Adresses Locales
-mission: >-
-  Accompagner et outiller les collectivités pour mettre à jour leurs adresses et
-  alimenter la Base Adresse Nationale
+mission: Accompagner et outiller les collectivités pour mettre à jour leurs adresses et alimenter la Base Adresse Nationale
 sponsors:
   - /organisations/anct
 incubator: anct
