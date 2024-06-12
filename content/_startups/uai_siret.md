@@ -2,10 +2,10 @@
 title: Le référentiel UAI-SIRET
 mission: Faciliter l’identification des organismes de formation en apprentissage
 sponsors:
-  - /organisations/menjs
   - /organisations/mtei
-  - /organisations/mesr
   - /organisations/mtfp
+  - /organisations/mesr
+  - /organisations/menjs
 incubator: mission-apprentissage
 contact: apprentissage@beta.gouv.fr
 events: []

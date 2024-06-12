@@ -2,7 +2,6 @@
 fullname: Arnaud Famin
 role: Aide de camp
 domaine: Autre
-github: null
 avatar: /img/authors/arnaud.famin.jpg
 missions:
   - start: 2019-03-01

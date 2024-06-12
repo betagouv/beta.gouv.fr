@@ -7,7 +7,6 @@ missions:
     end: 2024-04-16
     status: service
     employer: FNCCR
-startups: null
 previously:
   - chauffage-urbain
 ---

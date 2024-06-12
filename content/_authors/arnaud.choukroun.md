@@ -14,5 +14,4 @@ startups:
 badges:
   - segur
 ---
-
 "Doer qui Think"  il parait 

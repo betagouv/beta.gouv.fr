@@ -8,8 +8,8 @@ missions:
     status: independent
     employer: octo
     startups:
-      - open-academie
       - dossiersco
+      - open-academie
 startups:
   - open-academie
   - dossiersco

@@ -10,8 +10,8 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - sppnaut
       - apilos
+      - sppnaut
 startups:
   - sppnaut
   - apilos

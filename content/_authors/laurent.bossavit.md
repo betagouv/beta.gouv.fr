@@ -11,7 +11,6 @@ missions:
     end: 2023-06-30
     status: independent
     employer: MTES-MCT
-startups: null
 previously:
   - maintenant
   - mpal

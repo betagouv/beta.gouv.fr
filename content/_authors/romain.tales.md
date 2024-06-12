@@ -7,7 +7,6 @@ missions:
     end: 2024-07-15
     status: service
     employer: /ut7
-    startups: []
 link: https://www.linkedin.com/in/romaintales/
 competences:
   - Facilitation

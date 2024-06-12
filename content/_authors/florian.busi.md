@@ -13,4 +13,3 @@ competences:
   - cybersécurité
   - Analyse de risques
 ---
-

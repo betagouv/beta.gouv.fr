@@ -26,5 +26,4 @@ badges:
 teams:
   - /teams/animation-dinum
 ---
-
 Ex-intra DossierFacile, numérique et aménagement. Sport et musique. "Qui veut voyager loin ménage sa monture."

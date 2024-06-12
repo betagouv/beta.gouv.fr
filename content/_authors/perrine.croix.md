@@ -10,4 +10,3 @@ startups:
   - pass-sport
 memberType: autre
 ---
-

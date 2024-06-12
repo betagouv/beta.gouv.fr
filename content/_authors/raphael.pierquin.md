@@ -12,9 +12,9 @@ missions:
     employer: /ut7
     startups:
       - données-et-territoires
+      - grist.numerique.gouv.fr
       - l-application-du-cej
       - l-immersion-facile
-      - grist.numerique.gouv.fr
 startups:
   - l-immersion-facile
   - données-et-territoires

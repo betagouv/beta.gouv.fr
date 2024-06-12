@@ -8,8 +8,8 @@ contact: monespacecollectivite@anct.gouv.fr
 redirect_from:
   - /startups/mon.espae.collectivite
 sponsors:
-  - /organisations/mtes
   - /organisations/anct
+  - /organisations/mtes
   - /organisations/mctrct
 phases:
   - name: investigation

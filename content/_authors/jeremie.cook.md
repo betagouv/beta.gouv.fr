@@ -11,7 +11,6 @@ missions:
   - start: 2019-07-02
     end: 2024-06-30
     status: independent
-    employer: ''
 startups:
   - nosgestesclimat
   - agora

@@ -6,7 +6,6 @@ missions:
   - start: 2024-04-12
     end: 2024-07-12
     status: independent
-    employer: ''
     startups:
       - aigle
 link: https://www.linkedin.com/in/thibault-t%C3%A9zier-67919a51/

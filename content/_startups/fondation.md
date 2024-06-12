@@ -5,7 +5,7 @@ title: Fondation
 contact: jean-baptiste.crabieres@justice.fr
 accessibility_status: non conforme
 sponsors:
-  - /organisations/test
+  - /organisations/csm
 phases:
   - name: investigation
     start: 2023-10-02

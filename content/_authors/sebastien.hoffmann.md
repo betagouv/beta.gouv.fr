@@ -8,7 +8,6 @@ missions:
   - start: 2021-07-16
     end: 2024-12-30
     status: independent
-    employer: ''
     startups:
       - l-immersion-facile
       - mon-recap

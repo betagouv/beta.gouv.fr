@@ -7,7 +7,6 @@ missions:
   - start: 2022-04-11
     end: 2024-12-29
     status: independent
-    employer: ''
     startups:
       - data-subvention
 startups:

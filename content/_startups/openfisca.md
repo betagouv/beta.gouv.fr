@@ -1,6 +1,6 @@
 ---
 title: OpenFisca
-mission: Rendre la loi exécutable222
+mission: Rendre la loi exécutable
 sponsors:
   - /organisations/anct
 incubator: anct

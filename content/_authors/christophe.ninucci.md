@@ -11,8 +11,8 @@ missions:
     employer: eig
   - start: 2024-02-12
     end: 2027-02-11
-    employer: dinum
     status: admin
+    employer: dinum
 startups:
   - suite-numerique
 memberType: beta

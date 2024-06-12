@@ -7,7 +7,6 @@ missions:
   - start: 2023-02-27
     end: 2024-06-16
     status: admin
-    employer: ''
     startups:
       - dialogue
 startups:

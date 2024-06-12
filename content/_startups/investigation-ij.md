@@ -2,10 +2,10 @@
 title: Exposition d'informations utiles aux accompagnateurs des jeunes à l’orientation professionnelle
 mission: Fournir des données utiles aux accompagnateurs des jeunes à l’orientation professionnelle
 sponsors:
-  - /organisations/menjs
   - /organisations/mtfp
-  - /organisations/mesr
+  - /organisations/menjs
   - /organisations/mtei
+  - /organisations/mesr
 incubator: mission-inserjeunes
 redirect_from:
   - /startups/investigationIJ

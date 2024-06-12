@@ -7,7 +7,6 @@ missions:
   - start: 2023-04-03
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - 1000.premiers.jours.blues
 startups:

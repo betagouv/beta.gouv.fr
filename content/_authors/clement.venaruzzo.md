@@ -7,7 +7,6 @@ missions:
   - start: 2024-01-23
     end: 2024-06-30
     status: independent
-    employer: ''
     startups:
       - l-application-du-cej
 startups:

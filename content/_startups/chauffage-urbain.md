@@ -2,8 +2,8 @@
 title: France Chaleur Urbaine
 mission: Accélérer le raccordement des bâtiments aux réseaux de chaleur
 sponsors:
-  - /organisations/drieat
   - /organisations/ademe
+  - /organisations/drieat
   - /organisations/dgec
 incubator: mtes
 link: https://france-chaleur-urbaine.beta.gouv.fr/

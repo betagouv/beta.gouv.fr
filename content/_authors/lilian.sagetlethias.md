@@ -21,14 +21,14 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Opteamis (Egapro)
-  - start: 2023-10-01
-    end: 2023-12-31
-    status: independent
-    employer: Opteamis (Archifiltre)
   - start: 2023-09-01
     end: 2023-12-31
     status: independent
     employer: Malt (MinArm)
+  - start: 2023-10-01
+    end: 2023-12-31
+    status: independent
+    employer: Opteamis (Archifiltre)
   - start: 2023-11-06
     end: 2024-11-06
     status: independent

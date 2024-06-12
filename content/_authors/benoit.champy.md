@@ -10,9 +10,9 @@ missions:
     status: admin
     employer: DINUM
     startups:
-      - pass-sport
-      - france.nation.verte.agir
       - acceslibre
+      - france.nation.verte.agir
+      - pass-sport
 startups:
   - pass-sport
   - france.nation.verte.agir

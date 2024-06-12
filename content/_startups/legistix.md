@@ -1,5 +1,5 @@
 ---
-title: Légistix22
+title: Légistix
 mission: Aider les rédacteurs à produire et à corriger les textes normatifs
 sponsors:
   - /organisations/dg-tresor

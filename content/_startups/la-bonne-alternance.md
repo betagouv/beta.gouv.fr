@@ -4,8 +4,8 @@ mission: Faciliter la mise en relation entre jeunes, entreprises et CFA
 sponsors:
   - /organisations/mesr
   - /organisations/mtei
-  - /organisations/menjs
   - /organisations/mtfp
+  - /organisations/menjs
 incubator: mission-apprentissage
 phases:
   - name: investigation

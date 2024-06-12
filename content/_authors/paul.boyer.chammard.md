@@ -11,5 +11,5 @@ missions:
       - dossierfacile
 github: paulbetagouv
 startups:
-    - dossierfacile
+  - dossierfacile
 ---

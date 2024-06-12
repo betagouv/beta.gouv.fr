@@ -12,5 +12,4 @@ startups:
   - l-immersion-facile
 memberType: beta
 ---
-
 UX (Elle). Intérêts pro : Agilité, product ownership, holacratie, design sprint, design systémique & éthique. Intérêts perso : cinéma, SF, sport en salle et course à pieds. Et dès que j'aurai un jardin : adopter un chien !

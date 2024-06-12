@@ -3,7 +3,6 @@ fullname: Karel Cloarec
 domaine: Coaching
 role: Coaching - Deploiement
 github: Karel2
-avatar: null
 missions:
   - start: 2019-05-02
     end: 2020-05-13
@@ -17,6 +16,10 @@ missions:
     end: 2021-04-01
     status: independent
     employer: Scopyleft
+  - start: 2021-02-03
+    end: 2024-06-01
+    status: independent
+    employer: LBC
   - start: 2021-04-01
     end: 2021-11-01
     status: independent
@@ -25,11 +28,6 @@ missions:
     end: 2022-01-02
     status: independent
     employer: NUMA
-  - start: 2021-02-03
-    end: 2024-06-01
-    status: independent
-    employer: LBC
-startups: null
 previously:
   - andi
   - urbanvitaliz

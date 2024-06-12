@@ -4,8 +4,8 @@ mission: Mieux cibler les interventions en remédiation de l’État vers les en
 sponsors:
   - /organisations/dgefp
   - /organisations/dge
-  - /organisations/dinum
   - /organisations/acoss
+  - /organisations/dinum
   - /organisations/bdf
 incubator: dinum
 phases:

@@ -8,8 +8,8 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - les-emplois
       - la.communaute.de.linclusion
+      - les-emplois
 link: https://calum.mackervoy.com/fr/
 github: calummackervoy
 competences:

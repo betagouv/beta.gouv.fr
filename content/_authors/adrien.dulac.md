@@ -8,7 +8,5 @@ missions:
   - start: 2023-07-15
     end: 2024-07-15
     status: independent
-    employer: ''
 memberType: dinum
 ---
-

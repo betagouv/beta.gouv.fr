@@ -13,4 +13,3 @@ startups:
   - suite.territoriale
 memberType: beta
 ---
-

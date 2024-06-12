@@ -8,7 +8,6 @@ missions:
   - start: 2023-06-26
     end: 2024-06-30
     status: independent
-    employer: ''
     startups:
       - exposition-ij
 startups:

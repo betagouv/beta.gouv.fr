@@ -2,8 +2,8 @@
 title: Tous à bord !
 mission: Automatiser l'octroi de la tarification sociale et solidaire des transports partout en France
 sponsors:
-  - /organisations/mtfp
   - /organisations/dgitm
+  - /organisations/mtfp
 incubator: dinum
 repository: https://github.com/betagouv/tous-a-bord
 contact: tousabord@beta.gouv.fr

@@ -15,7 +15,7 @@ phases:
     end: 2018-12-31
   - name: construction
     start: 2019-01-01
-    end: 2020-08-23
+    end: 2020-08-31
   - name: acceleration
     start: 2020-09-01
   - name: transfer

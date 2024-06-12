@@ -7,11 +7,9 @@ missions:
   - start: 2017-05-03
     end: 2020-01-01
     status: admin
-    employer: ''
   - start: 2020-01-02
     end: 2024-06-30
     status: independent
-    employer: ''
 startups:
   - inventaire.friches.agricoles
   - vigieau

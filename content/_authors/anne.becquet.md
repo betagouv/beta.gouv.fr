@@ -9,9 +9,9 @@ missions:
     status: independent
     startups:
       - catalogue-apprentissage
-      - uai_siret
-      - tdb-apprentissage
       - la-bonne-alternance
+      - tdb-apprentissage
+      - uai_siret
       - voeux-apprentissage
 startups:
   - catalogue-apprentissage

@@ -1,8 +1,8 @@
 ---
 mission: Accélérer les rendez-vous des usagers en insertion et diminuer le taux d'absentéisme
 sponsors:
-  - /organisations/pole-emploi
   - /organisations/mtei
+  - /organisations/pole-emploi
 incubator: gip-inclusion
 link: https://www.rdv-insertion.fr/
 repository: https://github.com/betagouv/rdv-insertion
