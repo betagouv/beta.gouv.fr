@@ -19,6 +19,8 @@ phases:
     start: 2024-01-01
 thematiques:
   - Justice
+usertypes:
+  - etat
 ---
 ## C﻿ontexte
 
