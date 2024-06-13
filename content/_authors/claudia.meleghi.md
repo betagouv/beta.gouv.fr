@@ -4,7 +4,7 @@ fullname: Claudia MELEGHI
 role: Autre
 missions:
   - start: 2021-07-27
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: Diair
     startups:
@@ -18,4 +18,4 @@ competences:
   - simplification linguistique
 memberType: beta
 ---
-La langue française comme moteur d'intégration des personnes exilées
+La simplification de la langue française comme moteur d'intégration des personnes exilées
