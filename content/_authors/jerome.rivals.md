@@ -21,9 +21,9 @@ missions:
     status: independent
     employer: malt
     startups:
-      - pspc
+      - maestro
 startups:
-  - pspc
+  - maestro
 previously:
   - signalement
   - zero-logement-vacant
