@@ -4,7 +4,7 @@ role: Support / Déploiement / Communication
 domaine: Déploiement
 missions:
   - start: 2023-05-09
-    end: 2024-06-01
+    end: 2024-08-31
     status: independent
     employer: Opteamis
     startups:
