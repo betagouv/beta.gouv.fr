@@ -9,4 +9,5 @@ missions:
     employer: ''
     startups:
       - ecobalyse
+memberType: beta
 ---
