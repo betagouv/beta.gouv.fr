@@ -5,7 +5,7 @@ sponsors:
   - /organisations/djepva
 incubator: engagement_civique
 link: https://www.jeveuxaider.gouv.fr
-repository: https://github.com/Codeconut/jeveuxaider
+repository: https://github.com/betagouv/jeveuxaider-back
 contact: jeveuxaider@beta.gouv.fr
 accessibility_status: partiellement conforme
 usertypes:

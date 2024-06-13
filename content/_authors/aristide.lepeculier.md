@@ -2,6 +2,7 @@
 domaine: Développement
 fullname: Aristide Lepéculier
 role: Chef de projet
+github: lepeculiera
 missions:
   - start: 2024-04-01
     end: 2024-12-30
