@@ -8,9 +8,12 @@ missions:
     end: 2021-06-29
     status: admin
     employer: DINUM
-  - status: independent
-    start: 2021-07-05
-    end: 2024-06-30
+  - start: 2021-07-05
+    end: 2025-06-30
+    status: independent
+    employer: 'Scopyleft '
+    startups:
+      - impact.co2
 incubator: ademe
 startups:
   - impact.co2
@@ -23,4 +26,5 @@ competences:
   - Croissance
   - Gestion de Produit
   - Communication
+  - Product strategy
 ---
