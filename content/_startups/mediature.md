@@ -16,6 +16,8 @@ phases:
     start: 2021-11-01
   - name: success
     start: 2023-06-30
+  - name: alumni
+    start: 2024-06-05
 usertypes:
   - particulier
   - collectivite-territoriale
