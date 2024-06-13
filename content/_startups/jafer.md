@@ -14,9 +14,6 @@ phases:
     end: 2022-12-06
   - name: construction
     start: 2022-12-07
-    end: 2023-06-30
-  - name: construction
-    start: 2024-01-01
 thematiques:
   - Justice
 usertypes:
