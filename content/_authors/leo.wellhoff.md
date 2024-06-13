@@ -2,7 +2,7 @@
 domaine: Design
 fullname: Léo Wellhoff
 role: Design
-github: leo-well
+github: leo-wellhoff
 missions:
   - start: 2024-06-13
     end: 2029-06-15
