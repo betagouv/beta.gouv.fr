@@ -4,6 +4,8 @@ domaine: Animation
 role: Designer
 github: louije
 link: https://meidosem.com
+teams:
+  - /teams/gip-inclusion
 missions:
   - start: 2021-04-20
     end: 2021-10-31
