@@ -7,8 +7,8 @@ mission: >-
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
-link: https://competencevalidee.pole-emploi.fr/
-contact: competencevalidee@pole-emploi.fr
+link: https://candidat.francetravail.fr/competences-validees/
+contact: competences-validees@francetravail.fr
 usertypes:
   - particulier
 events: []
@@ -28,7 +28,6 @@ phases:
     start: 2023-11-17
 accessibility_status: non conforme
 ---
-
 ### Contexte
 
 Un tiers des recruteurs travaillant avec Pôle emploi sont insatisfaits de la pertinence des candidatures qu’ils reçoivent.
