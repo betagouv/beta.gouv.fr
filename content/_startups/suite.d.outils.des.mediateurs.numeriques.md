@@ -1,5 +1,5 @@
 ---
-mission: Vos outils du quotidien pour accompagner les éloignées du numérique.
+mission: Faciliter l'accompagnement des éloignées du numérique.
 incubator: anct
 title: La coop de la médiation numérique
 contact: manon.galle@anct.gouv.fr
@@ -9,6 +9,16 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-07-03
+
+  - name: construction
+    start: 2024-04-01
+
+thematiques:
+  - Outil technique
+  - Inclusion numérique
+  - Social
+usertypes:
+  - collectivite-territoriale
 ---
 ## Contexte
 

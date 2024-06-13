@@ -19,6 +19,9 @@ usertypes:
   - etat
   - collectivite-territoriale
 accessibility_status: partiellement conforme
+thematiques:
+  - Travail / Emploi
+  - Open-Data
 ---
 ## Contexte
 

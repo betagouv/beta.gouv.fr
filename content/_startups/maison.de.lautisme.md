@@ -17,10 +17,10 @@ phases:
     end: 2022-12-07
   - name: construction
     start: 2022-12-12
-  - start: 2023-04-04
-    name: acceleration
-  - start: 2023-12-31
-    name: transfer
+  - name: acceleration
+    start: 2023-04-04
+  - name: transfer
+    start: 2023-12-31
 ---
 ## Le contexte
 
@@ -70,3 +70,7 @@ Le service est développé en lien étroit avec les usagers. Leurs expériences 
 
 Le site est en évolution continue et s’enrichit régulièrement de nouveaux contenus et de nouvelles fonctionnalités.
 
+
+### Le devenir de la Maison de l'autisme
+
+Après 2 ans d'incubation au sein de la Fabrique Numérique des Ministères Sociaux, le site internet de la Maison de l'Autisme a été pérénisé. Il a été transféré au GNCRA (Groupement National des Centres Ressources Autisme) le 19 février 2024. 

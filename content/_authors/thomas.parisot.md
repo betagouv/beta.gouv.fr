@@ -12,6 +12,10 @@ missions:
     end: 2024-06-30
     status: independent
     employer: lazone/scopyleft
+  - start: 2022-06-21
+    end: 2025-09-30
+    status: service
+    employer: lazone/solstice
 link: https://détour.studio
 startups:
   - cartobio

@@ -5,7 +5,7 @@ github: rkhelif
 domaine: Déploiement
 missions:
   - start: 2022-11-02
-    end: 2024-06-29
+    end: 2024-07-31
     status: independent
     employer: ''
     startups:

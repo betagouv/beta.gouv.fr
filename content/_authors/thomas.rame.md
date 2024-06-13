@@ -9,11 +9,13 @@ missions:
     end: 2023-10-31
     status: independent
     employer: Little Big Connection
+    startups:
+      - mediature
+      - agents.en.intervention
   - start: 2023-05-15
-    end: 2024-04-17
+    end: 2024-10-17
     status: independent
     employer: Scopyleft
-startups: []
 previously:
   - mediature
   - mon.espace.collectivite
@@ -23,5 +25,9 @@ badges:
   - segur
 teams:
   - /teams/communaute-dinum
+competences:
+  - Accessibilité
+  - Développement
+  - DevOps
 ---
 💻🔥     🚒💨

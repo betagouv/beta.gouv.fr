@@ -6,9 +6,9 @@ github: Aurelie-J
 link: http://www.marquedefabrique.net
 missions:
   - start: 2019-11-12
-    end: 2024-06-30
+    end: 2024-08-30
     status: independent
-    employer: ''
+    employer: Scopyleft
     startups:
       - données-et-territoires
       - umap
@@ -23,5 +23,7 @@ badges:
 competences:
   - UX
   - UI
+  - Product design
+  - Product strategy
 ---
 Recherche utilisateurs, prototype & design d'interfaces
