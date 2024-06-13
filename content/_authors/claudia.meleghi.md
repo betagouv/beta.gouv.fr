@@ -3,8 +3,8 @@ domaine: Autre
 fullname: Claudia MELEGHI
 role: Autre
 missions:
-  - start: 2021-07-27
-    end: 2025-12-31
+  - start: 2024-06-04
+    end: 2024-12-31
     status: independent
     employer: Diair
     startups:
