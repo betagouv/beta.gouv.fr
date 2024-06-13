@@ -7,5 +7,7 @@ missions:
     end: 2024-12-31
     status: admin
     employer: MTECT
+    startups:
+      - epandage-facile
 memberType: beta
 ---
