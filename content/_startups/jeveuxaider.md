@@ -5,7 +5,7 @@ sponsors:
   - /organisations/djepva
 incubator: engagement_civique
 link: https://www.jeveuxaider.gouv.fr
-repository: https://github.com/Codeconut/jeveuxaider
+repository: https://github.com/betagouv/jeveuxaider-back
 contact: jeveuxaider@beta.gouv.fr
 accessibility_status: partiellement conforme
 usertypes:
@@ -25,10 +25,12 @@ phases:
   - name: acceleration
     start: 2020-10-05
 stats_url: https://www.jeveuxaider.gouv.fr/stats
+thematiques:
+  - Social
+  - Démocratie
 ---
 [JeVeuxAider.gouv.fr](https://www.jeveuxaider.gouv.fr/) est la plateforme publique du bénévolat, proposée par la Réserve Civique.\
 \
 Plus de 12 750 associations, collectivités et organisations publiques y proposent des missions, lorsqu’elles ont besoin de renfort. Pour y répondre, elles peuvent compter sur près de 510 000 bénévoles inscrits sur la plateforme. Ceux-ci choisissent parmi des milliers de missions, dans tous les domaines (solidarité, éducation, santé, environnement, sport, culture…) et partout en France. \
 \
 JeVeuxAider.gouv.fr est ouverte à toutes les personnes résidant en France, âgées de plus de 16 ans. Flexible, accessible et universel, ce service public numérique permet à toutes et à tous de participer à la société de l’engagement, pour plus de solidarité.
-

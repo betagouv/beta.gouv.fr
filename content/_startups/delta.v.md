@@ -1,5 +1,5 @@
 ---
-title: Delta V
+title: Déclare Douane
 mission: Déclarer des marchandises achetées à l'étranger en arrivant en France
 sponsors:
   - /organisations/dgddi
@@ -11,12 +11,18 @@ usertypes:
 link: https://declare-douane.beta.gouv.fr/
 phases:
   - name: investigation
-    end: 2021-11-18
     start: 2021-09-03
+    end: 2021-11-18
   - name: construction
     start: 2021-12-20
+  - name: acceleration
+    start: 2024-01-01
+thematiques:
+  - Administratif
+dashlord_url: https://dashlord.incubateur.net/url/declare-douane-beta-gouv-fr/
+repository: https://github.com/betagouv/delta-v
+accessibility_status: non conforme
 ---
-
 Delta V est un service à destination de toute personne voyageant à l’étranger.
 
 ## Le problème constaté :

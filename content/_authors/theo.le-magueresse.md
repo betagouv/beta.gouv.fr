@@ -2,7 +2,7 @@
 fullname: Théo Le Magueresse
 role: Full Stack Développeur
 domaine: Développement
-link: https://theolemague.github.io
+link: https://www.linkedin.com/in/theo-le-magueresse/
 github: theolemague
 missions:
   - start: 2022-08-01

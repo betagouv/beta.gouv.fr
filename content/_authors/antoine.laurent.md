@@ -9,10 +9,10 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - itou
+      - les-emplois
       - inclusion.connect
 startups:
-  - itou
+  - les-emplois
   - inclusion.connect
 competences:
   - Développement Backend

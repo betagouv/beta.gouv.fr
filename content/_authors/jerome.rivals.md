@@ -8,12 +8,23 @@ missions:
     end: 2021-04-02
     status: independent
     employer: octo
+    startups:
+      - signalement
   - start: 2021-09-08
-    end: 2024-06-30
+    end: 2024-02-16
     status: independent
     employer: octo
+    startups:
+      - zero-logement-vacant
+  - start: 2024-02-26
+    end: 2024-08-30
+    status: independent
+    employer: malt
+    startups:
+      - maestro
 startups:
-  - zero-logement-vacant
+  - maestro
 previously:
   - signalement
+  - zero-logement-vacant
 ---

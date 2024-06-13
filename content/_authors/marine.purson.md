@@ -19,4 +19,9 @@ teams:
 previously:
   - recosante
 link: https://www.linkedin.com/in/marinepurson/
+competences:
+  - Communication
+  - Administration Publique
+  - Intrapreneur(se)
+  - Facilitation
 ---

@@ -1,6 +1,6 @@
 ---
 fullname: Rose Marie Nunes
-role: responsable homologation
+role: Responsable Homologation
 domaine: Autre
 missions:
   - start: 2020-01-20

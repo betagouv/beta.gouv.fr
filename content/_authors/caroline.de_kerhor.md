@@ -10,13 +10,14 @@ missions:
     status: independent
     employer: ''
     startups:
-      - ozensemble
+      - bpco
+      - mano
       - monpsy
       - monsuivipsy
-      - mano
-      - bpco
-      - recosante
       - nata
+      - ozensemble
+      - recosante
+      - maison.de.lautisme
 startups:
   - ozensemble
   - monpsy

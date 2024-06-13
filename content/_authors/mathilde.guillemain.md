@@ -14,5 +14,9 @@ missions:
 startups:
   - histologe
   - stop-punaises
+competences:
+  - UX
+  - Product design
+  - Product strategy
 ---
 UX Designer & cheffe de produit J'aime les jeux de mots et le vert menthe !

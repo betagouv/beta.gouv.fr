@@ -10,10 +10,10 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - itou
+      - les-emplois
 memberType: autre
 startups:
-  - itou
+  - les-emplois
 previously:
   - carnet.de.bord
 ---

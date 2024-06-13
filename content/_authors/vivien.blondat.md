@@ -1,6 +1,6 @@
 ---
 fullname: Vivien Blondat
-role: Responsable des opérations de DossierFacile
+role: Responsable des Opérations et du Support
 domaine: Autre
 missions:
   - start: 2021-03-27

@@ -1,7 +1,7 @@
 ---
 fullname: Camille Quere
 role: Product owner
-domaine: Autre
+domaine: Produit
 missions:
   - start: 2022-11-01
     end: 2023-02-01
