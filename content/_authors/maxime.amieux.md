@@ -1,6 +1,6 @@
 ---
 fullname: Maxime Amieux
-role: Support / Déploiement / Communication
+role: Déploiement / Support / Communication
 domaine: Déploiement
 missions:
   - start: 2023-05-09
@@ -12,5 +12,6 @@ missions:
 startups:
   - reva
 memberType: beta
+link: https://www.linkedin.com/in/maxamieux/
 ---
 Communicant
