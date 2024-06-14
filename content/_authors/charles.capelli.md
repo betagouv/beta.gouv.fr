@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: Plateforme de l'inclusion
 previously:
-  - echauffeur
+  - e-chauffeur
   - octopus
 competences:
   - Sécurité informatique
