@@ -11,7 +11,7 @@ missions:
     startups:
       - tdb-apprentissage
   - start: 2023-07-04
-    end: 2024-06-30
+    end: 2024-09-01
     status: independent
     employer: Fairness
     startups:
@@ -28,4 +28,7 @@ competences:
   - Développement Full-stack
   - Product strategy
   - Coaching
+  - JavaScript/TypeScript
+  - Metabase
+  - PostgreSQL
 ---
