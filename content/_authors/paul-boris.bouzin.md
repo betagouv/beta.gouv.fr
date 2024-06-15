@@ -7,11 +7,12 @@ missions:
   - start: 2023-10-15
     end: 2024-10-15
     status: independent
-    employer: Mission Interministérielle de l&#x27;apprentissage
+    employer: Mission interministérielle pour l&#x27;apprentissage
     startups:
       - tdb-apprentissage
 startups:
   - tdb-apprentissage
 memberType: beta
+link: https://www.linkedin.com/in/pbbouzin/
 ---
 Chargé de déploiement au Tableau de bord de l'apprentissage. Vélo

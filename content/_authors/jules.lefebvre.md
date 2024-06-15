@@ -1,6 +1,6 @@
 ---
 fullname: Jules  Lefebvre
-domaine: Développement
+domaine: Data
 role: Data Analyst
 github: JulesLXI
 missions:

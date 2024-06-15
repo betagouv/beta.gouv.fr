@@ -23,8 +23,10 @@ accessibility_status: partiellement conforme
 contact: contact@pix.fr
 usertypes:
   - particulier
+thematiques:
+  - Education
+  - Inclusion numérique
 ---
-
 Pix s'adresse aux françaises, français et francophones (en études, en situation de décrochage, en activité professionnelle, à la recherche d'un emploi, etc.) qui souhaitent mesurer, développer et valoriser leurs compétences numériques.
 
 Le service se présente sous la forme d'une plateforme en ligne d'évaluation et de certification des compétences numériques.

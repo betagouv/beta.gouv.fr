@@ -11,6 +11,8 @@ stats: false
 phases:
   - name: investigation
     start: 2021-05-12
+thematiques:
+  - Santé
 ---
 # Les 10 minutes vitales perdues par les secours.
 

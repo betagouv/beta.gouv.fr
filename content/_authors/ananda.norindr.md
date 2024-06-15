@@ -6,7 +6,7 @@ link: https://ananda-nono.io/
 github: K4ST0R
 missions:
   - start: 2023-02-13
-    end: 2024-06-30
+    end: 2024-09-30
     status: independent
     employer: ''
     startups:

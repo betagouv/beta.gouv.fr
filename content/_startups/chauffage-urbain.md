@@ -25,7 +25,12 @@ usertypes:
 fast:
   promotion: 14
   montant: 121000
+thematiques:
+  - Logement
+  - Écologie
+accessibility_status: non conforme
 ---
+
 # Le problème
 
 Alors que les réseaux de chaleur constituent un mode de chauffage écologique et économique particulièrement adapté au contexte actuel, ils demeurent trop peu connus en France et leur dynamique de développement n'est pas à la hauteur des objectifs fixés par la loi.
@@ -40,9 +45,9 @@ https://france-chaleur-urbaine.beta.gouv.fr/
 
 # L'impact
 
-Au 1er novembre 2023, le site enregistre 159 320  visites et 72 631 adresses testées (hors test en masse). Plus de 2000 demandes ont été déposées sur le site à cette date et environ 500 raccordements sont à l'étude. Cela représente environ 28 000 tonnes de CO2 qui seront évitées chaque année si ces raccordements aboutissent (estimation).
+Au 1er novembre 2023, le site enregistre 159 320 visites et 72 631 adresses testées (hors test en masse). Plus de 2000 demandes ont été déposées sur le site à cette date et environ 500 raccordements sont à l'étude. Cela représente environ 28 000 tonnes de CO2 qui seront évitées chaque année si ces raccordements aboutissent (estimation).
 
-Via la fonctionnalité permettant un test d'adresses en masse mise en place début décembre 2022, plus de 376 990 adresses ont déjà été testées au 1er novembre 2023, par des bailleurs sociaux, bureaux d'étude, gestionnaires du bâti État... 
+Via la fonctionnalité permettant un test d'adresses en masse mise en place début décembre 2022, plus de 376 990 adresses ont déjà été testées au 1er novembre 2023, par des bailleurs sociaux, bureaux d'étude, gestionnaires du bâti État...
 
 Enfin, des partenariats ont été établis avec une centaine de collectivités, et la cartographie compte aujourd'hui plus de 640 réseaux sur les 898 recensés en France. L'intégralité des tracés ont été mis en open data au 1er septembre 2023.
 
@@ -58,9 +63,9 @@ https://france-chaleur-urbaine.beta.gouv.fr/stats
 
 Alimentés en moyenne à plus de 62 % par des énergies renouvelables et de récupération locales, les réseaux de chaleur :
 
-* émettent deux fois moins de gaz à effet de serre qu’un chauffage gaz ou fioul ;
-* présentent des prix compétitifs et plus stables que ceux des autres énergies ;
-* offrent une sécurité d'approvisionnement avec l'exploitation d'énergies locales.
+- émettent deux fois moins de gaz à effet de serre qu’un chauffage gaz ou fioul ;
+- présentent des prix compétitifs et plus stables que ceux des autres énergies ;
+- offrent une sécurité d'approvisionnement avec l'exploitation d'énergies locales.
 
 Malgré ces atouts, les réseaux de chaleur demeurent méconnus du grand public, et les démarches pour s'y raccorder le sont encore moins. Par ailleurs, chaque réseau dispose de son propre gestionnaire et de ses propres tarifs, ce qui engendre un réel manque de lisibilité.
 
@@ -70,8 +75,8 @@ Ainsi, lorsque les chaudières existantes arrivent en fin de vie ou que des trav
 
 France Chaleur Urbaine vise à faciliter et accélérer les raccordements des bâtiments aux réseaux de chaleur.
 
-* **Pour les copropriétaires, et les propriétaires ou gestionnaires de bâtiments tertiaires**, France Chaleur Urbaine constitue une plateforme d’**informations et de mise en relation directe avec le gestionnaire du réseau local** (par exemple pour solliciter un rendez-vous ou un devis) ;
-* **Pour les exploitants ou collectivités** qui souhaitent agir pour la transition énergétique, France Chaleur Urbaine constitue une plateforme pour **valoriser leur réseau de chaleur**, pour **acquérir de nouveaux prospects** et pour **accéder à des données sur les potentiels de raccordement** sur leur territoire, à l'échelle des bâtiments, via un outil cartographique.
+- **Pour les copropriétaires, et les propriétaires ou gestionnaires de bâtiments tertiaires**, France Chaleur Urbaine constitue une plateforme d’**informations et de mise en relation directe avec le gestionnaire du réseau local** (par exemple pour solliciter un rendez-vous ou un devis) ;
+- **Pour les exploitants ou collectivités** qui souhaitent agir pour la transition énergétique, France Chaleur Urbaine constitue une plateforme pour **valoriser leur réseau de chaleur**, pour **acquérir de nouveaux prospects** et pour **accéder à des données sur les potentiels de raccordement** sur leur territoire, à l'échelle des bâtiments, via un outil cartographique.
 
 Le service est opérationnel en version beta sur https://france-chaleur-urbaine.beta.gouv.fr/
 
@@ -85,26 +90,23 @@ Ce prototype permet de convaincre un consortium de partenaires (DGEC, ADEME, FNC
 
 Suite au départ à la retraite de Brigitte Loubet mi-2021, le rôle d'intrapreneur est repris par Florence Lévy (service Energie et bâtiment, DRIEAT - ex DRIEE).
 
-Une nouvelle version du site est mise en ligne fin juillet 2021. 
+Une nouvelle version du site est mise en ligne fin juillet 2021.
 
-Mi-2022, France Chaleur Urbaine est lauréat de France Relance au titre du guichet ITN2 "transformation numérique des écosystèmes" porté par la DINUM. Le service obtient également un soutien financier renouvelé de la DGEC, l'ADEME et la DRIEAT. 
+Mi-2022, France Chaleur Urbaine est lauréat de France Relance au titre du guichet ITN2 "transformation numérique des écosystèmes" porté par la DINUM. Le service obtient également un soutien financier renouvelé de la DGEC, l'ADEME et la DRIEAT.
 
 Ces nouveaux moyens permettent d'élargir le service, qui ne se limite plus aux copropriétés mais cible désormais aussi le secteur tertiaire. Un volet à destination des collectivités et exploitants est également développé, pour les accompagner dans le déploiement de leurs réseaux.
 
 Mi-2023, France Chaleur Urbaine est lauréat du guichet "Exploitation et valorisation des données" de la DINUM, et voit également le soutien financier de l'ADEME et de la DGEC renouvelé.
 
-
-
 ### Stratégie
 
-Le déploiement national de France Chaleur Urbaine passe par : 
+Le déploiement national de France Chaleur Urbaine passe par :
 
-* un travail de **promotion des réseaux de chaleur**, encore trop peu connus en France, qui passe notamment par des actions de communication ;
-* la **prospection** de copropriétaires et propriétaires/gestionnaires de bâtiments tertiaires potentiellement intéressés pour se raccorder ;
-* la mise en place de **partenariats avec des collectivités et exploitants**, utilisant le service et s'en faisant le relais ;
-* une **cartographie interactive à l'échelle nationale** incluant les tracés des réseaux de chaleur mais aussi des données sur les potentiels de raccordement, qui s'enrichit régulièrement pour répondre aux besoins de ses utilisateurs  ;
-* la mise en place régulière de **nouvelles fonctionnalités** pour répondre aux attentes des utilisateurs ;
-* l'organisation régulière d'un comité des partenaires réunissant les principaux acteurs de la filière, ainsi que d'ateliers ouverts aux différentes parties prenantes.
+- un travail de **promotion des réseaux de chaleur**, encore trop peu connus en France, qui passe notamment par des actions de communication ;
+- la **prospection** de copropriétaires et propriétaires/gestionnaires de bâtiments tertiaires potentiellement intéressés pour se raccorder ;
+- la mise en place de **partenariats avec des collectivités et exploitants**, utilisant le service et s'en faisant le relais ;
+- une **cartographie interactive à l'échelle nationale** incluant les tracés des réseaux de chaleur mais aussi des données sur les potentiels de raccordement, qui s'enrichit régulièrement pour répondre aux besoins de ses utilisateurs ;
+- la mise en place régulière de **nouvelles fonctionnalités** pour répondre aux attentes des utilisateurs ;
+- l'organisation régulière d'un comité des partenaires réunissant les principaux acteurs de la filière, ainsi que d'ateliers ouverts aux différentes parties prenantes.
 
 Le raccordement à un réseau de chaleur nécessitant un temps relativement long (plusieurs mois), nous estimons l’impact par le nombre de demandes de contact reçues et transférées aux gestionnaires des réseaux, et par le nombre de collectivités et exploitants partenaires du service. La quantité de CO2 évitée par les raccordements à l'étude sera également évaluée.
-

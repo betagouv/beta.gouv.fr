@@ -10,11 +10,13 @@ events: []
 phases:
   - name: investigation
     start: 2023-04-24
-    comment: Début des entretiens
     end: 2023-09-27
   - name: construction
     start: 2023-09-27
-    comment: Développement du produit minimum viable test
+thematiques:
+  - Écologie
+  - Mer
+  - Agriculture
 ---
 ## Contexte
 
@@ -37,7 +39,7 @@ Grâce au portail des Aquapreneur.e.s, chaque entreprise exploitant sur le domai
 ## Bénéficiaires
 
 * Entreprises aquacoles marines (usagers),
-* Services de l'administration,
+* Services de l'administration, 
 * Établissements ayant des missions de service publics,
 * Structures professionnelles et interprofession (données agrégées plus précises).
 
