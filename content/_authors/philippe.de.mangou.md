@@ -21,6 +21,7 @@ competences:
   - Coaching
   - Communication
 memberType: beta
+github: philippedemangoubeta
 ---
 Responsable technique passionné par le produit, la tech et le développement des équipes
 
