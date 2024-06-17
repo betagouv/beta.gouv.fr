@@ -1,13 +1,13 @@
 ---
 domaine: Intraprenariat
-fullname: Vincent COLOMB
+fullname: Caroline Guédan
 role: Intraprenariat
 missions:
-  - start: 2024-06-07
-    end: 2025-01-31
+  - start: 2024-06-14
+    end: 2025-06-14
     status: admin
     employer: ''
     startups:
-      - ecobalyse
+      - compte.ressources
 memberType: beta
 ---
