@@ -6,7 +6,7 @@ missions:
   - start: 2024-03-15
     end: 2024-07-31
     status: independent
-    employer: Grounds 
+    employer: Ground
     startups:
       - partaj
 startups:

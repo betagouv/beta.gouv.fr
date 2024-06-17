@@ -7,6 +7,8 @@ missions:
     end: 2024-12-31
     status: admin
     employer: MASA
+    startups:
+      - maestro
 memberType: autre
 ---
 Ingénieure Analyse de risque - microbiologiste - chaine alimentaire

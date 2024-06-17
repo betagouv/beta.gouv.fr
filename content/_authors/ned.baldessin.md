@@ -1,11 +1,11 @@
 ---
 fullname: Ned Baldessin
-role: Développeur
+role: Responsable technique d’incubateur
 domaine: Développement
 github: nedbaldessin
 missions:
   - start: 2020-09-01
-    end: 2024-06-01
+    end: 2025-12-30
     status: admin
     employer: Ministère de la Culture
     startups:

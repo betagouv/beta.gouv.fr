@@ -11,8 +11,9 @@ phases:
 stats: false
 stats_url:
 contact: reformes-locales@anct.gouv.fr
+thematiques:
+  - Collectivités
 ---
-
 ## Contexte
 
 Les réglementations évoluent en continu et sur des thématiques variées (finances, affaires sociales, ...).
