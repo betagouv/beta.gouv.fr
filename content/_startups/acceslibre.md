@@ -29,6 +29,8 @@ phases:
   - name: acceleration
     start: 2022-09-01
 stats_url: https://acceslibre.beta.gouv.fr/stats
+thematiques:
+  - Open-Data
 ---
 ## Le problème : Le manque d’information sur l’accessibilité des lieux
 

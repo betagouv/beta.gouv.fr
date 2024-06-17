@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: Direction Générale des Entreprises
     startups:
-      - place-des-entreprises
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 ---

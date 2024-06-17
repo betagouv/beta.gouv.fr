@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 ---
 Freelance Social Media basée à Toulouse !

@@ -1,19 +1,27 @@
 ---
 title: JAFER
-mission: "Diminuer les délais de prise en charge, par les espaces de rencontre,
-  des mesures judiciaires ordonnant des visites parent/enfant "
+mission: >-
+  Diminuer les délais de prise en charge, par les espaces de rencontre, des
+  mesures judiciaires ordonnant des visites parent/enfant 
 sponsors:
   - /organisations/mj
 incubator: justice
-contact: anissa.jabri@justice.gouv.fr
-accessibility_status: non conforme
+contact: jafer.sadjav-sg@justice.gouv.fr
+accessibility_status: partiellement conforme
 phases:
   - name: investigation
     start: 2022-06-29
     end: 2022-12-06
   - name: construction
     start: 2022-12-07
-    end: 2023-06-30
+thematiques:
+  - Justice
+usertypes:
+  - etat
+  - juges aux affaires familiales
+  - espaces de rencontre
+link: https://jafer.beta.gouv.fr/
+stats_url: https://jafer.beta.gouv.fr/chiffres-cles
 ---
 ## C﻿ontexte
 
@@ -29,6 +37,9 @@ Afin de favoriser la connaissance des modalités d’accueil au sein des espaces
 
 ## Stratégie
 
-\* E﻿tendre la couverture géographique aux ressorts avoisinant Lyon. 
+\* Étendre la couverture géographique à l'échelle nationale. 
 
-\* E﻿nrichir fonctionnellement le produit en proposant le "passage de bras".
+\* E﻿nrichir fonctionnellement le produit : 
+* Permettre aux JAFs de compléter une mesure et la transmettre aux espaces de rencontres, 
+* Améliorer la communication entre juges et espaces de rencontre via notamment une messagerie interne, 
+* Permettre aux espaces de rencontre de gérer leur espace à plusieurs contacts.

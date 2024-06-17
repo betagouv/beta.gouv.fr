@@ -10,13 +10,13 @@ missions:
     employer: Numa
   - status: independent
     start: 2023-05-02
-    end: 2024-03-30
+    end: 2024-12-31
 incubator: ademe
 startups:
-  - beges
   - plusfraichemaville
 previously:
   - euphrosyne
+  - beges
 competences:
   - Coaching
   - Gestion de Produit
