@@ -1,7 +1,8 @@
 ---
 title: Docurba
-mission: Faciliter l'élaboration et le suivi des documents d'urbanisme en améliorant les
-  échanges entre les collectivités et l'État
+mission: >-
+  Faciliter l'élaboration et le suivi des documents d'urbanisme en améliorant
+  les échanges entre les collectivités et l'État
 sponsors:
   - /organisations/dgaln
 incubator: mtes
@@ -10,7 +11,7 @@ repository: https://github.com/MTES-MCT/Docurba
 contact: contact@docurba.beta.gouv.fr
 accessibility_status: non conforme
 stats: true
-stats_url: https://stats.data.gouv.fr
+stats_url: https://docurba.beta.gouv.fr/stats
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/docurba-incubateur-net/
 phases:
   - name: investigation
@@ -18,6 +19,8 @@ phases:
     end: 2021-04-12
   - name: construction
     start: 2021-04-12
+  - name: acceleration
+    start: 2023-09-14
 usertypes:
   - collectivite-territoriale
   - etat
@@ -34,13 +37,13 @@ thematiques:
 ## Les problèmes rencontrés
 
 
-En ce qui concerne la relation État/collectivité, le début de la procédure est formalisé par le *Porter à Connaissance* (PAC) et par la *note d’enjeux*, documents délivrés par la DDT. La fin de la procédure est, quant à elle, formalisée par l’*avis de l’État*. Entre les deux, **l’accompagnement de la collectivité par les services de l’État n’est pas encadré, ce qui ne permet pas d’assurer la bonne prise en compte des enjeux environnementaux sur le territoire.**
+En ce qui concerne la relation État/collectivité, le début de la procédure est formalisé par le *Porter à Connaissance* (PAC) et par la *note d’enjeux*, documents délivrés par la DDT(M)/DEAL. La fin de la procédure est, quant à elle, formalisée par l’*avis de l’État*. Entre les deux, **l’accompagnement de la collectivité par les services de l’État n’est pas encadré, ce qui ne permet pas d’assurer la bonne prise en compte des enjeux environnementaux sur le territoire.**
 
 Ce manque d’outillage dans l’accompagnement de la collectivité engendre différentes contraintes :
 
-* Pour les DDT, **le manque de visibilité sur le calendrier des collectivités complexifie l’accompagnement et ne leur permet pas d’orienter les collectivités aux moments opportuns,** et ainsi anticiper les différents risques tout au long de la procédure. De plus, la réglementation en pleine évolution (exemple avec la loi Elan en 2018 et de la loi Climat et Résilience en 2021) ralentit la mise à disposition du PAC par la DDT.
+* Pour les DDT(M)/DEAL, **le manque de visibilité sur le calendrier des collectivités complexifie l’accompagnement et ne leur permet pas d’orienter les collectivités aux moments opportuns,** et ainsi anticiper les différents risques tout au long de la procédure. De plus, la réglementation en pleine évolution (exemple avec la loi Elan en 2018 et de la loi Climat et Résilience en 2021) ralentit la mise à disposition du PAC par la DDT(M)/DEAL.
 
-* **Ces difficultés en DDT se répercutent sur les collectivités car les éléments alors transmis arrivent souvent trop tard dans la procédure, et ne sont pas systématiquement présentés ou expliqués.** Par conséquent, les collectivités, et leurs bureaux d’études, doivent trouver certaines données ailleurs, sans garantie de validité, et perçoivent les informations de l’État comme des contraintes à traiter plutôt que de potentiels atouts pour leur projet de territoire.
+* **Ces difficultés en DDT(M)/DEAL se répercutent sur les collectivités car les éléments alors transmis arrivent souvent trop tard dans la procédure, et ne sont pas systématiquement présentés ou expliqués.** Par conséquent, les collectivités, et leurs bureaux d’études, doivent trouver certaines données ailleurs, sans garantie de validité, et perçoivent les informations de l’État comme des contraintes à traiter plutôt que de potentiels atouts pour leur projet de territoire.
 
 
 
@@ -49,14 +52,14 @@ Ce manque d’outillage dans l’accompagnement de la collectivité engendre dif
 
 Pour cela, Docurba met à disposition :
 
-* **Un socle d’informations utiles à la collectivité et consultables dès le début et tout au long de l’élaboration de son document d’urbanisme.** Appelé “Socle de PAC”, il contient les premiers éléments constitutifs du PAC, avec des éléments harmonisés et mis à jour régulièrement, au niveau national et régional, ainsi que des ****données spécifiques au territoire,
+* **Un socle d’informations utiles à la collectivité et consultables dès le début et tout au long de l’élaboration de son document d’urbanisme.** Il s'agit des premiers éléments constitutifs du PAC, avec des éléments de niveau national et régional, harmonisés et mis à jour régulièrement, ainsi que des ressources pré-sélectionnées et des données spécifiques au territoire,
 
-* **Un outil collaboratif en DDT pour l’élaboration des PAC**. Chaque DDT dispose d’une trame de PAC départementale personnalisable avec des éléments pré-remplis au niveau national et régional. La volonté est de permettre aux services de l’État de consacrer plus de temps sur l’application locale et ainsi aider la collectivité à mieux prendre en compte les enjeux du territoire,
+* **Un tableau de bord et une feuille de route partagée pour suivre et partager les étapes clefs de chaque procédure.** Accessible à toutes les personnes impliquées dans la procédure, la Feuille de Route permet plus de transparence et fluidité dans la collaboration entre État et territoires.
 
-* **Une feuille de route partagée.** Qualifiée de guide pour la collectivité, elle permet également aux services de l’État d’obtenir des informations sur l’avancée des procédures tout le territoire. (En cours)
+* **Un outil collaboratif en DDT(M)/DEAL pour l’élaboration des PAC**. Chaque DDT(M)/DEAL dispose d’une trame de PAC départementale personnalisable avec des éléments pré-remplis au niveau national et régional. De cette manière, les services de l’État peuvent consacrer plus de temps sur l’application locale et ainsi aider la collectivité à mieux prendre en compte les enjeux de son territoire.
 
 
-Docurba à l’ambition d’être un outil central, direct et collaboratif en proposant des informations utiles rassemblées et accessibles à tout moment, et en permettant la collaboration entre les différentes parties prenantes dans l’élaboration des documents d’urbanisme.
+**Docurba est un outil central, direct et collaboratif** conçu pour fluidifier les échanges entre toutes les parties prenantes de l’élaboration des documents d’urbanisme, de la prescription à l’opposabilité du document.
 
 Se rendre sur Docurba : [http://docurba.beta.gouv.fr/](http://docurba.beta.gouv.fr/)
 
@@ -67,12 +70,14 @@ Se rendre sur Docurba : [http://docurba.beta.gouv.fr/](http://docurba.beta.gouv.
 
 **Docurba a pour mission de faciliter l’élaboration et le suivi des documents d’urbanisme afin de plus rapidement et mieux prendre en compte les enjeux environnementaux.**
 
-Notre objectif d’impact d'ici à fin 2023 :
+Nos objectifs d'ici à fin 2024 :
 
-* 80% des DDT utilisent Docurba pour transmettre le PAC < 6 mois, et suivre leur document d’urbanisme,
-* 33% des collectivités se lançant dans un document d’urbanisme ont été orientées par Docurba.
+- **Être la plateforme de référence pour accompagner à grande échelle la territorialisation de la planification écologique dans les documents d’urbanisme,**
+- 90% des services de l’État utilisent Docurba pour suivre les procédures de documents d’urbanisme,
+- 60% des services de l'État se saisissent des éléments réglementaires mutualisés sur Docurba pour l'élaboration des Porter à Connaissance,
+- 33% des collectivités se lançant dans un document d’urbanisme ont été orientées par Docurba.
 
-**En juillet 2023, 70 DDT(M)/DEAL on été embarquées sur Docurba via une session d'information à la suite de quoi +145 agents des services de planification se sont inscrits.** 
+**En juin 2024, 34% des DDT(M)/DEAL utilisent Docurba quotidiennement, et on observe une augmentation de la création de comptes par les collectivités de +20% tous les mois.**
 
 Nos statistiques via ce lien : [Statistiques de Docurba](https://docurba.beta.gouv.fr/stats)
 
