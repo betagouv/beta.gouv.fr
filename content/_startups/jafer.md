@@ -22,6 +22,7 @@ usertypes:
   - espaces de rencontre
 link: https://jafer.beta.gouv.fr/
 stats_url: https://jafer.beta.gouv.fr/chiffres-cles
+dashlord_url: https://dashlord.incubateur.net/url/jafer-beta-gouv-fr/best-practices/
 ---
 ## C﻿ontexte
 
