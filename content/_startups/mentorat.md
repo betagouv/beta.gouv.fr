@@ -16,7 +16,6 @@ sponsors:
   - >-
     /organisations/ministere-de-l-interieur-et-des-outre-mer-direction-des-ressources-humaines
 ---
-
 ## Contexte
 
 L’analyse des résultats des examens professionnels et les rapports de jury font apparaître des différences sensibles de niveaux entre candidats. Les jurys distinguent généralement deux types de candidats :
