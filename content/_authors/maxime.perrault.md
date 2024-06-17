@@ -1,6 +1,6 @@
 ---
 domaine: Développement
-fullname: 'Maxime  Perrault'
+fullname: "Maxime  Perrault"
 role: Développeur Full Stack
 missions:
   - start: 2024-05-13
@@ -10,10 +10,10 @@ missions:
     startups:
       - monitorfish
 link: https://www.linkedin.com/in/maxime-perrault/
-github: https://github.com/maximeperraultdev
+github: maximeperraultdevmaximeperraultdev
 competences:
   - Développement Full-stack
 memberType: beta
 ---
-Touche-à-tout en code 🧑‍💻 et en cuisine 🧑‍🍳. J'essaie de prôner la sobriété et l'inclusion sans perdre du goût 
 
+Touche-à-tout en code 🧑‍💻 et en cuisine 🧑‍🍳. J'essaie de prôner la sobriété et l'inclusion sans perdre du goût
