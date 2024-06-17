@@ -4,7 +4,7 @@ mission: Accélérer la dimension de l'insertion dans l’intégration des étra
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
-contact: hanane.mokhtari@francetravail.fr
+contact: travailler-en-france@beta.francetravail.fr
 accessibility_status: non conforme
 stats: true
 stats_url: https://travailler-en-france.beta.francetravail.fr/stats
