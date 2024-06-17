@@ -19,6 +19,8 @@ usertypes:
   - collectivite-territoriale
   - particulier
 accessibility_status: partiellement conforme
+thematiques:
+  - Inclusion numérique
 ---
 ## Contexte
 

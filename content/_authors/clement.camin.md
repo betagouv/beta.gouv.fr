@@ -34,5 +34,5 @@ startups:
   - permis-de-construire-facile
   - demarches-simplifiees.fr
   - la.communaute.de.linclusion
-  - itou
+  - les-emplois
 ---

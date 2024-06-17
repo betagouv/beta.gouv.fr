@@ -11,8 +11,8 @@ layout: null
         , "type"      : "startup"
         , "attributes":
             { "name"  : "{{ startup.title }}"
-            , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
-            , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}
+            , "pitch" : "{{ startup.mission }}"
+            , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{% if startup.stats %}{{ startup.link | strip }}/stats{% endif %}{% endif %}"
             {% if startup.budget_url %}
             ,"budget_url": "{{ startup.budget_url }}"{% endif %}{% if startup.link %}
             , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
@@ -32,6 +32,11 @@ layout: null
             , "sponsors": [
                 {% for sponsor in startup.sponsors %}
                     "{{sponsor | remove: '/organisations/' }}"{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+                ]
+            , "thematiques": [
+                {% for thematique in startup.thematiques %}
+                    "{{thematique}}"{% unless forloop.last %},{% endunless %}
                 {% endfor %}
                 ]
             {% if startup.analyse_risques %}

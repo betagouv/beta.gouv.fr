@@ -21,8 +21,10 @@ usertypes:
     - association
     - etablissement-scolaire
 dashlord_url:
+thematiques:
+  - Jeunesse
+  - Formation
 ---
-
 ## Contexte
 
 Les choix d’orientation sont souvent faits **sans une information suffisante**. L’orientation est trop **complexe.** Elle favorise les initiés ou accorde aux résultats scolaires un poids qui reste trop lourd, par rapport aux compétences des élèves. En pratique, les élèves construisent leur poursuite d’études principalement à partir de leurs aptitudes studieuses et d’une **représentation floue des métiers**, **sans être correctement informés sur le marché du travail** (Fouarge, 2018).
