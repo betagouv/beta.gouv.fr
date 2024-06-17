@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Faciliter la détection des situations de mal logement, pour une prise en
-  charge et une résolution accélérées.
+mission: "Accélérer la résolution des \"situations de mal logement\" des usagers en accompagnant les «\_territoires\_»"
 incubator: mtes
 repository: https://github.com/MTES-MCT/histologe
 contact: contact@histologe.info
