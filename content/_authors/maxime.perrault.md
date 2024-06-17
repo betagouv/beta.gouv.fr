@@ -10,7 +10,7 @@ missions:
     startups:
       - monitorfish
 link: https://www.linkedin.com/in/maxime-perrault/
-github: maximeperraultdevmaximeperraultdev
+github: maximeperraultdev
 competences:
   - Développement Full-stack
 memberType: beta
