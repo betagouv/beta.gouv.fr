@@ -1,7 +1,7 @@
 ---
 fullname: Anne Pichon
 domaine: Design
-role: Coach, designer de services
+role: Designer de services, Facilitatrice, Coach impact
 github: Ann-p
 missions:
   - start: 2017-05-03
