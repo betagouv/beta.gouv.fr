@@ -1,5 +1,5 @@
 ---
-mission: "Accélérer la résolution des \"situations de mal logement\" des usagers en accompagnant les «\_territoires\_»"
+mission: "Accélérer la résolution des situations de mal logement des usagers en accompagnant les territoires"
 incubator: mtes
 repository: https://github.com/MTES-MCT/histologe
 contact: contact@histologe.info
