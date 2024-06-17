@@ -15,4 +15,3 @@ competences:
   - Intrapreneur(se)
 memberType: beta
 ---
-/

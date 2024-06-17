@@ -8,11 +8,17 @@ missions:
     employer: Malt
     startups:
       - tchap
+      - suite-numerique
 competences:
   - Développement Frontend
+  - Sécurité informatique
+  - DevOps
+  - Android
+  - iOS
+  - Matrix
 memberType: beta
 fullname: Yoan Pintas
-role: Développeur Mobile Sénior - Référent Matrix
+role: Architecte Technique Mobile - Référent Matrix
 link: https://www.linkedin.com/in/yoan-pintas-51280783/
 startups:
   - tchap
