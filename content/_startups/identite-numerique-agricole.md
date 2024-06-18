@@ -17,10 +17,12 @@ phases:
   - name: investigation
     start: 2024-06-18
 ---
+
 ## Contexte
 Le déploiement de l'identité numérique agricole était une des mesures proposées par la Feuille de route "numérique et données pour la planification écologique" publiée en décembre 2023 par le Secrétariat général à la planification écologique (SGPE). 
 
 ## Le problème
+
 Les agriculteurs ont un nombre conséquent de démarches administratives à réaliser auprès de différents organismes (DRAAF, DDT, DDPP, France Agrimer, MSA, ASP, chambres d'agriculture, Safer, collectivités...) pour leur installation, les autorisations d'exploitation et de vente, les certificats, les contrôles, les demandes d'aides ou les obligations liées aux aides... 
 
 En l'absence de référentiels partagés, les porteurs de démarches demandent des informations différentes pour identifier les agriculteurs. Et, en l'absence de numérisation et de circulation des données entre organismes, des informations similaires sont demandées pour différentes démarches.  
@@ -46,6 +48,10 @@ Cela créé un manque de visibilité, de l'incertitude et du stress pour les agr
 - Porteurs des démarches : administrations et opérateurs.
 
 ## Ce que nous souhaitons apprendre lors de notre investigation
+
+**Quelles sont les difficultés, les attentes et les craintes des agriculteurs dans leur démarches ?**
+- Comment les différents types d'agriculteurs s'organisent pour gérer leurs comptes et leurs démarches ? 
+- Qu'est-ce qui pose le plus de difficultés ? 
 
 **Quelles sont les démarches portées par le MASA et ses opérateurs (types de démarches, volumétrie, récurrence, complexité, cibles, informations demandées…) ?**
 - Qui sont les personnes concernées par ces démarches ? Qui rencontre le plus de démarches ou les démarches les plus complexes ? 
