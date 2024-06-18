@@ -1,7 +1,7 @@
 ---
 domaine: Développement
 fullname: Guillaume Pichon
-role: Développement
+role: Développeur au SNU
 missions:
   - start: 2023-05-22
     end: 2025-01-31
