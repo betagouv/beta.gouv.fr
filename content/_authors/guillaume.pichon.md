@@ -15,7 +15,7 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
   - ElasticSearch
-  - PHP
   - PostgreSQL
+  - PHP
 memberType: beta
 ---
