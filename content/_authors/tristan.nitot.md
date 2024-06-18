@@ -6,7 +6,7 @@ link: https://standblog.org/
 github: nitot
 missions:
   - start: 2024-01-02
-    end: 2024-06-30
+    end: 2024-09-30
     status: service
     employer: Octo
     startups:
