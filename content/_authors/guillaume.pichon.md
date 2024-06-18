@@ -9,4 +9,13 @@ missions:
     employer: Selego
     startups:
       - snu
+link: https://www.linkedin.com/in/guillaume-pichon-05a310140/
+github: GuiPich91
+competences:
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - ElasticSearch
+  - PHP
+  - PostgreSQL
+memberType: beta
 ---
