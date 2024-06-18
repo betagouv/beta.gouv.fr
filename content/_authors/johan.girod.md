@@ -19,4 +19,6 @@ startups:
 competences:
   - Développement Frontend
   - Gestion de Produit
+  - JavaScript/TypeScript
+  - Accessibilité
 ---
