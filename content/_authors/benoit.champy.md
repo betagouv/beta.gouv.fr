@@ -10,14 +10,9 @@ missions:
     status: admin
     employer: DINUM
     startups:
-      - pass-sport
-      - france.nation.verte.agir
       - acceslibre
-  - start: 2024-05-16
-    end: 2024-07-14
-    status: admin
-    employer: DINUM
-    startups:
+      - france.nation.verte.agir
+      - pass-sport
       - reperer.identifier.victimes.teh
 startups:
   - pass-sport
@@ -28,6 +23,8 @@ badges:
 competences:
   - UI
   - UX
+  - Coaching
+  - Facilitation
 previously:
   - cnr
   - la.bonne.renov
