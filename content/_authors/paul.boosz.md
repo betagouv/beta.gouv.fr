@@ -1,7 +1,7 @@
 ---
 fullname: Paul Boosz
 role: Data Analyst
-domaine: Développement
+domaine: Data
 github: paulboosz
 missions:
   - start: 2021-11-14

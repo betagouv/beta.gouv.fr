@@ -7,6 +7,8 @@ missions:
     end: 2024-09-03
     status: independent
     employer: ''
+    startups:
+      - pv.facile
 link: https://www.linkedin.com/in/victoriabocquet/
 memberType: beta
 competences:

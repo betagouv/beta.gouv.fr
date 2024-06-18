@@ -3,7 +3,7 @@ fullname: David Bruant
 role: Développeur / Product Owner / Accompagnateur Running Lean
 domaine: Développement
 github: davidbruant
-link: https://twitter.com/DavidBruant
+link: https://eldritch.cafe/@davidbruant
 missions:
   - start: 2019-09-01
     end: 2020-02-28
@@ -18,7 +18,7 @@ missions:
     status: independent
     employer: ''
 startups:
-  - especes.protegees
+  - pitchou
 previously:
   - comobi
   - urbanvitaliz
