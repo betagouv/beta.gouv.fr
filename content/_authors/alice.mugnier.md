@@ -10,4 +10,8 @@ missions:
     startups:
       - refugies.info
 memberType: beta
+competences:
+  - Rédaction
+  - Journalisme
+  - Langage clair
 ---
