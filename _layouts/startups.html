@@ -101,9 +101,14 @@ layout: default
   <h1 class="fr-h2">Explorer nos services numériques</h1>
 </section>
 
+<section class="fr-container-fluid fr-py-2w fr-mb-3w blue-background">
+  {% include startups-filters.html prefix='filters-' %}    
+</section>
+
 <div class="fr-container">
   <div class="fr-grid-row">
     <div class="fr-col">
+
       <h2>
         {% assign globalCounter = site.startups | count_all_active_startups %}
         <span class="global-search-counter">{{ globalCounter }}</span>
@@ -126,33 +131,6 @@ layout: default
         </div>
       </section>
       {% endfor %}
-
-      <p class="fr-text--xs"> 
-        {% assign phases = site.phases | sort: 'order' %}
-        {% for phase in phases %}
-          {% assign counter_target = phase.id | remove: "/phases/" %}
-          {% assign counter = site.startups | where_phase: counter_target | size %}
-          {% assign plural = "" %} {% if counter > 1 %} {% assign plural = "s" %} {% endif %}
-
-          {% if phase.status == 'success' %}
-          <span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> <span>{{ phase.label | downcase }}{{ plural }}</span>
-          {% elsif phase.status == 'alumni' %}
-          {% else %}
-          <span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en {{ phase.label | downcase }}
-          {% endif %}
-
-          {% if forloop.last == false %} · {% endif %}
-        {% endfor %}
-      </p>
-
-      <section class="fr-accordion fr-mb-6w">
-        <h3 class="fr-accordion__title">
-            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-filters">Voir les filtres</button>
-        </h3>
-        <div class="fr-collapse" id="accordion-filters">
-          {% include startups-filters.html prefix='filters-' %}
-        </div>
-    </section>
 
       <div>
         <div id="no-data-message" style="display: none">
