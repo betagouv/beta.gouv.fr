@@ -7,6 +7,8 @@ missions:
     end: 2024-09-30
     status: admin
     employer: ''
+startups:
+- identite-numerique-agricole
 competences:
   - Intrapreneur(se)
 memberType: autre
