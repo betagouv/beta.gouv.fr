@@ -23,6 +23,7 @@ usertypes:
 link: https://jafer.beta.gouv.fr/
 stats_url: https://jafer.beta.gouv.fr/chiffres-cles
 dashlord_url: https://dashlord.incubateur.net/url/jafer-beta-gouv-fr/best-practices/
+budget_url: https://pad.numerique.gouv.fr/s/WYougVwWu
 ---
 ## Contexte
 
