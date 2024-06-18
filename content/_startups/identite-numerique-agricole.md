@@ -17,8 +17,10 @@ phases:
   - name: investigation
     start: 2024-06-18
 ---
-## Le problème
+## Contexte
+Le déploiement de l'identité numérique agricole était une des mesures proposées par la Feuille de route "numérique et données pour la planification écologique" publiée en décembre 2023 par le Secrétariat général à la planification écologique (SGPE). 
 
+## Le problème
 Les agriculteurs ont un nombre conséquent de démarches administratives à réaliser auprès de différents organismes (DRAAF, DDT, DDPP, France Agrimer, MSA, ASP, chambres d'agriculture, Safer, collectivités...) pour leur installation, les autorisations d'exploitation et de vente, les certificats, les contrôles, les demandes d'aides ou les obligations liées aux aides... 
 
 En l'absence de référentiels partagés, les porteurs de démarches demandent des informations différentes pour identifier les agriculteurs. Et, en l'absence de numérisation et de circulation des données entre organismes, des informations similaires sont demandées pour différentes démarches.  
@@ -45,10 +47,6 @@ Cela créé un manque de visibilité, de l'incertitude et du stress pour les agr
 
 ## Ce que nous souhaitons apprendre lors de notre investigation
 
-**Quelles sont les difficultés, les attentes et les craintes des agriculteurs dans leur démarches ?**
-- Comment les différents types d'agriculteurs s'organisent pour gérer leurs comptes et leurs démarches ? 
-- Qu'est-ce qui pose le plus de difficultés ? 
-
 **Quelles sont les démarches portées par le MASA et ses opérateurs (types de démarches, volumétrie, récurrence, complexité, cibles, informations demandées…) ?**
 - Qui sont les personnes concernées par ces démarches ? Qui rencontre le plus de démarches ou les démarches les plus complexes ? 
 - Quelle est la proportion de démarches  dématérialisées ? Comment sont-elles dématérialisées (parmi celles qui proposent les deux, quelle est la proportion de démarches réalisée en ligne VS papier) ? 
@@ -56,9 +54,11 @@ Cela créé un manque de visibilité, de l'incertitude et du stress pour les agr
 - D'où viennent les informations demandées ? Quelles sont les informations les plus demandées ?
 - Quelles sont les principales difficultés liées à ces démarches du point de vue des déclarants et des instructeurs ? 
  
+**Quelles sont les difficultés, les attentes et les craintes des agriculteurs et leurs mandataires vis-à-vis de leurs démarches ?**
+- Comment les différents types d'agriculteurs et leurs mandataires s'organisent pour gérer leurs comptes et leurs démarches ? 
+- Qu'est-ce qui pose le plus de difficultés ? 
 
-
-**Quels sont les outils existants ?** 
+**Quels sont les leviers numériques existants et leurs limites ?** 
 - Quels sont les outils existants permettant de répondre au problème ? 
 - Qu'est-ce qui freine le déploiement des outils numériques publics tels que Démarches Simplifiées (qui permet de numériser des démarches en intégrant le principe de DLNUF) et MonComptePro (identification de professionnels) ?
 
