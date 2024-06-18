@@ -127,6 +127,24 @@ layout: default
       </section>
       {% endfor %}
 
+      <p class="fr-text--xs"> 
+        {% assign phases = site.phases | sort: 'order' %}
+        {% for phase in phases %}
+          {% assign counter_target = phase.id | remove: "/phases/" %}
+          {% assign counter = site.startups | where_phase: counter_target | size %}
+          {% assign plural = "" %} {% if counter > 1 %} {% assign plural = "s" %} {% endif %}
+
+          {% if phase.status == 'success' %}
+          <span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> <span>{{ phase.label | downcase }}{{ plural }}</span>
+          {% elsif phase.status == 'alumni' %}
+          {% else %}
+          <span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en {{ phase.label | downcase }}
+          {% endif %}
+
+          {% if forloop.last == false %} · {% endif %}
+        {% endfor %}
+      </p>
+
       <section class="fr-accordion fr-mb-6w">
         <h3 class="fr-accordion__title">
             <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-filters">Voir les filtres</button>
