@@ -17,7 +17,6 @@ phases:
   - name: investigation
     start: 2024-06-18
 ---
-
 ## Contexte
 Le déploiement de l'identité numérique agricole était une des mesures proposées par la Feuille de route "numérique et données pour la planification écologique" publiée en décembre 2023 par le Secrétariat général à la planification écologique (SGPE). 
 
@@ -47,11 +46,7 @@ Cela créé un manque de visibilité, de l'incertitude et du stress pour les agr
 - Instructeurs des démarches : DDT, contrôleurs... 
 - Porteurs des démarches : administrations et opérateurs.
 
-## Ce que nous souhaitons apprendre lors de notre investigation
-
-**Quelles sont les difficultés, les attentes et les craintes des agriculteurs dans leur démarches ?**
-- Comment les différents types d'agriculteurs s'organisent pour gérer leurs comptes et leurs démarches ? 
-- Qu'est-ce qui pose le plus de difficultés ? 
+## Ce que nous souhaitons apprendre lors de l'investigation
 
 **Quelles sont les démarches portées par le MASA et ses opérateurs (types de démarches, volumétrie, récurrence, complexité, cibles, informations demandées…) ?**
 - Qui sont les personnes concernées par ces démarches ? Qui rencontre le plus de démarches ou les démarches les plus complexes ? 
@@ -60,7 +55,7 @@ Cela créé un manque de visibilité, de l'incertitude et du stress pour les agr
 - D'où viennent les informations demandées ? Quelles sont les informations les plus demandées ?
 - Quelles sont les principales difficultés liées à ces démarches du point de vue des déclarants et des instructeurs ? 
  
-**Quelles sont les difficultés, les attentes et les craintes des agriculteurs et leurs mandataires vis-à-vis de leurs démarches ?**
+**Quelles sont les difficultés, les attentes et les craintes des agriculteurs (et de leurs mandataires) vis-à-vis de leurs démarches ?**
 - Comment les différents types d'agriculteurs et leurs mandataires s'organisent pour gérer leurs comptes et leurs démarches ? 
 - Qu'est-ce qui pose le plus de difficultés ? 
 
