@@ -103,26 +103,7 @@ layout: default
 
 <div class="fr-container">
   <div class="fr-grid-row">
-    <div class="fr-col-4 fr-hidden fr-unhidden-xl">
-      <div class="fr-card fr-mr-3w search-card">
-        <div class="fr-card__body">
-          <div class="fr-card__content">
-            <h2 class="fr-card__title">Filtres de recherche</h2>
-            <div class="fr-card__desc fr-mt-6w">{% include startups-filters.html prefix='filters-' %}</div>
-          </div>
-        </div>
-      </div>
-    </div>
     <div class="fr-col">
-      <section class="fr-hidden-xl">
-        <div class="fr-accordion fr-my-6w">
-          <h3 class="fr-accordion__title">
-            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="fr-accordion-0-body-0" data-fr-js-collapse-button="true">Filtres de recherche</button>
-          </h3>
-          <div class="fr-collapse" id="fr-accordion-0-body-0">{% include startups-filters.html prefix='collapse-filters-' %}</div>
-        </div>
-      </section>
-
       <h2>
         {% assign globalCounter = site.startups | count_all_active_startups %}
         <span class="global-search-counter">{{ globalCounter }}</span>
@@ -145,6 +126,15 @@ layout: default
         </div>
       </section>
       {% endfor %}
+
+      <section class="fr-accordion fr-mb-6w">
+        <h3 class="fr-accordion__title">
+            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-filters">Voir les filtres</button>
+        </h3>
+        <div class="fr-collapse" id="accordion-filters">
+          {% include startups-filters.html prefix='filters-' %}
+        </div>
+    </section>
 
       <div>
         <div id="no-data-message" style="display: none">
