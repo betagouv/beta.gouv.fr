@@ -2,7 +2,7 @@
 mission: Faciliter les démarches des agriculteurs
 incubator: agriculture
 title: Identité numérique agricole
-contact: adrien.laville@beta.gouv.fr, antoine.lagarde@beta.gouv.fr
+contact: adrien.laville@beta.gouv.fr
 thematiques:
   - Agriculture
   - Entreprises
