@@ -9,4 +9,9 @@ missions:
     employer: Malt
     startups:
       - france.nation.verte.agir
+link: https://www.linkedin.com/in/lsaudon/
+github: lsaudon
+competences:
+  - Développement Frontend
+memberType: beta
 ---

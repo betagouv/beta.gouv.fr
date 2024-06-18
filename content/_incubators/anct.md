@@ -4,7 +4,6 @@ short_description: Cet incubateur accompagne les <span class="fr-text--bold">pro
 owner: /organisations/anct
 logo: logo_anct.png
 contact: contactincubateur@anct.gouv.fr
-address: 20 avenue de Ségur, Paris 7e
 address : 21 rue des Ardennes, Paris 19e
 website: https://incubateur.anct.gouv.fr
 github: https://gitlab.com/incubateur-territoires/

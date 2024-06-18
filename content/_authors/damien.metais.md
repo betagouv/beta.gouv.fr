@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
 previously:
-  - itou
+  - les-emplois
 badges:
   - segur
 competences:

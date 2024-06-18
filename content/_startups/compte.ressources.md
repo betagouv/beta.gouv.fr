@@ -1,6 +1,6 @@
 ---
 title: Compte Ressources
-mission: Faciliter l'achat de ressources éducatives par le corps enseingnant
+mission: Faciliter l'achat de ressources éducatives par le corps enseignant
 sponsors:
   - /organisations/menjs
 incubator: dinum
@@ -9,18 +9,16 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-02-15
-  - start: 2023-06-15
-    name: alumni
+  - name: alumni
+    start: 2023-06-15
+  - name: construction
+    start: 2024-06-14
 thematiques:
   - Formation
 ---
-Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 ## Contexte
 Pendant les États généraux du numérique pour l’éducation (2021) et lors travaux de concertation sur la stratégie du numérique pour l’éducation (2022), les enseignants et les chefs d’établissement ont signalé des difficultés pour acquérir des ressources pédagogiques numériques. 
-
 En parallèle, les éditeurs de manuels scolaires et les entreprises de la EdTech ont fait part d’un besoin de soutien et d’accompagnement dans la structuration de leur offre pour répondre aux attentes des enseignants et des élèves. 
-
 En réponse à ces remontées de terrain, le 27 janvier 2023, le Ministre de l’Education nationale et de la Jeunesse a annoncé le lancement d’une expérimentation.
 La Direction du numérique pour l'éducation a saisi la DINUM et le programme beta.gouv.fr pour conduire un investigation dans le cadre de la commande politique. 
 

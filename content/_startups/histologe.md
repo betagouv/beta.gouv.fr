@@ -1,5 +1,5 @@
 ---
-mission: Faciliter la détection des situations de mal logement, pour une prise en charge et une résolution accélérées.
+mission: "Accélérer la résolution des situations de mal logement des usagers en accompagnant les territoires"
 incubator: mtes
 repository: https://github.com/MTES-MCT/histologe
 contact: contact@histologe.info
@@ -51,4 +51,4 @@ Enfin, en tant qu'outil central, Histologe participe à la construction d'un obs
 
 ## Territoires concernés
 
-Plus de 30 départements déjà couverts, parmi lesquels les Bouches du Rhône, les Alpes Maritimes, les Alpes de Haute Provence, la Corse du Sud, la Gironde, l'Ain, la Haute Garonne,... La liste des territoires est accessible sur la page Statistiques du service.
+70 départements déjà couverts : La liste des territoires est accessible sur la page Statistiques du service.

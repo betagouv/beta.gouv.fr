@@ -7,4 +7,5 @@ missions:
     end: 2025-07-18
     status: admin
     employer: MIOM
+memberType: beta
 ---

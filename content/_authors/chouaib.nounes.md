@@ -18,6 +18,6 @@ missions:
     employer: Ministère des Sports
     startups:
       - pass-sport
-startups:
+previously:
   - histologe
 ---
