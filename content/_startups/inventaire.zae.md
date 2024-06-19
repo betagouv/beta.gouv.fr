@@ -10,6 +10,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-09-11
+  - name: alumni
+    start: 2024-02-16
 ---
 ## Contexte
 
@@ -41,3 +43,7 @@ Aussi, en complément des entretiens avec les parties prenantes de notre projet 
 * les élus au sein des collectivités qui ont la responsabilité d’impulser une stratégie foncière long-terme
 * les aménageurs de ZAE.
 * les entreprises au sein des ZAE.
+
+## Conclusions de l'investigation
+De nombreuses initiatives sont déjà amorcées sur l'amélioration de la connaissance des ZAE et qu'un nouveau produit n'était pas opportun. Une convergence est à trouver avec la Banque des Territoires et son offre @zaé.
+Présentation au comité de fin d'investigation : https://github.com/fab-geocommuns/zones_activite/blob/main/ZA%20Livrable%20comite%CC%81.pdf 

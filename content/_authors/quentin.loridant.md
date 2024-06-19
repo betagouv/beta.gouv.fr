@@ -1,7 +1,7 @@
 ---
 fullname: Quentin Loridant
 role: Data engineer
-domaine: Développement
+domaine: Data
 link: >-
   https://www.multi.coop/team?locale=fr&item=.%2Ftexts%2Fteam%2Fpeople%2FQuentin-Loridant.md
 github: qloridant

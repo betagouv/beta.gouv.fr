@@ -1,46 +1,50 @@
 ---
 title: Pacoupa
 mission: >-
-  Outiller les copropriétaires dans l'installation de systèmes de chauffage
-  décarbonés adaptés à leur logement 
+  Aider les copropriétaires dans l'installation de systèmes de chauffage
+  décarbonés adaptés à leur immeuble 
 sponsors:
   - /organisations/ademe
 incubator: ademe
-contact: celine.laruelle@ademe.fr
+contact: pacoupa@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-05-25
   - name: construction
-    start: 2023-12-01
+    start: 2024-01-22
+link: https://pacoupa.ademe.fr
+repository: https://github.com/incubateur-ademe/pacoupa
+thematiques:
+  - Logement
+  - Écologie
 ---
 ## Problème
 
+L’objectif du nombre de rénovations énergétiques des logements est très ambitieux et les réalisations ne sont pas au rendez-vous. Le parcours de rénovation est jugé long et complexe, à fortiori pour les copropriétés nécessitant, pour prendre des décisions, un vote par les copropriétaires en Assemblée Générale, ce qui est un obstacle important. 
 
-L'empreinte carbone du secteur du bâtiment en France représente 75 Mégatonnes de CO2 en 2022. C'est 23 % des émissions françaises. 
+Cependant, le contexte devient de plus en plus favorable aux questionnements et à la réalisation de travaux : augmentation du prix des énergies, réglementations et lois contraignantes, conscience écologique, confort face à des températures plus extrêmes notamment en été, etc. 
 
-Isoler les logements et décarboner les modes de production de chaleur dans les bâtiments sont les deux leviers d'action pour réduire cette empreinte.
+Le remplacement du système de chauffage est très souvent le déclencheur de ces réflexions, présentant cependant le risque de rester en fossile ou de remplacer le système fossile par un système décarboné sans isoler au préalable, faute de connaissances ou d’accompagnement pendant cette démarche.
 
-S'il existe des solutions de chauffage décarbonés facilement compatibles avec les maisons individuelles, l'offre est beaucoup plus réduite pour les logements collectifs.
-
-Lorsqu'un réseau de chaleur faiblement carboné n'est pas à proximité du bâtiment, la pompe à chaleur est un des systèmes de chauffage alternatifs permettant d’atteindre cette décarbonation du bâtiment mais des travaux de rénovation préalables à leur installation peuvent être nécessaires. 
-
-Solution encore émergente, le risque d'une installation de système inadapté au logement est grand : Selon les types de bâtiments, les PAC sont plus ou moins adaptées au logement mais une rénovation globale, préalable à l’installation du nouveau système, est très souvent nécessaire. Réduisant les risques de surdimensionnement, de déperdition de chaleur, ces rénovations permettent de diminuer la puissance et le coût du système de pompes à chaleur installé. 
-
-Pour les utilisateurs, le sentiment de solitude face à la multiplicité des acteurs de la rénovation et la priorisation du changement de système avant la réalisation des gestes d’isolation sont à craindre. 
+L’ambition de PACOUPA est d’une part de mieux faire connaître les énergies renouvelables, et surtout d’apporter des éléments d’information et de motivation sur la rénovation énergétique adaptée au logement. La rénovation est la clé pour avoir un logement sain, confortable et faiblement consommateur. Seule cette double action - rénovation et système de chauffage décarboné - permettra de tenir les objectifs nationaux.
 
 ## Solution
 
-PACOUPA accompagne les copropriétaires dans leurs questionnements sur le changement de système de chauffage en leur fournissant des conseils sur les systèmes de chauffages adaptés à leur logement à partir d'un simulateur à différents niveaux de précisions.
+PACOUPA est un service numérique d'accompagnement des copropriétés dans leur projet de rénovation énergétique. Il vise à donner de l'information technique, neutre et chiffrée sur la rénovation et le changement de système de chauffage afin d'accompagner la copropriété dans le passage à l'acte et l'inciter à prendre contact avec des professionnels pour concrétiser son projet.
 
-L’objectif étant de les aider à trouver les arguments pour convaincre en assemblée générale de faire voter les études nécessaires à la définition d’un projet de rénovation qui propose des énergies renouvelables (pompe à chaleur, réseau de chaleur, biomasse, solaire thermique...)
+A partir d’un simulateur, PACOUPA propose une liste de systèmes de chauffage en énergie renouvelables installables. Puis, il propose un scénario de rénovation qui permet de réafficher les nouvelles solutions de chauffages avec l’estimation des coûts, des gains énergétiques et financiers rendus possibles grâce à cette rénovation.
 
-Dans un premier temps, PACOUPA permet d’évaluer les gains énergétiques et les gains financiers au regard du coût des travaux nécessaires à l’installation d’un système de chauffage adapté au bâtiment. Puis, en fonction des tests et demandes des utilisateurs, l’outil travaillera sur un rendu plus complet qui pourra inclure les obligations règlementaires, les aides disponibles …
+PACOUPA est une brique de la massification de la rénovation des copropriétés et montre l’intérêt de la rénovation énergétique globale, seule solution permettant d’atteindre les objectifs de décarbonation du bâtiment à l'échelle nationale.
+
 
 ## L'impact
 
+L’objectif est d’aider les copropriétaires à trouver les arguments rationnels et percutants pour convaincre en assemblée générale de faire voter les études nécessaires à la définition du projet de rénovation incluant des énergies renouvelables (pompe à chaleur, réseau de chaleur, biomasse, solaire thermique…) et des gestes d’isolation souvent indispensables pour gagner substantiellement en consommation d’énergie.
 
-Différents indicateurs d’impact seront étudiés comme :
-•    Nombre d’utilisateurs pour lesquels ce simulateur a été décisif dans leur choix de chauffage décarboné
-•    Nombre d’audits/DTG réalisés à la suite de la présentation en AG des résultats de la simulation
-•    Nombre de systèmes décarbonés installés en copropriété après utilisation du service
+Les indicateurs d’impact sont : 
+
+- l’audience touchée (nombre de visites et visiteur-rice-s) ;
+- nombre d’utilisateur-rice-s pour lesquels ce simulateur a été décisif dans leur choix de chauffage décarboné ;
+- nombre d’audits/DTG réalisés à la suite de la présentation en AG des résultats de la simulation ;
+- et idéalement le nombre de systèmes décarbonés installés en copropriété et/ou travaux de rénovation après utilisation du service.

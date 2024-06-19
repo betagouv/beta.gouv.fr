@@ -12,12 +12,22 @@ title: Accessibilité
 - [Plan d'action 2024](/accessibilite/schema-pluriannuel#plan-2024)
 
 ## Déclaration d'accessibilité
-*Établie le 20 décembre 2023.*
+*Établie le 24 avril 2024.*
 
-Cette déclaration d’accessibilité s’applique au site **beta.gouv.fr**.
+Cette déclaration d’accessibilité s’applique au site **beta.gouv.fr**. 
 
 ### État de conformité
-beta.gouv.fr est non conforme avec le RGAA 4.1. Le site n’a **pas encore été audité**.
+
+beta.gouv.fr est non conforme avec le RGAA 4.1. Le site n’a **pas encore été audité**. Il a cependant été conçu pour être accessible au plus grand nombre. Vous devriez donc pouvoir :
+- naviguer sur toutes les pages du site en utilisant un clavier
+- consulter le site web avec un lecteur d’écran.
+- adapter le site à votre préférences (taille de la police, zoom écran, changement de typographie...) sans perte de contenu
+
+#### Défauts d'accessibilité connus
+
+Nous souhaitons corriger ces défauts courant 2024 :
+- Les pages [Indicateurs](/stats) et [Communauté](/communaute/) affichent des graphiques non accessibles. 
+- Notre [bilan 2023](https://beta.gouv.fr/content/docs/betagouv_presentation.pdf) sous forme de PDF n'est pas accessible.
 
 ### Amélioration et contact
 Si vous n’arrivez pas à accéder à un contenu ou à un service, vous pouvez contacter le responsable de beta.gouv.fr pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme.

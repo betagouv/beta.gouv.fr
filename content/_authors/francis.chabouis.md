@@ -6,7 +6,7 @@ github: fchabouis
 link: https://francis.chabouis.fr/
 missions:
   - start: 2020-01-20
-    end: 2024-03-31
+    end: 2024-12-31
     status: independent
     employer: Codeurs en Liberté
     startups:

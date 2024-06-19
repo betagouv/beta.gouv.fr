@@ -1,7 +1,7 @@
 ---
 fullname: Maxine Sabater
 domaine: Déploiement
-role: Chargée de déploiement
+role: Responsable des Opérations
 github: maxinesabater
 missions:
   - start: 2022-11-07
@@ -19,8 +19,9 @@ previously:
 badges:
   - segur
 competences:
-  - Administration Publique
   - Communication
   - Gestion de Produit
   - Croissance
+  - Administration Publique
+link: https://www.linkedin.com/in/maxine-sabater-64333bb0/
 ---

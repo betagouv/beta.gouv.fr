@@ -1,7 +1,7 @@
 ---
 fullname: Panayotis Papoutsis
 role: Data Scientist
-domaine: Développement
+domaine: Data
 link: https://www.linkedin.com/in/panayotis-papoutsis/
 github: panayo
 missions:

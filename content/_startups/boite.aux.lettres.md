@@ -14,6 +14,8 @@ accessibility_status: non conforme
 phases:
   - name: construction
     start: 2023-05-01
+thematiques:
+  - Formation
 ---
 # **Contexte**
 

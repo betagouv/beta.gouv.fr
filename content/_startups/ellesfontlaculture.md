@@ -23,7 +23,7 @@ stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idS
 contact: ellesfontlaculture@beta.gouv.fr
 usertypes:
   - particulier
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#-Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
 ---
 
 # Car encore aujourd’hui, 54% de femmes sont sur les bancs des écoles contre 38% dans la vie professionnelle.

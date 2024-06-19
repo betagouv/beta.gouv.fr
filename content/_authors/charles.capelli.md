@@ -1,17 +1,16 @@
 ---
 fullname: Charles Capelli
-role: Developpeur & Consultant SSI
-domaine: Développement
+role: RSSI
+domaine: Autre
 github: Scttpr
 missions:
   - start: 2022-02-22
-    end: 2024-05-30
-    status: service
-    employer: Incubateur des territoires
+    end: 2027-04-01
+    status: admin
+    employer: Plateforme de l'inclusion
 previously:
+  - e-chauffeur
   - octopus
 competences:
-  - Web development
-  - Infosec
-  - Devops
+  - Sécurité informatique
 ---

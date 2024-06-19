@@ -1,7 +1,6 @@
 ---
 fullname: Jérémie Cook
 role: UX Designer
-avatar: null
 link: https://jeremiecook.com
 github: jeremiecook
 missions:
@@ -28,4 +27,8 @@ previously:
   - resorption-bidonvilles
   - domifa
 domaine: Design
+competences:
+  - UX
+  - UI
+  - Accessibilité
 ---
