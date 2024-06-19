@@ -11,8 +11,6 @@ missions:
     employer: ''
     startups:
       - l-immersion-facile
-      - mon-recap
-      - plusfraichemaville
 startups:
   - l-immersion-facile
 previously:
