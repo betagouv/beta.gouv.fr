@@ -1,10 +1,10 @@
 ---
 fullname: Aurélie Marre
-role: Product Owner
+role: PM
 domaine: Produit
 missions:
   - start: 2022-02-14
-    end: 2024-06-30
+    end: 2024-12-30
     status: independent
     employer: ''
     startups:

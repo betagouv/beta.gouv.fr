@@ -10,7 +10,7 @@ missions:
     startups:
       - data.etat
 link: https://fr.linkedin.com/in/marie-guibert-6653571a9
-github: https://github.com/marieguibpref
+github: marieguibpref
 competences:
   - Sciences des données
 memberType: beta

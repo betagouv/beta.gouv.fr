@@ -9,4 +9,5 @@ missions:
     employer: ''
     startups:
       - compte.ressources
+memberType: beta
 ---
