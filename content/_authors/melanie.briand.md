@@ -12,7 +12,7 @@ missions:
   - start: 2024-04-19
     end: 2024-07-19
     status: service
-    employer: NULMA
+    employer: NUMA
     startups:
       - 1-jeune-1-arbre
 startups:

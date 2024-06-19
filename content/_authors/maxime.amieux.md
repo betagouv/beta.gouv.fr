@@ -1,10 +1,10 @@
 ---
 fullname: Maxime Amieux
-role: Support / Déploiement / Communication
+role: Déploiement / Support / Communication
 domaine: Déploiement
 missions:
   - start: 2023-05-09
-    end: 2024-06-01
+    end: 2024-08-31
     status: independent
     employer: Opteamis
     startups:
@@ -12,5 +12,6 @@ missions:
 startups:
   - reva
 memberType: beta
+link: https://www.linkedin.com/in/maxamieux/
 ---
 Communicant

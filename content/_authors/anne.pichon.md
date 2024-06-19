@@ -1,7 +1,7 @@
 ---
 fullname: Anne Pichon
 domaine: Design
-role: Coach, designer de services
+role: Designer de services, Facilitatrice, Coach impact
 github: Ann-p
 missions:
   - start: 2017-05-03
@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: ''
   - start: 2020-01-02
-    end: 2024-06-30
+    end: 2024-12-30
     status: independent
     employer: ''
 startups:
@@ -27,4 +27,7 @@ previously:
 competences:
   - UX
   - UI
+  - Product strategy
+  - Coaching
+  - Facilitation
 ---

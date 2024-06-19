@@ -17,7 +17,7 @@ missions:
     startups:
       - apilos
   - start: 2024-03-05
-    end: 2024-07-22
+    end: 2024-12-31
     status: independent
     employer: NUMA
     startups:
