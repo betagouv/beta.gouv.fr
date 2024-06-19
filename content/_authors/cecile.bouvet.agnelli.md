@@ -1,5 +1,5 @@
 ---
-fullname: Cécile BOUVET AGNELLI
+fullname: Cécile Bouvet Agnelli
 role: Ingénieure ouvrages d&#x27;art
 domaine: Autre
 missions:

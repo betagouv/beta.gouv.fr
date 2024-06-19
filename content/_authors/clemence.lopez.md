@@ -16,7 +16,7 @@ missions:
 startups: null
 previously:
   - tchap
-  - sparte
+  - mon-diagnostic-artificialisation
   - authentification
   - cnr
   - compte.ressources

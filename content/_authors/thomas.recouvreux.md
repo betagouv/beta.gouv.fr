@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - conseiller-numerique
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 ---

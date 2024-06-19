@@ -1,12 +1,12 @@
 ---
 fullname: Panayotis Papoutsis
 role: Data Scientist
-domaine: Développement
+domaine: Data
 link: https://www.linkedin.com/in/panayotis-papoutsis/
 github: panayo
 missions:
   - start: 2023-03-20
-    end: 2024-12-31
+    end: 2024-02-29
     status: independent
     employer: Scopopop
     startups:

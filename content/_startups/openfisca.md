@@ -12,6 +12,8 @@ phases:
     start: 2020-12-01
   - name: success
     start: 2023-11-30
+  - name: alumni
+    start: 2024-06-05
 link: https://openfisca.org
 repository: https://github.com/openfisca/openfisca-france
 stats: true

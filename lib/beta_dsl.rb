@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module BetaDsl
   autoload :Base, 'beta_dsl/base.rb'
   autoload :Member, 'beta_dsl/member.rb'

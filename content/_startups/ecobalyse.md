@@ -31,8 +31,11 @@ phases:
     end: 2021-07-16
   - name: construction
     start: 2021-07-16
+thematiques:
+  - Écologie
+stats_url: https://ecobalyse.beta.gouv.fr/#/stats
+accessibility_status: non conforme
 ---
-
 ***Quels sont les impacts sur la planète des biens et services produits par les entreprises&nbsp;?***
 
 ### Objectifs

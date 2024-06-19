@@ -18,6 +18,8 @@ phases:
   - start: 2023-05-08
     name: acceleration
 link: https://nata.fabrique.social.gouv.fr/
+thematiques:
+  - Santé
 ---
 ## Le contexte
 

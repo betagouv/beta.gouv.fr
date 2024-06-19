@@ -5,7 +5,7 @@ domaine: Déploiement
 github: yo-lev
 missions:
   - start: 2023-05-03
-    end: 2024-03-31
+    end: 2024-12-31
     status: independent
     employer: ''
     startups:
