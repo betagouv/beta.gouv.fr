@@ -50,7 +50,7 @@ previously:
   - guichet-entreprises-nc
   - la.communaute.de.linclusion
   - monstage
-  - Aidants_Connect
+  - aidantsconnect
 badges:
   - segur
 competences:
