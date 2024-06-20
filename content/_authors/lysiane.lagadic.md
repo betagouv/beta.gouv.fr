@@ -1,7 +1,7 @@
 ---
 domaine: Design
 fullname: Lysiane Lagadic
-role: Design
+role: Designer
 missions:
   - start: 2024-06-20
     end: 2024-09-30
