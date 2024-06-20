@@ -26,9 +26,13 @@ missions:
     status: independent
     employer: NUMA
   - start: 2021-02-03
-    end: 2024-12-01
+    end: 2023-12-01
     status: independent
     employer: LBC
+  - start: 2024-06-10
+    end: 2024-12-01
+    status: independent
+    employer: Malt
 startups: null
 previously:
   - andi
@@ -46,6 +50,7 @@ previously:
   - guichet-entreprises-nc
   - la.communaute.de.linclusion
   - monstage
+  - aidantsconnect
 badges:
   - segur
 competences:
