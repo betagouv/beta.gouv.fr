@@ -1,7 +1,7 @@
 ---
-domaine: Design
+domaine: Déploiement
 fullname: Lysiane Lagadic
-role: Design
+role: Déploiement
 missions:
   - start: 2024-06-20
     end: 2024-09-30
