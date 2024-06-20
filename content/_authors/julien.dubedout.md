@@ -10,9 +10,7 @@ missions:
     status: service
     startups:
       - resorption-bidonvilles
-      - Acces cible
 startups:
   - resorption-bidonvilles
-  - Acces cible
 ---
 Designer, j'améliore l’expérience des agents et usagers du Service Public
