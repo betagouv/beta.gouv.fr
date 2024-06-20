@@ -26,7 +26,7 @@ missions:
     status: independent
     employer: NUMA
   - start: 2021-02-03
-    end: 2024-06-01
+    end: 2024-12-01
     status: independent
     employer: LBC
 startups: null
