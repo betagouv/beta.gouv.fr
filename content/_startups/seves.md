@@ -73,3 +73,5 @@ Depuis la fin d'année 2023, la construction du produit a permis la production d
 | Coaching | 16 000 | 45 000 | 
 | Développement | 6 000 | 110 000 | 
 | Design | 6 000 | 75 000 | 
+| TOTAL TTC | 28 000|230 000 | 
+
