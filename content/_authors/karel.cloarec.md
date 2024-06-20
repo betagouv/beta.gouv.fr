@@ -1,9 +1,8 @@
 ---
 fullname: Karel Cloarec
 domaine: Coaching
-role: Coaching - Deploiement
+role: 'Coaching '
 github: Karel2
-avatar: null
 missions:
   - start: 2019-05-02
     end: 2020-05-13
@@ -33,7 +32,6 @@ missions:
     end: 2024-12-01
     status: independent
     employer: Malt
-startups: null
 previously:
   - andi
   - urbanvitaliz
