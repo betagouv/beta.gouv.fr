@@ -11,7 +11,7 @@ redirect_from: []
 highlighted_startups:
     - competence.validee
     - la-bonne-boite
-    - mes.aides
+    - mes-aides-france-travail
 ---
 
 Depuis 2015, l’incubateur de France travail a pour mission de résoudre des problématiques de demandeurs d’emploi et de recruteurs par des solutions digitales, utiles, utilisées avec une démarche exploratoire, pour augmenter la création de valeur, l’adoption des utilisateurs et l'intégrer dans l’offre de service Pôle emploi avec toutes les Directions afin de faciliter le retour à l'emploi souhaité et durable de façon inclusive.
