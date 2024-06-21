@@ -3,7 +3,7 @@ title: Anotea
 mission: Éclairer les personnes à la recherche d'une formation professionnelle
   dans leur choix
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
 incubator: francetravail
 link: https://anotea.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/anotea

@@ -2,7 +2,7 @@
 title: Perspectives
 mission: Mettre en relation candidats et employeurs par la méthode de recrutement par simulation
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
 incubator: francetravail
 phases:
   - name: investigation

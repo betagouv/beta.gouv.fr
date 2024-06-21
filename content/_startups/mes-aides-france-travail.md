@@ -7,7 +7,7 @@ mission: >-
 redirect_from:
   - /startups/mes.aides
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
   - /organisations/mtei
 incubator: francetravail
 link: "https://mes-aides.francetravail.fr/"
