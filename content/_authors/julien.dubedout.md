@@ -6,7 +6,7 @@ link: https://www.dedale.io/
 github: judbd
 missions:
   - start: 2022-10-20
-    end: 2023-01-20
+    end: 2024-11-20
     status: service
     startups:
       - resorption-bidonvilles

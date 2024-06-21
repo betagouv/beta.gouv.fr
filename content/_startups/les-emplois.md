@@ -2,7 +2,7 @@
 title: "Emplois de l'inclusion"
 mission: "Faciliter la mise en relation avec les employeurs solidaires"
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
 contact: assistance@inclusion.beta.gouv.fr

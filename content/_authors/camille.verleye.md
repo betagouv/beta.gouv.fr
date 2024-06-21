@@ -1,6 +1,6 @@
 ---
 domaine: Intraprenariat
-fullname: Camille  Verleye
+fullname: Camille Verleye
 role: Intraprenariat
 missions:
   - start: 2024-06-17
@@ -9,4 +9,9 @@ missions:
     employer: Omnicité
     startups:
       - oots.once-only.technical.system
+link: https://www.linkedin.com/in/ca1000-verleye/
+github: /
+competences:
+  - Intrapreneur(se)
+memberType: beta
 ---

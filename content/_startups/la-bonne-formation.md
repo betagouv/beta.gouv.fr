@@ -3,8 +3,8 @@ title: La Bonne Formation
 mission: Rechercher une formation efficace pour le retour à l'emploi et
   découvrir les financements possibles
 sponsors:
-  - /organisations/pole-emploi
-incubator: pole-emploi
+  - /organisations/francetravail
+incubator: francetravail
 link: https://labonneformation.pole-emploi.fr
 repository: https://git.beta.pole-emploi.fr/open-source/labonneformation
 contact: christ.bonraisin@pole-emploi.fr
