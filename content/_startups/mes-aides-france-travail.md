@@ -9,7 +9,7 @@ redirect_from:
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
-incubator: pole-emploi
+incubator: francetravail
 link: "https://mes-aides.francetravail.fr/"
 contact: mesaides@beta.francetravail.fr
 phases:
