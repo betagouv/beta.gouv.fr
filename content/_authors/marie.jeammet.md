@@ -10,6 +10,7 @@ missions:
     employer: DINUM
     startups:
       - suite-numerique
+      - suite-territoriale
   - start: 2022-09-05
     end: 2023-12-31
     status: admin
@@ -19,9 +20,7 @@ missions:
       - cnr
 startups:
   - suite-numerique
-previously:
-  - cnr
-  - tous.a.bord
+  - suite-territoriale
 badges:
   - segur
 ---
