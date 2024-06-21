@@ -4,7 +4,7 @@ mission: Permettre aux entreprises dans un secteur en tension de répondre à
   leurs besoins de recrutement
 sponsors:
   - /organisations/pole-emploi
-incubator: pole-emploi
+incubator: francetravail
 contact: clarisse.kerdranvat@pole-emploi.fr
 accessibility_status: non conforme
 phases:

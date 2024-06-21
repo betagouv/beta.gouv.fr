@@ -5,8 +5,8 @@ mission: >-
   plus adaptée à la situation de son recrutement
 sponsors:
   - /organisations/pole-emploi
-incubator: pole-emploi
-link: ' https://entreprise.pole-emploi.fr/detecteureligibiliteaides/ '
+incubator: francetravail
+link: ' https://entreprise.francetravail.fr/detecteureligibiliteaides/ '
 contact: lea.trecat-linnartz@pole-emploi.fr
 stats: false
 budget_url: ' '
@@ -28,7 +28,7 @@ thematiques:
 ---
 # **Contexte :**
 
-Mes aides à l'embauche est un projet issu du challenge des intrapreneurs Pôle emploi 2021 et est un service en développement hybride avec la DSI de Nantes et l'incubateur de Pôle emploi. 
+Mes aides à l'embauche est un projet issu du challenge des intrapreneurs Pôle emploi 2021 et est un service en développement hybride avec la DSI de Nantes et l'incubateur de Pôle emploi.
 
 Les cibles sont les recruteurs et en priorité les TPME.  
 
@@ -51,7 +51,7 @@ De plus, il y a un enjeu financier et un employeur voudra toujours vérifier l�
 
 ### Le détecteur vs les simulateurs :
 
-* Un parcours hybride (numérique et physique) ;  
+* Un parcours hybride (numérique et physique) ; 
 * Pas de maintien de nom d’aide, de montant, de pourcentage, de durée de prise en charge ;
 * Une réponse binaire oui/non ;
 * Un humain qui assure le dernier km.
