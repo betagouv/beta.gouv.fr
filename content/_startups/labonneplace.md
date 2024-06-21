@@ -2,7 +2,7 @@
 title: La bonne place
 mission: Mettre en relation demandeurs d'emploi et entreprise de façon à ce que cela dure
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
 incubator: francetravail
 phases:
   - name: investigation

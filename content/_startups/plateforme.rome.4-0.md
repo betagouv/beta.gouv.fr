@@ -2,7 +2,7 @@
 title: Plateforme ROME 4.0
 mission: Faire évoluer le ROME 4.0 de manière collaborative
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
 incubator: francetravail
 contact: rome40.00613@francetravail.fr
 accessibility_status: non conforme

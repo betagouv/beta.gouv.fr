@@ -4,7 +4,7 @@ mission: >-
   Soutenir la reprise d'activité des personnes en demande d'emploi en facilitant
   l'accès à l'information concernant les aides financières
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
 incubator: francetravail
 link: https://candidat.francetravail.fr/simucalculreprise
 repository: https://github.com/StartupsPoleEmploi/estime-frontend

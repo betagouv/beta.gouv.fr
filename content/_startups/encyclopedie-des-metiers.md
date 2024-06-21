@@ -4,7 +4,7 @@ mission: >-
   Faciliter l'accès à des informations claires et pratiques sur les métiers et
   les compétences
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
 incubator: francetravail
 contact: catherine.beauvois@francetravail.fr
 usertypes:
