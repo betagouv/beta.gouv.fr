@@ -3,7 +3,7 @@ title: Plateforme ROME 4.0
 mission: Faire évoluer le ROME 4.0 de manière collaborative
 sponsors:
   - /organisations/pole-emploi
-incubator: pole-emploi
+incubator: francetravail
 contact: rome40.00613@francetravail.fr
 accessibility_status: non conforme
 phases:
@@ -28,7 +28,7 @@ Pour répondre à ces problématiques, le ROME 4.0 a été lancé en mars 2024 !
 La Plateforme du ROME est une solution collaborative qui permet de mettre à jour le ROME grâce à la participation de contributeurs et à la modération de Pôle emploi, dans le but de mieux refléter les tendances du marché du travail et ainsi, d’améliorer le rapprochement offre / demande d’emploi.
 Accès à la Plateforme du ROME  (accès restreint)
 Description du Produit
-Lancée en décembre 2023, la Plateforme du ROME facilite les demandes d’évolution du ROME 4.0 : 
+Lancée en décembre 2023, la Plateforme du ROME facilite les demandes d’évolution du ROME 4.0 :
 •	Création d’une fiche ROME : depuis une appellation d’emploi connue ou non connue du ROME
 •	Modification d’une fiche ROME : ajout / modification / suppression des éléments d’une fiche existante.
 Elle permet de centraliser les demandes d’évolution du ROME en un seul point et de tracer l’historique des actions réalisées par les partenaires.
@@ -40,5 +40,5 @@ Vous êtes un expert reconnu au sein de votre OPCO, de votre branche professionn
 La Plateforme du ROME est aujourd’hui en accès restreint, réservée uniquement à des partenaires experts du ROME (OPCO, branches professionnelles…).
 Pour faire une demande d’accès à la Plateforme, merci de remplir ce formulaire.
 Prérequis : Disposer d’une licence Microsoft qui comprend l’accès à Power Apps
-Si vous n’êtes pas expert et que vous souhaitez nous partager des idées d’évolution pour le ROME, nous sommes à vous écoute à cette adresse : rome40.00613@pole-emploi.fr 
+Si vous n’êtes pas expert et que vous souhaitez nous partager des idées d’évolution pour le ROME, nous sommes à vous écoute à cette adresse : rome40.00613@pole-emploi.fr
 

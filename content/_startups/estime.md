@@ -5,7 +5,7 @@ mission: >-
   l'accès à l'information concernant les aides financières
 sponsors:
   - /organisations/pole-emploi
-incubator: pole-emploi
+incubator: francetravail
 link: https://candidat.francetravail.fr/simucalculreprise
 repository: https://github.com/StartupsPoleEmploi/estime-frontend
 contact: annie.compa@pole-emploi.fr

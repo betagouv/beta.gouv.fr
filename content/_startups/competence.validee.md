@@ -6,7 +6,7 @@ mission: >-
   compétences
 sponsors:
   - /organisations/pole-emploi
-incubator: pole-emploi
+incubator: francetravail
 link: https://candidat.francetravail.fr/competences-validees/
 contact: competences-validees@francetravail.fr
 usertypes:
