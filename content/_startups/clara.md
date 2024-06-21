@@ -2,7 +2,7 @@
 title: Clara
 mission: Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d'activité
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
 incubator: francetravail
 link: https://clara.pole-emploi.fr/
 repository: https://github.com/StartupsPoleEmploi/clara

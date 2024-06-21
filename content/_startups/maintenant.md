@@ -2,7 +2,7 @@
 title: Maintenant!
 mission: Recruter des gens, pas des CV !
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
 incubator: francetravail
 link: https://maintenant.pole-emploi.fr
 repository: null
