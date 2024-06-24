@@ -1,7 +1,7 @@
 ---
 fullname: Yoann Magnin
 domaine: Autre
-role: 'Responsable de portefeuille DGALN '
+role: "Responsable de portefeuille DGALN"
 github: Yoann-Magnin
 missions:
   - start: 2022-08-24
@@ -13,18 +13,12 @@ missions:
       - accesscite
       - camino
       - recommandations-collaboratives
-      - reflex
-      - sparte
+      - mon-diagnostic-artificialisation
       - urbanvitaliz
       - prelevements.deau
-startups:
-  - acceslibre
-  - accesscite
-  - camino
-  - reflex
-  - sparte
-  - urbanvitaliz
-  - recommandations-collaboratives
+      - oilhi
+      - histologe
+      - vigieau
 competences:
   - Gestion de Produit
 teams:

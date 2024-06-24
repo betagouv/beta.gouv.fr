@@ -3,7 +3,7 @@ title: CartoBio
 mission: Ouvrir, enrichir et partager les données parcellaires de l’agriculture biologique
 sponsors:
   - /organisations/agence-bio
-incubator: dinum
+incubator: agriculture
 phases:
   - name: investigation
     start: 2019-12-19
@@ -11,13 +11,17 @@ phases:
     start: 2019-12-19
   - name: acceleration
     start: 2023-05-01
+  - name: transfer
+    start: 2024-06-10
+  - name: success
+    start: 2024-07-27
 accessibility_status: non conforme
 link: https://cartobio.agencebio.org
 repository: https://github.com/AgenceBio/cartobio-front
 stats: true
 budget_url:
 dashlord_url: https://dashlord.incubateur.net/url/cartobio-agencebio-org/
-contact: cartobio@beta.gouv.fr
+contact: cartobio@agencebio.org
 usertypes:
   - association
   - collectivite-territoriale
@@ -73,7 +77,7 @@ La première version du projet est d’abord destinée uniquement aux Organismes
 
 En 2021, le projet est redéveloppé en étroite collaboration avec le MASA et le Cebio dans le cadre des aides PAC Bio. CartoBio vise à remplacer l'attestation de production végétale, et d’anticiper l’augmentation du nombre d’engagements en bio.
 
-Le projet sera intégré au sein de l’Agence Bio à l’horizon 2024.
+Le projet est réintégré au sein de l’Agence Bio depuis juillet 2024.
 
 Vous êtes intéressé.e par le projet ?
 <a href="mailto:cartobio@beta.gouv.fr?Subject=Cartobio%20m'intéresse%20!">Contactez-nous !</a>

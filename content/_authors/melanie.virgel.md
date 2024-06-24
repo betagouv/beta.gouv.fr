@@ -12,4 +12,5 @@ missions:
 startups:
   - romin
 memberType: beta
+link: https://www.linkedin.com/in/melanie-virgel/
 ---

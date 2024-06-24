@@ -2,10 +2,11 @@
 title: "Communauté de l'inclusion"
 mission: "Échanger avec et entre professionnels de l’inclusion dans l’emploi"
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
 stats: true
+stats_url: https://communaute.inclusion.beta.gouv.fr/statistiques
 link: https://communaute.inclusion.beta.gouv.fr/
 repository: http://github.com/betagouv/itou
 contact: contact@inclusion.beta.gouv.fr

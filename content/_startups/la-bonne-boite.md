@@ -4,8 +4,8 @@ mission: >-
   Favoriser les candidature spontanées en suggérant les entreprises à fort
   potentiel d'embauche selon le lieu géographie choisi.
 sponsors:
-  - /organisations/pole-emploi
-incubator: pole-emploi
+  - /organisations/francetravail
+incubator: francetravail
 link: https://labonneboite.francetravail.fr/
 repository: 'https://github.com/StartupsPoleEmploi/labonneboite '
 contact: labonneboite@pole-emploi.fr

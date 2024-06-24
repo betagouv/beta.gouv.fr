@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://collectif-encore.collective.work/
 missions:
   - start: 2024-01-08
-    end: 2024-05-31
+    end: 2024-11-30
     status: independent
     employer: Malt
     startups:
