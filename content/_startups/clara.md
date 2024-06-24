@@ -2,8 +2,8 @@
 title: Clara
 mission: Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d'activité
 sponsors:
-  - /organisations/pole-emploi
-incubator: pole-emploi
+  - /organisations/francetravail
+incubator: francetravail
 link: https://clara.pole-emploi.fr/
 repository: https://github.com/StartupsPoleEmploi/clara
 contact: clara@pole-emploi.fr
@@ -28,4 +28,4 @@ Il existe de nombreuses aides et mesures qui peuvent vous aider à reprendre un 
 
 Quelques exemples d’aides : immersion professionnelle (PMSMP), évaluation des compétences et capacités professionnelles (ECCP), alternance (contrat de professionnalisation, contrat d’apprentissage), aides à la mobilité (garde d’enfant, transport, restauration, hébergement), aides à la formation, aides à la création ou reprise d’entreprise, emploi international,…
 
-Les aides et informations disponibles dans le site sont régulièrement mises à jour. 
+Les aides et informations disponibles dans le site sont régulièrement mises à jour.

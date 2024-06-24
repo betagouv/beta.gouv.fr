@@ -9,9 +9,15 @@ missions:
     status: independent
     employer: MALT
     startups:
-      - itou
+      - les-emplois
+  - start: 2024-06-01
+    end: 2024-12-31
+    status: independent
+    employer: MALT
+    startups:
+      - transition-ecologique-des-entreprises
 startups:
-  - itou
+  - les-emplois
 badges:
   - segur
 competences:

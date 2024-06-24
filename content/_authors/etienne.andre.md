@@ -1,11 +1,11 @@
 ---
 fullname: Etienne ANDRE
-role: Data analyst
 domaine: Data
+role: Data analyst
 github: etienneandre9
 missions:
   - start: 2022-09-06
-    end: 2024-06-30
+    end: 2024-12-31
     status: service
     employer: CGI
     startups:
@@ -13,4 +13,6 @@ missions:
 startups:
   - sndv_maritime
 previously: null
+competences:
+  - Administration Système
 ---

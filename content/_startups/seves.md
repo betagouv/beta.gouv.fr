@@ -1,20 +1,23 @@
 ---
 title: SEVES
-mission: Une gestion mutualisée de tous les événements sanitaires entre la DGAL et les services déconcentrés
-sponsors: 
+mission: >-
+  Une gestion mutualisée de tous les événements sanitaires entre la DGAL et les
+  services déconcentrés
+sponsors:
   - /organisations/dgal
 incubator: agriculture
 phases:
-    - name: construction
-      start: 2023-06-02
+  - name: investigation
+    start: 2023-06-02
+  - name: construction
+    start: 2023-11-14
 stats: false
 contact: anne.devoret@beta.gouv.fr
 ---
-
 ## Le contexte
 Aujourd'hui, lorsqu'un évènement sanitaire survient, ce sont les directions départementales (DDecPP) , les directions régionales (SRAL) et l'administration centrale (MUS) qui sont en charge de décrire, suivre, diffuser l'information et d'accompagner les acteurs vers une maitrise des risques. Ces évènements peuvent survenir dans 3 domaines :  la sécurité sanitaires des aliments, la santé des végétaux et la santé des animaux. 
 
-Il pas de solution numérique nationale unifiant le suivi pour l'ensemble des agents publics concernés. On compte néanmoins le logiciel SORA Alertes, développé historiquement par la DGCCRF, qui permet à ce jour aux agents en charge de la sécurité sanitaires des aliments de qualifier et gérer certains évènements (Alertes nationales, alertes locales, notifications sanitaires, autres non conformités produits). L'usage de SORA a permis de confirmer le besoin urgent d'un outil partagé. Néanmoins, ce logiciel sera décommissionné en 2025.
+Il n'y a pas de solution numérique nationale unifiant le suivi pour l'ensemble des agents publics concernés. On compte néanmoins le logiciel SORA Alertes, développé historiquement par la DGCCRF, qui permet à ce jour aux agents en charge de la sécurité sanitaires des aliments de qualifier et gérer certains évènements (Alertes nationales, alertes locales, notifications sanitaires, autres non conformités produits). L'usage de SORA a permis de confirmer le besoin urgent d'un outil partagé. Néanmoins, ce logiciel sera décommissionné en 2025.
 
 L'investigation a donc portée sur la l'importance d'étendre les fonctionnalités de SORA a l'ensemble des agents concernés (santé des végétaux et santé des animaux), sur les améliorations fonctionnelles nécessaires à une meilleure performance, aux adaptations nécessaires pour couvrir l'ensemble des évènements.
 
@@ -60,4 +63,15 @@ Car cette branche est aujourd'hui :
 - demande moins d'interfaçage avec des bases de données existantes.
 Une fois le MVP testé et approuvé par les agents de la santé des végétaux, l'outil sera adapté et déployé auprès de la branche sécurité des aliments puis enfin auprès de la branche santé animale. 
 
-Nous contacter : sophie.belichon@agriculture.gouv.fr ; anne.devoret@beta.gouv.fr ; alison.dussiot@agriculture.gouv.fr ; audrey.huiban@agriculture.gouv.fr
+## Construction
+Depuis la fin d'année 2023, la construction du produit a permis la production du MVP santé des végétaux (déploiement T4 2024).
+
+## Budget
+
+| Poste | 2023 | 2024 (jan-sept)| 
+| --- | --- | --- | 
+| Coaching | 16 000 | 45 000 | 
+| Développement | 6 000 | 110 000 | 
+| Design | 6 000 | 75 000 | 
+| TOTAL TTC | 28 000|230 000 | 
+

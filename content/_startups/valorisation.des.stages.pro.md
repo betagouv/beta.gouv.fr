@@ -6,6 +6,7 @@ sponsors:
   - /organisations/dgesco
 incubator: dinum
 link: https://aplypro.beta.gouv.fr/
+stats_url: https://aplypro.beta.gouv.fr/stats
 repository: https://github.com/betagouv/aplypro
 contact: aplypro@beta.gouv.fr
 analyse_risques: true
