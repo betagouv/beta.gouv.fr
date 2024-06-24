@@ -10,7 +10,7 @@ missions:
     employer: Pôle Emploi
 teams:
   - /teams/PE
-incubator: pole-emploi
+incubator: francetravail
 competences:
   - Administration Publique
   - Communication

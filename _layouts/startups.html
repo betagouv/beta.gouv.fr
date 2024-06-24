@@ -2,234 +2,201 @@
 layout: default
 ---
 
-{% assign lang = page.lang | default: site.lang | default: "en" %}
-{% assign phases = site.phases | sort: 'order' %}
-{% assign phases_with_stopped = site.phases | sort: 'order' %}
-{% assign incubators = site.incubators %}
-{% assign organisations = site.organisations %}
+{% assign lang = page.lang | default: site.lang | default: "en" %} {% assign phases = site.phases | sort: 'order' %} {% assign phases_with_stopped = site.phases | sort: 'order' %} {% assign incubators = site.incubators %} {% assign organisations = site.organisations %}
 
 <script>
-    var data = {
-        {% for phase in site.phases %}
-        {% assign startups = site.startups | where_phase: phase.status %}
-        "{{phase.status}}": [{% for startup in startups %}
-            {% assign startup_id = startup.id | remove: '/startups/' %}
-            {% assign screenshot_files = site.static_files | where: "startups_img", true %}
-            {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
-            {% if screenshot_file %}
-            {% assign screenshot_path = screenshot_file.path %}
-            {% else %}
-            {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
-            {% endif %}
-            {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
-            {% assign incubator = incubators | where:'id', incubator_id | first %}
-            { "id"        : "{{ startup.id | remove: '/startups/' }}"
-            , "type"      : "startup"
-            , "phase": "{{ status }}"
-            , "incubator_id" : "{{startup.incubator}}"
-            , "incubator_title": "{{ incubator.title }}"
-            , "sponsors": [{% for sponsorId in startup.sponsors %}
-                {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
-                {
-                    "acronym" : "{{ sponsor.acronym }}",
-                    "name": "{{ sponsor.name }}"
-                }
-                {% unless forloop.last %},{% endunless %}
-            {% endfor %}]
-            , "attributes":
-                { "name"  : "{{ startup.title }}"
-                , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
-                , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}{% if startup.link %}
-                , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
-                , "repository": "{{ startup.repository}}"{% endif %}
-                , "contact": "{{startup.contact}}"
-                , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
-                , "screenshot-url": "{{ screenshot_path }}"
-                , "usertypes": [
-                    {% for usertype in startup.usertypes %}
-                        "{{usertype}}"{% unless forloop.last %},{% endunless %}
-                    {% endfor %}
-                    ]
-                , "phases": [
-                    {% for phase in startup.phases %}
-                        { "name": "{{phase.name}}", "start": "{{phase.start}}", "end": "{{phase.end}}"}{% unless forloop.last %},{% endunless %}
-                    {% endfor %}
-                    ]
-                }
-            , "relationships":
-                { "incubator":
-                    { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
-                    }
-                }
-            , "events":[
-                    {% for event in startup.events %}
-                        { "name": "{{event.name}}", "date": "{{event.date}}"}{% unless forloop.last %},{% endunless %}
-                    {% endfor %}
-                    ]
-                
-                // TODO ajouter sponsors
-            }
-            {% unless forloop.last %},{% endunless %}
-        {% endfor %}]
-        {% unless forloop.last %},{% endunless %}
-        {% endfor %}
-    };
-    var incubators = [
-        {% for incubator in incubators %} {
-        id: "{{incubator.id}}".replace('/incubateurs/', ''),
-        title: "{{incubator.title}}",
-        url: "/startups/?incubateur={{ incubator.id | remove: '/incubateurs/' }}"
-        },
-        {% endfor %}
-    ];
-    var phases = [
-        {% for phase in site.phases %}
-            {% assign counter_target = phase.id | remove: "/phases/" %}
-            {% assign counter = site.startups | where_phase: counter_target | size %}
-            { "status"        : "{{ phase.status }}"
-            , "label"      : "{{ phase.label }}"
-            , "counter"      : "{{ phase.counter }}"
-            , "type_label" : "{{phase.type_label}}"
-            }
-            {% unless forloop.last %},{% endunless %}
-        {% endfor %}
-    ];
+  var data = {
+      {% for phase in site.phases %}
+      {% assign startups = site.startups | where_phase: phase.status %}
+      "{{phase.status}}": [{% for startup in startups %}
+          {% assign startup_id = startup.id | remove: '/startups/' %}
+          {% assign screenshot_files = site.static_files | where: "startups_img", true %}
+          {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
+          {% if screenshot_file %}
+          {% assign screenshot_path = screenshot_file.path %}
+          {% else %}
+          {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
+          {% endif %}
+          {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
+          {% assign incubator = incubators | where:'id', incubator_id | first %}
+          { "id"        : "{{ startup.id | remove: '/startups/' }}"
+          , "type"      : "startup"
+          , "phase": "{{ status }}"
+          , "incubator_id" : "{{startup.incubator}}"
+          , "incubator_title": "{{ incubator.title }}"
+          , "sponsors": [{% for sponsorId in startup.sponsors %}
+              {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
+              {
+                  "acronym" : "{{ sponsor.acronym }}",
+                  "name": "{{ sponsor.name }}"
+              }
+              {% unless forloop.last %},{% endunless %}
+          {% endfor %}]
+          , "attributes":
+              { "name"  : "{{ startup.title }}"
+              , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
+              , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}{% if startup.link %}
+              , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
+              , "repository": "{{ startup.repository}}"{% endif %}
+              , "contact": "{{startup.contact}}"
+              , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
+              , "screenshot-url": "{{ screenshot_path }}"
+              , "usertypes": [
+                  {% for usertype in startup.usertypes %}
+                      "{{usertype}}"{% unless forloop.last %},{% endunless %}
+                  {% endfor %}
+                  ]
+              , "thematiques": [
+                  {% for thematique in startup.thematiques %}
+                      "{{thematique}}"{% unless forloop.last %},{% endunless %}
+                  {% endfor %}
+                  ]
+              , "phases": [
+                  {% for phase in startup.phases %}
+                      { "name": "{{phase.name}}", "start": "{{phase.start}}", "end": "{{phase.end}}"}{% unless forloop.last %},{% endunless %}
+                  {% endfor %}
+                  ]
+              }
+          , "relationships":
+              { "incubator":
+                  { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
+                  }
+              }
+          , "events":[
+                  {% for event in startup.events %}
+                      { "name": "{{event.name}}", "date": "{{event.date}}"}{% unless forloop.last %},{% endunless %}
+                  {% endfor %}
+                  ]
+
+              // TODO ajouter sponsors
+          }
+          {% unless forloop.last %},{% endunless %}
+      {% endfor %}]
+      {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+  };
+  var incubators = [
+      {% for incubator in incubators %} {
+      id: "{{incubator.id}}".replace('/incubateurs/', ''),
+      title: "{{incubator.title}}",
+      url: "/startups/?incubateur={{ incubator.id | remove: '/incubateurs/' }}"
+      },
+      {% endfor %}
+  ];
+  var phases = [
+      {% for phase in site.phases %}
+          {% assign counter_target = phase.id | remove: "/phases/" %}
+          {% assign counter = site.startups | where_phase: counter_target | size %}
+          { "status"        : "{{ phase.status }}"
+          , "label"      : "{{ phase.label }}"
+          , "counter"      : "{{ phase.counter }}"
+          , "type_label" : "{{phase.type_label}}"
+          }
+          {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+  ];
 </script>
 
 <section class="fr-container">
-    <h1 class="fr-h2">Explorer nos services numériques</h1>
+  <h1 class="fr-h2">Explorer nos services numériques</h1>
+</section>
+
+<section class="fr-container-fluid fr-py-2w fr-mb-3w blue-background">
+  {% include startups-filters.html prefix='filters-' %}    
 </section>
 
 <div class="fr-container">
-    <div class="fr-grid-row">
-        <div class="fr-col-4 fr-hidden fr-unhidden-xl">
-            <div class="fr-card fr-mr-3w search-card">
-                <div class="fr-card__body">
-                    <div class="fr-card__content">
-                        <h2 class="fr-card__title">
-                            Filtres de recherche
-                        </h2>
-                        <div class="fr-card__desc fr-mt-6w">
-                            {% include startups-filters.html prefix='filters-' %}
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="fr-col">
-            <section class="fr-hidden-xl">
-                <div class="fr-accordion fr-my-6w">
-                    <h3 class="fr-accordion__title">
-                        <button class="fr-accordion__btn" aria-expanded="false" aria-controls="fr-accordion-0-body-0" data-fr-js-collapse-button="true">Filtres de recherche</button>
-                    </h3>
-                    <div class="fr-collapse" id="fr-accordion-0-body-0">
-                        {% include startups-filters.html prefix='collapse-filters-' %}
-                    </div>
-                </div>
-            </section>
+  <div class="fr-grid-row">
+    <div class="fr-col">
 
-            <h2>
-                {% assign globalCounter = site.startups | count_all_active_startups %}
-                <span class="global-search-counter">{{ globalCounter }}</span>
-                <span class="global-search-counter-label">
-                    {% if globalCounter > 1 %}
-                        services numériques
-                    {% else %}
-                        service numérique
-                    {% endif %}
-                </span>
-            </h2>
+      <h2>
+        {% assign globalCounter = site.startups | count_all_active_startups %}
+        <span class="global-search-counter">{{ globalCounter }}</span>
+        <span class="global-search-counter-label"> {% if globalCounter > 1 %} services numériques {% else %} service numérique {% endif %} </span>
+      </h2>
 
-            {% for incubator in incubators %}
-                {% assign incubator_id = incubator.id | remove: '/incubateurs/' %}
-                {% assign organisation = site.organisations  | where: 'id', incubator.owner | first %}
-                <section id="{{ incubator_id }}" class="incubator-header fr-mb-6w" style="display: none;">
-                    <div class="fr-grid-row fr-grid-row--gutters  blue-background fr-p-3w fr-m-0">
-                        <div class="fr-col-2 incubator-logo">
-                            <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
-                        </div>
-                        <div class="fr-col">
-                            <div>
-                                <h1 class="fr-card__title">{{ incubator.title }}</h1>
-                                <p class="fr-card__title-subtitle">{{ organisation.name }}</p>
-                                <div class="markdown">{{ incubator.content }}</div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-            {% endfor %}
-
+      {% for incubator in incubators %} {% assign incubator_id = incubator.id | remove: '/incubateurs/' %} {% assign organisation = site.organisations | where: 'id', incubator.owner | first %}
+      <section id="{{ incubator_id }}" class="incubator-header fr-mb-6w" style="display: none">
+        <div class="fr-grid-row fr-grid-row--gutters blue-background fr-p-3w fr-m-0">
+          <div class="fr-col-2 incubator-logo">
+            <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}" />
+          </div>
+          <div class="fr-col">
             <div>
-                <div id="no-data-message" style="display: none;">
-                    <p>Il n'y a pas de résultats qui correspondent à ces filtres</p>
-                </div>
-
-                {% assign phases = site.phases | sort: 'order' %}
-                {% for phase in phases %}
-                    {% assign counter_target = phase.id | remove: "/phases/" %}
-                    {% assign counter = site.startups | where_phase: counter_target | size %}
-                    {% assign plural = "" %}
-                    {% if counter > 1 %}
-                        {% assign plural = "s" %}
-                    {% endif %}
-                    <div id="{{ phase.status }}" class="fr-container-fluid{% if phase.status != 'success' %} fr-my-6w{% endif %}">
-                        <!-- Les span contenant les class "phase-counter" et "phase-label" permettent d'afficher le counter des startups grâce à des getElementsByClassName dans le fichier javascript dans search-startup.js -->
-                        {% if phase.status == 'success' %}
-                            <h3><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> <span>{{ phase.label | downcase }}{{ plural }}</span></h3>
-                        {% elsif phase.status == 'alumni' %}
-                            <h3>Nos {{ phase.label | downcase }}</h3>
-                        {% else %}
-                            <h3><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en {{ phase.label | downcase }}</h3>
-                        {% endif %}
-
-                        <p>{{ phase.short_description }}</p>
-
-                        <div class="fr-grid-row fr-grid-row--gutters startups">
-                            {% assign startups = site.startups | where_phase: phase.status %}
-                            {% for startup in startups %}
-                                <div class="fr-col-12 fr-col-md-4 fr-mb-2w">
-                                    {% include card-startup.html startup = startup %}
-                                </div>
-                            {% endfor %}
-                        </div>
-                    </div>
-                {% endfor %}
+              <h1 class="fr-card__title">{{ incubator.title }}</h1>
+              <p class="fr-card__title-subtitle">{{ organisation.name }}</p>
+              <div class="markdown">{{ incubator.content }}</div>
             </div>
+          </div>
         </div>
+      </section>
+      {% endfor %}
+
+      <div>
+        <div id="no-data-message" style="display: none">
+          <p>Il n'y a pas de résultats qui correspondent à ces filtres</p>
+        </div>
+
+        {% assign phases = site.phases | sort: 'order' %} {% for phase in phases %} {% assign counter_target = phase.id | remove: "/phases/" %} {% assign counter = site.startups | where_phase: counter_target | size %} {% assign plural = "" %} {% if counter > 1 %} {% assign plural = "s" %} {% endif %}
+        <div id="{{ phase.status }}" class="fr-container-fluid{% if phase.status != 'success' %} fr-my-6w{% endif %}">
+          <!-- Les span contenant les class "phase-counter" et "phase-label" permettent d'afficher le counter des startups grâce à des getElementsByClassName dans le fichier javascript dans search-startup.js -->
+          {% if phase.status == 'success' %}
+          <h3><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> <span>{{ phase.label | downcase }}{{ plural }}</span></h3>
+          {% elsif phase.status == 'alumni' %}
+          <h3>Nos {{ phase.label | downcase }}</h3>
+          {% else %}
+          <h3><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en {{ phase.label | downcase }}</h3>
+          {% endif %}
+
+          <p>{{ phase.short_description }}</p>
+
+          <div class="fr-grid-row fr-grid-row--gutters startups">
+            {% assign startups = site.startups | where_phase: phase.status %} {% for startup in startups %}
+            <div class="fr-col-12 fr-col-md-4 fr-mb-2w">{% include card-startup.html startup = startup %}</div>
+            {% endfor %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
     </div>
+  </div>
 </div>
 
 <!-- Filtres -->
 <script>
-    document.querySelectorAll('.select-phase').forEach((selectElement) => {
-        selectElement.addEventListener('change', function (e) {
-            var url = new URL(location.href);
-            var selectedPhase = e.target.value;
-            var hash = "#" + selectedPhase;
-            location.href = hash;
-            history.replaceState(null, null, url.origin + url.pathname + window.location.search + hash);
-        });
-    })
+  document.querySelectorAll(".select-phase").forEach((selectElement) => {
+    selectElement.addEventListener("change", function (e) {
+      var url = new URL(location.href);
+      var selectedPhase = e.target.value;
+      var hash = "#" + selectedPhase;
+      location.href = hash;
+      history.replaceState(null, null, url.origin + url.pathname + window.location.search + hash);
+    });
+  });
 </script>
-
 
 <script src="/assets/additional/js/search-startup.js" type="text/javascript"></script>
 <script>
-    var urlParams = new URLSearchParams(window.location.search);
-    var incubatorValue = urlParams.get('incubateur');
-    var usertypesValue = urlParams.get('usertypes');
-    var nationalImpactValue = urlParams.get('national_impact');
-    data = generateDataWithHtmlCards(data);
+  var urlParams = new URLSearchParams(window.location.search);
+  var incubatorValue = urlParams.get("incubateur");
+  var usertypesValue = urlParams.get("usertypes");
+  var thematiquesValue = urlParams.get("thematiques");
+  var nationalImpactValue = urlParams.get("national_impact");
+  data = generateDataWithHtmlCards(data);
 
-    document.querySelectorAll('.select-operateur').forEach((selectElement) => {
-        createIncubatorSelect(selectElement, data, incubators, incubatorValue);
-    })
+  document.querySelectorAll(".select-operateur").forEach((selectElement) => {
+    createIncubatorSelect(selectElement, data, incubators, incubatorValue);
+  });
 
-    document.querySelectorAll('.select-usertypes').forEach((selectElement) => {
-        createUsertypesSelect(selectElement, data, usertypesValue)
-    })
+  document.querySelectorAll(".select-usertypes").forEach((selectElement) => {
+    createUsertypesSelect(selectElement, data, usertypesValue);
+  });
 
-    document.querySelectorAll('.select-impact').forEach((selectElement) => {
-        createNationalImpactSelect(selectElement, data, nationalImpactValue)
-    })
+  document.querySelectorAll(".select-thematiques").forEach((selectElement) => {
+    createThematiquesSelect(selectElement, data, thematiquesValue);
+  });
+
+  document.querySelectorAll(".select-impact").forEach((selectElement) => {
+    createNationalImpactSelect(selectElement, data, nationalImpactValue);
+  });
 </script>

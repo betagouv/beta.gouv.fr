@@ -9,8 +9,11 @@ phases:
   - name: construction
     start: 2024-01-18
 sponsors:
-  - /organisations/justice
+  - /organisations/mj
+thematiques:
+  - Justice
 ---
+
 ## Contexte
 
 Le pôle précontentieux de la Direction des services judiciaires (DSJ) traite les demandes amiables d’indemnisation des usagers ou tiers qui ont subi des préjudices résultant du fonctionnement défectueux ou non du service public de la justice judiciaire.

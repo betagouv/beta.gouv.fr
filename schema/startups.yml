@@ -15,9 +15,11 @@ mapping:
             - /organisations/action-logement
             - /organisations/acoss
             - /organisations/agence-bio
+            - /organisations/agence-national-de-l-habitat
             - /organisations/anah
             - /organisations/anct
             - /organisations/ans
+            - /organisations/ansm
             - /organisations/anlci
             - /organisations/anssi
             - /organisations/armees
@@ -38,6 +40,8 @@ mapping:
             - /organisations/ddtm34
             - /organisations/ddtm29
             - /organisations/dia-tnd
+            - /organisations/direction-de-l-environnement-de-l-amenagement-et-du-logement-de-la-reunion
+            - /organisations/direction-generale-des-etrangers-en-france
             - /organisations/departement-oise
             - /organisations/departement-pas-de-calais
             - /organisations/departement-var
@@ -58,6 +62,7 @@ mapping:
             - /organisations/dgesco
             - /organisations/dgesip
             - /organisations/dgfip
+            - /organisations/dgpe
             - /organisations/dgitm
             - /organisations/dgos
             - /organisations/dgpat
@@ -74,6 +79,7 @@ mapping:
             - /organisations/drieat
             - /organisations/dsr
             - /organisations/fnccr
+            - /organisations/francetravail
             - /organisations/hcc
             - /organisations/hcp
             - /organisations/idfm
@@ -87,6 +93,7 @@ mapping:
             - /organisations/mctrct
             - /organisations/meae
             - /organisations/mefr
+            - /organisations/mefsin
             - /organisations/menjs
             - /organisations/mesr
             - /organisations/mj
@@ -95,7 +102,7 @@ mapping:
             - /organisations/mtfp
             - /organisations/msjop
             - /organisations/nouvelle-caledonie
-            - /organisations/pole-emploi
+            - /organisations/ofpra
             - /organisations/sgdsn
             - /organisations/sgpe
             - /organisations/shom
@@ -191,6 +198,10 @@ mapping:
             - entreprise
             - association
             - etablissement-scolaire
+  "thematiques":
+    type:      seq
+    sequence:
+        - type:      str
   "analyse_risques":
     type:      bool
   "analyse_risques_url":
@@ -203,3 +214,5 @@ mapping:
      - totalement conforme
      - partiellement conforme
      - non conforme
+  "mon_service_securise":
+    type:      bool

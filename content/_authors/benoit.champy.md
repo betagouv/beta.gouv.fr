@@ -10,9 +10,10 @@ missions:
     status: admin
     employer: DINUM
     startups:
-      - pass-sport
-      - france.nation.verte.agir
       - acceslibre
+      - france.nation.verte.agir
+      - pass-sport
+      - reperer.identifier.victimes.teh
 startups:
   - pass-sport
   - france.nation.verte.agir
@@ -22,6 +23,8 @@ badges:
 competences:
   - UI
   - UX
+  - Coaching
+  - Facilitation
 previously:
   - cnr
   - la.bonne.renov

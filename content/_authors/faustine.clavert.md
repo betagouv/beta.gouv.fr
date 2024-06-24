@@ -6,7 +6,7 @@ link: https://menzao.fr/
 github: Faketine
 missions:
   - start: 2023-06-01
-    end: 2024-06-29
+    end: 2024-12-31
     status: service
     employer: Omnicité
     startups:

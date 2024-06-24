@@ -29,6 +29,7 @@ competences:
   - Administration Système
   - Développement Frontend
   - Développement Backend
+  - Sécurité informatique
 teams:
   - /teams/animation-dinum
 ---
