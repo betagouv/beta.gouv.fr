@@ -5,8 +5,8 @@ mission: >-
   profils des personnes en demande d'emploi grâce à une validation de
   compétences
 sponsors:
-  - /organisations/pole-emploi
-incubator: pole-emploi
+  - /organisations/francetravail
+incubator: francetravail
 link: https://candidat.francetravail.fr/competences-validees/
 contact: competences-validees@francetravail.fr
 usertypes:

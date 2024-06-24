@@ -2,8 +2,8 @@
 title: Maintenant!
 mission: Recruter des gens, pas des CV !
 sponsors:
-  - /organisations/pole-emploi
-incubator: pole-emploi
+  - /organisations/francetravail
+incubator: francetravail
 link: https://maintenant.pole-emploi.fr
 repository: null
 contact: maintenant@pole-emploi.fr
@@ -50,10 +50,10 @@ En septembre 2016, six mois après le lancement du projet, le service est ouvert
 
 ## Transfert à l'offre de service de Pôle emploi en 2019
 
-Sur Maintenant!, les chiffres constatés étaient les suivants (chiffres actualisés pour le premier semestre 2019) : 20% des recruteurs qui utilisent Maintenant! recrutent effectivement ; le temps médian d’une première mise en relation était de 2 minutes pour 875 entretiens déclarés chaque mois. 
+Sur Maintenant!, les chiffres constatés étaient les suivants (chiffres actualisés pour le premier semestre 2019) : 20% des recruteurs qui utilisent Maintenant! recrutent effectivement ; le temps médian d’une première mise en relation était de 2 minutes pour 875 entretiens déclarés chaque mois.
 
-Fort de cet impact, fin 2018, un comité présidé par le Directeur général de Pôle emploi décide de réintégrer le produit dans l’offre de services de Pôle emploi. Il sera repris par la Direction des Services aux Entreprises et la Direction des Systèmes d’Informations (DSI). L’enjeu ? Partager avec les repreneurs les méthodes d’une équipe pluri-disciplinaire, en amélioration continue. 
+Fort de cet impact, fin 2018, un comité présidé par le Directeur général de Pôle emploi décide de réintégrer le produit dans l’offre de services de Pôle emploi. Il sera repris par la Direction des Services aux Entreprises et la Direction des Systèmes d’Informations (DSI). L’enjeu ? Partager avec les repreneurs les méthodes d’une équipe pluri-disciplinaire, en amélioration continue.
 
-Ainsi, les développeurs de la DSI ont pu apprendre de nouvelles technologies (Scala, React), ont poursuivi les bonnes pratiques d’une approche orientée utilisateurs (mesure de la valeur, rencontres régulières), et ont décidé de continuer l’amélioration continue du service afin de l’adapter sans cesse aux commentaires d’utilisateurs toujours plus nombreux. Principal enseignement : ne pas d’abord chercher à fusionner le produit à un socle technique existant; mais plutôt concentrer ses efforts sur le partage de méthodes de travail et d’objectifs de croissance du service. 
+Ainsi, les développeurs de la DSI ont pu apprendre de nouvelles technologies (Scala, React), ont poursuivi les bonnes pratiques d’une approche orientée utilisateurs (mesure de la valeur, rencontres régulières), et ont décidé de continuer l’amélioration continue du service afin de l’adapter sans cesse aux commentaires d’utilisateurs toujours plus nombreux. Principal enseignement : ne pas d’abord chercher à fusionner le produit à un socle technique existant; mais plutôt concentrer ses efforts sur le partage de méthodes de travail et d’objectifs de croissance du service.
 
 Finalement, le produit termine sa période d'incubation en juin 2019. Il est passé d’une équipe à l’autre en conservant son agilité. L'équipe actuelle est composée de 0.3 ETP (équivalent temps-plein) métier, 1.5 ETP de développement. **La passation de Maintenant! a permis de faire évoluer significativement les méthodes de travail et de contribuer à la transformation des pratiques de l’organisation Pôle emploi.**

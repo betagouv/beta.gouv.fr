@@ -2,7 +2,7 @@
 title: Marché de l'inclusion
 mission: "Aider les structures inclusives à développer leur chiffre d’affaires"
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
 repository: https://github.com/betagouv/itou-marche
