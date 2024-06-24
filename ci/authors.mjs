@@ -4,7 +4,7 @@ import fs from "fs/promises";
 import { z } from "zod";
 
 // todo: share with espace-membre
-const domaines = ["Animation", "Coaching", "Déploiement", "Design", "Développement", "Intraprenariat", "Produit", "Autre"];
+const domaines = ["Animation", "Coaching", "Déploiement", "Design", "Développement", "Intraprenariat", "Produit", "Data", "Autre"];
 
 const preventDuplicates = (val, ctx) => {
   if (val && val.length !== new Set(val).size) {
@@ -38,4 +38,13 @@ export const schema = z.object({
   domaine: z.enum(domaines),
   competences: z.array(z.string()).optional().nullable().superRefine(preventDuplicates),
   teams: z.array(z.string()).optional().nullable(),
-});
+}).superRefine((obj, ctx) => {
+  obj.missions.forEach((mission) => {
+    if (mission.end && mission.end<=mission.start) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        message: `Mission.end should be after mission.start`,
+      });
+    }
+  })
+})

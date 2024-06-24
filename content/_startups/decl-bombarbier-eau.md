@@ -9,8 +9,9 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-09-10
+thematiques:
+  - Logement
 ---
-
 ## Contexte
 
 Les acteurs de la sécurités civile impliqués dans la lutte contre les incendies d’espaces naturels font face à de nombreux enjeux.

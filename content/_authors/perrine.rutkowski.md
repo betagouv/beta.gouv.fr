@@ -1,6 +1,6 @@
 ---
 fullname: Perrine Rutkowski
-role: Intrapreneure
+role: Intrapreneure, responsable d'incubateur Accélérema
 domaine: Intraprenariat
 github: PerrineRut
 missions:

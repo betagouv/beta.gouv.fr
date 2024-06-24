@@ -8,8 +8,9 @@ missions:
     status: admin
     employer: Caisse des dépots
     startups:
-      - conseiller-numerique
+      - france-numerique-ensemble
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 ---
+
 je suis chargé de mission au sein de la caisse des dépôt en appuis à la startup conseiller numerique

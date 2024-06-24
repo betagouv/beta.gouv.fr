@@ -18,4 +18,4 @@ startups:
   - notifications
   - valorisation.des.stages.pro
 ---
-Lead dev @ Brigade
+Lead dev à l'Incubateur des Services Numériques (ISN).

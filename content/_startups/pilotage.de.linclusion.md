@@ -2,7 +2,7 @@
 title: Pilotage de l'inclusion
 mission: "Valoriser et diffuser la donnée pour favoriser les dispositifs d'inclusion"
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
 stats: true
@@ -19,6 +19,9 @@ usertypes:
   - etat
   - collectivite-territoriale
 accessibility_status: partiellement conforme
+thematiques:
+  - Travail / Emploi
+  - Open-Data
 ---
 ## Contexte
 

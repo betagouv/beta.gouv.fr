@@ -7,10 +7,11 @@ missions:
     end: 2025-10-31
     status: admin
     startups:
-      - sparte
+      - mon-diagnostic-artificialisation
 badges:
   - segur
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
 ---
+
 Le spartiate qui voulut mesurer l'artificialisation
