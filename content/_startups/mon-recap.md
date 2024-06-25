@@ -2,7 +2,7 @@
 title: Mon Recap
 mission: Faciliter l'organisation des démarches des personnes en parcours d'insertion
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
 contact: annaelle.garcia@beta.gouv.fr
@@ -19,11 +19,11 @@ thematiques:
 ---
 ## Contexte
 
-Le parcours d’une personne en difficulté d’insertion socio-professionnelle nécessite l’intervention de nombreux acteurs, qu'ils soient professionnels ou non. 
+Le parcours d’une personne en difficulté d’insertion socio-professionnelle nécessite l’intervention de nombreux acteurs, qu'ils soient professionnels ou non.
 
-Parmi eux, des acteurs dits “de proximité” tels que la famille, les amis, les pairs, les bénévoles, les mentors et les médiateurs, sont souvent disponibles et accessibles pour fournir un soutien et des conseils. 
+Parmi eux, des acteurs dits “de proximité” tels que la famille, les amis, les pairs, les bénévoles, les mentors et les médiateurs, sont souvent disponibles et accessibles pour fournir un soutien et des conseils.
 
-D﻿e fait, une multitude d'acteurs interviennent dans la résolution d'une problématique. 
+D﻿e fait, une multitude d'acteurs interviennent dans la résolution d'une problématique.
 
 ## Le problème
 
