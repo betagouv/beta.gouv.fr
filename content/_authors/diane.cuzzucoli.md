@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: MASA
     startups:
-      - pspc
+      - maestro
 memberType: autre
 ---
 Ingénieure Analyse de risque - microbiologiste - chaine alimentaire

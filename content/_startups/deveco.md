@@ -22,6 +22,8 @@ phases:
     end: 2022-01-31
   - name: construction
     start: 2022-01-31
+  - name: acceleration
+    start: 2024-04-01
 ---
 ## Le contexte
 

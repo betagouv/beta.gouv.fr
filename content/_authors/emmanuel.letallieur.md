@@ -14,4 +14,9 @@ startups:
   - signalement
 badges:
   - segur
+competences:
+  - Développement Frontend
+  - Développement Backend
+  - UX
+  - Product design
 ---

@@ -79,6 +79,7 @@ mapping:
             - /organisations/drieat
             - /organisations/dsr
             - /organisations/fnccr
+            - /organisations/francetravail
             - /organisations/hcc
             - /organisations/hcp
             - /organisations/idfm
@@ -102,7 +103,6 @@ mapping:
             - /organisations/msjop
             - /organisations/nouvelle-caledonie
             - /organisations/ofpra
-            - /organisations/pole-emploi
             - /organisations/sgdsn
             - /organisations/sgpe
             - /organisations/shom
