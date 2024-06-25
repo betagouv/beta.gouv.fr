@@ -5,19 +5,16 @@ mission: >-
   profils des personnes en demande d'emploi grâce à une validation de
   compétences
 sponsors:
-  - /organisations/pole-emploi
-incubator: pole-emploi
-link: https://competencevalidee.pole-emploi.fr/
-contact: competencevalidee@pole-emploi.fr
+  - /organisations/francetravail
+incubator: francetravail
+link: https://candidat.francetravail.fr/competences-validees/
+contact: competences-validees@francetravail.fr
 usertypes:
   - particulier
 events: []
 phases:
   - name: investigation
     start: 2020-07-06
-    end: 2020-10-30
-  - name: investigation
-    start: 2020-11-02
     end: 2020-12-31
   - name: construction
     start: 2021-02-27

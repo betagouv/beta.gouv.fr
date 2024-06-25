@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/clement-venaruzzo-288084206/
 missions:
   - start: 2024-01-23
-    end: 2024-04-30
+    end: 2024-12-31
     status: independent
     employer: ''
     startups:

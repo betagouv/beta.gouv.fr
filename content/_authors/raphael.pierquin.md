@@ -7,13 +7,14 @@ link: https://ut7.fr/
 github: raphaelpierquin
 missions:
   - start: 2018-03-13
-    end: 2024-07-01
+    end: 2024-12-01
     status: service
-    employer: ut7
+    employer: /ut7
     startups:
-      - l-immersion-facile
       - données-et-territoires
       - l-application-du-cej
+      - l-immersion-facile
+      - grist.numerique.gouv.fr
 startups:
   - l-immersion-facile
   - données-et-territoires

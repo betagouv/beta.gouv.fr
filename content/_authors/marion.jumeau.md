@@ -4,7 +4,7 @@ role: Customer Success
 domaine: Animation
 missions:
   - start: 2022-06-20
-    end: 2024-07-01
+    end: 2025-01-01
     status: independent
     employer: Malt
     startups:
@@ -12,4 +12,4 @@ missions:
 startups:
   - trackdechets
 ---
-Passionnée par le marketing et les voyages.
+Passionnée par les rencontres, et les voyages.

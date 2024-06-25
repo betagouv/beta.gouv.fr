@@ -4,13 +4,14 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-08-29
-    end: 2024-06-15
+    end: 2024-11-15
     status: independent
-    employer: ''
+    employer: Scopyleft
     startups:
       - données-et-territoires
+      - grist.numerique.gouv.fr
 startups:
   - données-et-territoires
 memberType: beta
 ---
-Facilitateur - utilise des mots simples pour expliquer des choses compliqués
+Formateur - No-code - BizDev - Customer Success

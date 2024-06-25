@@ -1,6 +1,6 @@
 ---
-fullname: Pierre MATHE
-role: fonction support
+fullname: Pierre Mathe
+role: Fonction chargé de déploiement
 domaine: Autre
 link: https://www.linkedin.com/in/pierre-mathe-74544b151/
 missions:
@@ -9,7 +9,9 @@ missions:
     status: admin
     employer: ''
     startups:
-      - itou
+      - les-emplois
+      - dora
 startups:
-  - itou
+  - les-emplois
+  - dora
 ---

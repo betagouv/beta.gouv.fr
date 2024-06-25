@@ -1,11 +1,11 @@
 ---
 fullname: Armon Rohani
 role: Data Engineer
-domaine: Développement
+domaine: Data
 github: calimoose
 missions:
   - start: 2024-03-18
-    end: 2024-06-28
+    end: 2024-12-28
     status: independent
     employer: Malt
     startups:

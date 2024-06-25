@@ -1,6 +1,6 @@
 ---
 fullname: Yasmina Hafidi
-role: Cheffe de projet "Mon stage de troisième"
+role: Cheffe de projet-intrapreneuse "Mon stage de troisième"
 domaine: Autre
 missions:
   - start: 2021-08-16
