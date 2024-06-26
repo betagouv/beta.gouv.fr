@@ -9,4 +9,8 @@ missions:
     employer: Malt
     startups:
       - mesaidesreno
+github: morganmerzouk
+competences:
+  - Développement Full-stack
+memberType: beta
 ---
