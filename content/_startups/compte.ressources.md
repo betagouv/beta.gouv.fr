@@ -9,8 +9,6 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-02-15
-  - name: alumni
-    start: 2023-06-15
   - name: construction
     start: 2024-06-14
 thematiques:
