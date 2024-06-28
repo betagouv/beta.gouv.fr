@@ -1,10 +1,10 @@
 ---
-link: https://stop-punaises.beta.gouv.fr/
+link: https://stop-punaises.gouv.fr/
 mission: Accompagner les usagers confrontés à une infestation de punaises de lit
 repository: https://github.com/MTES-MCT/stop-punaises
 incubator: mtes
 title: Stop-Punaises
-contact: notifications@stop-punaises.beta.gouv.fr
+contact: notifications@stop-punaises.gouv.fr
 sponsors:
   - /organisations/mtes
 phases:
@@ -13,6 +13,11 @@ phases:
 thematiques:
   - Santé
   - Logement
+usertypes:
+  - particulier
+  - entreprise
+  - etat
+  - collectivite-territoriale
 ---
 ## Contexte
 Face à la prolifération des punaises de lit constatée ces dernières années, le gouvernement a publié un Plan Interministériel de Lutte contre les Punaises de Lit, devant permettre d'étudier et lutter contre ce fléau.

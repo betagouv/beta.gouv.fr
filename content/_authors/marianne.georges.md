@@ -1,12 +1,16 @@
 ---
-domaine: Autre
+domaine: Produit
 fullname: Marianne Georges
-role: Autre
+role: Produit
 missions:
-  - start: 2024-06-04
+  - start: 2023-02-07
     end: 2024-12-31
     status: service
     employer: Diair
     startups:
       - refugies.info
+competences:
+  - UX
+  - Product strategy
+memberType: beta
 ---

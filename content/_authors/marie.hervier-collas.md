@@ -2,6 +2,7 @@
 domaine: Intraprenariat
 fullname: Marie Hervier-Collas
 role: Intraprenariat
+avatar: /img/authors/marie.hervier-collas.jpg
 missions:
   - start: 2024-04-04
     end: 2024-10-04
