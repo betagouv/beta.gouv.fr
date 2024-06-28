@@ -4,8 +4,8 @@ mission: >-
   Faciliter l'accès à des informations claires et pratiques sur les métiers et
   les compétences
 sponsors:
-  - /organisations/pole-emploi
-incubator: pole-emploi
+  - /organisations/francetravail
+incubator: francetravail
 contact: catherine.beauvois@francetravail.fr
 usertypes:
   - particulier
@@ -24,7 +24,7 @@ phases:
 accessibility_status: partiellement conforme
 ---
 ### Description du produit
-Accessible sur le site www.francetravail.fr, MétierScope vise à 
+Accessible sur le site www.francetravail.fr, MétierScope vise à
 
 1. **Aider les personnes en transition professionnelle, qui recherchent de l’information sur les métiers, les compétences et les démarches,**
 2. **Confirmer une piste professionnelle**
@@ -50,7 +50,7 @@ Les personnes en reconversion professionnelle ont besoin d’informations claire
 
 📋  les offres d’emploi disponibles
 
-**des services facilitant la démarche de mobilité :** 
+**des services facilitant la démarche de mobilité :**
 
 ✅ les métiers en proximité (qui mobilisent tout ou partie des même compétences, transférables)
 
@@ -62,15 +62,15 @@ Les personnes en reconversion professionnelle ont besoin d’informations claire
 
 ✅ …
 
-Les compétences et fiches métier sont consultables par différentes entrées : une recherche par mots clés, une recherche par ordre alphabétique, une rubrique « centres d’intérêt », une rubrique « secteurs d’activité ». 
+Les compétences et fiches métier sont consultables par différentes entrées : une recherche par mots clés, une recherche par ordre alphabétique, une rubrique « centres d’intérêt », une rubrique « secteurs d’activité ».
 
 Une rubrique sur les métiers d’avenir sera bientôt disponible.
 
 MétierScope permet également aux personnes de découvrir la nomenclature des compétences du ROME 4.0 et ce faisant les principales compétences recherchées sur le marché du travail.
 
-Ainsi, MétierScope aide les personnes à identifier leurs compétences issues de leur expérience professionnelle passée et à trouver de nouveaux métiers pour évoluer. 
+Ainsi, MétierScope aide les personnes à identifier leurs compétences issues de leur expérience professionnelle passée et à trouver de nouveaux métiers pour évoluer.
 
-Pour les personnes connues et identifiées de France travail, il est ainsi possible d’enrichir directement son profil de compétences tout au long de sa navigation sur le site et par la suite d’en extraire un CV. 
+Pour les personnes connues et identifiées de France travail, il est ainsi possible d’enrichir directement son profil de compétences tout au long de sa navigation sur le site et par la suite d’en extraire un CV.
 
 ### Cibles
 **💡Sur MétierScope, l’utilisateur est au centre de la démarche de développement du service.**
@@ -78,7 +78,7 @@ Pour les personnes connues et identifiées de France travail, il est ainsi possi
 L’ensemble des personnes souhaitant s’informer sur les métiers et compétences et/ou en reconversion professionnelle.
 
 ### Indicateurs d’impact
-🔸 Nombre de visites de MétierScope 
+🔸 Nombre de visites de MétierScope
 
 🔸 Nombre d’ouvertures de Fiche métier
 

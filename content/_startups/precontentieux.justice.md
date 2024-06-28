@@ -1,6 +1,7 @@
 ---
 mission: >-
-  Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer la qualité de service rendu aux justiciables
+  Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer
+  la qualité de service rendu aux justiciables
 incubator: justice
 title: Précontentieux justice
 contact: sylvie.voko@justice.gouv.fr
@@ -12,8 +13,10 @@ sponsors:
   - /organisations/mj
 thematiques:
   - Justice
+link: https://dev.precontentieux.app.cc.anje-justice.fr/
+repository: https://git.anje-justice.fr/se/precontentieux/modules/webapp
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#PRECONTENTIEUX
 ---
-
 ## Contexte
 
 Le pôle précontentieux de la Direction des services judiciaires (DSJ) traite les demandes amiables d’indemnisation des usagers ou tiers qui ont subi des préjudices résultant du fonctionnement défectueux ou non du service public de la justice judiciaire.
