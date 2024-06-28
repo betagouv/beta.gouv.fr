@@ -8,7 +8,7 @@ missions:
     start: 2018-04-12
     status: admin
     startups:
-      - place-des-entreprises
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 ---

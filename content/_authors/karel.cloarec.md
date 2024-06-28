@@ -1,9 +1,8 @@
 ---
 fullname: Karel Cloarec
 domaine: Coaching
-role: Coaching - Deploiement
+role: 'Coaching '
 github: Karel2
-avatar: null
 missions:
   - start: 2019-05-02
     end: 2020-05-13
@@ -26,10 +25,13 @@ missions:
     status: independent
     employer: NUMA
   - start: 2021-02-03
-    end: 2024-06-01
+    end: 2023-12-01
     status: independent
     employer: LBC
-startups: null
+  - start: 2024-06-10
+    end: 2024-12-01
+    status: independent
+    employer: Malt
 previously:
   - andi
   - urbanvitaliz
@@ -46,6 +48,7 @@ previously:
   - guichet-entreprises-nc
   - la.communaute.de.linclusion
   - monstage
+  - aidantsconnect
 badges:
   - segur
 competences:

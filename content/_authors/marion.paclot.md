@@ -1,7 +1,7 @@
 ---
 fullname: Marion Paclot
 role: Data Scientist
-domaine: Développement
+domaine: Data
 link: https://github.com/marion-paclot
 github: marion-paclot
 missions:

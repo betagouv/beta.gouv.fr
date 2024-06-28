@@ -16,7 +16,7 @@ startups:
   - place-de-marche-inclusion
 previously:
   - codedutravail
-  - itou
+  - les-emplois
 competences:
   - Croissance
   - Gestion de Produit

@@ -5,9 +5,7 @@ missions:
   - start: 2024-04-05
     end: 2025-06-30
     status: admin
-    employer: mtes
-    startups:
-      - evalpro
+    employer: ''
 competences:
   - Administration Publique
 memberType: beta

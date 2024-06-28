@@ -1,6 +1,6 @@
 ---
 fullname: Mathieu Mahr
-domaine: Autre
+domaine: Animation
 role: Responsable de la Fabrique Numérique du Ministère des Armées
 github: FabNumMMahr
 missions:

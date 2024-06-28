@@ -1,8 +1,8 @@
 ---
 fullname: Emmanuel Hyronimus
-role: UI Designer
+role: Product Designer (UX/UI)
 domaine: Design
-link: https://hyronimus.com/book
+link: https://www.linkedin.com/in/hyronimus
 missions:
   - start: 2022-11-21
     end: 2025-01-31
@@ -12,5 +12,9 @@ missions:
       - snu
 startups:
   - snu
+competences:
+  - Product design
+  - UI
+  - UX
 ---
 Designer élevé en plein air.

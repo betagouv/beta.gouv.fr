@@ -14,9 +14,9 @@ missions:
     status: independent
     employer: Numa
     startups:
-      - pspc
+      - maestro
 startups:
   - versementgetorix
-  - pspc
+  - maestro
 ---
 Coach, Designer de service

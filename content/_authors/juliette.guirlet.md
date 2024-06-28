@@ -1,11 +1,11 @@
 ---
 fullname: Juliette Guirlet
 role: Data Analyst
-domaine: Produit
+domaine: Data
 github: juguirlet
 missions:
   - start: 2024-01-03
-    end: 2024-06-30
+    end: 2024-12-31
     status: admin
     employer: ADEME
     startups:
