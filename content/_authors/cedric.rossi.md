@@ -18,6 +18,11 @@ missions:
     employer: Malt
     startups:
       - dora
+  - start: 2023-10-28
+    end: 2024-12-31
+    status: independent
+    employer: Malt
+    startups: []
 startups:
   - dora
 link: https://www.linkedin.com/in/cedric-rossi/
