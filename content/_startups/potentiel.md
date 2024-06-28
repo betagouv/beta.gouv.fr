@@ -25,6 +25,7 @@ phases:
 accessibility_status: non conforme
 thematiques:
   - Écologie
+budget_url: https://beta.gouv.fr/startups/potentiel.html
 ---
 #  Introduction - contexte
 
@@ -133,6 +134,16 @@ L’objectif, dans un premier temps, a été de dématérialiser l’ensemble de
 
 * 4,19 GW de puissance cumulée des projets ayant choisis l’instruction selon des cahiers des charges modificatifs
 * 1,05 GW avec le processus automatisé d'abandon pour recandidature
+
+# Le budget
+
+- 2020 : 127 135 € de la DGEC* et 80 400 € issus du programme FAST (Fonds d’accélération des startups d’Etat et de territoires)
+- 2021 : 973 492 € de la DGEC, 422 937 € issus du plan France Relance et 79 812 € de l'ADEME
+- 2022 : Financée par le budget de l'année 2021
+- 2023 : 507 822 € de la DGEC
+- 2024 : 881 063 € de la DGEC
+
+*Direction générale de l'Énergie et du Climat (Ministère en charge de l'énergie)
 
 # La feuille de route
 

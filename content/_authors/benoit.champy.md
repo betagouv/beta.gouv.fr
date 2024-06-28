@@ -1,7 +1,7 @@
 ---
 fullname: Benoit Champy
-domaine: Design
-role: UX Designer et Coach investigation
+domaine: Coaching
+role: Coach produit & designer
 github: benoitchampy
 link: https://www.linkedin.com/in/benoitchampy/
 missions:
