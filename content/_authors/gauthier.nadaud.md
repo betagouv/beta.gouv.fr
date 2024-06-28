@@ -17,6 +17,13 @@ missions:
     startups:
       - data-subvention
       - ma-cantine-egalim
+  - start: 2024-03-13
+    end: 2024-07-15
+    status: admin
+    employer: DINUM
+    startups:
+      - place-de-marche-inclusion
+      - homologation
 startups:
   - data-subvention
   - ma-cantine-egalim
@@ -28,5 +35,11 @@ previously:
   - jafer
   - mon-suivi-justice
   - preuve-de-covoiturage
+link: http://www.linkedin.com/in/gnadaud
+competences:
+  - Coaching
+  - Croissance
+  - Product strategy
+  - Communication
 ---
 Expert FAST à la DINUM // ex CEO & Founder d'une startup d'objets connectés (Smiirl).

@@ -9,9 +9,9 @@ missions:
     start: 2019-07-04
     status: independent
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 previously:
   - andi
 ---

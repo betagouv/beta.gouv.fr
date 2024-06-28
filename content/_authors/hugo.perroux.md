@@ -1,7 +1,7 @@
 ---
 fullname: Hugo Perroux
 role: Bizdev Benext
-domaine: Autre
+domaine: Déploiement
 github: hugoperroux
 missions:
   - start: 2021-10-21

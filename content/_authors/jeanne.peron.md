@@ -7,4 +7,7 @@ missions:
     end: 2024-06-28
     status: admin
     employer: TJ Versailles
+competences:
+  - Intrapreneur(se)
+memberType: beta
 ---
