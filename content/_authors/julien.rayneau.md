@@ -9,11 +9,11 @@ missions:
     status: independent
     employer: ''
     startups:
-      - place-des-entreprises
+      - conseillers-entreprises
       - signaux-faibles
       - transition-ecologique-des-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
   - signaux-faibles
   - transition-ecologique-des-entreprises
 previously:

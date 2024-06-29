@@ -4,7 +4,7 @@ role: Business Developper
 domaine: Déploiement
 missions:
   - start: 2023-11-07
-    end: 2024-03-31
+    end: 2024-09-30
     status: independent
     employer: Malt
     startups:

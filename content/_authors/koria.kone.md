@@ -8,8 +8,8 @@ missions:
     status: admin
     employer: GIP Inclusion
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 memberType: autre
 ---

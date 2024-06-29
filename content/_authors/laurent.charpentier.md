@@ -1,6 +1,6 @@
 ---
 fullname: Laurent Charpentier
-domaine: Autre
+domaine: Animation
 role: Responsable d&#39;incubateur
 missions:
   - start: 2021-05-12
