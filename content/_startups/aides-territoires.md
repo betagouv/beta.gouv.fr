@@ -8,7 +8,7 @@ sponsors:
   - /organisations/dhup
 incubator: mtes
 link: https://aides-territoires.beta.gouv.fr/
-repository: https://github.com/MTES-MCT/aides-territoires
+repository: https://github.com/MTES-MCT/aides-territoires-symfony
 contact: aides-territoires@beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.mte.incubateur.net/url/aides-territoires-beta-gouv-fr/

@@ -1,16 +1,22 @@
 ---
-fullname: Nadège VAUGRENARD
-role: Biz Dev
+fullname: Nadège Vaugrenard
 domaine: Produit
+role: Biz Dev
+github: NadegeVgr
 missions:
   - start: 2022-09-01
+    end: 2023-12-31
+    status: admin
+    employer: GIP Plateforme de l'inclusion
+  - start: 2024-01-01
     end: 2025-12-31
     status: admin
     employer: GIP Plateforme de l'inclusion
-    startups:
-      - la.communaute.de.linclusion
 teams:
   - /teams/gip-inclusion
-startups:
+previously:
+  - les-emplois
   - la.communaute.de.linclusion
+startups:
+  - place-de-marche-inclusion
 ---

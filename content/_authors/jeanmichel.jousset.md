@@ -1,5 +1,5 @@
 ---
-fullname: Jean-Michel JOUSSET
+fullname: Jean-Michel Jousset
 role: Analyste risques cyber
 domaine: Autre
 github: jiemji

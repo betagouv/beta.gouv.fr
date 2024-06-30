@@ -1,6 +1,6 @@
 ---
-fullname: yohann zaika
-role: operateur validation
+fullname: Yohann Zaika
+role: Opérateur Validation
 domaine: Autre
 missions:
   - start: 2023-07-20

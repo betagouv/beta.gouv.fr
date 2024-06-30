@@ -2,8 +2,8 @@
 title: Memo
 mission: Visualiser ses candidatures Pôle emploi en un clin d'oeil
 sponsors:
-  - /organisations/pole-emploi
-incubator: pole-emploi
+  - /organisations/francetravail
+incubator: francetravail
 phases:
   - name: investigation
     start: 2016-01-03
