@@ -2,7 +2,7 @@
 mission: Accélérer les rendez-vous des usagers en insertion et diminuer le taux
   d'absentéisme
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
 link: https://www.rdv-insertion.fr/
@@ -25,27 +25,28 @@ phases:
 thematiques:
   - Travail / Emploi
   - Social
+accessibility_status: non conforme
 ---
+
 ## Le problème
 
-Les parcours d’insertion sont longs et peu suivis : 
+Les parcours d’insertion sont longs et peu suivis :
 
 - Fort taux d’absentéisme aux rendez-vous contractuels du parcours (ex : les rendez-vous RSA pilotés par les CD)
-- Délais trop longs (ex : délai moyen d’orientation des BRSA de 95 jours en 2019) 
+- Délais trop longs (ex : délai moyen d’orientation des BRSA de 95 jours en 2019)
 - Risque de rupture de parcours post-signature CER élevé
 
-## Notre service 
+## Notre service
 
 Remplacer la convocation par courrier aux rendez-vous d’insertion par une invitation (mail et SMS) à prendre rendez-vous. L’usager peut alors choisir le créneau qui lui convient le mieux.
 
 Permettre aux agents de gérer une liste d’invitations, sur plusieurs motifs de RDV (ex : orientation, accompagnement, action spécifique d’insertion, suivi en IAE) et pour plusieurs types d’organisations (ex : CD, MDS, PLIE, Mission locale, associations, SIAE)
-. 
+.
 
 ## Nos usagers
 
 - Les personnes en insertion (ex. BRSA, salariés en IAE, etc.)
 - Les agents en charge de l’organisation des rendez-vous d’insertion (dans les CD et structures partenaires)
-
 
 ## Notre impact
 

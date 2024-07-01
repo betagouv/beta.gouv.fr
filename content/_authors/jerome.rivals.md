@@ -2,7 +2,7 @@
 fullname: Jérôme Rivals
 role: Développeur
 domaine: Développement
-github: jrivals
+github: jrivals-beta
 missions:
   - start: 2018-11-08
     end: 2021-04-02
@@ -21,9 +21,9 @@ missions:
     status: independent
     employer: malt
     startups:
-      - pspc
+      - maestro
 startups:
-  - pspc
+  - maestro
 previously:
   - signalement
   - zero-logement-vacant

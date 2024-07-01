@@ -9,4 +9,5 @@ missions:
     employer: Direction des Sports
     startups:
       - pass-sport
+memberType: beta
 ---

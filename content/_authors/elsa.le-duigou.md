@@ -18,7 +18,13 @@ missions:
     end: 2025-12-26
     status: admin
     employer: dinum
-    startups: []
+    startups:
+      - infomedicament
+      - medistock
+      - tous.a.bord
+      - france.consulaire
+      - teleconsultation-ald
+      - api.prevention
 previously:
   - collectif_objets
 badges:
