@@ -1,7 +1,8 @@
 ---
 title: APLyPro
-mission: Valoriser les périodes de formation en milieu professionnel (PFMP)
-  réalisées par les lycéens et lycéennes pro.
+mission: >-
+  Valoriser les périodes de formation en milieu professionnel (PFMP) réalisées
+  par les lycéens et lycéennes pro.
 sponsors:
   - /organisations/dgesco
 incubator: dinum
@@ -18,8 +19,9 @@ events:
     comment: Comité de fin d'investigation
   - name: other
     date: 2023-08-11
-    comment: Publication du décret n° 2023-765 relatif au versement d’une allocation
-      en faveur des lycéens de la voie professionnelle dans le cadre de la
+    comment: >-
+      Publication du décret n° 2023-765 relatif au versement d’une allocation en
+      faveur des lycéens de la voie professionnelle dans le cadre de la
       valorisation des périodes de formation en milieu professionnel ainsi que
       de l’arrêté déterminant les montants et les conditions de versement de
       l’allocation aux lycéens de la voie professionnelle engagés dans des
@@ -30,8 +32,12 @@ phases:
     end: 2023-03-01
   - name: construction
     start: 2023-03-01
+  - name: alumni
+    start: 2024-07-01
 thematiques:
   - Formation
+usertypes:
+  - etablissement-scolaire
 ---
 ## Contexte
 

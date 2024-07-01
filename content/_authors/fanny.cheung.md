@@ -12,9 +12,14 @@ missions:
     employer: null
     startups:
       - territoires-en-transitions
+  - start: 2024-07-01
+    end: 2024-12-31
+    status: independent
+    employer: ''
 startups:
+  - pitchou
+previously:
   - territoires-en-transitions
-previously: []
 competences:
   - Développement Backend
   - Développement Frontend
