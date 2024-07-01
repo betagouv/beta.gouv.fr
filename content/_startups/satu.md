@@ -12,7 +12,6 @@ phases:
   - name: alumni
     start: 2023-12-11
 ---
-
 ## Contexte
 
 Aujourd'hui un dispositif existe en France pour permettre aux personnes sourdes, malentendantes, sourdaveugles et aphasiques de passer des appels téléphoniques.
@@ -38,12 +37,34 @@ L'investigation a permis de mettre en lumière certains problèmes rencontrés p
 * L'impossibilité de choisir son prestataire, alors que la qualité et les temps d'attente peuvent varier d'un prestataire à l'autre.
 * La non-disponibilité des appels interpersonnels sur ordinateur. En effet, ce service n'est disponible que sur mobile, ce qui signifie que les utilisateurs doivent signer à une main, afin de tenir leur téléphone dans l'autre main, et qu'ils ont du mal à voir et lire ce que signe l'interprète sur le petit écran de leur mobile.
 
+
+Par ailleurs, l'investigation a permis de comprendre des problèmes organisationnels avec le dispositif en place :
+- En pratique, les appels vers les entreprises >250M€ CA et les services publics sont passés par les utilisateurs via les centres relais des opérateurs, qui se retrouvent donc à porter le coût d'une grande partie du système et non pas seulement des appels interpersonnels.
+
+- Les différents acteurs ne sont pas incités à ce que le service soit connu. En effet, les prestataires d'accessibilité ont souvent un contrat forfaitaire avec les entreprises et les opérateurs, alors que l'usage du service va augmenter leur coût. Les opérateurs et les entreprises risquent également des coûts qui augmentent avec l'usage, via une facturation à la minute ou une renégociation des contrats avec les prestataires. 
+
 ## Solution
 
-La refonte totale du système en place en allant vers un système plus universel dans lequel les utilisateurs peuvent choisir leur prestataire d'accessibilité pour appeler qui ils veulent 24h/24 7j/7 en illimité en ayant recours à des services tels que la transcription ou l'interprétariat en langue des signes française.
+Tous ces problèmes identifiés nous ont convaincus que la solution à mettre en place ne peut pas être incrémentale et qu'une refonte totale du système en place est nécessaire, en allant vers un système plus universel dans lequel les utilisateurs peuvent choisir leur prestataire d'accessibilité pour appeler qui ils veulent 24h/24 7j/7 en illimité en ayant recours à des services tels que la transcription ou l'interprétariat en langue des signes française.
 
-Le système devera, pas son organisation, favoriser la promotion du service auprès des personnes sourdes, malentendantes, sourdaveugles et aphasiques.
+La SATU ne deviendra donc pas une startup d'Etat.
+
+Le système devra, par son organisation, favoriser la promotion du service auprès des personnes sourdes, malentendantes, sourdaveugles et aphasiques.
+
+Pour se faire, les prestaires seront rémunérés à la minute d'appel utilisée.
+
+La SATU ne deviendra donc pas une startup d'Etat.
+
+Pour se faire, les prestaires seront rémunérés à la minute d'appel utilisée.
+
+La SATU ne deviendra donc pas une startup d'Etat.
 
 ## Stratégie
 
-Création d'un label pour les prestataires d'accessibilité et recrutement d'un gestionnaire qui labélisera les prestataires et gérera les flux financiers entre tous les acteurs (opérateurs, entreprises privées et prestataires d'accessibilité).
+Le plan d'action à venir est clairement défini : 
+
+- Définition d'un nouveau modèle de financement
+- Création d'un label pour les prestataires d'accessibilité
+- Recrutement d'un gestionnaire qui labélisera les prestataires et gérera les flux financiers entre tous les acteurs (opérateurs, entreprises privées et prestataires d'accessibilité).
+- Déploiement de la solution (2025)
+

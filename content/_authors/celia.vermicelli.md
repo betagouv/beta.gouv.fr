@@ -14,4 +14,4 @@ startups:
 badges:
   - segur
 ---
-Chargée de déploiement le jour et couturière la nuit.
+Chargée de déploiement

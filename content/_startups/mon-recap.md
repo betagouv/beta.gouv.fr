@@ -2,13 +2,13 @@
 title: Mon Recap
 mission: Faciliter l'organisation des démarches des personnes en parcours d'insertion
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
 contact: annaelle.garcia@beta.gouv.fr
 accessibility_status: non conforme
 stats: true
-stats_url: https://mon-recap.fr/?e-landing-page=page-statistiques
+stats_url: https://mon-recap.inclusion.beta.gouv.fr/statistiques/
 phases:
   - name: investigation
     start: 2023-02-13
@@ -19,11 +19,11 @@ thematiques:
 ---
 ## Contexte
 
-Le parcours d’une personne en difficulté d’insertion socio-professionnelle nécessite l’intervention de nombreux acteurs, qu'ils soient professionnels ou non. 
+Le parcours d’une personne en difficulté d’insertion socio-professionnelle nécessite l’intervention de nombreux acteurs, qu'ils soient professionnels ou non.
 
-Parmi eux, des acteurs dits “de proximité” tels que la famille, les amis, les pairs, les bénévoles, les mentors et les médiateurs, sont souvent disponibles et accessibles pour fournir un soutien et des conseils. 
+Parmi eux, des acteurs dits “de proximité” tels que la famille, les amis, les pairs, les bénévoles, les mentors et les médiateurs, sont souvent disponibles et accessibles pour fournir un soutien et des conseils.
 
-D﻿e fait, une multitude d'acteurs interviennent dans la résolution d'une problématique. 
+D﻿e fait, une multitude d'acteurs interviennent dans la résolution d'une problématique.
 
 ## Le problème
 
@@ -44,7 +44,7 @@ Mettre à disposition des personnes en difficulté d’insertion socio-professio
 -﻿ de trouver des solutions à leur problème.
 
 
-**Si vous accompagnez des personnes susceptibles d'utiliser des carnets, [découvrez notre site](https://mon-recap.fr/) ou [commandez gratuitement des carnets](https://tally.so/r/mRMDWl?reseau=0&source=sitegipbeta)**
+**Si vous accompagnez des personnes susceptibles d'utiliser des carnets, [découvrez notre site](https://mon-recap.inclusion.beta.gouv.fr/) ou [commandez gratuitement des carnets](https://tally.so/r/mRMDWl?reseau=0&source=sitegipbeta)**
 
 
 L’expérimentation sera considérée réussie si :
