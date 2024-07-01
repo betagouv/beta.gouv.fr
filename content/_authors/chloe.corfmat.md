@@ -9,4 +9,13 @@ missions:
     employer: UT7
     startups:
       - audiodescription
+competences:
+  - Accessibilité
+  - Développement Backend
+  - Développement Frontend
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - PHP
+  - PostgreSQL
+memberType: beta
 ---
