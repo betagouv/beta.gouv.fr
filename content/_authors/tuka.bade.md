@@ -13,7 +13,7 @@ missions:
 startups:
   - l-immersion-facile
 memberType: beta
-link: https:www.linkedin.com/in/tukanebaribade
+link: https://www.linkedin.com/in/tukanebaribade
 competences:
   - Data Science
   - Machine learning
