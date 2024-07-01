@@ -20,4 +20,4 @@ competences:
   - Coaching
 memberType: beta
 ---
-Entrepreneur dans le secteur des technologies depuis plus de 10 ans. 
+Entrepreneur dans le secteur des technologies depuis plus de 10 ans et jeune papa ! 
