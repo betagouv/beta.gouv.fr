@@ -6,7 +6,7 @@ missions:
   - start: 2024-07-01
     end: 2025-07-01
     status: admin
-    employer: ''
+    employer: Dinum
     startups:
       - ecobalyse
 link: https://www.linkedin.com/in/fabien-keller/
@@ -18,6 +18,8 @@ competences:
   - Data Science
   - Machine learning
   - Coaching
+  - Product design
+  - UI
 memberType: beta
 ---
 Entrepreneur dans le secteur des technologies depuis plus de 10 ans et jeune papa ! 
