@@ -10,9 +10,11 @@ phases:
   - name: investigation
     start: 2023-06-20
     end: 2023-09-29
+thematiques:
+  - Santé
+  - Social
+  - Sport
 ---
-
-
 ## Contexte
 
 Aujourd’hui, en France, 48 % des personnes en situation de handicap ne pratiquent pas d’activité physique et sportive alors qu’elles sont 90 % à penser qu’il est essentiel de pratiquer une activité physique. Parce que, souvent, jusqu’ici, elles ne trouvaient pas l’information précisant les structures près de chez elles pouvant les accueillir pour pratiquer le sport de leur choix.

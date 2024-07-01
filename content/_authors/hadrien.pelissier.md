@@ -1,0 +1,23 @@
+---
+domaine: Développement
+fullname: Hadrien Pélissier
+role: Dev @ LANGU:IA
+missions:
+  - start: 2024-06-05
+    end: 2024-10-30
+    status: independent
+    employer: LBC
+    startups:
+      - languia
+github: ketsapiwiq
+link: https://fr.linkedin.com/in/hadrienpelissier
+competences:
+  - Développement Full-stack
+  - DevOps
+  - Machine learning
+  - JavaScript/TypeScript
+  - Sécurité informatique
+  - Administration Système
+memberType: beta
+---
+Je suis le dev pour le lancement de l'arène de LLMs francophones LANGU:IA. Je dev via Coopaname, une mutuelle de travail salarié, je réfléchis au futur des réseaux sociaux décentralisés sur technostructures.org.

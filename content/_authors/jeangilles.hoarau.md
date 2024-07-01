@@ -8,8 +8,8 @@ missions:
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:
-      - itou
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 ---
 Agent comptable

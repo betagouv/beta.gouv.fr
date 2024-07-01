@@ -17,6 +17,12 @@ missions:
     end: 2024-06-30
     status: independent
     employer: LittleBigConnection
+  - start: 2024-06-15
+    end: 2024-09-15
+    status: independent
+    employer: Malt
+    startups:
+      - data.gouv.fr
 startups:
   - ecobalyse
 previously:

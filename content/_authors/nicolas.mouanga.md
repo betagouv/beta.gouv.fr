@@ -7,14 +7,14 @@ missions:
   - start: 2020-02-10
     end: 2025-12-31
     status: independent
-    employer: ''
+    employer: ""
     startups:
-      - sparte
+      - mon-diagnostic-artificialisation
       - docurba
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
   - docurba
 previously:
-  - place-des-entreprises
+  - conseillers-entreprises
   - codedutravail
 ---

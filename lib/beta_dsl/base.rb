@@ -5,7 +5,7 @@ require 'ostruct'
 require 'yaml'
 
 module BetaDsl
-  class Base < OpenStruct
+  class Base < ::OpenStruct
     class << self
       # defines a class macro `folder 'string'` to designate where to
       # find backing files for the inheriting classes.

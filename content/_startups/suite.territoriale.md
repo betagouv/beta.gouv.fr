@@ -4,7 +4,7 @@ mission: >-
   de services mutualisés 
 incubator: anct
 title: Suite territoriale
-contact: thibaud.chambert-loir@anct.gouv.fr
+contact: lasuiteterritoriale@anct.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/anct
@@ -13,6 +13,9 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-07
+  - name: construction
+    start: 2024-05-29
+link: https://suiteterritoriale.anct.gouv.fr/
 ---
 ### Contexte
 
@@ -48,7 +51,7 @@ Dans une logique de mutualisation, ce projet contribue à :
 - la **déclinaison territoriale de [la Suite numérique](https://beta.gouv.fr/startups/suite-numerique.html)** en cours de développement par l'Opérateur de produits interministériels de la DINUM ;
 - **l'augmentation des services oeuvrant à la sécurisation des collectivités territoriales** en proposant sur cette même plateforme des services sécurisés issus de l'ANSSI, de l'ANCT ou des Opérateurs Publics de Services numériques.   
 
-**La Suite numérique vise à connecter l'ensemble des intervenants de la sphère publique** (de l'État, territoriale et hospitalière) par un unique bouton d'auhentification permettant d'accéder à un ensemble de communs numériques, libres et interopérables. La Suite permet ainsi une action plus simple, plus efficace et plus souveraine. 
+**La Suite numérique vise à connecter l'ensemble des intervenants de la sphère publique** (de l'État, territoriale et hospitalière) par un unique bouton d'authentification permettant d'accéder à un ensemble de communs numériques, libres et interopérables. La Suite permet ainsi une action plus simple, plus efficace et plus souveraine. 
 
 **En mobilisant un groupe de collectivités territoriales pilotes**, l'ANCT et l'ANSSI se proposent d'adapter cette Suite et les produits qui la composent aux besoins spécifiques des collectivités territoriales. 
 
