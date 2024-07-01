@@ -18,7 +18,9 @@ thematiques:
 ---
 ## Contexte
 
-L’objectif de l'**équipe interopérabilité** est de déployer **une suite collaborative open source et souveraine**, en alternative aux suites propriétaires encore largement utilisées par les agents publics français. Derrière une authentification unique grâce au fournisseur d'identité [AgentConnect](https://agentconnect.gouv.fr/), tous ces services, largement issus de logiciel open source existants, seront interconnectés pour en faciliter l'usage, y compris avec les personnes utilisant encore des outils propriétaires. 
+Notre objectif est de déployer **une suite collaborative open source et souveraine**, en alternative aux suites propriétaires encore largement utilisées par les agents publics français. Derrière une authentification unique grâce au fournisseur d'identité [AgentConnect](https://agentconnect.gouv.fr/), tous ces services, largement issus de logiciel open source existants, seront interconnectés pour en faciliter l'usage, y compris avec les personnes utilisant encore des outils propriétaires. 
+
+La Suite est déployée par l'Opérateur de Produits Interministériels de la DINUM
 
 ## Solution
 
