@@ -12,10 +12,12 @@ missions:
     end: 2023-07-07
     status: independent
     employer: lazone
-  - status: independent
+  - start: 2024-01-18
+    end: 2024-09-18
+    status: independent
     employer: Numa
-    start: 2024-01-18
-    end: 2024-06-18
+    startups:
+      - france.consulaire
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 startups:
   - dedale

@@ -4,7 +4,7 @@ mission: >-
   de services mutualisés 
 incubator: anct
 title: Suite territoriale
-contact: suiteterritoriale@anct.gouv.fr
+contact: lasuiteterritoriale@anct.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/anct
@@ -13,8 +13,9 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-07
-  - start: 2024-05-29
-    name: construction
+  - name: construction
+    start: 2024-05-29
+link: https://suiteterritoriale.anct.gouv.fr/
 ---
 ### Contexte
 

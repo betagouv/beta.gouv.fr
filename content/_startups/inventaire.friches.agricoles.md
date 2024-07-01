@@ -10,6 +10,8 @@ contact: anne.pichon@beta.gouv.fr
 phases:
   - name: investigation
     start: 2023-09-10
+  - name: alumni
+    start: 2024-05-16
 thematiques:
   - Écologie
   - Open-Data

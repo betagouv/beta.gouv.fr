@@ -6,13 +6,14 @@ link: https://www.erwan-dorso.net/
 github: heroinedor
 missions:
   - start: 2022-12-05
-    end: 2024-06-29
+    end: 2024-12-05
     status: independent
     employer: Scop&co
     startups:
       - eimis
 startups:
   - eimis
+  - tchap
 memberType: autre
 previously:
   - tchap

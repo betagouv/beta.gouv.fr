@@ -5,7 +5,7 @@ github: Musiquedelouie
 domaine: Déploiement
 missions:
   - start: 2022-04-11
-    end: 2024-06-29
+    end: 2024-12-29
     status: independent
     employer: ''
     startups:

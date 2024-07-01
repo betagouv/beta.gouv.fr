@@ -105,13 +105,13 @@ layout: default
                 </div>
                 <div class="fr-col-12 fr-col-sm-4">
                     {% if nationalsStartupsCount > 1 %}
-                        {% capture title %}{{ nationalsStartupsCount }} services nationaux{% endcapture %}
+                        {% capture title %}{{ nationalsStartupsCount }} services pérennisé{% endcapture %}
                     {% else %}
-                        {% capture title %}{{ nationalsStartupsCount }} service national{% endcapture %}
+                        {% capture title %}{{ nationalsStartupsCount }} service pérennisé{% endcapture %}
                     {% endif %}
                     {% include card-highlight.html
                         title=title
-                        description="Les services sont déployés dans toute la France, pour un impact maximal. Ils sont ensuite pérénisés au sein d'une structure adaptée."
+                        description="Une fois déployés dans toute la France, ces services ont été pérennisés au sein d'une structure adaptée."
                         icon="/assets/images/icons/incubateur/internet.svg"
                     %}
                 </div>

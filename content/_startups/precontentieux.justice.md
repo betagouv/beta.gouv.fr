@@ -1,6 +1,7 @@
 ---
 mission: >-
-  Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer la qualité de service rendu aux justiciables
+  Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer
+  la qualité de service rendu aux justiciables
 incubator: justice
 title: Précontentieux justice
 contact: sylvie.voko@justice.gouv.fr
@@ -9,9 +10,12 @@ phases:
   - name: construction
     start: 2024-01-18
 sponsors:
-  - /organisations/justice
+  - /organisations/mj
 thematiques:
   - Justice
+link: https://dev.precontentieux.app.cc.anje-justice.fr/
+repository: https://git.anje-justice.fr/se/precontentieux/modules/webapp
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#PRECONTENTIEUX
 ---
 ## Contexte
 

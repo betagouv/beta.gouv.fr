@@ -38,4 +38,13 @@ export const schema = z.object({
   domaine: z.enum(domaines),
   competences: z.array(z.string()).optional().nullable().superRefine(preventDuplicates),
   teams: z.array(z.string()).optional().nullable(),
-});
+}).superRefine((obj, ctx) => {
+  obj.missions.forEach((mission) => {
+    if (mission.end && mission.end<=mission.start) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        message: `Mission.end should be after mission.start`,
+      });
+    }
+  })
+})
