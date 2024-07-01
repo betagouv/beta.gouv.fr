@@ -5,7 +5,7 @@ role: Coach
 github: pierrerousseau2312
 missions:
   - start: 2021-02-15
-    end: 2024-12-30
+    end: 2025-06-30
     status: independent
     employer: scopyleft
     startups:

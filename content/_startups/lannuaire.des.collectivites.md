@@ -7,24 +7,25 @@ incubator: anct
 link: https://collectivite.fr/
 repository: https://gitlab.com/incubateur-territoires/startups/annuaire-des-collectivites
 contact: contact@collectivite.fr
-dashlord_url: https://dashlord.incubateur.net/tag/anct/
 accessibility_status: partiellement conforme
+thematiques:
+  - Collectivités
+stats: true
+dashlord_url: https://dashlord.incubateur.net/tag/anct/
 phases:
   - name: construction
     start: 2022-09-01
     end: 2023-02-28
   - name: acceleration
     start: 2023-03-01
-    end: 2024-02-29
+    end: 2024-12-31
 fast:
   promotion: 13
   montant: 300000
-thematiques:
-  - Collectivités
 ---
 ## Contexte
 
-L﻿'Annuaire des collectivités est né du constat que **15106 communes ne disposent pas d’un site web**. Et parmi les autres, nombreuses sont celles dont le site web est dysfonctionnel, la donnée obsolète ou peu fiable voire même des sites laissés à l’abandon.
+L﻿'Annuaire des collectivités est né du constat que **16 346 communes ne disposent pas d’un site web**. Et parmi les autres, nombreuses sont celles dont le site web est dysfonctionnel, la donnée obsolète ou peu fiable voire même des sites laissés à l’abandon.
 
 ## Problème
 
@@ -43,6 +44,5 @@ Créer une page web pour chaque commune est la solution qui permet de répondre 
 * Amener de la transparence et permettre la participation des citoyens à la politique locale : dématérialisation des comptes rendus du conseil municipal, mise à disposition de différents documents type magazines municipaux (aussi appelés Bulletins municipaux), PLU, etc.   
 * Être le point d’entrée vers les différents services publics : renouvellement de CNI ou de passeport, inscription sur les listes électorales, etc.
 * Présenter les services de la ville, ses associations, ses équipements, etc. pour les habitants.
-* Mettre en avant le patrimoine local et les initiatives liées au tourisme
 * Transmettre des informations à jour, diffuser des alertes en temps réel : évènements, alerte canicule ou intempéries, restrictions d’eau, etc. 
 * Insuffler un mouvement vers l’open data pour toutes les communes et construire une culture solide autour de la donnée et de ses usages (collectes et mises à jour régulières)

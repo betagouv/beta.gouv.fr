@@ -11,7 +11,7 @@ usertypes:
 stats_url: https://dora.inclusion.beta.gouv.fr/stats
 title: DORA
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
   - /organisations/mtei
 link: https://dora.inclusion.beta.gouv.fr
 stats: true

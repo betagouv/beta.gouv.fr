@@ -9,4 +9,12 @@ missions:
     employer: Solstice
     startups:
       - portail-rse
+competences:
+  - Product design
+  - Product strategy
+  - UX
+  - UI
+  - Intrapreneur(se)
+memberType: beta
 ---
+Accompagner les entrepreneurs dans la définition et la consolidation de la vision de leurs produit/service à impacte positif sur notre société.

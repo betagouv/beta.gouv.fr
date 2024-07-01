@@ -7,6 +7,7 @@ contact: monsuivisocial@anct.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - collectivite-territoriale
+  - association
 title: Mon Suivi Social
 sponsors:
   - /organisations/anct
@@ -20,9 +21,16 @@ phases:
     end: 2022-02-01
   - name: construction
     start: 2022-03-01
+  - name: acceleration
+    start: 2024-01-01
 stats_url: https://monsuivisocial.incubateur.anct.gouv.fr/statistiques
+mon_service_securise: true
 thematiques:
   - Social
+  - Collectivités
+  - Inclusion numérique
+repository: >-
+  https://gitlab.com/incubateur-territoires/startups/monsuivisocial/monsuivisocial-v2/-/tree/main
 ---
 ### 🏗 Contexte/problème
 
@@ -48,7 +56,7 @@ Les premières fonctionnalités expérimentées portaient sur :
 
 2 - Perspectives complémentaires : le déploiement des fonctionnalités complémentaires est progressif, et repose sur une logique de co-construction avec les usagers volontaires (entretiens individuels récurrents, clubs mensuels collectifs). Des interconnexions avec d'autres outils existants sont étudiés (prise de RDV ...) ;
 
-3 - Déploiement : la solution est désormais utilisée au sein d'une centaine de structures. L'objectif est de tripler ce nombre au courant du 1er trimestre 2024 et d'expérimenter l'outil auprès d'autres acteurs de l'accompagnement social qui sont également à la recherche d'un outil de suivi pouvant intégrer leurs équipes ;
+3 - Déploiement : la solution est désormais utilisée au sein  de 400 structures. L'objectif est d'atteindre les 1000 structure à horizon fin 2024 et d'expérimenter l'outil auprès d'autres acteurs de l'accompagnement social qui sont également à la recherche d'un outil de suivi pouvant intégrer leurs équipes ;
 
 4- Partenariat : en cours de contractualisation.
 

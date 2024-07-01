@@ -1,7 +1,7 @@
 ---
 fullname: Lauren Michel
-domaine: Produit
-role: Cheffe de produit
+domaine: Déploiement
+role: Business Developer
 github: Laurenmichel21
 missions:
   - start: 2016-04-01
@@ -16,6 +16,19 @@ missions:
     end: 2024-06-29
     status: independent
     employer: Octo
+    startups:
+      - france-numerique-ensemble
+  - start: 2024-05-21
+    end: 2024-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - annuaire-entreprises
+  - start: 2024-05-21
+    end: 2024-08-21
+    status: independent
+    employer: ''
+    startups: []
 previously:
   - france-numerique-ensemble
   - maintenant
@@ -28,5 +41,4 @@ competences:
   - Administration Publique
   - Communication
 ---
-
 Startupeuse curieuse et persévérante !

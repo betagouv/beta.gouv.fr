@@ -11,6 +11,12 @@ missions:
     employer: octo
     startups:
       - reformes-locales
+  - start: 2024-04-29
+    end: 2024-08-31
+    status: independent
+    employer: Ippon Technologies
+    startups:
+      - openfisca
 startups:
   - openfisca
   - leximpact

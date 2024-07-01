@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: affaires-sociales
   - start: 2020-08-03
-    end: 2024-06-30
+    end: 2024-09-30
     status: independent
     employer: ''
 startups:

@@ -8,9 +8,10 @@ sponsors:
 incubator: justice
 contact: infoparquet@beta.gouv.fr
 phases:
+  - name: investigation
+    start: 2021-05-31
   - name: success
     start: 2023-07-20
-    end: 2021-05-31
 usertypes:
   - etat
 thematiques:
@@ -18,6 +19,7 @@ thematiques:
 dashlord_url: https://github.com/betagouv/dashlord/blob/main/dashlord.yml
 accessibility_status: non conforme
 ---
+
 # **Contexte**
 
 Chaque année, des dizaines de milliers d’administrations saisissent le procureur de la République afin de l’informer de faits pouvant entraîner des poursuites pénales.
@@ -28,11 +30,11 @@ Après une phase d’investigation démontrant des difficultés réelles et impa
 
 Cette investigation, d'abord menée sur un périmètre restreint relatif aux procédures relevant de l’article 40 du code de procédure pénale, a notamment permis de :
 
-* vérifier l’existence de 3 problèmes pour les agents publics concernés : difficultés dans le suivi des procédures / incertitudes sur la fiabilité du mode de transmission / complexité de la traçabilité et de la visibilité des procédures urgentes ;
-* valider l’opportunité de construire une solution numérique ;
-* élargir le périmètre de cette solution à l’ensemble des procédures adressées au parquet par les administrations (autres que la police et la gendarmerie) ;
-* identifier des indicateurs d’impact à 6 mois ;
-* esquisser une piste de solution.
+- vérifier l’existence de 3 problèmes pour les agents publics concernés : difficultés dans le suivi des procédures / incertitudes sur la fiabilité du mode de transmission / complexité de la traçabilité et de la visibilité des procédures urgentes ;
+- valider l’opportunité de construire une solution numérique ;
+- élargir le périmètre de cette solution à l’ensemble des procédures adressées au parquet par les administrations (autres que la police et la gendarmerie) ;
+- identifier des indicateurs d’impact à 6 mois ;
+- esquisser une piste de solution.
 
 # **Stratégie**
 
@@ -40,7 +42,7 @@ La phase de construction a permis de bâtir, avec les agents publics concernés,
 Une phase de tests avec des magistrats du parquet, greffiers et agents des administrations concernées a été réalisée d&#39;octobre 2021 à janvier 2022 pour améliorer en continu le produit.
 L﻿es 9 tribunaux judiciaires et 15 administrations participants ont souligné unanimement les impacts positifs de cette solution &quot;plus rapide et plus efficace&quot;.
 Pour répondre aux besoins des tribunaux de disposer d’une solution intégrée à l&#39;environnement du Ministère de la Justice, une étroite collaboration s’est alors instaurée dès
-juin 2022 entre la startup d’Etat infoParquet et les équipes de la Direction de Programme Procédure Pénale Numérique* (PPN). Il a ainsi été décidé d&#39;intégrer la solution InfoParquet à nouvel outil d&#39;échange
+juin 2022 entre la startup d’Etat infoParquet et les équipes de la Direction de Programme Procédure Pénale Numérique\* (PPN). Il a ainsi été décidé d&#39;intégrer la solution InfoParquet à nouvel outil d&#39;échange
 : la Communication Pénale Numérique, une interface unique pour les juridictions pour
 échanger avec les partenaires de justice en matière pénale.
 
@@ -53,12 +55,12 @@ Entre juillet et novembre 2023, la passation technique, métier et vision a ét�
 Au terme de ces différentes phases de travail en lien très étroit avec les utilisateurs, le produit
 assure :
 
-* La mise à disposition d’une plateforme en ligne sécurisée qui permet aux administrations de transmettre tout signalement au Procureur de la République de manière dématérialisée,
-* La délivrance automatique et instantanée d’un numéro d’identifiant de procédure à l’administration dès la transmission du signalement
-* Une connaissance rapide de l’état d’avancement d’une procédure pour l’administration
+- La mise à disposition d’une plateforme en ligne sécurisée qui permet aux administrations de transmettre tout signalement au Procureur de la République de manière dématérialisée,
+- La délivrance automatique et instantanée d’un numéro d’identifiant de procédure à l’administration dès la transmission du signalement
+- Une connaissance rapide de l’état d’avancement d’une procédure pour l’administration
 
 Pour en savoir plus
-*Le programme de la « Procédure Pénale Numérique» (PPN) a été initié en 2018 par les
+\*Le programme de la « Procédure Pénale Numérique» (PPN) a été initié en 2018 par les
 ministères de l’Intérieur et de la Justice, avec pour principal objectif de rendre la justice
 pénale plus efficace en la modernisant grâce à l’abandon du papier et de la signature
 manuscrite, depuis la plainte jusqu’à l’exécution de la peine.

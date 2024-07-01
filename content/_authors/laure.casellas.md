@@ -9,6 +9,7 @@ missions:
     employer: ANCT
     startups: []
 link: https://www.linkedin.com/in/laure-casellas/
+github: l-casellas
 competences:
   - Communication
   - Croissance
