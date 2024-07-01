@@ -18,7 +18,7 @@ missions:
     status: independent
     employer: LBC
   - start: 2024-01-01
-    end: 2024-06-30
+    end: 2024-12-31
     status: independent
     employer: Pathtech
 startups:

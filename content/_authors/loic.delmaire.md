@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2020-09-01
-    end: 2024-06-30
+    end: 2024-09-30
     status: independent
     employer: octo, malt
 startups:

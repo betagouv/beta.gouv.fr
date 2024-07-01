@@ -3,7 +3,7 @@ mission: >-
   Promouvoir l’ensemble des événements de l’emploi (job dating, conférence,
   atelier..) auprès des candidats et leur permettre de s’inscrire en ligne en
   vue de faciliter leur retour à l’emploi
-incubator: pole-emploi
+incubator: francetravail
 contact: deudmesevenementsemploi.00589@pole-emploi.fr
 redirect_from:
   - /startups/pole-emploi-action
@@ -12,7 +12,7 @@ usertypes:
 stats_url: https://mesevenementsemploi.pole-emploi.fr/mes-evenements-emploi/stats
 title: Mes événements emploi
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
 link: https://mesevenementsemploi.pole-emploi.fr
 stats: true
 dashlord_url: http://dashlord.incubateur.net/url/mesevenementsemploi-pole-emploi-fr
@@ -42,11 +42,11 @@ thematiques:
 
 Les candidats, par manque de visibilité et de lisibilité (multitude de supports et de communication des événements​), ratent des opportunités de s’informer, se préparer, se former et d’être recrutés. Les événements organisés par les agences Pôle emploi avec leurs partenaires sont peu visibles des candidats.​
 
-Pour les conseillers organisateurs d’un événement, la gestion de ce dernier est chronophage (création, suivi, relances, pilotage) et il est difficile de trouver des candidats pertinents selon des pré-requis identifiés​ 
+Pour les conseillers organisateurs d’un événement, la gestion de ce dernier est chronophage (création, suivi, relances, pilotage) et il est difficile de trouver des candidats pertinents selon des pré-requis identifiés​
 
 ##### Produit :
 
-Mes événements emploi est une solution numérique qui permet à tous les candidats et partenaires de l'emploi d'accéder à l'ensemble des événements organisés par Pôle emploi adaptés à leurs critères de recherche. 
+Mes événements emploi est une solution numérique qui permet à tous les candidats et partenaires de l'emploi d'accéder à l'ensemble des événements organisés par Pôle emploi adaptés à leurs critères de recherche.
 
 A tout moment, 24h/24h, 7j/7j, un candidat peut rechercher et s'inscrire en ligne aux événements adaptés à ses critères de recherche, dans l’objectif de trouver un emploi, d’accéder à une formation, se préparer à un événement de recrutement, obtenir des conseils pour leur projet (mobilité professionnelle ou géographique, création ou reprise d'entreprise, aides à l'emploi...)​.
 

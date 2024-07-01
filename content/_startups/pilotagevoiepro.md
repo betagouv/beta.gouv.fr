@@ -1,12 +1,14 @@
 ---
 title: Orion
-mission: Contribuer au pilotage de la révision et l'évolution de l'offre de formation des lycées professionnels
+mission: >-
+  Contribuer au pilotage de la révision et l'évolution de l'offre de formation
+  des lycées professionnels
 sponsors:
   - /organisations/dgesco
 incubator: mission-inserjeunes
 phases:
   - name: construction
-    start: 2023-01-01  
+    start: 2023-01-01
 repository: https://github.com/mission-apprentissage/tjp-pilotage
 stats_url: https://orion.inserjeunes.beta.gouv.fr/statistiques
 stats: true
@@ -16,8 +18,12 @@ usertypes:
   - etat
   - collectivite-territoriale
 dashlord_url: https://dashlord.incubateur.net/url/orion-inserjeunes-beta-gouv-fr/
+link: https://orion.inserjeunes.beta.gouv.fr/
+thematiques:
+  - Formation
+  - Jeunesse
+  - Travail / Emploi
 ---
-
 ## Le constat
 
 Deux ans après l’obtention de leur diplôme, seuls 41 % des titulaires d’un CAP et 51 % des bacheliers professionnels ont un emploi.

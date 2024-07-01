@@ -5,11 +5,11 @@ domaine: Développement
 github: smdsgn
 missions:
   - start: 2022-11-17
-    end: 2024-06-28
+    end: 2025-02-28
     status: independent
-    employer: LittleBigConnection
+    employer: Telescoop
     startups:
-      - sparte
+      - mon-diagnostic-artificialisation
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
 ---

@@ -9,4 +9,8 @@ missions:
     employer: Malt
     startups:
       - pop
+link: https://www.linkedin.com/in/jordane-michon69/
+competences:
+  - Développement Full-stack
+memberType: beta
 ---

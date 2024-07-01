@@ -10,6 +10,17 @@ missions:
     employer: NUMA
     startups:
       - seves
+  - start: 2024-02-14
+    end: 2025-09-20
+    status: independent
+    employer: OCTO
+    startups:
+      - tracabilite.gibier.sauvage
+  - start: 2023-09-04
+    end: 2023-12-22
+    status: independent
+    employer: OCTO
+    startups:
       - phytophare
 badges:
   - segur
@@ -21,4 +32,4 @@ previously:
   - la.communaute.de.linclusion
   - acces.majeur.protege
 ---
-Designer très versée
+Designer
