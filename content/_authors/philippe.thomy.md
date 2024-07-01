@@ -9,4 +9,11 @@ missions:
     employer: Malt
     startups:
       - qualicharge
+link: https://www.linkedin.com/in/philippe-thomy/
+github: Qualicharge
+competences:
+  - Python
+  - Data Science
+memberType: beta
 ---
+Après une longue période dans le secteur public (industrie), je me suis engagé sur les sujets liés à l'interopérabilité des données (formats de données, outils d'analyse).
