@@ -8,12 +8,17 @@ missions:
     end: 2021-07-31
     status: independent
     employer: Scopyleft
+    startups:
+      - ma-cantine-egalim
   - start: 2023-10-02
-    end: 2024-04-01
+    end: 2024-09-30
     status: independent
     employer: /ut7
+    startups:
+      - cassiopee
 startups:
   - ma-cantine-egalim
   - cassiopee
+link: https://www.linkedin.com/in/forster-groux-14232580/
 ---
 Développeur passionné d'agilité et d'horizontalité

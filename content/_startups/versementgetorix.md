@@ -11,6 +11,8 @@ phases:
     start: 2023-06-15
   - start: 2024-03-11
     name: transfer
+  - name: alumni
+    start: 2024-04-15
 contact: ateliernumerique.snum@culture.gouv.fr
 accessibility_status: non conforme
 ---

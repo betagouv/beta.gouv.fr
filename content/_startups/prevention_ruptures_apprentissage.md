@@ -14,9 +14,12 @@ events: []
 phases:
   - name: investigation
     start: 2023-04-20
-    end: 
+    end:
+thematiques:
+  - Jeunesse
+  - Education
+  - Formation
 ---
-
 ### Contexte
 Le gouvernement a pour ambition d'accompagner un million d'apprentis récurrents par an d’ici la fin du quinquennat, mais un nombre important d'apprentis sortent du circuit chaque année, soit en situation de rupture de contrat de travail, soit en abandon de contrat et de formation. Pour répondre à ce problème, la mission interministérielle pour l’apprentissage est mandatée pour réaliser une investigation qui doit permettre d’identifier la/les solutions de prévention des ruptures de contrat d'apprentissage et de remédiation.
 

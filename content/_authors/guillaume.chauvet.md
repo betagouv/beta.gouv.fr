@@ -5,7 +5,7 @@ domaine: Développement
 github: octo-guic
 missions:
   - start: 2023-07-31
-    end: 2024-06-30
+    end: 2025-01-15
     status: service
     employer: Octo
     startups:

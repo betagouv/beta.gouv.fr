@@ -14,7 +14,7 @@ previously:
   - avril
   - la-bonne-formation
   - aides.jeunes
-  - itou
+  - les-emplois
   - rdv.insertion
   - dora
   - data-inclusion

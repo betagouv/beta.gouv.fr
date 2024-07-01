@@ -4,7 +4,7 @@ mission: >-
   Connecter 160 000 professionnels de l’inclusion aux services numériques de
   leur quotidien, d’une manière simple, sécurisée, efficace.
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
 link: https://connect.inclusion.beta.gouv.fr/
@@ -18,6 +18,8 @@ stats_url: >-
 phases:
   - name: acceleration
     start: 2022-07-01
+thematiques:
+  - Inclusion numérique
 ---
 ## Le problème
 

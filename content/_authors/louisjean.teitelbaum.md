@@ -1,9 +1,11 @@
 ---
 fullname: Louis-Jean Teitelbaum
-domaine: Design
-role: Designer
+domaine: Animation
+role: Responsable du design et des études
 github: louije
 link: https://meidosem.com
+teams:
+  - /teams/gip-inclusion
 missions:
   - start: 2021-04-20
     end: 2021-10-31
@@ -23,4 +25,4 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-Bidouilleur, enseignant.
+Bidouilleur, enseignant, designer, développeur.

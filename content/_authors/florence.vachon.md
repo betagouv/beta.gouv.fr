@@ -8,9 +8,9 @@ missions:
     status: admin
     employer: Pôle emploi
     startups:
-      - mes.aides
+      - mes-aides-france-travail
 startups:
-  - mes.aides
+  - mes-aides-france-travail
 previously:
   - mes-evenements-emploi
 ---
