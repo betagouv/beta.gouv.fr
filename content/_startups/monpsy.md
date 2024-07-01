@@ -8,7 +8,7 @@ incubator: sgmas
 link: >-
   https://www.ameli.fr/assure/remboursements/rembourse/remboursement-seance-psychologue-mon-soutien-psy
 repository: https://github.com/SocialGouv/mon-psy-sante
-contact: beatrice.maine@assurance-maladie.fr
+contact: support-monsoutienpsy.cnam@assurance-maladie.fr
 stats: true
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/monpsy-sante-gouv-fr
 accessibility_status: partiellement conforme
@@ -18,6 +18,8 @@ phases:
     end: 2023-01-12
   - name: success
     start: 2023-01-12
+thematiques:
+  - Santé
 ---
 ## Le contexte
 
@@ -42,4 +44,6 @@ La plateforme Mon soutien psy permet en quelques clics :
 - à tous les psychologues volontaires et de candidater pour intégrer le dispositif ;
 - et aux patients d’identifier un psychologue proche de chez eux sur l'annuaire géolocalisé.
 
+## Le devenir de Mon soutien psy
 
+Après son lancement et deux ans d'incubation au sein de la Fabrique Numérique des Ministères Sociaux, le service Mon soutien psy a été transféré à la CNAM. Le site est  accessible via Ameli.fr depuis le 15 janvier 2024.

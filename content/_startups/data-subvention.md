@@ -24,6 +24,8 @@ phases:
 fast:
   promotion: 13
   montant: 280000
+thematiques:
+  - Open-Data
 ---
 ## La valeur de Data.Subvention
 

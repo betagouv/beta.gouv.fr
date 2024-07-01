@@ -1,7 +1,7 @@
 ---
 fullname: Olivier P. Rousseau
 role: Data analyst &amp; Data engineer
-domaine: Développement
+domaine: Data
 github: olivierRse
 missions:
   - start: 2022-12-12

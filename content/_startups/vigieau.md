@@ -18,6 +18,8 @@ phases:
   - name: construction
     start: 2024-01-26
 stats_url: https://vigieau.gouv.fr/stats/
+thematiques:
+  - Écologie
 ---
 ## Contexte
 
@@ -43,55 +45,51 @@ Le premier chantier de la planification écologique révélé le 30 mars 2023 vi
 * Structurellement, une réduction de 10% de l’eau prélevée d’ici 2030, se déclinant par des plans de sobriété pour toutes les filières économiques (Mesure 1) 
 * Conjoncturellement, l’objectif de mieux répondre aux crises sécheresse avec une meilleure communication des restrictions en vigueur (Mesure 50) 
 
-La plateforme VigiEau lancée à l’été 2023 fait partie du service “Préservons L’Eau” et répond à la mesure 50 du Plan Eau. Permettre à l’usager d’avoir accès de manière lisible et simple aux restrictions en vigueur sur son territoire est une première étape vers l’objectif de sobriété hydrique mais il est loin d’être suffisant. 
-
-
 ## Problème
 
-Comment faire évoluer les usagers vers des pratiques sobres de l’eau, en particulier en période de sécheresse ? 
-
-**2 problèmes retenus :**
-
-1/ Près de la moitié des départements affichent des mesures sur VigiEau concernant lʼeau potable qui ne sont pas cohérentes avec les mesures figurant dans les arrêtés.
+**Comment faire évoluer les usagers vers des pratiques sobres de l’eau, en particulier en période de sécheresse ?** 
 
 
-**Solution imaginée** : Régl'eau = outil de saisie des arrêtés sécheresse pour des DDT et DEAL.
+**Etape 1 :** Levier restrictif / Permettre aux usagers d'avoir accès de manière lisible et compréhensible aux **restrictions** en vigueur en période de sécheresse
+
+La plateforme VigiEau lancée à l’été 2023 répond à la mesure 50 du Plan Eau. Permettre à l’usager d’avoir accès de manière lisible et simple aux restrictions en vigueur sur son territoire est une première étape vers l’objectif de sobriété hydrique. 
+
+Néanmoins, suite à la mise en production de VigiEau, près de 50% des départements affichaient des mesures sur VigiEau concernant l’eau potable non cohérentes avec les mesures figurant dans les arrêtés. 
+
+En cause ? Un outil de saisie des arrêtés, Propluvia Privé, non adapté à une gestion spécifique à l’eau potable 
+
+--> **Solution : VigiEau Admin** = outil de saisie des arrêtés sécheresse pour les DDT
 Objectif : Afficher des restrictions sur VigiEau cohérentes avec les restrictions en vigueur, en particulier, traduire lʼétat des ressources en eau dans les restrictions appliquées aux usages de lʼeau potable.
 
-2/ Hors crise majeure, il nʼy a pas dʼimpact des restrictions sur la consommation.
+VigiEau Admin a été mis en production fin avril 2024 et déployé auprès des 101 DDTs
 
-Comment faire évoluer les usagers vers des pratiques sobres de lʼeau, en particulier en période de sécheresse ?
+Communiquer sur les restrictions est une solution nécessaire mais elle est loin d'être suffisante. 
 
-**Différentes observations :**
-* Le plus actionnable est de se concentrer la consommation dʼeau potable (26% de la conso dʼeau en France)
-* Les collectivités ont la compétence “eau potableˮ. 
-* Pour maximiser lʼimpact, il convient dʼadresser lʼusager final.
+**Etape 2** :  **Inciter** les usagers à réduire leur consommation d'eau, en particulier en période de sécheresse
+
+Quel périmètre pour l'expérimentation ? 
+
+* Le plus actionnable pour mesurer l’impact d’une solution court/moyen terme est de se concentrer sur la consommation d’eau potable. 
+
+* L’eau potable est un enjeu majeur puisqu’elle représente 26% de la consommation d’eau en France
+
+* Les collectivités ont la compétence eau potable et portent de plus en plus une volonté de sobriété hydrique
+
+Nous ne ciblerons pas les agriculteurs dans un premier temps car c’est une cible pour laquelle les données ne sont pas disponibles, donc impossible d’en mesurer l’impact à horizon 6 mois.
+
 > La cible principale sera les usagers en eau potable des collectivités.
-
-**Solution imaginée** : Création dʼun service numérique dʼengagement vers une une sobriété hydrique des usagers des
-collectivités.
 
 
 ## Solutions et impacts chiffrés pour les 6 prochains mois
 
-**1/ Service numérique métier dʼélaboration des arrêtés = Régl'eau**
+**Création dʼun service numérique dʼengagement vers une une sobriété hydrique des usagers des
+collectivités.**
 
-**Objectifs de déploiement et dʼusage** : Outil déployé auprès des 101 DDT / DEAL
-
-**Objectifs dʼimpact**
-* 90% des départements affichent des restrictions sur Vigieau cohérentes avec les restrictions communiquées localement.
-* Sur 3 territoires tests, on observe un % de diminution de la consommation dʼeau potable suite à la mise en place de restrictions.
-
-
-**2/ Service numérique dʼengagement vers une une sobriété hydrique**
-
-**Objectifs dʼusage** : la solution proposera aux collectivités la mise à disposition dʼun service de nudge :
-- via une communication conjointe collectivité / état
-- permettant dʼadresser directement les usagers via lʼenvoi régulier de communications personnalisées sur (i) leur consommation dʼeau / comparaison à celle de consommateur similaire (ii) lʼétat des ressources en eau dont ils dépendent (iii) les restrictions
+La solution propose un service d'incitation aux économies d'eau : 
+- via l'envoi d'une série d'email - envoyée de manière conjointe par la collectivité / l'état / le délégataire eau potable 
+- permettant dʼadresser directement les usagers sur (i) leur consommation dʼeau / comparaison à celle de consommateur similaire (ii) lʼétat des ressources en eau dont ils dépendent (iii) les restrictions
 
 **Objectifs de déploiement et dʼimpact**
 
-* A lʼhorizon septembre 2024, 2 à 3 collectivités (avec téléreleve) engagées dans lʼexpérimentation (couvrant 50 000 abonnés).
+* A lʼhorizon septembre 2024, 2 collectivités (avec téléreleve) engagées dans lʼexpérimentation (couvrant chacune 5 000 abonnés minimum)
 * 10% de baisse de la consommation dʼeau à horizon 1 an pour lʼensemble de ces collectivités test.
-
-

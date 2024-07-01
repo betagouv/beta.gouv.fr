@@ -6,16 +6,14 @@ contact: apprentissage@beta.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/mtei
-  - /organisations/menjs
-  - /organisations/mesr
-  - /organisations/mtfp
 phases:
   - name: investigation
     start: 2021-01-01
-  - start: 2023-09-01
-    name: construction
----
+  - name: construction
+    start: 2023-09-01
+link: https://contrat.apprentissage.beta.gouv.fr/
 
+---
 # Le problème de politique publique
 
 
@@ -34,7 +32,7 @@ En proposant un formulaire mis à disposition gratuitement en ligne, qui intègr
 
 •	**Limiter les erreurs** : en automatisant des contrôles de présence, format, cohérence et réglementaires des données saisies ;
 
-•	**Acculturer les employeurs à la règlementation** et aux pratiques de l’apprentissage en l’informant tout au long de la saisie ;
+•	**Acculturer les employeurs à la règlementation** et aux pratiques de l’apprentissage en les informant tout au long de la saisie ;
 
 •	**Alléger la charge de saisie pour l’employeur et l’organisme de formation** : en complétant automatiquement plusieurs champs grâce à une seule donnée saisie ; 
 
@@ -93,8 +91,7 @@ Elle s’adresse également aux Organismes de formation en apprentissage qui ne 
 
 
 
-###### ### 💡 Que devons-nous apprendre sur les problèmes des usagers pour être en mesure de proposer une solution utile et pertinente ? Quels sujets devons-nous dérisquer en priorité ?
-
+###### 💡 Que devons-nous apprendre sur les problèmes des usagers pour être en mesure de proposer une solution utile et pertinente ? Quels sujets devons-nous dérisquer en priorité ?
 
 
 La solution actuellement conçue est prévue pour un usage unique (aucune donnée conservée après téléchargement du contrat ainsi généré). Il faudrait pouvoir à terme proposer une solution complète, ce qui implique la mise en place d’un mécanisme de connexion sécurisée, l’installation d’un tableau de bord de suivi via lequel il serait possible d’**aller plus loin dans la logique du « dites-le nous une fois »** en permettant :
@@ -104,8 +101,7 @@ La solution actuellement conçue est prévue pour un usage unique (aucune donné
 •	la génération d’un avenant, d’une convention de formation, d’une convention d’allongement ou de réduction de durée, d’une convention de mobilité, voire même d’un formulaire de résiliation à partir d’un contrat existant.
 
 
-
-###### ### 💡 Où et comment rencontrer nos premiers usagers pour mieux comprendre le(s) problème(s) à résoudre et les envisager des hypothèses de solutions ?
+###### 💡 Où et comment rencontrer nos premiers usagers pour mieux comprendre le(s) problème(s) à résoudre et les envisager des hypothèses de solutions ?
 
 
 Via le tableau de bord de l’apprentissage, il est possible de détecter les organismes de formation qui ont des apprentis et qui ne disposent pas d’un ERP (certains ERP offrent déjà la possibilité de télécharger un CERFA pré-complété). En ayant déjà contacté certains d’entre eux, il nous est possible également d’entrer en contact avec des employeurs.
@@ -120,6 +116,3 @@ Via les réseaux sociaux, notamment LinkedIn, nous avons pu contacter les membre
 
 
 L’intrapreneur est Anne-Camille Monet, le produit a été réalisé jusqu’à présent à temps partiel, avec David Dela Cruz, développeur et Clémence Lanctuit, UX designer.
-
-
-

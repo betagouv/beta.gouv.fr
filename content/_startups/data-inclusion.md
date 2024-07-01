@@ -2,7 +2,7 @@
 title: data·inclusion
 mission: "Créer un référentiel commun de toutes les données de l’offre d’insertion des territoires"
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
 link: https://api.data.inclusion.beta.gouv.fr/api/v0/docs#/
@@ -14,21 +14,24 @@ phases:
   - name: investigation
     start: 2022-03-17
   - name: construction
-    start: 2022-06-30  
+    start: 2022-06-30
 usertypes:
   - collectivite-territoriale
   - entreprise
   - association
   - etat
 accessibility_status: partiellement conforme
+thematiques:
+  - Territoires
+  - Open-Data
 ---
-## Le problème 
+## Le problème
 
-Dans le contexte du service public de l’insertion et de l’emploi, de la mise en oeuvre du SPIE, et de l'expérimentation de France Travail, un sujet revient de manière prégnante : l’accès à des données fiables sur les dispositifs et l’offre d’insertion au niveau national et sur chaque territoire. 
+Dans le contexte du service public de l’insertion et de l’emploi, de la mise en oeuvre du SPIE, et de l'expérimentation de France Travail, un sujet revient de manière prégnante : l’accès à des données fiables sur les dispositifs et l’offre d’insertion au niveau national et sur chaque territoire.
 
-Si un grand nombre d’outils existent, dont plusieurs financés par la dépense publique - portails locaux ou nationaux, annuaires d’associations, éditeurs de logiciels, etc. -, **les données elles-mêmes circulent mal d’un outil à l’autre et un grand nombre d’acteurs sont contraints de “réinventer la roue” à leur échelle ou de voir leurs bases de données devenir peu à peu obsolètes.** 
+Si un grand nombre d’outils existent, dont plusieurs financés par la dépense publique - portails locaux ou nationaux, annuaires d’associations, éditeurs de logiciels, etc. -, **les données elles-mêmes circulent mal d’un outil à l’autre et un grand nombre d’acteurs sont contraints de “réinventer la roue” à leur échelle ou de voir leurs bases de données devenir peu à peu obsolètes.**
 
-*Le Ministère du Travail, de l'Emploi et de l'Insertion a lancé la création d’un patrimoine commun de l’offre d’insertion en open data où chaque acteur pourra partager son offre de services en matière d’insertion, et récupérer les données des autres.* 
+*Le Ministère du Travail, de l'Emploi et de l'Insertion a lancé la création d’un patrimoine commun de l’offre d’insertion en open data où chaque acteur pourra partager son offre de services en matière d’insertion, et récupérer les données des autres.*
 
 ## Notre service
 
@@ -36,8 +39,8 @@ data·inclusion est une **démarche collective** visant à créer **un référen
 
 ### **Les objectifs de data·inclusion :**
 
-* Un accompagnateur ou un usager doit accéder facilement à l’ensemble de l'offre connue sur un territoire, quel que soit l’outil en ligne utilisé qui variera nécessairement selon le contexte et ses besoins 
-* Une structure ne doit pas saisir ou partager plus d'une fois ses données - c’est la condition pour qu’elle joue le jeu du patrimoine commun et accepte de mettre à jour les données clés qui la concerne. 
+* Un accompagnateur ou un usager doit accéder facilement à l’ensemble de l'offre connue sur un territoire, quel que soit l’outil en ligne utilisé qui variera nécessairement selon le contexte et ses besoins
+* Une structure ne doit pas saisir ou partager plus d'une fois ses données - c’est la condition pour qu’elle joue le jeu du patrimoine commun et accepte de mettre à jour les données clés qui la concerne.
 
 ### **Qui est concerné par data·inclusion ?**
 
@@ -45,7 +48,7 @@ D’une part les producteurs de données. Représentent l'ensemble des sites dé
 
 D'autre part les consommateurs de données. Toute personne qui souhaite accéder à l'ensemble des données afin de les afficher sur un service numérique ou dans un logiel interne. Des acteurs publics qui souhaitent analyser les données, des têtes de réseaux qui veulent accéder à l'offre des membres de leur organisation, des personnes en charge du développement de logiciels, de sites internet, de cartographies..
 
-Mais aussi, les offreurs de services, porteurs de solution qui ont désormais un point d’accès unique pour partager leur offre de services et gagner en visibilité auprès des différents publics qu’ils accompagnent. 
+Mais aussi, les offreurs de services, porteurs de solution qui ont désormais un point d’accès unique pour partager leur offre de services et gagner en visibilité auprès des différents publics qu’ils accompagnent.
 
 Et enfin, les accompagnateurs qui ont des trésors de ressources et bases de données sur les solutions à leur territoire. S’ils contribuent au patrimoine commun, la promesse est de pouvoir utiliser des outils à jour et de gagner du temps en mutualisant nos forces pour le travail fastidieux de collecte et mise à jour des données.
 
