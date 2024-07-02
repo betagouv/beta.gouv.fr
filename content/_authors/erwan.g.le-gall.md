@@ -1,10 +1,18 @@
 ---
-domaine: Développement
+domaine: Intraprenariat
 fullname: Erwan G. le Gall
-role: Développement
+role: Intraprenariat
 missions:
   - start: 2024-07-02
     end: 2025-10-02
     status: admin
-    employer: ''
+    employer: DINUM
+    startups:
+      - acces-cible
+competences:
+  - Accessibilité
+  - PHP
+  - Administration Publique
+memberType: beta
 ---
+prof -> dév -> expert
