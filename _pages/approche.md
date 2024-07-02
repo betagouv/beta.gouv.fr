@@ -11,10 +11,6 @@ title: Découvrir le programme
        <h1 class="fr-mb-3w">Découvrir le programme</h1>
        <p class="fr-text--lead fr-pr-3w"><b>beta.gouv.fr</b> est un programme d’incubation qui aide les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens.
        </p>
-       <!-- <ul class="fr-btns-group fr-btns-group--equisized fr-btns-group--inline-md">
-         <li><a class="fr-btn fr-btn--md" href="#investigation">Lancer une investigation</a></li>
-         <li><a class="fr-btn fr-btn--md" href="#construction">Construire un service numérique</a></li>
-       </ul> -->
      </div>
      <div class="fr-col-md-4">
        <img
