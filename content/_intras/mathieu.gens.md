@@ -6,4 +6,4 @@ avatar: /assets/images/intra/mathieu-gens.png
 startups:
   - conseillers-entreprises
 ---
-“Un passage en startup d’État c’est une formation en continu et une montée en compétence fulgurante.”
+Un passage en startup d’État c’est une formation en continu et une montée en compétence fulgurante !
