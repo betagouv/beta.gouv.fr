@@ -1,30 +1,33 @@
 ---
-layout: page
+layout: default
 permalink: /approche/
 title: Découvrir le programme
 ---
 
-<div class="fr-grid-row fr-grid-row--gutters fr-pb-6w">
-   <div class="fr-col-md-6 fr-col-12">
-      <p class="fr-text--lg">
-         <b>beta.gouv.fr</b> est un programme d’incubation qui aide les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens.
-      </p>
-      <h2>Nos accompagnements</h2>
-      <a class="fr-btn fr-btn--md" href="#investigation">Lancer une investigation</a>
-      <br>
-      <a class="fr-btn fr-btn--md fr-mt-2w" href="#construction">Construire un service numérique</a>
-      <br>
-      <a class="fr-btn fr-btn--md fr-mt-2w" href="#alpha">Former les agents</a>
-   </div>
-   <div class="fr-col-md-6 fr-col-12">
-      <img
+<section class="hero-section">
+ <div class="fr-container fr-py-5w">
+   <div class="fr-grid-row">
+     <div class="fr-col-md-8">
+       <h1 class="fr-mb-3w">Découvrir le programme</h1>
+       <p class="fr-text--lead fr-pr-3w"><b>beta.gouv.fr</b> est un programme d’incubation qui aide les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens.
+       </p>
+       <!-- <ul class="fr-btns-group fr-btns-group--equisized fr-btns-group--inline-md">
+         <li><a class="fr-btn fr-btn--md" href="#investigation">Lancer une investigation</a></li>
+         <li><a class="fr-btn fr-btn--md" href="#construction">Construire un service numérique</a></li>
+       </ul> -->
+     </div>
+     <div class="fr-col-md-4">
+       <img
          class='fr-my-6w'
          src="/img/programme/programme.svg"
          alt="Le programme se déroule en 4 étapes : investigation, construction, accélération puis transfert."
         />
+     </div>
    </div>
-</div>
-<div class="fr-container section-grey fr-py-6w">
+ </div>
+</section>
+
+<div class="fr-container fr-py-6w fr-mt-2w">
    <h2 class="fr-mb-4w">Notre fonctionnement</h2>
    <div class="fr-grid-row  fr-grid-row--gutters startups">
       <div class="fr-col fr-col-12 fr-col-md-3"  >
@@ -72,7 +75,7 @@ title: Découvrir le programme
    </div>
 </div>
 
-<div class="fr-py-6w">
+<div class="fr-container fr-my-6w">
   <h2 class="fr-mb-4w">Les étapes du programme en détail</h2>
    <div id="investigation" class="fr-grid-row fr-grid-row--gutters fr-mb-6w">
       <div class="fr-col-md-4 fr-col-12">
