@@ -7,7 +7,7 @@ sidebar: sidebar-fast.html
 
 Le FAST permet un accompagnement de 4 mois par des experts. Cet accompagnement se déroule en plusieurs phases.
 
-## Signature de la convention
+# Signature de la convention
 
 Pour bénéficier du FAST, les équipes lauréates du FAST s’engagent à :
 
@@ -15,7 +15,7 @@ Pour bénéficier du FAST, les équipes lauréates du FAST s’engagent à :
 - **Inviter la DINUM** au comité d’investissement ou de pilotage.
 - **Tenir ses sponsors disponibles** à accueillir les recommandations et lever si besoin les blocages éventuels dans l’amélioration et l’industrialisation du dispositif.
 
-## Lancement
+# Lancement
 
 Toutes les équipes lauréates se réunissent pendant deux jours pour :
 
@@ -23,14 +23,14 @@ Toutes les équipes lauréates se réunissent pendant deux jours pour :
 - Ébaucher un **plan d’action**.
 - **Échanger** avec des équipes rencontrant des problématiques communes.
 
-## Accompagnement
+# Accompagnement
 
 Pendant 4 mois, des experts en accélération accompagnent l’équipe sur plusieurs domaines :
 
 - Accompagnement **stratégique** : pour définir une stratégie de déploiement.
 - Accompagnement **opérationnel** : pour aider concrètement l’équipe à mettre en place les recommandations.
 
-## Démo Day
+# Démo Day
 
 Le Démo Day est un événement qui permet de faire le bilan de ce qui a marché ou pas, et de voir les évolutions qui ont eu lieu en 4 mois.
 
@@ -38,6 +38,6 @@ Le Démo Day est un événement qui permet de faire le bilan de ce qui a marché
 
 Cet événement met fin à l’accompagnement des experts.
 
-## Et après ?
+# Et après ?
 
 Nos équipes font le point 2 mois après la fin du FAST pour s'assurer de la continuité des actions mises en places.

@@ -8,11 +8,11 @@
   {%- assign incubator_id = startup.incubator | append: ".md" %}
   {%- assign incubator = incubators | find: "name", incubator_id %}
   <li>
-    <h3 class="fr-mb-1w">
+    <h2 class="fr-mb-1w">
       <a class="fr-link" target="_blank" rel="noopener" href="{{startup.link}}">
         {{ startup.title }}
       </a>
-    </h3>
+    </h2>
     <div class="fr-mb-1w">
       <em>
         {% if incubator.website %}

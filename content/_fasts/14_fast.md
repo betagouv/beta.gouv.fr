@@ -5,6 +5,8 @@ new-fast: true
 promotion: 14
 ---
 
+<h1>FAST 14 - Janvier 2024</h1>
+
 <div class="fr-text--lead">
 L’appel à projet FAST 14 était ouvert à candidature jusqu’au 1er
 décembre 2023. 21 candidatures ont été reçues et analysées selon les
