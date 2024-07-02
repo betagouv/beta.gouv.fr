@@ -3,7 +3,10 @@ title: FAST 2 - Novembre 2019
 sidebar: sidebar-fast.html
 ---
 
-## **Le comité d'investissement DINUM :**
+# FAST 2 - Novembre 2019
+
+## Le comité d'investissement DINUM
+
 - Nadi Bou Hanna
 - Jean Séverin Lair
 - Laure Lucchesi
@@ -15,7 +18,8 @@ sidebar: sidebar-fast.html
 - Jean Séverin Lair
 - Arnaud Denoix
 
-## **Les lauréats Fast 2:** ##
+## Les lauréats Fast 2
+
 1. Trackdéchets, faciliter le suivi du traitement des déchets dangereux.
 2. Cmachance, mise en relation entre artisans et apprentis.
 3. Lapins, réduire les rendez-vous non honorés dans les maisons départementales de solidarités.
