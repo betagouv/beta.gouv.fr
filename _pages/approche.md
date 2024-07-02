@@ -95,7 +95,7 @@ title: Découvrir le programme
          <p>Décideur public, vous voulez lancer une investigation avec nous ?</p>
         <div class="fr-btns-group fr-btns-group--inline">
           <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="/devenir-intrapreneur/">Devenir intra</a>
-          <a id="btn-decouvrir-investigation" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link" href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation">Découvrir l'investigation</a>
+          <a id="btn-decouvrir-investigation" class="fr-btn fr-btn--md fr-btn--tertiary fr-enlarge-link" href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation">Découvrir l'investigation</a>
         </div>
       </div>
    </div>
@@ -129,7 +129,7 @@ title: Découvrir le programme
             <span aria-hidden="true">✋</span> L’intra, son ou sa coach et une équipe d’experts du numérique
          </div>
          <div class="fr-btns-group fr-btns-group--inline">
-              <a id="btn-decouvrir-construction" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link"  href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction">Découvrir la construction</a>
+              <a id="btn-decouvrir-construction" class="fr-btn fr-btn--md fr-btn--tertiary fr-enlarge-link"  href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction">Découvrir la construction</a>
          </div>
       </div>
    </div>
