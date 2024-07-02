@@ -14,5 +14,6 @@ competences:
   - PHP
   - Administration Publique
 memberType: beta
+link: https://design.numerique.gouv.fr/qui-sommes-nous/
 ---
 prof -> dév -> expert
