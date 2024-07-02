@@ -13,9 +13,9 @@ missions:
     status: independent
     employer: Codeurs en Liberté
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 previously:
-  - place-des-entreprises
+  - conseillers-entreprises
   - demarches-simplifiees.fr
   - rdv-service-public
 competences:

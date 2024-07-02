@@ -22,7 +22,7 @@ missions:
     status: independent
     employer: octo
 startups:
-  - itou
+  - les-emplois
 previously:
   - la-bonne-boite
   - workinfrance

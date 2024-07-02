@@ -16,6 +16,6 @@ startups:
 previously:
   - eva
   - diagoriente
-  - place-des-entreprises
+  - conseillers-entreprises
 ---
 Réfutabilité/Méthode/Ethique
