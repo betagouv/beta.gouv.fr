@@ -114,16 +114,33 @@ layout: default
 
 <section class="fr-py-6w section-white">
     <div class="fr-container">
-      <h2 class="section-title">Plus de 100 agents et 120 startups&nbsp;</h2>
-      <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+      <h2 class="section-title">Rejoignez plus de 300 agents</h2>
+
+      <p>Notre communauté rassemble des intrapreneuses et intrapreneurs issues de nombreuses administrations, mais tous passionnées par le service public : </p>
+      <div class="fr-grid-row fr-grid-row--gutters">
         {%- for author in authors -%}
-          <div class="fr-col-md-4 fr-col-12 fr-mb-2w">{%- include card-community.html author=author -%}</div>
+          <div class="fr-col-4 fr-mb-4w">{%- include quote-intra.html author=author -%}</div>
         {%- endfor -%}
       </div>
+    </div>
+</section>
 
-      <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-pt-6w">
-        <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary"
-          href="https://blog.beta.gouv.fr/">Plus de témoignages</a>
+<section class="fr-py-6">
+    <div class="fr-container">
+        <div class="fr-grid-row fr-grid-row--gutters fr-mt-4w-8w fr-mb-8w fr-p-2w" style="border: 4px solid var(--border-open-blue-france); border-bottom-right-radius: 120px">
+          <div class="fr-col-12">
+              <div class="fr-grid-row">
+                <div class="fr-col-md-8 fr-col-sm-12">
+                  <h2>Comment nous rejoindre ?</h2>
+                  <ul>
+                    <li>Suivez nos actualités et participez aux <b>appel à intrapreneurs</b> de nos <a href="/incubateurs">incubateurs</a>.</li>
+                    <li>Contactez-nous pour poser toutes vos questions et challenger votre idée.</li>
+                  </ul>
+                  <p class="fr-pt-1w"><a href="mailto:contact@beta.gouv.fr" class="fr-btn">Nous contacter</a>
+                </div>
+                <div class="fr-col-md-4 fr-col-sm-12 text-center"><img src="/img/layouts/jobs/produit.svg" style="width: 350px; max-width: 100%" alt="" /><br /></div>
+              </div>
+          </div>
       </div>
     </div>
 </section>
