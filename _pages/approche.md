@@ -96,10 +96,10 @@ title: Découvrir le programme
             <span aria-hidden="true">📅</span> Pendant <b>1 à 2 mois </b><br>
             <span aria-hidden="true">✋</span> L’intra accompagné d’un ou d’une coach
          </div>
-         <p>Décideur public, vous voulez lancer une investigation avec nous?</p>
+         <p>Décideur public, vous voulez lancer une investigation avec nous ?</p>
         <div class="fr-btns-group fr-btns-group--inline">
-          <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="mailto:contact@beta.gouv.fr">Prendre rendez-vous</a>
-          <a id="btn-decouvrir-investigation" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link" href="/approche/investigation">Découvrir l'investigation</a>
+          <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="/devenir-intrapreneur/">Devenir intra</a>
+          <a id="btn-decouvrir-investigation" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link" href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation">Découvrir l'investigation</a>
         </div>
       </div>
    </div>
@@ -122,20 +122,18 @@ title: Découvrir le programme
          </p>
          <h5 class="fr-text--md fr-mb-0">La phase d’accélération</h5>
          <p>
-            Avoir un produit fini déployé au niveau national.
+            Faire grandir le produit en terme de fonctionnalités, et le déployer nationalement.
          </p>
-         <h5 class="fr-text--md fr-mb-0">La phase de transfert</h5>
+         <h5 class="fr-text--md fr-mb-0">La phase de pérénisation</h5>
          <p>
             Créer les conditions de la reprise en assurant la pérennité du projet au sein de son administration d‘origine.
          </p>
          <div class="fr-mb-4w fr-p-1w fr-col-md-8 fr-col-sm-12 fr-mt-2w section-grey">
             <span aria-hidden="true">📅</span> Pendant <b>18 à 32 mois</b><br>
-            <span aria-hidden="true">✋</span> L’intra, son ou sa coach et une équipe d’experts
+            <span aria-hidden="true">✋</span> L’intra, son ou sa coach et une équipe d’experts du numérique
          </div>
-         <p>Décideur public, vous voulez réaliser un service public numérique ?</p>
          <div class="fr-btns-group fr-btns-group--inline">
-            <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="mailto:contact@beta.gouv.fr">Prendre rendez-vous</a>
-              <a id="btn-decouvrir-construction" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link"  href="/approche/construction">Découvrir la construction</a>
+              <a id="btn-decouvrir-construction" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link"  href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction">Découvrir la construction</a>
          </div>
       </div>
    </div>
