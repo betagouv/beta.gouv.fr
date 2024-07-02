@@ -139,26 +139,6 @@ title: Découvrir le programme
    </div>
 </div>
 
-<div id="alpha" class="fr-grid-row fr-grid-row--gutters full-width section-grey fr-py-6w">
-   <div class="fr-col-md-4 fr-col-12">
-      <img
-         src="/img/alpha/alpha-first-session-solo.jpeg"
-         alt=""
-        />
-   </div>
-   <div class="fr-col-md-8 fr-px-4w fr-col-12">
-      <h2 class="fr-text--md fr-mb-0">La formation des agents publics</h2>
-      <h3>
-         Passer une journée à beta.gouv.fr
-      </h3>
-      <p>
-         Une journée de formation pour apprendre les méthodes utilisées au sein de beta.gouv.fr, travailler sur des problèmes de politiques publiques concrets et repartir avec une nouvelle manière d'aborder les problèmes de vos services !
-      </p>
-      <a class="fr-btn fr-btn--md" href="/approche/formation">S’inscrire à la prochaine session</a>
-   </div>
-</div>
-
-
 <!-- conversion tracking -->
 <script type="text/javascript">
 const nousecrireinvestigation = document.querySelector('#btn-nous-ecrire-investigation')
