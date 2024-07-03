@@ -11,7 +11,7 @@ missions:
     startups:
       - mon-suivi-justice
   - start: 2024-04-22
-    end: 2024-06-30
+    end: 2024-07-22
     status: independent
     employer: Scopyleft
     startups:
