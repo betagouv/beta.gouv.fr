@@ -75,8 +75,7 @@ additional_js:
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <p>Conformément à la <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14">Loi pour une République Numérique du 7 octobre 2016</a>, les <b>codes sources de services numériques publics</b> sont des documents administratifs communicables et réutilisables. Ils doivent donc être <b>ouverts</b>.
         </p>
-        <p>
-        Vous pouvez <b>retrouver les codes sources</b> des service faisant partie du programme sur leurs <a href="https://beta.gouv.fr/startups/">fiches produits</a> respectives.
+        <p><a href="https://beta.gouv.fr/startups/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Retrouver le code source d'un produit</a>
         </p>
       </div>
     </div>
@@ -85,7 +84,7 @@ additional_js:
       <p>
         Chaque service numérique du réseau beta.gouv.fr est tenu de mesurer son usage et son impact de manière publique sur une <b>page "Stats"</b>. Cette mesure permet d'<b>évaluer la pertinence de chaque service</b>, et de vérifier qu'elle apporte réellement de la valeur à ses utilisateurs et utilisatrices.
       </p>
-  <p>Vous pouvez retrouver ces pages, lorsqu'elles existent, sur <a href="https://beta.gouv.fr/startups/">chaque fiche</a> des produits faisant partie du programme.</p>
+      <p><a href="https://beta.gouv.fr/startups/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Retrouver les statistiques d'usage d'un produit</a></p>
       </div>
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <iframe
