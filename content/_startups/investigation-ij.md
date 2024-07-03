@@ -1,8 +1,8 @@
 ---
-title: Découverte des formations professionnelles à proximité
+title: Découvrir les formations professionnelles autour de vous
 mission: >-
-  Permettre la découverte des formations professionnelles post-collège à
-  proximité d’un établissement ou du domicile d’un jeune
+  Permettre la découverte des formations professionnelles à proximité d’un
+  établissement ou du domicile d’un collégien
 sponsors:
   - /organisations/menjs
   - /organisations/mtei
