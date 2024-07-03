@@ -110,16 +110,15 @@ additional_js:
     </div>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-        <p>L’accessibilité numérique consiste à rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. Depuis 2012, tous les sites publics doivent être accessibles et conformes à l’ensemble des critères du RGAA. Et ainsi permettre à tous les usagers un égal accès à leurs droits.</p>
-        <p>Le programme beta.gouv comporte 4 phases (investigation, construction, accélération puis consolidation). <b>C'est seulement à partir de la phase d'accélération que les services beta.gouv.fr lancent des chantiers de conformité, dont des audits formels d'accessibilité</b>.
-Avant cela, le produit est encore trop instable dans son design global. La priorité est de tester l’usage, sur de petits périmètres (avant de décider, ou non, de les généraliser).</p>
+        <p>L'accessibilité numérique est une obligation pour les services publics. Elle se mesure via un <b>audit de conformité</b>, quand le <b>produit est stabilisé</b>.</p>
+        <p>C'est pourquoi nos produits numériques en construction ou en accélération sont rarement conformes à ce stade de vie : ils évoluent trop pour qu'un audit soit pertinent (l'accessibilité numérique est à ce stade prise en compte via d'autres moyens).</p>
       </div>
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bde0b5e2-0e30-4df4-954d-a458b7b3f1db"
             height="300"
             style="width: 100%; border: 0; background-color: transparent;"
-            title="Statistiques de l'accessibilité numérique des produits"
+            title="Statistiques de conformité en accessibilité numérique des produits"
         ></iframe>
       </div>
   </div>
