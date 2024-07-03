@@ -81,7 +81,7 @@ additional_js:
       </div>
     </div>
   <div class="fr-grid-row fr-grid-row--gutters">
-      <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+    <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
       <p>
         Chaque service numérique du réseau beta.gouv.fr est tenu de mesurer son usage et son impact de manière publique sur une <b>page "Stats"</b>. Cette mesure permet d'<b>évaluer la pertinence de chaque service</b>, et de vérifier qu'elle apporte réellement de la valeur à ses utilisateurs et utilisatrices.
       </p>
@@ -110,45 +110,42 @@ additional_js:
       </div>
     </div>
   <div class="fr-grid-row fr-grid-row--gutters">
-      <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-        <p>L'accessibilité numérique est une obligation pour les services publics. Elle se mesure via un <b>audit de conformité</b>, quand le <b>produit est stabilisé</b>.</p>
-        <p>C'est pourquoi nos produits numériques en construction ou en accélération sont rarement conformes à ce stade de vie : ils évoluent trop pour qu'un audit soit pertinent (l'accessibilité numérique est à ce stade prise en compte via d'autres moyens).</p>
-      </div>
-      <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-        <iframe
-            src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bde0b5e2-0e30-4df4-954d-a458b7b3f1db"
-            height="300"
-            style="width: 100%; border: 0; background-color: transparent;"
-            title="Statistiques de conformité en accessibilité numérique des produits"
-        ></iframe>
-      </div>
+    <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <p>L'accessibilité numérique est une obligation pour les services publics. Elle se mesure via un <b>audit de conformité</b>, quand le <b>produit est stabilisé</b>.</p>
+      <p>C'est pourquoi nos produits numériques en construction ou en accélération sont rarement conformes à ce stade de vie : ils évoluent trop pour qu'un audit soit pertinent (l'accessibilité numérique est à ce stade prise en compte via d'autres moyens).</p>
+    </div>
+    <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <iframe
+          src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bde0b5e2-0e30-4df4-954d-a458b7b3f1db"
+          height="300"
+          style="width: 100%; border: 0; background-color: transparent;"
+          title="Statistiques de conformité en accessibilité numérique des produits"
+      ></iframe>
+    </div>
   </div>
   <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
     <h2>Montée en compétence de l'administration</h2>
-<p>beta.gouv.fr souhaite faire <b>monter en compétences l'administration</b>, en formant des agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité.</p>
-<p>
-Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr.
-</p>
-<p>La composition exacte est détaillée sur la page <a href="https://beta.gouv.fr/communaute/">communauté de beta.gouv.fr</a>.
-</p>
+    <p>beta.gouv.fr souhaite faire <b>monter en compétences l'administration</b>, en formant des agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité.</p>
+    <p>Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr.</p>
+    <p>La composition exacte est détaillée sur la page <a href="/communaute/">communauté de beta.gouv.fr</a>.</p>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
-      <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
-        <iframe
-            src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/493930f1-f3d2-4df5-a5f8-a67d593addc5"
-            height="300"
-            style="width: 100%; border: 0; background-color: transparent;"
-            title="Statistiques sur les nouveaux membres, par année"
-        ></iframe>
-      </div>
-  </div>
-<div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
-    <h3>État des lieux des incubateurs du réseau beta.gouv</h3>
-<p>Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la création de leur propre structure d'incubation et d'exploitation de produits numériques.</p>
+    <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
+      <iframe
+          src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/493930f1-f3d2-4df5-a5f8-a67d593addc5"
+          height="300"
+          style="width: 100%; border: 0; background-color: transparent;"
+          title="Statistiques sur les nouveaux membres, par année"
+      ></iframe>
     </div>
-</div>
-<div class="fr-grid-row fr-grid-row--gutters">
+  </div>
+  <div class="fr-grid-row fr-grid-row--gutters">
+    <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
+      <h3>État des lieux des incubateurs du réseau beta.gouv</h3>
+      <p>Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la création de leur propre structure d'incubation et d'exploitation de produits numériques.</p>
+    </div>
+  </div>
+  <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
       <iframe
           src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/3a9c4d96-43e6-4b82-b44d-6f99cd9ca604"
@@ -157,24 +154,23 @@ Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'ani
           title="Statistiques sur les incubateurs du réseau, par année"
       ></iframe>
     </div>
- </div>
+  </div>
   <div class="fr-grid-row fr-grid-row--gutters">
-      <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
-        <iframe
-            src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bb37a864-df62-43b9-ae42-3a097da5ddae"
-            height="300"
-            style="width: 100%; border: 0; background-color: transparent;"
-            title="Statistiques sur les produits lancés en 2022 par incubateur"
-        ></iframe>
-      </div>
-       <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
-         <iframe
-             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/5709d2c1-7ad2-4a49-b6e3-bbf7558ce2c3"
-             height="300"
-             style="width: 100%; border: 0; background-color: transparent;"
-            title="Statistiques sur les produits lancés en 2023 par incubateur"
-        ></iframe>
-      </div>
+    <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
+      <iframe
+        src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bb37a864-df62-43b9-ae42-3a097da5ddae"
+        height="300"
+        style="width: 100%; border: 0; background-color: transparent;"
+        title="Statistiques sur les produits lancés en 2022 par incubateur"
+      ></iframe>
+    </div>
+    <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
+      <iframe
+        src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/5709d2c1-7ad2-4a49-b6e3-bbf7558ce2c3"
+        height="300"
+        style="width: 100%; border: 0; background-color: transparent;"
+        title="Statistiques sur les produits lancés en 2023 par incubateur"
+      ></iframe>
+    </div>
   </div>
 </div>
-
