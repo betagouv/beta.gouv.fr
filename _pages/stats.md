@@ -41,8 +41,6 @@ additional_js:
       ></iframe>
     </div>
   </div>
-  <br>
-  <br>
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
       <h2>Nombre de produits lancés par an</h2>
@@ -60,8 +58,6 @@ additional_js:
       ></iframe>
     </div>
   </div>
-  <br>
-  <br>
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
       <h2 id="standards-qualite">Respect des standards de qualité</h2>
       <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions <b>sobres, ouvertes, accessibles, protectrices, sécurisées</b>. Pour cela, beta.gouv.fr a fixé un certain nombre de <b>standards de qualité</b> dont certains sont suivis ci-dessous.
@@ -113,7 +109,6 @@ additional_js:
         ></iframe>
       </div>
     </div>
-  <br>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <iframe
@@ -127,7 +122,6 @@ additional_js:
       <p><a href="https://dashlord.incubateur.net/">Dashlord</a> est l'outil public de suivi des bonnes pratiques pour les produits développés à beta.gouv.fr.</p>
       </div>
     </div>
-  <br>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <p>L’accessibilité numérique consiste à rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. Depuis 2012, tous les sites publics doivent être accessibles et conformes à l’ensemble des critères du RGAA. Et ainsi permettre à tous les usagers un égal accès à leurs droits.</p>
@@ -143,8 +137,6 @@ Avant cela, le produit est encore trop instable dans son design global. La prior
         ></iframe>
       </div>
   </div>
-  <br>
-  <br>
   <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
     <h2>Montée en compétence de l'administration</h2>
 <p>beta.gouv.fr souhaite faire <b>monter en compétences l'administration</b>, en formant des agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité.</p>
@@ -164,8 +156,6 @@ Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'ani
         ></iframe>
       </div>
   </div>
-  <br>
-  <br>
 <div class="fr-grid-row fr-grid-row--gutters">
   <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
     <h3>État des lieux des incubateurs du réseau beta.gouv</h3>
