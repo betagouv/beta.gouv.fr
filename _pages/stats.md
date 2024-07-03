@@ -46,6 +46,7 @@ additional_js:
       <h2>Nombre de produits lancés par an</h2>
       <p>Cet indicateur suit le <b>nombre de nouveaux produits</b> ayant commencé une <b>phase de construction</b>, toutes administrations publiques confondues. Il donne une indication sur l'<b>évolution de la diffusion de l'approche Startups d'État</b> au sein du secteur public.
       </p>
+      <p><a href="/startups/#construction" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir les produits actuellement en construction</a></p>
     </div>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
