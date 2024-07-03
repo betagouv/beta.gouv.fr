@@ -1,6 +1,6 @@
 ---
 domaine: Déploiement
-fullname: Erwan Blanchouin
+fullname: Erwan Gravez
 role: Déploiement
 missions:
   - start: 2024-05-29
@@ -9,4 +9,5 @@ missions:
     employer: malt
     startups:
       - chauffage-urbain
+memberType: beta
 ---
