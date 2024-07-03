@@ -11,7 +11,7 @@ additional_js:
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
       <p>
-      Le programme beta.gouv.fr rend compte de ses résultats publiquement (comme le font <a href="https://beta.gouv.fr/startups/">tous les produits numériques</a> qu'il a propulsé). Certains des indicateurs de cette page sont notamment suivis par le Parlement, lors du vote du budget annuel.
+      Le programme beta.gouv.fr rend compte de ses résultats publiquement (comme le font <a href="/startups/">tous les produits numériques</a> qu'il a propulsé). Certains des indicateurs de cette page sont notamment suivis par le Parlement, lors du vote du budget annuel.
       </p>
     </div>
   </div>
