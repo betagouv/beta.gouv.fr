@@ -1,24 +1,28 @@
 ---
 fullname: John Labuzan 🌞
-domaine: Produit
+domaine: Coaching
 role: Expert FAST, Product Owner, Growth🎯
 github: jondu33
 avatar: /img/authors/johnlabuzan.jpeg
 link: https://fair-fair.fr
 missions:
   - start: 2019-07-02
-    end: 2024-06-30
+    end: 2025-06-30
     status: independent
-    employer: academie-en-ligne.fr
+    employer: Numa
     startups:
       - chauffage-urbain
-      - place-des-entreprises
-      - signalement
-      - mediature
+      - conseillers-entreprises
       - lannuaire.des.collectivites
+      - mediature
+      - signalement
+      - aides-territoires
+      - boursoloco
+      - mon.espace.collectivite
+      - nosgestesclimat
 startups:
   - chauffage-urbain
-  - place-des-entreprises
+  - conseillers-entreprises
   - signalement
   - mediature
   - lannuaire.des.collectivites

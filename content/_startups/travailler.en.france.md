@@ -2,10 +2,12 @@
 title: Travailler en France
 mission: Accélérer la dimension de l'insertion dans l’intégration des étrangers.
 sponsors:
-  - /organisations/pole-emploi
-incubator: pole-emploi
-contact: alameen.abdul-khudoos-ext@pole-emploi.fr
+  - /organisations/francetravail
+incubator: francetravail
+contact: travailler-en-france@beta.francetravail.fr
 accessibility_status: non conforme
+stats: true
+stats_url: https://travailler-en-france.beta.francetravail.fr/stats
 phases:
   - name: construction
     start: 2023-01-20

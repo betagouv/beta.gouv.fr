@@ -1,7 +1,7 @@
 ---
 fullname: Laurine Huber
 role: Data Analyst
-domaine: Développement
+domaine: Data
 link: https://laurinehu.github.io/
 github: laurinehu
 missions:

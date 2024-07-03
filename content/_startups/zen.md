@@ -1,9 +1,9 @@
 ---
 title: Zen
 mission: Aider les personnes cumulant emploi et chômage à être payé le bon montant d’allocation chômage
-sponsors: 
-    - /organisations/pole-emploi
-incubator: pole-emploi
+sponsors:
+    - /organisations/francetravail
+incubator: francetravail
 phases:
   - name: investigation
     start: 2018-04-01

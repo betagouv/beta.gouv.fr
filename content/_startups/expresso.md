@@ -1,6 +1,7 @@
 ---
 title: Expresso
-mission: Faciliter la gestion des ressources humaines dans les établissements à
+mission: >-
+  Faciliter la gestion des ressources humaines dans les établissements à
   autonomie financière
 sponsors:
   - /organisations/meae
@@ -11,8 +12,11 @@ phases:
     start: 2021-09-15
   - name: construction
     start: 2022-09-01
+  - start: 2024-04-03
+    name: acceleration
 thematiques:
   - Travail / Emploi
+accessibility_status: non conforme
 ---
 **Contexte**
 

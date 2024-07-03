@@ -1,71 +1,56 @@
 ---
-title: Exposition d'informations utiles aux accompagnateurs des jeunes à l’orientation professionnelle
-mission: Fournir des données utiles aux accompagnateurs des jeunes à l’orientation professionnelle
+title: Découvrir les formations professionnelles autour de vous
+mission: >-
+  Permettre la découverte des formations professionnelles à proximité d’un
+  établissement ou du domicile d’un collégien
 sponsors:
-    - /organisations/menjs
-    - /organisations/mtei
-    - /organisations/mesr
-    - /organisations/mtfp
+  - /organisations/menjs
+  - /organisations/mtei
+  - /organisations/mesr
+  - /organisations/mtfp
 incubator: mission-inserjeunes
 redirect_from:
-    - /startups/investigationIJ
+  - /startups/investigationIJ
 phases:
-    - name: investigation
-      start: 2023-09-11
-repository:
-stats_url:
+  - name: investigation
+    start: 2023-09-11
+  - name: construction
+    start: 2024-03-01
 stats: false
 contact: contact@inserjeunes.beta.gouv.fr
 usertypes:
-    - particulier
-    - association
-    - etablissement-scolaire
-dashlord_url:
+  - particulier
+  - association
+  - etablissement-scolaire
 thematiques:
   - Jeunesse
   - Formation
 ---
-## Contexte
+## Le problème
 
-Les choix d’orientation sont souvent faits **sans une information suffisante**. L’orientation est trop **complexe.** Elle favorise les initiés ou accorde aux résultats scolaires un poids qui reste trop lourd, par rapport aux compétences des élèves. En pratique, les élèves construisent leur poursuite d’études principalement à partir de leurs aptitudes studieuses et d’une **représentation floue des métiers**, **sans être correctement informés sur le marché du travail** (Fouarge, 2018).
+Les choix d’orientation sont souvent fondés sur des **informations partielles et subjectives concernant les parcours de formation et le marché de l’emploi**. Bon nombre de jeunes s’orientent, ou sont orientés, vers les **filières les plus connues, mais qui s’avèrent souvent sans perspectives**.
 
-Les plateformes d’orientation (ONISEP, l’Etudiant… ) et de choix des parcours (Parcoursup, Affelnet) exposent de très nombreuses informations sur les formations et les métiers. Ce volume important de données peut être anxiogène et incompris par les premiers concernés et plus particulièrement par les plus jeunes d’entre eux. Dans ce contexte le **rôle des accompagnateurs,** notamment professionnels, est essentiel pour **sourcer, comprendre, digérer et transmettre les informations pertinentes**.
+Dans ce contexte le **rôle des accompagnateurs,** notamment professionnels (professeurs principaux, psychologues de l’éducation nationale, etc.), est essentiel pour **identifier, comprendre, synthétiser et transmettre les informations pertinentes**. Ceux-ci sont cependant peu, mal ou inégalement formés et outillés. 
 
-Il est également constaté que le **rôle différencié des accompagnateurs amplifie les disparités d’accès à l’information** et impacte les trajectoires professionnelles. Le degré d’expertise et la “valeur ajoutée” (Jérémy Hervelin et Pierre Villedieu 2022 - Mission Locale de PARIS) de l’accompagnateur diffèrent d’une structure à l’autre, d’un contexte et d’un environnement de travail à l’autre ou encore d’une spécialité à l’autre.
+La **découverte des formations professionnelles, proposées à proximité d’un établissement ou du domicile des jeunes et l’accès aux caractéristiques de ces formations**, est ainsi un enjeu majeur pour lequel les accompagnateurs n’ont pas de solutions identifiées leur permettant de monter en compétence et d’accompagner efficacement les jeunes collégiens et leurs familles.
 
-Malgré un fort engagement dans leur mission d’aide de l’accompagné en apportant une expertise (”valeur ajoutée”), les accompagnateurs redoutent de recevoir les personnes **trop tard dans leurs parcours** (entretiens menés avec des conseiller.e.s CIDJ en 2023). Ces situations mettent en lumière des trajectoires irréversibles, des choix fatalistes, des situations compliquées, des fenêtres de tir loupées, un manque d’offre de proximité, etc.
+## Notre solution
 
-**Nous avons l’intuition que des données à notre disposition (insertion, métiers d’avenir, poursuite d’études, attractivité) sont sous-utilisées et pourraient être utiles à des accompagnants si elles étaient présentées efficacement et mises en perspective les unes pas rapports au autres.**
+Nous construisons un service permettant aux **accompagnateurs de guider les collégiens** et leurs familles dans leurs choix d’orientation pour **construire une stratégie de vœux ancrée dans une réalité terrain**.
 
-De premiers éléments d’investigation ont permis de définir plusieurs profils cibles de jeunes et d’accompagnants, ainsi qu’une liste priorisée des irritants observés.
+Pour cela, nous souhaitons :
 
-## Enjeux et objectifs de l'investigation
+- faciliter la **découverte des formations professionnelles à proximité** (transports en commun, vélo, marche, etc.) ou accessibles (internat par exemple) ;
+- apporter des **éclairages sur les conditions d’accès** (taux de pression, places disponibles, aides, etc.), **le contenu** (répartition du temps, qualité de l’accompagnement, témoignages, etc.) et **le devenir des élèves** (poursuite d’étude, taux d’emploi, rémunérations, métiers en tension ou d’avenir, etc.) au sein de ces formations.
 
-L’ambition de l’investigation de mieux cerner les problème rencontrés et de prototyper une solution qui permette aux accompagnateurs d’accompagner les jeunes en “connaissance de cause” sur les volets “ce dont le monde a besoin” et “ce pourquoi je peux être rétribué” de l’Ikigaï.
+## Les bénéfices
 
-Les enjeux à remporter sont multiples :
+- Favoriser la création de **stratégies d’orientation réfléchies et motivées** ;
+- **Réduire le nombre d’orientations vers des filières “bouchées”** via l’accompagnement des accompagnateurs, notamment mettre en avant les filières porteuses et d’avenir ;
+- **Simplifier le travail des accompagnateurs**.
 
--   Réduire le nombre d’orientations par défaut vers des filières “bouchées” via l’accompagnement des accompagnateurs, notamment mettre en avant les filières porteuses et d’avenir ;
--   Simplifier le travail des accompagnateurs ;
--   Avoir un impact positif sur le rôle différencié des accompagnateurs.
+## Notre calendrier
 
-Pour y contribuer, l’investigation se propose notamment de répondre aux interrogations suivantes :
-
--   Comment l’intervention de proxy (accompagnateurs) peut être impactante pour les jeunes ?
--   Quel angle d’attaque choisir pour développer un prototype ? Quels sont les irritants les plus significatifs ? Les fonctionnalités prioritaires ?
--   De quelles informations les prescripteurs ont besoin sur les volets “Ce dont le monde a besoin” et “Ce pourquoi je suis rétribué.e” ?
--   Quel est le potentiel d’impact d’une meilleure exposition des données pertinentes auprès des accompagnateurs ?
-
-## Publics rencontrés
-
-L’investigation s’appuie sur des entretiens menés auprès d’utilisateurs. La priorité est donnée à la recherche côté accompagnateurs, étant donné leur rôle central dans l’orientation des jeunes.
-
-On distingue quatre niveaux d’accompagnateurs à l’orientation : les parents, les professeurs, les conseillers et enfin les structures comme les établissements (collèges, lycées professionnels et généraux) et les organismes d’orientation et d’accompagnement (missions locales, écoles de la deuxième chance, centre d’information jeunesse, Pôle emploi, etc.).
-
-## Premiers résultats attendus
-
-La première phase de l’investigation donnera lieu à la présentation de l’analyse des problèmes utilisateurs et des pistes de solutions numériques ou non pour y remédier. Une décision sera alors prise pour tester et améliorer un prototype d’ici fin janvier 2024.
-
-## Mesure d'impact
-
-L’impact pourra être apprécié de manière qualitative, au travers d’une meilleure compréhension des problèmes rencontrés par les accompagnateurs, et de manière quantitative à terme, au travers d’une plus grande utilisation du service / des données mises à disposition, notamment dans les moments critiques pour l’orientation ou la réorientation des jeunes.
+- Second semestre 2024 : développement du MVP et tests dans 5 à 10 établissements en régions Île-de-France et Bretagne
+- Premier semestre 2025 : consolidation de la solution numérique et déploiement national
+- Second semestre 2025 : intégration aux outils et dispositifs nationaux, dont Avenir(s)****
