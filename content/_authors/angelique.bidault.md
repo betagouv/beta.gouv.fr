@@ -1,7 +1,7 @@
 ---
 domaine: Design
 fullname: Angélique Bidault
-role: Designer de service
+role: Designer
 missions:
   - start: 2024-06-10
     end: 2025-10-20
@@ -22,4 +22,4 @@ competences:
   - ui
   - Communication
 ---
-Design créatif au service de l'intérêt général
+Service & Product designer freelance basée à Nantes, engagée dans des missions à impact et d'intérêt général. #conseil #ux #direction-créative
