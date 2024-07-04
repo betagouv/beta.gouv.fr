@@ -1,7 +1,7 @@
 ---
 fullname: Jenn Stephan
-role: Coach produit
-domaine: Coaching
+role: Respo incubateur MASA
+domaine: Animation
 github: JenniferStephan
 avatar: https://avatars3.githubusercontent.com/u/36134318?s=400&v=4
 missions:
@@ -24,4 +24,8 @@ previously:
   - au-compost-mitoyen
   - protege-toit
 link: https://www.linkedin.com/in/stephanjennifer/
+competences:
+  - Facilitation
+  - Product strategy
+  - Coaching
 ---
