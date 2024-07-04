@@ -2,6 +2,7 @@
 domaine: Développement
 fullname: Laetitia Langlois
 role: Développement
+github: weblaetitia
 missions:
   - start: 2024-07-01
     end: 2024-09-30

@@ -2,7 +2,7 @@
 mission: Améliorer le respect du temps de travail des travailleurs mobiles
 incubator: mtes
 repository: https://github.com/MTES-MCT/mobilic
-contact: gaspard.granger@developpement-durable.gouv.fr
+contact: mobilic@beta.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - entreprise

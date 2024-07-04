@@ -3,11 +3,14 @@ title: FAST 11 - Juin 2022
 sidebar: sidebar-fast.html
 ---
 
-### **Le comité d'investissement :** ###
+# FAST 11 - Juin 2022
+
+## Le comité d'investissement
+
 - Xavier Albouy (DINUM)
 - Florian Delezenne (DINUM)
 
-### **Les lauréats Fast 11 :** ###
+## Les lauréats Fast 11
 1 - [Collectif Objets](https://collectif-objets.beta.gouv.fr/) : Recenser pour mieux protéger les objets du patrimoine des communes (perte, destruction, dégradation, etc.). <br/><br/>
 2 - [APiLos](https://apilos.beta.gouv.fr/) : Réduire la durée de conventionnement des bailleurs sociaux, afin d’éviter le décalage de versement d’APL ou la réévaluation des loyers. <br/><br/>
 3 - [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) : Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté. <br/><br/>

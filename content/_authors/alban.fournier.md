@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/albanfournierprenfit/
 avatar: /img/authors/alban.fournier.jpg
 missions:
   - start: 2022-06-01
-    end: 2024-06-30
+    end: 2025-03-28
     status: independent
     employer: Little Big Connection
     startups:
