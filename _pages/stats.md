@@ -58,56 +58,57 @@ additional_js:
       ></iframe>
     </div>
   </div>
-    <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
-      <h2 id="standards-qualite">Respect des standards de qualité</h2>
-      <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions <b>sobres, ouvertes, accessibles, protectrices, sécurisées</b>. Pour cela, beta.gouv.fr a fixé un certain nombre de <b>standards de qualité</b> dont certains sont suivis ci-dessous.
+  <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
+    <h2 id="standards-qualite">Respect des standards de qualité</h2>
+    <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions <b>sobres, ouvertes, accessibles, protectrices, sécurisées</b>. Pour cela, beta.gouv.fr a fixé un certain nombre de <b>standards de qualité</b> dont certains sont suivis ci-dessous.
+    </p>
+  </div>
+  <div class="fr-grid-row fr-grid-row--gutters fr-py-2w">
+    <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <iframe
+          src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/df66b4b5-da83-4131-90a5-52b7c68f10e0"
+          height="300"
+          style="width: 100%; border: 0; background-color: transparent;"
+          title="Statistiques d'ouverture du code source"
+      ></iframe>
+    </div>
+    <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <p>Conformément à la <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14">Loi pour une République Numérique du 7 octobre 2016</a>, les <b>codes sources de services numériques publics</b> sont des documents administratifs communicables et réutilisables. Ils doivent donc être <b>ouverts</b>.
+      </p>
+      <p><a href="/startups/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Retrouver le code source d'un produit</a>
       </p>
     </div>
-    <div class="fr-grid-row fr-grid-row--gutters">
-      <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-        <iframe
-            src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/df66b4b5-da83-4131-90a5-52b7c68f10e0"
-            height="300"
-            style="width: 100%; border: 0; background-color: transparent;"
-            title="Statistiques d'ouverture du code source"
-        ></iframe>
-      </div>
-      <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-        <p>Conformément à la <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14">Loi pour une République Numérique du 7 octobre 2016</a>, les <b>codes sources de services numériques publics</b> sont des documents administratifs communicables et réutilisables. Ils doivent donc être <b>ouverts</b>.
-        </p>
-        <p><a href="https://beta.gouv.fr/startups/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Retrouver le code source d'un produit</a>
-        </p>
-      </div>
-    </div>
+  </div>
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
       <p>
         Chaque service numérique du réseau beta.gouv.fr est tenu de mesurer son usage et son impact de manière publique sur une <b>page "Stats"</b>. Cette mesure permet d'<b>évaluer la pertinence de chaque service</b>, et de vérifier qu'elle apporte réellement de la valeur à ses utilisateurs et utilisatrices.
       </p>
-      <p><a href="https://beta.gouv.fr/startups/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Retrouver les statistiques d'usage d'un produit</a></p>
-      </div>
-      <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-        <iframe
-            src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/4c8c5ab0-2ff1-4d81-abe2-115be0481e0a"
-            height="300"
-            style="width: 100%; border: 0; background-color: transparent;"
-            title="Statistiques de taux de publication de pages Statistiques"
-        ></iframe>
-      </div>
+      <p><a href="/startups/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Retrouver les statistiques d'usage d'un produit</a></p>
     </div>
+    <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <iframe
+          src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/4c8c5ab0-2ff1-4d81-abe2-115be0481e0a"
+          height="300"
+          style="width: 100%; border: 0; background-color: transparent;"
+          title="Statistiques de taux de publication de pages Statistiques"
+      ></iframe>
+    </div>
+  </div>
   <div class="fr-grid-row fr-grid-row--gutters">
-      <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-        <iframe
-            src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/e5dbecb8-8601-4cfd-916b-faefff27eb60"
-            height="300"
-            style="width: 100%; border: 0; background-color: transparent;"
-            title="Statistiques de présence sur l'outil Dashlord"
-        ></iframe>
-      </div>
-      <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-      <p><a href="https://dashlord.incubateur.net/">Dashlord</a> est l'outil public de suivi des bonnes pratiques pour les produits développés à beta.gouv.fr.</p>
-      </div>
+    <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <iframe
+          src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/e5dbecb8-8601-4cfd-916b-faefff27eb60"
+          height="300"
+          style="width: 100%; border: 0; background-color: transparent;"
+          title="Statistiques de présence sur l'outil Dashlord"
+      ></iframe>
     </div>
+    <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <p><a href="https://dashlord.incubateur.net/">Dashlord</a> est un outil de suivi des bonnes pratiques. Il permet aux équipes produits d'identifier automatiquement certaines métriques (tests automatiques d'accessibilité, problèmes de sécurité, etc).</p>
+      <p><a href="https://dashlord.incubateur.net/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Explorer les données</a></p>
+    </div>
+  </div>
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
       <p>L'accessibilité numérique est une obligation pour les services publics. Elle se mesure via un <b>audit de conformité</b>, quand le <b>produit est stabilisé</b>.</p>
@@ -124,9 +125,9 @@ additional_js:
   </div>
   <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
     <h2>Montée en compétence de l'administration</h2>
-    <p>beta.gouv.fr souhaite faire <b>monter en compétences l'administration</b>, en formant des agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité.</p>
-    <p>Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr.</p>
-    <p>La composition exacte est détaillée sur la page <a href="/communaute/">communauté de beta.gouv.fr</a>.</p>
+    <p>beta.gouv.fr souhaite faire <b>monter l'administration en compétence</b>, en formant des agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité.</p>
+    <p>Cet indicateur compte, par an, les nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr.</p>
+    <p><a href="/communaute/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Explorer la communauté</a></p>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
