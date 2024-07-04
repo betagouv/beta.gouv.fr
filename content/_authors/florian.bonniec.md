@@ -5,7 +5,7 @@ domaine: Développement
 github: fbonniec
 missions:
   - start: 2023-08-16
-    end: 2024-06-30
+    end: 2024-08-31
     status: independent
     employer: Opteamis
     startups:

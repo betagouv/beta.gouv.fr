@@ -5,6 +5,8 @@ permalink: /fast/déroulement
 sidebar: sidebar-fast.html
 ---
 
+# Déroulement du FAST
+
 Le FAST permet un accompagnement de 4 mois par des experts. Cet accompagnement se déroule en plusieurs phases.
 
 ## Signature de la convention

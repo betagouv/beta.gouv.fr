@@ -53,12 +53,14 @@ France VAE (anciennement REVA) porte l’ambition de développer et fluidifier l
 
 Une 1re expérimentation "dite en droits futurs" (2700 usagers) a été conduite de juin 2022 à juin 2023 afin de permettre la mise en test d’une plateforme numérique partagée entre les certificateurs, les services publics, les organismes de formation et l’utilisateur, posant les bases de la future réforme de la VAE.
 
-L’objectif de ce nouveau portail sera de lever les irritants, d’assurer une mise en visibilité des compétences tout au long de la vie au service de la sécurisation des parcours, mais également d’apporter une transparence de la mesure de l’efficience du nouveau dispositif. 
+L’objectif de ce nouveau portail était de lever les irritants, d’assurer une mise en visibilité des compétences tout au long de la vie au service de la sécurisation des parcours, mais également d’apporter une transparence de la mesure de l’efficience du nouveau dispositif. 
 
-Il est conçu comme une offre de service complète permettant la convergence, au sein d’un système dédié, des attentes du candidat vis-à-vis de son parcours et de celles des parties prenantes. La plateforme numérique rend possible une véritable logique de parcours pour le candidat et facilite la gestion de cette voie d’accès à la certification.
+Il a été conçu comme une offre de service complète permettant la convergence, au sein d’un système dédié, des attentes du candidat vis-à-vis de son parcours et de celles des parties prenantes. La plateforme numérique rend possible une véritable logique de parcours pour le candidat et facilite la gestion de cette voie d’accès à la certification.
 
 Suite à la remise de deux rapports d’évaluation et de mesure d’impacts à la Ministre du travail et conduits par un cabinet externe, le parlement a été saisi d’un nouveau projet de loi sur la VAE qui a été définitivement approuvé et publié au JO le 21 décembre 2022. Outre les simplifications réglementaires inscrites dans la loi, le texte prévoit la création d’un nouveau service public de la VAE dont le pivot central sera la plateforme numérique France VAE.
 
-L’équipe a donc lancé en juillet 2023 une dernière et 3eme phase dite de préfiguration du service public avec 220 certifications disponibles et plus de 500 architectes Accompagnateurs de Parcours qui permettent d’accompagner près de 5000 usagers par mois. Reva a donc disparu au profit de France VAE. Cette 3eme phrase permet de continuer d’itérer pour améliorer le service aux usagers, éprouver la plateforme, mais également alimenter la réflexion du Ministère du Travail en vue d’écrire le décret d’application de la loi qui sera publié au JO en janvier 2024.
+L’équipe a donc lancé en juillet 2023 une dernière et 3eme phase dite de préfiguration du service public avec 220 certifications disponibles et plus de 500 architectes Accompagnateurs de Parcours qui permettent d’accompagner près de 5000 usagers par mois. Reva a donc disparu au profit de France VAE. Cette 3eme phrase a permis de continuer d’itérer pour améliorer le service aux usagers, éprouver la plateforme, mais également alimenter la réflexion du Ministère du Travail en vue d’écrire le décret d’application de la loi qui a permis d’écrire le décret publié au JO le  28 décembre 2023.
 
-La réforme de la VAE a été intégrée comme une politique prioritaire du gouvernement et sera pleinement efficiente courant 2024.
+La période de préfiguration de France VAE va se dérouler une grande partie de l’année 2024, ce qui permettra à l’équipe de poursuivre son travail d’itération afin de contribuer à l’écriture des Arrêtés de mise en oeuvre du service public et de sa généralisation en 2025.
+
+La réforme de la VAE a été intégrée comme une politique prioritaire du Gouvernement.

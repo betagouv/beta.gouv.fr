@@ -1,9 +1,9 @@
 ---
 fullname: Martin Ratinaud
-role: Directeur Technique
 domaine: Développement
-link: http://bit.ly/work-with-martin
+role: Développeur
 github: martinratinaud
+link: http://bit.ly/work-with-martin
 missions:
   - start: 2021-03-05
     end: 2023-04-01
@@ -12,7 +12,18 @@ missions:
     startups:
       - open-terms-archive
       - disinfo
+  - start: 2024-07-04
+    end: 2024-12-31
+    status: independent
+    employer: malt
+    startups:
+      - chauffage-urbain
 startups:
+  - chauffage-urbain
+previously:
   - open-terms-archive
   - disinfo
+competences:
+  - Développement Frontend
+  - Développement Backend
 ---

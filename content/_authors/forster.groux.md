@@ -11,7 +11,7 @@ missions:
     startups:
       - ma-cantine-egalim
   - start: 2023-10-02
-    end: 2024-06-30
+    end: 2024-09-30
     status: independent
     employer: /ut7
     startups:

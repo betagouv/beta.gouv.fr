@@ -1,7 +1,7 @@
 ---
 fullname: Louis-Jean Teitelbaum
 domaine: Animation
-role: Designer
+role: Responsable du design et des études
 github: louije
 link: https://meidosem.com
 teams:
@@ -25,4 +25,4 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-Responsable du design et des études à la Plateforme de l’inclusion.
+Bidouilleur, enseignant, designer, développeur.

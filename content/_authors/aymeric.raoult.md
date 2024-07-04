@@ -13,7 +13,7 @@ missions:
       - carte-verte
       - mistral-penal
   - start: 2024-02-21
-    end: 2024-06-30
+    end: 2024-12-31
     status: service
     employer: Ippon
     startups:

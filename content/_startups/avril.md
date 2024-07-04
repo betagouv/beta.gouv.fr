@@ -2,8 +2,8 @@
 title: Avril
 mission: Obtenir un diplôme par la VAE grâce à ses compétences
 sponsors:
-  - /organisations/pole-emploi
-incubator: pole-emploi
+  - /organisations/francetravail
+incubator: francetravail
 link: https://avril.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/avril
 contact: avril@fabrique.social.gouv.fr
