@@ -2,8 +2,8 @@
 title: SPPNaut
 mission: Faciliter l'utilisation des publications nautiques en numérisant les données qu'elles contiennent
 sponsors:
-  - /organisations/dinum
   - /organisations/shom
+  - /organisations/dinum
 incubator: dinum
 phases:
   - name: investigation
@@ -17,14 +17,13 @@ stats: false
 repository: https://github.com/betagouv/SPPNautCarting
 contact: gael.roue@shom.fr
 techno:
-    - Python
-    - PostgreSQL
-    - PostGIS
+  - Python
+  - PostgreSQL
+  - PostGIS
 usertypes:
   - entreprise
   - etat
 ---
-
 ## Le contexte
 
 Le Shom, service hydrographique français, assure la sécurité des navigateurs et de la navigation par la diffusion de produits nautiques. Parmi ceux-ci, on retrouve les Publications Nautiques, comprenant des informations nautiques qui complètent la carte marine.

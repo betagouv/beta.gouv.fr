@@ -10,12 +10,11 @@ phases:
   - name: investigation
     start: 2023-07-01
     end: 2023-11-27
-  - start: 2024-01-02
-    name: construction
+  - name: construction
+    start: 2024-01-02
 thematiques:
   - Écologie
 ---
-
 ## Contexte
 
 En France, 10.000 espèces végétales et animales sont classées comme “protégées”. Il est interdit de nuire à ces espèces ou de dégrader leurs habitats de repos ou de reproduction. Toutefois, des dérogations à ce régime strict d’interdiction existent, pour des projets remplissant des critères précis, tout en s’inscrivant dans la séquence Eviter-Réduire-Compenser (ERC).

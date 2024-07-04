@@ -2,12 +2,12 @@
 title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté
 sponsors:
-    - /organisations/dge
-    - /organisations/dgefp
-    - /organisations/bdf
-    - /organisations/acoss
-    - /organisations/dinum
-incubator: dinum 
+  - /organisations/acoss
+  - /organisations/bdf
+  - /organisations/dinum
+  - /organisations/dge
+  - /organisations/dgefp
+incubator: dinum
 phases:
   - name: investigation
     start: 2014-05-15
@@ -19,13 +19,11 @@ phases:
     start: 2020-03-01
 usertypes:
   - etat
-link: 
 repository: https://github.com/signaux-faibles
 stats: true
 stats_url: https://stats.signaux-faibles.beta.gouv.fr
 contact: contact@signaux-faibles.beta.gouv.fr
 ---
-  
 # Prévenir pour mieux guérir. Un algorithme pour lutter contre la faillite.
 
 ## Le problème initial : la découverte tardive des difficultés d'entreprises

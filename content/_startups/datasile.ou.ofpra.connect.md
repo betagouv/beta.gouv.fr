@@ -1,17 +1,15 @@
 ---
-mission: >-
-  Eviter les ruptures de droit des réfugiés en permettant aux agents de mieux
-  travailler
+mission: Faciliter l’intégration des réfugiés et d’éviter leurs ruptures de droit
 incubator: dinum
-title: Civil.ia
+title: Ofpra Connect
 contact: charlotte.lemahieu@ofpra.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/interieur
   - /organisations/ofpra
 phases:
-  - name: construction
-    start: 2024-09-10
+  - name: investigation
+    start: 2024-03-12
 thematiques:
   - Social
   - Administratif
@@ -41,10 +39,18 @@ Les autres administrations leur demandent régulièrement des documents d’éta
 
 ## Solution en quelques lignes; qui seront/sont les bénéficiaires ? 
 
-Au départ, nous avions prévu une solution d'échanges de données entre administrations. A la fin de l'investigation, il est apparu que cette solution permettrait de résoudre quelques problèmes d'accès aux droits, mais ne règlerait pas l'enjeu qui est la vitesse d'établissement des actes d'état civil. 
+La solution recherchée vise à transmettre des informations personnelles relatives aux réfugiés aux autres administrations pour prévenir les ruptures de droits et mieux répondre aux demandes des institutions partenaires. 
+Il s’agirait, en fonction des administrations : 
+* De transmettre l’information sur le statut de la personne. 
+Exemple de question posée par une autorité de transport : « est ce que la personne peut bénéficier d’un tarif réduit au titre de la protection ». Réponse automatisable :  « oui, elle est bien réfugiée » 
+* De transmettre l’information sur le fait que l’état civil est en cours d’établissement
+Exemple possible dans les écoles : « Est ce que l’Ofpra est bien en cours de rédaction de l’état civil, puis je donc inscrire l’enfant ? ». Réponse automatisable : « oui, le document Fiche familiale de référence a bien été reçu et le dossier est dans notre délai de traitement » 
+* De transmettre les données d’état civil en elles-mêmes. 
+Exemple de demande des CAF : « Quelle est l’identité définitive de la personne pour lui créer sa carte vitale et lui assurer ses droits ? ». Réponse automatisable : « il s’agit de Mme X, mère de Y et Z, mariée à AA ». 
 
-In fine, nous avons proposé un prototype d'outil d'aide à la comparaison des documents permettant d'établir les états civils et d'aide à la saisie de ces derniers. En permettant aux agents de travailler plus confortablement et plus rapidement, nous règlerons l'enjeu des délais. 
+Dans le cas présent, le bénéficiaire final est l’usager. Mais les destinataires du produit (ou des données) sont les autres administrations. 
 
+En fonction des données transmises et du type d’administration demandeuse, il pourra être nécessaire de demander un consentement de l’usager à la transmission de ces données personnelles. 
 
 ## Stratégie Comment vous vous y prenez pour atteindre votre usager ? quel impact chiffré visez-vous ?
 

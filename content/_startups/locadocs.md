@@ -1,25 +1,20 @@
 ---
 title: Locadocs
 mission: Simplifier l’accès aux documents publics
-sponsors: 
+sponsors:
   - /organisations/mc
 incubator: culture
 phases:
   - name: construction
-    start: 2020-04-01  
+    start: 2020-04-01
     end: 2021-12-31
   - name: alumni
     start: 2021-12-31
-link:
-repository:
 stats: false
-stats_url:
 contact: ateliernumerique@culture.gouv.fr
 usertypes:
   - particulier
 ---
-
-
 ## Le contexte 
 Comment retrouver un jugement de divorce, un permis de construire ou encore un dossier scolaire ? Accéder à un document public (document administratif ou judiciaire) relève parfois du parcours du combattant pour les usagers.
 

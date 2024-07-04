@@ -11,13 +11,11 @@ usertypes:
   - entreprise
   - particulier
 sponsors:
-  - >-
-    /organisations/service-du-numerique-du-ministere-de-l-agriculture-et-de-la-souverainete-alimentaire
+  - /organisations/service-du-numerique-du-ministere-de-l-agriculture-et-de-la-souverainete-alimentaire
 phases:
   - name: investigation
     start: 2024-06-18
 ---
-
 ## Contexte
 Le déploiement de l'identité numérique agricole était une des mesures proposées par la Feuille de route "numérique et données pour la planification écologique" publiée en décembre 2023 par le Secrétariat général à la planification écologique (SGPE). 
 

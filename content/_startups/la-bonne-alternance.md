@@ -28,8 +28,7 @@ usertypes:
   - particulier
   - entreprise
   - etablissement-scolaire
-dashlord_url: >-
-  https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
+dashlord_url: https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
 accessibility_status: non conforme
 thematiques:
   - Travail / Emploi

@@ -20,8 +20,8 @@ techno:
   - Highcharts
   - Scalingo
 sponsors:
-  - /organisations/mtes
   - /organisations/cgdd
+  - /organisations/mtes
   - /organisations/ademe
 link: https://ecobalyse.beta.gouv.fr
 stats: true

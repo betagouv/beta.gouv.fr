@@ -2,8 +2,8 @@
 title: Carnet de bord
 mission: Partager le parcours d’insertion pour faciliter les avancées des personnes.
 sponsors:
-  - /organisations/francetravail
   - /organisations/mtei
+  - /organisations/francetravail
 incubator: gip-inclusion
 link: https://carnetdebord.inclusion.beta.gouv.fr/
 repository: https://github.com/gip-inclusion/carnet-de-bord
@@ -17,9 +17,7 @@ usertypes:
   - particulier
   - collectivite-territoriale
   - association
-stats_url: >-
-  https://matomo-metabase-carnetdebord.fabrique.social.gouv.fr/public/dashboard/81a749aa-6c29-46b2-9ca5-df9d90fd3257
-events: []
+stats_url: https://matomo-metabase-carnetdebord.fabrique.social.gouv.fr/public/dashboard/81a749aa-6c29-46b2-9ca5-df9d90fd3257
 phases:
   - name: investigation
     start: 2021-01-25
@@ -33,7 +31,6 @@ phases:
   - name: alumni
     start: 2023-12-01
 ---
-
 # 2024 - Pause dans le développement du service numérique
 
 **Le développement du produit numérique dans sa forme actuelle est arrêté.** L’équipe continuera d’assurer dans les prochains mois l’accompagnement et le support des utilisateurs actuels, sans évolutions techniques ou fonctionnelles.

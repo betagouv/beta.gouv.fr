@@ -1,7 +1,6 @@
 ---
 title: Mobiville
-mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité
-  géographique des actifs
+mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité géographique des actifs
 sponsors:
   - /organisations/francetravail
   - /organisations/action-logement

@@ -1,6 +1,6 @@
 ---
 title: Pilotage de l'inclusion
-mission: "Valoriser et diffuser la donnée pour favoriser les dispositifs d'inclusion"
+mission: Valoriser et diffuser la donnée pour favoriser les dispositifs d'inclusion
 sponsors:
   - /organisations/francetravail
   - /organisations/mtei

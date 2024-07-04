@@ -1,8 +1,6 @@
 ---
 title: Tout est permis
-mission: >-
-  Favoriser l'emploi des jeunes hors agglomération en les aidants à obtenir le
-  permis de conduire
+mission: Favoriser l'emploi des jeunes hors agglomération en les aidants à obtenir le permis de conduire
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -19,7 +17,6 @@ contact: incubateur@anct.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Problème visé
 
 **Sans permis pas de travail, et sans argent, pas de permis ! Les jeunes sans permis accèdent 2x moins à l’emploi que ceux qui l’ont.**

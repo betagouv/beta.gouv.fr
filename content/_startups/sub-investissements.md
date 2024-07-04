@@ -1,8 +1,7 @@
 ---
-mission: >-
- La DRAC Occitanie constate des difficultés dans le suivi et la consommation des subventions d’investissements chez leurs bénéficiaires, en particulier les collectivités.
+mission: La DRAC Occitanie constate des difficultés dans le suivi et la consommation des subventions d’investissements chez leurs bénéficiaires, en particulier les collectivités.
 incubator: culture
-title: Suivi des subventions d'investissement 
+title: Suivi des subventions d'investissement
 contact: ateliernumerique.snum@culture.gouv.fr
 accessibility_status: non conforme
 phases:
@@ -15,7 +14,6 @@ usertypes:
 thematiques:
   - Patrimoine
 ---
-
 ### Le contexte
 
 L’investigation est menée par la DRAC Occitanie qui constate des difficultés dans le suivi des subventions d’investissements par leurs bénéficiaires :

@@ -1,7 +1,6 @@
 ---
 title: Hydrogène
-mission: Accélérer la création de la filière française de production d'hydrogène
-  décarboné
+mission: Accélérer la création de la filière française de production d'hydrogène décarboné
 sponsors:
   - /organisations/mtes
 incubator: mtes

@@ -1,8 +1,6 @@
 ---
 title: La Bonne Boite
-mission: >-
-  Favoriser les candidature spontanées en suggérant les entreprises à fort
-  potentiel d'embauche selon le lieu géographie choisi.
+mission: Favoriser les candidature spontanées en suggérant les entreprises à fort potentiel d'embauche selon le lieu géographie choisi.
 sponsors:
   - /organisations/francetravail
 incubator: francetravail

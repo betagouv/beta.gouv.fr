@@ -7,7 +7,6 @@ sponsors:
 incubator: mtes
 contact: mathieu.bobin@beta.gouv.fr
 accessibility_status: non conforme
-events: []
 phases:
   - name: alumni
     start: 2023-06-04
