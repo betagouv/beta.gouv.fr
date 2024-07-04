@@ -2,6 +2,8 @@
 fullname: Jessica Gauzi
 role: Déploiement
 domaine: Animation
+link: https://www.linkedin.com/in/jessicagauzi/
+github: jgauzi
 incubator: ademe
 teams:
   - /teams/ademe
@@ -10,7 +12,6 @@ missions:
     end: 2024-09-30
     status: independent
     employer: LaZone/Pathtech (ADEME)
-link: https://www.linkedin.com/in/jessicagauzi/
 competences:
   - Croissance
   - Communication

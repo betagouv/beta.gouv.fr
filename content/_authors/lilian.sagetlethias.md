@@ -4,6 +4,9 @@ role: CTO
 domaine: Animation
 link: https://www.linkedin.com/in/lsagetlethias
 github: lsagetlethias
+incubator: ademe
+teams:
+  - /teams/ademe
 missions:
   - start: 2021-09-01
     end: 2022-10-30
@@ -33,9 +36,6 @@ missions:
     end: 2024-11-06
     status: independent
     employer: LaZone/Pathtech (ADEME)
-incubator: ademe
-teams:
-  - /teams/ademe
 previously:
   - archifiltre
   - egalite.professionnelle
