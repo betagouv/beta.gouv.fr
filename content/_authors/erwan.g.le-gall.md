@@ -17,4 +17,6 @@ competences:
 memberType: beta
 link: https://design.numerique.gouv.fr/qui-sommes-nous/
 ---
-prof -> dév -> expert
+
+prof → dév PHP full stack → expert
+
