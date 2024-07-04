@@ -4,7 +4,7 @@ role: Intrapreneure
 domaine: Intraprenariat
 missions:
   - start: 2024-03-12
-    end: 2024-07-12
+    end: 2025-07-12
     status: admin
     employer: Ofpra - DINUM
     startups:

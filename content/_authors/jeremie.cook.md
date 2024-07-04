@@ -9,9 +9,11 @@ missions:
     status: admin
     employer: dinum
   - start: 2019-07-02
-    end: 2024-06-30
+    end: 2024-12-31
     status: independent
-    employer: ''
+    employer: Malt
+    startups:
+      - france.nation.verte.agir
 startups:
   - nosgestesclimat
   - agora

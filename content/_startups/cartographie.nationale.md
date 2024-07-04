@@ -1,5 +1,5 @@
 ---
-title: 'Cartographie nationale '
+title: "Cartographie nationale "
 mission: Orienter les publics vers les structures répondant à leur besoin
 sponsors:
   - /organisations/anct
@@ -17,17 +17,17 @@ events:
       Première utilisation de notre outil de cartographie sur le site des
       conseillers numériques : https://carte.conseiller-numerique.gouv.fr/
 phases:
-  - name: acceleration
-    start: 2022-11-01
-    end: 2022-04-01
   - name: construction
     start: 2022-04-01
+  - name: acceleration
+    start: 2022-11-01
 stats_url: >-
   https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=277&period=range&date=previous30#?period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1&idSite=277
 analyse_risques: true
 thematiques:
   - Inclusion numérique
 ---
+
 ## Contexte
 
 Plus de **13 millions de Français** ont des difficultés avec les usages numériques.
@@ -35,21 +35,21 @@ Pour les accompagner, de nombreuses structures de médiation numériques comme c
 
 ## Double problématique
 
-L﻿'offre de médiation numérique sur le territoire est **hétérogène** : certaines structures proposent des services particuliers, d'autres accueillent des publics spécifiques, etc. 
+L﻿'offre de médiation numérique sur le territoire est **hétérogène** : certaines structures proposent des services particuliers, d'autres accueillent des publics spécifiques, etc.
 
 C﻿e n'est pas tout, cette offre de médiation numérique n'est **pas standardisée** sur le territoire nationale, empêchant toute **interopérabilité des données**.
 
 ## Solution
 
-Dans le cadre du volet « inclusion numérique » du Plan France Relance qui vise à la structuration et l’outillage de la filière de l’inclusion numérique, l'ANCT souhaite à présent aller plus loin avec : 
+Dans le cadre du volet « inclusion numérique » du Plan France Relance qui vise à la structuration et l’outillage de la filière de l’inclusion numérique, l'ANCT souhaite à présent aller plus loin avec :
 
-* Une cartographie de l’offre de médiation numérique avec un périmètre de données beaucoup plus large 
-* Des fonctionnalités facilitant de manière fine **l’orientation** des citoyens
-* La mise à disposition des acteurs locaux d’un outil de cartographie adaptable aux enjeux et pratiques locales
-* Une démarche de **standardisation des données** pour assurer une vraie interopérabilité entre les différents outils et services
-* Un soutien à la production et l’utilisation des données standardisées  
+- Une cartographie de l’offre de médiation numérique avec un périmètre de données beaucoup plus large
+- Des fonctionnalités facilitant de manière fine **l’orientation** des citoyens
+- La mise à disposition des acteurs locaux d’un outil de cartographie adaptable aux enjeux et pratiques locales
+- Une démarche de **standardisation des données** pour assurer une vraie interopérabilité entre les différents outils et services
+- Un soutien à la production et l’utilisation des données standardisées
 
-La cartographie sera accessible sur [un site national](https://cartographie.societenumerique.gouv.fr/)  mais sera également implémentable par tout acteur local (collectivités territoriales, Hubs territoriaux pour un Numérique inclusif, etc.) ﻿qui souhaite intégrer l'outil d'orientation et/ou la cartographie sur son site web.
+La cartographie sera accessible sur [un site national](https://cartographie.societenumerique.gouv.fr/) mais sera également implémentable par tout acteur local (collectivités territoriales, Hubs territoriaux pour un Numérique inclusif, etc.) ﻿qui souhaite intégrer l'outil d'orientation et/ou la cartographie sur son site web.
 
 ## Faciliter l'accompagnement d'un bénéficiaire
 
@@ -85,7 +85,7 @@ Des acteurs de la médiation numérique, notamment les Hubs, ont produit de nomb
 
 La standardisation permet de décrire l’offre de médiation numérique de manière **harmonisée**. Elle repose sur un travail de concertation dans lequel une cinquantaine d'utilisateurs représentatifs ont défini un standard de données qui décrit le format des fichiers, les différents champs, les valeurs possibles…
 
-L'aboutissement de ce travail, le **standard de données des lieux de médiation numérique** publié par la [Mednum](https://lamednum.coop/) en collaboration avec [Datactivist](https://datactivist.coop/fr/), est le fondement de notre cartographie. 
+L'aboutissement de ce travail, le **standard de données des lieux de médiation numérique** publié par la [Mednum](https://lamednum.coop/) en collaboration avec [Datactivist](https://datactivist.coop/fr/), est le fondement de notre cartographie.
 
 # Référencer ou mettre à jour son offre de service
 
@@ -95,22 +95,22 @@ Pour collecter et mettre à jour ces **données standardisées**, nous faisons a
 
 Avec DORA, chaque structure de médiation numérique peut publier dans une démarche d’Open Data et rendre disponibles ses données à travers un référentiel commun — partagé par toutes les plateformes et sites web partenaires.
 
-- - -
+---
 
 **Grâce à cette dynamique collective, vous référencez votre offre une seule fois tout en la rendant disponible partout.**
 
-J﻿e souhaite référencer ma structure sur Dora 
+J﻿e souhaite référencer ma structure sur Dora
 
 # Versions locales et personnalisées
 
 Cette cartographie est un **projet open source** (rendez-vous sur [l'organisation GitHub](https://github.com/orgs/anct-cartographie-nationale/repositories) pour les curieux) permettra aux acteurs locaux (collectivités territoriales, Hubs territoriaux pour un Numérique inclusif, etc.) de bénéficier de versions locales avec la possibilité de personnaliser les **fonctionnalités**, les **couleurs**, **l'affichage**, etc.\
 \
-De cette manière, vous pouvez retrouver la cartographie restreinte aux Conseillers Numériques France Service sur [leur site web](https://carte.conseiller-numerique.gouv.fr/). 
+De cette manière, vous pouvez retrouver la cartographie restreinte aux Conseillers Numériques France Service sur [leur site web](https://carte.conseiller-numerique.gouv.fr/).
 
 Un tutoriel d'aide à l'implémentation sur votre site web est disponible [ici](https://labase.anct.gouv.fr/ressource/993).
 
 # [](https://github.com/anct-cartographie-nationale/client-application#documentation)[](https://dora.fabrique.social.gouv.fr/)Inter-opérabilité
 
-L﻿es [Hubs territoriaux pour un numérique inclusif](https://sonum.tlscp.fr/fr/dispositif/hubs-numerique/) jouent le rôle de référent territoriaux auprès des collectivités pour collecter et mettre à jour les données des structures. 
+L﻿es [Hubs territoriaux pour un numérique inclusif](https://sonum.tlscp.fr/fr/dispositif/hubs-numerique/) jouent le rôle de référent territoriaux auprès des collectivités pour collecter et mettre à jour les données des structures.
 
 S﻿i vous appartenez à un Hub territorial avec qui nous ne sommes pas encore en lien, n'hésitez pas à [nous contacter](mailto:cartographie.sonum@anct.gouv.fr?subject=Cartographie%20nationale%20sur%20beta.gouv.fr) !

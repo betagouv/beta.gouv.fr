@@ -1,6 +1,6 @@
 ---
-name: Pôle emploi
-acronym: PE
+name: France travail
+acronym: FT
 domaine_ministeriel: travail
 type: operateur
 ---

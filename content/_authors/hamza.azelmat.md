@@ -5,8 +5,9 @@ domaine: Data
 github: hazelmat
 missions:
   - start: 2024-01-11
-    end: 2024-07-11
+    end: 2024-12-31
     status: independent
+    employer: ''
     startups:
       - longuevieauxobjets
 startups:

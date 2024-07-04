@@ -4,7 +4,7 @@ role: Chargé de développement
 domaine: Développement
 missions:
   - start: 2021-10-28
-    end: 2024-03-31
+    end: 2025-12-31
     status: independent
     employer: DGCCRF
     startups:
