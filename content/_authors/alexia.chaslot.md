@@ -1,6 +1,6 @@
 ---
 fullname: Alexia Chaslot
-domaine: Autre
+domaine: Déploiement
 role: Chargée de déploiement
 github: alexiachaslot
 missions:
@@ -8,6 +8,8 @@ missions:
     end: 2023-03-01
     status: admin
     employer: Tribunal judiciaire de Nanterre
+    startups:
+      - mon-suivi-justice
 startups:
   - mon-suivi-justice
 badges:
@@ -15,6 +17,4 @@ badges:
 competences:
   - Administration Publique
   - Gestion de Produit
-
 ---
-

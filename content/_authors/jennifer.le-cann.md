@@ -7,10 +7,11 @@ missions:
     end: 2025-09-01
     status: admin
     employer: Ministère des armées
+    startups:
+      - cassiopee
+      - oscars
 startups:
   - oscars
   - cassiopee
 ---
-
-
 UX/UI

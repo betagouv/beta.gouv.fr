@@ -8,8 +8,9 @@ missions:
     end: 2024-12-16
     status: service
     employer: numa
+    startups:
+      - dialogue
 startups:
   - dialogue
 ---
-
 Je prends des trains à travers les plaines

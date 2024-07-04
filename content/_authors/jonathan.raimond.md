@@ -9,6 +9,8 @@ missions:
     end: 2025-08-31
     status: independent
     employer: Octo
+    startups:
+      - carnet.de.bord
 startups:
   - carnet.de.bord
 badges:

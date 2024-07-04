@@ -9,10 +9,11 @@ missions:
     end: 2022-11-30
     status: independent
     employer: Octo
+    startups:
+      - reva
 startups:
   - reva
 badges:
   - segur
 ---
-
 Développeur Full Stack, Photographe et Papa :)

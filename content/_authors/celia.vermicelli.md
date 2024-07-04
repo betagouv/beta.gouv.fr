@@ -7,10 +7,11 @@ missions:
     end: 2024-12-31
     status: independent
     employer: DINUM
+    startups:
+      - docurba
 startups:
   - docurba
 badges:
   - segur
 ---
-
-Chargée de déploiement le jour et couturière la nuit.
+Chargée de déploiement

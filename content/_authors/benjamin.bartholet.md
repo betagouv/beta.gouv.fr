@@ -4,14 +4,15 @@ role: Designer UI/UX
 domaine: Design
 github: telohtrab
 link: http://trab.studio
-missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
-  - start: 2019-05-01 # date d'arrivée au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
-    end: 2024-06-30
+missions:
+  - start: 2019-05-01
+    end: 2024-12-31
     status: independent
-startups: # ta ou tes startups actuelles
-    - aidantsconnect
+    startups:
+      - aidantsconnect
+startups:
+  - aidantsconnect
 previously:
-    - eva # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
+  - eva
 ---
-
 designer multidisciplinaire, photographe & illustrateur

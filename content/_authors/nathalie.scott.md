@@ -8,5 +8,4 @@ missions:
     end: 2021-09-07
     status: independent
 ---
-
 Coach et formatrice en UX Design, spécialisée en ergonomie digitale

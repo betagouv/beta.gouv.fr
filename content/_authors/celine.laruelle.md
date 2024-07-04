@@ -1,6 +1,6 @@
 ---
 fullname: Céline LARUELLE
-github : celinelaruelle
+github: celinelaruelle
 role: intrapreneur
 domaine: Intraprenariat
 missions:
@@ -8,9 +8,10 @@ missions:
     end: 2024-09-30
     status: admin
     employer: ADEME
+    startups:
+      - pacoupa
 startups:
   - pacoupa
 memberType: autre
 ---
-
 ingénieure au service bâtiment à l'ADEME, spécialisée dans les systèmes thermiques

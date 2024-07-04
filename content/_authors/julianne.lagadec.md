@@ -8,7 +8,11 @@ missions:
   - start: 2021-04-01
     end: 2024-12-31
     status: admin
-    employer: ""
+    startups:
+      - exposition-ij
+      - investigation-ij
+      - pilotagevoiepro
+      - sirius
 startups:
   - sirius
   - exposition-ij

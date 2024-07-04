@@ -7,9 +7,10 @@ missions:
     end: 2024-09-30
     status: independent
     employer: Malt
+    startups:
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 memberType: autre
 ---
-
 Opérateur de validation

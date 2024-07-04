@@ -8,6 +8,8 @@ missions:
     end: 2022-08-31
     status: admin
     employer: Agglomération de Pau Béarn Pyrénées
+    startups:
+      - histologe
 startups:
   - histologe
 competences:

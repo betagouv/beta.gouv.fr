@@ -6,8 +6,9 @@ missions:
   - start: 2023-11-15
     end: 2024-12-01
     status: admin
+    startups:
+      - compte.rendu.vif
 startups:
-  - rdvif
+  - compte.rendu.vif
 memberType: beta
 ---
-

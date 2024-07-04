@@ -1,6 +1,6 @@
 ---
 fullname: Sarah Boudabous
-role: Chargée de déploiement 
+role: Chargée de déploiement
 domaine: Déploiement
 link: https://www.linkedin.com/in/sarah-boudabous-b3712117a/
 missions:
@@ -8,10 +8,11 @@ missions:
     end: 2023-10-05
     status: admin
     employer: OPCO
+    startups:
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 badges:
   - segur
 ---
-
 Chargée de déploiement, enthousiaste et dynamique.

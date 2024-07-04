@@ -8,6 +8,8 @@ missions:
     end: 2024-12-31
     status: admin
     employer: independent
+    startups:
+      - pilotagevoiepro
 startups:
   - pilotagevoiepro
 previously:

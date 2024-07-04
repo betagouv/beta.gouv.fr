@@ -2,15 +2,14 @@
 title: FiligraneFacile
 mission: Protéger les personnes de l'usurpation d'identité via leurs documents
 sponsors:
-  - /organisations/dgaln
   - /organisations/dhup
+  - /organisations/dgaln
 incubator: mtes
 link: https://filigrane.beta.gouv.fr/
 repository: https://github.com/mtes-mct/locatio
 contact: contact@filigrane.beta.gouv.fr
 stats: true
 stats_url: http://51.210.250.115:3000/public/dashboard/199a72cf-6a75-4e28-bc07-103e4409ea07
-analyse_risques: false
 accessibility_status: non conforme
 usertypes:
   - particulier
@@ -21,6 +20,9 @@ phases:
     start: 2022-07-01
   - name: acceleration
     start: 2023-07-01
+thematiques:
+  - Sécurité informatique
+  - Outil technique
 ---
 ## DossierFacile lance FiligraneFacile !
 
@@ -54,6 +56,6 @@ Nous sommes conscients que les filigranes ne sont pas une sécurité infaillible
 Une remarque, une suggestion ?
 Vous avez été très nombreux à nous écrire pour nous faire part de vos suggestions, et nous vous en remercions. Nous prendrons en compte vos remarques afin de prioriser les prochaines évolutions du service.
 
-Actuellement, le service est géré par l’équipe [DossierFacile](https://beta.gouv.fr/startups/locatio.html), aussi vous pouvez utiliser le même [formulaire de contact](https://www.dossierfacile.fr/contact) pour nous faire part de vos remarques.
+Actuellement, le service est géré par l’équipe [DossierFacile](https://beta.gouv.fr/startups/dossierfacile.html), aussi vous pouvez utiliser le même [formulaire de contact](https://www.dossierfacile.fr/contact) pour nous faire part de vos remarques.
 
 (mis à jour le 14/08/2023)

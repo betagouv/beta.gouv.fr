@@ -7,6 +7,8 @@ missions:
     end: 2022-05-30
     status: independent
     employer: Fabrique numérique
+    startups:
+      - ecobalyse
 startups:
   - ecobalyse
 badges:

@@ -7,8 +7,9 @@ missions:
     end: 2024-08-10
     status: independent
     employer: ut7
+    startups:
+      - pilotagevoiepro
 startups:
   - pilotagevoiepro
 memberType: beta
 ---
-

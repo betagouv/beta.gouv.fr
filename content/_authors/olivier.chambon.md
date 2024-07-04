@@ -9,10 +9,11 @@ missions:
     end: 2022-12-30
     status: service
     employer: FitLab
+    startups:
+      - acceslibre
 startups:
   - acceslibre
 badges:
   - segur
 ---
-
 Technophile sympa, barbu en chef @lagrottedubarbu, ByzDev

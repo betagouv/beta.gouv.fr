@@ -6,6 +6,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: NUMA
+    startups:
+      - epandage-facile
+      - mediation.logement
 incubator: mtes
 competences:
   - UX

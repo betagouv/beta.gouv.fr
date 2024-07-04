@@ -8,8 +8,9 @@ missions:
     end: 2024-08-09
     status: service
     employer: AFD.TECH / Octo
+    startups:
+      - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
 memberType: autre
 ---
-

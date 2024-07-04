@@ -8,10 +8,10 @@ missions:
   - start: 2023-09-24
     end: 2024-02-29
     status: service
-    employer: ''
+    startups:
+      - mon-diagnostic-artificialisation
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
 memberType: beta
 ---
-
 Accélérateur d'ouverture des données

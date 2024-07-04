@@ -18,5 +18,4 @@ previously:
 badges:
   - segur
 ---
-
 Mettre en valeur les contenus et data

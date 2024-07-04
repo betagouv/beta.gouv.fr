@@ -6,10 +6,10 @@ missions:
   - start: 2023-03-27
     end: 2025-01-31
     status: independent
-    employer: ''
+    startups:
+      - snu
 startups:
   - snu
 memberType: autre
 ---
-
 Designer pur beurre

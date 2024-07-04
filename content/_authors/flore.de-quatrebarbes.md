@@ -7,7 +7,8 @@ missions:
     end: 2022-09-01
     status: admin
     employer: SNDV
+    startups:
+      - sndv_maritime
 startups:
   - sndv_maritime
 ---
-

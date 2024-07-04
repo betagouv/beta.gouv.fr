@@ -7,9 +7,9 @@ missions:
   - start: 2020-02-03
     end: 2024-12-31
     status: independent
-    employer: ''
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
-
 ---
 Réacteur.

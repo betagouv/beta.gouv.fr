@@ -8,5 +8,4 @@ missions:
     status: independent
 memberType: beta
 ---
-
-Je suis techniquement stagiaire 
+Je suis techniquement stagiaire

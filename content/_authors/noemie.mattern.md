@@ -6,9 +6,9 @@ missions:
   - start: 2023-04-12
     end: 2024-02-29
     status: independent
-    employer: ''
+    startups:
+      - deveco
 startups:
   - deveco
 memberType: beta
 ---
-

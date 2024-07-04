@@ -8,6 +8,9 @@ missions:
     end: 2024-04-19
     status: admin
     employer: Pôle emploi
+    startups:
+      - data-inclusion
+      - dora
 startups:
   - data-inclusion
   - dora

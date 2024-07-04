@@ -1,15 +1,16 @@
 ---
 fullname: Théodore AVENA
-role: Chargé de déploiement &amp;#x2F; chargé d&amp;#x27;étude
+role: Chargé de déploiement, chargé d'études
 domaine: Déploiement
 missions:
   - start: 2023-05-15
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
-    employer: ''
+    employer: malt
+    startups:
+      - envergo
 startups:
   - envergo
 memberType: autre
 ---
-
-Chargé de déploiement EnvErgo
+Chargé de déploiement et d'étude EnvErgo

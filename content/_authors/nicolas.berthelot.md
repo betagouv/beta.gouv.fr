@@ -18,5 +18,4 @@ previously:
 teams:
   - /teams/fab-geocommuns
 ---
-
 Data & carto & mobilité

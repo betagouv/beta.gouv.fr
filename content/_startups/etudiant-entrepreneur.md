@@ -13,6 +13,7 @@ phases:
   - name: construction
     start: 2016-06-23
   - name: alumni
+    start: 2017-12-31
 link: https://snee.esr.gouv.fr/
 repository: https://github.com/betagouv/etudiant-entrepreneur
 stats: false
@@ -20,7 +21,6 @@ contact: contact@etudiant-entrepreneur.beta.gouv.fr
 usertypes:
   - particulier
 ---
-
 <iframe style="border:none;" width="560" height="315" src="//www.dailymotion.com/embed/video/x4aa7o4" allowfullscreen></iframe>
 
 La création d’un statut national étudiant entrepreneur (EE) pour favoriser l’entrepreneuriat chez la population étudiante ou diplômée est une première mondiale. Il s’adresse à une population majoritairement jeune, hyperconnectée et positivement exigeante. Or, candidater au statut relève parfois du parcours du combattant tant le processus est fastidieux et anachronique. L’image d’une administration complexe et vieillotte s’incarne dans ce processus. La relation uniquement administrative du candidat au statut est pointée du doigt et irrite non seulement les candidats mais également tous les acteurs gestionnaires du statut.
@@ -49,6 +49,5 @@ La mise en place d’une plate-forme communautaire de services destinée à l'en
 - un accès rapide à des informations ciblées à forte valeur ajoutée,
 - la valorisation des projets des EEs (en lien avec [PEPITE France](http://www.pepite-france.fr/)),
 - une mise en réseau des encadrants (tuteurs académiques et praticiens).
-
 
 Le service est construit de façon itérative en le confrontant systématiquement à ses utilisateurs afin de prioriser les améliorations en fonction de leurs attentes.

@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Accélérer la mise en œuvre de projet territoriaux grâce à une identification
-  du foncier agricole sous exploite (friches agricoles)
+mission: Accélérer la mise en œuvre de projet territoriaux grâce à une identification du foncier agricole sous exploite (friches agricoles)
 sponsors:
   - /organisations/ign
 incubator: fab-geocommuns
@@ -10,6 +8,12 @@ contact: anne.pichon@beta.gouv.fr
 phases:
   - name: investigation
     start: 2023-09-10
+  - name: alumni
+    start: 2024-05-16
+thematiques:
+  - Écologie
+  - Open-Data
+  - Agriculture
 ---
 ## Contexte
 
@@ -38,3 +42,9 @@ L'investigation doit permettre comprendre les enjeux  et les problématiques li�
 L'objectif est aussi de cartographier et de rencontrer toutes les parties prenantes ( MASA, ADEME, Banque des territoires, DGALN, IGN) afin de voir si un besoin commun peut émerger
 
 Le but est également d'identifier et comparer les méthodes existantes avec deux axes principaux : qualité des données et coût de l'inventaire afin de projeter une industrialisation France entière.
+
+## Conclusions de l'investigation
+Le besoin d'une cartographie nationale des friches n'est pas un besoin extrêmement sensible pour les acteurs du territoires.
+Néanmoins la mise à disposition d'outils pour simplifier la production de ces informations à l'échelle locale présente un intérêt et facilitera le travail d'agents de DDT.
+
+[Présentation au comité de fin d'investigation](https://github.com/fab-geocommuns/friches_agricoles/blob/main/20240112_Bilan_investigation_Friches_agricoles_ss_slides_masqu%C3%A9es.pdf)

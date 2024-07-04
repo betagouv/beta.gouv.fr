@@ -1,7 +1,7 @@
 ---
 fullname: Hugo Perroux
 role: Bizdev Benext
-domaine: Autre
+domaine: Déploiement
 github: hugoperroux
 missions:
   - start: 2021-10-21
@@ -9,5 +9,4 @@ missions:
     status: service
     employer: Benext
 ---
-
-Bizdev chez Benext le jour, scénariste-auteur-compositeur la nuit 
+Bizdev chez Benext le jour, scénariste-auteur-compositeur la nuit

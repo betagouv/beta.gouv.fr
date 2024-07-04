@@ -7,5 +7,4 @@ missions:
     end: 2022-07-01
     status: admin
 ---
-
 Maritime&Portuaire

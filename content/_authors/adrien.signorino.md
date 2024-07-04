@@ -6,7 +6,10 @@ missions:
   - start: 2019-03-14
     end: 2023-09-30
     status: independent
-    employer: ''
+    startups:
+      - anais
+      - osirispn
+      - sepia
 incubator: fabnumdef
 startups:
   - sepia
@@ -14,7 +17,4 @@ startups:
   - anais
 competences:
   - Développement Backend
-
 ---
-
-''

@@ -9,5 +9,4 @@ missions:
     employer: Malt
 memberType: attributaire
 ---
-
-Consultante en Recrutement chez Malt 
+Consultante en Recrutement chez Malt

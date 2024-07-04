@@ -7,9 +7,10 @@ missions:
     end: 2023-12-20
     status: independent
     employer: Opteamis
+    startups:
+      - reva
 startups:
   - reva
 memberType: beta
 ---
-
 Assistante support et administratif

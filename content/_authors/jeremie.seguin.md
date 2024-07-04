@@ -5,15 +5,14 @@ domaine: Déploiement
 github: JeremieSeguin
 missions:
   - start: 2022-12-01
-    end: 2024-06-29
+    end: 2024-12-31
     status: independent
-    employer: ''
+    startups:
+      - mon-diagnostic-artificialisation
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
 memberType: beta
 previously:
-  - sparte
+  - mon-diagnostic-artificialisation
 ---
-
-
-J'aime travailler en collectif et faire des km à vélos. 
+J'aime travailler en collectif et faire des km à vélos.

@@ -7,6 +7,8 @@ missions:
     end: 2024-12-31
     status: service
     employer: Octo Technology
+    startups:
+      - suite-numerique
 memberType: dinum
 github: arnaudjacob
 startups:

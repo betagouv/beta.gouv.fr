@@ -8,8 +8,9 @@ missions:
     end: 2023-12-30
     status: independent
     employer: Portalia
+    startups:
+      - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
 ---
-
 développeur full-stack chez résorption-bidonvilles

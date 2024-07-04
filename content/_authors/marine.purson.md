@@ -8,13 +8,20 @@ missions:
     end: 2022-12-31
     status: admin
     employer: MTES
+    startups:
+      - recosante
   - start: 2023-12-04
-    end: 2024-06-30
+    end: 2026-12-03
     status: admin
     employer: DINUM
 teams:
   - /teams/communaute-dinum
 previously:
-    - recosante
-
+  - recosante
+link: https://www.linkedin.com/in/marinepurson/
+competences:
+  - Communication
+  - Administration Publique
+  - Intrapreneur(se)
+  - Facilitation
 ---

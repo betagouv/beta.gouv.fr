@@ -10,8 +10,8 @@ missions:
     employer: Octo
   - start: 2022-09-01
     end: 2025-08-31
-    status: admin    
-    employer: gip-inclusion    
+    status: admin
+    employer: gip-inclusion
 startups:
   - dora
 competences:

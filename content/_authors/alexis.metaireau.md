@@ -9,9 +9,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Scopyleft
+    startups:
+      - umap
 startups:
   - umap
 memberType: autre
 ---
-
 Développeur intéressé par les dynamiques collectives, les libertés numériques et la facilitation.

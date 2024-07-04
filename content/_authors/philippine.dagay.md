@@ -1,6 +1,6 @@
 ---
 fullname: Philippine dAgay
-role: Responsable du compte Fabrique numérique des Ministères sociaux chez Malt 
+role: Responsable du compte Fabrique numérique des Ministères sociaux chez Malt
 domaine: Autre
 github: Philippinemalt
 missions:
@@ -10,5 +10,4 @@ missions:
     employer: Malt
 memberType: attributaire
 ---
-
-Responsable du compte de la Fabrique numérique des Ministères sociaux chez Malt 
+Responsable du compte de la Fabrique numérique des Ministères sociaux chez Malt

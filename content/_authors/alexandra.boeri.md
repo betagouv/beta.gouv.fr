@@ -9,4 +9,3 @@ missions:
     employer: Ministère des Armées
 memberType: beta
 ---
-

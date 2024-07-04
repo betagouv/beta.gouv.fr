@@ -11,6 +11,4 @@ missions:
     employer: DNUM MIOM
 memberType: autre
 ---
-
-Data scientist au Ministère de l'Intérieur
-Ski, vélo et voile à l'éxterieur
+Data scientist au Ministère de l'Intérieur Ski, vélo et voile à l'éxterieur

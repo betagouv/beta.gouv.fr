@@ -7,10 +7,11 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - tchap
 startups:
   - tchap
 badges:
   - segur
 ---
-
 DevOps, plus Ops que Dev, mais un peu Dev quand même

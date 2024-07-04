@@ -9,5 +9,4 @@ missions:
     status: service
 memberType: beta
 ---
-
 Développeur Java chez Sopra Steria. Travaille avec la DINUM sur le projet Mon FranceConnect en tant que Responsable Technique.

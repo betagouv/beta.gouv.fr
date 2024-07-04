@@ -8,11 +8,9 @@ missions:
   - start: 2021-02-10
     end: 2021-12-31
     status: independent
-startups:
 previously:
-    - urbanvitaliz
+  - urbanvitaliz
 badges:
   - segur
 ---
-
-Développeuse, avec une pratique dans les neuroSciences appliquées. 
+Développeuse, avec une pratique dans les neuroSciences appliquées.

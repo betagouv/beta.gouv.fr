@@ -1,5 +1,5 @@
 ---
-fullname: Cécile BOUVET AGNELLI
+fullname: Cécile Bouvet Agnelli
 role: Ingénieure ouvrages d&#x27;art
 domaine: Autre
 missions:
@@ -7,8 +7,9 @@ missions:
     end: 2023-10-01
     status: admin
     employer: Cerema
+    startups:
+      - recommandations-collaboratives
 startups:
   - recommandations-collaboratives
 memberType: autre
 ---
-

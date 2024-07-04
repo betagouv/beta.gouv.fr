@@ -8,7 +8,8 @@ missions:
     end: 2022-10-31
     status: independent
     employer: Scopyleft
+    startups:
+      - rdv-service-public
 startups:
   - rdv-service-public
 ---
-

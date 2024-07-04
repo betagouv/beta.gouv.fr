@@ -9,9 +9,10 @@ missions:
     end: 2024-08-14
     status: independent
     employer: Malt
+    startups:
+      - potentiel
 startups:
   - potentiel
 memberType: beta
 ---
-
 TypeScript enthusiast, in ❤️ with Behavior Driven Development & Gitmoji fanboy 😎

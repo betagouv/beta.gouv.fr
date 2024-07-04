@@ -1,16 +1,17 @@
 ---
 title: Puije
 mission: Exploration de la relation jeunes/armées dans une optique de recrutement
-sponsors: 
-    - /organisations/armees
+sponsors:
+  - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation
     start: 2020-05-26
 stats: false
 contact: mathieu.mahr@beta.gouv.fr
+thematiques:
+  - Jeunesse
 ---
-
 ## Contexte  
 L’armée est l’un des plus gros employeurs du marché de l’emploi français et ses besoins de recrutement sont chiffrés. C’est une institution particulière, de par ses activités, son manque de transparence, les spécificités propres à ses armées, le recrutement de civils. L’offre professionnelle émanant des armées et du ministère des armées propose de nombreux métiers ainsi que des types de contrat divers (CDD/contrats courts, apprentissage, etc.). 
 Le projet, sous forme d’enquête, a consisté à identifier des profils de jeunes, de 14 à 26 ans, dans leurs démarches d’orientation professionnelle, selon des critères de recherche d’information pour ce choix d’orientation. 
@@ -29,4 +30,4 @@ __Étape 3__ (mai 2020) : compilation et analyse des entretiens
 Livrable : réalisation du document final (personas et pistes de réflexion)
 
 ## Résultats
-Un document de présentation des résultats de l’enquête et ses apprentissages. 
+Un document de présentation des résultats de l’enquête et ses apprentissages.

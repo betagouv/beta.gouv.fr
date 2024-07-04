@@ -10,5 +10,6 @@ missions:
     end: 2022-10-29
     status: service
     employer: IPPON
+    startups:
+      - delta.v
 ---
-

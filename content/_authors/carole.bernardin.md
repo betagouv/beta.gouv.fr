@@ -7,9 +7,10 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Opteamis
+    startups:
+      - reva
 startups:
   - reva
 memberType: beta
 ---
-
 Chargé déploiement

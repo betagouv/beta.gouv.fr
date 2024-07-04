@@ -9,6 +9,8 @@ missions:
     end: 2024-09-01
     status: independent
     employer: Octo
+    startups:
+      - carbure
 startups:
   - carbure
 ---

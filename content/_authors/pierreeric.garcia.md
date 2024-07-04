@@ -8,10 +8,11 @@ missions:
     end: 2024-01-31
     status: independent
     employer: DINUM
+    startups:
+      - datapass
 startups:
   - datapass
 badges:
   - segur
 ---
-
 Développeur le jour, musicien la nuit.

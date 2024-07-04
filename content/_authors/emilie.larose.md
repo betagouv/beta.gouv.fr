@@ -9,4 +9,3 @@ missions:
     employer: Ippon
 memberType: beta
 ---
-

@@ -8,9 +8,9 @@ missions:
     end: 2024-11-26
     status: admin
     employer: GIP Plateforme de l'inclusion
+    startups:
+      - l-immersion-facile
 memberType: beta
 startups:
   - l-immersion-facile
-  - les-emplois
 ---
-

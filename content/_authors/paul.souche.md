@@ -8,11 +8,12 @@ missions:
     end: 2023-06-03
     status: independent
     employer: Opteamis
+    startups:
+      - maison.de.lautisme
+      - recosante
 startups:
   - maison.de.lautisme
   - recosante
 memberType: beta
 ---
-
-
 Développeur fullstack

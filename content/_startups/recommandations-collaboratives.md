@@ -1,8 +1,8 @@
 ---
-mission: Conseiller pour faire avancer les projets des territoires
-incubator: dinum
-repository: https://github.com/betagouv/urbanvitaliz-django
-contact: friches@beta.gouv.fr
+mission: Outiller les projets complexes des territoires
+incubator: accelerema
+repository: https://github.com/betagouv/recommandations-collaboratives
+contact: recommandations-collaboratives@beta.gouv.fr
 accessibility_status: non conforme
 redirect_from:
   - /startups/friches
@@ -11,53 +11,42 @@ usertypes:
 stats_url: https://urbanvitaliz.fr/stats
 title: Recommandations-collaboratives
 sponsors:
-  - /organisations/cerema
   - /organisations/dgaln
-  - /organisations/anct
+  - /organisations/cerema
   - /organisations/dinum
-link: https://bacasable.recoconseil.fr/
+  - /organisations/anct
+link: https://recommandations-collaboratives.beta.gouv.fr/
 stats: true
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow
 phases:
-  - name: investigation
-    start: 2020-02-12
-    end: 2020-05-19
   - name: construction
-    start: 2020-09-14
-  - name: acceleration
-    start: 2021-12-01
+    start: 2023-11-16
+thematiques:
+  - Collectivités
 ---
-## Le problème : les collectivités ou autres porteurs de projets sont parfois démunis pour faire avancer leurs projets opérationnels (aménagement, urbanisme, infrastructures, etc.).
+## Le problème 
 
-### La sobriété foncière et énergétique est difficile à favoriser à cause du manque d'ingénierie subi par de nombreux territoires
+Les « petites » collectivités ont des difficultés à faire avancer leurs projets complexes par manque d’ingénierie en interne, notamment sur les sujets liés à la transition écologique et à l’aménagement du territoire. Souvent, elles ne savent pas par où s’y prendre, quels acteurs peuvent les aider, quels financements leur sont accessibles etc. Elles sont alors souvent bloquées ou limitées, dans la définition du projet ou dans sa maturation, ce qui en outre les défavorise dans l’obtention de fonds.
 
-Les petites collectivités maillent le territoire et doivent impulser l'aménagement et l'entretien de la ville, tout en recherchant la sobriété foncière et énergétique. Toutefois, les projets d'aménagement qui rentrent dans ces critères peuvent être complexes à mener, ce qui conduit au découragement. 
+Pourtant l’ingénierie publique existe, des réseaux d’acteurs publics spécialisés sont en place. Eux font face à des sollicitations qui arrivent de manière éparse, sans visibilité d’ensemble sur le territoire. Ils ont des difficultés à suivre l’évolution des projets dans la durée et à collaborer à plusieurs dessus. Face à des projets qui peuvent durer de 1 à 10 ans selon le domaine, les informations éparpillées, les changements de poste, les échanges par emails bilatéraux entretiennent une difficulté importante à suivre et accompagner les projets.
 
-### Les collectivités et autres porteurs de projet ont du mal à identifier les acteurs, outils, méthodes et financement qui peuvent les aider à avancer
+## La solution
 
-Pour mener un projet d'aménagement complexe, les outils pour avancer existent mais représentent un véritable mille-feuilles dans lequel il est difficile de s'y retrouver. Comment savoir à quel moment faire appel à tel acteur (si tant est qu'on le connaît) ? Comment savoir si j'ai bien pensé aux bonnes études préalables à mener pour éviter les écueils plus tard ?  
-Cette complexité structurelle empêche les collectivités en déficit d'ingénierie de faire mâturer leurs projets et contribue à les isoler. Ce faisant, elles ne sont pas à "armes égales" pour bénéficier des différents guichets de financements publics par rapport aux métropoles ou porteurs de projets plus aguerris.
+Recommandations-collaboratives permet à tout service public de lancer une plateforme de conseil thématique et multi-acteurs au bénéfice des collectivités. 
 
-**D'autres problèmes accompagnent ce constat : les difficultés à suivre ces projets dans le temps, à partager les informations**
+Initialement, le produit a été construit pour le service UrbanVitaliz (accompagnement des collectivités bloquées dans la réhabilitation de leurs friches, en collaboration avec les acteurs publics locaux - voir [le site](https://urbanvitaliz.fr/), [la fiche-produit](https://beta.gouv.fr/startups/urbanvitaliz.html)). Face à l’impact notable du service (78% des conseils donnés sont suivis), d’autres services thématiques ont souhaité utiliser la même application. 
+Une plateforme Recommandations-collaboratives permet : 
 
-Les montages de projets structurants peuvent s'étendre sur plusieurs années (en moyenne 5 à 8 ans pour la revitalisation d'une friche, par exemple). Les agents mutent, les études sont perdues dans des territoires, les conditions des acteurs d'ingénierie changent, etc. L'énergie peut vite s'étioler et un projet d'aménagement peut s'endormir et être oublié.
+- aux collectivités, de présenter leurs projets complexes pour obtenir de l’aide, 
+- aux acteurs de l’ingénierie publique locale, de consulter ces projets, de prendre contact, d’émettre des  recommandations, de se coordonner et de suivre leur évolution dans le temps.
 
-## La solution : Recommandations-collaboratives est un service qui permet d'orienter les porteurs de projet de manière personnalisée pour faire avancer leurs projets, en permettant aux acteurs publics locaux de collaborer entre eux dans le temps
+En février 2024, Recommandations-collaboratives est en fin de construction. En plus d'UrbanVitaliz, les services [SOS Ponts](https://sosponts.recoconseil.fr/) (entretien et rénovation des ponts communaux) et [Conseil Ecoquartiers](https://ecoquartiers.recoconseil.fr/) (accompagnement des collectivités pour l'obtention du label Ecoquartiers) sont actifs et font la preuve de leur impact. Plusieurs nouvelles plateformes thématiques sont à l’étude (biodiversité, eaux pluviales…). Actuellement, c’est la plateforme Mon-Espace-Collectivité (ANCT) qui se lance en s’appuyant dessus. 
 
-Après une phase d'investigation de mars à mai 2020, la construction du service a débuté fin 2020 sur le sujet de la revitalisation des friches, avec la création du service [UrbanVitaliz](https://urbanvitaliz.fr/). Depuis, le service a été généralisé pour mettre à disposition des instances sur d'autres thématiques. Deux autres sont d'ores et déjà en activité : 
-* [SOS Ponts](https://sosponts.recoconseil.fr/) : pour l'entretien et la rénovation des ponts des communes 
-* [Conseil Ecoquartiers](https://ecoquartiers.recoconseil.fr/) : pour l'accompagnement des collectivités pour l'obtention du label Ecoquartiers
 
 ### Zoom sur le premier service Recommandations-collaboratives : UrbanVitaliz
 
-Grâce à une plateforme numérique sur-mesure et une équipe composée notamment d'urbanistes, UrbanVitaliz donne des recommandations d'actions à la collectivité, en fonction du projet qu'elle lui a soumis et des caractéristiques de la friches. **Elle oriente ainsi vers les acteurs, dispositifs, financements, prestations, outils et stratégies disponibles**, susceptibles de débloquer le porteur de projet. En moyenne, une collectivité qui a sollicité UrbanVitaliz reçoit 5 recommandations qu'elle sera libre de mettre en pratique comme elle le souhaite.
+*[UrbanVitaliz](https://beta.gouv.fr/startups/urbanvitaliz.html) a démarré sa phase d'investigation en mars 2020 et est pérennisé depuis novembre 2023.*
+
+Grâce à une plateforme numérique sur-mesure et une équipe composée notamment d'urbanistes, UrbanVitaliz donne des recommandations d'actions à suivre à la collectivité, en fonction du projet qu'elle lui a soumis. **Le service oriente ainsi vers les acteurs, dispositifs, financements, prestations, outils et stratégies disponibles**, susceptibles de débloquer le porteur de projet. En moyenne, une collectivité qui a sollicité UrbanVitaliz reçoit 5 recommandations qu'elle sera libre de mettre en pratique comme elle le souhaite. En pratique, après 3 ans d'existence, 78% des collectivités suivent au moins des conseils reçus.
 
 **De plus en plus, les acteurs de l'ingénierie publique locale prennent part à cet accompagnement des dossiers-friche déposés sur la plateforme.** Il s'agit notamment, selon les territoires, des DDT, EPF, agences d'urbanisme etc. Ces acteurs y trouvent plusieurs bénéfices : connaissance approfondie des dossiers déposés sur leur territoire, historisation et suivi dans le temps, coordination multi-acteurs etc. Leur participation permet aussi d'enrichir le suivi des projets grâce à une connaissance locale, une vision de territoire et une présence sur le terrain.
-
-## Stratégie de développement et déploiement du produit Recommandations-collaboratives
-
-En date d'avril 2023, le développement de Recommandations-collaboratives est porté par le produit UrbanVitaliz et co-financé par SOS Ponts (via le programme national des ponts). La priorité n'est pas encore de multiplier les portails de service, mais plutôt de consolider le fonctionnement indépendant de chaque portail.
-
-Historique : Plusieurs interlocuteurs sur d’autres thématiques (mobilité, eau, agents DDT…) ont manifesté leur intérêt à utiliser Recommandations-collaboratives pour faire de l’accompagnement dans la durée sur d’autres sujets que les friches. Face au manque d’outils sur ce sujet complexe, l’équipe UrbanVitaliz a produit une version minimale de l’outil générique, nommé Recommandations-collaboratives, qui permet de créer d’autres portails thématiques de recommandations, à l’initiative d’autres métiers et organisations publiques. 
-
-La mise en place d'un portail Recommandations-collaboratives est réalisée gratuitement pour des administrations publiques qui disposent déjà d'une communauté susceptible de l'utiliser.

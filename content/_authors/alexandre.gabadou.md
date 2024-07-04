@@ -9,10 +9,9 @@ missions:
     end: 2022-06-30
     status: service
     employer: DINUM
+    startups:
+      - partaj
 startups:
   - partaj
 ---
-
-Coach produit & growth @Ground.
-Fan de musique (jazz, disco, house).
-La réponse à tout est le chiffre 42.
+Coach produit & growth @Ground. Fan de musique (jazz, disco, house). La réponse à tout est le chiffre 42.

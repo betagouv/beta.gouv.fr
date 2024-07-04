@@ -5,9 +5,11 @@ role: Développeuse
 github: carolineBda
 missions:
   - start: 2021-05-03
-    end: 2024-06-29
+    end: 2024-12-31
     status: independent
-    employer: ''
+    startups:
+      - codedutravail
+      - monpsy
 startups:
   - codedutravail
   - monpsy

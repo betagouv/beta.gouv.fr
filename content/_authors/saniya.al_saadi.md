@@ -8,6 +8,10 @@ missions:
     end: 2023-06-30
     status: independent
     employer: octo
+    startups:
+      - archifiltre
+      - didoc
+      - zero-logement-vacant
 startups:
   - didoc
   - archifiltre
@@ -16,6 +20,4 @@ previously:
   - domifa
   - workinfrance
   - medle
-
 ---
-

@@ -9,11 +9,11 @@ missions:
     end: 2023-09-30
     status: independent
     employer: OCTO
+    startups:
+      - codedutravail
 startups:
   - codedutravail
 badges:
   - segur
 ---
-
-Chargée de déploiement du Code du Travail Numérique
-Co-fondatrice @ Make It Work 
+Chargée de déploiement du Code du Travail Numérique Co-fondatrice @ Make It Work

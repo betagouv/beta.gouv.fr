@@ -6,9 +6,9 @@ missions:
   - start: 2023-07-04
     end: 2024-12-31
     status: admin
-    employer: ''
+    startups:
+      - pitchou
 startups:
-  - especes.protegees
+  - pitchou
 memberType: beta
 ---
-

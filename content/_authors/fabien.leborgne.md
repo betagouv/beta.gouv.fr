@@ -2,14 +2,14 @@
 fullname: Fabien Leborgne
 role: Développeur Fullstack
 domaine: Développement
+github: fabiengo
 missions:
   - start: 2022-03-02
     end: 2024-12-31
     status: independent
-    employer: ''
+    startups:
+      - dossierfacile
 startups:
-  - locatio
-
+  - dossierfacile
 ---
 Développeur bienveillant et pragmatique, architecte de solutions élégantes et efficaces.
-

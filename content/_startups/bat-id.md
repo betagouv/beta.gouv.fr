@@ -3,10 +3,10 @@ title: RNB, le Référentiel National des Bâtiments (ex Bat-ID)
 mission: Référencer l’intégralité des bâtiments du territoire français au sein d’un géocommun
 sponsors:
   - /organisations/ademe
-  - /organisations/cstb
   - /organisations/ign
   - /organisations/dgaln
   - /organisations/dinum
+  - /organisations/cstb
 incubator: fab-geocommuns
 contact: rnb@beta.gouv.fr
 phases:
@@ -20,6 +20,11 @@ link: https://rnb.beta.gouv.fr/
 budget_url: https://rnb-fr.gitbook.io/documentation/budget
 accessibility_status: partiellement conforme
 repository: https://github.com/fab-geocommuns/RNB-site
+dashlord_url: https://dashlord.incubateur.net/url/rnb-beta-gouv-fr/
+stats: true
+thematiques:
+  - Open-Data
+  - Patrimoine
 ---
 ## Problème
 

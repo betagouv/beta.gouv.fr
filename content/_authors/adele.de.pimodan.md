@@ -1,5 +1,5 @@
 ---
-fullname: Adèle De pimodan
+fullname: Adèle de Pimodan
 role: Responsable RH
 domaine: Animation
 teams:
@@ -11,5 +11,4 @@ missions:
     employer: GIP Inclusion
 memberType: beta
 ---
-
 RH

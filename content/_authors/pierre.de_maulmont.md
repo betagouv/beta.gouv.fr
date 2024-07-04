@@ -7,9 +7,12 @@ missions:
     end: 2021-06-30
     status: admin
     employer: education-nationale
+    startups:
+      - dossiersco
+      - open-academie
 startups:
-    - open-academie
-    - dossiersco
+  - open-academie
+  - dossiersco
 ---
-
-Sujet : Comment faire en sorte que la simplification administrative cesse d'être une incantation ? Vous avez 5 heures.
+Sujet: Comment faire en sorte que la simplification administrative cesse d'être une
+  incantation ? Vous avez 5 heures.

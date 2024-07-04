@@ -5,10 +5,10 @@ sponsors:
   - /organisations/dinum
 incubator: dinum_produits_interministeriels
 phases:
-  - name: investigation
-    start: 2015-10-11
   - name: construction
     start: 2015-01-01
+  - name: investigation
+    start: 2015-10-11
   - name: success
     start: 2020-01-01
 usertypes:
@@ -20,9 +20,10 @@ repository: https://github.com/betagouv/api-particulier
 stats: true
 stats_url: https://particulier.api.gouv.fr/stats.html
 contact: contact@particulier.api.gouv.fr
-
+thematiques:
+  - Open-Data
+  - Outil technique
 ---
-
 ## Le problème
 
 Lorsqu'une personne dépose un dossier pour une démarche administrative, elle doit fournir de nombreuses informations et documents. C'est par exemple le cas pour l'attribution des aides facultatives à la scolarité, la tarification sociale et solidaire des transports...

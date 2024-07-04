@@ -5,12 +5,27 @@ domaine: Déploiement
 github: aurelienc
 missions:
   - start: 2023-06-19
-    end: 2024-06-19
+    end: 2024-09-19
     status: independent
-    employer: pathtech
+    employer: Pathtech
+    startups:
+      - transport
+  - start: 2024-01-17
+    end: 2024-07-31
+    status: independent
+    employer: Pathtech
+    startups:
+      - mediation.logement
 startups:
   - transport
   - mediation.logement
 memberType: beta
+link: https://www.linkedin.com/in/aurelien-nocoder/
+competences:
+  - Communication
+  - Croissance
+  - Product strategy
+  - JavaScript/TypeScript
+  - PHP
+  - Matomo
 ---
-

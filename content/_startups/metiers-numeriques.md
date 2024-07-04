@@ -1,8 +1,8 @@
 ---
 title: Métiers du Numérique
-mission: Promouvoir les emplois numériques de l'État pour y attirer les meilleurs talents 
+mission: Promouvoir les emplois numériques de l'État pour y attirer les meilleurs talents
 sponsors:
-    - /organisations/dinum
+  - /organisations/dinum
 incubator: dinum_produits_interministeriels
 phases:
   - name: investigation
@@ -11,6 +11,7 @@ phases:
   - name: construction
     start: 2021-05-16
   - name: alumni
+    start: 2023-06-23
 contact: contact@metiers.numerique.gouv.fr
 link: https://metiers.numerique.gouv.fr
 repository: https://github.com/betagouv/metiers-numeriques
@@ -20,7 +21,6 @@ usertypes:
   - particulier
   - etat
 ---
-
 ### Contexte
 
 Le numérique est incontournable et prend une place croissante dans nos vies et nos usages. Pourtant, si les besoins sont très importants, les ressources humaines sont limitées et l'on assiste aujourd’hui à une véritable guerre des talents dans le numérique.
@@ -49,7 +49,7 @@ Viens constater l’inverse et changer la donne de l'intérieur ! Parce que l'É
 
 ### Le produit
 
-metiers.numerique.gouv.fr est plus qu’un simple site internet ! 
+metiers.numerique.gouv.fr est plus qu’un simple site internet !
 
 Le site Métiers du Numerique permet de trouver des missions enrichissantes et stimulantes. Avec plus de 200 offres par mois, chacun·e peut trouver la mission qui l'intéresse !
 
@@ -61,4 +61,4 @@ Cette plateforme de matching permet la rencontre entre des candidat·es qui veul
 - Simplifier et rendre accessible les offres d’emploi.
 - Objectifs 2022 :
   - 40 recrutements effectués via notre site
-  - 300 talents référencés sur le site 
+  - 300 talents référencés sur le site

@@ -7,10 +7,10 @@ missions:
   - start: 2023-01-30
     end: 2024-09-29
     status: independent
-    employer: ''
+    startups:
+      - sirius
 startups:
   - sirius
 memberType: beta
 ---
-
 Développeur fullstack

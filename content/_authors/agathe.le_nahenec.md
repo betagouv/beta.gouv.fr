@@ -7,10 +7,7 @@ missions:
     end: 2023-03-17
     status: admin
     employer: dinum
-startups: null
 previously:
   - mdph
   - mon-entreprise
-
 ---
-

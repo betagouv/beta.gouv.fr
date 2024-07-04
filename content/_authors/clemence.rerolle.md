@@ -8,6 +8,8 @@ missions:
     end: 2024-09-01
     status: independent
     employer: Octo
+    startups:
+      - carte-verte
 startups:
   - carte-verte
 badges:
@@ -15,5 +17,4 @@ badges:
 previously:
   - tumeplay
 ---
-
 Business developer et podcasteuse

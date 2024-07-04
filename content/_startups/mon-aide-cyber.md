@@ -4,16 +4,17 @@ incubator: lab-innov-anssi
 contact: monaidecyber@ssi.gouv.fr
 title: MonAideCyber
 sponsors:
-    - /organisations/anssi
+  - /organisations/anssi
 phases:
-    - name: investigation
-      start: 2022-01-01
-    - name: construction
-      start: 2022-09-01
+  - name: investigation
+    start: 2022-01-01
+  - name: construction
+    start: 2022-09-01
 redirect_from:
-    - /startups/MonAideCyber
+  - /startups/MonAideCyber
+thematiques:
+  - Sécurité informatique
 ---
-
 ## En cours de construction
 
 **Vous êtes intéressé(e) par notre projet ?

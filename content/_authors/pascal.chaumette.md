@@ -6,7 +6,8 @@ missions:
   - start: 2018-07-01
     end: 2024-12-31
     status: independent
-    employer: ''
+    startups:
+      - diagoriente
 startups:
   - diagoriente
 ---

@@ -17,12 +17,10 @@ missions:
     status: independent
     employer: octo
 startups:
-  - conseiller-numerique
+  - france-numerique-ensemble
 badges:
   - segur
 previously:
   - la-bonne-formation
   - snu
 ---
-
-

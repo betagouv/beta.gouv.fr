@@ -5,9 +5,15 @@ domaine: Coaching
 link: https://lowpital.care
 missions:
   - start: 2022-10-20
-    end: 2024-04-29
+    end: 2024-07-31
     status: service
-    employer: ''
+    startups:
+      - eimis
+  - start: 2023-06-10
+    end: 2024-10-10
+    status: service
+    startups:
+      - api.prevention
 startups:
   - eimis
 ---

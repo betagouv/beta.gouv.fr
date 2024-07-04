@@ -2,8 +2,7 @@
 fullname: David Boureau
 domaine: Développement
 role: Développeur web
-avatar: >-
-  https://res.cloudinary.com/bdavidxyz-com/image/upload/v1471575050/menice3_reoxvv.png
+avatar: https://res.cloudinary.com/bdavidxyz-com/image/upload/v1471575050/menice3_reoxvv.png
 link: http://bdavidxyz.com
 missions:
   - start: 2016-09-15

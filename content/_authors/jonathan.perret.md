@@ -8,8 +8,5 @@ missions:
     end: 2024-12-01
     status: service
     employer: /ut7
-teams:
-  - /teams/gip-inclusion
 ---
-
 Développeur chez /ut7

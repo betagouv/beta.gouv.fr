@@ -4,10 +4,10 @@ domaine: Déploiement
 role: Chargée de déploiement
 missions:
   - start: 2022-01-03
-    end: 2024-06-28
+    end: 2024-12-31
     status: independent
-    employer: ''
-incubator: ''
+    startups:
+      - sndv_maritime
 startups:
   - sndv_maritime
 previously:

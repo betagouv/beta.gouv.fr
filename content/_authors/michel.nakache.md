@@ -7,9 +7,10 @@ missions:
     end: 2023-07-31
     status: service
     employer: OCTO Technology
+    startups:
+      - data.gouv.fr
 startups:
   - data.gouv.fr
 memberType: autre
 ---
-
 Coach Orga, systémicien, et plongeur l'été

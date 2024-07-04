@@ -22,11 +22,10 @@ missions:
     status: independent
     employer: octo
 startups:
-    - itou
+  - les-emplois
 previously:
-    - la-bonne-boite
-    - workinfrance
-    - codedutravail
+  - la-bonne-boite
+  - workinfrance
+  - codedutravail
 ---
-
 Développeur web. Aime autant le front-end que le back-end :)

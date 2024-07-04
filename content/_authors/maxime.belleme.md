@@ -1,11 +1,10 @@
 ---
-fullname: MAXIME BELLEME
-role: Employé polyvalent en magasin 
+fullname: Maxime Belleme
+role: Employé polyvalent en magasin
 domaine: Autre
 missions:
   - start: 2022-08-04
     end: 2023-08-04
     status: independent
 ---
-
-Je suis actuellement inscrit en CEJ je recherche un stage  
+Je suis actuellement inscrit en CEJ je recherche un stage

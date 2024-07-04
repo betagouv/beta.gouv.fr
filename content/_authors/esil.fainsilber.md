@@ -7,8 +7,9 @@ missions:
     end: 2023-12-30
     status: admin
     employer: Cerema
+    startups:
+      - recommandations-collaboratives
 startups:
   - recommandations-collaboratives
 memberType: dinum
 ---
-

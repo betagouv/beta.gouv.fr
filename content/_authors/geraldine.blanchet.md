@@ -7,9 +7,10 @@ missions:
     end: 2023-12-30
     status: admin
     employer: MENJ-DNE
+    startups:
+      - compte.ressources
 startups:
   - compte.ressources
 memberType: beta
 ---
-
 intrapreneuse compte ressources

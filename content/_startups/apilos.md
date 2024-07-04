@@ -1,8 +1,6 @@
 ---
 title: APiLos
-mission: >-
-  Faciliter l'accès aux logements sociaux par la simplification des
-  conventions. 
+mission: 'Faciliter l''accès aux logements sociaux par la simplification des conventions. '
 sponsors:
   - /organisations/dgaln
 incubator: mtes
@@ -33,6 +31,11 @@ phases:
   - name: acceleration
     start: 2022-04-27
     end: 2022-06-30
+thematiques:
+  - Social
+  - Logement
+  - Open-Data
+  - Administratif
 ---
 # **Problème**
 

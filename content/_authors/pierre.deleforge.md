@@ -7,9 +7,12 @@ missions:
   - start: 2019-06-01
     end: 2022-06-30
     status: independent
-    employer: ""
+    startups:
+      - les-emplois
+      - pilotage.de.linclusion
+      - place-de-marche-inclusion
 startups:
-  - itou
+  - les-emplois
   - place-de-marche-inclusion
   - pilotage.de.linclusion
 ---

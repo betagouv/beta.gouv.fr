@@ -7,9 +7,10 @@ missions:
     end: 2025-01-01
     status: independent
     employer: DINUM
+    startups:
+      - data-subvention
 startups:
   - data-subvention
 badges:
   - segur
 ---
-

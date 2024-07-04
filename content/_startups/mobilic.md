@@ -2,7 +2,7 @@
 mission: Améliorer le respect du temps de travail des travailleurs mobiles
 incubator: mtes
 repository: https://github.com/MTES-MCT/mobilic
-contact: gaspard.granger@developpement-durable.gouv.fr
+contact: mobilic@beta.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - entreprise
@@ -21,6 +21,12 @@ phases:
 fast:
   promotion: 13
   montant: 300000
+thematiques:
+  - Écologie
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 13
 ---
 Pour répondre aux exigences du droit du travail, **les employeurs ont l’obligation de suivre le temps de travail de leurs salariés**. Dans le secteur des transports routiers, les salariés étant mobiles, le décompte de leur temps de travail ne peut pas se faire au siège de leur entreprise. Il est donc fait par les salariés à l’aide d’un dispositif qu’ils emportent avec eux.
 

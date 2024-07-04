@@ -8,6 +8,9 @@ missions:
     end: 2022-08-12
     status: service
     employer: DINUM
+    startups:
+      - 1000.jours
+      - 1000.premiers.jours.blues
 startups:
   - 1000.jours
   - 1000.premiers.jours.blues

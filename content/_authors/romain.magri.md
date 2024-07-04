@@ -8,9 +8,10 @@ missions:
     end: 2023-11-02
     status: service
     employer: Opteamis
+    startups:
+      - reva
 startups:
   - reva
 memberType: beta
 ---
-
 Product Designer

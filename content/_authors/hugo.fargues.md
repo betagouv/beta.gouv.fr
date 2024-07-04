@@ -11,4 +11,3 @@ missions:
     employer: DINUM
 memberType: beta
 ---
-

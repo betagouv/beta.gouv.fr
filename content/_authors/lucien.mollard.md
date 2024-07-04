@@ -9,8 +9,10 @@ missions:
     end: 2024-09-30
     status: independent
     employer: octo
+    startups:
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 previously:
   - open-academie
   - dossiersco

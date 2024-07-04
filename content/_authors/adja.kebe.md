@@ -5,14 +5,14 @@ domaine: Déploiement
 link: https://www.akprocess.net/
 missions:
   - start: 2022-02-21
-    end: 2024-02-29
+    end: 2024-07-31
     status: independent
     employer: Path Tech
+    startups:
+      - mobilic
 startups:
   - mobilic
 badges:
   - segur
 ---
-
-
-Chargée de déploiement et communication 
+Chargée de déploiement et communication

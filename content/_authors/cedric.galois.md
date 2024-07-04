@@ -1,6 +1,6 @@
 ---
 fullname: Cédric Galois
-role: Stagiaire intrapreneur 
+role: Stagiaire intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2021-07-15
@@ -10,5 +10,4 @@ missions:
 badges:
   - segur
 ---
-
 Stagiaire au Secrétariat général du Ministère de la culture, sur le projet CultureRIM

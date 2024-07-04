@@ -1,8 +1,6 @@
 ---
 title: DiaLog
-mission: >-
-  Faciliter l'intégration de la réglementation poids lourds dans les GPS
-  routiers
+mission: Faciliter l'intégration de la réglementation poids lourds dans les GPS routiers
 sponsors:
   - /organisations/dgitm
 incubator: mtes
@@ -11,19 +9,19 @@ accessibility_status: non conforme
 link: https://dialog.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/dialog/
 stats: false
-budget_url: ~
 phases:
   - name: investigation
     start: 2022-03-21
     end: 2022-10-18
   - name: construction
     start: 2022-10-18
-
+thematiques:
+  - Transports
+  - Open-Data
 ---
-
 DiaLog
 
-## Le problème 
+## Le problème
 
 Aujourd’hui, les chauffeurs de poids lourds sont quotidiennement confrontés à des difficultés dans la planification de leurs trajets. **Pour les poids lourds, connaître leurs conditions de circulation ou de stationnement est difficile.**
 
@@ -32,7 +30,7 @@ Pourtant, ces réglementations de circulation sont primordiales pour :
 - **La bonne circulation des poids lourds** (véhicules de secours, approvisionnement de marchandises…).
 - **La sécurité du public** et **la préservation des infrastructures routière.**
 
-Pour tenter de résoudre ce problème, **Dialog permet aux administrations de numériser ces règles.** La réglementation peut ainsi être diffusée aux *services de calculs d’itinéraires* (GPS).
+Pour tenter de résoudre ce problème, **Dialog permet aux administrations de numériser ces règles.** La réglementation peut ainsi être diffusée aux _services de calculs d’itinéraires_ (GPS).
 
 ## La solution
 

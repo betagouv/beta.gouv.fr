@@ -9,12 +9,11 @@ missions:
   - start: 2019-04-01
     end: 2020-12-31
     status: independent
-  - status: independent
-    start: 2021-09-08
-    end: 2024-06-30
-startups:
-  - reva
+  - start: 2021-09-08
+    end: 2024-12-31
+    status: independent
 previously:
+  - reva
   - avril
   - pass-culture
 competences:

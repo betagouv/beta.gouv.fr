@@ -7,7 +7,8 @@ missions:
     end: 2024-07-01
     status: independent
     employer: Malt
+    startups:
+      - camino
 startups:
   - camino
 ---
-

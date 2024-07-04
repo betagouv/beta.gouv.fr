@@ -9,6 +9,8 @@ missions:
     end: 2022-01-27
     status: independent
     employer: BENEXT
+    startups:
+      - camino
 startups:
   - camino
 badges:

@@ -9,9 +9,10 @@ missions:
     end: 2024-07-30
     status: independent
     employer: DINUM
+    startups:
+      - oscars
 startups:
   - oscars
 memberType: beta
 ---
-
 Fullstack Developer Freelance - OSCARS

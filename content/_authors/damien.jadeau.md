@@ -10,5 +10,4 @@ missions:
     employer: DNUM
 memberType: autre
 ---
-
-Champion d'Europe de manège en catégorie Carrousel  
+Champion d'Europe de manège en catégorie Carrousel

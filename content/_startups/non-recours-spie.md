@@ -1,5 +1,5 @@
 ---
-title: Non-recours au service public de l'insertion et de l'emploi 
+title: Non-recours au service public de l'insertion et de l'emploi
 mission: Faciliter l'accès des personnes dites 'invisibles' aux dispositifs d'accompagnement vers l'emploi
 sponsors:
   - /organisations/mtei
@@ -13,15 +13,11 @@ phases:
 events:
   - name: end
     date: 2021-12-31
-link:
-repository: 
-stats: false 
-stats_url: 
+stats: false
 contact: stephane.coillard@beta.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Problème investigué :
 
 Il existe une diversité de dispositifs pour les personnes en matière d’accompagnement social et professionnel pour un parcours vers l’emploi, dont certains sont spécifiques à des publics (jeunes, allocataires du RSA, etc.).

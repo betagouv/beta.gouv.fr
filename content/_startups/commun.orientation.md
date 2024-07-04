@@ -9,6 +9,7 @@ phases:
   - name: construction
     start: 2021-03-01
   - name: alumni
+    start: 2023-10-30
 usertypes:
   - collectivite-territoriale
   - particulier
@@ -23,9 +24,8 @@ Trop d’usagers dans les collectivités ont des difficultés à résoudre leurs
 
 Une organisation des collectivités obscure pour les usagers :
 
-* L’administration est un mille-feuille pour beaucoup d’usagers, et il est difficile de l’extérieur de comprendre qui est à même de résoudre un problème précis.
-  
-* L’orientation des usagers se fait en général en fonction de l’organisation de la collectivité et non des problématiques des utilisateurs. 
+- L’administration est un mille-feuille pour beaucoup d’usagers, et il est difficile de l’extérieur de comprendre qui est à même de résoudre un problème précis.
+- L’orientation des usagers se fait en général en fonction de l’organisation de la collectivité et non des problématiques des utilisateurs.
 
 <!--EndFragment-->
 
@@ -63,15 +63,16 @@ Phase d’apprentissage et tests d'hypothèses sur les réponses à apporter aux
 
 <!--EndFragment-->
 
-## 
+##
+
 **Mesure d'impact**
 
 <!--StartFragment-->
 
 Nous travaillons sur l’utilisation de différents indicateurs :
 
-* Le taux de satisfaction des utilisateurs de l’outil
-* Le nombre d’utilisateurs orientés
-* La diminution du nombre de demandes sur les autres canaux de contact de la collectivité
+- Le taux de satisfaction des utilisateurs de l’outil
+- Le nombre d’utilisateurs orientés
+- La diminution du nombre de demandes sur les autres canaux de contact de la collectivité
 
 <!--EndFragment-->

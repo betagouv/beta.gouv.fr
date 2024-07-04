@@ -6,22 +6,24 @@ github: Aurelie-J
 link: http://www.marquedefabrique.net
 missions:
   - start: 2019-11-12
-    end: 2024-03-31
+    end: 2024-08-30
     status: independent
-    employer: ''
+    employer: Scopyleft
+    startups:
+      - données-et-territoires
+      - umap
 startups:
   - données-et-territoires
   - umap
 previously:
-  - Aplus
+  - aplus
   - sndv_maritime
-  - Designers transverses
 badges:
   - segur
 competences:
   - UX
   - UI
-
+  - Product design
+  - Product strategy
 ---
-
 Recherche utilisateurs, prototype & design d'interfaces

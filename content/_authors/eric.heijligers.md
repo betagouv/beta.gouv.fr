@@ -4,10 +4,17 @@ domaine: Produit
 role: Lead Product manager
 github: Eric-Hei
 missions:
-  - status: admin
-    employer: Fabrique numérique des ministères sociaux
-    start: 2020-01-01
+  - start: 2020-01-01
     end: 2024-12-31
+    status: admin
+    employer: Fabrique numérique des ministères sociaux
+    startups:
+      - 1000.jours
+      - 1000.premiers.jours.blues
+      - archifiltre
+      - domifa
+      - enfants-du-spectacle
+      - tumeplay
 incubator: sgmas
 startups:
   - 1000.jours

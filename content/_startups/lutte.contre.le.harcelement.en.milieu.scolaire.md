@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Améliorer la prise en charge / le suivi des situations de harcèlement entre
-  élèves 
+mission: 'Améliorer la prise en charge / le suivi des situations de harcèlement entre élèves '
 incubator: dinum
 title: 'Lutte contre le harcèlement en milieu scolaire '
 contact: adressemailenconstruction@education.gouv.fr
@@ -11,6 +9,9 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-11
+thematiques:
+  - Jeunesse
+  - Education
 ---
 ## Contexte
 
@@ -52,6 +53,3 @@ Nous souhaitons interroger :
 * Les référents départementaux en charge du traitement des situations de harcèlement
 * Les chefs d'établissement et directeurs d'école
 * Les acteurs de l’administration centrale
-
-
-

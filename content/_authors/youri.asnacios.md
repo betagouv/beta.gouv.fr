@@ -8,8 +8,9 @@ missions:
     end: 2023-12-15
     status: admin
     employer: dnum
+    startups:
+      - monitorfish
 startups:
   - monitorfish
 memberType: beta
 ---
-

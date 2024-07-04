@@ -8,11 +8,15 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Omnicité
+    startups:
+      - signalement
 startups:
   - signalement
 badges:
   - segur
-
+competences:
+  - Développement Frontend
+  - Développement Backend
+  - UX
+  - Product design
 ---
-
-

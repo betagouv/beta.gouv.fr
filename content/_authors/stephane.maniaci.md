@@ -9,11 +9,13 @@ missions:
     end: 2025-12-31
     status: admin
     employer: DINUM
+    startups:
+      - notifications
+      - valorisation.des.stages.pro
 badges:
   - segur
 startups:
   - notifications
   - valorisation.des.stages.pro
 ---
-
-Lead dev @ Brigade
+Lead dev à l'Incubateur des Services Numériques (ISN).

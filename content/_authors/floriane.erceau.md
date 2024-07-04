@@ -7,8 +7,9 @@ missions:
     end: 2022-06-19
     status: independent
     employer: Octo
+    startups:
+      - domifa
 startups:
   - domifa
 ---
-
 Développeuse le jour, stand-up et geek le reste du temps

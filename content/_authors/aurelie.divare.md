@@ -7,6 +7,9 @@ missions:
     end: 2023-08-31
     status: service
     employer: Pôle emploi
+    startups:
+      - encyclopedie-des-metiers
+      - mes-evenements-emploi
 startups:
   - mes-evenements-emploi
   - encyclopedie-des-metiers

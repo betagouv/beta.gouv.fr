@@ -1,19 +1,17 @@
 ---
 fullname: Thomas Nathan
-role: Data
-domaine: Produit
+role: Coaching
+domaine: Coaching
 github: thomasnpc
 missions:
-  - start: 2022-09-05
-    end: 2026-06-27
+  - start: 2024-04-04
+    end: 2024-07-04
     status: independent
-    employer: DINUM
 startups:
   - recosante
 badges:
   - segur
 previously:
-  - locatio
+  - dossierfacile
+memberType: beta
 ---
-
-

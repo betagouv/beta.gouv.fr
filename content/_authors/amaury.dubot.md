@@ -8,8 +8,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Octo
+    startups:
+      - rdv.insertion
 startups:
-  - data.insertion
+  - rdv.insertion
 previously:
   - signaux-faibles
   - carnet.de.bord

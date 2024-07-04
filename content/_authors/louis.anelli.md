@@ -9,6 +9,11 @@ missions:
     end: 2022-06-01
     status: independent
     employer: Octo
+    startups:
+      - civils-de-la-defense
+      - e-chauffeur
+      - les-alpps
+      - octopus
 startups:
   - civils-de-la-defense
   - e-chauffeur

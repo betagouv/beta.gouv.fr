@@ -9,9 +9,10 @@ missions:
     end: 2023-09-03
     status: independent
     employer: UT7
+    startups:
+      - ellesfontlaculture
 startups:
   - ellesfontlaculture
 badges:
   - segur
 ---
-''

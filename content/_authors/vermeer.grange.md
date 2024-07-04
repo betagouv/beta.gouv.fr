@@ -12,11 +12,10 @@ missions:
     status: independent
     employer: octo
 startups:
-  - itou
+  - les-emplois
   - pilotage.de.linclusion
 previously:
   - la-bonne-alternance
   - la-bonne-boite
 ---
-
 En année sabbatique, réfléchit au futur.

@@ -7,9 +7,7 @@ missions:
     end: 2024-04-16
     status: service
     employer: FNCCR
-startups:
 previously:
   - chauffage-urbain
 ---
-
 En charge de tout ce qui touche à l'énergie, j'accompagne les collectivités dans leurs projets

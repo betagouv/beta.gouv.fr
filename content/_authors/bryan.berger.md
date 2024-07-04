@@ -8,6 +8,8 @@ missions:
     end: 2023-04-28
     status: service
     employer: Selego
+    startups:
+      - snu
 competences:
   - Développement Backend
   - Développement Frontend

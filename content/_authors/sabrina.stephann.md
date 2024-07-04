@@ -1,5 +1,5 @@
 ---
-fullname: Sabrina STEPHANN
+fullname: Sabrina Stephann
 role: Chargée de support
 domaine: Autre
 missions:
@@ -7,8 +7,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - annuaire-entreprises
 memberType: dinum
 startups:
   - annuaire-entreprises
 ---
-

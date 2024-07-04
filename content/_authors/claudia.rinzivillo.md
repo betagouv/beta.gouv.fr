@@ -7,7 +7,8 @@ missions:
     end: 2022-06-15
     status: independent
     employer: Octo
+    startups:
+      - potentiel
 startups:
   - potentiel
 ---
-

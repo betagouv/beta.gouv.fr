@@ -9,5 +9,4 @@ missions:
     employer: Numa
 memberType: autre
 ---
-
 Entrepreneur & amoureux du produit !

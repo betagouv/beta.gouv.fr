@@ -9,5 +9,4 @@ missions:
     status: service
     employer: Octo
 ---
-
 Développeur, musicien, entrepreneur, éternel apprenant

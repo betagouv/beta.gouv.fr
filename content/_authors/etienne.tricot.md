@@ -9,4 +9,3 @@ missions:
     employer: OCTO Technology
 memberType: attributaire
 ---
-

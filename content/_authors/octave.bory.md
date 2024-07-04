@@ -9,15 +9,17 @@ missions:
     end: 2024-12-31
     status: independent
     employer: NUMA
+    startups:
+      - portail-rse
 startups:
-  - portail.rse
+  - portail-rse
 previously:
   - acceslibre
   - estime
   - rim-culture
   - signaux-faibles
   - ban
-  - sparte
+  - mon-diagnostic-artificialisation
   - bases.adresses.locales
   - homologation
 badges:

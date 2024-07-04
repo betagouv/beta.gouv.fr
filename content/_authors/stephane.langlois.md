@@ -12,11 +12,10 @@ missions:
 github: pntbr
 previously:
   - recosante
-  - dossierSCO
-  - classeà12
+  - dossiersco
+  - classe-a-12
   - comobi
-  - labels-transition
+  - territoires-en-transitions
   - ma-cantine-egalim
 ---
 faire des trucs utiles avec des personnes enthousiastes🐾
-·|

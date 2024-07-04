@@ -1,16 +1,18 @@
 ---
 title: PhytoPhare
-mission: Notifier chaque agriculteurices dès qu'un changement réglementaire advient sur les produits phytopharmaceutiques qu'il ou elle utilise, et uniquement ceux-là. 
-sponsors: 
+mission: Notifier chaque agriculteurices dès qu'un changement réglementaire advient sur les produits phytopharmaceutiques qu'il ou elle utilise, et uniquement ceux-là.
+sponsors:
   - /organisations/dgal
-incubator: dinum
+incubator: agriculture
 phases:
-    - name: investigation
-      start: 2023-09-01
+  - name: investigation
+    start: 2023-09-01
+  - name: alumni
+    start: 2024-01-15
 stats: false
 contact: anne.devoret@beta.gouv.fr
+accessibility_status: non conforme
 ---
-
 ## Le contexte
 
 Dans un contexte de turn-over récurrent et d’évolution de la réglementation quasi-journalière, la DRAAF Occitanie créée pour ses inspecteurices des outils d’aide à la montée en compétences ainsi qu’à la prise de décision sur le terrain. 
@@ -89,7 +91,11 @@ En parallèle, la base de données sera rapidement ouverte aux inspecteurs sous 
 * Phase 4 : Toutes cultures (PACA + Nouvelle Aquitaine)
 * Phase 5 : Nationalisation
 
-Nous contacter : 
-Anne Devoret (coach produit) anne.devoret@beta.gouv.fr
-Gauvain Meulle (intra et COSIR Occitanie) gauvain.meulle@agriculture.gouv.fr
-Odile Ratabouil (intra et CRAQ Occitanie ) odile.ratabouil@agriculture.gouv.fr
+## Fin de l'investigation - post mortem
+
+Le besoin initialement identifié par l'équipe (phytoconfort à destination des agents seulement) n'est finalement pas avéré.
+
+Le besoin identifié vers les agriculteurs (pivot vers phytophare) n'est pas apparu prioritaire par la DGAL  qui n'a pas souhaité poursuivre sur ce sujet, notamment de par l'existence d'applications du secteur privé sur une partie des besoins.
+
+
+

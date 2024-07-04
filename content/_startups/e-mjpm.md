@@ -8,20 +8,19 @@ link: https://emjpm.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/emjpm
 contact: support.emjpm@fabrique.social.gouv.fr
 stats: true
+events:
+  - name: reprise
+    date: 2019-01-13
+    comment: Reprise d'e-MJPM dans le programme MANDOLINE
 phases:
   - name: investigation
     start: 2018-01-14
   - name: construction
     start: 2018-04-01
-  - name: construction
-    start: 2019-01-13
-    comment: Reprise d'e-MJPM dans le programme MANDOLINE -> nécessité de revoir
-      l'architecture de la plateforme
   - name: acceleration
     start: 2020-09-01
   - name: transfer
     start: 2022-09-01
-  
 usertypes:
   - etat
 ---
@@ -35,10 +34,10 @@ Le rapport de la Cour des Comptes 2016 sur la protection juridique des majeurs c
 
 ### e-MJPM : trouver rapidement le bon professionnel pour les majeurs à protéger
 
-Avec e-MJPM, le magistrat peut choisir au mieux le professionnel qui sera en charge de la mesure sur la base d’un référentiel de mandataires contrôlé et validé par les agents du ministère. 
+Avec e-MJPM, le magistrat peut choisir au mieux le professionnel qui sera en charge de la mesure sur la base d’un référentiel de mandataires contrôlé et validé par les agents du ministère.
 
 Ce service consolide ainsi une base de données des mesures en cours sur le territoire. Ces données ont une valeur essentielle dans le pilotage de la politique publique de la protection juridique des majeurs (connaître le profil des personnes sous protection, adapter l’offre des tuteurs aux spécificités du territoire, identifier les mesures familiales et adapter l’information et le soutien proposé…).
 
-Avec e-MJPM, les mandataires ont un suivi en temps réel des mesures qui leur ont été assignés par les magistrats. 
+Avec e-MJPM, les mandataires ont un suivi en temps réel des mesures qui leur ont été assignés par les magistrats.
 
 Le produit est aujourd'hui déployé et utilisé sur le département des Hauts de France et Paris et poursuit sont déploiement sur tout le territoire national, en partenariat avec le ministère de la Justice.

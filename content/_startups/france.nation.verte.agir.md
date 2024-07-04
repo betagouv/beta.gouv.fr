@@ -1,8 +1,6 @@
 ---
 title: France Nation Verte / Agir
-mission: >-
-  Accompagner les citoyens de manière personnalisée dans la transition
-  écologique
+mission: Accompagner les citoyens de manière personnalisée dans la transition écologique
 sponsors:
   - /organisations/sgpe
 incubator: dinum
@@ -15,6 +13,8 @@ phases:
     start: 2023-02-01
   - name: construction
     start: 2023-06-01
+thematiques:
+  - Écologie
 ---
 ## Contexte
 

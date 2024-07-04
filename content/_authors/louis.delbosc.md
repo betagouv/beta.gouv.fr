@@ -7,10 +7,11 @@ missions:
   - start: 2022-06-08
     end: 2023-06-09
     status: independent
-    employer: ''
+    startups:
+      - données-et-territoires
 badges:
   - segur
 startups:
-    - données-et-territoires
+  - données-et-territoires
 ---
 Un dev aussi différent que tous les autres.

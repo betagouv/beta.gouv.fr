@@ -7,6 +7,8 @@ missions:
     end: 2023-06-30
     status: admin
     employer: Pole emploi
+    startups:
+      - la-bonne-boite
 startups:
   - la-bonne-boite
 competences:

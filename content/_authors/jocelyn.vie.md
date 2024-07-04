@@ -9,5 +9,4 @@ missions:
     employer: MTE - Employeur DDT31
 memberType: beta
 ---
-
 Enthousiaste par nature

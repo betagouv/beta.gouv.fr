@@ -4,11 +4,12 @@ role: Chargée de développement
 domaine: Déploiement
 github: stephreso
 missions:
-  - employer: direccte
+  - start: 2018-04-12
     end: 2022-10-05
-    start: 2018-04-12
     status: admin
+    employer: direccte
+    startups:
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 ---
-

@@ -8,15 +8,13 @@ missions:
     end: 2019-12-31
     status: admin
     employer: Pôle emploi
-    
   - start: 2021-01-01
     end: 2023-06-30
     status: independent
     employer: SAS MG Performance
-startups:
 previously:
   - maintenant
-  - conseiller-numerique
+  - france-numerique-ensemble
   - diagoriente
   - tdb-apprentissage
 competences:

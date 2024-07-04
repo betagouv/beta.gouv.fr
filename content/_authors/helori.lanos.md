@@ -9,10 +9,10 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Octo
+    startups:
+      - zero-logement-vacant
 startups:
   - zero-logement-vacant
 memberType: beta
 ---
-
-
 Entrepreneur & Développeur Fullstack

@@ -1,14 +1,23 @@
 ---
 fullname: Arslane Gharout
-role: Chargé de déploiement
+role: Responsable des relations avec les utilisateurs des produits API
 domaine: Déploiement
 github: arslanegharout
 missions:
   - start: 2023-05-17
-    end: 2024-01-12
+    end: 2024-01-05
     status: independent
+    employer: malt
+  - start: 2024-02-19
+    end: 2024-08-19
+    status: independent
+    employer: malt
 startups:
+  - api.gouv.fr
+  - api-entreprise
+  - api-particulier
+  - datapass
+previously:
   - territoires-en-transitions
 memberType: beta
 ---
-

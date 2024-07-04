@@ -7,8 +7,5 @@ missions:
     end: 2023-12-04
     status: admin
     employer: DEALM Mayotte
-startups:
-  - signalement environnement
 ---
-
 Animateur de la MISEN de Mayotte

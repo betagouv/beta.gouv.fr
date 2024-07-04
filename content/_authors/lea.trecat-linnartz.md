@@ -7,9 +7,10 @@ missions:
     end: 2024-03-01
     status: admin
     employer: pôle emploi
+    startups:
+      - mes.aides.a.lembauche
 startups:
   - mes.aides.a.lembauche
 memberType: beta
 ---
-
-PM - conseillère entreprises - facilitatrice 
+PM - conseillère entreprises - facilitatrice

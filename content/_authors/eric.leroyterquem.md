@@ -5,9 +5,11 @@ role: Développeur web
 github: E-L-T
 missions:
   - start: 2022-09-19
-    end: 2024-06-19
+    end: 2024-12-19
     status: independent
     employer: Dinum
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
 badges:

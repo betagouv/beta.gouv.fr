@@ -8,9 +8,8 @@ missions:
     status: independent
     employer: Octo
   - start: 2023-09-05
-    end: 2024-04-01
+    end: 2024-09-01
     status: independent
-    employer: ''
 incubator: dinum
 startups:
   - sante-psy-etudiant
@@ -20,5 +19,6 @@ badges:
   - segur
 competences:
   - Communication
+  - Croissance
 ---
 Chargé de déploiement

@@ -10,6 +10,9 @@ repository: https://github.com/tchapgouv
 events:
   - name: national_impact
     date: 2023-12-31
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 30000€ pour la promotion 12
 phases:
   - name: construction
     start: 2021-01-01
@@ -21,8 +24,10 @@ usertypes:
 fast:
   promotion: 12
   montant: 30000
+thematiques:
+  - Outil technique
+accessibility_status: non conforme
 ---
-
 ## Contexte
 
 Tchap s'est lancé en avril 2018 et compte aujourd'hui 235 000 utilisateurs. L'application est disponible sur Android, iOS et le web. Tchap est à destination de l'ensemble des agents des trois fonctions publiques (territoriale, hospitalière et centrale).
@@ -39,13 +44,13 @@ Logiciel de messagerie sécurisé qui met en relation les agents publics entre e
 
 ## Stratégie
 
-* Faciliter la maintenance de l'application en automatisant au maximum les procédures.
-* Industrialiser la demande d'ajout de domaines autorisés.
-* Concevoir une stratégie de déploiement envers les administrations non présentes sur Tchap.
-* Proposer un jeu d'API pour l'interopérabilité de Tchap avec des services externes.
-
+- Faciliter la maintenance de l'application en automatisant au maximum les procédures.
+- Industrialiser la demande d'ajout de domaines autorisés.
+- Concevoir une stratégie de déploiement envers les administrations non présentes sur Tchap.
+- Proposer un jeu d'API pour l'interopérabilité de Tchap avec des services externes.
 
 ## Indicateurs d'impact
+
 Les indicateurs d'impact pour Tchap sont les utilisateurs actifs (une connexion au service/semaine) et les messages envoyés.
 Le proxy actuel pour les utilisateurs actifs sont les inscriptions.
 

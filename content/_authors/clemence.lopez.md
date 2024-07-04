@@ -12,11 +12,9 @@ missions:
     end: 2026-09-01
     status: admin
     employer: Dinum
-startups:
-
 previously:
   - tchap
-  - sparte
+  - mon-diagnostic-artificialisation
   - authentification
   - cnr
   - compte.ressources

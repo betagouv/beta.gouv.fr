@@ -5,9 +5,12 @@ domaine: Développement
 github: am-beta
 missions:
   - start: 2021-03-01
-    end: 2024-03-31
+    end: 2024-12-31
     status: independent
     employer: Codeurs en Liberté
+    startups:
+      - api-entreprise
+      - oots.once-only.technical.system
 startups:
   - api-entreprise
   - oots.once-only.technical.system

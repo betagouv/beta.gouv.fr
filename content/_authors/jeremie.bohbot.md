@@ -9,5 +9,4 @@ missions:
     employer: OCTO
 memberType: autre
 ---
-
 Coach innovation, produit et équipe

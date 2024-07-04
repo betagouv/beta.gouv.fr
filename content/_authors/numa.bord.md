@@ -5,11 +5,12 @@ domaine: Développement
 github: numew
 missions:
   - start: 2023-11-06
-    end: 2024-05-04
+    end: 2024-11-01
     status: independent
     employer: Scopyleft
+    startups:
+      - histologe
 startups:
   - histologe
 memberType: beta
 ---
-

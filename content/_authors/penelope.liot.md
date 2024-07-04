@@ -13,7 +13,7 @@ missions:
     status: admin
     employer: DITP
 startups:
-    - agora
+  - agora
 previously:
   - territoires-en-transitions
   - mon-entreprise

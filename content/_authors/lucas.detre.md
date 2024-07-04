@@ -9,6 +9,8 @@ missions:
     end: 2024-12-31
     status: admin
     employer: pole-emploi
+    startups:
+      - pilotagevoiepro
 startups:
   - pilotagevoiepro
 previously:

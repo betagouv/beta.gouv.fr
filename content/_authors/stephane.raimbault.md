@@ -14,8 +14,7 @@ missions:
     status: independent
     employer: octo
 previously:
-    - adock
-    - itou
+  - a-dock
+  - les-emplois
 ---
-
 Aime les solutions simples et plein d'autres trucs compliqués.

@@ -3,7 +3,6 @@ fullname: Aymeric Faivre
 domaine: Design
 role: Designer
 github: AymericFaivre
-avatar: null
 link: http://www.aymericfaivre.com
 missions:
   - start: 2019-02-04
@@ -22,5 +21,4 @@ previously:
 competences:
   - UX
   - UI
-
 ---

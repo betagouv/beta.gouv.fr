@@ -2,14 +2,15 @@
 title: Memo
 mission: Visualiser ses candidatures Pôle emploi en un clin d'oeil
 sponsors:
-    - /organisations/pole-emploi
-incubator: pole-emploi
+  - /organisations/francetravail
+incubator: francetravail
 phases:
   - name: investigation
     start: 2016-01-03
   - name: construction
     start: 2016-01-03
   - name: alumni
+    start: 2020-07-01
 link: https://memo.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/memo
 stats: true
@@ -17,7 +18,6 @@ contact: zohra.hadji@pole-emploi.fr
 usertypes:
   - particulier
 ---
-
 ### Toutes mes candidatures en un clin d’oeil
 
 Memo me permet d'enregistrer en un clic les offres d'emploi depuis tous les sites, ainsi que mes candidatures spontanées. En un coup d’oeil, Memo regroupe l’ensemble de mes candidatures et leur avancement.

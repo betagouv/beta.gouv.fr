@@ -1,18 +1,19 @@
 ---
-mission: >-
-  Mettre à disposition des collectivités territoriales une plateforme sécurisée
-  de services mutualisés 
+mission: 'Mettre à disposition des collectivités territoriales une plateforme sécurisée de services mutualisés '
 incubator: anct
 title: Suite territoriale
-contact: thibaud.chambert-loir@anct.gouv.fr
+contact: lasuiteterritoriale@anct.gouv.fr
 accessibility_status: non conforme
 sponsors:
+  - /organisations/dinum
   - /organisations/anct
   - /organisations/anssi
-  - /organisations/dinum
 phases:
   - name: investigation
     start: 2023-12-07
+  - name: construction
+    start: 2024-05-29
+link: https://suiteterritoriale.anct.gouv.fr/
 ---
 ### Contexte
 
@@ -24,14 +25,14 @@ L'Agence nationale de la cohésion des territoires (ANCT), *via* son Incubateur 
 
 Un rapport d'information du Sénat [*Les collectivités territoriales face au défi de la cybersécurité*](https://www.senat.fr/rap/r21-283/r21-283_mono.html) établit que : 
 * **le recours grandissant au télétravail dans la fonction publique territoriale et des services numériques parfois inadaptés** accentuent l'ampleur des menaces numériques ; 
-* **La fréquence croissante des cyberattaques sur des administrations a de lourdes conséquences** (dysfonctionnement des services publics locaux, perte irrémédiable de données, paiement de rançons...). 
+* **La fréquence croissante des cyberattaques sur des administrations a de lourdes conséquences** (dysfonctionnement des services publics locaux, perte irrémédiable de données, paiement de rançons...) ;
 * **Les "petites collectivités" sont identifiées comme des cibles privilégiées et particulièrement vulnérables** face aux cyberattaques.
 
-Par ailleurs, la *[Synthèse 2023 de la menace ciblant les collectivités territoriales](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-008.pdf)* de l'ANSSI dénombre **une moyenne de 10 incidents cyber affectant les collectivités territoriales chaque mois**
+Par ailleurs, la *[Synthèse 2023 de la menace ciblant les collectivités territoriales](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-008.pdf)* de l'ANSSI dénombre **une moyenne de 10 incidents cyber affectant les collectivités territoriales chaque mois.**
 
-**Les plus petites collecivités territoriales ne disposent pas de services numériques de base (nom de domaine, email, stockage...) sécurisés et font appel à des services sans garantie suffisante en matière de cyberséucirté et de RGPD.**
+**Les plus petites collectivités territoriales ne disposent pas de services numériques de base sécurisés  (nom de domaine, email, stockage...) et font appel à des services sans garantie suffisante en matière de cyberséucirté et de RGPD.**
 
-L'association Déclic qui fédère les Opérateurs Publics de Services Numériques (OPSN) estime par exemple qu'environ **60% des collectivités utilisent des adresses mails ne disposent pas de nom de domaine institutionnel sécurisé**. 
+L'association Déclic qui fédère les Opérateurs Publics de Services Numériques (OPSN) estime par exemple qu'environ **60% des collectivités utilisent des adresses mails ne disposant pas de nom de domaine institutionnel sécurisé**. 
 
 ### Solution
 
@@ -48,7 +49,7 @@ Dans une logique de mutualisation, ce projet contribue à :
 - la **déclinaison territoriale de [la Suite numérique](https://beta.gouv.fr/startups/suite-numerique.html)** en cours de développement par l'Opérateur de produits interministériels de la DINUM ;
 - **l'augmentation des services oeuvrant à la sécurisation des collectivités territoriales** en proposant sur cette même plateforme des services sécurisés issus de l'ANSSI, de l'ANCT ou des Opérateurs Publics de Services numériques.   
 
-**La Suite numérique vise à connecter l'ensemble des intervenants de la sphère publique** (de l'Etat, territoriale et hospitalière) par un unique bouton d'auhentification permettant d'accéder à un ensemble de communs numériques, libres et interopérables. La Suite permet ainsi une action plus simple, plus efficace et plus souveraine. 
+**La Suite numérique vise à connecter l'ensemble des intervenants de la sphère publique** (de l'État, territoriale et hospitalière) par un unique bouton d'authentification permettant d'accéder à un ensemble de communs numériques, libres et interopérables. La Suite permet ainsi une action plus simple, plus efficace et plus souveraine. 
 
 **En mobilisant un groupe de collectivités territoriales pilotes**, l'ANCT et l'ANSSI se proposent d'adapter cette Suite et les produits qui la composent aux besoins spécifiques des collectivités territoriales. 
 

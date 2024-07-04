@@ -7,8 +7,9 @@ missions:
     end: 2024-04-15
     status: service
     employer: DEUD
+    startups:
+      - mes-aides-france-travail
 startups:
-  - mes-aides
+  - mes-aides-france-travail
 memberType: beta
 ---
-

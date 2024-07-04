@@ -7,10 +7,10 @@ missions:
   - start: 2023-08-01
     end: 2023-10-31
     status: independent
-    employer: ''
+    startups:
+      - vues-immersives-libres
 startups:
   - vues-immersives-libres
 memberType: beta
 ---
-
 UXUI designer senior

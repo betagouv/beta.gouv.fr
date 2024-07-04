@@ -8,7 +8,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - les-emplois
+      - pilotage.de.linclusion
 startups:
-  - itou
+  - les-emplois
   - pilotage.de.linclusion
 ---

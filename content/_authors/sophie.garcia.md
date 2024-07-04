@@ -7,8 +7,12 @@ missions:
   - start: 2020-09-01
     end: 2023-04-23
     status: independent
+    startups:
+      - dora
+      - la.communaute.de.linclusion
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
   - la.communaute.de.linclusion
   - dora
 previously:

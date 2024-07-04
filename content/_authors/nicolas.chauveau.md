@@ -9,8 +9,9 @@ missions:
     end: 2022-07-01
     status: service
     employer: DJEPVA
+    startups:
+      - data-subvention
 startups:
   - data-subvention
 ---
-
 Designer

@@ -8,8 +8,9 @@ missions:
     end: 2024-12-31
     status: service
     employer: La Zone
+    startups:
+      - portail-rse
 startups:
-  - portail.rse
+  - portail-rse
 ---
-
 Développeur et associé de Yaal Coop

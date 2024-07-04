@@ -8,4 +8,3 @@ missions:
     end: 2021-08-09
     status: service
 ---
-

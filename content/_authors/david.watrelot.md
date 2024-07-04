@@ -9,8 +9,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Octo
+    startups:
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 ---
-
 Intégrateur web, développeur front-end pour la plateforme de l'inclusion

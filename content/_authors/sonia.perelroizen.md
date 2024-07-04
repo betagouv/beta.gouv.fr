@@ -8,6 +8,8 @@ missions:
     end: 2025-11-21
     status: admin
     employer: GIP Plateforme de l'inclusion
+    startups:
+      - inclusion.connect
 startups:
   - inclusion.connect
 competences:

@@ -1,11 +1,11 @@
 ---
 fullname: Caroline Robillard
-domaine: Développement
-role: Développeuse JS fullstack
+domaine: Coaching
+role: Coach
 github: Carolinedanslesnuages
 missions:
   - start: 2019-09-14
-    end: 2023-12-31
+    end: 2027-12-31
     status: admin
     employer: DNUM
 previously:
@@ -15,4 +15,5 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+  - Coach agile
 ---

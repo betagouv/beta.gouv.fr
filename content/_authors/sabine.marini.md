@@ -6,11 +6,10 @@ missions:
   - start: 2021-04-09
     end: 2024-12-31
     status: admin
-    employer: ''
+    startups:
+      - apilos
 startups:
   - apilos
 competences:
   - Administration Publique
-
 ---
-''

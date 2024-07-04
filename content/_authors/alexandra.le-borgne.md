@@ -8,6 +8,10 @@ missions:
     end: 2024-08-31
     status: independent
     employer: NUMA
+    startups:
+      - le-taxi
+      - mesads
+      - scienceinfuse
 startups:
   - mesads
   - le-taxi
@@ -15,4 +19,3 @@ startups:
 previously:
   - culturecheznous
 ---
-

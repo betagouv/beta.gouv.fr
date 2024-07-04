@@ -11,4 +11,3 @@ memberType: dinum
 teams:
   - /teams/lab-mi
 ---
-

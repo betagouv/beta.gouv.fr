@@ -9,5 +9,4 @@ missions:
     status: independent
 memberType: autre
 ---
-
 Développeur pragmatique, père de famille et propriétaire d'un Cavalier King Charles qui n'écoute rien

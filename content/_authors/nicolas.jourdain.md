@@ -8,7 +8,8 @@ missions:
     end: 2023-09-30
     status: admin
     employer: MTE/MTS
+    startups:
+      - partaj
 startups:
   - partaj
 ---
-

@@ -1,5 +1,5 @@
 ---
-fullname: Rose MAKNALI
+fullname: Rose Maknali
 role: Stagiaire
 domaine: Autre
 missions:
@@ -9,4 +9,3 @@ missions:
 badges:
   - segur
 ---
-

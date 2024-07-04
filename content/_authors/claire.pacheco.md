@@ -8,6 +8,8 @@ missions:
     end: 2023-12-06
     status: admin
     employer: Ministère de la Culture
+    startups:
+      - euphrosyne
 startups:
   - euphrosyne
 competences:

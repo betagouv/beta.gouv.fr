@@ -8,9 +8,10 @@ missions:
     end: 2023-12-22
     status: independent
     employer: SGDSN
+    startups:
+      - athena
 startups:
   - athena
 memberType: autre
 ---
-
 Développeur

@@ -1,6 +1,6 @@
 ---
 fullname: Limam Ahmed LIMAM AHMED
-role:  Chargé de déploiement 
+role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-10-20
@@ -12,5 +12,4 @@ previously:
 badges:
   - segur
 ---
-
 Chargé de déploiement CAMINO

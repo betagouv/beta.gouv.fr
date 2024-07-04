@@ -1,7 +1,7 @@
 ---
 fullname: Benoit Champy
-domaine: Design
-role: UX Designer et Coach investigation
+domaine: Coaching
+role: Coach produit & designer
 github: benoitchampy
 link: https://www.linkedin.com/in/benoitchampy/
 missions:
@@ -9,6 +9,11 @@ missions:
     end: 2026-12-31
     status: admin
     employer: DINUM
+    startups:
+      - acceslibre
+      - france.nation.verte.agir
+      - pass-sport
+      - reperer.identifier.victimes.teh
 startups:
   - pass-sport
   - france.nation.verte.agir
@@ -18,6 +23,8 @@ badges:
 competences:
   - UI
   - UX
+  - Coaching
+  - Facilitation
 previously:
   - cnr
   - la.bonne.renov

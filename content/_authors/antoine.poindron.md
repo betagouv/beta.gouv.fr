@@ -8,11 +8,18 @@ missions:
     end: 2024-07-07
     status: independent
     employer: Octo
+    startups:
+      - les-emplois
+  - start: 2024-05-29
+    end: 2024-11-29
+    status: independent
+    employer: malt
+    startups:
+      - chauffage-urbain
 startups:
-  - itou
+  - les-emplois
+  - chauffage-urbain
 badges:
   - segur
 ---
-
-
 UI designer au service premier de l'utilisateur !

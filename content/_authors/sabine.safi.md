@@ -7,11 +7,14 @@ missions:
   - start: 2019-02-04
     end: 2024-12-31
     status: independent
-    employer: ''
+    startups:
+      - pitchou
+      - recommandations-collaboratives
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
-  - especes.protegees
+  - pitchou
 previously:
   - transport
   - cartobio
@@ -24,5 +27,9 @@ previously:
   - eva
 badges:
   - segur
+competences:
+  - Croissance
+  - Product strategy
+  - Facilitation
+  - Coaching
 ---
-

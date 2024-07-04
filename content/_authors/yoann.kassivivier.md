@@ -23,5 +23,4 @@ previously:
 badges:
   - segur
 ---
-
 Coach & ex-intrapreneur @JeVeuxAider @SNU @API-Engagement

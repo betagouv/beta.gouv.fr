@@ -7,8 +7,9 @@ missions:
     end: 2024-12-30
     status: admin
     employer: pass Culture
+    startups:
+      - pass-culture
 startups:
   - pass-culture
 ---
-
 Lead Product Manager

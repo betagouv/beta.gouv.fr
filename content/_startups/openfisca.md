@@ -12,11 +12,12 @@ phases:
     start: 2020-12-01
   - name: success
     start: 2023-11-30
+  - name: alumni
+    start: 2024-06-05
 link: https://openfisca.org
 repository: https://github.com/openfisca/openfisca-france
 stats: true
-stats_url: >-
-  https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=4&period=range&date=previous30
+stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=4&period=range&date=previous30
 contact: contact@openfisca.org
 techno:
   - Python

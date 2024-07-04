@@ -11,5 +11,4 @@ missions:
 previously:
   - comobi
 ---
-
 Ingénieure Informatique de formation, je me dirige vers le rôle de Product Owner au sein de Beta Gouv.

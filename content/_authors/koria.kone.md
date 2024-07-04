@@ -7,8 +7,9 @@ missions:
     end: 2026-04-23
     status: admin
     employer: GIP Inclusion
+    startups:
+      - les-emplois
 startups:
-    - itou
+  - les-emplois
 memberType: autre
 ---
-

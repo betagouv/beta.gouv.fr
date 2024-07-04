@@ -8,6 +8,8 @@ missions:
     end: 2022-03-02
     status: service
     employer: IPPON
+    startups:
+      - infoparquet
 startups:
   - infoparquet
 previously:

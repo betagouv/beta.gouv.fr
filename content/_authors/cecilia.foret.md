@@ -9,5 +9,4 @@ missions:
     employer: Malt
 memberType: attributaire
 ---
-
 Chargée de recrutement - Malt

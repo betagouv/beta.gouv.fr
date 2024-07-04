@@ -9,6 +9,11 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Benext, NUMA
+    startups:
+      - data-inclusion
+      - envergo
+      - inclusion.connect
+      - rdv.insertion
 startups:
   - envergo
   - inclusion.connect
@@ -22,5 +27,4 @@ previously:
   - l-application-du-cej
   - carnet.de.bord
 ---
-
 Designer de service & coach produit

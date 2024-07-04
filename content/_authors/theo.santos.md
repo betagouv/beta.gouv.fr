@@ -7,11 +7,12 @@ missions:
     end: 2024-01-31
     status: service
     employer: Octo
+    startups:
+      - agora
 previously:
   - qualicharge
 startups:
-  - Agora
+  - agora
 memberType: beta
 ---
-
 Data Engineer pour le projet Agora

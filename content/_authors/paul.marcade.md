@@ -5,10 +5,11 @@ role: Coach
 github: PaulMarcade
 missions:
   - start: 2020-03-19
-    end: 2024-05-30
+    end: 2025-01-19
     status: independent
-    employer: ''
-incubator: ''
+    employer: Malt
+    startups:
+      - a-just
 startups:
   - a-just
 previously:

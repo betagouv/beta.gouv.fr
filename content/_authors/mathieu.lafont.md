@@ -7,9 +7,14 @@ missions:
     end: 2020-12-31
     status: service
     employer: octo
+    startups:
+      - anais
+      - civils-de-la-defense
+      - e-chauffeur
+      - sepia
 startups:
-    - civils-de-la-defense
-    - e-chauffeur
-    - sepia
-    - anais
+  - civils-de-la-defense
+  - e-chauffeur
+  - sepia
+  - anais
 ---

@@ -10,5 +10,4 @@ missions:
     employer: Octo Technology
 memberType: beta
 ---
-
 Développeur le jour, gameur la nuit.

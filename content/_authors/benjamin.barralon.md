@@ -8,6 +8,11 @@ missions:
     end: 2024-12-31
     status: admin
     employer: AMUE
+    startups:
+      - exposition-ij
+      - investigation-ij
+      - pilotagevoiepro
+      - sirius
 startups:
   - sirius
   - exposition-ij
@@ -18,5 +23,3 @@ teams:
 badges:
   - segur
 ---
-
-PO le jour, joueur de waterpolo la nuit .

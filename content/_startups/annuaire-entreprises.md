@@ -2,12 +2,12 @@
 title: L’Annuaire des Entreprises
 mission: Retrouver toutes les informations concernant les entreprises françaises
 sponsors:
-    - /organisations/dinum
+  - /organisations/dinum
 phases:
-    - name: investigation
-      start: 2020-09-01
-    - name: construction
-      start: 2021-04-01
+  - name: investigation
+    start: 2020-09-01
+  - name: construction
+    start: 2021-04-01
 usertypes:
   - etat
   - entreprise
@@ -19,8 +19,10 @@ stats_url: https://annuaire-entreprises.data.gouv.fr/stats
 budget_url: https://annuaire-entreprises.data.gouv.fr/budget
 dashlord_url: https://dashlord.incubateur.net/url/annuaire-entreprises-data-gouv-fr/
 contact: annuaire-entreprises@data.gouv.fr
+thematiques:
+  - Open-Data
+  - Entreprises
 ---
-
 ## Le problème :
 
 Au sein de l’administration, la donnée des entreprises françaises est une ressource dispersée. De nombreuses directions, agences ou instituts sont responsables d'une fraction de la données et en assument la publication.

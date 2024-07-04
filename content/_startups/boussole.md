@@ -1,8 +1,8 @@
 ---
 title: Boussole des droits
 mission: Accéder à des conseils professionnels à proximité pour trouver un logement, une formation ou un emploi
-sponsors: 
-    - /organisations/djepva
+sponsors:
+  - /organisations/djepva
 incubator: dinum
 events:
   - name: end
@@ -11,14 +11,13 @@ phases:
   - name: investigation
     start: 2015-12-01
   - name: alumni
-link:
+    start: 2017-06-30
 repository: https://github.com/betagouv/boussole
 stats: false
 contact: contact@boussole.beta.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Abandon
 
 Nous avons accompagné la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> dans les phases d’investigation et de construction du service « Boussole de droits » entre 2016 et 2017. Nous avons mis fin à cette collaboration en juillet 2017.
@@ -44,13 +43,13 @@ Au bout des six premiers mois, la DJEPVA a choisi d’accélérer le déploiemen
 Même si l'alignement sur la finalité était présent, nous n’étions pas d'accord sur la façon d’y arriver. Nous avons donc, d’un commun accord, décidé de mettre fin à notre collaboration.
 
 Suite à cette expérience, nous avons notamment appris :
+
 - que l’autonomie de l’équipe n’était pas négociable ;
 - qu’il est nécessaire de retenir un intrapreneur ou une intrapreneuse sur la base du volontariat, et non pas en désigner d'office par son administration pour gérer le produit.
 
 Le service est aujourd'hui disponible sur [boussole.jeunes.gouv.fr](https://boussole.jeunes.gouv.fr/). La proposition de valeur est toujours celle créée au contact de nos utilisateurs, mais l’application a changé, notamment pour être développée dans une technologie que maîtrise notre partenaire.
 
 Le code source que nous publions [ici](https://github.com/betagouv/boussole) correspond à une branche abandonnée, le produit actuellement en service n'est pas à notre connaissance ouvert sous une licence libre.
-
 
 ## La fiche produit publiée en 2016
 

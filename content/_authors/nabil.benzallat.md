@@ -7,8 +7,9 @@ missions:
     end: 2023-09-15
     status: admin
     employer: Ministère de l&#x27;Économie et des Finances
+    startups:
+      - signaux-faibles
 startups:
   - signaux-faibles
 memberType: beta
 ---
-

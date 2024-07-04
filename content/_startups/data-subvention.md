@@ -1,20 +1,20 @@
 ---
 title: Data.Subvention
-mission: >-
-  Rassembler les informations sur les associations et leurs subventions pour
-  simplifier la vie des associations et des agents publics
+mission: Rassembler les informations sur les associations et leurs subventions pour simplifier la vie des associations et des agents publics
 sponsors:
   - /organisations/djepva
 incubator: dinum
 link: https://datasubvention.beta.gouv.fr
 repository: https://github.com/betagouv/api-subventions-asso
 contact: contact@datasubvention.beta.gouv.fr
+stats: true
+dashlord_url: https://dashlord.incubateur.net/tag/data-subvention/
+accessibility_status: partiellement conforme
 usertypes:
   - association
   - etat
-stats: true
 stats_url: https://blog.datasubvention.beta.gouv.fr/statistiques/
-dashlord_url: https://dashlord.incubateur.net/tag/data-subvention/
+budget_url: https://datasubvention.beta.gouv.fr/budgets/
 phases:
   - name: construction
     start: 2022-01-03
@@ -23,7 +23,12 @@ phases:
 fast:
   promotion: 13
   montant: 280000
-accessibility_status: partiellement conforme
+thematiques:
+  - Open-Data
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 280000€ pour la promotion 13
 ---
 ## La valeur de Data.Subvention
 

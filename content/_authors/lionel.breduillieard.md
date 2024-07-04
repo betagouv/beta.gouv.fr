@@ -8,7 +8,6 @@ missions:
     end: 2023-11-30
     status: independent
     employer: octo
-startups:
 previously:
   - codedutravail
   - carnet.de.bord
@@ -16,5 +15,3 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-
-null

@@ -9,4 +9,3 @@ missions:
 badges:
   - segur
 ---
-

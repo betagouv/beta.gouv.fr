@@ -7,7 +7,8 @@ missions:
     end: 2022-12-31
     status: admin
     employer: Direction Générale des Entreprises
+    startups:
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 ---
-

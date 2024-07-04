@@ -7,13 +7,13 @@ missions:
     end: 2023-05-31
     status: independent
     employer: scopyleft
+    startups:
+      - ma-cantine-egalim
 startups:
   - ma-cantine-egalim
 previously:
   - dora
 competences:
   - Communication
-
 ---
-
 Chargé de déploiement le jour, joueur de jeux de société la nuit

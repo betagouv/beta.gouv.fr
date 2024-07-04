@@ -8,5 +8,4 @@ missions:
     end: 2023-01-01
     status: service
 ---
-
 J'ai vu de la lumière, alors chuis entré

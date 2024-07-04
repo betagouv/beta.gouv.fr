@@ -1,8 +1,5 @@
 ---
-mission: >-
-  Limiter les allers-retours sur les devis et les factures lors de l'instruction
-  des dossiers de demandes d'aides à la rénovation énergétique pour les
-  logements des particuliers
+mission: Limiter les allers-retours sur les devis et les factures lors de l'instruction des dossiers de demandes d'aides à la rénovation énergétique pour les logements des particuliers
 incubator: mtes
 title: Checklist demande Aides Rénovation énergétique
 contact: simon.huffeteau@developpement-durable.gouv.fr
@@ -12,9 +9,10 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-11-27
+thematiques:
+  - Écologie
+  - Administratif
 ---
-
-
 ## Contexte
 
 Aujourd'hui, lors des demandes pour des aides à la rénovation des logements des particuliers, ces derniers doivent fournir de nombreux documents administratifs. Qu'il s'agisse des aides CEE, Ma Prime Rénov ou des aides locales, ils doivent fournir des devis et des factures qui comportent un certain nombre de mentions généralistes et spécifiques aux gestes de rénovations envisagés. En l'absence de ces mentions, les demandes ne peuvent être correctement instruites. 
@@ -37,4 +35,3 @@ L'impact attendu se mesure avec différents KPIs :
 - Délais d'instruction des aides raccourcis 
 - Prise en main par les Espace France Rénov
 - % de concordance entre les différents référentiels de gestes de travaux aidés
-

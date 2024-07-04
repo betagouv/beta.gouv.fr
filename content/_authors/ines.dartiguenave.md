@@ -1,6 +1,6 @@
 ---
 fullname: Inès Dartiguenave
-role: Coach
+role: Coach produit
 domaine: Coaching
 link: https://www.linkedin.com/in/inesdartiguenave/
 missions:
@@ -8,10 +8,13 @@ missions:
     end: 2024-12-31
     status: independent
     employer: NUMA
+    startups:
+      - docurba
+      - mon-diagnostic-artificialisation
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
   - docurba
-
+competences:
+  - Coaching
+  - Product strategy
 ---
-
-

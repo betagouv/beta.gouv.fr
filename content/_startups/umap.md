@@ -2,8 +2,8 @@
 title: uMap
 mission: Outiller les agents publics pour créer des cartes en ligne
 sponsors:
-  - /organisations/anct
   - /organisations/dinum
+  - /organisations/anct
 incubator: anct
 phases:
   - name: construction
@@ -11,11 +11,19 @@ phases:
 link: https://umap.incubateur.anct.gouv.fr/
 repository: https://github.com/umap-project/umap/
 stats: false
-contact: umap@anct.gouv.fr
+contact: contact-umap@anct.gouv.fr
 accessibility_status: non conforme
-
+thematiques:
+  - Outil technique
+  - Collectivités
+  - Open-Data
+  - Territoires
+stats_url: https://umap-project.gitlab.io/umap-stats/
+usertypes:
+  - collectivite-territoriale
+  - etablissement-scolaire
+  - etat
 ---
-
 ## Pourquoi uMap ?
 
 Créer et partager une carte en quelques clics, représenter des données quantitatives ou dessiner des formes, animer en diaporamas ou
@@ -45,5 +53,4 @@ Depuis mai 2023 :
 
 ## Une question ? Un besoin ?
 
-Contactez-nous via le [chan Tchap](https://tchap.gouv.fr/#/room/!uPnJvxCrKXSNzYhJXe:agent.dev-durable.tchap.gouv.fr) ou par courriel: umap@anct.gouv.fr
-
+Contactez-nous via le [chan Tchap](https://tchap.gouv.fr/#/room/!uPnJvxCrKXSNzYhJXe:agent.dev-durable.tchap.gouv.fr) ou par courriel: contact-umap@anct.gouv.fr

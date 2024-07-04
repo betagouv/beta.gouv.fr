@@ -9,5 +9,4 @@ missions:
     employer: Numa
 memberType: beta
 ---
-
-Innovation digitale et stratégique, avec une passion pour les domaines de l'environnement et de l'art. 
+Innovation digitale et stratégique, avec une passion pour les domaines de l'environnement et de l'art.

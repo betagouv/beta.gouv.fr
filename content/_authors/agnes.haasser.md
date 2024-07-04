@@ -16,5 +16,4 @@ missions:
 previously:
   - aidantsconnect
 ---
-
 Développeuse multi-tâches et multi-langages

@@ -6,10 +6,11 @@ missions:
   - start: 2022-07-10
     end: 2023-12-31
     status: independent
+    startups:
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 badges:
   - segur
 ---
-
-Amoureuse de voyages, de poutine et de chocolat 
+Amoureuse de voyages, de poutine et de chocolat

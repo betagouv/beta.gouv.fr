@@ -8,6 +8,8 @@ missions:
     end: 2025-01-31
     status: service
     employer: Selego
+    startups:
+      - snu
 startups:
   - snu
 memberType: beta

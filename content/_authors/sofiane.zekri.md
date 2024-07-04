@@ -8,10 +8,12 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Octo
+    startups:
+      - place-de-marche-inclusion
   - start: 2024-01-01
     end: 2026-12-31
     status: admin
-    employer: GIP Plateforme de l'inclusion 
+    employer: GIP Plateforme de l'inclusion
 startups:
   - place-de-marche-inclusion
 badges:

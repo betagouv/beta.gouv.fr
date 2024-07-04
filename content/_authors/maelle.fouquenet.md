@@ -7,10 +7,10 @@ missions:
   - start: 2023-09-25
     end: 2024-01-31
     status: service
-    employer: ''
+    startups:
+      - mon-diagnostic-artificialisation
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
 memberType: beta
 ---
-
 Consultante open data, transparence des algorithmes publics

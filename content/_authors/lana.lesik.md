@@ -7,8 +7,9 @@ missions:
     end: 2022-09-30
     status: service
     employer: Octo
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 ---
-
 Dev Mobile Octo

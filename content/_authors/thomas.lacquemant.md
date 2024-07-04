@@ -8,6 +8,4 @@ missions:
     status: service
     employer: NUMA
 ---
-
-Officiellement responsable Secteur Public pour NUMA.
-Officieusement home-studiste et cycliste 
+Officiellement responsable Secteur Public pour NUMA. Officieusement home-studiste et cycliste

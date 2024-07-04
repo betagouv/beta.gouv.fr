@@ -7,7 +7,8 @@ missions:
     end: 2023-02-01
     status: independent
     employer: pass Culture
+    startups:
+      - pass-culture
 startups:
   - pass-culture
 ---
-

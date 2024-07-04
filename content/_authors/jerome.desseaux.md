@@ -9,8 +9,9 @@ missions:
     end: 2022-05-28
     status: independent
     employer: Scopyleft
+    startups:
+      - signaux-faibles
 startups:
   - signaux-faibles
 ---
-
 Ingénieur et développeur fullstack

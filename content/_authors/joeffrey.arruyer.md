@@ -13,12 +13,11 @@ previously:
   - kelrisks
   - a-dock
   - camino
-  - locatio
+  - dossierfacile
 competences:
   - Gestion de Produit
   - Coaching
   - Communication
   - Croissance
-
 ---
 In your PC, stealing your Internetz

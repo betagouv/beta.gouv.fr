@@ -8,8 +8,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: DINUM
+    startups:
+      - vues-immersives-libres
 startups:
   - vues-immersives-libres
 memberType: beta
 ---
-

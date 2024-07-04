@@ -1,13 +1,11 @@
 ---
 link: https://refugies.info/
-mission: >-
-  Donner de l'information simple et traduite aux personnes réfugiées et à leurs
-  accompagnants
+mission: Donner de l'information simple et traduite aux personnes réfugiées et à leurs accompagnants
 repository: https://github.com/refugies-info/karfur
 title: Réfugiés.info
 contact: nour@refugies.info
 incubator: dinum
-sponsors: 
+sponsors:
   - /organisations/diair
 accessibility_status: non conforme
 phases:
@@ -16,7 +14,13 @@ phases:
 fast:
   promotion: 13
   montant: 250000
-stats_url: https://lookerstudio.google.com/s/mfONJeK_lC0
+stats_url: https://kit.refugies.info/stats
+thematiques:
+  - Social
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 250000€ pour la promotion 13
 ---
 # **Contexte**
 

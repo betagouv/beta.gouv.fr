@@ -7,8 +7,9 @@ missions:
     end: 2023-12-31
     status: independent
     employer: OCTO
+    startups:
+      - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
 ---
-
 Cheffe de projet Résorption-bidonvilles ; Designer UX et graphique

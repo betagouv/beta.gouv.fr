@@ -4,7 +4,6 @@ mission: Accompagner les collectivités pour une meilleure appropriation de leu
 sponsors:
   - /organisations/ademe
 incubator: ademe
-link: ""
 contact: aude.bodiguel@ademe.fr
 accessibility_status: non conforme
 events:
@@ -16,6 +15,8 @@ phases:
     end: 2023-03-31
   - name: construction
     start: 2023-10-23
+thematiques:
+  - Écologie
 ---
 # Contexte
 

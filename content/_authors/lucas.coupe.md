@@ -10,6 +10,4 @@ missions:
 badges:
   - segur
 ---
-
-UX - UI Designer
-Mécanicien sur véhicules anciens à mes heures perdues !
+UX - UI Designer Mécanicien sur véhicules anciens à mes heures perdues !

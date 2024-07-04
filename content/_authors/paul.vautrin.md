@@ -7,6 +7,8 @@ missions:
     end: 2022-02-02
     status: admin
     employer: ministère de la Culture
+    startups:
+      - ellesfontlaculture
 startups:
   - ellesfontlaculture
 ---

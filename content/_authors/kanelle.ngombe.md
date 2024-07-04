@@ -9,4 +9,3 @@ missions:
     employer: Pole Emploi
 memberType: beta
 ---
-

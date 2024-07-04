@@ -7,9 +7,10 @@ missions:
     end: 2025-12-31
     status: admin
     employer: POLE EMPLOI
+    startups:
+      - l-immersion-facile
 startups:
   - l-immersion-facile
 memberType: beta
 ---
-
 Chargé de développement / immersion facilitée

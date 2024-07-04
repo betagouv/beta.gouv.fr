@@ -1,8 +1,6 @@
 ---
-link: https://mon-espace-collectivite.recoconseil.fr/
-mission: >-
-  Réunir en un seul endroit collectivités et Etat Local pour accélérer les
-  projets et leur impact sur le territoire.
+link: https://monespacecollectivite.incubateur.anct.gouv.fr/
+mission: Réunir en un seul endroit collectivités et Etat Local pour accélérer les projets et leur impact sur le territoire.
 repository: https://github.com/betagouv/recoco-portails
 incubator: anct
 title: Mon espace collectivité
@@ -10,15 +8,19 @@ contact: monespacecollectivite@anct.gouv.fr
 redirect_from:
   - /startups/mon.espae.collectivite
 sponsors:
-  - /organisations/anct
   - /organisations/mctrct
+  - /organisations/anct
   - /organisations/mtes
 phases:
   - name: investigation
     start: 2023-10-09
   - name: construction
     start: 2023-11-01
+  - name: acceleration
+    start: 2024-02-01
 accessibility_status: non conforme
+thematiques:
+  - Collectivités
 ---
 ## Contexte
 
@@ -40,47 +42,30 @@ Mon Espace Collectivité est un service d’accompagnement sur mesure pour les p
 
 1. La collectivité initie son projet
 
-3. Un binôme Direction Départementale du Territoire (DDT) et Préfecture est averti des intentions de son territoire. Il les visualise, priorise et l'affecte aux bonnes personnes selon la thématique du projet
-5. Chaque projet fait l'objet d'une fiche qui regroupe toutes les informations et actions réalisées autour d'un état des lieux, conversations et fichiers rattachés. Chaque membre peut inviter à son tour d'autres acteurs pour suivre et débloquer le projet.
+2. Un binôme Direction Départementale du Territoire (DDT) et Préfecture est averti des intentions de son territoire. Il les visualise, priorise et l'affecte aux bonnes personnes selon la thématique du projet
+3. Chaque projet fait l'objet d'une fiche qui regroupe toutes les informations et actions réalisées autour d'un état des lieux, conversations et fichiers rattachés. Chaque membre peut inviter à son tour d'autres acteurs pour suivre et débloquer le projet.
 
-7. A chaque blocage, la collectivité reçoit des recommandations personnalisées d'ingénierie,  de financement ou de services experts de la thématique projet. Chaque blocage fait l'objet de recommandations pour arriver à la concrétisation du projet et son évaluation d'impact.
+4. A chaque blocage, la collectivité reçoit des recommandations personnalisées d'ingénierie,  de financement ou de services experts de la thématique projet. Chaque blocage fait l'objet de recommandations pour arriver à la concrétisation du projet et son évaluation d'impact.
 
 ## Stratégie
 
-- Démonstration et embarquement auprès des DDT
+- Se positionner en tant que point d'entrée des projets des collectivités territoriales
 
-- Inciter les DDT à embarquer leurs collectivités en suivant régulièrement leur déploiement
+- Equiper les plans et programmes ANCT pour avoir des prescripteurs unissant collectivités et l'Etat Local
 
-- Contribuer à apporter de la valeur à l’accompagnement en intégrant les outils / services tiers personnalisés à chaque type de projet
+- S'intégrer dans l'écosystème grâce à la promesse du "Dites-le nous une fois". Une information = 1 seule saisie en se synchronisant avec d'autres services clés (Démarches simplifiées, Grist, Aides Territoires,...)
 
-- Evaluer le réengagement
+- Retrouver les 853 CRTE à un seul endroit. Soit 40 000 projets à accompagner (ingénierie, financement et ambition écologique)
 
-- Constituer une base de connaissance via les DDT des projets des communes d’une DDT
+Objectifs 30 juin
 
-- Rendre visible la plateforme dans l’écosystème des collectivités :
+- Interconnexion avec Démarches Simplifiées : pré-remplissage d’une partie du formulaire de demande de subvention fond vert
+- Interconnexion GRIST : mise à disposition des données de chaque projet dans un tableau en ligne pour reporting et pilotage financier
+- Retour d’expérience des premiers cas d’usage (Village d’Avenir, Plan de transformation des zones commerciales) et des explorations (CRTE - PICT) 
 
-Objectifs à f﻿in 2023 :
+Objectifs 31 décembre :
 
-* 3 DDT invitent au moins 1 de leur collectivité sur MEC dans un projet
-* 10 collectivités portent leur projet sur MEC
-* 10 projets avec une interaction collectivité x DDT ou ANCT qui met en relation avec :
-* Un service d’ingénierie
-* Un service de financement
-* Un service expert de la thématique projet
+- Interconnexion démarches simplifiées V2 (DECIL/DETR/FNADT)
+- Déploiement d’autres cas d’usage (PICT, CRTE et d’autres programmes et plans ANCT)
 
-Objectifs au 1er semestre 2024 :
-
-* 20 DDT invitent au moins 1 de leur collectivité sur MEC dans un projet
-* 60 collectivités portent leur projet sur MEC
-* 60 projets avec une interaction collectivité x DDT ou ANCT qui met en relation avec :
-* Un service d’ingénierie
-* Un service de financement
-* Un service expert de la thématique projet
-
-
-Objectif au 2ème semestre 2024 :
-
-* 40 DDT invitent au moins 1 de leur collectivité sur MEC dans un projet
-* 200 collectivités portent leur projet sur MEC
-* 200 projets terminés / financés
-* Email de contact : monespacecollectivite@anct.gouv.fr
+Email de contact : monespacecollectivite@anct.gouv.fr

@@ -8,6 +8,8 @@ missions:
     end: 2020-02-28
     status: service
     employer: octo
+    startups:
+      - pass-culture
 startups:
-    - pass-culture
+  - pass-culture
 ---

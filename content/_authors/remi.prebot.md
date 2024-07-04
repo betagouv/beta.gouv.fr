@@ -5,14 +5,14 @@ domaine: Déploiement
 github: rprebot
 missions:
   - start: 2021-01-19
-    end: 2024-03-30
+    end: 2024-06-30
     status: independent
     employer: Octo
+    startups:
+      - rdv.insertion
 startups:
-  - data.insertion
+  - rdv.insertion
 badges:
   - segur
 ---
-
-Data product manager 
-6 ans d'expérience dans des environnements conseil et start-up sur des problématiques de développement de produits data 
+Data product manager 6 ans d'expérience dans des environnements conseil et start-up sur des problématiques de développement de produits data

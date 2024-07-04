@@ -7,10 +7,11 @@ missions:
     end: 2024-09-25
     status: independent
     employer: Omnicité
+    startups:
+      - homologation
 startups:
   - homologation
 badges:
   - segur
 ---
-
 Business Developer

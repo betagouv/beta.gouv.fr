@@ -8,6 +8,8 @@ missions:
     end: 2024-12-17
     status: independent
     employer: Numa
+    startups:
+      - chauffage-urbain
 startups:
   - chauffage-urbain
 previously:

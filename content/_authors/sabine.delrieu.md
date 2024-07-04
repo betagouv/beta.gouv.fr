@@ -9,5 +9,4 @@ missions:
     employer: DGALN
 memberType: beta
 ---
-
 Utilisateur Aigle

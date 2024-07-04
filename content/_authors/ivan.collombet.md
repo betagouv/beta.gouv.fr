@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: icc
 previously:
-  - place-des-entreprises
+  - conseillers-entreprises
   - signaux-faibles
   - eva
   - diagoriente
@@ -22,6 +22,4 @@ previously:
   - api-drones
   - demarches-simplifiees.fr
   - reuni
-
 ---
-

@@ -2,13 +2,13 @@
 title: Aides-territoires
 mission: Accédez aux meilleures aides pour financer et accompagner vos projets locaux
 sponsors:
-  - /organisations/mctrct
   - /organisations/mtes
-  - /organisations/dgaln
   - /organisations/dhup
+  - /organisations/dgaln
+  - /organisations/mctrct
 incubator: mtes
 link: https://aides-territoires.beta.gouv.fr/
-repository: https://github.com/MTES-MCT/aides-territoires
+repository: https://github.com/MTES-MCT/aides-territoires-symfony
 contact: aides-territoires@beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.mte.incubateur.net/url/aides-territoires-beta-gouv-fr/
@@ -22,7 +22,9 @@ phases:
     end: 2018-09-10
   - name: acceleration
     start: 2018-09-10
-stats_url: https://aides-territoires.beta.gouv.fr//stats
+stats_url: https://aides-territoires.beta.gouv.fr/stats/
+thematiques:
+  - Territoires
 ---
 ## Le problème
 
@@ -61,4 +63,4 @@ L’objectif est de consolider la base de données des aides européennes, natio
 
 Puis, en capitalisant sur les données des collectivités, cet outil permettra de les réutiliser (*Dites-le nous une fois*) pour faciliter le remplissage des dossiers. Le pré-remplissage est actuellement testé avec les démarches du Fonds Vert. 
 
-Enfin, déploiement des fonctionnalités collaboratives 
+Enfin, déploiement des fonctionnalités collaboratives

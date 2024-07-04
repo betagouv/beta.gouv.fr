@@ -7,9 +7,10 @@ missions:
     end: 2022-12-31
     status: admin
     employer: minint
+    startups:
+      - psij
 startups:
   - psij
-badges: null
 competences:
   - Administration Publique
 ---

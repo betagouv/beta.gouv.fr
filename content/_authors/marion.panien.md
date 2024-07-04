@@ -10,5 +10,4 @@ missions:
 previously:
   - plusfraichemaville
 ---
-
 Consultante en Environnement et Géosciences

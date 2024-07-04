@@ -7,8 +7,9 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Malt
+    startups:
+      - portail-rse
 startups:
-  - plateforme.impact
+  - portail-rse
 memberType: autre
 ---
-

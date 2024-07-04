@@ -1,12 +1,16 @@
 ---
 fullname: Noémie Taillis
 role: Data Analyst
-domaine: Autre
+domaine: Data
 missions:
   - start: 2022-02-21
     end: 2024-12-30
     status: service
-    employer: ''
+    startups:
+      - bpco
+      - monsuivipsy
+      - ozensemble
+      - reva
 startups:
   - ozensemble
   - bpco
@@ -15,4 +19,3 @@ startups:
 previously:
   - snu
 ---
-

@@ -9,4 +9,3 @@ missions:
     employer: Malt
 memberType: beta
 ---
-

@@ -1,5 +1,5 @@
 ---
-fullname: Hilarie AYAFOR
+fullname: Hilarie Ayafor
 role: Prestataire Malt
 domaine: Autre
 missions:
@@ -8,5 +8,4 @@ missions:
     status: service
     employer: Malt
 ---
-
 Administratrice des ventes du compte beta.gouv.fr

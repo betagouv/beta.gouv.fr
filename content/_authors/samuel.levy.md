@@ -1,6 +1,6 @@
 ---
 fullname: Samuel  Lévy
-role: Stagiaire 
+role: Stagiaire
 domaine: Intraprenariat
 missions:
   - start: 2021-07-01
@@ -8,4 +8,3 @@ missions:
     status: admin
     employer: CGDD
 ---
-

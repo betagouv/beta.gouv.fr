@@ -7,10 +7,8 @@ missions:
     end: 2023-07-31
     status: independent
     employer: Opteamis
-startups:
 previously:
   - reva
 memberType: beta
 ---
-
 Product designer

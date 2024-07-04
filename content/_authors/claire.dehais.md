@@ -7,9 +7,10 @@ missions:
     end: 2024-03-31
     status: service
     employer: Opteamis
+    startups:
+      - reva
 startups:
   - reva
 memberType: beta
 ---
-
 UX Writer

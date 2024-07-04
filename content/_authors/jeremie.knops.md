@@ -8,7 +8,8 @@ missions:
     end: 2023-06-30
     status: independent
     employer: Octo
+    startups:
+      - reva
 startups:
   - reva
 ---
-

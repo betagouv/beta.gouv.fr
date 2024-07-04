@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: pole-emploi
   - start: 2020-04-01
-    end: 2024-06-30
+    end: 2025-06-30
     status: independent
     employer: mission-apprentissage
 startups:
@@ -17,5 +17,4 @@ startups:
 previously:
   - memo
 ---
-
 Développeur full-stack, single page app monomaniac

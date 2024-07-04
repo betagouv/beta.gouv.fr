@@ -1,9 +1,8 @@
 ---
-mission: Accélérer les rendez-vous des usagers en insertion et diminuer le taux
-  d'absentéisme
+mission: Accélérer les rendez-vous des usagers en insertion et diminuer le taux d'absentéisme
 sponsors:
-  - /organisations/pole-emploi
   - /organisations/mtei
+  - /organisations/francetravail
 incubator: gip-inclusion
 link: https://www.rdv-insertion.fr/
 repository: https://github.com/betagouv/rdv-insertion
@@ -22,27 +21,30 @@ phases:
     start: 2021-06-02
   - name: acceleration
     start: 2022-01-03
+thematiques:
+  - Travail / Emploi
+  - Social
+accessibility_status: non conforme
 ---
 ## Le problème
 
-Les parcours d’insertion sont longs et peu suivis : 
+Les parcours d’insertion sont longs et peu suivis :
 
 - Fort taux d’absentéisme aux rendez-vous contractuels du parcours (ex : les rendez-vous RSA pilotés par les CD)
-- Délais trop longs (ex : délai moyen d’orientation des BRSA de 95 jours en 2019) 
+- Délais trop longs (ex : délai moyen d’orientation des BRSA de 95 jours en 2019)
 - Risque de rupture de parcours post-signature CER élevé
 
-## Notre service 
+## Notre service
 
 Remplacer la convocation par courrier aux rendez-vous d’insertion par une invitation (mail et SMS) à prendre rendez-vous. L’usager peut alors choisir le créneau qui lui convient le mieux.
 
 Permettre aux agents de gérer une liste d’invitations, sur plusieurs motifs de RDV (ex : orientation, accompagnement, action spécifique d’insertion, suivi en IAE) et pour plusieurs types d’organisations (ex : CD, MDS, PLIE, Mission locale, associations, SIAE)
-. 
+.
 
 ## Nos usagers
 
 - Les personnes en insertion (ex. BRSA, salariés en IAE, etc.)
 - Les agents en charge de l’organisation des rendez-vous d’insertion (dans les CD et structures partenaires)
-
 
 ## Notre impact
 
@@ -54,4 +56,4 @@ data.insertion aura réussi sa mission si :
 
 Retrouvez notre page statistiques [ici](https://www.rdv-insertion.fr/stats).
 
-Notre **[carte de suivi](https://betagouv.github.io/stats-data-insertion/)** permet de suivre l'avancée de **nos travaux** dans chaque département, et de connaître le degré de maturité du conseil départemental dans l’intégration et l’exploitation des flux de données existants. 
+Notre **[carte de suivi](https://betagouv.github.io/stats-data-insertion/)** permet de suivre l'avancée de **nos travaux** dans chaque département, et de connaître le degré de maturité du conseil départemental dans l’intégration et l’exploitation des flux de données existants.

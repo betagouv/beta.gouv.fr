@@ -6,9 +6,11 @@ github: shamzic
 link: https://www.linkedin.com/in/shamery/
 missions:
   - start: 2022-09-05
-    end: 2024-04-01
+    end: 2024-09-30
     status: independent
-    employer: Octo
+    employer: Malt
+    startups:
+      - aides.jeunes
 startups:
   - aides.jeunes
 badges:

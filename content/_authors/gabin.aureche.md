@@ -9,7 +9,8 @@ missions:
     end: 2022-03-31
     status: independent
     employer: Fabrique Numérique du Ministère de l'Ecologie
-startups: 
-    - trackdechets
-
+    startups:
+      - trackdechets
+startups:
+  - trackdechets
 ---

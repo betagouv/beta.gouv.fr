@@ -9,9 +9,10 @@ missions:
     end: 2023-08-23
     status: independent
     employer: Malt
+    startups:
+      - pass.engagement.jeune
 startups:
   - pass.engagement.jeune
 memberType: beta
 ---
-
 Développeur créatif et UXUI touche-a-tout

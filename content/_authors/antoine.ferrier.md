@@ -8,9 +8,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - envergo
 startups:
   - envergo
 memberType: beta
 ---
-
 Transforme la data en accélérateur de développement

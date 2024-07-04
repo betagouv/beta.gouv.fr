@@ -9,8 +9,9 @@ missions:
     end: 2022-12-31
     status: independent
     employer: OCTO
+    startups:
+      - jeveuxaider
 startups:
-    - jeveuxaider
+  - jeveuxaider
 ---
-
 Plume de la Reserve Civique !

@@ -1,18 +1,20 @@
 ---
 title: Tableau de bord Apprentissage
-mission: "Permettre l’accès aux données clés de l’apprentissage en temps réel"
+mission: Permettre l’accès aux données clés de l’apprentissage en temps réel
 sponsors:
-  - /organisations/menjs
-  - /organisations/mtei
   - /organisations/mesr
   - /organisations/mtfp
+  - /organisations/mtei
+  - /organisations/menjs
 incubator: mission-apprentissage
 link: https://cfas.apprentissage.beta.gouv.fr
-repository:
 contact: tableau-de-bord@apprentissage.beta.gouv.fr
 stats_url: https://cfas.apprentissage.beta.gouv.fr/stats
 stats: true
-events: []
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 30000€ pour la promotion 14
 phases:
   - name: investigation
     start: 2020-07-01
@@ -22,9 +24,14 @@ phases:
 usertypes:
   - etat
   - etablissement-scolaire
+fast:
+  promotion: 14
+  montant: 30000
 dashlord_url: https://dashlord.incubateur.net/url/cfas-apprentissage-beta-gouv-fr/
+thematiques:
+  - Jeunesse
+  - Education
 ---
-
 ## Constat
 
 Au total, en 2020, environ 250 000 candidats ont souhaité une mise en relation avec un CFA par l’un des deux portails Affelnet ou Parcoursup. Or, une fois le vœu exprimé et transmis au centre de formation, aucun suivi global n'est assuré : aucun système ne permet de savoir combien de vœux se sont traduits en entrée en apprentissage, dans la spécialité et le centre visés ou dans une autre formation avec le même statut.

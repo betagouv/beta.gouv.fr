@@ -7,8 +7,9 @@ missions:
     end: 2024-07-31
     status: independent
     employer: Octo
+    startups:
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 ---
-
 Chargé déploiement, suivi qualité, compétences marketing & gestion

@@ -8,10 +8,11 @@ missions:
     end: 2023-06-01
     status: independent
     employer: DINUM
+    startups:
+      - metiers-numeriques
 startups:
   - metiers-numeriques
 badges:
   - segur
-
 ---
 Développeur le jour, musicien la nuit

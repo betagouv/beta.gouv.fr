@@ -9,6 +9,8 @@ missions:
     end: 2024-02-01
     status: independent
     employer: Octo
+    startups:
+      - aides-territoires
 startups:
   - aides-territoires
 competences:
@@ -20,4 +22,3 @@ competences:
   - Croissance
   - Coaching
 ---
-''

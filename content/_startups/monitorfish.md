@@ -1,6 +1,5 @@
 ---
-mission: Protéger la ressource halieutique et l’environnement marin en outillant
-  les acteurs du contrôle en mer
+mission: Protéger la ressource halieutique et l’environnement marin en outillant les acteurs du contrôle en mer
 incubator: mtes
 repository: https://github.com/MTES-MCT/monitorfish
 contact: monitor@beta.gouv.fr
@@ -17,6 +16,9 @@ phases:
     end: 2021-11-01
   - name: construction
     start: 2021-11-01
+thematiques:
+  - Écologie
+  - Mer
 ---
 ## Le contexte
 

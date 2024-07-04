@@ -8,6 +8,8 @@ missions:
     end: 2020-12-31
     status: admin
     employer: Ministère de la Santé
+    startups:
+      - recosante
 startups:
-    - recosante
+  - recosante
 ---

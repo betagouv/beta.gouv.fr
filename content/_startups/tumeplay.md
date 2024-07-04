@@ -16,11 +16,17 @@ phases:
     start: 2019-09-01
   - name: acceleration
     start: 2021-01-01
+  - name: alumni
+    start: 2024-02-29
 usertypes:
   - particulier
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/tumeplay-fabrique-social-gouv-fr/
 accessibility_status: non conforme
+thematiques:
+  - Santé
+  - Jeunesse
 ---
+# La startup est arrêtée :(
 
 # Nos constats
 

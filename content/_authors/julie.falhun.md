@@ -1,6 +1,6 @@
 ---
 fullname: Julie Falhun
-role: Chargée de communication 
+role: Chargée de communication
 domaine: Déploiement
 github: Mydjuly
 missions:
@@ -8,8 +8,9 @@ missions:
     end: 2022-12-31
     status: independent
     employer: Octo
+    startups:
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 ---
-
 Experte en marketing et communication digitale, fan de dinos 🦖

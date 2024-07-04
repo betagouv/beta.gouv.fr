@@ -9,6 +9,8 @@ missions:
     end: 2022-08-24
     status: independent
     employer: benext
+    startups:
+      - carbure
 startups:
   - carbure
 ---

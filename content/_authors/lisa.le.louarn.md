@@ -9,5 +9,4 @@ missions:
     employer: Numa
 memberType: attributaire
 ---
-
 Formation Numa

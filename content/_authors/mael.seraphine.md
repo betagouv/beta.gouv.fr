@@ -10,5 +10,4 @@ missions:
     employer: Plateforme de l'inclusion
 memberType: beta
 ---
-
-"Le seul qui peut me battre , c'est moi-même"
+Le seul qui peut me battre , c'est moi-même

@@ -1,6 +1,6 @@
 ---
 fullname: Elsa Le Duigou
-role: Reponsable portefeuille Santé, Solidarité, Cybersécurité & IA
+role: Reponsable portefeuille Santé, Solidarités, Cybersécurité et IA
 domaine: Animation
 github: pouredfromamold
 missions:
@@ -11,15 +11,24 @@ missions:
   - start: 2022-01-01
     end: 2022-12-26
     status: independent
+    startups:
+      - collectif_objets
   - start: 2022-12-27
     end: 2025-12-26
     status: admin
     employer: dinum
+    startups:
+      - api.prevention
+      - france.consulaire
+      - infomedicament
+      - medistock
+      - teleconsultation-ald
+      - tous.a.bord
 previously:
   - collectif_objets
 badges:
   - segur
 teams:
   - /teams/animation-dinum
+link: https://www.linkedin.com/in/elsa-le-duigou-869bb311b/
 ---
-

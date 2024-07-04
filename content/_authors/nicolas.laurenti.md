@@ -7,10 +7,11 @@ missions:
     end: 2024-12-31
     status: independent
     employer: La Zone
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
 competences:
   - Administration Système
-
 ---
 Un sysadmin qui lit aussi du code, plus ou moins haut niveau.

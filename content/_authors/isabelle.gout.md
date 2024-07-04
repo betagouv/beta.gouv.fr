@@ -1,7 +1,6 @@
 ---
-
-fullname: Isabelle Goût 
-role: Gestionnaire compta et RH 
+fullname: Isabelle Goût
+role: Gestionnaire compta et RH
 domaine: Autre
 teams:
   - /teams/gip-inclusion
@@ -12,4 +11,3 @@ missions:
     employer: GIP PLATEFORME DE L INCLUISION
 memberType: beta
 ---
-

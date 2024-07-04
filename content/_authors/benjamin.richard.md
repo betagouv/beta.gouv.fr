@@ -7,9 +7,11 @@ missions:
     end: 2025-01-18
     status: admin
     employer: DJEPVA
+    startups:
+      - api-engagement
+      - jeveuxaider
 startups:
   - jeveuxaider
   - api-engagement
 memberType: beta
 ---
-

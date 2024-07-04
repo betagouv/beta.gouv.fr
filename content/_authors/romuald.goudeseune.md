@@ -7,11 +7,12 @@ missions:
     end: 2023-12-07
     status: admin
     employer: Ministère de la Culture
+    startups:
+      - collectif_objets
 incubator: culture
 startups:
   - collectif_objets
 competences:
   - Administration Publique
-
 ---
 Conservateur des monuments historiques en recherche d'efficacité.

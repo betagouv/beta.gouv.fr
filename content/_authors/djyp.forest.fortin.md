@@ -8,6 +8,8 @@ missions:
     end: 2023-12-31
     status: independent
     employer: LittleBig Connection
+    startups:
+      - espace.sur.demande
 competences:
   - Développement Backend
   - Développement Frontend

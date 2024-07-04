@@ -7,6 +7,8 @@ missions:
   - start: 2021-07-09
     end: 2022-05-15
     status: admin
+    startups:
+      - attractivite.des.territoires
 startups:
   - attractivite.des.territoires
 competences:

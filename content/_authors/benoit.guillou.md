@@ -8,10 +8,9 @@ missions:
     status: independent
     employer: octo
 previously:
-    - avril
-    - clara
-    - rdv-service-public
-    - maintenant
+  - avril
+  - clara
+  - rdv-service-public
+  - maintenant
 ---
-
 Je sais, un peu partout, tout le monde s'entretue, c'est pas gai, mais d'autres s'entrevivent, j'irai les retrouver

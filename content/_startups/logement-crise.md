@@ -1,24 +1,24 @@
 ---
-title: Logement de crise # une majuscule et pas d'acronymes
+title: Logement de crise
 mission: Faciliter le travail d’attribution du “bon” logement aux déplacés d’Ukraine
-sponsors: 
- - /organisations/dihal
-incubator: dinum 
+sponsors:
+  - /organisations/dihal
+incubator: dinum
 phases:
   - name: alumni
-stats: false 
+    start: 2022-06-09
+stats: false
 contact: brigade@beta.gouv.fr
 ---
-
 ## Le contexte
 
-La guerre en Ukraine, déclenchée en février 2022, a généré un afflux conséquent et soudain vers la France de personnes fuyant le conflit. Leur accueil a dû être organisé dans l’urgence : services préfectoraux et associations se sont mobilisés pour organiser l’accueil de cette population. 
+La guerre en Ukraine, déclenchée en février 2022, a généré un afflux conséquent et soudain vers la France de personnes fuyant le conflit. Leur accueil a dû être organisé dans l’urgence : services préfectoraux et associations se sont mobilisés pour organiser l’accueil de cette population.
 
-Parmi les thématiques les plus urgentes à l’arrivée des déplacés, leur fournir un toit constitue un défi de taille. 
+Parmi les thématiques les plus urgentes à l’arrivée des déplacés, leur fournir un toit constitue un défi de taille.
 
 Premièrement parce que le défi est double : d’abord l’hébergement (temporaire) puis le logement (plus pérenne).
 
-Deuxièmement, l’offre disponible est dispersée : 
+Deuxièmement, l’offre disponible est dispersée :
 
 - pour l’hébergement, il existe des solutions dans des structures professionnelles (comme les centres d’hébergement d’urgence) ou chez des particuliers ou personnes morales volontaires pour accueillir des Ukrainiens (hôtels, locaux d’entreprise, centres de vacances) ;
 - pour le logement, il existe une diversité de solutions différentes (foyers, logements sociaux etc.) sur lesquelles la tension préexiste à la crise actuelle.
@@ -39,7 +39,7 @@ Schématiquement et pour exemple : la DDETS récolte auprès des opérateurs les
 
 L’absence d’outil partagé entre ces acteurs affecte à la fois le délai pour trouver le “bon” logement à chaque déplacé, ainsi que le pilotage de la crise.
 
-La problématique se situe donc aussi bien sur la phase d’hébergement d’urgence, que de logement ou relogement des personnes (lorsque la solution d’hébergement expire). 
+La problématique se situe donc aussi bien sur la phase d’hébergement d’urgence, que de logement ou relogement des personnes (lorsque la solution d’hébergement expire).
 
 ## Les enseignements de l’investigation
 
@@ -49,9 +49,8 @@ La problématique se situe donc aussi bien sur la phase d’hébergement d’urg
 
 ## La conclusion de l’investigation
 
-La Brigade a proposé de repartir de l’initiative du SGAR44 pour fiabiliser le prototype et étoffer ses fonctionnalités au regard des besoins des acteurs impliqués, dont les associations. 
+La Brigade a proposé de repartir de l’initiative du SGAR44 pour fiabiliser le prototype et étoffer ses fonctionnalités au regard des besoins des acteurs impliqués, dont les associations.
 
 ## Interruption du partenariat
 
 Les travaux se sont interrompus à l’issue de l’investigation : la DIHAL, sponsor administratif et politique, a indiqué qu’à ce stade, la temporalité du projet n’était plus pertinente ; le pic de la crise est passé et le temps nécessaire pour développer un premier produit minimum viable ne permettrait pas d’avoir un impact pertinent au regard de cette évolution.
-

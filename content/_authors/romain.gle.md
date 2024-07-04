@@ -12,5 +12,4 @@ missions:
 badges:
   - segur
 ---
-
 Service, product, UX, systems, sprint, thinking,... Je m'intéresse à tous ce qu'on peut mettre à côté du mot design

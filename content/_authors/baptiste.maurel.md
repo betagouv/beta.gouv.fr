@@ -8,9 +8,10 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Malt
+    startups:
+      - aides.jeunes
 startups:
   - aides.jeunes
 memberType: beta
 ---
-
 Software Developer

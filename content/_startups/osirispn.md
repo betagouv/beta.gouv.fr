@@ -6,16 +6,16 @@ sponsors:
 incubator: fabnumdef
 contact: mathieu.mahr@beta.gouv.fr
 phases:
-  - comment: ""
-    name: investigation
+  - name: investigation
     start: 2021-03-20
     end: 2021-06-01
   - name: construction
     start: 2021-06-01
 usertypes:
   - etat
+thematiques:
+  - Formation
 ---
-
 ## Contexte
 
 L'EISPN (Escadron d'instruction au sol du personnel navigant) situé sur la base aérienne de Tours gère les besoins en recrutement et en formation des pilotes de l'armée de l'armée de l'air. 
@@ -52,5 +52,3 @@ Chaque centre, avec son propre fichier excel de suivi remonte aux acteurs le pr�
 
 ## Résultat
 Un outil permettant de visualiser dans le temps, les avancées et retards des différentes promotions
-
-

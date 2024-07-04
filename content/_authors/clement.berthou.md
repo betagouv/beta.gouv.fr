@@ -8,6 +8,8 @@ missions:
     end: 2022-10-25
     status: service
     employer: benext
+    startups:
+      - fiche.commune.entreprise.fce
 startups:
   - fiche.commune.entreprise.fce
 competences:

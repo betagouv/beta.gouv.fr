@@ -15,5 +15,4 @@ missions:
 startups:
   - dora
 ---
-
 UX / Product Designer

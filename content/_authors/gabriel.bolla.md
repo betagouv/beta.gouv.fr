@@ -8,7 +8,6 @@ missions:
     status: independent
     employer: DINUM
 startups: []
-badges: null
 competences:
   - UI
 ---

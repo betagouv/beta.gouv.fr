@@ -1,8 +1,8 @@
 ---
 title: Classe à 12
 mission: Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.
-sponsors: 
-    - /organisations/dgesco
+sponsors:
+  - /organisations/dgesco
 incubator: dinum
 phases:
   - name: investigation
@@ -11,6 +11,8 @@ phases:
     start: 2018-06-01
   - name: acceleration
     start: 2018-06-01
+  - name: alumni
+    start: 2024-02-09
 link: https://classe-a-12.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12
 stats: false
@@ -21,6 +23,9 @@ usertypes:
   - etablissement-scolaire
 dashlord_url: https://dashlord.incubateur.net/url/classe-a-12-beta-gouv-fr/
 accessibility_status: non conforme
+thematiques:
+  - Jeunesse
+  - Education
 ---
 # Le problème :
 En sept 2017, Le dispositif classe à 12 initié par le Ministère de l'éducation nationale a permis à plus de 2500 enseignants de se lancer dans l'expérimentation d'une classe à effectif réduit afin de favoriser la réussite des élèves en  éducation prioritaire.
@@ -55,3 +60,6 @@ Pour valider nos hypothèses et savoir ce qui fluidifiera le partage de partique
 - la volonté à se filmer soi-même pour partager des pratiques.
 
  Nous nous baserons ensuite sur les réseaux d'éducation prioritaire (REP) et plus exactement les coordonateurs REP pour toucher de plus en plus d'enseignants.
+
+## Arrêt du produit
+Le produit a d'abord été placé en maintenance au sein du ministère, puis son usage a chuté jusqu'à devenir nul. Le service a été totalement coupé le 9 février 2024. 

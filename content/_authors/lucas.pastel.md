@@ -1,12 +1,14 @@
 ---
 fullname: Lucas PASTEL
 role: Chargé de déploiement
-domaine: Autre
+domaine: Déploiement
 missions:
   - start: 2022-05-20
     end: 2024-12-31
     status: independent
     employer: Octo
+    startups:
+      - dora
 startups:
   - dora
 previously:

@@ -8,7 +8,8 @@ missions:
     end: 2023-11-30
     status: admin
     employer: IGN
+    startups:
+      - ban
 startups:
   - ban
 ---
-

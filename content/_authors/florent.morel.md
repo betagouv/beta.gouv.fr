@@ -9,5 +9,3 @@ missions:
     status: service
     employer: Klee Group
 ---
-
-

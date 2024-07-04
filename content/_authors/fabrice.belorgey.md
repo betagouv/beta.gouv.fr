@@ -7,6 +7,8 @@ missions:
     end: 2019-09-01
     status: admin
     employer: minarm
+    startups:
+      - e-chauffeur
 startups:
   - e-chauffeur
 ---

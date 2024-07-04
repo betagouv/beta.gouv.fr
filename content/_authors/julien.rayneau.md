@@ -7,9 +7,12 @@ missions:
   - start: 2018-04-10
     end: 2024-12-31
     status: independent
-    employer: ''
+    startups:
+      - conseillers-entreprises
+      - signaux-faibles
+      - transition-ecologique-des-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
   - signaux-faibles
   - transition-ecologique-des-entreprises
 previously:

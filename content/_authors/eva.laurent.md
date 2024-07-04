@@ -5,12 +5,13 @@ domaine: Déploiement
 github: Evajuliab
 missions:
   - start: 2023-06-21
-    end: 2024-05-30
+    end: 2024-12-31
     status: independent
-    employer: ''
+    employer: Malt
+    startups:
+      - rdv.insertion
 startups:
-  - data.insertion
+  - rdv.insertion
 memberType: beta
 ---
-
-Freelance, j'ai lancé ma marque de culottes menstruelles et je cours à mes heures perdues
+Freelance

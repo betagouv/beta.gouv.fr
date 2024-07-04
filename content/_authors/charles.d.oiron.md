@@ -9,8 +9,9 @@ missions:
     end: 2024-05-24
     status: independent
     employer: fabrique
+    startups:
+      - recosante
 startups:
   - recosante
 memberType: beta
 ---
-

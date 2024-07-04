@@ -1,6 +1,6 @@
 ---
 title: Euphrosyne
-mission: "Ouvrir les données d'AGLAE, accélérateur à particules européen"
+mission: Ouvrir les données d'AGLAE, accélérateur à particules européen
 sponsors:
   - /organisations/mc
 incubator: culture
@@ -16,14 +16,11 @@ phases:
 link: https://euphrosyne.beta.gouv.fr/
 repository: https://github.com/betagouv/euphrosyne/
 stats: false
-stats_url:
 contact: claire.pacheco@culture.gouv.fr
 usertypes:
   - particulier
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#-Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
 ---
-
-
 ## Contexte
 Portant le nom de l’une des trois grâces, l’accélérateur AGLAE (Accélérateur Grand Louvre d’Analyses Elémentaires) est depuis 1989 le seul accélérateur de particules en Europe entièrement dédié à l’étude du patrimoine. Automatisé, AGLAE est devenu New AGLAE en 2017 dans le cadre du programme investissement d'avenir de l'ANR (ANR-10-EQPX-22). Son nouveau multi-détecteur capable de réaliser de l'imagerie chimique systématique permet d’étudier la composition chimique des oeuvres de musée sans les endommager, et de comprendre leur histoire, leur provenance, les technologies qui ont permis leur création. Les données produites par New AGLAE représentent un trésor encore inaccessible à la communauté européenne des scientifiques, restaurateurs, conservateurs et autres historiens de l’art.
 

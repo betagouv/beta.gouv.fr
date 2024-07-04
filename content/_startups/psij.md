@@ -4,8 +4,6 @@ mission: Systématiser la recherche d'indices et traces
 sponsors:
   - /organisations/interieur
 incubator: lab-mi
-link: ''
-repository: null
 contact: psij@labmi.fr
 stats: false
 phases:
@@ -18,9 +16,7 @@ phases:
     start: 2023-01-25
 usertypes:
   - etat
-
 ---
-
 ## Trop de vols sans recherche de traces
 
 18% des vols par effraction et de véhicules ne font pas l’objet d’analyse de traces et indices par la Police Scientifique (source DCSP). 

@@ -1,24 +1,22 @@
 ---
 title: Cassiopée
-mission: Optimiser les parcours de formations des officiers souhaitant revenir à
-  la vie civile
-sponsors: 
- - /organisations/armees
+mission: Optimiser les parcours de formations des officiers souhaitant revenir à la vie civile
+sponsors:
+  - /organisations/armees
 incubator: fabnumdef
 contact: mathieu.mahr@beta.gouv.fr
-events: []
 phases:
   - name: investigation
+    comment: Définition des acteurs et exploration des besoins utilisateurs. Réalisation de prototypes, tests utilisateurs, définition de la vision du projet et approfondissement des besoins du futur système.
     start: 2021-03-01
     end: 2021-05-21
-    comment: Définition des acteurs et exploration des besoins utilisateurs. Réalisation de prototypes, tests utilisateurs, définition de la vision
-      du projet et approfondissement des besoins du futur système.
   - name: construction
+    comment: Début des développements et livraison d'une première version expérimentale le 6 juillet 2021. Récupérations des retours utilisateurs.
     start: 2021-05-23
-    comment: Début des développements et livraison d'une première version
-      expérimentale le 6 juillet 2021. Récupérations des retours utilisateurs.
 usertypes:
   - etat
+thematiques:
+  - Formation
 ---
 ## Contexte
 

@@ -1,5 +1,5 @@
 ---
-fullname: Virginie RENOUX
+fullname: Virginie Renoux
 role: Experte métier
 domaine: Autre
 missions:
@@ -7,7 +7,8 @@ missions:
     end: 2021-12-31
     status: admin
     employer: Mission Locale du Chinonais
+    startups:
+      - l-application-du-cej
 startups:
-  - pass-emploi
+  - l-application-du-cej
 ---
-

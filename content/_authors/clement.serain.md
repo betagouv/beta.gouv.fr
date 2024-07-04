@@ -9,5 +9,4 @@ missions:
     employer: Pôle emploi
 memberType: autre
 ---
-
 UX designer, mais aussi designer UX

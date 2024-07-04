@@ -7,8 +7,9 @@ missions:
     end: 2023-10-31
     status: admin
     employer: Ministère de la justice
+    startups:
+      - infoparquet
 startups:
   - infoparquet
 ---
-
 Magistrat, TJ Amiens

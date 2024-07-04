@@ -12,76 +12,72 @@ usertypes:
   - entreprise
 stats_url: https://envergo.beta.gouv.fr/stats
 stats: true
-events: []
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 200000€ pour la promotion 13
 phases:
   - name: investigation
     start: 2021-04-08
     end: 2021-07-12
   - name: construction
     start: 2021-07-13
-  - start: 2023-09-04
-    name: acceleration
+  - name: acceleration
+    start: 2023-09-04
 fast:
   promotion: 13
   montant: 200000
+accessibility_status: non conforme
+thematiques:
+  - Écologie
+dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/envergo-beta-gouv-fr/
 ---
 ![](/img/netlifycms/envergo.jpg)
 
-## Le problème à résoudre
+## EnvErgo améliore la prise en compte de l'environnement dans les projets d’aménagement.
 
-La Loi sur l’eau est une réglementation qui s’applique aux projets d’aménagement qui pourraient affecter les milieux aquatiques : cours d’eau, bassins, zones humides...
-L’investigation a démontré que cette réglementation était méconnue, à la fois des porteurs de projet (particuliers, entreprises privées, collectivités) et de leurs maîtres d’œuvre (architectes), et des instructeurs urbanisme chargés d’examiner les permis de construire.
-Deux raisons à cela :
+La réglementation environnementale (Loi sur l’eau, Natura 2000, Évaluation environnementale…) qui s’applique aux porteurs de projet est complexe, méconnue et mal appliquée.
 
-* La complexité technique de la réglementation, entravant sa lisibilité par les acteurs.
-* La complexité administrative : la procédure Loi sur l’eau est distincte de la procédure d’obtention du permis de construire. La première est instruite par les services départementaux sous l'autorité du préfet (DDTM) quand la seconde est de la responsabilité des collectivités territoriales. Or la plupart des architectes et porteurs de projets considèrent que le point d’entrée unique est la commune, et l’obtention du permis de construire le seul objectif.
+Nous avons prouvé que dans l’état actuel des pratiques, 20 à 25% des projets d’aménagement qui sont réglementairement concernés par la Loi sur l’eau manquent à leur obligation de passer par une instruction spécifique. Cela représente **5% de l’artificialisation sur le sol national, soit 1 000 ha / an**, dont une grande partie sont des sites fragiles.
 
-Il est ainsi apparu :
+Les conséquences sont d’abord **environnementales** : aggravation du risque d'inondation, destruction de zones humides, atteintes à la biodiversité. 
 
-* qu’un nombre significatif de projets d’aménagement semble échapper à un examen Loi sur l’eau. 
-  Si cela se confirme, cela entraîne directement une dégradation de la qualité des milieux aquatiques, du régime d’écoulement des eaux, et une augmentation des risques hydrauliques.
-* que de nombreux porteurs de projets découvrent trop tard dans la vie du projet les obligations auxquels ils sont tenus au titre de la Loi sur l’eau. 
-  Cela entraîne délais et surcoûts, voire l’arrêt du projet en cas de défaut de conception
+Elles sont ensuite **économiques** : les porteurs de projets découvrant leurs obligations réglementaires trop tard dans la vie du projet subissent des retards et surcoûts, voire l’arrêt du projet. 
 
-EnvErgo poursuit donc deux objectifs :
+À l’échelle nationale, nous avons évalué que ce **coût pour les aménageurs atteint 10 à 20 millions d’euros par an**, soit 10% de la marge brute du secteur.
 
-* **Rendre environnementalement plus vertueux** un nombre significatif de projets d'aménagement, grâce au déclenchement d'une étude et d'une instruction Loi sur l'eau.
-* **Réduire les erreurs de planification** par les pétitionnaires dans l'articulation des études amont & instructions permis de construire et Loi sur l’eau.
 
-## Le concept
+## La solution : un service en ligne de simulation réglementaire d’un projet d’aménagement
 
-EnvErgo se veut un service numérique en ligne accessible à tous, visant les porteurs de projet, les architectes, mais aussi les instructeurs urbanisme des collectivités.
+Le service EnvErgo intervient aux différentes étapes de la vie d’un projet :
 
-A terme, le service propose deux apports aux utilisateurs :
+* En amont, **le simulateur** – utilisé par l'ensemble des acteurs de la vie du projet : porteurs de projet, architectes, géomètres, mairies.
 
-**1/ Fournir une estimation personnalisée de la probabilité d’être soumis à la Loi sur l’eau** 
+Il fournit la liste des réglementations auxquelles un projet donné est soumis, étayée par des cartographies, et précisant la marche à suivre et les contacts de l’administration (exemple de projet : [une extension de 1250 m² sur les rives de la Loire](https://envergo.beta.gouv.fr/simulateur/resultat/?created_surface=1250&existing_surface=1000&lng=-1.83425&lat=47.20490&is_lotissement=non))
 
-* à partir des informations afférentes au projet : localisation, surfaces de l’entité foncière et de l’emprise bâtie / d’imperméabilisation
-* pour aller plus loin qu’un simple rappel des rubriques IOTA et des seuils
-* et sans remplacer l’évaluation humaine d’un expert (bureau d’étude, puis instruction)
+* En aval, **l'avis réglementaire** – utilisé par les services d’instruction urbanisme à la réception du dossier de permis de construire ou d’aménager.
 
-**2/ Guider le pétitionnaire sur la marche à suivre** si le projet est susceptible d’être soumis à LSE
+EnvErgo évalue le projet, envoie un rappel réglementaire au porteur d’un projet concerné, puis le contacte et l’accompagne dans sa compréhension de ses obligations.
 
-* Délais d’instruction et impacts sur sa procédure d’autorisation d’urbanisme
-* Se rapprocher de l’unité Police de l’eau à la DDTM
-* Se tourner vers un bureau d’études
+Ces deux outils contribuent à notre ambition : **rendre compréhensible et actionnable la réglementation environnementale aux non-experts**.
 
-## Stratégie de validation
+→ Pour se rendre sur le site EnvErgo, accessible à tous sans créer de compte : [https://envergo.beta.gouv.fr](https://envergo.beta.gouv.fr)
 
-Le succès du concept repose à ce stade sur plusieurs hypothèses qui sont à valider :
+## L’activité et l’impact d’EnvErgo sont évalués en continu
 
-**1. Hypothèses liées aux pratiques des acteurs de l’urbanisme**
+Début 2024, EnvErgo est disponible dans [16 départements](https://envergo.beta.gouv.fr/foire-aux-questions/departments-disponibles/) et va s’étendre progressivement à l’ensemble du territoire, outre-mer compris.
 
-* les projets soumis à LSE mais ne le sachant pas sont en nombre significatif
-* la compréhension de la réglementation et de la procédure par le pétitionnaire va déclencher une étude / un dépôt de dossier
-* l’étude / le dépôt de dossier va effectivement réduire l’impact environnemental
-  du projet
+À cette date, le simulateur EnvErgo est utilisé : 
+- par plus de 450 utilisateurs uniques par mois
+- pour 1 000 simulations mensuelles,
+- soit 700 ha de projets simulés.
 
-**2. Hypothèses liées à la pertinence de notre produit**
+L’activité des avis réglementaires, en rythme annuel :
+atteint :
+- 1700 demandes d’avis réglementaires / an
+- et 160 projets / an remis en conformité
+- soit 135 ha / an d’artificialisation, dont 15 ha d’écosystèmes fragiles entièrement préservés.
 
-* l’utilisateur comprend / voit l’intérêt du service et comprend la procédure et la marche à suivre
+Un projet remis en conformité assez tôt dans son histoire évite de s’exposer à un risque de contentieux ou à des contrôles administratifs. La moyenne que nous avons observée des surcoûts et retards à la clef est de 7 000 € par projet, avec des cas atteignant 100 000 €.
 
-Afin de valider celles-ci, une version minimum viable d’EnvErgo est déployée depuis juillet 2021. Elle est utilisée dans le cadre d’expérimentations avec plusieurs collectivités :
-
-* en examinant les projets de permis de construire déjà déposés qui semblent potentiellement concernés par la Loi sur l’eau.
-* en contactant les porteurs de projet, les informant via EnvErgo, le cas échéant, en quoi leur projet peut être soumis à la Loi sur l’eau, et quelle procédure suivre pour être en règle.
+L’activité actuelle d’EnvErgo correspond ainsi à un cumul de plus d’1m€ / an de surcoûts évités pour les aménageurs.

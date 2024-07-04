@@ -8,9 +8,10 @@ missions:
     end: 2023-06-29
     status: independent
     employer: OCTO
+    startups:
+      - dora
 startups:
   - dora
 competences:
   - Administration Publique
-
 ---

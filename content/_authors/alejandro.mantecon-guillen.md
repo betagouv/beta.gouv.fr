@@ -5,9 +5,11 @@ domaine: Développement
 github: alemangui
 missions:
   - start: 2019-05-13
-    end: 2024-06-29
+    end: 2024-12-31
     status: independent
-    employer: ""
+    startups:
+      - icare-complements-alimentaires
+      - ma-cantine-egalim
 startups:
   - ma-cantine-egalim
   - icare-complements-alimentaires

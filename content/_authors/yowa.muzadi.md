@@ -1,6 +1,6 @@
 ---
 fullname: Yowa Muzadi
-role: Responsable de portefeuille Travail et Insertion
+role: Responsable de portefeuille travail, emploi, formation professionnelle
 github: yowamuzadi
 domaine: Animation
 missions:
@@ -10,5 +10,5 @@ missions:
 memberType: beta
 teams:
   - /teams/animation-dinum
+link: https://www.linkedin.com/in/yowamuzadi/
 ---
-

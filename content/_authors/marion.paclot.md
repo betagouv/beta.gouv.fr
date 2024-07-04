@@ -1,7 +1,7 @@
 ---
 fullname: Marion Paclot
 role: Data Scientist
-domaine: Développement
+domaine: Data
 link: https://github.com/marion-paclot
 github: marion-paclot
 missions:
@@ -9,6 +9,8 @@ missions:
     end: 2022-06-01
     status: independent
     employer: Octo
+    startups:
+      - carbure
 startups:
   - carbure
 ---

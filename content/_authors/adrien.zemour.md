@@ -23,5 +23,4 @@ previously:
 teams:
   - /teams/animation-dinum
 ---
-
 On m'a vu dans le Vercors

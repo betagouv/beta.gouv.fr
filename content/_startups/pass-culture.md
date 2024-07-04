@@ -1,5 +1,5 @@
 ---
-title : Pass Culture
+title: Pass Culture
 mission: Faciliter l'accès des jeunes à la culture
 sponsors:
   - /organisations/mc
@@ -26,7 +26,6 @@ contact: support.passculture@beta.gouv.fr
 usertypes:
   - particulier
 ---
-
 Retrouvez toutes les informations sur l'expérimentation du Pass Culture sur notre site [pass.culture.fr](https://pass.culture.fr)
 
 L'ensemble de notre documentation est par ailleurs disponible sur notre [Gitbook](https://pass-culture.gitbook.io/documents/le-pass-culture-en-quelques-mots)

@@ -1,12 +1,11 @@
 ---
-fullname: Angélique Lequai
-role: Intrapreneure
+fullname: Angelique Lequai
+role: Intraprenariat
 domaine: Intraprenariat
 missions:
-  - start: 2023-11-01
-    end: 2024-03-05
+  - start: 2024-04-05
+    end: 2024-07-05
     status: admin
 memberType: autre
 ---
-
 Intrapreneure à la DGEC

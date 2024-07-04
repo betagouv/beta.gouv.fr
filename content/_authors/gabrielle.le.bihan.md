@@ -9,5 +9,4 @@ missions:
     employer: Octo
 memberType: attributaire
 ---
-
 Coach transfo  - Opérateur de la DINUM

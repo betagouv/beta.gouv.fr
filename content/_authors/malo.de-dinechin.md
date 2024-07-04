@@ -9,5 +9,4 @@ missions:
     status: admin
     employer: DIRISI
 ---
-
 Etudiant à Epitech, développeur stagiaire au sein de la Fabrique numérique des armées

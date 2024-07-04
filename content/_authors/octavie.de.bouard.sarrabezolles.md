@@ -7,9 +7,10 @@ missions:
     end: 2024-09-30
     status: independent
     employer: Lazone
+    startups:
+      - docurba
 startups:
   - docurba
 memberType: beta
 ---
-
 Chargée de déploiement

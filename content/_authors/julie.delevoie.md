@@ -9,9 +9,8 @@ missions:
     status: independent
   - start: 2023-03-08
     end: 2023-03-31
-    status: independent    
+    status: independent
 previously:
   - mon-entreprise
   - dora
 ---
-

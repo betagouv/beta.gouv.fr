@@ -12,9 +12,8 @@ missions:
     status: service
     employer: BeNext
 startups:
-    - inca
+  - inca
 badges:
   - segur
 ---
-
 Juriste, coach et community manager

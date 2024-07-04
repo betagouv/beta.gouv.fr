@@ -7,8 +7,9 @@ missions:
     end: 2024-12-15
     status: independent
     employer: Opteamis
+    startups:
+      - reva
 startups:
   - reva
 memberType: beta
 ---
-

@@ -9,6 +9,11 @@ missions:
     end: 2023-06-30
     status: admin
     employer: Ministère de l'Intérieur
+    startups:
+      - dialogue.operationnel
+      - fedel
+      - psij
+      - urgencevie
 startups:
   - urgencevie
   - fedel

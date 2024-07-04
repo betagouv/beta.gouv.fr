@@ -7,9 +7,10 @@ missions:
     end: 2022-01-03
     status: admin
     employer: Ministère chargée des Sports
+    startups:
+      - jeveuxaider
 startups:
   - jeveuxaider
 badges:
   - segur
 ---
-

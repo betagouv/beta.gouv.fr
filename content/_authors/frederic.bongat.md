@@ -1,7 +1,7 @@
 ---
 fullname: Frédéric Bongat
 role: Responsable de LaFabrique PN
-domaine: Autre
+domaine: Animation
 missions:
   - start: 2023-01-02
     end: 2099-01-01
@@ -9,4 +9,3 @@ missions:
     employer: Police Nationale
 memberType: autre
 ---
-

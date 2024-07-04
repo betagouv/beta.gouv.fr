@@ -9,6 +9,9 @@ missions:
     end: 2024-07-30
     status: independent
     employer: Ministère de la Transition Écologique / Fabrique numérique
+    startups:
+      - ecobalyse
+      - tacct
 startups:
   - ecobalyse
   - tacct

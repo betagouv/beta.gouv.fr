@@ -9,8 +9,9 @@ missions:
     end: 2024-05-30
     status: service
     employer: octo
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 ---
-
 Développeur mobile, artisan du code, et amateur de Kaamelott :)

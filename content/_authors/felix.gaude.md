@@ -5,11 +5,12 @@ domaine: Développement
 github: felhix
 missions:
   - start: 2022-12-05
-    end: 2024-06-30
+    end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - moncomptepro
 startups:
   - moncomptepro
 memberType: beta
 ---
-

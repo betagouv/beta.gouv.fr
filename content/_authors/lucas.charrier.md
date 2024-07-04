@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: DINUM
   - start: 2022-01-04
-    end: 2024-03-20
+    end: 2024-10-20
     status: independent
     employer: Scopyleft
 previously:
@@ -24,5 +24,4 @@ competences:
 teams:
   - /teams/communaute-dinum
 ---
-
 Développeur Web Fullstack

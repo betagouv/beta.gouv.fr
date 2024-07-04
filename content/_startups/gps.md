@@ -2,13 +2,15 @@
 title: GPS
 mission: Permettre aux 160 000 acteurs du réseau pour l’emploi d’accéder et de partager les informations quant aux intervenants dans le suivi et l’accompagnement des personnes prises en charge dans le cadre de la loi Plein Emploi.
 sponsors:
-  - /organisations/pole-emploi
   - /organisations/mtei
+  - /organisations/francetravail
 incubator: gip-inclusion
 contact: eric.barthelemy@beta.gouv.fr
 phases:
   - name: investigation
     start: 2023-12-05
+thematiques:
+  - Travail / Emploi
 ---
 ## Contexte
 Dans le cadre de la loi Plein Emploi deux nouvelles notions ont été introduites :

@@ -1,6 +1,6 @@
 ---
 fullname: Sébastien Touzé
-role: Catalyseur d'idées 
+role: Catalyseur d'idées
 domaine: Animation
 github: sebastienTouze
 missions:
@@ -8,8 +8,9 @@ missions:
     end: 2022-09-30
     status: admin
     employer: Minitère de la Mer
+    startups:
+      - rapportnav
 startups:
   - rapportnav
 ---
-
-Ex-EIG développeur. 
+Ex-EIG développeur.

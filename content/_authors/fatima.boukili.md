@@ -7,9 +7,10 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Malt
+    startups:
+      - envergo
 startups:
   - envergo
 memberType: beta
 ---
-
 Chargée d'études

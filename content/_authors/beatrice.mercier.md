@@ -16,10 +16,10 @@ missions:
     status: admin
     employer: dinum
 startups:
-  - delta.v 
+  - delta.v
   - sppnaut
-  - place-des-entreprises
-  - plateforme.impact
+  - conseillers-entreprises
+  - portail-rse
   - homologation
   - signaux-faibles
   - mon-entreprise

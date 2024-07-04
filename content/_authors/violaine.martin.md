@@ -9,4 +9,3 @@ missions:
     employer: Centre National des Arts du Cirque
 memberType: beta
 ---
-

@@ -10,9 +10,11 @@ missions:
     status: independent
     employer: NUMA (pour le PNI de l'ANCT)
   - start: 2022-12-05
-    end: 2024-06-29
+    end: 2024-12-31
     status: independent
-    employer: ""
+    startups:
+      - lannuaire.des.collectivites
+      - sirius
 startups:
   - sirius
 competences:
@@ -23,5 +25,4 @@ previously:
   - lannuaire.des.collectivites
   - mistral-penal
 ---
-
 Designer / coach

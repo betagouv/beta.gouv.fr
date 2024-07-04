@@ -7,8 +7,8 @@ missions:
     end: 2024-12-31
     status: service
     employer: AD-HOC Lab
+    startups:
+      - eva
 startups:
   - eva
 ---
-
-

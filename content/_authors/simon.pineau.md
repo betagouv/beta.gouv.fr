@@ -13,5 +13,5 @@ missions:
     status: independent
     employer: octo
 startups:
-    - aplus
+  - aplus
 ---

@@ -8,6 +8,8 @@ missions:
     end: 2021-05-15
     status: independent
     employer: Octo
+    startups:
+      - tumeplay
 startups:
   - tumeplay
 previously:

@@ -8,6 +8,8 @@ missions:
     end: 2023-11-30
     status: independent
     employer: Inop's
+    startups:
+      - estime.formation
 startups:
   - estime.formation
 previously:

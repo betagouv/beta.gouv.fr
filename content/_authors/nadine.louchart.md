@@ -7,9 +7,9 @@ missions:
     end: 2025-12-31
     status: independent
     employer: Mission interministérielle apprentissage
+    startups:
+      - tdb-apprentissage
 startups:
   - tdb-apprentissage
 memberType: beta
 ---
-
-

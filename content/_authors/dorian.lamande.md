@@ -8,8 +8,9 @@ missions:
     end: 2024-12-31
     status: service
     employer: OCTO
+    startups:
+      - france.nation.verte.agir
 memberType: autre
 startups:
   - france.nation.verte.agir
 ---
-

@@ -6,7 +6,8 @@ missions:
   - start: 2022-06-30
     end: 2023-12-30
     status: admin
-    employer: ''
+    startups:
+      - jafer
 startups:
   - jafer
 badges:

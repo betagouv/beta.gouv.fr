@@ -9,6 +9,4 @@ missions:
     employer: Octo
 memberType: attributaire
 ---
-
-
 Membre Octo.

@@ -8,5 +8,4 @@ missions:
     status: admin
     employer: MESRI
 ---
-
 Intrapreneur pour le dispositif Santé Psy Etudiants, enseignant-chercheur mis à disposition du MESRI.

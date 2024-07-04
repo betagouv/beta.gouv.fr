@@ -9,12 +9,11 @@ missions:
     end: 2024-06-30
     status: independent
     employer: SCOPOPOP
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
 badges:
   - segur
 ---
-
-
-
 Intégratrice web / Consultante en accessibilité numérique

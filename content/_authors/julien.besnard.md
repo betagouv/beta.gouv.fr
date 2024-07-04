@@ -10,5 +10,4 @@ missions:
 badges:
   - segur
 ---
-
 Codirecteur Omnicité

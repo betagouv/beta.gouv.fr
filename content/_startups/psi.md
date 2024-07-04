@@ -1,31 +1,29 @@
 ---
 title: Prélèvement à la source pour les indépendants
 mission: Simplifier radicalement le règlement des cotisations sociales par les indépendants
-sponsors: 
-    - /organisations/dinum
+sponsors:
+  - /organisations/dinum
 incubator: dinum
 phases:
   - name: investigation
     start: 2018-01-01
     end: 2018-12-31
   - name: alumni
-link:
-repository:
+    start: 2020-07-01
 stats: false
 contact: pierre.pezziardi@beta.gouv.fr
 usertypes:
   - entreprise
 ---
-
 ## Autoliquidation par prélèvement à la source des cotisations sociales des indépendants
 
 Une plate-forme de calcul et de prélèvement automatique qui se substitue aux multiples systèmes de recouvrement aujourd'hui au contact de l'indépendant : la Sécurité sociale pour les indépendants (ex-RSI), Urssaf et organismes de santé et de retraite conventionnés.
 
 ### Valeur
 
-Supprimer radicalement l'empilement d'actes administratifs qui induit une __faible efficacité du recouvrement__ : déclaration sociale des indépendants, échéancier et appel provisionnel de cotisation, échéancier et appel provisionnel révisés, remboursement de trop perçu, demande de rééchelonnement des cotisations provisionnelles, demande de délais de paiement; ainsi que les taxations d'office, relances, erreurs, réclamations, et courriers multiples qui peuvent en découler.
+Supprimer radicalement l'empilement d'actes administratifs qui induit une **faible efficacité du recouvrement** : déclaration sociale des indépendants, échéancier et appel provisionnel de cotisation, échéancier et appel provisionnel révisés, remboursement de trop perçu, demande de rééchelonnement des cotisations provisionnelles, demande de délais de paiement; ainsi que les taxations d'office, relances, erreurs, réclamations, et courriers multiples qui peuvent en découler.
 
-Supprimer entièrement le décalage temporel entre rentrée de chiffre d'affaires et prélèvements qui induit des __erreurs et une défiance terrible__ entre l'entrepreneur en déficit d'activité et l'institution «&nbsp;aveugle&nbsp;» qui prélève malgré tout.
+Supprimer entièrement le décalage temporel entre rentrée de chiffre d'affaires et prélèvements qui induit des **erreurs et une défiance terrible** entre l'entrepreneur en déficit d'activité et l'institution «&nbsp;aveugle&nbsp;» qui prélève malgré tout.
 
 ### Fonctionnement
 
@@ -37,7 +35,7 @@ Supprimer entièrement le décalage temporel entre rentrée de chiffre d'affaire
 
 4. Au fil de l'eau le système met à disposition de l'indépendant un relevé des revenus versés et des cotisations prélevées. A la clôture des comptes, un bouclage automatique avec la liasse fiscale permet de s'assurer que toutes les rémunérations ont bien été captées par le système (notamment plus ou moins-values de cession et, depuis 2013, les dividendes versés). Un dernier paiement (ou rétrocession) peut alors être déclenché avec le consentement de l'usager.
 
-5. Le dispositif devient __l'interlocuteur unique__ de l'indépendant pour tout ce qui concerne ses revenus et cotisations sociales. Aucune interaction avec l'URSSAF ou les organismes ne s'ajoute au dispositif. Pour l'État c'est une charge de moins (chaque organisme calcule et prélève aujourd'hui) au profit d'un dispositif simple et automatisé à son maximum (une hot-line dédiée sera nécessaire pour les cas non-nominaux, voir plus loin).
+5. Le dispositif devient **l'interlocuteur unique** de l'indépendant pour tout ce qui concerne ses revenus et cotisations sociales. Aucune interaction avec l'URSSAF ou les organismes ne s'ajoute au dispositif. Pour l'État c'est une charge de moins (chaque organisme calcule et prélève aujourd'hui) au profit d'un dispositif simple et automatisé à son maximum (une hot-line dédiée sera nécessaire pour les cas non-nominaux, voir plus loin).
 
 ### Le «&nbsp;consentement au prélèvement social&nbsp;»
 
@@ -75,7 +73,7 @@ Le dispositif de prélèvement à la source est une innovation radicale. L’Ét
 - L'organisation permanente d'une interaction avec les futurs «&nbsp;clients&nbsp;» du système à travers des ateliers ouverts et récurrents tous les 15 jours. Ces “OpenLab” sont l’unique lieu de gouvernance du produit, toutes les priorités y sont décidées.
 - La matérialisation effective et rapide d'une première version du produit en choisissant un terrain restreint d'expérimentation. En général un produit «&nbsp;tourne&nbsp;» 3 mois après le lancement du projet et a des dizaines, ou centaines, de clients réels au bout de 6 mois.
 - L'arrêt de l'innovation dés lors qu'elle ne rencontre pas un marché pour limiter les risques économiques et les «&nbsp;fausses bonnes idées&nbsp;».
-La reprise du produit par un acteur de taille importante, ici l'ACOSS a priori, après 18 à 24 mois d’incubation.
+  La reprise du produit par un acteur de taille importante, ici l'ACOSS a priori, après 18 à 24 mois d’incubation.
 
 La Startup d'État peut être hébergée dans un incubateur d'État, dans un ministère ou un établissement doté d'une entité d'accueil de l'innovation ou souhaitant la créer. Le champ d'expérimentation doit plutôt être délimité par le volontariat des usagers que par une obligation sur un territoire. Cibler les nouveaux indépendants créateurs d'entreprise permettra d'éviter les difficultés liées à des reprises d'historique.
 

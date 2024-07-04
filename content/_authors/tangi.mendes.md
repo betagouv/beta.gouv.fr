@@ -8,6 +8,8 @@ missions:
     end: 2023-12-31
     status: independent
     employer: octo
+    startups:
+      - snu
 startups:
-- snu
+  - snu
 ---

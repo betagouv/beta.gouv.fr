@@ -12,14 +12,16 @@ usertypes:
   - particulier
 stats_url: https://collectif-objets.beta.gouv.fr/stats
 stats: true
-budget_url: >-
-  https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#-Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
 phases:
   - name: construction
     start: 2020-04-01
     end: 2022-09-28
   - name: acceleration
     start: 2022-09-28
+thematiques:
+  - Patrimoine
+accessibility_status: non conforme
 ---
 # Recenser les objets qui font notre patrimoine pour le protéger
 

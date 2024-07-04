@@ -7,6 +7,8 @@ missions:
     end: 2024-12-31
     status: service
     employer: Octo
+    startups:
+      - l-application-du-cej
 memberType: beta
 startups:
   - l-application-du-cej

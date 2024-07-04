@@ -10,6 +10,4 @@ missions:
 teams:
   - /teams/sgmas
 ---
-
-Adjoint au chef de la Fabrique Numérique des Min Sociaux.
-What health ?! :-)
+Adjoint au chef de la Fabrique Numérique des Min Sociaux. What health ?! :-)

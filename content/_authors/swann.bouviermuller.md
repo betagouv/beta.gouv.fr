@@ -8,8 +8,9 @@ missions:
     end: 2024-06-30
     status: independent
     employer: LBC
+    startups:
+      - mon-diagnostic-artificialisation
 startups:
-  - sparte
+  - mon-diagnostic-artificialisation
 ---
-
 Développeur Django sénior

@@ -1,6 +1,6 @@
 ---
 fullname: Mathieu Gens
-role: Directeur opérationnel
+role: Directeur
 github: MathieuGens
 domaine: Intraprenariat
 missions:
@@ -8,8 +8,9 @@ missions:
     end: 2024-08-31
     status: admin
     employer: DGE
+    startups:
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 ---
-
 Ceux et celles qui sont assez fous pour croire qu’ils peuvent changer le développement éco., sont en réalité ceux qui le font.

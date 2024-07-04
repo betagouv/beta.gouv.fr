@@ -4,17 +4,16 @@ mission: Identifier et classer instantanément une arme sur le terrain
 sponsors:
   - /organisations/interieur
 incubator: lab-mi
-link: https://basegun.fr/
+link: https://basegun.interieur.gouv.fr/
 repository: https://github.com/datalab-mi/Basegun
 contact: basegun@interieur.gouv.fr
 accessibility_status: non conforme
-events: []
 phases:
-  - name: investigation
-    start: 2022-05-02
-    end: 2023-06-27
   - name: construction
     start: 2022-03-01
+    end: 2023-06-27
+  - name: investigation
+    start: 2022-05-02
     end: 2023-06-27
 ---
 ## Contexte

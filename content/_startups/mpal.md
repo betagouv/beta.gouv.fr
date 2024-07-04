@@ -10,12 +10,11 @@ phases:
   - name: construction
     start: 2016-05-01
   - name: alumni
+    start: 2020-07-01
 link: https://monprojet.anah.gouv.fr/
-repository: 
 stats: true
 contact: contact@anah.beta.gouv.fr
 ---
-
 Vous reculez devant un projet d’amélioration de votre logement pourtant nécessaire à votre santé et votre confort, car la complexité des démarches vous effraie : vous ne savez pas à qui vous adresser, vous ne savez pas évaluer le coût restant de votre poche, vous ne savez pas combien de temps cela prendra.
 
 Vous êtes accompagné tout au long de votre démarche par des intervenants compétents pour faire aboutir votre projet.

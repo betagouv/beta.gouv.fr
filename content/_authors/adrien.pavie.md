@@ -9,9 +9,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - vues-immersives-libres
 startups:
   - vues-immersives-libres
 memberType: beta
 ---
-
 Entrepreneur en géomatique et développement logiciel

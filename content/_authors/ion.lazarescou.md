@@ -8,6 +8,8 @@ missions:
     end: 2019-08-31
     status: independent
     employer: octo
+    startups:
+      - pass-culture
 startups:
-    - pass-culture
+  - pass-culture
 ---

@@ -1,12 +1,10 @@
 ---
 title: Estime
-mission: >-
-  Soutenir la reprise d'activité des personnes en demande d'emploi en facilitant
-  l'accès à l'information concernant les aides financières
+mission: Soutenir la reprise d'activité des personnes en demande d'emploi en facilitant l'accès à l'information concernant les aides financières
 sponsors:
-  - /organisations/pole-emploi
-incubator: pole-emploi
-link: https://candidat.pole-emploi.fr/simucalculreprise
+  - /organisations/francetravail
+incubator: francetravail
+link: https://candidat.francetravail.fr/simucalculreprise
 repository: https://github.com/StartupsPoleEmploi/estime-frontend
 contact: annie.compa@pole-emploi.fr
 usertypes:
@@ -15,9 +13,7 @@ stats: false
 events:
   - name: product_launch
     date: 2021-01-07
-    comment: >-
-      La première version du site est ouverte aux Demandeurs d'Emploi
-      bénéficiaires de l'Allocation de Solidarité Spécifique.
+    comment: La première version du site est ouverte aux Demandeurs d'Emploi bénéficiaires de l'Allocation de Solidarité Spécifique.
 phases:
   - name: investigation
     start: 2020-04-01
@@ -31,7 +27,6 @@ phases:
     start: 2022-12-30
   - name: success
     start: 2023-01-19
-# stats_url: https://candidat.pole-emploi.fr/simucalculreprise/stats
 accessibility_status: non conforme
 ---
 **Problème**
@@ -68,7 +63,7 @@ Par ailleurs, lors des 4 saisons de webinaires internes organisés par l’équi
 
 Depuis le lancement, le simulateur a dépassé le **million de visiteurs** !
 
-Le simulateur est accessible ici : *<https://candidat.pole-emploi.fr/simucalculreprise>*
+Le simulateur est accessible ici : *https://candidat.francetravail.fr/simucalculreprise*
 
 Ainsi que sur l’Emploi store depuis début octobre 2022 : *<https://www.emploi-store.fr/portail/services/simulateurRepriseDEmploi>*
 

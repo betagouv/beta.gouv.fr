@@ -7,10 +7,11 @@ missions:
     end: 2024-09-01
     status: independent
     employer: octo
+    startups:
+      - la-bonne-alternance
 startups:
   - la-bonne-alternance
 previously:
   - maintenant
 ---
-
 Développeur full-stack et touche-à-tout

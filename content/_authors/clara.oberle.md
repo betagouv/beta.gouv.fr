@@ -8,5 +8,4 @@ missions:
     status: independent
     employer: Numa
 ---
-
 Chargée de déploiement Gamma

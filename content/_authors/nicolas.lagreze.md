@@ -8,12 +8,13 @@ missions:
   - start: 2018-04-05
     end: 2020-12-31
     status: independent
+    startups:
+      - ozensemble
 startups:
-    - ozensemble
+  - ozensemble
 previously:
-    - pop
-    - eac   
-    - jeveuxaider
+  - pop
+  - eac
+  - jeveuxaider
 ---
-
 Step by step we reach the top.

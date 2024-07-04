@@ -5,14 +5,15 @@ domaine: Développement
 link: https://fabien.cool
 github: fabienheureux
 missions:
-  - start: 2023-01-19
-    end: 2024-12-31
+  - start: 2024-06-24
+    end: 2024-12-23
     status: independent
     employer: Malt
+    startups:
+      - longuevieauxobjets
 startups:
   - sppnaut
   - apilos
 memberType: beta
 ---
-
 Développeur full-stack

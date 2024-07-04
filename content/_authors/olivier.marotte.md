@@ -2,7 +2,6 @@
 fullname: Olivier Marotte
 role: Géomaticien
 domaine: Autre
-github: oliviermarotte
 missions:
   - start: 2021-09-30
     end: 2024-12-31
@@ -11,4 +10,3 @@ missions:
 teams:
   - /teams/mtes
 ---
-

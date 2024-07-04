@@ -7,10 +7,11 @@ missions:
     end: 2022-08-31
     status: admin
     employer: ANCT
+    startups:
+      - monstage
 startups:
   - monstage
 badges:
   - segur
 ---
-
 Intrapreneur de Mon stage de troisième.

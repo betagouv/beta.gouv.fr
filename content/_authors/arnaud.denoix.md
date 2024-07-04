@@ -6,16 +6,16 @@ github: adenoix
 missions:
   - start: 2018-12-07
     end: 2025-06-30
-    employer: GIP Plateforme de l'inclusion 
     status: admin
+    employer: GIP Plateforme de l'inclusion
 teams:
   - /teams/gip-inclusion
 previously:
   - avril
   - la-bonne-formation
-  - aides.jeunes  
-  - itou
-  - data.insertion
+  - aides.jeunes
+  - les-emplois
+  - rdv.insertion
   - dora
   - data-inclusion
 badges:

@@ -1,9 +1,6 @@
 ---
 title: seLEXpert
-mission: >-
-  Conçu pour les magistrats, les greffiers et les experts, seLEXpert permet une
-  meilleure gestion des procédures grâce à la pré-sélection et la désignation
-  dématérialisées du bon expert, en un temps limité.
+mission: Conçu pour les magistrats, les greffiers et les experts, seLEXpert permet une meilleure gestion des procédures grâce à la pré-sélection et la désignation dématérialisées du bon expert, en un temps limité.
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -13,9 +10,12 @@ phases:
   - name: construction
     start: 2023-01-03
 link: https://selexpert.anje-justice.fr/
+repository: https://git.anje-justice.fr/selexpert
 stats: true
 stats_url: https://selexpert.anje-justice.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/selexpert-anje-justice-fr/
+thematiques:
+  - Justice
 ---
 ## Problème
 
@@ -37,4 +37,3 @@ Poursuivre l'expérimentation de l’outil à Metz, Nantes et Nancy. Rendre seLE
 Systématiser le recours à seLEXpert dans les services du contrôle de expertises et des référés civils de tous les tribunaux judiciaires dans lesquels l’outil est et sera déployé, de sorte qu’il devienne le mode normal de désignation des experts.
 
 Augmenter le nombre d’utilisateurs actifs chez les experts pour atteindre le seuil de 50 %.
-

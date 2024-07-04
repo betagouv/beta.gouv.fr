@@ -9,6 +9,8 @@ missions:
     end: 2024-12-31
     status: admin
     employer: CGDD
+    startups:
+      - ecobalyse
 startups:
   - ecobalyse
 badges:

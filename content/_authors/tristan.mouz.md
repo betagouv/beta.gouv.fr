@@ -8,9 +8,10 @@ missions:
     end: 2022-05-02
     status: independent
     employer: Octo
+    startups:
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 badges:
   - segur
 ---
-

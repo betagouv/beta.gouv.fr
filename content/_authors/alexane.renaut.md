@@ -15,5 +15,4 @@ previously:
 badges:
   - segur
 ---
-
 Créatrice d'expériences !

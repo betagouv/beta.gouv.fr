@@ -14,5 +14,4 @@ previously:
 badges:
   - segur
 github: valentinbrel
-
 ---

@@ -6,8 +6,9 @@ missions:
   - start: 2021-02-25
     end: 2021-05-25
     status: admin
-startups: 
+    startups:
+      - non-recours-spie
+startups:
   - non-recours-spie
 ---
-
 Chargé de mission à la Métropole de Lyon et intrapreneur , ma devise, rendons visibles les invisibles!

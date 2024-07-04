@@ -1,5 +1,5 @@
 ---
-fullname: Salim Boulkour # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
+fullname: Salim Boulkour
 role: Ops / DevOps
 domaine: Développement
 github: sboulkour
@@ -8,7 +8,5 @@ missions:
     end: 2019-06-30
     status: service
     employer: octo
-
 ---
-
 Ancien FranceConnect, actuellement OPS à l'incubateur des ministères sociaux.

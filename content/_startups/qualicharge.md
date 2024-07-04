@@ -1,7 +1,6 @@
 ---
 title: QualiCharge
-mission: Améliorer la qualité globale du service de recharge pour véhicules
-  électriques en analysant les données de supervision
+mission: Améliorer la qualité globale du service de recharge pour véhicules électriques en analysant les données de supervision
 sponsors:
   - /organisations/mtes
 incubator: mtes
@@ -13,8 +12,10 @@ phases:
     end: 2022-09-01
   - name: construction
     start: 2022-09-01
+thematiques:
+  - Écologie
+  - Transports
 ---
-
 ## Contexte
 
 L'électrification du parc de véhicules légers est une des conditions nécessaires à la réduction des émissions de gaz à effet de serre dans les transports. Cette politique doit s'accompagner de la mise en place *ex nihilo* d'une infrastructure de recharge couvrant l'ensemble du territoire.

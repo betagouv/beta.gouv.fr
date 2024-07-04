@@ -1,59 +1,82 @@
 ---
-title: Ma Cantine
+title: ma cantine
 mission: Accompagner les acteurs de la restauration collective pour proposer une alimentation de qualité, saine et durable
-sponsors: 
+sponsors:
   - /organisations/dgal
-incubator: dinum
+incubator: agriculture
 phases:
-    - name: investigation
-      start: 2020-09-01
-      end: 2020-10-29
-    - name: construction
-      start: 2020-10-29
-      end: 2021-12-31
-    - name: acceleration
-      start: 2022-01-01
-link: https://ma-cantine.beta.gouv.fr
+  - name: investigation
+    start: 2020-09-01
+    end: 2020-10-29
+  - name: construction
+    start: 2020-10-29
+    end: 2021-12-31
+  - name: acceleration
+    start: 2022-01-01
+link: https://ma-cantine.agriculture.gouv.fr
 repository: https://github.com/betagouv/ma-cantine
 stats: true
 stats_url: https://ma-cantine.agriculture.gouv.fr/statistiques-plateforme
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow
 contact: contact@egalim.beta.gouv.fr
 usertypes:
   - entreprise
 fast:
   promotion: 13
   montant: 250000
+thematiques:
+  - Santé
+  - Administratif
+  - Alimentation
+accessibility_status: partiellement conforme
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 250000€ pour la promotion 13
 ---
-
-## Une alimentation saine, de qualité, durable et accessible à tous en restauration collective
-
-Garantir un système permettant une alimentation saine, durable, moins animale et plus végétale, respectueuse de la production et du climat, peu émettrice de gaz à effet de serre et accessible à tous, notamment en rendant la loi EGalim.
+## Contexte et enjeux
 
 15 millions de Français prennent chaque jour au moins un repas hors de leur domicile, dont plus de la moitié en restauration collective. Cette spécificité française fait de la restauration collective un passage obligé pour de nombreux français.
 Au total, ce sont près de 100 000 structures de restauration collective, publiques ou privées, qui distribuent plus de 3,5 milliards de repas par an. Compte tenu de l’importance de ce secteur, il est essentiel d’en faire un levier de premier plan dans la transformation de notre modèle alimentaire.
-La restauration collective est un levier puissant pour faire évoluer les pratiques alimentaires, réduire les inégalités et recréer de la valeur ajoutée pour les filières locales.
+
+**La restauration collective est un levier puissant pour faire évoluer les pratiques alimentaires, réduire les inégalités et recréer de la valeur ajoutée pour les filières de qualité, notamment l'agriculture biologique.**
+
 Ce projet s’inscrit dans le cadre du Programme National de l’Alimentation, piloté par le Ministère en charge de l’Agriculture et de l’Alimentation.
 
-## Accompagner les acteurs de la restauration collective vers des initiatives responsables en accord avec EGAlim
+Afin d’accompagner les acteurs de la restauration collective dans la mise en œuvre des dispositions des lois EGAlim et Climat et résilience, d’informer les citoyens sur la qualité et la durabilité de leur alimentation en restauration collective et d’assurer le suivi des objectifs d’une politique prioritaire du gouvernement, la DGAL a créé le service numérique « ma cantine » selon la méthode de start-up avec l’accompagnement de la DINUM. 
 
-La loi dite « EGAlim » du 30 octobre 2018 a introduit de nouvelles obligations pour la restauration collective. Elle fixe notamment un objectif d’au moins 50 % de produits durables et de qualité, dont au moins 20 % de produits biologiques, dans la composition des repas servis à partir du 1er janvier 2022. Or, il existe peu de données sur la qualité de l’alimentation dans ce secteur en France. Ainsi, il est difficile d’apprécier la mise en œuvre de ces objectifs et les niveaux actuels d’approvisionnement en produits de qualité et durables dans les restaurants collectifs.
+Comme toutes les start-up d‘Etat, l’ambition de ce service numérique, au-delà du reporting pour que l’administration puisse elle-même satisfaire ses obligations réglementaires, est de contribuer à la transition alimentaire en restauration collective avec la recherche d’impacts dans ce secteur, à savoir une **modification des pratiques des gestionnaires de cantines (stratégie d’achat des denrées, diversification des sources de protéines, fonctionnement plus durable avec moins de gaspillage alimentaire, moins d’utilisation de plastique…). Ces impacts doivent permettre de faire évoluer les modes de productions agricoles et les comportements alimentaires (plus de qualité et de durabilité), la demande tirant l’offre alimentaire mais restent dépendant aussi d’autres facteurs plus ou moins maitrisables, tels que les prix (inflation), l’organisation des structures alimentaires (producteurs, grossistes, gestionnaires, consommateurs) et l’éducation alimentaire au sens large.**
 
-Par ailleurs, les attentes des citoyens envers leur alimentation sont extrêmement fortes : une alimentation respectueuse de la santé et de l’environnement. La loi EGAlim impose aux restaurants collectifs d’informer les convives de la qualité alimentaire et nutritionnelle et de part des produits de qualité et durables entrant dans la composition des repas servis.
+Les lois EGAlim et Climat et résilience imposent des changements majeurs aux acteurs du secteur de la restauration collective, avec, pour les gestionnaires en particulier, des objectifs extrêmement ambitieux, sans pour autant prévoir ni contrôles, ni sanctions. Le parti pris du développement de « ma cantine » est donc tout naturellement aligné avec le mode start-up d’Etat qui cherche avant tout à apporter de la valeur ajoutée à des utilisateurs, des gestionnaires de cantines, c’est-à-dire de l’accompagnement et des services, afin de les amener à adhérer à cette transition et progresser vers ces objectifs.
 
-## Bilan de l'investigation
+Ainsi, l’enjeu principal pour la plateforme « ma cantine » reste de poursuivre sa croissance (nombre d’utilisateurs), dans tous les secteurs de la restauration collective et particulièrement pour le périmètre « Services publics écoresponsables », en proposant des services aux utilisateurs et gestionnaires qui vont permettre d’avoir les impacts recherchés à terme. Il s’agit aussi de conserver l’essence d’une start-up d’Etat dans la trajectoire de pérennisation de la plateforme pour maintenir un service public innovant et transformer les organisations de l’administration. Ainsi, un facteur de réussite de la pérennisation de « ma cantine » sera son intégration dans un nouvel environnement numérique au MASA en relation avec la création d’un incubateur et l’apport de nouvelles compétences numériques.
 
-De début septembre à fin octobre 2020, une équipe de beta.gouv.fr et une intrapreneuse de la direction générale de l’alimentation (DGAL) ont mené une investigation pour mieux comprendre l’écosystème et les attentes et besoins de toutes les parties prenantes de la restauration collective. L’equipe interroge institutions, acheteurs publics, cuisiniers, prestataires, fournisseurs, commenssaux, opérateurs privés et publics… afin de proposer une hypothèse de solution qui réponde véritablement à leurs besoins. Le comité final de présentation des résultats auprès de la DGAL du 29 octobre a été concluant et a validé la construction du produit imaginé suite à cette phase d'investigation. 
+## "Mieux manger de la crèche à l'EHPAD" : ma-cantine, plateforme nationale pour une transition alimentaire en restauration collective
 
-## Ma Cantine, autodiagnostiquer ma cantine scolaire et mettre en place les actions pour une transition vers une alimentation plus saine et durable
+**
+3 objectifs : 
+1. Accompagner la transformation des pratiques en outillant les gestionnaires pour le pilotage de leurs achats, le suivi et la réduction du gaspillage,..
+2. Permettre une fluidification des remontées de données quanti et qualitatives pour objectiver les avancées du secteur et aider le pilotage de la politique publique
+3. Accroître la transparence et la communication aux convives du secteur
+**
 
-Le secteur de la restauration collective étant vaste et très divers dans son organisation, ses pratiques et son fonctionnement, l'hypothèse de solution proposée est une plateforme numérique dont la cible est volontairement restreinte, dans un premier temps, aux cantines scolaires autogérées. 
+pour répondre à ces objectifs, les fonctionnalités et servis rendus sont nombreux et en évolution constante : 
+- Accompagnement pour comprendre les obligations légales (EGalim, Anti-gaspillage, Climat et Résilience)
+- Outils pratiques de pilotage et gestion (autodiagnostic, suivi des achats, calculette de scores EGalim, etc.) 
+- Supports de communication et d'information pour valoriser les initiatives auprès des convives
+- Accès aux guides et documents du Conseil national de la restauration collective (CNRC)
+- Outil de déclaration annuelle de la valeur des aliments achetés pour le suivi des objectifs légaux
 
-Cet outil, Ma Cantine, permettra à une élu·e, chef·fe de cantine, gestionnaire… d'évaluer sa conformité avec l’ensemble des mesures de la loi via un test de positionnement et notamment de calculer la part de ses achats de qualité et durables grâce à la mise à disposition d’une calculette simple et facile à prendre en main. Cet autodiagnostic l’aidera à évaluer les pistes d'amélioration pour garantir des assiettes plus saines et durables à ses convives, via un tableau de bord et l'accès à des ressources adaptées à sa situation.  
+La plateforme vise à répondre aux besoins des utilisateurs de manière inclusive. Elle propose un dispositif de bêta-testeurs pour l'amélioration continue.
 
-La forme de l’outil, qui se veut encourageante, facile d’accès et interactive, sera déterminée au fil de sa construction au pas à pas avec des cantines pilotes. De premiers établissement ont déjà formulé leur désir de faire partie des beta-testeurs. 
+## En chiffres : 
 
-Ma Cantine est la première brique d’une plateforme numérique, pouvant être, après expérimentation, élargie aux autres secteurs de la restauration collective, si les résultats et l’impact attendus sont montrés sur ce premier secteur d'expérimentation. Cet outil évaluant la “compatibilité de ma cantine à la loi” permettra également de recueillir les données permettant de faire l'état des lieux de la part des produits durables et de qualité au sein de la restauration collective en France.
+- 38 374 : nombre de cantines inscrites, soit près de 50% du volume total estimé des établissements
+- 10k : le nombre de sites de restauration ayant remonté leurs données d'approvisionnement
+dans cet échantillon, une part de produits bio estimée à 13% en moyenne en 2022
+
+Pour plus d'informations, consulter le rapport annuel 2023
+[Pour plus d'informations, consulter le rapport annuel 2023](https://894795896-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MSCF7Mdc8yfeIjMxMZr%2Fuploads%2FbEQa5jADHE8lP17X4lg4%2FBilan%20statistique%20EGALIM%202023_macantine.pdf?alt=media&token=2b11edf6-0b82-4d1c-8cea-ce2ab95d712f) ou les [statistiques de la plateforme](https://ma-cantine-metabase.cleverapps.io/public/dashboard/3dab8a21-c4b9-46e1-84fa-7ba485ddfbbb)
 
 ## Vous souhaitez nous aider, participer à ce produit ? 
 

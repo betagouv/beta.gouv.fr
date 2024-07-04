@@ -9,12 +9,13 @@ missions:
     end: 2025-12-31
     status: service
     employer: OCTO
+    startups:
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 badges:
   - segur
 competences:
   - UX
-
 ---
 UX Designer & researcher

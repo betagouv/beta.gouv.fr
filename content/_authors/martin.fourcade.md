@@ -14,6 +14,4 @@ missions:
     employer: scopopop
 startups:
   - demarches-simplifiees.fr
-
 ---
-''

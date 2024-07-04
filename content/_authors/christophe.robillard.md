@@ -10,11 +10,12 @@ missions:
     end: 2024-12-31
     status: independent
     employer: LaZone
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
 previously:
   - dossiersco
   - mpal
 ---
-
 Facilitateur, développeur, musicien et bipodocrate junior

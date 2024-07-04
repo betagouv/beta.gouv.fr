@@ -8,9 +8,10 @@ missions:
     end: 2025-01-31
     status: independent
     employer: Malt
+    startups:
+      - snu
 startups:
   - snu
 memberType: beta
 ---
-
 Développeur le jour, mais aussi la nuit.

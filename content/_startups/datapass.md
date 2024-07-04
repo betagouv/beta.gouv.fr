@@ -2,7 +2,7 @@
 title: DataPass
 mission: Délivrer des « Pass » pour accéder à la « Data » produite par l'État.
 sponsors:
- - /organisations/dinum
+  - /organisations/dinum
 incubator: dinum_produits_interministeriels
 phases:
   - name: construction
@@ -20,8 +20,10 @@ usertypes:
   - etat
 dashlord_url: https://dashlord.incubateur.net/url/datapass-api-gouv-fr/
 accessibility_status: partiellement conforme
+thematiques:
+  - Open-Data
+  - Outil technique
 ---
-
 ## Le problème
 
 Lorsqu'une administration expose des données à caractère personnel, elle doit pouvoir interdire leur diffusion aux organisations qui n'ont pas le droit d'y accéder. Par exemple, une agence de voyage n'a pas à connaître le revenu fiscal de référence de ses clients.

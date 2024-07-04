@@ -8,6 +8,4 @@ missions:
     status: service
     employer: Ippon
 ---
-
-Business Developer @Ippon Technologies
-Accélératrice de projets digitaux 
+Business Developer @Ippon Technologies Accélératrice de projets digitaux

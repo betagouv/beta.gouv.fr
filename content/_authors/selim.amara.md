@@ -8,8 +8,9 @@ missions:
     end: 2022-12-31
     status: admin
     employer: DINUM / DRIEETS IDF
+    startups:
+      - enfants-du-spectacle
 startups:
   - enfants-du-spectacle
 ---
-
 Product Owner

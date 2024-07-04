@@ -19,10 +19,9 @@ missions:
     employer: Octo
 startups:
   - l-immersion-facile
-previously: 
-  - conseiller-numerique
+previously:
+  - france-numerique-ensemble
 badges:
   - segur
 ---
-
 Sauvons la planête, un commit à la fois :) !

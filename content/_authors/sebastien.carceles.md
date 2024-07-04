@@ -9,6 +9,8 @@ missions:
     end: 2023-12-31
     status: independent
     employer: ANCT
+    startups:
+      - civils-de-la-defense
 startups:
   - civils-de-la-defense
 previously:
@@ -17,7 +19,4 @@ previously:
   - demarches-simplifiees.fr
   - civils-de-la-defense
 ---
-
-
-
 Yet another developer. Build stuff. Enjoy.

@@ -17,10 +17,7 @@ dashlord_url: https://dashlord.incubateur.net/url/acceslibre-beta-gouv-fr/
 events:
   - name: other
     date: 2022-10-04
-    comment: >-
-      Demo-D : fin du programme d'accompagnement gamma avec résultats clés -
-      plus de 100 000 fiches ERP, go de réutilisation par google et
-      servicepublic.fr
+    comment: 'Demo-D : fin du programme d''accompagnement gamma avec résultats clés - plus de 100 000 fiches ERP, go de réutilisation par google et servicepublic.fr'
 phases:
   - name: investigation
     start: 2019-11-01
@@ -29,6 +26,8 @@ phases:
   - name: acceleration
     start: 2022-09-01
 stats_url: https://acceslibre.beta.gouv.fr/stats
+thematiques:
+  - Open-Data
 ---
 ## Le problème : Le manque d’information sur l’accessibilité des lieux
 

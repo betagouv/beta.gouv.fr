@@ -7,8 +7,9 @@ missions:
     end: 2024-12-31
     status: admin
     employer: Ministère de l'Intérieur
+    startups:
+      - sndv_maritime
 startups:
   - sndv_maritime
 memberType: beta
 ---
-

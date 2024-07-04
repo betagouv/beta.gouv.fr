@@ -5,9 +5,8 @@ domaine: Développement
 github: matmut7
 missions:
   - start: 2022-01-03
-    end: 2024-06-29
+    end: 2024-12-31
     status: independent
     employer: Opteamis
 memberType: beta
 ---
-

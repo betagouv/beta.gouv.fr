@@ -8,7 +8,8 @@ missions:
     end: 2023-01-31
     status: independent
     employer: Omnicité
+    startups:
+      - homologation
 startups:
   - homologation
 ---
-

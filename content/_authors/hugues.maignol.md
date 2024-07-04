@@ -9,11 +9,13 @@ missions:
     end: 2024-08-31
     status: independent
     employer: ANCT
+    startups:
+      - les.bases
+      - suite.d.outils.des.mediateurs.numeriques
 badges:
   - segur
 startups:
   - les.bases
   - suite.d.outils.des.mediateurs.numeriques
 ---
-
 🤖🥋🎹

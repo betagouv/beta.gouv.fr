@@ -7,7 +7,6 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ANSSI
-startups:
 teams:
   - /teams/anssi
 ---

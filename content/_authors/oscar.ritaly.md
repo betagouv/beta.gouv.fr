@@ -4,11 +4,11 @@ role: Intra et Biz dev senior
 domaine: Déploiement
 missions:
   - start: 2023-06-19
-    end: 2024-06-19
+    end: 2024-12-31
     status: independent
-    employer: ''
+    startups:
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 memberType: beta
 ---
-

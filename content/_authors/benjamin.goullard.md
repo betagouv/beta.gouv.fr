@@ -1,14 +1,17 @@
 ---
-fullname: Benjamin  Goullard
-role: Chargé de déploiement
+fullname: Benjamin Goullard
+role: Déploiement
 domaine: Déploiement
 missions:
-  - start: 2022-09-12
-    end: 2024-01-25
+  - start: 2024-06-11
+    end: 2024-11-11
     status: independent
-    employer: ''
+    employer: Malt
+    startups:
+      - territoires-en-transitions
 startups:
   - envergo
 badges:
   - segur
+memberType: beta
 ---

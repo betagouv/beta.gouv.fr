@@ -6,11 +6,12 @@ missions:
     end: 2021-07-18
     status: admin
     employer: DGE
+    startups:
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 badges:
   - segur
 domaine: Autre
 ---
-
 stagiaire le jour, étudiante la nuit

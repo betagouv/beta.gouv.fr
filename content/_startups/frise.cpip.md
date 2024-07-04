@@ -1,7 +1,6 @@
 ---
 title: Frise CPIP
-mission: Synthétiser le parcours judiciaire d'une personne suivi par le SPIP
-  (Service Pénitenciaire d'Insertion et Probation)
+mission: Synthétiser le parcours judiciaire d'une personne suivi par le SPIP (Service Pénitenciaire d'Insertion et Probation)
 sponsors:
   - /organisations/mj
 incubator: justice

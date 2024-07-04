@@ -9,7 +9,8 @@ missions:
     end: 2023-02-01
     status: service
     employer: Malt
+    startups:
+      - camino
 startups:
   - camino
 ---
-

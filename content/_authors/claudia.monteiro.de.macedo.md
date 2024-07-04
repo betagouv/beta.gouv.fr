@@ -7,9 +7,10 @@ missions:
     end: 2024-12-31
     status: admin
     employer: DGE
+    startups:
+      - portail-rse
 startups:
-  - portail.rse
+  - portail-rse
 memberType: beta
 ---
-
 Comment est votre impact ?

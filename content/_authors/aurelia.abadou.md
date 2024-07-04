@@ -8,4 +8,3 @@ missions:
     status: independent
     employer: Malt
 ---
-

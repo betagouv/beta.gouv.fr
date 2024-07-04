@@ -9,5 +9,4 @@ missions:
     status: admin
     employer: MTECT
 ---
-
 Étudiant datascience

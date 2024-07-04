@@ -10,5 +10,4 @@ missions:
     employer: OCTO
 memberType: autre
 ---
-
 Intervenant OCTO

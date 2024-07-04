@@ -9,5 +9,4 @@ missions:
     employer: Malt
 memberType: attributaire
 ---
-
 Vous aidez à trouver les meilleurs freelances.

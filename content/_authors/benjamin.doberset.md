@@ -1,14 +1,18 @@
 ---
 fullname: Benjamin Doberset
 domaine: Déploiement
-role: Responsable de portefeuille
+role: Chef de pôle animation
 avatar: https://avatars3.githubusercontent.com/Benjamin-Doberset?s=600
 github: Benjamin-Doberset
 missions:
   - start: 2021-06-28
-    end: 2024-06-27
+    end: 2024-02-18
     status: admin
     employer: La Fabrique Numérique
+  - start: 2024-02-19
+    end: 2030-05-19
+    status: admin
+    employer: DINUM
 previously:
   - demarches-simplifiees.fr
   - peps
@@ -20,6 +24,5 @@ competences:
   - Gestion de Produit
   - Croissance
 teams:
-  - /teams/mtes
-
+  - /teams/animation-dinum
 ---

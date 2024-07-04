@@ -7,9 +7,9 @@ missions:
     end: 2021-06-30
     status: admin
     employer: eig
-avatar:
+    startups:
+      - signaux-faibles
 startups:
-    - signaux-faibles
+  - signaux-faibles
 ---
-
 Fabricante de data

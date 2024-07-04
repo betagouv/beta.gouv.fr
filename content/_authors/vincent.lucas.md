@@ -7,8 +7,5 @@ missions:
     end: 2023-06-27
     status: admin
     employer: DGALN
-
 ---
-
-
 Intrapreneur qui aime aussi cuisiner

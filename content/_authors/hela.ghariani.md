@@ -5,8 +5,11 @@ domaine: Produit
 missions:
   - start: 2014-11-01
     end: 2019-10-30
-    employer: dinum
     status: admin
+    employer: dinum
+    startups:
+      - bourse
+      - mdph
 startups:
   - mdph
   - bourse
@@ -15,5 +18,4 @@ previously:
   - boussole
   - jeveuxaider
 ---
-
 Résiliente et engagée.

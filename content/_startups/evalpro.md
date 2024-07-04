@@ -1,7 +1,6 @@
 ---
 title: EvalPro+
-mission: Dérisquage de projet par l'évaluation environnementale et développement
-  d'une approche environnementale systématique des projets.
+mission: Dérisquage de projet par l'évaluation environnementale et développement d'une approche environnementale systématique des projets.
 sponsors:
   - /organisations/mtes
 incubator: mtes
@@ -11,9 +10,10 @@ contact: joel.figueres@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
+    comment: 'Dénomination initiale du projet : "Décisions rendues au cas par cas" - Fin de la phase d''investigation programmée en septembre 2023'
     start: 2023-04-24
-    comment: "Dénomination initiale du projet : \"Décisions rendues au cas par cas\"
-      - Fin de la phase d'investigation programmée en septembre 2023"
+thematiques:
+  - Écologie
 ---
 ## Contexte
 

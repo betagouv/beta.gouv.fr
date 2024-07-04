@@ -1,6 +1,6 @@
 ---
 title: ASTREE
-mission: "Aider au traitement des contentieux de masse ou sériel "
+mission: 'Aider au traitement des contentieux de masse ou sériel '
 sponsors:
   - /organisations/interieur
 incubator: lab-mi
@@ -13,6 +13,8 @@ phases:
   - name: investigation
     start: 2023-01-16
     end: 2023-06-20
+thematiques:
+  - Administratif
 ---
 ## Contexte
 

@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: octo
 previously:
-  - rdv-solidarites
+  - rdv-service-public
 teams:
   - /teams/communaute-dinum
 ---

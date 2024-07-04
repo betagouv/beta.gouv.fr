@@ -8,10 +8,8 @@ missions:
     end: 2016-09-16
     status: service
     employer: octo
-startups:
 previously:
   - api-entreprise
   - mps
 ---
-
 Quand tu veux abandonner, souviens-toi pourquoi tu as commencé.

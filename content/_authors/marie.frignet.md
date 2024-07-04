@@ -8,10 +8,10 @@ missions:
   - start: 2023-07-10
     end: 2024-07-21
     status: independent
-    employer: ''
+    startups:
+      - homologation
 startups:
   - homologation
 memberType: beta
 ---
-
 UXUI GRAPHIC WEB DESIGNER

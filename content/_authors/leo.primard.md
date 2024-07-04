@@ -5,8 +5,10 @@ domaine: Design
 link: https://www.twomorrow-project.com
 missions:
   - start: 2024-01-24
-    end: 2024-06-30
+    end: 2025-01-30
     status: independent
+    employer: Scopyleft
+    startups:
+      - nosgestesclimat
 memberType: beta
 ---
-

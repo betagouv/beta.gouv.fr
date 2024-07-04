@@ -8,8 +8,9 @@ missions:
     end: 2024-04-16
     status: admin
     employer: DIPLP
+    startups:
+      - asso.cie
 memberType: beta
 startups:
   - asso.cie
 ---
-

@@ -8,5 +8,4 @@ missions:
     status: independent
 memberType: beta
 ---
-
 Animatrice de réseaux le matin, CIP Bénévole l'après-midi

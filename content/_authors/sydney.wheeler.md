@@ -7,10 +7,11 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Octo / Malt
+    startups:
+      - zero-logement-vacant
 startups:
   - zero-logement-vacant
 memberType: beta
 previously:
   - zero-logement-vacant
 ---
-

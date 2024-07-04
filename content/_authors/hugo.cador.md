@@ -8,9 +8,9 @@ missions:
   - start: 2023-11-20
     end: 2024-07-20
     status: independent
-    employer: ''
+    startups:
+      - envergo
 startups:
   - envergo
 memberType: beta
 ---
-

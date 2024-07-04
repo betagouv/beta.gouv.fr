@@ -9,9 +9,7 @@ missions:
     end: 2017-11-30
     status: service
     employer: octo
-startups:
 previously:
   - mpal
 ---
-
 Développeur Ruby on Rails since 2007. &lt;3

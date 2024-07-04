@@ -9,8 +9,11 @@ missions:
     end: 2023-12-31
     status: service
     employer: ut7
-previously:
+  - start: 2024-06-01
+    end: 2024-12-31
+    status: service
+    employer: ut7
+startups:
   - eva
 ---
-
 Développeur avec du sens, adepte du TDD et des déploiements de logiciels fonctionnels

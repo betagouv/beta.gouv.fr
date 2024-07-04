@@ -5,9 +5,13 @@ domaine: Design
 github: olivier-marcellin
 missions:
   - start: 2022-03-14
-    end: 2024-06-30
+    end: 2024-05-03
     status: independent
     employer: scopopop
+    startups:
+      - competence.validee
+      - la-bonne-boite
+      - mes-aides
 startups:
   - mes-aides
   - competence.validee
@@ -15,5 +19,4 @@ startups:
 previously:
   - demarches-simplifiees.fr
 ---
-
 UX Designer

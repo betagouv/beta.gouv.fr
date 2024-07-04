@@ -1,5 +1,5 @@
 ---
-title: Zones irriguées et irrigables
+title: Zones irriguées et irrigables (Hydr'eau)
 mission: La préservation de la ressource en eau dans le domaine de l’irrigation agricole
 sponsors:
   - /organisations/ign
@@ -10,6 +10,9 @@ phases:
   - name: investigation
     start: 2023-09-04
     end: 2024-01-04
+thematiques:
+  - Écologie
+  - Agriculture
 ---
 ### **Le contexte**
 

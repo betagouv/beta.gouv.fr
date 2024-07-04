@@ -1,7 +1,7 @@
 ---
-fullname: Christopher LELEU
+fullname: Christopher Leleu
 role: Data
-domaine: Autre
+domaine: Data
 github: ChristopherLELEU
 missions:
   - start: 2022-10-03
@@ -10,5 +10,4 @@ missions:
     employer: ANSM
 memberType: autre
 ---
-
 Data

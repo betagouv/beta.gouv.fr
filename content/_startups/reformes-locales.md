@@ -9,10 +9,10 @@ phases:
     start: 2023-01-13
     end: 2023-05-02
 stats: false
-stats_url:
 contact: reformes-locales@anct.gouv.fr
+thematiques:
+  - Collectivités
 ---
-
 ## Contexte
 
 Les réglementations évoluent en continu et sur des thématiques variées (finances, affaires sociales, ...).

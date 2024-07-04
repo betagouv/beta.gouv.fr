@@ -8,11 +8,12 @@ missions:
     end: 2025-01-01
     status: independent
     employer: FAIRNESS
+    startups:
+      - reva
 startups:
   - reva
 memberType: beta
 previously:
   - apilos
 ---
-
-Je suis un support-héros 🦸‍♂️ 
+Je suis un support-héros 🦸‍♂️

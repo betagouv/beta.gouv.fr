@@ -1,6 +1,6 @@
 ---
-fullname: CARINE NGO NDJOCK
-role: ADMINISTRATEUR DE MARCHE
+fullname: Carine Ngo Ndjock
+role: Administrateur de marché
 domaine: Autre
 missions:
   - start: 2022-02-14
@@ -10,4 +10,3 @@ missions:
 badges:
   - segur
 ---
-

@@ -7,10 +7,11 @@ missions:
     end: 2024-07-30
     status: admin
     employer: Association Aurore
+    startups:
+      - mano
 startups:
   - mano
 badges:
   - segur
 ---
-
-Infirmier / Porteur du projet MANO 
+Infirmier / Porteur du projet MANO

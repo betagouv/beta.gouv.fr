@@ -8,10 +8,8 @@ missions:
   - start: 2022-07-01
     end: 2024-08-31
     status: service
-    employer: ''
+    startups:
+      - snu
 startups:
   - snu
 ---
-
-
-

@@ -8,7 +8,8 @@ missions:
     end: 2023-03-31
     status: independent
     employer: INOPS
+    startups:
+      - travailler.en.france
 startups:
   - travailler.en.france
 ---
-

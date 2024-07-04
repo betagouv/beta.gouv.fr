@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Permettre la réalisation de comptes rendus par des agents - Architectes des
-  Bâtiments de France - lors de leurs rencontres avec les usagers.
+mission: Permettre la réalisation de comptes rendus par des agents - Architectes des Bâtiments de France - lors de leurs rencontres avec les usagers.
 incubator: culture
 title: Compte rendu vif
 contact: ateliernumerique.snum@culture.gouv.fr
@@ -11,6 +9,9 @@ phases:
     start: 2023-01-15
   - name: construction
     start: 2023-10-15
+repository: https://github.com/betagouv/compte-rendu-vif/
+thematiques:
+  - Patrimoine
 ---
 ## Contexte
 

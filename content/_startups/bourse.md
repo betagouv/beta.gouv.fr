@@ -1,9 +1,9 @@
 ---
 title: Bourse
 mission: Demander et liquider une bourse de collège en ligne
-sponsors: 
-    - /organisations/dinum
-    - /organisations/menjs
+sponsors:
+  - /organisations/menjs
+  - /organisations/dinum
 incubator: dinum
 events:
   - name: end
@@ -12,16 +12,15 @@ phases:
   - name: investigation
     start: 2015-03-01
   - name: construction
-    start: 2015-03-01    
+    start: 2015-03-01
   - name: alumni
-link:
+    start: 2018-01-01
 repository: https://github.com/betagouv/bourses/
 stats: false
 contact: contact@bourse.beta.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Abandon
 
 Le service est désormais fermé suite à la généralisation du [téléservice national](https://www.service-public.fr/particuliers/vosdroits/F984) qui a pu bénéficier d'un certain nombre d'apprentissages issus de cette expérimentation.

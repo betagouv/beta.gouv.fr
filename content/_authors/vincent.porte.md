@@ -9,8 +9,11 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - la.communaute.de.linclusion
+      - les-emplois
 startups:
   - la.communaute.de.linclusion
-  - itou
+  - les-emplois
 ---
 Entrepreneur Tech Data IA Menuisier le reste du temps

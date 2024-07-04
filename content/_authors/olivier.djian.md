@@ -1,8 +1,6 @@
 ---
 fullname: Olivier Djian
-role: >-
-  Responsable adjoint du laboratoire d&#39;innovation du Ministère de
-  l&#39;Intérieur
+role: Responsable adjoint du laboratoire d&#39;innovation du Ministère de l&#39;Intérieur
 domaine: Animation
 github: odjpromi
 missions:

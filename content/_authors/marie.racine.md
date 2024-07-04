@@ -7,9 +7,10 @@ missions:
     end: 2023-12-30
     status: admin
     employer: ADEME
+    startups:
+      - plusfraichemaville
 startups:
   - plusfraichemaville
 memberType: autre
 ---
-
 Apprentie urbaniste au pôle aménagement des villes et territoires de l'Ademe

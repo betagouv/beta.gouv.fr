@@ -8,8 +8,9 @@ missions:
     end: 2022-03-30
     status: service
     employer: Octo
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 ---
-
 👩‍💻👩‍💻

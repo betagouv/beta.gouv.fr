@@ -8,5 +8,4 @@ missions:
     status: admin
 memberType: beta
 ---
-
 UXUI Designer

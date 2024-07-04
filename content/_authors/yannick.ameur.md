@@ -9,11 +9,12 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Malt
+    startups:
+      - les-emplois
 memberType: autre
 startups:
-  - itou
+  - les-emplois
 previously:
   - carnet.de.bord
 ---
-
-Coach pour la planète. 
+Coach pour la planète.

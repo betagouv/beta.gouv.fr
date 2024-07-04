@@ -9,8 +9,9 @@ missions:
     end: 2025-01-06
     status: service
     employer: Nodesign.net
+    startups:
+      - tchap
 startups:
   - tchap
-
 ---
 Designer numérique et associé chez NoDesign.

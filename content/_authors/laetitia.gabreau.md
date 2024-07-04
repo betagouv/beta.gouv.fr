@@ -27,5 +27,4 @@ competences:
   - Gestion de Produit
   - Communication
 ---
-
 Passionnée par l'innovation sous toutes ses FoRmEs

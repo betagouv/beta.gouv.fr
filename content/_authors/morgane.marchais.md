@@ -7,7 +7,8 @@ missions:
     end: 2021-06-22
     status: admin
     employer: MSS
+    startups:
+      - recosante
 startups:
   - recosante
 ---
-

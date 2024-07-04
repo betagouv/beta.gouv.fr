@@ -7,8 +7,9 @@ missions:
     end: 2024-06-02
     status: independent
     employer: Malt
+    startups:
+      - tchap
 startups:
   - tchap
 memberType: dinum
 ---
-

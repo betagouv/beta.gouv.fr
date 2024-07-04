@@ -11,6 +11,4 @@ previously:
   - aidantsconnect
 badges:
   - segur
-
 ---
-''

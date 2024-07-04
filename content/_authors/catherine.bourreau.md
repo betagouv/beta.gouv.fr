@@ -6,9 +6,10 @@ link: https://southweb.fr/
 github: cathbaiona
 missions:
   - start: 2022-07-01
-    end: 2024-03-31
+    end: 2024-12-31
     status: independent
-    employer: ''
+    startups:
+      - tdb-apprentissage
 startups:
   - tdb-apprentissage
 badges:

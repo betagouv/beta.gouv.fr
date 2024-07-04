@@ -1,16 +1,16 @@
 ---
-fullname: Jean-Baptiste HAQUET
+fullname: Jean-Baptiste Haquet
 role: Intrapreneur en herbe
-domaine: Autre
+domaine: Intraprenariat
 missions:
   - start: 2022-06-29
     end: 2024-04-29
     status: admin
-    employer: ''
+    startups:
+      - experts
 badges:
   - segur
 startups:
   - experts
 ---
-
 Magistrat depuis 1995, innovateur depuis 2022

@@ -9,4 +9,3 @@ missions:
     employer: Fabrique numérique des Armées
 memberType: beta
 ---
-
