@@ -26,9 +26,8 @@ additional_js:
       <li>qui <b>résolvent réellement les problème</b> des citoyennes et des citoyens,</li>
       <li>en ayant un <b>impact direct sur leur vie quotidienne</b>.</li>
       </ul>
-      <p>
-      Afin d'évaluer notre succès, nous dénombrons chaque année le <b>nombre de <a href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/services-numeriques-a-impact-national">services publics numériques ayant un impact national</a></b> conçus dans le programme beta.gouv.fr.
-      </p>
+      <p>Chaque année, nous dénombrons les services conçus dans le programme beta.gouv.fr ayant atteint un <a href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/services-numeriques-a-impact-national">impact national</a>.</p>
+      <p><a href="/startups/?national_impact=true" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir nos produits à impact national</a></p>
     </div>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
