@@ -1,5 +1,5 @@
 ---
-fullname: Béatrice
+fullname: Béatrice Neyrac
 role: Intrapreneuse
 domaine: Intraprenariat
 missions:
