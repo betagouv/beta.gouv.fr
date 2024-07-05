@@ -9,7 +9,7 @@ contact: carte-verte@beta.gouv.fr
 link: https://carte-verte.beta.gouv.fr
 repository: https://github.com/incubateur-ademe/carte-verte
 accessibility_status: non conforme
-dashlord_url: https://incubateur-ademe.github.io/dashlord/url/carte-verte-beta-gouv-fr/
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/url/carte-verte-beta-gouv-fr/
 stats: true
 stats_url: https://carte-verte.beta.gouv.fr/stats
 budget_url: https://carte-verte.beta.gouv.fr/budget

@@ -9,7 +9,7 @@ contact: contact@nosgestesclimat.fr
 link: https://nosgestesclimat.fr/
 repository: https://github.com/incubateur-ademe/nosgestesclimat
 accessibility_status: partiellement conforme
-dashlord_url: https://incubateur-ademe.github.io/dashlord/url/nosgestesclimat-fr/
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/url/nosgestesclimat-fr/
 stats: true
 stats_url: https://nosgestesclimat.fr/stats
 budget_url: https://nosgestesclimat.fr/budget

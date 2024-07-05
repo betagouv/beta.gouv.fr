@@ -9,12 +9,18 @@ contact: impactco2@ademe.fr
 link: https://impactco2.fr/
 repository: https://github.com/incubateur-ademe/impactco2
 accessibility_status: partiellement conforme
-dashlord_url: https://incubateur-ademe.github.io/dashlord/url/impactco2-fr/
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/impact.co2
 stats: true
 stats_url: https://impactco2.fr/stats
 budget_url: https://impactco2.fr/budget
 analyse_risques: true
 analyse_risques_url: https://github.com/incubateur-ademe/impactco2/blob/main/SECURITY.md
+events:
+  - name: committee
+    date: 2023-10-25
+    comment: Comité d’investissement d’automne
+  - name: committee
+    date: 2024-06-11
 phases:
   - name: construction
     start: 2021-02-01

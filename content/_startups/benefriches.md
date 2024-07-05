@@ -12,7 +12,7 @@ contact: laurent.chateau@ademe.fr
 link: https://benefriches.ademe.fr/
 repository: https://github.com/incubateur-ademe/benefriches
 accessibility_status: non conforme
-dashlord_url: https://incubateur-ademe.github.io/dashlord/url/benefriches-ademe-fr/
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/url/benefriches-ademe-fr/
 stats: true
 stats_url: https://benefriches.ademe.fr/stats
 budget_url: https://benefriches.ademe.fr/budget

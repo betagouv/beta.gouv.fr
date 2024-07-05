@@ -9,7 +9,7 @@ repository: https://github.com/incubateur-ademe/quefairedemesobjets
 contact: longuevieauxobjets@ademe.fr
 stats: false
 budget_url: https://longuevieauxobjets.ademe.fr/budget/
-dashlord_url: https://incubateur-ademe.github.io/dashlord/url/longuevieauxobjets-ademe-fr/
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/url/longuevieauxobjets-ademe-fr/
 analyse_risques: true
 accessibility_status: non conforme
 redirect_from:
@@ -61,7 +61,7 @@ Nous avons aussi l'ambition de rendre progressivement toutes nos  **données acc
 
 Pour augmenter la diffusion de nos outils et démultiplier leur usage, nous nous appuyons sur une stratégie B2B2C, avec des **relais locaux, collectivités, associations et entreprises**.
 
-Nos objectifs pour nos relais sont : 
+Nos objectifs pour nos relais sont :
 - **Collectivités** : Communiquer facilement auprès de leurs administrés sur les lieux de réparation, réemploi ou recyclage.
 - **Médias** : Donner des pistes d'action concrètes à leurs lecteurs pour réduire leurs déchets en prolongeant la vie de leurs objets.
 - **Associations et entreprises** : Incarner leurs engagements en faveur du réemploi.
@@ -70,4 +70,4 @@ La carte a été mise en avant lors de la campagne de communication de l’ADEME
 
 Nous prévoyons un déploiement progressif de nos outils sur les sites des collectivités pour toucher leurs usagers, en commençant par les collectivités de tailles petite et moyenne, n’ayant pas de solutions numériques ou incomplètes sur ce sujet.
 
-Comme point d’entrée unique pour les citoyens, nous nous appuyons sur l'outil “[Que faire de mes objets & déchets](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv)” connu depuis 10 ans, relayé chaque année par des campagnes ministérielles et mentionné sur les étiquettes de nombreux objets, pour toucher le maximum de citoyens. 
+Comme point d’entrée unique pour les citoyens, nous nous appuyons sur l'outil “[Que faire de mes objets & déchets](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv)” connu depuis 10 ans, relayé chaque année par des campagnes ministérielles et mentionné sur les étiquettes de nombreux objets, pour toucher le maximum de citoyens.
