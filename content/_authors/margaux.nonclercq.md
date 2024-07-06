@@ -10,6 +10,12 @@ missions:
   - start: 2023-01-15
     end: 2024-12-31
     status: service
+    startups:
+      - chauffage-urbain
+      - enfants-du-spectacle
+      - faritas
+      - france.nation.verte.agir
+      - poe.facilite
 startups:
   - france.nation.verte.agir
 previously:

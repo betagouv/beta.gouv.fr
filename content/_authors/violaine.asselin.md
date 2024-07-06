@@ -9,7 +9,10 @@ missions:
     status: admin
     employer: independent
     startups:
+      - anotea
       - pilotagevoiepro
+      - sirius
+      - tdb-apprentissage
 startups:
   - pilotagevoiepro
 previously:

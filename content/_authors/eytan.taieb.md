@@ -7,7 +7,8 @@ missions:
     end: 2016-07-08
     status: admin
     employer: education-nationale
-startups: null
+    startups:
+      - open-academie
 previously:
   - open-academie
 ---

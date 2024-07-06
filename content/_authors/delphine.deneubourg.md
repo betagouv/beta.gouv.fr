@@ -8,6 +8,8 @@ missions:
     end: 2023-12-31
     status: admin
     employer: Ministère de la Justice
+    startups:
+      - mon-suivi-justice
 teams:
   - /teams/justice
 previously:

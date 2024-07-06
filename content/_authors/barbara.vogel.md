@@ -7,8 +7,8 @@ missions:
   - start: 2023-04-12
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
+      - prevention_ruptures_apprentissage
       - tdb-apprentissage
 memberType: autre
 startups:

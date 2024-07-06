@@ -8,6 +8,9 @@ missions:
     end: 2024-07-11
     status: independent
     employer: Pôle emploi
+    startups:
+      - competence.validee
+      - encyclopedie-des-metiers
 memberType: beta
 previously:
   - encyclopedie-des-metiers

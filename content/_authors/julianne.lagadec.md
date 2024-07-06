@@ -8,12 +8,15 @@ missions:
   - start: 2021-04-01
     end: 2024-12-31
     status: admin
-    employer: ''
     startups:
-      - sirius
+      - dematapprentissage
       - exposition-ij
       - investigation-ij
+      - la-bonne-alternance
       - pilotagevoiepro
+      - sirius
+      - tdb-apprentissage
+      - voeux-apprentissage
 startups:
   - sirius
   - exposition-ij

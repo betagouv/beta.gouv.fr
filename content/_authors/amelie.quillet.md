@@ -9,8 +9,9 @@ missions:
     status: independent
     employer: LBC
     startups:
-      - urbanvitaliz
+      - aides-territoires
       - recommandations-collaboratives
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives

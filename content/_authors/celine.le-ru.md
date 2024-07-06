@@ -9,6 +9,8 @@ missions:
     status: service
     employer: OCTO
     startups:
+      - domifa
+      - e-mjpm
       - la-bonne-boite
 startups:
   - la-bonne-boite

@@ -9,6 +9,7 @@ missions:
     employer: Octo
     startups:
       - dora
+      - la.communaute.de.linclusion
 startups:
   - dora
 previously:

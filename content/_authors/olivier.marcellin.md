@@ -9,9 +9,10 @@ missions:
     status: independent
     employer: scopopop
     startups:
-      - mes-aides
       - competence.validee
+      - demarches-simplifiees.fr
       - la-bonne-boite
+      - mes-aides
 startups:
   - mes-aides
   - competence.validee

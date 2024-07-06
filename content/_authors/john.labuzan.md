@@ -11,15 +11,18 @@ missions:
     status: independent
     employer: Numa
     startups:
+      - aides-territoires
+      - apilos
+      - boursoloco
       - chauffage-urbain
+      - commun.orientation
       - conseillers-entreprises
+      - jeveuxaider
       - lannuaire.des.collectivites
       - mediature
-      - signalement
-      - aides-territoires
-      - boursoloco
       - mon.espace.collectivite
       - nosgestesclimat
+      - signalement
 startups:
   - chauffage-urbain
   - conseillers-entreprises

@@ -24,6 +24,14 @@ missions:
     end: 2024-12-31
     status: admin
     employer: dinum
+    startups:
+      - logement-crise
+      - pass.engagement.jeune
+      - setaccords
+      - territoires-en-transitions
+      - valorisation.des.stages.pro
+      - visam
+      - zam
 incubator: dinum
 startups:
   - valorisation.des.stages.pro

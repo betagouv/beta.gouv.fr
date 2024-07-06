@@ -5,11 +5,13 @@ domaine: Développement
 github: yaf
 link: https://elsif.fr
 missions:
-  - employer: Scopyleft
+  - start: 2018-12-12
     end: 2023-03-31
-    start: 2018-12-12
     status: service
-startups: null
+    employer: Scopyleft
+    startups:
+      - dossiersco
+      - rdv-service-public
 previously:
   - rdv-service-public
   - dossiersco

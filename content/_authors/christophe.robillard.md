@@ -12,6 +12,8 @@ missions:
     employer: LaZone
     startups:
       - demarches-simplifiees.fr
+      - dossiersco
+      - mpal
 startups:
   - demarches-simplifiees.fr
 previously:

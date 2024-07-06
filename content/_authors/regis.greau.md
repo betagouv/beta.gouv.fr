@@ -7,6 +7,11 @@ missions:
     end: 2024-12-31
     status: admin
     employer: Pôle emploi
+    startups:
+      - clara
+      - la-bonne-boite
+      - mes-aides
+      - poe.facilite
 previously:
   - la-bonne-boite
   - poe.facilite

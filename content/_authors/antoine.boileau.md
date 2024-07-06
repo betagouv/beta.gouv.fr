@@ -7,7 +7,9 @@ missions:
     end: 2018-09-30
     status: service
     employer: octo
-startups: null
+    startups:
+      - conseillers-entreprises
+      - pix
 previously:
   - pix
   - conseillers-entreprises

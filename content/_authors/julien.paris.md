@@ -9,6 +9,8 @@ missions:
     end: 2024-05-30
     status: service
     employer: Malt
+    startups:
+      - transition-ecologique-des-entreprises
 previously:
   - transition-ecologique-des-entreprises
 memberType: autre

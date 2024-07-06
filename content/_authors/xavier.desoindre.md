@@ -10,7 +10,11 @@ missions:
     status: independent
     employer: UT7
     startups:
+      - aides.jeunes
+      - chauffage-urbain
       - impact.co2
+      - la.bonne.renov
+      - sante-psy-etudiant
 startups:
   - impact.co2
 previously:

@@ -10,6 +10,7 @@ missions:
     employer: Numa
     startups:
       - chauffage-urbain
+      - mon-suivi-social
 startups:
   - chauffage-urbain
 previously:

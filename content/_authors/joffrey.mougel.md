@@ -11,6 +11,7 @@ missions:
     employer: Inops
     startups:
       - les-emplois
+      - pilotage.de.linclusion
 startups:
   - les-emplois
 previously:

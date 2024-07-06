@@ -7,6 +7,7 @@ missions:
     end: 2020-12-31
     status: independent
     startups:
+      - e-chauffeur
       - metiis
 github: Rodrive
 startups:

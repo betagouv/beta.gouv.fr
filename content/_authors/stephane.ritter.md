@@ -10,10 +10,15 @@ missions:
     status: admin
     employer: Ministère de l'Intérieur
     startups:
-      - urgencevie
-      - fedel
-      - psij
+      - candilib
       - dialogue.operationnel
+      - fedel
+      - histovec
+      - jesaisfaire
+      - polex
+      - psij
+      - psp
+      - urgencevie
 startups:
   - urgencevie
   - fedel

@@ -20,6 +20,12 @@ missions:
     end: 2025-02-28
     status: independent
     employer: littlebigconnection+cadresenmission
+    startups:
+      - perspectives
+      - recosante
+      - romin
+      - signalement
+      - signaux-faibles
 startups:
   - romin
 previously:

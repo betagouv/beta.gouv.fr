@@ -12,6 +12,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Opteamis BPCO Mieux
+    startups:
+      - bpco
+      - nata
+      - teleconsultation.assistee
 startups:
   - nata
   - teleconsultation.assistee

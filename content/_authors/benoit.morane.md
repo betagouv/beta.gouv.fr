@@ -12,6 +12,9 @@ missions:
     end: 2022-01-31
     status: independent
     employer: Octo
+    startups:
+      - api.gouv.fr
+      - api-particulier
 startups:
   - api-particulier
   - api.gouv.fr

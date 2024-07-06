@@ -7,8 +7,9 @@ missions:
     end: 2017-10-30
     status: service
     employer: octo
+    startups:
+      - mpal
 github: thomaspepio
-startups: null
 previously:
   - mpal
 ---

@@ -11,6 +11,9 @@ missions:
     end: 2024-11-21
     status: admin
     employer: dinum
+    startups:
+      - le-taxi
+      - sante-psy-etudiant
 startups:
   - le-taxi
 previously:

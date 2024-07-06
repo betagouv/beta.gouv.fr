@@ -8,7 +8,8 @@ missions:
     end: 2018-05-09
     status: independent
     employer: Sogilis Lyon
-startups: null
+    startups:
+      - eac
 previously:
   - eac
 ---

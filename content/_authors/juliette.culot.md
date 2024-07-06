@@ -7,7 +7,8 @@ missions:
     end: 2018-12-31
     status: admin
     employer: DIRECCTE
-startups: null
+    startups:
+      - conseillers-entreprises
 previously:
   - conseillers-entreprises
 ---

@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Octo
     startups:
+      - aides.jeunes
       - tumeplay
 startups:
   - tumeplay

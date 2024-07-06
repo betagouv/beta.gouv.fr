@@ -13,5 +13,4 @@ badges:
 startups:
   - mon-diagnostic-artificialisation
 ---
-
 Le spartiate qui voulut mesurer l'artificialisation

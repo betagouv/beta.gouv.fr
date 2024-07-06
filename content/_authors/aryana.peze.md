@@ -8,7 +8,8 @@ missions:
     end: 2017-08-30
     status: service
     employer: octo
-startups: null
+    startups:
+      - mpal
 previously:
   - mpal
 ---

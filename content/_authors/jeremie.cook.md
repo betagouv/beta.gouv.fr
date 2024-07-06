@@ -13,7 +13,19 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - agora
+      - annuaire-entreprises
+      - classe-a-12
+      - codedutravail
+      - domifa
+      - enfants-du-spectacle
       - france.nation.verte.agir
+      - mes-aides
+      - monsuivipsy
+      - nosgestesclimat
+      - ozensemble
+      - preuve-de-covoiturage
+      - resorption-bidonvilles
 startups:
   - nosgestesclimat
   - agora

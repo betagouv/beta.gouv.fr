@@ -9,6 +9,7 @@ missions:
     employer: Malt
     startups:
       - france.nation.verte.agir
+      - snu
 startups:
   - snu
   - france.nation.verte.agir

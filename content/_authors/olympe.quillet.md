@@ -4,10 +4,12 @@ role: PO
 domaine: Produit
 github: oquillet
 missions:
-  - employer: Ippon Technologies
-    start: 2021-11-16
+  - start: 2021-11-16
     end: 2022-01-07
     status: service
+    employer: Ippon Technologies
+    startups:
+      - metiers-numeriques
 previously:
   - metiers-numeriques
 ---

@@ -9,7 +9,9 @@ missions:
     status: independent
     employer: Octo
     startups:
+      - carnet.de.bord
       - rdv.insertion
+      - signaux-faibles
 startups:
   - rdv.insertion
 previously:

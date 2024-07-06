@@ -17,7 +17,14 @@ missions:
     status: service
     employer: Ippon
     startups:
+      - apilos
+      - carte-verte
+      - dotations-locales
       - medistock
+      - mistral-penal
+      - mobicouts
+      - non-recours-spie
+      - qualite-eau
 startups:
   - mistral-penal
   - apilos

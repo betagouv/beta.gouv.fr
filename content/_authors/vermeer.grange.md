@@ -11,6 +11,11 @@ missions:
     end: 2024-12-31
     status: independent
     employer: octo
+    startups:
+      - la-bonne-alternance
+      - la-bonne-boite
+      - les-emplois
+      - pilotage.de.linclusion
 startups:
   - les-emplois
   - pilotage.de.linclusion

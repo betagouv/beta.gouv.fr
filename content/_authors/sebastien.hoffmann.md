@@ -8,9 +8,10 @@ missions:
   - start: 2021-07-16
     end: 2024-12-30
     status: independent
-    employer: ''
     startups:
+      - diagoriente
       - l-immersion-facile
+      - mon-recap
 startups:
   - l-immersion-facile
 previously:

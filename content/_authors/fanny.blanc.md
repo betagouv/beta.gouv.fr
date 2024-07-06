@@ -6,7 +6,6 @@ missions:
   - start: 2023-03-14
     end: 2024-09-30
     status: independent
-    employer: ''
 memberType: beta
 github: fannyblanc
 competences:

@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Omnicité
     startups:
+      - aidantsconnect
       - oots.once-only.technical.system
 badges:
   - segur

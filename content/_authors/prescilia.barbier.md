@@ -8,8 +8,8 @@ missions:
     status: service
     employer: DEUD Pôle emploi
     startups:
-      - mobiville
       - la-bonne-boite
+      - mobiville
 incubator: francetravail
 startups:
   - mobiville

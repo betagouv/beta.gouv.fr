@@ -16,6 +16,10 @@ missions:
     end: 2023-09-30
     status: independent
     employer: octo
+    startups:
+      - france-numerique-ensemble
+      - la-bonne-formation
+      - snu
 startups:
   - france-numerique-ensemble
 badges:

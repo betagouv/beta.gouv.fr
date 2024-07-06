@@ -9,8 +9,10 @@ missions:
     status: admin
     employer: Ministère des armées
     startups:
-      - usine-chatbots
+      - eoliennes
       - octopus
+      - puije
+      - usine-chatbots
 startups:
   - usine-chatbots
   - octopus

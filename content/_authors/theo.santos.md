@@ -9,6 +9,7 @@ missions:
     employer: Octo
     startups:
       - agora
+      - qualicharge
 previously:
   - qualicharge
 startups:

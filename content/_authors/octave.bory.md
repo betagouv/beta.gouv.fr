@@ -10,7 +10,15 @@ missions:
     status: independent
     employer: NUMA
     startups:
+      - acceslibre
+      - ban
+      - bases.adresses.locales
+      - estime
+      - homologation
+      - mon-diagnostic-artificialisation
       - portail-rse
+      - rim-culture
+      - signaux-faibles
 startups:
   - portail-rse
 previously:

@@ -7,8 +7,8 @@ missions:
   - start: 2021-05-16
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
+      - eva
       - reva
 startups:
   - reva

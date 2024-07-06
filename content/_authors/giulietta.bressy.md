@@ -11,6 +11,9 @@ missions:
     end: 2023-10-01
     status: independent
     employer: numa
+    startups:
+      - api-engagement
+      - jeveuxaider
 previously:
   - jeveuxaider
   - api-engagement

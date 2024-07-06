@@ -1,8 +1,6 @@
 ---
 title: PCRS
-mission: >-
-  Accompagner les collectivités pour mettre en place puis piloter leur projet de
-  Plan Corps de Rue Simplifié
+mission: Accompagner les collectivités pour mettre en place puis piloter leur projet de Plan Corps de Rue Simplifié
 sponsors:
   - /organisations/anct
 incubator: anct

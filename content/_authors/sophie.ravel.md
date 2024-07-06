@@ -8,6 +8,8 @@ missions:
     end: 2022-03-31
     status: admin
     employer: DINUM
+    startups:
+      - metiers-numeriques
 previously:
   - metiers-numeriques
 badges:

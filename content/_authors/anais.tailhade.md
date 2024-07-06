@@ -9,10 +9,15 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - moncomptepro
       - annuaire-entreprises
-      - suite-numerique
+      - api.gouv.fr
+      - api-particulier
       - authentification
+      - data.gouv.fr
+      - datapass
+      - moncomptepro
+      - oots.once-only.technical.system
+      - suite-numerique
 badges:
   - segur
 startups:

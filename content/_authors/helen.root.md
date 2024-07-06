@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Scopyleft
     startups:
+      - datagir
       - ma-cantine-egalim
 startups:
   - ma-cantine-egalim

@@ -10,6 +10,7 @@ missions:
     startups:
       - agents.en.intervention
       - espace.sur.demande
+      - lannuaire.des.collectivites
 startups:
   - lannuaire.des.collectivites
   - espace.sur.demande

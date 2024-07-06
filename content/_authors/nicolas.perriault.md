@@ -21,6 +21,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Pathtech
+    startups:
+      - acceslibre
+      - ecobalyse
+      - egalite.professionnelle
 startups:
   - ecobalyse
 previously:

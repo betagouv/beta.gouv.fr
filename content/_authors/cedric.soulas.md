@@ -13,6 +13,8 @@ missions:
     end: 2024-08-31
     status: independent
     employer: opteamis
+    startups:
+      - reva
   - start: 2023-10-01
     end: 2024-06-30
     status: independent

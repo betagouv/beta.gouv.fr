@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: malt
     startups:
+      - aides-territoires
       - chauffage-urbain
 startups:
   - chauffage-urbain

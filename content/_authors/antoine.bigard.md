@@ -9,10 +9,11 @@ missions:
     status: independent
     employer: ut7
     startups:
+      - api.apprentissage
+      - boite.aux.lettres
       - catalogue-apprentissage
       - dematapprentissage
-      - boite.aux.lettres
-      - api.apprentissage
+      - pop
 startups:
   - catalogue-apprentissage
   - dematapprentissage

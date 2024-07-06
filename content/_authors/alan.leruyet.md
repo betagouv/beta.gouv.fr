@@ -12,6 +12,9 @@ missions:
     end: 2025-06-30
     status: independent
     employer: mission-apprentissage
+    startups:
+      - la-bonne-alternance
+      - memo
 startups:
   - la-bonne-alternance
 previously:

@@ -12,6 +12,9 @@ missions:
     end: 2024-09-01
     status: independent
     employer: numa
+    startups:
+      - recosante
+      - territoires-en-transitions
 previously:
   - territoires-en-transitions
   - recosante

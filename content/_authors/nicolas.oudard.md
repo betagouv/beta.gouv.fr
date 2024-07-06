@@ -12,6 +12,7 @@ missions:
     startups:
       - apilos
       - longuevieauxobjets
+      - sppnaut
 startups:
   - apilos
   - longuevieauxobjets

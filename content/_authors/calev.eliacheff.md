@@ -12,6 +12,9 @@ missions:
     end: 2022-09-15
     status: independent
     employer: octo
+    startups:
+      - acceslibre
+      - tchap
 startups:
   - tchap
 previously:

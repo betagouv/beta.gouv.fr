@@ -6,6 +6,8 @@ missions:
   - start: 2023-03-27
     end: 2024-07-31
     status: admin
+    startups:
+      - dossierfacile
 startups:
   - dossierfacile
 memberType: autre

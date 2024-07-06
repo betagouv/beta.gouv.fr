@@ -7,8 +7,8 @@ missions:
   - start: 2023-05-03
     end: 2026-10-29
     status: independent
-    employer: ''
     startups:
+      - dora
       - mon-recap
 startups:
   - mon-recap

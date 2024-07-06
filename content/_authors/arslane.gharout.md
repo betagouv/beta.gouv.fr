@@ -12,6 +12,12 @@ missions:
     end: 2024-08-19
     status: independent
     employer: malt
+    startups:
+      - api-entreprise
+      - api.gouv.fr
+      - api-particulier
+      - datapass
+      - territoires-en-transitions
 startups:
   - api.gouv.fr
   - api-entreprise
@@ -21,4 +27,3 @@ previously:
   - territoires-en-transitions
 memberType: beta
 ---
-

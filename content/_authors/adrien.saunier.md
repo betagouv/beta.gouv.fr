@@ -9,6 +9,7 @@ missions:
     employer: octo
     startups:
       - pass-culture
+      - pix
 startups:
   - pass-culture
 previously:

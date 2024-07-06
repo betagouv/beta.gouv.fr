@@ -6,15 +6,21 @@ github: Anna-Livia
 avatar: https://avatars3.githubusercontent.com/Anna-Livia?s=600
 link: https://www.linkedin.com/in/anna-livia-gomart-0789065/
 missions:
-  - employer: octo
-    status: independent
-    start: 2017-05-18
+  - start: 2017-05-18
     end: 2021-03-12
-  - employer: dinum
-    status: admin
-    start: 2021-03-15
+    status: independent
+    employer: octo
+  - start: 2021-03-15
     end: 2027-03-14
-startups: null
+    status: admin
+    employer: dinum
+    startups:
+      - aidantsconnect
+      - api.gouv.fr
+      - api-particulier
+      - datapass
+      - openfisca
+      - tchap
 previously:
   - openfisca
   - api.gouv.fr

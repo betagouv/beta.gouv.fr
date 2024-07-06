@@ -8,7 +8,6 @@ missions:
   - start: 2023-05-23
     end: 2024-07-31
     status: independent
-    employer: ''
     startups:
       - eimis
 startups:

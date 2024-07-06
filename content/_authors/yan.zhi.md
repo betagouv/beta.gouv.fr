@@ -6,6 +6,8 @@ missions:
   - start: 2023-09-01
     end: 2026-03-14
     status: admin
+    startups:
+      - fiche.commune.entreprise.fce
 memberType: dinum
 startups:
   - fiche.commune.entreprise.fce

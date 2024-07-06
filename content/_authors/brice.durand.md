@@ -10,6 +10,9 @@ missions:
   - start: 2023-04-24
     end: 2024-10-31
     status: independent
+    startups:
+      - collectif_objets
+      - monstage
 startups:
   - collectif_objets
 previously:

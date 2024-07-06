@@ -7,11 +7,20 @@ missions:
   - start: 2017-05-03
     end: 2020-01-01
     status: admin
-    employer: ''
   - start: 2020-01-02
     end: 2024-12-30
     status: independent
-    employer: ''
+    startups:
+      - dora
+      - estime
+      - inventaire.friches.agricoles
+      - la-bonne-alternance
+      - la-bonne-boite
+      - la-bonne-formation
+      - les-emplois
+      - place-de-marche-inclusion
+      - vigieau
+      - zen
 startups:
   - inventaire.friches.agricoles
   - vigieau

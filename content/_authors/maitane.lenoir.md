@@ -17,7 +17,13 @@ missions:
   - start: 2023-12-20
     end: 2024-12-31
     status: independent
-    employer: ''
+    startups:
+      - mon-entreprise
+      - pitchou
+      - sppnaut
+      - territoires-en-transitions
+      - visam
+      - zam
 startups:
   - pitchou
   - sppnaut

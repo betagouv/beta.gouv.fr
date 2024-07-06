@@ -10,7 +10,10 @@ missions:
     status: independent
     employer: ANCT
     startups:
+      - aides.jeunes
       - civils-de-la-defense
+      - demarches-simplifiees.fr
+      - rdv-service-public
 startups:
   - civils-de-la-defense
 previously:

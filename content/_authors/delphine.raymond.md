@@ -16,7 +16,9 @@ missions:
     status: independent
     employer: NUMA + Malt
     startups:
+      - cadransolaire
       - longuevieauxobjets
+      - potentiel
 incubator: mtes
 startups:
   - potentiel

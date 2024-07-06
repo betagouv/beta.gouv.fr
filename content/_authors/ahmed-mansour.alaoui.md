@@ -10,6 +10,7 @@ missions:
     employer: Octo
     startups:
       - l-application-du-cej
+      - pass-culture
 startups:
   - l-application-du-cej
 previously:

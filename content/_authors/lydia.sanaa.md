@@ -3,7 +3,6 @@ fullname: Lydia Sanaa
 domaine: Développement
 role: Développeuse
 github: lydiasan
-link: ''
 missions:
   - start: 2021-03-01
     end: 2022-03-01

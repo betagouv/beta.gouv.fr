@@ -10,6 +10,8 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - aquaculteurs.marins
+      - longuevieauxobjets
       - zero-logement-vacant
   - start: 2024-01-08
     end: 2024-12-05

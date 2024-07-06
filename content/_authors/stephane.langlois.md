@@ -9,6 +9,13 @@ missions:
     end: 2022-06-30
     status: independent
     employer: lazone/scopyleft
+    startups:
+      - classe-a-12
+      - comobi
+      - dossiersco
+      - ma-cantine-egalim
+      - recosante
+      - territoires-en-transitions
 github: pntbr
 previously:
   - recosante

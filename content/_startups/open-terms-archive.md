@@ -24,7 +24,6 @@ thematiques:
   - Open-Data
   - Démocratie
 ---
-
 [Open Terms Archive](https://opentermsarchive.org/fr/) est un outil libre et ouvert de suivi et d’archivage des évolutions des conditions générales d’utilisation des principaux fournisseurs de services en ligne qui vise à rééquilibrer le rapport de force avec les grandes plateformes.
 
 [Open Terms Archive](https://opentermsarchive.org/fr/) est un commun numérique qui archive publiquement les documents contractuels des fournisseurs de services en ligne, les rend lisibles, met en valeur les changements et fait circuler ceux-ci au sein de sa communauté pour analyse.

@@ -10,6 +10,7 @@ missions:
     status: independent
     employer: Octo
     startups:
+      - api.gouv.fr
       - ban
 startups:
   - ban

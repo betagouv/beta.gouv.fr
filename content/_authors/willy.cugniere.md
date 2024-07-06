@@ -8,6 +8,8 @@ missions:
     end: 2023-11-01
     status: independent
     employer: Octo
+    startups:
+      - aides.jeunes
 previously:
   - aides.jeunes
 badges:

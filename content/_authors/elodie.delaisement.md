@@ -8,6 +8,8 @@ missions:
     end: 2025-01-31
     status: independent
     employer: GIP PLATEFORME DE L'INCLUSION
+    startups:
+      - l-immersion-facile
 startups:
   - l-immersion-facile
 memberType: beta

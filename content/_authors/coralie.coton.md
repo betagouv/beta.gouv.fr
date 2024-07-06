@@ -8,8 +8,8 @@ missions:
   - start: 2023-09-18
     end: 2024-09-19
     status: independent
-    employer: ''
     startups:
+      - ecobalyse
       - envergo
       - seves
 competences:

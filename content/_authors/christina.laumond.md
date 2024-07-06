@@ -7,7 +7,8 @@ missions:
   - start: 2022-03-07
     end: 2024-01-31
     status: independent
-    employer: ''
+    startups:
+      - transport
 previously:
   - transport
 badges:

@@ -13,7 +13,11 @@ missions:
     end: 2030-05-19
     status: admin
     employer: DINUM
-    startups: []
+    startups:
+      - demarches-simplifiees.fr
+      - innovation-urbaine
+      - peps
+      - zero-logement-vacant
 previously:
   - demarches-simplifiees.fr
   - peps

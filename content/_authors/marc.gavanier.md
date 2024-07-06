@@ -11,6 +11,7 @@ missions:
     employer: Octo
     startups:
       - cartographie.nationale
+      - france-numerique-ensemble
       - les.bases
       - suite.d.outils.des.mediateurs.numeriques
 startups:

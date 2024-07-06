@@ -8,6 +8,13 @@ missions:
     end: 2024-06-30
     status: service
     employer: Pôle emploi
+    startups:
+      - anotea
+      - la-bonne-boite
+      - la-bonne-formation
+      - maintenant
+      - memo
+      - mobiville
 previously:
   - la-bonne-boite
   - la-bonne-formation

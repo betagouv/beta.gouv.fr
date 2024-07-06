@@ -11,7 +11,11 @@ missions:
     status: independent
     employer: lazone
     startups:
+      - api-drones
+      - data.gouv.fr
       - umap
+      - visam
+      - zam
 startups:
   - umap
 previously:

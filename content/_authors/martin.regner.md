@@ -9,6 +9,10 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ADEME
+    startups:
+      - datagir
+      - impact.co2
+      - nosgestesclimat
 teams:
   - /teams/ademe
 previously:

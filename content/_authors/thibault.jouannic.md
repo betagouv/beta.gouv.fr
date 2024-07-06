@@ -8,8 +8,8 @@ missions:
   - start: 2018-08-01
     end: 2034-06-30
     status: independent
-    employer: ''
     startups:
+      - aides-territoires
       - envergo
 startups:
   - envergo

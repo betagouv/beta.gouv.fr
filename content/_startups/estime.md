@@ -1,8 +1,6 @@
 ---
 title: Estime
-mission: >-
-  Soutenir la reprise d'activité des personnes en demande d'emploi en facilitant
-  l'accès à l'information concernant les aides financières
+mission: Soutenir la reprise d'activité des personnes en demande d'emploi en facilitant l'accès à l'information concernant les aides financières
 sponsors:
   - /organisations/francetravail
 incubator: francetravail
@@ -15,9 +13,7 @@ stats: false
 events:
   - name: product_launch
     date: 2021-01-07
-    comment: >-
-      La première version du site est ouverte aux Demandeurs d'Emploi
-      bénéficiaires de l'Allocation de Solidarité Spécifique.
+    comment: La première version du site est ouverte aux Demandeurs d'Emploi bénéficiaires de l'Allocation de Solidarité Spécifique.
 phases:
   - name: investigation
     start: 2020-04-01
@@ -31,7 +27,6 @@ phases:
     start: 2022-12-30
   - name: success
     start: 2023-01-19
-# stats_url: https://candidat.pole-emploi.fr/simucalculreprise/stats
 accessibility_status: non conforme
 ---
 **Problème**

@@ -8,9 +8,10 @@ missions:
   - start: 2020-04-01
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - a-just
+      - mobiville
+      - zen
 avatar: /img/authors/francois-xavier.montigny.jpg
 startups:
   - a-just

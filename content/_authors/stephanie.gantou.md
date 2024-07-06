@@ -9,6 +9,7 @@ missions:
     employer: Pôle emploi
     startups:
       - encyclopedie-des-metiers
+      - labonneplace
 startups:
   - encyclopedie-des-metiers
 previously:

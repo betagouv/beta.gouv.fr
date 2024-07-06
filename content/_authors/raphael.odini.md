@@ -10,6 +10,8 @@ missions:
     status: independent
     employer: octo
     startups:
+      - aidantsconnect
+      - aides-territoires
       - place-de-marche-inclusion
 startups:
   - place-de-marche-inclusion

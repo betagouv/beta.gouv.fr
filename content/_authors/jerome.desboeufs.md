@@ -16,6 +16,14 @@ missions:
     end: 2024-12-31
     status: service
     employer: Living Data
+    startups:
+      - api-geo
+      - api.gouv.fr
+      - ban
+      - geo.data.gouv.fr
+      - mes-aides
+      - pcrs
+      - urbaclic
 startups:
   - pcrs
 previously:
@@ -25,6 +33,5 @@ previously:
   - mes-aides
   - api.gouv.fr
   - geo.data.gouv.fr
-badges: null
 ---
 Repenser l'administration avec le numérique pour améliorer le service public

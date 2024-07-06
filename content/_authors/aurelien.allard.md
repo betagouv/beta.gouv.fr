@@ -9,6 +9,8 @@ missions:
     end: 2022-10-13
     status: independent
     employer: Octo
+    startups:
+      - data-inclusion
 previously:
   - data-inclusion
 badges:

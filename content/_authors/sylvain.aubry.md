@@ -10,6 +10,7 @@ missions:
     status: independent
     employer: Octo Technology
     startups:
+      - dora
       - les.bases
       - suite.d.outils.des.mediateurs.numeriques
 badges:

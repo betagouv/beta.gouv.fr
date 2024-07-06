@@ -9,7 +9,10 @@ missions:
     end: 2020-12-31
     status: independent
     startups:
+      - eac
+      - jeveuxaider
       - ozensemble
+      - pop
 startups:
   - ozensemble
 previously:

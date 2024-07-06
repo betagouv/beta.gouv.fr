@@ -12,6 +12,12 @@ missions:
     end: 2024-09-30
     status: independent
     employer: octo, malt
+    startups:
+      - api-entreprise
+      - api.gouv.fr
+      - api-particulier
+      - datapass
+      - mps
 startups:
   - api.gouv.fr
   - api-entreprise

@@ -16,7 +16,12 @@ missions:
     status: independent
     employer: Ippon Technologies
     startups:
+      - aides.jeunes
+      - camino
+      - dotations-locales
+      - leximpact
       - openfisca
+      - reformes-locales
 startups:
   - openfisca
   - leximpact

@@ -9,6 +9,8 @@ missions:
     end: 2021-10-29
     status: independent
     employer: octo
+    startups:
+      - carnet.de.bord
 previously:
   - carnet.de.bord
 competences:

@@ -8,6 +8,9 @@ missions:
     end: 2027-04-01
     status: admin
     employer: Plateforme de l'inclusion
+    startups:
+      - e-chauffeur
+      - octopus
 previously:
   - e-chauffeur
   - octopus

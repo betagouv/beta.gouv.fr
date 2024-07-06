@@ -10,6 +10,7 @@ missions:
     employer: DGCCRF
     startups:
       - perspectives
+      - signalement
 startups:
   - perspectives
 previously:

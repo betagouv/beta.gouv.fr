@@ -10,6 +10,7 @@ missions:
     employer: Octo Technology
     startups:
       - l-application-du-cej
+      - moncomptepro
 startups:
   - l-application-du-cej
 previously:

@@ -16,8 +16,10 @@ missions:
     end: 2025-09-30
     status: service
     employer: lazone/solstice
+    startups:
+      - cartobio
+      - data.gouv.fr
 link: https://détour.studio
-startups:
 previously:
   - cartobio
   - data.gouv.fr

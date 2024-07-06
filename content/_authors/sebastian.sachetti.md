@@ -7,7 +7,13 @@ missions:
     end: 2018-06-01
     status: admin
     employer: dinum
-startups: null
+    startups:
+      - api-particulier
+      - aplus
+      - demarches-simplifiees.fr
+      - mrs
+      - pass-culture
+      - plante-et-moi
 previously:
   - mrs
   - pass-culture

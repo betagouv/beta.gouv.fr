@@ -9,6 +9,8 @@ missions:
     status: service
     employer: free
     startups:
+      - monstage
+      - pix
       - reva
 startups:
   - reva

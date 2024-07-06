@@ -10,6 +10,8 @@ missions:
     employer: DIRISI
     startups:
       - athena
+      - cassiopee
+      - civils-de-la-defense
       - reva
 startups:
   - athena

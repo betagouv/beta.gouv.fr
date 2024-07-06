@@ -11,6 +11,8 @@ missions:
     end: 2024-08-31
     status: independent
     employer: Démarches-simplifiées
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
 ---

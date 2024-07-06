@@ -3,7 +3,6 @@ fullname: Joël Pagniez
 domaine: Coaching
 role: Coach
 github: JoelPagniez
-avatar: null
 link: https://www.linkedin.com/in/joel-pagniez-0941b687/
 missions:
   - start: 2019-11-26
@@ -11,6 +10,7 @@ missions:
     status: admin
     employer: Lab-MI
     startups:
+      - candilib
       - psij
 startups:
   - psij

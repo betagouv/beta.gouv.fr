@@ -16,6 +16,12 @@ missions:
     end: 2025-01-31
     status: independent
     employer: NUMA
+    startups:
+      - aides.jeunes
+      - artsducirque
+      - inventaire.zae
+      - mission.debroussaillement
+      - monprojetsup
 incubator: fab-geocommuns
 startups:
   - mission.debroussaillement

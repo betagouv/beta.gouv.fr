@@ -8,6 +8,7 @@ missions:
     status: independent
     employer: Octo
     startups:
+      - les-emplois
       - place-de-marche-inclusion
 startups:
   - place-de-marche-inclusion

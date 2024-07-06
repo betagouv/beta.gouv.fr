@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Eviter les ruptures de droit des réfugiés en permettant aux agents de mieux
-  travailler
+mission: Eviter les ruptures de droit des réfugiés en permettant aux agents de mieux travailler
 incubator: dinum
 title: Civil.ia
 contact: charlotte.lemahieu@ofpra.gouv.fr

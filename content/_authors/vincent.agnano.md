@@ -10,7 +10,13 @@ missions:
     end: 2024-12-31
     status: service
     employer: lazone
-startups: null
+    startups:
+      - api-drones
+      - auvol
+      - classe-a-12
+      - data.gouv.fr
+      - eac
+      - egalite.professionnelle
 previously:
   - egalite.professionnelle
   - classe-a-12

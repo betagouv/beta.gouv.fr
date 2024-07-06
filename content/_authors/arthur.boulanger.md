@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Inop's
     startups:
+      - estime
       - estime.formation
 startups:
   - estime.formation

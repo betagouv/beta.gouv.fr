@@ -7,8 +7,9 @@ missions:
   - start: 2024-04-15
     end: 2024-12-31
     status: service
-    employer: 
     startups:
+      - 1000.jours
+      - archifiltre
       - france-numerique-ensemble
 startups:
   - france-numerique-ensemble

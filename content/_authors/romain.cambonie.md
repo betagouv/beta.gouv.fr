@@ -17,6 +17,9 @@ missions:
     end: 2023-03-31
     status: independent
     employer: Octo
+    startups:
+      - france-numerique-ensemble
+      - l-immersion-facile
 startups:
   - l-immersion-facile
 previously:
@@ -24,5 +27,4 @@ previously:
 badges:
   - segur
 ---
-
 Sauvons la planête, un commit à la fois :) !

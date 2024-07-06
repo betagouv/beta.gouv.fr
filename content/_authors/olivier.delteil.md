@@ -11,6 +11,9 @@ missions:
     end: 2024-12-31
     status: admin
     employer: dinum
+    startups:
+      - acceslibre
+      - ban
 startups:
   - ban
 previously:

@@ -7,7 +7,9 @@ missions:
     end: 2017-10-31
     status: admin
     employer: dinum
-startups: null
+    startups:
+      - conseillers-entreprises
+      - signaux-faibles
 previously:
   - conseillers-entreprises
   - signaux-faibles

@@ -12,6 +12,8 @@ missions:
     end: 2023-02-28
     status: admin
     employer: dinum
+    startups:
+      - data.gouv.fr
 startups:
   - data.gouv.fr
 ---

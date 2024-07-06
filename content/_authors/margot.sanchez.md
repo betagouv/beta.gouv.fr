@@ -28,6 +28,14 @@ missions:
     end: 2024-12-31
     status: admin
     employer: DINUM
+    startups:
+      - agora
+      - ban
+      - datagir
+      - impact.co2
+      - preuve-de-covoiturage
+      - territoires-en-transitions
+      - transport
 previously:
   - transport
   - preuve-de-covoiturage

@@ -13,6 +13,8 @@ missions:
     end: 2026-09-01
     status: service
     employer: TelesCoop
+    startups:
+      - e-inspé
 startups:
   - e-inspé
 ---

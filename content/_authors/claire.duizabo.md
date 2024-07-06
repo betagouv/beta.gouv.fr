@@ -8,9 +8,10 @@ missions:
     status: independent
     employer: Numa
     startups:
+      - 1000.premiers.jours.blues
+      - mano
       - nosgestesclimat
       - refugies.info
-      - mano
 memberType: beta
 startups:
   - nosgestesclimat

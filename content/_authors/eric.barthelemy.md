@@ -8,7 +8,10 @@ missions:
     status: admin
     employer: pole-emploi
     startups:
+      - la-bonne-alternance
+      - la-bonne-boite
       - les-emplois
+      - memo
 startups:
   - les-emplois
 previously:

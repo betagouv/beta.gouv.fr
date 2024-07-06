@@ -7,11 +7,19 @@ missions:
   - start: 2019-02-04
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
-      - urbanvitaliz
-      - recommandations-collaboratives
+      - auto-partage
+      - cartobio
+      - comobi
+      - data.gouv.fr
+      - eva
+      - innovation-urbaine
+      - participation-citoyenne
       - pitchou
+      - recommandations-collaboratives
+      - tout-est-permis
+      - transport
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives

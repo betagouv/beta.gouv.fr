@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer
-  la qualité de service rendu aux justiciables
+mission: Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer la qualité de service rendu aux justiciables
 incubator: justice
 title: Précontentieux justice
 contact: sylvie.voko@justice.gouv.fr

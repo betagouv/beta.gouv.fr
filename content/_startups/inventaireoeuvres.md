@@ -1,6 +1,6 @@
 ---
 title: Inventaire des œuvres d'art
-mission: Optimiser la gestion des dépôts des biens culturels de l’Etat chez les dépositaires en assurant une meilleure traçabilité entre deux récolements. Eviter les pertes et faciliter les redécouvertes. 
+mission: Optimiser la gestion des dépôts des biens culturels de l’Etat chez les dépositaires en assurant une meilleure traçabilité entre deux récolements. Eviter les pertes et faciliter les redécouvertes.
 sponsors:
   - /organisations/mc
 incubator: culture
@@ -12,7 +12,6 @@ phases:
 contact: ateliernumerique.snum@culture.gouv.fr
 stats: true
 ---
-
 ## Problème de départ
 Les rapports de récolement reçus par la MSRDOA font état d'un nombre important de biens non localisés lors des opérations de récolement (45 % sur l'ensemble des rapports reçus en 2020). Ces biens sont rarement retrouvés et peu font l'objet de dépôts de plaintes. 
 Face à ce constat, la MSRDOA a postulé à l’appel à projet lancé par l’Atelier numérique du ministère de la culture. Exposant la problématique identifiée, une des solutions envisagées serait la mise en ligne des données relatives aux œuvres d’art de l’Etat recherchées (les dépôts dans un premier temps) pour permettre aux acteurs du marché de l’art, aux agents du ministère de la culture, aux services de police et aux citoyens d’avoir un accès unique à des informations actualisées et fiables sur ces œuvres et, le cas échéant, de les identifier. 

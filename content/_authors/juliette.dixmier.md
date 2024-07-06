@@ -10,6 +10,7 @@ missions:
     employer: Octo
     startups:
       - eimis
+      - tchap
 startups:
   - eimis
 previously:

@@ -10,6 +10,7 @@ missions:
     status: independent
     employer: Opteamis
     startups:
+      - dora
       - signalement
 startups:
   - signalement

@@ -10,7 +10,9 @@ missions:
     status: service
     employer: AD-HOC Lab
     startups:
+      - conseillers-entreprises
       - diagoriente
+      - eva
 startups:
   - diagoriente
 previously:

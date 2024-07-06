@@ -9,7 +9,10 @@ missions:
     status: independent
     employer: Pole emploi
     startups:
+      - estime
       - l-application-du-cej
+      - mes-evenements-emploi
+      - mobiville
 startups:
   - l-application-du-cej
 previously:

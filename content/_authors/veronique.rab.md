@@ -8,8 +8,9 @@ missions:
     end: 2024-12-23
     status: admin
     employer: URSSAF Caisse nationale
+    startups:
+      - mon-entreprise
 startups:
   - mon-entreprise
 memberType: autre
 ---
-

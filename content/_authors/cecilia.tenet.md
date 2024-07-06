@@ -7,6 +7,8 @@ missions:
     end: 2021-10-22
     status: service
     employer: Sopra Steria Next
+    startups:
+      - solution.audiovisuelle.easi
 previously:
   - solution.audiovisuelle.easi
 badges:

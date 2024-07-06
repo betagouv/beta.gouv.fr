@@ -7,6 +7,8 @@ missions:
   - start: 2022-03-07
     end: 2023-01-31
     status: service
+    startups:
+      - eva
 previously:
   - eva
 ---

@@ -10,12 +10,16 @@ missions:
     status: independent
     employer: Little Big Connection
     startups:
-      - mediature
       - agents.en.intervention
+      - mediature
   - start: 2023-05-15
     end: 2024-10-17
     status: independent
     employer: Scopyleft
+    startups:
+      - agents.en.intervention
+      - mediature
+      - mon.espace.collectivite
 previously:
   - mediature
   - mon.espace.collectivite

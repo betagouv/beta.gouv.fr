@@ -7,9 +7,12 @@ missions:
   - start: 2017-04-01
     end: 2024-12-31
     status: admin
-    employer: ''
     startups:
       - besoins.opco
+      - clara
+      - dematapprentissage
+      - la-bonne-alternance
+      - tdb-apprentissage
 incubator: mission-apprentissage
 startups:
   - besoins.opco

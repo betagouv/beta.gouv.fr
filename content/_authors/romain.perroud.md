@@ -9,12 +9,13 @@ missions:
     status: admin
     employer: minarm
     startups:
-      - e-chauffeur
       - anais
-      - sepia
-      - metiis
-      - stargate
       - cassiopee
+      - e-chauffeur
+      - les-alpps
+      - metiis
+      - sepia
+      - stargate
 startups:
   - e-chauffeur
   - anais

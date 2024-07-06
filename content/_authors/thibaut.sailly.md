@@ -9,6 +9,8 @@ missions:
     end: 2021-06-30
     status: independent
     employer: Codeurs en Liberté
+    startups:
+      - eva
 previously:
   - eva
 ---

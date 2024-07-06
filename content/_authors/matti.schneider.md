@@ -34,6 +34,15 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
+    startups:
+      - aides.jeunes
+      - api.gouv.fr
+      - disinfo
+      - fiches-de-banc
+      - mes-aides
+      - mon-entreprise
+      - openfisca
+      - open-terms-archive
 startups:
   - open-terms-archive
   - openfisca

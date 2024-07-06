@@ -17,7 +17,11 @@ missions:
     status: independent
     employer: Liberté Living Lab
     startups:
+      - inca
+      - mon-suivi-justice
+      - reva
       - romin
+      - uvf-numerique
 startups:
   - romin
 previously:

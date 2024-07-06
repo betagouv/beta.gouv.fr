@@ -3,7 +3,6 @@ fullname: Aymeric Faivre
 domaine: Design
 role: Designer
 github: AymericFaivre
-avatar: null
 link: http://www.aymericfaivre.com
 missions:
   - start: 2019-02-04
@@ -14,6 +13,10 @@ missions:
     end: 2023-06-29
     status: independent
     employer: La Zone
+    startups:
+      - classe-a-12
+      - devoirs-faits-communaute
+      - mon-entreprise
 startups:
   - classe-a-12
   - devoirs-faits-communaute

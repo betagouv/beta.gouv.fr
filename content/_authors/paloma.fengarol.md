@@ -8,6 +8,10 @@ missions:
     end: 2030-02-02
     status: admin
     employer: Ministère de l'Intérieur - Laboratoire innovation
+    startups:
+      - dialogue.operationnel
+      - psij
+      - urgencevie
 previously:
   - psij
   - dialogue.operationnel

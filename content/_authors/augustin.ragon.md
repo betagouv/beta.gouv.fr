@@ -12,6 +12,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Little Big Connection
+    startups:
+      - carnet.de.bord
+      - deveco
 startups:
   - deveco
 previously:

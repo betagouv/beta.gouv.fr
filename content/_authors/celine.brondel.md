@@ -10,6 +10,7 @@ missions:
     employer: Pôle emploi
     startups:
       - encyclopedie-des-metiers
+      - estime
 startups:
   - encyclopedie-des-metiers
 previously:

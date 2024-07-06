@@ -9,6 +9,7 @@ missions:
     end: 2021-12-31
     status: independent
     startups:
+      - aides.jeunes
       - l-application-du-cej
 startups:
   - l-application-du-cej

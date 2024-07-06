@@ -15,8 +15,8 @@ phases:
     start: 2020-03-01
     end: 2020-06-15
   - name: construction
-    start: 2020-12-01
     comment: lancement du prototype no-code en février 2021
+    start: 2020-12-01
   - name: acceleration
     start: 2022-07-01
 usertypes:
@@ -29,8 +29,11 @@ thematiques:
   - Logement
   - Écologie
 accessibility_status: non conforme
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 121000€ pour la promotion 14
 ---
-
 # Le problème
 
 Alors que les réseaux de chaleur constituent un mode de chauffage écologique et économique particulièrement adapté au contexte actuel, ils demeurent trop peu connus en France et leur dynamique de développement n'est pas à la hauteur des objectifs fixés par la loi.

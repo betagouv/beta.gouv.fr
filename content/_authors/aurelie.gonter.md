@@ -12,6 +12,8 @@ missions:
     end: 2025-08-31
     status: admin
     employer: gip-inclusion
+    startups:
+      - dora
 startups:
   - dora
 competences:

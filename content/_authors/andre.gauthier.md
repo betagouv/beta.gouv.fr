@@ -11,6 +11,7 @@ missions:
     employer: MALT
     startups:
       - a-just
+      - ma-cantine-egalim
 startups:
   - a-just
 previously:

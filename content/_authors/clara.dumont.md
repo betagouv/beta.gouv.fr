@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - dossierfacile
       - mon-suivi-social
 startups:
   - mon-suivi-social

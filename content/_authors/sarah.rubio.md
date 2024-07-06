@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: La Zone/Scopyleft
     startups:
+      - aides-territoires
       - sndv_maritime
 startups:
   - sndv_maritime

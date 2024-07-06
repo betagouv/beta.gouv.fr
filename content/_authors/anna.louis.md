@@ -8,6 +8,7 @@ missions:
     status: independent
     employer: NUMA
     startups:
+      - camino
       - carbure
 startups:
   - carbure

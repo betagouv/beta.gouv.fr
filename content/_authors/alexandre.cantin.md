@@ -10,6 +10,8 @@ missions:
     employer: Octo
     startups:
       - dora
+      - la-bonne-alternance
+      - la-bonne-boite
 avatar: /img/authors/alexandre.cantin.jpg
 startups:
   - dora

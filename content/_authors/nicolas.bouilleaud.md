@@ -12,6 +12,10 @@ missions:
     end: 2024-08-01
     status: independent
     employer: Codeurs en Liberté
+    startups:
+      - conseillers-entreprises
+      - demarches-simplifiees.fr
+      - rdv-service-public
 startups:
   - conseillers-entreprises
 previously:

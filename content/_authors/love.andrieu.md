@@ -8,6 +8,9 @@ missions:
     end: 2024-07-01
     status: admin
     employer: DGFIP
+    startups:
+      - 1000.jours
+      - 1000.premiers.jours.blues
 startups:
   - 1000.jours
   - 1000.premiers.jours.blues

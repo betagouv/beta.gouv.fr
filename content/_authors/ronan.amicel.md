@@ -13,6 +13,10 @@ missions:
     end: 2024-11-30
     status: independent
     employer: Scopyleft
+    startups:
+      - données-et-territoires
+      - visam
+      - zam
 startups:
   - données-et-territoires
 previously:

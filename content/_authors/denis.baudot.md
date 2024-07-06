@@ -9,7 +9,12 @@ missions:
     status: admin
     employer: DINUM
     startups:
+      - authentification
+      - cnr
       - france.nation.verte.agir
+      - logement-crise
+      - nosgestesclimat
+      - parcours.de.saisine
 previously:
   - nosgestesclimat
   - cnr

@@ -10,11 +10,26 @@ missions:
   - start: 2017-09-01
     end: 2018-12-31
     status: independent
-    employer: ''
   - start: 2019-01-01
     end: 2025-02-28
     status: admin
     employer: dinum
+    startups:
+      - auvol
+      - ban
+      - cartobio
+      - comobi
+      - datagir
+      - le-taxi
+      - ma-cantine-egalim
+      - moncomptepro
+      - peps
+      - preuve-de-covoiturage
+      - recosante
+      - territoires-en-transitions
+      - transport
+      - tutorat_fp
+      - urbanvitaliz
 github: IshanB
 previously:
   - urbanvitaliz

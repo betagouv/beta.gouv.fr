@@ -3,7 +3,6 @@ fullname: Nicolas Fries
 role: Développeur
 domaine: Développement
 github: pseudonyme21
-avatar: null
 missions:
   - start: 2020-12-03
     end: 2021-12-03
@@ -13,6 +12,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - cmachance
+      - tchap
 startups:
   - tchap
 previously:

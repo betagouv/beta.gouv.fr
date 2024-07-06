@@ -7,6 +7,8 @@ missions:
     end: 2026-08-31
     status: admin
     employer: DGITM
+    startups:
+      - mobilic
 previously:
   - mobilic
 github: gaspardbetagouv

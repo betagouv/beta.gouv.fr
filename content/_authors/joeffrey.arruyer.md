@@ -9,6 +9,11 @@ missions:
     end: 2024-12-31
     status: service
     employer: NUMA
+    startups:
+      - a-dock
+      - camino
+      - dossierfacile
+      - kelrisks
 previously:
   - kelrisks
   - a-dock
@@ -20,5 +25,4 @@ competences:
   - Communication
   - Croissance
 ---
-
 In your PC, stealing your Internetz

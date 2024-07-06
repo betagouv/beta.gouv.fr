@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: malt
     startups:
+      - aidantsconnect
       - chauffage-urbain
 startups:
   - chauffage-urbain

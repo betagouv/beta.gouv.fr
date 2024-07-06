@@ -7,7 +7,8 @@ missions:
   - start: 2022-10-17
     end: 2024-01-19
     status: service
-    employer: ''
+    startups:
+      - aides.jeunes
 previously:
   - aides.jeunes
 badges:

@@ -10,6 +10,7 @@ missions:
     employer: IPPON
     startups:
       - infoparquet
+      - rdv.consulat
 startups:
   - infoparquet
 previously:

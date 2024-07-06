@@ -9,9 +9,17 @@ missions:
     status: admin
     employer: Cour des comptes
   - start: 2020-03-01
+    end: 2022-02-24
     status: admin
     employer: beta.gouv
-    end: 2022-02-24
+    startups:
+      - aidess
+      - dumas
+      - e-controle
+      - inca
+      - infoparquet
+      - mon-suivi-justice
+      - sndv_maritime
 startups:
   - aidess
   - inca

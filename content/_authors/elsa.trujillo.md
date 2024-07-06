@@ -7,6 +7,9 @@ missions:
     end: 2024-06-24
     status: admin
     employer: ANSSI
+    startups:
+      - disinfo
+      - open-terms-archive
 previously:
   - disinfo
   - open-terms-archive

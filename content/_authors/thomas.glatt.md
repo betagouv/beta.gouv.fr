@@ -7,9 +7,12 @@ missions:
   - start: 2021-06-28
     end: 2024-10-31
     status: independent
-    employer: ''
     startups:
+      - carnet.de.bord
+      - e-mjpm
       - mon-suivi-social
+      - tremplin
+      - workinfrance
 previously:
   - tremplin
   - workinfrance

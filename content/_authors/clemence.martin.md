@@ -13,7 +13,9 @@ missions:
     status: independent
     employer: 'Scopyleft '
     startups:
+      - datagir
       - impact.co2
+      - la.bonne.renov
 incubator: ademe
 startups:
   - impact.co2

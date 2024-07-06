@@ -11,6 +11,8 @@ missions:
     employer: octo
     startups:
       - conseillers-entreprises
+      - dossiersco
+      - open-academie
 startups:
   - conseillers-entreprises
 previously:

@@ -14,10 +14,10 @@ missions:
     employer: LBC
     startups:
       - recommandations-collaboratives
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
-badges: null
 competences:
   - Communication
   - Administration Publique

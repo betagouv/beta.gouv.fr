@@ -8,6 +8,8 @@ missions:
     end: 2024-09-13
     status: independent
     employer: scopyleft
+    startups:
+      - comobi
 previously:
   - comobi
 ---

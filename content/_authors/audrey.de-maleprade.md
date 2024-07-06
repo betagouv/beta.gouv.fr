@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Path Tech
     startups:
+      - mobilic
       - territoires-en-transitions
 startups:
   - territoires-en-transitions

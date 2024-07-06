@@ -9,6 +9,7 @@ missions:
     employer: Scopyleft
     startups:
       - anais
+      - sepia
 startups:
   - anais
 previously:

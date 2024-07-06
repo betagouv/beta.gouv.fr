@@ -12,6 +12,8 @@ missions:
     end: 2019-07-31
     status: independent
     employer: octo
+    startups:
+      - aplus
 startups:
   - aplus
 ---

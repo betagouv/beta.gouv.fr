@@ -12,6 +12,12 @@ missions:
     end: 2026-10-01
     status: admin
     employer: DITP
+    startups:
+      - agora
+      - e-inspé
+      - mon-entreprise
+      - plusfraichemaville
+      - territoires-en-transitions
 startups:
   - agora
 previously:

@@ -8,6 +8,8 @@ missions:
     end: 2021-10-31
     status: service
     employer: Captive
+    startups:
+      - eva
 previously:
   - eva
 ---

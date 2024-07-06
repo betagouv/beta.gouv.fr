@@ -9,6 +9,7 @@ missions:
     employer: malt
     startups:
       - chauffage-urbain
+      - la.bonne.renov
 startups:
   - chauffage-urbain
 previously:

@@ -5,19 +5,15 @@ sponsors:
   - /organisations/anct
 incubator: anct
 phases:
-    - name: investigation
-      start: 2019-02-04
-    - name: alumni
-      start: 2019-07-15
-link:
-repository: 
-stats: false 
-stats_url: 
+  - name: investigation
+    start: 2019-02-04
+  - name: alumni
+    start: 2019-07-15
+stats: false
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Problème visé :
 Le 31 décembre 2018, le Département du Var comptait 37.000 allocataires du Revenu de solidarité active (RSA). Parmi eux, 35 % le sont depuis 5 ans et plus.
 

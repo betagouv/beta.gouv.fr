@@ -8,8 +8,8 @@ missions:
   - start: 2022-01-19
     end: 2025-12-30
     status: independent
-    employer: ''
     startups:
+      - exposition-ij
       - reva
 startups:
   - reva

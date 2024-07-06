@@ -8,7 +8,11 @@ missions:
     status: service
     employer: Ippon
     startups:
+      - 1000.jours
+      - 1000.premiers.jours.blues
       - experts
+      - infoparquet
+      - zen
 startups:
   - experts
 competences:

@@ -8,9 +8,10 @@ missions:
     end: 2020-07-31
     status: independent
     startups:
-      - resorption-bidonvilles
       - codedutravail
       - didoc
+      - gps-usagers
+      - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
   - codedutravail

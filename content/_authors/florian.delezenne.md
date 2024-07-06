@@ -10,9 +10,17 @@ missions:
     status: service
   - start: 2017-06-01
     end: 2027-02-15
-    employer: dinum
     status: admin
-startups: null
+    employer: dinum
+    startups:
+      - aidantsconnect
+      - api.gouv.fr
+      - api-particulier
+      - bourse
+      - datapass
+      - geo.data.gouv.fr
+      - mdph
+      - mes-aides
 previously:
   - datapass
   - bourse

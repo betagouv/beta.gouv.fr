@@ -6,7 +6,8 @@ missions:
   - start: 2021-03-01
     end: 2023-12-31
     status: admin
-    employer: ''
+    startups:
+      - competence.validee
 previously:
   - competence.validee
 ---

@@ -12,6 +12,12 @@ missions:
     end: 2024-09-29
     status: service
     employer: octo
+    startups:
+      - acceslibre
+      - l-application-du-cej
+      - monstage
+      - mpal
+      - pass-culture
 previously:
   - l-application-du-cej
   - acceslibre

@@ -8,6 +8,9 @@ missions:
     end: 2024-08-29
     status: independent
     employer: scopyleft
+    startups:
+      - dossierfacile
+      - tchap
 previously:
   - dossierfacile
   - tchap

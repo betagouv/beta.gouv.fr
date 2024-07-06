@@ -7,6 +7,8 @@ missions:
     end: 2024-03-31
     status: admin
     employer: DINUM
+    startups:
+      - fondation
 startups:
   - fondation
 memberType: beta

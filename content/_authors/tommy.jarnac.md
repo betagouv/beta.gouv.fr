@@ -7,7 +7,8 @@ missions:
     end: 2016-11-30
     status: independent
     employer: ey
-startups: null
+    startups:
+      - la-bonne-boite
 previously:
   - la-bonne-boite
 ---

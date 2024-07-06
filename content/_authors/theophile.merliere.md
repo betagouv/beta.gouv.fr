@@ -6,6 +6,11 @@ missions:
     end: 2023-04-30
     status: independent
     employer: Living Data
+    startups:
+      - api-geo
+      - ban
+      - datapass
+      - geo.data.gouv.fr
 previously:
   - datapass
   - geo.data.gouv.fr

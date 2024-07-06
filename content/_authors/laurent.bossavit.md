@@ -11,7 +11,14 @@ missions:
     end: 2023-06-30
     status: independent
     employer: MTES-MCT
-startups: null
+    startups:
+      - aidantsconnect
+      - api.gouv.fr
+      - dossiersco
+      - leximpact
+      - maintenant
+      - mon-entreprise
+      - mpal
 previously:
   - maintenant
   - mpal

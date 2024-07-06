@@ -2,7 +2,7 @@
 title: DataPass
 mission: Délivrer des « Pass » pour accéder à la « Data » produite par l'État.
 sponsors:
- - /organisations/dinum
+  - /organisations/dinum
 incubator: dinum_produits_interministeriels
 phases:
   - name: construction

@@ -15,6 +15,9 @@ missions:
     end: 2019-11-30
     status: admin
     employer: dinum
+    startups:
+      - aplus
+      - mes-aides
 startups:
   - aplus
 previously:

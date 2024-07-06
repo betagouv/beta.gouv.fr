@@ -9,7 +9,10 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - aides.jeunes
+      - demarches-simplifiees.fr
       - mon-suivi-justice
+      - rdv-service-public
 startups:
   - mon-suivi-justice
 previously:

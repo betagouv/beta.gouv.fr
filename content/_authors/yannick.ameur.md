@@ -10,6 +10,7 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - carnet.de.bord
       - les-emplois
 memberType: autre
 startups:

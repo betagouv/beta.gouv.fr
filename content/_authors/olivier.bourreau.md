@@ -10,6 +10,7 @@ missions:
     employer: OCTO
     startups:
       - bases.adresses.locales
+      - carnet.de.bord
 startups:
   - bases.adresses.locales
 previously:

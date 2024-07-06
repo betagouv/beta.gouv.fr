@@ -12,7 +12,6 @@ missions:
       - sndv_maritime
 startups:
   - sndv_maritime
-previously: null
 competences:
   - Administration Système
 ---

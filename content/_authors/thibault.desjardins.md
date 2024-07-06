@@ -12,6 +12,11 @@ missions:
     end: 2026-10-01
     status: admin
     employer: DINUM
+    startups:
+      - aplus
+      - conseillers-entreprises
+      - france-numerique-ensemble
+      - histologe
 previously:
   - aplus
   - conseillers-entreprises

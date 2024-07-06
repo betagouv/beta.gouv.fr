@@ -7,10 +7,11 @@ missions:
   - start: 2020-02-10
     end: 2025-12-31
     status: independent
-    employer: ""
     startups:
-      - mon-diagnostic-artificialisation
+      - codedutravail
+      - conseillers-entreprises
       - docurba
+      - mon-diagnostic-artificialisation
 startups:
   - mon-diagnostic-artificialisation
   - docurba

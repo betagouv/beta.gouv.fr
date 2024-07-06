@@ -13,11 +13,21 @@ missions:
     end: 2024-12-15
     status: admin
     employer: dinum
+    startups:
+      - auvol
+      - culture_amateurs
+      - data-subvention
+      - eac
+      - e-inspé
+      - histologe
+      - jeveuxaider
+      - les-emplois
+      - psyenfantado
+      - sante-psy-etudiant
   - start: 2023-04-02
     end: 2024-12-15
     status: independent
     employer: malt
-    startups: []
 startups:
   - les-emplois
 previously:

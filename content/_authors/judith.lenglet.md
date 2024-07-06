@@ -8,6 +8,7 @@ missions:
     status: independent
     employer: Numa
     startups:
+      - trackdechets
       - umap
 startups:
   - umap

@@ -9,6 +9,7 @@ missions:
     employer: octo
     startups:
       - la-bonne-alternance
+      - maintenant
 startups:
   - la-bonne-alternance
 previously:

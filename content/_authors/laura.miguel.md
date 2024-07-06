@@ -7,7 +7,6 @@ missions:
   - start: 2023-09-18
     end: 2024-04-30
     status: independent
-    employer: ''
     startups:
       - cartographie.nationale
 startups:

@@ -2,7 +2,7 @@
 title: METIIS
 mission: Révéler le potentiel de la réserve
 sponsors:
-    - /organisations/armees
+  - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation
@@ -13,11 +13,9 @@ phases:
 usertypes:
   - etat
 link: https://metiis.fabnum.fr
-repository:
 stats: false
 contact: metiis@fabnum.fr
 ---
-
 ## Contexte
 Le service numérique METIIS, porté par le commandement pour le territoire national, a pour vocation de transformer le potentiel de la réserve en force pour l’armée de terre. L'armée de terre emploie près de 25 000 réservistes, répartis au sein d'une centaine d'unités sur tout le territoire national. Chaque jour, 2 793 réservistes de l'armée de terre sont employés, dont 650 d'entre eux pour des missions de sécurité. Employés en moyenne 42 jours par an, les réservistes doivent concilier leur vie personnelle et professionnelle avec leur engagement militaire. La disponibilité du réserviste peut être de ce fait limitée : l'organisation d'exercices ou de missions opérationnelles réunissant plusieurs réservistes relève parfois du défi.
 

@@ -1,8 +1,6 @@
 ---
 title: Bases Adresses Locales
-mission: >-
-  Accompagner et outiller les collectivités pour mettre à jour leurs adresses et
-  alimenter la Base Adresse Nationale
+mission: Accompagner et outiller les collectivités pour mettre à jour leurs adresses et alimenter la Base Adresse Nationale
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -10,7 +8,10 @@ link: https://adresse.data.gouv.fr/programme-bal
 repository: https://github.com/BaseAdresseNationale/mes-adresses
 contact: adresse@data.gouv.fr
 accessibility_status: non conforme
-events: []
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 270000€ pour la promotion 12
 phases:
   - name: construction
     start: 2020-09-01

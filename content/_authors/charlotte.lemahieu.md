@@ -14,4 +14,3 @@ competences:
   - Intrapreneur(se)
   - 'lean management; process '
 ---
-

@@ -10,6 +10,7 @@ missions:
     employer: INETUM - LBC
     startups:
       - bat-id
+      - recosante
 startups:
   - bat-id
 badges:

@@ -8,6 +8,8 @@ missions:
     end: 2024-09-30
     status: admin
     employer: SoNum
+    startups:
+      - aidantsconnect
 previously:
   - aidantsconnect
 ---

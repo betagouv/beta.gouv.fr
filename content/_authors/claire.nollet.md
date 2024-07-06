@@ -8,6 +8,8 @@ missions:
     end: 2026-12-12
     status: admin
     employer: DNUM
+    startups:
+      - psij
 previously:
   - psij
 ---

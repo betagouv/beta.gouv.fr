@@ -14,6 +14,14 @@ missions:
     end: 2024-12-31
     status: independent
     employer: scopyleft
+    startups:
+      - api-drones
+      - ban
+      - classe-a-12
+      - données-et-territoires
+      - egalite.professionnelle
+      - la-bonne-formation
+      - umap
 startups:
   - umap
 previously:

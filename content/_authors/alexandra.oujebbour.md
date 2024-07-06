@@ -8,6 +8,7 @@ missions:
     status: admin
     employer: France Travail
     startups:
+      - estime
       - estime.formation
 startups:
   - estime.formation

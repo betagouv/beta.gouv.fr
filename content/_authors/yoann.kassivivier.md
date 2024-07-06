@@ -13,6 +13,12 @@ missions:
     end: 2025-01-31
     status: independent
     employer: NUMA
+    startups:
+      - api-engagement
+      - investigation-ij
+      - jeveuxaider
+      - prevention_ruptures_apprentissage
+      - snu
 startups:
   - investigation-ij
   - api-engagement

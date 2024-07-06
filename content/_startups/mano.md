@@ -1,8 +1,6 @@
 ---
 title: MANO
-mission: >-
-  Service de soutien aux équipes mobiles visant à améliorer la vie des
-  populations en rue et à favoriser leur réinsertion.
+mission: Service de soutien aux équipes mobiles visant à améliorer la vie des populations en rue et à favoriser leur réinsertion.
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
@@ -11,7 +9,10 @@ repository: https://github.com/SocialGouv/mano/
 contact: guillaume.demirhan@sesan.fr
 stats_url: https://mano.sesan.fr/stats/
 stats: true
-events: []
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 100000€ pour la promotion 13
 phases:
   - name: investigation
     start: 2020-08-01
@@ -25,8 +26,7 @@ phases:
     start: 2024-02-01
 usertypes:
   - association
-dashlord_url: >-
-  https://socialgouv.github.io/dashlord-fabrique/url/mano-app-fabrique-social-gouv-fr/
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/mano-app-fabrique-social-gouv-fr/
 accessibility_status: non conforme
 fast:
   promotion: 13

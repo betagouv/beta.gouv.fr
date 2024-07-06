@@ -7,7 +7,8 @@ missions:
     end: 2017-04-21
     status: independent
     employer: red-innovation
-startups: null
+    startups:
+      - boussole
 previously:
   - boussole
 ---

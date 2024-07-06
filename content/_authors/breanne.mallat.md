@@ -10,8 +10,13 @@ missions:
     employer: numa
   - start: 2022-03-14
     end: 2024-01-13
-    employer: Dinum
     status: admin
+    employer: Dinum
+    startups:
+      - aides-territoires
+      - dossierfacile
+      - mon-entreprise
+      - tous.a.bord
 startups:
   - tous.a.bord
 previously:

@@ -8,6 +8,9 @@ missions:
     end: 2023-06-30
     status: independent
     employer: Octo
+    startups:
+      - api-engagement
+      - jeveuxaider
 previously:
   - jeveuxaider
   - api-engagement

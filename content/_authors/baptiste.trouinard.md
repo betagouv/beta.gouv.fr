@@ -7,10 +7,11 @@ missions:
     end: 2022-01-31
     status: independent
     employer: Octo
+    startups:
+      - snu
 startups: []
 previously:
   - snu
-badges: null
 competences:
   - Gestion de Produit
 ---

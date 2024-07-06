@@ -13,6 +13,13 @@ missions:
     end: 2024-12-31
     status: independent
     employer: octo
+    startups:
+      - eac
+      - mano
+      - monpsy
+      - pop
+      - snu
+      - tdb-apprentissage
 incubator: sgmas
 startups:
   - mano

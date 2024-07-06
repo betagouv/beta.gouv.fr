@@ -9,7 +9,8 @@ missions:
     end: 2018-11-30
     status: independent
     employer: octo
-startups: null
+    startups:
+      - signalement
 previously:
   - signalement
 ---

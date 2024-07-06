@@ -10,8 +10,8 @@ missions:
     status: independent
     employer: DINUM
     startups:
-      - urbanvitaliz
       - recommandations-collaboratives
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives

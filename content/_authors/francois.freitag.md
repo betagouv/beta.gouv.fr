@@ -9,6 +9,9 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - carnet.de.bord
+      - inclusion.connect
+      - la.communaute.de.linclusion
       - les-emplois
 startups:
   - les-emplois

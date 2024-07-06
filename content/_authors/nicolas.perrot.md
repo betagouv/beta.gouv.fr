@@ -17,13 +17,14 @@ missions:
     status: independent
     employer: Numa
     startups:
+      - cartobio
+      - dedale
       - france.consulaire
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 startups:
   - dedale
 previously:
   - cartobio
-badges: null
 competences:
   - Coaching
 ---

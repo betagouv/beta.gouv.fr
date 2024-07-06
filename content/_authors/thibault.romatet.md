@@ -8,6 +8,7 @@ missions:
     status: admin
     employer: HC3E
     startups:
+      - aides.jeunes
       - l-application-du-cej
       - pass.engagement.jeune
 startups:

@@ -24,11 +24,13 @@ missions:
     employer: Malt
     startups:
       - annuaire-entreprises
+      - eva
+      - france-numerique-ensemble
+      - maintenant
+      - place-de-marche-inclusion
   - start: 2024-05-21
     end: 2024-08-21
     status: independent
-    employer: ''
-    startups: []
 previously:
   - france-numerique-ensemble
   - maintenant

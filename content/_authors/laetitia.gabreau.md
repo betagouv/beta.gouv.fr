@@ -15,6 +15,11 @@ missions:
     end: 2023-11-30
     status: independent
     employer: Malt
+    startups:
+      - dotations-locales
+      - infoparquet
+      - monpsy
+      - psyenfantado
 startups:
   - infoparquet
 previously:

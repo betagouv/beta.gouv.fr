@@ -10,6 +10,7 @@ missions:
     employer: MALT / ANCT
     startups:
       - cartographie.nationale
+      - france-numerique-ensemble
 startups:
   - cartographie.nationale
 previously:

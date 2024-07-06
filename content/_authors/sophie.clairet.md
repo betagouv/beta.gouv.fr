@@ -15,6 +15,8 @@ missions:
     status: independent
     employer: LittleBigConnection
     startups:
+      - ban
+      - bases.adresses.locales
       - umap
 badges:
   - segur

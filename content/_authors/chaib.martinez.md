@@ -10,9 +10,19 @@ missions:
     status: independent
     employer: numa
     startups:
+      - acceslibre
+      - anti-gaspi-cantine
+      - classe-a-12
+      - cmachance
       - cnr
       - demarches-simplifiees.fr
+      - diagoriente
+      - estime
+      - jeveuxaider
+      - metiers-numeriques
       - tchap
+      - trait-d-union
+      - zero-logement-vacant
 startups:
   - cnr
   - demarches-simplifiees.fr

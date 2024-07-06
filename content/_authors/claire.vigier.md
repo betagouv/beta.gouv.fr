@@ -10,6 +10,11 @@ missions:
     employer: NUMA
     startups:
       - aides-territoires
+      - dora
+      - kelrisks
+      - mobilic
+      - permis-de-construire-facile
+      - trackdechets
 startups:
   - aides-territoires
 previously:

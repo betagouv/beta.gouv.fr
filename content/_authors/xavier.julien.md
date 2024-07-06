@@ -7,7 +7,10 @@ missions:
     end: 2017-02-22
     status: service
     employer: octo
-startups: null
+    startups:
+      - api-entreprise
+      - demarches-simplifiees.fr
+      - mps
 previously:
   - mps
   - demarches-simplifiees.fr

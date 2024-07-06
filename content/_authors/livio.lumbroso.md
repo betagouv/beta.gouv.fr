@@ -13,6 +13,15 @@ missions:
     end: 2024-12-29
     status: admin
     employer: dinum
+    startups:
+      - atlas-des-paysages
+      - datagir
+      - ecobalyse
+      - france.nation.verte.agir
+      - hydrogene
+      - impact.co2
+      - nosgestesclimat
+      - recosante
 startups:
   - ecobalyse
   - france.nation.verte.agir

@@ -8,6 +8,8 @@ missions:
     end: 2023-04-30
     status: independent
     employer: Living Data
+    startups:
+      - ban
 previously:
   - ban
 ---

@@ -8,8 +8,8 @@ missions:
   - start: 2021-12-13
     end: 2025-01-31
     status: independent
-    employer: ''
     startups:
+      - apilos
       - bat-id
 startups:
   - bat-id

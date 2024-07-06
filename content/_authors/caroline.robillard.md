@@ -8,6 +8,10 @@ missions:
     end: 2027-12-31
     status: admin
     employer: DNUM
+    startups:
+      - basegun
+      - candilib
+      - psij
 previously:
   - psij
   - candilib

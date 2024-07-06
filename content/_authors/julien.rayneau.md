@@ -7,9 +7,9 @@ missions:
   - start: 2018-04-10
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - conseillers-entreprises
+      - signalement
       - signaux-faibles
       - transition-ecologique-des-entreprises
 startups:

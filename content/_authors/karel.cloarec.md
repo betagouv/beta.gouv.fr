@@ -16,6 +16,10 @@ missions:
     end: 2021-04-01
     status: independent
     employer: Scopyleft
+  - start: 2021-02-03
+    end: 2023-12-01
+    status: independent
+    employer: LBC
   - start: 2021-04-01
     end: 2021-11-01
     status: independent
@@ -24,14 +28,27 @@ missions:
     end: 2022-01-02
     status: independent
     employer: NUMA
-  - start: 2021-02-03
-    end: 2023-12-01
-    status: independent
-    employer: LBC
   - start: 2024-06-10
     end: 2024-12-01
     status: independent
     employer: Malt
+    startups:
+      - aidantsconnect
+      - anct-pni-14
+      - anct-pni-40
+      - andi
+      - candela
+      - chantiers.agiles
+      - conventionnement.iae
+      - deveco
+      - ethique.en.sante.numerique
+      - eva
+      - frise.cpip
+      - guichet-entreprises-nc
+      - la.communaute.de.linclusion
+      - monstage
+      - rdv.mjd
+      - urbanvitaliz
 previously:
   - andi
   - urbanvitaliz

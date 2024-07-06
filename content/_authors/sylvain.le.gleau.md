@@ -10,8 +10,9 @@ missions:
     status: independent
     employer: Scopyleft
     startups:
-      - espace.sur.demande
       - agents.en.intervention
+      - espace.sur.demande
+      - mon.espace.collectivite
 memberType: beta
 startups:
   - espace.sur.demande

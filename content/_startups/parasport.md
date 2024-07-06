@@ -1,6 +1,6 @@
 ---
 title: Parasport
-mission: "Faciliter la pratique sportive pour les personnes en situation de handicap. "
+mission: 'Faciliter la pratique sportive pour les personnes en situation de handicap. '
 sponsors:
   - /organisations/msjop
 incubator: dinum

@@ -11,6 +11,7 @@ missions:
     startups:
       - histologe
       - sante-psy-etudiant
+      - simone-and-co
 startups:
   - histologe
   - sante-psy-etudiant

@@ -10,6 +10,7 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - aides-territoires
       - suite-numerique
 startups:
   - suite-numerique

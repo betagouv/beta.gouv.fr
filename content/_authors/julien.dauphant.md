@@ -12,6 +12,14 @@ missions:
     end: 2026-08-31
     status: admin
     employer: dinum
+    startups:
+      - aplus
+      - audioconf
+      - authentification
+      - e-controle
+      - plante-et-moi
+      - signalement
+      - tchap
 previously:
   - aplus
   - signalement

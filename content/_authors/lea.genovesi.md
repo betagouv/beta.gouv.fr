@@ -10,6 +10,9 @@ missions:
     employer: NUMA
     startups:
       - compte.rendu.vif
+      - precontentieux.justice
+      - tracabilite.courrier
+      - tracage.vaccination.iahp
 startups:
   - compte.rendu.vif
 badges:

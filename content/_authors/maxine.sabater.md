@@ -9,6 +9,9 @@ missions:
     status: independent
     employer: ADEME
     startups:
+      - attractivite.des.territoires
+      - datagir
+      - faritas
       - impact.co2
 startups:
   - impact.co2

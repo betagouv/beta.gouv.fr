@@ -8,8 +8,8 @@ missions:
   - start: 2020-06-24
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
+      - jeveuxaider
       - snu
 startups:
   - snu

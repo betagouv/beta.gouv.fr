@@ -23,7 +23,15 @@ missions:
     end: 2024-09-01
     status: independent
     employer: Codeurs en Liberté
-startups:
+    startups:
+      - aides.jeunes
+      - data-inclusion
+      - je-deviens-etudiant
+      - mes-aides
+      - rdv.insertion
+      - rdv-service-public
+      - tous.a.bord
+      - voir-et-localiser
 previously:
   - aides.jeunes
   - je-deviens-etudiant

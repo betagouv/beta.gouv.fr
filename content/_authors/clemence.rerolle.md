@@ -10,6 +10,7 @@ missions:
     employer: Octo
     startups:
       - carte-verte
+      - tumeplay
 startups:
   - carte-verte
 badges:

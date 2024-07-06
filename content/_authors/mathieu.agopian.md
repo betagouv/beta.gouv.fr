@@ -22,7 +22,10 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - auvol
       - data.gouv.fr
+      - ecobalyse
+      - egalite.professionnelle
 startups:
   - ecobalyse
 previously:

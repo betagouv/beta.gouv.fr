@@ -10,7 +10,9 @@ missions:
     status: independent
     employer: Scopyleft
     startups:
+      - aplus
       - données-et-territoires
+      - sndv_maritime
       - umap
 startups:
   - données-et-territoires

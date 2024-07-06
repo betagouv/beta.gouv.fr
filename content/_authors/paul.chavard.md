@@ -11,6 +11,7 @@ missions:
     employer: SCOPOPOP
     startups:
       - demarches-simplifiees.fr
+      - mon-entreprise
 startups:
   - demarches-simplifiees.fr
 previously:

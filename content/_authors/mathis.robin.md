@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: FAIRNESS
     startups:
+      - apilos
       - reva
 startups:
   - reva

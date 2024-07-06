@@ -8,6 +8,9 @@ missions:
     end: 2023-06-30
     status: admin
     employer: pole-emploi
+    startups:
+      - estime.formation
+      - la-bonne-boite
 startups:
   - estime.formation
   - la-bonne-boite

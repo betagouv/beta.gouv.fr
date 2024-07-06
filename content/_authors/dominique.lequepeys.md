@@ -8,6 +8,14 @@ missions:
     end: 2024-12-31
     status: service
     employer: octo
+    startups:
+      - aplus
+      - bati-amiante
+      - candilib
+      - chauffage-urbain
+      - histovec
+      - polex
+      - urgencevie
 previously:
   - aplus
   - histovec

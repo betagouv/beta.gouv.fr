@@ -8,6 +8,7 @@ missions:
     status: independent
     employer: scopyleft
     startups:
+      - dora
       - ma-cantine-egalim
 startups:
   - ma-cantine-egalim

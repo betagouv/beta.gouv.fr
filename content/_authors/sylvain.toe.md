@@ -3,8 +3,7 @@ fullname: Sylvain Toé
 domaine: Développement
 role: Développeur
 github: lazybird
-avatar: >-
-  https://avatars1.githubusercontent.com/u/2660255?s=400&u=4d94b6a9671d594c563f2ff50907b99c71b7fb00&v=4
+avatar: https://avatars1.githubusercontent.com/u/2660255?s=400&u=4d94b6a9671d594c563f2ff50907b99c71b7fb00&v=4
 link: https://github.com/lazybird
 missions:
   - start: 2018-11-09
@@ -12,6 +11,8 @@ missions:
     status: independent
     employer: Scopyleft
     startups:
+      - aides-territoires
+      - e-controle
       - sndv_maritime
 startups:
   - sndv_maritime

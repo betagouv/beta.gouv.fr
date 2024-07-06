@@ -13,6 +13,8 @@ missions:
     end: 2024-12-15
     status: independent
     employer: octo
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
 ---

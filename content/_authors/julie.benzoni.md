@@ -8,8 +8,11 @@ missions:
   - start: 2019-12-18
     end: 2023-12-31
     status: independent
-    employer: ''
     startups:
+      - aquaculteurs.marins
+      - carbure
+      - hydrogene
+      - potentiel
       - trackdechets
 startups:
   - trackdechets

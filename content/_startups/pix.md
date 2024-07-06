@@ -14,7 +14,6 @@ phases:
     start: 2016-06-08
   - name: success
     start: 2019-09-01
-
 link: https://pix.fr
 repository: https://github.com/1024pix/pix/
 stats: true

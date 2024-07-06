@@ -14,7 +14,6 @@ phases:
   - name: investigation
     start: 2024-02-10
 ---
-
 ## Contexte
 
 L’exploitation et la traite des êtres humains sont des phénomènes criminels qui consistent à exploiter des personnes, notamment les plus vulnérables, à des fins économiques et sans aucun respect pour leur sécurité et leur dignité. Elles constituent des atteintes fondamentales aux droits humains. 

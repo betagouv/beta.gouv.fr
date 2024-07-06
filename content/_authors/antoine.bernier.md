@@ -11,6 +11,8 @@ missions:
     end: 2022-12-31
     status: service
     employer: TelesCoop
+    startups:
+      - aides.jeunes
 previously:
   - aides.jeunes
 domaine: Développement

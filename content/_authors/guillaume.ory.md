@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Living Data
     startups:
+      - ban
       - pcrs
 startups:
   - pcrs

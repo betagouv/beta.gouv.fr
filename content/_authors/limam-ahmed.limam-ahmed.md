@@ -7,6 +7,8 @@ missions:
     end: 2023-08-31
     status: admin
     employer: DGALN/DEB/EARM2
+    startups:
+      - camino
 previously:
   - camino
 badges:

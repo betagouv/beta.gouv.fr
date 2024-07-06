@@ -8,6 +8,9 @@ missions:
     end: 2021-08-31
     status: admin
     employer: minarm
+    startups:
+      - civils-de-la-defense
+      - e-chauffeur
 github: seiteta
 previously:
   - e-chauffeur

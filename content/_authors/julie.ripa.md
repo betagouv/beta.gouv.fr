@@ -16,6 +16,11 @@ missions:
     end: 2025-11-13
     status: admin
     employer: DINUM
+    startups:
+      - dotations-locales
+      - lannuaire.des.collectivites
+      - mon-suivi-social
+      - tchap
 badges:
   - segur
 competences:

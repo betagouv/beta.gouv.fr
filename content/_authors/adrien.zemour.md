@@ -13,6 +13,10 @@ missions:
     end: 2026-10-01
     status: admin
     employer: DINUM
+    startups:
+      - chauffage-urbain
+      - l-application-du-cej
+      - pacoupa
 startups:
   - pacoupa
 badges:

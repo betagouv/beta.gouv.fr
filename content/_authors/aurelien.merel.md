@@ -10,6 +10,7 @@ missions:
     employer: Codeurs en Liberté
     startups:
       - api-entreprise
+      - demarches-simplifiees.fr
       - oots.once-only.technical.system
 startups:
   - api-entreprise

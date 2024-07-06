@@ -1,8 +1,5 @@
 ---
-mission: >-
-  Détecter des situations de détournements d'usages de terres agricoles de façon
-  à alimenter la connaissance de ces pressions et alimenter la politique de
-  contrôle en la matière.
+mission: Détecter des situations de détournements d'usages de terres agricoles de façon à alimenter la connaissance de ces pressions et alimenter la politique de contrôle en la matière.
 incubator: mtes
 title: Détournement de terres agricoles
 contact: gael.bettinelli@alpes-maritimes.gouv.fr

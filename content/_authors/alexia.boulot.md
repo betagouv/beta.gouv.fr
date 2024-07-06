@@ -8,7 +8,10 @@ missions:
     status: independent
     employer: NUMA
     startups:
+      - acceslibre
+      - jaden.gwadloup
       - monitorfish
+      - prev-ac-tion
       - rapportnav
 badges:
   - segur

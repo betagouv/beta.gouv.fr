@@ -7,6 +7,9 @@ missions:
     end: 2021-06-30
     status: admin
     employer: pole-emploi
+    startups:
+      - memo
+      - mobiville
 avatar: /img/authors/julien.racine.jpg
 previously:
   - memo

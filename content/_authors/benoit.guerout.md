@@ -16,6 +16,12 @@ missions:
     end: 2022-12-31
     status: independent
     employer: ut7
+    startups:
+      - anotea
+      - catalogue-apprentissage
+      - sirius
+      - uai_siret
+      - voeux-apprentissage
 github: bguerout
 startups:
   - anotea

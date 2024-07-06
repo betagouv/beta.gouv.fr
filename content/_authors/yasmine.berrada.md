@@ -12,6 +12,13 @@ missions:
     end: 2024-08-31
     status: independent
     employer: Malt
+    startups:
+      - aides.jeunes
+      - aidess
+      - aides-territoires
+      - e-controle
+      - je-deviens-etudiant
+      - trackdechets
 startups:
   - aides.jeunes
 previously:

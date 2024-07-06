@@ -7,6 +7,21 @@ missions:
     end: 2019-07-31
     status: independent
     employer: icc
+    startups:
+      - api-drones
+      - aplus
+      - conseillers-entreprises
+      - demarches-simplifiees.fr
+      - diagoriente
+      - eva
+      - gps-usagers
+      - monstage
+      - peps
+      - rdv-service-public
+      - reuni
+      - signalement
+      - signaux-faibles
+      - trait-d-union
 previously:
   - conseillers-entreprises
   - signaux-faibles

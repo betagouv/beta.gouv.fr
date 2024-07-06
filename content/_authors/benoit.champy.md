@@ -11,7 +11,9 @@ missions:
     employer: DINUM
     startups:
       - acceslibre
+      - cnr
       - france.nation.verte.agir
+      - la.bonne.renov
       - pass-sport
       - reperer.identifier.victimes.teh
 startups:

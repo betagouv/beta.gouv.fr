@@ -8,6 +8,9 @@ missions:
     end: 2024-04-02
     status: admin
     employer: Gip plateforme de l'inclusion
+    startups:
+      - carnet.de.bord
+      - mon-recap
 incubator: gip-inclusion
 previously:
   - carnet.de.bord

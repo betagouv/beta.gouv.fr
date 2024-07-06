@@ -7,6 +7,8 @@ missions:
     end: 2024-08-01
     status: admin
     employer: MIPROF
+    startups:
+      - reperer.identifier.victimes.teh
 memberType: beta
 startups:
   - reperer.identifier.victimes.teh

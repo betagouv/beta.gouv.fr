@@ -9,8 +9,9 @@ missions:
     status: independent
     employer: NUMA
     startups:
-      - mesads
+      - culturecheznous
       - le-taxi
+      - mesads
       - scienceinfuse
 startups:
   - mesads

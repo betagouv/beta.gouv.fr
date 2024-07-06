@@ -1,10 +1,8 @@
 ---
-mission: >-
-  Inscrire le parcours des conducteurs routiers lauréats d’un titre
-  professionnel dans une démarche d’administration proactive.
+mission: Inscrire le parcours des conducteurs routiers lauréats d’un titre professionnel dans une démarche d’administration proactive.
 incubator: dinum
 title: Vite mes titres !
-contact: 'eric.mathevet@developpement-durable.gouv.fr'
+contact: eric.mathevet@developpement-durable.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/dgitm

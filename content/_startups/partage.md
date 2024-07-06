@@ -1,8 +1,6 @@
 ---
 title: Part'âge
-mission: >-
-  Résorber lisolement des personnes agées par une autonomisation face aux moyens
-  numériques
+mission: Résorber lisolement des personnes agées par une autonomisation face aux moyens numériques
 sponsors:
   - /organisations/anct
 incubator: anct

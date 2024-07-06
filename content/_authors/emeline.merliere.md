@@ -8,7 +8,8 @@ missions:
     end: 2022-01-29
     status: admin
     employer: DINUM
-startups: null
+    startups:
+      - sante-psy-etudiant
 previously:
   - sante-psy-etudiant
 badges:

@@ -10,6 +10,9 @@ missions:
     end: 2024-02-29
     status: independent
     employer: Qonfucius
+    startups:
+      - e-chauffeur
+      - stargate
 previously:
   - e-chauffeur
   - stargate

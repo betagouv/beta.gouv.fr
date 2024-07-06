@@ -11,6 +11,9 @@ missions:
     end: 2023-06-29
     status: independent
     employer: Malt
+    startups:
+      - les-alpps
+      - tchap
 startups:
   - tchap
 previously:

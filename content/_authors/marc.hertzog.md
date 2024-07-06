@@ -21,6 +21,11 @@ missions:
     end: 2021-12-17
     status: independent
     employer: octo
+    startups:
+      - codedutravail
+      - la-bonne-boite
+      - les-emplois
+      - workinfrance
 startups:
   - les-emplois
 previously:

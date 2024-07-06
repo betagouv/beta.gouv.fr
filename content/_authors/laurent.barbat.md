@@ -10,6 +10,8 @@ missions:
     status: independent
     employer: Ministère de la Transition Écologique / Fabrique numérique
     startups:
+      - aldo
+      - attractivite.des.territoires
       - ecobalyse
       - tacct
 startups:

@@ -7,7 +7,13 @@ missions:
     end: 2018-12-19
     status: independent
     employer: octo
-startups: null
+    startups:
+      - dossiersco
+      - la-bonne-boite
+      - la-bonne-formation
+      - memo
+      - open-academie
+      - plante-et-moi
 previously:
   - la-bonne-boite
   - la-bonne-formation

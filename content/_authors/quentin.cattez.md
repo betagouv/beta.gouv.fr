@@ -8,8 +8,8 @@ missions:
     status: service
     employer: octo
     startups:
-      - pix
       - mpal
+      - pix
 startups:
   - pix
   - mpal

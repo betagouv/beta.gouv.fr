@@ -9,6 +9,8 @@ missions:
     end: 2023-04-14
     status: admin
     employer: Shom
+    startups:
+      - sppnaut
 previously:
   - sppnaut
 ---

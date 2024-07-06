@@ -12,6 +12,10 @@ missions:
   - start: 2022-03-09
     end: 2024-12-31
     status: independent
+    startups:
+      - cmachance
+      - eva
+      - locadocs
 startups:
   - eva
 previously:

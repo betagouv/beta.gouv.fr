@@ -7,6 +7,11 @@ missions:
     end: 2018-06-30
     status: independent
     employer: octo
+    startups:
+      - avril
+      - clara
+      - maintenant
+      - rdv-service-public
 previously:
   - avril
   - clara

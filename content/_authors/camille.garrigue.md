@@ -9,6 +9,8 @@ missions:
     end: 2023-07-21
     status: independent
     employer: octo
+    startups:
+      - rdv-service-public
 previously:
   - rdv-service-public
 teams:

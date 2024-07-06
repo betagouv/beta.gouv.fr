@@ -9,6 +9,7 @@ missions:
     status: service
     employer: Sopra Steria Next
     startups:
+      - ban
       - la-bonne-boite
 startups:
   - la-bonne-boite

@@ -12,6 +12,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: malt
+    startups:
+      - api-entreprise
+      - api-particulier
+      - datapass
 startups:
   - api-entreprise
   - api-particulier

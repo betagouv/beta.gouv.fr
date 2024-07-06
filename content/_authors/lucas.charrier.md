@@ -1,7 +1,7 @@
 ---
 fullname: Lucas Charrier
 domaine: Développement
-role: Développeur Fullstack
+role: Développeur Web Fullstack
 github: LucasCharrier
 link: https://lucascharrier.com/
 missions:
@@ -13,6 +13,8 @@ missions:
     end: 2024-10-20
     status: independent
     employer: Scopyleft
+    startups:
+      - aides.jeunes
 previously:
   - aides.jeunes
 memberType: beta

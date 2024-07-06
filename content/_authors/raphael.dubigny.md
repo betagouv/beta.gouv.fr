@@ -2,7 +2,6 @@
 fullname: Raphaël Dubigny
 role: Responsable Produit / Développeur
 domaine: Développement
-link: null
 github: rdubigny
 missions:
   - start: 2018-05-30
@@ -17,6 +16,11 @@ missions:
     end: 2026-08-31
     status: admin
     employer: dinum
+    startups:
+      - api.gouv.fr
+      - api-particulier
+      - datapass
+      - moncomptepro
 startups:
   - moncomptepro
 previously:

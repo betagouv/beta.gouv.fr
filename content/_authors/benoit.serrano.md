@@ -10,6 +10,7 @@ missions:
     employer: DINUM
     startups:
       - notifications
+      - tous.a.bord
 badges:
   - segur
 startups:

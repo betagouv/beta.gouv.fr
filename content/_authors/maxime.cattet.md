@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: UT7
     startups:
+      - euphrosyne
       - pop
 startups:
   - pop

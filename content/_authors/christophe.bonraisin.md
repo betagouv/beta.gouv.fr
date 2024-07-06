@@ -7,6 +7,12 @@ missions:
     end: 2023-01-01
     status: admin
     employer: pole-emploi
+    startups:
+      - dematapprentissage
+      - la-bonne-alternance
+      - la-bonne-formation
+      - sirius
+      - tdb-apprentissage
 previously:
   - la-bonne-formation
   - dematapprentissage

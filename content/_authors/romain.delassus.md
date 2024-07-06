@@ -2,7 +2,6 @@
 fullname: Romain Delassus
 role: Chef de Produit
 domaine: Produit
-avatar: null
 missions:
   - start: 2018-06-15
     end: 2021-06-30

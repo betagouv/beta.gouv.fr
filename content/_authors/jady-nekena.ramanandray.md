@@ -9,12 +9,12 @@ missions:
     end: 2024-12-31
     status: independent
     startups:
+      - exposition-ij
       - pilotagevoiepro
 startups:
   - pilotagevoiepro
 previously:
   - exposition-ij
-badges: null
 competences:
   - Gestion de Produit
   - Développement Backend

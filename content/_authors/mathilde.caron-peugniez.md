@@ -8,6 +8,7 @@ missions:
     end: 2027-02-28
     status: admin
     startups:
+      - a-just
       - mobilic
 startups:
   - mobilic
@@ -16,6 +17,4 @@ previously:
 memberType: beta
 teams:
   - /teams/mtes
-
-
 ---

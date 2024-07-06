@@ -12,6 +12,10 @@ missions:
     end: 2025-10-05
     status: admin
     employer: GIP Plateforme de l'inclusion
+    startups:
+      - codedutravail
+      - les-emplois
+      - place-de-marche-inclusion
 startups:
   - place-de-marche-inclusion
 previously:

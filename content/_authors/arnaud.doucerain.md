@@ -7,7 +7,8 @@ missions:
     end: 2017-10-31
     status: service
     employer: octo
-startups: null
+    startups:
+      - conseillers-entreprises
 previously:
   - conseillers-entreprises
 ---

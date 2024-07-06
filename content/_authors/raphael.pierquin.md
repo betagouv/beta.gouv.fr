@@ -11,10 +11,16 @@ missions:
     status: service
     employer: /ut7
     startups:
+      - culture_amateurs
       - données-et-territoires
+      - dumas
+      - grist.numerique.gouv.fr
       - l-application-du-cej
       - l-immersion-facile
-      - grist.numerique.gouv.fr
+      - maraudes
+      - sppnaut
+      - visam
+      - zam
 startups:
   - l-immersion-facile
   - données-et-territoires

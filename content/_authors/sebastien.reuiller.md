@@ -17,6 +17,13 @@ missions:
     end: 2024-10-31
     status: independent
     employer: Malt
+    startups:
+      - cnr
+      - la.communaute.de.linclusion
+      - les-emplois
+      - place-de-marche-inclusion
+      - recommandations-collaboratives
+      - urbanvitaliz
   - start: 2024-01-01
     end: 2024-09-30
     status: independent
