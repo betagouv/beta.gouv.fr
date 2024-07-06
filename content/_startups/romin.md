@@ -14,9 +14,7 @@ events:
     comment: Kick-off de l'investigation
   - name: committee
     date: 2022-11-17
-    comment: >-
-      Comité d'investigation, avis concluant pour un passage en phase de
-      construction
+    comment: Comité d'investigation, avis concluant pour un passage en phase de construction
   - name: committee
     date: 2023-06-28
     comment: Comité de fin de la 1ère phase de construction

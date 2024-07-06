@@ -7,7 +7,6 @@ missions:
   - start: 2024-03-20
     end: 2024-09-20
     status: independent
-    employer: ''
     startups:
       - aides.jeunes
 startups:

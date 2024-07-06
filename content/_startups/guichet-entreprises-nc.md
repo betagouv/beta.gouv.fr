@@ -9,8 +9,8 @@ contact: mathilde.menil@gouv.nc
 stats: true
 stats_url: https://guichet-entreprises.nc/
 events:
-  - date: 2019-03-01
-    name: product_launch
+  - name: product_launch
+    date: 2019-03-01
 phases:
   - name: investigation
     start: 2018-09-01
@@ -25,7 +25,6 @@ phases:
 usertypes:
   - entreprise
 ---
-
 ## Problème
 
 Les entreprises en Nouvelle-Calédonie font face à un parcours du combattant lors de leurs démarches administratives : elles doivent identifier leurs obligations administratives à travers des sources diverses, contacter de multiples services administratifs pour fournir souvent des informations identiques et payer un accompagnement pour certaines démarches.

@@ -1,7 +1,7 @@
 ---
 title: Ma Région
 mission: Augmenter la connaissance et le taux de recours aux aides régionales
-sponsors: 
+sponsors:
   - /organisations/anct
 incubator: anct
 phases:
@@ -10,15 +10,11 @@ phases:
     end: 2020-07-07
   - name: alumni
     start: 2020-07-08
-link:
-repository:
 stats: false
-stats_url:
 contact: incubateur@anct.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Problème visé
 
 **Certains citoyens ne connaissent pas ou ne demandent pas les aides auxquels ils ont droit.**

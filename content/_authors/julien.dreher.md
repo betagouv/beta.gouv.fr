@@ -9,11 +9,10 @@ missions:
     status: service
     employer: NUMA/Frontierlab
     startups:
-      - dossierfacile
       - assec
+      - dossierfacile
 startups:
   - dossierfacile
   - assec
 ---
-
 Coach qui aide à comprendre la logique des réseaux

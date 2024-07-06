@@ -1,6 +1,5 @@
 ---
 fullname: Capucine David
-github: null
 domaine: Déploiement
 role: Déploiement
 missions:

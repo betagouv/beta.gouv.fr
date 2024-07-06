@@ -14,4 +14,3 @@ startups:
   - nosgestesclimat
 memberType: beta
 ---
-

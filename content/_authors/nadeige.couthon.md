@@ -7,7 +7,6 @@ missions:
   - start: 2020-10-01
     end: 2025-12-31
     status: admin
-    employer: ''
 startups: []
 previously:
   - psij

@@ -8,8 +8,8 @@ missions:
     status: independent
     employer: pole-emploi
     startups:
-      - la-bonne-boite
       - la-bonne-alternance
+      - la-bonne-boite
 startups:
   - la-bonne-boite
   - la-bonne-alternance

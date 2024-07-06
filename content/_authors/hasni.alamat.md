@@ -8,9 +8,9 @@ missions:
     end: 2021-09-10
     status: independent
     startups:
+      - collectif_objets
       - euphrosyne
       - locadocs
-      - collectif_objets
 startups:
   - euphrosyne
   - locadocs

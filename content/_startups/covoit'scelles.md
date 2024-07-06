@@ -2,7 +2,7 @@
 title: Covoit'Scellés
 mission: Faciliter le co-voiturage de scellés pour la Police et la Gendarmerie
 sponsors:
- - /organisations/interieur
+  - /organisations/interieur
 incubator: lab-mi
 phases:
   - name: investigation
@@ -10,14 +10,11 @@ phases:
     end: 2020-06-08
   - name: alumni
     start: 2020-06-08
-link: 
-repository: 
 stats: false
 contact: contact@beta.interieur.gouv.fr
 usertypes:
   - etat
 ---
-
 ## Le gaspillage du transport de scellés.
 
 Chaque année, plus d'un million d'euros est dépensé sur le transport des scellés de la Police et de la Gendarmerie pour aller les faire analyser dans les Laboratoires et Police Scientifique. Trop de transports sont redondants, deux voitures de Police peuvent faire le même trajet Paris-Toulouse quasiment à vide le même jour.

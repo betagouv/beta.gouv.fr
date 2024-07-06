@@ -1,8 +1,6 @@
 ---
 title: Themis
-mission: >-
-  Garantir à chaque détenu la co-construction d’un projet d’exécution de peine
-  maximisant les chances d’insertion ou de réinsertion.
+mission: Garantir à chaque détenu la co-construction d’un projet d’exécution de peine maximisant les chances d’insertion ou de réinsertion.
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -16,7 +14,6 @@ phases:
   - name: alumni
     start: 2024-01-19
 ---
-
 ## Contexte
 
 Un grand nombre d’affectations ne serait pas adapté aux personnes détenues.

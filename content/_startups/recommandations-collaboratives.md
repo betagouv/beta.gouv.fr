@@ -11,10 +11,10 @@ usertypes:
 stats_url: https://urbanvitaliz.fr/stats
 title: Recommandations-collaboratives
 sponsors:
-  - /organisations/cerema
   - /organisations/dgaln
-  - /organisations/anct
   - /organisations/dinum
+  - /organisations/cerema
+  - /organisations/anct
 link: https://recommandations-collaboratives.beta.gouv.fr/
 stats: true
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow

@@ -1,7 +1,6 @@
 ---
 title: Notifications
-mission: Améliorer la qualité des communications entre les administrations et
-  les citoyens
+mission: Améliorer la qualité des communications entre les administrations et les citoyens
 incubator: dinum_produits_interministeriels
 sponsors:
   - /organisations/dinum
@@ -20,7 +19,6 @@ phases:
 usertypes:
   - etat
 ---
-
 ## Contexte
 
 L'administration gère un nombre toujours croissant d'envoi d'emails et/ou de SMS auprès des particuliers, bénéficiaires de services publiques. La gestion de ces campagnes de communications éléctroniques est souvent fragmenté par service. Avec l'augmentation du nombre d'emails envoyés dans le monde, les règles de délivrabilité des emails se sont également complexifiées (besoin de gérer la réputation de l'émetteur d'emails ou "sender score", mise en place de listes blanches pour limiter la circulation de "pourriels"...).

@@ -10,16 +10,11 @@ phases:
     end: 2020-01-30
   - name: alumni
     start: 2020-09-04
-
-link:
-repository:
 stats: false
-stats_url:
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Problème visé : 35 % des personnes interrogées déplorent ne pas pouvoir contribuer facilementà cette connaissance alors qu’ils souhaitent s’engager pour le patrimoine
 
 La Bretagne, c’est près de 2 millions d'habitants entre 30 et 74 ans, et un large tissu associatifdynamique qui représente environ 700 000 personnes, dont 200 000 dans le domaine du patrimoine.Plus de 350 personnes identifiées (via les dispositifs mis en place par la Région - mais du couppotentiellement 200 000 !) contribuent activement à la collecte de connaissances sur le patrimoineculturel breton (qu’il s’agisse de manoirs, chapelles, maisons, fermes, mais aussi de puits, lavoirs,calvaires ou bien d’autres). Cette connaissance est indispensable à la valorisation et la protectionde ce patrimoine, riche et diversifié, auquel les Bretonnes et les Bretons sont particulièrementattaché.e.s, et qui contribue pleinement à l’appropriation des territoires par leurs habitant.e.s. Cesderniers.ères, individuellement ou collectivement, ne bénéficient pourtant pas suffisammentd’accompagnement (scientifique, technique, d’animation) afin de contribuer simplement à cetteconnaissance.

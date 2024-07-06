@@ -1,8 +1,6 @@
 ---
 title: Access'cité
-mission: >-
-  Accélérer l'accessibilité des établissements recevant du public pour les
-  personnes à mobilité réduite.
+mission: Accélérer l'accessibilité des établissements recevant du public pour les personnes à mobilité réduite.
 sponsors:
   - /organisations/dgaln
 incubator: mtes

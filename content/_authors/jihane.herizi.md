@@ -8,8 +8,8 @@ missions:
     status: independent
   - start: 2020-01-05
     end: 2023-01-04
-    employer: dinum
     status: admin
+    employer: dinum
 startups:
   - metiers-numeriques
 previously:

@@ -1,13 +1,13 @@
 ---
-mission: "Accélérer la résolution des situations de mal logement des usagers en accompagnant les territoires"
+mission: Accélérer la résolution des situations de mal logement des usagers en accompagnant les territoires
 incubator: mtes
 repository: https://github.com/MTES-MCT/histologe
 contact: contact@histologe.info
 stats_url: https://histologe.beta.gouv.fr/statistiques
 title: Histologe
 sponsors:
-  - /organisations/anct
   - /organisations/dhup
+  - /organisations/anct
   - /organisations/dinum
 link: https://histologe.beta.gouv.fr
 stats: true

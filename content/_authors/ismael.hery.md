@@ -7,7 +7,6 @@ missions:
     end: 2018-12-19
     status: independent
     employer: octo
-startups: null
 previously:
   - la-bonne-boite
   - la-bonne-formation

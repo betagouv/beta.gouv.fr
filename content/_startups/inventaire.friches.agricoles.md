@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Accélérer la mise en œuvre de projet territoriaux grâce à une identification
-  du foncier agricole sous exploite (friches agricoles)
+mission: Accélérer la mise en œuvre de projet territoriaux grâce à une identification du foncier agricole sous exploite (friches agricoles)
 sponsors:
   - /organisations/ign
 incubator: fab-geocommuns

@@ -7,5 +7,4 @@ missions:
   - start: 2016-01-01
     end: 2021-06-30
     status: admin
-startups: null
 ---

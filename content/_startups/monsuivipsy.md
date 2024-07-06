@@ -10,8 +10,7 @@ contact: monsuivipsy@fabrique.social.gouv.fr
 usertypes:
   - particulier
   - entreprise
-stats_url: >-
-  https://matomo-metabase-monsuivipsy.fabrique.social.gouv.fr/public/dashboard/5c48ca1a-0c1e-4d8b-90b1-d474ce379758
+stats_url: https://matomo-metabase-monsuivipsy.fabrique.social.gouv.fr/public/dashboard/5c48ca1a-0c1e-4d8b-90b1-d474ce379758
 stats: true
 phases:
   - name: investigation
@@ -22,8 +21,8 @@ phases:
     end: 2021-05-01
   - name: acceleration
     start: 2021-06-01
-  - start: 2024-02-27
-    name: transfer
+  - name: transfer
+    start: 2024-02-27
 accessibility_status: non conforme
 ---
 ## Le contexte

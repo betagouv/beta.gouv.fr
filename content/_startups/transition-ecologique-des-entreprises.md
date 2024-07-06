@@ -8,8 +8,7 @@ contact: contact@mission-transition-ecologique.beta.gouv.fr
 link: http://mission-transition-ecologique.beta.gouv.fr/
 repository: https://github.com/betagouv/mission-transition-ecologique
 accessibility_status: non conforme
-dashlord_url: >-
-  https://incubateur-ademe.github.io/dashlord/url/mission-transition-ecologique-beta-gouv-fr/
+dashlord_url: https://incubateur-ademe.github.io/dashlord/url/mission-transition-ecologique-beta-gouv-fr/
 stats: false
 phases:
   - name: investigation

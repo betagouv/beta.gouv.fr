@@ -2,17 +2,14 @@
 title: Bâtir une nouvelle offre culturelle en lien avec lévolution des locaux du cinéma associatif local
 mission: Programme national d'investigation (31)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2021-06-01
   - name: alumni
     start: 2021-11-01
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
 ---
 _(en construction)_

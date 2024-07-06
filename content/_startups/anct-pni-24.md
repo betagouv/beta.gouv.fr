@@ -2,17 +2,14 @@
 title: Réduire le recours de la voiture individuelle sur le territoire
 mission: Programme national d'investigation (24)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2021-06-01
   - name: alumni
     start: 2021-11-01
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
 ---
 ### Diminuer l’usage individuel de la voiture les trajets du quotidien par le développement de ses usages partagés

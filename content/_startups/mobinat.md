@@ -1,8 +1,8 @@
 ---
-title: Mobinat 
+title: Mobinat
 mission: Retrouver l'histoire du mobilier national
 sponsors:
-    - /organisations/mc
+  - /organisations/mc
 incubator: culture
 phases:
   - name: investigation
@@ -10,10 +10,7 @@ phases:
     end: 2021-07-31
   - name: alumni
     start: 2021-07-31
-link:
-repository:
 stats: false
-stats_url:
 contact: ateliernumerique@culture.gouv.fr
 usertypes:
   - particulier

@@ -15,7 +15,6 @@ phases:
     start: 2018-04-13
   - name: alumni
     start: 2018-06-18
-link: 
 repository: https://github.com/MTES-MCT/assec
 stats: false
 contact: michel.perrel@beta.gouv.fr
@@ -23,7 +22,6 @@ usertypes:
   - etat
   - entreprise
 ---
-
 ## Le problème de la gestion de la sécheresse
 
 Lors d’un épisode de sécheresse, les ressources en eau baissent jusqu’à ne plus satisfaire tous les besoins des particuliers, industriels et agriculteurs. L’État partage alors la ressource restante. En 2017, 85 départements ont été concernés. Avec le changement climatique à l’œuvre, ces situations deviennent plus fréquentes.
