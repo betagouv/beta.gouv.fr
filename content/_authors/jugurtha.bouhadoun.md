@@ -15,4 +15,3 @@ startups:
 memberType: beta
 link: https://www.linkedin.com/in/jugurtha-bouhadoun/
 ---
-

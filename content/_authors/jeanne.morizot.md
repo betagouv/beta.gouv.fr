@@ -6,6 +6,5 @@ missions:
   - start: 2024-05-06
     end: 2024-06-30
     status: admin
-    employer: ''
 memberType: beta
 ---

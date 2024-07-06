@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Accroitre la visibilité mutuelle des entreprises et des territoires pour des
-  implantations optimisées. 
+mission: 'Accroitre la visibilité mutuelle des entreprises et des territoires pour des implantations optimisées. '
 incubator: dinum
 title: Implantation des Entreprises
 contact: anne.devoret@beta.gouv.fr

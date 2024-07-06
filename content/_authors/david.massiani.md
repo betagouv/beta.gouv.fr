@@ -4,7 +4,6 @@ role: Product Designer
 domaine: Design
 link: https://www.davidmassiani.com
 github: dmassiani
-startups: null
 previously:
   - avril
   - reva

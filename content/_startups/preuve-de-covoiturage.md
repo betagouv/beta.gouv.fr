@@ -2,9 +2,9 @@
 title: Registre de preuve de covoiturage
 mission: Accompagner le développement du covoiturage au quotidien 🚘
 sponsors:
-  - /organisations/dgitm
   - /organisations/ademe
   - /organisations/dinum
+  - /organisations/dgitm
 incubator: mtes
 link: https://covoiturage.beta.gouv.fr/
 repository: https://github.com/betagouv/preuve-covoiturage
@@ -20,6 +20,9 @@ dashlord_url: https://dashlord.incubateur.net/url/covoiturage-beta-gouv-fr/
 events:
   - name: national_impact
     date: 2023-12-31
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 12
 phases:
   - name: investigation
     start: 2018-06-04
@@ -35,7 +38,6 @@ thematiques:
   - Écologie
   - Transports
 ---
-
 Un résumé (2 min de lecture)
 
 # 1,43 personnes par véhicule seulement dans les déplacements "courte distance"

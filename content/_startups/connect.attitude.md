@@ -1,8 +1,8 @@
 ---
 title: Connect@attitude
-mission: "Lutter contre l'exclusion numérique "
+mission: 'Lutter contre l''exclusion numérique '
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 contact: contactincubateur@anct.gouv.fr
 phases:

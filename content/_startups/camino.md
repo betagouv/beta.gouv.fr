@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Ouvrir les données du domaine minier pour partager l'information sur les
-  projets et faciliter leur gestion.
+mission: Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
 incubator: mtes
 repository: https://github.com/MTES-MCT/camino
 contact: camino@beta.gouv.fr

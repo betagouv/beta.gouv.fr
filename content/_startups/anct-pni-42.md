@@ -2,17 +2,14 @@
 title: Améliorer la collaboration numérique entre agents et élus, notamment dans la préparation des conseils municipaux
 mission: Programme national d'investigation (42)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2021-06-01
   - name: alumni
     start: 2021-11-01
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
 ---
 Améliorer la collaboration numérique entre agents et élus notamment pour la préparation et la tenue des Conseils municipaux (qui nécessite souvent de nombreux envois email – avec pièces jointes, aller-retour et échanges sur différentes versions d’un même document…).

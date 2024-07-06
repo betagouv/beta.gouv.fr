@@ -7,11 +7,9 @@ missions:
   - start: 2023-11-28
     end: 2024-09-30
     status: independent
-    employer: ''
     startups:
       - ozensemble
 startups:
   - ozensemble
 memberType: beta
 ---
-

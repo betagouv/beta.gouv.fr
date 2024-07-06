@@ -24,5 +24,4 @@ previously:
 badges:
   - segur
 ---
-
 Sauvons la planête, un commit à la fois :) !

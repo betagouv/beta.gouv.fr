@@ -1,6 +1,5 @@
 ---
-mission: >-
- Faciliter l'extraction des données renseignées dans SIBIL pour les déclarants.
+mission: Faciliter l'extraction des données renseignées dans SIBIL pour les déclarants.
 incubator: culture
 title: Assistant données spectacle vivant
 contact: ateliernumerique.snum@culture.gouv.fr
@@ -15,7 +14,6 @@ usertypes:
 thematiques:
   - Patrimoine
 ---
-
 ## Contexte
 
 Le ministère collecte des données du spectacle vivant auprès des entrepreneurs du secteur. Ces entrepreneurs du spectacle remplissent une grand nombre de formulaires administratifs : les déclarations pour gérer les droits d'auteur, les taxes spécifiques au secteur, SIBIL l’outil du ministère pour l’observation des données de billetteries du spectacle, les licence de spectacle, les formalités spécifiques aux départements, villes, syndicats professionnels, etc.

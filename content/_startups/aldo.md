@@ -8,7 +8,6 @@ link: https://aldo-carbone.ademe.fr/
 repository: https://github.com/datagir/aldo
 contact: Sylvain.rullier@ademe.fr
 accessibility_status: non conforme
-events: []
 phases:
   - name: investigation
     start: 2023-02-23

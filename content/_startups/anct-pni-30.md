@@ -2,17 +2,14 @@
 title: Mettre en oeuvre une plateforme solidaire de distribution de paniers alimentaires
 mission: Programme national d'investigation (30)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2021-06-01
   - name: alumni
     start: 2021-11-01
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
 ---
 Initialement, l’investigation menée visait à améliorer la distribution des paniers alimentaires sur la Ville de Saint-Ouen en optimisant la coordination entre les associations tout en garantissant l’anonymat et en préservant la dignité des personnes concernées.

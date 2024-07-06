@@ -1,8 +1,6 @@
 ---
 title: Pacoupa
-mission: >-
-  Aider les copropriétaires dans l'installation de systèmes de chauffage
-  décarbonés adaptés à leur immeuble 
+mission: 'Aider les copropriétaires dans l''installation de systèmes de chauffage décarbonés adaptés à leur immeuble '
 sponsors:
   - /organisations/ademe
 incubator: ademe

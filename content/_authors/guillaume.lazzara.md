@@ -8,7 +8,6 @@ missions:
     end: 2016-09-16
     status: service
     employer: octo
-startups: null
 previously:
   - api-entreprise
   - mps

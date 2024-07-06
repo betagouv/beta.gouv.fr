@@ -16,14 +16,11 @@ phases:
     end: 2020-01-01
   - name: alumni
     start: 2020-01-01
-link:
-repository:
 stats: false
 contact: pierre-yves.darnaudet@ars-sante.fr
 usertypes:
   - entreprise
 ---
-
 ## TREMPLIN : Territoire REMPLacement INstallation
 *Rapprocher les professionnels de santé de leur futur territoire d’exercice*
 

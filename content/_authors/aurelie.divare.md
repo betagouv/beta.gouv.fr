@@ -8,8 +8,8 @@ missions:
     status: service
     employer: Pôle emploi
     startups:
-      - mes-evenements-emploi
       - encyclopedie-des-metiers
+      - mes-evenements-emploi
 startups:
   - mes-evenements-emploi
   - encyclopedie-des-metiers

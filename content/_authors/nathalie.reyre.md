@@ -9,14 +9,14 @@ missions:
     end: 2019-08-30
     status: service
     employer: Pôle emploi
-  - start: 2019-09-11
-    end: 2020-05-13
-    status: independent
-    employer: Codeurs en liberté
   - start: 2019-05-01
     end: 2024-12-31
     status: independent
     employer: Octo
+  - start: 2019-09-11
+    end: 2020-05-13
+    status: independent
+    employer: Codeurs en liberté
 startups:
   - l-immersion-facile
 previously:

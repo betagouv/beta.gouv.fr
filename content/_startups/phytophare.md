@@ -1,17 +1,14 @@
 ---
 title: PhytoPhare
-mission: >-
-  Notifier chaque agriculteurices dès qu'un changement réglementaire advient sur
-  les produits phytopharmaceutiques qu'il ou elle utilise, et uniquement
-  ceux-là.
+mission: Notifier chaque agriculteurices dès qu'un changement réglementaire advient sur les produits phytopharmaceutiques qu'il ou elle utilise, et uniquement ceux-là.
 sponsors:
   - /organisations/dgal
 incubator: agriculture
 phases:
   - name: investigation
     start: 2023-09-01
-  - start: 2024-01-15
-    name: alumni
+  - name: alumni
+    start: 2024-01-15
 stats: false
 contact: anne.devoret@beta.gouv.fr
 accessibility_status: non conforme

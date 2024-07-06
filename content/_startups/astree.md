@@ -1,6 +1,6 @@
 ---
 title: ASTREE
-mission: "Aider au traitement des contentieux de masse ou sériel "
+mission: 'Aider au traitement des contentieux de masse ou sériel '
 sponsors:
   - /organisations/interieur
 incubator: lab-mi

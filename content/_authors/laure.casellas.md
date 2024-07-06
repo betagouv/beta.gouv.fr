@@ -7,7 +7,6 @@ missions:
     end: 2026-06-25
     status: independent
     employer: ANCT
-    startups: []
 link: https://www.linkedin.com/in/laure-casellas/
 github: l-casellas
 competences:

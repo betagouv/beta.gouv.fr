@@ -2,12 +2,12 @@
 title: L’Annuaire des Entreprises
 mission: Retrouver toutes les informations concernant les entreprises françaises
 sponsors:
-    - /organisations/dinum
+  - /organisations/dinum
 phases:
-    - name: investigation
-      start: 2020-09-01
-    - name: construction
-      start: 2021-04-01
+  - name: investigation
+    start: 2020-09-01
+  - name: construction
+    start: 2021-04-01
 usertypes:
   - etat
   - entreprise

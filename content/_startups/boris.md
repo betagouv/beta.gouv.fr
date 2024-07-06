@@ -1,9 +1,6 @@
 ---
 title: BoRiS
-mission: >-
-  Informer les bénéficiaires potentiels du Bail Réel Solidaire, simuler
-  l'éligibilité au dispositif et mettre en relation les acheteurs avec les
-  Organismes Fonciers Solidaires
+mission: Informer les bénéficiaires potentiels du Bail Réel Solidaire, simuler l'éligibilité au dispositif et mettre en relation les acheteurs avec les Organismes Fonciers Solidaires
 sponsors:
   - /organisations/dgaln
 incubator: mtes

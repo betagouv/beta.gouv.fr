@@ -14,4 +14,3 @@ startups:
   - transport
 memberType: beta
 ---
-

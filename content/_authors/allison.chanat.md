@@ -7,7 +7,6 @@ missions:
     end: 2017-07-01
     status: admin
     employer: pole-emploi
-startups: null
 previously:
   - memo
 ---

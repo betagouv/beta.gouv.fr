@@ -27,8 +27,6 @@ missions:
   - start: 2024-05-21
     end: 2024-08-21
     status: independent
-    employer: ''
-    startups: []
 previously:
   - france-numerique-ensemble
   - maintenant

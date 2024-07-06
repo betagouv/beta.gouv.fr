@@ -6,7 +6,6 @@ missions:
   - start: 2023-08-04
     end: 2024-09-02
     status: independent
-    employer: ''
     startups:
       - envergo
 startups:
