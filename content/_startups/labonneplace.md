@@ -22,7 +22,6 @@ usertypes:
   - particulier
   - entreprise
 ---
-
 **Problème**
 
 80,2% des 15-34 ans quittent leur CDI avant 1 an (DARES, 2015), et au total, c'est plus de 100.000 démissions chaque mois (DARES, 2018).

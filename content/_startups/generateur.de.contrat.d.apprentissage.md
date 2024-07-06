@@ -12,7 +12,6 @@ phases:
   - name: construction
     start: 2023-09-01
 link: https://contrat.apprentissage.beta.gouv.fr/
-
 ---
 # Le problème de politique publique
 

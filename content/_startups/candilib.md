@@ -1,8 +1,8 @@
 ---
 title: CandiLib
 mission: Réserver simplement sa place d'examen pratique au permis de conduire
-sponsors: 
-    - /organisations/dsr
+sponsors:
+  - /organisations/dsr
 incubator: lab-mi
 phases:
   - name: investigation
@@ -17,11 +17,10 @@ link: https://beta.interieur.gouv.fr/candilib/
 repository: https://github.com/LAB-MI/candilibV2
 stats: false
 contact: candilib@interieur.gouv.fr
-robots: noindex # Nous avons mis cette action car il y a beaucoup de contact directe à contact@beta.gouv.fr pour Candilib
+robots: noindex
 usertypes:
   - particulier
 ---
-
 ## Des conditions dégradées pour les candidats libres
 
 Les candidats libres sont les candidats à l’examen du permis de conduire qui ne sont pas présentés par une auto-école. 

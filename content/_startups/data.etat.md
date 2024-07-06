@@ -1,8 +1,6 @@
 ---
 link: https://www.dataregion.fr/
-mission: >-
-  - partager, visualiser et réutiliser la donnée financière de l’État et ses
-  opérateurs pour mieux piloter les politiques publiques
+mission: '- partager, visualiser et réutiliser la donnée financière de l’État et ses opérateurs pour mieux piloter les politiques publiques'
 repository: https://github.com/dataregion
 incubator: dinum
 title: DATA ETAT

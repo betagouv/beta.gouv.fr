@@ -3,8 +3,8 @@ title: Intelligence Entreprise
 mission: Améliorer la connaissance au moyen de l’intelligence artificielle
 incubator: bercy
 sponsors:
-  - /organisations/dge
   - /organisations/mefr
+  - /organisations/dge
 phases:
   - name: investigation
     start: 2020-03-01
@@ -14,14 +14,11 @@ phases:
     start: 2022-01-01
 usertypes:
   - etat
-link: 
-repository: 
 stats: false
 contact: amd@finances.gouv.fr
 techno:
   - en cours
 ---
-
 ## Le problème 
 
 Pour la conduire de ses missions de développement économique dans un large spectre de secteurs d’activité, 

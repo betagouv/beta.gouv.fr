@@ -2,7 +2,6 @@
 title: Traçage vaccination IAHP
 mission: Comment mettre en place le plan de vaccination national sur le terrain et sa traçabilité dans un délai de quatre mois ?
 incubator: dinum
-repository:
 contact: andrea.jimenez-pellicer@agriculture.gouv.fr
 stats: false
 accessibility_status: non conforme
@@ -12,7 +11,6 @@ phases:
   - name: alumni
     start: 2023-12-01
 ---
-
 ## Contexte
 
 La France est le premier pays européen à tester la vaccination pour contrôler cette maladie, qui a obligé à abattre plus de 32 millions de volailles avec un coût de plus d’un milliard d’euros rien que pour l’épisode de grippe influenza ( IAHP) de 2021-2023. La stratégie vaccinale a été validée en juin 2023 pour une première campagne de vaccination dès le premier octobre 2023. L’équipe de la DGAL en charge du projet a donc eu quatre mois pour mettre en œuvre l’application et la traçabilité de la vaccination sur tout le territoire français. Ils ont sollicité une investigation pour être aidé sur ce chantier.

@@ -1,8 +1,6 @@
 ---
 title: Maison de l'autisme
-mission: >-
-  Aider les personnes autistes et leurs proches à trouver leurs réponses et à
-  mener à bien leurs démarches
+mission: Aider les personnes autistes et leurs proches à trouver leurs réponses et à mener à bien leurs démarches
 sponsors:
   - /organisations/dia-tnd
 incubator: sgmas

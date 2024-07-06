@@ -1,6 +1,5 @@
 ---
-mission: >-
-  Favoriser les échanges et l’agrégation de données entre le ministère et les écoles. Structurer, qualifier, et maximiser le réemploi de ces données.
+mission: Favoriser les échanges et l’agrégation de données entre le ministère et les écoles. Structurer, qualifier, et maximiser le réemploi de ces données.
 incubator: culture
 title: HypArchi
 contact: ateliernumerique.snum@culture.gouv.fr
@@ -13,7 +12,6 @@ phases:
 thematiques:
   - Patrimoine
 ---
-
 ## Contexte
 
 Le ministère de la Culture est en charge de la politique de l’architecture. À ce titre, il favorise la création architecturale, veille à la promotion de la qualité architecturale et paysagère, et assure la tutelle des vingt Écoles Nationales Supérieures d’Architecture (et de Paysage) ENSA(P) et de l’Ordre des architectes.

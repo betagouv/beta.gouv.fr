@@ -24,7 +24,6 @@ usertypes:
   - collectivite-territoriale
   - etat
 ---
-
 [geo.data.gouv.fr](https://geo.data.gouv.fr) est une plateforme dédiée au référencement et à la valorisation des [données géographiques](https://fr.wikipedia.org/wiki/Information_g%C3%A9ographique).
 
 Elle s’adresse à la fois aux producteurs et aux réutilisateurs des données, qu’ils soient services de l’État, collectivités ou encore bureaux d’études.

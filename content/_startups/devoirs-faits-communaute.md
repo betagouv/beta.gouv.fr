@@ -1,8 +1,6 @@
 ---
 title: Devoirs Faits la Communauté
-mission: >-
-  Faciliter les échanges de pratiques entre pairs autour du dispositif « devoirs
-  faits ».
+mission: Faciliter les échanges de pratiques entre pairs autour du dispositif « devoirs faits ».
 sponsors:
   - /organisations/dgesco
 incubator: dinum
@@ -11,8 +9,8 @@ phases:
     start: 2021-02-01
   - name: construction
     start: 2021-09-01
-  - start: 2024-02-09
-    name: alumni
+  - name: alumni
+    start: 2024-02-09
 link: https://devoirs-faits-communaute.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12/tree/devoirs-faits
 stats: false

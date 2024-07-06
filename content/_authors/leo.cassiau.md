@@ -8,8 +8,8 @@ missions:
     status: service
     employer: Pôle emploi
     startups:
-      - encyclopedie-des-metiers
       - competence.validee
+      - encyclopedie-des-metiers
 startups:
   - encyclopedie-des-metiers
   - competence.validee

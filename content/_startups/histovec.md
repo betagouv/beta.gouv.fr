@@ -1,8 +1,8 @@
 ---
 title: HistoVec
 mission: Acheter un véhicule d'occasion en confiance en connaissant son historique
-sponsors: 
-    - /organisations/dsr
+sponsors:
+  - /organisations/dsr
 incubator: lab-mi
 phases:
   - name: investigation
@@ -20,7 +20,6 @@ contact: histovec@interieur.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Le scandale des arnaques aux véhicules d'occasion
 
 Des scandales récurrents nous rappellent qu’acheter une voiture d’occasion n’est pas sans risque.

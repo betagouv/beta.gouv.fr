@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Libérer du temps pour l'accompagnement social grâce à une solution simple,
-  intuitive et sécurisée.
+mission: Libérer du temps pour l'accompagnement social grâce à une solution simple, intuitive et sécurisée.
 incubator: anct
 contact: monsuivisocial@anct.gouv.fr
 accessibility_status: non conforme
@@ -13,8 +11,7 @@ sponsors:
   - /organisations/anct
 link: https://monsuivisocial.incubateur.anct.gouv.fr/
 stats: false
-dashlord_url: >-
-  https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/monsuivisocial-incubateur-anct-gouv-fr/
+dashlord_url: https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/monsuivisocial-incubateur-anct-gouv-fr/
 phases:
   - name: investigation
     start: 2021-06-01
@@ -29,8 +26,7 @@ thematiques:
   - Social
   - Collectivités
   - Inclusion numérique
-repository: >-
-  https://gitlab.com/incubateur-territoires/startups/monsuivisocial/monsuivisocial-v2/-/tree/main
+repository: https://gitlab.com/incubateur-territoires/startups/monsuivisocial/monsuivisocial-v2/-/tree/main
 ---
 ### 🏗 Contexte/problème
 

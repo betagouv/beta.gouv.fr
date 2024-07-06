@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Améliorer la prise en charge / le suivi des situations de harcèlement entre
-  élèves 
+mission: 'Améliorer la prise en charge / le suivi des situations de harcèlement entre élèves '
 incubator: dinum
 title: 'Lutte contre le harcèlement en milieu scolaire '
 contact: adressemailenconstruction@education.gouv.fr

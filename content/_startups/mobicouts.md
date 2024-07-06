@@ -16,7 +16,6 @@ phases:
   - name: alumni
     start: 2023-04-12
 ---
-
 ## Contexte 
 
 Les constats : 

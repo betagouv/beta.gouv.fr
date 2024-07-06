@@ -8,7 +8,6 @@ missions:
     status: service
     employer: octo
 github: thomaspepio
-startups: null
 previously:
   - mpal
 ---

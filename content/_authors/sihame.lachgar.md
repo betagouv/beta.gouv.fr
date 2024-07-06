@@ -12,8 +12,6 @@ missions:
   - start: 2024-03-04
     end: 2024-06-04
     status: independent
-    employer: ''
-    startups: []
 startups:
   - les-emplois
 memberType: beta

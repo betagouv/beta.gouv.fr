@@ -9,8 +9,8 @@ usertypes:
   - etat
 title: Trackdéchets
 sponsors:
-  - /organisations/mtes
   - /organisations/dgpr
+  - /organisations/mtes
 link: https://trackdechets.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/api-trackdechets-beta-gouv-fr/

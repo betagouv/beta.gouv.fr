@@ -2,17 +2,14 @@
 title: Mettre en place un cahier de transmissions numérique entre crèches et parents
 mission: Programme national d'investigation (22)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2021-06-01
   - name: alumni
     start: 2021-11-01
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
 ---
 Chaque jour, le personnel de crèche effectue 100 transmissions aux familles de Marseillan. En France, on recense plus de 400 000 places en crèches, ce qui constitue un potentiel immense à l'échelle nationale.

@@ -11,8 +11,8 @@ missions:
     employer: AD-HOC Lab
     startups:
       - diagoriente
-      - la-bonne-alternance
       - exposition-ij
+      - la-bonne-alternance
 startups:
   - diagoriente
   - la-bonne-alternance

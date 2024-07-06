@@ -15,14 +15,12 @@ phases:
     start: 2015-03-01
   - name: alumni
     start: 2018-01-01
-link:
 repository: https://github.com/betagouv/bourses/
 stats: false
 contact: contact@bourse.beta.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Abandon
 
 Le service est désormais fermé suite à la généralisation du [téléservice national](https://www.service-public.fr/particuliers/vosdroits/F984) qui a pu bénéficier d'un certain nombre d'apprentissages issus de cette expérimentation.
