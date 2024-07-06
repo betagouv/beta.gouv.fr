@@ -7,7 +7,6 @@ missions:
   - start: 2023-03-06
     end: 2024-08-29
     status: service
-    employer: ''
 memberType: autre
 ---
 Numérique d'intérêt général

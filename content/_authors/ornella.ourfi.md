@@ -15,5 +15,4 @@ startups:
 badges:
   - segur
 ---
-
 Développeuse Web full stack

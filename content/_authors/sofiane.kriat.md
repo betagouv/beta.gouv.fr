@@ -11,7 +11,7 @@ missions:
     startups:
       - fonds.de.plans
 startups:
-    - fonds.de.plans
+  - fonds.de.plans
 memberType: beta
 link: https://www.linkedin.com/in/sofiane-kriat-ba339182/
 ---

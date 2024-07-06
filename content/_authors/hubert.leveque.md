@@ -2,8 +2,6 @@
 fullname: Hubert Leveque
 role: Intrapreneur
 domaine: Intraprenariat
-avatar: null
-link: null
 github: hubertleveque
 missions:
   - start: 2018-06-06

@@ -8,7 +8,6 @@ missions:
     end: 2019-07-31
     status: admin
     employer: MTES/MCT
-startups: null
 previously:
   - dossierfacile
 ---

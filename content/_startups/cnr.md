@@ -1,7 +1,6 @@
 ---
 title: CNR
-mission: "Consulter citoyens, élus et corps intermédiaires sur les grandes
-  thématiques du quinquennat. "
+mission: 'Consulter citoyens, élus et corps intermédiaires sur les grandes thématiques du quinquennat. '
 sponsors:
   - /organisations/hcp
 incubator: dinum

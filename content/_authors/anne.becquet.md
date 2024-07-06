@@ -9,15 +9,15 @@ missions:
     status: admin
     employer: Amue
     startups:
+      - api.apprentissage
+      - boite.aux.lettres
       - catalogue-apprentissage
+      - generateur.de.contrat.d.apprentissage
       - la-bonne-alternance
+      - prevention_ruptures_apprentissage
       - tdb-apprentissage
       - uai_siret
       - voeux-apprentissage
-      - api.apprentissage
-      - boite.aux.lettres
-      - generateur.de.contrat.d.apprentissage
-      - prevention_ruptures_apprentissage
 startups:
   - catalogue-apprentissage
   - uai_siret

@@ -8,4 +8,3 @@ missions:
     status: service
 memberType: autre
 ---
-

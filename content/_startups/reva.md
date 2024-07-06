@@ -6,7 +6,6 @@ sponsors:
 incubator: sgmas
 link: https://vae.gouv.fr
 contact: olivier.gerard@beta.gouv.fr
-events: []
 phases:
   - name: investigation
     start: 2021-05-17
@@ -28,8 +27,7 @@ techno:
 usertypes:
   - particulier
 dashlord_url: https://dashlord.incubateur.net/url/vae-gouv-fr/
-stats_url: >-
-  https://metabase.vae.gouv.fr/public/dashboard/951df0e6-757d-4491-928e-2cd2d6beafec
+stats_url: https://metabase.vae.gouv.fr/public/dashboard/951df0e6-757d-4491-928e-2cd2d6beafec
 repository: https://github.com/SocialGouv/reva
 stats: true
 accessibility_status: partiellement conforme

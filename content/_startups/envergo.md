@@ -12,7 +12,10 @@ usertypes:
   - entreprise
 stats_url: https://envergo.beta.gouv.fr/stats
 stats: true
-events: []
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 200000€ pour la promotion 13
 phases:
   - name: investigation
     start: 2021-04-08

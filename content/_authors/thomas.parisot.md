@@ -17,7 +17,6 @@ missions:
     status: service
     employer: lazone/solstice
 link: https://détour.studio
-startups:
 previously:
   - cartobio
   - data.gouv.fr

@@ -1,8 +1,6 @@
 ---
 title: Mon Suivi Justice
-mission: >-
-  Diminuer les convocations non-honorées des personnes placées sous main de
-  justice
+mission: Diminuer les convocations non-honorées des personnes placées sous main de justice
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -10,16 +8,17 @@ link: https://mon-suivi-justice.beta.gouv.fr/
 repository: https://github.com/betagouv/mon-suivi-justice
 contact: contact@mon-suivi-justice.beta.gouv.fr
 stats: true
-budget_url: >-
-  https://docs.google.com/spreadsheets/d/187hUwlMWpBbPxIZkDGTRRqunXogEUZ0Pd3EHldbeELY/edit?usp=sharing
+budget_url: https://docs.google.com/spreadsheets/d/187hUwlMWpBbPxIZkDGTRRqunXogEUZ0Pd3EHldbeELY/edit?usp=sharing
 analyse_risques: true
 accessibility_status: non conforme
-stats_url: >-
-  http://msj-metabase.osc-secnum-fr1.scalingo.io/public/dashboard/7b94c699-cb73-414b-ba0d-1522e8f2c589
+stats_url: http://msj-metabase.osc-secnum-fr1.scalingo.io/public/dashboard/7b94c699-cb73-414b-ba0d-1522e8f2c589
 events:
   - name: product_launch
     date: 2021-05-07
     comment: Lancement de Mon Suivi Justice pour une première phase de 6 mois.
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 30000€ pour la promotion 12
 phases:
   - name: investigation
     start: 2020-10-04

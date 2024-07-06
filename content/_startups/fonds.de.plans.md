@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Répondre aux besoins en fonds de plans des acteurs publics et des
-  collectivités
+mission: Répondre aux besoins en fonds de plans des acteurs publics et des collectivités
 incubator: fab-geocommuns
 title: Fonds de plans
 contact: sofiane.kriat@ign.fr

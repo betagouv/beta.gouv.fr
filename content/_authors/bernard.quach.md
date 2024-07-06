@@ -9,8 +9,8 @@ missions:
     end: 2022-01-19
     status: admin
     startups:
-      - mesads
       - le-taxi
+      - mesads
 startups:
   - mesads
   - le-taxi

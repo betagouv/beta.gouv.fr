@@ -3,22 +3,19 @@ title: maraudes
 mission: Accompagner l'insertion des personnes à la rue
 incubator: sgmas
 sponsors:
-    - /organisations/dgcs
+  - /organisations/dgcs
 phases:
   - name: investigation
     start: 2019-06-01
   - name: construction
     start: 2019-06-01
-  - name : alumni
+  - name: alumni
     start: 2020-01-01
-
-link:
 stats: false
 contact: giulia.reboa@jscs.gouv.fr
 usertypes:
   - association
 ---
-
 ## le contexte
 
 Je suis maraudeur et j’accompagne les personnes à la rue dans leurs parcours de

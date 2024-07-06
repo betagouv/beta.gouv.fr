@@ -1,9 +1,9 @@
 ---
 title: Marché de l'inclusion
-mission: "Aider les structures inclusives à développer leur chiffre d’affaires"
+mission: Aider les structures inclusives à développer leur chiffre d’affaires
 sponsors:
-  - /organisations/francetravail
   - /organisations/mtei
+  - /organisations/francetravail
 incubator: gip-inclusion
 repository: https://github.com/betagouv/itou-marche
 contact: lemarche@inclusion.beta.gouv.fr
@@ -27,6 +27,10 @@ fast:
 thematiques:
   - Travail / Emploi
   - Social
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 125000€ pour la promotion 14
 ---
 ## Le contexte
 

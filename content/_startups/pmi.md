@@ -1,17 +1,15 @@
 ---
 title: PMI
-mission: Résoudre les difficlutés rencontrées par les agents et les usagers de
-  la Protection maternelle et infantile
+mission: Résoudre les difficlutés rencontrées par les agents et les usagers de la Protection maternelle et infantile
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
 contact: cedric.cablan@ars.sante.fr
 phases:
   - name: investigation
+    comment: L'investigation est terminée et en attente d'arbitrage pour un passage en phase de construction.
     start: 2021-04-18
     end: 2021-09-30
-    comment: L'investigation est terminée et en attente d'arbitrage pour un passage
-      en phase de construction.
   - name: alumni
     start: 2021-10-01
 ---

@@ -12,7 +12,7 @@ phases:
     start: 2021-06-01
   - name: construction
     start: 2021-11-01
-    end : 2023-03-30
+    end: 2023-03-30
   - name: alumni
     start: 2022-12-31
 stats: false
@@ -20,7 +20,6 @@ contact: contactincubateur@anct.gouv.fr
 usertypes:
   - entreprise
 ---
-
 Avec BoursOloco, l'objectif est d'accompagner les collectivités à  faciliter l’installation des porteurs des projets (commerçants, services …) sur  leur territoire pour (re)dynamiser le coeur des villes(programme action coeur de villes et petites villes de demain).
 
 Le premier axe de travail choisir est la simplification de la recherche de locaux pour les porteurs de projet

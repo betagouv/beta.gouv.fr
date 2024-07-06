@@ -2,7 +2,6 @@
 fullname: Maïtena Skzobel
 role: Développement commercial
 domaine: Déploiement
-github: null
 missions:
   - start: 2018-04-05
     end: 2018-12-31

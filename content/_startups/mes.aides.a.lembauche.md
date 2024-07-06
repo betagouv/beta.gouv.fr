@@ -1,8 +1,6 @@
 ---
 title: Mes aides à l'embauche
-mission: >-
-  Faciliter le recrutement en informant l’employeur au bon moment sur l'aide la
-  plus adaptée à la situation de son recrutement
+mission: Faciliter le recrutement en informant l’employeur au bon moment sur l'aide la plus adaptée à la situation de son recrutement
 sponsors:
   - /organisations/francetravail
 incubator: francetravail

@@ -10,11 +10,11 @@ missions:
     status: admin
     employer: Ministère des Armées
     startups:
-      - oscars
-      - osirispn
+      - cassiopee
       - civils-de-la-defense
       - octopus
-      - cassiopee
+      - oscars
+      - osirispn
 startups:
   - oscars
   - osirispn

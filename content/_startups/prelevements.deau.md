@@ -1,11 +1,9 @@
 ---
 title: Prélèvements d'eau
-mission: >-
-  Mieux suivre et encadrer les prélèvements d'eau via la délivrance et le
-  contrôle des autorisations environnementales
+mission: Mieux suivre et encadrer les prélèvements d'eau via la délivrance et le contrôle des autorisations environnementales
 sponsors:
-  - /organisations/dgeb
   - /organisations/direction-de-l-environnement-de-l-amenagement-et-du-logement-de-la-reunion
+  - /organisations/dgeb
 incubator: mtes
 contact: valentin.le-tellier@developpement-durable.gouv.fr
 accessibility_status: non conforme

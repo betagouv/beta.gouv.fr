@@ -1,8 +1,6 @@
 ---
 title: Mission Débroussaillement
-mission: >-
-  Mieux faire connaître les obligations légales de débroussaillement et aider à
-  leur mise en œuvre
+mission: Mieux faire connaître les obligations légales de débroussaillement et aider à leur mise en œuvre
 sponsors:
   - /organisations/ign
 incubator: fab-geocommuns
@@ -12,8 +10,8 @@ phases:
   - name: investigation
     start: 2022-09-20
     end: 2022-11-15
-  - start: 2023-09-01
-    name: alumni
+  - name: alumni
+    start: 2023-09-01
 ---
 ## Contexte
 

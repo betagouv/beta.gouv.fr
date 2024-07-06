@@ -11,7 +11,6 @@ missions:
       - l-immersion-facile
 previously:
   - l-immersion-facile
-badges: null
 competences:
   - Gestion de Produit
 startups:
