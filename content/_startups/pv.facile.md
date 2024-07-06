@@ -2,7 +2,7 @@
 mission: Améliorer le processus de traitement et de suivi des projets photovoltaïques
 incubator: mtes
 title: PV Facile
-contact: aurelien.cornier@beta.gouv.fr; guillaume.mascarin@beta.gouv.fr
+contact: guillaume.mascarin@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
