@@ -2,8 +2,6 @@
 fullname: Sasun Saugy
 role: Aide de camp
 domaine: Autre
-github: null
-avatar: null
 missions:
   - start: 2019-03-01
     end: 2021-05-01

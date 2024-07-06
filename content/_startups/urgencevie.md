@@ -2,10 +2,8 @@
 title: UrgenceVie
 mission: Sauver des vies en partageant les informations d'accès au logement
 sponsors:
- - /organisations/interieur
+  - /organisations/interieur
 incubator: lab-mi
-link: null
-repository: null
 contact: urgencevie@beta.gouv.fr
 stats: false
 phases:

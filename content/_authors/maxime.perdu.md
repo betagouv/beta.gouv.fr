@@ -3,8 +3,6 @@ fullname: Maxime Perdu
 role: Growth Hacking / Product strategist / Couteau suisse bourguignon
 domaine: Produit
 github: maximeduper
-avatar: null
-link: null
 missions:
   - start: 2020-08-20
     end: 2022-08-31

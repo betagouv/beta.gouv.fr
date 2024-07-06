@@ -18,7 +18,6 @@ contact: clotilde.gournay@beta.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Plus de 50 000 appels par an sans réponse
 
 Dans le département du Calvados, plus de 50% des appels passés par des usagers n’obtiennent pas de réponse à leur demande, soit plus de 50 000 appels sans réponse par an.

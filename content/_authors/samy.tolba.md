@@ -10,7 +10,6 @@ missions:
   - start: 2023-09-05
     end: 2024-09-01
     status: independent
-    employer: ''
 incubator: dinum
 startups:
   - sante-psy-etudiant

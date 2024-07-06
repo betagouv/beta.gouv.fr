@@ -9,4 +9,3 @@ missions:
     employer: Ministère de l'Intérieur et des Outre mer
 memberType: beta
 ---
-

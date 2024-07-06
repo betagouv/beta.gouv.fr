@@ -2,7 +2,7 @@
 title: Carbure
 mission: Gestion centralisée des flux de biocarburants
 sponsors:
-    - /organisations/dgec
+  - /organisations/dgec
 incubator: mtes
 phases:
   - name: investigation

@@ -6,7 +6,6 @@ missions:
   - start: 2022-09-12
     end: 2025-09-15
     status: admin
-    employer: ''
     startups:
       - rapportnav
 startups:

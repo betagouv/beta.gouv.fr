@@ -1,20 +1,16 @@
 ---
 title: Qualité de l'eau
-mission: Permettre aux agents ARS de gagner en efficacité dans les actions
-  d'inspection et de prévention
+mission: Permettre aux agents ARS de gagner en efficacité dans les actions d'inspection et de prévention
 sponsors:
   - /organisations/dgs
 incubator: sgmas
-link: null
-repository: null
 contact: clemence.augustin@ars.sante.fr
-stats_url: null
 stats: false
 phases:
   - name: investigation
+    comment: Investigation KO
     start: 2022-02-26
     end: 2022-04-30
-    comment: Investigation KO
   - name: alumni
     start: 2022-05-01
 ---

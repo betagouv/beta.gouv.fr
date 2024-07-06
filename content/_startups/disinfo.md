@@ -19,7 +19,6 @@ phases:
 usertypes:
   - etat
 ---
-
 ## Internet nous rapproche. Les manipulations de l’information nous éloignent.
 
 Les manipulations de l’information visent à fragiliser notre cohésion sociale et nos processus électoraux. Les ingérences étrangères documentées lors des élections présidentielles américaines de 2016 ont mis sur le devant de la scène les campagnes de manipulation de l’information de grande ampleur visant le grand public, notamment par le biais des réseaux sociaux. L’affaire dite des _Macron Leaks_, une tentative d’ingérence dans l’élection présidentielle française de 2017, a démontré la réalité du risque pour la France.

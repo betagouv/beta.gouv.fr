@@ -5,7 +5,6 @@ sponsors:
   - /organisations/francetravail
 incubator: francetravail
 link: https://maintenant.pole-emploi.fr
-repository: null
 contact: maintenant@pole-emploi.fr
 usertypes:
   - particulier
@@ -21,7 +20,6 @@ phases:
   - name: alumni
     start: 2023-02-08
 ---
-
 ## Recrutez des gens, pas des CV !
 
 En moyenne, il faut à un recruteur 20 minutes pour déposer une offre d’emploi. Trop long, trop compliqué, inadapté aux secteurs en tension ou saisonniers comme la restauration, la vente ou encore l'hôtellerie.

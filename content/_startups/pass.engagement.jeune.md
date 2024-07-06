@@ -1,8 +1,6 @@
 ---
 title: Carte jeune engagé
-mission: >-
-  Une carte pour les jeunes engagés dans un parcours d'insertion avec des
-  avantages sur des biens et services essentiels 
+mission: 'Une carte pour les jeunes engagés dans un parcours d''insertion avec des avantages sur des biens et services essentiels '
 sponsors:
   - /organisations/mtei
 incubator: sgmas
@@ -21,8 +19,7 @@ thematiques:
 usertypes:
   - particulier
 link: https://cje.fabrique.social.gouv.fr/
-stats_url: >-
-  https://metabase-carte-jeune-engage.fabrique.social.gouv.fr/public/dashboard/9d6a663b-99f2-47eb-ba55-be238909b1ba
+stats_url: https://metabase-carte-jeune-engage.fabrique.social.gouv.fr/public/dashboard/9d6a663b-99f2-47eb-ba55-be238909b1ba
 ---
 ## Problème
 

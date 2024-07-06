@@ -13,6 +13,8 @@ phases:
     start: 2024-06-14
 thematiques:
   - Formation
+usertypes: []
+techno: []
 ---
 ## Contexte
 Pendant les États généraux du numérique pour l’éducation (2021) et lors travaux de concertation sur la stratégie du numérique pour l’éducation (2022), les enseignants et les chefs d’établissement ont signalé des difficultés pour acquérir des ressources pédagogiques numériques. 
@@ -30,7 +32,7 @@ Actuellement, les enseignants rencontrent des difficultés pour obtenir les ress
 Comment mettre en place un dispositif permettant à l’enseignant l’achat simplifié, de ressources numériques éducatives (RNE), dans le contexte de son établissement ?
 
 ## Solution
-Solution imaginée par le ministère à l'origine de la commande : un moyen de paiement, appelé pour le moment « compte ressources », proposé à chaque enseignant pour acheter des ressources et outils numériques pédagogique sur un site marchand en ligne. Les modalités opérationnelles doivent assurer un processus d’achat déconcentré, simplifié et auditable.
+Solution imaginée par le ministère pour favoriser la concertation en permettant la recommandation entre pairs et dans le but de simplifier l'acquisition de ressources numériques éducatives pour en disposer dans l'ENT.
 
 ## Investigation
 L'investigation avait pour objectif de vérifier l'hypothèse de la commande, identifier les irritants afférents sur le terrain, et éventuellement de formuler de nouvelles hypothèses.

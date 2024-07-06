@@ -1,9 +1,6 @@
 ---
 title: Compétences Validées
-mission: >-
-  Optimiser l’intermédiation entre offre et demande d’emploi en fiabilisant les
-  profils des personnes en demande d'emploi grâce à une validation de
-  compétences
+mission: Optimiser l’intermédiation entre offre et demande d’emploi en fiabilisant les profils des personnes en demande d'emploi grâce à une validation de compétences
 sponsors:
   - /organisations/francetravail
 incubator: francetravail
@@ -11,7 +8,6 @@ link: https://candidat.francetravail.fr/competences-validees/
 contact: competences-validees@francetravail.fr
 usertypes:
   - particulier
-events: []
 phases:
   - name: investigation
     start: 2020-07-06

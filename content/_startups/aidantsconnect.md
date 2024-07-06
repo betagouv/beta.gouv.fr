@@ -1,7 +1,6 @@
 ---
 title: Aidants Connect
-mission: >-
-  Accompagnez vos usagers en toute sécurité
+mission: Accompagnez vos usagers en toute sécurité
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -12,7 +11,6 @@ phases:
     start: 2019-03-13
   - name: acceleration
     start: 2021-03-15
- 
 link: https://aidantsconnect.beta.gouv.fr
 repository: https://github.com/betagouv/Aidants_Connect
 stats: true

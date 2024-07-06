@@ -8,7 +8,6 @@ missions:
     end: 2023-11-30
     status: independent
     employer: octo
-startups: null
 previously:
   - codedutravail
   - carnet.de.bord

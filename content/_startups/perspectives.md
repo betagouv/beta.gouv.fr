@@ -11,7 +11,6 @@ phases:
     start: 2018-05-02
   - name: alumni
     start: 2020-09-16
-
 link: https://perspectives.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/perspectives
 stats: false
@@ -20,7 +19,6 @@ usertypes:
   - particulier
   - entreprise
 ---
-
 Pôle emploi effectue des tests d’évaluations pour détecter les aptitudes à exercer un nouveau métier encore jamais pratiqué.
 Ces tests sont appelés Méthode de Recrutement par Simulation (MRS). Cette méthode doit valider deux fois plus de candidats que de postes à pourvoir afin de sécuriser le recrutement.
 

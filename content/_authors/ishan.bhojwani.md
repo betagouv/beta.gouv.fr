@@ -10,7 +10,6 @@ missions:
   - start: 2017-09-01
     end: 2018-12-31
     status: independent
-    employer: ''
   - start: 2019-01-01
     end: 2025-02-28
     status: admin

@@ -2,23 +2,19 @@
 title: Simone & Co
 mission: Aider et accompagner les femmes en situation de précarité à retrouver dignité et féminité
 sponsors:
-    - /organisations/anct
-incubator: anct 
+  - /organisations/anct
+incubator: anct
 phases:
   - name: investigation
     start: 2019-11-01
     end: 2020-01-20
   - name: alumni
     start: 2020-01-20
-link:
-repository: 
-stats: false 
-stats_url: 
+stats: false
 contact: vikieache@gmail.com
 usertypes:
   - particulier
 ---
-
 ## Problème visé :
 Aujourd’hui en France 9 millions de personnes se privent de produits d’hygiène de base, et 1,7 millions de femmes manquent de protections hygiéniques.
 Un constat alarmant qui pousse ces femmes à utiliser des produits de substitution lors de leurs menstruations (journal, chaussettes..). Non seulement elles mettent leur santé en danger, mais elles rencontrent également des difficultés professionnelles et sociales.

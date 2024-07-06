@@ -13,7 +13,6 @@ phases:
 usertypes:
   - etablissement-scolaire
 ---
-
 La phase d’investigation menée par Réseau Canopé et Beta.gouv a montré que les enseignants suivaient toutes sortes de formations de leur initiative personnelle ou par obligation, venues de l'Education nationale ou d'ailleurs, mais sans parvenir à leur donner une cohérence globale et un suivi dans le temps.
 
 Il devient dès lors compliqué de construire un parcours de développement professionnel sur le long terme, ce qui désinvestit les enseignants qui ne voient plus forcément l'intérêt de se former ou la correspondance avec leurs besoins réels.

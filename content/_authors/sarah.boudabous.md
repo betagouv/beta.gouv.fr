@@ -15,5 +15,4 @@ startups:
 badges:
   - segur
 ---
-
 Chargée de déploiement, enthousiaste et dynamique.

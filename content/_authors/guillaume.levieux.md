@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: MTE/DGALN
     startups:
-        - vert.impact
+      - vert.impact
 previously:
   - camino
 badges:

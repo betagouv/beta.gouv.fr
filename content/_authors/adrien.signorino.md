@@ -6,11 +6,10 @@ missions:
   - start: 2019-03-14
     end: 2023-09-30
     status: independent
-    employer: ''
     startups:
-      - sepia
-      - osirispn
       - anais
+      - osirispn
+      - sepia
 incubator: fabnumdef
 startups:
   - sepia

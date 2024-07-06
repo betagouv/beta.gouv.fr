@@ -16,6 +16,7 @@ competences:
   - Gestion de Produit
   - Product strategy
   - Facilitation
+  - Administration Publique
 link: https://www.linkedin.com/in/sylvain-bouchard-b67282104/
 ---
-Chef de projet numérique
+Chef de projet innovation et numérique d'intérêt général

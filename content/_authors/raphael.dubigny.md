@@ -2,7 +2,6 @@
 fullname: Raphaël Dubigny
 role: Responsable Produit / Développeur
 domaine: Développement
-link: null
 github: rdubigny
 missions:
   - start: 2018-05-30

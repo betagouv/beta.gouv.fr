@@ -1,7 +1,5 @@
 ---
-mission:
-  Accompagner la mise en oeuvre du dispositif Village d'Avenir en accompagnant
-  les utilisateurs finaux et améliorer l'accès aux aides des petites communes 
+mission: Accompagner la mise en oeuvre du dispositif Village d'Avenir en accompagnant les utilisateurs finaux et améliorer l'accès aux aides des petites communes
 incubator: mtes
 title: VAPP
 contact: ian.metelski@indre.gouv.fr

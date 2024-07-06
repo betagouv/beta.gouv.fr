@@ -1,8 +1,6 @@
 ---
 title: AuxAJ
-mission: >-
-  Faire gagner du temps aux greffiers dans l'instruction des demandes d'aides
-  juridictionnelles et la notifiction des auxiliaires de justice
+mission: Faire gagner du temps aux greffiers dans l'instruction des demandes d'aides juridictionnelles et la notifiction des auxiliaires de justice
 sponsors:
   - /organisations/mj
 incubator: justice

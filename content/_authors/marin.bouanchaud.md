@@ -7,7 +7,6 @@ missions:
   - start: 2022-10-17
     end: 2025-04-02
     status: independent
-    employer: ''
     startups:
       - bpco
       - ozensemble

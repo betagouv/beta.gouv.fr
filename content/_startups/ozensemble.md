@@ -25,6 +25,10 @@ fast:
   montant: 220000
 thematiques:
   - Santé
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 220000€ pour la promotion 14
 ---
 ##  Le contexte : 
 

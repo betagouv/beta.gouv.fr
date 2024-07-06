@@ -10,16 +10,12 @@ phases:
     end: 2020-01-30
   - name: alumni
     start: 2020-09-01
-link:
-repository:
 stats: false
-stats_url:
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
   - particulier
 ---
-
 ## Problème visé :
 
 Le Conseil régional des jeunes lycéens et apprentis de Bretagne (CRJ) existe depuis 2005. Ce dispositif de participation citoyenne à destination des jeunes est issu d’une forte volonté politique de permettre aux lycéens et apprentis de s’exprimer à travers la réalisation de projets en direction de la jeunesse bretonne. Expérimenté en 2016 et généralisé lors de ce mandat 2018/2020 (durée : 18 mois), le fonctionnement de cet espace d’expression, d’échanges et de construction de projets a entamé une modification profonde en proposant aux jeunes élus de se mobiliser sur des questions de politiques publiques portées par le Conseil régional.

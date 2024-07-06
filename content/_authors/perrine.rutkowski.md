@@ -9,8 +9,8 @@ missions:
     status: admin
     employer: CEREMA
     startups:
-      - urbanvitaliz
       - recommandations-collaboratives
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives

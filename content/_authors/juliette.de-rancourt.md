@@ -8,11 +8,9 @@ missions:
   - start: 2022-09-05
     end: 2024-02-27
     status: service
-    employer: ""
     startups:
       - dossierfacile
 startups:
   - dossierfacile
 ---
-
 Développeuse Full Stack

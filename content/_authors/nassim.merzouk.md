@@ -16,8 +16,8 @@ missions:
     status: independent
     employer: NUMA
     startups:
-      - mobilic
       - dossierfacile
+      - mobilic
 startups:
   - api-engagement
 previously:
