@@ -5,12 +5,18 @@ sponsors:
   - /organisations/ademe
 incubator: ademe
 contact: contact@mission-transition-ecologique.beta.gouv.fr
-link: http://mission-transition-ecologique.beta.gouv.fr/
+link: http://mission-transition-ecologique.beta.gouv.fr
 repository: https://github.com/betagouv/mission-transition-ecologique
 accessibility_status: non conforme
-dashlord_url: >-
-  https://dashlord.incubateur-ademe.beta.gouv.fr/url/mission-transition-ecologique-beta-gouv-fr/
-stats: false
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/transition-ecologique-des-entreprises
+stats: true
+stats_url: https://mission-transition-ecologique.beta.gouv.fr/stats
+analyse_risques: true
+analyse_risques_url: https://github.com/betagouv/mission-transition-ecologique/blob/main/SECURITY.md
+mon_service_securise: false
+events:
+  - name: committee
+    date: 2024-06-26
 phases:
   - name: investigation
     start: 2023-02-27
@@ -23,7 +29,6 @@ techno:
   - publi.codes
 usertypes:
   - entreprise
-stats_url: https://mission-transition-ecologique.beta.gouv.fr/stats
 thematiques:
   - Écologie
   - Entreprises
