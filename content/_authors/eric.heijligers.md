@@ -14,7 +14,6 @@ missions:
       - archifiltre
       - domifa
       - enfants-du-spectacle
-      - 1000.premiers.jours.blues
   - status: admin
     employer: DINUM
     start: 2024-05-01
