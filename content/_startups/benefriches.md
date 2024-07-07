@@ -9,15 +9,19 @@ sponsors:
   - /organisations/ademe
 incubator: ademe
 contact: laurent.chateau@ademe.fr
-link: https://benefriches.ademe.fr/
+link: https://benefriches.ademe.fr
 repository: https://github.com/incubateur-ademe/benefriches
 accessibility_status: non conforme
-dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/url/benefriches-ademe-fr/
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/benefriches
 stats: true
-stats_url: https://benefriches.ademe.fr/stats
+stats_url: https://benefriches.ademe.fr/statistiques
 budget_url: https://benefriches.ademe.fr/budget
 analyse_risques: true
 analyse_risques_url: https://github.com/incubateur-ademe/benefriches/blob/main/SECURITY.md
+mon_service_securise: false
+events:
+  - name: committee
+    date: 2023-12-21
 phases:
   - name: investigation
     start: 2023-01-03
