@@ -4,12 +4,24 @@ mission: Accompagner les collectivités pour une meilleure appropriation de leu
 sponsors:
   - /organisations/ademe
 incubator: ademe
-link: ""
 contact: aude.bodiguel@ademe.fr
+link: https://facili-tacct.beta.gouv.fr
+repository: https://github.com/incubateur-ademe/facili-tacct
 accessibility_status: non conforme
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/tacct
+stats: false
+analyse_risques: true
+analyse_risques_url: https://github.com/incubateur-ademe/facili-tacct/blob/main/SECURITY.md
+mon_service_securise: false
 events:
   - name: committee
+    date: 2023-04-11
+    comment: Comité de fin d'investigation
+  - name: committee
     date: 2023-10-16
+    comment: Comité de fin d'investigation (2ème partie)
+  - name: committee
+    date: 2024-07-09
 phases:
   - name: investigation
     start: 2023-02-01
