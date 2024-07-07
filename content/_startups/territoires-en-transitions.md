@@ -1,7 +1,6 @@
 ---
 title: Territoires en Transitions
-mission: >-
-  Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique
+mission: Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -28,12 +27,12 @@ phases:
   - name: acceleration
     start: 2023-01-16
 techno:
-    - Next.js
-    - React
-    - TypeScript
-    - MDX
-    - Strapi
-    - Python
+  - Next.js
+  - React
+  - TypeScript
+  - MDX
+  - Strapi
+  - Python
 usertypes:
   - collectivite-territoriale
 redirect_from:
@@ -43,6 +42,10 @@ fast:
   montant: 300000
 thematiques:
   - Territoires
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 14
 ---
 ## Contexte
 

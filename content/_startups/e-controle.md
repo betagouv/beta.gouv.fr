@@ -12,7 +12,7 @@ phases:
     start: 2018-09-03
     end: 2019-10-01
   - name: acceleration
-    start : 2019-10-01
+    start: 2019-10-01
     end: 2020-05-01
   - name: transfer
     start: 2020-05-01
@@ -28,7 +28,6 @@ contact: e-controle@ccomptes.fr
 redirect_from:
   - /startups/startup-jf
 ---
-
 # Le contexte et les difficultés rencontrées
 
 ## 🏛 S’assurer du bon emploi de l’argent public

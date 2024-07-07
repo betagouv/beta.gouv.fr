@@ -2,7 +2,7 @@
 title: Shareloc
 mission: Exploiter les espaces vacants en lycée
 sponsors:
-    - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -10,16 +10,12 @@ phases:
     end: 2020-07-07
   - name: alumni
     start: 2020-07-08
-link:
-repository:
 stats: false
-stats_url:
 contact: incubateur@anct.gouv.fr
 usertypes:
   - etat
   - collectivite-territoriale
 ---
-
 ## Problème visé
 
 **373 logements de fonction en lycée dans la Région Hauts-de-France sont inoccupés, alors que le délai pour obtenir un logement social va jusqu'à 24 mois en agglomération.**

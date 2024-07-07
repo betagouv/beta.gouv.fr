@@ -1,7 +1,6 @@
 ---
 title: Nos Gestes Climat
-mission: >-
-  Permettre le calcul de son empreinte carbone individuelle et le passage à l'action pour la réduire
+mission: Permettre le calcul de son empreinte carbone individuelle et le passage à l'action pour la réduire
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -25,15 +24,15 @@ events:
     date: 2024-05-23
 phases:
   - name: success
-    start: 2022-06-13
     comment: Spin-off de Datagir
+    start: 2022-06-13
 techno:
-    - Next.js
-    - React
-    - TypeScript
-    - publi.codes
-    - MongoDB
-    - MDX
+  - Next.js
+  - React
+  - TypeScript
+  - publi.codes
+  - MongoDB
+  - MDX
 usertypes:
   - particulier
   - entreprise

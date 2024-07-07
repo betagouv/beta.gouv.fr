@@ -6,7 +6,6 @@ missions:
   - start: 2023-04-28
     end: 2024-09-30
     status: independent
-    employer: ''
     startups:
       - mesads
 startups:

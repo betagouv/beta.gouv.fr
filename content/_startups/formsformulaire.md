@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Un produit pour la gestion des flux de commandes et la simplification des
-  processus de remontée de données manuelles.
+mission: Un produit pour la gestion des flux de commandes et la simplification des processus de remontée de données manuelles.
 incubator: lab-mi
 title: Forms/Formulaire
 contact: charlotte.chaussat@beta.gouv.fr

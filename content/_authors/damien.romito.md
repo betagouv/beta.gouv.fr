@@ -7,7 +7,6 @@ missions:
   - start: 2022-07-18
     end: 2024-09-01
     status: independent
-    employer: ''
     startups:
       - carbure
 startups:

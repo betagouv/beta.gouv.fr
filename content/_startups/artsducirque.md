@@ -15,7 +15,6 @@ contact: ateliernumerique.snum@culture.gouv.fr
 usertypes:
   - particulier
 ---
-
 ### Contexte
 
 Établissement supérieur de formation, de ressources et de recherche, le Centre national des arts du cirque (CNAC) a été créé en 1985 à l'initiative du ministère de la Culture. Localisé à Châlons-en-Champagne, il possède un pôle de ressources connus par une petite niche de chercheurs, tandis que l’entité de recherche participe à la chaire indépendante ICIMA (Cirque et Marionnette). Outre une formation d’artistes de cirque contemporain (maximum 45 élèves/an), le CNAC est un établissement connu dans l’espace circassien, que ce soit par les deux autres écoles professionnelles délivrant le Diplôme national supérieur professionnel d'artiste de cirque (Dnsp-AC), qu’auprès des écoles amateures et des passionnés.

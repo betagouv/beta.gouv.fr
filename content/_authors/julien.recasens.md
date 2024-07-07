@@ -12,7 +12,6 @@ missions:
   - start: 2024-05-21
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - pass-sport
 previously:

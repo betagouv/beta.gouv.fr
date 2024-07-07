@@ -9,4 +9,3 @@ missions:
     employer: Plateforme de l'inclusion
 memberType: beta
 ---
-

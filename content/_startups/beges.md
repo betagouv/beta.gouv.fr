@@ -17,9 +17,7 @@ phases:
     end: 2024-02-06
   - name: alumni
     start: 2024-02-06
-
 ---
-
 ## Contexte
 Le bilan carbone des collectivités est une obligation mais après ? Les collectivités sont démunies face à cette obligation et ne voient pas la valeur de faire cet exercice qualitativement pour ensuite orienter au mieux des actions.
 Comment réaliser cet exercice avec une méthode publique et s'en servir pour avoir de l'impact ?

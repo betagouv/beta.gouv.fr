@@ -8,7 +8,6 @@ missions:
   - start: 2024-03-11
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - qualicharge
 startups:
@@ -18,4 +17,3 @@ competences:
   - DevOps
   - Développement Full-stack
 ---
-

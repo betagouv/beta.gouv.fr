@@ -1,8 +1,5 @@
 ---
-mission: >-
-  Limiter les allers-retours sur les devis et les factures lors de l'instruction
-  des dossiers de demandes d'aides à la rénovation énergétique pour les
-  logements des particuliers
+mission: Limiter les allers-retours sur les devis et les factures lors de l'instruction des dossiers de demandes d'aides à la rénovation énergétique pour les logements des particuliers
 incubator: mtes
 title: Checklist demande Aides Rénovation énergétique
 contact: simon.huffeteau@developpement-durable.gouv.fr

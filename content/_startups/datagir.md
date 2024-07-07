@@ -31,7 +31,6 @@ phases:
   - name: alumni
     start: 2023-05-03
 ---
-
 *La fiche ci-dessous est celle de Datagir de ses débuts à son transfert (2019-2022). **En 2023, Datagir disparaît progressivement au profit de ses deux principaux produits** qui deviennent des startups d'Etat à part entière :*
  - ***[Nos Gestes Climat](https://beta.gouv.fr/startups/nosgestesclimat.html)***
  - ***[Impact CO2](https://beta.gouv.fr/startups/impact.co2.html)***

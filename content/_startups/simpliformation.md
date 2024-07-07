@@ -5,21 +5,16 @@ sponsors:
   - /organisations/anct
 incubator: anct
 phases:
+  - name: alumni
+    start: 2019-09-04
   - name: investigation
     start: 2019-10-21
     end: 2020-01-30
-  - name: alumni
-    start: 2019-09-04
-
-link:
-repository:
 stats: false
-stats_url:
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Problème visé :
 
 Pas toujours simple, pour les usagers, d’engager une demande de formation auprès des organismes formateurs. « Pour que la prise en charge financière par la Région ou Pôle emploi soit validée, il faut présenter trois devis différents, explique Benoit Vallauri. C’est beaucoup de temps et d’énergie, ce qui peut parfois conduire à l’abandon de la démarche. » Le Ti Lab, avec le projet TransfoParcours, a alors imaginé une solution pour faciliter le processus : créer une plate-forme numérique de demande de devis, à l’image de ce qui existe pour les artisans. « Nous avons testé le projet auprès des usagers : ils y adhèrent totalement si l’outil reste simple, à l’image du Bon Coin. Reste à présent à étudier avec les organismes de formation leurs conditions et leurs pratiques pour mettre au point un système qui conviennent aux deux parties. » Une innovation numérique qui pourrait bien transformer ce qui était un parcours du combattant en parcours facilité.

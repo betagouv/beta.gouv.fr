@@ -10,11 +10,9 @@ missions:
   - start: 2019-05-01
     end: 2021-03-07
     status: independent
-    employer: ''
   - start: 2022-01-01
     end: 2024-11-07
     status: independent
-    employer: ''
 startups:
   - vues-immersives-libres
 previously:

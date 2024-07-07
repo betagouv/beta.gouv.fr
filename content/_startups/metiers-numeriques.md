@@ -21,7 +21,6 @@ usertypes:
   - particulier
   - etat
 ---
-
 ### Contexte
 
 Le numérique est incontournable et prend une place croissante dans nos vies et nos usages. Pourtant, si les besoins sont très importants, les ressources humaines sont limitées et l'on assiste aujourd’hui à une véritable guerre des talents dans le numérique.

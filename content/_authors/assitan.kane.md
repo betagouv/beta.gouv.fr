@@ -14,5 +14,4 @@ startups:
   - dossierfacile
 memberType: beta
 ---
-
 Chargée de déploiement déterminée et passionnée par les jeux de rôles

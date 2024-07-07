@@ -13,5 +13,4 @@ startups:
   - dossierfacile
 memberType: autre
 ---
-
 Opérateur de validation

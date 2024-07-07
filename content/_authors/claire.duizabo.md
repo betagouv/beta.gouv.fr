@@ -9,7 +9,6 @@ missions:
     employer: Numa
     startups:
       - refugies.info
-      - mano
 memberType: beta
 startups:
   - refugies.info

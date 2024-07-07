@@ -1,6 +1,7 @@
 ---
 domaine: Intraprenariat
 fullname: Erwan G. le Gall
+github: Erwan-G-le-Gall
 role: Intraprenariat
 missions:
   - start: 2024-07-02
@@ -16,4 +17,5 @@ competences:
 memberType: beta
 link: https://design.numerique.gouv.fr/qui-sommes-nous/
 ---
-prof -> dév -> expert
+prof → dév PHP full stack → expert
+

@@ -1,6 +1,6 @@
 ---
 title: Aides Jeunes
-mission: "Faciliter le recours aux aides par les jeunes qui en ont le plus besoin "
+mission: 'Faciliter le recours aux aides par les jeunes qui en ont le plus besoin '
 sponsors:
   - /organisations/dgefp
 incubator: sgmas

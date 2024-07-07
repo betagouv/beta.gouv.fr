@@ -15,7 +15,6 @@ phases:
 usertypes:
   - etat
 ---
-
 ## Contexte
 
 - Équipe sponsorisée par le Ministère des armées et le SGDSN.

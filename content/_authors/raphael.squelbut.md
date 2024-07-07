@@ -12,8 +12,8 @@ missions:
       - signaux-faibles
   - start: 2024-04-16
     end: 2024-12-31
-    employer: SHODO
     status: service
+    employer: SHODO
     startups:
       - suite-numerique
 memberType: beta

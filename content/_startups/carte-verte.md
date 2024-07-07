@@ -1,7 +1,6 @@
 ---
 title: Carte Verte
-mission: >-
-  Comment verdir les habitudes de consommation
+mission: Comment verdir les habitudes de consommation
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -32,10 +31,10 @@ events:
   - name: committee
     date: 2024-07-01
 techno:
-    - Next.js
-    - React
-    - MDX
-    - TypeScript
+  - Next.js
+  - React
+  - MDX
+  - TypeScript
 usertypes:
   - particulier
   - entreprise

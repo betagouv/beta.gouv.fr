@@ -6,7 +6,6 @@ missions:
   - start: 2023-07-10
     end: 2023-08-21
     status: admin
-    employer: ''
     startups:
       - carbure
 startups:

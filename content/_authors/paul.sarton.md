@@ -7,4 +7,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: NUMA
+competences:
+  - Facilitation
+  - Product strategy
+  - Coaching
+  - Communication
+memberType: beta
 ---

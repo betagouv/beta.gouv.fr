@@ -39,5 +39,7 @@ competences:
   - Coaching
   - Développement Frontend
   - Développement Backend
+  - Développement Full-stack
+  - JavaScript/TypeScript
 ---
 CTO Incubateur de l'ADEME | <br/> ex-Coach Tech Incubateur @SocialGouv | <br/> ex-CTO @Simbel | <br/> [Paris Deno](https://deno.paris) organizer

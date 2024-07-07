@@ -1,8 +1,8 @@
 ---
 title: PsyEnfantAdo
 mission: Permettre un accompagnement psychologique des enfants et ados
-sponsors: 
-    - /organisations/solidarite-sante
+sponsors:
+  - /organisations/solidarite-sante
 incubator: sgmas
 link: https://www.psyenfantado.sante.gouv.fr/
 repository: https://github.com/betagouv/psy-enfant-ado
@@ -16,7 +16,6 @@ phases:
   - name: alumni
     start: 2022-01-31
 ---
-
 ## Arrêt du dispositif
 
 

@@ -4,21 +4,18 @@ mission: Simplifier l'accès aux aides et aux financements publics des structure
 incubator: dinum
 contact: christophe.trouillard@jscs.gouv.fr
 redirect_from:
-    - /startups/AidESS-Relance
+  - /startups/AidESS-Relance
 phases:
-    - name: investigation
-      start: 2020-11-15
-      end: 2021-03-31
-    - name: alumni
-      start: 2021-06-04
-      comment: Malgré les travaux de la phase d'investigation ayant permis de
-          démontrer un problème et une hypothèse de stratégie à 6 mois, les deux
-          intrapreneurs n'ont malheureusement pas pu être financés et sponsorisés.
+  - name: investigation
+    start: 2020-11-15
+    end: 2021-03-31
+  - name: alumni
+    comment: Malgré les travaux de la phase d'investigation ayant permis de démontrer un problème et une hypothèse de stratégie à 6 mois, les deux intrapreneurs n'ont malheureusement pas pu être financés et sponsorisés.
+    start: 2021-06-04
 usertypes:
-    - association
-    - entreprise
+  - association
+  - entreprise
 ---
-
 # Fiche produit
 
 Comment faire pour soutenir les acteurs de l’économie sociale et solidaire (ESS) dans un contexte de crise, en particulier les structures les plus fragiles ?

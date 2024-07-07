@@ -8,7 +8,6 @@ missions:
     end: 2017-08-18
     status: admin
     employer: dinum
-startups: null
 previously:
   - open-academie
 ---

@@ -6,7 +6,6 @@ missions:
   - start: 2023-01-02
     end: 2025-03-31
     status: service
-    employer: ''
     startups:
       - estime.formation
 memberType: beta

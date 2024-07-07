@@ -12,7 +12,6 @@ competences:
 memberType: autre
 fullname: Amandine Collard
 role: Intrapreneuse
-avatar: ''
 link: https://www.linkedin.com/in/amandine-collard-39b74818a/
 startups:
   - aquaculteurs.marins

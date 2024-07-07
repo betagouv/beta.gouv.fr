@@ -10,7 +10,6 @@ phases:
   - name: investigation
     start: 2024-03-18
 ---
-
 ## Contexte
 
 Dans le contexte de numérisation des services d'Etat, notre initiative vise à identifier et améliorer les étapes administratives d'une démarche en matière de ressources humaines.

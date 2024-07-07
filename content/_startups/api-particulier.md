@@ -5,10 +5,10 @@ sponsors:
   - /organisations/dinum
 incubator: dinum_produits_interministeriels
 phases:
-  - name: investigation
-    start: 2015-10-11
   - name: construction
     start: 2015-01-01
+  - name: investigation
+    start: 2015-10-11
   - name: success
     start: 2020-01-01
 usertypes:

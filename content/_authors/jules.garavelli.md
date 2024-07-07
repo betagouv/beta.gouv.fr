@@ -3,8 +3,6 @@ fullname: Jules Garavelli
 role: Chargé de développement
 domaine: Déploiement
 github: walen_github
-avatar: null
-link: null
 missions:
   - start: 2020-06-02
     end: 2020-11-30

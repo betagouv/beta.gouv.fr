@@ -13,7 +13,6 @@ missions:
     end: 2030-05-19
     status: admin
     employer: DINUM
-    startups: []
 previously:
   - demarches-simplifiees.fr
   - peps

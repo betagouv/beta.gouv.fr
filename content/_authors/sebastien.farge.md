@@ -11,4 +11,3 @@ missions:
       - encyclopedie-des-metiers
 memberType: beta
 ---
-

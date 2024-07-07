@@ -1,7 +1,6 @@
 ---
 title: Impact CO2
-mission: >-
-  Le site internet qui vulgarise et valorise les données environnementales de l'ADEME
+mission: Le site internet qui vulgarise et valorise les données environnementales de l'ADEME
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -25,17 +24,17 @@ events:
 phases:
   - name: construction
     start: 2021-02-01
+  - name: success
+    comment: Spin-off de Datagir
+    start: 2022-06-13
   - name: acceleration
     start: 2022-09-01
-  - name: success
-    start: 2022-06-13
-    comment: Spin-off de Datagir
 techno:
-    - Next.js
-    - React
-    - TypeScript
-    - public.codes
-    - Prisma
+  - Next.js
+  - React
+  - TypeScript
+  - public.codes
+  - Prisma
 usertypes:
   - particulier
   - entreprise

@@ -17,4 +17,3 @@ memberType: beta
 competences:
   - Développement Full-stack
 ---
-
