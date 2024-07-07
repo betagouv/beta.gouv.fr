@@ -6,7 +6,7 @@ sponsors:
   - /organisations/ademe
 incubator: ademe
 contact: impactco2@ademe.fr
-link: https://impactco2.fr/
+link: https://impactco2.fr
 repository: https://github.com/incubateur-ademe/impactco2
 accessibility_status: partiellement conforme
 dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/impact.co2
