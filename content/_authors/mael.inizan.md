@@ -19,7 +19,6 @@ missions:
     employer: ''
     startups:
       - chauffage-urbain
-      - territoires-en-transitions
       - mesaidesreno
 startups:
   - la.bonne.renov
@@ -28,6 +27,7 @@ startups:
 previously:
   - collectif_objets
   - locadocs
+  - territoires-en-transitions
 competences:
   - UX
   - Coaching

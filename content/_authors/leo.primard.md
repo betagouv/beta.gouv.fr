@@ -1,5 +1,5 @@
 ---
-fullname: léo primard
+fullname: Léo Primard
 role: Directeur Artistique / Graphic Designer
 domaine: Design
 link: https://www.twomorrow-project.com

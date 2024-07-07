@@ -9,12 +9,16 @@ contact: contact@territoiresentransitions.fr
 link: https://territoiresentransitions.fr/
 repository: https://github.com/betagouv/territoires-en-transitions
 accessibility_status: non conforme
-dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/url/territoiresentransitions-fr/
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/territoires-en-transitions
 stats: true
 stats_url: https://www.territoiresentransitions.fr/stats
 budget_url: https://www.territoiresentransitions.fr/budget
 analyse_risques: true
 analyse_risques_url: https://github.com/betagouv/territoires-en-transitions/blob/upcoming_develop/SECURITY.md
+mon_service_securise: false
+events:
+  - name: committee
+    date: 2023-11-23
 phases:
   - name: investigation
     start: 2020-09-21

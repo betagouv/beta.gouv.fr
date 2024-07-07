@@ -19,7 +19,6 @@ missions:
       - aides-territoires
       - boursoloco
       - mon.espace.collectivite
-      - nosgestesclimat
 startups:
   - chauffage-urbain
   - conseillers-entreprises
