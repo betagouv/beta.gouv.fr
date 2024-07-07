@@ -5,6 +5,7 @@ domaine: Animation
 link: https://www.linkedin.com/in/jessicagauzi/
 github: jgauzi
 incubator: ademe
+avatar: /img/authors/jessica.gauzi.png
 teams:
   - /teams/ademe
 missions:
