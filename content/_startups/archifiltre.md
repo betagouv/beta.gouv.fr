@@ -6,13 +6,20 @@ mission: >-
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
-link: https://archifiltre.fr/
+link: https://archifiltre.fr
 repository: https://github.com/SocialGouv/archifiltre-docs
 contact: archifiltre@sg.social.gouv.fr
 usertypes:
   - etat
+  - particulier
 stats_url: https://archifiltre.fr/stats
 stats: true
+analyse_risques: false
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/startup/archifiltre
+techno:
+  - TypeScript
+  - React
+  - Electron
 events:
   - name: other
     date: 2018-01-07
@@ -48,6 +55,7 @@ phases:
 accessibility_status: non conforme
 thematiques:
   - Outil technique
+  - Archives
 ---
 # Le contexte
 
@@ -79,7 +87,7 @@ Notre stratégie, depuis les débuts, est de développer un outil libre, gratuit
 
 Par ailleurs, la priorisation a toujours été réalisée à partir des demandes d'utilisateur·trice·s issu·e·s de contextes très variés qui permettent de vérifier, en permanence, que les fonctionnalités développées sont adaptées au plus grand nombre (tant dans les administrations de l'Etat que dans les collectivités, chez des opérateurs nationaux ou locaux, comme dans des entreprises ou des associations) grâce aux nombreux retours utilisateurs reçus lors des openlabs et sessions d'échanges (présentations, webinaires, communication réalisée lors des sorties de versions) ou encore via le questionnaire mis en place pour recueillir les attentes.
 
-## Notre mesure d’impact et les objectifs : 
+## Notre mesure d’impact et les objectifs :
 
 -	Nombre d’arborescences analysées
 -	Volume de données analysé

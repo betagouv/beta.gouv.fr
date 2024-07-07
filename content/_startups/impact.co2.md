@@ -15,6 +15,7 @@ stats_url: https://impactco2.fr/stats
 budget_url: https://impactco2.fr/budget
 analyse_risques: true
 analyse_risques_url: https://github.com/incubateur-ademe/impactco2/blob/main/SECURITY.md
+mon_service_securise: false
 events:
   - name: committee
     date: 2023-10-25
