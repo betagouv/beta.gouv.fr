@@ -9,18 +9,28 @@ contact: carte-verte@beta.gouv.fr
 link: https://carte-verte.beta.gouv.fr
 repository: https://github.com/incubateur-ademe/carte-verte
 accessibility_status: non conforme
-dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/url/carte-verte-beta-gouv-fr/
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/carte-verte
 stats: true
 stats_url: https://carte-verte.beta.gouv.fr/stats
 budget_url: https://carte-verte.beta.gouv.fr/budget
 analyse_risques: true
 analyse_risques_url: https://github.com/incubateur-ademe/carte-verte/blob/main/SECURITY.md
+mon_service_securise: false
 phases:
   - name: investigation
     start: 2023-01-03
     end: 2023-10-13
   - name: construction
     start: 2023-10-13
+events:
+  - name: committee
+    date: 2023-04-12
+    comment: Comité de fin d'investigation
+  - name: committee
+    date: 2023-10-13
+    comment: Comité de lancement de la construction
+  - name: committee
+    date: 2024-07-01
 techno:
     - Next.js
     - React
