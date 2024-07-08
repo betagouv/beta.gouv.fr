@@ -12,7 +12,7 @@ dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/plusfraiche
 stats: true
 stats_url: https://plusfraichemaville.fr/stats
 budget_url: https://plusfraichemaville.fr/budget
-analyse_risques: false
+analyse_risques: true
 analyse_risques_url: https://github.com/incubateur-ademe/plusfraichemaville-site/blob/main/SECURITY.md
 mon_service_securise: false
 events:
@@ -35,6 +35,7 @@ redirect_from:
   - /startups/rafraichir.les.villes
 thematiques:
   - Écologie
+usertypes: []
 ---
 ## Contexte
 

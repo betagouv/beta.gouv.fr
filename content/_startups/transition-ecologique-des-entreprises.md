@@ -32,6 +32,8 @@ usertypes:
 thematiques:
   - Écologie
   - Entreprises
+analyse_risques: true
+analyse_risques_url: https://github.com/betagouv/mission-transition-ecologique/blob/main/SECURITY.md
 ---
 Le service public Transition Écologique des Entreprises est un guichet d'accueil, d'aide et d'accompagnement dans la transition écologique des entreprises.
 

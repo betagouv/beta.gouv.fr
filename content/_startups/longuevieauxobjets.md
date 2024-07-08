@@ -34,6 +34,7 @@ phases:
     start: 2023-06-01
 thematiques:
   - Écologie
+techno: []
 ---
 ## Contexte 👀
 
