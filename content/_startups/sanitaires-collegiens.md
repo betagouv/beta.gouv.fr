@@ -1,8 +1,8 @@
 ---
-title: HY-VIGIE COLLÈGE 
+title: HY-VIGIE COLLÈGE
 mission: Vigilance à l’hygiène dans les collèges
 sponsors:
-    - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -10,16 +10,12 @@ phases:
     end: 2020-07-13
   - name: alumni
     start: 2020-07-13
-link:
-repository: 
-stats: false 
-stats_url: 
+stats: false
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
   - etablissement-scolaire
 ---
-
 ## Problème: en France, un tiers des élèves n’utilisent pas les sanitaires des collèges
 Malgré les réflexions, actions et dépenses des collectivités en matière de conception et d'entretien des lieux, ces sanitaires demeurent indignes : manque d'hygiène, d'intimité, etc.
 

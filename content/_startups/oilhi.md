@@ -2,8 +2,8 @@
 title: OILHI
 mission: Faciliter le traitement des cas d'habitat indigne
 sponsors:
-  - /organisations/dhup
   - /organisations/ditp
+  - /organisations/dhup
   - /organisations/dgaln
 incubator: mtes
 link: https://oilhi.beta.gouv.fr

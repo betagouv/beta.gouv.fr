@@ -12,5 +12,4 @@ missions:
 startups:
   - france-numerique-ensemble
 ---
-
 je suis chargé de mission au sein de la caisse des dépôt en appuis à la startup conseiller numerique

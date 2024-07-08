@@ -1,14 +1,12 @@
 ---
-mission: >-
-  Orienter et aider dans la rénovation énergétique et la réduction de la
-  consommation des bâtiments publics 
+mission: 'Orienter et aider dans la rénovation énergétique et la réduction de la consommation des bâtiments publics '
 incubator: mtes
 title: Dépanne ma Rénov'
 contact: coline.debayle@beta.gouv.fr
 accessibility_status: non conforme
 sponsors:
-  - /organisations/dgec
   - /organisations/dgaln
+  - /organisations/dgec
 phases:
   - name: investigation
     start: 2023-12-01

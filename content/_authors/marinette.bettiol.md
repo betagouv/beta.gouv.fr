@@ -12,5 +12,4 @@ missions:
 startups:
   - dossierfacile
 ---
-
 Etudiante à HEC Paris, j'ai rejoint l'équipe DossierFacile en juin 2020.

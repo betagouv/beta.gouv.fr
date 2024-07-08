@@ -1,7 +1,6 @@
 ---
 title: CanDeLa
-mission: Améliorer l’exercice de la mission de conseiller aux décideurs locaux,
-  le relationnel et le partage documentaire avec les collectivités.
+mission: Améliorer l’exercice de la mission de conseiller aux décideurs locaux, le relationnel et le partage documentaire avec les collectivités.
 sponsors:
   - /organisations/dgfip
 incubator: fabrique-dgfip

@@ -7,7 +7,6 @@ missions:
   - start: 2021-06-09
     end: 2024-12-31
     status: admin
-    employer: ''
     startups:
       - l-application-du-cej
 startups:

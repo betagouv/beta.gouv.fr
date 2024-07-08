@@ -10,11 +10,8 @@ phases:
     start: 2021-03-12
     end: 2021-07-01
   - name: alumni
+    comment: L'investigation a permis d'identifié un problème réel, impactant et actionnable. Malheureusement, a ce jour aucune des administrations sponsors de l'investigation n'a arbitré un budget pour le passage en phase de construction.
     start: 2021-09-28
-    comment: L'investigation a permis d'identifié un problème réel, impactant et
-      actionnable. Malheureusement, a ce jour aucune des administrations
-      sponsors de l'investigation n'a arbitré un budget pour le passage en phase
-      de construction.
 usertypes:
   - association
   - etat

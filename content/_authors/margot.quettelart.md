@@ -7,10 +7,9 @@ missions:
   - start: 2023-01-02
     end: 2025-01-31
     status: independent
-    employer: ''
     startups:
-      - jeveuxaider
       - api-engagement
+      - jeveuxaider
 github: margotqtl
 startups:
   - jeveuxaider

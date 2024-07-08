@@ -1,12 +1,10 @@
 ---
 title: Archifiltre
-mission: >-
-  Aider les archivistes et les agents des administrations à appréhender et trier
-  des arborescences de fichiers et des messageries complètes.
+mission: Aider les archivistes et les agents des administrations à appréhender et trier des arborescences de fichiers et des messageries complètes.
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
-link: https://archifiltre.fr/
+link: https://archifiltre.fr
 repository: https://github.com/SocialGouv/archifiltre-docs
 contact: archifiltre@sg.social.gouv.fr
 usertypes:
@@ -22,17 +20,13 @@ events:
     comment: Sortie de la 1ère version Abstract Antilop d'Archifiltre
   - name: other
     date: 2019-04-03
-    comment: >-
-      Intégration d'Archifiltre en tant que startup d'Etat à l'incubateur des
-      ministères sociaux
+    comment: Intégration d'Archifiltre en tant que startup d'Etat à l'incubateur des ministères sociaux
   - name: other
     date: 2019-11-29
     comment: 1er openlab d'Archifiltre
   - name: committee
     date: 2020-06-25
-    comment: >-
-      Passage en comité d'investissement de la Fabrique numérique entérinant le
-      soutien du service interministériel des archives de France
+    comment: Passage en comité d'investissement de la Fabrique numérique entérinant le soutien du service interministériel des archives de France
 phases:
   - name: investigation
     start: 2018-01-07
@@ -48,6 +42,8 @@ phases:
 accessibility_status: non conforme
 thematiques:
   - Outil technique
+  - Archives
+techno: []
 ---
 # Le contexte
 

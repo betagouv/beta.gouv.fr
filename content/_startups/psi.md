@@ -10,14 +10,11 @@ phases:
     end: 2018-12-31
   - name: alumni
     start: 2020-07-01
-link:
-repository:
 stats: false
 contact: pierre.pezziardi@beta.gouv.fr
 usertypes:
   - entreprise
 ---
-
 ## Autoliquidation par prélèvement à la source des cotisations sociales des indépendants
 
 Une plate-forme de calcul et de prélèvement automatique qui se substitue aux multiples systèmes de recouvrement aujourd'hui au contact de l'indépendant : la Sécurité sociale pour les indépendants (ex-RSI), Urssaf et organismes de santé et de retraite conventionnés.

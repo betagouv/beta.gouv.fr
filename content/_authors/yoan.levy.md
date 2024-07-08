@@ -7,7 +7,6 @@ missions:
   - start: 2023-05-03
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - dora
 startups:

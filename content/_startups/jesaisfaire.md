@@ -10,8 +10,6 @@ phases:
     end: 2020-06-08
   - name: alumni
     start: 2020-06-08
-link:
-repository:
 stats: false
 contact: contact@beta.interieur.gouv.fr
 usertypes:
@@ -19,7 +17,6 @@ usertypes:
   - entreprise
   - etat
 ---
-
 ## Trop d’achats publics sans publicité 
 
 Les agents manquent souvent d'informations précises pour publier un cahier des charges pertinent. 

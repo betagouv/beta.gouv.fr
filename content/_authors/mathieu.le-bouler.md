@@ -6,7 +6,6 @@ missions:
   - start: 2022-06-24
     end: 2025-02-28
     status: admin
-    employer: ''
     startups:
       - romin
 startups:

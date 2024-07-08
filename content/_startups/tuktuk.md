@@ -13,7 +13,6 @@ phases:
   - name: alumni
     start: 2022-06-29
 ---
-
 ## Contexte
 
 La construction d'infrastructures cyclables dans les centres villes de France a considérablement augmenté ces dernières années. Nous constatons également que les services VTC pour les courtes distances dans les villes sont très utilisées. Enfin, **en 2017, une centaine de vélo-taxi** électrique (une solution décarbonée) **est mis à la fourrière, à Paris.** \ C'est dans ce contexte, générale, que nous avons voulu enquêter sur les solutions de mobilités plus vertes sur les courtes distances dans les centres-villes. 

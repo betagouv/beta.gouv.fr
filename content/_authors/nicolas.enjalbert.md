@@ -10,9 +10,9 @@ missions:
     status: independent
     employer: Benext, NUMA
     startups:
+      - data-inclusion
       - envergo
       - inclusion.connect
-      - data-inclusion
       - rdv.insertion
 startups:
   - envergo

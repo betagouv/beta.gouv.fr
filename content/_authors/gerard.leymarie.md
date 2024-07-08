@@ -7,7 +7,6 @@ missions:
     end: 2017-06-04
     status: admin
     employer: anssi
-startups: null
 previously:
   - api-drones
 ---

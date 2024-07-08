@@ -2,7 +2,7 @@
 title: Zen
 mission: Aider les personnes cumulant emploi et chômage à être payé le bon montant d’allocation chômage
 sponsors:
-    - /organisations/francetravail
+  - /organisations/francetravail
 incubator: francetravail
 phases:
   - name: investigation
@@ -22,7 +22,6 @@ contact: zen@pole-emploi.fr
 usertypes:
   - particulier
 ---
-
 Chaque mois plus de 3 millions de demandeurs d’emploi actualisent leur situation pour récupérer leur allocation chômage.
 
 Pour les demandeurs d’emploi qui cumulent emploi et chômage, il n’est pas toujours simple de s’actualiser et de savoir quels documents il faut envoyer, surtout si l’on a plusieurs employeurs !

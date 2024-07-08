@@ -2,7 +2,6 @@
 fullname: Guillaume Caillou
 role: Intrapreneur
 domaine: Intraprenariat
-link: null
 missions:
   - start: 2020-01-14
     end: 2023-01-14

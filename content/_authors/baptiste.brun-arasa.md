@@ -2,7 +2,6 @@
 fullname: Baptiste Brun-Arasa
 role: Développeur
 domaine: Développement
-avatar: null
 github: BaptisteB-A
 missions:
   - start: 2019-01-07

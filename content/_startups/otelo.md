@@ -1,8 +1,5 @@
 ---
-mission: >-
-  Faciliter l'élaboration de politiques locales de l'habitat en fournissant un
-  outil performant et collaboratif permettant l’intégration des besoins en
-  logements, et le suivi de l'efficacité des politiques en matière de logement.
+mission: Faciliter l'élaboration de politiques locales de l'habitat en fournissant un outil performant et collaboratif permettant l’intégration des besoins en logements, et le suivi de l'efficacité des politiques en matière de logement.
 incubator: mtes
 title: OTELO
 contact: luc.bercegol@developpement-durable.gouv.fr
@@ -12,8 +9,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-05-01
-  - start: 2023-10-10
-    name: construction
+  - name: construction
+    start: 2023-10-10
 ---
 # OTELO
 

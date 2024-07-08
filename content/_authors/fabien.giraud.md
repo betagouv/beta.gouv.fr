@@ -14,4 +14,3 @@ startups:
   - homologation
 memberType: beta
 ---
-
