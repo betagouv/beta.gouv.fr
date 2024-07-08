@@ -50,7 +50,6 @@ accessibility_status: non conforme
 thematiques:
   - Outil technique
   - Archives
-techno: []
 ---
 # Le contexte
 

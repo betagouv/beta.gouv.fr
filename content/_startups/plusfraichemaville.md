@@ -35,7 +35,8 @@ redirect_from:
   - /startups/rafraichir.les.villes
 thematiques:
   - Écologie
-usertypes: []
+usertypes:
+  - collectivite-territoriale
 ---
 ## Contexte
 

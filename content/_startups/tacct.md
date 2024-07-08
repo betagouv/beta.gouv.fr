@@ -34,12 +34,8 @@ techno:
     - TypeScript
 thematiques:
   - Écologie
-analyse_risques: true
-analyse_risques_url: https://github.com/incubateur-ademe/facili-tacct/blob/main/SECURITY.md
-repository: https://github.com/incubateur-ademe/facili-tacct
-link: https://facili-tacct.beta.gouv.fr
-usertypes: []
-techno: []
+usertypes:
+  - collectivite-territoriale
 ---
 # Contexte
 
