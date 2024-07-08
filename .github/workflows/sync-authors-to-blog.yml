@@ -1,5 +1,7 @@
 name: Sync 'authors' content with blog.beta.gouv.fr
 on:
+  schedule:
+  - cron:  "*/15 * * * *"
   workflow_dispatch:
   push:
     branches: ['master']
@@ -9,11 +11,11 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
     - name: Sync
-      uses: adrianjost/files-sync-action@v1.0.1
+      uses: adrianjost/files-sync-action@v2.1.0
       with:
         FILE_PATTERNS: |
-          ^content/_authors/
-          ^img/authors/
+          ^content$
+          ^img
         TARGET_REPOS: |
           betagouv/blog.beta.gouv.fr
         GITHUB_TOKEN: ${{ secrets.SYNC_TOKEN }}
