@@ -4,16 +4,16 @@ mission: Faciliter le parcours administratif de demande de devis de formation
 sponsors:
   - /organisations/anct
 incubator: anct
-phases:
-  - name: alumni
-    start: 2019-09-04
-  - name: investigation
-    start: 2019-10-21
-    end: 2020-01-30
-stats: false
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
+stats: false
+phases:
+  - name: alumni
+    start: 2019-09-04
+  - name: alumni
+    start: 2019-10-21
+    end: 2020-01-30
 ---
 ## Problème visé :
 
