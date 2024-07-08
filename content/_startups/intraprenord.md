@@ -4,18 +4,18 @@ mission: Trouver le bon interlocuteur au sein du département
 sponsors:
   - /organisations/anct
 incubator: anct
+contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - particulier
+stats: false
 phases:
-  - name: investigation
+  - name: alumni
     start: 2020-01-14
   - name: alumni
     start: 2020-05-01
   - name: construction
     start: 2021-03-01
-stats: false
-contact: contactincubateur@anct.gouv.fr
-usertypes:
-  - collectivite-territoriale
-  - particulier
 ---
 ## Problème visé :
 Difficulté des usagers pour trouver le bons interlocuteurs (service / personne compétente) au sein du département.
