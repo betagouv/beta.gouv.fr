@@ -8,8 +8,8 @@ missions:
     status: admin
     employer: Ministère des armées
     startups:
-      - oscars
       - cassiopee
+      - oscars
 startups:
   - oscars
   - cassiopee

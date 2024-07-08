@@ -1,8 +1,6 @@
 ---
 title: infoParquet
-mission: >-
-  Simplifier la transmission et le suivi des procédures entre Administrations
-  (hors Police et Gendarmerie) et Juridictions
+mission: Simplifier la transmission et le suivi des procédures entre Administrations (hors Police et Gendarmerie) et Juridictions
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -19,7 +17,6 @@ thematiques:
 dashlord_url: https://github.com/betagouv/dashlord/blob/main/dashlord.yml
 accessibility_status: non conforme
 ---
-
 # **Contexte**
 
 Chaque année, des dizaines de milliers d’administrations saisissent le procureur de la République afin de l’informer de faits pouvant entraîner des poursuites pénales.

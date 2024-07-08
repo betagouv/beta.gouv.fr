@@ -1,8 +1,8 @@
 ---
 title: Bureaux vacants
 mission: Transformer les bureaux vacants en logement
-sponsors: 
-    - /organisations/dgaln
+sponsors:
+  - /organisations/dgaln
 incubator: mtes
 contact: guillaume.coppe@beta.gouv.fr
 phases:

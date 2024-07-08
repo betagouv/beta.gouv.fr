@@ -3,8 +3,6 @@ fullname: Stanislas Ormières
 role: Responsable technique du LAB-MI
 domaine: Animation
 github: laruiss
-avatar: null
-link: null
 missions:
   - start: 2018-11-01
     end: 2020-12-31

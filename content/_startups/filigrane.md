@@ -2,15 +2,14 @@
 title: FiligraneFacile
 mission: Protéger les personnes de l'usurpation d'identité via leurs documents
 sponsors:
-  - /organisations/dgaln
   - /organisations/dhup
+  - /organisations/dgaln
 incubator: mtes
 link: https://filigrane.beta.gouv.fr/
 repository: https://github.com/mtes-mct/locatio
 contact: contact@filigrane.beta.gouv.fr
 stats: true
-stats_url: >-
-  http://51.210.250.115:3000/public/dashboard/199a72cf-6a75-4e28-bc07-103e4409ea07
+stats_url: http://51.210.250.115:3000/public/dashboard/199a72cf-6a75-4e28-bc07-103e4409ea07
 accessibility_status: non conforme
 usertypes:
   - particulier

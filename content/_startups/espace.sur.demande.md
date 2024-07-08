@@ -1,9 +1,6 @@
 ---
-link: >-
-  https://espacesurdemande.anct.gouv.fr/?mtm_campaign=annuaire-se-beta&mtm_source=web&mtm_medium=beta-gouv
-mission: >-
-  Faciliter la mise à disposition et la location des espaces publics des
-  collectivités auprès des citoyens.
+link: https://espacesurdemande.anct.gouv.fr/?mtm_campaign=annuaire-se-beta&mtm_source=web&mtm_medium=beta-gouv
+mission: Faciliter la mise à disposition et la location des espaces publics des collectivités auprès des citoyens.
 incubator: anct
 title: Espace sur Demande
 contact: servicesnumeriques@anct.beta.gouv.fr
@@ -21,8 +18,7 @@ thematiques:
   - Administratif
   - Entreprises
 stats_url: https://espacesurdemande.anct.gouv.fr/statistiques
-repository: >-
-  https://gitlab.com/incubateur-territoires/startups/espace-sur-demande/application
+repository: https://gitlab.com/incubateur-territoires/startups/espace-sur-demande/application
 mon_service_securise: true
 usertypes:
   - particulier

@@ -8,9 +8,9 @@ missions:
     status: admin
     employer: dinum
     startups:
-      - mps
       - api-entreprise
       - demarches-simplifiees.fr
+      - mps
 startups:
   - mps
   - api-entreprise

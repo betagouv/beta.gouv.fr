@@ -3,17 +3,17 @@ fullname: Gauthier Nadaud
 role: Expert Fonds d'Acceleration des Startups d'Etat et de Territoire (FAST)
 domaine: Coaching
 missions:
-  - start: 2023-12-30
-    end: 2025-06-30
-    status: admin
-    employer: DINUM
-    startups:
-      - data-subvention
-      - ma-cantine-egalim
   - start: 2023-09-26
     end: 2023-12-30
     status: independent
     employer: NUMA
+    startups:
+      - data-subvention
+      - ma-cantine-egalim
+  - start: 2023-12-30
+    end: 2025-06-30
+    status: admin
+    employer: DINUM
     startups:
       - data-subvention
       - ma-cantine-egalim
@@ -22,8 +22,8 @@ missions:
     status: admin
     employer: DINUM
     startups:
-      - place-de-marche-inclusion
       - homologation
+      - place-de-marche-inclusion
 startups:
   - data-subvention
   - ma-cantine-egalim

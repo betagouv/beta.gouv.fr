@@ -17,7 +17,6 @@ missions:
     end: 2024-12-15
     status: independent
     employer: malt
-    startups: []
 startups:
   - les-emplois
 previously:

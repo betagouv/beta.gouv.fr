@@ -1,11 +1,9 @@
 ---
 title: Conventionnement IAE
-mission: Investiguer les problèmes liés au conventionnement des Structures de
-  l'Insertion par l'Activité Economique (SIAE) auprès des services de l'État.
+mission: Investiguer les problèmes liés au conventionnement des Structures de l'Insertion par l'Activité Economique (SIAE) auprès des services de l'État.
 sponsors:
   - /organisations/dgefp
 incubator: sgmas
-link: ""
 contact: elodie.bonnet@haute-garonne.gouv.fr
 events:
   - name: committee

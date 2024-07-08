@@ -8,9 +8,9 @@ missions:
     end: 2023-04-23
     status: independent
     startups:
-      - les-emplois
-      - la.communaute.de.linclusion
       - dora
+      - la.communaute.de.linclusion
+      - les-emplois
 startups:
   - les-emplois
   - la.communaute.de.linclusion

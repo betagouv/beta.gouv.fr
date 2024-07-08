@@ -1,8 +1,6 @@
 ---
 title: Sirius
-mission: >-
-  Aider les jeunes dans leurs choix d’orientation en donnant accès aux
-  témoignages des apprentis
+mission: Aider les jeunes dans leurs choix d’orientation en donnant accès aux témoignages des apprentis
 sponsors:
   - /organisations/dgefp
 incubator: mission-inserjeunes

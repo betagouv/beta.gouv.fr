@@ -8,9 +8,9 @@ missions:
     end: 2022-12-30
     status: independent
     employer: Numa
-  - status: independent
-    start: 2023-05-02
+  - start: 2023-05-02
     end: 2024-12-31
+    status: independent
 incubator: ademe
 startups:
   - plusfraichemaville

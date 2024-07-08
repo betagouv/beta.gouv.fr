@@ -7,7 +7,6 @@ missions:
     end: 2017-08-31
     status: admin
     employer: MEEM
-startups: null
 previously:
   - plante-et-moi
 ---

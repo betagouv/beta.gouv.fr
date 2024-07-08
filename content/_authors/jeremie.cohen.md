@@ -8,10 +8,10 @@ missions:
     end: 2021-11-30
     status: independent
     employer: NUMA
-  - status: independent
-    employer: LBC
-    start: 2022-02-01
+  - start: 2022-02-01
     end: 2022-07-31
+    status: independent
+    employer: LBC
 competences:
   - UX
 ---

@@ -2,8 +2,8 @@
 title: Légistix
 mission: Aider les rédacteurs à produire et à corriger les textes normatifs
 sponsors:
-  - /organisations/mefr
   - /organisations/dg-tresor
+  - /organisations/mefr
 incubator: bercy
 phases:
   - name: investigation
@@ -14,15 +14,12 @@ phases:
     start: 2022-01-01
 usertypes:
   - etat
-link: 
-repository: 
 stats: false
 contact: amd@finances.gouv.fr
 techno:
   - PostgreSQL
   - Angular
 ---
-
 ## Le problème : trop de temps perdu (et de stress) à consolider les projets de textes normatifs
 
 Une part importante de l'activité au sein des bureaux du service du financement de l'économie (SFE)

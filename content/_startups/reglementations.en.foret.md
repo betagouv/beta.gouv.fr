@@ -1,9 +1,6 @@
 ---
 title: Règlementations en forêt
-mission: >-
-  Mieux faire connaître les obligations légales des propriétaires de forêts et
-  aider à leur mise en œuvre afin de garantir les enjeux de préservation des
-  écosystèmes et de protection de la ressource
+mission: Mieux faire connaître les obligations légales des propriétaires de forêts et aider à leur mise en œuvre afin de garantir les enjeux de préservation des écosystèmes et de protection de la ressource
 sponsors:
   - /organisations/ign
 incubator: fab-geocommuns
@@ -13,8 +10,8 @@ phases:
   - name: investigation
     start: 2022-09-11
     end: 2022-12-11
-  - start: 2023-09-01
-    name: alumni
+  - name: alumni
+    start: 2023-09-01
 ---
 **Contexte**
 

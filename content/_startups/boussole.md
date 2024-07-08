@@ -12,14 +12,12 @@ phases:
     start: 2015-12-01
   - name: alumni
     start: 2017-06-30
-link:
 repository: https://github.com/betagouv/boussole
 stats: false
 contact: contact@boussole.beta.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Abandon
 
 Nous avons accompagné la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> dans les phases d’investigation et de construction du service « Boussole de droits » entre 2016 et 2017. Nous avons mis fin à cette collaboration en juillet 2017.

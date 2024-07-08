@@ -6,7 +6,6 @@ missions:
   - start: 2023-04-09
     end: 2024-10-31
     status: independent
-    employer: ''
     startups:
       - plusfraichemaville
 startups:

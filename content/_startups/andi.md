@@ -1,8 +1,8 @@
 ---
 title: ANDi
 mission: Faciliter l'immersion professionnelle des personnes en situation de handicap
-sponsors: 
-    - /organisations/cdc
+sponsors:
+  - /organisations/cdc
 incubator: dinum
 events:
   - name: end
@@ -21,7 +21,6 @@ contact: karel.cloarec@beta.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Fiche produit
 
 ## Le problème 

@@ -7,7 +7,6 @@ missions:
   - start: 2022-08-29
     end: 2024-03-01
     status: independent
-    employer: ''
     startups:
       - nosgestesclimat
 startups:

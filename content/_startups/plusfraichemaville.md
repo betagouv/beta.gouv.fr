@@ -1,7 +1,6 @@
 ---
 title: Plus fraîche ma ville
-mission: >-
-  Accompagner les collectivités dans le choix de solutions de rafraîchissement urbain pérennes et durables
+mission: Accompagner les collectivités dans le choix de solutions de rafraîchissement urbain pérennes et durables
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -23,10 +22,10 @@ phases:
     start: 2022-09-26
     end: 2024-10-17
 techno:
-    - Next.js
-    - React
-    - TypeScript
-    - Directus
+  - Next.js
+  - React
+  - TypeScript
+  - Directus
 redirect_from:
   - /startups/rafraichir.les.villes
 thematiques:

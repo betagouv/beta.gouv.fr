@@ -10,16 +10,12 @@ phases:
     end: 2019-06-30
   - name: alumni
     start: 2020-07-01
-link:
-repository:
 stats: false
-stats_url:
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
   - particulier
 ---
-
 ## Problème visé :
 
 Chaque année, une moyenne de 70 projets de nature et d'envergure diverse voient le jour dans la ville de Pau.

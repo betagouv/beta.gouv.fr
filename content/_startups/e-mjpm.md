@@ -21,11 +21,9 @@ phases:
     start: 2020-09-01
   - name: transfer
     start: 2022-09-01
-
 usertypes:
   - etat
 ---
-
 ### Simplifier la relation entre les magistrats et professionnels de la protection juridique des majeurs
 
 La France compte entre 800 000 et 1 million de personnes sous mesure de protection (tutelle, curatelle, sauvegarde de justice). Chaque année plusieurs milliers de personnes majeures sont nouvellement concernés. Ces dernières, dans l’impossibilité de pourvoir seules à leurs intérêts (à cause d’une altération de leur faculté mentale ou corporelle) ont besoin d’être assistées ou représentées par un proche ou un professionnel.

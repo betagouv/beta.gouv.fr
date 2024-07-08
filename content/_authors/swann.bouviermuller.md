@@ -13,5 +13,4 @@ missions:
 startups:
   - mon-diagnostic-artificialisation
 ---
-
 Développeur Django sénior

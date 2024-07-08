@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: NUMA
     startups:
-      - zero-logement-vacant
       - sante-psy-etudiant
+      - zero-logement-vacant
 startups:
   - zero-logement-vacant
   - sante-psy-etudiant

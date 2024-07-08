@@ -7,8 +7,8 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - tchap
       - suite-numerique
+      - tchap
 competences:
   - Développement Frontend
   - Sécurité informatique
