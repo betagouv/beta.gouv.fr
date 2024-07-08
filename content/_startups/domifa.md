@@ -1,8 +1,6 @@
 ---
 title: DomiFa
-mission: >-
-  Faciliter l'accès aux droits pour les personnes sans domicile stable, en
-  simplifiant la gestion de la domiciliation
+mission: Faciliter l'accès aux droits pour les personnes sans domicile stable, en simplifiant la gestion de la domiciliation
 sponsors:
   - /organisations/dgcs
 incubator: sgmas
@@ -27,8 +25,7 @@ contact: contact.domifa@fabrique.social.gouv.fr
 usertypes:
   - association
   - collectivite-territoriale
-dashlord_url: >-
-  https://socialgouv.github.io/dashlord-fabrique/url/domifa-fabrique-social-gouv-fr/
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/domifa-fabrique-social-gouv-fr/
 accessibility_status: partiellement conforme
 analyse_risques: true
 thematiques:

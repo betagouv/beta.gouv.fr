@@ -8,9 +8,9 @@ missions:
     status: admin
     employer: dinum
     startups:
+      - api-entreprise
       - data.gouv.fr
       - le-taxi
-      - api-entreprise
 startups:
   - data.gouv.fr
   - le-taxi

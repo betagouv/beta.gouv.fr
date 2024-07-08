@@ -5,11 +5,10 @@ sponsors:
   - /organisations/ademe
 incubator: ademe
 contact: contact@mission-transition-ecologique.beta.gouv.fr
-link: http://mission-transition-ecologique.beta.gouv.fr/
+link: http://mission-transition-ecologique.beta.gouv.fr
 repository: https://github.com/betagouv/mission-transition-ecologique
 accessibility_status: non conforme
-dashlord_url: >-
-  https://incubateur-ademe.github.io/dashlord/url/mission-transition-ecologique-beta-gouv-fr/
+dashlord_url: https://incubateur-ademe.github.io/dashlord/url/mission-transition-ecologique-beta-gouv-fr/
 stats: false
 phases:
   - name: investigation
@@ -27,6 +26,8 @@ stats_url: https://mission-transition-ecologique.beta.gouv.fr/stats
 thematiques:
   - Écologie
   - Entreprises
+analyse_risques: true
+analyse_risques_url: https://github.com/betagouv/mission-transition-ecologique/blob/main/SECURITY.md
 ---
 Le service public Transition Écologique des Entreprises est un guichet d'accueil, d'aide et d'accompagnement dans la transition écologique des entreprises.
 

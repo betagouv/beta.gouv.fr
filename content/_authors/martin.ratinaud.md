@@ -10,8 +10,8 @@ missions:
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
     startups:
-      - open-terms-archive
       - disinfo
+      - open-terms-archive
   - start: 2024-07-04
     end: 2024-12-31
     status: independent

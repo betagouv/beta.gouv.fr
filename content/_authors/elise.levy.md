@@ -5,9 +5,8 @@ domaine: Produit
 missions:
   - start: 2017-03-06
     end: 2017-09-06
-    employer: dinum
     status: admin
-startups: null
+    employer: dinum
 previously:
   - open-academie
 ---

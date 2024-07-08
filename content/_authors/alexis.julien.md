@@ -4,7 +4,6 @@ role: Développeur
 domaine: Développement
 github: ajulien973
 avatar: https://refactorsaurusrex.com/images/rawr-avatar.png
-link: null
 missions:
   - start: 2019-07-15
     end: 2019-12-31

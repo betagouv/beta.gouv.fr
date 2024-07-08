@@ -7,7 +7,6 @@ missions:
   - start: 2023-07-17
     end: 2024-12-17
     status: independent
-    employer: ''
     startups:
       - rdv.insertion
 startups:

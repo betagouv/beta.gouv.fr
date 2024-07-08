@@ -6,10 +6,9 @@ missions:
   - start: 2021-09-01
     end: 2023-12-31
     status: independent
-    employer: ''
     startups:
-      - monstage
       - deveco
+      - monstage
 startups:
   - monstage
   - deveco

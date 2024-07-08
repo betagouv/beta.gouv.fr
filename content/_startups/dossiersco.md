@@ -1,8 +1,8 @@
 ---
 title: DossierSCO
 mission: Inscrire son enfant au collège en quelques clics
-sponsors: 
-    - /organisations/menjs
+sponsors:
+  - /organisations/menjs
 incubator: dinum
 events:
   - name: end
@@ -24,7 +24,6 @@ usertypes:
   - particulier
   - etablissement-scolaire
 ---
-
 Permettre aux parents d’inscrire en ligne leurs enfants et de télécharger des pièces justificatives, sans avoir à renseigner chaque année les mêmes informations déjà connues de l’Education nationale.
 
 Permettre aux agents de récupérer les pièces et les données nouvelles, sans avoir à relire l’ensemble des dossiers d’inscription.

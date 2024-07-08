@@ -2,7 +2,7 @@
 title: Gérer les équipements municipaux (culturels, sportifs, associatifs)
 mission: Programme national d'investigation (36)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -10,9 +10,7 @@ phases:
   - name: alumni
     start: 2021-11-01
 link: https:&#x2F;&#x2F;kwenduparis.wixsite.com&#x2F;equipements-fronton-
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
 ---
 Gestion des équipements municipaux (sportifs, culturels, associatifs...)

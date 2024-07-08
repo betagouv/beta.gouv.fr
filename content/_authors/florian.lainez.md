@@ -16,5 +16,4 @@ competences:
   - OpenStreetMap
 memberType: beta
 ---
-
 Expert OpenStreetMap

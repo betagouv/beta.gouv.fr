@@ -1,7 +1,6 @@
 ---
 title: Traçabilité courrier
-mission: Tracer le courrier au tribunal pour permettre aux justiciables d'avoir
-  un accusé reception de leur courrier
+mission: Tracer le courrier au tribunal pour permettre aux justiciables d'avoir un accusé reception de leur courrier
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -14,8 +13,6 @@ phases:
   - name: alumni
     start: 2022-10-31
 ---
-
-
 ## Contexte
 
 Le tribunal de Paris est le plus grand d'Europe, regroupant des entitées uniques en France. La masse de courrier qui y transite chaque est énorme. Depuis le dépot de courrier en main propre au service du SAUJ jusqu'à sa destination finale, il peut y avoir jusqu'à huit intermédiaires. De cela découle des difficultées pour les agents du SAUJ et des services à renseigner les usagers sur la transmission et la localisation de courriers entrants. De plus, un temps conséquent des agents est dédié à la traçabilité : sous forme de tableaux excel, de cahiers papier avec émargement obligatoire ou de photocopies de premières pages, les agents n'ont pas un dispositif de traçabilité homogène, rapide et transparent pour répondre aux sollicitations des services pour localiser des courriers.

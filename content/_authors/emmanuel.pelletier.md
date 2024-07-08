@@ -10,8 +10,8 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - suite-numerique
       - moncomptepro
+      - suite-numerique
 startups:
   - suite-numerique
 memberType: dinum

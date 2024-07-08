@@ -1,7 +1,6 @@
 ---
 title: Vert impact
-mission: Mesurer l'impact réel des projets de transition écologique financés par
-  le fonds vert.
+mission: Mesurer l'impact réel des projets de transition écologique financés par le fonds vert.
 sponsors:
   - /organisations/dgaln
 incubator: mtes

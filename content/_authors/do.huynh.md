@@ -8,13 +8,12 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - jeveuxaider
-      - demarches-simplifiees.fr
       - api-engagement
+      - demarches-simplifiees.fr
+      - jeveuxaider
   - start: 2024-03-18
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - sirius
       - vigieau

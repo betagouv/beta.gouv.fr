@@ -9,7 +9,6 @@ missions:
     end: 2016-09-02
     status: service
     employer: octo
-startups: null
 previously:
   - api.gouv.fr
 ---

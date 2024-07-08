@@ -16,5 +16,4 @@ badges:
 startups:
   - dossierfacile
 ---
-
 BizDev !

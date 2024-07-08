@@ -7,11 +7,10 @@ missions:
   - start: 2019-05-14
     end: 2025-01-31
     status: independent
-    employer: ''
     startups:
-      - sepia
-      - osirispn
       - bases.adresses.locales
+      - osirispn
+      - sepia
 startups:
   - sepia
   - osirispn

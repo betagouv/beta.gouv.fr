@@ -13,7 +13,6 @@ missions:
     end: 2022-06-30
     status: independent
     employer: La Zone
-startups: null
 previously:
   - carnet.de.bord
 competences:

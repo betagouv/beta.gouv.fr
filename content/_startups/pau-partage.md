@@ -10,16 +10,11 @@ phases:
     end: 2019-06-30
   - name: alumni
     start: 2020-07-01
-
-link:
-repository:
 stats: false
-stats_url:
 contact: c.hiernard@agglo-pau.fr
 usertypes:
   - particulier
 ---
-
 ## Problème visé :
 
 En France, en 2019, 5 millions de personnes sont isolées, dont 23% ont plus de 75 ans.

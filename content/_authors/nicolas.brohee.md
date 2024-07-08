@@ -7,7 +7,6 @@ missions:
     end: 2017-08-08
     status: service
     employer: octo
-startups: null
 previously:
   - etudiant-entrepreneur
 ---

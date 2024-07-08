@@ -9,8 +9,8 @@ missions:
     end: 2022-02-27
     status: independent
     startups:
-      - mon-entreprise
       - euphrosyne
+      - mon-entreprise
 startups:
   - mon-entreprise
   - euphrosyne

@@ -4,10 +4,10 @@ role: Développeuse
 domaine: Développement
 github: asagot-ansa
 missions:
-  - employer: OCTO
+  - start: 2020-02-19
     end: 2021-06-30
-    start: 2020-02-19
     status: service
+    employer: OCTO
     startups:
       - pass-culture
 startups:

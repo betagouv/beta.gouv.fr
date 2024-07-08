@@ -2,7 +2,7 @@
 title: Investigation Cour des Comptes 2021
 mission: Partager aux petites collectivités les connaissances des CRTC / permettre de consulter les citoyens sur les grandes politiques publiques.
 sponsors:
- - /organisations/c-comptes
+  - /organisations/c-comptes
 incubator: dinum
 contact: camille.andrieu@ccomptes.fr
 phases:

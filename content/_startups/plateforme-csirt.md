@@ -1,8 +1,6 @@
 ---
 title: Plateforme CSIRT
-mission: >-
-  Soutenir le développement de l'écosystème français des équipes de réponse aux
-  cyber attaques
+mission: Soutenir le développement de l'écosystème français des équipes de réponse aux cyber attaques
 sponsors:
   - /organisations/anssi
 incubator: lab-innov-anssi
@@ -12,15 +10,9 @@ phases:
     end: 2021-01-31
   - name: alumni
     start: 2021-02-01
-link: null
-repository: null
 stats: false
-stats_url: null
 contact: contact@beta.gouv.fr
-
 ---
-
-
 ## Contexte
 
 Les incidents de cybersécurité sont de plus en plus fréquents, et l’impact sur des acteurs publics comme privés est de plus en plus grave. Peuvent être cités comme exemples [les ransomwares qui ont affecté la chaîne M6](https://www.usinenouvelle.com/article/pourquoi-m6-redoute-les-vendredis-soirs.N922269) en octobre 2019, [l’attaque informatique qui a touché le centre hospitalier universitaire (CHU) de Rouen](https://www.lemonde.fr/pixels/article/2019/11/26/apres-la-cyberattaque-au-chu-de-rouen-l-enquete-s-oriente-vers-la-piste-crapuleuse_6020609_4408996.html) en novembre 2019 ou encore [l’attaque des usines Fleury Michon](https://www.bfmtv.com/economie/consommation/cyberattaque-5-jours-d-arret-pour-les-usines-fleury-michon_AN-201904150220.html) en avril 2019. 

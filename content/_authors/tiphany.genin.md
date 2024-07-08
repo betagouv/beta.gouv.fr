@@ -6,7 +6,6 @@ missions:
   - start: 2023-03-01
     end: 2026-12-31
     status: admin
-    employer: ''
     startups:
       - potentiel
 startups:

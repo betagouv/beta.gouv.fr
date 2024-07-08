@@ -2,25 +2,22 @@
 title: CyberBudget
 mission: Découvrir le fondement d'un budget de l'Etat par le jeu
 sponsors:
- - /organisations/mefr
+  - /organisations/mefr
 incubator: bercy
 phases:
   - name: investigation
     start: 2020-03-01
   - name: construction
     start: 2021-03-01
-  - name : alumni
-    start : 2022-01-01
-link: 
-repository: 
+  - name: alumni
+    start: 2022-01-01
 stats: false
 contact: amd@finances.gouv.fr
 techno:
   - en cours
 usertypes:
-  - etablissement-scolaire 
+  - etablissement-scolaire
 ---
-
 ## Le problème : le bugdet de l'Etat, une matière de spécialistes... et donc inaccessible
 
 Les familles françaises ne savent pas à quoi correspond l'ensemble des dépenses publiques nationales

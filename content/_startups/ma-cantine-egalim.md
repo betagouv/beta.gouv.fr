@@ -1,18 +1,18 @@
 ---
 title: ma cantine
 mission: Accompagner les acteurs de la restauration collective pour proposer une alimentation de qualité, saine et durable
-sponsors: 
+sponsors:
   - /organisations/dgal
 incubator: agriculture
 phases:
-    - name: investigation
-      start: 2020-09-01
-      end: 2020-10-29
-    - name: construction
-      start: 2020-10-29
-      end: 2021-12-31
-    - name: acceleration
-      start: 2022-01-01
+  - name: investigation
+    start: 2020-09-01
+    end: 2020-10-29
+  - name: construction
+    start: 2020-10-29
+    end: 2021-12-31
+  - name: acceleration
+    start: 2022-01-01
 link: https://ma-cantine.agriculture.gouv.fr
 repository: https://github.com/betagouv/ma-cantine
 stats: true
@@ -29,8 +29,11 @@ thematiques:
   - Administratif
   - Alimentation
 accessibility_status: partiellement conforme
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 250000€ pour la promotion 13
 ---
-
 ## Contexte et enjeux
 
 15 millions de Français prennent chaque jour au moins un repas hors de leur domicile, dont plus de la moitié en restauration collective. Cette spécificité française fait de la restauration collective un passage obligé pour de nombreux français.

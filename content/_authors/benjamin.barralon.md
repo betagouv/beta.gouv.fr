@@ -9,10 +9,10 @@ missions:
     status: admin
     employer: AMUE
     startups:
-      - sirius
       - exposition-ij
       - investigation-ij
       - pilotagevoiepro
+      - sirius
 startups:
   - sirius
   - exposition-ij
@@ -23,4 +23,3 @@ teams:
 badges:
   - segur
 ---
- 

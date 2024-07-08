@@ -4,11 +4,11 @@ mission: Accélérer la réparation, le partage des objets et faciliter le geste
 sponsors:
   - /organisations/ademe
 incubator: ademe
-link: https://longuevieauxobjets.ademe.fr/
+link: https://longuevieauxobjets.ademe.fr
 repository: https://github.com/incubateur-ademe/quefairedemesobjets
 contact: longuevieauxobjets@ademe.fr
 stats: false
-budget_url: https://longuevieauxobjets.ademe.fr/budget/
+budget_url: https://longuevieauxobjets.ademe.fr/budget
 dashlord_url: https://incubateur-ademe.github.io/dashlord/url/longuevieauxobjets-ademe-fr/
 analyse_risques: true
 accessibility_status: non conforme
@@ -28,7 +28,8 @@ phases:
     start: 2023-06-01
 thematiques:
   - Écologie
-stats_url: https://longuevieauxobjets.ademe.fr/stats/
+stats_url: https://longuevieauxobjets.ademe.fr/stats
+techno: []
 ---
 ## Contexte 👀
 

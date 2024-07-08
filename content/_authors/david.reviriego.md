@@ -12,6 +12,5 @@ missions:
 competences:
   - Communication
 memberType: beta
-link: >-
-  https://www.linkedin.com/in/david-reviriego-077707124/?trk=author-info__article-link
+link: https://www.linkedin.com/in/david-reviriego-077707124/?trk=author-info__article-link
 ---

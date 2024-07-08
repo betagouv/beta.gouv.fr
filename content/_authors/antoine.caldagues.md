@@ -14,5 +14,4 @@ startups:
   - data-inclusion
 memberType: beta
 ---
-
 Entre Paris et la Normandie
