@@ -7,8 +7,8 @@ competences: []
 missions:
   - start: 2024-07-05
     end: 2025-03-05
-    employer: INOPS
     status: independent
+    employer: INOPS
     startups:
       - pilotage.de.linclusion
 ---

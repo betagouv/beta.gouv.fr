@@ -9,6 +9,7 @@ repository: https://github.com/SocialGouv/archifiltre-docs
 contact: archifiltre@sg.social.gouv.fr
 usertypes:
   - etat
+  - particulier
 stats_url: https://archifiltre.fr/stats
 stats: true
 events:
