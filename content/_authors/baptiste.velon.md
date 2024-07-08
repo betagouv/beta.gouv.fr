@@ -8,9 +8,9 @@ missions:
     status: independent
     startups:
       - vigieau
-  - status: independent
-    start: 2024-07-02
+  - start: 2024-07-02
     end: 2024-09-30
+    status: independent
     startups:
       - vigieau
 memberType: beta

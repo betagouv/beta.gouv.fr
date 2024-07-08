@@ -10,11 +10,11 @@ missions:
     status: independent
     employer: Agence du Service Civique
     startups:
-      - usine-chatbots
+      - airvam
       - les-alpps
       - octopus
       - osirispn
-      - airvam
+      - usine-chatbots
 startups:
   - usine-chatbots
   - les-alpps

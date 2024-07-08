@@ -9,7 +9,6 @@ missions:
     employer: eig
     startups:
       - signaux-faibles
-avatar: null
 startups:
   - signaux-faibles
 ---

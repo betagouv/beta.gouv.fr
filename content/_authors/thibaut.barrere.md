@@ -3,7 +3,6 @@ fullname: Thibaut Barrère
 role: Développeur / Data Engineer / Ops
 domaine: Développement
 github: thbar
-avatar: null
 link: https://thibautbarrere.com
 missions:
   - start: 2020-11-02

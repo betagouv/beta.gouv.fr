@@ -1,9 +1,8 @@
 ---
-mission: Accélérer les rendez-vous des usagers en insertion et diminuer le taux
-  d'absentéisme
+mission: Accélérer les rendez-vous des usagers en insertion et diminuer le taux d'absentéisme
 sponsors:
-  - /organisations/francetravail
   - /organisations/mtei
+  - /organisations/francetravail
 incubator: gip-inclusion
 link: https://www.rdv-insertion.fr/
 repository: https://github.com/betagouv/rdv-insertion
@@ -27,7 +26,6 @@ thematiques:
   - Social
 accessibility_status: non conforme
 ---
-
 ## Le problème
 
 Les parcours d’insertion sont longs et peu suivis :

@@ -9,8 +9,8 @@ missions:
     status: admin
     employer: ANCT
     startups:
-      - suite.d.outils.des.mediateurs.numeriques
       - les.bases
+      - suite.d.outils.des.mediateurs.numeriques
 teams:
   - /teams/anct
 memberType: beta

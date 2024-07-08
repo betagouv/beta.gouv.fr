@@ -1,12 +1,11 @@
 ---
 title: Impact CO2
-mission: >-
-  Le site internet qui vulgarise et valorise les données environnementales de l'ADEME
+mission: Le site internet qui vulgarise et valorise les données environnementales de l'ADEME
 sponsors:
   - /organisations/ademe
 incubator: ademe
 contact: impactco2@ademe.fr
-link: https://impactco2.fr/
+link: https://impactco2.fr
 repository: https://github.com/incubateur-ademe/impactco2
 accessibility_status: partiellement conforme
 dashlord_url: https://incubateur-ademe.github.io/dashlord/url/impactco2-fr/
@@ -18,17 +17,17 @@ analyse_risques_url: https://github.com/incubateur-ademe/impactco2/blob/main/SEC
 phases:
   - name: construction
     start: 2021-02-01
+  - name: success
+    comment: Spin-off de Datagir
+    start: 2022-06-13
   - name: acceleration
     start: 2022-09-01
-  - name: success
-    start: 2022-06-13
-    comment: Spin-off de Datagir
 techno:
-    - Next.js
-    - React
-    - TypeScript
-    - public.codes
-    - Prisma
+  - Next.js
+  - React
+  - TypeScript
+  - public.codes
+  - Prisma
 usertypes:
   - particulier
   - entreprise

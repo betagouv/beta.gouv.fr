@@ -8,7 +8,6 @@ missions:
   - start: 2023-06-12
     end: 2024-09-12
     status: independent
-    employer: ''
     startups:
       - mon-aide-cyber
 startups:

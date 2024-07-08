@@ -2,7 +2,6 @@
 fullname: Adèle Schlauder
 domaine: Intraprenariat
 role: Intrapreneur
-avatar: ''
 missions:
   - start: 2021-09-13
     end: 2023-09-13

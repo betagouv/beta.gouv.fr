@@ -14,5 +14,4 @@ startups:
 badges:
   - segur
 ---
-
 Hello! Étudiant en L3 à HEC, je suis chargé de déploiement pour DossierFacile.

@@ -1,5 +1,5 @@
 ---
-title: Logement de crise # une majuscule et pas d'acronymes
+title: Logement de crise
 mission: Faciliter le travail d’attribution du “bon” logement aux déplacés d’Ukraine
 sponsors:
   - /organisations/dihal
@@ -10,7 +10,6 @@ phases:
 stats: false
 contact: brigade@beta.gouv.fr
 ---
-
 ## Le contexte
 
 La guerre en Ukraine, déclenchée en février 2022, a généré un afflux conséquent et soudain vers la France de personnes fuyant le conflit. Leur accueil a dû être organisé dans l’urgence : services préfectoraux et associations se sont mobilisés pour organiser l’accueil de cette population.

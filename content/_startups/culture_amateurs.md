@@ -2,7 +2,7 @@
 title: Culture Amateurs
 mission: Développer les pratiques culturelles des amateur·ice·s
 sponsors:
- - /organisations/mc
+  - /organisations/mc
 incubator: culture
 phases:
   - name: investigation
@@ -13,10 +13,7 @@ phases:
 events:
   - name: end
     date: 2021-12-31
-link:
-repository:
 stats: false
-stats_url:
 contact: virginie.bedotti@culture.gouv.fr
 usertypes:
   - particulier

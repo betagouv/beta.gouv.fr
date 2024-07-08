@@ -3,7 +3,6 @@ fullname: Jérémy Pinto
 role: Développeur Fullstack
 domaine: Développement
 github: JeremyPinto
-avatar: null
 link: https://codeconut.fr
 missions:
   - start: 2017-01-01

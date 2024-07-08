@@ -15,5 +15,4 @@ memberType: autre
 competences:
   - concepteur designer ui
 ---
-
 Hello , je suis yohann et je suis concepteur designer ui.

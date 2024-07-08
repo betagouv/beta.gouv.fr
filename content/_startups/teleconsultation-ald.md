@@ -1,7 +1,6 @@
 ---
-title: Téléconsultation ALD 
-mission: >-
-  Renforcer et augmenter l’accès aux soins pour les patients en ALD par la téléconsultation
+title: Téléconsultation ALD
+mission: Renforcer et augmenter l’accès aux soins pour les patients en ALD par la téléconsultation
 incubator: dinum
 contact: elsa.le-duigou@beta.gouv.fr
 sponsors:
@@ -12,7 +11,6 @@ phases:
   - name: alumni
     start: 2024-05-14
 ---
-
 ## ❓ Résumé du problème à investiguer 
 
 Plus de 714k patients sont en affection longue durée fin 2022, dont parmi eux plus d’un quart sans médecin traitant —soit 180 000 patients. Le patient chronique multiplie les rendez-vous médicaux, sans avoir besoin d'un examen physique direct (palpation) à tous les rendez-vous. Remplacer certaines consultations par de la téléconsultation pourrait renforcer l'accès, diminuer les temps de transport, diminuer la charge mentale (attente dans les services hospitalier, maintient dans l'environnement du patient), et économiser des frais de déplacement (pour le patient et l'assurance maladie).

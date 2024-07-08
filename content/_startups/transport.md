@@ -2,8 +2,8 @@
 title: transport. data.gouv.fr
 mission: Faciliter l'accès à l’information voyageur pour tous, partout en France, grâce à l’ouverture des données.
 sponsors:
-  - /organisations/mtes
   - /organisations/dgitm
+  - /organisations/mtes
 incubator: mtes
 phases:
   - name: investigation
@@ -16,7 +16,7 @@ phases:
     start: 2020-09-01
   - name: success
     start: 2021-03-05
-events: 
+events:
   - name: national_impact
     date: 2021-12-31
 link: https://transport.data.gouv.fr
@@ -28,7 +28,6 @@ usertypes:
   - collectivite-territoriale
   - entreprise
 ---
-
 ## Le problème que résout transport.data.gouv.fr
 
 Dans un pays avec plus de 330 réseaux de transports urbains et des dizaines de milliers de points d’arrêts, il est parfois difficile de trouver le meilleur moyen de se rendre d’un point A à un point B. 

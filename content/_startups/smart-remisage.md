@@ -1,6 +1,6 @@
 ---
 title: Smart remisage
-mission: Suivre la consommation de batteries pour optimiser leur recharge et maintenance 
+mission: Suivre la consommation de batteries pour optimiser leur recharge et maintenance
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
@@ -10,7 +10,6 @@ phases:
 stats: false
 contact: mathieu.mahr@beta.gouv.fr
 ---
-
 ## Contexte
 Les maintenanciers-techniciens de l’armée de terre gèrent l’entretien et le maintien en charge des batteries des véhicules remisés grâce à des boîtiers connectés permettant d’optimiser et de suivre la consommation des batteries. Ces dispositifs permettent de faire des économies conséquentes (les batteries vides ne sont plus juste remplacées, mais maintenues) et de disposer rapidement de véhicules opérationnels.
 

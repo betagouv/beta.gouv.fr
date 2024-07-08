@@ -1,7 +1,6 @@
 ---
 title: Lab Agora
-mission: Améliorer la mise en relation des acteurs qui œuvrent pour
-  l’amélioration de la vie des patients atteints de cancer
+mission: Améliorer la mise en relation des acteurs qui œuvrent pour l’amélioration de la vie des patients atteints de cancer
 sponsors:
   - /organisations/inca
 incubator: dinum

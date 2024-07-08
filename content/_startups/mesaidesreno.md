@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Évaluez vos aides à la rénovation en 5 minutes en fonction de votre situation
-  et de votre projet
+mission: Évaluez vos aides à la rénovation en 5 minutes en fonction de votre situation et de votre projet
 incubator: dinum
 title: Mes aides Réno
 contact: mael.inizan@beta.gouv.fr
@@ -15,10 +13,10 @@ techno:
 sponsors:
   - /organisations/dinum
 phases:
+  - name: construction
+    start: 2024-02-15
   - name: investigation
     start: 2024-12-15
-  - start: 2024-02-15
-    name: construction
 thematiques:
   - Écologie
 ---

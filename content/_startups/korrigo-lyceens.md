@@ -10,16 +10,12 @@ phases:
     end: 2020-01-30
   - name: alumni
     start: 2020-07-01
-link:
-repository:
 stats: false
-stats_url:
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
   - particulier
 ---
-
 ## Problème visé :
 
 Sur le territoire breton, la Région Bretagne participe au quotidien de plus de 80 000 lycéens via les compétences dont elle a la responsabilité et ce, via plusieurs services qu’elle met en place : le service de restauration collective, les transports scolaires et, en lien avec les établissements scolaires publiques, l’accès aux bâtiments.

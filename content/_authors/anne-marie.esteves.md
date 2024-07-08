@@ -14,6 +14,5 @@ previously:
   - api-particulier
   - mpal
 ---
-
 *"If you are free, you need to free somebody else. If you have some power, then your job is to empower somebody else.”*
 Toni Morrison

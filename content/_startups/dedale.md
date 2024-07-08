@@ -1,12 +1,10 @@
 ---
 title: Dédale
-mission: Accompagner les usagers des services des Bâtiments de France lors de
-  travaux en espace protégé
+mission: Accompagner les usagers des services des Bâtiments de France lors de travaux en espace protégé
 sponsors:
   - /organisations/mc
 incubator: culture
 link: https://www.culture.gouv.fr/Demarches-en-ligne/Par-thematiques/Architecture/Mes-travaux-en-site-protege/A-propos
-repository: null
 contact: ateliernumerique@culture.gouv.fr
 usertypes:
   - collectivite-territoriale

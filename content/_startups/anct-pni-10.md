@@ -2,17 +2,14 @@
 title: Réduire les pics d’affluence en agence lors de la rentrée scolaire, notamment grâce à linscription et le paiement dématérialisé des transports scolaires
 mission: Programme national d'investigation (10)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2021-06-01
   - name: alumni
     start: 2021-11-01
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
 ---
 ### **Problématique identifiée** 

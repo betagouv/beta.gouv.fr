@@ -11,4 +11,3 @@ startups:
   - snu
 memberType: autre
 ---
-

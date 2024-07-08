@@ -3,7 +3,6 @@ fullname: Jean-Baptiste Mora
 role: Développeur
 domaine: Développement
 github: jeanbaptistemora
-avatar: null
 link: https://moramora.fr
 missions:
   - start: 2019-06-17

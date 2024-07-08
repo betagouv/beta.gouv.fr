@@ -1,6 +1,6 @@
 ---
-title: "Communauté de l'inclusion"
-mission: "Échanger avec et entre professionnels de l’inclusion dans l’emploi"
+title: Communauté de l'inclusion
+mission: Échanger avec et entre professionnels de l’inclusion dans l’emploi
 sponsors:
   - /organisations/francetravail
   - /organisations/mtei
@@ -28,7 +28,6 @@ thematiques:
   - Social
 accessibility_status: non conforme
 ---
-
 ## Le problème
 
 L'univers de l'insertion professionnelle ou de l'inclusion est marqué par la diversité et le cloisonnement des acteurs. Parmi les irritants remontés du terrain : multiplicité des lieux pour trouver de l’information, fiabilité de l'informations, défaut de lien entre acteurs d’un même territoire, ou d’un même réseau, méconnaissance réciproque des acteurs (rôle, activité, périmètre, expertise).\

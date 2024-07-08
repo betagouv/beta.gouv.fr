@@ -13,5 +13,4 @@ startups:
   - dossierfacile
 memberType: beta
 ---
-
 Opérateur chez Dossier Facile

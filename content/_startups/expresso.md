@@ -1,8 +1,6 @@
 ---
 title: Expresso
-mission: >-
-  Faciliter la gestion des ressources humaines dans les établissements à
-  autonomie financière
+mission: Faciliter la gestion des ressources humaines dans les établissements à autonomie financière
 sponsors:
   - /organisations/meae
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
@@ -12,8 +10,8 @@ phases:
     start: 2021-09-15
   - name: construction
     start: 2022-09-01
-  - start: 2024-04-03
-    name: acceleration
+  - name: acceleration
+    start: 2024-04-03
 thematiques:
   - Travail / Emploi
 accessibility_status: non conforme
