@@ -1,21 +1,21 @@
 ---
 title: Allo 62
 mission: Trouver le bon interlocuteur au sein du département
-incubator: anct
 sponsors:
   - /organisations/departement-pas-de-calais
+incubator: anct
+contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - particulier
+stats: false
 phases:
-  - name: investigation
+  - name: alumni
     start: 2020-01-14
   - name: alumni
     start: 2020-05-01
   - name: construction
     start: 2021-03-01
-stats: false
-contact: contactincubateur@anct.gouv.fr
-usertypes:
-  - collectivite-territoriale
-  - particulier
 ---
 ## Problème visé :
 “un appel sur trois non traité”, “50% des appels non décrochés”, “73% des personnes que nous avons rencontrées lors d’entretien ont exprimé une difficulté d’orientation”, “50% des personnes qui ont souhaité rentrer en contact avec nos services ont été confrontées à des difficultés”...
