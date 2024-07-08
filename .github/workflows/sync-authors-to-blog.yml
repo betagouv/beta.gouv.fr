@@ -18,4 +18,8 @@ jobs:
           ^img
         TARGET_REPOS: |
           betagouv/blog.beta.gouv.fr
-        GITHUB_TOKEN: ${{ secrets.SYNC_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
