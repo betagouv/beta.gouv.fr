@@ -4,18 +4,18 @@ mission: Savoir qui fait quoi à la Région
 sponsors:
   - /organisations/anct
 incubator: anct
+contact: incubateur@anct.gouv.fr
+usertypes:
+  - particulier
+stats: false
 phases:
-  - name: investigation
+  - name: alumni
     start: 2020-04-01
     end: 2020-07-07
   - name: alumni
     start: 2020-05-01
   - name: construction
     start: 2021-03-01
-stats: false
-contact: incubateur@anct.gouv.fr
-usertypes:
-  - particulier
 ---
 ## Problème visé
 
