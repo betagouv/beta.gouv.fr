@@ -9,7 +9,7 @@ phases:
     start: 2019-10-21
     end: 2020-01-30
   - name: alumni
-    start: 2019-11-22
+    start: 2020-01-30
 stats: false
 contact: contactincubateur@anct.gouv.fr
 usertypes:
