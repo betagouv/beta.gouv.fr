@@ -4,7 +4,7 @@ mission: Aider les archivistes et les agents des administrations à appréhender
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
-link: https://archifiltre.fr/
+link: https://archifiltre.fr
 repository: https://github.com/SocialGouv/archifiltre-docs
 contact: archifiltre@sg.social.gouv.fr
 usertypes:
@@ -42,6 +42,8 @@ phases:
 accessibility_status: non conforme
 thematiques:
   - Outil technique
+  - Archives
+techno: []
 ---
 # Le contexte
 

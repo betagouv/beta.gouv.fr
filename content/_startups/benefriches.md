@@ -5,12 +5,12 @@ sponsors:
   - /organisations/ademe
 incubator: ademe
 contact: laurent.chateau@ademe.fr
-link: https://benefriches.ademe.fr/
+link: https://benefriches.ademe.fr
 repository: https://github.com/incubateur-ademe/benefriches
 accessibility_status: non conforme
 dashlord_url: https://incubateur-ademe.github.io/dashlord/url/benefriches-ademe-fr/
 stats: true
-stats_url: https://benefriches.ademe.fr/stats
+stats_url: https://benefriches.ademe.fr/statistiques
 budget_url: https://benefriches.ademe.fr/budget
 analyse_risques: true
 analyse_risques_url: https://github.com/incubateur-ademe/benefriches/blob/main/SECURITY.md
