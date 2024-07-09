@@ -8,7 +8,7 @@ contact: plusfraichemaville@ademe.fr
 link: https://plusfraichemaville.fr/
 repository: https://github.com/incubateur-ademe/plusfraichemaville-site
 accessibility_status: non conforme
-dashlord_url: https://incubateur-ademe.github.io/dashlord/url/plusfraichemaville-fr/
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/plusfraichemaville
 stats: true
 stats_url: https://plusfraichemaville.fr/stats
 budget_url: https://plusfraichemaville.fr/budget

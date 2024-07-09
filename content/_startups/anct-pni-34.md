@@ -5,12 +5,15 @@ sponsors:
   - /organisations/anct
 incubator: anct
 phases:
+  - name: investigation
+    start: 2020-06-01
   - name: alumni
     start: 2021-11-01
-  - name: investigation
-    start: 2120-06-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+thematiques: []
+usertypes: []
+techno: []
 ---
 Redynamiser les commerces locaux par la "carte de fidélité stationnement"
 
