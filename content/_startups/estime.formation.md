@@ -3,7 +3,7 @@ title: Estime Formation
 mission: Favoriser l'entrée en formation des bénéficiaires du RSA, AAH et ASS en anticipant l’impact d’une rémunération de formation sur les aides qu’ils perçoivent.
 sponsors:
   - /organisations/francetravail
-link: https://candidat.francetravail.fr/portail-simulateurs/
+link: https://candidat.francetravail.fr/portail-simulateurs/allocations-et-aides/parcours/votre-situation?formationForce=true
 incubator: francetravail
 contact: dctsiestimeformation.00885@pole-emploi.fr
 accessibility_status: partiellement conforme
@@ -18,8 +18,6 @@ thematiques:
   - Travail / Emploi
   - Formation
 ---
-> ⚠️ Pour accéder à Estime Formation, cocher la case "Je veux suivre une formation"
-
 
 **Contexte**
 
@@ -48,13 +46,16 @@ Le bénéficiaire pourra en garder une copie en PDF ainsi qu'une version imprim�
 **Stratégie**
 
 Dans un premier temps nous allons nous appuyer sur les accompagnants pour déployer la solution.
-Nous ouvrions le service d'abord pour les bénéficiaires du RSA puis nous ajouterons petit-à-petit d'autres publics et d'autres dispositifs afin de toucher à terme l'ensemble des bénéficiaires du RSA, AAH et ASS qui ont un besoin de formation. (estimé à environ 2,5 millions). Notre objectif est d'augmenter le taux d'entrée en formation des personnes qui auront bénéficié de notre solution.
+Nous ouvrions le service d'abord pour les bénéficiaires du RSA puis nous ajouterons petit-à-petit d'autres publics et d'autres dispositifs afin de toucher à terme l'ensemble des bénéficiaires du RSA, AAH et ASS qui ont un besoin de formation. (estimé à environ 2,5 millions). Notre objectif est d'augmenter le taux d'entrée en formation des personnes qui auront bénéficié de notre solution. 
 
-Depuis le 15/04/2024, Estime Formation est directement accessible aux allocataires depuis le guide des simulateurs en selectionnant la coche "Je veux suivre une formation". En complément de l'ouverture aux bénéficiares du RSA et de l'ASS qui ont un projet de formation, le simulateur permet également de se projeter financièrement lorsqu'on a pas de projet de formation. Pour les autres publics, ils ont accès à une page d'information spécifique selon leur situation.
+Depuis le 15/04/2024, Estime Formation est directement accessible aux allocataires depuis le guide des simulateurs en selectionnant la coche "Je veux suivre une formation". En complément de l'ouverture aux bénéficiares du RSA et de l'ASS qui ont un projet de formation, le simulateur permet également de se projeter financièrement lorsqu'on a pas de projet de formation. Pour les autres publics, ils ont accès à une page d'information spécifique selon leur situation. 
 
-*Ouvert actuellement sur les 5 régions :*
+Depuis le 30/05/2024, le service est accessible aux bénéficiaires n'ayant aucune ressource. 
+
+*Ouvert actuellement sur les 6 régions :*
 - Haut de France
 - Pays de la Loire
 - Région Sud PACA
 - Occitanie
 - Nouvelle Acquitaine
+- Bourgogne Franche Comté
