@@ -1,8 +1,6 @@
 ---
 title: Docurba
-mission: >-
-  Faciliter l'élaboration et le suivi des documents d'urbanisme en améliorant
-  les échanges entre les collectivités et l'État
+mission: Faciliter l'élaboration et le suivi des documents d'urbanisme en améliorant les échanges entre les collectivités et l'État
 sponsors:
   - /organisations/dgaln
 incubator: mtes
@@ -29,6 +27,10 @@ fast:
   montant: 250000
 thematiques:
   - Écologie
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 250000€ pour la promotion 13
 ---
 **Plus de 10 000 collectivités devront décliner la trajectoire d’artificialisation des sols prévue par la loi Climat et Résilience d’ici 2027 dans leurs documents d’urbanisme, lesquels s’imposent aux 1,5 million de demandes d’autorisation d’urbanisme.** Or l’élaboration de ces documents est longue et risquée. Les collectivités mettent entre 3 et 5 ans à élaborer leur document d’urbanisme, et lors de l’approbation la majorité des avis de l’Etat présentent des réserves sur la prise en compte des enjeux environnementaux. À ce titre, la consommation d’espace, l’assainissement ou l’eau potable sont insuffisamment évalués dans ces projets de planification urbaine.
 

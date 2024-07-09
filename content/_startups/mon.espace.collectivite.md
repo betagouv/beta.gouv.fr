@@ -1,8 +1,6 @@
 ---
 link: https://monespacecollectivite.incubateur.anct.gouv.fr/
-mission: >-
-  Réunir en un seul endroit collectivités et Etat Local pour accélérer les
-  projets et leur impact sur le territoire.
+mission: Réunir en un seul endroit collectivités et Etat Local pour accélérer les projets et leur impact sur le territoire.
 repository: https://github.com/betagouv/recoco-portails
 incubator: anct
 title: Mon espace collectivité
@@ -10,9 +8,9 @@ contact: monespacecollectivite@anct.gouv.fr
 redirect_from:
   - /startups/mon.espae.collectivite
 sponsors:
-  - /organisations/anct
-  - /organisations/mctrct
   - /organisations/mtes
+  - /organisations/mctrct
+  - /organisations/anct
 phases:
   - name: investigation
     start: 2023-10-09

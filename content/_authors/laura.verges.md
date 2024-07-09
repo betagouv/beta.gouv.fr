@@ -1,7 +1,6 @@
 ---
 fullname: Laura Vergès
 domaine: Autre
-avatar: null
 link: https://laboiteaecrire.fr/
 missions:
   - start: 2023-02-14

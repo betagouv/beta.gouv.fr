@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Faciliter les échanges de justificatifs entre les États membres de l'Union
-  Européenne
+mission: Faciliter les échanges de justificatifs entre les États membres de l'Union Européenne
 incubator: dinum_produits_interministeriels
 title: OOTS (Once-Only Technical System)
 contact: europe@beta.gouv.fr

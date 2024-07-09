@@ -14,7 +14,6 @@ usertypes:
   - collectivite-territoriale
   - particulier
 ---
-
 ![](/img/netlifycms/commun.orientation.png)
 
 ## Contexte

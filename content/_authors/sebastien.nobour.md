@@ -19,4 +19,3 @@ competences:
   - JavaScript/TypeScript
   - PostgreSQL
 ---
-

@@ -4,10 +4,10 @@ role: Développeur
 domaine: Développement
 github: MBrandone
 missions:
-  - employer: OCTO
+  - start: 2019-12-02
     end: 2021-06-30
-    start: 2019-12-02
     status: service
+    employer: OCTO
     startups:
       - pass-culture
 startups:

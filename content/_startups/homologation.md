@@ -25,8 +25,11 @@ fast:
 thematiques:
   - Sécurité informatique
 accessibility_status: non conforme
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 141000€ pour la promotion 14
 ---
-
 ## En phase d'accélération
 
 - **Vous souhaitez découvrir le produit ou un accompagnement dans sa prise en main ? [Contactez Antoine et Henri qui se feront un plaisir de vous accompagner](mailto:support@monservicesecurise.beta.gouv.fr).**

@@ -2,7 +2,7 @@
 title: Préfigurer une plateforme de livraison restaurateur-entreprises du territoire
 mission: Programme national d'investigation (44)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -10,9 +10,7 @@ phases:
   - name: alumni
     start: 2021-11-01
 link: https:&#x2F;&#x2F;servicerepasmidi.wixsite.com&#x2F;my-site-1
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
 ---
 Plateforme de livraison restaurateur-entreprises du territoire (dans le cadre du coopérative)

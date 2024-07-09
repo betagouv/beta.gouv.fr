@@ -1,7 +1,6 @@
 ---
 fullname: Gabriel ARONICA
-role: Intrapreneur - La transition digitale au service de la performance écologique
-  des ports ⚓
+role: Intrapreneur - La transition digitale au service de la performance écologique des ports ⚓
 domaine: Coaching
 missions:
   - start: 2022-05-13

@@ -1,8 +1,6 @@
 ---
 title: France Nation Verte / Agir
-mission: >-
-  Accompagner les citoyens de manière personnalisée dans la transition
-  écologique
+mission: Accompagner les citoyens de manière personnalisée dans la transition écologique
 sponsors:
   - /organisations/sgpe
 incubator: dinum

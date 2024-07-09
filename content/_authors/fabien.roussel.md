@@ -9,8 +9,8 @@ missions:
     status: service
     employer: OCTO Technology
     startups:
-      - reva
       - codedutravail
+      - reva
 startups:
   - reva
   - codedutravail

@@ -5,7 +5,6 @@ sponsors:
   - /organisations/dgfip
 incubator: fabrique-dgfip
 contact: service-faritas@dgfip.finances.gouv.fr
-events: []
 phases:
   - name: investigation
     start: 2021-07-09

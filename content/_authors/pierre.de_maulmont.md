@@ -8,8 +8,8 @@ missions:
     status: admin
     employer: education-nationale
     startups:
-      - open-academie
       - dossiersco
+      - open-academie
 startups:
   - open-academie
   - dossiersco

@@ -6,7 +6,6 @@ missions:
   - start: 2023-11-01
     end: 2024-09-30
     status: admin
-    employer: ''
     startups:
       - monlyceepro
 memberType: beta

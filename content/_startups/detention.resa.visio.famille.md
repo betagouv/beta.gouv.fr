@@ -1,5 +1,5 @@
 ---
-title: "Détention Résa Visio Famille "
+title: 'Détention Résa Visio Famille '
 mission: Faciliter la réservation d'un créneau visio en détention
 sponsors:
   - /organisations/mj
@@ -7,8 +7,8 @@ incubator: justice
 contact: imane.wadgattait@justice.gouv.fr
 accessibility_status: non conforme
 events:
-  - date: 2022-11-30
-    name: committee
+  - name: committee
+    date: 2022-11-30
 phases:
   - name: investigation
     start: 2022-07-01

@@ -7,7 +7,6 @@ missions:
     end: 2017-07-24
     status: independent
     employer: octo
-startups: null
 previously:
   - plante-et-moi
 ---

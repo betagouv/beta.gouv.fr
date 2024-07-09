@@ -6,7 +6,6 @@ missions:
   - start: 2023-02-01
     end: 2024-09-30
     status: independent
-    employer: ''
     startups:
       - oilhi
 startups:

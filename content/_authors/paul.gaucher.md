@@ -7,7 +7,6 @@ missions:
   - start: 2024-01-08
     end: 2025-01-08
     status: independent
-    employer: ''
     startups:
       - tdb-apprentissage
 startups:

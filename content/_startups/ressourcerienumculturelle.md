@@ -14,7 +14,6 @@ contact: ateliernumerique.snum@culture.gouv.fr
 usertypes:
   - particulier
 ---
-
 ### Contexte
 
 Réduire la pollution du numérique est un enjeu clé pour respecter l’accord de Paris (d’ici 2050). D’après l’Ademe, 4% des émissions mondiales de gaz à effet de serre sont dues au numérique. Ce chiffre pourrait être multiplié par 2 d’ici 2025 et 3 d’ici 2050. Par ailleurs, 80% de l’impact environnemental d’un terminal se fait lors de sa fabrication.

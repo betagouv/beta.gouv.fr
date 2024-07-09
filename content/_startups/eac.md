@@ -1,5 +1,5 @@
 ---
-title : Plateforme EAC
+title: Plateforme EAC
 mission: Augmenter le nombre d'actions artistiques et culturelles pour les jeunes dans les établissements scolaires
 sponsors:
   - /organisations/mc
@@ -23,7 +23,6 @@ contact: pass@culture.gouv.fr
 usertypes:
   - etablissement-scolaire
 ---
-
 La plateforme EAC est une application qui aide les enseignants à identifier et mettre en oeuvre des projets liés à l'éducation artistique et culturelle des élèves.
 
 La plateforme vise à :

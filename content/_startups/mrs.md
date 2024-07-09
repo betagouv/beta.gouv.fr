@@ -23,7 +23,6 @@ usertypes:
   - particulier
   - etat
 ---
-
 ## Fiche produit
 
 Sur prescription de votre médecin, l'Assurance Maladie rembourse les frais d'utilisation de votre véhicule personnel ou de transports en commun. Plus flexible, plus rapide, plus économique, le recours au véhicule personnel est pourtant le mode de transport le plus compliqué et le plus long à se faire rembourser.

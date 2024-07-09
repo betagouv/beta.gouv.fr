@@ -8,8 +8,8 @@ missions:
     status: admin
     employer: Ministère de l'Intérieur
     startups:
-      - histovec
       - candilib
+      - histovec
       - polex
 startups:
   - histovec

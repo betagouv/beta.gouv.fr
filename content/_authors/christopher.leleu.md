@@ -1,5 +1,5 @@
 ---
-fullname: Christopher Leleu 
+fullname: Christopher Leleu
 role: Data
 domaine: Data
 github: ChristopherLELEU

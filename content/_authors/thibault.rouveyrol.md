@@ -10,9 +10,9 @@ missions:
     status: service
     employer: thibault.rouveyrol@gmail.com
     startups:
+      - france-numerique-ensemble
       - les.bases
       - suite.d.outils.des.mediateurs.numeriques
-      - france-numerique-ensemble
 badges:
   - segur
 startups:

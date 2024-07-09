@@ -7,7 +7,6 @@ missions:
   - start: 2024-04-15
     end: 2024-12-31
     status: service
-    employer: 
     startups:
       - france-numerique-ensemble
 startups:

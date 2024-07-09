@@ -13,6 +13,5 @@ missions:
       - andi
 startups:
   - andi
-previously: null
 ---
 Je suis quelqu'un qui comprend très vite.. à condition de m'expliquer lentement...

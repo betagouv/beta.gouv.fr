@@ -1,10 +1,6 @@
 ---
 title: Pass Sport
-mission: >-
-  Permettre et faciliter la pratique sportive des 6-30 ans bénéficiaires de
-  l'Allocation de Rentrée Scolaire (ARS), ou de l'Allocation Adulte Handicapé
-  (AAH), de l’allocation d’éducation de l’enfant handicapé (AEEH) ou d'une
-  bourse étudiante.
+mission: Permettre et faciliter la pratique sportive des 6-30 ans bénéficiaires de l'Allocation de Rentrée Scolaire (ARS), ou de l'Allocation Adulte Handicapé (AAH), de l’allocation d’éducation de l’enfant handicapé (AEEH) ou d'une bourse étudiante.
 incubator: dinum
 contact: clemence.lopez@beta.gouv.fr
 sponsors:

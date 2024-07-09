@@ -7,7 +7,6 @@ missions:
   - start: 2019-02-07
     end: 2024-07-17
     status: independent
-    employer: ''
     startups:
       - conseillers-entreprises
 startups:

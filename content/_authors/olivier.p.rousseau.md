@@ -7,7 +7,6 @@ missions:
   - start: 2022-12-12
     end: 2024-12-16
     status: independent
-    employer: ''
     startups:
       - mon-suivi-justice
 startups:

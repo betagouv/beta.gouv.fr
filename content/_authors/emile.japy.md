@@ -9,9 +9,9 @@ missions:
     end: 2023-01-15
     status: independent
     employer: Benext
-  - status: independent
-    start: 2022-11-15
+  - start: 2022-11-15
     end: 2023-04-30
+    status: independent
     employer: MALT
 startups:
   - l-application-du-cej

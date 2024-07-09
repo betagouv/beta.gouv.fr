@@ -17,7 +17,6 @@ phases:
 usertypes:
   - particulier
 ---
-
 ## Le contexte
 
 Le ministère de la Transformation et de la Fonction publiques ouvre en septembre 2021 des classes préparatoires Talents du service public ("classes Prépa Talents"), une formation d'excellence dans les écoles de service public, les instituts d'études politiques et les universités afin de préparer les élèves aux concours de la fonction publique.

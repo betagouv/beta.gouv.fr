@@ -3,20 +3,18 @@ title: Bati-Amiante
 mission: Lutter contre le risque amiante en partageant les diagnostics
 incubator: mtes
 sponsors:
- - /organisations/mtes
+  - /organisations/mtes
 phases:
   - name: investigation
     start: 2020-03-01
   - name: alumni
     start: 2020-07-01
-repository:
 stats: false
 contact: emeric.vercoutre@developpement-durable.gouv.fr
 usertypes:
   - particulier
   - entreprise
 ---
-
 ## 100.000 morts d’ici 2050
 
 Interdit seulement depuis 1997, on estime qu’environ 20 millions de tonnes d’amiante sont encore présentes dans les bâtiments. Malheureusement les risques pour la santé sont croissants, car c’est un matériau qui se dégrade au fil du temps et qui nécessite une surveillance constante. Selon Santé Publique France, l’amiante pourrait causer 100.000 décès d’ici 2050 et 1,5 milliards d'euros par an. 

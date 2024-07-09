@@ -2,7 +2,7 @@
 title: Auto Partage
 mission: Expérimenter la mise en place d'un service d'auto-partage citoyen
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -10,15 +10,11 @@ phases:
     end: 2020-11-30
   - name: alumni
     start: 2020-12-01
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## Le contexte
 
 Durant l’été 2020, l’incubateur des Territoires a été sollicité par la commune de Mouans-Sartoux pour travailler sur une expérimentation d'autopartage.

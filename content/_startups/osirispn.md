@@ -6,8 +6,7 @@ sponsors:
 incubator: fabnumdef
 contact: mathieu.mahr@beta.gouv.fr
 phases:
-  - comment: ""
-    name: investigation
+  - name: investigation
     start: 2021-03-20
     end: 2021-06-01
   - name: construction

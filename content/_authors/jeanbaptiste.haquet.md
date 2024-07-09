@@ -6,7 +6,6 @@ missions:
   - start: 2022-06-29
     end: 2024-04-29
     status: admin
-    employer: ''
     startups:
       - experts
 badges:

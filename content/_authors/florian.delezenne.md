@@ -10,9 +10,8 @@ missions:
     status: service
   - start: 2017-06-01
     end: 2027-02-15
-    employer: dinum
     status: admin
-startups: null
+    employer: dinum
 previously:
   - datapass
   - bourse

@@ -1,6 +1,5 @@
 ---
-mission: >-
-  L'arène LANGU:IA consiste à comparer grâce à un dispositif interactif et ludique les réponses générées par différents modèles à une invite donnée. Un utilisateur pose une question en    français et obtient des réponses de deux LLM anonymes.
+mission: L'arène LANGU:IA consiste à comparer grâce à un dispositif interactif et ludique les réponses générées par différents modèles à une invite donnée. Un utilisateur pose une question en    français et obtient des réponses de deux LLM anonymes.
 incubator: culture
 title: Arène LANGU:IA
 contact: lucie.termignon@culture.gouv.fr
@@ -15,7 +14,6 @@ usertypes:
 thematiques:
   - Patrimoine
 ---
-
 ### Le problème
 
 Les LLM actuels sont entraînés sur des données essentiellement anglo-saxonnes. Le développement extrêmement rapide des audiences et des usages de ces modèles fait peser un risque sur la place des langues et des cultures française, francophone et européenne dans les imaginaires collectifs de demain. En parallèle, les débats sont particulièrement vifs sur le volet juridique de l’entraînement des modèles d’IA, le respect du droit d’auteur et des données personnelles et la répartition de la valeur issue de leurs usages.

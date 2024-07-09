@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: ut7
     startups:
-      - boite.aux.lettres
       - api.apprentissage
+      - boite.aux.lettres
 incubator: mission-apprentissage
 startups:
   - boite.aux.lettres

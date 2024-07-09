@@ -10,20 +10,18 @@ missions:
     status: admin
     employer: DINUM
     startups:
-      - mon-entreprise
       - comobi
+      - mon-entreprise
   - start: 2017-10-02
     end: 2023-12-31
     status: independent
-    employer: ''
     startups:
       - datagir
-      - nosgestesclimat
       - mon-entreprise
+      - nosgestesclimat
   - start: 2024-01-01
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - mesaidesreno
 previously:

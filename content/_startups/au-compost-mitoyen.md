@@ -21,7 +21,6 @@ phases:
 usertypes:
   - particulier
 ---
-
 Aujourd’hui, 73,6% de la population paloise habite en appartement, soit 54 122 habitants. 
 En habitat vertical, les déchets de cuisine sont le plus souvent jetés dans le bac dédié aux ordures ménagères. 
 83kg de déchets par habitant sont incinérés chaque année au lieu d'être valorisés. D’autres catégories de déchets (carton, verre, emballages) 

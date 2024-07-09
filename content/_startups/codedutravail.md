@@ -30,6 +30,8 @@ usertypes:
 stats_url: https://code.travail.gouv.fr/stats
 thematiques:
   - Travail / Emploi
+analyse_risques: true
+mon_service_securise: false
 ---
 ## Le contexte
 
