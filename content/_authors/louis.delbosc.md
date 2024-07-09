@@ -7,7 +7,6 @@ missions:
   - start: 2022-06-08
     end: 2023-06-09
     status: independent
-    employer: ''
     startups:
       - données-et-territoires
 badges:

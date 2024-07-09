@@ -20,7 +20,6 @@ phases:
   - name: success
     start: 2022-11-29
 ---
-
 Le produit AVRIL a été pérennisé au sein du service public [France VAE](https://beta.gouv.fr/startups/reva.html).
 
 ## Problème

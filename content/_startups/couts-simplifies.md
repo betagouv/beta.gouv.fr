@@ -2,7 +2,7 @@
 title: Coûts simplifiés
 mission: Simplifier la gestion des aides européennes par les entreprises
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -10,15 +10,11 @@ phases:
     end: 2020-07-07
   - name: alumni
     start: 2020-07-08
-link:
-repository:
 stats: false
-stats_url:
 contact: incubateur@anct.gouv.fr
 usertypes:
   - entreprise
 ---
-
 ## Problème visé
 
 **Les bénéficiaires de financements européens font face à une charge administrative colossale et des délais de traitements très longs.**

@@ -1,7 +1,8 @@
-## Mise à jour de date de mission
+## Modification des fiches
 
-Pour une simple mise à jour de dates de mission, si tu as les droits, tu peux merger toi-même sans relecture (tu auras juste à attendre 1-2 mins pour les tests passent)  
-PS : Ne t'attends pas à ce qu'on le fasse pour toi !
+Attention, tu ne dois plus modifier les fiches membre et startup directement sur GitHub, tu dois exclusivement utiliser [l'espace-membre](https://espace-membre.incubateur.net).
+
+Les changements seront publiés sur le site sous 24h max.
 
 ## Publication
 

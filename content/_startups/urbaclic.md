@@ -22,7 +22,6 @@ usertypes:
   - particulier
   - collectivite-territoriale
 ---
-
 ## Abandon
 
 Faute de financement pérenne, le développement du produit est suspendu en tant que Startup d'État.

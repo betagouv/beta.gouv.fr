@@ -12,4 +12,3 @@ startups:
   - moncomptepro
 memberType: autre
 ---
-

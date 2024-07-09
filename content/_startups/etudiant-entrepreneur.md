@@ -21,7 +21,6 @@ contact: contact@etudiant-entrepreneur.beta.gouv.fr
 usertypes:
   - particulier
 ---
-
 <iframe style="border:none;" width="560" height="315" src="//www.dailymotion.com/embed/video/x4aa7o4" allowfullscreen></iframe>
 
 La création d’un statut national étudiant entrepreneur (EE) pour favoriser l’entrepreneuriat chez la population étudiante ou diplômée est une première mondiale. Il s’adresse à une population majoritairement jeune, hyperconnectée et positivement exigeante. Or, candidater au statut relève parfois du parcours du combattant tant le processus est fastidieux et anachronique. L’image d’une administration complexe et vieillotte s’incarne dans ce processus. La relation uniquement administrative du candidat au statut est pointée du doigt et irrite non seulement les candidats mais également tous les acteurs gestionnaires du statut.

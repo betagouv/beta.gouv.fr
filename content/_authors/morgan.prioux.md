@@ -16,5 +16,4 @@ startups:
 badges:
   - segur
 ---
-
 Développeur Front End

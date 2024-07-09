@@ -6,25 +6,24 @@ sponsors:
 incubator: agriculture
 phases:
   - name: investigation
-    start: 2019-05-13 
+    start: 2019-05-13
   - name: construction
-    start: 2019-09-01 
+    start: 2019-09-01
   - name: transfer
     start: 2020-12-15
   - name: alumni
     start: 2021-12-31
-events: 
+events:
   - name: end
     date: 2021-09-01
 link: https://rex-agri.agroecologie.org/
 repository: https://github.com/betagouv/peps
-stats: true 
+stats: true
 stats_url: https://rex-agri.agroecologie.org/stats
 contact: support@agricultureduvivant.org
 usertypes:
   - entreprise
 ---
-
 ## Le constat
 
 Le système agricole actuel est en pleine transformation sous l’effet de différentes dynamiques en particulier la mondialisation du marché agricole - qui entraîne une fluctuation des prix - et la réduction de l’utilisation des produits phytosanitaires - sous l’effet de l’apparition de résistances des adventices/ravageurs, de la demande sociétale et de la réglementation.

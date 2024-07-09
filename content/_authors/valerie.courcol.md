@@ -6,7 +6,6 @@ missions:
   - start: 2022-03-28
     end: 2024-09-30
     status: admin
-    employer: ""
     startups:
       - oilhi
 startups:

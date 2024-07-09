@@ -18,4 +18,3 @@ competences:
   - UI
   - Product design
 ---
-

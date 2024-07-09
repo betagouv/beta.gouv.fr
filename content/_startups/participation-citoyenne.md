@@ -9,15 +9,11 @@ phases:
     start: 2020-09-07
   - name: alumni
     start: 2020-11-30
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contact@beta.gouv.fr
 usertypes:
   - particulier
 ---
-
 ## L'impact recherché
 
 Objectif : Augmenter et démontrer l’impact des démarches participatives dans la prise de décision (que tous les retours soient pris en compte dans l’élaboration de la loi). 

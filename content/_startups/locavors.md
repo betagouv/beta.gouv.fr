@@ -9,16 +9,12 @@ phases:
     start: 2020-01-14
   - name: alumni
     start: 2021-03-22
-link:
-repository:
 stats: false
-stats_url:
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
   - etablissement-scolaire
 ---
-
 ## Problème: les enfants ne consomment pas suffisamment de produits locaux dans les cantines
 
 Les experts sont unanimes sur le fait que les aliments perdent de leur teneur en nutriments dès la cueillette et au fur et à mesure du circuit de distribution. Autrement dit, plus le circuit est long, plus la qualité des aliments dans l’assiette des enfants est dégradée (vitamines, minéraux, saveurs, etc.).

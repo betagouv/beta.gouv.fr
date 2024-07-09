@@ -19,7 +19,6 @@ events:
     date: 2017-05-01
   - name: end
     date: 2020-08-01
-link:
 repository: https://github.com/betagouv/plante-et-moi
 stats: false
 contact: biodiversite@beta.gouv.fr
@@ -35,7 +34,6 @@ usertypes:
   - particulier
   - collectivite-territoriale
 ---
-
 De plus en plus de programmes de __végétalisation de l’espace public__ par les citoyens sont lancés par les communes de France.
 
 Il s’agit notamment d’augmenter la présence de la nature en ville et de favoriser la biodiversité tout en améliorant le cadre de vie. Chacun peut ainsi faire sa demande, à titre personnel ou collectif, et commencer à jardiner. Et jardiner, c’est aussi échanger : des conseils, des plantes… avec des voisins, des associations, des agents communaux.

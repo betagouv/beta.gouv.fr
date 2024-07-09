@@ -12,13 +12,9 @@ phases:
 events:
   - name: end
     date: 2021-12-31
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contact@beta.gouv.fr
 ---
-
 ## L'impact recherché
 
 Aider les collectivités à mettre en place des solutions pour améliorer :

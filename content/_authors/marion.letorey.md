@@ -8,7 +8,6 @@ missions:
     end: 2023-10-01
     status: independent
     employer: Malt
-    startups: []
   - start: 2023-10-01
     end: 2024-09-30
     status: independent

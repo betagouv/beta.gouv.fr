@@ -13,4 +13,3 @@ startups:
   - partaj
 memberType: beta
 ---
-

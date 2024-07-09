@@ -16,6 +16,4 @@ previously:
 memberType: beta
 teams:
   - /teams/mtes
-
-
 ---

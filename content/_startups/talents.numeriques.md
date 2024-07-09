@@ -1,7 +1,6 @@
 ---
 title: Talents numériques
-mission: Créer une communauté de partage, valoriser les expertises des agents du
-  numérique et faciliter la mise en relation
+mission: Créer une communauté de partage, valoriser les expertises des agents du numérique et faciliter la mise en relation
 sponsors:
   - /organisations/dinum
 incubator: dinum
@@ -18,7 +17,6 @@ events:
 usertypes:
   - etat
 ---
-
 ## Contexte
 
 La transformation numérique de l’État est une aventure humaine avant tout !

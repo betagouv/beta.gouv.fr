@@ -18,7 +18,6 @@ contact: zohra.hadji@pole-emploi.fr
 usertypes:
   - particulier
 ---
-
 ### Toutes mes candidatures en un clin d’oeil
 
 Memo me permet d'enregistrer en un clic les offres d'emploi depuis tous les sites, ainsi que mes candidatures spontanées. En un coup d’oeil, Memo regroupe l’ensemble de mes candidatures et leur avancement.
