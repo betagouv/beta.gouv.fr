@@ -20,5 +20,4 @@ competences:
   - Communication
   - Croissance
 ---
-
 In your PC, stealing your Internetz

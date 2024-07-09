@@ -1,8 +1,6 @@
 ---
 title: 'Préservons l''Eau '
-mission: >-
-  Faire évoluer les usagers vers des pratiques sobres de l’eau, en particulier
-  en période de sécheresse 
+mission: 'Faire évoluer les usagers vers des pratiques sobres de l’eau, en particulier en période de sécheresse '
 sponsors:
   - /organisations/dgeb
 incubator: mtes

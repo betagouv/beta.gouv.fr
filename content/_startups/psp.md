@@ -1,23 +1,20 @@
 ---
 title: Portail Suivi Plaintes
 mission: Suivre sa plainte en ligne.
-sponsors: 
-    - /organisations/interieur
+sponsors:
+  - /organisations/interieur
 incubator: lab-mi
 phases:
   - name: investigation
     start: 2019-11-05
   - name: alumni
     start: 2020-07-05
-link:
-repository:
 stats: false
 contact: contact@beta.interieur.gouv.fr
-robots: noindex # Nous avons mis cette action car il y a beaucoup de contact directe à contact@beta.gouv.fr pour des plaintes
+robots: noindex
 usertypes:
   - particulier
 ---
-
 ## La frustration des victimes dans le suivi de leurs plaintes
 Après avoir déposé plainte au commissariat, la victime vit une expérience dégradée :
 - elle ressort avec une liasse de documents, et en recevra d’autres par courrier qu’elle a peur de perdre

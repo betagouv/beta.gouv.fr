@@ -6,7 +6,7 @@ link: https://lucasjouin.com/
 github: LuluFreeDesign
 missions:
   - start: 2023-07-03
-    end: 2024-06-30
+    end: 2025-01-01
     status: independent
     employer: Malt
     startups:

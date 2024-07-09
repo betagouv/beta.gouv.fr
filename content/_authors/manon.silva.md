@@ -10,18 +10,18 @@ missions:
     employer: Octo
     startups:
       - maison.de.lautisme
-  - start: 2023-01-01
-    end: 2023-12-31
-    status: independent
-    employer: Opteamis
-    startups:
-      - maison.de.lautisme
   - start: 2022-11-15
     end: 2024-12-31
     status: independent
     employer: Opteamis
     startups:
       - ozensemble
+  - start: 2023-01-01
+    end: 2023-12-31
+    status: independent
+    employer: Opteamis
+    startups:
+      - maison.de.lautisme
 badges:
   - segur
 startups:

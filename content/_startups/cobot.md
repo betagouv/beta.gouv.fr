@@ -2,7 +2,7 @@
 title: Cobot
 mission: Mettre les petites contributions numériques au service de l'intérêt général
 sponsors:
-    - /organisations/dgitm
+  - /organisations/dgitm
 incubator: mtes
 events:
   - name: end
@@ -18,12 +18,9 @@ phases:
     start: 2019-09-01
 usertypes:
   - etat
-link:
-repository:
 stats: false
 contact: laurence.matringe@developpement-durable.gouv.fr
 ---
-
 Calculer un potentiel solaire grâce à la [qualification automatique de l’orientation des toits des bâtiments](http://opensolarmap.org), faire du contrôle des pêches dans les outre mer grâce à des données satellitaires européennes disponibles en opendata, [identifier rapidement des espèces de plantes](https://identify.plantnet-project.org/)….
 
 Nous assistons, au sein de l'administration publique, au développement de projets basés sur la qualification de données photographiques qui permettent d'améliorer ou de créer de nouveaux services d'intérêt général.

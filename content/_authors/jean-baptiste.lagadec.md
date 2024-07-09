@@ -9,10 +9,9 @@ missions:
     status: service
     employer: OCTO Technology
     startups:
-      - suite.territoriale
       - suite-numerique
+      - suite.territoriale
 startups:
   - suite.territoriale
 memberType: beta
 ---
-

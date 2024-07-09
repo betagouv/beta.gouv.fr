@@ -10,15 +10,11 @@ phases:
     end: 2020-01-31
   - name: alumni
     start: 2020-07-01
-link:
-repository:
 stats: false
-stats_url:
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - entreprise
 ---
-
 ## Problème visé :
 
 De nombreuses aides ainsi que des centaines de partenaires économiques existent en Bretagne pour accompagner les entreprises.

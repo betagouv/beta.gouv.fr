@@ -7,7 +7,6 @@ missions:
   - start: 2022-05-09
     end: 2023-12-30
     status: independent
-    employer: ''
   - start: 2023-12-31
     end: 2024-12-30
     status: admin

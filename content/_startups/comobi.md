@@ -2,18 +2,18 @@
 title: CoMobi
 mission: Améliorer le déplacement des personnes isolées sur les territoires peu denses grâce au covoiturage solidaire
 sponsors:
-    - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2018-11-26
   - name: construction
     start: 2019-02-01
-  - name : transfer
-    start : 2021-11-01
+  - name: transfer
+    start: 2021-11-01
   - name: alumni
-    start: 2022-06-01
     comment: le transfert à l'ANCT n'a pas permis à la l'équipe de montrer un fort intérêt de la part des collectivités. Le produit reste disponible, ainsi que des documents pour présenter le retour d'expérience et les conseils d'usage.
+    start: 2022-06-01
 link: http://comobi.fr
 repository: https://github.com/betagouv/neutre.comobi.fr
 stats: false
@@ -24,7 +24,6 @@ redirect_from:
 usertypes:
   - particulier
 ---
-
 **CoMobi outille les territoires peu denses pour déployer du covoiturage solidaire, basé sur les trajets régulièrement effectués en voiture, pour les personnes isolées et dépourvues de moyens de déplacement.**
 
 ## Le constat

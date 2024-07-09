@@ -4,9 +4,8 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-03-14
-    end: 2024-06-30
+    end: 2024-12-30
     status: independent
-    employer: ''
     startups:
       - nosgestesclimat
 startups:

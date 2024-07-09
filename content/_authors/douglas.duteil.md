@@ -2,7 +2,6 @@
 fullname: Douglas Duteil
 role: Développeur
 domaine: Développement
-link: null
 github: douglasduteil
 missions:
   - start: 2018-10-01

@@ -6,7 +6,6 @@ missions:
   - start: 2023-03-15
     end: 2023-12-31
     status: admin
-    employer: ''
     startups:
       - compte.ressources
 startups:

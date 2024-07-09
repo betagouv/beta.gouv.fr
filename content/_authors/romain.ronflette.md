@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - infrastructures.numeriques
       - fonds.de.plans
+      - infrastructures.numeriques
 startups:
   - infrastructures.numeriques
   - fonds.de.plans
@@ -23,4 +23,3 @@ competences:
   - UI
   - Facilitation
 ---
-

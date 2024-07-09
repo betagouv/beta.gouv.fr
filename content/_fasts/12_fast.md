@@ -5,6 +5,8 @@ new-fast: true
 promotion: 12
 ---
 
+<h1>FAST 12 - Janvier 2023</h1>
+
 <!-- Le Fonds pour l’accélération du financement des start-up d’État (FAST) -->
 <!-- a été doté par la loi de finances 2020 d’un budget de plusieurs -->
 <!-- millions d’euros pour soutenir l’investissement dans des solutions -->
@@ -21,11 +23,11 @@ l’analyse des candidatures, le Comité d’investissement de la 12ème
 
 <ul>
   <li>
-    <h3 class="fr-mb-1w">
+    <h2 class="fr-mb-1w">
       <a class="fr-link" target="_blank" rel="noopener" href="/incubateurs/ademe">
       L'Accélérateur de la transition écologique
       </a>
-    </h3>
+    </h2>
     <p class="fr-mb-1w"> Faire émerger et soutenir de nouveaux services à impacts portés par l'ADEME pour accélérer la transition sur les différents champs d'interventions de l'Agence et auprès de toutes ses cibles (collectivités, entreprises, particuliers…).
     </p>
     <p style="display: block;"><strong>Montant</strong>: 200 000 €</p>

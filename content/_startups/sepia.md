@@ -2,7 +2,7 @@
 title: SEPIA
 mission: Accélérer les interventions de la police du ciel
 sponsors:
-    - /organisations/armees
+  - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation
@@ -16,7 +16,6 @@ usertypes:
 stats: false
 contact: mathieu.mahr@beta.gouv.fr
 ---
-
 ## Contexte 
 24h/24 et 7j/7, l’Armée de l’air assure une mission de police du ciel en surveillant les 11 000 aéronefs qui transitent quotidiennement par l’espace aérien français. Sa mission : détecter, identifier et si besoin intercepter tout intrus, afin de faire respecter la souveraineté nationale et de défendre notre territoire contre toute menace venant des airs.
 Les avions de chasse français sont positionnés dans différentes bases aériennes et sont prêts à décoller à chaque instant pour intervenir. Pour sélectionner quel chasseur doit intervenir, des experts évaluent la situation en fonction des conditions météorologiques, géographiques et tactiques. Mais sachant qu’un avion peut traverser la France métropolitaine en 20 minutes à très grande vitesse, chaque seconde compte quand un événement anormal est détecté.

@@ -10,4 +10,13 @@ missions:
     startups:
       - tacct
 memberType: beta
+link: https://www.linkedin.com/in/antoine-conegero/
+competences:
+  - Data Science
+  - Python
+  - PostgreSQL
+  - Sécurité informatique
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - Machine learning
 ---

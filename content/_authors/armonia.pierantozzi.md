@@ -6,7 +6,6 @@ missions:
   - start: 2021-11-09
     end: 2023-12-30
     status: independent
-    employer: ''
 badges:
   - segur
 previously:

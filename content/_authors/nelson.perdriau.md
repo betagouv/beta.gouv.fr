@@ -3,8 +3,6 @@ fullname: Nelson Perdriau
 role: Stagiaire
 domaine: Autre
 github: N07070
-avatar: null
-link: null
 missions:
   - start: 2020-03-02
     end: 2020-08-15

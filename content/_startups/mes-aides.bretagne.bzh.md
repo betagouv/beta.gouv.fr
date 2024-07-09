@@ -10,13 +10,9 @@ phases:
     end: 2020-01-31
   - name: alumni
     start: 2020-07-01
-link:
-repository:
 stats: false
-stats_url:
 contact: contactincubateur@anct.gouv.fr
 ---
-
 ## Problème visé :
 
 On estime que 30 % des aides sociales n’atteignent pas leurs bénéficiaires.

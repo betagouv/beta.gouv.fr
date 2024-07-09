@@ -7,7 +7,6 @@ incubator: dinum_produits_interministeriels
 contact: support@audioconf.numerique.gouv.fr
 link: https://audioconf.numerique.gouv.fr/
 repository: https://github.com/betagouv/audioconf
-events: []
 phases:
   - name: construction
     start: 2020-11-15
@@ -17,7 +16,6 @@ usertypes:
   - etat
 accessibility_status: non conforme
 ---
-
 ## Contexte
 
 Le service AudioConf a été lancé en décembre 2020 pour permettre aux agents publics de réaliser simplement des conférences téléphoniques.

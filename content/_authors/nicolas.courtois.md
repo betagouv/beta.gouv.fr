@@ -14,7 +14,6 @@ missions:
   - start: 2024-03-14
     end: 2024-12-14
     status: independent
-    employer: ''
     startups:
       - monprojetsup
   - start: 2024-06-24

@@ -1,7 +1,6 @@
 ---
 title: Plus fraîche ma ville
-mission: >-
-  Accompagner les collectivités dans le choix de solutions de rafraîchissement urbain pérennes et durables
+mission: Accompagner les collectivités dans le choix de solutions de rafraîchissement urbain pérennes et durables
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -13,7 +12,7 @@ dashlord_url: https://incubateur-ademe.github.io/dashlord/url/plusfraichemaville
 stats: true
 stats_url: https://plusfraichemaville.fr/stats
 budget_url: https://plusfraichemaville.fr/budget
-analyse_risques: false
+analyse_risques: true
 analyse_risques_url: https://github.com/incubateur-ademe/plusfraichemaville-site/blob/main/SECURITY.md
 phases:
   - name: investigation
@@ -23,14 +22,15 @@ phases:
     start: 2022-09-26
     end: 2024-10-17
 techno:
-    - Next.js
-    - React
-    - TypeScript
-    - Directus
+  - Next.js
+  - React
+  - TypeScript
+  - Directus
 redirect_from:
   - /startups/rafraichir.les.villes
 thematiques:
   - Écologie
+usertypes: []
 ---
 ## Contexte
 

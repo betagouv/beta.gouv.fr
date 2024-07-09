@@ -4,12 +4,12 @@ role: Chargée de communication
 domaine: Autre
 link: https://www.linkedin.com/in/jory-jean-baptiste
 missions:
-  - start: 2021-06-01
-    end: 2022-09-30
-    status: admin
-    employer: Pôle Emploi
   - start: 2019-10-07
     end: 2021-09-30
+    status: admin
+    employer: Pôle Emploi
+  - start: 2021-06-01
+    end: 2022-09-30
     status: admin
     employer: Pôle Emploi
 startups:
