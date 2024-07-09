@@ -5,7 +5,7 @@ domaine: Animation
 github: amelalili
 missions:
   - start: 2022-09-01
-    end: 2024-08-29
+    end: 2024-09-30
     status: independent
     employer: scopyleft
 previously:
@@ -15,4 +15,6 @@ teams:
   - /teams/communaute-dinum
 badges:
   - segur
+competences:
+  - 'support '
 ---

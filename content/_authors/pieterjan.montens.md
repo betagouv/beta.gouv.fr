@@ -3,7 +3,6 @@ fullname: Pieterjan Montens
 role: Full-stack / DevOps / Data Something
 domaine: Développement
 github: PieterjanMontens
-avatar: null
 link: http://pieterjan.montens.net
 badges:
   - segur

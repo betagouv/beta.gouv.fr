@@ -1,7 +1,6 @@
 ---
 fullname: louis Bardon
-role: Conseil senior en transformation numérique (Business developpement, Avant vente,
-  makerting,..)
+role: Conseil senior en transformation numérique (Business developpement, Avant vente, makerting,..)
 domaine: Coaching
 missions:
   - start: 2022-08-05

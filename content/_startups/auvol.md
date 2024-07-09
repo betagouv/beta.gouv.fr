@@ -13,13 +13,11 @@ phases:
     end: 2019-08-31
   - name: alumni
     start: 2019-10-31
-repository:
 stats: false
 contact: didier.yvetot@beta.gouv.fr
 usertypes:
   - entreprise
 ---
-
 ## Contexte
 
 En France, le trafic aérien a augmenté de 5,8% en 2018. Jusqu’en 2030, une augmentation massive est à prévoir et cela représente un défi pour les contrôleurs aériens. En effet, comment maintenir le même niveau de sécurité aérien alors que le volume de vols se multiplie ?

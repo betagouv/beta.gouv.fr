@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: Scopopop
     startups:
-      - preuve-de-covoiturage
       - aides-territoires
+      - preuve-de-covoiturage
 startups:
   - preuve-de-covoiturage
   - aides-territoires

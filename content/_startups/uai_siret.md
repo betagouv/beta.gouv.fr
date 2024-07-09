@@ -1,21 +1,18 @@
 ---
 title: Le référentiel UAI-SIRET
-mission: "Faciliter l’identification des organismes de formation en apprentissage"
+mission: Faciliter l’identification des organismes de formation en apprentissage
 sponsors:
-  - /organisations/menjs
-  - /organisations/mtei
   - /organisations/mesr
   - /organisations/mtfp
+  - /organisations/mtei
+  - /organisations/menjs
 incubator: mission-apprentissage
-link:
-repository:
 contact: apprentissage@beta.gouv.fr
-events: []
 phases:
   - name: investigation
     start: 2021-09-01
     end: 2022-01-01
-  - name : construction
+  - name: construction
     start: 2022-01-01
     end: 2022-08-29
   - name: transfer

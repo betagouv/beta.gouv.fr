@@ -1,8 +1,6 @@
 ---
 title: MétierScope
-mission: >-
-  Faciliter l'accès à des informations claires et pratiques sur les métiers et
-  les compétences
+mission: Faciliter l'accès à des informations claires et pratiques sur les métiers et les compétences
 sponsors:
   - /organisations/francetravail
 incubator: francetravail

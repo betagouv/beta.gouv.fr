@@ -7,11 +7,9 @@ missions:
   - start: 2023-11-27
     end: 2024-03-31
     status: service
-    employer: ''
     startups:
       - aquaculteurs.marins
 startups:
   - aquaculteurs.marins
 memberType: autre
-avatar: ''
 ---

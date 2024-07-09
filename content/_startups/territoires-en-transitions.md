@@ -1,7 +1,6 @@
 ---
 title: Territoires en Transitions
-mission: >-
-  Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique
+mission: Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -9,7 +8,7 @@ contact: contact@territoiresentransitions.fr
 link: https://territoiresentransitions.fr/
 repository: https://github.com/betagouv/territoires-en-transitions
 accessibility_status: non conforme
-dashlord_url: https://incubateur-ademe.github.io/dashlord/url/territoiresentransitions-fr/
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/territoires-en-transitions
 stats: true
 stats_url: https://www.territoiresentransitions.fr/stats
 budget_url: https://www.territoiresentransitions.fr/budget
@@ -24,12 +23,12 @@ phases:
   - name: acceleration
     start: 2023-01-16
 techno:
-    - Next.js
-    - React
-    - TypeScript
-    - MDX
-    - Strapi
-    - Python
+  - Next.js
+  - React
+  - TypeScript
+  - MDX
+  - Strapi
+  - Python
 usertypes:
   - collectivite-territoriale
 redirect_from:
@@ -39,6 +38,10 @@ fast:
   montant: 300000
 thematiques:
   - Territoires
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 14
 ---
 ## Contexte
 

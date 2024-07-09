@@ -7,7 +7,6 @@ missions:
   - start: 2019-06-01
     end: 2024-06-30
     status: independent
-startups: null
 previously:
   - mon-entreprise
   - aides.jeunes

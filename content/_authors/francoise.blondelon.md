@@ -6,7 +6,6 @@ missions:
   - start: 2022-06-27
     end: 2023-12-31
     status: admin
-    employer: ''
     startups:
       - themis
 startups:

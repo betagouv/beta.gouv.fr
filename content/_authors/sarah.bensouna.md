@@ -13,5 +13,4 @@ startups:
 badges:
   - segur
 ---
-
 Amoureuse de voyages, de poutine et de chocolat

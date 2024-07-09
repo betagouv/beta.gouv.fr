@@ -21,4 +21,3 @@ previously:
   - territoires-en-transitions
 memberType: beta
 ---
-

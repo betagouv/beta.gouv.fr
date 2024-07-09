@@ -5,8 +5,7 @@ sponsors:
   - /organisations/djepva
 incubator: engagement_civique
 contact: contact@api-engagement.beta.gouv.fr
-stats_url: >-
-  https://reserve-civique-metabase.osc-secnum-fr1.scalingo.io/public/dashboard/2dad1c3d-09e5-4d68-85bb-773b9c61e9a7
+stats_url: https://reserve-civique-metabase.osc-secnum-fr1.scalingo.io/public/dashboard/2dad1c3d-09e5-4d68-85bb-773b9c61e9a7
 link: https://api-engagement.beta.gouv.fr
 stats: true
 phases:

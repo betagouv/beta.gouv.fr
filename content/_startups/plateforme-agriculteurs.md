@@ -15,7 +15,6 @@ phases:
   - name: investigation
     start: 2024-05-27
 ---
-
 ## Contexte
 
 (à compléter)

@@ -9,8 +9,8 @@ missions:
     end: 2019-09-30
     status: independent
     startups:
-      - zen
       - perspectives
+      - zen
 startups:
   - zen
   - perspectives

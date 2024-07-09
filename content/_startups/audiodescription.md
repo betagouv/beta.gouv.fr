@@ -1,6 +1,5 @@
 ---
-mission: >-
-  Faciliter la mise à disposition d'informations concernant l'audiodescription d'oeuvres audiovisuelles
+mission: Faciliter la mise à disposition d'informations concernant l'audiodescription d'oeuvres audiovisuelles
 incubator: culture
 title: Audiodescription
 contact: ateliernumerique.snum@culture.gouv.fr
@@ -11,7 +10,6 @@ phases:
   - name: construction
     start: 2024-04-15
 ---
-
 ## Plateforme dédiée à l’audiodescription
 
 **La plateforme du ministère de la Culture dédiée à l’audiodescription fournit aux usagers en situation de handicap visuel et à leurs proches un accès direct ou indirect à un catalogue de films audiodécrits et à un ensemble de ressources informatives sur l’audiodescription.**

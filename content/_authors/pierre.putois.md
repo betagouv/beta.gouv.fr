@@ -8,9 +8,9 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - l-immersion-facile
       - data-inclusion
       - les-emplois
+      - l-immersion-facile
       - pilotage.de.linclusion
       - place-de-marche-inclusion
       - rdv.insertion

@@ -7,8 +7,8 @@ missions:
     status: independent
     employer: NUMA
     startups:
-      - mediation.logement
       - epandage-facile
+      - mediation.logement
 incubator: mtes
 competences:
   - UX

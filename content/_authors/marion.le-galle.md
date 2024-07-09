@@ -10,8 +10,8 @@ missions:
     startups:
       - clara
       - labonneplace
-      - polex
       - mes.aides.a.lembauche
+      - polex
 startups:
   - clara
   - labonneplace

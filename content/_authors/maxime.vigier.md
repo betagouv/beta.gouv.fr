@@ -13,4 +13,3 @@ startups:
   - monprojetsup
 memberType: autre
 ---
-

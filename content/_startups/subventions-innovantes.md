@@ -2,21 +2,20 @@
 title: Subventions innovantes
 mission: Renforcer la place des PME et l'impact dans les subventions de l'Etat
 sponsors:
-    - /organisations/dinum
+  - /organisations/dinum
 incubator: dinum
 contact: benjamin.doberset@beta.gouv.fr
 usertypes:
-    - entreprise
+  - entreprise
 redirect_from:
-    - /startups/Subventions_innovantes
+  - /startups/Subventions_innovantes
 phases:
-    - name: investigation
-      start: 2023-05-31
-      end: 2023-09-01
-    - name: alumni
-      start: 2023-09-01
+  - name: investigation
+    start: 2023-05-31
+    end: 2023-09-01
+  - name: alumni
+    start: 2023-09-01
 ---
-
 # Renforcer la place des PME et l'impact dans les subventions de l'Etat
 
 ## Le problème général

@@ -1,14 +1,11 @@
 ---
 title: Agents en intervention
-mission: >-
-  Faciliter la gestion et le suivi des interventions techniques dans ma
-  collectivité.
+mission: Faciliter la gestion et le suivi des interventions techniques dans ma collectivité.
 sponsors:
   - /organisations/anct
 incubator: anct
 link: https://agentsenintervention.anct.gouv.fr
-repository: >-
-  https://gitlab.com/incubateur-territoires/startups/agents-intervention/agents-en-intervention
+repository: https://gitlab.com/incubateur-territoires/startups/agents-intervention/agents-en-intervention
 contact: servicesnumeriques@anct.beta.gouv.fr
 accessibility_status: partiellement conforme
 thematiques:

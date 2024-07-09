@@ -1,15 +1,14 @@
 ---
 title: Nos Gestes Climat
-mission: >-
-  Permettre le calcul de son empreinte carbone individuelle et le passage à l'action pour la réduire
+mission: Permettre le calcul de son empreinte carbone individuelle et le passage à l'action pour la réduire
 sponsors:
   - /organisations/ademe
 incubator: ademe
 contact: contact@nosgestesclimat.fr
-link: https://nosgestesclimat.fr/
+link: https://nosgestesclimat.fr
 repository: https://github.com/incubateur-ademe/nosgestesclimat
 accessibility_status: partiellement conforme
-dashlord_url: https://incubateur-ademe.github.io/dashlord/url/nosgestesclimat-fr/
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/nosgestesclimat
 stats: true
 stats_url: https://nosgestesclimat.fr/stats
 budget_url: https://nosgestesclimat.fr/budget
@@ -18,17 +17,20 @@ analyse_risques_url: https://github.com/incubateur-ademe/incubateur-ademe/blob/m
 events:
   - name: national_impact
     date: 2022-12-31
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 230000€ pour la promotion 12
 phases:
   - name: success
-    start: 2022-06-13
     comment: Spin-off de Datagir
+    start: 2022-06-13
 techno:
-    - Next.js
-    - React
-    - TypeScript
-    - publi.codes
-    - MongoDB
-    - MDX
+  - Next.js
+  - React
+  - TypeScript
+  - publi.codes
+  - MongoDB
+  - MDX
 usertypes:
   - particulier
   - entreprise

@@ -6,7 +6,6 @@ missions:
   - start: 2023-11-17
     end: 2024-05-31
     status: service
-    employer: ''
     startups:
       - gestion.subventions.locales
 memberType: beta

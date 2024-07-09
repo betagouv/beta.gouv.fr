@@ -6,7 +6,6 @@ missions:
   - start: 2022-01-01
     end: 2024-12-31
     status: admin
-    employer: ''
     startups:
       - pilotage.de.linclusion
 startups:

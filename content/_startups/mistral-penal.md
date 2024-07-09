@@ -1,8 +1,6 @@
 ---
 title: Mistral Pénal
-mission: >-
-  Simplifier le suivi des dossiers pour les greffiers et automatiser les
-  activités de pilotage (statistiques) pour les DSGJ
+mission: Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -25,13 +23,12 @@ phases:
     start: 2022-06-29
     end: 2023-03-30
   - name: construction
-    start: 2023-03-30
     comment: Construction du MVP et test utilisateur sur des cas vidéos
+    start: 2023-03-30
 thematiques:
   - Justice
 analyse_risques: true
 ---
-
 ## Contexte
 
 - [Les enseignements des Etats généraux de la justice](http://www.justice.gouv.fr/plan-daction-pour-la-justice-13010/)
