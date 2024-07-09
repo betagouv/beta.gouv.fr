@@ -10,6 +10,12 @@ missions:
     end: 2023-12-27
     status: admin
     employer: affaires-sociales
+    startups:
+      - codedutravail
+      - domifa
+      - egalite.professionnelle
+      - e-mjpm
+      - workinfrance
   - start: 2023-12-28
     end: 2026-12-28
     status: admin

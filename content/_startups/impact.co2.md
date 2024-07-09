@@ -8,7 +8,7 @@ contact: impactco2@ademe.fr
 link: https://impactco2.fr
 repository: https://github.com/incubateur-ademe/impactco2
 accessibility_status: partiellement conforme
-dashlord_url: https://incubateur-ademe.github.io/dashlord/url/impactco2-fr/
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/impact.co2
 stats: true
 stats_url: https://impactco2.fr/stats
 budget_url: https://impactco2.fr/budget
