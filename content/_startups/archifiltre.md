@@ -14,10 +14,6 @@ stats_url: https://archifiltre.fr/stats
 stats: true
 analyse_risques: false
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/startup/archifiltre
-techno:
-  - TypeScript
-  - React
-  - Electron
 events:
   - name: other
     date: 2018-01-07
@@ -50,7 +46,10 @@ accessibility_status: non conforme
 thematiques:
   - Outil technique
   - Archives
-techno: []
+techno:
+  - TypeScript
+  - React
+  - Electron
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/startup/archifiltre
 ---
 # Le contexte
