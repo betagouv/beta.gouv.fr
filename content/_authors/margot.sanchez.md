@@ -1,6 +1,6 @@
 ---
 fullname: Margot Sanchez
-role: Responsable de portefeuille Transition Ecologique
+role: Responsable de portefeuille Transition Écologique
 domaine: Animation
 github: margot-sanchez
 missions:
