@@ -5,13 +5,8 @@ sponsors:
   - /organisations/ademe
 incubator: ademe
 contact: aude.bodiguel@ademe.fr
-link: https://facili-tacct.beta.gouv.fr
-repository: https://github.com/incubateur-ademe/facili-tacct
 accessibility_status: non conforme
-dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/tacct
 stats: false
-analyse_risques: true
-analyse_risques_url: https://github.com/incubateur-ademe/facili-tacct/blob/main/SECURITY.md
 mon_service_securise: false
 events:
   - name: committee
@@ -34,8 +29,14 @@ techno:
     - TypeScript
 thematiques:
   - Écologie
+analyse_risques: true
+analyse_risques_url: https://github.com/incubateur-ademe/facili-tacct/blob/main/SECURITY.md
+repository: https://github.com/incubateur-ademe/facili-tacct
+link: https://facili-tacct.beta.gouv.fr
 usertypes:
   - collectivite-territoriale
+techno: []
+dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/tacct
 ---
 # Contexte
 

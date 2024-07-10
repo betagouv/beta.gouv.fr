@@ -14,9 +14,13 @@ phases:
     start: 2023-01-25
   - name: acceleration
     start: 2023-03-18
+  - name: alumni
+    start: 2024-04-15
 link: https://bpcomieux.fabrique.social.gouv.fr/
 thematiques:
   - Santé
+usertypes: []
+techno: []
 ---
 ## Le contexte
 

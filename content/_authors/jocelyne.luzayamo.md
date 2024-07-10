@@ -6,8 +6,8 @@ competences: []
 missions:
   - start: 2024-07-08
     end: 2024-10-08
-    employer: Opteamis
     status: independent
+    employer: Opteamis
     startups:
       - reva
 ---

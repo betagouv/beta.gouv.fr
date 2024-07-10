@@ -25,7 +25,8 @@ phases:
 accessibility_status: non conforme
 thematiques:
   - Écologie
-budget_url: https://beta.gouv.fr/startups/potentiel.html
+budget_url: https://beta.gouv.fr/startups/potentiel.html#le-budget
+techno: []
 ---
 #  Introduction - contexte
 

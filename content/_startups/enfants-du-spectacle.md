@@ -18,10 +18,8 @@ phases:
   - name: construction
     start: 2021-07-01
     end: 2022-09-01
-  - name: acceleration
-    start: 2022-09-01
-  - name: transfer
-    start: 2024-02-27
+thematiques: []
+techno: []
 ---
 ## Le contexte
 
