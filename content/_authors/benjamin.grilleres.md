@@ -1,12 +1,16 @@
 ---
 domaine: Développement
 fullname: Benjamin Grilleres
-role: Développement
+role: Développeur front chez CarbuRe
 missions:
   - start: 2024-07-15
-    end: 2025-07-15
+    end: 2025-01-15
     status: independent
     employer: Malt
     startups:
       - carbure
+github: benjamin-grilleres
+link: https://www.linkedin.com/in/benjamin-grilleres-283530124/
+competences:
+  - Développement Full-stack
 ---

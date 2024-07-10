@@ -15,10 +15,12 @@ phases:
   - name: acceleration
     start: 2022-09-01
     end: 2023-01-12
-  - name: success
+  - name: transfer
     start: 2023-01-12
 thematiques:
   - Santé
+usertypes: []
+techno: []
 ---
 ## Le contexte
 

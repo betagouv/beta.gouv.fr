@@ -22,7 +22,7 @@ phases:
     end: 2021-07-31
   - name: acceleration
     start: 2021-08-01
-  - name: success
+  - name: transfer
     start: 2024-02-01
 usertypes:
   - association
@@ -33,6 +33,7 @@ fast:
   montant: 100000
 thematiques:
   - Santé
+techno: []
 ---
 ## Le contexte
 
