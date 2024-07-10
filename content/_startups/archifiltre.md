@@ -13,7 +13,6 @@ usertypes:
 stats_url: https://archifiltre.fr/stats
 stats: true
 analyse_risques: false
-dashlord_url: https://socialgouv.github.io/dashlord-fabrique/startup/archifiltre
 events:
   - name: other
     date: 2018-01-07
