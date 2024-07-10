@@ -19,11 +19,9 @@ phases:
   - name: construction
     start: 2020-11-01
     end: 2021-05-01
-  - name: acceleration
-    start: 2021-06-01
-  - name: transfer
-    start: 2024-02-27
 accessibility_status: non conforme
+thematiques: []
+techno: []
 ---
 ## Le contexte
 
