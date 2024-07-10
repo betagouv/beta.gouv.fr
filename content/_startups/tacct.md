@@ -23,10 +23,6 @@ phases:
     end: 2023-03-31
   - name: construction
     start: 2023-10-23
-techno:
-    - Next.js
-    - React
-    - TypeScript
 thematiques:
   - Écologie
 analyse_risques: true
@@ -35,7 +31,10 @@ repository: https://github.com/incubateur-ademe/facili-tacct
 link: https://facili-tacct.beta.gouv.fr
 usertypes:
   - collectivite-territoriale
-techno: []
+techno:
+    - Next.js
+    - React
+    - TypeScript
 dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/tacct
 ---
 # Contexte
