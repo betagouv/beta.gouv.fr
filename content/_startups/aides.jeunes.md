@@ -19,9 +19,12 @@ phases:
     end: 2023-01-13
   - name: acceleration
     start: 2023-01-13
+  - name: transfer
+    start: 2024-01-01
 thematiques:
   - Jeunesse
   - Social
+techno: []
 ---
 ## Problème
 
