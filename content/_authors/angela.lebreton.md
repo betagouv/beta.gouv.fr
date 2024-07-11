@@ -10,7 +10,7 @@ missions:
     startups:
       - jeveuxaider
   - start: 2024-02-26
-    end: 2024-09-02
+    end: 2024-12-02
     status: independent
     employer: Scopyleft
     startups:
@@ -19,5 +19,6 @@ previously:
   - jeveuxaider
 memberType: beta
 link: https://www.linkedin.com/in/angela-lebreton/
+competences: []
 ---
 Chargée de déploiement

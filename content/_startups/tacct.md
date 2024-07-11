@@ -21,7 +21,8 @@ analyse_risques: true
 analyse_risques_url: https://github.com/incubateur-ademe/facili-tacct/blob/main/SECURITY.md
 repository: https://github.com/incubateur-ademe/facili-tacct
 link: https://facili-tacct.beta.gouv.fr
-usertypes: []
+usertypes:
+  - collectivite-territoriale
 techno: []
 dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/tacct
 ---

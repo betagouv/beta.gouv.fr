@@ -8,9 +8,9 @@ contact: monespacecollectivite@anct.gouv.fr
 redirect_from:
   - /startups/mon.espae.collectivite
 sponsors:
-  - /organisations/mtes
   - /organisations/mctrct
   - /organisations/anct
+  - /organisations/mtes
 phases:
   - name: investigation
     start: 2023-10-09
