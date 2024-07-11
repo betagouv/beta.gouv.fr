@@ -2,8 +2,8 @@
 title: Mon soutien psy
 mission: L’accès à un accompagnement psychologique pour tous dès 3 ans
 sponsors:
-  - /organisations/cnam
   - /organisations/solidarite-sante
+  - /organisations/cnam
 incubator: sgmas
 link: https://www.ameli.fr/assure/remboursements/rembourse/remboursement-seance-psychologue-mon-soutien-psy
 repository: https://github.com/SocialGouv/mon-psy-sante
