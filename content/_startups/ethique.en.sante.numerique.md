@@ -2,8 +2,8 @@
 title: Ethique en santé numérique
 mission: Recueillir les signalements d’ordre éthique sur l’utilisation du numérique en santé
 sponsors:
-  - /organisations/dns
   - /organisations/ans
+  - /organisations/dns
 incubator: sgmas
 contact: Magali.ROBERT@esante.gouv.fr
 phases:

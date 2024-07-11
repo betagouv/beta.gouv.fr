@@ -3,9 +3,9 @@ title: La bonne alternance
 mission: Faciliter la mise en relation entre jeunes, entreprises et CFA
 sponsors:
   - /organisations/menjs
+  - /organisations/mesr
   - /organisations/mtfp
   - /organisations/mtei
-  - /organisations/mesr
 incubator: mission-apprentissage
 phases:
   - name: investigation

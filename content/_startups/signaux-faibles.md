@@ -2,11 +2,11 @@
 title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté
 sponsors:
-  - /organisations/dgefp
+  - /organisations/dge
   - /organisations/dinum
   - /organisations/acoss
   - /organisations/bdf
-  - /organisations/dge
+  - /organisations/dgefp
 incubator: dinum
 phases:
   - name: investigation
