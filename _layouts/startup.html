@@ -66,7 +66,7 @@ layout: default
             <a class="fr-link" href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
             {% endif %}
           </p>
-          {% unless phase.status == 'investigation' or phase.status == 'transfer'  %}
+          {% unless phase.status == 'investigation' %}
           <div class="fr-py-1w">
             <b>Indicateurs de qualité</b>
             <ul style="list-style-type: none; padding: 0;">
