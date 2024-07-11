@@ -2,8 +2,8 @@
 title: A-JUST
 mission: Aider les juridictions dans l'affectation de leurs ressources humaines pour réduire les délais de justice.
 sponsors:
-  - /organisations/igj
   - /organisations/mj
+  - /organisations/igj
 incubator: justice
 link: https://a-just.beta.gouv.fr
 repository: https://github.com/betagouv/a-just

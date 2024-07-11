@@ -7,8 +7,8 @@ competences: []
 missions:
   - start: 2024-07-08
     end: 2024-12-31
-    employer: Scopopop
     status: independent
+    employer: Scopopop
     startups:
       - economes.de.flux.a.disposition
 ---

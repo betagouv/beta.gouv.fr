@@ -9,6 +9,19 @@ phases:
 thematiques:
   - Open-Data
   - Formation
+  - Travail / Emploi
+repository: https://github.com/mission-apprentissage/api-apprentissage
+link: https://api.apprentissage.beta.gouv.fr/
+dashlord_url: https://dashlord.incubateur.net/url/api-apprentissage-beta-gouv-fr/
+usertypes:
+  - association
+  - entreprise
+  - etat
+  - collectivite-territoriale
+  - etablissement-scolaire
+techno: []
+sponsors:
+  - /organisations/dgefp
 ---
 # **Le problème de politique publique**
 
