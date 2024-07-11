@@ -9,6 +9,12 @@ missions:
     status: admin
     startups:
       - codedutravail
+  - start: 2024-01-01
+    end: 2027-01-01
+    status: admin
+    employer: Ministère du travail
+    startups:
+      - codedutravail
 startups:
   - codedutravail
 ---

@@ -19,6 +19,8 @@ phases:
     start: 2021-06-01
   - name: success
     start: 2022-11-29
+thematiques: []
+techno: []
 ---
 Le produit AVRIL a été pérennisé au sein du service public [France VAE](https://beta.gouv.fr/startups/reva.html).
 
