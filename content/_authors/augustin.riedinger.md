@@ -17,8 +17,8 @@ previously:
   - avril
   - pass-culture
 competences:
-  - Développement Fullstack
   - Développement Frontend
   - Développement Backend
   - Administration Système
+  - Développement Full-stack
 ---
