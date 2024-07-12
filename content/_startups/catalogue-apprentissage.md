@@ -2,9 +2,9 @@
 title: Catalogue des formations en apprentissage
 mission: Renforcer la collecte et la  visibilité des formations en apprentissage
 sponsors:
-  - /organisations/mtfp
   - /organisations/menjs
   - /organisations/mtei
+  - /organisations/mtfp
   - /organisations/mesr
 incubator: mission-apprentissage
 link: https://catalogue.apprentissage.beta.gouv.fr/
@@ -24,6 +24,8 @@ usertypes:
   - particulier
 dashlord_url: https://dashlord.incubateur.net/url/catalogue-apprentissage-beta-gouv-fr/
 accessibility_status: non conforme
+thematiques: []
+techno: []
 ---
 Créé pour organiser la collecte des formations en apprentissage, le catalogue des formations en apprentissage permet de rendre plus visibles les offres auprès des jeunes et des employeurs.
 

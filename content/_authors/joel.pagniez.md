@@ -17,7 +17,7 @@ previously:
   - candilib
 competences:
   - Coaching
-  - Developpement
+  - Développement
 teams:
   - /teams/lab-mi
 ---

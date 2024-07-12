@@ -27,6 +27,6 @@ previously:
   - egalite.professionnelle
   - acceslibre
 competences:
-  - Développement Full-Stack
+  - Développement Full-stack
 ---
 En quête de sens numérique
