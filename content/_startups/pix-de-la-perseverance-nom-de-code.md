@@ -15,6 +15,10 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-04-01
+    comment: null
+    start: 2024-04-01
+    end: null
+events: []
 ---
 ## Contexte
 
