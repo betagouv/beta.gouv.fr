@@ -2,8 +2,8 @@
 title: Médiation Logement
 mission: Résoudre les litiges locatifs entre locataires et bailleurs par la médiation.
 sponsors:
-  - /organisations/dgaln
   - /organisations/mtes
+  - /organisations/dgaln
 incubator: mtes
 contact: contact@mediationlogement.beta.gouv.fr
 stats: false
