@@ -20,7 +20,7 @@ export const schema = z.object({
   analyse_risques: z.boolean().optional().nullable(),
   analyse_risques_url: z.string().optional().nullable(),
   events: z.array(z.object({ name: z.string(), date: z.date() })).optional(),
-  phases: z.array(z.object({ name: z.string(), start: z.date(),end: z.date().optional().nullable(), comment: z.string().optional() })).optional(),
+  phases: z.array(z.object({ name: z.string(), start: z.date(),end: z.date().optional().nullable(), comment: z.string().optional().nullable() })).optional(),
   techno: z.array(z.string()).optional(),
   usertypes: z.array(z.string()).optional(),
   thematiques: z.array(z.string()).optional(),
