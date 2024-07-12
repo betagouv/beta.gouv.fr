@@ -15,8 +15,8 @@ usertypes:
   - etat
 title: Conseillers-Entreprises
 sponsors:
-  - /organisations/dge
   - /organisations/dgefp
+  - /organisations/dge
 link: https://conseillers-entreprises.service-public.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/place-des-entreprises-beta-gouv-fr/

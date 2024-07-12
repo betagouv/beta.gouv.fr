@@ -10,5 +10,7 @@ missions:
       - monpsy
 startups:
   - monpsy
+link: https://www.linkedin.com/in/celine-anfossi/
+competences: []
 ---
 J'accompagne les gens et les projets.

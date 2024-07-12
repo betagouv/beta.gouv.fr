@@ -11,8 +11,8 @@ usertypes:
 stats_url: https://dora.inclusion.beta.gouv.fr/stats
 title: DORA
 sponsors:
-  - /organisations/francetravail
   - /organisations/mtei
+  - /organisations/francetravail
 link: https://dora.inclusion.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/tag/dora/

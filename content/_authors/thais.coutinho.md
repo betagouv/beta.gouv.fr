@@ -11,5 +11,6 @@ missions:
     startups:
       - infomedicament
 memberType: autre
+competences: []
 ---
 Designer de service UX

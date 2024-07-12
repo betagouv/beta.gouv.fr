@@ -1,7 +1,7 @@
 ---
 fullname: Eric Heijligers
 domaine: Produit
-role: Lead Product manager
+role: Mentor
 github: Eric-Hei
 missions:
   - start: 2020-01-01
@@ -15,6 +15,10 @@ missions:
       - domifa
       - enfants-du-spectacle
       - tumeplay
+  - start: 2024-05-01
+    end: 2026-01-12
+    status: admin
+    employer: DINUM
 incubator: sgmas
 startups:
   - 1000.jours
@@ -33,4 +37,5 @@ previously:
 competences:
   - Gestion de Produit
   - Administration Publique
+  - Coaching
 ---
