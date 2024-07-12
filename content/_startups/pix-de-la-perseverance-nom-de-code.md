@@ -2,6 +2,7 @@
 analyse_risques: false
 mon_service_securise: false
 contact: catherine.persidat@education.gouv.fr
+incubator: menj
 thematiques:
   - Jeunesse
 usertypes:
