@@ -12,6 +12,6 @@ missions:
 link: https://fr.linkedin.com/in/marie-guibert-6653571a9
 github: marieguibpref
 competences:
-  - Sciences des données
+  - Data Science
 memberType: beta
 ---

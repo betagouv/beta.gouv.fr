@@ -2,8 +2,8 @@
 title: Voir & Localiser
 mission: Voir et localiser les appelants aux centres d'appels d'urgence
 sponsors:
-  - /organisations/ans
   - /organisations/solidarite-sante
+  - /organisations/ans
 incubator: dinum
 events:
   - name: end
