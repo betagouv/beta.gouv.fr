@@ -7,6 +7,9 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2024-03-15
+thematiques: []
+usertypes: []
+techno: []
 ---
 ## Le drame
 
