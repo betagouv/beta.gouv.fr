@@ -3,8 +3,8 @@ title: Intelligence Entreprise
 mission: Améliorer la connaissance au moyen de l’intelligence artificielle
 incubator: bercy
 sponsors:
-  - /organisations/mefr
   - /organisations/dge
+  - /organisations/mefr
 phases:
   - name: investigation
     start: 2020-03-01
