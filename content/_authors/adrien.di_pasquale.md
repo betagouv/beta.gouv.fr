@@ -28,5 +28,5 @@ previously:
 startups:
   - rdv-service-public
 competences:
-  - Développement fullstack
+  - Développement Full-stack
 ---

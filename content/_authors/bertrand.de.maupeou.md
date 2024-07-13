@@ -11,6 +11,6 @@ missions:
 github: bertranddm
 competences:
   - data analyse
-  - data science
+  - Data Science
 memberType: beta
 ---

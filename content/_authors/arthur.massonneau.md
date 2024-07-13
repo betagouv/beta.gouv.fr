@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/arthurmassonneau/
 github: ArtMassonneau
 missions:
   - start: 2023-06-24
-    end: 2024-07-29
+    end: 2025-03-29
     status: independent
     employer: Numa
     startups:
@@ -14,5 +14,6 @@ missions:
 memberType: autre
 startups:
   - boris
+competences: []
 ---
 Coach Fabrique Numérique

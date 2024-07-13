@@ -5,8 +5,8 @@ title: Civil.ia
 contact: charlotte.lemahieu@ofpra.gouv.fr
 accessibility_status: non conforme
 sponsors:
-  - /organisations/ofpra
   - /organisations/interieur
+  - /organisations/ofpra
 phases:
   - name: construction
     start: 2024-09-10
