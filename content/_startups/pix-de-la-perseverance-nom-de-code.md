@@ -14,10 +14,7 @@ sponsors:
   - /organisations/menjs
 phases:
   - name: investigation
-    comment: null
     start: 2024-04-01
-    end: null
-events: []
 ---
 ## Contexte
 
