@@ -18,6 +18,10 @@ missions:
       - tdb-apprentissage
       - uai_siret
       - voeux-apprentissage
+  - start: 2024-07-01
+    end: 2027-06-30
+    status: admin
+    employer: DINUM
 startups:
   - catalogue-apprentissage
   - uai_siret
