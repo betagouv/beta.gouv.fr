@@ -2,9 +2,9 @@
 title: Catalogue des formations en apprentissage
 mission: Renforcer la collecte et la  visibilité des formations en apprentissage
 sponsors:
-  - /organisations/mtei
   - /organisations/menjs
   - /organisations/mesr
+  - /organisations/mtei
   - /organisations/mtfp
 incubator: mission-apprentissage
 link: https://catalogue.apprentissage.beta.gouv.fr/

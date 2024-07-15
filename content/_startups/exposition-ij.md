@@ -2,10 +2,10 @@
 title: Exposition des données InserJeunes
 mission: Éclairer les choix d’orientation des jeunes en exposant des données pertinentes relatives aux parcours de formation et à l’insertion professionnelle
 sponsors:
-  - /organisations/mesr
-  - /organisations/mtfp
   - /organisations/menjs
+  - /organisations/mesr
   - /organisations/mtei
+  - /organisations/mtfp
 incubator: mission-inserjeunes
 redirect_from:
   - /startups/expositionIJ

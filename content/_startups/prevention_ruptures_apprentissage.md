@@ -2,10 +2,10 @@
 title: Prévention des ruptures de contrat d'apprentissage et de remédiation
 mission: Prévenir les ruptures de contrat d'apprentissage
 sponsors:
-  - /organisations/mtfp
+  - /organisations/menjs
   - /organisations/mesr
   - /organisations/mtei
-  - /organisations/menjs
+  - /organisations/mtfp
 incubator: mission-apprentissage
 contact: apprentissage@beta.gouv.fr
 phases:

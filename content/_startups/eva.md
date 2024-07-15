@@ -2,8 +2,8 @@
 title: eva
 mission: Favoriser l’insertion en identifiant les difficultés avec les compétences de base et en valorisant les compétences transversales acquises
 sponsors:
-  - /organisations/dgefp
   - /organisations/anlci
+  - /organisations/dgefp
   - /organisations/hcc
 incubator: dinum
 events:
