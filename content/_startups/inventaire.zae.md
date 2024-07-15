@@ -5,8 +5,8 @@ title: Inventaire ZAE
 contact: clemence.biffaud@beta.gouv.fr
 accessibility_status: non conforme
 sponsors:
-  - /organisations/cerema
   - /organisations/ign
+  - /organisations/cerema
 phases:
   - name: investigation
     start: 2023-09-11

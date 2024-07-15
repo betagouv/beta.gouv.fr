@@ -2,8 +2,8 @@
 title: Pass Culture
 mission: Faciliter l'accès des jeunes à la culture
 sponsors:
-  - /organisations/dgca
   - /organisations/mc
+  - /organisations/dgca
 incubator: dinum
 phases:
   - name: investigation

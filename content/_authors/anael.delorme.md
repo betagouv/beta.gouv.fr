@@ -11,6 +11,7 @@ missions:
       - aquaculteurs.marins
 competences:
   - Administration Publique
+  - Data Science
 memberType: beta
 role: Co-intrapreneur
 startups:

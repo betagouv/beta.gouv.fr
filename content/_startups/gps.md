@@ -2,8 +2,8 @@
 title: GPS
 mission: Permettre aux 160 000 acteurs du réseau pour l’emploi d’accéder et de partager les informations quant aux intervenants dans le suivi et l’accompagnement des personnes prises en charge dans le cadre de la loi Plein Emploi.
 sponsors:
-  - /organisations/francetravail
   - /organisations/mtei
+  - /organisations/francetravail
 incubator: gip-inclusion
 contact: eric.barthelemy@beta.gouv.fr
 phases:

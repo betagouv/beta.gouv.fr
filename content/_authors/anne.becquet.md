@@ -1,13 +1,13 @@
 ---
 fullname: Anne Becquet
-role: Directrice de la mission interministérielle pour l'apprentissage
+role: Directrice Mission Interministérielle pour l'apprentissage
 domaine: Intraprenariat
 github: Anne-Becquet
 missions:
-  - start: 2020-01-01
+  - start: 2020-01-02
     end: 2024-06-30
     status: admin
-    employer: Amue
+    employer: AMUE
     startups:
       - api.apprentissage
       - boite.aux.lettres

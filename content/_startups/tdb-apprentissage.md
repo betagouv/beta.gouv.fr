@@ -2,9 +2,9 @@
 title: Tableau de bord Apprentissage
 mission: Permettre l’accès aux données clés de l’apprentissage en temps réel
 sponsors:
-  - /organisations/menjs
-  - /organisations/mtfp
   - /organisations/mesr
+  - /organisations/mtfp
+  - /organisations/menjs
   - /organisations/mtei
 incubator: mission-apprentissage
 link: https://cfas.apprentissage.beta.gouv.fr
@@ -21,6 +21,8 @@ phases:
     end: 2021-01-01
   - name: construction
     start: 2021-01-01
+  - name: acceleration
+    start: 2024-03-01
 usertypes:
   - etat
   - etablissement-scolaire
@@ -31,6 +33,7 @@ dashlord_url: https://dashlord.incubateur.net/url/cfas-apprentissage-beta-gouv-f
 thematiques:
   - Jeunesse
   - Education
+techno: []
 ---
 ## Constat
 

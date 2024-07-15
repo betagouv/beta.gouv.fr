@@ -8,6 +8,11 @@ missions:
     status: independent
     startups:
       - envergo
+  - start: 2024-07-15
+    end: 2025-01-15
+    status: independent
+    startups:
+      - envergo
 startups:
   - envergo
 memberType: beta
