@@ -21,8 +21,8 @@ techno:
   - Scalingo
 sponsors:
   - /organisations/ademe
-  - /organisations/mtes
   - /organisations/cgdd
+  - /organisations/mtes
 link: https://ecobalyse.beta.gouv.fr
 stats: true
 phases:

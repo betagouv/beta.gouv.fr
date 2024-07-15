@@ -1,6 +1,6 @@
 ---
 title: Fabrique numérique des ministères sociaux
-short_description: Lancée en 2017, la fabrique des ministères sociaux travaille à **faciliter la vie des citoyens et des agents**.
+short_description: Lancée en 2017, la fabrique des ministères sociaux travaille à <strong>faciliter la vie des citoyens et des agents</strong>.
 owner: /organisations/solidarite-sante
 logo: logo_fab_solidarite.png
 website: https://fabrique.social.gouv.fr/
