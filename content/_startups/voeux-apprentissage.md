@@ -3,8 +3,8 @@ title: Le transfert aux CFA des vœux en apprentissage exprimés sur Affelnet
 mission: 'Permettre un accompagnement accéléré des jeunes qui sortent de 3ème grâce à un transfert aux directeurs d’organismes responsables de formations en apprentissage des vœux exprimés en apprentissage '
 sponsors:
   - /organisations/menjs
-  - /organisations/mesr
   - /organisations/mtei
+  - /organisations/mesr
   - /organisations/mtfp
 incubator: mission-apprentissage
 repository: https://github.com/mission-apprentissage/voeux-affelnet

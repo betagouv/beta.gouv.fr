@@ -13,4 +13,5 @@ competences:
   - Coaching
   - Communication
 memberType: beta
+link: https://www.linkedin.com/in/paul-sarton-08a99381/
 ---

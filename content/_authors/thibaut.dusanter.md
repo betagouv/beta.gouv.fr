@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2024-07-15
     end: 2025-01-15
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - territoires-en-transitions
 ---

@@ -12,8 +12,8 @@ usertypes:
   - etat
 title: Camino
 sponsors:
-  - /organisations/dgeb
   - /organisations/dgaln
+  - /organisations/dgeb
 link: https://camino.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/camino-beta-gouv-fr/

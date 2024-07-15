@@ -2,8 +2,8 @@
 title: SPPNaut
 mission: Faciliter l'utilisation des publications nautiques en numérisant les données qu'elles contiennent
 sponsors:
-  - /organisations/shom
   - /organisations/dinum
+  - /organisations/shom
 incubator: dinum
 phases:
   - name: investigation
