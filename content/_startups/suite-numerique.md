@@ -5,7 +5,7 @@ sponsors:
   - /organisations/dinum
 incubator: dinum_produits_interministeriels
 repository: https://github.com/numerique-gouv/
-contact: marie.jeammet@beta.gouv.fr
+contact: lasuite@modernisation.gouv.fr
 stats: false
 accessibility_status: non conforme
 phases:
@@ -15,21 +15,27 @@ phases:
     start: 2023-08-01
 thematiques:
   - Outil technique
+link: https://lasuite.numerique.gouv.fr/
+usertypes:
+  - etat
+  - collectivite-territoriale
+techno: []
 ---
 ## Contexte
 
-L’objectif de l'**équipe interopérabilité** est de construire **une suite collaborative open source et souveraine**, en alternative aux suites propriétaires encore largement utilisées par les agents publics français. Derrière une authentification unique grâce au fournisseur d'identité Agent Connect, tous ces services seront interconnectés pour en faciliter les usages, y compris avec les personnes utilisant encore des outils propriétaires. 
+Notre objectif est de déployer **une suite collaborative open source et souveraine**, en alternative aux suites propriétaires encore largement utilisées par les agents publics français. Derrière une authentification unique grâce au fournisseur d'identité [AgentConnect](https://agentconnect.gouv.fr/), tous ces services, largement issus de logiciel open source existants, seront interconnectés pour en faciliter l'usage, y compris avec les personnes utilisant encore des outils propriétaires. 
+
+La Suite est déployée par l'Opérateur de Produits Interministériels de la DINUM
 
 ## Solution
 
 Une fois complète, la suite comprendra des services de : 
 
-* Messagerie mail 
-* Agenda synchronisés (et agenda d'équipe) 
+* Messagerie mail et agendas synchronisés, avec OpenExchange
 * Annuaire, y compris dans différents ministères
-* Audio et vidéo conférences avec webinaire
+* Audio et vidéo conférences, avec webinaire et webconf
 * Messagerie instantanée avec Tchap
 * Stockage de fichiers
-* Edition collaborative avec Collabora / Libre Office ainsi qu'avec le pad
+* Edition collaborative
 * Kanban 
-* Documentation avec Outline
+* Documentation

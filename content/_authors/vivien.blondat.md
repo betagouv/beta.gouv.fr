@@ -6,12 +6,13 @@ missions:
   - start: 2021-03-27
     end: 2024-12-31
     status: independent
-    employer: Octo
+    employer: Malt
     startups:
       - dossierfacile
 startups:
   - dossierfacile
 badges:
   - segur
+competences: []
 ---
-Slasheur, passionné d'histoire, grimpeur du dimanche [7A], curieux de toute connaissance, j'adore apprendre et expérimenter, allant d'expérience en expérience [...]
+Slasheur, passionné d'histoire, grimpeur du dimanche [7A], curieux de toutes connaissances, j'adore apprendre et expérimenter, allant d'expérience en expérience [...]

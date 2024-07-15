@@ -2,11 +2,14 @@
 mission: Outiller les agents publics pour les aider à faire vivre et circuler leurs données de manière efficace, flexible, pérenne et souveraine
 incubator: dinum_produits_interministeriels
 title: grist.numerique.gouv.fr
-contact: anna-livia.gomart@mail.numerique.gouv.fr
+contact: contact@grist.numerique.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2024-03-15
+thematiques: []
+usertypes: []
+techno: []
 ---
 ## Le drame
 

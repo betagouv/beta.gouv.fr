@@ -1,7 +1,7 @@
 ---
 fullname: Eric Heijligers
 domaine: Produit
-role: Lead Product manager
+role: Mentor
 github: Eric-Hei
 missions:
   - start: 2020-01-01
@@ -17,7 +17,7 @@ missions:
   - status: admin
     employer: DINUM
     start: 2024-05-01
-    end: 2025-12-31
+    end: 2026-01-12
 incubator: dinum
 previously:
   - e-mjpm
@@ -35,4 +35,5 @@ previously:
 competences:
   - Gestion de Produit
   - Administration Publique
+  - Coaching
 ---

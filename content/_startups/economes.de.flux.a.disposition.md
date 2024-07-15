@@ -5,8 +5,8 @@ title: Dépanne ma Rénov'
 contact: coline.debayle@beta.gouv.fr
 accessibility_status: non conforme
 sponsors:
-  - /organisations/dgaln
   - /organisations/dgec
+  - /organisations/dgaln
 phases:
   - name: investigation
     start: 2023-12-01

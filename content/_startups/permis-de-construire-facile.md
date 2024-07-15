@@ -2,8 +2,8 @@
 title: Permis de construire facile
 mission: Déposer et gérer une demande de permis de construire simplement
 sponsors:
-  - /organisations/dhup
   - /organisations/dgaln
+  - /organisations/dhup
 incubator: mtes
 events:
   - name: end
