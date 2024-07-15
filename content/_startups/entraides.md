@@ -2,8 +2,8 @@
 title: Entraide Entreprises
 mission: Aider les chefs d’entreprises dans leurs recherches de solutions à leurs problèmes
 sponsors:
-  - /organisations/mefr
   - /organisations/dge
+  - /organisations/mefr
 incubator: bercy
 phases:
   - name: investigation

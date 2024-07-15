@@ -9,8 +9,8 @@ thematiques:
 usertypes:
   - collectivite-territoriale
 sponsors:
-  - /organisations/dgpr
   - /organisations/drieat
+  - /organisations/dgpr
 phases:
   - name: investigation
     start: 2024-04-04
