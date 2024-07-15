@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2024-07-10
     end: 2024-10-10
-    employer: France Nation Verte / SGPE / DINUM
     status: independent
+    employer: France Nation Verte / SGPE / DINUM
     startups:
       - france.nation.verte.agir
 ---

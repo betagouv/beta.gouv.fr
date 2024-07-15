@@ -2,9 +2,9 @@
 title: Aquapreneur
 mission: Le portail qui accompagne les entrepreneur.e.s aquacoles
 sponsors:
+  - /organisations/agriculture
   - /organisations/dgampa
   - /organisations/mtes
-  - /organisations/agriculture
 incubator: mtes
 contact: anael.delorme@griculture.gouv.fr
 accessibility_status: non conforme
