@@ -9,6 +9,13 @@ missions:
     employer: LBC
     startups:
       - monstage
+  - start: 2024-07-15
+    end: 2025-08-31
+    status: independent
+    employer: Malt
+    startups:
+      - aidantsconnect
 startups:
   - monstage
+  - aidantsconnect
 ---
