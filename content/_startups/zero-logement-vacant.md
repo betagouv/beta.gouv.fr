@@ -3,8 +3,8 @@ title: Zéro logement vacant
 mission: ' Permettre aux collectivités de mobiliser les propriétaires de logements vacants pour les remettre sur le marché'
 sponsors:
   - /organisations/dgaln
-  - /organisations/dhup
   - /organisations/agence-national-de-l-habitat
+  - /organisations/dhup
 incubator: mtes
 link: https://zerologementvacant.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/zero-logement-vacant

@@ -2,10 +2,10 @@
 title: Découvrir les formations professionnelles autour de vous
 mission: Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien
 sponsors:
+  - /organisations/mtei
+  - /organisations/menjs
   - /organisations/mesr
   - /organisations/mtfp
-  - /organisations/menjs
-  - /organisations/mtei
 incubator: mission-inserjeunes
 redirect_from:
   - /startups/investigationIJ

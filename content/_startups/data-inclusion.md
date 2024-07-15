@@ -2,8 +2,8 @@
 title: data·inclusion
 mission: Créer un référentiel commun de toutes les données de l’offre d’insertion des territoires
 sponsors:
-  - /organisations/francetravail
   - /organisations/mtei
+  - /organisations/francetravail
 incubator: gip-inclusion
 link: https://api.data.inclusion.beta.gouv.fr/api/v0/docs#/
 repository: http://github.com/gip-inclusion/data-inclusion

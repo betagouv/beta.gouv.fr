@@ -3,8 +3,8 @@ title: Registre de preuve de covoiturage
 mission: Accompagner le développement du covoiturage au quotidien 🚘
 sponsors:
   - /organisations/dinum
-  - /organisations/dgitm
   - /organisations/ademe
+  - /organisations/dgitm
 incubator: mtes
 link: https://covoiturage.beta.gouv.fr/
 repository: https://github.com/betagouv/preuve-covoiturage

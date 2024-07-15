@@ -4,8 +4,8 @@ mission: Le service France travail qui permet aux personnes en insertion de trou
 redirect_from:
   - /startups/mes.aides
 sponsors:
-  - /organisations/francetravail
   - /organisations/mtei
+  - /organisations/francetravail
 incubator: francetravail
 link: https://mes-aides.francetravail.fr/
 contact: mesaides@beta.francetravail.fr

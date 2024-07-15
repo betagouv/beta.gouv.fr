@@ -2,9 +2,9 @@
 title: Aides-territoires
 mission: Accédez aux meilleures aides pour financer et accompagner vos projets locaux
 sponsors:
-  - /organisations/mctrct
-  - /organisations/mtes
   - /organisations/dgaln
+  - /organisations/mtes
+  - /organisations/mctrct
   - /organisations/dhup
 incubator: mtes
 link: https://aides-territoires.beta.gouv.fr/
