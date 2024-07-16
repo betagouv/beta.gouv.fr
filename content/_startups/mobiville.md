@@ -2,8 +2,8 @@
 title: Mobiville
 mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité géographique des actifs
 sponsors:
-  - /organisations/francetravail
   - /organisations/action-logement
+  - /organisations/francetravail
 incubator: francetravail
 link: https://candidat.francetravail.fr/mobiville/
 repository: https://github.com/StartupsPoleEmploi/mobiville

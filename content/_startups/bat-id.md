@@ -3,10 +3,10 @@ title: RNB, le Référentiel National des Bâtiments (ex Bat-ID)
 mission: Référencer l’intégralité des bâtiments du territoire français au sein d’un géocommun
 sponsors:
   - /organisations/ademe
-  - /organisations/dgaln
-  - /organisations/ign
   - /organisations/cstb
+  - /organisations/dgaln
   - /organisations/dinum
+  - /organisations/ign
 incubator: fab-geocommuns
 contact: rnb@beta.gouv.fr
 phases:
