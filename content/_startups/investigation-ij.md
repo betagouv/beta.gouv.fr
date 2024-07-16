@@ -1,10 +1,10 @@
 ---
-title: Découvrir les formations professionnelles autour de vous
+title: C'est qui le pro ?
 mission: Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien
 sponsors:
-  - /organisations/mtei
   - /organisations/menjs
   - /organisations/mesr
+  - /organisations/mtei
   - /organisations/mtfp
 incubator: mission-inserjeunes
 redirect_from:
@@ -23,6 +23,7 @@ usertypes:
 thematiques:
   - Jeunesse
   - Formation
+techno: []
 ---
 ## Le problème
 

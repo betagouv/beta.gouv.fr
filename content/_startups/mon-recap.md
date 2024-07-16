@@ -2,8 +2,8 @@
 title: Mon Recap
 mission: Faciliter l'organisation des démarches des personnes en parcours d'insertion
 sponsors:
-  - /organisations/mtei
   - /organisations/francetravail
+  - /organisations/mtei
 incubator: gip-inclusion
 contact: annaelle.garcia@beta.gouv.fr
 accessibility_status: non conforme

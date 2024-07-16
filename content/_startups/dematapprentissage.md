@@ -2,8 +2,8 @@
 title: Le contrat d'apprentissage dématérialisé pour les employeurs publics
 mission: Faciliter le processus administratif du dépôt de contrat d'apprentissage pour les employeurs publics
 sponsors:
-  - /organisations/mtfp
   - /organisations/mtei
+  - /organisations/mtfp
 incubator: mission-apprentissage
 link: https://celia.emploi.gouv.fr/
 repository: https://github.com/mission-apprentissage/cerfa

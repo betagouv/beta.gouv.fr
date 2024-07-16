@@ -3,9 +3,9 @@ title: Boîte aux lettres
 mission: Centraliser et sécuriser les données de l'apprentissage dans le cadre du développement des services de la Mission interministérielle pour l'apprentissage.
 sponsors:
   - /organisations/menjs
+  - /organisations/mesr
   - /organisations/mtei
   - /organisations/mtfp
-  - /organisations/mesr
 incubator: mission-apprentissage
 contact: apprentissage@beta.gouv.fr
 accessibility_status: non conforme

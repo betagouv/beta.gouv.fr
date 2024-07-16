@@ -11,8 +11,8 @@ competences:
 missions:
   - start: 2024-07-15
     end: 2025-07-11
-    employer: Mon Entreprise Portage
     status: independent
+    employer: Mon Entreprise Portage
     startups:
       - mon-entreprise
 ---
