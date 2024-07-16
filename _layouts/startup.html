@@ -170,7 +170,13 @@ layout: default
             <ul style="list-style-type: none; padding: 0;">
               {% capture accessibilite_indicator %}
                 {% if page.accessibility_status %}
-                  <li><span class="fr-badge fr-text--xs {% if page.accessibility_status == 'conforme' %}fr-badge--success{% endif %}">Accessibilité : {{ page.accessibility_status }}</span></li>
+                  <li>
+                      <span class="fr-badge fr-text--xs {% if page.accessibility_status == 'conforme' %}fr-badge--success{% endif %}">Accessibilité : {{ page.accessibility_status }}</span>
+                      {% if page.accessibility_status == 'non conforme' %}
+                        <button id="button-non-conforme" aria-describedby="tooltip-non-conforme" class="fr-btn--tooltip fr-btn">Information contextuelle</button>
+                        <span class="fr-tooltip fr-placement" id="tooltip-non-conforme" role="tooltip">La mention « non conforme » indique que le site n'a pas encore été audité, mais ne renseigne en rien l'accessibilité du service en lui-même.</span>
+                      {% endif %}
+                  </li>
                 {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
                   <li><span class="fr-badge fr-text--xs">Accessibilité : non mentionnée</span></li>
                 {% endif %}
