@@ -2,8 +2,8 @@
 title: uMap
 mission: Outiller les agents publics pour créer des cartes en ligne
 sponsors:
-  - /organisations/dinum
   - /organisations/anct
+  - /organisations/dinum
 incubator: anct
 phases:
   - name: construction

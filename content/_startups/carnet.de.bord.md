@@ -2,8 +2,8 @@
 title: Carnet de bord
 mission: Partager le parcours d’insertion pour faciliter les avancées des personnes.
 sponsors:
-  - /organisations/mtei
   - /organisations/francetravail
+  - /organisations/mtei
 incubator: gip-inclusion
 link: https://carnetdebord.inclusion.beta.gouv.fr/
 repository: https://github.com/gip-inclusion/carnet-de-bord
