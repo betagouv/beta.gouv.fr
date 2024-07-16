@@ -5,9 +5,9 @@ title: Suite territoriale
 contact: lasuiteterritoriale@anct.gouv.fr
 accessibility_status: non conforme
 sponsors:
-  - /organisations/dinum
-  - /organisations/anssi
   - /organisations/anct
+  - /organisations/anssi
+  - /organisations/dinum
 phases:
   - name: investigation
     start: 2023-12-07

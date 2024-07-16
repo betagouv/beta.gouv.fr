@@ -2,8 +2,8 @@
 title: Bourse
 mission: Demander et liquider une bourse de collège en ligne
 sponsors:
-  - /organisations/menjs
   - /organisations/dinum
+  - /organisations/menjs
 incubator: dinum
 events:
   - name: end

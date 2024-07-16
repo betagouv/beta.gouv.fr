@@ -17,10 +17,7 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: construction
-    comment: null
     start: 2024-01-01
-    end: null
-events: []
 ---
 ## **Contexte**
 

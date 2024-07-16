@@ -6,8 +6,8 @@ contact: contact@histologe.info
 stats_url: https://histologe.beta.gouv.fr/statistiques
 title: Histologe
 sponsors:
-  - /organisations/dhup
   - /organisations/anct
+  - /organisations/dhup
   - /organisations/dinum
 link: https://histologe.beta.gouv.fr
 stats: true
