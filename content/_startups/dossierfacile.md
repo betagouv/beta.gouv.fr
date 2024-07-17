@@ -2,8 +2,8 @@
 title: DossierFacile
 mission: Remettre la confiance au centre de la relation entre propriétaires et locataires
 sponsors:
-  - /organisations/dhup
   - /organisations/dgaln
+  - /organisations/dhup
 incubator: mtes
 redirect_from:
   - /locatio

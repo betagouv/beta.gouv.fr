@@ -1,10 +1,10 @@
 ---
 fullname: Thomas Delage
-role: Marketing relationnel
+role: Marketing relationnel - Growth Hacking
 domaine: Animation
 missions:
   - start: 2024-02-12
-    end: 2024-07-31
+    end: 2025-01-30
     status: independent
     employer: Octo
     startups:
@@ -12,4 +12,5 @@ missions:
 startups:
   - snu
 memberType: beta
+competences: []
 ---
