@@ -59,76 +59,24 @@ layout: default
             {% endfor %}
           </p>
           <p>
-            <span class="fr-icon-mail-line"></span>
             {% if page.contact %}
-            <a class="fr-link" href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'équipe</a>.
+            <a class="fr-link fr-link--icon-left fr-icon-mail-line" href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'équipe</a>
             {% else %}
-            <a class="fr-link" href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
+            <a class="fr-link fr-link--icon-left fr-icon-mail-line" href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a></em>
             {% endif %}
           </p>
-          {% unless phase.status == 'investigation' or phase.status == 'transfer'  %}
-          <div class="fr-py-1w">
-            <b>Indicateurs de qualité</b>
-            <ul style="list-style-type: none; padding: 0;">
-              {% capture accessibilite_indicator %}
-                {% if page.accessibility_status %}
-                  <li><span class="fr-badge fr-text--xs {% if page.accessibility_status == 'conforme' %}fr-badge--success{% endif %}">Accessibilité : {{ page.accessibility_status }}</span></li>
-                {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
-                  <li><span class="fr-badge fr-text--xs">Accessibilité : non conforme</span></li>
-                {% endif %}
-              {% endcapture %}
-              {% if page.accessibility_status and page.accessibility_status == 'conforme' %}
-                {%- assign indicateurs_qualite_success = indicateurs_qualite_success | append: accessibilite_indicator -%}
-              {% else %}
-                {%- assign indicateurs_qualite_warning = indicateurs_qualite_warning | append: accessibilite_indicator -%}
-              {% endif %}
-              {% capture analyse_risques_indicator %}
-                {% if page.analyse_risques_url or page.analyse_risques  %}
-                  <li><span class="fr-badge fr-text--xs fr-badge--success">Sécurité : niveau connu</span></li>
-                {% else %}
-                <li><span class="fr-badge fr-text--xs">Sécurité : niveau inconnu</span></li>
-                {% endif %}
-              {% endcapture %}
-              {% if page.analyse_risques_url or page.analyse_risques %}
-                {%- assign indicateurs_qualite_success = indicateurs_qualite_success | append: analyse_risques_indicator -%}
-              {% else %}
-                {%- assign indicateurs_qualite_warning = indicateurs_qualite_warning | append: analyse_risques_indicator -%}
-              {% endif %}
-              {% capture dashlord_indicator %}
-                {% if page.dashlord_url %}
-                <li><span class="fr-badge fr-text--xs fr-badge--success">
-                  Bonnes pratiques : suivies</span>
-                </li>
-                {% else %}
-                <li><span class="fr-badge fr-text--xs">
-                  Bonnes pratiques : non suivies</span>
-                </li>
-                {% endif %}
-              {% endcapture %}
-              {% if page.dashlord_url %}
-                {%- assign indicateurs_qualite_success = indicateurs_qualite_success | append: dashlord_indicator -%}
-              {% else %}
-                {%- assign indicateurs_qualite_warning = indicateurs_qualite_warning | append: dashlord_indicator -%}
-              {% endif %}
-              {{ indicateurs_qualite_success }}
-              {{ indicateurs_qualite_warning }}
-              </ul>
-
-              <p class="fr-text--xs"><a class="fr-link--sm" href="/stats">En savoir plus sur nos indicateurs</a></p>
-          </div>
+          {% unless phase.status == 'investigation' %}
           <div class="fr-py-1w">
             <b>Transparence</b>
             <ul style="list-style-type: none; padding: 0">
               {% capture repo %}
               <li>
                 {% if page.repository.size > 0 %}
-                <span class="fr-icon-github-fill"></span>
-                <a class="fr-link" href="{{ page.repository }}">
+                <a class="fr-link fr-link--icon-left fr-icon-github-fill" href="{{ page.repository }}">
                   Code source
                 </a>
                 {% else %}
-                <span class="fr-icon-github-fill"></span>
-                <a class="fr-link" aria-disabled="true" >
+                <a class="fr-link fr-link--icon-left fr-icon-github-fill" aria-disabled="true" >
                   Code source (non disponible)
                 </a>
                 {% endif %}
@@ -142,13 +90,11 @@ layout: default
               {% capture budget %}
               <li>
                 {% if page.budget_url %}
-                <span class="fr-icon-money-euro-circle-line"></span>
-                <a class="fr-link" href="{{ page.budget_url }}">
+                <a class="fr-link fr-icon-money-euro-circle-line fr-link--icon-left" href="{{ page.budget_url }}">
                   Budget
                 </a>
                 {% else %}
-                <span class="fr-icon-money-euro-circle-line"></span>
-                <a class="fr-link" aria-disabled="true" >
+                <a class="fr-link fr-icon-money-euro-circle-line fr-link--icon-left" aria-disabled="true" >
                   Budget (non disponible)
                 </a>
               </li>
@@ -162,13 +108,11 @@ layout: default
               {% capture stats %}
               <li>
                 {% if page.stats or page.stats_url %}
-                <span class="fr-icon-line-chart-line"></span>
-                <a class="fr-link" href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">
+                <a class="fr-link fr-link--icon-left fr-icon-line-chart-line " href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">
                   Statistiques d'usage
                 </a>
                 {% else %}
-                <span class="fr-icon-line-chart-line"></span>
-                <a class="fr-link" aria-disabled="true">
+                <a class="fr-link fr-link--icon-left fr-icon-line-chart-line" aria-disabled="true">
                   Statistiques d'usage (non disponible)
                 </a>
                 {% endif %}
@@ -181,8 +125,7 @@ layout: default
               {% endif %}
               {% capture link_risques %}
               <li>
-                <span class="fr-icon-warning-line"></span>
-                <a class="fr-link"
+                <a class="fr-link fr-icon-warning-line fr-link--icon-left"
                   {% if page.analyse_risques_url %}href="{{page.analyse_risques_url }}"{% endif %}
                   aria-disabled="{% if page.analyse_risques_url %}false{% else %}true{% endif %}"
                 >
@@ -198,8 +141,7 @@ layout: default
               {% endif %}
               {% capture link_bonnes_pratiques %}
               <li>
-                <span class="fr-icon-info-line"></span>
-                <a class="fr-link"
+                <a class="fr-link fr-icon-info-line fr-link--icon-left"
                   {% if page.dashlord_url %}href="{{page.dashlord_url }}"{% endif %}
                   aria-disabled="{% if page.dashlord_url %}false{% else %}true{% endif %}"
                   >Suivi des bonnes pratiques
@@ -215,13 +157,54 @@ layout: default
               {{ transparence_success }}
               {% if page.techno %}
               <li>
-                <span class="fr-icon-computer-line"></span>
+                <span class="fr-icon-computer-line fr-icon--sm"></span>
                 Technologies utilisées :
                 {{ page.techno | join: " - " }}
               </li>
               {% endif %}
               {{ transparence_warning }}
             </ul>
+          </div>
+          <div class="fr-py-1w">
+            <b>Indicateurs de qualité</b>
+            <ul style="list-style-type: none; padding: 0;">
+              {% capture accessibilite_indicator %}
+                {% if page.accessibility_status %}
+                  <li>
+                      <span class="fr-badge fr-text--xs {% if page.accessibility_status == 'conforme' %}fr-badge--success{% endif %}">Accessibilité : {{ page.accessibility_status }}</span>
+                      {% if page.accessibility_status == 'non conforme' %}
+                        <button id="button-non-conforme" aria-describedby="tooltip-non-conforme" class="fr-btn--tooltip fr-btn">Information contextuelle</button>
+                        <span class="fr-tooltip fr-placement" id="tooltip-non-conforme" role="tooltip">La mention « non conforme » indique que le site n'a pas encore été audité, mais ne renseigne en rien l'accessibilité du service en lui-même.</span>
+                      {% endif %}
+                  </li>
+                {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
+                  <li><span class="fr-badge fr-text--xs">Accessibilité : non mentionnée</span></li>
+                {% endif %}
+              {% endcapture %}
+              {% if page.accessibility_status and page.accessibility_status == 'conforme' %}
+                {%- assign indicateurs_qualite_success = indicateurs_qualite_success | append: accessibilite_indicator -%}
+              {% else %}
+                {%- assign indicateurs_qualite_warning = indicateurs_qualite_warning | append: accessibilite_indicator -%}
+              {% endif %}
+              {% capture analyse_risques_indicator %}
+                {% if page.analyse_risques_url or page.analyse_risques  %}
+                  <li><span class="fr-badge fr-text--xs fr-badge--success">Sécurité : niveau connu</span></li>
+                {% else %}
+                <li><span class="fr-badge fr-text--xs">Sécurité : pas encore audité</span></li>
+                {% endif %}
+              {% endcapture %}
+              {% if page.analyse_risques_url or page.analyse_risques %}
+                {%- assign indicateurs_qualite_success = indicateurs_qualite_success | append: analyse_risques_indicator -%}
+              {% else %}
+                {%- assign indicateurs_qualite_warning = indicateurs_qualite_warning | append: analyse_risques_indicator -%}
+              {% endif %}
+
+              {{ indicateurs_qualite_success }}
+              {{ indicateurs_qualite_warning }}
+              {% if page.dashlord_url %}
+                <li class="fr-text--xs"><a class="fr-link--sm fr-icon-arrow-right-line fr-link--icon-right" href="{{ page.dashlord_url }}">Voir le suivi des bonnes pratiques</a></li>
+              {% endif %}
+              </ul>
           </div>
           {% endunless %}
         </div>
