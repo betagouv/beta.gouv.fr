@@ -1,6 +1,6 @@
 ---
 fullname: Jérémie SEGUIN
-role: Chargé de déploiement - Responsable produit
+role: 'Chargé de déploiement '
 domaine: Déploiement
 github: JeremieSeguin
 missions:
@@ -14,5 +14,6 @@ startups:
 memberType: beta
 previously:
   - mon-diagnostic-artificialisation
+competences: []
 ---
 J'aime travailler en collectif et faire des km à vélos.

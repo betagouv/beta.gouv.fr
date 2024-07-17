@@ -17,6 +17,12 @@ thematiques:
   - Sport
 link: https://pass.sports.gouv.fr/
 repository: https://github.com/betagouv/pass-sport
+stats_url: https://lecompteasso.associations.gouv.fr/carto/dashboard
+usertypes:
+  - particulier
+  - association
+  - entreprise
+techno: []
 ---
 ## Contexte
 

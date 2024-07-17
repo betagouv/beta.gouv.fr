@@ -10,9 +10,8 @@ missions:
     status: independent
     employer: numa
     startups:
-      - cnr
-      - demarches-simplifiees.fr
-      - tchap
+      - l-immersion-facile
+      - sites-faciles
 startups:
   - cnr
   - demarches-simplifiees.fr
@@ -38,6 +37,10 @@ competences:
   - Gestion de Produit
   - Développement Frontend
   - Communication
+  - SEO
+  - Product strategy
+  - PHP
+  - SEM
 teams:
   - /teams/communaute-dinum
   - /teams/fast-dinum
