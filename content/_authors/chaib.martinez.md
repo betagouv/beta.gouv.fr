@@ -41,7 +41,6 @@ competences:
   - Product strategy
   - PHP
   - SEM
-  - Croissance
 teams:
   - /teams/communaute-dinum
   - /teams/fast-dinum
