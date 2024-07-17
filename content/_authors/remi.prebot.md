@@ -7,12 +7,12 @@ missions:
   - start: 2021-01-19
     end: 2024-06-30
     status: independent
-    employer: Octo
+    employer: Opteamis
     startups:
-      - rdv.insertion
+      - investigation SRDT
 startups:
   - rdv.insertion
+  - investigation SRDT
 badges:
-  - segur
 ---
-Data product manager 6 ans d'expérience dans des environnements conseil et start-up sur des problématiques de développement de produits data
+Product Manager Data & IA, 10 ans d'expérience à l'intersection produit, data et management
