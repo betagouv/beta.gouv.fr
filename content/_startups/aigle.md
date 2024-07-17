@@ -6,8 +6,8 @@ title: 'AIGLE '
 contact: magali.migeon@herault.gouv.fr
 accessibility_status: non conforme
 sponsors:
-  - /organisations/dgaln
   - /organisations/ddtm34
+  - /organisations/dgaln
 phases:
   - name: investigation
     start: 2023-05-01
