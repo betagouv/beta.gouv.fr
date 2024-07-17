@@ -2,8 +2,8 @@
 title: Base Adresse Nationale
 mission: Référencer l'intégralité des adresses du territoire français
 sponsors:
-  - /organisations/dinum
   - /organisations/anct
+  - /organisations/dinum
   - /organisations/ign
 incubator: fab-geocommuns
 link: https://adresse.data.gouv.fr

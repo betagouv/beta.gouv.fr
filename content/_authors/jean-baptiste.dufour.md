@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2024-06-20
     end: 2024-10-31
-    employer: LittleBigConnection
     status: service
+    employer: LittleBigConnection
     startups:
       - espace.sur.demande
 ---
