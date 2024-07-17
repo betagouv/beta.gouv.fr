@@ -2,8 +2,8 @@
 title: RDV Service Public
 mission: Faciliter la prise des rendez-vous entre le service public et les usagers
 sponsors:
-  - /organisations/dinum
   - /organisations/anct
+  - /organisations/dinum
 incubator: anct
 link: https://rdv.anct.gouv.fr
 repository: https://github.com/betagouv/rdv-solidarites.fr

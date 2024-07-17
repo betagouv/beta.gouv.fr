@@ -2,8 +2,8 @@
 title: transport. data.gouv.fr
 mission: Faciliter l'accès à l’information voyageur pour tous, partout en France, grâce à l’ouverture des données.
 sponsors:
-  - /organisations/mtes
   - /organisations/dgitm
+  - /organisations/mtes
 incubator: mtes
 phases:
   - name: investigation

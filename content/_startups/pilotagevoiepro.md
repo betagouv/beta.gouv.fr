@@ -1,16 +1,16 @@
 ---
 title: Orion
-mission: Contribuer au pilotage de la révision et l'évolution de l'offre de formation des lycées professionnels
+mission: Contribuer à la transformation de la carte des formations des lycées professionnels
 sponsors:
   - /organisations/dgesco
 incubator: mission-inserjeunes
 phases:
-  - name: construction
+  - name: acceleration
     start: 2023-01-01
 repository: https://github.com/mission-apprentissage/tjp-pilotage
 stats_url: https://orion.inserjeunes.beta.gouv.fr/statistiques
 stats: true
-contact: contact@inserjeunes.beta.gouv.fr
+contact: orion@inserjeunes.beta.gouv.fr
 usertypes:
   - etablissement-scolaire
   - etat
@@ -21,6 +21,7 @@ thematiques:
   - Formation
   - Jeunesse
   - Travail / Emploi
+techno: []
 ---
 ## Le constat
 
@@ -44,9 +45,12 @@ Un service numérique contribuant au pilotage de l’évolution de la carte des 
 
 Actuellement, Orion propose à tous en accès public: 
 - Un panorama des formations par région, par département et par établissement ;
-- Une console avec des données détaillées par établissement et par formation (des données notammment sur l’attractivité des formations, le taux de pression, les effectifs, le devenir des apprenants sont disponibles, elles vont progressivement s’étayer).
+- Une console avec des données détaillées par établissement et par formation ; 
+- un POC sur le lien Emploi-Formation pour aider les décideurs à cibler les formations qui répondent à de forts besoins territoriaux ou à des enjeux sociétaux (transition écologique par exempleà
 
-Des outils permettant la remontée et l’analyse des demandes de transformation de la carte des formations des lycées professionnels ont été développés. Aujourd’hui, sont proposées aux régions académiques et à la DGESCO, via un accès connecté, des premières versions visant à faciliter le dialogue de gestion. Courant 2024, les conseils régionaux et les établissements seront associés à ces travaux.
+- un formulaire permettant de remonter les propositions d'ouvertures ou de fermetures de places de formation depuis le lycée pro jusqu'au niveau national
+- une console d'analyse des propositions par territoire, par domaine de formation, par motifs....
+- un tableau de pilotage de la transformation afin de mesurer les moyens et l'impact
 
 ## Les bénéfices
 
@@ -56,7 +60,7 @@ Les bénéfices attendus sont les suivants :
 - Augmentation de la transformation des places de formation.
 
 Les premiers résultats sont encourageants : 
-- 22 8000 visiteurs uniques se sont rendus sur la plateforme depuis son ouverture. Chacun reste environ 7 minutes par connexion.
+- 35 000 visites en un an. Chacune dure environ 7 minutes par connexion.
 - De nombreuses transformations sont prévues pour la rentrée 2024, avec notamment la création de 3 670 nouvelles places par rapport à 2023.
 
 
