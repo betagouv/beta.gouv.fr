@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2024-07-23
     end: 2024-12-31
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - france.nation.verte.agir
 ---

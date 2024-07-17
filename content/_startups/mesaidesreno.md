@@ -13,12 +13,13 @@ techno:
 sponsors:
   - /organisations/dinum
 phases:
+  - name: investigation
+    start: 2023-12-15
   - name: construction
     start: 2024-02-15
-  - name: investigation
-    start: 2024-12-15
 thematiques:
   - Écologie
+usertypes: []
 ---
 ## Contexte
 
