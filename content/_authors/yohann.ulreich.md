@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2024-07-22
     end: 2026-01-01
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - carbure
 ---

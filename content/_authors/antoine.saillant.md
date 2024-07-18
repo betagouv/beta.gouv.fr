@@ -7,8 +7,8 @@ competences:
 missions:
   - start: 2024-07-16
     end: 2024-12-31
-    employer: PathTech
     status: service
+    employer: PathTech
     startups:
       - pass-sport
 ---

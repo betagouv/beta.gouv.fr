@@ -32,7 +32,6 @@ badges:
   - segur
 domaine: Coaching
 competences:
-  - Croissance
   - Coaching
   - Gestion de Produit
   - Développement Frontend
@@ -41,6 +40,7 @@ competences:
   - Product strategy
   - PHP
   - SEM
+  - Croissance
 teams:
   - /teams/communaute-dinum
   - /teams/fast-dinum
