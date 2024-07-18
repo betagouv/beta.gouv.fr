@@ -4,12 +4,13 @@ fullname: Benjamin Michallet
 role: Coaching
 missions:
   - start: 2024-04-22
-    end: 2024-07-22
+    end: 2024-12-22
     status: independent
     employer: Dinum
 link: https://www.linkedin.com/in/benjamin-michallet-phd-232638164/
 competences:
   - Coaching
+  - Administration Publique
 memberType: autre
 ---
 Impact Hacker | Économiste [PhD, 2017 à PSE-Ecole d'Economie de Paris].
