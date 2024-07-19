@@ -8,7 +8,7 @@ usertypes:
   - etablissement-scolaire
 techno: []
 title: Pix de la persévérance (nom de code)
-mission: Le «Pix de la persévérance» vise à améliorer la capacité des enseignants à accompagner efficacement les élèves à risque de décrochage.
+mission: Le «Pix de la persévérance» vise à améliorer la capacité des établissements scolaires à accompagner efficacement les élèves à risque de décrochage.
 incubator: menj
 sponsors:
   - /organisations/menjs
@@ -18,7 +18,7 @@ phases:
 ---
 ## Contexte
 
-Le décrochage scolaire est un enjeu majeur pour l'éducation nationale. Les professeurs jouent un rôle crucial dans l'accompagnement des élèves à risque, mais manquent souvent d'outils et de ressources pour les aider efficacement à reprendre confiance et à persévérer dans leur parcours scolaire.
+Le décrochage scolaire est un enjeu majeur pour l’éducation nationale. Les établissements scolaires et les personnels en contact avec les élèves jouent un rôle crucial dans l’accompagnement des élèves à risque, mais manquent souvent d’outils et de ressources pour les aider efficacement à reprendre confiance et à persévérer dans leur parcours scolaire.
 
 ## Problème
 
@@ -31,10 +31,9 @@ Nous investiguons le "Pix de la persévérance", une plateforme numérique innov
 
 ## Stratégie
 
-Le "Pix de la persévérance" pourrait viser à améliorer la capacité des enseignants à accompagner efficacement les élèves à risque de décrochage. Les indicateurs de succès
-seront réellement connu à l'issu de l'investigation.
-Néanmoins, nous estimons qu'ils pourraient inclure :
-
+Le "Pix de la persévérance" vise à améliorer la capacité des établissements scolaires à accompagner efficacement les élèves à risque de décrochage. 
+Les indicateurs de succès
+seront réellement connu à l'issu de l'investigation. Néanmoins, nous estimons qu'ils pourraient inclure :
 * Le suivi et la mesure du tunnel de conversion des jeunes participants au programme et poursuivant leurs cursus scolaire
 * L'augmentation du Sentiment d'Efficacité Personnel (SEP) chez les bénéficiaires de l'accompagnement
 * La réduction / disparition des signaux faibles chez les bénéficiaires du programme de persévérance dans les 6 premiers mois

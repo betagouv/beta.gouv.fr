@@ -14,6 +14,12 @@ competences:
   - Développement Full-stack
   - Développement Frontend
   - Développement Backend
+  - Matomo
+  - Accessibilité
+  - Docker
+  - JavaScript/TypeScript
+  - Python
+  - PostgreSQL
 memberType: beta
 ---
 Ingénieur Fullstack axé sur le produit en JavaScript/TypeScript

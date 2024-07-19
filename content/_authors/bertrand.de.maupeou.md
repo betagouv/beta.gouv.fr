@@ -12,5 +12,7 @@ github: bertranddm
 competences:
   - data analyse
   - Data Science
+  - Metabase
+  - Matomo
 memberType: beta
 ---
