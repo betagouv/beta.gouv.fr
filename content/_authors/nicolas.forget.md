@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2022-03-28
-    end: 2024-06-30
+    end: 2025-06-30
     status: admin
     employer: DGEC
     startups:
