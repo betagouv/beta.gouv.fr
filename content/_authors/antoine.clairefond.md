@@ -4,7 +4,7 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-02-06
-    end: 2024-08-31
+    end: 2024-12-27
     status: independent
     employer: UT7
     startups:
@@ -12,4 +12,5 @@ missions:
 startups:
   - collectif_objets
 memberType: beta
+competences: []
 ---
