@@ -7,9 +7,9 @@ competences:
   - Croissance
 missions:
   - start: 2024-07-22
-    end: 2024-10-22
-    employer: GIP Plateforme de l'Inclusion
+    end: 2026-07-22
     status: independent
+    employer: GIP Plateforme de l'Inclusion
     startups:
       - rdv.insertion
 ---
