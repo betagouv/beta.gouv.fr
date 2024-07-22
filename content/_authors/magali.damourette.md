@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2024-08-19
     end: 2025-01-31
-    employer: Inop's
     status: independent
+    employer: Inop's
     startups:
       - l-immersion-facile
 ---

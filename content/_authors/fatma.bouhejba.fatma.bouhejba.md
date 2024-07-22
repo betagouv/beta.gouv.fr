@@ -1,9 +1,12 @@
 ---
-domaine: Animation
+domaine: Déploiement
 fullname: Fatma BOUHEJBA
-role: Animation
+role: Business developer à Réfugiés.info
 missions:
-  - start: 2024-06-04
-    end: 2024-09-04
-    status: independent
+  - start: 2023-09-01
+    end: 2025-09-04
+    status: admin
+    employer: La Mednum
+competences: []
 ---
+Je suis Fatma, responsable des partenariats de Réfugiés.info 
