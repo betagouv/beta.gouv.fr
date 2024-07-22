@@ -30,9 +30,9 @@ Un rapport d'information du Sénat [*Les collectivités territoriales face au d�
 
 Par ailleurs, la *[Synthèse 2023 de la menace ciblant les collectivités territoriales](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-008.pdf)* de l'ANSSI dénombre **une moyenne de 10 incidents cyber affectant les collectivités territoriales chaque mois.**
 
-**Les plus petites collectivités territoriales ne disposent pas de services numériques de base sécurisés  (nom de domaine, email, stockage...) et font appel à des services sans garantie suffisante en matière de cyberséucirté et de RGPD.**
+**Les plus petites collectivités territoriales ne disposent pas de services numériques de base sécurisés  (nom de domaine, email, stockage...) et font appel à des services sans garantie suffisante en matière de cybersécurité et de RGPD.**
 
-L'association Déclic qui fédère les Opérateurs Publics de Services Numériques (OPSN) estime par exemple qu'environ **60% des collectivités utilisent des adresses mails ne disposant pas de nom de domaine institutionnel sécurisé**. 
+L'association Déclic qui fédère les Opérateurs Publics de Services Numériques (OPSN) estime par exemple qu'environ **60% des collectivités utilisent des adresses mails ne disposent pas de nom de domaine institutionnel sécurisé**. 
 
 ### Solution
 
