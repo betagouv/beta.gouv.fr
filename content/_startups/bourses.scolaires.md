@@ -1,8 +1,6 @@
 ---
 title: Ma démarche BOSCO (Bourses Scolaires)
-mission: Améliorer l'interface « demandeur- agent traitant » d'enregistrement des
-  demandes de bourses scolaires  AEFE pour diminuer le temps de traitement pour
-  le demandeur et pour l'agent traitant
+mission: Améliorer l'interface « demandeur- agent traitant » d'enregistrement des demandes de bourses scolaires  AEFE pour diminuer le temps de traitement pour le demandeur et pour l'agent traitant
 sponsors:
   - /organisations/meae
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
@@ -10,15 +8,12 @@ contact: erwan.le-gall@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
+    comment: Synthèse des irritants par les utilisateurs et validation des attentes avec solution technique et prototypage du formulaire de demande de bourses à l'aide de Démarches simplifiées
     start: 2022-05-15
     end: 2022-12-06
-    comment: Synthèse des irritants par les utilisateurs et validation des attentes
-      avec solution technique et prototypage du formulaire de demande de bourses à l'aide de Démarches
-      simplifiées
   - name: alumni
     start: 2022-12-07
 ---
-
 ## Contexte
 
 Les 2 campagnes annuelles pour les bourses scolaires sont définies par un planning non flexible imposé par l'AEFE. 

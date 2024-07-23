@@ -1,6 +1,6 @@
 ---
 title: Fabrique numérique des ministères sociaux
-short_description: Lancée en 2017, la fabrique des ministères sociaux travaille à <span class="fr-text--bold">faciliter la vie des citoyens et des agents</span>.
+short_description: Lancée en 2017, la fabrique des ministères sociaux travaille à <strong>faciliter la vie des citoyens et des agents</strong>.
 owner: /organisations/solidarite-sante
 logo: logo_fab_solidarite.png
 website: https://fabrique.social.gouv.fr/
@@ -8,11 +8,10 @@ github: https://github.com/SocialGouv/
 contact: contact@fabrique.social.gouv.fr?subject=Incubateurs
 address: 39 quai andré Citroën, Paris 15e
 highlighted_startups:
-    - 1000.jours
-    - aides.jeunes
-    - mano
+  - 1000.jours
+  - aides.jeunes
+  - mano
 ---
-
 Lancé en 2017, la fabrique des ministères sociaux travaille à **faciliter la vie des citoyens et des agents**.
 
 Les intrapreneurs et intrapreneuses viennent de :

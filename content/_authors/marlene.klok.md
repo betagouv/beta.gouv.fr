@@ -12,4 +12,3 @@ startups:
   - demarches-simplifiees.fr
 memberType: beta
 ---
-

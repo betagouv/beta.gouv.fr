@@ -10,10 +10,10 @@ missions:
     employer: ut7
     startups:
       - api.apprentissage
-      - tdb-apprentissage
-      - voeux-apprentissage
       - catalogue-apprentissage
+      - tdb-apprentissage
       - uai_siret
+      - voeux-apprentissage
 startups:
   - api.apprentissage
 previously:
@@ -21,5 +21,15 @@ previously:
   - catalogue-apprentissage
   - voeux-apprentissage
   - uai_siret
+competences:
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - Metabase
+  - Product strategy
+  - ElasticSearch
+  - DevOps
+  - PostgreSQL
+  - Sécurité informatique
+  - Croissance
 ---
 J'aspire à améliorer le monde en construisant des produits numériques ayant de l'impact.

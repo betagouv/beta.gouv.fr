@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Limiter les effets des inondations sur les biens et les personnes sur les
-  communes et intercommunalités
+mission: Limiter les effets des inondations sur les biens et les personnes sur les communes et intercommunalités
 incubator: mtes
 title: Brav'Eau
 contact: Myriam.laisney@developpement-durable.gouv.fr
@@ -17,7 +15,6 @@ phases:
   - name: investigation
     start: 2024-04-04
 ---
-
 ## Contexte
 
 Notre territoire est soumis à des risques d'inondation qui font courir des risques aux population et représentent un coût considérable pour les collectivités. Ces conséquences de ces aléas augmentent significativement avec le changement climatique. 

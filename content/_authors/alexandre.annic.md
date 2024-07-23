@@ -3,7 +3,6 @@ fullname: Alexandre Annic
 domaine: Développement
 role: Développeur
 github: alexandreannic
-avatar: null
 link: https://alexandre-annic-cv.firebaseapp.com/
 missions:
   - start: 2020-11-09

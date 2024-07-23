@@ -8,7 +8,6 @@ missions:
   - start: 2019-09-01
     end: 2025-07-01
     status: independent
-    employer: ''
     startups:
       - trackdechets
 startups:

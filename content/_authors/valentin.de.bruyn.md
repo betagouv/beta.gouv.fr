@@ -6,7 +6,6 @@ missions:
   - start: 2023-11-06
     end: 2025-01-06
     status: independent
-    employer: ''
     startups:
       - impact.co2
 startups:

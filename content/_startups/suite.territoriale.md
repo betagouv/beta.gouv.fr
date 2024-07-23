@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Mettre à disposition des collectivités territoriales une plateforme sécurisée
-  de services mutualisés 
+mission: 'Mettre à disposition des collectivités territoriales une plateforme sécurisée de services mutualisés '
 incubator: anct
 title: Suite territoriale
 contact: lasuiteterritoriale@anct.gouv.fr

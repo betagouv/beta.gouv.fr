@@ -1,20 +1,18 @@
 ---
 link: https://preprod.aigle.din.developpement-durable.gouv.fr/
-mission: >-
-  Faciliter la détection des constructions ou installations illégales pour
-  préserver les espaces agricoles, naturels et forestiers.
+mission: Faciliter la détection des constructions ou installations illégales pour préserver les espaces agricoles, naturels et forestiers.
 incubator: mtes
 title: 'AIGLE '
 contact: magali.migeon@herault.gouv.fr
 accessibility_status: non conforme
 sponsors:
-  - /organisations/dgaln
   - /organisations/ddtm34
+  - /organisations/dgaln
 phases:
   - name: investigation
     start: 2023-05-01
-  - start: 2024-01-15
-    name: construction
+  - name: construction
+    start: 2024-01-15
 thematiques:
   - Écologie
 ---

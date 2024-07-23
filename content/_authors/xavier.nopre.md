@@ -7,7 +7,6 @@ missions:
     end: 2018-03-31
     status: independent
     employer: octo
-startups: null
 previously:
   - maintenant
   - retraite

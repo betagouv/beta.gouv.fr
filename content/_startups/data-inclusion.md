@@ -1,6 +1,6 @@
 ---
 title: data·inclusion
-mission: "Créer un référentiel commun de toutes les données de l’offre d’insertion des territoires"
+mission: Créer un référentiel commun de toutes les données de l’offre d’insertion des territoires
 sponsors:
   - /organisations/francetravail
   - /organisations/mtei

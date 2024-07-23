@@ -13,7 +13,6 @@ missions:
     end: 2025-10-31
     status: admin
     employer: dinum
-startups:
 competences:
   - Gestion de Produit
 previously:
@@ -26,5 +25,4 @@ badges:
 teams:
   - /teams/animation-dinum
 ---
-
 Ex-intra DossierFacile, numérique et aménagement. Sport et musique. "Qui veut voyager loin ménage sa monture."

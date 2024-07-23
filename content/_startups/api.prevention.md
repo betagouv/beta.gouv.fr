@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Pousser de l’information de prévention de manière ciblée aux citoyens et
-  citoyennes pour limiter les risques de maladie
+mission: Pousser de l’information de prévention de manière ciblée aux citoyens et citoyennes pour limiter les risques de maladie
 incubator: sgmas
 title: API Prévention
 contact: aude.nyadanu@beta.gouv.fr
@@ -9,11 +7,15 @@ accessibility_status: non conforme
 sponsors:
   - /organisations/dns
 phases:
-  - start: 2024-03-29
-    name: investigation
-  - start: 2024-06-29
-    name: construction
-    
+  - name: investigation
+    start: 2024-03-29
+  - name: construction
+    start: 2024-06-29
+  - name: alumni
+    start: 2024-07-10
+thematiques: []
+usertypes: []
+techno: []
 ---
 ## Contexte
 

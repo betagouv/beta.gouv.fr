@@ -7,7 +7,6 @@ missions:
   - start: 2023-03-06
     end: 2025-02-01
     status: independent
-    employer: ''
     startups:
       - boite.aux.lettres
 startups:

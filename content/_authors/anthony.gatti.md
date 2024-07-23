@@ -6,7 +6,6 @@ missions:
   - start: 2022-04-11
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - sndv_maritime
 startups:

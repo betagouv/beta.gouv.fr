@@ -1,8 +1,6 @@
 ---
 title: BPCO
-mission: >-
-  Permettre aux patients atteints de BPCO de prévenir les exacerbations et
-  d’éviter les hospitalisations
+mission: Permettre aux patients atteints de BPCO de prévenir les exacerbations et d’éviter les hospitalisations
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
@@ -14,11 +12,15 @@ phases:
     end: 2023-01-25
   - name: construction
     start: 2023-01-25
-  - start: 2023-03-18
-    name: acceleration
+  - name: acceleration
+    start: 2023-03-18
+  - name: alumni
+    start: 2024-04-15
 link: https://bpcomieux.fabrique.social.gouv.fr/
 thematiques:
   - Santé
+usertypes: []
+techno: []
 ---
 ## Le contexte
 

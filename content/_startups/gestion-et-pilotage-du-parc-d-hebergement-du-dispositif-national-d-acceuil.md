@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Numériser les procédures administratives de gestion des places d'hébergement
-  du dispositif national d'accueil 
+mission: 'Numériser les procédures administratives de gestion des places d''hébergement du dispositif national d''accueil '
 incubator: dinum
 title: Gestion et pilotage du parc d'hébergement du dispositif national d'acceuil
 contact: thibault.desjardins@beta.gouv.fr
@@ -16,7 +14,6 @@ phases:
   - name: investigation
     start: 2024-05-14
 ---
-
 ## Contexte
 
 La direction de l’asile (DA) de la direction générale des étrangers en France (DGEF) du ministère de l’intérieur et des outre mer souhaite mener à bien un projet de création d’un système d’information (SI) dédié à la gestion et au pilotage des places d’hébergement des demandeurs d’asile. Le projet SI aurait vocation à couvrir l’ensemble des missions liées au cycle de vie des 122 000 places d’hébergement conventionnées par les services de l’Etat et gérées par les opérateurs du DNA (1 200 structures d’hébergement). 

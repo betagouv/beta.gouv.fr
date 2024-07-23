@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Simplifier l’accès à des données de l'apprentissage fiables et à jour grâce à
-  un point d’entrée unique et documenté
+mission: Simplifier l’accès à des données de l'apprentissage fiables et à jour grâce à un point d’entrée unique et documenté
 incubator: mission-apprentissage
 contact: api@apprentissage.beta.gouv.fr
 title: API Apprentissage
@@ -11,6 +9,19 @@ phases:
 thematiques:
   - Open-Data
   - Formation
+  - Travail / Emploi
+repository: https://github.com/mission-apprentissage/api-apprentissage
+link: https://api.apprentissage.beta.gouv.fr/
+dashlord_url: https://dashlord.incubateur.net/url/api-apprentissage-beta-gouv-fr/
+usertypes:
+  - association
+  - entreprise
+  - etat
+  - collectivite-territoriale
+  - etablissement-scolaire
+techno: []
+sponsors:
+  - /organisations/dgefp
 ---
 # **Le problème de politique publique**
 

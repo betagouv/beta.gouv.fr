@@ -2,7 +2,6 @@
 fullname: Brahim Kafi
 domaine: Produit
 role: Product Manager
-github: ''
 missions:
   - start: 2022-11-03
     end: 2025-01-02

@@ -14,7 +14,6 @@ startups:
   - pilotagevoiepro
 previously:
   - exposition-ij
-badges: null
 competences:
   - Gestion de Produit
   - Développement Backend

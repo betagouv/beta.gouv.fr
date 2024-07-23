@@ -2,7 +2,6 @@
 fullname: Raphaël Grossot
 role: Service designer
 domaine: Design
-avatar: null
 github: raphael-grossot
 missions:
   - start: 2020-10-12

@@ -2,11 +2,12 @@
 title: Aquapreneur
 mission: Le portail qui accompagne les entrepreneur.e.s aquacoles
 sponsors:
+  - /organisations/agriculture
+  - /organisations/dgampa
   - /organisations/mtes
 incubator: mtes
-contact: amandine.collard@mer.gouv.fr
+contact: anael.delorme@griculture.gouv.fr
 accessibility_status: non conforme
-events: []
 phases:
   - name: investigation
     start: 2023-04-24
@@ -17,6 +18,11 @@ thematiques:
   - Écologie
   - Mer
   - Agriculture
+  - Entreprises
+usertypes:
+  - entreprise
+  - collectivite-territoriale
+techno: []
 ---
 ## Contexte
 

@@ -1,20 +1,24 @@
 ---
 fullname: Eric Heijligers
 domaine: Produit
-role: Lead Product manager
+role: Mentor
 github: Eric-Hei
 missions:
-  - status: admin
-    employer: Fabrique numérique des ministères sociaux
-    start: 2020-01-01
+  - start: 2020-01-01
     end: 2024-12-31
+    status: admin
+    employer: Fabrique numérique des ministères sociaux
     startups:
       - 1000.jours
-      - tumeplay
+      - 1000.premiers.jours.blues
       - archifiltre
       - domifa
       - enfants-du-spectacle
-      - 1000.premiers.jours.blues
+      - tumeplay
+  - start: 2024-05-01
+    end: 2026-01-12
+    status: admin
+    employer: DINUM
 incubator: sgmas
 startups:
   - 1000.jours
@@ -33,4 +37,5 @@ previously:
 competences:
   - Gestion de Produit
   - Administration Publique
+  - Coaching
 ---

@@ -16,4 +16,5 @@ startups:
   - pop
 teams:
   - /teams/culture
+competences: []
 ---

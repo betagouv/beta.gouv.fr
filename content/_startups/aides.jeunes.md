@@ -1,6 +1,6 @@
 ---
 title: Aides Jeunes
-mission: "Faciliter le recours aux aides par les jeunes qui en ont le plus besoin "
+mission: 'Faciliter le recours aux aides par les jeunes qui en ont le plus besoin '
 sponsors:
   - /organisations/dgefp
 incubator: sgmas
@@ -19,9 +19,12 @@ phases:
     end: 2023-01-13
   - name: acceleration
     start: 2023-01-13
+  - name: transfer
+    start: 2024-01-01
 thematiques:
   - Jeunesse
   - Social
+techno: []
 ---
 ## Problème
 

@@ -1,6 +1,5 @@
 ---
-mission: Faciliter l’accès aux informations disponibles sur les entreprises et
-  les échanges entre les agents publics
+mission: Faciliter l’accès aux informations disponibles sur les entreprises et les échanges entre les agents publics
 incubator: sgmas
 repository: https://github.com/SocialGouv/fce
 contact: bce@travail.gouv.fr
@@ -26,9 +25,8 @@ phases:
   - name: transfer
     start: 2021-01-01
     end: 2022-05-01
-  - name: success
-    start: 2022-11-30
-    end: 2023-08-23
+thematiques: []
+techno: []
 ---
 ## Contexte
 

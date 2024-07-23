@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Permettre la réalisation de comptes rendus par des agents - Architectes des
-  Bâtiments de France - lors de leurs rencontres avec les usagers.
+mission: Permettre la réalisation de comptes rendus par des agents - Architectes des Bâtiments de France - lors de leurs rencontres avec les usagers.
 incubator: culture
 title: Compte rendu vif
 contact: ateliernumerique.snum@culture.gouv.fr

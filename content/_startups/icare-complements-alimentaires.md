@@ -1,14 +1,14 @@
 ---
 title: Compl'Alim
 mission: Vers une circulation de compléments alimentaires conformes à la réglementation, sûrs en termes de santé publique et adaptés aux besoins physiologiques des consommateurs
-sponsors: 
+sponsors:
   - /organisations/dgal
 incubator: agriculture
 phases:
-    - name: investigation
-      start: 2023-06-02
-    - name: construction
-      start: 2023-11-01
+  - name: investigation
+    start: 2023-06-02
+  - name: construction
+    start: 2023-11-01
 link: https://compl-alim.beta.gouv.fr/accueil
 repository: https://github.com/betagouv/complements-alimentaires
 stats: false
@@ -17,6 +17,7 @@ usertypes:
   - entreprise
 thematiques:
   - Santé
+techno: []
 ---
 Cette startup d'Etat est sponsorisée par la Direction Générale de l'alimentation au ministère de l'agriculture.
 La startup est également lauréate du guichet FTAP "valorisation et exploitation" des données, fonds porté par la DINUM et ETALAB. Ce co-financement permet à la startup d'entamer le chantier de fiabilisation de la base de données substances grâce à des logiques de NLP et branchement de sources de données externes (ANSES, avis EFSA, catalogue novel food...).

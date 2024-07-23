@@ -4,9 +4,9 @@ mission: Référencer l’intégralité des bâtiments du territoire français a
 sponsors:
   - /organisations/ademe
   - /organisations/cstb
-  - /organisations/ign
   - /organisations/dgaln
   - /organisations/dinum
+  - /organisations/ign
 incubator: fab-geocommuns
 contact: rnb@beta.gouv.fr
 phases:

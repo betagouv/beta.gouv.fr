@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - reformes-locales
       - france-numerique-ensemble
+      - reformes-locales
 startups:
   - france-numerique-ensemble
   - reformes-locales

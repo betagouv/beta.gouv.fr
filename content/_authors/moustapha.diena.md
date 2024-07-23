@@ -17,5 +17,4 @@ badges:
 previously:
   - france-numerique-ensemble
 ---
-
 Développeur Fullstack

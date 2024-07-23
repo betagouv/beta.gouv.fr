@@ -1,6 +1,6 @@
 ---
 title: Méli Melo
-mission: "Favoriser l'accès des jeunes à la culture, aux sports et aux loisirs "
+mission: 'Favoriser l''accès des jeunes à la culture, aux sports et aux loisirs '
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -14,7 +14,6 @@ contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
 ---
-
 **Contexte**
 A Pau, les 18-25 ans représentent plus de 24% de la population, soit 18 720 jeunes.
 Le tissu associatif (800 associations dont 100 clubs sportifs) et l’offre culturelle (plus de 30

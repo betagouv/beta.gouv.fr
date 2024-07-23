@@ -7,7 +7,6 @@ missions:
     end: 2021-10-20
     status: admin
     employer: pole-emploi
-startups: null
 badges:
   - segur
 ---

@@ -1,8 +1,8 @@
 ---
-mission: Améliorer le respect du temps de travail des travailleurs mobiles
+mission: Améliorer le respect du temps de travail des conducteurs
 incubator: mtes
 repository: https://github.com/MTES-MCT/mobilic
-contact: gaspard.granger@developpement-durable.gouv.fr
+contact: contact@mobilic.beta.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - entreprise
@@ -23,8 +23,14 @@ fast:
   montant: 300000
 thematiques:
   - Écologie
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 13
+mon_service_securise: true
+techno: []
 ---
-Pour répondre aux exigences du droit du travail, **les employeurs ont l’obligation de suivre le temps de travail de leurs salariés**. Dans le secteur des transports routiers, les salariés étant mobiles, le décompte de leur temps de travail ne peut pas se faire au siège de leur entreprise. Il est donc fait par les salariés à l’aide d’un dispositif qu’ils emportent avec eux.
+Pour répondre aux exigences du droit du travail, **les employeurs ont l’obligation de suivre le temps de travail de leurs conducteurs**. Dans le secteur des transports routiers, les conducteurs étant mobiles, le décompte de leur temps de travail ne peut pas se faire au siège de leur entreprise. Il est donc fait par les conducteurs à l’aide d’un dispositif qu’ils emportent avec eux.
 
 # Les problèmes actuels
 
@@ -64,13 +70,13 @@ Développée en collaboration avec les entreprises du secteur et les corps de co
 
 # Impact
 
-Nous avons sorti le certificat Mobilic en mai 2023. Le certificat atteste qu'une entreprise a un **taux élevé de conformité à la  réglementation** en matière de temps de travail et, qu’elle **utilise Mobilic de manière conforme** (enregistrement du temps de travail au maximum en temps réel, validation régulière des données, modifications exceptionnelles des données du salarié par son employeur).
+Nous avons établi le certificat Mobilic en juillet 2023. Le certificat atteste qu'une entreprise a un **taux élevé de conformité à la  réglementation** en matière de temps de travail et, qu’elle **utilise Mobilic de manière conforme** (enregistrement du temps de travail au maximum en temps réel, validation régulière des données, modifications exceptionnelles des données du salarié par son employeur).
 
 L'indicateur que nous suivons désormais pour mesurer l'impact de Mobilic est le **nombre d'entreprises certifiées**, c'est-à-dire, les entreprises qui ont un taux élevé de conformité à la réglementation.
 
-Sur 13000 entreprises concernées par la réglementation, nous estimons à 5 800 celles auprès de qui Mobilic s'adresse en premier lieu (déménagement et transport de marchandises uniquement).
+Sur 30 000 entreprises concernées par la réglementation, nous estimons à 12 000 celles auprès de qui Mobilic s'adresse en premier lieu (déménagement et transport de marchandises).
 
-**➡️ Notre objectif est d'arriver à 500 entreprises certifiées d'ici fin février 2024.**
+**➡️ Notre objectif est d'arriver à 500 entreprises certifiées d'ici décembre 2024.**
 
 La croissance anticipée repose sur :
 

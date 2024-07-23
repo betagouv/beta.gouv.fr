@@ -11,9 +11,9 @@ usertypes:
 stats_url: https://urbanvitaliz.fr/stats
 title: UrbanVitaliz (Friches)
 sponsors:
+  - /organisations/anct
   - /organisations/cerema
   - /organisations/dgaln
-  - /organisations/anct
   - /organisations/dinum
 link: https://urbanvitaliz.fr/
 stats: true

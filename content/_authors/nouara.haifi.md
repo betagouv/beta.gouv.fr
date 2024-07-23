@@ -9,6 +9,5 @@ missions:
     employer: Mission Interministérielle pour l'Apprentissage
 memberType: autre
 ---
-
 Militante du Service Public !
 Mots d'ordre :  utilité, accessibilité, efficacité.
