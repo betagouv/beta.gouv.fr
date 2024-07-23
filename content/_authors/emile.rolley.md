@@ -19,5 +19,9 @@ missions:
 startups:
   - nosgestesclimat
 link: https://emile-rolley.com
-competences: []
+competences:
+  - Développement Backend
+  - Développement Frontend
+  - Développement Full-stack
+  - JavaScript/TypeScript
 ---
