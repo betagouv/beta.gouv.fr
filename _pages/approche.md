@@ -120,7 +120,7 @@ title: Découvrir le programme
          <p>
             Faire grandir le produit en terme de fonctionnalités, et le déployer nationalement.
          </p>
-         <h5 class="fr-text--md fr-mb-0">La phase de pérénisation</h5>
+         <h5 class="fr-text--md fr-mb-0">La phase de pérénnisation</h5>
          <p>
             Créer les conditions de la reprise en assurant la pérennité du projet au sein de son administration d‘origine.
          </p>
