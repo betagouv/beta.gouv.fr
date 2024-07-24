@@ -42,7 +42,7 @@ Pour cela, nous souhaitons :
 - faciliter la **découverte des formations professionnelles à proximité** (transports en commun, vélo, marche, etc.) ou accessibles (internat par exemple) ;
 - apporter des **éclairages sur les conditions d’accès** (taux de pression, places disponibles, aides, etc.), **le contenu** (répartition du temps, qualité de l’accompagnement, témoignages, etc.) et **le devenir des élèves** (poursuite d’étude, taux d’emploi, rémunérations, métiers en tension ou d’avenir, etc.) au sein de ces formations.
 
-## Les bénéfices
+## Les bénéfices attendus
 
 - Favoriser la création de **stratégies d’orientation réfléchies et motivées** ;
 - **Réduire le nombre d’orientations vers des filières “bouchées”** via l’accompagnement des accompagnateurs, notamment mettre en avant les filières porteuses et d’avenir ;
