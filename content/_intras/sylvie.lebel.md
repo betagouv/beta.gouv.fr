@@ -6,4 +6,4 @@ avatar: /assets/images/intra/sylvie-lebel.png
 startups:
   - zen
 ---
-“Ce qui nous fait avancer, c’est de vérifier régulièrement que notre action répondait bien au problème que l’on avait constaté.”
+Ce qui nous fait avancer, c’est de vérifier régulièrement que notre action répondait bien au problème que l’on avait constaté.
