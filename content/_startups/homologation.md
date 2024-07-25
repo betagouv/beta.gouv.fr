@@ -26,8 +26,6 @@ thematiques:
   - Sécurité informatique
 accessibility_status: non conforme
 analyse_risques: true
-thematiques:
-  - Cybersécurité
 events:
   - name: fast
     date: 2024-01-01
