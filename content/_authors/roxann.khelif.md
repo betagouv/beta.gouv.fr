@@ -5,7 +5,7 @@ github: rkhelif
 domaine: Déploiement
 missions:
   - start: 2022-11-02
-    end: 2024-07-31
+    end: 2024-12-31
     status: independent
     startups:
       - cartobio
@@ -13,4 +13,5 @@ startups:
   - cartobio
 badges:
   - segur
+competences: []
 ---
