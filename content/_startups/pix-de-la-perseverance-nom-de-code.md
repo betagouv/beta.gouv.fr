@@ -8,7 +8,7 @@ usertypes:
   - etablissement-scolaire
 techno: []
 title: Pix de la persévérance (nom de code)
-mission: Le «Pix de la persévérance» vise à améliorer la capacité des établissements scolaires à accompagner efficacement les élèves à risque de décrochage.
+mission: 'Le «Pix de la persévérance» vise à professionnaliser les équipes pédagogiques et éducatives pour  accompagner efficacement les élèves, y compris de moins de 16 ans, en risque de décrochage scolaire. '
 incubator: menj
 sponsors:
   - /organisations/menjs
@@ -22,18 +22,20 @@ Le décrochage scolaire est un enjeu majeur pour l’éducation nationale. Les �
 
 ## Problème
 
-Actuellement, le taux de décrochage scolaire en France reste préoccupant, avec un impact significatif sur l'avenir des jeunes concernés et sur la société dans son ensemble.
-Le décrochage scolaire est un processus long qui mène 8,2% des 18-24 ans vers la sortie du système scolaire sans diplôme qualifiant du secondaire ([INSEE, 2019](https://www.insee.fr/fr/statistiques/3281681?sommaire=3281778#tableau-figure1)).
+Même si le taux de décrochage scolaire en France à diminué, il reste encore trop important, avec un impact significatif sur l'avenir des jeunes concernés et sur la société dans son ensemble.
+Le décrochage scolaire est un processus long qui mène 7,6% des 18-24 ans vers la sortie du système scolaire sans diplôme qualifiant du secondaire (https://www.insee.fr/fr/statistiques/2407835).
+Les professionnels en charge de l’accompagnement des élèves en risque de décrochage constatent que les premiers signes apparaissent de plus en plus tôt dans le parcours des élèves ce qui nécessite une intervention adaptée à ces nouveaux profils. 
 
 ## Solution
 
 Nous investiguons le "Pix de la persévérance", une plateforme numérique innovante permettant aux enseignants d'évaluer et de renforcer leurs compétences en matière d'accompagnement des élèves à risque de décrochage. 
+Cette plateforme contribuera à leur professionnalisation et pourra s’inscrire dans un parcours de formation menant au certificat de professionnalisation en matière de lutte contre le décrochage scolaire (CPLDS) https://eduscol.education.fr/1284/mission-de-lutte-contre-le-decrochage-scolaire
 
 ## Stratégie
 
 Le "Pix de la persévérance" vise à améliorer la capacité des établissements scolaires à accompagner efficacement les élèves à risque de décrochage. 
 Les indicateurs de succès
-seront réellement connu à l'issu de l'investigation. Néanmoins, nous estimons qu'ils pourraient inclure :
+seront réellement connu à l'issue de l'investigation. Néanmoins, nous estimons qu'ils pourraient inclure :
 * Le suivi et la mesure du tunnel de conversion des jeunes participants au programme et poursuivant leurs cursus scolaire
 * L'augmentation du Sentiment d'Efficacité Personnel (SEP) chez les bénéficiaires de l'accompagnement
 * La réduction / disparition des signaux faibles chez les bénéficiaires du programme de persévérance dans les 6 premiers mois
