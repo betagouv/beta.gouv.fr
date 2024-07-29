@@ -11,6 +11,18 @@ missions:
     end: 2023-06-30
     status: independent
     employer: MTES-MCT
+  - start: 2024-08-05
+    end: 2024-12-31
+    status: independent
+    employer: ANCT
+    startups:
+      - suite.territoriale
+  - start: 2024-08-05
+    end: 2024-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - suite.territoriale
 previously:
   - maintenant
   - mpal
