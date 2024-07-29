@@ -8,7 +8,7 @@ usertypes:
   - etablissement-scolaire
 techno: []
 title: Pix de la persévérance (nom de code)
-mission: Le «Pix de la persévérance» vise à professionnaliser les équipes pédagogiques pour accompagner efficacement les élèves de moins de 16 ans en risque de décrochage.
+mission: 'Le «Pix de la persévérance» vise à professionnaliser les équipes pédagogiques et éducatives pour  accompagner efficacement les élèves, y compris de moins de 16 ans, en risque de décrochage scolaire. '
 incubator: menj
 sponsors:
   - /organisations/menjs
@@ -35,7 +35,7 @@ Cette plateforme contribuera à leur professionnalisation et pourra s’inscrire
 
 Le "Pix de la persévérance" vise à améliorer la capacité des établissements scolaires à accompagner efficacement les élèves à risque de décrochage. 
 Les indicateurs de succès
-seront réellement connu à l'issu de l'investigation. Néanmoins, nous estimons qu'ils pourraient inclure :
+seront réellement connu à l'issue de l'investigation. Néanmoins, nous estimons qu'ils pourraient inclure :
 * Le suivi et la mesure du tunnel de conversion des jeunes participants au programme et poursuivant leurs cursus scolaire
 * L'augmentation du Sentiment d'Efficacité Personnel (SEP) chez les bénéficiaires de l'accompagnement
 * La réduction / disparition des signaux faibles chez les bénéficiaires du programme de persévérance dans les 6 premiers mois
