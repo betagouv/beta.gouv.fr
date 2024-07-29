@@ -11,4 +11,6 @@ missions:
 startups:
   - homologation
 memberType: beta
+github: LauraMondoloni31
+competences: []
 ---

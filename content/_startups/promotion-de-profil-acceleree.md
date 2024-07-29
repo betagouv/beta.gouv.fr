@@ -12,20 +12,17 @@ techno: []
 title: 'Promotion de Profil accélérée '
 mission: Aider les conseillers et travailleurs sociaux à promouvoir des profils ARSA​ auprès des entreprises à fort potentiel d'embauche.
 incubator: francetravail
-sponsors: []
 phases:
   - name: investigation
-    comment: null
+    start: 2023-07-01
+  - name: construction
     start: 2024-02-01
-    end: null
   - name: alumni
-    comment: null
     start: 2024-05-30
-    end: null
 events:
   - name: end
-    comment: L'expérimentation d'une solution no code de la solution nous a appris que seul le ciblage des entreprises ne permet pas d'assurer le retour à l'emploi des profils promus. Les moyens utilisés pour présenter le profil et l'argumentaire pour valoriser le profil ainsi que le suivi ont une influence significative sur l'impact d'une promotion de profil. L'équipe a donc préconisé un arrêt de la startup au profit d'une passation détaillée des enseignements aux équipes travaillant sur «l'aller vers» les entreprises. Ces équipes pourront reprendre les enseignements dans les outils qui sont en cours de construction.
     date: 2024-05-31
+    comment: L'expérimentation d'une solution no code de la solution nous a appris que seul le ciblage des entreprises ne permet pas d'assurer le retour à l'emploi des profils promus. Les moyens utilisés pour présenter le profil et l'argumentaire pour valoriser le profil ainsi que le suivi ont une influence significative sur l'impact d'une promotion de profil. L'équipe a donc préconisé un arrêt de la startup au profit d'une passation détaillée des enseignements aux équipes travaillant sur «l'aller vers» les entreprises. Ces équipes pourront reprendre les enseignements dans les outils qui sont en cours de construction.
 ---
 ## Contexte
 
@@ -44,13 +41,13 @@ Nous avons constaté que dans les territoires de notre investigation (l'Eure et 
 
 *DPAE : Déclaration Préalable à l'Embauche
 
-Les efforts des conseillers et des travailleurs sociaux à réaliser des promotions de profils ne semblent pas permettre significativement le retour à l'emploi des profils qu'ils promus. 
+Les efforts des conseillers et des travailleurs sociaux à réaliser des promotions de profils ne semblent pas permettre significativement le retour à l'emploi des profils qu'ils promurent. 
 En effet, ils vont principalement vers les entreprises qu'ils connaissent et celles avec qui ils ont l'habitude de travailler. Hors, 75% du marché de l’emploi est caché. Les employeurs recrutent par le biais de candidatures spontanées et surtout des réseaux personnels, aujourd’hui amplifiés par les réseaux sociaux, il est donc essentiel de les repérer pour cibler au mieux leur promotion de profil.
 
 Pour résumer, **le processus actuel de promotion de profil et les outils à dispositions** ne sont :​
 
 * **Pas assez efficaces** : ne permettent pas l’identification de toutes les entreprises à fort potentiel d’embauche​* 
-* **Pas assez efficients**: ne permettent pas de vérifier facilement adéquation entreprise et profil pour maximiser les chances de retour à l’emploi du profil promu​
+* **Pas assez efficients**: ne permettent pas de vérifier facilement l'adéquation entre l'entreprise et le profil pour maximiser les chances de retour à l’emploi du profil promu​
 
 
 ## Solution
@@ -62,7 +59,7 @@ Cibler les entreprises les plus susceptibles d'avoir des besoins d'embauche maxi
 
 ### Notre proposition de valeur​
 
-Nous aidons les conseillers  et travailleurs sociaux à promouvoir les profils ARSA en leur permettant d’accéder à une liste de données qualitatives sur les entreprises avec un fort potentiel d’embauche*. ​
+Nous aidons les conseillers et travailleurs sociaux à promouvoir les profils ARSA en leur permettant d’accéder à une liste de données qualitatives sur les entreprises avec un fort potentiel d’embauche*. ​
 Ce service centralise les informations essentielles pour les aider à faire correspondre le bon profil avec la bonne entreprise.​
 
 
@@ -76,11 +73,11 @@ Partenaires FT​
 * Cap Emploi​
 * Conseil départemental ​
 
-Nos territoires de test sont l'Eure, le Loiret qui font parties des territoires des XP ARSA France Travail. Nous avons aussi travaillé avec les Cotes d'Armor puisque nous avions des contacts intéressés par l'investigation. 
+Nos territoires de test sont l'Eure, le Loiret qui font partie des territoires des XP ARSA France Travail. Nous avons aussi travaillé avec les Cotes d'Armor puisque nous avions des contacts intéressés par l'investigation. 
 
 ## Stratégie
 
-Notre investigation c'est déroulé en deux phases: 
+Notre investigation c'est déroulé en deux phases : 
 
 
 ### La phase d'exploration
@@ -118,7 +115,7 @@ Les informations clés présentées sont :
 1. Une fiche récapitulative du profil du demandeur d'emploi à promouvoir​​
 2. 5 entreprises avec un fort potentiel d'embauche* correspondant à la localité et au métier recherché du profil à promouvoir ​​
 Chaque entreprise dispose d'une fiche par entreprise avec les informations nécessaires pour que le conseiller puisse prendre une décision ​(son potentiel d'embauche, ses engagements, le contact privilégié à contacter...) 
-3. Une liste des mesures à l'embauches et mesures d'adaptation en adéquation avec le profil à promouvoir et l'entreprise sélectionnée​​
+3. Une liste des mesures à l'embauche et mesures d'adaptation en adéquation avec le profil à promouvoir et l'entreprise sélectionnée​​
 
 #### L'impact souhaité
 ⭐️ La north start métric ​
@@ -156,7 +153,7 @@ La répartition du panel en pourcentage est la suivante :
 
 ##### La viabilité de la solution​
 
-Les testeur nous ont permis de tester la viabilité de la solution et de répondre aux questions suivantes :
+Les testeurs nous ont permis de tester la viabilité de la solution et de répondre aux questions suivantes :
 
 **Utile : La solution apporterait-elle une réelle valeur et résoudrait un problème existant ? (recherche utilisateur)​**
 
@@ -169,7 +166,7 @@ Les testeur nous ont permis de tester la viabilité de la solution et de répond
 
 ❌ Plus de la moitié des conseillers se dirigent directement vers les entreprises connues
 
-❌ Ne reponds pas aux attentes des Experts (présentation de l'argumentaire, outil intégré au SI)​
+❌ Ne réponds pas aux attentes des Experts (présentation de l'argumentaire, outil intégré au SI)​
 ​
 
 ​**Utilisable : La solution est-elle bien conçue et facile à utiliser ? (ergonomie et accessibilité)​**
