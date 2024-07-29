@@ -8,8 +8,10 @@ missions:
     status: admin
     employer: pole-emploi
     startups:
+      - mes.aides.a.lembauche
       - perspectives
 startups:
   - perspectives
+competences: []
 ---
 En recherche constante de nouvelles solutions et d'innovations. Persuadé que la personne est plus importante que le CV.
