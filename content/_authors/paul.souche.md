@@ -11,8 +11,8 @@ missions:
     startups:
       - maison.de.lautisme
       - recosante
-  - start: 2024-07-15
-    end: 2025-01-15
+  - start: 2024-07-22
+    end: 2025-01-01
     status: independent
     employer: LaZone/Scopyleft
     startups:
@@ -21,5 +21,6 @@ startups:
   - maison.de.lautisme
   - recosante
 memberType: beta
+competences: []
 ---
 Développeur fullstack
