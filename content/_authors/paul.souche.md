@@ -5,7 +5,7 @@ domaine: Développement
 github: paulsouche
 missions:
   - start: 2023-03-01
-    end: 2023-06-03
+    end: 2023-06-02
     status: independent
     employer: Opteamis
     startups:
@@ -18,6 +18,10 @@ missions:
     startups:
       - nosgestesclimat
 memberType: beta
-competences: []
+competences:
+  - Développement Full-stack
+  - Docker
+  - JavaScript/TypeScript
+  - PostgreSQL
 ---
 Développeur fullstack
