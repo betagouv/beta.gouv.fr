@@ -17,9 +17,6 @@ missions:
     employer: LaZone/Scopyleft
     startups:
       - nosgestesclimat
-startups:
-  - maison.de.lautisme
-  - recosante
 memberType: beta
 competences: []
 ---
