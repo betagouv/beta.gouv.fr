@@ -2,7 +2,7 @@
 title: Info Médicament
 mission: Mettre à disposition les informations et données autour du médicament aux patients et aux professionnels de santé afin de favoriser un meilleur usage des médicaments
 incubator: dinum
-contact: elsa.le-duigou@beta.gouv.fr
+contact: infomedicament-team@beta.gouv.fr
 sponsors:
   - /organisations/ansm
 phases:
@@ -14,6 +14,8 @@ thematiques:
   - Santé
 usertypes:
   - particulier
+repository: https://github.com/betagouv/infomedicament
+techno: []
 ---
 ### Contexte 
 
