@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2024-08-28
     end: 2024-12-31
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - snu
 ---
