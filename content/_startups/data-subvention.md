@@ -13,22 +13,30 @@ accessibility_status: partiellement conforme
 usertypes:
   - association
   - etat
+  - collectivité
 stats_url: https://blog.datasubvention.beta.gouv.fr/statistiques/
 budget_url: https://datasubvention.beta.gouv.fr/budgets/
 phases:
   - name: construction
     start: 2022-01-03
   - name: acceleration
-    start: 2023-09-17
+    start: 2024-06-10
 fast:
   promotion: 13
   montant: 280000
 thematiques:
+  - Subventions
+  - Data
   - Open-Data
 events:
   - name: fast
     date: 2024-01-01
-    comment: Montant de 280000€ pour la promotion 13
+    comment: 'Lauréat du FAST 13. '
+  - name: other
+    date: 2024-06-10
+    comment: 'Lauréat du FTAP Data : Exploitation et valorisation des données'
+mon_service_securise: true
+techno: []
 ---
 ## La valeur de Data.Subvention
 
@@ -36,25 +44,26 @@ La valeur de Data‧Subvention repose sur sa capacité à offrir aux agents publ
 
 ## Le sujet des subventions publiques aux associations
 
-En France, les 1,5 million d’associations mobilisent 12,5 millions de bénévoles - dont 5 millions s’engagent chaque semaine - et font vivre la solidarité, le lien social, le développement et l’animation des territoires. Près de 160 000 d’entre-elles salarient plus d’1,8 millions de personnes soit 9,3% des effectifs salariés de l’ensemble du secteur privé.
+Les associations occupent une place essentielle dans la vie collective de la Nation, ce secteur est à la fois un vecteur de cohésion sociale et un acteur économique majeur : elles sont 1,3 million, comptent 21 millions d’adhérents, 13 millions de bénévoles. 170 000 d’entre elles sont employeuses, totalisent près d’1,8 million de salariés – soit près de 10 % des emplois privés.
 
-En 2020, l’État a soutenu leurs actions à hauteur de 7,3 milliards d’euros, avec plus de 66 000 versements sous forme de subventions.
+Les subventions publiques aux associations représentent 23 milliards d’Euros. Elles sont versées par des services de l’Etat, des opérateurs et des collectivités territoriales. Elles représentent 20% du budget consolidé des associations. 
 
-Ces soutiens sont apportés après que les associations les aient demandés, par rédaction d’une demande adressée auprès de différents services de l’État, qui ont de leur coté “instruit” : vérifié éligibilité-complétude, réuni les instances de décision, communiqué et exécuté les décisions de versement ou rejet.
+En 2023, le total des versements réalisés par l’Etat à ce secteur sous forme de subventions, se monte à 8,5 milliards d’euros, imputées sur pas moins de 96 programmes budgétaires différents.
+
+Ces soutiens sont apportés après que les associations les aient demandés, par rédaction d’une demande adressée auprès de différents services de l’État, qui ont de leur coté instruit, réuni les instances de décision, et mis en paiement les subventions.
 
 ## Problème
 
-D’un côté, les associations font face à des dossiers de demande de subvention pouvant leur paraitre redondants,  par le fait de devoir renvoyer certaines pièces à chaque démarche. Du point de vue d’une association, ces sur-sollicitations peuvent générer aussi un sentiment d’incompréhension et de lassitude vis-à-vis des démarches administratives.
+Coté Associations : Demander une subvention est une démarche longue répétitive pour une association et consiste souvent à déposer des pièces administratives déjà connues par d’autres autorités publiques : ces sur-sollicitations peuvent générer aussi un sentiment d’incompréhension et de lassitude vis-à-vis des démarches administratives.
 
-De l’autre, chaque service public financeur déploie du temps et de l’énergie à communiquer sur ses dispositifs de subvention, à accompagner les associations , à opérer des vérifications administratives et réglementaires et à relancer les porteurs de projets quand les dossiers sont incomplets , provoquant de nombreux allers-retours.
+Coté administrations :  la dématérialisation des démarches de demande, décision et paiement s'est faite en silo, conduisant à des données éparpillées dans une grande diversité de systèmes d’information, d’instruction, de gestion et de mise en paiement, empêchant d’atteindre un réel « dites-le-nous une fois ».
 
-Aucun service n’a aucune vision globale et partagée de la situation d’une association : bien que la dématérialisation de certaines démarches ait permis de réelles avancées, la faiblesse de leur interconnexion, en termes de partage de données et d’informations, n’a pas permis de réduire leur cloisonnement et leur complexité et d’atteindre un réel « dites-le-nous une fois ».
+Après plusieurs réunions interministérielles en 2021 sur l’enjeu d’améliorer le pilotage des subventions de l’Etat, le Premier ministre a confié à la direction de la jeunesse, de l’éducation populaire et de la vie associative (DJEPVA) et à la direction interministérielle du numérique (DINUM) la responsabilité de bâtir un nouveau service numérique dénommé Data.Subvention, pour collecter et repartager des données consolidées et complètes.
 
-Après plusieurs réunions interministérielles en 2021 sur l’enjeu d’améliorer le pilotage des subventions de l’Etat, le Premier ministre a confié à la direction de la jeunesse, de l’éducation populaire et de la vie associative (DJEPVA) et à la direction interministérielle du numérique (DINUM) la responsabilité de bâtir un nouveau service numérique dénommé Data.Subvention, pour collecter et repartager les données sur les associations et leurs subventions auprès de tout agent public.
 
 ## Construction
 
-Depuis le mois de janvier 2022, la startup d’État Data.Subvention, portée par la DJEPVA avec l’appui du programme beta‧gouv de la DINUM, construit ce service destiné aux agents publics qui leur permet concrètement de :
+Depuis le mois de janvier 2022, la startup d’État Data.Subvention construit ce service destiné aux agents publics qui leur permet concrètement de :
 
 - Consulter les informations administratives disponibles sur les associations (administrateurs, agréments)
 - Consulter et prendre connaissance des subventions versées par l’Etat  et des demandes déposées via des outils de gestion auprès d’autres services 
@@ -63,22 +72,38 @@ Depuis le mois de janvier 2022, la startup d’État Data.Subvention, portée pa
 
 Data.Subvention est donc composée :
 
-- d’une API : qui collecte les données dans les différents outils de dématérialisation et les APIs existants, favorise la réutilisation des données
-- d’un outil de consultation qui présente ces données de façon simple à tout agent investi d’une mission de service public et inscrit sur https://app.datasubvention.beta.gouv.fr/
+- de l'API Data.Subvention : collecte les données dans les différents outils de dématérialisation,  la raffine pour la rendre réutilisable par d'autres plateformes.
 
-Data‧Subvention a été progressivement déployé au plan national et territorial, auprès des administrations centrales et déconcentrées et des collectivités territoriales.
+- d’un portail qui présente ces données de façon simple à aux agents inscrits sur https://app.datasubvention.beta.gouv.fr/ . 
 
-Deux phases de constructions successives se sont donc tenues : la première entre avril et septembre 2022 dans les régions Occitanie et Pays de la Loire pour tester la solution auprès des agents et l’adapter à leurs besoins et cas d’usages. Cette construction s’est poursuivie entre octobre et juin 2023 sur 3 nouvelles régions : Bretagne, Hauts-de-France et Nouvelle-Aquitaine, avec de nouveaux objectifs, notamment d’inscription de la solution dans les feuilles de route de la donnée pilotées par les SGAR, et l’ouverture de l’outils aux agents des collectivités.
+Si le portail était envisagé initialement comme une solution temporaire avant intégration de l’API dans des solutions tierces, il reste indispensable pour des administrations dépourvues de solution numérique.
 
-## Solution en Acceleration : Sept 2023 à Février 2024
+LA mesure d'impact porte sur les économies générées par les gains d temps obtenus lors des instructions de demandes de subventions.
 
-La phase de construction est achevée. Elle a duré 1 an : elle a permis de tester puis dupliquer des modes opératoires efficaces pour déployer la solution au plan territorial, augmenter le nombre d’utilisateurs, promouvoir le réemploi des données via des Hubs de donnée en lien avec les préfectures de région, expliquer et convaincre de la nécessité du partage des données.
+## Les étapes de développement
 
-Elle s’est clôt sur un travail d’alignement de l’équipe qui a permis de retenir LA mesure d’impact : Le gain de temps lors des instructions de demandes de subventions.
+Data‧Subvention est progressivement déployé au plan national et territorial, auprès des administrations centrales et déconcentrées et des collectivités territoriales.
 
-Si la phase de construction servait essentiellement à améliorer la solution via de nombreux processus de test d’utilisateurs, la phase d’accélération elle, vise à faire décoller le nombre de fidèles. Il s’agit de dépasser le public des primo-utilisateurs et de s’assurer d’une utilisation régulière.
+- Janvier 22 : livraison du premier produit minimum viable 
+- Avril 22 - Septembre 2022 : 1ere phase de construction avec les régions Occitanie et Pays de la Loire (test auprès des agents et adaptations aux besoins et usages)
+- Octobre 22 à juin 2023 :  2eme phase de construction élargie à 3 nouvelles régions : Bretagne, Hauts-de-France et Nouvelle-Aquitaine : Objectif inscription de la solution dans les services territoriaux‧
+- Juillet 2023 : mise dispo de l'open Data sur GITHUB
+- Septembre 23 à février 24 : passage réussi à l'échelle nationale, avec le soutien du FAST (Fonds d’Accélération des Startups d’État).
 
-L’équipe travaillera de septembre 2023 à Février 2024 sur un plan d’action basé sur 2 hypothèses :
+## Solution en Consolidation
 
-- Nous pensons que le passage à l’échelle nationale en France métropolitaine et en Outre-mer avec un renforcement des partenariats avec les préfectures, les centrales, les opérateurs; va produire : une augmentation du nombre d’utilisateurs actifs; Et nous pourrons le valider en mesurant la récurrence d’usage : le nombre d’utilisateurs actifs
-- Nous pensons que augmenter le nombre de sources de données; Va produire plus de satisfaction sur la solution marquée une augmentation du nombre d’utilisateurs actifs; Et nous pourrons le valider en mesurant la récurrence d’usages : le nombre d’utilisateurs actif.
+- Mai 2024 : lauréats du FTAP DATA !
+
+Avec ce soutien, Data.Subvention s'est engagé dans une nouvelle étape afin de faire face à de nouveaux défis.
+
+Il ne pourra y avoir de partage public des données des subventions versées aux associations, sans achèvement de la complétude : récolter et repartager l’ensemble des versements de l’Etat a constitué une grande avancée, mais y adjoindre les données des collectivités et des opérateurs est indispensable pour donner une vision complète.
+
+L'absence de complétude constitue un risque de défiance des citoyens envers la donnée (C’est pas complet = c’est faux).
+
+Nous nous concentrons donc dans cette nouvelle phase au défi de la complétude des données : exhaustivité, intelligibilité et circulation accrue.
+
+1. Exhaustivité : C'est d'abord rendre accessibles les données actuelles aux collectivités ou aux opérateurs et intégrer les leurs. C'est aussi développer de nouvelles fonctionnalités adaptées à de nouveaux profils métiers (pilotes / Contrôleurs) en plus des instructeurs.
+
+2. Intelligibilité : rendre notre référentiel de données facile à comprendre et utiliser pour nos fournisseurs et consommateurs,  en lien étroit avec Data.Gouv.
+
+3. Circulation accrue : garantir une donnée la plus fraîche possible pour un réemploi performant par des tiers (Data.Budget.Etat ; Annuaire des Entreprises, Démarches Simplifiées, les divers logiciels de gestion des ministères Subventia, Osiris, Fonjep ...) ou par nous (Portail).
