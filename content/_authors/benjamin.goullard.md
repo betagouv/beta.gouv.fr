@@ -14,4 +14,7 @@ startups:
 badges:
   - segur
 memberType: beta
+competences:
+  - Product strategy
+  - Communication
 ---

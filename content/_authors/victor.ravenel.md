@@ -1,18 +1,20 @@
 ---
 fullname: Victor Ravenel
-role: Product Manager
+role: Coach
 domaine: Produit
 link: https://www.linkedin.com/in/victor-ravenel/
 github: vicobz
 missions:
   - start: 2023-01-24
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
-    employer: Malt
+    employer: Malt / Octo
     startups:
+      - faritas
       - snu
 startups:
   - snu
 memberType: beta
+competences: []
 ---
-Product Lead, Software Engineer & Couteau Suisse
+Product Coach, Software Engineer, Tech Builder

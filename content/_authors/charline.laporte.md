@@ -13,5 +13,10 @@ missions:
       - sndv_maritime
 startups:
   - sndv_maritime
+competences:
+  - Développement Frontend
+  - JavaScript/TypeScript
+  - Accessibilité
+  - UI
 ---
 Développeuse web front-end
