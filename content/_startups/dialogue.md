@@ -18,6 +18,9 @@ phases:
 thematiques:
   - Transports
   - Open-Data
+stats_url: https://dialog.beta.gouv.fr/stats
+usertypes: []
+techno: []
 ---
 DiaLog
 

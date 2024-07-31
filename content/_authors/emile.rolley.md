@@ -24,4 +24,8 @@ competences:
   - Développement Frontend
   - Développement Full-stack
   - JavaScript/TypeScript
+  - Elm
+  - ReScript
+  - OCaml
+  - Publicodes
 ---

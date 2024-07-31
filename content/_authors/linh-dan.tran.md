@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2024-08-22
     end: 2025-03-31
-    employer: Actimage
     status: independent
+    employer: Actimage
     startups:
       - sirius
 ---

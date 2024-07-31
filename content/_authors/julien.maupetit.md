@@ -15,5 +15,10 @@ startups:
 memberType: beta
 competences:
   - DevOps
-  - Développement Full-stack
+  - Kubernetes
+  - Python
+  - Développement Backend
+  - Docker
+  - ElasticSearch
+  - Data Science
 ---
