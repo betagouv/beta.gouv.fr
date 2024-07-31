@@ -7,6 +7,14 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2024-04-03
+thematiques:
+  - Collectivités
+  - Territoires
+usertypes:
+  - collectivite-territoriale
+techno: []
+sponsors:
+  - /organisations/cerema
 ---
 ## Contexte
 
