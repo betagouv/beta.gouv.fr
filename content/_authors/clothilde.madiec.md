@@ -12,5 +12,6 @@ missions:
 startups:
   - api-engagement
 memberType: beta
+competences: []
 ---
 E-commerce / Growth Hacking / Product Owner
