@@ -1,6 +1,6 @@
 ---
 fullname: Joëlle Chong
-role: Designer de services
+role: Intrapreneuse
 domaine: Design
 missions:
   - start: 2023-07-18
@@ -11,5 +11,11 @@ missions:
       - medistock
 memberType: autre
 link: https://www.linkedin.com/in/joelle-chong/
+competences:
+  - Intrapreneur(se)
+  - Product design
+  - Product strategy
+  - Facilitation
+  - UX
 ---
 Designer de services à l'ANSM
