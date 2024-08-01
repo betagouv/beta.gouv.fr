@@ -1,6 +1,6 @@
 ---
 fullname: Christopher Leleu
-role: Data
+role: Intrapreneur
 domaine: Data
 github: ChristopherLELEU
 missions:
@@ -8,6 +8,9 @@ missions:
     end: 2025-10-02
     status: admin
     employer: ANSM
+    startups:
+      - medistock
 memberType: autre
+competences: []
 ---
 Data

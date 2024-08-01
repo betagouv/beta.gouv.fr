@@ -14,5 +14,16 @@ missions:
 startups:
   - annuaire-entreprises
 memberType: autre
+competences:
+  - Docker
+  - DevOps
+  - ElasticSearch
+  - JavaScript/TypeScript
+  - PHP
+  - Python
+  - Développement Backend
+  - Sécurité informatique
+  - Kubernetes
+  - Machine learning
 ---
 DevOps, expert opensearch  SIMD computing

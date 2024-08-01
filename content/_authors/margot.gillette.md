@@ -4,7 +4,7 @@ fullname: Margot Gillette
 role: Design
 missions:
   - start: 2021-03-01
-    end: 2024-12-31
+    end: 2025-12-31
     status: service
     employer: Diair
     startups:
