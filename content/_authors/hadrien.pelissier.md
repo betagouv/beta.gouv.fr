@@ -7,7 +7,7 @@ missions:
     end: 2024-10-30
     status: independent
     employer: LBC
-    startups:
+startups:
       - languia
 github: ketsapiwiq
 link: https://fr.linkedin.com/in/hadrienpelissier
