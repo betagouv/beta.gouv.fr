@@ -1,8 +1,8 @@
 ---
-mission: L'arène LANGU:IA consiste à comparer grâce à un dispositif interactif et ludique les réponses générées par différents modèles à une invite donnée. Un utilisateur pose une question en    français et obtient des réponses de deux LLM anonymes.
+mission: Interroger à l'aveugle deux modèles de language conversationnels sur des tâches exprimées en français et comparer les résultats.
 incubator: culture
 title: Arène LANGU:IA
-contact: lucie.termignon@culture.gouv.fr
+contact: contact@languia.beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
@@ -13,6 +13,9 @@ usertypes:
   - particulier
 thematiques:
   - Patrimoine
+  - Open-Data
+  - Démocratie
+techno: []
 ---
 ### Le problème
 

@@ -22,6 +22,8 @@ thematiques:
 usertypes:
   - collectivite-territoriale
   - etat
+stats_url: https://pcrs.beta.gouv.fr/suivi-pcrs
+techno: []
 ---
 ## Contexte
 
