@@ -11,5 +11,6 @@ missions:
 startups:
   - sante-psy-etudiant
 memberType: beta
+teams: []
 ---
 Ancien consultant, fan de cinema.

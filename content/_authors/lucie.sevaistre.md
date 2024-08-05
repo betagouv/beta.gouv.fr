@@ -12,5 +12,6 @@ missions:
       - jeveuxaider
 startups:
   - jeveuxaider
+teams: []
 ---
 Graphic Designer engagée !

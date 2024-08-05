@@ -12,4 +12,5 @@ startups:
   - mon-suivi-justice
 memberType: beta
 link: https://www.linkedin.com/in/virginie-collignon-ducret-0018bb154/
+teams: []
 ---

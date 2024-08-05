@@ -11,8 +11,7 @@ missions:
 previously:
   - dossierfacile
   - tchap
-teams:
-  - /teams/communaute-dinum
+teams: []
 badges:
   - segur
 competences:

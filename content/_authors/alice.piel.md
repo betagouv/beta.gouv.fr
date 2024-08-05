@@ -13,5 +13,6 @@ startups:
 badges:
   - segur
 domaine: Autre
+teams: []
 ---
 stagiaire le jour, étudiante la nuit

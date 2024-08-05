@@ -22,4 +22,5 @@ competences:
   - Product strategy
   - UI
   - Facilitation
+teams: []
 ---

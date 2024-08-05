@@ -10,5 +10,6 @@ missions:
       - pilotage.de.linclusion
 startups:
   - pilotage.de.linclusion
+teams: []
 ---
 Responsable du service IAE Haute-Garonne et intrapreneuse au sein du GIP Plateforme de l'inclusion !

@@ -17,5 +17,6 @@ competences:
   - langage clair
   - simplification linguistique
 memberType: beta
+teams: []
 ---
 La simplification de la langue française comme moteur d'intégration des personnes exilées

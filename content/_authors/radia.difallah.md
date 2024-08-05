@@ -24,4 +24,5 @@ previously:
 competences:
   - Gestion de Produit
   - Coaching
+teams: []
 ---

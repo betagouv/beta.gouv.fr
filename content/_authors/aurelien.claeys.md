@@ -17,4 +17,5 @@ competences:
   - Gestion de Produit
 startups:
   - portail-rse
+teams: []
 ---

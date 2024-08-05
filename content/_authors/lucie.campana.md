@@ -10,5 +10,6 @@ missions:
 competences:
   - Coaching
   - Communication
+teams: []
 ---
 Spécialiste démocratie participative, accompagnement du changement, transformation des territoires.

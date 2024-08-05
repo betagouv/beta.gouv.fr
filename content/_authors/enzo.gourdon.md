@@ -11,4 +11,5 @@ missions:
 startups:
   - carbure
 memberType: beta
+teams: []
 ---

@@ -13,5 +13,6 @@ startups:
   - rdv.insertion
 badges:
   - segur
+teams: []
 ---
 L'heure est au changement de modèle économique et sociétal, j’aspire à être actrice de ce changement!

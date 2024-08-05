@@ -9,9 +9,7 @@ missions:
     status: admin
     employer: DINUM
 memberType: beta
-teams:
-  - /teams/animation-dinum
-  - /teams/fast-dinum
+teams: []
 competences:
   - Data Science
   - Administration Publique

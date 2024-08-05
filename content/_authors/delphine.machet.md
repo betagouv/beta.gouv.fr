@@ -14,4 +14,5 @@ badges:
   - segur
 competences:
   - Administration Publique
+teams: []
 ---

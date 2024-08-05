@@ -21,4 +21,5 @@ previously:
   - plusfraichemaville
 competences:
   - Coaching
+teams: []
 ---

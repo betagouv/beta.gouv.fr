@@ -16,4 +16,5 @@ startups:
 memberType: beta
 competences:
   - Développement Full-stack
+teams: []
 ---

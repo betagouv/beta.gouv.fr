@@ -11,5 +11,6 @@ missions:
 startups:
   - place-de-marche-inclusion
 memberType: beta
+teams: []
 ---
 Un peu bizdev, un peu  community builder, idéalement sur des projets avec et pour des gens !

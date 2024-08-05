@@ -15,5 +15,6 @@ startups:
   - archifiltre
 competences:
   - Administration Publique
+teams: []
 ---
 PO d'Archifiltre, la startup d'Etat pour visualiser et améliorer les arborescences de fichiers bureautiques et messagerie !

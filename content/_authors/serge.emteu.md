@@ -7,5 +7,6 @@ missions:
     end: 2020-12-31
     status: service
     employer: affaires-sociales
+teams: []
 ---
 J'aide les entreprises et l'administration dans les cas d'usage de la data science.

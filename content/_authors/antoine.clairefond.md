@@ -13,4 +13,5 @@ startups:
   - collectif_objets
 memberType: beta
 competences: []
+teams: []
 ---

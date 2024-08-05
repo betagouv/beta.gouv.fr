@@ -8,4 +8,5 @@ missions:
     status: service
     employer: Octo
 memberType: attributaire
+teams: []
 ---

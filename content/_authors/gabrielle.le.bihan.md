@@ -8,5 +8,6 @@ missions:
     status: service
     employer: Octo
 memberType: attributaire
+teams: []
 ---
 Coach transfo  - Opérateur de la DINUM

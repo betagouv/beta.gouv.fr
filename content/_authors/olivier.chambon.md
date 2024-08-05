@@ -15,5 +15,6 @@ startups:
   - acceslibre
 badges:
   - segur
+teams: []
 ---
 Technophile sympa, barbu en chef @lagrottedubarbu, ByzDev

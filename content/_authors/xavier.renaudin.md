@@ -12,4 +12,12 @@ missions:
 startups:
   - espace.sur.demande
 memberType: beta
+competences:
+  - Développement Full-stack
+  - DevOps
+  - Docker
+  - Kubernetes
+  - PHP
+  - Sécurité informatique
+teams: []
 ---

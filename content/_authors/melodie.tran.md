@@ -9,4 +9,5 @@ missions:
     employer: Octo
 badges:
   - segur
+teams: []
 ---

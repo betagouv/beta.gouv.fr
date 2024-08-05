@@ -15,4 +15,5 @@ startups:
 competences:
   - Administration Publique
   - Gestion de Produit
+teams: []
 ---

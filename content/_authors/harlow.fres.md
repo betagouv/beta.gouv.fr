@@ -12,5 +12,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+teams: []
 ---
 Développeur agile mais solide
