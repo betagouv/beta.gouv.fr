@@ -7,7 +7,7 @@ missions:
     end: 2024-12-31
     status: admin
     employer: Ministère de la Culture
-    startups:
+startups:
       - languia
 memberType: autre
 competences: []
