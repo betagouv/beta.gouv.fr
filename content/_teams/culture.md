@@ -1,4 +1,5 @@
 ---
 name: Animation
-incubator: culture
+incubator: /incubators/culture
+mission: ''
 ---

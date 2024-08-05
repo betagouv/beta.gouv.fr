@@ -1,4 +1,5 @@
 ---
 name: Animation
-incubator: sgmas
+incubator: /incubators/sgmas
+mission: ''
 ---
