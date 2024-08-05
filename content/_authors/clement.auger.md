@@ -13,4 +13,5 @@ startups:
   - nosgestesclimat
 badges:
   - segur
+competences: []
 ---
