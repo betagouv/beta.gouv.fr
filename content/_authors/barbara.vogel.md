@@ -14,5 +14,6 @@ startups:
   - tdb-apprentissage
 previously:
   - prevention_ruptures_apprentissage
+teams: []
 ---
 Coach Professionnelle, Product Manager, entrepeneuse

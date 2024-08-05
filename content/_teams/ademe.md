@@ -1,4 +1,5 @@
 ---
 name: Animation
-incubator: ademe
+incubator: /incubators/ademe
+mission: ''
 ---

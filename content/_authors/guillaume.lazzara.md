@@ -11,5 +11,6 @@ missions:
 previously:
   - api-entreprise
   - mps
+teams: []
 ---
 Quand tu veux abandonner, souviens-toi pourquoi tu as commencé.

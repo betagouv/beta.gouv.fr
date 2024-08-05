@@ -10,7 +10,6 @@ missions:
     employer: DINUM
 memberType: beta
 teams:
-  - /teams/animation-dinum
   - /teams/fast-dinum
 competences:
   - Data Science

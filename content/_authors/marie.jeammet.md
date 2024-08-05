@@ -24,5 +24,6 @@ previously:
   - tous.a.bord
 badges:
   - segur
+teams: []
 ---
 Développeuse web. À quand les justices sociales et climatiques ?

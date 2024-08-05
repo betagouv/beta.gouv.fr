@@ -1,5 +1,5 @@
 ---
 name: Animation
-mission: 
-incubator: mission-apprentissage
+mission: ''
+incubator: /incubators/mission-apprentissage
 ---

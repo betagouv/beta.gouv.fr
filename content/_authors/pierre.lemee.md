@@ -16,5 +16,6 @@ badges:
   - segur
 competences:
   - PHP
+teams: []
 ---
 Artisan développeur

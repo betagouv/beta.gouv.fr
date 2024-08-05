@@ -10,5 +10,6 @@ missions:
       - oilhi
 startups:
   - oilhi
+teams: []
 ---
 Développeur No-Code, Growth

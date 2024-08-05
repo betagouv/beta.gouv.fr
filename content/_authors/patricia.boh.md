@@ -14,5 +14,6 @@ startups:
   - urbanvitaliz
   - recommandations-collaboratives
 memberType: beta
+teams: []
 ---
 Dev front

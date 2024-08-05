@@ -11,4 +11,5 @@ missions:
 memberType: beta
 startups:
   - decl-bombarbier-eau
+teams: []
 ---

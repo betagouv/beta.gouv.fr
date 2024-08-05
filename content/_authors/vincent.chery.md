@@ -12,5 +12,6 @@ missions:
       - monitorfish
 startups:
   - monitorfish
+teams: []
 ---
 Data scientist/engineer, option poissons ><>

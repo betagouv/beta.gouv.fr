@@ -12,5 +12,6 @@ missions:
 startups:
   - reva
 memberType: beta
+teams: []
 ---
 Assistante support et administratif

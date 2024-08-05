@@ -17,4 +17,5 @@ startups:
   - bases.adresses.locales
 competences:
   - Développement Frontend
+teams: []
 ---

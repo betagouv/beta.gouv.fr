@@ -1,4 +1,5 @@
 ---
 name: Animation
-incubator: fab-geocommuns
+incubator: /incubators/fab-geocommuns
+mission: ''
 ---

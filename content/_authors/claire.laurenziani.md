@@ -20,5 +20,6 @@ startups:
   - suite.territoriale
   - themis
 memberType: beta
+teams: []
 ---
 Communicante engagée pour l'environnement

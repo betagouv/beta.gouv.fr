@@ -15,5 +15,6 @@ missions:
 startups:
   - catalogue-apprentissage
   - voeux-apprentissage
+teams: []
 ---
 De jour : Architecte web et ingénieur projet @ IT-era ♦ De nuit : Thérapeute sonore @ Technomad Audio

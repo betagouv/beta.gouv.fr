@@ -12,5 +12,6 @@ missions:
 startups:
   - compte.ressources
 memberType: beta
+teams: []
 ---
 intrapreneuse compte ressources

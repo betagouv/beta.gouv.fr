@@ -9,5 +9,6 @@ missions:
     employer: education-nationale
 previously:
   - open-academie
+teams: []
 ---
 Mettre en place des outils qui facilitent le quotidien.

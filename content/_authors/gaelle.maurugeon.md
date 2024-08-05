@@ -13,5 +13,6 @@ missions:
 startups:
   - snu
 memberType: beta
+teams: []
 ---
 Coach Produit passionnée de product management, design thinking et intelligence collective, et co-fondatrice d'une association de découverte de la tech pour les filles

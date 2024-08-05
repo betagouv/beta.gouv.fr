@@ -12,5 +12,6 @@ missions:
       - pix
 startups:
   - pix
+teams: []
 ---
 C'est moi qui pose les questions, OK ?

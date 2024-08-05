@@ -13,4 +13,5 @@ github: morganmerzouk
 competences:
   - Développement Full-stack
 memberType: beta
+teams: []
 ---

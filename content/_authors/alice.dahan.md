@@ -15,4 +15,5 @@ missions:
     employer: Mon Entreprise Portage
     startups:
       - mon-entreprise
+teams: []
 ---
