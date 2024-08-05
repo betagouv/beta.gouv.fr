@@ -12,5 +12,6 @@ missions:
       - ozensemble
 startups:
   - ozensemble
+  - languia
 memberType: beta
 ---
