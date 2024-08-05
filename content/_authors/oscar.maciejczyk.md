@@ -11,5 +11,6 @@ missions:
       - sndv_maritime
 startups:
   - sndv_maritime
+teams: []
 ---
 Déploiement MOANA

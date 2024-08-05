@@ -8,6 +8,7 @@ missions:
     status: independent
     employer: Mission Interministérielle pour l'Apprentissage
 memberType: autre
+teams: []
 ---
 Militante du Service Public !
 Mots d'ordre :  utilité, accessibilité, efficacité.

@@ -13,5 +13,6 @@ startups:
   - estime.formation
 previously:
   - estime
+teams: []
 ---
 100% Bottom-Up

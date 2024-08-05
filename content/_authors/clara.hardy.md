@@ -13,4 +13,5 @@ startups:
 memberType: beta
 competences:
   - Administration Système
+teams: []
 ---

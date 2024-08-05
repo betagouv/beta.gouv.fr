@@ -4,7 +4,7 @@ fullname: Oumeima El Isbihani
 role: Développement
 missions:
   - start: 2024-05-02
-    end: 2024-08-02
+    end: 2024-11-07
     status: independent
     employer: Malt
     startups:
@@ -15,6 +15,7 @@ competences:
   - Développement Frontend
   - Développement Full-stack
 memberType: beta
+teams: []
 ---
 Après une formation en informatique à Brest, j'ai travaillé 6 ans dans une SCIC (Société Coopérative d'Intérêt Collectif) tout en militant activement au sein de plusieurs associations pour la justice sociale et climatique.
 

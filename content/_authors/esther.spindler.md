@@ -13,4 +13,5 @@ memberType: autre
 competences:
   - Communication
   - Croissance
+teams: []
 ---

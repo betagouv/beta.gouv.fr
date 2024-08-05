@@ -11,5 +11,6 @@ missions:
     status: independent
     startups:
       - delta.v
+teams: []
 ---
 UI / UX Designer

@@ -13,4 +13,6 @@ startups:
   - nosgestesclimat
 badges:
   - segur
+competences: []
+teams: []
 ---

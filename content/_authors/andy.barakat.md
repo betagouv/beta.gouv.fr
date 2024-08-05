@@ -11,8 +11,7 @@ missions:
     startups:
       - vert.impact
       - vigieau
-teams:
-  - /teams/mtes
+teams: []
 startups:
   - vigieau
 ---

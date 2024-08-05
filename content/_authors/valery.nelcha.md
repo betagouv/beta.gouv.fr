@@ -11,5 +11,6 @@ missions:
       - eac
 startups:
   - eac
+teams: []
 ---
 Coordinatrice, intrapreneuse, membre de l'équipe produit sur la plateforme pour l'éducation artistique et culturelle.

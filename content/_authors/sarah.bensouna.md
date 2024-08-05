@@ -12,5 +12,6 @@ startups:
   - dossierfacile
 badges:
   - segur
+teams: []
 ---
 Amoureuse de voyages, de poutine et de chocolat

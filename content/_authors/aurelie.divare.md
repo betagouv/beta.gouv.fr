@@ -13,4 +13,5 @@ missions:
 startups:
   - mes-evenements-emploi
   - encyclopedie-des-metiers
+teams: []
 ---

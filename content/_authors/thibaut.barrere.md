@@ -13,5 +13,6 @@ missions:
       - transport
 startups:
   - transport
+teams: []
 ---
 J'aime le code et le "data engineering" !

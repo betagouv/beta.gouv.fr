@@ -12,4 +12,5 @@ missions:
     employer: Malt
     startups:
       - france.nation.verte.agir
+teams: []
 ---

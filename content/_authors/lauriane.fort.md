@@ -22,4 +22,5 @@ badges:
   - segur
 previously:
   - ellesfontlaculture
+teams: []
 ---

@@ -12,5 +12,6 @@ missions:
       - pass-culture
 startups:
   - pass-culture
+teams: []
 ---
 Précédemment techlead sur FranceConnect Techlead sur Pass Culture

@@ -9,5 +9,6 @@ missions:
     end: 2021-10-12
     status: independent
     employer: Lionel ANDRÉ
+teams: []
 ---
 Artisan développeur

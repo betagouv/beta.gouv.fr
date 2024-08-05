@@ -13,5 +13,6 @@ missions:
 startups:
   - mon-diagnostic-artificialisation
 memberType: beta
+teams: []
 ---
 Accélérateur d'ouverture des données

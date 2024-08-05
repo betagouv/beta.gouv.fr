@@ -9,5 +9,6 @@ missions:
     status: service
     employer: Malt
 memberType: attributaire
+teams: []
 ---
 Responsable du compte de la Fabrique numérique des Ministères sociaux chez Malt

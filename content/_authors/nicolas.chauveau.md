@@ -13,5 +13,6 @@ missions:
       - data-subvention
 startups:
   - data-subvention
+teams: []
 ---
 Designer

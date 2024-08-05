@@ -13,5 +13,6 @@ missions:
       - mes-aides
 startups:
   - mes-aides
+teams: []
 ---
 Infiltrée Latitudes. <3

@@ -12,5 +12,6 @@ missions:
 startups:
   - dossierfacile
 memberType: beta
+teams: []
 ---
 Vanessa, community manager, accro auc réseaux sociaux.

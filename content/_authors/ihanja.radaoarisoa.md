@@ -12,4 +12,5 @@ missions:
 competences:
   - Product strategy
 memberType: beta
+teams: []
 ---

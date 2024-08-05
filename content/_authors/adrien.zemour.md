@@ -20,7 +20,6 @@ badges:
 previously:
   - l-application-du-cej
   - chauffage-urbain
-teams:
-  - /teams/animation-dinum
+teams: []
 ---
 On m'a vu dans le Vercors

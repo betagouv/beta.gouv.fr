@@ -14,4 +14,5 @@ missions:
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
+teams: []
 ---

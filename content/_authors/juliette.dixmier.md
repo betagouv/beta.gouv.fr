@@ -34,4 +34,5 @@ competences:
   - Croissance
   - Intrapreneur(se)
   - Product strategy
+teams: []
 ---

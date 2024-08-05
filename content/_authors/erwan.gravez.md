@@ -14,4 +14,5 @@ startups:
 previously:
   - la.bonne.renov
 memberType: beta
+teams: []
 ---

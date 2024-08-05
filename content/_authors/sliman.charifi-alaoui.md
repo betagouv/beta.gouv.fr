@@ -12,5 +12,6 @@ missions:
 startups:
   - l-immersion-facile
 memberType: beta
+teams: []
 ---
 Chargé de développement / immersion facilitée
