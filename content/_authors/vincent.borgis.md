@@ -7,7 +7,5 @@ missions:
     end: 2025-12-16
     status: admin
     employer: DNUM Ministère Sociaux
-teams:
-  - /teams/sgmas
 ---
 Adjoint au chef de la Fabrique Numérique des Min Sociaux. What health ?! :-)

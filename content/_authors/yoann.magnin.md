@@ -21,6 +21,4 @@ missions:
       - vigieau
 competences:
   - Gestion de Produit
-teams:
-  - /teams/mtes
 ---

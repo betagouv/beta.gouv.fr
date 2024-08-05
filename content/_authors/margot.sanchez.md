@@ -36,6 +36,4 @@ previously:
   - territoires-en-transitions
   - impact.co2
   - agora
-teams:
-  - /teams/animation-dinum
 ---

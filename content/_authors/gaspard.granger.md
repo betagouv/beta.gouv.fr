@@ -14,6 +14,4 @@ competences:
   - Gestion de Produit
   - Administration Publique
   - Droit / Affaires juridiques
-teams:
-  - /teams/mtes
 ---

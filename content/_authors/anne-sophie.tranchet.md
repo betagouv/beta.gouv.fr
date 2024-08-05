@@ -32,8 +32,6 @@ competences:
   - UX
   - UI
   - Accessibilité
-teams:
-  - /teams/communaute-dinum
 previously:
   - cartobio
   - dialogue

@@ -25,6 +25,4 @@ previously:
 competences:
   - Coaching
   - Gestion de Produit
-teams:
-  - /teams/animation-dinum
 ---

@@ -10,7 +10,5 @@ missions:
     status: admin
     employer: Direction interministérielle du numérique
 memberType: beta
-teams:
-  - /teams/animation-dinum
 ---
 Je m’attèle à stimuler la création de valeur, encapaciter les équipes et faciliter l’atteinte des objectifs

@@ -20,8 +20,6 @@ missions:
     end: 2027-12-28
     status: admin
     employer: DINUM
-teams:
-  - /teams/animation-dinum
 competences:
   - Développement Full-stack
   - DevOps

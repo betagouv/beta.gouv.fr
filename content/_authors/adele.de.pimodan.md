@@ -2,8 +2,6 @@
 fullname: Adèle de Pimodan
 role: Responsable RH
 domaine: Animation
-teams:
-  - /teams/gip-inclusion
 missions:
   - start: 2023-06-18
     end: 2026-07-03

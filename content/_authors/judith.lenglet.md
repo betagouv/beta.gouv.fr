@@ -13,6 +13,4 @@ startups:
   - umap
 previously:
   - trackdechets
-teams:
-  - /teams/accelerateur-initiatives-citoyennes
 ---

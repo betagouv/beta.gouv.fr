@@ -22,6 +22,4 @@ badges:
 competences:
   - Croissance
   - Administration Publique
-teams:
-  - /teams/animation-dinum
 ---

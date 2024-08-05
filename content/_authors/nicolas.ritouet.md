@@ -10,8 +10,6 @@ missions:
     status: independent
     employer: Incubateur des territoires
 memberType: beta
-teams:
-  - /teams/anct
 competences:
   - DevOps
   - Développement Full-stack

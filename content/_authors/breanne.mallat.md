@@ -18,6 +18,4 @@ previously:
   - aides-territoires
   - dossierfacile
   - mon-entreprise
-teams:
-  - /teams/animation-dinum
 ---

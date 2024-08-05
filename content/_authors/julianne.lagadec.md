@@ -23,6 +23,4 @@ previously:
   - dematapprentissage
   - tdb-apprentissage
   - la-bonne-alternance
-teams:
-  - /teams/mission-inserjeunes
 ---

@@ -23,7 +23,5 @@ previously:
   - aidantsconnect
 badges:
   - segur
-teams:
-  - /teams/dinum_produits_interministeriels
 ---
 - Cliquez ici pour améliorer cette bio

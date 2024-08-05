@@ -14,8 +14,6 @@ missions:
     end: 2026-12-03
     status: admin
     employer: DINUM
-teams:
-  - /teams/communaute-dinum
 previously:
   - recosante
 link: https://www.linkedin.com/in/marinepurson/

@@ -23,6 +23,4 @@ previously:
 competences:
   - Administration Système
   - Développeur full stack
-teams:
-  - /teams/mission-apprentissage
 ---

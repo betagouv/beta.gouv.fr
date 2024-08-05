@@ -17,8 +17,6 @@ competences:
   - Gestion de Produit
   - Product strategy
   - UX
-teams:
-  - /teams/DINUM
 startups:
   - exposition-ij
 ---

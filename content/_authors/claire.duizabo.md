@@ -16,8 +16,6 @@ startups:
   - nosgestesclimat
   - refugies.info
   - mano
-teams:
-  - /teams/fast-dinum
 previously:
   - 1000.premiers.jours.blues
 ---

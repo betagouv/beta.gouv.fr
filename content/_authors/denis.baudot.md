@@ -20,8 +20,5 @@ badges:
   - segur
 startups:
   - france.nation.verte.agir
-teams:
-  - /teams/animation-dinum
-  - /teams/fast-dinum
 ---
 Développeur à la brigade

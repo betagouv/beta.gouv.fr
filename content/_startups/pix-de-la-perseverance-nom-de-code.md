@@ -7,8 +7,8 @@ thematiques:
 usertypes:
   - etablissement-scolaire
 techno: []
-title: Pix de la persévérance (nom de code)
-mission: 'Le «Pix de la persévérance» vise à professionnaliser les équipes pédagogiques et éducatives pour  accompagner efficacement les élèves, y compris de moins de 16 ans, en risque de décrochage scolaire. '
+title: Application persévérance
+mission: 'L'' «application persévérance» vise à professionnaliser les équipes pédagogiques et éducatives pour accompagner efficacement les élèves, y compris de moins de 16 ans, en risque de décrochage scolaire. '
 incubator: menj
 sponsors:
   - /organisations/menjs
@@ -28,12 +28,12 @@ Les professionnels en charge de l’accompagnement des élèves en risque de dé
 
 ## Solution
 
-Nous investiguons le "Pix de la persévérance", une plateforme numérique innovante permettant aux enseignants d'évaluer et de renforcer leurs compétences en matière d'accompagnement des élèves à risque de décrochage. 
+Nous investiguons l' "application persévérance", une plateforme numérique innovante permettant aux enseignants d'évaluer et de renforcer leurs compétences en matière d'accompagnement des élèves à risque de décrochage. 
 Cette plateforme contribuera à leur professionnalisation et pourra s’inscrire dans un parcours de formation menant au certificat de professionnalisation en matière de lutte contre le décrochage scolaire (CPLDS) https://eduscol.education.fr/1284/mission-de-lutte-contre-le-decrochage-scolaire
 
 ## Stratégie
 
-Le "Pix de la persévérance" vise à améliorer la capacité des établissements scolaires à accompagner efficacement les élèves à risque de décrochage. 
+L' "application persévérance" vise à améliorer la capacité des établissements scolaires à accompagner efficacement les élèves à risque de décrochage. 
 Les indicateurs de succès
 seront réellement connu à l'issue de l'investigation. Néanmoins, nous estimons qu'ils pourraient inclure :
 * Le suivi et la mesure du tunnel de conversion des jeunes participants au programme et poursuivant leurs cursus scolaire

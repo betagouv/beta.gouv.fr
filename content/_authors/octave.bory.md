@@ -28,6 +28,4 @@ competences:
   - Coaching
   - Gestion de Produit
   - Croissance
-teams:
-  - /teams/fast-dinum
 ---

@@ -21,6 +21,4 @@ previously:
   - pass-sport
 badges:
   - segur
-teams:
-  - /teams/animation-dinum
 ---

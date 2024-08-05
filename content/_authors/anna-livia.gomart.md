@@ -24,7 +24,5 @@ previously:
 competences:
   - Développement Backend
   - Gestion de Produit
-teams:
-  - /teams/dinum_produits_interministeriels
 ---
 Minimum effort, maximum impact.

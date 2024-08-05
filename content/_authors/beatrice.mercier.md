@@ -36,6 +36,4 @@ previously:
   - expresso
 badges:
   - segur
-teams:
-  - /teams/animation-dinum
 ---

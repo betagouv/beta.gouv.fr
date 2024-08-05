@@ -28,7 +28,5 @@ previously:
   - collectif_objets
 badges:
   - segur
-teams:
-  - /teams/animation-dinum
 link: https://www.linkedin.com/in/elsa-le-duigou-869bb311b/
 ---

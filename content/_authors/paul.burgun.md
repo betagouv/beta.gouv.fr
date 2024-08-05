@@ -17,7 +17,4 @@ previously:
   - sante-psy-etudiant
 badges:
   - segur
-teams:
-  - /teams/animation-dinum
-  - /teams/fast-dinum
 ---

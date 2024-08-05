@@ -18,8 +18,6 @@ startups:
   - exposition-ij
   - investigation-ij
   - pilotagevoiepro
-teams:
-  - /teams/mission-inserjeunes
 badges:
   - segur
 ---

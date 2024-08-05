@@ -27,7 +27,5 @@ competences:
   - Coaching
   - Product strategy
   - Facilitation
-teams:
-  - /teams/mtes
 ---
 Acrobate à impact 🤸‍♂️

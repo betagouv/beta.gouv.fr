@@ -7,6 +7,4 @@ missions:
     end: 2024-12-31
     status: admin
 memberType: beta
-teams:
-  - /teams/anct
 ---

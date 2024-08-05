@@ -4,8 +4,6 @@ domaine: Animation
 role: Responsable du design et des études
 github: louije
 link: https://meidosem.com
-teams:
-  - /teams/gip-inclusion
 missions:
   - start: 2021-03-28
     end: 2023-02-28

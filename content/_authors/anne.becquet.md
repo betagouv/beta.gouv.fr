@@ -28,8 +28,6 @@ startups:
   - tdb-apprentissage
   - la-bonne-alternance
   - voeux-apprentissage
-teams:
-  - /teams/mission-apprentissage
 link: https://www.linkedin.com/in/annebecquet
 competences:
   - Communication

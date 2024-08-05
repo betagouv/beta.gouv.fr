@@ -16,7 +16,5 @@ badges:
 previously:
   - apilos
   - l-application-du-cej
-teams:
-  - /teams/animation-dinum
 ---
 Couteau suisse (et bourguignon) de la tech, motivée par les projets à impact

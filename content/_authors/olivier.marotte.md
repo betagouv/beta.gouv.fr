@@ -7,6 +7,4 @@ missions:
     end: 2024-12-31
     status: admin
     employer: MTE-MCTRCT-Mer - DGALN
-teams:
-  - /teams/mtes
 ---

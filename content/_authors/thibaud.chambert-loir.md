@@ -10,8 +10,6 @@ missions:
     employer: Agence Nationale de Cohésion des Territoires
     startups:
       - suite.territoriale
-teams:
-  - /teams/anct
 startups:
   - suite.territoriale
 ---

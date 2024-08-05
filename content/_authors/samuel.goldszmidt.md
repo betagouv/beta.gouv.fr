@@ -8,8 +8,6 @@ missions:
     end: 2025-12-31
     status: admin
     employer: MTES-MCT
-teams:
-  - /teams/mtes
 competences:
   - Product strategy
   - Facilitation

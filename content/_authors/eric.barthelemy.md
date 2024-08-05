@@ -15,7 +15,5 @@ previously:
   - la-bonne-boite
   - memo
   - la-bonne-alternance
-teams:
-  - /teams/gip-inclusion
 ---
 Un leitmotiv: Mon action permet-elle à un demandeur d’emploi de retrouver un travail ?
