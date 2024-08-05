@@ -19,5 +19,6 @@ missions:
 startups:
   - france-numerique-ensemble
   - pass-culture
+teams: []
 ---
 Développeur fullstack

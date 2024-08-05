@@ -12,5 +12,6 @@ missions:
 startups:
   - conseillers-entreprises
 memberType: beta
+teams: []
 ---
 chargée de suivi qualité / bizdev

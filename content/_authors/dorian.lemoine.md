@@ -5,7 +5,7 @@ role: Développement
 github: dolemoine
 missions:
   - start: 2024-05-01
-    end: 2024-08-02
+    end: 2024-10-31
     status: independent
     employer: Malt
     startups:
@@ -16,4 +16,5 @@ competences:
   - JavaScript/TypeScript
   - PHP
 memberType: beta
+teams: []
 ---

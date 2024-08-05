@@ -38,4 +38,5 @@ competences:
   - Gestion de Produit
   - Administration Publique
   - Coaching
+teams: []
 ---

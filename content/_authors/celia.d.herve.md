@@ -11,5 +11,6 @@ missions:
 startups:
   - monitorfish
 memberType: beta
+teams: []
 ---
 Cheffe du Service systèmes d'information pêche du Centre national de surveillance des pêches, Intrapreneure Monitor Fish

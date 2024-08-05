@@ -13,5 +13,6 @@ badges:
   - segur
 startups:
   - données-et-territoires
+teams: []
 ---
 Un dev aussi différent que tous les autres.

@@ -9,5 +9,6 @@ missions:
     employer: DINUM
 badges:
   - segur
+teams: []
 ---
 UX Designer apprentie, grande joueuse de volley

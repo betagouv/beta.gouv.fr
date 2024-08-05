@@ -29,4 +29,5 @@ startups:
   - rdv-service-public
 competences:
   - Développement Full-stack
+teams: []
 ---

@@ -17,5 +17,6 @@ previously:
   - etudiant-entrepreneur
   - boussole
   - jeveuxaider
+teams: []
 ---
 Résiliente et engagée.

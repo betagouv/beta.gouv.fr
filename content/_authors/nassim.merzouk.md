@@ -11,16 +11,18 @@ missions:
     startups:
       - api-engagement
       - jeveuxaider
-  - start: 2023-10-01
-    end: 2024-02-28
-    status: independent
-    employer: NUMA
-    startups:
-      - dossierfacile
-      - mobilic
 startups:
   - api-engagement
 previously:
   - jeveuxaider
 link: https://www.linkedin.com/in/merzouknassim/
+competences:
+  - Croissance
+  - Coaching
+  - Communication
+  - Business Developpement
+  - Négociation
+  - Stratégie Commercial
+  - Stratégie de Partenariat
+teams: []
 ---

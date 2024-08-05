@@ -28,4 +28,5 @@ competences:
 previously:
   - cnr
   - la.bonne.renov
+teams: []
 ---

@@ -9,4 +9,5 @@ missions:
     employer: Ministère de la Justice
 badges:
   - segur
+teams: []
 ---

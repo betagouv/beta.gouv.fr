@@ -14,4 +14,5 @@ competences:
   - Facilitation
   - Coaching
 memberType: beta
+teams: []
 ---

@@ -18,5 +18,6 @@ badges:
 previously:
   - apilos
 competences: []
+teams: []
 ---
 J'aime contribuer et faire avancer les causes et les innovations

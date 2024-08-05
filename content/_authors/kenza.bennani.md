@@ -7,5 +7,6 @@ missions:
     end: 2024-08-30
     status: service
 memberType: beta
+teams: []
 ---
 Responsable de comptes chez Malt

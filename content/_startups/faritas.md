@@ -11,8 +11,15 @@ phases:
     end: 2022-12-29
   - name: alumni
     start: 2022-12-30
+  - name: acceleration
+    start: 2024-08-02
 accessibility_status: partiellement conforme
 analyse_risques: true
+thematiques: []
+usertypes:
+  - entreprise
+  - collectivite-territoriale
+techno: []
 ---
 ## Le problème: une inefficience dans la collecte et le reversement de la taxe de séjour par les plateformes numériques
 

@@ -13,5 +13,6 @@ startups:
   - tchap
 badges:
   - segur
+teams: []
 ---
 DevOps, plus Ops que Dev, mais un peu Dev quand même

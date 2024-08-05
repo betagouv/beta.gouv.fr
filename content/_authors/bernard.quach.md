@@ -16,4 +16,5 @@ startups:
   - le-taxi
 badges:
   - segur
+teams: []
 ---

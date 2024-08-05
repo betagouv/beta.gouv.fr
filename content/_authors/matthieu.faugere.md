@@ -13,5 +13,6 @@ missions:
 startups:
   - mon-suivi-justice
 competences: []
+teams: []
 ---
 Dev full stack passionné de nfl

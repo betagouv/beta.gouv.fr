@@ -13,5 +13,6 @@ competences:
   - UX
   - UI
   - Product design
+teams: []
 ---
 Une phrase... impossible !

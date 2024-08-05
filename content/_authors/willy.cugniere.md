@@ -12,4 +12,5 @@ previously:
   - aides.jeunes
 badges:
   - segur
+teams: []
 ---

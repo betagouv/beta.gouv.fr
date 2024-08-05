@@ -20,4 +20,5 @@ previously:
   - jaden.gwadloup
   - acceslibre
 link: https://www.linkedin.com/in/alexia-boulot-5711002
+teams: []
 ---

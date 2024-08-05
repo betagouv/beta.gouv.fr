@@ -13,4 +13,5 @@ startups:
   - demarches-simplifiees.fr
 previously:
   - eva
+teams: []
 ---

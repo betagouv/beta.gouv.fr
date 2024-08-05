@@ -14,5 +14,6 @@ startups:
 competences:
   - Croissance
   - Communication
+teams: []
 ---
 Chargé de déploiement pour Aidants Connect

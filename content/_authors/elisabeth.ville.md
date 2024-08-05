@@ -14,5 +14,6 @@ missions:
 startups:
   - bat-id
 memberType: beta
+teams: []
 ---
 Passionnée d'innovation & Legal Design
