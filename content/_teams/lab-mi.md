@@ -1,4 +1,5 @@
 ---
 name: Animation
-incubator: lab-mi
+incubator: /incubators/lab-mi
+mission: ''
 ---
