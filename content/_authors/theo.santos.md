@@ -14,5 +14,6 @@ previously:
 startups:
   - agora
 memberType: beta
+teams: []
 ---
 Data Engineer pour le projet Agora

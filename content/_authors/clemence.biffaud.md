@@ -26,5 +26,6 @@ previously:
   - artsducirque
 competences:
   - Coaching
+teams: []
 ---
 Service designer enthousiaste

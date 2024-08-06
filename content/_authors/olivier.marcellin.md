@@ -18,5 +18,6 @@ startups:
   - la-bonne-boite
 previously:
   - demarches-simplifiees.fr
+teams: []
 ---
 UX Designer

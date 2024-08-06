@@ -12,4 +12,5 @@ startups:
   - oilhi
 competences:
   - Administration Publique
+teams: []
 ---

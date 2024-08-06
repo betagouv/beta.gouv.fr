@@ -14,4 +14,5 @@ competences:
   - Product strategy
   - Coaching
 memberType: beta
+teams: []
 ---

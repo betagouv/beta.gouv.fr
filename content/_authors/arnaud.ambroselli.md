@@ -15,5 +15,6 @@ startups:
   - mano
 badges:
   - segur
+teams: []
 ---
 Développeur

@@ -18,4 +18,5 @@ previously:
   - cmachance
 badges:
   - segur
+teams: []
 ---

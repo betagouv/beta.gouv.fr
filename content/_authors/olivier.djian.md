@@ -8,4 +8,5 @@ missions:
     end: 2026-12-31
     status: admin
     employer: minint
+teams: []
 ---

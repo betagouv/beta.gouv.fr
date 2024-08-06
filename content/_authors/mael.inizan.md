@@ -32,5 +32,6 @@ competences:
   - Coaching
   - Croissance
   - Gestion de Produit
+teams: []
 ---
 Looking for problems worth solving

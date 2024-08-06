@@ -13,5 +13,6 @@ startups:
 badges:
   - segur
 domaine: Développement
+teams: []
 ---
 Developpeur, gamer, danseur.

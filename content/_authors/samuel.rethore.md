@@ -11,5 +11,6 @@ missions:
       - stargate
 startups:
   - stargate
+teams: []
 ---
 Bon vivant et amateur d'expériences culinaires

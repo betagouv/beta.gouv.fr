@@ -18,5 +18,6 @@ competences:
   - Product design
   - Accessibilité
   - UI
+teams: []
 ---
 Designer UX

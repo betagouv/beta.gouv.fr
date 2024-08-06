@@ -15,4 +15,5 @@ startups:
   - les-emplois
 competences:
   - Croissance
+teams: []
 ---

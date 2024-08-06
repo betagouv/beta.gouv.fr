@@ -12,6 +12,7 @@ competences:
   - Coaching
   - Administration Publique
 memberType: autre
+teams: []
 ---
 Impact Hacker | Économiste [PhD, 2017 à PSE-Ecole d'Economie de Paris].
 

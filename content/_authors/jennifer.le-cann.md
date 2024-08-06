@@ -13,5 +13,6 @@ missions:
 startups:
   - oscars
   - cassiopee
+teams: []
 ---
 UX/UI

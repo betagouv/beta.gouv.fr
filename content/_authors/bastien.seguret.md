@@ -16,5 +16,6 @@ competences:
   - UI
   - Intrapreneur(se)
 memberType: beta
+teams: []
 ---
 Accompagner les entrepreneurs dans la définition et la consolidation de la vision de leurs produit/service à impacte positif sur notre société.

@@ -13,5 +13,6 @@ missions:
       - tchap
 startups:
   - tchap
+teams: []
 ---
 Designer numérique et associé chez NoDesign.

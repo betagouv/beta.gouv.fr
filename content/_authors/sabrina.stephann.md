@@ -12,4 +12,5 @@ missions:
 memberType: dinum
 startups:
   - annuaire-entreprises
+teams: []
 ---

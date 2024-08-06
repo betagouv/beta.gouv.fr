@@ -11,4 +11,5 @@ missions:
 startups:
   - trackdechets
 memberType: autre
+teams: []
 ---

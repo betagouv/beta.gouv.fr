@@ -10,5 +10,6 @@ missions:
     employer: scopyleft
 badges:
   - segur
+teams: []
 ---
 Accompagnement sur l'identité visuelle des Start-ups

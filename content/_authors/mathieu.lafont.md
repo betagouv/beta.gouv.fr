@@ -17,4 +17,5 @@ startups:
   - e-chauffeur
   - sepia
   - anais
+teams: []
 ---

@@ -13,5 +13,6 @@ missions:
 startups:
   - ecobalyse
 memberType: autre
+teams: []
 ---
 Designer

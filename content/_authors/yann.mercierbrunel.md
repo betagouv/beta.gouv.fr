@@ -7,5 +7,6 @@ missions:
     end: 2021-12-31
     status: admin
     employer: MESRI
+teams: []
 ---
 Intrapreneur pour le dispositif Santé Psy Etudiants, enseignant-chercheur mis à disposition du MESRI.

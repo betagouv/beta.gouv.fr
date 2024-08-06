@@ -22,5 +22,6 @@ startups:
 previously:
   - inclusion.connect
   - la-bonne-boite
+teams: []
 ---
 Développeuse curieuse. Amatrice de blagues pas drôles, de gens trop enthousiastes et d'idées folles.

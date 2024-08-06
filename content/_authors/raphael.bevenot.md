@@ -9,5 +9,6 @@ missions:
     status: admin
     employer: DNUM MI
 memberType: beta
+teams: []
 ---
 Réutilisateur de données de père en fils, fils de cheminot.

@@ -13,4 +13,5 @@ startups:
   - rdv.insertion
 competences:
   - Développement Backend
+teams: []
 ---

@@ -14,5 +14,6 @@ startups:
 competences:
   - Développement Frontend
   - Développement Backend
+teams: []
 ---
 Développeur

@@ -11,4 +11,6 @@ missions:
     employer: PathTech
     startups:
       - pass-sport
+link: https://www.linkedin.com/in/antoine-saillant/
+teams: []
 ---
