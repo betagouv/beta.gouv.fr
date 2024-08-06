@@ -10,9 +10,10 @@ competences:
 missions:
   - start: 2024-08-05
     end: 2024-11-05
-    employer: Ippon
     status: service
+    employer: Ippon
     startups:
       - mon-aide-cyber
+teams: []
 ---
 Développeur Fullstack

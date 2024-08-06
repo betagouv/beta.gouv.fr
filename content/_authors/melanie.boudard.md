@@ -12,5 +12,6 @@ missions:
       - pix
 startups:
   - pix
+teams: []
 ---
 Développeuse travaillant chez Octo Technology, en mission chez Pix.

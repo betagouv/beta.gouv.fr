@@ -27,5 +27,6 @@ competences:
   - Product design
   - UX
   - UI
+teams: []
 ---
 UX Designer ex Akeneo  Greenly, entre Nantes et Lorient ⚓️

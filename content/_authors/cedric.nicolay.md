@@ -14,5 +14,6 @@ startups:
   - estime
 badges:
   - segur
+teams: []
 ---
 la vie est un jeu... dont chacun écrit les règles

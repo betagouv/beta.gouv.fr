@@ -14,4 +14,5 @@ github: lsaudon
 competences:
   - Développement Frontend
 memberType: beta
+teams: []
 ---

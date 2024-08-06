@@ -13,5 +13,6 @@ missions:
     employer: ANCT
     startups:
       - données-et-territoires
+teams: []
 ---
 Ancien de NYC Planning Labs, Code for America Brigade. 🇫🇷🇺🇸

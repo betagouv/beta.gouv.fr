@@ -8,7 +8,6 @@ missions:
     end: 2026-12-31
     status: admin
 memberType: beta
-teams:
-  - /teams/animation-dinum
+teams: []
 link: https://www.linkedin.com/in/yowamuzadi/
 ---

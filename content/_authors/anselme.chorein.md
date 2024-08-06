@@ -14,4 +14,5 @@ github: achorein
 competences:
   - Développement Full-stack
 memberType: beta
+teams: []
 ---

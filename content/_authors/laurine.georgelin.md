@@ -12,5 +12,6 @@ missions:
 startups:
   - mon-suivi-justice
 memberType: autre
+teams: []
 ---
 Stagiaire les mercredis et vendredis, étudiante le reste de la semaine !

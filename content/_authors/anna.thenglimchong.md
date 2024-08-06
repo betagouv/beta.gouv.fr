@@ -14,4 +14,5 @@ badges:
   - segur
 competences:
   - UX
+teams: []
 ---

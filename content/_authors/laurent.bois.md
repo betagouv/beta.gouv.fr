@@ -8,5 +8,6 @@ missions:
     end: 2021-06-29
     status: admin
     employer: DINUM
+teams: []
 ---
 Développeur senior sur Java, SGBD et Node.js, aussi un passage sur Ruby pendant 4 ans

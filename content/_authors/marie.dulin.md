@@ -13,5 +13,6 @@ missions:
 startups:
   - mistral-penal
 memberType: beta
+teams: []
 ---
 Conceptrice passionnée et enthousiaste de produits utiles

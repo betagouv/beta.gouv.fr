@@ -14,4 +14,5 @@ startups:
   - sndv_maritime
 competences:
   - Administration Système
+teams: []
 ---

@@ -13,5 +13,6 @@ previously:
   - psij
 competences:
   - Coaching
+teams: []
 ---
 Coach startup à l'incubateur du LabMI

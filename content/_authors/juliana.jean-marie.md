@@ -15,4 +15,5 @@ startups:
 memberType: beta
 previously:
   - trackdechets
+teams: []
 ---

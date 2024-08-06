@@ -14,5 +14,6 @@ startups:
   - exposition-ij
   - investigation-ij
 memberType: beta
+teams: []
 ---
 PO le jour, bénévole la nuit.

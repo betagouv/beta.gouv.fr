@@ -8,4 +8,5 @@ missions:
     status: service
     employer: SDIT
 memberType: autre
+teams: []
 ---

@@ -12,5 +12,6 @@ missions:
       - sppnaut
 startups:
   - sppnaut
+teams: []
 ---
 Ingénieur hydrographe au Shom

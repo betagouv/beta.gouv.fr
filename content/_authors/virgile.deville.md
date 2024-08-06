@@ -12,8 +12,7 @@ missions:
     startups:
       - umap
 memberType: beta
-teams:
-  - /teams/accelerateur-initiatives-citoyennes
+teams: []
 startups:
   - umap
 ---

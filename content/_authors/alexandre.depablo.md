@@ -11,5 +11,6 @@ missions:
       - api-entreprise
 startups:
   - api-entreprise
+teams: []
 ---
 Ah, Biographie ! … Biographie…

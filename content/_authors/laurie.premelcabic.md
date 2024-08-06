@@ -12,5 +12,6 @@ startups:
   - oilhi
 competences:
   - Coaching
+teams: []
 ---
 Coach Produit la moitié de mon temps, coach en développement professionnel l'autre moitié.

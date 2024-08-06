@@ -13,5 +13,6 @@ startups:
   - api-engagement
 memberType: beta
 competences: []
+teams: []
 ---
 E-commerce / Growth Hacking / Product Owner

@@ -20,5 +20,6 @@ startups:
   - place-de-marche-inclusion
 previously:
   - andi
+teams: []
 ---
 42

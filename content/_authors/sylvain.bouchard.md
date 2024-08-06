@@ -18,5 +18,6 @@ competences:
   - Facilitation
   - Administration Publique
 link: https://www.linkedin.com/in/sylvain-bouchard-b67282104/
+teams: []
 ---
 Chef de projet innovation et numérique d'intérêt général

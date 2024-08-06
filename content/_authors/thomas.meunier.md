@@ -11,5 +11,6 @@ missions:
       - signaux-faibles
 startups:
   - signaux-faibles
+teams: []
 ---
 Je suis stagiaire à l'INRIA et je vais tenter d'aider Signaux Faibles dans leur mission de sauvetage!

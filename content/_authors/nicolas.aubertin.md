@@ -8,5 +8,6 @@ missions:
     status: admin
     employer: DINUM
 memberType: autre
+teams: []
 ---
 Intrapreuneur : amélioration du parcours RH

@@ -32,4 +32,5 @@ competences:
   - Product strategy
   - Facilitation
   - Coaching
+teams: []
 ---

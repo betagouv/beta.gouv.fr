@@ -17,4 +17,5 @@ previously:
   - recosante
 competences:
   - Gestion de Produit
+teams: []
 ---

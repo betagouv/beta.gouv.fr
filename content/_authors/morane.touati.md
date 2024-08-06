@@ -14,4 +14,5 @@ competences:
   - UX
   - UX Writing
 memberType: beta
+teams: []
 ---

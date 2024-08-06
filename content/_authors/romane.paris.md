@@ -9,4 +9,5 @@ missions:
 startups:
   - france.nation.verte.agir
 memberType: beta
+teams: []
 ---

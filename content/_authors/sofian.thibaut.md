@@ -12,4 +12,5 @@ missions:
       - mon-diagnostic-artificialisation
 startups:
   - mon-diagnostic-artificialisation
+teams: []
 ---
