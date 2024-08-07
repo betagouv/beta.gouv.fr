@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2024-07-01
     end: 2024-12-05
-    employer: Miom
     status: admin
+    employer: Miom
     startups:
       - suite-numerique
 ---
