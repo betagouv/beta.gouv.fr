@@ -11,15 +11,11 @@ usertypes:
 title: DatAlma
 mission: Permettre un pilotage des politiques publiques par la donnée en permettant un accès facilité aux données pour les décideurs politiques.
 incubator: dinum
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2024-08-06
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-08-06
 ---
 ## Contexte
