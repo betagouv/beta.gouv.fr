@@ -11,16 +11,19 @@ usertypes:
 title: DatAlma
 mission: Permettre un pilotage des politiques publiques par la donnée en permettant un accès facilité aux données pour les décideurs politiques.
 incubator: dinum
-sponsors: []
+sponsors:
+  - /organisations/pr
 phases:
   - name: investigation
-    comment: null
-    start: 2024-08-06
-    end: null
+    start: 2023-11-22
+  - name: construction
+    start: 2024-06-26
 events:
-  - name: product_launch
-    comment: ''
-    date: 2024-08-06
+  - name: committee
+    date: 2024-05-22
+    comment: Restitution de l'investigation
+repository: https://gitlab.com/datalab5084531/DatAlma
+techno: []
 ---
 ## Contexte
 En 2023, la Présidence de la République crée le DataLab, équipe chargée du développement d'outils d'analyse de données et de la transformation numérique (automatisations, IA...) au sein de la Présidence, afin d'aider les agents de l'Élysée dans leur quotidien. Le DataLab a notamment travaillé sur un outil d'analyse et de veille complet sur les données de la presse, un outil d'analyse textométrique, la création d'un équivalent de "ChatGPT" interne calibré pour les besoins de la Présidence...

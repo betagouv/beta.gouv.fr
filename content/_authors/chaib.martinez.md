@@ -59,7 +59,6 @@ competences:
   - SEM
   - Croissance
 teams:
-  - /teams/communaute-dinum
   - /teams/fast-dinum
 ---
 Accélérateur de startups d'État. Acquisition, Activation, Retention, Referral, Impact 👊
