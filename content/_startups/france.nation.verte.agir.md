@@ -5,7 +5,7 @@ sponsors:
   - /organisations/sgpe
 incubator: dinum
 link: https://agir.beta.gouv.fr
-contact: agir@beta.gouv.fr
+contact: contact@agir.beta.gouv.fr
 accessibility_status: partiellement conforme
 repository: https://github.com/betagouv/agir-back
 phases:
@@ -15,6 +15,8 @@ phases:
     start: 2023-06-01
 thematiques:
   - Écologie
+usertypes: []
+techno: []
 ---
 ## Contexte
 
