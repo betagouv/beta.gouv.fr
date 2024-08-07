@@ -12,5 +12,6 @@ missions:
       - les-emplois
 startups:
   - les-emplois
+teams: []
 ---
 Freelance Social Media basée à Toulouse !

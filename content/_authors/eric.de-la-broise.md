@@ -11,5 +11,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+teams: []
 ---
 14 ans d'expérience en tant que Data Analyst et entrepreneur enthousiaste.

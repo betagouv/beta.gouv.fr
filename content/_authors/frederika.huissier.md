@@ -10,5 +10,6 @@ missions:
       - ma-cantine-egalim
 startups:
   - ma-cantine-egalim
+teams: []
 ---
 Apporte des nutriments nécessaires à la plateforme ma-cantine - travaille au Bureau de l'Alimentation du ministère

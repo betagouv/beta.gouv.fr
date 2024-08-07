@@ -20,8 +20,7 @@ startups:
 previously:
   - a-just
 memberType: beta
-teams:
-  - /teams/mtes
+teams: []
 competences:
   - Intrapreneur(se)
   - Droit / Affaires juridiques

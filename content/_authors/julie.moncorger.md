@@ -13,5 +13,6 @@ missions:
 startups:
   - sppnaut
 memberType: beta
+teams: []
 ---
 Couteau suisse avec des connaissances en cartographie, qualité de service, programmation python et php, développement produit, MOA.

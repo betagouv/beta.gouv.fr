@@ -11,5 +11,6 @@ missions:
 memberType: beta
 competences:
   - Intrapreneur(se)
+teams: []
 ---
 Application de repérage automatique sur images de constructions et installations illégales

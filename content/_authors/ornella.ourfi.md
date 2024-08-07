@@ -14,5 +14,6 @@ startups:
   - france-numerique-ensemble
 badges:
   - segur
+teams: []
 ---
 Développeuse Web full stack

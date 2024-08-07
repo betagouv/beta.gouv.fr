@@ -13,4 +13,5 @@ missions:
 startups:
   - ban
 memberType: beta
+teams: []
 ---

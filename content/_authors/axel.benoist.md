@@ -9,5 +9,6 @@ missions:
     employer: DRIEAT
 previously:
   - chauffage-urbain
+teams: []
 ---
 Chargé de mission en charge du développement des énergies renouvelables

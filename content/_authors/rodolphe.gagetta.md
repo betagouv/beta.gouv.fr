@@ -22,5 +22,6 @@ badges:
   - segur
 competences:
   - Communication
+teams: []
 ---
 La curiosité comme moteur, j'ai l'enthousiasme comme essence.

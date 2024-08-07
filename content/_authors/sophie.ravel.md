@@ -12,5 +12,6 @@ previously:
   - metiers-numeriques
 badges:
   - segur
+teams: []
 ---
 Intrapreneuse, curieuse, j'aime la nouveauté, le changement et apprendre sans cesse de nouvelles choses !

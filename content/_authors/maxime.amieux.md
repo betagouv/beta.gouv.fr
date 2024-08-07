@@ -13,5 +13,6 @@ startups:
   - reva
 memberType: beta
 link: https://www.linkedin.com/in/maxamieux/
+teams: []
 ---
 Communicant

@@ -33,5 +33,6 @@ competences:
   - Figma
   - UI
   - Product design
+teams: []
 ---
 UX/UI Designer

@@ -17,4 +17,5 @@ competences:
   - Développement Full-stack
   - Développement Frontend
   - Développement Backend
+teams: []
 ---

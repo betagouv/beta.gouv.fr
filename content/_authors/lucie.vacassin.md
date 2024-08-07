@@ -11,4 +11,5 @@ missions:
 startups:
   - envergo
 memberType: beta
+teams: []
 ---

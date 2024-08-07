@@ -10,5 +10,6 @@ missions:
 previously:
   - conseillers-entreprises
   - signaux-faibles
+teams: []
 ---
 Mission: sauver les entreprises qui vont mal.

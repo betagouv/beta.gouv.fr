@@ -16,5 +16,6 @@ startups:
   - api-entreprise
   - api-particulier
   - datapass
+teams: []
 ---
 Rails, Music, Fun and games. Such experience, much skill, very work.

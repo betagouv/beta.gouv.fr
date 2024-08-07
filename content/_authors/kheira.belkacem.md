@@ -12,4 +12,5 @@ missions:
 startups:
   - tchap
 memberType: dinum
+teams: []
 ---

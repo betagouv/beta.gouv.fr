@@ -16,5 +16,6 @@ startups:
   - reva
 competences:
   - Gestion de Produit
+teams: []
 ---
 Curieuse, impliquée, impertinente et heureuse !
