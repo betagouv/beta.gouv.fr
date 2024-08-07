@@ -13,4 +13,5 @@ github: inemesis
 competences:
   - Développement
 memberType: beta
+teams: []
 ---

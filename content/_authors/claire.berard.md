@@ -13,5 +13,6 @@ competences:
   - Communication
   - Facilitation
   - Coaching
+teams: []
 ---
 Coach startup d’État et chargée de communication innovation

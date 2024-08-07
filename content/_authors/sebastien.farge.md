@@ -10,4 +10,5 @@ missions:
     startups:
       - encyclopedie-des-metiers
 memberType: beta
+teams: []
 ---

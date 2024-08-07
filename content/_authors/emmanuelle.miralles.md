@@ -11,4 +11,5 @@ missions:
 startups:
   - icare-complements-alimentaires
 memberType: beta
+teams: []
 ---

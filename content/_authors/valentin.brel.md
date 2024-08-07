@@ -14,4 +14,5 @@ previously:
 badges:
   - segur
 github: valentinbrel
+teams: []
 ---

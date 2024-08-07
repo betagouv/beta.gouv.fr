@@ -13,4 +13,5 @@ competences:
   - UX
   - Product strategy
 memberType: beta
+teams: []
 ---

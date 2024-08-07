@@ -16,4 +16,5 @@ competences:
   - JavaScript/TypeScript
   - PHP
 memberType: beta
+teams: []
 ---

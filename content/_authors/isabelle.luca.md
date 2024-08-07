@@ -10,4 +10,5 @@ missions:
     startups:
       - formsformulaire
 memberType: beta
+teams: []
 ---

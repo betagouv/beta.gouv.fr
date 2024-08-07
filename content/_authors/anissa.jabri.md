@@ -11,4 +11,5 @@ missions:
 memberType: autre
 startups:
   - jafer
+teams: []
 ---

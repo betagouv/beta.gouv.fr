@@ -34,5 +34,6 @@ previously:
   - rdv-service-public
 badges:
   - segur
+teams: []
 ---
 Tout faire pour les humain·e·s

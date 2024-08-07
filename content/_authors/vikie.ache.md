@@ -34,4 +34,5 @@ competences:
   - Intrapreneur(se)
   - SEO
 link: https://www.linkedin.com/in/vikie-ache-896ba1164/
+teams: []
 ---

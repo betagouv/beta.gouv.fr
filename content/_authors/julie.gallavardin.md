@@ -13,5 +13,6 @@ startups:
   - l-application-du-cej
 badges:
   - segur
+teams: []
 ---
 La donnée au coeur de la mesure et du pilotage

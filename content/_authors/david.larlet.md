@@ -19,5 +19,6 @@ previously:
   - api-drones
   - zam
   - visam
+teams: []
 ---
 Artisan, geek et citoyen.

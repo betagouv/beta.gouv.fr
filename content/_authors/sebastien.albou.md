@@ -13,5 +13,6 @@ missions:
 startups:
   - snu
 memberType: beta
+teams: []
 ---
 Data Analyst / Coach Tableau & SQL

@@ -25,5 +25,6 @@ competences:
   - UI
   - Product design
   - Product strategy
+teams: []
 ---
 Recherche utilisateurs, prototype & design d'interfaces

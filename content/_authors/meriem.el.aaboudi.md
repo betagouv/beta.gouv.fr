@@ -10,4 +10,5 @@ competences:
   - Product strategy
   - Communication
 memberType: beta
+teams: []
 ---

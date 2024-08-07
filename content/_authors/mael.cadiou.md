@@ -11,5 +11,6 @@ missions:
 startups:
   - anct-pni-46
 memberType: beta
+teams: []
 ---
 Développeur le jour, joueur de piano  la nuit

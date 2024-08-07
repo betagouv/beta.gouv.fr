@@ -18,4 +18,5 @@ startups:
   - bat-id
   - decl-bombarbier-eau
 memberType: beta
+teams: []
 ---

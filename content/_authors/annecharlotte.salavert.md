@@ -14,5 +14,6 @@ startups:
   - monpsy
 competences:
   - Administration Publique
+teams: []
 ---
 chargée de mission à la direction de la sécurité sociale sur le projet PsyEnfantAdo
