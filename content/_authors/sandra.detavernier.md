@@ -13,5 +13,6 @@ missions:
 startups:
   - lannuaire.des.collectivites
 memberType: beta
+teams: []
 ---
 Chargée de déploiement, Annuaire des collectivités

@@ -14,5 +14,6 @@ missions:
     employer: Fabrique Numérique des Ministères Sociaux
 startups:
   - e-mjpm
+teams: []
 ---
 Open-Source Fanatic 🦊

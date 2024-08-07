@@ -21,5 +21,6 @@ competences:
   - Product design
   - ui
   - Communication
+teams: []
 ---
 Service & Product designer freelance basée à Nantes, engagée dans des missions à impact et d'intérêt général. #conseil #ux #direction-créative

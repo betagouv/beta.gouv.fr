@@ -11,5 +11,6 @@ missions:
 startups:
   - compte.ressources
 memberType: beta
+teams: []
 ---
 Intra Compte-ressources - Professeure documentaliste - Formatrice DANE Créteil

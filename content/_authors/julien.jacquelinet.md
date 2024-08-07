@@ -16,5 +16,6 @@ competences:
   - Développement Full-stack
   - DevOps
 memberType: beta
+teams: []
 ---
 Ingénieur Informatique - Python, Web, traitement de données, SIG / GIS, devops

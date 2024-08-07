@@ -22,4 +22,5 @@ competences:
   - Sécurité informatique
   - Développement Full-stack
 link: https://www.linkedin.com/in/moroine/
+teams: []
 ---

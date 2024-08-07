@@ -17,17 +17,13 @@ sponsors:
   - /organisations/pr
 phases:
   - name: investigation
-    comment: null
     start: 2023-11-22
-    end: null
   - name: construction
-    comment: null
     start: 2024-06-26
-    end: null
 events:
   - name: committee
-    comment: Restitution de l'investigation
     date: 2024-05-22
+    comment: Restitution de l'investigation
 ---
 ## Contexte
 En 2023, la Présidence de la République crée le DataLab, équipe chargée du développement d'outils d'analyse de données et de la transformation numérique (automatisations, IA...) au sein de la Présidence, afin d'aider les agents de l'Élysée dans leur quotidien. Le DataLab a notamment travaillé sur un outil d'analyse et de veille complet sur les données de la presse, un outil d'analyse textométrique, la création d'un équivalent de "ChatGPT" interne calibré pour les besoins de la Présidence...

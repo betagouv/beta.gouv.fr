@@ -15,4 +15,5 @@ missions:
     startups:
       - icare-complements-alimentaires
       - plateforme-agriculteurs
+teams: []
 ---

@@ -18,6 +18,5 @@ previously:
 badges:
   - segur
 github: jihanehrz
-teams:
-  - /teams/animation-dinum
+teams: []
 ---

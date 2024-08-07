@@ -15,5 +15,6 @@ startups:
   - histologe
   - stop-punaises
 memberType: beta
+teams: []
 ---
 Développeuse PHP/JS

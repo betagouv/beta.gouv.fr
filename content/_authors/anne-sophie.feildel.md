@@ -12,4 +12,5 @@ missions:
       - devoirs-faits-communaute
 startups:
   - devoirs-faits-communaute
+teams: []
 ---

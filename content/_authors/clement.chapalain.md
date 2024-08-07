@@ -17,4 +17,5 @@ startups:
   - didoc
 previously:
   - gps-usagers
+teams: []
 ---

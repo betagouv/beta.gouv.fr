@@ -12,5 +12,6 @@ missions:
       - signalement
 startups:
   - signalement
+teams: []
 ---
 Développeur le jour (et la nuit), passionné d'arts martiaux

@@ -13,5 +13,6 @@ missions:
 memberType: autre
 startups:
   - france.nation.verte.agir
+teams: []
 ---
 Développeur full stack orienté front

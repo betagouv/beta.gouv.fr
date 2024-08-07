@@ -6,4 +6,5 @@ missions:
   - start: 2021-11-03
     end: 2022-02-03
     status: service
+teams: []
 ---

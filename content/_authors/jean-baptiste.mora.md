@@ -13,5 +13,6 @@ missions:
       - mrs
 startups:
   - mrs
+teams: []
 ---
 Développeur web Front et Back / Sys-admin / DevOps à Toulouse.

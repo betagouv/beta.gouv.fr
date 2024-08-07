@@ -19,5 +19,6 @@ previously:
   - sppnaut
 badges:
   - segur
+teams: []
 ---
 Envie de créer pour l'interêt général

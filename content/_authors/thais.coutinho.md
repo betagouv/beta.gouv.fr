@@ -12,5 +12,6 @@ missions:
       - infomedicament
 memberType: autre
 competences: []
+teams: []
 ---
 Designer de service UX

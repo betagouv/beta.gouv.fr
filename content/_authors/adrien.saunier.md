@@ -13,5 +13,6 @@ startups:
   - pass-culture
 previously:
   - pix
+teams: []
 ---
 Inventeur de blagues nulles, Eleveur de loutres Anciennement Tech-Lead sur Pix

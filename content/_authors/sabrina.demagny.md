@@ -14,4 +14,5 @@ competences:
   - Développement
   - Développement Backend
 memberType: beta
+teams: []
 ---
