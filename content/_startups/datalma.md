@@ -2,28 +2,32 @@
 analyse_risques: false
 mon_service_securise: false
 contact: datalab@elysee.fr
+repository: https://gitlab.com/datalab5084531/datalma
 thematiques:
   - Administratif
   - Open-Data
   - Santé
 usertypes:
   - etat
-title: DatAlma
+techno: []
+title: Datalma
 mission: Permettre un pilotage des politiques publiques par la donnée en permettant un accès facilité aux données pour les décideurs politiques.
 incubator: dinum
 sponsors:
   - /organisations/pr
 phases:
   - name: investigation
+    comment: null
     start: 2023-11-22
+    end: null
   - name: construction
+    comment: null
     start: 2024-06-26
+    end: null
 events:
   - name: committee
-    date: 2024-05-22
     comment: Restitution de l'investigation
-repository: https://gitlab.com/datalab5084531/DatAlma
-techno: []
+    date: 2024-05-22
 ---
 ## Contexte
 En 2023, la Présidence de la République crée le DataLab, équipe chargée du développement d'outils d'analyse de données et de la transformation numérique (automatisations, IA...) au sein de la Présidence, afin d'aider les agents de l'Élysée dans leur quotidien. Le DataLab a notamment travaillé sur un outil d'analyse et de veille complet sur les données de la presse, un outil d'analyse textométrique, la création d'un équivalent de "ChatGPT" interne calibré pour les besoins de la Présidence...
