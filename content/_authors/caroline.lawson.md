@@ -16,4 +16,5 @@ competences:
 previously:
   - aidantsconnect
   - tchap
+teams: []
 ---

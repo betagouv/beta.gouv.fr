@@ -8,5 +8,6 @@ missions:
     status: service
     employer: Numéricité
 memberType: autre
+teams: []
 ---
 Juriste en droit du numérique

@@ -11,5 +11,6 @@ previously:
   - camino
 badges:
   - segur
+teams: []
 ---
 Chargé de déploiement CAMINO

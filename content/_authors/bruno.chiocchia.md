@@ -10,4 +10,5 @@ missions:
     startups:
       - monstage
 memberType: autre
+teams: []
 ---

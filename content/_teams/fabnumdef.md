@@ -1,5 +1,5 @@
 ---
 name: Animation
-incubator: fabnumdef
+incubator: /incubators/fabnumdef
 mission: ''
 ---

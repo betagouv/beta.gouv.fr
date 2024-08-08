@@ -13,5 +13,6 @@ missions:
 startups:
   - tchap
 memberType: beta
+teams: []
 ---
 Développeur backend  SRE  expert Matrix

@@ -11,5 +11,6 @@ missions:
     employer: Fairness
 badges:
   - segur
+teams: []
 ---
 Facilitateur au sein de la Zone Développeur Full Stack JS aimant le code utile et bien conçu

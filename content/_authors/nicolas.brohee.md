@@ -9,5 +9,6 @@ missions:
     employer: octo
 previously:
   - etudiant-entrepreneur
+teams: []
 ---
 Ne blâme pas les usagers: améliore le système !

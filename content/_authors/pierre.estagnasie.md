@@ -12,4 +12,5 @@ missions:
 startups:
   - sirius
 memberType: beta
+teams: []
 ---

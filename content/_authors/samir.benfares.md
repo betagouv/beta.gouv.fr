@@ -31,5 +31,6 @@ competences:
   - PostgreSQL
   - Sécurité informatique
   - Croissance
+teams: []
 ---
 J'aspire à améliorer le monde en construisant des produits numériques ayant de l'impact.

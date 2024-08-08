@@ -11,5 +11,6 @@ missions:
 startups:
   - snu
 memberType: beta
+teams: []
 ---
 Marketeuse la majorité de la semaine et en préparation de concours administratifs les vendredis !

@@ -12,4 +12,5 @@ missions:
 startups:
   - longuevieauxobjets
 memberType: beta
+teams: []
 ---

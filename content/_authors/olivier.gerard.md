@@ -15,5 +15,6 @@ previously:
   - eva
 competences:
   - Coaching
+teams: []
 ---
 Un expert des politiques d'emploi/formation  et de leurs écosystèmes. Bonne connaissance du système de la formation professionnelle

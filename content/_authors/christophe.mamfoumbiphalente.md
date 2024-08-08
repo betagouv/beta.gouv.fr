@@ -12,5 +12,6 @@ startups:
 badges:
   - segur
 domaine: Design
+teams: []
 ---
 Designer de service, passionné par les problématiques à fort impact sociales, artiste musicien

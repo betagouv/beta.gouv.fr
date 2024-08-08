@@ -7,5 +7,6 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ANCT
+teams: []
 ---
 Du milieu des collectivités aux startups d'Etat il n'y a qu'un pas !

@@ -9,5 +9,6 @@ missions:
     status: service
     employer: octo
 memberType: autre
+teams: []
 ---
 coach produit

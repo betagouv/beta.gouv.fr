@@ -13,5 +13,6 @@ missions:
       - aidantsconnect
 startups:
   - aidantsconnect
+teams: []
 ---
 La vie n'est marrante qu'en apprenant. Aussi: chats !
