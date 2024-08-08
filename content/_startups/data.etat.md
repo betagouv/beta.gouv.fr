@@ -1,11 +1,11 @@
 ---
 link: https://www.dataregion.fr/
-mission: '- partager, visualiser et réutiliser la donnée financière de l’État et ses opérateurs pour mieux piloter les politiques publiques'
+mission: Partager, visualiser et réutiliser la donnée financière de l’État et ses opérateurs pour mieux piloter les politiques publiques
 repository: https://github.com/dataregion
 incubator: dinum
-title: DATA ETAT
+title: Data-État
 contact: julien.kounowski@bretagne.gouv.fr
-accessibility_status: partiellement conforme
+accessibility_status: non conforme
 sponsors:
   - /organisations/interieur
 phases:
@@ -15,6 +15,12 @@ phases:
     start: 2023-03-01
   - name: acceleration
     start: 2024-02-01
+thematiques:
+  - Open-Data
+usertypes:
+  - etat
+  - collectivite-territoriale
+techno: []
 ---
 ## Contexte
 
@@ -22,11 +28,11 @@ Lancé suite au plan de Relance avec l'enjeu de ne plus avoir à utiliser AirTab
 
 ## Problème
 
-Comment utiliser les données dont comptable de l'Etat (exemple CHORUS) et de ses opérateurs pour en faire une donnée intelligible et réutilisable pour les agents métiers et leur donner enfin une vision complète des financements publics sur les territoires pour mieux piloter les politiques publiques en toute interministérialité ?
+Comment rendre les données comptables de l'Etat (exemple CHORUS) et de ses opérateurs intelligibles et réutilisables pour les agents métiers et leur donner enfin une vision complète des financements publics sur les territoires pour mieux piloter les politiques publiques en toute interministérialité ?
 
 ## Solution
 
-DATA ETAT est la création par l'administration territoriale de l'Etat d'une nouvelle infrastructure de partage et de réutilisation de la donnée de l'Etat et ses opérateurs. Via différentes solutions : tableaux dynamiques, graphiques/ DATAVIZ, cartographique... donner via des outils libres, souverains et no code la main à tous les agents métiers pour accéder aux données et à les réutiliser pour améliorer l'action publique.
+Data-État est la création par l'administration territoriale de l'Etat d'une nouvelle infrastructure de partage et de réutilisation de la donnée de l'Etat et ses opérateurs. Via différentes solutions : tableaux dynamiques, graphiques/ data viz, cartographique... via des outils libres, souverains et no code, mettre à la main de tous les agents métiers la possibilité d'accéder aux données et de les réutiliser pour améliorer l'action publique.
 
 ## Stratégie
 
