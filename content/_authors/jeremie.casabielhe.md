@@ -14,4 +14,5 @@ startups:
   - monpsy
 competences:
   - Administration Publique
+teams: []
 ---

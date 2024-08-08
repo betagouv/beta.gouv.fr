@@ -8,5 +8,6 @@ missions:
     end: 2022-12-22
     status: admin
     employer: MINARM
+teams: []
 ---
 Développeur front et joueur de cornemuses à mes temps perdus

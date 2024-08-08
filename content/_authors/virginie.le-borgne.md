@@ -13,4 +13,5 @@ startups:
   - emile
 badges:
   - segur
+teams: []
 ---

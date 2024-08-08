@@ -1,6 +1,6 @@
 ---
 fullname: Antoine San Segundo
-role: 'UX Designer sur le Pix de la Persévérance '
+role: UX Designer
 domaine: Design
 competences:
   - design
@@ -11,4 +11,5 @@ missions:
     employer: ut7
     startups:
       - pix-de-la-perseverance-nom-de-code
+teams: []
 ---

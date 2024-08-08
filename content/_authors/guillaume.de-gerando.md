@@ -15,4 +15,5 @@ badges:
   - segur
 previously:
   - signalement
+teams: []
 ---

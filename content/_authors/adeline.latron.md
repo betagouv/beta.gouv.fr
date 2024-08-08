@@ -13,4 +13,5 @@ missions:
 startups:
   - conseillers-entreprises
 competences: []
+teams: []
 ---

@@ -23,6 +23,5 @@ badges:
 competences:
   - Gestion de Produit
   - Croissance
-teams:
-  - /teams/animation-dinum
+teams: []
 ---

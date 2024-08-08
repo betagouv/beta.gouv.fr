@@ -12,5 +12,6 @@ previously:
   - api-engagement
 badges:
   - segur
+teams: []
 ---
 Chargée de déploiement

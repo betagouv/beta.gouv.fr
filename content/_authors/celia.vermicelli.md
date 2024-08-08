@@ -13,5 +13,6 @@ startups:
   - docurba
 badges:
   - segur
+teams: []
 ---
 Chargée de déploiement

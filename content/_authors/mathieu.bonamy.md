@@ -14,5 +14,6 @@ startups:
   - potentiel
 badges:
   - segur
+teams: []
 ---
 Chargé de déploiement

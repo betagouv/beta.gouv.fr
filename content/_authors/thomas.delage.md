@@ -13,4 +13,5 @@ startups:
   - snu
 memberType: beta
 competences: []
+teams: []
 ---

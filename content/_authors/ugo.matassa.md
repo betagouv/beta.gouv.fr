@@ -12,5 +12,6 @@ missions:
 startups:
   - carnet.de.bord
 memberType: autre
+teams: []
 ---
 Développeur en immersion chez Carnet de Bord

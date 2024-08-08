@@ -12,5 +12,6 @@ startups:
   - jeveuxaider
 badges:
   - segur
+teams: []
 ---
 Animation / Support / Modération

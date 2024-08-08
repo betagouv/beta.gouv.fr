@@ -11,4 +11,5 @@ missions:
       - maintenant
 startups:
   - maintenant
+teams: []
 ---

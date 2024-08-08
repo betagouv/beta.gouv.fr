@@ -12,4 +12,5 @@ missions:
       - domifa
 startups:
   - domifa
+teams: []
 ---

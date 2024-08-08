@@ -9,4 +9,5 @@ missions:
 competences:
   - Commerce
 memberType: beta
+teams: []
 ---

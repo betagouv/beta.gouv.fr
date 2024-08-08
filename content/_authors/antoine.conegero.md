@@ -19,4 +19,5 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
   - Machine learning
+teams: []
 ---

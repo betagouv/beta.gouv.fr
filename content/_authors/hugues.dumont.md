@@ -13,4 +13,5 @@ missions:
 memberType: dinum
 startups:
   - suite-numerique
+teams: []
 ---

@@ -14,5 +14,6 @@ missions:
 startups:
   - moncomptepro
 memberType: dinum
+teams: []
 ---
 Développeur Node JS

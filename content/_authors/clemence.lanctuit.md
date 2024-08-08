@@ -22,4 +22,5 @@ badges:
 competences:
   - UX
   - UI
+teams: []
 ---

@@ -19,5 +19,6 @@ missions:
 startups:
   - acceslibre
 memberType: beta
+teams: []
 ---
 Développeur le jour, coureur le midi, papa la nuit.

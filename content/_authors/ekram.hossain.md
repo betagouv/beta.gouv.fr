@@ -12,4 +12,5 @@ missions:
 startups:
   - aquaculteurs.marins
 memberType: autre
+teams: []
 ---

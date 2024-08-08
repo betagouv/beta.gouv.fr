@@ -17,5 +17,6 @@ badges:
   - segur
 competences:
   - Administration Publique
+teams: []
 ---
 Ancien de la police de l'environnement, je veux aider à rendre tangibles les activités industrielles qu'il y a derrière les produits et services

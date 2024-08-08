@@ -10,4 +10,5 @@ missions:
       - mission-transition-ecologique
 startups:
   - mission-transition-ecologique
+teams: []
 ---

@@ -19,5 +19,6 @@ missions:
     employer: Malt
 startups:
   - reva
+teams: []
 ---
 Développeur d’applications web et créateur de formations illustrées
