@@ -7,5 +7,6 @@ missions:
     end: 2023-12-06
     status: admin
 memberType: beta
+teams: []
 ---
 Intrapreneur Parasport

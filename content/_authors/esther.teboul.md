@@ -13,4 +13,5 @@ missions:
 memberType: beta
 startups:
   - asso.cie
+teams: []
 ---

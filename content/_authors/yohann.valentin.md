@@ -16,5 +16,6 @@ memberType: beta
 competences:
   - Développement Full-stack
   - DevOps
+teams: []
 ---
 Développeur Full-stack  DevOps

@@ -20,4 +20,5 @@ previously:
 competences:
   - Communication
   - Croissance
+teams: []
 ---

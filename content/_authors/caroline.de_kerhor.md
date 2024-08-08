@@ -27,4 +27,5 @@ startups:
   - nata
 competences:
   - Coaching
+teams: []
 ---

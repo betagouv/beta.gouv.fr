@@ -13,5 +13,6 @@ missions:
       - jeveuxaider
 startups:
   - jeveuxaider
+teams: []
 ---
 Laravel / Vue.js

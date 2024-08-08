@@ -10,4 +10,5 @@ missions:
 competences:
   - Facilitation
 memberType: beta
+teams: []
 ---

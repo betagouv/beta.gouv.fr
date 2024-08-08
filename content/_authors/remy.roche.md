@@ -12,4 +12,5 @@ previously:
   - mediation.logement
 competences:
   - Administration Publique
+teams: []
 ---

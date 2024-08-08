@@ -15,5 +15,6 @@ badges:
   - segur
 competences:
   - Administration Publique
+teams: []
 ---
 Attachée d'administration politiques publiques de cohésion sociale

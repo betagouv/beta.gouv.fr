@@ -8,5 +8,6 @@ missions:
     end: 2022-12-31
     status: service
     employer: Benext
+teams: []
 ---
 Bizdev chez Benext le jour, scénariste-auteur-compositeur la nuit

@@ -15,5 +15,6 @@ startups:
   - pcrs
 badges:
   - segur
+teams: []
 ---
 Données ouvertes, infrastructures et OpenStreetMap

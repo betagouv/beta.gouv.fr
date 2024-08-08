@@ -12,4 +12,5 @@ missions:
 startups:
   - pop
 memberType: beta
+teams: []
 ---

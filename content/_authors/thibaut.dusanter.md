@@ -14,4 +14,5 @@ missions:
     employer: Malt
     startups:
       - territoires-en-transitions
+teams: []
 ---

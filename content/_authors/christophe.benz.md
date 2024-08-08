@@ -8,5 +8,6 @@ missions:
     end: 2021-10-31
     status: service
     employer: Octo
+teams: []
 ---
 Développeur, musicien, entrepreneur, éternel apprenant

@@ -12,5 +12,6 @@ missions:
 startups:
   - jafer
 memberType: beta
+teams: []
 ---
 Chargé de déploiement

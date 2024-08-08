@@ -8,4 +8,5 @@ missions:
     status: service
 badges:
   - segur
+teams: []
 ---

@@ -38,7 +38,6 @@ competences:
   - Gestion de Produit
   - Coaching
   - Communication
-teams:
-  - /teams/fast-dinum
+teams: []
 ---
 Product design, Marketing digital, SEO, SEA, TikTok 🤘

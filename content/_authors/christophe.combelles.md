@@ -14,5 +14,6 @@ missions:
 startups:
   - ecobalyse
 memberType: beta
+teams: []
 ---
 ingénieur logiciel et cloud spécialisé Open-Source, Cloud, Environnement et ERP/PGI

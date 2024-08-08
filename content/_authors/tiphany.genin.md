@@ -12,5 +12,6 @@ startups:
   - potentiel
 github: TiphanyG
 memberType: beta
+teams: []
 ---
 Chargée de mission en charge de l'éolien terrestre et Intrapreneuse Potentiel - Ministère chargé de l'énergie

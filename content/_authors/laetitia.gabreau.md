@@ -26,5 +26,6 @@ badges:
 competences:
   - Gestion de Produit
   - Communication
+teams: []
 ---
 Passionnée par l'innovation sous toutes ses FoRmEs

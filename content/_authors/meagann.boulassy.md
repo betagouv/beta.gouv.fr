@@ -7,4 +7,5 @@ missions:
     end: 2021-06-17
     status: admin
     employer: DEAL Guadeloupe
+teams: []
 ---

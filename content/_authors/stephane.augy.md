@@ -10,4 +10,5 @@ missions:
       - metiis
 startups:
   - metiis
+teams: []
 ---

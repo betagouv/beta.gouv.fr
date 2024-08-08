@@ -10,6 +10,5 @@ missions:
     employer: Ministère de la Transition Ecologique
 previously:
   - trackdechets
-teams:
-  - /teams/mtes
+teams: []
 ---

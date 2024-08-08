@@ -11,5 +11,6 @@ missions:
       - aplus
 startups:
   - aplus
+teams: []
 ---
 Libriste, j'aime la guitare (plutôt amplifiée) et le code… avec une préférence pour celui de l'Éducation et de la Route. Je lis le JO dans le texte.

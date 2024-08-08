@@ -12,5 +12,6 @@ missions:
 startups:
   - stop-punaises
 memberType: beta
+teams: []
 ---
 Chargé de déploiement, découvre les startups d'Etat

@@ -27,5 +27,6 @@ competences:
   - Développement Frontend
   - Développement Backend
   - UI
+teams: []
 ---
 Développeur / designer freelance

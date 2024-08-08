@@ -13,4 +13,5 @@ badges:
   - segur
 startups:
   - cnr
+teams: []
 ---

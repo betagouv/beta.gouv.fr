@@ -14,5 +14,6 @@ startups:
   - annuaire-entreprises
 previously:
   - openfisca
+teams: []
 ---
 Data and Python lover

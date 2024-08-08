@@ -11,5 +11,6 @@ missions:
       - delphes
 startups:
   - delphes
+teams: []
 ---
 Conseils et expertise

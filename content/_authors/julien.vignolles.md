@@ -11,5 +11,6 @@ missions:
     employer: octo
 previously:
   - mpal
+teams: []
 ---
 Développeur Ruby on Rails since 2007. &lt;3

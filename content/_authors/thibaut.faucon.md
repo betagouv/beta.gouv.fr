@@ -13,4 +13,5 @@ startups:
   - beges
 competences:
   - Administration Publique
+teams: []
 ---

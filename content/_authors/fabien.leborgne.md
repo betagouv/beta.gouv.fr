@@ -11,5 +11,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+teams: []
 ---
 Développeur bienveillant et pragmatique, architecte de solutions élégantes et efficaces.

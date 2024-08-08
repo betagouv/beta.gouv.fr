@@ -15,5 +15,6 @@ memberType: beta
 previously:
   - mon-diagnostic-artificialisation
 competences: []
+teams: []
 ---
 J'aime travailler en collectif et faire des km à vélos.

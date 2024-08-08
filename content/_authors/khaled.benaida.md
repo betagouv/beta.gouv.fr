@@ -12,4 +12,5 @@ missions:
       - les-emplois
 startups:
   - les-emplois
+teams: []
 ---

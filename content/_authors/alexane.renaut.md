@@ -14,5 +14,6 @@ previously:
   - transport
 badges:
   - segur
+teams: []
 ---
 Créatrice d'expériences !

@@ -13,5 +13,6 @@ missions:
       - les-emplois
 startups:
   - les-emplois
+teams: []
 ---
 Intégrateur web, développeur front-end pour la plateforme de l'inclusion

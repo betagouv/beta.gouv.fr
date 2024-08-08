@@ -13,5 +13,6 @@ missions:
 startups:
   - reva
 memberType: beta
+teams: []
 ---
 Développeur

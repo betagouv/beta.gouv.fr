@@ -11,4 +11,5 @@ missions:
 startups:
   - mon-suivi-justice
 memberType: autre
+teams: []
 ---

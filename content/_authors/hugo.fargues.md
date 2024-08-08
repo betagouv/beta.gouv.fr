@@ -10,4 +10,5 @@ missions:
     status: independent
     employer: DINUM
 memberType: beta
+teams: []
 ---

@@ -16,4 +16,5 @@ startups:
   - encyclopedie-des-metiers
 previously:
   - labonneplace
+teams: []
 ---

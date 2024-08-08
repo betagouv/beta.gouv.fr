@@ -18,5 +18,6 @@ memberType: beta
 startups:
   - cassiopee
   - airvam
+teams: []
 ---
 développeur frontend

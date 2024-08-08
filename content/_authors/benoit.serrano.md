@@ -16,5 +16,6 @@ startups:
   - notifications
 previously:
   - tous.a.bord
+teams: []
 ---
 Développeur JS, passion cybersécurité

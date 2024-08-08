@@ -15,4 +15,5 @@ memberType: beta
 competences:
   - Développement Frontend
   - JavaScript/TypeScript
+teams: []
 ---

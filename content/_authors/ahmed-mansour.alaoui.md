@@ -16,5 +16,6 @@ previously:
   - pass-culture
 badges:
   - segur
+teams: []
 ---
 Développeur/data-scientist, passionné par la data, le foot, le hip-hop et la musique en général !

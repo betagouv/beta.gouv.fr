@@ -11,4 +11,5 @@ missions:
       - potentiel
 startups:
   - potentiel
+teams: []
 ---

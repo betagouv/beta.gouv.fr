@@ -11,5 +11,6 @@ missions:
       - tutorat_fp
 startups:
   - tutorat_fp
+teams: []
 ---
 La vie est un storytelling, à soi d'en être l'auteur !

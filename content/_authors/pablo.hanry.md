@@ -12,5 +12,6 @@ missions:
       - catalogue-apprentissage
 startups:
   - catalogue-apprentissage
+teams: []
 ---
 Je m'appelle Pablo Hanry, étudiant en informatique age de 18 et je suis en alternance dans la start-up d'état mission apprentissage.

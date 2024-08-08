@@ -13,5 +13,6 @@ missions:
       - preuve-de-covoiturage
 startups:
   - preuve-de-covoiturage
+teams: []
 ---
 Product Manager un jour, entrepreneur toujours !

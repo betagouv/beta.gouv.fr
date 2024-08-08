@@ -15,6 +15,7 @@ competences:
   - Coaching
   - Communication
 memberType: autre
+teams: []
 ---
 Membre fondateur d'Etalab en 2011, j'ai oeuvré pendant 13 ans à l'ouverture, la circulation et l'exploitation des données publiques à travers la mise en oeuvre d'une gouvernance dédiée ainsi que le développement de produits tel que data.gouv.fr, api.gouv.fr, datapass. Passionné par le service public, j'ai à cœur de mettre ma connaissance de l'administration et des données au service de l'intéret général
 

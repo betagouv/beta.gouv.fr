@@ -11,4 +11,5 @@ missions:
       - ma-cantine-egalim
 startups:
   - ma-cantine-egalim
+teams: []
 ---

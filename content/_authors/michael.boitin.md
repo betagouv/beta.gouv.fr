@@ -34,5 +34,6 @@ previously:
   - dossierfacile
   - vigieau
 link: https://www.linkedin.com/in/michaelboitin/
+teams: []
 ---
 Ux designer A-JUST

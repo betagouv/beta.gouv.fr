@@ -12,4 +12,5 @@ missions:
       - aides-territoires
 startups:
   - aides-territoires
+teams: []
 ---

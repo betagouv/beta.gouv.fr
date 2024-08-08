@@ -13,5 +13,6 @@ missions:
 startups:
   - mon-entreprise
 memberType: beta
+teams: []
 ---
 Product owner à l'URSSAF

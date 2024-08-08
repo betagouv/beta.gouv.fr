@@ -21,5 +21,6 @@ competences:
   - Product design
   - UI
 memberType: beta
+teams: []
 ---
 Entrepreneur dans le secteur des technologies depuis plus de 10 ans et jeune papa ! 

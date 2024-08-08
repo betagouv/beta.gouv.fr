@@ -10,4 +10,5 @@ missions:
     startups:
       - bat-id
 memberType: beta
+teams: []
 ---

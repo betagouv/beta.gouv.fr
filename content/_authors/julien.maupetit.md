@@ -21,4 +21,5 @@ competences:
   - Docker
   - ElasticSearch
   - Data Science
+teams: []
 ---

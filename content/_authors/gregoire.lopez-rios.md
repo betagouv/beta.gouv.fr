@@ -20,4 +20,5 @@ competences:
   - Relation usagers
   - Croissance
 memberType: beta
+teams: []
 ---

@@ -11,4 +11,5 @@ missions:
       - 1000.jours
 startups:
   - 1000.jours
+teams: []
 ---

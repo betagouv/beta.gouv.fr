@@ -16,5 +16,6 @@ badges:
   - segur
 competences:
   - Gestion de Produit
+teams: []
 ---
 J'aime voyager, une destination à me recommander ? :)

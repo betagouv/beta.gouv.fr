@@ -26,5 +26,6 @@ competences:
 previously:
   - l-application-du-cej
   - carnet.de.bord
+teams: []
 ---
 Designer de service & coach produit

@@ -14,5 +14,6 @@ startups:
 badges:
   - segur
 link: https://www.linkedin.com/in/julie-guittard-a81520113
+teams: []
 ---
 Urbaniste / géographe, mais surtout chargée de déploiement au sein de l'équipe Zéro Logement Vacant.

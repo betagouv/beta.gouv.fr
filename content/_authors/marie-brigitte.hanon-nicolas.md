@@ -10,4 +10,5 @@ missions:
       - protege-toit
 startups:
   - protege-toit
+teams: []
 ---

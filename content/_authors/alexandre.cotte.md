@@ -13,5 +13,6 @@ missions:
 startups:
   - territoires-en-transitions
 memberType: beta
+teams: []
 ---
 Product manager, cycliste amateur et réparateur vélo

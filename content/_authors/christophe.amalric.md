@@ -23,5 +23,6 @@ competences:
   - Gestion de Produit
   - Communication
   - Croissance
+teams: []
 ---
 Papa (x2), Product Management, Course à pieds, Voyageur (23/197) 🚀 ✈️

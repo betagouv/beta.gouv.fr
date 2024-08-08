@@ -13,7 +13,6 @@ badges:
   - segur
 startups:
   - tchap
-teams:
-  - /teams/dinum_produits_interministeriels
+teams: []
 ---
 CISO DINUM

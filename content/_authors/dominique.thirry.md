@@ -15,5 +15,6 @@ startups:
   - inca
 badges:
   - segur
+teams: []
 ---
 Juriste, coach et community manager

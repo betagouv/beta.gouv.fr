@@ -26,4 +26,5 @@ previously:
   - e-controle
   - sante-psy-etudiant
   - authentification
+teams: []
 ---

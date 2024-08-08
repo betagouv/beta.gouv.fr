@@ -12,5 +12,6 @@ missions:
       - egalite.professionnelle
 startups:
   - egalite.professionnelle
+teams: []
 ---
 Développeur Javascript React Nextjs

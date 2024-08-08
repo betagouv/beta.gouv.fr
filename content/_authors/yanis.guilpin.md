@@ -7,5 +7,6 @@ missions:
     end: 2023-04-21
     status: independent
 memberType: beta
+teams: []
 ---
 Je suis techniquement stagiaire

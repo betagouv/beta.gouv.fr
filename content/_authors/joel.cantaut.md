@@ -7,4 +7,5 @@ missions:
     end: 2019-12-31
     status: admin
     employer: CGET
+teams: []
 ---

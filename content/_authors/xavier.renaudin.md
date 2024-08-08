@@ -19,4 +19,5 @@ competences:
   - Kubernetes
   - PHP
   - Sécurité informatique
+teams: []
 ---

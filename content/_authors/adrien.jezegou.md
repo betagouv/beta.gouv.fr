@@ -13,4 +13,5 @@ startups:
   - partaj
 badges:
   - segur
+teams: []
 ---

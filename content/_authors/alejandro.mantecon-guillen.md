@@ -16,4 +16,5 @@ startups:
 previously:
   - peps
   - e-inspé
+teams: []
 ---

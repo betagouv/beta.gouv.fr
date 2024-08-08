@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: MIOM
 memberType: beta
+teams: []
 ---

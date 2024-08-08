@@ -16,4 +16,5 @@ previously:
   - tdb-apprentissage
   - sirius
   - anotea
+teams: []
 ---

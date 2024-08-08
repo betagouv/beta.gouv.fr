@@ -17,5 +17,6 @@ link: https://www.linkedin.com/in/alexandra-oujebbour-2799971bb?utm_source=share
 competences:
   - Intrapreneur(se)
   - Administration Publique
+teams: []
 ---
 100% Bottom-Up

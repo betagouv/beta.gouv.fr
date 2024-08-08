@@ -9,5 +9,6 @@ missions:
     status: service
 badges:
   - segur
+teams: []
 ---
 Conseillère en création et développement d'activité chez Omnicité.

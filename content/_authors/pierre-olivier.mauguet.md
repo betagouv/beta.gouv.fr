@@ -43,4 +43,5 @@ competences:
   - Développement Frontend
   - Développement Backend
   - JavaScript/TypeScript
+teams: []
 ---

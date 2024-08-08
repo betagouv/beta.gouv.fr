@@ -21,6 +21,7 @@ competences:
   - Python
   - PostgreSQL
 memberType: beta
+teams: []
 ---
 Ingénieur Fullstack axé sur le produit en JavaScript/TypeScript
 

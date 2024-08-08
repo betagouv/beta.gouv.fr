@@ -11,5 +11,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+teams: []
 ---
 Coach produit, inspecteur gadget

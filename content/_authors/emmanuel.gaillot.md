@@ -25,5 +25,6 @@ startups:
 previously:
   - eva
   - homologation
+teams: []
 ---
 Programmeur extrême & codexhibitionniste.

@@ -23,5 +23,6 @@ competences:
   - Gestion de Produit
   - Communication
   - Administration Publique
+teams: []
 ---
 Tech enthousiaste, je m'exprime principalement en Gif et en Meme. Portée par la collaboration, la solidarité et la bienveillance.

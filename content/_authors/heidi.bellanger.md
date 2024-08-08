@@ -14,4 +14,5 @@ startups:
   - travailler.en.france
   - mes-aides-france-travail
 memberType: beta
+teams: []
 ---

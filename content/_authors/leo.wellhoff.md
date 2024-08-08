@@ -13,4 +13,5 @@ missions:
 competences:
   - UX
 memberType: beta
+teams: []
 ---

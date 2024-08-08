@@ -14,5 +14,6 @@ badges:
 competences:
   - Coaching
   - Product strategy
+teams: []
 ---
 Entrepreneur associé

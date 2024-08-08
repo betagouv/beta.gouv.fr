@@ -11,5 +11,6 @@ missions:
 startups:
   - plusfraichemaville
 memberType: beta
+teams: []
 ---
 Rédactrice

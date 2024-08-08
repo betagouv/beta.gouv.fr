@@ -12,5 +12,6 @@ missions:
 startups:
   - mes.aides.a.lembauche
 memberType: beta
+teams: []
 ---
 PM - conseillère entreprises - facilitatrice

@@ -14,7 +14,6 @@ missions:
 startups:
   - euphrosyne
   - pop
-teams:
-  - /teams/culture
+teams: []
 competences: []
 ---

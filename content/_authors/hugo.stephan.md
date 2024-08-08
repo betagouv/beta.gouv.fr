@@ -13,5 +13,6 @@ missions:
 startups:
   - refugies.info
 memberType: beta
+teams: []
 ---
 Design manager - Copilote de Réfugiés.info - EIG 3 - FAST 13

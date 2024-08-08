@@ -17,5 +17,6 @@ startups:
 previously:
   - dossiersco
   - mpal
+teams: []
 ---
 Facilitateur, développeur, musicien et bipodocrate junior

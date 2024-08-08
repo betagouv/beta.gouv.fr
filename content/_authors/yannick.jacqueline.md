@@ -17,5 +17,6 @@ startups:
 competences:
   - Développement Frontend
   - Développement Backend
+teams: []
 ---
 Développeur mobile nantais (mais normand pure souche :D )

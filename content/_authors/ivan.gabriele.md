@@ -46,4 +46,5 @@ competences:
   - Développement Frontend
 badges:
   - segur
+teams: []
 ---

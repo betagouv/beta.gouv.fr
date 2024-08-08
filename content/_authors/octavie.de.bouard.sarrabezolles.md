@@ -12,5 +12,6 @@ missions:
 startups:
   - docurba
 memberType: beta
+teams: []
 ---
 Chargée de déploiement

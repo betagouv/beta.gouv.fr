@@ -12,4 +12,5 @@ previously:
   - dora
 competences:
   - Communication
+teams: []
 ---

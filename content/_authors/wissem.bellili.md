@@ -9,4 +9,5 @@ missions:
     status: service
     employer: Numéricité
 memberType: autre
+teams: []
 ---

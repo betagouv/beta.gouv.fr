@@ -12,5 +12,6 @@ missions:
 startups:
   - aplus
 memberType: beta
+teams: []
 ---
 UX designer

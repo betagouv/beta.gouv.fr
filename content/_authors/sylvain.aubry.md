@@ -19,4 +19,5 @@ startups:
   - suite.d.outils.des.mediateurs.numeriques
 previously:
   - dora
+teams: []
 ---

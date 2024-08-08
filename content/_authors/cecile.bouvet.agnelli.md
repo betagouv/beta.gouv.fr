@@ -12,4 +12,5 @@ missions:
 startups:
   - recommandations-collaboratives
 memberType: autre
+teams: []
 ---

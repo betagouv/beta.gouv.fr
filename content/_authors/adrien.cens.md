@@ -14,5 +14,6 @@ missions:
 startups:
   - l-application-du-cej
 memberType: autre
+teams: []
 ---
 J'aime Flutter, le surf et le ski sans oublier la Raclette

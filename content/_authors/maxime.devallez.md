@@ -11,5 +11,6 @@ missions:
       - clara
 startups:
   - clara
+teams: []
 ---
 Développeur sur Clara !

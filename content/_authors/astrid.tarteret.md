@@ -9,4 +9,5 @@ missions:
     startups:
       - vigieau
 memberType: beta
+teams: []
 ---

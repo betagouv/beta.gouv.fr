@@ -12,5 +12,6 @@ missions:
       - perspectives
 startups:
   - perspectives
+teams: []
 ---
 Développeur sur Perspectives

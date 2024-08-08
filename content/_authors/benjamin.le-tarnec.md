@@ -15,5 +15,6 @@ badges:
   - segur
 competences:
   - Coaching
+teams: []
 ---
 Accompagnateur et coach en organisation

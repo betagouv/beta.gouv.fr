@@ -12,4 +12,5 @@ previously:
   - snu
 competences:
   - Gestion de Produit
+teams: []
 ---

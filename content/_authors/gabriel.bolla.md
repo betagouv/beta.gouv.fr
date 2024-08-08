@@ -10,5 +10,6 @@ missions:
 startups: []
 competences:
   - UI
+teams: []
 ---
 UI/UX Designer

@@ -12,5 +12,6 @@ missions:
       - aidantsconnect
 startups:
   - aidantsconnect
+teams: []
 ---
 Open Data, gouvernance et culture des données.

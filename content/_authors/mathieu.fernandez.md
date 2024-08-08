@@ -11,5 +11,6 @@ missions:
       - dialogue
 startups:
   - dialogue
+teams: []
 ---
 Accro au DiaLog

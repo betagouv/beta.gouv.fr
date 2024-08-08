@@ -9,5 +9,6 @@ missions:
     end: 2023-06-29
     status: independent
     employer: Numa
+teams: []
 ---
 Consultant en transition numérique

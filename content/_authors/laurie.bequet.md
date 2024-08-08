@@ -15,4 +15,5 @@ startups:
   - preuve-de-covoiturage
 badges:
   - segur
+teams: []
 ---

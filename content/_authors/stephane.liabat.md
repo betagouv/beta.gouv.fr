@@ -12,5 +12,6 @@ missions:
 startups:
   - pass-culture
 memberType: beta
+teams: []
 ---
 Lead Ops Pass Culture

@@ -10,4 +10,5 @@ missions:
     startups:
       - agora
 memberType: beta
+teams: []
 ---

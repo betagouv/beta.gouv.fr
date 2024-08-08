@@ -9,5 +9,6 @@ missions:
     employer: FNCCR
 previously:
   - chauffage-urbain
+teams: []
 ---
 En charge de tout ce qui touche à l'énergie, j'accompagne les collectivités dans leurs projets

@@ -19,5 +19,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+teams: []
 ---
 Développeur web full-stack avec une teinture software craftmanship, passionné par la transformation digitale et le design applicatif :)

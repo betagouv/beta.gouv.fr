@@ -16,5 +16,6 @@ badges:
   - segur
 previously:
   - france-numerique-ensemble
+teams: []
 ---
 Développeur Fullstack

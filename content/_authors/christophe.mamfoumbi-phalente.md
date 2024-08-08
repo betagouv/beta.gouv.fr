@@ -10,5 +10,6 @@ missions:
 previously:
   - reva
 memberType: beta
+teams: []
 ---
 Product designer

@@ -10,5 +10,6 @@ missions:
 previously:
   - maintenant
   - retraite
+teams: []
 ---
 Développeur, fan d'agilité, passionné par les bonnes pratiques de développement logiciel pour produire les meilleures applications pour répondre au mieux aux besoisn des utilisateurs.

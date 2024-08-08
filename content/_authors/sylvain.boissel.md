@@ -17,4 +17,5 @@ previously:
   - aides-territoires
 badges:
   - segur
+teams: []
 ---

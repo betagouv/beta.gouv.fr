@@ -33,7 +33,6 @@ previously:
   - moncomptepro
 badges:
   - segur
-teams:
-  - /teams/animation-dinum
+teams: []
 ---
 Chef du département Incubateur de services numériques à la DINUM

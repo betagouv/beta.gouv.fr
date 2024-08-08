@@ -11,5 +11,6 @@ previously:
   - mps
   - demarches-simplifiees.fr
   - api-entreprise
+teams: []
 ---
 La confiance n'exclut pas le contrôle.

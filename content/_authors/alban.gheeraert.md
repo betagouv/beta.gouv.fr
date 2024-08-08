@@ -12,5 +12,6 @@ missions:
 startups:
   - potentiel
 memberType: beta
+teams: []
 ---
 Chargé de mission photovoltaïque

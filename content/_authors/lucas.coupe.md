@@ -9,5 +9,6 @@ missions:
     employer: CGI
 badges:
   - segur
+teams: []
 ---
 UX - UI Designer Mécanicien sur véhicules anciens à mes heures perdues !

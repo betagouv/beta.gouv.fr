@@ -12,4 +12,5 @@ missions:
       - histologe
 startups:
   - histologe
+teams: []
 ---

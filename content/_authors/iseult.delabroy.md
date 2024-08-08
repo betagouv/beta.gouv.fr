@@ -15,5 +15,6 @@ startups:
   - codedutravail
 badges:
   - segur
+teams: []
 ---
 Chargée de déploiement du Code du Travail Numérique Co-fondatrice @ Make It Work

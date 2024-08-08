@@ -14,5 +14,6 @@ startups:
   - aidantsconnect
   - apilos
 memberType: beta
+teams: []
 ---
 Chargée de support logistique pour vous servir :)

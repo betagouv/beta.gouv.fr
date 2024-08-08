@@ -9,5 +9,6 @@ missions:
     employer: Sogilis Lyon
 previously:
   - eac
+teams: []
 ---
 Ergonome, j'observe les comportements des utilisateurs pour identifier les usages et créer des interfaces utiles.

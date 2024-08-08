@@ -16,4 +16,5 @@ memberType: beta
 incubator: justice
 competences:
   - Administration Publique
+teams: []
 ---

@@ -26,5 +26,6 @@ previously:
   - les-alpps
 competences:
   - Gestion de Produit
+teams: []
 ---
 Et PM à mes heures 😉

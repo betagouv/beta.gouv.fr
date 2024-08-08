@@ -12,4 +12,5 @@ missions:
       - aides.jeunes
 startups:
   - aides.jeunes
+teams: []
 ---

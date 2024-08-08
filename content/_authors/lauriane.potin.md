@@ -21,4 +21,5 @@ previously:
   - jeveuxaider
 badges:
   - segur
+teams: []
 ---

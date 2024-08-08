@@ -13,5 +13,6 @@ missions:
 startups:
   - le-taxi
   - mesads
+teams: []
 ---
 1 gramme de sucre pour 1 gramme de cerveau

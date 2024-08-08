@@ -9,5 +9,6 @@ missions:
     employer: ey
 previously:
   - la-bonne-boite
+teams: []
 ---
 Développeur, expert produit web et évangélisateur du développement/design orienté utilisateur.

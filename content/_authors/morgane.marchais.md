@@ -11,4 +11,5 @@ missions:
       - recosante
 startups:
   - recosante
+teams: []
 ---

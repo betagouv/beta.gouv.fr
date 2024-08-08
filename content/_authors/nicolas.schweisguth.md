@@ -13,5 +13,6 @@ startups:
   - datapass
 badges:
   - segur
+teams: []
 ---
 Toujours patient et de bonne humeur, sauf quand l'Olympique Lyonnais joue.

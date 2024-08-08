@@ -25,5 +25,6 @@ competences:
   - data analytics
   - Machine learning
   - Metabase
+teams: []
 ---
 In pizza and data I trust!

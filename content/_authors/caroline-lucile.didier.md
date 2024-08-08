@@ -14,4 +14,5 @@ startups:
 previously: []
 competences:
   - Administration Publique
+teams: []
 ---

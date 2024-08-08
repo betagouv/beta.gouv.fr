@@ -15,5 +15,6 @@ startups:
 competences:
   - Gestion de Produit
   - Croissance
+teams: []
 ---
 Chargée de déploiement

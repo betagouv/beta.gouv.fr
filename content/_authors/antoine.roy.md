@@ -12,5 +12,6 @@ missions:
       - disinfo
 startups:
   - disinfo
+teams: []
 ---
 Data scientist/engineer | Python

@@ -15,5 +15,6 @@ fullname: Emmanuel BELLITY
 role: Coach
 startups:
   - evalpro
+teams: []
 ---
 Product coach

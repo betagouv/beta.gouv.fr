@@ -12,5 +12,6 @@ missions:
       - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
+teams: []
 ---
 développeur full-stack chez résorption-bidonvilles

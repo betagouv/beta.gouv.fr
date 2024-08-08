@@ -9,4 +9,5 @@ missions:
     startups:
       - investigation.d.un.pole.de.competences.numerique
 competences: []
+teams: []
 ---

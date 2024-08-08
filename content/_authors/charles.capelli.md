@@ -13,4 +13,5 @@ previously:
   - octopus
 competences:
   - Sécurité informatique
+teams: []
 ---

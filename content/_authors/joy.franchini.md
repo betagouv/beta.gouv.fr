@@ -11,4 +11,5 @@ missions:
       - covoit'scelles
 startups:
   - covoit'scelles
+teams: []
 ---

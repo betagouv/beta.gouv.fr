@@ -11,4 +11,5 @@ missions:
 startups:
   - pitchou
 memberType: beta
+teams: []
 ---

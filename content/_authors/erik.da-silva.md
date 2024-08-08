@@ -11,4 +11,5 @@ previously:
   - aidantsconnect
 badges:
   - segur
+teams: []
 ---

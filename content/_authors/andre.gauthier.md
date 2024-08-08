@@ -21,4 +21,5 @@ competences:
   - Communication
   - Croissance
 link: https://www.linkedin.com/in/andré-gauthier-446022213/
+teams: []
 ---

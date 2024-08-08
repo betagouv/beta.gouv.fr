@@ -14,4 +14,5 @@ startups:
   - euphrosyne
 competences:
   - Administration Publique
+teams: []
 ---

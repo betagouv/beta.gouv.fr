@@ -17,5 +17,6 @@ memberType: beta
 role: Développeur Front & Back
 startups:
   - snu
+teams: []
 ---
 Passionné par l'automatisation et l'optimisation, voilà pourquoi je suis développeur.

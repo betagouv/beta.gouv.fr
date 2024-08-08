@@ -26,5 +26,6 @@ badges:
 competences:
   - Administration Publique
   - Gestion de Produit
+teams: []
 ---
 In Bike I Trust. Toujours en équipe!

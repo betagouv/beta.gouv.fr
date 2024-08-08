@@ -19,5 +19,6 @@ previously:
   - poe.facilite
 competences:
   - Coaching
+teams: []
 ---
 Coach startup, outils no-code, spécialiste du numérique durable et responsable.

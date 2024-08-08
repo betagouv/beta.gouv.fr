@@ -11,5 +11,6 @@ missions:
       - qualicharge
 startups:
   - qualicharge
+teams: []
 ---
 Ingénieur énergie ET transport

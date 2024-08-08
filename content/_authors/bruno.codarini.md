@@ -9,4 +9,5 @@ missions:
     employer: MTE/SG/DRH
 link: https://www.linkedin.com/in/bruno-codarini-851a4660/
 memberType: beta
+teams: []
 ---

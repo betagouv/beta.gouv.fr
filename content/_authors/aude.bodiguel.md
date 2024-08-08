@@ -11,5 +11,6 @@ missions:
 memberType: beta
 startups:
   - tacct
+teams: []
 ---
 🐎 à cheval... sur les détails

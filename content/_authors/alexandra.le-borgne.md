@@ -18,4 +18,5 @@ startups:
   - scienceinfuse
 previously:
   - culturecheznous
+teams: []
 ---

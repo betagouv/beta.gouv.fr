@@ -12,5 +12,6 @@ previously:
   - clara
   - rdv-service-public
   - maintenant
+teams: []
 ---
 Je sais, un peu partout, tout le monde s'entretue, c'est pas gai, mais d'autres s'entrevivent, j'irai les retrouver

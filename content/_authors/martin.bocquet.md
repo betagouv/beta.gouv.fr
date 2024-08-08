@@ -12,4 +12,5 @@ missions:
 startups:
   - inventaire.zae
 memberType: attributaire
+teams: []
 ---

@@ -14,5 +14,6 @@ startups:
   - sante-psy-etudiant
 memberType: autre
 competences: []
+teams: []
 ---
 Développeuse full-stack

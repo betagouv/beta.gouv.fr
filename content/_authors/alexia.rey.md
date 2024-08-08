@@ -9,5 +9,6 @@ missions:
     employer: red-innovation
 previously:
   - boussole
+teams: []
 ---
 Citoyenne qui souhaite donner du sens à la technologie, dans la bonne humeur.

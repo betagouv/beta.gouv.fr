@@ -13,5 +13,6 @@ startups:
   - api-engagement
 badges:
   - segur
+teams: []
 ---
 Facilitatrice de projets

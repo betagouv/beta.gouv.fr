@@ -16,4 +16,5 @@ competences:
   - UX
   - UI
   - Communication
+teams: []
 ---

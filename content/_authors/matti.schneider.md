@@ -45,5 +45,6 @@ previously:
   - openfisca
   - disinfo
   - aides.jeunes
+teams: []
 ---
 Ingénieur transdisciplinaire. Sceptique des aphorismes autobiographiques.

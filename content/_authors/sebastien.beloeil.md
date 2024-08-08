@@ -12,5 +12,6 @@ missions:
 startups:
   - tchap
 memberType: beta
+teams: []
 ---
 In(f[ro])magicien, Photographe

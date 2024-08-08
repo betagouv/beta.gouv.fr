@@ -15,4 +15,5 @@ startups:
   - ellesfontlaculture
 badges:
   - segur
+teams: []
 ---

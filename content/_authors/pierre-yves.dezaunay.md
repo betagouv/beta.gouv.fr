@@ -13,6 +13,7 @@ link: https://dezaunay.fr/
 competences:
   - Développement Full-stack
 memberType: beta
+teams: []
 ---
 Développeur à la rescousse des tritons et des nénuphars 
 

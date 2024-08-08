@@ -10,5 +10,6 @@ missions:
     employer: DNUM
 previously:
   - psij
+teams: []
 ---
 Développeuse à la Fabrique Numérique du Ministère de l'Intérieur

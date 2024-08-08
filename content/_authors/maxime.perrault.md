@@ -14,5 +14,6 @@ github: maximeperraultdev
 competences:
   - Développement Full-stack
 memberType: beta
+teams: []
 ---
 Touche-à-tout en code 🧑‍💻 et en cuisine 🧑‍🍳. J'essaie de prôner la sobriété et l'inclusion sans perdre du goût

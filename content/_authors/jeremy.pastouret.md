@@ -15,5 +15,6 @@ memberType: beta
 link: https://www.linkedin.com/in/jeremy-pastouret/
 competences:
   - Développement Full-stack
+teams: []
 ---
 Passionné par l'éco-conception des services numériques

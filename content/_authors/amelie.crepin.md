@@ -14,5 +14,6 @@ missions:
 startups:
   - vues-immersives-libres
 memberType: beta
+teams: []
 ---
 Ingénieure à l'IGN (Lidar HD et Panoramax) mais pas que ! Je participe aussi à la com' interne et au réseau égalité femmes-hommes de l'institut.

@@ -28,5 +28,6 @@ previously:
 competences:
   - UI
   - UX
+teams: []
 ---
 Concevoir pour toutes et tous afin de créer un monde éthique & inclusif où chacun puisse se sentir légitime.

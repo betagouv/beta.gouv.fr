@@ -11,4 +11,5 @@ missions:
 startups:
   - impact.co2
 memberType: beta
+teams: []
 ---

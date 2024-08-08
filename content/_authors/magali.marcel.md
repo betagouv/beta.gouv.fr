@@ -14,6 +14,5 @@ previously:
 competences:
   - Administration Publique
   - Gestion de Produit
-teams:
-  - /teams/animation-dinum
+teams: []
 ---

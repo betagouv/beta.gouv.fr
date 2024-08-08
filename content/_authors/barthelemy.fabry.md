@@ -14,4 +14,5 @@ memberType: beta
 competences:
   - Croissance
   - Product strategy
+teams: []
 ---

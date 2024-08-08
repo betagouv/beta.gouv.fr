@@ -12,5 +12,6 @@ missions:
 memberType: beta
 startups:
   - estime.formation
+teams: []
 ---
 Product Manager junior

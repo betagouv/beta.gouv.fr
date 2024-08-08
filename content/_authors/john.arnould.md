@@ -13,5 +13,6 @@ startups:
   - mobiville
 badges:
   - segur
+teams: []
 ---
 Product Manager pour la startup Mobiville.

@@ -14,4 +14,5 @@ startups:
   - france-numerique-ensemble
 previously:
   - demarches-simplifiees.fr
+teams: []
 ---

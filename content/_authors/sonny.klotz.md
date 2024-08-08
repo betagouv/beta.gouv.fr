@@ -12,5 +12,6 @@ missions:
       - l-application-du-cej
 startups:
   - l-application-du-cej
+teams: []
 ---
 The only way to go fast is to go well.

@@ -16,4 +16,5 @@ startups:
   - reformes-locales
 badges:
   - segur
+teams: []
 ---

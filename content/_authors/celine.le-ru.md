@@ -40,5 +40,6 @@ previously:
   - e-mjpm
   - domifa
 link: https://www.linkedin.com/in/celine-le-ru/
+teams: []
 ---
 Ma boite à outils est dispo sur Figjam : https://www.figma.com/@celine_leru

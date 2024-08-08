@@ -13,5 +13,6 @@ startups:
   - reva
 badges:
   - segur
+teams: []
 ---
 Engagée pour donner à la VAE la place qu'elle mérite ! Apicultrice citadine à ses heures gagnées...

@@ -11,4 +11,5 @@ missions:
 startups:
   - inventaire.friches.agricoles
 memberType: beta
+teams: []
 ---

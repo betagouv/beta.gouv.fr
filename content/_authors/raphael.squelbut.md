@@ -19,4 +19,5 @@ missions:
 memberType: beta
 previously:
   - signaux-faibles
+teams: []
 ---

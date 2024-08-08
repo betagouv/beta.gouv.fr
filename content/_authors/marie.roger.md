@@ -8,5 +8,6 @@ missions:
     status: admin
     employer: DGFIP
 memberType: beta
+teams: []
 ---
 Fabrique Numérique de la DGFIP

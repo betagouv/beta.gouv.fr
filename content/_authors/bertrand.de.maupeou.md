@@ -15,4 +15,5 @@ competences:
   - Metabase
   - Matomo
 memberType: beta
+teams: []
 ---

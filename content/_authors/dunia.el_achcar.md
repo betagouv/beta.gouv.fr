@@ -12,4 +12,5 @@ missions:
       - aplus
 startups:
   - aplus
+teams: []
 ---

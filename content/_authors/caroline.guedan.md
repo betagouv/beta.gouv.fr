@@ -9,4 +9,5 @@ missions:
     startups:
       - compte.ressources
 memberType: beta
+teams: []
 ---

@@ -14,4 +14,5 @@ missions:
 memberType: autre
 startups:
   - sante-psy-etudiant
+teams: []
 ---

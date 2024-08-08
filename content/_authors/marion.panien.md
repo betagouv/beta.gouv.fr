@@ -9,5 +9,6 @@ missions:
     status: independent
 previously:
   - plusfraichemaville
+teams: []
 ---
 Consultante en Environnement et Géosciences

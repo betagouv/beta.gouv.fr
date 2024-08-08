@@ -11,5 +11,6 @@ missions:
 link: https://www.linkedin.com/in/carolethonnelier/
 startups:
   - perspectives
+teams: []
 ---
 Digitale ou monde physique, l’expérience utilisateur n’a pas de frontière !

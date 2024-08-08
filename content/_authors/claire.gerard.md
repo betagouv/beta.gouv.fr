@@ -11,5 +11,6 @@ missions:
       - reva
 startups:
   - reva
+teams: []
 ---
 UX/UI/designer

@@ -13,5 +13,6 @@ role: Intraprenariat
 startups:
   - evalpro
 link: https://mq.linkedin.com/in/joel-m-figueres-35aa6a31/en
+teams: []
 ---
 Aménageur, bidouilleur Macophile...

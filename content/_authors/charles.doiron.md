@@ -14,4 +14,5 @@ missions:
 startups:
   - recosante
 memberType: beta
+teams: []
 ---

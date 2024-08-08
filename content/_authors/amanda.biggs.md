@@ -14,5 +14,6 @@ missions:
     employer: Scopyleft
     startups:
       - nosgestesclimat
+teams: []
 ---
 Marketeuse engagée pour un web pour durable, je mets mon expertise au service du développement de la stratégie digital et de la visibilité en ligne de sites web des organisations. Je suis spécialisée en SEO (Référencement Naturel) et en rédaction web.

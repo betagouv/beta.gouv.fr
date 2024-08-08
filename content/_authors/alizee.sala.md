@@ -10,4 +10,5 @@ missions:
     startups:
       - l-application-du-cej
 memberType: attributaire
+teams: []
 ---

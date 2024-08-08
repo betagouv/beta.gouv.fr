@@ -14,5 +14,6 @@ badges:
   - segur
 startups:
   - mon-entreprise
+teams: []
 ---
 Développeur / UX lover / creative coder J'apprends tout le temps :D

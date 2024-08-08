@@ -11,4 +11,5 @@ missions:
 memberType: beta
 startups:
   - gestion.subventions.locales
+teams: []
 ---

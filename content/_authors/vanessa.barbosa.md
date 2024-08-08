@@ -13,4 +13,5 @@ startups:
   - mon-suivi-social
 competences:
   - Intrapreneur(se)
+teams: []
 ---

@@ -9,5 +9,6 @@ missions:
     status: independent
     employer: Lamednum
 memberType: beta
+teams: []
 ---
 Chef de projet numérique, et j'adore le no-code !

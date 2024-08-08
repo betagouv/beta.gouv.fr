@@ -12,5 +12,6 @@ badges:
   - segur
 startups:
   - experts
+teams: []
 ---
 Magistrat depuis 1995, innovateur depuis 2022

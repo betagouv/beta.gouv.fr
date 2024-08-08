@@ -12,5 +12,6 @@ missions:
       - zen
 startups:
   - zen
+teams: []
 ---
 Je conçois et réalise des services qui répondent, de la manière la plus efficace et intuitive, aux besoins de leurs utilisateurs.

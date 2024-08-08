@@ -9,5 +9,6 @@ missions:
     status: service
     employer: OCTO
 memberType: autre
+teams: []
 ---
 Intervenant OCTO

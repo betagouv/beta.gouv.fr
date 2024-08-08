@@ -23,8 +23,7 @@ previously:
 memberType: beta
 badges:
   - segur
-teams:
-  - /teams/communaute-dinum
+teams: []
 competences:
   - Accessibilité
   - Développement

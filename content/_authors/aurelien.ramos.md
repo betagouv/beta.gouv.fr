@@ -10,5 +10,6 @@ missions:
       - plante-et-moi
 startups:
   - plante-et-moi
+teams: []
 ---
 Paysagiste et doctorant, militant pour le jardinage dans la rue

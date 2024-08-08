@@ -14,4 +14,5 @@ startups:
   - vues-immersives-libres
 badges:
   - segur
+teams: []
 ---

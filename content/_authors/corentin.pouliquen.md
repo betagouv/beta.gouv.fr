@@ -10,4 +10,5 @@ missions:
       - urbanvitaliz
 startups:
   - urbanvitaliz
+teams: []
 ---

@@ -11,4 +11,5 @@ missions:
       - estime.formation
 startups:
   - estime.formation
+teams: []
 ---

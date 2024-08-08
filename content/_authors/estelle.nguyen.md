@@ -8,5 +8,6 @@ missions:
     status: service
     employer: Malt
 memberType: attributaire
+teams: []
 ---
 Consultante en Recrutement chez Malt

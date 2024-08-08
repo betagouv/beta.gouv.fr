@@ -13,4 +13,5 @@ missions:
     startups:
       - les-emplois
 memberType: autre
+teams: []
 ---

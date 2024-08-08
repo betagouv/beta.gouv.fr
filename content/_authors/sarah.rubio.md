@@ -14,4 +14,5 @@ startups:
   - sndv_maritime
 previously:
   - aides-territoires
+teams: []
 ---

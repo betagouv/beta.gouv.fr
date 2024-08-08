@@ -25,4 +25,5 @@ previously:
   - cartobio
 competences:
   - Coaching
+teams: []
 ---

@@ -17,5 +17,6 @@ startups:
 previously:
   - mes-aides
   - la-bonne-boite
+teams: []
 ---
 Artisan de l'information

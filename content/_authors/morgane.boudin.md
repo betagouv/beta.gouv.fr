@@ -17,4 +17,5 @@ competences:
   - UX
   - UI
   - Product design
+teams: []
 ---

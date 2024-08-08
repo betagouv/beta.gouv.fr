@@ -13,4 +13,5 @@ missions:
 memberType: beta
 startups:
   - l-immersion-facile
+teams: []
 ---

@@ -13,4 +13,5 @@ startups:
   - encyclopedie-des-metiers
 previously:
   - competence.validee
+teams: []
 ---

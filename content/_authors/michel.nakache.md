@@ -12,5 +12,6 @@ missions:
 startups:
   - data.gouv.fr
 memberType: autre
+teams: []
 ---
 Coach Orga, systémicien, et plongeur l'été

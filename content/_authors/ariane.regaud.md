@@ -11,5 +11,6 @@ missions:
       - monitorfish
 startups:
   - monitorfish
+teams: []
 ---
 Administratrice des affaires maritimes. Chef du CACEM (Centre d'Appui au Contrôle de l'Environnement Marin).

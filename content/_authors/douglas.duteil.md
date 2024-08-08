@@ -20,5 +20,6 @@ previously:
   - workinfrance
   - domifa
   - tremplin
+teams: []
 ---
 Living JS build tool.

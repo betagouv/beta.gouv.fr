@@ -12,4 +12,5 @@ missions:
 startups:
   - data-subvention
 memberType: beta
+teams: []
 ---

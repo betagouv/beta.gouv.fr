@@ -11,5 +11,6 @@ missions:
 startups:
   - signalement
 memberType: beta
+teams: []
 ---
 Product Owner

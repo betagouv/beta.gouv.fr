@@ -12,4 +12,5 @@ missions:
     employer: IPPON
     startups:
       - delta.v
+teams: []
 ---

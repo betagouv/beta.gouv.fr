@@ -14,5 +14,6 @@ memberType: beta
 startups:
   - agents.en.intervention
   - espace.sur.demande
+teams: []
 ---
 UX/UI Designer

@@ -12,4 +12,5 @@ missions:
       - civils-de-la-defense
 startups:
   - civils-de-la-defense
+teams: []
 ---

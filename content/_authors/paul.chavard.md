@@ -15,4 +15,5 @@ startups:
   - demarches-simplifiees.fr
 previously:
   - mon-entreprise
+teams: []
 ---

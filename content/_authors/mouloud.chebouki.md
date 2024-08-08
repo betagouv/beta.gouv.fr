@@ -9,5 +9,6 @@ missions:
     employer: pole-emploi
 badges:
   - segur
+teams: []
 ---
 Slasheur , i.e. à la fois facilitateur, animateur, chargé de déploiement, et toujours au service de la communauté

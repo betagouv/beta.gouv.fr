@@ -15,4 +15,5 @@ competences:
   - Coaching
   - Communication
   - Croissance
+teams: []
 ---

@@ -18,4 +18,5 @@ competences:
   - PostgreSQL
   - PHP
 memberType: beta
+teams: []
 ---

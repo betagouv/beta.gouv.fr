@@ -14,4 +14,5 @@ competences:
   - Product design
   - Coaching
 memberType: beta
+teams: []
 ---

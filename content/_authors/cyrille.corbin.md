@@ -8,7 +8,6 @@ missions:
     end: 2024-12-29
     status: admin
     employer: SNUM
-teams:
-  - /teams/justice
+teams: []
 ---
 Développeur FullStack expérimenté très curieux des nouvelles technologies de développement.

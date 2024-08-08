@@ -14,5 +14,6 @@ missions:
 startups:
   - zero-logement-vacant
 memberType: beta
+teams: []
 ---
 Entrepreneur & Développeur Fullstack

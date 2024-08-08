@@ -30,5 +30,6 @@ competences:
   - Machine learning
   - Python
   - Data Science
+teams: []
 ---
 Expert du machine learning et de la data-science, je modélise, explicite et intègre toutes solutions à partir de vos données métiers afin de vous faire gagner le temps utile pour ceux et celles qui comptent vraiment.

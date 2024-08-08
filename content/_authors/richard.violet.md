@@ -12,5 +12,6 @@ missions:
       - histovec
 startups:
   - histovec
+teams: []
 ---
 Motard dans l’âme et service rendu au public avant tout.

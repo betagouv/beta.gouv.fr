@@ -22,5 +22,6 @@ startups:
   - reva
 badges:
   - segur
+teams: []
 ---
 Coach agile: passionné par les produits, la tech, la data, les gens

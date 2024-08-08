@@ -13,5 +13,6 @@ startups:
   - cadransolaire
 competences:
   - Administration Publique
+teams: []
 ---
 Chargé de mission Production électrique et énergies renouvelables terrestres, Ministère de la Transition énergétique

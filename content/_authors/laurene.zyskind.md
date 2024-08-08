@@ -8,5 +8,6 @@ missions:
     status: independent
     employer: ANCT
 memberType: beta
+teams: []
 ---
 Designer numérique

@@ -13,5 +13,6 @@ startups:
   - enfants-du-spectacle
 badges:
   - segur
+teams: []
 ---
 Graphiste | Slide designer

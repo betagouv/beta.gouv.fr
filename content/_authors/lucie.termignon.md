@@ -11,4 +11,5 @@ missions:
       - languia
 memberType: autre
 competences: []
+teams: []
 ---

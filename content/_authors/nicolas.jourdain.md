@@ -12,4 +12,5 @@ missions:
       - partaj
 startups:
   - partaj
+teams: []
 ---

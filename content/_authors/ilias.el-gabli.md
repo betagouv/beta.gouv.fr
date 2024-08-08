@@ -12,5 +12,6 @@ startups:
   - mon-suivi-justice
 competences:
   - Croissance
+teams: []
 ---
 Business developper pour MSJ

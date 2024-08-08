@@ -12,4 +12,5 @@ missions:
 startups:
   - données-et-territoires
 memberType: beta
+teams: []
 ---

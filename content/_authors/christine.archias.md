@@ -11,4 +11,5 @@ missions:
 startups:
   - zones.irriguees.et.irrigables
 memberType: autre
+teams: []
 ---

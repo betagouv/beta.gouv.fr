@@ -18,5 +18,6 @@ previously:
   - chauffage-urbain
 competences:
   - Coaching
+teams: []
 ---
 Coach startup, Orpailleur du service public… en quête de pépites !

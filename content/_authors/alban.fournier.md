@@ -15,5 +15,6 @@ startups:
   - ecobalyse
 badges:
   - segur
+teams: []
 ---
 Spécialiste de l'évaluation environnementale de produits (Textile / Cosmétiques) souhaitant contribuer à rendre notre modèle économique compatible avec les Limites Planétaires.

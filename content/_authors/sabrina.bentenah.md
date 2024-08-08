@@ -7,6 +7,5 @@ missions:
     end: 2023-06-30
     status: admin
     employer: Pôle Emploi
-teams:
-  - /teams/PE
+teams: []
 ---

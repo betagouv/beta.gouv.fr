@@ -13,5 +13,6 @@ missions:
 startups:
   - api-entreprise
 memberType: autre
+teams: []
 ---
 Tech lead

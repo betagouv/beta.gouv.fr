@@ -12,5 +12,6 @@ missions:
 startups:
   - docurba
 memberType: autre
+teams: []
 ---
 géographe-urbaniste

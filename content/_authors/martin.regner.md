@@ -9,8 +9,7 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ADEME
-teams:
-  - /teams/ademe
+teams: []
 previously:
   - datagir
   - nosgestesclimat

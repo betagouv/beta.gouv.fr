@@ -11,4 +11,5 @@ missions:
       - jesaisfaire
 startups:
   - jesaisfaire
+teams: []
 ---

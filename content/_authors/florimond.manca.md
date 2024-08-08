@@ -13,5 +13,6 @@ missions:
       - dialogue
 startups:
   - dialogue
+teams: []
 ---
 Développeur

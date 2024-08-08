@@ -13,4 +13,5 @@ missions:
 startups:
   - plusfraichemaville
 memberType: autre
+teams: []
 ---

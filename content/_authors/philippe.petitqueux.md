@@ -14,5 +14,6 @@ startups:
   - reva
 previously:
   - avril
+teams: []
 ---
 Pas de badges, pas de chocolat

@@ -18,5 +18,6 @@ competences:
   - Développement Backend
   - Développement Frontend
   - UI
+teams: []
 ---
 Développeur fullstack javascript

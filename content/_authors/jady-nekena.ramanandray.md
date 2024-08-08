@@ -17,5 +17,6 @@ previously:
 competences:
   - Gestion de Produit
   - Développement Backend
+teams: []
 ---
 Analyste de données le jour. Et la nuit aussi. :)

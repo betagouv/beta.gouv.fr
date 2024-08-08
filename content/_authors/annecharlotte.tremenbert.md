@@ -10,5 +10,6 @@ missions:
       - monitorfish
 startups:
   - monitorfish
+teams: []
 ---
 Cheffe du pôle environnement

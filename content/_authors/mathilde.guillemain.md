@@ -18,5 +18,6 @@ competences:
   - UX
   - Product design
   - Product strategy
+teams: []
 ---
 UX Designer & cheffe de produit J'aime les jeux de mots et le vert menthe !

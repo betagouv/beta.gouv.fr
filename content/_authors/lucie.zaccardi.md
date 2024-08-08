@@ -9,5 +9,6 @@ missions:
     status: admin
     employer: France Travail
 memberType: beta
+teams: []
 ---
 Lead Product Manager à l'incubateur et la PDO de France Travail.

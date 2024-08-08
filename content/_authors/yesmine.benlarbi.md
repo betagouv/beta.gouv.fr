@@ -16,4 +16,5 @@ startups:
   - zero-logement-vacant
 previously:
   - demarches-simplifiees.fr
+teams: []
 ---

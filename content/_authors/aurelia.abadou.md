@@ -7,4 +7,5 @@ missions:
     end: 2021-11-06
     status: independent
     employer: Malt
+teams: []
 ---

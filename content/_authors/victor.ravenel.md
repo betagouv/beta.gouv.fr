@@ -16,5 +16,6 @@ startups:
   - snu
 memberType: beta
 competences: []
+teams: []
 ---
 Product Coach, Software Engineer, Tech Builder

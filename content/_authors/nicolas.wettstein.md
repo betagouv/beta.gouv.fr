@@ -11,4 +11,5 @@ missions:
       - l-immersion-facile
 startups:
   - l-immersion-facile
+teams: []
 ---

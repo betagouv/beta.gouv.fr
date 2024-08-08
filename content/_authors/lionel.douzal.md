@@ -7,4 +7,5 @@ missions:
     end: 2025-12-31
     status: admin
 memberType: dinum
+teams: []
 ---

@@ -14,5 +14,6 @@ startups:
   - metiers-numeriques
 badges:
   - segur
+teams: []
 ---
 Développeur le jour, musicien la nuit

@@ -19,5 +19,6 @@ previously:
   - aquaculteurs.marins
 competences:
   - Coaching
+teams: []
 ---
 Coach produit - La Fabrique Numérique MTES

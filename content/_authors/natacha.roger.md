@@ -10,4 +10,5 @@ missions:
     startups:
       - epandage-facile
 memberType: beta
+teams: []
 ---

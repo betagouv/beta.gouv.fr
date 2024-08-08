@@ -14,4 +14,5 @@ missions:
     employer: LBC
 competences:
   - Coaching
+teams: []
 ---

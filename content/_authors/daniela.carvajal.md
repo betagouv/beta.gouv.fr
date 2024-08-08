@@ -7,5 +7,6 @@ missions:
     end: 2025-01-11
     status: admin
 memberType: beta
+teams: []
 ---
 Lead Marketing Digital au sein de l'incubateur de Pôle emploi

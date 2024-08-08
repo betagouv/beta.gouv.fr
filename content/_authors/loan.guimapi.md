@@ -8,5 +8,6 @@ missions:
     status: admin
 badges:
   - segur
+teams: []
 ---
 Apprentie designer interactif

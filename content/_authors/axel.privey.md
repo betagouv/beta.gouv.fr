@@ -22,4 +22,5 @@ competences:
   - Intrapreneur
   - Gestion de produit
   - Gestion de système d'information
+teams: []
 ---

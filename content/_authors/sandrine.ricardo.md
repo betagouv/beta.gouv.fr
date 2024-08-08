@@ -22,5 +22,6 @@ startups:
 domaine: Développement
 competences:
   - Développement Full-stack
+teams: []
 ---
 Développeuse pour projets écologiques et sociaux

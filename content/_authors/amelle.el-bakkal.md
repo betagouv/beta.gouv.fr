@@ -15,5 +15,6 @@ badges:
 competences:
   - Développement Frontend
   - Développement Backend
+teams: []
 ---
 Développeuse multipassionnée, pour un numérique inclusif, divers et accessible 🌸🌱

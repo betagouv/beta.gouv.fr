@@ -13,5 +13,6 @@ missions:
 startups:
   - basegun
 memberType: beta
+teams: []
 ---
 Data scientist, product owner et développeuse web

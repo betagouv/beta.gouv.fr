@@ -12,5 +12,6 @@ memberType: beta
 competences:
   - Intrapreneur(se)
   - Communication
+teams: []
 ---
 Intrapreneur déterminé à avoir de l'impact.

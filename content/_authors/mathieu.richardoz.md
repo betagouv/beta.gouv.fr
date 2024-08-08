@@ -12,5 +12,6 @@ missions:
       - aidantsconnect
 startups:
   - aidantsconnect
+teams: []
 ---
 La tech au service de l'humain.

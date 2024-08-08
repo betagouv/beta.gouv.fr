@@ -12,5 +12,6 @@ missions:
 startups:
   - ma-cantine-egalim
 memberType: beta
+teams: []
 ---
 Chargée de déploiement, de communauté, de support utilisateur, j'adore et écouter les gens, se plaindre au sujet d'un bug ou raconter leur vie autour d'un verre !

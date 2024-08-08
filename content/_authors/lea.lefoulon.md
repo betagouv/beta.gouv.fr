@@ -14,4 +14,5 @@ startups:
 memberType: autre
 previously:
   - dialogue
+teams: []
 ---

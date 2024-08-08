@@ -14,5 +14,6 @@ startups:
 competences:
   - Développement Backend
   - Développement Frontend
+teams: []
 ---
 Développeur fullstack, fan de TDD

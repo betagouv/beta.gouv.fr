@@ -13,4 +13,5 @@ missions:
 startups:
   - versementgetorix
 memberType: beta
+teams: []
 ---

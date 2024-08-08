@@ -12,4 +12,5 @@ missions:
 startups:
   - entreprises-bzh
 previously: []
+teams: []
 ---

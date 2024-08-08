@@ -15,5 +15,6 @@ missions:
 startups:
   - les-emplois
 memberType: beta
+teams: []
 ---
 Ensemble on va plus loin

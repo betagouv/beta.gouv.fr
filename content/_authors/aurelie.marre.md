@@ -10,4 +10,5 @@ missions:
       - pilotage.de.linclusion
 startups:
   - pilotage.de.linclusion
+teams: []
 ---

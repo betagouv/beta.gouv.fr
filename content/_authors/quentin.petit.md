@@ -12,4 +12,5 @@ missions:
 startups:
   - sndv_maritime
 memberType: beta
+teams: []
 ---

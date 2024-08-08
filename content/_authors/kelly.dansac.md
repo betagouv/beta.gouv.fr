@@ -11,5 +11,6 @@ missions:
 startups:
   - dossierfacile
 memberType: beta
+teams: []
 ---
 Opératrice de validation chez DossierFacile

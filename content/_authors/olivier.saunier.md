@@ -11,4 +11,5 @@ missions:
 startups:
   - competence.validee
 memberType: beta
+teams: []
 ---

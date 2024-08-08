@@ -28,4 +28,5 @@ competences:
   - Gestion de Produit
   - JavaScript/TypeScript
   - Accessibilité
+teams: []
 ---

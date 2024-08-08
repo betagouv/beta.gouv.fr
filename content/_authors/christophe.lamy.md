@@ -15,5 +15,6 @@ startups:
   - api-engagement
 badges:
   - segur
+teams: []
 ---
 Expert en stratégie SEO et Product Growth au service de projets qui ont du sens.

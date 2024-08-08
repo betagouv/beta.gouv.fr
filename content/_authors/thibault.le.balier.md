@@ -12,4 +12,5 @@ missions:
 startups:
   - ozensemble
 memberType: beta
+teams: []
 ---

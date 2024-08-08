@@ -14,4 +14,5 @@ competences:
   - 'data analysis '
   - python
 memberType: beta
+teams: []
 ---

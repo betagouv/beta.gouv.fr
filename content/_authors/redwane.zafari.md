@@ -21,6 +21,7 @@ competences:
   - JavaScript/TypeScript
   - Accessibilité
   - PostgreSQL
+teams: []
 ---
 Je suis développeur Full Stack spécialisé en JavaScript, avec une forte prédilection pour le développement frontend.
 

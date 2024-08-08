@@ -12,5 +12,6 @@ competences:
   - UX
   - Coaching
   - Communication
+teams: []
 ---
 Designer de services autodidacte et touche à tout, je co-construis des services d'utilité générale avec leurs parties prenantes.

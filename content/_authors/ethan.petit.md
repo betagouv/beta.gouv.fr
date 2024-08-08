@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: IGN
 memberType: beta
+teams: []
 ---

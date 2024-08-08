@@ -15,4 +15,5 @@ competences:
   - Google Ads
   - SEA
 memberType: beta
+teams: []
 ---

@@ -11,5 +11,6 @@ missions:
       - pass-culture
 startups:
   - pass-culture
+teams: []
 ---
 Écrit des autobiographies percutantes en moins de 200 caractères depuis 1992.

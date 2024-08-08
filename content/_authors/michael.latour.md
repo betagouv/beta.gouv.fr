@@ -14,4 +14,5 @@ startups:
   - au-compost-mitoyen
 competences:
   - Administration Publique
+teams: []
 ---

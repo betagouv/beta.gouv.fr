@@ -20,4 +20,5 @@ competences:
   - UX
   - Gestion de Produit
 memberType: beta
+teams: []
 ---

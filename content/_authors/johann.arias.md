@@ -9,5 +9,6 @@ missions:
     status: service
     employer: Octo
 memberType: autre
+teams: []
 ---
 Coach en innovation, maker fou

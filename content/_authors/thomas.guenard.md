@@ -13,5 +13,6 @@ missions:
     employer: Malt
     startups:
       - snu
+teams: []
 ---
 Passionné de wakeboard, snowboard et d'escalade, j'évolue depuis maintenant plus de 7 ans dans le milieu du digital.

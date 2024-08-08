@@ -20,5 +20,6 @@ competences:
   - Gestion de Produit
   - Administration Publique
   - UX
+teams: []
 ---
 Responsable technique

@@ -14,5 +14,6 @@ startups:
   - tdb-apprentissage
 memberType: beta
 link: https://www.linkedin.com/in/pbbouzin/
+teams: []
 ---
 Chargé de déploiement au Tableau de bord de l'apprentissage. Vélo

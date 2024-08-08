@@ -14,5 +14,6 @@ startups:
   - rdv.insertion
 badges:
   - segur
+teams: []
 ---
 Numeric addict! Si j'étais un PNJ mon voyant serait toujours au vert pour ouvrir une nouvelle discussion :)

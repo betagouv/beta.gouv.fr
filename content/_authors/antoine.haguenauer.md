@@ -10,5 +10,6 @@ missions:
       - rdv-service-public
 startups:
   - rdv-service-public
+teams: []
 ---
 Fan de bugs bunny

@@ -11,5 +11,6 @@ missions:
       - clara
 startups:
   - clara
+teams: []
 ---
 Biz dev du produit Clara !

@@ -18,4 +18,5 @@ competences:
   - Gestion de Produit
   - Communication
   - Croissance
+teams: []
 ---

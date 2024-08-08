@@ -11,5 +11,6 @@ missions:
       - emile
 startups:
   - emile
+teams: []
 ---
 Conseiller emploi à la DIHAL

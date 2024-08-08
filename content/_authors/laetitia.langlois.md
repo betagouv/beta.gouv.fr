@@ -15,5 +15,6 @@ competences:
   - Développement Frontend
   - JavaScript/TypeScript
 memberType: beta
+teams: []
 ---
 Développeuse front-end. Je travaille pour des projets qui transforment la société de manière positive.

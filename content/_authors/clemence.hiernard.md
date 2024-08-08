@@ -13,4 +13,5 @@ startups:
   - territoires-en-transitions
 previously:
   - pau-partage
+teams: []
 ---

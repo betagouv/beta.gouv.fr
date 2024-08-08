@@ -11,5 +11,6 @@ missions:
       - memo
 startups:
   - memo
+teams: []
 ---
 Il faut parfois casser les codes pour avoir un véritable impact.

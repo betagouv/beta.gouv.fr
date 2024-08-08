@@ -14,5 +14,6 @@ startups:
   - acceslibre
 competences:
   - Développement Backend
+teams: []
 ---
 Développeuse la semaine, dans les montagnes le WE

@@ -13,5 +13,6 @@ missions:
 startups:
   - plusfraichemaville
 memberType: beta
+teams: []
 ---
 Designer de service, UX UI, illustratrice

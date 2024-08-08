@@ -34,5 +34,6 @@ competences:
 previously:
   - attractivite.des.territoires
   - aldo
+teams: []
 ---
 Designer de service, UX & Facilitation

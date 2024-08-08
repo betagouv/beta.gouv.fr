@@ -13,5 +13,6 @@ startups:
   - ma-cantine-egalim
 badges:
   - segur
+teams: []
 ---
 Chargé de déploiement le jour, scénariste-réalisateur la nuit

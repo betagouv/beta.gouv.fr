@@ -12,5 +12,6 @@ missions:
       - signaux-faibles
 startups:
   - signaux-faibles
+teams: []
 ---
 Data-Scientist @ DGFiP

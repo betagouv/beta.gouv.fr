@@ -8,4 +8,5 @@ missions:
     status: service
     employer: Malt
 memberType: attributaire
+teams: []
 ---

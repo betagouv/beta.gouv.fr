@@ -21,4 +21,5 @@ role: Coach
 link: https://ehcor.al
 startups:
   - mediation.logement
+teams: []
 ---

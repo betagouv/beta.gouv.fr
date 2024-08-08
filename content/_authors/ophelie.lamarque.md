@@ -16,5 +16,6 @@ competences:
   - UX
   - UI
   - Gestion de Produit
+teams: []
 ---
 Sensible à la valeur que le Design apporte à l'entreprise.

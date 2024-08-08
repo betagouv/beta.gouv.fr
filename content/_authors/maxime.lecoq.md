@@ -18,5 +18,6 @@ previously:
   - 1000.jours
 competences:
   - Gestion de Produit
+teams: []
 ---
 Product Manager 1000 jours

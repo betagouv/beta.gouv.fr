@@ -15,5 +15,6 @@ startups:
   - trackdechets
 competences:
   - Développement Backend
+teams: []
 ---
 Ingénieur développeur full-stack

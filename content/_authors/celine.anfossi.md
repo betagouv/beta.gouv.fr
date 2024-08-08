@@ -12,5 +12,6 @@ startups:
   - monpsy
 link: https://www.linkedin.com/in/celine-anfossi/
 competences: []
+teams: []
 ---
 J'accompagne les gens et les projets.

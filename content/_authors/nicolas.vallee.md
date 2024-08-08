@@ -15,4 +15,5 @@ startups:
   - territoires-en-transitions
 competences:
   - Administration Publique
+teams: []
 ---

@@ -13,6 +13,7 @@ missions:
 startups:
   - open-academie
   - dossiersco
+teams: []
 ---
 Sujet: Comment faire en sorte que la simplification administrative cesse d'être une
   incantation ? Vous avez 5 heures.

@@ -17,5 +17,6 @@ badges:
   - segur
 previously:
   - api.gouv.fr
+teams: []
 ---
 J'accompagne les administrations dans la mise à disposition de leurs API sur api.gouv.fr.

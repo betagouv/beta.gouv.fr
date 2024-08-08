@@ -28,4 +28,5 @@ competences:
   - ReScript
   - OCaml
   - Publicodes
+teams: []
 ---

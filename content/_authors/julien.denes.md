@@ -12,4 +12,5 @@ missions:
       - france-numerique-ensemble
       - suite.d.outils.des.mediateurs.numeriques
 memberType: beta
+teams: []
 ---

@@ -30,7 +30,6 @@ competences:
   - Développement Frontend
   - Développement Backend
   - Sécurité informatique
-teams:
-  - /teams/animation-dinum
+teams: []
 ---
 Chercheur en simplicité

@@ -7,4 +7,5 @@ missions:
     end: 2024-08-31
     status: admin
     employer: MINARM
+teams: []
 ---

@@ -11,5 +11,6 @@ missions:
       - eac
 startups:
   - eac
+teams: []
 ---
 Chef de produit sur la plateforme pour l'éducation artistique et culturelle.

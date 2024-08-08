@@ -14,5 +14,6 @@ startups:
   - domifa
 badges:
   - segur
+teams: []
 ---
 Développeur et allergique au fun :p

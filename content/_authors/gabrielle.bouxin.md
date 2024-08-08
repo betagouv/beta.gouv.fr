@@ -17,4 +17,5 @@ previously:
 competences:
   - Gestion de Produit
   - Administration Publique
+teams: []
 ---

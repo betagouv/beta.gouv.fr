@@ -9,4 +9,5 @@ missions:
     employer: OCTO
 memberType: beta
 github: imaneryane
+teams: []
 ---

@@ -1,5 +1,5 @@
 ---
 name: Animation
-incubator: justice
+incubator: /incubators/justice
 mission: ''
 ---

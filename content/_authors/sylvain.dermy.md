@@ -19,5 +19,6 @@ startups:
   - aplus
 previously:
   - mes-aides
+teams: []
 ---
 En cas de doute, ajoutez un like.

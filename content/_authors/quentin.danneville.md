@@ -15,5 +15,6 @@ missions:
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
+teams: []
 ---
 Développeur full stack

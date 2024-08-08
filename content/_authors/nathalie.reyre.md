@@ -29,5 +29,6 @@ badges:
 competences:
   - Gestion de Produit
   - Communication
+teams: []
 ---
 Je m'enflamme souvent quand un sujet m'intéresse...

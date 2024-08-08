@@ -18,5 +18,6 @@ missions:
 startups:
   - versementgetorix
   - maestro
+teams: []
 ---
 Coach, Designer de service

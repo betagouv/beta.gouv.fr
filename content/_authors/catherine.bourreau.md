@@ -14,5 +14,6 @@ startups:
   - tdb-apprentissage
 badges:
   - segur
+teams: []
 ---
 Designer UX/UI passionnée, facilitatrice, formatrice design thinking

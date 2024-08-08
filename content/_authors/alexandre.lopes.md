@@ -11,4 +11,5 @@ missions:
 startups:
   - nis2
 memberType: autre
+teams: []
 ---

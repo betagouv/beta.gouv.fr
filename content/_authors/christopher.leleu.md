@@ -12,5 +12,6 @@ missions:
       - medistock
 memberType: autre
 competences: []
+teams: []
 ---
 Data

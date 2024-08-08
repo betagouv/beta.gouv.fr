@@ -9,5 +9,6 @@ missions:
     employer: dinum
 previously:
   - mdph
+teams: []
 ---
 Veut prouver que « Startup d'État » n'est pas un oxymore.

@@ -14,4 +14,5 @@ github: /
 competences:
   - Intrapreneur(se)
 memberType: beta
+teams: []
 ---

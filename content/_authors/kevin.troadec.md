@@ -12,5 +12,6 @@ missions:
 startups:
   - france-numerique-ensemble
 memberType: beta
+teams: []
 ---
 PO

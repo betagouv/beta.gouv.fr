@@ -12,5 +12,6 @@ missions:
 previously:
   - carnet.de.bord
 memberType: beta
+teams: []
 ---
 Développeur passionné d'Agile, de Craft, de coopération, de types et de lambda.

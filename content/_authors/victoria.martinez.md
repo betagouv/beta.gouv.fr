@@ -14,4 +14,5 @@ missions:
 startups:
   - e-mjpm
   - egalite.professionnelle
+teams: []
 ---

@@ -23,4 +23,5 @@ previously:
 badges:
   - segur
 link: https://www.linkedin.com/in/raphaeltaieb1/
+teams: []
 ---

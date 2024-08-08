@@ -19,5 +19,6 @@ badges:
 competences:
   - Communication
   - Administration Publique
+teams: []
 ---
 Acteur de terrain et d'innovation publique, animé par l'envie d'Innover & Servir - Go Carnet de bord !

@@ -11,4 +11,5 @@ missions:
       - signalement
 startups:
   - signalement
+teams: []
 ---

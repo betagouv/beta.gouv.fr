@@ -11,5 +11,6 @@ missions:
       - données-et-territoires
 startups:
   - données-et-territoires
+teams: []
 ---
 Développeuse TelesCoop - La Zone

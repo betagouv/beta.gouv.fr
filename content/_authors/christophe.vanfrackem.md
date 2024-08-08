@@ -13,6 +13,7 @@ missions:
       - acceslibre
 startups:
   - acceslibre
+teams: []
 ---
 Développeur sénior Python / Django.
 Aime le libre et l'open source :)

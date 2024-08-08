@@ -8,5 +8,6 @@ missions:
     status: admin
     employer: MASA&#x2F;DGAl
 memberType: autre
+teams: []
 ---
 Cheffe de la mission des urgences sanitaires (MASADGAl)

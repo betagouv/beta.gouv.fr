@@ -9,5 +9,6 @@ missions:
     status: service
 previously:
   - eva
+teams: []
 ---
 Développeur le jour mais volleyeur le jour aussi

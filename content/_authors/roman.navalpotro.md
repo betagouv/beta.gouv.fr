@@ -16,5 +16,6 @@ startups:
   - sante-psy-etudiant
 badges:
   - segur
+teams: []
 ---
 Coach @ BetaGouv, ex DG de NUMA

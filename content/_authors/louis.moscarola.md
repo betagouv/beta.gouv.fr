@@ -13,5 +13,6 @@ missions:
       - aplus
 startups:
   - aplus
+teams: []
 ---
 Chambérien d'origine, étudiant à l'IEP de Grenoble, en stage auprès de l'Incubateur des Services Numérique

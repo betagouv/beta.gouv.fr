@@ -13,4 +13,5 @@ competences:
   - Communication
   - Coaching
 memberType: beta
+teams: []
 ---

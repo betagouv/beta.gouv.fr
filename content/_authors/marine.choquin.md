@@ -18,6 +18,5 @@ startups:
   - agents.en.intervention
 competences:
   - Administration Publique
-teams:
-  - /teams/anct
+teams: []
 ---

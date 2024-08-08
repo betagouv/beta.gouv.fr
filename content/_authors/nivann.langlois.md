@@ -16,5 +16,6 @@ startups:
 badges:
   - segur
 competences: []
+teams: []
 ---
 Chargé de déploiement

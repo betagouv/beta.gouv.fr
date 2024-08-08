@@ -13,5 +13,6 @@ missions:
 startups:
   - tumeplay
 memberType: beta
+teams: []
 ---
 Développeur web et mobile @Numéricité

@@ -12,5 +12,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+teams: []
 ---
 Développeuse Full Stack

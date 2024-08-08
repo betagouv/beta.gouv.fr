@@ -11,5 +11,6 @@ missions:
       - potentiel
 startups:
   - potentiel
+teams: []
 ---
 Software/Coach Craftsman TDD, BDD et retrogaming addict

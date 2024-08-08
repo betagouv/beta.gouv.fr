@@ -12,5 +12,6 @@ missions:
 startups:
   - diagoriente
 memberType: beta
+teams: []
 ---
 Chargé de déploiement le jour

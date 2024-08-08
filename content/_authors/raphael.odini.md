@@ -22,5 +22,6 @@ competences:
   - Développement Frontend
   - Développement Backend
   - Administration Système
+teams: []
 ---
 Développeur full-stack, j'aime les communs, apprendre (& faire), le vélo et les pingouins.

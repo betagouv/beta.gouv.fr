@@ -13,4 +13,5 @@ missions:
 startups:
   - encyclopedie-des-metiers
   - mobiville
+teams: []
 ---

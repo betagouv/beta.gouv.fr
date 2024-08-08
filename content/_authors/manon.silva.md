@@ -27,4 +27,5 @@ badges:
 startups:
   - maison.de.lautisme
   - ozensemble
+teams: []
 ---

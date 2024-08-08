@@ -13,4 +13,5 @@ github: fbezagu
 competences:
   - Développement Full-stack
 memberType: beta
+teams: []
 ---

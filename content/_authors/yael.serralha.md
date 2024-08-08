@@ -9,5 +9,6 @@ missions:
     employer: Tribunal de Nanterre
 badges:
   - segur
+teams: []
 ---
 Stagiaire Mon Suivi Justice

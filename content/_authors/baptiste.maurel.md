@@ -13,5 +13,6 @@ missions:
 startups:
   - aides.jeunes
 memberType: beta
+teams: []
 ---
 Software Developer

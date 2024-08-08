@@ -13,5 +13,6 @@ startups:
   - dora
 previously:
   - la.communaute.de.linclusion
+teams: []
 ---
 Je mets la com' au service des projets à impact 👊

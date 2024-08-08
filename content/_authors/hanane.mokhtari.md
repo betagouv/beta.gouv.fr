@@ -11,4 +11,5 @@ missions:
 startups:
   - travailler.en.france
 memberType: beta
+teams: []
 ---

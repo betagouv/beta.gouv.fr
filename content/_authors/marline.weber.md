@@ -12,4 +12,5 @@ competences:
   - Administration Publique
   - Droit / Affaires juridiques
 memberType: autre
+teams: []
 ---

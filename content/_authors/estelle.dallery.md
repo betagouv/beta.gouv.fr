@@ -7,4 +7,5 @@ missions:
     end: 2024-04-24
     status: admin
 memberType: beta
+teams: []
 ---

@@ -13,4 +13,5 @@ startups:
   - snu
 badges:
   - segur
+teams: []
 ---

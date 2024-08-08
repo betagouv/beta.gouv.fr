@@ -15,4 +15,5 @@ competences:
   - Intrapreneur(se)
   - Product design
 memberType: autre
+teams: []
 ---

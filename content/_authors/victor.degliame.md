@@ -6,4 +6,5 @@ missions:
   - start: 2024-06-13
     end: 2027-09-13
     status: admin
+teams: []
 ---

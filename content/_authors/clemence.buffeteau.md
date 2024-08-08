@@ -11,4 +11,5 @@ missions:
 startups:
   - rapportnav
 memberType: attributaire
+teams: []
 ---

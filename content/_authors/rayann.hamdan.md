@@ -12,4 +12,5 @@ missions:
       - mobilic
 startups:
   - mobilic
+teams: []
 ---

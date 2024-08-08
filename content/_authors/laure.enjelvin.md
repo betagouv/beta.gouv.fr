@@ -12,5 +12,6 @@ missions:
       - camino
 startups:
   - camino
+teams: []
 ---
 Nouvelle-venue en tant qu'intrapreneure2 sur CAMINO (Cadastre Minier Ouvert) au sein de la Fabrique numérique au MTE

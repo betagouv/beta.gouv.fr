@@ -13,5 +13,6 @@ badges:
 competences:
   - Communication
   - Gestion de Produit
+teams: []
 ---
 Chargée de communauté, serial-entrepreneuse à mes heures perdues.

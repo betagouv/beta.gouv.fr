@@ -9,4 +9,5 @@ missions:
     status: independent
 badges:
   - segur
+teams: []
 ---

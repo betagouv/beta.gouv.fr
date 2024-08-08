@@ -11,4 +11,5 @@ missions:
 startups:
   - mon-suivi-social
 memberType: beta
+teams: []
 ---

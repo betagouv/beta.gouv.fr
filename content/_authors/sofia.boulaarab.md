@@ -21,4 +21,5 @@ previously:
 competences:
   - UX
   - UI
+teams: []
 ---

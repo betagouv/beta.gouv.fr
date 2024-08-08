@@ -8,5 +8,6 @@ missions:
     end: 2023-12-13
     status: independent
 memberType: beta
+teams: []
 ---
 Consultant SEO / référencement naturel, jour et nuit !

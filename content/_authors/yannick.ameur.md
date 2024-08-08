@@ -16,5 +16,6 @@ startups:
   - les-emplois
 previously:
   - carnet.de.bord
+teams: []
 ---
 Coach pour la planète.

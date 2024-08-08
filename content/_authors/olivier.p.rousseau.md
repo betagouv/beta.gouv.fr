@@ -12,5 +12,6 @@ missions:
 startups:
   - mon-suivi-justice
 memberType: autre
+teams: []
 ---
 Amateur de montagne, nature et parfois de data

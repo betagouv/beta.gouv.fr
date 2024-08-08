@@ -14,5 +14,6 @@ missions:
 startups:
   - ma-cantine-egalim
 memberType: beta
+teams: []
 ---
 Data Engineer  Associé chez multi.coop

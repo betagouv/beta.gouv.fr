@@ -13,4 +13,5 @@ startups:
   - partaj
 competences:
   - Administration Publique
+teams: []
 ---

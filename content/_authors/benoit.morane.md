@@ -17,4 +17,5 @@ startups:
   - api.gouv.fr
 competences:
   - Communication
+teams: []
 ---

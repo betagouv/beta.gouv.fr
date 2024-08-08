@@ -14,5 +14,6 @@ missions:
 startups:
   - homologation
 memberType: beta
+teams: []
 ---
 Développeur le jour, musicien la nuit.

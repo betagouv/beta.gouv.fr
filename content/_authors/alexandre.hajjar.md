@@ -14,4 +14,5 @@ missions:
 startups:
   - mon-entreprise
   - euphrosyne
+teams: []
 ---

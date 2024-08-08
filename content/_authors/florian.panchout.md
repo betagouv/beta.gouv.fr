@@ -14,4 +14,5 @@ startups:
   - nosgestesclimat
 badges:
   - segur
+teams: []
 ---

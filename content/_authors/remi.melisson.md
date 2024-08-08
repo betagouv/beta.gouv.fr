@@ -12,6 +12,7 @@ missions:
       - codedutravail
 startups:
   - codedutravail
+teams: []
 ---
 Functional programming Natural Language Processing Machine Learning
 Wait and see !

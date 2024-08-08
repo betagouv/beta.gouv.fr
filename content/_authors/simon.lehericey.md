@@ -15,5 +15,6 @@ missions:
     employer: octo
 startups:
   - demarches-simplifiees.fr
+teams: []
 ---
 Tech sur demarches-simplifiees.fr.
