@@ -12,4 +12,5 @@ missions:
     employer: France Nation Verte / SGPE / DINUM
     startups:
       - france.nation.verte.agir
+teams: []
 ---

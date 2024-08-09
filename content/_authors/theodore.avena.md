@@ -12,5 +12,6 @@ missions:
 startups:
   - envergo
 memberType: autre
+teams: []
 ---
 Chargé de déploiement et d'étude EnvErgo

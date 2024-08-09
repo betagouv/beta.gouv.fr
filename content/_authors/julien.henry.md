@@ -12,5 +12,6 @@ missions:
 competences:
   - Communication
 memberType: beta
+teams: []
 ---
 Nouvel arrivant dans la communauté Beta Gouv auprès de Dossier Facile en tant qu'opérateur.

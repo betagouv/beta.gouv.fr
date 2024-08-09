@@ -13,5 +13,6 @@ startups:
   - aidess
 competences:
   - Administration Publique
+teams: []
 ---
 Socio-démographe de formation, je trifouille toutes sortes de données pour accompagner le déploiement des politiques publiques.

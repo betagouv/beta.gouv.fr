@@ -10,5 +10,6 @@ missions:
     employer: MTECT
 badges:
   - segur
+teams: []
 ---
 Data Scientist-Analyst DGALN - MTE

@@ -13,5 +13,6 @@ missions:
       - aides-territoires
 startups:
   - aides-territoires
+teams: []
 ---
 Développeur spécialisé applications web: Vue.js, React, Node, API, GraphQL, REST.

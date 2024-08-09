@@ -12,5 +12,6 @@ missions:
       - enfants-du-spectacle
 startups:
   - enfants-du-spectacle
+teams: []
 ---
 Product Owner

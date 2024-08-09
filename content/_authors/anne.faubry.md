@@ -26,5 +26,6 @@ competences:
   - UI
   - Accessibilité
   - Ecoconception
+teams: []
 ---
 UXUI designer

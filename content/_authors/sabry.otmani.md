@@ -11,5 +11,6 @@ missions:
       - reglementations.en.foret
 startups:
   - reglementations.en.foret
+teams: []
 ---
 J'aime bien les idées, j'aime encore plus les executer.

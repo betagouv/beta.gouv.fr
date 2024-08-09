@@ -16,5 +16,6 @@ badges:
   - segur
 previously:
   - mon-entreprise
+teams: []
 ---
 Développeur Front-End spécialisé en React. Fan de 🚲 🎸 🏊‍♂️  🚣

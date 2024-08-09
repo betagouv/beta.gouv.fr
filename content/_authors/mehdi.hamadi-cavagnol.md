@@ -13,5 +13,6 @@ startups:
   - monstage
 badges:
   - segur
+teams: []
 ---
 Intrapreneur de Mon stage de troisième.

@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Ground
 memberType: autre
+teams: []
 ---
 CPO Freelance & Coach Product, spécialiste du lancement de nouveaux produits digitaux. Mon mantra: utiliser
   la tech pour créer des services qui ont un impact positif.

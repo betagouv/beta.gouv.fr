@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: Ministère des Armées
 memberType: beta
+teams: []
 ---

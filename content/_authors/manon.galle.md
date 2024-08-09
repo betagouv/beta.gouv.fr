@@ -11,8 +11,7 @@ missions:
     startups:
       - les.bases
       - suite.d.outils.des.mediateurs.numeriques
-teams:
-  - /teams/anct
+teams: []
 memberType: beta
 link: https://www.linkedin.com/in/manon-galle/
 ---

@@ -11,4 +11,5 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+teams: []
 ---

@@ -11,4 +11,5 @@ previously:
   - camino
 competences:
   - Coaching
+teams: []
 ---

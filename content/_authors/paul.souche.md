@@ -23,5 +23,6 @@ competences:
   - Docker
   - JavaScript/TypeScript
   - PostgreSQL
+teams: []
 ---
 Développeur fullstack

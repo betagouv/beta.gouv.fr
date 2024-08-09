@@ -10,5 +10,6 @@ missions:
       - entraides
 startups:
   - entraides
+teams: []
 ---
 Je suis une cheffe de projets en DIRECCTE qui s'est vue projetée dans la vie d'une intrapreneure et qui aime les défis !

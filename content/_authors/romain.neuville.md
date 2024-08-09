@@ -14,5 +14,6 @@ missions:
 startups:
   - rdv-service-public
   - rdv.insertion
+teams: []
 ---
 Développeur Full Stack multi casquettes (Sys/NetAdmin, amateur de jeux de société, danseur...)

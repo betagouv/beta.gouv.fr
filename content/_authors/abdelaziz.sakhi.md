@@ -14,4 +14,5 @@ startups:
   - infrastructures.numeriques
 badges:
   - segur
+teams: []
 ---

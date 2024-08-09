@@ -16,6 +16,7 @@ competences:
   - Traitement de données
   - Application web
 memberType: autre
+teams: []
 ---
 Ugo Parment, Géomaticien, master en géographie spécialisé en traitement de données spatiales, indépendant depuis 2021.
 Je propose la réalisation de cartes, le traitement de données, la création d'application web géographique.

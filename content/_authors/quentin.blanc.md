@@ -14,4 +14,5 @@ startups:
   - rdv.insertion
 badges:
   - segur
+teams: []
 ---

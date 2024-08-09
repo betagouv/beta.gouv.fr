@@ -12,5 +12,6 @@ missions:
       - assec
 startups:
   - assec
+teams: []
 ---
 Coder pour des shampoings c'est bien mais coder pour Demain c'est mieux! Graffeur, Joueur de jeu vidéo et né dans les vignes Montpelliéraine élevé au 80/86.

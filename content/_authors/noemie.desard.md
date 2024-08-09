@@ -15,5 +15,6 @@ competences:
   - Communication
   - Gestion de Produit
   - Coaching
+teams: []
 ---
 UX designer
