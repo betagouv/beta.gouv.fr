@@ -14,4 +14,5 @@ startups:
   - mission-transition-ecologique
 competences:
   - Croissance
+teams: []
 ---

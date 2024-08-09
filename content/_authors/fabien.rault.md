@@ -10,4 +10,5 @@ missions:
     status: independent
     employer: Octo
 memberType: beta
+teams: []
 ---

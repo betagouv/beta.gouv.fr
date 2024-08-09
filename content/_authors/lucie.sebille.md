@@ -9,4 +9,5 @@ missions:
     employer: Malt
     startups:
       - grist.numerique.gouv.fr
+teams: []
 ---

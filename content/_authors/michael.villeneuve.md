@@ -14,5 +14,6 @@ startups:
 memberType: beta
 previously:
   - rdv.insertion
+teams: []
 ---
 Développeur passionné, cycliste acharné, écologiste engagé

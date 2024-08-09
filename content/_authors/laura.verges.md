@@ -15,5 +15,6 @@ memberType: autre
 role: Chargée de communication - conception/rédaction et partenariats
 startups:
   - jeveuxaider
+teams: []
 ---
 Chargée de communication, rêveuse de web participatif, libre et engagé.

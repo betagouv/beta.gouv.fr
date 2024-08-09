@@ -11,5 +11,6 @@ missions:
       - ecobalyse
 startups:
   - ecobalyse
+teams: []
 ---
 Toujours apprendre, être curieux :)

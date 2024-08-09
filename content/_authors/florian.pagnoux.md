@@ -9,5 +9,6 @@ missions:
     employer: dinum
 previously:
   - mes-aides
+teams: []
 ---
 Souhaite construire des produits numériques qui ont du sens.

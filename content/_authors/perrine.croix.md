@@ -17,4 +17,5 @@ competences:
   - Product design
   - UX
   - Accessibilité
+teams: []
 ---

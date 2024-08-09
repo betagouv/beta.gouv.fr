@@ -8,5 +8,6 @@ missions:
     end: 2024-11-11
     status: admin
     employer: DINUM
+teams: []
 ---
 Faciliter les démarches des usagers est mon leitmotiv depuis mon entrée dans l'administration.

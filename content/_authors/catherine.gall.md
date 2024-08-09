@@ -13,5 +13,6 @@ missions:
       - emile
 startups:
   - emile
+teams: []
 ---
 Je me passionne pour la recherche et l’innovation. Je suis consultante indépendante et Déléguée Générale de la Chaire ETI de l'IAE de Paris Université Paris 1 Panthéon Sorbonne.

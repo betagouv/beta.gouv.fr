@@ -30,5 +30,6 @@ previously:
   - encyclopedie-des-metiers
   - mes-evenements-emploi
   - la-bonne-formation
+teams: []
 ---
 Passionné par les technologies respectueuses de la biosphère.

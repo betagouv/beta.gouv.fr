@@ -8,4 +8,5 @@ missions:
     status: admin
 competences:
   - Administration Publique
+teams: []
 ---

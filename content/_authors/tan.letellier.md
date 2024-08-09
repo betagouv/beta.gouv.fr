@@ -8,8 +8,7 @@ missions:
     end: 2023-08-31
     status: admin
     employer: Pôle Emploi
-teams:
-  - /teams/PE
+teams: []
 incubator: francetravail
 competences:
   - Administration Publique

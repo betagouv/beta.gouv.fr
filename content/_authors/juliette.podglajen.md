@@ -13,4 +13,5 @@ startups:
   - dedale
 badges:
   - segur
+teams: []
 ---

@@ -21,4 +21,5 @@ startups:
   - pilotage.de.linclusion
 previously:
   - resorption-bidonvilles
+teams: []
 ---

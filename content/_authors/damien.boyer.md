@@ -17,4 +17,5 @@ startups:
 competences:
   - UX
   - UI
+teams: []
 ---

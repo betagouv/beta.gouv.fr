@@ -9,5 +9,6 @@ missions:
     status: service
     employer: Octo
 memberType: beta
+teams: []
 ---
 Développeur Mobile

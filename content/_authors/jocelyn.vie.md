@@ -8,5 +8,6 @@ missions:
     status: admin
     employer: MTE - Employeur DDT31
 memberType: beta
+teams: []
 ---
 Enthousiaste par nature

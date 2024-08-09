@@ -14,4 +14,5 @@ startups:
   - jeveuxaider
   - api-engagement
 memberType: beta
+teams: []
 ---

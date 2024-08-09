@@ -13,5 +13,6 @@ missions:
       - egalite.professionnelle
 startups:
   - egalite.professionnelle
+teams: []
 ---
 Développeur front-end & Product designer.

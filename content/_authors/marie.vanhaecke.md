@@ -18,5 +18,6 @@ badges:
   - segur
 competences:
   - Coaching
+teams: []
 ---
 Mon état d’esprit test & learn me permet d’être centrée sur le besoin de l’utilisateur et j’adore passer d’une idée à un projet concret.

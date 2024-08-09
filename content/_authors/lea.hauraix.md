@@ -13,5 +13,6 @@ startups:
   - rdv-service-public
 memberType: beta
 competences: []
+teams: []
 ---
 Chargée de déploiement RDV Service Public

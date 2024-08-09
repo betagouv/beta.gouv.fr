@@ -17,5 +17,6 @@ startups:
 competences:
   - Communication
   - Gestion de Produit
+teams: []
 ---
 Business Developer pour la startup Mobiville.

@@ -20,4 +20,5 @@ missions:
 startups:
   - apilos
 memberType: beta
+teams: []
 ---

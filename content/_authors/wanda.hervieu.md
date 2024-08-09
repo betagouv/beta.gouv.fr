@@ -11,5 +11,6 @@ missions:
 startups:
   - 1000.premiers.jours.blues
 memberType: beta
+teams: []
 ---
 Infirmière en santé mentale

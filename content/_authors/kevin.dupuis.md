@@ -12,4 +12,5 @@ missions:
 startups:
   - oilhi
 memberType: beta
+teams: []
 ---

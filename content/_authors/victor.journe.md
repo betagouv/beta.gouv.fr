@@ -10,5 +10,6 @@ missions:
     status: admin
     employer: DNUM MIOM
 memberType: autre
+teams: []
 ---
 Data scientist au Ministère de l'Intérieur Ski, vélo et voile à l'éxterieur

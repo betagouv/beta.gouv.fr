@@ -18,8 +18,7 @@ missions:
     employer: MTES-MCT
 previously:
   - filharmonic
-teams:
-  - /teams/mtes
+teams: []
 competences:
   - Développement Full-stack
   - DevOps

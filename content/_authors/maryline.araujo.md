@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: MINISTERE DE LA JUSTICE
 memberType: beta
+teams: []
 ---

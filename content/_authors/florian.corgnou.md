@@ -16,5 +16,6 @@ badges:
   - segur
 competences:
   - Croissance
+teams: []
 ---
 J'ai précommandé une hacienda sur Mars

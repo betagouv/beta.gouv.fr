@@ -17,4 +17,5 @@ competences:
   - Administration Publique
 previously:
   - aplus
+teams: []
 ---

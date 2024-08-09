@@ -19,5 +19,6 @@ competences:
   - Sécurité informatique
   - Administration Système
 memberType: beta
+teams: []
 ---
 Je suis le dev pour le lancement de l'arène de LLMs francophones LANGU:IA. Je dev via Coopaname, une mutuelle de travail salarié, je réfléchis au futur des réseaux sociaux décentralisés sur technostructures.org.

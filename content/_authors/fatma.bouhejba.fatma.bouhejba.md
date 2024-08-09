@@ -8,5 +8,6 @@ missions:
     status: admin
     employer: La Mednum
 competences: []
+teams: []
 ---
 Je suis Fatma, responsable des partenariats de Réfugiés.info 

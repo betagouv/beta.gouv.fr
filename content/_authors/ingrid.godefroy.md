@@ -27,4 +27,5 @@ previously:
   - monstage
   - commun.orientation
 link: https://www.linkedin.com/in/ingridgodefroy/
+teams: []
 ---

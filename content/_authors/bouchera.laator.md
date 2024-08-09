@@ -13,5 +13,6 @@ startups:
   - la-bonne-boite
 competences:
   - Gestion de Produit
+teams: []
 ---
 Rien n'est impossible

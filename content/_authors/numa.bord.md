@@ -13,4 +13,5 @@ missions:
 startups:
   - histologe
 memberType: beta
+teams: []
 ---

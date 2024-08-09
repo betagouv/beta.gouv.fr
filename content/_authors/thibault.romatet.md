@@ -17,4 +17,5 @@ previously:
   - aides.jeunes
 competences:
   - Administration Publique
+teams: []
 ---

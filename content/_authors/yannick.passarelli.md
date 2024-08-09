@@ -14,4 +14,5 @@ missions:
     employer: gip-inclusion
 startups:
   - pilotage.de.linclusion
+teams: []
 ---

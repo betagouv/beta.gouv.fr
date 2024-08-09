@@ -14,5 +14,6 @@ startups:
   - preuve-de-covoiturage
 badges:
   - segur
+teams: []
 ---
 Chargé de déploiement & communication.

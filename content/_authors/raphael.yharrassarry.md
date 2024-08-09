@@ -21,5 +21,6 @@ competences:
   - Facilitation
   - Product design
   - Accessibilité
+teams: []
 ---
 Lead UX Designer

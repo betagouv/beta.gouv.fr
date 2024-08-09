@@ -19,5 +19,6 @@ startups:
   - icare-complements-alimentaires
   - ma-cantine-egalim
 memberType: beta
+teams: []
 ---
 Designer et coach

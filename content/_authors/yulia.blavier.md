@@ -12,5 +12,6 @@ missions:
 startups:
   - metiers-numeriques
 memberType: dinum
+teams: []
 ---
 Product Owner, DINUM

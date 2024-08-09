@@ -20,4 +20,5 @@ previously:
 competences:
   - Croissance
   - Gestion de Produit
+teams: []
 ---

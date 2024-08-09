@@ -15,5 +15,6 @@ startups:
   - data-subvention
 badges:
   - segur
+teams: []
 ---
 Je design des expériences 🧩 et j'illustre avec des pixels 🖌️ UX/UI Designer et presque toujours en baskets 💪

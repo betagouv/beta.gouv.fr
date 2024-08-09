@@ -11,5 +11,6 @@ missions:
       - monstage
 startups:
   - monstage
+teams: []
 ---
 Communication, donjons et dragons.

@@ -8,5 +8,6 @@ missions:
     status: independent
     employer: Numa
 memberType: autre
+teams: []
 ---
 Entrepreneur & amoureux du produit !

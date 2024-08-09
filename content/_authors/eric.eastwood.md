@@ -11,4 +11,5 @@ missions:
     startups:
       - tchap
 memberType: beta
+teams: []
 ---

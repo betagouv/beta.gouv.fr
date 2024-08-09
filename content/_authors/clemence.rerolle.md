@@ -16,5 +16,6 @@ badges:
   - segur
 previously:
   - tumeplay
+teams: []
 ---
 Business developer et podcasteuse

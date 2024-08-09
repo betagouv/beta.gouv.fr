@@ -11,4 +11,5 @@ missions:
 startups:
   - je-deviens-etudiant
 memberType: beta
+teams: []
 ---

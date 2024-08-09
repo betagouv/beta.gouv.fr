@@ -17,5 +17,6 @@ startups:
 memberType: beta
 competences:
   - Croissance
+teams: []
 ---
 Je suis chargée de déploiement à l'Incubateur de l'ANCT

@@ -14,4 +14,5 @@ startups:
   - signaux-faibles
 badges:
   - segur
+teams: []
 ---

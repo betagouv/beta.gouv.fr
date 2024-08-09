@@ -14,5 +14,6 @@ startups:
   - tchap
 badges:
   - segur
+teams: []
 ---
 Développeur Logiciel (Java, Python, VueJs..)

@@ -14,5 +14,6 @@ startups:
   - l-application-du-cej
 previously:
   - l-application-du-cej
+teams: []
 ---
 Canadien, cycliste, lecteur

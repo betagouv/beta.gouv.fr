@@ -15,5 +15,6 @@ startups:
   - demarches-simplifiees.fr
 badges:
   - segur
+teams: []
 ---
 Intégratrice web / Consultante en accessibilité numérique

@@ -12,5 +12,6 @@ missions:
 startups:
   - envergo
 memberType: autre
+teams: []
 ---
 Etudiant en dernière année @ CentraleSupélec

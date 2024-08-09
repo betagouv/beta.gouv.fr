@@ -8,4 +8,5 @@ missions:
     status: service
     employer: DNUM
 memberType: autre
+teams: []
 ---

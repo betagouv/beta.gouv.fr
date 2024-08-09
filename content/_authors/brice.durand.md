@@ -23,4 +23,5 @@ previously:
 competences:
   - Gestion de Produit
   - Développement Full-stack
+teams: []
 ---

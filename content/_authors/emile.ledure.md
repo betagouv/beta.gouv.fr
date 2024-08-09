@@ -14,4 +14,5 @@ missions:
 startups:
   - acceslibre
   - partaj
+teams: []
 ---

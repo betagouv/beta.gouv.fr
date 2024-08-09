@@ -16,6 +16,7 @@ competences:
   - Administration Publique
 memberType: beta
 link: https://design.numerique.gouv.fr/qui-sommes-nous/
+teams: []
 ---
 prof → dév PHP full stack → expert
 

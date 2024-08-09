@@ -15,4 +15,5 @@ startups:
 previously:
   - carnet.de.bord
 memberType: beta
+teams: []
 ---

@@ -20,4 +20,5 @@ badges:
   - segur
 competences: []
 github: mpiac
+teams: []
 ---

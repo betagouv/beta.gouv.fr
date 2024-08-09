@@ -13,5 +13,6 @@ startups:
   - l-application-du-cej
 badges:
   - segur
+teams: []
 ---
 Coach produit et Agile

@@ -13,4 +13,5 @@ missions:
 startups:
   - portail-rse
 memberType: beta
+teams: []
 ---

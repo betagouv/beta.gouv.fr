@@ -18,4 +18,5 @@ competences:
   - DevOps
   - Administration Système
 memberType: beta
+teams: []
 ---

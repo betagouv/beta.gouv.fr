@@ -8,5 +8,6 @@ missions:
     end: 2018-12-31
     status: service
     employer: octo
+teams: []
 ---
 Ambassadeur et facilitateur des Startups d'Etat. Je contribue au recrutement des équipes et j'accompagne des réinternalisations.

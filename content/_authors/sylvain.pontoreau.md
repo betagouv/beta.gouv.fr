@@ -14,5 +14,6 @@ missions:
 startups:
   - potentiel
 memberType: beta
+teams: []
 ---
 TypeScript enthusiast, in ❤️ with Behavior Driven Development & Gitmoji fanboy 😎

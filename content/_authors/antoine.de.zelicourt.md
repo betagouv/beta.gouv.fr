@@ -15,5 +15,6 @@ startups:
   - monsuivipsy
   - nata
 memberType: beta
+teams: []
 ---
 Pharmacien-pharmacologue-chercheur de solutions numériques en santé

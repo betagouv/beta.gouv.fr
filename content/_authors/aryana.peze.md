@@ -10,5 +10,6 @@ missions:
     employer: octo
 previously:
   - mpal
+teams: []
 ---
 Dév junior ultra motivée !

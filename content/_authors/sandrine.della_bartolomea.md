@@ -8,5 +8,6 @@ missions:
     end: 2018-10-15
     status: admin
     employer: Ministère de la Culture
+teams: []
 ---
 "Et puis quoi, qu'importe la culture ? Quand il a écrit Hamlet, Molière avait-il lu Rostand ? Non." Pierre Desproges

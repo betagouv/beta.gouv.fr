@@ -10,4 +10,5 @@ previously:
   - atlas-des-paysages
 competences:
   - Administration Publique
+teams: []
 ---

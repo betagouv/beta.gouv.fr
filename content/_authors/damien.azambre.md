@@ -12,4 +12,5 @@ missions:
 startups:
   - intraprenord
 previously: []
+teams: []
 ---

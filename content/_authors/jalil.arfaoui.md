@@ -19,4 +19,5 @@ competences:
   - Développement Frontend
   - Développement Full-stack
   - JavaScript/TypeScript
+teams: []
 ---

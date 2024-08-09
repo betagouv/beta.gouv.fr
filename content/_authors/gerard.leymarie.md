@@ -9,4 +9,5 @@ missions:
     employer: anssi
 previously:
   - api-drones
+teams: []
 ---

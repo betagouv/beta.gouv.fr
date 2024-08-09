@@ -13,5 +13,6 @@ missions:
 startups:
   - zero-logement-vacant
 memberType: beta
+teams: []
 ---
 Intrapreneuse sur Zero Logement Vacant, spécialiste logement au ministère de la transition écologique et data_autodidacte

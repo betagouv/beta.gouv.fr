@@ -10,4 +10,5 @@ missions:
       - la-bonne-boite
 startups:
   - la-bonne-boite
+teams: []
 ---

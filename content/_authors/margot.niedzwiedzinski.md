@@ -11,5 +11,6 @@ missions:
       - territoires-en-transitions
 startups:
   - territoires-en-transitions
+teams: []
 ---
 🌱 Chargée de déploiement - Territoires en Transitions 🌱

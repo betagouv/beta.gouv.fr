@@ -13,4 +13,5 @@ startups:
   - mon-suivi-justice
 badges:
   - segur
+teams: []
 ---

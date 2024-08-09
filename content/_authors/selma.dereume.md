@@ -12,4 +12,5 @@ missions:
 startups:
   - snu
 memberType: beta
+teams: []
 ---

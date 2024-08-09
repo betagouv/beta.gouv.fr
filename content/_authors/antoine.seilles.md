@@ -16,5 +16,6 @@ badges:
   - segur
 competences:
   - Coaching
+teams: []
 ---
 je rencontre des utilisateurs pour résoudre leurs problèmes et parfois je développe si je peux

@@ -12,5 +12,6 @@ startups:
   - l-immersion-facile
 previously:
   - territoires-en-transitions
+teams: []
 ---
 [Développeuse/Data-Scientist] Python, Typescript, TDD, Clean-Archi, Open-Source. Aime la grimpe, le surf, les données, et le code à quatre mains !

@@ -19,5 +19,6 @@ competences:
   - Développement Frontend
   - Développement Full-stack
   - DevOps
+teams: []
 ---
 Artisan logiciel (DDD, TDD, DevOps culture...), vélotaffeur 🚴, 👪

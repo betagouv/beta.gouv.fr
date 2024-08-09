@@ -21,4 +21,5 @@ competences:
   - Développement Backend
   - Administration Système
   - Développement Full-stack
+teams: []
 ---

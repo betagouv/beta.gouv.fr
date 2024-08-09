@@ -10,4 +10,5 @@ missions:
 previously:
   - nosgestesclimat
 memberType: beta
+teams: []
 ---

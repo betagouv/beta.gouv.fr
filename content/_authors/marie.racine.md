@@ -12,5 +12,6 @@ missions:
 startups:
   - plusfraichemaville
 memberType: autre
+teams: []
 ---
 Apprentie urbaniste au pôle aménagement des villes et territoires de l'Ademe

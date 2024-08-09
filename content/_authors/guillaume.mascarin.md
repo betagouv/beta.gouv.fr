@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: Fabrique numérique
 memberType: beta
+teams: []
 ---

@@ -17,5 +17,6 @@ competences:
 memberType: autre
 startups:
   - lannuaire.des.collectivites
+teams: []
 ---
 Product Manager basé à Bordeaux

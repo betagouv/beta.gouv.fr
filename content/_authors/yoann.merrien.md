@@ -14,4 +14,5 @@ missions:
 startups:
   - moncomptepro
   - bases.adresses.locales
+teams: []
 ---

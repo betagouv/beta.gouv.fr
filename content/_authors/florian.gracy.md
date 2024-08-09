@@ -18,5 +18,6 @@ badges:
 competences:
   - UX
   - UI
+teams: []
 ---
 Designer d'interface, UX, principalement pour des supports web

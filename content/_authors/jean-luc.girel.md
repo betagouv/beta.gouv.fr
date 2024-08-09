@@ -10,4 +10,5 @@ competences:
   - Intrapreneur(se)
   - Administration Publique
 memberType: beta
+teams: []
 ---

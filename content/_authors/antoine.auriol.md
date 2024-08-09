@@ -11,4 +11,5 @@ missions:
 startups:
   - poe.facilite
 memberType: beta
+teams: []
 ---

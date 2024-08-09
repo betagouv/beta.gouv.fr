@@ -10,4 +10,5 @@ missions:
       - cnr
 startups:
   - cnr
+teams: []
 ---

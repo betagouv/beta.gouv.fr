@@ -11,5 +11,6 @@ previously:
   - transport
 badges:
   - segur
+teams: []
 ---
 Une grande passionnée de mobilités !

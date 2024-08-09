@@ -10,6 +10,5 @@ missions:
     employer: Ministère de la Culture
 previously:
   - pass-culture
-teams:
-  - /teams/culture
+teams: []
 ---

@@ -15,5 +15,6 @@ startups:
   - tchap
 badges:
   - segur
+teams: []
 ---
 Développeur engagé dans la transition.

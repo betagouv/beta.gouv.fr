@@ -12,4 +12,5 @@ missions:
     end: 2024-09-30
     status: admin
     employer: Ministère des Sports et des Jeux olympiques et paralympiques
+teams: []
 ---

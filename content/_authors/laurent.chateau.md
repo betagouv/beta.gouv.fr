@@ -12,4 +12,5 @@ missions:
 memberType: beta
 startups:
   - benefriches
+teams: []
 ---

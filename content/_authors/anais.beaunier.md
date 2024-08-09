@@ -11,5 +11,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+teams: []
 ---
 Secrétaire et assistante indépendante auprès d'entreprises et de particuliers

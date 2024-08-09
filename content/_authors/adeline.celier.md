@@ -12,5 +12,6 @@ missions:
       - monitorfish
 startups:
   - monitorfish
+teams: []
 ---
 Designer de service pour les merlus et les grondins.

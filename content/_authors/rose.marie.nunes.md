@@ -12,5 +12,6 @@ missions:
 startups:
   - pass-culture
 memberType: beta
+teams: []
 ---
 Responsable de l'homologation au pass Culture, photographe pendant 8 ans avant ça.

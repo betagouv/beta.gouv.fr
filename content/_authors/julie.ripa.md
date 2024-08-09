@@ -20,8 +20,7 @@ badges:
   - segur
 competences:
   - Administration Publique
-teams:
-  - /teams/dinum
+teams: []
 startups:
   - tchap
 previously:

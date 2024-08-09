@@ -13,5 +13,6 @@ missions:
 startups:
   - mon-aide-cyber
 memberType: autre
+teams: []
 ---
 Délégué de l'ANSSI en région, participe au projet "Mon Aide Cyber"

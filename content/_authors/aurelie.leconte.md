@@ -13,5 +13,6 @@ badges:
   - segur
 startups:
   - l-application-du-cej
+teams: []
 ---
 Product Owner, sportive et très forte à Mario Kart !

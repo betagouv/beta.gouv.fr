@@ -11,5 +11,6 @@ missions:
       - plusfraichemaville
 startups:
   - plusfraichemaville
+teams: []
 ---
 Coordinatrice R&D Urbanisme Durable au Pôle Aménagement des villes et des Territoires à l'ADEME

@@ -11,4 +11,5 @@ missions:
       - clara
 startups:
   - clara
+teams: []
 ---

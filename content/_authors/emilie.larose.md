@@ -8,4 +8,5 @@ missions:
     status: service
     employer: Ippon
 memberType: beta
+teams: []
 ---

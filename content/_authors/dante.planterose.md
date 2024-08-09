@@ -14,5 +14,6 @@ startups:
   - aides.jeunes
 badges:
   - segur
+teams: []
 ---
 Dev RoR Magic player

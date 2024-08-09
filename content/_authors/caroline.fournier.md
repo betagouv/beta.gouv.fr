@@ -19,4 +19,5 @@ competences:
   - UI
   - Communication
   - Coaching
+teams: []
 ---

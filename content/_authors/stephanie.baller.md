@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: DGFIP
 memberType: autre
+teams: []
 ---

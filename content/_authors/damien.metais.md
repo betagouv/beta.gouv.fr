@@ -14,5 +14,6 @@ badges:
   - segur
 competences:
   - UI
+teams: []
 ---
 Passionné par la conception d'interfaces fluides et adaptées pour chaque usage

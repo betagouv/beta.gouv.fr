@@ -12,5 +12,6 @@ missions:
 startups:
   - apilos
 memberType: beta
+teams: []
 ---
 Chargée de support

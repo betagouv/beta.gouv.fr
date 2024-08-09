@@ -19,4 +19,5 @@ competences:
   - Développement Backend
   - Développement Frontend
   - Coaching
+teams: []
 ---

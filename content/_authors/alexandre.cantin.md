@@ -16,6 +16,7 @@ startups:
 previously:
   - la-bonne-boite
   - la-bonne-alternance
+teams: []
 ---
 Agent de Pôle emploi et développeur pour La Bonne Boite. Basé dans les locaux de Pôle emploi à Nantes. Aime faire des découvertes autour du Web.
 « Ils ne savaient pas que c’était impossible, alors ils l’ont fait. » Mark Twain

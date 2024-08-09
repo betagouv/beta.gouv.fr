@@ -23,5 +23,6 @@ previously:
   - france-numerique-ensemble
 badges:
   - segur
+teams: []
 ---
 Sauvons la planête, un commit à la fois :) !

@@ -11,5 +11,6 @@ missions:
       - e-controle
 startups:
   - e-controle
+teams: []
 ---
 J'aime les chats et les sushis.

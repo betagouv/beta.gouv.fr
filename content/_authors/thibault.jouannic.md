@@ -14,5 +14,6 @@ startups:
   - envergo
 previously:
   - aides-territoires
+teams: []
 ---
 A choisi de devenir développeur pour changer le monde sans bouger de son fauteuil.

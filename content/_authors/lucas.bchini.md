@@ -12,4 +12,5 @@ missions:
       - cartobio
 startups:
   - cartobio
+teams: []
 ---

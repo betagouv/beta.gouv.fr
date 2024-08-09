@@ -20,4 +20,5 @@ startups:
   - oscars
   - civils-de-la-defense
   - cassiopee
+teams: []
 ---

@@ -12,5 +12,6 @@ missions:
       - trackdechets
 startups:
   - trackdechets
+teams: []
 ---
 Artisan du web, amateur de fromage, arpenteur de pentes plus ou moins raides.

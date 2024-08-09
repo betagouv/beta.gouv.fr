@@ -18,4 +18,5 @@ competences:
   - Administration Publique
   - Communication
   - Croissance
+teams: []
 ---

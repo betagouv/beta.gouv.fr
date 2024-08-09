@@ -7,5 +7,6 @@ missions:
   - start: 2021-09-03
     end: 2021-12-31
     status: admin
+teams: []
 ---
 Stagiaire chez Direction générale du Trésor

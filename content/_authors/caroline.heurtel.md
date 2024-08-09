@@ -12,4 +12,5 @@ missions:
       - pop
 startups:
   - pop
+teams: []
 ---

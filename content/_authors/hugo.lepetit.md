@@ -14,5 +14,6 @@ missions:
     employer: octo
 startups:
   - api-entreprise
+teams: []
 ---
 Petit mais costaud !

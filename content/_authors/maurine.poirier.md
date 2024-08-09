@@ -10,4 +10,5 @@ missions:
     startups:
       - ecobalyse
 memberType: beta
+teams: []
 ---

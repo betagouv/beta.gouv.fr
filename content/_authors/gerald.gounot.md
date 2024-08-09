@@ -18,4 +18,5 @@ competences:
   - JavaScript/TypeScript
   - Python
   - Accessibilité
+teams: []
 ---

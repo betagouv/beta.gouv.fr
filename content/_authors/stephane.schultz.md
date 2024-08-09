@@ -12,5 +12,6 @@ missions:
       - dialogue
 startups:
   - dialogue
+teams: []
 ---
 Je prends des trains à travers les plaines

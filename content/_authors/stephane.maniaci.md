@@ -17,5 +17,6 @@ badges:
 startups:
   - notifications
   - valorisation.des.stages.pro
+teams: []
 ---
 Lead dev à l'Incubateur des Services Numériques (ISN).

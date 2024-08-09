@@ -12,4 +12,5 @@ missions:
     status: independent
 previously:
   - eva
+teams: []
 ---

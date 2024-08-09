@@ -13,5 +13,6 @@ link: https://www.linkedin.com/in/andressa-bittencourt-09030098/
 competences:
   - Communication
 memberType: beta
+teams: []
 ---
 J'accompagne les structures publiques et de l’ESS dans leurs besoins en communication 360° : stratégie de communication ; stratégie éditoriale ; relation presse ; gestion de projet communication.

@@ -1,5 +1,5 @@
 ---
 name: Animation
 mission: ''
-incubator: mission-inserjeunes
+incubator: /incubators/mission-inserjeunes
 ---

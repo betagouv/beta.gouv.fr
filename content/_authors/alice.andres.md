@@ -14,5 +14,6 @@ badges:
   - segur
 startups:
   - data-subvention
+teams: []
 ---
 Développeuse chez TelesCoop

@@ -16,4 +16,5 @@ startups:
   - leximpact
   - api-entreprise
   - api-particulier
+teams: []
 ---

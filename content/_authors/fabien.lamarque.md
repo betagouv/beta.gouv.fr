@@ -14,5 +14,6 @@ missions:
 startups:
   - oots.once-only.technical.system
 memberType: beta
+teams: []
 ---
 Développeur le jour, papa la nuit. Musicien punk et couturier.

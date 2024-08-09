@@ -18,4 +18,5 @@ competences:
   - Développement Backend
   - Python
   - PostgreSQL
+teams: []
 ---

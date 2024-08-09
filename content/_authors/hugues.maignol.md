@@ -17,5 +17,6 @@ badges:
 startups:
   - les.bases
   - suite.d.outils.des.mediateurs.numeriques
+teams: []
 ---
 🤖🥋🎹

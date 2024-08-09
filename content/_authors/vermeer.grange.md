@@ -17,5 +17,6 @@ startups:
 previously:
   - la-bonne-alternance
   - la-bonne-boite
+teams: []
 ---
 En année sabbatique, réfléchit au futur.

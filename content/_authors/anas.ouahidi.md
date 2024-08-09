@@ -11,5 +11,6 @@ startups:
   - infrastructures.numeriques
 badges:
   - segur
+teams: []
 ---
 Développeur full stack

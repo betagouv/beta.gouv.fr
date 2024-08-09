@@ -14,4 +14,5 @@ startups:
   - collectif_objets
 badges:
   - segur
+teams: []
 ---

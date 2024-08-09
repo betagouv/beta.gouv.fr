@@ -12,4 +12,5 @@ missions:
 competences:
   - Développement Frontend
 memberType: beta
+teams: []
 ---

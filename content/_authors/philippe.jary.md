@@ -11,5 +11,6 @@ previously:
   - cadransolaire
 competences:
   - Administration Publique
+teams: []
 ---
 Chargé de mission climat énergie, Service ADS Etudes et transversalité

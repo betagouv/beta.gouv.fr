@@ -13,4 +13,5 @@ missions:
 startups:
   - pass-culture
 memberType: beta
+teams: []
 ---

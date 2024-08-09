@@ -20,5 +20,6 @@ badges:
 competences:
   - Communication
   - Croissance
+teams: []
 ---
 Chargé de déploiement

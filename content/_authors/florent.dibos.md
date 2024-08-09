@@ -12,5 +12,6 @@ missions:
       - codedutravail
 startups:
   - codedutravail
+teams: []
 ---
 Juriste passionné de SI

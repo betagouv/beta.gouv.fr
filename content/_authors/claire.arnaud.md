@@ -11,5 +11,6 @@ missions:
       - la-bonne-alternance
 startups:
   - la-bonne-alternance
+teams: []
 ---
 Product Designer

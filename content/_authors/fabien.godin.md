@@ -10,4 +10,5 @@ missions:
       - mes-evenements-emploi
 startups:
   - mes-evenements-emploi
+teams: []
 ---

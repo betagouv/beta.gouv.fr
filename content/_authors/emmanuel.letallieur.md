@@ -19,4 +19,5 @@ competences:
   - Développement Backend
   - UX
   - Product design
+teams: []
 ---

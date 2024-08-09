@@ -12,5 +12,6 @@ previously:
   - urbanvitaliz
 badges:
   - segur
+teams: []
 ---
 Développeuse, avec une pratique dans les neuroSciences appliquées.

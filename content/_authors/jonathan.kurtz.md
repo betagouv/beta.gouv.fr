@@ -14,4 +14,5 @@ missions:
 startups:
   - preuve-de-covoiturage
   - aides-territoires
+teams: []
 ---

@@ -14,4 +14,5 @@ startups:
   - dora
 competences:
   - Administration Publique
+teams: []
 ---

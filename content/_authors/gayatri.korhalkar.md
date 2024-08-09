@@ -21,5 +21,6 @@ startups:
   - aquaculteurs.marins
 badges:
   - segur
+teams: []
 ---
 Une designer entreprenante

@@ -30,4 +30,5 @@ previously:
   - qualite-eau
   - non-recours-spie
 link: https://www.linkedin.com/in/aymericraoult/
+teams: []
 ---

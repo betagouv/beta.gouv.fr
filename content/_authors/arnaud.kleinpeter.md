@@ -9,5 +9,6 @@ missions:
     employer: octo
 previously:
   - mes-aides
+teams: []
 ---
 Ex-mes-aides.

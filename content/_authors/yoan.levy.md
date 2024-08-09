@@ -12,4 +12,5 @@ missions:
 startups:
   - dora
 memberType: beta
+teams: []
 ---

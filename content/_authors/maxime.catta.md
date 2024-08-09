@@ -10,5 +10,6 @@ missions:
     employer: NUMA
 badges:
   - segur
+teams: []
 ---
 Coach & formateur

@@ -17,5 +17,6 @@ startups:
 competences:
   - Développement Backend
   - Administration Système
+teams: []
 ---
 🌸

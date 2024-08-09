@@ -16,4 +16,5 @@ startups:
   - candilib
   - polex
 avatar: https://lab-mi.github.io/img/equipe/petit/philippe_bron.jpg
+teams: []
 ---

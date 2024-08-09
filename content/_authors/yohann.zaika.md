@@ -14,5 +14,6 @@ startups:
 memberType: autre
 competences:
   - concepteur designer ui
+teams: []
 ---
 Hello , je suis yohann et je suis concepteur designer ui.

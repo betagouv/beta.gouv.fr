@@ -21,5 +21,6 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
   - PHP
+teams: []
 ---
 Développeur web

@@ -13,4 +13,5 @@ missions:
 startups:
   - datapass
 memberType: dinum
+teams: []
 ---

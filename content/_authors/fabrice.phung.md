@@ -9,4 +9,5 @@ missions:
     employer: Dinum
     startups:
       - data.etat
+teams: []
 ---

@@ -22,5 +22,6 @@ competences:
   - Gestion de Produit
   - Coaching
   - Product strategy
+teams: []
 ---
 J'aide les équipes à avoir un maximum d'impact en un minimum d'effort

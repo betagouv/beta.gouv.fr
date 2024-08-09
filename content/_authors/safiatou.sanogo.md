@@ -16,5 +16,6 @@ startups:
   - encyclopedie-des-metiers
 competences:
   - Coaching
+teams: []
 ---
 Product manager et coach PM chez Pôle emploi, je suis optimiste, pétillante et une vraie bosseuse.

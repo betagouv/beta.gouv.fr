@@ -17,5 +17,6 @@ badges:
 competences:
   - UX
   - UI
+teams: []
 ---
 Je vis sur Figma

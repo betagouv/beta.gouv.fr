@@ -13,5 +13,6 @@ missions:
 startups:
   - archifiltre
 memberType: beta
+teams: []
 ---
 Développeur mais surtout entrepreneur

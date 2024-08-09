@@ -12,5 +12,6 @@ missions:
       - les-emplois
 startups:
   - les-emplois
+teams: []
 ---
 Experte en marketing et communication digitale, fan de dinos 🦖

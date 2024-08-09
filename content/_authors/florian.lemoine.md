@@ -9,4 +9,5 @@ missions:
     employer: SGDSN - ANSSI
 badges:
   - segur
+teams: []
 ---

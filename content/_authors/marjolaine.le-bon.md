@@ -18,5 +18,6 @@ missions:
       - aidantsconnect
 startups:
   - apilos
+teams: []
 ---
 développeuse web à la bonne humeur revendiquée !

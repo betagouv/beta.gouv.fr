@@ -17,4 +17,5 @@ competences:
   - Gestion de Produit
   - Croissance
   - Administration Publique
+teams: []
 ---

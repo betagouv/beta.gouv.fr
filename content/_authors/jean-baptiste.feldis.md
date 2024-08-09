@@ -23,4 +23,5 @@ competences:
   - Développement Full-stack
   - Ruby
 memberType: beta
+teams: []
 ---

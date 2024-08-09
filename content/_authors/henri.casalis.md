@@ -15,5 +15,6 @@ link: https://www.linkedin.com/in/henricasalis/
 github: henricasa
 competences:
   - Croissance
+teams: []
 ---
 Passionné d'expérience client le jour, pince sans rire la nuit

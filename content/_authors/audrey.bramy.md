@@ -10,5 +10,6 @@ missions:
     employer: scopyleft
 previously:
   - comobi
+teams: []
 ---
 Ingénieure Informatique de formation, je me dirige vers le rôle de Product Owner au sein de Beta Gouv.

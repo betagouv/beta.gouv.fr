@@ -21,5 +21,6 @@ startups:
 competences:
   - Développement Backend
   - Développement Frontend
+teams: []
 ---
 Développeur la semaine, Alpiniste le week-end.

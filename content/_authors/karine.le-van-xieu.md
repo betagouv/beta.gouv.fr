@@ -11,4 +11,5 @@ missions:
       - rdv.consulat
 startups:
   - rdv.consulat
+teams: []
 ---

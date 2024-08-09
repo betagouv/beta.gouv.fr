@@ -13,4 +13,5 @@ startups:
   - candela
 competences:
   - Administration Publique
+teams: []
 ---

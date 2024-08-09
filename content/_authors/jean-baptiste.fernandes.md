@@ -12,5 +12,6 @@ missions:
 startups:
   - deveco
 memberType: beta
+teams: []
 ---
 Numérique et développement éco

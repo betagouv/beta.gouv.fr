@@ -10,5 +10,6 @@ missions:
     employer: dinum
 previously:
   - open-academie
+teams: []
 ---
 J'aime réduire les irritants.

@@ -13,4 +13,5 @@ missions:
 startups:
   - trackdechets
 memberType: beta
+teams: []
 ---

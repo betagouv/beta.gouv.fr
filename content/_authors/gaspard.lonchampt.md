@@ -12,5 +12,6 @@ missions:
 startups:
   - mobilic
 memberType: beta
+teams: []
 ---
 Développeur, passionné d'histoire et coureur hebdomadaire !

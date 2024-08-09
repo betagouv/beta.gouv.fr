@@ -14,5 +14,6 @@ startups:
   - aidantsconnect
 previously:
   - voir-et-localiser
+teams: []
 ---
 Code, Django et Cassoulet

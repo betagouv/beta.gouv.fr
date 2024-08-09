@@ -7,4 +7,5 @@ missions:
     end: 2020-12-11
     status: independent
     employer: BeNext
+teams: []
 ---

@@ -13,5 +13,6 @@ startups:
   - jeveuxaider
 badges:
   - segur
+teams: []
 ---
 Chargé de déploiement JeVeuxAider.gouv.fr

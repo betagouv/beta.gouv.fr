@@ -15,4 +15,5 @@ role: Intrapreneuse
 link: https://www.linkedin.com/in/amandine-collard-39b74818a/
 startups:
   - aquaculteurs.marins
+teams: []
 ---

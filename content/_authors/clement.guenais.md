@@ -9,4 +9,5 @@ missions:
     status: admin
     employer: MIOM/DNUM
 memberType: beta
+teams: []
 ---

@@ -13,5 +13,6 @@ startups:
 memberType: beta
 competences:
   - Administration Publique
+teams: []
 ---
 Chargé d'animation SNU !

@@ -17,4 +17,5 @@ missions:
       - codedutravail
 startups:
   - codedutravail
+teams: []
 ---

@@ -12,5 +12,6 @@ missions:
 startups:
   - dossierfacile
 memberType: beta
+teams: []
 ---
 Opérateur chez Dossier Facile

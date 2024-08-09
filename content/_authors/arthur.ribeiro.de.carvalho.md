@@ -9,4 +9,5 @@ missions:
 competences:
   - Administration Publique
 memberType: beta
+teams: []
 ---

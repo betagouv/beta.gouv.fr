@@ -45,5 +45,6 @@ competences:
   - Intrapreneur(se)
   - Croissance
 link: https://www.linkedin.com/in/lauren-michel-4b5a48116/
+teams: []
 ---
 Startupeuse curieuse et persévérante !

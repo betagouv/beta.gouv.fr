@@ -10,5 +10,6 @@ missions:
       - non-recours-spie
 startups:
   - non-recours-spie
+teams: []
 ---
 Chargé de mission à la Métropole de Lyon et intrapreneur , ma devise, rendons visibles les invisibles!

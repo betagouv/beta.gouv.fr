@@ -11,5 +11,6 @@ missions:
       - pass-culture
 startups:
   - pass-culture
+teams: []
 ---
 Lead Product Manager

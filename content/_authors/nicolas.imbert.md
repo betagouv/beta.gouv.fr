@@ -13,5 +13,6 @@ missions:
 startups:
   - données-et-territoires
 memberType: beta
+teams: []
 ---
 Formateur - No-code - BizDev - Customer Success

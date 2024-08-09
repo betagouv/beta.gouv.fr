@@ -8,5 +8,6 @@ missions:
     end: 2022-04-06
     status: admin
     employer: Gouvernement de la Nouvelle-Calédonie
+teams: []
 ---
 Faire du numérique un levier de transformation de l'action publique en Nouvelle-Calédonie.

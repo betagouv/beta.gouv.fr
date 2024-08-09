@@ -9,5 +9,6 @@ missions:
     end: 2023-09-01
     status: admin
     employer: Ministère de l'Europe et des affaires étangères
+teams: []
 ---
 Designer au sein de l'Atelier Numérique du Ministère de l'Europe et des affaires étangères. Engagé dans l'inclusion numérique @Diversidays

@@ -15,5 +15,6 @@ previously:
   - dora
 competences:
   - Communication
+teams: []
 ---
 Chargé de déploiement le jour, joueur de jeux de société la nuit

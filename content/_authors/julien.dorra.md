@@ -12,4 +12,5 @@ missions:
     startups:
       - donnees-spectacle
 memberType: beta
+teams: []
 ---

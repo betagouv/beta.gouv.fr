@@ -15,5 +15,6 @@ badges:
   - segur
 startups:
   - dossierfacile
+teams: []
 ---
 BizDev !

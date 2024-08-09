@@ -12,5 +12,6 @@ startups:
   - themis
 badges:
   - segur
+teams: []
 ---
 À 100 à l'heure toute l'année!

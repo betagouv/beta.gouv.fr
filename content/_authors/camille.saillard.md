@@ -13,4 +13,5 @@ startups:
   - données-et-territoires
 badges:
   - segur
+teams: []
 ---

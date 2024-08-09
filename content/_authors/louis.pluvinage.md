@@ -14,4 +14,5 @@ competences:
   - Accessibilité
   - Développement Frontend
 memberType: beta
+teams: []
 ---

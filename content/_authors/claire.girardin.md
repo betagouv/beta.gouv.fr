@@ -11,4 +11,5 @@ missions:
       - prelevements.deau
 github: GirardinClaire
 memberType: beta
+teams: []
 ---

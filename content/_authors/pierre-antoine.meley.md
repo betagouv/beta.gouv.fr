@@ -12,4 +12,5 @@ missions:
 competences:
   - Développement Full-stack
 memberType: beta
+teams: []
 ---

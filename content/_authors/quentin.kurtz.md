@@ -19,4 +19,5 @@ badges:
   - segur
 competences:
   - Gestion de Produit
+teams: []
 ---

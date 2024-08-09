@@ -14,5 +14,6 @@ startups:
   - l-application-du-cej
 competences:
   - UI
+teams: []
 ---
 Designer graphique.

@@ -19,4 +19,5 @@ missions:
 startups:
   - mon-suivi-justice
 memberType: beta
+teams: []
 ---

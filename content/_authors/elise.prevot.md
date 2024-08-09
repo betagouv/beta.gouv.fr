@@ -16,5 +16,6 @@ badges:
   - segur
 previously:
   - snu
+teams: []
 ---
 Product owner

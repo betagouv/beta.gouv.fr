@@ -12,5 +12,6 @@ missions:
       - l-application-du-cej
 startups:
   - l-application-du-cej
+teams: []
 ---
 Designeuse fan de méthodo, de recherche utilisateur et de travail en équipe 🧚🏼‍♀️

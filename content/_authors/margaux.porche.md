@@ -14,4 +14,5 @@ startups:
 memberType: beta
 competences:
   - Communication
+teams: []
 ---

@@ -12,5 +12,6 @@ missions:
       - l-immersion-facile
 startups:
   - l-immersion-facile
+teams: []
 ---
 Développeur, amateur de montagne

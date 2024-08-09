@@ -15,5 +15,6 @@ startups:
   - les-emplois
 previously:
   - pilotage.de.linclusion
+teams: []
 ---
 Je gère l'étude et la conception de produit numérique.

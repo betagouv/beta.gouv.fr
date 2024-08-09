@@ -8,5 +8,6 @@ missions:
     end: 2024-08-29
     status: service
 memberType: autre
+teams: []
 ---
 Numérique d'intérêt général

@@ -9,4 +9,5 @@ missions:
     employer: DGALN
 badges:
   - segur
+teams: []
 ---

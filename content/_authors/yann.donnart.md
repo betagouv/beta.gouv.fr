@@ -12,5 +12,6 @@ missions:
 startups:
   - ban
 memberType: beta
+teams: []
 ---
 Nantaisbreton, marin, cartographe et accessoirement IGN !

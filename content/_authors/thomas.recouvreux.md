@@ -11,4 +11,5 @@ missions:
       - france-numerique-ensemble
 startups:
   - france-numerique-ensemble
+teams: []
 ---

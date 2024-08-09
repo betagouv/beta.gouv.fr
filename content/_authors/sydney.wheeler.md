@@ -14,4 +14,5 @@ startups:
 memberType: beta
 previously:
   - zero-logement-vacant
+teams: []
 ---

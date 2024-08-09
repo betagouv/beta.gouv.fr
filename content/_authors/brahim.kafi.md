@@ -13,4 +13,5 @@ startups:
   - la-bonne-boite
 competences:
   - Gestion de Produit
+teams: []
 ---

@@ -15,5 +15,6 @@ startups:
   - sppnaut
   - apilos
 memberType: beta
+teams: []
 ---
 Développeur full-stack

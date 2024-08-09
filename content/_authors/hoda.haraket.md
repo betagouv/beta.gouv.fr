@@ -10,4 +10,5 @@ missions:
     employer: GIP Plateforme de l'inclusion
 badges:
   - segur
+teams: []
 ---

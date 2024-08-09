@@ -13,5 +13,6 @@ startups:
   - homologation
 badges:
   - segur
+teams: []
 ---
 Business Developer

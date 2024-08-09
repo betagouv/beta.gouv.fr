@@ -12,5 +12,6 @@ missions:
 memberType: beta
 startups:
   - france.nation.verte.agir
+teams: []
 ---
 Contenus  Partenariats

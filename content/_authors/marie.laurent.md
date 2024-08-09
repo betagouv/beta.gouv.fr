@@ -9,5 +9,6 @@ missions:
     status: independent
     employer: Omnicité
 memberType: autre
+teams: []
 ---
 Directrice Artistique, designer interactif et illustratrice

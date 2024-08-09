@@ -19,4 +19,5 @@ startups:
   - mobilic
 badges:
   - segur
+teams: []
 ---

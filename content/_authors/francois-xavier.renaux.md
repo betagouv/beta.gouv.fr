@@ -13,4 +13,5 @@ missions:
 startups:
   - tacct
 memberType: autre
+teams: []
 ---

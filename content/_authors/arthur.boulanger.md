@@ -21,5 +21,6 @@ competences:
   - UI
   - Coaching
   - Gestion de Produit
+teams: []
 ---
 Product Strategy, Design Consultant, Entrepreneur (ex-Evaneos)

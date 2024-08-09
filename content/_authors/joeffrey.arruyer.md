@@ -19,5 +19,6 @@ competences:
   - Coaching
   - Communication
   - Croissance
+teams: []
 ---
 In your PC, stealing your Internetz

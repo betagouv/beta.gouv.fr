@@ -14,5 +14,6 @@ missions:
 startups:
   - dialogue
 memberType: beta
+teams: []
 ---
 Outilleur

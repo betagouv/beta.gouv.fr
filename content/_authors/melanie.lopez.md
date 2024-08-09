@@ -10,4 +10,5 @@ missions:
     startups:
       - suite-numerique
 memberType: beta
+teams: []
 ---

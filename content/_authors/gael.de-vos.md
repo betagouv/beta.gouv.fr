@@ -9,5 +9,6 @@ missions:
     employer: Ministère de la Jeunesse et des Sports
 badges:
   - segur
+teams: []
 ---
 Projets digitaux, e-commerce, marketing

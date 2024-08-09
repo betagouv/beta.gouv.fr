@@ -14,5 +14,6 @@ missions:
 startups:
   - oscars
 memberType: beta
+teams: []
 ---
 Fullstack Developer Freelance - OSCARS

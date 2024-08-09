@@ -7,4 +7,5 @@ missions:
     end: 2021-12-31
     status: admin
     employer: Ministère de la Culture
+teams: []
 ---

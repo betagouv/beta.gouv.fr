@@ -14,4 +14,5 @@ startups:
   - delta.v
 badges:
   - segur
+teams: []
 ---

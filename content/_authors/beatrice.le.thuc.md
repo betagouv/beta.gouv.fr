@@ -8,4 +8,5 @@ missions:
     status: service
     employer: Beelix
 memberType: beta
+teams: []
 ---

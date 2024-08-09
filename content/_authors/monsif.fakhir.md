@@ -12,4 +12,5 @@ missions:
 startups:
   - maison.de.lautisme
 memberType: beta
+teams: []
 ---

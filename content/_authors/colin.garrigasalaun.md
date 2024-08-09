@@ -12,4 +12,5 @@ missions:
       - homologation
 startups:
   - homologation
+teams: []
 ---

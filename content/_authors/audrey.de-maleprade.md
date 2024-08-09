@@ -16,5 +16,6 @@ previously:
   - mobilic
 badges:
   - segur
+teams: []
 ---
 Product Designer et amatrice de kitesurf

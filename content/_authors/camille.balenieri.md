@@ -13,5 +13,6 @@ missions:
       - jeveuxaider
 startups:
   - jeveuxaider
+teams: []
 ---
 Plume de la Reserve Civique !

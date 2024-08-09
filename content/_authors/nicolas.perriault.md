@@ -40,5 +40,6 @@ competences:
   - Node
   - Python
   - Django
+teams: []
 ---
 En quête de sens numérique

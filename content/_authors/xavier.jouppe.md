@@ -17,5 +17,6 @@ startups:
 previously:
   - datapass
   - api.gouv.fr
+teams: []
 ---
 🦀

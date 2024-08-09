@@ -7,6 +7,5 @@ missions:
     end: 2026-01-01
     status: admin
     employer: dinum
-teams:
-  - /teams/dinum_produits_interministeriels
+teams: []
 ---

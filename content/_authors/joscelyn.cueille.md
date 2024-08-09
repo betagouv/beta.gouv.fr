@@ -9,4 +9,5 @@ missions:
     status: independent
     employer: DINUM
 memberType: dinum
+teams: []
 ---

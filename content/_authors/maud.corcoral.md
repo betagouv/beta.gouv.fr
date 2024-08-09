@@ -11,5 +11,6 @@ missions:
 startups:
   - envergo
 memberType: autre
+teams: []
 ---
 Chargée de déploiement

@@ -16,5 +16,6 @@ startups:
 previously:
   - zen
   - mobiville
+teams: []
 ---
 Développeur passionné depuis 10 ans qui aime entreprendre / tester de nouvelles solutions.

@@ -9,4 +9,5 @@ missions:
     status: admin
     employer: Etat
 memberType: autre
+teams: []
 ---

@@ -17,5 +17,6 @@ competences:
   - UI
 previously:
   - locadocs
+teams: []
 ---
 Designer UX/UI

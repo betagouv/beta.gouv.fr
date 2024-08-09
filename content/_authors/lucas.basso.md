@@ -9,5 +9,6 @@ missions:
     status: service
     employer: Octo
 memberType: attributaire
+teams: []
 ---
 Ops a la DNUM

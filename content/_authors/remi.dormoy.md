@@ -16,5 +16,6 @@ startups:
   - agora
 previously:
   - l-application-du-cej
+teams: []
 ---
 Footballeur amateur

@@ -11,5 +11,6 @@ missions:
     startups:
       - agora
 memberType: autre
+teams: []
 ---
 Développeur & tech lead mobile

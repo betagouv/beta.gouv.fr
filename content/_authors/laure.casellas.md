@@ -14,4 +14,5 @@ competences:
   - Croissance
   - Facilitation
 memberType: beta
+teams: []
 ---

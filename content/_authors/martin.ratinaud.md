@@ -26,4 +26,5 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+teams: []
 ---

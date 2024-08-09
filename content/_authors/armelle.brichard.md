@@ -10,5 +10,6 @@ missions:
 competences:
   - UX
   - Coaching
+teams: []
 ---
 À l'ombre des palmiers pour travailler !

@@ -12,5 +12,6 @@ startups:
   - oilhi
 memberType: beta
 link: https://www.linkedin.com/in/mariecelinebattesti
+teams: []
 ---
 Bien occupée mais toujours partante pour de nouveaux projets

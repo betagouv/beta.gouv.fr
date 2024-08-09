@@ -13,5 +13,6 @@ startups:
   - zero-logement-vacant
 badges:
   - segur
+teams: []
 ---
 Chargé de déploiement Zéro Logement Vacant

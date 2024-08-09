@@ -12,5 +12,6 @@ missions:
 startups:
   - mon-diagnostic-artificialisation
 memberType: beta
+teams: []
 ---
 Consultante open data, transparence des algorithmes publics

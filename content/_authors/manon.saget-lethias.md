@@ -10,4 +10,5 @@ missions:
     startups:
       - archifiltre
 memberType: beta
+teams: []
 ---

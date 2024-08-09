@@ -12,5 +12,6 @@ missions:
     end: 2025-12-31
     status: admin
     employer: DNUM des ministères sociaux
+teams: []
 ---
 Devops pour l'intérêt général

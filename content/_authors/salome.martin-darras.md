@@ -12,4 +12,5 @@ missions:
 competences:
   - Croissance
 memberType: beta
+teams: []
 ---

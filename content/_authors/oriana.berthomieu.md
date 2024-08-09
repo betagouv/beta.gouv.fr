@@ -17,5 +17,6 @@ competences:
   - Product design
   - Facilitation
   - UX
+teams: []
 ---
 Slow-food, slow-travel, BD et littérature, podcasts en aléatoire, tiramisù, illustration jeunesse, jardinage du dimanche, faux cyclisme

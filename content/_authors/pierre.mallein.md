@@ -12,5 +12,6 @@ missions:
 startups:
   - jafer
 memberType: beta
+teams: []
 ---
 Product manager, UX Designer & Développeur no-code

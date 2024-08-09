@@ -26,5 +26,6 @@ startups:
 previously:
   - ban
   - bases.adresses.locales
+teams: []
 ---
 Chargée de déploiement pour la startup d’État BAL (ANCT)

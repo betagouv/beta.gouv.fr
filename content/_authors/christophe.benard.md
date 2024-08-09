@@ -16,5 +16,6 @@ startups:
 competences:
   - Administration Système
   - Développement Backend
+teams: []
 ---
 Intégrateur au SNUM, développeur pour Résorption-Bidonvilles

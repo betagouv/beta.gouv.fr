@@ -17,5 +17,6 @@ badges:
   - segur
 competences:
   - UX
+teams: []
 ---
 UX Designer & researcher

@@ -21,4 +21,5 @@ badges:
 competences:
   - Communication
   - Administration Système
+teams: []
 ---

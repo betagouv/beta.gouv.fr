@@ -13,5 +13,6 @@ startups:
   - le-taxi
 badges:
   - segur
+teams: []
 ---
 Vive les taxis !

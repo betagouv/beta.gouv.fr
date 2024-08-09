@@ -13,5 +13,6 @@ missions:
 startups:
   - cobot
 github: roxanesch
+teams: []
 ---
 Fan d'utilité sociale

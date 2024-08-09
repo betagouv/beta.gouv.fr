@@ -13,5 +13,6 @@ startups:
   - ellesfontlaculture
 badges:
   - segur
+teams: []
 ---
 Photographe passionnée et engagée, en mission pour Elles Font La Culture

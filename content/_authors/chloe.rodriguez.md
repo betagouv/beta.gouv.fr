@@ -13,5 +13,6 @@ missions:
     employer: numa
 startups:
   - mobinat
+teams: []
 ---
 Designer de services et coach d’intrapreneur·e·s :D

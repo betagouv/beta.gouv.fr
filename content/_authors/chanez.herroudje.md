@@ -11,4 +11,5 @@ missions:
       - place-de-marche-inclusion
 competences:
   - Croissance
+teams: []
 ---

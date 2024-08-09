@@ -14,5 +14,6 @@ missions:
 previously:
   - travailler.en.france
   - mes-aides-france-travail
+teams: []
 ---
 Artisan du web et entrepreneur depuis 1998.

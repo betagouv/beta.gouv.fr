@@ -20,5 +20,6 @@ previously:
 competences:
   - Gestion de Produit
   - Administration Publique
+teams: []
 ---
 Depuis 2020 au sein de la Mission interministérielle pour l'apprentissage, j'ai pu travailler sur La bonne alternance, le cerfa dématérialisé pour les employeurs publics, le tableau de bord, Boîte aux lettres, API apprentissage et le générateur de cerfa pour les employeurs privés.

@@ -15,5 +15,6 @@ missions:
     employer: ut7
 startups:
   - eva
+teams: []
 ---
 Développeur avec du sens, adepte du TDD et des déploiements de logiciels fonctionnels

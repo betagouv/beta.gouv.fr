@@ -16,5 +16,6 @@ previously:
   - carnet.de.bord
   - inclusion.connect
   - la.communaute.de.linclusion
+teams: []
 ---
 Développeur Python 🐍. Lanceur de 🥏, aussi pour mon 🐕.

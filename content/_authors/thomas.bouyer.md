@@ -13,5 +13,6 @@ startups:
   - chauffage-urbain
 badges:
   - segur
+teams: []
 ---
 Chef du service Energie & Bâtiment à la DRIEAT

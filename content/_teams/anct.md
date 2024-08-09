@@ -1,5 +1,5 @@
 ---
 name: Animation
-incubator: anct
+incubator: /incubators/anct
 mission: ''
 ---

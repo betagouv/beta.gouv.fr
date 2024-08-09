@@ -24,4 +24,5 @@ competences:
   - Négociation
   - Stratégie Commercial
   - Stratégie de Partenariat
+teams: []
 ---

@@ -14,5 +14,6 @@ startups:
   - demarches-simplifiees.fr
 competences:
   - Développement Backend
+teams: []
 ---
 Alternante Full Stack chez Codeurs en Liberté et en mission sur Démarches-simplifiées.

@@ -14,5 +14,6 @@ startups:
   - dotations-locales
 badges:
   - segur
+teams: []
 ---
 Développeur web full stack

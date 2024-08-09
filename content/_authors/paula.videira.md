@@ -19,4 +19,5 @@ startups:
   - stop-punaises
 memberType: beta
 link: https://www.linkedin.com/in/paulavideira/
+teams: []
 ---

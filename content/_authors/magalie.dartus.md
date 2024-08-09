@@ -13,5 +13,6 @@ startups:
   - pcrs
 badges:
   - segur
+teams: []
 ---
 Archéologue puis géomaticienne et aujourd'hui facilitatrice sur les sujets open data.

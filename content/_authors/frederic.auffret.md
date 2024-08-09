@@ -11,5 +11,6 @@ missions:
       - urgencevie
 startups:
   - urgencevie
+teams: []
 ---
 agent de police

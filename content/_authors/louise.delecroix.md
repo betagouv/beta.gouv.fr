@@ -12,5 +12,6 @@ missions:
 startups:
   - snu
 memberType: autre
+teams: []
 ---
 Product Owner

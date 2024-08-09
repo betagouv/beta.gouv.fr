@@ -12,5 +12,6 @@ missions:
 startups:
   - monstage
 memberType: beta
+teams: []
 ---
 Biz dev

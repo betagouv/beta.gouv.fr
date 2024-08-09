@@ -13,4 +13,5 @@ missions:
 startups:
   - moncomptepro
 memberType: dinum
+teams: []
 ---

@@ -12,4 +12,5 @@ startups:
   - pass-sport
 memberType: attributaire
 link: https://www.linkedin.com/in/maxime-chaillet-ba23b17b/
+teams: []
 ---

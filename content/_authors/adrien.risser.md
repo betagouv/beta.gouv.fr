@@ -32,5 +32,6 @@ previously:
   - fiche.commune.entreprise.fce
 competences:
   - Développement Backend
+teams: []
 ---
 Un soupçon de Node.js, une pincée de données, et paf, ça fait du service public.

@@ -8,8 +8,7 @@ missions:
     end: 2025-01-30
     status: admin
     employer: Ministère de la Justice
-teams:
-  - /teams/justice
+teams: []
 badges:
   - segur
 ---

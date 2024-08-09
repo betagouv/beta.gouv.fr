@@ -12,5 +12,6 @@ missions:
 startups:
   - monstage
   - deveco
+teams: []
 ---
 Data specialist

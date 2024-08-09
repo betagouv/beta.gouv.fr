@@ -11,5 +11,6 @@ missions:
 startups:
   - l-application-du-cej
 memberType: beta
+teams: []
 ---
 Psychologie + Design = <3

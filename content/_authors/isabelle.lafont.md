@@ -14,5 +14,6 @@ startups:
   - datapass
 badges:
   - segur
+teams: []
 ---
 Développeuse full-stack le jour, tricoteuse la nuit. J'aime l'open-source et la montagne.

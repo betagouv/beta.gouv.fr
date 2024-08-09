@@ -12,4 +12,5 @@ missions:
 startups:
   - place-de-marche-inclusion
 memberType: beta
+teams: []
 ---

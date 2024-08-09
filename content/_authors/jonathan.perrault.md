@@ -14,5 +14,6 @@ missions:
 startups:
   - egalite.professionnelle
 memberType: beta
+teams: []
 ---
 Développeur depuis 12 ans avec un mindset de craftman. Passionné de spiritualité et plein d'autres chose...

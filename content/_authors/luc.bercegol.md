@@ -10,5 +10,6 @@ missions:
     startups:
       - otelo
 memberType: beta
+teams: []
 ---
 Intrapreneur OTELO

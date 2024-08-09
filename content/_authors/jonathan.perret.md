@@ -8,5 +8,6 @@ missions:
     end: 2024-12-01
     status: service
     employer: /ut7
+teams: []
 ---
 Développeur chez /ut7

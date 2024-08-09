@@ -10,5 +10,6 @@ missions:
     employer: Sogilis Lyon
 previously:
   - eac
+teams: []
 ---
 Développeur Java/JS, mais pas que.

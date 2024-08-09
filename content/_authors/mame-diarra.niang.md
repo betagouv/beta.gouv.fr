@@ -10,4 +10,5 @@ missions:
     employer: Ademe
     startups:
       - ecobalyse
+teams: []
 ---

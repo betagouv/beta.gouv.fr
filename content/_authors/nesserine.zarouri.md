@@ -14,4 +14,5 @@ badges:
   - segur
 startups:
   - rdv-service-public
+teams: []
 ---

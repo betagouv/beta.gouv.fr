@@ -14,4 +14,5 @@ startups:
   - mes-evenements-emploi
 competences:
   - Gestion de Produit
+teams: []
 ---

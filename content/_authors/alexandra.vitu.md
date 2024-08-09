@@ -12,4 +12,5 @@ missions:
 startups:
   - diagoriente
 memberType: beta
+teams: []
 ---

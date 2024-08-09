@@ -18,4 +18,5 @@ competences:
   - UX
   - DevOps
 memberType: beta
+teams: []
 ---

@@ -7,5 +7,6 @@ missions:
     end: 2024-09-29
     status: service
     employer: NUMA
+teams: []
 ---
 Officiellement responsable Secteur Public pour NUMA. Officieusement home-studiste et cycliste

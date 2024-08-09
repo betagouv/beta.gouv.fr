@@ -12,5 +12,6 @@ badges:
   - segur
 startups:
   - mon-diagnostic-artificialisation
+teams: []
 ---
 Le spartiate qui voulut mesurer l'artificialisation

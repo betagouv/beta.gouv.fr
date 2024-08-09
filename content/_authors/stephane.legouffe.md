@@ -15,5 +15,6 @@ startups:
 competences:
   - Développement Backend
   - Développement Frontend
+teams: []
 ---
 Developpeur FullStack JS, j'adore jouer avec NodeJS, GraphQL, VueJs, Angular, React et aussi avec des bots et des objets connectés !🤖

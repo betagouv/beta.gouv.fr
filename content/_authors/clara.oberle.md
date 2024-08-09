@@ -7,5 +7,6 @@ missions:
     end: 2021-10-31
     status: independent
     employer: Numa
+teams: []
 ---
 Chargée de déploiement Gamma

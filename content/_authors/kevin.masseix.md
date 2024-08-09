@@ -25,5 +25,6 @@ competences:
   - Sécurité informatique
   - Kubernetes
   - Machine learning
+teams: []
 ---
 DevOps, expert opensearch  SIMD computing

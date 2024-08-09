@@ -18,5 +18,6 @@ missions:
 startups:
   - resorption-bidonvilles
   - camino
+teams: []
 ---
 Développeur full-stack javascript

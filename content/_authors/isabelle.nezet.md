@@ -7,4 +7,5 @@ missions:
   - start: 2018-09-01
     end: 2018-10-15
     status: admin
+teams: []
 ---

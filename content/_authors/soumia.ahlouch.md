@@ -14,5 +14,6 @@ missions:
 startups:
   - les-emplois
   - pilotage.de.linclusion
+teams: []
 ---
 Rigoureuse et organisée , je prends à cœur d'analyser les chiffres pour une bonne prise de décision.

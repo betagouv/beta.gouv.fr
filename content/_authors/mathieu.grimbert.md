@@ -16,4 +16,5 @@ competences:
   - UI
   - Coaching
 memberType: beta
+teams: []
 ---

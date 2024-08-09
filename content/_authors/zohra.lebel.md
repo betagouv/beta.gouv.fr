@@ -15,5 +15,6 @@ startups:
   - aplus
 badges:
   - segur
+teams: []
 ---
 Je suis une drôle de dame.

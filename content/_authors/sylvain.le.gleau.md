@@ -23,5 +23,6 @@ competences:
   - PHP
   - PostgreSQL
   - JavaScript/TypeScript
+teams: []
 ---
 Développeur mobile et web fullstack

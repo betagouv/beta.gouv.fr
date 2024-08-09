@@ -11,4 +11,5 @@ missions:
       - workinfrance
 startups:
   - workinfrance
+teams: []
 ---

@@ -11,5 +11,6 @@ badges:
   - segur
 competences:
   - Administration Publique
+teams: []
 ---
 Chef de projet Innovation à la DGFiP. Pilotage de la Fabrique numérique.

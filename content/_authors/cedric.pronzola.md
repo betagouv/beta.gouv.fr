@@ -10,5 +10,6 @@ missions:
     employer: Living Data
 previously:
   - ban
+teams: []
 ---
 Développeur

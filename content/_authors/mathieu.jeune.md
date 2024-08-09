@@ -11,4 +11,5 @@ missions:
 startups:
   - mon.espace.collectivite
 memberType: beta
+teams: []
 ---

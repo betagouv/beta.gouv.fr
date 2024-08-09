@@ -15,5 +15,6 @@ competences:
   - UX
   - JavaScript/TypeScript
   - PostgreSQL
+teams: []
 ---
 Développeuse Fullstack TS | Basée sur Lyon | ⛰️⛰️⛰️

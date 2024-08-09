@@ -11,5 +11,6 @@ missions:
       - jeveuxaider
 startups:
   - jeveuxaider
+teams: []
 ---
 Chargée de déploiement au top auprès de la Réserve Civique !

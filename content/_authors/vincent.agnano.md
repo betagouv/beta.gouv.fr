@@ -21,5 +21,6 @@ competences:
   - Développement Frontend
   - Développement Backend
   - Gestion de Produit
+teams: []
 ---
 Accompagnement des équipes pour l'Incubateur des Territoires (ANCT), développeur, animateur de tiers-lieux en zones rurales.

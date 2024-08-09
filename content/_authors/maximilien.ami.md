@@ -13,5 +13,6 @@ missions:
 startups:
   - codedutravail
 memberType: beta
+teams: []
 ---
 Expert Tech-for-good, coach en développement pro-perso !

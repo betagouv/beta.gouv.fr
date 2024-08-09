@@ -14,5 +14,6 @@ missions:
 startups:
   - docurba
 memberType: beta
+teams: []
 ---
 Designer produit

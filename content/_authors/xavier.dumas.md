@@ -13,4 +13,5 @@ competences:
   - Communication
   - SEO
 memberType: beta
+teams: []
 ---

@@ -19,5 +19,6 @@ previously:
   - tdb-apprentissage
 competences:
   - Gestion de Produit
+teams: []
 ---
 Mon moteur : l’utilité sociale. Mon engagement : Agir pour plus d’équité.

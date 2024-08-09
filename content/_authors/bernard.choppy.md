@@ -11,4 +11,5 @@ missions:
       - fedel
 startups:
   - fedel
+teams: []
 ---

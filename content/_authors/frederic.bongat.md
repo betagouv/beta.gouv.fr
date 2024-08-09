@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: Police Nationale
 memberType: autre
+teams: []
 ---

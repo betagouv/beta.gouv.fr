@@ -12,4 +12,5 @@ missions:
 startups:
   - espace.sur.demande
 memberType: beta
+teams: []
 ---

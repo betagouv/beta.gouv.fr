@@ -12,4 +12,5 @@ missions:
 startups:
   - vues-immersives-libres
 memberType: autre
+teams: []
 ---

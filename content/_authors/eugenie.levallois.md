@@ -9,4 +9,5 @@ missions:
     status: service
     employer: DTNUM/SDID
 memberType: autre
+teams: []
 ---

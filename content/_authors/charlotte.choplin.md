@@ -17,5 +17,6 @@ badges:
   - segur
 competences:
   - Croissance
+teams: []
 ---
 J'accompagne les projets  à se développer ( Croissance du produit + équipe )

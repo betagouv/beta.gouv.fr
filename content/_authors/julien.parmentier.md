@@ -24,5 +24,6 @@ competences:
   - Développement
   - Développement Full-stack
   - DevOps
+teams: []
 ---
 Développeur et mordu de surf !

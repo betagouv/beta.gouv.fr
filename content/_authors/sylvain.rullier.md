@@ -11,5 +11,6 @@ missions:
 memberType: beta
 startups:
   - aldo
+teams: []
 ---
 ingénieur sol - agriculture - climat à l'ADEME

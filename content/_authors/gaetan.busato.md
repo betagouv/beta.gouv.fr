@@ -14,5 +14,6 @@ missions:
 startups:
   - pilotagevoiepro
 memberType: beta
+teams: []
 ---
 Dev React  NodeJS

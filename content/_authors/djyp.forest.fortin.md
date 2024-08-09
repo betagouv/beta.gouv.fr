@@ -17,5 +17,6 @@ memberType: beta
 role: Développeur
 startups:
   - espace.sur.demande
+teams: []
 ---
 Développeur Freelance Symfony

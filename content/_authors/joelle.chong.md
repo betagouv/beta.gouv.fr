@@ -17,5 +17,6 @@ competences:
   - Product strategy
   - Facilitation
   - UX
+teams: []
 ---
 Designer de services à l'ANSM

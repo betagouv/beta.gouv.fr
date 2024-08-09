@@ -13,5 +13,6 @@ startups:
   - place-de-marche-inclusion
 competences:
   - Croissance
+teams: []
 ---
 Growth Marketer

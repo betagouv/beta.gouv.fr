@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: MEAE
 memberType: autre
+teams: []
 ---

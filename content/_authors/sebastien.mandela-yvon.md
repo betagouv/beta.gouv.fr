@@ -8,5 +8,6 @@ missions:
     end: 2022-09-02
     status: admin
     employer: MTECT
+teams: []
 ---
 Étudiant datascience

@@ -14,4 +14,5 @@ startups:
   - le-taxi
   - mesads
 memberType: autre
+teams: []
 ---

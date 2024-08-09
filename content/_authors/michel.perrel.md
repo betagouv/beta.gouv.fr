@@ -12,5 +12,6 @@ missions:
       - assec
 startups:
   - assec
+teams: []
 ---
 Veux aider le monde agricole à s'adapter aux épisodes de sécheresse.

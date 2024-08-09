@@ -12,5 +12,6 @@ missions:
 startups:
   - nosgestesclimat
 memberType: beta
+teams: []
 ---
 Cycliste à la campagne, maman², bretonne iodée.

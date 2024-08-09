@@ -12,5 +12,6 @@ missions:
 startups:
   - transport
 memberType: beta
+teams: []
 ---
 Travailleur du numérique, transports à toutes les sauces.

@@ -12,4 +12,5 @@ missions:
 startups:
   - enfants-du-spectacle
 memberType: autre
+teams: []
 ---

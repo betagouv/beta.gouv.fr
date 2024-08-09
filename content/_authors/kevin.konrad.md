@@ -18,4 +18,5 @@ competences:
   - DevOps
   - Sécurité informatique
 memberType: beta
+teams: []
 ---

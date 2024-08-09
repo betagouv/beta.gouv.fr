@@ -10,4 +10,5 @@ missions:
       - jeveuxaider
 startups:
   - jeveuxaider
+teams: []
 ---

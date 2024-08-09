@@ -11,4 +11,5 @@ startups:
 competences:
   - Intrapreneur(se)
 memberType: autre
+teams: []
 ---

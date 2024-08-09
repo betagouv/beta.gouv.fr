@@ -12,4 +12,5 @@ missions:
 startups:
   - mes-aides-france-travail
 memberType: beta
+teams: []
 ---

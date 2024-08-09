@@ -12,5 +12,6 @@ missions:
 startups:
   - tdb-apprentissage
 memberType: beta
+teams: []
 ---
 Ancienne mauvaise développeuse

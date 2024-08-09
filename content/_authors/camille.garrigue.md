@@ -11,6 +11,5 @@ missions:
     employer: octo
 previously:
   - rdv-service-public
-teams:
-  - /teams/communaute-dinum
+teams: []
 ---

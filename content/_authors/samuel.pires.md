@@ -14,5 +14,6 @@ missions:
 startups:
   - archifiltre
 memberType: beta
+teams: []
 ---
 Product manager

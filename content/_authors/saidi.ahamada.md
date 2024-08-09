@@ -15,5 +15,6 @@ startups:
   - stop-punaises
 badges:
   - segur
+teams: []
 ---
 Développeur PHP/Symfony

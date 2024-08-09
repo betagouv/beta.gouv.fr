@@ -7,5 +7,6 @@ missions:
   - start: 2022-09-04
     end: 2023-01-01
     status: service
+teams: []
 ---
 J'ai vu de la lumière, alors chuis entré

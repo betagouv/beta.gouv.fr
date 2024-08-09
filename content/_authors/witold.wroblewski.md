@@ -12,4 +12,5 @@ missions:
       - euphrosyne
 startups:
   - euphrosyne
+teams: []
 ---

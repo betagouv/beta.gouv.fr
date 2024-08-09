@@ -14,5 +14,6 @@ missions:
       - pass-culture
 startups:
   - pass-culture
+teams: []
 ---
 Paysan 44.0

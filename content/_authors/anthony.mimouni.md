@@ -11,4 +11,5 @@ competences:
   - Administration Publique
   - Product strategy
 memberType: beta
+teams: []
 ---

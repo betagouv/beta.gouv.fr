@@ -16,5 +16,6 @@ competences:
   - Administration Système
   - Gestion de Produit
 memberType: beta
+teams: []
 ---
 Développeur full stack JS

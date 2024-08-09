@@ -13,5 +13,6 @@ missions:
 startups:
   - pix
   - mpal
+teams: []
 ---
 Newbie Ruby on Rails ;)

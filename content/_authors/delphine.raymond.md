@@ -28,5 +28,6 @@ badges:
 competences:
   - Gestion de Produit
   - Coaching
+teams: []
 ---
 Coach produit & Product Manager

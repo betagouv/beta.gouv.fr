@@ -15,4 +15,5 @@ competences:
   - Croissance
   - Communication
 memberType: beta
+teams: []
 ---

@@ -12,4 +12,5 @@ missions:
 startups:
   - potentiel
 memberType: autre
+teams: []
 ---

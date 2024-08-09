@@ -9,4 +9,5 @@ missions:
 startups:
   - dossierfacile
 memberType: autre
+teams: []
 ---

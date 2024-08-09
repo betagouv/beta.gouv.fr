@@ -15,4 +15,5 @@ competences:
   - Product design
   - UX
 memberType: beta
+teams: []
 ---

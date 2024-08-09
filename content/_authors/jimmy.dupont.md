@@ -12,5 +12,6 @@ missions:
 startups:
   - dossierfacile
 memberType: autre
+teams: []
 ---
 Opérateur de validation

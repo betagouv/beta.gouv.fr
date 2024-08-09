@@ -8,5 +8,6 @@ missions:
     end: 2020-08-31
     status: independent
     employer: numa
+teams: []
 ---
 Co-fondateur Examin & coach cyber

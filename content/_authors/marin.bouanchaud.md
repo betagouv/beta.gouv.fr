@@ -14,5 +14,6 @@ startups:
   - bpco
   - ozensemble
 memberType: beta
+teams: []
 ---
 Couteau-suisse

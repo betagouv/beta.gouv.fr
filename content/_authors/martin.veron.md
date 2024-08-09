@@ -13,5 +13,6 @@ missions:
 startups:
   - mon-aide-cyber
 memberType: beta
+teams: []
 ---
 Délégué Sécurité Numérique ANSSI Nouvelle-Aquitaine

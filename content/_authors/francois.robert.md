@@ -13,5 +13,6 @@ missions:
 startups:
   - athena
 memberType: autre
+teams: []
 ---
 Développeur

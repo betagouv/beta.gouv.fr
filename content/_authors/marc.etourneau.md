@@ -14,5 +14,6 @@ missions:
     employer: Ippon
     startups:
       - mon-aide-cyber
+teams: []
 ---
 Développeur Fullstack

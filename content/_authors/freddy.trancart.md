@@ -12,5 +12,6 @@ missions:
 startups:
   - pop
 memberType: autre
+teams: []
 ---
 DevOps

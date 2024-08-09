@@ -28,5 +28,6 @@ competences:
   - Product strategy
 previously:
   - sndv_maritime
+teams: []
 ---
 Entrepreneur au service de l'impact - Auteur Documentaire

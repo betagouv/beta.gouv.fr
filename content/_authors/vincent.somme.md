@@ -10,4 +10,5 @@ missions:
       - diagoriente
 startups:
   - diagoriente
+teams: []
 ---

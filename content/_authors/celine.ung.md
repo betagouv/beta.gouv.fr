@@ -13,5 +13,6 @@ missions:
 startups:
   - l-immersion-facile
 memberType: autre
+teams: []
 ---
 Développeuse fullstack

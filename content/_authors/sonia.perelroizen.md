@@ -14,5 +14,6 @@ startups:
   - inclusion.connect
 competences:
   - Gestion de Produit
+teams: []
 ---
 Entrepreneure fan de sports aquatiques

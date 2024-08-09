@@ -26,6 +26,7 @@ competences:
   - UX
   - Croissance
   - Coaching
+teams: []
 ---
 Je dis que je suis PM à mes parents pour ne pas avoir à leur expliquer que je suis Designer de services.
 Je ne suis pas full-time actuellement et donc disponible pour de nouveaux produits !

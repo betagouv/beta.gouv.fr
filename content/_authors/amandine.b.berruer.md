@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: MTECT
 memberType: autre
+teams: []
 ---

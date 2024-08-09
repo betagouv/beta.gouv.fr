@@ -28,4 +28,5 @@ previously:
   - megalodon
 competences:
   - Gestion de Produit
+teams: []
 ---

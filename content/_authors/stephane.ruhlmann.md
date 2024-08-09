@@ -31,4 +31,5 @@ competences:
   - JavaScript/TypeScript
   - Metabase
   - PostgreSQL
+teams: []
 ---

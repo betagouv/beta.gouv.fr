@@ -22,4 +22,5 @@ competences:
   - UX
   - Gestion de Produit
   - Croissance
+teams: []
 ---

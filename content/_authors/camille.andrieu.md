@@ -9,5 +9,6 @@ missions:
     status: admin
 badges:
   - segur
+teams: []
 ---
 Intrapreneuse à la Cours de Comptes. Auditrice chargée de mission auprès du Premier président

@@ -16,5 +16,6 @@ missions:
     employer: Codeurs en Liberté
 startups:
   - demarches-simplifiees.fr
+teams: []
 ---
 Chasseur de bogues, amoureux des trains.

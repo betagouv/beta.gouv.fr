@@ -12,5 +12,6 @@ missions:
 startups:
   - données-et-territoires
 memberType: beta
+teams: []
 ---
 Développeur Fullstack, pianiste amateur

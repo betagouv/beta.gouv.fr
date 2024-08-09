@@ -9,5 +9,6 @@ missions:
     employer: DINUM
 badges:
   - segur
+teams: []
 ---
 Stagiaire dans le domaine de la data période six mois

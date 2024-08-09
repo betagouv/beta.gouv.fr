@@ -10,4 +10,5 @@ missions:
       - andi
 startups:
   - andi
+teams: []
 ---

@@ -7,4 +7,5 @@ missions:
     end: 2024-12-31
     status: service
 memberType: autre
+teams: []
 ---
