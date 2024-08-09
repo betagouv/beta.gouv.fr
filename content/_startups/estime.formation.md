@@ -110,4 +110,4 @@ Pour les autres publics, ils ont accès à une page d'information spécifique se
 - Nouvelle Aquitaine
 - Bourgogne-Franche-Comté
 
-Et d'ici la fin de l'année 2024 à l'ensemble de la Métropole et début 2025, Départements et Régions d'Outre-Mer.
+Et d'ici la fin de l'année 2024, nous envisageons d'ouvrir à l'ensemble de la Métropole et début 2025, aux Départements et Régions d'Outre-Mer.
