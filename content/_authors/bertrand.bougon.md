@@ -13,5 +13,6 @@ missions:
 startups:
   - mon-aide-cyber
 memberType: beta
+teams: []
 ---
 Développeur, software craft, TDD lover, DDD lover

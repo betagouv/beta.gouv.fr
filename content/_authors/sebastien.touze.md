@@ -12,5 +12,6 @@ missions:
       - rapportnav
 startups:
   - rapportnav
+teams: []
 ---
 Ex-EIG développeur.

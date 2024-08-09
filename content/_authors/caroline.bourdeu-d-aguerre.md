@@ -18,5 +18,6 @@ competences:
   - Développement Backend
 previously:
   - psyenfantado
+teams: []
 ---
 TDD ❤️

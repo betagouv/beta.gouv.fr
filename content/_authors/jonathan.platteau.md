@@ -17,4 +17,5 @@ memberType: beta
 role: Développeur Full-Stack
 startups:
   - espace.sur.demande
+teams: []
 ---

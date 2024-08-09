@@ -21,4 +21,5 @@ memberType: dinum
 startups:
   - suite-numerique
   - l-application-du-cej
+teams: []
 ---

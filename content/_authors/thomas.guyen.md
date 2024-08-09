@@ -7,4 +7,5 @@ missions:
     end: 2025-01-23
     status: admin
 memberType: autre
+teams: []
 ---

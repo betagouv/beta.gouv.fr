@@ -13,5 +13,6 @@ startups:
   - aplus
 badges:
   - segur
+teams: []
 ---
 Je suis étudiant en master grande école à Excelia

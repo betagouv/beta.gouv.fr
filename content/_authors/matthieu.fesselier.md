@@ -14,4 +14,5 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
 memberType: beta
+teams: []
 ---

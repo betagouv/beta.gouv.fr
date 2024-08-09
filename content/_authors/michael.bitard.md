@@ -21,4 +21,5 @@ competences:
   - DevOps
   - Administration Système
   - Sécurité informatique
+teams: []
 ---

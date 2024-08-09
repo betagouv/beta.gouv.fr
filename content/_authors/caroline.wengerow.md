@@ -13,4 +13,5 @@ startups:
   - l-immersion-facile
 badges:
   - segur
+teams: []
 ---

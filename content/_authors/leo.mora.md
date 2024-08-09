@@ -21,5 +21,6 @@ startups:
   - civils-de-la-defense
   - octopus
   - cassiopee
+teams: []
 ---
 JavaScript frontend/backend developer. React lover.

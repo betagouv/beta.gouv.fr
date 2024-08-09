@@ -13,5 +13,6 @@ startups:
   - urbanvitaliz
 badges:
   - segur
+teams: []
 ---
 Urbaniste

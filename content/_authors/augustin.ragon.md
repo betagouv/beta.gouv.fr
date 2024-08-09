@@ -32,5 +32,6 @@ competences:
   - Metabase
   - PostgreSQL
 link: https://www.linkedin.com/in/augustinragon/
+teams: []
 ---
 Développeur full-stack passionné de programmation fonctionnelle. J'aime la musique, la nature, et le fromage.

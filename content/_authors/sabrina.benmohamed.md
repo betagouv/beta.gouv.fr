@@ -10,4 +10,5 @@ missions:
 previously:
   - pilotage.de.linclusion
 memberType: beta
+teams: []
 ---

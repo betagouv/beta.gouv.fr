@@ -38,5 +38,6 @@ competences:
   - Administration Publique
   - Facilitation
   - Communication
+teams: []
 ---
 Développeuse full stack, passionnée d'IA et d'accessibilité

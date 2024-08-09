@@ -17,4 +17,5 @@ badges:
   - segur
 competences:
   - Croissance
+teams: []
 ---

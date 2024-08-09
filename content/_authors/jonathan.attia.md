@@ -11,5 +11,6 @@ missions:
     employer: DINUM
 badges:
   - segur
+teams: []
 ---
 En éveil le jour, en veille la nuit, pianiste entre deux.

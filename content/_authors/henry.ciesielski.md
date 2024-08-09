@@ -12,4 +12,5 @@ startups:
   - zero-logement-vacant
 competences:
   - Administration Publique
+teams: []
 ---

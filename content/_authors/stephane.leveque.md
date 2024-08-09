@@ -9,4 +9,5 @@ missions:
     status: admin
     employer: Cerema
 memberType: autre
+teams: []
 ---
