@@ -14,4 +14,5 @@ missions:
 startups:
   - exposition-ij
 memberType: beta
+teams: []
 ---

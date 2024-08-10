@@ -12,4 +12,5 @@ missions:
 startups:
   - signaux-faibles
 memberType: beta
+teams: []
 ---

@@ -13,5 +13,6 @@ missions:
 startups:
   - egalite.professionnelle
 memberType: autre
+teams: []
 ---
 Consultante Product Owner

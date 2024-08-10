@@ -14,5 +14,6 @@ startups:
   - fiche.commune.entreprise.fce
 competences:
   - Développement Backend
+teams: []
 ---
 Développer simplement des applications complexes.

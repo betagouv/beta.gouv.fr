@@ -13,4 +13,5 @@ missions:
 startups:
   - pacoupa
 memberType: beta
+teams: []
 ---

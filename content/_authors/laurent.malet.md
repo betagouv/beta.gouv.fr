@@ -17,5 +17,6 @@ competences:
   - Finances publiques
   - Fiscalité
   - Tourisme
+teams: []
 ---
 Inspecteur Traveller

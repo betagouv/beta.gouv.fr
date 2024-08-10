@@ -9,4 +9,5 @@ missions:
     employer: SNDV
 badges:
   - segur
+teams: []
 ---

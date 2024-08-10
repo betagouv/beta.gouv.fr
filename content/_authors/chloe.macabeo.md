@@ -13,4 +13,5 @@ startups:
 memberType: beta
 previously:
   - recosante
+teams: []
 ---

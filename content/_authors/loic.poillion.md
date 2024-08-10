@@ -13,4 +13,5 @@ competences:
   - Droit / Affaires juridiques
   - Administration Publique
 memberType: beta
+teams: []
 ---

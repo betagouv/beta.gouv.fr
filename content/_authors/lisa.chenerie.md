@@ -10,5 +10,6 @@ missions:
       - ecobalyse
 startups:
   - ecobalyse
+teams: []
 ---
 Ingénieure agronome Adjointe cheffe du bureau de l'agriculture et de alimentation durables

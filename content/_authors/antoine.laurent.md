@@ -16,4 +16,5 @@ startups:
   - inclusion.connect
 competences:
   - Développement Backend
+teams: []
 ---

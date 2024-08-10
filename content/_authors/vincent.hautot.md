@@ -6,4 +6,5 @@ missions:
   - start: 2022-05-30
     end: 2024-12-31
     status: independent
+teams: []
 ---

@@ -18,4 +18,5 @@ competences:
   - Développement Frontend
   - Développement Backend
   - Administration Système
+teams: []
 ---

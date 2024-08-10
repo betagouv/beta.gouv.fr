@@ -11,4 +11,5 @@ missions:
       - chauffage-urbain
 startups:
   - chauffage-urbain
+teams: []
 ---

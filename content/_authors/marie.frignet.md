@@ -13,5 +13,6 @@ missions:
 startups:
   - homologation
 memberType: beta
+teams: []
 ---
 UXUI GRAPHIC WEB DESIGNER

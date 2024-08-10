@@ -8,4 +8,5 @@ missions:
     status: admin
     startups:
       - pass-sport
+teams: []
 ---

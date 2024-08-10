@@ -13,4 +13,5 @@ startups:
   - delphes
 competences:
   - Administration Publique
+teams: []
 ---

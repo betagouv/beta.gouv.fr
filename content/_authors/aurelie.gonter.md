@@ -16,5 +16,6 @@ startups:
   - dora
 competences:
   - Gestion de Produit
+teams: []
 ---
 Responsable produit (PO)

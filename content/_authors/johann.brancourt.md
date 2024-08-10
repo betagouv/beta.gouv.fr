@@ -14,4 +14,5 @@ github: Johannbr
 competences:
   - Développement Full-stack
 memberType: beta
+teams: []
 ---

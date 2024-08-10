@@ -11,4 +11,5 @@ missions:
       - classe-a-12
 startups:
   - classe-a-12
+teams: []
 ---

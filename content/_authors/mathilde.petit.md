@@ -26,4 +26,5 @@ competences:
   - Product strategy
   - UX
   - Communication
+teams: []
 ---

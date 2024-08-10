@@ -13,5 +13,6 @@ startups:
   - inca
 badges:
   - segur
+teams: []
 ---
 Chargé de déploiement @Lab Agora

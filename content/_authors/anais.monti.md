@@ -10,5 +10,6 @@ competences:
   - UX
   - Coaching
   - Communication
+teams: []
 ---
 Une ex-entrepreuneuse au service des autres !
