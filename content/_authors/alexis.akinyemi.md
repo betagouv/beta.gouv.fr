@@ -19,5 +19,6 @@ startups:
   - exposition-ij
 previously:
   - eva
+teams: []
 ---
 Ethique/Méthode/Réfutabilité

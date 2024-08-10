@@ -24,4 +24,5 @@ previously:
   - au-compost-mitoyen
   - protege-toit
 link: https://www.linkedin.com/in/stephanjennifer/
+teams: []
 ---

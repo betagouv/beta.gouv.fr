@@ -12,5 +12,6 @@ startups:
   - cadransolaire
 competences:
   - Administration Publique
+teams: []
 ---
 Chargée de mission - Préservation du Foncier Agricole, Service Agriculture et Développement Rural

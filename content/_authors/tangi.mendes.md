@@ -12,4 +12,5 @@ missions:
       - snu
 startups:
   - snu
+teams: []
 ---

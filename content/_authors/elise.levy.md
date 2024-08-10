@@ -9,5 +9,6 @@ missions:
     employer: dinum
 previously:
   - open-academie
+teams: []
 ---
 Pourquoi faire compliqué quand on peut faire simple ?

@@ -7,4 +7,5 @@ missions:
     end: 2025-07-31
     status: service
 memberType: attributaire
+teams: []
 ---

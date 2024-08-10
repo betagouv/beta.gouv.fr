@@ -13,5 +13,6 @@ missions:
 startups:
   - tchap
 memberType: beta
+teams: []
 ---
 Biz dev pour Tchap

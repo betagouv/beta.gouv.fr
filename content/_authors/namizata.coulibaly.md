@@ -21,4 +21,5 @@ competences:
 previously:
   - france-numerique-ensemble
   - cartographie.nationale
+teams: []
 ---

@@ -7,4 +7,5 @@ missions:
     end: 2024-05-31
     status: service
 memberType: beta
+teams: []
 ---

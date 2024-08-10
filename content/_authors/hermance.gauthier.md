@@ -12,4 +12,5 @@ startups:
   - docurba
 competences:
   - Administration Publique
+teams: []
 ---

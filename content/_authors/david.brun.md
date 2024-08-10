@@ -7,5 +7,6 @@ missions:
     end: 2021-12-31
     status: independent
     employer: Octo
+teams: []
 ---
 Serial entrepreneur et coach startup

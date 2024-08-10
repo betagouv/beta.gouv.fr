@@ -14,5 +14,6 @@ startups:
   - reva
 previously:
   - exposition-ij
+teams: []
 ---
 Dans le web depuis 1997, dans l'UX design depuis 2010, militante du content design

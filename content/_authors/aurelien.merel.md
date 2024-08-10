@@ -16,4 +16,5 @@ startups:
   - oots.once-only.technical.system
 previously:
   - demarches-simplifiees.fr
+teams: []
 ---

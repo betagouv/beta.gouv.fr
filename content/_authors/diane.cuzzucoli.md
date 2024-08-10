@@ -10,5 +10,6 @@ missions:
     startups:
       - maestro
 memberType: autre
+teams: []
 ---
 Ingénieure Analyse de risque - microbiologiste - chaine alimentaire

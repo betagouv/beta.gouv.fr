@@ -20,5 +20,6 @@ missions:
 previously:
   - signaux-faibles
   - transition-ecologique-des-entreprises
+teams: []
 ---
 Data Full Stack

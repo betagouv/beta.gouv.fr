@@ -12,5 +12,6 @@ missions:
 startups:
   - delta.v
 memberType: beta
+teams: []
 ---
 Développeur la nuit, sportif le jour

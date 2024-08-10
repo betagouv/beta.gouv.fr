@@ -7,5 +7,6 @@ missions:
     end: 2024-08-31
     status: admin
 memberType: beta
+teams: []
 ---
 UXUI Designer

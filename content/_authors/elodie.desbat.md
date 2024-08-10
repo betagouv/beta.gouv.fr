@@ -13,5 +13,6 @@ startups:
   - inca
 badges:
   - segur
+teams: []
 ---
 UX / Service Designer depuis 10 ans déjà !

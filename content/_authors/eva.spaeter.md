@@ -13,5 +13,6 @@ missions:
 startups:
   - datapass
 memberType: beta
+teams: []
 ---
 Product Designer

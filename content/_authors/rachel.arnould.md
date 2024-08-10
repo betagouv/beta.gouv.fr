@@ -10,4 +10,5 @@ missions:
     employer: PathTech
     startups:
       - ecobalyse
+teams: []
 ---
