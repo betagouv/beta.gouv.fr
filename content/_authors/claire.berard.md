@@ -13,5 +13,6 @@ competences:
   - Communication
   - Facilitation
   - Coaching
+  - Administration Publique
 ---
-Coach startup d’État et chargée de communication innovation
+Coach agile - produit et chargée de communication innovation

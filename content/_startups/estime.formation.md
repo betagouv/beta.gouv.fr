@@ -56,7 +56,7 @@ events:
 **Contexte**
 
 La formation professionnelle des demandeurs d’emploi est un enjeu stratégique pour France Travail.
-L'aspect financier est l'un des principaux freins d'entrée en formation.
+L'aspect financier est l'un des principaux freins à l'entrée en formation.
 
 Le simulateur reprise d'emploi anciennement Estime reprise d'emploi a prouvé que ce frein financier pouvait être levé dans le cas d'une reprise d'emploi.
 
@@ -66,7 +66,7 @@ Le simulateur reprise d'emploi anciennement Estime reprise d'emploi a prouvé qu
 
 Parce que c'est très compliqué de s'y retrouver dans tous les dispositifs, les bénéficiaires pensent qu'ils sont perdants financièrement s'ils rentrent en formation alors qu'en réalité dans la plupart des cas, ils sont gagnants financièrement !
 
-Les accompagnants du Réseau Pour l'Emploi (conseillers Pôle emploi, prestataires des départements, associations..) ne savent pas calculer l'impact financier d'une rémunération sur les aides et allocations perçues par le bénéficiaires. Ils ne peuvent donc pas lever ce frein à l'entrée en formation.
+Les accompagnants du Réseau Pour l'Emploi (conseillers Pôle emploi, prestataires des départements, associations..) ne savent pour la plupart pas calculer l'impact financier d'une rémunération sur les aides et allocations perçues par le bénéficiaires. Ils ne peuvent donc pas lever ce frein à l'entrée en formation.
 
 
 
@@ -110,4 +110,4 @@ Pour les autres publics, ils ont accès à une page d'information spécifique se
 - Nouvelle Aquitaine
 - Bourgogne-Franche-Comté
 
-Et d'ici la fin de l'année 2024 à l'ensemble de la Métropole et début 2025, Départements et Régions d'Outre-Mer.
+Et d'ici la fin de l'année 2024, nous envisageons d'ouvrir à l'ensemble de la Métropole et début 2025, aux Départements et Régions d'Outre-Mer.
