@@ -8,8 +8,7 @@ missions:
     end: 2025-06-30
     status: admin
     employer: GIP Plateforme de l'inclusion
-teams:
-  - /teams/gip-inclusion
+teams: []
 previously:
   - avril
   - la-bonne-formation

@@ -13,5 +13,6 @@ missions:
 startups:
   - portail-rse
 memberType: beta
+teams: []
 ---
 UI UX Designer, intégrateur·ice web

@@ -12,4 +12,5 @@ missions:
       - mon-suivi-social
 startups:
   - mon-suivi-social
+teams: []
 ---

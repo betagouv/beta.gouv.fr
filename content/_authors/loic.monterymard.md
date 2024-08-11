@@ -8,5 +8,6 @@ missions:
     status: independent
 badges:
   - segur
+teams: []
 ---
 Product Owner, ancien militaire

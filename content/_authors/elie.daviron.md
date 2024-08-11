@@ -8,5 +8,6 @@ missions:
     status: independent
     employer: lazone/scopyleft
 github: edacook
+teams: []
 ---
 faire des trucs utiles avec des personnes enthousiastes en étant attentif sur le consentement - 🐾

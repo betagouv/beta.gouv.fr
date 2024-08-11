@@ -12,4 +12,5 @@ missions:
 startups:
   - mes-aides.bretagne.bzh
 previously: []
+teams: []
 ---

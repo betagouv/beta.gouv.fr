@@ -12,4 +12,5 @@ missions:
 startups:
   - mon-aide-cyber
 memberType: beta
+teams: []
 ---

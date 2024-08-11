@@ -17,5 +17,6 @@ previously:
   - acceslibre
 badges:
   - segur
+teams: []
 ---
 Mettre en valeur les contenus et data

@@ -9,5 +9,6 @@ missions:
 previously:
   - monstage
 memberType: autre
+teams: []
 ---
 Digital native et storyteller, née avec une passion pour le voyage et l'engagement social dans toutes ces formes.

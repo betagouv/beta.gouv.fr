@@ -13,5 +13,6 @@ missions:
       - api-engagement
 startups:
   - api-engagement
+teams: []
 ---
 Développeur passionné le jour, breton passionné la nuit. Une vie plein de passion de manière générale

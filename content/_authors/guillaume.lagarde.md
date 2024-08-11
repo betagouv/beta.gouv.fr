@@ -12,4 +12,5 @@ missions:
 competences:
   - Data Science
   - Machine learning
+teams: []
 ---

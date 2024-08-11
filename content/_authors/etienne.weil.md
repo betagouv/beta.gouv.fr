@@ -20,4 +20,5 @@ competences:
   - Product design
 previously:
   - monstage
+teams: []
 ---

@@ -14,5 +14,6 @@ missions:
 memberType: dinum
 startups:
   - suite-numerique
+teams: []
 ---
 Réseau, système, logiciels libres et problèmes inextricables.

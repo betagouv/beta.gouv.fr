@@ -12,4 +12,5 @@ missions:
 competences:
   - Communication
 memberType: beta
+teams: []
 ---

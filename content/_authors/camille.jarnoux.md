@@ -8,5 +8,6 @@ missions:
     status: independent
     employer: LBC
 memberType: beta
+teams: []
 ---
 Chargée de déploiement

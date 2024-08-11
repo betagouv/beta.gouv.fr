@@ -21,5 +21,6 @@ badges:
 competences:
   - UX
   - UI
+teams: []
 ---
 UX designer

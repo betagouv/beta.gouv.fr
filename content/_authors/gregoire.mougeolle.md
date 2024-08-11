@@ -10,4 +10,5 @@ missions:
     status: service
     employer: Nextmap.io
 memberType: autre
+teams: []
 ---

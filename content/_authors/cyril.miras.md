@@ -9,6 +9,5 @@ missions:
     status: admin
     employer: DGALN
 memberType: beta
-teams:
-  - /teams/mtes
+teams: []
 ---

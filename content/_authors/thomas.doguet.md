@@ -14,4 +14,5 @@ startups:
   - tacct
 memberType: beta
 competences: []
+teams: []
 ---

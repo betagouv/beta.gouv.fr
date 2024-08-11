@@ -17,4 +17,5 @@ competences:
   - Développement Full-stack
   - Python
   - JavaScript/TypeScript
+teams: []
 ---

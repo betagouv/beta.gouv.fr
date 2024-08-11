@@ -16,5 +16,6 @@ startups:
   - tdb-apprentissage
 badges:
   - segur
+teams: []
 ---
 Chargée de déploiement Spécialiste de la communication publique - PO/PM Addict aux serious game, escape game et expériences immersives

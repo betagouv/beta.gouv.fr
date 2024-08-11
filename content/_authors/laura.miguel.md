@@ -12,5 +12,6 @@ missions:
 startups:
   - cartographie.nationale
 memberType: beta
+teams: []
 ---
 Développeuse Full-stack.

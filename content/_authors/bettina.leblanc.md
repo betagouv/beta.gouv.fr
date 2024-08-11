@@ -14,5 +14,6 @@ startups:
   - aides-territoires
 competences:
   - Communication
+teams: []
 ---
 Chargée de déploiement le jour, illustratrice et rugbywoman la nuit

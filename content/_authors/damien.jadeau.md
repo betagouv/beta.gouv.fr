@@ -9,5 +9,6 @@ missions:
     status: admin
     employer: DNUM
 memberType: autre
+teams: []
 ---
 Champion d'Europe de manège en catégorie Carrousel

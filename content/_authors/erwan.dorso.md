@@ -17,5 +17,6 @@ startups:
 memberType: autre
 previously:
   - tchap
+teams: []
 ---
 DevOps freelance

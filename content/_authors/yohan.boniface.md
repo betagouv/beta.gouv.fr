@@ -23,4 +23,5 @@ previously:
   - classe-a-12
   - egalite.professionnelle
   - données-et-territoires
+teams: []
 ---

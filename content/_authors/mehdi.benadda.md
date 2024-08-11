@@ -13,5 +13,6 @@ missions:
       - partaj
 startups:
   - partaj
+teams: []
 ---
 JavaScript, Django, open source. Aime la grimpe et le surf, le cinéma et la littérature.

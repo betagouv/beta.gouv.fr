@@ -12,4 +12,5 @@ previously:
   - mon-suivi-justice
 competences:
   - Développement Backend
+teams: []
 ---

@@ -19,4 +19,5 @@ previously:
   - eoliennes
 competences:
   - UX
+teams: []
 ---
