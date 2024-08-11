@@ -12,5 +12,6 @@ missions:
 startups:
   - sirius
 memberType: beta
+teams: []
 ---
 Développeur fullstack

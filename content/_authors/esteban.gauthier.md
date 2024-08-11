@@ -13,4 +13,5 @@ link: https://www.linkedin.com/in/esteban-gauthier-939811175/
 startups:
   - carbure
 memberType: beta
+teams: []
 ---

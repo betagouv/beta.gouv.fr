@@ -14,5 +14,6 @@ missions:
 startups:
   - snu
 memberType: beta
+teams: []
 ---
 Développeur fullstack senior

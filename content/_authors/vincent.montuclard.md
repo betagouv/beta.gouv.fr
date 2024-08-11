@@ -12,5 +12,6 @@ missions:
 startups:
   - mistral-penal
 memberType: beta
+teams: []
 ---
 Développer, Développer, Développer, Développer, Développer ... ^.^

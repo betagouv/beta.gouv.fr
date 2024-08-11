@@ -13,5 +13,6 @@ missions:
 startups:
   - basegun
 memberType: beta
+teams: []
 ---
 ekipafond

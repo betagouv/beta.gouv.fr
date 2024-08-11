@@ -12,5 +12,6 @@ missions:
       - talents.numeriques
 startups:
   - talents.numeriques
+teams: []
 ---
 J'aime découvrir et expérimenter de nouvelles choses !

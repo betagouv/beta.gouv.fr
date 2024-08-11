@@ -16,4 +16,5 @@ competences:
   - Développement Frontend
   - Développement Backend
   - Gestion de Produit
+teams: []
 ---

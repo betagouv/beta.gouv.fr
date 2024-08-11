@@ -16,5 +16,6 @@ startups:
 competences:
   - UX
   - UI
+teams: []
 ---
 (Product) Designer.

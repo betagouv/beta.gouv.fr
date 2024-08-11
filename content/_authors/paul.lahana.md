@@ -11,4 +11,5 @@ missions:
       - au-compost-mitoyen
 startups:
   - au-compost-mitoyen
+teams: []
 ---

@@ -14,5 +14,6 @@ missions:
 startups:
   - reva
   - codedutravail
+teams: []
 ---
 Data scientist / data engineer voulant démystifier la data auprès des startups

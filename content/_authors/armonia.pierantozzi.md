@@ -11,5 +11,6 @@ badges:
 previously:
   - histologe
   - chauffage-urbain
+teams: []
 ---
 J'adore réinventer le monde autour d'un bon repas :)

@@ -32,6 +32,7 @@ competences:
   - Product strategy
   - Développement Full-stack
 link: https://www.linkedin.com/in/florianbriand
+teams: []
 ---
 Mon parcours assez diversifié (bioinformaticien, développeur dans des startups de santé, entrepreneur ...) m'offre aujourd'hui un recul et des méthodes de travail qui me permettent de contribuer à faire avancer des projets qui ont du sens pour moi.
 

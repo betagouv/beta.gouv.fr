@@ -10,4 +10,5 @@ missions:
 memberType: attributaire
 competences:
   - Communication
+teams: []
 ---

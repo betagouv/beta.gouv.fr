@@ -11,4 +11,5 @@ previously:
   - datagir
   - nosgestesclimat
 memberType: beta
+teams: []
 ---

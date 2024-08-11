@@ -21,5 +21,6 @@ competences:
   - Coaching
   - UX
   - UI
+teams: []
 ---
 Utiliser le design comme une force de changement.

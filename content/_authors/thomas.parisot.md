@@ -20,5 +20,6 @@ link: https://détour.studio
 previously:
   - cartobio
   - data.gouv.fr
+teams: []
 ---
 Vivre un futur désirable.

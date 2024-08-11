@@ -13,4 +13,5 @@ missions:
     employer: LittleBigConnection
     startups:
       - espace.sur.demande
+teams: []
 ---

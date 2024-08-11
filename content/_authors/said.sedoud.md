@@ -14,5 +14,6 @@ startups:
   - signalement
 badges:
   - segur
+teams: []
 ---
 Développeur

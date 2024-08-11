@@ -35,4 +35,5 @@ startups:
 memberType: beta
 previously:
   - ecobalyse
+teams: []
 ---

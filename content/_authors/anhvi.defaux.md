@@ -12,4 +12,5 @@ missions:
 startups:
   - portail-rse
 memberType: autre
+teams: []
 ---

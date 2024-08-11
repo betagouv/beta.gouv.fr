@@ -13,5 +13,6 @@ missions:
       - reva
 startups:
   - reva
+teams: []
 ---
 Développeur freelance, motard et de temps en temps je dessine
