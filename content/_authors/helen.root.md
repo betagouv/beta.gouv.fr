@@ -19,4 +19,5 @@ previously:
 competences:
   - Développement Full-stack
   - Accessibilité
+teams: []
 ---

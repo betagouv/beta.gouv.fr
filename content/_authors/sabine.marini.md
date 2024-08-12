@@ -12,4 +12,5 @@ startups:
   - apilos
 competences:
   - Administration Publique
+teams: []
 ---

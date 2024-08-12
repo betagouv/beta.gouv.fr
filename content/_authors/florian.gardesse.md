@@ -11,5 +11,6 @@ startups: []
 memberType: beta
 competences:
   - Croissance
+teams: []
 ---
 Business Developer

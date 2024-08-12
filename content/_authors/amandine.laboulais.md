@@ -12,5 +12,6 @@ missions:
 startups:
   - mon-suivi-social
 memberType: beta
+teams: []
 ---
 UXUI Designer créative et engagée pour un numérique responsable

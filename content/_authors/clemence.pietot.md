@@ -8,5 +8,6 @@ missions:
     status: independent
 previously:
   - plusfraichemaville
+teams: []
 ---
 Product Designer

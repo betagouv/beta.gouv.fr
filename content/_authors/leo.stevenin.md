@@ -11,4 +11,5 @@ missions:
 startups:
   - les-emplois
 memberType: beta
+teams: []
 ---

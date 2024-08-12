@@ -11,5 +11,6 @@ missions:
 startups:
   - rapportnav
 link: https://www.linkedin.com/in/camille-nguyen-tpe/
+teams: []
 ---
 Intrapreneuse RapportNav

@@ -7,5 +7,6 @@ missions:
     end: 2024-04-29
     status: admin
 memberType: autre
+teams: []
 ---
 Créative et motivée

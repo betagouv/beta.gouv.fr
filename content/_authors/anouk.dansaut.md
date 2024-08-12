@@ -9,5 +9,6 @@ missions:
     status: independent
     employer: DINUM
 memberType: beta
+teams: []
 ---
 Chargée de communication et chineuse de déco

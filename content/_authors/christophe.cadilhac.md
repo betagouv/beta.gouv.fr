@@ -12,5 +12,6 @@ missions:
       - homologation
 startups:
   - homologation
+teams: []
 ---
 Lead Dev du Lab de l'ANSSI. https://www.ssi.gouv.fr/

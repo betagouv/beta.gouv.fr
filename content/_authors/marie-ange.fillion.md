@@ -7,5 +7,6 @@ missions:
     end: 2023-03-22
     status: independent
 memberType: beta
+teams: []
 ---
 Animatrice de réseaux le matin, CIP Bénévole l'après-midi

@@ -11,5 +11,6 @@ missions:
       - trackdechets
 startups:
   - trackdechets
+teams: []
 ---
 Passionnée par les rencontres, et les voyages.

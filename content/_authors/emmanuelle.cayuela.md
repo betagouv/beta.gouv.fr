@@ -13,5 +13,6 @@ startups:
   - themis
 badges:
   - segur
+teams: []
 ---
 En développement personnel

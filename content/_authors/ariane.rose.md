@@ -19,7 +19,6 @@ startups:
   - bases.adresses.locales
   - données-et-territoires
   - umap
-teams:
-  - /teams/anct
+teams: []
 ---
 Accélérer le déploiement de la fibre optique et des Bases Adresses Locales

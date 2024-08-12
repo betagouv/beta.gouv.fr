@@ -9,4 +9,5 @@ missions:
     employer: CNFPT
 badges:
   - segur
+teams: []
 ---

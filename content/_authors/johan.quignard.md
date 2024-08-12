@@ -12,5 +12,6 @@ missions:
       - mrs
 startups:
   - mrs
+teams: []
 ---
 Digital Native chasseur d'irritants

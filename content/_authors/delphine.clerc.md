@@ -14,4 +14,5 @@ previously:
   - camino
 competences:
   - Croissance
+teams: []
 ---

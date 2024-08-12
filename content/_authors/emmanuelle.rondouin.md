@@ -10,4 +10,5 @@ missions:
       - inventaireoeuvres
 startups:
   - inventaireoeuvres
+teams: []
 ---

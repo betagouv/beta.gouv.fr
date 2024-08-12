@@ -1,5 +1,5 @@
 ---
 name: Animation
-incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
+incubator: /incubators/latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 mission: ''
 ---

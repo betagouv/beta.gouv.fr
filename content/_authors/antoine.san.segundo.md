@@ -11,4 +11,5 @@ missions:
     employer: ut7
     startups:
       - pix-de-la-perseverance-nom-de-code
+teams: []
 ---

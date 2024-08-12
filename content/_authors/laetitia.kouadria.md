@@ -14,5 +14,6 @@ previously:
   - mon-recap
 competences:
   - Gestion de Produit
+teams: []
 ---
 Aider à maximiser l' impact positif du numérique sur la société

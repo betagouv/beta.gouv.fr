@@ -12,5 +12,6 @@ missions:
 startups:
   - themis
 memberType: autre
+teams: []
 ---
 En toute intelligence collective

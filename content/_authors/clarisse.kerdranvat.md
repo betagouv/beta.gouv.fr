@@ -12,4 +12,5 @@ missions:
 startups:
   - poe.facilite
 memberType: autre
+teams: []
 ---

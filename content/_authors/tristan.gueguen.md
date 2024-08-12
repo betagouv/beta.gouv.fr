@@ -12,5 +12,6 @@ missions:
       - mobilic
 startups:
   - mobilic
+teams: []
 ---
 Geek professionnel

@@ -24,5 +24,6 @@ competences:
 previously:
   - lannuaire.des.collectivites
   - mistral-penal
+teams: []
 ---
 Designer / coach

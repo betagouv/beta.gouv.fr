@@ -8,5 +8,6 @@ missions:
     status: service
     employer: Malt
 memberType: attributaire
+teams: []
 ---
 Vous aidez à trouver les meilleurs freelances.

@@ -22,4 +22,5 @@ startups:
 previously: []
 competences:
   - Administration Système
+teams: []
 ---

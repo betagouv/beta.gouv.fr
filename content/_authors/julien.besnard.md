@@ -9,5 +9,6 @@ missions:
     employer: Omnicité
 badges:
   - segur
+teams: []
 ---
 Codirecteur Omnicité

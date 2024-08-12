@@ -13,5 +13,6 @@ missions:
       - partaj
 startups:
   - partaj
+teams: []
 ---
 Coach produit & growth @Ground. Fan de musique (jazz, disco, house). La réponse à tout est le chiffre 42.
