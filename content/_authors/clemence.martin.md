@@ -27,4 +27,5 @@ competences:
   - Gestion de Produit
   - Communication
   - Product strategy
+teams: []
 ---

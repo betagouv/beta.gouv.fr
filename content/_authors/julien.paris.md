@@ -12,5 +12,6 @@ missions:
 previously:
   - transition-ecologique-des-entreprises
 memberType: autre
+teams: []
 ---
 Développeur

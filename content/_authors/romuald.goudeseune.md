@@ -14,5 +14,6 @@ startups:
   - collectif_objets
 competences:
   - Administration Publique
+teams: []
 ---
 Conservateur des monuments historiques en recherche d'efficacité.

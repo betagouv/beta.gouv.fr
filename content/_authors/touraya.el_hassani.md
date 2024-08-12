@@ -12,4 +12,5 @@ missions:
 startups:
   - pass-culture
 github: tourayaeh
+teams: []
 ---

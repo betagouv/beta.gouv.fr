@@ -20,5 +20,6 @@ competences:
   - Accessibilité
   - UI
   - UX
+teams: []
 ---
 Mon animal totem : le canard en plastique sur le bureau.

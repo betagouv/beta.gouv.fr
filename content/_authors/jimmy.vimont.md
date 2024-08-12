@@ -12,5 +12,6 @@ startups:
   - sndv_maritime
 badges:
   - segur
+teams: []
 ---
 Manager conseil - Sécurité et Intérieur

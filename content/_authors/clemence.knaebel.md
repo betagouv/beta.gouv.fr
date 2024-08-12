@@ -8,5 +8,6 @@ missions:
     status: independent
     employer: Numa
 memberType: beta
+teams: []
 ---
 Innovation digitale et stratégique, avec une passion pour les domaines de l'environnement et de l'art.

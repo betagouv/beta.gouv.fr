@@ -11,5 +11,6 @@ missions:
       - homologation
 startups:
   - homologation
+teams: []
 ---
 Membre de l'équipe MonServiceSécurisé, spécialiste en management de la sécurité numérique à l'ANSSI.

@@ -21,4 +21,5 @@ competences:
   - Gestion de Produit
   - Croissance
   - Coaching
+teams: []
 ---

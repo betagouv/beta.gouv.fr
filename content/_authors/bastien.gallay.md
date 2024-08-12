@@ -14,5 +14,6 @@ missions:
 startups:
   - nis2
 memberType: beta
+teams: []
 ---
 Je développe les applications, les produits et les personnes depuis Bordeaux

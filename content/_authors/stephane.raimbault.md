@@ -16,5 +16,6 @@ missions:
 previously:
   - a-dock
   - les-emplois
+teams: []
 ---
 Aime les solutions simples et plein d'autres trucs compliqués.

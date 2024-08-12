@@ -11,5 +11,6 @@ missions:
       - candilib
 startups:
   - candilib
+teams: []
 ---
 A la décourverte de nouvelles techno !

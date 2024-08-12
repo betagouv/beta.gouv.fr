@@ -21,5 +21,6 @@ previously:
   - sante-psy-etudiant
 badges:
   - segur
+teams: []
 ---
 Chargée du déploiement de produits et opérations transverses @beta.gouv

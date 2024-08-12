@@ -14,5 +14,6 @@ missions:
 startups:
   - pass.engagement.jeune
 memberType: beta
+teams: []
 ---
 Développeur créatif et UXUI touche-a-tout

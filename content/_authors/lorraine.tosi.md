@@ -13,5 +13,6 @@ missions:
 startups:
   - sante-psy-etudiant
 memberType: autre
+teams: []
 ---
 Ergonomie - UX Design. Depuis 2012, j'aide à clarifier le besoin utilisateur pour concevoir de meilleures interfaces.

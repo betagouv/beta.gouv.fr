@@ -11,5 +11,6 @@ missions:
 startups:
   - potentiel
 memberType: beta
+teams: []
 ---
 Adjointe en charge du photovoltaïque Bureau de la production électrique et des énergies renouvelables

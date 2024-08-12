@@ -18,5 +18,6 @@ competences:
   - JavaScript/TypeScript
   - Accessibilité
   - UI
+teams: []
 ---
 Développeuse web front-end

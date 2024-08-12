@@ -27,6 +27,7 @@ competences:
   - Coaching
   - Administration Publique
   - Déploiement
+teams: []
 ---
 Curieux et ouvert d’esprit, je suis passionné par l’innovation, le numérique et la création de services centrés sur l’utilisateur.
 

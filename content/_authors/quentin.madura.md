@@ -11,5 +11,6 @@ missions:
 startups:
   - aides.jeunes
 domaine: Développement
+teams: []
 ---
 Développeur fullstack le jour, cycliste le week-end
