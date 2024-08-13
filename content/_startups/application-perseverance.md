@@ -9,7 +9,7 @@ usertypes:
 techno: []
 title: Application persévérance
 mission: 'L'' «application persévérance» vise à professionnaliser les équipes pédagogiques et éducatives pour accompagner efficacement les élèves, y compris de moins de 16 ans, en risque de décrochage scolaire. '
-incubator: menj
+incubator: dinum
 sponsors:
   - /organisations/menjs
 phases:
