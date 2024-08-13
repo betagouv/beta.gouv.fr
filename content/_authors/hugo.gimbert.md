@@ -12,4 +12,5 @@ startups:
   - monprojetsup
 memberType: beta
 github: Numero7
+teams: []
 ---

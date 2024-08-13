@@ -16,4 +16,5 @@ startups:
 previously:
   - la-bonne-formation
   - estime
+teams: []
 ---

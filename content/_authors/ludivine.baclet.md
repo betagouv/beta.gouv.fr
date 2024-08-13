@@ -14,4 +14,5 @@ startups:
   - conseillers-entreprises
 badges:
   - segur
+teams: []
 ---

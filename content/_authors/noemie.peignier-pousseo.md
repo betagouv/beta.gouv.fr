@@ -10,7 +10,6 @@ missions:
     employer: MEAE
 previously:
   - expresso
-teams:
-  - /teams/atelier_meae
+teams: []
 ---
 Responsable de l'Atelier numérique du MEAE

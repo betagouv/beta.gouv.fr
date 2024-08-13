@@ -12,5 +12,6 @@ missions:
 startups:
   - acceslibre
 memberType: autre
+teams: []
 ---
 Entrepreneur

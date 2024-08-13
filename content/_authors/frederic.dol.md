@@ -11,4 +11,5 @@ missions:
 github: Fredericdol
 startups:
   - urgencevie
+teams: []
 ---

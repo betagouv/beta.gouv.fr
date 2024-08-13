@@ -1,7 +1,7 @@
 ---
 fullname: Nicolas Ritouet
 role: CTO
-domaine: Animation
+domaine: Développement
 link: https://nicolas.ritouet.com/
 github: NicolasRitouet
 missions:
@@ -9,13 +9,8 @@ missions:
     end: 2025-08-02
     status: independent
     employer: Incubateur des territoires
-  - start: 2024-06-01
-    end: 2027-05-31
-    status: admin
-    employer: ANCT
 memberType: beta
-teams:
-  - /teams/anct
+teams: []
 competences:
   - DevOps
   - Développement Full-stack

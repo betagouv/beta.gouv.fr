@@ -11,5 +11,6 @@ missions:
       - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
+teams: []
 ---
 Cheffe de projet Résorption-bidonvilles ; Designer UX et graphique

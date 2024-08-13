@@ -12,5 +12,6 @@ missions:
       - data-inclusion
 startups:
   - data-inclusion
+teams: []
 ---
 Façonneur de schéma et plombier des données au GIP de l'inclusion. Basé à Rennes.

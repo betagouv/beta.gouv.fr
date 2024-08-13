@@ -53,4 +53,5 @@ badges:
   - segur
 competences:
   - Coaching
+teams: []
 ---

@@ -15,6 +15,7 @@ phases:
 events:
   - name: product_launch
     date: 2024-08-09
+techno: []
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

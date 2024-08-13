@@ -12,5 +12,6 @@ missions:
 github: fredZen
 startups:
   - demarches-simplifiees.fr
+teams: []
 ---
 Dev Rails sur demarches-simplifiees.fr

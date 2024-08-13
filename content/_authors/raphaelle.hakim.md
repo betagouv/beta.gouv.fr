@@ -10,4 +10,5 @@ missions:
     startups:
       - urbanvitaliz
 memberType: beta
+teams: []
 ---

@@ -26,5 +26,6 @@ competences:
   - Administration Système
 previously:
   - france-numerique-ensemble
+teams: []
 ---
 En tant qu'artisan du logiciel, j'apporte le maximum de valeur aux utilisateurs en créant des outils bien conçus.

@@ -14,5 +14,6 @@ startups:
   - data-subvention
 badges:
   - segur
+teams: []
 ---
 Pour des communs numériques, au service d'une transformation numérique ouverte, transparente et participative.

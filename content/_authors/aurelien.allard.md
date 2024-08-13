@@ -13,5 +13,6 @@ previously:
   - data-inclusion
 badges:
   - segur
+teams: []
 ---
 Développeur data et entrepreneur social.

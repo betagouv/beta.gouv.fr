@@ -13,4 +13,5 @@ startups:
 memberType: beta
 github: LauraMondoloni31
 competences: []
+teams: []
 ---

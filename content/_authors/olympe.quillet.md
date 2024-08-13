@@ -10,4 +10,5 @@ missions:
     employer: Ippon Technologies
 previously:
   - metiers-numeriques
+teams: []
 ---

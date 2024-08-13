@@ -15,4 +15,5 @@ startups:
 badges:
   - segur
 link: https://www.linkedin.com/in/floriangesta/
+teams: []
 ---

@@ -16,4 +16,5 @@ startups:
   - recommandations-collaboratives
 badges:
   - segur
+teams: []
 ---

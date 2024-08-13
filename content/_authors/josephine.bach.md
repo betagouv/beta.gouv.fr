@@ -7,4 +7,5 @@ missions:
     end: 2023-09-25
     status: independent
 memberType: beta
+teams: []
 ---

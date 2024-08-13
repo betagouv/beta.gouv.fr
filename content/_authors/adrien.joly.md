@@ -13,6 +13,7 @@ missions:
       - signaux-faibles
 startups:
   - signaux-faibles
+teams: []
 ---
 Développeur Web depuis 2002. Sides: contributeur principal de openwhyd.org, batteur
   de Harissa.

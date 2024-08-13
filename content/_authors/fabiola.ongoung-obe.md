@@ -10,4 +10,5 @@ missions:
     startups:
       - pass-sport
 memberType: beta
+teams: []
 ---

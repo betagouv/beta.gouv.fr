@@ -13,4 +13,5 @@ startups:
   - ecobalyse
 badges:
   - segur
+teams: []
 ---

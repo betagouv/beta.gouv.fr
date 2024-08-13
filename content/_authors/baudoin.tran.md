@@ -8,5 +8,6 @@ missions:
     end: 2022-12-31
     status: service
     employer: econocom
+teams: []
 ---
 Développeur

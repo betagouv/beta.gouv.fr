@@ -8,5 +8,6 @@ missions:
     end: 2023-10-30
     status: service
 memberType: beta
+teams: []
 ---
 DevOps bluemind

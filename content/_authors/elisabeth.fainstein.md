@@ -12,4 +12,5 @@ missions:
     employer: Octo-Malt
     startups:
       - territoires-en-transitions
+teams: []
 ---

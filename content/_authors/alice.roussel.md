@@ -12,5 +12,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+teams: []
 ---
 Étudiante en 2ème partie de césure à HEC, je suis en stage chez DossierFacile en tant que chargée de déploiement !

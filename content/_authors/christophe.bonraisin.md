@@ -13,5 +13,6 @@ previously:
   - la-bonne-alternance
   - sirius
   - tdb-apprentissage
+teams: []
 ---
 Irrité par les irritants, pugnace pour chercher à les résoudre, avec 😃

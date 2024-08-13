@@ -14,4 +14,5 @@ startups:
   - aides.jeunes
 badges:
   - segur
+teams: []
 ---

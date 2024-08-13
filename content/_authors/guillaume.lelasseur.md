@@ -16,5 +16,6 @@ missions:
     employer: Malt
     startups:
       - archifiltre
+teams: []
 ---
 Développeur Full-Stack @Archifiltre

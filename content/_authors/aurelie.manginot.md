@@ -21,4 +21,5 @@ competences:
   - Gestion de Produit
   - Coaching
   - UX
+teams: []
 ---

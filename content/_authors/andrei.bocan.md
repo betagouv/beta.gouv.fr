@@ -19,5 +19,6 @@ missions:
 startups:
   - dora
 competences: []
+teams: []
 ---
 UX / Product Designer

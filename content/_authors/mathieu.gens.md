@@ -12,5 +12,6 @@ missions:
       - conseillers-entreprises
 startups:
   - conseillers-entreprises
+teams: []
 ---
 Ceux et celles qui sont assez fous pour croire qu’ils peuvent changer le développement éco., sont en réalité ceux qui le font.
