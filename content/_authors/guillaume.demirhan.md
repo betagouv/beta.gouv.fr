@@ -13,5 +13,6 @@ startups:
   - mano
 badges:
   - segur
+teams: []
 ---
 Infirmier / Porteur du projet MANO

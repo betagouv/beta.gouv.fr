@@ -8,4 +8,5 @@ missions:
     status: service
     employer: Numa
 memberType: attributaire
+teams: []
 ---

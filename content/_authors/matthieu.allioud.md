@@ -14,5 +14,6 @@ startups:
   - l-application-du-cej
 competences:
   - UX
+teams: []
 ---
 Designer UX, j'aime faire de l'illustration et de la musique électronique

@@ -13,4 +13,5 @@ missions:
 startups:
   - carnet.de.bord
 memberType: beta
+teams: []
 ---

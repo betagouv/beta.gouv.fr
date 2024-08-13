@@ -22,7 +22,6 @@ previously:
   - agora
 badges:
   - segur
-teams:
-  - /teams/animation-dinum
+teams: []
 ---
 Ex-intra DossierFacile, numérique et aménagement. Sport et musique. "Qui veut voyager loin ménage sa monture."

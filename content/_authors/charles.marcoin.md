@@ -19,5 +19,6 @@ missions:
 previously:
   - mon-suivi-justice
 competences: []
+teams: []
 ---
 Développeur fullstack

@@ -20,4 +20,5 @@ startups:
 badges:
   - segur
 github: Fantine-py
+teams: []
 ---

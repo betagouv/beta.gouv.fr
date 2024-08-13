@@ -17,6 +17,7 @@ missions:
     employer: UT7
     startups:
       - tdb-apprentissage
+teams: []
 ---
 Passionnée des défis - Utiliser les données pour contribuer à l'élaboration de solutions.
 Au cours des dix dernières années, j'ai eu l'opportunité de travailler dans les secteurs public et privé, aussi bien au sein de grandes entreprises et de start-ups que dans des universités et des ONG à portée internationale.

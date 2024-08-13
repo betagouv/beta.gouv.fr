@@ -10,4 +10,5 @@ missions:
       - encyclopedie-des-metiers
 startups:
   - encyclopedie-des-metiers
+teams: []
 ---

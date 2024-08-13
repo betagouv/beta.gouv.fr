@@ -33,4 +33,5 @@ competences:
   - UX
   - UI
   - Accessibilité
+teams: []
 ---

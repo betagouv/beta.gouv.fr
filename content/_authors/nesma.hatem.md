@@ -10,4 +10,5 @@ missions:
     startups:
       - jeveuxaider
 memberType: beta
+teams: []
 ---

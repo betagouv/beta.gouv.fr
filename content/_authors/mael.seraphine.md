@@ -9,5 +9,6 @@ missions:
     status: admin
     employer: Plateforme de l'inclusion
 memberType: beta
+teams: []
 ---
 Le seul qui peut me battre , c'est moi-même

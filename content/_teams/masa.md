@@ -1,5 +1,5 @@
 ---
 name: Animation
-incubator: mtes
+incubator: /incubators/mtes
 mission: ''
 ---

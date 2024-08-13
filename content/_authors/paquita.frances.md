@@ -16,5 +16,6 @@ badges:
   - segur
 competences:
   - Communication
+teams: []
 ---
 Expertise Emploi / Formation dans des entreprises françaises et américaines, jury VAE au CNAM

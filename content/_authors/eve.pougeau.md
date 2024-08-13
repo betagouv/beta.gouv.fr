@@ -7,5 +7,6 @@ missions:
     end: 2023-09-01
     status: admin
 memberType: beta
+teams: []
 ---
 Assistante de gestion

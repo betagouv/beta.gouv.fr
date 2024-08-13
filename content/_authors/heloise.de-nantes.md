@@ -12,4 +12,5 @@ startups:
   - jeveuxaider
 badges:
   - segur
+teams: []
 ---

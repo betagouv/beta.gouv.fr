@@ -16,5 +16,6 @@ startups:
   - la-bonne-alternance
 previously:
   - memo
+teams: []
 ---
 Développeur full-stack, single page app monomaniac

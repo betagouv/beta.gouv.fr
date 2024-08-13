@@ -24,6 +24,7 @@ competences:
   - Facilitation
   - Coaching
   - Administration Publique
+teams: []
 ---
 issue de la fonction publique territoriale (15 d'expérience en communes, EPCI et PNR)
 un parcours d'intrapreneuse avec la start-up territoriale Carbolocal et ancienne responsable de l'incubateur de Le Havre Seine Métropole

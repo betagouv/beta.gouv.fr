@@ -8,4 +8,5 @@ missions:
     end: 2021-12-10
     status: service
     employer: Klee Group
+teams: []
 ---

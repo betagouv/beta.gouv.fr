@@ -14,4 +14,5 @@ github: marieguibpref
 competences:
   - Data Science
 memberType: beta
+teams: []
 ---

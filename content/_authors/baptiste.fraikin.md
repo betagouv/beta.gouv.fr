@@ -14,4 +14,5 @@ github: bafraikin
 startups:
   - anais
   - sndv_maritime
+teams: []
 ---

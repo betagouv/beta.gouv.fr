@@ -14,5 +14,6 @@ missions:
     employer: LBC
 competences:
   - UX
+teams: []
 ---
 UX Designer

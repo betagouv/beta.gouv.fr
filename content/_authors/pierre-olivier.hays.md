@@ -13,5 +13,6 @@ missions:
 startups:
   - camino
 memberType: beta
+teams: []
 ---
 Intrapreneur

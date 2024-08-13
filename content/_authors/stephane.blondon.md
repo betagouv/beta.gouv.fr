@@ -12,5 +12,6 @@ missions:
       - portail-rse
 startups:
   - portail-rse
+teams: []
 ---
 Développeur et associé de Yaal Coop

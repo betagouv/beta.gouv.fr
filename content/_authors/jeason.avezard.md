@@ -11,4 +11,5 @@ missions:
       - sepia
 startups:
   - sepia
+teams: []
 ---

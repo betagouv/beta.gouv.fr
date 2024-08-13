@@ -7,5 +7,6 @@ missions:
     end: 2024-06-02
     status: admin
     employer: Pôle emploi
+teams: []
 ---
 Responsable adjointe de l'incubateur de Pôle emploi

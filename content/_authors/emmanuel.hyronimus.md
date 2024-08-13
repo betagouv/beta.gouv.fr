@@ -16,5 +16,6 @@ competences:
   - Product design
   - UI
   - UX
+teams: []
 ---
 Designer élevé en plein air.
