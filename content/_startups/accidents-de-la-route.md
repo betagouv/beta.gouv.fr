@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: 'sandrine.gourdon@interieur.gouv.fr '
+contact: sandrine.gourdon@interieur.gouv.fr
 thematiques:
   - Transports
 usertypes:
