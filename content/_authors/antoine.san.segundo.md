@@ -10,5 +10,5 @@ missions:
     status: independent
     employer: ut7
     startups:
-      - pix-de-la-perseverance-nom-de-code
+      - application-perseverance
 ---
