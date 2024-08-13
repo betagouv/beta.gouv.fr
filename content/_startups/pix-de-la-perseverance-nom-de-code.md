@@ -45,8 +45,7 @@ seront réellement connu à l'issue de l'investigation. Néanmoins, nous estimon
 L'objectif est de faire bénéficier tous les établissements volontaires des solutions retenues dans les 3 ans suivant le lancement, et de contribuer à une réduction de 10% du taux de décrochage scolaire sur la même période.
 
 ## L'équipe
-### Product Owner [Catherine Persidat](https://www.linkedin.com/in/catherine-persidat-b0893721/?originalSubdomain=fr) 
-Chargée de mission décrochage scolaire chez Ministère de l'Éducation nationale et de la Jeunesse
-### UX-UI Designer (en cours de recrutement)
-### Mentors [Eric Heijligers](https://www.linkedin.com/in/eric-heijligers/?originalSubdomain=fr) & [Anne Becquet](https://www.linkedin.com/in/annebecquet/)
-### Chargée de portfeuille [Clémence Lopez](https://www.linkedin.com/in/clemencelopez/?originalSubdomain=fr)
+* **Product Owner** : [Catherine Persidat](https://www.linkedin.com/in/catherine-persidat-b0893721/?originalSubdomain=fr), chargée de mission décrochage scolaire chez Ministère de l'Éducation nationale et de la Jeunesse
+* **UX-UI Designer** : [Antoine San Segundo](https://www.linkedin.com/in/antoine-san-segundo/?originalSubdomain=fr)
+* **Mentors** : [Eric Heijligers](https://www.linkedin.com/in/eric-heijligers/?originalSubdomain=fr) & [Anne Becquet](https://www.linkedin.com/in/annebecquet/)
+* **Responsable de portefeuille** : [Clémence Lopez](https://www.linkedin.com/in/clemencelopez/?originalSubdomain=fr)

@@ -17,7 +17,7 @@ missions:
     status: independent
     employer: Octo
   - start: 2024-03-07
-    end: 2024-07-15
+    end: 2024-12-31
     status: independent
     employer: Malt
   - start: 2024-03-11

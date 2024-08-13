@@ -9,15 +9,11 @@ usertypes:
 title: Accidents de la route
 mission: Réduire les accidents de la route
 incubator: dinum
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2024-08-09
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-08-09
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
