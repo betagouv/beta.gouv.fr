@@ -18,4 +18,5 @@ competences:
   - Accessibilité
   - UI
 memberType: beta
+teams: []
 ---

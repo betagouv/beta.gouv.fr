@@ -10,4 +10,5 @@ missions:
     startups:
       - infrastructures.numeriques
 memberType: beta
+teams: []
 ---

@@ -9,5 +9,6 @@ missions:
 memberType: dinum
 startups:
   - fiche.commune.entreprise.fce
+teams: []
 ---
 Développeur le jour, musicien la nuit

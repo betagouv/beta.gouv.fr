@@ -11,4 +11,5 @@ missions:
       - idquart
 startups:
   - idquart
+teams: []
 ---

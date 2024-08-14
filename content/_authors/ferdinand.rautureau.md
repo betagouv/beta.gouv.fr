@@ -21,4 +21,5 @@ competences:
   - Intrapreneur(se)
   - Product strategy
   - Communication
+teams: []
 ---

@@ -15,5 +15,6 @@ startups:
   - qualicharge
 competences:
   - Coaching
+teams: []
 ---
 Coach & entrepreneur en économie circulaire

@@ -8,5 +8,6 @@ missions:
     status: admin
     employer: DINUM
 github: sapeurponpier
+teams: []
 ---
 Étudiant

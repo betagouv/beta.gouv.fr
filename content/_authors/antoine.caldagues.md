@@ -13,5 +13,6 @@ missions:
 startups:
   - data-inclusion
 memberType: beta
+teams: []
 ---
 Entre Paris et la Normandie

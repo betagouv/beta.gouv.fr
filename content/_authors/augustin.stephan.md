@@ -14,5 +14,6 @@ startups:
   - l-application-du-cej
 previously:
   - aides.jeunes
+teams: []
 ---
 UI/UX Designer freelance depuis 3 ans.

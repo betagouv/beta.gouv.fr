@@ -21,4 +21,5 @@ competences:
   - PostgreSQL
   - Python
   - Communication
+teams: []
 ---

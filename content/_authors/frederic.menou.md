@@ -13,4 +13,5 @@ missions:
 startups:
   - transport
 memberType: beta
+teams: []
 ---

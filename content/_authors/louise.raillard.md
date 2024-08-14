@@ -14,5 +14,6 @@ startups:
   - dossierfacile
 badges:
   - segur
+teams: []
 ---
 Etudiante en DD Sciences Po-HEC, je suis curieuse de tout, enthousiaste, et à côté des cours passionnée d'histoire de l'art.

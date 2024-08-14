@@ -12,4 +12,5 @@ competences:
   - Coaching
 memberType: beta
 link: https://www.linkedin.com/in/pierricklallemand/
+teams: []
 ---

@@ -20,4 +20,5 @@ competences:
   - Développement Frontend
   - UI
   - UX
+teams: []
 ---

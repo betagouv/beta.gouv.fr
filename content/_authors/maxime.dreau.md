@@ -34,4 +34,5 @@ competences:
   - Développement Full-stack
 startups:
   - chauffage-urbain
+teams: []
 ---

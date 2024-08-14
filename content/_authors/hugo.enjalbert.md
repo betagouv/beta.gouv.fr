@@ -14,4 +14,5 @@ competences:
   - Coaching
   - Droit / Affaires juridiques
 memberType: beta
+teams: []
 ---

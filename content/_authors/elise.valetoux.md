@@ -11,4 +11,5 @@ missions:
       - leximpact
 startups:
   - leximpact
+teams: []
 ---

@@ -10,4 +10,5 @@ missions:
     startups:
       - prelevements.deau
 memberType: beta
+teams: []
 ---

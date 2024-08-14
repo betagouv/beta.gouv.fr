@@ -12,4 +12,5 @@ missions:
     employer: GIP Plateforme de l'Inclusion
     startups:
       - rdv.insertion
+teams: []
 ---

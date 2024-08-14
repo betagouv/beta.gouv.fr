@@ -11,4 +11,5 @@ missions:
     employer: Codeurs en Liberté
 previously:
   - eva
+teams: []
 ---

@@ -18,4 +18,5 @@ competences:
   - Data Science
   - Machine learning
   - Python
+teams: []
 ---

@@ -12,5 +12,6 @@ missions:
 startups:
   - pilotagevoiepro
 memberType: beta
+teams: []
 ---
 Product designer le jour, entrepreneur la nuit

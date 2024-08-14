@@ -11,5 +11,6 @@ missions:
     employer: Octo
     startups:
       - les-emplois
+teams: []
 ---
 Recruteuse et match maker

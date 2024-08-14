@@ -13,4 +13,5 @@ startups:
   - dialogue.operationnel
 competences:
   - Administration Publique
+teams: []
 ---
