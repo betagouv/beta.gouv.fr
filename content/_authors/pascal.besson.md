@@ -12,4 +12,5 @@ missions:
 startups:
   - territoires-en-transitions
 memberType: beta
+teams: []
 ---

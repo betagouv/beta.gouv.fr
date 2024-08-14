@@ -12,4 +12,5 @@ link: https://www.linkedin.com/in/bardoualine/
 competences:
   - Développement
 memberType: beta
+teams: []
 ---

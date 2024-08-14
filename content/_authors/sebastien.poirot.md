@@ -14,5 +14,6 @@ startups:
   - competence.validee
 competences:
   - Gestion de Produit
+teams: []
 ---
 Pivoteur professionnel

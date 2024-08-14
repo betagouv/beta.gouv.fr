@@ -13,4 +13,5 @@ startups:
   - attractivite.des.territoires
 competences:
   - Administration Publique
+teams: []
 ---

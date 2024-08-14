@@ -11,4 +11,5 @@ missions:
 startups:
   - compte.rendu.vif
 memberType: beta
+teams: []
 ---

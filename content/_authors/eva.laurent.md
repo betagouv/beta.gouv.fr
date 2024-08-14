@@ -13,5 +13,6 @@ missions:
 startups:
   - rdv.insertion
 memberType: beta
+teams: []
 ---
 Freelance

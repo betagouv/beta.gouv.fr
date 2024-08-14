@@ -13,4 +13,5 @@ missions:
 startups:
   - la-bonne-alternance
 memberType: beta
+teams: []
 ---

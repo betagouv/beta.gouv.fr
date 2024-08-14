@@ -23,4 +23,5 @@ badges:
 previously:
   - la-bonne-formation
   - snu
+teams: []
 ---

@@ -18,8 +18,7 @@ missions:
   - start: 2022-05-01
     end: 2025-10-31
     status: admin
-teams:
-  - /teams/gip-inclusion
+teams: []
 previously:
   - les-emplois
   - place-de-marche-inclusion

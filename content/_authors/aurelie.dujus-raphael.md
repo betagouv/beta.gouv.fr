@@ -11,5 +11,6 @@ missions:
       - france-numerique-ensemble
 startups:
   - france-numerique-ensemble
+teams: []
 ---
 Chargée d'animation et du support de la communauté des conseillers numérique france service

@@ -12,4 +12,5 @@ missions:
       - travailler.en.france
 startups:
   - travailler.en.france
+teams: []
 ---

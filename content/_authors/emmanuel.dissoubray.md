@@ -14,4 +14,5 @@ startups:
   - pacoupa
 memberType: beta
 competences: []
+teams: []
 ---

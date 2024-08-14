@@ -12,5 +12,6 @@ missions:
       - reuni
 startups:
   - reuni
+teams: []
 ---
 Basketto-geeko-gamer

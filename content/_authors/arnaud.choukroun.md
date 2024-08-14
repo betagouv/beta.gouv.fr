@@ -13,5 +13,6 @@ startups:
   - stop-punaises
 badges:
   - segur
+teams: []
 ---
 "Doer qui Think"  il parait 

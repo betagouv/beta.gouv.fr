@@ -13,4 +13,5 @@ missions:
 startups:
   - anais
 memberType: autre
+teams: []
 ---

@@ -13,4 +13,5 @@ missions:
 startups:
   - signalement
 memberType: autre
+teams: []
 ---

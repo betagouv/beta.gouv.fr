@@ -12,5 +12,6 @@ startups:
   - la-bonne-alternance
 badges:
   - segur
+teams: []
 ---
 Product Manager à la Bonne Alternance

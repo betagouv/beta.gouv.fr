@@ -10,4 +10,5 @@ previously:
   - hydrogene
 competences:
   - Administration Publique
+teams: []
 ---

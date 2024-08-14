@@ -13,5 +13,6 @@ previously:
   - potentiel
 competences:
   - Développement Backend
+teams: []
 ---
 Développeur

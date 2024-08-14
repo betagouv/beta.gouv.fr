@@ -11,5 +11,6 @@ missions:
       - collectif_objets
 startups:
   - collectif_objets
+teams: []
 ---
 Stagiaire Collectif Objets

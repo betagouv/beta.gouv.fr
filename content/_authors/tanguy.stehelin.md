@@ -9,6 +9,7 @@ missions:
     end: 2024-11-01
     status: admin
     employer: Noveane/Thalès
+teams: []
 ---
 Tanguy Stehelin
 Directeur adjoint des affaires juridiques MEAE

@@ -12,5 +12,6 @@ missions:
 previously:
   - rdv-service-public
   - dossiersco
+teams: []
 ---
 Coéquipier à tout faire.

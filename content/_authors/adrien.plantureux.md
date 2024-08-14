@@ -13,5 +13,6 @@ startups:
   - envergo
 competences:
   - Administration Publique
+teams: []
 ---
 Chargé de mission "outils informatiques de la police de l'environnement"

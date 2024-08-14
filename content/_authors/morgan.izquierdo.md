@@ -16,4 +16,5 @@ previously:
   - rdv.consulat
 competences:
   - Coaching
+teams: []
 ---

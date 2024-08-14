@@ -11,5 +11,6 @@ missions:
       - fiche.commune.entreprise.fce
 startups:
   - fiche.commune.entreprise.fce
+teams: []
 ---
 S'il n'y pas de solution, c'est qu'il n'y a pas de problème

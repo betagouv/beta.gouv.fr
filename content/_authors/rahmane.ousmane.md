@@ -14,5 +14,6 @@ missions:
 startups:
   - rdv-service-public
 memberType: beta
+teams: []
 ---
 Développeur web
