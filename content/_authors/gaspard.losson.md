@@ -11,5 +11,6 @@ missions:
       - infoparquet
 startups:
   - infoparquet
+teams: []
 ---
 Magistrat, TJ Amiens

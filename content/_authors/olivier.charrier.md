@@ -13,4 +13,5 @@ startups:
   - psij
 competences:
   - Administration Publique
+teams: []
 ---

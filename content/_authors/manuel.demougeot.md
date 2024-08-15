@@ -11,5 +11,6 @@ missions:
       - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
+teams: []
 ---
 Directeur de cabinet DIHAL, mission Résorption bivonvilles

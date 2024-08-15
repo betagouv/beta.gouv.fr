@@ -10,5 +10,6 @@ missions:
 memberType: beta
 previously:
   - potentiel
+teams: []
 ---
 Coach produit @La Fabrique Numérique MTE

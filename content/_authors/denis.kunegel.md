@@ -8,4 +8,5 @@ missions:
     end: 2020-02-29
     status: admin
     employer: Rectorat de Nancy-Metz
+teams: []
 ---

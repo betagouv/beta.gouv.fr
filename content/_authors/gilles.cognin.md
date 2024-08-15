@@ -13,4 +13,5 @@ missions:
 startups:
   - resorption-bidonvilles
 memberType: autre
+teams: []
 ---

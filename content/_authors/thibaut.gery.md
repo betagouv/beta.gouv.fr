@@ -11,5 +11,6 @@ missions:
     employer: octo
 previously:
   - api.gouv.fr
+teams: []
 ---
 Ingénieur assez fou pour aussi bien parler à ses utilisateurs qu'à ses serveurs.

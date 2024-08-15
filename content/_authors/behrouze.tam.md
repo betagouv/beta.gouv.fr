@@ -15,5 +15,6 @@ startups:
   - reva
 badges:
   - segur
+teams: []
 ---
 Développeur Full Stack, Photographe et Papa :)

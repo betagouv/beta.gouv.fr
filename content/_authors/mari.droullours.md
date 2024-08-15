@@ -15,4 +15,5 @@ startups:
   - homologation
 badges:
   - segur
+teams: []
 ---

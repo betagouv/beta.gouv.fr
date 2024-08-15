@@ -17,5 +17,6 @@ competences:
   - Croissance
   - SEM
   - SEO
+teams: []
 ---
 Responsable Marketing

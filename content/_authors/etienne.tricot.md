@@ -8,4 +8,5 @@ missions:
     status: service
     employer: OCTO Technology
 memberType: attributaire
+teams: []
 ---

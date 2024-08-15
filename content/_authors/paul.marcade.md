@@ -18,4 +18,5 @@ previously:
   - mediature
 competences:
   - Coaching
+teams: []
 ---

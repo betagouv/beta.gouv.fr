@@ -9,5 +9,6 @@ missions:
     employer: Secrétariat général du Ministère de la culture
 badges:
   - segur
+teams: []
 ---
 Stagiaire au Secrétariat général du Ministère de la culture, sur le projet CultureRIM

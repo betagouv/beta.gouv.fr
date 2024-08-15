@@ -13,5 +13,6 @@ missions:
       - sppnaut
 startups:
   - sppnaut
+teams: []
 ---
 Développeur full-stack

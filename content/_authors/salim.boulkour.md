@@ -8,5 +8,6 @@ missions:
     end: 2019-06-30
     status: service
     employer: octo
+teams: []
 ---
 Ancien FranceConnect, actuellement OPS à l'incubateur des ministères sociaux.

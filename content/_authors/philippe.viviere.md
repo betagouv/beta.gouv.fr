@@ -12,5 +12,6 @@ startups:
   - cadransolaire
 competences:
   - Administration Publique
+teams: []
 ---
 Chargé de Mission Climat Energies, Service ADS Etudes et Transversalité

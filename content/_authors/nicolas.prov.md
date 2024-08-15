@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: DINUM
 memberType: autre
+teams: []
 ---

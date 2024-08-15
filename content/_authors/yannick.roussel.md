@@ -27,5 +27,6 @@ competences:
   - JavaScript/TypeScript
   - PostgreSQL
   - Facilitation
+teams: []
 ---
 Développeur web

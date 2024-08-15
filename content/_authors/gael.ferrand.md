@@ -12,5 +12,6 @@ missions:
       - trackdechets
 startups:
   - trackdechets
+teams: []
 ---
 Développeur fullstack et vice-champion de France de course en sac

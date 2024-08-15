@@ -13,4 +13,5 @@ missions:
 startups:
   - monitorfish
 memberType: beta
+teams: []
 ---

@@ -11,4 +11,5 @@ missions:
       - zero-logement-vacant
 startups:
   - zero-logement-vacant
+teams: []
 ---

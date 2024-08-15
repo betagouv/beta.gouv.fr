@@ -18,5 +18,6 @@ badges:
   - segur
 competences:
   - UX
+teams: []
 ---
 Designerd

@@ -11,4 +11,5 @@ missions:
       - anais
 startups:
   - anais
+teams: []
 ---

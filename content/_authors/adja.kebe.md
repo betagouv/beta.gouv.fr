@@ -14,5 +14,6 @@ startups:
   - mobilic
 badges:
   - segur
+teams: []
 ---
 Chargée de déploiement et communication
