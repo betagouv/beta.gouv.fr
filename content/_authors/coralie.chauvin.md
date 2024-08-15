@@ -17,5 +17,6 @@ competences:
   - Communication
 startups:
   - jeveuxaider
+teams: []
 ---
 Animatrice de la communauté de bénévole JeVeuxAider.gouv.fr

@@ -20,5 +20,6 @@ competences:
   - Développement Backend
   - UI
   - UX
+teams: []
 ---
 Développeur fullstack senior, concepteur d'UI.

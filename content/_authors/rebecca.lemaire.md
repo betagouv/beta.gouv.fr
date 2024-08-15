@@ -12,5 +12,6 @@ startups:
   - themis
 badges:
   - segur
+teams: []
 ---
 Psychologue du travail au Centre National d'Evaluation d'Aix-Luynes

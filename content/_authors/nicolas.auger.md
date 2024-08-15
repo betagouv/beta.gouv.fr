@@ -8,5 +8,6 @@ missions:
     end: 2028-05-25
     status: admin
 memberType: beta
+teams: []
 ---
 Passionné de sécurité maritime

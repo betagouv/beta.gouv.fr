@@ -13,8 +13,7 @@ missions:
     end: 2025-08-29
     status: admin
     employer: GIP Plateforme de l'Inclusion
-teams:
-  - /teams/gip-inclusion
+teams: []
 competences:
   - Accessibilité
   - Développement Backend

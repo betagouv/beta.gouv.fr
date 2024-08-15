@@ -12,5 +12,6 @@ missions:
       - les-emplois
 startups:
   - les-emplois
+teams: []
 ---
 Développeur, avec beaucoup de python et d'open source

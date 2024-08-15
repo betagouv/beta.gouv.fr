@@ -19,5 +19,6 @@ competences:
   - JavaScript/TypeScript
   - Développement Backend
   - ElasticSearch
+teams: []
 ---
 Développeur et grimpeur du dimanche

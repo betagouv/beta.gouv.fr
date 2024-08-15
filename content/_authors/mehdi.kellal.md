@@ -13,5 +13,6 @@ badges:
   - segur
 startups:
   - cnr
+teams: []
 ---
 éveillé le jour, tente de dormir la nuit.

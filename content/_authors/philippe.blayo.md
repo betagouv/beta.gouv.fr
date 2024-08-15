@@ -12,5 +12,6 @@ missions:
     status: independent
 startups:
   - dossiersco
+teams: []
 ---
 Développeur

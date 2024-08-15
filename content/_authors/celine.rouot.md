@@ -11,5 +11,6 @@ missions:
       - signaux-faibles
 startups:
   - signaux-faibles
+teams: []
 ---
 Fabricante de data

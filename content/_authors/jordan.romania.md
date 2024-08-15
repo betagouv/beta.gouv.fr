@@ -10,4 +10,5 @@ missions:
       - mon-entreprise
 startups:
   - mon-entreprise
+teams: []
 ---

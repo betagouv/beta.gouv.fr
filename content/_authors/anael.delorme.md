@@ -16,5 +16,6 @@ memberType: beta
 role: Co-intrapreneur
 startups:
   - aquaculteurs.marins
+teams: []
 ---
 Numérique - Data - Agile

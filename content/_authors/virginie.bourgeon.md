@@ -9,5 +9,6 @@ missions:
     status: independent
     employer: DINUM
 memberType: autre
+teams: []
 ---
 Infatigable à temps plein: UX designer, CSM support, j'aime comprendre et analyser.

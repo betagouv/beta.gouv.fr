@@ -20,5 +20,6 @@ competences:
   - html
   - JavaScript/TypeScript
   - Python
+teams: []
 ---
 Artisan du web

@@ -15,5 +15,6 @@ competences:
   - Python
   - Data Science
 memberType: beta
+teams: []
 ---
 Après une longue période dans le secteur public (industrie), je me suis engagé sur les sujets liés à l'interopérabilité des données (formats de données, outils d'analyse).

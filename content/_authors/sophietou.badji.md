@@ -12,4 +12,5 @@ missions:
 startups:
   - la-bonne-boite
 memberType: beta
+teams: []
 ---

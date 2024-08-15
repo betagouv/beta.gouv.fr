@@ -12,4 +12,5 @@ missions:
 startups:
   - mesads
 memberType: beta
+teams: []
 ---

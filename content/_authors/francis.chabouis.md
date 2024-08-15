@@ -15,5 +15,6 @@ startups:
   - bat-id
 previously:
   - transport
+teams: []
 ---
 J'aime l'open-data, les transports, la cartographie, les maths et coder en Elixir. Peut-être vais-je bientôt me passionner pour les bâtiments ?

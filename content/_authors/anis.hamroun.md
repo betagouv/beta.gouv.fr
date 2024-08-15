@@ -17,4 +17,5 @@ competences:
   - Développement
   - Administration Système
 memberType: beta
+teams: []
 ---

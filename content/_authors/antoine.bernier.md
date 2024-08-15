@@ -14,5 +14,6 @@ missions:
 previously:
   - aides.jeunes
 domaine: Développement
+teams: []
 ---
 Développeur Web full stack

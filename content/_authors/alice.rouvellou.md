@@ -13,5 +13,6 @@ startups:
   - peps
 badges:
   - segur
+teams: []
 ---
 Etudiante dans le double diplôme SciencesPo-HEC, j'essaye de m'enrichir grâce à la diversité de mes expériences. Je souhaite mettre mes compétences de gestion de projet et d'analyse au service de l'innovation dans les services publics.

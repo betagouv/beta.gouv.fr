@@ -30,5 +30,6 @@ competences:
   - PostgreSQL
   - PHP
   - Matomo
+teams: []
 ---
 Développeuse fullstack

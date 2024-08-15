@@ -11,4 +11,5 @@ missions:
     employer: ut7
     startups:
       - application-perseverance
+teams: []
 ---

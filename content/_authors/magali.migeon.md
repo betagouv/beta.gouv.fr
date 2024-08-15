@@ -18,4 +18,5 @@ competences:
   - Facilitation
   - Intrapreneur(se)
   - Administration Publique
+teams: []
 ---

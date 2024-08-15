@@ -10,5 +10,6 @@ missions:
       - reglementations.en.foret
 startups:
   - reglementations.en.foret
+teams: []
 ---
 Sujets forêt à l'Institut national de l'information géographique et forestière

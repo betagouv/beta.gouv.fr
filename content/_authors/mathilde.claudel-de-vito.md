@@ -11,4 +11,5 @@ missions:
       - experts
 startups:
   - experts
+teams: []
 ---

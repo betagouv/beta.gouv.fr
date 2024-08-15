@@ -20,4 +20,5 @@ previously:
   - visam
 competences:
   - Développement Full-stack
+teams: []
 ---

@@ -12,5 +12,6 @@ missions:
       - mission.debroussaillement
 startups:
   - mission.debroussaillement
+teams: []
 ---
 Directeur territorial adjoint sud-est IGN (couteau suisse) Traileur amateur
