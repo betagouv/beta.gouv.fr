@@ -25,5 +25,6 @@ competences:
   - Facilitation
   - Product design
   - Accessibilité
+teams: []
 ---
 Designer, j'améliore l’expérience des agents et usagers du Service Public

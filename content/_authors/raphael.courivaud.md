@@ -19,4 +19,5 @@ competences:
   - Python
   - Metabase
 memberType: beta
+teams: []
 ---

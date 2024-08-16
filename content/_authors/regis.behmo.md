@@ -9,5 +9,6 @@ missions:
     employer: ey
 previously:
   - la-bonne-boite
+teams: []
 ---
 Expert en machine learning, développeur python full-stack, grimpeur invétéré et gros, très gros amateur de nouilles chinoises. On me trouve dans les Hautes Alpes.

@@ -10,5 +10,6 @@ missions:
     employer: Captive
 previously:
   - eva
+teams: []
 ---
 Développeuse chez Captive

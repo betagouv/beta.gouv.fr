@@ -9,4 +9,5 @@ missions:
     employer: NUMA
 competences:
   - Coaching
+teams: []
 ---

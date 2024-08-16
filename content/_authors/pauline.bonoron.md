@@ -15,5 +15,6 @@ badges:
   - segur
 competences:
   - Croissance
+teams: []
 ---
 Chargée de déploiement chez JeVeuxAider.gouv.fr et fan de pâtés-croûtes

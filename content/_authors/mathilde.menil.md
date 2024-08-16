@@ -13,5 +13,6 @@ missions:
 competences:
   - Gestion de Produit
   - Administration Publique
+teams: []
 ---
 Ouverte, optimiste et en quête de solutions pour les entreprises.

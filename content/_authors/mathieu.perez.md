@@ -14,4 +14,5 @@ startups:
   - anais
 competences:
   - Développement
+teams: []
 ---

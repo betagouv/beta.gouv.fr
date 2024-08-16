@@ -18,5 +18,6 @@ competences:
   - Product design
   - UX
   - UI
+teams: []
 ---
 Designer d'expériences engagées

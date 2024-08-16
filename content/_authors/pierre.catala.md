@@ -12,4 +12,5 @@ missions:
 startups:
   - monitorfish
 memberType: autre
+teams: []
 ---

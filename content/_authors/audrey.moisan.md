@@ -8,5 +8,6 @@ missions:
     status: service
     employer: Octo technology
 memberType: beta
+teams: []
 ---
 Coach produit, pour des services publics à l'écoute des usagers et des agents <3

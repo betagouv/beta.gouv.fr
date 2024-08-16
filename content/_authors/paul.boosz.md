@@ -14,5 +14,6 @@ startups:
   - ecobalyse
 badges:
   - segur
+teams: []
 ---
 Data, écologie et beach volley

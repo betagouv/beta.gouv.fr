@@ -17,5 +17,6 @@ startups:
 previously:
   - data.gouv.fr
   - aidantsconnect
+teams: []
 ---
 🐕

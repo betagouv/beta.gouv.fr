@@ -19,5 +19,6 @@ previously:
   - mes-aides-france-travail
 competences:
   - Gestion de Produit
+teams: []
 ---
 Product Manager et chef de projet

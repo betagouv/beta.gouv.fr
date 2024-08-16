@@ -7,4 +7,5 @@ missions:
     end: 2025-06-03
     status: admin
     employer: Ministère de l'intérieur
+teams: []
 ---

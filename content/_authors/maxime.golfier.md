@@ -14,4 +14,5 @@ startups:
   - codedutravail
 badges:
   - segur
+teams: []
 ---

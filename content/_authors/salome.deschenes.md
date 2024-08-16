@@ -20,4 +20,5 @@ startups:
 competences:
   - Communication
   - Administration Publique
+teams: []
 ---

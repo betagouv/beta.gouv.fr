@@ -13,5 +13,6 @@ missions:
 startups:
   - envergo
 memberType: beta
+teams: []
 ---
 Transforme la data en accélérateur de développement

@@ -11,4 +11,5 @@ missions:
       - pop
 link: https://www.linkedin.com/in/fran%C3%A7ois-david-414858127/
 memberType: beta
+teams: []
 ---

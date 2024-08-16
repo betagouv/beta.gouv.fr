@@ -14,5 +14,6 @@ startups:
   - pilotagevoiepro
 memberType: beta
 competences: []
+teams: []
 ---
 Support, déploiement et produit pour Orion

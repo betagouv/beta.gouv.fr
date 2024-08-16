@@ -12,5 +12,6 @@ missions:
 startups:
   - portail-rse
 memberType: beta
+teams: []
 ---
 Comment est votre impact ?

@@ -11,5 +11,6 @@ missions:
 startups:
   - mediation.logement
 memberType: beta
+teams: []
 ---
 intrapreneure

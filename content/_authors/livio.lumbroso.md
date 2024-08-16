@@ -27,5 +27,6 @@ badges:
   - segur
 competences:
   - Coaching
+teams: []
 ---
 Entrepreneur entre 2 projets, particulièrement attiré par les problématiques énergie-climat et les projets à impact social et environnemental 🌳

@@ -11,4 +11,5 @@ previously:
   - api.gouv.fr
 badges:
   - segur
+teams: []
 ---

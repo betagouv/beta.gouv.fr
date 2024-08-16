@@ -20,4 +20,5 @@ competences:
 memberType: beta
 github: chloecorfmat
 link: https://www.linkedin.com/in/chloecorfmat/
+teams: []
 ---
