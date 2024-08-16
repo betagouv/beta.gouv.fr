@@ -8,5 +8,6 @@ missions:
     status: service
     employer: Pôle emploi
 memberType: autre
+teams: []
 ---
 UX designer, mais aussi designer UX

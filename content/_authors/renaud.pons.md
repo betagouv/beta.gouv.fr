@@ -14,5 +14,6 @@ previously:
 competences:
   - Coaching
   - UX
+teams: []
 ---
 Designer de services & social

@@ -18,5 +18,6 @@ startups:
 memberType: beta
 previously:
   - signaux-faibles
+teams: []
 ---
 Intrapreneur de la messagerie de la suite numérique

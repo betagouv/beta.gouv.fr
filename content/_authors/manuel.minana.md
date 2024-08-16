@@ -8,5 +8,6 @@ missions:
     end: 2023-12-29
     status: independent
 memberType: autre
+teams: []
 ---
 Développeur pragmatique, père de famille et propriétaire d'un Cavalier King Charles qui n'écoute rien

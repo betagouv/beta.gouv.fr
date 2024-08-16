@@ -13,5 +13,6 @@ missions:
       - signaux-faibles
 startups:
   - signaux-faibles
+teams: []
 ---
 Je suis chercheuse chez Inria Saclay.

@@ -13,5 +13,6 @@ startups:
 memberType: beta
 competences:
   - Administration Publique
+teams: []
 ---
 Opérateur de validation et support chez DossierFacile.

@@ -10,5 +10,6 @@ missions:
       - frise.cpip
 startups:
   - frise.cpip
+teams: []
 ---
 In SPIP veritas

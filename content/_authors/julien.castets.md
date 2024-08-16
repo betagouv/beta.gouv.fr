@@ -15,4 +15,5 @@ startups:
   - mesads
 competences:
   - Développement Backend
+teams: []
 ---

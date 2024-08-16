@@ -12,5 +12,6 @@ missions:
 startups:
   - transition-ecologique-des-entreprises
 memberType: beta
+teams: []
 ---
 Et puis j'écris aussi.

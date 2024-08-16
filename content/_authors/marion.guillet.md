@@ -14,4 +14,5 @@ startups:
   - la-bonne-alternance
 previously:
   - la-bonne-boite
+teams: []
 ---

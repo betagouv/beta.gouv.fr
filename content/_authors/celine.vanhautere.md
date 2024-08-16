@@ -12,4 +12,5 @@ link: https://www.linkedin.com/in/celinevanhautere
 competences:
   - Product strategy
 memberType: beta
+teams: []
 ---

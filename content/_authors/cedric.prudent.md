@@ -10,4 +10,5 @@ missions:
       - competence.validee
 startups:
   - competence.validee
+teams: []
 ---

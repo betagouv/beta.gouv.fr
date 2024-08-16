@@ -8,5 +8,6 @@ missions:
     status: service
     employer: OCTO
 memberType: autre
+teams: []
 ---
 Coach innovation, produit et équipe

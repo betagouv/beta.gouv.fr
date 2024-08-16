@@ -12,5 +12,6 @@ missions:
       - leximpact
 startups:
   - leximpact
+teams: []
 ---
 Résoud des problèmes de la vraie vie avec des mathématiques depuis plus longtemps que je n'oserais l'avouer

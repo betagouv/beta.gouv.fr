@@ -16,4 +16,5 @@ startups:
   - deveco
 competences:
   - Communication
+teams: []
 ---

@@ -12,5 +12,6 @@ missions:
 startups:
   - vues-immersives-libres
 memberType: beta
+teams: []
 ---
 UXUI designer senior

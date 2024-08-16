@@ -17,6 +17,7 @@ memberType: autre
 competences:
   - Accessibilité
   - Développement Frontend
+teams: []
 ---
 Développeuse front et Experte accessibilité à mi-temps.
 Maman à plein temps.

@@ -13,5 +13,6 @@ startups:
   - data-subvention
 badges:
   - segur
+teams: []
 ---
 Chargée de déploiement le jour, co-fondateur de la Caserne Bascule (tiers lieu) le reste du temps !

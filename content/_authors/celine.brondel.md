@@ -14,4 +14,5 @@ startups:
   - encyclopedie-des-metiers
 previously:
   - estime
+teams: []
 ---
