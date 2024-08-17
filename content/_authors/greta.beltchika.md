@@ -13,4 +13,5 @@ startups:
   - ma-cantine-egalim
 badges:
   - segur
+teams: []
 ---

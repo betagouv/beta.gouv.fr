@@ -14,5 +14,6 @@ startups:
   - benefriches
 memberType: autre
 competences: []
+teams: []
 ---
 🎨 Designer UXUI 🧩 Animatrice de la Fresque du Numérique

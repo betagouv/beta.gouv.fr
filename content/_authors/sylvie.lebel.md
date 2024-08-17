@@ -16,5 +16,6 @@ startups:
   - l-immersion-facile
 previously:
   - zen
+teams: []
 ---
 Je m’attache à ce que chaque demandeur d’emploi comprenne et s’approprie les services de Pôle emploi. L’enthousiasme, la curiosité et l’innovation sont de bons moteurs !

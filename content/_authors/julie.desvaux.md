@@ -10,5 +10,6 @@ missions:
     status: service
     employer: Fairness.coop
 memberType: attributaire
+teams: []
 ---
 Développeuse chez Fairness.coop

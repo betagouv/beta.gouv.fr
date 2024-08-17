@@ -7,5 +7,6 @@ missions:
     end: 2024-11-30
     status: service
     employer: Malt
+teams: []
 ---
 Account Manager chez Malt

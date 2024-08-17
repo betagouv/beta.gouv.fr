@@ -14,5 +14,6 @@ missions:
 startups:
   - umap
 memberType: autre
+teams: []
 ---
 Développeur intéressé par les dynamiques collectives, les libertés numériques et la facilitation.

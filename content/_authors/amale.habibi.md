@@ -17,4 +17,5 @@ startups:
 memberType: autre
 competences:
   - Administration Publique
+teams: []
 ---

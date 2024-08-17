@@ -22,5 +22,6 @@ previously:
   - prevention_ruptures_apprentissage
 badges:
   - segur
+teams: []
 ---
 Coach & ex-intrapreneur @JeVeuxAider @SNU @API-Engagement

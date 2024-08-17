@@ -26,4 +26,5 @@ startups:
   - usine-chatbots
   - stargate
   - megalodon
+teams: []
 ---

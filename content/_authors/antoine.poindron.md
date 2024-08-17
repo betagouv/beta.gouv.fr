@@ -21,5 +21,6 @@ startups:
   - chauffage-urbain
 badges:
   - segur
+teams: []
 ---
 UI designer au service premier de l'utilisateur !

@@ -11,5 +11,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+teams: []
 ---
 Hauts les cœurs et soyons bons !

@@ -14,4 +14,5 @@ competences:
   - Rédaction
   - Journalisme
   - Langage clair
+teams: []
 ---

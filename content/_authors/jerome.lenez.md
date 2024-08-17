@@ -20,5 +20,6 @@ previously:
   - cassiopee
   - civils-de-la-defense
 link: https://www.linkedin.com/in/jeromelenez/
+teams: []
 ---
 Product Manager

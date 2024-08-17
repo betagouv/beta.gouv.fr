@@ -16,5 +16,6 @@ startups:
 memberType: beta
 previously:
   - tchap
+teams: []
 ---
 Développeur iOS senior, runner

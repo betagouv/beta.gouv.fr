@@ -14,5 +14,6 @@ missions:
 startups:
   - api-engagement
 memberType: beta
+teams: []
 ---
 Tech, food and punk-rock

@@ -12,4 +12,5 @@ previously:
   - sante-psy-etudiant
 badges:
   - segur
+teams: []
 ---

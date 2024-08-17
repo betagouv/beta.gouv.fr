@@ -28,4 +28,5 @@ competences:
   - JavaScript/TypeScript
   - PHP
   - Matomo
+teams: []
 ---

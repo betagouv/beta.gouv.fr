@@ -11,4 +11,5 @@ missions:
 startups:
   - estime.formation
 memberType: beta
+teams: []
 ---

@@ -13,4 +13,5 @@ startups:
   - chauffage-urbain
 competences:
   - Administration Publique
+teams: []
 ---

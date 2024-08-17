@@ -13,5 +13,6 @@ startups:
   - carbure
 previously:
   - camino
+teams: []
 ---
 Product Manager le jour, professeure de Yoga la nuit Senior PM Freelance, ex @Deezer, @Mindsay @JoinMaestro

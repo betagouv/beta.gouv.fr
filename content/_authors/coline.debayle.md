@@ -16,5 +16,6 @@ missions:
     startups:
       - economes.de.flux.a.disposition
 memberType: dinum
+teams: []
 ---
 Entrepreneur à impact depuis toujours !

@@ -14,5 +14,6 @@ competences:
   - Facilitation
   - Coaching
   - Administration Publique
+teams: []
 ---
 Coach agile - produit et chargée de communication innovation

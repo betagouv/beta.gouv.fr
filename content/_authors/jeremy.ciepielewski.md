@@ -20,5 +20,6 @@ badges:
 competences:
   - Coaching
   - Communication
+teams: []
 ---
 Acteur de l'ESS dans le domaine du numérique 💻

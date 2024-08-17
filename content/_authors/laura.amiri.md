@@ -12,4 +12,5 @@ badges:
 startups:
   - maison.de.lautisme
 competences: []
+teams: []
 ---

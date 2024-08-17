@@ -9,4 +9,5 @@ missions:
     status: independent
     employer: Opteamis
 memberType: beta
+teams: []
 ---

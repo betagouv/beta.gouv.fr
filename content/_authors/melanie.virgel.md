@@ -20,4 +20,5 @@ competences:
   - Conception supports de communication et formation
   - Animation réseaux sociaux
   - Tutrice
+teams: []
 ---

@@ -10,4 +10,5 @@ missions:
 memberType: beta
 startups:
   - reperer.identifier.victimes.teh
+teams: []
 ---

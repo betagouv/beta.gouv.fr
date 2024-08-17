@@ -14,4 +14,5 @@ competences:
   - Développement Full-stack
 memberType: beta
 link: https://www.linkedin.com/in/christiantonye
+teams: []
 ---

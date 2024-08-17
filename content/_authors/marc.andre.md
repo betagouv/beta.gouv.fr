@@ -24,4 +24,5 @@ competences:
   - Croissance
   - Facilitation
   - Product design
+teams: []
 ---
