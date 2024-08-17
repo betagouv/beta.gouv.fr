@@ -8,4 +8,5 @@ missions:
     end: 2024-12-30
     status: service
     employer: NUMA
+teams: []
 ---

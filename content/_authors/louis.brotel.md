@@ -13,4 +13,5 @@ missions:
     employer: Ministère des affaires sociales
 memberType: beta
 link: https://www.linkedin.com/in/lbrotel/
+teams: []
 ---

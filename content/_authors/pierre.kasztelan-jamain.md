@@ -13,5 +13,6 @@ missions:
 startups:
   - reformes-locales
 memberType: beta
+teams: []
 ---
 Agent de la DGFIP détaché en collectivité locale.

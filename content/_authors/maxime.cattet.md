@@ -14,4 +14,5 @@ startups:
   - pop
 previously:
   - euphrosyne
+teams: []
 ---

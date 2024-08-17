@@ -13,5 +13,6 @@ missions:
 startups:
   - rdv-service-public
 memberType: beta
+teams: []
 ---
 Product Designer

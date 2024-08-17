@@ -12,4 +12,5 @@ competences:
   - UX
   - UI
   - Coaching
+teams: []
 ---

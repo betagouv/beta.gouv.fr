@@ -20,4 +20,5 @@ memberType: beta
 link: https://www.linkedin.com/in/julien-recasens/
 competences:
   - Facilitation
+teams: []
 ---

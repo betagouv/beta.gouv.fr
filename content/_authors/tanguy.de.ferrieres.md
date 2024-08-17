@@ -13,5 +13,6 @@ missions:
     employer: Malt
     startups:
       - plusfraichemaville
+teams: []
 ---
  

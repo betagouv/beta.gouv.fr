@@ -23,5 +23,6 @@ competences:
   - Product design
   - UX
   - Communication
+teams: []
 ---
 Designer basée à Nantes, spécialisée dans les missions à impact.

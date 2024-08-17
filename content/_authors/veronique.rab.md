@@ -14,4 +14,5 @@ startups:
   - mon-entreprise
 memberType: autre
 competences: []
+teams: []
 ---

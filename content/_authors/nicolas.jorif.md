@@ -13,4 +13,5 @@ missions:
 startups:
   - docurba
 memberType: dinum
+teams: []
 ---

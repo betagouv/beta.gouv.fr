@@ -26,5 +26,6 @@ previously:
   - culture_amateurs
   - dumas
   - sppnaut
+teams: []
 ---
 Coach des startups, des papillons et des abeilles aux pieds libres.

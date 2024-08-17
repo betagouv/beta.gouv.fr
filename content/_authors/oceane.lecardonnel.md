@@ -8,4 +8,5 @@ missions:
     end: 2022-06-30
     status: admin
     employer: Pôle emploi
+teams: []
 ---

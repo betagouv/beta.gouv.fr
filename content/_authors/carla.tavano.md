@@ -10,4 +10,5 @@ missions:
       - ellesfontlaculture
 startups:
   - ellesfontlaculture
+teams: []
 ---

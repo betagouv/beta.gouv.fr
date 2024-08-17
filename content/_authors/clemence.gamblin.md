@@ -14,5 +14,6 @@ startups:
   - snu
 badges:
   - segur
+teams: []
 ---
 Consultante secteur public et fleuriste freelance

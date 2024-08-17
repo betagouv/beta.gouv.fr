@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: Ministère agriculture et de la souveraineté alimentaire
 memberType: beta
+teams: []
 ---

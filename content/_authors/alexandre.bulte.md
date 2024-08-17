@@ -14,5 +14,6 @@ missions:
     employer: dinum
 startups:
   - data.gouv.fr
+teams: []
 ---
 KISS.

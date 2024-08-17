@@ -12,5 +12,6 @@ missions:
       - aides-territoires
 startups:
   - aides-territoires
+teams: []
 ---
 Faciliter le développement des territoires grâce au numérique et avec les usagers

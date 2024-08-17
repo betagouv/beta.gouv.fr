@@ -15,5 +15,6 @@ missions:
     employer: Dinum
 previously:
   - aidantsconnect
+teams: []
 ---
 Développeuse multi-tâches et multi-langages

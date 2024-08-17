@@ -11,5 +11,6 @@ missions:
 startups:
   - dossierfacile
 memberType: autre
+teams: []
 ---
 J'accompagne les utilisateurs sur les outils betaGouv et conseille les structures publiquesprivées sur la transition alimentaire

@@ -23,4 +23,5 @@ competences:
   - PostgreSQL
   - Python
 memberType: beta
+teams: []
 ---
