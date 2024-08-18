@@ -12,4 +12,5 @@ missions:
 startups:
   - pilotage.de.linclusion
 memberType: beta
+teams: []
 ---

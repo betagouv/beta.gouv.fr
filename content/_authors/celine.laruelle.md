@@ -13,5 +13,6 @@ missions:
 startups:
   - pacoupa
 memberType: autre
+teams: []
 ---
 ingénieure au service bâtiment à l'ADEME, spécialisée dans les systèmes thermiques

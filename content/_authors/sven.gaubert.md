@@ -11,4 +11,5 @@ missions:
 previously:
   - tdb-apprentissage
 memberType: beta
+teams: []
 ---

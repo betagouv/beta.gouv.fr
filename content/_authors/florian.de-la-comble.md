@@ -17,5 +17,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+teams: []
 ---
 Développeur full stack JS

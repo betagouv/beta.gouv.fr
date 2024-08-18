@@ -12,5 +12,6 @@ missions:
       - signalement
 startups:
   - signalement
+teams: []
 ---
 Parfois, mieux vaut un court silence qu'un long discours

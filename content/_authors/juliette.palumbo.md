@@ -22,4 +22,5 @@ competences:
   - Coaching
   - Communication
 link: https://www.linkedin.com/in/juliettepalumbo/
+teams: []
 ---

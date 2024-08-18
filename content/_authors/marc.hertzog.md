@@ -27,5 +27,6 @@ previously:
   - la-bonne-boite
   - workinfrance
   - codedutravail
+teams: []
 ---
 Développeur web. Aime autant le front-end que le back-end :)

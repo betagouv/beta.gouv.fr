@@ -13,5 +13,6 @@ startups:
   - la-bonne-alternance
 badges:
   - segur
+teams: []
 ---
 Chargé de déploiement  / Haut-Savoyard / Trail runner dilettante

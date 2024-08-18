@@ -17,4 +17,5 @@ startups:
   - anais
 competences:
   - Développement Backend
+teams: []
 ---

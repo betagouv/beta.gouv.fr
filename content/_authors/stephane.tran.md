@@ -7,5 +7,6 @@ missions:
     end: 2025-02-22
     status: admin
     employer: Ministère de la Justice
+teams: []
 ---
 Développeur de la Fabrique Innovation au Ministère de la Justice

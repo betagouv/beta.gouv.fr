@@ -29,8 +29,7 @@ startups:
   - ma-cantine-egalim
 badges:
   - segur
-teams:
-  - /teams/fast-dinum
+teams: []
 previously:
   - jafer
   - mon-suivi-justice

@@ -21,4 +21,5 @@ badges:
 competences:
   - Développement Backend
   - Développement Frontend
+teams: []
 ---

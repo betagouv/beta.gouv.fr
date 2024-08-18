@@ -9,4 +9,5 @@ missions:
     end: 2019-07-13
     status: admin
     employer: dinum
+teams: []
 ---

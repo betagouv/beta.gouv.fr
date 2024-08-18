@@ -1,5 +1,5 @@
 ---
 name: Animation
-incubator: lab-innov-anssi
+incubator: /incubators/lab-innov-anssi
 mission: ''
 ---

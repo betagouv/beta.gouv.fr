@@ -13,4 +13,5 @@ missions:
     employer: Démarches-simplifiées
 startups:
   - demarches-simplifiees.fr
+teams: []
 ---

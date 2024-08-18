@@ -11,4 +11,5 @@ missions:
       - bourses.scolaires
 startups:
   - bourses.scolaires
+teams: []
 ---

@@ -13,4 +13,5 @@ missions:
     employer: Inop's
     startups:
       - l-immersion-facile
+teams: []
 ---

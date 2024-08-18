@@ -17,5 +17,6 @@ badges:
 startups:
   - longuevieauxobjets
 link: https://fr.linkedin.com/in/christiancharousset/
+teams: []
 ---
 La circularité, pour préserver nos ressources ♻

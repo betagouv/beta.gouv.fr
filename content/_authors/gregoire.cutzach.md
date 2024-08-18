@@ -17,6 +17,7 @@ competences:
   - Python
   - JavaScript/TypeScript
 memberType: beta
+teams: []
 ---
 Dev Backend Freelance sur Grist à la DINUM
 Libriste

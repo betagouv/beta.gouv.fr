@@ -16,5 +16,6 @@ startups:
   - transition-ecologique-des-entreprises
 previously:
   - les-emplois
+teams: []
 ---
 Couteau-suisse en transformation de services

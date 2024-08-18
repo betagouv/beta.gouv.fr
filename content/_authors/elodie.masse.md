@@ -14,4 +14,5 @@ startups:
   - cyberbudget
 competences:
   - Administration Publique
+teams: []
 ---

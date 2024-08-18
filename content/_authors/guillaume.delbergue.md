@@ -9,4 +9,5 @@ missions:
     status: independent
     employer: Fabrique numérique de Armées
 memberType: beta
+teams: []
 ---

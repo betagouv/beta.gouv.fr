@@ -16,4 +16,5 @@ previously:
   - api-engagement
 competences:
   - Administration Publique
+teams: []
 ---

@@ -12,5 +12,6 @@ missions:
 startups:
   - ma-cantine-egalim
 memberType: beta
+teams: []
 ---
 Product Manager  Owner

@@ -13,5 +13,6 @@ startups:
   - la-bonne-alternance
 previously:
   - maintenant
+teams: []
 ---
 Développeur full-stack et touche-à-tout

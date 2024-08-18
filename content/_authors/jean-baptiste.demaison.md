@@ -12,6 +12,5 @@ missions:
       - homologation
 startups:
   - homologation
-teams:
-  - /teams/anssi
+teams: []
 ---

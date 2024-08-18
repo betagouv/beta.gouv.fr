@@ -13,4 +13,5 @@ github: benjlevesque
 competences:
   - Développement Full-stack
 memberType: beta
+teams: []
 ---
