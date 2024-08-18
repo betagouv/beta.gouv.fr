@@ -14,4 +14,5 @@ missions:
 startups:
   - pilotagevoiepro
 memberType: beta
+teams: []
 ---

@@ -16,5 +16,6 @@ startups:
   - les-emplois
   - pilotage.de.linclusion
   - data-inclusion
+teams: []
 ---
 Développeur Python/Django & frontend & data engineering & devops

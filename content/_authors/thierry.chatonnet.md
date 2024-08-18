@@ -7,5 +7,6 @@ missions:
     end: 2023-02-24
     status: admin
     employer: Ministère de l'intérieur
+teams: []
 ---
 Je suis chargé des financements de projets innovants à la direction du numérique du ministère de l'Intérieur

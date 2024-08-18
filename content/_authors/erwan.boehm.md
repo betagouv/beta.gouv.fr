@@ -15,5 +15,6 @@ competences:
   - LLM
 memberType: beta
 link: https://github.com/boehm-e/
+teams: []
 ---
 Développeur Full Stack avec appétence pour l'IA et les LLMs

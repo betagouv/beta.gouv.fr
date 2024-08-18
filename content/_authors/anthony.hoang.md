@@ -12,5 +12,6 @@ missions:
 startups:
   - delta.v
 memberType: beta
+teams: []
 ---
 Ancien géomètre reconverti développeur Web

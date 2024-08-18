@@ -11,4 +11,5 @@ missions:
     status: admin
     startups:
       - uvf-numerique
+teams: []
 ---

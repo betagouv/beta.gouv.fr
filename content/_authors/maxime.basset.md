@@ -17,5 +17,6 @@ startups:
 previously:
   - workinfrance
   - e-mjpm
+teams: []
 ---
 Harder Better Faster Stronger.

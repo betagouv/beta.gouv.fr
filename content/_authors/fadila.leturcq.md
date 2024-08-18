@@ -8,5 +8,6 @@ missions:
     status: admin
     employer: DINUM
 memberType: dinum
+teams: []
 ---
 Augmenter les compétences numériques dans l'administration

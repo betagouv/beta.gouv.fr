@@ -9,5 +9,6 @@ missions:
     status: service
 badges:
   - segur
+teams: []
 ---
 Point de contact Little Big Connection

@@ -11,5 +11,6 @@ missions:
     employer: Shom
 previously:
   - sppnaut
+teams: []
 ---
 Ingénieure Hydrographe et docteur en traitement du signal et acoustique sous-marine

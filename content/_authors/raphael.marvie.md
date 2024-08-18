@@ -13,4 +13,5 @@ startups:
   - recommandations-collaboratives
 domaine: Développement
 github: rmarvie
+teams: []
 ---

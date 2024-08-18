@@ -8,4 +8,5 @@ missions:
     status: service
     employer: Octo Technology
 memberType: beta
+teams: []
 ---

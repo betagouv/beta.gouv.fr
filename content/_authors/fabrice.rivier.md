@@ -12,4 +12,5 @@ missions:
       - anti-gaspi-cantine
 startups:
   - anti-gaspi-cantine
+teams: []
 ---

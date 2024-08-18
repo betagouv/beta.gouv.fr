@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: SGCD77
 memberType: beta
+teams: []
 ---

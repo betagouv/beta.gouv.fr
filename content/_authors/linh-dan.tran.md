@@ -12,5 +12,6 @@ missions:
     employer: Actimage
     startups:
       - sirius
+teams: []
 ---
 Product Designer & Freelance @UX Matcha 

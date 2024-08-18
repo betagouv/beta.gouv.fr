@@ -12,5 +12,6 @@ missions:
       - l-application-du-cej
 startups:
   - l-application-du-cej
+teams: []
 ---
 Designeuse qui aime les design system, l'accessibilité et travailler avec les développeurs

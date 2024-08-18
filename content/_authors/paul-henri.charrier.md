@@ -17,5 +17,6 @@ badges:
   - segur
 competences:
   - Administration Publique
+teams: []
 ---
 Intrapreneur sur le domaine régalien

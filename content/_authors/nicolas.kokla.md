@@ -25,5 +25,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+teams: []
 ---
 {\  Mindset: 'Coding better, harder, faster',\  hobby: 'Gamer better, harder, faster'\}

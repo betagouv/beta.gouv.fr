@@ -7,5 +7,6 @@ missions:
     end: 2021-12-31
     status: service
     employer: Ippon
+teams: []
 ---
 Business Developer @Ippon Technologies Accélératrice de projets digitaux

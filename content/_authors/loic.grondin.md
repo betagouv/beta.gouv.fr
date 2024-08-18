@@ -13,4 +13,5 @@ missions:
 startups:
   - vues-immersives-libres
 memberType: beta
+teams: []
 ---

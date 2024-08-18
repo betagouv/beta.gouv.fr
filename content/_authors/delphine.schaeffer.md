@@ -10,4 +10,5 @@ missions:
       - tutorat_fp
 startups:
   - tutorat_fp
+teams: []
 ---

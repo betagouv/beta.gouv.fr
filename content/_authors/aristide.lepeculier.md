@@ -19,4 +19,5 @@ competences:
   - PostgreSQL
 memberType: beta
 link: https://www.linkedin.com/in/lepeculier/
+teams: []
 ---

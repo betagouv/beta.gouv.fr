@@ -16,5 +16,6 @@ memberType: beta
 previously:
   - eimis
 competences: []
+teams: []
 ---
 Développeur 🧑‍💻

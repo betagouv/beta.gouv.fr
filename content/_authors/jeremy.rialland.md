@@ -14,5 +14,6 @@ startups:
   - mon-entreprise
 badges:
   - segur
+teams: []
 ---
 Développeur web freelance

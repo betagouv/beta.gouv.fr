@@ -21,4 +21,5 @@ competences:
   - Administration Système
   - UI
   - UX
+teams: []
 ---

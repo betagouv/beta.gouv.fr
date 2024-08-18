@@ -11,4 +11,5 @@ missions:
       - les-alpps
 startups:
   - les-alpps
+teams: []
 ---

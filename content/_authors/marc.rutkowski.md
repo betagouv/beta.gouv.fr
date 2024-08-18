@@ -12,4 +12,5 @@ missions:
       - territoires-en-transitions
 startups:
   - territoires-en-transitions
+teams: []
 ---

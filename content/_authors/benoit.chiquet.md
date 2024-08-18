@@ -9,4 +9,5 @@ missions:
     status: independent
 previously:
   - carnet.de.bord
+teams: []
 ---

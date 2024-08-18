@@ -11,5 +11,6 @@ missions:
     employer: INOPS
     startups:
       - pilotage.de.linclusion
+teams: []
 ---
 Data Product Owner au Pilotage de l'inclusion

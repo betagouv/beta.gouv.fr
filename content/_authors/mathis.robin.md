@@ -15,5 +15,6 @@ startups:
 memberType: beta
 previously:
   - apilos
+teams: []
 ---
 Je suis un support-héros 🦸‍♂️

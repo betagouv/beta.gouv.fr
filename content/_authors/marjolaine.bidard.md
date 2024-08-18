@@ -22,5 +22,6 @@ competences:
   - Research
   - Facilitation
   - Product strategy
+teams: []
 ---
 Product UX strategy, UX research, Experience designer Freelance

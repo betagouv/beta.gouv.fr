@@ -12,4 +12,5 @@ memberType: beta
 previously:
   - encyclopedie-des-metiers
   - competence.validee
+teams: []
 ---
