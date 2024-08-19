@@ -7,8 +7,8 @@ competences:
 missions:
   - start: 2024-08-12
     end: 2025-11-16
-    employer: MASA
     status: admin
+    employer: MASA
     startups:
       - 1-jeune-1-arbre
 ---
