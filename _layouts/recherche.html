@@ -257,6 +257,8 @@ layout: default
   var searchPageTitle = document.getElementById('search-page-title');
   const count = displaySearchResults(searchTerm, categories);
 
+  document.title = `Résultats de recherche pour « ${searchTerm} » — beta.gouv.fr`;
+
   if(count === 0) {
      $(searchPageTitle).text(`Aucun résultat pour « ${searchTerm} »`);
      document.getElementById('search-noresults').classList.remove('fr-hidden')
