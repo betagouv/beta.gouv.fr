@@ -43,7 +43,7 @@
         {% for item in site.data.footer.links %}
           <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
             {% if item.label %}
-            <h3 class="fr-footer__top-cat">{{ item.label }}</h3>
+            <h2 class="fr-footer__top-cat">{{ item.label }}</h2>
             {% endif %}
             <ul class="fr-footer__top-list">
               {% for link in item.children %}
