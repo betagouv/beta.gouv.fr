@@ -9,6 +9,8 @@ accessibility_status: non conforme
 events:
   - name: committee
     date: 2023-10-16
+  - name: committee
+    date: 2024-07-09
 phases:
   - name: investigation
     start: 2023-02-01
