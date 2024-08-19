@@ -50,7 +50,7 @@
                 {% if link.target %}
                   {% assign target = site.pages | where:"path",link.target | first %}
                   <li>
-                    <a class="fr-footer__top-link" href="{{ target.url }}">{{ link.label }}</a>
+                    <a class="fr-footer__top-link" href="{{ target.url }}" {% if link.lang %}lang="{{ link.lang }}"{% endif %}>{{ link.label }}</a>
                   </li>
                 {% elsif link.url %}
                   <li><a href="{{ link.url }}" class="fr-footer__top-link">{{ link.label }}</a></li>

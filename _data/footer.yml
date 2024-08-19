@@ -16,6 +16,7 @@ links:
     -
       label: About us (en)
       target: _pages/en/home.md
+      lang: en
     -
       label: Nous contacter
       target: _pages/contact.md
