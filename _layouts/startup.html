@@ -108,7 +108,7 @@ layout: default
               {% capture stats %}
               <li>
                 {% if page.stats or page.stats_url %}
-                <a class="fr-link fr-link--icon-left fr-icon-line-chart-line " href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">
+                <a class="fr-link fr-link--icon-left fr-icon-line-chart-line " href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}">
                   Statistiques d'usage
                 </a>
                 {% else %}
