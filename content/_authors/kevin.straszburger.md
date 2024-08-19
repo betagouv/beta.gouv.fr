@@ -10,4 +10,5 @@ missions:
     employer: UT7
 previously:
   - euphrosyne
+teams: []
 ---

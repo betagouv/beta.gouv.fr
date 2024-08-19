@@ -24,5 +24,6 @@ competences:
   - Communication
   - Facilitation
   - Croissance
+teams: []
 ---
 La curiosité comme moteur, j'ai l'enthousiasme comme essence.

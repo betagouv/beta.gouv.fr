@@ -10,4 +10,5 @@ missions:
       - carnet.de.bord
 startups:
   - carnet.de.bord
+teams: []
 ---

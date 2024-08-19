@@ -27,6 +27,7 @@ competences:
   - Product strategy
 memberType: beta
 link: https://www.linkedin.com/in/kounowski-julien-64885825/
+teams: []
 ---
 - De l'innovation sociale (2010) à l'innovation et la transformation publique (à ce jour) 
 

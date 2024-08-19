@@ -13,4 +13,5 @@ github: benjamin-grilleres
 link: https://www.linkedin.com/in/benjamin-grilleres-283530124/
 competences:
   - Développement Full-stack
+teams: []
 ---

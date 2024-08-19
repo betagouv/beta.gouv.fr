@@ -9,5 +9,6 @@ missions:
     status: service
     employer: Octo Technology
 memberType: beta
+teams: []
 ---
 Développeur le jour, gameur la nuit.

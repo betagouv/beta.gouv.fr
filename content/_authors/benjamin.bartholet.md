@@ -14,5 +14,6 @@ startups:
   - aidantsconnect
 previously:
   - eva
+teams: []
 ---
 designer multidisciplinaire, photographe & illustrateur

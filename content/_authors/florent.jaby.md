@@ -10,5 +10,6 @@ missions:
     employer: octo
 previously:
   - api-particulier
+teams: []
 ---
 Développeur ~~enragé~~ engagé et Humain amateur. Cliquez pour plus d'infos.

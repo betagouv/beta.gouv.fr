@@ -14,5 +14,6 @@ missions:
 startups:
   - preuve-de-covoiturage
 memberType: beta
+teams: []
 ---
 Docteur en Statistique/Machine Learning.

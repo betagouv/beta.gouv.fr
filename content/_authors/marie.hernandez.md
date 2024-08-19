@@ -10,4 +10,5 @@ missions:
     employer: BENEXT
 competences:
   - Administration Publique
+teams: []
 ---

@@ -15,4 +15,5 @@ competences:
   - Data Science
   - Analyse de données
 memberType: beta
+teams: []
 ---

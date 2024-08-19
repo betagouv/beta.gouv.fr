@@ -13,4 +13,5 @@ startups:
   - data-subvention
 badges:
   - segur
+teams: []
 ---

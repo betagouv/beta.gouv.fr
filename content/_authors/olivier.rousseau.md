@@ -11,5 +11,6 @@ missions:
       - acceslibre
 startups:
   - acceslibre
+teams: []
 ---
 Futur président de la République ou acteur de cinéma :)

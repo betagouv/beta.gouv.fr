@@ -15,5 +15,6 @@ startups:
   - dialogue
 memberType: beta
 competences: []
+teams: []
 ---
 Outilleur

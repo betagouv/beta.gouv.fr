@@ -11,5 +11,6 @@ missions:
       - domifa
 startups:
   - domifa
+teams: []
 ---
 Développeuse le jour, stand-up et geek le reste du temps

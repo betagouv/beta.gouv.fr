@@ -10,5 +10,6 @@ missions:
 memberType: autre
 competences:
   - Gestion de Produit
+teams: []
 ---
 Expert rénovation pas du tout développeur

@@ -12,4 +12,5 @@ missions:
 startups:
   - mobilic
 memberType: beta
+teams: []
 ---

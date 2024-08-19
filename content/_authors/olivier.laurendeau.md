@@ -12,5 +12,6 @@ missions:
     end: 2024-12-30
     status: independent
     employer: Scopylefft
+teams: []
 ---
 👨🏻‍💻 Architecte Logiciel | Développeur NodeJS, Typescript, ReactJS, ReactNative, PHP ✨ ex-TheFork, 16 ans d'expérience 📋 Freelance

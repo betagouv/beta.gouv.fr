@@ -22,4 +22,5 @@ competences:
   - PostgreSQL
   - Python
   - Product strategy
+teams: []
 ---

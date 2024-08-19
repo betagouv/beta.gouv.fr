@@ -12,9 +12,10 @@ competences:
 missions:
   - start: 2024-07-05
     end: 2024-12-31
-    employer: Scopyleft
     status: independent
+    employer: Scopyleft
     startups:
       - mon.espace.collectivite
+teams: []
 ---
 Juriste engagée dans la valorisation des territoires par le numérique

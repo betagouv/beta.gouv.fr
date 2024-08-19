@@ -19,4 +19,5 @@ competences:
   - DevOps
   - DSFR
 memberType: beta
+teams: []
 ---

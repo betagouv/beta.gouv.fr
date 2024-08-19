@@ -29,8 +29,7 @@ missions:
     status: independent
     employer: LaZone/Pathtech (ADEME)
 incubator: ademe
-teams:
-  - /teams/ademe
+teams: []
 previously:
   - archifiltre
   - egalite.professionnelle

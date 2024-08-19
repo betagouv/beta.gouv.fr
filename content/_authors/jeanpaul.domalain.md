@@ -11,4 +11,5 @@ missions:
       - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
+teams: []
 ---

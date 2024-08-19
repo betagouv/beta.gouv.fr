@@ -6,7 +6,7 @@ link: https://github.com/spontoreau
 github: spontoreau
 missions:
   - start: 2023-02-14
-    end: 2024-08-14
+    end: 2024-12-31
     status: independent
     employer: Malt
     startups:
@@ -14,5 +14,6 @@ missions:
 startups:
   - potentiel
 memberType: beta
+teams: []
 ---
 TypeScript enthusiast, in ❤️ with Behavior Driven Development & Gitmoji fanboy 😎

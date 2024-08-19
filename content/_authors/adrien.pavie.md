@@ -14,5 +14,6 @@ missions:
 startups:
   - vues-immersives-libres
 memberType: beta
+teams: []
 ---
 Entrepreneur en géomatique et développement logiciel

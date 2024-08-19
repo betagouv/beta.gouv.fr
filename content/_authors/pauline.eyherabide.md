@@ -20,4 +20,5 @@ previously:
 competences:
   - Communication
 link: https://www.linkedin.com/in/paulineeyherabide/
+teams: []
 ---

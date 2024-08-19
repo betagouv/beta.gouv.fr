@@ -8,7 +8,6 @@ missions:
     status: admin
     employer: DTNUM
 memberType: autre
-teams:
-  - /teams/lab-mi
+teams: []
 ---
 Cheffe de bureau BAOT

@@ -14,5 +14,6 @@ startups:
   - l-application-du-cej
 badges:
   - segur
+teams: []
 ---
 Fan d'applications mobiles, de grands débats, de stand-up, de pâtes au pesto. Du PSG et de l'OM, y'a quoi ?

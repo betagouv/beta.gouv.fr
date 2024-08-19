@@ -12,5 +12,6 @@ missions:
 startups:
   - mistral-penal
 memberType: beta
+teams: []
 ---
 Intrapreneuse MISTRAL - Greffière au tribunal judiciaire de DRAGUIGNAN

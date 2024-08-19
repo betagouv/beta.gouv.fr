@@ -13,5 +13,6 @@ missions:
 startups:
   - l-application-du-cej
 memberType: beta
+teams: []
 ---
 Développeur fullstack - Ingénieur créatif

@@ -15,5 +15,6 @@ startups:
 memberType: autre
 competences:
   - Product design
+teams: []
 ---
 UX Designer - Ergonome

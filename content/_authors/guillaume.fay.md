@@ -16,4 +16,5 @@ startups:
   - ban
   - bases.adresses.locales
 memberType: beta
+teams: []
 ---

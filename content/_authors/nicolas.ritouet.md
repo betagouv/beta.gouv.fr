@@ -14,8 +14,7 @@ missions:
     status: admin
     employer: ANCT
 memberType: beta
-teams:
-  - /teams/anct
+teams: []
 competences:
   - DevOps
   - Développement Full-stack

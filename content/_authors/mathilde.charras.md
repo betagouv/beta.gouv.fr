@@ -12,5 +12,10 @@ missions:
 startups:
   - ma-cantine-egalim
 memberType: beta
+link: https://www.linkedin.com/in/mathilde-charras-62947748/
+competences:
+  - Communication
+  - Croissance
+  - Facilitation
+teams: []
 ---
-Chargée de déploiement, de communauté, de support utilisateur, j'adore et écouter les gens, se plaindre au sujet d'un bug ou raconter leur vie autour d'un verre !

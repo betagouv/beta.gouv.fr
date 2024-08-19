@@ -15,4 +15,5 @@ startups:
   - snu
 competences:
   - Communication
+teams: []
 ---
