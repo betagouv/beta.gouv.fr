@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2024-09-16
     end: 2024-12-16
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - tchap
 ---
