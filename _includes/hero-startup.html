@@ -20,7 +20,7 @@
           </p>
         {% endif %}
         {% if include.startup.link.size > 0 %}
-          <a href="{{ include.startup.link }}" title="{{ include.startup.title }} - nouvelle fenêtre" class="fr-link" target="_blank">{{ include.startup.link | remove:'www.' | split: "//" | last | split: "/" | first }}</a>
+          <a href="{{ include.startup.link }}" title="{{ include.startup.link | remove:'www.' | split: '//' | last | split: '/'' | first }} - nouvelle fenêtre" class="fr-link" target="_blank">{{ include.startup.link | remove:'www.' | split: "//" | last | split: "/" | first }}</a>
         {% endif %}
         <ul class="fr-mt-3w fr-tags-group">
           <li>
