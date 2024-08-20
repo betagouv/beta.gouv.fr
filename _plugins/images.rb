@@ -1,6 +1,11 @@
 # frozen_string_literal: true
 
 require 'json'
+require 'net/http'
+require 'uri'
+
+
+S3_BASE_URL= ENV['S3_BASE_URL']
 
 module Jekyll
   # provides a shortcut to the Jekyll static files
@@ -10,18 +15,33 @@ module Jekyll
     end
   end
 
+  module URLChecker
+    def self.url_exists?(url)
+      uri = URI.parse(url)
+      response = nil
+      Net::HTTP.start(uri.host, uri.port, use_ssl: uri.scheme == 'https') do |http|
+        response = http.head(uri.request_uri)
+      end
+      response.is_a?(Net::HTTPSuccess)
+    rescue StandardError => e
+      Jekyll.logger.error "HTTP check error: #{e.message}"
+      false
+    end
+  end
+
   # provides a `screenshot` filter that will use the startup image
   # found in /img/startups/{id} or a placeholder instead
   module ScreenshotFilter
     include StaticFiles
+    include URLChecker
 
     FALLBACK = '/img/betagouv-rectangle.png'
 
     def screenshot(startup)
-      # FIXME: this is fishy, why would startup be nil? (it does happen)
       return FALLBACK if startup.nil?
 
-      screenshot_file(startup) || FALLBACK
+      s3_url = "#{S3_BASE_URL}/startups/#{startup.id}/shot.jpg"
+      URLChecker.url_exists?(s3_url) ? s3_url : screenshot_file(startup) || FALLBACK
     end
 
     private
@@ -42,26 +62,25 @@ module Jekyll
     end
   end
 
-  # provides an `avatar' filter that will return the author image in
-  # `/img/authors/{slug}`, or the path in `author.avatar', or use
+  # provides an `avatar` filter that will return the author image in
+  # `/img/authors/{slug}`, or the path in `author.avatar`, or use
   # their GitHub avatar, or a placeholder.
   module AvatarFilter
     include StaticFiles
+    include URLChecker
 
     FALLBACK = '/img/logo-generique-startup-carre-2019.jpg'
+    S3_BASE_URL = 'https://espace-membre.s3.amazonaws.com'
 
     def avatar(person)
-      avatar_file(person['slug']) ||
-        avatar_attribute(person) ||
-        github_avatar(person['github']) ||
-        FALLBACK
+      s3_url = "#{S3_BASE_URL}/startups/#{person['slug']}/avatar.jpg"
+      URLChecker.url_exists?(s3_url) ? s3_url : avatar_file(person['slug']) || avatar_attribute(person) || github_avatar(person['github']) || FALLBACK
     end
 
     private
 
     def avatar_files
-      static_files
-        .filter { |f| f.data['authors_img'] == true }
+      static_files.filter { |f| f.data['authors_img'] == true }
     end
 
     def avatar_file(slug)
