@@ -70,7 +70,6 @@ module Jekyll
     include URLChecker
 
     FALLBACK = '/img/logo-generique-startup-carre-2019.jpg'
-    S3_BASE_URL = 'https://espace-membre.s3.amazonaws.com'
 
     def avatar(person)
       s3_url = "#{S3_BASE_URL}/startups/#{person['slug']}/avatar.jpg"
