@@ -18,10 +18,13 @@ Cette déclaration d’accessibilité s’applique au site **beta.gouv.fr**.
 
 ### État de conformité
 
-beta.gouv.fr est non conforme avec le RGAA 4.1. Le site n’a **pas encore été audité**. Il a cependant été conçu pour être accessible au plus grand nombre. Vous devriez donc pouvoir :
-- naviguer sur toutes les pages du site en utilisant un clavier
-- consulter le site web avec un lecteur d’écran.
-- adapter le site à votre préférences (taille de la police, zoom écran, changement de typographie...) sans perte de contenu
+beta.gouv.fr est **partiellement conforme** avec le RGAA 4.2. 
+
+### Résultats des tests
+
+L’audit de conformité au RGAA version 4.1.2 réalisé en aout 2024 par la société [Ideance](https://ideance.net/fr/) révèle que sur l’échantillon :
+- Le **taux de conformité global est de 73,1%**. Ce taux est obtenu en divisant le nombre de critères conformes par le nombre de critères applicables.
+- Le taux de conformité moyen est de 90,8%. Ce taux est obtenu en faisant la moyenne des taux de conformité de chaque page.
 
 #### Défauts d'accessibilité connus
 
