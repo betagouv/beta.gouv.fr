@@ -35,13 +35,12 @@
             {{ author.fullname }}
           {% endif %}
         </h3>
-        <p class="fr-card__detail">
+        
           {%- if timestampNow > authorEndDate -%}
-            Alumnus
-          {%- else -%}
-            {{ author.role }}
+            <p class="fr-card__detail">Alumnus</p>
+          {%- elsif author.role != nil -%}
+            <p class="fr-card__detail">{{ author.role }}</p>
           {%- endif -%}
-
 
           {%- unless include.hide_details -%}
             <p class="fr-card__desc">
