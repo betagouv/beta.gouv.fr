@@ -72,7 +72,7 @@ module Jekyll
     FALLBACK = '/img/logo-generique-startup-carre-2019.jpg'
 
     def avatar(person)
-      s3_url = "#{S3_BASE_URL}/startups/#{person['slug']}/avatar.jpg"
+      s3_url = "#{S3_BASE_URL}/members/#{person['slug']}/avatar.jpg"
       URLChecker.url_exists?(s3_url) ? s3_url : avatar_file(person['slug']) || avatar_attribute(person) || github_avatar(person['github']) || FALLBACK
     end
 
