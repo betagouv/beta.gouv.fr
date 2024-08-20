@@ -44,8 +44,12 @@ additional_js:
         src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/dc69430c-3929-4ca3-9d29-f6bb9f06c037"
         height="300"
         style="width: 100%; border: 0; background-color: transparent;"
-        title="Statistiques des produits à impact national"
+        title="Statistiques des produits à impact national (description détaillée disponible ci-après)"
       ></iframe>
+      {%- capture alt -%}
+      Le nombre de produit ayant atteint un impact nationnal est en évolution constante. En 2023, nous avons surpassé notre objectif de 5 nouveaux produits atteignants l'impact nationnal (6 produits ont atteint ce niveau).
+      {%- endcapture -%}
+      {% include transcription.html id="snin" title="Produits à impact national" alt=alt %}
       <p><a href="/startups/?national_impact=true" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir nos produits à impact national</a></p>
       <h2 id="launching">Nombre de produits lancés par an</h2>
       <p>Cet indicateur suit le <b>nombre de nouveaux produits</b> ayant commencé une <b>phase de construction</b>, toutes administrations publiques confondues. Il donne une indication sur l'<b>évolution de la diffusion de l'approche Startups d'État</b> au sein du secteur public.
@@ -54,8 +58,12 @@ additional_js:
       src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/0e1d0920-fdd9-4d92-82cc-f8685cc063c5"
       height="300"
       style="width: 100%; border: 0; background-color: transparent;"
-        title="Statistiques des produits lancés chaque année"
+        title="Statistiques des produits lancés chaque année (description détaillée disponible ci-après)"
       ></iframe>
+      {%- capture alt -%}
+      Le nombre de produit lancé chaque année est en évolution constante. Depuis 2020, nous atteignons quasiment notre objectif de 50 nouveaux produits par an.
+      {%- endcapture -%}
+      {% include transcription.html id="launch-per-year" title="Nombre de produits lancés par an" alt=alt %}
       <p><a href="/startups/#construction" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir les produits actuellement en construction</a></p>
       <h2 id="standards-qualite">Respect des standards de qualité</h2>
       <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions <b>sobres, ouvertes, accessibles, protectrices, sécurisées</b>. Pour cela, beta.gouv.fr a fixé un certain nombre de <b>standards de qualité</b> dont certains sont suivis ci-dessous.</p>

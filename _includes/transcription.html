@@ -1,0 +1,33 @@
+{%- assign id= include.id -%}
+{%- assign title= include.title -%}
+{%- assign alt= include.alt -%}
+
+<div class="fr-transcription" id="transcription-{{id}}">
+    <button class="fr-transcription__btn" aria-expanded="false" aria-controls="fr-transcription-collapse-transcription-{{id}}">Transcription</button>
+    <div class="fr-collapse" id="fr-transcription-collapse-transcription-{{id}}">
+        <div class="fr-transcription__footer">
+            <div class="fr-transcription__actions-group">
+                <button aria-controls="fr-transcription-modal-transcription-{{id}}" aria-label="Agrandir la transcription" data-fr-opened="false" class="fr-btn--fullscreen fr-btn">Agrandir</button>
+            </div>
+        </div>
+        <div id="fr-transcription-modal-transcription-{{id}}" class="fr-modal" aria-labelledby="fr-transcription-modal-transcription-{{id}}-title">
+            <div class="fr-container fr-container--fluid fr-container-md">
+                <div class="fr-grid-row fr-grid-row--center">
+                    <div class="fr-col-12 fr-col-md-10 fr-col-lg-8">
+                        <div class="fr-modal__body">
+                            <div class="fr-modal__header">
+                                <button aria-controls="fr-transcription-modal-transcription-{{id}}" title="Fermer" class="fr-btn--close fr-btn">Fermer</button>
+                            </div>
+                            <div class="fr-modal__content">
+                                <h1 id="fr-transcription-modal-transcription-{{id}}-title" class="fr-modal__title">
+                                    {{ title }}
+                                </h1>
+                                {{ alt }}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
