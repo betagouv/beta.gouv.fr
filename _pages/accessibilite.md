@@ -39,7 +39,7 @@ Nous souhaitons corriger ces défauts courant 2024 :
 - Certains contrastes entre couleur de texte et couleur d’arrière-plan ne sont pas suffisamment élevés (critère 3.2).
 - Certains titres de page ne sont pas pertinents (critère 8.6)
 - Certaines balises sont utilisées uniquement à des fins de présentation (critère 8.9).
-- Certaines pages ne sont pas correctement structurées par des titres (critère 9.1)
+- Nos fiches produits, rédigées par des contributeurs, ne sont pas toujours correctement structurées par des titres (critère 9.1)
 - Certaines listes ne sont pas correctement structurées (critère 9.3).
 - Des informations ne sont pas compréhensibles lorsque les feuilles de styles sont désactivées (critère 10.3).
 - Des déclarations CSS de couleurs de fond et de police ne sont pas correctement utilisées (critère 10.5).
