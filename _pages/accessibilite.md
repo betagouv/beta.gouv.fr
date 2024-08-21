@@ -35,7 +35,6 @@ Nous souhaitons corriger ces défauts courant 2024 :
 - Les pages [Indicateurs](/stats) et [Communauté](/communaute/) affichent des graphiques sans alternatives textuelles (critère 4.8).
 - Notre [bilan 2023](https://beta.gouv.fr/content/docs/betagouv_presentation.pdf) sous forme de PDF ne possède pas de version accessible (critère 13.3).
 - La page [Indicateurs](/stats) n'utilise pas les feuilles de styles pour contrôler la présentation (critère 10.1).
-- L'[annuaire des membres](/communaute/annuaire) s'affiche avec un défilement horizontal pour une fenêtre ayant une largeur de 320px (critère 10.11)
 - Certains contrastes entre couleur de texte et couleur d’arrière-plan ne sont pas suffisamment élevés (critère 3.2).
 - Certaines balises sont utilisées uniquement à des fins de présentation (critère 8.9).
 - Nos fiches produits, rédigées par des contributeurs, ne sont pas toujours correctement structurées par des titres (critère 9.1)
