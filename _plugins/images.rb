@@ -40,7 +40,7 @@ module Jekyll
     def screenshot(startup)
       return FALLBACK if startup.nil?
 
-      s3_url = "#{S3_BASE_URL}/startups/#{startup.id}/shot.jpg"
+      s3_url = "#{S3_BASE_URL}/startups/#{startup.id.split('/').last}/shot.jpg"
       URLChecker.url_exists?(s3_url) ? s3_url : screenshot_file(startup) || FALLBACK
     end
 
@@ -72,7 +72,7 @@ module Jekyll
     FALLBACK = '/img/logo-generique-startup-carre-2019.jpg'
 
     def avatar(person)
-      s3_url = "#{S3_BASE_URL}/members/#{person['slug']}/avatar.jpg"
+      s3_url = "#{S3_BASE_URL}/members/#{person['slug'].split('/').last}/avatar.jpg"
       URLChecker.url_exists?(s3_url) ? s3_url : avatar_file(person['slug']) || avatar_attribute(person) || github_avatar(person['github']) || FALLBACK
     end
 
