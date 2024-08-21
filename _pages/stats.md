@@ -61,7 +61,7 @@ additional_js:
         title="Statistiques des produits lancés chaque année (description détaillée disponible ci-après)"
       ></iframe>
       {%- capture alt -%}
-      Le nombre de produit lancé chaque année est en évolution constante. Depuis 2020, nous atteignons quasiment notre objectif de 50 nouveaux produits par an.
+      Le nombre de produits lancé chaque année est en évolution constante. Depuis 2020, nous atteignons quasiment notre objectif de 50 nouveaux produits par an.
       {%- endcapture -%}
       {% include transcription.html id="launch-per-year" title="Nombre de produits lancés par an" alt=alt %}
       <p><a href="/startups/#construction" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir les produits actuellement en construction</a></p>
