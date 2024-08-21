@@ -43,8 +43,7 @@ additional_js:
       <p><a href="/startups/?national_impact=true" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir nos produits à impact national</a></p>
       <iframe
         src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/dc69430c-3929-4ca3-9d29-f6bb9f06c037"
-        height="300"
-        style="width: 100%; border: 0; background-color: transparent;"
+        class="graph h300" 
         title="Statistiques des produits à impact national (description détaillée disponible ci-après)"
       ></iframe>
       {%- capture alt -%}
@@ -57,9 +56,8 @@ additional_js:
       <p><a href="/startups/#construction" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir les produits actuellement en construction</a></p>
       <iframe
       src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/0e1d0920-fdd9-4d92-82cc-f8685cc063c5"
-      height="300"
-      style="width: 100%; border: 0; background-color: transparent;"
-        title="Statistiques des produits lancés chaque année (description détaillée disponible ci-après)"
+      class="graph h300" 
+      title="Statistiques des produits lancés chaque année (description détaillée disponible ci-après)"
       ></iframe>
       {%- capture alt -%}
       Le nombre de produits lancé chaque année est en évolution constante. Depuis 2020, nous atteignons quasiment notre objectif de 50 nouveaux produits par an.
@@ -77,9 +75,8 @@ additional_js:
         <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
           <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/df66b4b5-da83-4131-90a5-52b7c68f10e0"
-            height="300"
-            style="width: 100%; border: 0; background-color: transparent;"
-            title="Statistiques d'ouverture du code source"
+            class="graph h300" 
+            title="Statistiques d'ouverture du code source (description détaillée disponible ci-après)"
             ></iframe>
         </div>
       </div>
@@ -93,9 +90,8 @@ additional_js:
         <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
           <iframe
               src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/4c8c5ab0-2ff1-4d81-abe2-115be0481e0a"
-              height="300"
-              style="width: 100%; border: 0; background-color: transparent;"
-              title="Statistiques de taux de publication de pages Statistiques"
+              class="graph h300" 
+              title="Statistiques de taux de publication de pages Statistiques (description détaillée disponible ci-après)"
           ></iframe>
         </div>
       </div>
@@ -107,9 +103,8 @@ additional_js:
         <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
           <iframe
               src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/e5dbecb8-8601-4cfd-916b-faefff27eb60"
-              height="300"
-              style="width: 100%; border: 0; background-color: transparent;"
-              title="Statistiques de présence sur l'outil Dashlord"
+              class="graph h300" 
+              title="Statistiques de présence sur l'outil Dashlord (description détaillée disponible ci-après)"
           ></iframe>
         </div>
       </div>
@@ -121,9 +116,8 @@ additional_js:
         <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
           <iframe
               src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bde0b5e2-0e30-4df4-954d-a458b7b3f1db"
-              height="300"
-              style="width: 100%; border: 0; background-color: transparent;"
-              title="Statistiques de conformité en accessibilité numérique des produits"
+              class="graph h300" 
+              title="Statistiques de conformité en accessibilité numérique des produits (description détaillée disponible ci-après)"
           ></iframe>
         </div>
       </div>
@@ -132,33 +126,29 @@ additional_js:
       <p>Cet indicateur compte, par an, les nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr.</p>
       <iframe
           src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/493930f1-f3d2-4df5-a5f8-a67d593addc5"
-          height="300"
-          style="width: 100%; border: 0; background-color: transparent;"
-          title="Statistiques sur les nouveaux membres, par année"
+          class="graph h300" 
+          title="Statistiques sur les nouveaux membres, par année (description détaillée disponible ci-après)"
       ></iframe>
       <p><a href="/communaute/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Explorer la communauté</a></p>
       <h2 id="network">Réseau d'incubateur</h2>
       <p>Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la création de leur propre structure d'incubation et d'exploitation de produits numériques.</p>
       <iframe
           src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/3a9c4d96-43e6-4b82-b44d-6f99cd9ca604"
-          height="800"
-          style="width: 100%; border: 0; background-color: transparent;"
-          title="Statistiques sur les incubateurs du réseau, par phase"
+          class="graph h800" 
+          title="Statistiques sur les incubateurs du réseau, par phase (description détaillée disponible ci-après)"
       ></iframe>
       <div class="fr-grid-row fr-grid-row--gutters">
         <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
           <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bb37a864-df62-43b9-ae42-3a097da5ddae"
-            height="300"
-            style="width: 100%; border: 0; background-color: transparent;"
+            class="graph h300" 
             title="Statistiques sur les produits lancés en 2022 par incubateur"
           ></iframe>
         </div>
         <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
           <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/5709d2c1-7ad2-4a49-b6e3-bbf7558ce2c3"
-            height="300"
-            style="width: 100%; border: 0; background-color: transparent;"
+            class="graph h300" 
             title="Statistiques sur les produits lancés en 2023 par incubateur"
           ></iframe>
         </div>
