@@ -137,9 +137,10 @@ additional_js:
           {% include transcription.html id="conformite-rgaa" title="Statistiques de conformité en accessibilité numérique des produits" alt=alt %}
         </div>
       </div>
-      <h2 id="administration">Montée en compétence de l'administration</h2>
+      <h2 class="fr-mt-4w" id="administration">Montée en compétence de l'administration</h2>
       <p>beta.gouv.fr souhaite faire <b>monter l'administration en compétence</b>, en formant des agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité.</p>
       <p>Cet indicateur compte, par an, les nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr.</p>
+      <p><a href="/communaute/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Explorer la communauté</a></p>
       <iframe
           src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/493930f1-f3d2-4df5-a5f8-a67d593addc5"
           class="graph h300" 
