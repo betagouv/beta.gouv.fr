@@ -37,7 +37,6 @@ Nous souhaitons corriger ces défauts courant 2024 :
 - La page [Indicateurs](/stats) n'utilise pas les feuilles de styles pour contrôler la présentation (critère 10.1).
 - L'[annuaire des membres](/communaute/annuaire) s'affiche avec un défilement horizontal pour une fenêtre ayant une largeur de 320px (critère 10.11)
 - Certains contrastes entre couleur de texte et couleur d’arrière-plan ne sont pas suffisamment élevés (critère 3.2).
-- Certains titres de page ne sont pas pertinents (critère 8.6)
 - Certaines balises sont utilisées uniquement à des fins de présentation (critère 8.9).
 - Nos fiches produits, rédigées par des contributeurs, ne sont pas toujours correctement structurées par des titres (critère 9.1)
 - Certaines listes ne sont pas correctement structurées (critère 9.3).
