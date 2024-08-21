@@ -13,4 +13,7 @@ startups:
   - data-subvention
 badges:
   - segur
+competences:
+  - Communication
+  - Metabase
 ---
