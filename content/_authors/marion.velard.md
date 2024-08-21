@@ -2,7 +2,7 @@
 fullname: Marion Velard
 role: Developpeuse Web.
 domaine: Développement
-github: https://github.com/Marionvel
+github: Marionvel
 link: https://www.linkedin.com/in/marion-velard/
 competences:
   - Développement Backend
