@@ -47,7 +47,7 @@ additional_js:
         title="Statistiques des produits à impact national (description détaillée disponible ci-après)"
       ></iframe>
       {%- capture alt -%}
-      Le nombre de produit ayant atteint un impact nationnal est en évolution constante. En 2023, nous avons surpassé notre objectif de 5 nouveaux produits atteignants l'impact nationnal (6 produits ont atteint ce niveau).
+      Le nombre de produits ayant atteint un impact national est en évolution constante. En 2023, nous avons surpassé notre objectif de 5 nouveaux produits atteignant l'impact national (6 produits ont atteint ce niveau).
       {%- endcapture -%}
       {% include transcription.html id="snin" title="Produits à impact national" alt=alt %}
       <p><a href="/startups/?national_impact=true" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir nos produits à impact national</a></p>
