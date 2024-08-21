@@ -65,14 +65,11 @@ additional_js:
       {% include transcription.html id="launch-per-year" title="Nombre de produits lancés par an" alt=alt %}
       <h2 class="fr-mt-4w" id="standards-qualite">Respect des standards de qualité</h2>
       <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions <b>sobres, ouvertes, accessibles, protectrices, sécurisées</b>. Pour cela, beta.gouv.fr a fixé un certain nombre de <b>standards de qualité</b> dont certains sont suivis ci-dessous.</p>
-      <div class="fr-grid-row fr-grid-row--gutters fr-py-2w">
-        <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <div class="fr-mb-8w">
           <p>Conformément à la <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14">Loi pour une République Numérique du 7 octobre 2016</a>, les <b>codes sources de services numériques publics</b> sont des documents administratifs communicables et réutilisables. Ils doivent donc être <b>ouverts</b>.
           </p>
           <p><a href="/startups/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Retrouver le code source d'un produit</a>
           </p>
-        </div>
-        <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
           <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/df66b4b5-da83-4131-90a5-52b7c68f10e0"
             class="graph h300" 
@@ -82,16 +79,12 @@ additional_js:
             Ce diagramme en barre indique le taux d'ouverture des codes sources selon la phase de vie d'un projet. Plus de 90 % des services en accélération, transfert et pérénisation ouvrent leur code source (contre environ 50 % au stade de construction).
             {%- endcapture -%}
             {% include transcription.html id="open-source" title="Ouverture des codes sources" alt=alt %}
-        </div>
       </div>
-      <div class="fr-grid-row fr-grid-row--gutters">
-        <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <div class="fr-mb-8w">
           <p>
           Chaque service numérique du réseau beta.gouv.fr est tenu de mesurer son usage et son impact de manière publique sur une <b>page "Stats"</b>. Cette mesure permet d'<b>évaluer la pertinence de chaque service</b>, et de vérifier qu'elle apporte réellement de la valeur à ses utilisateurs et utilisatrices.
           </p>
           <p><a href="/startups/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Retrouver les statistiques d'usage d'un produit</a></p>
-        </div>
-        <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
           <iframe
               src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/4c8c5ab0-2ff1-4d81-abe2-115be0481e0a"
               class="graph h300" 
@@ -101,14 +94,10 @@ additional_js:
             Ce diagramme en barre indique le taux de publication de la mesure d'impact d'un produit, selon sa phase de vie. Ce taux atteint les 80 % pour les produits en phase d'accélération.
           {%- endcapture -%}
           {% include transcription.html id="stats" title="Publication de la mesure d'impact" alt=alt %}
-        </div>
       </div>
-      <div class="fr-grid-row fr-grid-row--gutters">
-        <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <div class="fr-mb-8w">
           <p><a href="https://dashlord.incubateur.net/">Dashlord</a> est un outil de suivi des bonnes pratiques. Il permet aux équipes produits d'identifier automatiquement certaines métriques (tests automatiques d'accessibilité, problèmes de sécurité, etc).</p>
           <p><a href="https://dashlord.incubateur.net/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Explorer les données</a></p>
-        </div>
-        <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
           <iframe
               src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/e5dbecb8-8601-4cfd-916b-faefff27eb60"
               class="graph h300" 
@@ -118,14 +107,10 @@ additional_js:
             Ce diagramme en barre indique le nombre de produits suivant leurs bonnes pratiques sur Dashlord, selon sa phase de vie. Ce taux atteint les 60 % pour les produits en phase d'accélération.
           {%- endcapture -%}
           {% include transcription.html id="dashlord" title="Statistiques de présence sur l'outil Dashlord" alt=alt %}
-        </div>
       </div>
-      <div class="fr-grid-row fr-grid-row--gutters">
-        <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <div class="fr-mb-4w">
           <p>L'accessibilité numérique est une obligation pour les services publics. Elle se mesure via un <b>audit de conformité</b>, quand le <b>produit est stabilisé</b>.</p>
           <p>C'est pourquoi nos produits numériques en construction ou en accélération sont rarement conformes à ce stade de vie : ils évoluent trop pour qu'un audit soit pertinent (l'accessibilité numérique est à ce stade prise en compte via d'autres moyens).</p>
-        </div>
-        <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
           <iframe
               src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bde0b5e2-0e30-4df4-954d-a458b7b3f1db"
               class="graph h300" 
@@ -135,7 +120,6 @@ additional_js:
             Ce diagramme en barre indique le statut de conformité (non conforme, partiellement conforme ou non renseign) des produits, selon sa phase de vie. Le nombre de produits non audités réduit en phase de pérénisation. 
           {%- endcapture -%}
           {% include transcription.html id="conformite-rgaa" title="Statistiques de conformité en accessibilité numérique des produits" alt=alt %}
-        </div>
       </div>
       <h2 class="fr-mt-4w" id="administration">Montée en compétence de l'administration</h2>
       <p>beta.gouv.fr souhaite faire <b>monter l'administration en compétence</b>, en formant des agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité.</p>
