@@ -3,7 +3,7 @@ title: Covoit'Scellés
 mission: Faciliter le co-voiturage de scellés pour la Police et la Gendarmerie
 sponsors:
   - /organisations/interieur
-incubator: lab-mi
+incubator: miom
 phases:
   - name: investigation
     start: 2019-11-05
