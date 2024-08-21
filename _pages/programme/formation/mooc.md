@@ -27,5 +27,5 @@ Nos **coachs**, **intrapreneurs**, **développeurs** et **business développeurs
 
 La formation est composée de 6 séquences dont une introduction et comporte 23 vidéos. Aucun pré-requis n'est nécessaire.
 
-Vous avez identifié un problème et souhaitez discuter de l'opportunité de l'investiguer au sein du réseau Beta.gouv ? [Contactez-nous](/contact#idea) et nous vous orienterons vers le bon interlocuteur.
+Vous avez identifié un problème et souhaitez discuter de l'opportunité de l'investiguer au sein du réseau Beta.gouv ? [Contactez-nous](/contact#proposer-une-idée) et nous vous orienterons vers le bon interlocuteur.
 
