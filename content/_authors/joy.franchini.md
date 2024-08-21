@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: minint
     startups:
-      - covoit'scelles
+      - covoit-scelles
 startups:
   - covoit'scelles
 ---
