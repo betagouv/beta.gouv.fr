@@ -150,15 +150,23 @@ additional_js:
           <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bb37a864-df62-43b9-ae42-3a097da5ddae"
             class="graph h300" 
-            title="Statistiques sur les produits lancés en 2022 par incubateur"
+            title="Statistiques sur les produits lancés en 2022 par incubateur (description détaillée disponible ci-après)"
           ></iframe>
+          {%- capture alt -%}
+            Ce diagramme en barre indique le nombre de produits lancés dans chaque incubateur en 2022.
+          {%- endcapture -%}
+          {% include transcription.html id="produits-incubateurs-2022" title="Statistiques sur les produits lancés en 2022 par incubateur" alt=alt %}
         </div>
         <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
           <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/5709d2c1-7ad2-4a49-b6e3-bbf7558ce2c3"
             class="graph h300" 
-            title="Statistiques sur les produits lancés en 2023 par incubateur"
+            title="Statistiques sur les produits lancés en 2023 par incubateur (description détaillée disponible ci-après)"
           ></iframe>
+          {%- capture alt -%}
+            Ce diagramme en barre indique le nombre de produits lancés dans chaque incubateur en 2023.
+          {%- endcapture -%}
+          {% include transcription.html id="produits-incubateurs-2023" title="Statistiques sur les produits lancés en 2023 par incubateur" alt=alt %}
         </div>
       </div>
       <p><a href="/incubateurs/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir tous les incubateurs</a></p>
