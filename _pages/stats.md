@@ -47,7 +47,7 @@ additional_js:
         title="Statistiques des produits à impact national (description détaillée disponible ci-après)"
       ></iframe>
       {%- capture alt -%}
-      Le nombre de produits ayant atteint un impact national est en évolution constante. En 2023, nous avons surpassé notre objectif de 5 nouveaux produits atteignant l'impact national (6 produits ont atteint ce niveau).
+      Ce diagramme en barre présente le nombre de produits ayant atteint l'impact national depuis 2013. En 2023, nous avons surpassé notre objectif de 5 nouveaux produits atteignant l'impact national : 6 produits ont atteint ce niveau.
       {%- endcapture -%}
       {% include transcription.html id="snin" title="Produits à impact national" alt=alt %}
       <h2 class="fr-mt-4w" id="launching">Nombre de produits lancés par an</h2>
@@ -60,7 +60,7 @@ additional_js:
       title="Statistiques des produits lancés chaque année (description détaillée disponible ci-après)"
       ></iframe>
       {%- capture alt -%}
-      Le nombre de produits lancé chaque année est en évolution constante. Depuis 2020, nous atteignons quasiment notre objectif de 50 nouveaux produits par an.
+      Ce diagramme en barre présente le nombre de produits lancés. Il est en évolution constante. Depuis 2020, nous atteignons quasiment notre objectif de 50 nouveaux produits par an.
       {%- endcapture -%}
       {% include transcription.html id="launch-per-year" title="Nombre de produits lancés par an" alt=alt %}
       <h2 class="fr-mt-4w" id="standards-qualite">Respect des standards de qualité</h2>
@@ -78,6 +78,10 @@ additional_js:
             class="graph h300" 
             title="Statistiques d'ouverture du code source (description détaillée disponible ci-après)"
             ></iframe>
+            {%- capture alt -%}
+            Ce diagramme en barre indique le taux d'ouverture des codes sources selon la phase de vie d'un projet. Plus de 90 % des services en accélération, transfert et pérénisation ouvrent leur code source (contre environ 50 % au stade de construction).
+            {%- endcapture -%}
+            {% include transcription.html id="open-source" title="Ouverture des codes sources" alt=alt %}
         </div>
       </div>
       <div class="fr-grid-row fr-grid-row--gutters">
@@ -93,6 +97,10 @@ additional_js:
               class="graph h300" 
               title="Statistiques de taux de publication de pages Statistiques (description détaillée disponible ci-après)"
           ></iframe>
+          {%- capture alt -%}
+            Ce diagramme en barre indique le taux de publication de la mesure d'impact d'un produit, selon sa phase de vie. Ce taux atteint les 80 % pour les produits en phase d'accélération.
+          {%- endcapture -%}
+          {% include transcription.html id="stats" title="Publication de la mesure d'impact" alt=alt %}
         </div>
       </div>
       <div class="fr-grid-row fr-grid-row--gutters">
@@ -106,6 +114,10 @@ additional_js:
               class="graph h300" 
               title="Statistiques de présence sur l'outil Dashlord (description détaillée disponible ci-après)"
           ></iframe>
+          {%- capture alt -%}
+            Ce diagramme en barre indique le nombre de produits suivant leurs bonnes pratiques sur Dashlord, selon sa phase de vie. Ce taux atteint les 60 % pour les produits en phase d'accélération.
+          {%- endcapture -%}
+          {% include transcription.html id="dashlord" title="Statistiques de présence sur l'outil Dashlord" alt=alt %}
         </div>
       </div>
       <div class="fr-grid-row fr-grid-row--gutters">
@@ -119,6 +131,10 @@ additional_js:
               class="graph h300" 
               title="Statistiques de conformité en accessibilité numérique des produits (description détaillée disponible ci-après)"
           ></iframe>
+          {%- capture alt -%}
+            Ce diagramme en barre indique le statut de conformité (non conforme, partiellement conforme ou non renseign) des produits, selon sa phase de vie. Le nombre de produits non audités réduit en phase de pérénisation. 
+          {%- endcapture -%}
+          {% include transcription.html id="conformite-rgaa" title="Statistiques de conformité en accessibilité numérique des produits" alt=alt %}
         </div>
       </div>
       <h2 id="administration">Montée en compétence de l'administration</h2>
@@ -129,14 +145,21 @@ additional_js:
           class="graph h300" 
           title="Statistiques sur les nouveaux membres, par année (description détaillée disponible ci-après)"
       ></iframe>
-      <p><a href="/communaute/" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Explorer la communauté</a></p>
-      <h2 id="network">Réseau d'incubateur</h2>
+      {%- capture alt -%}
+        Ce diagramme en barre indique le nombre de nouveaux membres (prestataires, indépendants ou agents publics) pour chaque année. Depuis 2021, au moins 300 prestataires et 150 agents publics nous rejoignent chaque année. 
+      {%- endcapture -%}
+      {% include transcription.html id="nouveaux-membres" title="Statistiques sur les nouveaux membres, par année" alt=alt %}
+      <h2 class="fr-mt-4w" id="network">Réseau d'incubateur</h2>
       <p>Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la création de leur propre structure d'incubation et d'exploitation de produits numériques.</p>
       <iframe
           src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/3a9c4d96-43e6-4b82-b44d-6f99cd9ca604"
           class="graph h800" 
           title="Statistiques sur les incubateurs du réseau, par phase (description détaillée disponible ci-après)"
       ></iframe>
+      {%- capture alt -%}
+        Ce diagramme en barre indique le nombre de produits pour chaque incubateur. Cela varie de 1 ou 2 produits pour les petits incubateurs à presque une cinquantaine pour les plus gros. 
+      {%- endcapture -%}
+      {% include transcription.html id="nouveaux-membres" title="Statistiques sur les incubateurs du réseau, par phase" alt=alt %}
       <div class="fr-grid-row fr-grid-row--gutters">
         <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
           <iframe
