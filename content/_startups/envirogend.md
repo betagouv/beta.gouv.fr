@@ -1,6 +1,6 @@
 ---
 mission: Aider les gendarmes à lutter contre les atteintes à l'environnement et à la santé publique
-incubator: lab-mi
+incubator: La Fabrique du MIOM
 title: EnviroGend
 contact: arthur.ribeiro-de-carvalho@gendarmerie.interieur.gouv.fr
 accessibility_status: non conforme

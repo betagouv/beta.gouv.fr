@@ -3,7 +3,7 @@ title: FEDEL-DM
 mission: Déclarer facilement sa manifestation sur la voie publique
 sponsors:
   - /organisations/interieur
-incubator: lab-mi
+incubator: La Fabrique du MIOM
 contact: contact@beta.interieur.gouv.fr
 usertypes:
   - particulier

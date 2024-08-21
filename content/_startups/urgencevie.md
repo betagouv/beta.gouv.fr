@@ -3,14 +3,18 @@ title: UrgenceVie
 mission: Sauver des vies en partageant les informations d'accès au logement
 sponsors:
   - /organisations/interieur
-incubator: lab-mi
+incubator: La Fabrique du MIOM
 contact: urgencevie@beta.gouv.fr
 stats: false
 phases:
   - name: investigation
     start: 2021-05-12
+  - name: alumni
+    start: 2024-08-21
 thematiques:
   - Santé
+usertypes: []
+techno: []
 ---
 # Les 10 minutes vitales perdues par les secours.
 

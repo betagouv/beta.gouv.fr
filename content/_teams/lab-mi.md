@@ -1,5 +1,5 @@
 ---
 name: Animation
-incubator: lab-mi
+incubator: La Fabrique du MIOM
 mission: ''
 ---
