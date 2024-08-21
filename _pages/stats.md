@@ -160,7 +160,7 @@ additional_js:
       {%- capture alt -%}
         Ce diagramme en barre indique le nombre de produits pour chaque incubateur. Cela varie de 1 ou 2 produits pour les petits incubateurs à presque une cinquantaine pour les plus gros. 
       {%- endcapture -%}
-      {% include transcription.html id="nouveaux-membres" title="Statistiques sur les incubateurs du réseau, par phase" alt=alt %}
+      {% include transcription.html id="produits-incubateurs" title="Statistiques sur les incubateurs du réseau, par phase" alt=alt %}
       <div class="fr-grid-row fr-grid-row--gutters">
         <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
           <iframe
