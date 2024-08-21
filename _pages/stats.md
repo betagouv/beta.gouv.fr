@@ -30,7 +30,7 @@ additional_js:
     </div>
     <!-- Content -->
     <div class="fr-col-12 fr-col-md-8">
-      <h2 id="snin">Produits à impact national</h2>
+      <h2 class="fr-mt-4w" id="snin">Produits à impact national</h2>
       <p>
       L'objectif principal du programme beta.gouv.fr est de :
       </p>
@@ -40,6 +40,7 @@ additional_js:
       <li>en ayant un <b>impact direct sur leur vie quotidienne</b>.</li>
       </ul>
       <p>Chaque année, nous dénombrons les services conçus dans le programme beta.gouv.fr ayant atteint un <a href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/services-numeriques-a-impact-national">impact national</a>.</p>
+      <p><a href="/startups/?national_impact=true" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir nos produits à impact national</a></p>
       <iframe
         src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/dc69430c-3929-4ca3-9d29-f6bb9f06c037"
         height="300"
@@ -50,10 +51,10 @@ additional_js:
       Le nombre de produits ayant atteint un impact national est en évolution constante. En 2023, nous avons surpassé notre objectif de 5 nouveaux produits atteignant l'impact national (6 produits ont atteint ce niveau).
       {%- endcapture -%}
       {% include transcription.html id="snin" title="Produits à impact national" alt=alt %}
-      <p><a href="/startups/?national_impact=true" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir nos produits à impact national</a></p>
-      <h2 id="launching">Nombre de produits lancés par an</h2>
+      <h2 class="fr-mt-4w" id="launching">Nombre de produits lancés par an</h2>
       <p>Cet indicateur suit le <b>nombre de nouveaux produits</b> ayant commencé une <b>phase de construction</b>, toutes administrations publiques confondues. Il donne une indication sur l'<b>évolution de la diffusion de l'approche Startups d'État</b> au sein du secteur public.
       </p>
+      <p><a href="/startups/#construction" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir les produits actuellement en construction</a></p>
       <iframe
       src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/0e1d0920-fdd9-4d92-82cc-f8685cc063c5"
       height="300"
@@ -64,8 +65,7 @@ additional_js:
       Le nombre de produits lancé chaque année est en évolution constante. Depuis 2020, nous atteignons quasiment notre objectif de 50 nouveaux produits par an.
       {%- endcapture -%}
       {% include transcription.html id="launch-per-year" title="Nombre de produits lancés par an" alt=alt %}
-      <p><a href="/startups/#construction" class="fr-link fr-link--icon-right fr-icon-arrow-right-line">Voir les produits actuellement en construction</a></p>
-      <h2 id="standards-qualite">Respect des standards de qualité</h2>
+      <h2 class="fr-mt-4w" id="standards-qualite">Respect des standards de qualité</h2>
       <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions <b>sobres, ouvertes, accessibles, protectrices, sécurisées</b>. Pour cela, beta.gouv.fr a fixé un certain nombre de <b>standards de qualité</b> dont certains sont suivis ci-dessous.</p>
       <div class="fr-grid-row fr-grid-row--gutters fr-py-2w">
         <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
