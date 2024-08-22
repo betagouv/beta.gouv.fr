@@ -134,17 +134,16 @@ layout: default
 </script>
 {%- include hero-page.html title=page.title -%}
 
-<div class="fr-container">
-    <div class="filters sticky incubator-header fr-mb-2w">
-        <div class="fr-container">
-            <div class="fr-input-group">
-                <label class="fr-label" for="select-incubateur">Filtrer par incubateur</label>
-                <select class="fr-select" id="select-incubateur">
-                    <option value="">Tous les incubateurs</option>
-                </select>
-            </div>
-        </div>
+<div class="filters sticky incubator-header fr-mb-2w fr-p-2w">
+    <div class="fr-input-group">
+        <label class="fr-label" for="select-incubateur">Filtrer par incubateur</label>
+        <select class="fr-select" id="select-incubateur">
+            <option value="">Tous les incubateurs</option>
+        </select>
     </div>
+</div>
+
+<div class="fr-container">
     <div class="fr-tabs">
         <ul class="fr-tabs__list" role="tablist" aria-label="Changer de vue">
             <li role="presentation">

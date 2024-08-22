@@ -12,7 +12,7 @@ title: Accessibilité
 - [Plan d'action 2024](/accessibilite/schema-pluriannuel#plan-2024)
 
 ## Déclaration d'accessibilité
-*Établie le 24 avril 2024.*
+*Établie le 21 août 2024.*
 
 Cette déclaration d’accessibilité s’applique au site **beta.gouv.fr**. 
 
@@ -30,22 +30,59 @@ L’audit de conformité au RGAA version 4.2 réalisé en août 2024 par la soci
 
 #### Non-conformités
 
-Nous souhaitons corriger ces défauts courant 2024 :
-
-- Les pages [Indicateurs](/stats) et [Communauté](/communaute/) affichent des graphiques sans alternatives textuelles (critère 4.8).
+Voici les non-conformités relevées par l'audit : 
+- La page [Communauté](/communaute/) affiche des graphiques sans alternatives textuelles (critère 4.8).
 - Notre [bilan 2023](https://beta.gouv.fr/content/docs/betagouv_presentation.pdf) sous forme de PDF ne possède pas de version accessible (critère 13.3).
-- La page [Indicateurs](/stats) n'utilise pas les feuilles de styles pour contrôler la présentation (critère 10.1).
-- L'[annuaire des membres](/communaute/annuaire) s'affiche avec un défilement horizontal pour une fenêtre ayant une largeur de 320px (critère 10.11)
+- Nos fiches produits, rédigées par des contributeurs, ne sont pas toujours correctement structurées par des titres (critère 9.1)
 - Certains contrastes entre couleur de texte et couleur d’arrière-plan ne sont pas suffisamment élevés (critère 3.2).
 - Certaines balises sont utilisées uniquement à des fins de présentation (critère 8.9).
-- Nos fiches produits, rédigées par des contributeurs, ne sont pas toujours correctement structurées par des titres (critère 9.1)
 - Certaines listes ne sont pas correctement structurées (critère 9.3).
 - Des informations ne sont pas compréhensibles lorsque les feuilles de styles sont désactivées (critère 10.3).
 - Des déclarations CSS de couleurs de fond et de police ne sont pas correctement utilisées (critère 10.5).
 
+Nous souhaitons les corriger courant 2024.
+
 #### Contenus non soumis à l’obligation d’accessibilité
 
 Les graphiques interactifs « Metabase » de la page [Indicateurs](/stats) ont été exemptés. Il n’a donc pas fait l’objet d’un audit complet et détaillé.
+
+#### Technologies utilisées pour la réalisation du site
+
+- HTML5
+- SVG
+- ARIA
+- CSS
+- JavaScript
+
+#### Environnement de test
+
+Les tests ont été effectués avec les combinaisons de navigateur web et lecteur d’écran suivantes :
+- Firefox 128.0.3 et NVDA 2024.2 sous Windows 11
+- Firefox 128.0.3 et JAWS 2023 sous Windows 11
+- Safari et VoiceOver sous macOS 14.5
+- Safari et VoiceOver sous iOS 17.5
+
+#### Outils pour évaluer l’accessibilité
+
+- Colour Contrast Analyser
+- Contrast Finder
+- Outils de développement Firefox
+- Web Developer (extension Firefox)
+
+#### Pages du site ayant fait l’objet de la vérification de conformité
+
+- [Accueil](/)
+- [Résultats d’une recherche](/recherche?q=public)
+- [Nous contacter](/contact)
+- [Mentions légales](/apropos)
+- [Accessibilité](/accessibilite)
+- [About us](/en/)
+- [Annuaire des membres](/communaute/annuaire)
+- [Indicateurs de beta.gouv.fr](/stats/)
+- [Découvrir le programme](/approche/)
+- [Réseau d'incubateurs](/incubateurs/)
+- [Détail d'une startup](/startups/signalement.html)
+- [Services numériques](/realisations/)
 
 ### Amélioration et contact
 
@@ -58,11 +95,19 @@ Nous essayons de répondre dans les 2 jours ouvrés.
 
 ### Voie de recours
 
-Cette procédure est à utiliser dans le cas suivant : vous avez signalé au responsable du site internet un défaut d’accessibilité qui vous empêche d’accéder à un contenu ou à un des services du portail et vous n’avez pas obtenu de réponse satisfaisante.
+Si vous avez identifié sur ce site web un manquement à la réglementation relative à l’accessibilité numérique (présence de défauts d'accessibilité, absence des obligations déclaratives, etc.) et que : 
+- Vous nous avez contacté pour nous en informer.
+- Vous n'avez pas reçu de réponse satisfaisante.
+Alors vous avez la possibilité de :
 
-Vous pouvez :
-- Écrire un message au [Défenseur des droits](https://formulaire.defenseurdesdroits.fr/)
-- Contacter le délégué du [Défenseur des droits dans votre région](https://www.defenseurdesdroits.fr/saisir/delegues)
-- Envoyer un courrier par la poste (gratuit, ne pas mettre de timbre) :
-    Défenseur des droits
-    Libre réponse 71120 75342 Paris CEDEX 07
+#### Contacter l'Arcom
+
+Afin de signaler un ou plusieurs manquement(s) à la réglementation relative à l’accessibilité numérique, rendez-vous sur le [formulaire de contact du site web de l'Arcom](https://www.arcom.fr/contact).
+
+#### Saisir le Défenseur des droits
+
+Pour faire valoir vos droits relatifs à des défauts d'accessibilité rencontrés, vous pouvez :
+- **Contacter le délégué de votre région** en passant par [l'annuaire des délégués du Défenseur des droits](https://www.defenseurdesdroits.fr/carte-des-delegues).
+- **Remplir le [formulaire de réclamation du Défenseur des droits](https://formulaire.defenseurdesdroits.fr/formulaire_saisine/)**, en choisissant les thématiques « Je suis victime de discrimination » puis « Biens et services privés » et enfin « Handicap ».
+- **Envoyer un courrier gratuit** (sans mettre de timbre) par la poste à l'adresse suivante :
+Défenseur des droits, Libre réponse 71120, 75342 Paris CEDEX 07

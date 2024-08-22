@@ -219,12 +219,12 @@ layout: default
       {%- assign transfered=page.phases | where: 'name', 'transfer' | first %}
       {%- assign succeeded=page.phases | where: 'name', 'success' | first %}
       {%- assign finished=page.phases | where: 'name', 'alumni' | first %}
-      {% if investigated %}<div class="active"><b>Investigation</b><br/>{{ investigated.start | french_long_date }}</div>{% else %}<div><b>Investigation</b></div>{% endif %}
-      {% if constructed %}<div class="active"><b>Construction</b><br/>{{ constructed.start | french_long_date }}</div>{% elsif finished==nil %}<div><b>Construction</b></div>{% endif %}
-      {% if accelerated %}<div class="active"><b>Accélération</b><br/>{{ accelerated.start | french_long_date }}</div>{% elsif finished==nil %}<div><b>Accélération</b></div>{% endif %}
-      {% if transfered %}<div class="active"><b>Transfert</b><br/>{{ transfered.start | french_long_date }}</div>{% elsif succeeded==nil and  finished==nil %}<div><b>Transfert</b></div>{% endif %}
-      {% if succeeded %}<div class="success"><b>Pérennisé</b><br/>{{ succeeded.start | french_long_date }}</div>{% elsif finished==nil %}<div><b>Pérennisé</b></div>{% endif %}
-      {% if finished %}<div class="finished"><b>Partenariat terminé</b><br/>{{ finished.start | french_long_date }}</div>{% endif %}
+      {% if investigated %}<p class="active"><b>Investigation</b><br/>{{ investigated.start | french_long_date }}</p>{% else %}<p><b>Investigation</b></p>{% endif %}
+      {% if constructed %}<p class="active"><b>Construction</b><br/>{{ constructed.start | french_long_date }}</p>{% elsif finished==nil %}<p><b>Construction</b></p>{% endif %}
+      {% if accelerated %}<p class="active"><b>Accélération</b><br/>{{ accelerated.start | french_long_date }}</p>{% elsif finished==nil %}<p><b>Accélération</b></p>{% endif %}
+      {% if transfered %}<p class="active"><b>Transfert</b><br/>{{ transfered.start | french_long_date }}</p>{% elsif succeeded==nil and  finished==nil %}<p><b>Transfert</b></p>{% endif %}
+      {% if succeeded %}<p class="success"><b>Pérennisé</b><br/>{{ succeeded.start | french_long_date }}</p>{% elsif finished==nil %}<p><b>Pérennisé</b></p>{% endif %}
+      {% if finished %}<p class="finished"><b>Partenariat terminé</b><br/>{{ finished.start | french_long_date }}</p>{% endif %}
     </div>
     {% endif %}
   </div>
