@@ -30,14 +30,10 @@ L’audit de conformité au RGAA version 4.2 réalisé en août 2024 par la soci
 
 #### Non-conformités
 
-Voici les non-conformités relevées par l'audit : 
-- La page [Communauté](/communaute/) affiche des graphiques sans alternatives textuelles (critère 4.8).
+Voici les non-conformités relevées par l'audit, n'ayant pas encore été corrigées : 
 - Notre [bilan 2023](https://beta.gouv.fr/content/docs/betagouv_presentation.pdf) sous forme de PDF ne possède pas de version accessible (critère 13.3).
 - Nos fiches produits, rédigées par des contributeurs, ne sont pas toujours correctement structurées par des titres (critère 9.1)
-- Certains contrastes entre couleur de texte et couleur d’arrière-plan ne sont pas suffisamment élevés (critère 3.2).
-- Certaines balises sont utilisées uniquement à des fins de présentation (critère 8.9).
 - Certaines listes ne sont pas correctement structurées (critère 9.3).
-- Des informations ne sont pas compréhensibles lorsque les feuilles de styles sont désactivées (critère 10.3).
 - Des déclarations CSS de couleurs de fond et de police ne sont pas correctement utilisées (critère 10.5).
 
 Nous souhaitons les corriger courant 2024.
