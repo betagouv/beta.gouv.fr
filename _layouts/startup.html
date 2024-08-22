@@ -144,6 +144,7 @@ layout: default
               {% capture link_bonnes_pratiques %}
               <li>
                 <a class="fr-link fr-icon-info-line fr-link--icon-left"
+                  role="link"
                   {% if page.dashlord_url %}href="{{page.dashlord_url }}"{% endif %}
                   aria-disabled="{% if page.dashlord_url %}false{% else %}true{% endif %}"
                   >Suivi des bonnes pratiques
