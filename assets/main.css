@@ -70,6 +70,10 @@ main .fr-container img {
   color: #4941c0;
 }
 
+#about {
+  border: 1px solid var(--light-border-default-grey, #E5E5E5);
+}
+
 /* Couleurs de sections et espacemements */
 .section-grey {
   background-color: #e9e6fc;

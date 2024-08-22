@@ -43,7 +43,8 @@ layout: default
       </div>
       <div class="fr-col-md-4">
         <!-- INFO -->
-        <div class="fr-py-4w fr-px-4w fr-mt-3w" style="border: 1px solid var(--light-border-default-grey, #E5E5E5);">
+        <div id="about" class="fr-py-4w fr-px-4w fr-mt-3w">
+          <h2>À propos</h2>
           <p>
             {% if phase.status == 'success' %}
               <b>{{ page.title }}</b> a été portée par <a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
