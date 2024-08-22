@@ -66,9 +66,17 @@ main .fr-container img {
   width: 100%;
 }
 
+/* Hero header */
 .hero__startup__mission {
   color: #4941c0;
 }
+/* Move badges before heading */
+.hero__startup-text {
+  display: flex;
+  flex-direction: column;
+}
+.hero__startup-text > * { order: 1; }
+.hero__startup-text > .fr-badge { order: 0; }
 
 #about {
   border: 1px solid var(--light-border-default-grey, #E5E5E5);
