@@ -28,7 +28,7 @@ usertypes:
 techno: []
 dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/tacct
 ---
-# Contexte
+## Contexte
 
 Les collectivités locales sont aux avant-postes de la transition écologique en France. Avec des compétences transverses, elles jouent tour à tour un rôle de financeur, médiateur, organisateur, quand elles ne sont pas elles-mêmes commanditaires de projets à impact.
 
@@ -36,9 +36,7 @@ Depuis 2018, les établissements publics de coopération intercommunale (EPCI) d
 
 Cette première représentation locale de la problématique climatique sur le territoire pourrait être une opportunité réelle pour les collectivités de prendre conscience des enjeux et de favoriser l'émergence de visions alternatives pour le territoire. Pourtant, la mise en conformité avec la réglementation prime sur l'élaboration de stratégies de transition concertées : le diagnostic est alors considéré comme une opération technique, souvent réalisée par une entreprise externe à la collectivité.
 
-
-
-# Problème
+## Problème
 
 Du fait que les effets du changement climatique sont ressentis au niveau local, on pourrait penser que les enjeux d’adaptation sont bien identifiés et appropriés. Ce n’est pourtant pas le cas : les diagnostics sont fortement standardisés… Enjeux “désincarnés” et volets adaptation “génériques” débouchent sur des stratégies “hors sol”.
 
@@ -46,9 +44,7 @@ C’est pourtant sur la base d’un diagnostic exposant clairement les enjeux du
 
 Dans ce cadre, Facili-TACCT, notre solution vise à aider **l’ensemble des parties prenantes à mieux s’approprier leur diagnostic de vulnérabilité.**
 
-
-
-# Solution
+## Solution
 
 **Facili-TACCT s’adresse aux chargé.e.s de mission climat dans les collectivités** qui :
 
@@ -68,8 +64,6 @@ Pour se faire, Facili-TACCT :
 * prendra la forme d’un **outil de réflexion sur les thématiques d’adaptation des territoires**.
 * apportera des **données socio-économiques clés mises en valeur et contextualisées** à chaque territoire.
 * mobilisera les chargés de mission climat dans une **communauté de pratique dédiée à l’adaptation** au changement climatique des territoires.
-
-
 
 *—*
 

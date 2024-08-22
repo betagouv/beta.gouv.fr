@@ -1,6 +1,6 @@
 ---
 mission: Aider les gendarmes à lutter contre les atteintes à l'environnement et à la santé publique
-incubator: miom
+incubator: dinum
 title: EnviroGend
 contact: arthur.ribeiro-de-carvalho@gendarmerie.interieur.gouv.fr
 accessibility_status: non conforme
@@ -9,6 +9,9 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-04-26
+thematiques: []
+usertypes: []
+techno: []
 ---
 ## Contexte
 

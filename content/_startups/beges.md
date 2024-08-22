@@ -17,12 +17,16 @@ phases:
     end: 2024-02-06
   - name: alumni
     start: 2024-02-06
+thematiques: []
+techno: []
 ---
 ## Contexte
+
 Le bilan carbone des collectivités est une obligation mais après ? Les collectivités sont démunies face à cette obligation et ne voient pas la valeur de faire cet exercice qualitativement pour ensuite orienter au mieux des actions.
 Comment réaliser cet exercice avec une méthode publique et s'en servir pour avoir de l'impact ?
 
 ## Hypothèses de l'investigation
+
 A l’issue de l’expérimentation GESI en IDF en 2018, les collectivités semblaient se heurter à 3 principaux freins pour la réalisation de BEGES : ​
 * Le défaut de volonté politique interne ​
 * Le défaut de compétence technique des services ​
@@ -33,6 +37,7 @@ Ces 3 freins interagissent entre eux et ralentissent notamment la collecte des d
 Solution identifiée : développer un service public numérique fournissant en quelques clics le BEGES-T et, par un accompagnement par des professionnels de l’APCC (Climat Mundi, Inddigo, Greenly, Vizea, Ecoact, etc.), le BEGES-R de toutes les collectivités de France, depuis la commune jusqu’à la région
 
 ## Nos apprentissages
+
 L'investigation a commencé par un approfondissement du cadre règlementaire, qui se répartit en deux obligations distinctes, un Bilan Carbone dit réglementaire, et un Bilan Carbone dit Territorial, inscrits dans deux exercices disjoints :
 
 * BEGES-R (réglementaire, « patrimoine & compétences ») ​: Obligatoire pour les collectivités de plus de 50 000 habitants​. Inclut les émissions indirectes significatives (« scope 3 ») depuis le 1er janvier 2023 (article 2 du décret n°2022-982).​Sanction en cas de non-réalisation de 10 000 € (jusqu’à 20 000 € en cas de récidive)​
@@ -49,7 +54,7 @@ L'état des lieux est le suivant :
 * Les 4 principaux bénéfices à la réalisation des BEGES-R sont 1) la réduction des GES et consommations d’énergie, 2) la sensibilisation aux enjeux, 3) la contribution à la stratégie de décarbonation et 4) l’image / exemplarité.​
 * La valeur ajoutée des prestataires se situe aussi (et surtout) dans l’analyse du BEGES et l’élaboration du plan d’actions
 
-# Conclusion
+## Conclusion
 Les principaux irritants mise en lumière justifient la nécessité de créer deux modules distincts constituant une solution numérique :
 * Module BEGES-T : Utilisateur : chargé de mission PCAET en collectivité​ ; Proposition de Valeur : calcul simplifié du BEGES-T, visualisations des postes d'émissions de la collectivité​ ; Evolution future : outils de visualisation permettant d’engager le débat avec les acteurs du territoire
 
