@@ -10,5 +10,5 @@ missions:
     startups:
       - covoit-scelles
 startups:
-  - covoit'scelles
+  - covoit-scelles
 ---
