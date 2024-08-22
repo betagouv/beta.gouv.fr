@@ -387,8 +387,14 @@ ul li p {
   text-align: center;
 }
 
+.section-principle ul { list-style-type: numeric; }
+.section-principle ::marker { 
+  font-weight: bold;
+  font-size: 3.5em;
+}
 .section-principle-list-item {
   margin-bottom: 3em;
+  margin-left: 3em;
 }
 
 .section-principle-animation {
