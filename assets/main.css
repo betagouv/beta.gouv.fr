@@ -501,6 +501,10 @@ mark {
   margin-bottom: 3rem;
 }
 
+.search-results ul {
+  list-style-type: none;
+}
+
 #realisations .hero-section img {
   max-height: 12.5rem;
   object-fit: contain;
