@@ -3,7 +3,7 @@ title: CandiLib
 mission: Réserver simplement sa place d'examen pratique au permis de conduire
 sponsors:
   - /organisations/dsr
-incubator: lab-mi
+incubator: miom
 phases:
   - name: investigation
     start: 2018-04-01

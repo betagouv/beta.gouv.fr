@@ -3,7 +3,7 @@ title: PSIJ
 mission: Systématiser la recherche d'indices et traces
 sponsors:
   - /organisations/interieur
-incubator: lab-mi
+incubator: miom
 contact: psij@labmi.fr
 stats: false
 phases:

@@ -3,11 +3,16 @@ title: Dialogue opérationnel
 mission: Faciliter la concertation et la remontée des besoins collectifs et individuels des agents de la police nationale
 sponsors:
   - /organisations/igpn
-incubator: lab-mi
+incubator: miom
 contact: igpn-mission-appui-conseil@interieur.gouv.fr
 phases:
   - name: investigation
     start: 2021-09-13
+  - name: alumni
+    start: 2024-08-21
+thematiques: []
+usertypes: []
+techno: []
 ---
 # 2016 : le mouvement des policiers en colère
 

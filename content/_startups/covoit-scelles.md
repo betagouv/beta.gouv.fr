@@ -1,19 +1,23 @@
 ---
+contact: contact@beta.interieur.gouv.fr
+stats: false
+usertypes:
+  - etat
 title: Covoit'Scellés
 mission: Faciliter le co-voiturage de scellés pour la Police et la Gendarmerie
+incubator: miom
 sponsors:
   - /organisations/interieur
-incubator: lab-mi
 phases:
   - name: investigation
+    comment: null
     start: 2019-11-05
     end: 2020-06-08
   - name: alumni
+    comment: null
     start: 2020-06-08
-stats: false
-contact: contact@beta.interieur.gouv.fr
-usertypes:
-  - etat
+    end: null
+events: []
 ---
 ## Le gaspillage du transport de scellés.
 
