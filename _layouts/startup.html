@@ -76,7 +76,7 @@ layout: default
                   Code source
                 </a>
                 {% else %}
-                <a class="fr-link fr-link--icon-left fr-icon-github-fill" aria-disabled="true" >
+                <a class="fr-link fr-link--icon-left fr-icon-github-fill" role="link" aria-disabled="true" >
                   Code source (non disponible)
                 </a>
                 {% endif %}
@@ -94,7 +94,7 @@ layout: default
                   Budget
                 </a>
                 {% else %}
-                <a class="fr-link fr-icon-money-euro-circle-line fr-link--icon-left" aria-disabled="true" >
+                <a class="fr-link fr-icon-money-euro-circle-line fr-link--icon-left" role="link" aria-disabled="true" >
                   Budget (non disponible)
                 </a>
               </li>
@@ -112,7 +112,7 @@ layout: default
                   Statistiques d'usage
                 </a>
                 {% else %}
-                <a class="fr-link fr-link--icon-left fr-icon-line-chart-line" aria-disabled="true">
+                <a class="fr-link fr-link--icon-left fr-icon-line-chart-line" role="link" aria-disabled="true">
                   Statistiques d'usage (non disponible)
                 </a>
                 {% endif %}
@@ -127,6 +127,7 @@ layout: default
               <li>
                 <a class="fr-link fr-icon-warning-line fr-link--icon-left"
                   {% if page.analyse_risques_url %}href="{{page.analyse_risques_url }}"{% endif %}
+                  role="link" 
                   aria-disabled="{% if page.analyse_risques_url %}false{% else %}true{% endif %}"
                 >
                 Analyse de risque
