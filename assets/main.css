@@ -304,7 +304,8 @@ ul li p {
 
 /* START SECTION CLASS */
 .section-blue {
-  background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%), linear-gradient(0deg, #00006d, #00006d);
+  background-image: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%), linear-gradient(0deg, #00006d, #00006d);
+  background-color: #4941C0;
 }
 
 .section-white h2 {
