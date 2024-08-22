@@ -10,14 +10,10 @@ sponsors:
   - /organisations/interieur
 phases:
   - name: investigation
-    comment: null
     start: 2019-11-05
     end: 2020-06-08
   - name: alumni
-    comment: null
     start: 2020-06-08
-    end: null
-events: []
 ---
 ## Le gaspillage du transport de scellés.
 

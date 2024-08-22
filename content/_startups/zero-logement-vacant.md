@@ -30,6 +30,7 @@ usertypes:
   - collectivite-territoriale
   - etat
 mon_service_securise: true
+techno: []
 ---
 ## Faire de la vacance structurelle une ressource pour les territoires
 
@@ -78,10 +79,10 @@ L'outil a d'autres externalités positives sur la ZAN et les économies carbone 
 * Nombre de visites par mois ;
 * Nombre d'exports réalisés.
 
-# Objectif 2 : ZLV comme outil d'administration partagé du parc privé
+## Objectif 2 : ZLV comme outil d'administration partagé du parc privé
 * Nombre de mises à jour de fiches logement & propriétaire
 * Bases de données intégrées (Lovac millésime 2024, DPE/BDNB, RNIC, CoproFF, etc.)
 
-# Objectif 3 : engager des collectivités dans la lutte
+## Objectif 3 : engager des collectivités dans la lutte
 * Nombre d'organisations inscrites à ZLV
 * Taux d'utilisateurs qui se sont connectés à ZLV dans le 3 derniers mois
