@@ -75,8 +75,7 @@ main .fr-container img {
   display: flex;
   flex-direction: column;
 }
-.hero__startup-text > * { order: 1; }
-.hero__startup-text > .fr-badge { order: 0; }
+.hero__startup-text > .fr-badge { order: -1; }
 
 #about {
   border: 1px solid var(--light-border-default-grey, #E5E5E5);
