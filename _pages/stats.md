@@ -117,7 +117,7 @@ additional_js:
               title="Statistiques de conformité en accessibilité numérique des produits (description détaillée disponible ci-après)"
           ></iframe>
           {%- capture alt -%}
-            Ce diagramme en barre indique le statut de conformité (non conforme, partiellement conforme ou non renseign) des produits, selon sa phase de vie. Le nombre de produits non audités réduit en phase de pérénisation. 
+            Ce diagramme en barre indique le statut de conformité (non conforme, partiellement conforme ou non renseigné) des produits, selon leur phase de vie. Le nombre de produits non audités réduit en phase de pérénisation. 
           {%- endcapture -%}
           {% include transcription.html id="conformite-rgaa" title="Statistiques de conformité en accessibilité numérique des produits" alt=alt %}
       </div>
