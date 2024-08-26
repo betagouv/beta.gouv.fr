@@ -15,12 +15,9 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2024-09-02
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-09-02
 ---
 Ce produit est en investigation. 
