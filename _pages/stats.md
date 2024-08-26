@@ -104,7 +104,7 @@ additional_js:
               title="Statistiques de présence sur l'outil Dashlord (description détaillée disponible ci-après)"
           ></iframe>
           {%- capture alt -%}
-            Ce diagramme en barre indique le nombre de produits suivant leurs bonnes pratiques sur Dashlord, selon sa phase de vie. Ce taux atteint les 60 % pour les produits en phase d'accélération.
+            Ce diagramme en barre indique le nombre de produits suivant leurs bonnes pratiques sur Dashlord, selon leur phase de vie. Ce taux atteint les 60 % pour les produits en phase d'accélération.
           {%- endcapture -%}
           {% include transcription.html id="dashlord" title="Statistiques de présence sur l'outil Dashlord" alt=alt %}
       </div>
