@@ -1,7 +1,7 @@
 ---
 mission: Interroger à l'aveugle deux modèles de language conversationnels sur des tâches exprimées en français et comparer les résultats.
 incubator: culture
-title: Arène LANGU:IA
+title: Comparateur LANGU:IA
 contact: contact@languia.beta.gouv.fr
 accessibility_status: non conforme
 phases:

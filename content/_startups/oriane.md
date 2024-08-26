@@ -12,15 +12,11 @@ techno: []
 title: ORIANE
 mission: Systématiser le management de la qualité au sein de la DGA (MinArm)
 incubator: fabnumdef
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2024-04-08
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-08-23
 ---
 ## Contexte
@@ -40,7 +36,7 @@ Ce processus est jugé inefficace et causant une perte de temps pour l'ensemble 
 
 ## Solution
 
-Après une phase de prototypage menée en interne et fondée sur une vision "outil", la DGA souhaite investiguer plus largement le sujet du reporting en intégrant une étude de l'expérience vécue par les différents maillons de la "chaîne" qualité (COMEX, managers de centres, experts, agents qualité...).
+Après une phase de prototypage menée en interne à partir d'un "outil" (Sharepoint), la DGA souhaite investiguer plus largement le sujet du reporting en intégrant une étude de l'expérience vécue par les différents maillons de la "chaîne" qualité (COMEX, managers de centres, experts, agents qualité...).
 
 L'investigation doit également porter sur les dimensions d'utilité, de cohérence et de pénibilité posées par la mise en œuvre des processus qualité (recueil, traitement et consommation des indicateurs) et identifier de nouvelles "manières de faire" grâce au numérique.
 
@@ -49,10 +45,9 @@ L'investigation doit également porter sur les dimensions d'utilité, de cohére
 * Comprendre les motivations et les freins rencontrés par les différents maillons de la "chaîne" qualité au sein de la DGA.
 * Analyser les processus de redescente des objectifs stratégiques, de traduction en plans d'actions et d'organisation du suivi (remontée d'indicateurs).
 * Identifier les irritants majeurs et les opportunités liées à de nouvelles manières de faire.
-* Conduire une phase de prototypage permettant de tester et évaluer de nouveaux processus de management de la qualité.
 
 ## Chronologie
 
-**Etape 1 (mars à mai 2024)** : investigation
+**Etape 1 (mars à mai 2024)** : investigation axée sur l'existant
 
-**Etape 2 (juin à septembre 2024)**: prototypage
+**Etape 2 (juin à septembre 2024)**: prolongation de l'investigation autour des pratiques des acteurs du processus qualité 
