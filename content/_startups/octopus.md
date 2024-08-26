@@ -52,4 +52,4 @@ Les personnels de l'escadre veulent travailler plus efficacement avec un outil p
 
 **étape 8 :** (juillet 2022) itération 2 - retours utilisateurs et nouvelles fonctionnalités
 
-**étape 9 : **(depuis janvier 2023) travail avec la DSI sur le devenir du produit
+**étape 9 :** (depuis janvier 2023) travail avec la DSI sur le devenir du produit

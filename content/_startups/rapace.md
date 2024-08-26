@@ -15,15 +15,11 @@ techno: []
 title: RAPACE
 mission: Téléassistance médicale en réalité mixte
 incubator: fabnumdef
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2024-01-15
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-08-23
 ---
 
