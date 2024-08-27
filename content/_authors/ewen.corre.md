@@ -6,7 +6,7 @@ competences: []
 missions:
   - start: 2024-09-02
     end: 2027-09-01
-    employer: Res-Humana
+    employer: gip-inclusion
     status: admin
     startups:
       - les-emplois
