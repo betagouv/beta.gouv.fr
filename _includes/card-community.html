@@ -45,9 +45,9 @@
           {%- unless include.hide_details -%}
             {% assign author_content = author.content | strip_newlines | size %}
             {% if author_content > 0 %}
-            <p class="fr-card__desc">
-              {{ author.content | strip_html }}
-            </p>
+              <p class="fr-card__desc">
+                {{ author.content | strip_html }}
+              </p>
             {%- endif -%}
 
             {% assign previously = author.previously | default: empty_array %}
