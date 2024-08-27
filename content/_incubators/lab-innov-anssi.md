@@ -9,6 +9,6 @@ contact: lab-innov@ssi.gouv.fr
 address: 51 bd de la Tour Maubourg, Paris 17e
 highlighted_startups:
     - homologation
-    - MonAideCyber
-    - NIS2
+    - mon-aide-cyber
+    - nis2
 ---
