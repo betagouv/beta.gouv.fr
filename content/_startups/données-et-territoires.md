@@ -54,7 +54,7 @@ Données et Territoires intervient dans le but d'aider à faciliter la remontée
 
 ## Quels sont les outils mis à disposition par Données et Territoires ?
 
-Ces outils sont assez nombreux mais nous en dégageons 3 principaux :
+Ces outils sont assez nombreux mais nous en dégageons 4 principaux :
 - [**Grist**](https://getgrist.com) : il s'agit non seulement d'un puissant tableur collaboratif en ligne et open-source, mais également d'un outil de [no-code](https://fr.wikipedia.org/wiki/D%C3%A9veloppement_No_code) mettant à disposition une palette de widgets (calendrier, carte avec emplacements, wiki, ...) simples à mettre en place. L'incubateur propose 2 instances auto-hebergées en France de ce service, à destination des agents publics ;
  - **inSITu** : il s'agit d'un ETL récupérant les données de différentes sources pour les normaliser et les agréger dans sa base de données ;
  - [**Le catalogue d'indicateurs**](https://catalogue-indicateurs.donnees.incubateur.anct.gouv.fr/) : qui vous permet en quelques clics d'afficher les indicateurs pour tous les programmes de l'ANCT, et ce que vous soyez agent de la fonction publique ou non ;
