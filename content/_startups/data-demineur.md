@@ -17,12 +17,9 @@ sponsors:
   - /organisations/direction-generale-de-la-securite-civile-et-de-la-gestion-de-crises
 phases:
   - name: investigation
-    comment: null
     start: 2023-11-13
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2024-07-04
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 

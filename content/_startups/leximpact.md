@@ -22,8 +22,10 @@ phases:
     end: 2020-01-03
   - name: success
     start: 2020-01-03
+thematiques: []
+techno: []
 ---
-# Le problème
+## Le problème
 
 Chaque année, toute ou partie de la population française est concernée par des changements fiscaux, hérités de modifications législatives régulières.
 
@@ -35,7 +37,7 @@ Enfin, au delà du manque de moyens général et en raison du calendrier législ
 
 C'est pourquoi, là où le Parlement détient une expertise politique et juridique, LexImpact souhaite apporter un soutien en chiffrage, permettant de vérifier, dans une certaine mesure, la corrélation entre la vision politique souhaitée et les impacts sur la population française.
 
-# Le produit
+## Le produit
 
 **LexImpact est une interface qui permet d’estimer, en quelques secondes, l'impact des réformes paramétriques** sur : 
 
@@ -49,7 +51,7 @@ C'est pourquoi, là où le Parlement détient une expertise politique et juridiq
 **Le code de LexImpact est libre**, sous licence AGPL-3.0, et peut donc être vérifié et amélioré par toutes et tous. Ce code source est disponible sur Gitlab, pour y accéder, rendez-vous sur la [rubrique "Un projet open source" de notre page "À propos"](https://leximpact.an.fr/a-propos).\
 **Pour en savoir plus sur le fonctionnement de nos simulateurs**, vous pouvez [consulter cette page](https://leximpact.an.fr/comment-fonctionnent-les-simulateurs).
 
-# Les prochaines étapes
+## Les prochaines étapes
 
 Le défi LexImpact est pérennisé à l'Assemblée nationale depuis 2020. Ceci est acté par [décision de Questure au 12 décembre 2019](http://www2.assemblee-nationale.fr/15/le-college-des-questeurs/releves-des-decisions/2019/decisions-de-questure-de-la-reunion-du-12-decembre-2019).
 
