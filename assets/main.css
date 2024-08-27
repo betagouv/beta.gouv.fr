@@ -585,3 +585,17 @@ mark {
 .startup-timeline > p.finished {
   border-color: var(--background-action-low-red-marianne);
 }
+
+
+/* Mise en page des graphiques Metabase sur la page Stats */
+iframe.graph {
+  width: 100%; 
+  border: 0; 
+  background-color: transparent;
+}  
+iframe.graph.h300 {
+  height: 300px;    
+}
+iframe.graph.h800 {
+  height: 800px;    
+}
