@@ -9,4 +9,7 @@ missions:
     employer: ANCT
     startups:
       - infrastructures.numeriques
+link: https://www.linkedin.com/feed/
+competences:
+  - Intrapreneur(se)
 ---

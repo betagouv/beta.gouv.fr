@@ -10,7 +10,7 @@ missions:
     startups:
       - accesscite
   - start: 2024-04-19
-    end: 2024-07-19
+    end: 2024-10-31
     status: service
     employer: NUMA
     startups:

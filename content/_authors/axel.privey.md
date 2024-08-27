@@ -11,7 +11,7 @@ missions:
     startups:
       - sndv_maritime
   - start: 2024-04-22
-    end: 2024-06-30
+    end: 2024-06-21
     status: admin
     employer: Agence Nationale des Données de Voyage
     startups:
@@ -22,4 +22,6 @@ competences:
   - Intrapreneur
   - Gestion de produit
   - Gestion de système d'information
+  - Product strategy
+  - Droit / Affaires juridiques
 ---

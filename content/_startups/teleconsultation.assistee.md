@@ -9,6 +9,9 @@ phases:
     end: 2024-01-01
   - name: alumni
     start: 2024-01-01
+thematiques: []
+usertypes: []
+techno: []
 ---
 ## Contexte
 ### *Quel problème de politique publique cherchons-nous à adresser ?*
@@ -23,7 +26,7 @@ Il y a un véritable enjeu de lutter contre le renoncement aux soins et les iné
 
 Une vive inquiétude/peur de la part des patients, une surcharge mentale et professionnelle des médecins et des infirmiers, la crainte des IDE en matière de responsabilité juridique (actes réalisés sans la supervision des médecins), la colère des élus quant à la situation médicale contextuelle
 
-# Les usagers
+## Les usagers
 
 ### *À qui nous nous adressons ?*
 
@@ -69,7 +72,7 @@ Les cibles concernées sont :
 
 🚩Problème d’accessibilité (wifi) 
 
-# **Les sujets à débloquer**
+## **Les sujets à débloquer**
 
 ### *Que devons-nous apprendre sur les problèmes des usagers pour être en mesure de proposer une solution utile et pertinente ?*
 
@@ -97,7 +100,7 @@ L’équipement : Quid de son homogénisation, l’accessibilité à la formatio
 
 La sacralisation de l’outil TLCA - l’appréhension d’utilisé un matériel innovant et numérique ?
 
-# Le terrain
+## Le terrain
 
 ### *Où et comment rencontrer nos premiers usagers pour mieux comprendre le(s) problème(s) à résoudre et envisager des hypothèses de solutions ?*
 
@@ -112,7 +115,7 @@ La sacralisation de l’outil TLCA - l’appréhension d’utilisé un matériel
 ## Solution
  La solution envisagée est de créer une application numérique à destination des IDE/IDEL qui permettrait de faciliter l’accès à du matériel de TLC assistée et de visualiser l’offre en téléconsultation afin de répondre à une demande de prise en charge médicale à domicile ou en établissement médico-social dans les zones prioritaires.
 
-# L’équipe
+## L’équipe
 
 Rattachée à la Délégation Territoriale Meurthe-et-Moselle de l’ARS GRAND EST, Sabrina Heisdorf-Valence - Référente Territoriale - est en charge de structurer et de développer l’offre de soins sur les territoires prioritaires de Longwy et Briey.
 

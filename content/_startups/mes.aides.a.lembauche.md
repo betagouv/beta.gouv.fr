@@ -23,14 +23,16 @@ phases:
 analyse_risques: true
 thematiques:
   - Travail / Emploi
+usertypes: []
+techno: []
 ---
-# **Contexte :**
+## Contexte
 
 Mes aides à l'embauche est un projet issu du challenge des intrapreneurs Pôle emploi 2021 et est un service en développement hybride avec la DSI de Nantes et l'incubateur de Pôle emploi.
 
 Les cibles sont les recruteurs et en priorité les TPME.  
 
-# **Problème** :
+## Problème
 
 Les employeurs savent de manière générale que des aides existent mais ne savent pas si leur projet de recrutement d’un candidat est éligible. 
 
@@ -45,25 +47,26 @@ L’éligibilité d’un recrutement à une aide est un triptyque (employeur/con
 
 De plus, il y a un enjeu financier et un employeur voudra toujours vérifier l’information avec un humain 
 
-# **Solution :**
+## Solution
 
-### Le détecteur vs les simulateurs :
+### Le détecteur vs les simulateurs
 
 * Un parcours hybride (numérique et physique) ; 
 * Pas de maintien de nom d’aide, de montant, de pourcentage, de durée de prise en charge ;
 * Une réponse binaire oui/non ;
 * Un humain qui assure le dernier km.
 
-1. ##### Pour les employeurs :
+#### Pour les employeurs
 
-   Fini de se perdre dans la jungle des aides, de chercher pendant des heures !
+Fini de se perdre dans la jungle des aides, de chercher pendant des heures !
 
-   En 2 minutes vous savez si oui ou non votre recrutement peut être aidé financièrement. Si oui, pour vous le travail est terminé, un conseiller vous appelle dans les 48h pour vous dire le nom de l’aide, les montants, la procédure à suivre… 
-2. ##### Pour les prescripteurs : 
+En 2 minutes vous savez si oui ou non votre recrutement peut être aidé financièrement. Si oui, pour vous le travail est terminé, un conseiller vous appelle dans les 48h pour vous dire le nom de l’aide, les montants, la procédure à suivre… 
 
-   Fini les plans d’actions à l’aveugle, le détecteur vous ramène les recrutements de publics prioritaires éligibles aux aides. 
+#### Pour les prescripteurs
 
-# Stratégie :
+Fini les plans d’actions à l’aveugle, le détecteur vous ramène les recrutements de publics prioritaires éligibles aux aides. 
+
+## Stratégie
 
 La stratégie d’acquisition est actuellement en test sur :
 

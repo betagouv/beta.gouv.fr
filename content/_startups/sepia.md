@@ -11,10 +11,14 @@ phases:
     start: 2020-01-25
   - name: transfer
     start: 2022-09-01
+  - name: alumni
+    start: 2024-08-21
 usertypes:
   - etat
 stats: false
 contact: mathieu.mahr@beta.gouv.fr
+thematiques: []
+techno: []
 ---
 ## Contexte 
 24h/24 et 7j/7, l’Armée de l’air assure une mission de police du ciel en surveillant les 11 000 aéronefs qui transitent quotidiennement par l’espace aérien français. Sa mission : détecter, identifier et si besoin intercepter tout intrus, afin de faire respecter la souveraineté nationale et de défendre notre territoire contre toute menace venant des airs.

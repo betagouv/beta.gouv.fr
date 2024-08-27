@@ -32,7 +32,7 @@ techno: []
 ---
 Pour répondre aux exigences du droit du travail, **les employeurs ont l’obligation de suivre le temps de travail de leurs conducteurs**. Dans le secteur des transports routiers, les conducteurs étant mobiles, le décompte de leur temps de travail ne peut pas se faire au siège de leur entreprise. Il est donc fait par les conducteurs à l’aide d’un dispositif qu’ils emportent avec eux.
 
-# Les problèmes actuels
+## Les problèmes actuels
 
 Dans le secteur du transport routier léger (véhicules utilitaires légers (VUL)  de moins de 3.5 tonnes ou de moins de 9 places), **le respect du temps de travail des personnels roulants est historiquement contrôlé au moyen du livret individuel de contrôle (LIC)** au format papier, en application du code des transports.
 
@@ -54,7 +54,7 @@ Cette non-utilisation a des conséquences fortes :
 
 Le recours aux VUL explose (+6,5% d’immatriculations en France en 2019 selon l’association des constructeurs européens d’automobiles), car ils ne sont pas soumis à la réglementation applicable aux poids lourds de plus de 3,5 tonnes ce qui les rend plus compétitifs, ce qui accentue le problème constaté.
 
-# Solution
+## Solution
 
 Notre mission est de lutter contre le travail illégal dans le transport routier léger. Notre stratégie pour y parvenir ? Faciliter la mise en conformité des entreprises du secteur tout en agissant sur le cadre réglementaire
 
@@ -68,7 +68,7 @@ Développée en collaboration avec les entreprises du secteur et les corps de co
 
 ![https://mobilic.beta.gouv.fr/](/img/netlifycms/mobilic-workflow.png)
 
-# Impact
+## Impact
 
 Nous avons établi le certificat Mobilic en juillet 2023. Le certificat atteste qu'une entreprise a un **taux élevé de conformité à la  réglementation** en matière de temps de travail et, qu’elle **utilise Mobilic de manière conforme** (enregistrement du temps de travail au maximum en temps réel, validation régulière des données, modifications exceptionnelles des données du salarié par son employeur).
 
