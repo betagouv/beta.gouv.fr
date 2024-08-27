@@ -585,3 +585,5 @@ mark {
 .startup-timeline > p.finished {
   border-color: var(--background-action-low-red-marianne);
 }
+
+table + h3 { margin-top: 2em; }
