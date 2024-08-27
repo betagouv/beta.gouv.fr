@@ -75,9 +75,6 @@ collections:
     output: true
     permalink: /incubateurs/:title.html
   intras:
-  jobs:
-    output: true
-    permalink: /recrutement/:year/:month/:day/:title.html
   mooc:
     output: true
     permalink: /approche/formation/mooc/:title.html

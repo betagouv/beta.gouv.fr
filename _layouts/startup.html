@@ -26,15 +26,6 @@ layout: default
 
 {% assign split_by_ul = content | split:'<ul' %}
 {% assign content = split_by_ul | join: '<ul class="fr-pl-4w"' %}
-  <!-- {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
-  {% if jobs[0] %}
-    <div class="fr-container fr-py-6w">
-      <h2>Postes ouverts</h2>
-      {% for job in jobs %}
-        {% include card-job.html job=job startup=job.startup %}
-      {% endfor %}
-    </div>
-  {% endif %} -->
 <div class="fr-container-fluid">
   <div class="fr-container">
     <div class="fr-py-2w fr-grid-row fr-grid-row--center fr-grid-row--gutters">
