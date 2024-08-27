@@ -80,7 +80,7 @@ L’incubateur dispose et propose de plusieurs moyens techniques et de l’outil
 - Le **DSFR** (le Design System de l’État), géré par le SIG, et dont l’utilisation est préconisé auprès des équipes,
 - Le **Dashlord**, l’outil de suivi qui donne des mesures sur l’écran d’accueil, à l’usage des équipes,
 - La **documentation**, à destination des équipes de l’incubateur, dont une section entière est dédiée à l’accessibilité,
-- Différents **protocoles de tests** détaillés dans la partie *[Stratégie](#strategie)*.
+- Différents **protocoles de tests** détaillés dans la partie *[Stratégie](#stratégie-de-mise-en-oeuvre)*.
 - Un **générateur de déclaration d’accessibilité**, pour faciliter le respect des obligations légales.
 
 Cette liste est vouée à évoluer pour compléter l’outillage de l’incubateur.
