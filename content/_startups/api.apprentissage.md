@@ -23,7 +23,7 @@ techno: []
 sponsors:
   - /organisations/dgefp
 ---
-# **Le problème de politique publique**
+## Le problème de politique publique
 
 L’écosystème de l’apprentissage est composé de différents acteurs, lesquels ont chacun leur propre système de collecte de données, et donc leurs propres bases de données, avec, pour chacune, une sémantique, une taxonomie et une qualité différentes.
 
@@ -40,7 +40,7 @@ Par exemple, il a fallu construire :
 
 Au cours de la phase d’investigation pour la construction des produits de la Mission interministérielle pour l’apprentissage, il est apparu que chaque acteur impliqué dans le développement de services numériques pour l’apprentissage avait le même besoin d’identifier et d’accéder facilement à de la donnée réputée fiable, à jour et exhaustive.
 
-# Les indicateurs d’impact
+## Les indicateurs d’impact
 
 L’API Apprentissage aura un premier impact si elle permet de fiabiliser encore plus de données :
 
@@ -59,7 +59,7 @@ Enfin, elle aura un impact supplémentaire si elle est utilisée en masse :
 - Nombre d'accès à la documentation
 - Nombre de téléchargements de fichiers plats associés à ce à quoi permet d’accéder l’API
 
-# **Les usagers**
+## Les usagers
 
 L’API Apprentissage, utilitaire qui permet de simplifier l’accès à des données fiables et à jour grâce à un point d’entrée unique et documenté, répondra non seulement aux besoins des produits conçus par la mission interministérielle pour l’apprentissage, mais aussi aux besoins de l’ensemble des acteurs, qu’ils soient ministères, Opco, organismes de formation, éditeurs de logiciels, ou autre acteurs publics et privés, dans une logique d’open data et d’interopérabilité.
 
@@ -68,7 +68,7 @@ Exemples de cas d’usage :
 - un service utilise la donnée RNCP aura besoin de vérifier si ce RNCP est inactif et, le cas échéant, de connaître le nouveau RNCP actif correspondant.
 - Un service qui a besoin de faire se correspondre l’offre de formation et l’offre d’emploi disponibles sur un métier donné aura besoin de faire des liaisons entre des données issues de l’univers Emploi (ROME, NAF) et de l’univers Formation ( RNCP, CFD, SISE…).
 
-# Les sujets à débloquer
+## Les sujets à débloquer
 
 **Phase 1 (septembre 2023 - décembre 2023) – Objectif : recueillir les premiers retours d'expérience et valider le fonctionnement interne de l'API.**
 
@@ -91,7 +91,7 @@ Sujets à dé-risquer lors de cette 2nde phase : mise en place d’un mécanism
     - à une boîte mail de recueil de signalements de données non fiables et de besoins d’autres données ou correspondances ou scripts de contrôle
 - Expansion de l'API avec l'intégration de nouvelles sources de données, englobant des informations liées aux organismes de formation, aux entreprises, ainsi qu'aux contrats.
 
-# Le terrain
+## Le terrain
 
 Les premiers besoins ont été collectés auprès des équipes produit de la Mission interministérielle pour l’apprentissage. Ces besoins internes ont également été cités par des acteurs externes lors de différents entretiens menés auprès de plusieurs consommateurs potentiels (organismes de formation développant leurs propres SI, OPCO notamment).
 

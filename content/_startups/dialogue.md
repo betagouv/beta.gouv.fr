@@ -22,8 +22,6 @@ stats_url: https://dialog.beta.gouv.fr/stats
 usertypes: []
 techno: []
 ---
-DiaLog
-
 ## Le problème
 
 Aujourd’hui, les chauffeurs de poids lourds sont quotidiennement confrontés à des difficultés dans la planification de leurs trajets. **Pour les poids lourds, connaître leurs conditions de circulation ou de stationnement est difficile.**

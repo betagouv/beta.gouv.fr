@@ -1,12 +1,12 @@
 ---
 fullname: Octave Bory
 domaine: Coaching
-role: Coach senior
+role: Coach senior FAST
 github: octavemelusyn
 link: https://fr.linkedin.com/in/octavebory
 missions:
   - start: 2021-01-08
-    end: 2024-12-31
+    end: 2025-03-31
     status: independent
     employer: NUMA
     startups:
