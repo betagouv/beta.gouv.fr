@@ -18,8 +18,10 @@ events:
 usertypes:
   - particulier
   - etat
+thematiques: []
+techno: []
 ---
-# Contexte
+## Contexte
 
 Chargée d’une mission de service public, la direction des Français à l’étranger et de l’administration consulaire (DFAE) du Ministère de l’Europe et des Affaires étrangères administre une communauté de plus de 2,5 millions de Français installés à l’étranger et assiste plus de 10 millions de Français de passage à l’étranger chaque année. Elle assure également la co-gestion de la délivrance des visas aux étrangers qui souhaitent venir en France (plus de 4,3 millions de demandes en 2019).
 
@@ -31,7 +33,7 @@ La prise de rendez-vous a été une étape majeure et la vitrine de la modernisa
 
 Il est nécessaire  de porter une attention prioritaire à son évolution, au bénéfice des usagers et des agents au sein des services consulaires chargés de paramétrer cette application.
 
-# Hypothèse de problème
+## Hypothèse de problème
 
 Les dysfonctionnements de l’application développée en interne et les récriminations des usagers peuvent se répartir en deux catégories :
 
@@ -42,7 +44,7 @@ Les conséquences peuvent amener un allongement des délais, voire l’impossibi
 
 Ces difficultés provoquent des incompréhensions du public et alimentent des situations anxiogènes qui constituent autant d’entraves à la bonne marche des services publics, tout en amenuisant le bien être des usagers et celui des agents publics qui les servent. 
 
-# Notre stratégie
+## Notre stratégie
 
 Notre objectif sera d’établir un diagnostic aussi précis que possible des difficultés rencontrées. A cet effet, nous allons aller à la rencontre de Français de l'étranger pour mieux comprendre leur expérience lors de la prise de rendez vous en consulat, ainsi que leurs besoins.
 

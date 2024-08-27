@@ -25,12 +25,14 @@ stats: false
 contact: support.passculture@beta.gouv.fr
 usertypes:
   - particulier
+thematiques: []
+techno: []
 ---
 Retrouvez toutes les informations sur l'expérimentation du Pass Culture sur notre site [pass.culture.fr](https://pass.culture.fr)
 
 L'ensemble de notre documentation est par ailleurs disponible sur notre [Gitbook](https://pass-culture.gitbook.io/documents/le-pass-culture-en-quelques-mots)
 
-# Le pass Culture en quelques mots
+## Le pass Culture en quelques mots
 
 Le pass Culture a été imaginé pour tous les publics, et surtout ceux qui sont ou se sentent exclus de la culture, et il a été conçu pour tous les acteurs culturels, y compris les plus modestes et les moins outillés pour des pratiques numériques. Le pass Culture a pour vocation de rapprocher la culture de tous les citoyens, en donnant accès à l’information sur les propositions artistiques et culturelles à proximité, en suscitant l’envie des jeunes générations d’y participer, en proposant des actions et des services partout sur le territoire.
 
@@ -39,11 +41,11 @@ Nouvelle forme de service public de la culture, le pass Culture est un outil :
 * **au service des acteurs culturels, publics et privés, dans toute leur diversité** : il constitue un canal inédit de distribution de leur programmation culturelle et de leurs actions de médiation, leur offrant ainsi un surcroît de visibilité auprès de ces nouveaux publics ;
 * **au service des territoires et des politiques publiques** : il offre un canal de communication mettant en valeur la vie culturelle de proximité et la vitalité culturelle partout en France.
 
-# Comment ça marche ?
+## Comment ça marche ?
 
 Concrètement, le pass Culture prend la forme d’une application web et mobile téléchargeable gratuitement, qui révèle et relaie les possibilités culturelles et artistiques accessibles à proximité. Grâce à un dispositif de géolocalisation, les citoyens peuvent repérer, choisir et réserver une grande diversité de biens et de propositions culturels, du concert au théâtre en passant par le livre, la pratique artistique et les jeux vidéos.
 
-# Une application co-construite avec ses futurs utilisateurs
+## Une application co-construite avec ses futurs utilisateurs
 
 L’application pass Culture est résolument pensée comme ouverte et partagée, dans sa finalité mais aussi dans sa conception. C’est pourquoi une phase de tests et d’expérimentation a été mise en place pour accompagner le développement de l’application, afin de répondre au mieux aux aspirations, aux pratiques, aux usages et aux besoins des futurs utilisateurs : les jeunes de 18 ans et tous les acteurs culturels.
 
@@ -57,7 +59,7 @@ Au même titre que pour la phase de co-design, tous les acteurs culturels sont 
 
 Divers outils, notamment l’organisation d’ateliers, ont été mis en place pour permettre un retour d’expérience direct et une remontée d’informations fluide. En parallèle, les éléments qui seront recueillis permettront d’alimenter les réflexions sur les usages à privilégier dans l’application.
 
-# Le portail pass Culture pro
+## Le portail pass Culture pro
 
 L’ensemble des acteurs culturels, partout en France, y compris s’ils ne sont pas situés dans les 5 départements pilotes, sont invités à prendre part à l’expérimentation du pass Culture dès maintenant pour permettre aux jeunes expérimentateurs l’accès à un catalogue de propositions riche et divers afin de provoquer la curiosité des expérimentateurs.
 
@@ -67,6 +69,6 @@ Sur cette plateforme, la procédure de création d’une proposition est, à 
 
 S’inscrire sur la plateforme pass Culture pro présente par ailleurs un triple avantage pour les acteurs culturels. C’est non seulement un canal fiable de visibilité et de promotion qui touchera à terme tous les publics, un vecteur de proximité pour se faire connaître auprès des jeunes de 18 ans qui forment le public de demain, mais c’est aussi une plateforme en phase avec les nouveaux usages de la société, qui incite à la consommation d’offres légales. Elle pourra constituer à ce titre pour les acteurs culturels un véritable laboratoire d’expérimentation, à travers lequel ils auront la possibilité de tester des activités inédites, gratuites ou payantes, proposées sur l’application avant de les ouvrir au grand public.
 
-# Sortie d'incubation
+## Sortie d'incubation
 
 Le 22 juillet 2019, le Pass Culture sort de sa phase d'incubation : elle devient la SAS "Pass Culture" (décret n°2019-755 du 22 juillet 2019). Montée avec la Banque des Territoires, cette SAS a pour mission de "de déployer progressivement le pass Culture sur l'ensemble du territoire, de référencer et mettre en valeur les offres des opérateurs culturels et d'assurer une gestion dynamique des comptes des bénéficiaires". Elle devra aussi "créer les conditions adéquates pour la pérennisation du pass Culture, incluant sa généralisation à tous les jeunes de 18 ans éligibles et envisagera le développement d'activités commerciales permettant d'assurer une partie significative de son financement". 
