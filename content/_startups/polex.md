@@ -3,7 +3,7 @@ title: Polex
 mission: Détecter et suivre les fraudes à l’examen du permis de conduire
 sponsors:
   - /organisations/dsr
-incubator: lab-mi
+incubator: miom
 contact: frederic.gillodes@interieur.gouv.fr
 usertypes:
   - etat

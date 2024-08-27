@@ -9,6 +9,12 @@ missions:
     status: independent
     startups:
       - la-bonne-alternance
+  - start: 2024-08-28
+    end: 2024-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - france.nation.verte.agir
 startups:
   - la-bonne-alternance
 badges:

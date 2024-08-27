@@ -5,7 +5,7 @@ github: sebastienprimout
 role: Product Designer
 missions:
   - start: 2024-04-02
-    end: 2024-09-02
+    end: 2025-04-30
     status: independent
     employer: Inetum/LBC
     startups:

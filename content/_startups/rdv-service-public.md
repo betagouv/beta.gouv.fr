@@ -35,13 +35,12 @@ phases:
     start: 2018-01-18
   - name: acceleration
     start: 2019-04-01
+techno: []
 ---
 <div class="fr-callout fr-fi-information-line">
     <h3 class="fr-callout__title">
         Votre administration souhaite découvrir la solution ? 
     </h3>
-
-```
 <div class="fr-callout__text">
 <p>
     Vous pouvez consulter la plaquette de présentation👇
@@ -49,7 +48,6 @@ phases:
 </div>
 
 <a target="_blank" href="https://www.canva.com/design/DAF7cZT3uYc/XO4Gau3d_6OXE1Ip883U0w/view?utm_content=DAF7cZT3uYc&utm_campaign=designshare&utm_medium=link&utm_source=editor">Lire la plaquette</a>
-```
 
 </div>
 

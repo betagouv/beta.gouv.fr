@@ -23,8 +23,10 @@ phases:
 usertypes:
   - collectivite-territoriale
   - etat
+thematiques: []
+techno: []
 ---
-# **Le constat**
+## **Le constat**
 
 Près de **15 000 personnes** (dont environ 5 000 mineurs) originaires en majeure partie de Roumanie et de Bulgarie vivent dans près de **300 bidonvilles**. Pour parvenir à une résorption durable des bidonvilles les solutions sont connues : une action partenariale à l’échelle d’un territoire, une intervention sur tous les sites dès l’implantation, un accompagnement vers l’insertion des habitants dans le respect des lois de la République.
 
@@ -36,7 +38,7 @@ L’approche est globale. Il s’agit de couvrir l’ensemble des problématique
 
 **Un changement de paradigme** qui nécessite un appui technique renforcé aux territoires, une coordination entre de nombreux acteurs et un suivi plus soutenu sur l'efficacité des actions et leur performance. 
 
-# La plateforme *Résorption-bidonvilles* pour accélérer la résorption des bidonvilles
+## La plateforme *Résorption-bidonvilles* pour accélérer la résorption des bidonvilles
 
 La plateforme *Résorption-bidonvilles* est un outil d’information, de partage et de pilotage. Elle s’adresse à tous les partenaires de terrain concernés : les services de l’État, les Direction Départementale de l'Emploi, du Travail et des Solidarités (DDETS), les collectivités territoriales et les opérateurs. 
 
@@ -48,7 +50,7 @@ La plateforme *Résorption-bidonvilles* est un outil d’information, de partage
 * la création de nouvelles synergies et des arguments pour mobiliser de nouveaux partenaires
 * un renforcement de l'efficacité du pilotage aux niveaux national et local des actions de résorption
 
-# Des fonctionnalités opérationnelles pour agir
+## Des fonctionnalités opérationnelles pour agir
 
 La plateforme *Résorption-bidonvilles* **permet aux usagers de renseigner, de suivre et de valoriser les actions conduites sur les bidonvilles.** 
 
@@ -58,7 +60,7 @@ Ses fonctionnalités se structurent autour de 3 volets :
 * un volet pour **suivre, coordonner et piloter les actions de résorption** : utilisation et analyse des données pour chaque action de résorption ; suivi et pilotage des actions de résorption conduite sur un site ; partage des constats dans le journal du site dans une action multi-partenariale ; suivi des actions des opérateurs intervenant auprès des habitants.
 * un volet pour **valoriser les actions mises en œuvre** : échange avec le réseau de partenaires du territoire ou avec des pairs pour le partage de bonnes pratiques ; exportation des données ; édition de bilans.
 
-# L’évolution de la plateforme et ses perspectives
+## L’évolution de la plateforme et ses perspectives
 
 Après avoir été expérimentée sur deux territoires expérimentaux la Haute-Garonne et la Gironde, la plateforme *Résorption-bidonvilles* a été **déployée sur l’ensemble du territoire national en juin 2019**. Elle compte au mois de mai 2021 **289 structures** pour **610 personnes utilisatrices** et a pour objectif d’atteindre les 1000 usagers fin 2023.
 
@@ -66,7 +68,7 @@ Elle est incubée au sein de la Fabrique numérique du ministère de la Transiti
 
 Portée par la Dihal, l’objectif à long terme est de **faire de la plateforme *Résorption-bidonvilles* l’outil métier de référence de cette politique publique pour accélérer la résorption des bidonvilles** avec l’ensemble des partenaires concernés.
 
-# En savoir plus
+## En savoir plus
 
 Inscrivez-vous à l’une de nos formations de la plateforme *Résorption-bidonvilles* : [2 sessions par semaine](https://app.evalandgo.com/s/index.php?a=JTk2cCU5N2slOUElQjA=&id=JTk4ayU5QW4lOTYlQUY=)
 

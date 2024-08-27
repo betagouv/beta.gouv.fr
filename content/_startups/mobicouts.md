@@ -15,6 +15,9 @@ phases:
     end: 2023-04-12
   - name: alumni
     start: 2023-04-12
+thematiques: []
+usertypes: []
+techno: []
 ---
 ## Contexte 
 
@@ -64,6 +67,6 @@ Le benchmark a mis en avant une échelle d’analyse des coûts de la mobilité 
 
 Sur chaque échelon, des solutions existent pour connaître le coût de sa mobilité. Plus l’analyse du coût complète, plus les solutions semblent confidentielles. 
 
-# Conclusion
+## Conclusion
 D’après les apprentissages de l'équipe (interviews, benchmark, expérimentation), l’hypothèse initiale ne semble pas être un problème réel. 
 L’équipe a proposé au comité de fin d’investigation de ne pas poursuivre les travaux de MobiCoûts. Conclusion retenue. 

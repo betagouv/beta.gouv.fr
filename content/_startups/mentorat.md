@@ -1,6 +1,6 @@
 ---
 mission: Mettre en relation des candidats à des concours ou des examens professionnels avec des agents prêts à les mentorer
-incubator: lab-mi
+incubator: miom
 title: Mentorat
 contact: estelle.brezout-cozelin@interieur.gouv.fr
 thematiques:
@@ -10,8 +10,14 @@ usertypes:
 phases:
   - name: investigation
     start: 2023-11-26
+  - name: construction
+    start: 2024-08-21
 sponsors:
   - /organisations/ministere-de-l-interieur-et-des-outre-mer-direction-des-ressources-humaines
+techno: []
+events:
+  - name: product_launch
+    date: 2024-07-21
 ---
 ## Contexte
 

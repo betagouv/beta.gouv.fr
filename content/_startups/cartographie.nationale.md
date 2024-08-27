@@ -23,6 +23,8 @@ stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idS
 analyse_risques: true
 thematiques:
   - Inclusion numérique
+usertypes: []
+techno: []
 ---
 ## Contexte
 
@@ -53,11 +55,11 @@ L'objectif est d'orienter un bénéficiaire vers la structure qui saura répondr
 
 Le dispositif se décompose en deux parties :
 
-#### Le parcours d'orientation
+### Le parcours d'orientation
 
 On commence par recenser son besoin, sa localisation, ses disponibilités, etc. pour filtrer les résultats qui s'afficheront ensuite sur la cartographie et lui proposer uniquement les structures appropriées.
 
-#### La cartographie
+### La cartographie
 
 Elle recense l'offre de médiation numérique sur le territoire concerné. L'utilisateur peut naviguer sur la carte, zoomer sur sa commune, accéder aux informations des structures, prendre rendez-vous directement en ligne, etc.
 
@@ -73,7 +75,7 @@ Ils pourront **rechercher** et **identifier** une structure de médiation nu
 
 Le dispositif est accessible et ouvert à tous. En revanche, étant un site web avec de nombreuses fonctionnalités, il est davantage adapté aux publics familiers avec le numérique.
 
-# Des données standardisées
+## Des données standardisées
 
 Il existe un réel besoin d’une **vision nationale**, **complète** et **actualisée** de l’offre de médiation numérique
 
@@ -83,7 +85,7 @@ La standardisation permet de décrire l’offre de médiation numérique de mani
 
 L'aboutissement de ce travail, le **standard de données des lieux de médiation numérique** publié par la [Mednum](https://lamednum.coop/) en collaboration avec [Datactivist](https://datactivist.coop/fr/), est le fondement de notre cartographie.
 
-# Référencer ou mettre à jour son offre de service
+## Référencer ou mettre à jour son offre de service
 
 **ATTENTION si vous apparaissez déjà sur une cartographie locale pour laquelle vous mettez à jour vos informations, cette section ne vous concerne pas !** Plus d'infos [ici](https://labase.anct.gouv.fr/ressource/1474)
 
@@ -97,7 +99,7 @@ Avec DORA, chaque structure de médiation numérique peut publier dans une déma
 
 J﻿e souhaite référencer ma structure sur Dora
 
-# Versions locales et personnalisées
+## Versions locales et personnalisées
 
 Cette cartographie est un **projet open source** (rendez-vous sur [l'organisation GitHub](https://github.com/orgs/anct-cartographie-nationale/repositories) pour les curieux) permettra aux acteurs locaux (collectivités territoriales, Hubs territoriaux pour un Numérique inclusif, etc.) de bénéficier de versions locales avec la possibilité de personnaliser les **fonctionnalités**, les **couleurs**, **l'affichage**, etc.\
 \
@@ -105,7 +107,7 @@ De cette manière, vous pouvez retrouver la cartographie restreinte aux Conseill
 
 Un tutoriel d'aide à l'implémentation sur votre site web est disponible [ici](https://labase.anct.gouv.fr/ressource/993).
 
-# [](https://github.com/anct-cartographie-nationale/client-application#documentation)[](https://dora.fabrique.social.gouv.fr/)Inter-opérabilité
+## [](https://github.com/anct-cartographie-nationale/client-application#documentation)[](https://dora.fabrique.social.gouv.fr/)Inter-opérabilité
 
 L﻿es [Hubs territoriaux pour un numérique inclusif](https://sonum.tlscp.fr/fr/dispositif/hubs-numerique/) jouent le rôle de référent territoriaux auprès des collectivités pour collecter et mettre à jour les données des structures.
 
