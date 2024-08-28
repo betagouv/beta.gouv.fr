@@ -16,14 +16,15 @@ thematiques:
   - Justice
 dashlord_url: https://github.com/betagouv/dashlord/blob/main/dashlord.yml
 accessibility_status: non conforme
+techno: []
 ---
-# **Contexte**
+## Contexte
 
 Chaque année, des dizaines de milliers d’administrations saisissent le procureur de la République afin de l’informer de faits pouvant entraîner des poursuites pénales.
 Ces 120 000 saisines, leur transmission et leur suivi, engendrent de nombreuses difficultés pour les agents publics de ces administrations et du Ministère de la Justice.
 Après une phase d’investigation démontrant des difficultés réelles et impactantes, nous avons lançé en 2021 une Startup d’État destinée à construire une solution numérique capable de pallier ces problèmes.
 
-# **Le problème**
+## Le problème
 
 Cette investigation, d'abord menée sur un périmètre restreint relatif aux procédures relevant de l’article 40 du code de procédure pénale, a notamment permis de :
 
@@ -33,7 +34,7 @@ Cette investigation, d'abord menée sur un périmètre restreint relatif aux pro
 - identifier des indicateurs d’impact à 6 mois ;
 - esquisser une piste de solution.
 
-# **Stratégie**
+## Stratégie
 
 La phase de construction a permis de bâtir, avec les agents publics concernés, une solution numérique permettant de faciliter leur quotidien de travail en diminuant, voire supprimant, des tâches chronophages tout en assurant une traçabilité des procédures.
 Une phase de tests avec des magistrats du parquet, greffiers et agents des administrations concernées a été réalisée d&#39;octobre 2021 à janvier 2022 pour améliorer en continu le produit.
@@ -47,7 +48,7 @@ La phase de déploiement a été lancée en juin 2023 avec les tribunaux judicia
 En octobre, l’accélération se poursuit avec l’arrivée de nouveaux utilisateurs (les tribunaux judiciaires de Marseille, Annecy, Béthune, Avesnes-sur-Helpe, Blois, Lons-le-Saunier et de nouvelles administrations : DREETS, DDETS, DREAL, DDFIP, …). Tous nos utilisateurs soulignent “la simplicité déconcertante de la solution” et suggèrent de nouvelles évolutions qui vont dans le sens du principe d’amélioration continue et itérative.
 Entre juillet et novembre 2023, la passation technique, métier et vision a été réalisée entre la start-up d’Etat et les équipes PPN, pour transférer le produit. infoParquet va progressivement être ouvert à d&#39;autres juridictions jusqu’à permettre ainsi son utilisation à plus large panel d’administrations sur tout le territoire national.
 
-# **Le résultat**
+## Le résultat
 
 Au terme de ces différentes phases de travail en lien très étroit avec les utilisateurs, le produit
 assure :

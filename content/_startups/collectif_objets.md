@@ -22,12 +22,13 @@ phases:
 thematiques:
   - Patrimoine
 accessibility_status: non conforme
+techno: []
 ---
-# Recenser les objets qui font notre patrimoine pour le protéger
+## Recenser les objets qui font notre patrimoine pour le protéger
 
 Des tapisseries de la cathédrale de Langres aux statues de Vierge à l’Enfant dans nos églises de campagne, plus de 280 000 objets protégés au titre des monuments historiques sont disséminés à travers la France. Environ trois communes sur quatre abritent des objets protégés au titre des monuments historiques (inscrits ou classés).
 
-L'Etat se doit de les récoler - c'est-à-dire en vérifier la présence et en contrôler l'état de conservation - tous les 5 ans afin d’en assurer la pérennité, comme l'indique le code du patrimoine.
+L'État se doit de les récoler - c'est-à-dire en vérifier la présence et en contrôler l'état de conservation - tous les 5 ans afin d’en assurer la pérennité, comme l'indique le code du patrimoine.
 
 Malheureusement, par manque de temps et de moyens, moins de 5% des objets à récoler chaque année le sont effectivement. Cette absence de suivi génère une lente déperdition de ce patrimoine : les objets sont menacés par l’oubli, dérobés…
 
@@ -35,7 +36,7 @@ Malheureusement, par manque de temps et de moyens, moins de 5% des objets à r�
 
 Un rapport d'information sénatorial de juillet 2022 (n°765) préconise justement la mise en place d'actions pour mettre un terme à la dégradation du patrimoine mobilier religieux français - qui constitue la grande majorité du patrimoine mobilier protégé - notamment : « Lancer une opération nationale d’inventaire du patrimoine religieux permettant de disposer d’une cartographie précise de ce patrimoine sur l’ensemble du territoire à l’horizon 2030 » ou encore « Doter les conservateurs des antiquités et objets d’art d’une base de données (...) permettant une documentation, y compris visuelle, de l’ensemble du patrimoine mobilier protégé ». 
 
-# **Faciliter le dialogue entre les communes propriétaires et les conservateurs**
+## **Faciliter le dialogue entre les communes propriétaires et les conservateurs**
 
 Collectif Objets répond à ce défi en donnant aux communes les moyens de s’investir dans la protection de leur patrimoine en :
 
@@ -48,7 +49,7 @@ Partant de ces informations, les conservateurs peuvent alors prendre contact ave
 
 **En assurant la collecte régulière et centralisée des données, Collectif Objets permet aux conservateurs d’avoir une vision globale du parc mobilier et de prioriser leurs actions.**
 
-# **Déjà plus de 21 000 objets recensés dans plus de 2 600 communes !**
+## **Déjà plus de 21 000 objets recensés dans plus de 2 600 communes !**
 
 Depuis le lancement de Collectif Objets fin 2021, 28 départements ont déjà participé à nos campagnes de recensement - avec des taux de réponses parfois supérieurs à 50% - démontrant un fort engouement des communes !
 
