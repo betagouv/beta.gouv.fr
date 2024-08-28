@@ -38,9 +38,9 @@ phases:
 techno: []
 ---
 <div class="fr-callout fr-fi-information-line">
-    <h2>
+    <strong>
         Votre administration souhaite découvrir la solution ? 
-    </h2>
+    </strong>
 <div class="fr-callout__text">
 <p>
     Vous pouvez consulter la plaquette de présentation👇
