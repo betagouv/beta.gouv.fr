@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: layout.lang | default: site.lang | default: "fr" }}">
+<html lang="fr">
 
   {% include head.html %}
 
@@ -26,7 +26,7 @@
       </nav>
     </div>
     {% endif %}
-    <main id="contenu">
+    <main id="contenu" lang="{{ page.lang | default: layout.lang | default: site.lang | default: 'fr' }}">
       {{ content }}
     </main>
     {% include footer.html %}

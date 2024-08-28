@@ -66,8 +66,19 @@ main .fr-container img {
   width: 100%;
 }
 
+/* Hero header */
 .hero__startup__mission {
   color: #4941c0;
+}
+/* Move badges before heading */
+.hero__startup-text {
+  display: flex;
+  flex-direction: column;
+}
+.hero__startup-text > .fr-badge { order: -1; }
+
+#about {
+  border: 1px solid var(--light-border-default-grey, #E5E5E5);
 }
 
 /* Couleurs de sections et espacemements */
@@ -101,6 +112,11 @@ main .fr-container img {
 /*
  Ci-dessous, modifications temporaire au système de design
 */
+
+/* Rendre les abbr accessible */
+.fr-card abbr {
+  z-index: 2;
+}
 
 /* Afficher le curseur même quand on est sur la page active */
 .fr-nav__item--active > .fr-nav__link {
@@ -304,7 +320,8 @@ ul li p {
 
 /* START SECTION CLASS */
 .section-blue {
-  background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%), linear-gradient(0deg, #00006d, #00006d);
+  background-image: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%), linear-gradient(0deg, #00006d, #00006d);
+  background-color: #4941C0;
 }
 
 .section-white h2 {
@@ -369,8 +386,14 @@ ul li p {
   text-align: center;
 }
 
+.section-principle ul { list-style-type: numeric; }
+.section-principle ::marker { 
+  font-weight: bold;
+  font-size: 3.5em;
+}
 .section-principle-list-item {
   margin-bottom: 3em;
+  margin-left: 3em;
 }
 
 .section-principle-animation {
@@ -491,6 +514,10 @@ mark {
   margin-bottom: 3rem;
 }
 
+.search-results ul {
+  list-style-type: none;
+}
+
 #realisations .hero-section img {
   max-height: 12.5rem;
   object-fit: contain;
@@ -557,7 +584,7 @@ mark {
   margin: 30px 0;
 }
 
-.startup-timeline > div {
+.startup-timeline > p {
   border-top: 0.5rem solid var(--background-contrast-grey);
   flex: 1 0 auto;
   margin: 3px;
@@ -568,20 +595,35 @@ mark {
   .startup-timeline {
     display: block;
   }
-  .startup-timeline > div {
+  .startup-timeline > p {
     width: 200px;
     margin-bottom: 2rem;
   }
 }
 
-.startup-timeline > div.active {
+.startup-timeline > p.active {
   border-color: var(--background-action-low-blue-france);
 }
 
-.startup-timeline > div.success {
+.startup-timeline > p.success {
   border-color: var(--background-action-low-green-emeraude);
 }
 
-.startup-timeline > div.finished {
+.startup-timeline > p.finished {
   border-color: var(--background-action-low-red-marianne);
+}
+
+table + h3 { margin-top: 2em; }
+
+/* Mise en page des graphiques Metabase sur la page Stats */
+iframe.graph {
+  width: 100%; 
+  border: 0; 
+  background-color: transparent;
+}  
+iframe.graph.h300 {
+  height: 300px;    
+}
+iframe.graph.h800 {
+  height: 800px;    
 }

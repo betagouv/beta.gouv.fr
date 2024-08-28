@@ -14,5 +14,5 @@ Directeur interministériel du numérique
 Illustrations des pages accueil (section équipe) et FAST : Freepik
 Toute autre illustration : beta.gouv.fr
 
-### Plus d’infos ?
-L’équipe de beta.gouv.fr peut être contactée directement à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr).
+## Nous contacter
+L’équipe de beta.gouv.fr peut être [contactée directement](/contact#nous-contacter-par-email).

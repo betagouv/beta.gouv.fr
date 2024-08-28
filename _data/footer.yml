@@ -16,12 +16,13 @@ links:
     -
       label: About us (en)
       target: _pages/en/home.md
+      lang: en
     -
       label: Nous contacter
       target: _pages/contact.md
     -
-      label: Télécharger le bilan 2023
-      url: https://beta.gouv.fr/content/docs/betagouv_presentation.pdf
+      label: Bilan 2023
+      target: _pages/bilan/2023.md
     -
       label: Une mission de la DINUM
       url: https://www.numerique.gouv.fr/
@@ -52,5 +53,5 @@ mandatorylinks:
     label: Données personnelles et cookies
     target: _pages/suivi.md
   -
-    label: "Accessibilité : non conforme"
+    label: "Accessibilité : partiellement conforme"
     target: _pages/accessibilite.md
