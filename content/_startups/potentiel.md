@@ -28,7 +28,7 @@ thematiques:
 budget_url: https://beta.gouv.fr/startups/potentiel.html#le-budget
 techno: []
 ---
-#  Introduction - contexte
+##  Introduction - contexte
 
 L’Etat met en œuvre une politique volontariste de soutien au développement des énergies renouvelables (EnR) électriques sous forme d’appel d’offres.
 
@@ -38,7 +38,7 @@ L’objectif est d’atteindre une part de 40% de ces énergies sur le total de 
 
 Notre objectif : Faciliter le parcours des producteurs d'énergies renouvelables électriques
 
-# Les problématiques
+## Les problématiques
 
 
 ### Les projets lauréats d’EnR électriques sont soumis à : 
@@ -52,7 +52,7 @@ Les informations détenues par chaque acteur intervenant sur le projet sont parc
 
 En conclusion, cela entraîne un manque de suivi global des projets d’EnR permettant de piloter les dispositifs de soutien et de suivre l’atteinte des objectifs de la PPE.
 
-# La solution => Potentiel
+## La solution => Potentiel
 
 Potentiel a vocation à réunir l’ensemble des acteurs de la filière et à rendre accessible, en un lieu unique, les informations détenues par ceux-ci aux différentes phases de développement des projets d’EnR.
 
@@ -64,7 +64,6 @@ Les porteurs de projets d’EnR répondant aux appels d’offres de l’État so
 
 Potentiel leur offre des fonctionnalités sur mesure visant à faciliter la gestion de leurs projets.
 
-
 ### Notre proposition de valeur pour les partenaires et administrations
 
 Les partenaires et administrations peinent à récupérer les informations liées aux projets d’EnR répondant aux appels d’offres de l’État.
@@ -75,7 +74,7 @@ Potentiel permet à tous les acteurs concernés de consulter ces informations gr
 * Gain de temps
 * Suivi des politiques publiques
 
-# Les premières étapes - Périmètre de test (2020)
+## Les premières étapes - Périmètre de test (2020)
 
 L’objectif, dans un premier temps, a été de dématérialiser l’ensemble des interactions entre porteurs de projets et administrations pour assurer une traçabilité des décisions. Les premiers tests lancés en avril 2020 ont visé les candidats des nouveaux appels d’offres. Ce périmètre a permis d’essayer l’outil étape par étape, permettant un développement progressif en suivant l’avancée des porteurs de projets dans leurs démarches.
 
@@ -87,7 +86,7 @@ L’objectif, dans un premier temps, a été de dématérialiser l’ensemble de
 * La possibilité pour tous les candidats de faire des demandes de modification pour leurs projets (pour les non lauréats : une demande de recours, pour les lauréats : toute autre demande) ;
 * D’autre part, pour préparer l’importation de l’historique des projets pré-2020, (période allant de 2016 à 2020), l’équipe a recensé les différents paramètres à prendre en compte, les formats et les règles de gestion.
 
-# Nos réalisations
+## Nos réalisations
 
 ### Implémentation des règles métier
 
@@ -108,8 +107,7 @@ L’objectif, dans un premier temps, a été de dématérialiser l’ensemble de
 * Mise en place d’un support utilisateur structuré sur 3 piliers : le guide d’utilisation ; un ChatBot automatique sur les 10 questions courantes, récurrentes, les échanges via l’adresse e-mail [contact@potentiel.beta.gouv.fr]() ; des échanges en visio ;
 * Présentations et démonstrations aux différents partenaires (gestionnaire de réseaux, commission de régulation de l’énergie, acheteur obligé…) pour le développement des fonctionnalités et envisager les futures interopérabilités pour s’accorder sur le contenu et le format des échanges.
 
-# L’impact
-
+## L’impact
 
 ### Sur les projets suivis
 
@@ -117,26 +115,20 @@ L’objectif, dans un premier temps, a été de dématérialiser l’ensemble de
 * 21,07 GW en puissance cumulée
 * 3 883 demandes des porteurs de projet réalisées sur Potentiel
 
-
-
 ### Sur les statistiques utilisateurs
 
 * 2 123 porteurs de projet inscrits
 * 1 527 connexions en moyenne par mois
 
-
-
 ### Un temps moyen d’instruction des demandes divisé par 3
 ![](https://docs.potentiel.beta.gouv.fr/~gitbook/image?url=https:%2F%2F341821779-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MK-BGgj_eN7FsxQv8fl%252Fuploads%252FhDpAaLnlNrlLHhfO3HZR%252Fimage.png%3Falt=media%26token=c9f030ca-e873-42a6-9d25-fb0299007ce7&width=400&dpr=3&quality=100&sign=7fed0d74dfaff35b657cda428b6dc6b82f8994720dc6fcba3d418b18681fd86d)
-
-
 
 ### La possibilité de mettre en place des mesures d’urgences afin de sauver un maximum de projets
 
 * 4,19 GW de puissance cumulée des projets ayant choisis l’instruction selon des cahiers des charges modificatifs
 * 1,05 GW avec le processus automatisé d'abandon pour recandidature
 
-# Le budget
+## Le budget
 
 - 2020 : 127 135 € de la DGEC* et 80 400 € issus du programme FAST (Fonds d’accélération des startups d’Etat et de territoires)
 - 2021 : 973 492 € de la DGEC, 422 937 € issus du plan France Relance et 79 812 € de l'ADEME
@@ -146,8 +138,7 @@ L’objectif, dans un premier temps, a été de dématérialiser l’ensemble de
 
 *Direction générale de l'Énergie et du Climat (Ministère en charge de l'énergie)
 
-# La feuille de route
-
+## La feuille de route
 
 * Devenir le pôle central pour la gestion administrative des projets d’EnR électriques et de gaz renouvelable soumis à appel d’offres en France avec l’intégration de nouvelles énergies : 
 Biométhane (désignation et modification) puis reprise de l’historique ⇒ Potentiel va simplifier et accélérer le développement du biométhane, 60 projets historiques + désignation de 15 projets / an

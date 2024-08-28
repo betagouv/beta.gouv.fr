@@ -30,8 +30,10 @@ phases:
     end: 2022-04-30
   - name: alumni
     start: 2023-12-01
+thematiques: []
+techno: []
 ---
-# 2024 - Pause dans le développement du service numérique
+**2024 : pause dans le développement du service numérique**
 
 **Le développement du produit numérique dans sa forme actuelle est arrêté.** L’équipe continuera d’assurer dans les prochains mois l’accompagnement et le support des utilisateurs actuels, sans évolutions techniques ou fonctionnelles.
 
@@ -65,17 +67,17 @@ Le Haut Commissariat à l’Emploi et à l’Engagement des Entreprises (HC3E) s
 - **Un mode d’habilitation simple** : une matrice d’habilitation permet la création rapide et autonome de nouvelles structures et professionnels (l’outil est géré au niveau local) ;
 - **Une méthode itérative qui a fait ses preuves** : des échanges réguliers ont permis de bien comprendre ce qui était attendu par les professionnels de l’insertion. Plus particulièrement, l’idée est notamment que les aspects de l’outil qui ne suscitaient pas beaucoup d’engagement de la part des utilisateurs et qui n’étaient pas vraiment plébiscités disparaissent tandis que les fonctionnalités qui suscitaient le plus d’intérêt métier (et celles qui n’existaient pas encore mais qui étaient très attendues) soient améliorées / développées.
 
-# 2021 à 2023 - Archives
+## 2021 à 2023 - Archives
 
-## Le problème
+### Le problème
 
 Le champ de l’insertion sociale et professionnelle, et en particulier le domaine de l’accompagnement des usagers, se caractérise par une multiplicité et une grande diversité d’acteurs. La mauvaise connaissance et l'absence de partage de certaines données ne permettent pas aux professionnels de procéder à une bonne évaluation des situations des usagers et un suivi optimal des parcours. Le déficit de connaissance des éléments de parcours d’insertion d’un usager rend ainsi complexe l’analyse de sa situation et la mise en œuvre d’un parcours efficient entre partenaires.
 
-## Notre service
+### Notre service
 
 Développé dans le cadre du volet numérique du projet de Service Public de l'Insertion et de l'Emploi, l'outil Carnet de bord est un service public qui centralise les données essentielles (éléments de diagnostic socio-professionnel, identité et contact des accompagnateurs, contrats de parcours, objectifs à atteindre et actions initiées, historique de parcours) en une seule page. Il regroupe l’information dans un espace sécurisé permettant un échange accru des données essentielles, entre les accompagnateurs et le bénéficiaire afin d’amplifier la coordination et fluidifier le parcours d’un usager !
 
-## Nos publics
+### Nos publics
 
 **Qui sont les usagers en insertion concernés par l'outil ?** Carnet de bord propose la création de "carnets" d'usagers relevant de différents publics en insertion à l'instar des bénéficiaires du RSA, des demandeurs d'emploi (notamment longue durée, accompagnement global ou concernés par la modalité d'accompagnement "expert handicap"), des jeunes NEET, etc.
 

@@ -11,11 +11,14 @@ phases:
     start: 2022-12-05
     end: 2023-01-02
   - name: construction
-    start: 2023-02-06
+    start: 2023-06-05
+thematiques: []
+usertypes: []
+techno: []
 ---
 ## Contexte
 
-Le produit OSCARS permet de répondre à plusieurs problématiques métier que rencontre les agents travaillant sur la Mise En Formation de la DRHAT (Direction des Ressources Humaines de L'armée de Terre). 
+Le produit OSCARS permet de répondre à plusieurs problématiques métier que rencontrent les agents travaillant sur la Mise En Formation de la DRHAT (Direction des Ressources Humaines de L'armée de Terre). 
 
 ## Problème
 
@@ -47,9 +50,13 @@ L'outil OSCARS permettra à terme de :
 
 **Étape 4** (mars 2023) : présentation des travaux et déclinaison UI des écrans.
 
-**Étape 5** (avril 2023) : début du développement et déclinaison UI des écrans.
+**Étape 5** (juin 2023) : début du développement et déclinaison UI des écrans. Mise en suspens du développement des interfaces attendues avec les SI RH du MinArm.
+
+**Étape 6** (mars 2024) : livraison du PMV à la DRHAT et de la documentation technique associée.
+
+**Etape 7** (depuis juin 204) : travaux internes à la DRHAT concernant le devenir du produit et son financement.
 
 
 ## Résultat
 
-OSCARS permettra d’optimiser le processus de mise en formation et de décloisonner le passage d’information entre les différents acteurs.
+La Fabrique numérique et la DRHAT doivent identifier un scénario permettant de lancer et pérenniser l'usage du produit à grande échelle. L'intégration au SI RH de l'armée de Terre est à mener pour ce faire.

@@ -1,10 +1,11 @@
 ---
 mission: Faciliter la gestion des subventions de l’État aux collectivités locales
 incubator: dinum
-title: Gestion subventions locales
+title: Gestion des subventions locales
 contact: melanie.ercole@dgcl.gouv.fr
 accessibility_status: non conforme
 sponsors:
+  - /organisations/direction-generale-des-collectivites-locales
   - /organisations/interieur
 phases:
   - name: investigation
@@ -12,17 +13,22 @@ phases:
 thematiques:
   - Collectivités
   - Administratif
+usertypes:
+  - etat
+techno: []
 ---
-## Contexte
+## La start-up
 
-La DGCL est responsable du programme 119 « concours financiers aux collectivités territoriales et à leurs groupements », sur lequel environ 2 Md€ de crédits budgétaires sont ouverts chaque année au titre des dotations de soutien à l'investissement local : la dotation d’équipement des territoires ruraux (DETR), la dotation de soutien à l’investissement local (DSIL), la dotation de soutien à l’investissement des départements (DSID) et la dotation politique de la ville (DPV). Les préfets de région et de département étant chargés de l’attribution de ces subventions, la collecte et l’instruction des dossiers sont très largement déconcentrées. En 2022, ce sont ainsi plus de 40 000 dossiers qui ont été instruits par les services déconcentrés, et parmi eux, 24 000 projets qui ont été financés par l’Etat.
+La start-up d’État « Gestion des subventions locales » est portée par la **direction générale des collectivités locales (DGCL)** pour le compte du Ministère chargé des Collectivités territoriales et de la Ruralité. Elle est portée par **l’incubateur des services numériques (DINUM)** et applique la méthodologie Beta.
 
-La dématérialisation et la simplification de ces demandes de subventions ont été identifiées par la ministre chargée des collectivités territoriales comme des axes de travail prioritaires, pour améliorer le service rendu aux collectivités comme pour faciliter le travail des agents en préfectures.
+## Le produit
 
-## Problème
+Chaque année, l’État accorde **2 milliards d’euros** de subventions aux collectivités territoriales afin de soutenir leurs projets d’investissement (rénovation thermique des bâtiments publics, constructions d’équipements publics tels que des écoles, des maisons de santé, des équipements sportifs, etc.). Les préfets sont chargés de collecter les dossiers auprès des collectivités et de sélectionner les projets qui seront subventionnés. En 2023, plus de **24 000 projets** portés par environ **16 000 collectivités** ont ainsi été soutenus par l’État.
 
-Les demandes de subvention sont aujourd’hui dématérialisées à travers l’outil démarches simplifiées, et la déclinaison par chaque préfecture d’une trame nationale de formulaire. Ensuite, chaque préfecture s’organise avec les moyens dont elle dispose pour instruire les demandes et gérer ses dotations. Cela les conduit à mettre en place des tableurs, qui sont alimentés par de multiples ressaisies d’informations, émanant des autres outils par lesquels transitent les demandes de subvention durant leur cycle de vie (Démarches Simplifiées et Chorus principalement). En outre, des traitements manuels sont régulièrement requis pour extraire et visualiser des données, en réponse à des questions du corps préfectoral (ex : quels projets ont été soutenus sur l’arrondissement X ? quels projets répondent à telle priorité d’investissement relative à telle politique publique ?).
+La start-up vise à développer un **service numérique de gestion et de suivi de ces subventions**. Face à l’augmentation continue du nombre de dossiers, il devient en effet critique de faciliter le travail des agents publics chargés de l’instruction des dossiers.
 
-Face à l’augmentation du nombre de dossiers à instruire, notamment due à la croissance du montant des dotations et à l’émergence de nouveaux dispositifs (Fonds Vert), il devient critique de faciliter le travail des agents, le cas échéant avec des outils numériques faisant la jonction avec la dématérialisation déjà en vigueur via Démarches Simplifiées et Chorus.
+La phase d’investigation s’est tenue au premier semestre 2024 et a permis de valider le lancement du produit. 
 
-L’investigation en cours vise à vérifier la pertinence de lancer un service numérique répondant à cette problématique, notamment au regard des solutions existantes et des initiatives déjà lancées sur des domaines connexes.
+## L’équipe
+
+L’équipe est composée de Nicolas et Mélanie (intrapreneurs), Chloé (coach) et Adrien (responsable de portefeuille). Un designer et un développeur sont en cours de recrutement.

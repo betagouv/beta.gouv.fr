@@ -1,6 +1,6 @@
 ---
 title: Octopus
-mission: Optimiser la préparation des missions logistiques de l'armée de l'air
+mission: Optimiser la préparation des missions de transport et soutien logistique (armée de l'Air et de l'Espace)
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
@@ -11,22 +11,26 @@ phases:
     end: 2021-06-01
   - name: construction
     start: 2021-06-01
+  - name: acceleration
+    start: 2023-01-30
 usertypes:
   - etat
+thematiques: []
+techno: []
 ---
 ## Contexte
 
-Le projet est initié par la base aérienne d'Orléans Bricy pour mettre à disposition de ses opérateurs un outil en ligne de coordination et de préparation des missions aériennes.
+Initié par une escadre de transport aérien, le projet doit répondre aux enjeux de coordination et préparation des missions aériennes de transport et soutien logistique.
 
-Les outils utilisés actuellement sont constitués de plusieurs gros fichiers Excel, dont l’exploitation atteint aujourd’hui ses limites.
+Les outils utilisés constitués de gros fichiers Excel dotés de macros ont atteint des limites d'exploitation qui pénalisent l'activité.
 
 ## **Problématique**
 
-Ce produit répond à la volonté de la base aérienne de pouvoir travailler plus efficacement avec un outil partagé et collaboratif. Le nombre d'acteurs croissant et l'arrivée de nouveaux avions entraînent mécaniquement un besoin de traitements de plus en plus important.
+Les personnels de l'escadre veulent travailler plus efficacement avec un outil partagé et collaboratif. Le nombre d'acteurs croissant et l'arrivée de nouveaux avions entraînent mécaniquement un besoin de traitement plus important.
 
 ## **Objectifs**
 
-- Centraliser les informations dans un outil de planification pérenne
+- Centraliser et partager les informations dans un outil de planification pérenne
 - Améliorer la transmission des informations entre les acteurs
 - Améliorer le temps de traitement d'une mission
 
@@ -47,3 +51,5 @@ Ce produit répond à la volonté de la base aérienne de pouvoir travailler plu
 **étape 7 :** (mai 2022) livraison du PMV 
 
 **étape 8 :** (juillet 2022) itération 2 - retours utilisateurs et nouvelles fonctionnalités
+
+**étape 9 :** (depuis janvier 2023) travail avec la DSI sur le devenir du produit

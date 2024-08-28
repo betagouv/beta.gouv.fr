@@ -21,19 +21,21 @@ events:
   - name: fast
     date: 2024-01-01
     comment: Montant de 250000€ pour la promotion 13
+usertypes: []
+techno: []
 ---
-# **Contexte**
+## **Contexte**
 
 Chaque année, la France accueille entre 35 000 et 50 000 personnes réfugiées, avec une tendance à la hausse due aux conflits géopolitiques et aux migrations liées au changement climatique. Cependant, leur intégration en France est entravée par des obstacles majeurs.
 
-# **Problème**
+## **Problème**
 
 Ces problèmes sont principalement:
 
 1. **Le manque d'information et le non-recours aux droits des personnes réfugiées :** Éparpillement de l'information, barrière de la langue, manque de temps et de compréhension du système administratif français.
 2. **Le manque d'outillage des professionnels de l'accompagnement :** Manque de temps, de formation, et d'outils pour aider les réfugiés.
 
-# **Solution**
+## **Solution**
 
 Réfugié.info propose deux produits complémentaires pour simplifier l'intégration des personnes réfugiées en France :
 
@@ -42,7 +44,7 @@ Réfugié.info propose deux produits complémentaires pour simplifier l'intégra
 
 Toutes les informations sont créées de manière collaborative par les responsables d'organismes publics, des associations, et des bénévoles. Actuellement, Réfugié.info offre plus de 650 fiches, dont plus de 100 fiches "démarches" expliquant des procédures administratives complexes. De plus, toutes les informations sont disponibles en 7 langues, couvrant les langues les plus parlées par les personnes protégées en France, grâce à l'engagement de bénévoles et de traducteurs professionnels.
 
-# **Stratégie**
+## **Stratégie**
 
 Au cours des prochains mois, nous souhaitons nous focaliser nos efforts sur différentes étapes du parcours utilisateur:
 

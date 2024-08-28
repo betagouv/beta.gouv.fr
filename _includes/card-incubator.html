@@ -8,7 +8,7 @@
             <a class="fr-card__link" href="{{ incubator.url }}" >{{ incubator.title }}</a>
         </h3>
         {% if owner.name %}
-        <p class="fr-card__detail fr-mt-1w">{{ owner.name }}</p>
+            <p class="fr-card__detail fr-mt-1w">{{ owner.name }}</p>
         {% endif %}
         <!-- We use HTML for bold text into short descriptions (easier for now instead of parsing every field with https://www.gatsbyjs.com/plugins/gatsby-plugin-mdx-frontmatter/) -->
         {% assign short_description = incubator.short_description | strip_newlines | size %}

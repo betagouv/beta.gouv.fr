@@ -41,9 +41,9 @@ usertypes:
 fast:
   promotion: 12
   montant: 300000
+thematiques: []
 ---
-Trop d'anomalies aujourd'hui ne sont pas remontées
-===================================================
+## Trop d'anomalies aujourd'hui ne sont pas remontées
 
 Plus de 60 millions de consommateurs fréquentent quotidiennement près de 10 millions d'établissements. Et pour contrôler le droit des consommateurs ? Moins de 3 000 agents de la [DGCCRF](https://www.economie.gouv.fr/dgccrf).
 
@@ -51,8 +51,7 @@ Malgré l'action des enquêteurs, toutes les anomalies ne peuvent pas être dét
 
 Or, le consommateur est l'acteur le mieux placé pour repérer de possibles anomalies et pour faire valoir ses droits.
 
-Signaler pour faire agir les professionnels
-===========================================
+## Signaler pour faire agir les professionnels
 
 L’outil  accompagnera le consommateur avant, pendant et après ses achats, et lui permettra de signaler les problèmes rencontrés dans sa vie de tous les jours (chez son épicier, dans un bar..)
 
@@ -65,7 +64,6 @@ Si les signalements sont trop nombreux ou fréquents pour un établissement, les
 L’impact social recherché est une baisse significative des anomalies rencontrées par les consommateurs et une responsabilisation accrue des professionnels.
 
 
-Une démarche pour les consommateurs
-===================================
+## Une démarche pour les consommateurs
 
 Le lancement du service s’appuiera sur des consommateurs, des associations de consommateurs, les services de la DGCCRF, ainsi que des associations interprofessionnelles et des entreprises intéressées pour faire avancer la démarche.

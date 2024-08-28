@@ -1,6 +1,6 @@
 ---
 mission: Rechercher des actes dans les recueils des actes administratifs
-incubator: lab-mi
+incubator: miom
 title: ReAcT
 contact: jean-luc.girel@aube.gouv.fr
 accessibility_status: non conforme
@@ -17,6 +17,9 @@ usertypes:
 phases:
   - name: investigation
     start: 2023-11-20
+  - name: alumni
+    start: 2024-08-21
+techno: []
 ---
 ## Contexte
 

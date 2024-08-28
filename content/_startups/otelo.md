@@ -11,11 +11,11 @@ phases:
     start: 2023-05-01
   - name: construction
     start: 2023-10-10
+thematiques: []
+usertypes: []
+techno: []
 ---
-# OTELO
-
-###### Solution collaborative pour optimiser les politiques locales en logement
-
+> OTELO est une solution collaborative pour optimiser les politiques locales en logement
 
 ## Le problème
 

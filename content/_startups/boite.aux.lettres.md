@@ -14,8 +14,10 @@ phases:
     start: 2023-05-01
 thematiques:
   - Formation
+usertypes: []
+techno: []
 ---
-# **Contexte**
+## **Contexte**
 
 La mission Apprentissage contribue à faciliter l'écosystème de l'apprentissage. Elle a développé plusieurs produits destinés aux futurs apprentis, aux entreprises et aux organismes de formation. Actuellement, la mission propose deux principaux services :
 
@@ -24,20 +26,20 @@ La mission Apprentissage contribue à faciliter l'écosystème de l'apprentissag
 
 Dans ce contexte, les services de la Mission manipulent nombreuses sources de données liées aux futurs apprentis, telles que les vœux réalisés sur Affelnet et Parcoursup, des données relatives au contrat d’apprentissage, aux employeurs et aux organismes de formation provenant de DECA (système d’information de dépôt des contrats d'apprentissage), ainsi que celles des OPCOs (Opérateurs de compétences, responsables du financement des formations en apprentissage), parmi d’autres. Ces données à caractère personnel sont soumises à des règles strictes de protection de données. BAL a été développée dans le but principal de garantir un environnement sécurisé pour l'hébergement de ces données personnelles et les centraliser pour les besoins des différents services de la Mission.
 
-# Problématiques
+## Problématiques
 
 * **Faible concrétisation des vœux en alternance** : Chaque année, un pourcentage significatif de vœux en alternance formulés sur Affelnet et Parcoursup ne se concrétise pas en entrée effective en alternance. Seulement 15% de ceux ayant formulé des vœux sur Parcoursup (Source : [Parcoursup - bilan de la procédure d’admission 2022](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2022-09/bilan-de-la-proc-dure-d-admission-2022-24379.pdf)) et 63% des jeunes ayant formulé des vœux sur Affelnet ([Source : Enquête Oripa 2018](https://docs.google.com/document/d/1gSxaX3enVisB7X_JPDIgtL1TFcR6jOqJ/edit)) parviennent à trouver une place en alternance. Nous souhaitons accompagner les jeunes au bon moment vers des opportunités d’emploi et par conséquent les aider à avoir plus de chances d’être acceptés en formation.
 * **Jeunes en formation sans contrat** : Il existe un nombre significatif de jeunes en formation sans contrat : 2 857 parmi les 442 193 apprentis recensés par le [Tableau de bord au 29/06/2023](https://cfas.apprentissage.beta.gouv.fr/). Ces jeunes ont un délai de 3 mois pour trouver un contrat en alternance. Passé ce délai, différentes situations peuvent se présenter pour la poursuite de leur parcours, certaines moins favorables, telles que devoir financer eux-mêmes leur formation ou même l’abandonner. Nous souhaitons les soutenir dans leur recherche de contrat et leur éviter les situations d'abandon.
 * **Validation manuelle des comptes sur La bonne alternance** : Pour garantir la fiabilité et la sécurité du service, les comptes de recruteurs qui souhaitent diffuser des offres sur La bonne alternance doivent être validés. Actuellement, ce processus de validation est en grande partie effectué manuellement par les chargés de déploiement, ce qui prend en moyenne 1 journée par semaine de leur temps de travail. Certaines validations de comptes prennent plus d'une semaine, ce qui bloque l’utilisateur pendant son parcours. Nous cherchons à automatiser et accélérer ce processus de validation pour améliorer l'efficacité du service.
 * **Validation manuelle des comptes sur le tableau de bord** : Les chargés de déploiement du tableau de bord consacrent en moyenne une demi-journée par semaine à la validation manuelle des comptes des agents. Ce processus manuel peut être chronophage. Nous visons à rendre la validation des comptes plus efficace en automatisant autant que possible ce processus.
 
-# Solution
+## Solution
 
-## Centraliser et sécuriser les données
+### Centraliser et sécuriser les données
 
 Nous souhaitons mettre en place une infrastructure sécurisée, en utilisant des mécanismes de sécurisation tels que le chiffrement des données, le contrôle des accès et un système d'habilitations. L'objectif est d'héberger des données fiabilisées et à caractère personnel, afin de les rendre facilement accessibles aux différents services de la Mission interministérielle pour l'apprentissage et de servir à leurs usages, comme par exemple :
 
-### 1. Faciliter l’accès à information grâce aux listes de diffusion
+#### 1. Faciliter l’accès à information grâce aux listes de diffusion
 
 Afin de rendre rapidement accessibles aux jeunes les formations et offres d'emploi en alternance disponibles sur La bonne alternance, nous prévoyons de centraliser les informations issues des vœux formulés sur Affelnet et Parcoursup. Ces données seront utilisées afin de générer des listes de diffusion, permettant à La bonne alternance d'envoyer des campagnes d'emails contenant des liens personnalisés pour prendre rendez-vous avec les centres de formation et rechercher des offres d'emploi correspondant aux vœux formulés.
 
@@ -45,20 +47,20 @@ Afin de rendre rapidement accessibles aux jeunes les formations et offres d'empl
 
 Afin de prévenir les abandons de formation pour les apprenants sans contrat, nous envisageons la création de listes de diffusion basées sur les données recensées par le tableau de bord de l’apprentissage. Ces listes permettront à La bonne alternance d'envoyer des campagnes d'emails proposant des offres d'emploi disponibles en alternance avant la fin du délai de 3 mois.
 
-### 2. Automatiser la validation des offres et des comptes
+#### 2. Automatiser la validation des offres et des comptes
 
 Pour garantir la fiabilité et l’efficacité du service, nous souhaitons automatiser autant que possible le processus de validation des comptes sur La bonne alternance. Pour ce faire, nous effectuons des vérifications pour confirmer que l’adresse email du recruteur appartient à une entité, en utilisant le numéro de SIRET correspondant. Nous envisageons d'intégrer de nombreuses sources de données fiabilisées et actualisées, en établissant des connexions avec différentes API telles que DECA, les OPCOs, Pôle emploi, et autres. Cette automatisation permettra d'accélérer le processus de validation, réduisant ainsi les délais entre le dépôt d’une offre et sa publication.
 
 Parallèlement, nous cherchons également à automatiser la validation des comptes sur le tableau de bord de l’apprentissage, afin de rendre ce processus plus efficace et moins chronophage pour les chargés de déploiement.
 
-### 3. Mesurer l’impact de bout en bout
+#### 3. Mesurer l’impact de bout en bout
 
 Afin d’évaluer l'impact des services d'accompagnement des jeunes en alternance au sein de la Mission interministérielle pour l’apprentissage, nous souhaitons réaliser et afficher des mesures transversales qui nous permettront de comprendre dans quelle mesure nos services ont contribué au parcours réussi des apprenants. Nous envisageons de mesurer des indicateurs tels que :
 
 * Le nombre de jeunes que nous avons aidés à trouver une formation grâce au service de prise de rendez-vous disponible sur La bonne alternance
 * Le nombre de jeunes que nous avons aidés à signer un contrat grâce au service de candidature disponible sur La bonne alternance ou à l’envoi de liens spécifiques vers des offres ou des entreprises identifiées par La bonne alternance.
 
-# Mesures **de succès**
+## Mesures **de succès**
 
 * Affichage des statistiques des mesures d’impact des services de la Mission :
 
@@ -75,7 +77,7 @@ Afin d’évaluer l'impact des services d'accompagnement des jeunes en alternanc
 
   * Le temps moyen entre le dépôt d’une offre sur La bonne alternance et sa publication.
 
-# **Périmètre**
+## **Périmètre**
 
 Phase 1 (Juin - Décembre 2023)
 

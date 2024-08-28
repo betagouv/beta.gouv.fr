@@ -3,7 +3,7 @@ title: ASTREE
 mission: 'Aider au traitement des contentieux de masse ou sériel '
 sponsors:
   - /organisations/interieur
-incubator: lab-mi
+incubator: miom
 contact: jean-francois.roude@interieur.gouv.fr
 accessibility_status: non conforme
 events:
@@ -13,8 +13,12 @@ phases:
   - name: investigation
     start: 2023-01-16
     end: 2023-06-20
+  - name: alumni
+    start: 2024-08-21
 thematiques:
   - Administratif
+usertypes: []
+techno: []
 ---
 ## Contexte
 

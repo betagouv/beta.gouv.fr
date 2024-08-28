@@ -1,6 +1,6 @@
 ---
 title: Cassiopée
-mission: Optimiser les parcours de formations des officiers souhaitant revenir à la vie civile
+mission: Optimiser les parcours de formation des officiers souhaitant revenir à la vie civile
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
@@ -13,16 +13,21 @@ phases:
   - name: construction
     comment: Début des développements et livraison d'une première version expérimentale le 6 juillet 2021. Récupérations des retours utilisateurs.
     start: 2021-05-23
+  - name: acceleration
+    start: 2022-06-06
+  - name: transfer
+    start: 2024-03-25
 usertypes:
   - etat
 thematiques:
   - Formation
+techno: []
 ---
 ## Contexte
 
 Aux termes de leur carrière militaire, certains officiers généraux souhaitent retourner à la vie civile et y poursuivre une nouvelle carrière.
 
-Les codes, les valeurs et les comportements attendus étant souvent différents entre le monde civil et le monde militaire, un organisme interne au ministère des Armées, la MiRVOG, est chargé de les accompagner en créant avec eux un programme de formation afin de réaliser leur projet.
+Afin de préparer ces derniers à anticiper et répondre aux attentes de futurs employeurs civils, un organisme interne au ministère des Armées, la MiRVOG, est chargé de les accompagner sur des parcours de formation personnalisés.
 
 ## Problématique
 
@@ -38,8 +43,9 @@ Les conséquences de ces différents problématiques sont principalement financi
 
 ## Objectifs
 
-* Optimiser le taux de remplissage des sessions de formation.
-* Améliorer le coût des formations.
+* Offrir aux officiers une solution en ligne centralisant l'ensemble des informations et procédures d'inscription aux formations.
+* Améliorer la participation et le taux de remplissage des sessions de formation.
+* Optimiser les coûts de mise en oeuvre des formations.
 * Réduire le temps passé sur les tâches de planification et gestion des formations pour se concentrer sur des tâches à plus haute valeur ajoutée.
 * Avoir un suivi statistique des formations et de leur pertinence.
 
@@ -51,3 +57,11 @@ Une interface _responsive mobile_ pour les officiers afin de suivre les formatio
 Les officiers peuvent également voir leurs formations passées et faire le point sur leur progamme personnel de formation.
 
 Un système de notification pour gagner en réactivité pour l'ensemble des utilisateurs.
+
+## Travaux en cours
+
+Après une phase d'adaptation (prise en compte du DSFR) et d'amélioration du produit conduite de septembre 2023 à mars 2024, dans le cadre de l'accélération, Cassiopée est entrée en phase de transfert.
+
+Des travaux ont lieu avec la DSI RH du ministère des Armées afin d'assurer une stratégie de maintien en condition opérationnelle compatible avec la sécurisation de l'usage de Cassiopée dans le temps (exploitation, TMA...).
+
+Le maintien du "mode produit" est un des enjeux méthodologiques et organisationnels à valider avec les équipes des SI RH du MinArm. 
