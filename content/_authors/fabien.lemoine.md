@@ -7,8 +7,8 @@ competences:
 missions:
   - start: 2024-08-19
     end: 2025-01-31
-    employer: malt
     status: independent
+    employer: malt
     startups:
       - precontentieux.justice
 ---

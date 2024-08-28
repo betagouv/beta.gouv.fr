@@ -11,8 +11,11 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+thematiques: []
+usertypes: []
+techno: []
 ---
-### **Problématique identifiée** 
+## **Problématique identifiée** 
 
 Aujourd’hui il y a des pics d’affluence à l’approche de la rentrée scolaire qui engendrent pour :
 
@@ -28,7 +31,7 @@ Pour l’année scolaire 2020-2021,les recettes en espèces représentent 25% de
 
 La collecte des fonds par le régisseur se fait généralement une fois par mois et en grosse période d’encaissement jusqu’à deux fois/mois. Le problème est donc fréquent.
 
-### **Principales causes du problème** 
+## **Principales causes du problème** 
 
 **Pics d’affluence en agence :** 
 
@@ -50,7 +53,7 @@ Majeur à l’échelle de l’agence du Tampon, qui compte le plus grand nombre 
 
 Actionnable : connaissance des acteurs, petit périmètre d’action actionnable, régisseur des recettes intégré dans le PNI
 
-### **Hypothèses à tester** 
+## **Hypothèses à tester** 
 
 Sur le terrain nous avons besoin de connaître les habitudes des abonnés en matière d’inscription plus précisément :
 
@@ -78,19 +81,16 @@ Les agents seront interrogés sur leurs sites respectifs.
 
 Lorsque les acteurs sont contactés, ils sont informés que nous travaillons sur une enquête pour avoir leur ressenti sur la solution proposée actuellement en matière d’inscription et de paiement des titres de transports. Ils sont informés que nous étudions des pistes d’amélioration à la solution actuelle et nous leur demandons enfin s'ils souhaitent être contactés à nouveau si une solution meilleure est proposée.
 
-### **Impact recherché**
+## **Impact recherché**
 
 L’objectif est de conforter l'acquisition du nouvel outil dématérialisé et de réajuster/créer des modules en fonction des attentes des usagers et des besoins des agents
 
 Les solutions proposées doivent permettre d’augmenter le taux d’inscription et de paiement des titres de transports scolaires en ligne et donc réduire l’affluence des abonnés en agence, l’encaissement des titres de transport en espèces.
 
 Pour cela :
-
-\- lancement d’une campagne de communication pour la rentrée 2021-2022 sur l’inscription et le paiement des titres de transport en ligne (affiche format A1 dans les agences, affiche format A4 dans les bus et partage du visuel sur les différents supports de communication partenaires à la CASUD)
-
-\- formation des ATS (accompagnateur au transport scolaire) qui sont mis à disposition dans les agences pendant la période de rentrée scolaire de manière à ce qu’ils orientent les abonnés, effectuent le filtrage des files d’attente et surtout qu’ils sensibilisent les abonnés sur l’inscription et le paiement des titres en ligne.
-
-\- faire l’acquisition d’une solution plus performante et la mettre à disposition des abonnés pour la rentrée scolaire 2022-2023 de manière à ce qu’il puisse effectuer l’inscription et le paiement de leur titre de transport plus facilement. Avant le déploiement du module, l’ensemble des acteurs devra être formé à son utilisation. Une campagne de communication adéquate devra être engagée de manière à promouvoir le module.
+- lancement d’une campagne de communication pour la rentrée 2021-2022 sur l’inscription et le paiement des titres de transport en ligne (affiche format A1 dans les agences, affiche format A4 dans les bus et partage du visuel sur les différents supports de communication partenaires à la CASUD)
+- formation des ATS (accompagnateur au transport scolaire) qui sont mis à disposition dans les agences pendant la période de rentrée scolaire de manière à ce qu’ils orientent les abonnés, effectuent le filtrage des files d’attente et surtout qu’ils sensibilisent les abonnés sur l’inscription et le paiement des titres en ligne.
+- faire l’acquisition d’une solution plus performante et la mettre à disposition des abonnés pour la rentrée scolaire 2022-2023 de manière à ce qu’il puisse effectuer l’inscription et le paiement de leur titre de transport plus facilement. Avant le déploiement du module, l’ensemble des acteurs devra être formé à son utilisation. Une campagne de communication adéquate devra être engagée de manière à promouvoir le module.
 
 Nous devons accompagner le module de mode d’emploi (papier et vidéo), afin d’aider les usagers. 
 

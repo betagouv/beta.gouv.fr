@@ -64,40 +64,40 @@ La facilité d’utilisation et la sécurité sont primordiales pour Administrat
 
 ## État du déploiement
 
-#### Décembre 2017
+### Décembre 2017
 
 * Argenteuil (Val-d'Oise) : premier territoire à utiliser Administration+. En un an, plus de 300 situations critiques ont été traitées. Les Agents+ ont jugé pertinentes les demandes des Aidants+ à près de 90%.
 
-#### Mars 2018
+### Mars 2018
 
 * Nice (Alpes-Maritimes)
 
-#### Juin 2018
+### Juin 2018
 
 * Cahors (Lot) dans le cadre de [l’expérimentation “Carte Blanche”](https://www.modernisation.gouv.fr/nos-actions/carte-blanche) de la direction interministérielle de la transformation publique (DITP)
 
-#### Février 2019
+### Février 2019
 
 * Cagnes-sur-Mer (Alpes Maritime)
 
-#### Mars 2019
+### Mars 2019
 
 * Cœur-de-Perche (Orne) dans le cadre de [l'expérimentation “Service Public +”](https://www.modernisation.gouv.fr/nos-actions/les-services-publics) de la DITP
 
-#### Avril 2019
+### Avril 2019
 
 * Marseille (Bouches-du-Rhône) avec la participation du [Lab Zéro](https://www.lelabzero.fr/)
 * Béthune (Pas-de-Calais) dans le cadre de l'expérimentation “Service Public +” de la DITP
 
-#### Mai 2019
+### Mai 2019
 
 * Lyon (Rhône), Quartier des États-Unis, dans le cadre de l'expérimentation “Service Public +” de la DITP
 
-#### De novembre 2019 à aujourd'hui
+### De novembre 2019 à aujourd'hui
 
 * Administration+ équipe l'ensemble des France services depuis la première vague de labellisation. L'ensemble du territoire est couvert depuis 2020 avec l'ouverture des France services du Territoire de Belfort.
 
-#### Et d'autres à venir...
+### Et d'autres à venir...
 
 Administration+ se développe et tisse de nombreux partenariats afin de pouvoir proposer l'outil au plus grand nombre d'Aidants et d'Agents. Notre objectif ? Une couverture à 100% de celles et ceux qui peuvent aider à impacter positivement la vie des usagers !
 

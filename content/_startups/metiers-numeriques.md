@@ -20,8 +20,10 @@ stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idS
 usertypes:
   - particulier
   - etat
+thematiques: []
+techno: []
 ---
-### Contexte
+## Contexte
 
 Le numérique est incontournable et prend une place croissante dans nos vies et nos usages. Pourtant, si les besoins sont très importants, les ressources humaines sont limitées et l'on assiste aujourd’hui à une véritable guerre des talents dans le numérique.
 
@@ -29,7 +31,7 @@ Dans ce contexte, l'État reste un des gros pourvoyeurs de postes dans le numér
 
 L’enjeu d'attractivité est collectif, notre objectif est d'y répondre de la façon la plus adéquate et pertinente possible.
 
-### Problèmes identifiés
+## Problèmes identifiés
 
 **Pour les recruteur·ses** :
 
@@ -47,7 +49,7 @@ Aujourd’hui, en moyenne 10 à 15% des postes proposés ne sont pas pourvus. Ce
 
 Viens constater l’inverse et changer la donne de l'intérieur ! Parce que l'État a besoin de tous les talents numériques, rejoins l’aventure !
 
-### Le produit
+## Le produit
 
 metiers.numerique.gouv.fr est plus qu’un simple site internet !
 
@@ -55,7 +57,7 @@ Le site Métiers du Numerique permet de trouver des missions enrichissantes et s
 
 Cette plateforme de matching permet la rencontre entre des candidat·es qui veulent travailler pour l'intérêt général et des recruteurs publics qui ont des besoins de compétences.
 
-### Notre ambition
+## Notre ambition
 
 - Mettre en lumière les projets, les technologies, les méthodes de travail, les femmes et les hommes qui rendent tout cela possible !
 - Simplifier et rendre accessible les offres d’emploi.

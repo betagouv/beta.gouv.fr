@@ -24,6 +24,7 @@ accessibility_status: partiellement conforme
 thematiques:
   - Territoires
   - Open-Data
+techno: []
 ---
 ## Le problème
 
@@ -54,13 +55,13 @@ Et enfin, les accompagnateurs qui ont des trésors de ressources et bases de don
 
 ## Comment contribuer au patrimoine commun ?
 
-###### Mettre vos données à disposition sur data·inclusion
+### Mettre vos données à disposition sur data·inclusion
 
 Les modalités de mise à disposition de vos données pour intégration dans data·inclusion peuvent être très différentes selon l'outil que vous utilisez et la structure de vos données.
 
 Nous vous recommandons de nous contacter par email : [data.inclusion@beta.gouv.fr](mailto:data.inclusion@beta.gouv.fr).
 
-###### Consommer et réutiliser les données de data·inclusion
+### Consommer et réutiliser les données de data·inclusion
 
 Les données de data·inclusion sont mises à disposition en [téléchargement libre](https://www.data.gouv.fr/fr/datasets/6233723c2c1e4a54af2f6b2d/) selon les principes de l'Open Data pour intégration dans votre outil (formats de données Excel, CSV et JSON). Nous mettons également à disposition [une API](https://www.data.inclusion.beta.gouv.fr/api/lapi-data.inclusion) pour la récupération de données en temps réel, à intégrer par vos équipes informatiques ou un prestataire.\
 N'hésitez pas à nous contacter pour que nous discutions de votre cas d'usage des données data·inclusion :  [data.inclusion@beta.gouv.fr](mailto:data.inclusion@beta.gouv.fr)

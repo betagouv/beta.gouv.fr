@@ -20,22 +20,26 @@ phases:
   - name: success
     start: 2023-10-19
 accessibility_status: partiellement conforme
+thematiques: []
+techno: []
 ---
-### Description du produit
+## Description du produit
 Accessible sur le site www.francetravail.fr, MétierScope vise à
 
 1. **Aider les personnes en transition professionnelle, qui recherchent de l’information sur les métiers, les compétences et les démarches,**
 2. **Confirmer une piste professionnelle**
 3. **Enclencher des démarches pour réaliser la transition choisie**
 
-###### 🔎MétierScope répond aux enjeux du niveau 1 du conseil en évolution professionnelle (CEP) : information personnalisée, territorialisée et de qualité sur les métiers et compétences.🔍
+**🔎MétierScope répond aux enjeux du niveau 1 du conseil en évolution professionnelle (CEP) : information personnalisée, territorialisée et de qualité sur les métiers et compétences.🔍**
 
-### Problématique à laquelle nous répondons
+## Problématique à laquelle nous répondons
+
 Toutes les informations sur les métiers existent, mais elles sont dispersées. Les services pour accompagner la démarche d’évolution professionnelle ne sont pas mis en perspectives.
 
 Les personnes en reconversion professionnelle ont besoin d’informations claires pour prendre une décision et avancer vers leur prochain métier.
 
-### La Solution
+## La Solution
+
 **MétierScope expose :**
 
 👁️‍🗨️ toutes les informations sur les métiers et compétences du référentiel ROME 4.0,
@@ -70,14 +74,14 @@ Ainsi, MétierScope aide les personnes à identifier leurs compétences issues d
 
 Pour les personnes connues et identifiées de France travail, il est ainsi possible d’enrichir directement son profil de compétences tout au long de sa navigation sur le site et par la suite d’en extraire un CV.
 
-### Cibles
+## Cibles
+
 **💡Sur MétierScope, l’utilisateur est au centre de la démarche de développement du service.**
 
 L’ensemble des personnes souhaitant s’informer sur les métiers et compétences et/ou en reconversion professionnelle.
 
-### Indicateurs d’impact
-🔸 Nombre de visites de MétierScope
+## Indicateurs d’impact
 
-🔸 Nombre d’ouvertures de Fiche métier
-
-🔸 Nombre de consultations des services
+- Nombre de visites de MétierScope
+- Nombre d’ouvertures de Fiche métier
+- Nombre de consultations des services
