@@ -19,6 +19,8 @@ contact: geo@api.gouv.fr
 usertypes:
   - particulier
   - entreprise
+thematiques: []
+techno: []
 ---
 La GéoAPI est une boîte-à-outils facile à prendre en main pour rendre vos applications et bases de données plus intelligentes, en terme de positionnement et de connaissance des territoires.
 

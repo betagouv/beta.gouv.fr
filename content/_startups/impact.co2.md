@@ -67,11 +67,11 @@ Nos objectifs pour nos relais sont :
 * **Outiller et fidéliser nos réutilisateurs** avec des ressources personnalisables sur un large panel de thématiques (Alimentation, Transport, Numérique, Chauffage, etc.) ;
 * **Faciliter la diffusion et/ou l’intégration de nos ressources** à de nouveaux contenus de sensibilisation.
 
-Les données sur lesquelles sont basées les ressources sont en *open data* : [jeux de données ouverts de l'ADEME](https://data.ademe.fr/), [](https://librairie.ademe.fr/)[études de l'ADEME](https://librairie.ademe.fr/), [base Empreinte](https://base-empreinte.ademe.fr/) et [base Agribalyse](https://agribalyse.ademe.fr/). Le code source du site et la méthodologie de calcul sont entièrement open source et accessibles sur notre [repo GitHub](https://github.com/datagir/impactco2).
+Les données sur lesquelles sont basées les ressources sont en *open data* : [jeux de données ouverts de l'ADEME](https://data.ademe.fr/), [études de l'ADEME](https://librairie.ademe.fr/), [base Empreinte](https://base-empreinte.ademe.fr/) et [base Agribalyse](https://agribalyse.ademe.fr/). Le code source du site et la méthodologie de calcul sont entièrement open source et accessibles sur notre [repo GitHub](https://github.com/datagir/impactco2).
 
 ## Stratégie 📈
 
-[](http://impactco2.fr/)Impact CO2 rassemble aujourd'hui **près d’1 000 000 visites** depuis son lancement en février 2021, et bénéficie d’une visibilité grandissante auprès des acteurs publics et privés. L'impact recherché est donc d’accroître l'utilisation et le partage du site et des contenus proposés, ceci afin d’**accélérer la diffusion de l'information environnementale pour nos relais et le grand public** (approche B2B2C).
+[Impact CO2](http://impactco2.fr/) rassemble aujourd'hui **près d’1 000 000 visites** depuis son lancement en février 2021, et bénéficie d’une visibilité grandissante auprès des acteurs publics et privés. L'impact recherché est donc d’accroître l'utilisation et le partage du site et des contenus proposés, ceci afin d’**accélérer la diffusion de l'information environnementale pour nos relais et le grand public** (approche B2B2C).
 
 L'approche est simple :
 
@@ -84,11 +84,11 @@ L'approche est simple :
 
 Impact CO2 est un service numérique conçu selon l’**approche Startup d’État** et piloté par l’impact.
 
-#### Indicateur Étoile du Nord ⭐
+### Indicateur Étoile du Nord ⭐
 
 * Nombre d’utilisations de nos ressources (vues, téléchargements, partages et intégrations *iframe).*
 
-#### Métriques de suivi 🖋️
+### Métriques de suivi 🖋️
 
 * **Visites** :
 

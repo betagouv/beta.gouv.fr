@@ -28,6 +28,7 @@ phases:
 thematiques:
   - Travail / Emploi
   - Open-Data
+techno: []
 ---
 ## Le problème
 
@@ -51,19 +52,19 @@ Bien plus qu'un annuaire, [Dora](https://dora.inclusion.beta.gouv.fr) est un ser
 - Offrant la possibilité aux structures d’insertion de référencer simplement et mettre à jour en temps réel leur offre de services. Qui est ensuite diffusée sur toutes les plateformes et sites web partenaires.
 - Permettant ainsi aux professionnels de l'insertion sociale et professionnelle au contact des publics de rechercher et prescrire rapidement les services le plus adaptés aux besoins de leurs bénéficiaires directement depuis l'outil qu'ils utilisent au quotidien
 
-#### "Dites-le nous une fois"
+### "Dites-le nous une fois"
 
 Nous sommes engagés dans une démarche d’_open data_ et rendons disponibles nos données à travers un référentiel commun — partagé par toutes les plateformes et sites web partenaires. Grâce à cette dynamique collective, vous référencez votre offre une seule fois tout en la rendant disponible partout.[ Vous pouvez dès à présent accéder aux données de Dora et les télécharger sur data.gouv.](https://www.data.gouv.fr/fr/datasets/referentiel-de-loffre-dinsertion-liste-des-structures-et-services-dinsertion/)
 
 ## Le service Dora vous intéresse ?
 
-#### A. Vous représentez un territoire, une collectivité et cherchez à faciliter la coopération des acteurs de l'insertion de votre territoire ?
+### A. Vous représentez un territoire, une collectivité et cherchez à faciliter la coopération des acteurs de l'insertion de votre territoire ?
 
 Déployez Dora sur votre territoire en tout autonomie, grâce à notre [kit de déploiement conçu pour les correspondants locaux. ](https://docs.google.com/presentation/d/e/2PACX-1vRO9E2xQXWJOgsABNHLmEWdeUb3FK6AIKcrW_bqUMNn-pmSwdZwCkZb-jFcedsde8rxwzilHdWBG4jp/pub?start=false&loop=false&delayms=3000)
 
 Lancez-vous dès aujourd'hui dans le déploiement de cette solution de cartographie de l'offre d'insertion pour votre territoire. Dora est un outil mis à votre disposition que vous pouvez présenter à vos partenaires dès que vous le souhaitez !
 
-#### B. Vous travaillez pour une structure de l'insertion qui propose des services à des personnes en situation d'insertion ?
+### B. Vous travaillez pour une structure de l'insertion qui propose des services à des personnes en situation d'insertion ?
 
 Référencez votre offre de service sur [Dora](https://dora.inclusion.beta.gouv.fr) !
 
@@ -74,7 +75,7 @@ Pour quoi faire ?
 - mettre à jour collaborativement et en temps réel vos informations (contact, horaires, adresse, disponibilité...)
 - un lien unique de votre page structure avec tous vos services référencés à partager
 
-#### C. Vous travaillez pour une structure qui accompagne des bénéficiaires en situation d'insertion ?
+### C. Vous travaillez pour une structure qui accompagne des bénéficiaires en situation d'insertion ?
 
 le service Dora est déjà implanté sur votre territoire ?
 

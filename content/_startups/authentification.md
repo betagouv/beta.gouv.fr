@@ -10,15 +10,19 @@ repository: https://github.com/tchapgouv/tchap-identite
 phases:
   - name: construction
     start: 2022-04-01
+  - name: alumni
+    start: 2024-01-01
 usertypes:
   - collectivite-territoriale
   - etat
 thematiques:
   - Outil technique
+techno: []
 ---
 ## Contexte
 
 Authentification a été initié en Avril 2022.
+En 2024, Authentification a été fusionné au sein d'un seul produit regroupant les solutions AgentConnect, ProConnect et MonComptePro.
 
 ## Problèmes
 

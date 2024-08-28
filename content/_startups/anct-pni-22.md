@@ -11,28 +11,30 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+thematiques: []
+usertypes: []
+techno: []
 ---
 Chaque jour, le personnel de crèche effectue 100 transmissions aux familles de Marseillan. En France, on recense plus de 400 000 places en crèches, ce qui constitue un potentiel immense à l'échelle nationale.
 
-### **Problèmes identifiés**
+## Problèmes identifiés
 
 Les transmissions entre le personnel de la crèche et les familles posent plusieurs problèmes :
 
 *   Côté famille : il existe une **perte d'informations** lorsque des personnes tierces récupèrent les enfants (environ **35% des familles sont concernées**).
 *   Côté personnel de crèche : il y a une **absence de centralisation des informations récoltées**, de **multiples saisies et resaisies des informations dans différents supports** et parfois, **perte des informations** au cours de la journée. **Ce temps perdu est estimé à environ 18 minutes tous les jours !**
 
-### **Impact recherché** 
+## Impact recherché
 
 *   **Améliorer et enrichir** les transmissions pour les rendre **plus vivantes et accessibles** à tous ;
 *   Faire en sorte **qu'il n'y ait plus de pertes d'informations ;**
 *   Faire en sorte de **donner de la visibilité sur les moments de vie de l'enfant** à la crèche ;
 
-Démarche d'investigation
-------------------------
+## Démarche d'investigation
 
-### **🔎 Temps 1 : Recherche usager**
+### 🔎 Temps 1 : Recherche usager
 
-Notre recherche terrain s'articule autour de trois pilliers :
+Notre recherche terrain s'articule autour de trois piliers :
 
 *   **16 entretiens auprès d'un panel représentatif de familles** (parents et personnes tierces qui sont amenées à déposer ou récupérer l'enfant)
 *   **2 observations en crèche** via des "Carnets de bords"
@@ -44,7 +46,7 @@ Au terme de cette recherche, nous souhaitons à :
 *   identifier les **points de douleur rencontrés** 
 *   mettre en lumière les **opportunités d'amélioration des transmissions**
 
-### **💡 Temps 2 : Identification des problématiques clés et idéation**
+### 💡 Temps 2 : Identification des problématiques clés et idéation
 
 Voici les enseignements que la recherche usager nous a permis de mettre en lumière : 
 
@@ -63,14 +65,13 @@ Voici les enseignements que la recherche usager nous a permis de mettre en lumi�
 *   Perte d’informations lié aux problèmes de relecture
 *   Incompréhension du projet pédagogique par certains parents pressés / qui ne prennent pas le temps lors des transmissions 
 
-### **💡 Temps 3 : Illustration et test de l'expérience cible**
+### 💡 Temps 3 : Illustration et test de l'expérience cible
 
 A partir de ces problématiques, nous avons mené plusieurs sessions d'idéation et réalisé un benchmark des solutions existantes sur le marché pour identifier un concept avec une proposition de valeur forte et qui réponde vraiment aux besoins des familles.
 
 Notre concept : des **transmissions** numériques **interactives accessibles** à tout instant et **adaptées aux besoins** des familles.
 
 Les fonctionnalités clés : 
-
 *   🚀 **Transmissions** **accessibles à tout moment et personnalisables** en fonction des besoins des familles 
 *   📆 **Accès à l’historique des transmissions** semaine après semaine
 *   📝 **Gestion administrative à distance avec un système d’alertes** pour relancer les familles (contrats, congés)
@@ -86,4 +87,5 @@ En conclusion pour les familles, cet outil leur facilite l’accès aux informat
 > _Super outil, que des avantages, on ne perd pas le lien physique et relationnel avec le personnel de crèche._
 > 
 > _J’ai accès aux informations même quand c’est pas moi qui récupère mon enfant_
+
 Collectivité sponsor : Marseillan
