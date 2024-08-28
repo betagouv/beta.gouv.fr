@@ -58,8 +58,8 @@ Les trois grands objectifs de l’investigation réalisée par la Brigade de bet
 
 Notamment :
 
-* Belgique ([ombudsman.be/fr](https://www.ombudsman.be/fr) et [](https://www.federalombudsman.be/fr/formulaire-de-plainte)<https://www.federalombudsman.be/fr/>)
-* Canada ([](https://protecteurducitoyen.qc.ca/fr/porter-plainte/formulaires-de-plainte/porter-plainte-en-ligne#)<https://protecteurducitoyen.qc.ca/fr/>)
+* Belgique ([ombudsman.be](https://www.ombudsman.be/fr) et [federalombudsman.be](https://www.federalombudsman.be/fr/formulaire-de-plainte))
+* Canada ([protecteurducitoyen.qc.ca](https://protecteurducitoyen.qc.ca/fr/porter-plainte/formulaires-de-plainte/porter-plainte-en-ligne#))
 * Grande-Bretagne ([ombudsman.org.uk](https://www.ombudsman.org.uk/))
 * Commission Européenne ([Solvit](https://ec.europa.eu/solvit/index_en.htm))
 

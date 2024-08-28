@@ -38,13 +38,13 @@ accessibility_status: non conforme
 ---
 ***Quels sont les impacts sur la planète des biens et services produits par les entreprises&nbsp;?***
 
-### Objectifs
+## Objectifs
 
 Écobalyse — anciennement&nbsp;*Wikicarbone*&nbsp;— **doit permettre aux fabricants de comprendre et de calculer l’impact des biens** qu’ils distribuent en France. 
 
 Le Textile et l’Alimentaire sont les premiers secteurs à bénéficier de ces travaux.
 
-### Contexte
+## Contexte
 
 74% des Français aimeraient avoir plus d’informations sur l’impact environnemental et sociétal des produits qu’ils achètent ([14ème baromètre de la consommation responsable Greenflex et ADEME - 2021](https://presse.ademe.fr/wp-content/uploads/2021/05/CP-Barometre-de-la-consommation-responsable-Version-Finale.pdf)). 
 
@@ -52,11 +52,11 @@ Répondant à cette demande, **la loi Climat et Résilience renforce l’ambitio
 
 La mise en œuvre de cette nouvelle obligation va prendre du temps et nécessite un travail collectif.
 
-### Problème
+## Problème
 
 Aujourd’hui, calculer les impacts environnementaux d’un produit est un processus long et coûteux pour une entreprise, pouvant aller de quelques milliers (produit standard, ACV simplifiée) à plusieurs dizaines de milliers (produit complexe, ACV complète, collecte de données chronophage) d’euros par produit.
 
-### Bénéfices
+## Bénéfices
 
 Avec Écobalyse, les entreprises et professionnels du secteur bénéficieront d’un **outil pédagogique gratuit permettant de calculer facilement leurs impacts et ainsi d’amorcer leur transition vers des modèles de production plus durables**.
 
@@ -66,7 +66,7 @@ Les calculs réalisés avec Écobalyse apporteront aux entreprises un éclairage
 - Impact spécifique sur le changement climatique, l’utilisation des ressources, la biodiversité, etc…
 - Poids de chaque étape du cycle de vie selon des critères simples&nbsp;: pays de réalisation des différentes étapes de production, choix des ingrédients ou matières, procédés industriels…
 
-### Démarche
+## Démarche
 
 **Les marques et leurs fournisseurs connaissent leurs produits&nbsp;: leur contribution est nécessaire pour comprendre et évaluer au mieux les impacts.** 
 

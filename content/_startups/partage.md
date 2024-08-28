@@ -15,8 +15,10 @@ stats: false
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
+thematiques: []
+techno: []
 ---
-### **L’isolement des aînés est un mal national, aggravé dans les territoires ruraux. Le COVID est venu mettre en évidence cet état de fait.**
+**L’isolement des aînés est un mal national, aggravé dans les territoires ruraux. Le COVID est venu mettre en évidence cet état de fait.**
 
 D'après Les petits frères des pauvres 3,2 millions de personnes âgées sont en risque d'isolement relationnel en France.
 
@@ -25,17 +27,17 @@ Pour la plupard ils attendent que la situation soit au bord de la rupture avant 
 
 Ce problème d'isolement concerne la grande partie des ainés, avec des problématiques qui s’accentuent en fonction de la physionomie du foyer :
 
-\- Seuls ou en couples  
-\- Entourés de la famille ou non  
-\- Domiciliés en centre bourg ou excentrés  
-\- Plus ou moins âgés (la problématique s’accentuant avec le poids des années)
+- Seuls ou en couples  
+- Entourés de la famille ou non  
+- Domiciliés en centre bourg ou excentrés  
+- Plus ou moins âgés (la problématique s’accentuant avec le poids des années)
 
-Evidement les causes sont multifactorielles :
-
-\- Dématérialisation massive des démarches administratives  
-\- Incompétence numérique  
-\- Paupérisation des aînés en milieu rural  
-\- Lien social appauvri (Familles, amis, etc.)
+Évidement les causes sont multifactorielles :
+- Dématérialisation massive des démarches administratives  
+- Incompétence numérique  
+- Paupérisation des aînés en milieu rural  
+- Lien social appauvri (Familles, amis, etc.)
 
 Notre hypothèse de départ est qu’améliorer l'accès au numérique pour les personnes âgées de plus de 67 ans isolées va les autonomiser, améliorer leur communication avec l’extérieur et les rendre moins seules. Ainsi elles pourront saisir la mairie pour qu’on puisse les aider, elles auraient ainsi accès aux mêmes services et de la même façon que tous les administrés. Si on réussit, ils auront le sentiment de faire partie de la vie du village et on pourra régler les prob avant qu’ils n’explosent, évitant ainsi des situations catastrophiques.
+
 Collectivité sponsor : Poses

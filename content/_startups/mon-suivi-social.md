@@ -27,8 +27,9 @@ thematiques:
   - Collectivités
   - Inclusion numérique
 repository: https://gitlab.com/incubateur-territoires/startups/monsuivisocial/monsuivisocial-v2/-/tree/main
+techno: []
 ---
-### 🏗 Contexte/problème
+## 🏗 Contexte/problème
 
 Durant la phase d'investigation, le CIAS du Grand Autunois Morvan a fait émerger la problématique du suivi numérique des bénéficiaires dans la structure.
 
@@ -36,27 +37,24 @@ Les agents proposent un accompagnement de qualité mais ne bénéficient pas d'o
 
 Les outils numériques répondant au besoin sont inaccessibles financièrement pour de nombreux CCAS/CIAS de petite ou moyenne taille.
 
-### 💻 Solution proposée
+## 💻 Solution proposée
 
 Suite à une enquête de terrain, la solution prototypée est un outil numérique à destination des agents : dossier social unique et suivi des interactions avec les bénéficiaires,  gestion des tâches et module statistique.
 
 Ce prototype a été testé auprès d'autres CCAS et les besoins ont été confirmés.
 
-### 🚀 Stratégie
+## 🚀 Stratégie
 
-1 - La construction d'une version beta de la solution (interface agent) a débuté en mars 2022, co-construction et tests auprès d'une dizaine de structures durant plusieurs mois.
+1. La construction d'une version beta de la solution (interface agent) a débuté en mars 2022, co-construction et tests auprès d'une dizaine de structures durant plusieurs mois.
 Les premières fonctionnalités expérimentées portaient sur :
-    • Dossier bénéficiaire (fiche bénéficiaire et espace document associé) 
-    • Suivi des échanges et accompagnements 
-    • Module statistique 
+    - Dossier bénéficiaire (fiche bénéficiaire et espace document associé) 
+    - Suivi des échanges et accompagnements 
+    - Module statistique 
+2. Perspectives complémentaires : le déploiement des fonctionnalités complémentaires est progressif, et repose sur une logique de co-construction avec les usagers volontaires (entretiens individuels récurrents, clubs mensuels collectifs). Des interconnexions avec d'autres outils existants sont étudiés (prise de RDV ...) ;
+3. Déploiement : la solution est désormais utilisée au sein  de 400 structures. L'objectif est d'atteindre les 1000 structure à horizon fin 2024 et d'expérimenter l'outil auprès d'autres acteurs de l'accompagnement social qui sont également à la recherche d'un outil de suivi pouvant intégrer leurs équipes ;
+4. Partenariat : en cours de contractualisation.
 
-2 - Perspectives complémentaires : le déploiement des fonctionnalités complémentaires est progressif, et repose sur une logique de co-construction avec les usagers volontaires (entretiens individuels récurrents, clubs mensuels collectifs). Des interconnexions avec d'autres outils existants sont étudiés (prise de RDV ...) ;
-
-3 - Déploiement : la solution est désormais utilisée au sein  de 400 structures. L'objectif est d'atteindre les 1000 structure à horizon fin 2024 et d'expérimenter l'outil auprès d'autres acteurs de l'accompagnement social qui sont également à la recherche d'un outil de suivi pouvant intégrer leurs équipes ;
-
-4- Partenariat : en cours de contractualisation.
-
-### 🥇 Récompenses
+## 🥇 Récompenses
 
 Mon Suivi Social a été récompensé lors du Congrès National de l'Union Nationale des Centres Communaux d'Action Sociale (UNCCAS) le 28 mars 2023 à Bourges.
 

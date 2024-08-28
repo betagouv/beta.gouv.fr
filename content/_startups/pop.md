@@ -21,8 +21,9 @@ usertypes:
 thematiques:
   - Culture
 accessibility_status: non conforme
+techno: []
 ---
-### Mise à jour le 14/09/22 : En septembre 2022, après trois ans de maintenance sur le produit, le Service du Numérique du ministère de la Culture a choisi de lancer une seconde investigation sur POP, avec le concours de la Médiathèque du patrimoine et de la photographie.
+**Mise à jour le 14/09/22 : En septembre 2022, après trois ans de maintenance sur le produit, le Service du Numérique du ministère de la Culture a choisi de lancer une seconde investigation sur POP, avec le concours de la Médiathèque du patrimoine et de la photographie.**
 
 ## Le patrimoine est l'affaire de tous : vers une Plateforme Ouverte du Patrimoine (POP)
 

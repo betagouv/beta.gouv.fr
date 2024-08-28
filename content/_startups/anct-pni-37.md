@@ -11,8 +11,11 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+thematiques: []
+usertypes: []
+techno: []
 ---
-### **Faciliter la réalisation des démarches administratives pour les usagers de la collectivité de Rocamadour.**
+## **Faciliter la réalisation des démarches administratives pour les usagers de la collectivité de Rocamadour.**
 
 * * *
 
@@ -32,4 +35,5 @@ Au début de cette investigation, quatre hypothèses de problèmes ont été con
 **Contexte**
 
 Rocamadour est une petite commune de 630 habitants, ⅔ ayant plus de 64 ans. Dans le cadre de l’arrivée de la fibre sur la commune et de la livraison d’une nouvelle mairie, la Mairie entend accompagner cette transformation numérique avec la création de nouveaux services. Dans ce cadre, elle a constitué un comité dédié au numérique. C’est dans ce cadre que s’inscrit cette investigation, qui aura à cœur de s’assurer que le numérique représente bien une solution pertinente pour maximiser l’impact recherché.
+
 Collectivité sponsor : Rocamadour

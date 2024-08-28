@@ -20,8 +20,11 @@ phases:
     end: 2023-06-07
   - name: alumni
     start: 2023-06-07
+thematiques: []
+usertypes: []
+techno: []
 ---
-## Arrêt de La Bonne Rénov' : 
+## Arrêt de La Bonne Rénov' 
 
 A la suite du comité d'investissement du 26 avril 2023, la demande de financement de La Bonne Rénov' n'a pas été validée. 
 
@@ -77,7 +80,7 @@ L’objectif de cet outil est de renforcer les parcours existants (dispositifs F
 1. Développer la prise de conscience et la sensibilisation des usagers aux enjeux de la rénovation performante
 2. Augmenter le nombre de prises de contacts qualifiées vers des conseillers du réseau France Rénov’, en charge de l’accompagnement des ménages dans la construction et le suivi de leur projets de rénovation
 
-#### Un premier cas d’usage sur les pompes à chaleur 
+### Un premier cas d’usage sur les pompes à chaleur 
 
 L’équipe produit a identifié le cas d’usage des pompes à chaleur (PAC) air/eau auprès de conseillers du réseau France Renov’ pour l’expérimentation d’une première version de l’outil et comme chemin d’entrée utilisateur. L’objectif est de faire passer les utilisateurs d’un projet mono-geste à un projet de rénovation performante : 
 
@@ -93,7 +96,7 @@ L’équipe produit a identifié le cas d’usage des pompes à chaleur (PAC) ai
 
 ## Nos indicateurs d’impact
 
-#### Les indicateurs d’impact
+### Les indicateurs d’impact
 
 👉 % de prise de rendez-vous avec un conseiller France Rénov’ suite à une simulation
 
@@ -101,7 +104,7 @@ L’équipe produit a identifié le cas d’usage des pompes à chaleur (PAC) ai
 
 👉 Augmentation de la part des projets qui adoptent une approche rénovation performante
 
-#### Les indicateurs opérationnels
+### Les indicateurs opérationnels
 
 👉 % des usagers en situation de construction d’un projet de rénovation touchés (taux de pénétration du simulateur) 
 

@@ -18,13 +18,13 @@ thematiques: []
 usertypes: []
 techno: []
 ---
-### Contexte
+## Contexte
 
 Dans le cadre du Plan France 2030, et plus particulièrement son volet "Maîtriser les technologies numériques souveraines et sûres", l'Agence nationale de la sécurité des systèmes d'information (ANSSI) a pour objectif de **poursuivre la sécurisation des systèmes numériques des collectivités territoriales**. 
 
 L'Agence nationale de la cohésion des territoires (ANCT), *via* son Incubateur des Territoires, a pour objet la **construction de services publics numériques par, pour et avec les collectivités territoriales**, en particulier celles ne disposant pas ou peu des ressources nécessaires à la réalisation de leurs projets. 
 
-### Problème
+## Problème
 
 Un rapport d'information du Sénat [*Les collectivités territoriales face au défi de la cybersécurité*](https://www.senat.fr/rap/r21-283/r21-283_mono.html) établit que : 
 * **le recours grandissant au télétravail dans la fonction publique territoriale et des services numériques parfois inadaptés** accentuent l'ampleur des menaces numériques ; 
@@ -37,7 +37,7 @@ Par ailleurs, la *[Synthèse 2023 de la menace ciblant les collectivités territ
 
 L'association Déclic qui fédère les Opérateurs Publics de Services Numériques (OPSN) estime par exemple qu'environ **60% des collectivités utilisent des adresses mails ne disposant pas de nom de domaine institutionnel sécurisé**. 
 
-### Solution
+## Solution
 
 Afin d'améliorer, à meilleur coût, la sécurité et la souveraineté numérique nationale, ANSSI et ANCT sont partenaires depuis décembre 2023 dans **le développement d'une plateforme sécurisée au profit des collectivités territoriales comprenant notamment :**
 * Un nom de domaine ; 
@@ -46,7 +46,7 @@ Afin d'améliorer, à meilleur coût, la sécurité et la souveraineté numériq
 
 La plateforme pourra également utiliser et mettre à disposition des collectivités **les briques techniques et services numériques déjà existants, développés en *open source* par des acteurs étatiques** (DINUM, ANCT, ANSSI) **ou territoriaux** (Opérateurs Publics de Services Numériques). 
 
-### Stratégie
+## Stratégie
 
 Dans une logique de mutualisation, ce projet contribue à :
 - la **déclinaison territoriale de [la Suite numérique](https://beta.gouv.fr/startups/suite-numerique.html)** en cours de développement par l'Opérateur de produits interministériels de la DINUM ;

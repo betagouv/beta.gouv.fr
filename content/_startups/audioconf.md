@@ -15,6 +15,9 @@ phases:
 usertypes:
   - etat
 accessibility_status: non conforme
+stats_url: https://audioconf.numerique.gouv.fr/stats
+thematiques: []
+techno: []
 ---
 ## Contexte
 
