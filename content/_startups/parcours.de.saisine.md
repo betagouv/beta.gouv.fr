@@ -12,10 +12,13 @@ phases:
     end: 2022-09-30
   - name: alumni
     start: 2022-10-01
+thematiques: []
+usertypes: []
+techno: []
 ---
-# Parcours des réclamants du Défenseur des Droits
+## Parcours des réclamants du Défenseur des Droits
 
-# Le contexte
+### Le contexte
 
 Le Défenseur des Droits veille au **respect des droits et libertés par les administrations de l’État, les collectivités territoriales, les établissements publics**, ainsi que par tout organisme investi d’une mission de service public.
 
@@ -26,11 +29,11 @@ Dans un contexte d’augmentation des demandes, en particulier sur les canaux nu
 * **Simplifier un parcours de saisine parfois complexe** pour les usager·e·s ;
 * Assurer en même temps, **une meilleure qualification des demandes** pour en faciliter le traitement par ses juristes.
 
-# Le problème à résoudre ?
+### Le problème à résoudre ?
 
 > **Comment pourrions-nous faciliter la saisine du Défenseur des Droits par les usager·e·s, tout en permettant un traitement des dossiers plus efficace par les juristes et les délégué·e·s ?**
 
-# Les objectifs de l’investigation
+### Les objectifs de l’investigation
 
 Les trois grands objectifs de l’investigation réalisée par la Brigade de beta.gouv étaient de :
 
@@ -38,7 +41,7 @@ Les trois grands objectifs de l’investigation réalisée par la Brigade de bet
 2. **Mieux comprendre les besoins des agent·e·s** dans leurs relations avec les usager·e·s et lors de l’étude de recevabilité d’un dossier
 3. **Identifier des premières pistes de solutions** à mettre en œuvre pour mieux accompagner les usager·e·s et simplifier le traitement des dossiers en phase de recevabilité
 
-# Notre approche
+## Notre approche
 
 ### Une série d’entretiens avec les principales parties-prenantes :
 
@@ -62,7 +65,7 @@ Notamment :
 
 ![2209 - DDD - Analyse formulaire saisine.jpg](/img/netlifycms/2209.-.ddd.-.analyse.formulaire.saisine1.jpg)
 
-# Nos principaux apprentissages ?
+## Nos principaux apprentissages ?
 
 L’investigation a révélé des besoins d’accompagnement des usagers à deux moments de leur parcours.
 
@@ -113,6 +116,6 @@ L’analyse champ par champ à permis d’identifier les principaux points de fr
 * Créer de la réassurance à chaque étape en expliquant pourquoi les informations demandées sont importantes et comment elles seront utilisées ?
 * Créer un fil d'ariane pour faciliter la navigation et donner de la visibilité aux réclamants
 
-# La suite ?
+## La suite ?
 
 En concertation avec le Défenseur des droits, il a été décidé de ne pas poursuivre la refonte sous la forme d’une Startup d’État, les conditions nécessaires à une autonomie forte de l’équipe et une logique d’itération rapide n’étant pas réunies. Les résultats de cet investigation nourriront une refonte globale du site internet de l’institution engagée à partir 2023.

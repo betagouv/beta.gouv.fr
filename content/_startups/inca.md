@@ -19,8 +19,10 @@ repository: https://github.com/betagouv/inca-app
 usertypes:
   - particulier
   - entreprise
+thematiques: []
+techno: []
 ---
-# Contexte 
+## Contexte 
 
 Quelques chiffres sur les patients atteints de cancer : 
  - 400 000 nouveaux cas par an ;
@@ -39,7 +41,7 @@ Cette affirmation s'appuie sur les données suivantes :
  - 70% à 95% des investissements publics et privés en recherche des TIC ne réussissent pas à produire une valeur de marché significative ;
  - 75% des consommateurs jugent que l’usage des TIC induit un niveau de stress accru par manque d’interaction avec les usagers dans toutes les phases de conception et développement. (Source :  Coll, umvelt, Montréal in vivo mars 2014).
 
-# Notre hypothèse de problème
+## Notre hypothèse de problème
 
 Nous pensons que cela est en partie dû à une mauvaise coordination des différents acteurs et à un manque de collaboration avec les patients.
 

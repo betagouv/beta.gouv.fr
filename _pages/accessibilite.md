@@ -31,16 +31,20 @@ L’audit de conformité au RGAA version 4.2 réalisé en août 2024 par la soci
 #### Non-conformités
 
 Voici les non-conformités relevées par l'audit : 
-- La page [Communauté](/communaute/) affiche des graphiques sans alternatives textuelles (critère 4.8).
-- Notre [bilan 2023](https://beta.gouv.fr/content/docs/betagouv_presentation.pdf) sous forme de PDF ne possède pas de version accessible (critère 13.3).
-- Nos fiches produits, rédigées par des contributeurs, ne sont pas toujours correctement structurées par des titres (critère 9.1)
+- Notre [bilan 2023](https://beta.gouv.fr/content/docs/betagouv_presentation.pdf) sous forme de PDF ne possède pas de version accessible (critère 13.3). <span class="fr-badge fr-badge--success">Corrigé</span>
+- La page [Communauté](/communaute/) affiche des graphiques sans alternatives textuelles (critère 4.8). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Certaines balises sont utilisées uniquement à des fins de présentation (critère 8.9). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Certaines listes ne sont pas correctement structurées (critère 9.3). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Des informations ne sont pas compréhensibles lorsque les feuilles de styles sont désactivées (critère 10.3) <span class="fr-badge fr-badge--success">Corrigé</span>.
+- Sur nos contenus en anglais, le code de langue par défaut n’est pas pertinent (critère 8.4). <span class="fr-badge fr-badge--success">Corrigé</span>.
+- Des titres de page ne sont pas pertinents (critère 8.6). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Des changements de langue ne sont pas indiqués (critère 8.7). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Des liens ne sont pas explicites (critère 6.1). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Sur certaines pages, la présentation est faite directement dans la page plutôt que via des feuilles de styles (critère 10.1). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Sur des petits écrans de 320 px, certains contenus sont peu lisibles (critère 10.11). <span class="fr-badge fr-badge--success">Corrigé</span>
 - Certains contrastes entre couleur de texte et couleur d’arrière-plan ne sont pas suffisamment élevés (critère 3.2).
-- Certaines balises sont utilisées uniquement à des fins de présentation (critère 8.9).
-- Certaines listes ne sont pas correctement structurées (critère 9.3).
-- Des informations ne sont pas compréhensibles lorsque les feuilles de styles sont désactivées (critère 10.3).
+- Nos fiches produits, rédigées par des contributeurs, ne sont pas toujours correctement structurées par des titres (critère 9.1).
 - Des déclarations CSS de couleurs de fond et de police ne sont pas correctement utilisées (critère 10.5).
-
-Nous souhaitons les corriger courant 2024.
 
 #### Contenus non soumis à l’obligation d’accessibilité
 

@@ -10,7 +10,14 @@ missions:
     employer: Opteamis
     startups:
       - ozensemble
+  - start: 2024-06-01
+    end: 2024-10-31
+    status: independent
+    employer: LittleBigConnection
+    startups:
+      - languia
 startups:
   - ozensemble
 memberType: beta
+competences: []
 ---

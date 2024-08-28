@@ -3,7 +3,7 @@ title: Portail Suivi Plaintes
 mission: Suivre sa plainte en ligne.
 sponsors:
   - /organisations/interieur
-incubator: lab-mi
+incubator: miom
 phases:
   - name: investigation
     start: 2019-11-05

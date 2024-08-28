@@ -16,8 +16,10 @@ events:
     date: 2021-12-31
 usertypes:
   - etat
+thematiques: []
+techno: []
 ---
-# Pourquoi cette investigation n'a pas abouti à une Startup d'Etat
+## Pourquoi cette investigation n'a pas abouti à une Startup d'Etat
 
 En mars 2021, les apprentissages de l’investigation Dumas ont été présentés au Directeur Général de la Mondialisation, à l’Ambassadeur au Numérique ainsi qu’à l’Institut français de Paris.\
 La dizaine d'entretiens réalisés avec différents IF et AF du monde entier, nous ont permis d'identifier des points positifs malgré la crise sanitaire :
