@@ -20,16 +20,15 @@ dashlord_url: https://dashlord.incubateur.net/startup/sirius
 thematiques:
   - Jeunesse
   - Formation
+techno: []
 ---
-# Le constat
+## Le constat
 
 Plus de 1 500 CFA se sont créés depuis la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel. Les jeunes, leurs familles et les personnes qui les accompagnent dans leur orientation ont une visibilité restreinte sur l’ensemble des formations existantes et leur qualité.
 
 Si des outils existent pour présenter la voie de l’apprentissage, les candidats recherchent des retours d’expériences de pairs, qui ont vécu les mêmes doutes et peuvent témoigner de ce qu’a été leur parcours. Ces témoignages permettent aux candidats de se projeter concrètement dans une formation et d’apaiser le choix d’orientation, surtout dans le secondaire. Les filières en apprentissage  proposées en infra-bac souffrent encore de préjugés et sont parfois considérées comme une voie de garage pour les mauvais élèves ou menant a des métiers peu qualifiés. Les témoignages apportent de nouveaux éléments sur la perception de la qualité de la formation et de l’accompagnement aux jeunes et aux adultes qui les appuient (parents, équipes pédagogiques, psychologues de l’Éducation Nationale, associations, …). L’accès à ces informations n’est pas aisé pour les candidats et les accompagnants car aucune source neutre n’expose aujourd’hui des avis vérifiés sur les formations en apprentissage.
 
-
-
-# Sirius
+## Sirius
 
 Sirius donne accès aux témoignages des apprentis pour aider les jeunes dans leurs choix d’orientation. Le service est co-construit avec l'ensemble des acteurs, CFA, collégiens, apprentis, établissements scolaires et équipes éducatives et se décline en 2 volets :
 
@@ -50,7 +49,7 @@ Sirius bénéficie d’un appui interministériel :
 - L’ONISEP *(établissement public dépendant du ministère de l'Éducation nationale et de la Jeunesse et du ministère de l’Enseignement supérieur et de la Recherche)* pilote la réalisation et pourrait être un repreneur pérenne de la solution.
 - La mission interministérielle InserJeunes assure un cadre stratégique et méthodologique à l’équipe. Elle apporte des expertises transverses indispensable au bon déroulé de l’expérimentation *(déploiement, environnement de travail, etc…).* Elle accompagne [d’autres produits](https://beta.gouv.fr/startups/?incubateur=mission-inserjeunes) ayant pour objectif d’éclairer les choix d’orientation des jeunes pour faciliter leur insertion professionnelle, contribuant ainsi à ce que notre réponse soit cohérente avec les besoins des usagers.
 
-# Les bénéfices attendus
+## Les bénéfices attendus
 
 **Auprès des jeunes (collégiens) - impact recherché :**
 

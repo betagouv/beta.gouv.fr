@@ -25,9 +25,8 @@ techno:
   - Rest API
   - PostgreSQL
   - Docker
+thematiques: []
 ---
-# Medlé
-
 « Permettre aux structures de médecine légale de consigner l'activité réalisée sur réquisition judiciaire et les personnels affectés ».
 
 ## Le produit

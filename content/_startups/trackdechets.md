@@ -27,13 +27,14 @@ phases:
 thematiques:
   - Écologie
   - Open-Data
+techno: []
 ---
 En 2016, 12 millions de tonnes de déchets dangereux ont été produits en France. Il s’agit de déchets contenants des éléments toxiques ou dangereux qui présentent des risques pour la santé et l'environnement. 
 
 Ces déchets sont soumis à une réglementation particulière pour leur gestion et leur valorisation. Afin de contrôler le traitement effectif des déchets, la loi impose aux sociétés productrices une traçabilité rigoureuse assurée par un bordereau de suivi de déchets qui permet de suivre le déchet de sa collecte à son traitement. Chaque année, près de 16 millions de ces bordereaux sont édités.
 
-# Les problèmes actuels
-## Un impact environnemental majeur
+## Les problèmes actuels
+### Un impact environnemental majeur
 
 L'efficacité de la traçabilité des déchets dangereux est lourdement questionnée par les données officielles (delta production vs. traitement) et les pratiques observées (fraude, traitements inadaptés) indiquant un risque environnemental majeur avec la *disparition* de déchets dans la nature…
 
@@ -51,8 +52,8 @@ L’édition papier reste quasi systématique sur certaines étapes. Ainsi, envi
 
 Face à un impact environnemental substantiel représenté par la “perte” de plusieurs millions de tonnes de déchets dangereux, à la lourdeur administrative, à la complexité du circuit existant, aux millions de bordereau papiers édités et archivés, il devient urgent d’agir pour que la traçabilité fonctionne efficacement et simplement pour l’ensemble des acteurs de la chaîne du déchet.
 
-# Mise en place de Trackdéchets
-## Les premières étapes
+## Mise en place de Trackdéchets
+### Les premières étapes
 
 Trackdéchets a pour objectifs de :
 - simplifier la gestion quotidienne de la traçabilité des déchets dangereux
@@ -64,7 +65,7 @@ Le document émis pour le transporteur disposera, en outre, d’infos utiles pou
 
 Les sociétés enregistrées disposeront d’un compte unique dans lequel il sera possible de retrouver le statut et/ou l’état d’avancement de ses déchets en temps réel via les bordereaux numérisés. 
 
-## Périmètre de test
+### Périmètre de test
 
 L’ambition est d’affiner le produit avec une chaîne simple de sociétés ne disposant pas d’outils (producteur collecteur ou producteur traiteur), ainsi que les sociétés disposant d’outils en tant que bêta-testeurs.
 
@@ -72,7 +73,7 @@ Des sociétés en ex-Poitou-Charentes ont été identifiées pour tester le prod
 
 Les retours des bêta-testeurs nous seront utiles pour apporter les modifications nécessaires et les améliorations de façon progressive. Il sera également possible d’avoir recours à la base de données des déclarants “déchets dangereux” pour envoyer un mailing ciblé à un public test.
 
-## Et ensuite?
+### Et ensuite?
 
 Le produit permettrait de régler d’autres problèmes tels que l’éditions des bordereaux de regroupement ou l’information d’un traitement à toute la chaîne.
 

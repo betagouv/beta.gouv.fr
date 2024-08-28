@@ -4,7 +4,10 @@ incubator: dinum
 repository: https://gitlab.mim-libre.fr/andv/demonstrateur-moana/moana
 contact: andv-moana@interieur.gouv.fr
 usertypes:
-  - etat
+  - Police aux frontières
+  - Douane
+  - Garde-côte
+  - Gendarmerie maritime
 title: ANDV - Maritime - MOANA
 sponsors:
   - /organisations/sndv
@@ -20,10 +23,18 @@ phases:
     end: 2022-09-20
   - name: acceleration
     start: 2022-09-20
+  - name: transfer
+    start: 2024-08-01
 analyse_risques: true
 thematiques:
-  - Mer
+  - Controle frontière
+  - Lutte contre la fraude
+  - Sécurité en mer
+  - Maritime
 accessibility_status: non conforme
+budget_url: https://pad.numerique.gouv.fr/s/JIM1hTPo-#
+stats_url: https://stats.moana.andv.gouv.fr/public/dashboard/741cc8d9-a8bd-4e28-88df-315c88cb106e
+techno: []
 ---
 ## Contexte
 
