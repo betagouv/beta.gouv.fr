@@ -586,6 +586,7 @@ mark {
   border-color: var(--background-action-low-red-marianne);
 }
 
+table + h3 { margin-top: 2em; }
 
 /* Mise en page des graphiques Metabase sur la page Stats */
 iframe.graph {
