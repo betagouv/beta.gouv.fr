@@ -5,22 +5,22 @@
 <div class="hero__startup fr-container-fluid fr-py-6w">
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
-      <div class="{% if screenshot_file %}fr-col-lg-6{% endif %}">
+      <div class="hero__startup-text {% if screenshot_file %}fr-col-lg-6{% endif %}">          
+        <h1>{{ include.startup.title | escape }}</h1>
 
         {% if include.startup.events.last.name == "national_impact" %}
         <span class="fr-badge fr-badge--success">Service à impact national</span>
         {% elsif include.startup.fast %}
         <span class="fr-badge fr-badge--new">Lauréat FAST</span>
         {% endif %}
-          
-        <h1>{{ include.startup.title | escape }}</h1>
+
         {% if include.startup.mission %}
           <p class="hero__startup__mission fr-mt-3w fr-h3">
             {{ include.startup.mission | escape }}
           </p>
         {% endif %}
         {% if include.startup.link.size > 0 %}
-          <a href="{{ include.startup.link }}" title="{{ include.startup.link | remove:'www.' | split: '//' | last | split: '/'' | first }} - nouvelle fenêtre" class="fr-link" target="_blank">{{ include.startup.link | remove:'www.' | split: "//" | last | split: "/" | first }}</a>
+        <p><a href="{{ include.startup.link }}" title="{{ include.startup.link | remove:'www.' | split: '//' | last | split: '/'' | first }} - nouvelle fenêtre" class="fr-link" target="_blank">{{ include.startup.link | remove:'www.' | split: "//" | last | split: "/" | first }}</a></p>
         {% endif %}
         <p class="fr-mt-3w">
             <a class="fr-tag" href="{{ phase.documentation_url }}">Produit {% if phase.id != '/phases/success' %}en{% endif %} {{ phase.label | downcase }}</a>

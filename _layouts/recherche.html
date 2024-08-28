@@ -15,19 +15,19 @@ layout: default
     </ul>
   </div>
 
-  <div id="search-results-incubators">
+  <div id="search-results-incubators" class="search-results">
     <h2 class="fr-h3 fr-pt-4w" id="search-results-incubators-title">Incubateurs</h2>
-    <div id="search-results-incubators-list" class="fr-grid-row fr-grid-row--gutters"></div>
+    <ul role="list" id="search-results-incubators-list" class="fr-grid-row fr-grid-row--gutters"></ul>
   </div>
 
-  <div id="search-results-realisations">
+  <div id="search-results-realisations" class="search-results">
     <h2 class="fr-h3 fr-pt-4w" id="search-results-realisations-title">Services numériques</h2>
-    <div id="search-results-realisations-list" class="fr-grid-row fr-grid-row--gutters"></div>
+    <ul role="list" id="search-results-realisations-list" class="fr-grid-row fr-grid-row--gutters"></ul>
   </div>
 
-  <div id="search-results-pages">
+  <div id="search-results-pages" class="search-results">
     <h2 class="fr-h3 fr-pt-4w" id="search-results-pages-title">Pages</h2>
-    <div id="search-results-pages-list" class="fr-grid-row fr-grid-row--gutters"></div>
+    <ul role="list" id="search-results-pages-list" class="fr-grid-row fr-grid-row--gutters"></ul>
   </div>
 </div>
 
@@ -153,17 +153,17 @@ layout: default
           searchResultTitleId: 'search-results-incubators-title',
           searchResultListId: 'search-results-incubators-list',
           print: function(incubator) {
-             return `<div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
+             return `<li class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
                         <div class="fr-card fr-enlarge-link fr-card--sm">
                             <div class="fr-card__body">
                                 <div class="fr-card__content">
-                                    <h3 class="fr-card__title">
+                                    <p class="fr-card__title">
                                         <a href="${incubator.url}">${incubator.title}</a>
-                                    </h3>
+                                    </p>
                                 </div>
                             </div>
                         </div>
-                    </div>`;
+                    </li>`;
           },
           // https://www.fusejs.io/api/options.html
           idx: new Fuse(incubatorsData, {
@@ -190,7 +190,7 @@ layout: default
           searchResultTitleId: 'search-results-realisations-title',
           searchResultListId: 'search-results-realisations-list',
           print: function(startup) {
-             return `<div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
+             return `<li class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
                         <div class="fr-card fr-enlarge-link fr-card--sm">
                             <div class="fr-card__body">
                                 <div class="fr-card__content">
@@ -201,7 +201,7 @@ layout: default
                                 </div>
                             </div>
                         </div>
-                    </div>`;
+                    </li>`;
           },
           // https://www.fusejs.io/api/options.html
           idx: new Fuse(startupsData, {
@@ -226,17 +226,17 @@ layout: default
           searchResultTitleId: 'search-results-pages-title',
           searchResultListId: 'search-results-pages-list',
           print: function(page) {
-             return `<div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
+             return `<li class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
                         <div class="fr-tile fr-enlarge-link">
                             <div class="fr-tile__body">
                                 <div class="fr-tile__content">
-                                    <h3 class="fr-tile__title">
+                                    <p class="fr-tile__title">
                                         <a href="${page.url}">${page.title}</a>
-                                    </h3>
+                                    </p>
                                 </div>
                             </div>
                         </div>
-                    </div>`;
+                    </li>`;
           },
           // https://www.fusejs.io/api/options.html
           idx: new Fuse(pagesData, {

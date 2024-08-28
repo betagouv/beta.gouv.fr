@@ -11,7 +11,10 @@
             <p class="fr-card__detail fr-mt-1w">{{ owner.name }}</p>
         {% endif %}
         <!-- We use HTML for bold text into short descriptions (easier for now instead of parsing every field with https://www.gatsbyjs.com/plugins/gatsby-plugin-mdx-frontmatter/) -->
-        <p class="fr-card__desc">{{ incubator.short_description }}</p>
+        {% assign short_description = incubator.short_description | strip_newlines | size %}
+        {% if short_description > 0 %}
+            <p class="fr-card__desc">{{ incubator.short_description }}</p>
+        {% endif %}
     </div>
     <div class="fr-card__img">
         <img

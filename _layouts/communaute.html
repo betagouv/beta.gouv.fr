@@ -17,11 +17,20 @@ layout: default
                 <div class="chart-wrapper">
                     <canvas id="member"> Nous avons actuellement {{ currents | size }} membres. </canvas>
                 </div>
+                {%- capture alt -%}
+                Ce graphique montre la courbe d'évolution de nos effectifs depuis 2013. Nos effectifs montent continuellement (nous avons passé la barre des 1000 membres en 2022, et celle des 1500 membres début 2024).
+                La part d'agents publics, d'indépendants et de prestataires reste relativement équivalente avec le temps.
+                {%- endcapture -%}
+                {% include transcription.html id="member-alt" title="Progression des effectifs" alt=alt %}
             </div>
             <div class="fr-col-12 fr-col-md-6">
                 <div class="chart-wrapper">
                     <canvas id="pie-chart" aria-label="Graphique de répartition des membres par compétences" role="img"></canvas>
                 </div>
+                {%- capture alt -%}
+                Ce graphique en forme de camembert montre la répartition par rôle dans la communauté. Le métier le plus représenté est le développement (environ 35 % de la communauté).
+                {%- endcapture -%}
+                {% include transcription.html id="pie-chart-alt" title="Répartition des membres par compétences" alt=alt %}
             </div>
        </div>
        <div class="fr-grid-row fr-grid-row--gutters">

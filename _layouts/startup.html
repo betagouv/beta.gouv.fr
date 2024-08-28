@@ -43,7 +43,8 @@ layout: default
       </div>
       <div class="fr-col-md-4">
         <!-- INFO -->
-        <div class="fr-py-4w fr-px-4w fr-mt-3w" style="border: 1px solid var(--light-border-default-grey, #E5E5E5);">
+        <div id="about" class="fr-py-4w fr-px-4w fr-mt-3w">
+          <h2>À propos</h2>
           <p>
             {% if phase.status == 'success' %}
               <b>{{ page.title }}</b> a été portée par <a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
@@ -76,7 +77,7 @@ layout: default
                   Code source
                 </a>
                 {% else %}
-                <a class="fr-link fr-link--icon-left fr-icon-github-fill" aria-disabled="true" >
+                <a class="fr-link fr-link--icon-left fr-icon-github-fill" role="link" aria-disabled="true" >
                   Code source (non disponible)
                 </a>
                 {% endif %}
@@ -94,7 +95,7 @@ layout: default
                   Budget
                 </a>
                 {% else %}
-                <a class="fr-link fr-icon-money-euro-circle-line fr-link--icon-left" aria-disabled="true" >
+                <a class="fr-link fr-icon-money-euro-circle-line fr-link--icon-left" role="link" aria-disabled="true" >
                   Budget (non disponible)
                 </a>
               </li>
@@ -112,7 +113,7 @@ layout: default
                   Statistiques d'usage
                 </a>
                 {% else %}
-                <a class="fr-link fr-link--icon-left fr-icon-line-chart-line" aria-disabled="true">
+                <a class="fr-link fr-link--icon-left fr-icon-line-chart-line" role="link" aria-disabled="true">
                   Statistiques d'usage (non disponible)
                 </a>
                 {% endif %}
@@ -127,6 +128,7 @@ layout: default
               <li>
                 <a class="fr-link fr-icon-warning-line fr-link--icon-left"
                   {% if page.analyse_risques_url %}href="{{page.analyse_risques_url }}"{% endif %}
+                  role="link" 
                   aria-disabled="{% if page.analyse_risques_url %}false{% else %}true{% endif %}"
                 >
                 Analyse de risque
@@ -142,6 +144,7 @@ layout: default
               {% capture link_bonnes_pratiques %}
               <li>
                 <a class="fr-link fr-icon-info-line fr-link--icon-left"
+                  role="link"
                   {% if page.dashlord_url %}href="{{page.dashlord_url }}"{% endif %}
                   aria-disabled="{% if page.dashlord_url %}false{% else %}true{% endif %}"
                   >Suivi des bonnes pratiques
