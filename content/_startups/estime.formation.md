@@ -51,6 +51,7 @@ events:
     comment: Ouvertures parcours avec estimation du montant de rémunération uniquement pour les bénéficiaires de l'ACEJ
 ---
 > ⚠️ Pour accéder à Mes Ressources Formation Ex Estime Formation depuis le guide des simulateurs https://candidat.francetravail.fr/portail-simulateurs/ sur France Travail, sélectionner la coche "Je veux suivre une formation" sous l'item "Votre situation professionnelle".
+Pour y accéder directement, suivre ce lien https://candidat.francetravail.fr/portail-simulateurs/allocations-et-aides/parcours/votre-situation?formationForce=true
 
 
 **Contexte**

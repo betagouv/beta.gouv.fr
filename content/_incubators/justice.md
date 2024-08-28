@@ -9,7 +9,7 @@ contact: pole-innovation-spg.snum-sg@justice.gouv.fr
 address: 35 rue de la Gare, 75019 Paris
 highlighted_startups:
     - a-just
-    - justif
+    - infoparquet
     - jafer
 ---
 

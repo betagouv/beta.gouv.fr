@@ -11,8 +11,8 @@ competences:
 missions:
   - start: 2024-08-26
     end: 2027-08-26
-    employer: DGE
     status: admin
+    employer: DGE
     startups:
       - signaux-faibles
 ---

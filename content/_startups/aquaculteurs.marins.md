@@ -6,7 +6,7 @@ sponsors:
   - /organisations/dgampa
   - /organisations/mtes
 incubator: mtes
-contact: anael.delorme@griculture.gouv.fr
+contact: sandrine.ouvrard@mer.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
