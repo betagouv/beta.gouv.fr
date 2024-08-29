@@ -14,7 +14,7 @@ missions:
       - inclusion.connect
       - les-emplois
   - start: 2024-06-03
-    end: 2024-09-03
+    end: 2024-12-03
     status: independent
     employer: PathTech
     startups:
@@ -23,4 +23,9 @@ startups:
   - carnet.de.bord
   - inclusion.connect
   - les-emplois
+competences:
+  - elm
+  - Python
+  - Développement Backend
+  - Développement Full-stack
 ---

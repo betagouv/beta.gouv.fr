@@ -20,7 +20,7 @@ phases:
     start: 2023-11-13
 events:
   - name: committee
-    date: 2024-07-04
+    date: 2024-07-03
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

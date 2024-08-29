@@ -51,17 +51,17 @@ techno: []
 
 </div>
 
-### Qui sommes-nous ?
+## Qui sommes-nous ?
 
 Nous sommes l’équipe produit RDV Service Public, solution numérique portée par l’Agence Nationale de la Cohésion des Territoires et la Direction Interministérielle du Numérique.
 
 L’équipe est guidée par une vision : *être la solution de gestion et de prise de rendez-vous simple à utiliser et simple à déployer dans les administrations publiques*.
 
-### Notre mission
+## Notre mission
 
 Donner la possibilité à tout agent qui le souhaite, à un groupe d’agents, à une administration ou à l’occasion de la réalisation d’une politique publique locales ou nationale, de proposer des plages de rendez-vous aux usagers en présentiel ou à distance.
 
-### Qui peut l’utiliser ?
+## Qui peut l’utiliser ?
 
 Tout agent ou groupe d’agents qui souhaite ouvrir ses disponibilités à de la prise de rendez-vous aux usagers ou souhaite simplifier la gestion des rendez-vous dans son service. 
 
@@ -73,7 +73,7 @@ Dans le cadre d’une politique publique nationale, d’une administration centr
 
 Dans le cadre d’une compétence exercée par une collectivité territoriale, partagée par tout ou partie des services de la collectivités ou de l’intercommunalité.
 
-### Nos fonctionnalités
+## Nos fonctionnalités
 
 **👐 Faciliter la prise de rendez-vous**
 
@@ -95,7 +95,7 @@ Votre administration peut mesurer et exporter l'activité de ses rendez-vous.
 
 Les administrations de votre territoire peuvent planifier un rendez-vous pour le compte d'un usager dans les disponibilités de vos agents. 
 
-### Notre impact
+## Notre impact
 
 RDV Service Public c'est **2 350 000 rendez-vous planifiés** pour **9000 utilisateurs** avec en moyenne :
 
@@ -103,7 +103,7 @@ RDV Service Public c'est **2 350 000 rendez-vous planifiés** pour **9000 utilis
 * ➡️ **2x** moins d’attente pour les usagers
 * ➡️ **3x** plus rapide pour l’agent
 
-### Notre histoire
+## Notre histoire
 
 **Investigation 🗓️ de 2018 à 2019**
 

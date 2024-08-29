@@ -9,7 +9,7 @@ repository: https://github.com/SocialGouv/emjpm
 contact: support.emjpm@fabrique.social.gouv.fr
 stats: true
 events:
-  - name: reprise
+  - name: other
     date: 2019-01-13
     comment: Reprise d'e-MJPM dans le programme MANDOLINE
 phases:
@@ -23,8 +23,10 @@ phases:
     start: 2022-09-01
 usertypes:
   - etat
+thematiques: []
+techno: []
 ---
-### Simplifier la relation entre les magistrats et professionnels de la protection juridique des majeurs
+## Simplifier la relation entre les magistrats et professionnels de la protection juridique des majeurs
 
 La France compte entre 800 000 et 1 million de personnes sous mesure de protection (tutelle, curatelle, sauvegarde de justice). Chaque année plusieurs milliers de personnes majeures sont nouvellement concernés. Ces dernières, dans l’impossibilité de pourvoir seules à leurs intérêts (à cause d’une altération de leur faculté mentale ou corporelle) ont besoin d’être assistées ou représentées par un proche ou un professionnel.
 
@@ -32,7 +34,7 @@ Aujourd'hui, les juges attribuent les mesures de protection sans avoir connaissa
 
 Le rapport de la Cour des Comptes 2016 sur la protection juridique des majeurs confirme l’insuffisance des outils actuels dans la gestion des mesures de protection.
 
-### e-MJPM : trouver rapidement le bon professionnel pour les majeurs à protéger
+## e-MJPM : trouver rapidement le bon professionnel pour les majeurs à protéger
 
 Avec e-MJPM, le magistrat peut choisir au mieux le professionnel qui sera en charge de la mesure sur la base d’un référentiel de mandataires contrôlé et validé par les agents du ministère.
 
