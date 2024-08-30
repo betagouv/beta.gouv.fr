@@ -8,11 +8,16 @@ missions:
     end: 2025-01-31
     status: independent
     startups:
-      - api-engagement
       - jeveuxaider
+  - start: 2023-01-02
+    end: 2024-03-31
+    status: independent
+    startups:
+      - api-engagement
 github: margotqtl
 startups:
   - jeveuxaider
   - api-engagement
 memberType: beta
+competences: []
 ---

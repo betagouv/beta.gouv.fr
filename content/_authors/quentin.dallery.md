@@ -7,7 +7,14 @@ missions:
     end: 2025-01-31
     status: independent
     employer: DINUM
+    startups:
+      - api-engagement
 startups:
   - api-engagement
 memberType: beta
+competences:
+  - Product strategy
+  - UX
+  - Croissance
+  - Metabase
 ---

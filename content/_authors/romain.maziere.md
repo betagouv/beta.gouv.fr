@@ -19,5 +19,9 @@ competences:
   - Développement Backend
   - DevOps
   - Administration Système
+  - Docker
+  - Matomo
+  - PostgreSQL
+  - Sécurité informatique
 memberType: beta
 ---

@@ -15,7 +15,7 @@ events:
   - name: other
     date: 2023-10-10
     comment: Mise en sécurité pour le lancement de l'expérimentation
-  - name: construction
+  - name: other
     date: 2024-04-04
     comment: Construction sur un périmètre de juridictions restreint.
 phases:

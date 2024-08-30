@@ -17,8 +17,6 @@ usertypes:
 phases:
   - name: investigation
     start: 2023-11-20
-  - name: alumni
-    start: 2024-08-21
 techno: []
 ---
 ## Contexte

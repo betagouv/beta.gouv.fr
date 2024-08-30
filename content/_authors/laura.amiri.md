@@ -1,12 +1,14 @@
 ---
 fullname: Laura Amiri
-role: PO Maison de l'autisme
-domaine: Produit
+role: Coach Territoires en Transition
+domaine: Coaching
 missions:
-  - start: 2022-09-07
+  - start: 2024-09-02
     end: 2025-12-07
     status: independent
-    employer: Octo
+    employer: Malt
+    startups:
+      - territoires-en-transitions
 badges:
   - segur
 startups:

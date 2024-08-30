@@ -2,14 +2,12 @@
 mission: Un produit pour la gestion des flux de commandes et la simplification des processus de remontée de données manuelles.
 incubator: miom
 title: Forms/Formulaire
-contact: charlotte.chaussat@beta.gouv.fr
+contact: lyndsay.mendes@interieur.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/interieur
 phases:
   - name: investigation
-    start: 2023-11-21
-  - name: alumni
     start: 2024-08-21
 thematiques: []
 usertypes: []

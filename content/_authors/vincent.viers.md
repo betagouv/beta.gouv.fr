@@ -24,6 +24,12 @@ missions:
     end: 2023-06-01
     status: independent
     employer: octo
+  - start: 2024-09-02
+    end: 2025-09-02
+    status: admin
+    employer: DINUM
+    startups:
+      - grist.numerique.gouv.fr
 startups:
   - données-et-territoires
   - pilotage.de.linclusion
@@ -32,5 +38,16 @@ previously:
   - signaux-faibles
   - disinfo
   - a-just
+competences:
+  - Intrapreneur(se)
+  - Product design
+  - Data Science
+  - Développement Backend
+  - Machine learning
+  - Metabase
+  - PostgreSQL
+  - Python
+  - Administration Publique
+  - Coaching
 ---
 Data Dévelopeur & coach
