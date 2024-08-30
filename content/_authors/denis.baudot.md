@@ -1,6 +1,6 @@
 ---
 fullname: Denis Baudot
-role: Développeur
+role: Lead Dev ISN/FAST
 domaine: Développement
 github: dxb
 missions:
@@ -23,5 +23,12 @@ startups:
 teams:
   - /teams/animation-dinum
   - /teams/fast-dinum
+competences:
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - Sécurité informatique
+  - PHP
+  - Metabase
+  - Matomo
+  - SEO
 ---
-Développeur à la brigade
