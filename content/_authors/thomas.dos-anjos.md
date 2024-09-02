@@ -5,14 +5,15 @@ domaine: Développement
 github: ThomasDos
 missions:
   - start: 2022-07-01
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:
-      - dotations-locales
+      - reva
 startups:
   - dotations-locales
 badges:
   - segur
+competences: []
 ---
 Développeur web full stack

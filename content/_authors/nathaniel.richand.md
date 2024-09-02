@@ -12,7 +12,7 @@ missions:
     startups:
       - signalement
   - start: 2022-04-01
-    end: 2024-12-15
+    end: 2024-12-31
     status: independent
     employer: Opteamis
     startups:
@@ -22,5 +22,15 @@ startups:
   - reva
 badges:
   - segur
+competences:
+  - Coaching
+  - Data Science
+  - Facilitation
+  - SEO
+  - SEM
+  - Product strategy
+  - Metabase
+  - Matomo
+  - Croissance
 ---
 Coach agile: passionné par les produits, la tech, la data, les gens

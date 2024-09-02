@@ -5,7 +5,7 @@ domaine: Développement
 github: fbonniec
 missions:
   - start: 2023-08-16
-    end: 2024-08-31
+    end: 2025-01-31
     status: independent
     employer: Opteamis
     startups:
@@ -13,5 +13,6 @@ missions:
 startups:
   - reva
 memberType: beta
+competences: []
 ---
 Développeur fullstack
