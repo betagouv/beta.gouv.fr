@@ -1,12 +1,11 @@
 ---
 fullname: Pierre  Putois
 role: Lead Experimentations
-domaine: Déploiement
+domaine: Animation
 missions:
   - start: 2022-09-18
     end: 2025-12-01
-    status: independent
-    employer: Octo
+    status: admin
     startups:
       - data-inclusion
       - les-emplois
@@ -23,4 +22,5 @@ startups:
   - rdv.insertion
 badges:
   - segur
+competences: []
 ---
