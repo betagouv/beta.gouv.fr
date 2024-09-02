@@ -28,7 +28,7 @@ missions:
     startups:
       - egalite.professionnelle
   - start: 2024-02-12
-    end: 2024-08-31
+    end: 2024-12-31
     status: independent
     employer: malt
     startups:

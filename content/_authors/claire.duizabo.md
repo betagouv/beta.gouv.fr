@@ -11,6 +11,13 @@ missions:
       - mano
       - nosgestesclimat
       - refugies.info
+  - start: 2024-09-01
+    end: 2025-07-13
+    status: independent
+    employer: Numa
+    startups:
+      - mon-suivi-social
+      - sirius
 memberType: beta
 startups:
   - nosgestesclimat
@@ -20,5 +27,7 @@ teams:
   - /teams/fast-dinum
 previously:
   - 1000.premiers.jours.blues
+competences:
+  - Coaching
 ---
 Coach FAST

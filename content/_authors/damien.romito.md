@@ -5,8 +5,9 @@ domaine: Développement
 github: damienromito
 missions:
   - start: 2022-07-18
-    end: 2024-09-01
+    end: 2024-12-01
     status: independent
+    employer: Malt
     startups:
       - carbure
 startups:
