@@ -1,5 +1,6 @@
 ---
 fullname: Bastien Rocheron
+github: bastien-rcc
 role: Développeur
 domaine: Développement
 competences: []
