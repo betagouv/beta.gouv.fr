@@ -13,4 +13,5 @@ missions:
 startups:
   - experts
 memberType: beta
+competences: []
 ---

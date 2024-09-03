@@ -11,7 +11,6 @@ competences:
 missions:
   - start: 2024-09-01
     end: 2025-08-31
-    employer: ''
     status: admin
     startups:
       - checklist.demande.aides.renovation.energetique
