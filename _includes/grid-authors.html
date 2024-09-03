@@ -6,30 +6,12 @@
 <div class="fr-container">
     <h2 id="equipe">L'équipe</h2>
     <div class="fr-grid-row fr-grid-row--gutters">
-    {% assign current_date = "now" | date: "%s" | plus: 0   %}
-    {% for author in site.authors %}
-      {%- assign startup_id = include.startup.id | remove: '/startups/' -%} <!-- necessary here for some reason ! -->
-      {%- assign show_author = false -%}
-      {%- assign end_date =  author.missions.last.end | date: '%s' | plus: 0 -%}
-      {% if author.startups contains startup_id and (end_date=0 or (end_date > current_date)) %}  <!-- legacy format -->
-        {%- assign show_author = true -%}
-      {% else %}
-        {% for mission in author.missions %}
-          {% if mission.startups contains startup_id %}
-            {% assign start_date = mission.start | date: "%s" | plus: 0  %}
-            {% assign end_date = mission.end | date: "%s" | plus: 0  %}
-            {% if current_date >= start_date and (end_date > current_date or end_date=0) %}
-              {%- assign show_author = true -%}
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-      {% endif %}
-      {% if show_author %}
-        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
-          {%- include card-community.html author=author -%}
-        </div>
-      {% endif %}
-    {% endfor %}
+      {% assign members = site.authors | members: include.startup.id, false %}
+      {% for member in members %}
+      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
+        {%- include card-community.html author=member -%}
+      </div>
+      {% endfor %}
     </div>
 </div>
 
@@ -38,29 +20,12 @@
   <div id="startup-alumni" style="display:none;">
     <h2>Les anciennes et les anciens</h2>
     <div class="fr-grid-row fr-grid-row--gutters">
-    {% assign current_date = "now" | date: "%s" | plus: 0   %}
-    {% for author in site.authors %}
-      {%- assign startup_id = include.startup.id | remove: '/startups/' -%} <!-- necessary here for some reason ! -->
-      {%- assign show_author = false -%}
-      {% if author.previously contains startup_id %}  <!-- legacy format -->
-        {%- assign show_author = true -%}
-      {% else %}
-        {% for mission in author.missions %}
-          {% if mission.startups contains startup_id %}
-            {% assign start_date = mission.start | date: "%s" | plus: 0  %}
-            {% assign end_date = mission.end | date: "%s" | plus: 0  %}
-            {% if current_date >= start_date and mission.end and current_date > end_date %}
-              {%- assign show_author = true -%}
-            {% endif %}
-          {% endif %}
+      {% assign alumni = site.authors | members: include.startup.id, true %}
+      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
+        {% for member in alumni %}
+          {%- include card-community.html author=member -%}
         {% endfor %}
-      {% endif %}
-      {% if show_author %}
-        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
-          {%- include card-community.html author=author -%}
-        </div>
-      {% endif %}
-    {% endfor %}
+      </div>
     </div>
   </div>
 </div>

@@ -1,4 +1,4 @@
-DOCKER-RUN = docker-compose run -e TERM --rm
+DOCKER-RUN = docker compose run -e TERM --rm
 BUNDLE-EXEC = bundle exec
 
 build:
@@ -9,8 +9,6 @@ spec:
 	$(DOCKER-RUN) web $(BUNDLE-EXEC) rspec
 guard:
 	$(DOCKER-RUN) web $(BUNDLE-EXEC) guard
-dsl:
-	$(DOCKER-RUN) web ./bin/beta-rb
 up:
 	docker-compose up
 down:
@@ -27,7 +25,7 @@ down-nginx:
 html-proofer:
 	bundle exec htmlproofer ./_site/ --ignore-files "/recrutement\/*/" --no-enforce-https --disable-external --root_dir _site/ --allow-missing-href
 
-.PHONY: validate
+.PHONY: validate spec
 validate:
 	ruby bin/validate schema/authors.yml "content/_authors/*.md"
 	ruby bin/validate schema/startups.yml "content/_startups/*.md"
