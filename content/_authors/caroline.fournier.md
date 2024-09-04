@@ -10,6 +10,7 @@ missions:
     employer: Numa
     startups:
       - chauffage-urbain
+      - infomedicament
 startups:
   - chauffage-urbain
 previously:

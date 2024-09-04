@@ -7,8 +7,8 @@ competences: []
 missions:
   - start: 2024-09-02
     end: 2024-12-02
-    employer: Telescope
     status: service
+    employer: Telescope
     startups:
       - mon-diagnostic-artificialisation
 ---

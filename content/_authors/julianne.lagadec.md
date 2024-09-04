@@ -25,4 +25,5 @@ previously:
   - la-bonne-alternance
 teams:
   - /teams/mission-inserjeunes
+competences: []
 ---
