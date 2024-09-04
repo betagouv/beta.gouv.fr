@@ -10,7 +10,7 @@ missions:
     startups:
       - stop-punaises
   - start: 2024-05-21
-    end: 2024-08-31
+    end: 2024-12-31
     status: independent
     employer: PathTech
     startups:

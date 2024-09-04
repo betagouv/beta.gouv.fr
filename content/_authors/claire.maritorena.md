@@ -12,5 +12,8 @@ missions:
 memberType: beta
 startups:
   - france.nation.verte.agir
+link: https://www.linkedin.com/in/cmaritorena/
+competences:
+  - Communication
 ---
-Contenus  Partenariats
+Responsable Contenus & Partenariats

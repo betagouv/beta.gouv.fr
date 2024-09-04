@@ -4,7 +4,7 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-09-01
-    end: 2024-09-02
+    end: 2025-07-01
     status: independent
     startups:
       - cartographie.nationale
@@ -18,4 +18,5 @@ startups:
   - cartographie.nationale
 memberType: beta
 link: https://www.linkedin.com/in/alexandre-martinez-2097b3189/
+competences: []
 ---
