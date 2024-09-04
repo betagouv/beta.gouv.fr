@@ -12,7 +12,7 @@ missions:
     startups:
       - suite-numerique
   - start: 2024-02-26
-    end: 2024-08-31
+    end: 2024-12-31
     status: service
     employer: Octo Technology
     startups:
@@ -21,4 +21,5 @@ memberType: dinum
 startups:
   - suite-numerique
   - l-application-du-cej
+competences: []
 ---

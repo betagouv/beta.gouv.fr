@@ -9,9 +9,18 @@ missions:
     status: independent
     employer: octo
     startups:
+      - demarches-simplifiees.fr
       - rdv-service-public
+  - start: 2024-09-03
+    end: 2024-12-31
+    status: independent
+    employer: Scopopop
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - rdv-service-public
 previously:
   - demarches-simplifiees.fr
+github: mmagn
+competences: []
 ---

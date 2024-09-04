@@ -6,8 +6,8 @@ competences: []
 missions:
   - start: 2024-01-01
     end: 2024-12-31
-    employer: Cheops
     status: independent
+    employer: Cheops
     startups:
       - dora
 ---

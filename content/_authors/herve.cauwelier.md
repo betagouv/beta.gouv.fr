@@ -5,11 +5,12 @@ domaine: Développement
 github: bors-ltd
 missions:
   - start: 2020-11-16
-    end: 2024-09-30
+    end: 2024-10-30
     status: independent
-    employer: Codeurs en liberté
+    employer: Scopopop
     startups:
       - le-taxi
 startups:
   - le-taxi
+competences: []
 ---
