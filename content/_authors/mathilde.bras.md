@@ -5,7 +5,7 @@ domaine: Coaching
 github: MathildeBras
 missions:
   - start: 2023-03-06
-    end: 2024-08-29
+    end: 2026-12-31
     status: service
 memberType: autre
 ---

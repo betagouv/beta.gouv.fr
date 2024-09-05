@@ -12,5 +12,6 @@ missions:
       - infomedicament
 memberType: autre
 competences: []
+link: https://www.linkedin.com/in/thais-coutinho-designer/
 ---
 Designer de service UX

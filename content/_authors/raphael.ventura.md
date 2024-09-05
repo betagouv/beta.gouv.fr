@@ -5,13 +5,20 @@ github: raphaelventura
 domaine: Data
 missions:
   - start: 2021-08-23
-    end: 2025-08-11
-    status: service
+    end: 2024-09-01
+    status: admin
     employer: DGE
     startups:
       - signaux-faibles
+  - start: 2024-09-01
+    end: 2024-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - carbure
 startups:
   - signaux-faibles
 badges:
   - segur
+competences: []
 ---

@@ -11,6 +11,11 @@ missions:
     status: independent
     startups:
       - trackdechets
+  - start: 2024-08-05
+    end: 2024-12-05
+    status: independent
+    startups:
+      - codedutravail
 startups:
   - trackdechets
 previously:
