@@ -1,10 +1,10 @@
 ---
 domaine: Design
 fullname: Léo Wellhoff
-role: Design
+role: Designer UX/UI
 github: leowellhoff
 missions:
-  - start: 2024-06-13
+  - start: 2023-06-01
     end: 2029-06-15
     status: admin
     employer: Atelier Numérique (Ministère de la Culture )
@@ -12,5 +12,10 @@ missions:
       - compte.rendu.vif
 competences:
   - UX
+  - UI
+  - Product design
+  - écoconception
 memberType: beta
+link: https://www.linkedin.com/in/leowellhoff/
 ---
+Designer au sein de l'Atelier Numérique, incubateur du Ministère de la Culture.

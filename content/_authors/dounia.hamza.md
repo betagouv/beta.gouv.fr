@@ -7,8 +7,8 @@ competences:
 missions:
   - start: 2024-05-27
     end: 2024-12-31
-    employer: DNUM MCAS
     status: admin
+    employer: DNUM MCAS
     startups:
       - aides.jeunes
 ---

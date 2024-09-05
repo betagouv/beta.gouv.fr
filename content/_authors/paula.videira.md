@@ -1,10 +1,10 @@
 ---
 fullname: Paula Videira
-role: Chargée de déploiement
+role: Responsable relation usagers
 domaine: Déploiement
 missions:
   - start: 2023-10-30
-    end: 2024-05-17
+    end: 2024-05-20
     status: independent
     employer: Scopyleft
     startups:
@@ -19,4 +19,5 @@ startups:
   - stop-punaises
 memberType: beta
 link: https://www.linkedin.com/in/paulavideira/
+competences: []
 ---

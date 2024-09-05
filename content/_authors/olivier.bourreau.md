@@ -5,7 +5,7 @@ domaine: Déploiement
 github: oblab
 missions:
   - start: 2023-04-03
-    end: 2024-09-03
+    end: 2025-09-03
     status: independent
     employer: OCTO
     startups:
@@ -15,4 +15,5 @@ startups:
 previously:
   - carnet.de.bord
 memberType: beta
+competences: []
 ---
