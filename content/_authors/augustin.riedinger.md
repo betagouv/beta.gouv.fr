@@ -3,7 +3,6 @@ fullname: Augustin Riedinger
 domaine: Développement
 role: développeur
 github: augnustin
-avatar: https://www.gravatar.com/avatar/bc22b26eca68dab55ec4fe491495951e?s=150
 link: https://augustin-riedinger.fr
 missions:
   - start: 2019-04-01
@@ -22,3 +21,4 @@ competences:
   - Administration Système
   - Développement Full-stack
 ---
+Dév fullstack sénior, j'aime mettre mes compétences au profit du service public ! L'informatique est un super outil si on en fait bon usage.
