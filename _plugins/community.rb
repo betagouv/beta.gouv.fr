@@ -26,7 +26,6 @@ module Jekyll
   end
 
 class RenderCommunityStatsTag < Liquid::Tag
-
   def initialize(tag_name, input, tokens)
     super
     @input = input

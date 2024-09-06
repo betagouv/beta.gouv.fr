@@ -6,7 +6,7 @@ DSL_PATH = File.expand_path('../../lib', __FILE__)
 
 $LOAD_PATH << DSL_PATH
 
-require 'beta_dsl'
+require 'models/member'
 
 module BetaDsl
   notice = <<EOF

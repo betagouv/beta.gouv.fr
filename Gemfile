@@ -6,6 +6,8 @@ gem "base64"
 gem "csv"
 gem "jekyll"
 
+gem "activemodel"
+
 group :jekyll_plugins do
   gem 'jekyll-redirect-from'
 end
