@@ -19,6 +19,7 @@ phases:
 events:
   - name: product_launch
     date: 2024-09-02
+techno: []
 ---
 Ce produit est en investigation. 
 
@@ -31,7 +32,7 @@ Vous êtes intéressé·e par :
 
 ## Contexte
 
-Au sein de la DINUM, l’opérateur de produits interministériels (OPI) met en place une équipe “droit.data.gouv.fr” qui s’emploiera à rendre libre et réutilisable les règles d’attribution des aides sociales, environmentales ou extra-légales (collectivités), de l'échelle locale à l'échelle européenne.
+Au sein de la DINUM, l’opérateur de produits interministériels (OPI) met en place une équipe “droit.data.gouv.fr” qui s’emploiera à rendre libre et réutilisable la légilsation et la réglementation - par exemple, les règles d’attribution des aides sociales, environmentales, extra-légales - de l'échelle locale à l'échelle européenne.
 
 Les objectifs sont :
 * De publier, en open data, la norme en vigueur.

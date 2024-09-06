@@ -11,15 +11,11 @@ techno: []
 title: Dérogations de produits phytosanitaires
 mission: Faciliter le dépot et l'instruction des demandes de dérogations de produits phytosanitaires
 incubator: agriculture
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2024-06-05
-    end: null
 events:
   - name: end
-    comment: ''
     date: 2024-09-05
 ---
 ## Contexte

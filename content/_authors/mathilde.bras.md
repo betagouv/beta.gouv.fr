@@ -1,6 +1,6 @@
 ---
 fullname: Mathilde Bras
-role: Coach transverse
+role: Co-Responsable de l'Atelier numérique / Product Ops
 domaine: Coaching
 github: MathildeBras
 missions:
@@ -8,5 +8,12 @@ missions:
     end: 2026-12-31
     status: service
 memberType: autre
+link: https://www.linkedin.com/in/mathildebras
+competences:
+  - Administration Publique
+  - Product strategy
+  - Coaching
+  - Communication
+  - Facilitation
 ---
 Numérique d'intérêt général
