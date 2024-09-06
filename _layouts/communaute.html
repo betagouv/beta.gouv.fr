@@ -51,7 +51,7 @@ layout: default
             <div class="fr-col fr-col-12 fr-col-md-3 beta-list-item">
                 <p>
                     <span class="beta-square-list-item">■</span>
-                    <strong>{% render_community_stats total %} membres actifs</strong><br>
+                    <strong>{{ currents | size }} membres actifs</strong><br>
                     issus du public et du privé.
                 </p>
             </div>
@@ -97,7 +97,7 @@ layout: default
                                 <h3 class="fr-card__title fr-mb-2w">
                                     <a href="/communaute/annuaire" target="_blank" rel="noopener" title="Voir plus">Voir les {{ currents | size }} membres actifs</a>
                                 </h3>
-                            </div> 
+                            </div>
                         </div>
                     </div>
                 </div>
