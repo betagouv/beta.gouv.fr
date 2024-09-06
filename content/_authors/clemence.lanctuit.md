@@ -4,7 +4,7 @@ domaine: Design
 role: Product Designer
 missions:
   - start: 2022-01-13
-    end: 2024-12-31
+    end: 2024-09-06
     status: independent
     startups:
       - api.apprentissage

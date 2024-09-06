@@ -6,7 +6,7 @@ domaine: Data
 link: https://www.linkedin.com/in/felixat/
 missions:
   - start: 2023-02-01
-    end: 2025-07-31
+    end: 2024-09-30
     status: independent
     employer: /ut7
     startups:
