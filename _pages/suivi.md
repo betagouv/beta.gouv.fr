@@ -8,7 +8,7 @@ title: Suivi d'audience et vie privée
 
 Ce site dépose un petit fichier texte (un « cookie ») sur votre ordinateur lorsque vous le consultez. Cela nous permet de mesurer le nombre de visites et de comprendre quelles sont les pages les plus consultées.
 
-<iframe title="Fenêtre de consentement de dépot de cookies" class="optout ui raised segment" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr" style="border-width: 0px; overflow:hidden; width:100%;"></iframe>
+<iframe title="Fenêtre de consentement de dépot de cookies" class="optout ui raised segment" src="https://stats.beta.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr" style="border-width: 0px; overflow:hidden; width:100%;"></iframe>
 
 ## Ce site n'affiche pas de bannière de consentement aux cookies, pourquoi ?
 
@@ -21,4 +21,4 @@ Nous utilisons pour cela [Matomo](https://matomo.org/), un outil [libre](https:/
 
 ## Je contribue à enrichir vos données, puis-je y accéder ?
 
-Bien sûr ! Les statistiques d'usage de la majorité de nos produits, dont `beta.gouv.fr`, sont disponibles en accès libre sur [`stats.data.gouv.fr`](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=21&period=range&date=previous30#?module=VisitsSummary&action=index&idSite=21&period=range&date=previous30).
+Bien sûr ! Les statistiques d'usage de la majorité de nos produits, dont `beta.gouv.fr`, sont disponibles en accès libre sur [`stats.beta.gouv.fr`](https://stats.beta.gouv.fr/index.php?module=CoreHome&IdSite=1).
