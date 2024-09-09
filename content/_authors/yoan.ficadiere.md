@@ -10,7 +10,7 @@ missions:
     employer: MALT
     startups:
       - annuaire-entreprises
-startups:
+previously:
   - annuaire-entreprises
 memberType: beta
 ---
