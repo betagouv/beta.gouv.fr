@@ -10,8 +10,6 @@ missions:
     employer: MALT
     startups:
       - annuaire-entreprises
-startups:
-  - annuaire-entreprises
 previously:
   - acceslibre
 ---
