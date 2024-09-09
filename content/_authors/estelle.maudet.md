@@ -5,7 +5,7 @@ domaine: Développement
 github: maudetes
 missions:
   - start: 2021-06-01
-    end: 2024-09-01
+    end: 2027-09-01
     status: admin
     employer: DINUM
     startups:

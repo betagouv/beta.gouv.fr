@@ -8,6 +8,7 @@ redirect_from:
   - /startups/friches
 usertypes:
   - collectivite-territoriale
+  - etat
 stats_url: https://urbanvitaliz.fr/stats
 title: UrbanVitaliz (Friches)
 sponsors:
@@ -26,10 +27,14 @@ phases:
     start: 2020-09-14
   - name: acceleration
     start: 2021-12-01
+  - name: success
+    start: 2023-11-01
 thematiques:
   - Collectivités
   - Territoires
   - Écologie
+  - Logement
+techno: []
 ---
 ## Le problème : beaucoup de friches restent inutilisées pendant qu'on artificialise des sols naturels et agricoles. Les collectivités sont souvent bloquées dans leurs projets de réhabilitation par la complexité à affronter.
 
@@ -61,18 +66,20 @@ Grace à une plateforme numérique sur-mesure et une équipe composée notamment
 
 ## Stratégie de développement et déploiement du produit
 
-En date d'octobre 2022, le développement d'UrbanVitaliz repose sur 3 axes :
+En date de septembre 2024, le développement d'UrbanVitaliz repose sur 3 axes :
 
-* **Poursuivre le déploiement auprès des collectivités**. En 2 ans, 180 projets ont été déposés sur la plateforme, les principaux canaux de communication sont les réseaux locaux, notamment animés par les DDT, préfectures et antennes ANCT, les réseaux type Petite Ville de Demain (PVD), le bouche à oreille.
+* **Poursuivre le déploiement auprès des collectivités**. En 3,5 ans, 467 projets ont été déposés sur la plateforme, les principaux canaux de communication sont les réseaux locaux, notamment animés par les DDT, préfectures et antennes ANCT, les réseaux type Petite Ville de Demain (PVD), le bouche à oreille.
 * **Embarquer davantage d'acteurs publics locaux dans le suivi des projets déposés sur la plateforme**. L'équipe d'UrbanVitaliz contacte en direct certains acteurs locaux en fonction des dossiers reçus (DDT notamment). D'autres sollicitent un accès après avoir découvert le service via des réseaux locaux, des communications des ministères de tutelle, sur les réseaux sociaux...
 * **Agréger une vision nationale des friches "qui bougent" à disposition des décideurs publics**. UrbanVitaliz rassemble une quantité importante de données sur les projets reçus et a vocation, à terme, à voir passer la majorité des projets de réhabilitation de friches en France. C'est donc une opportunité unique de faire parler ces données, notamment en créant des tableaux de bord et analyses thématiques : principaux freins, typologie de projet etc.
 
-## Un pas de côté : lancement minimal de Recommandations-collaboratives, pour permettre à d’autres secteurs thématiques de bénéficier du même outil de travail pour conseiller des projets complexes
+## Un pas de côté : Recommandations-collaboratives, pour permettre à d’autres secteurs thématiques de bénéficier du même outil de travail pour conseiller des projets complexes
 
-Plusieurs interlocuteurs sur d’autres thématiques (mobilité, écoquartiers, agents DDT…) ont manifesté leur intérêt à utiliser UrbanVitaliz pour faire de l’accompagnement dans la durée sur d’autres sujets que les friches. Face au manque d’outils sur ce sujet complexe, l’équipe UrbanVitaliz a produit une version minimale de l’outil générique, nommé Recommandations-collaboratives, qui permet de créer d’autres portails thématiques de recommandations, à l’initiative d’autres métiers et organisations publiques. 
+Plusieurs interlocuteurs sur d’autres thématiques (mobilité, écoquartiers, rénovation énergétique…) ont manifesté leur intérêt à utiliser UrbanVitaliz pour faire de l’accompagnement dans la durée sur d’autres sujets que les friches. Face au manque d’outils sur ce sujet complexe, l’équipe UrbanVitaliz a produit une version minimale de l’outil générique, nommé Recommandations-collaboratives, qui permet de créer d’autres portails thématiques de recommandations, à l’initiative d’autres métiers et organisations publiques. 
 
-La mise en place d'un portail Recommandations-collaboratives est réalisée gratuitement pour des administrations publiques qui disposent déjà d'une communauté susceptible de l'utiliser. 
+La mise en place d'un portail Recommandations-collaboratives est réalisée pour des administrations publiques qui disposent déjà d'une communauté susceptible de l'utiliser. 
 
-Il est important de noter qu'en l'état actuel du financement et du portage d'UrbanVitaliz, l'enjeu premier de l'équipe UrbanVitaliz reste de favoriser la réhabilitation d'un maximum de friches et donc que les ressources allouées à Recommandations-collaboratives sont très limitées.
+Fiche produit : https://beta.gouv.fr/startups/recommandations-collaboratives.html
+
+—
 
 Contact de l'équipe : friches@beta.gouv.fr
