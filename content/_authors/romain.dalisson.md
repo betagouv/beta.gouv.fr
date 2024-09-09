@@ -7,8 +7,9 @@ startups:
   - delta.v
 missions:
   - start: 2021-09-03
-    end: 2022-12-03
+    end: 2023-04-30
     status: admin
     employer: DGDDI
+    startups:
+      - delta.v
 ---
-

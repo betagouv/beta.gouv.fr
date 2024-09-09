@@ -7,8 +7,9 @@ missions:
     end: 2017-11-01
     status: admin
     employer: pole-emploi
+    startups:
+      - memo
 startups:
-    - memo
+  - memo
 ---
-
 Il faut parfois casser les codes pour avoir un véritable impact.

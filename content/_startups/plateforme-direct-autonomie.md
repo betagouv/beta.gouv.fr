@@ -5,17 +5,15 @@ sponsors:
   - /organisations/anct
 incubator: anct
 phases:
-    - name: investigation
-      start: 2019-02-04
-    - name: alumni
-      start: 2019-07-15
-link:
-repository: 
-stats: false 
-stats_url: 
+  - name: investigation
+    start: 2019-02-04
+  - name: alumni
+    start: 2019-07-15
+stats: false
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - particulier
 ---
-
 ## Problème visé :
 Environ 10 000 personnes en perte d’autonomie effectuent chaque année une première demande d’alocation personnalisée d'autonomie auprès du Département.
 L’accompagnement de ce public fragilisé doit impérativement se faire dans un délai rapide afin de limiter au mieux le coût financier induit (avance de frais) et l’impact négatif sur la situation personnelle des bénéficiaires (isolement sanitaire et social).

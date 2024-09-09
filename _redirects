@@ -1,8 +1,9 @@
 # Réécrire les anciens liens vers les pages startups, incubateurs et alpha
-/incubateur/*  /startups/?incubateur=:splat
-/incubateurs/*  /startups/?incubateur=:splat
 /startup/*  /startups/:splat
 /alpha/mooc/*  /approche/formation/mooc/:splat
+
+/startups/logement.etudiant /startups/je-deviens-etudiant.html
+/startups/logement.etudiant.html /startups/je-deviens-etudiant.html
 
 # Gérer la redirection vers blog.beta.gouv.fr
 

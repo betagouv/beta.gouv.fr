@@ -14,102 +14,68 @@
   {%- capture authorEndDate -%}{{ author.missions.last.end | date: '%s' }}{%- endcapture -%}
 {%- endif -%}
 
-<div class="fr-card fr-card--no-arrow fr-card__img__rounded">
+{% assign empty_array = "" | split: "," %}
+{% assign startups = empty_array %}
+{%- if author.missions -%}
+    {% for mission in author.missions %}
+      {% for startup in mission.startups %}
+        {% assign startups = startups | push: startup %}
+      {% endfor %}
+    {% endfor %}
+{%- endif -%}
+
+<div class="fr-card fr-card--grey">
   <div class="fr-card__body">
-    <h3 class="fr-card__title">
-        {%- if author.link -%}
-          <a class="fr-card__link" href="{{ author.link }}" target="_blank" rel="noopener">{{ author.fullname }}</a>
-        {%- else -%}
-          {{ author.fullname }}
-        {%- endif -%}
-    </h3>
-    <p class="fr-card__detail">
-      {%- if timestampNow > authorEndDate -%}
-        Alumni
-      {%- else -%}
-        {{ author.role }}
-      {%- endif -%}
-    </p>
-    {%- if author.content -%}
-    <p class="fr-card__desc">{{ author.content | strip_html }}</p>
-    {%- endif -%}
+    <div class="fr-card__content">
+      <div class="fr-card__start">
+        <h3 class="fr-card__title fr-mb-2w">
+          {% if author.link.size > 0 %}
+            <a href="{{ author.link }}" target="_blank" rel="noopener" title="Site web de {{author.fullname}} - nouvelle fenêtre">{{ author.fullname }}</a>
+          {% else %}
+            {{ author.fullname }}
+          {% endif %}
+        </h3>
+        
+          {%- if timestampNow > authorEndDate -%}
+            <p class="fr-card__detail">Alumnus</p>
+          {%- elsif author.role != nil -%}
+            <p class="fr-card__detail">{{ author.role }}</p>
+          {%- endif -%}
 
+          {%- unless include.hide_details -%}
+            {% assign author_content = author.content | strip_newlines | size %}
+            {% if author_content > 0 %}
+              <p class="fr-card__desc">
+                {{ author.content | strip_html }}
+              </p>
+            {%- endif -%}
 
-  {%- assign total_startups = [] -%}
-  {%- if author.startups -%}
-      {%- assign total_startups = total_startups | concat: author.startups -%}
-  {%- endif -%}
-  {%- if author.previously -%}
-      {%- assign total_startups = total_startups | concat: author.previously -%}
-  {%- endif -%}
-  {%- assign total_count=total_startups | size -%}
-  {%- capture taille_autres -%}{{ total_count | minus:5 }}{%- endcapture -%}
-
-  {%- if total_startups -%}
-    <ul class="fr-tags-group">
-    {%- for startup in total_startups -%}
-      {%- if author.previously contains startup -%}
-        {%- assign label_class =  "fr-tag fr-tag--sm fr-tag--inactive" -%}
-      {%- else -%}
-        {%- assign label_class = "fr-tag fr-tag--sm" -%}
-      {%- endif -%}
-
-      {%- if startup == '' or startup == nil -%}
-        {%- continue -%}
-      {%- endif -%}
-
-      {%- if forloop.index > 5 -%}
-        <li>
-          <span class="fr-tag--sm">Et {{ taille_autres }} autres</span>
-        </li>
-        {%- break -%}
-      {%- endif -%}
-
-      {%- if startup == "_help_me_" -%}
-        {%- continue -%}
-      {%- endif -%}
-      {%- if startup == "_in_progress_" -%}
-        <li>
-          <span class="fr-tag--sm">Fiche produit à venir</span>
-        </li>
-        {%- continue -%}
-      {%- endif -%}
-      {%- if startup == "_alpha_" -%}
-        <li>
-          <a href="approche/formation" class="{{ label_class }}" target="_self">Formation Alpha</a>
-        </li>
-        {%- continue -%}
-      {%- endif -%}
-      {%- if startup == "_openfisca_" -%}
-        <li>
-          <a href="https://openfisca.org" class="{{ label_class }}" target="_self">OpenFisca</a>
-        </li>
-        {%- continue -%}
-      {%- endif -%}
-      {%- if startup == "_help_me_" -%}
-        {%- continue -%}
-      {%- endif -%}
-      {%- capture startup_id -%}/startups/{{ startup }}{%- endcapture -%}
-      {%- assign this_startup = site.startups | where: "id", startup_id | first -%}
-
-      <li>
-        <a href="{{ this_startup.url }}" class="{{ label_class }}" target="_self">{{ this_startup.title }}</a>
-      </li>
-    {%- endfor -%}
-    </ul>
-  {%- endif -%}
-  {%- if authorEndDate >= timestampNow -%}
-    {%- if author.incubator -%}
-      {%- capture incubator_id -%}/incubators/{{ author.incubator }}{%- endcapture -%}
-      {%- assign this_incubator = site.incubators | where: "id", incubator_id | first -%}
-      {%- assign label_class = "fr-tag fr-tag--sm" -%}
-  <p class="fr-card__detail">
-        <a href="/startups/?incubateur={{ this_incubator.id | remove: '/incubators/' }}" class="{{ label_class }}" target="_self">{{ this_incubator.title }}</a>
-  <p>
-    {%- endif -%}
-  {%- endif -%}
+            {% assign previously = author.previously | default: empty_array %}
+            {% assign all_startups = startups | concat: previously | compact | uniq %}
+            {% unless all_startups == empty %}
+              <div class="startups">
+                <ul class="fr-tags-group">
+                  {% for startup in all_startups, limit: 4 %}
+                    {% assign startup_id = "/startups/" | append: startup %}
+                    {% assign this_startup = site.startups | find: "id", startup_id %}
+                    {% if this_startup %}
+                      <li>
+                        <a class="fr-tag" href="{{ this_startup.url }}" target="_self">{{ this_startup.title }}</a>
+                      </li>
+                    {% else %}
+                      {% continue %}
+                    {% endif %}
+                  {% endfor %}
+                </ul>
+              </div>
+            {% endunless %}
+          {% endunless %}
+      </div>
+    </div>
   </div>
-  <div class="fr-card__img">
-    {%- include avatar.html author=author force=true rounded=true -%}
+  <div class="fr-card__header">
+    <div class="fr-card__img">
+      {%- include avatar.html author=author rounded=true -%}
+    </div>
   </div>
 </div>

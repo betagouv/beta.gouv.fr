@@ -1,0 +1,46 @@
+<nav class="fr-sidemenu" aria-labelledby="fr-sidemenu-title">
+  <div class="fr-sidemenu__inner">
+    <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
+    <div class="fr-collapse" id="fr-sidemenu-wrapper">
+      <div class="fr-sidemenu__title" id="fr-sidemenu-title">Le Fonds d’accélération des Startups d’État et de Territoire (FAST)</div>
+      <ul class="fr-sidemenu__list">
+        <li class="fr-sidemenu__item {% if page.url == item.target %}fr-sidemenu__item--active{% endif %}">
+          {% for item in site.data.menu.fast %}
+            {% if item.label contains 'Lauréats' %}
+              {% assign fasts = site.fasts | sort | reverse %}
+              <button
+                  class="fr-sidemenu__btn"
+                  aria-expanded="{% if page.url contains '/fast/lauréats/' %}true{% else %}false{% endif %}"
+                  aria-controls="fr-sidemenu-item-fast-archive">
+                Lauréats du FAST
+              </button>
+              <div class="fr-collapse" id="fr-sidemenu-item-fast-archive">
+                <ul class="fr-sidemenu__list">
+                  {% for fast-page in fasts %}
+                    <li class="fr-sidemenu__item {% if page.url == fast-page.url %}fr-sidemenu__item--active{% endif %}">
+                      <a
+                          class="fr-sidemenu__link"
+                          href="{{ fast-page.url }}"
+                          {% if page.url == fast-page.url %}aria-current="page"{% endif %}
+                          target="_self">
+                        {{ fast-page.title }}
+                      </a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            {% else %}
+              <a
+                  class="fr-sidemenu__link"
+                  {% if page.url == item.target %} aria-current="page"{% endif %}
+                  href="{{ item.target }}"
+                  target="_self">
+                {{ item.label }}
+              </a>
+            {% endif %}
+          {% endfor %}
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

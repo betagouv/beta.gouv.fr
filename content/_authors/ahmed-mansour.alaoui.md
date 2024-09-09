@@ -7,7 +7,9 @@ missions:
   - start: 2019-10-07
     end: 2022-04-30
     status: service
-    employer: Octo 
+    employer: Octo
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 previously:
@@ -15,5 +17,4 @@ previously:
 badges:
   - segur
 ---
-
-Développeur/data-scientist, passionné par la data, le foot, le hip-hop et la musique en général ! 
+Développeur/data-scientist, passionné par la data, le foot, le hip-hop et la musique en général !

@@ -2,7 +2,7 @@
 title: Zam
 mission: Alléger la charge de préparation par le gouvernement du débat parlementaire.
 sponsors:
-    - /organisations/dinum
+  - /organisations/dinum
 incubator: dinum
 phases:
   - name: investigation
@@ -13,15 +13,16 @@ phases:
     start: 2020-01-01
   - name: alumni
     start: 2020-07-01
-link:
 repository: https://github.com/betagouv/zam
 stats: false
 contact: contact@beta.gouv.fr
 techno:
-    - Python
-    - PostgreSQL
+  - Python
+  - PostgreSQL
+usertypes:
+  - parlement
+  - etat
 ---
-
 ## Le contexte
 
 Pour tout projet ou proposition de loi, l’examen parlementaire est une phase cruciale. Le texte est discuté, retravaillé et voté afin d’aboutir à une version conforme aux attentes des représentants des citoyens.

@@ -5,17 +5,20 @@ sponsors:
   - /organisations/meae
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 repository: https://github.com/ambanum/
-contact: disinfo@beta.gouv.fr
-stats_url: https://stats.data.gouv.fr/index.php?idSite=89
+contact: atelier.numerique@diplomatie.gouv.fr
 link: https://disinfo.quaidorsay.fr
-stats: true
+stats: false
 phases:
   - name: investigation
     start: 2019-01-10
   - name: construction
     start: 2019-03-01
+    end: 2022-06-30
+  - name: alumni
+    start: 2022-06-30
+usertypes:
+  - etat
 ---
-
 ## Internet nous rapproche. Les manipulations de l’information nous éloignent.
 
 Les manipulations de l’information visent à fragiliser notre cohésion sociale et nos processus électoraux. Les ingérences étrangères documentées lors des élections présidentielles américaines de 2016 ont mis sur le devant de la scène les campagnes de manipulation de l’information de grande ampleur visant le grand public, notamment par le biais des réseaux sociaux. L’affaire dite des _Macron Leaks_, une tentative d’ingérence dans l’élection présidentielle française de 2017, a démontré la réalité du risque pour la France.

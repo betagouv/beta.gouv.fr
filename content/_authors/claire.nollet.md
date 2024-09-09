@@ -5,11 +5,10 @@ domaine: Développement
 github: clairenollet
 missions:
   - start: 2021-10-07
-    end: 2023-08-30
+    end: 2026-12-12
     status: admin
     employer: DNUM
-startups:
+previously:
   - psij
 ---
-
-Apprentie développeuse au Lab MI
+Développeuse à la Fabrique Numérique du Ministère de l'Intérieur

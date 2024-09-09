@@ -1,76 +1,69 @@
 {% comment %}
-  Appeler cette page avec un job.
-  Ex : {% include card-job.html job = job %}
+Appeler cette page avec un job.
+Ex : {% include card-job.html job = job %}
 {% endcomment %}
 
 {% assign job = include.job %}
 
 {% assign startup_id = job.startup %}
-{% assign startup = site.startups | where: "title", startup_id | first %}
+{% assign startup = site.startups | find: "title", startup_id %}
 {% unless startup  %}
-{% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
-{% assign startup = site.startups | where: "id", startup_id | first %}
-{% endunless %} 
+  {% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
+  {% assign startup = site.startups | find: "id", startup_id %}
+{% endunless %}
 
+<div class="fr-card fr-card--grey fr-enlarge-link fr-card--horizontal hiring fr-mb-5v">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+      <h4 class="fr-card__title">
+        <a href="{{ job.url }}">{{ job.roles }}</a>
+      </h4>
+      <p class="fr-card__desc">
+        {{ job.excerpt | strip_html | truncate: 260 }}
+      </p>
+      <div class="fr-card__start">
+        <p class="fr-card__detail">
+          Offre de
+          {% if job.friend %}
+            {{ job.friend | strip_html }}
+          {% else %}
+            {{ startup.title | default: "beta.gouv.fr" | strip_html}}
+          {% endif %}
+        </p>
+      </div>
+      <div class="fr-card__end">
+        {% if startup.incubator %}
+          {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
+          {% assign incubator = site.incubators | find: 'id', incubator_id %}
+          <p class="fr-card__detail fr-icon-map-pin-2-line">
+            {{ incubator.title }}
+          </p>
+          <p class="fr-card__detail fr-icon-calendar-line fr-mt-1w">
+            Posté le {{ job.date | date: "%d/%m/%Y" }}
+          </p>
+        {% endif %}
 
-<div class="fr-card fr-card--horizontal fr-enlarge-link {% if job.type == 'friend' %}friend {% endif %}{% unless job.open %}closed{% endunless %}" style="margin-bottom: 20px;">
-  <div class="fr-card__body" style="min-height: 300px;">
+        {% if job.junior %}
+          <p class="fr-card__detail fr-icon-seedling-line fr-mt-1w">
+            Ouvert aux juniors
+          </p>
+        {% endif %}
 
-    <div>
-      <div class="fr-grid-row fr-grid-row--gutters">
-        <div class="fr-col">
-          <p class="fr-card__detail">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ startup.title | default: "beta.gouv.fr" | strip_html}}{% endif %}</p>
-        </div>
-        <div class="fr-col-4">
-          <p class="fr-card__detail" style="text-align: right;">le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></p></div>
+        {% unless job.techno == empty %}
+          <ul class="fr-tags-group fr-my-1w">
+            {% for techno in job.techno %}
+              <li>
+                <p class="fr-tag">{{ techno }}</p>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endunless %}
       </div>
     </div>
-    
-    <h2 class="fr-card__title">
-      <a class="fr-card__link" href="{{ job.url }}">{{ job.roles | capitalize }}</a>
-    </h2>
-
-    <p class="fr-card__desc">{{ job.excerpt | strip_html | truncate: 260 }}</p>
-
-    {% if startup %}
-      {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
-      {% assign incubator = site.incubators | where:'id', incubator_id | first %}
-      <p style="font-size: 0.75rem;">
-        <span>
-          <i class="ri-map-pin-fill"></i>
-        </span>
-        {{ incubator.title }}
-      </p>
-    {% endif %}
-    {% if job.techno or job.junior or job.type == 'friend' %}
-    <ul class="fr-tags-group">
-      {% if job.type == 'friend' %}
-      <li>
-        <span class="fr-tag fr-tag--sm">Nos camarades recrutent</span>
-      </li>
-      {% endif %}
-
-      {% if job.junior %}
-      <li>
-        <span class="fr-tag fr-tag--sm">Bienvenue aux juniors</span>
-      </li>
-      {% endif %}
-      {% if job.techno %}
-        {% for techno in job.techno %}
-        <li>
-          <span class="fr-tag fr-tag--sm">{{ techno }}</span>
-        </li>
-        {% endfor %}
-      {% endif %}
-    </ul>
-    {% endif %}
   </div>
-  <div class="fr-card__img hiring">
-    <!-- <p>{{ include.startup.id }}</p>
-    <p>{{ include.job.startup }}</p>
-    <p>{{ job.startup }}</p>
-    <p>{{ job.junior }}</p> -->
-    {% include screenshot.html startup=startup force=true %}
-    <!-- L'alternative de l'image (attribut alt) doit à priori rester vide car l'image est illustrative et ne doit pas être restituée aux technologies d’assistance. Vous pouvez toutefois remplir l'alternative si vous estimer qu'elle apporte une information essentielle à la compréhension du contenu non présente dans le texte -->
- </div>
+  <div class="fr-card__header">
+    <div class="fr-card__img">
+      {% include screenshot.html startup=startup %}
+    </div>
+  </div>
 </div>

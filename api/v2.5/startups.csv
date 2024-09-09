@@ -1,0 +1,19 @@
+---
+layout: null
+---
+id;name;mission;start;status;incubator;stats;link;repository;accessibility;contact
+{% assign startups = site.startups %}
+{% for startup in startups %}
+    {%- assign id = startup.id | remove: '/startups/' -%}
+    {%- assign title = startup.title -%}
+    {%- assign mission = startup.mission -%}
+    {%- assign start = startup.phases.first.start -%}
+    {%- assign status = startup.phases.last.name -%}
+    {%- assign incubator = startup.incubator -%}
+    {%- if startup.stats_url -%}{%- assign stats = startup.stats_url -%}{%- else -%}{%- assign stats = 'null' -%}{%- endif -%}
+    {%- if startup.link -%}{%- assign link = startup.link -%}{%- else -%}{%- assign link = 'null' -%}{%- endif -%}
+    {%- if startup.repository -%}{%- assign repository = startup.repository -%}{%- else -%}{%- assign repository = 'null' -%}{%- endif -%}
+    {%- assign accessibility_status = startup.accessibility_status -%}
+    {%- assign contact = startup.contact -%}
+{{id}};"{{title}}";"{{mission}}";{{start}};{{status}};{{incubator}};{{stats}};{{link}};{{repository}};"{{accessibility_status}}";{{contact}}
+{% endfor %}

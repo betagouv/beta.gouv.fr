@@ -7,6 +7,8 @@ missions:
     end: 2019-06-30
     status: admin
     employer: Ministère de la Culture
+    startups:
+      - pass-culture
 startups:
   - pass-culture
 ---

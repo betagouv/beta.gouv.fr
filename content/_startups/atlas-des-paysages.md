@@ -1,9 +1,8 @@
 ---
 title: Atlas des paysages
-mission: Systématiser la prise en compte des paysages dans les projets
-  d'aménagement du territoire
+mission: Systématiser la prise en compte des paysages dans les projets d'aménagement du territoire
 sponsors:
- - /organisations/dgaln
+  - /organisations/dgaln
 incubator: mtes
 contact: emilie.fleury-jagerschmidt@developpement-durable.gouv.fr
 phases:
@@ -15,13 +14,15 @@ phases:
 events:
   - name: end
     date: 2021-12-31
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+thematiques: []
+techno: []
 ---
+## Phase d'investigation
 
-
-
-# Phase d'investigation
-
-## Contexte
+### Contexte
 
 La prise en compte du paysage dans les projets d’aménagement a une assise juridique censée la rendre obligatoire, mais pas contraignante :
 
@@ -32,7 +33,7 @@ L’Atlas de paysages est l’outil fondamental de la connaissance des paysages,
 
 L’objectif de l’investigation est d’évaluer la pertinence d’un service public numérique permettant une meilleure prise en compte des paysages de la part de l’ensemble des acteurs.
 
-## Problème
+### Problème
 
 Transverse et fractale, la connaissance des paysages pose 3 types de problème :
 
@@ -40,8 +41,7 @@ Transverse et fractale, la connaissance des paysages pose 3 types de problème :
 2. très complexe à restituer, elle souffre d’être mise à disposition dans un format rigide, daté et peu immersif
 3. par nature incomplète, elle nécessite toujours un travail de contextualisation par des experts à l’échelle de chaque projet
 
-
-# Pourquoi cette phase d'investigation n'a pas abouti à une Startup d'Etat ?
+## Pourquoi cette phase d'investigation n'a pas abouti à une Startup d'Etat ?
 
 En mai 2021, les enseignements de l’investigation Atlas des paysages ont été présentés au Bureau des paysages et de la Publicité (DGALN). 
 

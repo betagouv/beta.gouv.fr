@@ -8,4 +8,3 @@ missions:
     status: service
     employer: LBC
 ---
-

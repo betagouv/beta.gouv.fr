@@ -1,0 +1,67 @@
+type:       map
+mapping:
+  "fullname":
+    type:      str
+    required:  yes
+  "role":
+    type:      str
+    required:  yes
+  "link":
+    type:      str
+  "avatar":
+    type:      str
+  "github":
+    type:      str
+  "memberType":
+    type:      str
+  "missions":
+    type:      seq
+    required:  yes
+    assert:    "val.length() > 0"
+    sequence:
+        - type:      map
+          mapping:
+            "start":
+              type:      date
+              required:  yes
+            "end":
+              type:      date
+              required:  yes
+            "status":
+              type:      str
+              enum:    [service, independent, admin]
+              required:  yes
+            "employer":
+              type:      str
+            "startups":
+              type:      seq
+              sequence:
+                  - type:      any
+  "incubator":
+    type:      str
+  "startups":
+    type:      seq
+    sequence:
+        - type:      any
+  "previously":
+    type:      seq
+    sequence:
+        - type:      any
+  "badges":
+    type:      seq
+    sequence:
+        - type:      str
+          enum:
+            - segur
+  "domaine":
+    type:      str
+    enum:      [Animation, Coaching, Data, Déploiement, Design, Développement, Intraprenariat, Produit, Autre]
+    required:  yes
+  "competences":
+    type:      seq
+    sequence:
+        - type:      str
+  "teams":
+    type:      seq
+    sequence:
+        - type:      any

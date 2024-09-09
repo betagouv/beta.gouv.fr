@@ -3,13 +3,14 @@ fullname: Raphael Odini
 domaine: Développement
 role: Développeur
 github: raphodn
-avatar: null
 link: https://raphodn.github.io
 missions:
   - start: 2020-01-08
-    end: 2022-06-30
+    end: 2024-09-30
     status: independent
     employer: octo
+    startups:
+      - place-de-marche-inclusion
 startups:
   - place-de-marche-inclusion
 previously:

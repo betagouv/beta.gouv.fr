@@ -4,11 +4,10 @@ role: Responsable de produit
 domaine: Produit
 missions:
   - start: 2015-06-01
-    end: 2016-01-31
-    employer: dinum
+    end: 2023-03-17
     status: admin
-startups:
+    employer: dinum
 previously:
-    - mdph
-    - mon-entreprise
+  - mdph
+  - mon-entreprise
 ---

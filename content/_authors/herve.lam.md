@@ -8,6 +8,8 @@ missions:
     end: 2021-12-31
     status: admin
     employer: SGDSN
+    startups:
+      - homologation
 startups:
   - homologation
 badges:

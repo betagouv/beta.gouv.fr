@@ -7,6 +7,8 @@ missions:
     end: 2021-06-30
     status: admin
     employer: Ministère des armées
+    startups:
+      - civils-de-la-defense
 startups:
-    - civils-de-la-defense
+  - civils-de-la-defense
 ---

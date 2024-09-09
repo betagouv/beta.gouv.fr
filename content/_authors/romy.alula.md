@@ -8,6 +8,8 @@ missions:
     end: 2019-07-10
     status: service
     employer: Arolla
-startups: # ta ou tes startups actuelles
-    - voir-et-localiser
+    startups:
+      - voir-et-localiser
+startups:
+  - voir-et-localiser
 ---

@@ -5,9 +5,11 @@ role: Développeur
 github: pYassine
 missions:
   - start: 2020-03-15
-    end: 2022-12-31
+    end: 2024-11-30
     status: independent
-    employer: benext
+    employer: malt
+    startups:
+      - domifa
 startups:
   - domifa
 competences:

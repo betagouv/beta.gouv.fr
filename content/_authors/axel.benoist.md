@@ -7,8 +7,7 @@ missions:
     end: 2024-01-10
     status: admin
     employer: DRIEAT
-startups:
+previously:
   - chauffage-urbain
 ---
-
 Chargé de mission en charge du développement des énergies renouvelables

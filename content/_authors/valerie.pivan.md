@@ -7,7 +7,8 @@ missions:
     end: 2021-10-30
     status: independent
     employer: UT7
+    startups:
+      - ellesfontlaculture
 startups:
   - ellesfontlaculture
 ---
-

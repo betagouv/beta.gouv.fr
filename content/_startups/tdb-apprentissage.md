@@ -1,62 +1,64 @@
 ---
-title: Tableau de bord Apprentissage
-mission: "Permettre l’accès aux données clés de l’apprentissage en temps réel"
+title: Tableau de bord de l'apprentissage
+mission: Permettre l’accès aux données clés de l’apprentissage en temps réel
 sponsors:
   - /organisations/menjs
-  - /organisations/mtei
   - /organisations/mesr
+  - /organisations/mtei
   - /organisations/mtfp
-  - /organisations/dinum
-  - /organisations/dgefp
 incubator: mission-apprentissage
 link: https://cfas.apprentissage.beta.gouv.fr
-repository: 
-contact: apprentissage@beta.gouv.fr
-events: []
+contact: tableau-de-bord@apprentissage.beta.gouv.fr
+stats_url: https://cfas.apprentissage.beta.gouv.fr/stats
+stats: true
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 30 000€ pour la promotion 14
 phases:
   - name: investigation
     start: 2020-07-01
-    end: ""
+    end: 2021-01-01
   - name: construction
     start: 2021-01-01
+  - name: acceleration
+    start: 2024-03-01
+usertypes:
+  - etat
+  - etablissement-scolaire
+fast:
+  promotion: 14
+  montant: 30000
+dashlord_url: https://dashlord.incubateur.net/url/cfas-apprentissage-beta-gouv-fr/
+thematiques:
+  - Jeunesse
+  - Education
+  - Formation
+  - Travail / Emploi
+techno: []
 ---
-
 ## Constat
 
-Au total, en 2020, environ 250 000 candidats ont souhaité une mise en relation avec un CFA par l’un des deux portails Affelnet ou Parcoursup. Or, une fois le vœu exprimé et transmis au centre de formation, aucun suivi global n'est assuré : aucun système ne permet de savoir combien de vœux se sont traduits en entrée en apprentissage, dans la spécialité et le centre visés ou dans une autre formation avec le même statut. 
+Au total, en 2020, environ 250 000 candidats ont souhaité une mise en relation avec un CFA par l’un des deux portails Affelnet ou Parcoursup. Or, une fois le vœu exprimé et transmis au centre de formation, aucun suivi global n'est assuré : aucun système ne permet de savoir combien de vœux se sont traduits en entrée en apprentissage, dans la spécialité et le centre visés ou dans une autre formation avec le même statut.
 
-Aucun indice ne permet non plus d’observer les étapes franchies ou non par les jeunes, en vue d’accompagner d’une façon réactive ceux qui décrochent et peuvent se retrouver en difficulté. 
+Aucun indice ne permet non plus d’observer les étapes franchies ou non par les jeunes, en vue d’accompagner d’une façon réactive ceux qui décrochent et peuvent se retrouver en difficulté.
 
 Plus généralement, l'écosystème de l'apprentissage manque d'interconnexion pour simplifier les échanges, favoriser un pilotage plus fin et réactif, simplifier les démarches des CFA et améliorer l'accompagnement des jeunes et des employeurs.
 
 
 ## La solution
 
-Le tableau de bord Apprentissage propose de se brancher sur les systèmes de gestion des centres de formation d’apprentis (CFA) - via leur éditeur de logiciel ERP (possible pour Yparéo et Gesti pour l’instant, SC Form et FCA Manager bientôt), par consommation d’une API ou par dépôt de fichier sur un serveur - pour recueillir certaines données :
-- Pour l’apprenant → les données d’identification dont INE si disponible ;
-- Pour le statut des apprenants → apprenant sans contrat, apprenti et abandon ;
-- Pour l’établissement : nom, UAI, SIRET ;
-- Pour la formation → la certification et la localisation.
+Le Tableau de bord de l'apprentissage permet de visualiser en temps réel les effectifs d’apprentis dans les centres de formation et les organismes de formation. Comment ? En se branchant sur les systèmes de gestion des centres de formation d'apprentis (CFA) - via leur éditeur de logiciel ERP (cf. https://cfas.apprentissage.beta.gouv.fr/), par consommation d'une API ou par dépôt de fichier sur un serveur :  https://cfas.apprentissage.beta.gouv.fr/comprendre-les-donnees
 
-Ces données sont agrégées et ensuite mises à disposition des acteurs de l’apprentissage :
-- Les CFA et leurs réseaux ;
-- Les membres du service public de l’emploi (SPE) : Pôle emploi, Mission Locale, DREETS… ;
-- Les comités de pilotage régionaux : Conseil régionaux, Plan 1 jeune 1 solution…
-- Les Plateformes de Suivi et d’Appui aux Décrocheurs ;
-- Les administrations compétentes des Ministères du Travail, de l’Education Nationale, de l’Enseignement Supérieur, de l’Agriculture….
-
-Les objectifs sont de faciliter un pilotage opérationnel de l’apprentissage en temps réel pour :
-- Savoir comment évolue le nombre d’apprentis dans un territoire ou un secteur économique ;
-- Dénombrer les jeunes en recherche de contrat ou en risque de décrochage ;
-- Simplifier certaines démarches administratives pour les CFA.
-
+Différentes institutions (DREETS, Académies, DRAAF, Carif Oref, Conseil Régionaux, etc.) consultent le tableau de bord de l'apprentissage régulièrement pour suivre l’évolution des effectifs. Ces données les éclairent notamment dans la mise en place des plans d’actions d’accompagnement des jeunes sans contrat ou pour définir les politiques publiques liées à l’apprentissage.
+Le Tableau de bord sert 3 finalités :
+- Piloter : permettre aux pouvoirs publics de piloter au mieux la politique de l’apprentissage nationalement et localement ;
+- Accompagner : utiliser la donnée pour aider ceux qui peuvent agir à accompagner les apprentis en situation de rupture ;
+- Simplifier : exposer la donnée pour simplifier la délivrance ou la consommation d’informations (enquêtes, communications, …).
 Pour les CFA, c’est une valeur ajoutée qui permet de :
 - Mettre en visibilité l’évolution des effectifs et des formations en apprentissage ;
-- Faciliter une meilleure coordination des acteurs ;
-- Avoir une vision plus précise de l’offre et des tensions sur un territoire ;
 - Simplifier les démarches administratives ;
 - Réduire le nombre d’enquêtes administratives.
-
 
 L’opération est conduite conformément aux règlements généraux relatifs à la protection des données et à la sécurité informatique. Le traitement des données se fait sur la base de l’intérêt public. Conformément à la loi sur la République numérique et au motif de leur mission de service public, les CFA sont tenus de partager avec les administrations publiques les données dont l’utilisation sert l’intérêt général. Cette opération est conduite suivant les procédures sécurisées de l’État :
 - Transmission sécurisée et cryptée des données ;

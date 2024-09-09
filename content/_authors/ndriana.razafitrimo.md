@@ -7,6 +7,8 @@ missions:
     end: 2020-05-03
     status: admin
     employer: dinum
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
 ---

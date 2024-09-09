@@ -1,32 +1,31 @@
 ---
-title: Programme national d'investigation (47)
-mission: Accompagner la revitalisation commerciale du cœur de ville des communes du territoire
+title: Accompagner la revitalisation commerciale du cœur de ville des communes du territoire
+mission: Programme national d'investigation (47)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2021-06-01
   - name: alumni
     start: 2021-11-01
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
+thematiques: []
+usertypes: []
+techno: []
 ---
 Accompagner l'opération de revitalisation de territoire (ORT) en cœur de ville de la commune de Louvres pour inscrire ce périmètre dans une réflexion concrète "smart city" favorisant la dynamique économique, sociale, culturelle et digitale de ces espaces.
 
-CONTEXTE DU PROBLÈME
-====================
+## Contexte du problème
 
-#### La commune de Louvres (10557 habitants) est située au nord est du Val d’Oise, au sein de l'agglomération Roissy Pays de France (352.000 habitants). 
+ La commune de Louvres (10557 habitants) est située au nord est du Val d’Oise, au sein de l'agglomération Roissy Pays de France (352.000 habitants). 
 
-#### Louvres bénéficie d’un passé archéologique et historique très riche et très ancien. Sur son territoire, deux églises, édifiées l’une à côté de l’autre, se dressent en vis à vis : la Tour Saint Rieul, édifiée au début du XIIème siècle, dont le clocher fut surélevé au XIIIème siècle et l’Eglise Saint Justin à la fin du XIème siècle, qui a connu de nombreux remaniements jusqu’au XVIème siècle. D’autres vestiges (site gallo romain, château du moyen âge), ont fait l’objet de fouilles et témoignent de ce riche passé.
+Louvres bénéficie d’un passé archéologique et historique très riche et très ancien. Sur son territoire, deux églises, édifiées l’une à côté de l’autre, se dressent en vis à vis : la Tour Saint Rieul, édifiée au début du XIIème siècle, dont le clocher fut surélevé au XIIIème siècle et l’Eglise Saint Justin à la fin du XIème siècle, qui a connu de nombreux remaniements jusqu’au XVIème siècle. D’autres vestiges (site gallo romain, château du moyen âge), ont fait l’objet de fouilles et témoignent de ce riche passé.
 
-#### La rue de Paris accueille le musée intercommunal ARCHEA, ouvert il y a dix ans, conserve le fruit de ces recherches
+La rue de Paris accueille le musée intercommunal ARCHEA, ouvert il y a dix ans, conserve le fruit de ces recherches
 
-#### Cette commune connaît une croissance démographique continue depuis les années 1960, et une accélération entre 2010 et 2017 (+10%). Cette dynamique démographique est tirée par l’augmentation des naissances et l’arrivée d’une nouvelle population jeune qui recherche un cadre de vie apaisé en Région Parisienne.
+Cette commune connaît une croissance démographique continue depuis les années 1960, et une accélération entre 2010 et 2017 (+10%). Cette dynamique démographique est tirée par l’augmentation des naissances et l’arrivée d’une nouvelle population jeune qui recherche un cadre de vie apaisé en Région Parisienne.
 
 Cette commune mixte qui a vu arriver de nombreuses constructions avec dernièrement l’édification d’un éco quartier du côté de la gare (2940 logements), doit prendre en compte le bourg ancien dont le patrimoine bâti s’est dégradé. Ce dernier accueille de nouveaux logements mais voit aussi se densifier l’habitat ancien dû à des divisions de logements. Face au risque de dégradation de la situation, l’enjeu est de maintenir et conforter l’attractivité de ce secteur, en travaillant sur l’identité de ce secteur “village”.
 
@@ -70,13 +69,9 @@ Les principaux enjeux sont les suivants :
 
 Les thématiques d’habitat et de commerce sont donc au coeur des problématiques à investiguer, et en son sein la rue de Paris comme ciment de ses aspirations. Quelles sont les améliorations à apporter pour vivre bien au sein de ce secteur, quelle est la vision des acteurs qui la composent?
 
-  
-  
+ ## Nos hypothèses de départ
 
-NOS HYPOTHÈSES DE DÉPART
-------------------------
-
-#### _Quelles hypothèses et intuitions avez-vous formulées en vous lançant dans l’aventure ?_
+*Quelles hypothèses et intuitions avez-vous formulées en vous lançant dans l’aventure ?*
 
 Les hypothèses de départ reposaient sur les améliorations globales à apporter en termes de services au sein de la rue. Nous partions, sans à priori en terme de réponses, en recueillant la parole des interviewés pour imaginer quels services à mettre en œuvre pour développer le quartier.
 

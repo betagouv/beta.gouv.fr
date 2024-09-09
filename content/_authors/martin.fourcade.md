@@ -9,10 +9,9 @@ missions:
     status: independent
     employer: octo
   - start: 2021-11-15
-    end: 2022-06-30
+    end: 2024-12-31
     status: independent
     employer: scopopop
 startups:
-  - monstage
   - demarches-simplifiees.fr
 ---

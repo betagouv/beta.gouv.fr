@@ -8,5 +8,4 @@ missions:
     end: 2021-12-31
     status: admin
 ---
-
-Stagiaire chez Direction générale du Trésor 
+Stagiaire chez Direction générale du Trésor

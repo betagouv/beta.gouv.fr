@@ -5,9 +5,12 @@ role: UX Designer
 github: camille-boulouis
 missions:
   - start: 2020-01-06
-    end: 2022-12-31
+    end: 2022-01-30
     status: admin
     employer: Ministère des armées
+    startups:
+      - octopus
+      - usine-chatbots
 startups:
   - usine-chatbots
   - octopus

@@ -7,5 +7,8 @@ missions:
     end: 2022-06-06
     status: admin
     employer: Ministère de la Culture
+    startups:
+      - dedale
+startups:
+  - dedale
 ---
-

@@ -1,11 +1,20 @@
 ---
 fullname: Adrien Signorino
-role: Développeur
 domaine: Développement
+role: Développeur
 missions:
   - start: 2019-03-14
-    end: 2020-12-31
+    end: 2023-09-30
     status: independent
+    startups:
+      - anais
+      - osirispn
+      - sepia
+incubator: fabnumdef
 startups:
-    - sepia
+  - sepia
+  - osirispn
+  - anais
+competences:
+  - Développement Backend
 ---

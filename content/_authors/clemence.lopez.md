@@ -1,6 +1,6 @@
 ---
 fullname: Clémence Lopez
-role: Chargée de déploiement
+role: Responsable de portefeuille - Éducation nationale, Vie associative, Sports et Enseignement supérieur
 domaine: Produit
 github: clemhacks
 missions:
@@ -8,14 +8,19 @@ missions:
     end: 2022-01-31
     status: service
     employer: Sopra Steria
-  - employer: Dinum
-    start: 2022-03-15
-    end: 2023-12-31
+  - start: 2022-03-15
+    end: 2026-09-01
     status: admin
+    employer: Dinum
 previously:
   - tchap
+  - mon-diagnostic-artificialisation
+  - authentification
+  - cnr
+  - compte.ressources
+  - pass-sport
 badges:
   - segur
+teams:
+  - /teams/animation-dinum
 ---
-
-Retrouvez-moi sur Tchap ;) 

@@ -1,23 +1,25 @@
 ---
-title: Entraides Entreprises
+title: Entraide Entreprises
 mission: Aider les chefs d’entreprises dans leurs recherches de solutions à leurs problèmes
 sponsors:
-  - /organisations/mefr
   - /organisations/dge
+  - /organisations/mefr
 incubator: bercy
 phases:
   - name: investigation
     start: 2020-11-01
   - name: construction
     start: 2021-03-01
-link: 
-repository: 
+  - name: alumni
+    start: 2022-01-01
 stats: false
 contact: amd@finances.gouv.fr
 techno:
   - en cours
+usertypes:
+  - entreprise
+  - etat
 ---
-
 ## Le problème 
 
 Près de 4 millions d’entreprises françaises subissent de plein fouet la crise économique du coronavirus.

@@ -6,11 +6,14 @@ github: tut-tuuut
 link: https://www.corelka.fr/
 missions:
   - start: 2021-01-05
-    end: 2022-05-30
+    end: 2023-01-08
     status: independent
     employer: Malt
-startups:
+  - start: 2021-01-09
+    end: 2023-12-31
+    status: admin
+    employer: Dinum
+previously:
   - aidantsconnect
 ---
-
 Développeuse multi-tâches et multi-langages

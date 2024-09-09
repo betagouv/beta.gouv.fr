@@ -1,14 +1,19 @@
 ---
 fullname: Caroline Robillard
-role: Développeuse JS fullstack au sein du Lab innovation du ministère de l’Intérieur (Lab-MI)
-domaine: Développement
+domaine: Coaching
+role: Coach
 github: Carolinedanslesnuages
 missions:
   - start: 2019-09-14
-    end: 2023-09-15
+    end: 2027-12-31
     status: admin
     employer: DNUM
-startups:
+previously:
   - psij
+  - candilib
+  - basegun
+competences:
+  - Développement Frontend
+  - Développement Backend
+  - Coach agile
 ---
-

@@ -5,10 +5,9 @@ role: Coach
 link: https://www.linkedin.com/in/pierre-peyretou/
 missions:
   - start: 2021-03-29
-    end: 2023-01-22
+    end: 2024-01-22
     status: independent
     employer: NUMA
-startups: []
 competences:
   - Coaching
 ---

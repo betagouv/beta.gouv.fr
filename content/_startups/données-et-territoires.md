@@ -1,66 +1,63 @@
 ---
 title: Données et territoires
-mission: Structurer, mutualiser et produire des données referenciels territorialisées
+mission: Outiller et accompagner les agents publics dans leurs usages de la donnée
 sponsors:
   - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2021-07-01
-repository: https://github.com/incubateur-territoires
+    end: 2022-01-01
+  - name: construction
+    start: 2022-01-01
+link: https://donnees.incubateur.anct.gouv.fr
+repository: https://gitlab.donnees.incubateur.anct.gouv.fr/infrastructure/
 stats: false
-stats_url:
-contact: jonathan.pichot@anct.gouv.fr
+contact: donnees@anct.gouv.fr
+accessibility_status: non conforme
+dashlord_url: http://dashlord.incubateur.net/url/donnees-incubateur-anct-gouv-fr-toolbox/
+stats_url: https://donnees.incubateur.anct.gouv.fr/stats
+thematiques:
+  - Territoires
+  - Open-Data
+  - Collectivités
+  - Outil technique
+usertypes:
+  - collectivite-territoriale
+  - etat
+mon_service_securise: false
+techno: []
 ---
-## Contexte
+## C’est quoi Données et Territoires ?
 
-L'Etat et les collectivités poursuivent leur démarche d'ouverture de données depuis le lancement d'ETALAB en 2011. La construction  de [`data.gouv.fr`](https://data.gouv.fr) et [l'écosysteme des portails locaux d'open data](https://airtable.com/shrWxHPi2XjLu9xtM/tblwklJPsyayeH5lX) répresentent une réussite de cette mission de transparence et d'ouverture.
+Une **mission de l’incubateur des territoires de l’ANCT** à destination des agents, des services et des collectivités territoriales.
 
-Cependant, les collectivités territoriales ne se saisissent pas encore de toutes les opportunités offertes par l'open data. Récemment, le [Rapport Bothorel](https://www.gouvernement.fr/partage/11979-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources) a rappelé cette ambition, avec plusieurs recommandations, notamment celle de "Confier à l’ANCT une mission d’accompagnement des collectivités territoriales dans la publication des données [...] (Recommandation n° 10)".
+L'équipe de Données et Territoires conçoit, développe, maintient et contribue à des outils, communs numériques dont l’objectif est de faciliter le quotidien des agents et de fluidifier la circulation de la donnée entre collectivités et l'État.
 
-Par ailleurs, dans le cadre de France Relance, l'Incubateur des Territoires a mené une vingtaine de groupes de travail avec des agents de collectivités autour de leurs besoins en matière d'outillage numérique. Plusieurs groupes de travail se sont concentrés sur les sujets de données, y compris [« structurer et exploiter les informations géographiques »](https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/21/meetings/36?filter%5Bdate%5D%5B%5D=past), [« structurer, mutualiser et exploiter les données relatives aux commerces »](https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/21/meetings/25?filter%5Bdate%5D%5B%5D=past), et [« visualiser et piloter par la donnée »](https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/21/meetings/31?filter%5Bdate%5D%5B%5D=past). Y ont été adressés et quantifiés des irritants concrets liés à l'ouverture, au traitement et à l'exploitation des données (référentiels communs, besoins d'accompagnement "tout-en-un" des petites collectivités, etc.)
+Son **guichet Données** accompagne les agents publics dans leurs besoins en manipulations de données. 
 
-En outre, l'ANCT est elle-même productrice d'un certain nombre de données et la méthode startup d'Etat a été retenue pour construire un outil de moissonnage de données référentielles qui permet aux analystes territoriaux des collectivités et notamment de l'ANCT d'enrichir et de faciliter leur observation du territoire, en superposant des couches d'information ad hoc sans modifier leurs systèmes et outils métiers actuels.
+[Contacter l’équipe par email](mailto:donnees@anct.gouv.fr).
 
-Compte tenu de ce contexte : les recommandations du rapport Bothorel, les besoins des collectivités territoriales qui nous ont été remontés pendant la consultation nationale, et l'attente au sein de l'ANCT d'outillage pour mieux gérer, produire, et valoriser la donnée,  l'Incubateur des Territoires lance une investigation approfondie sur plusieurs axes. Il s'agit de bien cadrer et préparer ses actions autour de la donnée et des territoires. Ces futurs produits doivent pouvoir faire leur preuve d'impact, in fine répondre à des problèmes concrets des usagers, qu'ils soient agents de l'État, d'une collectivité ou citoyens.
+## Pourquoi Données et Territoires ?
 
-## Axes d'investigation : problèmes et opportunitiés
+L’ANCT, missionnée par le rapport Bothorel pour « accompagner les collectivités territoriales dans la publication des données », au cours de ses différentes investigations, a rencontré de nombreuses problématiques liées à l’utilisation des données :
 
-Les données ouvertes et partagées sont potentiellement au centre de nombreuses propositions d'investigations et de solutions numériques mutualisées. Elles ne constituent généralement pas une fin en soi :
-- il s'agit d'une part, de réfléchir à un outillage technique, documentaire et humain pour aider les collectivités territoriales à converger dans leur (bonne) pratique des données ouvertes, sur différents moments forts du cycle de vie de la donnée territoriale ;
-- il s'agit, d'autre part, de prototyper ou de soutenir des solutions numériques basées sur des cas d'usage concrets ciblant des domaines-clés comme le logement, la mobilité, les activités économiques.
+Il y a une forte attente vis-à-vis des collectivités territoriales pour ouvrir et partager les données liées à leurs activités, mais souvent un manque de moyen humain et technique pour y répondre au sein des collectivités
 
-L'investigation cherche ainsi à répondre à des problèmes concrets des collectivités en mobilisant des données ouvertes.
+De même, les collectivités territoriales elles-mêmes sont demandeuses d’utilisation des données pour mieux répondre à leurs missions, sans avoir là non plus toujours les moyens humains et techniques pour le faire
 
-Il y a plusieurs pistes à creuser en parallèle :
+La manipulation de données se fait souvent aujourd’hui de façon isolée (fichiers Excel sur le poste d’un agent), ayant pour conséquence une grande perte de temps dans le traitement de ces données : fichiers non normalisés donc beaucoup d’erreurs, difficile à partager, à corriger, à tenir à jour, etc.
 
-- Comprendre l'état des lieux des systèmes de données au sein de l'ANCT, avec un appui particulier pour l'équipe du Pôle analyse et diagnositque territorial ;
-- Tester et valider la faisibilité d'un service pour les agents de l'ANCT pour qu'ils puissent mieux publier de la donnée autour de leurs programmes, donnant aux collectivités une meilleure visibilité sur les données relatives à leur territoire ;
-- Valider la pertinence, l'impact potentiel, et la faisabilité technique des problèmes qui nous ont été remontés pendant les groupes de travail avec les collectivités et nos échanges avec les agents de l'ANCT, par exemple :
-    - Un service de découpage de données référentielles au niveau local. Un besoin qui nous a été remonté par des SIGistes des départements, et partager par les équipes de l'ANCT
-    - Un service de recensement des données de commerces, s'inspirant largement de la startup d'état [transport.data.gouv.fr](https://beta.gouv.fr/startups/transport.html). Ce besoin nous a été remonté à plusieurs reprises : une investigation avec la ville des Lilas, une investigation avec l'équipe Politique de la Ville de l'ANCT, dans le cadre de la consulation nationale, et une investigation en cours au sein du Programme National d'Investigation.
+Très souvent, les agents doivent saisir de la donnée pour un autre usage que le leur, ce qui est une perte de temps et un motif de frustration, par ailleurs la donnée qu’on saisit sans en comprendre la finalité est souvent mal saisie
 
-Pour tester cela, nous prévoyons de mener des entretiens d'utilisateurs pour valider les besoins, veiller sur ce qui a déjà été fait (notamment bien s'articuler avec ETALAB), tester des prototypes, creuser des solutions d'infrastructures, et s'assurer de la faisibilité technique des potentiels services.
+Données et Territoires intervient dans le but d'aider à faciliter la remontée d'information et à rendre les données publiques. Cela permet de soulager les personnes devant saisir ou collecter les informations, leur laissant la possibilité de se concentrer sur des questions au cœur de leur métier, et à n'importe qui d'obtenir rapidement les données publiques les plus fraîches.
 
-Les usagers ciblés par cette investigation sont :
-- Les équipes SIG des collectivités territoriales ;
-- Les équipes d'analyse et diagnostics territoriaux des services de l'état et de l'ANCT ;
-- Les agents de l'ANCT qui produisse de la donnée utile au pilotage des politiques publiques dans les territoires.
+<img width="700" alt="Image d'illustration de l'apport de Données et Territoires présentant 2 organisations. Dans l'organisation de gauche l'illustration, une demande de chiffres descend du cabinet jusqu'aux agents de terrain, avec plusieurs personnes mécontentes à cause de la latence ou des courtes échéances et de la nécessité d'aggréger des données (un travail fastidieux). Dans l'organisation de droite, une personne tout en bas est à l'aise pour produire des données auprès de data engineers, eux aussi à l'aise pour les injecter dans différentes plateformes (ex. sur data.gouv.fr), et à leur tour remontent les données auprès de data analystes, eux aussi à l'aise, qui aggrègent et publient des catalogues d'indicateurs à destination de différents publics (cabinets, préfets, journalistes, citoyens, directeur de programmes, ...) et à travers différents supports (API, tableaux de bord, fiches de synthèses, visualisation, ...)" src="https://github.com/betagouv/beta.gouv.fr/assets/371705/ccb0a93f-7dc1-4b03-a678-007c8edd6272">
 
-## Impact et gouvernance
+## Quels sont les outils mis à disposition par Données et Territoires ?
 
-Toute service issu de cette investigation devra viser de resoudre des problèmes de leurs usagers. Les potentiels impacts de ces services sont multiples :
-
-- Une réduction importante du temps alloué par les agents des collectivités et de l'ANCT à produire des jeux de données de référence au niveau local ;
-- Une augmentation en termes de transparence des actions et des financements de programmes de l'ANCT, qui conduit directement à des actions plus rapides et plus efficaces de la part des collectivités ;
-- L'amélioration de la qualité, de la précision et de la pertinence des données utliser par les programmes de l'ANCT à mener leur politique publiques
-- etc.
-
-Cette investigation, et les équipes produits qui pourront en émerger, seront suivis par l'ANCT en suivant les jalons de la méthode startup d'Etat. Le comité d'investissement sera composé de :
-
-- Directeur Général de l'ANCT
-- Directeurs Généraux délégués, notamment Numérique et AOS
-- Sécretaire géneral
-- SSI de l'ANCT
-
-Ils se réunissent tous les trois mois pour suivre l'impact de l'équipe.
+Ces outils sont assez nombreux mais nous en dégageons 4 principaux :
+- [**Grist**](https://getgrist.com) : il s'agit non seulement d'un puissant tableur collaboratif en ligne et open-source, mais également d'un outil de [no-code](https://fr.wikipedia.org/wiki/D%C3%A9veloppement_No_code) mettant à disposition une palette de widgets (calendrier, carte avec emplacements, wiki, ...) simples à mettre en place. L'incubateur propose 2 instances auto-hebergées en France de ce service, à destination des agents publics ;
+ - **inSITu** : il s'agit d'un ETL récupérant les données de différentes sources pour les normaliser et les agréger dans sa base de données ;
+ - [**Le catalogue d'indicateurs**](https://catalogue-indicateurs.donnees.incubateur.anct.gouv.fr/) : qui vous permet en quelques clics d'afficher les indicateurs pour tous les programmes de l'ANCT et de les comparer entre territoires, et ce que vous soyez agent de la fonction publique ou non ;
+ - [**Les fiches territoriales**](https://fiches.incubateur.anct.gouv.fr/) : qui vous affiche sur une même plateforme les indicateurs clés de l’ANCT par territoire ;

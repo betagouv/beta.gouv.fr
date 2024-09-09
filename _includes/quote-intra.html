@@ -1,0 +1,14 @@
+<figure class="fr-quote">
+    <blockquote cite="{{ author.link }}">
+        <p>« {{ author.content | strip_html }} »</p>
+    </blockquote>
+    <figcaption>
+        <p class="fr-quote__author">{{ author.fullname }}</p>
+        <ul class="fr-quote__source">
+            <li>{{ author.role }}</li>
+            <li>
+                <a href="{{ author.link }}">Parole d'intra</a>
+            </li>
+        </ul>
+    </figcaption>
+</figure>

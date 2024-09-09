@@ -9,19 +9,21 @@ phases:
     start: 2019-10-21
     end: 2020-01-31
   - name: alumni
-link:
-repository: 
-stats: false 
-stats_url: 
+    start: 2020-07-01
+stats: false
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - entreprise
 ---
-
 ## Problème visé :
+
 De nombreuses aides ainsi que des centaines de partenaires économiques existent en Bretagne pour accompagner les entreprises.
 Malheureusement cette offre de services n'est pas toujours très lisible et le cloisonnement de l'information rend difficile l'orientation et le suivi des demandes.
 
-## Hypothèses de solution : 
+## Hypothèses de solution :
+
 Créer de l’échange entre toutes les structures du développement économique régional et mettre en place un CRM partagé permettant d'assurer le suivi des demandes entre les partenaires.
 
-## Territoire d'expérimentation : 
+## Territoire d'expérimentation :
+
 Cette initiative est pilotée directement par la région Bretagne et s'inscrit dans un plan plus large de platfeforme d'information régionale.

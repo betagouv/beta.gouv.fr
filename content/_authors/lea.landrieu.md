@@ -1,13 +1,17 @@
 ---
 fullname: Léa Landrieu
-role: Business developer
+role: 'Chargée de développement '
 domaine: Déploiement
 github: lealandrieu
 missions:
   - start: 2019-09-05
-    end: 2022-09-30
+    end: 2024-12-31
     status: independent
-    employer: octo
+    employer: malt
+    startups:
+      - chauffage-urbain
 startups:
-    - aides-territoires
+  - chauffage-urbain
+previously:
+  - aides-territoires
 ---

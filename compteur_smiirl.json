@@ -2,5 +2,5 @@
 ---
 
     {
-      "number" : {{ site.startups | size }}
+      "number" : {{ site.authors | community: 'current', 'oldest' | size }}
     }

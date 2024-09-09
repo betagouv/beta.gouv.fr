@@ -5,9 +5,11 @@ role: Intrapreneure
 github: MathildeMl
 missions:
   - start: 2020-01-10
-    end: 2023-12-31
+    end: 2025-12-31
     status: admin
     employer: Gouvernement de la Nouvelle-Calédonie
+    startups:
+      - guichet-entreprises-nc
 competences:
   - Gestion de Produit
   - Administration Publique

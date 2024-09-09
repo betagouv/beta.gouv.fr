@@ -8,6 +8,8 @@ missions:
   - start: 2021-07-01
     end: 2022-02-28
     status: independent
+    startups:
+      - reva
 startups:
   - reva
 badges:

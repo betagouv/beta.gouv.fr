@@ -3,11 +3,14 @@ fullname: Jonathan Raimond
 domaine: Design
 role: UX/UI Designer
 link: https://www.jonathanraimond.com/
+github: jonathanraimond
 missions:
   - start: 2021-06-14
-    end: 2022-06-01
+    end: 2025-08-31
     status: independent
     employer: Octo
+    startups:
+      - carnet.de.bord
 startups:
   - carnet.de.bord
 badges:

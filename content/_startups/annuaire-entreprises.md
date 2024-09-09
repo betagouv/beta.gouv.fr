@@ -2,20 +2,27 @@
 title: L’Annuaire des Entreprises
 mission: Retrouver toutes les informations concernant les entreprises françaises
 sponsors:
-    - /organisations/dinum
+  - /organisations/dinum
 phases:
-    - name: investigation
-      start: 2020-09-01
-    - name: success
-      start: 2021-05-01
-incubator: apigouv
+  - name: investigation
+    start: 2020-09-01
+  - name: construction
+    start: 2021-04-01
+usertypes:
+  - etat
+  - entreprise
+incubator: dinum_produits_interministeriels
 link: https://annuaire-entreprises.data.gouv.fr
 repository: https://github.com/etalab/annuaire-entreprises.data.gouv.fr
 stats: true
-stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=145&period=range&date=previous30&updated=1#?idSite=145&period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1
+stats_url: https://annuaire-entreprises.data.gouv.fr/stats
+budget_url: https://annuaire-entreprises.data.gouv.fr/budget
+dashlord_url: https://dashlord.incubateur.net/url/annuaire-entreprises-data-gouv-fr/
 contact: annuaire-entreprises@data.gouv.fr
+thematiques:
+  - Open-Data
+  - Entreprises
 ---
-
 ## Le problème :
 
 Au sein de l’administration, la donnée des entreprises françaises est une ressource dispersée. De nombreuses directions, agences ou instituts sont responsables d'une fraction de la données et en assument la publication.
@@ -32,7 +39,4 @@ Résultat, les citoyens, entrepreneurs et agents qui ont besoin d'y accèder doi
 -   un moteur de recherche d'entreprise pour retrouver facilement n’importe quelle entreprise, association ou administration dotée d'un numéro siren
 -   pour chaque entreprise, une page identité avec les données récupérées en temps réel auprès des différentes sources de données "officielles"
 
-Mais l’Annuaire souhaite aller encore plus loin :
-
--   proposer un espace privé ou chaque entrepreneur pourra retrouver toutes les données et documents justificatifs de son entreprise (publics et privés)
--   devenir le site de référence de la donnée des entreprises : exhaustif, officiel, fiable et ergonomique
+Mais l’Annuaire souhaite aller encore plus loin et devenir le site de référence de la donnée des entreprises : exhaustif, officiel, fiable et ergonomique

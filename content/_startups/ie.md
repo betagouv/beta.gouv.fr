@@ -10,14 +10,15 @@ phases:
     start: 2020-03-01
   - name: construction
     start: 2020-06-01
-link: 
-repository: 
+  - name: alumni
+    start: 2022-01-01
+usertypes:
+  - etat
 stats: false
 contact: amd@finances.gouv.fr
 techno:
   - en cours
 ---
-
 ## Le problème 
 
 Pour la conduire de ses missions de développement économique dans un large spectre de secteurs d’activité, 

@@ -6,11 +6,19 @@ link: https://michael.bitard.fr/
 github: MichaelBitard
 missions:
   - start: 2022-03-07
-    end: 2022-12-01
+    end: 2024-12-30
     status: independent
-    employer: BeNext
+    employer: Malt
+    startups:
+      - camino
 startups:
   - camino
+competences:
+  - Développement Full-stack
+  - Développement
+  - Développement Backend
+  - Développement Frontend
+  - DevOps
+  - Administration Système
+  - Sécurité informatique
 ---
-
-Développeur

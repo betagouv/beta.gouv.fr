@@ -1,6 +1,6 @@
 ---
 title: PARTAJ
-mission: Facilitons l'accès à une expertise juridique de qualité
+mission: Faciliter l'accès à une expertise juridique de qualité
 sponsors:
   - /organisations/mtes
 incubator: mtes
@@ -10,13 +10,14 @@ phases:
   - name: construction
     start: 2019-11-01
   - name: transfer
-    start: 2021-09-01  
+    start: 2021-09-01
 link: https://partaj.beta.gouv.fr
 repository: https://github.com/MTES-MCT/partaj
 stats: false
 contact: contact@partaj.beta.gouv.fr
+usertypes:
+  - etat
 ---
-
 ## Le contexte
 
 PARTAJ est une application, développée dans le cadre de la « Fabrique Numérique » du ministère de la Transition écologique par une start-up d’Etat qui a vocation à simplifier l’accès au droit et améliorer sa qualité au sein de ce ministère.

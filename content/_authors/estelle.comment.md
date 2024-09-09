@@ -17,7 +17,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2021-11-23
-    end: 2022-04-30
+    end: 2024-05-15
     status: independent
     employer: Malt
 startups:
@@ -25,4 +25,5 @@ startups:
 previously:
   - e-controle
   - sante-psy-etudiant
+  - authentification
 ---

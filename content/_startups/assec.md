@@ -15,12 +15,15 @@ phases:
     start: 2018-04-13
   - name: alumni
     start: 2018-06-18
-link: 
 repository: https://github.com/MTES-MCT/assec
 stats: false
 contact: michel.perrel@beta.gouv.fr
+usertypes:
+  - etat
+  - entreprise
+thematiques: []
+techno: []
 ---
-
 ## Le problème de la gestion de la sécheresse
 
 Lors d’un épisode de sécheresse, les ressources en eau baissent jusqu’à ne plus satisfaire tous les besoins des particuliers, industriels et agriculteurs. L’État partage alors la ressource restante. En 2017, 85 départements ont été concernés. Avec le changement climatique à l’œuvre, ces situations deviennent plus fréquentes.
@@ -39,6 +42,6 @@ ASSEC permettra que la réponse réelle à la sécheresse soit à la hauteur de 
 
 Un produit minimum viable a été développé dans le Var, département fréquemment concerné par la sécheresse. Ce premier pas offrait un service utile correspondant aux besoins de communautés d’irrigants qui dépendent d’une même ressource en eau, toutes cultures confondues.
 
-# Abandon
+## Abandon
 
 Le déploiement d'ASSEC dans d'autres départements n'a pas trouvé de financement. Le travail réalisé a été documenté, et le code reste ouvert, dans la perspective de moderniser à l'avenir les outils de communication sur la sécheresse.

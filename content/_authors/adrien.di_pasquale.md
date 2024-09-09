@@ -15,13 +15,18 @@ missions:
     end: 2021-12-08
     status: independent
   - start: 2022-01-28
-    end: 2022-08-01
+    end: 2024-03-10
     status: independent
-startups: [collectif_objets]
+  - start: 2024-05-27
+    end: 2024-12-31
+    status: independent
 previously:
-  - lapins
+  - collectif_objets
+  - rdv-service-public
   - codedutravail
   - enfants-du-spectacle
+startups:
+  - rdv-service-public
 competences:
-  - Développement fullstack
+  - Développement Full-stack
 ---

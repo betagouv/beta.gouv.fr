@@ -1,20 +1,22 @@
 ---
 fullname: Marie Van Haecke
-role: Coach
 domaine: Coaching
+role: Coach
 github: marievanhaecke
 missions:
-  - employer: Dinum
-    start: 2021-01-21
-    end: 2022-12-31
+  - start: 2021-01-21
+    end: 2030-12-31
     status: service
-startups:
-  - tutorat_fp
-  - talents.numeriques
+    employer: Dinum
 previously:
   - metiers-numeriques
+  - bourses.scolaires
+  - tutorat_fp
+  - talents.numeriques
+  - mon-suivi-justice
 badges:
   - segur
+competences:
+  - Coaching
 ---
-
-Autant à l’aise dans les phases de co-création que de delivery, Je suis un vrai couteau suisse du produit ! Mon état d’esprit test & learn me permet d’être centré sur le besoin de l’utilisateur et j’adore passer d’une idée à un projet concret.
+Mon état d’esprit test & learn me permet d’être centrée sur le besoin de l’utilisateur et j’adore passer d’une idée à un projet concret.

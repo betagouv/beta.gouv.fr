@@ -7,10 +7,8 @@ missions:
     end: 2018-09-30
     status: service
     employer: octo
-startups:
 previously:
   - pix
-  - place-des-entreprises
+  - conseillers-entreprises
 ---
-
-:turtle:
+:turtle: null

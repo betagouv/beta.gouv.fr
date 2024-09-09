@@ -1,13 +1,15 @@
 ---
 fullname: Zohair BERQOUCH
-role: Chargé de déploiement
 domaine: Déploiement
+role: Chargé de déploiement
 missions:
   - start: 2022-02-07
-    end: 2022-04-28
+    end: 2022-10-31
     status: independent
     employer: Octo
-startups:
+incubator: sgmas
+previously:
   - dora
+competences:
+  - Communication
 ---
-

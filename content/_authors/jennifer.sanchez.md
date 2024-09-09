@@ -8,8 +8,9 @@ missions:
   - start: 2018-11-26
     end: 2021-05-01
     status: independent
+    startups:
+      - zen
 startups:
-    - zen
+  - zen
 ---
-
 Je conçois et réalise des services qui répondent, de la manière la plus efficace et intuitive, aux besoins de leurs utilisateurs.

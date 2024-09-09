@@ -2,7 +2,7 @@
 title: Urbaclic
 mission: Accéder aux règles d'urbanisme en quelques clics
 sponsors:
- - /organisations/dinum
+  - /organisations/dinum
 incubator: dinum
 events:
   - name: end
@@ -13,12 +13,15 @@ phases:
   - name: construction
     start: 2016-03-01
   - name: alumni
+    start: 2017-12-31
 link: http://www.opendatalab.fr/urbaclic
 repository: https://github.com/betagouv/urbaclic
 stats: false
 contact: fmoguen@openig.org
+usertypes:
+  - particulier
+  - collectivite-territoriale
 ---
-
 ## Abandon
 
 Faute de financement pérenne, le développement du produit est suspendu en tant que Startup d'État.
@@ -62,7 +65,7 @@ L'outil prendra aussi appui sur :
 - l'[API Géo](https://beta.gouv.fr/startups/api-geo.html) ;
 - la plateforme [geo.data.gouv.fr](https://beta.gouv.fr/startups/geo.data.gouv.fr.html)
 
-La construction d'__Urbaclic__ permettra de consolider l'[API Géo](https://beta.gouv.fr/startups/api-geo.html), en l'enrichissant notamment sur les thématiques __Risques__ et __Urbanisme__.
+La construction d'**Urbaclic** permettra de consolider l'[API Géo](https://beta.gouv.fr/startups/api-geo.html), en l'enrichissant notamment sur les thématiques **Risques** et **Urbanisme**.
 
 ## Déploiement
 

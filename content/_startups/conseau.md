@@ -1,8 +1,8 @@
 ---
 title: Cons'eau
-mission: Améliorer la gestion des sécheresses par la maîtrise des prélèvements 
+mission: Améliorer la gestion des sécheresses par la maîtrise des prélèvements
 sponsors:
- - /organisations/mtes
+  - /organisations/mtes
 incubator: mtes
 phases:
   - name: investigation
@@ -10,12 +10,12 @@ phases:
     end: 2020-06-30
   - name: alumni
     start: 2020-06-30
-link:
-repository:
 stats: false
 contact: elise.jacob@developpement-durable.gouv.fr
+usertypes:
+  - entreprise
+  - etat
 ---
-
 ## Le problème
 
 La sécheresse résulte d’un déséquilibre entre les ressources disponibles et les besoins en eau. Ce déséquilibre est bien souvent localisé et défini dans le temps. En France métropolitaine les sécheresses s’observent principalement en période estivale. Dans le contexte du changement climatique, les épisodes de sécheresse en France sont de plus en plus fréquents, intenses et prolongés. 

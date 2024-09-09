@@ -9,6 +9,8 @@ missions:
     end: 2019-12-31
     status: service
     employer: YSO Corp
+    startups:
+      - zen
 startups:
-    - zen # de pole-emploi
+  - zen
 ---

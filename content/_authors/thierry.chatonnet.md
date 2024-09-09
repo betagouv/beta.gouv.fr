@@ -8,5 +8,4 @@ missions:
     status: admin
     employer: Ministère de l'intérieur
 ---
-
-Je suis chargé des financements de projets innovants à la direction du numérique du ministère de l'Intérieur 
+Je suis chargé des financements de projets innovants à la direction du numérique du ministère de l'Intérieur

@@ -10,8 +10,7 @@ missions:
     employer: minarm
 github: seiteta
 previously:
-    - e-chauffeur
-    - civils-de-la-defense
+  - e-chauffeur
+  - civils-de-la-defense
 ---
-
 🏭🔢

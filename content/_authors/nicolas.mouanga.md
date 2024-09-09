@@ -4,9 +4,16 @@ role: Growth Hacker
 domaine: Déploiement
 github: NicolasM92
 missions:
-  - end: 2022-12-31
-    start: 2020-02-10
+  - start: 2020-02-10
+    end: 2025-12-31
     status: independent
+    startups:
+      - docurba
+      - mon-diagnostic-artificialisation
 startups:
-  - place-des-entreprises
+  - mon-diagnostic-artificialisation
+  - docurba
+previously:
+  - conseillers-entreprises
+  - codedutravail
 ---

@@ -8,8 +8,12 @@ missions:
     end: 2021-11-30
     status: independent
     employer: Codeurs en Liberté
+    startups:
+      - efti
+      - le-taxi
+      - railup
 startups:
-    - le-taxi
-    - railup
-    - efti
+  - le-taxi
+  - railup
+  - efti
 ---

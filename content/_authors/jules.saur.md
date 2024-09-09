@@ -4,11 +4,14 @@ domaine: Déploiement
 role: Chargé de déploiement
 missions:
   - start: 2021-05-10
-    end: 2022-12-31
+    end: 2025-12-30
     status: independent
-    employer: OCTO
+    employer: Malt
+    startups:
+      - bases.adresses.locales
 startups:
   - ban
+  - bases.adresses.locales
 badges:
   - segur
 competences:

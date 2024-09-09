@@ -1,8 +1,8 @@
 ---
 title: Visam
-mission: Fluidifier le dialogue social de la  « Direction des ressources humaines » de l’État.
-sponsors: 
-    - /organisations/dgafp
+mission: "Fluidifier le dialogue social de la  «\_Direction des ressources humaines\_» de l’État."
+sponsors:
+  - /organisations/dgafp
 incubator: dinum
 phases:
   - name: investigation
@@ -15,15 +15,15 @@ phases:
 events:
   - name: end
     date: 2020-12-14
-link:
+usertypes:
+  - etat
 repository: https://github.com/betagouv/visam
 stats: false
 contact: contact@visam.beta.gouv.fr
 techno:
-    - Python
-    - PostgreSQL
+  - Python
+  - PostgreSQL
 ---
-
 ## Le contexte
 
 Chaque fois que l’État élabore un projet de texte législatif ou réglementaire qui porte sur le statut des fonctionnaires, l’État doit le soumettre pour avis aux instances du dialogue social compétentes.

@@ -1,12 +1,13 @@
 ---
 title: TuMePlay
-mission: Améliorer la prévention sexuelle pour les jeunes de moins de 25 ans
+mission: Accompagner les jeunes dans leur parcours d’apprentissage en santé sexuelle de manière ludique et fiable
 sponsors:
   - /organisations/dgs
 incubator: sgmas
 link: https://tumeplay.fabrique.social.gouv.fr/
-repository: null
-contact: yowa.muzadi@fabrique.social.gouv.fr
+repository: https://github.com/SocialGouv/tumeplay
+contact: contact.tumeplay@fabrique.social.gouv.fr
+stats_url: https://tumeplay.fabrique.social.gouv.fr/stats
 stats: true
 phases:
   - name: investigation
@@ -15,9 +16,20 @@ phases:
     start: 2019-09-01
   - name: acceleration
     start: 2021-01-01
+  - name: alumni
+    start: 2024-02-29
+usertypes:
+  - particulier
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/tumeplay-fabrique-social-gouv-fr/
+accessibility_status: non conforme
+thematiques:
+  - Santé
+  - Jeunesse
+techno: []
 ---
+**La startup est arrêtée :(**
 
-# Nos constats
+## Nos constats
 
 **1. Une recrudescence des IST :**
 Entre 2012 et 2016, le nombre de nouveaux diagnostics d’infections sexuellement transmissibles a triplé chez les 15-24 ans, d'après les résultats de [l'enquête Labo IST1 publiée par Santé Publique France](https://www.santepubliquefrance.fr/les-actualites/2019/barometre-de-sante-publique-france-2019-lancement-de-l-enquete).
@@ -35,7 +47,7 @@ Selon le [baromètre réalisé par le Haut Conseil à l’Égalité](http://www.
 
 Le rôle de l'école dans la prévention sexuelle des jeunes diminue.
 
-# Nos convictions
+## Nos convictions
 
 Le numérique offre une opportunité pour l'éducation à la sexualité. Il est important de l'investir avec des outils adéquats qui permettent aux jeunes de monter en compétence de manière individuelle, de se responsabiliser et trouver ensuite les relais physiques susceptibles de l'accompagner
 
@@ -43,15 +55,15 @@ La promotion du préservatif reste essentielle dans la prévention des IST, ains
 
 Les jeunes devraient pouvoir bénéficier de plus d'offres dématérialisées pour des dépistages hors des circuits habituels.
 
-# Notre challenge
+## Notre challenge
 
 Augmenter les connaissances et compétences des jeunes en matière de santé sexuelle pour encourager les comportements responsables et améliorer, in fine, les indicateurs de santé sexuelle chez les jeunes.
 
 Cela passe par des “tests de connaissances”. Ces tests permettent au jeune d’avoir accès à des paniers (les “box”) contenant une offre de produits, informations et services en santé sexuelle. En particulier, les jeunes pourront avoir accès à des préservatifs et du lubrifiant gratuitement. Ces produit seront regroupés dans des box thématiques, qu’ils pourront commander et recevoir après avoir obtenu des points aux différents tests.
 
-# Notre solution
+## Notre solution
 
-Notre solution se présente sous la forme d’un produit numérique (une web-app).
+Notre solution se présente sous la forme d’un produit numérique (une application mobile disponible sur les stores Android & iOS).
 
 Elle repose sur trois grands axes :
 
@@ -70,15 +82,21 @@ Elle repose sur trois grands axes :
 - améliorer l'image et la perception des moyens de prévention et de santé sexuelle chez les jeunes, en particulier celles des préservatifs et lubrifiants
 - promouvoir l'utilisation des moyens de prévention et des dépistages
 
-Plusieurs modes de distribution sont envisagés pour les “box” :
+Plusieurs modes de distribution sont implémentés pour les “box” :
 
-- la pharmacie
-- le point relais
-- la livraison chez un partenaire (mission locale, association locale, etc.)
+- la livraison à domicile
+- la livraison en point relais
+- la livraison chez un partenaire (mission locale, association locale, etc.) appelé "référent"
 
-Notre [compte Instagram](https://www.instagram.com/tumeplay/).
+D'autres outils sont déployés :
+- Pour l'équipe tumeplay : un back-office web de gestion de contenus & de pilotage.
+- Pour les partenaires de l'écosystème : un back-office de gestion logistique.
 
-# Notre écosystème
+Sur les réseaux sociaux, notre communication se fait sur deux plateformes via :
+- Notre [compte Instagram](https://www.instagram.com/tumeplay/).
+- Notre [compte TikTok](https://www.tiktok.com/@tu.me.play).
+
+## Notre écosystème
 
 Trois ARS partenaires qui représentent nos territoires d'expérimentation : Guyane, Ile-de-France, Nouvelle-Aquitaine.
 
@@ -89,6 +107,7 @@ Des partenaires de distribution, qui constituent nos relais physiques après la 
 - Des acteurs locaux de type missions locales ou infirmières scolaires en fonction des territoires
 - Des partenaires "sachants"/experts, les associations, centres de santé et autres qui prendront le relais sur les domaines qui ne relèvent pas de notre compétence, afin de créer un véritable maillage.
 
-# Nos indicateurs de performance
+## Nos indicateurs de performance
 
 Il est très difficile de mesurer avec exactitude le taux d’IST sur un territoire donné c’est pourquoi nous comptons évaluer l’évolution des connaissances du jeune.
+Retrouvez les statistiques de l'application sur la [page de stats](https://tumeplay.fabrique.social.gouv.fr/stats)

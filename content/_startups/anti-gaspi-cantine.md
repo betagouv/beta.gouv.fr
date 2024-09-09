@@ -2,20 +2,19 @@
 title: Anti-Gaspi-Cantine
 mission: Réduire le gaspillage alimentaire dans les cantines scolaires
 incubator: anct
-sponsors: 
-    - /organisations/departement-oise
+sponsors:
+  - /organisations/departement-oise
 phases:
   - name: investigation
     start: 2020-01-14
   - name: alumni
     start: 2021-08-23
-link:
-repository: 
-stats: false 
-stats_url: 
+stats: false
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - particulier
+  - etablissement-scolaire
 ---
-
 ## Problème: 1 million de repas perdus chaque année dans les restaurations scolaires
 Actuellement, 3 milliards de repas sont servis en restauration collective chaque année en France, 540 000 TONNES de nourritures jetées sont encore consommables. Cela représente 1 million de repas perdus chaque année dans les restaurations scolaires en France.  IL FAUT AGIR !!!
 

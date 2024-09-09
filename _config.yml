@@ -14,7 +14,6 @@ email: contact@beta.gouv.fr
 description: Nous créons des services publics numériques
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://beta.gouv.fr # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: BetaGouv
 github_username: betagouv
 github_repository: BetaGouv/beta.gouv.fr
 
@@ -49,20 +48,19 @@ exclude: [
   "docker-compose.yml",
   "requirements.txt",
   "Procfile",
-  "yarn.lock",
   "package.json",
-  "package-lock.json"
+  "package-lock.json",
+  "spec"
 ]
 
+empty_placeholder: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+
 copy_to_dest:
-  - source: node_modules/remixicon/fonts/.
-    target: assets/remixicon/fonts/
-  - source: node_modules/@gouvfr/dsfr/dist/css/.
-    target: assets/gouvfr/css/
-  - source: node_modules/@gouvfr/dsfr/dist/fonts/.
-    target: assets/gouvfr/fonts/
-  - source: node_modules/@gouvfr/dsfr/dist/js/.
-    target: assets/gouvfr/js/
+  - source: node_modules/@gouvfr/dsfr/dist/.
+    target: assets/gouvfr/
+
+keep_files:
+  - assets/gouvfr
 
 excerpt_separator: <!--more-->
 
@@ -74,20 +72,21 @@ collections_dir:
 collections:
   authors:
   incubators:
-  jobs:
     output: true
-    permalink: /recrutement/:year/:month/:day/:title.html
+    permalink: /incubateurs/:title.html
+  intras:
   mooc:
     output: true
     permalink: /approche/formation/mooc/:title.html
   phases:
   fasts:
     output: true
-    permalink: /approche/fast/:title.html
+    permalink: /fast/lauréats/:title.html
   startups:
     output: true
     permalink: /startups/:title.html
   organisations:
+  teams:
 
 defaults:
   - scope:
@@ -112,6 +111,11 @@ defaults:
       type: "startups"
     values:
       layout: startup
+  - scope:
+      path: ""
+      type: "incubators"
+    values:
+      layout: incubateur
   - scope:
       path: "img/authors"
     values:

@@ -1,13 +1,34 @@
 ---
 fullname: Elsa Le Duigou
-role: Chargée de déploiement
-domaine: Déploiement
+role: Reponsable portefeuille Santé, Solidarités, Cybersécurité et IA
+domaine: Animation
+github: pouredfromamold
 missions:
   - start: 2021-02-02
-    end: 2022-07-07
+    end: 2021-12-30
     status: admin
     employer: Ministère de la Culture
-startups:
+  - start: 2022-01-01
+    end: 2022-12-26
+    status: independent
+    startups:
+      - collectif_objets
+  - start: 2022-12-27
+    end: 2025-12-26
+    status: admin
+    employer: dinum
+    startups:
+      - api.prevention
+      - france.consulaire
+      - infomedicament
+      - medistock
+      - teleconsultation-ald
+      - tous.a.bord
+previously:
   - collectif_objets
+badges:
+  - segur
+teams:
+  - /teams/animation-dinum
+link: https://www.linkedin.com/in/elsa-le-duigou-869bb311b/
 ---
-

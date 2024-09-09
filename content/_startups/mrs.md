@@ -19,8 +19,10 @@ link: https://mrs.beta.gouv.fr
 repository: https://github.com/betagouv/mrs
 stats: true
 contact: frederic.boulay@beta.gouv.fr
+usertypes:
+  - particulier
+  - etat
 ---
-
 ## Fiche produit
 
 Sur prescription de votre médecin, l'Assurance Maladie rembourse les frais d'utilisation de votre véhicule personnel ou de transports en commun. Plus flexible, plus rapide, plus économique, le recours au véhicule personnel est pourtant le mode de transport le plus compliqué et le plus long à se faire rembourser.
@@ -44,3 +46,5 @@ MRS permet la promotion du véhicule personnel ou des transports en commun, solu
 ## Déploiement national
 
 En juin 2019, au vu du succès de MRS, la CNAM décide de déployer le service au national. La phase de transfert débute à l'été 2019 et se poursuit début 2020 pour assurer la pérennisation du service.
+
+En février 2023, le service MRS cumule plus de 260 000 utilisateurs, 1,3 million de demandes de remboursement et un délai moyen de remboursement de 4,3 jours. 

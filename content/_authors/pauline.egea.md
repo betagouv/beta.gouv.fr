@@ -1,15 +1,19 @@
 ---
-fullname: Pauline EGEA
-role: Point d'entrée benext 
-domaine: Autre
+fullname: Pauline Egea
+role: BizDev
+domaine: Déploiement
 github: paulineegea
+link: https://www.linkedin.com/in/pauline-egea-b9786813/
 missions:
   - start: 2021-09-16
-    end: 2021-12-31
+    end: 2023-12-31
     status: service
-    employer: Benext 
+    employer: Malt
+    startups:
+      - dossierfacile
 badges:
   - segur
+startups:
+  - dossierfacile
 ---
-
-Point d'entrée benext :) 
+BizDev !

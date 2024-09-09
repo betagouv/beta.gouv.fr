@@ -9,9 +9,9 @@ missions:
     end: 2019-06-01
     status: admin
     employer: dinum
+    startups:
+      - aplus
 startups:
- - aplus
-
+  - aplus
 ---
-
 Chambérien d'origine, étudiant à l'IEP de Grenoble, en stage auprès de l'Incubateur des Services Numérique

@@ -1,69 +1,49 @@
-# Améliorer le site public de l'Incubateur BetaGouv
+# Contribuer au site public de beta.gouv.fr
 
-## Ajouter une Startup
+## Bonnes pratiques de contributions
 
-### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=startups&where=content/_startups/nom-startup.md)
+### Relecture des propositions
 
-Les illustrations doivent être en 16:9, au format 1280 ⨉ 720 pixels, optimisées au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
+Pour une **mise à jour** (de date de mission, ou de fiche produit), la modification peut être **mergée sans relecture**.
 
-> Sinon, offline : dupliquer un fichier de description dans le dossier [`/content/_startups`](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups) et suivre les instructions ci-dessous sur l'édition.
+Pour les modifications plus complexes, **la modification doit être relue et approuvée par une autre personne que l'auteur avant d’être intégrée** pour :
+- éviter les erreurs d'inattention
+- se mettre d'accord collectivement sur le contenu publié au nom de l'incubateur.
 
-Pour le titre de la startup, s'en tenir aux [règles usuelles](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#R.C3.A8gles_traditionnelles), c'est-à-dire sauf cas particuliers : le premier mot prend une majuscule, les autres non. (Ce n'est pas grave de se tromper, mais il faut s'attendre à ce que ça soit corrigé plus tard.)
+### Demande de relecture
 
-Pour l'énoncé de mission, utiliser une phrase à l'infinitif, qui complète « En investissant dans ce produit, l'État cherche à… » ou « l'État cherche à rendre plus facile de… ».
+**L'auteur d'une modification est responsable d'obtenir une relecture**, en relançant les gens périodiquement. Pour demander une relecture :
 
-## Éditer la description d'une Startup existante
+1. **Ouvrir une <abbr title="Demande de modification sur GitHub">pull request</abbr>**, sans mentionner de relecteur explicitement. Les relecteurs potentiels vont recevoir une notification, et peuvent s'auto-assigner la relecture.
+2. **Si plusieurs jours s'écoulent sans relecture** (entre 2 et 5 jours, à la louche), ajouter un commentaire à la pull request, en demandant explicitement une relecture à un relecteur potentiel.
+3. **Si plusieurs jours s'écoulent à nouveau**, contacter directement un relecteur potentiel (par exemple par message privé ou public sur le [Mattermost de l'incubateur](https://mattermost.incubateur.net), ou en présentiel dans les locaux de _beta.gouv.fr_).
 
-Modifier le fichier `$id_startup.md` de description de la Startup dans le dossier [`content/_startups`](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups).
+Pour les relectures de code, il vaut mieux choisir une personne ayant un peu l'habitude de Jekyll, de Ruby ou du développement web. En revanche, en cas d'urgence sur une relecture éditoriale, toute personne de l'incubateur est légitime à approuver les modifications.
 
-La documentation des différentes propriétés à renseigner est accessible en cliquant sur le lien de création d'une nouvelle Startup dans la section précédente.
+### Conseils pour les relecteurs
 
-## Ajouter ou modifier l'image d'illustration d'un Startup existante
+- **Commentez le code ou le texte – pas l'auteur** : on ne cherche pas à assigner de responsabilités ou à critiquer l'auteur ; mais juste à voir comment un bout de code ou de texte pourrait être plus pertinent.
+- **Si vous critiquez, proposez** : si quelque chose ne vous plait pas, expliquez comment vous proposeriez de l'améliorer.
+- **Soyez souple** : si vous avez une remarque mineure, ne bloquez pas la pull request avec une revue négative. Il vaut mieux approuver la pull request, en laissant l'auteur responsable de prendre en compte (ou pas) vos remarques.
 
-Ajouter un image `$id_startup.jpg`ou .png dans le dossier [img/startups](https://github.com/betagouv/beta.gouv.fr/tree/master/img/startups)
+## Modifier le contenu de beta.gouv.fr
 
-## Ajouter un membre à la communauté BetaGouv
+### Startups et membres
 
-En complétant, le formulaire d'onboarding : https://secretariat.incubateur.net/onboarding , une PR sera créé et une fois validé, l'adresse email est créé.
+Les créations et modifications de fiches membres peuvent se faire via l'[Espace membre](https://espace-membre.incubateur.net/account)
 
-## Modifier un membre à la communauté BetaGouv
-
-### [À travers l'interface web Netlify CMS (pour ne pas avoir à écrire de code)](https://beta.gouv.fr/admin/)
-
-Cette interface permet à toutes les personnes de la communauté modifier des fiches. 
-
-### Par l'interface web de GitHub
-
-Le nom du fichier est important : il doit correspondre au nom de la personne, selon le schéma `prenom.nom.md`. Les parties `prenom` et `nom` sont en minuscules et sans accents. Les espaces des noms propres sont remplacés par `_` et les tirets restent. Il faut garder .md à la fin du nom du fichier. **Il est important que cet identifiant et celui du mail `@beta.gouv.fr` correspondent**. Cela nous permet de traiter [automatiquement](https://github.com/betagouv/betaGouvBot) divers sujets liés à la gestion RH tels que abonnement et désabonnement des listes de diffusion, anticipation des fins de contrat, etc.
-
-> Sinon, offline : créer un nouveau fichier de description dans le dossier [`content/_authors`](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_authors) et renseigner les informations en prenant exemple sur un fichier de description existant déjà dans ce dossier.
-
-Tu peux fournir un fichier avec ta photo si tu n'as pas de compte Github, ou si tu es à l'aise avec la manip (qui est un peu plus pénible que juste modifier un fichier Markdown). Attention, l'image doit être carrée et de préférence à une résolution supérieure à 512 ⨉ 512 pixels, optimisée au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
-
-## Ajouter une offre d'emploi
-
-### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=jobs&where=content/_jobs/AAAA-MM-DD-nom_offre.md) :smiley:
-
-> Une fois l'offre pourvue, bien penser à changer la valeur du flag `open` et de la mettre à `false`.
-
-> S'il s'agit d'une offre dev, merci d'ajouter le flag `techno`.
-
-> Pour un premier recrutement (le CTO de la Startup), la valeur conseillée de ce champ est "Choix technologiques ouverts parmi les solutions libres du marché."
-
-> Pour les recrutements ultérieurs, vous pouvez préciser s'ils sont ouverts aux juniors. Le recrutement de ces profils "juniors" est un élément important pour augmenter la diversité au sein de notre collectif ; prenez le temps de réfléchir à vos besoins pour ce recrutement avant d'écarter cette possibilité.
-
-## Modifier le contenu éditorial
+### Contenu éditorial
 
 [Rechercher le contenu à modifier](https://github.com/betagouv/beta.gouv.fr/search?q=contenu+à+modifier&type=Code) et éditer le fichier correspondant.
 
-## Modifier la présentation du site en Local
+## Développement en local
 
-### Utilisation de Jekyll pour le développement en local
+### Utilisation de Jekyll
 
-Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://github.com/jekyll/jekyll/releases/tag/v3.8.5/).
+Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est la [3.8.5](https://github.com/jekyll/jekyll/releases/tag/v3.8.5/).
 
 Pour initialiser votre environnement de développement, commencez par installer [Ruby](https://www.ruby-lang.org/fr/) dans la version spécifiée par le fichier `.ruby-version`.
-Si vous utilisez RVM pour isoler votre environnement, vous pouvez le faire avec la commande suivante:
+Si vous utilisez RVM pour isoler votre environnement, vous pouvez le faire avec la commande suivante :
 
 ```sh
 rvm install `cat .ruby-version`
@@ -83,53 +63,38 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `assets\additional` et `layout`. 
-
-### Dépendances : un `Gemfile` particulier
+#### Gestion des dépendances
 
 Afin de minimiser les écarts entre les versions de développement et les versions de production, ce dépôt contient un fichier `Gemfile` (spécification des versions minimum des dépendances), comme beaucoup de dépôts Ruby.
 
-### Environnement local de developpement avec docker
-Un environnement de developpement local basé sur docker, est disponible.
+### Développement local avec Docker
 
-Les pré requis d execution sont d avoir les logiciels suivants installés:
+Un environnement de developpement local basé sur docker, est disponible.
+Les prérequis d'execution sont :
 - Makefile
 - docker
 - docker-compose
+- npm
 
 Pour lancer son environnement local:
 ```bash
-# generation des fichiers
+# Installation des assets à copier
+npm i
+
+# Génération des fichiers
 make build
-# execution des tests
+
+# Exécution des tests
 make test
-# lancement de jekyll
+
+# Lancement de Jekyll
 make up
-# arret de jekyll
+
+# Arrêt de Jekyll
 make down
 ```
 
-Le site beta.gouv est accessible en local sur `http://localhost:4000`
-
-## Relire les changements
-
-Pour encourager les contributions, éviter les erreurs d'inattention, et se mettre d'accord collectivement sur le contenu publié au nom de l'incubateur, chaque modification doit être relue et approuvée par une autre personne que l'auteur avant d’être intégrée.
-
-### Conseils pour demander une relecture
-
-Pour les relectures de code, il vaut mieux choisir une personne ayant un peu l'habitude de Jekyll, de Ruby ou du développement web. En revanche, en cas d'urgence sur une relecture éditoriale, toute personne de l'incubateur est légitime à approuver les modifications.
-
-**L'auteur d'une modification est responsable de pousser pour obtenir une relecture**, en relançant les gens périodiquement. Pour demander une relecture :
-
-1. **Ouvrir une <abbr title="Demande de modification sur GitHub">pull request</abbr>**, sans mentionner de relecteur explicitement. Les relecteurs potentiels vont recevoir une notification, et peuvent s'auto-assigner la relecture.
-2. **Si plusieurs jours s'écoulent sans relecture** (entre 2 et 5 jours, à la louche), ajouter un commentaire à la pull request, en demandant explicitement une relecture à un relecteur potentiel.
-3. **Si plusieurs jours s'écoulent à nouveau**, contacter directement un relecteur potentiel (par exemple par message privé ou public sur le [Mattermost de l'incubateur](https://mattermost.incubateur.net), ou en présentiel dans les locaux de _beta.gouv.fr_).
-
-### Conseils pour les relecteurs
-
-- **Commentez le code ou le texte – pas l'auteur** : on ne cherche pas à assigner de responsabilités ou à critiquer l'auteur ; mais juste à voir comment un bout de code ou de texte pourrait être plus pertinent.
-- **Si vous critiquez, proposez** : si quelque chose ne vous plait pas, expliquez comment vous proposeriez de l'améliorer.
-- **Soyez souple** : si vous avez une remarque mineure, ne bloquez pas la pull request avec une revue négative. Il vaut mieux approuver la pull request, en laissant l'auteur responsable de prendre en compte (ou pas) vos remarques.
+Le site beta.gouv est alors accessible en local sur `http://localhost:4000`
 
 ## Déploiement
 
@@ -145,4 +110,4 @@ Pousser sur `master`, c’est partager avec le monde… ce qui signifie donc qu'
 
 C'est pourquoi la branche `master` est [protégée](https://help.github.com/articles/about-protected-branches/) : il est impossible de mettre en production sans que les [tests automatisés](https://github.com/betagouv/beta.gouv.fr/actions) n'aient validé que le site pouvait être généré correctement et qu'au moins un pair humain ait revu les modifications proposées.
 
-Vous pouvez retrouver l ensemble des "tests automatisés" dans l onglet 'Checks' de chaque Pull Request.
+Vous pouvez retrouver l'ensemble des "tests automatisés" dans l onglet 'Checks' de chaque Pull Request.

@@ -7,8 +7,9 @@ missions:
     end: 2019-01-01
     status: admin
     employer: minarm
+    startups:
+      - civils-de-la-defense
 startups:
-    - civils-de-la-defense
+  - civils-de-la-defense
 ---
-
 Observe, assimile et innove...

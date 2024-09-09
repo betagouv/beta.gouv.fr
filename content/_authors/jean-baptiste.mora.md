@@ -3,15 +3,15 @@ fullname: Jean-Baptiste Mora
 role: Développeur
 domaine: Développement
 github: jeanbaptistemora
-avatar: 
 link: https://moramora.fr
-missions: 
+missions:
   - start: 2019-06-17
     end: 2019-12-31
     status: independent
     employer: Octo
-startups: 
-    - mrs
+    startups:
+      - mrs
+startups:
+  - mrs
 ---
-
 Développeur web Front et Back / Sys-admin / DevOps à Toulouse.

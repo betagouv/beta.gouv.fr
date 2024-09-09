@@ -2,19 +2,31 @@
 fullname: Maël Thomas
 role: Développeur […]
 domaine: Développement
-link: https://github.com/laem
+github: laem
+link: https://kont.me
 missions:
   - start: 2015-10-01
     end: 2017-10-01
     status: admin
-    employer: dinum
+    employer: DINUM
+    startups:
+      - comobi
+      - mon-entreprise
   - start: 2017-10-02
-    end: 2021-12-31
+    end: 2023-12-31
     status: independent
+    startups:
+      - datagir
+      - mon-entreprise
+      - nosgestesclimat
+  - start: 2024-01-01
+    end: 2024-12-31
+    status: independent
+    startups:
+      - mesaidesreno
 previously:
-    - mon-entreprise
-    - comobi
-startups:
-    - datagir
+  - mon-entreprise
+  - comobi
+  - datagir
+  - nosgestesclimat
 ---
-

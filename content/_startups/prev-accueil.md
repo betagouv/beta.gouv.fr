@@ -1,21 +1,19 @@
 ---
 title: Prev' Accueil
 mission: Permettre aux familles en situation de vulnérabilité et/ou de détresse d’accéder à un dispositif d’accueil d’urgence d’enfant
-sponsors: 
-    - /organisations/anct
+sponsors:
+  - /organisations/anct
 incubator: anct
 phases:
-    - name: investigation
-      start: 2020-01-14
-    - name: alumni
-      start: 2020-07-08
-link:
-repository: 
-stats: false 
-stats_url: 
+  - name: investigation
+    start: 2020-01-14
+  - name: alumni
+    start: 2020-07-08
+stats: false
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - particulier
 ---
-
 ## Problème visé :
 En France, 44% des enfants n’ont pas accès à un mode d’accueil .
 Pour les familles en « situation de vulnérabilité et/ou de détresse » ce chiffre peut monter jusqu’à 90% !

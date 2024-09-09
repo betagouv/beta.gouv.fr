@@ -7,8 +7,9 @@ missions:
     end: 2022-12-31
     status: independent
     employer: Agence Zéro
+    startups:
+      - monstage
 startups:
   - monstage
 ---
-
 Communication, donjons et dragons.

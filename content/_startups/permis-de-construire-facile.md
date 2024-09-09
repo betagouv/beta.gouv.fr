@@ -17,12 +17,12 @@ phases:
     end: 2019-04-30
   - name: alumni
     start: 2019-04-30
-link:
-repository: 
 stats: false
-contact: jean-michel.coste@developpement-durable.gouv.fr 
+contact: jean-michel.coste@developpement-durable.gouv.fr
+usertypes:
+  - particulier
+  - entreprise
 ---
-
 ## Problème
 
 Déposer un permis de construire est une démarche importante dans le projet de vie d’un usager. Aujourd’hui, elle est souvent considérée comme un “parcours du combattant” semé d’incertitudes et d’interactions 100% papier avec le service qui l’instruit. 

@@ -1,18 +1,24 @@
 ---
-fullname: Andre  Gauthier
+fullname: André Gauthier
 domaine: Déploiement
-role: Chargé de déploiement
+role: Responsable déploiement
+github: gauthierandre
 avatar: https://avatars.githubusercontent.com/u/85872944?v=4
 missions:
   - start: 2021-06-10
-    end: 2022-06-30
+    end: 2024-12-31
     status: independent
-    employer: Scopyleft
+    employer: MALT
+    startups:
+      - a-just
 startups:
+  - a-just
+previously:
   - ma-cantine-egalim
 badges:
   - segur
 competences:
   - Communication
   - Croissance
+link: https://www.linkedin.com/in/andré-gauthier-446022213/
 ---

@@ -5,13 +5,16 @@ domaine: Développement
 github: vperron
 missions:
   - start: 2022-01-24
-    end: 2022-07-22
+    end: 2025-01-07
     status: independent
-    employer: Octo
+    employer: Malt
+    startups:
+      - data-inclusion
+      - les-emplois
+      - pilotage.de.linclusion
 startups:
-  - itou
-badges:
-  - segur
+  - les-emplois
+  - pilotage.de.linclusion
+  - data-inclusion
 ---
-
-Développeur joyeux :)
+Développeur Python/Django & frontend & data engineering & devops

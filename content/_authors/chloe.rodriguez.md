@@ -1,6 +1,6 @@
 ---
 fullname: Chloé Rodriguez
-role: Coach 
+role: Coach
 domaine: Coaching
 missions:
   - start: 2021-01-14
@@ -14,5 +14,4 @@ missions:
 startups:
   - mobinat
 ---
-
 Designer de services et coach d’intrapreneur·e·s :D

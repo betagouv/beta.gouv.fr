@@ -3,24 +3,32 @@
   Ex : {% include card-startup.html startup = startup %}
 {% endcomment %}
 
-<div class="fr-col-12 fr-col-md-3">
-  <div class="fr-card fr-enlarge-link">
+<div class="fr-card fr-enlarge-link">
     <div class="fr-card__body">
-      <h2 class="fr-card__title">
-        <a class="fr-card__link" href="{{ startup.url }}" >{{ startup.title | strip_html }}</a>
-      </h2>
-      {%- if startup.sponsors -%}
-      <p class="fr-card__detail" style="z-index: 10;position: relative;">
-      {%- for sponsorId in startup.sponsors -%}
-        {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
-        {% if forloop.index > 1 %} / {% endif %}<abbr title="{{sponsor.name}}">{{sponsor.acronym}}</abbr>
-      {%- endfor -%}
-      </p>
-      {%- endif -%}
-      <p class="fr-card__desc">{{ startup.mission | strip_html }}</p>
+        <h3 class="fr-card__title">
+            <a class="fr-card__link" href="{{ startup.url }}" >{{ startup.title | strip_html }}</a>
+        </h3>
+        {%- if startup.sponsors -%}
+            <p class="fr-card__detail">
+                {%- for sponsorId in startup.sponsors -%}
+                    {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
+                    {% if forloop.index > 1 %} / {% endif %}<abbr title="{{sponsor.name}}">{{sponsor.acronym}}</abbr>
+                {%- endfor -%}
+            </p>
+        {%- endif -%}
+        <p class="fr-card__desc">{{ startup.mission | strip_html }}</p>
     </div>
-    <div class="fr-card__img">
-      {% include screenshot.html startup=startup force=true %}
+    <div class="fr-card__header">
+        <div class="fr-card__img">
+            {% include screenshot.html startup=startup %}
+        </div>
+
+        {% if startup.events.last.name == "national_impact" %}
+        <div class="fr-badges-group">
+            <span class="fr-badge fr-badge--success">Service à impact national</span>
+        </div>
+        {% endif %}
     </div>
-  </div>
 </div>
+
+

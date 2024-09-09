@@ -1,17 +1,23 @@
 ---
 fullname: Sarah Hévin
-role: UX UI Designer
+role: UX Researcher
 domaine: Design
 github: sarahhevin
 missions:
   - start: 2021-07-01
-    end: 2022-03-31
+    end: 2024-09-30
     status: independent
-    employer: Benext 
+    employer: Benext
+    startups:
+      - l-application-du-cej
+  - start: 2024-03-25
+    end: 2024-06-25
+    status: independent
+    startups:
+      - envergo
 startups:
   - l-application-du-cej
 badges:
   - segur
 ---
-
-UX UI designer freelance & fan de chocolat
+UX Researcher freelance

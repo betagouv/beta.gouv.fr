@@ -7,9 +7,10 @@ missions:
     end: 2019-03-31
     status: independent
     employer: octo
+    startups:
+      - demarches-simplifiees.fr
 github: fredZen
 startups:
-    - demarches-simplifiees.fr
+  - demarches-simplifiees.fr
 ---
-
 Dev Rails sur demarches-simplifiees.fr

@@ -1,8 +1,8 @@
 ---
-title: Programme national d'investigation (36)
-mission: Gérer les équipements municipaux (culturels, sportifs, associatifs)
+title: Gérer les équipements municipaux (culturels, sportifs, associatifs)
+mission: Programme national d'investigation (36)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -10,18 +10,16 @@ phases:
   - name: alumni
     start: 2021-11-01
 link: https:&#x2F;&#x2F;kwenduparis.wixsite.com&#x2F;equipements-fronton-
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
+thematiques: []
+usertypes: []
+techno: []
 ---
-Gestion des équipements municipaux (sportifs, culturels, associatifs...)
+- [Miro des ateliers effectués](https://miro.com/app/board/o9J_lHxB98I=/)
+- [Protoype](https://kwenduparis.wixsite.com/equipements-fronton-)
 
-Lien du Miro des ateliers effectués : https://miro.com/app/board/o9J\_lHxB98I=/
-
-Lien du protoype : https://kwenduparis.wixsite.com/equipements-fronton-
-
-CONTEXTE :
+## Contexte
 
 Au cœur du vignoble AOP éponyme et à mi-chemin entre Toulouse et Montauban, [Fronton](https://youtu.be/Ou-1ahq-XLU) est très fière de sa **vitalité associative** et de la **richesse de ses équipements sportifs et culturels**. Ceci n’est pas le fruit du hasard. Comptant aujourd’hui plus de **6 150 habitants**, la commune a doublé de taille durant les trois dernières décennies. L’ancien village rural porteur de traditions agricoles et viticoles a ainsi laissé la place à une **petite ville à la campagne**, habitée majoritairement par des **familles jeunes avec enfants**. Afin d’encourager l’enracinement des nouveaux habitants et bâtir des liens sociaux durables, la collectivité a fait le choix de mener une **politique associative et culturelle volontariste**. Grâce à des investissements soutenus et constants, le [nombre et la palette des équipements sportifs et culturels](http://www.res.sports.gouv.fr/Rech_Equipement.aspx) municipaux sont parmi les plus importants du département. Chaque année, la collectivité soutient activement ses **plus de 50 associations** et encourage [**l’accès égal des familles au sport**](https://www.mairie-fronton.fr/le-passsport-frontonnais/) si bien que, avec presque [2000 licenciés sportifs](https://www.observatoire-des-territoires.gouv.fr/outils/cartographie-interactive/#bbox=56964,5474914,201109,126156&c=indicator&i=licsport.nb_licsport&s=2016&selcodgeo=31202&view=map36), soit un [taux de pratique sportive de 33,6%](https://www.observatoire-des-territoires.gouv.fr/outils/cartographie-interactive/#bbox=124520,5460344,56291,35311&c=indicator&i=licsport.p_licsport&s=2016&selcodgeo=31202&view=map36), **Fronton est une des villes les plus actives du département et de la région**.
 
@@ -37,8 +35,7 @@ Aussi, à l’issue de la crise sanitaire, la collectivité a-t-elle décidé de
 
 **Permettre un dialogue efficace** entre les usagers, les associations, les élus et le personnel municipal.          
 
-CONTEXTE DU PROBLÈME
-====================
+## Contexte du problème
 
 Si la collectivité a grandi et que la palette des équipements a suivi la même tendance, les services municipaux ont préservé leur **logique de proximité**, entendue comme **lien direct** entre usagers, associations, agents et élus. 
 
@@ -51,13 +48,11 @@ Ce **lien direct** est un atout et un ressort de l’identité de Fronton comme 
 *   Une **interaction efficace entre les services municipaux et les usagers** permettant à ces derniers de faire des demandes et de recevoir des réponses de manière rapide et efficace ;
 *   La **réactivité** des services municipaux aux demandes des usagers et le **suivi** des interventions.
 
-NOS HYPOTHÈSES DE DÉPART
-========================
+## Nos hypothèses de départ
 
-#### A l’origine du projet, le constat du **caractère excessivement chronophage de la gestion actuelle** des équipements municipaux par les agents des services municipaux et de **l’impossibilité d’assurer un suivi** **convenable** de l’accomplissement des tâches pour les élus et les responsables de services. 
+À l’origine du projet, le constat du **caractère excessivement chronophage de la gestion actuelle** des équipements municipaux par les agents des services municipaux et de **l’impossibilité d’assurer un suivi** **convenable** de l’accomplissement des tâches pour les élus et les responsables de services. 
 
-A l’origine du projet aussi, la conviction que l’amélioration de l’offre de services passe par un **traitement différencié de** 
-
+À l’origine du projet aussi, la conviction que l’amélioration de l’offre de services passe par un **traitement différencié de** 
 *   **L’INFORMATION** = large **diffusion** vers les usagers d’une **information complète et à jour** sur les équipements sportifs et culturels municipaux ;   
 *   **La COMMUNICATION** = **interactions** avec les usagers afin de répondre à des **demandes d’information ciblées** ;
 *   **L’INTERVENTION** = échanges avec les usagers concernant les **interventions des agents municipaux**, 
@@ -110,6 +105,6 @@ A l’origine du projet enfin, la conviction que le **numérique** peut largemen
 
 *   En quelle mesure la **gestion actuelle de nos équipements sur les trois volets** mettait ou non en valeur l’offre d’équipements et de services de la municipalité et suscitait ou non la **satisfaction** des différentes catégories d’usagers ;
 *   Quelles étaient les **difficultés**, les **besoins** et les **attentes** des différentes catégories des usagers **sur chacun des trois volets** ;
+- Quelles étaient les **pistes concrètes d’amélioration sur les trois volets** susceptibles de réunir l’adhésion des usagers.
 
-Quelles étaient les **pistes concrètes d’amélioration sur les trois volets** susceptibles de réunir l’adhésion des usagers.
-Collectivité sponsor : Fronton
+*Collectivité sponsor : Fronton*

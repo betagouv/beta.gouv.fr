@@ -1,27 +1,25 @@
 ---
 title: GAP 2.0 (Gestion Archives Papier)
-mission: Améliorer l'accompagnement de la gestion des archives papier 
+mission: Améliorer l'accompagnement de la gestion des archives papier
 sponsors:
   - /organisations/anct
-incubator: dinum 
-phases: 
+incubator: dinum
+phases:
   - name: investigation
-    start: 2020-10-13 # date au format ISO (AAAA-MM-DD)
-    end: 2021-03-01 # 
+    start: 2020-10-13
+    end: 2021-03-01
   - name: alumni
-    start: 2021-03-02
     comment: Malgré les travaux de la phase d'investigation ayant permis de démontrer un problème impactant, la startup n'a pas réussi à obtenir un portage administratif ou les financements nécessaires pour passer en phase de contruction.
-
-
-events: # les évènements marquants de la startup - les noms possibles sont définies dans /content/_events/
+    start: 2021-03-02
+usertypes:
+  - etat
+events:
   - name: committee
-    date: 2021-01-28 # date au format ISO (AAAA-MM-DD)
-    comment: Comité de restitution de l'investigation #
-stats: false # mettre à true pour renvoyer vers ta page de stats. Attention, elle doit se trouver sur [url du site]/stats !
-stats_url: # optionnel, si stats est à true, alors tu peux indiquer vers quelle URL pointer vers tes stats.
-contact: contact@gap.beta.gouv.fr # 
+    date: 2021-01-28
+    comment: Comité de restitution de l'investigation
+stats: false
+contact: contact@gap.beta.gouv.fr
 ---
-
 ## Fiche produit
 
 ## Quel est le problème que vous avez identifié ?

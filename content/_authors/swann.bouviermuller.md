@@ -5,9 +5,12 @@ domaine: Développement
 github: swannbm
 missions:
   - start: 2021-07-06
-    end: 2022-03-31
+    end: 2024-06-30
     status: independent
-    employer: Arolla
+    employer: LBC
+    startups:
+      - mon-diagnostic-artificialisation
+startups:
+  - mon-diagnostic-artificialisation
 ---
-
-Développeur Django
+Développeur Django sénior

@@ -1,8 +1,8 @@
 ---
 title: ProConnect
 mission: Simplifier la gestion de l'identité numérique des entreprises sur les portails publics
-sponsors: 
-    - /organisations/mefr
+sponsors:
+  - /organisations/mefr
 incubator: bercy
 phases:
   - name: investigation
@@ -10,12 +10,13 @@ phases:
     end: 2020-09-15
   - name: alumni
     start: 2020-09-15
-link:
-repository: 
 stats: false
-stats_url: 
 contact: contact@beta.gouv.fr
+usertypes:
+  - entreprise
+  - etat
 ---
+*Le projet ProConnect est poursuivi en dehors de beta.gouv.fr et est aujourd’hui en production. Il est en cours de déploiement sur les portails de services publics.*
 
 ## Problème investigué
 
@@ -65,3 +66,5 @@ L'investigation est interrompue en septembre 2020 car elle apparaît moins prior
 2 notes de synthèses ont été produites :
 - [Synthèses des apprentissages de l'investigation](/content/docs/syntheses_investigations/ProConnect-BilanInvestigation-VF.pdf)
 - [Note expliquant l'interruption de l'investigation](/content/docs/syntheses_investigations/Note_interruption_investigation_proconnect.pdf)
+
+**Le projet ProConnect est poursuivi en dehors de beta.gouv.fr et est aujourd’hui en production. Il est en cours de déploiement sur les portails de services publics.**

@@ -17,13 +17,14 @@ missions:
     status: independent
     employer: octo+cadresenmission
   - start: 2021-12-14
-    end: 2022-06-30
+    end: 2025-02-28
     status: independent
-    employer: littlebigconnection
+    employer: littlebigconnection+cadresenmission
 startups:
-  - signaux-faibles
-  - recosante
+  - romin
 previously:
   - signalement
   - perspectives
+  - signaux-faibles
+  - recosante
 ---

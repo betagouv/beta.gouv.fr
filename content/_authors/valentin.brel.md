@@ -1,15 +1,13 @@
 ---
 fullname: Valentin Brel
-role: Chargé de déploiement
+role: Co-animateur de beta.gouv.fr
 domaine: Déploiement
 link: https://www.linkedin.com/in/valentin-brel-8b400888/
 missions:
   - start: 2021-01-25
-    end: 2022-08-31
+    end: 2023-06-30
     status: independent
     employer: Octo
-startups:
-  - sante-psy-etudiant
 previously:
   - jeveuxaider
   - api-engagement
@@ -17,4 +15,3 @@ badges:
   - segur
 github: valentinbrel
 ---
-

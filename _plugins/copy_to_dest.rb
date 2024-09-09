@@ -1,6 +1,6 @@
 require "fileutils"
 
-Jekyll::Hooks.register :site, :post_write do |site|
+Jekyll::Hooks.register :site, :after_init do |site|
   site.config["copy_to_dest"].each { |copy|
     Jekyll.logger.info "Copying:", "#{copy["source"]} to #{copy["target"]}"
     src = "#{site.source}/#{copy["source"]}"

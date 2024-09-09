@@ -5,11 +5,13 @@ role: Chargée de partenariats
 github: ClaireCasu
 missions:
   - start: 2021-01-15
-    end: 2022-06-01
+    end: 2024-12-31
     status: independent
     employer: Octo
+    startups:
+      - rdv.insertion
 startups:
-  - data.insertion
+  - rdv.insertion
 badges:
   - segur
 competences:

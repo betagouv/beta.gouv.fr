@@ -4,11 +4,14 @@ role: Développeur
 domaine: Développement
 github: soulso
 missions:
-  - start: 2019-09-24
-    end: 2020-06-30
+  - start: 2023-12-11
+    end: 2024-12-31
     status: independent
+    startups:
+      - tdb-apprentissage
 startups:
-    - codedutravail
+  - tdb-apprentissage
 previously:
-    - gps-usagers
+  - gps-usagers
+  - codedutravail
 ---

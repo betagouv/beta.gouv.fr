@@ -1,21 +1,21 @@
 ---
-title: Programme national d'investigation (9)
-mission: Réduction des encombrants en habitat social collectif à haute densité
+title: Réduction des encombrants en habitat social collectif à haute densité
+mission: Programme national d'investigation (9)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2021-06-01
   - name: alumni
     start: 2021-11-01
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
+thematiques: []
+usertypes: []
+techno: []
 ---
-### **Contexte**
+## **Contexte**
 
 L’investigation a commencé sur une thématique plus que sur un problème : les déchets en résidence d’habitat collectif et social à forte densité. Il était donc question à la fois du bac jaune (tri des emballages), du bac vert (ordures ménagères), des encombrants, des végétaux et des VHU (véhicules hors d’usages = les épaves abondonnées).
 
@@ -31,7 +31,7 @@ Des entretiens avec des experts ((DECV et Politique de la Ville, bailleurs) ont 
 *   **Les encombrants :** un non respect du calendrier, des tas pouvant rester longtemps, affectant l’image du quartier et amenant d’autres déchets, de plus en plus mélangés... 
 *   **Les VHU :** aussitôt retirés par le bailleur, de nouveaux VHU apparaissent
 
-### La problématique retenue :
+## La problématique retenue
 
 **Comment réduire le nombre d’objets déposés en tant qu’encombrants en habitat collectif prioritaire, en impliquant les habitants dans la co-construction des solutions ?**
 
@@ -56,7 +56,7 @@ La CASUD et les bailleurs réalisent déjà des ramassages supplémentaires.  
 
 *   **Sanitaires** : nids à bêtes et insectes, lieux propices à la prolifération de larves/dengue
 
-### **Les principales causes du problème ?**
+## **Les principales causes du problème ?**
 
 La présence des encombrants est soumise à des pics difficiles à anticiper, alors que la collecte a lieu une fois par mois :
 
@@ -72,12 +72,12 @@ Les habitants ne sont pas impliqués dans les actions/activités qui se déroule
 
 De façon plus globale, le terrain fait remonter un manque d’éducation sur la gestion des déchets et la propreté dans son ensemble et des incivilités (respect de notions basiques pour certains, non acquises par d’autres).
 
-### **Problème actionnable :**
+## **Problème actionnable :**
 
 Le périmètre géographique très ciblé (résidence de Bellevue) permet de tester rapidement des solutions, grâce aux partenariats entre la CASUD, les médiateurs et les associations présentes dans le quartier.  
 Le fait de se concentrer sur les encombrants rend le projet actionnable. En effet, les problèmes d’éducation et de multi-culturalité sont plus ambitieuses et non actionnables dans le cadre du PNI.
 
-### **Hypothèses à tester** 
+## **Hypothèses à tester** 
 
 Certaines hypothèses terrains à vérifier : 
 
@@ -94,10 +94,9 @@ D’autres intermédiaires sont à trouver pour diversifier les profils interrog
 
 Importance d’impliquer les habitants dans la solution pour qu’elle fonctionne (ateliers de brainstorming puis de co-conception).
 
-### **Impact recherché**
+## **Impact recherché**
 
 L’objectif est de :
-
 *   réduire le nombre d’objets déposés en tant qu’encombrants en habitat collectif prioritaire, en impliquant les habitants dans la co-construction des solutions (sensibilisation, ateliers de recyclage…)
 *   réduire le temps d’attente des encombrants devant la résidence (= faire respecter davantage le calendrier de collecte, revoir le principe de jours fixes de collecte, proposer un numéro d’appel pour de gros dépôts urgents...)
-Collectivité sponsor : 
+

@@ -2,16 +2,23 @@
 fullname: Jérôme Lenez
 domaine: Produit
 role: Product Manager
-github: jrmlnz
+github: jlenez
 missions:
   - start: 2021-08-02
-    end: 2024-07-31
-    status: admin
+    end: 2025-08-30
+    status: independent
     employer: DIRISI
+    startups:
+      - athena
+      - reva
 startups:
-  - cassiopee
-  - civils-de-la-defense
+  - athena
+  - reva
 competences:
   - Gestion de Produit
+previously:
+  - cassiopee
+  - civils-de-la-defense
+link: https://www.linkedin.com/in/jeromelenez/
 ---
 Product Manager

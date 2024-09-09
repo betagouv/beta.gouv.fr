@@ -9,20 +9,25 @@ missions:
     end: 2019-08-31
     status: independent
     employer: Codeurs en Liberté
-  - status: independent
-    employer: Octo
-    start: 2019-10-01
+  - start: 2019-10-01
     end: 2022-01-07
+    status: independent
+    employer: Octo
   - start: 2021-11-03
-    end: 2022-03-31
+    end: 2024-06-30
     status: independent
     employer: LittleBigConnection
+  - start: 2024-06-15
+    end: 2024-09-15
+    status: independent
+    employer: Malt
+    startups:
+      - data.gouv.fr
 startups:
-  - classe-a-12
-  - wikicarbone
+  - ecobalyse
 previously:
-  - saisissez au vol
-  - egapro
+  - auvol
+  - egalite.professionnelle
 competences:
   - Développement Frontend
   - Développement Backend

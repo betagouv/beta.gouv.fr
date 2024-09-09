@@ -14,6 +14,11 @@ phases:
     start: 2018-11-20
   - name: acceleration
     start: 2021-04-13
+  - name: alumni
+    start: 2023-10-17
+usertypes:
+  - particulier
+  - etat
 ---
 ## Contexte et problématique
 

@@ -5,12 +5,18 @@ domaine: Design
 link: https://poulpux.com
 missions:
   - start: 2021-08-02
-    end: 2021-10-30
+    end: 2024-12-31
     status: independent
-    employer: Octo
+    employer: Scopyleft
+    startups:
+      - histologe
+      - stop-punaises
 startups:
   - histologe
+  - stop-punaises
+competences:
+  - UX
+  - Product design
+  - Product strategy
 ---
-
-UX Designer & cheffe de produit
-J'aime les jeux de mots et le vert menthe !
+UX Designer & cheffe de produit J'aime les jeux de mots et le vert menthe !

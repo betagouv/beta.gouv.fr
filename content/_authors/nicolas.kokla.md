@@ -6,10 +6,21 @@ github: nkokla
 link: https://kokla.com
 missions:
   - start: 2021-10-01
-    end: 2022-12-31
+    end: 2022-10-31
     status: independent
-    employer: Octo
+    employer: Octo - Benext - Malt
+    startups:
+      - chauffage-urbain
+  - start: 2022-10-01
+    end: 2025-03-31
+    status: independent
+    employer: PathTech
+    startups:
+      - ban
+      - bases.adresses.locales
 startups:
+  - ban
+previously:
   - chauffage-urbain
 competences:
   - Développement Frontend

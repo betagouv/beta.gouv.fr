@@ -1,14 +1,17 @@
 ---
 fullname: Giulietta  Bressy
-domaine: Déploiement
-role: Charge de l'assistance aux utilisateurs, du pilotage de la modération et
-  de l'animation du réseau de référents départementaux
+domaine: Produit
+role: Coach
 missions:
   - start: 2021-01-25
-    end: 2022-12-30
+    end: 2023-02-28
     status: independent
     employer: Octo
-startups:
+  - start: 2023-05-01
+    end: 2023-10-01
+    status: independent
+    employer: numa
+previously:
   - jeveuxaider
   - api-engagement
 competences:

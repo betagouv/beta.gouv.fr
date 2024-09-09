@@ -2,14 +2,16 @@
 fullname: Rémy Auricoste
 role: Développeur
 domaine: Développement
-avatar: https://www.gravatar.com/avatar/f4f4a333469c8b98c154057577be040a?s=512
 missions:
   - start: 2017-04-01
-    end: 2017-12-31
+    end: 2024-09-01
     status: independent
     employer: octo
+    startups:
+      - la-bonne-alternance
 startups:
-    - maintenant
+  - la-bonne-alternance
+previously:
+  - maintenant
 ---
-
 Développeur full-stack et touche-à-tout

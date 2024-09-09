@@ -3,7 +3,7 @@ layout: default
 ---
 
 {%- assign currents = site.authors | community: 'current', 'oldest' -%}
-{%- assign alumnis = site.authors | community: 'past', 'oldest' -%} 
+{%- assign alumnis = site.authors | community: 'past', 'oldest' -%}
 {% assign lang = page.lang | default: site.lang | default: "en" %}
 {% assign incubators = site.incubators %}
 <script>
@@ -66,9 +66,9 @@ layout: default
     ];
     var incubators = [
         {% for incubator in incubators %} {
-        id: "{{incubator.id}}".replace('/incubators/', ''),
+        id: "{{incubator.id}}".replace('/incubateurs/', ''),
         title: "{{incubator.title}}",
-        url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
+        url: "/startups/?incubateur={{ incubator.id | remove: '/incubateurs/' }}"
         },
         {% endfor %}
     ];
@@ -95,7 +95,7 @@ layout: default
             {% else %}
             {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
             {% endif %}
-            {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
+            {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
             {% assign incubator = incubators | where:'id', incubator_id | first %}
             { "id"        : "{{ startup.id | remove: '/startups/' }}"
             , "type"      : "startup"
@@ -131,46 +131,47 @@ layout: default
     var staticFiles = [{% for static_file in screenshot_files %}
         "{{ static_file.path }}",
     {% endfor %}];
-</script> 
+</script>
 {%- include hero-page.html title=page.title -%}
 
+<div class="filters sticky incubator-header fr-mb-2w fr-p-2w">
+    <div class="fr-input-group">
+        <label class="fr-label" for="select-incubateur">Filtrer par incubateur</label>
+        <select class="fr-select" id="select-incubateur">
+            <option value="">Tous les incubateurs</option>
+        </select>
+    </div>
+</div>
+
 <div class="fr-container">
-    <section class="filters sticky incubator-header fr-mb-2w">
-        <div class="fr-container">
-            <select class="fr-select" id="select-incubateur">
-                <option value="">Tous les incubateurs</option> 
-            </select>
-        </div>
-    </section>
     <div class="fr-tabs">
         <ul class="fr-tabs__list" role="tablist" aria-label="Changer de vue">
             <li role="presentation">
-                <button id="tabpanel-currents" class="fr-tabs__tab" tabindex="0" role="tab" aria-selected="true" aria-controls="tabpanel-actifs">Membres actifs</button>
+                <button id="tabpanel-actifs-button" class="fr-tabs__tab" tabindex="0" role="tab" aria-selected="true" aria-controls="tabpanel-actifs">Membres actifs</button>
             </li>
             <li role="presentation">
-                <button id="tabpanel-alumnis" class="fr-tabs__tab" tabindex="-1" role="tab" aria-selected="false" aria-controls="tabpanel-alumnis">Alumnis</button>
+                <button id="tabpanel-alumnis-button" class="fr-tabs__tab" tabindex="-1" role="tab" aria-selected="false" aria-controls="tabpanel-alumnis">Alumni</button>
             </li>
         </ul>
-        <div id="tabpanel-actifs" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-currents" tabindex="0">
+        <div id="tabpanel-actifs" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-actifs-button" tabindex="0">
             <h2><span id="currents-count">{{ currents | size }}</span> membres actifs</h2>
             <div class="authors fr-grid-row fr-grid-row--gutters">
                 {%- for author in currents -%}
-                <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+                <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">{%- include card-community.html author=author -%}</div>
                 {%- endfor -%}
             </div>
         </div>
-        <div id="tabpanel-alumnis" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-currents" tabindex="-1">
-            <h2><span id="alumnis-count">{{ alumnis | size }}</span> alumnis</h2>
+        <div id="tabpanel-alumnis" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-alumnis-button" tabindex="-1">
+            <h2><span id="alumnis-count">{{ alumnis | size }}</span> alumni</h2>
             <div class="alumnis fr-grid-row fr-grid-row--gutters">
                 {%- for author in alumnis -%}
-                <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+                <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">{%- include card-community.html author=author -%}</div>
                 {%- endfor -%}
             </div>
         </div>
     </div>
 </div>
 <!-- Filtres -->
-<!-- Script pointing to search-script.js -->
 <script src="/assets/additional/js/search-member.js" type="text/javascript"></script>
 <!-- Configuration -->
 <script>

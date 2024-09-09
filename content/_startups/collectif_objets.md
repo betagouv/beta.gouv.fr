@@ -1,98 +1,58 @@
 ---
 title: Collectif Objets
-mission: Améliorer les données des objets monuments historiques pour les valoriser au mieux
+mission: Recenser les objets monuments historiques pour mieux les protéger
 sponsors:
- - /organisations/mc
+  - /organisations/mc
 incubator: culture
+link: https://collectif-objets.beta.gouv.fr/
+repository: https://github.com/betagouv/collectif-objets
+contact: collectifobjets@beta.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - particulier
+stats_url: https://collectif-objets.beta.gouv.fr/stats
+stats: true
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#-Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
 phases:
   - name: construction
     start: 2020-04-01
-link: https://collectif-objets.beta.gouv.fr/
-repository:
-stats: true
-stats_url: https://airtable.com/appVqsHQLPeOvbg9F/pagq4RELXtYqbHCBi
-contact: collectifobjets@beta.gouv.fr
+    end: 2022-09-28
+  - name: acceleration
+    start: 2022-09-28
+thematiques:
+  - Patrimoine
+accessibility_status: non conforme
+techno: []
 ---
+## Recenser les objets qui font notre patrimoine pour le protéger
 
+Des tapisseries de la cathédrale de Langres aux statues de Vierge à l’Enfant dans nos églises de campagne, plus de 280 000 objets protégés au titre des monuments historiques sont disséminés à travers la France. Environ trois communes sur quatre abritent des objets protégés au titre des monuments historiques (inscrits ou classés).
 
-> _“Le récolement, c’est la base de notre travail en ce qui concerne les objets (...) Ce n’est pas une fin en soi, mais c’est ce qui nous permet d’engager le dialogue avec un propriétaire, d’identifier des objets à protéger, de proposer des projets de sécurisation, d’entretien, de restauration…”_. 
+L'État se doit de les récoler - c'est-à-dire en vérifier la présence et en contrôler l'état de conservation - tous les 5 ans afin d’en assurer la pérennité, comme l'indique le code du patrimoine.
 
-Conservateur des monuments historiques
+Malheureusement, par manque de temps et de moyens, moins de 5% des objets à récoler chaque année le sont effectivement. Cette absence de suivi génère une lente déperdition de ce patrimoine : les objets sont menacés par l’oubli, dérobés…
 
-# Derrière Collectif Objets, le constat d'un patrimoine en déperdition
+> “*Le récolement, c’est la base de notre travail en ce qui concerne les objets \[…]. Ce n’est pas une fin en soi, mais c’est ce qui nous permet d’engager le dialogue avec un propriétaire, d’identifier des objets à protéger, de proposer des projets de sécurisation, d’entretien, de restauration…*” Romuald Goudeseune, Conservateur des monuments historiques
 
+Un rapport d'information sénatorial de juillet 2022 (n°765) préconise justement la mise en place d'actions pour mettre un terme à la dégradation du patrimoine mobilier religieux français - qui constitue la grande majorité du patrimoine mobilier protégé - notamment : « Lancer une opération nationale d’inventaire du patrimoine religieux permettant de disposer d’une cartographie précise de ce patrimoine sur l’ensemble du territoire à l’horizon 2030 » ou encore « Doter les conservateurs des antiquités et objets d’art d’une base de données (...) permettant une documentation, y compris visuelle, de l’ensemble du patrimoine mobilier protégé ». 
 
-Les **260000 objets monuments historiques** constituent le patrimoine mobilier national dispersé chez un grand nombre de propriétaires (une commune sur deux soit 15000 propriétaires environ).
+## **Faciliter le dialogue entre les communes propriétaires et les conservateurs**
 
-Vous voulez nous aider à améliorer les informations des objets monuments historiques ?
-[Nous contacter](mailto:ateliernumerique@culture.gouv.fr)
-Tous les 5 ans, l'Etat se fixe l'**objectif de les récoler pour en assurer la pérennité et la transmission aux générations futures**.
+Collectif Objets répond à ce défi en donnant aux communes les moyens de s’investir dans la protection de leur patrimoine en :
 
-250 conservatrices et conservateurs sont mobilisés dans cette tâche (CAOA et CMH).
+* **Leur permettant de (re)découvrir leurs objets monuments historiques** - bien souvent, les communes ne savent pas qu’elles abritent des objets protégés et qu'elles en sont responsables !
+* **Les mettant en relation avec les conservatrices et conservateurs** de leur département pour qu’elles identifient leur interlocuteur sur ces questions et soient accompagnées dans leurs démarches de préservation et de valorisation du patrimoine.
 
-Compte tenu de la dispersion des propriétaires, **seulement 15% des 52000 à récoler chaque année le sont effectivement**. L’absence de récolement régulier génère une **lente déperdition de ce patrimoine** (état sanitaire dégradé, vols, restaurations sans autorisation...)
+Concrètement, les communes sont invitées à recenser leurs objets protégés sur la plateforme numérique Collectif Objets. C’est-à-dire vérifier leur présence, constater leur état (à l’aide d’un questionnaire) et les photographier.
 
-> - Des vols et des disparitions d’objets (40 signalement en 2019)
-> - Des destructions malencontreuses et des restaurations peu scrupuleuses
-> - Une allocation des budgets de restauration qui n’est pas basée sur l’état sanitaire global. 
+Partant de ces informations, les conservateurs peuvent alors prendre contact avec les communes pour les guider dans la protection et la mise en valeur de leur patrimoine si nécessaire.
 
+**En assurant la collecte régulière et centralisée des données, Collectif Objets permet aux conservateurs d’avoir une vision globale du parc mobilier et de prioriser leurs actions.**
 
-# Un travail fastidieux : des connaissances terrain éparses, des effectifs restreints et un manque d'outils et de données
+## **Déjà plus de 21 000 objets recensés dans plus de 2 600 communes !**
 
+Depuis le lancement de Collectif Objets fin 2021, 28 départements ont déjà participé à nos campagnes de recensement - avec des taux de réponses parfois supérieurs à 50% - démontrant un fort engouement des communes !
 
-**75 jours** : c’est le temps théorique qui serait nécessaire pour atteindre les objectifs de 50 récolements par an dans le département, soit 85% du temps disponible d’un CAOA (toutes missions confondues : protection, sécurisation, restauration, valorisation...)
+En 2023, **Collectif Objets entame son déploiement national** avec l’objectif de récoler les 280 000 objets protégés d’ici à 2027 ([lien vers notre page statistiques](https://collectif-objets.beta.gouv.fr/stats)).
 
-Lors des entretiens menés pendant la phase d'investigation, les compétences métiers sur le terrain (CMH et CAOA) ont permis de préciser les points d'alerte : 
->
-### 1. Un manque de connaissances issues du terrain
-> _« En fait, je n’ai pas d’idée du nombre de communes récolées. On ne s’est pas fixé le nombre de communes à récoler chaque année. »_
->
-### 2. Un manque d’outils et de données pour piloter l’activité
-
-> _« Pour guider notre action, nos projets de restauration, on a pas d’outil. On pourrait susciter d’autres projets si on avait le temps de récoler d’autres sites. »_
-### 3. Le statut particulier des CAOA et le manque de ressources humaines
-
-> _« Je dois me débrouiller pour récoler des objets sur mon temps libre, le weekend… »_. 
-
-# Un dispositif participatif numérique dédié à l'aide au récolement
-
-En mettant à profit les technologies nocode aujourd'hui à notre disposition, Collectif Objets entend **faciliter ce processus de récolement** sur plusieurs points :
-
-> - **établir un contact permanent** avec les propriétaires et développer leur conscience patrimoniale
-> - les **inciter à participer à un recensement participatif périodique** (annuel) ;
-> - **fournir aux conservateurs·rices des outils d'aide à la décision** (priorisation des récolements et des visites urgentes, ...)
-
-Concrètement, le dispositif est pensé comme un dyptique composé :
-
-### 1. D'une interface propriétaire (mairies, paroisses)
-
-> - Un accès direct à la liste de mes objets protégés
-> - Des ressources pédagogiques pour m’accompagner dans le recueil de données
-> - Un lien continu avec les conservateurs
-
-### 2. D'une interface conservateur
-> - Une centralisation des données collectées auprès des propriétaires
-> - Des alertes sur les situations d’urgences (disparition d’objets, états sanitaires préoccupants...
-> - Des outils de visualisation et d’analyse pour faciliter la prise d’actions
-
-![interface questions](https://user-images.githubusercontent.com/81323006/116864925-f2505980-ac08-11eb-92ca-25b2ebcb7a37.png). 
-
-# Lancement d'une phase de test sur une panel de 50 propriétaires en Haute-Marne !
-
-
-## Objectifs
-
-À partir d’avril 2021, la phase de construction a un **double objectif** :
-
-1. Tester la méthode sur un panel de 50 propriétaires avec un **objectif minimum de 60% de répondants** et **90% de leurs objets récolés** sur un territoire test en Haute-Marne
-2. Engager un **panel de conservateurs dans la co-construction** d’outils d’aide à la prise de décisions basés sur les données collectées auprès des propriétaires.
-
-## Moyens
-
-Des outils no-code, de l'huile de coude, et d'un contact rapproché avec les concernés !   
-  
-D'ailleurs, nous prévoyons ensuite d'élargir la phase de test à 10 départements, n'hésitez pas à nous contacter pour faire partie de la suite de l'aventure, soumettre des suggestions ou juste pour être tenus au courant de la suite du projet.
-
-[Nous contacter](mailto:collectifobjets@beta.gouv.fr)
-
-![illustration](https://user-images.githubusercontent.com/36261410/146224683-5f611295-837f-4ac0-9faf-b69a2a7fed38.jpg).
+> → Si vous êtes êtes intéressé.e par notre démarche et souhaitez y prendre part, vous pouvez nous écrire à : [collectifobjets@beta.gouv.fr](mailto:collectifobjets@beta.gouv.fr)

@@ -2,24 +2,22 @@
 title: Reuni
 mission: Permettre aux agents publics d'accéder simplement aux documents qu'ils recherchent
 sponsors:
-    - /organisations/dge
+  - /organisations/dge
 incubator: dinum
 events:
   - name: end
     date: 2019-12-01
 phases:
   - name: investigation
-    start: 2018-12-01 
+    start: 2018-12-01
     end: 2019-03-01
   - name: alumni
     start: 2019-03-01
-link: 
-repository: 
-stats: false 
-stats_url: 
+usertypes:
+  - etat
+stats: false
 contact: gaelle.rousseau@finances.gouv.fr
 ---
-
 ## Le problème
 
 La DGE utilise un fonds documentaire de plus d’un million de documents constitué de notes, d’études, d’email et de pièces jointes… Ces données sont stockées sur une multitude de répertoires partagés accessibles à une partie seulement des agents. Résultat : les agents n’ont pas accès à l’ensemble de l’information pertinente, créent des contenus redondants ou passent des heures à trouver les bons documents.

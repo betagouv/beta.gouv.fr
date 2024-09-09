@@ -5,14 +5,30 @@ domaine: Développement
 link: https://www.linkedin.com/in/sandra-chakroun
 github: sandcha
 missions:
-  - employer: octo
-    end: 2022-06-01
-    start: 2017-05-10
+  - start: 2017-05-10
+    end: 2024-06-03
     status: independent
+    employer: octo
+    startups:
+      - reformes-locales
+  - start: 2024-04-29
+    end: 2024-08-31
+    status: independent
+    employer: Ippon Technologies
+    startups:
+      - openfisca
+  - start: 2024-06-09
+    end: 2025-06-30
+    status: independent
+    employer: Malt
+    startups:
+      - droit-data-gouv-fr-simulateurs-de-droits
 startups:
   - openfisca
   - leximpact
-  - camino
+  - reformes-locales
+previously:
   - aides.jeunes
+  - camino
   - dotations-locales
 ---

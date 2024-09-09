@@ -3,8 +3,8 @@ title: A Dock
 mission: Simplifier l'accès aux données et démarches administratives du transport routier de marchandises
 incubator: mtes
 sponsors:
-  - /organisations/mtes
   - /organisations/dgitm
+  - /organisations/mtes
 link: https://adock.beta.gouv.fr
 repository: https://github.com/MTES-MCT/adock-api
 contact: contact@adock.beta.gouv.fr
@@ -20,8 +20,9 @@ phases:
     start: 2019-01-23
   - name: alumni
     start: 2021-01-01
+usertypes:
+  - entreprise
 ---
-
 ## Le constat initial : le transport routier de marchandises, un secteur exposé à des risques de déréglementation
 
 Le transport routier de marchandises en France (TRM) - 40 000 entreprises, 400 000 salariés -  est historiquement et structurellement exposé à des risques de déréglementation. En effet, il est : 

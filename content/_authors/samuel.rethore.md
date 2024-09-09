@@ -7,8 +7,9 @@ missions:
     end: 2024-01-01
     status: admin
     employer: Fabrique numérique MINARM
+    startups:
+      - stargate
 startups:
   - stargate
 ---
-
-Bon vivant et amateur d'expériences culinaires 
+Bon vivant et amateur d'expériences culinaires

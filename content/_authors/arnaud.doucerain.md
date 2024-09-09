@@ -7,9 +7,7 @@ missions:
     end: 2017-10-31
     status: service
     employer: octo
-startups:
 previously:
-  - place-des-entreprises
+  - conseillers-entreprises
 ---
-
 Simplifier, gamifier, donner du feedback, être bienveillant !

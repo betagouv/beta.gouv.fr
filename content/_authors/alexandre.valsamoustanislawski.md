@@ -8,11 +8,11 @@ missions:
   - start: 2021-07-05
     end: 2022-01-10
     status: independent
+    startups:
+      - mon-entreprise
 badges:
   - segur
 startups:
-    - mon-entreprise
+  - mon-entreprise
 ---
-
-Développeur / UX lover / creative coder
-J'apprends tout le temps :D
+Développeur / UX lover / creative coder J'apprends tout le temps :D

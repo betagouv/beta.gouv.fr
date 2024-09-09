@@ -5,12 +5,14 @@ github: '21072021'
 domaine: Déploiement
 missions:
   - start: 2021-09-01
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: Octo
+    startups:
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 badges:
   - segur
+competences: []
 ---
-

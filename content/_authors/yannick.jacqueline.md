@@ -5,11 +5,15 @@ role: Développeur
 github: yannickjacqueline
 missions:
   - start: 2021-04-12
-    end: 2022-03-31
+    end: 2022-08-12
     status: service
     employer: DINUM
+    startups:
+      - 1000.jours
+      - 1000.premiers.jours.blues
 startups:
   - 1000.jours
+  - 1000.premiers.jours.blues
 competences:
   - Développement Frontend
   - Développement Backend

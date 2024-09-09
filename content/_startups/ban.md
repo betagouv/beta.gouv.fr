@@ -1,9 +1,25 @@
 ---
 title: Base Adresse Nationale
 mission: Référencer l'intégralité des adresses du territoire français
-incubator: fab-geocommuns
 sponsors:
- - /organisations/ign
+  - /organisations/anct
+  - /organisations/dinum
+  - /organisations/ign
+incubator: fab-geocommuns
+link: https://adresse.data.gouv.fr
+repository: https://github.com/BaseAdresseNationale
+contact: adresse@data.gouv.fr
+accessibility_status: non conforme
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+  - etat
+stats_url: https://adresse.data.gouv.fr/stats
+dashlord_url: https://dashlord.incubateur.net/url/adresse-data-gouv-fr/
+stats: true
+events:
+  - name: national_impact
+    date: 2022-12-31
 phases:
   - name: investigation
     start: 2014-06-01
@@ -13,13 +29,9 @@ phases:
     start: 2018-01-01
   - name: transfer
     start: 2021-05-05
-link: https://adresse.data.gouv.fr
-repository: https://github.com/BaseAdresseNationale
-stats: true
-stats_url: https://api.gouv.fr/api/base-adresse-nationale.html
-contact: adresse@data.gouv.fr
+  - name: success
+    start: 2023-06-30
 ---
-
 La Base Adresse Nationale est une des neuf bases de données du service public des données de référence et a pour vocation de référencer l'ensemble des adresses du territoire national. Service numérique d’usage partagé et infrastructure socle sur laquelle sont adossées de nombreuses politiques publiques, elle fait partie du système d’information et de communication de l’État.
 
 Elle est le fruit de la collaboration de :

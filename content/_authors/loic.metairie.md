@@ -10,5 +10,4 @@ missions:
 badges:
   - segur
 ---
-
 Point de contact Little Big Connection

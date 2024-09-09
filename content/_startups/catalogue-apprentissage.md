@@ -1,23 +1,31 @@
 ---
 title: Catalogue des formations en apprentissage
-mission: "Renforcer la collecte et la  visibilité des formations en apprentissage"
+mission: Renforcer la collecte et la  visibilité des formations en apprentissage
 sponsors:
   - /organisations/menjs
-  - /organisations/mtei
   - /organisations/mesr
+  - /organisations/mtei
   - /organisations/mtfp
-  - /organisations/dinum
-  - /organisations/dgefp
 incubator: mission-apprentissage
 link: https://catalogue.apprentissage.beta.gouv.fr/
 repository: https://github.com/mission-apprentissage/catalogue-apprentissage
-contact: mailto:catalogue@apprentissage.beta.gouv.fr
+contact: catalogue@apprentissage.beta.gouv.fr
 stats_url: https://catalogue.apprentissage.beta.gouv.fr/stats
 stats: true
 phases:
-  - name: acceleration
+  - name: transfer
     start: 2020-07-01
     end: 2021-03-31
+  - name: success
+    start: 2022-07-01
+usertypes:
+  - etablissement-scolaire
+  - etat
+  - particulier
+dashlord_url: https://dashlord.incubateur.net/url/catalogue-apprentissage-beta-gouv-fr/
+accessibility_status: non conforme
+thematiques: []
+techno: []
 ---
 Créé pour organiser la collecte des formations en apprentissage, le catalogue des formations en apprentissage permet de rendre plus visibles les offres auprès des jeunes et des employeurs.
 
@@ -29,7 +37,7 @@ Chaque partie-prenante (région, OPCO, site d’orientation des jeunes) peut int
 
 ## La solution
 
-Un catalogue des offres de formation en apprentissage a été créé, pour être un outil unique de recensement de l’ensemble des formations proposées. Il est accessible à tous et peut être utilisé par les acteurs de l’orientation et de l’insertion des jeunes, ainsi que consommé par les plateformes et portails qui exposent des informations relatives à l’apprentissage. Il permet d’assurer une pleine visibilité des offres de formation en apprentissage pour : 
+Un catalogue des offres de formation en apprentissage a été créé, pour être un outil unique de recensement de l’ensemble des formations proposées. Il est accessible à tous et peut être utilisé par les acteurs de l’orientation et de l’insertion des jeunes, ainsi que consommé par les plateformes et portails qui exposent des informations relatives à l’apprentissage. Il permet d’assurer une pleine visibilité des offres de formation en apprentissage pour :
 1. Mieux informer les jeunes et les employeurs intéressés par cette voie de formation et notamment les utilisateurs des outils d’affectation du ministère de l’Enseignement supérieur et de la Recherche (Parcoursup) et de l’Éducation nationale (Affelnet) ;
 2. Saisir le dynamisme des CFA dans le nouveau cadre posé par la loi pour la liberté de choisir son avenir professionnel, qui favorise l'actualisation continue de l'offre de formation ;
 3. Améliorer la qualité de la description des formations et des établissements et assurer la fiabilité des informations ;

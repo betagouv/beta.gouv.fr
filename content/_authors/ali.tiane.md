@@ -1,15 +1,25 @@
 ---
 fullname: Ali Tiane
-role: Développeur
 domaine: Développement
+role: Développeur
 github: alitoch
-avatar:
-link:
-missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
+missions:
   - start: 2020-06-15
     end: 2022-06-15
-    status: admin
+    status: independent
     employer: Cour des comptes
+  - start: 2022-05-09
+    end: 2023-01-31
+    status: independent
+    employer: Fabrique numérique des ministères sociaux
+incubator: sgmas
 startups:
-    - e-controle
+  - egalite.professionnelle
+previously:
+  - e-controle
+badges:
+  - segur
+competences:
+  - Développement Frontend
+  - Développement Backend
 ---

@@ -5,11 +5,12 @@ domaine: Développement
 github: gregoirethomazeau
 missions:
   - start: 2021-11-23
-    end: 2022-06-24
+    end: 2023-12-30
     status: independent
     employer: Portalia
+    startups:
+      - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
 ---
-
 développeur full-stack chez résorption-bidonvilles

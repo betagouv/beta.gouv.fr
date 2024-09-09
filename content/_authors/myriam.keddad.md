@@ -1,16 +1,17 @@
 ---
 fullname: Myriam Keddad
-role: Chargée de relation usager
+role: Chargée de relation utilisateur
 domaine: Déploiement
-github: myriamkeddad
+github: MYRIAMKEDDAD
 missions:
   - start: 2022-02-16
-    end: 2022-12-31
+    end: 2023-08-31
     status: independent
     employer: SCOPYLEFT
+    startups:
+      - rdv-service-public
 startups:
-  - lapins
+  - rdv-service-public
 badges:
   - segur
 ---
-

@@ -1,0 +1,31 @@
+#!/usr/bin/env ruby
+
+require 'rubygems'
+require 'bundler'
+Bundler.setup :test
+
+require 'kwalify'
+require 'yaml'
+require 'rake'
+
+schema_path = ARGV[0]
+schema      = Kwalify::Yaml.load_file(schema_path)
+validator   = Kwalify::Validator.new(schema)
+list_path   = ARGV[1]
+list        = Rake::FileList[list_path]
+
+puts("Running #{schema_path} on #{list_path}…")
+
+error_count = list.reduce(0) do |acc, file_path|
+  document = YAML.unsafe_load_file(file_path)
+  errors = validator.validate(document)
+
+  next(acc) unless errors && !errors.empty?
+
+  errors.map { |e| puts("Error in #{file_path}: [#{e.path}] #{e.message}!") }
+  acc + errors.count
+end
+
+puts("Run on #{list.count} file(s) and found #{error_count} error(s).")
+
+error_count.zero? ? exit(0) : exit(1)

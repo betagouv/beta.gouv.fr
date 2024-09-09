@@ -12,7 +12,7 @@ phases:
   - name: acceleration
     start: 2019-01-01
   - name: transfer
-    start : 2019-09-01
+    start: 2019-09-01
   - name: success
     start: 2020-03-01
 events:
@@ -21,53 +21,59 @@ events:
 link: https://mon-entreprise.urssaf.fr
 repository: https://github.com/betagouv/mon-entreprise
 budget_url: https://mon-entreprise.urssaf.fr/budget
+dashlord_url: https://dashlord.incubateur.net/url/mon-entreprise-urssaf-fr/
 stats: true
 contact: contact@mon-entreprise.beta.gouv.fr
+usertypes:
+  - entreprise
+stats_url: https://mon-entreprise.urssaf.fr/stats
+accessibility_status: partiellement conforme
+thematiques: []
+techno: []
 ---
-# Mon-entreprise
-
 ## Le drame
-Monter une entreprise n'est pas simple. Le créateur cherche d'un côté des clients et un besoin auquel il est ou sera capable de répondre. De l'autre, il doit déclarer son activité et s'assurer qu'elle soit conforme à la loi.
+En 2021, on a observé une augmentation de 16 % de créations d’auto-entreprises, et de 24 % des créations de sociétés, pour atteindre le chiffre record d’un million de nouvelles entreprises.
 
-Et cette seconde étape a de quoi faire oublier la première ! Tout d'abord, vient l'enregistrement de l'activité. Il faut se renseigner sur énormément de paramètres pour être certain de faire le bon choix. Entre autres :
+Chaque jour, ces nouveaux créateurs d’entreprises doivent prendre de nombreuses décisions dans la gestion juridique, fiscale et sociale de leur entreprise.
 
-- Les statuts juridiques (SAS, SARL, EURL, auto-entreprise...) et leur lien avec le régime de protection sociale
-- Les différences entre les régimes de protection sociale (retraite, at/mp)
-- Les modes de comptabilité (micro-BNC / micro-BIC / BNC / BIC)
-- La différence entre IS et IR
-- Les régimes d'imposition de la TVA
-- Les conditions d'application de la "flat tax".
-- Les différences de fonctionnement du recouvrement des cotisations sociales entre indépendant et assimilé salarié
-- Estimer les cotisations pour l'établissement du budget prévisionnel
+Par exemple :
+- Opter pour la bonne forme juridique avec une protection sociale adéquate ;
+- Recruter un salarié, un alternant ou un stagiaire ;
+- Anticiper sa rémunération en fonction des résultats prévus pour l’entreprise.
 
-Une fois l'entreprise lancée, les échéances fiscales et comptables rythment l'année. Parmi elles : la TVA, le bilan annuel, les cotisations sociales, la CFE, la taxe d'apprentissage, la contribution à la formation professionnelle.
+Ces choix sont tous liés aux dispositifs législatifs en cours, qui évoluent constamment. Un mauvais choix peut avoir pour conséquence :
+- Des difficultés de trésorerie suite à une mauvaise estimation des obligations sociales et fiscales ;
+- Une précarité due à une couverture sociale non adaptée ;
+- Un manque à gagner à cause d’un statut non adapté (charges non déductibles en auto-entreprise)
 
-Si le créateur s'en est sorti, il pourra alors embaucher et découvrir le prochain épisode des contraintes légales.
+À l’heure actuel, les créateurs et créatrices prennent ces décisions :
+- En **mimant les décisions de pairs**, qui ne sont pas forcément adaptées à son cas ;
+- En **faisant appel à des professionnels** (comptable, avocats, chambres), ce qui a un coût, pour des conseils qui peuvent être de qualité et de précision variables ;
+- De manière autonome à l’aide de la **documentation en ligne**.
 
-Résultat : **créer une entreprise sans formation préalable ou accompagnement relève d'un véritable parcours du combattant**. L'information disponible est éclatée sur les sites institutionnels des différents acteurs, et souvent présentée sous la forme de longs paragraphes décontextualisés de la situation de l'entrepreneur.
+Concernant ce dernier cas, il est à noter que l’offre publique s’est réellement améliorée ces dernières années (on peut citer la création du portail unique d’information entreprendre.service-public.fr). Ces sites proposent des textes à jour, fiables, et non intéressés, ce qui n’est pas le cas de sa contrepartie privée.
 
-Or on observe une nette croissance du nombre d'entreprises crées en France (+18,5% sur les douze derniers mois). Cela s'explique notamment par le développement de l'économie collaborative (phénomène désigné par "l'uberisation de l'économie"), qui dans de nombreux cas impose la création d'une entreprise.
+Cependant, les informations disponibles restent souvent présentées sous forme de « mur de texte ». C’est alors au lecteur de sélectionner les dispositifs applicables, d’interpréter les explications et d’effectuer les calculs et les recoupements entre ses choix et les conséquences sur sa situation personnelle (couverture sociale, coût, etc.)..
 
-**Il devient donc urgent d'accompagner ces nouveaux dirigeants dans la création de leur entreprise à travers un parcours simple et personnalisé**
+Cela prend du temps et de l’énergie, au détriment du développement de l’activité économique. Finalement, cela crée beaucoup de frustration et d’incompréhension.
 
-## Le guide personnalisé pour créer et administrer son activité
+**En résumé, les créateurs et créatrices d’entreprises ne sont pas suffisamment outillés dans leur prise de décisions.**
 
-Le principe : poser des questions ciblées à l'utilisateur pour le guider vers son choix; fusionner documentation et simulation. En bref : lever tous les freins et les questionnements au fur et à mesure de la progression du projet.
+## Solution
 
-Nos cibles sont en particulier :
-- le citoyen (par exemple un salarié) qui décide de se lancer en tant qu'indépendant
-- le citoyen qui se demande s'il faut et comment déclarer ses revenus de l'économie collaborative (livreur à vélo; VTC; loueur sur AirBnB; partage de voiture entre particuliers...)
-- Et plus généralement, le créateur d'entreprise qui découvre tout ce monde
+Mon-entreprise.urssaf.fr propose des simulateurs et des assistants pour accompagner les acteurs économiques - de la sphère des entrepreneurs, salariés, demandeurs d’emploi - au plus près de leurs parcours de recherche d’informations.
 
-Mon-entreprise est développé en étroite collaboration avec le réseau des Urssaf, et tous les acteurs institutionnels qui se montreront intéressés.
+Par exemple, pour aider les entreprises à anticiper le coût d’un recrutement, nous mettons à disposition un simulateur salarié. Ce dernier est intégré directement sur pôle-emploi, economie.gouv.fr, entreprendre.service-public.fr et code.travail.gouv.fr, ce afin de garantir à l’usager le parcours le plus fluide possible.
+
+Il existe aujourd’hui une vingtaine de simulateurs et assistants, qui couvrent un ensemble de questions relatives à la création et à la gestion d’une entreprise. 
+
+Ces derniers proposent des résultats **personnalisés et fiables**, et couvrent un **grand nombre de cas spécifiques**. Ils sont **maintenus à jour** au fur et à mesure des évolutions législatives, et proposent une **explication des calculs** auto-générés, grâce au moteur de calcul spécialement conçu pour le besoin : [Publicodes](https://publi.codes)
+
+Tous les simulateurs et assistant peuvent être [intégrés via un simple script](https://mon-entreprise.urssaf.fr/d%C3%A9veloppeur/iframe?module=salari%C3%A9) dans n'importe quelle page web. Par ailleurs, nous mettons à disposition une [API REST](https://mon-entreprise.urssaf.fr/d%C3%A9veloppeur/api) pour intégrer les calculs des simulateur dans n'importe quelle application.
 
 ### Internationalisation 🌍
 
 Le service est également disponible en anglais à l'adresse [mycompanyinfrance.fr](https://mycompanyinfrance.fr)
-
-### Technologie 💻
-
-Tous les simulateurs et formulaires interactifs de mon-entreprise sont basés sur le moteur de calcul [publicodes](https://publi.codes), publié en open-source et réutilisable par tous.
 
 ### Transfert à l’Urssaf
 

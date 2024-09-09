@@ -8,9 +8,7 @@ missions:
     end: 2016-07-01
     status: service
     employer: octo
-startups:
 previously:
   - mdph
 ---
-
 Développeur web au service du public.

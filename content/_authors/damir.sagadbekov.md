@@ -1,16 +1,17 @@
 ---
 fullname: Damir Sagadbekov
-role: Développeur stagiaire 
+role: Développeur stagiaire
 github: evidorus
 missions:
   - start: 2021-05-03
     end: 2021-11-03
     status: admin
+    startups:
+      - sante-psy-etudiant
 startups:
   - sante-psy-etudiant
 badges:
   - segur
 domaine: Développement
 ---
-
-Developpeur, gamer, danseur. 
+Developpeur, gamer, danseur.

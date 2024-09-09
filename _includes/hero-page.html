@@ -1,6 +1,18 @@
-{% if page.title %}
-<div class="fr-container fr-my-6w">
-  <span>{{ include.subtitle | escape }}</span>
-  <h1>{{ include.title | escape }}</h1>
-</div>
+{% if include.title %}
+  {% if include.light %}
+    <div class="hero-section">
+      <div class="fr-container fr-pt-4w fr-pb-2w">
+        <h1>{% if include.heroTitle %}{{ include.heroTitle | escape }}{% else %}{{ include.title | escape }}{% endif %}</h1>
+      </div>
+    </div>
+  {% else %}
+    <div class="section-blue section-main">
+      <div class="fr-container fr-my-6w">
+        <h1>{{ include.title | escape }}</h1>
+        {% if include.subtitle %}
+        <h2>{{ include.subtitle | escape }}</h2>
+        {% endif %}
+      </div>
+    </div>
+  {% endif %}
 {% endif %}

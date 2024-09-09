@@ -6,11 +6,14 @@ link: https://quentinpetel.fr
 github: QuentinPetel
 missions:
   - start: 2022-02-01
-    end: 2022-06-30
+    end: 2025-07-31
     status: independent
     employer: ut7
+    startups:
+      - catalogue-apprentissage
+      - voeux-apprentissage
 startups:
-  - catalogue-apprentissage    
+  - catalogue-apprentissage
+  - voeux-apprentissage
 ---
-
 De jour : Architecte web et ingénieur projet @ IT-era ♦ De nuit : Thérapeute sonore @ Technomad Audio

@@ -11,5 +11,4 @@ missions:
 badges:
   - segur
 ---
-
 Je suis UX Writer et Content Designer au sein de l’équipe de Designers Transverses.

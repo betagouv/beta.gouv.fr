@@ -4,15 +4,20 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2021-03-08
-    end: 2022-12-31
+    end: 2024-12-31
     status: independent
     employer: NUMA
+    startups:
+      - monitorfish
+      - rapportnav
 badges:
   - segur
-startups: 
-  - acceslibre
+startups:
+  - monitorfish
+  - rapportnav
+previously:
   - prev-ac-tion
   - jaden.gwadloup
-  - monitorfish
+  - acceslibre
+link: https://www.linkedin.com/in/alexia-boulot-5711002
 ---
-

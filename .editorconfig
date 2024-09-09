@@ -1,6 +1,7 @@
 # See more at http://EditorConfig.org
 
-root = true # this is the topmost editorconfig file
+# This is the topmost editorconfig file.
+root = true
 
 [**/*]
 charset = utf-8
@@ -19,9 +20,9 @@ indent_style = space
 indent_size = 2
 indent_style = space
 
-[js/lib/**/*]
-indent_size = none
-indent_style = none
+[**/*.js]
+indent_size = 2
+indent_style = space
 insert_final_newline = none
 
 [Gemfile.lock]

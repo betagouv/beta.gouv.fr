@@ -1,0 +1,218 @@
+type:       map
+mapping:
+  "title":
+    type:      str
+    required:  yes
+  "mission":
+    type:      str
+    required:  yes
+  "sponsors":
+    type:      seq
+    sequence:
+        - type:      str
+          enum:
+            - /organisations/ademe
+            - /organisations/action-logement
+            - /organisations/acoss
+            - /organisations/agence-bio
+            - /organisations/agence-national-de-l-habitat
+            - /organisations/anah
+            - /organisations/anct
+            - /organisations/ans
+            - /organisations/ansm
+            - /organisations/anlci
+            - /organisations/anssi
+            - /organisations/armees
+            - /organisations/ars-franche-comte
+            - /organisations/assemblee-nationale
+            - /organisations/bdf
+            - /organisations/c-comptes
+            - /organisations/cdc
+            - /organisations/cerema
+            - /organisations/cgdd
+            - /organisations/cma-haut-de-france
+            - /organisations/cnam
+            - /organisations/cnav
+            - /organisations/cnsa
+            - /organisations/cstb
+            - /organisations/csm
+            - /organisations/ddd
+            - /organisations/ddtm34
+            - /organisations/ddtm29
+            - /organisations/dia-tnd
+            - /organisations/direction-de-l-environnement-de-l-amenagement-et-du-logement-de-la-reunion
+            - /organisations/direction-generale-des-etrangers-en-france
+            - /organisations/departement-oise
+            - /organisations/departement-pas-de-calais
+            - /organisations/departement-var
+            - /organisations/dg-tresor
+            - /organisations/dgac
+            - /organisations/dgafp
+            - /organisations/dgal
+            - /organisations/dgaln
+            - /organisations/dgampa
+            - /organisations/dgca
+            - /organisations/dgccrf
+            - /organisations/dgcs
+            - /organisations/dgddi
+            - /organisations/dge
+            - /organisations/dgeb
+            - /organisations/dgec
+            - /organisations/dgefp
+            - /organisations/dgesco
+            - /organisations/dgesip
+            - /organisations/dgfip
+            - /organisations/dgpe
+            - /organisations/dgitm
+            - /organisations/dgos
+            - /organisations/dgpat
+            - /organisations/dgpr
+            - /organisations/dgs
+            - /organisations/dgt
+            - /organisations/dhup
+            - /organisations/diair
+            - /organisations/dihal
+            - /organisations/dinum
+            - /organisations/ditp
+            - /organisations/djepva
+            - /organisations/dns
+            - /organisations/drieat
+            - /organisations/dsr
+            - /organisations/fnccr
+            - /organisations/francetravail
+            - /organisations/hcc
+            - /organisations/hcp
+            - /organisations/idfm
+            - /organisations/igj
+            - /organisations/ign
+            - /organisations/igpn
+            - /organisations/inca
+            - /organisations/interieur
+            - /organisations/justice
+            - /organisations/mc
+            - /organisations/mctrct
+            - /organisations/meae
+            - /organisations/mefr
+            - /organisations/mefsin
+            - /organisations/menjs
+            - /organisations/mesr
+            - /organisations/mj
+            - /organisations/mtei
+            - /organisations/mtes
+            - /organisations/mtfp
+            - /organisations/msjop
+            - /organisations/nouvelle-caledonie
+            - /organisations/ofpra
+            - /organisations/sgdsn
+            - /organisations/sgpe
+            - /organisations/shom
+            - /organisations/sndv
+            - /organisations/solidarite-sante
+            - /organisations/urssaf
+  "fast":
+    type: map
+    mapping:
+      "promotion":
+        type: int
+        required: yes
+      "montant":
+        type: int
+        required: yes
+  "events":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "name":
+              type:      str
+              enum:
+                - product_launch
+                - committee
+                - other
+                - national_impact
+                - end
+            "date":
+              type:      date
+            "comment":
+              type:      str
+  "phases":
+    type:      seq
+    required:  yes
+    assert:    "val.length() > 0"
+    sequence:
+        - type:      map
+          mapping:
+            "start":
+              type:      date
+            "end":
+              type:      date
+            "name":
+              type:      str
+              enum:
+                - investigation
+                - construction
+                - acceleration
+                - success
+                - transfer
+                - alumni
+            "comment":
+              type:      str
+  "incubator":
+    type:      str
+    required:  yes
+  "link":
+    type:      str
+  "repository":
+    type:      str
+  "stats":
+    type:      bool
+  "stats_url":
+    type:      str
+  "budget_url":
+    type:      str
+  "contact":
+    type:      str
+    pattern:   /@/
+    required:  yes
+  "techno":
+    type:      seq
+    sequence:
+        - type:      str
+  "redirect_from":
+    type:      seq
+    sequence:
+        - type:      str
+  "robots":
+    type:      str
+  "rgpd":
+    type:      any
+  "usertypes":
+    type:      seq
+    sequence:
+        - type:      str
+          enum:
+            - particulier
+            - etat
+            - collectivite-territoriale
+            - parlement
+            - entreprise
+            - association
+            - etablissement-scolaire
+  "thematiques":
+    type:      seq
+    sequence:
+        - type:      str
+  "analyse_risques":
+    type:      bool
+  "analyse_risques_url":
+    type:      str
+  "dashlord_url":
+    type:      str
+  "accessibility_status":
+    type:      str
+    enum:
+     - totalement conforme
+     - partiellement conforme
+     - non conforme
+  "mon_service_securise":
+    type:      bool

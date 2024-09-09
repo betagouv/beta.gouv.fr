@@ -5,11 +5,9 @@ role: Coach
 github: dlequepeys
 missions:
   - start: 2017-09-18
-    end: 2022-12-31
+    end: 2024-12-31
     status: service
     employer: octo
-startups:
-  - chauffage-urbain
 previously:
   - aplus
   - histovec
@@ -17,6 +15,7 @@ previously:
   - bati-amiante
   - candilib
   - urgencevie
+  - chauffage-urbain
 competences:
   - Coaching
 ---

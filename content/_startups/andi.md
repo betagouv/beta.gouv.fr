@@ -1,8 +1,8 @@
 ---
 title: ANDi
 mission: Faciliter l'immersion professionnelle des personnes en situation de handicap
-sponsors: 
-    - /organisations/cdc
+sponsors:
+  - /organisations/cdc
 incubator: dinum
 events:
   - name: end
@@ -18,8 +18,9 @@ repository: https://github.com/betagouv/andi
 stats: true
 stats_url: https://andi.beta.gouv.fr/stats
 contact: karel.cloarec@beta.gouv.fr
+usertypes:
+  - particulier
 ---
-
 ## Fiche produit
 
 ## Le problème 

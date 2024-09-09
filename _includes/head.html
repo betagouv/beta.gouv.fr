@@ -1,6 +1,6 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 
     <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
@@ -8,7 +8,7 @@
     {% if page.robots %}
       <meta name="robots" content="{{page.robots}}" />
     {% endif %}
-    
+
     {% assign description = page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
     <meta name="description" content="{{ description }}">
     <meta property="og:description" content="{{ description }}">
@@ -49,9 +49,8 @@
     {% endif %}
 
     <link rel="stylesheet" type="text/css" href="/assets/main.css">
-    <link rel="stylesheet" type="text/css" href="/assets/gouvfr/css/dsfr.min.css">
-    <link rel="stylesheet" type="text/css" href="/assets/remixicon/fonts/remixicon.css">
-
+    <link rel="stylesheet" type="text/css" href="/assets/gouvfr/dsfr.min.css">
+    <link rel="stylesheet" type="text/css" href="/assets/gouvfr/utility/utility.min.css">
     {% for file in page.additional_css %}
       <link rel="stylesheet" type="text/css" href="{% if file contains '://' %}{{ file }}{% else %}/assets/additional/style/{{ file }}{% endif %}">
     {% endfor %}
@@ -66,12 +65,12 @@
     <meta property="og:image" content="{{ site.url }}{{ mastheadImagePath }}">
 
     <meta name="twitter:card" content="summary_large_image">
-    {% capture twitter_id %}@{{ site.twitter_username }}{% endcapture %}
-    <meta name="twitter:site" content="{{ twitter_id }}">
 
     {% capture twitterImagePath %}{% if page.image %}{{page.image}}{% else %}{{ site.url }}/img/logo_twitter_image-2019.jpg{% endif %}{% endcapture %}
     <meta name="twitter:image" content="{{ twitterImagePath }}">
 
+  {% if jekyll.environment == "production" %}
     {% include analytics.html %}
+  {% endif %}
 
 </head>

@@ -7,8 +7,10 @@ missions:
     end: 2022-04-01
     status: independent
     employer: Octo
+    startups:
+      - infoparquet
 startups:
-  - article.40
+  - infoparquet
 badges:
   - segur
 competences:

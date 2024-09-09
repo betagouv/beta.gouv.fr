@@ -1,15 +1,17 @@
 ---
 fullname: Lydia Theresine
-role: Product owner et facilitatrice
 domaine: Produit
+role: Product owner et facilitatrice
+avatar: /img/authors/lydia.theresine.jpg
 missions:
   - start: 2020-06-01
-    end: 2021-12-31
+    end: 2023-06-30
     status: admin
     employer: pole-emploi
-avatar: /img/authors/lydia.theresine.jpg
 startups:
-    - mobiville
+  - estime.formation
+  - la-bonne-boite
+competences:
+  - Communication
 ---
-
-Product owner et facilitatrice , "Cela me semble toujours impossible, jusqu’à ce qu’on le fasse (Nelson Mandela) » alors j'accompagne, j'aide à la faire,  je le fais, nous le faisons!!
+"Cela me semble toujours impossible, jusqu’à ce qu’on le fasse (Nelson Mandela) », j'accompagne, j'aide à la faire,  je le fais, nous le faisons !

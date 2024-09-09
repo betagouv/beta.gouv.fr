@@ -12,8 +12,8 @@ missions:
     end: 2021-08-23
     status: admin
     employer: DGALN
-startups:   
-    - zero-logement-vacant
+startups:
+  - zero-logement-vacant
 previously:
-    - demarches-simplifiees.fr
+  - demarches-simplifiees.fr
 ---

@@ -7,11 +7,11 @@ missions:
     end: 2020-08-28
     status: service
     employer: octo
+    startups:
+      - pass-culture
 startups:
-    - pass-culture
+  - pass-culture
 previously:
-    - pix
+  - pix
 ---
-
-Inventeur de blagues nulles, Eleveur de loutres
-Anciennement Tech-Lead sur Pix
+Inventeur de blagues nulles, Eleveur de loutres Anciennement Tech-Lead sur Pix

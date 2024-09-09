@@ -5,12 +5,18 @@ domaine: Développement
 github: hfroot
 missions:
   - start: 2020-12-22
-    end: 2022-06-30
+    end: 2024-09-27
     status: independent
     employer: Scopyleft
+    startups:
+      - ma-cantine-egalim
 startups:
-    - ma-cantine-egalim
+  - ma-cantine-egalim
 badges:
   - segur
+previously:
+  - datagir
+competences:
+  - Développement Full-stack
+  - Accessibilité
 ---
-

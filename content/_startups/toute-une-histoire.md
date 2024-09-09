@@ -3,20 +3,19 @@ title: Toute une histoire
 mission: Permettre aux enfants placés au service l’Aide Sociale à l’Enfance d'accéder facilement à leur histoire de vie
 incubator: anct
 sponsors:
-- /organisations/anct
+  - /organisations/anct
 phases:
   - name: investigation
     start: 2020-01-14
     end: 2020-07-13
   - name: alumni
     start: 2020-07-13
-link:
-repository: 
-stats: false 
-stats_url: 
+stats: false
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - particulier
+  - collectivite-territoriale
 ---
-
 ## Problème: 1500 enfants placés sans souvenirs
 Aujourd’hui, dans le département de la Somme, il y a plus de 1500 enfants placés au service l’Aide Sociale à l’Enfance.
 

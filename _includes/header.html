@@ -6,34 +6,58 @@
           <div class="fr-header__brand-top">
             <div class="fr-header__logo">
               <p class="fr-logo">
-              République
-              <br>française
+                République<br>
+                Française
               </p>
             </div>
-            
+
             <div class="fr-header__navbar">
-              <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="modal-833" aria-haspopup="menu" title="Menu">
+              <button class="fr-btn--search fr-btn" data-fr-opened="false" aria-controls="header-search" id="fr-btn-search-mobile" title="Rechercher">
+                  Rechercher
+              </button>
+              <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="modal-menu-mobile" aria-haspopup="menu" title="Menu" id="fr-btn-menu-mobile">
                   Menu
               </button>
             </div>
           </div>
 
           <div class="fr-header__service">
-            <a href="/" title="Retour à l’accueil">
-              <img src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" alt="beta.gouv.fr" style="width:10.5rem; height:auto;">
+            <a href="/">
+              <img src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" alt="beta.gouv.fr">
             </a>
           </div>
         </div>
 
-        <div class="fr-header__tools">    
+        <div class="fr-header__tools">
           <div class="fr-header__tools-links">
-            <ul class="fr-links-group">
+            <ul class="fr-btns-group">
               {% for item in site.data.menu.shortcuts %}
               <li class="fr-shortcuts__item">
-                <a class="fr-link {% if item.external %}fr-fi-external-link-line fr-link--icon-right{% endif %}" href="{{ item.url }}" title="{{ item.label }}" target="_blank" rel="noopener">{{ item.label }}</a>
+                {% if item.external == true %}
+                  <a class="fr-btn" href="{{ item.url }}" title="{{ item.label }} - nouvelle fenêtre" target="_blank" rel="noopener">{{ item.label }}</a>
+                {% else %}
+                  <a class="fr-btn--{{ item.icon }} fr-btn" href="{{ item.url }}">{{ item.label }}</a>
+                {% endif %}
               </li>
               {% endfor %}
             </ul>
+          </div>
+
+          <div class="fr-header__search fr-modal" id="header-search" data-fr-js-modal="true" data-fr-js-header-modal="true" aria-labelledby="button-header-search">
+            <div class="fr-container fr-container-lg--fluid">
+              <button class="fr-btn--close fr-btn" aria-controls="header-search" id="button-header-search" title="Fermer">
+                Fermer
+              </button>
+              <form id="header-search-main" method="get" action="/recherche" role="search" class="fr-search-bar">
+                <label class="fr-label" for="search">
+                    Recherche
+                </label>
+                <input class="fr-input" placeholder="Rechercher" type="search" id="search" name="q">
+                <button class="fr-btn" title="Rechercher">
+                    Rechercher
+                </button>
+              </form>
+            </div>
           </div>
         </div>
       </div>
@@ -41,28 +65,25 @@
   </div>
 
   <!-- Navigation principale -->
-  <div class="fr-header__menu fr-modal" id="modal-833" aria-labelledby="button-834">
+  <div class="fr-header__menu fr-modal" id="modal-menu-mobile" aria-labelledby="fr-btn-menu-mobile">
     <div class="fr-container">
-      <button class="fr-link--close fr-link" aria-controls="modal-833">Fermer</button>
+      <button class="fr-link--close fr-link" aria-controls="modal-menu-mobile">Fermer</button>
       <div class="fr-header__menu-links"></div>
-      <nav class="fr-nav" id="navigation-832" role="navigation" aria-label="Menu principal">
+      <nav class="fr-nav" id="navigation" role="navigation" aria-label="Menu principal">
           <ul class="fr-nav__list">
                   <li class="fr-nav__item">
-                    <button class="fr-nav__btn" aria-expanded="false" aria-controls="menu-776" {% if page.url contains 'approche' %}aria-current="true"{% endif %}>Programme</button>
-                    <div class="fr-collapse fr-menu" id="menu-776">
+                    <button class="fr-nav__btn" aria-expanded="false" aria-controls="menu-program" {% if page.url contains 'approche' %}aria-current="true"{% endif %}>Programme</button>
+                    <div class="fr-collapse fr-menu" id="menu-program">
                         <ul class="fr-menu__list">
                             <li>
                                 <a class="fr-nav__link" href="/approche" target="_self">Découvrir le programme</a>
                             </li>
                             <li>
-                                <a class="fr-nav__link" href="/approche/investigation" target="_self">Identifier le problème à résoudre</a>
+                                <a class="fr-nav__link" href="/devenir-intrapreneur" target="_self">Devenir intrapreneur</a>
                             </li>
                             <li>
-                              <a class="fr-nav__link" href="/approche/construction" target="_self">Réaliser un service numérique</a>
-                            </li>
-                            <li>
-                                <a class="fr-nav__link" href="/devenir-intrapreneur" target="_self">Devenir Intrapreneur</a>
-                            </li>
+                              <a class="fr-nav__link" href="/manifeste" target="_self">Découvrir notre manifeste</a>
+                          </li>
                         </ul>
                     </div>
                 </li>

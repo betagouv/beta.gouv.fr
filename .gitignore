@@ -20,7 +20,6 @@ _site
 
 # Node
 node_modules/**/*
-package-lock.json
 
 # ruby
 vendor

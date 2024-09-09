@@ -7,11 +7,14 @@ missions:
     end: 2022-06-30
     status: admin
     employer: dinum
+    startups:
+      - api-entreprise
+      - demarches-simplifiees.fr
+      - mps
 startups:
-    - mps
-    - api-entreprise
-    - demarches-simplifiees.fr
+  - mps
+  - api-entreprise
+  - demarches-simplifiees.fr
 github: emsnytech
 ---
-
 Fonctionnaire, et le plus vieux de la bande. Le moins disruptif ? À voir…

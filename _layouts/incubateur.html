@@ -1,0 +1,186 @@
+---
+layout: default
+---
+
+{% assign lang = page.lang | default: site.lang | default: "fr" %}
+{% assign incubator_id = page.id | remove: '/incubateurs/' %}
+{% assign owner = site.organisations | where: 'id', page.owner | first %}
+{% assign incubatorStartups = site.startups | where: 'incubator', incubator_id %}
+
+{% assign investigationStartupsCount = incubatorStartups | where_phase: 'investigation' | size %}
+{% assign constructionStartupsCount = incubatorStartups | where_phase: 'construction' | size %}
+{% assign accelerationStartupsCount = incubatorStartups | where_phase: 'acceleration' | size %}
+{% assign inProgressStartupsCount = constructionStartupsCount | plus: accelerationStartupsCount %}
+
+{% assign transferStartupsCount = incubatorStartups | where_phase: 'transfer' | size %}
+{% assign successStartupsCount = incubatorStartups | where_phase: 'success' | size %}
+{% assign nationalsStartupsCount = transferStartupsCount | plus: successStartupsCount %}
+
+
+{%- assign teams = site.teams -%}
+{%- assign current_authors = site.authors | community: 'current', 'alpha' -%}
+{%- assign team_authors = current_authors | where_exp: "item", "item.teams.size != 0" | uniq | sort: 'fullname'-%}
+
+<div id="incubator-view">
+    <div class="fr-container-fluid fr-py-6w">
+        <div class="fr-container">
+            <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters fr-py-2w">
+                <div class="fr-col">
+                    <h1>{{ page.title }}</h1>
+                    {% if page.address != nil %}
+                        <p class="fr-text--xs fr-mb-1w">
+                            <span class="fr-icon-map-pin-2-line fr-icon--sm"></span>
+                            {{ page.address }}
+                        </p>
+                    {% endif %}
+                    {% if owner.name != nil %}
+                        <p class="fr-text--xs">
+                            <span class="fr-icon-government-line fr-icon--sm"></span>
+                            {{ owner.name }}
+                        </p>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="fr-grid-row fr-grid-row--gutters">
+                <div class="fr-col-md-3">
+                    <img
+                        src="../img/incubators/{{ page.logo }}"
+                        alt=""
+                        class="incubator-logo"
+                    />
+                </div>
+                <div class="fr-col-md-9">
+                    <div class="fr-m-0">{{ content }}</div>
+                    <div class="fr-btns-group fr-btns-group--inline">
+                        {% if page.contact != nil %}
+                            {% if page.contact contains "https://" %}
+                                <a class="fr-btn fr-btn--md fr-btn--secondary" href="{{ page.contact }}" target="_blank">Nous contacter</a>
+                            {% else %}
+                                <a class="fr-btn fr-btn--md fr-btn--secondary" href="mailto:{{ page.contact }}">Nous contacter</a>
+                            {% endif %}
+                        {% endif %}
+                        {% if page.website != nil and incubator_id != "dinum" %}
+                            {% comment %} there is no sense to link to DINUM website since it's the current one {% endcomment %}
+                            <a class="fr-btn fr-btn--md fr-btn--secondary" href="{{ page.website }}">Voir notre site</a>
+                        {% endif %}
+                        {% if page.github != nil %}
+                            <a class="fr-btn fr-btn--md fr-btn--secondary" href="{{ page.github }}">Voir nos codes sources</a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="fr-container-fluid blue-background fr-py-3w">
+        <div class="fr-container">
+            <div class="fr-grid-row">
+                <div class="fr-col">
+                    <h2>L’incubateur en quelques chiffres</h2>
+                </div>
+            </div>
+            <div class="fr-grid-row fr-grid-row--gutters">
+                <div class="fr-col-12 fr-col-sm-4">
+                    {% if investigationStartupsCount > 1 %}
+                        {% capture title %}{{ investigationStartupsCount }} investigations{% endcapture %}
+                    {% else %}
+                        {% capture title %}{{ investigationStartupsCount }} investigation{% endcapture %}
+                    {% endif %}
+                    {% include card-highlight.html
+                        title=title
+                        description="En phase d’investigation, l’équipe identifie et qualifie le problème à résoudre."
+                        icon="/assets/images/icons/incubateur/leaf.svg"
+                    %}
+                </div>
+                <div class="fr-col-12 fr-col-sm-4">
+                    {% if inProgressStartupsCount > 1 %}
+                        {% capture title %}{{ inProgressStartupsCount }} services en incubation{% endcapture %}
+                    {% else %}
+                        {% capture title %}{{ inProgressStartupsCount }} service en incubation{% endcapture %}
+                    {% endif %}
+                    {% include card-highlight.html
+                        title=title
+                        description="En phase de construction et d'accélération, l’équipe réalise un service numérique grâce à des apprentissages terrains."
+                        icon="/assets/images/icons/incubateur/in-progress.svg"
+                    %}
+                </div>
+                <div class="fr-col-12 fr-col-sm-4">
+                    {% if nationalsStartupsCount > 1 %}
+                        {% capture title %}{{ nationalsStartupsCount }} services pérennisés{% endcapture %}
+                    {% else %}
+                        {% capture title %}{{ nationalsStartupsCount }} service pérennisé{% endcapture %}
+                    {% endif %}
+                    {% include card-highlight.html
+                        title=title
+                        description="Une fois déployés dans toute la France, ces services ont été pérennisés au sein d'une structure adaptée."
+                        icon="/assets/images/icons/incubateur/internet.svg"
+                    %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% if page.highlighted_startups != nil and page.highlighted_startups.size > 1 %}
+        <div class="fr-container-fluid fr-py-3w">
+            <div class="fr-container">
+                <div class="fr-grid-row">
+                    <div class="fr-col">
+                        <h2 class="fr-m-0 fr-mt-1w">Les produits phares</h2>
+                    </div>
+                </div>
+                <div class="fr-grid-row fr-grid-row--gutters fr-pt-3w">
+                    <!-- Only take a few in case more are defined -->
+                    {% assign chosen_startups_ids = page.highlighted_startups | sample: 3 %}
+                    {% for startup_id in chosen_startups_ids %}
+                        {% capture startup_full_id %}/startups/{{ startup_id }}{% endcapture %}
+                        {% assign startup = site.startups | where: "id", startup_full_id | first %}
+                        <div class="fr-col-12 fr-col-md-4 fr-mb-2w">
+                            {% include card-startup.html startup = startup %}
+                        </div>
+                    {% endfor %}
+                </div>
+                <div class="fr-grid-row">
+                    <div class="fr-col">
+                        <a class="fr-btn fr-btn--md fr-mt-2w" href="/startups/?incubateur={{ page.id | remove: '/incubateurs/' }}">Voir tous les services de l’incubateur</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    <div class="fr-container-fluid fr-py-3w">
+        <div class="fr-container fr-pb-3w">
+            <div class="fr-grid-row">
+                <div class="fr-col">
+                    <h2 class="fr-m-0 fr-mt-1w">Contacter l’incubateur</h2>
+                </div>
+            </div>
+            <div class="fr-grid-row fr-grid-row--gutters fr-pt-3w">
+                {%- for author in team_authors -%}
+                    {%- assign is_author_in_incubator = false -%}
+                    {%- for team in teams -%}
+                        {%- if team.incubator == incubator_id and author.teams contains team.id -%}
+                            {%- assign is_author_in_incubator = true -%}
+                            {%- break -%}
+                        {%- endif -%}
+                    {%- endfor -%}
+            
+                    {%- if is_author_in_incubator -%}
+                        <div class="fr-col-6 fr-col-sm-4 fr-col-md-3 fr-col-lg-3">
+                            {%- include card-community.html author=author hide_details=true -%}
+                        </div>
+                    {%- endif -%}
+                {%- endfor -%}
+            </div>
+            
+            {% if page.contact != nil %}
+                <div class="fr-grid-row">
+                    <div class="fr-col">
+                        {% if page.contact contains "https://" %}
+                            <a class="fr-btn fr-btn--secondary fr-btn--md fr-mt-2w" href="{{ page.contact }}" target="_blank"><span class="fr-icon-mail-open-line fr-icon--sm fr-mr-1w"></span> Contacter l’équipe d’animation</a>
+                        {% else %}
+                            <a class="fr-btn fr-btn--secondary fr-btn--md fr-mt-2w" href="mailto:{{ page.contact }}"><span class="fr-icon-mail-open-line fr-icon--sm fr-mr-1w"></span> Contacter l’équipe d’animation</a>
+                        {% endif %}
+                    </div>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</div>

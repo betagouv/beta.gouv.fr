@@ -5,9 +5,11 @@ role: Chargée de déploiement
 github: bettinalbc
 missions:
   - start: 2020-09-17
-    end: 2022-12-30
+    end: 2024-02-14
     status: independent
-    employer: "Octo "
+    employer: 'Octo '
+    startups:
+      - aides-territoires
 startups:
   - aides-territoires
 competences:

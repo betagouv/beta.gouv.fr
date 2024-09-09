@@ -7,10 +7,11 @@ missions:
     end: 2022-06-30
     status: service
     employer: Liberte Living-Lab
+    startups:
+      - inca
 startups:
   - inca
 badges:
   - segur
 ---
-
-UX / Service Designer depuis 10 ans déjà ! 
+UX / Service Designer depuis 10 ans déjà !

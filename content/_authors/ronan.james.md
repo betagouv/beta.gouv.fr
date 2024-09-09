@@ -1,18 +1,18 @@
 ---
 fullname: Ronan James
 domaine: Déploiement
-role: "Responsable de déploiement "
+role: 'Responsable de déploiement '
 github: ronanjames
 missions:
   - start: 2021-01-25
     end: 2021-06-30
     status: admin
     employer: DGEFP
-  - status: independent
+  - start: 2021-07-01
+    end: 2022-08-30
+    status: independent
     employer: DINUM
-    start: 2021-07-01
-    end: 2022-04-30
-startups:
+previously:
   - carnet.de.bord
 badges:
   - segur

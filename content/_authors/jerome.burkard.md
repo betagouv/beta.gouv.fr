@@ -1,15 +1,16 @@
 ---
 fullname: Jérôme Burkard
-role: Développeur
+role: Lead dev
 domaine: Développement
 github: jeromebu
 missions:
   - start: 2021-07-16
-    end: 2022-06-30
+    end: 2024-12-31
     status: independent
     employer: La fabrique pôle emploi
+    startups:
+      - l-immersion-facile
 startups:
-    - l-immersion-facile
+  - l-immersion-facile
 ---
-
-Développeur typescript
+Lead dev typescript

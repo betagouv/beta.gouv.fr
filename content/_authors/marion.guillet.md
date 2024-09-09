@@ -5,9 +5,11 @@ domaine: Produit
 github: guilletmarion
 missions:
   - start: 2019-10-21
-    end: 2022-06-30
+    end: 2024-12-31
     status: independent
     employer: UT7
+    startups:
+      - la-bonne-alternance
 startups:
   - la-bonne-alternance
 previously:

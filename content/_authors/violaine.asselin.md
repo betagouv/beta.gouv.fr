@@ -1,15 +1,19 @@
 ---
 fullname: Violaine Asselin
-role: Intrapreneuse
-domaine: Intraprenariat
+role: Product owner
+domaine: Produit
 github: Vioasselin
 missions:
   - start: 2018-04-01
-    end: 2023-12-31
+    end: 2024-12-31
     status: admin
-    employer: pole-emploi
+    employer: independent
+    startups:
+      - pilotagevoiepro
 startups:
-    - anotea
-    - sirius
-    - tdb-apprentissage
+  - pilotagevoiepro
+previously:
+  - tdb-apprentissage
+  - sirius
+  - anotea
 ---

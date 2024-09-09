@@ -7,7 +7,8 @@ incubator: engagement_civique
 link: https://moncompte.snu.gouv.fr
 repository: https://github.com/betagouv/service-national-universel
 contact: contact@snu.gouv.fr
-stats: false
+stats: true
+stats_url: https://data.snu.gouv.fr/public/dashboard/9331f066-bc6d-4e32-a481-4831e1ec5174?date=thisyear&d%25C3%25A9partement=
 phases:
   - name: investigation
     start: 2020-04-01
@@ -15,6 +16,14 @@ phases:
     start: 2020-07-01
   - name: acceleration
     start: 2021-01-01
+usertypes:
+  - particulier
+  - association
+dashlord_url: https://dashlord.incubateur.net/url/www-snu-gouv-fr/
+accessibility_status: non conforme
+thematiques:
+  - Jeunesse
+  - Education
 ---
 **Contexte**
 

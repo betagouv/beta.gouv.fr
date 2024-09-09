@@ -1,7 +1,6 @@
 ---
 title: Expresso
-mission: Faciliter la gestion des ressources humaines dans les établissements à
-  autonomie finanière
+mission: Faciliter la gestion des ressources humaines dans les établissements à autonomie financière
 sponsors:
   - /organisations/meae
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
@@ -9,48 +8,38 @@ contact: atelier.numerique@diplomatie.gouv.fr
 phases:
   - name: investigation
     start: 2021-09-15
+  - name: construction
+    start: 2022-09-01
+  - name: acceleration
+    start: 2024-04-03
+thematiques:
+  - Travail / Emploi
+accessibility_status: non conforme
 ---
 **Contexte**
 
-Avec 117 établissements à autonomie financière (EAF) regroupant 95 Instituts français et 22 instituts français de recherche à l’étranger, la France a l’un des plus anciens et des plus importants réseaux de coopération au monde, engagé dans l’enseignement du français, la promotion et la diffusion de la culture françaises, mais également les coopérations en matière de création artistique, d’enseignement supérieur et de recherche et de soutien aux industries culturelles et créatives françaises.
+Avec 119 établissements à autonomie financière (EAF) regroupant 97 Instituts français et 22 instituts français de recherche à l’étranger, la France a l’un des plus anciens et des plus importants réseaux de coopération au monde, engagé dans l’enseignement du français, la promotion et la diffusion de la culture françaises, mais également les coopérations en matière de création artistique, d’enseignement supérieur et de recherche et de soutien aux industries culturelles et créatives françaises.
 
-Ces instituts français emploient plus de 3 000 agents relevant du droit local du pays d’implantation (ADL).
+Ces instituts français emploient plus de 3 300 agents relevant du droit local du pays d’implantation (ADL).
 
-Le MEAE cherche à renforcer la dynamique de valorisation de ces « ressources » humaines et leur pilotage, tant par les Instituts que par les services centraux. Ce renforcement passe par une meilleure connaissance de ces agents et par un accompagnement renforcé des services RH des Instituts.
+Le MEAE cherche à renforcer la dynamique de valorisation de ces « ressources » humaines et leur pilotage, tant par les Instituts que par les services centraux. Ce renforcement passe par une meilleure connaissance de ces agents et par un accompagnement renforcé des services RH des Instituts.
 
-A ce titre, il a été lancé une investigation selon l’approche Startups d’Etat afin de rechercher des solutions.
-
-Cette investigation porte sur des thématiques identifiées par l’équipe mais qui pourront être complétées lors de l’investigation : 
-
-1. *le suivi des ETP (emploi sous plafond, vacations et fiche de poste)* 
-2. *les congés et le temps de travail (et les heures supplémentaires)* 
-3. *la « carrière » de l’agent (fiche agent, contrats, évaluation, formation)* 
-4. *le budget* 
-5. *la paie* 
-6. *les cotisations sociales* 
-7. *le dossier individuel de l’agent (et la disponibilité des informations pour l’agent).* 
-8. *le dialogue social*
 
 **Problème**
 
-Les Instituts disposent d’outils variés de gestion des « ressources humaines », souvent sur des bases auto-construites, qui nécessitent de multiples saisies, n’offrent pas de garanties de rigueur et de transparence et ne permettent pas leur consolidation, particulièrement pour les services traitants du MEAE, et donc une analyse simplifié et objective.
+Les Instituts disposent d’outils variés de gestion des « ressources humaines », souvent sur des bases auto-construites, qui nécessitent de multiples saisies, n’offrent pas de garanties de rigueur et de transparence et ne permettent pas leur consolidation, particulièrement pour les services traitants du MEAE, et donc une analyse simplifiée et objective.
 
-Les acteurs RH, tant dans les Instituts (Directeur secrétaires généraux, gestionnaire RH et les agents eux-mêmes) qu’à Paris (rédacteurs) sont confrontés à des outils, souvent Excel, qui ne remplissent pas toutes les fonctions utiles en matière de gestion des ressources humaines. Le phénomène est accru par la rotation importante de l’encadrement tous les 3 ou 4 ans.
+Les acteurs RH, tant dans les Instituts (directeurs secrétaires généraux, gestionnaires RH et les agents eux-mêmes) qu’à Paris (rédacteurs) sont confrontés à des outils, souvent Excel, qui ne remplissent pas toutes les fonctions utiles en matière de gestion des ressources humaines. Le phénomène est accru par la rotation importante de l’encadrement tous les 3 ou 4 ans.
 
-Par conséquent, la gestion quotidienne des RH prend beaucoup de temps (saisies, risques d’erreurs, …) au détriment du temps qui pourrait dégagé pour la valorisation de ces « ressources » humaines. La consolidation des données et donc leur analyse est rendue impossible, tant par les Instituts que par le MEAE, qui en a pourtant un besoin fort.
+Par conséquent, la gestion quotidienne des RH prend beaucoup de temps (saisies, risques d’erreurs…) au détriment du temps qui pourrait être dégagé pour la valorisation de ces « ressources » humaines. La consolidation des données et donc leur analyse est rendue impossible, tant par les Instituts que par le MEAE, qui en a pourtant un besoin fort.
 
-**Solution**
+**Service**
 
-Une première solution serait de renforcer la culture de gestion des « ressources » humaines dans les Instituts comme elle existe en matière de gestion budgétaire et comptable.
+Expresso souhaite permettre aux ADL des EAF de faire valoir leurs droits en leur donnant accès en autonomie à leurs dossiers individuels et en proposant une méthodologie de numérisation et de gestion des dossiers avec l’outil interministériel Osmose, le logiciel utilisé couramment au niveau local (pour certains Instituts) ou sur le serveur local de l’EAF. Cette problématique se comprend dans une volonté de modernisation de la gestion des ressources humaines et dans un objectif d’élargissement à un SIRH global.
 
-Une deuxième solution serait de partager des solutions efficaces déjà existantes.
 
-Enfin, une dernière solution serait un SIRH partagé entre chaque Institut et le MEAE afin notamment de fiabiliser, consolider les éléments. Elle permettra également aux agents eux-mêmes d’accéder facilement à leur dossier individuel.
+**Etat d'avancement et prochaines étapes**
 
-**Stratégie**
+Tout d’abord, une phase d’investigation a été menée grâce à des entretiens réalisés auprès des acteurs RH (tant en IF qu’au MEAE), en prenant en compte la multiplicité des profils d’agents et d’instituts (petits, moyens, grands EAF). Puis, une phase d’expérimentation dans 7 EAF pilotes a permis de tester la méthodologie et la nomenclature Expresso pour numériser et mettre à la disposition des agents leurs dossiers individuels. A cette phase d’expérimentation de la démarche ont succédé au dernier trimestre 2022, puis au second trimestre 2023, deux nouvelles phases avec un périmètre plus vaste, étendu à une quarantaine d’EAF supplémentaires.
 
-Afin de vérifier ces hypothèses, nous allons réaliser des entretiens auprès des acteurs RH (tant en IF qu’au MEAE), en prenant en compte la multiplicité des profils d’agents et d’instituts (petits, moyens, grands EAF).
-
-Ils permettront de dégager les réels besoins, les solutions déjà mises en œuvre par certains établissements et leurs idées.
-
-Une approche par thématique prioritaire (cf. les 8 thématiques évoquées ci-dessus) ou par taille d’instituts pourra être retenue.
+Au premier trimestre 2024, une nouvelle phase a été étendue à plus de trente postes. De plus, le suivi des postes ayant commencé le déploiement du projet Expresso en 2022 ou 2023 permet de remarquer que plusieurs postes, comme le Liban ou la Finlande, ont dorénavant achevé la mise en place du projet. Tous les ADL de ces Instituts ont accès à leur dossier numérisé.

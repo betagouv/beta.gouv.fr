@@ -1,13 +1,15 @@
 ---
 fullname: Matthieu Bollot
-role: Développeur front
+role: Développeur fullstack
 domaine: Développement
 github: mattboll
 missions:
   - start: 2020-10-19
-    end: 2022-04-19
+    end: 2024-11-29
     status: independent
     employer: Octo
+    startups:
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 ---

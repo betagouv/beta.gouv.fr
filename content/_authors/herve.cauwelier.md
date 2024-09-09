@@ -1,16 +1,16 @@
 ---
 fullname: Hervé Cauwelier
-role: Développeur 
+role: Développeur
 domaine: Développement
-github: bors-ltd 
-avatar: 
-link:
+github: bors-ltd
 missions:
   - start: 2020-11-16
-    end: 2022-12-31
+    end: 2024-10-30
     status: independent
-    employer: Codeurs en liberté
+    employer: Scopopop
+    startups:
+      - le-taxi
 startups:
-    - le-taxi
-    - mesads
+  - le-taxi
+competences: []
 ---

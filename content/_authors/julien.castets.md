@@ -1,14 +1,18 @@
 ---
 fullname: Julien Castets
-role: Développeur
 domaine: Développement
+role: Développeur
 link: https://github.com/brmzkw
+github: brmzkw
 missions:
   - start: 2019-10-16
-    end: 2022-08-01
+    end: 2024-12-30
     status: independent
-    employer: Codeurs en Liberté
+    employer: Scopopop
+    startups:
+      - mesads
 startups:
-    - le-taxi
-    - mesads
+  - mesads
+competences:
+  - Développement Backend
 ---

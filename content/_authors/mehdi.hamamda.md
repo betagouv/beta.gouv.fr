@@ -1,16 +1,16 @@
 ---
 fullname: Mehdi Hamamda
-role: Intrapreneur
 domaine: Intraprenariat
-github: 
-avatar: 
+role: Intrapreneur
 missions:
   - start: 2020-03-01
-    end: 2023-02-28
+    end: 2022-10-21
     status: admin
     employer: DGE
+    startups:
+      - ie
 startups:
-    - ie
+  - ie
+competences:
+  - Administration Publique
 ---
-
-Pilote opérationnel

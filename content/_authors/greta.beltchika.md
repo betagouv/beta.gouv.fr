@@ -5,11 +5,12 @@ domaine: Déploiement
 github: greta712
 missions:
   - start: 2021-10-28
-    end: 2022-04-28
+    end: 2024-09-30
     status: independent
+    startups:
+      - ma-cantine-egalim
 startups:
   - ma-cantine-egalim
 badges:
   - segur
 ---
-

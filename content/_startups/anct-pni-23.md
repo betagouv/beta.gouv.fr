@@ -1,23 +1,23 @@
 ---
-title: Programme national d'investigation (23)
-mission: Améliorer la communication entre le centre de loisirs et les parents pendant les période de vacances
+title: Améliorer la communication entre le centre de loisirs et les parents pendant les période de vacances
+mission: Programme national d'investigation (23)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2021-06-01
   - name: alumni
     start: 2021-11-01
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
+thematiques: []
+usertypes: []
+techno: []
 ---
 Chaque été, entre 80 et 120 enfants sont accueillis au centre de loisirs de Marseillan.
 
-### **Problèmes identifiés**
+## Problèmes identifiés
 
 Les hypothèses de problème qui ont été identifiées en début d'investigation sont les suivantes : 
 
@@ -26,13 +26,12 @@ Les hypothèses de problème qui ont été identifiées en début d'investigatio
 *   **Absence de visibilité sur le planning** : "En tant que famille, je n'ai pas de visibilité sur le listing des activités au jour le jour"
 *   **Un programme qui n'est pas assez à la carte** : "En tant que famille, j'aimerais que mon enfant soit davantage en extérieur, fasse plus d'activités, ne vienne que par 1/2 journées, etc..."
 
-### **Impact recherché** 
+## Impact recherché
 
 *   **Mettre en valeur les activités et le travail fourni** par les équipes éducatives
 *   **Expliquer ce qu'il se passe et quel est l'objectif des différents temps** (exemple du temps calme), **décortiquer la journée en fonction du rythme de l'enfant**
 
-Démarche d'investigation
-------------------------
+## Démarche d'investigation
 
 ### **🔎 Temps 1 : Recherche usager** 
 

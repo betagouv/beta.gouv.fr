@@ -1,16 +1,36 @@
 ---
 fullname: Mael Inizan
-role: Coach & Designer de service 
 domaine: Coaching
+role: Coach produit transverse
 link: https://www.linkedin.com/in/mael-inizan/
 missions:
   - start: 2021-01-11
-    end: 2022-05-30
+    end: 2026-09-30
     status: independent
     employer: NUMA
+    startups:
+      - collectif_objets
+      - la.bonne.renov
+      - locadocs
+      - parcours.de.saisine
+  - start: 2022-02-01
+    end: 2025-12-31
+    status: admin
+    startups:
+      - chauffage-urbain
+      - mesaidesreno
+      - territoires-en-transitions
 startups:
+  - la.bonne.renov
+  - parcours.de.saisine
+  - chauffage-urbain
+previously:
   - collectif_objets
   - locadocs
+competences:
+  - UX
+  - Coaching
+  - Croissance
+  - Gestion de Produit
 ---
-
-Depuis +10 ans, j'aide les organisations et les équipes projets à mieux comprendre leurs challenges et à saisir des opportunités pour délivrer de la valeur à leur business, à leurs utilisateurs et à leur collaborateurs. 
+Looking for problems worth solving

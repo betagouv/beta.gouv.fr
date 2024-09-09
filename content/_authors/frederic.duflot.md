@@ -9,5 +9,4 @@ missions:
     status: independent
     employer: numa
 ---
-
 Co-fondateur Examin & coach cyber

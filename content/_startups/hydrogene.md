@@ -1,7 +1,6 @@
 ---
 title: Hydrogène
-mission: Accélérer la création de la filière française de production d'hydrogène
-  décarboné
+mission: Accélérer la création de la filière française de production d'hydrogène décarboné
 sponsors:
   - /organisations/mtes
 incubator: mtes
@@ -15,6 +14,10 @@ phases:
 events:
   - name: end
     date: 2021-12-31
+usertypes:
+  - entreprise
+thematiques: []
+techno: []
 ---
 ## Contexte
 
@@ -46,9 +49,7 @@ Hypothèse 3 : la comparaison des projets voisins devrait permettre des achats g
 
 Le souhait, dans un premier temps, est de co-construire et mettre en œuvre de façon artisanale les services imaginés avec des acteurs de terrain avec au moins 1 région et 4 collectivités afin de valider leur pertinence et leur faisabilité avant d’investir dans des développements.
 
-
-
-# Pourquoi cette phase d'investigation n'a pas abouti à une Startup d'Etat ?
+## Pourquoi cette phase d'investigation n'a pas abouti à une Startup d'Etat ?
 
 Après avoir mené une série d'entretiens pour certains approfondis avec plus d'une vingtaine d'acteurs, industriels, institutionnels, présentant des intérêts pour l'hydrogène décarboné.
 

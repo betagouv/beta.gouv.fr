@@ -1,49 +1,83 @@
 ---
-title: Cartobio
+title: CartoBio
 mission: Ouvrir, enrichir et partager les données parcellaires de l’agriculture biologique
-sponsors: 
-    - /organisations/agence-bio
-incubator: dinum
+sponsors:
+  - /organisations/agence-bio
+incubator: agriculture
 phases:
   - name: investigation
     start: 2019-12-19
   - name: construction
     start: 2019-12-19
-link: https://cartobio.org
+  - name: acceleration
+    start: 2023-05-01
+  - name: transfer
+    start: 2024-06-10
+  - name: success
+    start: 2024-07-27
+accessibility_status: non conforme
+link: https://cartobio.agencebio.org
 repository: https://github.com/AgenceBio/cartobio-front
 stats: true
-contact: cartobio@beta.gouv.fr
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#CartoBio
+dashlord_url: https://dashlord.incubateur.net/url/cartobio-agencebio-org/
+contact: cartobio@agencebio.org
+usertypes:
+  - association
+  - collectivite-territoriale
+  - etablissement-scolaire
+  - etat
+thematiques:
+  - Agriculture
 ---
-
 ## Le problème
 
-Aujourd’hui, lorsqu'un agriculteur bio déclare la localisation de ses parcelles à l’Etat pour recevoir des aides, ces données ne sont pas publiées en ligne, ni accessibles aux acteurs de la certification Bio.
-Par ailleurs, dans le cas où un agriculteur engagé en bio ne demande pas d’aides à l’Etat, **il est actuellement impossible de connaître la localisation de ses parcelles !** Ainsi, on estime qu'environ 80% des parcelles en agriculture biologique sont actuellement cartographiées.
+CartoBio répond à un problème auprès de différents acteurs.
 
-De nombreux acteurs publics comme privés sont intéressés par cette donnée:
-  - **Les Agences de l'Eau**, pour mener des études sur la qualité de l'eau mais également favoriser l'implémentation d'agriculteurs biologiques autour des aires d'alimentation et de captage.
-  - **Les SAFER**, afin de pouvoir favoriser le maintien en bio, répondre aux politiques publiques des agglomérations, ou encore donner des informations plus précises sur les annonces de vente.
-  - **Les collectivités territoriales**, avoir accès à l’évolution historique des surfaces engagées en agriculture biologique permettrait d’optimiser les budgets futurs dédiés aux aides à l’agriculture biologique.
-  - **Le monde de la recherche**, afin de mener des études sur l'impact de l'agriculture biologique.
-  
-Mais en premier lieu, les acteurs les plus concernés par la mise à disposition de ces données parcellaires sont les organismes de certification du bio. 
-En ouvrant ces données grâce à un outil numérique de suivi des parcelles cultivées en agriculture biologique rapidement accessible, exhaustif et à jour, CartoBIO permet d’économiser un temps précieux aux inspecteurs et aux agriculteurs pour chacun des 300 contrôles journaliers.
+**Le grand public, la recherche** : absence d’informations géographiques pour mener à bien des programmes de recherche et de politiques publiques.
+Ces informations sont par exemple nécessaires pour réaliser des études poussées sur l’impact du bio sur la santé, l’environnement (qualité de l’eau, biodiversité) et l’adaptation des politiques agricoles locales.
 
-## Cartobio
-Avec Cartobio, les parcelles conduites en agriculture biologique seront connues dans leur intégralité.
-La diffusion de ces données aux différents acteurs publics va permettre la mise en place et l’exécution de politiques publiques informées.
-Les Organismes Certificateurs pourront travailler  de manière plus efficace et les contrôles seront plus rapides chez l’agriculteur.
+**L’administration** : au niveau national, le MASA souhaite se baser sur des données géographiques pour fiabiliser le paiement des aides PAC bio. Au niveau territorial, les DDT font face à des risques juridiques et au caractère chronophage des décisions qui concernent les aides PAC bio.
 
-Enfin, la diffusion du parcellaire bio anonymisé en Open Data permettra une transparence de l’information pour les citoyens, journalistes, politiques etc.
+**Les organismes de certification** : ils regrettent l’absence de supports géographiques pour établir les certificats et les attestations de productions végétales. Cela se traduit par une surcharge de travail lors des audits, ainsi que pendant les périodes de télédéclaration et d’instruction des aides PAC.
 
+**Les agriculteurs et agricultrices** : ils sont confrontés à la recopie régulière des mêmes informations, ce qui est chronophage et fastidieux pour eux.
 
-## Les premiers pas de Cartobio
+## La solution apportée
 
-Cartobio a commencé en 2019 au sein du programme Entrepreneurs d’Intérêt Général. Au cours des 10 mois, deux EIG ont pu redéfinir le problème, rencontrer les acteurs concernés, faire avancer les connaissances de la législation en matière de données aux partenaires, diffuser une première partie des données à une trentaine d’acteurs publics, et développer une permière version de l’application.
-Le passage chez beta.gouv.fr va permettre une industrialisation de l’outil, et de répondre avec plus de précision aux besoins des différentes parties.
+CartoBio constitue et diffuse des données géographiques du parcellaire bio ; certifiées et interopérables entre les acteurs de la certification en agriculture biologique.
 
-Plus d’informations : <a href="http://cartobio.org/" target="_blank">Site officiel de Cartobio</a>, <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cartobio.html" target="_blank">Page EIG du projet</a>, <a href="https://hackmd.io/@lucasbio/cartobio" target="_blank">description détaillée du projet</a>
+Cela prend la forme d’une application web à destination d’agriculteurs, d’agricultrices et des employés d’organismes de certification en agriculture biologique. Elle se synchronise à plusieurs sources de données géographiques pour éviter la recopie d’information (éditeurs de logiciels agricoles, TéléPAC, nCVI…) et favoriser leur diffusion (instructions des aides PAC, observatoires bio, autres aides…).
 
+Concernant la diffusion au plus grand nombre, CartoBio met à disposition un jeu de données anonymisées en Open Data.
 
-Vous êtes intéressé.e par le projet ? <a href="mailto:cartobio@beta.gouv.fr?Subject=Cartobio%20m'intéresse%20!">Contactez-nous !</a>
+## Les partenaires
 
+CartoBio est initié et porté par l’Agence Bio et l’Institut Nationale de l’Origine et de la Qualité (INAO).
+
+Le projet est soutenu par la Direction du Numérique (DINUM), le Ministère de l’Agriculture et de la Souveraineté Alimentaire (MASA) et le Ministère de la Transition Écologique et de la Cohésion des Territoires (MTECT).
+Le projet est soutenu financièrement par l’Office Français de la Biodiversité (OFB) dans le cadre du Plan Ecophyto.
+
+Collaboration avec l’Agence des Services et Paiement (ASP) qui éditent les logiciels TéléPAC et ISIS ; les Douanes qui éditent le Casier Viticole Informatisé (nCVI) ; les Directions Départementales des Territoires (DDT) ; les Organismes Certificateurs ; les acteurs du monde agricole (Cerfrance, Chambres d'agriculture, syndicats agricoles…) ; les éditeurs de logiciels agricoles (Geofolia, MesParcelles, …).
+
+## La Stratégie
+
+CartoBio s’appuie sur la collaboration avec les Organismes Certificateurs pour constituer sa base de données géographique. Nous nous basons sur l’annualité du contrôle bio pour atteindre un parcellaire complet d’ici la fin de la campagne PAC 2024.
+
+Afin d’éviter la recopie de données, CartoBio cherche à se connecter à tous les services contenant de l’information géographique utilisés par les agriculteurs — des références cadastrales textuelles du nCVI jusqu’aux découpes précises des outils de gestion de parcellaires.
+
+Enfin, concernant le jeu de données en open data, il est aujourd’hui disponible au téléchargement dans sa version brute sur <a href="https://www.data.gouv.fr/fr/datasets/616d6531c2951bbe8bd97771/" target="_blank">Data.gouv</a>. L’objectif est de rendre les données intelligibles pour tous via la création d’une interface de visualisation.
+
+## Historique du projet
+
+CartoBio a été initialement proposé par l’Agence Bio & INAO auprès du programme Entrepreneur d’Intérêt Général (EIG), avant d’être incubé par la DINUM sous le programme Beta.gouv.fr.
+<a href="https://eig.etalab.gouv.fr/defis/cartobio/" target="_blank">Découvrir le défi EIG 2019</a>
+
+La première version du projet est d’abord destinée uniquement aux Organismes de Certification, comme un outil supplémentaire de préparation de leur contrôle. L’impact n’a pas été concluant, expliqué par un manque de prise en main de l’outil par les utilisateurs.
+
+En 2021, le projet est redéveloppé en étroite collaboration avec le MASA et le Cebio dans le cadre des aides PAC Bio. CartoBio vise à remplacer l'attestation de production végétale, et d’anticiper l’augmentation du nombre d’engagements en bio.
+
+Le projet est réintégré au sein de l’Agence Bio depuis juillet 2024.
+
+Vous êtes intéressé.e par le projet ?
+<a href="mailto:cartobio@beta.gouv.fr?Subject=Cartobio%20m'intéresse%20!">Contactez-nous !</a>

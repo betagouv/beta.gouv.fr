@@ -8,6 +8,8 @@ missions:
     end: 2022-12-31
     status: service
     employer: Octo
+    startups:
+      - civils-de-la-defense
 startups:
   - civils-de-la-defense
 ---

@@ -2,13 +2,15 @@
 fullname: Karen Mazmanian
 role: Chargé de déploiement
 domaine: Déploiement
+github: karenMzn
 missions:
-  - start: 2021-10-01
-    end: 2021-10-04
+  - start: 2022-04-27
+    end: 2024-03-31
     status: independent
-    employer: Octo
-startups:
+    employer: MALT
+    startups:
+      - annuaire-entreprises
+previously:
   - acceslibre
 ---
-
-Chargé de déploiement AccesLibre 
+🪲

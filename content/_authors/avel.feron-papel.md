@@ -9,5 +9,4 @@ missions:
     status: admin
     employer: MINARM
 ---
-
 Développeur front et joueur de cornemuses à mes temps perdus

@@ -8,16 +8,17 @@ phases:
   - name: investigation
     start: 2020-01-14
   - name: construction
-    start: 2021-03-01
+    start: 2020-03-01
   - name: alumni
     start: 2020-05-01
-link:
-repository: 
-stats: false 
-stats_url: 
+stats: false
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - particulier
+thematiques: []
+techno: []
 ---
-
 ## Problème visé :
 Difficulté des usagers pour trouver le bons interlocuteurs (service / personne compétente) au sein du département.
 73% des personnes interviewées lors d’entretien au Département du Nord ont exprimé une difficulté d’orientation.

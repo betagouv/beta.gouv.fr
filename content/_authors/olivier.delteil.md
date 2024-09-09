@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2022-02-02
-    end: 2022-12-31
+    end: 2024-12-31
     status: admin
     employer: dinum
 startups:
@@ -18,5 +18,4 @@ previously:
 badges:
   - segur
 ---
-
 Mettre en valeur les contenus et data

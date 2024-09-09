@@ -3,16 +3,25 @@ fullname: Nassim Merzouk
 role: Chargé de déploiement
 domaine: Déploiement
 github: nassimmzk
-avatar:
-link: https://www.linkedin.com/in/merzouknassim/
 missions:
   - start: 2020-05-12
-    end: 2022-12-31
+    end: 2025-01-31
     status: independent
     employer: MALT
+    startups:
+      - api-engagement
+      - jeveuxaider
 startups:
-    - jeveuxaider
-    - api-engagement
+  - api-engagement
+previously:
+  - jeveuxaider
+link: https://www.linkedin.com/in/merzouknassim/
+competences:
+  - Croissance
+  - Coaching
+  - Communication
+  - Business Developpement
+  - Négociation
+  - Stratégie Commercial
+  - Stratégie de Partenariat
 ---
-
-Développe le réseau de projets à impacts positifs

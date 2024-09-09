@@ -2,13 +2,14 @@
 fullname: Fabien Leborgne
 role: Développeur Fullstack
 domaine: Développement
+github: fabiengo
 missions:
   - start: 2022-03-02
-    end: 2023-02-28
+    end: 2024-12-31
     status: independent
+    startups:
+      - dossierfacile
 startups:
-  - locatio
+  - dossierfacile
 ---
-
-Développeur le jour et parfois la nuit.
-J'ai vu l'intégrale de MyLittlePony, Miraculous, Mia et moi, et je suis déjà à la saison 5 de Pokemon.
+Développeur bienveillant et pragmatique, architecte de solutions élégantes et efficaces.

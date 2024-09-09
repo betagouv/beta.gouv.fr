@@ -8,9 +8,10 @@ missions:
     end: 2018-12-31
     status: service
     employer: NUMA
+    startups:
+      - cobot
 startups:
-    - co-construisons
+  - cobot
 github: roxanesch
 ---
-
 Fan d'utilité sociale

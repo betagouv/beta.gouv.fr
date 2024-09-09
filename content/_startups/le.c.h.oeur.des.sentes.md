@@ -11,6 +11,8 @@ phases:
     end: 2020-01-31
   - name: alumni
     start: 2020-02-01
+usertypes:
+  - particulier
 ---
 **Contexte**
 

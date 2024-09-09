@@ -13,7 +13,6 @@ missions:
     status: admin
     employer: dinum
 startups:
-    - data.gouv.fr
+  - data.gouv.fr
 ---
-
 KISS.

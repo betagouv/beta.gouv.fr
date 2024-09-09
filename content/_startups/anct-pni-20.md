@@ -1,18 +1,15 @@
 ---
-title: Programme national d'investigation (20)
-mission: Suivre limpact des engagements usagers du territoire seine Saint Denis
+title: Suivre limpact des engagements usagers du territoire seine Saint Denis
+mission: Programme national d'investigation (20)
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2021-06-01
   - name: alumni
     start: 2021-11-01
-link: 
-repository: 
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
 ---
 Suivre l'impact des engagements usagers du CD93 par des indicateurs de la qualité perçue par les usagers en complément de la démarche d'indicateurs de gestion portée par la DirFi

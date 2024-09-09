@@ -5,11 +5,10 @@ domaine: Déploiement
 github: PaulPoupett
 missions:
   - start: 2022-02-21
-    end: 2024-12-12
+    end: 2022-08-01
     status: independent
-startups:
+previously:
   - api.gouv.fr
 badges:
   - segur
 ---
-

@@ -1,12 +1,12 @@
 ---
 title: Bureaux vacants
 mission: Transformer les bureaux vacants en logement
-sponsors: 
-    - /organisations/dgaln
+sponsors:
+  - /organisations/dgaln
 incubator: mtes
 contact: guillaume.coppe@beta.gouv.fr
 phases:
-  - name: investigation
+  - name: alumni
     start: 2021-09-10
 ---
 ## Le problème
@@ -31,3 +31,34 @@ Une politique publique volontariste est légitime car les externalisations sont 
 \- Recueillir et analyser les attentes des élus et des services déconcentrés de l’Etat ;
 
 \- Expérimenter sur un territoire concerné et volontaire.
+
+## Post Mortem
+
+**Méthodologie de recherche pendant la phase d'investigation**
+
+Septembre 2021 : lancement de l’investigation pour 9 semaines
+16 entretiens sur 10 territoires (villes, intercommunalités, DDT, agence d’urbanisme)
+- collectivités qui ne connaissent pas ou peu leur parc de bureau vacant (quelques processus artisanaux pour y arriver)
+- intérêt sur le sujet pour certaines collectivités mais pas d’irritant marqué
+
+28/11/2021 : comité de fin d’investigation
+Décision de tester avec une ville volontaire la mise à disposition de données sur le parc de bureau et de valider l’intérêt opérationnel derrière 
+Choix d’ouvrir la problématique à la vacance de bureaux en général sans se limiter à la transformation en logement.
+
+Janvier/ février 2022 : poursuite d’ investigation avec la métropole de Strasbourg
+Mise à disposition d’un premier jeu de données (combinaison de données de la base SIRENE et des fichiers fonciers du CEREMA) avec visualisation cartographique.
+Cependant difficulté à passer à l’étape d’après (identification de bâtiments sur lesquels travailler) à partir des données disponibles.
+
+Mars 2022 : clôture de l’investigation Bureau Vacant et fin de l'approche Startup d'état
+
+L'expérimentation a permis une meilleure connaissance du parc économique et de l’’obsolescence de bâtiments d’activités et a renforcé les arguments pour limiter la construction de bâtiments neufs.
+
+## POURQUOI ABANDONNER L’APPROCHE START-UP D’ETAT ?
+L’investigation a démontré que le problème de la vacance des bureaux n'est pas encore considéré à date comme un problème majeur, réel et actionnable.
+Le problème est encore trop peu conscientisé par les collectivités et la souffrance induite relativement faible voir inexistante selon les collectivités interrogées.
+Enfin, il n’est pas apparu de service numérique innovant et unique pour les collectivités permettant de lever un irritant sur la problématique des bureaux vacants. 
+
+Néanmoins, l'évolution du problème de la vacance des bureaux devrait s’accentuer avec le temps, parallèlement aux politiques visant le zéro artificialisation. 
+Un travail de veille sur la problématique nous apparaît comme indispensable pour anticiper les changements et l’accompagnement à venir des collectivités dans ce type de réhabilitation.
+Enfin, la mise à disposition des données consolidées permettant les réflexions sur ce type d'aménagement reste un premier travail apportant de la valeur pour les collectivités qui commencent à y réfléchir.
+

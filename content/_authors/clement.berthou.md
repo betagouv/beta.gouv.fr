@@ -5,9 +5,11 @@ role: Développeur
 github: cberthou
 missions:
   - start: 2019-04-26
-    end: 2022-12-26
+    end: 2022-10-25
     status: service
     employer: benext
+    startups:
+      - fiche.commune.entreprise.fce
 startups:
   - fiche.commune.entreprise.fce
 competences:

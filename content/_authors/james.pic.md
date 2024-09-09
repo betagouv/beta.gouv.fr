@@ -7,9 +7,10 @@ missions:
     end: 2019-12-31
     status: independent
     employer: YourLabs
+    startups:
+      - mrs
 github: jpic
 startups:
-    - mrs
+  - mrs
 ---
-
 Consultant [YourLabs](https://yourlabs.org), [marque de logiciels libres](https://yourlabs.fr) propulsant [MRS](https://www.mrs.beta.gouv.fr)

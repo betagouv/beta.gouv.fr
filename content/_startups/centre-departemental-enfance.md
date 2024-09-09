@@ -5,17 +5,15 @@ sponsors:
   - /organisations/departement-var
 incubator: anct
 phases:
-    - name: investigation
-      start: 2019-02-04
-    - name: alumni
-      start: 2019-07-15
-link:
-repository: 
-stats: false 
-stats_url: 
-contact: contactincubateur@anct.gouv.fr 
+  - name: investigation
+    start: 2019-02-04
+  - name: alumni
+    start: 2019-07-15
+stats: false
+contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - collectivite-territoriale
 ---
-
 ## Problème visé :
 Chaque année, en moyenne, 700 enfants sont accueillis au Centre Départemental de l’Enfance du Var.
 Très peu d'informations administratives, éducatives ou médicales sont disponibles à l’arrivée de l’enfant au sein des CDE !

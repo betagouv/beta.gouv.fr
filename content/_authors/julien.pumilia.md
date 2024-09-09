@@ -5,11 +5,14 @@ domaine: Déploiement
 link: https://www.julienpumilia.com/
 github: Julien2751
 missions:
-  - start: 2022-01-03
-    end: 2022-04-29
+  - start: 2023-05-15
+    end: 2023-11-10
     status: independent
-    employer: Octo
+    employer: Opteamis
+    startups:
+      - signalement
 startups:
+  - signalement
+previously:
   - dora
 ---
-

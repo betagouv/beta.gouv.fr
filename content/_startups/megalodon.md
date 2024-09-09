@@ -2,15 +2,14 @@
 title: Megalodon
 mission: Faciliter la rédaction d'un cahier des clauses techniques particulières (CCTP)
 sponsors:
-    - /organisations/armees
+  - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation
     start: 2020-11-01
 stats: false
-contact: romain.perroud@def.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 ---
-
 ## Contexte
 Megalodon a été initié suite à la difficulté rencontrée par une entité dans la rédaction d’un CCTP (Cahier des clauses techniques particulières).
 Un responsable de la conduite du projet (RCP) est désigné pour rédiger ce CCTP, en coordination avec les relecteurs du Ministère qui s’occupent de vérifier que les exigences techniques correspondent bien au besoin fonctionnel exprimé, et qu’ils soient conformes au CCT (cadre de cohérence technique), etc.

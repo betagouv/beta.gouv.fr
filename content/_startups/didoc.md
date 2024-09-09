@@ -5,12 +5,19 @@ sponsors:
   - /organisations/ars-franche-comte
 incubator: sgmas
 contact: Valerie.AGLIETTI@ars.sante.fr
+usertypes:
+  - particulier
+  - etat
 stats: false
+events:
+  - name: end
+    date: 2022-03-15
 phases:
   - name: investigation
     start: 2020-01-15
-  - name: construction
+  - name: alumni
     start: 2020-03-15
+    end: 2022-06-01
 ---
 ## Contexte
 

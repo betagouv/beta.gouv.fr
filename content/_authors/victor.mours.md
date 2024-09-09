@@ -5,11 +5,12 @@ domaine: Développement
 github: victormours
 missions:
   - start: 2022-02-07
-    end: 2022-05-07
+    end: 2024-12-31
     status: independent
     employer: Scopyleft
+    startups:
+      - rdv-service-public
 startups:
-  - lapins
+  - rdv-service-public
 ---
-
 Développeur web

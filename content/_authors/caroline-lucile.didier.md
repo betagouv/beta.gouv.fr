@@ -4,11 +4,13 @@ domaine: Intraprenariat
 role: Intrapreneure
 missions:
   - start: 2021-02-25
-    end: 2022-03-31
+    end: 2022-06-30
     status: admin
     employer: Ministère de la Justice
+    startups:
+      - infoparquet
 startups:
-  - article.40
+  - infoparquet
 previously: []
 competences:
   - Administration Publique

@@ -5,14 +5,13 @@ domaine: Développement
 github: qblanc
 missions:
   - start: 2021-03-08
-    end: 2022-06-30
+    end: 2024-12-30
     status: independent
-    employer: Octo
+    employer: Malt/GIP Plateforme de l'Inclusion
+    startups:
+      - rdv.insertion
 startups:
-  - data.insertion
+  - rdv.insertion
 badges:
   - segur
 ---
-
-Développeur web, journaliste et formateur.  
-J'aime bien écrire des trucs.

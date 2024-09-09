@@ -10,11 +10,21 @@ missions:
     employer: NUMA
   - start: 2021-12-01
     end: 2022-10-31
-    employer: Octo
     status: independent
+    employer: Octo
+  - start: 2022-09-12
+    end: 2025-01-31
+    status: independent
+    employer: NUMA
+incubator: fab-geocommuns
+startups:
+  - mission.debroussaillement
+  - inventaire.zae
+  - monprojetsup
+previously:
+  - aides.jeunes
+  - artsducirque
 competences:
   - Coaching
-startups:
-  - aides.jeunes
 ---
 Service designer enthousiaste

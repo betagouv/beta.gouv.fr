@@ -1,0 +1,76 @@
+---
+layout: null
+---
+
+{ "links":
+    { "self": "{{ site.url }}/startups" }
+, "data":
+    [
+    {% for startup in site.startups %}
+        { "id"        : "{{ startup.id | remove: '/startups/' }}"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"  : "{{ startup.title }}"
+            , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
+            , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}
+            {% if startup.budget_url %}
+            ,"budget_url": "{{ startup.budget_url }}"{% endif %}{% if startup.link %}
+            , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
+            , "repository": "{{ startup.repository}}"{% endif %}
+            , "contact": "{{startup.contact}}"
+            , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
+            , "events": [
+                {% for event in startup.events %}
+                    { "name": "{{event.name}}", "date": "{{event.date}}", "comment": "{{event.comment}}"}{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+                ]
+            , "phases": [
+                {% for phase in startup.phases %}
+                    { "name": "{{phase.name}}", "start": "{{phase.start}}", "end": "{{phase.end}}"}{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+                ]
+            , "sponsors": [
+                {% for sponsor in startup.sponsors %}
+                    "{{sponsor | remove: '/organisations/' }}"{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+            ]
+            {% if startup.analyse_risques %}
+            , "analyse_risques": "{{ startup.analyse_risques}}"
+            {% endif %}
+            {% if startup.analyse_risques_url %}
+            , "analyse_risques_url": "{{ startup.analyse_risques_url}}"
+            {% endif %}
+            {% if startup.dashlord_url %}
+            , "dashlord_url": "{{ startup.dashlord_url}}"
+            {% endif %}
+            {% if startup.accessibility_status %}
+            , "accessibility_status": "{{ startup.accessibility_status}}"
+            {% endif %}
+            }
+        , "relationships":
+            { "incubator":
+                { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
+                }
+            }
+        }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+, "included":
+    [
+    {% for incubator in site.incubators %}
+        { "id"        : "{{ incubator.id | remove:'/incubateurs/approche' }}"
+        , "type"      : "incubator"
+        , "attributes":
+            { "title"  : "{{ incubator.title }}"
+            , "owner"  : "{{ incubator.owner }}"
+            , "website": "{{ incubator.website }}"
+            , "github" : "{{ incubator.github }}"
+            , "contact": "{{ incubator.contact }}"
+            }
+        }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+
+}

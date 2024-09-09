@@ -9,5 +9,4 @@ missions:
     status: admin
     employer: Gouvernement de la Nouvelle-Calédonie
 ---
-
-Faire du numérique un levier de transformation de l'action publique en Nouvelle-Calédonie.                                           
+Faire du numérique un levier de transformation de l'action publique en Nouvelle-Calédonie.

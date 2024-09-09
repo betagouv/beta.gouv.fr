@@ -2,7 +2,7 @@
 title: Culture RIM
 mission: Améliorer le suivi des réunions interministérielles
 sponsors:
-    - /organisations/mc
+  - /organisations/mc
 incubator: culture
 phases:
   - name: investigation
@@ -10,9 +10,8 @@ phases:
     end: 2021-12-31
   - name: alumni
     start: 2021-12-31
-link:
-repository:
 stats: false
-stats_url:
 contact: ateliernumerique@culture.gouv.fr
+usertypes:
+  - etat
 ---

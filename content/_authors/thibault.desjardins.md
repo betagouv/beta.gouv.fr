@@ -1,22 +1,27 @@
 ---
 fullname: Thibault Desjardins
 domaine: Déploiement
-role: Chargé de déploiement
+role: Responsable de portefeuille Intérieur
 github: Tibo-aplus
 missions:
-  - employer: octo
-    end: 2022-12-31
-    start: 2019-10-01
+  - start: 2019-10-01
+    end: 2024-01-01
     status: independent
-startups:
-  - histologe
+    employer: octo
+  - start: 2024-01-02
+    end: 2026-10-01
+    status: admin
+    employer: DINUM
 previously:
   - aplus
-  - place-des-entreprises
-  - conseiller-numerique
+  - conseillers-entreprises
+  - france-numerique-ensemble
+  - histologe
 badges:
   - segur
 competences:
   - Croissance
   - Administration Publique
+teams:
+  - /teams/animation-dinum
 ---

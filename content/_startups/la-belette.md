@@ -5,20 +5,20 @@ sponsors:
   - /organisations/anct
 incubator: anct
 phases:
+  - name: construction
+    start: 2020-03-01
   - name: investigation
     start: 2020-04-01
     end: 2020-07-07
-  - name: construction
-    start: 2021-03-01
   - name: alumni
     start: 2020-05-01
-link:
-repository:
 stats: false
-stats_url:
 contact: incubateur@anct.gouv.fr
+usertypes:
+  - particulier
+thematiques: []
+techno: []
 ---
-
 ## Problème visé
 
 **Nous ne savons pas orienter les usagers qui nous contactent.**

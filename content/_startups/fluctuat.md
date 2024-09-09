@@ -1,8 +1,8 @@
 ---
 title: Fluctu@t
-mission:  Aider au développement du transport fluvial en France
+mission: Aider au développement du transport fluvial en France
 sponsors:
-    - /organisations/dgitm
+  - /organisations/dgitm
 incubator: mtes
 events:
   - name: end
@@ -16,12 +16,11 @@ phases:
     end: 2019-09-01
   - name: alumni
     start: 2019-09-01
-link:
-repository:
 stats: false
 contact: karl.dupart@developpement-durable.gouv.fr
+usertypes:
+  - entreprise
 ---
-
 ## Le contexte
 La réglementation prévoit qu’une la lettre de voiture accompagne la marchandise dans le transport fluvial. Ce document doit être présenté aux autorités de contrôle à leur demande. Ce document est essentiel car il garantit que la marchandise a été chargée et déchargée conformément à l'accord passé entre le donneur d'ordre et le transporteur. Il comtient des informations liées à la marchandise elle-même, ainsi qu'au voyage.
 

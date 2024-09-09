@@ -8,50 +8,34 @@ on:
 
 jobs:
   test:
-
-    runs-on: ubuntu-18.04
-
+    runs-on: ubuntu-22.04
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
+
+    - name: Lint markdown pages
+      run: yarn --cwd=ci && node ci/tests-fiches.mjs
+
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.6
-    - uses: actions/cache@v2
-      with:
-        path: |
-          vendor/bundle
-          ~/.local
-          ~/.cache
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-
+        ruby-version: 3.3.4
+        bundler-cache: true
     - name: Install npm dependencies
-      run: npm install
-
-    - uses: actions/setup-python@v2
+      uses: actions/setup-node@v4
       with:
-        python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
-    - name: Install python dependencies
-      run: pip3 install -r requirements.txt
+        node-version: 18
+        cache: 'npm'
+    - run: npm ci
 
-    - name: Install dependencies
-      run: bundle check || bundle install --path vendor/bundle
     - name: Unit tests
-      run: ruby -e "Dir.glob('rb/test/*.rb').each { |f| require File.expand_path(f) }"
+      run: bundle exec rspec
 
-    - name: Check author metadata
-      run: ruby rb/bin/validate rb/schema/authors.yml "content/_authors/*.md"
-
-    - name: Check startup metadata
-      run: ruby rb/bin/validate rb/schema/startups.yml "content/_startups/*.md"
-
-    - name: Check organisation metadata
-      run: ruby rb/bin/validate rb/schema/organisations.yml "content/_organisations/*.md"
+    # - name: Check data structure
+    #  run: make validate
 
     - name: "Check authors file name structure (first_name.last_name.md)"
       run: |
-            if ls content/_authors | grep --line-regexp --invert-match '[a-z_-]\+\.[a-z_-]\+\.md'
+            if ls content/_authors | grep --line-regexp --invert-match '[a-z_.-]\+\.[a-z_.-]\+\.md'
             then cat <<EOF
               One or more authors do not have the expected structure.
               Contact a website administrator if your generated author file breaks the validator.
@@ -64,40 +48,23 @@ jobs:
               exit 1
             fi
 
-    - name: "Check yaml syntax (yamllint)"
-      run: |
-            ret=0
-            for dir in content/_startups content/_authors ; do
-              set +e
-              echo "Scan $dir/*.md"
-              time ci/check_yaml_front_matter_metadata.sh "$dir/*.md"
-              ret=$?
-            done
-            exit $ret
-
     - name: Check Jekyll configuration
       run: bundle exec jekyll doctor
 
     - name: Jekyll build
       run: bundle exec jekyll build --trace
 
-    - name: Check homepage was compiled
-      run: test -s _site/index.html
-
     - name: Check HTML common mistakes
-      run: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
+      run: make html-proofer
 
     - name: HTML5 Validator
       uses: Cyb3r-Jak3/html5validator-action@master
       with:
         root: _site
-        extra: --ignore 'Element "img" is missing required attribute "src"'
+        skip_git_check: true
 
     - name: Lint JSON API pages
       run: bundle exec jsonlint _site/api/v*/*.json
-
-    - name: Check Beta Startups and Members details error
-      run: time ci/check_beta_startups_members_details.py
 
     - name: Wait for server to start
       run: |

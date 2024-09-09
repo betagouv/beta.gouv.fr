@@ -5,14 +5,17 @@ role: Développeur
 github: tglatt
 missions:
   - start: 2021-06-28
-    end: 2022-05-31
+    end: 2024-10-31
     status: independent
+    startups:
+      - mon-suivi-social
 previously:
   - tremplin
   - workinfrance
   - e-mjpm
-startups:
   - carnet.de.bord
+startups:
+  - mon-suivi-social
 competences:
   - Développement Frontend
   - Développement Backend

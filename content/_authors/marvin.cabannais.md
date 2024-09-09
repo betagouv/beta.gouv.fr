@@ -8,6 +8,8 @@ missions:
     end: 2022-12-31
     status: independent
     employer: octo
+    startups:
+      - monstage
 startups:
   - monstage
 competences:

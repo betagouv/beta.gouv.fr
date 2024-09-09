@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: La Zone
 startups:
-  - territoires-en-transitions
   - l-immersion-facile
+previously:
+  - territoires-en-transitions
 ---
-
 [Développeuse/Data-Scientist] Python, Typescript, TDD, Clean-Archi, Open-Source. Aime la grimpe, le surf, les données, et le code à quatre mains !

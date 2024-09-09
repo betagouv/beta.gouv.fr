@@ -8,8 +8,9 @@ missions:
     end: 2020-07-31
     status: independent
     employer: inop's
+    startups:
+      - perspectives
 startups:
-    - perspectives
+  - perspectives
 ---
-
 Développeur sur Perspectives

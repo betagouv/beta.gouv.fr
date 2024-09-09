@@ -1,6 +1,6 @@
 ---
-title: Le Taxi
-mission: Commander un taxi, rapidement
+title: le.taxi
+mission: Un taxi, tout de suite !
 sponsors:
   - /organisations/dgitm
 incubator: mtes
@@ -14,26 +14,34 @@ phases:
 link: https://le.taxi
 repository: https://github.com/openmaraude/APITaxi
 stats: true
-contact: ishan.bhojwani@beta.gouv.fr
+contact: equipe@le.taxi
 redirect_from:
   - /startups/taxi
+usertypes:
+  - particulier
+  - entreprise
+dashlord_url: https://mtes-mct.github.io/dashlord/url/le-taxi/
+accessibility_status: non conforme
+thematiques:
+  - Transports
 ---
-
-Le Taxi, c'est plus de 50 000 chauffeurs en France, partout sur le territoire, de la plus petite commune à la plus grande métropole.
+le.taxi, c'est plus de 60 000 chauffeurs en France, métropolitaine et Outre-Mer, partout sur le territoire, de la plus petite commune à la plus grande métropole que l'on peut solliciter pour une course immédiate à l'aide de son smartphone.
 
 Disponibilité
--------------
+-
 
-Le Taxi c'est la garantie de commander immédiatement un véhicule au plus près, quel que soit le lieu, le jour ou l'heure.
+le.taxi c'est la garantie de commander immédiatement un taxi disponible (lumineux au vert) au plus près, quel que soit le lieu, le jour ou l'heure. L'api le.taxi est aujourd'hui connectée à plus d'une dizaine d'applications qui permettent aux usagers de solliciter un taxi d'une part, et aux chauffeurs taxis de répondre à la demande de ces usagers. Les chauffeurs taxis utilisent pour cela des applications chauffeurs, listées sur https://le.taxi/partners afin de recevoir des demandes de courses immédiates. Quant aux personnes à la recherche d'un taxi, elles sont invitées à utiliser une application client parmi celles figurant sur https://le.taxi/partners.
+
 
 Qualité
--------
+-
 
-Le Taxi, c'est une exigence de qualité renforcée, car ce sont désormais les usagers qui participent à l'évaluation permanente du service.
+le.taxi, c'est une exigence de qualité renforcée, pour répondre aux besoins des usagers.
+
 
 Sécurité
---------
+--
 
-Le Taxi c'est la garantie d'un chauffeur professionnel et d'applications agréées respectueuses de la vie privée.
+le.taxi c'est la garantie d'un chauffeur professionnel et d'applications agréées respectueuses de la vie privée.
 
-Sur son smartphone, le client utilise n'importe quelle application agréée pour héler un taxi au plus près, partout en France, 24h/24. Le chauffeur de taxi qui a décidé d'être visible et qui est dans sa zone de prise charge utilise ses outils habituels (terminal embarqué ou application mobile) pour confirmer la course. Le client paie sa course directement au chauffeur, en liquide ou par carte bancaire. Le client peut évaluer la course.
+Chaque chauffeur taxi est tenu de renseigner un certain nombre d'informations pour avoir la capacité de répondre aux demandes de courses immédiates.

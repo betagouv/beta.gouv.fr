@@ -8,6 +8,8 @@ missions:
     end: 2022-03-30
     status: independent
     employer: octo
+    startups:
+      - mission-transition-ecologique
 startups:
   - mission-transition-ecologique
 competences:

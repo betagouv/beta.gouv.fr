@@ -1,49 +1,57 @@
 ---
 layout: default
+lang: en
 ---
 
-{% include hero-with-image.html title=page.summary image="/img/layouts/home/index.jpg" %}
-
-<section class="fr-py-6w section-grey mosaic">
+<section class="section-blue section-main">
   <div class="fr-container">
-    <div class="row public-agents inverted">
-      <div class="photo agents"></div>
-      <div class="stacked">
-        <div class="description">
-          <h2>{{ site.startups | size }} State Startups - and counting.</h2>
-          <p>A State Startup is not just an oxymoron, but a match between a team and a mission. There is no capital investment, no separate juridical entity, only the usage of the tools and practices of the digital startups to solve a friction in an interaction an administration has with citizens.</p>
+     <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+        <div class="fr-col fr-col-12 fr-col-md-9">
+           <h1>{{ page.summary }}</h1>
+           <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white fr-mt-2w" href="/en/about/">Find out more!</a>
         </div>
-        <div class="row">
-          <a class="link" href="/en/about/" style="text-align:center;">
-            <img src="../img/layouts/home/icons/tools.svg" alt="Tools icon" />
-            <p>Find out more!</p>
-          </a>
+        <div class="fr-col fr-col-12 fr-col-md-3 hidden-mobile">
+           <div class="home-hero-anim">
+              <img src="/assets/home/heroanim/screen.svg" alt="" />
+           </div>
         </div>
-      </div>
-    </div>
-    <div class="row developers">
-      <div class="photo decideurs"></div>
-      <div class="stacked">
-        <div class="description">
-          <h2>How State Startups work</h2>
-          <ol>
-            <li>A civil servant <strong>investigates a pain point</strong> affecting citizens dealing with government.</li>
-            <li>A team of two to four <strong>builds a product</strong> in under six months using modern technologies.</li>
-            <li>The team <strong>scales the service out</strong> by meeting the needs of a broader user population.</li>
-            <li>A public sector body <strong>assumes ownership</strong> of the product and continuously improves it.</li>
-          </ol>
-        </div>
-        <div class="row">
-          <a class="link" href="/startups/">
-            <img src="../img/layouts/home/icons/rocket.svg" alt="Rocket icon" />
-            <p>Our State Startups (FR)</p>
-          </a>
-          <a class="link" href="/communaute/">
-            <img src="../img/layouts/home/icons/people.svg" alt="People icon" />
-            <p>Our Community (FR)</p>
-          </a>
-        </div>
-      </div>
-    </div>
+     </div>
   </div>
 </section>
+
+<hr class="fr-grid-row fr-col-7 fr-mt-7w" aria-hidden="true">
+<section class="fr-py-6w">
+  <div class="fr-container">
+     <div class="fr-grid-row fr-grid-row--gutters">
+        <div class="fr-col-md-8 fr-col-12 fr-col-offset-md-2">
+           <h2>{{ site.startups | size }} State Startups - and counting.</h2>
+           <p>A State Startup is not just an oxymoron, but a match between a team and a mission.
+             There is no capital investment, no separate juridical entity, only the usage of the tools and practices of the digital
+             startups to solve a friction in an interaction an administration has with citizens.
+           </p>
+
+           <h2>How State Startups work</h2>
+           <ol class="fr-mb-5w">
+             <li>A civil servant <strong>investigates a pain point</strong> affecting citizens dealing with government.</li>
+             <li>A team of two to four <strong>builds a product</strong> in under six months using modern technologies.</li>
+             <li>The team <strong>scales the service out</strong> by meeting the needs of a broader user population.</li>
+             <li>A public sector body <strong>assumes ownership</strong> of the product and continuously improves it.</li>
+           </ol>
+
+           <ul class="fr-btns-group fr-btns-group--inline">
+              <li>
+                  <a class="fr-btn" href="/startups/">
+                    Discover our State Startups (FR)
+                  </a>
+               </li>
+               <li>
+                  <a class="fr-btn" href="/communaute/">
+                    Discover our Community (FR)
+                  </a>
+               </li>
+           </ul>
+        </div>
+     </div>
+  </div>
+</section>
+<hr class="fr-grid-row--end fr-col-offset-2 fr-col-offset-5 fr-mb-7w" aria-hidden="true">

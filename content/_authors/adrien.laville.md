@@ -9,15 +9,22 @@ missions:
     end: 2022-12-31
     status: service
     employer: NUMA
+  - start: 2023-12-31
+    end: 2026-12-31
+    status: admin
+    employer: DINUM
 startups:
-  - zero-logement-vacant
+  - identite-numerique-agricole
 previously:
   - mission-transition-ecologique
   - domifa
   - docurba
   - conseau
   - tremplin
+  - zero-logement-vacant
 competences:
   - Coaching
   - Gestion de Produit
+teams:
+  - /teams/animation-dinum
 ---

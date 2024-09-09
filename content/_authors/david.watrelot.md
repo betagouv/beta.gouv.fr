@@ -6,11 +6,12 @@ link: https://www.hellodeloo.com
 github: hellodeloo
 missions:
   - start: 2021-03-08
-    end: 2022-12-31
+    end: 2024-12-31
     status: independent
     employer: Octo
+    startups:
+      - les-emplois
 startups:
-  - itou
+  - les-emplois
 ---
-
-Intégrateur html, web & développeur front-end
+Intégrateur web, développeur front-end pour la plateforme de l'inclusion

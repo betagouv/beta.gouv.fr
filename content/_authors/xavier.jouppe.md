@@ -1,20 +1,21 @@
 ---
 fullname: Xavier Jouppe
-role: Développeur
+role: Product Owner
 domaine: Développement
 github: XavierJp
-avatar:
-link:
 missions:
-    - start: 2020-02-05
-      end: 2024-01-31
-      status: independent
-      employer: OCTO
+  - start: 2020-02-05
+    end: 2021-12-30
+    status: independent
+    employer: OCTO
+  - start: 2021-12-31
+    end: 2026-03-14
+    status: admin
+    employer: dinum
 startups:
-    - api.gouv.fr
-    - datapass
-    - annuaire-entreprises
+  - annuaire-entreprises
 previously:
+  - datapass
+  - api.gouv.fr
 ---
-
 🦀

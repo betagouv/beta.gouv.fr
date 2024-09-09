@@ -1,7 +1,6 @@
 ---
 title: Lab Agora
-mission: Améliorer la mise en relation des acteurs qui œuvrent pour
-  l’amélioration de la vie des patients atteints de cancer
+mission: Améliorer la mise en relation des acteurs qui œuvrent pour l’amélioration de la vie des patients atteints de cancer
 sponsors:
   - /organisations/inca
 incubator: dinum
@@ -12,11 +11,18 @@ phases:
     end: 2021-03-31
   - name: construction
     start: 2021-04-21
-    end: 2021-12-31
+    end: 2022-01-10
+  - name: alumni
+    start: 2022-01-10
 link: https://lab-agora.softr.app
 repository: https://github.com/betagouv/inca-app
+usertypes:
+  - particulier
+  - entreprise
+thematiques: []
+techno: []
 ---
-# Contexte 
+## Contexte 
 
 Quelques chiffres sur les patients atteints de cancer : 
  - 400 000 nouveaux cas par an ;
@@ -35,7 +41,7 @@ Cette affirmation s'appuie sur les données suivantes :
  - 70% à 95% des investissements publics et privés en recherche des TIC ne réussissent pas à produire une valeur de marché significative ;
  - 75% des consommateurs jugent que l’usage des TIC induit un niveau de stress accru par manque d’interaction avec les usagers dans toutes les phases de conception et développement. (Source :  Coll, umvelt, Montréal in vivo mars 2014).
 
-# Notre hypothèse de problème
+## Notre hypothèse de problème
 
 Nous pensons que cela est en partie dû à une mauvaise coordination des différents acteurs et à un manque de collaboration avec les patients.
 

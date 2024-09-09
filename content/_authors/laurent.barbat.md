@@ -1,16 +1,38 @@
 ---
 fullname: Laurent Barbat
-domaine: Design
-role: UX Designer
+domaine: Coaching
+link: https://www.linkedin.com/in/laurentbarbat/
+role: UX Designer, Coach
 github: laurentux
 missions:
   - start: 2021-09-21
-    end: 2022-09-13
+    end: 2023-12-31
     status: independent
-    employer: DGFip
+    employer: LBC
+    startups:
+      - ecobalyse
+  - start: 2023-04-03
+    end: 2023-07-12
+    status: independent
+    employer: Numa
+    startups:
+      - aldo
+  - start: 2023-06-12
+    end: 2025-05-31
+    status: independent
+    employer: Numa
+    startups:
+      - tacct
 startups:
-  - attractivite.des.territoires
+  - ecobalyse
+  - tacct
 competences:
-  - UX
+  - Product strategy
+  - Coaching
+  - Product design
+  - Facilitation
+previously:
+  - attractivite.des.territoires
+  - aldo
 ---
 Designer de service, UX & Facilitation

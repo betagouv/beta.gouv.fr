@@ -1,6 +1,6 @@
 ---
 fullname: Inès Hijazi
-role: Co-animatrice du programme beta.gouv.fr
+role: Co-animatrice du programme beta.gouv.fr | Responsable de la Brigade
 domaine: Animation
 link: https://twitter.com/hijazi_i
 github: ineshijazi
@@ -10,13 +10,15 @@ missions:
     status: independent
     employer: icc
   - start: 2020-03-02
-    end: 2023-03-01
+    end: 2024-12-15
     status: admin
     employer: dinum
+  - start: 2023-04-02
+    end: 2024-12-15
+    status: independent
+    employer: malt
 startups:
-  - sante-psy-etudiant
-  - psyenfantado
-  - data-subvention
+  - les-emplois
 previously:
   - jeveuxaider
   - eac
@@ -24,6 +26,11 @@ previously:
   - culture_amateurs
   - e-inspé
   - histologe
+  - data-subvention
+  - sante-psy-etudiant
+  - psyenfantado
 badges:
   - segur
+teams:
+  - /teams/gip-inclusion
 ---

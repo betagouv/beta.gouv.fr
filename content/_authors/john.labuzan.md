@@ -1,23 +1,44 @@
 ---
 fullname: John Labuzan 🌞
-domaine: Produit
-role: Product Owner, UX design & Growth
+domaine: Coaching
+role: Expert FAST, Product Owner, Growth🎯
 github: jondu33
-avatar: https://media-exp1.licdn.com/dms/image/C5603AQHcDRJx5hX98w/profile-displayphoto-shrink_800_800/0/1516576339567?e=1636588800&v=beta&t=eKUKqVLxCTr5PnvwjMc-kq7vkgTphAQ61Whl1BbQDxU
+avatar: /img/authors/johnlabuzan.jpeg
 link: https://fair-fair.fr
 missions:
   - start: 2019-07-02
-    end: 2022-06-30
+    end: 2025-06-30
     status: independent
-    employer: fair-fair.fr
+    employer: Numa
+    startups:
+      - aides-territoires
+      - boursoloco
+      - chauffage-urbain
+      - conseillers-entreprises
+      - lannuaire.des.collectivites
+      - mediature
+      - mon.espace.collectivite
+      - nosgestesclimat
+      - signalement
 startups:
-  - commun.orientation
+  - chauffage-urbain
+  - conseillers-entreprises
+  - signalement
+  - mediature
+  - lannuaire.des.collectivites
 previously:
   - aides-territoires
+  - jeveuxaider
+  - mediature
+  - commun.orientation
+  - apilos
+  - nosgestesclimat
 competences:
   - UX
   - Gestion de Produit
   - Coaching
   - Communication
+teams:
+  - /teams/fast-dinum
 ---
 Product design, Marketing digital, SEO, SEA, TikTok 🤘

@@ -1,15 +1,16 @@
 ---
 fullname: Vincent Chéry
 role: Data Scientist
-domaine: Développement
+domaine: Data
 github: vincentantoine
 missions:
   - start: 2021-12-20
-    end: 2022-06-30
+    end: 2024-12-31
     status: independent
     employer: Octo
+    startups:
+      - monitorfish
 startups:
   - monitorfish
 ---
-
 Data scientist/engineer, option poissons ><>

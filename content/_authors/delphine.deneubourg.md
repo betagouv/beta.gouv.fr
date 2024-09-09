@@ -1,13 +1,15 @@
 ---
 fullname: Delphine Deneubourg
-role: Intrapreneure
+role: Responsable incubateur du Ministère de la Justice
 domaine: Intraprenariat
 github: DelphineDeneubourg
 missions:
   - start: 2021-04-06
-    end: 2022-06-01
+    end: 2025-12-31
     status: admin
     employer: Ministère de la Justice
-startups:
-  - justif
+teams:
+  - /teams/justice
+previously:
+  - mon-suivi-justice
 ---

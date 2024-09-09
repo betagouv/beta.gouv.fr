@@ -1,38 +1,117 @@
 ---
 layout: page
 permalink: /accessibilite/
-title: Déclaration d'accessibilité
+title: Accessibilité
 ---
 
+**beta.gouv.fr** s’engage à rendre ses services numériques accessibles, conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
+
+À cette fin, beta.gouv.fr met en œuvre la stratégie et les actions suivantes :
+- [Schéma pluriannuel 2024-2027](/accessibilite/schema-pluriannuel)
+- [Bilan 2023](/accessibilite/schema-pluriannuel#bilan-2023)
+- [Plan d'action 2024](/accessibilite/schema-pluriannuel#plan-2024)
+
 ## Déclaration d'accessibilité
+*Établie le 21 août 2024.*
 
-La DINUM s’engage à rendre son service accessible, conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
-
-À cette fin, nous mettons en œuvre la stratégie et les actions suivantes : [Télécharger le schéma pluriannuel de la DINUM au format PDF](https://www.numerique.gouv.fr/uploads/DINUM_SchemaPluriannuel_2020.pdf).
-
-Cette déclaration d’accessibilité s’applique à beta.gouv.fr.
+Cette déclaration d’accessibilité s’applique au site **beta.gouv.fr**. 
 
 ### État de conformité
-beta.gouv.fr est non conforme avec le RGAA 4.1. Le site n’a pas encore été audité.
 
-### Établissement de cette déclaration d'accessibilité
-Cette déclaration a été établie le 23 mars 2021.
+beta.gouv.fr est **partiellement conforme** avec le RGAA 4.2. 
+
+### Résultats des tests
+
+L’audit de conformité au RGAA version 4.2 réalisé en août 2024 par la société [Ideance](https://ideance.net/fr/) révèle que sur l’échantillon :
+- Le **taux de conformité global est de 73,1%**. Ce taux est obtenu en divisant le nombre de critères conformes par le nombre de critères applicables.
+- Le taux de conformité moyen est de 90,8%. Ce taux est obtenu en faisant la moyenne des taux de conformité de chaque page.
+
+### Contenus non accessibles
+
+#### Non-conformités
+
+Voici les non-conformités relevées par l'audit : 
+- Notre [bilan 2023](https://beta.gouv.fr/content/docs/betagouv_presentation.pdf) sous forme de PDF ne possède pas de version accessible (critère 13.3). <span class="fr-badge fr-badge--success">Corrigé</span>
+- La page [Communauté](/communaute/) affiche des graphiques sans alternatives textuelles (critère 4.8). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Certaines balises sont utilisées uniquement à des fins de présentation (critère 8.9). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Certaines listes ne sont pas correctement structurées (critère 9.3). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Des informations ne sont pas compréhensibles lorsque les feuilles de styles sont désactivées (critère 10.3) <span class="fr-badge fr-badge--success">Corrigé</span>.
+- Sur nos contenus en anglais, le code de langue par défaut n’est pas pertinent (critère 8.4). <span class="fr-badge fr-badge--success">Corrigé</span>.
+- Des titres de page ne sont pas pertinents (critère 8.6). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Des changements de langue ne sont pas indiqués (critère 8.7). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Des liens ne sont pas explicites (critère 6.1). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Sur certaines pages, la présentation est faite directement dans la page plutôt que via des feuilles de styles (critère 10.1). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Sur des petits écrans de 320 px, certains contenus sont peu lisibles (critère 10.11). <span class="fr-badge fr-badge--success">Corrigé</span>
+- Certains contrastes entre couleur de texte et couleur d’arrière-plan ne sont pas suffisamment élevés (critère 3.2).
+- Nos fiches produits, rédigées par des contributeurs, ne sont pas toujours correctement structurées par des titres (critère 9.1).
+- Des déclarations CSS de couleurs de fond et de police ne sont pas correctement utilisées (critère 10.5).
+
+#### Contenus non soumis à l’obligation d’accessibilité
+
+Les graphiques interactifs « Metabase » de la page [Indicateurs](/stats) ont été exemptés. Il n’a donc pas fait l’objet d’un audit complet et détaillé.
+
+#### Technologies utilisées pour la réalisation du site
+
+- HTML5
+- SVG
+- ARIA
+- CSS
+- JavaScript
+
+#### Environnement de test
+
+Les tests ont été effectués avec les combinaisons de navigateur web et lecteur d’écran suivantes :
+- Firefox 128.0.3 et NVDA 2024.2 sous Windows 11
+- Firefox 128.0.3 et JAWS 2023 sous Windows 11
+- Safari et VoiceOver sous macOS 14.5
+- Safari et VoiceOver sous iOS 17.5
+
+#### Outils pour évaluer l’accessibilité
+
+- Colour Contrast Analyser
+- Contrast Finder
+- Outils de développement Firefox
+- Web Developer (extension Firefox)
+
+#### Pages du site ayant fait l’objet de la vérification de conformité
+
+- [Accueil](/)
+- [Résultats d’une recherche](/recherche?q=public)
+- [Nous contacter](/contact)
+- [Mentions légales](/apropos)
+- [Accessibilité](/accessibilite)
+- [About us](/en/)
+- [Annuaire des membres](/communaute/annuaire)
+- [Indicateurs de beta.gouv.fr](/stats/)
+- [Découvrir le programme](/approche/)
+- [Réseau d'incubateurs](/incubateurs/)
+- [Détail d'une startup](/startups/signalement.html)
+- [Services numériques](/realisations/)
 
 ### Amélioration et contact
+
 Si vous n’arrivez pas à accéder à un contenu ou à un service, vous pouvez contacter le responsable de beta.gouv.fr pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme.
 
-- E-mail : [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr)
-- Adresse : DINUM 20 avenue de Ségur 75007 Paris
-- [Notre compte twitter @BetaGouv](https://twitter.com/BetaGouv)
+- E-mail : [accessibilite@beta.gouv.fr](mailto:accessibilite@beta.gouv.fr)
+- Adresse : DINUM, 20 avenue de Ségur 75007 Paris
 
 Nous essayons de répondre dans les 2 jours ouvrés.
 
 ### Voie de recours
-Cette procédure est à utiliser dans le cas suivant : vous avez signalé au responsable du site internet un défaut d’accessibilité qui vous empêche d’accéder à un contenu ou à un des services du portail et vous n’avez pas obtenu de réponse satisfaisante.
 
-Vous pouvez :
-- Écrire un message au Défenseur des droits
-- Contacter le délégué du Défenseur des droits dans votre région
-- Envoyer un courrier par la poste (gratuit, ne pas mettre de timbre) :
-    Défenseur des droits
-    Libre réponse 71120 75342 Paris CEDEX 07
+Si vous avez identifié sur ce site web un manquement à la réglementation relative à l’accessibilité numérique (présence de défauts d'accessibilité, absence des obligations déclaratives, etc.) et que : 
+- Vous nous avez contacté pour nous en informer.
+- Vous n'avez pas reçu de réponse satisfaisante.
+Alors vous avez la possibilité de :
+
+#### Contacter l'Arcom
+
+Afin de signaler un ou plusieurs manquement(s) à la réglementation relative à l’accessibilité numérique, rendez-vous sur le [formulaire de contact du site web de l'Arcom](https://www.arcom.fr/contact).
+
+#### Saisir le Défenseur des droits
+
+Pour faire valoir vos droits relatifs à des défauts d'accessibilité rencontrés, vous pouvez :
+- **Contacter le délégué de votre région** en passant par [l'annuaire des délégués du Défenseur des droits](https://www.defenseurdesdroits.fr/carte-des-delegues).
+- **Remplir le [formulaire de réclamation du Défenseur des droits](https://formulaire.defenseurdesdroits.fr/formulaire_saisine/)**, en choisissant les thématiques « Je suis victime de discrimination » puis « Biens et services privés » et enfin « Handicap ».
+- **Envoyer un courrier gratuit** (sans mettre de timbre) par la poste à l'adresse suivante :
+Défenseur des droits, Libre réponse 71120, 75342 Paris CEDEX 07

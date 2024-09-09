@@ -1,12 +1,17 @@
 ---
-fullname: Sandrine DAVID
-role: Intrapreneuse
+fullname: Sandrine David
 domaine: Intraprenariat
+role: Intrapreneuse, Product Manager
 missions:
- - start: 2020-08-24
-   end: 2022-08-31
-   status: service
-   employer: Pôle emploi
+  - start: 2020-08-24
+    end: 2024-08-31
+    status: service
+    employer: Pôle emploi
+    startups:
+      - mes-evenements-emploi
+incubator: francetravail
 startups:
   - mes-evenements-emploi
+competences:
+  - Gestion de Produit
 ---

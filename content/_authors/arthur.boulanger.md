@@ -1,14 +1,18 @@
 ---
 fullname: Arthur Boulanger
 domaine: Design
-role: UX Designer
+role: Coach PM
 link: https://www.linkedin.com/in/boulangerarthur/
 missions:
   - start: 2021-06-21
-    end: 2022-03-31
+    end: 2023-11-30
     status: independent
-    employer: Arolla
+    employer: Inop's
+    startups:
+      - estime.formation
 startups:
+  - estime.formation
+previously:
   - estime
 badges:
   - segur

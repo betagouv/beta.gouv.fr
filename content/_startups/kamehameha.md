@@ -1,17 +1,19 @@
 ---
-title: "Kamehameha"
+title: Kamehameha
 mission: Lutter contre le harcèlement des jeunes
 sponsors:
   - /organisations/anct
 incubator: anct
 contact: incubateur@anct.gouv.f
-events: []
 phases:
   - name: investigation
     start: 2019-11-01
     end: 2020-01-31
   - name: alumni
     start: 2020-02-01
+usertypes:
+  - particulier
+  - etablissement-scolaire
 ---
 **Contexte**
 

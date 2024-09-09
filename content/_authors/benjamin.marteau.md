@@ -7,8 +7,9 @@ missions:
     end: 2021-06-30
     status: admin
     employer: education-nationale
+    startups:
+      - pix
 startups:
-    - pix
+  - pix
 ---
-
 Public + commun = the future

@@ -1,17 +1,25 @@
 ---
 fullname: Clémence Lanctuit
-role: UX Designer
 domaine: Design
-link: https://clemence-lanctuit.webflow.io
+role: Product Designer
 missions:
   - start: 2022-01-13
-    end: 2022-03-31
+    end: 2024-09-06
     status: independent
+    startups:
+      - api.apprentissage
+      - tdb-apprentissage
+incubator: dinum
 startups:
-    - dematapprentissage
-    - catalogue-apprentissage
+  - tdb-apprentissage
+  - api.apprentissage
+previously:
+  - dematapprentissage
+  - catalogue-apprentissage
+  - docurba
 badges:
   - segur
+competences:
+  - UX
+  - UI
 ---
-
-D'abord Ergonome et Psychologue du Travail, maintenant UX Designer

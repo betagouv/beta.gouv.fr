@@ -8,6 +8,8 @@ missions:
     end: 2022-01-01
     status: independent
     employer: Octo
+    startups:
+      - mobilic
 startups:
   - mobilic
 ---

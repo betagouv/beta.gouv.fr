@@ -2,7 +2,6 @@
 fullname: Emmanuel Gaillot
 role: Développeur
 domaine: Développement
-link:
 github: egaillot
 missions:
   - start: 2018-10-24
@@ -14,13 +13,17 @@ missions:
     status: independent
     employer: ut7
   - start: 2021-11-01
-    end: 2022-12-31
+    end: 2023-02-28
+    status: service
+    employer: omnicite
+  - start: 2023-06-15
+    end: 2024-12-31
     status: service
     employer: omnicite
 startups:
-  - homologation
+  - oots.once-only.technical.system
 previously:
   - eva
+  - homologation
 ---
-
 Programmeur extrême & codexhibitionniste.

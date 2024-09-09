@@ -9,12 +9,17 @@ phases:
     start: 2019-08-01
   - name: construction
     start: 2019-08-01
-link:
-repository:
+  - name: success
+    start: 2021-06-01
+  - name: alumni
+    start: 2024-08-21
+usertypes:
+  - etat
 stats: false
-contact: romain.perroud@def.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
+thematiques: []
+techno: []
 ---
-
 ## Contexte
 L’EMHM (École Militaire de Haute Montagne), de la 27ème Brigade d'Infanterie Montagne emploie des instructeurs de montagne militaires et civils, tous experts dans ce domaine.
 Ces instructeurs se concentrent principalement sur deux activités cruciales :
@@ -32,7 +37,7 @@ Pour éviter la multiplication des outils, l'EMHM a souhaité un outil unique su
 * Simplifier la création et le processus des FACM afin d'optimiser la réactivité des viseurs et signataires et les délais de traitement
 * Maximiser le taux de couverture par FACM pour les sorties en montagne
 * Gérer des stages et évaluer des stagiaires selon des critères de compétences données
-* Avoir une application accessible via le Milistore
+* Disposer d'une application accessible via le Milistore
 
 
 ## Chronologie
@@ -56,4 +61,4 @@ __Étape 8__ (décembre) : livraison PMV
 
 ## Résultats
 Une application mobile Les Alpps
-Un site Back office
+Une interface web pour le back office

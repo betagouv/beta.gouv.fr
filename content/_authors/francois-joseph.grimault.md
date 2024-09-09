@@ -9,14 +9,13 @@ missions:
     end: 2019-07-19
     status: independent
   - start: 2019-12-05
-    end: 2021-12-31
+    end: 2023-06-30
     status: independent
     employer: numa
-startups:
-  - datagir
 previously:
-  - lotocar
+  - comobi
   - mrs
+  - plusfraichemaville
+  - datagir
 ---
-
 Dubito ergo sum

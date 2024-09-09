@@ -8,6 +8,8 @@ missions:
     end: 2019-06-30
     status: admin
     employer: ARS Occitanie
+    startups:
+      - tremplin
 startups:
   - tremplin
 ---

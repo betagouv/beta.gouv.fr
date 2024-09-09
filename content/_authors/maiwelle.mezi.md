@@ -1,17 +1,16 @@
 ---
 fullname: Maiwelle Mezi
-role: Chargée de déploiement 
+role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-01-03
-    end: 2022-06-30
+    end: 2023-04-28
     status: independent
-    employer: Malt 
-startups:
+    employer: Malt
+previously:
   - jeveuxaider
   - api-engagement
 badges:
   - segur
 ---
-
-Chargée de déploiement 
+Chargée de déploiement

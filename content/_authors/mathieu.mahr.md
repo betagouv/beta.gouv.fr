@@ -1,11 +1,16 @@
 ---
 fullname: Mathieu Mahr
-role: Product Manager
-domaine: Autre
+domaine: Animation
+role: Responsable de la Fabrique Numérique du Ministère des Armées
+github: FabNumMMahr
 missions:
   - start: 2022-02-07
     end: 2025-04-30
-    status: independent
+    status: admin
     employer: Ministère des Armées
+incubator: fabnumdef
+competences:
+  - Administration Publique
+  - Croissance
+  - Gestion de Produit
 ---
-

@@ -10,12 +10,11 @@ phases:
     end: 2019-11-30
   - name: construction
     start: 2019-11-30
-link:
-repository:
+usertypes:
+  - etat
 stats: false
-contact: romain.perroud@def.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 ---
-
 ## Contexte
 L’accès aux bases de défense du territoire national, que ce soit pour des militaires ou des civils, fait l’objet d’une attention particulière. En effet, pour des raisons de sécurité, leur accès est réglementé et les personnes souhaitant y entrer doivent fournir un certain nombre d’informations.  
 La gestion des accès aux bases de défense répond aujourd’hui à un processus long et chronophage, où de nombreux acteurs interviennent en travaillant sur des systèmes d’informations différents.

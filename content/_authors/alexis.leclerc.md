@@ -1,13 +1,15 @@
 ---
 fullname: Alexis Leclerc
 domaine: Développement
-role: Développeur
+role: Product Owner
 github: haelle
 missions:
   - start: 2017-03-01
-    end: 2022-12-31
+    end: 2024-01-31
     status: independent
-    employer: octo
+    employer: malt
+    startups:
+      - api-entreprise
 startups:
   - api-entreprise
 competences:

@@ -2,17 +2,24 @@
 title: SEPIA
 mission: Accélérer les interventions de la police du ciel
 sponsors:
-    - /organisations/armees
+  - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation
     start: 2019-01-25
   - name: construction
-    start: 2019-01-25
+    start: 2020-01-25
+  - name: transfer
+    start: 2022-09-01
+  - name: alumni
+    start: 2024-08-21
+usertypes:
+  - etat
 stats: false
-contact: romain.perroud@def.gouv.fr 
+contact: mathieu.mahr@beta.gouv.fr
+thematiques: []
+techno: []
 ---
-
 ## Contexte 
 24h/24 et 7j/7, l’Armée de l’air assure une mission de police du ciel en surveillant les 11 000 aéronefs qui transitent quotidiennement par l’espace aérien français. Sa mission : détecter, identifier et si besoin intercepter tout intrus, afin de faire respecter la souveraineté nationale et de défendre notre territoire contre toute menace venant des airs.
 Les avions de chasse français sont positionnés dans différentes bases aériennes et sont prêts à décoller à chaque instant pour intervenir. Pour sélectionner quel chasseur doit intervenir, des experts évaluent la situation en fonction des conditions météorologiques, géographiques et tactiques. Mais sachant qu’un avion peut traverser la France métropolitaine en 20 minutes à très grande vitesse, chaque seconde compte quand un événement anormal est détecté.
@@ -25,8 +32,8 @@ SEPIA utilise des données open source provenant par exemple d’OpenStreetMap o
 Pour la sûreté aérienne (CNOA) :
 * Corréler trajectoire et point d’intérêt,
 * Aides à la décision pour optimiser l’interception d’aéronef,
-* Système d’alerte multicritère dont la pénétration de ZIT, le survol de ZIPVA…,
-* Module de visualisation et d’alerte intéressant renseignement d’intérêt-Air
+* Système d’alerte multicritère dont la pénétration de ZIT (Zone interdite temporaire), le survol de ZIPVA (Zones interdites à la prise de vue aérienne)…,
+* Module de visualisation et d’alerte intéressant renseignement d’intérêt-Air.
 
 Pour la recherche et sauvetage en cas de crash (RCC) :
 * Définir par le calcul le point d’impact d’un crash futur,

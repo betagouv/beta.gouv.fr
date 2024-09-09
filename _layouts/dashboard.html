@@ -8,48 +8,46 @@ layout: default
 
 {% include hero-page.html title=page.title %}
 
-<main>
-    <section class="fr-py-6w">
-        <div class="fr-container">
-            <div style="text-align: center; margin-bottom: 1em;">
-                <a class="button" href="/api/v1.7/startups.csv">Télécharger au format .csv</a>
-            </div>
-            
-            {% assign phases = site.phases | sort: 'order' %}
-            <table>
-                <colgroup>
-                    <col style="width: 10%;">
-                    <col style="width: 40%;">
-                    <col>
-                    <col>
-                    <col>
-                 </colgroup>
-                <tbody>
-                    <tr>
-                        <th>Nom</th>
-                        <th>Objectif</th>
-                        <th>Phase actuelle</th>
-                        <th>Incubateur</th>
-                        <th>Date de début</th>
-                    </tr>
-                    {% for phase in phases %}
-                        {% assign startups = site.startups | where_phase: phase.status %}
-                        {% for startup in startups %}
-                            <tr>
-                                <td>{{ startup.title }}</td>
-                                <td>{{ startup.mission }}</td>
-                                <td>{{ phase.label }}</td>
-
-                                {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
-                                {% assign incubator = site.incubators | where:'id', incubator_id | first %}
-                                <td>{{ incubator.title }}</td>
-
-                                <td>{{ startup.phases.first.start |  date: '%d/%m/%Y' }}</td>
-                            </tr>
-                        {% endfor %}
-                    {% endfor %}
-                </tbody>
-            </table>
+<section class="fr-py-6w">
+    <div class="fr-container">
+        <div class="text-center fr-mb-2w">
+            <a class="button" href="/api/v2.5/startups.csv">Télécharger au format .csv</a>
         </div>
-    </section>
-</main>
+
+        {% assign phases = site.phases | sort: 'order' %}
+        <table>
+            <colgroup>
+                <col style="width: 10%;">
+                <col style="width: 40%;">
+                <col>
+                <col>
+                <col>
+              </colgroup>
+            <tbody>
+                <tr>
+                    <th>Nom</th>
+                    <th>Objectif</th>
+                    <th>Phase actuelle</th>
+                    <th>Incubateur</th>
+                    <th>Date de début</th>
+                </tr>
+                {% for phase in phases %}
+                    {% assign startups = site.startups | where_phase: phase.status %}
+                    {% for startup in startups %}
+                        <tr>
+                            <td><a href="{{ startup.id }}">{{ startup.title }}</a></td>
+                            <td>{{ startup.mission }}</td>
+                            <td>{{ phase.label }}</td>
+
+                            {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
+                            {% assign incubator = site.incubators | where:'id', incubator_id | first %}
+                            <td>{{ incubator.title }}</td>
+
+                            <td>{{ startup.phases.first.start |  date: '%d/%m/%Y' }}</td>
+                        </tr>
+                    {% endfor %}
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</section>

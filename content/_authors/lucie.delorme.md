@@ -7,6 +7,8 @@ missions:
     end: 2020-01-01
     status: admin
     employer: drjscs
+    startups:
+      - e-mjpm
 startups:
-    - e-mjpm
+  - e-mjpm
 ---

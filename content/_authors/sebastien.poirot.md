@@ -8,6 +8,8 @@ missions:
     end: 2022-03-22
     status: admin
     employer: Pôle Emploi
+    startups:
+      - competence.validee
 startups:
   - competence.validee
 competences:

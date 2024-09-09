@@ -1,14 +1,18 @@
 ---
-title: FAST 6 - Décembre 2020 
-sidebar: sidebar-approche.html
+title: FAST 6 - Décembre 2020
+sidebar: sidebar-fast.html
 ---
 
-## **Le comité d'investissement :** 
+# FAST 6 - Décembre 2020
+
+## Le comité d'investissement
+
 - Nadi Bou Hanna (DINUM)
 - Xavier Albouy (DINUM)
 - Florian Delezenne (DINUM)
 
-## **Les lauréats Fast 6:**
+## Les lauréats Fast 6
+
 1. NC Connect, permettre de se connecter en Nouvelle-Calédonie sur 7 téléservices (dont le site de déclaration d'impôts en ligne) avec un seul compte ;
 2. Guichet entreprises, offrir en Nouvelle-Calédonie un point d’entrée unique pour toutes les démarches d’immatriculation et de radiation de leur entreprise ;
 3. Réseau Pro, faciliter les recrutements des jeunes issus de l’université et de la diversité à travers une plateforme unique ;

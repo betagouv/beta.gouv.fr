@@ -1,43 +1,64 @@
 ---
 title: Registre de preuve de covoiturage
 mission: Accompagner le développement du covoiturage au quotidien 🚘
-sponsors: 
-    - /organisations/dgitm
+sponsors:
+  - /organisations/ademe
+  - /organisations/dgitm
+  - /organisations/dinum
 incubator: mtes
+link: https://covoiturage.beta.gouv.fr/
+repository: https://github.com/betagouv/preuve-covoiturage
+contact: contact@covoiturage.beta.gouv.fr
+stats: true
+accessibility_status: non conforme
+analyse_risques: true
+analyse_risques_url: https://covoiturage.beta.gouv.fr/.well-known/security-policy.txt
+usertypes:
+  - collectivite-territoriale
+stats_url: https://stats.covoiturage.beta.gouv.fr/embed/dashboard/3bec1692-1456-41c2-95a9-6606af329df9
+dashlord_url: https://dashlord.incubateur.net/url/covoiturage-beta-gouv-fr/
+events:
+  - name: national_impact
+    date: 2023-12-31
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 12
 phases:
   - name: investigation
     start: 2018-06-04
   - name: construction
     start: 2019-03-01
+    end: 2021-09-01
   - name: acceleration
-    start: 2019-11-28
-link: http://covoiturage.beta.gouv.fr/
-repository: https://github.com/betagouv/preuve-covoiturage
-stats: true
-stats_url : https://app.covoiturage.beta.gouv.fr/stats
-contact: contact@covoiturage.beta.gouv.fr
+    start: 2021-09-01
+fast:
+  promotion: 12
+  montant: 300000
+thematiques:
+  - Écologie
+  - Transports
+techno: []
 ---
+Un résumé (2 min de lecture)
 
-1,08 personnes par véhicule seulement dans les déplacements professionnels
-==========================================================
-Le développement du covoiturage courte distance n’a pas connu le même essor que son pendant sur longue distance. Que ce soit des opérateurs privés ou des plateformes de covoiturage publiques, le constat est identique. Le paysage du covoiturage courte distance français se retrouve ainsi morcelé. Pourtant, c’est une question d’intérêt général que ce secteur se développe. En effet, les bénéfices à l’échelle locale sont multiples tant en termes de désengorgement des voies que de gain de l’espace public, en passant par la réduction des gaz à effets de serre et la création d’interactions sociales. A titre d'exemple, on estime que chaque kilomètre covoituré par passager permet d'éviter l'émission de 195 g CO2 équivalent (1).
+**1,43 personnes par véhicule seulement dans les déplacements "courte distance"**
 
-Le manque d’outils et d’accompagnement des territoires face à ce problème
-========================================
-Les Autorités Organisatrices de la Mobilité (AOM) et acteurs locaux suivent avec un intérêt croissant ces nouveaux services pouvant représenter des solutions de mobilité nouvelles et complémentaires aux dispositifs traditionnels de transport. En donnant des incitations aux opérateurs et/ou covoitureurs une AOM peut favoriser le développement du covoiturage sur son territoire. Cette incitation se doit d’être à la hauteur des trajets réellement réalisés. En effet, lorsqu’une forme d'incitation se trouve à la clef, il devient monnaie courante de voir la fraude augmenter. Résultat, les acteurs locaux peinent à lancer des expérimentations de mise en place d’incitatif, par crainte de distribuer des incitations sans avoir pu mettre en évidence une forme de fraude. Au delà de cette crainte, les outils d’accompagnement des territoires à la mise en oeuvre de mécanismes incitant la pratique du covoiturage restent limités.
+Le développement du covoiturage courte distance n’a pas connu le même essor que son homologue sur longue distance. Que ce soit des opérateurs privés ou des plateformes de covoiturage publiques, le constat est identique. Le paysage du covoiturage courte distance français se retrouve ainsi morcelé.
+Pourtant, c’est une question d’intérêt général que ce secteur se développe pour répondre aux 3 grands enjeux suivants :
 
-Le Registre de preuve de covoiturage comme réponse face à ce constat
-======================================
-Le Registre de preuve de covoiturage, c’est à la fois :
-- 🤝 Un tiers de confiance : les territoires peuvent distribuer des incitations en toute confiance grâce aux trajets certifiés envoyés dans le Registre par les opérateurs de covoiturage partenaires ;
-- 📃 Un boîte à outils : le Registre propose un panel d’outils pour aider les collectivité à inciter au covoiturage courte distance sur leur ressort territorial en toute confiance (moteur de campagnes d'incitation, attestations de covoiturage, générateur d'attestations sur l'honneur, observatoire et page statistique).
+- enjeux environnementaux : le secteur des transports représente 29% des émissions totales de GES de la France. La voiture particulière est responsable à elle seule de plus de 15 % des émissions de GES totales (source : CITEPA, 2020) À titre d’exemple, en covoiturant quotidiennement un français permet d’éviter l’émission de 3TCO2 eq par an et peut ainsi réduire son empreinte carbone de près de 12%.
+- enjeux économiques et sociaux : en France, selon le Baromètre des mobilités au quotidien (Wimoov FNH - 2022) plus de 13 millions de français se trouvent en situation de "précarité mobilité" par manque de moyens financiers ou techniques. Pour ces publics, le covoiturage représente une réelle alternative économique et sociale pour se déplacer.
+- enjeux sanitaires (qualité de l'air) : 48 000 décès prématurés par an sont causé par la pollution de l’air extérieur soit 9% de la mortalité en France (source : santé publique France). Une part importante de cette pollution résulte du dioxyde d’azote et des particules fines générées par les véhicules.
 
-Cette plateforme technique permet à l'ensemble des opérateurs de covoiturage, volontaires, de faire converger et d'attester les trajets effectués par leurs utilisateurs dans le respect de leur vie privée. Elle permet ainsi aux autorités organisatrices de visualiser les différentes classes de preuve de covoiturage définies en fonction des mécanismes et processus de vérification du trajet mis en place par l’opérateur de covoiturage.  
+## Le problème
 
-Grâce au registre, une autorité organisatrice a désormais en main, l’ensemble des cartes lui permettant de mettre en oeuvre une politique incitative efficace en faveur du covoiturage. Ceci peut se concrétiser de diverses manières :
-- Incitation financière via la prise en charge totale ou partielle du trajet ;
-- Accès à des places de stationnement réservées ou à tarif préférentiel ;
-- Accès à tarif réduit ou gratuit à d’autres services publics (piscine municipale, bibliothèque, musée, etc.) ;
-- Incitations non financières diverses (composteur, panier de légumes, etc.) ;
+Le manque d’outils et d’accompagnement des territoires face à ce problème entrave la mise en place de politiques publiques ambitieuses et donc la massification du covoiturage quotidien.
 
-(1) Selon, l’ADEME (Agence de l’Environnement et de la Maîtrise de l'Énergie), les émissions moyennes de Gaz à Effet de Serre (GES) par véhicule et par kilomètre (du puits à la roue) sont de 195 g CO2 équivalent par véhicule-kilomètre (chiffres de 2016).
+## La solution
+
+Covoiturage.gouv accompagne et amplifie le déploiement des politiques publiques locales ou nationales en faveur du covoiturage quotidien.
+Autour d'un registre de preuve aggrégeant la quasi totalité des trajets normalisés et qualifiés provenant des plateformes de covoiturage quotidien intermédié, des services connexes sont déployés pour : sensibiliser l'écosystème aux différentes politiques publiques à travers des webinaires et un observatoire national ; renforcer les liens de confience entre acteurs publics et privés en accompagnant la lutte contre la fraude; et en facilitant la mise en place des dispositifs d'aide au développement de la pratique : campagnes d'incitations financières, forfait mobilité durable, fond vert et prime CEE.
+
+## L’impact
+
+Le principal indicateur de succès de la SE est le volume de covoiturages du quotidien traités et enregistrés comme valides dans notre registre de preuve de covoiturage, nous vison 1million de trajets mensuel à fin 2023. Nos indicateurs secondaires sont la volumétrie de trajets invalidés ainsi que l'évolution de l'usage sur chaque de nos services connexes. [En savoir plus, voir la page de statistiques du Registre de preuve de covoiturage](https://stats.covoiturage.beta.gouv.fr/embed/dashboard/3bec1692-1456-41c2-95a9-6606af329df9)

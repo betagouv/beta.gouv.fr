@@ -1,7 +1,9 @@
 ---
 fullname: Pierre Camilleri
-domaine: Autre
-role: Data Scientist Signaux-Faibles
+domaine: Data
+role: Data engineer
+github: pierrecamilleri
+link: https://multi.coop
 missions:
   - start: 2018-03-01
     end: 2020-02-28
@@ -11,8 +13,12 @@ missions:
     end: 2021-12-31
     status: admin
     employer: Banque de France
-startups:
-    - signaux-faibles
+  - start: 2023-07-03
+    end: 2024-05-30
+    status: independent
+    employer: Malt
+previously:
+  - signaux-faibles
+  - transition-ecologique-des-entreprises
 ---
-
-Data-Scientist
+Data Full Stack

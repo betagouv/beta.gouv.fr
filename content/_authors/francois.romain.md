@@ -10,14 +10,19 @@ missions:
     end: 2021-06-30
     status: independent
     employer: octo
-  - status: independent
+  - start: 2022-01-03
+    end: 2022-06-30
+    status: independent
     employer: Octo
-    start: 2022-01-03
-    end: 2022-12-31
+  - start: 2023-05-02
+    end: 2024-03-31
+    status: independent
+    employer: LBC
 startups:
-  - dora
+  - deveco
 previously:
   - camino
+  - dora
 competences:
   - Développement Frontend
   - Développement Backend

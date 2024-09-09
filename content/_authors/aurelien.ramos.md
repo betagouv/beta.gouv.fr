@@ -6,8 +6,9 @@ missions:
   - start: 2018-05-30
     end: 2020-07-01
     status: independent
+    startups:
+      - plante-et-moi
 startups:
-    - plante-et-moi
+  - plante-et-moi
 ---
-
 Paysagiste et doctorant, militant pour le jardinage dans la rue

@@ -7,8 +7,9 @@ missions:
     end: 2019-12-31
     status: admin
     employer: affaires-sociales
+    startups:
+      - workinfrance
 startups:
-    - workinfrance
+  - workinfrance
 ---
-
 Juriste, chargé d’études et européiste au sein du ministère du Travail. Co-porteur du projet WorkInFrance, paré au décollage !

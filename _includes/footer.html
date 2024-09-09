@@ -1,86 +1,112 @@
 <!-- Script en version es6 module et nomodule pour les navigateurs le ne supportant pas -->
-<script type="module" src="/assets/gouvfr/js/dsfr.module.min.js"></script>
-<script type="text/javascript" nomodule src="/assets/gouvfr/js/dsfr.nomodule.min.js"></script>
+<script type="module" src="/assets/gouvfr/dsfr.module.min.js"></script>
+<script type="text/javascript" nomodule src="/assets/gouvfr/dsfr.nomodule.min.js"></script>
 
-<footer class="fr-footer" role="contentinfo" id="footer">
+
+
+<footer role="contentinfo" id="footer">
+
+<div class="fr-follow">
+  <div class="fr-container">
+    <div class="fr-grid-row">
+      <div class="fr-col-12 fr-col-md-8">
+        <div class="fr-follow__newsletter">
+          <h2 class="fr-h5">Gardons le contact</h2>
+          <p class="fr-text--sm">Recevez les actualités de beta.gouv, tous les mois.</p>
+          <form method="post" target="_blank" action="https://981c5932.sibforms.com/serve/MUIEAED7q5La6zVwcMrAI5cwJB2EZmeOZVHfadIeHA7u9YyGUb9FB0MqprJ1A4DbWnpORGiPSZA4yxdpLFnWbjSvsFFgYNTtd7A54LhPxK3Zg2jaB_qK-b5Sm6aZ2M6kV1nO2mpJW0KcFGIMb5KbirWUxg8CJsQJUp_AJ6ARN5PSdFNxQpzVAPXKMNs1Z7n9lgK9bMoL9fFVP_Wx" id="newsletter">
+            <button class="fr-btn fr-btn--icon-right fr-fi-external-link-line" type="submit" name="subscribe" id="form-submit" title="S'inscrire aux actualités - nouvelle fenêtre">S’inscrire</button>
+          </form>
+        </div>
+      </div>
+      <div class="fr-col-12 fr-col-md-4">
+        <div class="fr-follow__social">
+          <h2 class="fr-h5">Suivez-nous <br>sur les réseaux sociaux</h2>
+          <ul class="fr-btns-group fr-btns-group--lg">
+            {% for item in site.data.footer.social %}
+              <li>
+                <a class="fr-icon-{{ item.icon }}-fill fr-btn" href="{{ item.url }}" target="_blank" title="Profil {{ item.name | capitalize }} de BetaGouv - nouvelle fenêtre">
+                  {{ item.name }}</a>
+              </li>
+              {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="fr-footer">
   <div class="fr-footer__top">
     <div class="fr-container">
-        <div class="fr-grid-row fr-grid-row--start fr-grid-row--gutters">
-          {% for item in site.data.footer.links %}
-          <div class="fr-col-12 fr-col-sm-4 fr-col-md-4">
+      <div class="fr-grid-row fr-grid-row--start fr-grid-row--gutters">
+        {% for item in site.data.footer.links %}
+          <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
             {% if item.label %}
-              <div class="fr-footer__top-cat">{{ item.label}}</div>
+            <h2 class="fr-footer__top-cat">{{ item.label }}</h2>
             {% endif %}
             <ul class="fr-footer__top-list">
-            {% for link in item.children %}
-              {% if link.target %}
-                {% assign target = site.pages | where:"path",link.target | first %}
-                <li><a href="{{ target.url }}" class="fr-footer__top-link">{{ link.label }}</a></li>
-              {% elsif link.url %}
-                <li><a href="{{ link.url }}" class="fr-footer__top-link">{{ link.label }}</a></li>
-              {% endif %}
-            {% endfor %}
-            </ul>
-          </div>
-          {% endfor %}
-          {% if site.data.footer.social %}
-          <div class="fr-col-12 fr-col-sm-4 fr-col-md-4 beta-footer-social">
-            <div class="fr-footer__top-cat">Les réseaux de beta.gouv.fr</div>
-            <ul class="fr-footer__top-list fr-grid-row">
-              {% for item in site.data.footer.social %}
-              <li>
-                <a href="{{ item.url }}" class="fr-footer__top-link">
-                  <svg class="icon icon-{{ item.icon }}"><use xlink:href="#icon-{{ item.icon }}"></use></svg>
-                </a>
-              </li>
+              {% for link in item.children %}
+                {% if link.target %}
+                  {% assign target = site.pages | where:"path",link.target | first %}
+                  <li>
+                    <a class="fr-footer__top-link" href="{{ target.url }}" {% if link.lang %}lang="{{ link.lang }}"{% endif %}>{{ link.label }}</a>
+                  </li>
+                {% elsif link.url %}
+                  <li><a href="{{ link.url }}" class="fr-footer__top-link">{{ link.label }}</a></li>
+                {% endif %}
               {% endfor %}
             </ul>
           </div>
-          {% endif %}
-        </div>
+        {% endfor %}
+      </div>
     </div>
   </div>
   <div class="fr-container">
     <div class="fr-footer__body">
-        <div class="fr-footer__brand">
-            <a class="fr-logo" href="/" title="république française">
-                <span class="fr-logo__title">république
-                    <br>française</span>
-            </a>
-            <a class="fr-footer__brand-link" href="/">
-                <img class="fr-footer__logo" src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" alt="gouv.fr">
-            </a>
-        </div>
-        <div class="fr-footer__content">
-            <ul class="fr-footer__content-list">
-                <li class="fr-footer__content-item">
-                    <a class="fr-footer__content-link" href="https://legifrance.gouv.fr">legifrance.gouv.fr</a>
-                </li>
-                <li class="fr-footer__content-item">
-                    <a class="fr-footer__content-link" href="https://gouvernement.fr">gouvernement.fr</a>
-                </li>
-                <li class="fr-footer__content-item">
-                    <a class="fr-footer__content-link" href="https://service-public.fr">service-public.fr</a>
-                </li>
-                <li class="fr-footer__content-item">
-                    <a class="fr-footer__content-link" href="https://data.gouv.fr">data.gouv.fr</a>
-                </li>
-            </ul>
-        </div>
+      <div class="fr-footer__brand fr-enlarge-link">
+        <p class="fr-logo">République<br>Française</p>
+        <a class="fr-footer__brand-link" href="/">
+          <img
+              class="fr-footer__logo fr-responsive-img"
+              src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" alt="Logo beta.gouv.fr" />
+        </a>
+      </div>
+      <div class="fr-footer__content">
+        <ul class="fr-footer__content-list">
+          <li class="fr-footer__content-item">
+            <a class="fr-footer__content-link" href="https://info.gouv.fr">info.gouv.fr</a>
+          </li>
+          <li class="fr-footer__content-item">
+            <a class="fr-footer__content-link" href="https://service-public.fr">service-public.fr</a>
+          </li>
+          <li class="fr-footer__content-item">
+            <a class="fr-footer__content-link" href="https://legifrance.gouv.fr">legifrance.gouv.fr</a>
+          </li>
+          <li class="fr-footer__content-item">
+            <a class="fr-footer__content-link" href="https://data.gouv.fr">data.gouv.fr</a>
+          </li>
+        </ul>
+      </div>
     </div>
     <div class="fr-footer__bottom">
-        <ul class="fr-footer__bottom-list">
-          {% for link in site.data.footer.mandatorylinks %}        
-            <li class="fr-footer__bottom-item">
-              {% if link.target %}
-                {% assign target = site.pages | where:"path",link.target | first %}
-                <a href="{{ target.url }}" class="fr-footer__bottom-link">{{ link.label }}</a>
-              {% elsif link.url %}
-                <a href="{{ link.url }}" class="fr-footer__bottom-link">{{ link.label }}</a>
-              {% endif %}
-            </li>
-          {% endfor %}
-        </ul>
+      <ul class="fr-footer__bottom-list">
+        {% for link in site.data.footer.mandatorylinks %}
+          <li class="fr-footer__bottom-item">
+            {% if link.target %}
+              {% assign target = site.pages | where:"path",link.target | first %}
+              <a href="{{ target.url }}" class="fr-footer__bottom-link">{{ link.label }}</a>
+            {% elsif link.url %}
+              <a href="{{ link.url }}" class="fr-footer__bottom-link">{{ link.label }}</a>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+      <div class="fr-footer__bottom-copy">
+        <p>Sauf mention contraire, tous les contenus de ce site sont sous <a href="https://github.com/etalab/licence-ouverte/blob/master/LO.md" target="_blank" title="Licence Etalab-2.0 - nouvelle fenêtre">licence etalab-2.0</a>
+        </p>
+      </div>
     </div>
   </div>
+</div>
 </footer>

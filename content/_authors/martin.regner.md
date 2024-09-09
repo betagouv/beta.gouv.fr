@@ -1,12 +1,18 @@
 ---
 fullname: Martin Régner
-role: Intrapreneur
-domaine: Intraprenariat
+role: Responsable de l'Accélérateur de la transition écologique de l'ADEME
+domaine: Animation
+link: https://www.linkedin.com/in/regnermartin/
 github: martinregner
 missions:
   - start: 2019-01-10
-    end: 2022-06-30
-    status: service
-startups:
-    - datagir
+    end: 2024-12-31
+    status: admin
+    employer: ADEME
+teams:
+  - /teams/ademe
+previously:
+  - datagir
+  - nosgestesclimat
+  - impact.co2
 ---

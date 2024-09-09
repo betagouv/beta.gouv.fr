@@ -5,10 +5,9 @@ domaine: Coaching
 github: k7vin
 missions:
   - start: 2022-01-03
-    end: 2022-06-30
+    end: 2024-12-20
     status: independent
     employer: UT7
-startups:
+previously:
   - euphrosyne
 ---
-

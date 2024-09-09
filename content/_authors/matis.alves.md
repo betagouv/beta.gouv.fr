@@ -4,11 +4,13 @@ role: Chargé de déploiment
 domaine: Déploiement
 missions:
   - start: 2022-03-01
-    end: 2022-06-01
+    end: 2024-09-30
     status: independent
+    employer: Scopyleft
+    startups:
+      - rdv-service-public
 startups:
-  - lapins
+  - rdv-service-public
 badges:
   - segur
 ---
-

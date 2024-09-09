@@ -1,14 +1,18 @@
 ---
-title: FAST 7 - Mars 2021 
-sidebar: sidebar-approche.html
+title: FAST 7 - Mars 2021
+sidebar: sidebar-fast.html
 ---
 
-### **Le comité d'investissement :** ### 
+# FAST 7 - Mars 2021
+
+## Le comité d'investissement
+
 - Nadi Bou Hanna (DINUM)
 - Xavier Albouy (DINUM)
 - Florian Delezenne (DINUM)
 
-### **Les lauréats Fast 7:** ###
+## Les lauréats Fast 7
+
 1. eva, favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels à travers un outil de mise en situation numérique ;
 2. Histologe, faciliter le signalement et accélérer la prise en charge du mal-logement
 3. Estime, soutenir la reprise d’activité des demandeurs d’emploi en leur permettant de connaitre les ressources financières dont ils disposeront

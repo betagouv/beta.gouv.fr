@@ -9,20 +9,36 @@ missions:
     end: 2021-07-13
     status: independent
     employer: Octo
+    startups:
+      - acceslibre
   - start: 2021-07-15
     end: 2021-12-31
     status: independent
     employer: Arolla
+    startups:
+      - ecobalyse
   - start: 2021-12-01
-    end: 2022-04-30
+    end: 2023-12-31
     status: independent
     employer: LBC
+    startups:
+      - ecobalyse
+  - start: 2024-01-01
+    end: 2024-12-31
+    status: independent
+    employer: Pathtech
+    startups:
+      - ecobalyse
 startups:
-  - acceslibre
-  - wikicarbone
+  - ecobalyse
 previously:
-  - egapro
+  - egalite.professionnelle
+  - acceslibre
 competences:
-  - Développement Full-Stack
+  - Développement Full-stack
+  - Elm
+  - Node
+  - Python
+  - Django
 ---
 En quête de sens numérique

@@ -1,0 +1,39 @@
+type:       map
+mapping:
+    "name":
+      type:      str
+      required:  yes
+    "acronym":
+      type:      str
+    "annuaire":
+      type:      str
+    "type":
+      type:      str
+      enum:
+        - administration-centrale
+        - service-deconcentre
+        - operateur
+        - securite-sociale
+        - collectivite-territoriale
+        - autre
+    "domaine_ministeriel":
+      type:      str
+      enum:
+        - affaires-etrangeres
+        - agriculture
+        - armees
+        - bercy
+        - culture
+        - DIPLP
+        - education
+        - enseignement-sup
+        - environnement
+        - interieur
+        - justice
+        - outre-mer
+        - solidarite-sante
+        - spm # Service du premier ministre
+        - sport
+        - travail
+        - territoires
+        - autres

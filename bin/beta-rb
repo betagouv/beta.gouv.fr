@@ -1,0 +1,28 @@
+#!/usr/bin/env ruby
+
+require 'irb'
+
+DSL_PATH = File.expand_path('../../lib', __FILE__)
+
+$LOAD_PATH << DSL_PATH
+
+require 'models/member'
+
+module BetaDsl
+  notice = <<EOF
+  ---------------------------------------------------------------------
+  | Bienvenue dans le prompt BetaDsl ! Ce prompt vous permet          |
+  | d'explorer les données de notre communauté à travers les classes  |
+  | présentes dans `lib/beta_dsl`.                                    |
+  |                                                                   |
+  | Exemple d'utilisation :                                           |
+  |   s = Startup.all.find { |s| s.title =~ /Tchap/ }                 |
+  |   s.active?                                                       |
+  |                                                                   |
+  |   m = Member.all.find { |s| s.domaine == "Animation" }.count
+  ---------------------------------------------------------------------
+EOF
+  puts notice
+
+  binding.irb
+end

@@ -4,13 +4,15 @@ domaine: Déploiement
 role: Chargé de déploiement
 missions:
   - start: 2020-09-01
-    end: 2022-06-30
+    end: 2023-10-13
     status: admin
-    employer: MTES-MCT
+    employer: independent/Malt
+    startups:
+      - aidantsconnect
 startups:
-  - camino
+  - aidantsconnect
 competences:
   - Croissance
   - Communication
 ---
-Chargé de déploiement pour CAMINO- Le Cadastre Minier Numérique Ouvert
+Chargé de déploiement pour Aidants Connect

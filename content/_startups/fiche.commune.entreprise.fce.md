@@ -1,14 +1,17 @@
 ---
+mission: Faciliter l’accès aux informations disponibles sur les entreprises et les échanges entre les agents publics
+incubator: sgmas
+repository: https://github.com/SocialGouv/fce
+contact: bce@travail.gouv.fr
+usertypes:
+  - entreprise
+  - etat
+stats_url: https://fce.fabrique.social.gouv.fr/statistics
 title: Fiche Commune Entreprise
-mission: Faciliter l’accès aux  informations disponibles sur les entreprises et les échanges entre les agents publics
 sponsors:
   - /organisations/solidarite-sante
-incubator: sgmas
 link: https://fce.fabrique.social.gouv.fr
-repository: https://github.com/SocialGouv/fce
-contact: chloe.mandelblat@dreets.gouv.fr
 stats: true
-stats_url: https://fce.fabrique.social.gouv.fr/statistics
 phases:
   - name: investigation
     start: 2018-10-01
@@ -19,6 +22,13 @@ phases:
   - name: acceleration
     start: 2020-07-01
     end: 2022-12-16
+  - name: transfer
+    start: 2021-01-01
+    end: 2022-05-01
+  - name: success
+    start: 2022-12-01
+thematiques: []
+techno: []
 ---
 ## Contexte
 
@@ -37,15 +47,18 @@ C’est encore trop souvent le chef d’entreprise qui informe un agent de la Di
 Le manque d'accès et de partage d'informations sur les actions menées auprès des entreprises ont des conséquences :
 
 **1 - Pour les agents**
+
 * Perte de temps et d’efficacité dans la préparation des interventions
 * Perte de temps dans la restitution des actions menées
 * Allocations d’aides inadéquates
 
 **2 - Pour les entreprises**
+
 * Sur-contrôles / contrôles non coordonnés
 * Actions parfois contradictoires
 
 **3 - Pour l'action publique**
+
 * Une image dégradée auprès des entreprises
 
 ## Solution
@@ -74,21 +87,8 @@ Restituer à un décideur (Préfet, Ministre…), en un minimum de temps, une fi
 
 **2- Pour les entreprises**
 
-Mieux connues a priori par l'administration, les entreprises ont une vision d’une administration mieux intégrée et donc plus performante. Elles bénéficient directement de cette meilleure utilisation collective des informations par le biais de contrôles ou d’interventions adaptés à leur situation et à leurs relations avec l’administration.
+Mieux connues a priori par l'administration, les entreprises ont une vision d’une administration mieux intégrée et donc plus performante. Elles bénéficient directement de cette meilleure utilisation collective des informations par le biais de contrôles ou d’interventions adaptés à leur situation et à leurs relations avec l’administration. 
 
-## Stratégie
-* marketing du produit (logo, slogan, landing page, nouvelles pages)
-* tutos vidéos
-* kit de communication
-* mise en place d’une stratégie d’acquisition 
-* mise en place d’une newsletter
-* *scrapping* contacts Direccte 
-* organisation de webinaires
-* publications sur les intranets et lettres d'information
+\----
 
-**Objectif visé** :
-- Atteindre 5000 utilisateurs sur les 9000 potentiels de FCE
-
-L'équipe poursuit la recherche de ses mesures d'impact.
-
-
+Le produit a été transféré à la Sous-Direction des Projets et Services Numériques (SDPSN) de la Direction du Numérique des Ministères sociaux fin 2022.

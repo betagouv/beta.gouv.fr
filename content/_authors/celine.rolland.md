@@ -1,13 +1,14 @@
 ---
-fullname:  Céline ROLLAND 
+fullname: Céline ROLLAND
 role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2021-01-18
-    end: 2022-06-30
+    end: 2024-12-30
     status: independent
-    employer: Octo 
+    employer: Malt
+    startups:
+      - aides-territoires
 startups:
   - aides-territoires
 ---
-

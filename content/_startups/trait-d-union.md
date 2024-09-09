@@ -17,8 +17,10 @@ phases:
 repository: https://github.com/betagouv/trait-d-union
 stats: true
 contact: contact@traitdunion.beta.gouv.fr
+usertypes:
+  - particulier
+  - entreprise
 ---
-
 ## Un constat, plusieurs problèmes
 
 La région Grand Est finance la formation de 50 000 personnes en recherche d’emploi sur un an. Or 45% des stagiaires ne sont pas dans une situation d’emploi 1 an après la fin de la formation.

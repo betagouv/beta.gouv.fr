@@ -1,24 +1,19 @@
 ---
 fullname: Magali Marcel
-domaine: Intraprenariat
-role: Responsable de portefeuille DGALN
+domaine: Animation
+role: Responsable de portefeuille Economie / Agriculture
 github: magalimarcelgarreau
-link: null
 missions:
-  - start: 2018-06-18
-    end: 2022-12-08
+  - start: 2023-10-02
+    end: 2026-06-06
     status: admin
-    employer: DGALN
-startups:
-    - aides-territoires
-    - apilos
-    - bureaux.vacants
-    - locatio
-    - zero-logement-vacant
-    - histologe
+    employer: DINUM
+incubator: dinum
 previously:
   - signalement
 competences:
   - Administration Publique
   - Gestion de Produit
+teams:
+  - /teams/animation-dinum
 ---

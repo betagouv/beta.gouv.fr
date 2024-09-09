@@ -7,8 +7,10 @@ missions:
     end: 2021-08-31
     status: admin
     employer: DRJSCS HdF
+    startups:
+      - aidess
 startups:
-  - AidESS-Relance
+  - aidess
 competences:
   - Administration Publique
 ---

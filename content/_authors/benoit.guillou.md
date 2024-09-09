@@ -7,10 +7,10 @@ missions:
     end: 2018-06-30
     status: independent
     employer: octo
-startups:
-    - avril
-    - clara
-    - maintenant
+previously:
+  - avril
+  - clara
+  - rdv-service-public
+  - maintenant
 ---
-
 Je sais, un peu partout, tout le monde s'entretue, c'est pas gai, mais d'autres s'entrevivent, j'irai les retrouver

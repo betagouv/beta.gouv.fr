@@ -1,16 +1,30 @@
 ---
 fullname: Anais Tailhade
-role: Support partenaires
+role: 'Responsable Support '
 domaine: Autre
+github: Anais-Tailhade
 missions:
   - start: 2021-11-18
-    end: 2022-05-14
-    status: service
-    employer: DINUM
+    end: 2024-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - annuaire-entreprises
+      - authentification
+      - moncomptepro
+      - suite-numerique
 badges:
   - segur
 startups:
-    - datapass
-    - api.gouv.fr
+  - moncomptepro
+  - annuaire-entreprises
+  - suite-numerique
+  - authentification
+previously:
+  - data.gouv.fr
+  - oots.once-only.technical.system
+  - datapass
+  - api.gouv.fr
+  - api-particulier
+competences: []
 ---
-

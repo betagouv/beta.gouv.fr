@@ -8,6 +8,8 @@ missions:
     end: 2019-06-30
     status: admin
     employer: DRDJSCS Auvergne Rhone-Alpes
+    startups:
+      - domifa
 startups:
   - domifa
 ---

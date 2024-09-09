@@ -6,7 +6,7 @@ layout: default
 
 <section class="section-blue section-main" >
   <div class="fr-container">
-    <div class="fr-grid-row fr-grid-row--gutters fr-pt-6w">
+    <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
       <div class="fr-col fr-col-12 fr-col-md-6">
         <h1>Construisons ensemble les services publics numériques de demain</h1>
         <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white" href="/approche">Découvrir le programme</a>
@@ -16,30 +16,29 @@ layout: default
         </svg> -->
       <div class="fr-col fr-col-12 fr-col-md-6">
         <div class="home-hero-anim">
-          <object data="/assets/home/heroanim/screen.svg" id="hero-anim-background"></object>
+          <img src="/assets/home/heroanim/screen.svg" id="hero-anim-background" alt="">
         </div>
-      </div>        
+      </div>
     </div>
   </div>
   <div id="hero-anim-hand-1-container">
-    <object data="/assets/home/heroanim/hand1-shape.svg" id="hero-anim-hand-1-shape"></object>   
-    <object data="/assets/home/heroanim/hand1-2.svg" id="hero-anim-hand-1"></object>
+    <img src="/assets/home/heroanim/hand1-shape.svg" id="hero-anim-hand-1-shape" alt="">
+    <img src="/assets/home/heroanim/hand1-2.svg" id="hero-anim-hand-1" alt="">
   </div>
-  <object data="/assets/home/heroanim/hand2-2.svg" id="hero-anim-hand-2"></object>
-  <object data="/assets/home/heroanim/hand3-2.svg" id="hero-anim-hand-3"></object>
+  <img src="/assets/home/heroanim/hand2-2.svg" id="hero-anim-hand-2" alt="">
+  <img src="/assets/home/heroanim/hand3-2.svg" id="hero-anim-hand-3" alt="">
 </section>
 <section class="fr-py-6w section-product">
   <div class="fr-container">
     <h2 class="section-title">Des services à impact</h2>
-    <h4 class="section-description">conçus pour tous, avec les administrations</h4>
+    <h3 class="section-description">conçus pour tous, avec les administrations</h3>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center startups fr-pt-6w">
       {% assign startups = site.startups %}
-      {% assign starts = "transport.data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise" | split: ","  %}
+      {% assign starts = "transport. data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise" | split: ","  %}
       {% for startup in startups %}
-          <!-- {{ startup.title }} -->
           {% if starts contains startup.title %}
             <div class="fr-col-12 fr-col-md-3">
-              <div class="fr-card fr-enlarge-link" >
+              <div class="fr-card fr-card--grey fr-enlarge-link" >
                 <div class="fr-card__body">
                   <h4 class="fr-card__title">
                     <a class="fr-card__link" href="{{ startup.url }}" >{{ startup.title | strip_html }}</a>
@@ -56,7 +55,7 @@ layout: default
                   <p class="fr-card__desc">{{ startup.mission | strip_html }}</p>
                 </div>
                 <div class="fr-card__img">
-                  {% include screenshot.html startup=startup force=true %}
+                  {% include screenshot.html startup=startup %}
                 </div>
               </div>
             </div>
@@ -73,21 +72,21 @@ layout: default
   <div class="fr-grid-row fr-grid-row--center">
     <div>
       <h2 class="section-title">Faisons équipe</h2>
-      <h4 class="section-description">
+      <p class="fr-h3 section-description">
         Agent public, rejoignez une équipe<br>
-<span class="section-highlight">pluridisciplinaire</span>, <span class="section-highlight">engagée</span> au <span class="section-highlight">service de l’intérêt général</span>
-      </h4>
+      <strong class="section-highlight">pluridisciplinaire</strong>, <strong class="section-highlight">engagée</strong> au <strong class="section-highlight">service de l’intérêt général</strong>
+      </p>
       <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-py-6w">
-        <a class="fr-btn fr-btn--md button-white-border fr-btn--secondary fr-enlarge-link" href="/devenir-intrapreneur">Devenir intrapreneur</a>
+        <a class="fr-btn fr-btn--md button-white fr-btn--secondary fr-enlarge-link" href="/devenir-intrapreneur">Devenir intrapreneur</a>
       </div>
       <div class="fr-grid-row fr-grid-row--gutters startups">
         <div class="fr-col-12 fr-col-md-4">
           <div class="fr-card fr-card--no-arrow">
-            <div class="fr-card__body"> 
+            <div class="fr-card__body">
               <div class="home-team-animation-container">
-                <object data="/assets/home/coach_back.svg" class="home-team-animation-background"></object>    
-                <object data="/assets/home/coach.svg" class="home-team-animation-foreground"></object>
-              </div>      
+                <img src="/assets/home/coach_back.svg" class="home-team-animation-background" alt="">
+                <img src="/assets/home/coach.svg" class="home-team-animation-foreground" alt="">
+              </div>
               <h3 class="fr-card__title">
                 Coach
               </h3>
@@ -97,16 +96,16 @@ layout: default
         </div>
         <div class="fr-col-12 fr-col-md-4">
           <div class="fr-card fr-card--no-arrow">
-            <div class="fr-card__body">  
+            <div class="fr-card__body">
               <div class="home-team-animation-container">
-                <object data="/assets/home/intra_back.svg" class="home-team-animation-background"></object>    
-                <object data="/assets/home/intra.svg" class="home-team-animation-foreground"></object>
-              </div>       
+                <img src="/assets/home/intra_back.svg" class="home-team-animation-background" alt="">
+                <img src="/assets/home/intra.svg" class="home-team-animation-foreground" alt="">
+              </div>
               <h3 class="fr-card__title">
                 Intrapreneure ou intrapreneur
               </h3>
               <p class="fr-card__desc">
-                <b>Agent public</b> et expert(e) métier, responsable d’un produit après une formation beta.gouv  
+                <b>Agent public</b> et expert(e) métier, responsable d’un produit après une formation beta.gouv
               </p>
             </div>
           </div>
@@ -115,9 +114,9 @@ layout: default
           <div class="fr-card fr-card--no-arrow">
             <div class="fr-card__body">
               <div class="home-team-animation-container">
-                <object data="/assets/home/deploiement_back.svg" class="home-team-animation-background"></object>    
-                <object data="/assets/home/deploiement.svg" class="home-team-animation-foreground"></object>
-              </div>      
+                <img src="/assets/home/deploiement_back.svg" class="home-team-animation-background" alt="">
+                <img src="/assets/home/deploiement.svg" class="home-team-animation-foreground" alt="">
+              </div>
               <h3 class="fr-card__title">
                 Chargée ou chargé de déploiement
               </h3>
@@ -131,9 +130,9 @@ layout: default
           <div class="fr-card fr-card--no-arrow">
             <div class="fr-card__body">
               <div class="home-team-animation-container">
-                <object data="/assets/home/design_back.svg" class="home-team-animation-background"></object>    
-                <object data="/assets/home/design.svg" class="home-team-animation-foreground"></object>
-              </div>     
+                <img src="/assets/home/design_back.svg" class="home-team-animation-background" alt="">
+                <img src="/assets/home/design.svg" class="home-team-animation-foreground" alt="">
+              </div>
               <h3 class="fr-card__title">
                 Designer
               </h3>
@@ -147,9 +146,9 @@ layout: default
           <div class="fr-card fr-card--no-arrow">
             <div class="fr-card__body">
               <div class="home-team-animation-container">
-                <object data="/assets/home/dev_back.svg" class="home-team-animation-background"></object>    
-                <object data="/assets/home/dev.svg" class="home-team-animation-foreground"></object>
-              </div>     
+                <img src="/assets/home/dev_back.svg" class="home-team-animation-background" alt="">
+                <img src="/assets/home/dev.svg" class="home-team-animation-foreground" alt="">
+              </div>
               <h3 class="fr-card__title">
                 Développeuse ou développeur
               </h3>
@@ -163,9 +162,9 @@ layout: default
           <div class="fr-card fr-card--no-arrow">
             <div class="fr-card__body">
               <div class="home-team-animation-container">
-                <object data="/assets/home/produit_back.svg" class="home-team-animation-background"></object>    
-                <object data="/assets/home/produit.svg" class="home-team-animation-foreground"></object>
-              </div>                        
+                <img src="/assets/home/produit_back.svg" class="home-team-animation-background" alt="">
+                <img src="/assets/home/produit.svg" class="home-team-animation-foreground" alt="">
+              </div>
               <h3 class="fr-card__title">
                 Gestionnaire de produit
               </h3>
@@ -175,51 +174,37 @@ layout: default
               </p>
             </div>
           </div>
-        </div>        
+        </div>
       </div>
-    </div>  
+    </div>
   </div>
 </div>
 </section>
 <section class="fr-py-6w section-principle">
   <div class="fr-container">
     <div class="centered">
-      <h2 class="section-title">Un programme :<br> <span style="color: #4941C0">3 principes</span></h2>
+      <h2 class="section-title">Un programme :<br> <strong class="section-description">3 principes</strong></h2>
     </div>
-    <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups">
+    <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters">
       <div class="fr-col-12 fr-col-md-4">
-        <object data="/assets/home/manifest.svg" class="section-principle-animation"></object>              
+        <img src="/assets/home/manifest.svg" class="section-principle-animation" alt="">
       </div>
-      <div class="fr-py-6w fr-col-12 fr-col-md-8">
-        <p class="section-principle-list-item">
-          <span class="section-principle-list-item-number">1.</span>
+      <ul class="fr-py-6w fr-col-12 fr-col-md-8">
+        <li class="section-principle-list-item">
           <span class="section-principle-list-item-content">Les besoins des <b>utilisatrices et utilisateurs</b> sont toujours prioritaires.</span>
-        </p>
-        <p class="section-principle-list-item">
-          <span class="section-principle-list-item-number">2.</span>
+        </li>
+        <li class="section-principle-list-item">
           <span class="section-principle-list-item-content">Nous travaillons sans préjuger du résultat final. Seul l'<b>impact compte</b></span>.
-        </p>
-        <p class="section-principle-list-item">
-          <span class="section-principle-list-item-number">3.</span>
+        </li>
+        <li class="section-principle-list-item">
           <span class="section-principle-list-item-content">Nous faisons <b>confiance aux agents publics</b>, qui connaissent le terrain</span>.
-        </p>
-        <a class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link" href="/approche/manifeste">Lire notre manifeste</a>
-      </div>      
+        </li>
+      </ul>
+      <p><a class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link" href="/manifeste">Lire notre manifeste</a></p>
     </div>
   </div>
 </section>
-<hr>
-<section class="fr-py-6w newsletter">
-  <div class="fr-container">
-    <form method="post" target="_blank" action="https://981c5932.sibforms.com/serve/MUIEAED7q5La6zVwcMrAI5cwJB2EZmeOZVHfadIeHA7u9YyGUb9FB0MqprJ1A4DbWnpORGiPSZA4yxdpLFnWbjSvsFFgYNTtd7A54LhPxK3Zg2jaB_qK-b5Sm6aZ2M6kV1nO2mpJW0KcFGIMb5KbirWUxg8CJsQJUp_AJ6ARN5PSdFNxQpzVAPXKMNs1Z7n9lgK9bMoL9fFVP_Wx" id="newsletter">
-      <h4>Gardons le contact</h4>
-      <p>Recevez les actualités de beta.gouv, tous les mois</p>
-      <div class="fr-input-group">
-        <button class="fr-btn" type="submit" name="subscribe" id="form-submit">S’inscrire</button>
-      </div>
-    </form>
-  </div>
-</section>
+
 <script type="text/javascript">
   var hand1 = document.getElementById('hero-anim-hand-1');
   var hand2 = document.getElementById('hero-anim-hand-2');
@@ -233,7 +218,7 @@ layout: default
     var bodyRect = document.body.getBoundingClientRect();
     var offset = containerElement.top - (bodyRect.top + window.innerHeight);
     if (value > offset && value < (containerElement.top + window.innerHeight - bodyRect.top)) {
-      const val = value - containerElement.height;  
+      const val = value - containerElement.height;
       for (var i = 0; i < teambg.length; i++) {
         teambg[i].style.transform = 'scale('+ (1 + ((0.2*val)/containerElement.height)) + ')';
       }
@@ -251,4 +236,3 @@ layout: default
   })
 
 </script>
-

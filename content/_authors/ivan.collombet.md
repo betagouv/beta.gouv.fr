@@ -8,12 +8,12 @@ missions:
     status: independent
     employer: icc
 previously:
-  - place-des-entreprises
+  - conseillers-entreprises
   - signaux-faibles
   - eva
   - diagoriente
   - signalement
-  - lapins
+  - rdv-service-public
   - monstage
   - trait-d-union
   - gps-usagers
@@ -22,6 +22,4 @@ previously:
   - api-drones
   - demarches-simplifiees.fr
   - reuni
-
 ---
-

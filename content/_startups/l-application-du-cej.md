@@ -1,14 +1,15 @@
 ---
 title: L'application du CEJ
-mission: "Contrat Engagement Jeune : Aider les jeunes les plus éloignés de
-  l'emploi à trouver leur voie"
+mission: Aider les jeunes les plus éloignés de l'emploi à trouver leur voie
 sponsors:
   - /organisations/dgefp
 incubator: sgmas
 repository: https://github.com/SocialGouv/pass_emploi_app
-contact: pass.emploi@beta.gouv.fr
+contact: contact@pass-emploi.beta.gouv.fr
+usertypes:
+  - particulier
+  - etat
 stats_url: https://sites.google.com/view/statistiques-pass-emploi
-link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
 stats: true
 phases:
   - name: investigation
@@ -17,68 +18,46 @@ phases:
   - name: construction
     start: 2021-09-30
     end: 2022-03-30
+  - name: acceleration
+    start: 2022-03-01
+accessibility_status: partiellement conforme
+thematiques:
+  - Travail / Emploi
+  - Jeunesse
+link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
+techno: []
 ---
-L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l’accompagnement du jeune par son conseiller (Pôle emploi ou Mission Locale) afin de limiter son décrochage.
+## Le contexte
+L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l’accompagnement des jeunes ayant accompagnés en CEJ par leurs conseillers (Pôle emploi ou Mission Locale) afin de limiter leurs décrochages en cours d’accompagnement.
+À travers une interface web et une application mobile, l’application s’inscrit dans une démarche d’accompagnement renforcé, et vient outiller le dispositif du Contrat d’Engagement Jeune (CEJ), tout en autonomisant le jeune dans sa recherche d’opportunités professionnelles et en facilitant son accès vers l’emploi.
 
-À travers une interface web et une application mobile, l’application s’inscrit dans une démarche d’accompagnement renforcé, et vient outiller le dispositif du Contrat d’Engagement Jeune (CEJ), tout en autonomisant le jeune dans sa recherche d’opportunités professionnelles.
+## Le problème
+### Jeunes :
+* Des moyens de contact à destination des conseillers qui ne correspondent pas à leurs habitudes de communication 
+* Des jeunes qui passent à côté d’opportunités professionnelles par méconnaissance de l’offre de service de Pôle emploi, de la Mission Locale et de leurs partenaires
+### Conseillers :
+* Des jeunes absents aux rendez-vous, difficilement joignables et peu réactifs sur les canaux de communications utilisés par les conseillers
+* Des jeunes qui ont besoin d’être mobilisés et qui manquent de proactivité dans leurs démarches 
+* Une perte de temps sur des tâches administratives nombreuses et récurrentes qui peut nuire à la qualité de l’accompagnement et à la disponibilité du conseiller
 
-✉️ **Vous êtes conseiller(ère) Pôle emploi ou Mission Locale ?** 
+## Notre solution
+### Pour les jeunes :
+Une application mobile qui : 
+* Instaure une communication de proximité entre le jeune et le conseiller et limite le décrochage en cours d’accompagnement
+* Centralise des services dédiés à l’accompagnement, au projet professionnel et à la recherche d’emploi afin qu’il soit guidé et impliqué avec plus d’efficacité dans son parcours d’accompagnement
 
-[Inscrivez-vous à la newsletter](https://e7ebcecb.sibforms.com/serve/MUIEAGGcVmvpJon1JwX1NDryrCokcf6UeW7WUBbMtxUI_1z-Y5QqXoKmW7XZWIY1oWa7MyZ0gs4n_z47OYjzyYrAEMxv4YJroeAh2QN2eIjShmh7xczIxOok5tiv9NMlZGUEiAn99j5Z2079dIvIgzRaTmeZEzeeAJtUJNIDpMh6bdLwxTqrKAbGLvMPQuyf98hB-UVt-Jo1Sb7-?mtm_campaign=newsletter-page-beta) pour vous tenir au courant des actualités de l’application du Contrat d’Engagement Jeune.
+### Pour les conseillers :
+Un back-office web qui : 
+* Propose un canal de communication sécurisé garantissant plus de réactivité et de spontanéité dans les échanges avec le jeune
+* Donne la possibilité de suivre l’activité renseigné par le jeune et de le remobiliser si besoin afin d’assurer un gain de temps et d’efficacité au conseiller
 
-### 📝 Une réponse à des problématiques terrain : 
+## Notre cible
 
-À l’origine de l’application du Contrat d’Engagement Jeune, plusieurs irritants dans l’accompagnement des jeunes par leur conseiller ont été identifiés lors des enquêtes terrains :
+Les jeunes suivis dans le cadre du Contrat d’Engagement Jeune à Pôle emploi et en Mission Locale et leurs conseillers
 
-* des difficultés à maintenir un contact facile et régulier entre le conseiller et le jeune en dehors des ateliers ou des rendez-vous,
-* le manque de visibilité sur le besoin de remobilisation du jeune dans sa recherche d’opportunités professionnelles retarde sa mise en action,
-* les difficultés du jeune à se projeter dans un parcours professionnel et construire un projet professionnel,
-* l’absentéisme et les rendez-vous manqués entre conseillers et jeunes,
-* le non recours aux aides et moyens de subsistance auxquels le jeune peut prétendre,
-* l’absence de réseau sur lequel le jeune peut s’appuyer pour débloquer des situations ou avoir accès aux informations.
+## Notre mesure d’impact et les objectifs
 
-### 🔧 Un outil du Contrat d’Engagement Jeune à destination des jeunes et de leur conseiller :
-
-En réponse aux irritants recensés ci-dessus, l’équipe de la Startup d'État a développé un outil à deux dimensions :
-
-* une application web pour les conseillers Mission locale et Pôle emploi accessible depuis un ordinateur,
-* une application mobile pour les jeunes.
-
-Le service proposé par l’application du Contrat d’Engagement Jeune s’articule autour de trois fonctionnalités principales : 
-
-* un module de messagerie instantanée entre le jeune et son conseiller,
-* une fonctionnalité de rendez-vous intégrée à l’application, 
-* une fonctionnalité de création et de suivi des actions du jeune dans son parcours.
-
-En outre, le jeune peut s’appuyer sur les modules de recherches d’opportunités professionnelles et puiser dans une boîte à outils pour l’accompagner dans la construction de son projet professionnel.
-
-### 🔁 Un service en amélioration permanente
-
-L’application du Contrat d’Engagement Jeune a été développée par l'équipe dans une logique de co-construction avec les utilisateurs et d’amélioration continue, suivant la méthode des startups d’Etat telles que Pix ou Immersion Facilitée.
-
-
-
-### ✊ Pour des objectifs d’impact ambitieux
-
-Conformément aux principes de développement des startups d’Etat, l’application du Contrat d’Engagement Jeune s’est fixée des objectifs d’impact mesurables :
-
-L’objectif principal est de diminuer le « décrochage » des jeunes de leur parcours d'accompagnement vers l’emploi.
-
-Il se décline en sous-objectifs et indicateurs :
-
-* le jeune est effectivement accompagné dans sa recherche d’emploi 
-
-  * % des jeunes qui ont au moins x échangés par semaine ou mois avec leur conseiller Taux “d’abandon” à l’issue du premier rendez-vous. pas de contacts ou d’actions significatives après 30 jours le jeune dispose de moyens suffisants pour vivre et rechercher un emploi 
-  * % des jeunes qui bénéficient effectivement des aides auxquelles ils peuvent prétendre (en commençant par les aides les plus critiques)
-  * % de jeunes utilisant l’équivalent de la carte étudiant et montants dépensés
-* le jeune a un projet professionnel 
-
-  * % de jeunes avec une carte de compétences type Diagoriente ou un équivalent 
-  * % des jeunes engagés dans un projet d’immersion professionnelle, alternance, formation ou autre
-  * taux de sortie positive (emploi stable)
-
-
-
-### **✉️ [S’inscrire à la newsletter](https://e7ebcecb.sibforms.com/serve/MUIEAGGcVmvpJon1JwX1NDryrCokcf6UeW7WUBbMtxUI_1z-Y5QqXoKmW7XZWIY1oWa7MyZ0gs4n_z47OYjzyYrAEMxv4YJroeAh2QN2eIjShmh7xczIxOok5tiv9NMlZGUEiAn99j5Z2079dIvIgzRaTmeZEzeeAJtUJNIDpMh6bdLwxTqrKAbGLvMPQuyf98hB-UVt-Jo1Sb7-?mtm_campaign=newsletter-page-beta) ✉️**
-
-pour se tenir au courant des actualités de l’application du Contrat d’Engagement Jeune.
+* Limitation du décrochage des jeunes en cours d'accompagnement
+* Autonomisation des jeunes / engagement 
+* Rapidité d'accès à un emploi durable 
+* Taux de sorties positives des jeunes

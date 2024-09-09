@@ -5,9 +5,15 @@ domaine: Déploiement
 github: Camillefwok
 missions:
   - start: 2020-10-07
-    end: 2022-06-30
+    end: 2024-12-07
     status: independent
-    employer: Octo
+    employer: malt
+    startups:
+      - chauffage-urbain
 startups:
+  - chauffage-urbain
+previously:
   - aidantsconnect
+badges:
+  - segur
 ---

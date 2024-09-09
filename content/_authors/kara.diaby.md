@@ -1,14 +1,15 @@
 ---
-fullname: Kara Diaby # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
+fullname: Kara Diaby
 role: Développeur
 domaine: Développement
 github: kara22
-missions: 
-  - start: 2020-02-03 # date d'arrivée au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
-    end: 2022-12-31 # date de fin de contrat au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
+missions:
+  - start: 2020-02-03
+    end: 2024-12-31
     status: independent
+    startups:
+      - demarches-simplifiees.fr
 startups:
-    - demarches-simplifiees.fr
+  - demarches-simplifiees.fr
 ---
-
 Réacteur.

@@ -10,11 +10,10 @@ missions:
     status: admin
     employer: eig
   - start: 2020-03-01
-    end: 2023-02-28
+    end: 2024-09-30
     status: admin
     employer: DGE
 startups:
-    - signaux-faibles
+  - signaux-faibles
 ---
-
 Pilote opérationnelle

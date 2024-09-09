@@ -2,7 +2,7 @@
 title: Fil'harmonic
 mission: Faciliter le travail administratif autour des contrôles ICPE
 sponsors:
-    - /organisations/dgpr
+  - /organisations/dgpr
 events:
   - name: end
     date: 2019-12-01
@@ -24,8 +24,10 @@ techno:
   - Go
   - PostgreSQL
   - Docker
+usertypes:
+  - entreprise
+  - etat
 ---
-
 ## La protection des personnes et de l’environnement, un enjeu collectif
 Les installations industrielles sont un maillon indispensable de notre économie : elles permettent de produire des biens et des services dont nous jouissons tous les jours. Toutefois, elles comportent des risques et peuvent engendrer des pollutions et des accidents.
 

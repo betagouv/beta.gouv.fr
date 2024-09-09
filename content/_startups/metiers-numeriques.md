@@ -1,23 +1,29 @@
 ---
-title: Métiers Numériques
-mission: Promouvoir les emplois numériques de l'État pour y attirer les meilleurs talents 
+title: Métiers du Numérique
+mission: Promouvoir les emplois numériques de l'État pour y attirer les meilleurs talents
 sponsors:
-    - /organisations/dinum
-incubator: dinum
+  - /organisations/dinum
+incubator: dinum_produits_interministeriels
 phases:
   - name: investigation
     start: 2021-03-02
     end: 2021-05-07
   - name: construction
     start: 2021-05-16
+  - name: alumni
+    start: 2023-06-23
 contact: contact@metiers.numerique.gouv.fr
 link: https://metiers.numerique.gouv.fr
 repository: https://github.com/betagouv/metiers-numeriques
 stats: true
 stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=191&period=range&date=previous30&updated=1
+usertypes:
+  - particulier
+  - etat
+thematiques: []
+techno: []
 ---
-
-### Contexte
+## Contexte
 
 Le numérique est incontournable et prend une place croissante dans nos vies et nos usages. Pourtant, si les besoins sont très importants, les ressources humaines sont limitées et l'on assiste aujourd’hui à une véritable guerre des talents dans le numérique.
 
@@ -25,7 +31,7 @@ Dans ce contexte, l'État reste un des gros pourvoyeurs de postes dans le numér
 
 L’enjeu d'attractivité est collectif, notre objectif est d'y répondre de la façon la plus adéquate et pertinente possible.
 
-### Problèmes identifiés
+## Problèmes identifiés
 
 **Pour les recruteur·ses** :
 
@@ -43,18 +49,18 @@ Aujourd’hui, en moyenne 10 à 15% des postes proposés ne sont pas pourvus. Ce
 
 Viens constater l’inverse et changer la donne de l'intérieur ! Parce que l'État a besoin de tous les talents numériques, rejoins l’aventure !
 
-### Le produit
+## Le produit
 
-metiers.numerique.gouv.fr est plus qu’un simple site internet ! 
+metiers.numerique.gouv.fr est plus qu’un simple site internet !
 
-Le site metiers.numerique permet de trouver des missions enrichissantes et stimulantes. Avec plus de 200 offres par mois, chacun·e peut trouver la mission qui l'intéresse !
+Le site Métiers du Numerique permet de trouver des missions enrichissantes et stimulantes. Avec plus de 200 offres par mois, chacun·e peut trouver la mission qui l'intéresse !
 
 Cette plateforme de matching permet la rencontre entre des candidat·es qui veulent travailler pour l'intérêt général et des recruteurs publics qui ont des besoins de compétences.
 
-### Notre ambition
+## Notre ambition
 
 - Mettre en lumière les projets, les technologies, les méthodes de travail, les femmes et les hommes qui rendent tout cela possible !
 - Simplifier et rendre accessible les offres d’emploi.
-- Objectifs (propositions) :
-  - 40 recrutements effectués via notre site.
-  - 300 talents référencés sur le site en année 1.
+- Objectifs 2022 :
+  - 40 recrutements effectués via notre site
+  - 300 talents référencés sur le site

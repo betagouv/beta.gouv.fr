@@ -2,12 +2,15 @@
 title: Setaccords
 mission: Faciliter la gestion des accords et traités
 sponsors:
-    - /organisations/meae
+  - /organisations/meae
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 contact: atelier.numerique@diplomatie.gouv.fr
 phases:
   - name: investigation
     start: 2021-09-15
+    end: 2022-01-07
+  - name: alumni
+    start: 2022-01-07
 ---
 **Contexte**
 

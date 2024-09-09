@@ -1,13 +1,16 @@
 ---
 fullname: Adrien Chauve
-role: Tech lead / SRE
+role: DevSecOps
 domaine: Développement
 github: achauve
 missions:
   - start: 2022-03-07
-    end: 2022-04-07
+    end: 2024-12-31
     status: independent
-    employer: Octo
+    employer: Fabrique numérique des ministères sociaux
+  - start: 2024-06-17
+    end: 2025-12-31
+    status: admin
+    employer: DNUM des ministères sociaux
 ---
-
-Dev fullstack, devops, pour la tech à impact positif
+Devops pour l'intérêt général

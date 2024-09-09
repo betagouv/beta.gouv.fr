@@ -1,8 +1,8 @@
 ---
 title: API Drones
 mission: Améliorer la connaissance du ciel pour plus de sécurité et d'innovation
-sponsors: 
-    - /organisations/sgdsn
+sponsors:
+  - /organisations/sgdsn
 incubator: dinum
 events:
   - name: end
@@ -13,12 +13,14 @@ phases:
   - name: construction
     start: 2017-06-01
   - name: alumni
-link:
+    start: 2018-12-31
 repository: https://framagit.org/drone
 stats: false
 contact: yohan.boniface@data.gouv.fr
+usertypes:
+  - particulier
+  - etat
 ---
-
 ## Plus de 300 000 objets volants non identifiés
 
 L’espace aérien proche est en train de devenir, comme les routes au cours du siècle dernier, une zone de circulation massive. Il existe déjà en France près de 300 000 drones et ce nombre est en augmentation rapide. Aucun système ne permet aujourd’hui de suivre et de coordonner leurs vols.

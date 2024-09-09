@@ -7,7 +7,6 @@ missions:
     end: 2018-12-31
     status: admin
     employer: DIRECCTE
-startups:
 previously:
-  - place-des-entreprises
+  - conseillers-entreprises
 ---

@@ -4,26 +4,26 @@ role: Développeur
 domaine: Développement
 github: jdesboeufs
 missions:
-  - end: 2015-03-09
-    start: 2014-03-10
-    employer: dinum
+  - start: 2014-03-10
+    end: 2015-03-09
     status: admin
-  - employer: Octo
+    employer: dinum
+  - start: 2015-03-10
     end: 2015-09-17
-    start: 2015-03-10
     status: service
-  - employer: Living Data
-    end: 2022-12-31
-    start: 2015-09-18
-    status: independent
+    employer: Octo
+  - start: 2015-09-18
+    end: 2024-12-31
+    status: service
+    employer: Living Data
 startups:
-  - ban
+  - pcrs
 previously:
+  - ban
   - api-geo
   - urbaclic
   - mes-aides
   - api.gouv.fr
   - geo.data.gouv.fr
-badges: null
 ---
 Repenser l'administration avec le numérique pour améliorer le service public

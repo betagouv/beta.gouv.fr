@@ -9,13 +9,15 @@ missions:
     status: admin
     employer: dinum
   - start: 2020-09-01
-    end: 2022-03-31
+    end: 2024-09-30
     status: independent
-    employer: octo
+    employer: octo, malt
 startups:
+  - api.gouv.fr
   - api-entreprise
+  - api-particulier
+  - datapass
 previously:
   - mps
 ---
-
 Je parle à des canards.

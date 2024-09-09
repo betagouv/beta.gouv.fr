@@ -1,21 +1,23 @@
 ---
 fullname: Arnaud Denoix
 domaine: Animation
-role: Co-animateur du programme beta.gouv.fr
+role: Directeur du GIP Plateforme de l'inclusion / Coach
 github: adenoix
 missions:
   - start: 2018-12-07
-    end: 2022-12-31
-    employer: dinum
+    end: 2025-06-30
     status: admin
-startups:
-  - itou
-  - data.insertion
-  - aides.jeunes
-  - dora
+    employer: GIP Plateforme de l'inclusion
+teams:
+  - /teams/gip-inclusion
 previously:
   - avril
   - la-bonne-formation
+  - aides.jeunes
+  - les-emplois
+  - rdv.insertion
+  - dora
+  - data-inclusion
 badges:
   - segur
 competences:

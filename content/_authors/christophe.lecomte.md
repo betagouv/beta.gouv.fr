@@ -4,12 +4,13 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2021-12-01
-    end: 2022-12-31
+    end: 2024-12-31
     status: independent
     employer: OCTO
+    startups:
+      - conseillers-entreprises
 startups:
-  - place-des-entreprises
+  - conseillers-entreprises
 badges:
   - segur
 ---
-

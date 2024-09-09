@@ -4,9 +4,13 @@ role: Intrapreneuse
 domaine: Intraprenariat
 missions:
   - start: 2020-09-02
-    end: 2022-06-30
+    end: 2026-06-30
     status: admin
+    startups:
+      - preuve-de-covoiturage
 startups:
-    - le-taxi
-    - mesads
+  - preuve-de-covoiturage
+previously:
+  - le-taxi
+  - mesads
 ---

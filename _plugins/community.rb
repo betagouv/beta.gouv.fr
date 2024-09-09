@@ -2,33 +2,23 @@ module Jekyll
   module CommunityFilter
     def community(people, state, sort_by = 'oldest')
       now = Date.today
-      current = []
-      past = []
-      people.each do |person|
-        missions = person.data['missions']
-        if missions&.last and # they had at least one
-          missions&.last['end'] and # and it had an end date
-          missions&.last['end'] <= now # and the date is in the past
-          past << person
-        else
-          current << person
-        end
+
+      past, current = people.partition do |person|
+        date = person.data['missions']&.last&.dig('end')
+
+        date && date <= now
       end
 
-      if state == 'past'
-        result = past
-      else
-        result = current
-      end
+      result = state == 'past' ? past : current
 
-      if sort_by != 'alpha' 
+      if sort_by != 'alpha'
         result = result.sort_by { |person| person.data['missions']&.map{ |e| e['start'] || Date.today }&.min || Date.today }.reverse
       else
         result = result.sort_by { |person| person.data['fullname'] }
       end
 
       if state == 'recent'
-        result[1..3]
+        result.first(3)
       else
         result
       end
@@ -36,7 +26,6 @@ module Jekyll
   end
 
 class RenderCommunityStatsTag < Liquid::Tag
-
   def initialize(tag_name, input, tokens)
     super
     @input = input
@@ -58,6 +47,7 @@ class RenderCommunityStatsTag < Liquid::Tag
         'Intraprenariat' => [],
         'Animation' => [],
         'Produit' => [],
+        'Data' => []
       },
       'domaine' => {
         'Déploiement' => 0,
@@ -67,7 +57,8 @@ class RenderCommunityStatsTag < Liquid::Tag
         'Autre' => 0,
         'Intraprenariat' => 0,
         'Animation' => 0,
-        'Produit' => 0
+        'Produit' => 0,
+        'Data' => 0
       },
       'total' => 0
     }
@@ -85,7 +76,7 @@ class RenderCommunityStatsTag < Liquid::Tag
         end
         if author.data['missions']&.last['end'] >= now
           result['domaine'][author.data['domaine']] = result['domaine'][author.data['domaine']] + 1
-          result['total'] = result['total'] + 1 
+          result['total'] = result['total'] + 1
         end
       end
     end
@@ -97,7 +88,10 @@ class RenderCommunityStatsTag < Liquid::Tag
     end
   end
 end
+
+
 end
+
 
 Liquid::Template.register_filter(Jekyll::CommunityFilter)
 Liquid::Template.register_tag('render_community_stats', Jekyll::RenderCommunityStatsTag)

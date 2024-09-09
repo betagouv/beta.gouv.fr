@@ -16,5 +16,4 @@ missions:
 startups:
   - e-inspé
 ---
-
 Développeur, data scientist, responsable admin chez TelesCoop

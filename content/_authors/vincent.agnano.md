@@ -7,14 +7,13 @@ avatar: https://vinyll.github.io/images/avatar.jpg
 link: https://vinyll.neomad.org
 missions:
   - start: 2016-04-01
-    end: 2022-12-31
+    end: 2024-12-31
     status: service
     employer: lazone
-startups: []
 previously:
   - egalite.professionnelle
   - classe-a-12
-  - saisissezauvol
+  - auvol
   - eac
   - api-drones
   - data.gouv.fr
@@ -23,4 +22,4 @@ competences:
   - Développement Backend
   - Gestion de Produit
 ---
-Chargé de portefeuille, développeur, animateur d'espaces citoyens en zone rurale.
+Accompagnement des équipes pour l'Incubateur des Territoires (ANCT), développeur, animateur de tiers-lieux en zones rurales.

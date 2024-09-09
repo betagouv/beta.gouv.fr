@@ -2,7 +2,7 @@
 title: Culture chez Nous
 mission: Accompagner et autonomiser les acteurs culturels pour la production de contenus numériques adaptés aux usages et aux besoins des citoyens.
 sponsors:
- - /organisations/mc
+  - /organisations/mc
 incubator: culture
 phases:
   - name: investigation
@@ -11,11 +11,13 @@ phases:
   - name: construction
     start: 2021-12-31
     end: 2022-06-30
-link:
-repository:
+  - name: alumni
+    start: 2022-07-31
 stats: false
-stats_url:
 contact: ateliernumerique.snum@culture.gouv.fr
+usertypes:
+  - association
+  - entreprise
 ---
 ## Le contexte
 

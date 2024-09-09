@@ -1,9 +1,22 @@
 ---
-title: Datagir (ex Ecolab)
-mission:  Apporter l'information environnementale au plus près des citoyens
+title: Datagir
+mission: Apporter l'information environnementale au plus près des citoyens
 sponsors:
- - /organisations/ademe
-incubator: dinum
+  - /organisations/ademe
+incubator: ademe
+link: https://datagir.ademe.fr/
+repository: https://github.com/datagir/datagir-site
+contact: datagir@ademe.fr
+accessibility_status: partiellement conforme
+usertypes:
+  - particulier
+  - collectivite-territoriale
+  - entreprise
+  - association
+  - etablissement-scolaire
+stats_url: https://datagir.ademe.fr/stats/
+stats: true
+budget_url: https://datagir.ademe.fr/budget/
 phases:
   - name: investigation
     start: 2019-01-02
@@ -13,14 +26,18 @@ phases:
     start: 2020-11-17
   - name: transfer
     start: 2021-07-01
-link: https://datagir.ademe.fr/
-repository: https://github.com/datagir/datagir-site
-stats: true
-stats_url: https://datagir.ademe.fr/stats/
-contact: contact@datagir.beta.gouv.fr
+  - name: success
+    start: 2022-06-13
+  - name: alumni
+    start: 2023-05-03
+thematiques: []
+techno: []
 ---
+*La fiche ci-dessous est celle de Datagir de ses débuts à son transfert (2019-2022). **En 2023, Datagir disparaît progressivement au profit de ses deux principaux produits** qui deviennent des startups d'Etat à part entière :*
+ - ***[Nos Gestes Climat](https://beta.gouv.fr/startups/nosgestesclimat.html)***
+ - ***[Impact CO2](https://beta.gouv.fr/startups/impact.co2.html)***
 
-# (Ré)Concilier défi planétaire et vie quotidienne
+## (Ré)Concilier défi planétaire et vie quotidienne
 
 Année après année, les français se déclarent de plus en plus nombreux à vouloir agir en faveur de l'environnement, et le placent même pour la première fois en [haut de la liste de leurs préoccupations](https://presse.ademe.fr/2019/12/barometre-les-francais-placent-lenvironnement-pour-la-premiere-fois-en-haut-de-la-liste-de-leurs-preoccupations.html).
 Mais l'enjeu est de taille : passer d'une empreinte de [11,2 tonnes](https://www.insee.fr/fr/statistiques/3281683?sommaire=3281778) d'équivalent CO2 / an actuellement à [moins de 2 tonnes](http://temis.documentation.developpement-durable.gouv.fr/docs/Temis/0085/Temis-0085717/22640.pdf) pour contenir le réchauffement climatique à moins de 2 °C.

@@ -1,14 +1,16 @@
 ---
 fullname: Adeline Latron
 role: Cheffe de produit
-domaine: Déploiement
+domaine: Produit
 github: adeline-lrn
 missions:
   - start: 2019-02-07
-    end: 2022-07-17
-    status: independent
+    end: 2025-11-01
+    status: admin
+    employer: Ministère de l'Économie
+    startups:
+      - conseillers-entreprises
 startups:
-    - place-des-entreprises
+  - conseillers-entreprises
+competences: []
 ---
-
-

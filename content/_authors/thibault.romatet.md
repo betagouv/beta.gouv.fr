@@ -7,9 +7,14 @@ missions:
     end: 2022-12-31
     status: admin
     employer: HC3E
+    startups:
+      - l-application-du-cej
+      - pass.engagement.jeune
 startups:
-  - aides.jeunes
   - l-application-du-cej
+  - pass.engagement.jeune
+previously:
+  - aides.jeunes
 competences:
   - Administration Publique
 ---

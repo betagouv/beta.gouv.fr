@@ -1,13 +1,27 @@
 ---
 fullname: Marine Purson
-role: intrapreneure au sein du ministère de la Transition écologique
-domaine: Autre
-github: marinepurson
+role: Responsable des Relations institutionnelles
+domaine: Animation
+github: marinepurson2
 missions:
   - start: 2020-05-06
-    end: 2022-06-30
+    end: 2022-12-31
     status: admin
     employer: MTES
-startups:
-    - recosante
+    startups:
+      - recosante
+  - start: 2023-12-04
+    end: 2026-12-03
+    status: admin
+    employer: DINUM
+teams:
+  - /teams/communaute-dinum
+previously:
+  - recosante
+link: https://www.linkedin.com/in/marinepurson/
+competences:
+  - Communication
+  - Administration Publique
+  - Intrapreneur(se)
+  - Facilitation
 ---

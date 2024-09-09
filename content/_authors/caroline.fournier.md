@@ -1,15 +1,20 @@
 ---
 fullname: Caroline FOURNIER
 domaine: Coaching
-role: coach
-link: https://www.carolinefournier.com/
+role: coach et designer
+link: https://www.carolinefournier.fr/
 missions:
   - start: 2021-04-20
-    end: 2022-06-01
+    end: 2024-12-17
     status: independent
     employer: Numa
+    startups:
+      - chauffage-urbain
+      - infomedicament
 startups:
   - chauffage-urbain
+previously:
+  - mon-suivi-social
 competences:
   - UX
   - UI

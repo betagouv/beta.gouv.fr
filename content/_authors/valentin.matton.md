@@ -1,16 +1,21 @@
 ---
 fullname: Valentin Matton
-role: Développeur back
 domaine: Développement
+role: Développeur & Data
 github: vmttn
 missions:
   - start: 2022-03-02
-    end: 2022-06-02
-    status: independent
-    employer: Octo
+    end: 2026-02-28
+    status: admin
+    employer: Plateforme de l'Inclusion
+    startups:
+      - data-inclusion
 startups:
-  - dora
+  - data-inclusion
 badges:
   - segur
+competences:
+  - Développement Backend
+  - Python
+  - PostgreSQL
 ---
-

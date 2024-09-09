@@ -1,14 +1,11 @@
 {% comment %}
-  S'appelle avec une startup. On peut spécifier force=true pour forcer une image.
-  Ex : {% include screenshot.html startup=startup %}
+S'appelle avec une startup. Ex :
+{% include screenshot.html startup=startup %}
 {% endcomment %}
-{% assign startup_id = include.startup.id | remove: '/startups/' %}
-{% assign screenshot_files = site.static_files | where: "startups_img", true %}
-{% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
-{% if screenshot_file %}
-  {% assign screenshot_path = screenshot_file.path %}
-  <img class="fr-responsive-img lozad" data-src="{{ screenshot_path }}" title="Interface de {{ include.startup.title }}" alt="" data-proofer-ignore>
-{% elsif include.force %}
-  {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
-  <img class="fr-responsive-img lozad" data-src="{{ screenshot_path }}" title="{{ include.startup.title }} est encore en travaux" alt="" data-proofer-ignore>
-{% endif %}
+
+<img
+    class="fr-responsive-img lozad fr-ratio-16x9"
+    src="{{ site.empty_placeholder }}"
+    data-src="{{ include.startup | screenshot }}"
+    alt=""
+/>

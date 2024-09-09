@@ -1,0 +1,7 @@
+node_modules
+img
+vendor/ruby*
+vendor/bundle
+.jekyll-cache
+.scalingo
+content

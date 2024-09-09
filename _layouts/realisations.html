@@ -1,0 +1,183 @@
+---
+layout: default
+---
+
+{% assign lang = page.lang | default: site.lang | default: "en" %}
+
+<div id="realisations">
+    <section class="hero-section blue-background">
+        <div class="fr-container fr-py-5w">
+        <div class="fr-grid-row fr-grid-row--middle">
+            <div class="fr-col-md-8">
+                <h1 class="fr-mb-3w" style="color: var(--text-title-blue-france); font-weight: normal;">
+                    Nous construisons les <span style="font-weight: bold;">services numériques publics</span> de demain
+                </h1>
+                <a href="/startups" class="fr-btn fr-btn--md">Voir toutes nos réalisations</a>
+            </div>
+            <div class="fr-col-md-4">
+                <img class="fr-responsive-img" alt="" src="/assets/images/incubators-hero.png" />
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="fr-container">
+            <div class="fr-grid-row fr-grid-row--gutters fr-pt-2w">
+                <div class="fr-col-12 fr-col-sm-4">
+                    {% include card-highlight.html
+                        title="Construire de l’intérieur"
+                        description="En aidant les administrations à améliorer le service public."
+                        icon="/assets/images/icons/realisations/human-cooperation.svg"
+                    %}
+                </div>
+                <div class="fr-col-12 fr-col-sm-4">
+                    {% include card-highlight.html
+                        title="En amélioration continue"
+                        description="En testant régulièrement auprès d’utilisateurs concernés."
+                        icon="/assets/images/icons/realisations/avatar.svg"
+                    %}
+                </div>
+                <div class="fr-col-12 fr-col-sm-4">
+                    {% include card-highlight.html
+                        title="Avec des jalons tous les 6 mois"
+                        description="En suivant l’impact sur le terrain pour décider de continuer ou d’arrêter le produit."
+                        icon="/assets/images/icons/realisations/data-visualization.svg"
+                    %}
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="fr-container-fluid fr-py-3w">
+            <div class="fr-container">
+                <div class="fr-grid-row">
+                    <div class="fr-col">
+                        <h2 class="fr-m-0 fr-mt-1w">Nous construisons des services à <mark>impact</mark></h2>
+                    </div>
+                </div>
+                <div class="fr-grid-row fr-mt-3w">
+                    <div class="fr-col">
+                        <p class="fr-mb-0">
+                            Nous aidons les administrations à concevoir des services utiles pour notre société.
+                        </p>
+                    </div>
+                </div>
+                <div class="fr-grid-row fr-grid-row--gutters fr-pt-3w">
+                    <!-- Only take a few in case more are defined -->
+                    {% assign chosen_startups = site.startups | where_national_impact: 2023 %}
+                    {% for startup in chosen_startups limit:6 %}
+                        {% capture startup_full_id %}/startups/{{ startup.id }}{% endcapture %}
+                        {% assign startup = site.startups | where: "id", startup_full_id | first %}
+                        <div class="fr-col-12 fr-col-md-4 fr-mb-2w">
+                            {% include card-startup.html startup = startup %}
+                        </div>
+                    {% endfor %}
+                </div>
+                <div class="fr-grid-row">
+                    <div class="fr-col">
+                        <a class="fr-btn fr-btn--secondary fr-btn--md fr-mt-2w" href="/startups?national_impact=true">Voir tous nos services à impact</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="fr-container-fluid fr-py-3w">
+            <div class="fr-container">
+                <div class="fr-grid-row">
+                    <div class="fr-col">
+                        <h2 class="fr-m-0 fr-mt-1w">Nous améliorons nos services en <mark>continu</mark></h2>
+                    </div>
+                </div>
+                <div class="fr-grid-row fr-mt-3w">
+                    <div class="fr-col">
+                        <p class="fr-mb-0">
+                            Nous travaillons sans préjuger du résultat final, et améliorons nos services au fur et à mesure, directement en contact avec les utilisateurs.
+                        </p>
+                    </div>
+                </div>
+                <div class="fr-grid-row fr-grid-row--gutters fr-pt-3w">
+                    <div class="fr-col-12 fr-col-md-3 fr-mb-2w">
+                        <div class="fr-card fr-enlarge-link">
+                            <div class="fr-card__body">
+                                <h3 class="fr-card__title">
+                                    <a href="/startups/#investigation" class="fr-card__link">Investiguer</a>
+                                </h3>
+                                <ul class="fr-card__desc">
+                                    <li><span style="font-weight: bold;">Rencontrer</span> des usagers</li>
+                                    <li><span style="font-weight: bold;">Qualifier</span> le problème</li>
+                                    <li><span style="font-weight: bold;">Valider</span> que la solution peut être</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fr-col-12 fr-col-md-3 fr-mb-2w">
+                        <div class="fr-card fr-enlarge-link">
+                            <div class="fr-card__body">
+                                <h3 class="fr-card__title">
+                                    <a href="/startups/#construction" class="fr-card__link">Construire</a>
+                                </h3>
+                                <ul class="fr-card__desc">
+                                    <li><span style="font-weight: bold;">Constituer</span> l’équipe</li>
+                                    <li><span style="font-weight: bold;">Développer</span> une première version</li>
+                                    <li><span style="font-weight: bold;">Tester</span> le prototype</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fr-col-12 fr-col-md-3 fr-mb-2w">
+                        <div class="fr-card fr-enlarge-link">
+                            <div class="fr-card__body">
+                                <h3 class="fr-card__title">
+                                    <a href="/startups/#acceleration" class="fr-card__link">Accélérer</a>
+                                </h3>
+                                <ul class="fr-card__desc">
+                                    <li><span style="font-weight: bold;">Consolider</span> les fonctionnalités</li>
+                                    <li><span style="font-weight: bold;">Déployer</span> au national</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fr-col-12 fr-col-md-3 fr-mb-2w">
+                        <div class="fr-card fr-enlarge-link">
+                            <div class="fr-card__body">
+                                <h3 class="fr-card__title">
+                                    <a href="/startups/#success" class="fr-card__link">Pérenniser</a>
+                                </h3>
+                                <ul class="fr-card__desc">
+                                    <li>Créer les conditions de la <span style="font-weight: bold;">reprise</span></li>
+                                    <li><span style="font-weight: bold;">Assurer</span> la pérennité du projet</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="fr-pb-8w">
+        <div class="fr-container">
+            <div class="fr-grid-row fr-p-6w explore-startups">
+                <div class="fr-col-md-9">
+                    <h2 style="color: var(--text-title-blue-france);">Explorer nos réalisations</h2>
+                    <p>Nous accompagnons plus de 200 services numériques. Explorez les produits construits dans notre incubateur :</p>
+                    <ul>
+                        <li>par thématique</li>
+                        <li>par phase</li>
+                        <li>par type d’utilisateur</li>
+                        <li>par administration</li>
+                    </ul>
+                    <a class="fr-btn fr-btn--md fr-mt-3w" href="/startups">Voir nos réalisations</a>
+                </div>
+                <div class="fr-col-md-3">
+                    <img class="fr-responsive-img" alt="" src="/assets/images/icons/realisations/search.svg" data-fr-js-ratio="true">
+                </div>
+            </div>
+        </div>
+    </section>
+
+</div>

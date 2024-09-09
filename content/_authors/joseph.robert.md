@@ -5,11 +5,12 @@ domaine: Développement
 github: jozolr
 missions:
   - start: 2021-11-08
-    end: 2022-09-01
+    end: 2023-09-30
     status: service
     employer: OCTO
+    startups:
+      - l-application-du-cej
 startups:
   - l-application-du-cej
 ---
-
 J'aime coder.

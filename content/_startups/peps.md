@@ -3,26 +3,27 @@ title: Peps
 mission: Faciliter la transition du modèle agricole grâce au partage d'expériences
 sponsors:
   - /organisations/dgal
-incubator: dinum
+incubator: agriculture
 phases:
   - name: investigation
-    start: 2019-05-13 
+    start: 2019-05-13
   - name: construction
-    start: 2019-09-01 
+    start: 2019-09-01
   - name: transfer
     start: 2020-12-15
   - name: alumni
     start: 2021-12-31
-events: 
+events:
   - name: end
     date: 2021-09-01
 link: https://rex-agri.agroecologie.org/
 repository: https://github.com/betagouv/peps
-stats: true 
+stats: true
 stats_url: https://rex-agri.agroecologie.org/stats
 contact: support@agricultureduvivant.org
+usertypes:
+  - entreprise
 ---
-
 ## Le constat
 
 Le système agricole actuel est en pleine transformation sous l’effet de différentes dynamiques en particulier la mondialisation du marché agricole - qui entraîne une fluctuation des prix - et la réduction de l’utilisation des produits phytosanitaires - sous l’effet de l’apparition de résistances des adventices/ravageurs, de la demande sociétale et de la réglementation.
@@ -66,5 +67,7 @@ Nous avons cherché à valider la proposition de valeur présentée plus haut c�
 
 ### Transfert et pérennisation sous le nom "RexAgri"
 
-Fin 2020, après une analyse des résultats du service, le service Peps sort d'incubation au sein de l'incubateur de la Direction interministérielle du numérique. En 2021, après une recherche de repreneur, le service a été pérennisé au sein d'une association sélectionnée par les ministères de la Transition écologique et de l'Agriculture : Pour une Agriculture du Vivant (PADV).
+Fin 2020, après une analyse des résultats du service (4300 visites entre juin et décembre 2020, 189 retours d'expérience publiés, 13 messages échangés entre agriculteurs sur le site), le service Peps sort d'incubation au sein de l'incubateur de la Direction interministérielle du numérique. En 2021, après une recherche de repreneur, le service a été pérennisé au sein d'une association sélectionnée par les ministères de la Transition écologique et de l'Agriculture : Pour une Agriculture du Vivant (PADV).
+
+Le service est à présent disponible à l'URL : https://agroecologie.org/retour-experience
 

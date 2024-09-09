@@ -1,15 +1,27 @@
 ---
 fullname: Maxine Sabater
-domaine: Coaching
-role: "Co-animatrice de la Fabrique numérique de la DGFiP "
+domaine: Déploiement
+role: Responsable des Opérations
 github: maxinesabater
 missions:
-  - start: 2021-03-15
-    end: 2022-03-31
-    status: admin
-    employer: DTNum (DGFiP)
+  - start: 2022-11-07
+    end: 2024-12-31
+    status: independent
+    employer: ADEME
+    startups:
+      - impact.co2
 startups:
+  - impact.co2
+previously:
+  - datagir
+  - faritas
   - attractivite.des.territoires
+badges:
+  - segur
 competences:
+  - Communication
+  - Gestion de Produit
+  - Croissance
   - Administration Publique
+link: https://www.linkedin.com/in/maxine-sabater-64333bb0/
 ---

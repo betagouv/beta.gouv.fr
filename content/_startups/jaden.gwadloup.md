@@ -5,12 +5,21 @@ sponsors:
   - /organisations/mtes
 incubator: mtes
 contact: meagann.boulassy@beta.gouv.fr
+usertypes:
+  - particulier
+events:
+  - name: end
+    date: 2022-10-03
+    comment: 'Les jardins partagés restent une priorité de la DEAL Guadeloupe qui poursuit ses actions sur ce sujet. '
 phases:
   - name: investigation
     start: 2021-04-07
     end: 2021-07-07
   - name: construction
     start: 2021-11-08
+    end: 2022-10-06
+  - name: alumni
+    start: 2022-10-06
 ---
 ## Contexte 
 

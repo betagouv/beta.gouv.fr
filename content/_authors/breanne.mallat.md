@@ -1,15 +1,23 @@
 ---
 fullname: Bréanne Mallat
-role: Chargée d'accompagnement
-domaine: Autre
+role: Responsable de portefeuille Agriculture
+domaine: Animation
 github: bmallat
 missions:
+  - start: 2020-07-12
+    end: 2021-09-20
+    status: independent
+    employer: numa
   - start: 2022-03-14
-    end: 2023-12-31
-    employer: Dinum
+    end: 2024-01-13
     status: admin
+    employer: Dinum
 startups:
+  - tous.a.bord
+previously:
   - aides-territoires
-  - locatio
+  - dossierfacile
   - mon-entreprise
+teams:
+  - /teams/animation-dinum
 ---

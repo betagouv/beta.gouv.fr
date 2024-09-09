@@ -4,11 +4,12 @@ role: Designer UX et graphique et cheffe produit Résorption-bidonvilles
 domaine: Design
 missions:
   - start: 2019-06-03
-    end: 2022-06-30
+    end: 2023-12-31
     status: independent
     employer: OCTO
+    startups:
+      - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
 ---
-
-Designer pour résoudre des problèmes utilisateurs depuis 2010
+Cheffe de projet Résorption-bidonvilles ; Designer UX et graphique

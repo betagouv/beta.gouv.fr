@@ -4,15 +4,20 @@ role: Expert scientifique
 domaine: Autre
 github: Alexis-Akinyemi
 link: https://www.linkedin.com/in/alexis-akinyemi/
-missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
+missions:
   - start: 2019-09-26
-    end: 2022-07-31
+    end: 2024-11-30
     status: service
     employer: AD-HOC Lab
+    startups:
+      - diagoriente
+      - exposition-ij
+      - la-bonne-alternance
 startups:
-    - eva
-    - diagoriente
-    - la-bonne-alternance
+  - diagoriente
+  - la-bonne-alternance
+  - exposition-ij
+previously:
+  - eva
 ---
-
 Ethique/Méthode/Réfutabilité

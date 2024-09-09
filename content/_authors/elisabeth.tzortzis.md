@@ -8,6 +8,8 @@ missions:
     end: 2021-12-31
     status: admin
     employer: Cour des comptes
+    startups:
+      - e-controle
 startups:
   - e-controle
 ---

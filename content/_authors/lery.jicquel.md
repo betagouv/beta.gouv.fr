@@ -9,14 +9,14 @@ missions:
     status: admin
     employer: Cour des comptes
   - start: 2020-03-01
+    end: 2022-02-24
     status: admin
     employer: beta.gouv
-    end: 2022-02-24
 startups:
-  - AidESS-Relance
+  - aidess
   - inca
-  - justif
-  - article.40
+  - mon-suivi-justice
+  - infoparquet
   - sndv_maritime
 previously:
   - e-controle

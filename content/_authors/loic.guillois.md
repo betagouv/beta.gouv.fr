@@ -1,9 +1,11 @@
 ---
 fullname: Loïc Guillois
-role: Développeur
 domaine: Développement
-avatar: https://avatars2.githubusercontent.com/u/55890?s=460&u=6d30adf6bede7d90474e82023d1947aabedd5635&v=4
+role: Développeur
 github: loicguillois
+avatar: https://avatars2.githubusercontent.com/u/55890?s=460&u=6d30adf6bede7d90474e82023d1947aabedd5635&v=4
+startups:
+  - zero-logement-vacant
 missions:
   - start: 2016-11-28
     end: 2019-12-31
@@ -13,18 +15,18 @@ missions:
     end: 2020-03-19
     status: independent
   - start: 2020-12-26
-    end: 2022-04-30
+    end: 2024-12-31
     status: independent
     employer: octo
-startups:
-    - conseiller-numerique
-    - sppnaut
 previously:
-    - jeveuxaider
-    - mon-entreprise
-    - anotea
+  - mon-entreprise
+  - anotea
+  - pass.engagement.jeune
+  - sppnaut
 badges:
   - segur
+competences:
+  - Développement Frontend
+  - Développement Backend
 ---
-
-Développeur Web - Ingénieur Machine Learning, IA et IoT
+Développeur Web

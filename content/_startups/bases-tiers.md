@@ -2,7 +2,7 @@
 title: Bases Tiers - Alertissimo
 mission: Simplifier la gestion des aides Région par les professionnels
 sponsors:
- - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -10,13 +10,11 @@ phases:
     end: 2020-07-07
   - name: alumni
     start: 2020-07-08
-link:
-repository:
 stats: false
-stats_url:
 contact: incubateur@anct.gouv.fr
+usertypes:
+  - entreprise
 ---
-
 ## Problème visé
 
 **Les entreprises et autres organisations qui bénéficient d'aides de la Région rencontrent des problèmes de trésorerie par manque d'accompagnement et d'information tout au long de la vie du dossier d'aide.**

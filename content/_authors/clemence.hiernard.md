@@ -1,13 +1,16 @@
 ---
 fullname: Clémence Hiernard
-role: Intrapreneuse
-domaine: Intraprenariat
+role: Chargée de déploiement
+domaine: Déploiement
+github: ClemenceHiernard
 missions:
-  - start: 2018-01-01
-    end: 2020-12-31
-    status: admin
-    employer: Agglomération de Pau Béarn Pyrénées
+  - start: 2022-11-07
+    end: 2024-12-31
+    status: independent
+    startups:
+      - territoires-en-transitions
 startups:
+  - territoires-en-transitions
+previously:
   - pau-partage
-previously: []
 ---

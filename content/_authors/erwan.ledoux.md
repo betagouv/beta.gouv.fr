@@ -10,8 +10,9 @@ missions:
     end: 2019-09-30
     status: independent
     employer: octo
+    startups:
+      - pass-culture
 startups:
-    - pass-culture
+  - pass-culture
 ---
-
 Paysan 44.0

@@ -1,5 +1,5 @@
 ---
-title: Mon Suivi Psy
+title: Jardin mental
 mission: Mieux connaître ses symptômes pour un meilleur accompagnement médical
 sponsors:
   - /organisations/solidarite-sante
@@ -7,6 +7,9 @@ incubator: sgmas
 link: https://monsuivipsy.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/monsuivipsy
 contact: monsuivipsy@fabrique.social.gouv.fr
+usertypes:
+  - particulier
+  - entreprise
 stats_url: https://matomo-metabase-monsuivipsy.fabrique.social.gouv.fr/public/dashboard/5c48ca1a-0c1e-4d8b-90b1-d474ce379758
 stats: true
 phases:
@@ -16,12 +19,15 @@ phases:
   - name: construction
     start: 2020-11-01
     end: 2021-05-01
-  - name: acceleration
-    start: 2021-06-01
+accessibility_status: non conforme
+thematiques: []
+techno: []
 ---
+## Le contexte
+
 Les troubles psychiatriques touchent plus de 20 % de la population, à un moment de la vie. Et trouver le bon traitement peut prendre plusieurs années. Pendant ce temps-là, les symptômes évoluent, peuvent devenir chroniques et l’état du patient s’aggrave. L’impact peut être dramatique. 
 
-**Comment en arrive-t-on là ?**
+## Le problème
 
 Le médecin choisit ou modifie un traitement en se basant sur ce que lui rapporte la personne  durant la consultation. Mais le médecin n’a que peu de temps avec la personne concernée et les informations rapportées ne sont pas fiables. 
 
@@ -33,11 +39,11 @@ C’est qu’il est très difficile de donner une représentation fiable de ses 
 
 Il est par exemple quasiment impossible de se rappeler la qualité de son sommeil 3 semaines auparavant, d’être suffisamment précis sur le nombre de crise d’angoisse survenues le mois dernier, l’intensité de celles-ci et leur impact sur notre quotidien, ou encore de se rappeler de ces jours où ça allait vraiment bien, alors que les jours précédant le rendez-vous, la tristesse nous a envahit…
 
-**Mon Suivi Psy est fait pour ça !**
+## Notre solution
 
 Plus les informations concernant mes symptômes sont proches de la réalité, de ce que je vis, plus mon médecin sera en mesure de me prescrire le bon traitement, celui qui sera le plus efficace possible avec le moins d’effets indésirables.
 
-Mon Suivi Psy, c’est une aide pour un dialogue continu, qui s’adresse à tous, co-construite avec les usagers, comprenant :
+Jardin Mental, c’est une aide pour un dialogue continu, qui s’adresse à tous, co-construite avec les usagers, comprenant :
 
 * La possibilité de sélectionner les symptômes et les effets indésirables des traitements médicamenteux à suivre 
 * Un rappel quotidien pour m’aider à y penser
@@ -46,9 +52,9 @@ Mon Suivi Psy, c’est une aide pour un dialogue continu, qui s’adresse à tou
 * Un accès à des données informatives concernant les symptômes suivis
 * Un parcours motivationnel dans la participation à son suivi
 
-Mon Suivi Psy, c’est permettre aux personnes suivies de rester au plus près de leur expérience et d’en rendre compte le plus fidèlement possible au médecin, pour lui permettre de participer à soulager la souffrance grâce à une intervention médicamenteuse adéquate, personnalisée et rapide.
+Jardin Mental, c’est permettre aux personnes suivies de rester au plus près de leur expérience et d’en rendre compte le plus fidèlement possible au médecin, pour lui permettre de participer à soulager la souffrance grâce à une intervention médicamenteuse adéquate, personnalisée et rapide.
 
-**Mesure d’impact et objectifs**
+## Les mesures d’impact et objectifs :
 
 Les deux indicateurs permettant de mesurer l’impact du services sont : 
 

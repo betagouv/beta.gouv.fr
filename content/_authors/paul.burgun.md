@@ -1,6 +1,6 @@
 ---
 fullname: Paul Burgun
-role: Co-animateur du programme beta.gouv.fr
+role: Responsable du FAST et responsable du portefeuille Justice
 domaine: Animation
 github: paulburgun
 missions:
@@ -13,8 +13,11 @@ missions:
     employer: dinum
 startups:
   - le-taxi
+previously:
   - sante-psy-etudiant
 badges:
   - segur
+teams:
+  - /teams/animation-dinum
+  - /teams/fast-dinum
 ---
-

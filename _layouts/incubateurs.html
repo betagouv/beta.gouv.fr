@@ -1,0 +1,99 @@
+---
+layout: default
+---
+
+{% assign lang = page.lang | default: site.lang | default: "en" %}
+{%- assign sortedActiveIncubators = site.incubators | sort_incubators_by_active_startups: site.startups | filter_incubators_with_active_startups: site.startups -%}
+{%- assign activeIncubatorsCount = site.incubators | filter_incubators_with_active_startups: site.startups | size -%}
+
+<div id="incubateurs">
+    <section class="hero-section blue-background">
+        <div class="fr-container fr-py-5w">
+        <div class="fr-grid-row fr-grid-row--middle">
+            <div class="fr-col-md-8">
+                <h1 class="fr-mb-3w">Découvrez les incubateurs du réseau beta.gouv.fr dans tous les ministères</h1>
+                <p class="fr-text--lead fr-pr-3w">
+                    Nous accompagnons les administrations à créer leur propre incubateur de services numériques publics.
+                </p>
+            </div>
+            <div class="fr-col-md-4">
+                <img class="fr-responsive-img" alt="" src="/assets/images/incubators-hero.png" />
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="fr-container fr-py-4w">
+            <div class="fr-grid-row">
+                <div class="fr-col">
+                    <h2 class="fr-h5 fr-mb-0">Des incubateurs publics au service de toutes les politiques publiques</h2>
+                </div>
+            </div>
+            <div class="fr-grid-row">
+                <div class="fr-col">
+                    <ul class="checkmark-list">
+                        <li>
+                            <strong>{{activeIncubatorsCount}} incubateurs depuis 2015</strong>
+                            <div class="fr-text--sm">Grâce à son incubateur, chaque administration peut construire ses services numériques en suivant l'approche Startup d'État.</div>
+                        </li>
+                        <li>
+                            <strong>Plus de 200 services numériques incubés</strong>
+                            <div class="fr-text--sm">Les incubateurs accompagnent les équipes en charge de ces services de la phase d’investigation jusqu’à leur pérennisation.</div>
+                        </li>
+                    </ul>
+                    <h2 class="fr-h5">Des standards de qualité</h2>
+                    <p class="fr-mb-0">Les services numériques construits dans le réseau beta.gouv.fr répondent à un haut niveau d'exigence :</p>
+                    <ul class="checkmark-list">
+                        <li><strong>Simplicité d'utilisation</strong> par une conception proche des utilisateurices</li>
+                        <li><strong>Accessibilité</strong> et conception pour tous</li>
+                        <li><strong>Protection des données personnelles</strong></li>
+                        <li><strong>Écoconception</strong> et frugalité</li>
+                        <li><strong>Transparence</strong> via le code source et des statistiques ouverts</li>
+                        <li><strong>Sécurité</strong> agile</li>
+                        <li><strong>Qualité logicielle</strong> via code déployé et testé en continu</li>
+                        <li><strong>Qualité du support</strong></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="fr-grid-row fr-grid-row fr-mt-6w">
+                <div class="fr-col">
+                    <h2 class="fr-mt-1w">Notre réseau</h2>
+                    <p><strong>beta.gouv.fr fédère des incubateurs,</strong> dans de nombreuses administrations. Chacun de ces incubateurs promeut l'approche beta.gouv.fr dans son administration et participe à sa transformation numérique.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="fr-pb-2w">
+        <div class="fr-container">
+            <div class="fr-grid-row fr-grid-row--gutters">
+                {%- for incubator in sortedActiveIncubators -%}
+                    <div class="fr-col-12 fr-col-md-4 fr-mb-2w">
+                        {%- include card-incubator.html incubator=incubator -%}
+                    </div>
+                {%- endfor -%}
+            </div>
+        </div>
+    </section>
+
+    <section class="fr-pb-8w">
+        <div class="fr-container">
+            <div class="fr-grid-row  fr-p-6w section-grey incubator-onboarding">
+                <div class="fr-col-md-9">
+                    <h2 style="color: var(--text-title-blue-france);">Vous souhaitez lancer un service numérique dans votre administration ?</h2>
+                    <ol>
+                        <li>Lançons ensemble <strong>votre premier produit</strong></li>
+                        <li>Structurons <strong>votre incubateur</strong></li>
+                        <li>Rejoignez le <span class="fr-text--bold">réseau beta.gouv.fr</span></li>
+                    </ol>
+                    <a class="fr-btn fr-btn--md fr-mt-3w" href="mailto:contact@beta.gouv.fr">Contactez-nous</a>
+                </div>
+                <div class="fr-col-md-3">
+                    <img class="fr-responsive-img" alt="" src="/assets/images/icons/incubateurs//human-cooperation.svg" data-fr-js-ratio="true">
+                </div>
+            </div>
+        </div>
+    </section>
+
+</div>

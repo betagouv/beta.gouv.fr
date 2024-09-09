@@ -6,9 +6,11 @@ github: pocmaker42
 link: https://www.pocmaker.net
 missions:
   - start: 2021-04-01
-    end: 2022-12-31
+    end: 2024-02-01
     status: independent
     employer: Octo
+    startups:
+      - aides-territoires
 startups:
   - aides-territoires
 competences:

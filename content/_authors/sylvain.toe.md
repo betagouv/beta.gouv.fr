@@ -7,9 +7,11 @@ avatar: https://avatars1.githubusercontent.com/u/2660255?s=400&u=4d94b6a9671d594
 link: https://github.com/lazybird
 missions:
   - start: 2018-11-09
-    end: 2022-12-31
+    end: 2024-09-30
     status: independent
-    employer: Inetum
+    employer: Scopyleft
+    startups:
+      - sndv_maritime
 startups:
   - sndv_maritime
 previously:

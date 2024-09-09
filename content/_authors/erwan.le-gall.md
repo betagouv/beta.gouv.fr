@@ -4,8 +4,11 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2021-09-15
-    end: 2022-03-31
+    end: 2023-09-30
     status: admin
     employer: MEAE
+    startups:
+      - bourses.scolaires
+startups:
+  - bourses.scolaires
 ---
-

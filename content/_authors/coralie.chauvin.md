@@ -7,15 +7,15 @@ missions:
     end: 2021-12-30
     status: independent
     employer: Octo Technology
-  - status: independent
+  - start: 2022-01-03
+    end: 2025-01-31
+    status: independent
     employer: Malt
-    start: 2022-01-03
-    end: 2022-12-30
 badges:
   - segur
 competences:
   - Communication
-startups :
+startups:
   - jeveuxaider
 ---
 Animatrice de la communauté de bénévole JeVeuxAider.gouv.fr

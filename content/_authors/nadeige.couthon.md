@@ -5,11 +5,12 @@ role: Développeuse
 github: NadeigeC
 missions:
   - start: 2020-10-01
-    end: 2023-12-31
+    end: 2025-12-31
     status: admin
-    employer: Ministère de l'Interieur (DNUM)
-startups:
+startups: []
+previously:
   - psij
+  - basegun
 competences:
   - Développement Frontend
   - Développement Backend

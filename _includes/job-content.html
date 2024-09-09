@@ -6,23 +6,23 @@
 {% include hero-job.html startup=startup roles=job.roles friend=job.friend %}
 
 {% if job.type == 'friend' %}
-  <div class="notification full-width">
-    <div class="fr-container">
-      Une offre à pourvoir chez nos camarades <br /><a href="{{ job.externalURL}}">Voir l'offre sur le site de {{ job.friend }}</a>
+  <div class="fr-container">
+    <div class="fr-alert fr-alert--info fr-alert--sm fr-mb-1w">
+      <p>Une offre à pourvoir chez nos camarades <br /><a href="{{ job.externalURL}}">Voir l'offre sur le site de {{ job.friend }}</a></p>
     </div>
   </div>
 {% endif %}
 
 {% if job.open %}
-  <div class="notification full-width">
-    <div class="fr-container">
-      Poste ouvert le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time>
+  <div class="fr-container">
+    <div class="fr-alert fr-alert--info fr-alert--sm">
+      <p>Poste ouvert le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></p>
     </div>
   </div>
 {% else %}
-  <div class="notification warning full-width">
-    <div class="fr-container">
-      Ce poste a été pourvu depuis son ouverture le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time>
+  <div class="fr-container">
+    <div class="fr-alert fr-alert--error fr-alert--sm">
+      <p>Ce poste a été pourvu depuis son ouverture le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></p>
     </div>
   </div>
 {% endif %}
@@ -73,7 +73,9 @@
 <section class="fr-py-6w section-grey">
   <div class="fr-container fr-my-6w">
     <div class="fr-grid-row startups">
-      {% include card-startup.html startup = startup %}
+      <div class="fr-col-12 fr-col-md-3 fr-mb-2w">
+        {% include card-startup.html startup = startup %}
+      </div>
     </div>
   </div>
 </section>

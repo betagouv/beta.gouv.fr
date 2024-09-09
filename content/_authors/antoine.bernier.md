@@ -1,15 +1,18 @@
 ---
 fullname: Antoine Bernier
-role: Développeur mes aides jeunes
-link: https://www.telescoop.fr/
+role: Développeur Full stack
 github: kout95
 missions:
   - start: 2021-05-12
-    end: 2022-06-30
+    end: 2022-08-31
     status: service
-startups:
+    employer: Octo
+  - start: 2021-10-01
+    end: 2022-12-31
+    status: service
+    employer: TelesCoop
+previously:
   - aides.jeunes
 domaine: Développement
 ---
-
 Développeur Web full stack

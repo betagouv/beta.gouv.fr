@@ -12,18 +12,30 @@ missions:
     status: admin
     employer: dinum
   - start: 2020-06-15
-    end: 2023-06-14
+    end: 2023-04-10
     status: admin
     employer: dinum
 startups:
-  - delta.v 
+  - delta.v
   - sppnaut
+  - conseillers-entreprises
+  - portail-rse
+  - homologation
+  - signaux-faibles
+  - mon-entreprise
+  - signalement
 previously:
   - transport
+  - notifications
   - participation-citoyenne
   - rdv.consulat
   - protege-toit
   - gap
+  - oufaalim
+  - homologation
+  - expresso
 badges:
   - segur
+teams:
+  - /teams/animation-dinum
 ---

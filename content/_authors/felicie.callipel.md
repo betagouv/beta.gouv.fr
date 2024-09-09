@@ -3,10 +3,12 @@ fullname: Félicie Callipel
 role: Intrapreneuse
 domaine: Intraprenariat
 missions:
-  - status: admin
+  - start: 2020-09-17
+    end: 2022-12-31
+    status: admin
     employer: Ministère de la Justice
-    start: 2020-09-17
-    end: 2022-06-01
+    startups:
+      - mon-suivi-justice
 startups:
-  - justif
+  - mon-suivi-justice
 ---

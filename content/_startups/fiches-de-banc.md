@@ -14,12 +14,12 @@ phases:
     start: 2015-01-12
   - name: alumni
     start: 2016-01-09
-link:
+usertypes:
+  - etat
 repository: https://github.com/betagouv/fiches-de-banc
 stats: false
 contact: contact@beta.gouv.fr
 ---
-
 Une application web permettant d'émettre des avis sur les amendements déposés à l'Assemblée Nationale, et de répartir les réponses parmi plusieurs collaborateurs.
 
 Ces réponses sont appelées « fiches de banc », du nom des fiches que les représentants du gouvernement utilisent comme support pour les présenter aux députés.

@@ -1,11 +1,9 @@
 ---
 title: PSIJ
 mission: Systématiser la recherche d'indices et traces
-sponsors: 
-    - /organisations/interieur
-incubator: lab-mi
-link: ""
-repository: null
+sponsors:
+  - /organisations/interieur
+incubator: miom
 contact: psij@labmi.fr
 stats: false
 phases:
@@ -13,6 +11,11 @@ phases:
     start: 2019-11-05
   - name: construction
     start: 2020-02-01
+    end: 2023-01-25
+  - name: alumni
+    start: 2023-01-25
+usertypes:
+  - etat
 ---
 ## Trop de vols sans recherche de traces
 

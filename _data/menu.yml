@@ -1,25 +1,33 @@
 ---
 title:
 nav:
-  -
-    label: Réalisations
-    target: _pages/startups.md
-  -
-    label: Communauté
+  - label: Réseau d'incubateurs
+    target: _pages/incubateurs.md
+  - label: Services numériques
+    target: _pages/realisations.md
+  - label: FAST
+    target: _pages/fast.md
+  - label: EIG
+    target: _pages/eig.md
+  - label: Communauté
     target: _pages/communaute.md
-  -
-    label: Recrutement
-    target: _pages/recrutement.md
+  - label: Nous rejoindre
+    target: _pages/nous-rejoindre.md
+
 shortcuts:
-  -
-    label: Annuaire
-    external: false
-    url: /communaute/annuaire
-  -
-    label: Documentation
+  - label: Documentation
     external: true
     url: https://doc.incubateur.net
-  -
-    label: Blog
+  - label: Blog
     external: true
     url: https://blog.beta.gouv.fr
+  - label: Espace Membre
+    external: true
+    url: https://espace-membre.incubateur.net
+fast:
+  - label: Sélection au FAST
+    target: /fast/sélection
+  - label: Déroulement du FAST
+    target: /fast/déroulement
+  - label: Lauréats passés du FAST
+    target: /fast/lauréats

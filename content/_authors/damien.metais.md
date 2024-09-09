@@ -1,16 +1,18 @@
 ---
 fullname: Damien METAIS
-role: UX UI Designer
 domaine: Design
+role: UX UI Designer
+link: https://www.curbs-work.fr/
 missions:
   - start: 2020-10-26
-    end: 2021-12-27
+    end: 2022-09-30
     status: independent
     employer: Octo
-startups:
-    - itou 
+previously:
+  - les-emplois
 badges:
   - segur
+competences:
+  - UI
 ---
-
-Il est primordial que les interfaces produits soient fonctionnelles, plaisantes à regarder et à utiliser
+Passionné par la conception d'interfaces fluides et adaptées pour chaque usage

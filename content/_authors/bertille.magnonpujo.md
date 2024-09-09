@@ -6,12 +6,13 @@ github: bertillemp
 link: https://www.linkedin.com/in/bertille-magnon-pujo/
 missions:
   - start: 2021-06-01
-    end: 2022-06-30
+    end: 2023-12-31
     status: independent
     employer: Malt
+    startups:
+      - snu
 startups:
   - snu
 competences:
   - Communication
 ---
-Fidèle enquêtrice , je ne lasse jamais un bug passé !

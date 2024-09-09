@@ -8,6 +8,8 @@ missions:
     end: 2020-12-31
     status: admin
     employer: Ministère de la Transition Ecologique et Solidaire
+    startups:
+      - resorption-bidonvilles
 startups:
-    - resorption-bidonvilles
+  - resorption-bidonvilles
 ---

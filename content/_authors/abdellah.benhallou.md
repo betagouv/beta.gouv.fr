@@ -1,6 +1,6 @@
 ---
 fullname: Abdellah Ben Hallou
-role: Chargé de déploiement 
+role: Chargé de déploiement
 github: abdellahbh
 domaine: Déploiement
 missions:

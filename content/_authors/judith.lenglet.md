@@ -1,12 +1,18 @@
 ---
 fullname: Judith Lenglet
-role: Chargée de déploiement
+role: Coach
 domaine: Déploiement
-missions: 
-  - start: 2020-05-01 
-    end: 2021-06-30
+missions:
+  - start: 2020-05-01
+    end: 2024-12-31
     status: independent
+    employer: Numa
+    startups:
+      - umap
 startups:
-    - trackdechets
-
+  - umap
+previously:
+  - trackdechets
+teams:
+  - /teams/accelerateur-initiatives-citoyennes
 ---
