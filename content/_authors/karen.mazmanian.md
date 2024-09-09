@@ -12,5 +12,6 @@ missions:
       - annuaire-entreprises
 previously:
   - acceslibre
+  - annuaire-entreprises
 ---
 🪲
