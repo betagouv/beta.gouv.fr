@@ -1,6 +1,6 @@
 ---
 fullname: Boris AIMÉ-BAUDERLIQUE
-role: Chargé de déploiement
+role: Déploiement
 domaine: Déploiement
 link: http://boris-aimebauderlique.fr/
 competences:
@@ -15,4 +15,4 @@ missions:
     startups:
       - reva
 ---
-Consultant fonctionnel/formation spécialisé dans le développement de projets web, j'interviens autour des attentes utilisateurs, définition des besoins, formation des utilisateurs finaux et la garantie de la fiabilité des produits.
+Consultant spécialisé en gestion fonctionnelle de projets web et dispositifs de formation, j'interviens sur la compréhension des attentes utilisateurs, la définition des besoins, la formation des utilisateurs, ainsi que sur la fiabilité et l'ergonomie des produits.

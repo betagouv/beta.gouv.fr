@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2024-09-06
     end: 2024-12-06
-    employer: DINUM
     status: service
+    employer: DINUM
     startups:
       - pass-sport
 ---

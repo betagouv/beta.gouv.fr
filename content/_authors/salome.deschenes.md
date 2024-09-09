@@ -1,7 +1,7 @@
 ---
 fullname: Salomé Deschênes
 domaine: Déploiement
-role: Urbaniste et chargée de déploiement
+role: Urbaniste et Product manager
 github: SalomeDeschenes
 missions:
   - start: 2020-12-30
@@ -14,6 +14,7 @@ missions:
     employer: LBC
     startups:
       - recommandations-collaboratives
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
@@ -21,3 +22,4 @@ competences:
   - Communication
   - Administration Publique
 ---
+Un pied dans l'aménagement, un pied dans le numérique, les deux dans le service public!

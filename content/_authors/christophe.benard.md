@@ -5,7 +5,7 @@ role: Développeur
 github: ch-benard
 missions:
   - start: 2020-09-01
-    end: 2024-08-31
+    end: 2026-12-31
     status: admin
     employer: MTES
     startups:
