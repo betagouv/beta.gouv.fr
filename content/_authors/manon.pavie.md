@@ -5,7 +5,7 @@ domaine: Produit
 github: manonpv
 missions:
   - start: 2024-03-25
-    end: 2024-08-30
+    end: 2025-12-31
     status: independent
     startups:
       - tdb-apprentissage

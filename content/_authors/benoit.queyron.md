@@ -11,11 +11,12 @@ missions:
     startups:
       - transport
   - start: 2024-05-27
-    end: 2024-08-30
+    end: 2024-12-31
     status: independent
     employer: Scopopop
     startups:
       - demarches-simplifiees.fr
 previously:
   - transport
+competences: []
 ---

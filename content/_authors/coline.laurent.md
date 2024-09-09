@@ -13,4 +13,5 @@ missions:
 startups:
   - longuevieauxobjets
 memberType: beta
+competences: []
 ---

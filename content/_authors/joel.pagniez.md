@@ -10,7 +10,9 @@ missions:
     status: admin
     employer: Lab-MI
     startups:
+      - data-demineur
       - psij
+      - re-ac-t
 startups:
   - psij
 previously:

@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/jonathan-perrault-884a5257/
 github: jonat75
 missions:
   - start: 2023-10-30
-    end: 2024-08-31
+    end: 2024-11-30
     status: independent
     employer: Le Gratin
     startups:
@@ -14,5 +14,6 @@ missions:
 startups:
   - egalite.professionnelle
 memberType: beta
+competences: []
 ---
 Développeur depuis 12 ans avec un mindset de craftman. Passionné de spiritualité et plein d'autres chose...

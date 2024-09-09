@@ -1,5 +1,5 @@
 ---
-title: Tableau de bord Apprentissage
+title: Tableau de bord de l'apprentissage
 mission: Permettre l’accès aux données clés de l’apprentissage en temps réel
 sponsors:
   - /organisations/menjs
@@ -14,7 +14,7 @@ stats: true
 events:
   - name: fast
     date: 2024-01-01
-    comment: Montant de 30000€ pour la promotion 14
+    comment: Montant de 30 000€ pour la promotion 14
 phases:
   - name: investigation
     start: 2020-07-01
@@ -33,6 +33,8 @@ dashlord_url: https://dashlord.incubateur.net/url/cfas-apprentissage-beta-gouv-f
 thematiques:
   - Jeunesse
   - Education
+  - Formation
+  - Travail / Emploi
 techno: []
 ---
 ## Constat
@@ -46,7 +48,7 @@ Plus généralement, l'écosystème de l'apprentissage manque d'interconnexion p
 
 ## La solution
 
-Le tableau de bord de l'apprentissage permet de visualiser en temps réel les effectifs d’apprentis dans les centres de formation et les organismes de formation. Comment ? En se branchant sur les systèmes de gestion des centres de formation d'apprentis (CFA) - via leur éditeur de logiciel ERP (cf. https://cfas.apprentissage.beta.gouv.fr/), par consommation d'une API ou par dépôt de fichier sur un serveur :  ttps://cfas.apprentissage.beta.gouv.fr/comprendre-les-donnees
+Le Tableau de bord de l'apprentissage permet de visualiser en temps réel les effectifs d’apprentis dans les centres de formation et les organismes de formation. Comment ? En se branchant sur les systèmes de gestion des centres de formation d'apprentis (CFA) - via leur éditeur de logiciel ERP (cf. https://cfas.apprentissage.beta.gouv.fr/), par consommation d'une API ou par dépôt de fichier sur un serveur :  https://cfas.apprentissage.beta.gouv.fr/comprendre-les-donnees
 
 Différentes institutions (DREETS, Académies, DRAAF, Carif Oref, Conseil Régionaux, etc.) consultent le tableau de bord de l'apprentissage régulièrement pour suivre l’évolution des effectifs. Ces données les éclairent notamment dans la mise en place des plans d’actions d’accompagnement des jeunes sans contrat ou pour définir les politiques publiques liées à l’apprentissage.
 Le Tableau de bord sert 3 finalités :
@@ -59,7 +61,7 @@ Pour les CFA, c’est une valeur ajoutée qui permet de :
 - Réduire le nombre d’enquêtes administratives.
 
 L’opération est conduite conformément aux règlements généraux relatifs à la protection des données et à la sécurité informatique. Le traitement des données se fait sur la base de l’intérêt public. Conformément à la loi sur la République numérique et au motif de leur mission de service public, les CFA sont tenus de partager avec les administrations publiques les données dont l’utilisation sert l’intérêt général. Cette opération est conduite suivant les procédures sécurisées de l’État :
-Transmission sécurisée et cryptée des données ;
+- Transmission sécurisée et cryptée des données ;
 - Minimisation des données circulant pour ne traiter que celles strictement utiles à la finalité de la mission ;
 - Minimisation et encadrement strict de l’accès aux données et du nombre d’intervenants ;
 - Inscription de l’opération au registre des traitements de données ;

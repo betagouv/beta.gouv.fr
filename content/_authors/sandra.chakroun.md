@@ -17,6 +17,12 @@ missions:
     employer: Ippon Technologies
     startups:
       - openfisca
+  - start: 2024-06-09
+    end: 2025-06-30
+    status: independent
+    employer: Malt
+    startups:
+      - droit-data-gouv-fr-simulateurs-de-droits
 startups:
   - openfisca
   - leximpact

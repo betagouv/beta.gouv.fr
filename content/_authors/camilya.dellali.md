@@ -11,6 +11,13 @@ missions:
     end: 2024-08-31
     status: independent
     employer: Démarches-simplifiées
+  - start: 2024-08-31
+    end: 2025-09-04
+    status: independent
+    employer: Scopopop
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
+competences: []
 ---

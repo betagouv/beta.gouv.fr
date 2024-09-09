@@ -103,7 +103,7 @@ Nous envisageons d'ouvrir le simulateur pour les formations à temps partiel et 
 
 Pour les autres publics, ils ont accès à une page d'information spécifique selon leur situation.
 
-*Ouvert actuellement sur les 5 régions :*
+*Ouvert actuellement sur les 6 régions :*
 - Haut de France
 - Pays de la Loire
 - Région Sud PACA
