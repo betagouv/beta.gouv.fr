@@ -4,7 +4,7 @@ role: Développeur
 domaine: Développement
 missions:
   - start: 2017-04-01
-    end: 2024-09-01
+    end: 2025-06-30
     status: independent
     employer: octo
     startups:
