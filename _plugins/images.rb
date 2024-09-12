@@ -98,13 +98,14 @@ module Jekyll
       "https://avatars3.githubusercontent.com/#{identifier}?s=600"
     end
   end
+
   module IncubatorLogoFilter
     include StaticFiles
     include URLChecker
   
     FALLBACK = '/img/incubators/logo_beta.png'
   
-    def screenshot(incubator)
+    def incubator_logo(incubator)
       return FALLBACK if incubator.nil?
       accents = {
         'á'=>'a', 'à'=>'a', 'ä'=>'a', 'ã'=>'a', 'â'=>'a', 'é'=>'e', 'è'=>'e', 'ë'=>'e', 'ê'=>'e',
@@ -114,23 +115,24 @@ module Jekyll
       id = incubator.id.split('/').last.to_s.gsub(/[#{accents.keys.join}]/, accents)
 
       s3_url = "#{S3_BASE_URL}/incubators/#{id}/logo.jpg"
-      URLChecker.url_exists?(s3_url) ? s3_url : screenshot_file(incubator) || FALLBACK
+      URLChecker.url_exists?(s3_url) ? s3_url : incubator_file(incubator) || FALLBACK
     end
   
     private
   
     def incubator_id(incubator)
-      incubator.id.split('/').last # they come as /incubators/{id}
+      incubator.id.split('/').last # they come as /incubateurs/{id}
     end
   
-    def screenshot_files
-      static_files.filter { |f| f.data['logo'] == true }
+    def incubator_files
+      static_files.filter { |f| f.data['incubators_img'] == true }
     end
   
-    def screenshot_file(incubator)
+    def incubator_file(incubator)
       id = incubator_id(incubator)
-      file = screenshot_files.find { |f| f.basename == id }
-  
+      file = incubator_files.find do |f|
+        incubator['logo'].include?(f.basename)
+      end
       file&.relative_path
     end
   end
