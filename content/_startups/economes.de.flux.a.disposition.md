@@ -20,6 +20,8 @@ usertypes:
   - etat
   - collectivite-territoriale
   - etablissement-scolaire
+link: https://depannemarenov.beta.gouv.fr
+techno: []
 ---
 ## Contexte
 La rénovation énergétique est essentielle dans la lutte contre le changement climatique. L'Etat possède plus de 100 millions de m² et les collectivités environ 5 fois plus. Le décret "Energie Tertiaire" demandait déjà des efforts considérables (objectif de - 40% en 2030, - 50% en 2040 et - 60% en 2050) mais l'arrivée de la DEE révisée (Directive Efficacité Energétique) va réhausser nettement les objectifs (-1,9% de baisse chaque année et 3% du parc en travaux minimum, le tout sur un périmètre de bâtiments élargi) avec une obligation de reporting détaillé annuelle auprès de l'UE. 
@@ -40,4 +42,6 @@ L'idée est double :
 ## Stratégie
 
 La stratégie est de lancer une expérimentation sur un à deux départements sur 6 mois pour être capable de mesurer l'impact. Nous construisons actuellement une plateforme à partir de celle de Recoco (Urban Vitaliz, SOS Pont...) pour pouvoir recevoir les demandes des collectivités et de l'Etat. Nous recrutons également un Conseiller Performance et Rénovation énergétiques qui pourra les accompagner. 
+
+Le site qui fonctionne depuis l'été 2024 est disponible ici : [https://depannemarenov.beta.gouv.fr ]()
 

@@ -5,7 +5,7 @@ domaine: Animation
 github: amelalili
 missions:
   - start: 2022-09-01
-    end: 2024-09-30
+    end: 2024-12-31
     status: independent
     employer: scopyleft
 previously:
@@ -17,4 +17,5 @@ badges:
   - segur
 competences:
   - 'support '
+  - Sens du service et relation client
 ---

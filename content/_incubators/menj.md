@@ -3,14 +3,11 @@ title: L'incubateur de l'Éducation nationale et de la Jeunesse
 short_description: Lancé en 2024, l'incubateur a pour mission de soutenir les services et leurs agents dans la construction de solutions numériques en faveur de l’éducation et la jeunesse.
 owner: /organisations/menj
 logo: incubateur-educnat.png
-github: https://gitlab.mim-libre.fr/incubateur # Arthur : il n'y a rien pour l'instant ?
+github: https://gitlab.mim-libre.fr/incubateur
 contact: incubateur-contact@education.gouv.fr
 address: 110 rue de Grenelle Paris 7e
-highlighted_startups:
-    - compte.ressources
-    - monstage
+website: ''
 ---
-
 L’incubateur est un programme du ministère de l'Éducation nationale et de la Jeunesse pour produire de nouveaux services numériques et diffuser la culture du mode *produit* auprès des agents et des directions. Membre du réseau beta.gouv, il accompagne les agents du ministère (enseignants, personnels de direction, gestionnaire en académie, manager, etc.) dans leurs réflexions et leurs usages du numérique :
 
 * en favorisant les diagnostics des besoins et en préconisant des solutions open source qui y répondent ;
