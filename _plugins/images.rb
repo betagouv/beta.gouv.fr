@@ -106,8 +106,13 @@ module Jekyll
   
     def screenshot(incubator)
       return FALLBACK if incubator.nil?
-  
-      s3_url = "#{S3_BASE_URL}/incubators/#{incubator.id.split('/').last}/logo.jpg"
+      accents = {
+        'á'=>'a', 'à'=>'a', 'ä'=>'a', 'ã'=>'a', 'â'=>'a', 'é'=>'e', 'è'=>'e', 'ë'=>'e', 'ê'=>'e',
+        'í'=>'i', 'ì'=>'i', 'ï'=>'i', 'î'=>'i', 'ó'=>'o', 'ò'=>'o', 'ö'=>'o', 'õ'=>'o', 'ô'=>'o',
+        'ú'=>'u', 'ù'=>'u', 'ü'=>'u', 'û'=>'u', 'ç'=>'c', 'ñ'=>'n'
+      }
+      id = input.to_s.gsub(/[#{accents.keys.join}]/, incubator.id.split('/').last)
+      s3_url = "#{S3_BASE_URL}/incubators/#{id}/logo.jpg"
       URLChecker.url_exists?(s3_url) ? s3_url : screenshot_file(incubator) || FALLBACK
     end
   
