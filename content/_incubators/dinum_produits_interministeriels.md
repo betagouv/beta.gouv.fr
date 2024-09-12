@@ -10,12 +10,7 @@ address: 20 avenue de Ségur, Paris 7e
 redirect_from:
   - /incubateurs/api_dinsic
   - /incubateurs/apigouv
-highlighted_startups:
-    - demarches-simplifiees.fr
-    - tchap
-    - data.gouv.fr
 ---
-
 L'opérateur de produits interministériels (DINUM) assure un environnement de confiance pour la mutualisation de produits numériques essentiels, en étendant son savoir-faire développé en opérant FranceConnect, data.gouv.fr, api.gouv.fr et Démarches Simplifiées.
 
 Son périmètre comprend aussi bien les outils qui peuvent transformer le quotidien des agents que l’animation d’une offre interministérielle de cloud souverain.

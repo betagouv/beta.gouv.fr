@@ -4,11 +4,7 @@ short_description: Lancé en 2021, cet incubateur développe des services pour a
 owner: /organisations/anssi
 logo: logo_lab_innov_anssi.png
 website: https://ssi.gouv.fr
-github:
+github: ''
 contact: lab-innov@ssi.gouv.fr
 address: 51 bd de la Tour Maubourg, Paris 17e
-highlighted_startups:
-    - homologation
-    - mon-aide-cyber
-    - nis2
 ---

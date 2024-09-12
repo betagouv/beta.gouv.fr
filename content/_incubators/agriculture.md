@@ -4,10 +4,6 @@ short_description: Lancé à l'été 2024, cet incubateur fait émerger et souti
 owner: /organisations/agriculture
 logo: logo_beta.png
 address: 78 Rue de Varenne, 75007 Paris
-highlighted_startups:
-  - ma-cantine-egalim
-  - cartobio
-  - icare-complements-alimentaires
 contact: jennifer.stephan@agriculture.gouv.fr
 website: ''
 github: ''

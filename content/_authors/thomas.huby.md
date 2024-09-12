@@ -11,5 +11,6 @@ missions:
 startups:
   - snu
 memberType: autre
+competences: []
 ---
 Designer pur beurre

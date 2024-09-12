@@ -6,9 +6,6 @@ website: https://www.cerema.fr/fr
 logo: logo_cerema.jpg
 contact: perrine.rutkowski@cerema.fr
 address: ''
-highlighted_startups:
-  - recommandations-collaboratives
-  - urbanvitaliz
 github: ''
 ---
 Lancé en février 2024 au sein du Cerema, établissement public sous tutelle du ministère de la transition écologique, Accélérema a pour objectif d'appuyer les équipes métier pour la construction de services numériques à impact sur les politiques publiques en lien avec le changement climatique et l'aménagement/environnement. 
