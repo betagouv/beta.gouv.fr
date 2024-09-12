@@ -98,38 +98,39 @@ module Jekyll
       "https://avatars3.githubusercontent.com/#{identifier}?s=600"
     end
   end
+  module IncubatorLogoFilter
+    include StaticFiles
+    include URLChecker
+  
+    FALLBACK = '/img/incubators/logo_beta.png'
+  
+    def screenshot(incubator)
+      return FALLBACK if incubator.nil?
+  
+      s3_url = "#{S3_BASE_URL}/incubators/#{incubator.id.split('/').last}/logo.jpg"
+      URLChecker.url_exists?(s3_url) ? s3_url : screenshot_file(incubator) || FALLBACK
+    end
+  
+    private
+  
+    def incubator_id(incubator)
+      incubator.id.split('/').last # they come as /incubators/{id}
+    end
+  
+    def screenshot_files
+      static_files.filter { |f| f.data['logo'] == true }
+    end
+  
+    def screenshot_file(incubator)
+      id = incubator_id(incubator)
+      file = screenshot_files.find { |f| f.basename == id }
+  
+      file&.relative_path
+    end
+  end
 end
 
-module IncubatorLogoFilter
-  include StaticFiles
-  include URLChecker
 
-  FALLBACK = '/img/incubators/logo_beta.png'
-
-  def screenshot(incubator)
-    return FALLBACK if incubator.nil?
-
-    s3_url = "#{S3_BASE_URL}/incubators/#{incubator.id.split('/').last}/logo.jpg"
-    URLChecker.url_exists?(s3_url) ? s3_url : screenshot_file(incubator) || FALLBACK
-  end
-
-  private
-
-  def incubator_id(incubator)
-    incubator.id.split('/').last # they come as /incubators/{id}
-  end
-
-  def screenshot_files
-    static_files.filter { |f| f.data['logo'] == true }
-  end
-
-  def screenshot_file(incubator)
-    id = incubator_id(incubator)
-    file = screenshot_files.find { |f| f.basename == id }
-
-    file&.relative_path
-  end
-end
 # ../img/incubators/{{ page.logo }}
 
 Liquid::Template.register_filter(Jekyll::ScreenshotFilter)
