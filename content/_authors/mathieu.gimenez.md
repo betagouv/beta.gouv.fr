@@ -12,6 +12,7 @@ missions:
     startups:
       - aigle
       - boris
+      - checklist.demande.aides.renovation.energetique
       - detournement-de-terres-agricoles
       - docurba
       - dossierfacile

@@ -6,11 +6,19 @@ github: raphodn
 link: https://raphodn.github.io
 missions:
   - start: 2020-01-08
-    end: 2024-09-30
+    end: 2024-08-30
     status: independent
     employer: octo
     startups:
+      - aidantsconnect
+      - aides-territoires
       - place-de-marche-inclusion
+  - start: 2024-08-05
+    end: 2024-12-31
+    status: service
+    employer: Scopyleft
+    startups:
+      - ma-cantine-egalim
 startups:
   - place-de-marche-inclusion
 previously:
