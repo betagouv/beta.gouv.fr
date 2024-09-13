@@ -20,12 +20,16 @@ jobs:
       with:
         ruby-version: 3.3.4
         bundler-cache: true
+
     - name: Install npm dependencies
       uses: actions/setup-node@v4
       with:
         node-version: 18
         cache: 'npm'
     - run: npm ci
+
+    - name: Check Javascript/JSON linting
+      run: npm run lint
 
     - name: Unit tests
       run: bundle exec rspec
