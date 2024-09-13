@@ -14,10 +14,9 @@ previously:
   - authentification
   - logement-crise
   - parcours.de.saisine
+  - france.nation.verte.agir
 badges:
   - segur
-startups:
-  - france.nation.verte.agir
 teams:
   - /teams/animation-dinum
   - /teams/fast-dinum
