@@ -2,7 +2,7 @@
 fullname: Magali Damourette
 role: Product Designer
 domaine: Design
-github: https://github.com/mdamourette
+github: mdamourette
 link: https://www.linkedin.com/in/magali-damourette/
 competences:
   - Product design

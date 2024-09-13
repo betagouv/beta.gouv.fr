@@ -29,6 +29,12 @@ missions:
     startups:
       - l-immersion-facile
       - sites-faciles
+  - start: 2023-12-01
+    end: 2025-07-31
+    status: independent
+    employer: Numa
+    startups:
+      - datalma
 startups:
   - cnr
   - demarches-simplifiees.fr
@@ -52,13 +58,14 @@ competences:
   - Coaching
   - Gestion de Produit
   - Développement Frontend
-  - Communication
   - SEO
   - Product strategy
   - PHP
   - SEM
-  - Croissance
+  - Matomo
+  - Metabase
+  - Communication
 teams:
   - /teams/fast-dinum
 ---
-Accélérateur de startups d'État. Acquisition, Activation, Retention, Referral, Impact 👊
+Transformation (numérique) de l'État . Accélérateur de start-up d'État

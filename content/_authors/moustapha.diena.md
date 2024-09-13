@@ -5,7 +5,7 @@ domaine: Développement
 github: dienamo
 missions:
   - start: 2022-06-20
-    end: 2024-09-02
+    end: 2024-12-31
     status: independent
     employer: DINUM
     startups:
