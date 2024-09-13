@@ -8,8 +8,6 @@ missions:
     end: 2026-11-03
     status: admin
     employer: DINUM
-    startups:
-      - france.nation.verte.agir
 previously:
   - nosgestesclimat
   - cnr

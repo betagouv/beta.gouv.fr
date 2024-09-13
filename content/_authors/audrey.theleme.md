@@ -1,5 +1,5 @@
 ---
-fullname: Audrey Thélème
+fullname: Audrey THÉLÈME
 domaine: Design
 role: UX Designer
 missions:
@@ -11,6 +11,8 @@ memberType: dinum
 competences:
   - UX
   - UI
+  - Product design
+  - Facilitation
 teams:
   - /teams/lab-mi
 ---

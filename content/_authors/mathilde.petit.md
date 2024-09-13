@@ -16,6 +16,12 @@ missions:
     employer: Scopyleft
     startups:
       - cartobio
+  - start: 2024-09-13
+    end: 2024-12-13
+    status: independent
+    employer: Scopyleft
+    startups:
+      - equipements-bio
 startups:
   - cartobio
 previously:
