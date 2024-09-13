@@ -10,6 +10,8 @@ missions:
     employer: Atelier Numérique (Ministère de la Culture )
     startups:
       - compte.rendu.vif
+teams:
+  - /teams/culture
 competences:
   - UX
   - UI
