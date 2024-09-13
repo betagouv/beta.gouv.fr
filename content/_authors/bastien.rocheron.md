@@ -10,4 +10,5 @@ missions:
     employer: LittleBigConnection
     startups:
       - recommandations-collaboratives
+github: bastien-rcc
 ---

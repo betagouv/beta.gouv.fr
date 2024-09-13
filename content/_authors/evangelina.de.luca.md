@@ -2,7 +2,7 @@
 fullname: Evangelina De Luca
 role: Data Analyst
 domaine: Data
-github: https://github.com/deleva
+github: deleva
 link: https://www.linkedin.com/in/evangelina-de-luca
 competences:
   - Facilitation

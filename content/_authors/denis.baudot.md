@@ -8,18 +8,15 @@ missions:
     end: 2026-11-03
     status: admin
     employer: DINUM
-    startups:
-      - france.nation.verte.agir
 previously:
   - nosgestesclimat
   - cnr
   - authentification
   - logement-crise
   - parcours.de.saisine
+  - france.nation.verte.agir
 badges:
   - segur
-startups:
-  - france.nation.verte.agir
 teams:
   - /teams/animation-dinum
   - /teams/fast-dinum

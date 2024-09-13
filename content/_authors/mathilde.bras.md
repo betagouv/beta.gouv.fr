@@ -1,12 +1,14 @@
 ---
 fullname: Mathilde Bras
-role: Co-responsable de l'Atelier Numérique, chargée des opérations produit
+role: Co-Responsable de l'Atelier numérique / Product Ops
 domaine: Coaching
 github: MathildeBras
 missions:
   - start: 2023-03-06
     end: 2026-12-31
     status: service
+    startups:
+      - languia
 teams:
   - /teams/culture
 memberType: autre
