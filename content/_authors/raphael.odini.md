@@ -19,11 +19,6 @@ missions:
     employer: Scopyleft
     startups:
       - ma-cantine-egalim
-startups:
-  - place-de-marche-inclusion
-previously:
-  - aidantsconnect
-  - aides-territoires
 badges:
   - segur
 competences:
