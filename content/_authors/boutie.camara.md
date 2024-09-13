@@ -1,17 +1,27 @@
 ---
 fullname: Boutié Camara
-role: Resp accessibilité numérique - Chargée de déploiement
+role: Chargée de déploiement
 missions:
   - start: 2021-05-03
-    end: 2024-10-01
+    end: 2024-11-30
     status: independent
-    employer: Octo
+    employer: Malt
     startups:
       - dossierfacile
+  - start: 2024-09-12
+    end: 2024-12-31
+    status: independent
+    employer: LittleBig Connection
+    startups:
+      - compte.rendu.vif
 startups:
   - dossierfacile
 badges:
   - segur
 domaine: Déploiement
 link: https://www.linkedin.com/in/bouti%C3%A9-camara/
+competences:
+  - Communication
+  - Croissance
+  - Accessibilité
 ---

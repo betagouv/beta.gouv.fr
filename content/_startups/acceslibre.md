@@ -28,6 +28,8 @@ phases:
 stats_url: https://acceslibre.beta.gouv.fr/stats
 thematiques:
   - Open-Data
+analyse_risques: true
+techno: []
 ---
 ## Le problème : Le manque d’information sur l’accessibilité des lieux
 

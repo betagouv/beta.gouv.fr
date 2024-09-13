@@ -15,8 +15,8 @@ competences:
 missions:
   - start: 2024-09-09
     end: 2025-03-09
-    employer: Diair
     status: independent
+    employer: Diair
     startups:
       - refugies.info
 ---

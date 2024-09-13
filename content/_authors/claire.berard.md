@@ -1,6 +1,6 @@
 ---
 fullname: Claire Berard
-role: Coach JuriGPT
+role: Coach agile JuriGPT / Faciliatrice
 domaine: Coaching
 missions:
   - start: 2022-06-06
@@ -11,8 +11,7 @@ memberType: autre
 link: https://www.linkedin.com/in/claire-berard/
 competences:
   - Communication
-  - Facilitation
   - Coaching
   - Administration Publique
 ---
-Coach agile - produit et chargée de communication innovation
+Chargée de mission communication innovation - Coaching agile - Facilitatrice d'ateliers d'intelligence collective
