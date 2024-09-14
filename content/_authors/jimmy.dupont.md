@@ -4,7 +4,7 @@ role: Opérateur de validation
 domaine: Autre
 missions:
   - start: 2023-03-08
-    end: 2024-09-30
+    end: 2025-03-31
     status: independent
     employer: Malt
     startups:
@@ -12,5 +12,6 @@ missions:
 startups:
   - dossierfacile
 memberType: autre
+competences: []
 ---
 Opérateur de validation

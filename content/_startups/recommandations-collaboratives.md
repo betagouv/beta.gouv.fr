@@ -18,7 +18,7 @@ sponsors:
   - /organisations/dinum
 link: https://recommandations-collaboratives.beta.gouv.fr/
 stats: true
-budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow
+budget_url: https://recommandations-collaboratives.beta.gouv.fr/budget/
 phases:
   - name: acceleration
     start: 2024-07-02
@@ -27,7 +27,9 @@ thematiques:
   - Territoires
   - Écologie
   - Administratif
-techno: []
+techno:
+  - python
+  - django
 ---
 ## Le problème 
 

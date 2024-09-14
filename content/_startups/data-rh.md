@@ -15,12 +15,9 @@ sponsors:
   - /organisations/interieur
 phases:
   - name: investigation
-    comment: null
     start: 2024-07-11
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-07-11
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 

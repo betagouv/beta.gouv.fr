@@ -18,12 +18,9 @@ sponsors:
   - /organisations/agriculture
 phases:
   - name: investigation
-    comment: null
     start: 2024-09-13
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-09-13
 ---
 ## Contexte
