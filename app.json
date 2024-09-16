@@ -1,8 +1,8 @@
 {
-    "name": "beta.gouv.fr",
-    "scripts": {},
-    "env": {},
-    "formation": {},
-    "addons": [],
-    "buildpacks": []
+  "name": "beta.gouv.fr",
+  "scripts": {},
+  "env": {},
+  "formation": {},
+  "addons": [],
+  "buildpacks": []
 }

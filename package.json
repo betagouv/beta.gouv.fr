@@ -1,5 +1,11 @@
 {
-    "dependencies": {
-        "@gouvfr/dsfr": "1.11.0"
-    }
+  "scripts": {
+    "lint": "biome check"
+  },
+  "dependencies": {
+    "@gouvfr/dsfr": "1.11.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.8.3"
+  }
 }
