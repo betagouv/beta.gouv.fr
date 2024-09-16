@@ -106,7 +106,6 @@ module Jekyll
     FALLBACK = '/img/incubators/logo_beta.png'
   
     def incubator_logo(incubator)
-      return FALLBACK if incubator.nil?
       accents = {
         'á'=>'a', 'à'=>'a', 'ä'=>'a', 'ã'=>'a', 'â'=>'a', 'é'=>'e', 'è'=>'e', 'ë'=>'e', 'ê'=>'e',
         'í'=>'i', 'ì'=>'i', 'ï'=>'i', 'î'=>'i', 'ó'=>'o', 'ò'=>'o', 'ö'=>'o', 'õ'=>'o', 'ô'=>'o',
@@ -129,7 +128,6 @@ module Jekyll
     end
   
     def incubator_file(incubator)
-      id = incubator_id(incubator)
       file = incubator_files.find do |f|
         incubator['logo'].include?(f.basename)
       end
@@ -139,7 +137,6 @@ module Jekyll
 end
 
 
-# ../img/incubators/{{ page.logo }}
 
 Liquid::Template.register_filter(Jekyll::ScreenshotFilter)
 Liquid::Template.register_filter(Jekyll::AvatarFilter)
