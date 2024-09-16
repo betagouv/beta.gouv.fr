@@ -1,6 +1,6 @@
+import fs from "node:fs";
 //@ts-check
-import path from "path";
-import fs from "fs";
+import path from "node:path";
 import matter from "gray-matter";
 import { parse, stringify } from "yaml";
 
@@ -8,6 +8,8 @@ import { parse, stringify } from "yaml";
  * check authors and startups markdown files metadata againt schemas
  * ensure members startups exist
  */
+
+const a = 10;
 
 import { schema as authorsSchema } from "./authors.mjs";
 import { schema as startupsSchema } from "./startups.mjs";
@@ -35,7 +37,17 @@ const checkMarkdownFileHeader = async (filePath, schema) => {
   if (mdData) {
     const parsed = await schema.safeParse(mdData.data);
     if (!parsed.success) {
-      return [{ path: filePath, errors: parsed.error.errors.map((i) => ({ path: i.path.join("/"), message: i.message, code: i.code, received: i.received })) }];
+      return [
+        {
+          path: filePath,
+          errors: parsed.error.errors.map((i) => ({
+            path: i.path.join("/"),
+            message: i.message,
+            code: i.code,
+            received: i.received,
+          })),
+        },
+      ];
     }
   }
 };
@@ -49,11 +61,11 @@ const authorsErrors = (
       .flatMap(async (file) => {
         const mdPath = path.join(authorsPath, `${file}.md`);
         return checkMarkdownFileHeader(mdPath, authorsSchema);
-      })
+      }),
   )
 )
   .filter(Boolean)
-  .flatMap((a) => a);
+  .flat();
 
 console.log(`Checking ${startupsFiles.length} files`);
 
@@ -62,27 +74,26 @@ const startupsErrors = (
     startupsFiles.flatMap(async (file) => {
       const mdPath = path.join(startupsPath, `${file}.md`);
       return checkMarkdownFileHeader(mdPath, startupsSchema);
-    })
+    }),
   )
 )
   .filter(Boolean)
-  .flatMap((a) => a);
+  .flat();
 
 const errors = [...authorsErrors, ...startupsErrors];
 
-errors.forEach((error) => {
+for (error of errors) {
   console.error(`${error.path}:`);
 
   if (error.errors) {
-    error.errors &&
-      error.errors.map((error) => {
-        console.error(`\t${error.path} => ${error.message.substring(0, 100)}...`);
-        console.error(`\t\treceived: ${error.received} `);
-      });
+    error.errors?.map((error) => {
+      console.error(`\t${error.path} => ${error.message.substring(0, 100)}...`);
+      console.error(`\t\treceived: ${error.received} `);
+    });
   } else {
     console.error(`\t${error.path}: ${error.message}`);
   }
-});
+}
 
 // fix author files missions (WIP)
 // const checkAuthors = () => {
