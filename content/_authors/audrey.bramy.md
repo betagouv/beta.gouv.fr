@@ -8,6 +8,12 @@ missions:
     end: 2024-09-13
     status: independent
     employer: scopyleft
+  - start: 2024-02-05
+    end: 2024-12-16
+    status: service
+    employer: Scopyleft
+    startups:
+      - pitchou
 previously:
   - comobi
 ---

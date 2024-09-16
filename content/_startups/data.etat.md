@@ -5,9 +5,10 @@ repository: https://github.com/dataregion
 incubator: dinum
 title: Data-État
 contact: julien.kounowski@bretagne.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 sponsors:
   - /organisations/interieur
+  - /organisations/mefsin
 phases:
   - name: investigation
     start: 2022-11-01
@@ -20,7 +21,16 @@ thematiques:
 usertypes:
   - etat
   - collectivite-territoriale
-techno: []
+techno:
+  - angular
+  - git
+  - grist
+  - ApacheSuperset
+  - Mviewer
+  - sql
+analyse_risques: false
+mon_service_securise: true
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#
 ---
 ## Contexte
 
