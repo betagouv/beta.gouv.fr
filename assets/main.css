@@ -75,10 +75,12 @@ main .fr-container img {
   display: flex;
   flex-direction: column;
 }
-.hero__startup-text > .fr-badge { order: -1; }
+.hero__startup-text > .fr-badge {
+  order: -1;
+}
 
 #about {
-  border: 1px solid var(--light-border-default-grey, #E5E5E5);
+  border: 1px solid var(--light-border-default-grey, #e5e5e5);
 }
 
 /* Couleurs de sections et espacemements */
@@ -320,8 +322,13 @@ ul li p {
 
 /* START SECTION CLASS */
 .section-blue {
-  background-image: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%), linear-gradient(0deg, #00006d, #00006d);
-  background-color: #4941C0;
+  background-image: linear-gradient(
+      270.3deg,
+      rgba(123, 97, 255, 0.46) 3.25%,
+      rgba(123, 97, 255, 0.63) 55.33%,
+      rgba(123, 97, 255, 0.39) 99.82%
+    ), linear-gradient(0deg, #00006d, #00006d);
+  background-color: #4941c0;
 }
 
 .section-white h2 {
@@ -386,8 +393,10 @@ ul li p {
   text-align: center;
 }
 
-.section-principle ul { list-style-type: numeric; }
-.section-principle ::marker { 
+.section-principle ul {
+  list-style-type: numeric;
+}
+.section-principle ::marker {
   font-weight: bold;
   font-size: 3.5em;
 }
@@ -476,7 +485,10 @@ img.lozad {
 }
 
 .hero-section {
-  background: linear-gradient(var(--hero-gradient-start), var(--hero-gradient-stop));
+  background: linear-gradient(
+    var(--hero-gradient-start),
+    var(--hero-gradient-stop)
+  );
 }
 
 .fr-illu {
@@ -613,17 +625,19 @@ mark {
   border-color: var(--background-action-low-red-marianne);
 }
 
-table + h3 { margin-top: 2em; }
+table + h3 {
+  margin-top: 2em;
+}
 
 /* Mise en page des graphiques Metabase sur la page Stats */
 iframe.graph {
-  width: 100%; 
-  border: 0; 
+  width: 100%;
+  border: 0;
   background-color: transparent;
-}  
+}
 iframe.graph.h300 {
-  height: 300px;    
+  height: 300px;
 }
 iframe.graph.h800 {
-  height: 800px;    
+  height: 800px;
 }

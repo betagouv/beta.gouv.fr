@@ -1,18 +1,18 @@
 .beta-square-list-item {
-    line-height: 1.5em;
+  line-height: 1.5em;
 }
 .beta-list-item:nth-of-type(1) .beta-square-list-item {
-    color: #DD6A57;
+  color: #dd6a57;
 }
 .beta-list-item:nth-of-type(2) .beta-square-list-item {
-    color: #F3AC3F;
+  color: #f3ac3f;
 }
 .beta-list-item:nth-of-type(3) .beta-square-list-item {
-    color: #92E3A9;
+  color: #92e3a9;
 }
 .beta-list-item:nth-of-type(4) .beta-square-list-item {
-    color: #7B61FF;
+  color: #7b61ff;
 }
 .beta-communaute-hr {
-    color: black;
+  color: black;
 }
