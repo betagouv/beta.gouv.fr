@@ -1,8 +1,10 @@
 # frozen_string_literal: true
 
+require 'activesupport'
 require 'json'
 require 'net/http'
 require 'uri'
+
 
 
 S3_BASE_URL= ENV['S3_BASE_URL']
