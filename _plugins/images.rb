@@ -106,6 +106,7 @@ module Jekyll
     FALLBACK = '/img/incubators/logo_beta.png'
   
     def incubator_logo(incubator)
+      return FALLBACK if incubator.nil?
       id = incubator_id(incubator)
       incubator_s3_img(id) || incubator_file(incubator) || FALLBACK
     end
