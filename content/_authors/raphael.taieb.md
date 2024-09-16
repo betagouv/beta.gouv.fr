@@ -11,7 +11,7 @@ missions:
     startups:
       - mobilic
   - start: 2023-09-01
-    end: 2024-09-15
+    end: 2024-12-31
     status: independent
     employer: Malt
     startups:
@@ -23,4 +23,5 @@ previously:
 badges:
   - segur
 link: https://www.linkedin.com/in/raphaeltaieb1/
+competences: []
 ---

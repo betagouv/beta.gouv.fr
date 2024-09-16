@@ -1,7 +1,7 @@
 ---
 mission: Aider les agents en recherche de mobilité à identifier les opportunités numériques en inter-ministériel
 incubator: dinum
-title: 'Pôle de compétences numériques de l''Etat - Parcours interministériel du numérique PINUM, un service d’accompagnement à la mobilité interministérielle '
+title: Parcours interministériel du numérique PINUM
 contact: stephanie.dubois@modernisation.gouv.fr
 accessibility_status: non conforme
 sponsors:
@@ -9,6 +9,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-03-01
+  - name: construction
+    start: 2024-06-03
 thematiques: []
 usertypes: []
 techno: []
