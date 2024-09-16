@@ -9,7 +9,6 @@ competences:
 missions:
   - start: 2023-11-20
     end: 2024-12-31
-    employer: MIOM
     status: admin
-    startups: []
+    employer: MIOM
 ---
