@@ -112,7 +112,7 @@ module Jekyll
   
     private
     
-    def incubator_s3_img(incubator)
+    def incubator_s3_img(id)
       s3_url = "#{S3_BASE_URL}/incubators/#{id}/logo.jpg"
       URLChecker.url_exists?(s3_url) ? s3_url : false
     end
