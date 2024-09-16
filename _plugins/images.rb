@@ -106,7 +106,8 @@ module Jekyll
     FALLBACK = '/img/incubators/logo_beta.png'
   
     def incubator_logo(incubator)
-      id = incubator_id(incubator)
+      id = incubator.id.split('/').last.parameterize # they come as /incubateurs/{id}
+
       incubator_s3_img(id) || incubator_file(incubator) || FALLBACK
     end
   
@@ -115,10 +116,6 @@ module Jekyll
     def incubator_s3_img(id)
       s3_url = "#{S3_BASE_URL}/incubators/#{id}/logo.jpg"
       URLChecker.url_exists?(s3_url) ? s3_url : false
-    end
-
-    def incubator_id(incubator)
-      incubator.id.split('/').last.parameterize # they come as /incubateurs/{id}
     end
   
     def incubator_files
