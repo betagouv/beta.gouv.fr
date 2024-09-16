@@ -9,7 +9,5 @@ missions:
     status: admin
     startups:
       - inventaire.zae
-startups:
-  - inventaire.zae
 memberType: attributaire
 ---

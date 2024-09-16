@@ -10,8 +10,5 @@ missions:
     startups:
       - api-engagement
       - jeveuxaider
-startups:
-  - jeveuxaider
-  - api-engagement
 memberType: beta
 ---

@@ -9,7 +9,5 @@ missions:
     employer: education-nationale
     startups:
       - pix
-startups:
-  - pix
 ---
 Public + commun = the future

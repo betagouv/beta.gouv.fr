@@ -10,7 +10,5 @@ missions:
     employer: DGT
     startups:
       - codedutravail
-startups:
-  - codedutravail
 ---
 Juriste passionné de SI

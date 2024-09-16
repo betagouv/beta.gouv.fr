@@ -10,8 +10,6 @@ missions:
     employer: Little Big Connection
     startups:
       - monstage
-startups:
-  - monstage
 competences:
   - Développement Frontend
   - Développement Backend

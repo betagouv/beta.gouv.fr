@@ -13,11 +13,6 @@ missions:
       - investigation-ij
       - pilotagevoiepro
       - sirius
-startups:
-  - sirius
-  - exposition-ij
-  - investigation-ij
-  - pilotagevoiepro
 previously:
   - voeux-apprentissage
   - dematapprentissage

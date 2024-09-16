@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - candilib
-startups:
-  - candilib
 ---
 A la décourverte de nouvelles techno !

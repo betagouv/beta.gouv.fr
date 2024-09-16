@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - monitorfish
-startups:
-  - monitorfish
 memberType: beta
 ---
 Développeuse front-end

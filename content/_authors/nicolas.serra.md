@@ -10,7 +10,5 @@ missions:
     employer: Omnicité
     startups:
       - signalement
-startups:
-  - signalement
 ---
 Développeur le jour (et la nuit), passionné d'arts martiaux

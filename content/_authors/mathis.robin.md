@@ -10,8 +10,6 @@ missions:
     employer: FAIRNESS
     startups:
       - reva
-startups:
-  - reva
 memberType: beta
 previously:
   - apilos

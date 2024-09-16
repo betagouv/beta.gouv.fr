@@ -10,7 +10,5 @@ missions:
     employer: DGCCRF
     startups:
       - signalement
-startups:
-  - signalement
 ---
 Parfois, mieux vaut un court silence qu'un long discours

@@ -9,7 +9,5 @@ missions:
     employer: ANCT
     startups:
       - deveco
-startups:
-  - deveco
 memberType: beta
 ---

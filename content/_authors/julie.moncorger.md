@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - sppnaut
-startups:
-  - sppnaut
 memberType: beta
 ---
 Couteau suisse avec des connaissances en cartographie, qualité de service, programmation python et php, développement produit, MOA.

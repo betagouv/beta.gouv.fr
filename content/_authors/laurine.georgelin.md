@@ -9,8 +9,6 @@ missions:
     employer: SPIP
     startups:
       - mon-suivi-justice
-startups:
-  - mon-suivi-justice
 memberType: autre
 ---
 Stagiaire les mercredis et vendredis, étudiante le reste de la semaine !

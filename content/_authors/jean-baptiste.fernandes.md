@@ -9,8 +9,6 @@ missions:
     employer: ANCT
     startups:
       - deveco
-startups:
-  - deveco
 memberType: beta
 ---
 Numérique et développement éco

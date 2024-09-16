@@ -8,8 +8,6 @@ missions:
     status: independent
     startups:
       - plusfraichemaville
-startups:
-  - plusfraichemaville
 memberType: beta
 ---
 Rédactrice

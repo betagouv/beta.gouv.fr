@@ -10,8 +10,6 @@ missions:
     employer: malt
     startups:
       - api-entreprise
-startups:
-  - api-entreprise
 competences:
   - Gestion de Produit
   - Développement Backend

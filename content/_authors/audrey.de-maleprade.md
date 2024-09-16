@@ -10,8 +10,6 @@ missions:
     employer: Path Tech
     startups:
       - territoires-en-transitions
-startups:
-  - territoires-en-transitions
 previously:
   - mobilic
 badges:

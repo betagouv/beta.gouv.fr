@@ -9,7 +9,5 @@ missions:
     employer: OPTEAMIS
     startups:
       - reva
-startups:
-  - reva
 ---
 Chargé de déploiement REVA

@@ -9,7 +9,5 @@ missions:
     status: service
     startups:
       - aquaculteurs.marins
-startups:
-  - aquaculteurs.marins
 memberType: autre
 ---

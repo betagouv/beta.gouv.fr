@@ -10,8 +10,6 @@ missions:
     employer: DGITM
     startups:
       - preuve-de-covoiturage
-startups:
-  - preuve-de-covoiturage
 badges:
   - segur
 ---

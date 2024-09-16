@@ -12,8 +12,6 @@ missions:
       - oots.once-only.technical.system
 badges:
   - segur
-startups:
-  - oots.once-only.technical.system
 previously:
   - aidantsconnect
 ---

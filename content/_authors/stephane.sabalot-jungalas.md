@@ -10,8 +10,6 @@ missions:
     employer: La zone
     startups:
       - delta.v
-startups:
-  - delta.v
 badges:
   - segur
 ---

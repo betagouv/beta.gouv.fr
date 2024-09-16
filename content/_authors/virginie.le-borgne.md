@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - emile
-startups:
-  - emile
 badges:
   - segur
 ---

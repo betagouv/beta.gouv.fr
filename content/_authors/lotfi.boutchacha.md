@@ -8,6 +8,4 @@ missions:
     status: independent
     startups:
       - carnet.de.bord
-startups:
-  - carnet.de.bord
 ---

@@ -9,8 +9,6 @@ missions:
     employer: ANCT
     startups:
       - pcrs
-startups:
-  - pcrs
 badges:
   - segur
 ---

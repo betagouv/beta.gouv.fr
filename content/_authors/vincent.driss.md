@@ -10,8 +10,6 @@ missions:
     employer: telescoop
     startups:
       - reflex
-startups:
-  - reflex
 badges:
   - segur
 ---

@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - datagir
-startups:
-  - datagir
 ---

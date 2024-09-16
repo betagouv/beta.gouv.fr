@@ -9,8 +9,6 @@ missions:
     employer: Little Big Connection
     startups:
       - monstage
-startups:
-  - monstage
 memberType: beta
 ---
 Biz dev

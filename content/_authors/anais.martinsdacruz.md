@@ -10,6 +10,4 @@ missions:
     employer: DRDJSCS Auvergne Rhone-Alpes
     startups:
       - domifa
-startups:
-  - domifa
 ---

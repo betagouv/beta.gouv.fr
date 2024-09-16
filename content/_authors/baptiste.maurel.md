@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - aides.jeunes
-startups:
-  - aides.jeunes
 memberType: beta
 ---
 Software Developer

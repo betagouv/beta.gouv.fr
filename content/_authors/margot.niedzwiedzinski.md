@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - territoires-en-transitions
-startups:
-  - territoires-en-transitions
 ---
 🌱 Chargée de déploiement - Territoires en Transitions 🌱

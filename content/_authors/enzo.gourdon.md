@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - carbure
-startups:
-  - carbure
 memberType: beta
 ---

@@ -9,8 +9,6 @@ missions:
     employer: Malt
     startups:
       - pacoupa
-startups:
-  - pacoupa
 memberType: beta
 competences: []
 ---

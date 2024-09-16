@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - tchap
-startups:
-  - tchap
 badges:
   - segur
 competences: []

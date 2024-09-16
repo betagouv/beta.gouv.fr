@@ -11,7 +11,5 @@ missions:
     employer: OCTO
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
 ---
 Laravel / Vue.js

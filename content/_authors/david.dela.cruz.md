@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - boite.aux.lettres
-startups:
-  - boite.aux.lettres
 memberType: beta
 competences:
   - Développement Backend

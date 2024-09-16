@@ -9,8 +9,6 @@ missions:
     status: service
     startups:
       - mon-diagnostic-artificialisation
-startups:
-  - mon-diagnostic-artificialisation
 memberType: beta
 ---
 Consultante open data, transparence des algorithmes publics

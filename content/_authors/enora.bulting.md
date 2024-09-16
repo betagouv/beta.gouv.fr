@@ -9,9 +9,6 @@ missions:
     startups:
       - collectif_objets
       - euphrosyne
-startups:
-  - euphrosyne
-  - collectif_objets
 competences:
   - UX
   - UI

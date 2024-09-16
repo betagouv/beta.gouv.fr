@@ -9,6 +9,4 @@ missions:
     employer: MTE-MCTRCT-Mer - DGALN
     startups:
       - docurba
-startups:
-  - docurba
 ---

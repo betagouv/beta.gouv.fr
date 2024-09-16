@@ -9,7 +9,5 @@ missions:
     employer: Caisse  des dépôts
     startups:
       - france-numerique-ensemble
-startups:
-  - france-numerique-ensemble
 ---
 Chargée d'animation et du support de la communauté des conseillers numérique france service

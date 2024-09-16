@@ -10,8 +10,6 @@ missions:
     employer: Pathtech
     startups:
       - sante-psy-etudiant
-startups:
-  - sante-psy-etudiant
 memberType: autre
 competences: []
 ---

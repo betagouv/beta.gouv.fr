@@ -10,8 +10,6 @@ missions:
     employer: octo
     startups:
       - candilib
-startups:
-  - candilib
 previously:
   - eva
 avatar: https://media-exp1.licdn.com/dms/image/C4D03AQETisxCDnyRaQ/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=cwF7BNW2MAamno6F5n5nTB4KYXoY8gZjd9nou7GEPKg

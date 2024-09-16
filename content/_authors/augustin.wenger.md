@@ -10,7 +10,5 @@ missions:
     employer: dinum
     startups:
       - leximpact
-startups:
-  - leximpact
 ---
 Résoud des problèmes de la vraie vie avec des mathématiques depuis plus longtemps que je n'oserais l'avouer

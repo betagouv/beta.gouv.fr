@@ -10,8 +10,6 @@ missions:
     employer: CGI
     startups:
       - sndv_maritime
-startups:
-  - sndv_maritime
 competences:
   - Administration Système
 ---

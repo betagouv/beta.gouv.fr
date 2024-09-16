@@ -9,7 +9,5 @@ missions:
     employer: Ministère de la Culture
     startups:
       - eac
-startups:
-  - eac
 ---
 Coordinatrice, intrapreneuse, membre de l'équipe produit sur la plateforme pour l'éducation artistique et culturelle.

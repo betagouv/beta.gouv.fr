@@ -10,6 +10,4 @@ missions:
     employer: Departement de l'Oise
     startups:
       - anti-gaspi-cantine
-startups:
-  - anti-gaspi-cantine
 ---

@@ -9,8 +9,6 @@ missions:
     status: service
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 memberType: autre
 ---
 Architecte et Développeur

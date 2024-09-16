@@ -9,6 +9,4 @@ missions:
     employer: UT7
     startups:
       - ellesfontlaculture
-startups:
-  - ellesfontlaculture
 ---

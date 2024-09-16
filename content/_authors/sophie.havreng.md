@@ -10,8 +10,5 @@ missions:
     startups:
       - le-taxi
       - mesads
-startups:
-  - le-taxi
-  - mesads
 ---
 1 gramme de sucre pour 1 gramme de cerveau

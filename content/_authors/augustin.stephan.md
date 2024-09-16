@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 previously:
   - aides.jeunes
 ---

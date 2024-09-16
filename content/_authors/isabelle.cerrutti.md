@@ -9,8 +9,6 @@ missions:
     status: admin
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 badges:
   - segur
 ---

@@ -10,7 +10,5 @@ missions:
     employer: ARML Corse
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 memberType: autre
 ---

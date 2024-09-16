@@ -8,18 +8,11 @@ missions:
     status: admin
     startups:
       - data-inclusion
-      - les-emplois
       - l-immersion-facile
+      - les-emplois
       - pilotage.de.linclusion
       - place-de-marche-inclusion
       - rdv.insertion
-startups:
-  - l-immersion-facile
-  - data-inclusion
-  - les-emplois
-  - pilotage.de.linclusion
-  - place-de-marche-inclusion
-  - rdv.insertion
 badges:
   - segur
 competences: []

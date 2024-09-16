@@ -9,8 +9,6 @@ missions:
     employer: Octo
     startups:
       - snu
-startups:
-  - snu
 memberType: beta
 competences: []
 ---

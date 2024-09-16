@@ -10,8 +10,6 @@ missions:
     startups:
       - données-et-territoires
       - grist.numerique.gouv.fr
-startups:
-  - données-et-territoires
 memberType: beta
 ---
 Formateur - No-code - BizDev - Customer Success

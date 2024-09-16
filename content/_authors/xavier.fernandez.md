@@ -10,7 +10,5 @@ missions:
     employer: Malt
     startups:
       - les-emplois
-startups:
-  - les-emplois
 ---
 Développeur, avec beaucoup de python et d'open source

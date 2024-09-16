@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - encyclopedie-des-metiers
-startups:
-  - encyclopedie-des-metiers
 ---
 Product Owner

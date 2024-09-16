@@ -8,6 +8,4 @@ missions:
     status: admin
     startups:
       - tutorat_fp
-startups:
-  - tutorat_fp
 ---

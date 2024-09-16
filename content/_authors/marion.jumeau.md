@@ -9,7 +9,5 @@ missions:
     employer: Malt
     startups:
       - trackdechets
-startups:
-  - trackdechets
 ---
 Passionnée par les rencontres, et les voyages.

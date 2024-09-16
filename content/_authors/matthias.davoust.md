@@ -9,7 +9,5 @@ missions:
     employer: pole-emploi
     startups:
       - clara
-startups:
-  - clara
 ---
 Biz dev du produit Clara !

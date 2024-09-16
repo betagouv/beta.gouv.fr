@@ -10,8 +10,6 @@ missions:
     employer: malt
     startups:
       - snu
-startups:
-  - snu
 memberType: beta
 ---
 Développeur Back  Devops

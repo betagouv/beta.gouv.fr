@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - mon-aide-cyber
-startups:
-  - mon-aide-cyber
 memberType: beta
 competences: []
 ---

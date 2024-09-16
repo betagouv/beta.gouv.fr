@@ -11,8 +11,6 @@ missions:
     status: independent
     startups:
       - bat-id
-startups:
-  - bat-id
 memberType: beta
 ---
 Développeur web

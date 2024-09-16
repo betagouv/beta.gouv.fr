@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - mesads
-startups:
-  - mesads
 memberType: beta
 ---

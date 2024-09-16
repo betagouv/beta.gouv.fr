@@ -10,6 +10,4 @@ missions:
     employer: INOPS
     startups:
       - travailler.en.france
-startups:
-  - travailler.en.france
 ---

@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - a-just
-startups:
-  - a-just
 previously:
   - mon-suivi-justice
   - anct-pni-38

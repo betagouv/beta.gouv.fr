@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - trackdechets
-startups:
-  - trackdechets
 memberType: autre
 ---

@@ -10,8 +10,6 @@ missions:
     employer: Living Data
     startups:
       - pcrs
-startups:
-  - pcrs
 previously:
   - ban
 ---

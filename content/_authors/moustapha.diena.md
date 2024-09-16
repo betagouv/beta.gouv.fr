@@ -10,8 +10,6 @@ missions:
     employer: DINUM
     startups:
       - france-numerique-ensemble
-startups:
-  - france-numerique-ensemble
 badges:
   - segur
 previously:

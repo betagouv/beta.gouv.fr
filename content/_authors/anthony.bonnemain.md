@@ -9,6 +9,4 @@ missions:
     employer: pole-emploi
     startups:
       - perspectives
-startups:
-  - perspectives
 ---

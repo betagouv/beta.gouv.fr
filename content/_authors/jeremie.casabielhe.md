@@ -10,8 +10,6 @@ missions:
     startups:
       - monpsy
 incubator: sgmas
-startups:
-  - monpsy
 competences:
   - Administration Publique
 ---

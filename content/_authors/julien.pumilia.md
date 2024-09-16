@@ -11,8 +11,6 @@ missions:
     employer: Opteamis
     startups:
       - signalement
-startups:
-  - signalement
 previously:
   - dora
 ---

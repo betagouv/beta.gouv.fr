@@ -10,8 +10,6 @@ missions:
     employer: IGN
     startups:
       - ban
-startups:
-  - ban
 memberType: beta
 link: https://www.linkedin.com/in/jugurtha-bouhadoun/
 ---

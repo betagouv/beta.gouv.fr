@@ -9,7 +9,5 @@ missions:
     employer: DIHAL
     startups:
       - resorption-bidonvilles
-startups:
-  - resorption-bidonvilles
 ---
 Directeur de cabinet DIHAL, mission Résorption bivonvilles

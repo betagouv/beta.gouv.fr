@@ -9,8 +9,6 @@ missions:
     employer: Numa
     startups:
       - acceslibre
-startups:
-  - acceslibre
 memberType: autre
 ---
 Entrepreneur

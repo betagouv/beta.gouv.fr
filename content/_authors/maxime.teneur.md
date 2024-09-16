@@ -10,8 +10,6 @@ missions:
     employer: Ground
     startups:
       - trackdechets
-startups:
-  - trackdechets
 badges:
   - segur
 competences:

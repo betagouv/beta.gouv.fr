@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - rdv-service-public
-startups:
-  - rdv-service-public
 ---
 Fan de bugs bunny

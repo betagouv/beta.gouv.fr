@@ -11,8 +11,6 @@ missions:
     employer: Octo
     startups:
       - zero-logement-vacant
-startups:
-  - zero-logement-vacant
 memberType: beta
 ---
 Entrepreneur & Développeur Fullstack

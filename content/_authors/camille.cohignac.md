@@ -9,7 +9,5 @@ missions:
     employer: Ground
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 ---
 Coach produit, inspecteur gadget

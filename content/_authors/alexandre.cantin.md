@@ -11,8 +11,6 @@ missions:
     startups:
       - dora
 avatar: /img/authors/alexandre.cantin.jpg
-startups:
-  - dora
 previously:
   - la-bonne-boite
   - la-bonne-alternance

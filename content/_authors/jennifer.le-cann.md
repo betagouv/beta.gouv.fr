@@ -11,9 +11,6 @@ missions:
       - cassiopee
       - oriane
       - oscars
-startups:
-  - oscars
-  - cassiopee
 competences: []
 ---
 UX/UI

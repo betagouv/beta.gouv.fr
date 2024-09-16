@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - envergo
-startups:
-  - envergo
 memberType: autre
 ---
 Etudiant en dernière année @ CentraleSupélec

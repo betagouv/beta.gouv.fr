@@ -12,8 +12,6 @@ missions:
     startups:
       - boris
 memberType: autre
-startups:
-  - boris
 competences: []
 ---
 Coach Fabrique Numérique

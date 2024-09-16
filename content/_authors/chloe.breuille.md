@@ -10,8 +10,6 @@ missions:
     employer: Fairness
     startups:
       - benefriches
-startups:
-  - benefriches
 memberType: autre
 competences: []
 ---

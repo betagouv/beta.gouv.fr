@@ -10,6 +10,4 @@ missions:
     employer: Direction générale du travail
     startups:
       - codedutravail
-startups:
-  - codedutravail
 ---

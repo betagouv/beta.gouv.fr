@@ -10,7 +10,5 @@ missions:
     employer: La Fabrique Numérique
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 ---
 Expérience utilisateur, interface utilisateur, UX writing.

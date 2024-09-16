@@ -10,8 +10,6 @@ missions:
     startups:
       - besoins.opco
 incubator: mission-apprentissage
-startups:
-  - besoins.opco
 previously:
   - clara
   - la-bonne-alternance

@@ -11,8 +11,6 @@ missions:
     employer: DINUM
     startups:
       - moncomptepro
-startups:
-  - moncomptepro
 memberType: dinum
 ---
 Développeur Node JS

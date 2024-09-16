@@ -11,8 +11,6 @@ missions:
     employer: UT7
     startups:
       - impact.co2
-startups:
-  - impact.co2
 previously:
   - aides.jeunes
   - sante-psy-etudiant

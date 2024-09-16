@@ -9,10 +9,7 @@ missions:
     status: independent
     employer: Octo
     startups:
-      - rdv.insertion
       - rdv-service-public
-startups:
-  - rdv-service-public
-  - rdv.insertion
+      - rdv.insertion
 ---
 Développeur Full Stack multi casquettes (Sys/NetAdmin, amateur de jeux de société, danseur...)

@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 ---
 Développeur bienveillant et pragmatique, architecte de solutions élégantes et efficaces.

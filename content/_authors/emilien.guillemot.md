@@ -10,8 +10,6 @@ missions:
     employer: INETUM - LBC
     startups:
       - bat-id
-startups:
-  - bat-id
 badges:
   - segur
 previously:

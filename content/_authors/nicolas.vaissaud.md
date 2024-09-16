@@ -11,7 +11,5 @@ missions:
     employer: Octo
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
 ---
 Laravel / Vue.js

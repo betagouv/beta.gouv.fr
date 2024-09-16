@@ -10,6 +10,4 @@ missions:
     employer: Ministère de la Transition Ecologique et Solidaire
     startups:
       - resorption-bidonvilles
-startups:
-  - resorption-bidonvilles
 ---

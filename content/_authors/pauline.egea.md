@@ -13,7 +13,5 @@ missions:
       - dossierfacile
 badges:
   - segur
-startups:
-  - dossierfacile
 ---
 BizDev !

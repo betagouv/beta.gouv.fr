@@ -11,10 +11,6 @@ missions:
       - bases.adresses.locales
       - osirispn
       - sepia
-startups:
-  - sepia
-  - osirispn
-  - bases.adresses.locales
 competences:
   - Développement Frontend
 ---

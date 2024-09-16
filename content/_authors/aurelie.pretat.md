@@ -9,6 +9,4 @@ missions:
     status: admin
     startups:
       - a-just
-startups:
-  - a-just
 ---

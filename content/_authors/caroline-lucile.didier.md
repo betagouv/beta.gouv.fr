@@ -9,8 +9,6 @@ missions:
     employer: Ministère de la Justice
     startups:
       - infoparquet
-startups:
-  - infoparquet
 previously: []
 competences:
   - Administration Publique

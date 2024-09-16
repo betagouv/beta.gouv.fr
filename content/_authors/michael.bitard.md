@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - camino
-startups:
-  - camino
 competences:
   - Développement Full-stack
   - Développement

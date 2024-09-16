@@ -11,8 +11,6 @@ missions:
     employer: Scopopop
     startups:
       - mesads
-startups:
-  - mesads
 competences:
   - Développement Backend
 ---

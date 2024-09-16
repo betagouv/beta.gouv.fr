@@ -9,6 +9,4 @@ missions:
     employer: Assemblée nationale
     startups:
       - leximpact
-startups:
-  - leximpact
 ---

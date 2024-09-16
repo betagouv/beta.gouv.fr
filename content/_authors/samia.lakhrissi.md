@@ -9,7 +9,5 @@ missions:
     employer: Mise à disposition GIP Inclusion
     startups:
       - les-emplois
-startups:
-  - les-emplois
 memberType: beta
 ---

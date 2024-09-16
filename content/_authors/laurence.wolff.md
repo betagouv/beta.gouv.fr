@@ -9,8 +9,6 @@ missions:
     employer: beta gouv
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 badges:
   - segur
 ---

@@ -11,8 +11,6 @@ missions:
     startups:
       - annuaire-entreprises
       - moncomptepro
-startups:
-  - annuaire-entreprises
 memberType: autre
 competences:
   - Docker

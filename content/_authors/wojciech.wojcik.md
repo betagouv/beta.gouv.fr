@@ -9,8 +9,6 @@ missions:
     employer: OCTO
     startups:
       - france.nation.verte.agir
-startups:
-  - france.nation.verte.agir
 memberType: beta
 ---
 Développeur biodégradable

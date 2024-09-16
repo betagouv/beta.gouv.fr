@@ -9,6 +9,4 @@ missions:
     startups:
       - decl-bombarbier-eau
 memberType: beta
-startups:
-  - decl-bombarbier-eau
 ---

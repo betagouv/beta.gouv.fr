@@ -10,8 +10,6 @@ missions:
     employer: DINUM
     startups:
       - le-taxi
-startups:
-  - le-taxi
 badges:
   - segur
 competences:

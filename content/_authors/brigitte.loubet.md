@@ -9,6 +9,4 @@ missions:
     employer: MTES-MCT
     startups:
       - chauffage-urbain
-startups:
-  - chauffage-urbain
 ---

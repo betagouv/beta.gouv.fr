@@ -13,7 +13,5 @@ memberType: beta
 fullname: Jean Perret
 role: Coach
 link: https://fr.linkedin.com/in/jean-perret-8751857
-startups:
-  - impact.co2
 ---
 Couteau suisse, développeur usurpateur

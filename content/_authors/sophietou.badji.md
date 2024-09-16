@@ -9,7 +9,5 @@ missions:
     employer: AFD tech
     startups:
       - la-bonne-boite
-startups:
-  - la-bonne-boite
 memberType: beta
 ---

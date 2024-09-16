@@ -10,8 +10,6 @@ missions:
     employer: DGFiP
     startups:
       - faritas
-startups:
-  - faritas
 competences:
   - Administration Publique
   - Finances publiques

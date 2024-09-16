@@ -10,8 +10,6 @@ missions:
     employer: Pôle emploi
     startups:
       - estime
-startups:
-  - estime
 badges:
   - segur
 ---

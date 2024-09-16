@@ -14,8 +14,6 @@ previously:
   - workinfrance
   - e-mjpm
   - carnet.de.bord
-startups:
-  - mon-suivi-social
 competences:
   - Développement Frontend
   - Développement Backend

@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - api-particulier
-startups:
-  - api-particulier
 ---

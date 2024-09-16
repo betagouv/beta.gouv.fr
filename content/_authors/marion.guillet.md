@@ -10,8 +10,6 @@ missions:
     employer: UT7
     startups:
       - la-bonne-alternance
-startups:
-  - la-bonne-alternance
 previously:
   - la-bonne-boite
 ---

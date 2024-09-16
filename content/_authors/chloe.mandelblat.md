@@ -9,7 +9,5 @@ missions:
     employer: DNUM affaires sociales
     startups:
       - fiche.commune.entreprise.fce
-startups:
-  - fiche.commune.entreprise.fce
 ---
 S'il n'y pas de solution, c'est qu'il n'y a pas de problème

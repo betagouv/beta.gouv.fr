@@ -9,8 +9,6 @@ missions:
     employer: ANSSI
     startups:
       - homologation
-startups:
-  - homologation
 badges:
   - segur
 ---

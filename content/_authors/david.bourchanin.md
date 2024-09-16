@@ -11,9 +11,6 @@ missions:
     startups:
       - france-numerique-ensemble
       - reformes-locales
-startups:
-  - france-numerique-ensemble
-  - reformes-locales
 badges:
   - segur
 ---

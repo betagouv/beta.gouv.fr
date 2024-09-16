@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - pcrs
-startups:
-  - pcrs
 memberType: beta
 ---

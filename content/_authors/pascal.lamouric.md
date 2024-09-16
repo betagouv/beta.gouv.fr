@@ -12,8 +12,6 @@ missions:
     startups:
       - valorisation.des.stages.pro
 incubator: dinum
-startups:
-  - valorisation.des.stages.pro
 competences:
   - Développement Frontend
   - Développement Backend

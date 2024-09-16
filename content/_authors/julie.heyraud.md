@@ -8,6 +8,4 @@ missions:
     status: independent
     startups:
       - mon-suivi-justice
-startups:
-  - mon-suivi-justice
 ---

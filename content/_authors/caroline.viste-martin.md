@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - icare-complements-alimentaires
-startups:
-  - icare-complements-alimentaires
 memberType: beta
 ---

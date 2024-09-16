@@ -10,8 +10,6 @@ missions:
     employer: octo
     startups:
       - mission-transition-ecologique
-startups:
-  - mission-transition-ecologique
 competences:
   - Croissance
 ---

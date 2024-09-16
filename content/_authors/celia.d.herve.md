@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - monitorfish
-startups:
-  - monitorfish
 memberType: beta
 ---
 Cheffe du Service systèmes d'information pêche du Centre national de surveillance des pêches, Intrapreneure Monitor Fish

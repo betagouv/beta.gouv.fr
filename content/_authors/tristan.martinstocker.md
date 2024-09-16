@@ -9,7 +9,5 @@ missions:
     employer: pass Culture
     startups:
       - pass-culture
-startups:
-  - pass-culture
 ---
 Lead Product Manager

@@ -11,8 +11,6 @@ missions:
     employer: Scopopop
     startups:
       - docurba
-startups:
-  - docurba
 memberType: beta
 ---
 Designer produit

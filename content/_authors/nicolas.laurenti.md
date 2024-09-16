@@ -9,8 +9,6 @@ missions:
     employer: La Zone
     startups:
       - demarches-simplifiees.fr
-startups:
-  - demarches-simplifiees.fr
 competences:
   - Administration Système
 ---

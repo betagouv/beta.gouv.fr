@@ -11,8 +11,6 @@ missions:
     employer: Omnicité
     startups:
       - mon-aide-cyber
-startups:
-  - mon-aide-cyber
 memberType: beta
 ---
 Designer

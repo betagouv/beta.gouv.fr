@@ -10,8 +10,6 @@ missions:
     employer: DINUM
     startups:
       - suite-numerique
-startups:
-  - suite-numerique
 memberType: beta
 ---
 Intrapreneur de la suite numérique.

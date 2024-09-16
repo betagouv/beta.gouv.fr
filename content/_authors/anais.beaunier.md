@@ -9,7 +9,5 @@ missions:
     employer: Dossierfacile
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 ---
 Secrétaire et assistante indépendante auprès d'entreprises et de particuliers

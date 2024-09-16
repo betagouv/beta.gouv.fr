@@ -14,7 +14,5 @@ competences:
   - Data Science
 memberType: beta
 role: Co-intrapreneur
-startups:
-  - aquaculteurs.marins
 ---
 Numérique - Data - Agile

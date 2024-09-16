@@ -9,8 +9,6 @@ missions:
     employer: Numa
     startups:
       - umap
-startups:
-  - umap
 previously:
   - trackdechets
 teams:

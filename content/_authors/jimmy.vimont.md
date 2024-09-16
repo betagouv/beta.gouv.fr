@@ -8,8 +8,6 @@ missions:
     status: service
     startups:
       - sndv_maritime
-startups:
-  - sndv_maritime
 badges:
   - segur
 ---

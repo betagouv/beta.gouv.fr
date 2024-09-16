@@ -9,7 +9,5 @@ missions:
     employer: Région Bretagne
     startups:
       - korrigo-lyceens
-startups:
-  - korrigo-lyceens
 previously: []
 ---

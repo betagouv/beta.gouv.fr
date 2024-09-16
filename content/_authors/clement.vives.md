@@ -9,7 +9,5 @@ missions:
     status: admin
     startups:
       - mon-aide-cyber
-startups:
-  - mon-aide-cyber
 memberType: beta
 ---

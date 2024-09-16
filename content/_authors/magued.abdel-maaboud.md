@@ -9,7 +9,5 @@ missions:
     employer: Ministère de la justice
     startups:
       - mon-suivi-justice
-startups:
-  - mon-suivi-justice
 ---
 Chef de département au SNUM & Fan des SE de la Justice

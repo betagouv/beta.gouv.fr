@@ -9,6 +9,4 @@ missions:
     status: admin
     startups:
       - clara
-startups:
-  - clara
 ---

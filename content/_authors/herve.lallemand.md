@@ -13,7 +13,5 @@ previously:
   - l-immersion-facile
 competences:
   - Gestion de Produit
-startups:
-  - l-immersion-facile
 ---
 Intrapreneur Pôle emploi - Co-pilote de la startup Immersion Facile

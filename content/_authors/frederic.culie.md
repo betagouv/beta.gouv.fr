@@ -11,8 +11,6 @@ missions:
       - tchap
 badges:
   - segur
-startups:
-  - tchap
 teams:
   - /teams/dinum_produits_interministeriels
 ---

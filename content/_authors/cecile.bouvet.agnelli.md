@@ -9,7 +9,5 @@ missions:
     employer: Cerema
     startups:
       - recommandations-collaboratives
-startups:
-  - recommandations-collaboratives
 memberType: autre
 ---

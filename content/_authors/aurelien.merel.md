@@ -11,9 +11,6 @@ missions:
     startups:
       - api-entreprise
       - oots.once-only.technical.system
-startups:
-  - api-entreprise
-  - oots.once-only.technical.system
 previously:
   - demarches-simplifiees.fr
 ---

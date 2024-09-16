@@ -10,7 +10,5 @@ missions:
     employer: Octo
     startups:
       - monitorfish
-startups:
-  - monitorfish
 ---
 Je suis développeur full-stack passionné par les réseaux décentralisés, l’open-source et de manière générale par les projets qui œuvrent pour le commun.

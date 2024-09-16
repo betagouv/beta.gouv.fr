@@ -10,8 +10,6 @@ missions:
     employer: Benext Company
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 competences:
   - UI
 ---

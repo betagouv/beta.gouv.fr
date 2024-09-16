@@ -9,7 +9,5 @@ missions:
     employer: Ministère de l'Intérieur
     startups:
       - sndv_maritime
-startups:
-  - sndv_maritime
 memberType: beta
 ---

@@ -10,8 +10,6 @@ missions:
     employer: MIOM
     startups:
       - basegun
-startups:
-  - basegun
 memberType: beta
 competences: []
 ---

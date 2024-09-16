@@ -9,7 +9,5 @@ missions:
     employer: Octo
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 ---
 14 ans d'expérience en tant que Data Analyst et entrepreneur enthousiaste.

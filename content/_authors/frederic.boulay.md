@@ -9,6 +9,4 @@ missions:
     employer: cnamts
     startups:
       - mrs
-startups:
-  - mrs
 ---

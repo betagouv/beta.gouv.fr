@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - pilotagevoiepro
-startups:
-  - pilotagevoiepro
 previously:
   - exposition-ij
 competences:

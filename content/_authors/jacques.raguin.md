@@ -9,6 +9,4 @@ missions:
     status: service
     startups:
       - homologation
-startups:
-  - homologation
 ---

@@ -11,8 +11,6 @@ missions:
     employer: Le Collectif
     startups:
       - api-engagement
-startups:
-  - api-engagement
 memberType: beta
 ---
 Tech, food and punk-rock

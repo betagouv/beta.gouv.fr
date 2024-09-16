@@ -10,7 +10,4 @@ missions:
     startups:
       - encyclopedie-des-metiers
       - mobiville
-startups:
-  - encyclopedie-des-metiers
-  - mobiville
 ---

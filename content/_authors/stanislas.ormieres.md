@@ -11,8 +11,5 @@ missions:
     startups:
       - candilib
       - psij
-startups:
-  - candilib
-  - psij
 ---
 Développeur Fullstack depuis 2005, JavaScript-only depuis 2013, Freelance depuis 2016. Vue.js advocate. Acrobate et cinéphage.

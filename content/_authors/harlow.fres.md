@@ -10,7 +10,5 @@ missions:
     employer: octo
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 ---
 Développeur agile mais solide

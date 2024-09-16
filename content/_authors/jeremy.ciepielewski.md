@@ -12,9 +12,6 @@ missions:
     startups:
       - la-bonne-alternance
       - tdb-apprentissage
-startups:
-  - la-bonne-alternance
-  - tdb-apprentissage
 badges:
   - segur
 competences:

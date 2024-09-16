@@ -11,8 +11,6 @@ missions:
     employer: Little Big Connection
     startups:
       - bat-id
-startups:
-  - bat-id
 badges:
   - segur
 previously:

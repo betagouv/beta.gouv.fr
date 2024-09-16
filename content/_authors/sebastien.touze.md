@@ -10,7 +10,5 @@ missions:
     employer: Minitère de la Mer
     startups:
       - rapportnav
-startups:
-  - rapportnav
 ---
 Ex-EIG développeur.

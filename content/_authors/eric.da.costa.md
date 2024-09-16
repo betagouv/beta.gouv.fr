@@ -9,8 +9,6 @@ missions:
     employer: Opteamis
     startups:
       - reva
-startups:
-  - reva
 memberType: beta
 link: https://www.linkedin.com/in/eric-da-costa-5702b1236/
 ---

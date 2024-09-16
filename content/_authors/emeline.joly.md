@@ -9,8 +9,6 @@ missions:
     status: admin
     startups:
       - territoires-en-transitions
-startups:
-  - territoires-en-transitions
 link: https://www.linkedin.com/in/emeline-joly-162453170/
 competences: []
 ---

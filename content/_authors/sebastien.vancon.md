@@ -9,8 +9,6 @@ missions:
     employer: DGFIP
     startups:
       - candela
-startups:
-  - candela
 competences:
   - Administration Publique
 ---

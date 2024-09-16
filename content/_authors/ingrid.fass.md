@@ -9,7 +9,5 @@ missions:
     employer: Département du Var
     startups:
       - centre-departemental-enfance
-startups:
-  - centre-departemental-enfance
 previously: []
 ---

@@ -9,8 +9,6 @@ missions:
     employer: ANCT
     startups:
       - monstage
-startups:
-  - monstage
 badges:
   - segur
 ---

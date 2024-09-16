@@ -10,8 +10,6 @@ missions:
     employer: telescoop
     startups:
       - mon-diagnostic-artificialisation
-startups:
-  - mon-diagnostic-artificialisation
 memberType: beta
 competences:
   - Administration Système

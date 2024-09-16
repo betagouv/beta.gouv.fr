@@ -9,8 +9,6 @@ missions:
     employer: dinum
     startups:
       - mps
-startups:
-  - mps
 previously:
   - mon-entreprise
 ---

@@ -11,8 +11,6 @@ missions:
       - agora
 previously:
   - qualicharge
-startups:
-  - agora
 memberType: beta
 ---
 Data Engineer pour le projet Agora

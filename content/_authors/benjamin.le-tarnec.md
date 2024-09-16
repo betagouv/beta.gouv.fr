@@ -9,8 +9,6 @@ missions:
     employer: Ground
     startups:
       - cas.par.4
-startups:
-  - cas.par.4
 badges:
   - segur
 competences:

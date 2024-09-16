@@ -11,8 +11,6 @@ missions:
     startups:
       - resorption-bidonvilles
 incubator: mtes
-startups:
-  - resorption-bidonvilles
 competences:
   - Administration Système
   - Développement Backend

@@ -9,6 +9,4 @@ missions:
     employer: AD-HOC Lab
     startups:
       - eva
-startups:
-  - eva
 ---

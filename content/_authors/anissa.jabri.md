@@ -9,6 +9,4 @@ missions:
     startups:
       - jafer
 memberType: autre
-startups:
-  - jafer
 ---

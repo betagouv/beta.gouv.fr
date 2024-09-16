@@ -9,8 +9,6 @@ missions:
     employer: MENJ-DNE
     startups:
       - compte.ressources
-startups:
-  - compte.ressources
 memberType: beta
 ---
 intrapreneuse compte ressources

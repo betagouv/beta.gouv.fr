@@ -11,10 +11,6 @@ missions:
       - collectif_objets
       - euphrosyne
       - locadocs
-startups:
-  - euphrosyne
-  - locadocs
-  - collectif_objets
 competences:
   - UX
   - UI

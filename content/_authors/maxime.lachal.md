@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - poe.facilite
-startups:
-  - poe.facilite
 memberType: beta
 ---

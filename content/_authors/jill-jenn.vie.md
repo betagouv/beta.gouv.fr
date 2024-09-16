@@ -10,7 +10,5 @@ missions:
     employer: education-nationale
     startups:
       - pix
-startups:
-  - pix
 ---
 C'est moi qui pose les questions, OK ?

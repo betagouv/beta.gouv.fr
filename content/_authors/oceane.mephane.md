@@ -8,6 +8,4 @@ missions:
     status: service
     startups:
       - snu
-startups:
-  - snu
 ---

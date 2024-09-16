@@ -11,9 +11,6 @@ missions:
     startups:
       - monsuivipsy
       - nata
-startups:
-  - monsuivipsy
-  - nata
 memberType: beta
 ---
 Pharmacien-pharmacologue-chercheur de solutions numériques en santé

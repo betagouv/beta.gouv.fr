@@ -9,8 +9,6 @@ missions:
     employer: octo
     startups:
       - demarches-simplifiees.fr
-startups:
-  - demarches-simplifiees.fr
 previously:
   - eva
 ---

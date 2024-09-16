@@ -10,8 +10,6 @@ missions:
     employer: NUMA
     startups:
       - compte.rendu.vif
-startups:
-  - compte.rendu.vif
 badges:
   - segur
 previously:

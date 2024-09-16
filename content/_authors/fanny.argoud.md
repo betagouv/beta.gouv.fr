@@ -10,8 +10,6 @@ missions:
     employer: Octo
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
 badges:
   - segur
 competences:

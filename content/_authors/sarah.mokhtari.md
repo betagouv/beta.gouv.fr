@@ -9,6 +9,4 @@ missions:
     employer: Ministère des armées
     startups:
       - civils-de-la-defense
-startups:
-  - civils-de-la-defense
 ---

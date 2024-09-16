@@ -11,7 +11,5 @@ missions:
     employer: ut7
     startups:
       - eva
-startups:
-  - eva
 ---
 Développeur "tests addict"

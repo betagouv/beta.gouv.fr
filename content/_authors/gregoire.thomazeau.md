@@ -10,7 +10,5 @@ missions:
     employer: Portalia
     startups:
       - resorption-bidonvilles
-startups:
-  - resorption-bidonvilles
 ---
 développeur full-stack chez résorption-bidonvilles

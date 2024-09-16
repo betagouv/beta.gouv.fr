@@ -11,9 +11,6 @@ missions:
     startups:
       - sante-psy-etudiant
       - zero-logement-vacant
-startups:
-  - zero-logement-vacant
-  - sante-psy-etudiant
 badges:
   - segur
 competences: []

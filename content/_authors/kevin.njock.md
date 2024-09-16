@@ -8,8 +8,6 @@ missions:
     status: independent
     startups:
       - sante-psy-etudiant
-startups:
-  - sante-psy-etudiant
 memberType: beta
 ---
 Ancien consultant, fan de cinema.

@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - cartographie.nationale
-startups:
-  - cartographie.nationale
 memberType: beta
 ---
 Développeuse Full-stack.

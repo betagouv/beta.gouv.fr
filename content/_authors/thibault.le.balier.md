@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - ozensemble
-startups:
-  - ozensemble
 memberType: beta
 ---

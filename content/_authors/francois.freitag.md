@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - les-emplois
-startups:
-  - les-emplois
 previously:
   - carnet.de.bord
   - inclusion.connect

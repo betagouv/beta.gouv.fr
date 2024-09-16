@@ -8,8 +8,6 @@ missions:
     status: independent
     startups:
       - snu
-startups:
-  - snu
 badges:
   - segur
 ---

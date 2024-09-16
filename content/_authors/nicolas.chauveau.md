@@ -11,7 +11,5 @@ missions:
     employer: DJEPVA
     startups:
       - data-subvention
-startups:
-  - data-subvention
 ---
 Designer

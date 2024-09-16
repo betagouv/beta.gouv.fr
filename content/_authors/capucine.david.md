@@ -9,6 +9,4 @@ missions:
     employer: octo
     startups:
       - datagir
-startups:
-  - datagir
 ---

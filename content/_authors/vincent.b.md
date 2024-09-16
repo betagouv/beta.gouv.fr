@@ -11,8 +11,4 @@ missions:
       - api-entreprise
       - data.gouv.fr
       - le-taxi
-startups:
-  - data.gouv.fr
-  - le-taxi
-  - api-entreprise
 ---

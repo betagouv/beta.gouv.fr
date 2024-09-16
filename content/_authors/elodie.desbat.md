@@ -9,8 +9,6 @@ missions:
     employer: Liberte Living-Lab
     startups:
       - inca
-startups:
-  - inca
 badges:
   - segur
 ---

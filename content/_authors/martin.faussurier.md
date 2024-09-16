@@ -9,8 +9,6 @@ missions:
     employer: Ministère de l'éducation, de l'engagement et de la jeunesse
     startups:
       - snu
-startups:
-  - snu
 badges:
   - segur
 ---

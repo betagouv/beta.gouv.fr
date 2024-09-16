@@ -10,6 +10,4 @@ missions:
     employer: Codeur en liberté
     startups:
       - mon-suivi-justice
-startups:
-  - mon-suivi-justice
 ---

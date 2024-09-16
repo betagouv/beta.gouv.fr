@@ -10,8 +10,6 @@ missions:
     startups:
       - collectif_objets
 incubator: culture
-startups:
-  - collectif_objets
 competences:
   - Administration Publique
 ---

@@ -11,8 +11,5 @@ missions:
     startups:
       - cyberbudget
       - ie
-startups:
-  - cyberbudget
-  - ie
 ---
 Conseils et expertise

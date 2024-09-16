@@ -10,8 +10,6 @@ missions:
     employer: URSSAF Caisse nationale
     startups:
       - mon-entreprise
-startups:
-  - mon-entreprise
 memberType: autre
 competences: []
 ---

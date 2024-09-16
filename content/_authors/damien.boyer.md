@@ -11,9 +11,6 @@ missions:
     startups:
       - la-bonne-alternance
       - sirius
-startups:
-  - sirius
-  - la-bonne-alternance
 competences:
   - UX
   - UI

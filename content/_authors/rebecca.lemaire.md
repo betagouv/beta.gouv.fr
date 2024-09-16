@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - themis
-startups:
-  - themis
 badges:
   - segur
 ---

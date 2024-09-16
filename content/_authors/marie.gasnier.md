@@ -10,8 +10,6 @@ missions:
     employer: DGS
     startups:
       - recosante
-startups:
-  - recosante
 badges:
   - segur
 competences:

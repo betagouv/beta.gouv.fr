@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - suite-numerique
-startups:
-  - suite-numerique
 previously:
   - aides-territoires
 badges:

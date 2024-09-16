@@ -9,7 +9,5 @@ missions:
     employer: DTNUM
     startups:
       - signaux-faibles
-startups:
-  - signaux-faibles
 ---
 Data scientist

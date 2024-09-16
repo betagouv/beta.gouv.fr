@@ -10,6 +10,4 @@ missions:
     employer: CHD Vendée
     startups:
       - voir-et-localiser
-startups:
-  - voir-et-localiser
 ---

@@ -9,8 +9,6 @@ missions:
     employer: Ippon
     startups:
       - experts
-startups:
-  - experts
 competences:
   - Coaching
 previously:

@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - longuevieauxobjets
-startups:
-  - longuevieauxobjets
 memberType: beta
 ---

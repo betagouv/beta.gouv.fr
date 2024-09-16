@@ -9,8 +9,6 @@ missions:
     employer: Ministère de la Transition écologique
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 badges:
   - segur
 ---

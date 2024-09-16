@@ -9,7 +9,5 @@ missions:
     employer: Département du Var
     startups:
       - plateforme-rsa
-startups:
-  - plateforme-rsa
 previously: []
 ---

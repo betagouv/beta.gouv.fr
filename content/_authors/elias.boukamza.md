@@ -11,6 +11,4 @@ missions:
     employer: OCTO
     startups:
       - fluctuat
-startups:
-  - fluctuat
 ---

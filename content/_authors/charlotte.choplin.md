@@ -11,8 +11,6 @@ missions:
     employer: Octo
     startups:
       - api-entreprise
-startups:
-  - api-entreprise
 badges:
   - segur
 competences:

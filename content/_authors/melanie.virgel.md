@@ -9,8 +9,6 @@ missions:
     employer: LBC
     startups:
       - romin
-startups:
-  - romin
 memberType: beta
 link: https://www.linkedin.com/in/melanie-virgel/
 competences:

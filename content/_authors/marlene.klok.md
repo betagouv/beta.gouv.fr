@@ -8,7 +8,7 @@ missions:
     end: 2025-06-30
     status: service
     employer: Scopopop
-startups:
-  - demarches-simplifiees.fr
+    startups:
+      - demarches-simplifiees.fr
 memberType: beta
 ---

@@ -10,8 +10,6 @@ missions:
     employer: DJEPVA - MIN EDUC
     startups:
       - data-subvention
-startups:
-  - data-subvention
 badges:
   - segur
 ---

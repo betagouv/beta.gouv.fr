@@ -10,7 +10,5 @@ missions:
     employer: octo
     startups:
       - pass-culture
-startups:
-  - pass-culture
 ---
 Précédemment techlead sur FranceConnect Techlead sur Pass Culture

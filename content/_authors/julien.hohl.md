@@ -9,6 +9,4 @@ missions:
     employer: Direction Générale des Entreprises
     startups:
       - conseillers-entreprises
-startups:
-  - conseillers-entreprises
 ---

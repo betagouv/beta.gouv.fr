@@ -12,8 +12,6 @@ missions:
     startups:
       - les-emplois
 memberType: autre
-startups:
-  - les-emplois
 previously:
   - carnet.de.bord
 ---

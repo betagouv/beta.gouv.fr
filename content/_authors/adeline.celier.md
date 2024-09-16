@@ -10,7 +10,5 @@ missions:
     employer: Malt
     startups:
       - monitorfish
-startups:
-  - monitorfish
 ---
 Designer de service pour les merlus et les grondins.

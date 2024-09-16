@@ -10,6 +10,4 @@ missions:
     employer: octo
     startups:
       - pass-culture
-startups:
-  - pass-culture
 ---

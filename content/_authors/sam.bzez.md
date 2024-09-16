@@ -11,8 +11,6 @@ missions:
     employer: DINUM
     startups:
       - histologe
-startups:
-  - histologe
 badges:
   - segur
 competences:

@@ -9,7 +9,5 @@ missions:
     employer: GIP
     startups:
       - rdv.insertion
-startups:
-  - rdv.insertion
 memberType: beta
 ---

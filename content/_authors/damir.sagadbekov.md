@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - sante-psy-etudiant
-startups:
-  - sante-psy-etudiant
 badges:
   - segur
 domaine: Développement

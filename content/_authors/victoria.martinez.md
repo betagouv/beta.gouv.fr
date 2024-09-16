@@ -9,9 +9,6 @@ missions:
     status: admin
     employer: Fabrique des ministères sociaux
     startups:
-      - egalite.professionnelle
       - e-mjpm
-startups:
-  - e-mjpm
-  - egalite.professionnelle
+      - egalite.professionnelle
 ---

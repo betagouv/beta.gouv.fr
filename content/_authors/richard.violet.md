@@ -10,7 +10,5 @@ missions:
     employer: Ministère de l'Intérieur
     startups:
       - histovec
-startups:
-  - histovec
 ---
 Motard dans l’âme et service rendu au public avant tout.

@@ -10,6 +10,4 @@ missions:
     startups:
       - aplus
 github: PMombs
-startups:
-  - aplus
 ---

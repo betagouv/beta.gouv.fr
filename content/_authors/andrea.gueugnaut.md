@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - zero-logement-vacant
-startups:
-  - zero-logement-vacant
 badges:
   - segur
 ---

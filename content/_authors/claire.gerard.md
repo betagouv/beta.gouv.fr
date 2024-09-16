@@ -9,7 +9,5 @@ missions:
     employer: Octo
     startups:
       - reva
-startups:
-  - reva
 ---
 UX/UI/designer

@@ -9,7 +9,5 @@ missions:
     employer: DGALN
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 ---
 Etudiant à l'Ecole polytechnique en stage pour 3 mois chez DossierFacile

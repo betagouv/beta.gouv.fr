@@ -9,7 +9,5 @@ missions:
     employer: Ministère de la culture
     startups:
       - pop
-startups:
-  - pop
 memberType: beta
 ---

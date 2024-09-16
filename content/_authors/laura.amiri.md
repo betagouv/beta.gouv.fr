@@ -8,10 +8,9 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - maison.de.lautisme
       - territoires-en-transitions
 badges:
   - segur
-startups:
-  - maison.de.lautisme
 competences: []
 ---

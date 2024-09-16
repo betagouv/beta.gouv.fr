@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - les-emplois
-startups:
-  - les-emplois
 ---

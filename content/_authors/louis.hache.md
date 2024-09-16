@@ -10,7 +10,5 @@ missions:
     employer: DINUM
     startups:
       - rapportnav
-startups:
-  - rapportnav
 memberType: beta
 ---

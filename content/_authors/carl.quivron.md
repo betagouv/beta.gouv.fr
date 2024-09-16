@@ -10,6 +10,4 @@ missions:
     employer: Octo
     startups:
       - rdv-service-public
-startups:
-  - rdv-service-public
 ---

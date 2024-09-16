@@ -9,6 +9,4 @@ missions:
     employer: minint
     startups:
       - jesaisfaire
-startups:
-  - jesaisfaire
 ---

@@ -10,6 +10,4 @@ missions:
     employer: Agence Bio
     startups:
       - cartobio
-startups:
-  - cartobio
 ---

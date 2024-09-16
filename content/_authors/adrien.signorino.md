@@ -11,10 +11,6 @@ missions:
       - osirispn
       - sepia
 incubator: fabnumdef
-startups:
-  - sepia
-  - osirispn
-  - anais
 competences:
   - Développement Backend
 ---

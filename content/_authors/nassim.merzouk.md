@@ -11,8 +11,6 @@ missions:
     startups:
       - api-engagement
       - jeveuxaider
-startups:
-  - api-engagement
 previously:
   - jeveuxaider
 link: https://www.linkedin.com/in/merzouknassim/

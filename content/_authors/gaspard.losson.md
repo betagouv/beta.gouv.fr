@@ -9,7 +9,5 @@ missions:
     employer: Ministère de la justice
     startups:
       - infoparquet
-startups:
-  - infoparquet
 ---
 Magistrat, TJ Amiens

@@ -9,7 +9,5 @@ missions:
     employer: Octo
     startups:
       - monprojetsup
-startups:
-  - monprojetsup
 memberType: autre
 ---

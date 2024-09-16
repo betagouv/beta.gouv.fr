@@ -10,8 +10,6 @@ missions:
     employer: Octo
     startups:
       - carte-verte
-startups:
-  - carte-verte
 badges:
   - segur
 previously:

@@ -10,8 +10,6 @@ missions:
     employer: Ademe
     startups:
       - plusfraichemaville
-startups:
-  - plusfraichemaville
 memberType: beta
 ---
 Designer de service, UX UI, illustratrice

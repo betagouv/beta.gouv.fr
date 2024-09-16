@@ -10,9 +10,6 @@ missions:
     startups:
       - competence.validee
       - encyclopedie-des-metiers
-startups:
-  - encyclopedie-des-metiers
-  - competence.validee
 competences:
   - Développement Backend
   - Développement Frontend

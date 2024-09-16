@@ -10,8 +10,6 @@ missions:
     employer: Pôle Emploi
     startups:
       - competence.validee
-startups:
-  - competence.validee
 competences:
   - Gestion de Produit
 ---

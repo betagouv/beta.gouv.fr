@@ -10,7 +10,5 @@ missions:
     employer: Scopyleft
     startups:
       - histologe
-startups:
-  - histologe
 memberType: beta
 ---

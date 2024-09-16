@@ -10,8 +10,6 @@ missions:
     employer: BeNext
     startups:
       - domifa
-startups:
-  - domifa
 badges:
   - segur
 ---

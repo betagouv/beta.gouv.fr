@@ -9,6 +9,4 @@ missions:
     employer: Ministère des Solidarités et de la Santé
     startups:
       - medle
-startups:
-  - medle
 ---

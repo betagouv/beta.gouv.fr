@@ -9,8 +9,6 @@ missions:
     employer: Scopyleft
     startups:
       - stop-punaises
-startups:
-  - stop-punaises
 memberType: beta
 ---
 Chargé de déploiement, découvre les startups d'Etat

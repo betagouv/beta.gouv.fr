@@ -10,7 +10,5 @@ missions:
     employer: Scopopop
     startups:
       - le-taxi
-startups:
-  - le-taxi
 competences: []
 ---

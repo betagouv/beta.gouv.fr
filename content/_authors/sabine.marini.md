@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - apilos
-startups:
-  - apilos
 competences:
   - Administration Publique
 ---

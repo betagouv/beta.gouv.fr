@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - datapass
-startups:
-  - datapass
 badges:
   - segur
 ---

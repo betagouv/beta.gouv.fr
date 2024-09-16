@@ -10,9 +10,6 @@ missions:
     startups:
       - cartographie.nationale
       - france-numerique-ensemble
-startups:
-  - france-numerique-ensemble
-  - cartographie.nationale
 badges:
   - segur
 competences:

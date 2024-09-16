@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - oots.once-only.technical.system
-startups:
-  - oots.once-only.technical.system
 competences:
   - UX
 previously:

@@ -10,9 +10,6 @@ missions:
     startups:
       - exposition-ij
       - investigation-ij
-startups:
-  - exposition-ij
-  - investigation-ij
 memberType: beta
 ---
 PO le jour, bénévole la nuit.

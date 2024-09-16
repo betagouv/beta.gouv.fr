@@ -9,7 +9,5 @@ missions:
     employer: Ministère de la Culture
     startups:
       - eac
-startups:
-  - eac
 ---
 Chef de produit sur la plateforme pour l'éducation artistique et culturelle.

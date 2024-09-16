@@ -18,7 +18,5 @@ competences:
   - Coaching
   - Communication
 memberType: autre
-startups:
-  - lannuaire.des.collectivites
 ---
 Product Manager basé à Bordeaux

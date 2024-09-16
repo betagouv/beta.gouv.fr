@@ -9,7 +9,5 @@ missions:
     startups:
       - estime.formation
 memberType: beta
-startups:
-  - estime.formation
 ---
 Ux Researcher / Ux Designer

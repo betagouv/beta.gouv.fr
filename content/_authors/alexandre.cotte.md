@@ -10,8 +10,6 @@ missions:
     employer: Numa
     startups:
       - territoires-en-transitions
-startups:
-  - territoires-en-transitions
 memberType: beta
 ---
 Product manager, cycliste amateur et réparateur vélo

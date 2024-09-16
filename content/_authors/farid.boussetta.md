@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - delta.v
-startups:
-  - delta.v
 memberType: beta
 ---
 Développeur la nuit, sportif le jour

@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - snu
-startups:
-  - snu
 memberType: beta
 ---
 Growth marketer

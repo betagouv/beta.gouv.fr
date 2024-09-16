@@ -11,8 +11,4 @@ missions:
       - les-emplois
       - pilotage.de.linclusion
       - place-de-marche-inclusion
-startups:
-  - les-emplois
-  - place-de-marche-inclusion
-  - pilotage.de.linclusion
 ---

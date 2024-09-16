@@ -10,6 +10,4 @@ missions:
     employer: Codeurs en Liberté
     startups:
       - preuve-de-covoiturage
-startups:
-  - preuve-de-covoiturage
 ---

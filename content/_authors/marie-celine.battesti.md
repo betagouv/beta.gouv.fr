@@ -8,8 +8,6 @@ missions:
     status: independent
     startups:
       - oilhi
-startups:
-  - oilhi
 memberType: beta
 link: https://www.linkedin.com/in/mariecelinebattesti
 ---

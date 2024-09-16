@@ -10,8 +10,6 @@ missions:
     employer: OCTO
     startups:
       - dora
-startups:
-  - dora
 competences:
   - Administration Publique
 ---

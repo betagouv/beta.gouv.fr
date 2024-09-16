@@ -12,8 +12,6 @@ missions:
     employer: Scopyleft
     startups:
       - sndv_maritime
-startups:
-  - sndv_maritime
 previously:
   - e-controle
   - aides-territoires

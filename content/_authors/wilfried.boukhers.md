@@ -9,6 +9,4 @@ missions:
     employer: Ministère des armées
     startups:
       - les-alpps
-startups:
-  - les-alpps
 ---

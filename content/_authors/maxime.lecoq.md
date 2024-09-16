@@ -10,9 +10,6 @@ missions:
     startups:
       - 1000.premiers.jours.blues
       - carte-verte
-startups:
-  - 1000.premiers.jours.blues
-  - carte-verte
 previously:
   - tumeplay
   - 1000.jours

@@ -9,7 +9,5 @@ missions:
     employer: pôle emploi
     startups:
       - l-immersion-facile
-startups:
-  - l-immersion-facile
 memberType: beta
 ---

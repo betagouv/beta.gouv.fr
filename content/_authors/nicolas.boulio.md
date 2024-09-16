@@ -10,8 +10,5 @@ missions:
     startups:
       - candilib
       - psij
-startups:
-  - candilib
-  - psij
 ---
 Coach startup à l'incubateur du LabMI

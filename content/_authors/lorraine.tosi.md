@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - sante-psy-etudiant
-startups:
-  - sante-psy-etudiant
 memberType: autre
 competences:
   - Product design

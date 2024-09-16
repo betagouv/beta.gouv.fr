@@ -10,8 +10,6 @@ missions:
     startups:
       - aigle
 memberType: autre
-startups:
-  - aigle
 link: https://www.linkedin.com/in/magali-migeon-740265aa/
 competences:
   - Communication

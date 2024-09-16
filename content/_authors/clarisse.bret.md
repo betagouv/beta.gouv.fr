@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - mobilic
-startups:
-  - mobilic
 memberType: beta
 ---

@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - homologation
-startups:
-  - homologation
 memberType: beta
 ---
 UXUI GRAPHIC WEB DESIGNER

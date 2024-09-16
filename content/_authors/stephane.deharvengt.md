@@ -10,8 +10,6 @@ missions:
     employer: ANSSI
     startups:
       - nis2
-startups:
-  - nis2
 memberType: autre
 ---
 Un aviateur dans le cyberespace

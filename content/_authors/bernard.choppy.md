@@ -9,6 +9,4 @@ missions:
     employer: minint
     startups:
       - fedel
-startups:
-  - fedel
 ---

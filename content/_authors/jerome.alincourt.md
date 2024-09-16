@@ -10,7 +10,5 @@ missions:
     employer: Shodo
     startups:
       - anais
-startups:
-  - anais
 memberType: autre
 ---

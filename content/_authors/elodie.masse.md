@@ -10,8 +10,6 @@ missions:
     employer: DB
     startups:
       - cyberbudget
-startups:
-  - cyberbudget
 competences:
   - Administration Publique
 ---

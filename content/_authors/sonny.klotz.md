@@ -10,7 +10,5 @@ missions:
     employer: Octo
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 ---
 The only way to go fast is to go well.

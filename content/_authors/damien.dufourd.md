@@ -20,19 +20,6 @@ missions:
       - sirius
       - tdb-apprentissage
       - themis
-startups:
-  - diagoriente
-  - histologe
-  - dora
-  - exposition-ij
-  - la-bonne-alternance
-  - nis2
-  - homologation
-  - tdb-apprentissage
-  - data-inclusion
-  - sirius
-  - pilotagevoiepro
-  - themis
 previously:
   - cmachance
 badges:

@@ -10,6 +10,4 @@ missions:
     employer: Octo
     startups:
       - reva
-startups:
-  - reva
 ---

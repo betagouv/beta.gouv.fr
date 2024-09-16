@@ -10,7 +10,5 @@ missions:
     employer: Google (mécénat de compétences)
     startups:
       - l-immersion-facile
-startups:
-  - l-immersion-facile
 ---
 Ingénieur commercial spécialisé dans la donnée

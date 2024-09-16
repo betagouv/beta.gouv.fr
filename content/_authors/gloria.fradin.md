@@ -10,7 +10,5 @@ missions:
     employer: Octo
     startups:
       - les-emplois
-startups:
-  - les-emplois
 ---
 Freelance Social Media basée à Toulouse !

@@ -10,8 +10,6 @@ missions:
     employer: UT7
     startups:
       - pop
-startups:
-  - pop
 previously:
   - euphrosyne
 ---

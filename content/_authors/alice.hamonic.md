@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - pilotage.de.linclusion
-startups:
-  - pilotage.de.linclusion
 memberType: beta
 ---

@@ -10,8 +10,6 @@ missions:
     employer: Incubateur des territoires
     startups:
       - mon.espace.collectivite
-startups:
-  - mon.espace.collectivite
 memberType: beta
 github: sdsgh
 ---

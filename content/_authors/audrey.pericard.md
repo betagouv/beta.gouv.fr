@@ -10,7 +10,5 @@ missions:
     employer: La Zone
     startups:
       - nosgestesclimat
-startups:
-  - nosgestesclimat
 memberType: beta
 ---

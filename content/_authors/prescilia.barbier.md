@@ -11,9 +11,6 @@ missions:
       - la-bonne-boite
       - mobiville
 incubator: francetravail
-startups:
-  - mobiville
-  - la-bonne-boite
 competences:
   - Communication
   - Gestion de Produit

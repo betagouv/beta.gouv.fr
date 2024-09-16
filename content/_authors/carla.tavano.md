@@ -8,6 +8,4 @@ missions:
     status: admin
     startups:
       - ellesfontlaculture
-startups:
-  - ellesfontlaculture
 ---

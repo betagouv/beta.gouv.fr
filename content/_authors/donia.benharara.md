@@ -12,6 +12,4 @@ missions:
     startups:
       - sante-psy-etudiant
 memberType: autre
-startups:
-  - sante-psy-etudiant
 ---

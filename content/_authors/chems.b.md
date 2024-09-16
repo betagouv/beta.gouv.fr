@@ -9,7 +9,5 @@ missions:
     employer: Malt
     startups:
       - place-de-marche-inclusion
-startups:
-  - place-de-marche-inclusion
 memberType: beta
 ---

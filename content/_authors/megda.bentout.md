@@ -11,8 +11,6 @@ missions:
     employer: Plateforme de l'inclusion
     startups:
       - dora
-startups:
-  - dora
 memberType: beta
 ---
 Chargée de déploiement

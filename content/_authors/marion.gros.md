@@ -11,8 +11,6 @@ missions:
     employer: OCTO
     startups:
       - les-emplois
-startups:
-  - les-emplois
 badges:
   - segur
 competences:

@@ -9,7 +9,5 @@ missions:
     employer: Pôle emploi
     startups:
       - poe.facilite
-startups:
-  - poe.facilite
 memberType: autre
 ---

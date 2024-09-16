@@ -11,7 +11,5 @@ missions:
     employer: Malt
     startups:
       - l-immersion-facile
-startups:
-  - l-immersion-facile
 ---
 Développeur TS Fullstack. ATDD / Architecture Hexagonale

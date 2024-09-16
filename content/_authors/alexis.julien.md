@@ -11,7 +11,5 @@ missions:
     employer: octo
     startups:
       - pass-culture
-startups:
-  - pass-culture
 ---
 Écrit des autobiographies percutantes en moins de 140 caractères depuis 1987.

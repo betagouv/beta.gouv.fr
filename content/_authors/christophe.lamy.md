@@ -10,9 +10,6 @@ missions:
     startups:
       - api-engagement
       - jeveuxaider
-startups:
-  - jeveuxaider
-  - api-engagement
 badges:
   - segur
 ---

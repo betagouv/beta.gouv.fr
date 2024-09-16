@@ -9,8 +9,6 @@ missions:
     employer: Scopopop
     startups:
       - aplus
-startups:
-  - aplus
 memberType: beta
 ---
 UX designer

@@ -9,8 +9,6 @@ missions:
     employer: Association Aurore
     startups:
       - mano
-startups:
-  - mano
 badges:
   - segur
 ---

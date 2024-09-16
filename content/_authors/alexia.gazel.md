@@ -11,9 +11,6 @@ missions:
     startups:
       - aides-territoires
       - deveco
-startups:
-  - aides-territoires
-  - deveco
 competences:
   - Communication
 ---

@@ -10,7 +10,5 @@ missions:
     employer: Jump Green
     startups:
       - tacct
-startups:
-  - tacct
 memberType: autre
 ---

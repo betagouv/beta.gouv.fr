@@ -9,6 +9,4 @@ missions:
     employer: minarm
     startups:
       - anais
-startups:
-  - anais
 ---

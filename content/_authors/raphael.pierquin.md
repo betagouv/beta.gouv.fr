@@ -15,10 +15,6 @@ missions:
       - grist.numerique.gouv.fr
       - l-application-du-cej
       - l-immersion-facile
-startups:
-  - l-immersion-facile
-  - données-et-territoires
-  - l-application-du-cej
 previously:
   - zam
   - maraudes

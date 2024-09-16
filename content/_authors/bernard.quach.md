@@ -11,9 +11,6 @@ missions:
     startups:
       - le-taxi
       - mesads
-startups:
-  - mesads
-  - le-taxi
 badges:
   - segur
 ---

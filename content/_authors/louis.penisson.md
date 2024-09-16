@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - data-subvention
-startups:
-  - data-subvention
 badges:
   - segur
 ---

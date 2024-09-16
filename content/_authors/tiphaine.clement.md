@@ -8,6 +8,4 @@ missions:
     status: admin
     startups:
       - protege-toit
-startups:
-  - protege-toit
 ---

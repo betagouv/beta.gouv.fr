@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - potentiel
-startups:
-  - potentiel
 memberType: autre
 ---

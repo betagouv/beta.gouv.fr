@@ -11,9 +11,6 @@ missions:
     startups:
       - fonds.de.plans
       - infrastructures.numeriques
-startups:
-  - infrastructures.numeriques
-  - fonds.de.plans
 badges:
   - segur
 competences:

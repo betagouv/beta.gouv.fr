@@ -9,6 +9,4 @@ missions:
     employer: minint
     startups:
       - covoit-scelles
-startups:
-  - covoit-scelles
 ---

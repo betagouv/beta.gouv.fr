@@ -9,8 +9,6 @@ missions:
     employer: ut7
     startups:
       - pilotagevoiepro
-startups:
-  - pilotagevoiepro
 memberType: beta
 link: https://www.linkedin.com/in/oriana-berthomieu/
 competences:

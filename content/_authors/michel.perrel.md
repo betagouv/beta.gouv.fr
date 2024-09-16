@@ -10,7 +10,5 @@ missions:
     employer: MTES/DREAL PACA
     startups:
       - assec
-startups:
-  - assec
 ---
 Veux aider le monde agricole à s'adapter aux épisodes de sécheresse.

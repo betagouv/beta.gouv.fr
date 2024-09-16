@@ -9,6 +9,4 @@ missions:
     employer: Inspection Générale de la Justice - Ministère de la Justice
     startups:
       - a-just
-startups:
-  - a-just
 ---

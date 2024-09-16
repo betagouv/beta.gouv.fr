@@ -12,8 +12,6 @@ missions:
     startups:
       - moncomptepro
       - suite-numerique
-startups:
-  - suite-numerique
 memberType: dinum
 competences:
   - Développement Frontend

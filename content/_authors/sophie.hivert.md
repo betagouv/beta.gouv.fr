@@ -9,7 +9,5 @@ missions:
     status: service
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
 ---
 Chargée de déploiement au top auprès de la Réserve Civique !

@@ -8,7 +8,5 @@ missions:
     employer: GIP de l'Inclusion
     startups:
       - les-emplois
-startups:
-  - les-emplois
 domaine: Déploiement
 ---

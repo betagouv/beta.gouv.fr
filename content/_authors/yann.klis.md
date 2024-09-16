@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - civils-de-la-defense
-startups:
-  - civils-de-la-defense
 ---

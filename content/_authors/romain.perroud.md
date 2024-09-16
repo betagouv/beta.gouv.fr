@@ -15,13 +15,6 @@ missions:
       - metiis
       - sepia
       - stargate
-startups:
-  - e-chauffeur
-  - anais
-  - sepia
-  - metiis
-  - stargate
-  - cassiopee
 previously:
   - les-alpps
 competences:

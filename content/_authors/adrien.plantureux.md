@@ -9,8 +9,6 @@ missions:
     employer: MTE
     startups:
       - envergo
-startups:
-  - envergo
 competences:
   - Administration Publique
 ---

@@ -9,7 +9,5 @@ missions:
     employer: Agglomération de Pau Béarn Pyrénées
     startups:
       - pau-partage
-startups:
-  - pau-partage
 previously: []
 ---

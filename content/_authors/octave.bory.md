@@ -11,8 +11,6 @@ missions:
     employer: NUMA
     startups:
       - portail-rse
-startups:
-  - portail-rse
 previously:
   - acceslibre
   - estime

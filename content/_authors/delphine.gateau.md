@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - tchap
-startups:
-  - tchap
 memberType: beta
 ---
 Biz dev pour Tchap

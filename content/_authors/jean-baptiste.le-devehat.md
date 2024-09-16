@@ -12,8 +12,6 @@ missions:
     employer: Malt
     startups:
       - transition-ecologique-des-entreprises
-startups:
-  - transition-ecologique-des-entreprises
 previously:
   - les-emplois
 ---

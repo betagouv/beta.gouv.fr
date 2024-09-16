@@ -10,8 +10,6 @@ missions:
     employer: MALT
     startups:
       - a-just
-startups:
-  - a-just
 memberType: beta
 link: https://www.linkedin.com/in/redwanezafari/
 competences:

@@ -11,8 +11,6 @@ missions:
     employer: Codeurs en Liberté
     startups:
       - données-et-territoires
-startups:
-  - données-et-territoires
 previously:
   - le-taxi
   - transport

@@ -9,7 +9,5 @@ missions:
     startups:
       - precontentieux.justice
 memberType: beta
-startups:
-  - precontentieux.justice
 ---
 Intrapreneuse incubateur justice

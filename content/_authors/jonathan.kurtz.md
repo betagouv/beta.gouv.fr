@@ -11,7 +11,4 @@ missions:
     startups:
       - aides-territoires
       - preuve-de-covoiturage
-startups:
-  - preuve-de-covoiturage
-  - aides-territoires
 ---

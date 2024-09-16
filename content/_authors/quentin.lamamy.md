@@ -9,6 +9,4 @@ missions:
     employer: CMA Hauts-de-France
     startups:
       - cmachance
-startups:
-  - cmachance
 ---

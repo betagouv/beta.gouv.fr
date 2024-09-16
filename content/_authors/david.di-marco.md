@@ -9,6 +9,4 @@ missions:
     employer: Institut national de l'information géographique et forestière
     startups:
       - ban
-startups:
-  - ban
 ---

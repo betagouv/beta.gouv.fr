@@ -9,8 +9,6 @@ missions:
     employer: DINUM
     startups:
       - tchap
-startups:
-  - tchap
 memberType: beta
 ---
 Chargé de déploiement

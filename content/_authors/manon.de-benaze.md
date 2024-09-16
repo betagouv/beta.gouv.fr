@@ -9,7 +9,4 @@ missions:
     startups:
       - les-emplois
       - place-de-marche-inclusion
-startups:
-  - les-emplois
-  - place-de-marche-inclusion
 ---

@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - ma-cantine-egalim
-startups:
-  - ma-cantine-egalim
 ---
 Apporte des nutriments nécessaires à la plateforme ma-cantine - travaille au Bureau de l'Alimentation du ministère

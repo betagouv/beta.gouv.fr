@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - bureaux.vacants
-startups:
-  - bureaux.vacants
 previously:
   - zero-logement-vacant
 ---

@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - preuve-de-covoiturage
-startups:
-  - preuve-de-covoiturage
 previously:
   - le-taxi
   - mesads

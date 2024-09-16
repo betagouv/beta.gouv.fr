@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - données-et-territoires
-startups:
-  - données-et-territoires
 badges:
   - segur
 ---

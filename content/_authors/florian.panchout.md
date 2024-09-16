@@ -10,8 +10,6 @@ missions:
     employer: ADEME
     startups:
       - nosgestesclimat
-startups:
-  - nosgestesclimat
 badges:
   - segur
 ---

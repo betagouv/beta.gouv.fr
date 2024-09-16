@@ -10,8 +10,6 @@ missions:
     employer: NUMA
     startups:
       - sirius
-startups:
-  - sirius
 badges:
   - segur
 competences:

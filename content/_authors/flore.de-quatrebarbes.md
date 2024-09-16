@@ -9,6 +9,4 @@ missions:
     employer: SNDV
     startups:
       - sndv_maritime
-startups:
-  - sndv_maritime
 ---

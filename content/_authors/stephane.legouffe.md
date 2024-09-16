@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - lannuaire.des.collectivites
-startups:
-  - lannuaire.des.collectivites
 competences:
   - Développement Backend
   - Développement Frontend

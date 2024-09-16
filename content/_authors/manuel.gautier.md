@@ -9,7 +9,5 @@ missions:
     employer: région Bretagne
     startups:
       - mes-aides.bretagne.bzh
-startups:
-  - mes-aides.bretagne.bzh
 previously: []
 ---

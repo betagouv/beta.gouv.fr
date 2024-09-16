@@ -13,9 +13,6 @@ missions:
       - agents.en.intervention
       - espace.sur.demande
 memberType: beta
-startups:
-  - espace.sur.demande
-  - agents.en.intervention
 previously:
   - mon.espace.collectivite
 competences:

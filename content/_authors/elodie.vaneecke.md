@@ -9,6 +9,4 @@ missions:
     employer: Département du Pas-de-Calais
     startups:
       - rdv-service-public
-startups:
-  - rdv-service-public
 ---

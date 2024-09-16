@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - monitorfish
-startups:
-  - monitorfish
 competences:
   - Développement Full-stack
   - JavaScript/TypeScript

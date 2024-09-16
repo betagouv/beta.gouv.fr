@@ -10,6 +10,4 @@ missions:
     employer: DINUM
     startups:
       - data.gouv.fr
-startups:
-  - data.gouv.fr
 ---

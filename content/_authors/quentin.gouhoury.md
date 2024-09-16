@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - vues-immersives-libres
-startups:
-  - vues-immersives-libres
 memberType: beta
 ---

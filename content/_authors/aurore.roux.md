@@ -9,7 +9,5 @@ missions:
     employer: Ademe
     startups:
       - la.bonne.renov
-startups:
-  - la.bonne.renov
 memberType: beta
 ---

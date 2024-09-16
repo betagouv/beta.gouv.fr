@@ -9,6 +9,4 @@ missions:
     startups:
       - urgencevie
 github: Fredericdol
-startups:
-  - urgencevie
 ---

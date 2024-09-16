@@ -11,8 +11,6 @@ missions:
     employer: AD-HOC Lab
     startups:
       - diagoriente
-startups:
-  - diagoriente
 previously:
   - eva
   - diagoriente

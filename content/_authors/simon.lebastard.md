@@ -10,7 +10,5 @@ missions:
     employer: DGE
     startups:
       - signaux-faibles
-startups:
-  - signaux-faibles
 ---
 Data scientist @Signaux Faibles

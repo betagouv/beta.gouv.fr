@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - trackdechets
-startups:
-  - trackdechets
 competences:
   - Développement Backend
 ---

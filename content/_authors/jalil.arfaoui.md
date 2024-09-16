@@ -11,8 +11,6 @@ missions:
     employer: INOPS
     startups:
       - mon-entreprise
-startups:
-  - mon-entreprise
 memberType: beta
 competences:
   - Développement Backend

@@ -10,7 +10,5 @@ missions:
     employer: Shom
     startups:
       - sppnaut
-startups:
-  - sppnaut
 ---
 Ingénieur hydrographe au Shom

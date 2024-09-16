@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - mon-suivi-social
-startups:
-  - mon-suivi-social
 previously:
   - dossierfacile
 ---

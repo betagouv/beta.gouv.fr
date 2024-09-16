@@ -10,8 +10,6 @@ missions:
     employer: Communauté d'Agglomération Pau Béarn Pyrénées
     startups:
       - au-compost-mitoyen
-startups:
-  - au-compost-mitoyen
 competences:
   - Administration Publique
 ---

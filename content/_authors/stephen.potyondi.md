@@ -10,8 +10,6 @@ missions:
     startups:
       - l-application-du-cej
 memberType: beta
-startups:
-  - l-application-du-cej
 previously:
   - l-application-du-cej
 ---

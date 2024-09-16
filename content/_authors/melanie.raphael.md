@@ -12,8 +12,6 @@ missions:
     employer: Solstice
     startups:
       - tdb-apprentissage
-startups:
-  - tdb-apprentissage
 badges:
   - segur
 ---

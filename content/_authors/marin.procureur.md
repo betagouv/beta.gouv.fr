@@ -11,7 +11,5 @@ missions:
     employer: UT7
     startups:
       - pilotagevoiepro
-startups:
-  - pilotagevoiepro
 memberType: beta
 ---

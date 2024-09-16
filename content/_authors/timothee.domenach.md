@@ -9,8 +9,6 @@ missions:
     employer: Malt
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
 badges:
   - segur
 ---

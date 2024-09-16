@@ -9,8 +9,6 @@ missions:
     employer: DINUM
     startups:
       - ma-cantine-egalim
-startups:
-  - ma-cantine-egalim
 memberType: beta
 link: https://www.linkedin.com/in/mathilde-charras-62947748/
 competences:

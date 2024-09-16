@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - je-deviens-etudiant
-startups:
-  - je-deviens-etudiant
 memberType: beta
 ---

@@ -10,8 +10,6 @@ missions:
     employer: La Zone/Scopyleft
     startups:
       - sndv_maritime
-startups:
-  - sndv_maritime
 previously:
   - aides-territoires
 ---

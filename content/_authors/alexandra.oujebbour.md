@@ -9,8 +9,6 @@ missions:
     employer: France Travail
     startups:
       - estime.formation
-startups:
-  - estime.formation
 previously:
   - estime
 link: https://www.linkedin.com/in/alexandra-oujebbour-2799971bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app

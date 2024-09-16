@@ -17,14 +17,6 @@ missions:
       - nata
       - ozensemble
       - recosante
-startups:
-  - ozensemble
-  - monpsy
-  - monsuivipsy
-  - mano
-  - bpco
-  - recosante
-  - nata
 competences:
   - Coaching
 ---

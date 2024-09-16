@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - tdb-apprentissage
-startups:
-  - tdb-apprentissage
 previously:
   - gps-usagers
   - codedutravail

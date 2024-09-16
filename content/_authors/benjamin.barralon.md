@@ -13,11 +13,6 @@ missions:
       - investigation-ij
       - pilotagevoiepro
       - sirius
-startups:
-  - sirius
-  - exposition-ij
-  - investigation-ij
-  - pilotagevoiepro
 teams:
   - /teams/mission-inserjeunes
 badges:

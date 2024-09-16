@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - potentiel
-startups:
-  - potentiel
 memberType: beta
 ---
 TypeScript enthusiast, in ❤️ with Behavior Driven Development & Gitmoji fanboy 😎

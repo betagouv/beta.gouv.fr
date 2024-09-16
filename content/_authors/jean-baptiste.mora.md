@@ -11,7 +11,5 @@ missions:
     employer: Octo
     startups:
       - mrs
-startups:
-  - mrs
 ---
 Développeur web Front et Back / Sys-admin / DevOps à Toulouse.

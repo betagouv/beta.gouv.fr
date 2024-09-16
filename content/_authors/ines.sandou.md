@@ -9,8 +9,6 @@ missions:
     employer: Octo technology
     startups:
       - snu
-startups:
-  - snu
 memberType: beta
 ---
 ✨

@@ -11,7 +11,4 @@ missions:
     startups:
       - acceslibre
       - partaj
-startups:
-  - acceslibre
-  - partaj
 ---

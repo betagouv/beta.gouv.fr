@@ -11,8 +11,6 @@ missions:
     employer: DINUM
     startups:
       - oscars
-startups:
-  - oscars
 memberType: beta
 ---
 Fullstack Developer Freelance - OSCARS

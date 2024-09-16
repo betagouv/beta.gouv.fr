@@ -9,8 +9,6 @@ missions:
     employer: Malt
     startups:
       - envergo
-startups:
-  - envergo
 memberType: beta
 ---
 Chargée d'études

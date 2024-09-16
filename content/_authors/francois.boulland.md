@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - docurba
-startups:
-  - docurba
 memberType: autre
 ---
 géographe-urbaniste

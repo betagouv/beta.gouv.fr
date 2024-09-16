@@ -9,6 +9,4 @@ missions:
     employer: Pôle Emploi
     startups:
       - estime.formation
-startups:
-  - estime.formation
 ---

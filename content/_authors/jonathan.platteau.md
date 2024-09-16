@@ -15,6 +15,4 @@ competences:
   - Développement Backend
 memberType: beta
 role: Développeur Full-Stack
-startups:
-  - espace.sur.demande
 ---

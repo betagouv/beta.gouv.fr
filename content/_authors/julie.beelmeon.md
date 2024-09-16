@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - potentiel
-startups:
-  - potentiel
 memberType: beta
 ---
 Adjointe en charge du photovoltaïque Bureau de la production électrique et des énergies renouvelables

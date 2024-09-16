@@ -10,8 +10,6 @@ missions:
     employer: Inop's
     startups:
       - estime.formation
-startups:
-  - estime.formation
 previously:
   - estime
 badges:

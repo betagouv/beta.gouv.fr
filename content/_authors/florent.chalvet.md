@@ -9,6 +9,4 @@ missions:
     employer: MTES
     startups:
       - camino
-startups:
-  - camino
 ---

@@ -9,7 +9,5 @@ missions:
     employer: Mission interministérielle apprentissage
     startups:
       - tdb-apprentissage
-startups:
-  - tdb-apprentissage
 memberType: beta
 ---

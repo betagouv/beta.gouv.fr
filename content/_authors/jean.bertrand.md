@@ -10,6 +10,4 @@ missions:
     employer: Octo
     startups:
       - civils-de-la-defense
-startups:
-  - civils-de-la-defense
 ---

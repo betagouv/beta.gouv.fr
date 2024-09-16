@@ -9,8 +9,6 @@ missions:
     employer: malt
     startups:
       - envergo
-startups:
-  - envergo
 memberType: autre
 ---
 Chargé de déploiement et d'étude EnvErgo

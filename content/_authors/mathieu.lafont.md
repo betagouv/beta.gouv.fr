@@ -12,9 +12,4 @@ missions:
       - civils-de-la-defense
       - e-chauffeur
       - sepia
-startups:
-  - civils-de-la-defense
-  - e-chauffeur
-  - sepia
-  - anais
 ---

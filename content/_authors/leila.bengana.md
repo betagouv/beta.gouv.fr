@@ -9,8 +9,6 @@ missions:
     employer: Ministère chargée des Sports
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
 badges:
   - segur
 ---

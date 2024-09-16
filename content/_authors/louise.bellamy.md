@@ -9,6 +9,4 @@ missions:
     employer: Tenzing
     startups:
       - reva
-startups:
-  - reva
 ---

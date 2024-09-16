@@ -9,7 +9,5 @@ missions:
     employer: Fabrique numérique MINARM
     startups:
       - stargate
-startups:
-  - stargate
 ---
 Bon vivant et amateur d'expériences culinaires

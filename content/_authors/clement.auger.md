@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - nosgestesclimat
-startups:
-  - nosgestesclimat
 badges:
   - segur
 competences: []

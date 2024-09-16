@@ -9,7 +9,5 @@ missions:
     employer: département du Nord
     startups:
       - intraprenord
-startups:
-  - intraprenord
 previously: []
 ---

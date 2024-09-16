@@ -9,6 +9,4 @@ missions:
     startups:
       - gestion.subventions.locales
 memberType: beta
-startups:
-  - gestion.subventions.locales
 ---

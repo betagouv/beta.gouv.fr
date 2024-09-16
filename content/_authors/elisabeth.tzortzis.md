@@ -10,6 +10,4 @@ missions:
     employer: Cour des comptes
     startups:
       - e-controle
-startups:
-  - e-controle
 ---

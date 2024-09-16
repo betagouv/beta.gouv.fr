@@ -11,7 +11,4 @@ missions:
       - anais
       - sndv_maritime
 github: bafraikin
-startups:
-  - anais
-  - sndv_maritime
 ---

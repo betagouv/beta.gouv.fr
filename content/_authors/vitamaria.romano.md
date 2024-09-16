@@ -9,6 +9,4 @@ missions:
     employer: OCTO
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 ---

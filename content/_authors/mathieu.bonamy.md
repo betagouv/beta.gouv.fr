@@ -10,8 +10,6 @@ missions:
     employer: Ministère en charge de l'énergie
     startups:
       - potentiel
-startups:
-  - potentiel
 badges:
   - segur
 ---

@@ -10,8 +10,6 @@ missions:
     employer: DGALN
     startups:
       - camino
-startups:
-  - camino
 memberType: beta
 ---
 Intrapreneur

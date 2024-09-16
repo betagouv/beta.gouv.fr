@@ -9,6 +9,4 @@ missions:
     employer: Ministère de l'Europe et des Affaires Etrangères
     startups:
       - dumas
-startups:
-  - dumas
 ---

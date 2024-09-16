@@ -10,7 +10,5 @@ missions:
     employer: AFD.TECH / Octo
     startups:
       - resorption-bidonvilles
-startups:
-  - resorption-bidonvilles
 memberType: autre
 ---

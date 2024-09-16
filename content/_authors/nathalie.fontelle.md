@@ -9,6 +9,4 @@ missions:
     status: service
     startups:
       - rdv-service-public
-startups:
-  - rdv-service-public
 ---

@@ -10,6 +10,4 @@ missions:
     employer: dinum
     startups:
       - demarches-simplifiees.fr
-startups:
-  - demarches-simplifiees.fr
 ---

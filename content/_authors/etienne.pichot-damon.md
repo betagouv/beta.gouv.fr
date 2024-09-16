@@ -11,8 +11,6 @@ missions:
     employer: Octo
     startups:
       - ban
-startups:
-  - ban
 badges:
   - segur
 previously:

@@ -10,7 +10,5 @@ missions:
     employer: ANCT
     startups:
       - suite.territoriale
-startups:
-  - suite.territoriale
 memberType: beta
 ---

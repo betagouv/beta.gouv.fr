@@ -9,7 +9,5 @@ missions:
     employer: OCTO
     startups:
       - resorption-bidonvilles
-startups:
-  - resorption-bidonvilles
 ---
 Cheffe de projet Résorption-bidonvilles ; Designer UX et graphique

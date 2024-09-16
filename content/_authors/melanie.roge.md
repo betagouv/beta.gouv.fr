@@ -10,6 +10,4 @@ missions:
     employer: Ministères Sociaux
     startups:
       - e-mjpm
-startups:
-  - e-mjpm
 ---

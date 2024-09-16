@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - exposition-ij
-startups:
-  - exposition-ij
 memberType: beta
 ---
 Développeur Fullstack - Software engineer curieux et créatif

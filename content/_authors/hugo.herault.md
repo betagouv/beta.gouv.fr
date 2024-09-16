@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - competence.validee
-startups:
-  - competence.validee
 previously: []
 competences:
   - Développement Frontend

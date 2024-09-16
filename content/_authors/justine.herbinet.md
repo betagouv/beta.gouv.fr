@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - territoires-en-transitions
-startups:
-  - territoires-en-transitions
 memberType: beta
 ---

@@ -10,8 +10,6 @@ missions:
     startups:
       - exposition-ij
       - pilotagevoiepro
-startups:
-  - pilotagevoiepro
 memberType: beta
 competences: []
 ---

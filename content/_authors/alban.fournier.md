@@ -11,8 +11,6 @@ missions:
     employer: Little Big Connection
     startups:
       - ecobalyse
-startups:
-  - ecobalyse
 badges:
   - segur
 ---

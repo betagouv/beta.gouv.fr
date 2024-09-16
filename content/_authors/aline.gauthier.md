@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - signalement
-startups:
-  - signalement
 memberType: beta
 ---
 Product Owner

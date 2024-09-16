@@ -9,8 +9,6 @@ missions:
     startups:
       - metiis
 github: Rodrive
-startups:
-  - metiis
 previously:
   - e-chauffeur
 ---

@@ -8,8 +8,6 @@ missions:
     status: independent
     startups:
       - monpsy
-startups:
-  - monpsy
 link: https://www.linkedin.com/in/celine-anfossi/
 competences: []
 ---

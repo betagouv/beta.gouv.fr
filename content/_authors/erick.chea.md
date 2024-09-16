@@ -8,6 +8,4 @@ missions:
     status: admin
     startups:
       - mes-evenements-emploi
-startups:
-  - mes-evenements-emploi
 ---

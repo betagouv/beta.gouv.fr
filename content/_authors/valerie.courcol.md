@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - oilhi
-startups:
-  - oilhi
 competences:
   - Administration Publique
 ---

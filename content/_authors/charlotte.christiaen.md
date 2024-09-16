@@ -9,6 +9,4 @@ missions:
     employer: Ministère de la Culture
     startups:
       - pass-culture
-startups:
-  - pass-culture
 ---

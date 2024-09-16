@@ -3,8 +3,6 @@ fullname: Romain Dalisson
 role: Intrapreneur
 domaine: Intraprenariat
 github: RomainDalisson
-startups:
-  - delta.v
 missions:
   - start: 2021-09-03
     end: 2023-04-30

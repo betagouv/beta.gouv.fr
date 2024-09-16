@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - mon-recap
-startups:
-  - mon-recap
 memberType: beta
 previously:
   - dora

@@ -10,8 +10,6 @@ missions:
     employer: scopopop
     startups:
       - acceslibre
-startups:
-  - acceslibre
 competences:
   - Développement Backend
 ---

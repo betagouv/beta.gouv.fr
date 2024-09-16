@@ -9,7 +9,5 @@ missions:
     employer: Agence Zéro
     startups:
       - monstage
-startups:
-  - monstage
 ---
 Communication, donjons et dragons.

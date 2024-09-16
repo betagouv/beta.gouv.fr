@@ -11,8 +11,6 @@ missions:
     employer: pole-emploi
     startups:
       - pilotagevoiepro
-startups:
-  - pilotagevoiepro
 previously:
   - la-bonne-formation
   - estime

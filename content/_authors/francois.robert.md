@@ -10,8 +10,6 @@ missions:
     employer: SGDSN
     startups:
       - athena
-startups:
-  - athena
 memberType: autre
 ---
 Développeur

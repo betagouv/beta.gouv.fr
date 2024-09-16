@@ -11,6 +11,4 @@ missions:
     employer: YSO Corp
     startups:
       - zen
-startups:
-  - zen
 ---

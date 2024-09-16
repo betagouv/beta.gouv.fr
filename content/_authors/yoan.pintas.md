@@ -20,7 +20,5 @@ memberType: beta
 fullname: Yoan Pintas
 role: Architecte Technique Mobile - Référent Matrix
 link: https://www.linkedin.com/in/yoan-pintas-51280783/
-startups:
-  - tchap
 ---
 Passionné par les nouvelles technologies et voyageurs.

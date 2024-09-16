@@ -11,8 +11,6 @@ missions:
     employer: Codeurs en Liberté
     startups:
       - bat-id
-startups:
-  - bat-id
 previously:
   - transport
 ---

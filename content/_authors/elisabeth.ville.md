@@ -11,8 +11,6 @@ missions:
     employer: Inetum - LBC
     startups:
       - bat-id
-startups:
-  - bat-id
 memberType: beta
 ---
 Passionnée d'innovation & Legal Design

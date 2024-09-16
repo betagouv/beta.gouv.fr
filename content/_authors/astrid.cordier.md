@@ -8,6 +8,4 @@ missions:
     status: admin
     startups:
       - rdv.mjd
-startups:
-  - rdv.mjd
 ---

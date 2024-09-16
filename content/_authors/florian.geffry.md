@@ -10,6 +10,4 @@ missions:
     employer: Pôle emploi
     startups:
       - mobiville
-startups:
-  - mobiville
 ---

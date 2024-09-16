@@ -10,8 +10,6 @@ missions:
     employer: DINUM
     startups:
       - datapass
-startups:
-  - datapass
 badges:
   - segur
 ---

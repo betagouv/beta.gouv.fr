@@ -13,10 +13,6 @@ missions:
       - diagoriente
       - exposition-ij
       - la-bonne-alternance
-startups:
-  - diagoriente
-  - la-bonne-alternance
-  - exposition-ij
 previously:
   - eva
 ---

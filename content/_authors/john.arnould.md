@@ -9,8 +9,6 @@ missions:
     employer: DEUD Pôle emploi
     startups:
       - mobiville
-startups:
-  - mobiville
 badges:
   - segur
 ---

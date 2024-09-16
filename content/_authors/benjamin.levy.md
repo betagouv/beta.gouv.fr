@@ -9,7 +9,5 @@ missions:
     employer: LBC
     startups:
       - monstage
-startups:
-  - monstage
 competences: []
 ---

@@ -10,7 +10,5 @@ missions:
     startups:
       - demarches-simplifiees.fr
 github: fredZen
-startups:
-  - demarches-simplifiees.fr
 ---
 Dev Rails sur demarches-simplifiees.fr

@@ -10,7 +10,5 @@ missions:
       - mon-diagnostic-artificialisation
 badges:
   - segur
-startups:
-  - mon-diagnostic-artificialisation
 ---
 Le spartiate qui voulut mesurer l'artificialisation

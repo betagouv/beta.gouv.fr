@@ -10,8 +10,6 @@ missions:
     employer: Octo-Malt
     startups:
       - icare-complements-alimentaires
-startups:
-  - icare-complements-alimentaires
 memberType: beta
 link: https://www.linkedin.com/in/pletellier/
 competences:

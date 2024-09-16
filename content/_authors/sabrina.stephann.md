@@ -10,6 +10,4 @@ missions:
     startups:
       - annuaire-entreprises
 memberType: dinum
-startups:
-  - annuaire-entreprises
 ---

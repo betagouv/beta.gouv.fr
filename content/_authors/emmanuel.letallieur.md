@@ -10,8 +10,6 @@ missions:
     employer: Omnicité
     startups:
       - signalement
-startups:
-  - signalement
 badges:
   - segur
 competences:

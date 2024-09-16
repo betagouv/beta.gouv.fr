@@ -9,7 +9,5 @@ missions:
     employer: Malt
     startups:
       - tchap
-startups:
-  - tchap
 memberType: dinum
 ---

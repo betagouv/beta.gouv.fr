@@ -11,7 +11,5 @@ missions:
     employer: Octo
     startups:
       - les-emplois
-startups:
-  - les-emplois
 ---
 Intégrateur web, développeur front-end pour la plateforme de l'inclusion

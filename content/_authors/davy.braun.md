@@ -11,8 +11,6 @@ missions:
     employer: BENEXT
     startups:
       - camino
-startups:
-  - camino
 badges:
   - segur
 competences:

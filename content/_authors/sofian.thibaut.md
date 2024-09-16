@@ -10,6 +10,4 @@ missions:
     employer: Telescoop
     startups:
       - mon-diagnostic-artificialisation
-startups:
-  - mon-diagnostic-artificialisation
 ---

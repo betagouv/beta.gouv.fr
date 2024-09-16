@@ -10,8 +10,6 @@ missions:
     startups:
       - boris
 memberType: beta
-startups:
-  - boris
 competences:
   - Administration Publique
   - Gestion de Produit

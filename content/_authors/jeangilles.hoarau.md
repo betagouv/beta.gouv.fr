@@ -9,7 +9,5 @@ missions:
     employer: GIP Plateforme de l'inclusion
     startups:
       - les-emplois
-startups:
-  - les-emplois
 ---
 Agent comptable

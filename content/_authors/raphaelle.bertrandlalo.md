@@ -8,8 +8,8 @@ missions:
     end: 2022-12-31
     status: independent
     employer: La Zone
-startups:
-  - l-immersion-facile
+    startups:
+      - l-immersion-facile
 previously:
   - territoires-en-transitions
 ---

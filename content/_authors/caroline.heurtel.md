@@ -10,6 +10,4 @@ missions:
     employer: Ministère de la Culture
     startups:
       - pop
-startups:
-  - pop
 ---

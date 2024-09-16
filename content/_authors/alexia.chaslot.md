@@ -10,8 +10,6 @@ missions:
     employer: Tribunal judiciaire de Nanterre
     startups:
       - mon-suivi-justice
-startups:
-  - mon-suivi-justice
 badges:
   - segur
 competences:

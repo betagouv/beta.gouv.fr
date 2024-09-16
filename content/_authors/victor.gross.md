@@ -10,7 +10,5 @@ missions:
     status: independent
     startups:
       - api.gouv.fr
-startups:
-  - api.gouv.fr
 ---
 🪐

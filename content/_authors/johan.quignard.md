@@ -10,7 +10,5 @@ missions:
     employer: CNAM
     startups:
       - mrs
-startups:
-  - mrs
 ---
 Digital Native chasseur d'irritants

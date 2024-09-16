@@ -10,7 +10,5 @@ missions:
     employer: La Zone / Pathtech
     startups:
       - ban
-startups:
-  - ban
 memberType: beta
 ---

@@ -10,8 +10,6 @@ missions:
     startups:
       - espace.sur.demande
 memberType: beta
-startups:
-  - espace.sur.demande
 competences:
   - Gestion de Produit
   - Product strategy

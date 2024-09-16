@@ -9,6 +9,4 @@ missions:
     status: admin
     startups:
       - au-compost-mitoyen
-startups:
-  - au-compost-mitoyen
 ---

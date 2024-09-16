@@ -9,8 +9,6 @@ missions:
     employer: CEREMA
     startups:
       - urbanvitaliz
-startups:
-  - urbanvitaliz
 badges:
   - segur
 ---

@@ -10,9 +10,6 @@ missions:
     startups:
       - l-application-du-cej
       - pass.engagement.jeune
-startups:
-  - l-application-du-cej
-  - pass.engagement.jeune
 previously:
   - aides.jeunes
 competences:

@@ -9,7 +9,5 @@ missions:
     employer: MTE/CGDD
     startups:
       - ecobalyse
-startups:
-  - ecobalyse
 ---
 Toujours apprendre, être curieux :)

@@ -11,6 +11,4 @@ missions:
     employer: Octo
     startups:
       - carbure
-startups:
-  - carbure
 ---

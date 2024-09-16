@@ -9,7 +9,5 @@ missions:
     employer: eig
     startups:
       - signaux-faibles
-startups:
-  - signaux-faibles
 ---
 Au service des entreprises en difficulté

@@ -9,7 +9,5 @@ missions:
     status: admin
     startups:
       - dialogue
-startups:
-  - dialogue
 ---
 Accro au DiaLog

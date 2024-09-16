@@ -10,6 +10,4 @@ missions:
     employer: Malt/GIP Plateforme de l'Inclusion
     startups:
       - rdv.insertion
-startups:
-  - rdv.insertion
 ---

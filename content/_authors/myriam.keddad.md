@@ -10,8 +10,6 @@ missions:
     employer: SCOPYLEFT
     startups:
       - rdv-service-public
-startups:
-  - rdv-service-public
 badges:
   - segur
 ---

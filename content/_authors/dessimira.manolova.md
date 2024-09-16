@@ -9,8 +9,7 @@ missions:
     employer: Pôle emploi
     startups:
       - l-application-du-cej
-startups:
-  - l-immersion-facile
+      - l-immersion-facile
 badges:
   - segur
 ---

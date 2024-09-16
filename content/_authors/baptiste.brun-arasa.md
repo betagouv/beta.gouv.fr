@@ -10,6 +10,4 @@ missions:
     employer: Codeurs en Liberté
     startups:
       - transport
-startups:
-  - transport
 ---

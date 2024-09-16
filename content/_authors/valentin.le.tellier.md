@@ -9,8 +9,6 @@ missions:
     employer: Direction de l'environnement, de l'aménagement et du logement de La Réunion
     startups:
       - prelevements.deau
-startups:
-  - prelevements.deau
 memberType: beta
 competences: []
 ---

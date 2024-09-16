@@ -9,6 +9,4 @@ missions:
     employer: agencezero
     startups:
       - monstage
-startups:
-  - monstage
 ---

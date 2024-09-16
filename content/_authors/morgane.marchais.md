@@ -9,6 +9,4 @@ missions:
     employer: MSS
     startups:
       - recosante
-startups:
-  - recosante
 ---

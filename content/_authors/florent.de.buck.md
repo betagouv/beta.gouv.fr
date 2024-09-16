@@ -9,8 +9,6 @@ missions:
     employer: ID6 Diagoriente
     startups:
       - diagoriente
-startups:
-  - diagoriente
 memberType: beta
 ---
 Chargé de déploiement le jour

@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - pop
-startups:
-  - pop
 ---
 Constamment en investigation 🔍

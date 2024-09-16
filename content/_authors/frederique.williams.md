@@ -10,6 +10,4 @@ missions:
     employer: IGN
     startups:
       - ban
-startups:
-  - ban
 ---

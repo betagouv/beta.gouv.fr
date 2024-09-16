@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - chauffage-urbain
-startups:
-  - chauffage-urbain
 ---
 Géomatique, Sig, Cartographie, Urbanisme, Dataviz

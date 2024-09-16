@@ -9,7 +9,5 @@ missions:
     employer: TelesCoop
     startups:
       - données-et-territoires
-startups:
-  - données-et-territoires
 ---
 Développeuse TelesCoop - La Zone

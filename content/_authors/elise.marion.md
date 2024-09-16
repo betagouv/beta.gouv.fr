@@ -10,7 +10,5 @@ missions:
     employer: MTES/MCT
     startups:
       - aides-territoires
-startups:
-  - aides-territoires
 ---
 Faciliter le développement des territoires grâce au numérique et avec les usagers

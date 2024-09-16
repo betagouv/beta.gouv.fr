@@ -11,6 +11,4 @@ missions:
     employer: PLUP
     startups:
       - rdv-service-public
-startups:
-  - rdv-service-public
 ---

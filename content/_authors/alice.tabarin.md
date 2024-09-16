@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - france-numerique-ensemble
-startups:
-  - france-numerique-ensemble
 memberType: beta
 ---

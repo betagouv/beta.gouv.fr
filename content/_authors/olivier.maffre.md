@@ -12,8 +12,4 @@ missions:
       - efti
       - le-taxi
       - railup
-startups:
-  - le-taxi
-  - railup
-  - efti
 ---

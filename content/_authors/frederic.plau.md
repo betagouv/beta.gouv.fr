@@ -9,8 +9,6 @@ missions:
     employer: Octo
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 memberType: autre
 ---
 Product Owner couteau suisse

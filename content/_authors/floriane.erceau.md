@@ -9,7 +9,5 @@ missions:
     employer: Octo
     startups:
       - domifa
-startups:
-  - domifa
 ---
 Développeuse le jour, stand-up et geek le reste du temps

@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - partaj
-startups:
-  - partaj
 badges:
   - segur
 ---

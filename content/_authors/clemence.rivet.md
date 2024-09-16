@@ -9,7 +9,5 @@ missions:
     employer: DINUM
     startups:
       - france-numerique-ensemble
-startups:
-  - france-numerique-ensemble
 memberType: beta
 ---

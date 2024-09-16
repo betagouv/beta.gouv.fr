@@ -9,6 +9,4 @@ missions:
     employer: Octo
     startups:
       - auvol
-startups:
-  - auvol
 ---

@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - transport
-startups:
-  - transport
 memberType: beta
 ---
 Travailleur du numérique, transports à toutes les sauces.

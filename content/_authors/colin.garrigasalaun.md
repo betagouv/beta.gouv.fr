@@ -10,6 +10,4 @@ missions:
     employer: Omnicité
     startups:
       - homologation
-startups:
-  - homologation
 ---

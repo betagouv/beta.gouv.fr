@@ -11,6 +11,4 @@ missions:
     startups:
       - france.nation.verte.agir
 memberType: autre
-startups:
-  - france.nation.verte.agir
 ---

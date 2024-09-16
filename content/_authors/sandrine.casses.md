@@ -10,8 +10,6 @@ missions:
     employer: Pôle emploi
     startups:
       - les-emplois
-startups:
-  - les-emplois
 competences:
   - Gestion de Produit
 ---

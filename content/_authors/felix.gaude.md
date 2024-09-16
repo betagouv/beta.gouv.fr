@@ -10,7 +10,5 @@ missions:
     employer: Malt
     startups:
       - moncomptepro
-startups:
-  - moncomptepro
 memberType: beta
 ---

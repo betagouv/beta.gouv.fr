@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - mistral-penal
-startups:
-  - mistral-penal
 memberType: beta
 ---
 Développer, Développer, Développer, Développer, Développer ... ^.^

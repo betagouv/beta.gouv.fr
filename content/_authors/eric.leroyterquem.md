@@ -10,8 +10,6 @@ missions:
     employer: Dinum
     startups:
       - demarches-simplifiees.fr
-startups:
-  - demarches-simplifiees.fr
 badges:
   - segur
 competences:

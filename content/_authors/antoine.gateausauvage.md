@@ -8,7 +8,5 @@ missions:
     status: service
     startups:
       - pass-culture
-startups:
-  - pass-culture
 memberType: beta
 ---

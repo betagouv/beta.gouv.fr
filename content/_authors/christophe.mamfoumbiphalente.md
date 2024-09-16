@@ -7,8 +7,6 @@ missions:
     status: independent
     startups:
       - sante-psy-etudiant
-startups:
-  - sante-psy-etudiant
 badges:
   - segur
 domaine: Design

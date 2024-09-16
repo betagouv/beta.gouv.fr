@@ -11,7 +11,5 @@ missions:
     employer: Malt
     startups:
       - carbure
-startups:
-  - carbure
 competences: []
 ---

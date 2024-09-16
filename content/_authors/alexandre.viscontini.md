@@ -9,8 +9,6 @@ missions:
     employer: DIHAL
     startups:
       - emile
-startups:
-  - emile
 link: https://www.linkedin.com/in/alexandre-viscontini/
 competences: []
 ---

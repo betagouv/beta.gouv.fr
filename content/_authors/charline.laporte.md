@@ -11,8 +11,6 @@ missions:
     employer: La zone / Scopyleft
     startups:
       - sndv_maritime
-startups:
-  - sndv_maritime
 competences:
   - Développement Frontend
   - JavaScript/TypeScript

@@ -10,6 +10,4 @@ missions:
     employer: Fabrique des ministères sociaux
     startups:
       - domifa
-startups:
-  - domifa
 ---

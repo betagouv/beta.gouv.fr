@@ -9,8 +9,6 @@ missions:
     status: admin
     startups:
       - cadransolaire
-startups:
-  - cadransolaire
 competences:
   - Administration Publique
 ---

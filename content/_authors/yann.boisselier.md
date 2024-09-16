@@ -11,7 +11,5 @@ missions:
     employer: octo
     startups:
       - aides-territoires
-startups:
-  - aides-territoires
 ---
 Développeur spécialisé applications web: Vue.js, React, Node, API, GraphQL, REST.

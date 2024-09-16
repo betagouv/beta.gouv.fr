@@ -9,6 +9,4 @@ missions:
     employer: DGALN
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 ---

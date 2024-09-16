@@ -9,8 +9,6 @@ missions:
     employer: DINUM
     startups:
       - aplus
-startups:
-  - aplus
 badges:
   - segur
 ---

@@ -10,8 +10,6 @@ missions:
     employer: LeGratin
     startups:
       - archifiltre
-startups:
-  - archifiltre
 memberType: beta
 ---
 Développeur mais surtout entrepreneur

@@ -11,8 +11,6 @@ missions:
     employer: LBC
     startups:
       - acceslibre
-startups:
-  - acceslibre
 ---
 Développeur sénior Python / Django.
 Aime le libre et l'open source :)

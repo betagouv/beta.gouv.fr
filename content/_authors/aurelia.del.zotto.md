@@ -7,7 +7,7 @@ missions:
     end: 2024-12-31
     status: service
     employer: OCTO Technology
-startups:
-  - monprojetsup
+    startups:
+      - monprojetsup
 memberType: autre
 ---

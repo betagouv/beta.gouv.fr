@@ -8,8 +8,6 @@ missions:
     status: independent
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 memberType: autre
 ---
 J'accompagne les utilisateurs sur les outils betaGouv et conseille les structures publiquesprivées sur la transition alimentaire

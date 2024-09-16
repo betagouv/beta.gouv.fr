@@ -12,7 +12,5 @@ missions:
       - data-subvention
 badges:
   - segur
-startups:
-  - data-subvention
 ---
 Développeuse chez TelesCoop

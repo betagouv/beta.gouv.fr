@@ -9,8 +9,6 @@ missions:
     employer: minint
     startups:
       - psij
-startups:
-  - psij
 competences:
   - Administration Publique
 ---

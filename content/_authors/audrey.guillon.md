@@ -8,8 +8,6 @@ missions:
     status: independent
     startups:
       - sndv_maritime
-startups:
-  - sndv_maritime
 previously:
   - monpsy
 badges:

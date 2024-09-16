@@ -9,8 +9,6 @@ missions:
     employer: MTES-MCT
     startups:
       - partaj
-startups:
-  - partaj
 competences:
   - Gestion de Produit
   - Administration Publique

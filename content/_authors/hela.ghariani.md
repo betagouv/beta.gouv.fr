@@ -10,9 +10,6 @@ missions:
     startups:
       - bourse
       - mdph
-startups:
-  - mdph
-  - bourse
 previously:
   - etudiant-entrepreneur
   - boussole

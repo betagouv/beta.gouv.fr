@@ -12,8 +12,6 @@ missions:
     employer: LaZone
     startups:
       - api-particulier
-startups:
-  - api-particulier
 previously:
   - transport
 ---

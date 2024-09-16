@@ -19,7 +19,5 @@ competences:
   - UX
 teams:
   - /teams/DINUM
-startups:
-  - exposition-ij
 ---
 🌻

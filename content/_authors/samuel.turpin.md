@@ -8,6 +8,4 @@ missions:
     status: admin
     startups:
       - cmachance
-startups:
-  - cmachance
 ---

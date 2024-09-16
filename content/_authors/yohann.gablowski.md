@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - sirius
-startups:
-  - sirius
 memberType: beta
 ---
 Développeur fullstack

@@ -8,6 +8,4 @@ missions:
     status: admin
     startups:
       - competence.validee
-startups:
-  - competence.validee
 ---

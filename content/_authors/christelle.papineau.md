@@ -10,8 +10,5 @@ missions:
     startups:
       - le-taxi
       - mesads
-startups:
-  - le-taxi
-  - mesads
 memberType: autre
 ---

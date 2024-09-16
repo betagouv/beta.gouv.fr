@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - reglementations.en.foret
-startups:
-  - reglementations.en.foret
 ---
 J'aime bien les idées, j'aime encore plus les executer.

@@ -9,7 +9,5 @@ missions:
     employer: MI
     startups:
       - urgencevie
-startups:
-  - urgencevie
 ---
 agent de police

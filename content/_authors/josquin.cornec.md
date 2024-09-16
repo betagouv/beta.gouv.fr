@@ -10,7 +10,5 @@ missions:
     employer: scopyleft
     startups:
       - signaux-faibles
-startups:
-  - signaux-faibles
 memberType: beta
 ---

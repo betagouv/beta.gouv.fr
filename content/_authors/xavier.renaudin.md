@@ -9,8 +9,6 @@ missions:
     employer: LBC
     startups:
       - espace.sur.demande
-startups:
-  - espace.sur.demande
 memberType: beta
 competences:
   - Développement Full-stack

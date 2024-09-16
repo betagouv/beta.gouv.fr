@@ -10,8 +10,6 @@ missions:
     employer: DINUM
     startups:
       - authentification
-startups:
-  - authentification
 badges:
   - segur
 ---

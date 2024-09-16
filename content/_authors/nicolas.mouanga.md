@@ -10,9 +10,6 @@ missions:
     startups:
       - docurba
       - mon-diagnostic-artificialisation
-startups:
-  - mon-diagnostic-artificialisation
-  - docurba
 previously:
   - conseillers-entreprises
   - codedutravail

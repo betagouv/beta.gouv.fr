@@ -9,8 +9,6 @@ missions:
     employer: MTE
     startups:
       - potentiel
-startups:
-  - potentiel
 memberType: beta
 ---
 Chargé de mission photovoltaïque

@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - impact.co2
-startups:
-  - impact.co2
 memberType: beta
 ---

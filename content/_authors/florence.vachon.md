@@ -9,8 +9,6 @@ missions:
     employer: Pôle emploi
     startups:
       - mes-aides-france-travail
-startups:
-  - mes-aides-france-travail
 previously:
   - mes-evenements-emploi
 ---

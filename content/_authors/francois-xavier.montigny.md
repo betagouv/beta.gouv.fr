@@ -11,8 +11,6 @@ missions:
     startups:
       - a-just
 avatar: /img/authors/francois-xavier.montigny.jpg
-startups:
-  - a-just
 previously:
   - zen
   - mobiville

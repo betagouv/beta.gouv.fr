@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - carnet.de.bord
-startups:
-  - carnet.de.bord
 memberType: autre
 ---
 Développeur en immersion chez Carnet de Bord

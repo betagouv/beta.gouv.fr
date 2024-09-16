@@ -10,7 +10,5 @@ missions:
     employer: OCTO Technology
     startups:
       - reuni
-startups:
-  - reuni
 ---
 Basketto-geeko-gamer

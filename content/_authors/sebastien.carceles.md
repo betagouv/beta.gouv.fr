@@ -11,8 +11,6 @@ missions:
     employer: ANCT
     startups:
       - civils-de-la-defense
-startups:
-  - civils-de-la-defense
 previously:
   - aides.jeunes
   - rdv-service-public

@@ -10,8 +10,6 @@ missions:
     employer: Octo
     startups:
       - signalement
-startups:
-  - signalement
 badges:
   - segur
 ---

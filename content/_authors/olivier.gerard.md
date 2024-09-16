@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - reva
-startups:
-  - reva
 previously:
   - eva
 competences:
