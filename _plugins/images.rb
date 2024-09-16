@@ -106,21 +106,19 @@ module Jekyll
     FALLBACK = '/img/incubators/logo_beta.png'
   
     def incubator_logo(incubator)
-      accents = {
-        'á'=>'a', 'à'=>'a', 'ä'=>'a', 'ã'=>'a', 'â'=>'a', 'é'=>'e', 'è'=>'e', 'ë'=>'e', 'ê'=>'e',
-        'í'=>'i', 'ì'=>'i', 'ï'=>'i', 'î'=>'i', 'ó'=>'o', 'ò'=>'o', 'ö'=>'o', 'õ'=>'o', 'ô'=>'o',
-        'ú'=>'u', 'ù'=>'u', 'ü'=>'u', 'û'=>'u', 'ç'=>'c', 'ñ'=>'n'
-      }
-      id = incubator.id.split('/').last.to_s.gsub(/[#{accents.keys.join}]/, accents)
-
-      s3_url = "#{S3_BASE_URL}/incubators/#{id}/logo.jpg"
-      URLChecker.url_exists?(s3_url) ? s3_url : incubator_file(incubator) || FALLBACK
+      id = incubator_id(incubator)
+      incubator_s3_img(id) || incubator_file(incubator) || FALLBACK
     end
   
     private
-  
+    
+    def incubator_s3_img(incubator)
+      s3_url = "#{S3_BASE_URL}/incubators/#{id}/logo.jpg"
+      URLChecker.url_exists?(s3_url) ? s3_url : false
+    end
+
     def incubator_id(incubator)
-      incubator.id.split('/').last # they come as /incubateurs/{id}
+      incubator.id.split('/').last.parameterize # they come as /incubateurs/{id}
     end
   
     def incubator_files
