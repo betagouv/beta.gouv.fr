@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'activesupport'
+require 'active_support/core_ext/string'
 require 'json'
 require 'net/http'
 require 'uri'
