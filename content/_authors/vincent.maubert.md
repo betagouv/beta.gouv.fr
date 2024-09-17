@@ -13,6 +13,8 @@ missions:
 startups:
   - camino
 competences:
-  - Développement Backend
-  - Développement Frontend
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - Docker
+  - PostgreSQL
 ---
