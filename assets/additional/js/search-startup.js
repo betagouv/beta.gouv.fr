@@ -102,7 +102,7 @@ const displayNoDataMessage = (shouldDisplay) => {
 const filterCards = (data, value) => {
   let filtered = [];
 
-  if (nfilters.incubator) {
+  if (filters.incubator) {
     filtered = data.filter((d) => d.incubator_id === filters.incubator);
   }
   if (filters.usertypes) {
