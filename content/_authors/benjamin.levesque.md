@@ -12,5 +12,7 @@ missions:
 github: benjlevesque
 competences:
   - Développement Full-stack
+  - Kubernetes
+  - DevOps
 memberType: beta
 ---

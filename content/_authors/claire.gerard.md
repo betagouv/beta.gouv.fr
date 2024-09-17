@@ -9,6 +9,12 @@ missions:
     employer: Octo
     startups:
       - reva
+  - start: 2024-09-17
+    end: 2024-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - mesaidesreno
 startups:
   - reva
 ---
