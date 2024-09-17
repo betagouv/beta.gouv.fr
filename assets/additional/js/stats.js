@@ -1,4 +1,4 @@
-var metrics = [
+const metrics = [
   {
     id: "investigation",
     future: {
@@ -46,24 +46,24 @@ var metrics = [
   },
 ];
 
-var db = {};
-metrics.forEach(function (metric) {
+const db = {};
+for (const metric of metrics) {
   metric.years = {};
   db[metric.id] = metric;
-});
+}
 
 function basicDateTest(s) {
   return s !== "" && s;
 }
 
 function getFirstStepDate(startup) {
-  var dates = startup.attributes.phases.reduce(function (list, p) {
-    var candidates = [p.start, p.end];
-    candidates.forEach(function (c) {
+  const dates = startup.attributes.phases.reduce((list, p) => {
+    const candidates = [p.start, p.end];
+    for (const c of candidates) {
       if (basicDateTest(c)) {
         list.push(c);
       }
-    });
+    }
     return list;
   }, []);
 
@@ -74,42 +74,42 @@ function getFirstStepDate(startup) {
 }
 
 function get(startup, item) {
-  var obj = startup.attributes[item.from].find(function (p) {
-    return p.name === item.name;
-  });
+  const obj = startup.attributes[item.from].find((p) => p.name === item.name);
   if (obj) {
     return obj[item.prop];
   }
 }
 
 function getFirst(startup, sources) {
-  var candidates = sources.map(function (source) {
+  const candidates = sources.map((source) => {
     if (typeof source === "function") {
       return source(startup);
-    } else if (typeof source === "string") {
+    }
+    if (typeof source === "string") {
       return source;
     }
     return get(startup, source);
   });
 
-  return candidates.reduce(function (pick, value) {
-    return pick || basicDateTest(value);
-  }, false);
+  return candidates.reduce(
+    (pick, value) => pick || basicDateTest(value),
+    false,
+  );
 }
 
 function addValue(container, dt, value) {
   if (dt) {
-    var year = dt.slice(0, 4);
-    var list = container[year] || [];
+    const year = dt.slice(0, 4);
+    const list = container[year] || [];
     list.push(value);
     container[year] = list;
   }
 }
 
-var prefix = "/api/v2/";
-$.ajax(prefix + "startups.json").done(function (response) {
-  var startups = response.data;
-  startups.forEach(function (startup) {
+const prefix = "/api/v2/";
+$.ajax(`${prefix}startups.json`).done((response) => {
+  const startups = response.data;
+  for (const startup of startups) {
     if (!startup.attributes.phases || !startup.attributes.phases.length) {
       console.warn(startup.id);
       return;
@@ -119,7 +119,11 @@ $.ajax(prefix + "startups.json").done(function (response) {
     // Plusieurs dates candidates sont listées et la première disponible est utilisée
 
     // Date de la fin de l'investigation d'un problème
-    var investigationDate = getFirst(startup, [{ from: "phases", name: "investigation", prop: "end" }, { from: "phases", name: "investigation", prop: "start" }, getFirstStepDate]);
+    const investigationDate = getFirst(startup, [
+      { from: "phases", name: "investigation", prop: "end" },
+      { from: "phases", name: "investigation", prop: "start" },
+      getFirstStepDate,
+    ]);
     if (!investigationDate) {
       console.warn(startup.id);
     } else {
@@ -127,54 +131,58 @@ $.ajax(prefix + "startups.json").done(function (response) {
     }
 
     // Date du lancement du produit
-    var launchDate = getFirst(startup, [
+    const launchDate = getFirst(startup, [
       { from: "events", name: "product_launch", prop: "date" },
       { from: "phases", name: "construction", prop: "start" },
     ]);
     addValue(db.product_launch.years, launchDate, startup.id);
 
     // Date de l'abandon du produit
-    var endDate = getFirst(startup, [{ from: "events", name: "end", prop: "date" }]);
+    const endDate = getFirst(startup, [
+      { from: "events", name: "end", prop: "date" },
+    ]);
     addValue(db.end.years, endDate, startup.id);
 
     // Date du passage à un produit d'impact national
-    var s = getFirst(startup, [{ from: "events", name: "national_impact", prop: "date" }]);
+    const s = getFirst(startup, [
+      { from: "events", name: "national_impact", prop: "date" },
+    ]);
     addValue(db.national_impact.years, s, startup.id);
-  });
+  }
 
-  $.ajax(prefix + "authors.json").done(function (response) {
-    response.forEach(function (author) {
+  $.ajax(`${prefix}authors.json`).done((response) => {
+    for (const author of response) {
       if (!author.missions) {
         console.warn(author.id);
         return;
       }
 
-      author.missions.reduce(function (done, mission) {
+      author.missions.reduce((done, mission) => {
         if (!done && mission.status === "admin") {
           addValue(db.agent.years, mission.start, author.id);
           return true;
         }
         return done;
       }, false);
-    });
+    }
 
-    var years = [];
-    var end = new Date().getFullYear() + 1;
-    for (var i = 2013; i <= end; i = i + 1) {
+    const years = [];
+    const end = new Date().getFullYear() + 1;
+    for (let i = 2013; i <= end; i = i + 1) {
       years.push(i);
     }
 
-    metrics.forEach(function (metric) {
-      var input = db[metric.id];
+    for (const metric of metrics) {
+      const input = db[metric.id];
       if (!input) {
         return;
       }
-      var data = years.map((y) => (input.years[y] || []).length);
-      var future = years.map((y) => {
+      const data = years.map((y) => (input.years[y] || []).length);
+      const future = years.map((y) => {
         if (!input.future[y]) {
           return 0;
         }
-        var v = input.future[y];
+        const v = input.future[y];
         return v > 0 ? v : 0;
       });
       new Chart(document.getElementById(metric.id), {
@@ -212,29 +220,27 @@ $.ajax(prefix + "startups.json").done(function (response) {
             position: "topLeft",
             caretSize: 0,
             callbacks: {
-              footer: function (selection, d) {
-                if (selection[0].datasetIndex == 0) {
-                  var items = input.years[selection[0].xLabel];
+              footer: (selection, d) => {
+                if (selection[0].datasetIndex === 0) {
+                  const items = input.years[selection[0].xLabel];
                   if (items.length > 25) {
                     return items
                       .join(" ")
                       .replace(/.{1,40} /g, "$&#")
                       .split(" #");
-                  } else {
-                    return items;
                   }
+                  return items;
                 }
               },
             },
           },
         },
       });
-    });
+    }
   });
 });
 
-Chart.Tooltip.positioners.topLeft = function (elements, eventPosition) {
-  var tooltip = this;
+Chart.Tooltip.positioners.topLeft = (elements, eventPosition) => {
   return {
     x: 10,
     y: 10,

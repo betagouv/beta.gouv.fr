@@ -4,15 +4,15 @@
 {%- endcomment -%}
 
 <div class="fr-container">
-    <h2 id="equipe">L'équipe</h2>
-    <div class="fr-grid-row fr-grid-row--gutters">
-      {% assign members = site.authors | members: include.startup.id, false %}
-      {% for member in members %}
+  <h2 id="equipe">L'équipe</h2>
+  <div class="fr-grid-row fr-grid-row--gutters">
+    {% assign members = site.authors | members: include.startup.id, false %}
+    {% for member in members %}
       <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
         {%- include card-community.html author=member -%}
       </div>
-      {% endfor %}
-    </div>
+    {% endfor %}
+  </div>
 </div>
 
 {% assign alumni = site.authors | members: include.startup.id, true %}
@@ -24,22 +24,22 @@
       <h2>Les anciennes et les anciens</h2>
       <div class="fr-grid-row fr-grid-row--gutters">
         {% assign alumni = site.authors | members: include.startup.id, true %}
-        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
-          {% for member in alumni %}
+        {% for member in alumni %}
+          <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
             {%- include card-community.html author=member -%}
-          {% endfor %}
-        </div>
+          </div>
+        {% endfor %}
       </div>
     </div>
   </div>
 {% endunless %}
 
 <script type="text/javascript">
-  function toggle_visibility(id) {
-    var e = document.getElementById(id);
-    if(e.style.display == 'block')
-      e.style.display = 'none';
-    else
-      e.style.display = 'block';
-  }
-  </script>
+ function toggle_visibility(id) {
+     var e = document.getElementById(id);
+     if(e.style.display == 'block')
+         e.style.display = 'none';
+     else
+         e.style.display = 'block';
+ }
+</script>
