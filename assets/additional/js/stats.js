@@ -1,4 +1,4 @@
-const metrics = [
+var metrics = [
   {
     id: "investigation",
     future: {
@@ -46,24 +46,24 @@ const metrics = [
   },
 ];
 
-const db = {};
-for (const metric of metrics) {
+var db = {};
+metrics.forEach(function (metric) {
   metric.years = {};
   db[metric.id] = metric;
-}
+});
 
 function basicDateTest(s) {
   return s !== "" && s;
 }
 
 function getFirstStepDate(startup) {
-  const dates = startup.attributes.phases.reduce((list, p) => {
-    const candidates = [p.start, p.end];
-    for (const c of candidates) {
+  var dates = startup.attributes.phases.reduce(function (list, p) {
+    var candidates = [p.start, p.end];
+    candidates.forEach(function (c) {
       if (basicDateTest(c)) {
         list.push(c);
       }
-    }
+    });
     return list;
   }, []);
 
@@ -74,42 +74,42 @@ function getFirstStepDate(startup) {
 }
 
 function get(startup, item) {
-  const obj = startup.attributes[item.from].find((p) => p.name === item.name);
+  var obj = startup.attributes[item.from].find(function (p) {
+    return p.name === item.name;
+  });
   if (obj) {
     return obj[item.prop];
   }
 }
 
 function getFirst(startup, sources) {
-  const candidates = sources.map((source) => {
+  var candidates = sources.map(function (source) {
     if (typeof source === "function") {
       return source(startup);
-    }
-    if (typeof source === "string") {
+    } else if (typeof source === "string") {
       return source;
     }
     return get(startup, source);
   });
 
-  return candidates.reduce(
-    (pick, value) => pick || basicDateTest(value),
-    false,
-  );
+  return candidates.reduce(function (pick, value) {
+    return pick || basicDateTest(value);
+  }, false);
 }
 
 function addValue(container, dt, value) {
   if (dt) {
-    const year = dt.slice(0, 4);
-    const list = container[year] || [];
+    var year = dt.slice(0, 4);
+    var list = container[year] || [];
     list.push(value);
     container[year] = list;
   }
 }
 
-const prefix = "/api/v2/";
-$.ajax(`${prefix}startups.json`).done((response) => {
-  const startups = response.data;
-  for (const startup of startups) {
+var prefix = "/api/v2/";
+$.ajax(prefix + "startups.json").done(function (response) {
+  var startups = response.data;
+  startups.forEach(function (startup) {
     if (!startup.attributes.phases || !startup.attributes.phases.length) {
       console.warn(startup.id);
       return;
@@ -119,11 +119,7 @@ $.ajax(`${prefix}startups.json`).done((response) => {
     // Plusieurs dates candidates sont listées et la première disponible est utilisée
 
     // Date de la fin de l'investigation d'un problème
-    const investigationDate = getFirst(startup, [
-      { from: "phases", name: "investigation", prop: "end" },
-      { from: "phases", name: "investigation", prop: "start" },
-      getFirstStepDate,
-    ]);
+    var investigationDate = getFirst(startup, [{ from: "phases", name: "investigation", prop: "end" }, { from: "phases", name: "investigation", prop: "start" }, getFirstStepDate]);
     if (!investigationDate) {
       console.warn(startup.id);
     } else {
@@ -131,58 +127,54 @@ $.ajax(`${prefix}startups.json`).done((response) => {
     }
 
     // Date du lancement du produit
-    const launchDate = getFirst(startup, [
+    var launchDate = getFirst(startup, [
       { from: "events", name: "product_launch", prop: "date" },
       { from: "phases", name: "construction", prop: "start" },
     ]);
     addValue(db.product_launch.years, launchDate, startup.id);
 
     // Date de l'abandon du produit
-    const endDate = getFirst(startup, [
-      { from: "events", name: "end", prop: "date" },
-    ]);
+    var endDate = getFirst(startup, [{ from: "events", name: "end", prop: "date" }]);
     addValue(db.end.years, endDate, startup.id);
 
     // Date du passage à un produit d'impact national
-    const s = getFirst(startup, [
-      { from: "events", name: "national_impact", prop: "date" },
-    ]);
+    var s = getFirst(startup, [{ from: "events", name: "national_impact", prop: "date" }]);
     addValue(db.national_impact.years, s, startup.id);
-  }
+  });
 
-  $.ajax(`${prefix}authors.json`).done((response) => {
-    for (const author of response) {
+  $.ajax(prefix + "authors.json").done(function (response) {
+    response.forEach(function (author) {
       if (!author.missions) {
         console.warn(author.id);
         return;
       }
 
-      author.missions.reduce((done, mission) => {
+      author.missions.reduce(function (done, mission) {
         if (!done && mission.status === "admin") {
           addValue(db.agent.years, mission.start, author.id);
           return true;
         }
         return done;
       }, false);
-    }
+    });
 
-    const years = [];
-    const end = new Date().getFullYear() + 1;
-    for (let i = 2013; i <= end; i = i + 1) {
+    var years = [];
+    var end = new Date().getFullYear() + 1;
+    for (var i = 2013; i <= end; i = i + 1) {
       years.push(i);
     }
 
-    for (const metric of metrics) {
-      const input = db[metric.id];
+    metrics.forEach(function (metric) {
+      var input = db[metric.id];
       if (!input) {
         return;
       }
-      const data = years.map((y) => (input.years[y] || []).length);
-      const future = years.map((y) => {
+      var data = years.map((y) => (input.years[y] || []).length);
+      var future = years.map((y) => {
         if (!input.future[y]) {
           return 0;
         }
-        const v = input.future[y];
+        var v = input.future[y];
         return v > 0 ? v : 0;
       });
       new Chart(document.getElementById(metric.id), {
@@ -220,27 +212,29 @@ $.ajax(`${prefix}startups.json`).done((response) => {
             position: "topLeft",
             caretSize: 0,
             callbacks: {
-              footer: (selection, d) => {
-                if (selection[0].datasetIndex === 0) {
-                  const items = input.years[selection[0].xLabel];
+              footer: function (selection, d) {
+                if (selection[0].datasetIndex == 0) {
+                  var items = input.years[selection[0].xLabel];
                   if (items.length > 25) {
                     return items
                       .join(" ")
                       .replace(/.{1,40} /g, "$&#")
                       .split(" #");
+                  } else {
+                    return items;
                   }
-                  return items;
                 }
               },
             },
           },
         },
       });
-    }
+    });
   });
 });
 
-Chart.Tooltip.positioners.topLeft = (elements, eventPosition) => {
+Chart.Tooltip.positioners.topLeft = function (elements, eventPosition) {
+  var tooltip = this;
   return {
     x: 10,
     y: 10,

@@ -1,15 +1,15 @@
 {
-  "name": "ci",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "gray-matter": "^4.0.3",
-    "yaml": "^2.3.4",
-    "zod": "^3.22.4"
-  },
-  "devDependencies": {
-    "@types/node": "^20.11.6",
-    "typescript": "^5.4.5"
-  }
+    "name": "ci",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "gray-matter": "^4.0.3",
+        "yaml": "^2.3.4",
+        "zod": "^3.22.4"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.6",
+        "typescript": "^5.4.5"
+    }
 }
