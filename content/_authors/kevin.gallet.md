@@ -19,8 +19,8 @@ competences:
 missions:
   - start: 2024-09-17
     end: 2025-02-28
-    employer: Mtes
     status: independent
+    employer: Mtes
     startups:
       - otelo
 ---
