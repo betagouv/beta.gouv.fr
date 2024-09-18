@@ -7,8 +7,6 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ANCT
-    startups:
-      - infrastructures.numeriques
 badges:
   - segur
 ---

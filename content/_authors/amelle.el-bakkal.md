@@ -8,8 +8,6 @@ missions:
     end: 2024-08-31
     status: service
     employer: Octo
-    startups:
-      - l-application-du-cej
 badges:
   - segur
 competences:

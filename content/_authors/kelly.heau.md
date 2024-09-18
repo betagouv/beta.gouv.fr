@@ -9,7 +9,6 @@ missions:
     status: independent
     employer: MALT
     startups:
-      - a-just
       - mobilic
 memberType: beta
 competences: []

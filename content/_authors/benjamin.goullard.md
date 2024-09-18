@@ -8,7 +8,6 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - envergo
       - territoires-en-transitions
 badges:
   - segur

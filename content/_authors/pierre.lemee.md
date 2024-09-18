@@ -9,7 +9,6 @@ missions:
     end: 2025-01-30
     status: independent
     startups:
-      - apilos
       - precontentieux.justice
 badges:
   - segur

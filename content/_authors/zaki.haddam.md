@@ -7,7 +7,5 @@ missions:
   - start: 2024-03-04
     end: 2024-12-31
     status: independent
-    startups:
-      - snu
 memberType: autre
 ---

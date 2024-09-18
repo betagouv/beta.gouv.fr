@@ -10,9 +10,7 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - apilos
       - longuevieauxobjets
-      - sppnaut
 memberType: beta
 ---
 Développeur full-stack

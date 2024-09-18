@@ -11,7 +11,6 @@ missions:
     employer: Scop&co
     startups:
       - eimis
-      - tchap
 memberType: autre
 previously:
   - tchap

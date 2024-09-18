@@ -7,8 +7,6 @@ missions:
     end: 2019-12-31
     status: service
     employer: octo
-    startups:
-      - pass-culture
 avatar: https://secure.gravatar.com/avatar/713f2d58f3a9a13b4cbbdf6662718f19?size=512
 previously:
   - api-particulier

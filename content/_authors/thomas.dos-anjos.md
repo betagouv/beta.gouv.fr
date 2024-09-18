@@ -9,7 +9,6 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - dotations-locales
       - reva
 badges:
   - segur

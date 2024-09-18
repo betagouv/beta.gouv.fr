@@ -8,7 +8,6 @@ missions:
     status: independent
     employer: SIGMAZ Consilium
     startups:
-      - bat-id
       - cartographie.nationale
       - france-numerique-ensemble
       - suite.d.outils.des.mediateurs.numeriques

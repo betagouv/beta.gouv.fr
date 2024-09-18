@@ -10,6 +10,5 @@ missions:
     employer: Malt
     startups:
       - bases.adresses.locales
-      - moncomptepro
 competences: []
 ---

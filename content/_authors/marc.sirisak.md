@@ -8,7 +8,5 @@ missions:
     end: 2024-11-15
     status: independent
     employer: dinum
-    startups:
-      - tchap
 memberType: beta
 ---
