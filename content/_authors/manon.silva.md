@@ -22,9 +22,20 @@ missions:
     employer: Opteamis
     startups:
       - maison.de.lautisme
+  - start: 2024-09-16
+    end: 2024-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - pacoupa
 badges:
   - segur
 startups:
   - maison.de.lautisme
   - ozensemble
+github: manon-silva
+competences:
+  - Communication
+  - Croissance
+  - Product design
 ---

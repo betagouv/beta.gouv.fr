@@ -13,8 +13,8 @@ competences:
 missions:
   - start: 2024-09-16
     end: 2024-12-31
-    employer: UT7
     status: independent
+    employer: UT7
     startups:
       - collectif_objets
 ---

@@ -8,6 +8,12 @@ missions:
     employer: Malt
     startups:
       - dossierfacile
+  - start: 2023-06-01
+    end: 2023-08-31
+    status: independent
+    employer: Malt
+    startups:
+      - qualicharge
   - start: 2024-09-12
     end: 2024-12-31
     status: independent

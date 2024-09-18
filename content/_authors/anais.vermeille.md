@@ -1,13 +1,12 @@
 ---
-fullname: Mipam Bhutia
-role: Développeur
+fullname: Anais Vermeille
+role: Intrapreneuse
 domaine: Intraprenariat
 competences: []
 missions:
-  - start: 2024-09-16
+  - start: 2024-09-17
     end: 2024-12-31
     status: admin
-    employer: ANSM
     startups:
-      - medistock
+      - jafer
 ---

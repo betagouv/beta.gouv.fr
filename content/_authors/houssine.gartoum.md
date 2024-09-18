@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2024-09-12
     end: 2024-12-12
-    employer: DGEFP
     status: admin
+    employer: DGEFP
     startups:
       - la-bonne-alternance
       - tdb-apprentissage
