@@ -99,29 +99,28 @@ const displayNoDataMessage = (shouldDisplay) => {
   }
 };
 
-const filterCards = (data, value) => {
-  let filtered = [];
-
-  if (filters.incubator) {
-    filtered = data.filter((d) => d.incubator_id === filters.incubator);
-  }
-  if (filters.usertypes) {
-    filtered = data.filter((d) =>
-      d.attributes.usertypes.includes(filters.usertypes),
+const filterCards = (startups) => {
+  return startups
+    .filter((startup) =>
+      filters.incubator ? startup.incubator_id === filters.incubator : true,
+    )
+    .filter((startup) =>
+      filters.usertypes
+        ? startup.attributes.usertypes.includes(filters.usertypes)
+        : true,
+    )
+    .filter((startup) =>
+      filters.thematiques
+        ? startup.attributes.thematiques.includes(filters.thematiques)
+        : true,
+    )
+    .filter((startup) =>
+      filters.is_national_impact ? startupHasNationalImpact(startup) : true,
     );
-  }
-  if (filters.thematiques) {
-    filtered = data.filter((d) =>
-      d.attributes.thematiques.includes(filters.thematiques),
-    );
-  }
-  if (filters.is_national_impact) {
-    filtered = data.filter((d) =>
-      d.events.find((event) => event.name === "national_impact"),
-    );
-  }
-  return filtered;
 };
+
+const startupHasNationalImpact = (startup) =>
+  startup.events.find((event) => event.name === "national_impact");
 
 const updateCards = (data) => {
   displayNoDataMessage(false);
