@@ -44,7 +44,7 @@ $(() => {
   for (const date of Object.keys(dataByDate).sort(sortASC)) {
     const row = dataByDate[date];
 
-    for (const employerType of Object) {
+    for (const employerType of Object.keys(row)) {
       currentAmounts[employerType] += row[employerType];
       datasets[employerType].push({
         x: date,
