@@ -287,7 +287,7 @@ const createUsertypesSelect = (selectElement, data, initValue) => {
 
 const createThematiquesSelect = (selectElement, data, initValue) => {
   const optionFragment = document.createDocumentFragment();
-  for (thematique in THEMATIQUES) {
+  for (const thematique of THEMATIQUES) {
     const option = document.createElement("option");
     option.innerText = thematique;
     option.value = thematique;
