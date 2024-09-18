@@ -11,8 +11,6 @@ missions:
     employer: CGDD
     startups:
       - ecobalyse
-startups:
-  - ecobalyse
 badges:
   - segur
 competences:

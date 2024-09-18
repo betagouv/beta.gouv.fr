@@ -12,8 +12,6 @@ missions:
       - agents.en.intervention
       - espace.sur.demande
 memberType: beta
-startups:
-  - agents.en.intervention
 previously:
   - espace.sur.demande
 link: https://www.linkedin.com/in/alexandre-joubert-baeta-labs/?locale=fr_FR

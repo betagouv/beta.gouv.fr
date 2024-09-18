@@ -9,8 +9,5 @@ missions:
     startups:
       - deveco
       - monstage
-startups:
-  - monstage
-  - deveco
 ---
 Data specialist

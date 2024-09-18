@@ -11,6 +11,4 @@ missions:
     employer: octo
     startups:
       - trackdechets
-startups:
-  - trackdechets
 ---

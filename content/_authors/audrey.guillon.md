@@ -21,10 +21,6 @@ missions:
     employer: Scopyleft
     startups:
       - nosgestesclimat
-startups:
-  - sndv_maritime
-previously:
-  - monpsy
 badges:
   - segur
 competences:

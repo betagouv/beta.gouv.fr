@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - jafer
-startups:
-  - jafer
 badges:
   - segur
 competences:

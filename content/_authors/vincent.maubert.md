@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - camino
-startups:
-  - camino
 competences:
   - Développement Full-stack
   - JavaScript/TypeScript

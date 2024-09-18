@@ -11,8 +11,6 @@ missions:
     employer: Scopopop
     startups:
       - preuve-de-covoiturage
-startups:
-  - preuve-de-covoiturage
 memberType: beta
 ---
 Docteur en Statistique/Machine Learning.

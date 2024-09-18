@@ -9,7 +9,5 @@ missions:
     status: service
     startups:
       - territoires-en-transitions
-startups:
-  - territoires-en-transitions
 memberType: beta
 ---

@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 memberType: beta
 ---

@@ -11,9 +11,6 @@ missions:
     startups:
       - recommandations-collaboratives
       - urbanvitaliz
-startups:
-  - urbanvitaliz
-  - recommandations-collaboratives
 badges:
   - segur
 ---

@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - aides.jeunes
-startups:
-  - aides.jeunes
 badges:
   - segur
 competences:

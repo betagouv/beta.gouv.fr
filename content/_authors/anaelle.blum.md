@@ -9,7 +9,5 @@ missions:
     employer: B-NEXT
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 ---
 Chef de projet, déploiement, optimisation

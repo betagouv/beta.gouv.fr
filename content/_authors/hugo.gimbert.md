@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - monprojetsup
-startups:
-  - monprojetsup
 memberType: beta
 github: Numero7
 ---

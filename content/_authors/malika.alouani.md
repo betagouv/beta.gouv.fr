@@ -9,6 +9,4 @@ missions:
     employer: Education Nationale
     startups:
       - classe-a-12
-startups:
-  - classe-a-12
 ---

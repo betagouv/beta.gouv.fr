@@ -9,6 +9,4 @@ missions:
     employer: minint
     startups:
       - psp
-startups:
-  - psp
 ---

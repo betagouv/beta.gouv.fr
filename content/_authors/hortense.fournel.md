@@ -9,7 +9,5 @@ missions:
     employer: FNCCR
     startups:
       - chauffage-urbain
-startups:
-  - chauffage-urbain
 ---
 Je suis chargée de mission à la FNCCR et co-intrapreneuse pour la solution numérique @ChauffageUrbain

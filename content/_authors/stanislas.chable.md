@@ -10,6 +10,4 @@ missions:
     employer: OCTO Technology
     startups:
       - pass-culture
-startups:
-  - pass-culture
 ---

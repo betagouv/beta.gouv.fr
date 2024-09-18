@@ -10,7 +10,5 @@ missions:
     employer: octo
     startups:
       - aidantsconnect
-startups:
-  - aidantsconnect
 ---
 La tech au service de l'humain.

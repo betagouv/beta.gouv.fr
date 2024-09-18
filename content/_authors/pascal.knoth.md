@@ -10,8 +10,6 @@ missions:
     employer: octo
     startups:
       - api-particulier
-startups:
-  - api-particulier
 previously:
   - datapass
 ---

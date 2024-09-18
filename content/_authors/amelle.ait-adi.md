@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - homologation
-startups:
-  - homologation
 memberType: beta
 ---

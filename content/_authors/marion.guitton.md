@@ -11,8 +11,6 @@ missions:
     employer: DINUM - Octo
     startups:
       - data-subvention
-startups:
-  - data-subvention
 badges:
   - segur
 ---

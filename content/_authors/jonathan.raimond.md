@@ -11,8 +11,6 @@ missions:
     employer: Octo
     startups:
       - carnet.de.bord
-startups:
-  - carnet.de.bord
 badges:
   - segur
 competences:

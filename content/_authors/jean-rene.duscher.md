@@ -10,6 +10,4 @@ missions:
     employer: affaires-sociales
     startups:
       - codedutravail
-startups:
-  - codedutravail
 ---

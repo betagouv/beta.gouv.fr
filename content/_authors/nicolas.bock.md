@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - dotations-locales
-startups:
-  - dotations-locales
 badges:
   - segur
 ---

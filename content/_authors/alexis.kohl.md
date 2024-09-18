@@ -9,8 +9,6 @@ missions:
     employer: Octo
     startups:
       - infoparquet
-startups:
-  - infoparquet
 badges:
   - segur
 competences:

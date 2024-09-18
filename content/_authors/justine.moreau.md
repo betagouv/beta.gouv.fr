@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - carnet.de.bord
-startups:
-  - carnet.de.bord
 ---
 UI/UX  designer , passionnée de sport 🏃🏻‍♀️ et de photographie 📸.

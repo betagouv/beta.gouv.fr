@@ -10,6 +10,4 @@ missions:
     employer: DINUM
     startups:
       - rapportnav
-startups:
-  - rapportnav
 ---

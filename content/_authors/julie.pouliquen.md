@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - nosgestesclimat
-startups:
-  - nosgestesclimat
 memberType: beta
 ---
 Cycliste à la campagne, maman², bretonne iodée.

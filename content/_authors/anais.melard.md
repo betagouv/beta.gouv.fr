@@ -9,7 +9,5 @@ missions:
     employer: MTE
     startups:
       - rapportnav
-startups:
-  - rapportnav
 memberType: beta
 ---

@@ -9,7 +9,5 @@ missions:
     employer: Dinum
     startups:
       - acceslibre
-startups:
-  - acceslibre
 ---
 Futur président de la République ou acteur de cinéma :)

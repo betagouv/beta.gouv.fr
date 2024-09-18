@@ -10,6 +10,4 @@ missions:
     employer: dinum
     startups:
       - transport
-startups:
-  - transport
 ---

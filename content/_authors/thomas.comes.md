@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - api-entreprise
-startups:
-  - api-entreprise
 memberType: autre
 ---
 Tech lead

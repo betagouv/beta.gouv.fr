@@ -9,8 +9,6 @@ missions:
     employer: DGITM
     startups:
       - le-taxi
-startups:
-  - le-taxi
 badges:
   - segur
 ---

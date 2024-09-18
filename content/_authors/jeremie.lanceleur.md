@@ -9,6 +9,4 @@ missions:
     status: admin
     startups:
       - estime
-startups:
-  - estime
 ---

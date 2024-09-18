@@ -12,9 +12,6 @@ missions:
       - rapportnav
 badges:
   - segur
-startups:
-  - monitorfish
-  - rapportnav
 previously:
   - prev-ac-tion
   - jaden.gwadloup

@@ -13,7 +13,5 @@ competences:
   - Communication
 memberType: autre
 role: Chargée de communication - conception/rédaction et partenariats
-startups:
-  - jeveuxaider
 ---
 Chargée de communication, rêveuse de web participatif, libre et engagé.

@@ -9,8 +9,6 @@ missions:
     employer: BeNext
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 badges:
   - segur
 ---

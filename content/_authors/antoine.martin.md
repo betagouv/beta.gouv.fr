@@ -10,6 +10,4 @@ missions:
     startups:
       - transport
 github: antoine-martin-ponts
-startups:
-  - transport
 ---

@@ -9,6 +9,4 @@ missions:
     employer: drjscs
     startups:
       - e-mjpm
-startups:
-  - e-mjpm
 ---

@@ -10,8 +10,6 @@ missions:
     employer: MonServiceSécurisé
     startups:
       - homologation
-startups:
-  - homologation
 memberType: beta
 competences:
   - Product design

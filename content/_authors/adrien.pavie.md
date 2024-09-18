@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - vues-immersives-libres
-startups:
-  - vues-immersives-libres
 memberType: beta
 ---
 Entrepreneur en géomatique et développement logiciel

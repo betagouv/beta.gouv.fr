@@ -9,8 +9,6 @@ missions:
     employer: DINUM
     startups:
       - metiers-numeriques
-startups:
-  - metiers-numeriques
 memberType: dinum
 ---
 Product Owner, DINUM

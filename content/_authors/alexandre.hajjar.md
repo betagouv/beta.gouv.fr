@@ -11,7 +11,4 @@ missions:
     startups:
       - euphrosyne
       - mon-entreprise
-startups:
-  - mon-entreprise
-  - euphrosyne
 ---

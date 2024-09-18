@@ -10,6 +10,4 @@ missions:
     employer: DGAC
     startups:
       - auvol
-startups:
-  - auvol
 ---

@@ -10,7 +10,5 @@ missions:
     employer: DINUM / DRIEETS IDF
     startups:
       - enfants-du-spectacle
-startups:
-  - enfants-du-spectacle
 ---
 Product Owner

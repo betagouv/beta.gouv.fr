@@ -10,8 +10,6 @@ missions:
     employer: Agglomération de Pau Béarn Pyrénées
     startups:
       - histologe
-startups:
-  - histologe
 competences:
   - UI
   - Développement Frontend

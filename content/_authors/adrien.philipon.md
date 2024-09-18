@@ -9,7 +9,5 @@ missions:
     employer: DGALN
     startups:
       - accesscite
-startups:
-  - accesscite
 memberType: beta
 ---

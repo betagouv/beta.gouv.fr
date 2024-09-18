@@ -10,8 +10,5 @@ missions:
     startups:
       - mpal
       - pix
-startups:
-  - pix
-  - mpal
 ---
 Newbie Ruby on Rails ;)

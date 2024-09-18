@@ -10,7 +10,5 @@ missions:
     employer: DGCCRF
     startups:
       - signalement
-startups:
-  - signalement
 memberType: autre
 ---

@@ -9,7 +9,5 @@ missions:
     employer: Ministère de l&#x27;Économie et des Finances
     startups:
       - signaux-faibles
-startups:
-  - signaux-faibles
 memberType: beta
 ---

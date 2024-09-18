@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - l-immersion-facile
-startups:
-  - l-immersion-facile
 ---

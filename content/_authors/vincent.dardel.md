@@ -10,6 +10,4 @@ missions:
     status: independent
     startups:
       - mrs
-startups:
-  - mrs
 ---

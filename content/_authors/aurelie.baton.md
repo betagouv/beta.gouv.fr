@@ -9,8 +9,6 @@ missions:
     employer: Fairness
     startups:
       - dialogue
-startups:
-  - dialogue
 link: https://www.linkedin.com/in/aureliebaton/
 competences:
   - UX

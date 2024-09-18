@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - tchap
-startups:
-  - tchap
 memberType: beta
 previously:
   - tchap

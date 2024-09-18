@@ -10,8 +10,6 @@ missions:
     employer: LBC
     startups:
       - romin
-startups:
-  - romin
 memberType: beta
 incubator: justice
 competences:

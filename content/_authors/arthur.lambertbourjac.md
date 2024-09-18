@@ -10,8 +10,6 @@ missions:
     employer: OCTO Technology
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 competences: []
 ---
 Du craft, à manger et du fun.

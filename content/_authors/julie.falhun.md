@@ -10,7 +10,5 @@ missions:
     employer: Octo
     startups:
       - les-emplois
-startups:
-  - les-emplois
 ---
 Experte en marketing et communication digitale, fan de dinos 🦖

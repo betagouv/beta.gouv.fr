@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - envergo
-startups:
-  - envergo
 previously:
   - aides-territoires
 ---

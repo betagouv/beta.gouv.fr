@@ -8,6 +8,4 @@ missions:
     status: service
     startups:
       - la-bonne-alternance
-startups:
-  - la-bonne-alternance
 ---

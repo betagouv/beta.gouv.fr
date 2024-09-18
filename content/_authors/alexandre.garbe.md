@@ -10,7 +10,5 @@ missions:
     employer: OPTEAMIS
     startups:
       - reva
-startups:
-  - reva
 competences: []
 ---

@@ -9,7 +9,5 @@ missions:
     employer: OCTO
     startups:
       - monstage
-startups:
-  - monstage
 ---
 Designer

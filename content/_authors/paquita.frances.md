@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - reva
-startups:
-  - reva
 badges:
   - segur
 competences:

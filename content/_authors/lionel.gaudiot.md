@@ -10,7 +10,5 @@ missions:
     employer: Institut national de l'information géographique et forestière (IGN)
     startups:
       - mission.debroussaillement
-startups:
-  - mission.debroussaillement
 ---
 Directeur territorial adjoint sud-est IGN (couteau suisse) Traileur amateur

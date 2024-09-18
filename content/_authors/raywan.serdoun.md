@@ -9,7 +9,5 @@ missions:
     startups:
       - données-et-territoires
       - mon.espace.collectivite
-startups:
-  - données-et-territoires
 memberType: beta
 ---

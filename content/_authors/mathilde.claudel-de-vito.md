@@ -9,7 +9,5 @@ missions:
     employer: Cour d'appel de Nancy
     startups:
       - experts
-startups:
-  - experts
 competences: []
 ---

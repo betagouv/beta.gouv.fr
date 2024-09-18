@@ -10,8 +10,6 @@ missions:
     employer: DINUM
     startups:
       - rdv.insertion
-startups:
-  - rdv.insertion
 badges:
   - segur
 ---

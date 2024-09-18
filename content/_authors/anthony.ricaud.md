@@ -11,7 +11,5 @@ missions:
     employer: Malt
     startups:
       - sppnaut
-startups:
-  - sppnaut
 ---
 Développeur full-stack

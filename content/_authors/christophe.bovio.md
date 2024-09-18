@@ -9,7 +9,5 @@ missions:
     employer: Agglomération de Pau Béarn Pyrénées
     startups:
       - idquart
-startups:
-  - idquart
 previously: []
 ---

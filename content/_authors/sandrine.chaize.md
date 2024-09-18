@@ -9,6 +9,4 @@ missions:
     employer: Pôle Emploi DSI
     startups:
       - estime
-startups:
-  - estime
 ---

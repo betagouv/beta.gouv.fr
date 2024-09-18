@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - envergo
-startups:
-  - envergo
 memberType: beta
 ---
 Transforme la data en accélérateur de développement

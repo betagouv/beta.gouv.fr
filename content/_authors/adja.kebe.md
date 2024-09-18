@@ -10,8 +10,6 @@ missions:
     employer: Path Tech
     startups:
       - mobilic
-startups:
-  - mobilic
 badges:
   - segur
 ---

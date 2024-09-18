@@ -8,6 +8,4 @@ missions:
     status: independent
     startups:
       - e-mjpm
-startups:
-  - e-mjpm
 ---

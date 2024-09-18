@@ -11,7 +11,5 @@ missions:
     employer: PathTech
     startups:
       - mobilic
-startups:
-  - mobilic
 memberType: beta
 ---

@@ -9,7 +9,5 @@ missions:
     employer: Ground
     startups:
       - partaj
-startups:
-  - partaj
 memberType: beta
 ---

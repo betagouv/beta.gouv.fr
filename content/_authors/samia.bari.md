@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - travailler.en.france
-startups:
-  - travailler.en.france
 memberType: beta
 ---

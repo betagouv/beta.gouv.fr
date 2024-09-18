@@ -20,12 +20,6 @@ missions:
       - mon.espace.collectivite
       - nosgestesclimat
       - signalement
-startups:
-  - chauffage-urbain
-  - conseillers-entreprises
-  - signalement
-  - mediature
-  - lannuaire.des.collectivites
 previously:
   - aides-territoires
   - jeveuxaider

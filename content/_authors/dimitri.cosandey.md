@@ -8,6 +8,4 @@ missions:
     status: admin
     startups:
       - resorption-bidonvilles
-startups:
-  - resorption-bidonvilles
 ---

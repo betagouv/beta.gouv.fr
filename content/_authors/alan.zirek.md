@@ -10,8 +10,6 @@ missions:
     employer: LittleBig Connection
     startups:
       - seves
-startups:
-  - seves
 memberType: beta
 link: https://www.linkedin.com/in/alan-zirek/
 competences:

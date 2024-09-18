@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - suite.territoriale
-startups:
-  - suite.territoriale
 memberType: beta
 competences:
   - Développement Full-stack

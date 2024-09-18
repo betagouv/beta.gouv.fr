@@ -9,6 +9,4 @@ missions:
     employer: Orange Consulting
     startups:
       - mobiville
-startups:
-  - mobiville
 ---

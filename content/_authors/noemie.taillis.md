@@ -11,11 +11,6 @@ missions:
       - monsuivipsy
       - ozensemble
       - reva
-startups:
-  - ozensemble
-  - bpco
-  - monsuivipsy
-  - reva
 previously:
   - snu
 ---

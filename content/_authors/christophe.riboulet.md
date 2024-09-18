@@ -9,6 +9,4 @@ missions:
     employer: Ministère de la Transition Ecologique et Solidaire
     startups:
       - filharmonic
-startups:
-  - filharmonic
 ---

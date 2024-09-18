@@ -11,8 +11,6 @@ missions:
     employer: Le Gratin
     startups:
       - egalite.professionnelle
-startups:
-  - egalite.professionnelle
 memberType: beta
 competences: []
 ---

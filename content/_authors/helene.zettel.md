@@ -9,6 +9,4 @@ missions:
     employer: Ministère de la Culture
     startups:
       - locadocs
-startups:
-  - locadocs
 ---

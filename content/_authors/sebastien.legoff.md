@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - ozensemble
-startups:
-  - ozensemble
 previously:
   - pop
   - eac

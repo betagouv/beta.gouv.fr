@@ -9,7 +9,5 @@ missions:
     employer: Ministère de la Culture
     startups:
       - pass-culture
-startups:
-  - pass-culture
 ---
 Écrit des autobiographies percutantes en moins de 200 caractères depuis 1992.

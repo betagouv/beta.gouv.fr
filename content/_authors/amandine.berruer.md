@@ -9,8 +9,6 @@ missions:
     startups:
       - partaj
 memberType: beta
-startups:
-  - partaj
 competences:
   - Administration Publique
 ---

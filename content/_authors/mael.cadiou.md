@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - anct-pni-46
-startups:
-  - anct-pni-46
 memberType: beta
 ---
 Développeur le jour, joueur de piano  la nuit

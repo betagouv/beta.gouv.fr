@@ -12,9 +12,6 @@ missions:
       - api.apprentissage
       - boite.aux.lettres
 memberType: beta
-startups:
-  - boite.aux.lettres
-  - api.apprentissage
 competences:
   - Administration Système
   - JavaScript/TypeScript

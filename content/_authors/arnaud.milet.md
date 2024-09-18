@@ -11,7 +11,5 @@ missions:
     startups:
       - exposition-ij
       - investigation-ij
-startups:
-  - exposition-ij
 memberType: beta
 ---

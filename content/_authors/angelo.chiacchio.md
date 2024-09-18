@@ -11,7 +11,5 @@ missions:
     employer: Nodesign.net
     startups:
       - tchap
-startups:
-  - tchap
 ---
 Designer numérique et associé chez NoDesign.

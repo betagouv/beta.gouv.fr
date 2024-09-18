@@ -9,6 +9,4 @@ missions:
     employer: La caisse des dépôts
     startups:
       - france-numerique-ensemble
-startups:
-  - france-numerique-ensemble
 ---

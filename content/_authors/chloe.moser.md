@@ -11,8 +11,6 @@ missions:
     employer: Ministère de la culture
     startups:
       - archifiltre
-startups:
-  - archifiltre
 competences:
   - Administration Publique
 ---

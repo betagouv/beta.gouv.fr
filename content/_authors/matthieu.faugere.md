@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - mon-suivi-justice
-startups:
-  - mon-suivi-justice
 competences: []
 ---
 Dev full stack passionné de nfl

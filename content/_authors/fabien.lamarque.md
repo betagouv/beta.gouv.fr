@@ -11,8 +11,6 @@ missions:
     employer: Omnicite
     startups:
       - oots.once-only.technical.system
-startups:
-  - oots.once-only.technical.system
 memberType: beta
 ---
 Développeur le jour, papa la nuit. Musicien punk et couturier.

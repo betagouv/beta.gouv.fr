@@ -10,8 +10,6 @@ missions:
     employer: Numéricité
     startups:
       - tumeplay
-startups:
-  - tumeplay
 memberType: beta
 ---
 Développeur web et mobile @Numéricité

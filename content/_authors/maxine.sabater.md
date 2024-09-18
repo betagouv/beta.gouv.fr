@@ -10,8 +10,6 @@ missions:
     employer: ADEME
     startups:
       - impact.co2
-startups:
-  - impact.co2
 previously:
   - datagir
   - faritas

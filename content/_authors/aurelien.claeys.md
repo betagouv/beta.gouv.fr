@@ -15,6 +15,4 @@ badges:
 competences:
   - Administration Publique
   - Gestion de Produit
-startups:
-  - portail-rse
 ---

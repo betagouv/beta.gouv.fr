@@ -10,8 +10,6 @@ missions:
     employer: Pole emploi
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 previously:
   - estime
   - mes-evenements-emploi

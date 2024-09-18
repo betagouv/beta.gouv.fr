@@ -11,8 +11,6 @@ missions:
     employer: Scopyleft
     startups:
       - umap
-startups:
-  - umap
 memberType: autre
 ---
 Développeur intéressé par les dynamiques collectives, les libertés numériques et la facilitation.

@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - aplus
-startups:
-  - aplus
 competences:
   - Développement Backend
   - Développement Frontend

@@ -9,6 +9,4 @@ missions:
     startups:
       - expresso
 memberType: autre
-startups:
-  - expresso
 ---

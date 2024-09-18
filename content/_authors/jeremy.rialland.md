@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - mon-entreprise
-startups:
-  - mon-entreprise
 badges:
   - segur
 ---

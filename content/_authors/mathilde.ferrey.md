@@ -10,7 +10,5 @@ missions:
     employer: DINUM
     startups:
       - vues-immersives-libres
-startups:
-  - vues-immersives-libres
 memberType: beta
 ---

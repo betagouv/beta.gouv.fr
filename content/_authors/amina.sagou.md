@@ -8,8 +8,6 @@ missions:
     status: independent
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
 badges:
   - segur
 ---

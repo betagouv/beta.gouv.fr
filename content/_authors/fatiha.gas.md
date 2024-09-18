@@ -8,6 +8,4 @@ missions:
     status: admin
     startups:
       - mon-suivi-justice
-startups:
-  - mon-suivi-justice
 ---

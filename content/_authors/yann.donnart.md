@@ -9,8 +9,6 @@ missions:
     employer: IGN
     startups:
       - ban
-startups:
-  - ban
 memberType: beta
 ---
 Nantaisbreton, marin, cartographe et accessoirement IGN !

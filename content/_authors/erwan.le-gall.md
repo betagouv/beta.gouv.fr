@@ -9,6 +9,4 @@ missions:
     employer: MEAE
     startups:
       - bourses.scolaires
-startups:
-  - bourses.scolaires
 ---

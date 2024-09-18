@@ -10,8 +10,6 @@ missions:
     employer: MALT
     startups:
       - pop
-startups:
-  - pop
 memberType: beta
 ---
 DEV

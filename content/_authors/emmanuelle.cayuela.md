@@ -9,8 +9,6 @@ missions:
     employer: DISP Marseille
     startups:
       - themis
-startups:
-  - themis
 badges:
   - segur
 ---

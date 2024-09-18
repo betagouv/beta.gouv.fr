@@ -14,6 +14,4 @@ competences:
 memberType: beta
 fullname: Florent FAYOLLE
 role: Développeur
-startups:
-  - données-et-territoires
 ---

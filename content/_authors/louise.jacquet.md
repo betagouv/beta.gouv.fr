@@ -9,8 +9,6 @@ missions:
     employer: Opteamis
     startups:
       - reva
-startups:
-  - reva
 memberType: beta
 ---
 Product designer

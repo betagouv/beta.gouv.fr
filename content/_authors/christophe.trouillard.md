@@ -9,8 +9,6 @@ missions:
     employer: DRJSCS HdF
     startups:
       - aidess
-startups:
-  - aidess
 competences:
   - Administration Publique
 ---

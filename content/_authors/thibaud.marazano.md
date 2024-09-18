@@ -11,8 +11,6 @@ missions:
     employer: Omnicité La Zone
     startups:
       - homologation
-startups:
-  - homologation
 memberType: beta
 ---
 Développeur le jour, musicien la nuit.

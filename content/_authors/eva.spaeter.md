@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - datapass
-startups:
-  - datapass
 memberType: beta
 competences: []
 ---

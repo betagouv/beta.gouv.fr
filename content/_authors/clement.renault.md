@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - aides-territoires
-startups:
-  - aides-territoires
 ---

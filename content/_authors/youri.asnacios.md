@@ -10,7 +10,5 @@ missions:
     employer: dnum
     startups:
       - monitorfish
-startups:
-  - monitorfish
 memberType: beta
 ---

@@ -9,8 +9,6 @@ missions:
     employer: pole-emploi
     startups:
       - les-emplois
-startups:
-  - les-emplois
 previously:
   - la-bonne-boite
   - memo

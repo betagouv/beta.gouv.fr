@@ -10,9 +10,6 @@ missions:
     startups:
       - aidantsconnect
       - apilos
-startups:
-  - aidantsconnect
-  - apilos
 memberType: beta
 ---
 Chargée de support logistique pour vous servir :)

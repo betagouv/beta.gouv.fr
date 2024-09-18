@@ -9,7 +9,5 @@ missions:
     status: admin
     startups:
       - e-controle
-startups:
-  - e-controle
 ---
 J'aime les chats et les sushis.

@@ -10,8 +10,6 @@ missions:
     employer: DINUM
     startups:
       - zero-logement-vacant
-startups:
-  - zero-logement-vacant
 memberType: beta
 ---
 Intrapreneuse sur Zero Logement Vacant, spécialiste logement au ministère de la transition écologique et data_autodidacte

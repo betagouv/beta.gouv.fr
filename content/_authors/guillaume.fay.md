@@ -10,10 +10,8 @@ missions:
     status: independent
     employer: DINUM
     startups:
+      - ban
       - bases.adresses.locales
-startups:
-  - ban
-  - bases.adresses.locales
 memberType: beta
 competences:
   - Développement Full-stack

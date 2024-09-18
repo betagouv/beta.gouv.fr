@@ -9,8 +9,6 @@ missions:
     employer: independent/Malt
     startups:
       - aidantsconnect
-startups:
-  - aidantsconnect
 competences:
   - Croissance
   - Communication

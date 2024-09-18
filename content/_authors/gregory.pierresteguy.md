@@ -9,6 +9,4 @@ missions:
     employer: Direction des affaires juridiques — MTES
     startups:
       - partaj
-startups:
-  - partaj
 ---

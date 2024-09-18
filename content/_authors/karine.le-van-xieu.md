@@ -9,6 +9,4 @@ missions:
     employer: Ministère de l'Europe et des Affaires étrangères.
     startups:
       - rdv.consulat
-startups:
-  - rdv.consulat
 ---

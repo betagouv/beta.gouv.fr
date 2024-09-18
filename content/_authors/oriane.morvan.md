@@ -9,8 +9,6 @@ missions:
     employer: OCTO
     startups:
       - enfants-du-spectacle
-startups:
-  - enfants-du-spectacle
 badges:
   - segur
 ---

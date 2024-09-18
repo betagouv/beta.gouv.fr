@@ -9,6 +9,4 @@ missions:
     employer: minarm
     startups:
       - e-chauffeur
-startups:
-  - e-chauffeur
 ---

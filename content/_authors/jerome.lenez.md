@@ -11,9 +11,6 @@ missions:
     startups:
       - athena
       - reva
-startups:
-  - athena
-  - reva
 competences:
   - Gestion de Produit
 previously:

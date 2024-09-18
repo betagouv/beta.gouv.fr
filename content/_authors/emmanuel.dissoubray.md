@@ -10,8 +10,6 @@ missions:
     employer: Ademe
     startups:
       - pacoupa
-startups:
-  - pacoupa
 memberType: beta
 competences: []
 ---

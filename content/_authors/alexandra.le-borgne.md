@@ -14,10 +14,6 @@ missions:
       - mesads
       - otelo
       - scienceinfuse
-startups:
-  - mesads
-  - le-taxi
-  - scienceinfuse
 previously:
   - culturecheznous
 competences: []

@@ -10,6 +10,4 @@ missions:
     employer: DNUM des Ministères Sociaux
     startups:
       - aides.jeunes
-startups:
-  - aides.jeunes
 ---

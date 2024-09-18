@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - pass-sport
-startups:
-  - pass-sport
 memberType: beta
 ---

@@ -9,7 +9,5 @@ missions:
     employer: OCTO
     startups:
       - pass-culture
-startups:
-  - pass-culture
 ---
 Delivery Manager et Product Manager

@@ -12,8 +12,6 @@ missions:
     startups:
       - faritas
       - snu
-startups:
-  - snu
 memberType: beta
 competences: []
 ---

@@ -8,7 +8,5 @@ missions:
     status: service
     startups:
       - rapportnav
-startups:
-  - rapportnav
 memberType: attributaire
 ---

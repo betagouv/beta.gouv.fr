@@ -9,8 +9,6 @@ missions:
     employer: Opteamis
     startups:
       - codedutravail
-startups:
-  - codedutravail
 competences:
   - Développement Backend
   - Développement Frontend

@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - mon-suivi-justice
-startups:
-  - mon-suivi-justice
 memberType: autre
 ---
 Amateur de montagne, nature et parfois de data

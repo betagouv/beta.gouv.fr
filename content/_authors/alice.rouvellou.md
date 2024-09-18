@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - peps
-startups:
-  - peps
 badges:
   - segur
 ---

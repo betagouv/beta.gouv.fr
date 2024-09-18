@@ -11,7 +11,5 @@ missions:
     employer: Le Collectif
     startups:
       - snu
-startups:
-  - snu
 competences: []
 ---

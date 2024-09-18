@@ -9,6 +9,4 @@ missions:
     employer: direccte
     startups:
       - conseillers-entreprises
-startups:
-  - conseillers-entreprises
 ---

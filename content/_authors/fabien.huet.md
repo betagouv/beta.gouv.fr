@@ -10,6 +10,4 @@ missions:
     employer: /ut7
     startups:
       - locadocs
-startups:
-  - locadocs
 ---

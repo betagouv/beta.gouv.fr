@@ -9,8 +9,6 @@ missions:
     employer: DRIEAT
     startups:
       - chauffage-urbain
-startups:
-  - chauffage-urbain
 badges:
   - segur
 ---

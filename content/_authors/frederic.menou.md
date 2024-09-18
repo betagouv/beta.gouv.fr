@@ -10,7 +10,5 @@ missions:
     status: independent
     startups:
       - transport
-startups:
-  - transport
 memberType: beta
 ---

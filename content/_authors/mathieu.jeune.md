@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - mon.espace.collectivite
-startups:
-  - mon.espace.collectivite
 memberType: beta
 ---

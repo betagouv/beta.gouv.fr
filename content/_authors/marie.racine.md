@@ -9,8 +9,6 @@ missions:
     employer: ADEME
     startups:
       - plusfraichemaville
-startups:
-  - plusfraichemaville
 memberType: autre
 ---
 Apprentie urbaniste au pôle aménagement des villes et territoires de l'Ademe

@@ -11,7 +11,5 @@ missions:
     startups:
       - suite-numerique
       - suite.territoriale
-startups:
-  - suite.territoriale
 memberType: beta
 ---

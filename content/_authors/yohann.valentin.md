@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - transition-ecologique-des-entreprises
-startups:
-  - transition-ecologique-des-entreprises
 memberType: beta
 competences:
   - Développement Full-stack

@@ -9,8 +9,6 @@ missions:
     employer: MALT
     startups:
       - conseillers-entreprises
-startups:
-  - conseillers-entreprises
 memberType: beta
 ---
 chargée de suivi qualité / bizdev

@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - docurba
-startups:
-  - docurba
 competences:
   - Administration Publique
 ---

@@ -9,6 +9,4 @@ missions:
     employer: Malt
     startups:
       - a-just
-startups:
-  - a-just
 ---

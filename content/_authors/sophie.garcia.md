@@ -11,10 +11,6 @@ missions:
       - dora
       - la.communaute.de.linclusion
       - les-emplois
-startups:
-  - les-emplois
-  - la.communaute.de.linclusion
-  - dora
 previously:
   - place-de-marche-inclusion
 competences:

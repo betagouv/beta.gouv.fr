@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - oilhi
-startups:
-  - oilhi
 ---
 Développeur No-Code, Growth

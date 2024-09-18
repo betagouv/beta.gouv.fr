@@ -9,8 +9,6 @@ missions:
     employer: Pole emploi
     startups:
       - la-bonne-boite
-startups:
-  - la-bonne-boite
 competences:
   - Gestion de Produit
 ---

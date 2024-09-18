@@ -10,6 +10,4 @@ missions:
     employer: Codeurs en Liberté
     startups:
       - demarches-simplifiees.fr
-startups:
-  - demarches-simplifiees.fr
 ---

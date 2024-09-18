@@ -10,7 +10,5 @@ missions:
     employer: Ministère de l'Économie
     startups:
       - conseillers-entreprises
-startups:
-  - conseillers-entreprises
 competences: []
 ---

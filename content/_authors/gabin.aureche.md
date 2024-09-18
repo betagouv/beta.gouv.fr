@@ -11,6 +11,4 @@ missions:
     employer: Fabrique Numérique du Ministère de l'Ecologie
     startups:
       - trackdechets
-startups:
-  - trackdechets
 ---

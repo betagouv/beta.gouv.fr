@@ -9,8 +9,6 @@ missions:
     employer: Haut-commissariat à l'emploi et à l'engagement des entreprises
     startups:
       - pass.engagement.jeune
-startups:
-  - pass.engagement.jeune
 badges:
   - segur
 competences:

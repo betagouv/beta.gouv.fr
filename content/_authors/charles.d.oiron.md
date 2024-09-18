@@ -11,7 +11,5 @@ missions:
     employer: fabrique
     startups:
       - recosante
-startups:
-  - recosante
 memberType: beta
 ---

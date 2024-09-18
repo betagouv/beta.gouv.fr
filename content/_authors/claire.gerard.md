@@ -15,7 +15,5 @@ missions:
     employer: Malt
     startups:
       - mesaidesreno
-startups:
-  - reva
 ---
 UX/UI/designer

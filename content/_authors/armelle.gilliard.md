@@ -10,7 +10,5 @@ missions:
     employer: octo
     startups:
       - aidantsconnect
-startups:
-  - aidantsconnect
 ---
 Open Data, gouvernance et culture des données.

@@ -9,6 +9,4 @@ missions:
     employer: SNUM
     startups:
       - resorption-bidonvilles
-startups:
-  - resorption-bidonvilles
 ---

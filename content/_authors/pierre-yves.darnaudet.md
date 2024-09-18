@@ -10,6 +10,4 @@ missions:
     employer: ARS Occitanie
     startups:
       - tremplin
-startups:
-  - tremplin
 ---

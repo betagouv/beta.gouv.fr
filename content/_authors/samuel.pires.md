@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - archifiltre
-startups:
-  - archifiltre
 memberType: beta
 ---
 Product manager

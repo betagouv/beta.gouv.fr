@@ -9,8 +9,6 @@ missions:
     employer: DINUM
     startups:
       - api-engagement
-startups:
-  - api-engagement
 memberType: beta
 competences:
   - Product strategy

@@ -10,7 +10,5 @@ missions:
     employer: Codeurs en Liberté
     startups:
       - transport
-startups:
-  - transport
 ---
 Stagiaire étudiant à l'ESIEA, sportif à mi-temps et intéressé par la cyber-sécurité.

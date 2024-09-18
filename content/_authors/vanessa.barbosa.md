@@ -9,8 +9,6 @@ missions:
     status: admin
     startups:
       - mon-suivi-social
-startups:
-  - mon-suivi-social
 competences:
   - Intrapreneur(se)
 ---

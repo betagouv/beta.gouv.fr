@@ -10,8 +10,6 @@ missions:
     employer: Benext
     startups:
       - reva
-startups:
-  - reva
 competences:
   - UX
   - UI

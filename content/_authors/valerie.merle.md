@@ -9,6 +9,4 @@ missions:
     status: admin
     startups:
       - ma-cantine-egalim
-startups:
-  - ma-cantine-egalim
 ---

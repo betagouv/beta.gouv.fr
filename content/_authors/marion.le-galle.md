@@ -12,10 +12,5 @@ missions:
       - labonneplace
       - mes.aides.a.lembauche
       - polex
-startups:
-  - clara
-  - labonneplace
-  - polex
-  - mes.aides.a.lembauche
 ---
 Agent à la DSI de Nantes - Incubateur Startup Pôle emploi Design graphique & Thinking. Worshops, conception Users experiences. “Fail often, fail fast,” ― Donald A. Norman

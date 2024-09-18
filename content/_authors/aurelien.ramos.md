@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - plante-et-moi
-startups:
-  - plante-et-moi
 ---
 Paysagiste et doctorant, militant pour le jardinage dans la rue

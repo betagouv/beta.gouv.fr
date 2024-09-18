@@ -10,6 +10,4 @@ missions:
     employer: Arolla
     startups:
       - voir-et-localiser
-startups:
-  - voir-et-localiser
 ---

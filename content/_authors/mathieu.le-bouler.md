@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - romin
-startups:
-  - romin
 incubator: justice
 github: MathieuLB44
 link: https://www.linkedin.com/in/mathieu-le-bouler-4613a61a1

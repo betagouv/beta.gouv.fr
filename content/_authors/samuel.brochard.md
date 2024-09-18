@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - accesscite
-startups:
-  - accesscite
 badges:
   - segur
 previously:

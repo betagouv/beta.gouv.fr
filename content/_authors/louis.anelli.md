@@ -14,11 +14,6 @@ missions:
       - e-chauffeur
       - les-alpps
       - octopus
-startups:
-  - civils-de-la-defense
-  - e-chauffeur
-  - octopus
-  - les-alpps
 previously: []
 competences:
   - Administration Système

@@ -10,7 +10,5 @@ missions:
     employer: Malt
     startups:
       - versementgetorix
-startups:
-  - versementgetorix
 memberType: beta
 ---

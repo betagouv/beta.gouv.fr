@@ -9,8 +9,6 @@ missions:
     employer: UT7
     startups:
       - collectif_objets
-startups:
-  - collectif_objets
 memberType: beta
 competences: []
 ---

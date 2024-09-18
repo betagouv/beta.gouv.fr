@@ -11,8 +11,5 @@ missions:
     startups:
       - perspectives
       - zen
-startups:
-  - zen
-  - perspectives
 ---
 J'accompagne des intrapreneurs et des product managers.

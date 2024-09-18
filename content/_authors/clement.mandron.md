@@ -10,8 +10,6 @@ missions:
     status: service
     startups:
       - mon-diagnostic-artificialisation
-startups:
-  - mon-diagnostic-artificialisation
 memberType: beta
 ---
 Accélérateur d'ouverture des données

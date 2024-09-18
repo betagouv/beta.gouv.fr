@@ -11,7 +11,5 @@ missions:
     status: independent
     startups:
       - mes-aides
-startups:
-  - mes-aides
 ---
 Infiltrée Latitudes. <3

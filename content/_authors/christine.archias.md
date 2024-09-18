@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - zones.irriguees.et.irrigables
-startups:
-  - zones.irriguees.et.irrigables
 memberType: autre
 ---

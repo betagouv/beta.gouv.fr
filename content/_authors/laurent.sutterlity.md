@@ -11,7 +11,5 @@ missions:
     employer: Octo
     startups:
       - egalite.professionnelle
-startups:
-  - egalite.professionnelle
 ---
 Développeur front-end & Product designer.

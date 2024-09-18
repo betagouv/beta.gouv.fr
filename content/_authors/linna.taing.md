@@ -15,12 +15,6 @@ missions:
       - octopus
       - osirispn
       - usine-chatbots
-startups:
-  - usine-chatbots
-  - les-alpps
-  - octopus
-  - osirispn
-  - airvam
 previously:
   - eoliennes
   - smart-remisage

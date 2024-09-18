@@ -11,8 +11,6 @@ missions:
     employer: La Zone - Scopyleft
     startups:
       - ma-cantine-egalim
-startups:
-  - ma-cantine-egalim
 memberType: beta
 ---
 Data Engineer  Associé chez multi.coop

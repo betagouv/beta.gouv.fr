@@ -9,8 +9,6 @@ missions:
     employer: MALT / ANCT
     startups:
       - france-numerique-ensemble
-startups:
-  - france-numerique-ensemble
 memberType: beta
 ---
 PO

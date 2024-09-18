@@ -10,7 +10,5 @@ missions:
     status: service
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 ---
 Développeuse Full Stack

@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - vues-immersives-libres
-startups:
-  - vues-immersives-libres
 memberType: beta
 ---
 UXUI designer senior

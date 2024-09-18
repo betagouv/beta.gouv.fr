@@ -9,6 +9,4 @@ missions:
     employer: Octo
     startups:
       - potentiel
-startups:
-  - potentiel
 ---

@@ -14,11 +14,6 @@ missions:
       - fedel
       - psij
       - urgencevie
-startups:
-  - urgencevie
-  - fedel
-  - psij
-  - dialogue.operationnel
 previously:
   - histovec
   - polex

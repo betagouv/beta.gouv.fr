@@ -9,7 +9,5 @@ missions:
     employer: département du Pas-de-Calais
     startups:
       - sur-la-route
-startups:
-  - sur-la-route
 previously: []
 ---

@@ -11,8 +11,6 @@ missions:
     employer: scopopop
     startups:
       - demarches-simplifiees.fr
-startups:
-  - demarches-simplifiees.fr
 memberType: autre
 competences:
   - Accessibilité

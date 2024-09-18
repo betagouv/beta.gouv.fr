@@ -9,7 +9,5 @@ missions:
     status: service
     startups:
       - diagoriente
-startups:
-  - diagoriente
 memberType: beta
 ---

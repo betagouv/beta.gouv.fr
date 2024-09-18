@@ -11,7 +11,5 @@ missions:
     employer: OCTO
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
 ---
 Plume de la Reserve Civique !

@@ -9,8 +9,6 @@ missions:
     status: admin
     startups:
       - attractivite.des.territoires
-startups:
-  - attractivite.des.territoires
 competences:
   - Administration Publique
 ---

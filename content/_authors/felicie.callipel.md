@@ -9,6 +9,4 @@ missions:
     employer: Ministère de la Justice
     startups:
       - mon-suivi-justice
-startups:
-  - mon-suivi-justice
 ---

@@ -10,7 +10,5 @@ missions:
     employer: Malt
     startups:
       - trackdechets
-startups:
-  - trackdechets
 ---
 Développeur fullstack et vice-champion de France de course en sac

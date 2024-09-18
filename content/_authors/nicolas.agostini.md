@@ -9,7 +9,5 @@ missions:
     employer: minarm
     startups:
       - civils-de-la-defense
-startups:
-  - civils-de-la-defense
 ---
 Observe, assimile et innove...

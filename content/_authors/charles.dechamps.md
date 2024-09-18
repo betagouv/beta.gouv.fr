@@ -10,7 +10,5 @@ missions:
     employer: GIP Plateforme de l'inclusion
     startups:
       - carnet.de.bord
-startups:
-  - carnet.de.bord
 memberType: beta
 ---

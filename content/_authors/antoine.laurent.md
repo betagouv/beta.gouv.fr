@@ -11,9 +11,6 @@ missions:
     startups:
       - inclusion.connect
       - les-emplois
-startups:
-  - les-emplois
-  - inclusion.connect
 competences:
   - Développement Backend
 ---

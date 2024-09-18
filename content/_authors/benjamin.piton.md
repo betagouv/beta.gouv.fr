@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - reglementations.en.foret
-startups:
-  - reglementations.en.foret
 ---
 Sujets forêt à l'Institut national de l'information géographique et forestière

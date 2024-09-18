@@ -10,6 +10,4 @@ missions:
     employer: CGI
     startups:
       - proconnect
-startups:
-  - proconnect
 ---

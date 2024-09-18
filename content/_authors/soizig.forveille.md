@@ -10,8 +10,6 @@ missions:
     employer: Opteamis
     startups:
       - reva
-startups:
-  - reva
 memberType: beta
 ---
 Designer UXUI

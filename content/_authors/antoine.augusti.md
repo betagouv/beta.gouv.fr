@@ -11,8 +11,5 @@ missions:
     startups:
       - notifications
       - transport
-startups:
-  - transport
-  - notifications
 ---
 Politiques publiques, humains, code

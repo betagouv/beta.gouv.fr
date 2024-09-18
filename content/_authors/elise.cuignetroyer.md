@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - frise.cpip
-startups:
-  - frise.cpip
 ---
 In SPIP veritas

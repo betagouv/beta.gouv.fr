@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - compte.ressources
-startups:
-  - compte.ressources
 memberType: beta
 ---
 Intra Compte-ressources - Professeure documentaliste - Formatrice DANE Créteil

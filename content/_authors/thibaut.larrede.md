@@ -10,6 +10,4 @@ missions:
     employer: Ministère des Solidarités et de la Santé - Direction des finances, des achats et des services
     startups:
       - archifiltre
-startups:
-  - archifiltre
 ---

@@ -11,9 +11,6 @@ missions:
     startups:
       - data-inclusion
       - dora
-startups:
-  - data-inclusion
-  - dora
 memberType: autre
 competences:
   - Administration Publique

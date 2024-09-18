@@ -8,8 +8,6 @@ missions:
     status: independent
     startups:
       - snu
-startups:
-  - snu
 memberType: beta
 ---
 Marketeuse la majorité de la semaine et en préparation de concours administratifs les vendredis !

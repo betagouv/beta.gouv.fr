@@ -10,8 +10,6 @@ missions:
     employer: Octo
     startups:
       - codedutravail
-startups:
-  - codedutravail
 badges:
   - segur
 ---

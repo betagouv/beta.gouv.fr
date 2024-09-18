@@ -9,8 +9,6 @@ missions:
     employer: DINUM
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 memberType: beta
 link: https://www.linkedin.com/in/morgane-boudin/
 competences:

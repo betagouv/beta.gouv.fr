@@ -10,6 +10,4 @@ missions:
     employer: Octo technology
     startups:
       - aides-territoires
-startups:
-  - aides-territoires
 ---

@@ -9,6 +9,4 @@ missions:
     employer: Académie de Créteil
     startups:
       - classe-a-12
-startups:
-  - classe-a-12
 ---

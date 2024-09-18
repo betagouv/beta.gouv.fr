@@ -10,6 +10,4 @@ missions:
     employer: Octo Technology
     startups:
       - aidantsconnect
-startups:
-  - aidantsconnect
 ---

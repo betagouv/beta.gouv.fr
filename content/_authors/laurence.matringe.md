@@ -10,6 +10,4 @@ missions:
     startups:
       - cobot
 avatar: https://avatars3.githubusercontent.com/lamat92?s=600
-startups:
-  - cobot
 ---

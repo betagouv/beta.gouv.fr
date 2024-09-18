@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - dora
-startups:
-  - dora
 memberType: autre
 competences:
   - Développement Full-stack

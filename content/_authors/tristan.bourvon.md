@@ -11,6 +11,4 @@ missions:
     startups:
       - carte-verte
 memberType: beta
-startups:
-  - carte-verte
 ---

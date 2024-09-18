@@ -10,8 +10,6 @@ missions:
     employer: Scopyleft
     startups:
       - signaux-faibles
-startups:
-  - signaux-faibles
 badges:
   - segur
 ---

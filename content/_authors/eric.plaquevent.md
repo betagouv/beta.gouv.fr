@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - catalogue-apprentissage
-startups:
-  - catalogue-apprentissage
 ---

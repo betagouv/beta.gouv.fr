@@ -9,7 +9,5 @@ missions:
     employer: Département du Var
     startups:
       - accueil-telephonique-uts
-startups:
-  - accueil-telephonique-uts
 previously: []
 ---

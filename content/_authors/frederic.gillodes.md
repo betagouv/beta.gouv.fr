@@ -10,7 +10,4 @@ missions:
     startups:
       - candilib
       - polex
-startups:
-  - candilib
-  - polex
 ---

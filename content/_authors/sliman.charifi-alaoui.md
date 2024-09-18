@@ -9,8 +9,6 @@ missions:
     employer: POLE EMPLOI
     startups:
       - l-immersion-facile
-startups:
-  - l-immersion-facile
 memberType: beta
 ---
 Chargé de développement / immersion facilitée

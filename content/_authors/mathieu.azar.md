@@ -10,6 +10,4 @@ missions:
     employer: dinum
     startups:
       - preuve-de-covoiturage
-startups:
-  - preuve-de-covoiturage
 ---

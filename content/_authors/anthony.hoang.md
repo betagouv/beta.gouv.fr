@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - delta.v
-startups:
-  - delta.v
 memberType: beta
 ---
 Ancien géomètre reconverti développeur Web

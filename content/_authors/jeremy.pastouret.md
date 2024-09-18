@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - aides.jeunes
-startups:
-  - aides.jeunes
 memberType: beta
 link: https://www.linkedin.com/in/jeremy-pastouret/
 competences:

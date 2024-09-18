@@ -9,7 +9,5 @@ missions:
     employer: DGEC
     startups:
       - qualicharge
-startups:
-  - qualicharge
 ---
 Ingénieur énergie ET transport

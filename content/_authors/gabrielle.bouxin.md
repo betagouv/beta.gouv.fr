@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - snu
-startups:
-  - snu
 previously:
   - jeveuxaider
 competences:

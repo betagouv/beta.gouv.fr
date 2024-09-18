@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - inventaire.friches.agricoles
-startups:
-  - inventaire.friches.agricoles
 memberType: beta
 ---

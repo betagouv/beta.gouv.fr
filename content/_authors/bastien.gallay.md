@@ -11,8 +11,6 @@ missions:
     employer: Palo IT &#x2F; Omnicité
     startups:
       - nis2
-startups:
-  - nis2
 memberType: beta
 ---
 Je développe les applications, les produits et les personnes depuis Bordeaux

@@ -10,8 +10,6 @@ missions:
     employer: OCTO
     startups:
       - portail-rse
-startups:
-  - portail-rse
 badges:
   - segur
 previously:

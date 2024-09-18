@@ -9,7 +9,5 @@ missions:
     employer: Octo
     startups:
       - potentiel
-startups:
-  - potentiel
 ---
 Software/Coach Craftsman TDD, BDD et retrogaming addict

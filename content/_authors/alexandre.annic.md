@@ -11,8 +11,6 @@ missions:
     employer: octo
     startups:
       - signalement
-startups:
-  - signalement
 badges:
   - segur
 competences:

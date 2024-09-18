@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - transport
-startups:
-  - transport
 ---

@@ -11,8 +11,6 @@ missions:
     employer: Scopyleft
     startups:
       - mon-suivi-social
-startups:
-  - mon-suivi-social
 memberType: beta
 competences:
   - Développement Full-stack

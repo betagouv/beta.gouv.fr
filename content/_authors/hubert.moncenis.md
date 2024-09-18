@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - potentiel
-startups:
-  - potentiel
 link: https://hubbb.dev/
 competences:
   - Développement Full-stack

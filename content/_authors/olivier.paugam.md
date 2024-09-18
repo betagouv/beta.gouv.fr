@@ -9,8 +9,6 @@ missions:
     status: service
     startups:
       - themis
-startups:
-  - themis
 memberType: autre
 ---
 En toute intelligence collective

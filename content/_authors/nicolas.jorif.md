@@ -10,7 +10,5 @@ missions:
     employer: DINUM
     startups:
       - docurba
-startups:
-  - docurba
 memberType: dinum
 ---

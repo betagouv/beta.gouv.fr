@@ -9,7 +9,5 @@ missions:
     employer: affaires-sociales
     startups:
       - workinfrance
-startups:
-  - workinfrance
 ---
 Juriste, chargé d’études et européiste au sein du ministère du Travail. Co-porteur du projet WorkInFrance, paré au décollage !

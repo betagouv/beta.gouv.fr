@@ -9,8 +9,6 @@ missions:
     startups:
       - beges
 memberType: beta
-startups:
-  - beges
 competences:
   - Administration Publique
 ---

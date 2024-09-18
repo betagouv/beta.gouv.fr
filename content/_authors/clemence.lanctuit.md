@@ -10,9 +10,6 @@ missions:
       - api.apprentissage
       - tdb-apprentissage
 incubator: dinum
-startups:
-  - tdb-apprentissage
-  - api.apprentissage
 previously:
   - dematapprentissage
   - catalogue-apprentissage

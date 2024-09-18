@@ -9,7 +9,5 @@ missions:
     employer: DGALN
     startups:
       - vigieau
-startups:
-  - vigieau
 memberType: beta
 ---

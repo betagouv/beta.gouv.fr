@@ -9,7 +9,5 @@ missions:
     employer: La Zone
     startups:
       - nis2
-startups:
-  - nis2
 memberType: beta
 ---

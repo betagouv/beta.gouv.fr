@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - mon-suivi-justice
-startups:
-  - mon-suivi-justice
 previously:
   - aides.jeunes
   - rdv-service-public

@@ -11,7 +11,5 @@ missions:
     employer: Quanted Square
     startups:
       - docurba
-startups:
-  - docurba
 ---
 Web dev

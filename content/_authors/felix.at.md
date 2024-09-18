@@ -11,8 +11,6 @@ missions:
     employer: /ut7
     startups:
       - tdb-apprentissage
-startups:
-  - tdb-apprentissage
 memberType: beta
 previously:
   - tdb-apprentissage

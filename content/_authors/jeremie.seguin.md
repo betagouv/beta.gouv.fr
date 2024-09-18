@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - mon-diagnostic-artificialisation
-startups:
-  - mon-diagnostic-artificialisation
 memberType: beta
 previously:
   - mon-diagnostic-artificialisation

@@ -9,6 +9,4 @@ missions:
     employer: Numa
     startups:
       - mobilic
-startups:
-  - mobilic
 ---

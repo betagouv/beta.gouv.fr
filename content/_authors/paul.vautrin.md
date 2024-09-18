@@ -9,6 +9,4 @@ missions:
     employer: ministère de la Culture
     startups:
       - ellesfontlaculture
-startups:
-  - ellesfontlaculture
 ---

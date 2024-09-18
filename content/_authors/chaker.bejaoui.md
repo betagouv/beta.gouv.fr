@@ -12,9 +12,5 @@ missions:
       - civils-de-la-defense
       - e-chauffeur
       - sepia
-startups:
-  - civils-de-la-defense
-  - e-chauffeur
-  - sepia
 ---
 I love reading good & bad books, checking my RSS feeds, really fast WiFi and making people better. Peace.

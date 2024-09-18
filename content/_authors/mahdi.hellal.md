@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - diagoriente
-startups:
-  - diagoriente
 ---

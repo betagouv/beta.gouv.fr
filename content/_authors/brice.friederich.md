@@ -10,7 +10,5 @@ missions:
     employer: inops
     startups:
       - perspectives
-startups:
-  - perspectives
 ---
 Développeur sur Perspectives

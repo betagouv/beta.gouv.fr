@@ -11,8 +11,6 @@ missions:
     employer: ADEME
     startups:
       - territoires-en-transitions
-startups:
-  - territoires-en-transitions
 competences:
   - Administration Publique
 ---

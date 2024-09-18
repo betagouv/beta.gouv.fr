@@ -15,11 +15,6 @@ missions:
       - suite-numerique
 badges:
   - segur
-startups:
-  - moncomptepro
-  - annuaire-entreprises
-  - suite-numerique
-  - authentification
 previously:
   - data.gouv.fr
   - oots.once-only.technical.system

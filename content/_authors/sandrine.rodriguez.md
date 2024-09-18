@@ -10,7 +10,5 @@ missions:
     employer: DINUM
     startups:
       - talents.numeriques
-startups:
-  - talents.numeriques
 ---
 J'aime découvrir et expérimenter de nouvelles choses !

@@ -11,6 +11,4 @@ missions:
     employer: Malt
     startups:
       - camino
-startups:
-  - camino
 ---

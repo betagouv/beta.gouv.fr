@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - pilotagevoiepro
-startups:
-  - pilotagevoiepro
 memberType: beta
 ---
 Product designer le jour, entrepreneur la nuit

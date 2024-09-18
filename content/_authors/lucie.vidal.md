@@ -10,8 +10,6 @@ missions:
     employer: Pathteck
     startups:
       - ecobalyse
-startups:
-  - ecobalyse
 memberType: autre
 ---
 Designer

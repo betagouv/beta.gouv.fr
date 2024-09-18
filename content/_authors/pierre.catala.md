@@ -9,7 +9,5 @@ missions:
     status: admin
     startups:
       - monitorfish
-startups:
-  - monitorfish
 memberType: autre
 ---

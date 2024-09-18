@@ -10,8 +10,6 @@ missions:
     employer: SGDSN
     startups:
       - homologation
-startups:
-  - homologation
 badges:
   - segur
 competences:

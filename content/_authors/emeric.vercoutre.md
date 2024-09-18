@@ -9,6 +9,4 @@ missions:
     employer: MTES-MCT
     startups:
       - bati-amiante
-startups:
-  - bati-amiante
 ---

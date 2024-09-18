@@ -13,8 +13,6 @@ missions:
       - data-demineur
       - psij
       - re-ac-t
-startups:
-  - psij
 previously:
   - candilib
 competences:

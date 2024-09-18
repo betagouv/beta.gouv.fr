@@ -10,8 +10,6 @@ missions:
     employer: DGITM
     startups:
       - transport
-startups:
-  - transport
 memberType: dinum
 link: https://www.linkedin.com/in/jorge-gonzalez-suitt/
 competences: []

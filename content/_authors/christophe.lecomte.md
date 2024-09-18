@@ -9,8 +9,6 @@ missions:
     employer: OCTO
     startups:
       - conseillers-entreprises
-startups:
-  - conseillers-entreprises
 badges:
   - segur
 ---

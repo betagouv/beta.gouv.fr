@@ -10,8 +10,6 @@ missions:
     employer: LeGratin
     startups:
       - egalite.professionnelle
-startups:
-  - egalite.professionnelle
 memberType: beta
 ---
 Développeur fullstack avec une passion pour l'impression 3D

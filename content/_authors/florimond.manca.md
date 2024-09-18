@@ -11,7 +11,5 @@ missions:
     employer: Fairness
     startups:
       - dialogue
-startups:
-  - dialogue
 ---
 Développeur

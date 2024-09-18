@@ -11,9 +11,6 @@ missions:
     startups:
       - octopus
       - stargate
-startups:
-  - octopus
-  - stargate
 competences:
   - Développement Frontend
   - Développement Backend

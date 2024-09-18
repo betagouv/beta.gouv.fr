@@ -11,8 +11,6 @@ missions:
     employer: Ministère de l'intérieur
     startups:
       - sndv_maritime
-startups:
-  - sndv_maritime
 badges:
   - segur
 competences:

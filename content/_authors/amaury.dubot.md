@@ -10,8 +10,6 @@ missions:
     employer: Octo
     startups:
       - rdv.insertion
-startups:
-  - rdv.insertion
 previously:
   - signaux-faibles
   - carnet.de.bord

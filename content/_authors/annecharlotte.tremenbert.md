@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - monitorfish
-startups:
-  - monitorfish
 ---
 Cheffe du pôle environnement

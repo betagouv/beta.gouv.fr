@@ -10,8 +10,6 @@ missions:
     employer: GIP Plateforme de l'inclusion
     startups:
       - inclusion.connect
-startups:
-  - inclusion.connect
 competences:
   - Gestion de Produit
 ---

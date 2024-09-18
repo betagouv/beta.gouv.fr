@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - deveco
-startups:
-  - deveco
 memberType: beta
 ---

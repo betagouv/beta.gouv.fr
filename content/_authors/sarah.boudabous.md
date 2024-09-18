@@ -10,8 +10,6 @@ missions:
     employer: OPCO
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 badges:
   - segur
 ---

@@ -10,7 +10,5 @@ missions:
     employer: Scopyleft
     startups:
       - anais
-startups:
-  - anais
 memberType: autre
 ---

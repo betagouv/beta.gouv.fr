@@ -12,9 +12,6 @@ missions:
     startups:
       - apilos
       - longuevieauxobjets
-startups:
-  - apilos
-  - longuevieauxobjets
 previously:
   - sppnaut
 badges:

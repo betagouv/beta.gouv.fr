@@ -11,7 +11,5 @@ missions:
       - cnr
 badges:
   - segur
-startups:
-  - cnr
 ---
 éveillé le jour, tente de dormir la nuit.

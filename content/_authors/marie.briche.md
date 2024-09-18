@@ -11,9 +11,6 @@ missions:
     startups:
       - avril
       - reva
-startups:
-  - avril
-  - reva
 competences:
   - Gestion de Produit
 ---

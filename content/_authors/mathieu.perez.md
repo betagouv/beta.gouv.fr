@@ -10,8 +10,6 @@ missions:
     employer: FABNUMDEF - Anais
     startups:
       - anais
-startups:
-  - anais
 competences:
   - Développement
 ---

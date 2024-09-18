@@ -10,8 +10,6 @@ missions:
     employer: independent
     startups:
       - pilotagevoiepro
-startups:
-  - pilotagevoiepro
 previously:
   - tdb-apprentissage
   - sirius

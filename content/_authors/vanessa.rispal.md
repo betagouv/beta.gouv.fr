@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - pitchou
-startups:
-  - pitchou
 memberType: beta
 ---

@@ -9,7 +9,5 @@ missions:
     status: service
     startups:
       - l-immersion-facile
-startups:
-  - l-immersion-facile
 ---
 Développeur

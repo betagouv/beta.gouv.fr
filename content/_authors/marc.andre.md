@@ -10,9 +10,6 @@ missions:
     startups:
       - catalogue-apprentissage
       - voeux-apprentissage
-startups:
-  - catalogue-apprentissage
-  - voeux-apprentissage
 badges:
   - segur
 link: https://www.linkedin.com/in/marc75/

@@ -9,8 +9,6 @@ missions:
     employer: Malt
     startups:
       - zero-logement-vacant
-startups:
-  - zero-logement-vacant
 badges:
   - segur
 competences: []

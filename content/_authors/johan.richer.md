@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - dialogue
-startups:
-  - dialogue
 memberType: beta
 competences: []
 ---

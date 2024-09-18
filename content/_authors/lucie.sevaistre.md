@@ -10,7 +10,5 @@ missions:
     employer: Malt
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
 ---
 Graphic Designer engagée !

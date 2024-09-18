@@ -11,8 +11,6 @@ missions:
     employer: OCTO
     startups:
       - codedutravail
-startups:
-  - codedutravail
 badges:
   - segur
 ---

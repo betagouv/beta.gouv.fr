@@ -10,7 +10,5 @@ missions:
     employer: DINUM
     startups:
       - moncomptepro
-startups:
-  - moncomptepro
 memberType: dinum
 ---

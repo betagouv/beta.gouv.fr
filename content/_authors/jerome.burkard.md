@@ -10,7 +10,5 @@ missions:
     employer: La fabrique pôle emploi
     startups:
       - l-immersion-facile
-startups:
-  - l-immersion-facile
 ---
 Lead dev typescript

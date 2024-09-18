@@ -10,7 +10,5 @@ missions:
     employer: Omnicité
     startups:
       - homologation
-startups:
-  - homologation
 ---
 Lead Dev du Lab de l'ANSSI. https://www.ssi.gouv.fr/

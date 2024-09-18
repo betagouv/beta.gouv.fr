@@ -9,8 +9,6 @@ missions:
     employer: DRAC ARA
     startups:
       - dedale
-startups:
-  - dedale
 badges:
   - segur
 ---

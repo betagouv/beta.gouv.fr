@@ -12,9 +12,6 @@ missions:
     startups:
       - données-et-territoires
       - umap
-startups:
-  - données-et-territoires
-  - umap
 previously:
   - aplus
   - sndv_maritime

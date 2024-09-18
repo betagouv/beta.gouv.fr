@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - l-immersion-facile
-startups:
-  - l-immersion-facile
 memberType: beta
 link: https://www.linkedin.com/in/tukanebaribade
 competences:

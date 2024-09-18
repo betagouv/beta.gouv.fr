@@ -11,7 +11,5 @@ missions:
       - l-application-du-cej
 badges:
   - segur
-startups:
-  - l-application-du-cej
 ---
 Product Owner, sportive et très forte à Mario Kart !

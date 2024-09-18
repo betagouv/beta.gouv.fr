@@ -8,6 +8,4 @@ missions:
     status: admin
     startups:
       - la-bonne-boite
-startups:
-  - la-bonne-boite
 ---

@@ -15,7 +15,5 @@ competences:
   - Développement Frontend
 memberType: beta
 role: Développeur
-startups:
-  - espace.sur.demande
 ---
 Développeur Freelance Symfony

@@ -9,6 +9,4 @@ missions:
     employer: MEF
     startups:
       - proconnect
-startups:
-  - proconnect
 ---

@@ -10,9 +10,6 @@ missions:
     startups:
       - bpco
       - ozensemble
-startups:
-  - bpco
-  - ozensemble
 memberType: beta
 ---
 Couteau-suisse

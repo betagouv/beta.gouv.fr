@@ -11,7 +11,5 @@ missions:
     employer: Ippon Technologies, Omnicité
     startups:
       - homologation
-startups:
-  - homologation
 memberType: beta
 ---

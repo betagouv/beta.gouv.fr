@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - preuve-de-covoiturage
-startups:
-  - preuve-de-covoiturage
 ---

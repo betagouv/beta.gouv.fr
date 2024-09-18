@@ -9,8 +9,6 @@ missions:
     employer: DJEPVA
     startups:
       - data-subvention
-startups:
-  - data-subvention
 badges:
   - segur
 competences:

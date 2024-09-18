@@ -10,8 +10,6 @@ missions:
     employer: Pathtech
     startups:
       - mobilic
-startups:
-  - mobilic
 competences: []
 ---
 Geek professionnel

@@ -10,7 +10,5 @@ missions:
     status: independent
     startups:
       - zen
-startups:
-  - zen
 ---
 Je conçois et réalise des services qui répondent, de la manière la plus efficace et intuitive, aux besoins de leurs utilisateurs.

@@ -10,8 +10,6 @@ missions:
     employer: NUMA
     startups:
       - aides-territoires
-startups:
-  - aides-territoires
 previously:
   - permis-de-construire-facile
   - dora

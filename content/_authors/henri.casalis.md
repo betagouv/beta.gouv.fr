@@ -9,8 +9,6 @@ missions:
     employer: ANSSI
     startups:
       - homologation
-startups:
-  - homologation
 link: https://www.linkedin.com/in/henricasalis/
 github: henricasa
 competences:

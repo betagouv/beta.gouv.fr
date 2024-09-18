@@ -9,8 +9,6 @@ missions:
     employer: Portalia
     startups:
       - resorption-bidonvilles
-startups:
-  - resorption-bidonvilles
 badges:
   - segur
 ---

@@ -11,8 +11,6 @@ missions:
     employer: Arolla, Octo
     startups:
       - les-emplois
-startups:
-  - les-emplois
 previously:
   - e-controle
 ---

@@ -12,8 +12,6 @@ missions:
     employer: lazone
     startups:
       - umap
-startups:
-  - umap
 previously:
   - data.gouv.fr
   - api-drones

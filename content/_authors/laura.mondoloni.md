@@ -8,8 +8,6 @@ missions:
     status: independent
     startups:
       - homologation
-startups:
-  - homologation
 memberType: beta
 github: LauraMondoloni31
 competences: []

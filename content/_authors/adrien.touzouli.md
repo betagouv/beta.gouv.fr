@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - eimis
-startups:
-  - eimis
 memberType: beta
 previously:
   - eimis

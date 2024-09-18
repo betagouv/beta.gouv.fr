@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - monstage
-startups:
-  - monstage
 ---
 Product Design

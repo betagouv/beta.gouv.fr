@@ -9,8 +9,6 @@ missions:
     employer: DINUM
     startups:
       - zero-logement-vacant
-startups:
-  - zero-logement-vacant
 badges:
   - segur
 link: https://www.linkedin.com/in/julie-guittard-a81520113

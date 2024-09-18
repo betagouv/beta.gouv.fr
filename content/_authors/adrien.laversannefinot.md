@@ -10,7 +10,5 @@ missions:
     employer: DGFiP
     startups:
       - signaux-faibles
-startups:
-  - signaux-faibles
 ---
 Data-Scientist @ DGFiP

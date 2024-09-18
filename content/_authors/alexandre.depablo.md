@@ -9,7 +9,5 @@ missions:
     employer: octo
     startups:
       - api-entreprise
-startups:
-  - api-entreprise
 ---
 Ah, Biographie ! … Biographie…

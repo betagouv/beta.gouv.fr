@@ -12,7 +12,5 @@ missions:
       - mon-entreprise
 badges:
   - segur
-startups:
-  - mon-entreprise
 ---
 Développeur / UX lover / creative coder J'apprends tout le temps :D

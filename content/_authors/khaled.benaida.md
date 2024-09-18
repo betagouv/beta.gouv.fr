@@ -10,6 +10,4 @@ missions:
     employer: dinum
     startups:
       - les-emplois
-startups:
-  - les-emplois
 ---

@@ -9,7 +9,5 @@ missions:
     employer: région Bretagne
     startups:
       - entreprises-bzh
-startups:
-  - entreprises-bzh
 previously: []
 ---

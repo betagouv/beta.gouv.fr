@@ -9,8 +9,6 @@ missions:
     status: service
     startups:
       - pop
-startups:
-  - pop
 memberType: autre
 ---
 DevOps

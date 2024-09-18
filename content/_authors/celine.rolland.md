@@ -9,6 +9,4 @@ missions:
     employer: Malt
     startups:
       - aides-territoires
-startups:
-  - aides-territoires
 ---

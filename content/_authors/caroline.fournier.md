@@ -11,8 +11,6 @@ missions:
     startups:
       - chauffage-urbain
       - infomedicament
-startups:
-  - chauffage-urbain
 previously:
   - mon-suivi-social
 competences:

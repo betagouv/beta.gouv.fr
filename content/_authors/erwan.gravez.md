@@ -9,8 +9,6 @@ missions:
     employer: malt
     startups:
       - chauffage-urbain
-startups:
-  - chauffage-urbain
 previously:
   - la.bonne.renov
 memberType: beta

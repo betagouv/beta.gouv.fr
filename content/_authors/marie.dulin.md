@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - mistral-penal
-startups:
-  - mistral-penal
 memberType: beta
 ---
 Conceptrice passionnée et enthousiaste de produits utiles

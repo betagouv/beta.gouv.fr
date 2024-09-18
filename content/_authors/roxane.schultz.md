@@ -10,8 +10,6 @@ missions:
     employer: NUMA
     startups:
       - cobot
-startups:
-  - cobot
 github: roxanesch
 ---
 Fan d'utilité sociale

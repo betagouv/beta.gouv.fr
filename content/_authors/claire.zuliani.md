@@ -11,6 +11,4 @@ missions:
     employer: octo
     startups:
       - conseillers-entreprises
-startups:
-  - conseillers-entreprises
 ---

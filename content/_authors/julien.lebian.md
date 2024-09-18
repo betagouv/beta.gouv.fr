@@ -10,6 +10,4 @@ missions:
     employer: MTES (DDT69)
     startups:
       - acceslibre
-startups:
-  - acceslibre
 ---

@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - longuevieauxobjets
-startups:
-  - longuevieauxobjets
 memberType: beta
 competences: []
 ---

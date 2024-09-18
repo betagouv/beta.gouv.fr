@@ -10,8 +10,6 @@ missions:
     employer: octo
     startups:
       - codedutravail
-startups:
-  - codedutravail
 ---
 Functional programming Natural Language Processing Machine Learning
 Wait and see !

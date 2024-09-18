@@ -8,6 +8,4 @@ missions:
     status: independent
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
 ---

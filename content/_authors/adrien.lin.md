@@ -10,6 +10,4 @@ missions:
     employer: pass-culture
     startups:
       - pass-culture
-startups:
-  - pass-culture
 ---

@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - pop
-startups:
-  - pop
 memberType: beta
 ---

@@ -11,9 +11,6 @@ missions:
     startups:
       - docurba
       - mon-diagnostic-artificialisation
-startups:
-  - mon-diagnostic-artificialisation
-  - docurba
 competences:
   - Coaching
   - Product strategy

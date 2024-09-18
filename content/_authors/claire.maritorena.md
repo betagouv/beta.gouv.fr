@@ -10,8 +10,6 @@ missions:
     startups:
       - france.nation.verte.agir
 memberType: beta
-startups:
-  - france.nation.verte.agir
 link: https://www.linkedin.com/in/cmaritorena/
 competences:
   - Communication

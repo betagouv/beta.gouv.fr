@@ -11,8 +11,6 @@ missions:
     employer: FitLab
     startups:
       - acceslibre
-startups:
-  - acceslibre
 badges:
   - segur
 ---

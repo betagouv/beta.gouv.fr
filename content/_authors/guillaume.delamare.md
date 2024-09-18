@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - mes.aides.a.lembauche
-startups:
-  - mes.aides.a.lembauche
 memberType: beta
 ---

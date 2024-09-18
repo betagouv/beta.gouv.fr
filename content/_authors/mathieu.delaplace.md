@@ -10,8 +10,6 @@ missions:
     employer: ANSSI
     startups:
       - mon-aide-cyber
-startups:
-  - mon-aide-cyber
 memberType: autre
 ---
 Délégué de l'ANSSI en région, participe au projet "Mon Aide Cyber"

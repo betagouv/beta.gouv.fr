@@ -11,6 +11,4 @@ missions:
     startups:
       - aigle
 memberType: beta
-startups:
-  - aigle
 ---

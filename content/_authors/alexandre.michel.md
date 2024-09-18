@@ -11,8 +11,6 @@ missions:
     employer: octo
     startups:
       - perspectives
-startups:
-  - perspectives
 previously:
   - signalement
 ---

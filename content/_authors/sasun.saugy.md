@@ -9,7 +9,5 @@ missions:
     employer: SG
     startups:
       - delphes
-startups:
-  - delphes
 ---
 Conseils et expertise

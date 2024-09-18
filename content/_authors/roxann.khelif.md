@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - cartobio
-startups:
-  - cartobio
 badges:
   - segur
 competences: []

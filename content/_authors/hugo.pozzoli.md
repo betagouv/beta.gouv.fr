@@ -11,8 +11,6 @@ missions:
     employer: Malt
     startups:
       - snu
-startups:
-  - snu
 memberType: beta
 ---
 Développeur fullstack senior

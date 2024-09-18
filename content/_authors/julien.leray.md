@@ -11,7 +11,5 @@ missions:
     employer: Scopopop
     startups:
       - docurba
-startups:
-  - docurba
 ---
 Développeur js.

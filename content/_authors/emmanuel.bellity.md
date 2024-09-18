@@ -13,7 +13,5 @@ competences:
 memberType: autre
 fullname: Emmanuel BELLITY
 role: Coach
-startups:
-  - evalpro
 ---
 Product coach

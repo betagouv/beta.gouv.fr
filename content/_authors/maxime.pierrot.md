@@ -10,6 +10,4 @@ missions:
     employer: Little Big Connection
     startups:
       - monstage
-startups:
-  - monstage
 ---

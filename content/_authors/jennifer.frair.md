@@ -11,6 +11,4 @@ missions:
     employer: DJEPVA
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
 ---

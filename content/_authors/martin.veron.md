@@ -10,8 +10,6 @@ missions:
     employer: ANSSI (SGDSN)
     startups:
       - mon-aide-cyber
-startups:
-  - mon-aide-cyber
 memberType: beta
 ---
 Délégué Sécurité Numérique ANSSI Nouvelle-Aquitaine

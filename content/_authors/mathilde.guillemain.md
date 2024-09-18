@@ -11,9 +11,6 @@ missions:
     startups:
       - histologe
       - stop-punaises
-startups:
-  - histologe
-  - stop-punaises
 competences:
   - UX
   - Product design

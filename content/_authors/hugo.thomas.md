@@ -10,7 +10,5 @@ missions:
     employer: Little Big Connection
     startups:
       - deveco
-startups:
-  - deveco
 memberType: beta
 ---

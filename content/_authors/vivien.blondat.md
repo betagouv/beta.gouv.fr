@@ -9,8 +9,6 @@ missions:
     employer: Malt
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 badges:
   - segur
 competences: []

@@ -8,6 +8,4 @@ missions:
     status: independent
     startups:
       - mon-entreprise
-startups:
-  - mon-entreprise
 ---

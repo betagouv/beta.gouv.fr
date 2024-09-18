@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - ellesfontlaculture
-startups:
-  - ellesfontlaculture
 badges:
   - segur
 ---

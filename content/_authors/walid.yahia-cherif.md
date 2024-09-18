@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - workinfrance
-startups:
-  - workinfrance
 ---

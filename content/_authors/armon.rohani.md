@@ -10,7 +10,5 @@ missions:
     employer: Malt
     startups:
       - snu
-startups:
-  - snu
 memberType: autre
 ---

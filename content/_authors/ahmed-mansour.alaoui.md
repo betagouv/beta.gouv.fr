@@ -10,8 +10,6 @@ missions:
     employer: Octo
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 previously:
   - pass-culture
 badges:

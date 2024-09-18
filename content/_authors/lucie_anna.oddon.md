@@ -9,6 +9,4 @@ missions:
     employer: mtes/mct
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 ---

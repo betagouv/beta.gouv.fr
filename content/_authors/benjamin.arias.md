@@ -10,8 +10,6 @@ missions:
     employer: URSSAF
     startups:
       - nosgestesclimat
-startups:
-  - nosgestesclimat
 badges:
   - segur
 previously:

@@ -9,7 +9,5 @@ missions:
     status: admin
     startups:
       - signaux-faibles
-startups:
-  - signaux-faibles
 ---
 Je suis stagiaire à l'INRIA et je vais tenter d'aider Signaux Faibles dans leur mission de sauvetage!

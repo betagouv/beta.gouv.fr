@@ -10,9 +10,6 @@ missions:
     startups:
       - recommandations-collaboratives
       - urbanvitaliz
-startups:
-  - urbanvitaliz
-  - recommandations-collaboratives
 domaine: Développement
 competences:
   - Développement

@@ -10,6 +10,4 @@ missions:
     employer: octo
     startups:
       - codedutravail
-startups:
-  - codedutravail
 ---

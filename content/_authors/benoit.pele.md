@@ -9,6 +9,4 @@ missions:
     employer: Urssaf Caisse Nationale
     startups:
       - signaux-faibles
-startups:
-  - signaux-faibles
 ---

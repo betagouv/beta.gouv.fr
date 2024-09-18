@@ -10,7 +10,5 @@ missions:
     employer: SAS pass Culture
     startups:
       - pass-culture
-startups:
-  - pass-culture
 memberType: beta
 ---

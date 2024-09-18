@@ -11,6 +11,4 @@ missions:
     startups:
       - asso.cie
 memberType: beta
-startups:
-  - asso.cie
 ---

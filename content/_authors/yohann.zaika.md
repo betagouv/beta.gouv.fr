@@ -9,8 +9,6 @@ missions:
     employer: dinum
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 memberType: autre
 competences:
   - concepteur designer ui

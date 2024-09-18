@@ -10,7 +10,5 @@ missions:
     employer: Malt
     startups:
       - trackdechets
-startups:
-  - trackdechets
 memberType: beta
 ---

@@ -10,6 +10,4 @@ missions:
     employer: Ministère de la Santé
     startups:
       - recosante
-startups:
-  - recosante
 ---

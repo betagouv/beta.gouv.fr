@@ -10,8 +10,6 @@ missions:
     employer: opteamis
     startups:
       - codedutravail
-startups:
-  - codedutravail
 competences:
   - Accessibilité
   - Développement

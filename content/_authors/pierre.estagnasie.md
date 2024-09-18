@@ -9,7 +9,5 @@ missions:
     employer: ut7
     startups:
       - sirius
-startups:
-  - sirius
 memberType: beta
 ---

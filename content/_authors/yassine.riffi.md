@@ -10,8 +10,6 @@ missions:
     employer: malt
     startups:
       - domifa
-startups:
-  - domifa
 competences:
   - Développement Backend
   - Développement Frontend

@@ -10,8 +10,6 @@ missions:
     employer: OCTO
     startups:
       - bases.adresses.locales
-startups:
-  - bases.adresses.locales
 previously:
   - carnet.de.bord
 memberType: beta

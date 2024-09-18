@@ -10,7 +10,4 @@ missions:
     startups:
       - dora
       - les-emplois
-startups:
-  - les-emplois
-  - dora
 ---

@@ -11,8 +11,5 @@ missions:
     startups:
       - assec
       - dossierfacile
-startups:
-  - dossierfacile
-  - assec
 ---
 Coach qui aide à comprendre la logique des réseaux

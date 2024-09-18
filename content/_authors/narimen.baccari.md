@@ -10,6 +10,4 @@ missions:
     employer: Ministère des Solidarités et de la Santé
     startups:
       - recosante
-startups:
-  - recosante
 ---

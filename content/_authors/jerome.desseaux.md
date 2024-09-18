@@ -11,7 +11,5 @@ missions:
     employer: Scopyleft
     startups:
       - signaux-faibles
-startups:
-  - signaux-faibles
 ---
 Ingénieur et développeur fullstack

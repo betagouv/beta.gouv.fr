@@ -10,7 +10,5 @@ missions:
     status: independent
     startups:
       - l-application-du-cej
-startups:
-  - l-application-du-cej
 ---
 Designeuse fan de méthodo, de recherche utilisateur et de travail en équipe 🧚🏼‍♀️

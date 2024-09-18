@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - qualicharge
-startups:
-  - qualicharge
 memberType: beta
 competences:
   - DevOps

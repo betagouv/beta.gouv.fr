@@ -9,8 +9,6 @@ missions:
     employer: Benext
     startups:
       - l-immersion-facile
-startups:
-  - l-immersion-facile
 badges:
   - segur
 ---

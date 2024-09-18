@@ -11,8 +11,6 @@ missions:
     employer: UT7
     startups:
       - catalogue-apprentissage
-startups:
-  - catalogue-apprentissage
 competences:
   - UX
   - UI

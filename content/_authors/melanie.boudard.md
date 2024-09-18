@@ -10,7 +10,5 @@ missions:
     employer: octo
     startups:
       - pix
-startups:
-  - pix
 ---
 Développeuse travaillant chez Octo Technology, en mission chez Pix.

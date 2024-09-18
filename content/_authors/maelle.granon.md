@@ -11,8 +11,5 @@ missions:
     startups:
       - api-entreprise
       - api.gouv.fr
-startups:
-  - api.gouv.fr
-  - api-entreprise
 ---
 🦉

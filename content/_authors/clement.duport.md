@@ -10,7 +10,5 @@ missions:
     employer: GIP Plateforme de l’inclusion
     startups:
       - l-immersion-facile
-startups:
-  - l-immersion-facile
 ---
 Développeur Fullstack

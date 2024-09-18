@@ -10,8 +10,6 @@ missions:
     employer: INOPS
     startups:
       - data-inclusion
-startups:
-  - data-inclusion
 memberType: beta
 ---
 Entre Paris et la Normandie

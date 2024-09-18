@@ -10,9 +10,6 @@ missions:
     startups:
       - la.communaute.de.linclusion
       - les-emplois
-startups:
-  - la.communaute.de.linclusion
-  - les-emplois
 competences:
   - Croissance
 ---

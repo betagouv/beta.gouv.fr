@@ -14,10 +14,6 @@ missions:
       - france.nation.verte.agir
       - pass-sport
       - reperer.identifier.victimes.teh
-startups:
-  - pass-sport
-  - france.nation.verte.agir
-  - acceslibre
 badges:
   - segur
 competences:

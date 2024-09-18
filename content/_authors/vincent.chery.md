@@ -10,7 +10,5 @@ missions:
     employer: Octo
     startups:
       - monitorfish
-startups:
-  - monitorfish
 ---
 Data scientist/engineer, option poissons ><>

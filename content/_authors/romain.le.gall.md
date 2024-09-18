@@ -9,7 +9,5 @@ missions:
     employer: Numéricité
     startups:
       - enfants-du-spectacle
-startups:
-  - enfants-du-spectacle
 memberType: autre
 ---

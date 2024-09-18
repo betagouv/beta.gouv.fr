@@ -12,9 +12,5 @@ missions:
       - data-inclusion
       - les-emplois
       - pilotage.de.linclusion
-startups:
-  - les-emplois
-  - pilotage.de.linclusion
-  - data-inclusion
 ---
 Développeur Python/Django & frontend & data engineering & devops

@@ -10,8 +10,6 @@ missions:
     employer: scopyleft
     startups:
       - lannuaire.des.collectivites
-startups:
-  - lannuaire.des.collectivites
 memberType: beta
 ---
 Chargée de déploiement, Annuaire des collectivités

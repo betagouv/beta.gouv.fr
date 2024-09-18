@@ -10,8 +10,6 @@ missions:
     employer: IGN
     startups:
       - vues-immersives-libres
-startups:
-  - vues-immersives-libres
 badges:
   - segur
 ---

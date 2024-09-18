@@ -11,6 +11,4 @@ missions:
       - cnr
 badges:
   - segur
-startups:
-  - cnr
 ---

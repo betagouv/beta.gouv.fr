@@ -10,8 +10,6 @@ missions:
     employer: Selego
     startups:
       - snu
-startups:
-  - snu
 competences:
   - Développement Frontend
   - Développement Backend

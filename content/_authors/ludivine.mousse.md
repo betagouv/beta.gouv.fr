@@ -9,7 +9,5 @@ missions:
     employer: DossierFacile
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 memberType: autre
 ---

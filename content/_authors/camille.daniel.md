@@ -11,7 +11,5 @@ missions:
     employer: La Zone
     startups:
       - portail-rse
-startups:
-  - portail-rse
 ---
 Développeuse et associée de Yaal Coop

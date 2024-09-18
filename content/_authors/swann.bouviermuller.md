@@ -10,7 +10,5 @@ missions:
     employer: LBC
     startups:
       - mon-diagnostic-artificialisation
-startups:
-  - mon-diagnostic-artificialisation
 ---
 Développeur Django sénior

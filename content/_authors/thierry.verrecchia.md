@@ -11,8 +11,6 @@ missions:
     employer: Octo
     startups:
       - aides-territoires
-startups:
-  - aides-territoires
 competences:
   - UX
   - UI

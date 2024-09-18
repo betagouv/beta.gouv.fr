@@ -10,8 +10,6 @@ missions:
     employer: Fairness
     startups:
       - dialogue
-startups:
-  - dialogue
 badges:
   - segur
 competences: []

@@ -9,7 +9,5 @@ missions:
     employer: DEUD
     startups:
       - mes-aides-france-travail
-startups:
-  - mes-aides-france-travail
 memberType: beta
 ---

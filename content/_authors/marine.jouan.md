@@ -9,6 +9,4 @@ missions:
     employer: ANCT
     startups:
       - aidantsconnect
-startups:
-  - aidantsconnect
 ---

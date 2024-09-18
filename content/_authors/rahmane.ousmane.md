@@ -11,8 +11,6 @@ missions:
     employer: Scopyleft
     startups:
       - rdv-service-public
-startups:
-  - rdv-service-public
 memberType: beta
 ---
 Développeur web

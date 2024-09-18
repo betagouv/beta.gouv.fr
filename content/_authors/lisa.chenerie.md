@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - ecobalyse
-startups:
-  - ecobalyse
 ---
 Ingénieure agronome Adjointe cheffe du bureau de l'agriculture et de alimentation durables

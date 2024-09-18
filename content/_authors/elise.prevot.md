@@ -10,8 +10,6 @@ missions:
     employer: BetaGouv
     startups:
       - snu
-startups:
-  - snu
 badges:
   - segur
 previously:

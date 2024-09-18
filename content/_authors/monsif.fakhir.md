@@ -9,7 +9,5 @@ missions:
     employer: Opteamis
     startups:
       - maison.de.lautisme
-startups:
-  - maison.de.lautisme
 memberType: beta
 ---

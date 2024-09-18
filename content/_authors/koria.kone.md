@@ -9,7 +9,5 @@ missions:
     employer: GIP Inclusion
     startups:
       - les-emplois
-startups:
-  - les-emplois
 memberType: autre
 ---

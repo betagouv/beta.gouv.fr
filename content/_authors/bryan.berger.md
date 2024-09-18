@@ -15,7 +15,5 @@ competences:
   - Développement Frontend
 memberType: beta
 role: Développeur Front & Back
-startups:
-  - snu
 ---
 Passionné par l'automatisation et l'optimisation, voilà pourquoi je suis développeur.

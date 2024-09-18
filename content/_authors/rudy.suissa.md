@@ -9,8 +9,6 @@ missions:
     employer: La Zone
     startups:
       - inca
-startups:
-  - inca
 badges:
   - segur
 ---

@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - api-engagement
-startups:
-  - api-engagement
 memberType: beta
 competences: []
 ---

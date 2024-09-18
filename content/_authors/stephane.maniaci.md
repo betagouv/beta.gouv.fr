@@ -14,8 +14,5 @@ missions:
       - valorisation.des.stages.pro
 badges:
   - segur
-startups:
-  - notifications
-  - valorisation.des.stages.pro
 ---
 Lead dev à l'Incubateur des Services Numériques (ISN).

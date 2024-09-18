@@ -10,8 +10,6 @@ missions:
     employer: Scopyleft
     startups:
       - ma-cantine-egalim
-startups:
-  - ma-cantine-egalim
 badges:
   - segur
 previously:

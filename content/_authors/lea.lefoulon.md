@@ -9,8 +9,6 @@ missions:
     status: admin
     startups:
       - dialogue
-startups:
-  - dialogue
 memberType: autre
 previously:
   - dialogue

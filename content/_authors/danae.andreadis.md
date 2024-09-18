@@ -9,7 +9,5 @@ missions:
     employer: DINUM
     startups:
       - trackdechets
-startups:
-  - trackdechets
 competences: []
 ---

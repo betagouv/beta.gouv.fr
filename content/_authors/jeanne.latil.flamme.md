@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - nosgestesclimat
-startups:
-  - nosgestesclimat
 memberType: beta
 ---

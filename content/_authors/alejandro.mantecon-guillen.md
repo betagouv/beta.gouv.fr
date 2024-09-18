@@ -10,9 +10,6 @@ missions:
     startups:
       - icare-complements-alimentaires
       - ma-cantine-egalim
-startups:
-  - ma-cantine-egalim
-  - icare-complements-alimentaires
 previously:
   - peps
   - e-inspé

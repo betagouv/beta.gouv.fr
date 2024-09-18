@@ -12,8 +12,4 @@ missions:
       - api-entreprise
       - api-particulier
       - leximpact
-startups:
-  - leximpact
-  - api-entreprise
-  - api-particulier
 ---

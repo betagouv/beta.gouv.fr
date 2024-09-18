@@ -10,8 +10,6 @@ missions:
     employer: Octo
     startups:
       - resorption-bidonvilles
-startups:
-  - resorption-bidonvilles
 competences:
   - Développement Frontend
   - Développement Backend

@@ -10,7 +10,5 @@ missions:
     employer: Octo
     startups:
       - egalite.professionnelle
-startups:
-  - egalite.professionnelle
 ---
 Développeur Javascript React Nextjs

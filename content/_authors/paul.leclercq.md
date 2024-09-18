@@ -10,7 +10,5 @@ missions:
     employer: DINUM
     startups:
       - sante-psy-etudiant
-startups:
-  - sante-psy-etudiant
 ---
 Ingénieur de données inspiré par les travaux de Martin Kleppmann tout comme ceux du GIEC

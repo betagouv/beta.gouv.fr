@@ -10,8 +10,6 @@ missions:
     employer: Octo
     startups:
       - annuaire-entreprises
-startups:
-  - annuaire-entreprises
 previously:
   - openfisca
 ---

@@ -9,8 +9,6 @@ missions:
     employer: DGE
     startups:
       - portail-rse
-startups:
-  - portail-rse
 memberType: beta
 ---
 Comment est votre impact ?

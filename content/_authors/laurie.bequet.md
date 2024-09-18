@@ -11,8 +11,6 @@ missions:
     employer: DINUM
     startups:
       - preuve-de-covoiturage
-startups:
-  - preuve-de-covoiturage
 badges:
   - segur
 ---

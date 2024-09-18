@@ -13,12 +13,6 @@ missions:
       - données-et-territoires
       - pcrs
       - umap
-startups:
-  - ban
-  - pcrs
-  - bases.adresses.locales
-  - données-et-territoires
-  - umap
 teams:
   - /teams/anct
 ---

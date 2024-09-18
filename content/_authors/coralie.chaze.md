@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - place-de-marche-inclusion
-startups:
-  - place-de-marche-inclusion
 memberType: beta
 ---

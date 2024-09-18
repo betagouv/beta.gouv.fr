@@ -11,8 +11,6 @@ missions:
       - suite-numerique
 memberType: dinum
 github: arnaudjacob
-startups:
-  - suite-numerique
 competences:
   - Développement Backend
   - Développement Frontend

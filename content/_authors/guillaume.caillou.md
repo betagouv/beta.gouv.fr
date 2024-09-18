@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - carbure
-startups:
-  - carbure
 ---
 Gestionnaire de la durabilité des biocarburants au Ministère de la Transition Écologique

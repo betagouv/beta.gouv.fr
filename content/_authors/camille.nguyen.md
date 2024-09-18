@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - rapportnav
-startups:
-  - rapportnav
 link: https://www.linkedin.com/in/camille-nguyen-tpe/
 ---
 Intrapreneuse RapportNav

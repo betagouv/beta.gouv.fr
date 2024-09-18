@@ -9,6 +9,4 @@ missions:
     employer: octo
     startups:
       - eac
-startups:
-  - eac
 ---

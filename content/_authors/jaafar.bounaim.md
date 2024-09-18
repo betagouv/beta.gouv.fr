@@ -10,9 +10,6 @@ missions:
     startups:
       - pop
       - qualicharge
-startups:
-  - pop
-  - qualicharge
 competences:
   - Coaching
 ---

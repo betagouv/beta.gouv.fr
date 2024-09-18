@@ -10,9 +10,6 @@ missions:
     startups:
       - histologe
       - stop-punaises
-startups:
-  - histologe
-  - stop-punaises
 badges:
   - segur
 ---

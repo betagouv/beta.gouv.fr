@@ -10,8 +10,6 @@ missions:
     employer: Ministère de l&#x27;Intérieur &#x2F; DNUM &#x2F; SDID &#x2F; Fabrique Numérique
     startups:
       - basegun
-startups:
-  - basegun
 memberType: beta
 ---
 Data scientist, product owner et développeuse web

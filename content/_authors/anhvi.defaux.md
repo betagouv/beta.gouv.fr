@@ -9,7 +9,5 @@ missions:
     employer: Malt
     startups:
       - portail-rse
-startups:
-  - portail-rse
 memberType: autre
 ---

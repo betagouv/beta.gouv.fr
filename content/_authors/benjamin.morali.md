@@ -8,9 +8,7 @@ missions:
     end: 2024-12-31
     status: service
     startups:
+      - 1000.jours
+      - archifiltre
       - france-numerique-ensemble
-startups:
-  - france-numerique-ensemble
-  - archifiltre
-  - 1000.jours
 ---

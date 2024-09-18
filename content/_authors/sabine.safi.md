@@ -11,10 +11,6 @@ missions:
       - pitchou
       - recommandations-collaboratives
       - urbanvitaliz
-startups:
-  - urbanvitaliz
-  - recommandations-collaboratives
-  - pitchou
 previously:
   - transport
   - cartobio

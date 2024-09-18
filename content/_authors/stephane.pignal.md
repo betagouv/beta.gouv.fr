@@ -10,8 +10,6 @@ missions:
     employer: Pathtech
     startups:
       - transport
-startups:
-  - transport
 memberType: beta
 link: https://www.linkedin.com/in/stephanepignal/
 competences:

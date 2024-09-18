@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - mediation.logement
-startups:
-  - mediation.logement
 memberType: beta
 ---
 intrapreneure

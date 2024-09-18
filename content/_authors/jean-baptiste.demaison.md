@@ -10,8 +10,6 @@ missions:
     employer: ANSSI
     startups:
       - homologation
-startups:
-  - homologation
 teams:
   - /teams/anssi
 ---

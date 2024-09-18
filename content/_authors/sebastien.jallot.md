@@ -11,7 +11,4 @@ missions:
     startups:
       - filharmonic
       - fluctuat
-startups:
-  - filharmonic
-  - fluctuat
 ---

@@ -9,8 +9,6 @@ missions:
     employer: DINUM
     startups:
       - docurba
-startups:
-  - docurba
 badges:
   - segur
 ---

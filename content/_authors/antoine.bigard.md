@@ -13,11 +13,6 @@ missions:
       - boite.aux.lettres
       - catalogue-apprentissage
       - dematapprentissage
-startups:
-  - catalogue-apprentissage
-  - dematapprentissage
-  - boite.aux.lettres
-  - api.apprentissage
 previously:
   - pop
 competences:

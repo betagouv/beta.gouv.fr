@@ -9,8 +9,6 @@ missions:
     employer: Ministère de l'Intérieur
     startups:
       - dialogue.operationnel
-startups:
-  - dialogue.operationnel
 competences:
   - Administration Publique
 ---

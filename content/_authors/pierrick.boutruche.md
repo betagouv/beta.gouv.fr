@@ -10,8 +10,6 @@ missions:
     employer: DINUM
     startups:
       - metiers-numeriques
-startups:
-  - metiers-numeriques
 badges:
   - segur
 ---

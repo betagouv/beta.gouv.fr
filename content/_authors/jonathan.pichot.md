@@ -3,8 +3,6 @@ fullname: Jonathan Pichot
 role: co-animateur de l'Incubateur des Territoires
 domaine: Animation
 github: pichot
-startups:
-  - données-et-territoires
 link: https://pichot.us
 missions:
   - start: 2020-05-01

@@ -8,10 +8,8 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - ban
       - bases.adresses.locales
-startups:
-  - ban
-  - bases.adresses.locales
 badges:
   - segur
 competences:

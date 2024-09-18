@@ -10,8 +10,6 @@ missions:
     employer: Inetum/LBC
     startups:
       - experts
-startups:
-  - experts
 memberType: beta
 competences: []
 ---

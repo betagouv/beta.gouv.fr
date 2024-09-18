@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - compte.rendu.vif
-startups:
-  - compte.rendu.vif
 memberType: beta
 ---

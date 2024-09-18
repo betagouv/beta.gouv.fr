@@ -8,8 +8,6 @@ missions:
     status: admin
     startups:
       - potentiel
-startups:
-  - potentiel
 github: TiphanyG
 memberType: beta
 ---

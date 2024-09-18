@@ -10,9 +10,6 @@ missions:
     startups:
       - 1000.jours
       - 1000.premiers.jours.blues
-startups:
-  - 1000.jours
-  - 1000.premiers.jours.blues
 previously:
   - aidantsconnect
 competences:

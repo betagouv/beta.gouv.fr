@@ -11,7 +11,5 @@ missions:
     employer: Caisse des Dépôts et Consignations
     startups:
       - andi
-startups:
-  - andi
 ---
 Je suis quelqu'un qui comprend très vite.. à condition de m'expliquer lentement...

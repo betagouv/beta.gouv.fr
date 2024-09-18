@@ -9,6 +9,4 @@ missions:
     employer: MTES
     startups:
       - a-dock
-startups:
-  - a-dock
 ---

@@ -9,8 +9,6 @@ missions:
     employer: La Fabrique Numérique
     startups:
       - apilos
-startups:
-  - apilos
 memberType: beta
 ---
 Chargée de support

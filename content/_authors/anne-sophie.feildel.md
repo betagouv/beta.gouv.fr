@@ -10,6 +10,4 @@ missions:
     employer: Ministère de l'Education nationale
     startups:
       - devoirs-faits-communaute
-startups:
-  - devoirs-faits-communaute
 ---

@@ -9,6 +9,4 @@ missions:
     employer: Octo
     startups:
       - france-numerique-ensemble
-startups:
-  - france-numerique-ensemble
 ---

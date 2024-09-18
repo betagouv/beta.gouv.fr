@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - la-bonne-alternance
-startups:
-  - la-bonne-alternance
 ---

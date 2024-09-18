@@ -10,8 +10,6 @@ missions:
     employer: La Fabrique Numérique
     startups:
       - egalite.professionnelle
-startups:
-  - egalite.professionnelle
 memberType: autre
 ---
 Consultante Product Owner

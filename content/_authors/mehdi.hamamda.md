@@ -9,8 +9,6 @@ missions:
     employer: DGE
     startups:
       - ie
-startups:
-  - ie
 competences:
   - Administration Publique
 ---

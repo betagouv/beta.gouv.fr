@@ -8,7 +8,5 @@ missions:
     status: independent
     startups:
       - accesscite
-startups:
-  - accesscite
 memberType: beta
 ---

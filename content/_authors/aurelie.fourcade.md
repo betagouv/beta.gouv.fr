@@ -10,8 +10,6 @@ missions:
     employer: free
     startups:
       - reva
-startups:
-  - reva
 previously:
   - pix
   - monstage

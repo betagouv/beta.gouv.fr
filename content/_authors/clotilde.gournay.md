@@ -9,6 +9,4 @@ missions:
     status: admin
     startups:
       - gps-usagers
-startups:
-  - gps-usagers
 ---

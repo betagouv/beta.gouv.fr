@@ -9,7 +9,5 @@ missions:
     employer: MEAE
     startups:
       - expresso
-startups:
-  - expresso
 competences: []
 ---

@@ -10,8 +10,6 @@ missions:
     startups:
       - tdb-apprentissage
 memberType: autre
-startups:
-  - tdb-apprentissage
 previously:
   - prevention_ruptures_apprentissage
 competences: []

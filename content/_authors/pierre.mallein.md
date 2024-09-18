@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - jafer
-startups:
-  - jafer
 memberType: beta
 ---
 Product manager, UX Designer & Développeur no-code

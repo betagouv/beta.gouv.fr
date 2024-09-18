@@ -9,8 +9,6 @@ missions:
     employer: DINUM
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 memberType: beta
 ---
 Opérateur chez Dossier Facile

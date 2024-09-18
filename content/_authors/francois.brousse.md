@@ -9,8 +9,6 @@ missions:
     employer: Omnicité
     startups:
       - nis2
-startups:
-  - nis2
 memberType: beta
 link: https://www.linkedin.com/in/francois-brousse/
 competences:

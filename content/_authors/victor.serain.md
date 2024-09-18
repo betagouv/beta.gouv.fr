@@ -10,6 +10,4 @@ missions:
     employer: Malt
     startups:
       - data-subvention
-startups:
-  - data-subvention
 ---

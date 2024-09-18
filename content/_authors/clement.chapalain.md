@@ -11,10 +11,6 @@ missions:
       - codedutravail
       - didoc
       - resorption-bidonvilles
-startups:
-  - resorption-bidonvilles
-  - codedutravail
-  - didoc
 previously:
   - gps-usagers
 ---

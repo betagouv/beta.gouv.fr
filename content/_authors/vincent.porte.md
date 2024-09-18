@@ -12,8 +12,5 @@ missions:
     startups:
       - la.communaute.de.linclusion
       - les-emplois
-startups:
-  - la.communaute.de.linclusion
-  - les-emplois
 ---
 Entrepreneur Tech Data IA Menuisier le reste du temps

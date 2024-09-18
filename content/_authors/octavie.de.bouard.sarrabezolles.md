@@ -9,8 +9,6 @@ missions:
     employer: Lazone
     startups:
       - docurba
-startups:
-  - docurba
 memberType: beta
 ---
 Chargée de déploiement

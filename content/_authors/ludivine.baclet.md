@@ -10,8 +10,6 @@ missions:
     employer: Octo
     startups:
       - conseillers-entreprises
-startups:
-  - conseillers-entreprises
 badges:
   - segur
 competences: []

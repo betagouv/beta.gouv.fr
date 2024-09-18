@@ -9,8 +9,6 @@ missions:
     employer: Malt
     startups:
       - tchap
-startups:
-  - tchap
 memberType: beta
 ---
 In(f[ro])magicien, Photographe

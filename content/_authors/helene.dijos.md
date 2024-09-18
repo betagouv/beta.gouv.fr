@@ -9,6 +9,4 @@ missions:
     employer: ADEME
     startups:
       - mobicouts
-startups:
-  - mobicouts
 ---

@@ -8,8 +8,6 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - camino
       - trackdechets
-startups:
-  - trackdechets
-  - camino
 ---

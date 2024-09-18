@@ -9,8 +9,6 @@ missions:
     employer: Ministère des Sports
     startups:
       - pass-sport
-startups:
-  - pass-sport
 memberType: autre
 link: https://www.linkedin.com/in/perrine-croix/
 competences:

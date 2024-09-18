@@ -9,8 +9,6 @@ missions:
     employer: DB
     startups:
       - delphes
-startups:
-  - delphes
 competences:
   - Administration Publique
 ---

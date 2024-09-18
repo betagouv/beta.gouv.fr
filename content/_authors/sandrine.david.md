@@ -10,8 +10,6 @@ missions:
     startups:
       - mes-evenements-emploi
 incubator: francetravail
-startups:
-  - mes-evenements-emploi
 competences:
   - Gestion de Produit
 ---

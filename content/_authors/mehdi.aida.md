@@ -9,8 +9,6 @@ missions:
     employer: Octo
     startups:
       - place-de-marche-inclusion
-startups:
-  - place-de-marche-inclusion
 competences:
   - Croissance
 ---

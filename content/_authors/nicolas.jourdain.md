@@ -10,6 +10,4 @@ missions:
     employer: MTE/MTS
     startups:
       - partaj
-startups:
-  - partaj
 ---

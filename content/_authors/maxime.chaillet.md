@@ -8,8 +8,6 @@ missions:
     status: service
     startups:
       - pass-sport
-startups:
-  - pass-sport
 memberType: attributaire
 link: https://www.linkedin.com/in/maxime-chaillet-ba23b17b/
 ---

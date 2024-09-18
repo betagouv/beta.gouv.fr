@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - carbure
-startups:
-  - carbure
 link: https://www.linkedin.com/in/damienromito/
 competences:
   - Développement Full-stack

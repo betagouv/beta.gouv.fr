@@ -10,6 +10,4 @@ missions:
     status: independent
     startups:
       - mon-suivi-social
-startups:
-  - mon-suivi-social
 ---

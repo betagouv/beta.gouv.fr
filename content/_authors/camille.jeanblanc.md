@@ -8,8 +8,7 @@ missions:
     status: independent
     startups:
       - data-inclusion
-startups:
-  - l-application-du-cej
+      - l-application-du-cej
 memberType: beta
 ---
 Psychologie + Design = <3

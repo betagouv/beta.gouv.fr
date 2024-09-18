@@ -11,8 +11,6 @@ missions:
     employer: ut7
     startups:
       - pilotagevoiepro
-startups:
-  - pilotagevoiepro
 memberType: beta
 ---
 Dev React  NodeJS

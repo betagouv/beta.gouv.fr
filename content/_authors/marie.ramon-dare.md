@@ -8,6 +8,4 @@ missions:
     status: admin
     startups:
       - mission-transition-ecologique
-startups:
-  - mission-transition-ecologique
 ---

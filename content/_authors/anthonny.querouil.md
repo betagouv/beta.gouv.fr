@@ -11,7 +11,5 @@ missions:
     employer: BENEXT
     startups:
       - reva
-startups:
-  - reva
 ---
 Développeur freelance, motard et de temps en temps je dessine

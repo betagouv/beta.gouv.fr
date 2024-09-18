@@ -10,8 +10,6 @@ missions:
     employer: Institut national du cancer
     startups:
       - inca
-startups:
-  - inca
 badges:
   - segur
 competences:

@@ -9,7 +9,5 @@ missions:
     employer: Malt
     startups:
       - vues-immersives-libres
-startups:
-  - vues-immersives-libres
 memberType: autre
 ---

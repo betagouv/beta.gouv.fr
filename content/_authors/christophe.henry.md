@@ -11,7 +11,5 @@ missions:
     employer: Malt
     startups:
       - aidantsconnect
-startups:
-  - aidantsconnect
 ---
 La vie n'est marrante qu'en apprenant. Aussi: chats !

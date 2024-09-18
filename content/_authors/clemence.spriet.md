@@ -9,8 +9,6 @@ missions:
     employer: MALT
     startups:
       - chauffage-urbain
-startups:
-  - chauffage-urbain
 memberType: beta
 link: https://www.linkedin.com/in/clemencespriet/
 competences:

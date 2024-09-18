@@ -11,8 +11,6 @@ missions:
     status: independent
     startups:
       - trackdechets
-startups:
-  - trackdechets
 previously:
   - kelrisks
 ---

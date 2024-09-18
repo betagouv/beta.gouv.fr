@@ -10,8 +10,6 @@ missions:
     employer: octo
     startups:
       - monstage
-startups:
-  - monstage
 competences:
   - UX
   - UI

@@ -10,7 +10,5 @@ missions:
     employer: Telescoop
     startups:
       - disinfo
-startups:
-  - disinfo
 ---
 Data scientist/engineer | Python

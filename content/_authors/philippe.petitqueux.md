@@ -10,8 +10,6 @@ missions:
     status: admin
     startups:
       - reva
-startups:
-  - reva
 previously:
   - avril
 ---

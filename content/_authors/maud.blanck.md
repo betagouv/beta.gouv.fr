@@ -10,6 +10,4 @@ missions:
     employer: INRA
     startups:
       - peps
-startups:
-  - peps
 ---

@@ -10,7 +10,5 @@ missions:
     employer: DREAL
     startups:
       - a-dock
-startups:
-  - a-dock
 ---
 La transformation numérique, écologique et économique de notre société s'appuiera sur une transformation de notre action publique.

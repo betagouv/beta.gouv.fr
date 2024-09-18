@@ -10,9 +10,6 @@ missions:
     startups:
       - recommandations-collaboratives
       - urbanvitaliz
-startups:
-  - urbanvitaliz
-  - recommandations-collaboratives
 memberType: beta
 ---
 Dev front

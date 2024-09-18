@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - trackdechets
-startups:
-  - trackdechets
 ---
 Développeur front-end

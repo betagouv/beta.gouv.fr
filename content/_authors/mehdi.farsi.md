@@ -10,7 +10,5 @@ missions:
     employer: Malt
     startups:
       - datapass
-startups:
-  - datapass
 memberType: dinum
 ---

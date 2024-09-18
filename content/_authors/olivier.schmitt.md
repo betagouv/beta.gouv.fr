@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 ---
 En mission à la Fabrique Numérique après quelques années en détachement et en disponibilité

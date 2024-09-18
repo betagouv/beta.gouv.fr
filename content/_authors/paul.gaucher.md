@@ -9,7 +9,5 @@ missions:
     status: independent
     startups:
       - tdb-apprentissage
-startups:
-  - tdb-apprentissage
 memberType: beta
 ---

@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - rdv.insertion
-startups:
-  - rdv.insertion
 memberType: beta
 previously:
   - rdv.insertion

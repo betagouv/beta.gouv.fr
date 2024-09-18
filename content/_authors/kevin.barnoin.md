@@ -10,7 +10,4 @@ missions:
     startups:
       - catalogue-apprentissage
       - la-bonne-alternance
-startups:
-  - catalogue-apprentissage
-  - la-bonne-alternance
 ---

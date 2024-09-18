@@ -1,6 +1,6 @@
 ---
 fullname: Brunélie Lauret
-role: "UX\_Designer"
+role: UX Designer
 domaine: Design
 link: https://yaal.coop
 github: funelie
@@ -10,8 +10,6 @@ missions:
     status: service
     startups:
       - portail-rse
-startups:
-  - portail-rse
 memberType: beta
 ---
 UI UX Designer, intégrateur·ice web

@@ -9,8 +9,6 @@ missions:
     employer: Little Big Connection
     startups:
       - jafer
-startups:
-  - jafer
 memberType: beta
 ---
 Chargé de déploiement

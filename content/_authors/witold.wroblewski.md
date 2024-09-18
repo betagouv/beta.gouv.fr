@@ -10,6 +10,4 @@ missions:
     employer: UT7
     startups:
       - euphrosyne
-startups:
-  - euphrosyne
 ---

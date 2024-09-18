@@ -14,11 +14,6 @@ missions:
       - envergo
       - inclusion.connect
       - rdv.insertion
-startups:
-  - envergo
-  - inclusion.connect
-  - data-inclusion
-  - rdv.insertion
 competences:
   - Coaching
   - UX

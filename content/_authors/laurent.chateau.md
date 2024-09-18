@@ -10,6 +10,4 @@ missions:
     startups:
       - benefriches
 memberType: beta
-startups:
-  - benefriches
 ---

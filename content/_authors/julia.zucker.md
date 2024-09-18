@@ -10,6 +10,4 @@ missions:
     employer: SG/DMA
     startups:
       - acceslibre
-startups:
-  - acceslibre
 ---

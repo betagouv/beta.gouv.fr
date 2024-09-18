@@ -12,8 +12,6 @@ missions:
       - notifications
 badges:
   - segur
-startups:
-  - notifications
 previously:
   - tous.a.bord
 ---

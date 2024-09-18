@@ -11,8 +11,6 @@ missions:
     employer: MALT
     startups:
       - a-just
-startups:
-  - a-just
 previously:
   - ma-cantine-egalim
 badges:

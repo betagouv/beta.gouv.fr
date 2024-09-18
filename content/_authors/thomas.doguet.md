@@ -10,8 +10,6 @@ missions:
     employer: Little Big Connection
     startups:
       - tacct
-startups:
-  - tacct
 memberType: beta
 competences: []
 ---

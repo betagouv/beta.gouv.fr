@@ -9,8 +9,6 @@ missions:
     employer: Fabrique numérique
     startups:
       - ecobalyse
-startups:
-  - ecobalyse
 badges:
   - segur
 ---

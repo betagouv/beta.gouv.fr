@@ -9,7 +9,5 @@ missions:
     employer: Département du Var
     startups:
       - plateforme-direct-autonomie
-startups:
-  - plateforme-direct-autonomie
 previously: []
 ---

@@ -10,8 +10,6 @@ missions:
     employer: Ministère de la Culture
     startups:
       - euphrosyne
-startups:
-  - euphrosyne
 competences:
   - Administration Publique
 ---

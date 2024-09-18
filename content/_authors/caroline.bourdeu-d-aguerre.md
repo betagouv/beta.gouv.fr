@@ -10,9 +10,6 @@ missions:
     startups:
       - codedutravail
       - monpsy
-startups:
-  - codedutravail
-  - monpsy
 competences:
   - Développement Frontend
   - Développement Backend

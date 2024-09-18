@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - monitorfish
-startups:
-  - monitorfish
 ---
 Cheffe du Centre National de Surveillance des Pêches et intrapreneur du projet Monitor

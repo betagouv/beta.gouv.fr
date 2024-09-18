@@ -9,8 +9,6 @@ missions:
     employer: GIP Plateforme de l’inclusion
     startups:
       - rdv.insertion
-startups:
-  - rdv.insertion
 badges:
   - segur
 ---

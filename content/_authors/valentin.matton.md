@@ -10,8 +10,6 @@ missions:
     employer: Plateforme de l'Inclusion
     startups:
       - data-inclusion
-startups:
-  - data-inclusion
 badges:
   - segur
 competences:

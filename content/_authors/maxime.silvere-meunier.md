@@ -10,6 +10,4 @@ missions:
     employer: DINUM
     startups:
       - data-subvention
-startups:
-  - data-subvention
 ---

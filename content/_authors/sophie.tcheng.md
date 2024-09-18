@@ -9,6 +9,4 @@ missions:
     employer: DRIEAT IF/UD92/SUCD
     startups:
       - acceslibre
-startups:
-  - acceslibre
 ---

@@ -10,8 +10,6 @@ missions:
     employer: URSSAF
     startups:
       - mon-entreprise
-startups:
-  - mon-entreprise
 memberType: beta
 ---
 Product owner à l'URSSAF

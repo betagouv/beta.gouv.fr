@@ -10,8 +10,6 @@ missions:
     employer: Octo
     startups:
       - aides.jeunes
-startups:
-  - aides.jeunes
 badges:
   - segur
 competences:

@@ -10,8 +10,6 @@ missions:
     status: independent
     startups:
       - aidantsconnect
-startups:
-  - aidantsconnect
 previously:
   - eva
 ---

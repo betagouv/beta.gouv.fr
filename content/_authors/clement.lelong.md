@@ -10,8 +10,6 @@ missions:
     employer: Octo
     startups:
       - tumeplay
-startups:
-  - tumeplay
 previously:
   - aides.jeunes
 competences:

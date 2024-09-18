@@ -9,7 +9,5 @@ missions:
     employer: Octo
     startups:
       - conseillers-entreprises
-startups:
-  - conseillers-entreprises
 ---
 Chargé déploiement, suivi qualité, compétences marketing & gestion

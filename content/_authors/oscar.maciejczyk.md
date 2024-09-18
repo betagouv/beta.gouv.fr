@@ -9,7 +9,5 @@ missions:
     employer: Presta tier SNDV (CGI)
     startups:
       - sndv_maritime
-startups:
-  - sndv_maritime
 ---
 Déploiement MOANA

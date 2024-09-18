@@ -9,8 +9,6 @@ missions:
     status: independent
     startups:
       - ma-cantine-egalim
-startups:
-  - ma-cantine-egalim
 badges:
   - segur
 ---

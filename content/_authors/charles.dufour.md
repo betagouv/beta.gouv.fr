@@ -10,8 +10,6 @@ missions:
     employer: Omnicité
     startups:
       - signalement
-startups:
-  - signalement
 memberType: beta
 link: https://www.linkedin.com/in/charlesdufour
 competences:

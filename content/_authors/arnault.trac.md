@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - plusfraichemaville
-startups:
-  - plusfraichemaville
 memberType: autre
 competences: []
 ---

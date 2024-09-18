@@ -10,7 +10,5 @@ missions:
     employer: codeur en liberté
     startups:
       - transport
-startups:
-  - transport
 ---
 Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972.

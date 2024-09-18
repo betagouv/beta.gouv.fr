@@ -10,8 +10,6 @@ missions:
     employer: PathTech
     startups:
       - ecobalyse
-startups:
-  - ecobalyse
 badges:
   - segur
 ---

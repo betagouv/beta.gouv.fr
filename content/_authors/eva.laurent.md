@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - rdv.insertion
-startups:
-  - rdv.insertion
 memberType: beta
 ---
 Freelance

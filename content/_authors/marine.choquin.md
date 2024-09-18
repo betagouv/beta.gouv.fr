@@ -12,10 +12,6 @@ missions:
       - agents.en.intervention
       - espace.sur.demande
       - lannuaire.des.collectivites
-startups:
-  - lannuaire.des.collectivites
-  - espace.sur.demande
-  - agents.en.intervention
 competences:
   - Administration Publique
 teams:

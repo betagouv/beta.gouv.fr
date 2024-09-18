@@ -11,9 +11,6 @@ missions:
     startups:
       - octopus
       - usine-chatbots
-startups:
-  - usine-chatbots
-  - octopus
 previously:
   - puije
   - eoliennes

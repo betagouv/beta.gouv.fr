@@ -14,8 +14,6 @@ previously:
   - trackdechets
 badges:
   - segur
-startups:
-  - longuevieauxobjets
 link: https://fr.linkedin.com/in/christiancharousset/
 ---
 La circularité, pour préserver nos ressources ♻

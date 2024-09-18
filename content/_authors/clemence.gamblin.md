@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - snu
-startups:
-  - snu
 badges:
   - segur
 ---

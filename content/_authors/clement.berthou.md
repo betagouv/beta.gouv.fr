@@ -10,8 +10,6 @@ missions:
     employer: benext
     startups:
       - fiche.commune.entreprise.fce
-startups:
-  - fiche.commune.entreprise.fce
 competences:
   - Développement Backend
 ---

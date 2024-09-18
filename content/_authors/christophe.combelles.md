@@ -11,8 +11,6 @@ missions:
     employer: Pathtech
     startups:
       - ecobalyse
-startups:
-  - ecobalyse
 memberType: beta
 ---
 ingénieur logiciel et cloud spécialisé Open-Source, Cloud, Environnement et ERP/PGI

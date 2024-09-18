@@ -11,6 +11,4 @@ missions:
     employer: benext
     startups:
       - carbure
-startups:
-  - carbure
 ---

@@ -9,8 +9,6 @@ missions:
     employer: DGALN
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 memberType: beta
 ---
 Chargée de déploiement

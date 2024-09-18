@@ -9,8 +9,6 @@ missions:
     employer: OPTEAMIS
     startups:
       - reva
-startups:
-  - reva
 badges:
   - segur
 ---

@@ -11,8 +11,6 @@ missions:
     employer: Fairness
     startups:
       - benefriches
-startups:
-  - benefriches
 memberType: beta
 competences:
   - Développement Full-stack

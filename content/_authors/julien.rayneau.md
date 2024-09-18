@@ -11,10 +11,6 @@ missions:
       - conseillers-entreprises
       - signaux-faibles
       - transition-ecologique-des-entreprises
-startups:
-  - conseillers-entreprises
-  - signaux-faibles
-  - transition-ecologique-des-entreprises
 previously:
   - signalement
 badges:

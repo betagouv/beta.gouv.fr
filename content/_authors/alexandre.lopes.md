@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - nis2
-startups:
-  - nis2
 memberType: autre
 ---

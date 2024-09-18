@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - transition-ecologique-des-entreprises
-startups:
-  - transition-ecologique-des-entreprises
 memberType: beta
 link: https://www.linkedin.com/in/coline-lebaratoux
 competences:

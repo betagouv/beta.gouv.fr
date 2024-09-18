@@ -10,7 +10,5 @@ missions:
     startups:
       - aeris
 github: jcarb
-startups:
-  - aeris
 ---
 “Le langage informatique permet de lever des ambiguïtés parfois permises par les rédactions littéraires”

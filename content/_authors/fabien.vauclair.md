@@ -8,6 +8,4 @@ missions:
     status: admin
     startups:
       - zero-logement-vacant
-startups:
-  - zero-logement-vacant
 ---

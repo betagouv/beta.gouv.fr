@@ -9,6 +9,4 @@ missions:
     status: independent
     startups:
       - classe-a-12
-startups:
-  - classe-a-12
 ---

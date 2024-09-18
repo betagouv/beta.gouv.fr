@@ -10,8 +10,5 @@ missions:
     startups:
       - dossiersco
       - open-academie
-startups:
-  - open-academie
-  - dossiersco
 ---
 Travaille chez Chemins d’avenirs, en faveur de l’égalité des chances. Business dev pour dossierSCO.

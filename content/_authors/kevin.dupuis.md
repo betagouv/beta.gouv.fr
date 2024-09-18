@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - oilhi
-startups:
-  - oilhi
 memberType: beta
 competences:
   - SEO

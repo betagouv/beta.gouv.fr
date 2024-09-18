@@ -9,7 +9,5 @@ missions:
     employer: MTES/MCT
     startups:
       - dossierfacile
-startups:
-  - dossierfacile
 ---
 Hauts les cœurs et soyons bons !

@@ -9,8 +9,6 @@ missions:
     employer: Omnicité
     startups:
       - homologation
-startups:
-  - homologation
 badges:
   - segur
 competences: []
