@@ -9,11 +9,11 @@ missions:
   - start: 2021-11-30
     end: 2024-12-31
     status: independent
-startups:
-  - les-emplois
-  - la.communaute.de.linclusion
-  - pilotage.de.linclusion
-  - place-de-marche-inclusion
+    startups:
+      - la.communaute.de.linclusion
+      - les-emplois
+      - pilotage.de.linclusion
+      - place-de-marche-inclusion
 competences:
   - Communication
 teams:

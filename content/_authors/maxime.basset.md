@@ -12,8 +12,8 @@ missions:
     end: 2019-03-31
     status: service
     employer: NUMA
-startups:
-  - homologation
+    startups:
+      - homologation
 previously:
   - workinfrance
   - e-mjpm

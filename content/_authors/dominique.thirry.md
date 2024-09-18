@@ -11,8 +11,8 @@ missions:
     end: 2022-06-30
     status: service
     employer: BeNext
-startups:
-  - inca
+    startups:
+      - inca
 badges:
   - segur
 ---

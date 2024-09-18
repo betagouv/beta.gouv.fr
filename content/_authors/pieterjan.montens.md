@@ -15,9 +15,9 @@ missions:
     end: 2021-09-30
     status: independent
     employer: octo
-startups:
-  - les-emplois
-  - place-de-marche-inclusion
+    startups:
+      - les-emplois
+      - place-de-marche-inclusion
 previously:
   - andi
 ---

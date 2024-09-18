@@ -17,8 +17,8 @@ missions:
     end: 2024-12-31
     status: independent
     employer: malt
-startups:
-  - les-emplois
+    startups:
+      - les-emplois
 previously:
   - inclusion.connect
   - la-bonne-boite

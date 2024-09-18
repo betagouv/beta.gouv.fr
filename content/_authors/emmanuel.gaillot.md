@@ -20,8 +20,8 @@ missions:
     end: 2024-12-31
     status: service
     employer: omnicite
-startups:
-  - oots.once-only.technical.system
+    startups:
+      - oots.once-only.technical.system
 previously:
   - eva
   - homologation

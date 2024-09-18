@@ -12,10 +12,10 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Opteamis BPCO Mieux
-startups:
-  - nata
-  - teleconsultation.assistee
-  - bpco
+    startups:
+      - bpco
+      - nata
+      - teleconsultation.assistee
 memberType: beta
 competences:
   - Gestion de Produit

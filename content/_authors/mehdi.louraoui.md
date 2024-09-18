@@ -13,9 +13,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Octo/Malt (Plus Fraîche Ma Ville)
+    startups:
+      - plusfraichemaville
 incubator: ademe
-startups:
-  - plusfraichemaville
 previously:
   - archifiltre
 competences:

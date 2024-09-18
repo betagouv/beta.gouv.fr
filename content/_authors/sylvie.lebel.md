@@ -12,8 +12,8 @@ missions:
     end: 2024-12-31
     status: admin
     employer: pole-emploi
-startups:
-  - l-immersion-facile
+    startups:
+      - l-immersion-facile
 previously:
   - zen
 ---

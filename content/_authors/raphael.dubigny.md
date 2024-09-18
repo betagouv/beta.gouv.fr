@@ -16,8 +16,8 @@ missions:
     end: 2026-08-31
     status: admin
     employer: dinum
-startups:
-  - moncomptepro
+    startups:
+      - moncomptepro
 previously:
   - datapass
   - api.gouv.fr

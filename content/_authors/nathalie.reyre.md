@@ -17,8 +17,8 @@ missions:
     end: 2020-05-13
     status: independent
     employer: Codeurs en liberté
-startups:
-  - l-immersion-facile
+    startups:
+      - l-immersion-facile
 previously:
   - la-bonne-formation
   - andi

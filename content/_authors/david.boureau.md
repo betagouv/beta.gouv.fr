@@ -13,8 +13,8 @@ missions:
     end: 2024-05-30
     status: independent
     employer: inop's
-startups:
-  - impact.co2
+    startups:
+      - impact.co2
 previously:
   - clara
   - pix

@@ -17,8 +17,8 @@ missions:
     end: 2024-12-15
     status: independent
     employer: malt
-startups:
-  - les-emplois
+    startups:
+      - les-emplois
 previously:
   - jeveuxaider
   - eac

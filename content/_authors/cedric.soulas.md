@@ -17,8 +17,8 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Malt
-startups:
-  - reva
+    startups:
+      - reva
 competences: []
 ---
 Développeur d’applications web et créateur de formations illustrées

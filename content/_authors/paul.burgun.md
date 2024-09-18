@@ -11,8 +11,8 @@ missions:
     end: 2024-11-21
     status: admin
     employer: dinum
-startups:
-  - le-taxi
+    startups:
+      - le-taxi
 previously:
   - sante-psy-etudiant
 badges:

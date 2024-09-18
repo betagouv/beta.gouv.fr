@@ -13,9 +13,9 @@ missions:
     end: 2025-01-31
     status: independent
     employer: NUMA
-startups:
-  - investigation-ij
-  - api-engagement
+    startups:
+      - api-engagement
+      - investigation-ij
 previously:
   - jeveuxaider
   - snu

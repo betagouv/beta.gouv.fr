@@ -16,8 +16,8 @@ missions:
     end: 2023-01-31
     status: independent
     employer: Agence Nationale pour la Cohésion des Territoires
-startups:
-  - openfisca
+    startups:
+      - openfisca
 previously:
   - aplus
   - boussole

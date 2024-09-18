@@ -13,8 +13,8 @@ missions:
     end: 2026-12-31
     status: admin
     employer: DINUM
-startups:
-  - identite-numerique-agricole
+    startups:
+      - identite-numerique-agricole
 previously:
   - mission-transition-ecologique
   - domifa

@@ -21,8 +21,8 @@ missions:
     end: 2021-12-17
     status: independent
     employer: octo
-startups:
-  - les-emplois
+    startups:
+      - les-emplois
 previously:
   - la-bonne-boite
   - workinfrance

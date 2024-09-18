@@ -17,8 +17,8 @@ missions:
     end: 2023-03-31
     status: independent
     employer: Octo
-startups:
-  - l-immersion-facile
+    startups:
+      - l-immersion-facile
 previously:
   - france-numerique-ensemble
 badges:

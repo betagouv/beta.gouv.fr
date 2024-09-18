@@ -13,9 +13,9 @@ missions:
     end: 2024-12-29
     status: admin
     employer: dinum
-startups:
-  - ecobalyse
-  - france.nation.verte.agir
+    startups:
+      - ecobalyse
+      - france.nation.verte.agir
 previously:
   - recosante
   - hydrogene

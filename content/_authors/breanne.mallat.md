@@ -12,8 +12,8 @@ missions:
     end: 2024-01-13
     status: admin
     employer: Dinum
-startups:
-  - tous.a.bord
+    startups:
+      - tous.a.bord
 previously:
   - aides-territoires
   - dossierfacile

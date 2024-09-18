@@ -10,9 +10,9 @@ missions:
   - start: 2020-01-02
     end: 2024-12-30
     status: independent
-startups:
-  - inventaire.friches.agricoles
-  - vigieau
+    startups:
+      - inventaire.friches.agricoles
+      - vigieau
 previously:
   - dora
   - la-bonne-boite

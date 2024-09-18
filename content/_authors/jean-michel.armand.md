@@ -10,8 +10,8 @@ missions:
   - start: 2020-10-28
     end: 2024-12-31
     status: independent
-startups:
-  - aidantsconnect
+    startups:
+      - aidantsconnect
 previously:
   - voir-et-localiser
 ---

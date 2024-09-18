@@ -24,9 +24,9 @@ missions:
     end: 2024-12-31
     status: independent
     employer: malt
-startups:
-  - moncomptepro
-  - annuaire-entreprises
+    startups:
+      - annuaire-entreprises
+      - moncomptepro
 previously:
   - openfisca
   - aides.jeunes

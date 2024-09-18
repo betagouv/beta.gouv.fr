@@ -11,8 +11,8 @@ missions:
     end: 2025-01-30
     status: independent
     employer: DDTM 62
+    startups:
+      - oilhi
 previously:
   - resorption-bidonvilles
-startups:
-  - oilhi
 ---

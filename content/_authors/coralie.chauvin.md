@@ -11,11 +11,11 @@ missions:
     end: 2025-01-31
     status: independent
     employer: Malt
+    startups:
+      - jeveuxaider
 badges:
   - segur
 competences:
   - Communication
-startups:
-  - jeveuxaider
 ---
 Animatrice de la communauté de bénévole JeVeuxAider.gouv.fr

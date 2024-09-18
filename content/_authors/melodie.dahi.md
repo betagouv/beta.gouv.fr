@@ -24,9 +24,9 @@ missions:
     end: 2024-12-31
     status: admin
     employer: dinum
+    startups:
+      - valorisation.des.stages.pro
 incubator: dinum
-startups:
-  - valorisation.des.stages.pro
 previously:
   - setaccords
   - territoires-en-transitions

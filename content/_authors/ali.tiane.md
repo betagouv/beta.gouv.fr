@@ -12,9 +12,9 @@ missions:
     end: 2023-01-31
     status: independent
     employer: Fabrique numérique des ministères sociaux
+    startups:
+      - egalite.professionnelle
 incubator: sgmas
-startups:
-  - egalite.professionnelle
 previously:
   - e-controle
 badges:
