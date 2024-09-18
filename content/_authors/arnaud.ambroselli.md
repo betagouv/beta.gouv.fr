@@ -29,8 +29,6 @@ missions:
     employer: Little Big Connection
     startups:
       - tracabilite.gibier.sauvage
-startups:
-  - mano
 badges:
   - segur
 competences:

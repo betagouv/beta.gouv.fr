@@ -35,10 +35,6 @@ missions:
     employer: Numa
     startups:
       - datalma
-startups:
-  - cnr
-  - demarches-simplifiees.fr
-  - tchap
 previously:
   - demarches-simplifiees.fr
   - trait-d-union

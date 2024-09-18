@@ -15,8 +15,6 @@ missions:
     status: independent
     startups:
       - acceslibre
-startups:
-  - acceslibre
 previously:
   - signalement
 badges:

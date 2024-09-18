@@ -19,14 +19,8 @@ missions:
     end: 2026-01-12
     status: admin
     employer: DINUM
+    startups: []
 incubator: sgmas
-startups:
-  - 1000.jours
-  - tumeplay
-  - archifiltre
-  - domifa
-  - enfants-du-spectacle
-  - 1000.premiers.jours.blues
 previously:
   - e-mjpm
   - workinfrance

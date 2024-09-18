@@ -15,8 +15,6 @@ missions:
     employer: Dinum
     startups:
       - data.etat
-startups:
-  - aidess
 badges:
   - segur
 competences:

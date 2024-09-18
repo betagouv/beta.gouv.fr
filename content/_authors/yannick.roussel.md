@@ -17,8 +17,6 @@ missions:
       - precontentieux.justice
 badges:
   - segur
-startups:
-  - mistral-penal
 competences:
   - Développement Backend
   - Développement Full-stack

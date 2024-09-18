@@ -20,9 +20,6 @@ missions:
     status: independent
     startups:
       - annuaire-entreprises
-startups:
-  - mon-entreprise
-  - annuaire-entreprises
 competences:
   - Développement Frontend
   - Gestion de Produit

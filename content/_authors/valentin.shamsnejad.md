@@ -19,8 +19,6 @@ missions:
     startups:
       - api.gouv.fr
 incubator: dinum
-startups:
-  - valorisation.des.stages.pro
 competences:
   - Développement Frontend
   - Développement Backend

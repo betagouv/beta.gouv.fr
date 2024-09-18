@@ -23,8 +23,7 @@ missions:
     employer: Malt
     startups:
       - data.gouv.fr
-startups:
-  - ecobalyse
+      - ecobalyse
 previously:
   - auvol
   - egalite.professionnelle

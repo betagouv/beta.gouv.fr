@@ -18,10 +18,6 @@ missions:
     employer: Ippon
     startups:
       - medistock
-startups:
-  - mistral-penal
-  - apilos
-  - carte-verte
 competences:
   - Coaching
 previously:

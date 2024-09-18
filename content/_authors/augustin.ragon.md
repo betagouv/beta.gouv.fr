@@ -16,8 +16,6 @@ missions:
     employer: Little Big Connection
     startups:
       - deveco
-startups:
-  - deveco
 previously:
   - carnet.de.bord
 competences:

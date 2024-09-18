@@ -18,8 +18,6 @@ missions:
     employer: Liberté Living Lab
     startups:
       - romin
-startups:
-  - romin
 previously:
   - mon-suivi-justice
   - inca

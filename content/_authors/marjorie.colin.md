@@ -15,8 +15,6 @@ missions:
     startups:
       - lannuaire.des.collectivites
       - sirius
-startups:
-  - sirius
 competences:
   - UX
   - Coaching

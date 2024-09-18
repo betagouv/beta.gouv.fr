@@ -21,8 +21,6 @@ missions:
     employer: Malt
     startups:
       - aigle
-startups:
-  - sndv_maritime
 badges:
   - segur
 competences:

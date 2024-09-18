@@ -22,9 +22,6 @@ missions:
     employer: Pathtech
     startups:
       - sante-psy-etudiant
-startups:
-  - histologe
-  - sante-psy-etudiant
 previously:
   - simone-and-co
 competences:

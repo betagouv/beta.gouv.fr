@@ -14,8 +14,8 @@ missions:
     end: 2024-11-30
     status: independent
     employer: Scopyleft
-startups:
-  - ma-cantine-egalim
+    startups:
+      - ma-cantine-egalim
 previously:
   - france-numerique-ensemble
 competences:

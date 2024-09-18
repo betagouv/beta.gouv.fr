@@ -13,6 +13,4 @@ missions:
     employer: MALT
     startups:
       - aidantsconnect
-startups:
-  - aidantsconnect
 ---

@@ -13,10 +13,9 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - agora
       - france.nation.verte.agir
-startups:
-  - nosgestesclimat
-  - agora
+      - nosgestesclimat
 previously:
   - annuaire-entreprises
   - codedutravail

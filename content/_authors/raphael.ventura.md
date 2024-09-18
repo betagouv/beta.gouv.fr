@@ -16,8 +16,6 @@ missions:
     employer: Malt
     startups:
       - carbure
-startups:
-  - signaux-faibles
 badges:
   - segur
 competences: []

@@ -22,12 +22,7 @@ missions:
     end: 2027-06-30
     status: admin
     employer: DINUM
-startups:
-  - catalogue-apprentissage
-  - uai_siret
-  - tdb-apprentissage
-  - la-bonne-alternance
-  - voeux-apprentissage
+    startups: []
 teams:
   - /teams/mission-apprentissage
 link: https://www.linkedin.com/in/annebecquet

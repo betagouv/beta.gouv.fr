@@ -15,8 +15,6 @@ missions:
     employer: Malt
     startups:
       - monprojetsup
-startups:
-  - monprojetsup
 previously:
   - jeveuxaider
 badges:

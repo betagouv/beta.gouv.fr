@@ -16,9 +16,6 @@ missions:
     employer: malt
     startups:
       - chauffage-urbain
-startups:
-  - les-emplois
-  - chauffage-urbain
 badges:
   - segur
 ---

@@ -16,9 +16,6 @@ missions:
     employer: Pathtech
     startups:
       - mobilic
-startups:
-  - sante-psy-etudiant
-  - mobilic
 domaine: Développement
 competences:
   - Développement Full-stack

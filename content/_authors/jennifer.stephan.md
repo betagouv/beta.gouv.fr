@@ -17,10 +17,7 @@ missions:
     end: 2038-11-19
     status: admin
     employer: Ministère de l'agriculture
-startups:
-  - ma-cantine-egalim
-  - icare-complements-alimentaires
-  - reperer.identifier.victimes.teh
+    startups: []
 previously:
   - ellesfontlaculture
   - pop

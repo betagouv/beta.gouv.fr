@@ -15,8 +15,5 @@ missions:
     employer: Numa
     startups:
       - maestro
-startups:
-  - versementgetorix
-  - maestro
 ---
 Coach, Designer de service

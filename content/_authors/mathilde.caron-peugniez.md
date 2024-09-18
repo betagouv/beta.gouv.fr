@@ -15,8 +15,6 @@ missions:
     employer: Ministère de la transition écologique
     startups:
       - mobilic
-startups:
-  - mobilic
 previously:
   - a-just
 memberType: beta

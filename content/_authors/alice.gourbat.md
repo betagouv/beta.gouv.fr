@@ -16,8 +16,6 @@ missions:
     employer: Scopileft
     startups:
       - sndv_maritime
-startups:
-  - pop
 memberType: beta
 competences:
   - UX

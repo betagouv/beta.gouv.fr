@@ -19,9 +19,6 @@ missions:
     employer: Mission interministérielle pour l'apprentissage
     startups:
       - la-bonne-alternance
-startups:
-  - catalogue-apprentissage
-  - uai_siret
 previously:
   - tdb-apprentissage
 competences:

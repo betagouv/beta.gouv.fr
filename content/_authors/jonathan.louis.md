@@ -16,9 +16,6 @@ missions:
     employer: Malt
     startups:
       - annuaire-entreprises
-startups:
-  - codedutravail
-  - annuaire-entreprises
 competences:
   - Communication
   - Croissance

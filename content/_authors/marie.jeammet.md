@@ -17,8 +17,6 @@ missions:
     employer: DINUM
     startups:
       - suite-numerique
-startups:
-  - suite-numerique
 previously:
   - cnr
   - tous.a.bord

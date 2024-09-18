@@ -17,8 +17,6 @@ missions:
     employer: Scopopop
     startups:
       - demarches-simplifiees.fr
-startups:
-  - rdv-service-public
 previously:
   - demarches-simplifiees.fr
 github: mmagn

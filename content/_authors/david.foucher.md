@@ -20,10 +20,6 @@ missions:
       - estime.formation
       - mes-aides-france-travail
       - travailler.en.france
-startups:
-  - travailler.en.france
-  - estime.formation
-  - mes-aides-france-travail
 previously:
   - plateforme.rome.4-0
   - mobiville

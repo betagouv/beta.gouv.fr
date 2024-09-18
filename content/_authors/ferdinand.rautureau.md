@@ -14,8 +14,6 @@ missions:
     status: admin
     startups:
       - france-numerique-ensemble
-startups:
-  - france-numerique-ensemble
 competences:
   - Administration Publique
   - Intrapreneur(se)

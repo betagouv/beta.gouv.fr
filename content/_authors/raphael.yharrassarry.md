@@ -16,8 +16,6 @@ missions:
     status: independent
     startups:
       - codedutravail
-startups:
-  - trackdechets
 previously:
   - kelrisks
 competences:

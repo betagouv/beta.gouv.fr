@@ -15,9 +15,7 @@ missions:
     employer: Numa
     startups:
       - audiodescription
-startups:
-  - icare-complements-alimentaires
-  - ma-cantine-egalim
+      - icare-complements-alimentaires
 memberType: beta
 ---
 Designer et coach

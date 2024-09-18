@@ -33,8 +33,6 @@ missions:
     employer: malt
     startups:
       - pacoupa
-startups:
-  - pacoupa
 previously:
   - signalement
   - medle
