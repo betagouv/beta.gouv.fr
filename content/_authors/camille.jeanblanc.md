@@ -10,5 +10,6 @@ missions:
       - data-inclusion
       - l-application-du-cej
 memberType: beta
+competences: []
 ---
 Psychologie + Design = <3

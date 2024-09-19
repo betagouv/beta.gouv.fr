@@ -10,4 +10,5 @@ missions:
     startups:
       - fondation
 memberType: beta
+competences: []
 ---

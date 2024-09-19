@@ -9,6 +9,6 @@ missions:
     employer: Pôle emploi
     startups:
       - competence.validee
-      - mes-evenements-emploi
       - mes.aides.a.lembauche
+      - mes-evenements-emploi
 ---

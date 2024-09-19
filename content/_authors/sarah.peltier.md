@@ -10,4 +10,5 @@ missions:
     startups:
       - camino
       - trackdechets
+competences: []
 ---

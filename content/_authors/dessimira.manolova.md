@@ -12,4 +12,5 @@ missions:
       - l-immersion-facile
 badges:
   - segur
+competences: []
 ---
