@@ -14,5 +14,6 @@ missions:
       - longuevieauxobjets
       - sppnaut
 memberType: beta
+competences: []
 ---
 Développeur full-stack

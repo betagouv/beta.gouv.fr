@@ -1,10 +1,10 @@
 ---
 domaine: Développement
 fullname: Patrick Tai Nguyen
-role: Développeur fullstack
+role: Fullstack Software Engineer
 missions:
   - start: 2024-04-15
-    end: 2024-09-30
+    end: 2024-12-31
     status: independent
     employer: Pathtech
     startups:
@@ -22,7 +22,7 @@ competences:
   - PostgreSQL
 memberType: beta
 ---
-Ingénieur Fullstack axé sur le produit en JavaScript/TypeScript
+Fullstack Software Engineer JavaScript/TypeScript
 
 Je me spécialise dans la création de solutions JavaScript/TypeScript qui privilégient à la fois l'excellence technique et les besoins commerciaux.
 

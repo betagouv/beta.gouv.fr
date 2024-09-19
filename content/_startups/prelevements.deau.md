@@ -14,6 +14,8 @@ phases:
     start: 2024-04-17
 thematiques:
   - Écologie
+usertypes: []
+techno: []
 ---
 ## Contexte
 
@@ -31,7 +33,7 @@ Tout d'abord, la **collecte des données** sur les prélèvements d'eau se fait 
 
 De plus, les **informations recueillies sont souvent hétérogènes et insuffisantes** en termes de résolution spatiale et temporelle, ce qui limite leur utilité pour une gestion précise des prélèvements à une échelle adaptée (souvent celle de la masse d'eau). 
 
-Par ailleurs, les **données ne sont pas centralisées et facilement accessibles**, ce qui rend difficile leur consultation et leur partage entre les différents acteurs impliqués (préleveurs, services et établissements publics de l'Etat en charte de l'instruction des demandes d'autorisation et de leur contrôle, agences et offices de l'eau...). 
+Par ailleurs, les **données ne sont pas centralisées et facilement accessibles**, ce qui rend difficile leur consultation et leur partage entre les différents acteurs impliqués (préleveurs, services et établissements publics de l'Etat en charge de l'instruction des demandes d'autorisation et de leur contrôle, agences et offices de l'eau...). 
 
 Cette situation **empêche de connaître à des pas de temps suffisamment fins l’état global d’une masse d’eau, d’objectiver le niveau de tension des ressources exploitées et d’en tenir compte dans l’instruction et le contrôle** des autorisations administratives associées.
 

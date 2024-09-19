@@ -15,5 +15,6 @@ missions:
 memberType: autre
 previously:
   - tchap
+competences: []
 ---
 DevOps freelance

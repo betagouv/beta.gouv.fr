@@ -7,10 +7,16 @@ missions:
   - start: 2019-02-04
     end: 2024-12-31
     status: independent
+    employer: LittleBig Connection
     startups:
-      - pitchou
       - recommandations-collaboratives
       - urbanvitaliz
+  - start: 2023-07-01
+    end: 2024-12-19
+    status: independent
+    employer: Numa
+    startups:
+      - pitchou
 previously:
   - transport
   - cartobio

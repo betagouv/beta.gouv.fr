@@ -1,7 +1,7 @@
 ---
 mission: Mettre en relation les TPE & PME et le bon interlocuteur
 incubator: dinum
-repository: https://github.com/betagouv/place-des-entreprises
+repository: https://github.com/betagouv/conseillers-entreprises
 contact: mathieu.gens@beta.gouv.fr
 accessibility_status: partiellement conforme
 thematiques:
@@ -19,7 +19,7 @@ sponsors:
   - /organisations/dgefp
 link: https://conseillers-entreprises.service-public.fr
 stats: true
-dashlord_url: https://dashlord.incubateur.net/url/place-des-entreprises-beta-gouv-fr/
+dashlord_url: https://dashlord.incubateur.net/url/conseillers-entreprises-service-public-fr/
 events:
   - name: national_impact
     date: 2022-12-31
@@ -35,6 +35,8 @@ phases:
     end: 2022-06-20
   - name: success
     start: 2022-06-21
+stats_url: https://conseillers-entreprises.service-public.fr/stats
+techno: []
 ---
 **TPE PME, vous avez un projet, une difficulté ou une question du quotidien ? Échanger avec LE conseiller qui peut vous aider.**
 
