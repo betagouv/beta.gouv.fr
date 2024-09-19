@@ -22,21 +22,15 @@ sponsors:
   - /organisations/secretariat-general-aux-affaires-regionales-sgar-bretagne
 phases:
   - name: investigation
-    comment: null
     start: 2022-05-01
-    end: null
   - name: construction
-    comment: null
     start: 2023-03-01
-    end: null
   - name: acceleration
-    comment: null
     start: 2024-03-01
-    end: null
 events:
   - name: product_launch
-    comment: Mise en production locale
     date: 2023-03-01
+    comment: Mise en production locale
 ---
 ## Contexte
 

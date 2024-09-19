@@ -15,12 +15,9 @@ sponsors:
   - /organisations/direction-des-francais-a-l-etranger-et-de-l-administration-consulaire
 phases:
   - name: investigation
-    comment: null
     start: 2024-07-22
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2024-10-31
 ---
 **Contexte**
