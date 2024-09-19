@@ -13,5 +13,6 @@ missions:
       - stop-punaises
 badges:
   - segur
+competences: []
 ---
 "Doer qui Think"  il parait 

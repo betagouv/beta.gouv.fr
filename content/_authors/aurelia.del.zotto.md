@@ -10,4 +10,5 @@ missions:
     startups:
       - monprojetsup
 memberType: autre
+competences: []
 ---

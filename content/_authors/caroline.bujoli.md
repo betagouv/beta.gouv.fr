@@ -7,7 +7,9 @@ missions:
   - start: 2023-07-11
     end: 2024-07-11
     status: independent
+    employer: x
     startups:
       - dossierfacile
 memberType: autre
+competences: []
 ---

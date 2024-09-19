@@ -5,7 +5,7 @@ repository: https://github.com/dataregion
 incubator: dinum
 title: Data-État
 contact: julien.kounowski@bretagne.gouv.fr
-accessibility_status: partiellement conforme
+accessibility_status: non conforme
 sponsors:
   - /organisations/interieur
   - /organisations/mefsin
@@ -15,9 +15,13 @@ phases:
   - name: construction
     start: 2023-03-01
   - name: acceleration
-    start: 2024-02-01
+    start: 2024-05-01
 thematiques:
   - Open-Data
+  - Administratif
+  - Outil technique
+  - Territoires
+  - Démocratie
 usertypes:
   - etat
   - collectivite-territoriale
@@ -28,9 +32,17 @@ techno:
   - ApacheSuperset
   - Mviewer
   - sql
+  - redis
+  - celery
+  - rabbitmq
+  - keycloak
+  - docker
+  - python
+  - PostgreSQL
 analyse_risques: false
 mon_service_securise: true
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#
+stats_url: https://superset.databretagne.fr/superset/dashboard/9/?standalone=3&native_filters_key=T0NMSR7Ujfy_ztcp9MgFYpk4KULKnvyg98bd3rXBPjDtMELnkBWvzE4z7Hgn2cjR
 ---
 ## Contexte
 

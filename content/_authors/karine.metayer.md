@@ -10,4 +10,5 @@ missions:
     startups:
       - reperer.identifier.victimes.teh
 memberType: beta
+competences: []
 ---

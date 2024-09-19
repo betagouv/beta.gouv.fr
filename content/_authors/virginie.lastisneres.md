@@ -1,12 +1,13 @@
 ---
 fullname: Virginie Lastisneres
-role: Cheffe de produit
+role: Product manager
 domaine: Produit
 github: virginielastisneres
 missions:
   - start: 2019-03-01
     end: 2021-01-31
     status: admin
+    employer: Direction générale du travail
     startups:
       - codedutravail
   - start: 2024-01-01
@@ -17,4 +18,5 @@ missions:
       - codedutravail
 startups:
   - codedutravail
+competences: []
 ---

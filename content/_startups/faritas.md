@@ -20,6 +20,7 @@ usertypes:
   - entreprise
   - collectivite-territoriale
 techno: []
+repository: https://gitlab.adullact.net/dgfip/faritas
 ---
 ## Le problème: une inefficience dans la collecte et le reversement de la taxe de séjour par les plateformes numériques
 

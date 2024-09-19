@@ -4,11 +4,11 @@ mission: Conçu pour les magistrats, les greffiers et les experts, seLEXpert per
 sponsors:
   - /organisations/mj
 incubator: justice
-contact: jean-baptiste.haquet@justice.fr
+contact: contact@selexpert.beta.gouv.fr
 accessibility_status: non conforme
 phases:
-  - name: construction
-    start: 2023-01-03
+  - name: acceleration
+    start: 2024-01-01
 link: https://selexpert.anje-justice.fr/
 repository: https://git.anje-justice.fr/selexpert
 stats: true
@@ -16,6 +16,8 @@ stats_url: https://selexpert.anje-justice.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/selexpert-anje-justice-fr/
 thematiques:
   - Justice
+usertypes: []
+techno: []
 ---
 ## Problème
 
@@ -30,10 +32,4 @@ Un outil permettant la sélection éclairée et la désignation rapide des exper
 - Une interface ergonomique, simple et rapide d’utilisation
 - Des informations fiables et mises à jour en temps réel
 
-## Stratégie
 
-Poursuivre l'expérimentation de l’outil à Metz, Nantes et Nancy. Rendre seLEXpert accessible dans le ressort de 5 nouvelles cours d’appel (hors Paris) pour couvrir un quart de ces juridictions.
-
-Systématiser le recours à seLEXpert dans les services du contrôle de expertises et des référés civils de tous les tribunaux judiciaires dans lesquels l’outil est et sera déployé, de sorte qu’il devienne le mode normal de désignation des experts.
-
-Augmenter le nombre d’utilisateurs actifs chez les experts pour atteindre le seuil de 50 %.

@@ -9,9 +9,9 @@ missions:
     status: admin
     employer: pole-emploi
     startups:
-      - estime.formation
+      - estime
       - la-bonne-boite
 competences:
   - Communication
 ---
-"Cela me semble toujours impossible, jusqu’à ce qu’on le fasse (Nelson Mandela) », j'accompagne, j'aide à la faire,  je le fais, nous le faisons !
+« Cela me semble toujours impossible, jusqu’à ce qu’on le fasse (Nelson Mandela) », j'accompagne, j'aide à la faire,  je le fais, nous le faisons !
