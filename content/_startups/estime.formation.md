@@ -50,8 +50,8 @@ events:
     date: 2024-07-22
     comment: Ouvertures parcours avec estimation du montant de rémunération uniquement pour les bénéficiaires de l'ACEJ
 ---
-> ⚠️ Pour accéder à Mes Ressources Formation Ex Estime Formation depuis le guide des simulateurs https://candidat.francetravail.fr/portail-simulateurs/ sur France Travail, sélectionner la coche "Je veux suivre une formation" sous l'item "Votre situation professionnelle".
-Pour y accéder directement, suivre ce lien https://candidat.francetravail.fr/portail-simulateurs/allocations-et-aides/parcours/votre-situation?formationForce=true
+> ⚠️ Pour accéder à Mes Ressources Formation Ex Estime Formation depuis le guide des simulateurs [https://candidat.francetravail.fr/portail-simulateurs/ ]()sur France Travail, sélectionner la coche "Je veux suivre une formation" sous l'item "Votre situation professionnelle".
+Pour y accéder directement, suivre ce lien [https://candidat.francetravail.fr/portail-simulateurs/allocations-et-aides/parcours/votre-situation?formationForce=true]()
 
 
 **Contexte**
@@ -78,7 +78,7 @@ Un simulateur permettant d'estimer l'impact d'une rémunération de formation su
 Pour obtenir une estimation, il suffit de remplir le formulaire du simulateur et vous obtiendrez instantanément une projection détaillée des ressources du bénéficiaires s'il rentre en formation.
 
 Ce simulateur permet d'accéder à 3 niveaux de simulation selon le degré de maturité du projet de formation:
-* une estimation du montant de rémunération uniquement
+* une estimation simplifiée du montant de rémunération uniquement
 * une estimation détaillée du montant de la rémunération de formation et des allocations 
 *  une estimation personnalisée du montant de la rémunération de formation, des allocations et des aides pour un projet de formation défini
 
