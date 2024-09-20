@@ -14,8 +14,8 @@ competences:
 missions:
   - start: 2024-09-16
     end: 2025-08-31
-    employer: Conseil Supérieur de la Magistrature
     status: admin
+    employer: Conseil Supérieur de la Magistrature
     startups:
       - fondation
 ---
