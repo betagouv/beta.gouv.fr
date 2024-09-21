@@ -22,6 +22,12 @@ missions:
     employer: OCTO
     startups:
       - tracabilite.gibier.sauvage
+  - start: 2024-07-23
+    end: 2024-10-31
+    status: independent
+    employer: Numa
+    startups:
+      - tabula
 badges:
   - segur
 startups:
@@ -31,5 +37,6 @@ previously:
   - deveco
   - la.communaute.de.linclusion
   - acces.majeur.protege
+competences: []
 ---
 Designer

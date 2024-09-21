@@ -1,5 +1,5 @@
 ---
-mission: Améliorer le respect du temps de travail des conducteurs
+mission: Lutter contre le travail illégal dans le secteur des transports légers
 incubator: mtes
 repository: https://github.com/MTES-MCT/mobilic
 contact: contact@mobilic.beta.gouv.fr
@@ -22,13 +22,24 @@ fast:
   promotion: 13
   montant: 300000
 thematiques:
+  - Transports
+  - Travail / Emploi
   - Écologie
+  - Social
 events:
+  - name: product_launch
+    date: 2020-02-15
+    comment: Première entreprise inscrite
   - name: fast
-    date: 2024-01-01
-    comment: Montant de 300000€ pour la promotion 13
+    date: 2023-09-01
+    comment: Montant de 300 000€ pour la promotion 13
+  - name: other
+    date: 2024-06-17
+    comment: Homologation sécurité
 mon_service_securise: true
 techno: []
+analyse_risques: true
+budget_url: https://pad.numerique.gouv.fr/s/WYougVwWu#Mobilic
 ---
 Pour répondre aux exigences du droit du travail, **les employeurs ont l’obligation de suivre le temps de travail de leurs conducteurs**. Dans le secteur des transports routiers, les conducteurs étant mobiles, le décompte de leur temps de travail ne peut pas se faire au siège de leur entreprise. Il est donc fait par les conducteurs à l’aide d’un dispositif qu’ils emportent avec eux.
 
@@ -36,7 +47,7 @@ Pour répondre aux exigences du droit du travail, **les employeurs ont l’oblig
 
 Dans le secteur du transport routier léger (véhicules utilitaires légers (VUL)  de moins de 3.5 tonnes ou de moins de 9 places), **le respect du temps de travail des personnels roulants est historiquement contrôlé au moyen du livret individuel de contrôle (LIC)** au format papier, en application du code des transports.
 
-Or, ce dispositif est inutilisé ou contourné par un grand nombre d’acteurs, car :
+Or, ce dispositif était inutilisé ou contourné par un grand nombre d’acteurs, car :
 
 * **pas adapté** à l’activité mobile des salariés ;
 * la **gestion administrative** de ces LIC est coûteuse et chronophage pour les gestionnaires d’entreprise et les corps de contrôle ;

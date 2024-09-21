@@ -7,6 +7,8 @@ missions:
     end: 2024-11-01
     status: admin
     employer: Ministère de l'Europe et des affaires étrangères - Direction des Français à l'étranger
+    startups:
+      - tabula
 competences:
   - Intrapreneur(se)
 memberType: beta
