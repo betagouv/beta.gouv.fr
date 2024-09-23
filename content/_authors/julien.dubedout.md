@@ -7,13 +7,13 @@ github: judbd
 missions:
   - start: 2022-10-20
     end: 2023-03-30
-    status: independent
+    status: service
     employer: Little Big Connection
     startups:
       - resorption-bidonvilles
   - start: 2024-06-21
-    end: 2024-09-21
-    status: independent
+    end: 2024-12-21
+    status: service
     employer: Numa
     startups:
       - acces-cible
