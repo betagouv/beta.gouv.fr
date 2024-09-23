@@ -4,7 +4,7 @@ role: Intrapreneur en herbe
 domaine: Intraprenariat
 missions:
   - start: 2022-06-29
-    end: 2024-04-29
+    end: 2026-04-29
     status: admin
     startups:
       - experts
