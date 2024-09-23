@@ -94,7 +94,7 @@ title: Découvrir le programme
          </div>
          <p>Décideur public, vous voulez lancer une investigation avec nous ?</p>
         <div class="fr-btns-group fr-btns-group--inline">
-          <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="/devenir-intrapreneur/">Devenir intra</a>
+          <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="/devenir-intrapreneur">Devenir intra</a>
           <a id="btn-decouvrir-investigation" class="fr-btn fr-btn--md fr-btn--tertiary fr-enlarge-link" href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation">Découvrir l'investigation</a>
         </div>
       </div>
