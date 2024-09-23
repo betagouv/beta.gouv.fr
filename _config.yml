@@ -124,3 +124,7 @@ defaults:
       path: "img/startups"
     values:
       startups_img: true
+  - scope:
+      path: "img/incubators"
+    values:
+      incubators_img: true
