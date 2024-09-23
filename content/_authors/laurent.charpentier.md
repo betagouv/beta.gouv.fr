@@ -1,10 +1,10 @@
 ---
 fullname: Laurent Charpentier
 domaine: Animation
-role: Responsable d&#39;incubateur
+role: Responsable d'incubateur
 missions:
   - start: 2021-05-12
-    end: 2024-09-15
+    end: 2027-09-15
     status: admin
     employer: DGFiP
 badges:
