@@ -20,6 +20,10 @@ layout: default
 {%- assign teams = site.teams -%}
 {%- assign current_authors = site.authors | community: 'current', 'alpha' -%}
 {%- assign team_authors = current_authors | where_exp: "item", "item.teams.size != 0" | uniq | sort: 'fullname'-%}
+{% unless incubator  %}
+  {% assign incubator = site.incubators | find: "id", incubator_id %}
+{% endunless %}
+
 
 <div id="incubator-view">
     <div class="fr-container-fluid fr-py-6w">
@@ -44,7 +48,7 @@ layout: default
             <div class="fr-grid-row fr-grid-row--gutters">
                 <div class="fr-col-md-3">
                     <img
-                        src="../img/incubators/{{ page.logo }}"
+                        src="{{ incubator | incubator_logo }}"
                         alt=""
                         class="incubator-logo"
                     />

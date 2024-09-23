@@ -12,5 +12,14 @@ missions:
     startups:
       - ecobalyse
 memberType: beta
+competences:
+  - Développement Full-stack
+  - Python
+  - Matomo
+  - Docker
+  - DevOps
+  - Machine learning
+  - PostgreSQL
+  - Administration Système
 ---
 ingénieur logiciel et cloud spécialisé Open-Source, Cloud, Environnement et ERP/PGI

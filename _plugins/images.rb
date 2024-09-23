@@ -1,8 +1,10 @@
 # frozen_string_literal: true
 
+require 'active_support/core_ext/string'
 require 'json'
 require 'net/http'
 require 'uri'
+
 
 
 S3_BASE_URL= ENV['S3_BASE_URL']
@@ -98,7 +100,46 @@ module Jekyll
       "https://avatars3.githubusercontent.com/#{identifier}?s=600"
     end
   end
+
+  module IncubatorLogoFilter
+    include StaticFiles
+    include URLChecker
+  
+    FALLBACK = '/img/incubators/logo_beta.png'
+  
+    def incubator_logo(incubator)
+      return FALLBACK if incubator.nil?
+      id = incubator_id(incubator)
+      incubator_s3_img(id) || incubator_file(incubator) || FALLBACK
+    end
+  
+    private
+    
+    def incubator_s3_img(id)
+      s3_url = "#{S3_BASE_URL}/incubators/#{id}/logo.jpg"
+      URLChecker.url_exists?(s3_url) ? s3_url : false
+    end
+
+    def incubator_id(incubator)
+      incubator.id.split('/').last.parameterize # they come as /incubateurs/{id}
+    end
+  
+    def incubator_files
+      static_files.filter { |f| f.data['incubators_img'] == true }
+    end
+  
+    def incubator_file(incubator)
+      file = incubator_files.find do |f|
+        incubator['logo'].include?(f.basename)
+      end
+      file&.relative_path
+    end
+  end
 end
+
+
 
 Liquid::Template.register_filter(Jekyll::ScreenshotFilter)
 Liquid::Template.register_filter(Jekyll::AvatarFilter)
+Liquid::Template.register_filter(Jekyll::IncubatorLogoFilter)
+

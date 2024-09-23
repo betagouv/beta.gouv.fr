@@ -14,4 +14,5 @@ badges:
 previously:
   - dossierfacile
 memberType: beta
+competences: []
 ---

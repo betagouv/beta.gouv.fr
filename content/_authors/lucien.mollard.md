@@ -19,4 +19,7 @@ badges:
 competences:
   - Développement Backend
   - Développement Frontend
+  - Ruby
+  - Développement Full-stack
+link: https://www.linkedin.com/in/lucien-mollard/
 ---

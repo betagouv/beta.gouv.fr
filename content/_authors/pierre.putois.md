@@ -8,8 +8,8 @@ missions:
     status: admin
     startups:
       - data-inclusion
-      - l-immersion-facile
       - les-emplois
+      - l-immersion-facile
       - pilotage.de.linclusion
       - place-de-marche-inclusion
       - rdv.insertion

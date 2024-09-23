@@ -11,5 +11,6 @@ missions:
       - infrastructures.numeriques
 badges:
   - segur
+competences: []
 ---
 Développeur full stack
