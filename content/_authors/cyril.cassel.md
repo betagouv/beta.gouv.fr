@@ -6,7 +6,6 @@ competences: []
 missions:
   - start: 2024-09-23
     end: 2025-12-23
-    employer: Malt
     status: service
-    startups: []
+    employer: Malt
 ---

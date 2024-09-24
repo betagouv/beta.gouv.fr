@@ -1,6 +1,6 @@
 ---
 fullname: Redwane Zafari
-role: Développeur Full Stack avec une appétence pour le frontend
+role: Développeur Full Stack
 domaine: Développement
 github: rzafari42
 missions:
@@ -20,6 +20,4 @@ competences:
   - Accessibilité
   - PostgreSQL
 ---
-Je suis développeur Full Stack spécialisé en JavaScript, avec une forte prédilection pour le développement frontend.
-
-Fort d’une expérience diversifiée, j’ai participé à de nombreux projets web et mobiles en utilisant une vaste gamme de technologies, dont JavaScript, TypeScript, React, React Native, Next.js, Angular, Node.js, Express, PostgreSQL, MongoDB, Chai, Mocha, Jest, et bien d’autres. Passionné par l’innovation et la qualité, je m’engage dans une formation continue pour maîtriser les dernières technologies et offrir des solutions optimales à mes clients.
+Développeur Full Stack spécialisé en JavaScript, avec une appétence pour le développement frontend.

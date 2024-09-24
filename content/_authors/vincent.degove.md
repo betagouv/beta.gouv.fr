@@ -5,7 +5,7 @@ domaine: Développement
 github: vdegove
 missions:
   - start: 2023-06-19
-    end: 2024-09-17
+    end: 2025-12-31
     status: independent
     startups:
       - transport

@@ -5,7 +5,7 @@ role: Coach
 github: marievanhaecke
 missions:
   - start: 2021-01-21
-    end: 2030-12-31
+    end: 2023-12-31
     status: service
     employer: Dinum
 previously:

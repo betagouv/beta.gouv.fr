@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2024-09-23
     end: 2024-12-23
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - place-de-marche-inclusion
 ---

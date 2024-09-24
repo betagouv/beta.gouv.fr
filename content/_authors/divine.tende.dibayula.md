@@ -9,7 +9,6 @@ competences:
 missions:
   - start: 2024-09-23
     end: 2026-09-11
-    employer: Direction interministérielle du numérique
     status: admin
-    startups: []
+    employer: Direction interministérielle du numérique
 ---

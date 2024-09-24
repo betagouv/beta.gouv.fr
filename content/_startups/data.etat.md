@@ -43,6 +43,7 @@ analyse_risques: false
 mon_service_securise: true
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#
 stats_url: https://superset.databretagne.fr/superset/dashboard/9/?standalone=3&native_filters_key=T0NMSR7Ujfy_ztcp9MgFYpk4KULKnvyg98bd3rXBPjDtMELnkBWvzE4z7Hgn2cjR
+dashlord_url: https://dashlord.incubateur.net/url/www-dataregion-fr/
 ---
 ## Contexte
 

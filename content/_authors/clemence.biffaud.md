@@ -12,10 +12,16 @@ missions:
     end: 2022-10-31
     status: independent
     employer: Octo
+    startups:
+      - aides.jeunes
   - start: 2022-09-12
     end: 2025-01-31
     status: independent
     employer: NUMA
+    startups:
+      - artsducirque
+      - mission.debroussaillement
+      - monprojetsup
 incubator: fab-geocommuns
 startups:
   - mission.debroussaillement
