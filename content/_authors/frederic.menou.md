@@ -8,7 +8,9 @@ missions:
   - start: 2024-03-18
     end: 2024-12-18
     status: independent
+    employer: Pathtech
     startups:
       - transport
 memberType: beta
+competences: []
 ---

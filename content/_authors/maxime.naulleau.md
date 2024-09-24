@@ -2,7 +2,7 @@
 fullname: Maxime Naulleau
 role: Développeur à Fondation
 domaine: Développement
-github: https://github.com/Nmaxime/
+github: Nmaxime
 link: https://www.linkedin.com/in/maxime-naulleau/
 competences:
   - Développement Backend
