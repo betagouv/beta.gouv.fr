@@ -4,6 +4,8 @@ permalink: /accessibilite/
 title: Accessibilité
 ---
 
+COUCOU
+
 **beta.gouv.fr** s’engage à rendre ses services numériques accessibles, conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
 
 À cette fin, beta.gouv.fr met en œuvre la stratégie et les actions suivantes :
