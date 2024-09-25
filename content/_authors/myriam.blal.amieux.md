@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2024-09-23
     end: 2025-01-31
-    employer: LBC
     status: independent
+    employer: LBC
     startups:
       - tacct
 ---
