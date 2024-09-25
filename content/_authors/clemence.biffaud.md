@@ -12,6 +12,9 @@ missions:
     end: 2022-10-31
     status: independent
     employer: Octo
+    startups:
+      - aides.jeunes
+      - artsducirque
   - start: 2022-09-12
     end: 2025-01-31
     status: independent
@@ -21,9 +24,6 @@ missions:
       - mission.debroussaillement
       - monprojetsup
 incubator: fab-geocommuns
-previously:
-  - aides.jeunes
-  - artsducirque
 competences:
   - Coaching
 ---

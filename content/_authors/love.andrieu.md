@@ -1,11 +1,11 @@
 ---
 fullname: Love ANDRIEU
-domaine: Intraprenariat
-role: Intrapreneure
+domaine: Animation
+role: Responsable de la Fabrique DGFIP
 link: https://1000jours.fabrique.social.gouv.fr/
 missions:
   - start: 2020-10-01
-    end: 2025-12-01
+    end: 2027-12-01
     status: admin
     employer: DGFIP
     startups:
@@ -17,4 +17,5 @@ badges:
 competences:
   - Administration Publique
 ---
-Attachée d'administration politiques publiques de cohésion sociale
+Attachée principale d'administration 
+Ex - intrapreneur des 1000 premiers jours 
