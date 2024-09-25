@@ -1,7 +1,7 @@
 ---
 mission: Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
 incubator: mtes
-repository: https://github.com/MTES-MCT/camino
+repository: https://gitlab-forge.din.developpement-durable.gouv.fr/pub/pnm-public/camino
 contact: camino@beta.gouv.fr
 analyse_risques: true
 accessibility_status: non conforme
@@ -24,6 +24,8 @@ phases:
     start: 2018-01-01
   - name: acceleration
     start: 2023-06-15
+thematiques: []
+techno: []
 ---
 ## Le problème
 

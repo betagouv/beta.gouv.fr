@@ -15,5 +15,8 @@ badges:
   - segur
 competences:
   - PHP
+  - Python
+  - Django
+  - Symfony
 ---
 Artisan développeur
