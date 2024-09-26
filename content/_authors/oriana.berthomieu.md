@@ -4,7 +4,7 @@ role: Product Designer
 domaine: Design
 missions:
   - start: 2023-11-15
-    end: 2024-10-31
+    end: 2024-12-31
     status: independent
     employer: ut7
     startups:
@@ -16,4 +16,4 @@ competences:
   - Facilitation
   - UX
 ---
-Slow-food, slow-travel, BD et littérature, podcasts en aléatoire, tiramisù, illustration jeunesse, jardinage du dimanche, faux cyclisme
+Slow-food, slow-travel, BD et littérature, podcasts en aléatoire, tiramisù, illustration jeunesse, jardinage du dimanche, cyclisme du samedi

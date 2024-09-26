@@ -1,8 +1,8 @@
 ---
-mission: 'Faciliter la demande de subventions pour les agriculteurs '
+mission: 'Accédez aux meilleures aides pour votre entreprise agricole '
 incubator: agriculture
-title: Plateforme agriculteurs
-contact: noel.foucard@agriculture.gouv.fr
+title: 'Plateforme Simplif Aides Agri '
+contact: aidesagri@gmail.com
 accessibility_status: non conforme
 thematiques:
   - Agriculture
@@ -14,19 +14,41 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-05-27
+techno: []
 ---
 ## Contexte
 
-(à compléter)
-
+Suite à la crise agricole, 70 engagements ont été pris par le gouvernement pour simplifier et améliorer le quotidien des agriculteurs. Le CSO du 15 mars 2024 a permis de faire ressortir le besoin de faciliter et simplifier les démarches pour les agriculteurs, en leur permettant de disposer d’informations contextuelles sur les démarches administratives. L’atelier de cadrage du 13 mai 2024 a ensuite fait émerger un premier périmètre à adresser : les démarches administratives de demandes d’aides financières. 
 ## Problème
 
-Les problèmes que vous avez identifiés ou vos hypothèses de problèmes? Qui en souffre ? quels sont les conséquences de ces problèmes ?
+De nombreuses aides publiques existent, mais: 
+
+- Elles sont portées par une **multiplicité d’acteurs dont les rôles sont mal compris par les usagers**
+- **L’accès aux aides est très inégal en fonction du profil des agriculteurs** : (i) ces dispositifs restent méconnus ou peu accessibles / lisibles d’une partie significative des agriculteurs, en particulier de ceux peu connectés aux réseaux agricoles (interpro, etc) (ii) le travail de recherche d’aides, chronophage, pénalise les agriculteurs avec le moins de ressources (compétences, financiers et temps).
+
+Conséquences : 
+* une **difficulté à identifier / solliciter les aides adéquates** face à la diversité des dispositifs proposés. 
+
+* un **manque de visibilité sur les conseillers adéquats** à solliciter, en fonction du projet. 
+
+“Parmi les agriculteurs installés, ce sont les 20% les plus informés (connectés aux interpro) qui bénéficient des aides.”
+
+
 
 ## Solution
+Un service numérique identifié composé de 2 briques servicielles
 
-Décrit ta solution en quelques lignes? qui seront/sont les bénéficiaires ?
+**Brique servicielle 1 : Plateforme de centralisation des aides disponibles**
 
-## Stratégie
+**Objectif** :  rendre visible, lisible et en un seul et même endroit l’information sur les dispositifs d’aide pour tous les agriculteurs.
 
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+**Pour qui**: agriculteurs
+
+**Autres usagers** : porteurs d’aides et conseillers
+
+**Brique servicielle 2** : Mise en relation avec le bon conseiller de proximité
+
+**Objectif** : offrir un conseil collaboratif personnalisé et de proximité aux agriculteurs.
+
+**Pour qui** : agriculteurs 
+**Autres usagers** : conseillers

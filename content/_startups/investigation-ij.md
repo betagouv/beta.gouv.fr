@@ -53,4 +53,4 @@ Pour cela, nous souhaitons :
 
 - Second semestre 2024 : développement du MVP et tests dans 5 à 10 établissements en régions Île-de-France et Bretagne
 - Premier semestre 2025 : consolidation de la solution numérique et déploiement national
-- Second semestre 2025 : intégration aux outils et dispositifs nationaux, dont Avenir(s)
+- Second semestre 2025 : intégration aux outils et dispositifs nationaux, dont Avenir(s), et régionaux

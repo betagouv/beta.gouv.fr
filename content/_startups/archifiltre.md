@@ -87,5 +87,5 @@ Par ailleurs, la priorisation a toujours été réalisée à partir des demandes
 
 -	Nombre d’arborescences analysées
 -	Volume de données analysé
--	Volumes de donées taggées “à supprimer”
+-	Volumes de données taggées “à supprimer”
 -	Quantité de CO2 économisée

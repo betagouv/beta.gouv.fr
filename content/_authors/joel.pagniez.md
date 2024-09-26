@@ -10,6 +10,7 @@ missions:
     status: admin
     employer: Lab-MI
     startups:
+      - astree
       - data-demineur
       - psij
       - re-ac-t
