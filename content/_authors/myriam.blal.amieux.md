@@ -1,5 +1,5 @@
 ---
-fullname: Myriam BLAL
+fullname: Myriam Blal
 role: Rédactrice Facili-TACCT
 domaine: Déploiement
 link: https://www.linkedin.com/in/myriam-blal-96417726a/

@@ -4,7 +4,7 @@ mission: 'Aider au traitement des contentieux de masse ou sériel '
 sponsors:
   - /organisations/interieur
 incubator: miom
-contact: jean-francois.roude@interieur.gouv.fr
+contact: arnaud.deloit@interieur.gouv.fr
 accessibility_status: non conforme
 events:
   - name: committee
@@ -13,8 +13,8 @@ phases:
   - name: investigation
     start: 2023-01-16
     end: 2023-06-20
-  - name: alumni
-    start: 2024-08-21
+  - name: construction
+    start: 2024-05-02
 thematiques:
   - Administratif
 usertypes: []

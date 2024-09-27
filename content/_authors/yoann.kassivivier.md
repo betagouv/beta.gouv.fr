@@ -1,18 +1,24 @@
 ---
 fullname: Yoann KASSI-VIVIER
-role: Coach / Intrapreneur
-domaine: Coaching
+role: Product Manager
+domaine: Produit
 link: https://www.linkedin.com/in/yoannkassivivier/
 github: yoannbeta
 missions:
-  - start: 2020-01-01
-    end: 2022-12-31
+  - start: 2017-01-01
+    end: 2021-12-31
     status: admin
     employer: DJEPVA
-  - start: 2022-07-04
-    end: 2025-01-31
+    startups:
+      - api-engagement
+      - jeveuxaider
+      - snu
+  - start: 2022-07-01
+    end: 2024-07-31
     status: independent
     employer: NUMA
+    startups:
+      - api-engagement
 startups:
   - investigation-ij
   - api-engagement
@@ -22,5 +28,12 @@ previously:
   - prevention_ruptures_apprentissage
 badges:
   - segur
+competences:
+  - Intrapreneur(se)
+  - Facilitation
+  - Coaching
+  - Product strategy
+  - Administration Publique
 ---
-Coach & ex-intrapreneur @JeVeuxAider @SNU @API-Engagement
+PM @API-Engagement
+Ex Intra @JeVeuxAider @SNU @API-Engagement

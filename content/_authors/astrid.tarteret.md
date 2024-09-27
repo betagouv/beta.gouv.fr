@@ -8,5 +8,12 @@ missions:
     status: independent
     startups:
       - vigieau
+  - start: 2024-05-27
+    end: 2025-04-30
+    status: independent
+    employer: NUMA
+    startups:
+      - plateforme-agriculteurs
 memberType: beta
+competences: []
 ---
