@@ -2,6 +2,7 @@
 address: Immeuble Lumière, 40 avenue des Terroirs de France, Paris 12e
 contact: innovation-numerique-relations@interieur.gouv.fr
 github: https://github.com/LAB-MI
+logo: logo_FabNum-MI.png
 title: La Fabrique Numérique du Ministère de l'Intérieur
 highlighted_startups:
   - basegun
