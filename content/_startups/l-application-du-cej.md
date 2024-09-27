@@ -20,7 +20,7 @@ phases:
     end: 2022-03-30
   - name: acceleration
     start: 2022-03-01
-accessibility_status: partiellement conforme
+accessibility_status: non conforme
 thematiques:
   - Travail / Emploi
   - Jeunesse
@@ -28,7 +28,7 @@ link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
 techno: []
 ---
 ## Le contexte
-L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l’accompagnement des jeunes ayant accompagnés en CEJ par leurs conseillers (Pôle emploi ou Mission Locale) afin de limiter leurs décrochages en cours d’accompagnement.
+L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l’accompagnement des jeunes étant accompagnés en CEJ par leurs conseillers (France Travail ou Mission Locale) afin de limiter leurs décrochages en cours d’accompagnement.
 À travers une interface web et une application mobile, l’application s’inscrit dans une démarche d’accompagnement renforcé, et vient outiller le dispositif du Contrat d’Engagement Jeune (CEJ), tout en autonomisant le jeune dans sa recherche d’opportunités professionnelles et en facilitant son accès vers l’emploi.
 
 ## Le problème

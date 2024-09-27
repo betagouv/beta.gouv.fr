@@ -19,6 +19,7 @@ missions:
       - demarches-simplifiees.fr
 previously:
   - demarches-simplifiees.fr
+  - rdv-service-public
 github: mmagn
 competences: []
 ---

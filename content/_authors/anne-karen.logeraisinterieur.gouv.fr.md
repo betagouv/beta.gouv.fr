@@ -12,3 +12,4 @@ missions:
     status: admin
     employer: MIOM
 ---
+Je suis intrapreneure de l'initiative JuriGPT.

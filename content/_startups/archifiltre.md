@@ -2,15 +2,19 @@
 title: Archifiltre
 mission: Aider les archivistes et les agents des administrations à appréhender et trier des arborescences de fichiers et des messageries complètes.
 sponsors:
+  - /organisations/service-interministeriel-des-archives-des-france
   - /organisations/solidarite-sante
 incubator: sgmas
-link: https://archifiltre.fr
+link: https://archifiltre.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/archifiltre-docs
-contact: archifiltre@sg.social.gouv.fr
+contact: archifiltre@fabrique.social.gouv.fr
 usertypes:
   - etat
+  - collectivite-territoriale
+  - entreprise
   - particulier
-stats_url: https://archifiltre.fr/stats
+  - université
+stats_url: https://archifiltre.fabrique.social.gouv.fr/statistiques/
 stats: true
 events:
   - name: other
@@ -44,7 +48,9 @@ accessibility_status: non conforme
 thematiques:
   - Outil technique
   - Archives
-techno: []
+techno:
+  - typescript
+  - electron
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/startup/archifiltre
 ---
 ## Le contexte
@@ -81,5 +87,5 @@ Par ailleurs, la priorisation a toujours été réalisée à partir des demandes
 
 -	Nombre d’arborescences analysées
 -	Volume de données analysé
--	Volumes de donées taggées “à supprimer”
+-	Volumes de données taggées “à supprimer”
 -	Quantité de CO2 économisée
