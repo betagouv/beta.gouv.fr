@@ -3,7 +3,7 @@ title: Dialogue opérationnel
 mission: Faciliter la concertation et la remontée des besoins collectifs et individuels des agents de la police nationale
 sponsors:
   - /organisations/igpn
-incubator: miom
+incubator: FabNum-MI
 contact: igpn-mission-appui-conseil@interieur.gouv.fr
 phases:
   - name: investigation

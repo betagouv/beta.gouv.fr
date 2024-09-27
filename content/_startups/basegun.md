@@ -3,7 +3,7 @@ title: Basegun
 mission: Identifier et classer instantanément une arme sur le terrain
 sponsors:
   - /organisations/interieur
-incubator: miom
+incubator: FabNum-MI
 link: https://basegun.interieur.gouv.fr/
 repository: https://github.com/datalab-mi/Basegun
 contact: basegun@interieur.gouv.fr

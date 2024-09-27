@@ -3,7 +3,7 @@ title: UrgenceVie
 mission: Sauver des vies en partageant les informations d'accès au logement
 sponsors:
   - /organisations/interieur
-incubator: miom
+incubator: FabNum-MI
 contact: urgencevie@beta.gouv.fr
 stats: false
 phases:

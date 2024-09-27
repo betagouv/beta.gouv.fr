@@ -17,6 +17,7 @@ competences:
   - JavaScript/TypeScript
   - PHP
   - PostgreSQL
+  - Drupal
 memberType: beta
 github: chloecorfmat
 link: https://www.linkedin.com/in/chloecorfmat/

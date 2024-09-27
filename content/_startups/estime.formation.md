@@ -51,8 +51,7 @@ events:
     comment: Ouvertures parcours avec estimation du montant de rémunération uniquement pour les bénéficiaires de l'ACEJ
 ---
 > ⚠️ Pour accéder à Mes Ressources Formation Ex Estime Formation depuis le guide des simulateurs [https://candidat.francetravail.fr/portail-simulateurs/ ]()sur France Travail, sélectionner la coche "Je veux suivre une formation" sous l'item "Votre situation professionnelle".
-Pour y accéder directement, suivre ce lien [https://candidat.francetravail.fr/portail-simulateurs/allocations-et-aides/parcours/votre-situation?formationForce=true]()
-
+Pour y accéder directement, suivre ce lien [https://candidat.francetravail.fr/portail-simulateurs/accueil-formation]()
 
 **Contexte**
 
@@ -103,12 +102,14 @@ Nous envisageons d'ouvrir le simulateur pour les formations à temps partiel et 
 
 Pour les autres publics, ils ont accès à une page d'information spécifique selon leur situation.
 
-*Ouvert actuellement sur les 6 régions :*
+*Ouvert actuellement sur les 8 régions :*
 - Haut de France
 - Pays de la Loire
 - Région Sud PACA
 - Occitanie
 - Nouvelle Aquitaine
 - Bourgogne-Franche-Comté
+- Grand Est 
+- Centre Val de Loire
 
 Et d'ici la fin de l'année 2024, nous envisageons d'ouvrir à l'ensemble de la Métropole et début 2025, aux Départements et Régions d'Outre-Mer.

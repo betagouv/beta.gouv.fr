@@ -3,7 +3,7 @@ title: Vie chère
 mission: Informer sur la structure des prix dans les départements et région d'outre-mer (DROM)
 sponsors:
   - /organisations/interieur
-incubator: miom
+incubator: FabNum-MI
 contact: frederic.dol@interieur.gouv.fr
 accessibility_status: non conforme
 phases:
