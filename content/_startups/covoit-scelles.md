@@ -5,7 +5,7 @@ usertypes:
   - etat
 title: Covoit'Scellés
 mission: Faciliter le co-voiturage de scellés pour la Police et la Gendarmerie
-incubator: miom
+incubator: FabNum-MI
 sponsors:
   - /organisations/interieur
 phases:

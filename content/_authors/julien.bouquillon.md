@@ -15,6 +15,7 @@ missions:
       - domifa
       - egalite.professionnelle
       - e-mjpm
+      - maraudes
       - workinfrance
   - start: 2023-12-28
     end: 2027-12-28
