@@ -6,7 +6,7 @@ github: jeremyciep
 link: https://www.weplus.fr
 missions:
   - start: 2021-11-16
-    end: 2024-09-29
+    end: 2025-01-31
     status: service
     employer: Mission interministérielle pour l'apprentissage
     startups:

@@ -4,7 +4,7 @@ fullname: Sarah Farnault
 role: Design
 missions:
   - start: 2024-04-22
-    end: 2024-09-23
+    end: 2025-01-31
     status: independent
     employer: Scopyleft
     startups:

@@ -1,9 +1,11 @@
 ---
-title: transport. data.gouv.fr
+title: transport.data.gouv.fr
 mission: Faciliter l'accès à l’information voyageur pour tous, partout en France, grâce à l’ouverture des données.
 sponsors:
   - /organisations/dgitm
+  - /organisations/dinum
   - /organisations/mtes
+  - /organisations/sgpe
 incubator: mtes
 phases:
   - name: investigation
@@ -27,6 +29,14 @@ contact: contact@transport.data.gouv.fr
 usertypes:
   - collectivite-territoriale
   - entreprise
+  - particulier
+  - association
+thematiques:
+  - Transports
+  - Open-Data
+  - Inclusion numérique
+  - Territoires
+techno: []
 ---
 ## Le problème que résout transport.data.gouv.fr
 

@@ -8,7 +8,7 @@ usertypes:
   - particulier
   - etat
   - collectivite-territoriale
-title: droit.data.gouv.fr - simulateurs de droits
+title: droit.data.gouv.fr - simulateurs de droit
 mission: Structurer la représentation des lois et des règles en données et en code informatique exécutable (Rules as Code)
 incubator: dinum_produits_interministeriels
 sponsors:
@@ -25,14 +25,14 @@ Ce produit est en investigation.
 
 Vous êtes intéressé·e par :
 - Le concept de [Rules as Code](https://www.oecd.org/fr/publications/dechiffrer-le-code_027bac0e-fr.html), c'est-à-dire la traduction de la législation en code exécutable, ou encore par l'initiative "[Better Rules](https://www.digital.govt.nz/blog/what-is-better-rules/)"), 
-- Les simulateurs de droits,
+- Les simulateurs d'aides,
 - La transparence des normes et des règles de calcul utilisées dans les systèmes d'information,
 
 ... ? N'hésitez pas à nous écrire à l'adresse mail de contact indiquée sur cette page (encart ci-contre).
 
 ## Contexte
 
-Au sein de la DINUM, l’opérateur de produits interministériels (OPI) met en place une équipe “droit.data.gouv.fr” qui s’emploiera à rendre libre et réutilisable la légilsation et la réglementation - par exemple, les règles d’attribution des aides sociales, environmentales, extra-légales - de l'échelle locale à l'échelle européenne.
+Au sein de la DINUM, l’opérateur de produits interministériels (OPI) met en place une équipe “droit.data.gouv.fr” qui s’emploiera à rendre libre et réutilisable la légilsation et la réglementation - en particulier, les règles d’attribution des aides sociales, aides environmentales, aides extra-légales - de l'échelle locale à l'échelle européenne.
 
 Les objectifs sont :
 * De publier, en open data, la norme en vigueur.

@@ -1,9 +1,12 @@
 ---
 domaine: Intraprenariat
 fullname: Oscar Gracia
-role: Intraprenariat
+role: Intrapreneur Dépanne ma rénov'
 missions:
-  - start: 2024-05-06
-    end: 2024-12-06
+  - start: 2024-04-01
+    end: 2024-12-31
     status: admin
+    startups:
+      - economes.de.flux.a.disposition
+competences: []
 ---

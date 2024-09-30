@@ -4,7 +4,7 @@ fullname: Morgan Merzouk
 role: Développement
 missions:
   - start: 2024-06-26
-    end: 2024-09-26
+    end: 2024-10-26
     status: independent
     employer: Malt
     startups:
