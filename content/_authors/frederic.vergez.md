@@ -17,6 +17,12 @@ missions:
     employer: Malt
     startups:
       - dora
+  - start: 2024-08-15
+    end: 2024-12-30
+    status: independent
+    employer: Solstice
+    startups:
+      - portail-rse
 startups:
   - dora
 competences:

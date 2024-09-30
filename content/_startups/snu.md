@@ -4,7 +4,7 @@ mission: Développer la conscience citoyenne des jeunes
 sponsors:
   - /organisations/djepva
 incubator: engagement_civique
-link: https://moncompte.snu.gouv.fr
+link: https://snu.gouv.fr/
 repository: https://github.com/betagouv/service-national-universel
 contact: contact@snu.gouv.fr
 stats: true
@@ -24,6 +24,8 @@ accessibility_status: non conforme
 thematiques:
   - Jeunesse
   - Education
+analyse_risques: false
+techno: []
 ---
 **Contexte**
 
