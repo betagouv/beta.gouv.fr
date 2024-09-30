@@ -16,8 +16,6 @@ missions:
     employer: Malt
     startups:
       - plusfraichemaville
-startups:
-  - plusfraichemaville
 previously:
   - mobilic
 badges:

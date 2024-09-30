@@ -16,8 +16,6 @@ missions:
     employer: LittleBigConnection
     startups:
       - languia
-startups:
-  - ozensemble
 memberType: beta
 competences: []
 ---

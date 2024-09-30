@@ -22,8 +22,6 @@ missions:
     employer: Malt
     startups:
       - maestro
-startups:
-  - snu
 previously:
   - sante-psy-etudiant
   - jeveuxaider

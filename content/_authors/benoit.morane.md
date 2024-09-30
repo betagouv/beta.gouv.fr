@@ -12,9 +12,9 @@ missions:
     end: 2022-01-31
     status: independent
     employer: Octo
-startups:
-  - api-particulier
-  - api.gouv.fr
+    startups:
+      - api-particulier
+      - api.gouv.fr
 competences:
   - Communication
 ---

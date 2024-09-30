@@ -17,9 +17,7 @@ missions:
     employer: Malt - Octo Technology
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
-  - snu
+      - snu
 previously:
   - api-engagement
 competences:

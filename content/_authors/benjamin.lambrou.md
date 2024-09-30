@@ -11,8 +11,7 @@ missions:
   - start: 2023-10-01
     end: 2024-12-31
     status: independent
-startups:
-  - asso.cie
+    startups: []
 previously:
   - tacct
   - accesscite

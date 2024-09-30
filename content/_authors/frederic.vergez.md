@@ -17,8 +17,6 @@ missions:
     employer: Malt
     startups:
       - dora
-startups:
-  - dora
 competences:
   - Développement Backend
   - Développement Full-stack

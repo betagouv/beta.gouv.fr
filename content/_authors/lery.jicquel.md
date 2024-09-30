@@ -12,12 +12,12 @@ missions:
     end: 2022-02-24
     status: admin
     employer: beta.gouv
-startups:
-  - aidess
-  - inca
-  - mon-suivi-justice
-  - infoparquet
-  - sndv_maritime
+    startups:
+      - aidess
+      - inca
+      - infoparquet
+      - mon-suivi-justice
+      - sndv_maritime
 previously:
   - e-controle
   - dumas

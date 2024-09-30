@@ -15,15 +15,15 @@ missions:
     end: 2023-04-10
     status: admin
     employer: dinum
-startups:
-  - delta.v
-  - sppnaut
-  - conseillers-entreprises
-  - portail-rse
-  - homologation
-  - signaux-faibles
-  - mon-entreprise
-  - signalement
+    startups:
+      - conseillers-entreprises
+      - delta.v
+      - homologation
+      - mon-entreprise
+      - portail-rse
+      - signalement
+      - signaux-faibles
+      - sppnaut
 previously:
   - transport
   - notifications

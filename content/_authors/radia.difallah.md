@@ -16,9 +16,9 @@ missions:
     end: 2022-06-30
     status: independent
     employer: Octo
-startups:
-  - rdv-service-public
-  - metiers-numeriques
+    startups:
+      - metiers-numeriques
+      - rdv-service-public
 previously:
   - aidantsconnect
 competences:

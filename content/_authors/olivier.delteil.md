@@ -11,8 +11,8 @@ missions:
     end: 2024-12-31
     status: admin
     employer: dinum
-startups:
-  - ban
+    startups:
+      - ban
 previously:
   - acceslibre
 badges:

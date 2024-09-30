@@ -22,8 +22,6 @@ missions:
     employer: 'Octo Malt '
     startups:
       - envergo
-startups:
-  - apilos
 badges:
   - segur
 previously:

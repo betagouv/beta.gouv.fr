@@ -20,13 +20,13 @@ missions:
   - start: 2024-05-27
     end: 2024-12-31
     status: independent
+    startups:
+      - rdv-service-public
 previously:
   - collectif_objets
   - rdv-service-public
   - codedutravail
   - enfants-du-spectacle
-startups:
-  - rdv-service-public
 competences:
   - Développement Full-stack
 ---

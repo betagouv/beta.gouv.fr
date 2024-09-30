@@ -17,8 +17,6 @@ missions:
     employer: Omnicité
     startups:
       - infomedicament
-startups:
-  - cartobio
 memberType: beta
 competences:
   - Administration Système

@@ -20,8 +20,6 @@ missions:
     status: independent
     startups:
       - mon-diagnostic-artificialisation
-startups:
-  - territoires-en-transitions
 memberType: beta
 link: https://www.linkedin.com/in/julien-recasens/
 competences:

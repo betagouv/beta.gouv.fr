@@ -14,8 +14,6 @@ missions:
     employer: Malt
     startups:
       - transition-ecologique-des-entreprises
-startups:
-  - aidantsconnect
 badges:
   - segur
 competences: []

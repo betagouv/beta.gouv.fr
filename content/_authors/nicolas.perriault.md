@@ -29,8 +29,6 @@ missions:
     employer: Pathtech
     startups:
       - ecobalyse
-startups:
-  - ecobalyse
 previously:
   - egalite.professionnelle
   - acceslibre

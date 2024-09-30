@@ -23,10 +23,7 @@ missions:
     employer: Malt
     startups:
       - droit-data-gouv-fr-simulateurs-de-droits
-startups:
-  - openfisca
-  - leximpact
-  - reformes-locales
+      - leximpact
 previously:
   - aides.jeunes
   - camino

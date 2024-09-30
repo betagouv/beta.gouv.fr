@@ -20,10 +20,8 @@ missions:
     end: 2024-11-22
     status: admin
     employer: DINUM
-startups:
-  - le-taxi
-previously:
-  - sante-psy-etudiant
+    startups:
+      - le-taxi
 badges:
   - segur
 teams:

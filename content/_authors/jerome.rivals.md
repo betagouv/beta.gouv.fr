@@ -22,8 +22,6 @@ missions:
     employer: malt
     startups:
       - maestro
-startups:
-  - maestro
 previously:
   - signalement
   - zero-logement-vacant

@@ -29,8 +29,6 @@ missions:
     startups:
       - recosante
       - romin
-startups:
-  - romin
 previously:
   - signalement
   - perspectives

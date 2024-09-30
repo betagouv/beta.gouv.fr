@@ -15,8 +15,6 @@ missions:
     employer: Administration+
     startups:
       - aplus
-startups:
-  - dossierfacile
 memberType: beta
 competences: []
 ---

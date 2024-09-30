@@ -17,7 +17,5 @@ missions:
     employer: Scopopop
     startups:
       - demarches-simplifiees.fr
-startups:
-  - demarches-simplifiees.fr
 competences: []
 ---

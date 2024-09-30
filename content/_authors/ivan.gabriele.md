@@ -35,8 +35,6 @@ missions:
     employer: Malt
     startups:
       - monitorfish
-startups:
-  - monitorfish
 previously:
   - metiers-numeriques
   - codedutravail

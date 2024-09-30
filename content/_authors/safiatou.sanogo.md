@@ -11,9 +11,9 @@ missions:
     end: 2021-12-31
     status: admin
     employer: Pôle emploi
-startups:
-  - mobiville
-  - encyclopedie-des-metiers
+    startups:
+      - encyclopedie-des-metiers
+      - mobiville
 competences:
   - Coaching
 ---

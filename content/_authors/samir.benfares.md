@@ -19,8 +19,6 @@ missions:
     status: independent
     startups:
       - la-bonne-alternance
-startups:
-  - api.apprentissage
 previously:
   - tdb-apprentissage
   - catalogue-apprentissage

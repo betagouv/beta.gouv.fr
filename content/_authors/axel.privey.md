@@ -16,8 +16,6 @@ missions:
     employer: Agence Nationale des Données de Voyage
     startups:
       - andv-aerien
-startups:
-  - sndv_maritime
 competences:
   - Intrapreneur
   - Gestion de produit

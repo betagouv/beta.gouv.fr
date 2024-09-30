@@ -17,9 +17,6 @@ missions:
     employer: Opteamis
     startups:
       - reva
-startups:
-  - signalement
-  - reva
 badges:
   - segur
 competences:

@@ -22,11 +22,8 @@ missions:
     end: 2024-12-31
     status: independent
     startups:
+      - 1000.premiers.jours.blues
       - deveco
-startups:
-  - deveco
-  - 1000.jours
-  - 1000.premiers.jours.blues
 previously:
   - camino
   - fiche.commune.entreprise.fce

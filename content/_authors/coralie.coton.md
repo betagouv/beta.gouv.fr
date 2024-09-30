@@ -29,9 +29,6 @@ competences:
   - Product design
   - Facilitation
   - Accessibilité
-startups:
-  - envergo
-  - seves
 memberType: beta
 previously:
   - ecobalyse

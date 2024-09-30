@@ -19,10 +19,6 @@ missions:
       - mon-suivi-social
       - sirius
 memberType: beta
-startups:
-  - nosgestesclimat
-  - refugies.info
-  - mano
 teams:
   - /teams/fast-dinum
 previously:

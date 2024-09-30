@@ -14,22 +14,16 @@ missions:
     employer: Octo
     startups:
       - aides.jeunes
+      - artsducirque
   - start: 2022-09-12
     end: 2025-01-31
     status: independent
     employer: NUMA
     startups:
-      - artsducirque
+      - inventaire.zae
       - mission.debroussaillement
       - monprojetsup
 incubator: fab-geocommuns
-startups:
-  - mission.debroussaillement
-  - inventaire.zae
-  - monprojetsup
-previously:
-  - aides.jeunes
-  - artsducirque
 competences:
   - Coaching
 ---

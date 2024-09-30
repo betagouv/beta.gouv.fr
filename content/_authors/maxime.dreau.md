@@ -32,6 +32,4 @@ previously:
   - tdb-apprentissage
 competences:
   - Développement Full-stack
-startups:
-  - chauffage-urbain
 ---

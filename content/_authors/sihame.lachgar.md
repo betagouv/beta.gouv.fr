@@ -12,8 +12,8 @@ missions:
   - start: 2024-03-04
     end: 2024-06-04
     status: independent
-startups:
-  - les-emplois
+    startups:
+      - les-emplois
 memberType: beta
 ---
 Ensemble on va plus loin

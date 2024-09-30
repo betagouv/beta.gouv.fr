@@ -13,7 +13,5 @@ missions:
     status: independent
     startups:
       - envergo
-startups:
-  - envergo
 memberType: beta
 ---

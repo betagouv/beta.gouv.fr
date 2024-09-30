@@ -17,8 +17,6 @@ missions:
     employer: Scopopop
     startups:
       - preuve-de-covoiturage
-startups:
-  - trackdechets
 competences:
   - Data Science
   - data engineering

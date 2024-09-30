@@ -16,8 +16,6 @@ missions:
     employer: Malt
     startups:
       - france.nation.verte.agir
-startups:
-  - nosgestesclimat
 link: https://emile-rolley.com
 competences:
   - Développement Backend

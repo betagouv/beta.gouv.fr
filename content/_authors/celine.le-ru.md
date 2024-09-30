@@ -28,8 +28,6 @@ missions:
     employer: OCTO
     startups:
       - promotion-de-profil-acceleree
-startups:
-  - la-bonne-boite
 competences:
   - Gestion de Produit
   - UX

@@ -14,8 +14,6 @@ missions:
     employer: lazone/scopyleft
     startups:
       - cartobio
-startups:
-  - cartobio
 competences:
   - UX
   - Gestion de Produit

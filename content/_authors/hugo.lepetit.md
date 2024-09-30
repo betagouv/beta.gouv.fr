@@ -12,7 +12,7 @@ missions:
     end: 2022-03-31
     status: independent
     employer: octo
-startups:
-  - api-entreprise
+    startups:
+      - api-entreprise
 ---
 Petit mais costaud !

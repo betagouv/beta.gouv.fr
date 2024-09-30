@@ -15,8 +15,6 @@ missions:
     startups:
       - impact.co2
 incubator: ademe
-startups:
-  - impact.co2
 previously:
   - datagir
   - la.bonne.renov

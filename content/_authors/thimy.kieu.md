@@ -12,8 +12,8 @@ missions:
     end: 2020-12-31
     status: independent
     employer: Codeurs en Liberté
-startups:
-  - api-entreprise
+    startups:
+      - api-entreprise
 previously:
   - data.gouv.fr
   - aidantsconnect

@@ -15,8 +15,6 @@ missions:
     employer: DINUM/Malt
     startups:
       - mesaidesreno
-startups:
-  - reva
 memberType: beta
 link: https://www.linkedin.com/in/maxamieux/
 competences: []

@@ -12,11 +12,11 @@ missions:
     end: 2025-12-31
     status: admin
     employer: GIP Plateforme de l'inclusion
+    startups:
+      - place-de-marche-inclusion
 teams:
   - /teams/gip-inclusion
 previously:
   - les-emplois
   - la.communaute.de.linclusion
-startups:
-  - place-de-marche-inclusion
 ---

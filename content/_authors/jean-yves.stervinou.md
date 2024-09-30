@@ -16,8 +16,8 @@ missions:
     end: 2023-09-30
     status: independent
     employer: octo
-startups:
-  - france-numerique-ensemble
+    startups:
+      - france-numerique-ensemble
 badges:
   - segur
 previously:

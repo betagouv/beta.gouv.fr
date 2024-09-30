@@ -10,8 +10,8 @@ missions:
   - start: 2021-11-01
     end: 2024-09-30
     status: independent
-startups:
-  - aplus
+    startups:
+      - aplus
 previously:
   - workinfrance
 ---

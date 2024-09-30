@@ -14,8 +14,7 @@ missions:
     end: 2026-12-31
     status: admin
     employer: GIP Plateforme de l'inclusion
-startups:
-  - place-de-marche-inclusion
+    startups: []
 badges:
   - segur
 competences:

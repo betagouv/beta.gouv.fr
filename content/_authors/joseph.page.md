@@ -18,8 +18,5 @@ missions:
     startups:
       - l-application-du-cej
 memberType: dinum
-startups:
-  - suite-numerique
-  - l-application-du-cej
 competences: []
 ---

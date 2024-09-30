@@ -16,8 +16,6 @@ missions:
     employer: Fairness
     startups:
       - benefriches
-startups:
-  - benefriches
 previously:
   - tdb-apprentissage
 link: https://www.linkedin.com/in/stephane-ruhlmann/

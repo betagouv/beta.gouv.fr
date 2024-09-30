@@ -17,7 +17,5 @@ missions:
     employer: Scopyleft
     startups:
       - mon.espace.collectivite
-startups:
-  - apilos
 memberType: beta
 ---

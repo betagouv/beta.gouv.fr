@@ -14,8 +14,8 @@ missions:
     end: 2022-12-31
     status: independent
     employer: ANCT
-startups:
-  - open-terms-archive
+    startups:
+      - open-terms-archive
 previously:
   - disinfo
   - openfisca

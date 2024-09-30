@@ -13,8 +13,8 @@ missions:
     end: 2027-02-11
     status: admin
     employer: dinum
-startups:
-  - suite-numerique
+    startups:
+      - suite-numerique
 memberType: beta
 previously:
   - signaux-faibles

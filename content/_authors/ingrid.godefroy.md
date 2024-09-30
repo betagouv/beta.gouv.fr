@@ -21,8 +21,6 @@ missions:
     employer: Little Big Connection
     startups:
       - monstage
-startups:
-  - signalement
 previously:
   - monstage
   - commun.orientation

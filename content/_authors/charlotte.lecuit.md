@@ -24,8 +24,8 @@ missions:
     end: 2024-07-31
     status: independent
     employer: Malt
-startups:
-  - monprojetsup
+    startups:
+      - monprojetsup
 previously:
   - mes-aides
   - la-bonne-formation

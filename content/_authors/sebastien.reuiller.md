@@ -21,10 +21,10 @@ missions:
     end: 2024-09-30
     status: independent
     employer: LBC
-startups:
-  - urbanvitaliz
-  - recommandations-collaboratives
-  - place-de-marche-inclusion
+    startups:
+      - place-de-marche-inclusion
+      - recommandations-collaboratives
+      - urbanvitaliz
 previously:
   - cnr
   - la.communaute.de.linclusion

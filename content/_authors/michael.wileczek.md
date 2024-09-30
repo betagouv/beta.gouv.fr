@@ -18,10 +18,6 @@ missions:
     employer: REVA
     startups:
       - reva
-startups:
-  - inclusion.connect
-  - les-emplois
-  - reva
 memberType: beta
 previously:
   - les-emplois

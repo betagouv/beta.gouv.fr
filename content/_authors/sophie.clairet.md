@@ -21,8 +21,6 @@ badges:
 competences:
   - Communication
   - Administration Publique
-startups:
-  - umap
 previously:
   - ban
   - bases.adresses.locales

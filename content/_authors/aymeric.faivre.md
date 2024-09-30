@@ -13,9 +13,9 @@ missions:
     end: 2023-06-29
     status: independent
     employer: La Zone
-startups:
-  - classe-a-12
-  - devoirs-faits-communaute
+    startups:
+      - classe-a-12
+      - devoirs-faits-communaute
 previously:
   - mon-entreprise
 competences:

@@ -16,9 +16,9 @@ missions:
     end: 2027-03-31
     status: admin
     employer: GIP Inclusion
-startups:
-  - les-emplois
-  - pilotage.de.linclusion
+    startups:
+      - les-emplois
+      - pilotage.de.linclusion
 previously:
   - resorption-bidonvilles
 ---

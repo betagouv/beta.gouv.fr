@@ -30,10 +30,6 @@ missions:
     employer: Fairness
     startups:
       - vigieau
-startups:
-  - usine-chatbots
-  - airvam
-  - vigieau
 previously:
   - preuve-de-covoiturage
 competences:

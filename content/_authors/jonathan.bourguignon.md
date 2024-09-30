@@ -11,9 +11,9 @@ missions:
   - start: 2023-05-02
     end: 2024-12-31
     status: independent
+    startups:
+      - plusfraichemaville
 incubator: ademe
-startups:
-  - plusfraichemaville
 previously:
   - euphrosyne
   - beges

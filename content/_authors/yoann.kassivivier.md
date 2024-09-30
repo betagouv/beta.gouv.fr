@@ -13,19 +13,14 @@ missions:
       - api-engagement
       - jeveuxaider
       - snu
+      - prevention_ruptures_apprentissage
   - start: 2022-07-01
     end: 2024-07-31
     status: independent
     employer: NUMA
     startups:
       - api-engagement
-startups:
-  - investigation-ij
-  - api-engagement
-previously:
-  - jeveuxaider
-  - snu
-  - prevention_ruptures_apprentissage
+      - investigation-ij
 badges:
   - segur
 competences:

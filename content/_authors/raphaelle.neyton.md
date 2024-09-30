@@ -23,8 +23,6 @@ missions:
     startups:
       - investigation.d.un.pole.de.competences.numerique
 incubator: culture
-startups:
-  - collectif_objets
 previously:
   - apilos
 badges:

@@ -23,9 +23,6 @@ missions:
     employer: Numa
     startups:
       - tacct
-startups:
-  - ecobalyse
-  - tacct
 competences:
   - Product strategy
   - Coaching

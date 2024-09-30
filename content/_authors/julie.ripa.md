@@ -16,14 +16,14 @@ missions:
     end: 2025-11-13
     status: admin
     employer: DINUM
+    startups:
+      - tchap
 badges:
   - segur
 competences:
   - Administration Publique
 teams:
   - /teams/dinum
-startups:
-  - tchap
 previously:
   - mon-suivi-social
   - lannuaire.des.collectivites

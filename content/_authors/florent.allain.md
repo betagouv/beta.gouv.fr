@@ -17,9 +17,6 @@ missions:
     startups:
       - airvam
 memberType: beta
-startups:
-  - cassiopee
-  - airvam
 competences: []
 ---
 développeur frontend

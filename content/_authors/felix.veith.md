@@ -18,9 +18,6 @@ missions:
     employer: NUMA
     startups:
       - decl-bombarbier-eau
-startups:
-  - bat-id
-  - decl-bombarbier-eau
 memberType: beta
 competences: []
 ---

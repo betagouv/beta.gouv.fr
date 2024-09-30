@@ -10,8 +10,8 @@ missions:
     end: 2023-01-04
     status: admin
     employer: dinum
-startups:
-  - metiers-numeriques
+    startups:
+      - metiers-numeriques
 previously:
   - pass-culture
   - mon-entreprise

@@ -15,8 +15,6 @@ missions:
     employer: Malt
     startups:
       - zero-logement-vacant
-startups:
-  - zero-logement-vacant
 memberType: beta
 previously:
   - zero-logement-vacant

@@ -24,9 +24,6 @@ missions:
     startups:
       - homologation
       - place-de-marche-inclusion
-startups:
-  - data-subvention
-  - ma-cantine-egalim
 badges:
   - segur
 teams:

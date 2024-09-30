@@ -30,10 +30,7 @@ missions:
     employer: DINUM
     startups:
       - grist.numerique.gouv.fr
-startups:
-  - données-et-territoires
-  - pilotage.de.linclusion
-  - grist.numerique.gouv.fr
+      - pilotage.de.linclusion
 previously:
   - signaux-faibles
   - disinfo

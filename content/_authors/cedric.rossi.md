@@ -22,7 +22,5 @@ missions:
     employer: Malt
     startups:
       - dora
-startups:
-  - dora
 link: https://www.linkedin.com/in/cedric-rossi/
 ---

@@ -12,8 +12,8 @@ missions:
     end: 2021-06-30
     status: independent
     employer: Ministère des affaires étrangères
-startups:
-  - disinfo
+    startups:
+      - disinfo
 previously:
   - mes-aides
   - la-bonne-boite

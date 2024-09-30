@@ -18,8 +18,6 @@ missions:
     startups:
       - ban
       - bases.adresses.locales
-startups:
-  - ban
 previously:
   - chauffage-urbain
 competences:

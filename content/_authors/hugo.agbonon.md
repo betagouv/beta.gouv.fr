@@ -13,8 +13,8 @@ missions:
     end: 2021-10-31
     status: independent
     employer: codeheroics
-startups:
-  - mobiville
+    startups:
+      - mobiville
 previously:
   - zen
 ---

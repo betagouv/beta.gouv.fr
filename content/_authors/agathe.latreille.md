@@ -12,9 +12,9 @@ missions:
     end: 2025-12-01
     status: independent
     employer: 'Octo '
-startups:
-  - dora
-  - data-inclusion
+    startups:
+      - data-inclusion
+      - dora
 previously:
   - les-emplois
   - la-bonne-alternance

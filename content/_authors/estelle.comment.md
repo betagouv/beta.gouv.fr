@@ -20,8 +20,8 @@ missions:
     end: 2024-05-15
     status: independent
     employer: Malt
-startups:
-  - tchap
+    startups:
+      - tchap
 previously:
   - e-controle
   - sante-psy-etudiant

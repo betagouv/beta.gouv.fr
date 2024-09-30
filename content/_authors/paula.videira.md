@@ -15,8 +15,6 @@ missions:
     employer: PathTech
     startups:
       - pass-sport
-startups:
-  - stop-punaises
 memberType: beta
 link: https://www.linkedin.com/in/paulavideira/
 competences: []

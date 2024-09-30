@@ -16,9 +16,6 @@ missions:
     employer: Omnicité
     startups:
       - audiodescription
-startups:
-  - cartobio
-  - audiodescription
 link: https://www.linkedin.com/in/anne-faubry/
 competences:
   - Product design
