@@ -1,6 +1,6 @@
 ---
 fullname: Lucie Termignon
-role: Intrapreneur
+role: 'Intrapreneur - cheffe de produit '
 domaine: Intraprenariat
 missions:
   - start: 2024-01-15
@@ -10,5 +10,7 @@ missions:
     startups:
       - languia
 memberType: autre
-competences: []
+competences:
+  - Intrapreneur(se)
+link: http://www.linkedin.com/in/lucie-termignon-b588b4119
 ---
