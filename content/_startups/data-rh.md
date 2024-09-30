@@ -10,7 +10,7 @@ usertypes:
 techno: []
 title: DATA RH
 mission: 'Développer un outil pour intégrer le flux de recrutement de la donnée RH «du recruté au recruteur» '
-incubator: miom
+incubator: FabNum-MI
 sponsors:
   - /organisations/interieur
 phases:

@@ -12,7 +12,7 @@ usertypes:
 techno: []
 title: Data Démineur
 mission: Uniformiser et centraliser les données nécessaires à la projection terrain des 350 démineurs tout en respectant la doctrine règlementaire.
-incubator: miom
+incubator: FabNum-MI
 sponsors:
   - /organisations/direction-generale-de-la-securite-civile-et-de-la-gestion-de-crises
 phases:
