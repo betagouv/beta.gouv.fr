@@ -34,7 +34,7 @@ events:
     date: 2023-09-01
     comment: Montant de 300 000€ pour la promotion 13
   - name: other
-    date: 2024-06-17
+    date: 2024-09-28
     comment: Homologation sécurité
 mon_service_securise: true
 techno: []

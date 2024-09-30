@@ -8,10 +8,14 @@ missions:
     end: 2020-06-30
     status: independent
   - start: 2021-11-01
-    end: 2024-09-30
+    end: 2024-12-31
     status: independent
+    employer: Scopopop
+    startups:
+      - aplus
 startups:
   - aplus
 previously:
   - workinfrance
+competences: []
 ---

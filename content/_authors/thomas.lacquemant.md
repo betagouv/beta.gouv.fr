@@ -1,11 +1,12 @@
 ---
 fullname: Thomas Lacquemant
 role: Relation NUMA - Beta
-domaine: Animation
+domaine: Coaching
 missions:
   - start: 2020-02-28
-    end: 2024-09-29
+    end: 2027-09-29
     status: service
     employer: NUMA
+competences: []
 ---
-Officiellement responsable Secteur Public pour NUMA. Officieusement home-studiste et cycliste
+Officiellement responsable Secteur Public pour NUMA. Officieusement home-studiste et cycliste. 
