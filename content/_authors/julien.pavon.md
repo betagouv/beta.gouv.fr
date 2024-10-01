@@ -4,10 +4,12 @@ role: Développeur Fullstack
 domaine: Développement
 missions:
   - start: 2021-10-19
-    end: 2024-10-31
+    end: 2025-01-31
     status: independent
-    employer: Octo
+    employer: Octo-Malt
     startups:
       - potentiel
+github: JulienPavon
+competences: []
 ---
 Software/Coach Craftsman TDD, BDD et retrogaming addict

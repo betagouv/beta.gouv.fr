@@ -16,28 +16,24 @@ sponsors:
   - /organisations/dsr
 phases:
   - name: investigation
-    comment: null
     start: 2023-11-20
-    end: null
   - name: construction
-    comment: null
     start: 2024-04-25
-    end: null
 events:
   - name: committee
+    date: 2023-11-22
     comment: |-
       Innvoathon du MI et lancement de l'initiative au sein de TechMIUp 2023-2024
       Présentation de JuriGPT auprès du SG MI et du DTNUM (Novembre 2023)
-    date: 2023-11-22
   - name: committee
-    comment: 2ème comité TechMIUp
     date: 2024-02-10
+    comment: 2ème comité TechMIUp
   - name: committee
-    comment: 3ème comité TechMIUp
     date: 2024-04-26
+    comment: 3ème comité TechMIUp
   - name: committee
-    comment: Comité final TechMIUp
     date: 2024-07-04
+    comment: Comité final TechMIUp
 ---
 ## Contexte
 

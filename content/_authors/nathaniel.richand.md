@@ -6,7 +6,7 @@ link: http://www.agiletribu.com
 github: nrichand
 missions:
   - start: 2022-02-11
-    end: 2024-09-15
+    end: 2024-09-01
     status: independent
     employer: Omnicité
     startups:
@@ -17,6 +17,12 @@ missions:
     employer: Opteamis
     startups:
       - reva
+  - start: 2024-09-03
+    end: 2024-11-30
+    status: independent
+    employer: Malt
+    startups:
+      - l-application-du-cej
 startups:
   - signalement
   - reva

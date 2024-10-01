@@ -4,7 +4,7 @@ fullname: Victoria Bocquet
 role: Coach Product
 missions:
   - start: 2024-04-03
-    end: 2024-10-31
+    end: 2024-11-15
     status: independent
     startups:
       - pv.facile

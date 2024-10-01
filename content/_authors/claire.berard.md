@@ -1,6 +1,6 @@
 ---
 fullname: Claire Berard
-role: Coach agile / Faciliatrice
+role: Coach et facilitatrice
 domaine: Coaching
 missions:
   - start: 2022-06-06

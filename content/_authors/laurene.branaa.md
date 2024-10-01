@@ -1,6 +1,6 @@
 ---
 fullname: Laurène Branaa
-role: Chargée de déploiement SEVES
+role: Chargée de déploiement
 domaine: Déploiement
 github: lbranaa
 missions:
@@ -20,4 +20,5 @@ previously:
   - nosgestesclimat
 memberType: beta
 competences: []
+link: https://www.linkedin.com/in/laurene-branaa/
 ---

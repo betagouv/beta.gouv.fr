@@ -25,7 +25,26 @@ thematiques:
   - Open-Data
 techno: []
 ---
-L'API Engagement **transforme radicalement l'accès aux opportunités d'engagement** en amplifiant la visibilité des annonces. Cette initiative pionnière booste la collaboration entre une mosaïque d'acteurs variés, tels que 1jeune1solution, 1jeune1mentor, Contrat d'Engagement Jeune, les CROUS, Nomad Education, LinkedIn, et plusieurs autres, incluant des collectivités telles que Lille et Bordeaux.
+### Qu'est-ce que l'API Engagement?
+
+L'API Engagement est un service public numérique qui permet aux plateformes d'engagement associatives, publiques et privées de **mettre en commun leurs missions**.
+
+L'API Engagement **transforme radicalement l'accès aux opportunités d'engagement** en augmentant la visibilité des annonces, facilitant l’engagement et en augmentant le nombre de personnes qui participent aux actions. Cette initiative pionnière booste la collaboration entre une mosaïque d'acteurs variés, tels que 1jeune1solution, 1jeune1mentor, Contrat d'Engagement Jeune, les CROUS, Nomad Education, LinkedIn, et plusieurs autres, incluant des collectivités telles que Lille et Bordeaux.
+
+
+### À quoi sert l'API Engagement ?
+
+L'API Engagement permet au plus grand nombre d'**accéder aux opportunités d'engagement en simplifiant le partage et la diffusion de missions** de bénévolat et de volontariat.
+
+Avec cette technologie, les points de rencontres sont multipliés : les annonces de missions de bénévolat / volontariat sont accessibles aux bons endroits, c'est-à-dire là où les personnes qui souhaitent s'engager se trouvent : sites de mairies, applications, plateformes d'engagement, etc. L'API Engagement permet ainsi :
+
+* **Côté annonceur,** de publier des missions afin de démultiplier la visibilité de celles-ci afin d'augmenter le nombre de personnes qui candidatent aux actions.
+
+* **Côté diffuseur**, d'exposer son audience à des missions de bénévolat et de volontariat sur son site internet en propre.
+
+L'API Engagement propose également à ses utilisateurs un tableau de bord pour **tracker les impressions, les créations de compte les clics et candidatures générés via ses outils**. Ainsi, chaque acteur (annonceur ou diffuseur) est capable d'identifier l'impact de ses actions.
+
+### Historique
 
 Lancée en 2020, l'API Engagement a émergé d'une investigation approfondie des défis rencontrés par les associations et les plateformes d'engagement. Les solutions identifiées incluent la simplification de la gestion des annonces, l'analyse des données pour mieux comprendre les comportements utilisateurs, et l'accroissement de la visibilité des initiatives locales.
 
@@ -37,4 +56,7 @@ Depuis 2023, l’API fait l’objet d’un nouvel intérêt de la part de diffus
 
 En 2024, l’API contribue activement à la construction de synergies entre les politiques publiques d’engagement civique. Forts de premiers résultats très encourageant sur les candidatures croisées (32 000 candidatures croisées en 2023), les équipes de l’API ont organisé le travail collectif entre JeVeuxAider.gouv.fr, le Service Civique et le Service National Universel autour de la création d’un parcours d’engagement, et de complémentarités entre les dispositifs. Les résultats de ce travail de synergies servent de socle opérationnel aux réflexions sur une vision plus large, interministérielle, des dispositifs d’engagement, menées par la DJEPVA.
 
-À ce jour, l’API Engagement a généré près de 1 900 000 redirections et 90 000 candidatures effectives au profit de plus de 50 plateformes d’engagement (dits annonceurs) dont service-civique.gouv.fr et JeVeuxAider.gouv.fr, via un réseau de plus de 250 diffuseurs.
+
+### Impact
+
+À ce jour, l’API Engagement a généré près de 1 900 000 redirections et 90 000 candidatures effectives au profit de plus de 50 plateformes d’engagement (dits annonceurs) dont le Service Civique et JeVeuxAider.gouv.fr, via un réseau de plus de 250 diffuseurs.
