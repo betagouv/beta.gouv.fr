@@ -11,19 +11,25 @@ missions:
     startups:
       - agents.en.intervention
       - espace.sur.demande
+  - start: 2024-09-10
+    end: 2025-03-31
+    status: independent
+    employer: Little Big Connection
+    startups:
+      - tacct
 memberType: beta
 previously:
   - espace.sur.demande
 link: https://www.linkedin.com/in/alexandre-joubert-baeta-labs/?locale=fr_FR
 competences:
   - Facilitation
-  - Communication
   - Intrapreneur(se)
   - Product design
   - Product strategy
   - UX
   - Croissance
   - Coaching
+  - Product management
 ---
-Je dis que je suis PM à mes parents pour ne pas avoir à leur expliquer que je suis Designer de services.
-Je ne suis pas full-time actuellement et donc disponible pour de nouveaux produits !
+Je dis à mes parents que je suis PM pour ne pas avoir à leur expliquer que je suis avant tout Designer de services.
+Créateur d'un collectif d'indépendants spécialisés en design pour l'intérêt général :)

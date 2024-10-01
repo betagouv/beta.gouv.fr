@@ -1,7 +1,7 @@
 ---
 domaine: Design
 fullname: Sarah Farnault
-role: Design
+role: Design UX & Research
 missions:
   - start: 2024-04-22
     end: 2025-01-31
@@ -23,7 +23,7 @@ J'accompagne des organisations à géométrie variable, de la startup au grand g
 Ma spécialité : la stratégie, la conception et l'optimisation de leur service avec les méthodes de design thinking et de recherche utilisateur.
 
 Secteur : 
-ESS, Service public, RH, Industrie, Retail ...
+ESS, Service public, secteur culturel
 
 Mes convictions ? 
 ✨ Oser l'intelligence collective & Remettre le vivant au centre de nos conceptions 🌍

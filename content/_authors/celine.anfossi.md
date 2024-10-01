@@ -1,13 +1,11 @@
 ---
 fullname: Céline ANFOSSI
 role: Chargée de déploiement
-domaine: Produit
+domaine: Autre
 missions:
   - start: 2022-11-02
-    end: 2024-10-31
+    end: 2025-01-31
     status: independent
-    startups:
-      - monpsy
 link: https://www.linkedin.com/in/celine-anfossi/
 competences: []
 ---

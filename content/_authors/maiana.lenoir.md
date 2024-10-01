@@ -6,7 +6,7 @@ competences:
   - Facilitation
 missions:
   - start: 2024-09-24
-    end: 2024-10-31
+    end: 2025-02-20
     status: independent
     employer: LittleBig Connexion
     startups:

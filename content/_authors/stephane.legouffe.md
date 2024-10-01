@@ -3,11 +3,12 @@ fullname: Stéphane Legouffe
 domaine: Développement
 role: Développeur
 github: slegouffe
-link: https://wawy.io
+link: https://www.linkedin.com/in/stéphane-legouffe-7a43065b
 missions:
   - start: 2018-03-08
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
+    employer: Scopyleft
     startups:
       - lannuaire.des.collectivites
 competences:

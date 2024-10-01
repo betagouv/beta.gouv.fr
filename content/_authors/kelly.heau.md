@@ -5,11 +5,15 @@ domaine: Déploiement
 github: KellyHeau
 missions:
   - start: 2023-01-13
-    end: 2024-12-31
+    end: 2024-05-30
     status: independent
     employer: MALT
     startups:
       - a-just
+  - start: 2024-09-09
+    end: 2024-11-30
+    status: independent
+    startups:
       - mobilic
 memberType: beta
 competences: []
