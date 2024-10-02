@@ -5,13 +5,13 @@ role: Chargé de déploiement
 github: Jonathan2051
 missions:
   - start: 2020-07-20
-    end: 2024-09-30
+    end: 2025-01-31
     status: independent
     employer: Opteamis
     startups:
       - codedutravail
   - start: 2022-10-25
-    end: 2024-08-31
+    end: 2025-01-31
     status: independent
     employer: Malt
     startups:

@@ -5,7 +5,7 @@ role: Développement
 github: dolemoine
 missions:
   - start: 2024-05-01
-    end: 2024-10-31
+    end: 2024-12-31
     status: independent
     employer: Malt
     startups:

@@ -10,12 +10,15 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-04
+  - name: construction
+    start: 2024-10-01
 thematiques:
   - Collectivités
   - Administratif
 usertypes:
   - etat
-techno: []
+techno:
+  - django
 ---
 ## La start-up
 
@@ -31,4 +34,4 @@ La phase d’investigation s’est tenue au premier semestre 2024 et a permis de
 
 ## L’équipe
 
-L’équipe est composée de Nicolas et Mélanie (intrapreneurs), Chloé (coach) et Adrien (responsable de portefeuille). Un designer et un développeur sont en cours de recrutement.
+L’équipe est composée de Nicolas et Mélanie (intrapreneurs), Chloé (coach) et Thibault (responsable de portefeuille). Clarie (UX designer) et Agnès (Développeuse) ont rejoint l'équipe pour entamer la construction.

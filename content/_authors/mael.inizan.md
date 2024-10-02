@@ -5,7 +5,7 @@ role: Coach produit transverse
 link: https://www.linkedin.com/in/mael-inizan/
 missions:
   - start: 2021-01-11
-    end: 2026-09-30
+    end: 2025-12-31
     status: independent
     employer: NUMA
     startups:
@@ -14,7 +14,7 @@ missions:
       - locadocs
       - parcours.de.saisine
   - start: 2022-02-01
-    end: 2025-12-31
+    end: 2026-09-30
     status: admin
     startups:
       - chauffage-urbain
