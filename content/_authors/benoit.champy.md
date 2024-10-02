@@ -14,6 +14,8 @@ missions:
       - france.nation.verte.agir
       - pass-sport
       - reperer.identifier.victimes.teh
+teams:
+  - /teams/animation-dinum
 badges:
   - segur
 competences:
