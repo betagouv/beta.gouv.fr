@@ -20,13 +20,8 @@ missions:
       - chauffage-urbain
       - mesaidesreno
       - territoires-en-transitions
-startups:
-  - la.bonne.renov
-  - parcours.de.saisine
-  - chauffage-urbain
-previously:
-  - collectif_objets
-  - locadocs
+teams:
+  - /teams/animation-dinum
 competences:
   - UX
   - Coaching
