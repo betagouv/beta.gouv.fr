@@ -1,6 +1,6 @@
 ---
 title: RDV Service Public
-mission: Faciliter la prise des rendez-vous entre le service public et les usagers
+mission: Faciliter la gestion et la prise de rendez-vous dans les administrations
 sponsors:
   - /organisations/anct
   - /organisations/dinum
@@ -14,16 +14,17 @@ dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
 analyse_risques: true
 accessibility_status: non conforme
 thematiques:
-  - Santé
   - Collectivités
   - Social
+  - Administratif
+  - Inclusion numérique
 redirect_from:
   - /startups/lapins
   - /startups/rdv-services-publics
 usertypes:
   - collectivite-territoriale
   - particulier
-  - association
+  - etat
 stats_url: https://www.rdv-solidarites.fr/stats/
 events:
   - name: national_impact
@@ -37,20 +38,6 @@ phases:
     start: 2019-04-01
 techno: []
 ---
-<div class="fr-callout fr-fi-information-line">
-    <strong>
-        Votre administration souhaite découvrir la solution ? 
-    </strong>
-<div class="fr-callout__text">
-<p>
-    Vous pouvez consulter la plaquette de présentation👇
-</p>
-</div>
-
-<a target="_blank" href="https://www.canva.com/design/DAF7cZT3uYc/XO4Gau3d_6OXE1Ip883U0w/view?utm_content=DAF7cZT3uYc&utm_campaign=designshare&utm_medium=link&utm_source=editor">Lire la plaquette</a>
-
-</div>
-
 ## Qui sommes-nous ?
 
 Nous sommes l’équipe produit RDV Service Public, solution numérique portée par l’Agence Nationale de la Cohésion des Territoires et la Direction Interministérielle du Numérique.
@@ -59,60 +46,70 @@ L’équipe est guidée par une vision : *être la solution de gestion et de pri
 
 ## Notre mission
 
-Donner la possibilité à tout agent qui le souhaite, à un groupe d’agents, à une administration ou à l’occasion de la réalisation d’une politique publique locales ou nationale, de proposer des plages de rendez-vous aux usagers en présentiel ou à distance.
+Donner la possibilité à tout agent qui le souhaite, à un groupe d’agents, à une administration ou à l’occasion d’une politique publique locale ou nationale, de gérer ses rendez-vous et proposer ses disponibilités aux usagers en présentiel ou à distance.
 
 ## Qui peut l’utiliser ?
 
-Tout agent ou groupe d’agents qui souhaite ouvrir ses disponibilités à de la prise de rendez-vous aux usagers ou souhaite simplifier la gestion des rendez-vous dans son service. 
 
-🏛️ **Les services de l’État**
+**Administrations de l’État**
 
-Dans le cadre d’une politique publique nationale, d’une administration centralisée ou décentralisée. 
+Administrations décentralisées, agences nationales ou ministères, la solution est ouverte à l’ensemble des services de l’État.
 
-🗺️ **Les services des collectivités**
+**Collectivités territoriales**
 
-Dans le cadre d’une compétence exercée par une collectivité territoriale, partagée par tout ou partie des services de la collectivités ou de l’intercommunalité.
+Services communaux, départementaux ou régionaux, la solution est ouverte à toutes les compétences des collectivités territoriales.
 
-## Nos fonctionnalités
+**Opérateurs publics**
 
-**👐 Faciliter la prise de rendez-vous**
+La solution est ouverte aux opérateurs publics nationaux comme aux structures mutualisatrices territoriales.
 
-Votre administration rend accessible ses disponibilités en ligne. Vos usagers peuvent planifier des rendez-vous d’information téléphonique ou des rendez-vous au guichet.
+## Les problèmes à résoudre
+Le rendez-vous est omniprésent dans la fonction publique — tant au sein des collectivités territoriales, des services de l’État que des opérateurs — pour permettre un temps d’échanges entre un agent et un usager. C’est une tâche basique mais qui engendre de nombreux problèmes métiers et techniques dans le quotidien des agents.
 
-**😌 Simplifier la gestion de rendez-vous**
+- Gestion administrative chronophage
+- Des rendez-vous non honorés 🐰
+- Manque de souplesse pour l’usager
+- Absence de données pour mesurer l’activité
+- Dépendance aux solutions propriétaires
 
-Vos agents partagent leurs disponibilités. Vos agents peuvent rapidement trouver des disponibilités et planifier des rendez-vous dans les agendas de tous les agents de votre administration. 
+## Les solutions
 
-**📱 Envoyer des notifications de rappel**
+**➜ Centralisez les informations**
 
-Des SMS et mail de notifications sont envoyés à chaque planification de rendez-vous. Les usagers peuvent modifier ou annuler le rendez-vous depuis cette notification.
+Les informations des usagers, des disponiblités et des rendez-vous sont centralisées pour simplifier le quotidien des agents et permettre une réponse rapide aux usagers.
 
-**📊 Obtenir des statistiques**
+**➜ Éviter les rendez-vous non honorés**
 
-Votre administration peut mesurer et exporter l'activité de ses rendez-vous.
+Des notifications SMS et emails de création, de modification et de rappel de rendez-vous sont envoyées automatiquement aux usagers limitant le nombre de rendez-vous non honorés.
 
-**🔗 Faire de la prescription**
+**➜ Ouvrir vos disponibilités en ligne**
 
-Les administrations de votre territoire peuvent planifier un rendez-vous pour le compte d'un usager dans les disponibilités de vos agents. 
+Votre administration peut rendre accessible ses disponibilités en ligne. Les usagers peuvent planifier des rendez-vous téléphonique, en visioconférence ou en présentiel en choisissant leur préférence selon vos disponiblités.
 
-## Notre impact
+**➜ Améliorer l’expérience usager**
 
-RDV Service Public c'est **2 350 000 rendez-vous planifiés** pour **9000 utilisateurs** avec en moyenne :
+L’interface (aux couleurs de la charte de l’État) propose un parcours simple et rapide pour les usagers facilitant ainsi les démarches avec vos services. Les usagers peuvent modifier ou annuler un rendez-vous en autonomie.
 
-* ➡️ **4x** moins de rendez-vous non honorés
-* ➡️ **2x** moins d’attente pour les usagers
-* ➡️ **3x** plus rapide pour l’agent
+**➜ Produire des statistiques**
+
+Les données des rendez-vous sont centralisées et permettent la production de statistiques pour mesurer votre activité et accompagner votre prise de décision.
+
+## L'utilisation
+
+RDV Service Public c'est **2 715 045 rendez-vous planifiés** dans **990 structures** pour **9000 utilisateurs**. 
 
 ## Notre histoire
 
-**Investigation 🗓️ de 2018 à 2019**
+Le point de départ est une investigation menée en 2018 par le département du Pas-De-Calais qui a mis en évidence les difficultés de prise de rendez-vous dans les services médico-sociaux du département.
 
-Une investigation menée par le département du Pas-De-Calais en 2018 a mis en évidence les difficultés de prise de rendez-vous dans les services médico-sociaux du département. La DINUM et 13 départements ont formé un consortium pour développer une solution numérique commune appelée RDV Solidarités.
+**De 2019 à 2022**
 
-**Construction 🗓️ de 2020 à 2022**
+Avec l’accompagnement de la DINUM puis de l’ANCT, 13 départements ont formé un consortium pour développer une solution numérique commune appelée RDV Solidarités.
 
-Consciente du potentiel de cette solution numérique au sein des collectivités territoriales, l'équipe est incubée depuis 2020 par l'Agence Nationale de la Cohésion des Territoires. 
+**En 2023**
 
-**Accélération 🗓️ depuis 2023**
+Consciente du potentiel de la solution numérique au sein des d’autres catégories d’administration, l’équipe teste la solution auprès de structures variées pour valider l’intérêt d’une solution générique.
 
-Après plusieurs tests au sein d’autres niveaux de collectivités territoriales et auprès des services de l’État, RDV Solidarités devient RDV Service Public, un outil de gestion et de prise de rendez-vous qui vise à outiller tous les services publics.
+**En 2024**
+
+L’équipe assume l’intention de la généricité et s’engage dans une roadmap à la mission et la vision renouvelée. La solution est appelée RDV Service Public. 

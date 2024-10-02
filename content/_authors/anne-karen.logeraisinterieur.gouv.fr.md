@@ -11,5 +11,10 @@ missions:
     end: 2024-12-31
     status: admin
     employer: MIOM
+    startups:
+      - juri-gpt
+  - start: 2024-10-02
+    end: 2025-01-02
+    status: independent
 ---
 Je suis intrapreneure de l'initiative JuriGPT.

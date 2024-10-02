@@ -5,9 +5,15 @@ role: Chargée de déploiement
 github: alizeeeeeee
 missions:
   - start: 2022-02-28
+    end: 2023-06-30
+    status: independent
+    employer: Octo puis Malt
+    startups:
+      - aides.jeunes
+  - start: 2024-10-01
     end: 2024-12-31
     status: independent
-    employer: Octo
+    employer: Fairness / La Zone
     startups:
       - boris
 badges:
@@ -16,4 +22,6 @@ competences:
   - Gestion de Produit
   - Communication
   - Croissance
+  - SEO
+  - SEM
 ---

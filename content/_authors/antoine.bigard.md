@@ -13,11 +13,16 @@ missions:
       - boite.aux.lettres
       - catalogue-apprentissage
       - dematapprentissage
+      - generateur.de.contrat.d.apprentissage
+      - la-bonne-alternance
+      - tdb-apprentissage
 previously:
   - pop
 competences:
   - Administration Système
   - Développeur full stack
+  - Product strategy
 teams:
   - /teams/mission-apprentissage
+link: https://www.linkedin.com/in/antoine-bigard/
 ---

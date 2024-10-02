@@ -1,7 +1,7 @@
 ---
 fullname: Moroine Bentefrit
 domaine: Développement
-role: Développeur
+role: Lead Technique
 github: moroine
 missions:
   - start: 2023-06-05
@@ -11,6 +11,8 @@ missions:
     startups:
       - api.apprentissage
       - boite.aux.lettres
+      - la-bonne-alternance
+      - tdb-apprentissage
 memberType: beta
 competences:
   - Administration Système

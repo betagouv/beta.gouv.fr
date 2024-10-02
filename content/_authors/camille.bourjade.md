@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2024-10-07
     end: 2025-01-03
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - longuevieauxobjets
 ---
