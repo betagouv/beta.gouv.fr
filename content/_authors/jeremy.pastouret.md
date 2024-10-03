@@ -5,7 +5,7 @@ domaine: Développement
 github: jenovateurs
 missions:
   - start: 2024-03-20
-    end: 2024-11-20
+    end: 2024-12-31
     status: independent
     startups:
       - aides.jeunes

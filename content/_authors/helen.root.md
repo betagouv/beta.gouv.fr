@@ -5,10 +5,11 @@ domaine: Développement
 github: hfroot
 missions:
   - start: 2020-12-22
-    end: 2024-10-27
+    end: 2024-12-27
     status: independent
     employer: Scopyleft
     startups:
+      - icare-complements-alimentaires
       - ma-cantine-egalim
 badges:
   - segur

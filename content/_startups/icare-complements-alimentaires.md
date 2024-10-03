@@ -12,7 +12,7 @@ phases:
 link: https://compl-alim.beta.gouv.fr/accueil
 repository: https://github.com/betagouv/complements-alimentaires
 stats: false
-contact: compl-alim@beta.gouv.fr
+contact: contact@compl-alim.beta.gouv.fr
 usertypes:
   - entreprise
 thematiques:
@@ -30,14 +30,13 @@ Permettre une circulation de compléments alimentaires conformes à la réglemen
 
 ## Quelques chiffres : 
 
-plus de 2,4 Md d’euros en 2022
+* plus de 2,4 Md d’euros en 2022
 : La valeur du marché avec une demande et une offre en constante croissance
 
-1600 dossiers déposés à la DGAl par mois par les professionnels
+* 1600 dossiers déposés à la DGAl par mois par les professionnels
 : Tous les mois, le nombre de produits déclarés ou soumis à la demande d'autorisation de l'administration via la plateforme teleicare, outil actuel pour déposer un dossier. Outil obsolète et ne répondant que partiellement aux besoins des 3 instructrices des dossiers.
 
-50%, part estimée des compléments alimentaires en vente mais non connus de l'administration
-: Car non déclarés par les professionels et pourtant disponibles dans les canaux de distribution
+* de nombreux compléments alimentaires en vente mais non connus de l'administration (une enquête-mystère sur en à relevé 50% sur 30 produits choisis au hasard en GMS, pharmacies, internet) car non déclarés par les professionnels et pourtant disponibles dans les canaux de distribution
 
 
 ## Le problème : 

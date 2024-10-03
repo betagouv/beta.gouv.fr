@@ -1,10 +1,10 @@
 ---
-fullname: Claire Berard
-role: Coach et facilitatrice
+fullname: Claire Bérard
+role: Coach
 domaine: Coaching
 missions:
   - start: 2022-06-06
-    end: 2024-12-31
+    end: 2023-12-31
     status: admin
     employer: MIOM / DTNUM
   - start: 2024-03-04
@@ -20,4 +20,4 @@ competences:
   - Coaching
   - Administration Publique
 ---
-Chargée de mission communication innovation - Coaching agile - Facilitatrice d'ateliers d'intelligence collective
+Chargée de mission communication innovation - Coach agile - Facilitatrice d'ateliers d'intelligence collective

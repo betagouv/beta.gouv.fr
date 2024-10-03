@@ -5,7 +5,7 @@ domaine: Déploiement
 github: celinebagault
 missions:
   - start: 2023-10-09
-    end: 2024-09-30
+    end: 2025-06-01
     status: independent
     startups:
       - transition-ecologique-des-entreprises
