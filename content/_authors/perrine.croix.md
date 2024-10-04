@@ -6,9 +6,15 @@ missions:
   - start: 2024-02-20
     end: 2024-09-30
     status: independent
-    employer: Ministère des Sports
+    employer: pass Sport
     startups:
       - pass-sport
+  - start: 2024-10-03
+    end: 2025-01-01
+    status: independent
+    employer: AccesLibre
+    startups:
+      - acceslibre
 memberType: autre
 link: https://www.linkedin.com/in/perrine-croix/
 competences:

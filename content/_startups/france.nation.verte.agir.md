@@ -1,12 +1,12 @@
 ---
-title: France Nation Verte / Agir
+title: France Nation Verte / J'agis
 mission: Accompagner les citoyens de manière personnalisée dans la transition écologique
 sponsors:
   - /organisations/sgpe
 incubator: dinum
-link: https://agir.beta.gouv.fr
+link: https://jagis.beta.gouv.fr
 contact: contact@agir.beta.gouv.fr
-accessibility_status: partiellement conforme
+accessibility_status: non conforme
 repository: https://github.com/betagouv/agir-back
 phases:
   - name: investigation
@@ -17,6 +17,7 @@ thematiques:
   - Écologie
 usertypes: []
 techno: []
+dashlord_url: https://dashlord.incubateur.net/url/agir-beta-gouv-fr/best-practices/
 ---
 ## Contexte
 

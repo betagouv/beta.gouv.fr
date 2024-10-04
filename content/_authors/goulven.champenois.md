@@ -4,7 +4,7 @@ fullname: Goulven Champenois
 role: Développement
 missions:
   - start: 2024-04-23
-    end: 2024-08-31
+    end: 2024-12-31
     status: independent
     employer: UT7
     startups:
@@ -20,3 +20,4 @@ competences:
   - DSFR
 memberType: beta
 ---
+Développeur fullstack formé à l'accessibilité et attentif à l'ergonomie, j'aime écrire du code maintenable et améliorer l'expérience utilisateur•ice. 
