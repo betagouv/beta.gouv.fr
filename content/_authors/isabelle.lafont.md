@@ -12,5 +12,7 @@ missions:
       - datapass
 badges:
   - segur
+link: https://www.linkedin.com/in/isabelle-lafont/
+competences: []
 ---
 Développeuse full-stack le jour, tricoteuse la nuit. J'aime l'open-source et la montagne.

@@ -9,10 +9,10 @@ phases:
   - name: investigation
     start: 2021-07-09
     end: 2022-12-29
-  - name: alumni
-    start: 2022-12-30
+  - name: construction
+    start: 2022-01-01
   - name: acceleration
-    start: 2024-08-02
+    start: 2024-08-01
 accessibility_status: partiellement conforme
 analyse_risques: true
 thematiques: []
@@ -21,6 +21,10 @@ usertypes:
   - collectivite-territoriale
 techno: []
 repository: https://gitlab.adullact.net/dgfip/faritas
+budget_url: https://beta.gouv.fr/startups/faritas.html#:~:text=Budget
+events:
+  - name: product_launch
+    date: 2024-10-03
 ---
 ## Le problème: une inefficience dans la collecte et le reversement de la taxe de séjour par les plateformes numériques
 
@@ -71,3 +75,13 @@ Afin de passer à l'échelle ce service innovant, la DGFiP, en collaboration ave
 La construction du projet FARITAS est guidée par différents indicateurs d’impact, qui permettent d’ajuster les fonctionnalités à développer et de garantir la bonne adéquation du produit aux attentes de ses utilisateurs.
 
 Ces indicateurs s'attacheront à quantifier la **pénétration du service** qui reste facultatif dans le cadre de cette expérimentation législative (nombre d'utilisateurs actifs, volume de taxe traité), à objectiver la **simplification de la gestion** de cette taxe (gain de temps pour les agents des collectivités comme pour les déclarants) ainsi qu'à mesurer l'**amélioration de l'équité fiscale** (procédures de contrôle menées, sanctions appliquées, progression de la qualité comptable).
+
+## Budget 
+
+| Année | Montant | Destination |
+| --- | --- | --- |
+| 2021 | 50 000 € | Phase d'investigation
+| 2022 | 250 000 € | Prototypage et tests Produit
+| 2023 | 400 000 € | Mise en Production, Déploiement national, Améliorations continues
+| 2024 | 30 000 € | Accélération et mise en conformité aux standards beta.gouv.fr
+2024 | 60 000 € | Fonds Accessibilité

@@ -13,4 +13,5 @@ missions:
       - oots.once-only.technical.system
 previously:
   - demarches-simplifiees.fr
+competences: []
 ---

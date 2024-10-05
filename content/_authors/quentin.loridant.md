@@ -6,11 +6,13 @@ link: https://www.multi.coop/team?locale=fr&item=.%2Ftexts%2Fteam%2Fpeople%2FQue
 github: qloridant
 missions:
   - start: 2023-05-09
-    end: 2024-10-29
+    end: 2025-05-09
     status: service
     employer: La Zone - Scopyleft
     startups:
+      - icare-complements-alimentaires
       - ma-cantine-egalim
 memberType: beta
+competences: []
 ---
 Data Engineer  Associé chez multi.coop

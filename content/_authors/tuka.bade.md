@@ -5,7 +5,7 @@ domaine: Data
 github: Master-Touks
 missions:
   - start: 2023-12-11
-    end: 2024-10-03
+    end: 2025-04-03
     status: independent
     employer: Malt
     startups:

@@ -1,12 +1,12 @@
 ---
 domaine: Développement
 fullname: Antoine MAZURE
-role: Développement
+role: Tech lead
 missions:
   - start: 2024-04-24
-    end: 2024-12-20
+    end: 2025-02-20
     status: service
-    employer: Octo
+    employer: OCTO
     startups:
       - agora
 github: inemesis
