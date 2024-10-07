@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2024-03-11
-    end: 2024-07-05
+    end: 2025-01-01
     status: admin
     employer: Plateforme de l'inclusion
 memberType: beta
