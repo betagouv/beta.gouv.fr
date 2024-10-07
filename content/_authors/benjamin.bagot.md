@@ -1,12 +1,14 @@
 ---
-domaine: Animation
+domaine: Développement
 fullname: Benjamin Bagot
-role: Animation
+role: Développeur
 missions:
   - start: 2024-04-30
-    end: 2024-07-30
+    end: 2025-12-30
     status: service
     employer: Dinum
     startups:
       - data.etat
+competences:
+  - Développement Full-stack
 ---

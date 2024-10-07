@@ -1,17 +1,24 @@
 ---
 mission: Limiter les allers-retours sur les devis et les factures lors de l'instruction des dossiers de demandes d'aides à la rénovation énergétique pour les logements des particuliers
 incubator: mtes
-title: Checklist demande Aides Rénovation énergétique
-contact: simon.huffeteau@developpement-durable.gouv.fr
+title: Devis Sans Oublis (anciennement Checklist et Devis Facile)
+contact: martin.letellier@beta.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/dgaln
 phases:
   - name: investigation
     start: 2023-11-27
+  - name: construction
+    start: 2024-10-01
 thematiques:
   - Écologie
   - Administratif
+  - Logement
+usertypes:
+  - particulier
+  - entreprise
+techno: []
 ---
 ## Contexte
 

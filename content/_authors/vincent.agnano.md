@@ -10,6 +10,13 @@ missions:
     end: 2024-12-31
     status: service
     employer: lazone
+    startups:
+      - 1-jeune-1-arbre
+      - api-drones
+      - classe-a-12
+      - data.gouv.fr
+      - eac
+      - egalite.professionnelle
 previously:
   - egalite.professionnelle
   - classe-a-12
@@ -21,5 +28,7 @@ competences:
   - Développement Frontend
   - Développement Backend
   - Gestion de Produit
+  - Développement Full-stack
+  - Python
 ---
-Accompagnement des équipes pour l'Incubateur des Territoires (ANCT), développeur, animateur de tiers-lieux en zones rurales.
+Portage des équipes pour l'Incubateur des Territoires (ANCT), développeur, animateur de tiers-lieu en zone rurale.

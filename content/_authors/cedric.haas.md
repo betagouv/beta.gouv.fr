@@ -7,8 +7,8 @@ competences:
 missions:
   - start: 2023-09-01
     end: 2025-06-27
-    employer: SGDSN
     status: admin
+    employer: SGDSN
     startups:
       - athena
 ---

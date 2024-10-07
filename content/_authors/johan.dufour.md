@@ -12,8 +12,8 @@ competences:
 missions:
   - start: 2024-10-01
     end: 2024-12-31
-    employer: Fabrique du numérique
     status: independent
+    employer: Fabrique du numérique
     startups:
       - vapp
 ---

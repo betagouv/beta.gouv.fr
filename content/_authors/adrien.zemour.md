@@ -1,6 +1,6 @@
 ---
 fullname: Adrien Zemour
-role: Responsable de portefeuille Territoires, Culture, Affaires étrangères
+role: Responsable de portefeuille Territoires, Affaires Etrangères, Culture et Transition Ecologique (à compter de 2025)
 domaine: Développement
 link: https://www.linkedin.com/in/adrien-zemour/
 github: AdrienZmr
@@ -22,5 +22,6 @@ previously:
   - chauffage-urbain
 teams:
   - /teams/animation-dinum
+competences: []
 ---
 On m'a vu dans le Vercors

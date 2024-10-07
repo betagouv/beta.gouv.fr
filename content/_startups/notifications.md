@@ -1,5 +1,5 @@
 ---
-title: Notifications
+title: Notifications - itération 1
 mission: Améliorer la qualité des communications entre les administrations et les citoyens
 incubator: dinum_produits_interministeriels
 sponsors:
@@ -18,6 +18,8 @@ phases:
     start: 2023-06-23
 usertypes:
   - etat
+thematiques: []
+techno: []
 ---
 ## Contexte
 

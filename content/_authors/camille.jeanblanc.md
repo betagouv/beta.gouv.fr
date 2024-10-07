@@ -4,7 +4,7 @@ role: UX Researcher
 domaine: Design
 missions:
   - start: 2024-06-03
-    end: 2024-09-30
+    end: 2025-03-31
     status: independent
     startups:
       - data-inclusion

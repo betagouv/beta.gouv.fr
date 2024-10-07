@@ -51,13 +51,15 @@ Lancé suite au plan de Relance avec l'enjeu de ne plus avoir à utiliser AirTab
 
 ## Problème
 
-Comment rendre les données comptables de l'Etat (exemple CHORUS) et de ses opérateurs intelligibles et réutilisables pour les agents métiers et leur donner enfin une vision complète des financements publics sur les territoires pour mieux piloter les politiques publiques en toute interministérialité ?
+Comment rendre les données comptables de l'Etat (exemple CHORUS) et de ses opérateurs intelligibles et réutilisables pour les agents métiers et leur donner enfin une vision complète des financements publics sur les territoires (jusqu'à un niveau Quartier Politique de la Ville (QPV) pour mieux piloter les politiques publiques en toute interministérialité ?
 
 ## Solution
 
 Data-État est la création par l'administration territoriale de l'Etat d'une nouvelle infrastructure de partage et de réutilisation de la donnée de l'Etat et ses opérateurs. Via différentes solutions : tableaux dynamiques, graphiques/ data viz, cartographique... via des outils libres, souverains et no code, mettre à la main de tous les agents métiers la possibilité d'accéder aux données et de les réutiliser pour améliorer l'action publique.
 
+*- DATA QPV fait partie des solutions propulsées par DATA-ETAT. Lauréat du TechMiup 2024, cette solution vise à l'accès aux données les plus fines dont financières de l’État et ses opérateur concernant les QPV en France*
+
 ## Stratégie
 
-Déploiement en Bretagne (SGAR avec l'appui technique de la DREAL sur l'ATE + éducation nationale et Justice) puis déploiement aux opérateurs publics et autres SGARs de France pour nationalisation et pérennisation de la solution. 
-Le développement du projet est assuré via le GIP SIB dont l'Etat est membre.
+Déploiement en Bretagne (SGAR avec l'appui technique de la DREAL sur l'ATE + éducation nationale et Justice) puis déploiement aux opérateurs publics et autres SGARs de France pour nationalisation et pérennisation de la solution avec l'appui d'un financement national DINUM. 
+Le développement du projet et des solutions (dont DATA QPV) est assuré via le GIP SIB dont l’État est membre.

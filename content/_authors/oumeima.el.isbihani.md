@@ -4,7 +4,7 @@ fullname: Oumeima El Isbihani
 role: Développement
 missions:
   - start: 2024-05-02
-    end: 2024-11-07
+    end: 2025-01-08
     status: independent
     employer: Malt
     startups:

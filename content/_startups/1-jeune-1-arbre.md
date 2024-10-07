@@ -23,7 +23,13 @@ phases:
   - name: construction
     start: 2024-08-12
 link: https://1jeune1arbre.beta.gouv.fr/
-techno: []
+techno:
+  - express
+  - css
+  - html
+  - web-components
+  - javascript
+repository: https://github.com/betagouv/1jeune1arbre/
 ---
 ## Contexte :
 

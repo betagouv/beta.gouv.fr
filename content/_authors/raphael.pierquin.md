@@ -15,6 +15,7 @@ missions:
       - grist.numerique.gouv.fr
       - l-application-du-cej
       - l-immersion-facile
+      - notifications-iteration-2
 previously:
   - zam
   - maraudes
@@ -22,5 +23,6 @@ previously:
   - culture_amateurs
   - dumas
   - sppnaut
+competences: []
 ---
 Coach des startups, des papillons et des abeilles aux pieds libres.

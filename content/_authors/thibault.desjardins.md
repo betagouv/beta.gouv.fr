@@ -1,7 +1,7 @@
 ---
 fullname: Thibault Desjardins
 domaine: Déploiement
-role: Responsable de portefeuille Intérieur
+role: Responsable de portefeuille Travail, Intérieur, Armées.
 github: Tibo-aplus
 missions:
   - start: 2019-10-01

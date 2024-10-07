@@ -1,7 +1,7 @@
 ---
 fullname: Magali Marcel
 domaine: Animation
-role: Responsable de portefeuille Economie / Agriculture
+role: Responsable de portefeuille Agriculture, Economie et Finances publiques.
 github: magalimarcelgarreau
 missions:
   - start: 2023-10-02
