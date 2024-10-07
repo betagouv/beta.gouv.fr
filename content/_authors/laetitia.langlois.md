@@ -5,7 +5,7 @@ role: Développement
 github: weblaetitia
 missions:
   - start: 2024-07-01
-    end: 2024-09-30
+    end: 2024-12-31
     status: independent
     employer: Scopyleft
     startups:

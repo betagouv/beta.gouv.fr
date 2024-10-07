@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/ggounot/
 github: ggounot
 missions:
   - start: 2024-03-14
-    end: 2024-09-30
+    end: 2024-12-31
     status: independent
     startups:
       - dora

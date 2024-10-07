@@ -16,5 +16,5 @@ competences:
   - Développement Full-stack
   - Administration Publique
 memberType: beta
-github: https://github.com/Acrend
+github: Acrend
 ---

@@ -5,7 +5,9 @@ domaine: Coaching
 link: https://pathtech.fr/
 missions:
   - start: 2021-10-05
-    end: 2024-09-30
+    end: 2026-01-01
     status: service
+    employer: Pathtech
+competences: []
 ---
 Coach, Directeur numérique. Fan de sport et d'aventures!

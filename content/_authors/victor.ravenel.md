@@ -15,4 +15,4 @@ missions:
 memberType: beta
 competences: []
 ---
-Product Coach, Software Engineer, Tech Builder
+Coach Produit & Tech

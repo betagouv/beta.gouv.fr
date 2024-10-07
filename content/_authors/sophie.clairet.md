@@ -11,7 +11,7 @@ missions:
     startups:
       - umap
   - start: 2024-05-01
-    end: 2024-09-30
+    end: 2025-01-30
     status: independent
     employer: LittleBigConnection
     startups:
@@ -27,4 +27,4 @@ previously:
   - ban
   - bases.adresses.locales
 ---
-Chargée de déploiement pour la startup d’État BAL (ANCT)
+Chargée de déploiement pour le programme uMap

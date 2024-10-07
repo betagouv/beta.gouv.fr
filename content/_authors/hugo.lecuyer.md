@@ -4,7 +4,7 @@ fullname: Hugo Lecuyer
 role: Développement
 missions:
   - start: 2024-06-10
-    end: 2024-09-30
+    end: 2025-03-31
     status: independent
     employer: Malt
     startups:

@@ -4,7 +4,7 @@ fullname: Nesma Hatem
 role: Déploiement
 missions:
   - start: 2024-04-15
-    end: 2024-09-30
+    end: 2025-01-31
     status: independent
     employer: Malt
     startups:

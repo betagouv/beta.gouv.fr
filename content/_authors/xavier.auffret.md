@@ -7,8 +7,8 @@ competences:
 missions:
   - start: 2021-10-17
     end: 2026-03-31
-    employer: Malt
     status: service
+    employer: Malt
     startups:
       - monitorfish
       - rapportnav

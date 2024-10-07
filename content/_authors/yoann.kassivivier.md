@@ -14,9 +14,15 @@ missions:
       - jeveuxaider
       - snu
   - start: 2022-07-01
-    end: 2024-07-31
+    end: 2024-09-30
     status: independent
     employer: NUMA
+    startups:
+      - api-engagement
+  - start: 2024-10-01
+    end: 2025-01-31
+    status: independent
+    employer: MALT
     startups:
       - api-engagement
 startups:

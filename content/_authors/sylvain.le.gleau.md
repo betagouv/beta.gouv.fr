@@ -6,7 +6,7 @@ link: https://legleau.com
 github: sylvainlg
 missions:
   - start: 2023-05-22
-    end: 2024-10-22
+    end: 2025-01-31
     status: independent
     employer: Scopyleft
     startups:
