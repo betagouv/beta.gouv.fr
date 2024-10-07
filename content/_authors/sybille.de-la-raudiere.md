@@ -5,11 +5,12 @@ domaine: Déploiement
 github: sybilledlr-beta
 missions:
   - start: 2022-07-05
-    end: 2024-10-05
+    end: 2025-01-03
     status: independent
     employer: UT7
     startups:
       - collectif_objets
 badges:
   - segur
+competences: []
 ---

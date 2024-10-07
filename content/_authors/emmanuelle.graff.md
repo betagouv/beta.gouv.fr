@@ -8,4 +8,6 @@ missions:
     status: admin
     employer: DINUM
 memberType: beta
+github: EmmanuelleGraff
+competences: []
 ---

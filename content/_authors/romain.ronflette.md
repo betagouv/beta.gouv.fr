@@ -9,8 +9,13 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - fonds.de.plans
       - infrastructures.numeriques
+  - start: 2024-05-01
+    end: 2025-03-31
+    status: independent
+    employer: Happy Dev
+    startups:
+      - fonds.de.plans
 badges:
   - segur
 competences:

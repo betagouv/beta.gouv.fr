@@ -5,9 +5,10 @@ domaine: Développement
 github: wiwski
 missions:
   - start: 2021-09-21
-    end: 2024-09-29
+    end: 2025-03-31
     status: independent
     employer: UT7
     startups:
       - euphrosyne
+competences: []
 ---
