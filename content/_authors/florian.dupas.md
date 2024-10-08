@@ -6,7 +6,7 @@ link: https://www.kwalia.fr
 github: anymus
 missions:
   - start: 2022-05-16
-    end: 2024-09-29
+    end: 2024-12-31
     status: independent
     employer: OCTO
 badges:
