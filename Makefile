@@ -17,10 +17,6 @@ sh:
 	$(DOCKER-RUN) web bash
 rm:
 	docker-compose rm -sf
-up-nginx: down-nginx
-	docker-compose -f docker-compose.nginx.yml up -d
-down-nginx:
-	docker-compose -f docker-compose.nginx.yml down
 
 html-proofer:
 	bundle exec htmlproofer ./_site/ --ignore-files "/recrutement\/*/" --no-enforce-https --disable-external --root_dir _site/ --allow-missing-href
