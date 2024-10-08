@@ -21,8 +21,6 @@ startups:
   - trackdechets
 competences:
   - Data Science
-  - data engineering
-  - data analytics
   - Machine learning
   - Metabase
 ---

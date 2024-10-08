@@ -13,9 +13,9 @@ memberType: beta
 link: https://www.linkedin.com/in/melanie-virgel/
 competences:
   - Communication
-  - formation
-  - Développement commercial
   - Conception supports de communication et formation
   - Animation réseaux sociaux
   - Tutrice
+  - Business Developpement
+  - Formation
 ---

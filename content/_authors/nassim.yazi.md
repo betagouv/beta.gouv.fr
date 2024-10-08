@@ -12,8 +12,7 @@ competences:
 missions:
   - start: 2024-01-03
     end: 2025-09-15
-    employer: Éducation nationale
     status: admin
-    startups: []
+    employer: Éducation nationale
 ---
 Alternant à l’incubateur de la DNE au MENJ

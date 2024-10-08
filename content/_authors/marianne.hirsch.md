@@ -13,7 +13,6 @@ missions:
       - investigation-ij
 competences:
   - Product design
-  - UX UI
   - Gestion de Produit
   - Product strategy
   - UX

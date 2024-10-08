@@ -24,8 +24,8 @@ startups:
   - inclusion.connect
   - les-emplois
 competences:
-  - elm
   - Python
   - Développement Backend
   - Développement Full-stack
+  - Elm
 ---

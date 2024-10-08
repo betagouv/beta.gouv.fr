@@ -3,7 +3,7 @@ fullname: Antoine San Segundo
 role: UX Designer
 domaine: Design
 competences:
-  - design
+  - Design
 missions:
   - start: 2024-08-01
     end: 2024-09-30

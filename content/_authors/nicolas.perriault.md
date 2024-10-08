@@ -37,8 +37,8 @@ previously:
 competences:
   - Développement Full-stack
   - Elm
-  - Node
   - Python
   - Django
+  - JavaScript/TypeScript
 ---
 En quête de sens numérique
