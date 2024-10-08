@@ -1,6 +1,6 @@
 ---
 title: Longue vie aux objets
-mission: Accélérer la réparation, le partage des objets et faciliter le geste de tri
+mission: Encourager le tri et la consommation pour donner une nouvelle vie aux objets, éviter l'achat neuf et réduire les déchets
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -17,6 +17,8 @@ redirect_from:
 usertypes:
   - particulier
   - entreprise
+  - collectivite-territoriale
+  - association
 analyse_risques_url: https://github.com/incubateur-ademe/quefairedemesobjets/blob/main/SECURITY.md
 events:
   - name: committee
@@ -29,7 +31,9 @@ phases:
 thematiques:
   - Écologie
 stats_url: https://longuevieauxobjets.ademe.fr/stats
-techno: []
+techno:
+  - python
+  - django
 ---
 ## Contexte 👀
 
@@ -48,12 +52,14 @@ Parallèlement, le dispositif des filières de *Responsabilité élargie du pro
 Inspiré du principe « pollueur-payeur », le dispositif de REP implique que les acteurs économiques (fabricants, distributeurs, importateurs) sont responsables de l’ensemble du cycle de vie des produits qu’ils mettent sur le marché : éco-conception des produits, prévention des déchets, allongement de la durée d’usage et gestion de fin de vie.
 
 ## Solution 💡
+[Longue vie aux objets](https://longuevieauxobjets.ademe.fr/?mtm_campaign=FicheBetaGouv) accompagne les citoyens au tri à la consommation responsable, grâce à **des bonnes pratiques et adresses autour de chez eux**, pour éviter l'achat neuf et réduire les déchets.
 
-[Longue vie aux objets](https://longuevieauxobjets.ademe.fr/?mtm_campaign=FicheBetaGouv) met à disposition des collectivités, des associations, des acteurs du réemploi et des médias, des **outils gratuits pour les aider à valoriser l’économie circulaire sur leur territoire**, et les citoyens à **mieux consommer**.
+[Longue vie aux objets](https://longuevieauxobjets.ademe.fr/?mtm_campaign=FicheBetaGouv) met à disposition de ses réutilisateurs (collectivités, associations, entreprises et médias) des **outils numériques gratuits de sensibilisation au tri et à la consommation responsable** qui valorisent les acteurs de l'économie sur chaque territoire.
 
 Nous proposons deux outils pour valoriser l'économie circulaire :
-* **[La Carte](https://longuevieauxobjets.ademe.fr/lacarte/?mtm_campaign=FicheBetaGouv)**, avec une **approche géolocalisée**, met en avant les **solutions locales pour prolonger la vie de ses objets**. Elle est adaptée pour des collectivités qui n'ont pas de cartographie dédiée au réemploi et à la réparation, ou aux médias locaux. Les citoyens découvrent de bonnes adresses autour de chez eux.
-* **[L'Assistant](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv)**, avec une **approche conseil**, aide les citoyens à **comprendre le cycle de vie des objets, pour cesser de les jeter**. Il est adapté pour les collectivités souhaitant aider leurs concitoyens à mieux trier, et aux médias qui traitent de réemploi, réparation ou recyclage. Les citoyens sont guidés pour se désencombrer de façon responsable.
+* **[L'Assistant](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv)**, avec une **approche conseil**, aide les citoyens à **comprendre le cycle de vie des objets, pour cesser de les jeter**. Les citoyens sont guidés pour se désencombrer de façon responsable.
+* **[La Carte](https://longuevieauxobjets.ademe.fr/lacarte/?mtm_campaign=FicheBetaGouv)**, avec une **approche géolocalisée**, met en avant les **solutions locales pour prolonger la vie de ses objets**. Les citoyens découvrent de bonnes adresses autour de chez eux pour mieux consommer.
+
 
 Nous avons aussi l'ambition de rendre progressivement toutes nos  **données accessibles en open-data** pour qu'elles puissent être réutilisées facilement.
 
@@ -72,3 +78,20 @@ La carte a été mise en avant lors de la campagne de communication de l’ADEME
 Nous prévoyons un déploiement progressif de nos outils sur les sites des collectivités pour toucher leurs usagers, en commençant par les collectivités de tailles petite et moyenne, n’ayant pas de solutions numériques ou incomplètes sur ce sujet.
 
 Comme point d’entrée unique pour les citoyens, nous nous appuyons sur l'outil “[Que faire de mes objets & déchets](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv)” connu depuis 10 ans, relayé chaque année par des campagnes ministérielles et mentionné sur les étiquettes de nombreux objets, pour toucher le maximum de citoyens. 
+
+## Impact 🌎
+
+Longue vie aux objets est un service numérique conçu selon l’**approche Startup d’État et piloté par l’impact**.
+
+Pour mesurer l'impact de nos produits, nous nous fixons des objectifs et des indicateurs.
+
+Nos 3 principaux objectifs avec pour chacun leur indicateur  "étoile du nord" suivi :
+* **Fiabiliser et enrichir les données** : suivi du pourcentage des acteurs de notre base de données avec un SIRET
+* **Démultiplier la réutilisation de nos outils** (avec un focus sur les collectivités) : suivi du nombre de collectivités réutilisant un de nos outils
+* **Orienter nos utilisateurs vers les pratiques les plus responsables** : suivi du nombre d'interactions mensuelles avec les solutions proposées sur notre carte
+
+Tous nos indicateurs peuvent être suivis sur le [site de notre startup](https://longuevieauxobjets.ademe.fr/stats/).
+
+Aujourd’hui, une grande partie de ces métriques d’usage et d’impact sont suivies grâce aux outils Posthog, Matomo et Metabase.
+
+Un **comité d’investissement**, instance de pilotage principal d’un service numérique dans le programme beta.gouv.fr, a lieu tous les 6 mois pour faire le point sur l’impact obtenu par l’équipe et arbitrer sur les objectifs et les investissements consentis pour la poursuite du service.
