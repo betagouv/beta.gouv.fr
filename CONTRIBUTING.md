@@ -38,60 +38,22 @@ Les créations et modifications de fiches membres peuvent se faire via l'[Espace
 
 ## Développement en local
 
-### Utilisation de Jekyll
+Ce site est construit avec [Jekyll](https://jekyllrb.com/).
 
-Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est la [3.8.5](https://github.com/jekyll/jekyll/releases/tag/v3.8.5/).
-
-Pour initialiser votre environnement de développement, commencez par installer [Ruby](https://www.ruby-lang.org/fr/) dans la version spécifiée par le fichier `.ruby-version`.
-Si vous utilisez RVM pour isoler votre environnement, vous pouvez le faire avec la commande suivante :
+Pour lancer le serveur et commencer à développer, un environnement
+Docker est fourni. Des commandes utiles sont fournies dans le
+[`Makefile`](./Makefile), mais pour démarrer :
 
 ```sh
-rvm install `cat .ruby-version`
+docker compose up
 ```
 
-Toujours avec RVM, vous pouvez créer un fichier `.ruby-gemset` contenant un nom de gemset à utiliser en local.
-Il vous suffit alors de sortir puis revenir du répertoire pour que le gemset soit créé correctement si votre shell est bien configuré.
-
-Ensuite, exécutez les commandes suivantes :
+Si vous préférez installer le projet sur votre système :
 
 ```sh
-git clone https://github.com/betagouv/beta.gouv.fr.git
-cd beta.gouv.fr
-gem install bundler --no-ri --no-rdoc
-npm install
 bundle install
-bundle exec jekyll serve
-```
-
-#### Gestion des dépendances
-
-Afin de minimiser les écarts entre les versions de développement et les versions de production, ce dépôt contient un fichier `Gemfile` (spécification des versions minimum des dépendances), comme beaucoup de dépôts Ruby.
-
-### Développement local avec Docker
-
-Un environnement de developpement local basé sur docker, est disponible.
-Les prérequis d'execution sont :
-- Makefile
-- docker
-- docker-compose
-- npm
-
-Pour lancer son environnement local:
-```bash
-# Installation des assets à copier
-npm i
-
-# Génération des fichiers
-make build
-
-# Exécution des tests
-make test
-
-# Lancement de Jekyll
-make up
-
-# Arrêt de Jekyll
-make down
+npm install
+bundle exec jekyll serve --incremental --livereload
 ```
 
 Le site beta.gouv est alors accessible en local sur `http://localhost:4000`
