@@ -18,8 +18,6 @@ competences:
   - Croissance
   - Coaching
   - Communication
-  - Business Developpement
   - Négociation
-  - Stratégie Commercial
-  - Stratégie de Partenariat
+  - Business Developpement
 ---

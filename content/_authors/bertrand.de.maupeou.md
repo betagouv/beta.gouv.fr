@@ -10,7 +10,6 @@ missions:
       - l-application-du-cej
 github: bertranddm
 competences:
-  - data analyse
   - Data Science
   - Metabase
   - Matomo

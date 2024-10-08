@@ -14,7 +14,7 @@ badges:
   - segur
 competences:
   - Communication
-  - support utilisateurs
+  - Support
 previously:
   - france-numerique-ensemble
   - cartographie.nationale

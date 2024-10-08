@@ -11,6 +11,6 @@ missions:
       - dossierfacile
 memberType: autre
 competences:
-  - concepteur designer ui
+  - UI
 ---
 Hello , je suis yohann et je suis concepteur designer ui.

@@ -11,9 +11,8 @@ competences:
 missions:
   - start: 2024-05-02
     end: 2027-05-02
-    employer: Éducation nationale
     status: admin
-    startups: []
+    employer: Éducation nationale
 ---
 Jérémie, Ingénieur Data @ MENJ 
 EIG Prom6 @ CEREMA

@@ -14,9 +14,9 @@ missions:
 memberType: beta
 competences:
   - PHP
-  - css
-  - html
   - JavaScript/TypeScript
   - Python
+  - CSS
+  - HTML
 ---
 Artisan du web

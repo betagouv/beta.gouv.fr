@@ -10,6 +10,6 @@ missions:
     startups:
       - place-de-marche-inclusion
 competences:
-  - achats
+  - Achats
 memberType: beta
 ---

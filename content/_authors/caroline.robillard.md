@@ -15,5 +15,5 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
-  - Coach agile
+  - Agilité
 ---
