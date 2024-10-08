@@ -11,7 +11,7 @@ missions:
       - tchap
 link: https://www.linkedin.com/in/eduardo-trejos/
 competences:
-  - 'data analysis '
-  - python
+  - Data Science
+  - Python
 memberType: beta
 ---

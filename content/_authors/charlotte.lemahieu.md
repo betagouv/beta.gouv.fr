@@ -12,5 +12,5 @@ missions:
 memberType: beta
 competences:
   - Intrapreneur(se)
-  - 'lean management; process '
+  - Agilité
 ---

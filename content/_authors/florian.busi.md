@@ -9,10 +9,10 @@ missions:
     employer: ANCT
 memberType: beta
 competences:
-  - SSI
-  - cybersécurité
   - Analyse de risques
   - Sécurité informatique
   - Administration Système
+  - Sécurité informatique
+  - Sécurité informatique
 link: https://www.linkedin.com/in/fbusi
 ---

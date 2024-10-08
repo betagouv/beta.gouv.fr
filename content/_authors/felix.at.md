@@ -15,8 +15,8 @@ memberType: beta
 previously:
   - tdb-apprentissage
 competences:
-  - Data Analyse
   - Metabase
   - PostgreSQL
+  - Data Science
 ---
 Analyser des données, lire des romans et manger des croziflettes. SQL, MongoDB, Metabase...

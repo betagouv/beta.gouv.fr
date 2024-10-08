@@ -19,9 +19,9 @@ missions:
 startups:
   - sndv_maritime
 competences:
-  - Intrapreneur
-  - Gestion de produit
   - Gestion de système d'information
   - Product strategy
   - Droit / Affaires juridiques
+  - Gestion de Produit
+  - Intrapreneur(se)
 ---

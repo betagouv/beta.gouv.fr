@@ -16,6 +16,6 @@ teams:
 badges:
   - segur
 competences:
-  - 'support '
-  - Sens du service et relation client
+  - Relation usagers
+  - Support
 ---

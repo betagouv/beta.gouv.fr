@@ -15,8 +15,8 @@ competences:
 missions:
   - start: 2024-10-07
     end: 2030-01-07
-    employer: Éducation nationale
     status: admin
+    employer: Éducation nationale
     startups:
       - 1-jeune-1-arbre
       - monstage

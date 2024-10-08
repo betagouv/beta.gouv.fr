@@ -17,7 +17,7 @@ competences:
   - UX
   - UI
   - Product design
-  - écoconception
+  - Écoconception
 memberType: beta
 link: https://www.linkedin.com/in/leowellhoff/
 ---

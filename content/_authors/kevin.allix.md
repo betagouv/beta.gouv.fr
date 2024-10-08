@@ -12,8 +12,8 @@ competences:
 missions:
   - start: 2024-10-07
     end: 2025-01-07
-    employer: Scopopop
     status: independent
+    employer: Scopopop
     startups:
       - demarches-simplifiees.fr
 ---

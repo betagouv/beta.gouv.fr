@@ -15,12 +15,9 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2023-12-22
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-10-04
 ---
 ## Problématique

@@ -13,6 +13,6 @@ link: https://fr.linkedin.com/in/marie-guibert-6653571a9
 github: marieguibpref
 competences:
   - Data Science
-  - Analyse de données
+  - Data Science
 memberType: beta
 ---

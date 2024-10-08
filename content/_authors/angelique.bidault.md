@@ -19,7 +19,7 @@ link: https://www.linkedin.com/in/angelique-bidault/
 competences:
   - UX
   - Product design
-  - ui
   - Communication
+  - UI
 ---
 Service & Product designer freelance basée à Nantes, engagée dans des missions à impact et d'intérêt général. #conseil #ux #direction-créative

@@ -8,8 +8,7 @@ competences:
 missions:
   - start: 2024-09-02
     end: 2040-01-01
-    employer: Éducation nationale
     status: admin
-    startups: []
+    employer: Éducation nationale
 ---
 ♾️ Mentor DevOps | SRE
