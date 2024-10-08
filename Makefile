@@ -3,8 +3,6 @@ BUNDLE-EXEC = bundle exec
 
 build:
 	docker compose build
-test:
-	$(DOCKER-RUN) web /bin/bash -c 'ci/test.sh'
 spec:
 	$(DOCKER-RUN) web $(BUNDLE-EXEC) rspec
 guard:
