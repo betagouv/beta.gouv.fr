@@ -18,5 +18,6 @@ previously:
   - chauffage-urbain
 competences:
   - Coaching
+link: https://www.linkedin.com/in/dlequepeys
 ---
 Coach startup, Orpailleur du service public… en quête de pépites !
