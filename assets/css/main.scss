@@ -115,6 +115,10 @@
   padding: 1em;
 }
 
+.fr-card__title {
+  word-wrap: break-word;
+}
+
 /* Ajouter un nouveau style rond sur les cartes */
 .fr-card.fr-card__img__rounded {
   background: linear-gradient(180deg, #ffffff00 20%, #f9f8f6 20%)
