@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: DINUM
     startups:
-      - notifications
+      - notifications-v1
 badges:
   - segur
 previously:

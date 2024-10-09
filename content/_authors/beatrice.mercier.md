@@ -26,7 +26,7 @@ startups:
   - signalement
 previously:
   - transport
-  - notifications
+  - notifications-v1
   - participation-citoyenne
   - rdv.consulat
   - protege-toit

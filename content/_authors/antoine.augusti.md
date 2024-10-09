@@ -9,7 +9,7 @@ missions:
     end: 2024-12-31
     status: independent
     startups:
-      - notifications
+      - notifications-v1
       - transport
 ---
 Politiques publiques, humains, code

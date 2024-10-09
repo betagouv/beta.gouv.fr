@@ -8,7 +8,7 @@ thematiques:
 usertypes:
   - etat
   - particulier
-title: Notifications - itération 2
+title: Notifications
 mission: Protéger les citoyens des arnaques et sécuriser la communication administrative
 incubator: dinum_produits_interministeriels
 sponsors:
@@ -20,6 +20,10 @@ events:
   - name: product_launch
     date: 2024-10-04
 ---
+## Contexte
+
+Suite à [une première expérimentation menée en 2022](notifications-v1), un nouveau produit est lancé pour tenter d'améliorer l'information des administrations auprès des citoyens.
+
 ## Problématique
 
 L'administration a l'obligation légale et morale de tenir les usagers informés de l'avancement de leurs démarches et de leurs droits. Cependant, la situation actuelle compromet gravement cette mission essentielle :
