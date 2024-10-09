@@ -10,7 +10,7 @@ usertypes:
 techno:
   - python
 title: JuriGPT
-mission: "Faciliter par l'intelligence artificielle l'analyse juridique en droit de l'immatriculation"
+mission: 'Faciliter par l''intelligence artificielle l''analyse juridique en droit de l''immatriculation '
 incubator: FabNum-MI
 sponsors:
   - /organisations/dsr
