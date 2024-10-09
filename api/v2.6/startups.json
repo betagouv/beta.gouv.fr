@@ -21,7 +21,7 @@ layout: null
             , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
             , "events": [
                 {% for event in startup.events %}
-                    { "name": "{{event.name}}", "date": "{{event.date}}", "comment": "{{event.comment}}"}{% unless forloop.last %},{% endunless %}
+                    { "name": "{{event.name}}", "date": "{{event.date}}", "comment": "{{event.comment | strip_newlines }}"}{% unless forloop.last %},{% endunless %}
                 {% endfor %}
                 ]
             , "phases": [
