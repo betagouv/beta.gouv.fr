@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: DINUM
     startups:
-      - notifications
+      - notifications-v1
       - valorisation.des.stages.pro
 badges:
   - segur

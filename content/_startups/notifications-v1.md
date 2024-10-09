@@ -1,5 +1,5 @@
 ---
-title: Notifications - itération 1
+title: Notifications (itération 1)
 mission: Améliorer la qualité des communications entre les administrations et les citoyens
 incubator: dinum_produits_interministeriels
 sponsors:
@@ -48,3 +48,8 @@ Le problème pour les usagers :
 L'équipe Notifications se propose d'expérimenter pendant une première phase de six mois la création d'un service qui permette à la fois d’automatiser l’envoi d’emails qui soit respectueuse du RGPD, et de garantir la livraison la plus fiable possible des communications auprès des usagers (faible taux de bounce, alerte dès qu’un email est non livré…). Le service s'adresse en priorité aux Startups d'Etat en phase d'accélération, devant gérer un nombre importants d'emails ou SMS envoyés auprès des usagers du service.
 
 A terme, le service notifications.gouv.fr pourrait permettre de faire monter en qualité les communications électroniques entre l’administration et les usagers (par email et sms) en proposant des bonnes pratiques aux administrations dans la prise de contact avec les usagers (proposer des modèles d'emails de relance par exemple, espacer les envois de mail…).
+
+## Conclusion
+
+Cette première expérimentation n'était pas concluante.
+[Une nouvelle expérimentation](notifications-v2) a été lancée en 2024.

@@ -15,7 +15,7 @@ missions:
       - grist.numerique.gouv.fr
       - l-application-du-cej
       - l-immersion-facile
-      - notifications-iteration-2
+      - notifications-v2
 previously:
   - zam
   - maraudes
