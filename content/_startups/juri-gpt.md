@@ -22,7 +22,9 @@ phases:
 events:
   - name: committee
     date: 2023-11-22
-    comment: "Innovathon du MI et lancement de l'initiative au sein de TechMIUp 2023-2024. Présentation de JuriGPT auprès du SG MI et du DTNUM (Novembre 2023)"
+    comment: |-
+      Innvoathon du MI et lancement de l'initiative au sein de TechMIUp 2023-2024
+      Présentation de JuriGPT auprès du SG MI et du DTNUM (Novembre 2023)
   - name: committee
     date: 2024-02-10
     comment: 2ème comité TechMIUp
