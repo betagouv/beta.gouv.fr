@@ -11,8 +11,9 @@ title: Accessibilité
 - [Bilan 2023](/accessibilite/schema-pluriannuel#bilan-2023)
 - [Plan d'action 2024](/accessibilite/schema-pluriannuel#plan-2024)
 
-## Déclaration d'accessibilité
-*Établie le 21 août 2024.*
+## Déclaration de conformité partielle au RGAA
+
+*Établie le 9 octobre 2024.*
 
 Cette déclaration d’accessibilité s’applique au site **beta.gouv.fr**. 
 
@@ -23,28 +24,19 @@ beta.gouv.fr est **partiellement conforme** avec le RGAA 4.2.
 ### Résultats des tests
 
 L’audit de conformité au RGAA version 4.2 réalisé en août 2024 par la société [Ideance](https://ideance.net/fr/) révèle que sur l’échantillon :
-- Le **taux de conformité global est de 73,1%**. Ce taux est obtenu en divisant le nombre de critères conformes par le nombre de critères applicables.
-- Le taux de conformité moyen est de 90,8%. Ce taux est obtenu en faisant la moyenne des taux de conformité de chaque page.
+- Le **taux de conformité global est de 98,1 %**. Ce taux est obtenu en divisant le nombre de critères conformes par le nombre de critères applicables.
+- Le taux de conformité moyen est de 99,9 %. Ce taux est obtenu en faisant la moyenne des taux de conformité de chaque page.
 
 ### Contenus non accessibles
 
-#### Non-conformités
+#### Non-conformité
 
-Voici les non-conformités relevées par l'audit : 
-- Notre [bilan 2023](https://beta.gouv.fr/content/docs/betagouv_presentation.pdf) sous forme de PDF ne possède pas de version accessible (critère 13.3). <span class="fr-badge fr-badge--success">Corrigé</span>
-- La page [Communauté](/communaute/) affiche des graphiques sans alternatives textuelles (critère 4.8). <span class="fr-badge fr-badge--success">Corrigé</span>
-- Certaines balises sont utilisées uniquement à des fins de présentation (critère 8.9). <span class="fr-badge fr-badge--success">Corrigé</span>
-- Certaines listes ne sont pas correctement structurées (critère 9.3). <span class="fr-badge fr-badge--success">Corrigé</span>
-- Des informations ne sont pas compréhensibles lorsque les feuilles de styles sont désactivées (critère 10.3) <span class="fr-badge fr-badge--success">Corrigé</span>.
-- Sur nos contenus en anglais, le code de langue par défaut n’est pas pertinent (critère 8.4). <span class="fr-badge fr-badge--success">Corrigé</span>.
-- Des titres de page ne sont pas pertinents (critère 8.6). <span class="fr-badge fr-badge--success">Corrigé</span>
-- Des changements de langue ne sont pas indiqués (critère 8.7). <span class="fr-badge fr-badge--success">Corrigé</span>
-- Des liens ne sont pas explicites (critère 6.1). <span class="fr-badge fr-badge--success">Corrigé</span>
-- Sur certaines pages, la présentation est faite directement dans la page plutôt que via des feuilles de styles (critère 10.1). <span class="fr-badge fr-badge--success">Corrigé</span>
-- Sur des petits écrans de 320 px, certains contenus sont peu lisibles (critère 10.11). <span class="fr-badge fr-badge--success">Corrigé</span>
-- Certains contrastes entre couleur de texte et couleur d’arrière-plan ne sont pas suffisamment élevés (critère 3.2).
-- Nos fiches produits, rédigées par des contributeurs, ne sont pas toujours correctement structurées par des titres (critère 9.1).
-- Des déclarations CSS de couleurs de fond et de police ne sont pas correctement utilisées (critère 10.5).
+Critère 4.9 : *Pour chaque média non temporel ayant une alternative, cette alternative est-elle pertinente ?*
+
+
+La page [Indicateurs](/stats) propose des graphiques accompagnés d'une transcription. Cette transcription n'intègre pas toutes les données disponibles. Cependant, nous avons tenté de rentre l'information accessible en proposant : 
+- un résumé de chaque graphique
+- le téléchargement des données brutes au format CSV.
 
 #### Contenus non soumis à l’obligation d’accessibilité
 
