@@ -10,7 +10,7 @@ usertypes:
 techno:
   - python
 title: JuriGPT
-mission: 'Faciliter par l''intelligence artificielle l''analyse juridique en droit de l''immatriculation '
+mission: "Faciliter par l'intelligence artificielle l'analyse juridique en droit de l'immatriculation"
 incubator: FabNum-MI
 sponsors:
   - /organisations/dsr
@@ -22,9 +22,7 @@ phases:
 events:
   - name: committee
     date: 2023-11-22
-    comment: |-
-      Innvoathon du MI et lancement de l'initiative au sein de TechMIUp 2023-2024
-      Présentation de JuriGPT auprès du SG MI et du DTNUM (Novembre 2023)
+    comment: "Innovathon du MI et lancement de l'initiative au sein de TechMIUp 2023-2024. Présentation de JuriGPT auprès du SG MI et du DTNUM (Novembre 2023)"
   - name: committee
     date: 2024-02-10
     comment: 2ème comité TechMIUp
