@@ -19,6 +19,8 @@ phases:
     start: 2022-04-01
   - name: acceleration
     start: 2022-11-01
+  - name: success
+    start: 2024-01-30
 stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=277&period=range&date=previous30#?period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1&idSite=277
 analyse_risques: true
 thematiques:

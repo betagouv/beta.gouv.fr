@@ -9,5 +9,12 @@ missions:
     employer: Malt
     startups:
       - dossierfacile
+  - start: 2024-09-24
+    end: 2024-12-24
+    status: independent
+    employer: FairnessCoop
+    startups:
+      - vigieau
 memberType: beta
+competences: []
 ---

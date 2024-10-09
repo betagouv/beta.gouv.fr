@@ -5,10 +5,11 @@ domaine: Design
 link: https://studiolusse.com/
 missions:
   - start: 2022-02-25
-    end: 2025-01-31
+    end: 2024-09-30
     status: independent
     employer: Malt
     startups:
       - jeveuxaider
+competences: []
 ---
 Graphic Designer engagée !

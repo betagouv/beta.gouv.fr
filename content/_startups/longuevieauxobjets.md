@@ -1,6 +1,6 @@
 ---
 title: Longue vie aux objets
-mission: Encourager le tri et la consommation pour donner une nouvelle vie aux objets, éviter l'achat neuf et réduire les déchets
+mission: Encourager le tri et la consommation responsable pour donner une nouvelle vie aux objets, éviter l'achat neuf et réduire les déchets
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -38,35 +38,33 @@ techno:
 ## Contexte 👀
 
 
-*77% des citoyens sont motivés à changer leurs habitudes de consommation pour assurer l’avenir des générations futures.*
-Baromètre Greenflex, ADEME de la consommation responsable, 2023
+*77% des citoyens sont motivés à changer leurs habitudes de consommation pour assurer l’avenir des générations futures.* (Baromètre Greenflex, ADEME de la consommation responsable, 2023)
 
 Année après année, les français se déclarent de plus en plus nombreux à vouloir agir en faveur de l’environnement. Et le **tri et la consommation responsable** sont **au cœur des préoccupations** **et des gestes** que les citoyens peuvent mettre en place.
 
-Pour se désencombrer et consommer de manière plus responsable, les citoyens comme les professionnels du secteur ont besoin de connaître **l’ensemble des lieux où ils pourront réparer, recycler, partager, donner, vendre ces objets**.
+Pour se désencombrer et consommer de manière plus responsable, les citoyens comme les professionnels du secteur ont besoin de connaître **l’ensemble des lieux où ils pourront réparer, partager, donner ou vendre ces objets**.
 
 Si le tri des principaux emballages est désormais bien connu, il est loin d’être généralisé pour tous les objets. De plus, les pratiques de réparation et de partage peinent à s’inscrire de manière pérenne dans les pratiques de citoyens.
 
 Parallèlement, le dispositif des filières de *Responsabilité élargie du producteur* (REP) continue de s’élargir et de nouvelles filières REP s’apprêtent à être lancées.
-
 Inspiré du principe « pollueur-payeur », le dispositif de REP implique que les acteurs économiques (fabricants, distributeurs, importateurs) sont responsables de l’ensemble du cycle de vie des produits qu’ils mettent sur le marché : éco-conception des produits, prévention des déchets, allongement de la durée d’usage et gestion de fin de vie.
 
 ## Solution 💡
-[Longue vie aux objets](https://longuevieauxobjets.ademe.fr/?mtm_campaign=FicheBetaGouv) accompagne les citoyens au tri à la consommation responsable, grâce à **des bonnes pratiques et adresses autour de chez eux**, pour éviter l'achat neuf et réduire les déchets.
+[Longue vie aux objets](https://longuevieauxobjets.ademe.fr/?mtm_campaign=FicheBetaGouv) accompagne les **citoyens** au tri et à la consommation responsable, grâce à **des bonnes pratiques et adresses autour de chez eux**, pour éviter l'achat neuf et réduire les déchets.
 
-[Longue vie aux objets](https://longuevieauxobjets.ademe.fr/?mtm_campaign=FicheBetaGouv) met à disposition de ses réutilisateurs (collectivités, associations, entreprises et médias) des **outils numériques gratuits de sensibilisation au tri et à la consommation responsable** qui valorisent les acteurs de l'économie sur chaque territoire.
+Pour les **collectivités, associations, entreprises et médias**, Longue vie aux objets met à disposition des **outils numériques gratuits de sensibilisation au tri et à la consommation responsable** qui valorisent les acteurs de l'économie sur chaque territoire.
 
-Nous proposons deux outils pour valoriser l'économie circulaire :
-* **[L'Assistant](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv)**, avec une **approche conseil**, aide les citoyens à **comprendre le cycle de vie des objets, pour cesser de les jeter**. Les citoyens sont guidés pour se désencombrer de façon responsable.
+Deux outils sont disponibles :
+* **[L'Assistant "Que faire de mes objets & déchets"](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv)**, avec une **approche conseil**, aide les citoyens à **comprendre le cycle de vie des objets, pour cesser de les jeter**. Les citoyens sont guidés pour se désencombrer de façon responsable.
 * **[La Carte](https://longuevieauxobjets.ademe.fr/lacarte/?mtm_campaign=FicheBetaGouv)**, avec une **approche géolocalisée**, met en avant les **solutions locales pour prolonger la vie de ses objets**. Les citoyens découvrent de bonnes adresses autour de chez eux pour mieux consommer.
 
+Nous allons rendre progressivement toutes nos  **[données accessibles en open-data](https://longuevieauxobjets.ademe.fr/reutiliser-nos-donnees/?mtm_campaign=FicheBetaGouv)** pour qu'elles puissent être réutilisées facilement.
 
-Nous avons aussi l'ambition de rendre progressivement toutes nos  **données accessibles en open-data** pour qu'elles puissent être réutilisées facilement.
-
+Nous souhaitons devenir la **référence nationale des solutions de tri et de consommation responsable**, en valorisant les acteurs de l’économie circulaire et en diffusant nos outils gratuitement.
 
 ## Stratégie de diffusion 📈
 
-Pour augmenter la diffusion de nos outils et démultiplier leur usage, nous nous appuyons sur une stratégie B2B2C, avec des **relais locaux, collectivités, associations et entreprises**.
+Pour augmenter la diffusion de nos outils et démultiplier leur usage, nous nous appuyons sur une stratégie B2B2C, avec des **relais locaux, collectivités, associations,  entreprises et médias**.
 
 Nos objectifs pour nos relais sont : 
 - **Collectivités** : Communiquer facilement auprès de leurs administrés sur les lieux de réparation, réemploi ou recyclage.
@@ -75,9 +73,11 @@ Nos objectifs pour nos relais sont :
 
 La carte a été mise en avant lors de la campagne de communication de l’ADEME “[Epargnons nos ressources](https://epargnonsnosressources.gouv.fr/)” lancée en novembre 2023.
 
+Comme point d’entrée unique pour les citoyens, l'assistant “Que faire de mes objets & déchets” est connu depuis 10 ans, relayé chaque année par les [campagnes ministérielles sur l'Info-tri](https://www.ecologie.gouv.fr/info-tri) et mentionné sur les étiquettes de nombreux objets, pour toucher le maximum de citoyens. 
+
 Nous prévoyons un déploiement progressif de nos outils sur les sites des collectivités pour toucher leurs usagers, en commençant par les collectivités de tailles petite et moyenne, n’ayant pas de solutions numériques ou incomplètes sur ce sujet.
 
-Comme point d’entrée unique pour les citoyens, nous nous appuyons sur l'outil “[Que faire de mes objets & déchets](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv)” connu depuis 10 ans, relayé chaque année par des campagnes ministérielles et mentionné sur les étiquettes de nombreux objets, pour toucher le maximum de citoyens. 
+
 
 ## Impact 🌎
 
@@ -85,13 +85,13 @@ Longue vie aux objets est un service numérique conçu selon l’**approche Star
 
 Pour mesurer l'impact de nos produits, nous nous fixons des objectifs et des indicateurs.
 
-Nos 3 principaux objectifs avec pour chacun leur indicateur  "étoile du nord" suivi :
+Nos 3 principaux objectifs avec leur indicateur  "étoile du nord" suivi sont :
 * **Fiabiliser et enrichir les données** : suivi du pourcentage des acteurs de notre base de données avec un SIRET
 * **Démultiplier la réutilisation de nos outils** (avec un focus sur les collectivités) : suivi du nombre de collectivités réutilisant un de nos outils
 * **Orienter nos utilisateurs vers les pratiques les plus responsables** : suivi du nombre d'interactions mensuelles avec les solutions proposées sur notre carte
 
 Tous nos indicateurs peuvent être suivis sur le [site de notre startup](https://longuevieauxobjets.ademe.fr/stats/).
 
-Aujourd’hui, une grande partie de ces métriques d’usage et d’impact sont suivies grâce aux outils Posthog, Matomo et Metabase.
+Aujourd’hui, nos métriques d’impact et d'usage sont suivies grâce aux outils Posthog, Matomo et Metabase.
 
 Un **comité d’investissement**, instance de pilotage principal d’un service numérique dans le programme beta.gouv.fr, a lieu tous les 6 mois pour faire le point sur l’impact obtenu par l’équipe et arbitrer sur les objectifs et les investissements consentis pour la poursuite du service.
