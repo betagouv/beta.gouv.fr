@@ -12,7 +12,7 @@
             <p class="fr-card__detail">
                 {%- for sponsorId in startup.sponsors -%}
                     {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
-                    {% if forloop.index > 1 %} / {% endif %}<abbr title="{{sponsor.name}}">{{sponsor.acronym}}</abbr>
+                    {% if forloop.index > 1 %} / {% endif %}<abbr title="{{sponsor.acronym}} - {{sponsor.name}}">{{sponsor.acronym}}</abbr>
                 {%- endfor -%}
             </p>
         {%- endif -%}
