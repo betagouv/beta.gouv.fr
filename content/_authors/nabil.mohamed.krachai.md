@@ -4,7 +4,7 @@ fullname: Nabil Mohamed-Krachaï
 role: Autre
 missions:
   - start: 2024-05-12
-    end: 2024-09-30
+    end: 2025-03-31
     status: independent
     employer: Malt
     startups:
