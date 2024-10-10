@@ -37,6 +37,7 @@ fast:
 thematiques:
   - Logement
   - Administratif
+techno: []
 ---
 ## DossierFacile.fr devient DossierFacile.logement.gouv.fr !
 
@@ -57,11 +58,12 @@ Bailleurs et professionnels de l'immobilier, DossierFacile est là pour vous ras
 
 ## Notre déploiement
 
-Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. A date, ce sont déjà près de 700 000 locataires, 40 000 propriétaires et une vingtaine de professionnels de l'immobilier qui ont choisi de nous faire confiance.
+Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. En avril 2024, le nombre de  a dépassé le million, avec plus de 40 000 propriétaires et une vingtaine de professionnels de l'immobilier qui ont choisi de nous faire confiance.
 
 ## Notre impact et notre budget
 
 Depuis sa création, DossierFacile a accompagné plus de 500 000 candidats locataires dans la création de leur dossier de location. Ce sont autant de personnes qui ont pu constituer un dossier de location conforme et sécurisé, et autant de propriétaires ou d'agences rassurées, avec un impact avéré sur les escroqueries au logement et la vacance frictionnelle.
+
 Voici le budget consacré depuis le lancement du service :
 
 - 2018 : 72 500 € de la DGALN\*
@@ -69,29 +71,28 @@ Voici le budget consacré depuis le lancement du service :
 - 2020 : 330 000 € de la DGALN
 - 2021 : 480 000 € de la DGALN et 200 000 € de la DINUM\*\* (Fonds d'accélération des startups d'Etat et de territoires)
 - 2022 : 400 000 € de la DGALN et 975 000 € de la DINUM (Plan de Relance)
-- 2023 : 600 000 € de la DGALN et en prévisionnel : 1 000 000 € de la DITP (FTAP) et 75 000 € de la DINUM (FAST)
+- 2023 : 1 000 000 € de la DGALN et 300 000 € de la DINUM (FAST)
+- 2024 : 1 020 000 € de la DGALN et 643 500 € de la DINUM *** 
 
-Soit un total de 3 357 000 € réellement dépensés depuis le lancement du service pour un nombre d'usagers de 700 000, soit 4,8 €/usager.
+Soit un total de 5 553 500 € réellement dépensés depuis le lancement du service pour un nombre d'usagers de plus de 1 300 000, soit 4,2 €/usager.
 
 \*Direction générale de l'aménagement, du logement et de la nature (Ministère de la Transition écologique)
 
 \*\*Direction interministérielle du numérique (Services du Premier ministre)
 
+\*\*\* 500 000 € du Fonds pour la transformation de l'action publique guichet data, 100 000 € du Fonds d’investissement « Numérique et Données » pour la Planification écologique et 43 500 € du Guichet de financement : Design et accessibilité des produits et services numériques
+
 ## Nos ambitions pour les prochains mois
 
 Comprendre les besoins des locataires et des bailleurs est notre obsession et notre produit est en amélioration constante.
-Pour l'année 2023, nous souhaitons notamment :
-
-- automatiser la récupération de pièces justificatives pour simplifier le parcours utilisateur et le contrôle des pièces en back-office
-- améliorer la solution pour les propriétaires et les agences immobilières
-- améliorer la sécurisation des dossiers pour les candidats locataires
+Pour l'année 2025, nous souhaitons notamment avancer vers la constitution automatique d'un dossier avec FranceConnect. 
 
 ## Nos indicateurs d'impact pour les prochains mois
 
-Dans les 6 prochains mois, nous avons pour objectif de poursuivre notre croissance de 50% de comptes locataires et de 100% de comptes propriétaires par rapport à l'année dernière et de stabiliser notre coût marginal par dossier validé autour des 1,50€.
+Dans les 6 prochains mois, nous avons pour objectif de poursuivre notre croissance de 50% de comptes locataires par rapport à l'année dernière et de stabiliser notre coût marginal par dossier validé autour des 1,50€.
 
 Chez DossierFacile, nous voyons grand. Partant du dossier de location, nous avons l’ambition d’accompagner locataires et bailleurs tout au long de leur relation - et ce ne sont pas les idées qui nous manquent ! Pour autant, nous savons qu’inspirer la confiance est un défi de longue haleine qui ne pourra être relevé que pas à pas. Gardant tout ça en tête, nous n’avons qu’une boussole : toujours mieux servir les citoyens.
 
 Vous avez une idée ? Une question ? Vous souhaitez contribuer au projet ? <a href="mailto:contact@dossierfacile.fr">N’hésitez pas à nous écrire.</a>
 
-(mis à jour le 15/05/2022)
+(mis à jour le 10/10/2024)

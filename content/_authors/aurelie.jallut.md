@@ -5,12 +5,17 @@ role: 'Designer '
 github: Aurelie-J
 link: http://www.marquedefabrique.net
 missions:
-  - start: 2019-11-12
-    end: 2024-11-30
+  - start: 2022-04-15
+    end: 2024-12-31
     status: independent
     employer: Scopyleft
     startups:
       - données-et-territoires
+  - start: 2023-06-01
+    end: 2025-01-10
+    status: independent
+    employer: LittleBigconnexion
+    startups:
       - umap
 previously:
   - aplus
