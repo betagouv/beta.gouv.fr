@@ -16,23 +16,22 @@ missions:
     status: admin
     employer: dinum
 previously:
-  - delta.v
-  - sppnaut
   - conseillers-entreprises
-  - portail-rse
-  - homologation
-  - signaux-faibles
-  - mon-entreprise
-  - signalement
-  - transport
-  - notifications-v1
-  - participation-citoyenne
-  - rdv.consulat
-  - protege-toit
-  - gap
-  - oufaalim
-  - homologation
+  - delta.v
   - expresso
+  - gap
+  - homologation
+  - mon-entreprise
+  - notifications-v1
+  - oufaalim
+  - participation-citoyenne
+  - portail-rse
+  - protege-toit
+  - rdv.consulat
+  - signaux-faibles
+  - signalement
+  - sppnaut
+  - transport
 badges:
   - segur
 ---
