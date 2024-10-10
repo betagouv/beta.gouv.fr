@@ -15,7 +15,7 @@ missions:
     end: 2023-04-10
     status: admin
     employer: dinum
-startups:
+previously:
   - delta.v
   - sppnaut
   - conseillers-entreprises
@@ -24,9 +24,8 @@ startups:
   - signaux-faibles
   - mon-entreprise
   - signalement
-previously:
   - transport
-  - notifications
+  - notifications-v1
   - participation-citoyenne
   - rdv.consulat
   - protege-toit
@@ -36,6 +35,4 @@ previously:
   - expresso
 badges:
   - segur
-teams:
-  - /teams/animation-dinum
 ---
