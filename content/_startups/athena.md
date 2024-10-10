@@ -1,8 +1,8 @@
 ---
 title: Athéna
-mission: Consulter plus facilement les procédures liées à la gestion de crise
+mission: Logiciel de planification et de gestion de crise
 sponsors:
-  - /organisations/armees
+  - /organisations/sgdsn
 incubator: fabnumdef
 contact: athena@sgdsn.gouv.fr
 phases:
@@ -13,8 +13,11 @@ phases:
   - name: transfer
     start: 2023-11-13
 usertypes:
-  - etat
-thematiques: []
+  - Ministères
+  - Préfectures
+thematiques:
+  - Administratif
+  - Territoires
 techno: []
 ---
 ## Contexte :

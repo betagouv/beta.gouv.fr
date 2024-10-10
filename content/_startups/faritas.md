@@ -21,10 +21,11 @@ usertypes:
   - collectivite-territoriale
 techno: []
 repository: https://gitlab.adullact.net/dgfip/faritas
-budget_url: https://beta.gouv.fr/startups/faritas.html#:~:text=Budget
+budget_url: https://beta.gouv.fr/startups/faritas.html#Budget
 events:
   - name: product_launch
     date: 2024-10-03
+stats_url: https://beta.gouv.fr/startups/faritas.html#Indicateurs-publics
 ---
 ## Le problème: une inefficience dans la collecte et le reversement de la taxe de séjour par les plateformes numériques
 
@@ -38,7 +39,7 @@ Côté Direction générale des Finances publiques (DGFiP), les comptables publi
 
 Pour pallier aux difficultés rencontrées par les différents acteurs, l’offre de service FARITAS propose une solution centralisée qui s’articule autour d’une **interface de télédéclaration unique de la taxe de** **séjour** à l’attention des plateformes numériques de réservation, enrichie de modules d’analyse.
 
-L’idée est d’inviter les plateformes numériques à déposer *via* l’outil FARITAS une déclaration semestrielle couvrant l’ensemble du territoire national, dans un **format technique standardisé**. Ces déclarations seront intégrées dans une base de données protégée et hébergée par la DGFiP en qualité de tiers agrégateur.
+L’idée consiste à inviter les plateformes numériques à déposer *via* l’outil FARITAS une déclaration semestrielle couvrant l’ensemble du territoire national, dans un **format technique standardisé**. Ces déclarations seront intégrées dans une base de données protégée et hébergée par la DGFiP en qualité de tiers agrégateur.
 
 Une fois le dépôt accompli, les plateformes numériques auront accès à un justificatif de dépôt ainsi qu'aux rapports d’analyse de leur déclaration. Véritable parti pris innovant du projet, la **transparence des analyses vis-à-vis du déclarant** dès le dépôt (une première en fiscalité!) doit conduire à une meilleure conformité déclarative et une amélioration de la collecte de cette taxe.
 
@@ -72,16 +73,25 @@ Afin de passer à l'échelle ce service innovant, la DGFiP, en collaboration ave
 
 ## L'impact: simplification de la gestion de la taxe de séjour et meilleure équité fiscale
 
-La construction du projet FARITAS est guidée par différents indicateurs d’impact, qui permettent d’ajuster les fonctionnalités à développer et de garantir la bonne adéquation du produit aux attentes de ses utilisateurs.
+La construction du projet FARITAS est guidée par différents indicateurs d’impact, qui permettent d’ajuster les fonctionnalités à développer et de garantir la bonne adéquation du produit aux attentes de ses utilisateurs. Ces indicateurs s'attacheront à :
+* quantifier la **pénétration du service** qui reste facultatif dans le cadre de cette expérimentation législative (nombre d'utilisateurs actifs, volume de taxe traité)
+* objectiver la **simplification de la gestion** de cette taxe (gain de temps pour les agents des collectivités comme pour les déclarants).
+*  mesurer l'**amélioration de l'équité fiscale** (procédures de contrôle menées, sanctions appliquées, progression de la qualité comptable).
 
-Ces indicateurs s'attacheront à quantifier la **pénétration du service** qui reste facultatif dans le cadre de cette expérimentation législative (nombre d'utilisateurs actifs, volume de taxe traité), à objectiver la **simplification de la gestion** de cette taxe (gain de temps pour les agents des collectivités comme pour les déclarants) ainsi qu'à mesurer l'**amélioration de l'équité fiscale** (procédures de contrôle menées, sanctions appliquées, progression de la qualité comptable).
+### Indicateurs publics
+
+* **85% du territoire** : 1588 collectivités ont utilisé FARITAS pour gérer la déclaration de la taxe de séjour
+* **3 plateformes** d'hébergement embarquées sur FARITAS, dont **un acteur majeur** du secteur
+* **120 000 séjours** traités pour un total de 2,44 millions de nuitées (objectif initial : 100 000 séjours)
+* **4,64 millions d'euros (€)** de taxe déclarés via FARITAS (objectif : 1 million)
 
 ## Budget 
 
 | Année | Montant | Destination |
-| :---: | :---: | :---: |
+| :---: | :---: | --- |
 | 2021 | 50 000 € | Phase d'investigation
-| 2022 | 250 000 € | Prototypage et tests Produit
-| 2023 | 400 000 € | Mise en Production, Déploiement national, Améliorations continues
+| 2022 | 250 000 € | Prototypage et tests produit
+| 2023 | 400 000 € | Mise en Production, déploiement national, amélioration continue
 | 2024 | 30 000 € | Accélération et mise en conformité aux standards beta.gouv.fr
-2024 | 60 000 € | Fonds Accessibilité
+2024 | 60 000 € | Fonds accessibilité
+
