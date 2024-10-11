@@ -15,14 +15,16 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2023-12-22
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-10-04
+techno: []
 ---
+## Contexte
+
+Suite à [une première expérimentation menée en 2022](notifications-v1), un nouveau produit est lancé pour tenter d'améliorer l'information des administrations auprès des citoyens.
+
 ## Problématique
 
 L'administration a l'obligation légale et morale de tenir les usagers informés de l'avancement de leurs démarches et de leurs droits. Cependant, la situation actuelle compromet gravement cette mission essentielle :
