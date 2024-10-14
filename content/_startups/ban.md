@@ -16,6 +16,7 @@ usertypes:
   - etat
 stats_url: https://adresse.data.gouv.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/adresse-data-gouv-fr/
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#Base-Adresse-Nationale
 stats: true
 events:
   - name: national_impact
