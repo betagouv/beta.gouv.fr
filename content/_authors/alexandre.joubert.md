@@ -10,7 +10,6 @@ missions:
     employer: ANCT
     startups:
       - agents.en.intervention
-      - espace.sur.demande
   - start: 2024-09-10
     end: 2025-03-31
     status: independent
