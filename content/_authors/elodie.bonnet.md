@@ -8,5 +8,5 @@ missions:
     status: admin
     startups:
       - pilotage.de.linclusion
+competences: []
 ---
-Responsable du service IAE Haute-Garonne et intrapreneuse au sein du GIP Plateforme de l'inclusion !

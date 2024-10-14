@@ -11,4 +11,5 @@ missions:
     startups:
       - tacct
 memberType: autre
+competences: []
 ---

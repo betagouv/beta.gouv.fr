@@ -19,7 +19,7 @@ phases:
   - name: construction
     start: 2022-03-01
   - name: acceleration
-    start: 2024-01-01
+    start: 2024-09-30
 stats_url: https://monsuivisocial.incubateur.anct.gouv.fr/statistiques
 mon_service_securise: true
 thematiques:
@@ -28,6 +28,7 @@ thematiques:
   - Inclusion numérique
 repository: https://gitlab.com/incubateur-territoires/startups/monsuivisocial/monsuivisocial-v2/-/tree/main
 techno: []
+analyse_risques: true
 ---
 ## 🏗 Contexte/problème
 

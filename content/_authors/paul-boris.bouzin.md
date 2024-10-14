@@ -15,4 +15,4 @@ link: https://www.linkedin.com/in/pbbouzin/
 competences:
   - Communication
 ---
-Convaincu par les services publics, orienté déploiement et support utilisateurs, amateur de vélos.
+Convaincu par les services publics, orienté déploiement et support usagers.

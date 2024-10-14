@@ -15,5 +15,6 @@ previously:
   - le-taxi
   - transport
   - recosante
+competences: []
 ---
 Aide à construire les infrastructures numériques publiques de demain.

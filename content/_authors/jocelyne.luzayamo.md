@@ -5,7 +5,7 @@ domaine: Autre
 competences: []
 missions:
   - start: 2024-07-08
-    end: 2024-10-08
+    end: 2025-01-15
     status: independent
     employer: Opteamis
     startups:

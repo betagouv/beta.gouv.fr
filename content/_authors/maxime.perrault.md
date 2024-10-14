@@ -4,7 +4,7 @@ fullname: Maxime  Perrault
 role: Développeur Full Stack
 missions:
   - start: 2024-05-13
-    end: 2024-10-13
+    end: 2025-01-13
     status: independent
     employer: MALT
     startups:
