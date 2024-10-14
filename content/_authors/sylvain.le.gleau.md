@@ -11,7 +11,6 @@ missions:
     employer: Scopyleft
     startups:
       - agents.en.intervention
-      - espace.sur.demande
 memberType: beta
 previously:
   - mon.espace.collectivite
