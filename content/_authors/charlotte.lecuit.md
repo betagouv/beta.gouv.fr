@@ -21,7 +21,7 @@ missions:
     status: independent
     employer: Malt
   - start: 2024-03-11
-    end: 2024-07-31
+    end: 2024-12-31
     status: independent
     employer: Malt
 startups:
