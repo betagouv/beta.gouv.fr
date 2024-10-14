@@ -8,6 +8,8 @@ thematiques:
 usertypes:
   - etat
   - particulier
+redirect_from:
+  - /startups/notifications
 title: Notifications
 mission: Protéger les citoyens des arnaques et sécuriser la communication administrative
 incubator: dinum_produits_interministeriels
