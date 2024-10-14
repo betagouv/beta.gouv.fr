@@ -18,6 +18,7 @@ missions:
       - languia
 startups:
   - ozensemble
+  - languia
 memberType: beta
 competences: []
 ---
