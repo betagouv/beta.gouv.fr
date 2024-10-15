@@ -13,4 +13,4 @@ missions:
     startups:
       - sirius
 ---
-Product Designer & Freelance @UX Matcha 
+Product Designer & Freelance 

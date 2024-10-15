@@ -12,8 +12,8 @@ competences:
 missions:
   - start: 2024-10-14
     end: 2025-06-30
-    employer: Scopyleft
     status: independent
+    employer: Scopyleft
     startups:
       - mon.espace.collectivite
 ---

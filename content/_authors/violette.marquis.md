@@ -4,7 +4,7 @@ fullname: Violette  Marquis
 role: Développeuse Fullstack
 missions:
   - start: 2024-04-08
-    end: 2024-12-31
+    end: 2025-01-31
     status: independent
     employer: Malt
     startups:

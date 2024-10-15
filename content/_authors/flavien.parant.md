@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: Plateforme de l'inclusion
 memberType: beta
+competences: []
 ---
