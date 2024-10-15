@@ -13,6 +13,8 @@ down:
 	docker compose down
 sh:
 	$(DOCKER-RUN) web bash
+lint:
+	$(DOCKER-RUN) web $(BUNDLE-EXEC) rubocop
 
 html-proofer:
 	bundle exec htmlproofer ./_site/ --ignore-files "/recrutement\/*/" --no-enforce-https --disable-external --root_dir _site/ --allow-missing-href
