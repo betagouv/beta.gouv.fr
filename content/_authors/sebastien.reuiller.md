@@ -13,19 +13,19 @@ missions:
     end: 2023-06-30
     status: independent
     employer: LBC
-  - start: 2023-06-26
-    end: 2024-10-31
-    status: independent
-    employer: Malt
   - start: 2024-01-01
     end: 2024-09-30
     status: independent
     employer: LBC
+  - start: 2023-06-26
+    end: 2025-04-30
+    status: independent
+    employer: Malt
 startups:
-  - urbanvitaliz
-  - recommandations-collaboratives
   - place-de-marche-inclusion
 previously:
+  - urbanvitaliz
+  - recommandations-collaboratives
   - cnr
   - la.communaute.de.linclusion
   - les-emplois
