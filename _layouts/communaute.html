@@ -58,7 +58,7 @@ layout: default
             <div class="fr-col fr-col-12 fr-col-md-3 beta-list-item">
                 <p>
                     <span class="beta-square-list-item">■</span>
-                    <b>{{ site.incubators.size }} incubateurs</b><br>
+                    <b>{{ site.incubators | filter_incubators_with_active_startups: site.startups | size }} incubateurs</b><br>
                     au sein d'agences déconcentrées, d'opérateurs et de ministères.
                     <a
                         href="/incubateurs"
