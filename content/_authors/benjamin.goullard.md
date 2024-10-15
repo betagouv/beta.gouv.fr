@@ -4,11 +4,10 @@ role: Déploiement
 domaine: Déploiement
 missions:
   - start: 2024-06-11
-    end: 2024-11-11
+    end: 2025-06-11
     status: independent
     employer: Malt
     startups:
-      - envergo
       - territoires-en-transitions
 badges:
   - segur

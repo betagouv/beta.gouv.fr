@@ -8,7 +8,9 @@ thematiques:
 usertypes:
   - etat
   - particulier
-title: Notifications - itération 2
+redirect_from:
+  - /startups/notifications
+title: Notifications
 mission: Protéger les citoyens des arnaques et sécuriser la communication administrative
 incubator: dinum_produits_interministeriels
 sponsors:
@@ -23,7 +25,7 @@ techno: []
 ---
 ## Contexte
 
-Suite à [une première expérimentation menée en 2022](notifications-v1), un nouveau produit est lancé pour tenter d'améliorer l'information des administrations auprès des citoyens.
+Un nouveau produit est lancé pour tenter d'améliorer l'information des administrations auprès des citoyens, suite à [une première itération menée en 2022](notifications-v1).
 
 ## Problématique
 

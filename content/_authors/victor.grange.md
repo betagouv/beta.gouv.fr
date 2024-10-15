@@ -4,9 +4,9 @@ domaine: Coaching
 role: Coach
 missions:
   - start: 2021-04-22
-    end: 2024-10-29
+    end: 2025-01-31
     status: independent
-    employer: Numa
+    employer: Scopyleft
     startups:
       - sndv_maritime
   - start: 2024-05-02

@@ -4,8 +4,6 @@ thematiques: []
 usertypes:
   - etat
 techno: []
-redirect_from:
-  - /startups/notifications
 title: Notifications - itération 1
 mission: Améliorer la qualité des communications entre les administrations et les citoyens
 incubator: dinum_produits_interministeriels

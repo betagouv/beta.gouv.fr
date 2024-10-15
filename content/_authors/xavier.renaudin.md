@@ -1,6 +1,6 @@
 ---
 fullname: Xavier RENAUDIN
-role: Développeur
+role: Lead développeur
 domaine: Développement
 missions:
   - start: 2024-01-29
