@@ -39,7 +39,7 @@ exclude: [
   "content/templates",
   "README.md",
   "CONTRIBUTING.md",
-  "rb",
+  "lib",
   "vendor",
   "ci",
   "Gemfile",
