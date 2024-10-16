@@ -6,13 +6,13 @@ link: https://www.luisventura.me
 github: Lawiss
 missions:
   - start: 2022-06-22
-    end: 2024-10-31
+    end: 2025-03-31
     status: independent
     employer: Malt
     startups:
       - trackdechets
   - start: 2024-05-13
-    end: 2024-10-19
+    end: 2025-01-19
     status: independent
     employer: Scopopop
     startups:

@@ -11,5 +11,6 @@ missions:
     employer: Fairness
     startups:
       - dialogue
+competences: []
 ---
-Développeur
+Développeur prestataire (Fairness) pour dialog.beta.gouv.fr

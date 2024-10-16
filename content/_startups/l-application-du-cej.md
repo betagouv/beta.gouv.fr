@@ -9,7 +9,7 @@ contact: contact@pass-emploi.beta.gouv.fr
 usertypes:
   - particulier
   - etat
-stats_url: https://sites.google.com/view/statistiques-pass-emploi
+stats_url: https://web.pass-emploi.beta.gouv.fr/stats
 stats: true
 phases:
   - name: investigation
