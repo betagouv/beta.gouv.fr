@@ -17,8 +17,6 @@ missions:
     employer: Ministère des affaires étrangères
     startups:
       - disinfo
-startups:
-  - disinfo
 previously:
   - mes-aides
   - la-bonne-boite
