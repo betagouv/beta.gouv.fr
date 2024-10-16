@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Jekyll
   class RenderStartupsApi < Liquid::Tag
     def render(context)
@@ -5,51 +7,47 @@ module Jekyll
       authors = context.registers[:site].collections['authors']
       now = Date.today
       authors.docs.each do |author|
-        if author['startups']
-          author['startups'].each do |startup|
-            if !result[startup]
+        author['startups']&.each do |startup|
+          unless result[startup]
+            result[startup] = {
+              'active_members' => [],
+              'previous_members' => [],
+              'expired_members' => []
+            }
+          end
+          if author.data['missions']&.last&.[]('end') && (author.data['missions']&.last&.[]('end')&.<= now)
+            result[startup]['expired_members'].push(author.id.gsub('/authors/', ''))
+          else
+            result[startup]['active_members'].push(author.id.gsub('/authors/', ''))
+          end
+        end
+        author['previously']&.each do |previous_startup|
+          unless result[previous_startup]
+            result[previous_startup] = {
+              'active_members' => [],
+              'previous_members' => [],
+              'expired_members' => []
+            }
+          end
+          result[previous_startup]['previous_members'].push(author.id.gsub('/authors/', ''))
+        end
+        next unless author['missions']
+
+        author['missions'].each do |mission|
+          next unless mission['startups']
+
+          mission['startups'].each do |startup|
+            unless result[startup]
               result[startup] = {
-                'active_members' => Array.new,
-                'previous_members' => Array.new,
-                'expired_members' => Array.new
+                'active_members' => [],
+                'previous_members' => [],
+                'expired_members' => []
               }
             end
-            if author.data['missions']&.last['end'] and author.data['missions']&.last['end'] <= now
-              result[startup]['expired_members'].push(author.id.gsub('/authors/', ''))
-            else
+            if !mission['end'] || ((mission['start'] <= now) && (mission['end'] >= now))
               result[startup]['active_members'].push(author.id.gsub('/authors/', ''))
-            end
-          end
-        end
-        if author['previously']
-          author['previously'].each do |previous_startup|
-            if !result[previous_startup]
-              result[previous_startup] = {
-                'active_members' => Array.new,
-                'previous_members' => Array.new,
-                'expired_members' => Array.new
-              }
-            end
-            result[previous_startup]['previous_members'].push(author.id.gsub('/authors/', ''))
-          end
-        end
-        if author['missions']
-          author['missions'].each do |mission|
-            if mission['startups']
-              mission['startups'].each do |startup|
-                if !result[startup]
-                  result[startup] = {
-                    'active_members' => Array.new,
-                    'previous_members' => Array.new,
-                    'expired_members' => Array.new
-                  }
-                end
-                if !mission['end'] or (mission['start'] <= now and mission['end'] >= now)
-                  result[startup]['active_members'].push(author.id.gsub('/authors/', ''))
-                elsif mission['end'] <= now
-                  result[startup]['expired_members'].push(author.id.gsub('/authors/', ''))
-                end
-              end
+            elsif mission['end'] <= now
+              result[startup]['expired_members'].push(author.id.gsub('/authors/', ''))
             end
           end
         end
@@ -57,14 +55,14 @@ module Jekyll
       startups = context.registers[:site].collections['startups']
       startups.docs.each do |startup|
         startupId = startup.id.gsub('/startups/', '')
-        if !result[startupId]
+        unless result[startupId]
           result[startupId] = {
-            'active_members' => Array.new,
-            'previous_members' => Array.new,
-            'expired_members' => Array.new
+            'active_members' => [],
+            'previous_members' => [],
+            'expired_members' => []
           }
         end
-        result[startupId]["id"] = startupId
+        result[startupId]['id'] = startupId
         result[startupId]['name'] = startup['title']
         result[startupId]['repository'] = startup['repository']
         result[startupId]['contact'] = startup['contact']
@@ -73,7 +71,7 @@ module Jekyll
         result[startupId]['previous_members'] = result[startupId]['previous_members'].uniq
         result[startupId]['expired_members'] = result[startupId]['expired_members'].uniq
       end
-      return JSON.pretty_generate(result)
+      JSON.pretty_generate(result)
     end
   end
 

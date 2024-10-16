@@ -1,18 +1,18 @@
+# frozen_string_literal: true
+
 module Jekyll
   module PhaseFilter
     def get_phase(startup)
-      startup['phases'].last['name'] || startup.data['phases']&.last['name']
+      startup['phases'].last['name'] || startup.data['phases']&.last&.[]('name')
     end
 
     def where_phase(startups, phase)
       list = []
       startups.each do |startup|
-        if get_phase(startup) == phase
-          list << startup
-        end
+        list << startup if get_phase(startup) == phase
       end
 
-      return list
+      list
     end
   end
 end

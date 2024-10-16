@@ -1,8 +1,9 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 require 'irb'
 
-DSL_PATH = File.expand_path('../../lib', __FILE__)
+DSL_PATH = File.expand_path('../lib', __dir__)
 
 $LOAD_PATH << DSL_PATH
 

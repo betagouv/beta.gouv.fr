@@ -16,7 +16,7 @@ module Jekyll
               .reverse
               .each_slice(3)
               .to_a
-              .map { |c| c.join('') }
+              .map(&:join)
               .join(' ')
               .reverse
 

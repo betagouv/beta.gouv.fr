@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "../lib/models/member"
+require_relative '../lib/models/member'
 
 module Jekyll
   module StartupFilter

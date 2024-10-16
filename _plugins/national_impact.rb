@@ -1,27 +1,24 @@
+# frozen_string_literal: true
+
 module Jekyll
-    module NationalImpactFilter
-      def get_national_impact(startup)
-        if startup['events']
-            national_impact = startup['events'].select{ |event| event['name'] == 'national_impact' }.first()
-            if national_impact
-                return national_impact['date'].year
-            end
-        end
-        return
+  module NationalImpactFilter
+    def get_national_impact(startup)
+      if startup['events']
+        national_impact = startup['events'].select { |event| event['name'] == 'national_impact' }.first
+        return national_impact['date'].year if national_impact
       end
-  
-      def where_national_impact(startups, date)
-        list = []
-        startups.each do |startup|
-          if get_national_impact(startup) == date
-            list << startup
-          end
-        end
-  
-        return list
+      nil
+    end
+
+    def where_national_impact(startups, date)
+      list = []
+      startups.each do |startup|
+        list << startup if get_national_impact(startup) == date
       end
+
+      list
     end
   end
-  
-  Liquid::Template.register_filter(Jekyll::NationalImpactFilter)
-  
+end
+
+Liquid::Template.register_filter(Jekyll::NationalImpactFilter)
