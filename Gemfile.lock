@@ -18,6 +18,7 @@ GEM
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
     afm (0.2.2)
+    ast (2.4.2)
     async (2.11.0)
       console (~> 1.25, >= 1.25.2)
       fiber-annotation
@@ -124,6 +125,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     kwalify (0.7.2)
+    language_server-protocol (3.17.0.3)
     liquid (4.0.4)
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -149,6 +151,10 @@ GEM
       addressable
       nokogiri
     optimist (3.1.0)
+    parallel (1.26.3)
+    parser (3.3.5.0)
+      ast (~> 2.4.1)
+      racc
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     pdf-reader (2.12.0)
@@ -171,6 +177,7 @@ GEM
       ffi (~> 1.0)
     rdoc (6.7.0)
       psych (>= 4.0.0)
+    regexp_parser (2.9.2)
     reline (0.5.8)
       io-console (~> 0.5)
     rexml (3.2.8)
@@ -189,6 +196,23 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.13.0)
     rspec-support (3.13.1)
+    rubocop (1.66.1)
+      json (~> 2.3)
+      language_server-protocol (>= 3.17.0)
+      parallel (~> 1.10)
+      parser (>= 3.3.0.2)
+      rainbow (>= 2.2.2, < 4.0)
+      regexp_parser (>= 2.4, < 3.0)
+      rubocop-ast (>= 1.32.2, < 2.0)
+      ruby-progressbar (~> 1.7)
+      unicode-display_width (>= 2.4.0, < 3.0)
+    rubocop-ast (1.32.3)
+      parser (>= 3.3.1.0)
+    rubocop-rake (0.6.0)
+      rubocop (~> 1.0)
+    rubocop-rspec (3.0.5)
+      rubocop (~> 1.61)
+    ruby-progressbar (1.13.0)
     ruby-rc4 (0.1.5)
     safe_yaml (1.0.5)
     sass-embedded (1.77.4-aarch64-linux-gnu)
@@ -236,6 +260,9 @@ DEPENDENCIES
   opengraph_parser
   rake
   rspec
+  rubocop
+  rubocop-rake
+  rubocop-rspec
   tzinfo-data
 
 RUBY VERSION

@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 require 'rubygems'
 require 'bundler'
@@ -7,17 +8,15 @@ Bundler.setup :test
 require 'html-proofer'
 
 dir  = ARGV[0] || '.'
-args = ARGV[1] ? ARGV[1..-1] : []
+args = ARGV[1] ? ARGV[1..] : []
 
 opts = args.each_with_object({}) do |option, opts|
-  option_name       = option.to_s[2..-1].gsub('-', '_').to_sym
+  option_name       = option.to_s[2..].gsub('-', '_').to_sym
   opts[option_name] = true
 end
 
 opts.keys.map(&:to_s).each do |check|
-  if File.file?(File.expand_path("#{__dir__}/../lib/htmlproofer/#{check}.rb"))
-    require_relative "../lib/htmlproofer/#{check}"
-  end
+  require_relative "../lib/htmlproofer/#{check}" if File.file?(File.expand_path("#{__dir__}/../lib/htmlproofer/#{check}.rb"))
 end
 
 HTMLProofer
