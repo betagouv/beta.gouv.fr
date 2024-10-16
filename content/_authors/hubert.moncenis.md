@@ -5,7 +5,7 @@ domaine: Développement
 github: HubM
 missions:
   - start: 2022-06-20
-    end: 2024-12-31
+    end: 2025-01-20
     status: independent
     employer: Malt
     startups:
@@ -13,8 +13,8 @@ missions:
 link: https://hubbb.dev/
 competences:
   - Développement Full-stack
-  - Développement Backend
-  - Développement Frontend
   - UI
+  - JavaScript/TypeScript
+  - PostgreSQL
 ---
 Développeur fullstack javascript

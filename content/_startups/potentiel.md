@@ -26,7 +26,16 @@ accessibility_status: non conforme
 thematiques:
   - Écologie
 budget_url: https://beta.gouv.fr/startups/potentiel.html#le-budget
-techno: []
+techno:
+  - typescript
+  - next.js
+  - postgresql
+  - react-dsfr
+  - tailwindcss
+  - storybook
+  - sentry
+  - chai
+  - cucumber
 ---
 ##  Introduction - contexte
 

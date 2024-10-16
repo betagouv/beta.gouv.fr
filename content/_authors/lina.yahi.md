@@ -4,9 +4,11 @@ fullname: Lina Yahi
 role: Coaching
 missions:
   - start: 2024-05-17
-    end: 2024-12-17
+    end: 2024-12-10
     status: service
     employer: Dinum
+    startups:
+      - accidents-de-la-route
 memberType: beta
 link: https://www.linkedin.com/in/lina-yahi/
 competences:

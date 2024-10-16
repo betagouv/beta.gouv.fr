@@ -12,7 +12,7 @@ missions:
     startups:
       - aides.jeunes
   - start: 2022-01-04
-    end: 2024-10-30
+    end: 2025-10-30
     status: independent
     employer: Scopyleft
 previously:

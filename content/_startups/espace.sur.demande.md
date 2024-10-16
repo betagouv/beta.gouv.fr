@@ -8,8 +8,8 @@ accessibility_status: partiellement conforme
 sponsors:
   - /organisations/anct
 phases:
-  - name: construction
-    start: 2023-04-03
+  - name: acceleration
+    start: 2024-09-01
 thematiques:
   - Collectivités
   - Territoires
@@ -26,38 +26,35 @@ usertypes:
   - entreprise
   - collectivite-territoriale
   - etat
+dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/espacesurdemande-anct-gouv-fr/
+techno: []
 ---
-**Espace sur Demande est une plateforme permettant de faciliter la réservation d'espaces publics des collectivités. 
+Espace sur Demande : Simplifiez la Réservation d’Espaces Publics pour Tous
 
-Notre ambition : agir pour que tout citoyen, entreprise ou association puisse réserver un espace public à proximité de chez lui à un coût raisonnable.**
+Notre Vision : Rendre l’accès aux espaces publics facile pour les citoyens, entreprises, associations, et agents publics.
+Espace sur Demande est une plateforme novatrice qui transforme la gestion des espaces publics.
 
-## Contexte
+Notre objectif est simple : permettre à chaque citoyen, association ou entreprise de réserver rapidement et facilement un espace public près de chez lui. Qu’il s’agisse d’organiser un événement, une réunion ou une activité communautaire, la réservation d’espaces doit être simple, fluide et transparente pour tous.
 
-Un service a été initialement conçu par une intrapreneuse au sein du Département de l’Isère ([https://sallesurdemande.isere.fr]()) en septembre 2022 pour faciliter la mise à disposition des salles de classe du département à destination des associations. 
+Contexte du Projet
+Lancé en septembre 2022 au sein du Département de l’Isère sous le nom de Salle sur Demande, ce service initial facilitait l’accès aux salles de classe pour les associations locales. Une dizaine de collèges offraient alors des créneaux à titre expérimental, dans le cadre du plan France Relance. Fort du succès de cette initiative, avec le soutien de l’Agence Nationale de la Cohésion des Territoires (ANCT), le projet s’est transformé en Espace sur Demande, une plateforme ouverte à toutes les collectivités et couvrant tous types d’espaces publics portée par l’incubateur des territoires.
 
-Une dizaine de collèges y proposent des créneaux disponibles à la location à titre expérimental et confidentiel jusqu’au lancement officiel en septembre 2023. Le projet a alors été financé dans le cadre du plan France Relance. 
+Le Problème Actuel : Un Parcours Complexe pour Réserver un Espace
+Aujourd’hui, la gestion des réservations d’espaces publics reste un processus fastidieux. Les échanges par email ou téléphone se multiplient, les calendriers manuels et les conventions papier ralentissent les démarches, aussi bien pour les agents publics que pour les usagers. La non-digitalisation des procédures engendre des délais frustrants, alors qu’une solution moderne permettrait de rendre ce processus beaucoup plus fluide.
 
-L’ANCT a décidé, au vu de l’impact possible, d’en déployer une version améliorée pour toutes les collectivités territoriales et pour toute typologie d’espaces sous le nom d’Espace sur Demande.
+Notre Solution : Espace sur Demande, la Réservation Digitalisée
+Espace sur Demande simplifie l’ensemble du processus de réservation et de mise à disposition d’espaces publics grâce à une plateforme 100 % en ligne. Voici ce que nous offrons :
+• Réservation autonome : En quelques clics, vous pouvez réserver des salles des fêtes, des auditoriums, ou des gymnases.
+• Génération automatique des conventions : Les documents sont générés automatiquement, éliminant les lourdeurs administratives.
+• Signature électronique sécurisée : Finies les longues attentes pour obtenir une signature.
+• Stockage centralisé des documents : Tous les documents et données sont sécurisés et accessibles facilement.
+L’ensemble du processus est digitalisé, rendant la gestion des espaces publics plus moderne et efficace, aussi bien pour les collectivités que pour les administrés.
 
-## Problème
+Stratégie : Une Solution pour Tous
+Espace sur Demande vise à se déployer à grande échelle pour permettre aux collectivités de valoriser leur patrimoine en facilitant la mise à disposition de leurs espaces. Notre ambition est également d’étendre ce service à d’autres administrations, en rendant le processus de réservation encore plus simple et accessible.
+Nos Fonctionnalités à venir : 
+• Paiement en ligne sécurisé : Pour une gestion simplifiée et fluide des réservations.
+• Lien avec les Serrures connectées : Pour automatiser l’accès aux espaces réservés et renforcer la sécurité.
+Grâce à Espace sur Demande, la gestion des espaces publics devient intuitive et rapide. Gagnez du temps, simplifiez vos démarches administratives, et offrez un service moderne et pratique à vos administrés.
 
-Dans la majorité des cas, la mise à disposition côté agents publics et la demande de réservation côté administrés représentent un parcours du combattant.
-
-Aller-retours par mail et téléphone avec les administrés, remplissage à la main de calendriers papier ou Outlook, rédaction des conventions, attente des signatures des services concernés… 
-
-Les étapes pour la mise à disposition d'un espace sont nombreuses et justifient souvent un délai de traitement très long pour les administrés.
-
-## Solution
-
-Espace sur Demande simplifie toute l’activité de mise à disposition : réservation autonome, génération de conventions digitales, signature électronique, paiement en ligne, et stockage sécurisé des données et des documents.
-
-La réservation de la salle des fêtes, de l’auditorium de la médiathèque ou du gymnase devient alors aussi facile que sur une plateforme de locations touristiques. Côté collectivités, moins de temps au téléphone ou en procédures : les demandes se valident en ligne et les conventions de mise à disposition sont  éditées automatiquement pour être signées électroniquement. 
-
-## Stratégie
-
-99% des collectivités que nous contactons font de la mise à disposition de leurs espaces. Ainsi, il s'agit d'un service qui adresse des problématiques qui sont quasi systématiques. 
-
-Nous contactons alors les collectivités par mail pour les informer de l'existence de ce service.
-Pour celles qui n'utilisent alors pas d'outil pour gérer leur mise à disposition d'espaces, nous organisons des webinaires ainsi que des rendez-vous de démonstration.
-
-Enfin, une rapide ouverture de compte permet à la collectivité de bénéficier du service en quelques clics.
+Contactez-nous dès aujourd’hui pour une démonstration gratuite et découvrez comment Espace sur Demande peut transformer la gestion de vos espaces publics  : https://koalendar.com/e/demo-esd

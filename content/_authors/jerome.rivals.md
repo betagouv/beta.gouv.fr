@@ -17,7 +17,7 @@ missions:
     startups:
       - zero-logement-vacant
   - start: 2024-02-26
-    end: 2024-10-30
+    end: 2025-05-30
     status: independent
     employer: malt
     startups:

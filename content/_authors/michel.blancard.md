@@ -8,12 +8,15 @@ missions:
     end: 2017-10-06
     status: admin
     employer: dinum
+    startups:
+      - la-bonne-boite
+      - mes-aides
   - start: 2019-04-01
     end: 2021-06-30
     status: independent
     employer: Ministère des affaires étrangères
-startups:
-  - disinfo
+    startups:
+      - disinfo
 previously:
   - mes-aides
   - la-bonne-boite

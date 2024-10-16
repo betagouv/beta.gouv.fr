@@ -6,8 +6,8 @@ competences: []
 missions:
   - start: 2024-10-14
     end: 2025-10-14
-    employer: GIP Plateforme de l'inclusion
     status: admin
+    employer: GIP Plateforme de l'inclusion
     startups:
       - l-immersion-facile
 ---
