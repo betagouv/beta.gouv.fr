@@ -43,20 +43,17 @@ module Beta
     end
 
     def active_startups
-      startups.concat(
-        active_missions
-          .map { |mission| mission['startups'] }
-          .flatten
+      (
+        startups +
+        active_missions.map { |mission| mission['startups'] }.flatten
       ).uniq
     end
 
     def legacy_startups
-      previously.concat(
-        legacy_missions
-          .map { |mission| mission['startups'] }
-          .flatten
+      (
+        previously +
+        legacy_missions.map { |mission| mission['startups'] }.flatten
       ).uniq
     end
-
   end
 end
