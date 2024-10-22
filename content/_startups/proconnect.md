@@ -3,7 +3,7 @@ title: ProConnect
 mission: Simplifier la gestion de l'identité numérique des entreprises sur les portails publics
 sponsors:
   - /organisations/mefr
-incubator: bercy
+incubator: dinum_produits_interministeriels
 phases:
   - name: investigation
     start: 2020-06-23
@@ -11,10 +11,17 @@ phases:
   - name: alumni
     start: 2020-09-15
 stats: false
-contact: contact@beta.gouv.fr
+contact: contact@agentconnect.gouv.fr
 usertypes:
   - entreprise
   - etat
+thematiques:
+  - Entreprises
+  - Administratif
+  - Collectivités
+  - Sécurité informatique
+techno:
+  - typescript
 ---
 *Le projet ProConnect est poursuivi en dehors de beta.gouv.fr et est aujourd’hui en production. Il est en cours de déploiement sur les portails de services publics.*
 

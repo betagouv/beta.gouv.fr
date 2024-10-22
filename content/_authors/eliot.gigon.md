@@ -4,7 +4,7 @@ fullname: Eliot Gigon
 role: Intraprenariat
 missions:
   - start: 2024-04-22
-    end: 2024-10-22
+    end: 2025-04-22
     status: admin
     employer: ANCT
     startups:

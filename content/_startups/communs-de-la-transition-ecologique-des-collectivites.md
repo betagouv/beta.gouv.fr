@@ -9,39 +9,35 @@ usertypes:
   - etat
   - collectivite-territoriale
 title: Communs de la transition écologique des collectivités
-mission: accélérer la transition écologique des collectités
+mission: 'Faciliter la découvrabilité des services numériques associés à la transition écologique, et faciliter le partage d''informations associées au projets des collectivités. '
 incubator: dinum
 sponsors:
   - /organisations/dinum
   - /organisations/sgpe
 phases:
   - name: investigation
-    comment: null
     start: 2024-06-15
-    end: null
   - name: construction
-    comment: null
     start: 2024-09-16
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-10-16
+techno: []
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
-## Contexte
-zzzzzzzzzzzzzzzzzzzzzzzzzzz
-Quel est le contexte de ta Startup d'Etat ?
-
 ## Problème
 
-Les problèmes que vous avez identifiés ou vos hypothèses de problèmes? Qui en souffre ? quels sont les conséquences de ces problèmes ?
+Il est difficile pour une collectivité d'identifier les services numériques pertinents en lien avec ses différents projets. De plus, il est laborieux de devoir toujours re-renseigner les mêmes informations à chaque nouvelle inscription à un nouveau service numérique.
+
+La qualification des projets de collectivités se fait de façon fragmentaire sur plusieurs services non synchronisés.
 
 ## Solution
 
-Décrit ta solution en quelques lignes? qui seront/sont les bénéficiaires ?
+Notre produit vise à rassembler dans une même base de données les projets de collectivités, pour que chaque utilisateur (au sein d'une collectivité) puisse retrouver les informations renseignées de façon dispersée.
+
+Il vise aussi à associer les différents services numériques de l'écosystème public aux contextes des projets. Et ainsi permettre à une collectivité de découvrir de façon centralisée les services numériques pertinents.
 
 ## Stratégie
 
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+Notre produit propose un ensemble d'API et de composants d'interfaces pour s'intégrer dans d'autres applications déployées. Il ne propose donc pas une nouvelle URL aux collectivités, mais vise plutôt à favoriser le "liant" entre services existants.
+
+La métrique principale est le nombre de nouvelles utilisations de services numériques de l'écosystème public permise par notre produit. 

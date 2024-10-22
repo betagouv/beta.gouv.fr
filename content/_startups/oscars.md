@@ -10,7 +10,7 @@ phases:
   - name: investigation
     start: 2022-12-05
     end: 2023-01-02
-  - name: construction
+  - name: alumni
     start: 2023-06-05
 thematiques: []
 usertypes: []

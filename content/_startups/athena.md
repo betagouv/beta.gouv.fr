@@ -8,10 +8,10 @@ contact: athena@sgdsn.gouv.fr
 phases:
   - name: investigation
     start: 2021-04-01
-  - name: construction
-    start: 2021-10-14
   - name: transfer
-    start: 2023-11-13
+    start: 2022-04-01
+  - name: construction
+    start: 2022-11-01
 usertypes:
   - Ministères
   - Préfectures
@@ -47,13 +47,24 @@ Mettre à disposition de la communauté interministérielle un outil de référe
 
 ## **Chronologie**
 
-**Etape 1 (avril - mai 2021)** Début du projet, cadrage, entretiens avec les opérateurs des différents services, découverte du parcours utilisateurs, wireframes
+**Etape 1 (avril 2021)** Début du projet, cadrage, entretiens avec les opérateurs des différents services, découverte du parcours utilisateurs, définitions des contraintes
 
-**Etape 2 (octobre 2021)** Présentation des maquettes de l'outil
+**Etape 2 (mai 2021)** Réalisation des wireframes, et présentation aux porteurs du projet et valider la cinématique
 
-**Etape 3 (octobre 2021)** Développement du PMV
+**Etape 3 (septembre et octobre 2021)** Amorce: recrutement des développeurs, présentation des maquettes aux équipes de la Fabrique Numérique et du SGDSN, début du développement informatique
 
-**Etape 4 (juin 2022)** Transfert d'Athena vers les équipes du SGDSN pour un passage à l'échelle
+**Etape 4 (octobre 2021 à mars 2022)** Développement du PMV et livraison
+
+**Etape 5 (avril 2022)** Audit de sécurité et installation Transfert d'Athéna vers les équipes du SGDSN pour un passage à l'échelle
+
+**Etape 6 (novembre 2022)** Reprise du développement du produit: Indépendamment de la Fabrique numérique, avec le SGDSN qui embauche directement les freelances
+
+**Etape 7 (janvier 2023)** Legacy avec appui de l'OSIIC et nouveau développeur
+
+**Etape 8 (septembre 2023)** Changement d'intrapreneur
+
+**Etape 9 (fin 2023 et année 2024)** Évolution en continue du produit, avec l'ajout de nouvelles fonctionnalités
+
 
 ## Résultat :
 

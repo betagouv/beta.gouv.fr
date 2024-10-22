@@ -12,6 +12,8 @@ phases:
     start: 2019-04-05
   - name: transfer
     start: 2023-11-13
+  - name: success
+    start: 2024-10-21
 usertypes:
   - etat
   - Action de l'Etat en Mer

@@ -13,8 +13,8 @@ title: ORIANE
 mission: Systématiser le management de la qualité au sein de la DGA (MinArm)
 incubator: fabnumdef
 phases:
-  - name: investigation
-    start: 2024-04-08
+  - name: alumni
+    start: 2024-04-30
 events:
   - name: product_launch
     date: 2024-08-23

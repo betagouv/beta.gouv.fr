@@ -4,11 +4,10 @@ domaine: Design
 role: Designer transverse
 missions:
   - start: 2021-09-01
-    end: 2024-11-01
+    end: 2025-03-28
     status: independent
     startups:
       - collectif_objets
-      - euphrosyne
 competences:
   - UX
   - UI

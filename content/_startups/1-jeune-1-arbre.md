@@ -31,41 +31,21 @@ techno:
   - javascript
 repository: https://github.com/betagouv/1jeune1arbre/
 ---
-## Contexte :
+# **Simplifier la plantation d'arbres par les scolaires**
 
-* Opération lancée par le Président de la République le 24 novembre 2023 pour contribuer
-à l’objectif visant à replanter 1 milliard d’arbres d’ici 2032.
+## **Contexte :**
 
-* Objectif de fédérer toutes les actions visant à mobiliser les élèves autour des enjeux de
-renouvellement forestier et d’agroforesterie dans le contexte du changement climatique
+- Opération lancée par le Président de la République le 24 novembre 2023 pour contribuer à l’objectif visant à replanter 1 milliard d’arbres d’ici 2032
+- Objectif de fédérer toutes les actions visant à mobiliser les élèves autour des enjeux de renouvellement forestier et d’agroforesterie dans le contexte du changement climatique
+- Nous développons une offre de service visant à simplifier l’organisation de chantiers de plantation pédagogique à destination des collégiens
 
-* Concerne les chantiers de plantation en forêt domaniale, en forêt privée,
-les plantations de haies en milieu agricole, d’arbres en ville ou sur le site de
-l’établissement scolaire.
+## La solution :
 
-## Les défis que nous souhaitons relever :
+Les gestionnaires de plantations qui souhaitent accueillir des jeunes sur leurs chantiers de plantation peuvent déposer leur offre sur la plateforme https://1jeune1arbre.beta.gouv.fr/.
 
-### Facilitation :
-* Comment faire pour faciliter la rencontre entre chantiers et établissements
-scolaires ?
-* Comment faire pour faciliter la compréhension des enjeux de l’opération par les
-professeurs et les élèves ?
+Les enseignants peuvent rapidement identifier l’offre de plantations pédagogiques à proximité de leur établissement.
 
-### Simplification : 
-* Comment faire pour simplifier l’organisation des sorties scolaires sur des
-chantiers de plantation ?
-* Comment faire pour simplifier l'accueil des classes par les gestionnaires de
-chantiers ?
+## **Les objectifs de la phase de construction :**
 
-### Déploiement : 
-* Comment faire pour rendre accessibles les chantiers de plantation au plus grand
-nombre d’élèves ?
-
-## Les objectifs de notre investigation : 
-
- * Rencontrer les acteurs d’une plantation pédagogique pour mieux comprendre leurs
-motivations et difficultés réelles (responsables d’établissement scolaires, gestionnaires
-de chantiers de plantation,...)
-* Identifier et échanger avec les dispositifs existants pour accompagner les plantations
-pédagogiques
-* Imaginer des solutions permettant la réussite des chantiers de plantation pédagogiques
+- Vérifier que la mise en visibilité des offres de plantations pédagogiques permet de faciliter l’organisation d’une sortie scolaire pour les enseignants
+- Identifier les autres leviers de facilitation pour assurer le déploiement de l’opération à l’échelle nationale
