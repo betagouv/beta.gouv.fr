@@ -29,7 +29,7 @@ all_startups = Beta::Startup.all.map(&:id)
 
 # 4. et on fait la différence
 
-startup_without_coaches = all_startups - startups_with_coaches
+startups_without_coaches = all_startups - startups_with_coaches
 
 # 5. le mieux pour explorer votre résultat :
 

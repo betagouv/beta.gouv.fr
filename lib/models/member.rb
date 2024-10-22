@@ -1,25 +1,19 @@
 # frozen_string_literal: true
 
-require 'active_model'
-
 require_relative 'base'
 
 module Beta
   class Member < Base
-    include ActiveModel::AttributeAssignment
-
-    attr_accessor :fullname, :role, :domaine, :missions, :startups, :previously
-
     FOLDER_IDENTIFIER = '_authors'
 
+    interesting :id, :fullname, :role, :domaine, :missions, :startups, :previously
+
     def initialize(hash)
-      assign_attributes(hash.slice(*%w[fullname role domaine missions startups previously]))
+      super
 
       @missions ||= []
       @startups ||= []
       @previously ||= []
-
-      super()
     end
 
     def active_missions
