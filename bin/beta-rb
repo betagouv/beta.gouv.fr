@@ -2,27 +2,40 @@
 # frozen_string_literal: true
 
 require 'irb'
+require 'rainbow' # included via Rubocop
 
 DSL_PATH = File.expand_path('../lib', __dir__)
 
 $LOAD_PATH << DSL_PATH
 
 require 'models/member'
+require 'models/startup'
 
-module BetaDsl
+def cocorico
+  Array
+    .new(3, '  ')
+    .zip(%i[blue white red])
+    .map { |str, color| Rainbow(str).bg(color).bright }
+    .join
+end
+
+module Beta
   notice = <<EOF
+  #{cocorico}
+
   ---------------------------------------------------------------------
-  | Bienvenue dans le prompt BetaDsl ! Ce prompt vous permet          |
+  | Bienvenue dans le prompt Beta ! Ce prompt vous permet             |
   | d'explorer les données de notre communauté à travers les classes  |
-  | présentes dans `lib/beta_dsl`.                                    |
+  | présentes dans `lib/models`.                                      |
   |                                                                   |
   | Exemple d'utilisation :                                           |
-  |   s = Startup.all.find { |s| s.title =~ /Tchap/ }                 |
-  |   s.active?                                                       |
+  |   Startup.all.find { |s| s.title =~ /Tchap/ }                     |
+  |   Member.all.count { |s| s.domaine == "Animation" }.count         |
   |                                                                   |
-  |   m = Member.all.find { |s| s.domaine == "Animation" }.count
-  ---------------------------------------------------------------------
+  | Sinon partez du script fourni dans lib/pad.rb                     |
+  |--------------------------------------------------------------------
 EOF
+
   puts notice
 
   binding.irb

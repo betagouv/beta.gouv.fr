@@ -1,28 +1,16 @@
 # frozen_string_literal: true
 
 require 'active_model'
-require 'yaml'
+
+require_relative 'base'
 
 module Beta
-  class Member
+  class Member < Base
     include ActiveModel::AttributeAssignment
 
     attr_accessor :fullname, :role, :domaine, :missions, :startups, :previously
 
-    class << self
-      def all
-        @all ||= fetch_all
-      end
-
-      private
-
-      def fetch_all
-        Dir
-          .glob(File.expand_path('content/_authors/**.md', Dir.pwd))
-          .map { |file| Psych.unsafe_load_file(file) }
-          .map { |data| new(data) }
-      end
-    end
+    FOLDER_IDENTIFIER = '_authors'
 
     def initialize(hash)
       assign_attributes(hash.slice(*%w[fullname role domaine missions startups previously]))
@@ -30,6 +18,8 @@ module Beta
       @missions ||= []
       @startups ||= []
       @previously ||= []
+
+      super()
     end
 
     def active_missions
