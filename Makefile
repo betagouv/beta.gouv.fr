@@ -3,6 +3,9 @@ BUNDLE-EXEC = bundle exec
 
 build:
 	docker compose build
+
+dsl:
+	$(DOCKER-RUN) web $(BUNDLE-EXEC) bin/beta-rb
 spec:
 	$(DOCKER-RUN) web $(BUNDLE-EXEC) rspec
 guard:
