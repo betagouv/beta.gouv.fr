@@ -5,7 +5,7 @@ domaine: Coaching
 github: leageno
 missions:
   - start: 2022-06-29
-    end: 2024-10-30
+    end: 2025-09-28
     status: independent
     employer: NUMA
     startups:
@@ -16,5 +16,6 @@ previously:
   - tracabilite.courrier
   - tracage.vaccination.iahp
   - precontentieux.justice
+competences: []
 ---
 Designer pour le monde du digital et des politiques publiques

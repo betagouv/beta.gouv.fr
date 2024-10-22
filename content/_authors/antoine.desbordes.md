@@ -18,12 +18,15 @@ missions:
     status: independent
     employer: Codeurs en Liberté
   - start: 2022-11-16
-    end: 2024-11-16
+    end: 2025-11-16
     status: independent
     employer: Malt
+    startups:
+      - vues-immersives-libres
 startups:
   - vues-immersives-libres
 previously:
   - transport
+competences: []
 ---
 Rust & transport & Panoramax

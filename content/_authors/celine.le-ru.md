@@ -10,12 +10,6 @@ missions:
     employer: BENEXT
     startups:
       - e-mjpm
-  - start: 2021-06-23
-    end: 2024-12-31
-    status: service
-    employer: OCTO
-    startups:
-      - la-bonne-boite
   - start: 2022-04-01
     end: 2023-05-01
     status: service
@@ -28,6 +22,12 @@ missions:
     employer: OCTO
     startups:
       - promotion-de-profil-acceleree
+  - start: 2023-06-23
+    end: 2024-12-31
+    status: service
+    employer: OCTO
+    startups:
+      - la-bonne-boite
 startups:
   - la-bonne-boite
 competences:

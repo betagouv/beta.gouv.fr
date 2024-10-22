@@ -5,7 +5,7 @@ domaine: Data
 github: paulboosz
 missions:
   - start: 2021-11-14
-    end: 2024-10-14
+    end: 2025-10-14
     status: independent
     employer: PathTech
     startups:

@@ -19,6 +19,5 @@ competences:
   - Facilitation
   - Product strategy
 ---
-Je suis consultante chez OCTO Technology. Au cours de son parcours, j'ai évolué de développeuse mobile à Product Owner puis Coach produit. 
-Ma passion est de placer les utilisateurs au cœur du produit pour façonner des solutions qui ont un impact réel, basées sur les besoins et les usages. Mon expérience passée de développeuse me permet d’avoir un esprit polyvalent qui sait appréhender les besoins et problèmes techniques avec réalisme.
+Ma passion est de placer les utilisateurs au cœur du produit pour façonner des solutions qui ont un impact réel, basées sur les besoins et les usages. 
 Je suis engagée dans la création de produits responsables, où je promeus activement l'accessibilité numérique et l'éco-conception dans tous les aspects du développement de produits.

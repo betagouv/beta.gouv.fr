@@ -25,6 +25,8 @@ phases:
     end: 2020-03-03
   - name: alumni
     start: 2020-03-03
+thematiques: []
+techno: []
 ---
 **[L'approche Startup d'État](https://github.com/betagouv/beta.gouv.fr/wiki/Comment-pr%C3%A9senter-beta.gouv.fr#approche) a été abandonnée par ce service public numérique. Pour aller directement au post-mortem, c'est [ici](#quelques-éléments-de-contexte).**
 
@@ -51,20 +53,20 @@ Mes Aides se base sur [OpenFisca](https://fr.openfisca.org/), un moteur de calcu
   * Il n'y a pas eu de demande pour la passation de la partie visible du simulateur (du *front*).
   * En revanche, seul OpenFisa (le moteur de calculs *sous* mes-aides.gouv.fr) permet de créer un simulateur multi-prestations. Il est donc utilisé pour le portail national des droits sociaux.
 * 07/03/2017 Lancement officiel de mes-aides.gouv.fr [source](https://www.banquedesterritoires.fr/un-simulateur-pour-evaluer-ses-droits-24-aides-sociales-en-moins-de-7-minutes)
-* 20/03/2017 Lancement officiel de mesdroissociaux.gouv.fr [source](https://www.banquedesterritoires.fr/le-portail-numerique-des-droits-sociaux-commence-voir-le-jour)
+* 20/03/2017 Lancement officiel de mesdroitssociaux.gouv.fr [source](https://www.banquedesterritoires.fr/le-portail-numerique-des-droits-sociaux-commence-voir-le-jour)
 * 08/2017 Déplacement à Montauban de l'équipe mes-aides.gouv.fr pour échanger avec les équipes du Groupement d'Intérêt Économique (GIE) Agora et de Sopra-Steria
 
   * L'objectif est de clarifier des pratiques de développement et de contribution à OpenFisca via [GitHub](https://github.com/openfisca/openfisca-france/)
-* 03/2019 Ajout du simulateur non connecté dans mesdroissociaux.gouv.fr
-* 07/2019 Demande de rapprochement entre le mesdroissociaux.gouv.fr et mes-aides.gouv.fr
+* 03/2019 Ajout du simulateur non connecté dans mesdroitssociaux.gouv.fr
+* 07/2019 Demande de rapprochement entre le mesdroitssociaux.gouv.fr et mes-aides.gouv.fr
 * 13/11/2019 Arbitrage en faveur de l'absorption de mes-aides.gouv.fr
 
-  * La condition pour cette absorption est l'intégration des aides locales de mes-aides.gouv.fr dans mesdroissociaux.gouv.fr
-* 14/01/2020 Ajout des autres aides de mes-aides.gouv.fr dans mesdroissociaux.gouv.fr
+  * La condition pour cette absorption est l'intégration des aides locales de mes-aides.gouv.fr dans mesdroitssociaux.gouv.fr
+* 14/01/2020 Ajout des autres aides de mes-aides.gouv.fr dans mesdroitssociaux.gouv.fr
 * 01/03/2020 Annonce de la fermeture de mes-aides.gouv.fr sur la page d'accueil
 * 01/03/2020 Fermeture définitive de mes-aides.gouv.fr
 
-  * Les usagers sont directement redirigés vers mesdroissociaux.gouv.fr
+  * Les usagers sont directement redirigés vers mesdroitssociaux.gouv.fr
 
 ## Pourquoi parler d'abandon&nbsp;?
 

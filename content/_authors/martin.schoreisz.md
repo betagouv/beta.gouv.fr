@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2024-10-08
     end: 2025-12-31
-    employer: Cerema
     status: admin
+    employer: Cerema
     startups:
       - bambin
 ---

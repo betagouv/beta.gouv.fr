@@ -4,13 +4,13 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2024-02-13
-    end: 2024-10-01
+    end: 2024-12-01
     status: service
     employer: NUMA
     startups:
       - accesscite
   - start: 2024-04-19
-    end: 2024-10-31
+    end: 2025-03-28
     status: service
     employer: NUMA
     startups:

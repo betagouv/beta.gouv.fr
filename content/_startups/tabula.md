@@ -18,7 +18,7 @@ phases:
     start: 2024-07-22
 events:
   - name: committee
-    date: 2024-10-31
+    date: 2024-11-20
 ---
 **Contexte**
 

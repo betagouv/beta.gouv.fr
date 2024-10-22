@@ -10,7 +10,7 @@ phases:
     start: 2023-08-21
   - name: construction
     start: 2024-03-01
-accessibility_status: non conforme
+accessibility_status: totalement conforme
 thematiques:
   - Santé
   - Jeunesse

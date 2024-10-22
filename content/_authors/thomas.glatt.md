@@ -7,8 +7,15 @@ missions:
   - start: 2021-06-28
     end: 2024-10-31
     status: independent
+    employer: ScopyLeft
     startups:
       - mon-suivi-social
+  - start: 2024-10-17
+    end: 2025-01-31
+    status: independent
+    employer: LittleBig Connection
+    startups:
+      - seves
 previously:
   - tremplin
   - workinfrance
@@ -17,5 +24,7 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+  - Product strategy
+link: https://www.linkedin.com/in/thomas-glatt-586bb56
 ---
 Accompagner les équipes - imaginer collectivement des solutions sobres

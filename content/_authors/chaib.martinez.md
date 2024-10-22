@@ -6,9 +6,9 @@ link: https://www.linkedin.com/in/chaibmartinez/
 github: chaibax
 missions:
   - start: 2018-06-01
-    end: 2023-12-30
+    end: 2024-10-10
     status: independent
-    employer: octo
+    employer: numa
     startups:
       - acceslibre
       - cmachance
@@ -18,6 +18,7 @@ missions:
       - envergo
       - estime
       - jeveuxaider
+      - l-immersion-facile
       - metiers-numeriques
       - tchap
       - trait-d-union
@@ -27,10 +28,10 @@ missions:
     status: independent
     employer: numa
     startups:
-      - l-immersion-facile
+      - la-bonne-alternance
       - sites-faciles
   - start: 2023-12-01
-    end: 2025-07-31
+    end: 2024-07-31
     status: independent
     employer: Numa
     startups:

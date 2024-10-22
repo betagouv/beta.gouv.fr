@@ -1,5 +1,5 @@
 ---
-title: Mon Recap
+title: Mon Récap
 mission: Faciliter l'organisation des démarches des personnes en parcours d'insertion
 sponsors:
   - /organisations/francetravail
@@ -16,6 +16,9 @@ phases:
     start: 2023-09-04
 thematiques:
   - Social
+link: https://mon-recap.inclusion.beta.gouv.fr
+usertypes: []
+techno: []
 ---
 ## Contexte
 

@@ -1,5 +1,5 @@
 ---
-mission: Interroger à l'aveugle deux modèles de language conversationnels sur des tâches exprimées en français et comparer les résultats.
+mission: Interroger à l'aveugle deux modèles de langage conversationnels sur des tâches exprimées en français et comparer les résultats.
 incubator: culture
 title: Compar:IA
 contact: contact@languia.beta.gouv.fr
@@ -25,12 +25,13 @@ techno:
   - gradio
   - fastapi
   - svelte
-repository: https://github.com/betagouv/languia
+repository: https://github.com/betagouv/comparia
 link: https://comparia.beta.gouv.fr/
 events:
   - name: other
     date: 2024-09-25
     comment: Atelier - Numérique en communs 2024
+stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=126#?period=month&date=2024-10-11&category=Dashboard_Dashboard&subcategory=1
 ---
 ## Le problème
 

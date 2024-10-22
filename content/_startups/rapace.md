@@ -19,8 +19,9 @@ phases:
   - name: investigation
     start: 2024-01-15
 events:
-  - name: product_launch
+  - name: other
     date: 2024-08-23
+    comment: en pause
 ---
 
 ## Contexte

@@ -4,12 +4,13 @@ fullname: Calum Mackervoy
 role: Développeur
 missions:
   - start: 2024-06-04
-    end: 2024-11-04
+    end: 2025-04-04
     status: independent
     employer: Malt
     startups:
       - la.communaute.de.linclusion
       - les-emplois
+      - pilotage.de.linclusion
 link: https://calum.mackervoy.com/fr/
 github: calummackervoy
 competences:

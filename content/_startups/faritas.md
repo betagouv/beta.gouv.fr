@@ -26,6 +26,7 @@ events:
   - name: product_launch
     date: 2024-10-03
 stats_url: https://beta.gouv.fr/startups/faritas.html#Indicateurs-publics
+mon_service_securise: true
 ---
 ## Le problème: une inefficience dans la collecte et le reversement de la taxe de séjour par les plateformes numériques
 
