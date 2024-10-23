@@ -11,8 +11,16 @@ usertypes:
 sponsors:
   - /organisations/direction-generale-des-etrangers-en-france
 phases:
+  - name: construction
+    start: 2024-01-01
   - name: investigation
     start: 2024-05-14
+mon_service_securise: false
+techno: []
+events:
+  - name: committee
+    date: 2024-10-18
+    comment: Premier comité d'investissement avec la Direction de l'Asile
 ---
 ## Contexte
 

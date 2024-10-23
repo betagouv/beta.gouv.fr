@@ -10,12 +10,13 @@ missions:
     status: independent
     employer: LaZone
   - start: 2021-12-06
-    end: 2024-12-06
+    end: 2025-06-06
     status: admin
     employer: IGN
 previously:
   - transport
 teams:
   - /teams/fab-geocommuns
+competences: []
 ---
 Data & carto & mobilité

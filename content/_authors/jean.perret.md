@@ -2,10 +2,11 @@
 domaine: Coaching
 missions:
   - start: 2023-09-08
-    end: 2024-12-31
+    end: 2025-02-28
     status: independent
     employer: Numa
     startups:
+      - communs-de-la-transition-ecologique-des-collectivites
       - impact.co2
 competences:
   - Coaching

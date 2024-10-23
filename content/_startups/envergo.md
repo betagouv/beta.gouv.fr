@@ -27,10 +27,11 @@ phases:
 fast:
   promotion: 13
   montant: 200000
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 thematiques:
   - Écologie
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/envergo-beta-gouv-fr/
+techno: []
 ---
 ![](/img/netlifycms/envergo.jpg)
 
@@ -68,16 +69,15 @@ Ces deux outils contribuent à notre ambition : **rendre compréhensible et act
 Début 2024, EnvErgo est disponible dans [16 départements](https://envergo.beta.gouv.fr/foire-aux-questions/departments-disponibles/) et va s’étendre progressivement à l’ensemble du territoire, outre-mer compris.
 
 À cette date, le simulateur EnvErgo est utilisé : 
-- par plus de 450 utilisateurs uniques par mois
-- pour 1 000 simulations mensuelles,
-- soit 700 ha de projets simulés.
+- pour 1 500 simulations mensuelles,
+- soit 750 ha de projets simulés.
 
 L’activité des avis réglementaires, en rythme annuel :
 atteint :
-- 1700 demandes d’avis réglementaires / an
-- et 160 projets / an remis en conformité
-- soit 135 ha / an d’artificialisation, dont 15 ha d’écosystèmes fragiles entièrement préservés.
+- 2600 demandes d’avis réglementaires / an
+- et 360 projets / an remis en conformité
+- soit 250 ha / an d’artificialisation, dont 15 ha d’écosystèmes fragiles entièrement préservés.
 
 Un projet remis en conformité assez tôt dans son histoire évite de s’exposer à un risque de contentieux ou à des contrôles administratifs. La moyenne que nous avons observée des surcoûts et retards à la clef est de 7 000 € par projet, avec des cas atteignant 100 000 €.
 
-L’activité actuelle d’EnvErgo correspond ainsi à un cumul de plus d’1m€ / an de surcoûts évités pour les aménageurs.
+L’activité actuelle d’EnvErgo correspond ainsi à un cumul de plus de 3 m€ / an de surcoûts évités pour les aménageurs.

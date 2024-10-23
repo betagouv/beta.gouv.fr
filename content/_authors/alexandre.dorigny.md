@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2024-09-01
     end: 2025-12-01
-    employer: Pathtech
     status: independent
+    employer: Pathtech
     startups:
       - ecobalyse
 ---

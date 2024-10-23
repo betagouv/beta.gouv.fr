@@ -6,7 +6,7 @@ sponsors:
   - /organisations/ign
 incubator: fab-geocommuns
 link: https://panoramax.fr/
-repository: https://github.com/panoramax-project
+repository: https://gitlab.com/panoramax
 contact: panoramax@panoramax.fr
 usertypes:
   - collectivite-territoriale
@@ -26,6 +26,20 @@ accessibility_status: non conforme
 thematiques:
   - Open-Data
   - Outil technique
+techno: []
+events:
+  - name: committee
+    date: 2022-10-17
+    comment: Lancement en phase de construction
+  - name: committee
+    date: 2023-07-12
+  - name: committee
+    date: 2023-11-06
+    comment: Lancement en phase d'accélération
+  - name: committee
+    date: 2024-06-03
+  - name: committee
+    date: 2024-11-13
 ---
 ## Contexte
 

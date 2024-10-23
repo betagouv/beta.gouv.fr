@@ -1,7 +1,7 @@
 ---
 fullname: John Labuzan 🌞
 domaine: Coaching
-role: Expert FAST, Product Owner, Growth🎯
+role: Expert FAST, Coach, Growth🎯
 github: jondu33
 avatar: /img/authors/johnlabuzan.jpeg
 link: https://fair-fair.fr
@@ -12,13 +12,21 @@ missions:
     employer: Numa
     startups:
       - aides-territoires
+      - apilos
       - boursoloco
       - chauffage-urbain
+      - collectif_objets
       - conseillers-entreprises
+      - docurba
+      - experts
       - lannuaire.des.collectivites
       - mediature
       - mon.espace.collectivite
+      - monstage
       - nosgestesclimat
+      - portail-rse
+      - romin
+      - sante-psy-etudiant
       - signalement
 previously:
   - aides-territoires
@@ -29,9 +37,14 @@ previously:
   - nosgestesclimat
 competences:
   - UX
-  - Gestion de Produit
   - Coaching
   - Communication
+  - Product strategy
+  - Croissance
+  - Facilitation
+  - SEO
+  - SEM
+  - Product design
 teams:
   - /teams/fast-dinum
 ---

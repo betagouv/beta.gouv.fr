@@ -18,8 +18,16 @@ stats_url: https://adresse.data.gouv.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/adresse-data-gouv-fr/
 stats: true
 events:
-  - name: national_impact
-    date: 2022-12-31
+  - name: committee
+    date: 2022-02-23
+  - name: committee
+    date: 2022-11-21
+  - name: committee
+    date: 2023-09-21
+  - name: committee
+    date: 2024-04-02
+  - name: committee
+    date: 2024-10-16
 phases:
   - name: investigation
     start: 2014-06-01
