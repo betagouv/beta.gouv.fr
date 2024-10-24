@@ -7,7 +7,6 @@ competences:
 missions:
   - start: 2024-06-10
     end: 2024-12-31
-    employer: Datalab
     status: independent
-    startups: []
+    employer: Datalab
 ---

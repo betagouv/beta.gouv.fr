@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2024-10-28
     end: 2025-04-28
-    employer: Scopyleft
     status: independent
+    employer: Scopyleft
     startups:
       - impact.co2
 ---

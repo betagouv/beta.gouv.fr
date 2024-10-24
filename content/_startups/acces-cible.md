@@ -16,6 +16,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-06-27
+  - name: construction
+    start: 2024-10-07
 techno: []
 ---
 ## Contexte

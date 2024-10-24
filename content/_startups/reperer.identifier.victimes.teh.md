@@ -1,10 +1,10 @@
 ---
 title: Repérer et identifier les situations de traite des êtres humains
-mission: Garantir la protection des victimes de traite et d’exploitation par leur repérage, leur identification, et leur accompagnement, via notamment la coordination des acteurs et le partage d’informations liées à leur identité et leur situation socio-économique et judiciaire
+mission: "Garantir\_l’identification, la mise à l’abri et\_la protection des victimes de traite et d’exploitation par leur repérage et leur accompagnement, via notamment la coordination des acteurs et le partage d’informations"
 sponsors:
   - /organisations/dinum
 incubator: dinum
-contact: jennifer.stephan@beta.gouv.fr
+contact: benoit.champy@beta.gouv.fr
 usertypes:
   - particulier
   - etat
@@ -13,22 +13,22 @@ usertypes:
 phases:
   - name: investigation
     start: 2024-02-10
+thematiques: []
+techno: []
 ---
 ## Contexte
 
-L’exploitation et la traite des êtres humains sont des phénomènes criminels qui consistent à exploiter des personnes, notamment les plus vulnérables, à des fins économiques et sans aucun respect pour leur sécurité et leur dignité. Elles constituent des atteintes fondamentales aux droits humains. 
+L’exploitation et la traite des êtres humains sont des phénomènes criminels qui consistent à exploiter des personnes, notamment les plus vulnérables, à des fins économiques et sans aucun respect pour leur sécurité et leur dignité. Elles constituent des atteintes fondamentales aux droits humains.
 
-Malgré la médiatisation de certaines affaires, l’exploitation et la traite sont des crimes et des délits **peu visibles et encore trop mal connus et mesurés**.
+Malgré la médiatisation de certaines affaires, l’exploitation et la traite sont des crimes et des délits **peu visibles et encore trop mal connus et mesurés**.
 
-Plusieurs types d’exploitation : 
+La traite des êtres humains recouvre plusieurs types d’exploitation :
 
-- **exploitation sexuelle** : principalement les femmes et de plus en plus d’enfants, parfois très jeunes
-- **exploitation par le travail** : services forcés, servitude, esclavage domestique et soumission à des conditions de travails de travail ou d’hébergement contraire à la dignité humaine.
-- **contrainte à commettre des crimes et des délits** : vol à la tire, cambriolage au profit d’exploiteurs qui utilisent de plus en plus l’emprise chimique et psychique (alcool, drogues ou médicaments) pour accentuer la dépendance des victimes, trafic de stupéfiants
-- **la mendicité forcée** : au bénéfice d’un réseau
-- **trafic d’organes** : marginal en France mais une réalité à l’échelle mondiale
-
-Selon les données issues des associations, le profil des victimes est le suivant : à des fins d’exploitation sexuelle (74%), d’exploitation par le travail (18%), de contrainte à commettre des délits (6%) et de mendicité forcée (1%).
+- **L’exploitation sexuelle** : Le proxénétisme, l’exploitation de la prostitution d’autrui sont des formes de traite qui ciblent principalement les femmes et de plus en plus d’enfants, parfois très jeunes
+- **L’exploitation par le travail** : Elle inclut le travail et les services forcés, la servitude, l’esclavage domestique et la soumission à des conditions de travail ou d’hébergement contraires à la dignité humaine
+- **La contrainte à commettre des crimes et délits** : Cette forme d’exploitation consiste à forcer des personnes vulnérables, souvent jeunes et isolées, à commettre des délits (vol à la tire ou à l’étalage, cambriolage) au profit des exploiteurs qui utilisent en plus l’emprise chimique (alcool, drogues ou médicaments) pour accentuer la dépendance des victimes
+- **La mendicité forcée** : Cette forme de traite consiste à obliger des victimes à mendier au bénéfice du réseau d’exploiteurs
+- **Le trafic d’organes** : L’exploitation pour prélèvement d’un ou plusieurs organes est un phénomène marginal en France mais une réalité à l’échelle mondiale
 
 ## Chiffres
 
@@ -40,33 +40,22 @@ Selon les données issues des associations, le profil des victimes est le suivan
 - 16% des victimes sont des enfants, soit +97% par rapport à 2021; soit près de 500 enfants exploités par an.
 - Les femmes et personnes sexisées demeurent les principales victimes d’exploitation et de traite : 82% de l’ensemble des victimes et 96% des victimes d’exploitation sexuelle
 
-source : données 2022 du Ministère de l'intérieur et des Outre-mer et Ministère de la justice
+source : données 2022 du Ministère de l’intérieur et des Outre-mer et Ministère de la justice
 
 ## Problème
 
-Les chiffres précédents sont à nuancer car le repérage, les épreuves d'identification et de "certification" d'une situation de traite est le partie la plus complexe du parcours des victimes. 
-L’enjeu majeur est le repérage le plus en amont possible des signes de TEH tant pour les mineurs que pour les majeurs : la question de départ est donc qui sont les personnes/institutions les plus à même de repérer des victimes (parents/famille/ amis pour les mineurs/ voisins de l’exploiteur pour les victimes d’exploitation domestique, professionnels de santé ?)
-L'identification est produit d'une relation d'interdépendance, d'une administration distribuée entre instance de contrôle et de protection des personnes. 
-Policiers, travailleurs sociaux, associations, agent-e-s en préfecture,... il n'existe pas d'instance unique pour demander réparation, c'est donc un "véritable rite et réseau d'institutions" qui doit pouvoir être mobilisé pour repérer, identifier et accompagner une potentielle victime de traite (TEH).
-
+Le repérage et l’identification des victimes est un processus complexe qui nécessite la coopération de l’ensemble des acteurs de la lutte contre la traite des êtres humains avec des indicateurs définis et partagés. L’identification et l’accompagnement précoces des victimes doivent leur permettre de prendre conscience qu’elles sont ou ont été exploitées, de garantir leur protection et l’effectivité de leurs droits, mais également de renforcer les poursuites judiciaires à l’encontre des auteurs. En effet, c’est parce que les victimes seront protégées et pourront exercer leurs droits qu’elles seront encouragées à déposer plainte et à aller jusqu’au bout de leur parcours judiciaire, en témoignant contre leur exploiteur au procès.
 
 ## Investigation
 
-Lancée en février 2024, une phase d'investigation nomme Karine Métayer, magistrate et membre de la MIPROF : Mission interministérielle pour la protection des femmes contre les violences et la lutte contre la traite des êtres humains; intrapreneuse pour étudier la pertinence d'un outil numérique développer avec la DINUM qui fluidifierait le parcours des victimes et de leurs accompagnants. 
-Cette investigation participe du Plan national de lutte contre l’exploitation et la traite des êtres humains (2024-2027).
+Lancée en avril 2024 une phase d’investigation associe Cécile Mantel pour la Mission interministérielle pour la protection des femmes contre les violences et la lutte contre la traite des êtres humains (Miprof) et Benoit Champy pour étudier la pertinence d’un outil numérique développer avec la DINUM qui fluidifierait le parcours des victimes et de leurs accompagnants. Cette investigation constitue la mesure du Plan national de lutte contre l’exploitation et la traite des êtres humains (2024-2027).
 
-Les questions à se poser sont multiples : 
-- Comment systématiser une identification rapide, complète et étayée de preuves matérielles et témoignages certifiés pour une qualification juste du statut des victimes qui leur garantit protection, aide juridique et accompagnement personnalisé ?
-- Comment les agents chargés de l'identification peuvent-ielles reconnaître une victime de TEH alors mêmes qu'elles apparaissent comme coupables de crimes ou délits pour certaines ?
-- Comment mieux retenir la qualification de traite dans les tribunaux ? 
-- Sur quels critères repose l'activité de cadrage du repérage ? Quel modèle de compétence, quelle équipe pluridisciplinaire mobilise-t-elle ?
-- Quel rôle pour les différentes instances et personnes en premières lignes (officiers de police judiciaire, membres de l'OCRTEH, BRP, associations, MIPROF, USIT...) ?
-- Comment sécuriser les communications, le partage d'informations sensibles entre différents acteurs et ainsi sortir les victimes de cette invisibilisation dont elles sont aujourd'hui l'objet.
+Les questions abordées ont été multiples et de nombreux acteurs ont été auditionnés et réunis.
 
 ## Nous contacter
 
-Karine Métayer, magistrate, référente MIPROF : karine.metayer@miprof.gouv.fr
+Cécile Mantel - Secrétaire générale adjointe, référente Miprof : cecile.mantel@miprof.gouv.fr
 
-Jenn Stéphan, coach DINUM, experte numérique : jennifer.stephan@beta.gouv.fr
+Benoit Champy, coach DINUM, expert numérique : benoit.champy@beta.gouv.fr
 
 
