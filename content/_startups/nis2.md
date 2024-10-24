@@ -1,8 +1,8 @@
 ---
 mission: Aider les entreprises et administrations à se préparer à l'entrée en vigueur de la directive NIS2 et à s'approprier sa mise en oeuvre en lien avec l'ANSSI
 incubator: lab-innov-anssi
-contact: Stephane.DEHARVENGT@ssi.gouv.fr
-title: PortailNIS2
+contact: contact-monespacenis2@ssi.gouv.fr
+title: MonEspaceNIS2
 sponsors:
   - /organisations/anssi
 phases:
@@ -14,7 +14,7 @@ thematiques:
 ## En cours de construction
 
 **Vous êtes intéressé(e) par notre projet ?
-N’hésitez pas à [nous contacter](mailto:Stephane.DEHARVENGT@ssi.gouv.fr) !**
+N’hésitez pas à [nous contacter](mailto:contact-monespacenis2@ssi.gouv.fr) !**
 
 ## L’ENJEU
 
@@ -41,16 +41,6 @@ fixées par la directive pour que celle-ci produise l’impact attendu sur leur 
 <b>Notre impact : parvenir à embarquer toutes les entités régulées par la directive NIS2 et faire de cette dernière un levier du renforcement de leur cybersécurité.</b>
 
 Afin de rendre cet objectif possible l’ANSSI fait le choix d’ancrer la transposition de la directive NIS2 dans une démarche résolument orientée « bénéficiaires » et de leur proposer au travers du portail NIS2 de
-- comprendre la directive et ses enjeux
-- savoir si elles sont concernées
-- pouvoir se notifier à l'ANSSI comme le prévoit la réglementation européenne
-- comprendre les étapes de leur mise en conformité et pouvoir échanger avec l'ANSSI.
-
-## L'EQUIPE
-
-- Stéphane DEHARVENGT LEMOINE (intrapreneur)
-- François BROUSSE (Designer)
-- Bastien GALLAY (Développeur)
-- Alexandre LOPES (ANSSI)
-- Nolwenn LACOMBE (ANSSI)
-- Damien DUFOUR (coach BetaGouv)
+- comprendre la directive, ses enjeux, les obligations pour les entités régtulées
+- savoir si elles sont concernées grâce à un test dédié
+- pouvoir s'enregistrer auprès de l'ANSSI comme le prévoit la réglementation européenne
