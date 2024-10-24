@@ -14,9 +14,8 @@ competences:
 missions:
   - start: 2024-10-01
     end: 2024-12-31
-    employer: malt
     status: independent
-    startups: []
+    employer: malt
 ---
 Architecte et lead développeur web avec 15 ans d'expérience. Adepte des approches DRY et LEAN.
 Formateur et consultant technique.
