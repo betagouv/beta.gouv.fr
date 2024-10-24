@@ -2,7 +2,7 @@
 mission: Faciliter l'accompagnement des éloignées du numérique.
 incubator: anct
 title: La coop de la médiation numérique
-contact: manon.galle@anct.gouv.fr
+contact: coop-numerique@anct.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/anct
@@ -17,6 +17,7 @@ thematiques:
   - Social
 usertypes:
   - collectivite-territoriale
+techno: []
 ---
 ## Contexte
 

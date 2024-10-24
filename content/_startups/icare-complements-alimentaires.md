@@ -17,7 +17,8 @@ usertypes:
   - entreprise
 thematiques:
   - Santé
-techno: []
+techno:
+  - django
 ---
 Cette startup d'Etat est sponsorisée par la Direction Générale de l'alimentation au ministère de l'agriculture.
 La startup est également lauréate du guichet FTAP "valorisation et exploitation" des données, fonds porté par la DINUM et ETALAB. Ce co-financement permet à la startup d'entamer le chantier de fiabilisation de la base de données substances grâce à des logiques de NLP et branchement de sources de données externes (ANSES, avis EFSA, catalogue novel food...).
@@ -35,7 +36,7 @@ Permettre une circulation de compléments alimentaires conformes à la réglemen
 
 * 1600 dossiers déposés à la DGAl par mois par les professionnels
 : Tous les mois, le nombre de produits déclarés ou soumis à la demande d'autorisation de l'administration via la plateforme teleicare, outil actuel pour déposer un dossier. Outil obsolète et ne répondant que partiellement aux besoins des 3 instructrices des dossiers.
-* des compléments alimentaires sont en vente sans pour autant être connus de l’administration (une enquête-mystère a relevé 50% de produits non déclarés sur 30 produits choisis au hasard en GMS, pharmacies, internet) car non déclarés par les professionnels et pourtant disponibles dans les canaux de distribution
+* des compléments alimentaires sont en vente sans pour autant être connus de l’administration (une enquête-mystère a relevé un nombre conséquent de produits non déclarés sur 30 produits choisis au hasard en GMS, pharmacies, internet - échantillon non statistique) car non déclarés par les professionnels et pourtant disponibles dans les canaux de distribution
 
 ## Le problème : 
 

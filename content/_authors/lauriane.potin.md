@@ -10,7 +10,7 @@ missions:
     startups:
       - jeveuxaider
   - start: 2024-03-04
-    end: 2024-07-15
+    end: 2024-12-31
     status: independent
     employer: Malt
     startups:

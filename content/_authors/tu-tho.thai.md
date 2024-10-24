@@ -14,9 +14,8 @@ competences:
 missions:
   - start: 2024-10-22
     end: 2025-02-17
-    employer: Numa
     status: independent
-    startups: []
+    employer: Numa
 ---
 Tu-Tho est l’animatrice du groupe de normalisation sur l’information voyageur et l’exploitation des services de mobilité au sein du BNTRA (AFNOR). Experte indépendante, elle participe activement à l’élaboration et l’implémentation des normes européennes du Transport Public. 
 Elle est également passionnée par l’usage de solutions numériques pour faciliter les politiques publiques, qu’elles soient dans le domaine du transport, de l’accessibilité ou tout autre secteur à fort impact. 
