@@ -1,6 +1,6 @@
 ---
 title: France Numérique Ensemble
-mission: Outiller l'ensemble des gestionnaires de la politique d'inclusion numérique.
+mission: Piloter la politique d'inclusion numérique par la donnée
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -8,9 +8,9 @@ redirect_from:
   - /startups/conseiller-numerique
 phases:
   - name: construction
-    start: 2020-10-12
-  - name: acceleration
-    start: 2021-03-31
+    start: 2021-06-01
+  - name: investigation
+    start: 2024-02-05
 link: https://inclusion-numerique.anct.gouv.fr/
 repository: https://github.com/anct-cnum
 stats: false
@@ -21,6 +21,7 @@ usertypes:
 accessibility_status: partiellement conforme
 thematiques:
   - Inclusion numérique
+techno: []
 ---
 ## Contexte
 
@@ -38,7 +39,6 @@ Proposer un outillage cohérent à l'ensemble des gestionnaires de la politique 
 - Préfectures
 - Hubs territoriaux pour un numérique inclusif
 - Grands réseaux associatifs
-- Coordinateurs de conseiller numériques
 - Grand public (consultation de données publiques)
 
 ## Nos produits

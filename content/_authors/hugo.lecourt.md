@@ -1,7 +1,7 @@
 ---
 fullname: Hugo Lecourt
 domaine: Développement
-role: Développeur Full-Stack
+role: 'Lead Développeur '
 github: hlecourt
 missions:
   - start: 2022-03-01
@@ -12,5 +12,6 @@ missions:
 competences:
   - Développement Frontend
   - Développement Backend
+link: https://selego.co
 ---
 Développeur

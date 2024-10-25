@@ -11,5 +11,7 @@ missions:
       - bpco
       - ozensemble
 memberType: beta
+link: https://selego.co
+competences: []
 ---
 Couteau-suisse
