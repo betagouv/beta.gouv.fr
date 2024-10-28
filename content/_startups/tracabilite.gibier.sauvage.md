@@ -1,5 +1,5 @@
 ---
-mission: Garantir une meilleure qualité sanitaires des viandes de gibier sauvage mises sur le marché
+mission: Garantir une meilleure qualité sanitaire des viandes de gibier sauvage mises sur le marché
 incubator: agriculture
 title: Zacharie
 contact: anne.devoret@beta.gouv.fr
@@ -17,6 +17,8 @@ thematiques:
 usertypes:
   - particulier
   - entreprise
+link: https://zacharie.beta.gouv.fr/
+techno: []
 ---
 ## Contexte
 

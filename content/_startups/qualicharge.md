@@ -15,6 +15,16 @@ phases:
 thematiques:
   - Écologie
   - Transports
+repository: https://github.com/MTES-MCT/qualicharge/
+usertypes:
+  - particulier
+  - etat
+  - association
+techno:
+  - python
+  - api
+  - data
+  - django
 ---
 ## Contexte
 

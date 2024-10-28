@@ -11,7 +11,7 @@ usertypes:
   - etat
 techno: []
 title: Datalma
-mission: Datalma propose une solution de collecte et visualisation de data, qui permet aux décideurs publics (Présidence, Matignon et ministères) de s’appuyer au quotidien sur des données pertinentes & récentes.
+mission: Appuyer les décisions prises par la Présidence, le Premier Ministre et les ministères sur des données pertinentes & récentes.
 incubator: dinum
 sponsors:
   - /organisations/pr
