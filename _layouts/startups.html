@@ -10,13 +10,6 @@ layout: default
       {% assign startups = site.startups | where_phase: phase.status %}
       "{{phase.status}}": [{% for startup in startups %}
           {% assign startup_id = startup.id | remove: '/startups/' %}
-          {% assign screenshot_files = site.static_files | where: "startups_img", true %}
-          {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
-          {% if screenshot_file %}
-          {% assign screenshot_path = screenshot_file.path %}
-          {% else %}
-          {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
-          {% endif %}
           {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
           {% assign incubator = incubators | where:'id', incubator_id | first %}
           { "id"        : "{{ startup.id | remove: '/startups/' }}"
@@ -40,7 +33,7 @@ layout: default
               , "repository": "{{ startup.repository}}"{% endif %}
               , "contact": "{{startup.contact}}"
               , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
-              , "screenshot-url": "{{ screenshot_path }}"
+              , "screenshot-url": "{{ startup | screenshot }}"
               , "usertypes": [
                   {% for usertype in startup.usertypes %}
                       "{{usertype}}"{% unless forloop.last %},{% endunless %}
@@ -102,7 +95,7 @@ layout: default
 </section>
 
 <section class="fr-container-fluid fr-py-2w fr-mb-3w blue-background">
-  {% include startups-filters.html prefix='filters-' %}    
+  {% include startups-filters.html prefix='filters-' %}
 </section>
 
 <div class="fr-container">
