@@ -15,17 +15,17 @@ module Jekyll
     end
   end
 
-  module URLChecker
-    def self.url_exists?(url)
-      uri = URI.parse(url)
-      response = nil
-      Net::HTTP.start(uri.host, uri.port, use_ssl: uri.scheme == 'https') do |http|
-        response = http.head(uri.request_uri)
-      end
-      response.is_a?(Net::HTTPSuccess)
-    rescue StandardError => e
-      Jekyll.logger.error "HTTP check error: #{e.message}"
-      false
+  module S3ImageFiles
+    def s3_image_file(template, id)
+      asset_key = template % id
+
+      File.join(S3_BASE_URL, asset_key) if s3_bucket_keys.find { |key| key == asset_key }
+    end
+
+    private
+
+    def s3_bucket_keys
+      @context.registers[:site].config['s3_keys']
     end
   end
 
@@ -33,18 +33,21 @@ module Jekyll
   # found in /img/startups/{id} or a placeholder instead
   module ScreenshotFilter
     include StaticFiles
-    include URLChecker
+    include S3ImageFiles
 
     FALLBACK = '/img/betagouv-rectangle.png'
 
     def screenshot(startup)
       return FALLBACK if startup.nil?
 
-      s3_url = "#{S3_BASE_URL}/startups/#{startup.id.split('/').last}/shot.jpg"
-      URLChecker.url_exists?(s3_url) ? s3_url : screenshot_file(startup) || FALLBACK
+      startup_s3_image_file(startup) || screenshot_file(startup) || FALLBACK
     end
 
     private
+
+    def startup_s3_image_file(startup)
+      s3_image_file('startups/%s/shot.jpg', startup_id(startup))
+    end
 
     def startup_id(startup)
       startup.id.split('/').last # they come as /startups/{id}
@@ -67,16 +70,26 @@ module Jekyll
   # their GitHub avatar, or a placeholder.
   module AvatarFilter
     include StaticFiles
-    include URLChecker
 
     FALLBACK = '/img/logo-generique-startup-carre-2019.jpg'
 
     def avatar(person)
-      s3_url = "#{S3_BASE_URL}/members/#{person['slug'].split('/').last}/avatar.jpg"
-      URLChecker.url_exists?(s3_url) ? s3_url : avatar_file(person['slug']) || avatar_attribute(person) || github_avatar(person['github']) || FALLBACK
+      return FALLBACK if person.nil?
+
+      slug = person['slug']
+
+      member_s3_image_file(slug) ||
+        avatar_file(slug) ||
+        avatar_attribute(person) ||
+        github_avatar(person['github']) ||
+        FALLBACK
     end
 
     private
+
+    def member_s3_image_file(slug)
+      s3_image_file('members/%s/avatar.jpg', slug)
+    end
 
     def avatar_files
       static_files.filter { |f| f.data['authors_img'] == true }
@@ -101,26 +114,23 @@ module Jekyll
 
   module IncubatorLogoFilter
     include StaticFiles
-    include URLChecker
 
     FALLBACK = '/img/incubators/logo_beta.png'
 
     def incubator_logo(incubator)
       return FALLBACK if incubator.nil?
 
-      id = incubator_id(incubator)
-      incubator_s3_img(id) || incubator_file(incubator) || FALLBACK
+      incubator_s3_image_file(incubator) || incubator_file(incubator) || FALLBACK
     end
 
     private
 
-    def incubator_s3_img(id)
-      s3_url = "#{S3_BASE_URL}/incubators/#{id}/logo.jpg"
-      URLChecker.url_exists?(s3_url) ? s3_url : false
-    end
-
     def incubator_id(incubator)
       incubator.id.split('/').last.parameterize # they come as /incubateurs/{id}
+    end
+
+    def incubator_s3_image_file(incubator)
+      s3_image_file('incubators/%s/logo.jpg', incubator_id(incubator))
     end
 
     def incubator_files

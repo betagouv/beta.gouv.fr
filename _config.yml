@@ -59,6 +59,8 @@ copy_to_dest:
   - source: node_modules/@gouvfr/dsfr/dist/.
     target: assets/gouvfr/
 
+s3_keys: []
+
 keep_files:
   - assets/gouvfr
 
