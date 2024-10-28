@@ -12,5 +12,7 @@ missions:
       - snu
 badges:
   - segur
+link: https://selego.co
+competences: []
 ---
 Développeur
