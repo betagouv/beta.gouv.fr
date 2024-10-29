@@ -24,6 +24,8 @@ missions:
     end: 2026-02-28
     status: admin
     employer: GIP Plateforme de l'inclusion
+    startups:
+      - gps
 competences:
   - UX
   - Coaching

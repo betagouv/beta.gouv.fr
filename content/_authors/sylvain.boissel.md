@@ -15,4 +15,5 @@ previously:
   - aides-territoires
 badges:
   - segur
+competences: []
 ---

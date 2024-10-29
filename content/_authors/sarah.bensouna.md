@@ -4,7 +4,7 @@ role: Opératrice de validation
 domaine: Déploiement
 missions:
   - start: 2022-07-10
-    end: 2023-12-31
+    end: 2025-06-30
     status: independent
     startups:
       - dossierfacile
