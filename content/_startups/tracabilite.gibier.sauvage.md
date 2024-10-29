@@ -78,16 +78,26 @@ DGAL une surveillance (épidémio-surveillance et gestion d’alertes sanitaires
 (analyse de risques, actions de sensibilisation ciblées, montée en compétence des acteurs).
 
 
-## Stratégie de développement 
+## Stratégie de construction 
 
-Le produit minimum viable sera développé dans un premier temps pour les acteurs qui à ce jour présentent un
+Le produit minimum viable (MVP) est développé dans un premier temps pour les acteurs qui à ce jour présentent un
 intérêt économique à la fluidification de l’information : le circuit agréé (passage des viandes par un
-établissement de traitement du gibier sauvage agréé). Le premier semestre de ce travail constituera une phase
-d’expérimentation de 5 à 6 mois dont au moins 3 mois pendant la saison de chasse. Il s’agira d’une
-application frugale comportant une cohorte d’environ 100 utilisateurs pour 2 à 3 établissements de
+établissement de traitement du gibier sauvage agréé). Le premier semestre de ce travail constitue une phase
+d’expérimentation de 5 à 6 mois dont au moins 3 mois pendant la saison de chasse. Il s’agit d’une
+application frugale comportant une cohorte d’environ 20 utilisateurs pour 2 à 3 établissements de
 traitement du gibier sauvage agréés situés dans les Hauts-de-France, dans le Grand Est et en Centre-Val de
 Loire.
 
 À long terme, si l’expérimentation est satisfaisante, l’application a pour vocation à toucher l’ensemble des
 circuits de valorisation des viandes de gibier sauvage et l’intégralité des chasseurs soit 1,2 millions
 d’utilisateurs potentiels.
+
+
+## Budget construction 2024
+
+| Poste | Total € |
+| --- | --- |
+| Développement | 58 150 |
+| Déploiement | 27 700 |
+| Coaching | 28 500  |
+| TOTAL | 114 350 |

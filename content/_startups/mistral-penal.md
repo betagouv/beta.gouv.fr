@@ -4,20 +4,23 @@ mission: Simplifier le suivi des dossiers pour les greffiers et automatiser les 
 sponsors:
   - /organisations/mj
 incubator: justice
-contact: maxime.gammaire@justice.fr
+contact: maxime.gammaire@justice.gouv.fr
 accessibility_status: non conforme
 redirect_from:
   - /startups/T2BJustice
 events:
-  - name: other
+  - name: product_launch
     date: 2022-02-01
     comment: Appel à projet du Ministère de la justice
-  - name: other
+  - name: committee
     date: 2023-10-10
     comment: Mise en sécurité pour le lancement de l'expérimentation
-  - name: other
+  - name: committee
     date: 2024-04-04
     comment: Construction sur un périmètre de juridictions restreint.
+  - name: committee
+    date: 2024-11-07
+    comment: Expérimentation du produit MISTRAL PENAL
 phases:
   - name: investigation
     start: 2022-06-29
@@ -28,6 +31,11 @@ phases:
 thematiques:
   - Justice
 analyse_risques: true
+usertypes:
+  - greffier/greffière
+  - Magistrat
+  - Directeur des services de greffe judiciaires
+techno: []
 ---
 ## Contexte
 

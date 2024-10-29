@@ -12,5 +12,6 @@ missions:
 memberType: beta
 teams:
   - /teams/animation-dinum
+competences: []
 ---
 Je m’attèle à stimuler la création de valeur, encapaciter les équipes et faciliter l’atteinte des objectifs

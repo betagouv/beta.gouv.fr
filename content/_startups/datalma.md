@@ -64,8 +64,9 @@ Sur le long terme, l’objectif est de mettre à disposition des acteurs concern
 - mesure d'effort : nombre d'indicateurs remontés dans le tableau (objectif = 15 indicateurs par thématique et 3 thématiques)
 
 ## Moyens
-Le produit est développé  conjointement avec l’équipe du Datalab.
 
-Deux Entrepreneurs d’Intérêt Général (EIG) sont mis à disposition par la DINUM :
-- Un profil couvrant les aspects produit, passant du bizdev à la data analyse ;
-- Un profil de direction technique : expérimenté en fullstack et devops pour couvrir les dashboards les plus téméraires.
+La startup d’Etat Datalma est portée par un copilotage du Datalab et de deux Entrepreneurs d'intérêt général (EIG), envoyés en mission auprès du Datalab dans le cadre d'une convention de partenariat.
+
+Un directeur de produit, pour définir la visée du produit et prioriser la feuille de route.
+
+Un directeur technique, pour opérer des choix technologiques de manière agile et sécurisée.
