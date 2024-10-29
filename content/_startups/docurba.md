@@ -31,6 +31,7 @@ events:
   - name: fast
     date: 2024-01-01
     comment: Montant de 250000€ pour la promotion 13
+techno: []
 ---
 **Plus de 10 000 collectivités devront décliner la trajectoire d’artificialisation des sols prévue par la loi Climat et Résilience d’ici 2027 dans leurs documents d’urbanisme, lesquels s’imposent aux 1,5 million de demandes d’autorisation d’urbanisme.** Or l’élaboration de ces documents est longue et risquée. Les collectivités mettent entre 3 et 5 ans à élaborer leur document d’urbanisme, et lors de l’approbation la majorité des avis de l’Etat présentent des réserves sur la prise en compte des enjeux environnementaux. À ce titre, la consommation d’espace, l’assainissement ou l’eau potable sont insuffisamment évalués dans ces projets de planification urbaine.
 
@@ -56,7 +57,7 @@ Pour cela, Docurba met à disposition :
 
 * **Un socle d’informations utiles à la collectivité et consultables dès le début et tout au long de l’élaboration de son document d’urbanisme.** Il s'agit des premiers éléments constitutifs du PAC, avec des éléments de niveau national et régional, harmonisés et mis à jour régulièrement, ainsi que des ressources pré-sélectionnées et des données spécifiques au territoire,
 
-* **Un tableau de bord et une feuille de route partagée pour suivre et partager les étapes clefs de chaque procédure.** Accessible à toutes les personnes impliquées dans la procédure, la Feuille de Route permet plus de transparence et fluidité dans la collaboration entre État et territoires.
+* **Un tableau de bord et une feuille de route partagée pour suivre et partager les étapes clefs de chaque procédure.** Accessible à toutes les personnes impliquées dans la procédure, la Feuille de Route permet notamment d'y joindre des documents clefs (sans limite de taille) pour apporter transparence et fluidité dans la collaboration entre État et territoires.
 
 * **Un outil collaboratif en DDT(M)/DEAL pour l’élaboration des PAC**. Chaque DDT(M)/DEAL dispose d’une trame de PAC départementale personnalisable avec des éléments pré-remplis au niveau national et régional. De cette manière, les services de l’État peuvent consacrer plus de temps sur l’application locale et ainsi aider la collectivité à mieux prendre en compte les enjeux de son territoire.
 
@@ -72,14 +73,9 @@ Se rendre sur Docurba : [http://docurba.beta.gouv.fr/](http://docurba.beta.gouv.
 
 **Docurba a pour mission de faciliter l’élaboration et le suivi des documents d’urbanisme afin de plus rapidement et mieux prendre en compte les enjeux environnementaux.**
 
-Nos objectifs d'ici à fin 2024 :
+Notre objectif est de devenir la plateforme de référence pour accompagner à grande échelle la territorialisation de la planification écologique dans les documents d’urbanisme.
 
-- **Être la plateforme de référence pour accompagner à grande échelle la territorialisation de la planification écologique dans les documents d’urbanisme,**
-- 90% des services de l’État utilisent Docurba pour suivre les procédures de documents d’urbanisme,
-- 60% des services de l'État se saisissent des éléments réglementaires mutualisés sur Docurba pour l'élaboration des Porter à Connaissance,
-- 33% des collectivités se lançant dans un document d’urbanisme ont été orientées par Docurba.
-
-**En juin 2024, 34% des DDT(M)/DEAL utilisent Docurba quotidiennement, et on observe une augmentation de la création de comptes par les collectivités de +20% tous les mois.**
+**En octobre 2024, 50% des DDT(M)/DEAL utilisent Docurba quotidiennement, et 359 territoires y suivent leurs procédures de documents d'urbanisme.**
 
 Nos statistiques via ce lien : [Statistiques de Docurba](https://docurba.beta.gouv.fr/stats)
 

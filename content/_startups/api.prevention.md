@@ -1,6 +1,6 @@
 ---
 mission: Pousser de l’information de prévention de manière ciblée aux citoyens et citoyennes pour limiter les risques de maladie
-incubator: sgmas
+incubator: dinum
 title: API Prévention
 contact: aude.nyadanu@beta.gouv.fr
 accessibility_status: non conforme
@@ -11,8 +11,6 @@ phases:
     start: 2024-03-29
   - name: construction
     start: 2024-06-29
-  - name: alumni
-    start: 2024-07-10
 thematiques: []
 usertypes: []
 techno: []
@@ -39,6 +37,5 @@ Nous envisageons d'agréger des contenus de prévention de qualité afin que d'a
 
 ## Stratégie
 
-Dans un premier temps, nous nous appuierons sur les contenus de prévention déjà répertoriés par sante.fr afin de les classifier de façon pertinente et travaillerons avec des acteurs en lien avec les citoyens pour leur diffuser des messages de prévention ciblés.
+Une investigation produit menée en 2024, avec un comité d’investissement en mai a démontré la pertinence d’un test produit sous la forme d’une stratégie multi-partenariales avec des rediffuseurs issus du public et du privé.
 
-Dans un second temps, nous pourrons envisager d'agréger d'autres contenus supplémentaires.

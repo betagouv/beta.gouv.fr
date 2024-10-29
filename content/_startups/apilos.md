@@ -58,12 +58,12 @@ analyse_risques: false
 
 Chaque année, plus de 15 000 conventions sont signées entre l’Etat et les bailleurs de logements sociaux, afin de permettre aux ménages d’accéder à des logements sociaux.
 
-Cependant, **le remplissage long et compliqué des conventions APL est source d’erreurs. Il y a un impact sur toute la chaîne du conventionnement ; de l’instruction, à la mise en service. 
+Cependant, le remplissage long et compliqué des conventions APL est source d’erreurs. Il y a un impact sur toute la chaîne du conventionnement ; de l’instruction, à la mise en service. 
 
 Or c’est un document pivot et vecteurs de droits essentiels pour les locataires concernés:
 
 * Des mises en services sans convention, *avec des avenants rarement réalisés, entraînant une insécurité juridique et des sources d’erreur sur les statistiques du logement en France*
-* Attentes de versement des APL pour les locataires* *en raison des difficultés d'accès aux conventions pour les autres parties prenantes du conventionnement (ex : CAF, préfectures, MSA)*
+* Attentes de versement des APL pour les locataires *en raison des difficultés d'accès aux conventions pour les autres parties prenantes du conventionnement (ex : CAF, préfectures, MSA)*
 * absence de cohérence entre les demandes de financements/d'agrément et conventionnement APL, *les bailleurs sociaux doivent à nouveau toutes les informations du programme*
 
 📑 La convention APL

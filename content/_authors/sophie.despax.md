@@ -12,8 +12,8 @@ competences:
 missions:
   - start: 2024-10-25
     end: 2025-01-25
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - bases.adresses.locales
 ---

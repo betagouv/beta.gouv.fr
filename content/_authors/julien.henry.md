@@ -4,7 +4,7 @@ fullname: Julien HENRY
 role: Produit
 missions:
   - start: 2024-06-03
-    end: 2024-11-06
+    end: 2025-01-06
     status: independent
     employer: MALT
     startups:
