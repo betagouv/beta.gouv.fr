@@ -10,6 +10,8 @@ gem 'jekyll'
 
 gem 'activemodel'
 
+gem 'aws-sdk-s3'
+
 group :jekyll_plugins do
   gem 'jekyll-redirect-from'
 end

@@ -88,13 +88,6 @@ layout: default
     var startups = [
         {% for startup in site.startups %}
             {% assign startup_id = startup.id | remove: '/startups/' %}
-            {% assign screenshot_files = site.static_files | where: "startups_img", true %}
-            {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
-            {% if screenshot_file %}
-            {% assign screenshot_path = screenshot_file.path %}
-            {% else %}
-            {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
-            {% endif %}
             {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
             {% assign incubator = incubators | where:'id', incubator_id | first %}
             { "id"        : "{{ startup.id | remove: '/startups/' }}"
@@ -111,7 +104,7 @@ layout: default
                 , "repository": "{{ startup.repository}}"{% endif %}
                 , "contact": "{{startup.contact}}"
                 , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
-                , "screenshot-url": "{{ screenshot_path }}"
+                , "screenshot-url": "{{ startup | screenshot }}"
                 , "phases": [
                     {% for phase in startup.phases %}
                         { "name": "{{phase.name}}", "start": "{{phase.start}}", "end": "{{phase.end}}"}{% unless forloop.last %},{% endunless %}
