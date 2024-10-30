@@ -17,39 +17,29 @@ usertypes:
 techno:
   - typescript
   - ia
+repository: https://github.com/betagouv/VApp
 ---
-## Contexte
+# Contexte
 
-Nous avons commencé l’investigation le 4 avril, en lançant rapidement des entretiens exploratoires axés “problème” auprès de plusieurs types d’usagers :
-- Élus et employés de toutes petites communes (éligibles Villages d’Avenir - VA)
-- Services de petites ou moyennes collectivités, notamment chargés d’affaires Petites Villes de demain (PVD)
-- Chargés d’affaire Villages d’Avenir (VA) en DDT
+Dans le cadre du programme **Villages d'Avenir** en DDT, nous avons constaté que les collectivités rencontrent de grandes difficultés à identifier les aides réellement applicables à leurs projets. De plus, elles manquent d'accompagnement pour adapter leurs initiatives en fonction de la multitude d'aides et de subventions disponibles.
 
-Ces entretiens nous ont permis de faire émerger des problèmes réels, majeurs et actionnables rencontrés par nos usagers. En parallèle, notre benchmark des solutions existantes a confirmé que la brique "financement" est absente de l'écosystème Beta.Gouv, dans lequel nous nous insérons, et qu’elle était déjà envisagée par le projet Aides-Territoires.
+Après plusieurs entretiens, nous avons identifié les usagers concernés par ce problème :
 
-## Problème
+- **Élus et employés de très petites communes** (éligibles Villages d'Avenir - VA)
+- **Services de petites ou moyennes collectivités**, notamment les chargés d'affaires du programme Petites Villes de Demain (PVD)
+- **Chargés d'affaires Villages d'Avenir (VA) en DDT**
 
-Les problèmes identifiés chez nos usagers sont les suivants :
-1. **Manque de connaissance des aides disponibles** : Cela entraîne des pertes d’opportunités de financement et une mauvaise répartition des ressources pour les organismes financeurs.
-2. **Difficulté à optimiser les cahiers des charges des projets** : Une optimisation pourrait permettre de les aligner sur les dispositifs d’aide, améliorant ainsi la qualité des projets et leur pertinence par rapport aux priorités publiques.
-3. **Insuffisance des compétences en ingénierie financière** : Cela compromet la construction d’un plan de financement solide, augmentant les risques financiers et les retards dans la réalisation des projets.
+Ces entretiens axés sur les problématiques ont mis en lumière des enjeux réels, majeurs et actionnables pour nos usagers. Par ailleurs, notre analyse des solutions existantes a confirmé que la dimension "financement" est absente de l'écosystème Beta.gouv, auquel nous souhaitons nous intégrer, bien qu'elle ait été envisagée par le projet Aides-Territoires.
 
-Ces problèmes ont des conséquences sur la qualité des projets, la répartition des aides et la gestion des risques financiers pour les communes.
+# Problématique
 
-## Solution
+Les usagers font face aux défis suivants :
 
-Notre solution vise à :
-1. **Identifier des aides applicables** aux projets de nos bénéficiaires (P1).
-2. **Optimiser le cahier des charges** des projets pour maximiser l’accès aux dispositifs d’aide (P2).
-3. **Construire un plan de financement qualitatif** pour chaque projet (P3).
+1. **Manque de connaissance des aides disponibles** : Cela entraîne des pertes d'opportunités de financement et une mauvaise allocation des ressources par les organismes financeurs.
+2. **Difficulté à optimiser les cahiers des charges des projets** : Une meilleure adéquation permettrait d'aligner les projets sur les dispositifs d'aide, améliorant ainsi leur qualité et leur pertinence vis-à-vis des priorités publiques.
 
-Les bénéficiaires de cette solution sont les petites communes, les collectivités locales et les chargés d'affaires Villages d’Avenir (VA) et Petites Villes de demain (PVD).
+Ces problèmes affectent la qualité des projets, la distribution des aides et la réalisation des objectifs des communes.
 
-## Stratégie
+# Solution
 
-Nous poursuivons deux axes d’expérimentation pour valider notre solution dans une approche Lean :
-1. **Poursuite des entretiens axés sur la solution** pour affiner les spécifications fonctionnelles, notamment sur la brique plan de financement (P3).
-2. **Création d’un MVP** pour l’identification des aides et l’optimisation des cahiers des charges (P1/P2), afin de valider la faisabilité technique.
-
-Nous visons à améliorer l’accès aux financements pour nos bénéficiaires et à optimiser l’allocation des ressources des organismes financeurs, en réduisant les écarts entre les besoins des communes et les dispositifs d’aide.
-
+Nous sommes convaincus qu'avec l'appui de l'intelligence artificielle et des nouvelles technologies, nous pouvons créer une application qui aidera durablement les collectivités et les agents dédiés à concevoir des projets plus cohérents avec les aides et subventions disponibles sur le territoire français.

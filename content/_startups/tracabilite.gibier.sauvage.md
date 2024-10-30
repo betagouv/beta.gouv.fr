@@ -47,8 +47,7 @@ du gibier sauvage agréés, services vétérinaires d’inspection), les enseign
 * L’absence de fiabilité des informations sanitaires et de traçabilité transmises par les producteurs
 * primaires (chasseurs) 
 * La méconnaissance des données sanitaires essentielles aux services vétérinaires d’inspection (SVI)
-* pour réaliser leur contrôle et attester de la qualité sanitaire des viandes de gibier sauvage mises sur le
-* marché 
+* pour réaliser leur contrôle et attester de la qualité sanitaire des viandes de gibier sauvage mises sur le marché 
 *  L’absence de canal de communication direct et efficace entre les chasseurs et l&#39;administration sur les enjeux sanitaires 
 * La méconnaissance des obligations et des enjeux sanitaires par les producteurs primaires. Le niveau de
 formation des personnes formées à l’examen initial est insuffisant ;
