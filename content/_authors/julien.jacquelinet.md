@@ -4,7 +4,7 @@ fullname: Julien Jacquelinet
 role: Développement
 missions:
   - start: 2024-03-25
-    end: 2024-10-31
+    end: 2024-11-30
     status: independent
     employer: Fairness
     startups:

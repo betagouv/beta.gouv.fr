@@ -8,8 +8,10 @@ missions:
     status: admin
     employer: affaires-sociales
   - start: 2020-08-03
-    end: 2024-10-31
+    end: 2024-11-30
     status: independent
+    startups:
+      - aplus
 startups:
   - aplus
 previously:
