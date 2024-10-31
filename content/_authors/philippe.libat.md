@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: Lab-MI
   - start: 2021-11-15
-    end: 2024-11-15
+    end: 2030-11-15
     status: admin
     employer: DINUM
 previously:

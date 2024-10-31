@@ -1,7 +1,7 @@
 ---
 domaine: Développement
 fullname: Dorian Lemoine
-role: Développement
+role: Développeur
 github: dolemoine
 missions:
   - start: 2024-05-01
