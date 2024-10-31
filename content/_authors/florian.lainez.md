@@ -4,7 +4,7 @@ fullname: Florian LAINEZ
 role: Déploiement
 missions:
   - start: 2024-03-22
-    end: 2024-11-30
+    end: 2025-06-01
     status: independent
     employer: IGN
     startups:
@@ -14,6 +14,7 @@ github: overflorian
 competences:
   - Croissance
   - OpenStreetMap
+  - UX
 memberType: beta
 ---
 Expert OpenStreetMap

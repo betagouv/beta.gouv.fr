@@ -4,9 +4,9 @@ role: UX Designer
 domaine: Design
 missions:
   - start: 2022-04-01
-    end: 2024-11-30
+    end: 2025-01-31
     status: independent
-    employer: Pôle emploi
+    employer: Malt
     startups:
       - l-application-du-cej
       - l-immersion-facile

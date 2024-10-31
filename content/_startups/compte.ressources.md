@@ -5,7 +5,7 @@ sponsors:
   - /organisations/menjs
 incubator: menj
 contact: caroline.guedan@education.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 phases:
   - name: investigation
     start: 2023-02-15
@@ -15,6 +15,7 @@ thematiques:
   - Formation
 usertypes: []
 techno: []
+repository: https://forge.apps.education.fr/incubateur/projet/startup-d-etat/compte-ressources
 ---
 ## Contexte
 Pendant les États généraux du numérique pour l’éducation (2021) et lors travaux de concertation sur la stratégie du numérique pour l’éducation (2022), les enseignants et les chefs d’établissement ont signalé des difficultés pour acquérir des ressources pédagogiques numériques. 
@@ -25,6 +26,7 @@ En réponse à ces remontées de terrain, le 27 janvier 2023, le Ministre de l�
 La Direction du numérique pour l'éducation a alors saisi la DINUM et le programme beta.gouv.fr pour conduire une investigation dans le cadre de cette commande politique. 
 
 Le partenariat avec beta.gouv a cessé en juin 2023 faute de crédits suffisants à allouer au compte ressources, et a repris en juin 2024 suite à la création de l’incubateur du ministère de l’éducation nationale.
+Le projet est suspendu, en attente de financements pérennes.
 
 ## Problème
 Actuellement, les enseignants rencontrent des difficultés pour obtenir les ressources pédagogiques adaptées à leurs besoins en classe, et in fine, permettre à leurs élèves de bénéficier des conditions les plus favorables à leur bon apprentissage.
@@ -63,9 +65,8 @@ Le produit sera considéré comme viable à 6 mois (KPIs à préciser) si :
 * Les enseignants ont réussi à commander des RNE et à y accéder via le GAR ;
 * Les profils « pilote » (chef d’établissement, inspecteurs, personnels des Dane et de la DNE) peuvent suivre l’utilisation des crédits allouées aux enseignants.
 
-## Calendrier prévisionnel
+## Calendrier 
 * Mai-Juillet 2024 : Construction du prototype
-* Septembre-Décembre 2024 : MVP et tests en situation 
-* Janvier-Avril 2025 : premières acquisitions sur le premier périmètre restreint
-* Mai-Septembre 2025 : Déploiement du Compte ressources sur un périmètre expérimental élargi
+* Août 2024 : livraison du prototype et du code source
+* Novembre 2024 : publication du code source
 

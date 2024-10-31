@@ -6,7 +6,7 @@ link: https://charline-laporte.fr/
 github: Charline-L
 missions:
   - start: 2022-04-11
-    end: 2024-11-30
+    end: 2024-12-06
     status: independent
     employer: La zone / Scopyleft
     startups:
