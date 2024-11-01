@@ -10,7 +10,7 @@ missions:
     startups:
       - commun.orientation
   - start: 2021-12-01
-    end: 2024-12-31
+    end: 2024-08-31
     status: independent
     employer: Omnicité
     startups:
@@ -21,10 +21,26 @@ missions:
     employer: Little Big Connection
     startups:
       - monstage
+  - start: 2024-10-31
+    end: 2025-03-31
+    status: independent
+    employer: Malt
+    startups:
+      - qualicharge
 startups:
   - signalement
 previously:
   - monstage
   - commun.orientation
 link: https://www.linkedin.com/in/ingridgodefroy/
+competences:
+  - Croissance
+  - Facilitation
+  - UX
+  - Metabase
+  - Matomo
+  - Communication
 ---
+Avec plus de 20 ans d'expériences professionnelles entre le public et le privé, les Ministères ou les Startups, je suis guidée par des valeurs éthique et morale, pour créer des synergies stratégiques et pérennes.
+
+J’accompagne les entreprises à améliorer leur processus interne, la stratégie de communication, à développer leur croissance financière tout en valorisant le capital humain de l’entreprise. Accompagnement développement ou déploiement d’un produit numérique / expérimentation / itérations / retours utilisateurs.

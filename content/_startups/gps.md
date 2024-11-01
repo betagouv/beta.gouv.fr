@@ -1,16 +1,21 @@
 ---
 title: GPS
-mission: Permettre aux 160 000 acteurs du réseau pour l’emploi d’accéder et de partager les informations quant aux intervenants dans le suivi et l’accompagnement des personnes prises en charge dans le cadre de la loi Plein Emploi.
+mission: Simplifier l’accompagnement socio-professionnel en partageant les informations sur les usagers et en mettant en contact ceux qui interviennent auprès d'une même personne.
 sponsors:
   - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
-contact: eric.barthelemy@beta.gouv.fr
+contact: gps@inclusion.gouv.fr
 phases:
   - name: investigation
     start: 2023-12-05
 thematiques:
   - Travail / Emploi
+repository: https://github.com/gip-inclusion/les-emplois/
+stats_url: http://stats.inclusion.beta.gouv.fr/public/dashboard/477427ca-dd6c-4908-bbff-d6b21a82bb3c
+usertypes: []
+techno:
+  - django
 ---
 ## Contexte
 Dans le cadre de la loi Plein Emploi deux nouvelles notions ont été introduites :
