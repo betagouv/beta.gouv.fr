@@ -10,5 +10,6 @@ missions:
       - oilhi
 memberType: beta
 link: https://www.linkedin.com/in/mariecelinebattesti
+competences: []
 ---
 Bien occupée mais toujours partante pour de nouveaux projets

@@ -11,5 +11,5 @@ missions:
     status: independent
     employer: Mon Devis Sans Oublis
     startups:
-      - checklist.demande.aides.renovation.energetique
+      - mon-devis-sans-oublis
 ---

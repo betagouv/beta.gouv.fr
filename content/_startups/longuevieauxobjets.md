@@ -9,7 +9,7 @@ repository: https://github.com/incubateur-ademe/quefairedemesobjets
 contact: longuevieauxobjets@ademe.fr
 stats: false
 budget_url: https://longuevieauxobjets.ademe.fr/budget
-dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/longuevieauxobjets
+dashlord_url: https://dashlord.incubateur.ademe.fr/startup/longuevieauxobjets
 analyse_risques: true
 accessibility_status: non conforme
 redirect_from:

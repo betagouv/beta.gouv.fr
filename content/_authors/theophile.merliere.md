@@ -6,6 +6,12 @@ missions:
     end: 2023-04-30
     status: independent
     employer: Living Data
+  - start: 2024-10-01
+    end: 2025-03-31
+    status: service
+    employer: Living Data
+    startups:
+      - prelevements.deau
 previously:
   - datapass
   - geo.data.gouv.fr

@@ -17,12 +17,13 @@ phases:
     start: 2021-11-17
 usertypes:
   - entreprise
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 thematiques:
   - Travail / Emploi
   - Social
   - Entreprises
   - Administratif
+techno: []
 ---
 ## Le contexte :
 
