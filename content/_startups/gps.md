@@ -17,17 +17,27 @@ usertypes: []
 techno:
   - django
 ---
-## Contexte
-Dans le cadre de la loi Plein Emploi deux nouvelles notions ont été introduites :
-1. France Travail : il regroupe les acteurs historiques du suivi des demandeurs d'emploi et/ou du RSA : Pôle emploi, Mission Locale, Cap emploi et les départements.
-2. Le réseau pour l'emploi : il regroupe les 160 000 acteurs de l'accompagnement socio-professionnel (les acteurs de l’hébergement (CADA, CHU, CHRS, CPH, HUDA, résidence sociale, FJT,…), CAF, CAVA, CSAPA, E2C, CAARUD, SPIP, PLIE, PJJ, PIJ-BIJ, OACAS, MSA, EPIDE, CCAS, ASE, AFPA, …)
+
 ## Problème
-Un parcours sans couture ! C’est en ces termes que Thibaut GUILLUY a posé le problème il y a de nombreux mois déjà. Et ce problème est clairement identifié dans le texte de loi Plein Emploi : « Art. L. 5311‑8. – I. – Les personnes morales constituant le réseau des acteurs de l’insertion et de l’emploi coordonnent l’exercice de leurs compétences et favorisent la complémentarité de leurs actions, afin d’assurer le suivi et la continuité des parcours d’insertion ainsi que la réalisation des actions d’accompagnement socio‑professionnel des bénéficiaires. »
+
+Qui est intervenu auprès de la personne que j'accompagne, et qu'est-ce qui a été entrepris ?
+
+Les accompagnateurs socio-professionnels souffrent de ne pas avoir accès aux bonnes informations au bon moment. Résultat, ils perdent du temps, recommencent parfois des démarches déjà lancées par un autre professionnel, et ne parviennent pas assez à collaborer entre eux.
+
 ## Solution
-GPS, le Guide de Partage et de suivi, permettra à la fois d’orienter avec efficience une personne et de suivre le parcours de cette personne . GPS permettra de gagner du temps en mettant en visibilité la succession des acteurs intervenant auprès d’une personne et en facilitant la prise de contact entre ces acteurs.
-- La mise en oeuvre de la *technique des entretiens giratoires* permettra lors de la première prise de contact de réaliser un prè-diagnostic pour orienter la personne rapidement vers le bon référent pour mener l’accompagnement et le diagnostic plus complet.
-- L’outil numérique proposera sur une interface unique, légère et simple d’utilisation une meilleure connaissance des parcours des personnes au sein du réseau pour l’emploi.
+
+GPS – le « guide de partage et de suivi » – rassemble sur une seule page les informations essentielles pour comprendre la situation de la personne accompagnée, ainsi que les coordonnées de tous les autres professionnels intervenus auprès de cette personne. **Cette approche encourage les professionnels à s'appeler ou s'écrire directement.**
+
+(Un objectif secondaire est de réduire le temps passé par les professionnels dans des tâches de retranscription et de saisie.)
+
 ## Stratégie
-Mise en place des Open Lab en invitant un maximum d’acteurs (CIP de SIAE, travailleurs sociaux de CCAS, responsable d’équipe d’un département, prescripteurs habilités de l’IAE, conseiller Pôle emploi, Mission Locale,…) pour co-construire cet outil numérique.
+
+Notre déploiement suit une logique d'« aller-vers » : des rencontres en face à face avec les usagers et les professionnels dans nos terrains d'expérimentation.
+
+En parallèle, nous contribuons aux efforts de France Travail et du reste du [Réseau pour l'emploi](https://travail-emploi.gouv.fr/ministere/organisation/reseau-pour-lemploi) pour la mise en commun et l'échange de données utiles à l'accompagnement.
+
 ## Mesure d'impact
-Nombre d’acteurs utilisant la méthode d’orientation et/ou ayant utilisé l’outil pour la première fois et  pourcentage d’acteurs actifs chaque semaine ( acteurs ayant créé ou consulté l’outil numérique).
+
+La démarche sera un succès si GPS renforce les échanges entre le service public de l'emploi (ou « SPE », qui regroupe France Travail, les Missions locales, Cap emploi, les Conseils départementaux et leurs délégataires dans l'accompagnement du RSA) et tous les autres acteurs, petits et grands, du [Réseau pour l'emploi](https://travail-emploi.gouv.fr/ministere/organisation/reseau-pour-lemploi).
+
+Nous comptons mesurer la croissance et l'activation du « graphe social » de l'inclusion – les mises en relation et invitation entre professionnels.
