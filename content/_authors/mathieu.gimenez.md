@@ -12,12 +12,12 @@ missions:
     startups:
       - aigle
       - boris
-      - checklist.demande.aides.renovation.energetique
       - detournement-de-terres-agricoles
       - docurba
       - dossierfacile
       - envergo
       - mediation.logement
+      - mon-devis-sans-oublis
       - mon-diagnostic-artificialisation
       - otelo
       - pitchou

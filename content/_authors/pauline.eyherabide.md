@@ -11,9 +11,11 @@ missions:
     startups:
       - france-numerique-ensemble
   - start: 2021-10-28
-    end: 2024-11-30
+    end: 2025-03-31
     status: independent
     employer: Scopyleft
+    startups:
+      - ma-cantine-egalim
 startups:
   - ma-cantine-egalim
 previously:

@@ -5,9 +5,10 @@ domaine: Développement
 github: mzem
 missions:
   - start: 2021-10-20
-    end: 2024-11-30
+    end: 2025-02-28
     status: service
     employer: OCTO
     startups:
       - l-application-du-cej
+competences: []
 ---

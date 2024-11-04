@@ -1,16 +1,10 @@
 ---
-mission: Fluidifier l'instruction des aides en limitant les allers-retours sur les devis lors de l'instruction des dossiers de demandes d'aides à la rénovation énergétique pour les logements des particuliers
-incubator: mtes
-title: 'Mon Devis Sans Oublis '
-contact: martin.letellier@beta.gouv.fr
 accessibility_status: non conforme
-sponsors:
-  - /organisations/dgaln
-phases:
-  - name: investigation
-    start: 2023-11-27
-  - name: construction
-    start: 2024-10-01
+contact: martin.letellier@beta.gouv.fr
+repository: https://github.com/betagouv/mondevissansoublis/
+link: https://mon-devis-sans-oublis.beta.gouv.fr/
+redirect_from:
+  - /startups/checklist.demande.aides.renovation.energetique.html
 thematiques:
   - Écologie
   - Administratif
@@ -21,8 +15,21 @@ usertypes:
 techno:
   - rails
   - publi.codes
-repository: https://github.com/betagouv/mondevissansoublis/
-link: https://mon-devis-sans-oublis.beta.gouv.fr/
+title: 'Mon Devis Sans Oublis '
+mission: Fluidifier l'instruction des aides en limitant les allers-retours sur les devis lors de l'instruction des dossiers de demandes d'aides à la rénovation énergétique pour les logements des particuliers
+incubator: mtes
+sponsors:
+  - /organisations/dgaln
+phases:
+  - name: investigation
+    comment: null
+    start: 2023-11-27
+    end: null
+  - name: construction
+    comment: null
+    start: 2024-10-01
+    end: null
+events: []
 ---
 ## Contexte
 

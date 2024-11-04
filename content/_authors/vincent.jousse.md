@@ -14,7 +14,7 @@ missions:
       - inclusion.connect
       - les-emplois
   - start: 2024-06-03
-    end: 2024-12-03
+    end: 2025-03-03
     status: independent
     employer: PathTech
     startups:
@@ -28,4 +28,5 @@ competences:
   - Développement Backend
   - Développement Full-stack
   - Elm
+  - Rust
 ---

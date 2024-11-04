@@ -1,7 +1,7 @@
 ---
 fullname: Louis-Jean Teitelbaum
 domaine: Animation
-role: Responsable du design et des études
+role: "Responsable du design et\_des\_études"
 github: louije
 link: https://meidosem.com
 teams:

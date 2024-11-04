@@ -17,7 +17,6 @@ usertypes: []
 techno:
   - django
 ---
-
 ## Le problème
 
 Qui est intervenu auprès de la personne que j'accompagne, et qu'est-ce qui a été entrepris ?

@@ -13,6 +13,6 @@ missions:
     end: 2025-08-31
     status: admin
     startups:
-      - checklist.demande.aides.renovation.energetique
+      - mon-devis-sans-oublis
 github: martin-letellier
 ---
