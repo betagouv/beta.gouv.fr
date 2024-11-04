@@ -18,13 +18,13 @@ techno:
   - django
 ---
 
-## Problème
+## Le problème
 
 Qui est intervenu auprès de la personne que j'accompagne, et qu'est-ce qui a été entrepris ?
 
 Les accompagnateurs socio-professionnels souffrent de ne pas avoir accès aux bonnes informations au bon moment. Résultat, ils perdent du temps, recommencent parfois des démarches déjà lancées par un autre professionnel, et ne parviennent pas assez à collaborer entre eux.
 
-## Solution
+## Notre service
 
 GPS – le « guide de partage et de suivi » – rassemble sur une seule page les informations essentielles pour comprendre la situation de la personne accompagnée, ainsi que les coordonnées de tous les autres professionnels intervenus auprès de cette personne. **Cette approche encourage les professionnels à s'appeler ou s'écrire directement.**
 
