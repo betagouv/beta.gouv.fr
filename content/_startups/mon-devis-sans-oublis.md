@@ -3,6 +3,8 @@ accessibility_status: non conforme
 contact: martin.letellier@beta.gouv.fr
 repository: https://github.com/betagouv/mondevissansoublis/
 link: https://mon-devis-sans-oublis.beta.gouv.fr/
+redirect_from:
+  - /startups/checklist.demande.aides.renovation.energetique.html
 thematiques:
   - Écologie
   - Administratif
