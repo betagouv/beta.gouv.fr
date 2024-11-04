@@ -85,4 +85,4 @@ L'outil a d'autres externalités positives sur la ZAN et les économies carbone 
 
 ## Objectif 3 : engager des collectivités dans la lutte
 * Nombre d'organisations inscrites à ZLV
-* Taux d'utilisateurs qui se sont connectés à ZLV dans le 3 derniers mois
+* Taux d'utilisateurs qui se sont connectés à ZLV dans les 3 derniers mois
