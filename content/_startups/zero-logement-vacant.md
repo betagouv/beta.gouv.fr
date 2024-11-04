@@ -11,7 +11,7 @@ repository: https://github.com/MTES-MCT/zero-logement-vacant
 contact: contact@zerologementvacant.beta.gouv.fr
 dashlord_url: https://dashlord.incubateur.net/
 accessibility_status: partiellement conforme
-stats_url: https://zerologementvacant.beta.gouv.fr/stats
+stats_url: https://zerologementvacant.beta.gouv.fr/statistiques
 stats: true
 budget_url: https://docs.google.com/spreadsheets/d/1rki0Wlrk4hCL0WC8mlHcRlj8rk7iCZ4ed3lyxSa_yec/edit#gid=300205456
 phases:
