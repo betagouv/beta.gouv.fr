@@ -6,7 +6,7 @@ github: carolinedekerhor
 link: https://www.linkedin.com/in/carolinedekerhor/
 missions:
   - start: 2019-06-17
-    end: 2024-12-31
+    end: 2024-02-29
     status: independent
     startups:
       - bpco
