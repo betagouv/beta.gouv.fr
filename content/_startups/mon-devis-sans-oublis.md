@@ -22,14 +22,9 @@ sponsors:
   - /organisations/dgaln
 phases:
   - name: investigation
-    comment: null
     start: 2023-11-27
-    end: null
   - name: construction
-    comment: null
     start: 2024-10-01
-    end: null
-events: []
 ---
 ## Contexte
 

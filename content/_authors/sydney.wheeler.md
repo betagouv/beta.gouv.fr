@@ -15,6 +15,12 @@ missions:
     employer: Malt
     startups:
       - zero-logement-vacant
+  - start: 2024-11-05
+    end: 2025-03-31
+    status: independent
+    employer: Malt
+    startups:
+      - data-subvention
 startups:
   - zero-logement-vacant
 memberType: beta

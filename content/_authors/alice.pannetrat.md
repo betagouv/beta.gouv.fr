@@ -13,4 +13,5 @@ teams:
   - /teams/animation-dinum
 badges:
   - segur
+competences: []
 ---

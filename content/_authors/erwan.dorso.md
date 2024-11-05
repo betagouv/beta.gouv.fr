@@ -2,12 +2,12 @@
 fullname: Erwan Dorso
 role: DevOps / Responsable technique
 domaine: Développement
-link: https://www.erwan-dorso.net/
+link: https://scopandco.fr/
 github: heroinedor
 missions:
   - start: 2022-12-05
-    end: 2024-12-05
-    status: independent
+    end: 2025-06-05
+    status: service
     employer: Scop&co
     startups:
       - eimis
@@ -17,4 +17,4 @@ previously:
   - tchap
 competences: []
 ---
-DevOps freelance
+DevOps chez scop&co
