@@ -17,7 +17,12 @@ usertypes:
 phases:
   - name: investigation
     start: 2023-11-20
+  - name: construction
+    start: 2024-03-01
+  - name: acceleration
+    start: 2024-10-18
 techno: []
+link: https://react.beta.gouv.fr
 ---
 ## Contexte
 

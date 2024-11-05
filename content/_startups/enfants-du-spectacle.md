@@ -20,6 +20,7 @@ phases:
     end: 2022-09-01
 thematiques: []
 techno: []
+stats_url: https://metabase-enfants-du-spectacle.fabrique.social.gouv.fr/public/dashboard/70ae0640-d606-419a-83c9-fe6b0069049d
 ---
 ## Le contexte
 

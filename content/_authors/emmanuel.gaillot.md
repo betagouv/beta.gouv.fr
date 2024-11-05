@@ -17,7 +17,7 @@ missions:
     status: service
     employer: omnicite
   - start: 2023-06-15
-    end: 2024-12-31
+    end: 2025-02-28
     status: service
     employer: omnicite
 startups:
@@ -25,5 +25,6 @@ startups:
 previously:
   - eva
   - homologation
+competences: []
 ---
 Programmeur extrême & codexhibitionniste.
