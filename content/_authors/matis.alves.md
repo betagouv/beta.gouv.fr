@@ -1,6 +1,6 @@
 ---
 fullname: Matis Alves
-role: Chargé de déploiment
+role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-03-01
@@ -13,3 +13,4 @@ badges:
   - segur
 competences: []
 ---
+Au service du rendez-vous 🗓️

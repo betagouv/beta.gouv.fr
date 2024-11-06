@@ -5,11 +5,15 @@ domaine: Développement
 github: Holist
 missions:
   - start: 2022-09-01
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
     employer: Octo
     startups:
       - rdv.insertion
-      - rdv-service-public
+link: https://www.linkedin.com/in/romain-neuville-202839108/
+competences:
+  - Développement Full-stack
+  - Ruby
+  - Administration Système
 ---
 Développeur Full Stack multi casquettes (Sys/NetAdmin, amateur de jeux de société, danseur...)

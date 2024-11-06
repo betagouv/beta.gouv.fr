@@ -18,5 +18,7 @@ previously:
   - monstage
   - pass-culture
   - mpal
+competences:
+  - Accessibilité
 ---
 Y'a pas de problème, que des solutions.

@@ -1,15 +1,17 @@
 ---
 title: Mission interministérielle InserJeunes
 short_description: Cet incubateur développe des services numériques destinés à faciliter l’orientation et l’insertion des jeunes issus de la voie professionnelle initiale.
-owner:
+owner: ''
 logo: logo_beta.png
-website:
-github:
-contact:
+website: ''
+github: ''
+contact: ''
 highlighted_startups:
-    - exposition-ij
-    - pilotagevoiepro
-    - sirius
+  - sirius
+  - pilotagevoiepro
+  - investigation-ij
+  - exposition-ij
+address: ''
 ---
 À travers la production de données utiles et fiables et la construction de services numériques à impact, la mission interministérielle InserJeunes vise à :
 - L'amélioration des informations mises à disposition des jeunes, des parents et des professionnels qui les accompagnent, sur les formations et les débouchés de la voie professionnelle pour :
