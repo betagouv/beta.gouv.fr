@@ -1,7 +1,7 @@
 ---
 fullname: Hélène Dubourdieu
-role: Responsable déploiement
-domaine: Déploiement
+role: PO / Responsable déploiement
+domaine: Produit
 github: HeleneDubourdieu
 missions:
   - start: 2022-01-03
