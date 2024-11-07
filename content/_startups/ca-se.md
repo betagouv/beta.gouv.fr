@@ -15,12 +15,9 @@ sponsors:
   - /organisations/armees
 phases:
   - name: investigation
-    comment: null
     start: 2024-12-02
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-11-07
 ---
 CaSE pour Cartographie et Synthèse Espace
