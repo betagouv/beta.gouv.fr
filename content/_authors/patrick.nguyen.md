@@ -9,6 +9,12 @@ missions:
     employer: Pathtech
     startups:
       - pass-sport
+  - start: 2024-11-14
+    end: 2024-12-31
+    status: independent
+    employer: scopopop
+    startups:
+      - acceslibre
 link: https://www.linkedin.com/in/patrick-tai-nguyen-836b6248/
 competences:
   - Développement Full-stack

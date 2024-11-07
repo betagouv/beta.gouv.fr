@@ -5,10 +5,13 @@ domaine: Développement
 github: procorbin
 missions:
   - start: 2022-06-20
-    end: 2024-12-29
+    end: 2025-12-29
     status: admin
-    employer: SNUM
+    employer: DNUM
+    startups:
+      - mon-suivi-justice
 teams:
   - /teams/justice
+competences: []
 ---
 Développeur FullStack expérimenté très curieux des nouvelles technologies de développement.

@@ -12,9 +12,14 @@ missions:
       - 1000.jours
       - 1000.premiers.jours.blues
       - archifiltre
-      - domifa
       - enfants-du-spectacle
       - tumeplay
+  - start: 2020-11-06
+    end: 2024-11-06
+    status: admin
+    employer: Fabrique numérique des ministères sociaux
+    startups:
+      - domifa
   - start: 2024-05-01
     end: 2026-01-12
     status: admin
