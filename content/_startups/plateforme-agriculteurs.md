@@ -1,14 +1,13 @@
 ---
 mission: 'Accédez aux meilleures aides pour votre entreprise agricole '
 incubator: agriculture
-title: 'Plateforme Simplif Aides Agri '
-contact: aidesagri@gmail.com
+title: 'Plateforme Aides Agri '
+contact: beatrice.neyrac@agriculture.gouv.fr
 accessibility_status: non conforme
 thematiques:
   - Agriculture
 usertypes:
-  - entreprise
-  - etat
+  - agriculteurices
 sponsors:
   - /organisations/agriculture
 phases:
@@ -18,7 +17,7 @@ techno: []
 ---
 ## Contexte
 
-Suite à la crise agricole, 70 engagements ont été pris par le gouvernement pour simplifier et améliorer le quotidien des agriculteurs. Le CSO du 15 mars 2024 a permis de faire ressortir le besoin de faciliter et simplifier les démarches pour les agriculteurs, en leur permettant de disposer d’informations contextuelles sur les démarches administratives. L’atelier de cadrage du 13 mai 2024 a ensuite fait émerger un premier périmètre à adresser : les démarches administratives de demandes d’aides financières. 
+Suite à la crise agricole, 70 engagements ont été pris par le gouvernement pour simplifier et améliorer le quotidien des agriculteurs. Une réunion avec les professionnels du 15 mars 2024 (CSO) a permis de faire ressortir le besoin de faciliter et simplifier les démarches pour les agriculteurs, en leur permettant de disposer d’informations contextuelles sur les démarches administratives. L’atelier de cadrage du 13 mai 2024 a ensuite fait émerger un premier périmètre à adresser : les démarches administratives de demandes d’aides financières. 
 ## Problème
 
 De nombreuses aides publiques existent, mais: 
@@ -31,12 +30,9 @@ Conséquences :
 
 * un **manque de visibilité sur les conseillers adéquats** à solliciter, en fonction du projet. 
 
-“Parmi les agriculteurs installés, ce sont les 20% les plus informés (connectés aux interpro) qui bénéficient des aides.”
-
-
 
 ## Solution
-Un service numérique identifié composé de 2 briques servicielles
+Un service numérique composé de 2 briques servicielles
 
 **Brique servicielle 1 : Plateforme de centralisation des aides disponibles**
 

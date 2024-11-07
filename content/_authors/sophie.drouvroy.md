@@ -13,4 +13,8 @@ missions:
     employer: DINUM
     startups:
       - pass-sport
+  - start: 2024-11-01
+    end: 2025-02-01
+    status: independent
+    employer: Brigade d'intervention numérique
 ---

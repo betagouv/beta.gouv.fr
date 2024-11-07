@@ -7,8 +7,8 @@ competences:
 missions:
   - start: 2024-11-04
     end: 2025-02-04
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - communs-de-la-transition-ecologique-des-collectivites
 ---

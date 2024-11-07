@@ -6,7 +6,6 @@ competences: []
 missions:
   - start: 2024-11-04
     end: 2027-11-03
-    employer: DGALN
     status: admin
-    startups: []
+    employer: DGALN
 ---
