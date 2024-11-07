@@ -9,9 +9,18 @@ missions:
     status: admin
     employer: DGFIP
     startups:
-      - 1000.jours
-      - 1000.premiers.jours.blues
       - faritas
+  - start: 2020-10-07
+    end: 2024-09-30
+    status: admin
+    startups:
+      - 1000.jours
+  - start: 2020-10-07
+    end: 2024-09-30
+    status: admin
+    employer: Ministère des Affaires Sociales
+    startups:
+      - 1000.premiers.jours.blues
 badges:
   - segur
 competences:
