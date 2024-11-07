@@ -21,4 +21,4 @@ missions:
     startups:
       - longuevieauxobjets
 ---
-20 ans d'expérience dans la tech (réseaux/télécom puis data), spécialisation dans la data depuis 2013 (d’abord analytics engineering et maintenant data engineering).
+20 ans d'expérience dans la tech (réseaux/télécom puis data), spécialisation dans la data depuis 2013 (d’abord analytics engineering puis data engineering).

@@ -9,4 +9,5 @@ missions:
     startups:
       - plateforme-agriculteurs
 competences: []
+link: https://www.linkedin.com/in/beatriceneyrac/
 ---
