@@ -1,6 +1,6 @@
 ---
 fullname: Cyrille Corbin
-role: Développeur
+role: Développeur Fullstack
 domaine: Développement
 github: procorbin
 missions:
@@ -12,6 +12,13 @@ missions:
       - mon-suivi-justice
 teams:
   - /teams/justice
-competences: []
+competences:
+  - Développement Backend
+  - Développement Full-stack
+  - Développement Frontend
+  - DevOps
+  - JavaScript/TypeScript
+  - PHP
+  - PostgreSQL
 ---
 Développeur FullStack expérimenté très curieux des nouvelles technologies de développement.
