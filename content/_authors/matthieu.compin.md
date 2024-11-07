@@ -8,5 +8,7 @@ missions:
     end: 2026-01-30
     status: admin
     employer: Armées
+    startups:
+      - ca-se
 link: https://fr.linkedin.com/in/compin
 ---
