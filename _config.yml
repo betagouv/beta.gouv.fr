@@ -34,6 +34,7 @@ include: [
   "_pages",
   "_redirects",
   "_headers",
+  ".well-known"
 ]
 exclude: [
   "content/templates",
