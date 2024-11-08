@@ -9,10 +9,14 @@ missions:
     end: 2020-09-30
     status: independent
     employer: lazone
+    startups:
+      - zam
   - start: 2022-06-01
-    end: 2024-11-30
+    end: 2025-05-31
     status: independent
     employer: Scopyleft
+    startups:
+      - données-et-territoires
 startups:
   - données-et-territoires
 previously:
@@ -20,4 +24,8 @@ previously:
   - visam
 competences:
   - Développement Full-stack
+  - Développement Backend
+  - Python
+  - PostgreSQL
+github: ronnix
 ---
