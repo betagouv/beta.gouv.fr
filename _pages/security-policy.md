@@ -4,7 +4,7 @@ title: Politique de sécurité beta.gouv.fr
 permalink: /security-policy
 ---
 
-[Go to international content](#international-content)
+[Go to international content](/security-policy#international-content)
 
 # Politique de sécurité
 
