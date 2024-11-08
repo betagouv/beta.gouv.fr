@@ -8,6 +8,8 @@ missions:
     end: 2020-05-13
     status: independent
     employer: Codeurs en Liberté
+    startups:
+      - andi
   - start: 2020-05-14
     end: 2020-10-30
     status: independent
@@ -16,22 +18,37 @@ missions:
     end: 2021-04-01
     status: independent
     employer: Scopyleft
+    startups:
+      - urbanvitaliz
   - start: 2021-02-03
     end: 2023-12-01
     status: independent
     employer: LBC
+    startups:
+      - deveco
+      - monstage
   - start: 2021-04-01
     end: 2021-11-01
     status: independent
     employer: UT7
+    startups:
+      - eva
   - start: 2021-11-01
     end: 2022-01-02
     status: independent
     employer: NUMA
   - start: 2024-06-10
-    end: 2024-12-01
+    end: 2025-03-01
     status: independent
     employer: Malt
+    startups:
+      - aidantsconnect
+  - start: 2024-08-16
+    end: 2025-12-31
+    status: independent
+    employer: NUMA
+    startups:
+      - data-subvention
 previously:
   - andi
   - urbanvitaliz
@@ -53,4 +70,6 @@ badges:
   - segur
 competences:
   - Coaching
+  - Product owner
+link: https://www.linkedin.com/in/karelcloarec/
 ---

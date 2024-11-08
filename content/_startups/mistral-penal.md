@@ -16,7 +16,7 @@ events:
     date: 2023-10-10
     comment: Mise en sécurité pour le lancement de l'expérimentation
   - name: committee
-    date: 2024-04-04
+    date: 2024-04-03
     comment: Construction sur un périmètre de juridictions restreint.
   - name: committee
     date: 2024-11-07
@@ -27,7 +27,7 @@ phases:
     end: 2023-03-30
   - name: construction
     comment: Construction du MVP et test utilisateur sur des cas vidéos
-    start: 2023-03-30
+    start: 2024-11-06
 thematiques:
   - Justice
 analyse_risques: true

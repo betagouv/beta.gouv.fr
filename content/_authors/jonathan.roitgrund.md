@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2024-11-07
     end: 2025-02-07
-    employer: ANCT
     status: independent
+    employer: ANCT
     startups:
       - mon.espace.collectivite
 ---

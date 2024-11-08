@@ -8,7 +8,7 @@ contact: plusfraichemaville@ademe.fr
 link: https://plusfraichemaville.fr/
 repository: https://github.com/incubateur-ademe/plusfraichemaville-site
 accessibility_status: non conforme
-dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/plusfraichemaville
+dashlord_url: https://dashlord.incubateur.ademe.fr/url/plusfraichemaville-fr/
 stats: true
 stats_url: https://plusfraichemaville.fr/stats
 budget_url: https://plusfraichemaville.fr/budget
@@ -21,16 +21,20 @@ phases:
   - name: construction
     start: 2022-09-26
     end: 2024-10-17
+  - name: acceleration
+    start: 2024-10-15
 techno:
   - Next.js
   - React
   - TypeScript
-  - Directus
+  - Strapi
 redirect_from:
   - /startups/rafraichir.les.villes
 thematiques:
   - Écologie
-usertypes: []
+usertypes:
+  - collectivite-territoriale
+mon_service_securise: true
 ---
 ## Contexte
 
