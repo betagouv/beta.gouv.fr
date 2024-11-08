@@ -94,6 +94,8 @@ La meme règle s'applique ici. N'allez pas à l'encontre de celles-ci et de la p
 
 Cette page est fortement inspirée de celle [d'Edoverflow](https://hackerone.com/ed?type=team&view_policy=true) contributeur de la [RFC9116](https://www.rfc-editor.org/rfc/rfc9116).
 
+<a id="international-content"></a>
+
 ## Security policy
 
 This is a vulnerability disclosure program for all of projects and code the organism publish.
