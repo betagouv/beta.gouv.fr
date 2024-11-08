@@ -1,0 +1,5 @@
+Contact: mailto:infra@beta.gouv.fr
+Policy: https://vdp.numerique.gouv.fr/p/Policy
+Preferred-Languages: fr, en
+Encryption: https://beta.gouv.fr/.well-known/pubkey.asc
+Expires: 2028-11-08T09:35:00.000Z
