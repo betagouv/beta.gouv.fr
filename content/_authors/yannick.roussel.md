@@ -4,7 +4,7 @@ role: Développeur
 domaine: Développement
 missions:
   - start: 2023-03-01
-    end: 2024-12-30
+    end: 2024-10-25
     status: independent
     employer: Ministère de la justice
     startups:
