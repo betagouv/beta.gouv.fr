@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: graphein13
 missions:
   - start: 2022-06-29
-    end: 2024-12-23
+    end: 2025-05-30
     status: admin
     employer: Ministère de la Justice
     startups:
@@ -13,6 +13,9 @@ missions:
 badges:
   - segur
 link: https://www.linkedin.com/in/maxime-gammaire-73a059270/
-competences: []
+competences:
+  - Intrapreneur(se)
+  - Administration Publique
+  - Droit / Affaires juridiques
 ---
 Directeur des services de greffe judiciaires
