@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/camille-lemaitre-b3b50060/
 github: camille-lemaitre
 missions:
   - start: 2023-07-24
-    end: 2024-12-01
+    end: 2024-10-31
     status: independent
     startups:
       - la-bonne-alternance
