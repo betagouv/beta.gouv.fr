@@ -12,7 +12,7 @@ missions:
     startups:
       - zero-logement-vacant
   - start: 2024-01-08
-    end: 2024-12-05
+    end: 2025-06-02
     status: independent
     employer: Malt
     startups:
@@ -28,4 +28,4 @@ competences:
   - UX
   - UI
 ---
-UX Designer ex Akeneo  Greenly, entre Nantes et Lorient ⚓️
+UX Designer à Nantes 

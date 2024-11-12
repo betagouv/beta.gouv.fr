@@ -1,6 +1,6 @@
 ---
 fullname: Sophie Drouvroy
-role: Experte en Acessibilité numérique pour Pass sport
+role: Experte en Accessibilité numérique
 domaine: Autre
 link: https://www.linkedin.com/in/drouvroy/
 competences:
@@ -8,13 +8,12 @@ competences:
   - Communication
 missions:
   - start: 2024-09-06
-    end: 2024-12-06
+    end: 2025-02-28
     status: service
-    employer: DINUM
-    startups:
-      - pass-sport
-  - start: 2024-11-01
-    end: 2025-02-01
-    status: independent
     employer: Brigade d'intervention numérique
+    startups:
+      - annuaire-entreprises
+      - demarches-simplifiees.fr
+      - grist.numerique.gouv.fr
+      - pass-sport
 ---
