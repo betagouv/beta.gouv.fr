@@ -112,7 +112,7 @@ layout: default
       <section id="{{ incubator_id }}" class="incubator-header fr-mb-6w" style="display: none">
         <div class="fr-grid-row fr-grid-row--gutters blue-background fr-p-3w fr-m-0">
           <div class="fr-col-2 incubator-logo">
-            <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}" />
+            <img src="{{ incubator | incubator_logo }}" alt="Logo de {{ incubator.title }}" />
           </div>
           <div class="fr-col">
             <div>
