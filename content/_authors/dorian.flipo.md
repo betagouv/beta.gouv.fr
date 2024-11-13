@@ -7,8 +7,8 @@ competences: []
 missions:
   - start: 2024-10-15
     end: 2027-10-15
-    employer: DGAL/BPAL
     status: admin
+    employer: DGAL/BPAL
     startups:
       - ma-cantine-egalim
 ---

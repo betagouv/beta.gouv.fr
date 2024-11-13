@@ -10,8 +10,10 @@ missions:
     status: independent
     employer: Inops
     startups:
+      - dematerialisation-et-simplification-du-conventionnement-iae
       - les-emplois
 previously:
   - pilotage.de.linclusion
+competences: []
 ---
 Je gère l'étude et la conception de produit numérique.
