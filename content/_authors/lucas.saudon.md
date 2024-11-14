@@ -12,7 +12,6 @@ missions:
 link: https://www.linkedin.com/in/lsaudon/
 github: lsaudon
 competences:
-  - Développement Frontend
   - Développement Mobile
 memberType: beta
 ---

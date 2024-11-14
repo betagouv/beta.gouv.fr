@@ -21,6 +21,12 @@ missions:
     employer: Malt
     startups:
       - data-subvention
+  - start: 2024-11-12
+    end: 2025-02-14
+    status: independent
+    employer: TelesCoop
+    startups:
+      - open-terms-archive
 startups:
   - zero-logement-vacant
 memberType: beta
