@@ -15,8 +15,15 @@ missions:
     employer: Numa
     startups:
       - maestro
+  - start: 2024-10-10
+    end: 2025-02-13
+    status: independent
+    employer: Numa
+    startups:
+      - adaptation-au-changement-climatique-acc
 startups:
   - versementgetorix
   - maestro
+competences: []
 ---
 Coach, Designer de service
