@@ -27,6 +27,7 @@ usertypes:
   - etat
   - collectivite-territoriale
 techno: []
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#R%C3%A9fugi%C3%A9sinfo
 ---
 ## **Contexte**
 
