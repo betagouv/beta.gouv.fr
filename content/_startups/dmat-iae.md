@@ -10,7 +10,7 @@ thematiques:
 usertypes:
   - etat
   - entreprise
-title: Conventionnement IAE
+title: Dématérialisation et simplification du conventionnement IAE
 mission: Simplifier le conventionnement des structures de l'insertion par l'activité économique
 incubator: gip-inclusion
 sponsors: []
