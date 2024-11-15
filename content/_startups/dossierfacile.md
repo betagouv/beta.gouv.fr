@@ -5,10 +5,8 @@ sponsors:
   - /organisations/dgaln
   - /organisations/dhup
 incubator: mtes
-redirect_from:
-  - /locatio
 link: https://www.dossierfacile.logement.gouv.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv
-repository: https://github.com/mtes-mct/locatio
+repository: https://github.com/MTES-MCT/Dossier-Facile-Frontend
 contact: contact@dossierfacile.logement.gouv.fr
 stats: true
 budget_url: https://beta.gouv.fr/startups/dossierfacile.html
@@ -18,6 +16,9 @@ usertypes:
   - particulier
 stats_url: https://www.dossierfacile.logement.gouv.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/dossierfacile-fr/
+redirect_from:
+  - /startups/locatio
+  - /startups/locatio.html
 events:
   - name: national_impact
     date: 2022-12-31
