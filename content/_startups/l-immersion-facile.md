@@ -4,6 +4,7 @@ mission: Faciliter la réalisation des immersions professionnelles
 sponsors:
   - /organisations/francetravail
   - /organisations/mtei
+  - /organisations/mtfp
 incubator: gip-inclusion
 link: https://immersion-facile.beta.gouv.fr/
 repository: https://github.com/gip-inclusion/immersion-facile
@@ -33,6 +34,8 @@ fast:
 thematiques:
   - Travail / Emploi
   - Formation
+mon_service_securise: true
+techno: []
 ---
 ## Le problème
 

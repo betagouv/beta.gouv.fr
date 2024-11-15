@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2024-11-14
     end: 2025-02-14
-    employer: Scopopop
     status: service
+    employer: Scopopop
     startups:
       - pv.facile
 ---

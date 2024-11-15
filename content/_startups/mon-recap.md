@@ -4,6 +4,7 @@ mission: Faciliter l'organisation des démarches des personnes en parcours d'ins
 sponsors:
   - /organisations/francetravail
   - /organisations/mtei
+  - /organisations/mtfp
 incubator: gip-inclusion
 contact: annaelle.garcia@beta.gouv.fr
 accessibility_status: non conforme
@@ -21,6 +22,7 @@ thematiques:
 link: https://mon-recap.inclusion.beta.gouv.fr
 usertypes: []
 techno: []
+budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?usp=sharing
 ---
 ## Contexte
 
