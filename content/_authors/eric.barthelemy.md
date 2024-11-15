@@ -7,13 +7,15 @@ missions:
     end: 2024-12-31
     status: admin
     employer: pole-emploi
+  - start: 2024-09-01
+    end: 2027-08-30
+    status: admin
+    employer: pole-emploi
     startups:
-      - les-emplois
+      - GIP Plateforme de l'inclusion
 previously:
   - la-bonne-boite
   - memo
   - la-bonne-alternance
-teams:
-  - /teams/gip-inclusion
 ---
 Un leitmotiv: Mon action permet-elle à un demandeur d’emploi de retrouver un travail ?
