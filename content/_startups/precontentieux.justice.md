@@ -1,8 +1,8 @@
 ---
-mission: Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer la qualité de service rendu aux justiciables
+mission: Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer la qualité du service rendu aux usagers
 incubator: justice
-title: Mon indemnisation justice (ex Précontentieux)
-contact: contact-precontentieux@beta.gouv.fr
+title: Mon Indemnisation Justice (ex Précontentieux)
+contact: precontentieux+contact@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: construction
@@ -11,7 +11,7 @@ sponsors:
   - /organisations/mj
 thematiques:
   - Justice
-link: https://beta.gouv.fr/startups/precontentieux.justice.html
+link: https://mon-indemnisation.anje-justice.fr
 repository: https://git.anje-justice.fr/se/precontentieux/modules/webapp
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#PRECONTENTIEUX
 usertypes: []
@@ -21,18 +21,19 @@ techno:
 ---
 ## Contexte
 
-Le pôle précontentieux de la Direction des services judiciaires (DSJ) traite les demandes amiables d’indemnisation des usagers ou tiers qui ont subi des préjudices résultant du fonctionnement défectueux ou non du service public de la justice judiciaire.
+Le bureau du précontentieux de la Direction des services judiciaires (DSJ) traite les demandes amiables d’indemnisation des usagers ou tiers qui ont subi des préjudices résultant du fonctionnement défectueux ou non du service public de la justice judiciaire.
 
 ## Problème
 
-Actuellement, les délais de traitement des demandes d’indemnisation sont longs car la coexistence de dossiers dématérialisés et papiers ralentit le traitement des requêtes.
-L’objectif de notre projet est de créer un portail en ligne afin d’avoir une entrée unique des demandes et une procédure d’indemnisation moins chronophage pour réduire les délais de traitement.
+Actuellement, les délais de traitement des demandes d’indemnisation sont longs car la coexistence de dossiers dématérialisés et papiers rend le traitement des requêtes chronophage.
+Le manque d'informations des requérants sur les conditions d'indemnisation et les documents à transmettre à l'appui de leurs requêtes, ralentit l'instruction des dossiers.
+Le bureau du précontentieux est continuellement relancé par les requérants en quête d'informations sur l'état d'avancement du traitement de leurs demandes d'indemnisation.
 
 ## Solution
 
-Après la phase d’investigation qui a permis de questionner les justiciables et tous les acteurs du processus d’indemnisation afin d’identifier les problèmes à solutionner, la phase de construction permettra de mettre en place une solution numérique et de l’expérimenter sur un périmètre déterminé
+L’objectif de notre produit est de réduire ces délais de traitement en créant une entrée unique dématérialisée des demandes, en permettant aux requérants de tester leur éligibilité et suivre l'état d'avancement du traitement de leurs demandes. Cette solution numérique a également pour but de rendre le traitement des demandes d’indemnisation moins chronophage pour l'équipe du bureau du précontentieux, en facilitant l'instruction des requêtes et les échanges avec les requérants.
+
 
 ## Stratégie
 
-Nous allons créer un portail en ligne et le tester pour une seule catégorie de dossiers notamment les bris de portes qui représentent plus de la moitié des demandes d’indemnisation reçues par le pôle.
-Pour cette expérimentation, nous allons, en collaboration avec la police et la gendarmerie, déterminer une zone géographique pour laquelle les demandes d’indemnisation devront nous être adressées via le portail en ligne.
+Notre produit, actuellement en phase de construction, sera expérimenté dans 8 départements pilotes pour des demandes d'indemnisation concernant des bris de portes dans le cadre d'une opération de police judiciaire. Cette phase d'expérimentation permettra une amélioration continue du produit grâce aux retours des utilisateurs.

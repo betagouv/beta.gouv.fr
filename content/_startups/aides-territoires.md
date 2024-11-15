@@ -25,6 +25,8 @@ phases:
 stats_url: https://aides-territoires.beta.gouv.fr/stats/
 thematiques:
   - Territoires
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+techno: []
 ---
 ## Le problème
 

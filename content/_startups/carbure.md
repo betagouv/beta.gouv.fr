@@ -18,6 +18,8 @@ usertypes:
   - etat
 thematiques:
   - Écologie
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+techno: []
 ---
 Les biocarburants, utilisés comme substituts aux carburants fossiles, permettent de réduire de plus de 4% les émissions de gaz à effet de serre du transport en France. 
 

@@ -14,6 +14,8 @@ phases:
     start: 2023-02-13
   - name: construction
     start: 2023-09-04
+  - name: acceleration
+    start: 2024-10-01
 thematiques:
   - Social
 link: https://mon-recap.inclusion.beta.gouv.fr
@@ -49,8 +51,4 @@ Mettre à disposition des personnes en difficulté d’insertion socio-professio
 **Si vous accompagnez des personnes susceptibles d'utiliser des carnets, [découvrez notre site](https://mon-recap.inclusion.beta.gouv.fr/) ou [commandez gratuitement des carnets](https://tally.so/r/mRMDWl?reseau=0&source=sitegipbeta)**
 
 
-L’expérimentation sera considérée réussie si :
 
-* 70% des usagers de l'expérimentation recommanderaient le service à leurs pairs
-* 60% des usagers de l'expérimentation nous disent qu’une action à été facilitée par le service, en lien avec un besoin d’aide exprimé
-* 80% des acteurs de l'insertion nous disent que le temps nécessaire pour remplir l’outil ne dépasse pas celui habituellement utilisé par l’intervenant (sms, post’it, mail, information transmise sur papier…)

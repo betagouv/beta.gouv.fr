@@ -6,8 +6,8 @@ competences: []
 missions:
   - start: 2024-11-18
     end: 2025-05-18
-    employer: Omnicité
     status: independent
+    employer: Omnicité
     startups:
       - données-et-territoires
 ---

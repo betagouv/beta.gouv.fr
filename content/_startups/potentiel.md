@@ -25,7 +25,7 @@ phases:
 accessibility_status: non conforme
 thematiques:
   - Écologie
-budget_url: https://beta.gouv.fr/startups/potentiel.html#le-budget
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 techno:
   - typescript
   - next.js

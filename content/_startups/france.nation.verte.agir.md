@@ -18,6 +18,7 @@ thematiques:
 usertypes: []
 techno: []
 dashlord_url: https://dashlord.incubateur.net/url/agir-beta-gouv-fr/best-practices/
+stats_url: https://jagis.beta.gouv.fr/statistiques
 ---
 ## Contexte
 

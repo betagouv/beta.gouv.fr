@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Ippon/LLL
   - start: 2023-02-06
-    end: 2024-11-30
+    end: 2025-02-28
     status: independent
     employer: Malt
 startups:

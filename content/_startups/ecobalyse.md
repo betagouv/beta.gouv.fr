@@ -35,6 +35,7 @@ thematiques:
   - Écologie
 stats_url: https://ecobalyse.beta.gouv.fr/#/stats
 accessibility_status: non conforme
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 ---
 ***Quels sont les impacts sur la planète des biens et services produits par les entreprises&nbsp;?***
 
