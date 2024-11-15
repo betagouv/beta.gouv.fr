@@ -14,7 +14,6 @@ missions:
       - pilotage.de.linclusion
       - place-de-marche-inclusion
       - rdv.insertion
-      - mon-recap
 badges:
   - segur
 competences: []
