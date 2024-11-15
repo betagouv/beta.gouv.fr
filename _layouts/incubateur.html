@@ -20,7 +20,7 @@ layout: default
 {%- assign teams = site.teams -%}
 {%- assign current_authors = site.authors | community: 'current', 'alpha' -%}
 {%- assign team_authors = current_authors | where_exp: "item", "item.teams.size != 0" | uniq | sort: 'fullname'-%}
-{% assign incubator = site.incubators | where:'id', page.id | first %}
+{% assign incubator = site.incubators | find: "id", page.id %}
 
 
 <div id="incubator-view">
