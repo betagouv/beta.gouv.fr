@@ -17,7 +17,7 @@ usertypes:
 stats_url: https://www.dossierfacile.logement.gouv.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/dossierfacile-fr/
 redirect_from:
-  - /locatio
+  - /startups/locatio
   - /startups/locatio.html
 events:
   - name: national_impact
