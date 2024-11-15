@@ -1,5 +1,5 @@
 ---
-fullname: Isabelle Goût
+fullname: Isabelle Gout
 role: Responsable administrative et financière
 domaine: Autre
 teams:
