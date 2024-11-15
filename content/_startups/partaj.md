@@ -17,6 +17,8 @@ stats: false
 contact: contact@partaj.beta.gouv.fr
 usertypes:
   - etat
+thematiques: []
+techno: []
 ---
 ## Le contexte
 

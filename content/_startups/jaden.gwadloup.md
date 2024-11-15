@@ -20,6 +20,9 @@ phases:
     end: 2022-10-06
   - name: alumni
     start: 2022-10-06
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+thematiques: []
+techno: []
 ---
 ## Contexte 
 

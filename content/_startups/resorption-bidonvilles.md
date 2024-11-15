@@ -25,6 +25,7 @@ usertypes:
   - etat
 thematiques: []
 techno: []
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 ---
 ## **Le constat**
 

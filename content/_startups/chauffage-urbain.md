@@ -34,6 +34,7 @@ events:
     date: 2024-01-01
     comment: Montant de 121000€ pour la promotion 14
 techno: []
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 ---
 ## Le problème
 

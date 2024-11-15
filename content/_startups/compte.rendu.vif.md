@@ -12,6 +12,9 @@ phases:
 repository: https://github.com/betagouv/compte-rendu-vif/
 thematiques:
   - Patrimoine
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+usertypes: []
+techno: []
 ---
 ## Contexte
 

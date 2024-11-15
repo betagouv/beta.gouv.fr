@@ -32,6 +32,7 @@ thematiques:
   - Écologie
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/envergo-beta-gouv-fr/
 techno: []
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 ---
 ![](/img/netlifycms/envergo.jpg)
 

@@ -6,7 +6,6 @@ competences: []
 missions:
   - start: 2024-10-10
     end: 2026-10-14
-    employer: ''
     status: admin
     startups:
       - adaptation-au-changement-climatique-acc

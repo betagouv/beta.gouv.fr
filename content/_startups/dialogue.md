@@ -21,6 +21,7 @@ thematiques:
 stats_url: https://dialog.beta.gouv.fr/stats
 usertypes: []
 techno: []
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 ---
 ## Le problème
 
