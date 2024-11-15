@@ -9,6 +9,5 @@ missions:
     startups:
       - dmat-iae
       - pilotage.de.linclusion
-      - dmat-iae
 competences: []
 ---
