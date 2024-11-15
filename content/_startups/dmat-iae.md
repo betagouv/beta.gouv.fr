@@ -23,6 +23,10 @@ events:
   - name: product_launch
     comment: ''
     date: 2024-11-12
+redirect_from:
+ - /startups/dematerialisation-et-simplification-du-conventionnement-iae
+ - /startups/dematerialisation-et-simplification-du-conventionnement-iae.html
+
 ---
 ## Contexte
 
