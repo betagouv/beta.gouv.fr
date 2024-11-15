@@ -13,20 +13,15 @@ usertypes:
 title: Dématérialisation et simplification du conventionnement IAE
 mission: Simplifier le conventionnement des structures de l'insertion par l'activité économique
 incubator: gip-inclusion
-sponsors: []
 phases:
   - name: construction
-    comment: null
     start: 2024-09-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-11-12
 redirect_from:
- - /startups/dematerialisation-et-simplification-du-conventionnement-iae
- - /startups/dematerialisation-et-simplification-du-conventionnement-iae.html
-
+  - /startups/dematerialisation-et-simplification-du-conventionnement-iae
+  - /startups/dematerialisation-et-simplification-du-conventionnement-iae.html
 ---
 ## Contexte
 

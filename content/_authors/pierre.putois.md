@@ -10,6 +10,7 @@ missions:
       - data-inclusion
       - les-emplois
       - l-immersion-facile
+      - mon-recap
       - pilotage.de.linclusion
       - place-de-marche-inclusion
       - rdv.insertion
