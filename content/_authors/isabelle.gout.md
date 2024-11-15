@@ -1,6 +1,6 @@
 ---
 fullname: Isabelle Gout
-role: Responsable administrative et financière 
+role: Responsable administrative et financière
 domaine: Autre
 teams:
   - /teams/gip-inclusion
