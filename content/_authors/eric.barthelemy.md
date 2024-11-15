@@ -7,11 +7,12 @@ missions:
     end: 2024-12-31
     status: admin
     employer: pole-emploi
+    startups:
+        - les-emplois
   - start: 2024-09-01
     end: 2027-08-30
     status: admin
     employer: pole-emploi
-    startups:
 previously:
   - la-bonne-boite
   - memo
