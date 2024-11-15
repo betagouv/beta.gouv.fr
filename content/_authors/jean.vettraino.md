@@ -10,7 +10,7 @@ missions:
     employer: GIP Plateforme de l'Inclusion
 teams:
   - /teams/gip-inclusion
-    startups:
-      - les-emplois
-      - l-immersion-facile
+startups:
+  - les-emplois
+  - l-immersion-facile
 ---
