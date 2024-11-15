@@ -1,13 +1,14 @@
 ---
 title: Plateforme de l'inclusion
-short_description: Cet incubateur vise à <span class="fr-text--bold">faciliter la vie des personnes en insertion</span> et de celles et ceux qui les accompagnent.
+short_description: Cet opérateur de services numériques vise à <span class="fr-text--bold">faciliter la vie des personnes en insertion</span> et de celles et ceux qui les accompagnent.
 logo: logo_gip_inclusion.svg
 website: https://inclusion.beta.gouv.fr/
 highlighted_startups:
-  - les-emplois
   - dora
+  - les-emplois
   - l-immersion-facile
-contact: contact@gip-inclusion.org
+  - rdv.insertion
+contact: partenariat-inclusion@beta.gouv.fr
 github: https://github.com/gip-inclusion
 owner: ''
 address: ''

@@ -72,6 +72,11 @@ accessibility_status: partiellement conforme
 thematiques:
   - Travail / Emploi
   - Social
+analyse_risques: true
+mon_service_securise: true
+budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?tab=t.0
+stats_url: https://inclusion.beta.gouv.fr/presentation/impact-de-la-plateforme-de-linclusion/
+techno: []
 ---
 ## Une question ou un besoin d'aide dans l'utilisation du service ?
 Voici un lien direct vers l'assistance : [aide.emplois.inclusion.beta.gouv.fr](https://aide.emplois.inclusion.beta.gouv.fr/)

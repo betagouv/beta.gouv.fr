@@ -5,7 +5,7 @@ sponsors:
   - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
-repository: https://github.com/betagouv/itou-marche
+repository: https://github.com/gip-inclusion/le-marche
 contact: lemarche@inclusion.beta.gouv.fr
 stats_url: https://lemarche.inclusion.beta.gouv.fr/stats/
 link: https://lemarche.inclusion.beta.gouv.fr
@@ -31,6 +31,8 @@ events:
   - name: fast
     date: 2024-01-01
     comment: Montant de 125000€ pour la promotion 14
+budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?usp=sharing
+techno: []
 ---
 ## Le contexte
 
