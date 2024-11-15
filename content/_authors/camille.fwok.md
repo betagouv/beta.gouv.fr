@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Camillefwok
 missions:
   - start: 2020-10-07
-    end: 2024-12-07
+    end: 2025-01-30
     status: independent
     employer: malt
     startups:
@@ -14,4 +14,5 @@ previously:
   - aidantsconnect
 badges:
   - segur
+competences: []
 ---

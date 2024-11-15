@@ -30,6 +30,7 @@ thematiques:
   - Open-Data
 analyse_risques: true
 techno: []
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 ---
 ## Le problème : Le manque d’information sur l’accessibilité des lieux
 

@@ -11,15 +11,11 @@ techno: []
 title: Trait de côte
 mission: Faciliter l'adaptation des territoires littoraux face au recul du trait de côte
 incubator: mtes
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2024-06-26
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-11-13
 ---
 ## Contexte

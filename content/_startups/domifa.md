@@ -30,6 +30,8 @@ accessibility_status: partiellement conforme
 analyse_risques: true
 thematiques:
   - Social
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+techno: []
 ---
 ## Qu’est-ce que la domiciliation ? 
 
