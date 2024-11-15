@@ -11,7 +11,7 @@ link: https://www.dossierfacile.logement.gouv.fr/?utm_source=betagouv&utm_medium
 repository: https://github.com/mtes-mct/locatio
 contact: contact@dossierfacile.logement.gouv.fr
 stats: true
-budget_url: https://beta.gouv.fr/startups/dossierfacile.html
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 analyse_risques: true
 accessibility_status: partiellement conforme
 usertypes:

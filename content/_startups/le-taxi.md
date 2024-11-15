@@ -24,6 +24,8 @@ dashlord_url: https://mtes-mct.github.io/dashlord/url/le-taxi/
 accessibility_status: non conforme
 thematiques:
   - Transports
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+techno: []
 ---
 le.taxi, c'est plus de 60 000 chauffeurs en France, métropolitaine et Outre-Mer, partout sur le territoire, de la plus petite commune à la plus grande métropole que l'on peut solliciter pour une course immédiate à l'aide de son smartphone.
 

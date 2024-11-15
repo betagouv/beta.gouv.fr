@@ -50,6 +50,7 @@ techno:
   - django
   - python
 analyse_risques: false
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 ---
 ---
 

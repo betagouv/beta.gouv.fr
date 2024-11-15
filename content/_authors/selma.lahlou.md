@@ -1,14 +1,14 @@
 ---
-fullname: Camille Coquelet
-role: Product owner
+fullname: Selma Lahlou
+role: Product Owner
 domaine: Produit
 competences:
   - Product strategy
 missions:
   - start: 2024-11-18
-    end: 2025-02-18
+    end: 2025-12-31
+    employer: Malt
     status: independent
-    employer: PathTech
     startups:
-      - ecobalyse
+      - snu
 ---

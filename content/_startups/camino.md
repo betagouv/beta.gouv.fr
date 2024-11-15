@@ -26,6 +26,7 @@ phases:
     start: 2023-06-15
 thematiques: []
 techno: []
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 ---
 ## Le problème
 
