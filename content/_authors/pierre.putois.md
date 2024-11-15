@@ -19,4 +19,6 @@ teams:
 badges:
   - segur
 competences: []
+teams:
+  - /teams/gip-inclusion
 ---

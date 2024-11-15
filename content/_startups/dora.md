@@ -13,6 +13,7 @@ title: DORA
 sponsors:
   - /organisations/francetravail
   - /organisations/mtei
+  - /organisations/mtfp
 link: https://dora.inclusion.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/tag/dora/
@@ -29,6 +30,8 @@ thematiques:
   - Travail / Emploi
   - Open-Data
 techno: []
+mon_service_securise: true
+budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?tab=t.0
 ---
 ## Le problème
 

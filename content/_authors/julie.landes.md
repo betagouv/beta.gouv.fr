@@ -9,8 +9,8 @@ missions:
   - start: 2021-11-30
     end: 2024-12-31
     status: independent
-startups:
-  - la.communaute.de.linclusion
+    startups:
+      - la.communaute.de.linclusion
 competences:
   - Communication
 ---

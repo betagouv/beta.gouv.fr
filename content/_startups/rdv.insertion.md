@@ -5,7 +5,7 @@ sponsors:
   - /organisations/mtei
 incubator: gip-inclusion
 link: https://www.rdv-insertion.fr/
-repository: https://github.com/betagouv/rdv-insertion
+repository: https://github.com/gip-inclusion/rdv-insertion
 contact: rdv-insertion@beta.gouv.fr
 usertypes:
   - collectivite-territoriale
@@ -25,6 +25,9 @@ thematiques:
   - Travail / Emploi
   - Social
 accessibility_status: non conforme
+mon_service_securise: true
+budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?usp=sharing
+techno: []
 ---
 ## Le problème
 

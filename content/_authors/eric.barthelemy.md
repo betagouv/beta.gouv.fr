@@ -12,10 +12,12 @@ missions:
     status: admin
     employer: pole-emploi
     startups:
-      - GIP Plateforme de l'inclusion
 previously:
   - la-bonne-boite
   - memo
   - la-bonne-alternance
+teams:
+  - /teams/gip-inclusion
+competences: []
 ---
 Un leitmotiv: Mon action permet-elle à un demandeur d’emploi de retrouver un travail ?

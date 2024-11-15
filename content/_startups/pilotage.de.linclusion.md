@@ -4,10 +4,11 @@ mission: Valoriser et diffuser la donnée pour favoriser les dispositifs d'inclu
 sponsors:
   - /organisations/francetravail
   - /organisations/mtei
+  - /organisations/mtfp
 incubator: gip-inclusion
 stats: true
 link: https://pilotage.inclusion.beta.gouv.fr/
-repository: http://github.com/betagouv/itou
+repository: https://github.com/gip-inclusion/pilotage
 contact: contact@inclusion.beta.gouv.fr
 phases:
   - name: construction
@@ -22,6 +23,11 @@ accessibility_status: partiellement conforme
 thematiques:
   - Travail / Emploi
   - Open-Data
+analyse_risques: true
+mon_service_securise: true
+budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?usp=sharing
+stats_url: https://pilotage.inclusion.beta.gouv.fr/stats/
+techno: []
 ---
 ## Contexte
 

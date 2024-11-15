@@ -7,6 +7,7 @@ missions:
     end: 2025-12-31
     status: admin
     startups:
+      - dmat-iae
       - pilotage.de.linclusion
       - dmat-iae
 competences: []

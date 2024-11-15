@@ -8,7 +8,7 @@ incubator: gip-inclusion
 stats: true
 stats_url: https://communaute.inclusion.beta.gouv.fr/statistiques
 link: https://communaute.inclusion.beta.gouv.fr/
-repository: http://github.com/betagouv/itou
+repository: https://github.com/gip-inclusion/les-emplois
 contact: contact@inclusion.beta.gouv.fr
 events:
   - name: committee
@@ -27,6 +27,8 @@ thematiques:
   - Travail / Emploi
   - Social
 accessibility_status: non conforme
+budget_url: https://metabase.data.inclusion.gouv.fr/public/dashboard/a53c0d36-3467-41d9-876e-973311604ae2
+techno: []
 ---
 ## Le problème
 
