@@ -38,7 +38,9 @@ fast:
 thematiques:
   - Logement
   - Administratif
-techno: []
+techno:
+  - vue
+  - java
 ---
 ## DossierFacile.fr devient DossierFacile.logement.gouv.fr !
 

@@ -10,7 +10,7 @@ thematiques:
 usertypes:
   - etat
   - entreprise
-title: Dématérialisation et simplification du conventionnement IAE
+title: dmat-iae
 mission: Simplifier le conventionnement des structures de l'insertion par l'activité économique
 incubator: gip-inclusion
 phases:
