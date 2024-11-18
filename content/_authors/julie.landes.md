@@ -1,7 +1,7 @@
 ---
 fullname: Julie Landès
 domaine: Déploiement
-role: Coach produit 
+role: Coach produit
 missions:
   - start: 2020-03-23
     end: 2021-11-30

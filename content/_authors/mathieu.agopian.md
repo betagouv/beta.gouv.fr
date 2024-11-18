@@ -18,7 +18,7 @@ missions:
     status: independent
     employer: LittleBigConnection
   - start: 2024-06-15
-    end: 2024-12-15
+    end: 2025-02-15
     status: independent
     employer: Malt
     startups:
