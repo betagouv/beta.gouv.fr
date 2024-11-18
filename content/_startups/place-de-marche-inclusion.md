@@ -32,7 +32,9 @@ events:
     date: 2024-01-01
     comment: Montant de 125000€ pour la promotion 14
 budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?usp=sharing
-techno: []
+techno:
+  - django
+mon_service_securise: true
 ---
 ## Le contexte
 

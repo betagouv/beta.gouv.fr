@@ -16,8 +16,5 @@ missions:
     employer: octo
     startups:
       - france-numerique-ensemble
-startups:
-  - france-numerique-ensemble
-  - pass-culture
 ---
 Développeur fullstack

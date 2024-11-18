@@ -9,7 +9,7 @@ incubator: gip-inclusion
 link: https://immersion-facile.beta.gouv.fr/
 repository: https://github.com/gip-inclusion/immersion-facile
 contact: contact@immersion-facile.beta.gouv.fr
-analyse_risques: true
+analyse_risques: false
 accessibility_status: partiellement conforme
 stats: true
 stats_url: https://immersion-facile.beta.gouv.fr/stats
@@ -36,6 +36,7 @@ thematiques:
   - Formation
 mon_service_securise: true
 techno: []
+dashlord_url: https://dashlord.incubateur.net/url/immersion-facile-beta-gouv-fr/
 ---
 ## Le problème
 

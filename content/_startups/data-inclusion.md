@@ -9,12 +9,14 @@ link: https://api.data.inclusion.gouv.fr/api/v0/docs#/
 repository: https://github.com/gip-inclusion/data-inclusion
 contact: data-inclusion@inclusion.gouv.fr
 stats: true
-stats_url: https://metabase.data.inclusion.gouv.fr/public/dashboard/a53c0d36-3467-41d9-876e-973311604ae2
+stats_url: https://metabase.data.inclusion.gouv.fr/public/dashboard/77beb1ed-42c3-4f2a-bdee-5e8378699485
 phases:
   - name: investigation
     start: 2022-03-17
   - name: construction
     start: 2022-06-30
+  - name: acceleration
+    start: 2024-11-18
 usertypes:
   - collectivite-territoriale
   - entreprise
@@ -24,11 +26,14 @@ accessibility_status: partiellement conforme
 thematiques:
   - Territoires
   - Open-Data
+  - Inclusion
 techno:
   - python
   - airflow
   - dbt
 budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?tab=t.0
+mon_service_securise: true
+dashlord_url: https://dashlord.incubateur.net/url/api-data-inclusion-beta-gouv-fr/
 ---
 ## Le problème
 
