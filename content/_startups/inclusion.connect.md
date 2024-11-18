@@ -17,6 +17,10 @@ phases:
     start: 2022-07-01
 thematiques:
   - Inclusion numérique
+mon_service_securise: true
+dashlord_url: https://dashlord.incubateur.net/url/connect-inclusion-beta-gouv-fr/
+usertypes: []
+techno: []
 ---
 ## Le problème
 

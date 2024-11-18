@@ -7,6 +7,8 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2024-03-15
+  - name: construction
+    start: 2024-11-18
 thematiques:
   - Administratif
   - Outil technique

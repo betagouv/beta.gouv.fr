@@ -12,4 +12,5 @@ missions:
 previously:
   - la.bonne.renov
 memberType: beta
+competences: []
 ---
