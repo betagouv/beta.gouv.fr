@@ -29,6 +29,7 @@ thematiques:
 accessibility_status: non conforme
 budget_url: https://metabase.data.inclusion.gouv.fr/public/dashboard/a53c0d36-3467-41d9-876e-973311604ae2
 techno: []
+dashlord_url: https://dashlord.incubateur.net/url/forum-inclusion-beta-gouv-fr/
 ---
 ## Le problème
 

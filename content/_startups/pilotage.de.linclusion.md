@@ -28,6 +28,7 @@ mon_service_securise: true
 budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?usp=sharing
 stats_url: https://pilotage.inclusion.beta.gouv.fr/stats/
 techno: []
+dashlord_url: https://dashlord.incubateur.net/url/pilotage-inclusion-beta-gouv-fr/
 ---
 ## Contexte
 
