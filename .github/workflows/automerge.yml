@@ -21,3 +21,5 @@ jobs:
           MERGE_FORKS: "false"
           MERGE_LABELS: ""
           MERGE_FILTER_AUTHOR: "secretariat-bot"
+          MERGE_RETRY_SLEEP: 60000 # 1min
+          MERGE_RETRIES: 10
