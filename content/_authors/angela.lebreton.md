@@ -10,9 +10,9 @@ missions:
     startups:
       - jeveuxaider
   - start: 2024-02-26
-    end: 2024-12-02
+    end: 2025-03-31
     status: independent
-    employer: Scopyleft
+    employer: Omnicité
     startups:
       - mon.espace.collectivite
 previously:
