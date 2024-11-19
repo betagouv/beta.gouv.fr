@@ -3,7 +3,7 @@ title: Mes Ressources Formation Ex Estime Formation
 mission: Favoriser l'entrée en formation en anticipant l’impact d’une rémunération de formation sur les aides et allocations
 sponsors:
   - /organisations/francetravail
-link: https://candidat.francetravail.fr/portail-simulateurs/allocations-et-aides/parcours/votre-situation?formationForce=true
+link: https://candidat.francetravail.fr/portail-simulateurs/accueil-formation
 incubator: francetravail
 contact: dctsiestimeformation.00885@pole-emploi.fr
 accessibility_status: partiellement conforme
@@ -50,8 +50,9 @@ events:
     date: 2024-07-22
     comment: Ouvertures parcours avec estimation du montant de rémunération uniquement pour les bénéficiaires de l'ACEJ
 ---
-> ⚠️ Pour accéder à Mes Ressources Formation Ex Estime Formation depuis le guide des simulateurs [https://candidat.francetravail.fr/portail-simulateurs/ ]()sur France Travail, sélectionner la coche "Je veux suivre une formation" sous l'item "Votre situation professionnelle".
-Pour y accéder directement, suivre ce lien [https://candidat.francetravail.fr/portail-simulateurs/accueil-formation]()
+> ⚠️ Pour accéder à Mes Ressources Formation Ex Estime Formation, suivre ce lien [https://candidat.francetravail.fr/portail-simulateurs/accueil-formation]()
+
+Il est également disponible dans le guide des simulateurs sur le site France Travail [https://candidat.francetravail.fr/portail-simulateurs/ ]()
 
 **Contexte**
 

@@ -11,7 +11,7 @@ missions:
     startups:
       - nosgestesclimat
   - start: 2024-07-19
-    end: 2024-12-19
+    end: 2025-03-01
     status: independent
     employer: Malt
     startups:

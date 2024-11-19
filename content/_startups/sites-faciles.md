@@ -18,6 +18,7 @@ sponsors:
 phases:
   - name: construction
     start: 2024-01-01
+techno: []
 ---
 ## **Contexte**
 

@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: Atelier Numérique (Ministère de la Culture )
     startups:
-      - compte.rendu.vif
+      - manifnationales
       - versementgetorix
 teams:
   - /teams/culture

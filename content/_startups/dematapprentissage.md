@@ -19,6 +19,9 @@ phases:
 usertypes:
   - etat
   - collectivite-territoriale
+accessibility_status: partiellement conforme
+thematiques: []
+techno: []
 ---
 ## Constat
 

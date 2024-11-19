@@ -23,6 +23,7 @@ usertypes:
 thematiques:
   - Open-Data
   - Entreprises
+techno: []
 ---
 ## Le problème
 
