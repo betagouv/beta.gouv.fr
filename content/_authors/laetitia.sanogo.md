@@ -10,6 +10,7 @@ missions:
     employer: DINUM
     startups:
       - moncomptepro
+      - proconnect
 memberType: autre
 competences: []
 ---

@@ -12,6 +12,8 @@ missions:
     end: 2024-12-31
     status: independent
     employer: DINUM
+    startups:
+      - proconnect
 startups:
   - moncomptepro
 previously:
@@ -20,5 +22,6 @@ previously:
   - workinfrance
   - domifa
   - tremplin
+competences: []
 ---
 Living JS build tool.

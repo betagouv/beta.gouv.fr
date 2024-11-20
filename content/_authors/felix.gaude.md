@@ -10,5 +10,7 @@ missions:
     employer: Malt
     startups:
       - moncomptepro
+      - proconnect
 memberType: beta
+competences: []
 ---

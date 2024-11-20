@@ -10,8 +10,8 @@ missions:
     employer: Malt
     startups:
       - annuaire-entreprises
-      - authentification
       - moncomptepro
+      - proconnect
       - suite-numerique
 badges:
   - segur

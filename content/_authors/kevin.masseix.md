@@ -11,6 +11,7 @@ missions:
     startups:
       - annuaire-entreprises
       - moncomptepro
+      - proconnect
 memberType: autre
 competences:
   - Docker

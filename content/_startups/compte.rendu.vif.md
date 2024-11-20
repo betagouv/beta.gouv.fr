@@ -18,6 +18,7 @@ usertypes: []
 techno: []
 link: https://compte-rendu-vif.beta.gouv.fr/
 ---
+
 ## Contexte
 
 Le projet est né d’un double constat : du coté usager, la  compréhension des paroles échangées lors d’un rendez-vous n’est pas toujours juste du fait du vocabulaire technique employé et ainsi laisse à interprétation. Du coté des agents, le besoin de traçabilité des choix fait à propos de projets est important pour avoir un discours consistant et un suivis assuré.
