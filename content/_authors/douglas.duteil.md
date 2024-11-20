@@ -14,6 +14,7 @@ missions:
     employer: DINUM
 startups:
   - moncomptepro
+  - proconnect
 previously:
   - e-mjpm
   - codedutravail

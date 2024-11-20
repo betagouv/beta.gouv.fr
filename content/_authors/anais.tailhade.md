@@ -10,12 +10,13 @@ missions:
     employer: Malt
     startups:
       - annuaire-entreprises
-      - authentification
+      - proconnect
       - moncomptepro
       - suite-numerique
 badges:
   - segur
 previously:
+  - authentification
   - data.gouv.fr
   - oots.once-only.technical.system
   - datapass

@@ -25,6 +25,7 @@ missions:
     status: independent
     employer: malt
 startups:
+  - proconnect
   - moncomptepro
   - annuaire-entreprises
 previously:

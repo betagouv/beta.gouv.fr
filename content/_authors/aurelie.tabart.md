@@ -9,5 +9,6 @@ missions:
     employer: DINUM
     startups:
       - moncomptepro
+      - proconnect
 memberType: dinum
 ---
