@@ -26,6 +26,7 @@ thematiques:
 techno:
   - JavaScript
   - TypeScript
+  - React
   - PostgreSQL
   - Docker
   - CSS

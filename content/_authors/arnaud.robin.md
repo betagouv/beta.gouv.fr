@@ -1,6 +1,6 @@
 ---
 fullname: Arnaud Robin
-role: Chargé d'accélération
+role: Directeur produit de La Suite numérique
 domaine: Coaching
 github: arnaud-robin
 missions:
@@ -9,6 +9,7 @@ missions:
     status: admin
     employer: DINUM
     startups:
+      - proconnect
       - suite-numerique
 memberType: beta
 teams:
@@ -20,4 +21,3 @@ competences:
   - Machine learning
   - Product strategy
 ---
-Chargé d'accélération FAST
