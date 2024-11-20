@@ -23,8 +23,14 @@ usertypes:
 thematiques:
   - Jeunesse
   - Formation
-techno: []
+techno:
+  - JavaScript
+  - TypeScript
+  - PostgreSQL
+  - Docker
+  - CSS
 repository: https://github.com/mission-apprentissage/c-est-qui-le-pro/
+link: https://cestquilepro.inserjeunes.beta.gouv.fr/
 ---
 ## Le problème
 

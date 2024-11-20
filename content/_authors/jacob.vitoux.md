@@ -11,9 +11,8 @@ competences:
 missions:
   - start: 2024-11-19
     end: 2025-03-30
-    employer: Dynergie
     status: independent
-    startups: []
+    employer: Dynergie
 ---
 Après 8 ans chez Accenture puis Capgemini INVENT, j’interviens depuis 2022 comme indépendant auprès de mes clients. 
  

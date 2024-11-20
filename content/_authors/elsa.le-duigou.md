@@ -19,7 +19,6 @@ missions:
     employer: dinum
     startups:
       - api.prevention
-      - france.consulaire
       - infomedicament
       - medistock
       - teleconsultation-ald
@@ -31,4 +30,5 @@ badges:
 teams:
   - /teams/animation-dinum
 link: https://www.linkedin.com/in/elsa-le-duigou-869bb311b/
+competences: []
 ---

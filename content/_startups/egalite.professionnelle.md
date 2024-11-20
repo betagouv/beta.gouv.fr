@@ -1,6 +1,6 @@
 ---
-title: Egalité professionnelle
-mission: Calculer et transmettre l'index d'égalité professionnelle aux entreprises
+title: Egapro
+mission: 'Calculer et transmettre l''index d''égalité professionnelle entre les femmes et les hommes '
 sponsors:
   - /organisations/mtei
 incubator: sgmas
@@ -24,10 +24,11 @@ thematiques:
   - Entreprises
   - Administratif
 techno: []
+stats_url: https://egapro.travail.gouv.fr/stats
 ---
 ## Le contexte :
 
-Afin de lutter contre les inégalités salariales entre les hommes et les femmes, les entreprise employant 50 salariés minimum doivent calculer et transmettre un index mesurant l’égalité salariale au sein de leur structure aux services de l’inspection du travail en déclarant en ligne via la plateforme Egapro.
+Afin de lutter contre les inégalités salariales entre les hommes et les femmes, les entreprise employant 50 salariés minimum doivent calculer et transmettre chaque année un index mesurant l’égalité salariale au sein de leur structure aux services de l’inspection du travail en déclarant en ligne via la plateforme Egapro.
 Une campagne est ouverte chaque année entre janvier et mars afin que les entreprises concernées évaluent sur 100 points le niveau d’égalité entre les hommes et les femmes en s’appuyant sur les critères suivants:
 
 ● écart de rémunération femmes / hommes
@@ -46,7 +47,7 @@ L'écart salarial entre les femmes et les hommes au sein des entreprises frança
 
 ## Notre solution : 
 
-Le Ministère du Travail a publié en janvier 2018 un décret qui oblige les entreprises françaises à calculer et transmettre l'index d'égalité professionnelle, calculé grâce à des indicateurs concernant les rémunérations, les augmentations et promotions, le congé maternité et la répartition femmes-hommes parmi les plus 10 hauts salaires.
+Le Ministère du Travail a publié en janvier 2018 un décret qui oblige chaque année, les entreprises françaises à calculer et transmettre  l'index d'égalité professionnelle aux services de l'inspection du travail. La note obtenue à l'index ainsi que celle obtenue à chacun des indicateurs doivent être publiés sur le site internet de l'entreprise. En l'absence de site internet, les notes soivent être communiquées au salariés par tpit moyen (courrier, affichage,...)
 
 ## Notre cible : 
 
@@ -56,8 +57,8 @@ Depuis le 1er mars 2020, toutes les entreprises d’au moins 50 salariés sont c
 
 L’index de l’égalité professionnelle a été concu pour faire progresser au sein des entreprises l’égalité salariale entre les femmes et les hommes.
 
-Les entreprises mesurent, en toute transparence, les écarts de rémunération entre les sexes et de mettre en évidence leurs points de progression sur la plateforme Egapro.
+Les entreprises mesurent, en toute transparence, les écarts de rémunération entre les sexes et mettent en évidence leurs points de progression sur la plateforme Egapro.
 
-Si l’index de l'égalité professionnelle est inférieur à 75 points, l’entreprise doit notamment adopter et publier des mesures de correction et de rattrapage.
+Si l’index est inférieur à 75 points, l’entreprise doit notamment adopter et publier des mesures de correction et de rattrapage.
 
-En cas de non publication de l’index, l’entreprise est redevable d’une pénalité financière pouvant aller jusqu’à 1% de votre masse salariale.
+En cas de non publication de l’index, l’entreprise est redevable d’une pénalité financière pouvant aller jusqu’à 1% de sa masse salariale.

@@ -17,6 +17,10 @@ phases:
     start: 2022-06-26
 thematiques:
   - Logement
+stats_url: https://statsoilhi.glide.page/
+usertypes:
+  - collectivite-territoriale
+techno: []
 ---
 ## Contexte
 

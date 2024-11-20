@@ -17,11 +17,17 @@ missions:
     startups:
       - collectif_objets
   - start: 2024-03-05
-    end: 2024-12-31
+    end: 2025-03-30
     status: independent
     employer: NUMA
     startups:
       - investigation.d.un.pole.de.competences.numerique
+  - start: 2024-09-16
+    end: 2024-12-31
+    status: independent
+    employer: NUMA
+    startups:
+      - brav-eau
 incubator: culture
 startups:
   - collectif_objets

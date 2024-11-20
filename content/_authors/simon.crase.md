@@ -9,7 +9,6 @@ competences:
 missions:
   - start: 2024-11-18
     end: 2025-02-14
-    employer: GIP MDS
     status: admin
-    startups: []
+    employer: GIP MDS
 ---

@@ -9,11 +9,11 @@ repository: https://github.com/datalab-mi/Basegun
 contact: basegun@interieur.gouv.fr
 accessibility_status: non conforme
 phases:
-  - name: construction
-    start: 2022-03-01
-    end: 2023-06-27
   - name: investigation
-    start: 2022-05-02
+    start: 2022-03-02
+    end: 2023-06-27
+  - name: construction
+    start: 2022-05-01
     end: 2023-06-27
   - name: acceleration
     start: 2023-10-01
