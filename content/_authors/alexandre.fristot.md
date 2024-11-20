@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2024-11-18
     end: 2025-03-18
-    employer: Little Big Connection
     status: independent
+    employer: Little Big Connection
     startups:
       - otelo
 ---

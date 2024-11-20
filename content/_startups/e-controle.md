@@ -29,6 +29,7 @@ redirect_from:
   - /startups/startup-jf
 thematiques: []
 techno: []
+accessibility_status: partiellement conforme
 ---
 ## Le contexte et les difficultés rencontrées
 

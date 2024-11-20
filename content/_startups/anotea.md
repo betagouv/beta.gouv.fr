@@ -22,6 +22,8 @@ phases:
     start: 2020-01-01
   - name: success
     start: 2020-07-01
+thematiques: []
+techno: []
 ---
 Anotéa collecte les avis des stagiaires de formation demandeurs d'emploi (source Pôle emploi), puis diffuse ces avis auprès des futurs stagiaires sur les catalogues de formation. Tous les commentaires sont modérés par des personnes physiques selon une charte établie et disponible dans les conditons générales d'utilisation (CGU).
 Anotéa est accessible via une API et un widget pour être diffusé sur tous les sites de formation ou d'orientation.
