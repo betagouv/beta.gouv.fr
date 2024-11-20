@@ -33,7 +33,10 @@ events:
   - name: fast
     date: 2024-01-01
     comment: Montant de 250000€ pour la promotion 13
-techno: []
+techno:
+  - vue
+  - django
+  - python
 ---
 ## Contexte et enjeux
 

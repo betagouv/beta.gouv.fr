@@ -9,7 +9,7 @@ redirect_from:
 usertypes:
   - collectivite-territoriale
   - etat
-stats_url: https://urbanvitaliz.fr/stats
+stats_url: https://recommandations-collaboratives.beta.gouv.fr/stats-impact/
 title: Recommandations-collaboratives
 sponsors:
   - /organisations/anct

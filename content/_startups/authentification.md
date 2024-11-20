@@ -4,7 +4,7 @@ mission: Proposer un serveur d'authentification centralisé avec notamment un en
 sponsors:
   - /organisations/dinum
 incubator: dinum_produits_interministeriels
-contact: tchap@beta.gouv.fr
+contact: contact@agentconnect.gouv.fr
 link: https://authentification.beta.gouv.fr
 repository: https://github.com/tchapgouv/tchap-identite
 phases:

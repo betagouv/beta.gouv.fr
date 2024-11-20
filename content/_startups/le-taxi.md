@@ -8,9 +8,9 @@ phases:
   - name: investigation
     start: 2015-03-15
   - name: construction
-    start: 2015-03-15
+    start: 2016-03-15
   - name: acceleration
-    start: 2015-03-15
+    start: 2017-03-15
 link: https://le.taxi
 repository: https://github.com/openmaraude/APITaxi
 stats: true

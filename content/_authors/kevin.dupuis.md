@@ -1,6 +1,6 @@
 ---
 fullname: Kévin DUPUIS
-role: Consultant en stratégie de déploiement
+role: Consultant en stratégie de déploiement - BizDev
 domaine: Déploiement
 link: https://linktr.ee/thenextdeals
 missions:
@@ -16,4 +16,5 @@ competences:
   - Croissance
   - Coaching
   - Communication
+  - BizDev
 ---

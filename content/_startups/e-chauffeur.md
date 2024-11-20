@@ -8,9 +8,9 @@ phases:
   - name: investigation
     start: 2018-09-01
   - name: construction
-    start: 2018-09-01
+    start: 2019-09-01
   - name: acceleration
-    start: 2018-09-01
+    start: 2020-09-01
 usertypes:
   - etat
 repository: https://gitlab.com/fabnum-minarm/e-chauffeur/
@@ -18,6 +18,7 @@ stats: false
 contact: romain.perroud@def.gouv.fr
 thematiques:
   - Transports
+techno: []
 ---
 ## Contexte 
 Dans un contexte de réduction du parc automobile du ministère des Armées, le centre interarmées du soutien multiservices (CIM) multiplie les initiatives pour promouvoir de nouvelles offres de mobilité : covoiturage, mise à disposition de vélos à assistance électrique, réservation simplifiée et permanente (24/7) de véhicules partagés.
