@@ -8,7 +8,7 @@ sidebar: sidebar-fast.html
 # Sélection au FAST
 
 <p class="fr-text--lead">
-Le 15ème appel à projet du Fonds d’accélération des Startups d’État et de Territoire est ouvert jusqu'au 29 mai 2024. Plus de 1,5 million d'euros seront accordés aux produits numériques qui souhaitent augmenter leur impact et passer à l'échelle.
+Le 16ème appel à projet du Fonds d’accélération des Startups d’État et de Territoire est ouvert jusqu'au 5 décembre 2024. Plus de 1,5 million d'euros seront accordés aux produits numériques qui souhaitent augmenter leur impact et passer à l'échelle.
  </p>
 
 ## Critères de sélection
