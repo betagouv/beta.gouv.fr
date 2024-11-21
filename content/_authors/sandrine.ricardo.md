@@ -1,7 +1,7 @@
 ---
 fullname: Sandrine Ricardo
 role: Développeuse
-link: https://pathtech.fr/
+link: https://pathtech.coop/
 github: sandrica89
 missions:
   - start: 2021-05-03
@@ -11,7 +11,7 @@ missions:
     startups:
       - sante-psy-etudiant
   - start: 2022-02-01
-    end: 2024-12-31
+    end: 2025-06-30
     status: service
     employer: Pathtech
     startups:

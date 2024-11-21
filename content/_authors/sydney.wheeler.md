@@ -33,4 +33,5 @@ memberType: beta
 previously:
   - zero-logement-vacant
 competences: []
+github: swheeler640
 ---

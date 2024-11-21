@@ -48,28 +48,29 @@ Face à ces problématiques, ProConnect se positionne comme une solution d’aut
 
 ProConnect est une solution d’authentification basée sur le protocole OpenID Connect. Son fonctionnement est le suivant :
 
-### 1- Accès à un service via ProConnect
-Lorsqu’un utilisateur souhaite se connecter à un service intégré à ProConnect, il clique sur le bouton ProConnect présent sur la plateforme.
+1. **Accès à un service via ProConnect**  
+   Lorsqu’un utilisateur souhaite se connecter à un service intégré à ProConnect, il clique sur le bouton ProConnect présent sur la plateforme.
 
-### 2- Identification via un fournisseur d’identité (FI)
- - **Pour les agents publics** :
-        ProConnect s’appuie sur les systèmes d’identités des administrations (ex. Passage2, Cerbère). Si aucun fournisseur d’identité n’est disponible, ProConnect crée une identité professionnelle dédiée.
- - **Pour les professionnels du privé** :
-        ProConnect vérifie l’identité en se basant sur des données fiables, comme le courriel professionel et le SIRET de l'organisation. Une certification à partir du référentiel national des entreprises est actuellement en développement.
+2. **Identification via un fournisseur d’identité (FI)**  
 
- ### 3- Validation et retour au service
-Une fois l’utilisateur identifié, ProConnect valide son identité et transmet les informations nécessaires au service numérique concerné. L’utilisateur est ensuite redirigé vers la plateforme où il peut accéder à ses outils ou démarches.
+   - **Pour les agents publics** :  
+     ProConnect s’appuie sur les systèmes d’identités des administrations (ex. Passage2, Cerbère). Si aucun fournisseur d’identité n’est disponible, ProConnect crée une identité professionnelle dédiée.  
+   - **Pour les professionnels du privé** :  
+     ProConnect vérifie l’identité en se basant sur des données fiables, comme le courriel professionel et le SIRET de l'organisation. Une certification à partir du référentiel national des entreprises est actuellement en développement.
 
-## Cas d’usage
+3. **Validation et retour au service**  
+   Une fois l’utilisateur identifié, ProConnect valide son identité et transmet les informations nécessaires au service numérique concerné. L’utilisateur est ensuite redirigé vers la plateforme où il peut accéder à ses outils ou démarches.
 
-### Pour un agent public :
-Marie, chargée de mission dans une administration, utilise ProConnect pour accéder à tous ses outils : Tchap pour communiquer, Résana pour partager ses fichiers, et d’autres portails interministériels. Avec ProConnect, elle n’a besoin que d’un identifiant unique.
+## **Cas d’usage**
 
-### Pour une entreprise :
-Pierre, dirigeant d’une PME, utilise ProConnect pour accéder aux portails publics de déclaration (URSSAF, téléprocédures, etc.). Ses collaborateurs, habilités par ses soins, disposent d’un accès sécurisé aux mêmes services sans avoir à créer de nouveaux comptes.
+1. **Pour un agent public** :  
+   Marie, chargée de mission dans une administration, utilise ProConnect pour accéder à tous ses outils : Tchap pour communiquer, Résana pour partager ses fichiers, et d’autres portails interministériels. Avec ProConnect, elle n’a besoin que d’un identifiant unique.
 
-### Pour une administration :
-Le ministère X intègre ProConnect dans son nouvel outil numérique pour les collectivités territoriales. Cela évite de développer un système d’authentification complexe et garantit une conformité aux standards de sécurité de l’État.
+2. **Pour une entreprise** :  
+   Pierre, dirigeant d’une PME, utilise ProConnect pour accéder aux portails publics de déclaration (URSSAF, téléprocédures, etc.). Ses collaborateurs, habilités par ses soins, disposent d’un accès sécurisé aux mêmes services sans avoir à créer de nouveaux comptes.
+
+3. **Pour une administration** :  
+   Le ministère X intègre ProConnect dans son nouvel outil numérique pour les collectivités territoriales. Cela évite de développer un système d’authentification complexe et garantit une conformité aux standards de sécurité de l’État.
 
 ## En cours et perspectives
 

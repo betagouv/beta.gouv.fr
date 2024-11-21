@@ -10,6 +10,18 @@ missions:
     employer: Malt
     startups:
       - infrastructures.numeriques
+  - start: 2024-11-21
+    end: 2025-06-30
+    status: service
+    employer: LBC
+    startups:
+      - mistral-penal
+  - start: 2024-11-21
+    end: 2025-06-30
+    status: service
+    employer: LBC
+    startups:
+      - mistral-penal
 badges:
   - segur
 link: https://www.linkedin.com/in/floriangesta/

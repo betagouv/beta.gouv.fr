@@ -4,7 +4,7 @@ mission: Donner plus de visibilité aux offres de bénévolat et de volontariat
 sponsors:
   - /organisations/djepva
 incubator: engagement_civique
-contact: contact@api-engagement.beta.gouv.fr
+contact: api-engagement@beta.gouv.fr
 stats_url: https://reserve-civique-metabase.osc-secnum-fr1.scalingo.io/public/dashboard/2dad1c3d-09e5-4d68-85bb-773b9c61e9a7
 link: https://api-engagement.beta.gouv.fr
 stats: true
@@ -24,6 +24,7 @@ thematiques:
   - Social
   - Open-Data
 techno: []
+repository: https://github.com/betagouv/api-engagement
 ---
 ## Qu'est-ce que l'API Engagement?
 
