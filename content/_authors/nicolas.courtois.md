@@ -5,6 +5,12 @@ domaine: Design
 link: https://www.linkedin.com/in/nicolas-c-b7876539/
 github: NicolasCourtois
 missions:
+  - start: 2020-02-01
+    end: 2023-12-21
+    status: independent
+    employer: DJEPVA
+    startups:
+      - jeveuxaider
   - start: 2020-04-01
     end: 2025-01-31
     status: independent
