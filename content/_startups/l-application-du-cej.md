@@ -31,6 +31,10 @@ techno: []
 L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l’accompagnement des jeunes étant accompagnés en CEJ par leurs conseillers (France Travail ou Mission Locale) afin de limiter leurs décrochages en cours d’accompagnement.
 À travers une interface web et une application mobile, l’application s’inscrit dans une démarche d’accompagnement renforcé, et vient outiller le dispositif du Contrat d’Engagement Jeune (CEJ), tout en autonomisant le jeune dans sa recherche d’opportunités professionnelles et en facilitant son accès vers l’emploi.
 
+L’application Pass Emploi, petite soeur de l'application du CEJ, a pour objectif de faciliter les échanges entre le bénéficiaire et son conseiller.
+
+Comme pour l'application du CEJ, à l'aide d'une interface web et une application mobile, l’application s’inscrit dans une démarche d’accompagnement renforcé, et vient outiller les dispositifs AIJ et ARSA, tout en autonomisant le bénéficiaire dans sa recherche d’opportunités professionnelles.
+
 ## Le problème
 ### Jeunes :
 * Des moyens de contact à destination des conseillers qui ne correspondent pas à leurs habitudes de communication 
