@@ -47,7 +47,7 @@ L'écart salarial entre les femmes et les hommes au sein des entreprises frança
 
 ## Notre solution : 
 
-Le Ministère du Travail a publié en janvier 2018 un décret qui oblige chaque année, les entreprises françaises à calculer et transmettre  l'index d'égalité professionnelle aux services de l'inspection du travail. La note obtenue à l'index ainsi que celle obtenue à chacun des indicateurs doivent être publiés sur le site internet de l'entreprise. En l'absence de site internet, les notes soivent être communiquées au salariés par tpit moyen (courrier, affichage,...)
+Le Ministère du Travail a publié en janvier 2018 un décret qui oblige chaque année, les entreprises françaises à calculer et transmettre  l'index d'égalité professionnelle aux services de l'inspection du travail. La note obtenue à l'index ainsi que celle obtenue à chacun des indicateurs doivent être publiées sur le site internet de l'entreprise. En l'absence de site internet, les notes doivent être communiquées aux salariés par tout moyen (courrier, affichage,...)
 
 ## Notre cible : 
 

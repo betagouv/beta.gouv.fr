@@ -28,6 +28,17 @@ thematiques:
   - Entreprises
 analyse_risques: true
 analyse_risques_url: https://github.com/betagouv/mission-transition-ecologique/blob/main/SECURITY.md
+budget_url: https://mission-transition-ecologique.beta.gouv.fr/budget
+events:
+  - name: product_launch
+    date: 2023-11-29
+    comment: Lancement à Bercy par les ministres Mme Grégoire (Entreprises) et M. Bechu (Ecologie)
+  - name: committee
+    date: 2023-12-21
+    comment: Comité d'investissement
+  - name: committee
+    date: 2024-06-26
+    comment: Comité d'investissement
 ---
 Le service public Transition Écologique des Entreprises est un guichet d'accueil, d'aide et d'accompagnement dans la transition écologique des entreprises.
 
