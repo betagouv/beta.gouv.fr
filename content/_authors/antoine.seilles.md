@@ -5,11 +5,12 @@ role: Coach
 github: natoine
 link: https://www.linkedin.com/in/antoineseilles/
 missions:
-  - start: 2021-09-09
-    end: 2024-12-24
+  - start: 2024-10-01
+    end: 2025-12-24
     status: independent
+    employer: Numa
     startups:
-      - data-subvention
+      - pitchou
 badges:
   - segur
 competences:
