@@ -13,7 +13,7 @@ missions:
     status: independent
     employer: UT7
   - start: 2023-11-22
-    end: 2024-11-22
+    end: 2025-06-22
     status: independent
 startups:
   - tout-est-permis
