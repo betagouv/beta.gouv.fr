@@ -1,6 +1,6 @@
 ---
-fullname: Marion Samaran
-role: Community Manager
+fullname: Marion Recurt Samaran
+role: Chargée de déploiement
 domaine: Animation
 link: https://www.linkedin.com/in/marion-samaran/
 competences: []
