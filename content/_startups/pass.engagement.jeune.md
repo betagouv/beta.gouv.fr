@@ -1,6 +1,6 @@
 ---
 title: Carte Jeune Engagé
-mission: 'Une carte pour les jeunes engagés dans un parcours d''insertion avec des avantages sur des biens et services essentiels '
+mission: Proposer aux jeunes en insertion des avantages sur des biens et services essentiels
 sponsors:
   - /organisations/dgefp
 incubator: sgmas
@@ -46,13 +46,19 @@ Une seule application permettra aux jeunes de retrouver l’ensemble des offres 
 * Développement fonctionnel du MVP
 * Co-construction des processus de création, de diffusion et d’utilisation des réductions et offres avec les entreprises partenaires qui les proposent
 * Co-construction de la phase d’expérimentation avec les travailleurs sociaux du service public à l’emploi pour cibler les jeune du CEJ (France Travail et Mission locale)
-* Lancement du MVP en phase d’expérimentation sur le territoire de l’Est du Val d’Oise.
+* Lancement du MVP en phase d’expérimentation sur le territoire de l’Est du Val d’Oise
 
 **Mars - juin 2024**
-* Analyse et itérations en fonction des indicateurs d’usage et des indicateurs d’impact sur le nombres de réductions utilisées par les jeunes et le montant économisé en euros`
+* Analyse et itérations en fonction des indicateurs d’usage et des indicateurs d’impact sur le nombres de réductions utilisées par les jeunes et le montant économisé en euros
 
-**À partir de juin 2024**
-* Présentation des analyses des résultats de la phase expérimentation au comité
-d’investissement
-* Selon les décisions du comité, déploiement progressif du service sur l’ensemble du territoire
-et pour l’ensemble des jeunes en insertion
+**Bilan de l’expérimentation présenté au comité début juillet**
+* Le produit suscite un intérêt réel auprès du public cible, avec plus d’une personne sur deux ayant téléchargé l’application
+* Cependant, le manque d’offres de réductions proposées pendant la phase d’expérimentation a été unanimement signalé par les testeurs. Avec seulement 23 offres disponibles, ce point a été identifié comme le principal frein à la satisfaction et à l’usage régulier du produit
+
+**À partir de juin 2024 - Préparation d’une nouvelle phase de tests**
+* Amélioration de l’application en intégrant les retours des utilisateurs de l’expérimentation
+* Enrichissement continu du catalogue de réductions
+* Collaboration avec le CEJ, incluant la mise en avant du catalogue de réductions sous forme d'un widget intégré dans l’application du CEJ
+
+**T4 2024**
+* Ouverture de l’application à tous les jeunes du CEJ, avec un catalogue enrichi proposant plus de 75 offres

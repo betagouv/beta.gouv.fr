@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://linktr.ee/thenextdeals
 missions:
   - start: 2023-08-01
-    end: 2024-12-31
+    end: 2025-03-31
     status: independent
     employer: Malt
     startups:

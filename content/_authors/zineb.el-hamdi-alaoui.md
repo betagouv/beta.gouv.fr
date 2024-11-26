@@ -4,7 +4,7 @@ fullname: Zineb El Hamdi Alaoui
 role: Intraprenariat
 missions:
   - start: 2024-04-08
-    end: 2024-12-08
+    end: 2025-06-30
     status: admin
     employer: Dinum
     startups:
