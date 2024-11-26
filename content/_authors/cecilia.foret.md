@@ -1,12 +1,15 @@
 ---
 fullname: Cécilia Foret
-role: Chargée de recrutement - Malt
+role: Chargée de déploiement - Je Deviens Etudiant
 domaine: Autre
 missions:
-  - start: 2023-01-01
+  - start: 2024-11-25
     end: 2026-01-01
     status: service
-    employer: Malt
+    employer: Beta Gouv
+    startups:
+      - je-deviens-etudiant
 memberType: attributaire
+competences: []
 ---
-Chargée de recrutement - Malt
+Chargée de déploiement - Je Deviens Etudiant

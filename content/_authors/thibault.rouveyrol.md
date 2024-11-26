@@ -6,13 +6,24 @@ link: https://www.kime.tech
 github: Clrk
 missions:
   - start: 2022-08-23
-    end: 2025-08-29
+    end: 2025-12-29
     status: service
-    employer: thibault.rouveyrol@gmail.com
+    employer: LittleBigConnection
     startups:
-      - france-numerique-ensemble
       - les.bases
       - suite.d.outils.des.mediateurs.numeriques
+  - start: 2023-01-01
+    end: 2023-05-01
+    status: service
+    employer: LittleBigConnection
+    startups:
+      - mon.espace.collectivite
+  - start: 2023-08-01
+    end: 2024-02-01
+    status: service
+    employer: LittleBigConnection
+    startups:
+      - france-numerique-ensemble
 badges:
   - segur
 competences: []

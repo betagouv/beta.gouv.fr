@@ -20,7 +20,7 @@ phases:
     end: 2022-03-30
   - name: acceleration
     start: 2022-03-01
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 thematiques:
   - Travail / Emploi
   - Jeunesse
@@ -39,6 +39,7 @@ Comme pour l'application du CEJ, à l'aide d'une interface web et une applicatio
 ### Jeunes :
 * Des moyens de contact à destination des conseillers qui ne correspondent pas à leurs habitudes de communication 
 * Des jeunes qui passent à côté d’opportunités professionnelles par méconnaissance de l’offre de service de Pôle emploi, de la Mission Locale et de leurs partenaires
+
 ### Conseillers :
 * Des jeunes absents aux rendez-vous, difficilement joignables et peu réactifs sur les canaux de communications utilisés par les conseillers
 * Des jeunes qui ont besoin d’être mobilisés et qui manquent de proactivité dans leurs démarches 

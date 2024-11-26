@@ -16,6 +16,12 @@ missions:
     employer: Scopileft
     startups:
       - sndv_maritime
+  - start: 2024-10-24
+    end: 2025-01-24
+    status: independent
+    employer: Little Big Connection
+    startups:
+      - mon-devis-sans-oublis
 startups:
   - pop
 memberType: beta

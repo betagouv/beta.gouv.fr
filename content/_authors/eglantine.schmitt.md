@@ -8,4 +8,7 @@ missions:
     end: 2027-11-03
     status: admin
     employer: Ministère de la transition écologique
+github: eglantine
+link: https://www.linkedin.com/in/egschmitt/
 ---
+La data au service du produit (ou l'inverse)
