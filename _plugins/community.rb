@@ -1,15 +1,11 @@
 # frozen_string_literal: true
 
+require_relative '../lib/models/member'
+
 module Jekyll
   module CommunityFilter
     def community(people, state, sort_by = 'oldest')
-      now = Date.today
-
-      past, current = people.partition do |person|
-        date = person.data['missions']&.last&.dig('end')
-
-        date && date <= now
-      end
+      current, past = people.partition { |person| Beta::Member.new(person.data).active_missions.any? }
 
       result = state == 'past' ? past : current
 
