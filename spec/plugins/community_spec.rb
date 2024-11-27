@@ -54,6 +54,26 @@ describe Jekyll::CommunityFilter do
     expect(past).to contain_exactly alum
   end
 
+  context 'when the member has an active mission earlier in the missions array' do
+    before do
+      active_mission = { end_date: Date.today.tomorrow }
+
+      alum.data['missions'].prepend(active_mission)
+    end
+
+    it 'counts them as active' do
+      current = template.community(members, 'current')
+
+      expect(current).to include alum
+    end
+
+    it 'does not count them as alumni' do
+      past = template.community(members, 'past')
+
+      expect(past).to be_empty
+    end
+  end
+
   it 'sorts them by newest mission start by default' do
     expect(template.community(members, 'current')).to start_with(with_end)
   end
