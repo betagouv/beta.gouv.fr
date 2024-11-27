@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: DINUM
     startups:
-      - authentification
+      - proconnect
 badges:
   - segur
 ---
