@@ -9,7 +9,7 @@ highlighted_startups:
   - cartobio
   - icare-complements-alimentaires
   - seves
-  - tracabilite.gibier.sauvage
+  - zacharie
   - plateforme-agriculteurs
   - identite-numerique-agricole
   - equipements-bio

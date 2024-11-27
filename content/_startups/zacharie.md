@@ -1,24 +1,31 @@
 ---
-mission: Garantir une meilleure qualité sanitaire des viandes de gibier sauvage mises sur le marché
-incubator: agriculture
-title: Zacharie
-contact: anne.devoret@beta.gouv.fr
 accessibility_status: non conforme
-sponsors:
-  - /organisations/dgal
-phases:
-  - name: investigation
-    start: 2024-02-14
-  - name: construction
-    start: 2024-06-03
+contact: anne.devoret@beta.gouv.fr
+link: https://zacharie.beta.gouv.fr/
 thematiques:
   - Écologie
   - Agriculture
 usertypes:
   - particulier
   - entreprise
-link: https://zacharie.beta.gouv.fr/
 techno: []
+title: Zacharie
+mission: Garantir une meilleure qualité sanitaire des viandes de gibier sauvage mises sur le marché
+incubator: agriculture
+sponsors:
+  - /organisations/dgal
+phases:
+  - name: investigation
+    comment: null
+    start: 2024-02-14
+    end: null
+  - name: construction
+    comment: null
+    start: 2024-06-03
+    end: null
+events: []
+redirect_from:
+  - /startups/tracabilite.gibier.sauvage
 ---
 ## Contexte
 

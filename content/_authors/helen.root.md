@@ -5,7 +5,7 @@ domaine: Développement
 github: hfroot
 missions:
   - start: 2020-12-22
-    end: 2024-12-27
+    end: 2021-03-22
     status: independent
     employer: Scopyleft
     startups:
