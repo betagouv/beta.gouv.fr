@@ -13,7 +13,7 @@ phases:
   - name: investigation
     start: 2023-09-11
   - name: construction
-    start: 2024-03-01
+    start: 2024-03-04
 stats: false
 contact: contact@inserjeunes.beta.gouv.fr
 usertypes:

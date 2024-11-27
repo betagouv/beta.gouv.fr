@@ -5,7 +5,7 @@ domaine: Produit
 github: RomainRonflette
 missions:
   - start: 2022-05-09
-    end: 2025-06-20
+    end: 2025-10-31
     status: independent
     employer: Malt
     startups:

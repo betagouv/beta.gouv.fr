@@ -12,9 +12,13 @@ phases:
     start: 2022-09-01
   - name: acceleration
     start: 2024-04-03
+  - name: alumni
+    start: 2024-11-27
 thematiques:
   - Travail / Emploi
 accessibility_status: non conforme
+usertypes: []
+techno: []
 ---
 **Contexte**
 

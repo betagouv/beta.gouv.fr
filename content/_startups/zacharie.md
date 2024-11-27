@@ -16,14 +16,9 @@ sponsors:
   - /organisations/dgal
 phases:
   - name: investigation
-    comment: null
     start: 2024-02-14
-    end: null
   - name: construction
-    comment: null
     start: 2024-06-03
-    end: null
-events: []
 redirect_from:
   - /startups/tracabilite.gibier.sauvage
   - /startups/tracabilite.gibier.sauvage.html
