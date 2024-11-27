@@ -24,6 +24,8 @@ phases:
     start: 2024-06-03
     end: null
 events: []
+redirect_from:
+  - /startups/tracabilite.gibier.sauvage
 ---
 ## Contexte
 
