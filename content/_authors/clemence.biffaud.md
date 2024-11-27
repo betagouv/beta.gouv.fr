@@ -22,6 +22,12 @@ missions:
       - artsducirque
       - mission.debroussaillement
       - monprojetsup
+  - start: 2024-11-04
+    end: 2025-03-31
+    status: independent
+    employer: NUMA
+    startups:
+      - je-deviens-etudiant
 incubator: fab-geocommuns
 startups:
   - mission.debroussaillement

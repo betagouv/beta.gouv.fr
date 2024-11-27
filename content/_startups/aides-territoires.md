@@ -2,11 +2,12 @@
 title: Aides-territoires
 mission: Accédez aux meilleures aides pour financer et accompagner vos projets locaux
 sponsors:
+  - /organisations/anct
   - /organisations/dgaln
   - /organisations/dhup
   - /organisations/mctrct
   - /organisations/mtes
-incubator: mtes
+incubator: anct
 link: https://aides-territoires.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/aides-territoires-symfony
 contact: aides-territoires@beta.gouv.fr
@@ -30,7 +31,7 @@ techno: []
 ---
 ## Le problème
 
-Pour près de 35 000 communes et 1 260 regroupements de communes françaises, accéder à des aides en financement et en ingénierie est essentiel, car sans aide, il n’y a pas de projets d’aménagement de territoire. C’est surtout un véritable casse-tête en raison de la myriade d’aides disponibles, puisqu’on en recense plus de 300 types, qui relèvent de différents niveaux, régional, national, et même européen : comment s’y retrouver dans ce maquis ?
+Pour près de 35 000 communes et 1 260 regroupements de communes françaises, accéder à des aides en financement et en ingénierie est essentiel, car sans aide, il n’y a pas de projets d’aménagement de territoire. C’est surtout un véritable casse-tête en raison de la myriade d’aides disponibles, puisqu’on en recense plus de 300 types, qui relèvent de différents niveaux : régional, national, et même européen. Comment s’y retrouver dans ce maquis ?
 
 Des dispositifs de veille existent, mais ils sont le plus souvent construits de manière individuelle, avec des outils peu collaboratifs et à la visibilité limitée (tableur, liste de diffusion, etc). Ensuite, il faut être en mesure de sélectionner les aides les plus adaptées à son projet et de compléter les dossiers de candidature ad hoc. Des chefs de projets peuvent ainsi passer plus de deux tiers de leur temps à rechercher ces fameuses aides… alors qu’ils pourraient consacrer ce temps au projet en lui-même !
 
@@ -52,17 +53,16 @@ Aides-territoires répertorie les aides pour toutes les thématiques de projets 
 
 Aides-territoires est structurée selon deux profils d'utilisateurs :
 
-* ++ L’offre (financements, aides en ingénierie)++ émane de nombreux acteurs : les directions générales des ministères; les agences placées sous la tutelle de l'État ; les collectivités territoriales porteuses d'aides ; les structures locales de l'ingénierie;  les fondations privées, etc.
+- **L’offre (financements, aides en ingénierie)** émane de nombreux acteurs : les directions générales des ministères, les agences placées sous la tutelle de l'État, les collectivités territoriales porteuses d'aides, les structures locales de l'ingénierie, les fondations privées, etc.
 
-Des espaces privilégiés de diffusion des informations (portails, pages programmes, articles blog ) permettent de valoriser des aides et programmes d'aides ( ex: le Fonds Vert ) 
+Des espaces privilégiés de diffusion des informations (portails, pages programmes, articles blog) permettent de valoriser des aides et programmes d'aides (ex: le Fonds Vert).
 
-*  ++La demande++ vient des collectivités et plus particulièrement des agents en charge de la veille sur les aides mais également de leurs partenaires locaux (associations, établissements publics) et de structures accompagnantes (DDT, PETR, etc.)
-*Les collectivités disposent en outre d'un outil collaboratif pour travailler ensemble sur des projets, partager et éditer la recherche d'aides, effectuer un suivi des subventions demandées et obtenues,  mais également communiquer sur  ses projets en les rendant publics et interagir avec ses pairs ( en suivant leurs projets, en leur suggérant des aides par exemple) 
+- **La demande d'aides** vient des collectivités et plus particulièrement des agents en charge de la veille sur les dispositifs d'appui mais également de leurs partenaires locaux (associations, établissements publics) et de structures accompagnantes (DDT, PETR, etc.)
+
+Les collectivités disposent en outre d'un outil collaboratif pour travailler ensemble sur des projets, partager et éditer la recherche d'aides, effectuer un suivi des subventions demandées et obtenues, mais également communiquer sur leurs projets en les rendant publics et interagir avec leurs pairs (en suivant leurs projets, en leur suggérant des aides par exemple).
 
 ## Les perspectives
 
-L’objectif est de consolider la base de données des aides européennes, nationales et locales disponibles sur Aides-territoires, en s’appuyant sur des partenariats ainsi qu'une communauté de contributeurs constituée dans les administrations ci-dessus citées dans le but de répondre au besoin d'exhaustivité des acteurs locaux. (Constitution d'un annuaire des aides et des porteurs & d'une cartographie dynamique) 
+L’objectif est de consolider la base de données des aides européennes, nationales et locales disponibles sur Aides-territoires, en s’appuyant sur des partenariats ainsi qu'une communauté de contributeurs constituée dans les administrations citées ci-dessus dans le but de répondre au besoin d'exhaustivité des acteurs locaux. (constitution d'un annuaire des aides et des porteurs & d'une cartographie dynamique).
 
 Puis, en capitalisant sur les données des collectivités, cet outil permettra de les réutiliser (*Dites-le nous une fois*) pour faciliter le remplissage des dossiers. Le pré-remplissage est actuellement testé avec les démarches du Fonds Vert. 
-
-Enfin, déploiement des fonctionnalités collaboratives

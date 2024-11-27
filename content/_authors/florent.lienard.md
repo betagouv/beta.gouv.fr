@@ -9,7 +9,7 @@ missions:
     employer: Dinum
     startups:
       - agents.en.intervention
-      - espace.sur.demande
 memberType: beta
+competences: []
 ---
 UX/UI Designer

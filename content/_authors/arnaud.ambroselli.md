@@ -28,7 +28,7 @@ missions:
     status: independent
     employer: Little Big Connection
     startups:
-      - tracabilite.gibier.sauvage
+      - zacharie
 startups:
   - mano
 badges:

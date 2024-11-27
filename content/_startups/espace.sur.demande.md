@@ -9,7 +9,7 @@ sponsors:
   - /organisations/anct
 phases:
   - name: acceleration
-    start: 2024-09-01
+    start: 2024-12-01
 thematiques:
   - Collectivités
   - Territoires
@@ -28,6 +28,7 @@ usertypes:
   - etat
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/espacesurdemande-anct-gouv-fr/
 techno: []
+analyse_risques: true
 ---
 **Espace sur Demande : Simplifiez la Réservation d’Espaces Publics pour Tous**
 
@@ -47,6 +48,7 @@ Aujourd’hui, la gestion des réservations d’espaces publics reste un process
 **Notre Solution : Espace sur Demande, la Réservation Digitalisée**
 
 Espace sur Demande simplifie l’ensemble du processus de réservation et de mise à disposition d’espaces publics grâce à une plateforme 100 % en ligne. Voici ce que nous offrons :
+
 • Réservation autonome : En quelques clics, vous pouvez réserver des salles des fêtes, des auditoriums, ou des gymnases.
 
 • Génération automatique des conventions : Les documents sont générés automatiquement, éliminant les lourdeurs administratives.
