@@ -7,6 +7,8 @@ missions:
     end: 2025-03-22
     status: independent
     employer: Dinum
+    startups:
+      - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
 link: https://www.linkedin.com/in/benjamin-michallet-phd-232638164/
 competences:
   - Coaching

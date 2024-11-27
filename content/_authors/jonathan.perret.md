@@ -9,6 +9,7 @@ missions:
     status: service
     employer: /ut7
     startups:
+      - proconnect
       - suite-numerique
 competences: []
 ---
