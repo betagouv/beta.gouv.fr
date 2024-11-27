@@ -16,18 +16,18 @@ missions:
     employer: OCTO
     startups:
       - phytophare
-  - start: 2024-02-14
-    end: 2025-09-20
-    status: independent
-    employer: OCTO
-    startups:
-      - zacharie
   - start: 2024-07-23
     end: 2024-10-31
     status: independent
     employer: Numa
     startups:
       - tabula
+  - start: 2024-02-14
+    end: 2025-09-20
+    status: independent
+    employer: OCTO
+    startups:
+      - zacharie
 badges:
   - segur
 startups:
