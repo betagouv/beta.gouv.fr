@@ -21,7 +21,7 @@ missions:
     status: independent
     employer: OCTO
     startups:
-      - tracabilite.gibier.sauvage
+      - zacharie
   - start: 2024-07-23
     end: 2024-10-31
     status: independent

@@ -19,6 +19,8 @@ usertypes:
   - entreprise
 link: https://zacharie.beta.gouv.fr/
 techno: []
+redirect_from:
+  - /startups/tracabilite.gibier.sauvage
 ---
 ## Contexte
 

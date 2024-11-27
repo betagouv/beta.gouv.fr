@@ -15,7 +15,7 @@ missions:
     status: independent
     employer: LittleBigConnection
     startups:
-      - tracabilite.gibier.sauvage
+      - zacharie
 competences:
   - Relation usagers
   - Croissance
