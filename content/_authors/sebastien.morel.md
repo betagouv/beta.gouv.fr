@@ -18,6 +18,5 @@ missions:
     status: admin
     employer: Éducation nationale
     startups:
-      - 1-jeune-1-arbre
       - monstage
 ---
