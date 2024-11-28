@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/jonathan-perrault-884a5257/
 github: jonat75
 missions:
   - start: 2023-10-30
-    end: 2024-11-30
+    end: 2025-12-30
     status: independent
     employer: Le Gratin
     startups:
