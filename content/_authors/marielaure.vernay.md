@@ -18,5 +18,9 @@ missions:
       - je-deviens-etudiant
 competences:
   - Développement Backend
+  - Metabase
+  - PostgreSQL
+  - Python
+link: https://www.linkedin.com/in/mlvernay/
 ---
 Développeuse la semaine, dans les montagnes le WE
