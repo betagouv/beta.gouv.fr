@@ -1,6 +1,6 @@
 ---
 fullname: Marjolaine Bidard
-role: UX Designer
+role: Product Designer
 domaine: Design
 link: https://www.linkedin.com/in/marjobidard/
 missions:
@@ -10,6 +10,12 @@ missions:
     employer: Pole emploi
     startups:
       - l-application-du-cej
+  - start: 2024-10-01
+    end: 2025-05-31
+    status: admin
+    employer: Pole emploi
+    startups:
+      - travailler.en.france
 previously:
   - estime
   - mes-evenements-emploi

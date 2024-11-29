@@ -8,7 +8,7 @@ phases:
   - name: investigation
     start: 2024-03-15
   - name: construction
-    start: 2024-11-18
+    start: 2024-09-01
 thematiques:
   - Administratif
   - Outil technique
@@ -22,6 +22,11 @@ link: https://lasuite.numerique.gouv.fr/services/grist
 sponsors:
   - /organisations/anct
   - /organisations/dinum
+analyse_risques: true
+events:
+  - name: product_launch
+    date: 2022-07-01
+    comment: Première instance et premiers commits par l'équipe "Données et Territoires" de l'ANCT.
 ---
 ## Le drame
 
