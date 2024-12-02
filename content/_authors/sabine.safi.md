@@ -1,18 +1,17 @@
 ---
 fullname: Sabine Safi
 role: Coach / PO
-domaine: Coaching
+domaine: Produit
 github: sabinesafi
 missions:
   - start: 2019-02-04
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: LittleBig Connection
     startups:
       - recommandations-collaboratives
-      - urbanvitaliz
   - start: 2023-07-01
-    end: 2024-12-19
+    end: 2024-09-30
     status: independent
     employer: Numa
     startups:

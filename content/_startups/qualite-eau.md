@@ -3,7 +3,7 @@ title: Qualité de l'eau
 mission: Permettre aux agents ARS de gagner en efficacité dans les actions d'inspection et de prévention
 sponsors:
   - /organisations/dgs
-incubator: sgmas
+incubator: FabNum
 contact: clemence.augustin@ars.sante.fr
 stats: false
 phases:

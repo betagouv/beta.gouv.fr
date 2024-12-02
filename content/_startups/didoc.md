@@ -3,7 +3,7 @@ title: DIDOC
 mission: Dématérialiser les invitations au dépistage organisé des cancers
 sponsors:
   - /organisations/ars-franche-comte
-incubator: sgmas
+incubator: FabNum
 contact: Valerie.AGLIETTI@ars.sante.fr
 usertypes:
   - particulier

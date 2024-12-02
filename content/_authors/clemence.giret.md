@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2024-09-02
     end: 2025-06-28
-    employer: CRB TI LAB / DITP / DINUM
     status: admin
+    employer: CRB TI LAB / DITP / DINUM
     startups:
       - pe-ate
 ---

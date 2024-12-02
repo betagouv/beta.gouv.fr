@@ -3,7 +3,7 @@ title: Medlé
 mission: Consigner l'activité de la médecine légale réalisée sur réquisition judiciaire
 sponsors:
   - /organisations/dgos
-incubator: sgmas
+incubator: FabNum
 phases:
   - name: investigation
     start: 2019-06-15

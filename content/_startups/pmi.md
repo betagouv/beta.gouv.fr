@@ -3,7 +3,7 @@ title: PMI
 mission: Résoudre les difficlutés rencontrées par les agents et les usagers de la Protection maternelle et infantile
 sponsors:
   - /organisations/solidarite-sante
-incubator: sgmas
+incubator: FabNum
 contact: cedric.cablan@ars.sante.fr
 phases:
   - name: investigation

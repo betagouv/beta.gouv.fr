@@ -25,7 +25,7 @@ missions:
     status: independent
     employer: NUMA
   - start: 2022-10-01
-    end: 2024-12-31
+    end: 2025-01-31
     status: admin
     employer: DINUM
 previously:
@@ -38,4 +38,5 @@ previously:
   - agora
 teams:
   - /teams/animation-dinum
+competences: []
 ---

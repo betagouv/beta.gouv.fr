@@ -3,7 +3,7 @@ title: Work in France
 mission: La plateforme de demande d’autorisations provisoires de travail
 sponsors:
   - /organisations/mtei
-incubator: sgmas
+incubator: FabNum
 phases:
   - name: investigation
     start: 2017-10-26

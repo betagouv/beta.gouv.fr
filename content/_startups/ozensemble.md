@@ -3,7 +3,7 @@ title: Oz Ensemble
 mission: Offrir à tous un accès simple aux soins en addictologie
 sponsors:
   - /organisations/solidarite-sante
-incubator: sgmas
+incubator: FabNum
 phases:
   - name: investigation
     start: 2020-01-01

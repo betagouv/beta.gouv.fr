@@ -9,8 +9,9 @@ missions:
     status: service
     employer: octo
   - start: 2024-01-01
-    end: 2024-12-31
+    end: 2028-11-26
     status: service
 previously:
   - pass-culture
+competences: []
 ---

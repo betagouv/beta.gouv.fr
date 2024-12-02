@@ -4,7 +4,7 @@ mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la sa
 sponsors:
   - /organisations/dgpr
   - /organisations/dgs
-incubator: sgmas
+incubator: FabNum
 link: https://recosante.beta.gouv.fr/
 repository: https://github.com/betagouv/recosante/
 contact: contact@recosante.beta.gouv.fr

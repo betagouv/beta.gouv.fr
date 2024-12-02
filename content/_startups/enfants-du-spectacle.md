@@ -3,7 +3,7 @@ title: Enfants Du Spectacle
 mission: Simplifier les demandes d’emploi pour renforcer la protection des enfants
 sponsors:
   - /organisations/solidarite-sante
-incubator: sgmas
+incubator: FabNum
 repository: https://github.com/SocialGouv/enfants-du-spectacle
 contact: enfantsduspectacle@fabrique.social.gouv.fr
 accessibility_status: non conforme

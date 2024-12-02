@@ -1,10 +1,10 @@
 ---
-domaine: Déploiement
+domaine: Produit
 fullname: Paul  Sarton
-role: Déploiement
+role: Produit
 missions:
   - start: 2024-07-04
-    end: 2024-12-31
+    end: 2025-02-28
     status: independent
     employer: NUMA
 competences:

@@ -12,7 +12,7 @@ missions:
       - apilos
       - l-application-du-cej
   - start: 2023-12-31
-    end: 2024-12-30
+    end: 2027-12-30
     status: admin
     employer: DINUM
 badges:

@@ -21,7 +21,7 @@ missions:
     status: independent
     employer: La Zone
   - start: 2022-10-15
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
     employer: malt
     startups:

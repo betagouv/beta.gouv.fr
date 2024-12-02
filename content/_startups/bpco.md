@@ -3,7 +3,7 @@ title: BPCO
 mission: Permettre aux patients atteints de BPCO de prévenir les exacerbations et d’éviter les hospitalisations
 sponsors:
   - /organisations/solidarite-sante
-incubator: sgmas
+incubator: FabNum
 contact: aurelie.manginot@fabrique.social.gouv.fr
 accessibility_status: non conforme
 phases:

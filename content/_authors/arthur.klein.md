@@ -10,7 +10,7 @@ missions:
     startups:
       - ma-cantine-egalim
   - start: 2024-01-15
-    end: 2024-09-30
+    end: 2025-06-30
     status: independent
     employer: Numa
     startups:
@@ -19,5 +19,6 @@ startups:
   - icare-complements-alimentaires
   - ma-cantine-egalim
 memberType: beta
+competences: []
 ---
 Designer et coach

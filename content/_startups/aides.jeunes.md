@@ -3,7 +3,7 @@ title: Aides Jeunes
 mission: 'Faciliter le recours aux aides par les jeunes qui en ont le plus besoin '
 sponsors:
   - /organisations/dgefp
-incubator: sgmas
+incubator: FabNum
 link: https://mes-aides.1jeune1solution.beta.gouv.fr
 repository: https://github.com/betagouv/aides-jeunes
 contact: aides-jeunes@beta.gouv.fr

@@ -4,7 +4,7 @@ mission: L’accès à un accompagnement psychologique pour tous dès 3 ans
 sponsors:
   - /organisations/cnam
   - /organisations/solidarite-sante
-incubator: sgmas
+incubator: FabNum
 link: https://www.ameli.fr/assure/remboursements/rembourse/remboursement-seance-psychologue-mon-soutien-psy
 repository: https://github.com/SocialGouv/mon-psy-sante
 contact: support-monsoutienpsy.cnam@assurance-maladie.fr

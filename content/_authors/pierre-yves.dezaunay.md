@@ -4,7 +4,7 @@ fullname: Pierre-Yves Dezaunay
 role: Développement
 missions:
   - start: 2024-06-03
-    end: 2024-06-30
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:

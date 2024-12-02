@@ -1,6 +1,6 @@
 ---
 mission: Répondre à une demande de prise en charge médicale des patients fragiles non mobiles à domicile ou en établissement médico-social dans les zones prioritaires.
-incubator: sgmas
+incubator: FabNum
 title: Téléconsultation assistée
 contact: aurelie.manginot@fabrique.social.gouv.fr
 phases:

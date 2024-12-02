@@ -4,7 +4,7 @@ mission: Aider les archivistes et les agents des administrations à appréhender
 sponsors:
   - /organisations/service-interministeriel-des-archives-des-france
   - /organisations/solidarite-sante
-incubator: sgmas
+incubator: FabNum
 link: https://archifiltre.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/archifiltre-docs
 contact: archifiltre@fabrique.social.gouv.fr

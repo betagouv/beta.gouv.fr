@@ -4,7 +4,7 @@ mission: Recueillir les signalements d’ordre éthique sur l’utilisation du n
 sponsors:
   - /organisations/ans
   - /organisations/dns
-incubator: sgmas
+incubator: FabNum
 contact: Magali.ROBERT@esante.gouv.fr
 phases:
   - name: investigation
