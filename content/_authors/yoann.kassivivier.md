@@ -13,6 +13,7 @@ missions:
       - api-engagement
       - jeveuxaider
       - snu
+      - investigation-ij
   - start: 2022-07-01
     end: 2024-09-30
     status: independent
@@ -25,9 +26,6 @@ missions:
     employer: MALT
     startups:
       - api-engagement
-startups:
-  - investigation-ij
-  - api-engagement
 previously:
   - jeveuxaider
   - snu
