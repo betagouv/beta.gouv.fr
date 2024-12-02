@@ -1,6 +1,6 @@
 ---
 fullname: Mattéo LECLERCQ
-role: Développeur front-end sur J'agis
+role: Développeur sur J'agis
 domaine: Développement
 github: Matteo-OCTO
 link: https://www.linkedin.com/in/matteo-leclercq/

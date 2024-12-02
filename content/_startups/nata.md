@@ -3,7 +3,7 @@ title: NATA
 mission: 'Proposer aux femmes enceintes en précarité un parcours éclairé et sécurisant qui prend en compte leurs spécificités, potentialités et facteurs de vulnérabilité '
 sponsors:
   - /organisations/solidarite-sante
-incubator: sgmas
+incubator: FabNum
 contact: aurelie.manginot@fabrique.social.gouv.fr
 accessibility_status: non conforme
 phases:

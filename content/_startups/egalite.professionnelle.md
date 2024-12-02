@@ -3,7 +3,7 @@ title: Egapro
 mission: 'Calculer et transmettre l''index d''égalité professionnelle entre les femmes et les hommes '
 sponsors:
   - /organisations/mtei
-incubator: sgmas
+incubator: FabNum
 link: https://egapro.travail.gouv.fr
 repository: https://github.com/SocialGouv/egapro
 contact: index@travail.gouv.fr

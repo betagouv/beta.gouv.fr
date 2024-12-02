@@ -3,7 +3,7 @@ title: Code du travail numérique
 mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
 sponsors:
   - /organisations/dgt
-incubator: sgmas
+incubator: FabNum
 phases:
   - name: investigation
     start: 2017-12-01

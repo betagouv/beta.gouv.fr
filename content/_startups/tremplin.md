@@ -3,7 +3,7 @@ title: Tremplin
 mission: Rapprocher les professionnels de santé de leur futur territoire d’exercice
 sponsors:
   - /organisations/dgs
-incubator: sgmas
+incubator: FabNum
 events:
   - name: end
     date: 2020-01-01

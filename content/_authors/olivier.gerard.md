@@ -1,11 +1,11 @@
 ---
 fullname: Olivier GERARD
 domaine: Intraprenariat
-role: Intrapreneur REVA, Chef de projet
+role: Intrapreneur France VAE Chef de projet
 github: OliverGERARD
 missions:
   - start: 2021-05-16
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     startups:
       - reva

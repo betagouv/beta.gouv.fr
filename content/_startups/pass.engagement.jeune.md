@@ -3,7 +3,7 @@ title: Carte Jeune Engagé
 mission: Proposer aux jeunes en insertion des avantages sur des biens et services essentiels
 sponsors:
   - /organisations/dgefp
-incubator: sgmas
+incubator: FabNum
 contact: alameen.abdul@fabrique.social.gouv.fr
 accessibility_status: non conforme
 phases:

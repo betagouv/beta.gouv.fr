@@ -3,7 +3,7 @@ title: Jardin mental
 mission: Mieux connaître ses symptômes pour un meilleur accompagnement médical
 sponsors:
   - /organisations/solidarite-sante
-incubator: sgmas
+incubator: FabNum
 link: https://monsuivipsy.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/monsuivipsy
 contact: monsuivipsy@fabrique.social.gouv.fr

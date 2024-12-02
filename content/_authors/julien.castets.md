@@ -6,7 +6,7 @@ link: https://github.com/brmzkw
 github: brmzkw
 missions:
   - start: 2019-10-16
-    end: 2024-12-30
+    end: 2025-05-31
     status: independent
     employer: Scopopop
     startups:

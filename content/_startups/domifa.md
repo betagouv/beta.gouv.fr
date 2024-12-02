@@ -3,7 +3,7 @@ title: DomiFa
 mission: Faciliter l'accès aux droits pour les personnes sans domicile stable, en simplifiant la gestion de la domiciliation
 sponsors:
   - /organisations/dgcs
-incubator: sgmas
+incubator: FabNum
 events:
   - name: national_impact
     date: 2023-12-31

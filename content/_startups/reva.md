@@ -3,7 +3,7 @@ title: France VAE
 mission: Faciliter l'obtention d'un diplôme en Validation des Acquis d'Expérience (VAE)
 sponsors:
   - /organisations/mtei
-incubator: sgmas
+incubator: FabNum
 link: https://vae.gouv.fr
 contact: olivier.gerard@beta.gouv.fr
 phases:

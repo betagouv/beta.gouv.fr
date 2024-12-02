@@ -3,7 +3,7 @@ title: MANO
 mission: Service de soutien aux équipes mobiles visant à améliorer la vie des populations en rue et à favoriser leur réinsertion.
 sponsors:
   - /organisations/solidarite-sante
-incubator: sgmas
+incubator: FabNum
 link: https://mano.sesan.fr/
 repository: https://github.com/SocialGouv/mano/
 contact: guillaume.demirhan@sesan.fr

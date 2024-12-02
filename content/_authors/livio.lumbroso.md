@@ -1,6 +1,6 @@
 ---
 fullname: Livio Lumbroso
-domaine: Coaching
+domaine: Intraprenariat
 role: Intra/Coach
 github: LivioLumbroso
 link: https://www.linkedin.com/in/liviolumbroso/
@@ -13,6 +13,12 @@ missions:
     end: 2024-12-29
     status: admin
     employer: dinum
+  - start: 2024-12-23
+    end: 2027-12-31
+    status: admin
+    employer: SGPE
+    startups:
+      - france.nation.verte.agir
 startups:
   - ecobalyse
   - france.nation.verte.agir
@@ -27,5 +33,8 @@ badges:
   - segur
 competences:
   - Coaching
+  - Intrapreneur(se)
+  - Croissance
+  - Product strategy
 ---
 Entrepreneur entre 2 projets, particulièrement attiré par les problématiques énergie-climat et les projets à impact social et environnemental 🌳

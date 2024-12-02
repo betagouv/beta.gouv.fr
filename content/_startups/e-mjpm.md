@@ -3,7 +3,7 @@ title: e-MJPM
 mission: Trouver rapidement le bon professionnel pour les majeurs à protéger
 sponsors:
   - /organisations/dgcs
-incubator: sgmas
+incubator: FabNum
 link: https://emjpm.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/emjpm
 contact: support.emjpm@fabrique.social.gouv.fr

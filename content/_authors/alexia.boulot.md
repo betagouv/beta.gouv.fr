@@ -4,7 +4,7 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2021-03-08
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: NUMA
     startups:
@@ -17,4 +17,5 @@ previously:
   - jaden.gwadloup
   - acceslibre
 link: https://www.linkedin.com/in/alexia-boulot-5711002
+competences: []
 ---

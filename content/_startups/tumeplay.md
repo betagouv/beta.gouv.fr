@@ -3,7 +3,7 @@ title: TuMePlay
 mission: Accompagner les jeunes dans leur parcours d’apprentissage en santé sexuelle de manière ludique et fiable
 sponsors:
   - /organisations/dgs
-incubator: sgmas
+incubator: FabNum
 link: https://tumeplay.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/tumeplay
 contact: contact.tumeplay@fabrique.social.gouv.fr

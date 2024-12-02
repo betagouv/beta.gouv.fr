@@ -5,9 +5,10 @@ role: Développement
 github: C2Chandelier
 missions:
   - start: 2024-01-01
-    end: 2024-12-31
+    end: 2025-07-01
     status: service
     startups:
       - snu
 memberType: beta
+competences: []
 ---

@@ -28,6 +28,12 @@ missions:
     employer: Malt
     startups:
       - pacoupa
+  - start: 2024-11-18
+    end: 2025-02-28
+    status: independent
+    employer: Malt
+    startups:
+      - maestro
 badges:
   - segur
 startups:

@@ -5,7 +5,7 @@ domaine: Développement
 github: mmarchois
 missions:
   - start: 2022-10-17
-    end: 2024-12-31
+    end: 2025-04-30
     status: service
     employer: Fairness
     startups:

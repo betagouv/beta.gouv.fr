@@ -1,6 +1,6 @@
 ---
 mission: Faciliter l’accès aux informations disponibles sur les entreprises et les échanges entre les agents publics
-incubator: sgmas
+incubator: FabNum
 repository: https://github.com/SocialGouv/fce
 contact: bce@travail.gouv.fr
 usertypes:

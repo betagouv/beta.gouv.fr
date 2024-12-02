@@ -1,18 +1,19 @@
 ---
 fullname: Audrey de Maleprade
-role: Product Designer
-domaine: Design
+role: PO
+domaine: Produit
 github: Audrey-Avenel
 missions:
   - start: 2022-02-03
-    end: 2024-12-31
+    end: 2025-06-14
     status: independent
-    employer: Path Tech
+    employer: Malt
     startups:
       - territoires-en-transitions
 previously:
   - mobilic
 badges:
   - segur
+competences: []
 ---
-Product Designer et amatrice de kitesurf
+PO, Designer et amatrice de kitesurf

@@ -19,7 +19,7 @@ missions:
       - 1000.jours
       - fiche.commune.entreprise.fce
   - start: 2022-10-08
-    end: 2024-12-31
+    end: 2025-05-31
     status: independent
     startups:
       - deveco

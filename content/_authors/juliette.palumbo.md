@@ -9,7 +9,7 @@ missions:
     status: service
     employer: lazone/scopyleft
   - start: 2021-07-01
-    end: 2024-12-31
+    end: 2025-05-30
     status: service
     employer: lazone/scopyleft
     startups:

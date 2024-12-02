@@ -15,6 +15,12 @@ missions:
     employer: Dinum
     startups:
       - data.etat
+  - start: 2024-09-02
+    end: 2025-12-28
+    status: admin
+    employer: DINUM / MIOM / DITP
+    startups:
+      - pe-ate
 startups:
   - aidess
 badges:

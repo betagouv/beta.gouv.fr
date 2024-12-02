@@ -3,7 +3,7 @@ title: L'application du CEJ
 mission: Aider les jeunes les plus éloignés de l'emploi à trouver leur voie
 sponsors:
   - /organisations/dgefp
-incubator: sgmas
+incubator: FabNum
 repository: https://github.com/SocialGouv/pass_emploi_app
 contact: contact@pass-emploi.beta.gouv.fr
 usertypes:
@@ -24,7 +24,6 @@ accessibility_status: partiellement conforme
 thematiques:
   - Travail / Emploi
   - Jeunesse
-link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
 techno: []
 ---
 ## Le contexte

@@ -4,7 +4,7 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2024-02-13
-    end: 2024-12-01
+    end: 2025-01-31
     status: service
     employer: NUMA
     startups:
@@ -15,6 +15,12 @@ missions:
     employer: NUMA
     startups:
       - 1-jeune-1-arbre
+  - start: 2024-11-12
+    end: 2025-04-30
+    status: service
+    employer: NUMA
+    startups:
+      - icare-complements-alimentaires
 startups:
   - accesscite
   - 1-jeune-1-arbre

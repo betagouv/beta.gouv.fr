@@ -4,7 +4,7 @@ fullname: Barthelemy Fabry
 role: Déploiement
 missions:
   - start: 2024-04-29
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:

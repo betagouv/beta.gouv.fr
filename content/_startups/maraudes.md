@@ -1,7 +1,7 @@
 ---
 title: maraudes
 mission: Accompagner l'insertion des personnes à la rue
-incubator: sgmas
+incubator: FabNum
 sponsors:
   - /organisations/dgcs
 phases:

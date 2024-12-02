@@ -5,11 +5,16 @@ domaine: Design
 link: https://poulpux.com
 missions:
   - start: 2021-08-02
-    end: 2024-12-31
+    end: 2025-03-31
     status: independent
     employer: Scopyleft
     startups:
       - histologe
+  - start: 2022-10-03
+    end: 2023-10-31
+    status: independent
+    employer: Scopyleft
+    startups:
       - stop-punaises
 competences:
   - UX

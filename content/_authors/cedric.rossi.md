@@ -8,12 +8,16 @@ missions:
     end: 2022-08-31
     status: independent
     employer: Octo
+    startups:
+      - dora
   - start: 2022-09-01
     end: 2024-03-31
     status: admin
     employer: gip-inclusion
+    startups:
+      - dora
   - start: 2023-11-01
-    end: 2024-12-31
+    end: 2025-03-31
     status: independent
     employer: Malt
   - start: 2024-04-01
@@ -25,4 +29,5 @@ missions:
 startups:
   - dora
 link: https://www.linkedin.com/in/cedric-rossi/
+competences: []
 ---

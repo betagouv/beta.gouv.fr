@@ -11,7 +11,7 @@ phases:
     start: 2021-11-01
 link: https://mesads.beta.gouv.fr/
 repository: https://github.com/mesadsfr/mesads
-contact: equipe@le.taxi
+contact: equipe@mesads.beta.gouv.fr
 usertypes:
   - entreprise
   - etat
@@ -19,6 +19,7 @@ stats_url: https://mesads.beta.gouv.fr/chiffres-cles
 accessibility_status: non conforme
 thematiques:
   - Transports
+techno: []
 ---
 ## Problème investigué
 

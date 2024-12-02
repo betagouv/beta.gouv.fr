@@ -4,7 +4,7 @@ role: 'Experte métier insertion socio-professionnelle  '
 domaine: Déploiement
 missions:
   - start: 2023-05-11
-    end: 2024-12-31
+    end: 2025-04-30
     status: independent
     employer: la plateforme de l'inclusion
     startups:
