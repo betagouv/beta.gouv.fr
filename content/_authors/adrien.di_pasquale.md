@@ -18,8 +18,9 @@ missions:
     end: 2024-03-10
     status: independent
   - start: 2024-05-27
-    end: 2024-12-31
+    end: 2025-08-01
     status: independent
+    employer: Scopyleft
 previously:
   - collectif_objets
   - rdv-service-public

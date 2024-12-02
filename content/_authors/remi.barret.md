@@ -2,11 +2,11 @@
 fullname: Rémi Barret
 role: Développeur
 domaine: Développement
-link: https://terrab.net/fr/
+link: https://terrab.fr
 github: Remi81
 missions:
   - start: 2023-09-19
-    end: 2024-12-30
+    end: 2025-03-31
     status: independent
     employer: Malt
     startups:

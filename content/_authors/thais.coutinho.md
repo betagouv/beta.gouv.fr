@@ -5,7 +5,7 @@ domaine: Design
 github: thaisetcoutinho
 missions:
   - start: 2024-01-07
-    end: 2024-12-29
+    end: 2025-06-28
     status: admin
     employer: ANSM
     startups:

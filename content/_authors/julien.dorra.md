@@ -6,10 +6,11 @@ link: https://www.linkedin.com/in/juliendorra/
 github: juliendorra
 missions:
   - start: 2024-01-15
-    end: 2024-12-31
+    end: 2025-07-31
     status: service
-    employer: NUMA
+    employer: Malt
     startups:
       - donnees-spectacle
 memberType: beta
+competences: []
 ---

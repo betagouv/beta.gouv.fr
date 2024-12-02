@@ -5,7 +5,7 @@ role: Chargée de partenariats
 github: ClaireCasu
 missions:
   - start: 2021-01-15
-    end: 2024-12-31
+    end: 2025-08-31
     status: independent
     employer: Octo
     startups:

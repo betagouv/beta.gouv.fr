@@ -5,7 +5,7 @@ domaine: Produit
 github: emelinejy
 missions:
   - start: 2021-10-12
-    end: 2024-12-31
+    end: 2025-03-25
     status: admin
     startups:
       - territoires-en-transitions

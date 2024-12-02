@@ -6,20 +6,20 @@ github: nenj
 link: https://www.linkedin.com/in/nicolas-enjalbert/
 missions:
   - start: 2021-04-08
-    end: 2024-12-31
+    end: 2025-08-31
     status: independent
-    employer: Benext, NUMA
+    employer: Malt
     startups:
       - data-inclusion
       - envergo
-      - inclusion.connect
       - rdv.insertion
 competences:
   - Coaching
   - UX
   - Gestion de Produit
+  - Data Science
 previously:
   - l-application-du-cej
   - carnet.de.bord
 ---
-Designer de service & coach produit
+Coach produit, directeur produit, designer de service

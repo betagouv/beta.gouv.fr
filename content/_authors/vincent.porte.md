@@ -6,11 +6,12 @@ link: https://www.swiloh.com
 github: vincentporte
 missions:
   - start: 2022-01-17
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:
       - la.communaute.de.linclusion
       - les-emplois
+competences: []
 ---
 Entrepreneur Tech Data IA Menuisier le reste du temps

@@ -5,11 +5,14 @@ domaine: Déploiement
 github: arslanegharout
 missions:
   - start: 2023-05-17
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: malt
     startups:
+      - api-entreprise
       - api.gouv.fr
+      - api-particulier
+      - datapass
   - start: 2024-02-19
     end: 2024-08-19
     status: independent
@@ -22,4 +25,5 @@ startups:
 previously:
   - territoires-en-transitions
 memberType: beta
+competences: []
 ---

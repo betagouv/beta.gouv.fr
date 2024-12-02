@@ -6,9 +6,9 @@ role: Product Manager
 link: https://www.linkedin.com/in/mathieualonso/
 missions:
   - start: 2023-09-11
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
-    employer: Scopyleft
+    employer: Omnicite
     startups:
       - lannuaire.des.collectivites
 incubator: anct

@@ -13,7 +13,6 @@ missions:
       - api-engagement
       - jeveuxaider
       - snu
-      - investigation-ij
   - start: 2022-07-01
     end: 2024-09-30
     status: independent

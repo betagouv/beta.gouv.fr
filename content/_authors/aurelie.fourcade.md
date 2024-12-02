@@ -5,13 +5,14 @@ domaine: Produit
 github: aufavart
 missions:
   - start: 2021-05-20
-    end: 2024-12-31
-    status: service
+    end: 2025-03-31
+    status: independent
     employer: free
     startups:
       - reva
 previously:
   - pix
   - monstage
+competences: []
 ---
 Product Manager

@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2024-02-01
-    end: 2024-09-01
+    end: 2025-03-29
     status: admin
     employer: DGALN
     startups:

@@ -9,7 +9,7 @@ competences:
   - Développement Backend
 missions:
   - start: 2024-10-28
-    end: 2024-12-15
+    end: 2025-01-28
     status: independent
     employer: Malt
     startups:

@@ -5,12 +5,13 @@ domaine: Développement
 github: hmeneuvrier
 missions:
   - start: 2023-01-09
-    end: 2024-12-31
+    end: 2025-07-31
     status: independent
     employer: Scopyleft
     startups:
       - histologe
       - stop-punaises
 memberType: beta
+competences: []
 ---
 Développeuse PHP/JS

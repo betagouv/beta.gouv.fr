@@ -10,7 +10,7 @@ stats_url: https://mesevenementsemploi.pole-emploi.fr/mes-evenements-emploi/stat
 title: Mes événements emploi
 sponsors:
   - /organisations/francetravail
-link: https://mesevenementsemploi.pole-emploi.fr
+link: https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/
 stats: true
 dashlord_url: http://dashlord.incubateur.net/url/mesevenementsemploi-pole-emploi-fr
 events:
