@@ -1,7 +1,7 @@
 ---
 fullname: Delphine Raymond
 domaine: Coaching
-role: Coach Produit
+role: Coach Produit et Product Manager
 github: delphineray
 link: https://www.linkedin.com/in/delphineraymond/
 missions:
@@ -12,9 +12,9 @@ missions:
     startups:
       - potentiel
   - start: 2023-05-01
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
-    employer: NUMA + Malt
+    employer: Malt + Dynergie
     startups:
       - longuevieauxobjets
 incubator: mtes
@@ -29,4 +29,5 @@ competences:
   - Gestion de Produit
   - Coaching
 ---
-Coach produit & Product Manager
+J’aime créer et faire grandir des produits numériques, afin d'apporter toujours plus de valeur à leurs utilisateurs, et augmenter leur impact positif 🌳.
+J'aide les équipes produit, quelque soit leur taille, à se structurer et à se renforcer.

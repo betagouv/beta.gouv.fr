@@ -6,7 +6,7 @@ github: Nickvalley
 link: https://www.linkedin.com/in/nicolasvalleeademe/
 missions:
   - start: 2020-10-21
-    end: 2024-12-31
+    end: 2025-12-31
     status: admin
     employer: ADEME
     startups:

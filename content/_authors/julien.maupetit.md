@@ -6,7 +6,7 @@ link: https://julien.maupetit.me
 github: jmaupetit
 missions:
   - start: 2024-03-11
-    end: 2024-12-31
+    end: 2025-03-31
     status: independent
     startups:
       - qualicharge

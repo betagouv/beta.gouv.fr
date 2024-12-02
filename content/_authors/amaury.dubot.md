@@ -5,7 +5,7 @@ role: Déploiement - GIP Plateforme de l'inclusion
 github: amaurydubot
 missions:
   - start: 2021-03-01
-    end: 2024-12-31
+    end: 2025-08-31
     status: independent
     employer: Octo
     startups:

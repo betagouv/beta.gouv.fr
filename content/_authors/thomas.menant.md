@@ -11,8 +11,14 @@ missions:
     end: 2024-12-31
     status: independent
     employer: NUMA
+  - start: 2024-12-31
+    end: 2025-12-31
+    status: service
+    employer: NUMA
 previously:
   - preuve-de-covoiturage
   - api-particulier
+competences:
+  - Droit / Affaires juridiques
 ---
 Le droit c'est tordu.

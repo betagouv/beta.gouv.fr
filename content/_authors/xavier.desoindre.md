@@ -6,9 +6,9 @@ github: desoindx
 link: https://epicse.fr/
 missions:
   - start: 2021-05-03
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
-    employer: UT7
+    employer: ScopyLeft
     startups:
       - impact.co2
 previously:

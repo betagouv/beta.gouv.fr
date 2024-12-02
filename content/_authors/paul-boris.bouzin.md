@@ -5,7 +5,7 @@ domaine: Déploiement
 github: pbbouzin
 missions:
   - start: 2023-10-15
-    end: 2024-12-31
+    end: 2025-10-31
     status: independent
     employer: Mission interministérielle pour l'apprentissage
     startups:

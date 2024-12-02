@@ -6,10 +6,9 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2024-09-13
-    end: 2024-12-13
+    end: 2025-03-09
     status: admin
     employer: Scopyleft
     startups:
       - equipements-bio
 ---
-CM à l'Agence Bio, 24 ans

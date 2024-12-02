@@ -5,9 +5,16 @@ domaine: Développement
 github: cparthur
 missions:
   - start: 2022-06-20
-    end: 2024-12-31
+    end: 2025-05-31
     status: independent
     startups:
       - territoires-en-transitions
+link: https://www.linkedin.com/in/arthur-molinos/
+competences:
+  - Product design
+  - Développement Frontend
+  - JavaScript/TypeScript
+  - UI
+  - UX
 ---
-Développeur Front-End
+Développeur Front-End et designer produit

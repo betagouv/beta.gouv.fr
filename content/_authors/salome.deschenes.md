@@ -8,8 +8,10 @@ missions:
     end: 2021-06-29
     status: admin
     employer: DINUM
+    startups:
+      - urbanvitaliz
   - start: 2021-06-30
-    end: 2024-12-30
+    end: 2025-12-31
     status: independent
     employer: LBC
     startups:

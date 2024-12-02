@@ -16,7 +16,6 @@ missions:
     employer: DINUM
     startups:
       - data-subvention
-      - ma-cantine-egalim
   - start: 2024-03-13
     end: 2024-07-15
     status: admin

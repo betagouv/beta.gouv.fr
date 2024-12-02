@@ -1,12 +1,12 @@
 ---
 fullname: Nicolas Oudard
-role: Dev APiLos
+role: Lead Tech APiLos & Longue vie aux objets
 domaine: Développement
-link: http://blog.oudard.org
+link: https://techilearned.com
 github: kolok
 missions:
   - start: 2021-06-28
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:
@@ -16,5 +16,14 @@ previously:
   - sppnaut
 badges:
   - segur
+competences:
+  - Développement Backend
+  - Développement Frontend
+  - DevOps
+  - Développement Full-stack
+  - Docker
+  - JavaScript/TypeScript
+  - Python
+  - PostgreSQL
 ---
 Envie de créer pour l'interêt général

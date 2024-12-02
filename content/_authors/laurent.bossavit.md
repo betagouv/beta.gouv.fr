@@ -21,7 +21,7 @@ missions:
     startups:
       - suite.territoriale
   - start: 2024-08-05
-    end: 2024-12-31
+    end: 2025-02-28
     status: independent
     employer: Malt
     startups:

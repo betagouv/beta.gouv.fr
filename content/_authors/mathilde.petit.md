@@ -11,13 +11,13 @@ missions:
     startups:
       - peps
   - start: 2020-09-01
-    end: 2024-12-31
+    end: 2024-07-31
     status: independent
     employer: Scopyleft
     startups:
       - cartobio
   - start: 2024-09-13
-    end: 2024-12-13
+    end: 2025-12-31
     status: independent
     employer: Scopyleft
     startups:
