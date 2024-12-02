@@ -24,7 +24,6 @@ accessibility_status: partiellement conforme
 thematiques:
   - Travail / Emploi
   - Jeunesse
-link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
 techno: []
 ---
 ## Le contexte
