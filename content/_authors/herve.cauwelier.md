@@ -5,7 +5,7 @@ domaine: Développement
 github: bors-ltd
 missions:
   - start: 2020-11-16
-    end: 2024-12-30
+    end: 2025-01-31
     status: independent
     employer: Scopopop
     startups:

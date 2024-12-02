@@ -10,13 +10,13 @@ missions:
     startups:
       - manifnationales
   - start: 2024-07-01
-    end: 2024-12-30
+    end: 2025-03-01
     status: independent
     employer: Ministère de l'Intérieur
     startups:
       - gestion.subventions.locales
   - start: 2024-07-01
-    end: 2024-12-30
+    end: 2025-02-01
     status: independent
     employer: Ministère de l'Intérieur
     startups:

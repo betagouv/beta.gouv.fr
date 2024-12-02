@@ -4,7 +4,7 @@ fullname: Victoria Bocquet
 role: Coach Product
 missions:
   - start: 2024-04-03
-    end: 2024-12-31
+    end: 2025-06-28
     status: independent
     employer: Numa
     startups:

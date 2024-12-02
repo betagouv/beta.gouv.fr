@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/sebastienhoffmann/
 github: lespetitssuisses
 missions:
   - start: 2021-07-16
-    end: 2024-12-30
+    end: 2024-09-30
     status: independent
     startups:
       - l-immersion-facile

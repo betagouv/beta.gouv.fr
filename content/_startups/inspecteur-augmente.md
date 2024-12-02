@@ -14,12 +14,9 @@ sponsors:
   - /organisations/mtes
 phases:
   - name: investigation
-    comment: null
     start: 2024-04-04
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-11-29
 ---
 ## Contexte

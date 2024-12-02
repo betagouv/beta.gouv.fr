@@ -11,9 +11,18 @@ missions:
     status: independent
     employer: octo
   - start: 2022-01-01
-    end: 2024-12-31
+    end: 2024-03-31
     status: independent
     employer: scopyleft
+    startups:
+      - données-et-territoires
+      - umap
+  - start: 2024-04-01
+    end: 2025-06-30
+    status: independent
+    employer: LBC
+    startups:
+      - umap
 startups:
   - umap
 previously:
@@ -23,4 +32,5 @@ previously:
   - classe-a-12
   - egalite.professionnelle
   - données-et-territoires
+competences: []
 ---

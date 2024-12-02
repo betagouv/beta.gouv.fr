@@ -1,13 +1,12 @@
 ---
 fullname: Stéphanie Bourcier
-role: Chargée de déploiement
-domaine: Déploiement
+role: Responsable de partenariats - Fabrique des Ministères sociaux
+domaine: Développement
 missions:
-  - start: 2024-01-15
-    end: 2024-12-15
+  - start: 2023-10-01
+    end: 2025-01-31
     status: independent
     employer: Opteamis
-    startups:
-      - reva
 memberType: beta
+competences: []
 ---

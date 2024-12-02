@@ -21,7 +21,7 @@ missions:
     status: independent
     employer: Ippon
   - start: 2022-03-14
-    end: 2024-12-31
+    end: 2025-12-31
     status: admin
     employer: dinum
 incubator: dinum
