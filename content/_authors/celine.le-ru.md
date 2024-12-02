@@ -1,6 +1,6 @@
 ---
 fullname: Céline Le Ru
-domaine: Produit
+domaine: Coaching
 role: Coach Produit
 github: celinelr
 missions:
@@ -10,12 +10,6 @@ missions:
     employer: BENEXT
     startups:
       - e-mjpm
-  - start: 2022-04-01
-    end: 2023-05-01
-    status: service
-    employer: OCTO
-    startups:
-      - domifa
   - start: 2023-06-01
     end: 2024-05-01
     status: service
@@ -23,11 +17,14 @@ missions:
     startups:
       - promotion-de-profil-acceleree
   - start: 2023-06-23
-    end: 2024-12-31
+    end: 2025-03-31
     status: service
     employer: OCTO
     startups:
       - la-bonne-boite
+  - start: 2024-12-02
+    end: 2025-03-02
+    status: independent
 startups:
   - la-bonne-boite
 competences:

@@ -1,10 +1,10 @@
 ---
 domaine: Coaching
-fullname: Hugo Enjalbert
+fullname: Hugo Lebarrois
 role: Coaching
 missions:
   - start: 2024-04-11
-    end: 2024-12-30
+    end: 2025-12-31
     status: independent
     employer: Ground
 competences:

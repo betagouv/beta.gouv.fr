@@ -12,7 +12,7 @@ missions:
       - 1000.premiers.jours.blues
       - archifiltre
   - start: 2024-04-15
-    end: 2024-12-31
+    end: 2025-03-31
     status: service
     startups:
       - france-numerique-ensemble

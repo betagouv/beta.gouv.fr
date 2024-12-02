@@ -5,12 +5,34 @@ owner: /organisations/solidarite-sante
 logo: logo_fab_solidarite.png
 website: https://fabrique.social.gouv.fr/
 github: https://github.com/SocialGouv/
-contact: contact@fabrique.social.gouv.fr?subject=Incubateurs
-address: 39 quai andré Citroën, Paris 15e
+contact: contact@fabrique.social.gouv.fr
+address: 8 rue François ORY - 92160 MONTROUGE
 highlighted_startups:
-  - 1000.jours
-  - aides.jeunes
   - mano
+  - aides.jeunes
+  - 1000.jours
+  - egalite.professionnelle
+  - e-mjpm
+  - codedutravail
+  - pass.engagement.jeune
+  - nata
+  - bpco
+  - medle
+  - ozensemble
+  - recosante
+  - maison.de.lautisme
+  - archifiltre
+  - domifa
+  - monsuivipsy
+  - enfants-du-spectacle
+  - monpsy
+  - psyenfantado
+  - reva
+  - tumeplay
+  - workinfrance
+  - fiche.commune.entreprise.fce
+  - 1000.premiers.jours.blues
+  - l-application-du-cej
 ---
 Lancé en 2017, la fabrique des ministères sociaux travaille à **faciliter la vie des citoyens et des agents**.
 

@@ -10,6 +10,16 @@ missions:
     employer: Pathteck
     startups:
       - ecobalyse
+  - start: 2024-06-01
+    end: 2025-03-04
+    status: independent
+    employer: Scopyleft
+    startups:
+      - anais
 memberType: autre
+competences:
+  - Product design
+  - UX
+  - UI
 ---
 Designer

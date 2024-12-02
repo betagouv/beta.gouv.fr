@@ -5,14 +5,15 @@ domaine: Développement
 github: bjlaa
 missions:
   - start: 2022-09-07
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
-    employer: URSSAF
+    employer: Scopyleft
     startups:
       - nosgestesclimat
 badges:
   - segur
 previously:
   - mon-entreprise
+competences: []
 ---
 Développeur Front-End spécialisé en React. Fan de 🚲 🎸 🏊‍♂️  🚣

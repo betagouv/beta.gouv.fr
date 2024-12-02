@@ -1,7 +1,7 @@
 ---
 accessibility_status: partiellement conforme
 analyse_risques: false
-mon_service_securise: false
+mon_service_securise: true
 contact: peate@dxo-design.fr
 link: https://www.parapheur-peate.fr/
 stats_url: https://www.parapheur-peate.fr/
@@ -18,6 +18,8 @@ title: PeATE
 mission: Parapheur Electronique de l'Administration Territoriale de l'Etat
 incubator: dinum_produits_interministeriels
 sponsors:
+  - /organisations/dinum
+  - /organisations/ditp
   - /organisations/ministere-de-l-interieur-et-des-outre-mer-direction-des-ressources-humaines
   - /organisations/secretariat-general-aux-affaires-regionales-sgar-bretagne
 phases:
@@ -26,11 +28,11 @@ phases:
   - name: construction
     start: 2023-03-01
   - name: acceleration
-    start: 2024-03-01
+    start: 2024-09-01
 events:
   - name: product_launch
     date: 2023-03-01
-    comment: Mise en production locale
+    comment: Mise en production locale pour expérimentation de généralisation
 ---
 ## Contexte
 
@@ -53,5 +55,6 @@ Il contribue à l'objectif zéro papier et à réduire la production de CO2 de n
 
 La démarche PeATE a commencée en 2022, initialement appelée EPE pour Expérimentation du Parapheur Électronique en Bretagne. Elle s'inspire des méthodologies du design pour tester la mise en place du parapheur électronique dans des services déconcentrés de l'État, en Bretagne. En observant les utilisateur.ice.s et en cherchant à identifier leurs besoins nous identifions les usages qui vont évoluer et ainsi proposer une conduite du changement appropriée.
 
-Nous avons sélectionné la solution iXParapheur, éditée par SRCI (opérateur basé à Tours), car elle répond aux divers besoins de flexibilité et de paramétrage identifiés chez les utilisateurs.Les services expérimentateurs sont accompagnés d’une équipe de designers appliquant différentes méthodes permettant une conduite du changement sur-mesure. Ainsi, ils documentent et observent les agents pour capitaliser les retours d’expérience et concevoir des conditions de réussites pour les futurs déploiements.
+Nous avons sélectionné la solution iXParapheur, éditée par SRCI (opérateur basé à Tours), car elle répond aux divers besoins de flexibilité et de paramétrage identifiés chez les utilisateurs. Les services expérimentateurs sont accompagnés d’une équipe de designers appliquant différentes méthodes permettant une conduite du changement sur-mesure. Ainsi, ils documentent et observent les agents pour capitaliser les retours d’expérience et concevoir des conditions de réussites pour les futurs déploiements.
 
+En 2024, la dimension pleinement interministérielle de PeATE a été confirmée et donc le projet a basculé pleinement dans une trajectoire BetAGOUV OPI de l'Etat.

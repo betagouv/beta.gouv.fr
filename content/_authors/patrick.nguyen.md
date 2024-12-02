@@ -28,12 +28,13 @@ competences:
   - PostgreSQL
 memberType: beta
 ---
-Fullstack Software Engineer JavaScript/TypeScript
+Fullstack Software Engineer
 
-Je me spécialise dans la création de solutions JavaScript/TypeScript qui privilégient à la fois l'excellence technique et les besoins commerciaux.
+Spécialisé en solutions JavaScript/TypeScript, avec une approche centrée sur le produit tout en respectant les principes du software craftsmanship.
 
-Avec Node.js, en utilisant spécifiquement NestJS ou Express.js, j'architecture des systèmes backend robustes qui répondent aux besoins cruciaux du projet en question.
 
-Pour le frontend, j'utilise React et Angular pour concevoir des interfaces intuitives et élégantes.
 
-Mon approche tourne autour de la maintien de la qualité du code grâce au développement piloté par les tests, à des pratiques de codage propre et au respect des principes de l'architecture propre.
+
+
+
+

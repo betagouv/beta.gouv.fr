@@ -7,12 +7,13 @@ avatar: https://vinyll.github.io/images/avatar.jpg
 link: https://vinyll.neomad.org
 missions:
   - start: 2016-04-01
-    end: 2024-12-31
+    end: 2025-12-31
     status: service
     employer: lazone
     startups:
       - 1-jeune-1-arbre
       - api-drones
+      - brav-eau
       - classe-a-12
       - data.gouv.fr
       - eac
