@@ -11,6 +11,7 @@ describe Beta::Startup do
   let(:yml) do
     <<YAML
   title: Tartines
+  incubator: dinum
   mission: Réparer le monde
   phases:
     - name: investigation
@@ -20,7 +21,7 @@ YAML
 
   let(:data) { Psych.unsafe_load(yml) }
 
-  %w[title phases mission].each do |attr|
+  %w[title phases mission incubator].each do |attr|
     it "defines and updates a '#{attr}' attribute" do
       expect(startup.public_send(attr)).not_to be_nil
     end

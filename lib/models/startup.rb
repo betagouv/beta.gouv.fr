@@ -8,6 +8,6 @@ module Beta
   class Startup < Base
     FOLDER_IDENTIFIER = '_startups'
 
-    interesting :id, :title, :phases, :mission, :accessibility_status
+    interesting :id, :incubator, :title, :phases, :mission, :accessibility_status
   end
 end
