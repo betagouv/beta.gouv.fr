@@ -32,7 +32,7 @@ module Beta
   |   Startup.all.find { |s| s.title =~ /Tchap/ }                     |
   |   Member.all.count { |s| s.domaine == "Animation" }.count         |
   |                                                                   |
-  | Sinon partez du script fourni dans lib/pad.rb                     |
+  | D'autres exemples sont fournis dans lib/pad.rb                    |
   |--------------------------------------------------------------------
 EOF
 
