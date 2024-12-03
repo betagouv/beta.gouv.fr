@@ -35,5 +35,9 @@ module Beta
         phases.map { |p| p['name'] }.sort == upto.sort
       end
     end
+
+    def members
+      @members ||= Member.all.select { |member| member.active_startups.include? id }
+    end
   end
 end
