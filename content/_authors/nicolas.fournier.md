@@ -14,4 +14,6 @@ missions:
 previously:
   - pass-culture
 competences: []
+teams:
+  - /teams/sgmas
 ---

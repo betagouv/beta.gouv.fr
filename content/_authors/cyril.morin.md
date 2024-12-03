@@ -9,4 +9,5 @@ missions:
     startups:
       - transport
 competences: []
+link: https://www.linkedin.com/in/cyril-morin-b5178b217/
 ---
