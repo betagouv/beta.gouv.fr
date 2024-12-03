@@ -1,6 +1,6 @@
 ---
 fullname: Jessica Kossibale
-role: Développeuse frontend
+role: Développeuse
 domaine: Développement
 github: jessicakossibale
 competences:
@@ -12,4 +12,5 @@ missions:
     employer: LBC
     startups:
       - mon-devis-sans-oublis
+link: https://www.linkedin.com/in/jessicakossibale/
 ---

@@ -20,7 +20,7 @@ techno:
   - typescript
   - react
 title: NOMAD
-mission: Permettre à tous les agents publics de bénéficier d'espaces de vie au travail, partout en France.
+mission: Permettre à tous les agents de bénéficier d'espaces de vie au travail, partout en France.
 incubator: fabnumdef
 sponsors:
   - /organisations/armees
@@ -47,6 +47,7 @@ NOMAD permet aux agents d’obtenir la visibilité et les accès à tous les esp
 Pallier la saturation des bâtiments tertiaires de l’État grâce au partage des espaces 
 Répondre aux enjeux de Service Public + et du plan Fidélisation 360 en devenant plus attractif en proposant du travail NOMAD
 Améliorer la QVCT des agents en réduisant leurs temps de transports et en améliorant leur équilibre vie personnelle et professionnelle (Plan Famille du Ministère des Armées)
+NOMAD est porté par le SCA du ministère des Armées.
      
 
 ## Problème

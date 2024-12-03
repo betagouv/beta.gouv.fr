@@ -5,7 +5,7 @@ role: Coach
 github: jrayneau
 missions:
   - start: 2018-04-10
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     startups:
       - conseillers-entreprises
