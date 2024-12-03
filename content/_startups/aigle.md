@@ -4,7 +4,7 @@ mission: Faciliter la détection des constructions ou installations illégales p
 incubator: mtes
 title: 'AIGLE '
 contact: magali.migeon@herault.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 sponsors:
   - /organisations/ddtm34
   - /organisations/dgaln
@@ -15,6 +15,14 @@ phases:
     start: 2024-01-15
 thematiques:
   - Écologie
+  - Agriculture
+  - Collectivités
+  - Territoires
+stats_url: https://metabase.aigle.beta.gouv.fr/public/dashboard/b35fe033-9bb4-4f10-a0a8-bf5809383fba
+usertypes:
+  - collectivite-territoriale
+  - etat
+techno: []
 ---
 ## Contexte
 Le département de l’Hérault est affecté par des constructions ou installations d’habitat permanent ou temporaire dans les espaces agricoles, naturels et forestiers qui sont inconstructibles. Ces maisons, villas, caravanes, chalets, mobil-homes, yourtes… illégaux sont de plus en plus nombreux sur le littoral mais également à l’intérieur des terres. Ils posent des problèmes majeurs et mobilisent de forts moyens des pouvoirs publiques. 
