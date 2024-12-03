@@ -3,34 +3,45 @@
 require_relative 'models/member'
 require_relative 'models/startup'
 
-# ce script est fourni comme point de départ pour exécuter des
+# ce script est fourni comme point de départ/manuel pour exécuter des
 # requêtes plus compliquées sur la base de fiches membres/startups de
-# Beta.
+# Beta. Utiliser `make dsl` pour les exécuter.
 #
-# l'exemple ici : compter le nombre de startups sans coach. Ici on va
-# le faire en :
-#
-# 1. recensant tous les membres dont la fonction inclue "coach". On se
-# sert de `.role` (voir member.rb pour la liste complète des attributs
-# exposés), qu'on met en minuscule pour éviter les différences liées à
-# la casse casse
-coaches = Beta::Member.all.select { |member| member.role.downcase.include?('coach') }
+# -- exemple 1 : compter le nombre de startups sans coach
+Startup
+  .all
+  .select do |startup|
+  startup.members.count { |m| m.role.downcase.include?('coach') } == 1
+end
 
-# 2. prenant toutes les startups actives où ils officient. On se sert
-# de la méthode active_startups, puis on aplatit, on enlève les
-# valeurs nulles, et on supprime les doublons.
+# -- exemple 2 : trouver les startups incubées à la DINUM en construction avec un seul développeur
+Startup
+  .all
+  .filter { |s| s.incubator == 'dinum' }
+  .filter { |s| s.in_construction? } # rubocop:disable Style/SymbolProc
+  .filter { |s| s.members.count { |member| member.domaine == 'Développement' } == 1 }
 
-startups_with_coaches = coaches.map(&:active_startups).flatten.compact.uniq
+# -- exmple 3 : trouver tout les coaches qui ont plus de 3 startups passées (i.e n'y travaillent plus)
+Member
+  .all
+  .select { |m| m.domaine == 'Coaching' }
+  .select { |m| m.legacy_startups.count > 3 }
 
-# 3. maintenant on prend toutes les startups sans distinction, on
-# prend leur ID
+# -- exemple 4 : classer les prénoms des membres par fréquences
+Member
+  .all
+  .map { |m| m.fullname.split.first.capitalize }
+  .tally
+  .sort_by { |_name, count| count }
 
-all_startups = Beta::Startup.all.map(&:id)
+# -- exemple 5 : toutes les startups dont le nom contient "Mon/Ma/Mes"
+Startup
+  .all
+  .map(&:title)
+  .grep(/(\A|\s)m(on|a|es) /i) # start of the string \A or whitespace \s followed by m(on|a|es), case insensitive
 
-# 4. et on fait la différence
-
-startups_without_coaches = all_startups - startups_with_coaches
-
-# 5. le mieux pour explorer votre résultat :
-
-binding.irb # > startups_with_coaches.count
+# -- exemple 5 bis : la même chose sans regexp
+Startup
+  .all
+  .map(&:title)
+  .select { |title| title.split.map(&:downcase).intersect?(%w[mon ma mes]) }
