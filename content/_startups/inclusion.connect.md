@@ -13,7 +13,7 @@ accessibility_status: partiellement conforme
 stats: true
 stats_url: http://stats.inclusion.beta.gouv.fr/public/dashboard/8895a813-68d0-4d3a-a7e3-f71ef0615a52
 phases:
-  - name: acceleration
+  - name: alumni
     start: 2022-07-01
 thematiques:
   - Inclusion numérique
@@ -51,6 +51,10 @@ Tous les professionnels de l’inclusion. Comme les conseillers en insertion pro
 * Portail Emploi Lyon Métropole
 * eva
 * Académie France Travail
+* Insertis
+* Horizon
+* Parcours Solidarités
+* Les Bases
 
 Et grâce au mécanisme de la fédération d'identité les agents de Pôle emploi peuvent se connecter avec leurs identifiants NEPTUNE via Inlcusion Connect aux services cités ci-dessus.
 

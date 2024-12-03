@@ -26,13 +26,11 @@ missions:
       - simone-and-co
       - themis
       - trait-d-union
-  - start: 2024-09-30
-    end: 2024-12-31
+  - start: 2024-09-03
+    end: 2025-03-03
     status: independent
     startups:
-      - api.apprentissage
       - exposition-ij
-      - generateur.de.contrat.d.apprentissage
       - histologe
       - homologation
       - investigation-ij
@@ -41,6 +39,12 @@ missions:
       - pilotagevoiepro
       - sirius
       - stop-punaises
+  - start: 2024-09-30
+    end: 2024-12-31
+    status: independent
+    startups:
+      - api.apprentissage
+      - generateur.de.contrat.d.apprentissage
       - tdb-apprentissage
 previously:
   - cmachance

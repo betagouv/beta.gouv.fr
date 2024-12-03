@@ -1,5 +1,5 @@
 ---
-title: Je Deviens Etudiant
+title: Mon Logement Etudiant
 mission: Faciliter l'accès au logement et aux droits pour les étudiants
 sponsors:
   - /organisations/mesr

@@ -17,5 +17,7 @@ missions:
       - egalite.professionnelle
 memberType: autre
 competences: []
+teams:
+  - /teams/sgmas
 ---
 Entrepreneur

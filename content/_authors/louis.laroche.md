@@ -3,7 +3,7 @@ domaine: Coaching
 github: lslaroche
 missions:
   - start: 2023-04-24
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: NUMA
     startups:

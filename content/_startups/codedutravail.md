@@ -35,7 +35,7 @@ mon_service_securise: false
 ---
 ## Le contexte
 
-Ordonnance travail 2017 :
+L'ordonnance n° 2017-1387 du 22 septembre 2017 acte le lancement du Code du Travail Numérique  :
 « La version du code du travail numérique est mise en place au plus tard le 1er janvier 2020 en vue de permettre et faciliter l’accès à toute personne au droit du travail et aux dispositions législatives et réglementaires ainsi qu’aux stipulations conventionnelles applicables. L’accès à ce code se fait, de manière gratuite, au moyen du service public de la diffusion du droit par l'internet. »
 « L’employeur ou le salarié qui se prévaut des informations obtenues au moyen du code du travail numérique, est notamment en cas de litige présumé de bonne foi ».
 
@@ -44,24 +44,25 @@ Ordonnance travail 2017 :
 
 ## Le problème
 
-Le droit du travail est complexe à appréhender pour un non expert : 
--	Langage spécifique difficilement accessible 
--	Différentes sources de droit qu’il convient d’articuler pour identifier la réponse qui s’applique dans une situation donnée (code du travail, convention collective, accord d’entreprise etc.)
+Le droit du travail est une matière complexe à appréhender pour un non expert : 
+-	Un langage spécifique difficilement accessible 
+-	Différentes sources de droit qu’il convient d’articuler pour identifier la réponse qui s’applique dans une situation donnée (Code du travail, conventions collectives, accords d’entreprise, etc.)
 
 
 ## Notre solution
 
-Des contenus accessibles à tous (rédigés en “langage courant”), fiables (juridiquement juste) et personnalisables selon la situation de l’usager (convention collective de l’entreprise, catégorie professionnelle du salarié etc.)
+Un portail web qui offre :
+-	Des contenus accessibles à tous (rédigés en “langage courant”), fiables (juridiquement justes) et personnalisables selon la situation de l’usager (convention collective de l’entreprise, catégorie professionnelle du salarié, etc.)
+-	Des outils, tels que les simulateurs d’indemnités de licenciement et de rupture conventionnelle, qui prennent en compte les spécificités négociées au sein de chaque branche
+-	Des modèles de documents
+-	Une veille juridique
 
 ## Notre cible
 
-Salariés et employeurs de TPE/PME
+Les salariés et les employeurs de TPE/PME
 
 ## Notre mesure d’impact et les objectifs : 
-•	Nombre de visiteurs (objectif : 1,7 M /mois)
-
-•	Taux de sélection de convention collective (objectif : 70%)
-
-•	Taux de complétion (objectif : 70%)
-
-•	Taux de satisfaction (objectif : 70%)
+-	Le nombre de visites mensuelles (objectif pour 2024 : 2 millions de visites par mois)
+-	Le taux de sélection de convention collective (taux actuel : 25%)
+-	Le taux de complétion des outils (objectif : 70%)
+-	Le taux de satisfaction des usagers (objectif : 70%)

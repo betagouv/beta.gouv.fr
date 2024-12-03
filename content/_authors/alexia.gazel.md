@@ -5,9 +5,9 @@ role: Business developer
 github: AlexiaGazel
 missions:
   - start: 2019-09-05
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
-    employer: octo
+    employer: Malt / Little Big Connection
     startups:
       - aides-territoires
       - deveco
