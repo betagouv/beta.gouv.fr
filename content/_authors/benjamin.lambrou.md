@@ -9,12 +9,14 @@ missions:
     startups:
       - asso.cie
   - start: 2023-10-01
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
+    employer: Inops
 startups:
   - asso.cie
 previously:
   - tacct
   - accesscite
+competences: []
 ---
 Coach produit France Travail

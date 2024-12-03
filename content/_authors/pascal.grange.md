@@ -6,8 +6,9 @@ competences: []
 missions:
   - start: 2024-12-02
     end: 2025-06-02
-    employer: Omnicité
     status: independent
+    employer: Omnicité
     startups:
       - homologation
+github: pgrange
 ---

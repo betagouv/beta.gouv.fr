@@ -5,7 +5,7 @@ domaine: Développement
 github: P3rceval
 missions:
   - start: 2021-05-10
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: Scopopop
     startups:

@@ -9,12 +9,13 @@ missions:
     status: admin
     employer: dinum
   - start: 2021-09-01
-    end: 2024-12-31
+    end: 2027-12-31
     status: independent
     employer: malt
 startups:
   - api-entreprise
   - api-particulier
   - datapass
+competences: []
 ---
 Rails, Music, Fun and games. Such experience, much skill, very work.

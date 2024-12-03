@@ -14,8 +14,8 @@ competences:
 missions:
   - start: 2022-09-12
     end: 2027-11-30
-    employer: MinArm
     status: admin
+    employer: MinArm
     startups:
       - nomad
 ---

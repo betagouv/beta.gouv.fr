@@ -1,44 +1,36 @@
 ---
 title: Fabrique numérique des ministères sociaux
-short_description: Lancée en 2017, la fabrique des ministères sociaux travaille à <strong>faciliter la vie des citoyens et des agents</strong>.
+short_description: |-
+  Créée en 2017 et intégrée à la Direction du Numérique, la Fabrique Numérique est l’incubateur des startups d’État pour les ministères sociaux. Concrètement, elle intervient pour résoudre les principaux irritants dans les trois grandes politiques publiques :
+  - Travail et Emploi
+  - Santé et Accès aux soins
+  - Solidarités, Autonomie et Égalité entre les femmes et les hommes
 owner: /organisations/solidarite-sante
 logo: logo_fab_solidarite.png
 website: https://fabrique.social.gouv.fr/
 github: https://github.com/SocialGouv/
-contact: contact@fabrique.social.gouv.fr
+contact: dnum.fabrique@sg.social.gouv.fr
 address: 8 rue François ORY - 92160 MONTROUGE
 highlighted_startups:
-  - mano
-  - aides.jeunes
-  - 1000.jours
   - egalite.professionnelle
-  - e-mjpm
   - codedutravail
   - pass.engagement.jeune
-  - nata
-  - bpco
-  - medle
-  - ozensemble
-  - recosante
-  - maison.de.lautisme
-  - archifiltre
+  - l-application-du-cej
   - domifa
   - monsuivipsy
-  - enfants-du-spectacle
-  - monpsy
-  - psyenfantado
   - reva
-  - tumeplay
-  - workinfrance
-  - fiche.commune.entreprise.fce
-  - 1000.premiers.jours.blues
-  - l-application-du-cej
 ---
-Lancé en 2017, la fabrique des ministères sociaux travaille à **faciliter la vie des citoyens et des agents**.
+Créée en 2017 et intégrée à la Direction du Numérique, la Fabrique Numérique est l’incubateur des startups d’État pour les ministères sociaux. Concrètement, elle intervient pour résoudre les principaux irritants dans les trois grandes politiques publiques : 
+- Travail et Emploi
+- Santé et Accès aux soins
+- Solidarités, Autonomie et Égalité entre les femmes et les hommes
 
-Les intrapreneurs et intrapreneuses viennent de :
-* la direction du travail (DGT)
-* des directions régionales des entreprises
-* de la concurrence, de la consommation, du travail et de l’emploi (DIRECCTE)
-* de la direction génerale de la santé (DGS)
-* de la direction générale de la cohésion sociale (DGCS)
+En accélérant l'innovation et la transformation digitale dans ces domaines, la Fabrique crée un environnement unique, propice à la collaboration et à l’expérimentation.
+
+Notre mission :
+Accompagner des startups d’État qui répondent aux enjeux de politique publique en développant des solutions numériques concrètes, durables et évolutives.
+
+Nos engagements :
+- Un cadre technique rigoureux, garant de la qualité et de la conformité (RGPD, RGAA, RGS)
+- Une gestion budgétaire transparente pour chaque projet
+- Des équipes dédiées, mobilisées au service de solutions innovantes pour la société

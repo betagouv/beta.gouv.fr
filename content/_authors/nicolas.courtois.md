@@ -28,6 +28,12 @@ missions:
     employer: Malt
     startups:
       - maestro
+  - start: 2024-12-02
+    end: 2025-03-02
+    status: independent
+    employer: ' '
+    startups:
+      - je-deviens-etudiant
 startups:
   - snu
 previously:

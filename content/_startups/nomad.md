@@ -26,24 +26,18 @@ sponsors:
   - /organisations/armees
 phases:
   - name: investigation
-    comment: null
     start: 2022-09-12
-    end: null
   - name: construction
-    comment: null
     start: 2023-01-04
-    end: null
   - name: acceleration
-    comment: null
     start: 2024-09-12
-    end: null
 events:
   - name: product_launch
-    comment: Le service numérique est déployé depuis septembre 2024
     date: 2024-09-05
+    comment: Le service numérique est déployé depuis septembre 2024
   - name: other
-    comment: 'Inauguration du premier espace ETAP du MinArm : un espace de travail en flex office réaménagé par l''équipe NOMAD.'
     date: 2024-10-10
+    comment: 'Inauguration du premier espace ETAP du MinArm : un espace de travail en flex office réaménagé par l''équipe NOMAD.'
 ---
 
 

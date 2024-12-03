@@ -36,7 +36,10 @@ thematiques:
   - Open-Data
   - Inclusion numérique
   - Territoires
-techno: []
+techno:
+  - elixir
+  - postgresql
+stats_url: https://transport.data.gouv.fr/stats
 ---
 ## Le problème que résout transport.data.gouv.fr
 
