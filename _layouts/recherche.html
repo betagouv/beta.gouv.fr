@@ -120,7 +120,7 @@ layout: default
           title: "{{incubator.title}}",
           owner: "{{incubator.owner}}",
           content_url_encoded_markdown: "{{incubator.content_url_encoded_markdown}}",
-          short_description: "{{incubator.short_description | escape}}",
+          short_description: "{{incubator.short_description | strip_newlines | escape}}",
           website: "{{incubator.website}}",
           contact: "{{incubator.contact}}",
           address: "{{incubator.address}}",
