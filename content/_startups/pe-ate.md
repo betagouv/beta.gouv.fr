@@ -1,5 +1,5 @@
 ---
-accessibility_status: partiellement conforme
+accessibility_status: totalement conforme
 analyse_risques: false
 mon_service_securise: true
 contact: peate@dxo-design.fr
@@ -14,6 +14,10 @@ techno:
   - ixbus
   - postgresql
   - websocket
+  - 'SGDB '
+  - conteneur
+  - OIDIC
+  - ProConnect
 title: PeATE
 mission: Parapheur Electronique de l'Administration Territoriale de l'Etat
 incubator: dinum_produits_interministeriels
@@ -33,6 +37,7 @@ events:
   - name: product_launch
     date: 2023-03-01
     comment: Mise en production locale pour expérimentation de généralisation
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#PeATE
 ---
 ## Contexte
 
@@ -55,6 +60,7 @@ Il contribue à l'objectif zéro papier et à réduire la production de CO2 de n
 
 La démarche PeATE a commencée en 2022, initialement appelée EPE pour Expérimentation du Parapheur Électronique en Bretagne. Elle s'inspire des méthodologies du design pour tester la mise en place du parapheur électronique dans des services déconcentrés de l'État, en Bretagne. En observant les utilisateur.ice.s et en cherchant à identifier leurs besoins nous identifions les usages qui vont évoluer et ainsi proposer une conduite du changement appropriée.
 
-Nous avons sélectionné la solution iXParapheur, éditée par SRCI (opérateur basé à Tours), car elle répond aux divers besoins de flexibilité et de paramétrage identifiés chez les utilisateurs. Les services expérimentateurs sont accompagnés d’une équipe de designers appliquant différentes méthodes permettant une conduite du changement sur-mesure. Ainsi, ils documentent et observent les agents pour capitaliser les retours d’expérience et concevoir des conditions de réussites pour les futurs déploiements.
+Nous avons choisi de développer une solution PeATE (Parapheur Électronique de l'Administration Territoriale de l’État)  à partir de la solution iXParapheur et sa plateforme IXBUS, éditée par SRCI (opérateur basé à Tours), car elle répond aux divers besoins de flexibilité et de paramétrage identifiés chez les utilisateurs et des services de l'ATE et permet l'utilisation des fonctionnalités d'usage à l'état de l'art attendues pour un parapheur électronique. Les services expérimentateurs sont accompagnés d’une équipe de designers appliquant différentes méthodes permettant une conduite du changement sur-mesure pour transformer les organisations et continuer l'amélioration de l'outil. Ainsi, ils documentent et observent les agents pour capitaliser les retours d’expérience et concevoir des conditions de réussites pour les futurs déploiements. 
+Nous avons ainsi réalisé un livre de recette (méthode) sur les conditions de réussite du parapheur électronique : https://www.parapheur-peate.fr/documents-cles 
 
-En 2024, la dimension pleinement interministérielle de PeATE a été confirmée et donc le projet a basculé pleinement dans une trajectoire BetAGOUV OPI de l'Etat.
+En 2024, la dimension pleinement interministérielle de PeATE a été confirmée et donc le projet a basculé pleinement dans une trajectoire BetAGOUV OPI de l'Etat. Elle se déploie au niveau de l'ATE dont pour les directions régionales et dans les rectorats.
