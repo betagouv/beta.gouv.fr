@@ -5,8 +5,9 @@ role: Développeuse
 github: carolineBda
 missions:
   - start: 2021-05-03
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
+    employer: Opteamis
     startups:
       - codedutravail
       - monpsy

@@ -5,12 +5,13 @@ domaine: Développement
 github: mcalinghee
 missions:
   - start: 2022-05-16
-    end: 2024-12-31
+    end: 2025-02-28
     status: independent
     employer: Malt
     startups:
       - tchap
 badges:
   - segur
+competences: []
 ---
 Développeur Logiciel (Java, Python, VueJs..)
