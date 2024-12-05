@@ -13,6 +13,7 @@ const domaines = [
   "Développement",
   "Intraprenariat",
   "Produit",
+  "Support",
   "Data",
   "Autre",
 ];
