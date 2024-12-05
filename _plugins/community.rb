@@ -49,7 +49,8 @@ module Jekyll
           'Intraprenariat' => [],
           'Animation' => [],
           'Produit' => [],
-          'Data' => []
+          'Data' => [],
+          'Support' => []
         },
         'domaine' => {
           'Déploiement' => 0,
@@ -60,7 +61,8 @@ module Jekyll
           'Intraprenariat' => 0,
           'Animation' => 0,
           'Produit' => 0,
-          'Data' => 0
+          'Data' => 0,
+          'Support' => 0
         },
         'total' => 0
       }
