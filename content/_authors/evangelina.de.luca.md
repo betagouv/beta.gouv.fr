@@ -12,7 +12,7 @@ competences:
   - Coaching
 missions:
   - start: 2024-09-01
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: UT7
     startups:

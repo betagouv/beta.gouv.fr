@@ -38,7 +38,7 @@ Tous les professionnels de l’inclusion. Comme les conseillers en insertion pro
 
 ## Déploiement
 
-À ce jour, Inclusion Connect est déployé sur les services suivants :
+Inclusion Connect  a été déployé sur les services suivants :
 
 * Les emplois de l'inclusion
 * DORA
@@ -58,4 +58,8 @@ Tous les professionnels de l’inclusion. Comme les conseillers en insertion pro
 
 Et grâce au mécanisme de la fédération d'identité les agents de Pôle emploi peuvent se connecter avec leurs identifiants NEPTUNE via Inlcusion Connect aux services cités ci-dessus.
 
-Voici un lien direct vers nos statistiques d'usage : [Statistiques](http://stats.inclusion.beta.gouv.fr/public/dashboard/8895a813-68d0-4d3a-a7e3-f71ef0615a52)
+Avant la fusion avec ProConnect, Inclusion Connect a atteint 45 500 utilisateurs actifs mensuels (ie avec au moins une connexion par mois via Inclusion Connect) et 7 600 utilisateurs actifs mensuels sur plusieurs services (ie avec au moins une connexion par mois via Inclusion Connect sur au moins 2 services différents).
+
+## Fin de l'histoire - novembre 2024
+Après un peu plus de 2 années d'existence et de croissance, Inclusion Connect a fusionné avec ProConnect, la solution d'authentification des professionnels portée par la DINUM.
+L'objectif étant de gagner en lisibilité pour les utilisateurs (1 "Connect" unique pour les professionnels) et à mutualiser les investissements publics sur le sujet de l'authentification.

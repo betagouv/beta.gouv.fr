@@ -13,6 +13,6 @@ missions:
 incubator: mtes
 competences:
   - Administration Système
-  - Développement Backend
+  - Développement Full-stack
 ---
 Intégrateur au SNUM, développeur pour Résorption-Bidonvilles

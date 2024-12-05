@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2022-09-12
     end: 2025-09-11
-    employer: Ministère des Armées
     status: admin
+    employer: Ministère des Armées
     startups:
       - nomad
 ---

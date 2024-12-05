@@ -8,7 +8,7 @@ competences:
   - Droit / Affaires juridiques
 missions:
   - start: 2023-11-20
-    end: 2024-12-31
+    end: 2025-01-31
     status: admin
     employer: MIOM
     startups:

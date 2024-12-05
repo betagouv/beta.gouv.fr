@@ -1,17 +1,16 @@
 ---
 fullname: Clara Lanthiez
-domaine: Coaching
-role: Coach/Designer
+domaine: Design
+role: Designer
 github: claralanthiez
 link: http://www.collectifco.com/
 missions:
   - start: 2021-04-16
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
-    employer: Numa (ANCT)
+    employer: Scopyleft
 competences:
   - UX
   - UI
   - Product design
 ---
-Une phrase... impossible !

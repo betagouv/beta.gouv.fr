@@ -13,4 +13,6 @@ missions:
       - la.communaute.de.linclusion
 competences:
   - Communication
+teams:
+  - /teams/gip-inclusion
 ---
