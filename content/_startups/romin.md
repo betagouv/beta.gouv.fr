@@ -60,18 +60,19 @@ Quels outils vais-je utiliser pour chacun des facteurs de risque à travailler 
 Je consulte ROMIN 💻 ! 1 seul critère à renseigner : le facteur de risque de récidive. 
 
 J’accède à l’ensemble des outils d’intervention répertoriés. Je consulte la fiche-outil, je prends connaissance du temps nécessaire à la mise en œuvre, du mode d’emploi et je télécharge les supports nécessaires.
+Afin de garantir la captation du bon outil, ROMIN me guide dans les phases amont à l'intervention par l'aide en ligne à la planification de l'accompagnement et, sous peu, à l'exploration du profil de risque de récidive.
 
 ROMIN s’intègre à l’environnement professionnel des agents et constitue un équipement supplémentaire de soutien technique, en coordination avec les solutions existantes.
 
-La communauté professionnelle échange et parfait les outils partagés.
-La documentation méthodologique, accessible en permanence, offre une prise de recul aux professionnel.les garantissant un effet maximisé des interventions.
+La communauté professionnelle échange et parfait les outils et fonctionnalités partagés.
+La documentation méthodologique, accessible en permanence, offre une prise de recul aux professionnel.les garantissant un effet maximisé de l'accompagnement structuré de la personne condamnée.
 
 ## Prochaines étapes
 
-**ROMIN est en ligne et accessible aux premiers utilisateurs depuis avril 2023**. Leurs retours permettent des ajustements et le développement de nouvelles fonctionnalités adaptées à leurs besoins de terrain comme celui de partager des retours d’expérience.
+**ROMIN est en ligne et accessible aux premiers utilisateurs depuis avril 2023**. Leurs retours permettent des ajustements et le développement de nouvelles fonctionnalités adaptées à leurs besoins de terrain comme celui de profiter de retours d’expérience ainsi que de la mise en lien avec des collaborateurs à même de développer leurs savoir-faire.
 
-ROMIN donne accès à plus d'une soixantaine d’outils ciblés et ce volume continue de grandir en permanence. Sous peu, au-delà des outils mobilisables en entretien individuel, il donnera accès aux différents programmes connus et valorisera les supports dont l’impact positif a été démontré. 
+ROMIN donne accès à près de 70 outils ciblés et ce volume continue de grandir en permanence. Sous peu, au-delà des outils mobilisables en entretien individuel, il donnera accès aux différents programmes connus et valorisera les supports dont l’impact positif a été démontré. 
 
-Une trentaine de SPIP participent à l’expérimentation de ROMIN. Le déploiement de la solution numérique à plus grande échelle mobilisera d’abord nos meilleurs ambassadeurs avant de s’étendre à l’ensemble des agents.
+Une cinquantaine de SPIP participent à l’expérimentation de ROMIN. Le déploiement de la solution numérique à l'échelle nationale mobilisera de plus en plus nos meilleurs ambassadeurs sur le terrain, en directions interrégionales et au sein de l'administration centrale.
 
 **L’impact de ROMIN se mesure via les données statistiques de consultation auxquelles sont combinées les retours qualitatifs de nos utilisateurs**. Au-delà, les professionnel.les chargés du soutien technique (directeur.ice pénitentiaire d’insertion et de probation, psychologues en SPIP et unités de soutien métier) contribueront à mesurer notre participation globale à l’application du modèle efficace à la prévention de la récidive.

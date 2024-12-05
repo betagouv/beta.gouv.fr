@@ -15,6 +15,15 @@ missions:
     employer: Malt
     startups:
       - api-particulier
+      - datapass
+  - start: 2025-01-01
+    end: 2025-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - api-entreprise
+      - api-particulier
+      - datapass
 link: https://www.linkedin.com/in/jbfeldis/
 github: jbfeldis
 competences:

@@ -3,7 +3,7 @@ fullname: Fanny Cheung
 domaine: Développement
 role: Développeuse
 github: Ynote
-link: http://ynote.hk
+link: https://ynote.hk
 missions:
   - start: 2020-11-24
     end: 2021-09-30
@@ -11,8 +11,10 @@ missions:
     startups:
       - territoires-en-transitions
   - start: 2024-07-01
-    end: 2024-12-31
+    end: 2025-02-28
     status: independent
+    startups:
+      - pitchou
 startups:
   - pitchou
 previously:
