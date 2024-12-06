@@ -13,8 +13,7 @@ competences:
 missions:
   - start: 2024-12-02
     end: 2025-06-30
-    employer: Numa
     status: independent
-    startups: []
+    employer: Numa
 ---
 Designer et activiste. Conseiller en communication.

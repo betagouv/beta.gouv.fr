@@ -1,7 +1,7 @@
 ---
-mission: Améliorer le pilotage des places d'hébergement des demandeurs d'asile conventionnées
+mission: 'Améliorer la mise à disposition de places d''hébergement aux demandeurs d''asile '
 incubator: dinum
-title: Gestion des conventions de financement des places d'hébergement des demandeurs d'asile
+title: 'Conventions d''hébergement asile simplifiées '
 contact: thibault.desjardins@beta.gouv.fr
 thematiques:
   - Administratif
@@ -24,18 +24,20 @@ events:
 ---
 ## Contexte
 
-Le projet numérique a vocation à couvrir l’ensemble des missions liées au cycle de vie des 120 000 places d’hébergement conventionnées par les services de l’État et gérées par les opérateurs (associations) qui administrent 1 200 structures d’hébergement sur tout le territoire national.
+L'Etat finance environ 120 000 places d'hébergement pour demandeurs d'asile gérées par des opérateurs (associations....). Pour être financés, les opérateurs répondent à des appels à projet pour envisager la signature d'une convention. 
 
-Cet outil centré sur les lieux d’hébergement et leurs conventions, a vocation à numériser les process métiers liés à la politique d’hébergement des demandeurs d’asile et à faciliter le pilotage stratégique du parc d’hébergement. 
+Le parc compte aujourd'hui près de 120 000 places et 1 Md€ de budget. Le produit numérique a vocation à couvrir l’ensemble des missions liées au cycle de vie du parc d'hébergement (ouverture, fermeture de places, renouvellement de conventions...) auprès de 1 200 structures d’hébergement sur tout le territoire national.
 
-Dans le contexte d’une exigence plus forte assignée à la direction de l’asile sur le pilotage du parc d’hébergement, la startup d’État a vocation à réduire les délais d’ouverture des places par une accélération du conventionnement et d’optimiser la gestion du parc par un pilotage plus fin (lancement des appels à projet auprès des opérateurs ;  instruction des projets ; signature des conventions ; financement des places ; contrôle et inspection des prestations financées…).
+Cet outil centré sur les lieux d’hébergement et leurs conventions, a vocation à améliorer les process métiers liés à la politique d’hébergement des demandeurs d’asile et à faciliter le pilotage stratégique du parc d’hébergement. 
+
+En l'absence d'outil numérique dédié à la gestion contractuelle entre les services de l'Etat et les opérateurs, la startup d’État a vocation à réduire les délais d’ouverture des places par une accélération des délais administratifs (lancement des appels à projet auprès des opérateurs ;  instruction des projets ; signature des conventions ; financement des places ; contrôle et inspection des prestations financées…). Le produit numérique devra également cartographier le parc pour agir sur les leviers efficacité de la politique publique (analyse des coûts, évaluation des opérateurs...). 
 
 Ce pilotage complexe associe une multitude d’acteurs institutionnels (administration centrale, services régionaux et départementaux de l’Etat) et associatifs. Il pourra répondre aux objectifs de performance par la mise sur pied d’un outil numérique dédié en créant un point d’entrée et de suivi en commun des processus. La sécurisation des procédures administratives, l’accès centralisé aux informations utiles, la réduction des délais constituent les principaux enjeux du pilotage du parc d’hébergement.
 
 
 ## Problème
 
-Un projet SI pour répondre aux difficultés actuelles du pilotage du parc d’hébergement des demandeurs d'asile recensées lors d’une concertation avec les acteurs de terrain, futurs utilisateurs qui utilisent aujourd'hui des outils « maisons » de type tableur excel.
+Un produit numérique pour répondre aux difficultés actuelles du pilotage du parc d’hébergement des demandeurs d'asile recensées lors d’une concertation avec les acteurs de terrain, futurs utilisateurs qui utilisent aujourd'hui des outils « maisons » de type tableur excel.
 
 Problèmes majeurs : absence de convergence entre le délai administratif et le délai opérationnel, retardant l’ouverture effective des places ; absence d’outil de pilotage en temps réel pour le suivi d’un parc de places conséquent ayant des marges d’optimisation. 
 

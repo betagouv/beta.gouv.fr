@@ -1,53 +1,78 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: yowa.muzadi@mail.numerique.gouv.fr
+contact: yowa.muzadi@numerique.gouv.fr
 thematiques:
   - Open-Data
+  - Social
+  - Écologie
+  - Administratif
+  - Logement
+  - Santé
+  - Travail / Emploi
 usertypes:
   - particulier
   - etat
   - collectivite-territoriale
-title: droit.data.gouv.fr - simulateurs de droit
-mission: Structurer la représentation des lois et des règles en données et en code informatique exécutable (Rules as Code)
+title: aides-simplifiées
+mission: La bonne aide, au bon moment, au bon endroit
 incubator: dinum_produits_interministeriels
 sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
     start: 2024-09-02
+  - name: construction
+    start: 2024-12-09
 events:
-  - name: product_launch
-    date: 2024-09-02
+  - name: committee
+    date: 2024-12-04
 techno: []
 ---
-Ce produit est en investigation. 
-
 Vous êtes intéressé·e par :
-- Le concept de [Rules as Code](https://www.oecd.org/fr/publications/dechiffrer-le-code_027bac0e-fr.html), c'est-à-dire la traduction de la législation en code exécutable, ou encore par l'initiative "[Better Rules](https://www.digital.govt.nz/blog/what-is-better-rules/)"), 
-- Les simulateurs d'aides,
+- Les parcours de demande d'aides,
 - La transparence des normes et des règles de calcul utilisées dans les systèmes d'information,
+- Le concept de [Rules as Code](https://www.oecd.org/fr/publications/dechiffrer-le-code_027bac0e-fr.html), c'est-à-dire la traduction de la législation en code exécutable.
 
 ... ? N'hésitez pas à nous écrire à l'adresse mail de contact indiquée sur cette page (encart ci-contre).
 
 ## Contexte
 
-Au sein de la DINUM, l’opérateur de produits interministériels (OPI) met en place une équipe “droit.data.gouv.fr” qui s’emploiera à rendre libre et réutilisable la légilsation et la réglementation - en particulier, les règles d’attribution des aides sociales, aides environmentales, aides extra-légales - de l'échelle locale à l'échelle européenne.
-
-Les objectifs sont :
-* De publier, en open data, la norme en vigueur.
-* D’outiller les simulateurs et les systèmes d’instructions à partir des mêmes règles et des mêmes données.
-* D’accompagner la création et la modification de la règle ou de la donnée par des acteurs non techniques.
-* De paver la voie de la proactivité en proposant des services adaptés. 
+Au sein de l’Opérateur de Produits Interministériels (OPI) de la Direction Interministérielle du Numérique (DINUM), l’équipe aides-simplifiées s’est constituée en marge du CITP dédié à la simplification administrative (avril 2024). Son ambition : aller plus loin pour améliorer l’expérience usager dans les parcours d’accès aux aides grâce à une approche interministérielle.
 
 ## Problème
 
-La complexité normative rend très difficile la conduite de certains projets, personnels ou professionnels, et entrave l'accès à des aides ou des dispositifs (non recours). Par exemple : rénovation thermique / montant difficile à estimer des aides publiques, reprise d’un emploi / perte de ressources, etc.
+**1 - Contexte général.** Les parcours de demande d’aides sont freinés par :
+- une complexité normative,
+- des délais d’application souvent trop longs,
+- un taux élevé de non-recours (par exemple, 46 % en moyenne pour les aides au logement).
+
+**2 - Irritants principaux dans les parcours** de demande d’aides (écologie, santé, logement, social, etc.) :
+- Difficile de savoir à quoi on a droit et à combien.
+- Les démarches administratives sont fastidieuses.
+- Un besoin accru de pouvoir joindre un·e interlocuteur·rice.
+
+**3 - Sur les réponses apportées actuellement** : les simulateurs représentent une volonté inachevée de lutter contre le non recours aux aides, car ils restent souvent déconnectés du reste du parcours de demande d’aides. 
+
+**4 - Pour les administrations :** recenser, mettre à jour et modéliser les aides est chronophage. Il y a donc une forte attente en termes de mutualisation et collaobration.
+
+**Et si les simulateurs devenaient des leviers de simplification pour l’ensemble du parcours usager ?** 
 
 ## Solution
+
+aides-simplifiées c'est : la bonne aide, au bon moment, au bon endroit pour les citoyens et leurs aidants. 
+
+Nous développons des expériences de simulation intégrées là où les citoyens sont déjà, au moment où ils en ont besoin, tout en leur permettant de poursuivre leur parcours (prise de rendez-vous, accompagnement aux démarches).
+
+* **au bon moment** : l'équipe s'intéresse au parcours de vie de la personne - quel changement de situation vit-elle ? (ex. déménagement, difficultés à payer ses factures...)
+* **au bon endroit** : la priorité est de rendre facile et accessible l'intégration de nos services sur tous les sites où les gens sont déjà ou auprès de leurs interlocuteurs habituels
  
-Cette initiative s'inscrit dans la continuité des succès français en matière de Rules as Code, en s'appuyant sur l'expérience et les travaux de projets tels qu'OpenFisca, mesdroitssociaux.gouv.fr, le simulateur 1jeune1solution, mes-aides, Publi.codes, mon-entreprise, et d'autres.
+Pour cela, nous publierons en open data la modélisation des aides existantes et simplifierons leur mise à jour et leur réutilisation, y compris par des acteurs non techniques.
 
-La DINUM et la DILA collaborent avec pour objectif de fournir une expérience simple et personnalisée, allant de l'accès à l'information jusqu'à la simulation, et potentiellement jusqu'à l'instruction effective des demandes d'aides sur service-public.fr. Cette approche vise à être développée en partenariat avec l'ensemble des administrations en charge des normes, droits et dispositifs.
+## Objectifs à 6 mois
 
-Les contours du produit final font encore l'objet d'une investigation qui permettra de définir les fonctionnalités clés et les métriques d'impact de ce futur service.
+D’ici 6 mois, l’équipe s’engage à construire un parcours dédié à un moment de vie prioritaire.
+
+Nos cibles d’impact :
+- 2 000 simulations complétées avec éligibilité à au moins un dispositif d'aide.
+ - 200 prises de rendez-vous effectuées en fin de simulation.

@@ -7,7 +7,6 @@ competences:
 missions:
   - start: 2024-12-02
     end: 2025-12-31
-    employer: DNUM/DUT
     status: admin
-    startups: []
+    employer: DNUM/DUT
 ---

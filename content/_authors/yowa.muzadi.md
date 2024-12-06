@@ -1,6 +1,6 @@
 ---
 fullname: Yowa Muzadi
-role: Cheffe de produit droit.data.gouv.fr
+role: Cheffe de produit aides-simplifiées
 github: yowamuzadi
 domaine: Intraprenariat
 missions:
