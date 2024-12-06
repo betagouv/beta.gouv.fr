@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2024-12-09
     end: 2025-05-30
-    employer: Omnicité
     status: independent
+    employer: Omnicité
     startups:
       - homologation
 ---
