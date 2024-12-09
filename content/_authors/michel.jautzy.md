@@ -13,9 +13,10 @@ competences:
 missions:
   - start: 2024-12-06
     end: 2025-12-31
-    employer: DINUM
     status: independent
+    employer: DINUM
     startups:
+      - identite-numerique-agricole
       - plateforme-agriculteurs
 ---
 Entrepreneur passionné de dév web & d'intégration AI.

@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/maud-p%C3%A9tel-584761272/
 competences: []
 missions:
   - start: 2024-07-08
-    end: 2024-12-31
+    end: 2025-01-31
     status: independent
     employer: Scopopop
     startups:
