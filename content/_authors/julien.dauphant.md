@@ -1,7 +1,7 @@
 ---
 fullname: Julien Dauphant
 role: Directeur Technique et Produits
-link: https://twitter.com/jdauphant
+link: https://www.linkedin.com/in/juliendauphant/
 github: jdauphant
 missions:
   - start: 2016-11-03

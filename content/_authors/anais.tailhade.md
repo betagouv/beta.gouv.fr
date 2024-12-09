@@ -1,7 +1,7 @@
 ---
 fullname: Anais Tailhade
 role: 'Responsable Support '
-domaine: Autre
+domaine: Support
 github: Anais-Tailhade
 missions:
   - start: 2021-11-18

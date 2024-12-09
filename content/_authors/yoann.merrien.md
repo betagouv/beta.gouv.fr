@@ -1,7 +1,7 @@
 ---
 fullname: Yoann Merrien
 role: Chargé de support et de relations utilisateurs
-domaine: Autre
+domaine: Support
 github: YoannMerrien
 missions:
   - start: 2023-11-23

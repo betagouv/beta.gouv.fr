@@ -1,6 +1,6 @@
 ---
 fullname: Claire Duizabo
-role: Coach pour le programme FAST
+role: Coach
 domaine: Coaching
 missions:
   - start: 2023-01-09
@@ -9,15 +9,16 @@ missions:
     employer: Numa
     startups:
       - mano
+      - mon-suivi-social
       - nosgestesclimat
       - refugies.info
   - start: 2024-09-01
     end: 2025-07-13
     status: independent
-    employer: Numa
+    employer: MALT
     startups:
-      - mon-suivi-social
-      - sirius
+      - pacoupa
+      - plateforme-agriculteurs
 memberType: beta
 startups:
   - nosgestesclimat
@@ -29,5 +30,6 @@ previously:
   - 1000.premiers.jours.blues
 competences:
   - Coaching
+link: https://www.linkedin.com/in/claireduizabo/
 ---
-Coach FAST
+Experte FAST & Coach

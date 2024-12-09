@@ -21,6 +21,9 @@ stats_url: https://agentsenintervention.anct.gouv.fr/statistiques
 mon_service_securise: true
 usertypes:
   - collectivite-territoriale
+analyse_risques: true
+dashlord_url: https://dashlord.incubateur.anct.gouv.fr/
+techno: []
 ---
 ## Contexte
 
