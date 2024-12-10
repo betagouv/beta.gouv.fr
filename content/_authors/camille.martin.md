@@ -6,8 +6,8 @@ competences: []
 missions:
   - start: 2024-12-02
     end: 2025-12-31
-    employer: CGDD
     status: admin
+    employer: CGDD
     startups:
       - ecobalyse
 ---

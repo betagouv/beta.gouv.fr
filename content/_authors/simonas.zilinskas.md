@@ -13,8 +13,8 @@ competences:
 missions:
   - start: 2024-12-09
     end: 2025-05-09
-    employer: ut7
     status: independent
+    employer: ut7
     startups:
       - languia
 ---
