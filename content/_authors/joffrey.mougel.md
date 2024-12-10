@@ -10,7 +10,6 @@ missions:
     status: independent
     employer: Inops
     startups:
-      - dmat-iae
       - les-emplois
 previously:
   - pilotage.de.linclusion

@@ -1,6 +1,6 @@
 ---
 link: https://preprod.aigle.din.developpement-durable.gouv.fr/
-mission: Faciliter la détection des constructions ou installations illégales pour préserver les espaces agricoles, naturels et forestiers.
+mission: Un outil pour lutter contre la cabanisation et les détournements d’usages d’espaces naturels, agricoles et forestiers.
 incubator: mtes
 title: 'AIGLE '
 contact: magali.migeon@herault.gouv.fr
@@ -22,34 +22,73 @@ stats_url: https://metabase.aigle.beta.gouv.fr/public/dashboard/b35fe033-9bb4-4f
 usertypes:
   - collectivite-territoriale
   - etat
-techno: []
+techno:
+  - python
+  - typescript
+  - css
+budget_url: https://docs.google.com/spreadsheets/d/1oIHQ84QFqsGV8r0iqoZhQCcQIi4TGKJYIRNHtw4mLdU/edit?usp=sharing
+repository: https://github.com/MTES-MCT/aigle-api
 ---
 ## Contexte
-Le département de l’Hérault est affecté par des constructions ou installations d’habitat permanent ou temporaire dans les espaces agricoles, naturels et forestiers qui sont inconstructibles. Ces maisons, villas, caravanes, chalets, mobil-homes, yourtes… illégaux sont de plus en plus nombreux sur le littoral mais également à l’intérieur des terres. Ils posent des problèmes majeurs et mobilisent de forts moyens des pouvoirs publiques. 
-Ce phénomène est également appelé «  cabanisation » ou encore « détournement d’usages ».
+30 000, c’est le nombre de parcelles “cabanisées” dans le seul département de l'Hérault. Soit environ 30 000 hectares (trois fois la surface de Paris) concernés par ce fléau : des habitats permanents ou temporaires dans les espaces agricoles, naturels et forestiers inconstructibles et le plus souvent à risques inondation ou feux de forêt 
+
+500 à 1000 nouvelles parcelles sont “cabanisées” chaque année dans ce département. Mais il n’est pas le seul concerné. La cabanisation s’étend en France. 
+
 
 ## Problème
-On entend dire, on dit, il y de plus en plus de cabanisation, il y en a partout…  
-Mais combien ? Ou exactement ? Des caravanes ? Des maisons ? Combien en zone inondable ? À coté des rivières ? En fait on ne le sait pas vraiment. On en connaît par la délation, le repérage au hasard en cheminant en voiture et en regardant des heures sur google maps. 
-Et de ne pas avoir de vison global,  ça c’est un problème 
-Pour lutter efficacement, il faut connaître son « ennemi » et pouvoir mesurer son action, surtout quand les enjeux sont importants. 
-Et pour les constructions illégales, c’est bien le cas. Outre qu’il s’agit d’un délit, la cabanisation n’est pas sans conséquence, elle :
-    • expose les personnes aux risques d’inondation et de feux de forêts, sans possibilité d’intervention des secours (accès difficile, habitation non légale et par conséquent non connue)
-    • dégrade les espaces naturels, agricoles ou forestiers ainsi que les paysages et favorise la pollution des sols et de l’eau (déversement d’eaux usées, absence de collecte de déchets...)
-    • gaspille les terres agricoles (pollution, pression foncière, mitage...) et réduit les capacités de production
-    • peut engendrer des départs de feux et entraîner des dégâts considérables
-    • constitue un sentiment d’impunité et d’iniquité entre citoyens, face à la loi. 
-Les procédures judiciaires sont longues (plusieurs années), complexes et l’issue, tant de la décision de justice, que de son application reste incertaine. Elles mobilisent de nombreux acteurs notamment les services de l’Etat comme la DDTM (police urbanisme et service juridiques), et la DDFIP (recouvrement des astreintes), les forces de l’ordre (auditions), les parquets, les collectivités…  Des moyens humains et financiers considérables sont ainsi engagés pour une seule affaire. 
+
+### Pourquoi est-ce un problème
+
+Outre le fait qu’elle constitue un délit, la cabanisation a de nombreuses conséquences néfastes : 
+- Elle **expose les personnes aux risques** d’inondation et de feux de forêts, sans possibilité d’intervention des secours (accès difficile, habitation non légale et par conséquent non connue).
+- Elle **dégrade les espaces naturels**, agricoles ou forestiers ainsi que les paysages et favorise la pollution des sols et de l’eau (déversement d’eaux usées, absence de collecte de déchets…).
+- Elle entraîne le **gaspillage des terres agricoles** (pollution, pression foncière, mitage…) et réduit les capacités de production.
+- Elle peut engendrer des** départs de feux** et entraîner des dégâts considérables. 
+- Elle contribue au **sentiment d’impunité** et d’iniquité entre citoyens, face à la loi et provoque des tensions entre agents de collectivités ou élus et administrés 
+- Elle **coûte très cher**, en mobilisant de nombreux acteurs (la DDTM, la DDFIP, les forces de l’ordre, les parquets, les collectivités). Les procédures judiciaires sont longues de plusieurs années, complexes avec une issue incertaine. Des moyens humains et financiers considérables sont ainsi engagés pour une seule affaire.
+
+### Les freins à la lutte
+
+- Un manque de sensibilisation et d’information des citoyens et des comportements pas toujours vertueux (pas vu, pas pris)
+- Un laisser-faire des pouvoirs publics, du fait d’un manque de connaissance du problème, d’un manque de moyens, ou d’un manque de volonté
+- Une réglementation et des procédures longues et complexes
+
 
 ## Solution
-Grâce à l’outil AIGLE, il est désormais possible de repérer automatiquement, en faisant appel à l‘intelligence artificielle,   les constructions et installations illégales sur le territoire du département de l’Hérault. 
-Le principe est la comparaison de photos aériennes d’années différentes qui permet d’identifier des « objets » nouveaux ou déjà existants sur des parcelles sur lesquelles il ne devrait rien y avoir car inconstructibles. 
-L’ensemble des détections est représenté sur une cartographie du département avec des carrés de couleurs différentes représentants les différents types d’objets c’est à dire les caravanes, mobil-homes, constructions en dur, piscine et épaves de bateaux. A chaque objet est associé des données : parcelle, commune, zones à enjeux  (agricole, naturelle, inondable, feux de forêt…). 
-Avec AIGLE, on estime à 30000 le nombre parcelles cabanisées avec une progression de 500 à 1000/an. 
+Aigle, c’est un outil de détection automatique de parcelles détournées, qui fonctionne grâce à de l'intelligence artificielle appliquée à des images aériennes. Il repère des constructions en dur (maison, chalet, mazet…) , des mobils-home, des caravanes, des piscines, des bateaux. Muni d’une interface cartographique, il est pleinement intégré dans le process de lutte contre “la cabanisation” et peut être utilisé sur le terrain sur tablette.  
+
+Aigle permet aux collectivités et aux services de l’Etat de :
+- **Connaître l’ampleur du problème** sur l’ensemble d’un territoire, et **suivre son évolution** dans le temps, grâce à la détection automatique des parcelles détournées.
+- **Cibler et prioriser les contrôles** en croisant les détections avec des et des zones à enjeux (zones inondables, zones à risque d'incendie, zone naturelle remarquable, périmètre de captage d’eau potable, etc.).
+- D’envoyer des courriers aux contrevenants afin de **régler le problème le plus en amont possible**, grâce à l’impression de fiches de détection.
+- **Suivre le travail sur le terrain**, grâce à un système de statut de contrôle/verbalisation/astreintes administratives...
+
 
 ## Stratégie
-AIGLE a été développé depuis 2019 et est utilisé dans une version opérationnelle depuis 2022 par les agents de la DDTM 34. Les données ont été mises à disposition de certains partenaires et collectivités. 
-Aujourd'hui l'objectif est 
-* de mesurer si l'outil a un effet catalyseur sur l'action des communes
-* de mesurer si l'action est facilitée si on détecte au plus tôt. L'utilisation d'images satellites avec une récurrence de passage sera alors testée, car les photos aériennes ne sont disponibles que tous les 3 ans
-* de tester l'outil sur 3 autres départements
+
+### Historique
+AIGLE a été développé depuis 2019 et est utilisé dans une version opérationnelle depuis 2022 par les agents de la DDTM de l’hérault. Il est utilisé dans le Gard depuis 2023. Le projet a été repris par la Fabrique numérique en 2023.
+
+### 2024
+Les hypothèses suivantes ont été validées :
+
+**AIGLE permet de quantifier, qualifier et localiser le problème**
+
+Indicateurs : 30 000 parcelles détectées dans l’Hérault, dont 8500 pour lesquelles le délai de prescription n’est pas dépassé, et 5700 dans des zones à risque. (La prescription des constructions en dur est de 6 ans an pénal et de 10 ans au civil)
+
+**Connaître et mesurer le problème permet de déclencher la prise de conscience et la mobilisation des communes**	
+
+Indicateurs : 13 agents formés, 102 courriers envoyés et 110 visites sur le terrain sur les 12 communes de test.
+
+**Détecter au plus tôt permet d’intervenir au plus tôt et de favoriser la simple remise en état plutôt que les longues procédures**
+
+Indicateurs : 37% de remise en état après simple courrier ou visite, sur les 12 communes de test.
+
+**Détecter automatiquement les parcelles détournées et les prioriser permet d’être plus efficace sur le terrain**
+
+Indicateurs : efficacité des visites multiplié par 2
+
+### 2025
+Élargir notre impact sur le cas d'usage “cabanisation” en déployant sur 3 nouveaux départements (DDT(M)) et donner accès directement à l’outil à 80 collectivités (S1 2025).
+
+Élargir notre impact en testant l’outil sur d’autres usages comme les dépôts de déchets/inertes.

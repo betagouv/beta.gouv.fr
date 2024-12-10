@@ -4,7 +4,7 @@ role: 'Cheffe de projet-intrapreneuse '
 domaine: Intraprenariat
 missions:
   - start: 2021-08-16
-    end: 2025-12-30
+    end: 2024-12-31
     status: admin
     employer: ANCT
     startups:

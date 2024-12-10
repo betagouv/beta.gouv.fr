@@ -12,7 +12,7 @@ missions:
     startups:
       - suite-numerique
   - start: 2024-02-26
-    end: 2024-12-31
+    end: 2024-07-31
     status: service
     employer: Octo Technology
     startups:
