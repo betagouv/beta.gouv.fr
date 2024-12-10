@@ -20,6 +20,15 @@ phases:
     start: 2023-02-01
   - name: acceleration
     start: 2023-05-01
+mon_service_securise: true
+thematiques:
+  - Inclusion numérique
+usertypes:
+  - association
+  - particulier
+  - collectivite-territoriale
+techno:
+  - next.js
 ---
 ## Contexte
 

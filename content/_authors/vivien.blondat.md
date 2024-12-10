@@ -1,10 +1,10 @@
 ---
 fullname: Vivien Blondat
-role: Responsable des Opérations et du Support
+role: Responsable des Opérations et du Support en mission chez DossierFacile
 domaine: Autre
 missions:
   - start: 2021-03-27
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:
