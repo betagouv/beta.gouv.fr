@@ -1,6 +1,6 @@
 ---
 fullname: Roxann Khelif
-role: Chargée de déploiement &amp;amp; support utilisateur
+role: Chargée de déploiement et support utilisateur
 github: rkhelif
 domaine: Déploiement
 missions:

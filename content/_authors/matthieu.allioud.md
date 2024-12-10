@@ -4,7 +4,7 @@ domaine: Design
 role: UX Designer
 missions:
   - start: 2022-05-13
-    end: 2024-12-31
+    end: 2024-07-31
     status: service
     employer: Octo
     startups:

@@ -10,7 +10,6 @@ competences:
 missions:
   - start: 2024-12-09
     end: 2027-09-09
-    employer: Fabrique numérique des Armées
     status: admin
-    startups: []
+    employer: Fabrique numérique des Armées
 ---

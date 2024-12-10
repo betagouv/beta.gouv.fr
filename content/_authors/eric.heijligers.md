@@ -20,6 +20,12 @@ missions:
     employer: Fabrique numérique des ministères sociaux
     startups:
       - domifa
+  - start: 2023-01-02
+    end: 2024-07-31
+    status: admin
+    employer: Fabrique Numérique des Ministères Sociaux
+    startups:
+      - enfants-du-spectacle
   - start: 2024-05-01
     end: 2026-01-12
     status: admin

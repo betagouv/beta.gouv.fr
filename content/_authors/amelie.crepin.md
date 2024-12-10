@@ -6,7 +6,7 @@ domaine: Intraprenariat
 link: https://www.linkedin.com/in/amelie-crepin-361277130
 missions:
   - start: 2023-10-30
-    end: 2024-12-02
+    end: 2025-12-31
     status: admin
     employer: IGN
     startups:
