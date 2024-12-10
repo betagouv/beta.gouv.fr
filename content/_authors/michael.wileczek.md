@@ -11,7 +11,6 @@ missions:
     startups:
       - inclusion.connect
       - les-emplois
-      - reva
   - start: 2023-10-13
     end: 2025-04-30
     status: independent
@@ -19,8 +18,6 @@ missions:
     startups:
       - reva
 startups:
-  - inclusion.connect
-  - les-emplois
   - reva
 memberType: beta
 previously:
