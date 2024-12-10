@@ -45,10 +45,10 @@ layout: default
           </p>
           <p>
             Ce service numérique est sponsorisé par
-            {% for sponsorId in page.sponsors %}
+            {%- for sponsorId in page.sponsors -%}
               {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
               {% if forloop.index > 1 %}, {% endif %}{{sponsor.name}}
-            {% endfor %}
+            {%- endfor -%}
           </p>
           <p>
             {% if page.contact %}
