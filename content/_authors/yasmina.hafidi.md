@@ -24,4 +24,6 @@ missions:
 competences:
   - Intrapreneur(se)
   - Administration Publique
+teams:
+  - /teams/anct
 ---

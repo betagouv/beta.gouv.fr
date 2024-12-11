@@ -9,10 +9,15 @@ missions:
     end: 2020-03-15
     status: independent
     employer: La Zone
+    startups:
+      - mon-entreprise
   - start: 2020-12-01
     end: 2023-06-29
     status: independent
     employer: La Zone
+    startups:
+      - classe-a-12
+      - devoirs-faits-communaute
 startups:
   - classe-a-12
   - devoirs-faits-communaute

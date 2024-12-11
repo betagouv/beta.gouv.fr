@@ -16,6 +16,8 @@ missions:
     status: independent
     employer: DJEPVA
     startups:
+      - api-engagement
+      - sante-psy-etudiant
       - snu
   - start: 2024-03-14
     end: 2024-12-14
@@ -31,7 +33,7 @@ missions:
   - start: 2024-12-02
     end: 2025-03-02
     status: independent
-    employer: " "
+    employer: ' '
     startups:
       - je-deviens-etudiant
 competences:
@@ -40,5 +42,4 @@ competences:
   - UI
   - Product design
 ---
-
 UX/UI Designer

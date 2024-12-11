@@ -23,5 +23,4 @@ missions:
       - adaptation-au-changement-climatique-acc
 competences: []
 ---
-
 Coach, Designer de service

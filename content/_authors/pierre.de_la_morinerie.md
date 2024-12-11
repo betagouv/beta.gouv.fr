@@ -10,10 +10,14 @@ missions:
     end: 2019-12-04
     status: service
     employer: Codeurs en Liberté
+    startups:
+      - demarches-simplifiees.fr
   - start: 2019-12-19
     end: 2022-06-30
     status: service
     employer: Codeurs en Liberté
+    startups:
+      - demarches-simplifiees.fr
+competences: []
 ---
-
 Chasseur de bogues, amoureux des trains.

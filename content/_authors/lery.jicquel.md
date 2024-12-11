@@ -9,8 +9,8 @@ missions:
     status: admin
     employer: Cour des comptes
     startups:
-      - e-controle
       - dumas
+      - e-controle
   - start: 2020-03-01
     end: 2022-02-24
     status: admin
@@ -18,8 +18,8 @@ missions:
     startups:
       - aidess
       - inca
-      - mon-suivi-justice
       - infoparquet
+      - mon-suivi-justice
       - sndv_maritime
 badges:
   - segur
@@ -27,5 +27,4 @@ competences:
   - Administration Publique
   - Gestion de Produit
 ---
-
 In Bike I Trust. Toujours en équipe!

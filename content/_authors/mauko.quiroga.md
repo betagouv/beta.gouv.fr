@@ -24,6 +24,6 @@ missions:
     startups:
       - openfisca
       - transport
+competences: []
 ---
-
 Alles Ständische und Stehende verdampft.

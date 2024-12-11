@@ -11,6 +11,7 @@ missions:
     employer: Octo
     startups:
       - acceslibre
+      - egalite.professionnelle
   - start: 2021-07-15
     end: 2021-12-31
     status: independent
@@ -42,5 +43,4 @@ competences:
   - Django
   - JavaScript/TypeScript
 ---
-
 En quête de sens numérique

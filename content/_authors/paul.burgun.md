@@ -34,5 +34,4 @@ competences:
   - Croissance
   - Coaching
 ---
-
 J'aide les équipe à augmenter leur impact.

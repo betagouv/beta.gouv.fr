@@ -8,13 +8,18 @@ missions:
     end: 2020-01-28
     status: independent
     employer: pole-emploi
+    startups:
+      - memo
   - start: 2020-04-01
     end: 2025-06-30
     status: independent
     employer: mission-apprentissage
+    startups:
+      - la-bonne-alternance
 startups:
   - la-bonne-alternance
 previously:
   - memo
+competences: []
 ---
 Développeur full-stack, single page app monomaniac

@@ -13,6 +13,16 @@ missions:
     end: 2023-03-01
     status: admin
     employer: dinum
+    startups:
+      - auvol
+      - culture_amateurs
+      - data-subvention
+      - eac
+      - e-inspé
+      - histologe
+      - jeveuxaider
+      - psyenfantado
+      - sante-psy-etudiant
   - start: 2023-04-02
     end: 2025-09-30
     status: independent

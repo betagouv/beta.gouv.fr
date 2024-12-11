@@ -11,14 +11,20 @@ missions:
     end: 2020-05-13
     status: independent
     employer: Codeurs en Liberté
+    startups:
+      - andi
   - start: 2020-06-15
     end: 2021-09-30
     status: independent
     employer: octo
+    startups:
+      - les-emplois
+      - place-de-marche-inclusion
 startups:
   - les-emplois
   - place-de-marche-inclusion
 previously:
   - andi
+competences: []
 ---
 42

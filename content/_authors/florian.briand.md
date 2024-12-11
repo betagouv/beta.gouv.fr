@@ -9,9 +9,11 @@ missions:
     status: service
     employer: Liberté Living Lab
     startups:
+      - inca
       - mon-suivi-justice
       - reva
       - romin
+      - uvf-numerique
   - start: 2023-01-01
     end: 2025-01-31
     status: independent

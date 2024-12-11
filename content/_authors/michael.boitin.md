@@ -31,5 +31,4 @@ previously:
   - vigieau
 link: https://www.linkedin.com/in/michaelboitin/
 ---
-
 Ux designer A-JUST

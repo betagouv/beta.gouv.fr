@@ -17,6 +17,8 @@ missions:
     end: 2024-08-19
     status: independent
     employer: malt
+    startups:
+      - territoires-en-transitions
 startups:
   - api.gouv.fr
   - api-entreprise

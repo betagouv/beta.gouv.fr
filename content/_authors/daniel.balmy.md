@@ -7,6 +7,9 @@ missions:
     end: 2020-07-31
     status: admin
     employer: affaires-sociales
+    startups:
+      - comobi
+      - workinfrance
   - start: 2020-08-03
     end: 2024-12-31
     status: independent

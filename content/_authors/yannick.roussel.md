@@ -26,5 +26,4 @@ competences:
   - PostgreSQL
   - Facilitation
 ---
-
 Développeur web

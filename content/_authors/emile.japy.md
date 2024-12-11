@@ -13,6 +13,9 @@ missions:
     end: 2023-04-30
     status: independent
     employer: MALT
+    startups:
+      - l-application-du-cej
+      - pass.engagement.jeune
 startups:
   - l-application-du-cej
   - pass.engagement.jeune

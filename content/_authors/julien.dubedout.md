@@ -24,5 +24,4 @@ competences:
   - Product design
   - Accessibilité
 ---
-
 Designer, j'améliore l’expérience des agents et usagers du Service Public

@@ -24,6 +24,7 @@ thematiques:
   - Social
 usertypes: []
 techno: []
+stats_url: https://metabase.beta.francetravail.fr/public/dashboard/7eb440d5-4ca4-458f-8b86-5c8e6fead9c0
 ---
 ## Contexte
 

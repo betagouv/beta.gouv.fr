@@ -7,11 +7,16 @@ missions:
   - start: 2022-08-30
     end: 2024-01-31
     status: independent
-    employer: Opteamis NATA
+    employer: Opteamis
+    startups:
+      - nata
+      - teleconsultation.assistee
   - start: 2022-08-30
     end: 2024-12-31
     status: independent
-    employer: Opteamis BPCO Mieux
+    employer: Opteamis
+    startups:
+      - bpco
 startups:
   - nata
   - teleconsultation.assistee

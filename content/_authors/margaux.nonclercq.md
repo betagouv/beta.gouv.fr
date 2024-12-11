@@ -20,5 +20,4 @@ missions:
 competences:
   - Coaching
 ---
-
 Coach startup, outils no-code, spécialiste du numérique durable et responsable.

@@ -10,6 +10,10 @@ missions:
     end: 2023-01-04
     status: admin
     employer: dinum
+    startups:
+      - metiers-numeriques
+      - mon-entreprise
+      - pass-culture
 startups:
   - metiers-numeriques
 previously:
@@ -20,4 +24,5 @@ badges:
 github: jihanehrz
 teams:
   - /teams/animation-dinum
+competences: []
 ---

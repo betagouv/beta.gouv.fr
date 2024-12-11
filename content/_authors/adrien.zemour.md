@@ -9,10 +9,15 @@ missions:
     end: 2023-10-01
     status: independent
     employer: Fabrique numérique des ministères sociaux
+    startups:
+      - chauffage-urbain
+      - l-application-du-cej
   - start: 2023-10-02
     end: 2026-10-01
     status: admin
     employer: DINUM
+    startups:
+      - pacoupa
 startups:
   - pacoupa
 badges:

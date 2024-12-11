@@ -12,8 +12,13 @@ missions:
       - 1000.jours
       - 1000.premiers.jours.blues
       - archifiltre
+      - didoc
+      - egalite.professionnelle
       - enfants-du-spectacle
+      - fiche.commune.entreprise.fce
+      - medle
       - tumeplay
+      - workinfrance
   - start: 2020-11-06
     end: 2024-11-06
     status: admin

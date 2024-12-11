@@ -20,5 +20,4 @@ missions:
 badges:
   - segur
 ---
-
 Développeuse web. À quand les justices sociales et climatiques ?

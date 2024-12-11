@@ -8,6 +8,9 @@ missions:
     end: 2021-06-29
     status: admin
     employer: DINUM
+    startups:
+      - datagir
+      - la.bonne.renov
   - start: 2021-07-05
     end: 2025-06-30
     status: independent
