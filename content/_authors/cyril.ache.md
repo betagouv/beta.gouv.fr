@@ -16,8 +16,5 @@ missions:
     employer: LBC
     startups:
       - experts
-startups:
-  - mon-suivi-justice
-memberType: beta
 competences: []
 ---

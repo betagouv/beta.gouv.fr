@@ -19,6 +19,9 @@ missions:
       - deveco
       - la.communaute.de.linclusion
       - phytophare
+      - deveco
+      - la.communaute.de.linclusion
+      - acces.majeur.protege
   - start: 2024-02-14
     end: 2025-09-20
     status: independent
@@ -33,13 +36,7 @@ missions:
       - tabula
 badges:
   - segur
-startups:
-  - seves
-  - phytophare
-previously:
-  - deveco
-  - la.communaute.de.linclusion
-  - acces.majeur.protege
 competences: []
 ---
+
 Designer

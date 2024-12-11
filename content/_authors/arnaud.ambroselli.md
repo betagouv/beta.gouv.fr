@@ -29,8 +29,6 @@ missions:
     employer: Little Big Connection
     startups:
       - zacharie
-startups:
-  - mano
 badges:
   - segur
 competences:
@@ -48,4 +46,5 @@ competences:
   - Développement Frontend
   - DevOps
 ---
+
 Développeur

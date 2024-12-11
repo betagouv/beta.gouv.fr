@@ -23,12 +23,6 @@ missions:
     employer: DINUM
     startups:
       - vues-immersives-libres
-startups:
-  - vues-immersives-libres
-previously:
-  - anais
-  - ban
-  - disinfo
 github: cquest
 link: https://www.linkedin.com/in/cquest/
 competences:
@@ -37,4 +31,5 @@ competences:
   - PostgreSQL
   - Data Science
 ---
+
 Data addict, open, maker et récidiviste

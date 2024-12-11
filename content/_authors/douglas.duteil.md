@@ -21,14 +21,8 @@ missions:
     startups:
       - moncomptepro
       - proconnect
-startups:
-  - moncomptepro
-previously:
-  - e-mjpm
-  - codedutravail
-  - workinfrance
-  - domifa
-  - tremplin
+
 competences: []
 ---
+
 Living JS build tool.

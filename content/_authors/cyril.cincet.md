@@ -10,11 +10,8 @@ missions:
     startups:
       - candilib
       - psij
-startups: []
-previously:
-  - candilib
-  - psij
 competences:
   - Coaching
 ---
+
 Coach startup à l'incubateur du LabMI

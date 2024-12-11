@@ -16,6 +16,10 @@ missions:
       - mobiville
       - plateforme.rome.4-0
       - travailler.en.france
+      - mobiville
+      - encyclopedie-des-metiers
+      - mes-evenements-emploi
+      - la-bonne-formation
   - start: 2023-09-01
     end: 2024-12-31
     status: service
@@ -24,16 +28,6 @@ missions:
       - estime.formation
       - mes-aides-france-travail
       - travailler.en.france
-startups:
-  - travailler.en.france
-  - estime.formation
-  - mes-aides-france-travail
-previously:
-  - plateforme.rome.4-0
-  - mobiville
-  - encyclopedie-des-metiers
-  - mes-evenements-emploi
-  - la-bonne-formation
-competences: []
 ---
+
 Passionné par les technologies respectueuses de la biosphère.

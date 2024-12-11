@@ -17,10 +17,6 @@ missions:
     employer: Opteamis
     startups:
       - bpco
-startups:
-  - nata
-  - teleconsultation.assistee
-  - bpco
 memberType: beta
 competences:
   - Gestion de Produit

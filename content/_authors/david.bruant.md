@@ -23,11 +23,5 @@ missions:
     employer: LBC
     startups:
       - pitchou
-startups:
-  - pitchou
-previously:
-  - comobi
-  - urbanvitaliz
-  - recosante
 competences: []
 ---

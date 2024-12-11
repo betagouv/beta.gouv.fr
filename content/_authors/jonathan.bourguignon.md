@@ -17,11 +17,6 @@ missions:
     startups:
       - plusfraichemaville
 incubator: ademe
-startups:
-  - plusfraichemaville
-previously:
-  - euphrosyne
-  - beges
 competences:
   - Coaching
   - Gestion de Produit

@@ -19,15 +19,11 @@ missions:
   - start: 2024-06-03
     end: 2025-06-02
     status: independent
-    employer: 'Octo Malt '
+    employer: "Octo Malt "
     startups:
       - envergo
-startups:
-  - apilos
 badges:
   - segur
-previously:
-  - territoires-en-transitions
 link: https://www.linkedin.com/in/camille-canaple/
 competences:
   - Facilitation

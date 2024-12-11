@@ -14,9 +14,8 @@ missions:
     employer: gip-inclusion
     startups:
       - dora
-startups:
-  - dora
 competences:
   - Gestion de Produit
 ---
+
 Responsable produit (PO)

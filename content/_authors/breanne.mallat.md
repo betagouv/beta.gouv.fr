@@ -18,12 +18,6 @@ missions:
     employer: Dinum
     startups:
       - tous.a.bord
-startups:
-  - tous.a.bord
-previously:
-  - aides-territoires
-  - dossierfacile
-  - mon-entreprise
 teams:
   - /teams/animation-dinum
 competences: []

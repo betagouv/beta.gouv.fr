@@ -12,6 +12,7 @@ missions:
       - inca
       - mon-suivi-justice
       - reva
+      - inca
       - romin
       - uvf-numerique
   - start: 2023-01-01
@@ -20,13 +21,6 @@ missions:
     employer: Liberté Living Lab
     startups:
       - romin
-startups:
-  - romin
-previously:
-  - mon-suivi-justice
-  - inca
-  - reva
-  - uvf-numerique
 competences:
   - Coaching
   - Gestion de Produit
@@ -35,6 +29,7 @@ competences:
   - Développement Full-stack
 link: https://www.linkedin.com/in/florianbriand
 ---
+
 Mon parcours assez diversifié (bioinformaticien, développeur dans des startups de santé, entrepreneur ...) m'offre aujourd'hui un recul et des méthodes de travail qui me permettent de contribuer à faire avancer des projets qui ont du sens pour moi.
 
 Parfois les mains dans le code, parfois équipé de post-its pour de la facilitation, parfois devant un tableau blanc pour dessiner de futures fonctionnalités ou un tableau excel pour faire un prévisionnel, l'important reste pour moi de contribuer à faire avancer de beaux projets à impact.

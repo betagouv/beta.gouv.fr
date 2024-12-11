@@ -19,12 +19,9 @@ missions:
       - aquaculteurs.marins
       - inventaireoeuvres
       - tout-est-permis
-startups:
-  - tout-est-permis
-  - inventaireoeuvres
-  - aquaculteurs.marins
 badges:
   - segur
 competences: []
 ---
+
 Une designer entreprenante

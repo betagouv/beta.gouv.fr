@@ -22,18 +22,6 @@ missions:
     startups:
       - inventaire.friches.agricoles
       - vigieau
-startups:
-  - inventaire.friches.agricoles
-  - vigieau
-previously:
-  - dora
-  - la-bonne-boite
-  - estime
-  - la-bonne-formation
-  - zen
-  - les-emplois
-  - place-de-marche-inclusion
-  - la-bonne-alternance
 competences:
   - Product strategy
   - Coaching

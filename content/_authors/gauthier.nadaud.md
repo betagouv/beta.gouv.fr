@@ -26,17 +26,10 @@ missions:
     startups:
       - homologation
       - place-de-marche-inclusion
-startups:
-  - data-subvention
-  - ma-cantine-egalim
 badges:
   - segur
 teams:
   - /teams/fast-dinum
-previously:
-  - jafer
-  - mon-suivi-justice
-  - preuve-de-covoiturage
 link: http://www.linkedin.com/in/gnadaud
 competences:
   - Coaching
@@ -44,4 +37,5 @@ competences:
   - Product strategy
   - Communication
 ---
+
 Expert FAST à la DINUM // ex CEO & Founder d'une startup d'objets connectés (Smiirl).

@@ -18,15 +18,11 @@ missions:
     employer: DINUM
     startups:
       - pacoupa
-startups:
-  - pacoupa
 badges:
   - segur
-previously:
-  - l-application-du-cej
-  - chauffage-urbain
 teams:
   - /teams/animation-dinum
 competences: []
 ---
+
 On m'a vu dans le Vercors

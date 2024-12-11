@@ -27,20 +27,6 @@ missions:
       - agora
       - france.nation.verte.agir
       - nosgestesclimat
-startups:
-  - nosgestesclimat
-  - agora
-previously:
-  - annuaire-entreprises
-  - codedutravail
-  - mes-aides
-  - preuve-de-covoiturage
-  - classe-a-12
-  - enfants-du-spectacle
-  - ozensemble
-  - monsuivipsy
-  - resorption-bidonvilles
-  - domifa
 domaine: Design
 competences:
   - UX

@@ -13,7 +13,4 @@ missions:
     employer: MAS
     startups:
       - maraudes
-startups:
-  - maraudes
-competences: []
 ---

@@ -12,7 +12,4 @@ missions:
     status: independent
     startups:
       - demarches-simplifiees.fr
-startups:
-  - demarches-simplifiees.fr
-competences: []
 ---

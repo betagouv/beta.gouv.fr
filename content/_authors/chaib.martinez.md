@@ -36,22 +36,6 @@ missions:
     employer: Numa
     startups:
       - datalma
-startups:
-  - cnr
-  - demarches-simplifiees.fr
-  - tchap
-previously:
-  - demarches-simplifiees.fr
-  - trait-d-union
-  - cmachance
-  - diagoriente
-  - classe-a-12
-  - anti-gaspi-cantine
-  - metiers-numeriques
-  - acceslibre
-  - estime
-  - zero-logement-vacant
-  - jeveuxaider
 badges:
   - segur
 domaine: Coaching
@@ -69,4 +53,5 @@ competences:
 teams:
   - /teams/fast-dinum
 ---
+
 Transformation (numérique) de l'État . Accélérateur de start-up d'État

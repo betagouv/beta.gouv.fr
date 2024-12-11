@@ -15,9 +15,4 @@ missions:
     employer: Malt
     startups:
       - tchap
-startups:
-  - tchap
-previously:
-  - les-alpps
-competences: []
 ---

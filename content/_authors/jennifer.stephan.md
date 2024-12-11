@@ -17,6 +17,11 @@ missions:
       - ma-cantine-egalim
       - protege-toit
       - reperer.identifier.victimes.teh
+      - ellesfontlaculture
+      - pop
+      - datagir
+      - au-compost-mitoyen
+      - protege-toit
   - start: 2024-07-01
     end: 2038-11-19
     status: admin
@@ -25,16 +30,6 @@ missions:
       - icare-complements-alimentaires
       - ma-cantine-egalim
       - reperer.identifier.victimes.teh
-startups:
-  - ma-cantine-egalim
-  - icare-complements-alimentaires
-  - reperer.identifier.victimes.teh
-previously:
-  - ellesfontlaculture
-  - pop
-  - datagir
-  - au-compost-mitoyen
-  - protege-toit
 link: https://www.linkedin.com/in/stephanjennifer/
 competences:
   - Facilitation

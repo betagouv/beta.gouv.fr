@@ -16,9 +16,4 @@ missions:
     employer: octo
     startups:
       - tchap
-startups:
-  - tchap
-previously:
-  - acceslibre
-competences: []
 ---

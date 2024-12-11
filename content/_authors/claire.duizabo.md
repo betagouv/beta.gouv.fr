@@ -19,17 +19,11 @@ missions:
     startups:
       - pacoupa
       - plateforme-agriculteurs
-memberType: beta
-startups:
-  - nosgestesclimat
-  - refugies.info
-  - mano
 teams:
   - /teams/fast-dinum
-previously:
-  - 1000.premiers.jours.blues
 competences:
   - Coaching
 link: https://www.linkedin.com/in/claireduizabo/
 ---
+
 Experte FAST & Coach

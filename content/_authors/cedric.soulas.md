@@ -21,8 +21,7 @@ missions:
     employer: Malt
     startups:
       - reva
-startups:
-  - reva
 competences: []
 ---
+
 Développeur d’applications web et créateur de formations illustrées

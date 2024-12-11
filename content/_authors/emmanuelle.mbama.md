@@ -8,12 +8,10 @@ missions:
     status: independent
     startups:
       - mon-suivi-justice
-startups: []
-previously:
-  - mon-suivi-justice
 badges:
   - segur
 competences:
   - Communication
 ---
+
 À temps partiel chargée de déploiement, meme lord le reste du temps.

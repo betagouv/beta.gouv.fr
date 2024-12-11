@@ -16,11 +16,6 @@ missions:
     employer: Fabrique numérique des ministères sociaux
     startups:
       - egalite.professionnelle
-incubator: sgmas
-startups:
-  - egalite.professionnelle
-previously:
-  - e-controle
 badges:
   - segur
 competences:

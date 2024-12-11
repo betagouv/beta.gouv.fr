@@ -21,10 +21,4 @@ missions:
     startups:
       - les-emplois
       - pilotage.de.linclusion
-startups:
-  - les-emplois
-  - pilotage.de.linclusion
-previously:
-  - resorption-bidonvilles
-competences: []
 ---

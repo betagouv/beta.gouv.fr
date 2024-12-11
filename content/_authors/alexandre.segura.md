@@ -14,7 +14,4 @@ missions:
     employer: dinum
     startups:
       - mes-aides
-startups:
-  - mes-aides
-competences: []
 ---

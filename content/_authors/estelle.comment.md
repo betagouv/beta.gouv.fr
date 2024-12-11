@@ -26,11 +26,4 @@ missions:
     employer: Malt
     startups:
       - tchap
-startups:
-  - tchap
-previously:
-  - e-controle
-  - sante-psy-etudiant
-  - authentification
-competences: []
 ---

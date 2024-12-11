@@ -26,19 +26,17 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Malt
+    startups:
+      - mes-aides
+      - la-bonne-formation
+      - aides.jeunes
+      - la-bonne-alternance
   - start: 2024-03-11
     end: 2025-06-30
     status: independent
     employer: Malt
     startups:
       - monprojetsup
-startups:
-  - monprojetsup
-previously:
-  - mes-aides
-  - la-bonne-formation
-  - aides.jeunes
-  - la-bonne-alternance
 competences:
   - Gestion de Produit
   - Croissance

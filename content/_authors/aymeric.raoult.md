@@ -11,6 +11,10 @@ missions:
     startups:
       - apilos
       - carte-verte
+      - mobicouts
+      - dotations-locales
+      - qualite-eau
+      - non-recours-spie
   - start: 2024-02-21
     end: 2025-06-30
     status: service
@@ -24,16 +28,7 @@ missions:
     employer: Malt Octo
     startups:
       - mistral-penal
-startups:
-  - mistral-penal
-  - apilos
-  - carte-verte
 competences:
   - Coaching
-previously:
-  - mobicouts
-  - dotations-locales
-  - qualite-eau
-  - non-recours-spie
 link: https://www.linkedin.com/in/aymericraoult/
 ---
