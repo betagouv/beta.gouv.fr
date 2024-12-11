@@ -13,4 +13,5 @@ missions:
     startups:
       - carnet.de.bord
       - trait-d-union
+competences: []
 ---

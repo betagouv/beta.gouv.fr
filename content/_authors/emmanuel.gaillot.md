@@ -27,5 +27,4 @@ missions:
       - oots.once-only.technical.system
 competences: []
 ---
-
 Programmeur extrême & codexhibitionniste.

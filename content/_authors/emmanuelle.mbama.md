@@ -13,5 +13,4 @@ badges:
 competences:
   - Communication
 ---
-
 À temps partiel chargée de déploiement, meme lord le reste du temps.

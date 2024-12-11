@@ -24,6 +24,6 @@ missions:
       - estime.formation
       - mes-aides-france-travail
       - travailler.en.france
+competences: []
 ---
-
 Passionné par les technologies respectueuses de la biosphère.

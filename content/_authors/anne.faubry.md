@@ -24,5 +24,4 @@ competences:
   - Accessibilité
   - Écoconception
 ---
-
 UXUI designer

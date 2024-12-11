@@ -19,7 +19,7 @@ missions:
   - start: 2024-06-03
     end: 2025-06-02
     status: independent
-    employer: "Octo Malt "
+    employer: 'Octo Malt '
     startups:
       - envergo
 badges:

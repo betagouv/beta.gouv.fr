@@ -16,4 +16,5 @@ missions:
     employer: octo
     startups:
       - tchap
+competences: []
 ---

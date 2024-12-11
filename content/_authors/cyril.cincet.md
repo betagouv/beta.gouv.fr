@@ -13,5 +13,4 @@ missions:
 competences:
   - Coaching
 ---
-
 Coach startup à l'incubateur du LabMI

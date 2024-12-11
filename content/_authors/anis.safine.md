@@ -15,8 +15,6 @@ missions:
     employer: Malt
     startups:
       - camino
-
 competences: []
 ---
-
 Développeur full-stack javascript

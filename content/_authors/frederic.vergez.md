@@ -30,6 +30,5 @@ competences:
   - Python
   - Metabase
 ---
-
 Développeur / architecte ayant longuement pratiqué Java avant de passer à des choses plus sérieuses comme Clojure, Python ou Go.
 Appétence pour les base de données (Postgresql/Postgis et MongoDB), les systèmes de messaging et le traitement de données géographiques.

@@ -10,5 +10,4 @@ missions:
 competences:
   - UI
 ---
-
 UI/UX Designer

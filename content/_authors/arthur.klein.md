@@ -16,9 +16,7 @@ missions:
     startups:
       - audiodescription
       - icare-complements-alimentaires
-      - ma-cantine-egalim
 memberType: beta
 competences: []
 ---
-
 Designer et coach

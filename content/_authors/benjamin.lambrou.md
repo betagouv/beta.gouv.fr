@@ -18,5 +18,4 @@ missions:
       - asso.cie
 competences: []
 ---
-
 Coach produit France Travail

@@ -17,6 +17,6 @@ missions:
     employer: codeheroics
     startups:
       - mobiville
+competences: []
 ---
-
 Na Na Na Na Na Na Na Na Batman !

@@ -27,5 +27,4 @@ missions:
       - vues-immersives-libres
 competences: []
 ---
-
 Rust & transport & Panoramax

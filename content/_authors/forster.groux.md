@@ -18,5 +18,4 @@ missions:
       - cassiopee
 link: https://www.linkedin.com/in/forster-groux-14232580/
 ---
-
 Développeur passionné d'agilité et d'horizontalité

@@ -18,5 +18,4 @@ missions:
       - airvam
 competences: []
 ---
-
 développeur frontend

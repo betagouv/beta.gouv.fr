@@ -18,5 +18,4 @@ missions:
       - dora
 competences: []
 ---
-
 UX / Product Designer

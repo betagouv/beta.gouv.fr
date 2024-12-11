@@ -29,5 +29,4 @@ competences:
   - Accessibilité
   - UI
 ---
-
-UX/UI designer • Product designer
+UX/UI designer • Product designer 
