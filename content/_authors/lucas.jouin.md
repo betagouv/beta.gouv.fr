@@ -24,5 +24,4 @@ competences:
   - UX
   - UI
 ---
-
-UX Designer à Nantes
+UX Designer à Nantes 

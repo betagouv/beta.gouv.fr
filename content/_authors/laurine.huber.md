@@ -27,5 +27,4 @@ competences:
   - Matomo
   - PostgreSQL
 ---
-
 Happy Data Analyste et NLPyste :D

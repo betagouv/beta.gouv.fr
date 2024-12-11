@@ -10,12 +10,16 @@ missions:
     status: independent
     employer: octo
     startups:
+      - aides.jeunes
+      - camino
+      - leximpact
       - reformes-locales
   - start: 2024-04-29
     end: 2024-08-31
     status: independent
     employer: Ippon Technologies
     startups:
+      - leximpact
       - openfisca
   - start: 2024-06-09
     end: 2025-06-30
@@ -31,4 +35,5 @@ previously:
   - aides.jeunes
   - camino
   - dotations-locales
+competences: []
 ---

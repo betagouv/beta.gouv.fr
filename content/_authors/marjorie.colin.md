@@ -28,5 +28,4 @@ previously:
   - lannuaire.des.collectivites
   - mistral-penal
 ---
-
 Designer / coach

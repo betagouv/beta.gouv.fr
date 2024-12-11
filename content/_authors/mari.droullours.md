@@ -15,4 +15,5 @@ missions:
       - homologation
 badges:
   - segur
+competences: []
 ---

@@ -9,8 +9,8 @@ missions:
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:
-      - les-emplois
       - la.communaute.de.linclusion
+      - les-emplois
   - start: 2024-01-01
     end: 2025-12-31
     status: admin
@@ -19,4 +19,5 @@ missions:
       - place-de-marche-inclusion
 teams:
   - /teams/gip-inclusion
+competences: []
 ---

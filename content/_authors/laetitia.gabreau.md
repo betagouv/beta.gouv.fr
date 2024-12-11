@@ -8,8 +8,8 @@ missions:
     status: independent
     employer: Benext
     startups:
-      - psyenfantado
       - monpsy
+      - psyenfantado
   - start: 2021-11-01
     end: 2023-10-30
     status: independent
@@ -28,5 +28,4 @@ competences:
   - Gestion de Produit
   - Communication
 ---
-
 Passionnée par l'innovation sous toutes ses FoRmEs

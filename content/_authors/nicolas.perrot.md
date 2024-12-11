@@ -8,10 +8,14 @@ missions:
     end: 2020-10-31
     status: independent
     employer: lazone/scopyleft
+    startups:
+      - cartobio
   - start: 2021-10-05
     end: 2023-07-07
     status: independent
     employer: lazone
+    startups:
+      - dedale
   - start: 2024-01-18
     end: 2024-09-18
     status: independent

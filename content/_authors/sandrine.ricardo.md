@@ -20,5 +20,4 @@ domaine: Développement
 competences:
   - Développement Full-stack
 ---
-
 Développeuse pour projets écologiques et sociaux

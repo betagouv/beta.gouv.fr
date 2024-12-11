@@ -10,47 +10,32 @@ missions:
     end: 2017-08-31
     status: admin
     employer: dinum
-    startups:
-      - mes-aides
   - start: 2019-01-10
     end: 2019-02-28
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
-    staartups:
-      - mon-entreprise
   - start: 2019-03-01
     end: 2019-12-31
     status: admin
     employer: Ministère de l'Europe et des affaires étrangères
-    startups:
-      - fiches-de-banc
   - start: 2020-05-01
     end: 2020-12-31
     status: admin
     employer: Secrétariat général de la défense et de la sécurité nationale
-    startups:
-      - api.gouv.fr
   - start: 2021-03-15
     end: 2021-05-01
     status: independent
     employer: dinum
-    startups:
-      - openfisca
   - start: 2021-06-01
     end: 2022-03-31
     status: independent
     employer: ANCT
-    startups:
-      - disinfo
   - start: 2021-10-25
     end: 2025-04-01
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
     startups:
       - open-terms-archive
-      - aides.jeunes
-      - openfisca
 competences: []
 ---
-
 Ingénieur transdisciplinaire. Sceptique des aphorismes autobiographiques.

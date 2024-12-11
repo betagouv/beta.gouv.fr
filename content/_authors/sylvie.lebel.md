@@ -8,10 +8,14 @@ missions:
     end: 2021-06-30
     status: admin
     employer: pole-emploi
+    startups:
+      - zen
   - start: 2024-01-01
     end: 2024-12-31
     status: admin
     employer: pole-emploi
+    startups:
+      - l-immersion-facile
+competences: []
 ---
-
 Je m’attache à ce que chaque demandeur d’emploi comprenne et s’approprie les services de Pôle emploi. L’enthousiasme, la curiosité et l’innovation sont de bons moteurs !

@@ -10,6 +10,7 @@ missions:
     end: 2025-12-31
     status: independent
     startups:
+      - kelrisks
       - trackdechets
   - start: 2024-08-05
     end: 2025-06-30
@@ -23,5 +24,4 @@ competences:
   - Product design
   - Accessibilité
 ---
-
 Lead UX Designer

@@ -29,5 +29,4 @@ competences:
   - PHP
   - Matomo
 ---
-
 Développeuse fullstack

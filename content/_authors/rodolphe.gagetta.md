@@ -23,5 +23,4 @@ competences:
   - Facilitation
   - Croissance
 ---
-
 La curiosité comme moteur, j'ai l'enthousiasme comme essence.

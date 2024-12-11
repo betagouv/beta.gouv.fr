@@ -8,8 +8,8 @@ missions:
     end: 2025-12-31
     status: admin
     startups:
-      - psij
       - basegun
+      - psij
 competences:
   - Développement Frontend
   - Développement Backend

@@ -32,11 +32,10 @@ competences:
 memberType: beta
 link: https://www.linkedin.com/in/kounowski-julien-64885825/
 ---
-
-- De l'innovation sociale (2010) à l'innovation et la transformation publique (à ce jour)
+- De l'innovation sociale (2010) à l'innovation et la transformation publique (à ce jour) 
 
 - Créateur et responsable du SIILAB, laboratoire d'innovation publique territorial Etat des Hauts-de-France (fin 2016 à fin 2020)
 
-- Conseiller du Préfet de région au SGAR Bretagne sur l'innovation publique, la modernisation et le développement des usages numériques - administrateur des données de l'Etat en Bretagne - copilote Etat du Ti Lab, laboratoire d'innovation publique Etat- Région
+- Conseiller du Préfet de région au SGAR Bretagne sur l'innovation publique, la modernisation et le développement des usages numériques - administrateur des données de l'Etat en Bretagne - copilote Etat du Ti Lab, laboratoire d'innovation publique Etat- Région 
 
-- Intra-entrepreneur / product owner de produits numériques (actuellement) : DATA ETAT (https://www.dataregion.fr) , PeATE (https://www.parapheur-peate.fr), PorTreA (https://portrea.fr/)... AidESS (historiquement...)
+- Intra-entrepreneur / product owner de produits numériques (actuellement) : DATA ETAT (https://www.dataregion.fr) , PeATE (https://www.parapheur-peate.fr), PorTreA (https://portrea.fr/)...  AidESS (historiquement...)

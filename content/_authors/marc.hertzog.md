@@ -29,6 +29,6 @@ missions:
     employer: octo
     startups:
       - les-emplois
+competences: []
 ---
-
 Développeur web. Aime autant le front-end que le back-end :)
