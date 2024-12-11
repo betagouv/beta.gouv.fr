@@ -8,23 +8,24 @@ missions:
     end: 2020-02-29
     status: admin
     employer: Cour des comptes
+    startups:
+      - e-controle
+      - dumas
   - start: 2020-03-01
     end: 2022-02-24
     status: admin
     employer: beta.gouv
-startups:
-  - aidess
-  - inca
-  - mon-suivi-justice
-  - infoparquet
-  - sndv_maritime
-previously:
-  - e-controle
-  - dumas
+    startups:
+      - aidess
+      - inca
+      - mon-suivi-justice
+      - infoparquet
+      - sndv_maritime
 badges:
   - segur
 competences:
   - Administration Publique
   - Gestion de Produit
 ---
+
 In Bike I Trust. Toujours en équipe!

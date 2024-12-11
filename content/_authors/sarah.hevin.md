@@ -15,9 +15,8 @@ missions:
     status: independent
     startups:
       - envergo
-startups:
-  - l-application-du-cej
 badges:
   - segur
 ---
+
 UX Researcher freelance

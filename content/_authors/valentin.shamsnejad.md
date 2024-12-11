@@ -22,8 +22,6 @@ missions:
       - api-particulier
       - datapass
 incubator: dinum
-startups:
-  - valorisation.des.stages.pro
 competences:
   - Développement Frontend
   - Développement Backend

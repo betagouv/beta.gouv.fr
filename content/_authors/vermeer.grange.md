@@ -15,12 +15,7 @@ missions:
     employer: octo
     startups:
       - les-emplois
-startups:
-  - les-emplois
-  - pilotage.de.linclusion
-previously:
-  - la-bonne-alternance
-  - la-bonne-boite
 competences: []
 ---
+
 En année sabbatique, réfléchit au futur.

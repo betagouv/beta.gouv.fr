@@ -8,20 +8,22 @@ missions:
     end: 2021-03-04
     status: admin
     employer: dinum
+    startups:
+      - aplus
+      - leximpact
   - start: 2021-09-01
     end: 2021-11-01
     status: independent
     employer: Agence Nationale pour la Cohésion des Territoires
+    startups:
+      - boussole
   - start: 2022-10-01
     end: 2023-01-31
     status: independent
     employer: Agence Nationale pour la Cohésion des Territoires
-startups:
-  - openfisca
-previously:
-  - aplus
-  - boussole
-  - leximpact
-  - transport
+    startups:
+      - openfisca
+      - transport
 ---
+
 Alles Ständische und Stehende verdampft.

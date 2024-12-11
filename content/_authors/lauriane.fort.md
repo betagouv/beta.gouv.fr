@@ -16,11 +16,7 @@ missions:
     employer: Fairness
     startups:
       - vigieau
-startups:
-  - vigieau
 badges:
   - segur
-previously:
-  - ellesfontlaculture
 competences: []
 ---

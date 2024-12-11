@@ -15,9 +15,6 @@ missions:
     startups:
       - api-engagement
 github: margotqtl
-startups:
-  - jeveuxaider
-  - api-engagement
 memberType: beta
 competences: []
 ---

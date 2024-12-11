@@ -17,12 +17,8 @@ missions:
     employer: DINUM
     startups:
       - suite-numerique
-startups:
-  - suite-numerique
-previously:
-  - cnr
-  - tous.a.bord
 badges:
   - segur
 ---
+
 Développeuse web. À quand les justices sociales et climatiques ?

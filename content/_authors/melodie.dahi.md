@@ -8,32 +8,35 @@ missions:
     end: 2020-04-07
     status: admin
     employer: Secrétariat général du gouvernement
+    startups:
+      - setaccords
   - start: 2018-04-08
     end: 2020-09-30
     status: independent
     employer: lazone
+    startups:
+      - territoires-en-transitions
   - start: 2021-08-02
     end: 2021-10-22
     status: independent
     employer: Scopyleft
+    startups:
+      - zam
   - start: 2021-10-15
     end: 2022-02-28
     status: independent
     employer: Ippon
+    startups:
+      - visam
+      - pass.engagement.jeune
   - start: 2022-03-14
     end: 2025-12-31
     status: admin
     employer: dinum
+    startups:
+      - logement-crise
+      - valorisation.des.stages.pro
 incubator: dinum
-startups:
-  - valorisation.des.stages.pro
-previously:
-  - setaccords
-  - territoires-en-transitions
-  - zam
-  - visam
-  - pass.engagement.jeune
-  - logement-crise
 competences:
   - Coaching
   - Gestion de Produit

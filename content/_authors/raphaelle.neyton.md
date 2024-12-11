@@ -29,10 +29,6 @@ missions:
     startups:
       - brav-eau
 incubator: culture
-startups:
-  - collectif_objets
-previously:
-  - apilos
 badges:
   - segur
 competences:

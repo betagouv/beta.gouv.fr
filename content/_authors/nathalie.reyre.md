@@ -9,10 +9,16 @@ missions:
     end: 2019-08-30
     status: service
     employer: Pôle emploi
+    startups:
+      - la-bonne-formation
   - start: 2019-05-01
     end: 2023-02-28
     status: independent
     employer: Octo
+    startups:
+      - andi
+      - diagoriente
+      - snu
   - start: 2019-09-11
     end: 2020-05-13
     status: independent
@@ -23,13 +29,6 @@ missions:
     employer: Inop's
     startups:
       - l-immersion-facile
-startups:
-  - l-immersion-facile
-previously:
-  - la-bonne-formation
-  - andi
-  - snu
-  - diagoriente
 badges:
   - segur
 competences:
@@ -38,4 +37,5 @@ competences:
   - Intrapreneur(se)
   - Product strategy
 ---
+
 Je m'enflamme souvent quand un sujet m'intéresse...

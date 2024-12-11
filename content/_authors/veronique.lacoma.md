@@ -10,10 +10,4 @@ missions:
   - start: 2021-04-01
     end: 2023-12-30
     status: independent
-startups:
-  - avril
-  - deveco
-previously:
-  - eva
-  - reva
 ---

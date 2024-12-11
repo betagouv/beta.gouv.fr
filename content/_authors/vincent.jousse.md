@@ -19,10 +19,6 @@ missions:
     employer: PathTech
     startups:
       - ecobalyse
-startups:
-  - carnet.de.bord
-  - inclusion.connect
-  - les-emplois
 competences:
   - Python
   - Développement Backend

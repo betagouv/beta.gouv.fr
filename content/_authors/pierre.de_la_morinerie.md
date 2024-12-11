@@ -14,7 +14,6 @@ missions:
     end: 2022-06-30
     status: service
     employer: Codeurs en Liberté
-startups:
-  - demarches-simplifiees.fr
 ---
+
 Chasseur de bogues, amoureux des trains.

@@ -15,8 +15,6 @@ missions:
     employer: Pathtech
     startups:
       - mobilic
-startups:
-  - mobilic
 badges:
   - segur
 competences: []

@@ -16,8 +16,7 @@ missions:
     employer: Malt
     startups:
       - aidantsconnect
-startups:
-  - apilos
 competences: []
 ---
+
 développeuse web à la bonne humeur revendiquée !

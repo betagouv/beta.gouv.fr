@@ -17,11 +17,6 @@ missions:
     employer: Scopyleft
     startups:
       - données-et-territoires
-startups:
-  - données-et-territoires
-previously:
-  - zam
-  - visam
 competences:
   - Développement Full-stack
   - Développement Backend

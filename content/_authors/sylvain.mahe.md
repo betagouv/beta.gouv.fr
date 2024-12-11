@@ -16,10 +16,9 @@ missions:
     employer: LBC
     startups:
       - mistral-penal
-startups:
-  - infoparquet
 competences:
   - Développement Backend
   - Développement Frontend
 ---
+
 Développeur la semaine, Alpiniste le week-end.

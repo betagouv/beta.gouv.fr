@@ -13,8 +13,7 @@ missions:
     end: 2025-12-15
     status: independent
     employer: octo
-startups:
-  - demarches-simplifiees.fr
 competences: []
 ---
+
 Tech sur demarches-simplifiees.fr.

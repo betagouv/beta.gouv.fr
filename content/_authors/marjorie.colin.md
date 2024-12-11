@@ -19,8 +19,6 @@ missions:
     status: independent
     startups:
       - lannuaire.des.collectivites
-startups:
-  - sirius
 competences:
   - UX
   - Coaching
@@ -30,4 +28,5 @@ previously:
   - lannuaire.des.collectivites
   - mistral-penal
 ---
+
 Designer / coach

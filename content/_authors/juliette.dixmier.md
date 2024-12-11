@@ -22,10 +22,6 @@ missions:
     employer: Malt
     startups:
       - sites-faciles
-startups:
-  - eimis
-previously:
-  - tchap
 badges:
   - segur
 competences:

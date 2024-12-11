@@ -12,8 +12,4 @@ missions:
     end: 2022-10-31
     status: service
     employer: Pôle emploi
-startups:
-  - encyclopedie-des-metiers
-previously:
-  - labonneplace
 ---

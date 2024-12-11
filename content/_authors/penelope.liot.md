@@ -12,13 +12,6 @@ missions:
     end: 2026-10-01
     status: admin
     employer: DITP
-startups:
-  - agora
-previously:
-  - territoires-en-transitions
-  - mon-entreprise
-  - e-inspé
-  - plusfraichemaville
 competences:
   - Coaching
 ---

@@ -22,10 +22,6 @@ missions:
     employer: Michael Boitin EI
     startups:
       - vigieau
-startups:
-  - dossierfacile
-  - a-just
-  - vigieau
 competences:
   - UX
   - UI
@@ -35,4 +31,5 @@ previously:
   - vigieau
 link: https://www.linkedin.com/in/michaelboitin/
 ---
+
 Ux designer A-JUST

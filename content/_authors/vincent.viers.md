@@ -30,14 +30,6 @@ missions:
     employer: DINUM
     startups:
       - grist.numerique.gouv.fr
-startups:
-  - données-et-territoires
-  - pilotage.de.linclusion
-  - grist.numerique.gouv.fr
-previously:
-  - signaux-faibles
-  - disinfo
-  - a-just
 competences:
   - Intrapreneur(se)
   - Product design
@@ -50,4 +42,5 @@ competences:
   - Administration Publique
   - Coaching
 ---
+
 Data Dévelopeur & coach

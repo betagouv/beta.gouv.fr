@@ -12,13 +12,5 @@ missions:
     end: 2025-02-28
     status: independent
     employer: Malt
-startups:
-  - aides.jeunes
-previously:
-  - je-deviens-etudiant
-  - e-controle
-  - aides-territoires
-  - aidess
-  - trackdechets
 competences: []
 ---

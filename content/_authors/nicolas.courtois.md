@@ -31,19 +31,14 @@ missions:
   - start: 2024-12-02
     end: 2025-03-02
     status: independent
-    employer: ' '
+    employer: " "
     startups:
       - je-deviens-etudiant
-startups:
-  - snu
-previously:
-  - sante-psy-etudiant
-  - jeveuxaider
-  - api-engagement
 competences:
   - UX
   - Figma
   - UI
   - Product design
 ---
+
 UX/UI Designer

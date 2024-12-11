@@ -23,14 +23,5 @@ missions:
     employer: LBC
     startups:
       - umap
-startups:
-  - umap
-previously:
-  - ban
-  - api-drones
-  - la-bonne-formation
-  - classe-a-12
-  - egalite.professionnelle
-  - données-et-territoires
 competences: []
 ---

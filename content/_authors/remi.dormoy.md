@@ -12,9 +12,6 @@ missions:
     end: 2024-06-01
     status: service
     employer: Octo
-startups:
-  - agora
-previously:
-  - l-application-du-cej
 ---
+
 Footballeur amateur

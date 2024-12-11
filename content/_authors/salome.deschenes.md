@@ -17,11 +17,9 @@ missions:
     startups:
       - recommandations-collaboratives
       - urbanvitaliz
-startups:
-  - urbanvitaliz
-  - recommandations-collaboratives
 competences:
   - Communication
   - Administration Publique
 ---
+
 Un pied dans l'aménagement, un pied dans le numérique, les deux dans le service public!

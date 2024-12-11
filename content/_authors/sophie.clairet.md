@@ -21,10 +21,6 @@ badges:
 competences:
   - Communication
   - Administration Publique
-startups:
-  - umap
-previously:
-  - ban
-  - bases.adresses.locales
 ---
+
 Chargée de déploiement pour le programme uMap
