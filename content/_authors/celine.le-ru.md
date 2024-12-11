@@ -11,7 +11,6 @@ missions:
     startups:
       - domifa
       - e-mjpm
-      - domifa
   - start: 2023-06-01
     end: 2024-05-01
     status: service

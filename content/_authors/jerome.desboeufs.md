@@ -34,7 +34,6 @@ missions:
       - prelevements.deau
       - urbaclic
       - vigieau
-      - pcrs
 competences:
   - Croissance
   - Product strategy

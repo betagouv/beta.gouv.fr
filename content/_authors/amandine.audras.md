@@ -40,6 +40,4 @@ missions:
       - annuaire-entreprises
       - moncomptepro
       - proconnect
-      - moncomptepro
-      - annuaire-entreprises
 ---

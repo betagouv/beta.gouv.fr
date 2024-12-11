@@ -16,10 +16,6 @@ missions:
       - mobiville
       - plateforme.rome.4-0
       - travailler.en.france
-      - mobiville
-      - encyclopedie-des-metiers
-      - mes-evenements-emploi
-      - la-bonne-formation
   - start: 2023-09-01
     end: 2024-12-31
     status: service

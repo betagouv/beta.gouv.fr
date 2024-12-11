@@ -29,7 +29,6 @@ missions:
     startups:
       - inventaire.zae
       - je-deviens-etudiant
-      - inventaire.zae
 competences:
   - Coaching
 ---

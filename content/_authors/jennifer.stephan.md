@@ -15,13 +15,9 @@ missions:
       - ellesfontlaculture
       - icare-complements-alimentaires
       - ma-cantine-egalim
+      - pop
       - protege-toit
       - reperer.identifier.victimes.teh
-      - ellesfontlaculture
-      - pop
-      - datagir
-      - au-compost-mitoyen
-      - protege-toit
   - start: 2024-07-01
     end: 2038-11-19
     status: admin

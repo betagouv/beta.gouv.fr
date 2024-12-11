@@ -20,8 +20,6 @@ missions:
       - la.communaute.de.linclusion
       - phytophare
       - deveco
-      - la.communaute.de.linclusion
-      - acces.majeur.protege
   - start: 2024-02-14
     end: 2025-09-20
     status: independent

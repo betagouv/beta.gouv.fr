@@ -12,7 +12,6 @@ missions:
       - inca
       - mon-suivi-justice
       - reva
-      - inca
       - romin
       - uvf-numerique
   - start: 2023-01-01
