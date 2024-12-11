@@ -16,11 +16,9 @@ missions:
     employer: malt
     startups:
       - chauffage-urbain
-startups:
-  - les-emplois
-  - chauffage-urbain
 badges:
   - segur
 competences: []
 ---
+
 UI designer au service premier de l'utilisateur !

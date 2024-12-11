@@ -14,8 +14,6 @@ missions:
     employer: La Zone
     startups:
       - demarches-simplifiees.fr
-startups:
-  - demarches-simplifiees.fr
-competences: []
 ---
+
 De l'ops, du dev, à la sauce libre: pas le temps de s'ennuyer.

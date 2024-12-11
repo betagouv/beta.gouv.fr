@@ -18,11 +18,6 @@ missions:
     startups:
       - classe-a-12
       - devoirs-faits-communaute
-startups:
-  - classe-a-12
-  - devoirs-faits-communaute
-previously:
-  - mon-entreprise
 competences:
   - UX
   - UI

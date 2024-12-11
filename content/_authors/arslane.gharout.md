@@ -19,13 +19,6 @@ missions:
     employer: malt
     startups:
       - territoires-en-transitions
-startups:
-  - api.gouv.fr
-  - api-entreprise
-  - api-particulier
-  - datapass
-previously:
-  - territoires-en-transitions
 memberType: beta
 competences: []
 ---

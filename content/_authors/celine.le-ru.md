@@ -26,17 +26,13 @@ missions:
   - start: 2024-12-02
     end: 2025-03-02
     status: independent
-startups:
-  - la-bonne-boite
 competences:
   - Gestion de Produit
   - UX
   - Accessibilité
   - Product strategy
   - Coaching
-previously:
-  - e-mjpm
-  - domifa
 link: https://www.linkedin.com/in/celine-le-ru/
 ---
+
 Ma boite à outils est dispo sur Figjam : https://www.figma.com/@celine_leru

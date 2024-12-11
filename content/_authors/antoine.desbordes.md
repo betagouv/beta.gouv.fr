@@ -25,10 +25,7 @@ missions:
     employer: Malt
     startups:
       - vues-immersives-libres
-startups:
-  - vues-immersives-libres
-previously:
-  - transport
 competences: []
 ---
+
 Rust & transport & Panoramax

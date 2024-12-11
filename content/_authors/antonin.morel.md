@@ -16,11 +16,11 @@ missions:
     employer: Little Big Connection
     startups:
       - seves
-startups:
-  - acceslibre
+      - acceslibre
 memberType: beta
 competences:
   - Python
   - Développement Backend
 ---
+
 Développeur le jour, coureur le midi, papa la nuit.

@@ -15,8 +15,6 @@ missions:
     employer: Malt
     startups:
       - icare-complements-alimentaires
-startups:
-  - collectif_objets
 badges:
   - segur
 github: Fantine-py

@@ -10,11 +10,9 @@ missions:
     employer: Octo
     startups:
       - chauffage-urbain
-startups: []
-previously:
-  - chauffage-urbain
 competences:
   - Développement Frontend
   - Développement Backend
 ---
+
 Développeur

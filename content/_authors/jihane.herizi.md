@@ -14,11 +14,6 @@ missions:
       - metiers-numeriques
       - mon-entreprise
       - pass-culture
-startups:
-  - metiers-numeriques
-previously:
-  - pass-culture
-  - mon-entreprise
 badges:
   - segur
 github: jihanehrz

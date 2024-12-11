@@ -33,13 +33,7 @@ missions:
       - tabula
 badges:
   - segur
-startups:
-  - seves
-  - phytophare
-previously:
-  - deveco
-  - la.communaute.de.linclusion
-  - acces.majeur.protege
 competences: []
 ---
+
 Designer

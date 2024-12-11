@@ -17,11 +17,6 @@ missions:
     employer: GIP Plateforme de l'inclusion
     startups:
       - place-de-marche-inclusion
-startups:
-  - place-de-marche-inclusion
-previously:
-  - codedutravail
-  - les-emplois
 competences:
   - Croissance
   - Gestion de Produit

@@ -22,9 +22,6 @@ missions:
     employer: Little Big Connection
     startups:
       - mon-devis-sans-oublis
-startups:
-  - pop
-memberType: beta
 competences:
   - UX
   - Facilitation
@@ -32,4 +29,5 @@ competences:
   - Accessibilité
   - UI
 ---
-UX/UI designer • Product designer 
+
+UX/UI designer • Product designer

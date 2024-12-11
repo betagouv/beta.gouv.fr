@@ -34,15 +34,6 @@ missions:
       - prelevements.deau
       - urbaclic
       - vigieau
-startups:
-  - pcrs
-previously:
-  - ban
-  - api-geo
-  - urbaclic
-  - mes-aides
-  - api.gouv.fr
-  - geo.data.gouv.fr
 competences:
   - Croissance
   - Product strategy
@@ -50,4 +41,5 @@ competences:
   - JavaScript/TypeScript
   - Coaching
 ---
+
 Repenser l'administration avec le numérique pour améliorer le service public

@@ -15,10 +15,6 @@ missions:
     status: independent
     startups:
       - pitchou
-startups:
-  - pitchou
-previously:
-  - territoires-en-transitions
 competences:
   - Développement Backend
   - Développement Frontend

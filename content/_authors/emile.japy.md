@@ -16,13 +16,11 @@ missions:
     startups:
       - l-application-du-cej
       - pass.engagement.jeune
-startups:
-  - l-application-du-cej
-  - pass.engagement.jeune
 badges:
   - segur
 competences:
   - UX
   - UI
 ---
+
 UX designer

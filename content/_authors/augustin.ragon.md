@@ -16,10 +16,6 @@ missions:
     employer: Little Big Connection
     startups:
       - deveco
-startups:
-  - deveco
-previously:
-  - carnet.de.bord
 competences:
   - Développement Frontend
   - Développement Backend
@@ -33,4 +29,5 @@ competences:
   - PostgreSQL
 link: https://www.linkedin.com/in/augustinragon/
 ---
+
 Développeur full-stack passionné de programmation fonctionnelle. J'aime la musique, la nature, et le fromage.

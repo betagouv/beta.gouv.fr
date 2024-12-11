@@ -29,12 +29,5 @@ missions:
     startups:
       - recosante
       - romin
-startups:
-  - romin
-previously:
-  - signalement
-  - perspectives
-  - signaux-faibles
-  - recosante
 competences: []
 ---

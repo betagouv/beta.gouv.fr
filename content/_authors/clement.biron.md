@@ -19,10 +19,6 @@ missions:
     employer: ANCT
     startups:
       - openfisca
-startups:
-  - open-terms-archive
-previously:
-  - disinfo
-  - openfisca
+      - disinfo
 competences: []
 ---

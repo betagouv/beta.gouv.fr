@@ -9,9 +9,6 @@ missions:
     employer: DGFIP
     startups:
       - solution.audiovisuelle.easi
-startups: []
-previously:
-  - solution.audiovisuelle.easi
 badges:
   - segur
 competences:

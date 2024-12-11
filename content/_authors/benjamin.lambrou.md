@@ -16,11 +16,7 @@ missions:
     employer: Inops
     startups:
       - asso.cie
-startups:
-  - asso.cie
-previously:
-  - tacct
-  - accesscite
 competences: []
 ---
+
 Coach produit France Travail

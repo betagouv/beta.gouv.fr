@@ -31,13 +31,6 @@ missions:
     employer: Scopyleft
     startups:
       - rdv-service-public
-previously:
-  - collectif_objets
-  - rdv-service-public
-  - codedutravail
-  - enfants-du-spectacle
-startups:
-  - rdv-service-public
 competences:
   - Développement Full-stack
 ---

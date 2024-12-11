@@ -16,9 +16,7 @@ missions:
     employer: /ut7
     startups:
       - cassiopee
-startups:
-  - ma-cantine-egalim
-  - cassiopee
 link: https://www.linkedin.com/in/forster-groux-14232580/
 ---
+
 Développeur passionné d'agilité et d'horizontalité

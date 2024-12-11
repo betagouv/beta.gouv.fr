@@ -9,9 +9,6 @@ missions:
     employer: Octo
     startups:
       - snu
-startups: []
-previously:
-  - snu
 competences:
   - Gestion de Produit
 ---

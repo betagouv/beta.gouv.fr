@@ -16,10 +16,7 @@ missions:
     employer: ut7
     startups:
       - airvam
-memberType: beta
-startups:
-  - cassiopee
-  - airvam
 competences: []
 ---
+
 développeur frontend

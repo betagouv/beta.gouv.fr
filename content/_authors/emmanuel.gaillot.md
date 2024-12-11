@@ -25,11 +25,7 @@ missions:
     employer: omnicite
     startups:
       - oots.once-only.technical.system
-startups:
-  - oots.once-only.technical.system
-previously:
-  - eva
-  - homologation
 competences: []
 ---
+
 Programmeur extrême & codexhibitionniste.

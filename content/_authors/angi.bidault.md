@@ -16,12 +16,11 @@ missions:
     employer: SEVES
     startups:
       - seves
-startups:
-  - ecobalyse
 memberType: autre
 competences:
   - Product design
   - UX
   - Communication
 ---
+
 Designer basée à Nantes, spécialisée dans les missions à impact.

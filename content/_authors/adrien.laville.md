@@ -22,15 +22,6 @@ missions:
     employer: DINUM
     startups:
       - identite-numerique-agricole
-startups:
-  - identite-numerique-agricole
-previously:
-  - mission-transition-ecologique
-  - domifa
-  - docurba
-  - conseau
-  - tremplin
-  - zero-logement-vacant
 competences:
   - Coaching
   - Gestion de Produit

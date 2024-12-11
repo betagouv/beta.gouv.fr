@@ -26,6 +26,12 @@ missions:
     end: 2022-06-30
     status: independent
     employer: La Zone
+    startups:
+      - openfisca
+      - aides.jeunes
+      - metiers-numeriques
+      - api.gouv.fr
+      - datapass
   - start: 2022-10-15
     end: 2025-06-30
     status: independent
@@ -34,13 +40,4 @@ missions:
       - annuaire-entreprises
       - moncomptepro
       - proconnect
-startups:
-  - moncomptepro
-  - annuaire-entreprises
-previously:
-  - openfisca
-  - aides.jeunes
-  - metiers-numeriques
-  - api.gouv.fr
-  - datapass
 ---

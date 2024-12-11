@@ -15,9 +15,6 @@ missions:
     employer: Scopopop
     startups:
       - aplus
-startups:
-  - aplus
-previously:
-  - workinfrance
+
 competences: []
 ---

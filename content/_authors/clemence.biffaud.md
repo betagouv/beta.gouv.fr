@@ -29,15 +29,8 @@ missions:
     startups:
       - inventaire.zae
       - je-deviens-etudiant
-incubator: fab-geocommuns
-startups:
-  - mission.debroussaillement
-  - inventaire.zae
-  - monprojetsup
-previously:
-  - aides.jeunes
-  - artsducirque
 competences:
   - Coaching
 ---
+
 Service designer enthousiaste

@@ -19,12 +19,6 @@ missions:
     employer: inop's
     startups:
       - impact.co2
-startups:
-  - impact.co2
-previously:
-  - clara
-  - pix
-  - la-bonne-alternance
 competences:
   - Développement Frontend
   - Développement Backend

@@ -16,17 +16,16 @@ missions:
     end: 2023-04-30
     status: independent
     employer: octo
+    startups:
+      - inclusion.connect
+      - la-bonne-boite
   - start: 2023-05-01
     end: 2025-10-31
     status: independent
     employer: malt
     startups:
       - les-emplois
-startups:
-  - les-emplois
-previously:
-  - inclusion.connect
-  - la-bonne-boite
 competences: []
 ---
+
 Développeuse curieuse. Amatrice de blagues pas drôles, de gens trop enthousiastes et d'idées folles.

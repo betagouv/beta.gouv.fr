@@ -35,21 +35,6 @@ missions:
     end: 2026-01-12
     status: admin
     employer: DINUM
-incubator: sgmas
-startups:
-  - 1000.jours
-  - tumeplay
-  - archifiltre
-  - domifa
-  - enfants-du-spectacle
-  - 1000.premiers.jours.blues
-previously:
-  - e-mjpm
-  - workinfrance
-  - fiche.commune.entreprise.fce
-  - didoc
-  - medle
-  - egalite.professionnelle
 competences:
   - Gestion de Produit
   - Administration Publique

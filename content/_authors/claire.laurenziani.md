@@ -16,9 +16,6 @@ missions:
     employer: ANCT
     startups:
       - suite.territoriale
-startups:
-  - suite.territoriale
-  - themis
-memberType: beta
 ---
+
 Communicante engagée pour l'environnement

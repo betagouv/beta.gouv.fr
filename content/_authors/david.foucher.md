@@ -24,16 +24,6 @@ missions:
       - estime.formation
       - mes-aides-france-travail
       - travailler.en.france
-startups:
-  - travailler.en.france
-  - estime.formation
-  - mes-aides-france-travail
-previously:
-  - plateforme.rome.4-0
-  - mobiville
-  - encyclopedie-des-metiers
-  - mes-evenements-emploi
-  - la-bonne-formation
-competences: []
 ---
+
 Passionné par les technologies respectueuses de la biosphère.

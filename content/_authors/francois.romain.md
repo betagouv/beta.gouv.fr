@@ -24,14 +24,10 @@ missions:
     employer: LBC
     startups:
       - deveco
-startups:
-  - deveco
-previously:
-  - camino
-  - dora
 competences:
   - Développement Frontend
   - Développement Backend
   - UI
 ---
+
 Développeur / designer freelance

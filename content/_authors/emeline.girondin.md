@@ -6,7 +6,7 @@ missions:
   - start: 2023-05-16
     end: 2025-01-15
     status: independent
-    employer: 'DossierFacile '
+    employer: "DossierFacile "
     startups:
       - dossierfacile
   - start: 2024-09-11
@@ -15,8 +15,5 @@ missions:
     employer: Administration+
     startups:
       - aplus
-startups:
-  - dossierfacile
-memberType: beta
 competences: []
 ---

@@ -17,11 +17,6 @@ missions:
     employer: dinum
     startups:
       - suite-numerique
-startups:
-  - suite-numerique
-memberType: beta
-previously:
-  - signaux-faibles
-competences: []
 ---
+
 Intrapreneur de la messagerie de la suite numérique

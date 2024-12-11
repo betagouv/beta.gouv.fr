@@ -20,8 +20,6 @@ missions:
     employer: LittleBig Connection
     startups:
       - compte.rendu.vif
-startups:
-  - dossierfacile
 badges:
   - segur
 domaine: Déploiement
