@@ -7,24 +7,26 @@ missions:
     end: 2022-12-31
     status: independent
     employer: Benext
+    startups:
+      - psyenfantado
+      - monpsy
   - start: 2021-11-01
     end: 2023-10-30
     status: independent
     employer: Malt
+    startups:
+      - dotations-locales
   - start: 2023-02-27
     end: 2023-11-30
     status: independent
     employer: Malt
-startups:
-  - infoparquet
-previously:
-  - psyenfantado
-  - monpsy
-  - dotations-locales
+    startups:
+      - infoparquet
 badges:
   - segur
 competences:
   - Gestion de Produit
   - Communication
 ---
+
 Passionnée par l'innovation sous toutes ses FoRmEs

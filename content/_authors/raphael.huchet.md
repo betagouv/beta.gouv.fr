@@ -14,14 +14,6 @@ missions:
     status: independent
     employer: octo
 incubator: sgmas
-startups:
-  - mano
-  - monpsy
-  - tdb-apprentissage
-previously:
-  - eac
-  - pop
-  - snu
 competences:
   - Développement Frontend
   - Développement Backend

@@ -17,11 +17,10 @@ missions:
     employer: Scopopop
     startups:
       - preuve-de-covoiturage
-startups:
-  - trackdechets
 competences:
   - Data Science
   - Machine learning
   - Metabase
 ---
+
 In pizza and data I trust!

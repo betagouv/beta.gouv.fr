@@ -21,12 +21,9 @@ missions:
     employer: IPPON
     startups:
       - andv-aerien
-startups:
-  - sndv_maritime
 competences:
   - Coaching
   - Product strategy
-previously:
-  - sndv_maritime
 ---
+
 Entrepreneur au service de l'impact - Auteur Documentaire

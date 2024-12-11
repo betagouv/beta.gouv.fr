@@ -16,10 +16,6 @@ missions:
     status: independent
     startups:
       - codedutravail
-startups:
-  - trackdechets
-previously:
-  - kelrisks
 competences:
   - UX
   - UI
@@ -27,4 +23,5 @@ competences:
   - Product design
   - Accessibilité
 ---
+
 Lead UX Designer

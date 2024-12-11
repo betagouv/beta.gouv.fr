@@ -12,10 +12,6 @@ missions:
     end: 2026-03-14
     status: admin
     employer: dinum
-startups:
-  - annuaire-entreprises
-previously:
-  - datapass
-  - api.gouv.fr
 ---
+
 🦀

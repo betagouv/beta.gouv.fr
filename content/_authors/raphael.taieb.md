@@ -16,10 +16,6 @@ missions:
     employer: Malt
     startups:
       - plusfraichemaville
-startups:
-  - plusfraichemaville
-previously:
-  - mobilic
 badges:
   - segur
 link: https://www.linkedin.com/in/raphaeltaieb1/

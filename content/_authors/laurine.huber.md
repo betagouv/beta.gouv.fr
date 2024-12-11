@@ -9,12 +9,14 @@ missions:
     end: 2023-08-01
     status: independent
     employer: Octo
+    startups:
+      - pilotage.de.linclusion
   - start: 2022-11-01
     end: 2025-10-31
     status: admin
     employer: gip-inclusion
-startups:
-  - pilotage.de.linclusion
+    startups:
+      - pilotage.de.linclusion
 badges:
   - segur
 competences:
@@ -25,4 +27,5 @@ competences:
   - Matomo
   - PostgreSQL
 ---
+
 Happy Data Analyste et NLPyste :D

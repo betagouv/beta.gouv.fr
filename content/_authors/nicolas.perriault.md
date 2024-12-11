@@ -35,11 +35,6 @@ missions:
     employer: Pathtech
     startups:
       - ecobalyse
-startups:
-  - ecobalyse
-previously:
-  - egalite.professionnelle
-  - acceslibre
 competences:
   - Développement Full-stack
   - Elm
@@ -47,4 +42,5 @@ competences:
   - Django
   - JavaScript/TypeScript
 ---
+
 En quête de sens numérique

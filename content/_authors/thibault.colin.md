@@ -12,10 +12,9 @@ missions:
     end: 2024-10-31
     status: admin
     employer: Ministère de l'Intérieur
-startups:
-  - psij
 competences:
   - Développement Backend
   - Administration Système
 ---
+
 🌸

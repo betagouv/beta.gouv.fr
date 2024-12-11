@@ -16,7 +16,5 @@ missions:
     employer: Ministère du travail
     startups:
       - codedutravail
-startups:
-  - codedutravail
 competences: []
 ---

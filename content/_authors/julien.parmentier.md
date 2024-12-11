@@ -16,8 +16,6 @@ missions:
     employer: Pathtech
     startups:
       - pass-sport
-startups:
-  - preuve-de-covoiturage
 link: https://www.linkedin.com/in/julien-parmentier-14982b81/
 competences:
   - Administration Système
@@ -25,4 +23,5 @@ competences:
   - Développement Full-stack
   - DevOps
 ---
+
 Développeur et mordu de surf !

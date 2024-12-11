@@ -16,8 +16,6 @@ missions:
     employer: MALT
     startups:
       - transition-ecologique-des-entreprises
-startups:
-  - les-emplois
 badges:
   - segur
 competences:
@@ -25,4 +23,5 @@ competences:
   - Facilitation
   - Croissance
 ---
+
 La curiosité comme moteur, j'ai l'enthousiasme comme essence.

@@ -11,9 +11,8 @@ missions:
     end: 2021-06-30
     status: admin
     employer: dinum
-startups:
-  - aplus
 badges:
   - segur
 ---
+
 Je suis une drôle de dame.

@@ -16,11 +16,6 @@ missions:
     end: 2022-06-30
     status: independent
     employer: Octo
-startups:
-  - rdv-service-public
-  - metiers-numeriques
-previously:
-  - aidantsconnect
 competences:
   - Gestion de Produit
   - Coaching

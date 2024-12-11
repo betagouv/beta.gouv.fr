@@ -19,10 +19,6 @@ missions:
     startups:
       - france.consulaire
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
-startups:
-  - dedale
-previously:
-  - cartobio
 competences:
   - Coaching
 ---

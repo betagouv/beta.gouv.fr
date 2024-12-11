@@ -17,8 +17,6 @@ missions:
     employer: Omnicité
     startups:
       - infomedicament
-startups:
-  - cartobio
 memberType: beta
 competences:
   - Administration Système
@@ -31,4 +29,5 @@ competences:
   - PHP
   - Matomo
 ---
+
 Développeuse fullstack

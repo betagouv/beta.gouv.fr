@@ -11,12 +11,9 @@ missions:
     end: 2025-12-31
     status: admin
     employer: dinum
-startups:
-  - ban
-previously:
-  - acceslibre
 badges:
   - segur
 competences: []
 ---
+
 Mettre en valeur les contenus et data

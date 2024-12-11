@@ -12,10 +12,6 @@ missions:
     end: 2025-12-31
     status: independent
     employer: Malt
-startups:
-  - tchap
-previously:
-  - cmachance
 badges:
   - segur
 competences: []

@@ -17,8 +17,6 @@ missions:
       - precontentieux.justice
 badges:
   - segur
-startups:
-  - mistral-penal
 competences:
   - Développement Backend
   - Développement Full-stack
@@ -28,4 +26,5 @@ competences:
   - PostgreSQL
   - Facilitation
 ---
+
 Développeur web

@@ -18,12 +18,7 @@ missions:
     employer: dinum
     startups:
       - proconnect
-startups:
-  - moncomptepro
-previously:
-  - datapass
-  - api.gouv.fr
-  - api-particulier
 competences: []
 ---
+
 🤯

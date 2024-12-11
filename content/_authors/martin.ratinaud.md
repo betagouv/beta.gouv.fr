@@ -18,11 +18,6 @@ missions:
     employer: malt
     startups:
       - chauffage-urbain
-startups:
-  - chauffage-urbain
-previously:
-  - open-terms-archive
-  - disinfo
 competences:
   - Développement Frontend
   - Développement Backend

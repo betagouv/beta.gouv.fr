@@ -23,9 +23,6 @@ missions:
     employer: Numa
     startups:
       - tacct
-startups:
-  - ecobalyse
-  - tacct
 competences:
   - Product strategy
   - Coaching
@@ -35,4 +32,5 @@ previously:
   - attractivite.des.territoires
   - aldo
 ---
+
 Designer de service, UX & Facilitation

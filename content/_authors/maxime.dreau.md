@@ -26,12 +26,6 @@ missions:
     employer: malt
     startups:
       - chauffage-urbain
-previously:
-  - filharmonic
-  - anais
-  - tdb-apprentissage
 competences:
   - Développement Full-stack
-startups:
-  - chauffage-urbain
 ---

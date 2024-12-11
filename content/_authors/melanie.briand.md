@@ -21,9 +21,6 @@ missions:
     employer: NUMA
     startups:
       - icare-complements-alimentaires
-startups:
-  - accesscite
-  - 1-jeune-1-arbre
 memberType: beta
 link: https://www.linkedin.com/in/m%C3%A9laniebriand/
 competences:
@@ -31,6 +28,7 @@ competences:
   - Coaching
   - Administration Publique
 ---
+
 issue de la fonction publique territoriale (15 d'expérience en communes, EPCI et PNR)
 un parcours d'intrapreneuse avec la start-up territoriale Carbolocal et ancienne responsable de l'incubateur de Le Havre Seine Métropole
-aujourd'hui coach impact pour beta.gouv 
+aujourd'hui coach impact pour beta.gouv

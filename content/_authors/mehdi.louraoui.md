@@ -9,17 +9,18 @@ missions:
     end: 2023-12-31
     status: service
     employer: Octo
+    startups:
+      - archifiltre
   - start: 2024-02-12
     end: 2024-12-31
     status: independent
     employer: Octo/Malt (Plus Fraîche Ma Ville)
+    startups:
+      - plusfraichemaville
 incubator: ademe
-startups:
-  - plusfraichemaville
-previously:
-  - archifiltre
 competences:
   - Développement Frontend
   - Développement Backend
 ---
+
 Développeur Fullstack JS

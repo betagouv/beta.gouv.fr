@@ -17,8 +17,6 @@ missions:
     employer: Numa
     startups:
       - acces-cible
-startups:
-  - resorption-bidonvilles
 competences:
   - UX
   - Communication
@@ -26,4 +24,5 @@ competences:
   - Product design
   - Accessibilité
 ---
+
 Designer, j'améliore l’expérience des agents et usagers du Service Public

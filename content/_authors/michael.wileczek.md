@@ -18,8 +18,6 @@ missions:
     employer: REVA
     startups:
       - reva
-startups:
-  - reva
 memberType: beta
 previously:
   - les-emplois
@@ -29,4 +27,5 @@ competences:
   - Sécurité informatique
   - Administration Système
 ---
+
 Consultant cybersécurité depuis 1998, fan de concerts indie et de voyages

@@ -15,13 +15,6 @@ missions:
       - tdb-apprentissage
       - uai_siret
       - voeux-apprentissage
-startups:
-  - api.apprentissage
-previously:
-  - tdb-apprentissage
-  - catalogue-apprentissage
-  - voeux-apprentissage
-  - uai_siret
 competences:
   - Développement Full-stack
   - JavaScript/TypeScript
@@ -33,4 +26,5 @@ competences:
   - Sécurité informatique
   - Croissance
 ---
+
 J'aspire à améliorer le monde en construisant des produits numériques ayant de l'impact.

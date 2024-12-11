@@ -20,10 +20,6 @@ missions:
     end: 2022-12-31
     status: independent
     employer: Codeurs en Liberté
-startups:
-  - vues-immersives-libres
-previously:
-  - données-et-territoires
-  - transport
 ---
+
 Cartographie, transports, données ouvertes

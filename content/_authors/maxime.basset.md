@@ -8,14 +8,15 @@ missions:
     end: 2021-07-30
     status: service
     employer: OCTO
+    startups:
+      - workinfrance
+      - e-mjpm
   - start: 2017-09-01
     end: 2019-03-31
     status: service
     employer: NUMA
-startups:
-  - homologation
-previously:
-  - workinfrance
-  - e-mjpm
+    startups:
+      - homologation
 ---
+
 Harder Better Faster Stronger.

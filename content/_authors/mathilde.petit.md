@@ -22,10 +22,6 @@ missions:
     employer: Scopyleft
     startups:
       - equipements-bio
-startups:
-  - cartobio
-previously:
-  - peps
 competences:
   - Coaching
   - Croissance

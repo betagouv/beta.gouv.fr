@@ -10,7 +10,6 @@ missions:
   - start: 2019-12-06
     end: 2020-05-31
     status: independent
-startups:
-  - dossiersco
 ---
+
 Développeur

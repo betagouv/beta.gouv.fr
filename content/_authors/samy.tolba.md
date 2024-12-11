@@ -11,14 +11,11 @@ missions:
     end: 2024-09-01
     status: independent
 incubator: dinum
-startups:
-  - sante-psy-etudiant
-previously:
-  - archifiltre
 badges:
   - segur
 competences:
   - Communication
   - Croissance
 ---
+
 Chargé de déploiement

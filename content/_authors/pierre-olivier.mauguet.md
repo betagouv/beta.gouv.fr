@@ -33,12 +33,6 @@ missions:
     employer: malt
     startups:
       - pacoupa
-startups:
-  - pacoupa
-previously:
-  - signalement
-  - medle
-  - egalite.professionnelle
 competences:
   - Développement Frontend
   - Développement Backend
