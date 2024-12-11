@@ -15,6 +15,7 @@ missions:
     employer: Numa
     startups:
       - audiodescription
+      - icare-complements-alimentaires
 startups:
   - icare-complements-alimentaires
   - ma-cantine-egalim

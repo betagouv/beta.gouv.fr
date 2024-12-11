@@ -10,6 +10,7 @@ missions:
     employer: Malt
     startups:
       - api-entreprise
+      - api-particulier
 memberType: autre
 competences: []
 ---

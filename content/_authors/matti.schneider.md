@@ -16,7 +16,7 @@ missions:
     end: 2019-02-28
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
-    staartups:
+    startups:
       - mon-entreprise
   - start: 2019-03-01
     end: 2019-12-31
@@ -47,10 +47,9 @@ missions:
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
     startups:
-      - open-terms-archive
       - aides.jeunes
       - openfisca
+      - open-terms-archive
 competences: []
 ---
-
 Ingénieur transdisciplinaire. Sceptique des aphorismes autobiographiques.

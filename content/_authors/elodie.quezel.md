@@ -13,7 +13,10 @@ missions:
     end: 2024-09-30
     status: admin
     employer: DGE
+    startups:
+      - signaux-faibles
 startups:
   - signaux-faibles
+competences: []
 ---
 Pilote opérationnelle

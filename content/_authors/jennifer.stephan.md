@@ -10,13 +10,21 @@ missions:
     status: independent
     employer: scopyleft
     startups:
+      - au-compost-mitoyen
+      - datagir
+      - ellesfontlaculture
       - icare-complements-alimentaires
       - ma-cantine-egalim
+      - protege-toit
       - reperer.identifier.victimes.teh
   - start: 2024-07-01
     end: 2038-11-19
     status: admin
     employer: Ministère de l'agriculture
+    startups:
+      - icare-complements-alimentaires
+      - ma-cantine-egalim
+      - reperer.identifier.victimes.teh
 startups:
   - ma-cantine-egalim
   - icare-complements-alimentaires

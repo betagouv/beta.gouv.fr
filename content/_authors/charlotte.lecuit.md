@@ -8,10 +8,16 @@ missions:
     end: 2019-06-30
     status: admin
     employer: dinum
+    startups:
+      - mes-aides
   - start: 2020-04-01
     end: 2021-12-31
     status: independent
     employer: Octo
+    startups:
+      - aides.jeunes
+      - la-bonne-alternance
+      - la-bonne-formation
   - start: 2021-12-01
     end: 2023-01-31
     status: independent
@@ -24,6 +30,8 @@ missions:
     end: 2025-06-30
     status: independent
     employer: Malt
+    startups:
+      - monprojetsup
 startups:
   - monprojetsup
 previously:

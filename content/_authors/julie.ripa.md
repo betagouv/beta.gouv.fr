@@ -15,8 +15,8 @@ missions:
     status: admin
     employer: ANCT
     startups:
-      - lannuaire.des.collectivites
       - dotations-locales
+      - lannuaire.des.collectivites
   - start: 2023-11-13
     end: 2025-11-13
     status: admin
@@ -30,5 +30,4 @@ competences:
 teams:
   - /teams/dinum
 ---
-
 J'essaie de faire quelque chose pour l'humanité en luttant contre la pauvreté

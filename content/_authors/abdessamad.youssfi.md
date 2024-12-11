@@ -8,10 +8,15 @@ missions:
     end: 2022-09-30
     status: independent
     employer: Octo
+    startups:
+      - codedutravail
+      - les-emplois
   - start: 2022-10-01
     end: 2025-10-05
     status: admin
     employer: GIP Plateforme de l'inclusion
+    startups:
+      - place-de-marche-inclusion
 startups:
   - place-de-marche-inclusion
 previously:

@@ -12,10 +12,15 @@ missions:
     end: 2020-12-30
     status: independent
     employer: octo
+    startups:
+      - la-bonne-formation
+      - snu
   - start: 2020-12-31
     end: 2023-09-30
     status: independent
     employer: octo
+    startups:
+      - france-numerique-ensemble
 startups:
   - france-numerique-ensemble
 badges:
@@ -23,4 +28,5 @@ badges:
 previously:
   - la-bonne-formation
   - snu
+competences: []
 ---

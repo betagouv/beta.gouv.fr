@@ -10,6 +10,9 @@ missions:
     employer: Opteamis
     startups:
       - codedutravail
+      - deveco
+      - fiche.commune.entreprise.fce
+      - tchap
   - start: 2022-10-25
     end: 2025-01-31
     status: independent

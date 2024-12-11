@@ -8,8 +8,9 @@ missions:
     end: 2023-06-15
     status: independent
     employer: Benext/Malt
+    startups:
+      - potentiel
 competences:
   - Développement Backend
 ---
-
 Développeur

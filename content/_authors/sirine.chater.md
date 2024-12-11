@@ -15,5 +15,7 @@ missions:
     status: independent
 competences:
   - Intrapreneur(se)
+teams:
+  - /teams/anct
 ---
 Du milieu des collectivités aux startups d'Etat il n'y a qu'un pas !

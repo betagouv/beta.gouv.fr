@@ -20,4 +20,4 @@ competences:
   - Coaching
   - Administration Publique
 ---
-Chargée de mission communication innovation - Coach agile - Facilitatrice d'ateliers d'intelligence collective
+Chargée de mission coaching agile et communication innovation - Facilitatrice d'ateliers d'intelligence collective

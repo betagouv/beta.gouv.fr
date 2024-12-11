@@ -8,11 +8,18 @@ missions:
     end: 2021-10-01
     status: admin
     employer: affaires-sociales
+    startups:
+      - codedutravail
+      - domifa
+      - e-mjpm
+      - tremplin
+      - workinfrance
   - start: 2023-10-23
     end: 2025-12-30
     status: independent
     employer: DINUM
     startups:
+      - moncomptepro
       - proconnect
 startups:
   - moncomptepro

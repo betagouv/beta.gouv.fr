@@ -8,6 +8,7 @@ missions:
     status: independent
     employer: ey / pole-emploi
     startups:
+      - la-bonne-alternance
       - la-bonne-boite
   - start: 2019-09-01
     end: 2025-12-31
@@ -15,7 +16,7 @@ missions:
     employer: octo
     startups:
       - les-emplois
+      - pilotage.de.linclusion
 competences: []
 ---
-
 En année sabbatique, réfléchit au futur.

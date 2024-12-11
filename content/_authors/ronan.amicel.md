@@ -10,6 +10,7 @@ missions:
     status: independent
     employer: lazone
     startups:
+      - visam
       - zam
   - start: 2022-06-01
     end: 2025-05-31

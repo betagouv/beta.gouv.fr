@@ -27,6 +27,7 @@ missions:
     status: independent
     employer: NUMA
     startups:
+      - inventaire.zae
       - je-deviens-etudiant
 incubator: fab-geocommuns
 startups:

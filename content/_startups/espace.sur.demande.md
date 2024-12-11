@@ -1,6 +1,6 @@
 ---
 link: https://espacesurdemande.anct.gouv.fr/?mtm_campaign=annuaire-se-beta&mtm_source=web&mtm_medium=beta-gouv
-mission: Faciliter la mise à disposition et la location des espaces publics des collectivités auprès des citoyens.
+mission: Rendre accessible les espaces publics auprès du grand public
 incubator: anct
 title: Espace sur Demande
 contact: servicesnumeriques@anct.beta.gouv.fr

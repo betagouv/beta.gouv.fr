@@ -35,5 +35,4 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-
 Développeur Python / Django

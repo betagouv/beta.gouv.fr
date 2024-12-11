@@ -7,6 +7,9 @@ missions:
     end: 2021-06-30
     status: service
     employer: octo
+    startups:
+      - candilib
+      - psij
 startups: []
 previously:
   - candilib

@@ -10,6 +10,9 @@ missions:
   - start: 2019-05-17
     end: 2020-01-31
     status: independent
+    startups:
+      - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
+competences: []
 ---

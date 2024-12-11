@@ -12,6 +12,8 @@ missions:
     end: 2021-08-31
     status: service
     employer: octo
+    startups:
+      - chauffage-urbain
 startups: []
 previously:
   - pix

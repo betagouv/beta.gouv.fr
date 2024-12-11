@@ -10,12 +10,12 @@ missions:
     status: independent
     employer: numa
     startups:
-      - recosante
-      - hydrogene
       - atlas-des-paysages
       - datagir
-      - nosgestesclimat
+      - hydrogene
       - impact.co2
+      - nosgestesclimat
+      - recosante
   - start: 2023-12-30
     end: 2024-12-29
     status: admin
@@ -37,5 +37,4 @@ competences:
   - Croissance
   - Product strategy
 ---
-
 Entrepreneur entre 2 projets, particulièrement attiré par les problématiques énergie-climat et les projets à impact social et environnemental 🌳

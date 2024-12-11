@@ -22,5 +22,4 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-
 Développeur Fullstack JS

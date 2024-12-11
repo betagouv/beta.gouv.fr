@@ -16,6 +16,12 @@ missions:
     end: 2022-12-31
     status: independent
     employer: ut7
+    startups:
+      - anotea
+      - catalogue-apprentissage
+      - sirius
+      - uai_siret
+      - voeux-apprentissage
 github: bguerout
 startups:
   - anotea
@@ -23,5 +29,6 @@ startups:
   - catalogue-apprentissage
   - uai_siret
   - voeux-apprentissage
+competences: []
 ---
 J'évolue sur des projets informatiques à dominante web en prônant une approche simple et pragmatique des développements. Je suis également investi dans la communauté open source au travers des projets Jongo et Oleoduc.

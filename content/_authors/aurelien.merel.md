@@ -10,6 +10,8 @@ missions:
     employer: Codeurs en Liberté
     startups:
       - api-entreprise
+      - api-particulier
+      - datapass
       - oots.once-only.technical.system
 previously:
   - demarches-simplifiees.fr

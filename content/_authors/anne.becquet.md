@@ -22,6 +22,11 @@ missions:
     end: 2027-06-30
     status: admin
     employer: DINUM
+    startups:
+      - catalogue-apprentissage
+      - la-bonne-alternance
+      - tdb-apprentissage
+      - uai_siret
 startups:
   - catalogue-apprentissage
   - uai_siret

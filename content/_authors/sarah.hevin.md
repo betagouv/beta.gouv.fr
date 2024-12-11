@@ -18,5 +18,4 @@ missions:
 badges:
   - segur
 ---
-
 UX Researcher freelance

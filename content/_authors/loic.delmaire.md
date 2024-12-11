@@ -15,11 +15,10 @@ missions:
     status: independent
     employer: octo, malt
     startups:
-      - api.gouv.fr
       - api-entreprise
+      - api.gouv.fr
       - api-particulier
       - datapass
 competences: []
 ---
-
 Je parle à des canards.

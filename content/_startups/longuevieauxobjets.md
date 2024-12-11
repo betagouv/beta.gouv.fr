@@ -62,8 +62,8 @@ Inspiré du principe « pollueur-payeur », le dispositif de REP implique que le
 Pour les **collectivités, associations, entreprises et médias**, Longue vie aux objets met à disposition des **outils numériques gratuits de sensibilisation au tri et à la consommation responsable** qui valorisent les acteurs de l'économie sur chaque territoire.
 
 Deux outils sont disponibles :
-* **[L'Assistant "Que faire de mes objets & déchets"](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv)**, avec une **approche conseil**, aide les citoyens à **comprendre le cycle de vie des objets, pour cesser de les jeter**. Les citoyens sont guidés pour se désencombrer de façon responsable.
-* **[La Carte](https://longuevieauxobjets.ademe.fr/lacarte/?mtm_campaign=FicheBetaGouv)**, avec une **approche géolocalisée**, met en avant les **solutions locales pour prolonger la vie de ses objets**. Les citoyens découvrent de bonnes adresses autour de chez eux pour mieux consommer.
+* **[L'assistant au tri "Que faire de mes objets & déchets"](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv)**, avec une **approche conseil**, aide les citoyens à **comprendre le cycle de vie des objets, pour cesser de les jeter**. Les citoyens sont guidés pour se désencombrer de façon responsable.
+* **[La carte des acteurs de l'économie circulaire](https://longuevieauxobjets.ademe.fr/lacarte/?mtm_campaign=FicheBetaGouv)**, avec une **approche géolocalisée**, met en avant les **solutions locales pour prolonger la vie de ses objets**. Les citoyens découvrent de bonnes adresses autour de chez eux pour mieux consommer.
 
 Nous allons rendre progressivement toutes nos  **[données accessibles en open-data](https://longuevieauxobjets.ademe.fr/reutiliser-nos-donnees/?mtm_campaign=FicheBetaGouv)** pour qu'elles puissent être réutilisées facilement.
 
@@ -80,7 +80,7 @@ Nos objectifs pour nos relais sont :
 
 La carte a été mise en avant lors de la campagne de communication de l’ADEME “[Epargnons nos ressources](https://epargnonsnosressources.gouv.fr/)” lancée en novembre 2023.
 
-Comme point d’entrée unique pour les citoyens, l'assistant “Que faire de mes objets & déchets” est connu depuis 10 ans, relayé chaque année par les [campagnes ministérielles sur l'Info-tri](https://www.ecologie.gouv.fr/info-tri) et mentionné sur les étiquettes de nombreux objets, pour toucher le maximum de citoyens. 
+Comme point d’entrée unique pour les citoyens, l'assistant au tri “Que faire de mes objets & déchets” est connu depuis 10 ans, relayé chaque année par les [campagnes ministérielles sur l'Info-tri](https://www.ecologie.gouv.fr/info-tri) et mentionné sur les étiquettes de nombreux objets, pour toucher le maximum de citoyens. 
 
 Nous prévoyons un déploiement progressif de nos outils sur les sites des collectivités pour toucher leurs usagers, en commençant par les collectivités de tailles petite et moyenne, n’ayant pas de solutions numériques ou incomplètes sur ce sujet.
 
@@ -90,7 +90,7 @@ Nous prévoyons un déploiement progressif de nos outils sur les sites des colle
 
 Longue vie aux objets est un service numérique conçu selon l’**approche Startup d’État et piloté par l’impact**.
 
-Pour mesurer l'impact de nos produits, nous nous fixons des objectifs et des indicateurs.
+Pour mesurer l'impact de nos outils, nous nous fixons des objectifs et des indicateurs.
 
 Nos 3 principaux objectifs sont :
 * **Fiabiliser et enrichir les données**

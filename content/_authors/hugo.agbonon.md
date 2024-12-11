@@ -9,13 +9,18 @@ missions:
     end: 2022-06-30
     status: independent
     employer: codeheroics
+    startups:
+      - zen
   - start: 2021-05-01
     end: 2021-10-31
     status: independent
     employer: codeheroics
+    startups:
+      - mobiville
 startups:
   - mobiville
 previously:
   - zen
+competences: []
 ---
 Na Na Na Na Na Na Na Na Batman !

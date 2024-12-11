@@ -27,5 +27,4 @@ competences:
   - Sécurité informatique
   - Administration Système
 ---
-
 Consultant cybersécurité depuis 1998, fan de concerts indie et de voyages

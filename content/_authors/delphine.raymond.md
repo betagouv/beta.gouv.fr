@@ -10,6 +10,7 @@ missions:
     status: independent
     employer: Ground
     startups:
+      - cadransolaire
       - potentiel
   - start: 2023-05-01
     end: 2025-06-30

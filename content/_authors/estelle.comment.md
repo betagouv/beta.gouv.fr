@@ -16,14 +16,21 @@ missions:
     end: 2021-07-02
     status: admin
     employer: dinum
+    startups:
+      - authentification
+      - e-controle
+      - sante-psy-etudiant
   - start: 2021-11-23
     end: 2024-05-15
     status: independent
     employer: Malt
+    startups:
+      - tchap
 startups:
   - tchap
 previously:
   - e-controle
   - sante-psy-etudiant
   - authentification
+competences: []
 ---

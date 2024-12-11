@@ -16,5 +16,4 @@ missions:
       - experts
 memberType: beta
 ---
-
 Chargée de portefeuille à l'incubateur des territoires

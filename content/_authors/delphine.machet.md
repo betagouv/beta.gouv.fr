@@ -7,6 +7,8 @@ missions:
     end: 2021-10-15
     status: admin
     employer: DGFIP
+    startups:
+      - solution.audiovisuelle.easi
 startups: []
 previously:
   - solution.audiovisuelle.easi

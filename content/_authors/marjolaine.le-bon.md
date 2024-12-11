@@ -18,5 +18,4 @@ missions:
       - aidantsconnect
 competences: []
 ---
-
 développeuse web à la bonne humeur revendiquée !

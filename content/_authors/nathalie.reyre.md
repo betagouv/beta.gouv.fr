@@ -37,5 +37,4 @@ competences:
   - Intrapreneur(se)
   - Product strategy
 ---
-
 Je m'enflamme souvent quand un sujet m'intéresse...

@@ -20,5 +20,4 @@ competences:
   - Développement Backend
   - Développement Frontend
 ---
-
 Développeur la semaine, Alpiniste le week-end.

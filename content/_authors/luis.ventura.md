@@ -22,5 +22,4 @@ competences:
   - Machine learning
   - Metabase
 ---
-
 In pizza and data I trust!

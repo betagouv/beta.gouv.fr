@@ -17,6 +17,7 @@ missions:
     employer: OCTO
     startups:
       - airvam
+      - preuve-de-covoiturage
       - usine-chatbots
   - start: 2022-01-01
     end: 2024-05-31

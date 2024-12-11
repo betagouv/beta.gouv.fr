@@ -9,6 +9,7 @@ missions:
     status: service
     employer: BENEXT
     startups:
+      - domifa
       - e-mjpm
   - start: 2023-06-01
     end: 2024-05-01
