@@ -19,7 +19,6 @@ missions:
       - deveco
       - la.communaute.de.linclusion
       - phytophare
-      - deveco
   - start: 2024-02-14
     end: 2025-09-20
     status: independent
