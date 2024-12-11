@@ -17,5 +17,4 @@ badges:
   - segur
 competences: []
 ---
-
 Juriste, coach et community manager

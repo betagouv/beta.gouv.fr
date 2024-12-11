@@ -23,4 +23,5 @@ missions:
       - france-numerique-ensemble
 badges:
   - segur
+competences: []
 ---

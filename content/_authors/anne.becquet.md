@@ -27,7 +27,6 @@ missions:
       - la-bonne-alternance
       - tdb-apprentissage
       - uai_siret
-      - voeux-apprentissage
 teams:
   - /teams/mission-apprentissage
 link: https://www.linkedin.com/in/annebecquet

@@ -11,10 +11,6 @@ missions:
     startups:
       - apilos
       - carte-verte
-      - mobicouts
-      - dotations-locales
-      - qualite-eau
-      - non-recours-spie
   - start: 2024-02-21
     end: 2025-06-30
     status: service

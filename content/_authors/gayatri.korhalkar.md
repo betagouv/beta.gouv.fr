@@ -23,5 +23,4 @@ badges:
   - segur
 competences: []
 ---
-
 Une designer entreprenante

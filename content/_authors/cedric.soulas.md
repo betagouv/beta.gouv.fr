@@ -23,5 +23,4 @@ missions:
       - reva
 competences: []
 ---
-
 Développeur d’applications web et créateur de formations illustrées

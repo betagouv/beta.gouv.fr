@@ -7,11 +7,10 @@ missions:
   - start: 2018-05-30
     end: 2018-08-30
     status: independent
-    startups:
-      - demarches-simplifiees.fr
   - start: 2021-08-30
     end: 2022-06-30
     status: independent
     startups:
-      - france-numerique-ensemble
+      - demarches-simplifiees.fr
+competences: []
 ---

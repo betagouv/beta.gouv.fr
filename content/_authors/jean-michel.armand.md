@@ -15,8 +15,6 @@ missions:
     employer: Malt
     startups:
       - aidantsconnect
-
 competences: []
 ---
-
 Code, Django et Cassoulet

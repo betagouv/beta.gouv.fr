@@ -18,5 +18,4 @@ missions:
 github: DanielBMY
 competences: []
 ---
-
 Linchpin mindset, fighting mediocrity, the status quo… and the lizard brain!

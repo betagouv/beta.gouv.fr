@@ -14,7 +14,7 @@ missions:
   - start: 2021-07-05
     end: 2025-06-30
     status: independent
-    employer: "Scopyleft "
+    employer: 'Scopyleft '
     startups:
       - impact.co2
 incubator: ademe

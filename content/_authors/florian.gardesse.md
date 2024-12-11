@@ -10,5 +10,4 @@ missions:
 competences:
   - Croissance
 ---
-
 Business Developer

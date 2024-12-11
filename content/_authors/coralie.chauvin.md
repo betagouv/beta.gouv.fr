@@ -18,5 +18,4 @@ badges:
 competences:
   - Communication
 ---
-
 Animatrice de la communauté de bénévole JeVeuxAider.gouv.fr

@@ -17,5 +17,4 @@ missions:
 competences:
   - Gestion de Produit
 ---
-
 Responsable produit (PO)

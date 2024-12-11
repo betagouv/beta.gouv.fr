@@ -21,4 +21,5 @@ missions:
     startups:
       - les-emplois
       - pilotage.de.linclusion
+competences: []
 ---

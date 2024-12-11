@@ -21,8 +21,6 @@ missions:
     startups:
       - moncomptepro
       - proconnect
-
 competences: []
 ---
-
 Living JS build tool.

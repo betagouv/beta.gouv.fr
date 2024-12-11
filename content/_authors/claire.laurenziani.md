@@ -17,5 +17,4 @@ missions:
     startups:
       - suite.territoriale
 ---
-
 Communicante engagée pour l'environnement

@@ -16,6 +16,6 @@ missions:
     employer: mission-apprentissage
     startups:
       - la-bonne-alternance
+competences: []
 ---
-
 Développeur full-stack, single page app monomaniac

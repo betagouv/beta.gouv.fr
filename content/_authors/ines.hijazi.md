@@ -1,6 +1,6 @@
 ---
 fullname: Inès Hijazi
-role: "Développement & relations institutionnelles | Plateforme de l'inclusion "
+role: 'Développement & relations institutionnelles | Plateforme de l''inclusion '
 domaine: Coaching
 link: https://www.linkedin.com/in/ineshijazi/
 github: ineshijazi
@@ -33,7 +33,6 @@ missions:
       - mon-recap
       - pilotage.de.linclusion
       - place-de-marche-inclusion
-      - les-emplois
 badges:
   - segur
 teams:

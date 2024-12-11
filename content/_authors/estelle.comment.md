@@ -26,4 +26,5 @@ missions:
     employer: Malt
     startups:
       - tchap
+competences: []
 ---

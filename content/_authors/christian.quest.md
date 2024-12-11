@@ -31,5 +31,4 @@ competences:
   - PostgreSQL
   - Data Science
 ---
-
 Data addict, open, maker et récidiviste

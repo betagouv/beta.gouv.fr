@@ -35,4 +35,5 @@ missions:
       - la.communaute.de.linclusion
       - les-emplois
       - permis-de-construire-facile
+competences: []
 ---

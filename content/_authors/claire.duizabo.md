@@ -25,5 +25,4 @@ competences:
   - Coaching
 link: https://www.linkedin.com/in/claireduizabo/
 ---
-
 Experte FAST & Coach
