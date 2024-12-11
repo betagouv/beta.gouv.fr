@@ -15,4 +15,3 @@ teams:
 link: https://www.linkedin.com/in/noemiep/
 competences: []
 ---
-Responsable de l'Atelier numérique du MEAE
