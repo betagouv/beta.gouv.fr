@@ -15,7 +15,9 @@ thematiques:
 usertypes:
   - etat
   - collectivite-territoriale
-techno: []
+techno:
+  - python
+  - typescript
 mon_service_securise: true
 repository: https://github.com/gristlabs/grist-core
 link: https://lasuite.numerique.gouv.fr/services/grist
@@ -27,6 +29,8 @@ events:
   - name: product_launch
     date: 2022-07-01
     comment: Première instance et premiers commits par l'équipe Données et Territoires de l'ANCT.
+stats_url: https://stats.beta.numerique.gouv.fr/indicators/grist
+dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/grist-incubateur-anct-gouv-fr-o-docs/best-practices/
 ---
 ## Le drame
 

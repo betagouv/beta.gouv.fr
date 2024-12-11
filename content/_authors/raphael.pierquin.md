@@ -13,9 +13,14 @@ missions:
     startups:
       - données-et-territoires
       - grist.numerique.gouv.fr
-      - l-application-du-cej
       - l-immersion-facile
       - notifications-v2
+  - start: 2024-01-01
+    end: 2024-07-31
+    status: service
+    employer: Fabrique Numérique des Ministères Sociaux
+    startups:
+      - l-application-du-cej
 previously:
   - zam
   - maraudes

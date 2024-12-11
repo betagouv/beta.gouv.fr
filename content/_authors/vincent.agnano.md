@@ -17,6 +17,11 @@ missions:
       - classe-a-12
       - data.gouv.fr
       - eac
+  - start: 2023-01-02
+    end: 2024-07-31
+    status: service
+    employer: Fabrique Numérique des Ministères Sociaux
+    startups:
       - egalite.professionnelle
 previously:
   - egalite.professionnelle

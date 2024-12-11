@@ -17,7 +17,10 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - api-entreprise
       - api.gouv.fr
+      - api-particulier
+      - datapass
 incubator: dinum
 startups:
   - valorisation.des.stages.pro
