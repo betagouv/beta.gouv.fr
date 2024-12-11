@@ -32,5 +32,4 @@ missions:
 competences:
   - Coaching
 ---
-
 Service designer enthousiaste

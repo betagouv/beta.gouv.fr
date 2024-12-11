@@ -29,5 +29,4 @@ competences:
   - Développement Backend
   - UI
 ---
-
 Développeur / designer freelance

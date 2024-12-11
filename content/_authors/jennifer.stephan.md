@@ -15,7 +15,6 @@ missions:
       - ellesfontlaculture
       - icare-complements-alimentaires
       - ma-cantine-egalim
-      - pop
       - protege-toit
       - reperer.identifier.victimes.teh
   - start: 2024-07-01

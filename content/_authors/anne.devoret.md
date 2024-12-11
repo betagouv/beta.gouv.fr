@@ -35,5 +35,4 @@ badges:
   - segur
 competences: []
 ---
-
 Designer

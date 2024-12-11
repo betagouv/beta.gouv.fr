@@ -26,5 +26,4 @@ competences:
   - Matomo
 link: https://www.linkedin.com/in/jonathanlouis2/
 ---
-
 « La principale difficulté n’est pas de produire un film, un livre ou un site web, mais d’attirer l’attention du public ». Yves Citton, philosophe

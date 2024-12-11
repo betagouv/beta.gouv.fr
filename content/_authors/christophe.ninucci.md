@@ -17,6 +17,6 @@ missions:
     employer: dinum
     startups:
       - suite-numerique
+competences: []
 ---
-
 Intrapreneur de la messagerie de la suite numérique

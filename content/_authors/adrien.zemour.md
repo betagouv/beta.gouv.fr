@@ -24,5 +24,4 @@ teams:
   - /teams/animation-dinum
 competences: []
 ---
-
 On m'a vu dans le Vercors

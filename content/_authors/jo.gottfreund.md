@@ -14,6 +14,6 @@ missions:
     end: 2030-01-01
     status: independent
     employer: Fabrique Numérique des Ministères Sociaux
+competences: []
 ---
-
 Open-Source Fanatic 🦊

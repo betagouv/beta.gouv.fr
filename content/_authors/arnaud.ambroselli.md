@@ -46,5 +46,4 @@ competences:
   - Développement Frontend
   - DevOps
 ---
-
 Développeur

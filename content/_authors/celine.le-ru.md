@@ -34,5 +34,4 @@ competences:
   - Coaching
 link: https://www.linkedin.com/in/celine-le-ru/
 ---
-
 Ma boite à outils est dispo sur Figjam : https://www.figma.com/@celine_leru

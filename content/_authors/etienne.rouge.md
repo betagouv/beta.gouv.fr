@@ -15,6 +15,6 @@ missions:
     status: independent
     startups:
       - aplus
+competences: []
 ---
-
 Developpeur Front-end (plutôt vuejs), fan de musique, jeux de sociétés, de jeux de mots douteux et autres

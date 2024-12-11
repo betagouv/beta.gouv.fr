@@ -13,11 +13,9 @@ missions:
     status: service
     employer: octo
     startups:
-      - pix
       - chauffage-urbain
 competences:
   - Développement Frontend
   - Développement Backend
 ---
-
 Développeur web full-stack avec une teinture software craftmanship, passionné par la transformation digitale et le design applicatif :)

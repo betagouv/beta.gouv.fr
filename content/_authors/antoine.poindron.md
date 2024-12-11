@@ -20,5 +20,4 @@ badges:
   - segur
 competences: []
 ---
-
 UI designer au service premier de l'utilisateur !

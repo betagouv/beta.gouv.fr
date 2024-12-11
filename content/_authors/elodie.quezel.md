@@ -15,6 +15,6 @@ missions:
     employer: DGE
     startups:
       - signaux-faibles
+competences: []
 ---
-
 Pilote opérationnelle

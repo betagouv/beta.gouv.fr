@@ -35,7 +35,6 @@ missions:
     employer: Malt
     startups:
       - monitorfish
-
 competences:
   - Développement Backend
   - Développement Frontend
