@@ -5,14 +5,17 @@ sponsors:
   - /organisations/dgaln
 incubator: mtes
 phases:
-  - name: construction
-    start: 2023-09-01
+  - name: acceleration
+    start: 2024-09-02
 events:
   - name: committee
     date: 2023-08-22
     comment: Comité de fin d'investigation
+  - name: committee
+    date: 2024-07-22
+    comment: Comité d'investissement
 link: https://boris.beta.gouv.fr
-repository: https://github.com/betagouv/boris
+repository: https://github.com/MTES-MCT/boris
 stats: false
 contact: nathan.gaudelet@beta.gouv.fr
 accessibility_status: non conforme
@@ -20,6 +23,11 @@ thematiques:
   - Social
   - Logement
   - Administratif
+stats_url: https://boris.beta.gouv.fr/statistiques
+dashlord_url: https://dashlord.mte.incubateur.net/url/boris-beta-gouv-fr/
+usertypes:
+  - particulier
+techno: []
 ---
 <h2>2,4 millions</h2>
 

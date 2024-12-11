@@ -11,7 +11,7 @@ stats: false
 budget_url: https://longuevieauxobjets.ademe.fr/budget
 dashlord_url: https://dashlord.incubateur.ademe.fr/startup/longuevieauxobjets
 analyse_risques: true
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 redirect_from:
   - /startups/quefairedemesobjets
 usertypes:
@@ -22,7 +22,14 @@ usertypes:
 analyse_risques_url: https://github.com/incubateur-ademe/quefairedemesobjets/blob/main/SECURITY.md
 events:
   - name: committee
-    date: 2023-04-06
+    date: 2023-11-14
+    comment: 1er comité d'investissement
+  - name: committee
+    date: 2024-05-30
+    comment: 2nd comité d'investissement
+  - name: committee
+    date: 2025-01-15
+    comment: 3ème comité d'investissement
 phases:
   - name: investigation
     start: 2023-01-01
@@ -85,10 +92,12 @@ Longue vie aux objets est un service numérique conçu selon l’**approche Star
 
 Pour mesurer l'impact de nos produits, nous nous fixons des objectifs et des indicateurs.
 
-Nos 3 principaux objectifs avec leur indicateur  "étoile du nord" suivi sont :
-* **Fiabiliser et enrichir les données** : suivi du pourcentage des acteurs de notre base de données avec un SIRET
-* **Démultiplier la réutilisation de nos outils** (avec un focus sur les collectivités) : suivi du nombre de collectivités réutilisant un de nos outils
-* **Orienter nos utilisateurs vers les pratiques les plus responsables** : suivi du nombre d'interactions mensuelles avec les solutions proposées sur notre carte
+Nos 3 principaux objectifs sont :
+* **Fiabiliser et enrichir les données**
+* **Démultiplier la réutilisation de nos outils** (avec un focus sur les collectivités en 2024)
+* **Orienter nos utilisateurs vers les pratiques les plus responsables** 
+
+Notre **indicateur principal "étoile du nord"** est le **nombre de visiteurs orientés mensuellement**, soit les visiteurs qui ont réellement eu des interactions avec un de nos outils (consultation d'une fiche produit ou d'un lieu sur la carte). 
 
 Tous nos indicateurs peuvent être suivis sur le [site de notre startup](https://longuevieauxobjets.ademe.fr/stats/).
 

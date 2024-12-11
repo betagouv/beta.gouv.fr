@@ -20,6 +20,8 @@ phases:
 thematiques:
   - Écologie
 usertypes: []
+stats_url: https://mesaidesreno.beta.gouv.fr/stats
+dashlord_url: https://dashlord.incubateur.net/url/mesaidesreno-beta-gouv-fr/
 ---
 ## Contexte
 

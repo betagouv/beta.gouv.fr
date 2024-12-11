@@ -9,7 +9,7 @@ sponsors:
   - /organisations/anct
 phases:
   - name: acceleration
-    start: 2024-01-01
+    start: 2024-12-01
 thematiques:
   - Collectivités
   - Territoires

@@ -2,8 +2,8 @@
 mission: Faciliter le processus de contrôle et surveillance des denrées alimentaires en permettant la circulation et l'accès en temps réel d'une donnée de qualité entre les différents acteurs.
 incubator: agriculture
 title: Maestro
-contact: diane.cuzzucoli@agriculture.gouv.fr
-accessibility_status: totalement conforme
+contact: contact@maestro.beta.gouv.fr
+accessibility_status: non conforme
 sponsors:
   - /organisations/dgal
 phases:

@@ -10,7 +10,6 @@ missions:
     status: service
     employer: AD-HOC Lab
     startups:
-      - dmat-iae
       - exposition-ij
       - la-bonne-alternance
       - pilotage.de.linclusion
