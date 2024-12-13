@@ -1,0 +1,34 @@
+---
+fullname: Ossama Ben Jemaa
+role: Designer
+domaine: Design
+github: https://github.com/ossamabenjemaa
+link: https://www.linkedin.com/in/ossamabenjemaa/
+competences:
+  - UX
+  - UI
+  - Product design
+  - Product strategy
+  - Facilitation
+  - Accessibilité
+  - Communication
+missions:
+  - start: 2024-12-12
+    end: 2025-12-31
+    employer: Fairness
+    status: independent
+    startups:
+      - dialogue
+---
+Bonjour, depuis 2018 je participe à la conception de produits
+numériques. De l’idéation au prototypage haute fidélité, cela
+me tient à cœur de concevoir des produits soutenables et
+évolutifs, en intégrant des pratiques de Design Ops pour
+assurer un processus fluide et performant.
+
+Au-delà de la conception, j’aime créer un environnement où
+les idées émergent facilement et où les décisions se
+prennent en toute clarté. J’accorde une attention particulière
+à la communication avec chaque partie prenante, pour
+favoriser une collaboration harmonieuse et un alignement
+fort sur les objectifs et l’impact du produit.

@@ -14,5 +14,7 @@ missions:
       - valorisation.des.stages.pro
 badges:
   - segur
+teams:
+  - /teams/communaute-dinum
 ---
 Lead dev à l'Incubateur des Services Numériques (ISN).

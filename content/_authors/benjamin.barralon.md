@@ -5,7 +5,7 @@ domaine: Produit
 github: benjaminbarralon
 missions:
   - start: 2022-03-21
-    end: 2024-12-31
+    end: 2025-03-01
     status: admin
     employer: AMUE
     startups:
@@ -17,4 +17,5 @@ teams:
   - /teams/mission-inserjeunes
 badges:
   - segur
+competences: []
 ---
