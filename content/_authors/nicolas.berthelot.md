@@ -9,10 +9,17 @@ missions:
     end: 2022-06-06
     status: independent
     employer: LaZone
+    startups:
+      - transport
   - start: 2021-12-06
     end: 2025-06-06
     status: admin
     employer: IGN
+  - start: 2024-10-01
+    end: 2025-03-31
+    status: admin
+    startups:
+      - carto-services-publics
 previously:
   - transport
 teams:

@@ -12,12 +12,18 @@ missions:
       - demarches-simplifiees.fr
       - jeveuxaider
   - start: 2024-03-18
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
+    employer: Actimage
     startups:
       - sirius
+  - start: 2024-05-01
+    end: 2024-10-31
+    status: independent
+    employer: Fairness
+    startups:
       - vigieau
-  - start: 2024-05-10
+  - start: 2024-05-01
     end: 2024-09-30
     status: independent
     employer: Malt
@@ -30,5 +36,6 @@ competences:
   - Machine learning
   - Python
   - Data Science
+github: huynhdoo
 ---
 Expert du machine learning et de la data-science, je modélise, explicite et intègre toutes solutions à partir de vos données métiers afin de vous faire gagner le temps utile pour ceux et celles qui comptent vraiment.

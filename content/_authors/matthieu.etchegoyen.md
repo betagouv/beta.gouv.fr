@@ -17,5 +17,18 @@ missions:
     employer: Scopyleft
     startups:
       - mon.espace.collectivite
+  - start: 2024-11-01
+    end: 2024-12-31
+    status: independent
+    employer: LittleBig Connection
+    startups:
+      - recommandations-collaboratives
+  - start: 2025-01-01
+    end: 2025-03-16
+    status: independent
+    employer: LittleBig Connection
+    startups:
+      - recommandations-collaboratives
 memberType: beta
+competences: []
 ---

@@ -6,13 +6,14 @@ link: https://www.shinsen.fr
 github: gdarquie
 missions:
   - start: 2023-07-03
-    end: 2024-12-31
+    end: 2025-09-01
     status: independent
     employer: DINUM
     startups:
       - moncomptepro
       - proconnect
 memberType: dinum
-competences: []
+competences:
+  - Développement Backend
 ---
 Développeur Node JS

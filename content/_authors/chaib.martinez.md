@@ -28,6 +28,7 @@ missions:
     status: independent
     employer: numa
     startups:
+      - faritas
       - la-bonne-alternance
       - sites-faciles
   - start: 2023-12-01

@@ -5,7 +5,7 @@ sponsors:
   - /organisations/dinum
 incubator: dinum_produits_interministeriels
 contact: tchap@beta.gouv.fr
-link: https://tchap.beta.gouv.fr/
+link: https://tchap.numerique.gouv.fr/
 repository: https://github.com/tchapgouv
 events:
   - name: national_impact

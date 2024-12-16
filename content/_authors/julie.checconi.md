@@ -5,11 +5,12 @@ domaine: Design
 link: https://www.studioletandem.com
 missions:
   - start: 2023-09-18
-    end: 2024-12-31
+    end: 2025-05-01
     status: independent
     employer: Ademe
     startups:
       - plusfraichemaville
 memberType: beta
+competences: []
 ---
 Designer de service, UX UI, illustratrice

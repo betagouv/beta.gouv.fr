@@ -25,4 +25,5 @@ competences:
   - Croissance
 teams:
   - /teams/animation-dinum
+  - /teams/communaute-dinum
 ---
