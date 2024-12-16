@@ -3,10 +3,10 @@ domaine: Développement
 fullname: Grégoire Cutzach
 role: Développement
 missions:
-  - start: 2024-05-22
-    end: 2024-12-31
+  - start: 2024-10-01
+    end: 2025-03-31
     status: independent
-    employer: Malt
+    employer: ut7
     startups:
       - grist.numerique.gouv.fr
 link: https://www.linkedin.com/in/gr%C3%A9goire-cutzach-497340148/

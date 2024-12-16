@@ -5,13 +5,16 @@ title: MonProjetSup
 contact: hugo.gimbert@beta.gouv.fr
 sponsors:
   - /organisations/mesr
+  - /organisations/onisep
 phases:
   - name: investigation
     start: 2023-11-11
   - name: construction
     start: 2024-03-11
-accessibility_status: non conforme
-link: https://beta.monprojetsup.fr/
+  - name: acceleration
+    start: 2024-12-10
+accessibility_status: partiellement conforme
+link: https://monprojetsup.fr/
 thematiques:
   - Jeunesse
   - Education
@@ -20,6 +23,18 @@ repository: https://github.com/betagouv/monprojetsup
 budget_url: https://monprojetsup.fr/budget/
 dashlord_url: https://dashlord.incubateur.net/url/monprojetsup-fr/
 analyse_risques: true
+mon_service_securise: true
+usertypes:
+  - particulier
+  - etablissement-scolaire
+techno:
+  - react
+  - kotlin
+  - java
+  - postgre
+events:
+  - name: product_launch
+    date: 2024-12-10
 ---
 ## Contexte
 

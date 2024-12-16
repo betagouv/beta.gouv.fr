@@ -4,7 +4,7 @@ fullname: Michel Pardoux
 role: Intraprenariat
 missions:
   - start: 2024-03-05
-    end: 2024-12-31
+    end: 2025-03-31
     status: admin
     startups:
       - investigation.d.un.pole.de.competences.numerique

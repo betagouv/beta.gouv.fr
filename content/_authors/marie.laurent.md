@@ -5,7 +5,7 @@ domaine: Design
 link: http://marielaurent.fr/
 missions:
   - start: 2023-06-09
-    end: 2024-12-09
+    end: 2025-12-09
     status: independent
     employer: Omnicité
 memberType: autre

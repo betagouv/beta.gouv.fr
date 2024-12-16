@@ -6,7 +6,7 @@ github: gauthierandre
 avatar: https://avatars.githubusercontent.com/u/85872944?v=4
 missions:
   - start: 2021-06-10
-    end: 2024-12-31
+    end: 2025-02-28
     status: independent
     employer: MALT
     startups:

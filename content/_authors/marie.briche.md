@@ -5,7 +5,7 @@ role: Responsable du déploiement
 github: Marie-briche
 missions:
   - start: 2017-05-01
-    end: 2024-12-31
+    end: 2025-12-31
     status: admin
     employer: pole-emploi
     startups:

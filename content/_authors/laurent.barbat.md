@@ -18,11 +18,17 @@ missions:
     startups:
       - aldo
   - start: 2023-06-12
-    end: 2025-05-31
+    end: 2025-07-31
     status: independent
     employer: Numa
     startups:
       - tacct
+  - start: 2024-09-16
+    end: 2025-12-31
+    status: independent
+    employer: Dynergie
+    startups:
+      - 1-jeune-1-arbre
 competences:
   - Product strategy
   - Coaching

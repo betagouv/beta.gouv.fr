@@ -6,7 +6,7 @@ github: Julianne-Lagadec
 link: https://fr.linkedin.com/in/julianne-lagadec
 missions:
   - start: 2021-04-01
-    end: 2024-12-31
+    end: 2025-02-28
     status: admin
     startups:
       - exposition-ij
