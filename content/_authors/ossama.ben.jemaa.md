@@ -15,8 +15,8 @@ competences:
 missions:
   - start: 2024-12-12
     end: 2025-12-31
-    employer: Fairness
     status: independent
+    employer: Fairness
     startups:
       - dialogue
 ---

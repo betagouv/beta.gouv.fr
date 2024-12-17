@@ -2,12 +2,25 @@
 fullname: Michaël NASS
 role: Ingénieur Full-Stack
 domaine: Développement
-competences: []
+competences:
+  - Développement Full-stack
+  - Développement Backend
+  - Développement Frontend
+  - Python
+  - PostgreSQL
+  - PHP
+  - JavaScript/TypeScript
+  - DevOps
+  - Docker
+  - Administration Système
 missions:
   - start: 2024-11-20
     end: 2025-06-29
-    employer: Malt
     status: service
+    employer: Malt
     startups:
       - datalma
+github: PlugNPush
+link: https://www.linkedin.com/in/michael-nass
 ---
+Étudiant sortant / ingénieur quadrilingue en Software Engineering @ Efrei Paris. Passionné par l'informatique depuis mes 7 ans.

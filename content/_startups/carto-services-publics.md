@@ -17,12 +17,9 @@ sponsors:
   - /organisations/ditp
 phases:
   - name: investigation
-    comment: null
     start: 2024-10-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-10-01
 ---
 ## Contexte

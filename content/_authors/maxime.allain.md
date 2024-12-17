@@ -12,8 +12,8 @@ competences:
 missions:
   - start: 2024-12-16
     end: 2025-03-31
-    employer: Scopopop
     status: independent
+    employer: Scopopop
     startups:
       - gestion.subventions.locales
 ---
