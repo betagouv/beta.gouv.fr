@@ -9,9 +9,8 @@ missions:
     status: independent
     employer: Numericité
     startups:
-      - carte-jeune-engage
+      - pass.engagement.jeune
 previously:
-  - cm2d
   - tumeplay
   - aides.jeunes
 competences:
