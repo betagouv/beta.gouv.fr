@@ -4,16 +4,18 @@ domaine: Développement
 role: Développeur
 github: clementnumericite
 missions:
-  - start: 2021-03-16
-    end: 2021-05-15
+  - start: 2023-12-01
+    end: 2025-12-31
     status: independent
-    employer: Octo
+    employer: Numericité
     startups:
-      - tumeplay
+      - carte-jeune-engage
 previously:
+  - cm2d
+  - tumeplay
   - aides.jeunes
 competences:
-  - Développement Frontend
-  - Développement Backend
+  - Développement Fullstack
+  - Elastic
 ---
-Développeur fullstack au service du bien commun
+Développeur fullstack
