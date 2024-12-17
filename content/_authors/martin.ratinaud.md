@@ -13,7 +13,7 @@ missions:
       - disinfo
       - open-terms-archive
   - start: 2024-07-04
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: malt
     startups:

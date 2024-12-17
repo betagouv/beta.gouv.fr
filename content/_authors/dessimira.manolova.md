@@ -9,7 +9,12 @@ missions:
     employer: Malt
     startups:
       - l-application-du-cej
-      - l-immersion-facile
+  - start: 2024-01-31
+    end: 2025-01-31
+    status: independent
+    employer: Malt
+    startups:
+      - l-application-du-cej
 badges:
   - segur
 competences: []

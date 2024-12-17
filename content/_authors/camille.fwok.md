@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Camillefwok
 missions:
   - start: 2020-10-07
-    end: 2025-01-30
+    end: 2024-12-20
     status: independent
     employer: malt
     startups:

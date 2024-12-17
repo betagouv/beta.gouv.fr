@@ -7,8 +7,8 @@ competences: []
 missions:
   - start: 2024-12-16
     end: 2025-12-31
-    employer: Direction Eau Biodiversité du Ministère Chargé de l'Ecologie
     status: admin
+    employer: Direction Eau Biodiversité du Ministère Chargé de l'Ecologie
     startups:
       - vigieau
 ---
