@@ -11,6 +11,10 @@ missions:
     startups:
       - dossierfacile
 memberType: autre
+competences:
+  - Product strategy
+  - Product design
+  - Croissance
+  - Coaching
 ---
-CPO Freelance & Coach Product, spécialiste du lancement de nouveaux produits digitaux. Mon mantra: utiliser
-  la tech pour créer des services qui ont un impact positif.
+CPO Freelance & Coach Product, spécialiste du lancement de nouveaux produits digitaux. Mon mantra: utiliser la tech pour créer des services qui ont un impact positif.

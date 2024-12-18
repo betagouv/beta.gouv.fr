@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2022-03-01
     end: 2025-06-30
-    employer: SGAR Bretagne
     status: service
+    employer: SGAR Bretagne
     startups:
       - pe-ate
 ---

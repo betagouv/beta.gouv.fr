@@ -1,6 +1,6 @@
 ---
 fullname: Maxime Allain
-role: Développeur full-stack à Gestion des Subventions Locales
+role: Développeur | Gestion des Subventions Locales
 domaine: Développement
 github: maximallain
 link: https://www.linkedin.com/in/maxime-allain-497a13b1/
