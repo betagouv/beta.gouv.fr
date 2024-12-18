@@ -1,16 +1,24 @@
 # Contribuer au site public de beta.gouv.fr
 
-## Bonnes pratiques de contributions
+## Contributions
 
-### Relecture des propositions
+### Startups et membres
 
-Pour une **mise à jour** (de date de mission, ou de fiche produit), la modification peut être **mergée sans relecture**.
+La modification des données relatives aux membres, produits ou incubateurs est réservé aux membres de la communauté beta.gouv.fr.
 
-Pour les modifications plus complexes, **la modification doit être relue et approuvée par une autre personne que l'auteur avant d’être intégrée** pour :
+Ces modifications doivent se faire via l'[espace membre](https://espace-membre.incubateur.net/dashboard).
+
+
+### Contenu éditorial
+
+[Rechercher le contenu à modifier](https://github.com/betagouv/beta.gouv.fr/search?q=contenu+à+modifier&type=Code) et éditer le fichier correspondant.
+
+
+### Bonnes pratiques de contributions
+
+Les contributions doivent être **relues et approuvées par une autre personne que l'auteur avant d’être intégrée** pour :
 - éviter les erreurs d'inattention
 - se mettre d'accord collectivement sur le contenu publié au nom de l'incubateur.
-
-### Demande de relecture
 
 **L'auteur d'une modification est responsable d'obtenir une relecture**, en relançant les gens périodiquement. Pour demander une relecture :
 
@@ -19,22 +27,6 @@ Pour les modifications plus complexes, **la modification doit être relue et app
 3. **Si plusieurs jours s'écoulent à nouveau**, contacter directement un relecteur potentiel (par exemple par message privé ou public sur le [Mattermost de l'incubateur](https://mattermost.incubateur.net), ou en présentiel dans les locaux de _beta.gouv.fr_).
 
 Pour les relectures de code, il vaut mieux choisir une personne ayant un peu l'habitude de Jekyll, de Ruby ou du développement web. En revanche, en cas d'urgence sur une relecture éditoriale, toute personne de l'incubateur est légitime à approuver les modifications.
-
-### Conseils pour les relecteurs
-
-- **Commentez le code ou le texte – pas l'auteur** : on ne cherche pas à assigner de responsabilités ou à critiquer l'auteur ; mais juste à voir comment un bout de code ou de texte pourrait être plus pertinent.
-- **Si vous critiquez, proposez** : si quelque chose ne vous plait pas, expliquez comment vous proposeriez de l'améliorer.
-- **Soyez souple** : si vous avez une remarque mineure, ne bloquez pas la pull request avec une revue négative. Il vaut mieux approuver la pull request, en laissant l'auteur responsable de prendre en compte (ou pas) vos remarques.
-
-## Modifier le contenu de beta.gouv.fr
-
-### Startups et membres
-
-Les créations et modifications de fiches membres peuvent se faire via l'[Espace membre](https://espace-membre.incubateur.net/account)
-
-### Contenu éditorial
-
-[Rechercher le contenu à modifier](https://github.com/betagouv/beta.gouv.fr/search?q=contenu+à+modifier&type=Code) et éditer le fichier correspondant.
 
 ## Développement en local
 
