@@ -7,7 +7,7 @@ Le site public de l'Incubateur de Services Numériques de l'État français.
 Ce repository propose :
 - Un **site statique** qui présente le programme beta.gouv.fr, le réseau, etc
 - Des **API** qui exposent les données du programme ([membres de la communauté](https://beta.gouv.fr/api/v2.6/authors.json), [startups d'états](https://beta.gouv.fr/api/v2.6/startups.json)...)
-- Une **console Ruby** pour explorer les données : `/bin/beta-rb`.
+- Une **console Ruby** pour explorer les données : `make dsl`.
 
 ## Les sous-domaines *.beta.gouv.fr
 
