@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2024-12-17
     end: 2025-03-31
-    employer: MALT
     status: independent
+    employer: MALT
     startups:
       - pilotage.de.linclusion
 ---

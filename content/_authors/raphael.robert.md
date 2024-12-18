@@ -10,5 +10,6 @@ missions:
     startups:
       - tchap
 memberType: beta
+competences: []
 ---
 Chargé de déploiement

@@ -23,4 +23,3 @@ missions:
 github: PlugNPush
 link: https://www.linkedin.com/in/michael-nass
 ---
-Étudiant sortant / ingénieur quadrilingue en Software Engineering @ Efrei Paris. Passionné par l'informatique depuis mes 7 ans.

@@ -5,7 +5,7 @@ domaine: Coaching
 link: https://www.linkedin.com/in/cyril-ache-it/
 missions:
   - start: 2023-01-31
-    end: 2024-12-31
+    end: 2025-01-31
     status: independent
     employer: Malt
     startups:

@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: tanguy.stehelin@diplomatie.gouv.fr
+contact: atelier.numerique@diplomatie.gouv.fr
 thematiques:
   - Recherche documentaire
 usertypes:
@@ -14,9 +14,12 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-09-02
+  - name: alumni
+    start: 2024-12-16
 events:
   - name: product_launch
     date: 2024-10-09
+techno: []
 ---
 ## Contexte
 

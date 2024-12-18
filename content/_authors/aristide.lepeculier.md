@@ -5,7 +5,7 @@ role: Chef de projet
 github: lepeculiera
 missions:
   - start: 2024-04-01
-    end: 2024-12-30
+    end: 2025-12-31
     status: service
     employer: SGAR Bretagne
     startups:
