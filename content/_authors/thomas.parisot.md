@@ -8,10 +8,20 @@ missions:
     end: 2017-12-30
     status: independent
     employer: octo
+    startups:
+      - data.gouv.fr
   - start: 2020-02-04
     end: 2024-06-28
     status: independent
     employer: lazone/scopyleft
+    startups:
+      - cartobio
+  - start: 2025-01-06
+    end: ~
+    status: independent
+    employer: lazone/scopyleft
+    startups:
+      - equipements-bio
   - start: 2022-06-21
     end: 2025-09-30
     status: service
