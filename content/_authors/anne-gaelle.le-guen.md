@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2024-12-18
     end: 2027-12-09
-    employer: SGAR Bretagne
     status: admin
+    employer: SGAR Bretagne
     startups:
       - data.etat
       - pe-ate

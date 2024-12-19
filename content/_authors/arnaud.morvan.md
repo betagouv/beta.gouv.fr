@@ -5,10 +5,11 @@ domaine: Design
 github: arnaudmorvan
 missions:
   - start: 2023-09-04
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     startups:
       - territoires-en-transitions
 memberType: beta
+competences: []
 ---
 UXUI Designer
