@@ -13,5 +13,6 @@ link: https://www.linkedin.com/in/ca1000-verleye/
 github: /
 competences:
   - Intrapreneur(se)
+  - Facilitation
 memberType: beta
 ---
