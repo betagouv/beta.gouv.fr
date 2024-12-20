@@ -8,5 +8,8 @@ missions:
     end: 2018-12-31
     status: service
     employer: octo
+  - start: 2024-12-20
+    end: 2025-02-28
+    status: independent
 ---
 Ambassadeur et facilitateur des Startups d'Etat. Je contribue au recrutement des équipes et j'accompagne des réinternalisations.

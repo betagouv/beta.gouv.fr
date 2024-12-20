@@ -16,6 +16,8 @@ dashlord_url: https://dashlord.incubateur.net/url/mobilic-beta-gouv-fr/
 phases:
   - name: investigation
     start: 2019-11-01
+  - name: construction
+    start: 2020-02-25
   - name: acceleration
     start: 2021-01-01
 fast:

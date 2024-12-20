@@ -8,8 +8,7 @@ competences:
 missions:
   - start: 2024-11-04
     end: 2025-12-18
-    employer: DTNUM/ SDID/  Bureau des Politiques Numériques Ministérielles
     status: admin
-    startups: []
+    employer: DTNUM/ SDID/  Bureau des Politiques Numériques Ministérielles
 ---
 End to end product manager & Leader. Agile & Lean expert. Coach agile @scale certifié.

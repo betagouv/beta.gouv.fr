@@ -20,5 +20,6 @@ competences:
   - JavaScript/TypeScript
   - PHP
   - PostgreSQL
+link: https://www.linkedin.com/in/cyrille-corbin-33571368/
 ---
 Développeur FullStack expérimenté très curieux des nouvelles technologies de développement.
