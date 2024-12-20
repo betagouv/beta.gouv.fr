@@ -14,6 +14,7 @@ thematiques:
   - Entreprises
 usertypes:
   - collectivite-territoriale
+  - etat
 stats_url: https://deveco.incubateur.anct.gouv.fr/stats
 stats: true
 phases:
@@ -24,6 +25,9 @@ phases:
     start: 2022-01-31
   - name: acceleration
     start: 2024-04-01
+analyse_risques: false
+mon_service_securise: true
+techno: []
 ---
 ## Le contexte
 
