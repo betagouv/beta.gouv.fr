@@ -10,10 +10,14 @@ phases:
   - name: investigation
     start: 2023-06-20
     end: 2023-09-29
+  - name: alumni
+    start: 2023-12-31
 thematiques:
   - Santé
   - Social
   - Sport
+usertypes: []
+techno: []
 ---
 ## Contexte
 
@@ -26,3 +30,7 @@ Il existe de nombreux freins à la pratique sportive pour les personnes en situa
 ## Stratégie
 
 Nous allons mener notre investigation avec à la fois une étude qualitative d'un panel représentatif de personnes composant l’écosystème du sport handicap. Puis nous allons tenter de valider les informations recueillies par une étude quantitative. L’enjeu de l’investigation sera d’aller interroger et comprendre sur le terrain les irritants rencontrés par les personnes en situation de handicap dans leur accès au sport, et d’identifier quelle solution serait la plus pertinente à leur apporter.
+
+## Fin de l'investigation
+
+Cette investigation n'a pas donné lieu au lancement d'une Startup d'État.

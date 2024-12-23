@@ -32,6 +32,7 @@ techno:
   - CSS
 repository: https://github.com/mission-apprentissage/c-est-qui-le-pro/
 link: https://cestquilepro.inserjeunes.beta.gouv.fr/
+dashlord_url: https://dashlord.incubateur.net/url/cestquilepro-inserjeunes-beta-gouv-fr/
 ---
 ## Le problème
 

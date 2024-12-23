@@ -6,7 +6,7 @@ link: https://github.com/mehdilouraoui
 github: mehdilouraoui
 missions:
   - start: 2021-05-31
-    end: 2023-12-31
+    end: 2025-03-31
     status: service
     employer: Octo
     startups:

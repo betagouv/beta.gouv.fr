@@ -14,20 +14,15 @@ techno: []
 title: DemainSpécialisteCyber
 mission: Former les jeunes à la cybersécurité et susciter des vocations
 incubator: lab-innov-anssi
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2022-09-01
-    end: null
   - name: construction
-    comment: null
     start: 2023-09-01
-    end: null
 events:
   - name: product_launch
-    comment: Lancement public de DemainSpécialisteCyber au Campus Cyber.
     date: 2023-11-05
+    comment: Lancement public de DemainSpécialisteCyber au Campus Cyber.
 ---
 ## Le problème
 

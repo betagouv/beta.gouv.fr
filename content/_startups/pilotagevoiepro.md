@@ -3,10 +3,12 @@ title: Orion
 mission: Contribuer à la transformation de la carte des formations des lycées professionnels
 sponsors:
   - /organisations/dgesco
-incubator: mission-inserjeunes
+incubator: dinum
 phases:
   - name: acceleration
     start: 2023-01-01
+  - name: transfer
+    start: 2024-12-01
 repository: https://github.com/mission-apprentissage/tjp-pilotage
 stats_url: https://orion.inserjeunes.beta.gouv.fr/statistiques
 stats: true
@@ -64,7 +66,9 @@ Les premiers résultats sont encourageants :
 - De nombreuses transformations sont prévues pour la rentrée 2024, avec notamment la création de 3 670 nouvelles places par rapport à 2023.
 
 
+## Le transfert
 
+Fin 2024, la mission interministérielle Inserjeurnes est terminée. Le produit Orion est transféré à la DNE au sein du ministère chargé de l'éducation nationale.
 
 
 

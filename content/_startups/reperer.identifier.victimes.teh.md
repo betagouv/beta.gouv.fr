@@ -13,6 +13,8 @@ usertypes:
 phases:
   - name: investigation
     start: 2024-02-10
+  - name: alumni
+    start: 2024-09-30
 thematiques: []
 techno: []
 ---
@@ -48,14 +50,12 @@ Le repérage et l’identification des victimes est un processus complexe qui n�
 
 ## Investigation
 
-Lancée en avril 2024 une phase d’investigation associe Cécile Mantel pour la Mission interministérielle pour la protection des femmes contre les violences et la lutte contre la traite des êtres humains (Miprof) et Benoit Champy pour étudier la pertinence d’un outil numérique développer avec la DINUM qui fluidifierait le parcours des victimes et de leurs accompagnants. Cette investigation constitue la mesure du Plan national de lutte contre l’exploitation et la traite des êtres humains (2024-2027).
+Lancée en avril 2024 une phase d’investigation étudie la pertinence d’un outil numérique développer avec la DINUM qui fluidifierait le parcours des victimes et de leurs accompagnants. Cette investigation constitue la mesure du Plan national de lutte contre l’exploitation et la traite des êtres humains (2024-2027).
 
 Les questions abordées ont été multiples et de nombreux acteurs ont été auditionnés et réunis.
 
-## Nous contacter
+## Fin de l'investigation
 
-Cécile Mantel - Secrétaire générale adjointe, référente Miprof : cecile.mantel@miprof.gouv.fr
-
-Benoit Champy, coach DINUM, expert numérique : benoit.champy@beta.gouv.fr
+L'investigation a permis de construire un process de signalement par les associations qui a été à présent repris par la DNUM du ministère des Affaires Sociales pour une expérimentation via la plateforme [Dématérialisation des Démarches Sociales](https://demat.social.gouv.fr/).
 
 
