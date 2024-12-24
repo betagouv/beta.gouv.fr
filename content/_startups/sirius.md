@@ -3,10 +3,12 @@ title: Sirius
 mission: Aider les jeunes dans leurs choix d’orientation en donnant accès aux témoignages des apprentis
 sponsors:
   - /organisations/dgefp
-incubator: mission-inserjeunes
+incubator: dinum
 phases:
   - name: construction
     start: 2022-12-01
+  - name: transfer
+    start: 2024-12-31
 repository: https://github.com/mission-apprentissage/sirius
 contact: contact-sirius@inserjeunes.beta.gouv.fr
 usertypes:
@@ -22,6 +24,12 @@ thematiques:
   - Formation
 techno: []
 ---
+## Un service de la mission interministérielle Inserjeunes
+
+La mission interministérielle InserJeunes, lancée en 2022, visait à faciliter l'insertion professionnelle des jeunes en éclairant leurs choix d’orientation au regard du devenir des formations et en soutenant la transformation de la carte des formations initiales dans la perspective de l’objectif plein emploi. 
+
+La mission interministérielle Inserjeunes s'est terminée fin 2024, ce qui a occasionné le rattachement des services numériques créés à l'incubateur de services numérique de la DINUM en attendant leur pérennisation.  
+
 ## Le constat
 
 Plus de 1 500 CFA se sont créés depuis la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel. Les jeunes, leurs familles et les personnes qui les accompagnent dans leur orientation ont une visibilité restreinte sur l’ensemble des formations existantes et leur qualité.
