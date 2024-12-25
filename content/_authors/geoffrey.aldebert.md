@@ -11,8 +11,8 @@ competences:
 missions:
   - start: 2024-12-01
     end: 2026-12-31
-    employer: DINUM
     status: admin
+    employer: DINUM
     startups:
       - data.gouv.fr
 ---

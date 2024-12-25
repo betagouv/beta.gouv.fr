@@ -15,6 +15,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-04-01
+  - name: alumni
+    start: 2024-12-01
 ---
 ## Contexte
 
@@ -49,3 +51,7 @@ L'objectif est de faire bénéficier tous les établissements volontaires des so
 * **UX-UI Designer** : [Antoine San Segundo](https://www.linkedin.com/in/antoine-san-segundo/?originalSubdomain=fr)
 * **Mentors** : [Eric Heijligers](https://www.linkedin.com/in/eric-heijligers/?originalSubdomain=fr) & [Anne Becquet](https://www.linkedin.com/in/annebecquet/)
 * **Responsable de portefeuille** : [Clémence Lopez](https://www.linkedin.com/in/clemencelopez/?originalSubdomain=fr)
+
+## Fin de l'investigation
+
+Fin 2024, notamment en raison de contraintes budgétaires, la phase de construction du produit n'est pas lancée.
