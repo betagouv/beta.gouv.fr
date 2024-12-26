@@ -16,6 +16,8 @@ phases:
     start: 2023-04-03
 thematiques:
   - Démocratie
+usertypes: []
+techno: []
 ---
 ## Contexte
 
