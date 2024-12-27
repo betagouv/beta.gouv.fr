@@ -19,13 +19,11 @@ sponsors:
   - /organisations/delegation-interministerielle-a-l-accessibilite
 phases:
   - name: investigation
-    comment: null
     start: 2024-10-08
-    end: null
 events:
   - name: other
-    comment: Présentation de la solution au 1er cercle
     date: 2024-12-20
+    comment: Présentation de la solution au 1er cercle
 ---
 ## Contexte
 Toute politique publique vient avec son lot d’indicateurs pour en mesure l’impact. Dans le cas de l’accessibilité, il est difficile d’obtenir une vue d’ensemble des résultats des actions publiques car :
