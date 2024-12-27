@@ -27,25 +27,17 @@ sponsors:
   - /organisations/mj
 phases:
   - name: investigation
-    comment: null
     start: 2025-01-27
-    end: null
   - name: construction
-    comment: null
     start: 2025-04-15
-    end: null
   - name: acceleration
-    comment: null
     start: 2026-01-30
-    end: null
   - name: success
-    comment: null
     start: 2026-06-30
-    end: null
 events:
   - name: other
-    comment: Création de la fiche produit
     date: 2024-12-23
+    comment: Création de la fiche produit
 ---
 ## Contexte
 

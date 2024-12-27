@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2024-12-22
     end: 2025-05-05
-    employer: Incubateur Ministère de la justice
     status: independent
+    employer: Incubateur Ministère de la justice
     startups:
       - mistral-penal
 ---
