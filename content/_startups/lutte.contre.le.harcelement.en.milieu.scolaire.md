@@ -9,9 +9,13 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-11
+  - name: alumni
+    start: 2024-06-01
 thematiques:
   - Jeunesse
   - Education
+usertypes: []
+techno: []
 ---
 ## Contexte
 
@@ -53,3 +57,7 @@ Nous souhaitons interroger :
 * Les référents départementaux en charge du traitement des situations de harcèlement
 * Les chefs d'établissement et directeurs d'école
 * Les acteurs de l’administration centrale
+
+## Fin de l'investigation
+
+Cette investigation n'a pas donné lieu à la construction d'une Startup d'État. 

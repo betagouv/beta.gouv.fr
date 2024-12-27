@@ -6,12 +6,14 @@ sponsors:
   - /organisations/mesr
   - /organisations/mtei
   - /organisations/mtfp
-incubator: mission-inserjeunes
+incubator: dinum
 redirect_from:
   - /startups/expositionIJ
 phases:
   - name: construction
     start: 2022-04-01
+  - name: alumni
+    start: 2025-12-31
 repository: https://github.com/mission-apprentissage/trajectoires-pro
 stats_url: https://statistiques.exposition.inserjeunes.beta.gouv.fr/
 stats: true
@@ -28,6 +30,12 @@ thematiques:
 dashlord_url: https://dashlord.incubateur.net/url/api-exposition-inserjeunes-beta-gouv-fr/
 techno: []
 ---
+## Un service de la mission interministérielle Inserjeunes
+
+La mission interministérielle InserJeunes, lancée en 2022, visait à faciliter l'insertion professionnelle des jeunes en éclairant leurs choix d’orientation au regard du devenir des formations et en soutenant la transformation de la carte des formations initiales dans la perspective de l’objectif plein emploi. 
+
+La mission interministérielle Inserjeunes s'est terminée fin 2024, ce qui a occasionné le rattachement des services numériques créés à l'incubateur de services numérique de la DINUM en attendant leur pérennisation.  
+
 ## Le problème
 
 Les choix d’orientation sont fondés sur des **informations partielles et subjectives concernant les parcours de formation et le marché de l’emploi**.

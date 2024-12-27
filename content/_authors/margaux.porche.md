@@ -1,10 +1,10 @@
 ---
 fullname: Margaux Porché
-domaine: Animation
-role: 'Chargée d''assistance utilisateurs et de l''animation '
+domaine: Support
+role: 'Coordinatrice du pôle assistance utilisateurs et animation territorial '
 missions:
   - start: 2022-12-06
-    end: 2024-12-31
+    end: 2025-07-31
     status: independent
     employer: Dinum-malt
     startups:
@@ -12,4 +12,5 @@ missions:
 memberType: beta
 competences:
   - Communication
+  - UX
 ---

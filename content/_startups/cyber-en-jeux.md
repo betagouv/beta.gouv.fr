@@ -10,19 +10,13 @@ thematiques:
 title: CyberEnJeux
 mission: Former les jeunes à la cybersécurité
 incubator: lab-innov-anssi
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2022-09-20
-    end: null
   - name: construction
-    comment: null
     start: 2023-09-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2023-09-01
 ---
 > Lancé avec succès au sein de plusieurs centaines d'établissements en 2023-2024, CyberEnJeux évolue en 2025 en proposant prochainement un service numérique permettant de démultiplier l'accompagnement des enseignants et la valorisation des jeux créés par les élèves. Un partenariat entre l'ANSSI et le ministère de l'Education nationale.

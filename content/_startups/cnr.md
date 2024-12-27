@@ -1,7 +1,8 @@
 ---
-title: CNR
+title: Plateforme du Conseil national de la refondation
 mission: 'Consulter citoyens, élus et corps intermédiaires sur les grandes thématiques du quinquennat. '
 sponsors:
+  - /organisations/ditp
   - /organisations/hcp
 incubator: dinum
 link: https://conseil-refondation.fr/
@@ -13,8 +14,14 @@ accessibility_status: partiellement conforme
 phases:
   - name: construction
     start: 2022-10-27
+  - name: alumni
+    start: 2023-12-31
 thematiques:
   - Démocratie
+usertypes:
+  - particulier
+  - etat
+techno: []
 ---
 ## Contexte
 
@@ -31,4 +38,8 @@ Afin de toucher le plus de personnes possible, la création d'une plateforme en 
 
 ## Stratégie
 
-En étroite collaboration avec le Haut Commissariat au Plan, l'objectif pour l'équipe est de comptabiliser 100 000 participations aux consultations en ligne d'ici la fin d'année 2022, à travers des campagnes d'acquisition en ligne et des opérations de communication.
+En 2022, en étroite collaboration avec le Haut Commissariat au Plan, l'objectif pour l'équipe était de comptabiliser 100 000 participations aux consultations en ligne, à travers des campagnes d'acquisition en ligne et des opérations de communication.
+
+## Transfert 
+
+La plateforme a été transférée en 2023 à la Délégation interministérielle à la transformation publique (DITP).
