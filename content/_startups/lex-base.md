@@ -20,7 +20,7 @@ techno:
   - react
   - github actions
 title: LexBase
-mission: La base documentaire qui accélère la prise de décision juridique. Réduire la charge administrative des greffiers et des magistrats de la Cour de Cassation . Diversifier les possibilités d’interfaçage liées aux documents des procédures produits par la juridiction.
+mission: La base documentaire qui accélère la prise de décision juridique, réduit la charge administrative des greffiers et des magistrats de la Cour de Cassation,  diversifie les possibilités d’interfaçage liées aux documents des procédures produits par la juridiction.
 incubator: justice
 sponsors:
   - /organisations/cour-de-cassation

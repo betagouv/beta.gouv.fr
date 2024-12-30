@@ -8,7 +8,7 @@ competences:
   - Croissance
 missions:
   - start: 2024-06-20
-    end: 2024-12-30
+    end: 2024-12-31
     status: service
     employer: LittleBigConnection
     startups:

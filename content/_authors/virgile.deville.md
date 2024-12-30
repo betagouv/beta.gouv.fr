@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/virgiledeville/
 github: virgile-dev
 missions:
   - start: 2023-05-10
-    end: 2024-12-29
+    end: 2025-12-31
     status: independent
     employer: Numa
     startups:

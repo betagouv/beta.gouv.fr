@@ -68,9 +68,9 @@ Elle permet également de rendre compte, en temps réel, de l’état actuel du 
 ## Stratégie
 
 L’application « greffe gestion des dossiers » vise à améliorer la gestion des dossiers par les personnels de la Cour de Cassation. Les indicateurs de succès seront réellement connus à l’issue de l’investigation. Néanmoins, nous estimons qu’ils pourraient inclure : 
-●	Une nette accélération des temps de traitements des dossiers par le greffe.
-●	Une ouverture à la réorganisation de l’activité du greffe sur son cœur d’exercice.
-●	Une amélioration de la fiabilité de l’état du stock et des circuits procéduraux exécutés (procédures au fond, procédures particulières, audiencement, gestion des pièces, gestion des décisions).
+- Une nette accélération des temps de traitements des dossiers par le greffe.
+- Une ouverture à la réorganisation de l’activité du greffe sur son cœur d’exercice.
+- Une amélioration de la fiabilité de l’état du stock et des circuits procéduraux exécutés (procédures au fond, procédures particulières, audiencement, gestion des pièces, gestion des décisions).
 
 **Indicateurs d'impact**
 
