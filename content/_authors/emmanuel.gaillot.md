@@ -16,15 +16,15 @@ missions:
     end: 2023-02-28
     status: service
     employer: omnicite
+    startups:
+      - eva
+      - homologation
   - start: 2023-06-15
     end: 2025-02-28
     status: service
     employer: omnicite
-startups:
-  - oots.once-only.technical.system
-previously:
-  - eva
-  - homologation
+    startups:
+      - oots.once-only.technical.system
 competences: []
 ---
 Programmeur extrême & codexhibitionniste.

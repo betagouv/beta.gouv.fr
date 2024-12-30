@@ -7,9 +7,8 @@ missions:
     end: 2021-10-15
     status: admin
     employer: DGFIP
-startups: []
-previously:
-  - solution.audiovisuelle.easi
+    startups:
+      - solution.audiovisuelle.easi
 badges:
   - segur
 competences:

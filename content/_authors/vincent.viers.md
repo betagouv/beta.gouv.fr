@@ -8,6 +8,9 @@ missions:
     end: 2021-11-01
     status: independent
     employer: octo
+    startups:
+      - disinfo
+      - signaux-faibles
   - start: 2021-11-01
     end: 2022-09-01
     status: independent
@@ -24,20 +27,14 @@ missions:
     end: 2023-06-01
     status: independent
     employer: octo
+    startups:
+      - pilotage.de.linclusion
   - start: 2024-09-02
     end: 2025-09-02
     status: admin
     employer: DINUM
     startups:
       - grist.numerique.gouv.fr
-startups:
-  - données-et-territoires
-  - pilotage.de.linclusion
-  - grist.numerique.gouv.fr
-previously:
-  - signaux-faibles
-  - disinfo
-  - a-just
 competences:
   - Intrapreneur(se)
   - Product design

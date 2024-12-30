@@ -29,10 +29,11 @@ missions:
     end: 2022-06-30
     status: independent
     employer: KeiruaProd
-startups:
-  - aeris
-  - permis-de-construire-facile
-  - demarches-simplifiees.fr
-  - la.communaute.de.linclusion
-  - les-emplois
+    startups:
+      - aeris
+      - demarches-simplifiees.fr
+      - la.communaute.de.linclusion
+      - les-emplois
+      - permis-de-construire-facile
+competences: []
 ---

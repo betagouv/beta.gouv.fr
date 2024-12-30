@@ -15,6 +15,9 @@ missions:
     status: independent
     employer: OCTO
     startups:
+      - acces.majeur.protege
+      - deveco
+      - la.communaute.de.linclusion
       - phytophare
   - start: 2024-02-14
     end: 2025-09-20
@@ -30,13 +33,6 @@ missions:
       - tabula
 badges:
   - segur
-startups:
-  - seves
-  - phytophare
-previously:
-  - deveco
-  - la.communaute.de.linclusion
-  - acces.majeur.protege
 competences: []
 ---
 Designer

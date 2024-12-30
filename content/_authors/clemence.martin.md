@@ -8,6 +8,9 @@ missions:
     end: 2021-06-29
     status: admin
     employer: DINUM
+    startups:
+      - datagir
+      - la.bonne.renov
   - start: 2021-07-05
     end: 2025-06-30
     status: independent
@@ -15,11 +18,6 @@ missions:
     startups:
       - impact.co2
 incubator: ademe
-startups:
-  - impact.co2
-previously:
-  - datagir
-  - la.bonne.renov
 badges:
   - segur
 competences:

@@ -10,6 +10,7 @@ missions:
     status: independent
     employer: Ground
     startups:
+      - cadransolaire
       - potentiel
   - start: 2023-05-01
     end: 2025-06-30
@@ -17,12 +18,6 @@ missions:
     employer: Malt + Dynergie
     startups:
       - longuevieauxobjets
-incubator: mtes
-startups:
-  - potentiel
-  - longuevieauxobjets
-previously:
-  - cadransolaire
 badges:
   - segur
 competences:

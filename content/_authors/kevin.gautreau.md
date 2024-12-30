@@ -9,7 +9,7 @@ competences:
   - Drupal
 missions:
   - start: 2024-08-26
-    end: 2025-01-23
+    end: 2025-01-31
     status: independent
     employer: malt
 ---

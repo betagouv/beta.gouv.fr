@@ -27,11 +27,6 @@ missions:
     employer: Malt
     startups:
       - qualicharge
-startups:
-  - signalement
-previously:
-  - monstage
-  - commun.orientation
 link: https://www.linkedin.com/in/ingridgodefroy/
 competences:
   - Croissance

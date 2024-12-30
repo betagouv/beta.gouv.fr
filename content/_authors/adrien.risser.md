@@ -23,13 +23,6 @@ missions:
     status: independent
     startups:
       - deveco
-startups:
-  - deveco
-  - 1000.jours
-  - 1000.premiers.jours.blues
-previously:
-  - camino
-  - fiche.commune.entreprise.fce
 competences:
   - Développement Backend
 ---

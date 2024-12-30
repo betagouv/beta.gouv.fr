@@ -12,6 +12,12 @@ missions:
     end: 2019-06-30
     status: admin
     employer: dinum
+    startups:
+      - aides.jeunes
+      - api.gouv.fr
+      - datapass
+      - metiers-numeriques
+      - openfisca
   - start: 2019-09-02
     end: 2021-12-31
     status: independent
@@ -25,14 +31,7 @@ missions:
     status: independent
     employer: malt
     startups:
+      - annuaire-entreprises
+      - moncomptepro
       - proconnect
-startups:
-  - moncomptepro
-  - annuaire-entreprises
-previously:
-  - openfisca
-  - aides.jeunes
-  - metiers-numeriques
-  - api.gouv.fr
-  - datapass
 ---

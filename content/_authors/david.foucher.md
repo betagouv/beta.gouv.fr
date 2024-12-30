@@ -9,7 +9,11 @@ missions:
     status: service
     employer: Pôle emploi
     startups:
+      - encyclopedie-des-metiers
       - estime.formation
+      - la-bonne-formation
+      - mes-evenements-emploi
+      - mobiville
       - plateforme.rome.4-0
       - travailler.en.france
   - start: 2023-09-01
@@ -20,15 +24,6 @@ missions:
       - estime.formation
       - mes-aides-france-travail
       - travailler.en.france
-startups:
-  - travailler.en.france
-  - estime.formation
-  - mes-aides-france-travail
-previously:
-  - plateforme.rome.4-0
-  - mobiville
-  - encyclopedie-des-metiers
-  - mes-evenements-emploi
-  - la-bonne-formation
+competences: []
 ---
 Passionné par les technologies respectueuses de la biosphère.

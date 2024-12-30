@@ -10,7 +10,8 @@ missions:
   - start: 2022-09-06
     end: 2023-06-15
     status: independent
-startups:
-  - carnet.de.bord
-  - trait-d-union
+    startups:
+      - carnet.de.bord
+      - trait-d-union
+competences: []
 ---

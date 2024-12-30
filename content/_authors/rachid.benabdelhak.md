@@ -8,12 +8,13 @@ missions:
     end: 2021-09-07
     status: service
     employer: Pôle emploi
+    startups:
+      - labonneplace
   - start: 2021-05-01
     end: 2022-10-31
     status: service
     employer: Pôle emploi
-startups:
-  - encyclopedie-des-metiers
-previously:
-  - labonneplace
+    startups:
+      - encyclopedie-des-metiers
+competences: []
 ---

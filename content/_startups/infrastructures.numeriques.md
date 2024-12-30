@@ -22,7 +22,9 @@ accessibility_status: non conforme
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/tous-connectes-anct-gouv-fr/
 stats_url: https://tous-connectes.anct.gouv.fr/statistiques-et-impact
 mon_service_securise: true
-techno: []
+techno:
+  - next.js
+  - postgresql
 ---
 ## Contexte
 

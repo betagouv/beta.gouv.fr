@@ -16,10 +16,6 @@ missions:
     employer: Scopyleft
     startups:
       - ma-cantine-egalim
-startups:
-  - ma-cantine-egalim
-previously:
-  - france-numerique-ensemble
 competences:
   - Communication
 link: https://www.linkedin.com/in/paulineeyherabide/

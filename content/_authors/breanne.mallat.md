@@ -8,16 +8,17 @@ missions:
     end: 2021-09-20
     status: independent
     employer: numa
+    startups:
+      - aides-territoires
+      - dossierfacile
+      - mon-entreprise
   - start: 2022-03-14
     end: 2024-01-13
     status: admin
     employer: Dinum
-startups:
-  - tous.a.bord
-previously:
-  - aides-territoires
-  - dossierfacile
-  - mon-entreprise
+    startups:
+      - tous.a.bord
 teams:
   - /teams/animation-dinum
+competences: []
 ---

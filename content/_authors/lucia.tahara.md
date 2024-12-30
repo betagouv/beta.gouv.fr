@@ -5,11 +5,13 @@ domaine: Coaching
 avatar: /img/authors/lucia-tahara.jpg
 missions:
   - start: 2023-01-24
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: Numa
     startups:
+      - bambin
       - bat-id
+      - vues-immersives-libres
       - zones.irriguees.et.irrigables
 memberType: autre
 link: https://www.linkedin.com/in/luciatahara/

@@ -14,8 +14,12 @@ missions:
     employer: lazone/scopyleft
     startups:
       - cartobio
-startups:
-  - cartobio
+  - start: 2024-12-16
+    end: 2025-04-30
+    status: service
+    employer: lazone/scopyleft
+    startups:
+      - equipements-bio
 competences:
   - UX
   - Gestion de Produit

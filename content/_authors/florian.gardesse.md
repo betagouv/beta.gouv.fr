@@ -7,8 +7,6 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Scopyleft
-startups: []
-memberType: beta
 competences:
   - Croissance
 ---

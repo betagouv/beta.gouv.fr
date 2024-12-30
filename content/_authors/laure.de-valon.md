@@ -21,9 +21,6 @@ missions:
     employer: Numa
     startups:
       - adaptation-au-changement-climatique-acc
-startups:
-  - versementgetorix
-  - maestro
 competences: []
 ---
 Coach, Designer de service

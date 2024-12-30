@@ -21,8 +21,6 @@ missions:
     employer: DINUM / MIOM / DITP
     startups:
       - pe-ate
-startups:
-  - aidess
 badges:
   - segur
 competences:

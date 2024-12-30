@@ -7,13 +7,16 @@ missions:
     end: 2018-06-30
     status: admin
     employer: dila
+    startups:
+      - aplus
   - start: 2018-07-01
     end: 2021-06-30
     status: admin
     employer: dinum
-startups:
-  - aplus
+    startups:
+      - aplus
 badges:
   - segur
+competences: []
 ---
 Je suis une drôle de dame.

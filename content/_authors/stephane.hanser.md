@@ -13,7 +13,10 @@ missions:
     end: 2024-12-31
     status: service
     employer: ut7
+    startups:
+      - eva
 startups:
   - eva
+competences: []
 ---
 Développeur avec du sens, adepte du TDD et des déploiements de logiciels fonctionnels

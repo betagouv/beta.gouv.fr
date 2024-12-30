@@ -13,4 +13,3 @@ missions:
 memberType: beta
 competences: []
 ---
-Product Designer

@@ -6,9 +6,8 @@ missions:
   - start: 2022-10-17
     end: 2023-03-30
     status: independent
-startups: []
-previously:
-  - mon-suivi-justice
+    startups:
+      - mon-suivi-justice
 badges:
   - segur
 competences:

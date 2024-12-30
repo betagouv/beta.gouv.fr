@@ -23,9 +23,6 @@ missions:
     employer: Malt
     startups:
       - l-application-du-cej
-startups:
-  - signalement
-  - reva
 badges:
   - segur
 competences:

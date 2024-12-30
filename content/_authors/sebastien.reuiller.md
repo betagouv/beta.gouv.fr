@@ -31,14 +31,6 @@ missions:
     startups:
       - recommandations-collaboratives
       - urbanvitaliz
-startups:
-  - urbanvitaliz
-  - recommandations-collaboratives
-  - place-de-marche-inclusion
-previously:
-  - cnr
-  - la.communaute.de.linclusion
-  - les-emplois
 competences:
   - Développement Frontend
   - Développement Backend

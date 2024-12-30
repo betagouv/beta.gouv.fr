@@ -9,11 +9,12 @@ missions:
     end: 2021-09-30
     status: service
     employer: UT7
+    startups:
+      - e-inspé
   - start: 2021-10-01
     end: 2026-09-01
     status: service
     employer: TelesCoop
-startups:
-  - e-inspé
+competences: []
 ---
 Développeur, data scientist, responsable admin chez TelesCoop

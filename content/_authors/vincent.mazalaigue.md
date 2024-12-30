@@ -5,8 +5,12 @@ domaine: Data
 github: mazalaigue
 missions:
   - start: 2018-11-11
-    end: 2024-11-11
+    end: 2025-11-11
     status: admin
     employer: DINUM
+    startups:
+      - api-entreprise
+      - api-particulier
+      - datapass
 ---
 Faciliter les démarches des usagers est mon leitmotiv depuis mon entrée dans l'administration.

@@ -16,8 +16,6 @@ missions:
     employer: SEVES
     startups:
       - seves
-startups:
-  - ecobalyse
 memberType: autre
 competences:
   - Product design

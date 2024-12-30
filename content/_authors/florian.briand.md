@@ -9,22 +9,17 @@ missions:
     status: service
     employer: Liberté Living Lab
     startups:
+      - inca
       - mon-suivi-justice
       - reva
       - romin
+      - uvf-numerique
   - start: 2023-01-01
     end: 2025-01-31
     status: independent
     employer: Liberté Living Lab
     startups:
       - romin
-startups:
-  - romin
-previously:
-  - mon-suivi-justice
-  - inca
-  - reva
-  - uvf-numerique
 competences:
   - Coaching
   - Gestion de Produit

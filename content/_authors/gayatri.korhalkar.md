@@ -15,11 +15,12 @@ missions:
   - start: 2023-11-22
     end: 2025-06-22
     status: independent
-startups:
-  - tout-est-permis
-  - inventaireoeuvres
-  - aquaculteurs.marins
+    startups:
+      - aquaculteurs.marins
+      - inventaireoeuvres
+      - tout-est-permis
 badges:
   - segur
+competences: []
 ---
 Une designer entreprenante

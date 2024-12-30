@@ -8,12 +8,13 @@ missions:
     end: 2022-01-01
     status: admin
     employer: DINUM
+    startups:
+      - acceslibre
   - start: 2022-03-01
     end: 2022-09-15
     status: independent
     employer: octo
-startups:
-  - tchap
-previously:
-  - acceslibre
+    startups:
+      - tchap
+competences: []
 ---

@@ -7,9 +7,8 @@ missions:
   - start: 2021-05-25
     end: 2023-12-31
     status: independent
-startups: []
-previously:
-  - mon-suivi-justice
+    startups:
+      - mon-suivi-justice
 competences:
   - Développement Backend
 ---

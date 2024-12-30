@@ -18,8 +18,6 @@ missions:
     employer: REVA
     startups:
       - reva
-startups:
-  - reva
 memberType: beta
 previously:
   - les-emplois

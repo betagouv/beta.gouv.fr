@@ -28,6 +28,7 @@ missions:
     status: independent
     employer: numa
     startups:
+      - faritas
       - la-bonne-alternance
       - sites-faciles
   - start: 2023-12-01
@@ -36,22 +37,6 @@ missions:
     employer: Numa
     startups:
       - datalma
-startups:
-  - cnr
-  - demarches-simplifiees.fr
-  - tchap
-previously:
-  - demarches-simplifiees.fr
-  - trait-d-union
-  - cmachance
-  - diagoriente
-  - classe-a-12
-  - anti-gaspi-cantine
-  - metiers-numeriques
-  - acceslibre
-  - estime
-  - zero-logement-vacant
-  - jeveuxaider
 badges:
   - segur
 domaine: Coaching

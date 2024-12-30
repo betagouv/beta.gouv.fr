@@ -13,8 +13,13 @@ missions:
     startups:
       - données-et-territoires
       - grist.numerique.gouv.fr
-      - l-immersion-facile
       - notifications-v2
+  - start: 2022-03-17
+    end: 2024-08-03
+    status: service
+    employer: ut7
+    startups:
+      - l-immersion-facile
   - start: 2024-01-01
     end: 2024-07-31
     status: service

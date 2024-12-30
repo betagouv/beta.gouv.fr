@@ -9,6 +9,8 @@ missions:
     end: 2024-11-01
     status: admin
     employer: Noveane/Thalès
+    startups:
+      - juri-scope
 ---
 Tanguy Stehelin
 Directeur adjoint des affaires juridiques MEAE

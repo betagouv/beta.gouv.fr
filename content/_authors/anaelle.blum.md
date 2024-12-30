@@ -4,10 +4,11 @@ role: Chef de projet déploiement
 domaine: Déploiement
 missions:
   - start: 2021-11-02
-    end: 2024-12-30
+    end: 2025-04-30
     status: independent
     employer: B-NEXT
     startups:
       - l-application-du-cej
+competences: []
 ---
 Chef de projet, déploiement, optimisation

@@ -4,7 +4,7 @@ domaine: Coaching
 role: Coach
 missions:
   - start: 2021-04-22
-    end: 2025-01-31
+    end: 2024-12-30
     status: independent
     employer: Scopyleft
     startups:
@@ -21,12 +21,20 @@ missions:
     employer: IPPON
     startups:
       - andv-aerien
-startups:
-  - sndv_maritime
+  - start: 2024-11-15
+    end: 2025-02-11
+    status: independent
+    employer: NUMA
+    startups:
+      - envirogend
+  - start: 2025-02-11
+    end: 2025-06-30
+    status: independent
+    employer: dynergie
+    startups:
+      - envirogend
 competences:
   - Coaching
   - Product strategy
-previously:
-  - sndv_maritime
 ---
 Entrepreneur au service de l'impact - Auteur Documentaire

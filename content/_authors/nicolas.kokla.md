@@ -18,10 +18,6 @@ missions:
     startups:
       - ban
       - bases.adresses.locales
-startups:
-  - ban
-previously:
-  - chauffage-urbain
 competences:
   - Développement Frontend
   - Développement Backend

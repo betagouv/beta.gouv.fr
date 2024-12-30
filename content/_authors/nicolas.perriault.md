@@ -11,6 +11,7 @@ missions:
     employer: Octo
     startups:
       - acceslibre
+      - egalite.professionnelle
   - start: 2021-07-15
     end: 2021-12-31
     status: independent
@@ -35,11 +36,6 @@ missions:
     employer: Pathtech
     startups:
       - ecobalyse
-startups:
-  - ecobalyse
-previously:
-  - egalite.professionnelle
-  - acceslibre
 competences:
   - Développement Full-stack
   - Elm

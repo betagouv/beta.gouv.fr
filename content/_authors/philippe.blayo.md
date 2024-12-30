@@ -7,10 +7,11 @@ missions:
   - start: 2018-03-13
     end: 2019-12-04
     status: independent
+    startups:
+      - dossiersco
   - start: 2019-12-06
     end: 2020-05-31
     status: independent
-startups:
-  - dossiersco
+competences: []
 ---
 Développeur

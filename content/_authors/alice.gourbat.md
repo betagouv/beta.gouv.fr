@@ -5,26 +5,23 @@ domaine: Design
 link: https://www.behance.net/alicegourbat
 missions:
   - start: 2023-02-16
-    end: 2024-09-16
+    end: 2025-02-13
     status: independent
     employer: Malt
     startups:
       - pop
   - start: 2023-09-11
-    end: 2024-12-31
+    end: 2024-12-09
     status: independent
     employer: Scopileft
     startups:
       - sndv_maritime
   - start: 2024-10-24
-    end: 2025-01-24
+    end: 2025-02-13
     status: independent
     employer: Little Big Connection
     startups:
       - mon-devis-sans-oublis
-startups:
-  - pop
-memberType: beta
 competences:
   - UX
   - Facilitation

@@ -8,22 +8,22 @@ missions:
     end: 2020-08-31
     status: independent
     employer: octo
+    startups:
+      - api.gouv.fr
+      - api-particulier
+      - datapass
   - start: 2020-09-01
     end: 2023-08-31
     status: admin
     employer: dinum
+    startups:
+      - moncomptepro
   - start: 2023-09-01
     end: 2026-08-31
     status: admin
     employer: dinum
     startups:
       - proconnect
-startups:
-  - moncomptepro
-previously:
-  - datapass
-  - api.gouv.fr
-  - api-particulier
 competences: []
 ---
 🤯

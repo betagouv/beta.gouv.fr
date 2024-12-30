@@ -7,14 +7,14 @@ missions:
     end: 2021-07-02
     status: admin
     employer: dinum
+    startups:
+      - acceslibre
   - start: 2022-02-02
     end: 2025-12-31
     status: admin
     employer: dinum
-startups:
-  - ban
-previously:
-  - acceslibre
+    startups:
+      - ban
 badges:
   - segur
 competences: []

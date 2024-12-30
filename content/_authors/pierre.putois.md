@@ -9,11 +9,15 @@ missions:
     startups:
       - data-inclusion
       - les-emplois
-      - l-immersion-facile
       - mon-recap
       - pilotage.de.linclusion
       - place-de-marche-inclusion
       - rdv.insertion
+  - start: 2022-09-18
+    end: 2023-09-18
+    status: admin
+    startups:
+      - l-immersion-facile
 badges:
   - segur
 competences: []

@@ -17,8 +17,6 @@ missions:
     employer: Numa
     startups:
       - acces-cible
-startups:
-  - resorption-bidonvilles
 competences:
   - UX
   - Communication

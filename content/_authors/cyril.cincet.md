@@ -7,10 +7,9 @@ missions:
     end: 2021-06-30
     status: service
     employer: octo
-startups: []
-previously:
-  - candilib
-  - psij
+    startups:
+      - candilib
+      - psij
 competences:
   - Coaching
 ---

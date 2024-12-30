@@ -8,16 +8,15 @@ missions:
     end: 2022-12-31
     status: service
     employer: Codeurs en Liberté
+    startups:
+      - demarches-simplifiees.fr
+      - rdv-service-public
   - start: 2023-02-15
     end: 2024-08-01
     status: independent
     employer: Codeurs en Liberté
-startups:
-  - conseillers-entreprises
-previously:
-  - conseillers-entreprises
-  - demarches-simplifiees.fr
-  - rdv-service-public
+    startups:
+      - conseillers-entreprises
 competences:
   - Développement Frontend
   - Développement Backend

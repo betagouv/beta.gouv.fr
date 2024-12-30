@@ -11,8 +11,9 @@ missions:
     end: 2023-10-31
     status: independent
     employer: omnicite
-startups:
-  - homologation
+    startups:
+      - homologation
 badges:
   - segur
+competences: []
 ---

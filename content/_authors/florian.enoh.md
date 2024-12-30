@@ -12,10 +12,8 @@ missions:
     end: 2021-08-31
     status: service
     employer: octo
-startups: []
-previously:
-  - pix
-  - chauffage-urbain
+    startups:
+      - chauffage-urbain
 competences:
   - Développement Frontend
   - Développement Backend

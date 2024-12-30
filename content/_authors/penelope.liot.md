@@ -8,17 +8,17 @@ missions:
     end: 2023-10-02
     status: independent
     employer: Numa
+    startups:
+      - e-inspé
+      - mon-entreprise
+      - plusfraichemaville
+      - territoires-en-transitions
   - start: 2023-10-02
     end: 2026-10-01
     status: admin
     employer: DITP
-startups:
-  - agora
-previously:
-  - territoires-en-transitions
-  - mon-entreprise
-  - e-inspé
-  - plusfraichemaville
+    startups:
+      - agora
 competences:
   - Coaching
 ---

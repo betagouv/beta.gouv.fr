@@ -9,12 +9,14 @@ missions:
     end: 2019-12-04
     status: independent
     employer: octo
+    startups:
+      - demarches-simplifiees.fr
   - start: 2019-12-06
     end: 2025-12-15
     status: independent
     employer: octo
-startups:
-  - demarches-simplifiees.fr
+    startups:
+      - demarches-simplifiees.fr
 competences: []
 ---
 Tech sur demarches-simplifiees.fr.

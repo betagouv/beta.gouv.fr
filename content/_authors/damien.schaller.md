@@ -8,9 +8,8 @@ missions:
     end: 2021-08-31
     status: service
     employer: Octo
-startups: []
-previously:
-  - chauffage-urbain
+    startups:
+      - chauffage-urbain
 competences:
   - Développement Frontend
   - Développement Backend

@@ -12,10 +12,10 @@ missions:
     end: 2027-12-31
     status: independent
     employer: malt
-startups:
-  - api-entreprise
-  - api-particulier
-  - datapass
+    startups:
+      - api-entreprise
+      - api-particulier
+      - datapass
 competences: []
 ---
 Rails, Music, Fun and games. Such experience, much skill, very work.

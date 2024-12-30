@@ -10,16 +10,13 @@ missions:
     end: 2025-12-31
     status: independent
     startups:
+      - kelrisks
       - trackdechets
   - start: 2024-08-05
     end: 2025-06-30
     status: independent
     startups:
       - codedutravail
-startups:
-  - trackdechets
-previously:
-  - kelrisks
 competences:
   - UX
   - UI

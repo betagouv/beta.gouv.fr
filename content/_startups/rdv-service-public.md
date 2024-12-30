@@ -23,7 +23,6 @@ redirect_from:
   - /startups/rdv-services-publics
 usertypes:
   - collectivite-territoriale
-  - particulier
   - etat
 stats_url: https://www.rdv-solidarites.fr/stats/
 events:
@@ -41,8 +40,6 @@ techno: []
 ## Qui sommes-nous ?
 
 Nous sommes l’équipe produit RDV Service Public, solution numérique portée par l’Agence Nationale de la Cohésion des Territoires et la Direction Interministérielle du Numérique.
-
-L’équipe est guidée par une vision : *être la solution de gestion et de prise de rendez-vous simple à utiliser et simple à déployer dans les administrations publiques*.
 
 ## Notre mission
 
@@ -93,23 +90,3 @@ L’interface (aux couleurs de la charte de l’État) propose un parcours simpl
 **➜ Produire des statistiques**
 
 Les données des rendez-vous sont centralisées et permettent la production de statistiques pour mesurer votre activité et accompagner votre prise de décision.
-
-## L'utilisation
-
-RDV Service Public c'est **2 715 045 rendez-vous planifiés** dans **990 structures** pour **9000 utilisateurs**. 
-
-## Notre histoire
-
-Le point de départ est une investigation menée en 2018 par le département du Pas-De-Calais qui a mis en évidence les difficultés de prise de rendez-vous dans les services médico-sociaux du département.
-
-**De 2019 à 2022**
-
-Avec l’accompagnement de la DINUM puis de l’ANCT, 13 départements ont formé un consortium pour développer une solution numérique commune appelée RDV Solidarités.
-
-**En 2023**
-
-Consciente du potentiel de la solution numérique au sein des d’autres catégories d’administration, l’équipe teste la solution auprès de structures variées pour valider l’intérêt d’une solution générique.
-
-**En 2024**
-
-L’équipe assume l’intention de la généricité et s’engage dans une roadmap à la mission et la vision renouvelée. La solution est appelée RDV Service Public. 

@@ -16,8 +16,6 @@ missions:
     employer: Little Big Connection
     startups:
       - seves
-startups:
-  - acceslibre
 memberType: beta
 competences:
   - Python

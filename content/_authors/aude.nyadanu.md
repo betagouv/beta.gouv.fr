@@ -14,7 +14,5 @@ missions:
     status: service
     startups:
       - api.prevention
-startups:
-  - eimis
 competences: []
 ---

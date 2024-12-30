@@ -36,9 +36,6 @@ missions:
       - maestro
 badges:
   - segur
-startups:
-  - maison.de.lautisme
-  - ozensemble
 github: manon-silva
 competences:
   - Communication

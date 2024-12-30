@@ -23,8 +23,6 @@ missions:
     employer: Solstice
     startups:
       - portail-rse
-startups:
-  - dora
 competences:
   - Développement Backend
   - Développement Full-stack

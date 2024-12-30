@@ -5,11 +5,12 @@ domaine: Déploiement
 github: Delphgateau
 missions:
   - start: 2022-12-20
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:
       - tchap
 memberType: beta
+competences: []
 ---
 Biz dev pour Tchap

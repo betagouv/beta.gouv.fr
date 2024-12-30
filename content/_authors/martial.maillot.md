@@ -5,7 +5,7 @@ domaine: Développement
 github: m-maillot
 missions:
   - start: 2021-02-08
-    end: 2024-12-31
+    end: 2025-06-01
     status: independent
     employer: opteamis
     startups:

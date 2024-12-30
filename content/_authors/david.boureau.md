@@ -9,16 +9,16 @@ missions:
     end: 2017-03-31
     status: independent
     employer: octo
+    startups:
+      - clara
+      - la-bonne-alternance
+      - pix
   - start: 2017-04-01
     end: 2024-05-30
     status: independent
     employer: inop's
-startups:
-  - impact.co2
-previously:
-  - clara
-  - pix
-  - la-bonne-alternance
+    startups:
+      - impact.co2
 competences:
   - Développement Frontend
   - Développement Backend

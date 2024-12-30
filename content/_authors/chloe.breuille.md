@@ -5,7 +5,7 @@ domaine: Design
 link: https://www.kolwi.me/
 missions:
   - start: 2023-06-22
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
     employer: Fairness
     startups:

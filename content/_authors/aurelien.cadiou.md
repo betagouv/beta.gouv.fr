@@ -16,10 +16,6 @@ missions:
     employer: Pathtech
     startups:
       - mediation.logement
-startups:
-  - transport
-  - mediation.logement
-memberType: beta
 link: https://www.linkedin.com/in/aurelien-nocoder/
 competences:
   - Communication

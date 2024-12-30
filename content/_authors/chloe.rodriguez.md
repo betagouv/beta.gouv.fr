@@ -11,7 +11,8 @@ missions:
     end: 2022-04-13
     status: independent
     employer: numa
-startups:
-  - mobinat
+    startups:
+      - mobinat
+competences: []
 ---
 Designer de services et coach d’intrapreneur·e·s :D

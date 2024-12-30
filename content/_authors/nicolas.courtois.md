@@ -16,6 +16,8 @@ missions:
     status: independent
     employer: DJEPVA
     startups:
+      - api-engagement
+      - sante-psy-etudiant
       - snu
   - start: 2024-03-14
     end: 2024-12-14
@@ -34,12 +36,6 @@ missions:
     employer: ' '
     startups:
       - je-deviens-etudiant
-startups:
-  - snu
-previously:
-  - sante-psy-etudiant
-  - jeveuxaider
-  - api-engagement
 competences:
   - UX
   - Figma

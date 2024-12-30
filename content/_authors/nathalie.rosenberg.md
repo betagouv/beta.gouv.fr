@@ -6,7 +6,21 @@ link: https://www.linkedin.com/in/nathalie-rosenberg-086408193/
 github: Natouille
 missions:
   - start: 2022-01-19
-    end: 2025-08-31
+    end: 2023-05-31
+    status: independent
+    employer: ut7
+    startups:
+      - exposition-ij
+      - investigation-ij
+      - pilotagevoiepro
+  - start: 2023-05-01
+    end: 2024-08-31
+    status: independent
+    employer: Opteemis
+    startups:
+      - reva
+  - start: 2024-12-16
+    end: 2025-03-16
     status: independent
 previously:
   - exposition-ij

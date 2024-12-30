@@ -7,7 +7,6 @@ missions:
     end: 2022-01-14
     status: independent
     employer: DINUM
-startups: []
 competences:
   - UI
 ---

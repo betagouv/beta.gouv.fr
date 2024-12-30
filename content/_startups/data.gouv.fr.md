@@ -19,7 +19,7 @@ repository: https://github.com/opendatateam/udata
 stats: true
 stats_url: https://stats.data.gouv.fr
 accessibility_status: partiellement conforme
-contact: info@data.gouv.fr
+contact: data.gouv@data.gouv.fr
 redirect_from:
   - /startups/datagouv
 usertypes:
@@ -27,6 +27,23 @@ usertypes:
   - etat
 thematiques:
   - Open-Data
-  - Entreprises
+  - Démocratie
+  - Administratif
+mon_service_securise: true
+techno:
+  - python
+  - vue
+  - javascript
 ---
-data.gouv.fr est le premier portail open data national à se constituer en véritable réseau social entre producteurs et réutilisateurs de données publiques. Il référence les jeux de données sur tout le territoire et les réutilisations qui en sont faites.
+## La mission de data.gouv.fr
+
+**Simplifier l’accès aux données publiques**
+
+L’ouverture et la circulation des données publiques renforcent la transparence, améliorent l’action publique et permettent la création de nouveaux services.
+
+data.gouv.fr assure la mise à disposition de ces informations en organisant leur diffusion et leur exploitation.
+
+**Nos objectifs**
+- Faciliter la découvrabilité des données
+- Améliorer la qualité des données
+- Encourager la réutilisation des données

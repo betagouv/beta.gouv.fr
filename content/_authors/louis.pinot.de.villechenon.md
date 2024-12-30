@@ -4,7 +4,7 @@ fullname: Louis Pinot de Villechenon
 role: Coaching
 missions:
   - start: 2024-04-04
-    end: 2024-12-31
+    end: 2025-04-30
     status: independent
     employer: NUMA
     startups:

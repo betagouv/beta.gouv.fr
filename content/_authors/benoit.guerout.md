@@ -3,6 +3,7 @@ fullname: Benoît Guérout
 role: Développeur
 domaine: Développement
 avatar: https://www.gravatar.com/avatar/af486ff27d192f7a42a215a834c531f4?s=512
+github: bguerout
 missions:
   - start: 2018-05-14
     end: 2020-03-31
@@ -16,12 +17,12 @@ missions:
     end: 2022-12-31
     status: independent
     employer: ut7
-github: bguerout
-startups:
-  - anotea
-  - sirius
-  - catalogue-apprentissage
-  - uai_siret
-  - voeux-apprentissage
+    startups:
+      - anotea
+      - catalogue-apprentissage
+      - sirius
+      - uai_siret
+      - voeux-apprentissage
+competences: []
 ---
 J'évolue sur des projets informatiques à dominante web en prônant une approche simple et pragmatique des développements. Je suis également investi dans la communauté open source au travers des projets Jongo et Oleoduc.

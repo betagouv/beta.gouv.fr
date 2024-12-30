@@ -22,12 +22,8 @@ missions:
     employer: 'Octo Malt '
     startups:
       - envergo
-startups:
-  - apilos
 badges:
   - segur
-previously:
-  - territoires-en-transitions
 link: https://www.linkedin.com/in/camille-canaple/
 competences:
   - Facilitation

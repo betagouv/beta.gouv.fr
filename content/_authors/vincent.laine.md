@@ -17,6 +17,7 @@ missions:
     employer: OCTO
     startups:
       - airvam
+      - preuve-de-covoiturage
       - usine-chatbots
   - start: 2022-01-01
     end: 2024-05-31
@@ -30,12 +31,6 @@ missions:
     employer: Fairness
     startups:
       - vigieau
-startups:
-  - usine-chatbots
-  - airvam
-  - vigieau
-previously:
-  - preuve-de-covoiturage
 competences:
   - Développement Frontend
   - Développement Backend

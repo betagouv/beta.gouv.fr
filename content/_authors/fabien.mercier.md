@@ -11,10 +11,11 @@ missions:
     startups:
       - pass-culture
   - start: 2024-05-21
-    end: 2024-12-31
+    end: 2025-04-30
     status: service
     employer: octo
     startups:
       - france-numerique-ensemble
+competences: []
 ---
 Développeur fullstack

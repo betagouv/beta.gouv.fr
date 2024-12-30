@@ -18,7 +18,7 @@ missions:
     startups:
       - geo.data.gouv.fr
   - start: 2015-09-18
-    end: 2025-03-31
+    end: 2025-12-31
     status: service
     employer: Living Data
     startups:
@@ -33,15 +33,6 @@ missions:
       - prelevements.deau
       - urbaclic
       - vigieau
-startups:
-  - pcrs
-previously:
-  - ban
-  - api-geo
-  - urbaclic
-  - mes-aides
-  - api.gouv.fr
-  - geo.data.gouv.fr
 competences:
   - Croissance
   - Product strategy

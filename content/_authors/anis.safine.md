@@ -15,9 +15,6 @@ missions:
     employer: Malt
     startups:
       - camino
-startups:
-  - resorption-bidonvilles
-  - camino
 competences: []
 ---
 Développeur full-stack javascript

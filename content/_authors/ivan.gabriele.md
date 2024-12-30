@@ -3,7 +3,7 @@ fullname: Ivan Gabriele
 domaine: Développement
 role: Développeur
 github: ivangabriele
-link: https://www.ivangabriele.com
+link: https://www.linkedin.com/in/ivangabriele/
 missions:
   - start: 2019-02-12
     end: 2020-07-15
@@ -30,20 +30,15 @@ missions:
     startups:
       - inca
   - start: 2022-06-20
-    end: 2024-12-31
+    end: 2024-11-30
     status: independent
     employer: Malt
     startups:
       - monitorfish
-startups:
-  - monitorfish
-previously:
-  - metiers-numeriques
-  - codedutravail
-  - inca
 competences:
-  - Développement Backend
+  - Développement Full-stack
   - Développement Frontend
+  - Développement Backend
 badges:
   - segur
 ---

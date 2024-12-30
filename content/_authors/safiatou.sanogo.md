@@ -7,10 +7,14 @@ missions:
     end: 2022-06-22
     status: admin
     employer: Pôle emploi
+    startups:
+      - mobiville
   - start: 2020-09-01
     end: 2021-12-31
     status: admin
     employer: Pôle emploi
+    startups:
+      - encyclopedie-des-metiers
 startups:
   - mobiville
   - encyclopedie-des-metiers

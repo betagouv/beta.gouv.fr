@@ -13,12 +13,14 @@ missions:
     end: 2025-01-31
     status: independent
     employer: opteamis
+    startups:
+      - reva
   - start: 2023-10-01
     end: 2024-06-30
     status: independent
     employer: Malt
-startups:
-  - reva
+    startups:
+      - reva
 competences: []
 ---
 Développeur d’applications web et créateur de formations illustrées

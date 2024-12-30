@@ -8,14 +8,14 @@ missions:
     end: 2021-12-03
     status: independent
     employer: Codeurs en Liberté
+    startups:
+      - cmachance
   - start: 2022-03-28
     end: 2025-12-31
     status: independent
     employer: Malt
-startups:
-  - tchap
-previously:
-  - cmachance
+    startups:
+      - tchap
 badges:
   - segur
 competences: []

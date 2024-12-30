@@ -19,8 +19,6 @@ missions:
     status: independent
     startups:
       - lannuaire.des.collectivites
-startups:
-  - sirius
 competences:
   - UX
   - Coaching

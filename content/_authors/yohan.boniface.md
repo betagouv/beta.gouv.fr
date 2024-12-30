@@ -10,6 +10,12 @@ missions:
     end: 2021-12-31
     status: independent
     employer: octo
+    startups:
+      - api-drones
+      - ban
+      - classe-a-12
+      - egalite.professionnelle
+      - la-bonne-formation
   - start: 2022-01-01
     end: 2024-03-31
     status: independent
@@ -23,14 +29,5 @@ missions:
     employer: LBC
     startups:
       - umap
-startups:
-  - umap
-previously:
-  - ban
-  - api-drones
-  - la-bonne-formation
-  - classe-a-12
-  - egalite.professionnelle
-  - données-et-territoires
 competences: []
 ---

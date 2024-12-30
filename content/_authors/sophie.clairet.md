@@ -9,6 +9,8 @@ missions:
     status: independent
     employer: Living Data
     startups:
+      - ban
+      - bases.adresses.locales
       - umap
   - start: 2024-05-01
     end: 2025-01-30
@@ -21,10 +23,5 @@ badges:
 competences:
   - Communication
   - Administration Publique
-startups:
-  - umap
-previously:
-  - ban
-  - bases.adresses.locales
 ---
 Chargée de déploiement pour le programme uMap

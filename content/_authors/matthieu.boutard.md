@@ -1,16 +1,17 @@
 ---
 fullname: Matthieu Boutard
-role: Coach pour le Marché de l'inclusion
+role: Coach pour le Marché de l'inclusion et DORA
 domaine: Coaching
 link: https://www.linkedin.com/in/matthieu-side-side/
 competences:
   - Coaching
 missions:
   - start: 2024-09-05
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:
+      - dora
       - place-de-marche-inclusion
 ---
 Entrepreneur social passionné par les sciences sociales, et de l'écologie, à l'heure d'une digitalisation omniprésente.

@@ -82,9 +82,9 @@ DomiFa s’adresse aux CCAS, CIAS, communes et tout autre organisme agréé (ass
 Note de satisfaction des structures : 8,9 / 10
 Note de satisfaction des domiciliés : 4,2 / 5
 
-Nombre de structures utilisatrices : 1248
-Nombre de domiciliés actifs accompagnés : 210 000
-Nombre total de dossiers enregistrés : 413 000
+Nombre de structures utilisatrices : 1498
+Nombre de domiciliés actifs accompagnés : 270 000
+Nombre total de dossiers enregistrés : 513 000
 Maintien d’un taux d’acheminement du courrier supérieur à 95%
 
 ## Nos objectifs

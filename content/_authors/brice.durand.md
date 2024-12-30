@@ -16,10 +16,6 @@ missions:
     employer: UT7
     startups:
       - collectif_objets
-startups:
-  - collectif_objets
-previously:
-  - monstage
 competences:
   - Gestion de Produit
   - Développement Full-stack

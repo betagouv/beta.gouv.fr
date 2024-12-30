@@ -8,11 +8,14 @@ missions:
     end: 2020-02-29
     status: independent
     employer: octo
+    startups:
+      - data.gouv.fr
   - start: 2020-03-01
     end: 2023-02-28
     status: admin
     employer: dinum
-startups:
-  - data.gouv.fr
+    startups:
+      - data.gouv.fr
+competences: []
 ---
 KISS.

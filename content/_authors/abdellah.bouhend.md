@@ -15,8 +15,6 @@ missions:
     employer: Malt
     startups:
       - france.nation.verte.agir
-startups:
-  - la-bonne-alternance
 badges:
   - segur
 competences: []

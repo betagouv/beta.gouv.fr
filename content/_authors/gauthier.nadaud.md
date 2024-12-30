@@ -9,7 +9,10 @@ missions:
     employer: NUMA
     startups:
       - data-subvention
+      - jafer
       - ma-cantine-egalim
+      - mon-suivi-justice
+      - preuve-de-covoiturage
   - start: 2023-12-30
     end: 2025-06-30
     status: admin
@@ -23,17 +26,10 @@ missions:
     startups:
       - homologation
       - place-de-marche-inclusion
-startups:
-  - data-subvention
-  - ma-cantine-egalim
 badges:
   - segur
 teams:
   - /teams/fast-dinum
-previously:
-  - jafer
-  - mon-suivi-justice
-  - preuve-de-covoiturage
 link: http://www.linkedin.com/in/gnadaud
 competences:
   - Coaching

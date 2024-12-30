@@ -11,17 +11,13 @@ missions:
     employer: Malt - Octo Technology
     startups:
       - api-engagement
+      - snu
   - start: 2020-05-18
     end: 2025-01-31
     status: independent
     employer: Malt - Octo Technology
     startups:
       - jeveuxaider
-startups:
-  - jeveuxaider
-  - snu
-previously:
-  - api-engagement
 competences:
   - Intrapreneur(se)
   - Coaching
