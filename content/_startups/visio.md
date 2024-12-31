@@ -19,16 +19,11 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2024-06-01
-    end: null
   - name: construction
-    comment: null
     start: 2024-08-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-08-12
 ---
 ## Contexte
