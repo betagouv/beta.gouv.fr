@@ -12,7 +12,7 @@ missions:
       - maison.de.lautisme
       - recosante
   - start: 2024-07-22
-    end: 2025-02-01
+    end: 2025-07-31
     status: independent
     employer: LaZone/Scopyleft
     startups:

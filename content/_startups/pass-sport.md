@@ -23,6 +23,7 @@ usertypes:
   - association
   - entreprise
 techno: []
+budget_url: https://www.pass.sports.gouv.fr/v2/budget
 ---
 ## Contexte
 
