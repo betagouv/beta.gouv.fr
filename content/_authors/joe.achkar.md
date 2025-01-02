@@ -6,14 +6,14 @@ github: JoeACHKAR
 link: https://www.linkedin.com/in/joeachkar/
 missions:
   - start: 2020-05-18
-    end: 2024-02-02
+    end: 2024-03-29
     status: independent
     employer: Malt - Octo Technology
     startups:
       - api-engagement
       - snu
   - start: 2020-05-18
-    end: 2025-01-31
+    end: 2026-01-31
     status: independent
     employer: Malt - Octo Technology
     startups:

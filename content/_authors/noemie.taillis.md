@@ -4,7 +4,7 @@ role: Data Analyst
 domaine: Data
 missions:
   - start: 2022-02-21
-    end: 2024-12-30
+    end: 2025-12-31
     status: service
     startups:
       - reva

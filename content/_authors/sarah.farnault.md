@@ -4,7 +4,7 @@ fullname: Sarah Farnault
 role: Design UX & Research
 missions:
   - start: 2024-04-22
-    end: 2025-01-31
+    end: 2025-07-31
     status: independent
     employer: Scopyleft
     startups:
