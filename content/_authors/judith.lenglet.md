@@ -4,7 +4,7 @@ role: Coach
 domaine: Déploiement
 missions:
   - start: 2020-05-01
-    end: 2024-12-31
+    end: 2025-06-01
     status: independent
     employer: Numa
     startups:
