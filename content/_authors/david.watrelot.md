@@ -6,7 +6,7 @@ link: https://www.hellodeloo.com
 github: hellodeloo
 missions:
   - start: 2021-03-08
-    end: 2025-01-31
+    end: 2026-01-31
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:

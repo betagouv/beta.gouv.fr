@@ -12,16 +12,18 @@ usertypes:
   - etat
 techno: []
 title: Équipements bio
-mission: Centraliser et diffuser l'information des équipements de transformation bio
+mission: Accompagner les collectivités dans l’identification et le développement de filières bio sur leur territoire
 incubator: agriculture
 sponsors:
   - /organisations/agriculture
 phases:
-  - name: investigation
-    start: 2024-09-13
+  - name: construction
+    start: 2024-12-16
 events:
   - name: product_launch
     date: 2024-09-13
+  - name: committee
+    date: 2024-11-18
 ---
 ## Contexte
 
@@ -32,12 +34,33 @@ L’Agence Bio est un groupement d’intérêt public (GIP) co-géré par le min
 
 ## Problème
 
-Aujourd’hui, les différents acteurs (agriculteurs, entreprises agro-alimentaires, collectivités, associations…) manquent de données précises pour mener à bien cette structuration de filières bio : quelles productions, quels moyens de stockage, quelles unités de transformation se trouvent sur le territoire ? Ou se situent-elles et quelles sont leurs capacités de production ? Le mapping de ces informations est une source indispensable pour permettre à des filières bio de naître ou de se consolider et ainsi permettre plus d’installation ou de conversion en bio grâce à ces débouchés locaux. 
+Il n’y a pas assez d’initiatives et d’aboutissement de projets de filières bio dans les territoires 
+
+## Cibles
+++Principales++ : Collectivités (surtout échelles inter territorial / intercommunal + communes) et Financeurs (FAB, Régions, Agences de l’eau, DRAAF….)
+++Secondaires++ : Porteurs projets / Coopératives / Agriculteurs, Structures d’accompagnement de la bio, Recherche
+
+
 
 ## Solution
 
-Il est envisagé de centraliser des données qui existent chez plusieurs acteurs publics (Agence Bio, France Agrimer, DGAL) et de collecter si possible d’autres données, pour mettre à disposition des acteurs de la structuration de filières une base de données qui réponde à leurs besoins. Cet outil devrait appuyer leur action et se traduire à terme par une consolidation de l'offre bio pour les consommateurs et les collectivités.
+Le produit permettra aux utilisateurs de visualiser les filières présentes sur son territoire. Les grandes fonctionnalités du produit imaginé à ce jour :
+
+1/ Visualisation des différents maillons de la chaîne :
+- Production avec Carto Bio
+- Stockage et outils de transformation avec les données de l’Annuaire + autres données (DGAL, FAM..)
+- Consommation (distribution, restauration collective…) avec l’Annuaire + autres données (ma-cantine..)
+
+2/ Possibilités de filtrer les productions et équipements par filières pour faire ressortir les liens qui peuvent être faits sur le territoire
+
+3/ Etablissement de recommandations sur des filières à développer : manque d’outil ou nouvelle filière porteuse par exemple
+
+4/ Mise en relation avec les personnes ressources sur le territoire (Interbio, GAB/FRAB..)
+
+5/ Outil de suivi des surfaces / équipements bio sur le territoire dans le temps (rapport annuel, notification des nouveaux certifiés bio sur la zone…)
 
 ## Stratégie
 
-Elle sera affinée tout au long de l'investigation. Il pourra être envisagé sur commencer par une filière ou un territoire pour prototyper et tester une solution. 
+Test d’un prototype de solution et l’évaluation de l'intérêt des collectivités pour la proposition de valeur sur 1 ou 2 régions & 2 filières. Cette phase de prototypage dure 3 mois
+
+

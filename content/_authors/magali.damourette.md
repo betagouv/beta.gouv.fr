@@ -8,7 +8,7 @@ competences:
   - Product design
 missions:
   - start: 2024-08-19
-    end: 2025-01-31
+    end: 2025-04-30
     status: independent
     employer: Inop's
     startups:
