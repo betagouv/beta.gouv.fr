@@ -18,7 +18,7 @@ missions:
     startups:
       - geo.data.gouv.fr
   - start: 2015-09-18
-    end: 2025-12-31
+    end: 2022-12-31
     status: service
     employer: Living Data
     startups:
@@ -29,10 +29,31 @@ missions:
       - bases.adresses.locales
       - data.gouv.fr
       - geo.data.gouv.fr
-      - maestro
-      - prelevements.deau
       - urbaclic
+  - start: 2022-12-01
+    end: 2025-03-31
+    status: service
+    employer: Living Data
+    startups:
+      - pcrs
+  - start: 2023-04-01
+    end: 2023-10-31
+    status: service
+    employer: Living Data
+    startups:
       - vigieau
+  - start: 2024-09-01
+    end: 2025-03-31
+    status: service
+    employer: Living Data
+    startups:
+      - maestro
+  - start: 2024-09-01
+    end: 2025-03-31
+    status: service
+    employer: Living Data
+    startups:
+      - prelevements.deau
 competences:
   - Croissance
   - Product strategy

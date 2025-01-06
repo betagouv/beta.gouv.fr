@@ -1,6 +1,6 @@
 ---
 fullname: Estelle Saget
-role: Responsable des portefeuilles Solidarités, Inclusion, Vie associative et Justice (à compter de 2025)
+role: Responsable des portefeuilles Justice, Solidarités, Inclusion et Vie associative
 domaine: Autre
 github: estellesaget
 missions:

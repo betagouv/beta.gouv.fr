@@ -1,5 +1,5 @@
 ---
-fullname: Vincent B.
+fullname: Vincent Bataille
 role: Responsable de produit
 domaine: Produit
 missions:
