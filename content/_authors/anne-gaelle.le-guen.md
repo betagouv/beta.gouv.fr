@@ -13,5 +13,5 @@ missions:
     employer: SGAR Bretagne
     startups:
       - data.etat
-      - pe-ate
+link: https://www.linkedin.com/in/anne-ga%C3%ABlle-le-guen-82a8ab1a8/
 ---
