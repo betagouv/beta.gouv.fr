@@ -69,13 +69,7 @@ GEM
     fiber-storage (0.1.1)
     formatador (1.1.0)
     forwardable-extended (2.6.0)
-    google-protobuf (4.27.0-aarch64-linux)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.27.0-arm64-darwin)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.27.0-x86_64-linux)
+    google-protobuf (4.27.0)
       bigdecimal
       rake (>= 13)
     guard (2.18.1)
@@ -151,13 +145,11 @@ GEM
     lumberjack (1.2.10)
     mercenary (0.4.0)
     method_source (1.1.0)
+    mini_portile2 (2.8.8)
     minitest (5.25.1)
     nenv (0.3.0)
-    nokogiri (1.16.5-aarch64-linux)
-      racc (~> 1.4)
-    nokogiri (1.16.5-arm64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.16.5-x86_64-linux)
+    nokogiri (1.16.5)
+      mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     notiffany (0.1.3)
       nenv (~> 0.1)
@@ -284,7 +276,7 @@ DEPENDENCIES
   tzinfo-data
 
 RUBY VERSION
-   ruby 3.3.4p94
+   ruby 3.4.1p0
 
 BUNDLED WITH
    2.5.9
