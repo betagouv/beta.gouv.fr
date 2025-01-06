@@ -9,11 +9,6 @@
   Détecter si l'author est actif ou non. Par défaut, oui.
 {%- endcomment -%}
 
-{%- if author.missions.last.end -%}
-  {%- capture timestampNow -%}{{ 'now' | date: '%s' }}{%- endcapture -%}
-  {%- capture authorEndDate -%}{{ author.missions.last.end | date: '%s' }}{%- endcapture -%}
-{%- endif -%}
-
 {% assign empty_array = "" | split: "," %}
 {% assign startups = empty_array %}
 {%- if author.missions -%}
@@ -35,10 +30,8 @@
             {{ author.fullname }}
           {% endif %}
         </h3>
-        
-          {%- if timestampNow > authorEndDate -%}
-            <p class="fr-card__detail">Alumnus</p>
-          {%- elsif author.role != nil -%}
+
+          {%- if author.role != nil -%}
             <p class="fr-card__detail">{{ author.role }}</p>
           {%- endif -%}
 
