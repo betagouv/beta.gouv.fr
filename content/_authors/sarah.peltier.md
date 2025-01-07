@@ -1,6 +1,6 @@
 ---
 fullname: Sarah Peltier
-role: UX/Ui Designeuse
+role: UX/UI Designer
 domaine: Design
 missions:
   - start: 2022-03-09
@@ -8,7 +8,6 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - camino
       - trackdechets
 competences: []
 ---

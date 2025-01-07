@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Octo Technology
   - start: 2022-01-03
-    end: 2025-01-31
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:
@@ -18,4 +18,4 @@ badges:
 competences:
   - Communication
 ---
-Animatrice de la communauté de bénévole JeVeuxAider.gouv.fr
+Responsable communauté JeVeuxAider.gouv.fr et Fresque du Bénévolat

@@ -6,7 +6,7 @@ competences:
   - Product strategy
 missions:
   - start: 2024-06-10
-    end: 2024-12-31
-    status: independent
+    end: 2027-11-30
+    status: admin
     employer: Datalab
 ---

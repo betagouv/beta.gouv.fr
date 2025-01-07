@@ -23,18 +23,24 @@ techno: []
 ---
 ## Contexte
 
-Notre objectif est de déployer **une suite collaborative open source et souveraine**, en alternative aux suites propriétaires encore largement utilisées par les agents publics français. Derrière une authentification unique grâce au fournisseur d'identité [AgentConnect](https://agentconnect.gouv.fr/), tous ces services, largement issus de logiciel open source existants, seront interconnectés pour en faciliter l'usage, y compris avec les personnes utilisant encore des outils propriétaires. 
+Notre objectif est de déployer **une suite collaborative open source et souveraine**, en alternative aux suites propriétaires encore largement utilisées par les agents publics français. Derrière une authentification unique grâce au fournisseur d'identité [ProConnect](https://www.proconnect.gouv.fr/), tous ces services, largement issus de logiciel open source existants, seront interconnectés pour en faciliter l'usage, y compris avec les personnes utilisant encore des outils propriétaires. 
 
-La Suite est déployée par l'Opérateur de Produits Interministériels de la DINUM
+La Suite est déployée par l'[Opérateur de Produits Interministériels de la DINUM](https://beta.gouv.fr/incubateurs/dinum_produits_interministeriels).
 
 ## Solution
+La Suite contient d'ores et déjà les services suivants :
+* [Tchap](https://beta.gouv.fr/startups/tchap.html), la messagerie instantanée
+* France Transfert, pour le transfert de fichiers lourds
+* Webinaire, Webconf et [Audioconf](https://beta.gouv.fr/startups/audioconf.html), pour audio et vidéo conférences
+* [Visio](https://beta.gouv.fr/startups/visio.html), pour des visios rapides
+* Resana, pour le stockage de fichiers
+* [Grist](https://beta.gouv.fr/startups/grist.numerique.gouv.fr.html), pour gérer des bases de données
+* Docs, pour de l'édition collaborative de documents textes
+* Messagerie, pour mail et agendas synchronisés, avec OpenExchange
 
 Une fois complète, la suite comprendra des services de : 
 
-* Messagerie mail et agendas synchronisés, avec OpenExchange
 * Annuaire, y compris dans différents ministères
-* Audio et vidéo conférences, avec webinaire et webconf
-* Messagerie instantanée avec Tchap
 * Stockage de fichiers
 * Edition collaborative
 * Kanban 

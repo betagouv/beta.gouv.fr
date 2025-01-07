@@ -1,7 +1,7 @@
 ---
 fullname: Adrien Zemour
-role: Responsable de portefeuille Territoires, Affaires Etrangères, Culture et Transition Ecologique (à compter de 2025)
-domaine: Développement
+role: Responsable de portefeuille Transition Ecologique, Territoires, Culture et Affaires Etrangères
+domaine: Animation
 link: https://www.linkedin.com/in/adrien-zemour/
 github: AdrienZmr
 missions:
@@ -17,6 +17,7 @@ missions:
     status: admin
     employer: DINUM
     startups:
+      - communs-de-la-transition-ecologique-des-collectivites
       - pacoupa
 badges:
   - segur

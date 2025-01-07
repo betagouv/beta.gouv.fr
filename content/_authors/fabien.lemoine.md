@@ -6,7 +6,7 @@ competences:
   - Chargé de déploiement
 missions:
   - start: 2024-08-19
-    end: 2025-01-31
+    end: 2025-07-31
     status: independent
     employer: malt
     startups:

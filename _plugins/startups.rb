@@ -15,7 +15,7 @@ module Jekyll
               'expired_members' => []
             }
           end
-          if author.data['missions']&.last&.[]('end') && (author.data['missions']&.last&.[]('end')&.<= now)
+          if author.data['missions']&.last&.[]('end')&.<= now
             result[startup]['expired_members'].push(author.id.gsub('/authors/', ''))
           else
             result[startup]['active_members'].push(author.id.gsub('/authors/', ''))

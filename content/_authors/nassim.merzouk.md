@@ -21,6 +21,7 @@ missions:
     status: independent
     employer: NUMA
     startups:
+      - 1-eleve-1-stage
       - monstage
 previously:
   - jeveuxaider

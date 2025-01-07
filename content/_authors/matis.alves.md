@@ -13,4 +13,3 @@ badges:
   - segur
 competences: []
 ---
-Au service du rendez-vous 🗓️

@@ -5,24 +5,40 @@ role: Chargé de déploiement
 github: Jonathan2051
 missions:
   - start: 2020-07-20
-    end: 2025-01-31
+    end: 2025-06-30
     status: independent
-    employer: Opteamis
+    employer: Octo puis Opteamis
     startups:
       - codedutravail
-      - deveco
+  - start: 2020-10-01
+    end: 2021-12-31
+    status: independent
+    employer: Octo
+    startups:
       - fiche.commune.entreprise.fce
+  - start: 2022-02-01
+    end: 2022-08-31
+    status: independent
+    employer: Malt
+    startups:
       - tchap
-  - start: 2022-10-25
-    end: 2025-01-31
+  - start: 2022-09-01
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:
       - annuaire-entreprises
+  - start: 2022-11-01
+    end: 2023-06-01
+    status: independent
+    employer: Little Big Connection
+    startups:
+      - deveco
 competences:
   - Communication
-  - Croissance
+  - Marketing
   - SEO
+  - Croissance
   - Matomo
 link: https://www.linkedin.com/in/jonathanlouis2/
 ---
