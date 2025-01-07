@@ -4,7 +4,7 @@ fullname: Camille Verleye
 role: Product owner
 missions:
   - start: 2024-06-17
-    end: 2025-01-31
+    end: 2025-02-28
     status: independent
     employer: Omnicité
     startups:

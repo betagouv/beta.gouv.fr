@@ -1,5 +1,5 @@
 ---
-fullname: Vincent B.
+fullname: Vincent Bataille
 role: ex-alumnus
 domaine: Data
 github: teleboas

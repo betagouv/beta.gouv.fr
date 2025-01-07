@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2025-01-06
     end: 2025-04-06
-    employer: '-DINUM'
     status: independent
+    employer: '-DINUM'
     startups:
       - grist.numerique.gouv.fr
 ---
