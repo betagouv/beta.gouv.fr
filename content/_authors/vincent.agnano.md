@@ -23,13 +23,7 @@ missions:
     employer: Fabrique Numérique des Ministères Sociaux
     startups:
       - egalite.professionnelle
-previously:
-  - egalite.professionnelle
-  - classe-a-12
-  - auvol
-  - eac
-  - api-drones
-  - data.gouv.fr
+      - auvol
 competences:
   - Développement Frontend
   - Développement Backend
