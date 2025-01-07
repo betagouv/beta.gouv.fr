@@ -12,8 +12,8 @@ competences:
 missions:
   - start: 2025-01-01
     end: 2025-12-31
-    employer: SGPE
     status: admin
+    employer: SGPE
     startups:
       - france.nation.verte.agir
 ---

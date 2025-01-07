@@ -10,6 +10,12 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-10-01
+  - name: construction
+    start: 2025-11-01
+repository: https://github.com/MTES-MCT/fonds-vert-espace-laureat
+thematiques: []
+usertypes: []
+techno: []
 ---
 ## Problème
 

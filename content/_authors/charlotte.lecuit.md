@@ -1,7 +1,7 @@
 ---
 fullname: Charlotte Lecuit
 domaine: Produit
-role: Product Owner
+role: bizdev
 github: charlottelecuit
 missions:
   - start: 2018-05-14

@@ -66,9 +66,9 @@ Grace à une plateforme numérique sur-mesure et une équipe composée notamment
 
 ## Stratégie de développement et déploiement du produit
 
-En date de novembre 2024, le développement d'UrbanVitaliz repose sur 3 axes :
+En date de janvier 2025, le développement d'UrbanVitaliz repose sur 3 axes :
 
-* **Poursuivre le déploiement auprès des collectivités**. Depuis janvier 2021, 500 projets ont été soumis pour recevoir de l'aide. Les principaux canaux de communication sont les réseaux locaux, notamment animés par les DDT, préfectures et antennes ANCT, les réseaux type Petite Ville de Demain (PVD), les associations d'élus.
+* **Poursuivre le déploiement auprès des collectivités**. Depuis janvier 2021, 525 projets ont été soumis pour recevoir de l'aide. Les principaux canaux de communication sont les réseaux locaux, notamment animés par les DDT, préfectures et antennes ANCT, les réseaux type Petite Ville de Demain (PVD), les associations d'élus.
 * **Embarquer davantage d'acteurs publics locaux dans le suivi des projets déposés sur la plateforme**. L'équipe d'UrbanVitaliz contacte en direct certains acteurs locaux en fonction des dossiers reçus (DDT notamment). D'autres sollicitent un accès après avoir découvert le service via des réseaux locaux, des communications des ministères de tutelle, sur les réseaux sociaux...
 * **Agréger une vision nationale des friches "qui bougent" à disposition des décideurs publics**. UrbanVitaliz rassemble une quantité importante de données sur les projets reçus et a vocation, à terme, à voir passer la majorité des projets de réhabilitation de friches en France. C'est donc une opportunité unique de faire parler ces données, notamment en créant des tableaux de bord et analyses thématiques : principaux freins, typologie de projet etc.
 

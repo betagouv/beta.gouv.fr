@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/chaibmartinez/
 github: chaibax
 missions:
   - start: 2018-06-01
-    end: 2024-10-10
+    end: 2025-12-31
     status: independent
     employer: numa
     startups:
