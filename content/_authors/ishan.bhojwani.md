@@ -34,6 +34,6 @@ previously:
 badges:
   - segur
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum-incubateur
 ---
 Chef du département Incubateur de services numériques à la DINUM

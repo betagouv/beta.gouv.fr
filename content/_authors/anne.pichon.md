@@ -27,4 +27,6 @@ competences:
   - Coaching
   - Facilitation
   - Product design
+teams:
+  - /teams/agriculture-equipe-transverse
 ---

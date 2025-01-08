@@ -14,7 +14,7 @@ missions:
     startups:
       - juri-gpt
   - start: 2024-10-02
-    end: 2025-01-02
+    end: 2025-05-30
     status: independent
 ---
 Je suis intrapreneure de l'initiative JuriGPT.

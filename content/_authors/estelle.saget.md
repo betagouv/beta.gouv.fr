@@ -21,7 +21,7 @@ previously:
   - apilos
   - l-application-du-cej
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum-incubateur
 link: https://www.linkedin.com/in/estellesaget/
 competences: []
 ---

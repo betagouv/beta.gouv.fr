@@ -15,15 +15,16 @@ usertypes:
   - etat
   - collectivite-territoriale
   - particulier
-link: https://api.gouv.fr/les-api/api-particulier
-repository: https://github.com/betagouv/api-particulier
+link: https://particulier.api.gouv.fr/
+repository: https://github.com/etalab/admin_api_entreprise
 stats: true
 stats_url: https://particulier.api.gouv.fr/stats.html
-contact: contact@particulier.api.gouv.fr
+contact: support@particulier.api.gouv.fr
 thematiques:
-  - Open-Data
   - Outil technique
+  - Administratif
 techno: []
+analyse_risques: true
 ---
 ## Le problème
 

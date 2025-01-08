@@ -8,13 +8,16 @@ sponsors:
   - /organisations/interieur
   - /organisations/ofpra
 phases:
-  - name: construction
-    start: 2024-09-10
+  - name: investigation
+    start: 2024-04-01
+  - name: alumni
+    start: 2024-09-01
 thematiques:
   - Social
   - Administratif
 usertypes:
   - etat
+techno: []
 ---
 ## Contexte Quel est le contexte de ta Startup d'Etat ?
 

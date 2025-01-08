@@ -7,8 +7,8 @@ competences: []
 missions:
   - start: 2024-12-20
     end: 2025-06-30
-    employer: Direction du numérique pour l'éducation
     status: service
+    employer: Direction du numérique pour l'éducation
     startups:
       - monstage
 ---

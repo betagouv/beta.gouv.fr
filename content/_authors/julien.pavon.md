@@ -4,7 +4,7 @@ role: Développeur Fullstack
 domaine: Développement
 missions:
   - start: 2021-10-19
-    end: 2025-01-31
+    end: 2025-09-30
     status: independent
     employer: Octo-Malt
     startups:

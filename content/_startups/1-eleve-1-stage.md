@@ -22,12 +22,9 @@ sponsors:
   - /organisations/bruno-chiocchia
 phases:
   - name: acceleration
-    comment: null
     start: 2025-01-20
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-01-20
 ---
 Depuis l'année scolaire 2023-2024, les élèves de seconde générale et technologique doivent effectuer un stage d'observation en entreprise, association ou administration, durant les deux dernières semaines de l'année scolaire. Les élèves de troisième le font déjà depuis 2005. Cela concerne chaque année environ 561 000 élèves de seconde et 850 000 élèves de troisième. 

@@ -1,5 +1,5 @@
 ---
-title: La Ruche numérique - l'Incubateur du Ministère de l'Agriculture, de la Souveraineté alimentaire et de la forêt
+title: La Ruche numérique - l'Incubateur du Ministère de l'Agriculture, de la Souveraineté alimentaire
 short_description: Lancé officiellement le 7 Novembre 2024, cet incubateur fait émerger et soutient les services numériques participant à la transition agricole et alimentaire.
 owner: /organisations/agriculture
 logo: logo_beta.png
@@ -17,4 +17,4 @@ contact: jennifer.stephan@agriculture.gouv.fr
 website: https://sites-faciles-incub-masa.osc-fr1.scalingo.io/
 github: ''
 ---
-Lancé officiellement le 7 Novembre 2024, cet incubateur fait émerger et soutient les services numériques portés par le MASAF et ses opérateurs (comme l'Agence Bio) participant à la transition agricole et alimentaire sur les différents périmètres du secteur et auprès de tous ses usagers : administrations, collectivités, agriculteurs, entreprises, citoyens...
+Lancé officiellement le 7 Novembre 2024, cet incubateur fait émerger et soutient les services numériques portés par le MASA et ses opérateurs (comme l'Agence Bio) participant à la transition agricole et alimentaire sur les différents périmètres du secteur et auprès de tous ses usagers : administrations, collectivités, agriculteurs, entreprises, citoyens...

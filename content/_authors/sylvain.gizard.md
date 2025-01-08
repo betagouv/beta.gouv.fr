@@ -7,8 +7,8 @@ competences: []
 missions:
   - start: 2025-01-06
     end: 2025-06-30
-    employer: Omnicite
     status: independent
+    employer: Omnicite
     startups:
       - mon.espace.collectivite
 ---

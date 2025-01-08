@@ -12,18 +12,23 @@ phases:
   - name: success
     start: 2019-09-01
 link: https://entreprise.api.gouv.fr/
-repository: https://github.com/etalab/entreprise.api.gouv.fr
+repository: https://github.com/etalab/siade
 stats: true
-contact: contact@apientreprise.fr
+contact: support@entreprise.api.gouv.fr
 usertypes:
   - association
   - entreprise
   - etat
   - collectivite-territoriale
 thematiques:
-  - Open-Data
   - Entreprises
-techno: []
+  - Collectivités
+  - simplification
+techno:
+  - ansible
+  - ruby
+analyse_risques: true
+stats_url: https://entreprise.api.gouv.fr/stats
 ---
 ## Le problème
 
