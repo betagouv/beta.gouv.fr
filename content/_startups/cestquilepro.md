@@ -16,6 +16,8 @@ phases:
     start: 2024-03-04
 stats: false
 contact: contact@inserjeunes.beta.gouv.fr
+redirect_from:
+  - /startup/investigation-ij
 usertypes:
   - particulier
   - association
