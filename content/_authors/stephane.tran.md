@@ -4,7 +4,7 @@ role: Développeur / UI Designer
 domaine: Développement
 missions:
   - start: 2022-05-20
-    end: 2025-02-22
+    end: 2026-02-22
     status: admin
     employer: Ministère de la Justice
     startups:
@@ -21,5 +21,8 @@ competences:
   - PHP
   - PostgreSQL
   - UI
+github: fasjones
+teams:
+  - /teams/justice
 ---
 Développeur à la Fabrique Innovation au Ministère de la Justice

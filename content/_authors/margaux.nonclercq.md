@@ -13,7 +13,7 @@ missions:
       - faritas
       - poe.facilite
   - start: 2023-01-15
-    end: 2024-12-31
+    end: 2025-12-31
     status: service
     startups:
       - france.nation.verte.agir

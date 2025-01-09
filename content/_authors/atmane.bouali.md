@@ -10,4 +10,6 @@ missions:
     end: 2027-10-28
     status: admin
     employer: ANJE – l’Atelier Numérique de la Justice
+teams:
+  - /teams/justice
 ---

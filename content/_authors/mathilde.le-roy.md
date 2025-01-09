@@ -8,7 +8,6 @@ competences:
 missions:
   - start: 2025-01-07
     end: 2026-01-06
-    employer: ''
     status: admin
     startups:
       - impact.co2

@@ -6,7 +6,7 @@ link: https://blog.lamarque.tech
 github: Fabinout
 missions:
   - start: 2023-11-13
-    end: 2025-02-28
+    end: 2025-02-02
     status: independent
     employer: Omnicite
     startups:
