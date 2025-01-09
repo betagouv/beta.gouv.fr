@@ -4,7 +4,7 @@ mission: Mesurer l'impact réel des projets de transition écologique financés 
 sponsors:
   - /organisations/dgaln
 incubator: mtes
-link: https://www.ecologie.gouv.fr/fonds-vert
+link: https://fondsvert-impact.beta.gouv.fr/
 contact: guillaume.levieux@developpement-durable.gouv.fr
 accessibility_status: non conforme
 phases:

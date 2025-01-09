@@ -12,6 +12,8 @@ phases:
     end: 2022-12-06
   - name: construction
     start: 2022-12-07
+  - name: acceleration
+    start: 2025-01-02
 thematiques:
   - Justice
 usertypes:
@@ -22,6 +24,7 @@ link: https://jafer.beta.gouv.fr/
 stats_url: https://jafer.beta.gouv.fr/chiffres-cles
 dashlord_url: https://dashlord.incubateur.net/url/jafer-beta-gouv-fr/best-practices/
 budget_url: https://pad.numerique.gouv.fr/s/WYougVwWu#JAFER
+techno: []
 ---
 ## Contexte
 

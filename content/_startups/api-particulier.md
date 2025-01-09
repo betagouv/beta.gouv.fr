@@ -48,7 +48,7 @@ La mise à disposition de ces données par format d'API permet d'intégrer direc
  - dans les services en ligne pour les usagers ;
  - dans les logiciels métiers des agents.
 
-En intégrant la brique API Entreprise dans leur système d’information ou leurs site internet, les acteurs publics :
+En intégrant la brique API Particulier dans leur système d’information ou leurs site internet, les acteurs publics :
 - accélèrent et simplifient les démarches pour particuliers ;
 - accèdent avec un point unique aux données de la Caisse nationale des allocation familiale (CNAF), du Cnous, de Pôle emploi, etc. ;
 - n'ont plus besoin de demander et re-demander les justificatifs ;

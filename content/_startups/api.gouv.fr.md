@@ -29,9 +29,9 @@ accessibility_status: non conforme
 thematiques: []
 techno: []
 ---
-**Les descriptions des API présentes sur API.GOUV.FR ont été intégrées à DATA.GOUV.FR afin d’améliorer l’accès à la donnée qu’elles soient en accès restreint ou en open data.**
+**Les descriptions des API présentes sur api.gouv.fr ont été intégrées à data.gouv.fr afin d’améliorer l’accès à la donnée qu’elles soient en accès restreint ou en open data.**
 
-DATA.GOUV.FR devient donc le catalogue unique des données des administrations. API.GOUV.FR sera décommissionné progressivement au cours de l’année 2025.
+[data.gouv.fr](https://beta.gouv.fr/startups/data.gouv.fr.html) devient donc le catalogue unique des données des administrations. [api.gouv.fr](https://api.gouv.fr) sera décommissionné progressivement au cours de l’année 2025.
 
 ## Le problème :
 
