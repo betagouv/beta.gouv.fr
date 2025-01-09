@@ -9,6 +9,8 @@ missions:
     employer: Ministère de la Justice
     startups:
       - precontentieux.justice
+teams:
+  - /teams/justice
 link: https://www.linkedin.com/in/st%C3%A9phane-tran/
 competences:
   - Développement Backend
