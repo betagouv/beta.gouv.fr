@@ -22,7 +22,7 @@ missions:
 badges:
   - segur
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum-incubateur
 competences: []
 ---
 On m'a vu dans le Vercors

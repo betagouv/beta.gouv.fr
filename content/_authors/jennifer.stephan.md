@@ -31,4 +31,6 @@ competences:
   - Product strategy
   - Coaching
   - Administration Publique
+teams:
+  - /teams/agriculture-equipe-transverse
 ---

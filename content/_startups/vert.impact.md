@@ -1,6 +1,6 @@
 ---
 title: Vert impact
-mission: Mesurer l'impact réel des projets de transition écologique financés par le fonds vert.
+mission: Mesurer l'impact réel des projets de transition écologique financés par le fonds vert
 sponsors:
   - /organisations/dgaln
 incubator: mtes
@@ -10,23 +10,46 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-10-01
+  - name: construction
+    start: 2025-11-01
+repository: https://github.com/MTES-MCT/fonds-vert-espace-laureat
+thematiques:
+  - Collectivités
+  - Écologie
+  - Territoires
+usertypes:
+  - collectivite-territoriale
+  - association
+  - entreprise
+techno: []
 ---
 ## Problème
 
-Le Fonds vert, programme budgétaire créé en 2023, s'est doté d'un outillage innovant orchestré sur la base de composants de l'Etat plateforme (Aides Territoires, Démarches simplifiées, Superset). Cet outillage a permis un pilotage en temps réel des demandes de subvention des collectivités locales et un suivi des promesses d'impacts environnementaux. Déployé en moins de 2 mois par une petite équipe produit agile orientée impact, ce dispositif a permis la distribution territorialisée de 2 Mds d'euros en 2023 à plus de 10 000 projets.
+Le [Fonds vert](https://www.ecologie.gouv.fr/fonds-vert), programme budgétaire créé en 2023, s'est doté d'un outillage innovant orchestré sur la base de composants de l'Etat plateforme ([Aides Territoires](https://aides-territoires.beta.gouv.fr/programmes/fonds-vert/), Démarches simplifiées, Superset, [data gouv](https://www.data.gouv.fr/fr/datasets/fonds-vert-liste-des-projets-subventionnes-en-2023/)) qui a permis le soutien à plus de 18 000 projets au 1 janvier 2025 pour plus de 2,94 milliards d’euros attribués. 
 
-Mais, au delà des promesses d'impact mentionnées dans les dossiers de demande de subvention, le suivi de l'impact dans le réel d'un projet de transition écologique subventionné fait encore défaut : 
+Pour obtenir les financements du fonds vert, les porteurs de projet se sont engagés à atteindre des objectifs dans leurs projets. *Par exemple : une rénovation énergétique d'un bâtiment public local doit a minima diminuer de 40% sa consommation énergétique pour être éligible à un soutien du fonds vert.* 
 
-* Actuellement, chaque service (D(R)EAL, SGAR, DDT(-M), préfecture de département, sous-préfecture, agences de l'eau, ADEME) gère ses propres processus de suivi, ce qui entraîne une inefficacité et une fragmentation des données, alors même qu'il y a des synergies à trouver avec d'autres subventions/dotations accordées par l'Etat (ex : DSIL/DETR)
-* Le suivi des projets subventionnés est souvent purement administratif et budgétaire (on vérifie seulement si le bilan d'exécution est conforme à la programmation, si la facture d'un prestataire a été réglée...), souvent manuel et sans intégrer la dimension "impact" des projets au gré de leur réalisation
-* Les outils actuels (Excel, Chorus...) ne sont pas suffisamment modernes et ne s'intègrent pas bien avec les autres outils de l'État. La richesse du collectif d'instruction du fonds vert impose de travailler sur des plateformes de services interopérables.
+Aujourd'hui, on ne sait pas si un projet subventionné par le Fonds vert atteint les promesses d’impact déclarées lors de la demande de subvention. En effet, passé la décision d’attribution, le suivi est principalement administratif et budgétaire (on vérifie seulement si le bilan d'exécution est conforme à la programmation, si la facture d'un prestataire a été réglée...) sans intégrer la dimension "impact" des projets au gré de leur réalisation.
 
-Pour obtenir les financements du fonds vert, les porteurs de projet se sont engagés à atteindre des objectifs dans leurs projets. Par exemple : une rénovation énergétique d'un bâtiment public local doit a minima diminuer de 40% sa consommation énergétique pour être éligible à un soutien du fonds vert. Aujourd'hui, les services de l'Etat ne sont pas outillés pour mesurer si ce projet a atteint ou non l'objectif de réduction affiché, et encore moins d'alimenter des indicateurs d'impact pour les projets réalisés.
+Dans un contexte d’urgence climatique et d’économies budgétaires, mesurer précisément l'impact des projets financés est essentiel pour optimiser les efforts de transition écologique, justifier l'utilisation des fonds publics et contribuer efficacement à la lutte contre le changement climatique.
 
 ## Solution
 
-L'outillage actuel du fonds vert redéfinit la gestion des communautés de bénéficiaires et d'instructeurs sur le territoire national en simplifiant leurs échanges. Il ouvre de nouvelles voies pour l'innovation dans le suivi et l'accompagnement des projets, ainsi que dans l'évaluation de leur impact. Grace à une exploitation des données budgétaires et opérationnelles la solution va améliorer la gestion de la performance des projets, affiner les critères de sélection et la distribution des subventions. Il encouragera aussi les porteurs de projet à respecter leurs engagements et à mesurer l'impact réel de leurs initiatives.
+L’espace lauréat permet aux porteurs de projets subventionnés par le Fonds vert de gérer leurs subventions et aux services de l'État de suivre l'impact des projets. Cette solution servira de preuve de concept pour une potentielle intégration future dans des plateformes comme Aides Territoires ou Mon espace collectivité.
 
-## Stratégie
+Dans la première version fonctionnelle, un porteur de projet subventionné par le Fonds vert aura la possibilité de :
+- se connecter via Pro Connect (intégré dès le départ pour faciliter une éventuelle migration future).
+- retrouver les informations utiles au bon déroulement de la subvention : logo à afficher sur les panneaux d’affichages du site des travaux, calendrier légal d’exécution, modalités de demandes de paiement…
+- suivre la consommation de la subvention Fonds vert liée à son projet.
+- visualiser les données d’impact déclarées du projet qui alimentent l’open data.
+- une fois le projet réalisé, évaluer l’impact du projet en renseignant un formulaire Démarches Simplifiées instruit par les services déconcentrés.
 
-À l'avenir, ce service s'intégrera aux processus des services instructeurs, améliorant leur efficacité quotidienne, et sera extensible à d'autres domaines et territoires.
+Dans un premier temps, le formulaire d’évaluation de l’impact réalisé reprendra les mêmes indicateurs que ceux déclarés au moment de la demande de subvention afin de pouvoir établir une comparaison. Un travail est à mener auprès des bureaux responsables des mesures et des services instructeurs pour améliorer la pertinence des questions posées lors de l’évaluation. 
+
+## Impact du service
+
+La part des projets évalués (= nombre de dossiers d’évaluation de l’impact “acceptés” par les services sur le total des projets lauréats soldés) sera l’indicateur a suivre de près. 
+
+Étant donné que nous partons de 0, il est difficile de se fixer un objectif chiffré. Un premier bilan sera dressé à la fin du 1er trimestre 2025, et d’ici là des leviers seront mis en place pour encourager les porteurs de projets à renseigner leur impact. 
+
+Sur le plus long terme, avoir un espace porteur de projet permettant aux bénéficiaires de subvention d'établir une relation de bout en bout tout au long du cycle de vie de leur subvention améliore l’expérience globale du parcours de subvention, pourra facilement être étendu à d’autres programmes de subventions (DETR, DSIL…) et ouvre de nombreuses possibilités d’interactions avec les autres services numériques de l’État, notamment plusieurs produits en construction : [Gestion des subventions locales](https://beta.gouv.fr/startups/gestion.subventions.locales.html), [Communs de la transition écologique des collectivités](https://beta.gouv.fr/startups/communs-de-la-transition-ecologique-des-collectivites.html) et [Data-État](https://beta.gouv.fr/startups/data.etat.html).

@@ -15,4 +15,6 @@ missions:
     employer: DINUM
     startups:
       - data.gouv.fr
+teams:
+  - /teams/dinum_produits_interministeriels
 ---

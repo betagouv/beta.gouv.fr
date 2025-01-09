@@ -8,4 +8,6 @@ missions:
     end: 2025-07-31
     status: independent
     employer: Octo
+teams:
+  - /teams/agriculture-equipe-transverse
 ---

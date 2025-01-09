@@ -14,8 +14,8 @@ competences:
 missions:
   - start: 2025-01-06
     end: 2025-04-06
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - vues-immersives-libres
 ---

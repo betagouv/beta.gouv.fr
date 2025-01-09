@@ -22,7 +22,6 @@ missions:
     status: admin
     employer: DINUM
 teams:
-  - /teams/animation-dinum
   - /teams/communaute-dinum
 competences:
   - Développement Full-stack

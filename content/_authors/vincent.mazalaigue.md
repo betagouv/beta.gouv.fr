@@ -12,5 +12,7 @@ missions:
       - api-entreprise
       - api-particulier
       - datapass
+teams:
+  - /teams/dinum_produits_interministeriels
 ---
 Faciliter les démarches des usagers est mon leitmotiv depuis mon entrée dans l'administration.

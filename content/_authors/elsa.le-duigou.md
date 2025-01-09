@@ -28,7 +28,7 @@ previously:
 badges:
   - segur
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum-incubateur
 link: https://www.linkedin.com/in/elsa-le-duigou-869bb311b/
 competences: []
 ---

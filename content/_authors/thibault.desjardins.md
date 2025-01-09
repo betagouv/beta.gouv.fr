@@ -23,5 +23,5 @@ competences:
   - Croissance
   - Administration Publique
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum-incubateur
 ---

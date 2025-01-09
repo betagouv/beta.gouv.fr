@@ -11,6 +11,7 @@ missions:
 memberType: dinum
 teams:
   - /teams/accelerateur-initiatives-citoyennes
+  - /teams/dinum_produits_interministeriels
 competences: []
 ---
 Basée entre Paris et Marseille, je travaille sur les innovations sociales et les usages numériques. Je m'occupe du pôle open souce et communs numériques dans le département opérateur et j'ai une passion (pas si) secrète pour tout ce qui a trait à la cuisine

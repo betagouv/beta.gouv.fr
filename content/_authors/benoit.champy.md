@@ -15,7 +15,7 @@ missions:
       - pass-sport
       - reperer.identifier.victimes.teh
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum-incubateur
 badges:
   - segur
 competences:

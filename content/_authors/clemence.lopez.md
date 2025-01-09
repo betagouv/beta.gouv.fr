@@ -22,5 +22,5 @@ previously:
 badges:
   - segur
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum-incubateur
 ---
