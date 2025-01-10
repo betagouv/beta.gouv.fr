@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2025-01-07
     end: 2025-12-31
-    employer: Scopyleft
     status: independent
+    employer: Scopyleft
     startups:
       - agents.en.intervention
 ---
