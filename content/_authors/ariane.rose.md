@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: Ariane-Rose
 missions:
   - start: 2020-09-01
-    end: 2024-12-31
+    end: 2025-12-31
     status: admin
     startups:
       - ban

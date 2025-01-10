@@ -1,5 +1,5 @@
 ---
-fullname: Boudou Olivier
+fullname: Olivier Boudou
 role: Intrapreneur
 domaine: Intraprenariat
 github: oboudou
@@ -8,4 +8,5 @@ missions:
     end: 2028-04-19
     status: admin
 memberType: beta
+competences: []
 ---

@@ -5,7 +5,7 @@ domaine: Produit
 github: AlexandreJoubertBetaGouv
 missions:
   - start: 2022-09-04
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: ANCT
     startups:

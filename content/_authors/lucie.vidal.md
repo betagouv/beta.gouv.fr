@@ -2,7 +2,7 @@
 fullname: Lucie Vidal
 role: UX Designer
 domaine: Design
-link: https://bit.ly/LucieVidal-Book
+link: https://www.lucievidal.xyz/
 missions:
   - start: 2023-11-20
     end: 2024-12-31
@@ -21,5 +21,6 @@ competences:
   - Product design
   - UX
   - UI
+  - Design graphique
 ---
 Designer

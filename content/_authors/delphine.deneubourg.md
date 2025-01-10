@@ -1,7 +1,7 @@
 ---
 fullname: Delphine Deneubourg
 role: Responsable incubateur du Ministère de la Justice
-domaine: Intraprenariat
+domaine: Animation
 github: DelphineDeneubourg
 missions:
   - start: 2021-04-06

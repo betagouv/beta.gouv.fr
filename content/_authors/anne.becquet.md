@@ -1,7 +1,7 @@
 ---
 fullname: Anne Becquet
-role: Directrice Mission Interministérielle pour l'apprentissage
-domaine: Intraprenariat
+role: Mentor DINUM
+domaine: Coaching
 github: Anne-Becquet
 missions:
   - start: 2020-01-02
