@@ -41,6 +41,7 @@ stats_url: https://longuevieauxobjets.ademe.fr/stats
 techno:
   - python
   - django
+mon_service_securise: true
 ---
 ## Contexte 👀
 

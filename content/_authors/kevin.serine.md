@@ -1,13 +1,14 @@
 ---
 fullname: Kevin Serine
-role: Développeur
+role: Intrapreneur - Développeur
 domaine: Intraprenariat
 competences: []
 missions:
-  - start: 2025-01-06
-    end: 2025-04-06
+  - start: 2024-12-26
+    end: 2025-12-26
     status: admin
     employer: DINUM
     startups:
       - demarches-simplifiees.fr
+      - rdv-service-public
 ---

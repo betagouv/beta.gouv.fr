@@ -24,7 +24,7 @@ missions:
     status: independent
     employer: Codeurs en Liberté
   - start: 2024-11-12
-    end: 2025-02-12
+    end: 2025-04-12
     status: independent
     employer: Codeurs en Liberté
 previously:
@@ -38,5 +38,6 @@ previously:
   - rdv-service-public
 badges:
   - segur
+competences: []
 ---
 Tout faire pour les humain·e·s

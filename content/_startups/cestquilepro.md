@@ -1,28 +1,19 @@
 ---
-title: C'est qui le pro ?
-mission: Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien
-sponsors:
-  - /organisations/menjs
-  - /organisations/mesr
-  - /organisations/mtei
-  - /organisations/mtfp
-incubator: dinum
-redirect_from:
-  - /startups/investigationIJ
-phases:
-  - name: investigation
-    start: 2023-09-11
-  - name: construction
-    start: 2024-03-04
-stats: false
 contact: contact@inserjeunes.beta.gouv.fr
+repository: https://github.com/mission-apprentissage/c-est-qui-le-pro/
+link: https://cestquilepro.inserjeunes.beta.gouv.fr/
+stats: false
+dashlord_url: https://dashlord.incubateur.net/url/cestquilepro-inserjeunes-beta-gouv-fr/
+redirect_from:
+  - /startup/investigation-ij
+  - /startups/investigationIJ
+thematiques:
+  - Jeunesse
+  - Formation
 usertypes:
   - particulier
   - association
   - etablissement-scolaire
-thematiques:
-  - Jeunesse
-  - Formation
 techno:
   - JavaScript
   - TypeScript
@@ -30,9 +21,24 @@ techno:
   - PostgreSQL
   - Docker
   - CSS
-repository: https://github.com/mission-apprentissage/c-est-qui-le-pro/
-link: https://cestquilepro.inserjeunes.beta.gouv.fr/
-dashlord_url: https://dashlord.incubateur.net/url/cestquilepro-inserjeunes-beta-gouv-fr/
+title: C'est qui le pro ?
+mission: Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien
+incubator: dinum
+sponsors:
+  - /organisations/menjs
+  - /organisations/mesr
+  - /organisations/mtei
+  - /organisations/mtfp
+phases:
+  - name: investigation
+    comment: null
+    start: 2023-09-11
+    end: null
+  - name: construction
+    comment: null
+    start: 2024-03-04
+    end: null
+events: []
 ---
 ## Un service de la mission interministérielle Inserjeunes
 

@@ -1,7 +1,7 @@
 ---
 fullname: Vikie Ache
-domaine: Déploiement
-role: Responsable communication/partenariats et chargée de déploiement/animation - Ex Intrapreneuse Simone & Co
+domaine: Produit
+role: Product Manager ; Responsable communication/partenariats ; Chargée de déploiement/animation - Ex Intrapreneuse Simone & Co
 github: vikieache
 missions:
   - start: 2019-09-01
@@ -10,23 +10,28 @@ missions:
     employer: Agglomération de Pau Béarn Pyrénées
     startups:
       - simone-and-co
-  - start: 2020-11-01
-    end: 2025-08-01
-    status: independent
-    employer: Scopyleft
-    startups:
-      - histologe
   - start: 2021-12-01
     end: 2025-08-01
     status: independent
     employer: Pathtech
     startups:
       - sante-psy-etudiant
+  - start: 2024-09-01
+    end: 2025-04-13
+    status: independent
+    employer: Malt
+    startups:
+      - zero-logement-vacant
 competences:
   - Communication
   - Gestion de Produit
   - Facilitation
   - Intrapreneur(se)
   - SEO
+  - Coaching
+  - Product strategy
+  - Matomo
+  - Metabase
+  - Administration Publique
 link: https://www.linkedin.com/in/vikie-ache-896ba1164/
 ---

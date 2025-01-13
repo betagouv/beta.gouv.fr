@@ -26,6 +26,11 @@ missions:
     startups:
       - agora
       - france.nation.verte.agir
+  - start: 2023-03-29
+    end: 2024-04-26
+    status: independent
+    employer: Scopyleft
+    startups:
       - nosgestesclimat
 domaine: Design
 competences:

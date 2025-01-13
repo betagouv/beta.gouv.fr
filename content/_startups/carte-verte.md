@@ -8,7 +8,7 @@ contact: carte-verte@beta.gouv.fr
 link: https://carte-verte.beta.gouv.fr
 repository: https://github.com/incubateur-ademe/carte-verte
 accessibility_status: non conforme
-dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/carte-verte
+dashlord_url: https://dashlord.incubateur.ademe.fr/startup/carte-verte
 stats: true
 stats_url: https://carte-verte.beta.gouv.fr/stats
 budget_url: https://carte-verte.beta.gouv.fr/budget
@@ -32,6 +32,14 @@ redirect_from:
   - /startups/eco-euro
 thematiques:
   - Écologie
+events:
+  - name: committee
+    date: 2023-04-12
+    comment: Comité de fin d'investigation
+  - name: committee
+    date: 2024-07-01
+  - name: committee
+    date: 2024-10-13
 ---
 ## Contexte
 Carte Verte s’inscrit dans un objectif de politique publique de réduction de l’empreinte environnementale des français et pose le constat suivant : l’empreinte environnementale de la consommation (“je mange”, “j’achète”) des citoyens est trop élevée et peu de dispositifs existent pour l’abaisser (contrairement aux champs des transports et du logement).

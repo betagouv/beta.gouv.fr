@@ -68,7 +68,7 @@ Si les communs de la transition écologique des collectivités constituent la pi
 - Le partage de règles de bonne conduite :
     - Capitaliser sur la richesse de l’écosystème avant de développer un nouveau service
     - Penser d’abord tout nouveau service comme un module interopérable avec l’écosystème plutôt que comme nouvelle interface utilisateur
-    - faire des services numériques bien identifiés, qui ont fairt la preuve de leur impact, le socle de l’écosystème
+    - faire des services numériques bien identifiés, qui ont fait la preuve de leur impact, le socle de l’écosystème
 
 ## Stratégie
 
@@ -97,4 +97,4 @@ L’ensemble des services pertinents de cet écosystème sont visés par les com
 
 La métrique de pilotage principale, la north star, suivie est le nombre de nouvelles utilisations de services numériques de l’écosystème public permise par notre produit.
 
-A terme, l’impact des communs sera mesuré à travers le succès global de l’écosystème connecté dans l’accélération des pojets de collectivités pour la transition écologique.
+A terme, l’impact des communs sera mesuré à travers le succès global de l’écosystème connecté dans l’accélération des projets de collectivités pour la transition écologique.

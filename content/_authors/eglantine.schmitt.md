@@ -10,5 +10,7 @@ missions:
     employer: Ministère de la transition écologique
 github: eglantine
 link: https://www.linkedin.com/in/egschmitt/
+teams:
+  - /teams/mtes
 ---
 La data au service du produit (ou l'inverse)
