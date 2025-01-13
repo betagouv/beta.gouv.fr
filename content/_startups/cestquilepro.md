@@ -31,14 +31,9 @@ sponsors:
   - /organisations/mtfp
 phases:
   - name: investigation
-    comment: null
     start: 2023-09-11
-    end: null
   - name: construction
-    comment: null
     start: 2024-03-04
-    end: null
-events: []
 ---
 ## Un service de la mission interministérielle Inserjeunes
 

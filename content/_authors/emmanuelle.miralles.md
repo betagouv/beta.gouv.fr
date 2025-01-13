@@ -1,5 +1,5 @@
 ---
-fullname: Emmanuelle miralles
+fullname: Emmanuelle Miralles
 role: Intra
 domaine: Intraprenariat
 missions:
@@ -9,4 +9,5 @@ missions:
     startups:
       - icare-complements-alimentaires
 memberType: beta
+competences: []
 ---

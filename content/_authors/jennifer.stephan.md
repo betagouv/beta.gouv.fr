@@ -17,14 +17,18 @@ missions:
       - ma-cantine-egalim
       - protege-toit
       - reperer.identifier.victimes.teh
-  - start: 2024-07-01
-    end: 2038-11-19
-    status: admin
-    employer: Ministère de l'agriculture
+  - start: 2024-06-01
+    end: 2024-07-01
+    status: independent
+    employer: scopyleft
     startups:
       - icare-complements-alimentaires
       - ma-cantine-egalim
       - reperer.identifier.victimes.teh
+  - start: 2024-07-01
+    end: 2038-11-19
+    status: admin
+    employer: Ministère de l'agriculture
 link: https://www.linkedin.com/in/stephanjennifer/
 competences:
   - Facilitation
