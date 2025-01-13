@@ -15,12 +15,9 @@ sponsors:
   - /organisations/dgaln
 phases:
   - name: investigation
-    comment: null
     start: 2025-01-06
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-01-13
 ---
 ## Constats

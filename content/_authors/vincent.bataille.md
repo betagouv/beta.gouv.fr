@@ -24,9 +24,12 @@ missions:
       - data.gouv.fr
       - geo.data.gouv.fr
   - start: 2024-10-01
-    end: 2025-04-30
+    end: 2025-01-01
     status: service
     employer: Malt
     startups:
       - ma-cantine-egalim
+  - start: 2025-01-02
+    end: 2025-06-29
+    status: independent
 ---

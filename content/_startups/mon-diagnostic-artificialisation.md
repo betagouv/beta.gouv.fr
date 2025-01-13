@@ -36,6 +36,8 @@ events:
 techno:
   - python
   - react
+  - django
+mon_service_securise: true
 ---
 ## Contexte
 
