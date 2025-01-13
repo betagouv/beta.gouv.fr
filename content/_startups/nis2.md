@@ -14,6 +14,9 @@ analyse_risques: true
 mon_service_securise: true
 usertypes: []
 techno: []
+repository: https://github.com/betagouv/anssi-nis2
+link: https://monespacenis2.cyber.gouv.fr/
+dashlord_url: https://github.com/betagouv/anssi-nis2
 ---
 ## En cours de construction
 

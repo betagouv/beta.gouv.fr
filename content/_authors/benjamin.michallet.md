@@ -4,11 +4,9 @@ fullname: Benjamin Michallet
 role: Coaching
 missions:
   - start: 2024-04-22
-    end: 2025-03-22
+    end: 2025-12-31
     status: independent
     employer: Dinum
-    startups:
-      - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
 link: https://www.linkedin.com/in/benjamin-michallet-phd-232638164/
 competences:
   - Coaching

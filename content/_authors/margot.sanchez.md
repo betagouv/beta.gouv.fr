@@ -41,6 +41,6 @@ previously:
   - impact.co2
   - agora
 teams:
-  - /teams/animation-dinum
+  - /teams/ademe
 competences: []
 ---

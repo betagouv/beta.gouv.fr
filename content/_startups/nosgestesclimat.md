@@ -8,7 +8,7 @@ contact: contact@nosgestesclimat.fr
 link: https://nosgestesclimat.fr
 repository: https://github.com/incubateur-ademe/nosgestesclimat
 accessibility_status: partiellement conforme
-dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/nosgestesclimat
+dashlord_url: https://dashlord.incubateur.ademe.fr/startup/nosgestesclimat
 stats: true
 stats_url: https://nosgestesclimat.fr/stats
 budget_url: https://nosgestesclimat.fr/budget
@@ -17,9 +17,15 @@ analyse_risques_url: https://github.com/incubateur-ademe/incubateur-ademe/blob/m
 events:
   - name: national_impact
     date: 2022-12-31
+  - name: committee
+    date: 2023-10-24
   - name: fast
     date: 2024-01-01
     comment: Montant de 230000€ pour la promotion 12
+  - name: committee
+    date: 2024-05-23
+  - name: committee
+    date: 2024-12-03
 phases:
   - name: success
     comment: Spin-off de Datagir
@@ -40,6 +46,7 @@ fast:
   montant: 230000
 thematiques:
   - Écologie
+mon_service_securise: true
 ---
 ## Contexte
 

@@ -1,9 +1,9 @@
 ---
 fullname: Sylvain Zimmer
-role: Directeur Technique, La Suite territoriale
+role: Directeur Technique de la Suite territoriale
 domaine: Développement
 github: sylvinus
-link: https://www.linkedin.com/in/sylvainzimmer/
+link: https://sylvainzimmer.com/
 competences:
   - Product strategy
   - Croissance

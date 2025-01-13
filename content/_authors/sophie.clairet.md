@@ -33,4 +33,4 @@ competences:
   - Déploiement
 github: C-Sophie
 ---
-Géographe de formation, principales xp : enseignement supérieur et recherche, rédac chef presse spécialisée géopolitique (magazine Diplomatie), administration centrale (ANSSI), territoriale (Ville de Metz, cf "Metz ma ville en cartes"), et depuis 2019 SE : BAN-BAL, uMap, Panoramax. 
+Géographe de formation, xp presse spécialisée, administration centrale, collectivité territoriale, SE

@@ -9,8 +9,8 @@ missions:
     end: 2025-03-31
     status: independent
     startups:
+      - cestquilepro
       - exposition-ij
-      - investigation-ij
 memberType: beta
 competences: []
 ---

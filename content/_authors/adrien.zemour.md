@@ -13,15 +13,21 @@ missions:
       - chauffage-urbain
       - l-application-du-cej
   - start: 2023-10-02
+    end: 2024-12-31
+    status: admin
+    employer: DINUM
+    startups:
+      - pacoupa
+  - start: 2023-10-02
     end: 2026-10-01
     status: admin
     employer: DINUM
     startups:
       - communs-de-la-transition-ecologique-des-collectivites
-      - pacoupa
 badges:
   - segur
 teams:
+  - /teams/ademe
   - /teams/dinum-incubateur
 competences: []
 ---

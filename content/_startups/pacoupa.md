@@ -16,6 +16,24 @@ repository: https://github.com/incubateur-ademe/pacoupa
 thematiques:
   - Logement
   - Écologie
+analyse_risques: true
+mon_service_securise: true
+budget_url: https://pacoupa.ademe.fr/budget
+stats_url: https://pacoupa.ademe.fr/stats
+dashlord_url: https://dashlord.incubateur.ademe.fr/startup/pacoupa
+usertypes:
+  - particulier
+  - entreprise
+techno:
+  - next.js
+  - typescript
+  - sql
+events:
+  - name: committee
+    date: 2023-11-24
+    comment: Comité de fin d'investigation
+  - name: committee
+    date: 2024-07-03
 ---
 ## Problème
 

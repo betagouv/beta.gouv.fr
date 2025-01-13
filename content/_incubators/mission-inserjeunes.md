@@ -9,7 +9,7 @@ contact: contact@beta.gouv.fr
 highlighted_startups:
   - sirius
   - pilotagevoiepro
-  - investigation-ij
+  - cestquilepro
   - exposition-ij
 address: ''
 ---
