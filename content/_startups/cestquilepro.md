@@ -6,6 +6,7 @@ stats: false
 dashlord_url: https://dashlord.incubateur.net/url/cestquilepro-inserjeunes-beta-gouv-fr/
 redirect_from:
   - /startup/investigation-ij
+  - /startups/investigationIJ
 thematiques:
   - Jeunesse
   - Formation
