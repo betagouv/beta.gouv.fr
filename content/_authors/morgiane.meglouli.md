@@ -7,8 +7,8 @@ competences: []
 missions:
   - start: 2024-12-16
     end: 2025-04-30
-    employer: Numa
     status: independent
+    employer: Numa
     startups:
       - carto-services-publics
 ---

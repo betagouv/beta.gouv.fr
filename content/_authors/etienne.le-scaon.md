@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2025-01-15
     end: 2026-01-14
-    employer: EIG
     status: admin
+    employer: EIG
     startups:
       - data-dsn
 ---

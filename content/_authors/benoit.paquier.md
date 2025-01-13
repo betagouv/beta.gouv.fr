@@ -2,7 +2,7 @@
 fullname: Benoit Paquier
 role: Développeur fullstack
 domaine: Développement
-github: https://github.com/fuuuzz
+github: fuuuzz
 link: https://www.linkedin.com/in/benoit-paquier/
 competences:
   - Développement Full-stack

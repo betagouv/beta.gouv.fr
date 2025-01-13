@@ -37,9 +37,9 @@ Les litiges locatifs entre bailleurs et propriétaires ont des impacts important
 
 Si une simple information ne suffit pas (par exemple sur Service Public ou en contactant une ADIL), les Commissions Départementales de Conciliation (CDC) ont pour rôle de trouver un terrain d'entente par la médiation. Sa saisine est gratuite et est obligatoire pour certains types de litiges avant de saisir le juge.
 
-En 2021, au national les CDC traitaient 10000 dossiers par an (+19% en 6 ans). Les motifs principaux sont le dépôt de garantie (52%), les réparations (19%) et les charges (13%).
+En 2021, au national les CDC traitaient 10 000 dossiers par an (+19% en 6 ans). Les motifs principaux sont le dépôt de garantie (52%), les réparations (19%) et les charges (13%).
 
-Le rapport national analyse l'activité des CDC indique que le taux de saisine par rapport à la population globale des département est faible. Dans le 93 (notre terrain d'expérimentation), 300 dossiers sont envoyés à la CDC chaque année. C'est très faible lorsque mis en perspective de sa population de 1,6 millions.
+Le rapport national analysant l'activité des CDC indique que le taux de saisine par rapport à la population globale des départements est faible. Dans le 93 (notre terrain d'expérimentation), 300 dossiers sont envoyés à la CDC chaque année. C'est très faible lorsque mis en perspective de sa population de 1,6 millions.
 
 ## Problème
 
@@ -47,11 +47,11 @@ Ainsi, il paraît clair que les locataires et bailleurs n’ayant pas su régler
 
 C'est sur ce constat que nous démarrons la construction de notre produit.
 
-Les causes explicatives de cette non résolution sont :
+Les causes explicatives de cette non-résolution sont :
 
-1. d’une méconnaissance de la CDC et autres outils administratifs,
-2. d’une incompréhension de leurs droits et devoirs, ainsi que leurs possibilités d’action
-3. de craintes d’un résultat décevant et des implications d’une démarche administrative
+1. une méconnaissance de la CDC et autres outils administratifs,
+2. une incompréhension de leurs droits et devoirs, ainsi que leurs possibilités d’action
+3. des craintes d’un résultat décevant et des implications d’une démarche administrative
 
 ## Solution
 
@@ -59,7 +59,7 @@ Les causes explicatives de cette non résolution sont :
 
 Médiation Logement est un produit numérique qui accompagne les locataires et bailleurs à comprendre et résoudre leurs litiges au sujet du Dépôt de Garantie (DG).
 
-La solution les aide pour qualifier le litige, leur fournit les informations adaptées et les accompagne vers résolution en assurant une médiation légère par email.
+La solution les aide pour qualifier le litige, leur fournit les informations adaptées et les accompagne vers une résolution en assurant une médiation légère par email.
 
 Lorsque nécessaire, elle assure la réorientation vers la CDC.
 
@@ -70,7 +70,7 @@ Le but est double :
 
 ### Pourquoi le dépôt de garantie (aussi appelé la caution) ?
 
-C'est le 1er motif de saisine 93 et national pour les locataire et les propriétaires. Le 2e taux de conciliation le plus haut. Il concerne à 98% des bailleurs privés. Enfin, la relation est terminée, et la législation (plutôt) claire.
+C'est le 1er motif de saisine 93 et national pour les locataire et les propriétaires. Le 2e taux de conciliation le plus haut. Il concerne à 98% des bailleurs privés. Enfin, la relation est terminée, et la législation est (plutôt) claire.
 
 L’hypothèse : La très grande majorité des litiges au sujet du dépôt de garantie pourraient être résolue si les deux parties avaient une compréhension claire et adaptée de leurs droits et devoirs.
 
@@ -126,18 +126,18 @@ De ces médiations entamées, 25% ont trouvé une résolution à l'amiable. Le r
 
 ### Budget
 
-Décision de financement de 50000 € au 4 décembre 2023 financé par la DHUP / DGALN
+Décision de financement de 50 000 € au 4 décembre 2023 financé par la DHUP / DGALN
 
-Décision de financement de 30000 € au 9 juillet 2024 financé par la DHUP / DGALN
+Décision de financement de 30 000 € au 9 juillet 2024 financé par la DHUP / DGALN
 
-Montant restant non engagé de 18353 € au 17 décembre 2024.
+Montant restant non engagé de 18 353 € au 17 décembre 2024.
 
 Répartition du budget :
 
 | Nature | Montant |
 | --- | --- |
-| Coaching | 41000 € |
-| Développement | 20400 € |
+| Coaching | 41 000 € |
+| Développement | 20 400 € |
 | Outils | 388 € |
 | Marketing | 200 € |
 

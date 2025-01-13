@@ -21,6 +21,7 @@ missions:
       - mon-diagnostic-artificialisation
       - otelo
       - pitchou
+      - trait-de-cote
       - zero-logement-vacant
 memberType: dinum
 competences:

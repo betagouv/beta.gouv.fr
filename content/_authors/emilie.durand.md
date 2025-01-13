@@ -1,6 +1,6 @@
 ---
 fullname: Emilie Durand
-role: Designer à l'Atelier Universel
+role: Designer
 domaine: Design
 competences: []
 missions:
