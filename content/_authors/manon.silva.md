@@ -23,7 +23,7 @@ missions:
     startups:
       - maison.de.lautisme
   - start: 2024-09-16
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:
@@ -41,4 +41,5 @@ competences:
   - Communication
   - Croissance
   - Product design
+  - SEO
 ---
