@@ -8,7 +8,6 @@ competences:
 missions:
   - start: 2024-06-01
     end: 2025-12-31
-    employer: Ministère de la transition écologique
     status: admin
-    startups: []
+    employer: Ministère de la transition écologique
 ---

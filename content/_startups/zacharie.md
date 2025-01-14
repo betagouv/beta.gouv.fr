@@ -22,6 +22,7 @@ phases:
 redirect_from:
   - /startups/tracabilite.gibier.sauvage
   - /startups/tracabilite.gibier.sauvage.html
+repository: https://github.com/betagouv/zacharie
 ---
 ## Contexte
 

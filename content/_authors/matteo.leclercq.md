@@ -10,7 +10,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2024-11-27
-    end: 2025-02-13
+    end: 2025-05-13
     status: service
     employer: OCTO
     startups:
