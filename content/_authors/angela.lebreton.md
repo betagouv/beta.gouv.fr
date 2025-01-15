@@ -15,6 +15,12 @@ missions:
     employer: Omnicité
     startups:
       - mon.espace.collectivite
+  - start: 2025-01-16
+    end: 2025-06-30
+    status: independent
+    employer: Malt
+    startups:
+      - territoires-en-transitions
 previously:
   - jeveuxaider
 memberType: beta

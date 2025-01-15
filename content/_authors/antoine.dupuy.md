@@ -1,6 +1,6 @@
 ---
 fullname: Antoine Dupuy
-role: Business Developer, Chargé de déploiement
+role: Lead Business Developer, Responsable de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-09-26
@@ -12,5 +12,6 @@ missions:
 badges:
   - segur
 competences: []
+link: https://www.linkedin.com/in/antoine-dupuy-49061758/
 ---
-Business Developer
+Responsable du pôle Déploiement au Laboratoire de l'Innovation de l'ANSSI et MonServiceSécurisé
