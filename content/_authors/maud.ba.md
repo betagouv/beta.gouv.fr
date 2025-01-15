@@ -10,7 +10,7 @@ competences:
   - Data Science
 missions:
   - start: 2024-11-13
-    end: 2025-02-13
+    end: 2025-05-13
     status: independent
     employer: /ut7
     startups:

@@ -1,6 +1,6 @@
 ---
 fullname: Charlotte Fanneau
-role: Directrice de l’impact
+role: EIG Impact
 domaine: Autre
 competences: []
 missions:
@@ -10,4 +10,5 @@ missions:
     employer: EIG
     startups:
       - domifa
+link: https://fr.linkedin.com/in/charlottefanneau
 ---

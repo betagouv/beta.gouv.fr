@@ -48,7 +48,7 @@ Mes Aides se base sur [OpenFisca](https://fr.openfisca.org/), un moteur de calcu
 * 10/2014 Ouverture et communication
 
   * Lors des comités de pilotage, les organismes tiennent à ralentir le déploiement tant que les calculs ne sont pas totalement fiables. Les tentatives d'échanges pour la fiabilisation n'abouttissant pas, les personnes voient de moins en moins d'intérêt à participer aux comités de pilotage. Ces comités ne rassemblent plus et ne sont pas renouvelés.
-* 19/10/2015 Annonce de François Hollande d'un « portail des droits » [source](https://www.capital.fr/economie-politique/hollande-souhaite-une-position-commune-sur-le-compte-d-activite-1079072)
+* 19/10/2015 Annonce de François Hollande d'un « portail des droits » [source](https://web.archive.org/web/20220814124117/https://www.capital.fr/economie-politique/hollande-souhaite-une-position-commune-sur-le-compte-d-activite-1079072)
 
   * Il n'y a pas eu de demande pour la passation de la partie visible du simulateur (du *front*).
   * En revanche, seul OpenFisa (le moteur de calculs *sous* mes-aides.gouv.fr) permet de créer un simulateur multi-prestations. Il est donc utilisé pour le portail national des droits sociaux.

@@ -10,6 +10,12 @@ missions:
     employer: Malt
     startups:
       - plusfraichemaville
+  - start: 2025-01-15
+    end: 2025-04-15
+    status: service
+    employer: Malt
+    startups:
+      - plusfraichemaville
 memberType: autre
 competences: []
 ---
