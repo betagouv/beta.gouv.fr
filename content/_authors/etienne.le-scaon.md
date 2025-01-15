@@ -15,3 +15,4 @@ missions:
     startups:
       - data-dsn
 ---
+Entrepreneur dans le numérique depuis 2013, en particulier dans le domaine des logiciels d'entreprise. J'ai rejoint la 7ème promotion EIG en janvier 2025.

@@ -1,6 +1,6 @@
 ---
 fullname: Claire Bérard
-role: Coach
+role: Coach agile
 domaine: Coaching
 missions:
   - start: 2022-06-06
@@ -13,6 +13,9 @@ missions:
     employer: MIOM / DTNUM
     startups:
       - juri-gpt
+  - start: 2025-01-14
+    end: 2027-12-31
+    status: independent
 memberType: autre
 link: https://www.linkedin.com/in/claire-berard/
 competences:

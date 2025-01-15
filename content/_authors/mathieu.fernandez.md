@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: MathieuFV
 missions:
   - start: 2022-03-28
-    end: 2025-03-01
+    end: 2026-06-30
     status: admin
     startups:
       - dialogue

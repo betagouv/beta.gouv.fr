@@ -1,6 +1,6 @@
 ---
 fullname: Cyprien Cambier
-role: Entrepreneur d'intérêt général associé d'une startup d'État
+role: Entrepreneur d'intérêt général associé de la startup d'État 1 élève 1 stage
 domaine: Produit
 competences: []
 missions:
