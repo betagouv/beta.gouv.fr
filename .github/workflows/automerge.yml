@@ -1,5 +1,9 @@
 name: automerge # https://github.com/pascalgn/automerge-action
 on:
+  pull_request:
+    types:
+      - opened
+      - reopened
   check_suite:
     types:
       - completed
