@@ -1,7 +1,7 @@
 ---
 fullname: Venus Alvarado
 role: Chargée de communication
-domaine: Animation
+domaine: Déploiement
 competences:
   - Communication
   - SEO

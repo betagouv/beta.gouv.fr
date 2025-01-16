@@ -31,6 +31,12 @@ missions:
     employer: Numa
     startups:
       - tabula
+  - start: 2025-01-01
+    end: 2025-04-30
+    status: independent
+    employer: Dynergie
+    startups:
+      - friche-reboost
 badges:
   - segur
 competences: []

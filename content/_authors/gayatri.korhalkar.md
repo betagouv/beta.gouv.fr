@@ -16,7 +16,6 @@ missions:
     end: 2025-06-22
     status: independent
     startups:
-      - aquaculteurs.marins
       - inventaireoeuvres
       - tout-est-permis
 badges:
