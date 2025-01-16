@@ -10,8 +10,13 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - aquaculteurs.marins
       - zero-logement-vacant
+  - start: 2023-12-01
+    end: 2024-01-01
+    status: independent
+    employer: Malt
+    startups:
+      - aquaculteurs.marins
   - start: 2024-01-08
     end: 2025-06-02
     status: independent

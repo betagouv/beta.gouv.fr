@@ -1,6 +1,6 @@
 ---
 fullname: Vincent Bataille
-role: ex-alumnus
+role: Coach
 domaine: Data
 github: teleboas
 competences: []
@@ -25,10 +25,8 @@ missions:
       - geo.data.gouv.fr
   - start: 2024-10-01
     end: 2025-01-01
-    status: service
+    status: independent
     employer: Malt
-    startups:
-      - ma-cantine-egalim
   - start: 2025-01-02
     end: 2025-06-29
     status: independent

@@ -12,5 +12,6 @@ missions:
       - l-application-du-cej
 previously:
   - aides.jeunes
+competences: []
 ---
 UI/UX Designer freelance depuis 3 ans.

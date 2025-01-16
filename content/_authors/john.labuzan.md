@@ -17,7 +17,6 @@ missions:
       - chauffage-urbain
       - collectif_objets
       - conseillers-entreprises
-      - docurba
       - experts
       - lannuaire.des.collectivites
       - mediature

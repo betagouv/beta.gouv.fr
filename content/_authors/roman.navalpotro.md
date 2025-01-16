@@ -8,8 +8,6 @@ missions:
     end: 2025-07-31
     status: independent
     employer: NUMA
-    startups:
-      - zero-logement-vacant
 badges:
   - segur
 competences: []
