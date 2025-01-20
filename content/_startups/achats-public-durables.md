@@ -13,12 +13,9 @@ sponsors:
   - /organisations/cgdd
 phases:
   - name: investigation
-    comment: null
     start: 2024-04-04
-    end: null
 events:
   - name: other
-    comment: ''
     date: 2025-01-17
 ---
 ## Contexte

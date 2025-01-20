@@ -10,7 +10,6 @@ missions:
     status: admin
     employer: DINUM
     startups:
-      - acceslibre
       - france.nation.verte.agir
       - pass-sport
       - reperer.identifier.victimes.teh
