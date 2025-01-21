@@ -14,6 +14,9 @@ missions:
       - metiers-numeriques
       - mon-entreprise
       - pass-culture
+  - start: 2025-01-21
+    end: 2025-07-16
+    status: independent
 badges:
   - segur
 github: jihanehrz

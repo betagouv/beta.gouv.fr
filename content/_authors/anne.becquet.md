@@ -28,6 +28,14 @@ missions:
       - tdb-apprentissage
       - uai_siret
       - voeux-apprentissage
+  - start: 2025-01-01
+    end: 2025-06-30
+    status: admin
+    startups:
+      - api-and-communs-numeriques-de-la-cour-de-cassation
+      - lex-base
+      - portail-greffe-gestion-des-audiences
+      - portail-greffe-gestion-des-dossiers
 teams:
   - /teams/mission-apprentissage
 link: https://www.linkedin.com/in/annebecquet
@@ -35,4 +43,5 @@ competences:
   - Communication
   - Product strategy
   - Intrapreneur(se)
+  - Coaching
 ---

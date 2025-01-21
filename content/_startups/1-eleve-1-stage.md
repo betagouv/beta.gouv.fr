@@ -3,7 +3,7 @@ accessibility_status: totalement conforme
 analyse_risques: false
 mon_service_securise: true
 contact: sebastien.morel@education.gouv.fr
-link: 'https://www.1eleve1stage.education.gouv.fr '
+link: 'https://1eleve1stage.education.gouv.fr '
 thematiques:
   - Entreprises
   - Jeunesse

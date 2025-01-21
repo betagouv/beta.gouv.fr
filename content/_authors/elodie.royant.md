@@ -17,8 +17,8 @@ competences:
 missions:
   - start: 2025-01-20
     end: 2025-06-15
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - tous.a.bord
 ---
