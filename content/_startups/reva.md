@@ -34,6 +34,8 @@ accessibility_status: partiellement conforme
 thematiques:
   - Travail / Emploi
   - Formation
+analyse_risques: true
+mon_service_securise: true
 ---
 ## Le contexte
 
