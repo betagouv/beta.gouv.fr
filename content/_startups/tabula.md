@@ -19,6 +19,9 @@ phases:
 events:
   - name: committee
     date: 2024-11-20
+  - name: other
+    date: 2025-12-26
+    comment: Expérimentation de la solution Grist
 ---
 **Contexte**
 

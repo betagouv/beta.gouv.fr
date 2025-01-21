@@ -11,9 +11,12 @@ phases:
     start: 2023-11-14
 stats: false
 contact: anne.devoret@beta.gouv.fr
+thematiques: []
+usertypes: []
+techno: []
 ---
 ## Le contexte
-Aujourd'hui, lorsqu'un évènement sanitaire survient, ce sont les directions départementales (DDecPP) , les directions régionales (SRAL) et l'administration centrale (MUS) qui sont en charge de décrire, suivre, diffuser l'information et d'accompagner les acteurs vers une maitrise des risques. Ces évènements peuvent survenir dans 3 domaines :  la sécurité sanitaires des aliments, la santé des végétaux et la santé des animaux. 
+Aujourd'hui, lorsqu'un évènement sanitaire survient, ce sont les directions départementales (DDecPP) , les directions régionales (SRAL) et l'administration centrale (MUS) qui sont en charge de décrire, suivre, diffuser l'information et d'accompagner les acteurs vers une maitrise des risques. Ces évènements peuvent survenir dans 3 domaines :  la sécurité sanitaire des aliments, la santé des végétaux et la santé des animaux. 
 
 Il n'y a pas de solution numérique nationale unifiant le suivi pour l'ensemble des agents publics concernés. On compte néanmoins le logiciel SORA Alertes, développé historiquement par la DGCCRF, qui permet à ce jour aux agents en charge de la sécurité sanitaires des aliments de qualifier et gérer certains évènements (Alertes nationales, alertes locales, notifications sanitaires, autres non conformités produits). L'usage de SORA a permis de confirmer le besoin urgent d'un outil partagé. Néanmoins, ce logiciel sera décommissionné en 2025.
 

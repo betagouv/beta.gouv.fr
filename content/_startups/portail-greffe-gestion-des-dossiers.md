@@ -28,12 +28,6 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-01-27
-  - name: construction
-    start: 2025-04-15
-  - name: acceleration
-    start: 2026-01-30
-  - name: success
-    start: 2026-06-30
 events:
   - name: other
     date: 2024-12-23
