@@ -27,6 +27,7 @@ missions:
     status: admin
     employer: EIG
     startups:
+      - proconnect
       - suite-numerique
       - suite.territoriale
 ---

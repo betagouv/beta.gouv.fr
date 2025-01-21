@@ -5,7 +5,7 @@ domaine: Déploiement
 github: MathieuBonamy
 missions:
   - start: 2022-08-25
-    end: 2025-01-31
+    end: 2025-07-31
     status: independent
     employer: Ministère en charge de l'énergie
     startups:
@@ -13,5 +13,6 @@ missions:
 badges:
   - segur
 competences: []
+link: https://www.linkedin.com/in/mathieu-bonamy-9441843/
 ---
 Chargé de déploiement

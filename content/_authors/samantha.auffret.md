@@ -5,9 +5,10 @@ domaine: Design
 missions:
   - start: 2024-01-08
     end: 2025-12-31
-    status: independent
+    status: admin
     employer: GIP
     startups:
       - rdv.insertion
 memberType: beta
+competences: []
 ---

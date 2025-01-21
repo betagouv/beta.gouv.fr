@@ -12,7 +12,6 @@ missions:
     employer: Numa
     startups:
       - aides-territoires
-      - apilos
       - boursoloco
       - chauffage-urbain
       - collectif_objets
