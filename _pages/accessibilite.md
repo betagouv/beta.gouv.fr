@@ -8,8 +8,8 @@ title: Accessibilité
 
 À cette fin, beta.gouv.fr met en œuvre la stratégie et les actions suivantes :
 - [Schéma pluriannuel 2024-2027](/accessibilite/schema-pluriannuel)
-- [Bilan 2023](/accessibilite/schema-pluriannuel#bilan-2023)
-- [Plan d'action 2024](/accessibilite/schema-pluriannuel#plan-2024)
+- [Bilan 2024](/accessibilite/schema-pluriannuel#bilan-2024)
+- [Plan d'action 2025](/accessibilite/schema-pluriannuel#plan-2025)
 
 ## Déclaration de conformité partielle au RGAA
 
