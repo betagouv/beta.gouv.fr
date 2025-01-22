@@ -50,6 +50,10 @@ missions:
     employer: Fabrique Numérique des Ministères Sociaux
     startups:
       - enfants-du-spectacle
+  - start: 2025-01-01
+    end: 2025-12-31
+    status: admin
+    employer: DINUM
 competences:
   - Gestion de Produit
   - Administration Publique

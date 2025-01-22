@@ -5,7 +5,7 @@ domaine: Animation
 github: CSPEGF
 missions:
   - start: 2023-07-02
-    end: 2024-12-31
+    end: 2027-12-31
     status: service
 memberType: beta
 ---

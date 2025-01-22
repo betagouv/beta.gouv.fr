@@ -28,6 +28,7 @@ dashlord_url: https://dashlord.mte.incubateur.net/url/boris-beta-gouv-fr/
 usertypes:
   - particulier
 techno: []
+budget_url: https://boris.beta.gouv.fr/statistiques
 ---
 <h2>2,4 millions</h2>
 

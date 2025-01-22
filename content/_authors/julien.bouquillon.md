@@ -1,6 +1,6 @@
 ---
 fullname: Julien Bouquillon
-role: Responsable animation de la communauté tech 😎
+role: Responsable tech communauté beta 😎
 domaine: Développement
 avatar: https://avatars1.githubusercontent.com/u/124937?s=460&v=4
 github: revolunet
@@ -22,7 +22,6 @@ missions:
     status: admin
     employer: DINUM
 teams:
-  - /teams/animation-dinum
   - /teams/communaute-dinum
 competences:
   - Développement Full-stack

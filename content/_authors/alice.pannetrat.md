@@ -10,7 +10,7 @@ missions:
     employer: DINUM
 memberType: beta
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum-incubateur
 badges:
   - segur
 competences: []

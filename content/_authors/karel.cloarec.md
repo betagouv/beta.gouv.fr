@@ -14,31 +14,71 @@ missions:
     end: 2020-10-30
     status: independent
     employer: Octo
+    startups:
+      - e-inspé
   - start: 2020-11-01
     end: 2021-04-01
     status: independent
     employer: Scopyleft
     startups:
       - urbanvitaliz
-  - start: 2021-02-03
-    end: 2023-12-01
+  - start: 2021-01-01
+    end: 2022-06-01
     status: independent
-    employer: LBC
+    employer: Octo
     startups:
-      - deveco
-      - monstage
+      - conventionnement.iae
+      - ethique.en.sante.numerique
   - start: 2021-04-01
     end: 2021-11-01
     status: independent
     employer: UT7
     startups:
       - eva
-  - start: 2021-11-01
-    end: 2022-01-02
+  - start: 2021-07-01
+    end: 2021-10-01
     status: independent
-    employer: NUMA
+    employer: Octo
+    startups:
+      - candela
+  - start: 2021-10-01
+    end: 2023-06-01
+    status: independent
+    employer: LBC
+    startups:
+      - deveco
+  - start: 2022-01-01
+    end: 2022-12-01
+    status: independent
+    employer: Malt
+    startups:
+      - guichet-entreprises-nc
+  - start: 2022-07-01
+    end: 2022-12-01
+    status: independent
+    startups:
+      - frise.cpip
+      - rdv.mjd
+  - start: 2022-10-01
+    end: 2023-02-01
+    status: independent
+    employer: Octo
+    startups:
+      - chantiers.agiles
+  - start: 2022-10-01
+    end: 2023-12-01
+    status: independent
+    employer: LBC
+    startups:
+      - monstage
+  - start: 2023-01-01
+    end: 2023-06-01
+    status: independent
+    employer: Malt
+    startups:
+      - la.communaute.de.linclusion
   - start: 2024-06-10
-    end: 2025-03-01
+    end: 2025-07-01
     status: independent
     employer: Malt
     startups:
@@ -49,6 +89,12 @@ missions:
     employer: NUMA
     startups:
       - data-subvention
+  - start: 2024-12-01
+    end: 2025-06-01
+    status: independent
+    employer: Malt
+    startups:
+      - tous.a.bord
 previously:
   - andi
   - urbanvitaliz

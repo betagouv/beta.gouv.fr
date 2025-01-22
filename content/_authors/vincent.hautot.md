@@ -4,6 +4,6 @@ role: Responsable SSI
 domaine: Autre
 missions:
   - start: 2022-05-30
-    end: 2024-12-31
+    end: 2025-06-27
     status: independent
 ---

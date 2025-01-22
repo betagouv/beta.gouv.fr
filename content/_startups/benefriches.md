@@ -8,7 +8,7 @@ contact: laurent.chateau@ademe.fr
 link: https://benefriches.ademe.fr
 repository: https://github.com/incubateur-ademe/benefriches
 accessibility_status: non conforme
-dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/benefriches
+dashlord_url: https://dashlord.incubateur.ademe.fr/startup/benefriches
 stats: true
 stats_url: https://benefriches.ademe.fr/statistiques
 budget_url: https://benefriches.ademe.fr/budget
@@ -31,6 +31,14 @@ usertypes:
 thematiques:
   - Territoires
   - Écologie
+mon_service_securise: true
+events:
+  - name: committee
+    date: 2023-12-21
+  - name: committee
+    date: 2024-07-11
+  - name: committee
+    date: 2024-12-16
 ---
 ## Contexte
 Le renouvellement urbain et notamment la reconquête des friches est une opportunité pour atteindre les objectifs de zéro artificialisation nette.

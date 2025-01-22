@@ -21,9 +21,6 @@ shortcuts:
   - label: Blog
     external: true
     url: https://blog.beta.gouv.fr
-  - label: Espace Membre
-    external: true
-    url: https://espace-membre.incubateur.net
 fast:
   - label: Sélection au FAST
     target: /fast/sélection

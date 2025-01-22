@@ -15,15 +15,16 @@ usertypes:
   - etat
   - collectivite-territoriale
   - particulier
-link: https://api.gouv.fr/les-api/api-particulier
-repository: https://github.com/betagouv/api-particulier
+link: https://particulier.api.gouv.fr/
+repository: https://github.com/etalab/admin_api_entreprise
 stats: true
 stats_url: https://particulier.api.gouv.fr/stats.html
-contact: contact@particulier.api.gouv.fr
+contact: support@particulier.api.gouv.fr
 thematiques:
-  - Open-Data
   - Outil technique
+  - Administratif
 techno: []
+analyse_risques: true
 ---
 ## Le problème
 
@@ -47,7 +48,7 @@ La mise à disposition de ces données par format d'API permet d'intégrer direc
  - dans les services en ligne pour les usagers ;
  - dans les logiciels métiers des agents.
 
-En intégrant la brique API Entreprise dans leur système d’information ou leurs site internet, les acteurs publics :
+En intégrant la brique API Particulier dans leur système d’information ou leurs site internet, les acteurs publics :
 - accélèrent et simplifient les démarches pour particuliers ;
 - accèdent avec un point unique aux données de la Caisse nationale des allocation familiale (CNAF), du Cnous, de Pôle emploi, etc. ;
 - n'ont plus besoin de demander et re-demander les justificatifs ;

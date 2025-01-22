@@ -76,7 +76,7 @@ additional_js:
             title="Statistiques d'ouverture du code source (description détaillée disponible ci-après)"
             ></iframe>
             {%- capture alt -%}
-            Ce diagramme en barres indique le taux d'ouverture des codes sources selon la phase de vie d'un projet. Plus de 90 % des services en accélération, transfert et pérénisation ouvrent leur code source (contre environ 50 % au stade de construction).
+            Ce diagramme en barres indique le taux d'ouverture des codes sources selon la phase de vie d'un projet. Plus de 80 % des services en accélération, transfert et pérénisation ouvrent leur code source (contre environ 50 % au stade de construction).
             {%- endcapture -%}
             {% include transcription.html id="open-source" title="Ouverture des codes sources" alt=alt %}
       </div>
@@ -91,7 +91,7 @@ additional_js:
               title="Statistiques de taux de publication de pages Statistiques (description détaillée disponible ci-après)"
           ></iframe>
           {%- capture alt -%}
-            Ce diagramme en barres indique le taux de publication de la mesure d'impact d'un produit, selon sa phase de vie. Ce taux atteint les 80 % pour les produits en phase d'accélération.
+            Ce diagramme en barres indique le taux de publication de la mesure d'impact d'un produit, selon sa phase de vie. Ce taux atteint les 75 % pour les produits en phase d'accélération.
           {%- endcapture -%}
           {% include transcription.html id="stats" title="Publication de la mesure d'impact" alt=alt %}
       </div>

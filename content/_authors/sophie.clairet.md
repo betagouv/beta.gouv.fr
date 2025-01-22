@@ -13,15 +13,24 @@ missions:
       - bases.adresses.locales
       - umap
   - start: 2024-05-01
-    end: 2025-01-30
+    end: 2025-03-31
     status: independent
     employer: LittleBigConnection
     startups:
       - umap
+  - start: 2025-01-06
+    end: 2025-04-30
+    status: independent
+    employer: Malt
+    startups:
+      - vues-immersives-libres
 badges:
   - segur
 competences:
   - Communication
   - Administration Publique
+  - Partenariats
+  - Déploiement
+github: C-Sophie
 ---
-Chargée de déploiement pour le programme uMap
+Géographe de formation, xp presse spécialisée, administration centrale, collectivité territoriale, SE

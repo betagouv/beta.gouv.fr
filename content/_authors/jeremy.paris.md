@@ -8,8 +8,8 @@ missions:
     end: 2024-02-28
     status: independent
     startups:
+      - cestquilepro
       - exposition-ij
-      - investigation-ij
 memberType: beta
 ---
 PO le jour, bénévole la nuit.

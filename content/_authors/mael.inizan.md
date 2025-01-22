@@ -19,9 +19,8 @@ missions:
     startups:
       - chauffage-urbain
       - mesaidesreno
-      - territoires-en-transitions
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum-incubateur
 competences:
   - UX
   - Coaching

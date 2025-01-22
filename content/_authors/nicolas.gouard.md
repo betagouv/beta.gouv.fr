@@ -8,6 +8,7 @@ missions:
   - start: 2023-12-11
     end: 2026-01-31
     status: independent
+    employer: Malt
     startups:
       - api-engagement
       - jeveuxaider

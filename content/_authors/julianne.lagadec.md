@@ -9,8 +9,8 @@ missions:
     end: 2025-02-28
     status: admin
     startups:
+      - cestquilepro
       - exposition-ij
-      - investigation-ij
       - pilotagevoiepro
       - sirius
 previously:

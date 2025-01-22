@@ -30,10 +30,10 @@ missions:
     end: 2025-03-03
     status: independent
     startups:
+      - cestquilepro
       - exposition-ij
       - histologe
       - homologation
-      - investigation-ij
       - la-bonne-alternance
       - nis2
       - pilotagevoiepro

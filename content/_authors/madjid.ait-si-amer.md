@@ -4,7 +4,7 @@ domaine: Développement
 role: Développeur full stack
 missions:
   - start: 2021-09-13
-    end: 2025-01-31
+    end: 2025-05-31
     status: independent
     employer: Octo
     startups:

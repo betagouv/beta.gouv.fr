@@ -8,7 +8,11 @@ contact: aude.bodiguel@ademe.fr
 accessibility_status: non conforme
 events:
   - name: committee
+    date: 2023-04-11
+    comment: Comité de fin d'investigation 1
+  - name: committee
     date: 2023-10-16
+    comment: Comité de fin d'investigation 2
   - name: committee
     date: 2024-07-09
 phases:
@@ -25,8 +29,15 @@ repository: https://github.com/incubateur-ademe/facili-tacct
 link: https://facili-tacct.beta.gouv.fr
 usertypes:
   - collectivite-territoriale
-techno: []
-dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/tacct
+techno:
+  - next.js
+  - typescript
+  - python
+  - sql
+dashlord_url: https://dashlord.incubateur.ademe.fr/startup/tacct
+mon_service_securise: true
+budget_url: https://facili-tacct.beta.gouv.fr/budget
+stats_url: https://facili-tacct.beta.gouv.fr/stats
 ---
 ## Contexte
 

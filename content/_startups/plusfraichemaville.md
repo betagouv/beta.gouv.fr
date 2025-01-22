@@ -8,7 +8,7 @@ contact: plusfraichemaville@ademe.fr
 link: https://plusfraichemaville.fr/
 repository: https://github.com/incubateur-ademe/plusfraichemaville-site
 accessibility_status: non conforme
-dashlord_url: https://dashlord.incubateur.ademe.fr/url/plusfraichemaville-fr/
+dashlord_url: https://dashlord.incubateur.ademe.fr/startup/plusfraichemaville
 stats: true
 stats_url: https://plusfraichemaville.fr/stats
 budget_url: https://plusfraichemaville.fr/budget
@@ -35,6 +35,12 @@ thematiques:
 usertypes:
   - collectivite-territoriale
 mon_service_securise: true
+events:
+  - name: committee
+    date: 2024-02-08
+  - name: committee
+    date: 2024-10-15
+    comment: Comité de fin de construction
 ---
 ## Contexte
 

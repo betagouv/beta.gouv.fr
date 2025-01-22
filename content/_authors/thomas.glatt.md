@@ -11,9 +11,9 @@ missions:
     startups:
       - mon-suivi-social
   - start: 2024-10-17
-    end: 2025-01-31
+    end: 2025-03-31
     status: independent
-    employer: LittleBig Connection
+    employer: Solstice
     startups:
       - seves
 previously:

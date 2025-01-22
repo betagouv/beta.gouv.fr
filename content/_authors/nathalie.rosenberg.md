@@ -10,8 +10,8 @@ missions:
     status: independent
     employer: ut7
     startups:
+      - cestquilepro
       - exposition-ij
-      - investigation-ij
       - pilotagevoiepro
   - start: 2023-05-01
     end: 2024-08-31

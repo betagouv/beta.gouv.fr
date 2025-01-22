@@ -1,6 +1,6 @@
 ---
 fullname: Julien Dauphant
-role: Directeur Technique et Produits
+role: Directeur de Produit Cloud
 link: https://www.linkedin.com/in/juliendauphant/
 github: jdauphant
 missions:
@@ -11,7 +11,11 @@ missions:
   - start: 2019-09-01
     end: 2026-08-31
     status: admin
-    employer: dinum
+    employer: DINUM
+  - start: 2024-11-01
+    end: 2027-01-01
+    status: admin
+    employer: DINUM
 previously:
   - aplus
   - signalement
@@ -22,7 +26,7 @@ previously:
   - audioconf
 badges:
   - segur
-domaine: Animation
+domaine: Intraprenariat
 competences:
   - Coaching
   - Gestion de Produit

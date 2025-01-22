@@ -2,7 +2,7 @@
 fullname: Ossama Ben Jemaa
 role: Designer
 domaine: Design
-github: https://github.com/ossamabenjemaa
+github: ossamabenjemaa
 link: https://www.linkedin.com/in/ossamabenjemaa/
 competences:
   - UX

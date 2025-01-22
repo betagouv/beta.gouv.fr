@@ -5,11 +5,10 @@ domaine: Autre
 github: laetitiasanogo
 missions:
   - start: 2023-10-12
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
     employer: DINUM
     startups:
-      - moncomptepro
       - proconnect
 memberType: autre
 competences: []

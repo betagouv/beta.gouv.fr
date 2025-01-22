@@ -5,10 +5,10 @@ domaine: Produit
 github: Maissara24
 missions:
   - start: 2024-01-30
-    end: 2024-04-30
+    end: 2025-02-28
     status: independent
     employer: DINUM
     startups:
-      - moncomptepro
+      - proconnect
 memberType: dinum
 ---

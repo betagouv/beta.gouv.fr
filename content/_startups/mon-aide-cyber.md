@@ -14,6 +14,11 @@ redirect_from:
   - /startups/MonAideCyber
 thematiques:
   - Sécurité informatique
+analyse_risques: true
+mon_service_securise: true
+repository: https://github.com/betagouv/mon-aide-cyber
+usertypes: []
+techno: []
 ---
 ## En cours de construction
 

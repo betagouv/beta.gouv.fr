@@ -2,7 +2,7 @@
 mission: Aider les entreprises et administrations à se préparer à l'entrée en vigueur de la directive NIS2 et à s'approprier sa mise en oeuvre en lien avec l'ANSSI
 incubator: lab-innov-anssi
 contact: Stephane.DEHARVENGT@ssi.gouv.fr
-title: PortailNIS2
+title: MonEspaceNIS2
 sponsors:
   - /organisations/anssi
 phases:
@@ -10,6 +10,13 @@ phases:
     start: 2023-06-01
 thematiques:
   - Sécurité informatique
+analyse_risques: true
+mon_service_securise: true
+usertypes: []
+techno: []
+repository: https://github.com/betagouv/anssi-nis2
+link: https://monespacenis2.cyber.gouv.fr/
+dashlord_url: https://github.com/betagouv/anssi-nis2
 ---
 ## En cours de construction
 

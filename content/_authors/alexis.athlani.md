@@ -1,6 +1,6 @@
 ---
 fullname: Alexis Athlani
-role: Développeur
+role: Développeur et Géographe
 domaine: Développement
 github: alexisig
 missions:
@@ -12,7 +12,6 @@ missions:
       - mon-diagnostic-artificialisation
 memberType: beta
 competences:
-  - Administration Système
   - Data Science
   - Développement Full-stack
   - DevOps

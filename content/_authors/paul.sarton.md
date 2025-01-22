@@ -1,12 +1,18 @@
 ---
 domaine: Produit
 fullname: Paul  Sarton
-role: Produit
+role: Coach Aquapreneur + Activateur territorial
 missions:
   - start: 2024-07-04
     end: 2025-02-28
     status: independent
     employer: NUMA
+  - start: 2024-12-02
+    end: 2025-04-16
+    status: independent
+    employer: NUMA
+    startups:
+      - aquaculteurs.marins
 competences:
   - Facilitation
   - Product strategy

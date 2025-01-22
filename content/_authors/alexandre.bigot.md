@@ -2,7 +2,7 @@
 fullname: Alexandre-Hadrien BIGOT
 role: Développeur
 domaine: Data
-github: github.com/Alexandre-Bigot
+github: Alexandre-Bigot
 competences:
   - Data Science
 missions:

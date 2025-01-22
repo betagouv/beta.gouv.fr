@@ -1,7 +1,7 @@
 ---
 fullname: Audrey Bramy
-role: Développeuse / PO
-domaine: Développement
+role: Chargée de déploiement
+domaine: Déploiement
 github: AudreyBramy
 missions:
   - start: 2020-09-01
@@ -9,12 +9,13 @@ missions:
     status: independent
     employer: scopyleft
   - start: 2024-02-05
-    end: 2024-12-16
+    end: 2025-03-31
     status: service
     employer: Scopyleft
     startups:
       - pitchou
 previously:
   - comobi
+link: https://www.linkedin.com/in/audreybramy/
+competences: []
 ---
-Ingénieure Informatique de formation, je me dirige vers le rôle de Product Owner au sein de Beta Gouv.

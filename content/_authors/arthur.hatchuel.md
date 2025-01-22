@@ -1,6 +1,6 @@
 ---
 fullname: Arthur Hatchuel
-domaine: Intraprenariat
+domaine: Animation
 role: Adjoint au responsable de l'Incubateur de services numériques
 github: hatchuel
 link: https://www.linkedin.com/in/arthur-h-13bb018b/
@@ -25,6 +25,6 @@ previously:
 badges:
   - segur
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum-incubateur
 ---
 Ex-intra DossierFacile, numérique et aménagement. Sport et musique. "Qui veut voyager loin ménage sa monture."

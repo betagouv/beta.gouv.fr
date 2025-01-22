@@ -12,5 +12,7 @@ missions:
       - demarches-simplifiees.fr
       - mps
 github: emsnytech
+teams:
+  - /teams/dinum_produits_interministeriels
 ---
 Fonctionnaire, et le plus vieux de la bande. Le moins disruptif ? À voir…

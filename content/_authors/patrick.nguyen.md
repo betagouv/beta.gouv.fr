@@ -10,7 +10,7 @@ missions:
     startups:
       - pass-sport
   - start: 2024-11-14
-    end: 2025-02-28
+    end: 2025-04-30
     status: independent
     employer: scopopop
     startups:
@@ -26,6 +26,7 @@ competences:
   - JavaScript/TypeScript
   - Python
   - PostgreSQL
+  - Django
 memberType: beta
 ---
 Fullstack Software Engineer

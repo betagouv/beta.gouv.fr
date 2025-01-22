@@ -12,12 +12,10 @@ missions:
     employer: Numa
     startups:
       - aides-territoires
-      - apilos
       - boursoloco
       - chauffage-urbain
       - collectif_objets
       - conseillers-entreprises
-      - docurba
       - experts
       - lannuaire.des.collectivites
       - mediature

@@ -12,18 +12,22 @@ phases:
     end: 2023-01-02
   - name: construction
     start: 2023-01-02
+  - name: alumni
+    start: 2024-07-01
 redirect_from:
   - /startups/messagerie.instantanee.sante.html
 thematiques:
   - Santé
   - Sécurité informatique
   - Outil technique
+usertypes: []
+techno: []
 ---
 ## Contexte
 
 Comment fluidifier et sécuriser les communications instantanées entre professionnels de santé ?
 
-C’est sur cette problématique que beta.gouv.fr et l’Agence du Numérique en Santé collaborent depuis l’automne 2022, en expérimentant la construction d'un Espace d'Interopérabilité des Messageries Instantanées de Santé (EIMIS)
+C’est sur cette problématique que beta.gouv.fr et l’Agence du Numérique en Santé collaborent depuis l’automne 2022, en expérimentant la construction d'un Espace d'Interopérabilité des Messageries Instantanées de Santé (EIMIS).
 
 
 ## Problème
@@ -60,4 +64,5 @@ Favoriser l'adoption des outils de messagerie instantanée de santé en s'appuya
 - Constituer un référentiel de qualité pour les outils afin d'offrir une expérience utilisateur répondant aux besoins et usages réels des professionnels de santé
 - Tester diverses hypothèses d'améliorations en mettant une application mobile de messagerie instantanée à disposition d'une communauté de beta-testeurs
 
-Cette expérimentation se fait en partenariat avec les éditeurs de logiciels santé, n'hésitez pas à nous contacter pour participer !
+## Fin de l'investigation
+Le partenariat avec beta.gouv a été arrêté fin juin 2024 en raison de divergences méthodologiques, notamment sur la sécurité et l'hébergement. L'ANS continue de conduire le projet avec ses propres ressources.

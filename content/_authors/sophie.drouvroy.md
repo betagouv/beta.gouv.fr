@@ -8,13 +8,14 @@ competences:
   - Communication
 missions:
   - start: 2024-09-06
-    end: 2025-02-28
+    end: 2025-05-31
     status: service
     employer: Brigade d'intervention numérique
     startups:
-      - annuaire-entreprises
       - demarches-simplifiees.fr
       - grist.numerique.gouv.fr
+      - moncomptepro
+      - notifications-v2
       - pass-sport
       - proconnect
       - suite-numerique

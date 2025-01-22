@@ -11,6 +11,8 @@ phases:
     start: 2016-01-25
   - name: success
     start: 2020-07-01
+  - name: transfer
+    start: 2025-01-08
 link: https://api.gouv.fr
 repository: https://github.com/betagouv/api.gouv.fr
 stats: true
@@ -24,9 +26,13 @@ usertypes:
   - etat
 dashlord_url: https://dashlord.incubateur.net/url/api-gouv-fr/
 accessibility_status: non conforme
-thematiques:
-  - Open-Data
+thematiques: []
+techno: []
 ---
+**Les descriptions des API présentes sur api.gouv.fr ont été intégrées à data.gouv.fr afin d’améliorer l’accès à la donnée qu’elles soient en accès restreint ou en open data.**
+
+[data.gouv.fr](https://beta.gouv.fr/startups/data.gouv.fr.html) devient donc le catalogue unique des données des administrations. [api.gouv.fr](https://api.gouv.fr) sera décommissionné progressivement au cours de l’année 2025.
+
 ## Le problème :
 
 Au sein des administrations, la donnée est une ressource dispersée, hétérogène et difficile d'accès.

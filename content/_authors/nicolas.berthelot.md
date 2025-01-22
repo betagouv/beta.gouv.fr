@@ -25,5 +25,6 @@ previously:
 teams:
   - /teams/fab-geocommuns
 competences: []
+link: https://www.linkedin.com/in/berthelotnicolas/
 ---
 Data & carto & mobilité

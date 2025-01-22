@@ -28,6 +28,9 @@ redirect_from:
 usertypes:
   - particulier
 accessibility_status: non conforme
+budget_url: https://eva.beta.gouv.fr/budget
+thematiques: []
+techno: []
 ---
 ## Problème
 

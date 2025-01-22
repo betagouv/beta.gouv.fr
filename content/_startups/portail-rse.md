@@ -19,6 +19,11 @@ phases:
   - name: construction
     start: 2022-05-17
 stats_url: https://portail-rse.beta.gouv.fr/stats
+analyse_risques: false
+mon_service_securise: true
+thematiques: []
+usertypes: []
+techno: []
 ---
 Le Portail RSE est un produit numérique en cours de construction ayant pour objectif d’aider toutes les entreprises à se mettre en conformité avec leurs obligations en matière de RSE (Responsabilité Sociétale des Entreprises). Il a été lancé en 2021 par la Secrétaire d’État à l’Économie, Sociale, Solidaire et Responsable (ESSR) et est maintenant piloté par la Direction Générale des Entreprises (DGE).
 

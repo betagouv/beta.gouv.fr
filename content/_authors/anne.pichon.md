@@ -21,10 +21,11 @@ missions:
     status: independent
     startups:
       - inventaire.friches.agricoles
-      - vigieau
 competences:
   - Product strategy
   - Coaching
   - Facilitation
   - Product design
+teams:
+  - /teams/agriculture-equipe-transverse
 ---

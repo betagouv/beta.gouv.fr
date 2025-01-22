@@ -8,16 +8,18 @@ sponsors:
   - /organisations/interieur
   - /organisations/ofpra
 phases:
-  - name: construction
-    start: 2024-09-10
+  - name: investigation
+    start: 2024-04-01
+  - name: alumni
+    start: 2024-09-01
 thematiques:
   - Social
   - Administratif
 usertypes:
   - etat
+techno: []
 ---
-## Contexte Quel est le contexte de ta Startup d'Etat ?
-
+## Contexte 
 L’OFPRA a 2 principales missions :
 
 * L’examen et le traitement de la demande d’asile (70% de l’activité)
@@ -25,8 +27,7 @@ L’OFPRA a 2 principales missions :
 
 Plus de 500 000 personnes en France bénéficient du statut de réfugié. Le nombre de personnes admises au statut augmente chaque année. En 2023, ce sont 62 000 personnes qui ont obtenu ce statut. 
 
-## Problème Les problèmes que vous avez identifiés ou vos hypothèses de problèmes ? Qui en souffre ? quels sont les conséquences de ces problèmes ?
-
+## Problème 
 Face à l'augmentation du nombre de réfugiés, l’OFPRA rencontre des difficultés pour assurer ses missions de protection juridique et administrative en garantissant un niveau d’expérience usager satisfaisant. Ces difficultés se matérialisent notamment à travers :
 
 * Un délai de délivrance de l’état civil qui est d’environ 1 an et demi, ce qui entraine des ruptures dans l’accès au droit des bénéficiaires (fin des droits CAF etc…) 
@@ -37,14 +38,14 @@ La population de nouveaux réfugiés rencontre des difficultés d’intégration
 Régulièrement, ils ne reçoivent pas les documents transmis par l’Ofpra, qu’il s’agisse d’une information sur leur statut (« oui la personne est bien réfugiée »), sur le fait que leur dossier est en cours (« l’état civil est en cours d’établissement ») ou même leurs actes d’état civil. 
 Les autres administrations leur demandent régulièrement des documents d’état civil qu’ils ne peuvent pas fournir et les réfugiés se retournent donc vers l’Ofpra. Le service de la relation à l’usager de la Protection peine à répondre aux usagers quel que soit le canal de communication mobilisé.  
 
-## Solution en quelques lignes; qui seront/sont les bénéficiaires ? 
+## Solution
 
 Au départ, nous avions prévu une solution d'échanges de données entre administrations. A la fin de l'investigation, il est apparu que cette solution permettrait de résoudre quelques problèmes d'accès aux droits, mais ne règlerait pas l'enjeu qui est la vitesse d'établissement des actes d'état civil. 
 
 In fine, nous avons proposé un prototype d'outil d'aide à la comparaison des documents permettant d'établir les états civils et d'aide à la saisie de ces derniers. En permettant aux agents de travailler plus confortablement et plus rapidement, nous règlerons l'enjeu des délais. 
 
 
-## Stratégie Comment vous vous y prenez pour atteindre votre usager ? quel impact chiffré visez-vous ?
+## Stratégie
 
 L’investigation a pour but d’explorer le champ des destinataires et leur besoin de données.
 Pour identifier précisément les bénéfices de la démarche, les pistes suivantes sont envisagées pour le moment : 

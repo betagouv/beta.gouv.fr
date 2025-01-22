@@ -10,12 +10,11 @@ missions:
     status: admin
     employer: DINUM
     startups:
-      - acceslibre
       - france.nation.verte.agir
       - pass-sport
       - reperer.identifier.victimes.teh
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum-incubateur
 badges:
   - segur
 competences:

@@ -27,7 +27,6 @@ missions:
 badges:
   - segur
 teams:
-  - /teams/animation-dinum
   - /teams/fast-dinum
 link: https://www.linkedin.com/in/paul-burgun/
 competences:

@@ -18,8 +18,7 @@ previously:
 badges:
   - segur
 teams:
-  - /teams/animation-dinum
-  - /teams/fast-dinum
+  - /teams/dinum-incubateur
 competences:
   - Développement Full-stack
   - JavaScript/TypeScript

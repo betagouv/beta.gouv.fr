@@ -24,7 +24,7 @@ missions:
     startups:
       - ecobalyse
   - start: 2024-06-15
-    end: 2025-02-15
+    end: 2025-07-15
     status: independent
     employer: Malt
     startups:

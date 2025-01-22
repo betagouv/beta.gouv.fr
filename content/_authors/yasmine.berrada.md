@@ -15,7 +15,7 @@ missions:
       - je-deviens-etudiant
       - trackdechets
   - start: 2023-02-06
-    end: 2025-02-28
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:

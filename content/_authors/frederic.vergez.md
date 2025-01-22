@@ -1,8 +1,8 @@
 ---
 fullname: Frédéric Vergez
-role: Développeur
+role: Développeur senior
 domaine: Développement
-link: https://about.me/ikarius
+link: https://www.linkedin.com/in/fredericvergez/
 github: ikarius
 missions:
   - start: 2020-03-04
@@ -18,7 +18,7 @@ missions:
     startups:
       - dora
   - start: 2024-08-15
-    end: 2025-01-31
+    end: 2025-12-31
     status: independent
     employer: Solstice
     startups:

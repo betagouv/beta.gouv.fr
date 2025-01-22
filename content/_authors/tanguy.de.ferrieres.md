@@ -8,7 +8,7 @@ competences:
   - Facilitation
 missions:
   - start: 2024-08-19
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:

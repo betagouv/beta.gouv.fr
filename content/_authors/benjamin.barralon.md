@@ -9,8 +9,8 @@ missions:
     status: admin
     employer: AMUE
     startups:
+      - cestquilepro
       - exposition-ij
-      - investigation-ij
       - pilotagevoiepro
       - sirius
 teams:

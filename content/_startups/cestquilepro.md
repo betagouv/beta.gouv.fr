@@ -1,28 +1,19 @@
 ---
-title: C'est qui le pro ?
-mission: Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien
-sponsors:
-  - /organisations/menjs
-  - /organisations/mesr
-  - /organisations/mtei
-  - /organisations/mtfp
-incubator: mission-inserjeunes
-redirect_from:
-  - /startups/investigationIJ
-phases:
-  - name: investigation
-    start: 2023-09-11
-  - name: construction
-    start: 2024-03-04
-stats: false
 contact: contact@inserjeunes.beta.gouv.fr
+repository: https://github.com/mission-apprentissage/c-est-qui-le-pro/
+link: https://cestquilepro.inserjeunes.beta.gouv.fr/
+stats: false
+dashlord_url: https://dashlord.incubateur.net/url/cestquilepro-inserjeunes-beta-gouv-fr/
+redirect_from:
+  - /startup/investigation-ij
+  - /startups/investigationIJ
+thematiques:
+  - Jeunesse
+  - Formation
 usertypes:
   - particulier
   - association
   - etablissement-scolaire
-thematiques:
-  - Jeunesse
-  - Formation
 techno:
   - JavaScript
   - TypeScript
@@ -30,9 +21,26 @@ techno:
   - PostgreSQL
   - Docker
   - CSS
-repository: https://github.com/mission-apprentissage/c-est-qui-le-pro/
-link: https://cestquilepro.inserjeunes.beta.gouv.fr/
+title: C'est qui le pro ?
+mission: Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien
+incubator: dinum
+sponsors:
+  - /organisations/menjs
+  - /organisations/mesr
+  - /organisations/mtei
+  - /organisations/mtfp
+phases:
+  - name: investigation
+    start: 2023-09-11
+  - name: construction
+    start: 2024-03-04
 ---
+## Un service de la mission interministérielle Inserjeunes
+
+La mission interministérielle InserJeunes, lancée en 2022, visait à faciliter l'insertion professionnelle des jeunes en éclairant leurs choix d’orientation au regard du devenir des formations et en soutenant la transformation de la carte des formations initiales dans la perspective de l’objectif plein emploi. 
+
+La mission interministérielle Inserjeunes s'est terminée fin 2024, ce qui a occasionné le rattachement des services numériques créés à l'incubateur de services numérique de la DINUM en attendant leur pérennisation.  
+
 ## Le problème
 
 Les choix d’orientation sont souvent fondés sur des **informations partielles et subjectives concernant les parcours de formation et le marché de l’emploi**. Bon nombre de jeunes s’orientent, ou sont orientés, vers les **filières les plus connues, mais qui s’avèrent souvent sans perspectives**.

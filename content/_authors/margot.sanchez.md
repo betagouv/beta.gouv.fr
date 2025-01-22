@@ -1,6 +1,6 @@
 ---
 fullname: Margot Sanchez
-role: Responsable de portefeuille Transition Ecologique
+role: Responsable des opérations - Accélérateur de la Transition Ecologique (ADEME)
 domaine: Animation
 github: margot-sanchez
 missions:
@@ -25,9 +25,13 @@ missions:
     status: independent
     employer: NUMA
   - start: 2022-10-01
-    end: 2025-01-31
+    end: 2024-12-31
     status: admin
     employer: DINUM
+  - start: 2025-01-01
+    end: 2025-12-31
+    status: admin
+    employer: ADEME
 previously:
   - transport
   - preuve-de-covoiturage
@@ -37,6 +41,6 @@ previously:
   - impact.co2
   - agora
 teams:
-  - /teams/animation-dinum
+  - /teams/ademe
 competences: []
 ---

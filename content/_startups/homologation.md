@@ -23,12 +23,21 @@ fast:
   promotion: 14
   montant: 141000
 thematiques:
-  - Sécurité informatique
+  - cybersécurité
+  - Etat
+  - Collectivités
+  - services numériques
 accessibility_status: non conforme
 events:
   - name: fast
+    date: 2022-07-01
+    comment: Montant de 370 000€
+  - name: fast
     date: 2024-01-01
-    comment: Montant de 141000€ pour la promotion 14
+    comment: Montant de 141 000€ pour la promotion 14
+analyse_risques: true
+mon_service_securise: true
+techno: []
 ---
 ## En phase d'accélération
 

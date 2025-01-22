@@ -8,7 +8,7 @@ contact: impactco2@ademe.fr
 link: https://impactco2.fr
 repository: https://github.com/incubateur-ademe/impactco2
 accessibility_status: partiellement conforme
-dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/impact.co2
+dashlord_url: https://dashlord.incubateur.ademe.fr/startup/impact.co2
 stats: true
 stats_url: https://impactco2.fr/stats
 budget_url: https://impactco2.fr/budget
@@ -17,11 +17,11 @@ analyse_risques_url: https://github.com/incubateur-ademe/impactco2/blob/main/SEC
 phases:
   - name: construction
     start: 2021-02-01
-  - name: success
-    comment: Spin-off de Datagir
-    start: 2022-06-13
   - name: acceleration
     start: 2022-09-01
+  - name: success
+    comment: Spin-off de Datagir
+    start: 2023-06-13
 techno:
   - Next.js
   - React
@@ -34,6 +34,14 @@ usertypes:
   - collectivite-territoriale
 thematiques:
   - Écologie
+mon_service_securise: true
+events:
+  - name: committee
+    date: 2023-10-25
+  - name: committee
+    date: 2024-06-11
+  - name: committee
+    date: 2024-12-10
 ---
 ## Problème 👀
 

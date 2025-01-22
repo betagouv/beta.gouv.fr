@@ -4,7 +4,7 @@ role: 'Intrapreneur - cheffe de produit '
 domaine: Intraprenariat
 missions:
   - start: 2024-01-15
-    end: 2024-12-31
+    end: 2025-10-31
     status: admin
     employer: Ministère de la Culture
     startups:

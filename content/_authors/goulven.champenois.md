@@ -9,6 +9,12 @@ missions:
     employer: UT7
     startups:
       - collectif_objets
+  - start: 2025-01-06
+    end: 2025-03-31
+    status: admin
+    employer: LittleBig Connection
+    startups:
+      - acces-cible
 link: https://pro.userland.fr/
 github: goulvench
 competences:

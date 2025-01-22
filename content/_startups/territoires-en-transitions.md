@@ -8,7 +8,7 @@ contact: contact@territoiresentransitions.fr
 link: https://territoiresentransitions.fr/
 repository: https://github.com/betagouv/territoires-en-transitions
 accessibility_status: non conforme
-dashlord_url: https://dashlord.incubateur-ademe.beta.gouv.fr/startup/territoires-en-transitions
+dashlord_url: https://dashlord.incubateur.ademe.fr/startup/territoires-en-transitions
 stats: true
 stats_url: https://www.territoiresentransitions.fr/stats
 budget_url: https://www.territoiresentransitions.fr/budget
@@ -39,9 +39,14 @@ fast:
 thematiques:
   - Territoires
 events:
+  - name: committee
+    date: 2023-11-27
   - name: fast
     date: 2024-01-01
     comment: Montant de 300000€ pour la promotion 14
+  - name: committee
+    date: 2024-11-05
+mon_service_securise: true
 ---
 ## Contexte
 

@@ -5,12 +5,9 @@ domaine: Coaching
 link: https://www.linkedin.com/in/romannavalpotro/
 missions:
   - start: 2022-09-01
-    end: 2024-12-31
+    end: 2025-07-31
     status: independent
     employer: NUMA
-    startups:
-      - sante-psy-etudiant
-      - zero-logement-vacant
 badges:
   - segur
 competences: []

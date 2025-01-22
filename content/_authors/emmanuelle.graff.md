@@ -10,4 +10,6 @@ missions:
 memberType: beta
 github: EmmanuelleGraff
 competences: []
+teams:
+  - /teams/dinum-incubateur
 ---

@@ -3,10 +3,12 @@ title: Orion
 mission: Contribuer à la transformation de la carte des formations des lycées professionnels
 sponsors:
   - /organisations/dgesco
-incubator: mission-inserjeunes
+incubator: dinum
 phases:
   - name: acceleration
     start: 2023-01-01
+  - name: transfer
+    start: 2024-12-01
 repository: https://github.com/mission-apprentissage/tjp-pilotage
 stats_url: https://orion.inserjeunes.beta.gouv.fr/statistiques
 stats: true
@@ -23,6 +25,12 @@ thematiques:
   - Travail / Emploi
 techno: []
 ---
+## Orion, un service de la mission interministérielle Inserjeunes
+
+La mission interministérielle InserJeunes, lancée en 2022, visait à faciliter l'insertion professionnelle des jeunes en éclairant leurs choix d’orientation au regard du devenir des formations et en soutenant la transformation de la carte des formations initiales dans la perspective de l’objectif plein emploi. 
+
+La mission interministérielle Inserjeunes s'est terminée fin 2024, ce qui a occasionné le rattachement des services numériques créés à l'incubateur de services numérique de la DINUM en attendant leur pérennisation.  
+
 ## Le constat
 
 Deux ans après l’obtention de leur diplôme, seuls 41 % des titulaires d’un CAP et 51 % des bacheliers professionnels ont un emploi.
@@ -64,7 +72,9 @@ Les premiers résultats sont encourageants :
 - De nombreuses transformations sont prévues pour la rentrée 2024, avec notamment la création de 3 670 nouvelles places par rapport à 2023.
 
 
+## Le transfert
 
+Fin 2024, la mission interministérielle Inserjeurnes est terminée. Le produit Orion est transféré à la DNE au sein du ministère chargé de l'éducation nationale.
 
 
 

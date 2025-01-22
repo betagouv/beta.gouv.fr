@@ -10,12 +10,15 @@ missions:
     employer: Pôle Emploi
     startups:
       - maintenant
-  - start: 2019-10-01
-    end: 2020-10-12
+  - start: 2020-03-20
+    end: 2020-06-30
     status: independent
-    employer: UT7
+  - start: 2020-06-01
+    end: 2020-10-01
+    status: independent
+    employer: 'Octo '
     startups:
-      - eva
+      - place-de-marche-inclusion
   - start: 2020-10-13
     end: 2024-06-29
     status: independent
@@ -28,9 +31,6 @@ missions:
     employer: Malt
     startups:
       - annuaire-entreprises
-  - start: 2024-05-21
-    end: 2024-08-21
-    status: independent
 previously:
   - france-numerique-ensemble
   - maintenant

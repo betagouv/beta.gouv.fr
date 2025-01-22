@@ -11,12 +11,15 @@ missions:
     startups:
       - signaux-faibles
   - start: 2024-09-01
-    end: 2025-01-31
+    end: 2025-02-28
     status: independent
     employer: Malt
     startups:
       - carbure
 badges:
   - segur
-competences: []
+competences:
+  - Data Science
+  - Machine learning
+  - Python
 ---

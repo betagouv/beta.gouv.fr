@@ -15,8 +15,8 @@ missions:
     status: independent
     employer: UT7
     startups:
+      - cestquilepro
       - exposition-ij
-      - investigation-ij
 badges:
   - segur
 competences:

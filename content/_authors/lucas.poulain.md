@@ -2,7 +2,7 @@
 fullname: Lucas Poulain
 role: Designer développeur à aides-simplifiées
 domaine: Design
-github: https://github.com/ShallowRed
+github: ShallowRed
 link: https://www.linkedin.com/in/lucas-poulain-81a229171/
 competences:
   - UX
