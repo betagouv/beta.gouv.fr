@@ -1,6 +1,6 @@
 ---
 fullname: Guillaume CAMPONOVO
-role: Intrapreneur sur Profilence
+role: Intrapreneur
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/guillaume-camponovo-4aa17446/
 competences:
@@ -8,7 +8,6 @@ competences:
 missions:
   - start: 2025-01-21
     end: 2027-02-01
-    employer: France Travail
     status: admin
-    startups: []
+    employer: France Travail
 ---

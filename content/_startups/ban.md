@@ -22,6 +22,8 @@ events:
     date: 2022-02-23
   - name: committee
     date: 2022-11-21
+  - name: national_impact
+    date: 2023-01-22
   - name: committee
     date: 2023-09-21
   - name: committee

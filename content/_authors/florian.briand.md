@@ -15,9 +15,15 @@ missions:
       - romin
       - uvf-numerique
   - start: 2023-01-01
-    end: 2025-01-31
+    end: 2024-10-31
     status: independent
     employer: Liberté Living Lab
+    startups:
+      - romin
+  - start: 2024-11-01
+    end: 2025-04-22
+    status: independent
+    employer: Dynergie
     startups:
       - romin
 competences:
