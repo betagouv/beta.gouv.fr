@@ -12,8 +12,8 @@ competences:
 missions:
   - start: 2025-01-20
     end: 2026-01-19
-    employer: GIP La Plateforme de l'inclusion
     status: independent
+    employer: GIP La Plateforme de l'inclusion
     startups:
       - place-de-marche-inclusion
 ---
