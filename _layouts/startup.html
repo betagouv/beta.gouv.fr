@@ -116,8 +116,12 @@ layout: default
                 {%- assign transparence_warning = transparence_warning | append: stats -%}
               {% endif %}
               {% capture link_risques %}
-              <li aria-disabled="{% if page.analyse_risques %}false{% else %}true{% endif %}">
-                Analyse de risque
+              <li>
+                <a class="fr-link fr-icon-warning-line fr-link--icon-left" href="#" role="link" 
+                    aria-disabled="{% if page.analyse_risques %}false{% else %}true{% endif %}"
+                >
+                  Analyse de risque
+                </a>
                 {% unless page.analyse_risques %}(non disponible){% endunless %}
               </li>
               {% endcapture %}
