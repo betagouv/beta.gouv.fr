@@ -21,6 +21,9 @@ contact: france-transition@beta.gouv.fr
 usertypes:
   - entreprise
 accessibility_status: non conforme
+stats_url: https://mission-transition-ecologique.beta.gouv.fr/stats
+thematiques: []
+techno: []
 ---
 ## Le problème
 
