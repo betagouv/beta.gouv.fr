@@ -7,7 +7,6 @@ competences:
 missions:
   - start: 2025-01-21
     end: 2026-12-31
-    employer: France Travail
     status: admin
-    startups: []
+    employer: France Travail
 ---

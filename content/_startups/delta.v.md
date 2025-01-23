@@ -17,6 +17,8 @@ phases:
     start: 2021-12-20
   - name: acceleration
     start: 2024-01-01
+  - name: alumni
+    start: 2025-01-22
 thematiques:
   - Administratif
 dashlord_url: https://dashlord.incubateur.net/url/declare-douane-beta-gouv-fr/

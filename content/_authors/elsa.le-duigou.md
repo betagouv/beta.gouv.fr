@@ -1,6 +1,6 @@
 ---
 fullname: Elsa Le Duigou
-role: Reponsable portefeuille Santé, Solidarités, Cybersécurité et IA
+role: Responsable portefeuille Santé, Solidarités, Cybersécurité et IA
 domaine: Animation
 github: pouredfromamold
 missions:

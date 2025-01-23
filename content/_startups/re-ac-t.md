@@ -35,6 +35,6 @@ Il est difficile de retrouver un acte si l'on ne connait pas notamment sa date d
 ## Solution envisagée
 
 Proposer une interface de recherche des actes administratifs pour les usagers, les associations et les agents publics.
-En amont de cette interface de recherche, un outil permet de "scraper" les sites internet IDE-IRE des services de l'Etat, numériser les recueils qui contiennent des actes au format image pour pouvoir indexer les actes numérisés.
+En amont de cette interface de recherche, un outil permet de "scraper" les sites internet IDE-IRE des services de l'Etat, numériser les recueils qui contiennent des actes au format image pour pouvoir les indexer.
 
 Pour l'instant l'interface permet de rechercher les actes sur quatre départements pilotes (Aube, Oise, Sarthe et Seine-et-Marne) depuis le début de l'année 2023.

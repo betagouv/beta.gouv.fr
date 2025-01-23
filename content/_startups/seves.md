@@ -10,7 +10,7 @@ phases:
   - name: construction
     start: 2023-11-14
 stats: false
-contact: anne.devoret@beta.gouv.fr
+contact: thomas.glatt@beta.gouv.fr
 thematiques: []
 usertypes: []
 techno: []

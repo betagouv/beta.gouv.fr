@@ -36,6 +36,7 @@ thematiques:
   - Formation
 analyse_risques: true
 mon_service_securise: true
+budget_url: https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2025/projet-loi-finances-les/jaunes-budgetaires-2025-plf-2025
 ---
 ## Le contexte
 
