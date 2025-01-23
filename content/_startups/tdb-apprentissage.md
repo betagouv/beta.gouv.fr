@@ -6,7 +6,7 @@ sponsors:
   - /organisations/mesr
   - /organisations/mtei
   - /organisations/mtfp
-incubator: mission-apprentissage
+incubator: dinum
 link: https://cfas.apprentissage.beta.gouv.fr
 contact: tableau-de-bord@apprentissage.beta.gouv.fr
 stats_url: https://cfas.apprentissage.beta.gouv.fr/stats
@@ -37,6 +37,8 @@ thematiques:
   - Travail / Emploi
 techno: []
 ---
+**Le tableau de bord de l'apprentissage a été incubé au sein de la mission interministérielle pour l’apprentissage de 2020 à 2024.**
+
 ## Constat
 
 Au total, en 2020, environ 250 000 candidats ont souhaité une mise en relation avec un CFA par l’un des deux portails Affelnet ou Parcoursup. Or, une fois le vœu exprimé et transmis au centre de formation, aucun suivi global n'est assuré : aucun système ne permet de savoir combien de vœux se sont traduits en entrée en apprentissage, dans la spécialité et le centre visés ou dans une autre formation avec le même statut.

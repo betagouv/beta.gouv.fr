@@ -12,11 +12,15 @@ accessibility_status: non conforme
 phases:
   - name: construction
     start: 2023-05-01
+  - name: alumni
+    start: 2024-04-01
 thematiques:
   - Formation
 usertypes: []
 techno: []
 ---
+Le produit n'est plus piloté comme une startup d'Etat depuis mars 2024. Il intègre les activités des équipes de La bonne alternance et du Tableau de bord de l'apprentissage. 
+
 ## **Contexte**
 
 La mission Apprentissage contribue à faciliter l'écosystème de l'apprentissage. Elle a développé plusieurs produits destinés aux futurs apprentis, aux entreprises et aux organismes de formation. Actuellement, la mission propose deux principaux services :

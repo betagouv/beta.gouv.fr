@@ -11,11 +11,16 @@ phases:
     start: 2021-01-01
   - name: construction
     start: 2023-09-01
+  - name: alumni
+    start: 2024-04-01
 link: https://contrat.apprentissage.beta.gouv.fr/
 thematiques: []
 usertypes: []
 techno: []
+stats_url: https://contrat.apprentissage.beta.gouv.fr/stats
 ---
+**Le produit est toujours accessible mais n’est plus financé depuis mars 2024.**
+
 ## Le problème de politique publique
 
 **💡 Quel problème de politique publique cherchons-nous à adresser ? Pourquoi, c’est important de s’y intéresser ? Pourquoi maintenant ?**

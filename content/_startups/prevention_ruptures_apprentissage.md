@@ -11,6 +11,8 @@ contact: apprentissage@beta.gouv.fr
 phases:
   - name: investigation
     start: 2023-04-20
+  - name: alumni
+    start: 2024-01-01
 thematiques:
   - Jeunesse
   - Education
