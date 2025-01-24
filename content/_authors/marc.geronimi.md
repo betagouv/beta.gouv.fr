@@ -7,8 +7,8 @@ competences: []
 missions:
   - start: 2025-01-21
     end: 2025-07-31
-    employer: DGESCO
     status: admin
+    employer: DGESCO
     startups:
       - 1-eleve-1-stage
 ---

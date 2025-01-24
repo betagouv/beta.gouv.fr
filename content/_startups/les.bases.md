@@ -4,8 +4,8 @@ dashlord_url: https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/l
 mission: Faciliter le partage de ressources & de communs pour les acteurs de l'inclusion numérique
 repository: https://github.com/inclusion-numerique/la-base
 incubator: anct
-title: Les Bases
-contact: thibault.rouveyrol@beta.gouv.fr
+title: Les Bases du numérique d'intérêt général
+contact: lesbases@anct.gouv.fr
 accessibility_status: non conforme
 stats_url: https://lesbases.anct.gouv.fr/statistiques
 stats: true
