@@ -7,8 +7,6 @@ missions:
     end: 2027-04-01
     status: admin
     employer: DGITM
-    startups:
-      - le-taxi
-      - mesads
 memberType: autre
+competences: []
 ---
