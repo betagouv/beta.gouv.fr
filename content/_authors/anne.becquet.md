@@ -24,8 +24,6 @@ missions:
     employer: DINUM
     startups:
       - catalogue-apprentissage
-      - la-bonne-alternance
-      - tdb-apprentissage
       - uai_siret
       - voeux-apprentissage
   - start: 2025-01-01

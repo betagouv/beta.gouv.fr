@@ -7,8 +7,8 @@ competences: []
 missions:
   - start: 2025-02-03
     end: 2025-04-30
-    employer: Little Big Connexion
     status: independent
+    employer: Little Big Connexion
     startups:
       - les.bases
       - suite.d.outils.des.mediateurs.numeriques

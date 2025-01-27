@@ -7,7 +7,6 @@ competences: []
 missions:
   - start: 2025-01-24
     end: 2025-07-24
-    employer: Numa
     status: independent
-    startups: []
+    employer: Numa
 ---
