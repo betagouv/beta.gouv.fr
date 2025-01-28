@@ -10,5 +10,6 @@ missions:
       - envirogend
 competences:
   - Administration Publique
+  - Intrapreneur(se)
 memberType: beta
 ---

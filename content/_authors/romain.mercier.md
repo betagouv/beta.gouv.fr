@@ -1,6 +1,6 @@
 ---
 fullname: Romain Mercier
-role: Développeur Full-Stack à Data.Subvention
+role: Développeur Full-Stack
 domaine: Développement
 github: 461OceanBd
 link: https://www.linkedin.com/in/romain-mercier/

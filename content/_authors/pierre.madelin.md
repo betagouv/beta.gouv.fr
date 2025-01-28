@@ -6,8 +6,8 @@ competences: []
 missions:
   - start: 2024-10-14
     end: 2026-02-14
-    employer: DGCL
     status: admin
+    employer: DGCL
     startups:
       - gestion.subventions.locales
 ---

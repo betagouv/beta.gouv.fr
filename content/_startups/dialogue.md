@@ -19,45 +19,56 @@ thematiques:
   - Transports
   - Open-Data
 stats_url: https://dialog.beta.gouv.fr/stats
-usertypes: []
-techno: []
+usertypes:
+  - collectivite-territoriale
+  - gps
+techno:
+  - php
+  - symfony
+  - twig
+  - nunjuck
+  - python
+  - javascript
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 ---
-## Le problème
+# Le problème
 
-Aujourd’hui, les chauffeurs de poids lourds sont quotidiennement confrontés à des difficultés dans la planification de leurs trajets. **Pour les poids lourds, connaître leurs conditions de circulation ou de stationnement est difficile.**
+**La réglementation de circulation et de stationnement n'est pas suffisamment prise en compte dans les outils de navigation par GPS.**
+
+Ces informations sont portées dans des actes administratifs (des arrêtés) par les services qui gèrent la voirie au quotidien, mais ces documents restent peu accessibles.
+
+Cette situation engendre de nombreuses problématiques, car chaque jour ce sont **des milliers d'arrêtés** qui sont publiés par les polices de voirie pour informer de restrictions permanentes ou temporaires sur le réseau routier français, composé de **près d'un million de kilomètres de voiries**.
 
 Pourtant, ces réglementations de circulation sont primordiales pour :
 
-- **La bonne circulation des poids lourds** (véhicules de secours, approvisionnement de marchandises…).
+- **La bonne circulation des véhicules** (notamment les véhicules de secours, approvisionnement de marchandises…).
 - **La sécurité du public** et **la préservation des infrastructures routière.**
+- **La mise en œuvre de politiques de mobilité** visant, par exemple, à préserver la santé publique (ZFE), le gestion de crise ou à sécuriser les grands évènements.
 
 Pour tenter de résoudre ce problème, **Dialog permet aux administrations de numériser ces règles.** La réglementation peut ainsi être diffusée aux _services de calculs d’itinéraires_ (GPS).
 
-## La solution
+# La solution
 
-Dialog est une plateforme pour les administrations. Elles peuvent y **numériser la réglementation des poids lourds** (circulation, stationnement…).
+DiaLog est une plateforme pour les administrations gérant de la voirie. Elles y trouvent des outils pour **numériser et diffuser leur réglementation de circulation et de stationnement**.
 
-**Les données sont ensuite accessibles aux GPS**, sur le principe de l’Open Data. Les GPS sont en charge de les intégrer dans leurs calculateurs d’itinéraires.
+Les services qui utilisent DiaLog peuvent ainsi **saisir directement leurs arrêtés à l'aide de formulaires**, ou bien **faire intégrer des données depuis leurs outils métier si elles en ont**.
 
-Les données peuvent aussi être communiquées **directement aux acteurs de la logistique et des services d’urgence**, dans des formats adaptés à leurs besoins.
+**Les données sont ensuite accessibles aux GPS, ou à tout autre réutilisateur**, sur le principe de l’Open Data. DiaLog **géolocalise, homogénéise et standardise les données de réglementation** captées auprès des services utilisateurs de manière à en faciliter l'intégration dans divers outils tiers.
 
-Pour vous rendre sur le site beta, c'est ici : https://dialog.beta.gouv.fr/
+DiaLog est accessible à tous les services qui gèrent de la voirie, **aux niveaux communaux, départementaux ou nationaux.** 
 
-## Impact
+*Pour plus d'informations ou ouvrir un compte pour votre organisation, rendez vous sur [DiaLog.](https://dialog.beta.gouv.fr/)*
 
-DiaLog est en **phase de construction** et de test auprès de deux collectivités : Rennes et Savenay (9000 habitants).
+# Impact
 
-Une première version sera **mise en production pour mars 2023**. Cette version se concentrera sur les réglementations **travaux et poids lourds**.
+DiaLog est en **phase de déploiement** et d'amélioration continue, les inscriptions sont ouvertes à toutes les organisations souhaitant participer au projet, et l'équipe est à l'écoute de toutes suggestions ou demandes d'améliorations du produit.
 
-Courant 2023, nous visons le déploiement :
+Actuellement, DiaLog permet de recueillir des données sur tous les réseaux (communaux, départementaux et nationaux), concernant des fermetures de voirie ou des limitations de vitesse. Des fonctionnalités seront progressivement ajoutées pour permettre une prise en compte complète des cas d'usage de réglementation.
 
-- En Ile-de-France ainsi que dans au moins 5 territoires hors IDF.
-- Dans au moins un service de navigation par GPS.
+Vous pouvez retrouver toutes les données disponibles sur le déploiement de la solution sur notre [page statistique](https://dialog.beta.gouv.fr/stats).
 
-L’objectif à terme sera de prendre en charge l’ensemble des règles de circulation et de stationnement s’appliquant aux poids lourds.
+*Chaque contribution à DiaLog permettra :*
 
-L’impact sera double :
-
-- Pour les **chauffeurs poids lourds** : des meilleures conditions de travail grâce à une circulation fluidifiée et moins de situations bloquantes.
-- Pour les **collectivités** : une circulation plus fluide et plus sécurisée
+- D'améliorer les conditions d'usage du réseau routier, en limitant les situations bloquantes, avec à la clé une circulation plus fluide, moins de gaspillage énergétique, moins de stress pour les usagers & professionnels de la route.
+- Une circulation plus sécurisée et une meilleure préservation des infrastructures de transport.
+- Pour les agents qui utilisent DiaLog, moins de tâches répétitives et sources d'erreur et plus d'impact.

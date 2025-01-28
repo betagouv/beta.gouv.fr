@@ -5,7 +5,7 @@ role: Intrapreneur sur le domaine régalien
 github: axlpriv
 missions:
   - start: 2021-07-01
-    end: 2025-01-31
+    end: 2025-02-28
     status: admin
     employer: Agence Nationale des Données de Voyage
     startups:
