@@ -117,17 +117,15 @@ layout: default
               {% endif %}
               {% capture link_risques %}
               <li>
-                <a class="fr-link fr-icon-warning-line fr-link--icon-left"
-                  {% if page.analyse_risques_url %}href="{{page.analyse_risques_url }}"{% endif %}
-                  role="link" 
-                  aria-disabled="{% if page.analyse_risques_url %}false{% else %}true{% endif %}"
+                <a class="fr-link fr-icon-warning-line fr-link--icon-left" href="#" role="link" 
+                    aria-disabled="{% if page.analyse_risques %}false{% else %}true{% endif %}"
                 >
-                Analyse de risque
-                {% unless page.analyse_risques_url %}(non disponible){% endunless %}
+                  Analyse de risque
                 </a>
+                {% unless page.analyse_risques %}(non disponible){% endunless %}
               </li>
               {% endcapture %}
-              {% if page.analyse_risques_url %}
+              {% if page.analyse_risques %}
                 {%- assign transparence_success = transparence_success | append: link_risques  -%}
               {% else %}
                 {%- assign transparence_warning = transparence_warning | append: link_risques  -%}
