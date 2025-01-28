@@ -12,7 +12,7 @@ missions:
     startups:
       - trackdechets
   - start: 2024-05-13
-    end: 2025-01-19
+    end: 2025-04-27
     status: independent
     employer: Scopopop
     startups:
