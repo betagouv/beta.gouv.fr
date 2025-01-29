@@ -12,6 +12,12 @@ missions:
       - mes-aides-france-travail
       - travailler.en.france
       - zen
+  - start: 2025-01-29
+    end: 2025-12-31
+    status: independent
+    employer: UT7
+    startups:
+      - tdb-apprentissage
 incubator: francetravail
 previously:
   - zen
