@@ -19,10 +19,6 @@ missions:
     startups:
       - tdb-apprentissage
 incubator: francetravail
-previously:
-  - zen
-  - travailler.en.france
-  - mes-aides-france-travail
 competences:
   - Gestion de Produit
 ---
