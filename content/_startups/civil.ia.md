@@ -6,6 +6,8 @@ thematiques:
   - Administratif
 usertypes:
   - etat
+redirect_from:
+  - /startups/datasile.ou.ofpra.connect
 techno: []
 title: Civil.ia
 mission: Eviter les ruptures de droit des réfugiés en permettant aux agents de mieux travailler
