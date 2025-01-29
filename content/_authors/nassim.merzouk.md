@@ -23,8 +23,6 @@ missions:
     startups:
       - 1-eleve-1-stage
       - monstage
-previously:
-  - jeveuxaider
 link: https://www.linkedin.com/in/merzouknassim/
 competences:
   - Croissance
