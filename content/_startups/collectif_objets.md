@@ -22,7 +22,11 @@ phases:
 thematiques:
   - Patrimoine
 accessibility_status: non conforme
-techno: []
+techno:
+  - Rails
+  - Ruby
+analyse_risques: false
+dashlord_url: https://dashlord.incubateur.net/url/collectif-objets-beta-gouv-fr/
 ---
 ## Recenser les objets qui font notre patrimoine pour le protéger
 

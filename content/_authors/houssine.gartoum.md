@@ -9,7 +9,7 @@ competences:
   - Administration Publique
 missions:
   - start: 2024-09-12
-    end: 2024-12-12
+    end: 2025-12-31
     status: admin
     employer: DGEFP
     startups:

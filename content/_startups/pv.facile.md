@@ -1,7 +1,7 @@
 ---
-mission: Améliorer le processus de traitement et de suivi des projets photovoltaïques
+mission: Fluidifier le processus de traitement et de suivi des projets photovoltaïques
 incubator: mtes
-title: PV Facile
+title: BetaWatt
 contact: guillaume.mascarin@beta.gouv.fr
 accessibility_status: non conforme
 phases:
@@ -38,9 +38,16 @@ Les collectivités sont aussi impactées. Les enjeux étant forts autour du fonc
 
 ## Solution(s)
 
-2 pistes de solution sont explorées durant notre investigation. 
-1. Un simulateur à destination des maires pour leur fournir une première analyse macro des principaux enjeux d’un projet. Le Maire pourra se positionner en fonction s'il le souhaite et ainsi constituer un premier frein efficace aux projets peu qualitatifs.
-2. Un guichet unique (du pré-cadrage à l'octroi du PC) pour donner visibilité et transparence aux Développeurs et ainsi les inciter à jouer le jeu et se faire accompagner en amont de l'instruction.
+Notre proposition de valeur : proposer un guichet numérique pour simplifier et fluidifier les démarches administratives des dossiers de PV, de l’accompagnement en amont à l’octroi du PC.
+
+Les bénéfices utilisateurs : 
+- Pour les développeurs : visibilité, transparence et facilité d’échanges avec l'administration 
+- Pour l'administration : instruction des dossiers, coordination des services et reporting facilités
+- Pour les collectivités : visibilité des dossiers en cours sur le territoire
+
+2 pistes de solution (MVPs) ont été explorées durant notre investigation :
+1. Le guichet unique en tant que tel (du pré-cadrage à l'octroi du PC) 
+2. Un simulateur afin de capter les projets le plus amont possible, pour sensibiliser à temps les porteurs de projets aux principaux enjeux et éclairer la décision des communes avec des éléments techniques neutres 
 
 ## Stratégie (tbd)
 
