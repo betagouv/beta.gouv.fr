@@ -63,3 +63,35 @@ Data-État est la création par l'administration territoriale de l'Etat d'une no
 
 Déploiement en Bretagne (SGAR avec l'appui technique de la DREAL sur l'ATE + éducation nationale et Justice) puis déploiement aux opérateurs publics et autres SGARs de France pour nationalisation et pérennisation de la solution avec l'appui d'un financement national DINUM. 
 Le développement du projet et des solutions (dont DATA QPV) est assuré via le GIP SIB dont l’État est membre.
+
+## Mesure d’impact et autres indicateurs
+
+L'équipe souhaite obtenir dans les prochains mois un impact concret sur les mesures suivantes: 
+
+
+**Mesure d'impact:**
+
+ -% de CP par habitant/thème comparé aux années précédentes  (objectif : X dans les 6 prochains mois)
+
+-Nombre d'utilisateurs qui disent avoir mieux dépensé grâce à Data Etat (objectif : X dans les 6 prochains mois)
+
+-Nombre d'utilisateurs qui disent identifier un doublon de financement (objectif : X dans les 6 prochains mois)
+
+**Mesure d'usage:** 
+-Nombre de territoires sur lesquels il y a une requête (objectif : X dans les 6 prochains mois)
+
+-Nombre d’instructeurs qui ont un compte
+(par région, département, connexion par instructeur sur chaque) (objectif : X dans les 6 prochains mois)
+
+-Saisonnalité des requêtes (pour voir si pic au moment des instructions/programmation)  (objectif : X dans les 6 prochains mois)
+
+-Nombre de clic sur un EJ (objectif : X dans les 6 prochains mois)
+
+-Nombre de lignes de financement visualisées sur Data Etat (objectif : X dans les 6 prochains mois)
+
+-Nombre de recherches partagées/enregistrées (objectif : X dans les 6 prochains mois)
+
+-Nombre de requêtes multiprogrammes (objectif : X dans les 6 prochains mois)
+
+
+Les résultats concrets sur ces mesures seront publiés avant le XX/XX/2025 sur la page statistiques.

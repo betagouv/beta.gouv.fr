@@ -1,6 +1,6 @@
 ---
 fullname: Lauriane Fort
-role: Responsable produit
+role: Chargée de produit
 domaine: Produit
 github: lauriane-f
 missions:
@@ -11,7 +11,7 @@ missions:
     startups:
       - ellesfontlaculture
   - start: 2023-05-02
-    end: 2025-02-28
+    end: 2025-03-31
     status: independent
     employer: Fairness
     startups:

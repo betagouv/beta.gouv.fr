@@ -59,3 +59,8 @@ Selon quel protocole les mairies et préfectures valident-elles la conformité d
 
 Dans les exigences réglementaires, où sont les points d’attention les plus forts ? À l’inverse, certaines consignes sont-elles moins contraintes réglementairement ? Dans la conception d’une possible solution numérique, quels seraient les points de vigilance à intégrer ?
 
+  
+---
+**Expérimentation**
+
+La mise en place d'une solution dans [Grist](https://lasuite.numerique.gouv.fr/services/grist) est expérimentée au premier trimestre 2025.

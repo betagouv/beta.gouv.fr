@@ -12,6 +12,8 @@ phases:
     end: 2022-11-08
   - name: construction
     start: 2023-12-15
+  - name: alumni
+    start: 2024-12-13
 thematiques:
   - Jeunesse
   - Social
@@ -62,3 +64,8 @@ Une seule application permettra aux jeunes de retrouver l’ensemble des offres 
 
 **T4 2024**
 * Ouverture de l’application à tous les jeunes du CEJ, avec un catalogue enrichi proposant plus de 75 offres
+
+## Arrêt du produit
+A la fin 2024, la solution webapp Carte jeune engagée offrait un catalogue de 65 offres (partenariats avec des grandes marques comme Auchan, Carrefour, Fnac Darty, Nike, Deezer, La Poste mobile, Phénix, En voiture Simone, etc), proposant des réductions disponibles par bon d'achat remisé, code promo en ligne, lien de réduction, code barre ou carte virtuelle utilisable en magasin. La solution, expérimentée dans le Val d'Oise au deuxième trimestre 2024 puis étendue, est bien accueillie par 2200 premiers jeunes utilisateurs actifs qui ont salué l'initiative de s'adresser aux non étudiants.
+
+Les projections présentées par l'équipe au comité d'investissement de décembre de 2024 présentaient, dans le scénario de croissance le plus optimiste, une trajectoire d'économies en € pour les jeunes plus élevées que le coût du dispositif à partir de la fin 2025. Néanmoins, le service numérique a été interrompu en janvier 2025 avant le lancement de sa phase d'accélération sur décision du comité d'investissement, notamment en raison des contraintes budgétaires fortes pesant sur les budgets numériques des ministères.

@@ -1,7 +1,7 @@
 ---
 domaine: Intraprenariat
 fullname: Vincent COLOMB
-role: Intraprenariat
+role: 'Intrapreneur '
 missions:
   - start: 2024-06-07
     end: 2025-12-31
@@ -11,3 +11,4 @@ missions:
 memberType: beta
 competences: []
 ---
+Intrapreneur au sein de l'ADEME 
