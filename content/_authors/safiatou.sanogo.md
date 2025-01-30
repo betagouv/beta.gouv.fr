@@ -16,8 +16,9 @@ missions:
     startups:
       - encyclopedie-des-metiers
 startups:
-  - mobiville
   - encyclopedie-des-metiers
+previously:
+  - mobiville
 competences:
   - Coaching
 ---
