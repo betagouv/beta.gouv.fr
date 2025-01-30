@@ -17,6 +17,7 @@ usertypes:
   - entreprise
 thematiques: []
 techno: []
+link: ''
 ---
 Comment faire pour soutenir les acteurs de l’économie sociale et solidaire (ESS) dans un contexte de crise, en particulier les structures les plus fragiles ?
 Périmètre de l’investigation : Préfectures des Régions Hauts-de-France et Bretagne

@@ -11,6 +11,7 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+link: ''
 ---
 Adaptation du commerce local aux enjeux numériques pour participer à l'attractivité des communes de la CC
 Collectivité sponsor : Bapaume

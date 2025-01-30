@@ -22,6 +22,7 @@ contact: jean-michel.coste@developpement-durable.gouv.fr
 usertypes:
   - particulier
   - entreprise
+link: ''
 ---
 ## Problème
 

@@ -20,6 +20,7 @@ contact: contact@traitdunion.beta.gouv.fr
 usertypes:
   - particulier
   - entreprise
+link: ''
 ---
 ## Un constat, plusieurs problèmes
 

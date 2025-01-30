@@ -18,6 +18,7 @@ techno: []
 events:
   - name: product_launch
     date: 2024-07-21
+link: ''
 ---
 ## Contexte
 

@@ -14,6 +14,7 @@ usertypes:
   - etat
 stats: false
 contact: mathieu.mahr@beta.gouv.fr
+link: ''
 ---
 ## Contexte
 L’accès aux bases de défense du territoire national, que ce soit pour des militaires ou des civils, fait l’objet d’une attention particulière. En effet, pour des raisons de sécurité, leur accès est réglementé et les personnes souhaitant y entrer doivent fournir un certain nombre d’informations.  

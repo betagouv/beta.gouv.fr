@@ -11,6 +11,7 @@ phases:
     start: 2023-04-15
 contact: ateliernumerique.snum@culture.gouv.fr
 stats: true
+link: ''
 ---
 ## Problème de départ
 Les rapports de récolement reçus par la MSRDOA font état d'un nombre important de biens non localisés lors des opérations de récolement (45 % sur l'ensemble des rapports reçus en 2020). Ces biens sont rarement retrouvés et peu font l'objet de dépôts de plaintes. 

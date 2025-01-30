@@ -17,6 +17,7 @@ phases:
 events:
   - name: end
     date: 2024-09-05
+link: ''
 ---
 ## Contexte
 

@@ -23,6 +23,7 @@ phases:
 usertypes:
   - etat
   - etablissement-scolaire
+link: ''
 ---
 Ce produit a été transféré à l'ONISEP, qui se charge maintenant de sa maintenance et de son animation.
 

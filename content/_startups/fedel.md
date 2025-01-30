@@ -16,6 +16,7 @@ phases:
     start: 2020-01-01
   - name: alumni
     start: 2022-05-02
+link: ''
 ---
 ## La majorité des manifestations n'est pas déclarée
 

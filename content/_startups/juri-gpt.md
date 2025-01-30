@@ -34,6 +34,7 @@ events:
   - name: committee
     date: 2024-07-04
     comment: Comité final TechMIUp
+link: ''
 ---
 ## Contexte
 

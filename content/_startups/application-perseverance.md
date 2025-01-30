@@ -17,6 +17,7 @@ phases:
     start: 2024-04-01
   - name: alumni
     start: 2024-12-01
+link: ''
 ---
 ## Contexte
 

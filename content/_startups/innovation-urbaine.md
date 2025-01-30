@@ -14,6 +14,7 @@ events:
     date: 2021-12-31
 stats: false
 contact: contact@beta.gouv.fr
+link: ''
 ---
 ## L'impact recherché
 

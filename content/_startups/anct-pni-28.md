@@ -11,6 +11,7 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+link: ''
 ---
 Amélioration des échanges entre administrés et collectivité
 Collectivité sponsor : Is-sur-Tille

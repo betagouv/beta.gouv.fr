@@ -14,6 +14,7 @@ phases:
 thematiques: []
 usertypes: []
 techno: []
+link: ''
 ---
 > OTELO est une solution collaborative pour optimiser les politiques locales en logement
 

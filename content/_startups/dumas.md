@@ -18,6 +18,7 @@ usertypes:
   - etat
 thematiques: []
 techno: []
+link: ''
 ---
 ## Pourquoi cette investigation n'a pas abouti à une Startup d'Etat
 

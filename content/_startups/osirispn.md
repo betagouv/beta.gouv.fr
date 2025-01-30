@@ -15,6 +15,7 @@ usertypes:
   - etat
 thematiques:
   - Formation
+link: ''
 ---
 ## Contexte
 

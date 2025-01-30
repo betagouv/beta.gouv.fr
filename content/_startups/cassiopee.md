@@ -22,6 +22,7 @@ usertypes:
 thematiques:
   - Formation
 techno: []
+link: ''
 ---
 ## Contexte
 

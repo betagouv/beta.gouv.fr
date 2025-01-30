@@ -19,6 +19,7 @@ phases:
 events:
   - name: product_launch
     date: 2025-01-08
+link: ''
 ---
 ## Contexte
 

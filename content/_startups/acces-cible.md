@@ -19,6 +19,7 @@ phases:
   - name: construction
     start: 2024-10-07
 techno: []
+link: ''
 ---
 ## Contexte
 

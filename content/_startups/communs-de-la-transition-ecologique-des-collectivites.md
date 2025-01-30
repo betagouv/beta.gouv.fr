@@ -25,6 +25,7 @@ events:
 techno:
   - typescript
 repository: https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites
+link: ''
 ---
 ## Problème
 

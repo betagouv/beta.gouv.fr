@@ -13,6 +13,7 @@ phases:
     start: 2020-02-01
 usertypes:
   - particulier
+link: ''
 ---
 **Contexte**
 

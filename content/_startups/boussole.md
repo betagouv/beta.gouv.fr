@@ -17,6 +17,7 @@ stats: false
 contact: contact@boussole.beta.gouv.fr
 usertypes:
   - particulier
+link: ''
 ---
 ## Abandon
 

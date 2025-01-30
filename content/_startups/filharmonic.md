@@ -27,6 +27,7 @@ techno:
 usertypes:
   - entreprise
   - etat
+link: ''
 ---
 ## La protection des personnes et de l’environnement, un enjeu collectif
 Les installations industrielles sont un maillon indispensable de notre économie : elles permettent de produire des biens et des services dont nous jouissons tous les jours. Toutefois, elles comportent des risques et peuvent engendrer des pollutions et des accidents.

@@ -14,6 +14,7 @@ contact: contactincubateur@anct.gouv.fr
 thematiques: []
 usertypes: []
 techno: []
+link: ''
 ---
 Un outil de démocratie implicative avec une mesure d’indice du bonheur des muriautins.
 

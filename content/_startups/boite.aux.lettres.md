@@ -18,6 +18,7 @@ thematiques:
   - Formation
 usertypes: []
 techno: []
+link: ''
 ---
 Le produit n'est plus piloté comme une startup d'Etat depuis mars 2024. Il intègre les activités des équipes de La bonne alternance et du Tableau de bord de l'apprentissage. 
 

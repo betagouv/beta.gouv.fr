@@ -19,6 +19,7 @@ events:
     comment: Comité de restitution de l'investigation
 stats: false
 contact: contact@gap.beta.gouv.fr
+link: ''
 ---
 ## Fiche produit
 

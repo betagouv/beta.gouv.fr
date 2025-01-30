@@ -4,7 +4,7 @@ mission: Obtenir un diplôme par la VAE grâce à ses compétences
 sponsors:
   - /organisations/francetravail
 incubator: francetravail
-link: https://avril.pole-emploi.fr
+link: ''
 repository: https://github.com/StartupsPoleEmploi/avril
 contact: avril@fabrique.social.gouv.fr
 usertypes:

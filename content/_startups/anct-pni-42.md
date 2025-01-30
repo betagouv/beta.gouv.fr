@@ -14,6 +14,7 @@ contact: contactincubateur@anct.gouv.fr
 thematiques: []
 usertypes: []
 techno: []
+link: ''
 ---
 Améliorer la collaboration numérique entre agents et élus notamment pour la préparation et la tenue des Conseils municipaux (qui nécessite souvent de nombreux envois email – avec pièces jointes, aller-retour et échanges sur différentes versions d’un même document…).
 

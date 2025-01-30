@@ -11,6 +11,7 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+link: ''
 ---
 Faciliter les échanges entre associations locales
 Collectivité sponsor : Sainte-Rose

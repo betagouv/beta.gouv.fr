@@ -18,6 +18,7 @@ techno:
   - typescript
   - ia
 repository: https://github.com/betagouv/VApp
+link: ''
 ---
 # Contexte
 

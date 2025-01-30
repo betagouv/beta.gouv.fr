@@ -12,6 +12,7 @@ phases:
 thematiques: []
 usertypes: []
 techno: []
+link: ''
 ---
 Simplifier les remontées "à la volée" de données opérationnelles, 
 en dotant les états major, à tous les échelons de la DGPN, d'un outil de création de formulaire et de data visualisation de portefeuilles de commandes (pour la gestion du pilotage et du suivi du traitement des commandes).

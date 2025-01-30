@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2025-01-24
     end: 2026-04-24
-    employer: Ministère de l'Education nationale et de la Jeunesse
     status: admin
+    employer: Ministère de l'Education nationale et de la Jeunesse
     startups:
       - cyber-en-jeux
       - demain-specialiste-cyber

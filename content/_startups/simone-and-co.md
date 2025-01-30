@@ -14,6 +14,7 @@ stats: false
 contact: vikieache@gmail.com
 usertypes:
   - particulier
+link: ''
 ---
 ## Problème visé :
 Aujourd’hui en France 9 millions de personnes se privent de produits d’hygiène de base, et 1,7 millions de femmes manquent de protections hygiéniques.

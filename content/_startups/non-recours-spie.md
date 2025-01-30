@@ -17,6 +17,7 @@ stats: false
 contact: stephane.coillard@beta.gouv.fr
 usertypes:
   - particulier
+link: ''
 ---
 ## Problème investigué :
 

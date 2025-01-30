@@ -20,6 +20,7 @@ usertypes:
   - etat
 stats: false
 contact: laurence.matringe@developpement-durable.gouv.fr
+link: ''
 ---
 Calculer un potentiel solaire grâce à la [qualification automatique de l’orientation des toits des bâtiments](http://opensolarmap.org), faire du contrôle des pêches dans les outre mer grâce à des données satellitaires européennes disponibles en opendata, [identifier rapidement des espèces de plantes](https://identify.plantnet-project.org/)….
 

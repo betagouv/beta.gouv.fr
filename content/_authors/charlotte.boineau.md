@@ -6,7 +6,6 @@ competences: []
 missions:
   - start: 2025-01-22
     end: 2025-12-22
-    employer: ''
     status: admin
     startups:
       - sante-psy-etudiant

@@ -13,6 +13,7 @@ stats: false
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
+link: ''
 ---
 ## Problème visé :
 Chaque année, en moyenne, 700 enfants sont accueillis au Centre Départemental de l’Enfance du Var.

@@ -17,6 +17,7 @@ usertypes:
   - etat
 stats: false
 contact: gaelle.rousseau@finances.gouv.fr
+link: ''
 ---
 ## Le problème
 

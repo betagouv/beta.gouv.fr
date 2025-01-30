@@ -22,6 +22,7 @@ events:
   - name: other
     date: 2024-08-23
     comment: en pause
+link: ''
 ---
 
 ## Contexte

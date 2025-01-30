@@ -22,6 +22,7 @@ techno:
 usertypes:
   - parlement
   - etat
+link: ''
 ---
 ## Le contexte
 

@@ -15,6 +15,7 @@ contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
   - collectivite-territoriale
+link: ''
 ---
 ## Problème: 1500 enfants placés sans souvenirs
 Aujourd’hui, dans le département de la Somme, il y a plus de 1500 enfants placés au service l’Aide Sociale à l’Enfance.

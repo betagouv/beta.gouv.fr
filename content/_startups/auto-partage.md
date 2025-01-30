@@ -14,6 +14,7 @@ stats: false
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
+link: ''
 ---
 ## Le contexte
 

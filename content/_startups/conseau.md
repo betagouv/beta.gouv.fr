@@ -15,6 +15,7 @@ contact: elise.jacob@developpement-durable.gouv.fr
 usertypes:
   - entreprise
   - etat
+link: ''
 ---
 ## Le problème
 

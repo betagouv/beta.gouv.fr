@@ -19,6 +19,7 @@ stats: false
 contact: mathieu.mahr@beta.gouv.fr
 thematiques: []
 techno: []
+link: ''
 ---
 ## Contexte
 L’EMHM (École Militaire de Haute Montagne), de la 27ème Brigade d'Infanterie Montagne emploie des instructeurs de montagne militaires et civils, tous experts dans ce domaine.
