@@ -549,7 +549,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
 </table>
 </div>
 
-<h3 id="plan-2025">Plan d'action 2024</h3>
+<h3 id="plan-2025">Plan d'action 2025</h3>
 
 <p>En cours de rédaction</p>
 </table>
