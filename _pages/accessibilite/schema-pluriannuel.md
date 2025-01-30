@@ -354,9 +354,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             <th>
                 <p><strong>Thématique</strong></p>
             </th>
-            <td>
+            <th>
                 <p><strong>Statut</strong></p>
-            </td>
+            </th>
         </tr>
     </thead>
     <tbody>
