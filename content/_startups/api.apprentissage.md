@@ -6,6 +6,8 @@ title: API Apprentissage
 phases:
   - name: construction
     start: 2023-09-01
+  - name: alumni
+    start: 2024-04-01
 thematiques:
   - Open-Data
   - Formation
@@ -23,6 +25,9 @@ techno: []
 sponsors:
   - /organisations/dgefp
 ---
+**Le produit reste accessible mais n'est plus piloté comme une startup d'Etat depuis mars 2024. Il intègre les activités des équipes de La bonne alternance et du Tableau de bord de l'apprentissage.**
+
+
 ## Le problème de politique publique
 
 L’écosystème de l’apprentissage est composé de différents acteurs, lesquels ont chacun leur propre système de collecte de données, et donc leurs propres bases de données, avec, pour chacune, une sémantique, une taxonomie et une qualité différentes.

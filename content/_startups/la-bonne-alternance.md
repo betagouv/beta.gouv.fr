@@ -6,7 +6,7 @@ sponsors:
   - /organisations/mesr
   - /organisations/mtei
   - /organisations/mtfp
-incubator: mission-apprentissage
+incubator: dinum
 phases:
   - name: investigation
     start: 2018-03-19
@@ -35,7 +35,11 @@ thematiques:
   - Jeunesse
   - Education
   - Formation
+techno: []
 ---
+**La bonne alternance a été initiée au sein de l'incubateur de Pôle Emploi et incubée au sein de la mission interministérielle pour l’apprentissage de 2020 à 2024.**
+
+
 [La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) est un service destiné à faciliter la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises. D’abord développé par Pôle emploi, le service La bonne alternance a été repris en 2020 par la Mission interministérielle pour l’apprentissage dans l’objectif de renforcer l'accompagnement des jeunes intéressés par l'apprentissage, ainsi que des CFA et recruteurs accueillant des apprentis.
 
 ## Le constat

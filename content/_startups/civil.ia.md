@@ -1,23 +1,31 @@
 ---
-mission: Eviter les ruptures de droit des réfugiés en permettant aux agents de mieux travailler
-incubator: dinum
-title: Civil.ia
-contact: charlotte.lemahieu@ofpra.gouv.fr
 accessibility_status: non conforme
-sponsors:
-  - /organisations/interieur
-  - /organisations/ofpra
-phases:
-  - name: investigation
-    start: 2024-04-01
-  - name: alumni
-    start: 2024-09-01
+contact: charlotte.lemahieu@ofpra.gouv.fr
 thematiques:
   - Social
   - Administratif
 usertypes:
   - etat
+redirect_from:
+  - /startups/datasile.ou.ofpra.connect
+  - /startups/datasile.ou.ofpra.connect.html
 techno: []
+title: Civil.ia
+mission: Eviter les ruptures de droit des réfugiés en permettant aux agents de mieux travailler
+incubator: dinum
+sponsors:
+  - /organisations/interieur
+  - /organisations/ofpra
+phases:
+  - name: investigation
+    comment: null
+    start: 2024-04-01
+    end: null
+  - name: alumni
+    comment: null
+    start: 2024-09-01
+    end: null
+events: []
 ---
 ## Contexte 
 L’OFPRA a 2 principales missions :

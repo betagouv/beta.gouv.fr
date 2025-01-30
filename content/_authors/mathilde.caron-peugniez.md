@@ -22,4 +22,5 @@ competences:
   - Intrapreneur(se)
   - Droit / Affaires juridiques
   - Communication
+link: https://www.linkedin.com/in/mathildecaronpeugniez/
 ---

@@ -2,7 +2,7 @@
 title: Potentiel
 mission: Faciliter le parcours des producteurs d'énergies renouvelables électriques
 sponsors:
-  - /organisations/mtes
+  - /organisations/ministere-charge-de-l-energie
 incubator: mtes
 link: https://potentiel.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/potentiel

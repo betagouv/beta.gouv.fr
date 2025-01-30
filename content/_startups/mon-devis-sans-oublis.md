@@ -15,7 +15,7 @@ usertypes:
 techno:
   - rails
   - publi.codes
-title: 'Mon Devis Sans Oublis '
+title: Mon Devis Sans Oublis
 mission: Fluidifier l'instruction des aides en limitant les allers-retours sur les devis lors de l'instruction des dossiers de demandes d'aides à la rénovation énergétique pour les logements des particuliers
 incubator: mtes
 sponsors:
@@ -25,6 +25,14 @@ phases:
     start: 2023-11-27
   - name: construction
     start: 2024-10-01
+stats_url: https://mon-devis-sans-oublis.beta.gouv.fr/statistiques
+dashlord_url: https://dashlord.mte.incubateur.net/url/mon-devis-sans-oublis-beta-gouv-fr/
+events:
+  - name: product_launch
+    date: 2025-01-13
+    comment: Lancement de la 1ere version en Beta restreinte
+  - name: committee
+    date: 2025-01-28
 ---
 ## Contexte
 

@@ -1,7 +1,7 @@
 ---
 mission: Répondre aux besoins en fonds de plans des acteurs publics et des collectivités
 incubator: fab-geocommuns
-title: Fonds de plans
+title: Carte Facile
 contact: sofiane.kriat@ign.fr
 accessibility_status: non conforme
 sponsors:
@@ -9,6 +9,19 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-02-21
+  - name: construction
+    start: 2025-01-17
+thematiques:
+  - Open-Data
+  - Outil technique
+usertypes:
+  - etat
+techno:
+  - nunjucks
+  - javascript
+events:
+  - name: committee
+    date: 2025-01-17
 ---
 ## Contexte
 

@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Dinum
     startups:
-      - datasile.ou.ofpra.connect
+      - civil.ia
 link: https://www.linkedin.com/in/mathilde-rouve/
 competences:
   - UX

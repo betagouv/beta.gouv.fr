@@ -19,6 +19,8 @@ phases:
     end: 2021-06-01
   - name: acceleration
     start: 2021-06-01
+  - name: transfer
+    start: 2023-06-22
 redirect_from:
   - /startups/ecosante
 usertypes:
@@ -28,6 +30,7 @@ accessibility_status: partiellement conforme
 thematiques:
   - Santé
   - Écologie
+techno: []
 ---
 ## Le contexte
 

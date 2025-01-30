@@ -10,7 +10,7 @@ missions:
     startups:
       - resorption-bidonvilles
   - start: 2022-10-02
-    end: 2025-01-30
+    end: 2025-06-28
     status: independent
     employer: DDTM 62
     startups:

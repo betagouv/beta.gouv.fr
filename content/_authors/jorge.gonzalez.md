@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: gonzalezsuitt
 missions:
   - start: 2023-12-18
-    end: 2025-07-31
+    end: 2024-09-02
     status: admin
     employer: DGITM
     startups:

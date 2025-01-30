@@ -4,11 +4,8 @@ domaine: Design
 role: Product Designer
 missions:
   - start: 2022-01-13
-    end: 2025-01-31
+    end: 2025-03-28
     status: independent
-    startups:
-      - api.apprentissage
-      - tdb-apprentissage
 incubator: dinum
 previously:
   - dematapprentissage

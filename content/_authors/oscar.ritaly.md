@@ -1,14 +1,18 @@
 ---
 fullname: Oscar Ritaly
-role: Intra et Biz dev senior
+role: Lead biz dev et partenariats
 domaine: Déploiement
 missions:
   - start: 2023-06-19
-    end: 2025-02-28
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:
       - dossierfacile
 memberType: beta
-competences: []
+competences:
+  - Croissance
+  - Communication
+  - Intrapreneur(se)
+link: https://www.linkedin.com/in/oritaly/
 ---
