@@ -14,6 +14,7 @@ stats: false
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - entreprise
+link: ''
 ---
 ## Problème visé :
 

@@ -18,14 +18,10 @@ sponsors:
   - /organisations/ofpra
 phases:
   - name: investigation
-    comment: null
     start: 2024-04-01
-    end: null
   - name: alumni
-    comment: null
     start: 2024-09-01
-    end: null
-events: []
+link: ''
 ---
 ## Contexte 
 L’OFPRA a 2 principales missions :

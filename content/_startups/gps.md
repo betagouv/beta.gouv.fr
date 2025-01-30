@@ -16,6 +16,7 @@ stats_url: http://stats.inclusion.beta.gouv.fr/public/dashboard/477427ca-dd6c-49
 usertypes: []
 techno:
   - django
+link: ''
 ---
 ## Le problème
 

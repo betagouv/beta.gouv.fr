@@ -16,6 +16,7 @@ phases:
   - name: construction
     start: 2025-01-01
 techno: []
+link: ''
 ---
 ## Contexte
 

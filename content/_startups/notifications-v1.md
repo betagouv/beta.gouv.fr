@@ -20,6 +20,7 @@ phases:
 events:
   - name: product_launch
     date: 2022-04-04
+link: ''
 ---
 ## Contexte
 

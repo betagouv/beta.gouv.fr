@@ -23,6 +23,7 @@ usertypes:
   - etat
 thematiques: []
 techno: []
+link: ''
 ---
 > Après 6 mois d'expérimentation et un budget de 60k€ la réutilisation de la solution développée pour le ST(SI)² s'est avérée plus compliquée que prévu.
 >

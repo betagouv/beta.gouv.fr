@@ -13,6 +13,7 @@ phases:
     start: 2024-06-30
 thematiques:
   - Justice
+link: ''
 ---
 ## Constat
 Nous constatons qu'un certain nombre de tribunaux ont un délai de plus de 6 mois pour instruire une demande d'aide juridictionnelle.

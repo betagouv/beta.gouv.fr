@@ -19,6 +19,7 @@ usertypes:
   - entreprise
 thematiques: []
 techno: []
+link: ''
 ---
 ## Phase d'investigation
 

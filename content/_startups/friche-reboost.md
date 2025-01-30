@@ -19,6 +19,7 @@ phases:
 events:
   - name: product_launch
     date: 2025-01-13
+link: ''
 ---
 ## Constats
 En France, ce sont en moyenne **23 000 hectares** de terres agricoles ou naturelles qui sont urbanisés annuellement, l’équivalent de **15 000 stades de France**. Et c’est encore plus important si on considère le phénomène dans le temps, en **10 ans,** c'est l’équivalent de la superficie de **l’ile de la Réunion** qui a été urbanisée.

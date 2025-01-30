@@ -24,6 +24,7 @@ events:
     date: 2024-09-13
   - name: committee
     date: 2024-11-18
+link: ''
 ---
 ## Contexte
 

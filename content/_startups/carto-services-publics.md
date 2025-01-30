@@ -22,6 +22,7 @@ events:
   - name: product_launch
     date: 2024-10-01
 techno: []
+link: ''
 ---
 ## Contexte
 La Direction interministérielle de la Transformation Publique (DITP) mène un travail exploratoire depuis juin 2024 afin de réfléchir à un outil cartographique permettant aux pilotes territoriaux de mieux connaître l’accessibilité des services publics dans leur territoire et mener des actions concrètes de mise en place de nouvelles offres (ouverture de sites, mise en place de permanences ou de services itinérants…). L’Institut national de l'information géographique et forestière (IGN) a constitué une équipe pour renforcer cette investigation autant pour travailler à la mise en place d’un référentiel pérenne de services publics et d’un outil cartographique adapté aux besoins des utilisateurs. Cette investigation doit rendre différentes conclusions en février 2025 pour décider du lancement d’un ou plusieurs produits à partir de 2025. 

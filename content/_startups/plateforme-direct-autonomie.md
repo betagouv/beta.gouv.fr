@@ -13,6 +13,7 @@ stats: false
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
+link: ''
 ---
 ## Problème visé :
 Environ 10 000 personnes en perte d’autonomie effectuent chaque année une première demande d’alocation personnalisée d'autonomie auprès du Département.

@@ -21,6 +21,7 @@ phases:
 events:
   - name: committee
     date: 2024-07-03
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

@@ -4,7 +4,7 @@ fullname: Lucas Saudon
 role: Développeur Mobile
 missions:
   - start: 2024-05-13
-    end: 2025-03-01
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:

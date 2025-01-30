@@ -16,6 +16,7 @@ thematiques:
 usertypes: []
 techno: []
 repository: https://forge.apps.education.fr/incubateur/projet/startup-d-etat/compte-ressources
+link: ''
 ---
 ## Contexte
 Pendant les États généraux du numérique pour l’éducation (2021) et lors travaux de concertation sur la stratégie du numérique pour l’éducation (2022), les enseignants et les chefs d’établissement ont signalé des difficultés pour acquérir des ressources pédagogiques numériques. 

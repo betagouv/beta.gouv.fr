@@ -15,6 +15,7 @@ thematiques:
   - Santé
 usertypes: []
 techno: []
+link: ''
 ---
 # Les 10 minutes vitales perdues par les secours.
 

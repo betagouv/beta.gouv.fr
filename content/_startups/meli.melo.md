@@ -13,6 +13,7 @@ phases:
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
+link: ''
 ---
 **Contexte**
 A Pau, les 18-25 ans représentent plus de 24% de la population, soit 18 720 jeunes.

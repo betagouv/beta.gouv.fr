@@ -10,6 +10,7 @@ phases:
     end: 2019-06-30
 stats: false
 contact: mathieu.mahr@beta.gouv.fr
+link: ''
 ---
 ## Contexte
 Les personnels soignants du service de santé des armées (SSA) doivent avoir accès à des sources d’information fiables et actualisées, tant pour entretenir leurs compétences dans de nombreux domaines que pour disposer si besoin d’outils d’aide à la décision sur le terrain.

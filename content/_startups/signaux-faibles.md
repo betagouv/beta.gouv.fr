@@ -27,6 +27,7 @@ contact: contact@signaux-faibles.beta.gouv.fr
 thematiques:
   - Entreprises
 techno: []
+link: ''
 ---
 > Être proactif dans la prévention et l'accompagnement des entreprises en difficulté. 
 

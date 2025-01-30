@@ -19,6 +19,7 @@ mon_service_securise: true
 repository: https://github.com/betagouv/mon-aide-cyber
 usertypes: []
 techno: []
+link: ''
 ---
 ## En cours de construction
 

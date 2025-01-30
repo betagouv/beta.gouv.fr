@@ -14,6 +14,7 @@ contact: contactincubateur@anct.gouv.fr
 thematiques: []
 usertypes: []
 techno: []
+link: ''
 ---
 Redynamiser les commerces locaux par la "carte de fidélité stationnement"
 

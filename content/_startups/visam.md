@@ -23,6 +23,7 @@ contact: contact@visam.beta.gouv.fr
 techno:
   - Python
   - PostgreSQL
+link: ''
 ---
 ## Le contexte
 

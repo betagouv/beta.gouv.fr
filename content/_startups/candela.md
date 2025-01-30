@@ -13,6 +13,7 @@ phases:
 usertypes:
   - etat
   - collectivite-territoriale
+link: ''
 ---
 ## Contexte
 

@@ -23,6 +23,7 @@ events:
   - name: committee
     date: 2024-07-03
     comment: Comité de fin d'investigation. Validé pour poursuite / construction MVP
+link: ''
 ---
 ## Contexte
 

@@ -14,9 +14,13 @@ phases:
   - name: acceleration
     start: 2024-10-21
 repository: https://github.com/betagouv/maestro
-thematiques: []
-usertypes: []
+thematiques:
+  - Agriculture
+  - Outil technique
+usertypes:
+  - etat
 techno: []
+link: https://maestro.beta.gouv.fr/
 ---
 ## Contexte
 
@@ -56,4 +60,4 @@ Fin septembre 2024, nous aurons réussi si :
 - nous obtenons une donnée de qualité en sortie.
 
 
-Nous contacter : diane.cuzzucoli@agriculture.gouv.fr ; jerome.rivals@beta.gouv.fr; laure.de-valon@beta.gouv.fr 
+Nous contacter : diane.cuzzucoli@agriculture.gouv.fr ; jerome.rivals@beta.gouv.fr; laure.de-valon@beta.gouv.fr ; manon@maestro.beta.gouv.fr

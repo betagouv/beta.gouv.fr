@@ -26,6 +26,7 @@ thematiques:
   - Travail / Emploi
   - Jeunesse
 techno: []
+link: ''
 ---
 ## Le contexte
 L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l’accompagnement des jeunes étant accompagnés en CEJ par leurs conseillers (France Travail ou Mission Locale) afin de limiter leur décrochage en cours d’accompagnement.

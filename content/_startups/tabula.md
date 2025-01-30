@@ -22,6 +22,7 @@ events:
   - name: other
     date: 2025-12-26
     comment: Expérimentation de la solution Grist
+link: ''
 ---
 **Contexte**
 

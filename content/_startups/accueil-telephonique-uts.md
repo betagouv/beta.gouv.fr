@@ -14,6 +14,7 @@ contact: contactincubateur@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
   - particulier
+link: ''
 ---
 ## Problème visé :
 En moyenne, 70% des appels entrants sur l’Unité Territoriale de Solidarité de La Seyne sont perdus !

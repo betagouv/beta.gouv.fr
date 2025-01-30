@@ -16,6 +16,7 @@ usertypes:
   - collectivite-territoriale
   - entreprise
   - etat
+link: ''
 ---
 ## Trop d’achats publics sans publicité 
 

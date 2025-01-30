@@ -11,6 +11,7 @@ stats: false
 contact: mathieu.mahr@beta.gouv.fr
 thematiques:
   - Administratif
+link: ''
 ---
 ## Contexte
 Le sujet des éoliennes pour l’armée de l’air concerne l’instruction des dossiers « obstacles » sollicités par les porteurs de projet éolien. La DIRCAM/SDRCAM est consultée en amont de la validation d’un projet éolien car cela peut nuire à ses activités d'entraînement aérien. Les décisions rendues par la DIRCAM/SDRCAM doivent contenir des arguments étayés, que la décision soit négative ou positive, et doivent être cohérentes rétrospectivement.

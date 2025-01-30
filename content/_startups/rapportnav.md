@@ -13,6 +13,7 @@ phases:
     end: 2022-08-16
   - name: construction
     start: 2022-08-16
+link: ''
 ---
 ## Contexte
 Le Dispositif de Contrôle et de Surveillance (DCS) des Affaires Maritimes englobe l’ensemble des moyens des Affaires Maritimes dédiés aux contrôles des pêches, de l’environnement marin, du travail et de la navigation maritime.

@@ -12,6 +12,7 @@ phases:
     start: 2024-07-01
 thematiques:
   - Santé
+link: ''
 ---
 ## Contexte
 

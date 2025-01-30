@@ -19,6 +19,7 @@ techno:
 usertypes:
   - entreprise
   - etat
+link: ''
 ---
 ## Le problème 
 

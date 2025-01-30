@@ -8,6 +8,7 @@ contact: guillaume.coppe@beta.gouv.fr
 phases:
   - name: alumni
     start: 2021-09-10
+link: ''
 ---
 ## Le problème
 

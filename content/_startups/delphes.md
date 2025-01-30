@@ -17,6 +17,7 @@ techno:
   - en cours
 usertypes:
   - entreprise
+link: ''
 ---
 ## Le problème 
 

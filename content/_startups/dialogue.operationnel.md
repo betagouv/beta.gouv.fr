@@ -13,6 +13,7 @@ phases:
 thematiques: []
 usertypes: []
 techno: []
+link: ''
 ---
 ## 2016 : le mouvement des policiers en colère
 

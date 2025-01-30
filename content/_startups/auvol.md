@@ -17,6 +17,7 @@ stats: false
 contact: didier.yvetot@beta.gouv.fr
 usertypes:
   - entreprise
+link: ''
 ---
 ## Contexte
 

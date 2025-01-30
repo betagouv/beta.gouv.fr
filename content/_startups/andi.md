@@ -20,6 +20,7 @@ stats_url: https://andi.beta.gouv.fr/stats
 contact: karel.cloarec@beta.gouv.fr
 usertypes:
   - particulier
+link: ''
 ---
 ## Fiche produit
 

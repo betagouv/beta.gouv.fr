@@ -9,6 +9,7 @@ phases:
     start: 2020-11-01
 stats: false
 contact: mathieu.mahr@beta.gouv.fr
+link: ''
 ---
 ## Contexte
 Megalodon a été initié suite à la difficulté rencontrée par une entité dans la rédaction d’un CCTP (Cahier des clauses techniques particulières).

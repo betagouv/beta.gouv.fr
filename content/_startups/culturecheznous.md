@@ -18,6 +18,7 @@ contact: ateliernumerique.snum@culture.gouv.fr
 usertypes:
   - association
   - entreprise
+link: ''
 ---
 ## Le contexte
 

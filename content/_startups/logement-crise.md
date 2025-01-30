@@ -9,6 +9,7 @@ phases:
     start: 2022-06-09
 stats: false
 contact: brigade@beta.gouv.fr
+link: ''
 ---
 ## Le contexte
 

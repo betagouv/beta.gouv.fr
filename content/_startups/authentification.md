@@ -5,7 +5,7 @@ sponsors:
   - /organisations/dinum
 incubator: dinum_produits_interministeriels
 contact: contact@agentconnect.gouv.fr
-link: https://authentification.beta.gouv.fr
+link: ''
 repository: https://github.com/tchapgouv/tchap-identite
 phases:
   - name: construction

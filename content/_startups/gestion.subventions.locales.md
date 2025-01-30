@@ -22,6 +22,7 @@ techno:
   - python
   - graphql
 repository: https://github.com/betagouv/gestion-des-subventions-locales
+link: ''
 ---
 ## La start-up
 

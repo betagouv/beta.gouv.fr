@@ -17,6 +17,7 @@ techno:
   - en cours
 usertypes:
   - etablissement-scolaire
+link: ''
 ---
 ## Le problème : le bugdet de l'Etat, une matière de spécialistes... et donc inaccessible
 

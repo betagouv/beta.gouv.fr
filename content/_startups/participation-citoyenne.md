@@ -13,6 +13,7 @@ stats: false
 contact: contact@beta.gouv.fr
 usertypes:
   - particulier
+link: ''
 ---
 ## L'impact recherché
 

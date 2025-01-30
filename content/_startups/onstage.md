@@ -15,6 +15,7 @@ contact: incubateur@anct.gouv.fr
 usertypes:
   - particulier
   - entreprise
+link: ''
 ---
 <img width="300" alt="Rest'0" src="https://user-images.githubusercontent.com/36134318/78233381-ee1dae00-74d5-11ea-9142-a2069b3753d8.png">
 

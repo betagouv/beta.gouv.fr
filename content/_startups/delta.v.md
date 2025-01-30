@@ -8,7 +8,7 @@ contact: julien.ramon@douane.finances.gouv.fr
 usertypes:
   - particulier
   - etat
-link: https://declare-douane.beta.gouv.fr/
+link: ''
 phases:
   - name: investigation
     start: 2021-09-03

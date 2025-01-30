@@ -19,6 +19,7 @@ events:
   - name: committee
     date: 2024-06-21
     comment: Comité de fin d'investigation
+link: ''
 ---
 ## Contexte
 L’agence nationale des données de voyage (ANDV), service interministériel à compétence nationale, est en charge de l’amélioration des dispositifs de collecte et traitement des données de voyages. 

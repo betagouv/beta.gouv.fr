@@ -17,6 +17,7 @@ thematiques:
 dashlord_url: https://github.com/betagouv/dashlord/blob/main/dashlord.yml
 accessibility_status: non conforme
 techno: []
+link: ''
 ---
 ## Contexte
 

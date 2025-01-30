@@ -13,6 +13,7 @@ phases:
 usertypes:
   - collectivite-territoriale
   - particulier
+link: ''
 ---
 ![](/img/netlifycms/commun.orientation.png)
 

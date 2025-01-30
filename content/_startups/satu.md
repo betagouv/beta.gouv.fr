@@ -9,6 +9,7 @@ sponsors:
 phases:
   - name: alumni
     start: 2023-12-11
+link: ''
 ---
 ## Contexte
 
