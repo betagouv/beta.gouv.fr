@@ -5,7 +5,7 @@ domaine: Développement
 github: fabiengo
 missions:
   - start: 2022-03-02
-    end: 2025-04-01
+    end: 2025-02-15
     status: independent
     startups:
       - dossierfacile

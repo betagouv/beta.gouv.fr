@@ -5,7 +5,7 @@ role: Ux designer
 github: mickeymick25
 missions:
   - start: 2021-02-08
-    end: 2024-03-31
+    end: 2025-01-01
     status: independent
     employer: Michael Boitin EI
     startups:
