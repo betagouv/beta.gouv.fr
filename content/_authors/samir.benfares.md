@@ -5,7 +5,7 @@ domaine: Développement
 github: sbenfares
 missions:
   - start: 2020-01-22
-    end: 2025-02-28
+    end: 2025-09-30
     status: independent
     employer: ut7
     startups:

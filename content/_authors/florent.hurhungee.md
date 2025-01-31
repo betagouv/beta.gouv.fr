@@ -2,7 +2,8 @@
 fullname: Florent Hurhungee
 role: Intrapreneur
 domaine: Intraprenariat
-competences: []
+competences:
+  - Intrapreneur(se)
 missions:
   - start: 2025-01-31
     end: 2027-02-01
