@@ -12,8 +12,8 @@ competences:
 missions:
   - start: 2025-02-03
     end: 2025-05-02
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - dossierfacile
 ---

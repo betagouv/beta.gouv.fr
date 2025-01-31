@@ -8,7 +8,6 @@ contact: julien.ramon@douane.finances.gouv.fr
 usertypes:
   - particulier
   - etat
-link: ''
 phases:
   - name: investigation
     start: 2021-09-03
@@ -25,6 +24,7 @@ dashlord_url: https://dashlord.incubateur.net/url/declare-douane-beta-gouv-fr/
 repository: https://github.com/betagouv/delta-v
 accessibility_status: non conforme
 techno: []
+link: ''
 ---
 Déclare Douane est un service à destination de toute personne voyageant à l’étranger.
 
