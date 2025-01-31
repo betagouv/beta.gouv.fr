@@ -16,6 +16,7 @@ missions:
     status: admin
     employer: dinum
     startups:
+      - messagerie
       - suite-numerique
 competences: []
 ---

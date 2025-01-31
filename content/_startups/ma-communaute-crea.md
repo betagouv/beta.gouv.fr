@@ -8,16 +8,13 @@ thematiques:
 title: Ma communauté Créa
 mission: Aider les entrepreneurs à développer leur activité
 incubator: francetravail
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-01-30
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-01-30
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

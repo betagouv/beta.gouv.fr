@@ -1,10 +1,14 @@
 ---
 domaine: Intraprenariat
-fullname: Christel Fiorina
-role: Intraprenariat
+fullname: Christel FIORINA
+role: Intrapreneur
 missions:
-  - start: 2024-04-05
-    end: 2024-07-05
+  - start: 2024-04-04
+    end: 2025-03-31
     status: admin
-    employer: ''
+    employer: IGEDD
+    startups:
+      - inspecteur-augmente
+competences:
+  - Intrapreneur(se)
 ---
