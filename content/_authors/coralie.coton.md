@@ -6,7 +6,7 @@ github: CoralieCotonPro
 link: https://www.linkedin.com/in/coralie-coton/
 missions:
   - start: 2023-09-18
-    end: 2024-09-19
+    end: 2025-06-04
     status: independent
     employer: Malt
     startups:

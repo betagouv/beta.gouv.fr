@@ -36,6 +36,7 @@ phases:
   - name: acceleration
     start: 2019-04-01
 techno: []
+mon_service_securise: true
 ---
 ## Qui sommes-nous ?
 
