@@ -14,13 +14,11 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: construction
-    comment: null
     start: 2024-09-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-01-31
+techno: []
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

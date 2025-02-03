@@ -1,10 +1,10 @@
 ---
 fullname: Astrid Tarteret
-role: Coach
-domaine: Coaching
+role: EIG CIO
+domaine: Intraprenariat
 missions:
   - start: 2023-03-28
-    end: 2025-04-30
+    end: 2025-01-31
     status: independent
     startups:
       - vigieau
@@ -14,6 +14,11 @@ missions:
     employer: NUMA
     startups:
       - plateforme-agriculteurs
+  - start: 2025-02-03
+    end: 2026-02-02
+    status: admin
+    startups:
+      - vigieau
 memberType: beta
 competences: []
 ---

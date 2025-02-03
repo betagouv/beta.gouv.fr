@@ -17,12 +17,9 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2025-01-31
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-01-31
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
