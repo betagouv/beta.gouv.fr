@@ -2,7 +2,7 @@
 analyse_risques: false
 mon_service_securise: false
 contact: christophe.ninucci@beta.gouv.fr
-link: webmail.numerique.gouv.fr
+link: https://webmail.numerique.gouv.fr
 thematiques:
   - Administratif
 usertypes:

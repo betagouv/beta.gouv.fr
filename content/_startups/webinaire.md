@@ -4,7 +4,7 @@ analyse_risques: false
 mon_service_securise: false
 contact: contact@webinaire.numerique.gouv.fr
 repository: https://github.com/numerique-gouv/b3desk
-link: webinaire.numerique.gouv.fr
+link: https://webinaire.numerique.gouv.fr
 thematiques:
   - Administratif
   - Outil technique

@@ -3,7 +3,7 @@ analyse_risques: false
 mon_service_securise: true
 contact: virgile.deville@beta.gouv.fr
 repository: https://github.com/suitenumerique/docs
-link: docs.numerique.gouv.fr
+link: https://docs.numerique.gouv.fr
 thematiques:
   - Administratif
 usertypes:
