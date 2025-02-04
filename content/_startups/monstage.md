@@ -26,6 +26,10 @@ thematiques:
   - Jeunesse
   - Education
 techno: []
+events:
+  - name: end
+    date: 2025-01-01
+    comment: 'Suite à la reprise du produit par l''incubateur de l''Éducation nationale et pour répondre à la commande politique de bénéficier d''une plateforme nationale pour l''ensemble des stages de 3ème et seconde, le produit a pivoté pour devenir 1 élève 1 stage (se rapporter à cette nouvelle fiche produit). '
 ---
 ## Qui sommes-nous ?
 [Mon stage de 3e](https://www.monstagedetroisieme.fr/) est un service numérique mis en place par l’Agence nationale de la cohésion des territoires, ce produit est copiloté par les ministères en charge de la ville, de l’éducation nationale et de la fonction publique. Il permet aux élèves de troisième des collèges du réseau éducation prioritaire (REP et REP+) d’avoir accès à une offre de stages de qualité.

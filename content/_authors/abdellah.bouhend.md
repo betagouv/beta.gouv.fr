@@ -15,6 +15,12 @@ missions:
     employer: Malt
     startups:
       - france.nation.verte.agir
+  - start: 2025-02-01
+    end: 2025-04-30
+    status: independent
+    employer: malt
+    startups:
+      - france.nation.verte.agir
 badges:
   - segur
 competences: []

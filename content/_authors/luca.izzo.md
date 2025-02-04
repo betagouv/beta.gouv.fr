@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2025-02-03
     end: 2025-06-02
-    employer: MTE
     status: admin
+    employer: MTE
     startups:
       - carbure
 ---

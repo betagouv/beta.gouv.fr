@@ -16,7 +16,7 @@ usertypes:
   - particulier
 repository: https://github.com/betagouv/infomedicament
 techno: []
-link: ''
+link: https://infomedicament.beta.gouv.fr/
 ---
 ## Contexte 
 

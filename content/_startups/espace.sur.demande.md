@@ -4,7 +4,7 @@ mission: Rendre accessible les espaces publics auprès du grand public
 incubator: anct
 title: Espace sur Demande
 contact: servicesnumeriques@anct.beta.gouv.fr
-accessibility_status: partiellement conforme
+accessibility_status: non conforme
 sponsors:
   - /organisations/anct
 phases:

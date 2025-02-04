@@ -37,3 +37,16 @@ Le dispositif a été créé de toutes pièces en 2021 dans un temps très restr
 ## Stratégie
 
 Le public cible du pass'sport est très divers, il regroupe les enfants bénéficiaires de l'allocation de rentrée scolaire ou de l'allocation d'éducation de l'enfant handicapé ainsi que les étudiants boursiers et les jeunes adultes bénéficiaires de l'allocation adulte handicapé. Aussi, il convient de mobiliser divers réseaux afin d'entrer en contact avec chacun d'entre eux : réseaux sociaux, établissements scolaires, réseaux personnels. L'objectif est de rencontrer l'ensemble des classes d'âges visées afin de prendre en compte la diversité de leurs pratiques et usages.
+
+## Impact et résultat du dispositif pass Sport 2024-2025
+Voici les résultats d'un sondage en ligne proposé par l'équipe à un échantillon de 400 000 éligibles ayant eu recouru ou non au pass Sport.
+- **13 778 répondants** (93,5% parents / 6,5% étudiants boursiers)
+
+> **IMPACT : 37% des répondants "parents" déclarent qu'ils n'auraient pas inscrit leurs enfants à une activité sportive sans l'aide du pass Sport** (34% pour les étudiants boursiers)
+
+- 80% des répondants réutilisent le pass Sport d'année en année
+- Évaluation globale du dispositif : 4,6/5
+- Évaluation simplicité du dispositf : 4,7/5
+- Score NPS 77 (82% de promoteurs et 5% de détracteurs)
+- Principale raison de non recours : Les clubs n'acceptent pas le pass Sport
+- Principales pistes d'améliorations proposées : Augmenter l'aide, élargir à tous le dispositif, faciliter l'acceptation du pass par les clubs.

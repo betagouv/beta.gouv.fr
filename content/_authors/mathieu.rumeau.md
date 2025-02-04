@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2025-02-01
     end: 2026-02-01
-    employer: EIG
     status: admin
+    employer: EIG
     startups:
       - 1-eleve-1-stage
 ---

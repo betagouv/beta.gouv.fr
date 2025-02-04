@@ -1,6 +1,6 @@
 ---
 fullname: Camille Canaple
-role: Designer UX/UI
+role: 'Designer '
 domaine: Design
 github: cami-na
 missions:
@@ -22,12 +22,19 @@ missions:
     employer: 'Octo Malt '
     startups:
       - envergo
+  - start: 2024-06-03
+    end: 2025-06-02
+    status: independent
+    employer: Octo Malt
+    startups:
+      - guichet-unique-de-la-haie-envergo-agricole
 badges:
   - segur
 link: https://www.linkedin.com/in/camille-canaple/
 competences:
-  - Facilitation
   - Product design
   - Product strategy
   - UX
+  - UI
+  - Facilitation
 ---

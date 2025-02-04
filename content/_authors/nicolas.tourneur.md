@@ -11,5 +11,6 @@ missions:
     end: 2025-12-31
     status: independent
     employer: NUMA
+github: Nicolas-Tourneur35
 ---
 👋 Passionné de RH depuis 10 ans, je mets mon expertise au service des organisations qui souhaitent placer leurs ressources humaines au cœur de leur stratégie de développement.

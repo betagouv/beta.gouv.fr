@@ -25,6 +25,7 @@ contact: contact.domifa@fabrique.social.gouv.fr
 usertypes:
   - association
   - collectivite-territoriale
+  - ccas
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/domifa-fabrique-social-gouv-fr/
 accessibility_status: partiellement conforme
 analyse_risques: true
@@ -97,8 +98,8 @@ DomiFa s’adresse aux CCAS, CIAS, communes et tout autre organisme agréé (ass
 
 ## Notre mesure d’impact
 
-Note de satisfaction des structures : 8,9 / 10 
-Note de satisfaction des domiciliés : 4,2 / 5
+Note de satisfaction des structures : 8,9 / 10 (Etude août 2022)
+Note de satisfaction des domiciliés : 4,2 / 5 (Etude décembre 2023)
 
 Avec plus de **600 000 dossiers gérées** et plus de **1500 structures actives** (CCAS, CIAS, associations), DomiFa simplifie et optimise le processus de domiciliation administrative. Grâce à son interface intuitive, la plateforme a permis de **réduire les délais de traitement**, d’améliorer la **sécurité des données** et de **libérer du temps pour l’accompagnement social**. 
 
