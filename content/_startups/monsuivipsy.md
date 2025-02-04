@@ -4,13 +4,13 @@ mission: Mieux connaître ses symptômes pour un meilleur accompagnement médica
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
-link: https://monsuivipsy.fabrique.social.gouv.fr/
-repository: https://github.com/SocialGouv/monsuivipsy
-contact: monsuivipsy@fabrique.social.gouv.fr
+link: https://jardinmental.fabrique.social.gouv.fr/
+repository: https://github.com/SocialGouv/jardinmental
+contact: jardinmental@fabrique.social.gouv.fr
 usertypes:
   - particulier
   - entreprise
-stats_url: https://matomo-metabase-monsuivipsy.fabrique.social.gouv.fr/public/dashboard/5c48ca1a-0c1e-4d8b-90b1-d474ce379758
+stats_url: https://jardinmental.fabrique.social.gouv.fr/stats
 stats: true
 phases:
   - name: investigation
@@ -20,7 +20,8 @@ phases:
     start: 2020-11-01
     end: 2021-05-01
 accessibility_status: non conforme
-thematiques: []
+thematiques:
+  - Santé
 techno: []
 ---
 ## Le contexte

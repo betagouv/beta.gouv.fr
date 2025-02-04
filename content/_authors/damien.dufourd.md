@@ -27,7 +27,7 @@ missions:
       - themis
       - trait-d-union
   - start: 2024-09-03
-    end: 2025-03-03
+    end: 2025-06-03
     status: independent
     startups:
       - cestquilepro
@@ -35,7 +35,6 @@ missions:
       - histologe
       - homologation
       - la-bonne-alternance
-      - nis2
       - pilotagevoiepro
       - sirius
       - stop-punaises
@@ -45,6 +44,7 @@ missions:
     startups:
       - api.apprentissage
       - generateur.de.contrat.d.apprentissage
+      - nis2
       - tdb-apprentissage
 previously:
   - cmachance

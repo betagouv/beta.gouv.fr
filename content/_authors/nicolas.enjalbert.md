@@ -18,8 +18,9 @@ competences:
   - UX
   - Gestion de Produit
   - Data Science
+  - Product strategy
 previously:
   - l-application-du-cej
   - carnet.de.bord
 ---
-Coach produit, directeur produit, designer de service
+Directeur produit, coach produit, designer de service

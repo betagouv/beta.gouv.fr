@@ -9,7 +9,7 @@ missions:
     startups:
       - snu
   - start: 2024-07-15
-    end: 2025-03-03
+    end: 2025-12-31
     status: independent
     startups:
       - reva

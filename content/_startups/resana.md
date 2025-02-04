@@ -16,12 +16,9 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: success
-    comment: null
     start: 2024-01-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2020-06-01
 ---
 A compléter 
