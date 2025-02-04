@@ -12,4 +12,7 @@ highlighted_startups:
   - impact.co2
   - territoires-en-transitions
 ---
+
 Lancé en septembre 2022, l'Accélérateur de la transition écologique vise à faire émerger et à soutenir de nouveaux services à impacts portés par l'ADEME pour accélérer la transition sur les différents champs d'interventions de l'Agence et auprès de toutes ses cibles (collectivités, entreprises, particuliers…).
+
+blablabla
