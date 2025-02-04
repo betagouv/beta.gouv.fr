@@ -10,12 +10,13 @@ contact: contact@envergo.beta.gouv.fr
 usertypes:
   - collectivite-territoriale
   - entreprise
+  - particulier
 stats_url: https://envergo.beta.gouv.fr/stats
 stats: true
 events:
   - name: fast
     date: 2024-01-01
-    comment: Montant de 200000€ pour la promotion 13
+    comment: "Montant de 200\_000€ pour la promotion 13"
 phases:
   - name: investigation
     start: 2021-04-08
@@ -30,9 +31,15 @@ fast:
 accessibility_status: partiellement conforme
 thematiques:
   - Écologie
+  - Administratif
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/envergo-beta-gouv-fr/
-techno: []
+techno:
+  - django
+  - docker
+  - python
+  - sql
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+analyse_risques: true
 ---
 ![](/img/netlifycms/envergo.jpg)
 
@@ -55,29 +62,27 @@ Le service EnvErgo intervient aux différentes étapes de la vie d’un projet :
 
 * En amont, **le simulateur** – utilisé par l'ensemble des acteurs de la vie du projet : porteurs de projet, architectes, géomètres, mairies.
 
-Il fournit la liste des réglementations auxquelles un projet donné est soumis, étayée par des cartographies, et précisant la marche à suivre et les contacts de l’administration (exemple de projet : [une extension de 1250 m² sur les rives de la Loire](https://envergo.beta.gouv.fr/simulateur/resultat/?created_surface=1250&existing_surface=1000&lng=-1.83425&lat=47.20490&is_lotissement=non))
+Il fournit la liste des réglementations auxquelles un projet donné est soumis, étayée par des cartographies, et précisant la marche à suivre et les contacts de l’administration (exemple de projet : [une extension de 1250 m² sur les rives de la Loire](https://envergo.beta.gouv.fr/simulateur/resultat/?created_surface=1250&final_surface=2250&lng=-1.83425&lat=47.20490&autorisation_urba=pc))
 
 * En aval, **l'avis réglementaire** – utilisé par les services d’instruction urbanisme à la réception du dossier de permis de construire ou d’aménager.
 
 EnvErgo évalue le projet, envoie un rappel réglementaire au porteur d’un projet concerné, puis le contacte et l’accompagne dans sa compréhension de ses obligations.
 
-Ces deux outils contribuent à notre ambition : **rendre compréhensible et actionnable la réglementation environnementale aux non-experts**.
+Ces deux outils contribuent ainsi à rendre compréhensible et actionnable la réglementation environnementale aux non-experts, pour améliorer sa prise en compte.
 
 → Pour se rendre sur le site EnvErgo, accessible à tous sans créer de compte : [https://envergo.beta.gouv.fr](https://envergo.beta.gouv.fr)
 
 ## L’activité et l’impact d’EnvErgo sont évalués en continu
 
-Début 2024, EnvErgo est disponible dans [16 départements](https://envergo.beta.gouv.fr/foire-aux-questions/departments-disponibles/) et va s’étendre progressivement à l’ensemble du territoire, outre-mer compris.
+Début 2025, EnvErgo est disponible dans [51 départements](https://envergo.beta.gouv.fr/foire-aux-questions/departments-disponibles/) et va s’étendre progressivement à l’ensemble du territoire, outre-mer compris.
 
-À cette date, le simulateur EnvErgo est utilisé : 
-- pour 1 500 simulations mensuelles,
-- soit 750 ha de projets simulés.
+À cette date, le simulateur EnvErgo est utilisé pour plus de 2 000 simulations mensuelles soit 1 000 ha de projets simulés.
 
 L’activité des avis réglementaires, en rythme annuel :
 atteint :
 - 2600 demandes d’avis réglementaires / an
 - et 360 projets / an remis en conformité
-- soit 250 ha / an d’artificialisation, dont 15 ha d’écosystèmes fragiles entièrement préservés.
+- soit 250 ha / an d’artificialisation, dont 20 ha d’écosystèmes fragiles entièrement préservés.
 
 Un projet remis en conformité assez tôt dans son histoire évite de s’exposer à un risque de contentieux ou à des contrôles administratifs. La moyenne que nous avons observée des surcoûts et retards à la clef est de 7 000 € par projet, avec des cas atteignant 100 000 €.
 

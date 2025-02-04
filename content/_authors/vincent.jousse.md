@@ -14,7 +14,7 @@ missions:
       - inclusion.connect
       - les-emplois
   - start: 2024-06-03
-    end: 2025-03-03
+    end: 2025-05-01
     status: independent
     employer: PathTech
     startups:

@@ -1,6 +1,6 @@
 ---
 fullname: Antoine Girard
-role: Développeur RDV Service Public
+role: Développeur
 domaine: Développement
 github: AntoineGirard
 competences:
@@ -8,7 +8,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2024-10-28
-    end: 2025-03-25
+    end: 2025-06-30
     status: independent
     employer: Scopyleft
     startups:
