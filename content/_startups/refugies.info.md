@@ -79,7 +79,7 @@ Nous avons également conduit une **mesure d’impact** auprès de tous les usag
 2. **Réfugiés.info accélère le parcours d’intégration :** 80% des personnes réfugiées disent avoir gagné du temps pour faire leurs démarches grâce à Réfugiés.info (jusqu’à plusieurs mois pour certains)
 3. **Réfugiés.info outille les professionnels et permet de recentrer le travail social sur l’autonomisation des bénéficiaires**
 
-Pour aller plus loin, consultez notre rapport d’impact dans son intégralité : [Réfugiés.info, 5 ans au service de l’information des personnes réfugiées](https://accueil-integration-refugies.fr/wp-content/uploads/2024/07/Livret-Impact-Refugies.infos-2024.pdf)
+Pour aller plus loin, consultez notre rapport d’impact dans son intégralité : [Réfugiés.info, 5 ans au service de l’information des personnes réfugiées ⭐️📙](https://accueil-integration-refugies.fr/wp-content/uploads/2024/07/Livret-Impact-Refugies.infos-2024.pdf)
 
 ## **Et la suite ?**
 **Faire gagner du temps et de l’efficacité aux professionnels et agents de service public grâce à deux projets intégrant l’intelligence artificielle d’État “Albert” :**

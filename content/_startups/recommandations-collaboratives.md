@@ -30,6 +30,7 @@ thematiques:
 techno:
   - python
   - django
+dashlord_url: https://dashlord.incubateur.net/url/recommandations-collaboratives-beta-gouv-fr/
 ---
 Recommandations-collaboratives fait avancer les demandes & dossiers complexes en structurant le conseil et la collaboration. C’est un outil de mise en relation et de conseil humain entre des demandeurs et des réseaux de conseillers.
 

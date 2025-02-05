@@ -1,7 +1,7 @@
 ---
 fullname: Nicolas Enjalbert
-domaine: Coaching
-role: Coach produit, entrepreneur associé
+domaine: Intraprenariat
+role: Directeur produit de l'équipe Envergo, coach produit
 github: nenj
 link: https://www.linkedin.com/in/nicolas-enjalbert/
 missions:
@@ -12,6 +12,7 @@ missions:
     startups:
       - data-inclusion
       - envergo
+      - guichet-unique-de-la-haie-envergo-agricole
       - rdv.insertion
 competences:
   - Coaching

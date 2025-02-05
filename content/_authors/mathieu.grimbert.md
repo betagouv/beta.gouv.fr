@@ -9,6 +9,7 @@ missions:
     employer: Malt
     startups:
       - envergo
+      - guichet-unique-de-la-haie-envergo-agricole
 competences:
   - Product strategy
   - Product design

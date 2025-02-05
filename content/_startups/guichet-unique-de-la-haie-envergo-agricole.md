@@ -25,16 +25,11 @@ sponsors:
   - /organisations/dgpe
 phases:
   - name: investigation
-    comment: null
     start: 2024-05-01
-    end: null
   - name: construction
-    comment: null
     start: 2024-09-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-11-01
 ---
 

@@ -7,8 +7,8 @@ competences:
 missions:
   - start: 2025-02-01
     end: 2026-01-31
-    employer: EIG
     status: admin
+    employer: EIG
     startups:
       - parcours.rh
 ---
