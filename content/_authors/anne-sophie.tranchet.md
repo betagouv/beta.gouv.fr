@@ -1,7 +1,7 @@
 ---
 fullname: Anne-Sophie Tranchet
 domaine: Design
-role: Designer / Accessibilité
+role: Accessibilité et Design
 github: astranchet
 link: https://hello-bokeh.fr
 missions:

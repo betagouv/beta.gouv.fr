@@ -1,7 +1,7 @@
 ---
 mission: Intégrer le bruit dans les risques impactant les projets d'aménagement
 incubator: accelerema
-title: Bambin
+title: diagBruit
 contact: martin.schoreisz@cerema.fr
 accessibility_status: non conforme
 phases:

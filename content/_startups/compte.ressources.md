@@ -11,11 +11,17 @@ phases:
     start: 2023-02-15
   - name: construction
     start: 2024-06-14
+  - name: alumni
+    start: 2024-08-01
 thematiques:
   - Formation
 usertypes: []
 techno: []
 repository: https://forge.apps.education.fr/incubateur/projet/startup-d-etat/compte-ressources
+events:
+  - name: end
+    date: 2024-08-01
+    comment: 'Suite à une révision des priorités de la DNE, ce projet a été suspendu. '
 link: ''
 ---
 ## Contexte
