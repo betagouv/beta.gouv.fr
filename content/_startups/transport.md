@@ -31,15 +31,18 @@ usertypes:
   - entreprise
   - particulier
   - association
+  - etat
 thematiques:
   - Transports
   - Open-Data
   - Inclusion numérique
   - Territoires
+  - Écologie
 techno:
   - elixir
   - postgresql
 stats_url: https://transport.data.gouv.fr/stats
+accessibility_status: partiellement conforme
 ---
 ## Le problème que résout transport.data.gouv.fr
 

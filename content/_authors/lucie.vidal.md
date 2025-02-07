@@ -11,7 +11,7 @@ missions:
     startups:
       - ecobalyse
   - start: 2024-06-01
-    end: 2025-03-04
+    end: 2025-05-04
     status: independent
     employer: Scopyleft
     startups:

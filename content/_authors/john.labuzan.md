@@ -7,25 +7,11 @@ avatar: /img/authors/johnlabuzan.jpeg
 link: https://fair-fair.fr
 missions:
   - start: 2019-07-02
-    end: 2025-06-30
+    end: 2024-05-31
     status: independent
     employer: Numa
     startups:
-      - aides-territoires
-      - boursoloco
       - chauffage-urbain
-      - collectif_objets
-      - conseillers-entreprises
-      - experts
-      - lannuaire.des.collectivites
-      - mediature
-      - mon.espace.collectivite
-      - monstage
-      - nosgestesclimat
-      - portail-rse
-      - romin
-      - sante-psy-etudiant
-      - signalement
 previously:
   - aides-territoires
   - jeveuxaider

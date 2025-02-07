@@ -46,8 +46,3 @@ Un éditeur de texte collaboratif moderne accessible depuis le web qui fonctionn
 - #BuildInPublic
 - L'objectif est d'avoir un usage aussi répandu que celui de Tchap (300K agents / mois)
 
-### Usages
-| Date | Documents | Utilisateurs |
-| --- | --- | --- |
-| 28/01/2025 | 3844 | 3075 |
-

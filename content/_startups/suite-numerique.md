@@ -31,7 +31,7 @@ La Suite est déployée par l'[Opérateur de Produits Interministériels de la D
 La Suite contient d'ores et déjà les services suivants :
 * [Tchap](https://beta.gouv.fr/startups/tchap.html), la messagerie instantanée
 * [France Transfert](https://beta.gouv.fr/startups/france-transfert.html), pour le transfert de fichiers lourds
-* [Webinaire](https://beta.gouv.fr/startups/webinaire.html), Webconf et [Audioconf](https://beta.gouv.fr/startups/audioconf.html), pour audio et vidéo conférences
+* Webinaire, Webconf et [Audioconf](https://beta.gouv.fr/startups/audioconf.html), pour audio et vidéo conférences
 * [Visio](https://beta.gouv.fr/startups/visio.html), pour des visios rapides
 * [Resana](https://beta.gouv.fr/startups/resana.html), pour le stockage de fichiers
 * [Grist](https://beta.gouv.fr/startups/grist.numerique.gouv.fr.html), pour gérer des bases de données

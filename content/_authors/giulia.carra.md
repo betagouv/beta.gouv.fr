@@ -10,6 +10,11 @@ missions:
     employer: Malt
     startups:
       - data-subvention
+      - pilotage.de.linclusion
+  - start: 2025-02-04
+    end: 2025-05-04
+    status: independent
+    employer: Malt
 competences:
   - Développement
   - DevOps

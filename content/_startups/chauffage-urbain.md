@@ -35,6 +35,7 @@ events:
     comment: Montant de 121000€ pour la promotion 14
 techno: []
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+stats_url: https://france-chaleur-urbaine.beta.gouv.fr/stats
 ---
 ## Le problème
 
@@ -42,21 +43,21 @@ Alors que les réseaux de chaleur constituent un mode de chauffage écologique e
 
 ## La solution
 
-France Chaleur Urbaine a pour objectif de faire connaître les réseaux de chaleur au plus grand nombre, de faciliter les démarches de raccordement en assurant la mise en relation entre prospects et gestionnaires des réseaux, et de mettre des outils à disposition des collectivités pour les aider à déployer leurs réseaux.
+France Chaleur Urbaine a pour objectif de faire connaître les réseaux de chaleur au plus grand nombre, de faciliter les démarches de raccordement en assurant la mise en relation entre prospects et gestionnaires des réseaux, et de mettre des outils à disposition de l'ensemble des parties prenantes pour accélérer le développement des réseaux.
 
-L'un des freins au raccordement des bâtiments aux réseaux de chaleur est un certain manque de visibilité et de lisibilité de la filière, chaque réseau ayant ses propres caractéristiques et son propre gestionnaire. France Chaleur Urbaine centralise les informations les plus utiles pour envisager un raccordement. De plus, toute personne qui le souhaite peut vérifier si un réseau de chaleur passe près de son adresse et déposer ses coordonnées pour être mise en relation avec le gestionnaire du réseau le plus proche. Ce dernier pourra alors confirmer la faisabilité du raccordement et fournir une estimation tarifaire. Pour les acteurs en charge de la gestion d'un parc de bâtiments (bailleurs sociaux, bureaux d'étude, groupes tertiaires, ...), il peut être fastidieux de tester une à une la proximité des différentes adresses à un réseau de chaleur, ce qui peut constituer un frein supplémentaire pour s'engager dans cette démarche. Pour répondre à cette problématique, France Chaleur Urbaine offre la possibilité d'effectuer des tests en masse, en téléchargeant une liste d'adresses. Enfin, toujours dans un objectif de facilitation, France Chaleur Urbaine met des outils à disposition des collectivités et exploitants pour les aider dans le déploiement de leurs réseaux. Cela passe notamment par une cartographie interactive vers laquelle les collectivités peuvent orienter leurs administrés pour faire connaître leur réseau de chaleur. Cette cartographie rassemble également des données sur les potentiels de raccordement : elle permet par exemple d'identifier les bâtiments chauffés au gaz ou fioul collectif alors même qu'ils se situent à proximité immédiate d'un réseau.
+L'un des freins au raccordement des bâtiments aux réseaux de chaleur est un certain manque de visibilité et de lisibilité de la filière, chaque réseau ayant ses propres caractéristiques et son propre gestionnaire. France Chaleur Urbaine centralise les informations les plus utiles pour envisager un raccordement. De plus, toute personne qui le souhaite peut vérifier si un réseau de chaleur passe près de son adresse et déposer ses coordonnées pour être mise en relation avec le gestionnaire du réseau le plus proche. Ce dernier pourra alors confirmer la faisabilité du raccordement et fournir une estimation tarifaire. Pour les acteurs en charge de la gestion d'un parc de bâtiments (bailleurs sociaux, bureaux d'étude, groupes tertiaires, ...), il peut être fastidieux de tester une à une la proximité des différentes adresses à un réseau de chaleur, ce qui peut constituer un frein supplémentaire pour s'engager dans cette démarche. Pour répondre à cette problématique, France Chaleur Urbaine offre la possibilité d'effectuer des tests en masse, en téléchargeant une liste d'adresses. Enfin, toujours dans un objectif de facilitation, France Chaleur Urbaine met des outils à disposition des collectivités et exploitants pour les aider dans le déploiement de leurs réseaux. Cela passe notamment par une cartographie interactive vers laquelle les collectivités peuvent orienter leurs administrés pour faire connaître leurs réseaux de chaleur. Cette cartographie rassemble également des données sur les potentiels de raccordement : elle permet par exemple d'identifier les bâtiments chauffés au gaz ou fioul collectif alors même qu'ils se situent à proximité immédiate d'un réseau.
 
 https://france-chaleur-urbaine.beta.gouv.fr/
 
 ## L'impact
 
-Au 1er novembre 2023, le site enregistre 159 320 visites et 72 631 adresses testées (hors test en masse). Plus de 2000 demandes ont été déposées sur le site à cette date et environ 500 raccordements sont à l'étude. Cela représente environ 28 000 tonnes de CO2 qui seront évitées chaque année si ces raccordements aboutissent (estimation).
+En 2024, le site a été consulté par 284 000 visiteurs et 188 000 tests d'adresse ont été effectués : il s'agit d'un doublement par rapport à 2023. Au 1er février 2025, plus de 5100 demandes ont été déposées sur le site et 1460 raccordements sont à l'étude, en cours ou effectifs. Cela représente environ 78 000 tonnes de CO2 qui seront potentiellement évitées chaque année.
 
-Via la fonctionnalité permettant un test d'adresses en masse mise en place début décembre 2022, plus de 376 990 adresses ont déjà été testées au 1er novembre 2023, par des bailleurs sociaux, bureaux d'étude, gestionnaires du bâti État...
+Via la fonctionnalité permettant un test d'adresses en masse mise en place début décembre 2022, plus de 893 000 adresses ont déjà été testées au 1er février 2025, par des bailleurs sociaux, bureaux d'études, gestionnaires de parc tertiaires, souvent dans l'optique de la mise en place de stratégies de décarbonation à l'échelle de parcs de bâtiments.
 
-Enfin, des partenariats ont été établis avec une centaine de collectivités, et la cartographie compte aujourd'hui plus de 640 réseaux sur les 898 recensés en France. L'intégralité des tracés ont été mis en open data au 1er septembre 2023.
+Enfin, la cartographie France Chaleur Urbaine est devenue la référence nationale pour connaître les réseaux de chaleur. Elle compte aujourd'hui plus de 839 réseaux représentant 93% des livraisons de chaleur annuelles en France et a été consultée par 115 000 visiteurs en 2024, soit 2.5 fois plus qu'en 2023. L'intégralité des tracés ont été mis en open data au 1er septembre 2023 : ils ont été téléchargés plus de 2000 fois depuis.
 
-Les objectifs à juin 2024 sont de 3 000 demandes et 36 000 tonnes de CO2 évitées par an, ainsi que des partenariats établis avec 180 collectivités.
+Les objectifs pour fin 2025 sont de compter 300 demandes par mois, contre 250 en moyenne fin 2024, d'aboutir à 2000 raccordements à l'étude, en cours ou effectifs représentant 120 000 tonnes de CO2 potentiellement évitées. Des comptes dédiées aux professionnels permettant l'accès à des fonctionnalités avancées vont par ailleurs être ouverts : l'objectif est d'avoir au moins 200 comptes créés fin 2025.
 
 https://france-chaleur-urbaine.beta.gouv.fr/stats
 
@@ -64,7 +65,7 @@ https://france-chaleur-urbaine.beta.gouv.fr/stats
 
 ### Encore trop de chauffages collectifs aux énergies fossiles
 
-**Face à l'urgence climatique, à la flambée du prix des énergies et aux tensions relatives à l'approvisionnement en énergies fossiles, les réseaux de chaleur constituent une solution de chauffage d'avenir encore sous-exploitée.**
+**Face à l'urgence climatique et aux tensions sur les prix et l'approvisionnement en énergies fossiles, les réseaux de chaleur constituent une solution de chauffage d'avenir encore sous-exploitée.**
 
 Alimentés en moyenne à plus de 62 % par des énergies renouvelables et de récupération locales, les réseaux de chaleur :
 
@@ -80,10 +81,10 @@ Ainsi, lorsque les chaudières existantes arrivent en fin de vie ou que des trav
 
 France Chaleur Urbaine vise à faciliter et accélérer les raccordements des bâtiments aux réseaux de chaleur.
 
-- **Pour les copropriétaires, et les propriétaires ou gestionnaires de bâtiments tertiaires**, France Chaleur Urbaine constitue une plateforme d’**informations et de mise en relation directe avec le gestionnaire du réseau local** (par exemple pour solliciter un rendez-vous ou un devis) ;
+- **Pour les copropriétaires, les propriétaires ou gestionnaires de bâtiments tertiaires et bureaux d'études**, France Chaleur Urbaine constitue une **plateforme d’informations fiable sur les réseaux et de mise en relation directe avec le gestionnaire du réseau local** (par exemple pour solliciter un rendez-vous ou un devis) ;
 - **Pour les exploitants ou collectivités** qui souhaitent agir pour la transition énergétique, France Chaleur Urbaine constitue une plateforme pour **valoriser leur réseau de chaleur**, pour **acquérir de nouveaux prospects** et pour **accéder à des données sur les potentiels de raccordement** sur leur territoire, à l'échelle des bâtiments, via un outil cartographique.
 
-Le service est opérationnel en version beta sur https://france-chaleur-urbaine.beta.gouv.fr/
+Lien vers le service : sur https://france-chaleur-urbaine.beta.gouv.fr/
 
 ### L'historique du projet
 
@@ -101,7 +102,9 @@ Mi-2022, France Chaleur Urbaine est lauréat de France Relance au titre du guich
 
 Ces nouveaux moyens permettent d'élargir le service, qui ne se limite plus aux copropriétés mais cible désormais aussi le secteur tertiaire. Un volet à destination des collectivités et exploitants est également développé, pour les accompagner dans le déploiement de leurs réseaux.
 
-Mi-2023, France Chaleur Urbaine est lauréat du guichet "Exploitation et valorisation des données" de la DINUM, et voit également le soutien financier de l'ADEME et de la DGEC renouvelé.
+Mi-2023, France Chaleur Urbaine est lauréat du guichet "Exploitation et valorisation des données" de la DINUM, et voit également le soutien financier de l'ADEME et de la DGEC renouvelé. 
+
+En 2024, il est lauréat du Fonds d'accélération des start-ups d'Etat de la DINUM et du Fonds d'investissement numérique et données pour la planification écologique, piloté par la DINUM en partenariat avec le Secrétariat général à la planification écologique (SGPE). Il continue de bénéficier d'un cofinancement par l'ADEME et la DGEC.
 
 ### Stratégie
 

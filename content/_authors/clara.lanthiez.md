@@ -9,6 +9,12 @@ missions:
     end: 2025-06-30
     status: independent
     employer: Scopyleft
+  - start: 2025-01-06
+    end: 2025-06-30
+    status: independent
+    employer: Malt
+    startups:
+      - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
 competences:
   - UX
   - UI
