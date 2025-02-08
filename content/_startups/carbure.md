@@ -10,6 +10,8 @@ phases:
     end: 2019-11-30
   - name: construction
     start: 2019-11-30
+  - name: acceleration
+    start: 2021-01-07
 link: https://carbure.beta.gouv.fr
 repository: https://github.com/MTES-MCT/carbure
 stats: true
@@ -20,6 +22,12 @@ thematiques:
   - Écologie
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 techno: []
+analyse_risques: true
+mon_service_securise: true
+stats_url: https://carbure.beta.gouv.fr/stats
+events:
+  - name: product_launch
+    date: 2021-02-08
 ---
 Les biocarburants, utilisés comme substituts aux carburants fossiles, permettent de réduire de plus de 4% les émissions de gaz à effet de serre du transport en France. 
 

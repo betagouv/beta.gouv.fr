@@ -1,12 +1,17 @@
 ---
-analyse_risques: false
-mon_service_securise: false
+analyse_risques: true
+mon_service_securise: true
 contact: christophe.ninucci@beta.gouv.fr
 link: https://webmail.numerique.gouv.fr
 thematiques:
   - Administratif
+  - Outil technique
+  - Sécurité informatique
 usertypes:
   - etat
+  - association
+  - collectivite-territoriale
+  - etablissement-scolaire
 title: Messagerie
 mission: Une boite mail et agenda open-source sécurisés pour les petites équipes
 incubator: dinum_produits_interministeriels
@@ -16,19 +21,28 @@ phases:
   - name: construction
     start: 2024-09-01
 events:
-  - name: product_launch
-    date: 2025-01-31
-techno: []
+  - name: other
+    date: 2025-01-15
+    comment: Homologation de sécurité
+techno:
+  - postfix
+  - dovecot
+  - imap
+  - smtp
+  - caldav
+  - open-xchange
+accessibility_status: partiellement conforme
+repository: https://gitlab.mim-libre.fr/dimail/
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
 ## Contexte
 
-A compléter
+La suite numérique de la DINUM cherche a intégrer une brique messagerie dans son offre de service.
 
 ## Problème
 
-Les problèmes que vous avez identifiés ou vos hypothèses de problèmes? Qui en souffre ? quels sont les conséquences de ces problèmes ? à compltée
+- opérer un service de messagerie en devops
+- intégrer ce service de messagerie dans les SI partenaires
+- fournir un environnement permettant l'autonomie et le self-care
 
 ## Solution
 
@@ -39,4 +53,7 @@ Partagez vos agendas facilement
 
 ## Stratégie
 
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ? à compléter
+Plusieurs axes:
+- la constitution d'un commun numérique pour éprouver le produit face aux différents usages
+- la mise à disposition de services en self-care aux agents publics
+- la mise en place d'APIs et interface de gestion pour introduire les fonctionnalités de gestion collaborative.

@@ -7,7 +7,6 @@ competences:
 missions:
   - start: 2023-01-02
     end: 2027-06-30
-    employer: ''
     status: admin
     startups:
       - compte.rendu.vif
