@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2025-02-03
     end: 2025-12-31
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - suite.territoriale
 ---

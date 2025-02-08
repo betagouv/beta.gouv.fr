@@ -13,6 +13,8 @@ missions:
     end: 2030-11-15
     status: admin
     employer: DINUM
+    startups:
+      - opi-cloud
 previously:
   - histovec
   - candilib

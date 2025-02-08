@@ -14,11 +14,10 @@ missions:
       - locadocs
       - parcours.de.saisine
   - start: 2022-02-01
-    end: 2026-09-30
+    end: 2024-08-31
     status: admin
     startups:
       - chauffage-urbain
-      - mesaidesreno
 teams:
   - /teams/dinum-incubateur
 competences:

@@ -8,14 +8,30 @@ missions:
     end: 2019-08-31
     status: independent
     employer: octo
+    startups:
+      - aplus
+      - e-controle
+      - plante-et-moi
   - start: 2019-09-01
     end: 2026-08-31
     status: admin
     employer: DINUM
+    startups:
+      - agora
+      - aplus
+      - audioconf
+      - authentification
+      - france.nation.verte.agir
+      - monprojetsup
+      - pass-sport
+      - tchap
+      - webinaire
   - start: 2024-11-01
     end: 2027-01-01
     status: admin
     employer: DINUM
+    startups:
+      - opi-cloud
 previously:
   - aplus
   - signalement

@@ -23,9 +23,12 @@ missions:
     employer: OCTO
     startups:
       - la-bonne-boite
-  - start: 2024-12-02
-    end: 2025-03-02
-    status: independent
+  - start: 2025-02-10
+    end: 2025-04-30
+    status: service
+    employer: OCTO
+    startups:
+      - ma-cantine-egalim
 competences:
   - Gestion de Produit
   - UX
