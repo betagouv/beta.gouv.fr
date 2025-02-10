@@ -150,7 +150,7 @@ jobs:
           # Process and save filtered output
           {
             echo 'AXE_DETAILS<<EOF'
-            echo "$AXE_LOG" | sed -E 's/Testing http[^ ]* 0 violations found!//'
+            echo "$AXE_LOG" | sed -E 's/Testing http[^ ]* 0 violations found\!//'
             echo 'EOF'
           } >> "$GITHUB_ENV"
       - name: Test output 4
