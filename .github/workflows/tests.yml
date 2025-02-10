@@ -137,8 +137,8 @@ jobs:
         run: |
           {
             echo 'AXE_LOG<<EOF'
-            echo "${steps.axe.outputs.stdout}"
-            echo "${steps.axe.outputs.stderr}"
+            echo "${{steps.axe.outputs.stdout}}"
+            echo "${{steps.axe.outputs.stderr}}"
             echo 'EOF'
           } >> "$GITHUB_ENV"
 
