@@ -12,8 +12,8 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-      - name: Lint markdown data
-        run: yarn --cwd=ci && node ci/tests-fiches.mjs
+    - name: Lint markdown data
+      run: yarn --cwd=ci && node ci/tests-fiches.mjs
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
@@ -38,60 +38,60 @@ jobs:
       run: bundle exec rspec
 
     - name: Check data structure
-     run: make validate
+      run: make validate
 
-      - name: Unit tests
-        run: bundle exec rspec
+    - name: Unit tests
+      run: bundle exec rspec
 
-      - name: Check data structure
-        run: make validate
+    - name: Check data structure
+      run: make validate
 
-      - name: "Check authors file name structure (first_name.last_name.md)"
-        run: |
-          if ls content/_authors | grep --line-regexp --invert-match '[a-z_.-]\+\.[a-z_.-]\+\.md'
-          then cat <<EOF
-            One or more authors do not have the expected structure.
-            Contact a website administrator if your generated author file breaks the validator.
-            Notes:
-            A dot (.) can only appear as a separator between the first and the last names.
-            Dashes in names are kept as-is.
-            Spaces are replaced by underscores (_).
-            File extension must be '.md'
-          EOF
-            exit 1
-          fi
+    - name: "Check authors file name structure (first_name.last_name.md)"
+      run: |
+        if ls content/_authors | grep --line-regexp --invert-match '[a-z_.-]\+\.[a-z_.-]\+\.md'
+        then cat <<EOF
+          One or more authors do not have the expected structure.
+          Contact a website administrator if your generated author file breaks the validator.
+          Notes:
+          A dot (.) can only appear as a separator between the first and the last names.
+          Dashes in names are kept as-is.
+          Spaces are replaced by underscores (_).
+          File extension must be '.md'
+        EOF
+          exit 1
+        fi
 
-      - name: Check Jekyll configuration
-        run: bundle exec jekyll doctor
+    - name: Check Jekyll configuration
+      run: bundle exec jekyll doctor
 
-      - name: Jekyll build
-        run: bundle exec jekyll build --trace
+    - name: Jekyll build
+      run: bundle exec jekyll build --trace
 
-      - name: Check HTML common mistakes
-        run: make html-proofer
+    - name: Check HTML common mistakes
+      run: make html-proofer
 
-      - name: HTML5 Validator
-        uses: Cyb3r-Jak3/html5validator-action@master
-        with:
-          root: _site
-          skip_git_check: true
+    - name: HTML5 Validator
+      uses: Cyb3r-Jak3/html5validator-action@master
+      with:
+        root: _site
+        skip_git_check: true
 
-      - name: Lint JSON API pages
-        run: bundle exec jsonlint _site/api/v*/*.json
+    - name: Lint JSON API pages
+      run: bundle exec jsonlint _site/api/v*/*.json
 
-      - name: "Upload Artifact"
-        uses: actions/upload-artifact@v4
-        with:
-          name: _site
-          path: _site
-          retention-days: 1
+    - name: "Upload Artifact"
+      uses: actions/upload-artifact@v4
+      with:
+        name: _site
+        path: _site
+        retention-days: 1
 
-      - name: Wait for server to start
-        run: |
-          (bundle exec jekyll serve --no-watch --skip-initial-build)&
-          while ! curl --silent http://localhost:4000
-          do sleep 1
-          done
+    - name: Wait for server to start
+      run: |
+        (bundle exec jekyll serve --no-watch --skip-initial-build)&
+        while ! curl --silent http://localhost:4000
+        do sleep 1
+        done
 
   axe:
     needs: [test]
