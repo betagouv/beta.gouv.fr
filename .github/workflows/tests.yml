@@ -133,7 +133,7 @@ jobs:
             killall -9 http-server
         env:
           URL: "http://127.0.0.1:8080"
-      - name: Test output
+      - name: Test output 1
         run: |
           {
             echo 'AXE_LOG<<EOF'
@@ -141,24 +141,24 @@ jobs:
             echo "${{steps.axe.outputs.stderr}}"
             echo 'EOF'
           } >> "$GITHUB_ENV"
-
-          # Wait for environment variable to be available
-          source "$GITHUB_ENV"
-
+      - name: Test output 2
+        run: |
+          echo "AXE_LOG:"
+          echo "$AXE_LOG"
+      - name: Test output 3
+        run: |
           # Process and save filtered output
           {
             echo 'AXE_DETAILS<<EOF'
             echo "$AXE_LOG" | sed -E 's/Testing http[^ ]* 0 violations found!//'
             echo 'EOF'
           } >> "$GITHUB_ENV"
-
-          # Wait for environment variable update
-          source "$GITHUB_ENV"
-
-          # Debug output
+      - name: Test output 4
+        run: |
           echo "AXE_DETAILS:"
           echo "$AXE_DETAILS"
-
+      - name: Test output 5
+        run: |
           # Check for violations and set error flag
           {
             echo 'AXE_ERROR<<EOF'
@@ -169,10 +169,10 @@ jobs:
             fi
             echo 'EOF'
           } >> "$GITHUB_ENV"
-
+      - name: Test output 6
+        run: |
           # Debug output
           echo "AXE_ERROR:"
-          source "$GITHUB_ENV"
           echo "$AXE_ERROR"
       - name: Comment pull request
         if: ${{ env.AXE_ERROR }}
