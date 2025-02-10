@@ -6,12 +6,18 @@ github: jondu33
 avatar: /img/authors/johnlabuzan.jpeg
 link: https://fair-fair.fr
 missions:
-  - start: 2019-07-02
-    end: 2024-05-31
+  - start: 2023-02-01
+    end: 2023-10-31
     status: independent
     employer: Numa
     startups:
-      - chauffage-urbain
+      - signalement
+  - start: 2024-04-01
+    end: 2025-05-10
+    status: independent
+    employer: Numa
+    startups:
+      - sante-psy-etudiant
 previously:
   - aides-territoires
   - jeveuxaider

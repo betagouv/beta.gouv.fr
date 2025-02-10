@@ -11,8 +11,8 @@ competences:
 missions:
   - start: 2025-02-10
     end: 2025-07-31
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - envergo
       - guichet-unique-de-la-haie-envergo-agricole

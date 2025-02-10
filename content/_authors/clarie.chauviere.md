@@ -8,7 +8,7 @@ competences:
   - UI
 missions:
   - start: 2024-09-23
-    end: 2025-02-28
+    end: 2025-04-30
     status: independent
     employer: DGCL
     startups:

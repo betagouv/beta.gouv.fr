@@ -7,7 +7,6 @@ competences:
 missions:
   - start: 2022-10-01
     end: 2025-12-31
-    employer: SGDSN
     status: admin
-    startups: []
+    employer: SGDSN
 ---

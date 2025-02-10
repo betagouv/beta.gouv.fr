@@ -6,7 +6,7 @@ link: https://bertrand-bougon.fr
 github: bbougon
 missions:
   - start: 2023-06-12
-    end: 2025-03-12
+    end: 2025-06-12
     status: independent
     startups:
       - mon-aide-cyber
