@@ -1,4 +1,4 @@
-name: Tests axe-core
+name: Tests
 
 on:
   push:
