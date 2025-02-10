@@ -137,24 +137,43 @@ jobs:
         run: |
           {
             echo 'AXE_LOG<<EOF'
-            echo "${{ steps.axe.outputs.stdout }}"
-            echo "${{ steps.axe.outputs.stderr }}"
+            echo "${steps.axe.outputs.stdout}"
+            echo "${steps.axe.outputs.stderr}"
             echo 'EOF'
-          } >> $GITHUB_ENV
+          } >> "$GITHUB_ENV"
+
+          # Wait for environment variable to be available
+          source "$GITHUB_ENV"
+
+          # Process and save filtered output
           {
             echo 'AXE_DETAILS<<EOF'
-            echo "$AXE_LOG" | sed "s/Testing\ http:.* 0 violations found\!//"
+            echo "$AXE_LOG" | sed -E 's/Testing http[^ ]* 0 violations found!//'
             echo 'EOF'
-          } >> $GITHUB_ENV
+          } >> "$GITHUB_ENV"
+
+          # Wait for environment variable update
+          source "$GITHUB_ENV"
+
+          # Debug output
           echo "AXE_DETAILS:"
           echo "$AXE_DETAILS"
+
+          # Check for violations and set error flag
           {
             echo 'AXE_ERROR<<EOF'
-            echo "$AXE_DETAILS" | grep "violations found" && echo "1" || echo "0"
+            if echo "$AXE_DETAILS" | grep -q "violations found"; then
+              echo "1"
+            else
+              echo "0"
+            fi
             echo 'EOF'
-          } >> $GITHUB_ENV
+          } >> "$GITHUB_ENV"
+
+          # Debug output
           echo "AXE_ERROR:"
-          echo $AXE_ERROR
+          source "$GITHUB_ENV"
+          echo "$AXE_ERROR"
       - name: Comment pull request
         if: ${{ env.AXE_ERROR }}
         uses: marocchino/sticky-pull-request-comment@v2
