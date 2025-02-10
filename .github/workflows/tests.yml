@@ -135,11 +135,15 @@ jobs:
           URL: "http://127.0.0.1:8080"
       - name: Test output
         run: |
-          echo "${{ steps.axe.outputs.stdout }}" > ./out.txt
-          echo "${{ steps.axe.outputs.stderr }}" >> ./out.txt
+          {
+            echo 'AXE_LOG<<EOF'
+            echo "${{ steps.axe.outputs.stdout }}"
+            echo "${{ steps.axe.outputs.stderr }}"
+            echo 'EOF'
+          } >> $GITHUB_ENV
           {
             echo 'AXE_DETAILS<<EOF'
-            cat ./out.txt | sed "s/Testing\ http:.* 0 violations found\!//"
+            echo "$AXE_LOG" | sed "s/Testing\ http:.* 0 violations found\!//"
             echo 'EOF'
           } >> $GITHUB_ENV
           echo "AXE_DETAILS:"
