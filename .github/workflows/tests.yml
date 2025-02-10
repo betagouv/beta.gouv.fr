@@ -139,14 +139,14 @@ jobs:
           echo "${{ steps.axe.outputs.stderr }}" >> ./out.txt
           {
             echo 'AXE_DETAILS<<EOF'
-            cat ./out.txt | sed "s/Testing\ http:.* 0 violations found!//"
+            cat ./out.txt | sed "s/Testing\ http:.* 0 violations found\!//"
             echo 'EOF'
           } >> $GITHUB_ENV
           echo "AXE_DETAILS:"
           echo "$AXE_DETAILS"
           {
             echo 'AXE_ERROR<<EOF'
-            echo "$AXE_DETAILS" | grep "violations found" && 1 || 0
+            echo "$AXE_DETAILS" | grep "violations found" && echo "1" || echo "0"
             echo 'EOF'
           } >> $GITHUB_ENV
           echo "AXE_ERROR:"
