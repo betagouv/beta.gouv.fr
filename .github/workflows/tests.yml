@@ -150,9 +150,12 @@ jobs:
           EOF
           chmod +x axe.py
           cat > axe.txt << EOF
-          "${{steps.axe.outputs.stdout}}"
-          "${{steps.axe.outputs.stderr}}"
+          ${{steps.axe.outputs.stdout}}
+          ${{steps.axe.outputs.stderr}}
           EOF
+          echo "---"
+          cat axe.py
+          echo "---"
           cat axe.txt | axe.py
 
       # - name: Test output 2
