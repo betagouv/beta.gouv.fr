@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2023-11-01
-    end: 2025-02-28
+    end: 2025-07-06
     status: admin
     startups:
       - monlyceepro

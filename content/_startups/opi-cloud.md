@@ -17,17 +17,13 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2024-07-10
-    end: null
   - name: construction
-    comment: null
     start: 2024-10-23
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2024-10-23
+link: ''
 ---
 ## Contexte/Problème
 
