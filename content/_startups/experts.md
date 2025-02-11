@@ -14,6 +14,9 @@ repository: https://git.anje-justice.fr/selexpert
 stats: true
 stats_url: https://selexpert.anje-justice.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/selexpert-anje-justice-fr/
+fast:
+  promotion: 15
+  montant: 110000
 thematiques:
   - Justice
 usertypes: []
