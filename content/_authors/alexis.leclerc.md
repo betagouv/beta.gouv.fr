@@ -10,6 +10,10 @@ missions:
     employer: malt
     startups:
       - api-entreprise
+  - start: 2025-01-01
+    end: 2025-12-31
+    status: admin
+    employer: SGDSN
 competences:
   - Gestion de Produit
   - Développement Backend
