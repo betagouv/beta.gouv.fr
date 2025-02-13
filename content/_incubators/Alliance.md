@@ -1,7 +1,7 @@
 ---
 title: ALLiaNCE
 short_description: Lancé en septembre 2024, cet incubateur accompagne les produits IA de l'État
-logo: 
+logo: logo_beta.png
 website: 'https://alliance.numerique.gouv.fr/'
 github: ''
 contact: alliance@mail.numerique.gouv.fr
