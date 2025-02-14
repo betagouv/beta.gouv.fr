@@ -52,8 +52,8 @@ structurer, manipuler, visualiser, diffuser et faire réutiliser ses données.
 Aujourd'hui, les agents qui utilisent déjà Grist se constituent en communautés
 de pratiques enthousiastes.
 
-Certaines usages émergent sur Grist, telles que modéliser ses propres
-processus de gestion de l'information, ou encore partager de modèles de
+Certaines usages émergent sur Grist, tels que modéliser ses propres
+processus de gestion de l'information, ou encore partager des modèles de
 documents.
 
 Si ces pratiques vertueuses se diffusent, alors l'usage de Grist permettra aux
