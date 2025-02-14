@@ -5,8 +5,12 @@ sponsors:
   - /organisations/dgesco
 incubator: dinum
 phases:
-  - name: acceleration
+  - name: investigation
+    start: 2022-10-01
+  - name: construction
     start: 2023-01-01
+  - name: acceleration
+    start: 2024-01-01
   - name: transfer
     start: 2024-12-01
 repository: https://github.com/mission-apprentissage/tjp-pilotage
@@ -24,6 +28,14 @@ thematiques:
   - Jeunesse
   - Travail / Emploi
 techno: []
+accessibility_status: partiellement conforme
+events:
+  - name: product_launch
+    date: 2023-04-15
+    comment: Présentation du MVP aux utilisateurs pilotes
+  - name: committee
+    date: 2024-06-20
+    comment: Décision de transférer le service à l'administration
 ---
 ## Orion, un service de la mission interministérielle Inserjeunes
 
@@ -53,6 +65,7 @@ Un service numérique contribuant au pilotage de l’évolution de la carte des 
 
 Actuellement, Orion propose à tous en accès public: 
 - Un panorama des formations par région, par département et par établissement ;
+- un panorama d'analyse des formations par domaine
 - Une console avec des données détaillées par établissement et par formation ; 
 - un POC sur le lien Emploi-Formation pour aider les décideurs à cibler les formations qui répondent à de forts besoins territoriaux ou à des enjeux sociétaux (transition écologique par exempleà
 

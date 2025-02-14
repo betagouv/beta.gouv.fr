@@ -15,7 +15,7 @@ link: https://datapass.api.gouv.fr
 repository: https://github.com/betagouv/datapass
 stats: true
 stats_url: https://datapass.api.gouv.fr/stats
-contact: contact@api.gouv.fr
+contact: datapass@api.gouv.fr
 usertypes:
   - collectivite-territoriale
   - entreprise
@@ -25,7 +25,8 @@ accessibility_status: partiellement conforme
 thematiques:
   - Outil technique
 analyse_risques: true
-techno: []
+techno:
+  - ruby
 ---
 ## Le problème
 
