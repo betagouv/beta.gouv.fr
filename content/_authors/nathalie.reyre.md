@@ -1,6 +1,6 @@
 ---
 fullname: Nathalie Reyre
-domaine: Produit
+domaine: Intraprenariat
 role: Intrapreneuse /Product Manager
 github: nathalie-reyre
 avatar: https://i.ibb.co/p2DjJdK/photo-cv.png

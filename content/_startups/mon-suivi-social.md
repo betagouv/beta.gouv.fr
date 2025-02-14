@@ -35,6 +35,9 @@ techno:
   - Typescript
 analyse_risques: true
 budget_url: https://flax-periwinkle-58c.notion.site/Budget-09ccd2141c15427b98ace25078cbec29?pvs=4
+fast:
+  promotion: 15
+  montant: 160000
 ---
 ## 🏗 Contexte/problème
 

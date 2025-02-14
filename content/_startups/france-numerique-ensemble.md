@@ -1,5 +1,5 @@
 ---
-title: France Numérique Ensemble
+title: Mon Inclusion Numérique
 mission: Piloter la politique d'inclusion numérique par la donnée
 sponsors:
   - /organisations/anct

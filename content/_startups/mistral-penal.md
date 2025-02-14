@@ -10,24 +10,27 @@ redirect_from:
   - /startups/T2BJustice
 events:
   - name: product_launch
-    date: 2022-02-01
+    date: 2022-06-30
     comment: Appel à projet du Ministère de la justice
   - name: committee
-    date: 2023-10-10
-    comment: Mise en sécurité pour le lancement de l'expérimentation
+    date: 2023-03-30
+    comment: Construction du MVP
   - name: committee
-    date: 2024-04-03
-    comment: Construction sur un périmètre de juridictions restreint.
+    date: 2023-10-10
+    comment: Lancement de l'expérimentation sous réserve des conditions de sécurité
+  - name: committee
+    date: 2024-04-04
+    comment: Validation du lancement de l'expérimentation
   - name: committee
     date: 2024-11-07
-    comment: Expérimentation du produit MISTRAL PENAL
+    comment: Premières preuves d'impact. Première phase de déploiement
 phases:
   - name: investigation
     start: 2022-06-29
     end: 2023-03-30
   - name: construction
     comment: Construction du MVP et test utilisateur sur des cas vidéos
-    start: 2024-11-06
+    start: 2023-03-30
 thematiques:
   - Justice
 analyse_risques: true
@@ -39,63 +42,67 @@ techno: []
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 link: ''
 ---
-## Contexte
+## **Contexte**
 
-- [Les enseignements des Etats généraux de la justice](http://www.justice.gouv.fr/plan-daction-pour-la-justice-13010/)
-  Le numérique : un levier pour améliorer l’efficience du pilotage de l’activité juridictionnelle (via une harmonisation et homogénéisation des pratiques)
+- [Les enseignements des États généraux de la justice](http://www.justice.gouv.fr/plan-daction-pour-la-justice-13010/) : le numérique comme levier d’amélioration de l’efficience du pilotage de l’activité juridictionnelle (via une harmonisation et une homogénéisation des pratiques).
+- Un enjeu de simplification des outils de travail : [Une volonté du Garde des Sceaux - Ministre de la Justice](http://www.presse.justice.gouv.fr/discours-10093/discours-de-2023-13026/presentation-du-second-plan-de-transformation-numerique-34759.html).
 
-- Un enjeu de simplification des outils de travail :
-  [Une volonté du Garde des sceaux - Ministre de la justice](http://www.presse.justice.gouv.fr/discours-10093/discours-de-2023-13026/presentation-du-second-plan-de-transformation-numerique-34759.html)
+## **Problème 🛠**
 
-## Problème 🛠
+À l’origine de l’investigation, le constat porte sur le manque de collaboration entre les outils utilisés, un partage d’informations peu fluide et une redondance dans la saisie des données. Ces irritants quotidiens peuvent entraîner une perte de plusieurs heures par semaine pour chaque agent en charge de manipuler les données, en particulier les greffiers.
 
-A l’origine de l’investigation, le constat se porte sur l’aspect peu collaboratif des outils utilisés, un partage d’information peu fluide, une redondance dans la saisie des données. Ces irritants quotidiens peuvent se traduire par la perte de plusieurs heures par semaine pour chaque agents en charge de manipuler les données) en particulier les greffiers.
+- La première période d’investigation a cherché à identifier comment rendre les intervenants de la chaîne pénale plus efficaces afin de réduire les délais d’exécution des jugements.
+- La seconde période d’investigation s’est concentrée sur la manière d’améliorer l’efficience du suivi et du pilotage des dossiers tout au long de la chaîne pénale.
 
-La première période d'investigation a cherché à identifier comment rendre plus efficace les intervenants de la chaîne pénale pour réduire les délais d'exécution des jugements.
+## **Apprentissages 🔎**
 
-La seconde période d'investigation a permis de s'interroger de savoir comment faire pour rendre plus efficient le suivi et le pilotage des dossiers tout au long de la chaîne pénale.
+- **Pour les greffiers** : il est essentiel de simplifier drastiquement la saisie des données sur l’ensemble de l’audience (éviter les copier-coller, synchroniser les documents et logiciels) et pas seulement le reporting. La simplification de la saisie est un prérequis pour améliorer les étapes suivantes (agrégation, lecture). Actuellement, les greffiers perdent entre 4 et 8 heures par semaine à télécharger des documents, ressaisir des données et naviguer entre des interfaces complexes pour vérifier les informations.
+- **Pour les Directeurs des services de greffe judiciaire (DSGJ)** : les enjeux sont de fiabiliser la saisie des données pour garantir leur qualité et de simplifier l’agrégation des tableaux (réduire les bugs et les risques d’erreurs de manipulation). L’objectif est de gagner du temps et d’assurer une remontée d’informations fiable.
+- **Pour les chefs de juridiction / chefs de cour** : il s’agit de favoriser le partage des bonnes pratiques en matière d’indicateurs, d’améliorer leur lisibilité pour faciliter leur exploitation et d’optimiser l’efficience du pilotage.
 
-## Apprentissages 🔎
+## **Nos partis pris 💡**
 
-- Pour les greffiers, il est plus important de simplifier drastiquement la saisie des données sur l’ensemble de l’audience (éviter les copier-coller, synchroniser les documents et logiciels) et pas uniquement le reporting. Simplifier la saisie des données est le pré-requis pour apporter des améliorations sur les étapes suivantes (agrégation, lecture)
-- Pour les Directeurs des services de greffe judiciaire, les enjeux sont de fiabiliser la saisie des données pour en garantir la qualité et de simplifier l’agrégation des tableaux (limiter les bugs et les risques d’une mauvaise manipulation). Cela afin de gagner du temps et garantir une remontée d’informations fiables
-- Pour les chefs de juridiction / chefs de cours, il y a des enjeux de partage des bonnes pratiques en matière d’indicateurs suivi de d’améliorer leur lisibilité afin de faciliter leur exploitation et d’améliorer l’efficience du pilotage.
+- Sortir de la logique **« le document contient la donnée »** pour adopter l’approche **« la donnée génère le document »**.
+- Simplifier la production des tableaux de bord est une opportunité pour alléger la charge de travail des greffiers.
+- Récupérer la donnée à la source (la note d’audience) afin de simplifier et automatiser son traitement.
 
-## Nos partis pris 💡
+## **Solution 🎯**
 
-- Sortir de la logique “le document contient la donnée”, mais, au contraire penser “la donnée génère le document”
-- Simplifier la production des tableaux de bord est une occasion pour simplifier le travail des greffiers
-- Récupérer la donnée à la source (la note d’audience) pour simplifier et automatiser ses différents traitements
+**MISTRAL Pénal** est un service numérique qui simplifie le suivi des dossiers pour les greffiers et automatise les activités de pilotage (statistiques) pour les DSGJ. Il leur permet de gagner du temps au quotidien et de se concentrer sur leurs activités à forte valeur ajoutée.
 
-## Solution 🎯
+MISTRAL Pénal améliore l’efficience du pilotage de l’activité juridictionnelle, de la saisie des données jusqu’à leur analyse.
 
-MISTRAL Pénal est un service numérique qui simplifie le suivi des dossiers pour les greffiers et automatise les activités de pilotage (statistiques) pour les DSGJ afin de leur faire gagner du temps au quotidien et leur permettre de se concentrer sur leurs activités à forte valeur ajoutée
+- **Pour les greffiers** : suppression des tâches de recopie et de bâtonnage, suivi de la progression grâce à une barre d’avancement du travail.
+- **Pour les DSGJ** : amélioration de la qualité des données et gain de temps dans la production des indicateurs, avec des statistiques toujours à jour.
+- **Pour les chefs de juridiction** : accès à des indicateurs plus lisibles et actionnables, pour une organisation optimisée.
 
-MISTRAL Pénal améliore l’efficience du pilotage de l’activité juridictionnelle, de la saisie de la donnée jusqu’à son analyse.
+## **Apprentissages de la phase de construction #1**
 
-- Pour les greffiers : gagnez du temps en supprimant les tâches de recopie de données et de bâtonnage, et suivez votre progression grâce à la barre d'avancement du travail
-- Pour les DSGJ : améliorez la qualité des données, et gagnez en temps et confort lors de la production des indicateurs, tout en ayant des statistiques toujours à jour
-- Pour les chefs de juridiction : bénéficiez d'indicateurs de meilleure qualité, plus lisibles et facilement actionnables, pour une organisation optimisée
+Le MVP a reçu un premier accueil positif des greffiers lors de sa prise en main sur un cas fictif, avec un gain estimé d’au moins **1h30 par semaine** sur le premier périmètre testé.
 
-## Apprentissage de la phase de construction #1 :
+## **Apprentissages de la phase de construction #2**
 
-Le MVP montre un potentiel de gain de temps important : Prioriser les fonctionnalités sur la base des retours utilisateurs pour maximiser le potentiel d’impact
+Cette phase s’est concentrée sur l’implémentation des éléments de sécurité permettant l’utilisation de MISTRAL Pénal en situation d’audience réelle.
 
-Trois fonctionnalités prioritaires pour enrichir la proposition de valeur de Mistral :
+## **Apprentissages de la phase de construction #3**
 
-- Saisie complète des décisions dans Mistral
-- Documents complémentaires (liées à l’exécution des peines)
-- Mettre à jour les données dans KSP en fin d’audience
+L’expérimentation à petite échelle auprès de **6 greffiers (5 tribunaux)** a mis en évidence :
 
-## Apprentissage de la phase de construction #2 :
+- Une solution **simple à utiliser** (note moyenne de **9/10**).
+- Une **forte envie d’adopter MISTRAL Pénal au quotidien** (note moyenne de **8,5/10**).
 
-La mise en oeuvre de l'expérimentation a nécessité de travailler sur les éléments de sécurité pour être utilisé en situation réelle. La majeure partie de cette phase y a été consacré.
-Les échanges avec les utilisateurs et les tests de prise en main confirment les apprentissages de la première phase
+**Bénéfices constatés** :
 
-## Objectifs Construction #3 :
+- **Préparation d’audience 5 fois plus rapide**, soit un gain de **2h à 2h30 par semaine**, permettant aux greffiers de se concentrer sur des tâches à plus forte valeur ajoutée.
+- **En audience** : gain de temps de quelques minutes, mais surtout **réduction du stress, meilleure concentration sur le contenu des dossiers et diminution du risque d’erreurs**.
 
-Lancement de l'expérimentation (les conditions sont désormais réunies) avec prise en main par les greffiers en situation réelle.
-Nos objectifs :
+Les pistes d’amélioration identifiées laissent envisager **un gain de temps supplémentaire d’au moins 4 heures par semaine et par greffier** :
 
-- confirmer le gain de temps du MVP sur la phase de préparation d'audience et au cours de l'audience.
-- Mise en oeuvre des fonctionnalités sur la fin d'audience (décision, générations de documents de sortie d'audience)
+- **2 heures** grâce aux améliorations de MISTRAL Pénal (saisie complète des décisions et génération automatique des documents de sortie d’audience).
+- **2 heures** grâce à une meilleure communication avec d’autres outils du ministère (hors périmètre d’action de MISTRAL Pénal).
+
+## **Objectifs pour la phase de construction #4**
+
+- **Améliorer le MVP** : gestion du mode hors ligne, saisie des décisions, amélioration continue et optimisation basée sur les retours utilisateurs.
+- **Déployer à plus grande échelle** : au moins **30 greffiers utilisateurs** et plus de **150 audiences couvertes**.
+- **Confirmer les gains de temps** observés.
