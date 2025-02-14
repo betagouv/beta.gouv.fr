@@ -30,6 +30,9 @@ usertypes:
   - etablissement-scolaire
 dashlord_url: https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
 accessibility_status: non conforme
+fast:
+  promotion: 15
+  montant: 200000
 thematiques:
   - Travail / Emploi
   - Jeunesse
