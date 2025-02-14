@@ -18,9 +18,11 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-22
+  - name: alumni
+    start: 2024-07-01
 events:
   - name: product_launch
-    date: 2024-10-04
+    date: 2024-03-01
 techno: []
 link: ''
 ---

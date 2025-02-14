@@ -13,8 +13,8 @@ competences:
 missions:
   - start: 2025-02-20
     end: 2025-09-03
-    employer: Pathtech
     status: independent
+    employer: Pathtech
     startups:
       - mobilic
 ---

@@ -15,6 +15,12 @@ missions:
     employer: MALT
     startups:
       - data-subvention
+  - start: 2025-02-10
+    end: 2025-05-10
+    status: independent
+    employer: Omnicité
+    startups:
+      - infomedicament
 memberType: beta
 link: https://www.linkedin.com/in/clemencespriet/
 competences:

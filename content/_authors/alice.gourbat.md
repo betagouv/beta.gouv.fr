@@ -17,7 +17,7 @@ missions:
     startups:
       - sndv_maritime
   - start: 2024-10-24
-    end: 2025-02-13
+    end: 2025-08-15
     status: independent
     employer: Little Big Connection
     startups:
