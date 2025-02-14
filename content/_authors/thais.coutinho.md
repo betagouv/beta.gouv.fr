@@ -1,7 +1,7 @@
 ---
 fullname: Thaïs COUTINHO
 role: Intrapreneuse - Designer
-domaine: Design
+domaine: Intraprenariat
 github: thaisetcoutinho
 missions:
   - start: 2024-01-07
