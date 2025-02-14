@@ -37,9 +37,14 @@ events:
     date: 2023-04-12
     comment: Comité de fin d'investigation
   - name: committee
-    date: 2024-07-01
+    date: 2023-10-13
+    comment: Validation du format de l'expérimentation
   - name: committee
-    date: 2024-10-13
+    date: 2024-07-01
+    comment: Validation des prestations et stratégique d'acquisition
+  - name: committee
+    date: 2025-01-21
+    comment: Communication des premiers résultats + exploration des modèles de financement
 ---
 ## Contexte
 Carte Verte s’inscrit dans un objectif de politique publique de réduction de l’empreinte environnementale des français et pose le constat suivant : l’empreinte environnementale de la consommation (“je mange”, “j’achète”) des citoyens est trop élevée et peu de dispositifs existent pour l’abaisser (contrairement aux champs des transports et du logement).

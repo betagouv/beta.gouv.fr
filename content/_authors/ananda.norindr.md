@@ -15,4 +15,3 @@ memberType: beta
 competences: []
 ---
 Développeur Fullstack - Software engineer curieux et créatif
-Indie game développeur et adepte de DIY sur mon temps libre.

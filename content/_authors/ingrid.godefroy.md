@@ -22,7 +22,7 @@ missions:
     startups:
       - monstage
   - start: 2024-10-31
-    end: 2025-06-30
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:

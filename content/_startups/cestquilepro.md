@@ -34,6 +34,7 @@ phases:
     start: 2023-09-11
   - name: construction
     start: 2024-03-04
+stats_url: https://cestquilepro.inserjeunes.beta.gouv.fr/stats
 ---
 ## Un service de la mission interministérielle Inserjeunes
 
