@@ -4,7 +4,7 @@ mon_service_securise: false
 contact: dcsca-nomad.correspondant.fct@intradef.gouv.fr
 repository: https://gitlab.com/nomad-optiflex
 link: https://nomad.defense.gouv.fr
-stats_url: https://nomad.defense.gouv.fr/tableau-de-bord/statistiques
+stats_url: https://nomad.defense.gouv.fr/statistiques
 thematiques:
   - Travail / Emploi
   - Patrimoine

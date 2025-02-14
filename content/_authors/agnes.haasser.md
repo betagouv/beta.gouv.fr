@@ -20,7 +20,7 @@ missions:
       - authentification
       - suite-numerique
   - start: 2024-09-16
-    end: 2025-02-28
+    end: 2025-09-30
     status: independent
     employer: La Zone
     startups:
