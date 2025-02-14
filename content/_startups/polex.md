@@ -21,6 +21,7 @@ phases:
     start: 2021-05-01
   - name: alumni
     start: 2022-05-02
+link: ''
 ---
 ## Lutter contre la fraude à l'examen du code
 

@@ -23,6 +23,7 @@ events:
   - name: end
     date: 2024-05-31
     comment: L'expérimentation d'une solution no code de la solution nous a appris que seul le ciblage des entreprises ne permet pas d'assurer le retour à l'emploi des profils promus. Les moyens utilisés pour présenter le profil et l'argumentaire pour valoriser le profil ainsi que le suivi ont une influence significative sur l'impact d'une promotion de profil. L'équipe a donc préconisé un arrêt de la startup au profit d'une passation détaillée des enseignements aux équipes travaillant sur «l'aller vers» les entreprises. Ces équipes pourront reprendre les enseignements dans les outils qui sont en cours de construction.
+link: ''
 ---
 ## Contexte
 

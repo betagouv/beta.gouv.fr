@@ -16,6 +16,7 @@ missions:
       - docurba
       - dossierfacile
       - envergo
+      - guichet-unique-de-la-haie-envergo-agricole
       - mediation.logement
       - mon-devis-sans-oublis
       - mon-diagnostic-artificialisation

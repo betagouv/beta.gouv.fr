@@ -19,6 +19,7 @@ contact: romain.perroud@def.gouv.fr
 thematiques:
   - Transports
 techno: []
+link: ''
 ---
 ## Contexte 
 Dans un contexte de réduction du parc automobile du ministère des Armées, le centre interarmées du soutien multiservices (CIM) multiplie les initiatives pour promouvoir de nouvelles offres de mobilité : covoiturage, mise à disposition de vélos à assistance électrique, réservation simplifiée et permanente (24/7) de véhicules partagés.

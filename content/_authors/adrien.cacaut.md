@@ -7,8 +7,8 @@ competences:
 missions:
   - start: 2024-12-16
     end: 2027-12-15
-    employer: PathTech
     status: admin
+    employer: PathTech
     startups:
       - sante-psy-etudiant
 ---

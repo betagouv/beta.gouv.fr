@@ -20,6 +20,7 @@ events:
   - name: product_launch
     date: 2024-10-09
 techno: []
+link: ''
 ---
 ## Contexte
 

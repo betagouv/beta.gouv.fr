@@ -11,6 +11,7 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+link: ''
 ---
 Diffuser la culture en territoire rural, en parallèle de l'implantation des Micro-folies et projets de cinéma local
 Collectivité sponsor : Bapaume

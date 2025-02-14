@@ -10,6 +10,7 @@ phases:
     start: 2024-03-27
 thematiques:
   - Entreprises
+link: ''
 ---
 ## Contexte
 

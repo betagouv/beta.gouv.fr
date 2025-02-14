@@ -13,6 +13,7 @@ stats: false
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
+link: ''
 ---
 ## Problème visé :
 En France, 44% des enfants n’ont pas accès à un mode d’accueil .

@@ -11,6 +11,7 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+link: ''
 ---
 Créer un portail citoyen numérique : en offrant au public la possibilité de gérer toutes ses relations avec les services de la CCTOVAL (inscription, information, demande, paiement des factures…) via une unique solution.
 Collectivité sponsor : 

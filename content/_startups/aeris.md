@@ -19,6 +19,7 @@ stats: false
 contact: jacob.carbonel@beta.gouv.fr
 usertypes:
   - entreprise
+link: ''
 ---
 En France, 45 000 installations industrielles sont régulièrement contrôlées par 1 500 inspecteurs de l'environnement.
 Plus de 2 500 de ces installations présentent des enjeux particuliers vis-à-vis de la qualité de l'air.

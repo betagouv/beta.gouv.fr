@@ -24,7 +24,7 @@ missions:
     startups:
       - recosante
   - start: 2023-01-01
-    end: 2025-03-01
+    end: 2025-04-30
     status: independent
     employer: Codeurs en Liberté
     startups:

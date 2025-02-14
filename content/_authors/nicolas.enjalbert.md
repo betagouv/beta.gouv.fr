@@ -1,25 +1,34 @@
 ---
 fullname: Nicolas Enjalbert
-domaine: Coaching
-role: Coach produit, entrepreneur associé
+domaine: Produit
+role: Directeur produit de l'équipe Envergo, coach produit
 github: nenj
 link: https://www.linkedin.com/in/nicolas-enjalbert/
 missions:
   - start: 2021-04-08
-    end: 2025-08-31
+    end: 2024-08-31
     status: independent
     employer: Malt
     startups:
       - data-inclusion
       - envergo
+      - guichet-unique-de-la-haie-envergo-agricole
       - rdv.insertion
+  - start: 2024-09-01
+    end: 2025-09-01
+    status: admin
+    employer: DINUM
+    startups:
+      - envergo
+      - guichet-unique-de-la-haie-envergo-agricole
 competences:
   - Coaching
   - UX
   - Gestion de Produit
   - Data Science
+  - Product strategy
 previously:
   - l-application-du-cej
   - carnet.de.bord
 ---
-Coach produit, directeur produit, designer de service
+Directeur produit, coach produit, designer de service

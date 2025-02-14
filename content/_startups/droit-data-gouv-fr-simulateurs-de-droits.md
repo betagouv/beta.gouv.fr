@@ -28,6 +28,7 @@ events:
   - name: committee
     date: 2024-12-04
 techno: []
+link: ''
 ---
 Vous êtes intéressé·e par :
 - Les parcours de demande d'aides,

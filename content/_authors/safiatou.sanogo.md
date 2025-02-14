@@ -15,9 +15,6 @@ missions:
     employer: Pôle emploi
     startups:
       - encyclopedie-des-metiers
-startups:
-  - mobiville
-  - encyclopedie-des-metiers
 competences:
   - Coaching
 ---

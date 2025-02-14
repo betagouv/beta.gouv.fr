@@ -14,6 +14,7 @@ phases:
     end: 2020-06-08
   - name: alumni
     start: 2020-06-08
+link: ''
 ---
 ## Le gaspillage du transport de scellés.
 

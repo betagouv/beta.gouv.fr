@@ -13,6 +13,7 @@ usertypes:
   - particulier
 thematiques:
   - Patrimoine
+link: ''
 ---
 ## Contexte 
 Le Ministère de la Culture pilote l’organisation d’une dizaine de manifestations nationales (Fête de la Musique, Nuit des Musées, Rendez-vous Jardins…) accueillant chaque année des milliers de visiteurs dans toute la France. Pour chacune de ces manifestations, un site est mis à disposition des utilisateurs pour la présenter et la promouvoir. Ces sites ont deux deux objectifs principaux : ils s’adressent d’une part aux organisateurs d’évènements pour leur permettre d’inscrire leurs évènements à la programmation de la manifestation et d’autre part au grand public pour consulter la programmation et préparer leur venue. 

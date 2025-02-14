@@ -13,6 +13,7 @@ phases:
     end: 2022-12-06
   - name: alumni
     start: 2022-12-07
+link: ''
 ---
 ## Contexte
 

@@ -10,9 +10,11 @@ missions:
     employer: Pôle Emploi
     startups:
       - maintenant
-  - start: 2020-03-20
-    end: 2020-06-30
+  - start: 2019-10-01
+    end: 2020-10-31
     status: independent
+    startups:
+      - eva
   - start: 2020-06-01
     end: 2020-10-01
     status: independent

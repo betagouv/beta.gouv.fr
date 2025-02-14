@@ -11,6 +11,7 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+link: ''
 ---
 Ameliorer la marketplace locale existante avec une mise en relation producteurs locaux / cantines scolaires en complément de la régie maraîchère (autosuffisance alimentaire, agriculture de proximité...)
 Collectivité sponsor : Épinal

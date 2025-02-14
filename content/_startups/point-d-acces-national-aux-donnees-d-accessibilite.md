@@ -25,6 +25,7 @@ events:
     date: 2024-12-20
     comment: Présentation de la solution au 1er cercle
 techno: []
+link: ''
 ---
 ## Contexte
 Toute politique publique vient avec son lot d’indicateurs pour en mesure l’impact. Dans le cas de l’accessibilité, il est difficile d’obtenir une vue d’ensemble des résultats des actions publiques car :

@@ -17,6 +17,7 @@ usertypes:
   - association
 thematiques: []
 techno: []
+link: ''
 ---
 ## Le contexte
 

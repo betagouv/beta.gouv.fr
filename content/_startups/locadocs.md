@@ -14,6 +14,7 @@ stats: false
 contact: ateliernumerique@culture.gouv.fr
 usertypes:
   - particulier
+link: ''
 ---
 ## Le contexte 
 Comment retrouver un jugement de divorce, un permis de construire ou encore un dossier scolaire ? Accéder à un document public (document administratif ou judiciaire) relève parfois du parcours du combattant pour les usagers.

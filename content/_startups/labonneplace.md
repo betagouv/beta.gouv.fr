@@ -21,6 +21,7 @@ contact: rachid.benabdelhak@pole-emploi.fr
 usertypes:
   - particulier
   - entreprise
+link: ''
 ---
 **Problème**
 

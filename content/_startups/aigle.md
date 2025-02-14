@@ -13,6 +13,8 @@ phases:
     start: 2023-05-01
   - name: construction
     start: 2024-01-15
+  - name: acceleration
+    start: 2025-02-01
 thematiques:
   - Écologie
   - Agriculture

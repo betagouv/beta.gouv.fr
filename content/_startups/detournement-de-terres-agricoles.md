@@ -21,6 +21,7 @@ phases:
   - name: alumni
     start: 2024-09-12
 techno: []
+link: ''
 ---
 ## Contexte
 

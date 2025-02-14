@@ -5,17 +5,21 @@ sponsors:
   - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
-contact: gps@inclusion.gouv.fr
+contact: contact.gps@inclusion.gouv.fr
 phases:
   - name: investigation
     start: 2023-12-05
+  - name: construction
+    start: 2024-11-04
 thematiques:
   - Travail / Emploi
 repository: https://github.com/gip-inclusion/les-emplois/
-stats_url: http://stats.inclusion.beta.gouv.fr/public/dashboard/477427ca-dd6c-4908-bbff-d6b21a82bb3c
+stats_url: https://docs.google.com/spreadsheets/d/1sHmFQDIodziQ-qhCmqAgT9G44qo0xT7QiYEAiVOLIPY/edit?pli=1&gid=338796691#gid=338796691
 usertypes: []
 techno:
   - django
+accessibility_status: partiellement conforme
+link: ''
 ---
 ## Le problème
 

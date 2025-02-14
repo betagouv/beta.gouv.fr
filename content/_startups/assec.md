@@ -23,6 +23,7 @@ usertypes:
   - entreprise
 thematiques: []
 techno: []
+link: ''
 ---
 ## Le problème de la gestion de la sécheresse
 

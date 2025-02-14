@@ -11,12 +11,14 @@ usertypes:
   - collectivite-territoriale
   - etat
 techno: []
-title: Équipements bio
+title: Filières Bio
 mission: Accompagner les collectivités dans l’identification et le développement de filières bio sur leur territoire
 incubator: agriculture
 sponsors:
   - /organisations/agriculture
 phases:
+  - name: investigation
+    start: 2024-09-12
   - name: construction
     start: 2024-12-16
 events:
@@ -24,6 +26,7 @@ events:
     date: 2024-09-13
   - name: committee
     date: 2024-11-18
+link: ''
 ---
 ## Contexte
 

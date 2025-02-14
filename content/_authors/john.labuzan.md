@@ -6,26 +6,18 @@ github: jondu33
 avatar: /img/authors/johnlabuzan.jpeg
 link: https://fair-fair.fr
 missions:
-  - start: 2019-07-02
-    end: 2025-06-30
+  - start: 2023-02-01
+    end: 2023-10-31
     status: independent
     employer: Numa
     startups:
-      - aides-territoires
-      - boursoloco
-      - chauffage-urbain
-      - collectif_objets
-      - conseillers-entreprises
-      - experts
-      - lannuaire.des.collectivites
-      - mediature
-      - mon.espace.collectivite
-      - monstage
-      - nosgestesclimat
-      - portail-rse
-      - romin
-      - sante-psy-etudiant
       - signalement
+  - start: 2024-04-01
+    end: 2025-05-10
+    status: independent
+    employer: Numa
+    startups:
+      - sante-psy-etudiant
 previously:
   - aides-territoires
   - jeveuxaider

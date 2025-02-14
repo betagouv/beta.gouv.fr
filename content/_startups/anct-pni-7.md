@@ -11,6 +11,7 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+link: ''
 ---
 Développer le concept de télémédecine auprès du public rural, en parallèle de la construction d'une nouvelle maison de santé
 Collectivité sponsor : Bapaume

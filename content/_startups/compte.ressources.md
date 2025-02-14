@@ -11,11 +11,18 @@ phases:
     start: 2023-02-15
   - name: construction
     start: 2024-06-14
+  - name: alumni
+    start: 2024-08-01
 thematiques:
   - Formation
 usertypes: []
 techno: []
 repository: https://forge.apps.education.fr/incubateur/projet/startup-d-etat/compte-ressources
+events:
+  - name: end
+    date: 2024-08-01
+    comment: 'Suite à une révision des priorités de la DNE, ce projet a été suspendu. '
+link: ''
 ---
 ## Contexte
 Pendant les États généraux du numérique pour l’éducation (2021) et lors travaux de concertation sur la stratégie du numérique pour l’éducation (2022), les enseignants et les chefs d’établissement ont signalé des difficultés pour acquérir des ressources pédagogiques numériques. 

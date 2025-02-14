@@ -21,6 +21,7 @@ usertypes:
   - entreprise
 thematiques: []
 techno: []
+link: ''
 ---
 Avec BoursOloco, l'objectif est d'accompagner les collectivités à  faciliter l’installation des porteurs des projets (commerçants, services …) sur  leur territoire pour (re)dynamiser le coeur des villes(programme action coeur de villes et petites villes de demain).
 

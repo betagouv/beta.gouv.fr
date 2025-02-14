@@ -20,6 +20,7 @@ stats: false
 contact: pierre-yves.darnaudet@ars-sante.fr
 usertypes:
   - entreprise
+link: ''
 ---
 ## TREMPLIN : Territoire REMPLacement INstallation
 *Rapprocher les professionnels de santé de leur futur territoire d’exercice*

@@ -341,7 +341,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
 </table>
 </div>
 
-<h3 id="plan-2024">Plan d'action 2024</h3>
+<h3 id="bilan-2024">Bilan 2024</h3>
 
 <div class="fr-table fr-table--no-caption">
 <table>
@@ -354,11 +354,14 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             <th>
                 <p><strong>Thématique</strong></p>
             </th>
+            <th>
+                <p><strong>Statut</strong></p>
+            </th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td colspan="2">
+            <td colspan="3">
                 <p><strong>Pour tous les périmètres</strong></p>
             </td>
         </tr>
@@ -369,6 +372,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             <td>
                 <p class="fr-tag">Tests automatisés</p>
             </td>
+            <td>
+                <p><strong>Fait.</strong> 3 sessions données (environ 40 personnes sensibilisées). La formation fait maintenant partie de notre catalogue régulier.</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -376,6 +382,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             </td>
             <td>
                 <p class="fr-tag">Documentation</p>
+            </td>
+            <td>
+                <p><strong>Fait partiellement.</strong> pendant nos formations, moments en présentiels, etc.</p>
             </td>
         </tr>
         <tr>
@@ -385,6 +394,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             <td>
                 <p class="fr-tag">Documentation</p>
             </td>
+            <td>
+                <p><strong>Pas commencé.</strong></p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -392,6 +404,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
+            </td>
+            <td>
+                <p><strong>En cours.</strong> Un groupe de travail a été initié. À continuer en 2025.</p>
             </td>
         </tr>
         <tr>
@@ -401,9 +416,12 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             <td>
                 <p class="fr-tag">Documentation</p>
             </td>
+            <td>
+                <p><strong>En cours.</strong> Le Pole Numérique Inclusif travaille sur un support de webinaire et/ou atelier.</p>
+            </td>
         </tr>
         <tr>
-            <td colspan="2">
+            <td colspan="3">
                 <p><strong>Périmètre 1 (produits internes à beta.gouv.fr)</strong></p>
             </td>
         </tr>
@@ -414,6 +432,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             <td>
                 <p class="fr-tag">Obligation légale</p>
             </td>
+            <td>
+                <p><strong>Fait partiellement.</strong> La <a href="https://espace-membre.incubateur.net/accessibilite">déclaration</a> est accessible aux personnes de la communauté.</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -421,6 +442,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
+            </td>
+            <td>
+                <p><strong>En cours. </strong> 7 tickets accessibilité ont été résolus sur 8. À continuer en 2025.</p>
             </td>
         </tr>
         <tr>
@@ -430,6 +454,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             <td>
                 <p class="fr-tag">Méthodologie</p>
             </td>
+            <td>
+                <p><strong>Fait.</strong></p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -438,9 +465,12 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             <td>
                 <p class="fr-tag">Conformité</p>
             </td>
+            <td>
+                <p><strong>Fait.</strong> Un audit et un contre-audit ont été fait. Le site est partiellement accessible : 99.8 % de conformité moyenne.</p>
+            </td>
         </tr>
         <tr>
-            <td colspan="2">
+            <td colspan="3">
                 <p><strong>Périmètre 2 (produits incubés à la DINUM)</strong></p>
             </td>
         </tr>
@@ -451,6 +481,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             <td>
                 <p class="fr-tag">Tests automatiques</p>
             </td>
+            <td>
+                <p><strong>En cours.</strong> 3 sessions données (environ 40 personnes sensibilisées) sur les périmètre 2 et 3.</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -458,6 +491,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
+            </td>
+            <td>
+                <p><strong>Abandonné.</strong> Suivi est difficile pour une valeur ajoutée pas assez pertinente.</p>
             </td>
         </tr>
         <tr>
@@ -467,6 +503,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             <td>
                 <p class="fr-tag">Obligations légales</p>
             </td>
+            <td>
+                <p><strong>À continuer.</strong> 26 % équipes (périmètre 2 et 3) ont lié un schéma pluriannuel à leur déclaration.</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -474,6 +513,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             </td>
             <td>
                 <p class="fr-tag">Méthodologie</p>
+            </td>
+            <td>
+                <p><strong>En cours.</strong> 96 personnes formées en 9 sessions (sur les périmètres 2 et 3). À continuer en 2025.</p>
             </td>
         </tr>
         <tr>
@@ -483,9 +525,12 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             <td>
                 <p class="fr-tag">Conformité</p>
             </td>
+            <td>
+                <p><strong>En cours.</strong> 6 équipes ont entamé une démarche d'accessibilité.</p>
+            </td>
         </tr>
         <tr>
-            <td colspan="2">
+            <td colspan="3">
                 <p><strong>Périmètre 3 (produits incubés dans le réseau)</strong></p>
             </td>
         </tr>
@@ -496,7 +541,16 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
             <td>
                 <p class="fr-tag">Méthodologie</p>
             </td>
+            <td>
+                <p><strong>Fait.</strong> 3 sessions données (environ 40 personnes sensibilisées). </p>
+            </td>
         </tr>
     </tbody>
 </table>
 </div>
+
+<h3 id="plan-2025">Plan d'action 2025</h3>
+
+<p>En cours de rédaction</p>
+
+

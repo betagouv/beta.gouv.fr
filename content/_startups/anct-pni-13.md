@@ -11,6 +11,7 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+link: ''
 ---
 Pérenniser la plateforme de mise en relation et d'entraide entre habitants développée pendant la crise sanitaire
 Collectivité sponsor : Épinal

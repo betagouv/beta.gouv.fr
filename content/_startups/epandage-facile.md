@@ -15,6 +15,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-04-22
+link: ''
 ---
 La Startup d'Etat est en début d'investigation. Nous reviendrons alimenter cette fiche en fin d'étape. 
 

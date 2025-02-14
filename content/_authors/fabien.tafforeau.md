@@ -5,7 +5,7 @@ role: Développeur Fullstack Js
 link: https://www.linkedin.com/in/ftaffore/
 missions:
   - start: 2019-05-14
-    end: 2025-01-31
+    end: 2026-01-31
     status: independent
     startups:
       - bases.adresses.locales
@@ -13,4 +13,5 @@ missions:
       - sepia
 competences:
   - Développement Frontend
+github: fufeck
 ---

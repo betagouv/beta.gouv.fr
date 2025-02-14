@@ -11,6 +11,7 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+link: ''
 ---
 **\> Redéfinition du schéma d’accueil du public sur la CCTOVAL, en approfondissant notamment les liens entre les Mairies et les Maisons France Services**
 

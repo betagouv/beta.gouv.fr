@@ -18,6 +18,7 @@ usertypes:
   - particulier
 thematiques: []
 techno: []
+link: ''
 ---
 ## Problème visé :
 Difficulté des usagers pour trouver le bons interlocuteurs (service / personne compétente) au sein du département.

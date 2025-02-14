@@ -16,6 +16,7 @@ usertypes:
 thematiques:
   - Formation
 techno: []
+link: ''
 ---
 **Imaginé dans le cadre du 3ème appel à candidatures du Ministère de la Culture (Atelier Numérique du Service du numérique), Science infuse est un assistant personnel à disposition des enseignants de sciences. Il permet de générer plus rapidement et facilement ses supports de cours en utilisant des contenus vérifiés et validés par Universcience. Photos, vidéos, assistance rédactionnelle, quizz : personnalisez vos supports de cours en quelques minutes.**
 

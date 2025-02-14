@@ -21,6 +21,7 @@ usertypes:
   - etablissement-scolaire
   - etat
 accessibility_status: non conforme
+link: ''
 ---
 Ce produit est transféré à la direction du numérique de l'éducation, qui se charge depuis juillet 2022 de sa maintenance et de son animation.
 

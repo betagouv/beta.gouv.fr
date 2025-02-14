@@ -14,7 +14,6 @@ missions:
       - cmachance
       - cnr
       - demarches-simplifiees.fr
-      - dossierfacile
       - envergo
       - estime
       - jeveuxaider
@@ -31,6 +30,12 @@ missions:
       - faritas
       - la-bonne-alternance
       - sites-faciles
+  - start: 2018-06-26
+    end: 2024-09-01
+    status: independent
+    employer: numa
+    startups:
+      - dossierfacile
   - start: 2023-12-01
     end: 2024-07-31
     status: independent

@@ -14,6 +14,7 @@ contact: contactincubateur@anct.gouv.fr
 usertypes:
   - particulier
   - etablissement-scolaire
+link: ''
 ---
 ## Problème: 1 million de repas perdus chaque année dans les restaurations scolaires
 Actuellement, 3 milliards de repas sont servis en restauration collective chaque année en France, 540 000 TONNES de nourritures jetées sont encore consommables. Cela représente 1 million de repas perdus chaque année dans les restaurations scolaires en France.  IL FAUT AGIR !!!

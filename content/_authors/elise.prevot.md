@@ -5,7 +5,7 @@ domaine: Produit
 link: https://www.linkedin.com/in/eliseprevot/
 missions:
   - start: 2022-11-16
-    end: 2025-02-28
+    end: 2025-03-31
     status: independent
     employer: BetaGouv
     startups:

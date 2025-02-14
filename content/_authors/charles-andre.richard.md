@@ -12,4 +12,5 @@ missions:
     employer: Direction interministérielle du numérique
     startups:
       - datalma
+github: DatAlma-CTO
 ---

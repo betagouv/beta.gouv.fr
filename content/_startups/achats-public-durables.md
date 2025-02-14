@@ -17,6 +17,7 @@ phases:
 events:
   - name: other
     date: 2025-01-17
+link: ''
 ---
 ## Contexte
 

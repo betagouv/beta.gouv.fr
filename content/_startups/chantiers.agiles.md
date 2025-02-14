@@ -18,6 +18,7 @@ events:
     date: 2023-02-03
 usertypes:
   - entreprise
+link: ''
 ---
 ## Le problème
 

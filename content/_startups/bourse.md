@@ -20,6 +20,7 @@ stats: false
 contact: contact@bourse.beta.gouv.fr
 usertypes:
   - particulier
+link: ''
 ---
 ## Abandon
 

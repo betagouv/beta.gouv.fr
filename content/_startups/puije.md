@@ -11,6 +11,7 @@ stats: false
 contact: mathieu.mahr@beta.gouv.fr
 thematiques:
   - Jeunesse
+link: ''
 ---
 ## Contexte  
 L’armée est l’un des plus gros employeurs du marché de l’emploi français et ses besoins de recrutement sont chiffrés. C’est une institution particulière, de par ses activités, son manque de transparence, les spécificités propres à ses armées, le recrutement de civils. L’offre professionnelle émanant des armées et du ministère des armées propose de nombreux métiers ainsi que des types de contrat divers (CDD/contrats courts, apprentissage, etc.). 

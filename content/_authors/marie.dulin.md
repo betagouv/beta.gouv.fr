@@ -10,6 +10,12 @@ missions:
     status: independent
     startups:
       - mistral-penal
+  - start: 2025-01-27
+    end: 2025-07-31
+    status: independent
+    employer: LBC
+    startups:
+      - mistral-penal
 memberType: beta
 ---
 Conceptrice passionnée et enthousiaste de produits utiles

@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: MALT
     startups:
-      - api-engagement
+      - jeveuxaider
   - start: 2022-09-01
     end: 2025-01-31
     status: independent
@@ -23,8 +23,6 @@ missions:
     startups:
       - 1-eleve-1-stage
       - monstage
-previously:
-  - jeveuxaider
 link: https://www.linkedin.com/in/merzouknassim/
 competences:
   - Croissance

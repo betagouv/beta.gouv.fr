@@ -18,6 +18,7 @@ usertypes:
   - particulier
 thematiques: []
 techno: []
+link: ''
 ---
 ## Problème visé :
 “un appel sur trois non traité”, “50% des appels non décrochés”, “73% des personnes que nous avons rencontrées lors d’entretien ont exprimé une difficulté d’orientation”, “50% des personnes qui ont souhaité rentrer en contact avec nos services ont été confrontées à des difficultés”...

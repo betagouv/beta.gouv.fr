@@ -19,6 +19,8 @@ phases:
     start: 2023-11-20
   - name: construction
     start: 2024-04-25
+  - name: acceleration
+    start: 2025-03-01
 events:
   - name: committee
     date: 2023-11-22
@@ -34,6 +36,7 @@ events:
   - name: committee
     date: 2024-07-04
     comment: Comité final TechMIUp
+link: ''
 ---
 ## Contexte
 

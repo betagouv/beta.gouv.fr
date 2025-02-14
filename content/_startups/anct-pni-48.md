@@ -11,6 +11,7 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+link: ''
 ---
 Acculturation de l'administration (300 agents) et des élus au "mode projet" et à de nouvelles méthodes de travail, plus transversales au sein de la collectivité
 Collectivité sponsor : Argelès-sur-Mer

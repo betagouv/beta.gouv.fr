@@ -14,6 +14,7 @@ stats: false
 contact: pierre.pezziardi@beta.gouv.fr
 usertypes:
   - entreprise
+link: ''
 ---
 ## Autoliquidation par prélèvement à la source des cotisations sociales des indépendants
 

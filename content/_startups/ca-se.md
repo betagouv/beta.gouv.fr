@@ -19,6 +19,7 @@ phases:
 events:
   - name: product_launch
     date: 2024-11-07
+link: ''
 ---
 CaSE pour Cartographie et Synthèse Espace
 

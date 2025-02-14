@@ -11,7 +11,7 @@ missions:
     startups:
       - cartobio
   - start: 2024-06-17
-    end: 2025-06-30
+    end: 2025-12-30
     status: independent
     employer: Omnicité
     startups:

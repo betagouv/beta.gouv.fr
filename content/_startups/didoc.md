@@ -18,6 +18,7 @@ phases:
   - name: alumni
     start: 2020-03-15
     end: 2022-06-01
+link: ''
 ---
 ## Contexte
 

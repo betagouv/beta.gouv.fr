@@ -11,6 +11,7 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+link: ''
 ---
 L'accueil numérique des personnes confrontées à des difficultés sociales dans le cadre du Premier Accueil Social Inconditionnel de Proximité (PASIP)
 Collectivité sponsor : 

@@ -11,12 +11,13 @@ missions:
     startups:
       - dotations-locales
   - start: 2024-10-25
-    end: 2025-01-31
+    end: 2025-04-30
     status: independent
     employer: Malt
     startups:
       - snu
 badges:
   - segur
+competences: []
 ---
 Développeur Python

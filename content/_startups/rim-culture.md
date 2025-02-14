@@ -14,4 +14,5 @@ stats: false
 contact: ateliernumerique@culture.gouv.fr
 usertypes:
   - etat
+link: ''
 ---

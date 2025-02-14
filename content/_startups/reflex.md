@@ -12,6 +12,7 @@ phases:
     end: 2022-11-24
   - name: alumni
     start: 2022-11-24
+link: ''
 ---
 ## Dans quel contexte on se situe
 

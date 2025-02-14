@@ -1,11 +1,11 @@
 ---
 fullname: Denis Baudot
-role: Lead Dev ISN/FAST
+role: Mentor/Référent tech ISN/FAST
 domaine: Développement
 github: dxb
 missions:
   - start: 2022-03-14
-    end: 2026-11-03
+    end: 2027-12-31
     status: admin
     employer: DINUM
 previously:

@@ -21,6 +21,7 @@ events:
   - name: committee
     date: 2024-10-18
     comment: Premier comité d'investissement avec la Direction de l'Asile
+link: ''
 ---
 ## Contexte
 

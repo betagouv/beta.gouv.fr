@@ -32,6 +32,7 @@ events:
   - name: other
     date: 2024-12-23
     comment: ' Création de la fiche produit'
+link: ''
 ---
 ## Contexte
 

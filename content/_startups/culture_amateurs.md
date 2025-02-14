@@ -18,6 +18,7 @@ contact: virginie.bedotti@culture.gouv.fr
 usertypes:
   - particulier
   - association
+link: ''
 ---
 ## Le contexte
 

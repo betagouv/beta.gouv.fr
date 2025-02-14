@@ -11,6 +11,7 @@ phases:
     start: 2021-11-01
 stats: false
 contact: contactincubateur@anct.gouv.fr
+link: ''
 ---
 L'EPL fab.t propose à VRA d'installer une méthode innovante d'évaluation inspirée de la théorie du Donut de Kate Raworth pour mesurer l'impact positif du projet de territoire de VRA. La proposition d'incubation consiste à mettre en œuvre un field test sur la thématique de l'alimentation.
 

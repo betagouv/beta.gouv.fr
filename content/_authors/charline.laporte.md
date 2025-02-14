@@ -12,7 +12,7 @@ missions:
     startups:
       - sndv_maritime
   - start: 2024-11-27
-    end: 2025-02-27
+    end: 2025-04-04
     status: independent
     employer: Scopyleft
     startups:

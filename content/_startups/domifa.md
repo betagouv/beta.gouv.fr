@@ -25,6 +25,7 @@ contact: contact.domifa@fabrique.social.gouv.fr
 usertypes:
   - association
   - collectivite-territoriale
+  - ccas
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/domifa-fabrique-social-gouv-fr/
 accessibility_status: partiellement conforme
 analyse_risques: true
@@ -36,34 +37,52 @@ techno: []
 ## Qu’est-ce que la domiciliation ? 
 
 **La domiciliation est un premier pas vers l’accès aux droits des personnes sans domicile stable.**
-Elle leur permet de disposer d'une adresse administrative où recevoir leur courrier et de faire valoir leurs droits civils, civiques et sociaux (comme la délivrance d’un titre national d’identité, l’inscription sur les listes électorales, l’accès à des aides sociales…).
+Elle leur permet de disposer d'une adresse administrative où recevoir leur courrier et de faire valoir leurs droits civils, civiques et sociaux (comme la délivrance d’un titre national d’identité, l’inscription sur les listes électorales, l’accès à des aides sociales…). test
 
 **Ce sont les communes, les centres communaux ou intercommunaux d’action sociale (CCAS ou CIAS) et les associations agréées qui réalisent la domiciliation.** Après avoir recueilli et instruit la demande du requérant, l’organisme vérifie qu’il satisfait aux conditions de délivrance et émet une attestation de domicile.
 
 Cette attestation est valable un an. Elle est soumise à la manifestation régulière du domicilié auprès de la structure et son renouvellement suppose qu’une demande en ce sens soit formulée avant le terme.
 
 ## Le problème ? 
-**Un processus complexe qui pose des problèmes de prise en charge.**
+**Le problème : un processus complexe qui freine la prise en charge sociale**
 
-Le processus de domiciliation pose plusieurs difficultés liées à l’absence d’outil de suivi commun. Du point de vue des structures, il est chronophage et se résume pour l’essentiel à des tâches de gestion des courriers comme des domiciliations. 
+La domiciliation administrative, pourtant essentielle pour l’accès aux droits des personnes sans domicile stable, est aujourd’hui freinée par un processus à la fois chronophage, inefficace et mal adapté aux besoins des différents acteurs.
 
-Certaines structures rencontrent également d’important problème de surcharge avec une augmentation continue du nombre de demandes. 
+**Pour les domiciliés :**
+
+- **Des délais importants dans le traitement des demandes** qui retardent l’accès aux droits fondamentaux (sécurité sociale, prestations sociales, etc.).
+- **Des pertes de données** qui aggravent des situations sociales déjà précaires et conduisent à des ruptures dans la prise en charge.
+- **Des déplacements multiples et injustifiés**, dus à un manque de communication fluide entre les structures et les usagers.
+
+**Pour les structures (CCAS, CIAS, organismes agréés) :**
+
+- **De faibles moyens dédiés** à l’activité de domiciliation, rendant difficile la gestion efficace des dossiers.
+- **Un processus chronophage, inefficace et non sécurisé**, où l’essentiel du temps est consacré à la gestion administrative (courrier, échéances) plutôt qu’à l’accompagnement social.
+- **Des difficultés à traiter l’ensemble des aspects liés à la domiciliation** (instruction des demandes, suivi des courriers, gestion des interactions) et à piloter cette activité de manière globale face à un nombre croissant du nombre de demandes.
+- **Un temps administratif disproportionné** qui pourrait être réorienté vers un accompagnement social de qualité.
+
+**Pour les services de l’État :**
+
+- **Des pratiques non homogènes entre les structures**, qui compliquent le suivi et l’analyse des données à l’échelle nationale.
+- **Un manque de coordination** qui entrave la capacité à piloter efficacement cette mission d’intérêt général.
+
+Ce constat met en évidence une nécessité : celle d’un outil moderne, centralisé et sécurisé pour simplifier le processus de domiciliation, alléger la charge des structures sociales et garantir un accès rapide et équitable aux droits pour les domiciliés.
 
 ## Notre solution
-**DomiFa : une Startup d’Etat qui permet de sécuriser le processus de domiciliation et de libérer du temps pour l’accompagnement social.**
+DomiFa est une plateforme en ligne qui permet de **sécuriser et optimiser la gestion des domiciliations administratives**. Elle permet de libérer du temps pour l’accompagnement social tout en garantissant un suivi efficace des bénéficiaires.
 
-Grâce à DomiFa, les structures en charge de la domiciliation peuvent suivre les dossiers plus facilement dans l’intérêt final des bénéficiaires.
+Grâce à DomiFa, vous bénéficiez d’une plateforme complète pour :
 
-La solution permet actuellement de dématérialiser une partie de la procédure de domiciliation et d’automatiser le suivi des dossiers. Elle s’adresse d’abord aux structures qui n’ont pas d’outils de suivi et rencontrent des problèmes de surcharge.
+✅ **Dématérialiser** **les processus qui sont au coeur de la domiciliation** : gestion des demandes, suivi des courriers et des passages, suivi des échéances, des renouvellements et des radiations.
 
+✅ **Suivre les dossiers plus facilement**, dans l’intérêt final des bénéficiaires, avec une gestion collaborative et centralisée.
 
-DomiFa permet aux structures de réaliser les fonctionnalités qui sont au cœur de la domiciliation :
-- Instruction et validation des demandes
-- Enregistrement des passages et des interactions 
-- Suivi du courrier reçu et distribué
-- Gestion des domiciliations et des échéances associées
+✅ **Réaliser votre rapport d’activité annuel** 
 
-A plus long terme, la solution intégrera d’autres services (communication avec les domiciliés, gestion des courriers, recherche statistiques…). 
+✅ **Simplifier les interactions avec les domiciliés grâce au portail domicilié et à l’envoi de SMS** :
+
+- Suivi en temps réel des courrier et accès en ligne à la situation administrative
+- SMS automatiques en cas de réception de courriers et d’arrivée à l’échéances
 
 ##  Vous souhaitez rejoindre DomiFa ?
 
@@ -79,13 +98,14 @@ DomiFa s’adresse aux CCAS, CIAS, communes et tout autre organisme agréé (ass
 
 ## Notre mesure d’impact
 
-Note de satisfaction des structures : 8,9 / 10
-Note de satisfaction des domiciliés : 4,2 / 5
+Note de satisfaction des structures : 8,9 / 10 (Etude août 2022)
+Note de satisfaction des domiciliés : 4,2 / 5 (Etude décembre 2023)
 
-Nombre de structures utilisatrices : 1498
-Nombre de domiciliés actifs accompagnés : 270 000
-Nombre total de dossiers enregistrés : 513 000
-Maintien d’un taux d’acheminement du courrier supérieur à 95%
+Avec plus de **600 000 dossiers gérées** et plus de **1500 structures actives** (CCAS, CIAS, associations), DomiFa simplifie et optimise le processus de domiciliation administrative. Grâce à son interface intuitive, la plateforme a permis de **réduire les délais de traitement**, d’améliorer la **sécurité des données** et de **libérer du temps pour l’accompagnement social**. 
+
+Les **notifications automatiques** et le **portail domicilié** renforcent la communication avec les bénéficiaires, facilitant leur accès aux droits.
+
+Rejoignez les milliers de structures qui utilisent déjà DomiFa pour un accompagnement plus humain et efficace.
 
 ## Nos objectifs
 

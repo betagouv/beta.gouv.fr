@@ -43,6 +43,7 @@ events:
     comment: Fin de 1ère campagne de dépôt
 stats_url: https://beta.gouv.fr/startups/faritas.html#Indicateurs-publics
 mon_service_securise: true
+link: ''
 ---
 ## Le problème: une inefficience dans la collecte et le reversement de la taxe de séjour par les plateformes numériques
 

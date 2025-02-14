@@ -22,6 +22,7 @@ techno:
 events:
   - name: committee
     date: 2025-01-17
+link: ''
 ---
 ## Contexte
 

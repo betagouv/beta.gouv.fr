@@ -19,6 +19,7 @@ contact: amd@finances.gouv.fr
 techno:
   - PostgreSQL
   - Angular
+link: ''
 ---
 ## Le problème : trop de temps perdu (et de stress) à consolider les projets de textes normatifs
 

@@ -8,6 +8,7 @@ sponsors:
 phases:
   - name: construction
     start: 2023-06-01
+link: ''
 ---
 ## Contexte
 

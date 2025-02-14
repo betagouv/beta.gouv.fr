@@ -9,6 +9,7 @@ missions:
     employer: MTE
     startups:
       - envergo
+      - guichet-unique-de-la-haie-envergo-agricole
 competences:
   - Administration Publique
 link: https://www.linkedin.com/in/adrien-plantureux-b03a01173/

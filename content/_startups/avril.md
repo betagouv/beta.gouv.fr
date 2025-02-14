@@ -4,7 +4,6 @@ mission: Obtenir un diplôme par la VAE grâce à ses compétences
 sponsors:
   - /organisations/francetravail
 incubator: francetravail
-link: https://avril.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/avril
 contact: avril@fabrique.social.gouv.fr
 usertypes:
@@ -21,6 +20,7 @@ phases:
     start: 2022-11-29
 thematiques: []
 techno: []
+link: ''
 ---
 Le produit AVRIL a été pérennisé au sein du service public [France VAE](https://beta.gouv.fr/startups/reva.html).
 

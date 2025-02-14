@@ -14,6 +14,7 @@ contact: contact@beta.interieur.gouv.fr
 robots: noindex
 usertypes:
   - particulier
+link: ''
 ---
 ## La frustration des victimes dans le suivi de leurs plaintes
 Après avoir déposé plainte au commissariat, la victime vit une expérience dégradée :

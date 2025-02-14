@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: Ofpra - DINUM
     startups:
-      - datasile.ou.ofpra.connect
+      - civil.ia
 memberType: beta
 competences:
   - Intrapreneur(se)

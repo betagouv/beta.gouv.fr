@@ -15,9 +15,22 @@ competences:
   - Metabase
   - PostgreSQL
   - Python
+  - Clean architecture
+  - TDD
+  - DDD
+  - Nest JS
+  - React
+  - Vite JS
+  - Node JS
+  - Infrastructure as  Code
+  - Terraform
+  - Terragrunt
+  - Helm
+  - Airbyte
+  - Kestra
 missions:
   - start: 2024-09-23
-    end: 2025-02-28
+    end: 2025-04-30
     status: service
     employer: Little Big Connection
     startups:

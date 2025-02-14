@@ -5,7 +5,7 @@ domaine: Développement
 github: alleytuna
 missions:
   - start: 2023-12-04
-    end: 2025-02-28
+    end: 2025-12-31
     status: service
     employer: Pathtech
     startups:
