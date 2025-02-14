@@ -14,10 +14,13 @@ phases:
 thematiques:
   - Jeunesse
   - Education
-usertypes: []
+  - Logement
+usertypes:
+  - Etudiants
+  - Boursiers
 techno: []
 repository: https://github.com/betagouv/mle-front
-link: https://monlogementetudiant.beta.gouv.fr/
+link: ''
 ---
 ## Contexte
 
@@ -36,3 +39,13 @@ L'offre est peu lisible car il existe une multitude de sites internet avec des o
 De la même manière, les aides financières au logement ne sont pas forcément bien connues, tant en ce qui concerne les dispositifs nationaux de la Caf et d'Action Logement que les dispositifs mis en place par les Collectivités Territoriales.
 
 Enfin, les démarches administratives peuvent être complexes et redondantes sur l'accès au logement (pièces similaires demandées de nombreuses fois) pour un public qui est en apprentissage de ces démarches administratives.
+
+
+## Solution
+
+Lancée en novembre 2024, la SE Mon Logement Etudiant a pour objectif à 6 mois de construire un service numérique accessible pour les futur⸱es étudiant⸱es, notamment boursier⸱es en proposant : 
+- la centralisation d'un maximum d'offres de logement des bailleurs sociaux,
+- un simulateur d'aides au logement,
+- des informations pour préparer leur budget en fonction de leur future ville de résidence.
+
+Nous testerons notre service auprès de futurs étudiants en Ile-de-France et en Auvergne-Rhône-Alpes. Nous mesurerons notre impact via le suivi du Net Promoter Score étudiant (% des futurs étudiants qui sont susceptibles de recommander Mon Logement Etudiant) et via le suivi du % d’étudiants ayant utilisé le simulateur d’aides et déclarant que cela les a aidés à mieux préparer leur budget.

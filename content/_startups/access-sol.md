@@ -12,13 +12,11 @@ sponsors:
   - /organisations/institut-national-de-recherche-pour-l-agriculture-l-alimentation-et-l-environnement
 phases:
   - name: investigation
-    comment: null
     start: 2025-02-13
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-02-13
+link: ''
 ---
 
 ## Contexte

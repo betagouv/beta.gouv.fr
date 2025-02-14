@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2025-02-12
     end: 2028-04-01
-    employer: DGITM
     status: admin
+    employer: DGITM
     startups:
       - preuve-de-covoiturage
 ---
