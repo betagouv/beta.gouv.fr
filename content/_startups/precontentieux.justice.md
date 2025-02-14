@@ -11,8 +11,8 @@ sponsors:
   - /organisations/mj
 thematiques:
   - Justice
-link: https://mon-indemnisation.anje-justice.fr
-repository: https://git.anje-justice.fr/se/precontentieux/modules/webapp
+link: https://mon-indemnisation.justice.gouv.fr/
+repository: https://github.com/betagouv/mon-indemnisation-justice/
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#PRECONTENTIEUX
 usertypes: []
 techno:

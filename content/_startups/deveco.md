@@ -28,6 +28,9 @@ phases:
 analyse_risques: false
 mon_service_securise: true
 techno: []
+fast:
+  promotion: 15
+  montant: 150000
 ---
 ## Le contexte
 
