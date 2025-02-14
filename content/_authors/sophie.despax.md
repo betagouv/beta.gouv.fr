@@ -16,5 +16,6 @@ missions:
     employer: Malt
     startups:
       - bases.adresses.locales
+      - bat-id
 ---
 Designer graphique

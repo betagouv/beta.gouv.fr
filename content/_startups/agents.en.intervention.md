@@ -6,7 +6,7 @@ sponsors:
 incubator: anct
 link: https://agentsenintervention.anct.gouv.fr
 repository: https://gitlab.com/incubateur-territoires/startups/agents-intervention/agents-en-intervention
-contact: servicesnumeriques@anct.beta.gouv.fr
+contact: agentsenintervention@anct.beta.gouv.fr
 accessibility_status: partiellement conforme
 thematiques:
   - Collectivités
