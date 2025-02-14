@@ -41,6 +41,9 @@ events:
   - name: committee
     date: 2024-10-15
     comment: Comité de fin de construction
+fast:
+  promotion: 15
+  montant: 30000
 ---
 ## Contexte
 
