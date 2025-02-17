@@ -6,7 +6,7 @@ link: https://christophe-henry.dev
 github: christophehenry
 missions:
   - start: 2021-03-09
-    end: 2025-03-03
+    end: 2025-04-03
     status: independent
     employer: Malt
     startups:

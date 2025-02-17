@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: octo
   - start: 2022-12-01
-    end: 2025-01-31
+    end: 2025-06-30
     status: independent
     employer: opteamis
     startups:
