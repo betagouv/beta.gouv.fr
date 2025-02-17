@@ -156,7 +156,7 @@ jobs:
           echo "---"
           cat axe.py
           echo "---"
-          cat axe.txt | axe.py
+          cat axe.txt | python axe.py
 
       # - name: Test output 2
       #   run: |
