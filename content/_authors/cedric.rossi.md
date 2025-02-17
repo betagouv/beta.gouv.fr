@@ -26,6 +26,12 @@ missions:
     employer: Malt
     startups:
       - dora
+  - start: 2025-02-20
+    end: 2025-08-20
+    status: independent
+    employer: Malt
+    startups:
+      - aquaculteurs.marins
 link: https://www.linkedin.com/in/cedric-rossi/
 competences: []
 ---

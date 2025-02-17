@@ -1,6 +1,6 @@
 ---
 fullname: Pénélope Liot
-domaine: Coaching
+domaine: Intraprenariat
 role: Directrice de produit numérique
 github: penelopel
 missions:

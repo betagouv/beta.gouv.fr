@@ -80,14 +80,14 @@ Téléchargez, dupliquez, partagez à volonté
 
 [Découvrir MonServiceSécurisé](https://www.monservicesecurise.cyber.gouv.fr/)
 
-## MONSERVICESÉ CURISÉ , SERVICE À IMPACT NATIONAL EN 2024
+## SERVICE À IMPACT NATIONAL EN 2024
 
 MonServiceSécurisé permet aujourd'hui de démultiplier la capacité des entités publiques à
 1. **Piloter le renforcement de la sécurité de leurs services** en proposant pour chaque service une évaluation de ses besoins de sécurité et une liste personnalisée de mesures de sécurité à mettre en oeuvre. Depuis son lancement, MonServiceSécurisé a permis de corriger +93 000 “faiblesses” (mesures de sécurité non préalablement mises en œuvre), renforçant d’autant leur protection contre les cybermenaces.
 2. **Se mettre en conformité avec la réglementation** (référentiel général de sécurité) en accélérant leur homologation de sécurité, processus essentiel sanctionné par une “décision d’homologation” validant que les services numériques concernés sont suffisamment sécurisés face aux risques contre lesquels une organisation souhaite se protéger, préalable leur mise en opération. MonServiceSécurisé permet de générer un premier dossier d’homologation en quelques minutes, qui constituera la base de la documentation nécessaire pour prouver la conformité d’un service aux exigences de sécurité.
 
-Ayant déjà permis de sécuriser plus de 3 800 services publics numériques, utilisé par la quasi totalité des grandes collectivités en France (Régions, départements, agglomérations, grandes communes, OPSN) et plusieurs ministères, Mon Service Sécurisé est devenu un outil de référence. Le tableau de bord statistique intégré est, en outre, particulièrement apprécié pour le suivi de la sécurité des systèmes d’information au sein des ministères, permettant une gestion proactive de la sécurité.
+Ayant déjà permis de sécuriser plus de 3 800 services publics numériques, utilisé par la quasi totalité des grandes collectivités en France (Régions, départements, agglomérations, grandes communes, OPSN) et plusieurs ministères, MonServiceSécurisé est devenu un outil de référence. Le tableau de bord statistique intégré est, en outre, particulièrement apprécié pour le suivi de la sécurité des systèmes d’information au sein des ministères, permettant une gestion proactive de la sécurité.
 
-La cybercriminalité représente un coût annuel substantiel pour la France, estimé à plusieurs dizaines de milliards d’euros. L’Agence nationale de la sécurité des systèmes d’information (ANSSI) estime, en outre, que le coût direct d’une cyberattaque majeure peut s’élever à plusieurs centaines de milliers.
+La cybercriminalité représente un coût annuel substantiel pour la France. L’Agence nationale de la sécurité des systèmes d’information (ANSSI) estime, en outre, que le coût de la réponse à une cyberattaque majeure peut s’élever à plusieurs centaines de milliers, sans inclure le coût de la gestion de ses conséquences sur les données et les processus impactés.
 
 Dans ce contexte, MonServiceSécurisé n’est pas seulement un outil mais une composante centrale de la lutte contre les cyberattaques. MonServiceSécurisé aide à prévenir ces incidents, rendant son déploiement non seulement justifié mais aussi économiquement avantageux, car éviter une seule attaque majeure peut couvrir ses coûts de production et de déploiement.

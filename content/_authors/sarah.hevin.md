@@ -15,6 +15,12 @@ missions:
     status: independent
     startups:
       - envergo
+  - start: 2024-07-01
+    end: 2027-08-17
+    status: admin
+    employer: Cerema
+    startups:
+      - bambin
 badges:
   - segur
 ---
