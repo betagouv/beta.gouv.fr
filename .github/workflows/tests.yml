@@ -149,15 +149,24 @@ jobs:
           )
           EOF
           chmod +x axe.py
-          cat > axe.txt << EOF
+          cat > axe.txt <<-EOF
           ${{steps.axe.outputs.stdout}}
           ${{steps.axe.outputs.stderr}}
           EOF
-          echo "---"
-          cat axe.py
-          echo "---"
+          {
+          echo 'AXE_DETAILS<<-EOF'
           cat axe.txt | python axe.py
-
+          echo 'EOF'
+          }  >> "$GITHUB_ENV"
+          {
+            echo 'AXE_ERROR<<-EOF'
+            if echo "$AXE_DETAILS" | grep -q "violations found"; then
+              echo "1"
+            else
+              echo "0"
+            fi
+            echo 'EOF'
+          } >> "$GITHUB_ENV"
       # - name: Test output 2
       #   run: |
       #     echo "AXE_LOG:"
@@ -165,7 +174,7 @@ jobs:
       # - name: Test output 3
       #   run: |
       #     # Process and save filtered output
-      #     {
+      #     
       #       echo 'AXE_DETAILS<<EOF'
       #       echo "$AXE_LOG" | sed -E 's/Testing http[^ ]*\n 0 violations found\!//'
       #       echo 'EOF'
