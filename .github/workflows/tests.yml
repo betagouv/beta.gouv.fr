@@ -138,13 +138,13 @@ jobs:
           cat > axe.py << EOF
           import sys
           import re
-
+          
           print(
               re.sub(
-                  r"\nTesting http.*\n 0 violations found!\n",
+                  r"Testing http.*?[\n\s]*0 violations found!\s*",
                   "",
                   "".join(sys.stdin.readlines()),
-                  re.S | re.DOTALL,
+                  count=re.S | re.DOTALL,
               )
           )
           EOF
