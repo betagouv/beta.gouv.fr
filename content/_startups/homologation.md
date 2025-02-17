@@ -1,7 +1,7 @@
 ---
 mission: Faciliter la sécurisation et l'homologation des services numériques
 incubator: lab-innov-anssi
-link: https://www.monservicesecurise.ssi.gouv.fr
+link: https://www.monservicesecurise.cyber.gouv.fr
 repository: https://github.com/betagouv/mon-service-securise
 contact: contact@monservicesecurise.beta.gouv.fr
 title: MonServiceSécurisé
@@ -80,7 +80,7 @@ Téléchargez, dupliquez, partagez à volonté
 
 [Découvrir MonServiceSécurisé](https://www.monservicesecurise.cyber.gouv.fr/)
 
-## MONSERVICESECURISE, SERVICE A IMPACT NATIONAL EN 2024
+## MONSERVICESÉ CURISÉ , SERVICE À IMPACT NATIONAL EN 2024
 
 MonServiceSécurisé permet aujourd'hui de démultiplier la capacité des entités publiques à
 1. **Piloter le renforcement de la sécurité de leurs services** en proposant pour chaque service une évaluation de ses besoins de sécurité et une liste personnalisée de mesures de sécurité à mettre en oeuvre. Depuis son lancement, MonServiceSécurisé a permis de corriger +93 000 “faiblesses” (mesures de sécurité non préalablement mises en œuvre), renforçant d’autant leur protection contre les cybermenaces.
@@ -88,6 +88,6 @@ MonServiceSécurisé permet aujourd'hui de démultiplier la capacité des entit�
 
 Ayant déjà permis de sécuriser plus de 3 800 services publics numériques, utilisé par la quasi totalité des grandes collectivités en France (Régions, départements, agglomérations, grandes communes, OPSN) et plusieurs ministères, Mon Service Sécurisé est devenu un outil de référence. Le tableau de bord statistique intégré est, en outre, particulièrement apprécié pour le suivi de la sécurité des systèmes d’information au sein des ministères, permettant une gestion proactive de la sécurité.
 
-La cybercriminalité représente un coût annuel substantiel pour la France, estimé à plusieurs dizaines de milliards d’euros. L’Agence nationale de la sécurité des systèmes d’information (ANSSI) estime, en outre, que le coût direct d’une cyberattaque majeure peut s’élever à plusieurs centaines de milliers et plus d’un million d’euros pas méga à l'aise de rendre cette info publique, sans inclure les pertes liées à la divulgation de données personnelles et sensibles.
+La cybercriminalité représente un coût annuel substantiel pour la France, estimé à plusieurs dizaines de milliards d’euros. L’Agence nationale de la sécurité des systèmes d’information (ANSSI) estime, en outre, que le coût direct d’une cyberattaque majeure peut s’élever à plusieurs centaines de milliers.
 
 Dans ce contexte, MonServiceSécurisé n’est pas seulement un outil mais une composante centrale de la lutte contre les cyberattaques. MonServiceSécurisé aide à prévenir ces incidents, rendant son déploiement non seulement justifié mais aussi économiquement avantageux, car éviter une seule attaque majeure peut couvrir ses coûts de production et de déploiement.

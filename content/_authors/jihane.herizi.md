@@ -1,7 +1,7 @@
 ---
 fullname: Jihane Herizi
-role: Co-animatrice du programme Startups d'État / Intrapreneure
-domaine: Animation
+role: 'Coach agile DINUM (OPI / CAMPUS) '
+domaine: Coaching
 missions:
   - start: 2017-10-11
     end: 2019-12-31
@@ -17,6 +17,7 @@ missions:
   - start: 2025-01-21
     end: 2025-07-16
     status: independent
+    employer: Malt
 badges:
   - segur
 github: jihanehrz
