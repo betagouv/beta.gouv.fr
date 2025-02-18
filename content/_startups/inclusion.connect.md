@@ -15,7 +15,9 @@ stats_url: http://stats.inclusion.beta.gouv.fr/public/dashboard/8895a813-68d0-4d
 phases:
   - name: construction
     start: 2022-07-01
-  - name: alumni
+  - name: acceleration
+    start: 2023-10-01
+  - name: transfer
     start: 2024-12-31
 thematiques:
   - Inclusion numérique
@@ -66,4 +68,4 @@ Avant la fusion avec ProConnect, Inclusion Connect a atteint 45 500 utilisateurs
 Après un peu plus de 2 années d'existence et de croissance, Inclusion Connect a fusionné avec ProConnect, la solution d'authentification des professionnels portée par la DINUM.
 L'objectif étant de gagner en lisibilité pour les utilisateurs (1 "Connect" unique pour les professionnels) et à mutualiser les investissements publics sur le sujet de l'authentification.
 
-Rapport de fusion disponible sur ce [https://docs.google.com/document/d/1AtQ12X5RBWz4jaHSyAx9dyYgzd1A3ciW_o484lEhNYM/edit?usp=sharing]() 
+Rapport de fusion disponible sur ce [https://docs.google.com/document/d/1S8QtPhHMe4_8Ugi312Wu4CamK_XlxzX3K5x3EWZURB4/edit?usp=sharing]() 

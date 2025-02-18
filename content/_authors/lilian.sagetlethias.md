@@ -31,6 +31,7 @@ missions:
 incubator: ademe
 teams:
   - /teams/ademe
+  - /teams/agriculture-equipe-transverse
 previously:
   - archifiltre
   - egalite.professionnelle
@@ -42,4 +43,4 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
 ---
-CTO Incubateur de l'ADEME | <br/> ex-Coach Tech Incubateur @SocialGouv | <br/> ex-CTO @Simbel | <br/> [Paris Deno](https://deno.paris) organizer
+CTO Incubateurs de l'ADEME & du MASA | <br/> ex-Coach Tech Incubateur @SocialGouv | <br/> ex-CTO @Simbel | <br/> [Paris Deno](https://deno.paris) organizer

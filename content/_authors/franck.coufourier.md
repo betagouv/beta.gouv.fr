@@ -23,11 +23,16 @@ missions:
     startups:
       - signaux-faibles
   - start: 2021-12-14
-    end: 2025-02-28
+    end: 2023-02-28
     status: independent
     employer: littlebigconnection+cadresenmission
     startups:
       - recosante
+  - start: 2023-03-01
+    end: 2025-07-31
+    status: independent
+    employer: littlebigconnection+cadresenmission
+    startups:
       - romin
 competences: []
 ---

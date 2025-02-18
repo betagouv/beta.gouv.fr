@@ -34,6 +34,12 @@ missions:
     employer: Little Big Connection
     startups:
       - deveco
+  - start: 2025-02-01
+    end: 2025-04-30
+    status: independent
+    employer: Data.gouv.fr
+    startups:
+      - data.gouv.fr
 competences:
   - Communication
   - Marketing

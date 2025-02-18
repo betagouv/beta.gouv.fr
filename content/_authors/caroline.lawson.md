@@ -5,12 +5,11 @@ role: Recherche UX
 github: caroline-lawson
 missions:
   - start: 2021-01-26
-    end: 2025-02-28
+    end: 2025-03-31
     status: independent
-    employer: Malt
+    employer: /UT7
     startups:
       - notifications-v2
-      - oots.once-only.technical.system
 competences:
   - UX
 previously:
