@@ -6,11 +6,12 @@ link: https://www.linkedin.com/in/nikolas-guegan/
 competences:
   - Croissance
   - Facilitation
+  - Déploiement
 missions:
   - start: 2025-02-10
     end: 2025-05-10
-    employer: LittleBigConnection
     status: independent
+    employer: LittleBigConnection
     startups:
       - deveco
 ---

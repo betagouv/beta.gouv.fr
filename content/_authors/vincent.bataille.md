@@ -37,4 +37,6 @@ missions:
     end: 2025-06-30
     status: independent
     employer: Dynergie
+    startups:
+      - access-sol
 ---

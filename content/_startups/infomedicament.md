@@ -15,8 +15,11 @@ thematiques:
 usertypes:
   - particulier
 repository: https://github.com/betagouv/infomedicament
-techno: []
+techno:
+  - next.js
 link: https://infomedicament.beta.gouv.fr/
+mon_service_securise: true
+dashlord_url: https://dashlord.incubateur.net/url/infomedicament-beta-gouv-fr/
 ---
 ## Contexte 
 

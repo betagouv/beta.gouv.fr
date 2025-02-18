@@ -42,10 +42,13 @@ phases:
   - name: success
     start: 2023-06-30
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#Base-Adresse-Nationale
-thematiques: []
+thematiques:
+  - Collectivités
+  - Open-Data
+  - Territoires
 techno: []
 ---
-La Base Adresse Nationale est une des neuf bases de données du service public des données de référence et a pour vocation de référencer l'ensemble des adresses du territoire national. Service numérique d’usage partagé et infrastructure socle sur laquelle sont adossées de nombreuses politiques publiques, elle fait partie du système d’information et de communication de l’État.
+La Base Adresse Nationale est une des neuf bases de données du service public des données de référence et a pour vocation de référencer l'ensemble des adresses du territoire national. Service numérique partagé et infrastructure socle sur laquelle sont adossées de nombreuses politiques publiques, elle fait partie du système d’information et de communication de l’État.
 
 Elle est le fruit de la collaboration de :
 
@@ -58,8 +61,8 @@ Sa construction est assurée grâce à de nombreux partenaires, et en premier li
 
 La Base Adresse Nationale est accessible sous forme de fichiers et d’API.
 
-Par ailleurs, la plateforme BAN met à disposition des outils complémentaires gratuits pour faciliter la mise à jour de la base et sa réutilisation :
+Par ailleurs, la plateforme BAN (adresse.data.gouv.fr) met à disposition des outils complémentaires gratuits pour faciliter la mise à jour de la base, et sa réutilisation :
 
 - l'outil de création des BAL et intégration  dans la BAN : [Mes-Adresses](https://mes-adresses.data.gouv.fr/)
-- une [API de géocodage](https://api.gouv.fr/api/base-adresse-nationale.html) qui permet aussi de faire de l'auto-complétion ; et
-- une application mobile qui permet à chacun de contribuer au référentiel _(à venir)_.
+- une [API de géocodage](https://api.gouv.fr/api/base-adresse-nationale.html) qui permet aussi de faire de l'auto-complétion.
+
