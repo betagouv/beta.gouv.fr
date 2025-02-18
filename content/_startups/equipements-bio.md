@@ -30,40 +30,33 @@ link: ''
 ---
 ## Contexte
 
-L’objectif du gouvernement d’atteindre 18% des surfaces agricoles en bio en 2027 implique un développement de la production et de la consommation en bio - produits bruts et produits transformés. Pour un grand nombre de productions, une ou plusieurs étapes de transformation sont nécessaires avant d’arriver à un produit fini bio. La structuration des filières bio est donc un enjeu majeur dans l’atteinte de cet objectif.
-
 L’Agence Bio est un groupement d’intérêt public (GIP) co-géré par le ministère de l’Agriculture et de la Souveraineté Alimentaire et par le ministère de la Transition Ecologique. Ses missions sont d’ « informer », d’ « analyser » et de
-« financer » le secteur bio - via le Fonds Avenir Bio de soutien aux projets de filière. D’autres acteurs participent à ce même objectif, comme France Agrimer (qui met en œuvre des politiques d’aides), les Interbios, les interprofessions, et plus récemment certaines collectivités qui veulent s’impliquer dans la structuration de filières (métropoles de Lyon et Paris, PAT…). 
+« financer » le secteur bio - via le Fonds Avenir Bio de soutien aux projets de filières. Pour allouer au mieux l'argent public de ce fond, l'Agence Bio a besoin de savoir si des équipements similaires existent a proximité et si le territoire a besoin d'un tel équipement. 
+
+Durant la phase d'investigation nous avons cherché à savoir si d'autres acteurs de la structuration de filière ont des besoin similaires à ceux énoncés par l'Agence Bio. 
 
 ## Problème
 
-Il n’y a pas assez d’initiatives et d’aboutissement de projets de filières bio dans les territoires 
+Certains acteurs manquent d’informations complètes et à jour pour identifier et développer des projets de développement de filières - menant à une plus grande résilience alimentaire des territoires.
 
 ## Cibles
-++Principales++ : Collectivités (surtout échelles inter territorial / intercommunal + communes) et Financeurs (FAB, Régions, Agences de l’eau, DRAAF….)
-++Secondaires++ : Porteurs projets / Coopératives / Agriculteurs, Structures d’accompagnement de la bio, Recherche
+**Principales** : les collectivités (surtout chargés de PAT), les structures d'accompagnement (GAB, FRAB, CIVAM, Chambres d'agriculture...) et les financeurs (FAB, Régions, Agences de l’eau, DRAAF, privés….)
 
+**Secondaires** : Porteurs projets / Coopératives / Agriculteurs, Recherche
 
 
 ## Solution
+*Durant la phase de prototype (janvier à mars 2025), nous nous focalisons sur la filière Légumineuses en Occitanie*
 
-Le produit permettra aux utilisateurs de visualiser les filières présentes sur son territoire. Les grandes fonctionnalités du produit imaginé à ce jour :
+Le produit permettra aux utilisateurs de visualiser la filière et ses acteurs sur le territoire : 
+- Production (CartoBio, RPG, CUMA, sièges d'exploitations agricole Bio...)
+- Stockage et outils de transformation (Annuaire  Bio, données FILEG, autres données DGAL, FAM..)
+- Consommation (Annuaire Bio + ma-cantine..)
 
-1/ Visualisation des différents maillons de la chaîne :
-- Production avec Carto Bio
-- Stockage et outils de transformation avec les données de l’Annuaire + autres données (DGAL, FAM..)
-- Consommation (distribution, restauration collective…) avec l’Annuaire + autres données (ma-cantine..)
-
-2/ Possibilités de filtrer les productions et équipements par filières pour faire ressortir les liens qui peuvent être faits sur le territoire
-
-3/ Etablissement de recommandations sur des filières à développer : manque d’outil ou nouvelle filière porteuse par exemple
-
-4/ Mise en relation avec les personnes ressources sur le territoire (Interbio, GAB/FRAB..)
-
-5/ Outil de suivi des surfaces / équipements bio sur le territoire dans le temps (rapport annuel, notification des nouveaux certifiés bio sur la zone…)
+Nous envisageons la possibilité de filtrer sur son territoire, de faire ressortir des données agrégées et de faire des mise en relation avec les personnes ressources sur le territoire (Interbio, GAB/FRAB..)
 
 ## Stratégie
 
-Test d’un prototype de solution et l’évaluation de l'intérêt des collectivités pour la proposition de valeur sur 1 ou 2 régions & 2 filières. Cette phase de prototypage dure 3 mois
+La phase de test de ce prototype conduira à entrer dans une phase de construction (ou non) a la fin mars 2025
 
 
