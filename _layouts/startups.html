@@ -14,7 +14,7 @@ layout: default
           {% assign incubator = incubators | where:'id', incubator_id | first %}
           { "id"        : "{{ startup.id | remove: '/startups/' }}"
           , "type"      : "startup"
-          , "phase": "{{ status }}"
+          , "phase": "{{ phase.status }}"
           , "incubator_id" : "{{startup.incubator}}"
           , "incubator_title": "{{ incubator.title }}"
           , "sponsors": [{% for sponsorId in startup.sponsors %}
