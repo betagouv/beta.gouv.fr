@@ -11,4 +11,6 @@ missions:
       - la-bonne-boite
 competences:
   - Gestion de Produit
+teams:
+  - /teams/francetravail-animation
 ---

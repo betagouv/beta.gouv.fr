@@ -8,4 +8,6 @@ missions:
     status: admin
     startups:
       - competence.validee
+teams:
+  - /teams/francetravail-animation
 ---

@@ -15,5 +15,5 @@ competences:
   - Administration Publique
   - Gestion de Produit
 teams:
-  - /teams/animation-dinum
+  - /teams/fabrique-dgfip-responsable-de-portefeuille
 ---

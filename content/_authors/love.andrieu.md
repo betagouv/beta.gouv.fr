@@ -25,6 +25,8 @@ badges:
   - segur
 competences:
   - Administration Publique
+teams:
+  - /teams/fabrique-dgfip-animation
 ---
 Attachée principale d'administration 
 Ex - intrapreneur des 1000 premiers jours 

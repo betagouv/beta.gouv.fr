@@ -23,4 +23,5 @@ badges:
   - segur
 teams:
   - /teams/dinum-incubateur
+  - /teams/menj-responsable-de-portefeuille
 ---

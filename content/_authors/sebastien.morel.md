@@ -21,4 +21,6 @@ missions:
     startups:
       - 1-eleve-1-stage
       - monstage
+teams:
+  - /teams/menj-animation
 ---

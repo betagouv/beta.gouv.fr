@@ -26,5 +26,6 @@ badges:
   - segur
 teams:
   - /teams/dinum-incubateur
+  - /teams/fabrique-dgfip-responsable-de-portefeuille
 ---
 Ex-intra DossierFacile, numérique et aménagement. Sport et musique. "Qui veut voyager loin ménage sa monture."

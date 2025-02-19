@@ -8,4 +8,6 @@ missions:
     end: 2030-04-30
     status: admin
     employer: DINUM
+teams:
+  - /teams/al-lia-nce-animation
 ---

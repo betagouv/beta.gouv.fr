@@ -27,6 +27,7 @@ missions:
 badges:
   - segur
 teams:
+  - /teams/accelerema-responsable-de-portefeuille
   - /teams/ademe
   - /teams/dinum-incubateur
 competences: []

@@ -12,4 +12,6 @@ missions:
     end: 2025-04-21
     status: independent
 competences: []
+teams:
+  - /teams/francetravail-animation
 ---
