@@ -192,4 +192,9 @@ layout: default
   document.querySelectorAll(".select-impact").forEach((selectElement) => {
     createNationalImpactSelect(selectElement, data, nationalImpactValue);
   });
+
+ filters.excludeInvestigations = urlParams.get("exclude-investigations") == "true";
+
+ setupExcludeInvestigations();
+
 </script>

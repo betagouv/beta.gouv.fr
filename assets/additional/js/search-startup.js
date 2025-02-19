@@ -116,8 +116,14 @@ const filterCards = (startups) => {
     )
     .filter((startup) =>
       filters.is_national_impact ? startupHasNationalImpact(startup) : true,
+    )
+    .filter((startup) =>
+      filters.excludeInvestigations ? startupIsNotInvestigation(startup) : true,
     );
 };
+
+const startupIsNotInvestigation = (startup) =>
+  startup.phase !== "investigation";
 
 const startupHasNationalImpact = (startup) =>
   startup.events.find((event) => event.name === "national_impact");
@@ -238,16 +244,10 @@ const createIncubatorSelect = (selectElement, data, incubators, initValue) => {
     selectElement.value = initValue;
     onIncubatorChange(initValue);
   }
-  selectElement.addEventListener("change", (e) => {
-    const value = e.target.value;
+  selectElement.addEventListener("change", ({ target: { value } }) => {
     onIncubatorChange(value);
-    const urlParams = new URLSearchParams(window.location.search);
-    urlParams.set("incubateur", value);
-    history.replaceState(
-      null,
-      null,
-      `${window.location.origin + window.location.pathname}?${urlParams}`,
-    );
+
+    setLocationParam("incubateur", value);
   });
 };
 
@@ -274,13 +274,8 @@ const createUsertypesSelect = (selectElement, data, initValue) => {
   selectElement.addEventListener("change", (e) => {
     const value = e.target.value;
     onUsertypesChange(value);
-    const urlParams = new URLSearchParams(window.location.search);
-    urlParams.set("usertypes", value);
-    history.replaceState(
-      null,
-      null,
-      `${window.location.origin + window.location.pathname}?${urlParams}`,
-    );
+
+    setLocationParam("usertypes", value);
   });
 };
 
@@ -303,16 +298,10 @@ const createThematiquesSelect = (selectElement, data, initValue) => {
     selectElement.value = initValue;
     onThematiquesChange(initValue);
   }
-  selectElement.addEventListener("change", (e) => {
-    const value = e.target.value;
+  selectElement.addEventListener("change", ({ target: { value } }) => {
     onThematiquesChange(value);
-    const urlParams = new URLSearchParams(window.location.search);
-    urlParams.set("thematiques", value);
-    history.replaceState(
-      null,
-      null,
-      `${window.location.origin + window.location.pathname}?${urlParams}`,
-    );
+
+    setLocationParam("thematiques", value);
   });
 };
 
@@ -327,15 +316,31 @@ const createNationalImpactSelect = (selectElement, data, initValue) => {
     }, 1000);
     onNationalImpactChange(true);
   }
-  selectElement.addEventListener("change", (e) => {
-    const value = selectElement.checked;
+  selectElement.addEventListener("change", ({ target: { value } }) => {
     onNationalImpactChange(value);
-    const urlParams = new URLSearchParams(window.location.search);
-    urlParams.set("national_impact", value);
-    history.replaceState(
-      null,
-      null,
-      `${window.location.origin + window.location.pathname}?${urlParams}`,
-    );
+
+    setLocationParam("national_impact", value);
   });
 };
+
+function setLocationParam(param, value) {
+  const url = new URL(window.location);
+
+  url.searchParams.set(param, value);
+
+  history.replaceState(null, null, url);
+}
+
+function setupExcludeInvestigations() {
+  const toggle = document.getElementById("exclude-investigations-toggle");
+
+  toggle.checked = filters.excludeInvestigations;
+
+  toggle.addEventListener("change", ({ target: { checked: value } }) => {
+    filters.excludeInvestigations = value;
+
+    setLocationParam("exclude-investigations", value);
+
+    updateCards(data);
+  });
+}
