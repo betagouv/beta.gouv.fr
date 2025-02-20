@@ -2,7 +2,7 @@
 mission: Faciliter les démarches des agriculteurs
 incubator: agriculture
 title: Identité numérique agricole
-contact: adrien.laville@beta.gouv.fr
+contact: liste-equipe-transverse@agriculture.gouv.fr
 thematiques:
   - Agriculture
   - Entreprises
@@ -15,7 +15,18 @@ sponsors:
 phases:
   - name: alumni
     start: 2024-06-18
+  - name: investigation
+    start: 2025-02-20
 techno: []
+events:
+  - name: committee
+    date: 2024-09-20
+    comment: |-
+      intrapreneur parti du MASA
+      blocage des arbitrages budgets
+  - name: product_launch
+    date: 2025-02-20
+    comment: la Ruche remet en priorité le sujet en complément des avancées de ProConnect agri pour avancer sur le "dites le nous une fois"
 link: ''
 ---
 ## Contexte
@@ -66,3 +77,16 @@ Afin de valider la pertinence et la faisabilité de cette orientation, nous prop
 - Vis-à-vis des fournisseurs de services : réussir l’intégration auprès d’au moins un fournisseur de services et être en discussion avancée avec 3 fournisseurs de services du secteur agricole. 
 * Vis-à-vis de la numérisation des démarches : intégrer ProConnect à Démarches Simplifiées et numériser de nouvelles démarches et réduisant le nombre d’informations demandées (10 démarches numérisées au niveau local déployées au niveau national, 10 démarches papier ou statique numérisées dans au moins un territoire, réduction de 20% des données demandées sur ces démarches). 
 * Vis-à-vis des agriculteurs : ProConnect est utilisé par 30% des déclarants des démarches ciblées et au moins 1000 comptes auront été créés dans le secteur agricole. 
+
+## Feuille de route envisagée
+
+- demande d’un budget au projet loi finance 2025 par la Ruche porté par le SG/SNUM (sur le Programme 215) au titre des « chantiers simplification » : 500k
+- lancement d’une équipe en mode startup d’État en relation avec les équipe de ProConnect et aides-agri : 
+*  intrapreneuse/re au sein du SG à hauteur de 50-60% de son ETP
+*  un/e coache produit
+*  un/e développeuse/re spécialisée dans la circulation des données
+*  un/e designeu/se
+*  un/e chargé/e de déploiement
+
+- premier atelier utilisateurs entre fournisseurs d’aides (ASP, FAM, MSA, DGPE, DGAl...) et représentants des usagers agriculteurs d’ici à début avril 2025 pour convenir des données concernées, des démarches sur le périmètre d’expérimentation 
+

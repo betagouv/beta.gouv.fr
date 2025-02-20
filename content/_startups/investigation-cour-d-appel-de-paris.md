@@ -10,29 +10,38 @@ title: Investigation Cour d'appel de Paris
 mission: Accélérer le traitement des dossiers au parquet des juridictions relevant de la Cour d'appel de Paris afin de raccourcir les délais de procédure et optimiser le temps de travail des magistrats.
 incubator: ALLiaNCE
 sponsors:
-  - /organisations/cour-d-appel-de-paris
+  - /organisations/parquet-general-de-paris
 phases:
   - name: investigation
     start: 2025-02-04
 events:
   - name: product_launch
     date: 2025-02-14
+techno: []
 link: ''
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
+*Accélérer le traitement des dossiers dans les parquets des juridictions du ressort de la cour d'appel de Paris afin de raccourcir les délais de procédure et optimiser le temps de travail des magistrats.*
 
-## Contexte
 
-Quel est le contexte de ta Startup d'Etat ?
+* Intrapreneur : Nicolas Dupont-Frugier, substitut placé auprès de la procureure générale de Paris
 
-## Problème
+* Sponsor : Marie-Suzanne Le Quéau, procureure générale de la cour d'appel de Paris
 
-Les problèmes que vous avez identifiés ou vos hypothèses de problèmes? Qui en souffre ? quels sont les conséquences de ces problèmes ?
+###  
 
-## Solution
+### Eléments de contexte
 
-Décrit ta solution en quelques lignes? qui seront/sont les bénéficiaires ?
+Le temps de préparation des dossiers par les magistrats du parquet, incluant notamment une phase d’étude et de rédaction d’actes dans un certain nombre d’hypothèses, comporte des étapes particulièrement chronophages générant des délais supplémentaires dans le traitement des affaires pénales.
 
-## Stratégie
+A plus forte raison pour des contentieux de masse, les magistrats du parquet peuvent consacrer un temps conséquent à accomplir des tâches répétitives et à faible valeur ajoutée dans des dossiers sans grande complexité.
 
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+
+### La solution
+
+**La start up d’Etat se fixe l’objectif de créer un assistant virtuel du magistrat du parquet pour l’aide à la décision et l’assistance à la rédaction.**
+
+Pour les 445 magistrats du parquet du ressort de la cour d’appel de Paris, deux cas d’usage pilotes ont été identifiés :
+
+* Plusieurs contentieux de masse font l’objet d’un traitement en temps réel reposant sur des critères précisément fixés par les procureurs de la République. L’exemple le plus évocateur en la matière est celui du contentieux routier, pour lequel l’orientation procédurale décidée par le magistrat du parquet repose sur une politique pénale clairement définie à partir de critères tels que le taux d’alcoolémie du mis en cause, la présence d’infractions connexes ou l’existence d’antécédents judiciaires. L’outil proposé a vocation à extraire de ces dossiers les informations pertinentes pour proposer une orientation au magistrat, lequel validerait ensuite la décision.
+
+* Que ce soit pour la rédaction de requêtes à destination du juge des libertés et de la détention ou de réquisitoires définitifs, les magistrats du parquet sont amenés à rédiger de nombreuses synthèses factuelles de procédures ou de pièces de procédures pénales. L’outil proposé est destiné à faciliter ce travail en proposant des projets de rédaction.

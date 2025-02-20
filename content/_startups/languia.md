@@ -32,6 +32,9 @@ events:
     date: 2024-09-25
     comment: Atelier - Numérique en communs 2024
 stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=126#?period=month&date=2024-10-11&category=Dashboard_Dashboard&subcategory=1
+sponsors:
+  - /organisations/dinum
+  - /organisations/mc
 ---
 ## Le problème
 
