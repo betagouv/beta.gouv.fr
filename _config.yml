@@ -37,7 +37,6 @@ include: [
   ".well-known"
 ]
 exclude: [
-  "content/templates",
   "README.md",
   "CONTRIBUTING.md",
   "lib",

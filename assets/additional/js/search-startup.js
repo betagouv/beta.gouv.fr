@@ -36,7 +36,13 @@ const THEMATIQUES = [
   "Travail / Emploi",
 ];
 
-const filters = [];
+function setLocationParam(param, value) {
+  const url = new URL(window.location);
+
+  url.searchParams.set(param, value);
+
+  history.replaceState(null, null, url);
+}
 
 const createStartupCard = (startup) => {
   const card = document.createElement("div");
@@ -116,8 +122,14 @@ const filterCards = (startups) => {
     )
     .filter((startup) =>
       filters.is_national_impact ? startupHasNationalImpact(startup) : true,
+    )
+    .filter((startup) =>
+      filters.excludeInvestigations ? startupIsNotInvestigation(startup) : true,
     );
 };
+
+const startupIsNotInvestigation = (startup) =>
+  startup.phase !== "investigation";
 
 const startupHasNationalImpact = (startup) =>
   startup.events.find((event) => event.name === "national_impact");
@@ -210,81 +222,62 @@ const updateCards = (data) => {
   }
 };
 
-const createIncubatorSelect = (selectElement, data, incubators, initValue) => {
+const createIncubatorSelect = (selectElement, data, incubators) => {
   const optionFragment = document.createDocumentFragment();
-  for (let i = 0; i < incubators.length; i++) {
-    const incubator = incubators[i];
+
+  for (const incubator of incubators) {
     const option = document.createElement("option");
     option.innerText = incubator.title;
     option.value = incubator.id;
     optionFragment.appendChild(option);
   }
+
   selectElement.appendChild(optionFragment);
+
   const onIncubatorChange = (value) => {
     filters.incubator = value;
-    const incubatorElements =
-      document.getElementsByClassName("incubator-header");
-    for (let i = 0; i < incubatorElements.length; i++) {
-      const incubatorElement = incubatorElements[i];
+
+    for (const incubatorElement of document.getElementsByClassName(
+      "incubator-header",
+    )) {
       if (incubatorElement.id !== value) {
         incubatorElement.style.display = "none";
       } else {
         incubatorElement.style.display = "block";
       }
     }
+
     updateCards(data);
   };
-  if (initValue) {
-    selectElement.value = initValue;
-    onIncubatorChange(initValue);
-  }
-  selectElement.addEventListener("change", (e) => {
-    const value = e.target.value;
-    onIncubatorChange(value);
-    const urlParams = new URLSearchParams(window.location.search);
-    urlParams.set("incubateur", value);
-    history.replaceState(
-      null,
-      null,
-      `${window.location.origin + window.location.pathname}?${urlParams}`,
-    );
-  });
+
+  if (filters.incubator) selectElement.value = filters.incubator;
+
+  selectElement.addEventListener("change", ({ target: { value } }) =>
+    updateFilters("incubator", "incubateur", value),
+  );
 };
 
-const createUsertypesSelect = (selectElement, data, initValue) => {
+const createUsertypesSelect = (selectElement, data) => {
   const optionFragment = document.createDocumentFragment();
   const usertypes = Object.keys(USERTYPES);
-  for (let i = 0; i < usertypes.length; i++) {
-    const usertypeKey = usertypes[i];
-    const usertypeLabel = USERTYPES[usertypeKey];
+
+  for (const [value, label] of Object.entries(USERTYPES)) {
     const option = document.createElement("option");
-    option.innerText = usertypeLabel;
-    option.value = usertypeKey;
+    option.innerText = label;
+    option.value = value;
     optionFragment.appendChild(option);
   }
+
   selectElement.appendChild(optionFragment);
-  const onUsertypesChange = (value) => {
-    filters.usertypes = value;
-    updateCards(data);
-  };
-  if (initValue) {
-    selectElement.value = initValue;
-    onUsertypesChange(initValue);
-  }
-  selectElement.addEventListener("change", (e) => {
-    const value = e.target.value;
-    onUsertypesChange(value);
-    const urlParams = new URLSearchParams(window.location.search);
-    urlParams.set("usertypes", value);
-    history.replaceState(
-      null,
-      null,
-      `${window.location.origin + window.location.pathname}?${urlParams}`,
-    );
-  });
+
+  if (filters.usertypes) selectElement.value = filters.usertypes;
+
+  selectElement.addEventListener("change", ({ target: { value } }) =>
+    updateFilters("usertypes", "usertypes", value),
+  );
 };
 
-const createThematiquesSelect = (selectElement, data, initValue) => {
+const createThematiquesSelect = (selectElement, data) => {
   const optionFragment = document.createDocumentFragment();
   for (const thematique of THEMATIQUES) {
     const option = document.createElement("option");
@@ -295,47 +288,35 @@ const createThematiquesSelect = (selectElement, data, initValue) => {
 
   selectElement.appendChild(optionFragment);
 
-  const onThematiquesChange = (value) => {
-    filters.thematiques = value;
-    updateCards(data);
-  };
-  if (initValue) {
-    selectElement.value = initValue;
-    onThematiquesChange(initValue);
-  }
-  selectElement.addEventListener("change", (e) => {
-    const value = e.target.value;
-    onThematiquesChange(value);
-    const urlParams = new URLSearchParams(window.location.search);
-    urlParams.set("thematiques", value);
-    history.replaceState(
-      null,
-      null,
-      `${window.location.origin + window.location.pathname}?${urlParams}`,
-    );
-  });
+  if (filters.thematiques) selectElement.value = filters.thematiques;
+
+  selectElement.addEventListener("change", ({ target: { value } }) =>
+    updateFilters("thematiques", "thematiques", value),
+  );
 };
 
-const createNationalImpactSelect = (selectElement, data, initValue) => {
-  const onNationalImpactChange = (value) => {
-    filters.is_national_impact = value;
-    updateCards(data);
-  };
-  if (initValue === "true") {
-    setTimeout(() => {
-      selectElement.checked = true;
-    }, 1000);
-    onNationalImpactChange(true);
-  }
-  selectElement.addEventListener("change", (e) => {
-    const value = selectElement.checked;
-    onNationalImpactChange(value);
-    const urlParams = new URLSearchParams(window.location.search);
-    urlParams.set("national_impact", value);
-    history.replaceState(
-      null,
-      null,
-      `${window.location.origin + window.location.pathname}?${urlParams}`,
-    );
-  });
+const createNationalImpactSelect = (selectElement, data) => {
+  selectElement.checked = filters.is_national_impact;
+
+  selectElement.addEventListener("change", ({ target: { checked: value } }) =>
+    updateFilters("is_national_impact", "national_impact", value),
+  );
 };
+
+function setupExcludeInvestigations() {
+  const toggle = document.getElementById("exclude-investigations-toggle");
+
+  toggle.checked = filters.excludeInvestigations;
+
+  toggle.addEventListener("change", ({ target: { checked: value } }) =>
+    updateFilters("excludeInvestigations", "exclude-investigations", value),
+  );
+}
+
+function updateFilters(filterName, paramName, value) {
+  filters[filterName] = value;
+
+  setLocationParam(paramName, value);
+
+  updateCards(data);
+}
