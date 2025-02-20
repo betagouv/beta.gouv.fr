@@ -5,7 +5,7 @@ domaine: Développement
 github: dunoyer
 missions:
   - start: 2022-05-20
-    end: 2025-01-30
+    end: 2026-01-30
     status: admin
     employer: Ministère de la Justice
 teams:
