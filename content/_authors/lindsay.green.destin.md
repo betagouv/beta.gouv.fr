@@ -9,4 +9,6 @@ missions:
     status: admin
     employer: DTNum
 memberType: dinum
+teams:
+  - /teams/fabrique-dgfip-animation
 ---

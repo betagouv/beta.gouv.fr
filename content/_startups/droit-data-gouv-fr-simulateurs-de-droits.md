@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: yowa.muzadi@numerique.gouv.fr
+contact: aides.simplifiees@numerique.gouv.fr
 thematiques:
   - Open-Data
   - Social
@@ -35,7 +35,7 @@ Vous êtes intéressé·e par :
 - La transparence des normes et des règles de calcul utilisées dans les systèmes d'information,
 - Le concept de [Rules as Code](https://www.oecd.org/fr/publications/dechiffrer-le-code_027bac0e-fr.html), c'est-à-dire la traduction de la législation en code exécutable.
 
-... ? N'hésitez pas à nous écrire à l'adresse mail de contact indiquée sur cette page (encart ci-contre).
+... ? N'hésitez pas à nous écrire à l'adresse mail aides.simplifiees@numerique.gouv.fr
 
 ## Contexte
 

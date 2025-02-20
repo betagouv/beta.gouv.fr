@@ -28,6 +28,7 @@ previously:
 badges:
   - segur
 teams:
+  - /teams/al-lia-nce-responsable-de-portefeuille
   - /teams/dinum-incubateur
 link: https://www.linkedin.com/in/elsa-le-duigou-869bb311b/
 competences: []

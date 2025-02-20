@@ -11,4 +11,6 @@ missions:
     startups:
       - recommandations-collaboratives
       - urbanvitaliz
+teams:
+  - /teams/accelerema-animation
 ---

@@ -24,4 +24,5 @@ competences:
   - Administration Publique
 teams:
   - /teams/dinum-incubateur
+  - /teams/francetravail-responsable-de-portefeuille
 ---

@@ -8,5 +8,7 @@ missions:
     status: admin
     employer: DGFIP
 memberType: beta
+teams:
+  - /teams/fabrique-dgfip-animation
 ---
 Fabrique Numérique de la DGFIP

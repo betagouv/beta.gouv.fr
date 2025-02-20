@@ -10,5 +10,7 @@ missions:
 badges:
   - segur
 competences: []
+teams:
+  - /teams/engagement-civique-animation
 ---
 Projets digitaux, e-commerce, marketing
