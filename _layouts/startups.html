@@ -171,30 +171,34 @@ layout: default
 <script src="/assets/additional/js/search-startup.js" type="text/javascript"></script>
 <script>
   var urlParams = new URLSearchParams(window.location.search);
-  var incubatorValue = urlParams.get("incubateur");
-  var usertypesValue = urlParams.get("usertypes");
-  var thematiquesValue = urlParams.get("thematiques");
-  var nationalImpactValue = urlParams.get("national_impact");
-  data = generateDataWithHtmlCards(data);
 
-  document.querySelectorAll(".select-operateur").forEach((selectElement) => {
-    createIncubatorSelect(selectElement, data, incubators, incubatorValue);
+ const filters = {
+     excludeInvestigations: urlParams.get("exclude-investigations") == "true",
+     incubator: urlParams.get("incubateur"),
+     usertypes: urlParams.get("usertypes"),
+     thematiques: urlParams.get("thematiques"),
+     is_national_impact: urlParams.get("national_impact") == "true",
+ };
+
+ data = generateDataWithHtmlCards(data);
+
+ document.querySelectorAll(".select-operateur").forEach((selectElement) => {
+     createIncubatorSelect(selectElement, data, incubators);
   });
 
   document.querySelectorAll(".select-usertypes").forEach((selectElement) => {
-    createUsertypesSelect(selectElement, data, usertypesValue);
+    createUsertypesSelect(selectElement, data);
   });
 
   document.querySelectorAll(".select-thematiques").forEach((selectElement) => {
-    createThematiquesSelect(selectElement, data, thematiquesValue);
+    createThematiquesSelect(selectElement, data);
   });
 
-  document.querySelectorAll(".select-impact").forEach((selectElement) => {
-    createNationalImpactSelect(selectElement, data, nationalImpactValue);
+ document.querySelectorAll(".select-impact").forEach((selectElement) => {
+    createNationalImpactSelect(selectElement, data);
   });
-
- filters.excludeInvestigations = urlParams.get("exclude-investigations") == "true";
 
  setupExcludeInvestigations();
 
+ updateCards(data);
 </script>
