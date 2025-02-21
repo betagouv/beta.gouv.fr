@@ -8,7 +8,6 @@ competences:
 missions:
   - start: 2024-10-18
     end: 2028-12-18
-    employer: Dinum
     status: admin
-    startups: []
+    employer: Dinum
 ---

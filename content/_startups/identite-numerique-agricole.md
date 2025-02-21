@@ -2,7 +2,7 @@
 mission: Faciliter les démarches des agriculteurs
 incubator: agriculture
 title: Identité numérique agricole
-contact: adrien.laville@beta.gouv.fr
+contact: liste-equipe-transverse@agriculture.gouv.fr
 thematiques:
   - Agriculture
   - Entreprises
@@ -15,7 +15,18 @@ sponsors:
 phases:
   - name: alumni
     start: 2024-06-18
+  - name: investigation
+    start: 2025-02-20
 techno: []
+events:
+  - name: committee
+    date: 2024-09-20
+    comment: |-
+      intrapreneur parti du MASA
+      blocage des arbitrages budgets
+  - name: product_launch
+    date: 2025-02-20
+    comment: la Ruche remet en priorité le sujet en complément des avancées de ProConnect agri pour avancer sur le « dites le nous une fois »
 link: ''
 ---
 ## Contexte
@@ -66,3 +77,37 @@ Afin de valider la pertinence et la faisabilité de cette orientation, nous prop
 - Vis-à-vis des fournisseurs de services : réussir l’intégration auprès d’au moins un fournisseur de services et être en discussion avancée avec 3 fournisseurs de services du secteur agricole. 
 * Vis-à-vis de la numérisation des démarches : intégrer ProConnect à Démarches Simplifiées et numériser de nouvelles démarches et réduisant le nombre d’informations demandées (10 démarches numérisées au niveau local déployées au niveau national, 10 démarches papier ou statique numérisées dans au moins un territoire, réduction de 20% des données demandées sur ces démarches). 
 * Vis-à-vis des agriculteurs : ProConnect est utilisé par 30% des déclarants des démarches ciblées et au moins 1000 comptes auront été créés dans le secteur agricole. 
+
+## Feuille de route envisagée
+
+- demande d’un budget au projet loi finance 2025 par la Ruche porté par le SG/SNUM (sur le Programme 215) au titre des « chantiers simplification » : 500k
+- lancement d’une équipe en mode startup d’État en relation avec les équipe de ProConnect et aides-agri : 
+*  intrapreneuse/re au sein du SG à hauteur de 50-60% de son ETP
+*  un/e coache produit
+*  un/e développeuse/re spécialisée dans la circulation des données
+*  un/e designeu/se
+*  un/e chargé/e de déploiement
+
+- premier atelier utilisateurs entre fournisseurs d’aides (ASP, FAM, MSA, DGPE, DGAl...) et représentants des usagers agriculteurs d’ici à début avril 2025 pour convenir des données concernées, des démarches sur le périmètre d’expérimentation 
+
+### Objectifs d'ici à fin 2025
+A l’issue de la phase d’investigation, l’orientation qui apparait la plus pertinente pour une expérimentation restreinte est :
+
+- De déployer ProConnect (MoncomptePro pour sa version actuelle) sur Démarches simplifiées. AgentConnect y étant déjà déployé, et les solutions devant fusionner, le
+portail de connexion devra de toute façon être mis à jour en 2025.
+
+- Reprendre des démarches dématérialisées localement (exemple : demande de numéro pacage) dans des modèles diffusibles nationalement ou copiés localement,
+
+- Dématérialiser des démarches déclaratives actuellement réalisées par envoi courriel.
+
+Compte-tenu de la nature du sujet d’identification, les objectifs ci-dessus recoupent, pour partie, les sujets de dématérialisation, simplification et DLNUF sur les démarches qui seront ciblées lors de la phase d’expérimentation. De plus, la suite ProConnect étant en cours de finalisation, l’intégration au niveau des fournisseurs de services se fera initialement avec la brique MonComptePro Connexion, qui sera automatiquement basculé vers MonCompte Pro connexion à la mise en production du module.
+
+
+### Objectifs d'ici à T1 2027
+Sous réserve que le niveau d’atteinte des objectifs précdents soit jugé satisfaisant, et que l’expérimentation soit étendue voire généralisée, plusieurs pistes sont envisageables pour les objectifs à un an :
+* La DINUM a terminé la réécriture de la brique certification et l’a déployé en production,
+* La connexion portée par ProConnect est déployée et utilisée sur EAF/BACUS (portail et annuaire Usager.
+* La documentation technique de Proconnect est diffusée à l’ASP et FranceAgriMer.pour
+* étude préalables des impacts d’un raccordement sur Télépac, ISIS et Télésillages,
+* Utilisation de ProConnect pour plus de 50% des demandes ciblées à 6 mois,
+* Etude de l’impact d’une bascule des démarches portées par 6TZen vers Démarches simplifiées. La prise en main du produit étant plus simple et laissant plus d’autonomie aux porteurs de démarches

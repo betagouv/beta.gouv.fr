@@ -18,4 +18,4 @@ missions:
     startups:
       - mobilic
 ---
-Je m'appelle Raouf, je suis titulaire d'un diplôme d'ingénieur et d'un Master pluridisciplinaire, je cumule 5 ans d'expérience en gestion de projet opérationnel et en implémentation d'outils. J'ai accompagné diverses startups dans la structuration et l’optimisation de leurs opérations pour les aider à atteindre leurs objectifs et à améliorer leur efficacité opérationnelle.
+Customer Success Manager

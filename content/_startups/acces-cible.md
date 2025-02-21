@@ -2,7 +2,7 @@
 mission: Rendre les sites et services numériques accessibles à toutes et à tous
 incubator: dinum
 title: Acces cible
-contact: erwan.g.le-gall@beta.gouv.fr
+contact: acces-cible@beta.gouv.fr
 thematiques:
   - Inclusion numérique
 usertypes:
@@ -18,8 +18,11 @@ phases:
     start: 2024-06-27
   - name: construction
     start: 2024-10-07
-techno: []
-link: ''
+techno:
+  - Ruby on Rails
+link: https://acces-cible.incubateur.net/
+repository: https://github.com/betagouv/acces-cible/
+dashlord_url: https://dashlord.incubateur.net/url/acces-cible-beta-gouv-fr/
 ---
 ## Contexte
 
