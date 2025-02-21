@@ -14,7 +14,7 @@ usertypes:
   - particulier
   - etat
   - collectivite-territoriale
-title: aides-simplifiées
+title: aides simplifiées
 mission: La bonne aide, au bon moment, au bon endroit
 incubator: dinum_produits_interministeriels
 sponsors:
@@ -27,53 +27,54 @@ phases:
 events:
   - name: committee
     date: 2024-12-04
-techno: []
+techno:
+  - nuxt.js
+  - python
 link: ''
 ---
-Vous êtes intéressé·e par :
-- Les parcours de demande d'aides,
-- La transparence des normes et des règles de calcul utilisées dans les systèmes d'information,
-- Le concept de [Rules as Code](https://www.oecd.org/fr/publications/dechiffrer-le-code_027bac0e-fr.html), c'est-à-dire la traduction de la législation en code exécutable.
-
-... ? N'hésitez pas à nous écrire à l'adresse mail aides.simplifiees@numerique.gouv.fr
-
 ## Contexte
 
-Au sein de l’Opérateur de Produits Interministériels (OPI) de la Direction Interministérielle du Numérique (DINUM), l’équipe aides-simplifiées s’est constituée en marge du CITP dédié à la simplification administrative (avril 2024). Son ambition : aller plus loin pour améliorer l’expérience usager dans les parcours d’accès aux aides grâce à une approche interministérielle.
+Au sein de l’Opérateur de Produits Interministériels (OPI) de la Direction Interministérielle du Numérique (DINUM), **Aides Simplifiées** développe des solutions pour faciliter l’accès aux aides pour les citoyens et les agents publics qui les accompagnent. Nous mettons en place des outils réutilisables par toutes les administrations, afin que les citoyens puissent connaître et mobiliser leurs aides **au bon moment et au bon endroit**.
 
 ## Problème
 
-**1 - Contexte général.** Les parcours de demande d’aides sont freinés par :
-- une complexité normative,
-- des délais d’application souvent trop longs,
-- un taux élevé de non-recours (par exemple, 46 % en moyenne pour les aides au logement).
+### 1. Contexte général
 
-**2 - Irritants principaux dans les parcours** de demande d’aides (écologie, santé, logement, social, etc.) :
-- Difficile de savoir à quoi on a droit et à combien.
-- Les démarches administratives sont fastidieuses.
-- Un besoin accru de pouvoir joindre un·e interlocuteur·rice.
+*   **Une complexité normative** qui rend difficile la compréhension des droits et des démarches à entreprendre.
+*   **Un taux élevé de non-recours** (46 % en moyenne pour les aides au logement), illustrant la difficulté d’accès aux aides pour de nombreux bénéficiaires.
 
-**3 - Sur les réponses apportées actuellement** : les simulateurs représentent une volonté inachevée de lutter contre le non recours aux aides, car ils restent souvent déconnectés du reste du parcours de demande d’aides. 
+### 2. Les principaux irritants dans l'accès aux aides
 
-**4 - Pour les administrations :** recenser, mettre à jour et modéliser les aides est chronophage. Il y a donc une forte attente en termes de mutualisation et collaobration.
+Les parcours de demande d’aides sont freinés par :
 
-**Et si les simulateurs devenaient des leviers de simplification pour l’ensemble du parcours usager ?** 
+*   **Difficile de savoir à quoi on a droit et combien on peut percevoir.**
+*   **Les démarches administratives restent complexes**, fastidieuses et décourageantes.
+*   Un besoin accru de pouvoir être accompagné dans les démarches, et donc de **prendre rendez-vous avec un aidant**.
+
+### 3. Les réponses apportées actuellement
+
+*   **Les simulateurs restent une avancée majeure dans la simplification de l'accès aux aides, mais restent souvent isolés du reste du parcours usager**, avec notamment un manque d’interconnexion entre la simulation et les démarches administratives complique le passage à l’action.
+*   Pour les administrations qui souhaitent mettre à disposition de l'information sur les aides, **une charge élevée pour recenser, mettre à jour et modéliser les aides**.
 
 ## Solution
 
-aides-simplifiées c'est : la bonne aide, au bon moment, au bon endroit pour les citoyens et leurs aidants. 
+Aides simplifiées est un service public conçu pour faciliter l'accès aux aides. Nous collaborons avec des administrations, collectivités et opérateurs publics pour fluidifier les parcours d'accès aux aides. Nous travaillons également avec des plateformes numériques qui souhaitent proposer nos simulateurs directement sur leurs sites. Aides simplifiées développe **des simulateurs intégrables**, réutilisables et évolutifs, permettant :
 
-Nous développons des expériences de simulation intégrées là où les citoyens sont déjà, au moment où ils en ont besoin, tout en leur permettant de poursuivre leur parcours (prise de rendez-vous, accompagnement aux démarches).
+*   **Au bon moment** : comprendre à quelles aides une personne est éligible au moment clé de sa vie (ex. déménagement, naissance, perte de revenus...).
+*   **Au bon endroit** : proposer ces simulateurs directement sur les sites et espaces où les usagers se renseignent et réalisent leurs démarches.
+*   **Avec un parcours fluide** : permettre de poursuivre ses démarches après la simulation (prise de rendez-vous, dépôt de dossier, accompagnement).
 
-* **au bon moment** : l'équipe s'intéresse au parcours de vie de la personne - quel changement de situation vit-elle ? (ex. déménagement, difficultés à payer ses factures...)
-* **au bon endroit** : la priorité est de rendre facile et accessible l'intégration de nos services sur tous les sites où les gens sont déjà ou auprès de leurs interlocuteurs habituels
- 
-Pour cela, nous publierons en open data la modélisation des aides existantes et simplifierons leur mise à jour et leur réutilisation, y compris par des acteurs non techniques.
+Nous publions en **open data** la modélisation des aides et facilitons leur mise à jour et réutilisation par les administrations et acteurs non techniques.
 
 ## Objectifs à 6 mois
 
-D’ici 6 mois, l’équipe s’engage à construire un parcours dédié à un moment de vie prioritaire.
+D’ici 6 mois, nous visons :
 
-Nos cibles d’impact :
-- 2 000 simulations complétées avec éligibilité à au moins un dispositif d'aide.
- - 200 prises de rendez-vous effectuées en fin de simulation.
+*   **Un parcours dédié à un moment de vie prioritaire**, intégré dans un environnement existant (le déménagement/logement).
+*   **2 000 simulations complétées**, avec éligibilité confirmée à au moins une aide.
+
+## Construisons ensemble le futur de l’accès aux aides
+
+Nous cherchons à collaborer avec des administrations et partenaires souhaitant faciliter l'accès aux aides en améliorant le parcours usager et agent (instructeurs, aidants).
+
+📩 **Envie d’en savoir plus, de contribuer ou de travailler ensemble ?** Contactez-nous : **<aides.simplifiees@numerique.gouv.fr>**
