@@ -1,6 +1,6 @@
 ---
-link: https://preprod.aigle.din.developpement-durable.gouv.fr/
-mission: Un outil pour lutter contre la cabanisation et les détournements d’usages d’espaces naturels, agricoles et forestiers.
+link: https://aigle.beta.gouv.fr/
+mission: Lutter contre les constrictions illégales et les détournements d’usages d’espaces naturels, agricoles et forestiers.
 incubator: mtes
 title: 'AIGLE '
 contact: magali.migeon@herault.gouv.fr
@@ -32,7 +32,7 @@ budget_url: https://docs.google.com/spreadsheets/d/1oIHQ84QFqsGV8r0iqoZhQCcQIi4T
 repository: https://github.com/MTES-MCT/aigle-api
 ---
 ## Contexte
-30 000, c’est le nombre de parcelles “cabanisées” dans le seul département de l'Hérault. Soit environ 30 000 hectares (trois fois la surface de Paris) concernés par ce fléau : des habitats permanents ou temporaires dans les espaces agricoles, naturels et forestiers inconstructibles et le plus souvent à risques inondation ou feux de forêt 
+30 000, c’est le nombre de parcelles occupées illégalement dans le seul département de l'Hérault. Soit environ 30 000 hectares (trois fois la surface de Paris) concernés par ce fléau : des habitats permanents ou temporaires dans les espaces agricoles, naturels et forestiers inconstructibles et le plus souvent à risques inondation ou feux de forêt 
 
 500 à 1000 nouvelles parcelles sont “cabanisées” chaque année dans ce département. Mais il n’est pas le seul concerné. La cabanisation s’étend en France. 
 
@@ -49,27 +49,22 @@ Outre le fait qu’elle constitue un délit, la cabanisation a de nombreuses con
 - Elle contribue au **sentiment d’impunité** et d’iniquité entre citoyens, face à la loi et provoque des tensions entre agents de collectivités ou élus et administrés 
 - Elle **coûte très cher**, en mobilisant de nombreux acteurs (la DDTM, la DDFIP, les forces de l’ordre, les parquets, les collectivités). Les procédures judiciaires sont longues de plusieurs années, complexes avec une issue incertaine. Des moyens humains et financiers considérables sont ainsi engagés pour une seule affaire.
 
-### Les freins à la lutte
-
-- Un manque de sensibilisation et d’information des citoyens et des comportements pas toujours vertueux (pas vu, pas pris)
-- Un laisser-faire des pouvoirs publics, du fait d’un manque de connaissance du problème, d’un manque de moyens, ou d’un manque de volonté
-- Une réglementation et des procédures longues et complexes
-
 
 ## Solution
-Aigle, c’est un outil de détection automatique de parcelles détournées, qui fonctionne grâce à de l'intelligence artificielle appliquée à des images aériennes. Il repère des constructions en dur (maison, chalet, mazet…) , des mobils-home, des caravanes, des piscines, des bateaux. Muni d’une interface cartographique, il est pleinement intégré dans le process de lutte contre “la cabanisation” et peut être utilisé sur le terrain sur tablette.  
+Aigle, c’est un outil de détection automatique de parcelles détournées, qui fonctionne grâce à de l'intelligence artificielle appliquée à des images aériennes (et satellite en test. Il repère des constructions en dur (maison, chalet, mazet…) , des mobils-home, des caravanes, des piscines, des bateaux. Muni d’une interface cartographique, il est pleinement intégré dans le process de lutte contre  ces constructions ou occupations illégales” et peut être utilisé sur le terrain sur tablette.  
 
 Aigle permet aux collectivités et aux services de l’Etat de :
 - **Connaître l’ampleur du problème** sur l’ensemble d’un territoire, et **suivre son évolution** dans le temps, grâce à la détection automatique des parcelles détournées.
 - **Cibler et prioriser les contrôles** en croisant les détections avec des et des zones à enjeux (zones inondables, zones à risque d'incendie, zone naturelle remarquable, périmètre de captage d’eau potable, etc.).
 - D’envoyer des courriers aux contrevenants afin de **régler le problème le plus en amont possible**, grâce à l’impression de fiches de détection.
+- - **D'être plus efficace sur le terrain et de mobiliser les acteurs- ** 
 - **Suivre le travail sur le terrain**, grâce à un système de statut de contrôle/verbalisation/astreintes administratives...
 
 
 ## Stratégie
 
 ### Historique
-AIGLE a été développé depuis 2019 et est utilisé dans une version opérationnelle depuis 2022 par les agents de la DDTM de l’hérault. Il est utilisé dans le Gard depuis 2023. Le projet a été repris par la Fabrique numérique en 2023.
+AIGLE a été développé depuis 2019 et est utilisé dans une version opérationnelle depuis 2022 par les agents de la DDTM de l’Hérault. Il est utilisé dans le Gard depuis 2023.  Le projet a été repris par la Fabrique numérique du ministère de l'Environnement en 2023.
 
 ### 2024
 Les hypothèses suivantes ont été validées :
@@ -89,6 +84,8 @@ Indicateurs : 37% de remise en état après simple courrier ou visite, sur les 1
 **Détecter automatiquement les parcelles détournées et les prioriser permet d’être plus efficace sur le terrain**
 
 Indicateurs : efficacité des visites multiplié par 2
+
+AIGLE c'est aussi au sein de l'équipe  **la maitrise en régie d'une ingénierie d'IA** en terme de détection sur images
 
 ### 2025
 Élargir notre impact sur le cas d'usage “cabanisation” en déployant sur 3 nouveaux départements (DDT(M)) et donner accès directement à l’outil à 80 collectivités (S1 2025).

@@ -1,8 +1,8 @@
 ---
 mission: Faciliter l'accès aux œuvres de cinéma avec audiodescription
 incubator: culture
-title: Audiodescription
-contact: ateliernumerique.snum@culture.gouv.fr
+title: Portail de l'audiodescription
+contact: contact@audiodescription.beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
@@ -16,7 +16,7 @@ thematiques:
 usertypes:
   - particulier
 techno: []
-link: ''
+link: https://audiodescription.beta.gouv.fr/
 ---
 ## Plateforme dédiée à l’audiodescription
 
