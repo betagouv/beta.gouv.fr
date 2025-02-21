@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2023-12-18
     end: 2026-12-18
-    employer: DINUM
     status: admin
-    startups: []
+    employer: DINUM
 teams:
   - /teams/al-lia-nce-animation
 ---

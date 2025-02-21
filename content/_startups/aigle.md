@@ -1,6 +1,6 @@
 ---
 link: https://aigle.beta.gouv.fr/
-mission: Lutter contre les constrictions illégales et les détournements d’usages d’espaces naturels, agricoles et forestiers.
+mission: Lutter contre les constructions illégales et les détournements d’usages d’espaces naturels, agricoles et forestiers.
 incubator: mtes
 title: 'AIGLE '
 contact: magali.migeon@herault.gouv.fr
