@@ -10,4 +10,6 @@ missions:
       - urgencevie
 github: Fredericdol
 competences: []
+teams:
+  - /teams/lab-mi
 ---

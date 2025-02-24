@@ -1,6 +1,6 @@
 ---
 fullname: Julie Ripa
-domaine: Animation
+domaine: Intraprenariat
 role: Intrapreneuse Tchap
 github: julie-ri
 missions:

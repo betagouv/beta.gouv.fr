@@ -12,5 +12,7 @@ missions:
       - oriane
       - oscars
 competences: []
+teams:
+  - /teams/fabnumdef
 ---
 UX/UI
