@@ -13,4 +13,6 @@ competences:
   - Administration Publique
   - Croissance
   - Gestion de Produit
+teams:
+  - /teams/fabnumdef
 ---
