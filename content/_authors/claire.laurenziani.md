@@ -16,5 +16,8 @@ missions:
     employer: ANCT
     startups:
       - suite.territoriale
+competences:
+  - Communication
+  - Croissance
 ---
 Communicante engagée pour l'environnement

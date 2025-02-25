@@ -64,7 +64,7 @@ Ces informations sont accessibles via **deux produits complémentaires** :
 2. **Application Mobile Native :** notre application mobile est conçue pour répondre aux besoins numériques des réfugiés. Elle propose un accès convivial aux informations, permet l'écoute des fiches pour les utilisateurs en alphabétisation, et facilite le partage d'informations, notamment par SMS pour les accompagnants.
 
 
-## **Impact**
+## **Pourquoi Réfugiés.info est un service numérique à impact national ?**
 
 **Réfugiés.info est le service public d’information n°1 pour les étrangers en France en 2024 :**
 * 1,2 million d’utilisateurs uniques ont consulté Réfugiés.info - un chiffre qui double chaque année !

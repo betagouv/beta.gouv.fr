@@ -18,6 +18,6 @@ competences:
   - UX
   - UI
 teams:
-  - /teams/DINUM
+  - /teams/mission-inserjeunes
 ---
 🌻

@@ -1,6 +1,6 @@
 ---
 fullname: Magali Migeon
-role: Intrapreneuse
+role: Intrapreneuse AIGLE
 domaine: Intraprenariat
 missions:
   - start: 2023-04-24
@@ -17,3 +17,4 @@ competences:
   - Intrapreneur(se)
   - Administration Publique
 ---
+Egalement chargée de mission lutte contre la cabanisation à la DDTM 34 et du déploiement de l'outil numérique  LUCCA (https://www.cabanisation34.fr/)

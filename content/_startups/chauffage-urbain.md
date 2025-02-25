@@ -34,7 +34,7 @@ events:
     date: 2024-01-01
     comment: Montant de 121000€ pour la promotion 14
 techno: []
-budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+budget_url: https://france-chaleur-urbaine.beta.gouv.fr/qui-sommes-nous
 stats_url: https://france-chaleur-urbaine.beta.gouv.fr/stats
 ---
 ## Le problème

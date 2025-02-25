@@ -87,3 +87,8 @@ Pour les CFA :
 - Identifier des entreprises pouvant accueillir les apprentis de la formation ;
 - Recevoir les offres des entreprises qui recherchent des alternants et pouvoir accompagner celles-ci dans le sourcing de profils les plus intéressants ;
 - Simplifier, accélérer et sécuriser leur mise en relation avec les candidats à une formation en apprentissage.
+
+## 🚀 Nos ambitions pour 2025
+- Accroître le volume d’offres et de candidatures collectées pour mieux répondre aux besoins des jeunes et des entreprises.
+- Renforcer nos partenariats stratégiques avec les job boards (LinkedIn, WTTJ, AEF...) et les grandes entreprises (La Poste, etc.).
+- Affiner notre positionnement face aux acteurs privés, en mettant en avant notre valeur ajoutée et nos spécificités.

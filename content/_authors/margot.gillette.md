@@ -1,7 +1,7 @@
 ---
 domaine: Design
 fullname: Margot Gillette
-role: Design
+role: Designer
 missions:
   - start: 2021-03-01
     end: 2025-12-31
@@ -13,5 +13,6 @@ link: https://www.linkedin.com/in/margot-gillette-349a028a/
 competences:
   - Product design
   - UX
+  - Facilitation
 memberType: beta
 ---
