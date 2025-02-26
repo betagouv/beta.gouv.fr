@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2025-02-24
     end: 2025-12-31
-    employer: Omnicité
     status: service
+    employer: Omnicité
     startups:
       - homologation
 ---

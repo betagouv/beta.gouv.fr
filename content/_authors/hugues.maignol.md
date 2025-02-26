@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/huguesmaignol/
 github: hugues-m
 missions:
   - start: 2022-09-06
-    end: 2025-02-28
+    end: 2025-05-31
     status: independent
     employer: ANCT
     startups:
@@ -14,5 +14,6 @@ missions:
       - suite.d.outils.des.mediateurs.numeriques
 badges:
   - segur
+competences: []
 ---
 🤖🥋🎹

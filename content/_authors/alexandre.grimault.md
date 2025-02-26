@@ -5,7 +5,7 @@ role: Dev
 github: niladic
 missions:
   - start: 2020-02-03
-    end: 2025-02-28
+    end: 2025-05-31
     status: independent
     startups:
       - aplus

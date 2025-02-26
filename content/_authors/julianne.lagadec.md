@@ -1,12 +1,21 @@
 ---
 fullname: Julianne Lagadec
-role: Adjointe au coordinateur de la mission interministérielle InserJeunes
-domaine: Intraprenariat
+role: 'Nouvelle mission en cours de démarrage '
+domaine: Autre
 github: Julianne-Lagadec
 link: https://fr.linkedin.com/in/julianne-lagadec
 missions:
   - start: 2021-04-01
-    end: 2025-02-28
+    end: 2023-04-30
+    status: admin
+    startups:
+      - catalogue-apprentissage
+      - la-bonne-alternance
+      - tdb-apprentissage
+      - uai_siret
+      - voeux-apprentissage
+  - start: 2023-01-01
+    end: 2024-12-31
     status: admin
     startups:
       - cestquilepro

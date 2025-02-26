@@ -26,6 +26,8 @@ events:
   - name: other
     date: 2024-07-05
     comment: Lauréat du fonds accessibilité. Montant 292 690€
+  - name: national_impact
+    date: 2025-02-26
 usertypes:
   - particulier
   - association
@@ -65,6 +67,8 @@ Ces informations sont accessibles via **deux produits complémentaires** :
 
 
 ## **Pourquoi Réfugiés.info est un service numérique à impact national ?**
+
+Réfugiés.info a été nommé service numérique à impact national 2024.
 
 **Réfugiés.info est le service public d’information n°1 pour les étrangers en France en 2024 :**
 * 1,2 million d’utilisateurs uniques ont consulté Réfugiés.info - un chiffre qui double chaque année !

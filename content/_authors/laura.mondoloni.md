@@ -8,6 +8,12 @@ missions:
     status: independent
     startups:
       - homologation
+  - start: 2025-02-26
+    end: 2025-12-31
+    status: independent
+    employer: Omnicité
+    startups:
+      - mon-aide-cyber
 memberType: beta
 github: LauraMondoloni31
 competences: []

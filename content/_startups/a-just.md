@@ -19,6 +19,8 @@ events:
   - name: fast
     date: 2024-01-01
     comment: Montant de 300000€ pour la promotion 13
+  - name: national_impact
+    date: 2025-02-26
 phases:
   - name: investigation
     start: 2021-02-01
@@ -111,3 +113,22 @@ Visualisation, corrélation, simulation… A-JUST se définit comme un outil  d
 ² Magistrats, greffiers, fonctionnaires, agents administratifs, vacataires, assistants de justice, magistrats honoraires, juristes assistants…
 
 <!--EndFragment-->
+
+## Service à impact national 2024
+
+A-JUST a été nommé service numérique à impact 2024.
+
+A-JUST aide les équipes de direction des tribunaux judiciaires dans l’affectation de leurs ressources humaines pour réduire les délais de justice. Ce service permet aux équipes de direction des tribunaux judiciaires (chefs de juridiction et directeurs de greffe) de visualiser et d’anticiper l’impact de leurs affectations d’effectifs sur les délais de prise en charge des contentieux. Il met à disposition des indicateurs et simulateurs permettant d’objectiver la situation des services et facilite ainsi la prise de décisions éclairées pour répondre au mieux aux besoins de justice locaux tout en veillant aux équilibres de la juridiction.
+
+Au-delà de ce pilotage par l’impact des ressources et de l’organisation, l’outil a également prouvé son efficacité en automatisant des tâches chronophages pour les agents. 75 % des tribunaux utilisateurs rapportent par exemple un gain de temps significatif dans la préparation des dialogues de gestion.
+
+La couverture quasi totale de la cible initiale, avec 157 tribunaux sur 168 utilisant le produit et 500 utilisateurs actifs mensuels sur un potentiel de 900, témoigne de son adoption étendue et de son intégration réussie dans le quotidien des juridictions.
+
+A-JUST répond à une attente majeure des citoyens français : la réduction des délais de justice. Bien que le service soit un outil précieux pour équiper, former et professionnaliser les tribunaux dans la gestion de leurs effectifs, mesurer précisément son impact direct sur des délais aux origines multi-factorielles peut s’avérer complexe. Il contribue néanmoins significativement à cette fin en offrant aux tribunaux les moyens de piloter plus efficacement leurs ressources.
+
+Ce faisant, A-JUST encourage un changement culturel profond au sein des juridictions, en promouvant l’adoption d’une culture de pilotage par l’impact et la donnée. Cette approche est désormais intégrée dans le parcours de formation des chefs de greffe et de juridiction, ce qui assure sa diffusion et favorise l’homogénéisation des pratiques.
+
+Avec la création d’une direction de programme “Outils numériques de pilotage des juridictions” rattachée à la Direction des Services Judiciaires (DSJ), A-JUST s’engage dans une phase de pérennisation et de développement consistant notamment à :
+* continuer à élargir son impact en intégrant le pilotage des cours d’appel et des parquets dès 2025 ;
+* servir un fort besoin d’unification de la donnée pour faciliter son usage opérationnel tout en réduisant les tâches chronophages de reporting ;
+pour renforcer ainsi son rôle central dans la modernisation de la direction des tribunaux en France.

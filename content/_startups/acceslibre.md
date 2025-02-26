@@ -18,6 +18,8 @@ events:
   - name: other
     date: 2022-10-04
     comment: 'Demo-D : fin du programme d''accompagnement gamma avec résultats clés - plus de 100 000 fiches ERP, go de réutilisation par google et servicepublic.fr'
+  - name: national_impact
+    date: 2025-02-26
 phases:
   - name: investigation
     start: 2019-11-01
@@ -52,8 +54,18 @@ Acceslibre s’insère également dans le paysage plus vaste de l’accessibilit
 
 ## Etat d’avancement et prochaines étapes
 
-Acceslibre compte désormais près de 350 000 établissements recensés.
+Acceslibre compte désormais près de 500 000 établissements recensés.
 
 Les informations d'accessibilité sont affichées sur plusieurs sites à forte audience : allocine.com, solocal.com, lepetitpaumé.com, servicepublic.fr.
 
 Tout l'enjeu est de poursuivre l'effort de collecte sur les lieux touristiques et décrocher de nouveaux partenariats dans ce secteur pour aider à accueillir au mieux le public handi pendant les jeux olympiques et paralympiques de Paris !
+
+## Service à impact national 2024
+
+Accelibre a été nommé service numérique à impact national 2024.
+
+Acceslibre est une plateforme collaborative d’information sur l’accessibilité sur plus de 500 000 lieux qui accueillent du public (restaurant, cinéma, musée…), sur les 2 millions d’établissements recevant du public (ERP) en France. Les données d’Acceslibre décrivant les conditions d’accessibilité de chaque lieu sont réutilisées par des sites internet tiers, là où les personnes en situation de handicap sont les plus susceptibles de les chercher, comme sur des sites grand public tels qu’AlloCiné ou Sortir à Paris. Cela permet ainsi, par exemple, à la personne en situation de handicap de savoir directement si elle peut ou non se rendre dans un musée ou dans un cinéma et dans quelles conditions, sans devoir appeler le lieu pour savoir s’il est adapté à son handicap.
+
+La plateforme s’inscrit dans une logique de commun numérique, promouvant une approche collaborative où informations et ressources sont partagées. En 2024, plus de 8 000 contributeurs ont enrichi cette base de données, démontrant l’efficacité d’une politique publique contributive. La plateforme illustre aussi parfaitement la stratégie d’État plateforme : ce modèle de réutilisation des données garantit que l’information est non seulement accessible mais aussi intégrée dans les services quotidiennement utilisés par le grand public.
+
+Il reste cependant des défis importants pour Acceslibre, en lien avec sa communauté engagée et ses partenariats stratégiques. La base de données, bien que large, est loin d’être complète et nécessite un engagement continu des contributeurs ainsi que des principaux réutilisateurs pour intégrer et tenir à jour l’information d’accessibilité sur tous les ERP en France. Les fondations sont toutefois posées pour que le web soit désormais une source d’information efficace et utile pour les internautes en situation de handicap.
