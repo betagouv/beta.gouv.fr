@@ -23,7 +23,14 @@
             {% include screenshot.html startup=startup %}
         </div>
 
-        {% if startup.events.last.name == "national_impact" %}
+        {% assign national_impact_event = false %}
+        {% for event in startup.events %}
+        {% if event.name == "national_impact" %}
+            {% assign national_impact_event = true %}
+        {% endif %}
+        {% endfor %}
+
+        {% if national_impact_event %}
         <div class="fr-badges-group">
             <span class="fr-badge fr-badge--success">Service à impact national</span>
         </div>
