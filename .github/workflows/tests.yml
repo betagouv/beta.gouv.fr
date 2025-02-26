@@ -183,4 +183,5 @@ jobs:
     - name: Check error status
       if: ${{ env.AXE_ERROR }}
       run: |
+        echo "$AXE_DETAILS"
         exit 1
