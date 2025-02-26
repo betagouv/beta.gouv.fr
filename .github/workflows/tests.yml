@@ -180,7 +180,7 @@ jobs:
           ${{ env.AXE_DETAILS }}
           ```
           *This report has been generated using [@axe-core/cli](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/cli).*
-    - name: Exit pull request
+    - name: Check error status
       if: ${{ env.AXE_ERROR }}
       run: |
         exit 1
