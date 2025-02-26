@@ -6,7 +6,7 @@ github: Julianne-Lagadec
 link: https://fr.linkedin.com/in/julianne-lagadec
 missions:
   - start: 2021-04-01
-    end: 2025-02-28
+    end: 2025-07-28
     status: admin
     startups:
       - cestquilepro
