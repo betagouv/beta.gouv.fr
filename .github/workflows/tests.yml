@@ -10,177 +10,177 @@ jobs:
   test:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+    - uses: actions/checkout@v4
 
-      - name: Lint markdown data
-        run: yarn --cwd=ci && node ci/tests-fiches.mjs
+    - name: Lint markdown data
+      run: yarn --cwd=ci && node ci/tests-fiches.mjs
 
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 3.4.1
-          bundler-cache: true
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.4.1
+        bundler-cache: true
 
-      - name: Lint Ruby with Rubocop
-        run: bundle exec rubocop
+    - name: Lint Ruby with Rubocop
+      run: bundle exec rubocop
 
-      - name: Install npm dependencies
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: "npm"
-      - run: npm ci
+    - name: Install npm dependencies
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+        cache: "npm"
+    - run: npm ci
 
-      - name: Check Javascript/JSON linting
-        run: npm run lint
+    - name: Check Javascript/JSON linting
+      run: npm run lint
 
-      - name: Unit tests
-        run: bundle exec rspec
+    - name: Unit tests
+      run: bundle exec rspec
 
-      #- name: Check data structure
-      #  run: make validate
+    #- name: Check data structure
+    #  run: make validate
 
-      - name: Unit tests
-        run: bundle exec rspec
+    - name: Unit tests
+      run: bundle exec rspec
 
-      - name: "Check authors file name structure (first_name.last_name.md)"
-        run: |
-          if ls content/_authors | grep --line-regexp --invert-match '[a-z_.-]\+\.[a-z_.-]\+\.md'
-          then cat <<EOF
-            One or more authors do not have the expected structure.
-            Contact a website administrator if your generated author file breaks the validator.
-            Notes:
-            A dot (.) can only appear as a separator between the first and the last names.
-            Dashes in names are kept as-is.
-            Spaces are replaced by underscores (_).
-            File extension must be '.md'
-          EOF
-            exit 1
-          fi
+    - name: "Check authors file name structure (first_name.last_name.md)"
+      run: |
+        if ls content/_authors | grep --line-regexp --invert-match '[a-z_.-]\+\.[a-z_.-]\+\.md'
+        then cat <<EOF
+          One or more authors do not have the expected structure.
+          Contact a website administrator if your generated author file breaks the validator.
+          Notes:
+          A dot (.) can only appear as a separator between the first and the last names.
+          Dashes in names are kept as-is.
+          Spaces are replaced by underscores (_).
+          File extension must be '.md'
+        EOF
+          exit 1
+        fi
 
-      - name: Check Jekyll configuration
-        run: bundle exec jekyll doctor
+    - name: Check Jekyll configuration
+      run: bundle exec jekyll doctor
 
-      - name: Jekyll build
-        run: bundle exec jekyll build --trace
+    - name: Jekyll build
+      run: bundle exec jekyll build --trace
 
-      - name: Check HTML common mistakes
-        run: make html-proofer
+    - name: Check HTML common mistakes
+      run: make html-proofer
 
-      - name: HTML5 Validator
-        uses: Cyb3r-Jak3/html5validator-action@master
-        with:
-          root: _site
-          skip_git_check: true
+    - name: HTML5 Validator
+      uses: Cyb3r-Jak3/html5validator-action@master
+      with:
+        root: _site
+        skip_git_check: true
 
-      - name: Lint JSON API pages
-        run: bundle exec jsonlint _site/api/v*/*.json
+    - name: Lint JSON API pages
+      run: bundle exec jsonlint _site/api/v*/*.json
 
-      - name: "Upload Artifact"
-        uses: actions/upload-artifact@v4
-        with:
-          name: _site
-          path: _site
-          retention-days: 1
+    - name: "Upload Artifact"
+      uses: actions/upload-artifact@v4
+      with:
+        name: _site
+        path: _site
+        retention-days: 1
 
-      - name: Wait for server to start
-        run: |
-          (bundle exec jekyll serve --no-watch --skip-initial-build)&
-          while ! curl --silent http://localhost:4000
-          do sleep 1
-          done
+    - name: Wait for server to start
+      run: |
+        (bundle exec jekyll serve --no-watch --skip-initial-build)&
+        while ! curl --silent http://localhost:4000
+        do sleep 1
+        done
 
   axe:
     needs: [test]
     runs-on: ubuntu-22.04
 
     steps:
-      - name: Install
-        run: |
-          npm install -g @axe-core/cli
-          npm install -g chromedriver@132
+    - name: Install
+      run: |
+        npm install -g @axe-core/cli
+        npm install -g chromedriver@132
 
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: _site
-          path: _site
+    - name: Download artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: _site
+        path: _site
 
-      - name: Run Axe CLI
-        id: axe
-        uses: mathiasvr/command-output@v1
-        continue-on-error: true
-        timeout-minutes: 10
-        with:
-          run: |
-            npx -s http-server _site -s &
-            sleep 10
-            axe $URL, \
-            $URL/approche/index.html, \
-            $URL/devenir-intrapreneur.html, \
-            $URL/manifeste.html, \
-            $URL/incubateurs/index.html, \
-            $URL/incubateurs/dinum.html, \
-            $URL/contact/index.html, \
-            $URL/stats/index.html, \
-            $URL/apropos/index.html, \
-            $URL/suivi/index.html, \
-            $URL/startups/index.html, \
-            $URL/startups/domifa.html, \
-            $URL/accessibilite/index.html \
-            --chromedriver-path="$(npm root -g)/chromedriver/bin/chromedriver"
-            echo "end"
-            killall -9 http-server
-        env:
-          URL: "http://127.0.0.1:8080"
-      - name: Extract Axe messages
+    - name: Run Axe CLI
+      id: axe
+      uses: mathiasvr/command-output@v1
+      continue-on-error: true
+      timeout-minutes: 10
+      with:
         run: |
-          cat > axe.py <<EOF
-          import sys
-          import re
-          
-          print(
-              re.sub(
-                  r"Testing http.*?[\n\s]*0 violations found!\s*",
-                  "",
-                  "".join(sys.stdin.readlines()),
-                  count=re.S | re.DOTALL,
-              )
-          )
-          EOF
-          chmod +x axe.py
-          cat > axe.txt <<EOF
-          ${{steps.axe.outputs.stdout}}
-          ${{steps.axe.outputs.stderr}}
-          EOF
-          {
-          echo 'AXE_DETAILS<<EOF'
-          cat axe.txt | python axe.py
+          npx -s http-server _site -s &
+          sleep 10
+          axe $URL, \
+          $URL/approche/index.html, \
+          $URL/devenir-intrapreneur.html, \
+          $URL/manifeste.html, \
+          $URL/incubateurs/index.html, \
+          $URL/incubateurs/dinum.html, \
+          $URL/contact/index.html, \
+          $URL/stats/index.html, \
+          $URL/apropos/index.html, \
+          $URL/suivi/index.html, \
+          $URL/startups/index.html, \
+          $URL/startups/domifa.html, \
+          $URL/accessibilite/index.html \
+          --chromedriver-path="$(npm root -g)/chromedriver/bin/chromedriver"
+          echo "end"
+          killall -9 http-server
+      env:
+        URL: "http://127.0.0.1:8080"
+    - name: Extract Axe messages
+      run: |
+        cat > axe.py <<EOF
+        import sys
+        import re
+        
+        print(
+            re.sub(
+                r"Testing http.*?[\n\s]*0 violations found!\s*",
+                "",
+                "".join(sys.stdin.readlines()),
+                count=re.S | re.DOTALL,
+            )
+        )
+        EOF
+        chmod +x axe.py
+        cat > axe.txt <<EOF
+        ${{steps.axe.outputs.stdout}}
+        ${{steps.axe.outputs.stderr}}
+        EOF
+        {
+        echo 'AXE_DETAILS<<EOF'
+        cat axe.txt | python axe.py
+        echo 'EOF'
+        }  >> "$GITHUB_ENV"
+        {
+          echo 'AXE_ERROR<<EOF'
+          if echo "$AXE_DETAILS" | grep -q "violations found"; then
+            echo "1"
+          else
+            echo "0"
+          fi
           echo 'EOF'
-          }  >> "$GITHUB_ENV"
-          {
-            echo 'AXE_ERROR<<EOF'
-            if echo "$AXE_DETAILS" | grep -q "violations found"; then
-              echo "1"
-            else
-              echo "0"
-            fi
-            echo 'EOF'
-          } >> "$GITHUB_ENV"
-      - name: Comment pull request
-        if: ${{ env.AXE_ERROR }}
-        uses: marocchino/sticky-pull-request-comment@v2
-        with:
-          header: axe-core-comment
-          recreate: true
-          message: |
-            ## ♿️ Axe report
-            Audited website : ${{ env.WEBSITE_TO_AUDIT }}
-            ```
-            ${{ env.AXE_DETAILS }}
-            ```
-            *This report has been generated using [@axe-core/cli](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/cli).*
-      - name: Exit pull request
-        if: ${{ env.AXE_ERROR }}
-        run: |
-          exit 1
+        } >> "$GITHUB_ENV"
+    - name: Comment pull request
+      if: ${{ env.AXE_ERROR }}
+      uses: marocchino/sticky-pull-request-comment@v2
+      with:
+        header: axe-core-comment
+        recreate: true
+        message: |
+          ## ♿️ Axe report
+          Audited website : ${{ env.WEBSITE_TO_AUDIT }}
+          ```
+          ${{ env.AXE_DETAILS }}
+          ```
+          *This report has been generated using [@axe-core/cli](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/cli).*
+    - name: Exit pull request
+      if: ${{ env.AXE_ERROR }}
+      run: |
+        exit 1
