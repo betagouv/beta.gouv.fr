@@ -13,7 +13,7 @@ missions:
     startups:
       - nosgestesclimat
   - start: 2024-12-03
-    end: 2025-11-01
+    end: 2026-03-16
     status: independent
     employer: Scopyleft
     startups:

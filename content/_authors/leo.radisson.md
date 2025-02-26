@@ -11,5 +11,7 @@ missions:
 badges:
   - segur
 competences: []
+teams:
+  - /teams/mission-apprentissage
 ---
 Product Manager à la Bonne Alternance
