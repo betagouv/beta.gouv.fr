@@ -33,6 +33,8 @@ events:
   - name: fast
     date: 2024-01-01
     comment: Montant de 121000€ pour la promotion 14
+  - name: national_impact
+    date: 2025-02-26
 techno: []
 budget_url: https://france-chaleur-urbaine.beta.gouv.fr/qui-sommes-nous
 stats_url: https://france-chaleur-urbaine.beta.gouv.fr/stats
@@ -60,6 +62,20 @@ Enfin, la cartographie France Chaleur Urbaine est devenue la référence nationa
 Les objectifs pour fin 2025 sont de compter 300 demandes par mois, contre 250 en moyenne fin 2024, d'aboutir à 2000 raccordements à l'étude, en cours ou effectifs représentant 120 000 tonnes de CO2 potentiellement évitées. Des comptes dédiées aux professionnels permettant l'accès à des fonctionnalités avancées vont par ailleurs être ouverts : l'objectif est d'avoir au moins 200 comptes créés fin 2025.
 
 https://france-chaleur-urbaine.beta.gouv.fr/stats
+
+## Service à impact national 2024
+
+France Chaleur Urbaine a été nommé service numérique à impact national 2024.
+
+France Chaleur Urbaine est une initiative majeure pour promouvoir et faciliter le développement des réseaux de chaleur en France, un mode de chauffage écologique et compétitif encore sous-utilisé. Confronté à un manque de visibilité et à une complexité dans les démarches de raccordement, le service s’attaque à ces défis en centralisant les informations et en offrant des outils pratiques pour les acteurs concernés.
+
+Depuis son lancement, France Chaleur Urbaine a réalisé des avancées significatives :
+* **Amélioration de la visibilité des réseaux de chaleur :** plus de 1 460 raccordements sont actuellement à l’étude, en cours ou effectifs grâce à des demandes soumises sur le site, représentant 43 800 logements. Si l’ensemble de ces raccordements se concrétisent, ils éviteront l’émission de 78 000 tonnes de CO2 chaque année.
+* **Simplification du travail des gestionnaires de bâtiments :** la fonctionnalité de test en masse a permis de vérifier plus de 943 336 adresses, facilitant la tâche pour les bailleurs sociaux et autres gestionnaires de bâtiments mettant en place des stratégies de décarbonation de leur parc.
+* **Simplification du travail des collectivités territoriales :** grâce à France Chaleur Urbaine, il est possible d’identifier précisément les bâtiments équipés de chauffages collectifs au gaz ou au fioul, ainsi que les gros consommateurs de gaz. Cette identification permet aux collectivités et opérateurs d’évaluer les potentiels de développement de leurs réseaux de chaleur.
+* **Facilitation de l’accès aux données des réseaux et accroissement de la transparence :** en mettant à disposition une cartographie exhaustive et les données des réseaux en open data, le service favorise une transparence sans précédent. Cette ouverture des données permet non seulement de mieux comprendre l’étendue et les caractéristiques de chaque réseau, mais aussi de faciliter la prise de décision pour les raccordements, contribuant ainsi à des pratiques plus justes et éclairées dans un secteur essentiel pour la transition énergétique. Il reste cependant encore de nombreux défis pour améliorer la transparence des prix des raccordements et de la chaleur.
+
+Ainsi, France Chaleur Urbaine ne se contente pas de faciliter le raccordement aux réseaux de chaleur ; elle transforme fondamentalement la manière dont ces réseaux sont perçus, gérés et développés en France, promouvant une énergie plus propre et plus abordable tout en soutenant les objectifs nationaux de réduction des émissions de CO2.
 
 ## En détails
 

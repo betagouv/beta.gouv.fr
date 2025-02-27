@@ -36,6 +36,8 @@ events:
   - name: fast
     date: 2024-01-01
     comment: Montant de 141 000€ pour la promotion 14
+  - name: national_impact
+    date: 2025-02-26
 analyse_risques: true
 mon_service_securise: true
 techno: []
@@ -81,6 +83,7 @@ Téléchargez, dupliquez, partagez à volonté
 [Découvrir MonServiceSécurisé](https://www.monservicesecurise.cyber.gouv.fr/)
 
 ## Service à impact national 2024
+MonServiceSécurisé a été nommé service numérique à impact national 2024.
 
 MonServiceSécurisé permet aujourd'hui de démultiplier la capacité des entités publiques à : 
 1. **Piloter le renforcement de la sécurité de leurs services** en proposant pour chaque service une évaluation de ses besoins de sécurité et une liste personnalisée de mesures de sécurité à mettre en oeuvre. Depuis son lancement, MonServiceSécurisé a permis de corriger +93 000 “faiblesses” (mesures de sécurité non préalablement mises en œuvre), renforçant d’autant leur protection contre les cybermenaces.

@@ -37,6 +37,9 @@ thematiques:
 analyse_risques: true
 mon_service_securise: true
 budget_url: https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2025/projet-loi-finances-les/jaunes-budgetaires-2025-plf-2025
+events:
+  - name: national_impact
+    date: 2025-02-26
 ---
 ## Le contexte
 
@@ -65,3 +68,19 @@ L’équipe a donc lancé en juillet 2023 une dernière et 3eme phase dite de pr
 La période de préfiguration de France VAE va se dérouler une grande partie de l’année 2024, ce qui permettra à l’équipe de poursuivre son travail d’itération afin de contribuer à l’écriture des Arrêtés de mise en oeuvre du service public et de sa généralisation en 2025.
 
 La réforme de la VAE a été intégrée comme une politique prioritaire du Gouvernement.
+
+## Services à impact national 2024
+
+France VAE a été nommé service numérique à impact national 2024.
+
+France VAE, initialement lancé sous le nom de REVA, représente une avancée significative dans le domaine de la validation des acquis de l’expérience (VAE). Ce dispositif a été conçu pour simplifier et accélérer le processus de VAE, qui permet de reconnaître les compétences professionnelles acquises en dehors du cadre formel de l’éducation : ainsi, des personnes qui ont effectué un métier sans en avoir le diplôme peuvent bénéficier de la VAE pour valoriser leur expérience par une certification officielle. Instaurée en 2002, la VAE peinait jusqu’alors à être pleinement exploitée à cause de la lourdeur administrative et des longs délais de traitement. Le déploiement de la plateforme a été accompagné par une refonte très importante des textes réglementaires de la VAE issue du travail d’itération avec l’équipe.
+
+Depuis la mise en place de France VAE qui centralise sur un même espace numérique toutes les informations de l’utilisateur avec toutes les entités qui participent à la VAE (certificateur, services publics, organisme de formation), les améliorations sont notables :
+
+* Réduction considérable des délais de traitement : les délais sont passés de 3 mois à seulement 1 à 1,5 mois, marquant un progrès significatif dans la gestion des demandes et leur envoi à l’administration compétente pour traitement. Il reste encore à réduire le temps de traitement par cette dernière, ce qui constitue l’objectif des prochaines années, principalement sur l’organisation des jurys ;
+* Augmentation significative des demandes de VAE : le nombre de demandes a doublé depuis la réforme, passant de 25 000 à 50 000 par an en 2024, avec un objectif ambitieux de 100 000 parcours à l’horizon 2027 ;
+* Diminution des abandons : le taux d’abandon dans le processus a chuté drastiquement, passant de 90 % à 11 %, preuve de l’efficacité accrue du système.
+
+Ces transformations ont un impact particulièrement positif dans les secteurs sanitaire, social et médico-social, où la demande pour des professionnels certifiés est élevée. Les certifications les plus sollicitées incluent le DEES pour les éducateurs spécialisés, le DEAS pour les aides-soignants, et d’autres diplômes essentiels pour le soutien de populations vulnérables.
+
+En facilitant l’accès à la certification pour des milliers de professionnels, France VAE accroît les opportunités d’emploi, souvent à meilleur salaire, mais renforce aussi la culture de reconnaissance des compétences par l’expérience, ouvrant la voie à un système plus inclusif et dynamique pour la certification professionnelle.
