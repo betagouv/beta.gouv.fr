@@ -28,6 +28,12 @@ missions:
     employer: NUMA
     startups:
       - brav-eau
+  - start: 2025-02-03
+    end: 2025-04-30
+    status: independent
+    employer: NUMA
+    startups:
+      - durabilite-de-la-biomasse
 incubator: culture
 badges:
   - segur
