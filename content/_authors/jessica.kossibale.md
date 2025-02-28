@@ -1,6 +1,6 @@
 ---
 fullname: Jessica Kossibale
-role: Développeuse web et mobile
+role: Développeuse
 domaine: Développement
 github: jessicakossibale
 competences:

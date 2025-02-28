@@ -1,11 +1,11 @@
 ---
 fullname: Sarah Hévin
-role: UX Researcher
+role: Product designer
 domaine: Design
 github: sarahhevin
 missions:
   - start: 2021-07-01
-    end: 2024-09-30
+    end: 2024-01-30
     status: independent
     employer: Benext
     startups:
@@ -23,5 +23,12 @@ missions:
       - bambin
 badges:
   - segur
+link: https://www.linkedin.com/in/sarah-h%C3%A9vin-43a73a14b/
+competences:
+  - Product design
+  - UX
+  - Facilitation
+  - UX writing
+  - UXresearch
 ---
-UX Researcher freelance
+Designer transverse pour l'incubateur du Cerema "Accélérema"

@@ -1,7 +1,7 @@
 ---
 fullname: Paula Videira
-role: Responsable relation usagers
-domaine: Déploiement
+role: Chargée de communication et responsable relation usagers
+domaine: Support
 missions:
   - start: 2023-10-30
     end: 2024-05-20
@@ -10,12 +10,15 @@ missions:
     startups:
       - stop-punaises
   - start: 2024-05-21
-    end: 2025-03-30
+    end: 2025-12-31
     status: independent
     employer: PathTech
     startups:
       - pass-sport
 memberType: beta
 link: https://www.linkedin.com/in/paulavideira/
-competences: []
+competences:
+  - Communication
+  - support
+  - déploiement
 ---

@@ -131,4 +131,5 @@ Ce faisant, A-JUST encourage un changement culturel profond au sein des juridict
 Avec la création d’une direction de programme “Outils numériques de pilotage des juridictions” rattachée à la Direction des Services Judiciaires (DSJ), A-JUST s’engage dans une phase de pérennisation et de développement consistant notamment à :
 * continuer à élargir son impact en intégrant le pilotage des cours d’appel et des parquets dès 2025 ;
 * servir un fort besoin d’unification de la donnée pour faciliter son usage opérationnel tout en réduisant les tâches chronophages de reporting ;
+
 pour renforcer ainsi son rôle central dans la modernisation de la direction des tribunaux en France.

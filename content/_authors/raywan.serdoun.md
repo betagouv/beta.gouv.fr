@@ -1,6 +1,6 @@
 ---
-fullname: raywan serdoun
-role: Produit et déploiement Grist & No-code
+fullname: Raywan Serdoun
+role: 'Product & déploiement : Grist, no-code et IA'
 domaine: Déploiement
 missions:
   - start: 2023-03-28
@@ -18,4 +18,5 @@ competences:
   - No-code
   - Croissance
   - Product strategy
+  - IA
 ---
