@@ -87,19 +87,28 @@ Le législateur a voté dans la **loi de finances pour 2024** promulguée le 30 
 Le service FARITAS a été ouvert aux collectivités territoriales en mai 2024 sur le Portail de la gestion publique puis aux opérateurs numériques en juin 2024 sur www.impots.gouv.fr.
 
 
-## L'impact: simplification de la gestion de la taxe de séjour et meilleure qualité fiscale
+## L'impact : simplification de la gestion de la taxe de séjour et meilleure qualité fiscale
 
-La construction du projet FARITAS est guidée par différents indicateurs d’impact, qui permettent d’ajuster les fonctionnalités à développer et de garantir la bonne adéquation du produit aux attentes de ses utilisateurs. Ces indicateurs s'attacheront à :
+La construction du projet FARITAS est guidée par plusieurs indicateurs d’impact, qui permettent d’ajuster les fonctionnalités à développer et de garantir la bonne adéquation du produit aux attentes de ses utilisateurs. Ces indicateurs s'attacheront à :
 * quantifier la **pénétration du service** qui reste facultatif dans le cadre de cette expérimentation législative (nombre d'utilisateurs actifs, volume de taxe traité)
 * objectiver la **simplification de la gestion** de cette taxe (gain de temps pour les agents des collectivités comme pour les déclarants).
 *  mesurer l'**amélioration de la qualité fiscale** (diminution du taux de non-conformité des déclaration, diminution des erreurs de liquidation de la taxe).
 
-### Indicateurs publics
+## Indicateurs d'impact et d'usage
+### 2024
 
+**Indicateur d'impact**
+*  **19,08 millions d'euros (€) de taxe de séjour** déclarés via FARITAS
+* **Objectif initial** : 1 million d'euros
+
+**Indicateurs d'usage**
 * **85% du territoire** : 1588 collectivités ont utilisé FARITAS pour gérer la déclaration de la taxe de séjour
-* **3 plateformes** d'hébergement embarquées sur FARITAS, dont **un acteur majeur** du secteur
-* **120 000 séjours** traités pour un total de 2,44 millions de nuitées (objectif initial : 100 000 séjours)
-* **4,64 millions d'euros (€)** de taxe déclarés via FARITAS (objectif : 1 million)
+* **8 plateformes** de réservation d'hébergement embarquées sur FARITAS, dont **un acteur majeur** du secteur
+* **417 800 séjours** concernés (objectif initial : 100 000 séjours)
+
+**Indicateurs d'effort**
+* **60%** des agents publics interrogés constatent **un gain de temps** dans le traitement des déclarations en utilisant FARITAS (enquête octobre 2024)
+* **4/5** : l'indice cyber est une évaluation indicative du **niveau de sécurisation** du service, calculée par le biais de [Mon Service Sécurisé](https://monservicesecurise.cyber.gouv.fr/). Un score compris entre 4 et 5 est considéré comme *'Très bon'* par l'ANSSI. Le service fait également l'objet d'audit dans le cadre du [Référentiel Général de Sécurité (RGS)](https://cyber.gouv.fr/le-referentiel-general-de-securite-rgs).
 
 ## Budget 
 
@@ -107,7 +116,6 @@ La construction du projet FARITAS est guidée par différents indicateurs d’im
 | :---: | :---: | --- |
 | 2021 | 50 000 € | Phase d'investigation
 | 2022 | 250 000 € | Prototypage et tests produit
-| 2023 | 400 000 € | Mise en Production, déploiement national, amélioration continue
-| 2024 | 30 000 € | Accélération et mise en conformité aux standards beta.gouv.fr
-2024 | 60 000 € | Fonds accessibilité
-
+| 2023 | 400 000 € | Mise en production à l'échelle nationale, amélioration continue
+| 2024 | 30 000 € | Accélération, déploiement, mise en conformité aux standards beta.gouv.fr
+| 2024 | 60 000 € | Fonds accessibilité

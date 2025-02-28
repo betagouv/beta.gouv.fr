@@ -13,7 +13,7 @@ missions:
       - pass-culture
       - pix
   - start: 2024-12-20
-    end: 2025-03-31
+    end: 2025-05-31
     status: independent
     employer: Dynergie
 github: mferaga
