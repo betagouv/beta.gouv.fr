@@ -6,7 +6,7 @@ link: https://michael.bitard.fr/
 github: MichaelBitard
 missions:
   - start: 2022-03-07
-    end: 2025-03-31
+    end: 2025-06-01
     status: independent
     employer: Malt
     startups:
@@ -19,4 +19,10 @@ competences:
   - DevOps
   - Administration Système
   - Sécurité informatique
+  - Docker
+  - Accessibilité
+  - JavaScript/TypeScript
+  - Kubernetes
+  - PostgreSQL
+  - UI
 ---

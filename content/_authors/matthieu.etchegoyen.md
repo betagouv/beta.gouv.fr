@@ -24,7 +24,7 @@ missions:
     startups:
       - recommandations-collaboratives
   - start: 2025-01-01
-    end: 2025-03-16
+    end: 2025-06-30
     status: independent
     employer: LittleBig Connection
     startups:

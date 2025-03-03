@@ -7,7 +7,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2024-10-17
-    end: 2025-03-31
+    end: 2025-06-30
     status: independent
     employer: Mon Devis Sans Oublis
     startups:

@@ -5,10 +5,14 @@ domaine: Développement
 github: bors-ltd
 missions:
   - start: 2020-11-16
-    end: 2025-03-31
+    end: 2025-04-30
     status: independent
     employer: Scopopop
     startups:
       - le-taxi
-competences: []
+competences:
+  - Développement Backend
+  - Développement Frontend
+  - Développement Full-stack
+link: https://www.linkedin.com/in/herv%C3%A9-cauwelier-25540934b/
 ---

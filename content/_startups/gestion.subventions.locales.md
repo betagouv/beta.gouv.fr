@@ -47,3 +47,4 @@ L’équipe est composée de :
 - Thibault, responsable de portefeuille ;
 - Clarie, UX designer ;
 - Agnès, développeuse.
+- Maxime, développeur
