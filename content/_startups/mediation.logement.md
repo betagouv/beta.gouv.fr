@@ -7,12 +7,14 @@ sponsors:
 incubator: mtes
 contact: contact@mediationlogement.beta.gouv.fr
 stats: false
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 phases:
   - name: investigation
     start: 2023-05-01
   - name: construction
     start: 2023-11-01
+  - name: alumni
+    start: 2025-02-07
 link: https://mediationlogement.beta.gouv.fr/
 repository: https://github.com/betagouv/mediation-logement
 thematiques:
@@ -26,12 +28,11 @@ techno:
   - No code
   - Ksaar
 ---
-## Description
+# Hibernation
 
-> La Startup Médiation Logement est en ❄️ **hibernation** ❄️, dans  l'attente d'une décision de gouvernance. Celle-ci devrait arriver lors du comité d’investissement avant fin Février 2025.
-> 
+> La Startup Médiation Logement est en ❄️ **hibernation** ❄️. Si vous êtes agent de l'État et que vous vous intéressez à ce sujet écrivez un email aux personnes dans la partie contact.
 
-## Contexte
+# Contexte
 
 Les litiges locatifs entre bailleurs et propriétaires ont des impacts importants sur la vie des usagers. Pour résoudre un conflit qui ne peut plus être résolu à l'amiable, locataires et bailleurs peuvent faire appel à plusieurs instances publiques ou para publiques.
 
@@ -41,7 +42,7 @@ En 2021, au national les CDC traitaient 10 000 dossiers par an (+19% en 6 ans). 
 
 Le rapport national analysant l'activité des CDC indique que le taux de saisine par rapport à la population globale des départements est faible. Dans le 93 (notre terrain d'expérimentation), 300 dossiers sont envoyés à la CDC chaque année. C'est très faible lorsque mis en perspective de sa population de 1,6 millions.
 
-## Problème
+# Problème
 
 Ainsi, il paraît clair que les locataires et bailleurs n’ayant pas su régler leur différend d’ordre locatif à l’amiable, ne savent pas quoi entreprendre pour le résoudre, et n'en font probablement rien.
 
@@ -53,9 +54,9 @@ Les causes explicatives de cette non-résolution sont :
 2. une incompréhension de leurs droits et devoirs, ainsi que leurs possibilités d’action
 3. des craintes d’un résultat décevant et des implications d’une démarche administrative
 
-## Solution
+# Solution
 
-### Proposition de valeur
+## Proposition de valeur
 
 Médiation Logement est un produit numérique qui accompagne les locataires et bailleurs à comprendre et résoudre leurs litiges au sujet du Dépôt de Garantie (DG).
 
@@ -68,13 +69,13 @@ Le but est double :
 1. Permettre à toutes les personnes qui ne déposeraient pas de dossier en CDC de pouvoir avoir une chance de résoudre leur litige grâce à des informations adaptées et une médiation légère.
 2. Désengorger les CDC de tous les dossiers dont les 2 parties sont de bonnes foi et dont la résolution ne nécessite qu'un rappel du cadre de la loi.
 
-### Pourquoi le dépôt de garantie (aussi appelé la caution) ?
+## Pourquoi le dépôt de garantie (aussi appelé la caution) ?
 
 C'est le 1er motif de saisine 93 et national pour les locataire et les propriétaires. Le 2e taux de conciliation le plus haut. Il concerne à 98% des bailleurs privés. Enfin, la relation est terminée, et la législation est (plutôt) claire.
 
 L’hypothèse : La très grande majorité des litiges au sujet du dépôt de garantie pourraient être résolue si les deux parties avaient une compréhension claire et adaptée de leurs droits et devoirs.
 
-### Comment marche le service ?
+## Comment marche le service ?
 
 1. Le ou la locataire accède au site https://mediationlogement.beta.gouv.fr/
 2. Le ou la locataire répond à des questions simple sur sa situation (5 min)
@@ -83,9 +84,9 @@ L’hypothèse : La très grande majorité des litiges au sujet du dépôt de ga
 5. Une médiation a lieu entre locataire et bailleur pour comprendre les points de vues des parties. Un rappel du cadre de la loi pour leur situation est effectué.
 6. Si les parties arrivent à un accord, le cas est résolu pour Médiation Logement ! Sinon, il est proposé au locataire de déposer une saisine auprès de sa CDC.
 
-## Startup d'État
+# Startup d'État
 
-### Chronologie
+## Chronologie
 
 Mai 2023 : début de l'investigation
 
@@ -99,7 +100,9 @@ Automne 2024 : tentative de recrutement du profil d'intrapreneur sans succès. P
 
 Décembre 2024 : la startup est en attente d'une décision de gouvernance.
 
-### Mesure de l'impact
+Février 2025 : mise en hibernation de la startup suite à son comité de direction.
+
+## Mesure de l'impact
 
 La période d'activité du service de Médiation Logement a été mesuré entre Mai et Juillet 2024.
 
@@ -124,7 +127,7 @@ En termes de funnel de conversion, en partant de 106 Démarches terminées, 42 d
 
 De ces médiations entamées, 25% ont trouvé une résolution à l'amiable. Le restant a été réorienté vers la CDC concernée.
 
-### Budget
+## Budget
 
 Décision de financement de 50 000 € au 4 décembre 2023 financé par la DHUP / DGALN
 
@@ -141,7 +144,7 @@ Répartition du budget :
 | Outils | 388 € |
 | Marketing | 200 € |
 
-## Apprentissages
+# Apprentissages
 
 La médiation reste un processus complexe et chronophage. La compréhension des parties en présence peut être difficile, ce qui nécessite un recentrage constant du débat pour assurer l’efficacité de la médiation. L’expertise juridique est également indispensable, notamment dans les cas particuliers issus des saisines de la CDC93.
 
@@ -149,10 +152,9 @@ Concernant la différence faite par la Médiation Logement, la réponse aux loca
 
 Le no-code, bien qu’il soit moins coûteux, présente des limitations et un processus long. Il entraîne une forte dépendance vis-à-vis de l’éditeur, ce qui peut occasionner des contournements ou des problèmes d’accessibilité. Il devient essentiel de se coordonner entre les différents produits du MTE pour optimiser son utilisation.
 
-> La documentation intégrale est disponible sur demande. Contacter louis.laroche@beta.gouv.fr.
-> 
 
-## Opportunité de reprise
+
+# Post mortem
 
 Voici quelques pistes dans l'éventualité où une équipe souhaiterait reprendre ou s'inspirer de Médiation Logement. Voici ce qu'une équipe de taille équivalente pourrait réaliser en 6 mois :
 
@@ -160,7 +162,17 @@ Voici quelques pistes dans l'éventualité où une équipe souhaiterait reprendr
 2. Assurer une médiation de qualité en améliorant le taux de résolution par médiation, en limitant les transferts vers les CDC, tout en mettant en place un appui juridique et une base de connaissances solide.
 3. Utiliser la médiation pour améliorer le produit en automatisant davantage le processus, en réduisant le temps de traitement humain, et en suivant le coût de chaque saisine. Explorer également des cas d’usage, comme le transfert sans double saisie d’informations vers la CDC.
 
-## Remerciements ✌️
+# Contacts
+Si vous êtes agent de l'État et que vous vous intéressez à ce sujet écrivez un email aux personnes concernées par votre demande.
+| Rôle | Contact |
+| --- | --- |
+| Incubateur (par défaut) | samuel.goldszmidt@beta.gouv.fr |
+| Documentation | louis.laroche@beta.gouv.fr |
+| Code | aurelien.cadiou@beta.gouv.fr |
+
+ 
+
+# Remerciements ✌️
 
 Merci à toutes celles et ceux qui ont participé à la première phase de cette aventure.
 Et en particulier,

@@ -13,6 +13,9 @@ phases:
     start: 2023-01-20
 thematiques:
   - Travail / Emploi
+usertypes:
+  - particulier
+techno: []
 link: ''
 ---
 **Contexte**

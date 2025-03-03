@@ -13,4 +13,4 @@ missions:
       - preuve-de-covoiturage
 competences: []
 ---
-Product Manager un jour, entrepreneur toujours !
+Passionné par les algues, les sujets d’impact et les enjeux de transition écologique, mes expertises sont le management de produit et l'accompagnement de startup.
