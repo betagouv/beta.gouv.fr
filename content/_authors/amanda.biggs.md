@@ -9,7 +9,7 @@ competences:
   - SEM
 missions:
   - start: 2024-07-29
-    end: 2025-03-31
+    end: 2025-12-31
     status: independent
     employer: Scopyleft
     startups:

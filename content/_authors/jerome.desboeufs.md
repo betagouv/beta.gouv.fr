@@ -43,13 +43,13 @@ missions:
     startups:
       - vigieau
   - start: 2024-09-01
-    end: 2025-03-31
+    end: 2024-12-31
     status: service
     employer: Living Data
     startups:
       - maestro
   - start: 2024-09-01
-    end: 2025-03-31
+    end: 2025-06-30
     status: service
     employer: Living Data
     startups:

@@ -1,7 +1,7 @@
 ---
 fullname: Thomas Glatt
-domaine: Développement
-role: Développeur
+domaine: Coaching
+role: Coach / PO / Dev
 github: tglatt
 missions:
   - start: 2021-06-28
@@ -11,7 +11,7 @@ missions:
     startups:
       - mon-suivi-social
   - start: 2024-10-17
-    end: 2025-03-31
+    end: 2025-12-31
     status: independent
     employer: Solstice
     startups:
@@ -22,9 +22,9 @@ previously:
   - e-mjpm
   - carnet.de.bord
 competences:
-  - Développement Frontend
-  - Développement Backend
   - Product strategy
+  - Coaching
+  - Développement Full-stack
 link: https://www.linkedin.com/in/thomas-glatt-586bb56
 ---
-Accompagner les équipes - imaginer collectivement des solutions sobres
+Faire avancer les projets qui ont du sens - Accompagner les équipes

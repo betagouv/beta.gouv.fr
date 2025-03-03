@@ -6,7 +6,7 @@ github: ccomb
 link: https://www.gorfou.fr
 missions:
   - start: 2023-01-01
-    end: 2025-03-31
+    end: 2025-12-31
     status: independent
     employer: Pathtech
     startups:
@@ -22,5 +22,6 @@ competences:
   - PostgreSQL
   - Administration Système
   - Elm
+  - ACV
 ---
-ingénieur logiciel et cloud spécialisé Open-Source, Cloud, Environnement et ERP/PGI
+ingénieur logiciel et cloud spécialisé Open-Source, Cloud, Analyse du Cycle de Vie (ACV) et logiciels de gestion (ERP/PGI)
