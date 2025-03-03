@@ -4,9 +4,9 @@ fullname: Hadrien Pélissier
 role: Dev @ LANGU:IA
 missions:
   - start: 2024-06-05
-    end: 2025-04-01
+    end: 2025-10-01
     status: independent
-    employer: LBC
+    employer: UT7
     startups:
       - languia
 github: ketsapiwiq

@@ -12,6 +12,8 @@ usertypes:
   - collectivite-territoriale
   - particulier
   - entreprise
+  - association
+  - etat
 dashlord_url: https://dashlord.incubateur.net/url/panoramax-fr/
 phases:
   - name: investigation
@@ -26,6 +28,9 @@ accessibility_status: non conforme
 thematiques:
   - Open-Data
   - Outil technique
+  - Collectivités
+  - Territoires
+  - Transports
 techno: []
 events:
   - name: committee

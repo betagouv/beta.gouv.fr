@@ -1,12 +1,12 @@
 ---
 fullname: Mathilde Hoang
-role: Coach / Data Product Owner
+role: Product Manager
 domaine: Produit
 link: https://www.linkedin.com/in/mathilde-hoang-01a72a88/
 competences: []
 missions:
   - start: 2024-07-05
-    end: 2025-03-05
+    end: 2025-12-31
     status: independent
     employer: INOPS
     startups:

@@ -18,13 +18,11 @@ sponsors:
   - /organisations/mtes
 phases:
   - name: investigation
-    comment: null
     start: 2025-02-03
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-02-27
+link: ''
 ---
 
 ## Contexte

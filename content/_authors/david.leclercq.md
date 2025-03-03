@@ -11,8 +11,8 @@ competences:
 missions:
   - start: 2025-01-06
     end: 2025-12-26
-    employer: France Travail
     status: service
+    employer: France Travail
     startups:
       - mes-aides-france-travail
       - travailler.en.france

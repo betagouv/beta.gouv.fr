@@ -43,12 +43,10 @@ missions:
     startups:
       - disinfo
   - start: 2021-10-25
-    end: 2025-04-01
+    end: 2025-09-01
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
     startups:
-      - aides.jeunes
-      - openfisca
       - open-terms-archive
 competences: []
 ---

@@ -9,5 +9,11 @@ missions:
     employer: Ministère
     startups:
       - archifiltre
+  - start: 2025-03-02
+    end: 2025-12-31
+    status: admin
+    employer: Ministères des Affaires Sociales
+    startups:
+      - archifiltre
 memberType: beta
 ---

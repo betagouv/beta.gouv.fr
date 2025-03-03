@@ -11,18 +11,24 @@ missions:
     startups:
       - jeveuxaider
   - start: 2022-09-01
-    end: 2025-01-31
+    end: 2025-06-30
     status: independent
     employer: MALT
     startups:
       - api-engagement
   - start: 2024-10-03
-    end: 2025-03-03
+    end: 2025-10-01
     status: independent
     employer: NUMA
     startups:
       - 1-eleve-1-stage
       - monstage
+  - start: 2025-01-01
+    end: 2025-03-31
+    status: independent
+    employer: Dynergie
+    startups:
+      - territoires-en-transitions
 link: https://www.linkedin.com/in/merzouknassim/
 competences:
   - Croissance

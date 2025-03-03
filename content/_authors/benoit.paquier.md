@@ -10,7 +10,7 @@ competences:
   - Développement Frontend
 missions:
   - start: 2024-09-30
-    end: 2025-03-31
+    end: 2025-09-30
     status: service
     employer: La Zone
     startups:
