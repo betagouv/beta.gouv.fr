@@ -5,12 +5,24 @@ title: À propos
 ---
 
 ## Éditeur
-Incubateur de services numériques de la Direction interministérielle du numérique (DINUM) - 20, avenue de Ségur - 75007 Paris.
 
-## Directeur de la publication
-Directeur interministériel du numérique
+Incubateur des services numériques (ISN) de la Direction interministérielle du numérique (DINUM) située `20 avenue de Ségur, 75007 Paris, France`
+ 
+Téléphone : 01 71 21 11 33
+
+## Directrice de la publication
+ 
+Madame Stéphanie SCHAER, directrice interministérielle du numérique
+
+## Hébergement de la plateforme
+ 
+ - Outscale
+ - 1, rue Royale - 319 Bureaux de la Colline
+ - 92210 Saint-Cloud, France
+ - Téléphone : 0826 206 307
 
 ## Copyright
+
 Illustrations des pages accueil (section équipe) et FAST : Freepik
 Toute autre illustration : beta.gouv.fr
 
