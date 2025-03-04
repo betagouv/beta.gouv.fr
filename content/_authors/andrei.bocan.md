@@ -16,6 +16,15 @@ missions:
     employer: gip-inclusion
     startups:
       - dora
-competences: []
+  - start: 2025-02-01
+    end: 2025-08-31
+    status: admin
+    employer: gip-inclusion
+    startups:
+      - pilotage.de.linclusion
+competences:
+  - Product design
+  - UX
+  - Facilitation
 ---
 UX / Product Designer

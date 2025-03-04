@@ -28,8 +28,6 @@ budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDb
 
 Le parcours d’une personne en difficulté d’insertion socio-professionnelle nécessite l’intervention de nombreux acteurs, qu'ils soient professionnels ou non.
 
-Parmi eux, des acteurs dits “de proximité” tels que la famille, les amis, les pairs, les bénévoles, les mentors et les médiateurs, sont souvent disponibles et accessibles pour fournir un soutien et des conseils.
-
 D﻿e fait, une multitude d'acteurs interviennent dans la résolution d'une problématique.
 
 ## Le problème
@@ -40,15 +38,7 @@ Parmi eux, 89% sont en situation de non-recours subi, de non-orientation ou de n
 
 ## Notre service
 
-Mettre à disposition des personnes en difficulté d’insertion socio-professionnelle un carnet de note, Mon Recap, qui leur permet :
-
-* de s'organiser dans leurs demandes d'aides ou de conseils ;
-
-* de conserver les échanges des intervenants qui les accompagnent ;
-
-* de rendre leurs démarches plus simples et efficaces ;
-
-* de trouver des solutions à leur problème.
+Mettre à disposition des personnes en difficulté d’insertion socio-professionnelle un carnet de note, Mon Récap, qui leur permet de s'organiser dans leurs parcours et gagner en autonomie.
 
 **Si vous accompagnez des personnes susceptibles d'utiliser des carnets, [découvrez notre site](https://mon-recap.inclusion.beta.gouv.fr/) ou [commandez gratuitement des carnets](https://tally.so/r/mRMDWl?reseau=0&source=sitegipbeta)**
 

@@ -6,15 +6,15 @@ github: Aurelie-J
 link: http://www.marquedefabrique.net
 missions:
   - start: 2022-04-15
-    end: 2025-03-31
+    end: 2025-06-30
     status: independent
-    employer: Scopyleft
+    employer: Scopyleft, Omnicité
     startups:
       - données-et-territoires
   - start: 2023-06-01
-    end: 2025-03-31
+    end: 2025-06-30
     status: independent
-    employer: LittleBigconnexion
+    employer: Scopyleft, LittleBigconnexion
     startups:
       - umap
 previously:
