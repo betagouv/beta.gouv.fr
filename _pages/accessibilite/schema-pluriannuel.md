@@ -551,6 +551,22 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
 
 <h3 id="plan-2025">Plan d'action 2025</h3>
 
-<p>En cours de rédaction</p>
+#### Pour tous les périmètres
 
+- Capitaliser sur notre catalogue existant en proposant le contenu dans de nouveaux formats.
+- Créer de nouveaux contenus de formations (Mobile, PDF...) pour la communauté
+
+#### Périmètre 1 (produits internes à beta.gouv.fr)
+
+- Rendre nos outils totalement conforme (Générateur de Déclaration d'accessibilité)
+- Améliorer l'accessibilité de nos outils interne (Espace Membre)
+
+#### Périmètre 2 (produits incubés à la DINUM)
+
+- Proposer du mentorat régulier
+- Accompagner les équipes
+
+#### Périmètre 3 (produits incubés dans le réseau)
+
+- Continuer nos actions de formations et d'accompagnement auprès du réseau
 
