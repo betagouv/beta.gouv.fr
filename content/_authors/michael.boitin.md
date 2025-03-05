@@ -11,7 +11,7 @@ missions:
     startups:
       - dossierfacile
   - start: 2022-01-02
-    end: 2025-03-31
+    end: 2025-06-30
     status: independent
     employer: Michael Boitin EI
     startups:

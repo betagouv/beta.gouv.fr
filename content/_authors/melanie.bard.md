@@ -4,7 +4,7 @@ role: Business Developer
 domaine: Développement
 missions:
   - start: 2022-05-02
-    end: 2025-02-28
+    end: 2025-12-30
     status: independent
     employer: OPTEAMIS
     startups:

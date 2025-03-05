@@ -6,7 +6,7 @@ link: https://sometimesuseful.com/
 github: bbohec
 missions:
   - start: 2022-04-11
-    end: 2025-03-31
+    end: 2025-09-01
     status: independent
     employer: Malt
     startups:

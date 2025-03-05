@@ -6,7 +6,6 @@ competences: []
 missions:
   - start: 2025-02-25
     end: 2025-09-21
-    employer: ANCT
     status: admin
-    startups: []
+    employer: ANCT
 ---

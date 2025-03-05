@@ -5,7 +5,7 @@ link: http://sigill.org
 github: glibersat
 missions:
   - start: 2021-05-10
-    end: 2025-03-31
+    end: 2025-08-31
     status: independent
     employer: Little Big Connexion
     startups:
