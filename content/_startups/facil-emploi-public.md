@@ -1,15 +1,6 @@
 ---
-mission: Accompagner le travail des employeurs de la fonction publique
-incubator: dinum
-title: Facil'Emploi Public
-contact: denis.duwoye@beta.gouv.fr
 accessibility_status: non conforme
-sponsors:
-  - /organisations/dgafp
-  - /organisations/mtfp
-phases:
-  - name: investigation
-    start: 2024-03-18
+contact: denis.duwoye@beta.gouv.fr
 thematiques:
   - Administratif
   - Travail / Emploi
@@ -18,7 +9,21 @@ usertypes:
   - etat
   - collectivite-territoriale
 techno: []
-link: ''
+title: Facil’Emploi Public
+mission: Accompagner le travail des employeurs de la fonction publique
+incubator: dinum
+sponsors:
+  - /organisations/dgafp
+  - /organisations/mtfp
+phases:
+  - name: investigation
+    comment: null
+    start: 2024-03-18
+    end: null
+events: []
+redirect_from:
+  - /startups/parcours.rh
+  - /startups/parcours.rh.html
 ---
 ## Contexte
 

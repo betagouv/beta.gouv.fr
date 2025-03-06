@@ -4,7 +4,7 @@ role: Lead chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-10-23
-    end: 2025-03-30
+    end: 2025-04-30
     status: independent
     employer: DINUM
     startups:

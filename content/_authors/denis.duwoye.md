@@ -14,6 +14,6 @@ missions:
     status: admin
     employer: EIG
     startups:
-      - parcours.rh
+      - facil-emploi-public
 link: https://www.linkedin.com/in/dduwoye/
 ---

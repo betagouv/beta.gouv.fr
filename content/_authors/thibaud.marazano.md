@@ -6,12 +6,24 @@ link: https://tmzn.me
 github: ThibaudMZN
 missions:
   - start: 2023-02-17
-    end: 2025-12-31
+    end: 2025-09-04
     status: independent
     employer: Omnicité La Zone
     startups:
+      - demain-specialiste-cyber
       - homologation
+      - nis2
 memberType: beta
-competences: []
+competences:
+  - Développement Backend
+  - Développement Frontend
+  - Développement Full-stack
+  - Docker
+  - JavaScript/TypeScript
+  - Matomo
+  - Metabase
+  - PostgreSQL
+  - Sécurité informatique
+  - UI
 ---
 Développeur le jour, musicien la nuit.
