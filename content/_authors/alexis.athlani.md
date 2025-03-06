@@ -1,6 +1,6 @@
 ---
 fullname: Alexis Athlani
-role: Développeur et Géographe
+role: Software Engineer, Géographe
 domaine: Développement
 github: alexisig
 missions:
@@ -19,4 +19,5 @@ competences:
   - PostgreSQL
   - Python
   - Product strategy
+link: https://www.linkedin.com/in/alexisathlani/
 ---

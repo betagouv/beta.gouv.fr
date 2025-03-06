@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2025-03-05
     end: 2025-09-05
-    employer: Urssaf
     status: independent
+    employer: Urssaf
     startups:
       - mon-entreprise
 ---
