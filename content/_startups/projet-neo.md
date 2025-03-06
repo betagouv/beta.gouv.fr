@@ -10,16 +10,14 @@ usertypes:
 title: Projet NEO
 mission: Simplifier la programmation des missions d'une escadre de l'AAE
 incubator: fabnumdef
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2024-11-18
-    end: null
 events:
   - name: other
-    comment: validation de nouveaux process avec l'équipe produit
     date: 2025-02-24
+    comment: validation de nouveaux process avec l'équipe produit
+link: ''
 ---
 ## Contexte
 

@@ -12,7 +12,7 @@ missions:
       - demarches-simplifiees.fr
       - rdv-service-public
   - start: 2024-09-03
-    end: 2025-03-31
+    end: 2025-06-06
     status: independent
     employer: Scopopop
     startups:
