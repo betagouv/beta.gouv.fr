@@ -5,13 +5,13 @@ domaine: Déploiement
 github: lbranaa
 missions:
   - start: 2023-01-03
-    end: 2023-09-30
+    end: 2023-10-18
     status: independent
     employer: Scopyleft
     startups:
       - nosgestesclimat
   - start: 2024-09-29
-    end: 2025-06-30
+    end: 2025-08-30
     status: independent
     employer: LBC
     startups:

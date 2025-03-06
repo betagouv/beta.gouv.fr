@@ -12,7 +12,7 @@ missions:
     startups:
       - chauffage-urbain
   - start: 2022-10-01
-    end: 2025-03-31
+    end: 2026-02-28
     status: independent
     employer: PathTech
     startups:
