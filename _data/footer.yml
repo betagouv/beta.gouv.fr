@@ -21,8 +21,8 @@ links:
       label: Nous contacter
       target: _pages/contact.md
     -
-      label: Bilan 2023
-      target: _pages/bilan/2023.md
+      label: Bilan 2024
+      target: _pages/bilan/2024.md
     -
       label: Une mission de la DINUM
       url: https://www.numerique.gouv.fr/
