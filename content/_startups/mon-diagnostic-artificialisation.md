@@ -2,7 +2,7 @@
 mission: Faciliter la mise en oeuvre du Zéro Artificialisation Nette
 incubator: mtes
 repository: https://github.com/MTES-MCT/sparte
-contact: ines.dartiguenave@beta.gouv.fr
+contact: contact@mondiagartif.beta.gouv.fr
 analyse_risques: true
 usertypes:
   - collectivite-territoriale

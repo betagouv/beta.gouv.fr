@@ -1,7 +1,7 @@
 ---
 fullname: Pierre-Olivier Mauguet
 domaine: Développement
-role: Développeur full stack
+role: Lead tech Fabrique de la DGFiP
 github: pom421
 link: http://pom421.github.io/
 missions:
@@ -28,7 +28,7 @@ missions:
     startups:
       - egalite.professionnelle
   - start: 2024-02-12
-    end: 2024-12-31
+    end: 2025-07-31
     status: independent
     employer: malt
     startups:
