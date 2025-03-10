@@ -1,7 +1,7 @@
 ---
-fullname: Sébastien  Morel
+fullname: Sébastien Morel
 role: 'Responsable incubateur '
-domaine: Intraprenariat
+domaine: Animation
 link: https://www.linkedin.com/in/s%C3%A9bastien-morel/
 competences:
   - Administration Publique
