@@ -19,8 +19,8 @@ competences:
 missions:
   - start: 2025-03-10
     end: 2025-12-31
-    employer: Omnicité
     status: service
+    employer: Omnicité
     startups:
       - mon-suivi-social
 ---
