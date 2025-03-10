@@ -1,10 +1,10 @@
 ---
-domaine: Produit
+domaine: Support
 fullname: Julien HENRY
-role: Produit
+role: Support
 missions:
   - start: 2024-06-03
-    end: 2025-04-06
+    end: 2025-09-06
     status: independent
     employer: MALT
     startups:
