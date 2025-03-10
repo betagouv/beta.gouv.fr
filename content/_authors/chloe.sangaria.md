@@ -1,11 +1,12 @@
 ---
 fullname: Chloé SANGARIA
-role: Appui Lead Biz Dev
-domaine: Animation
+role: Appui transverse Incubateur
+domaine: Intraprenariat
 github: CSPEGF
 missions:
   - start: 2023-07-02
-    end: 2027-12-31
+    end: 2025-06-10
     status: service
 memberType: beta
+competences: []
 ---
