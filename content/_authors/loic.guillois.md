@@ -35,7 +35,7 @@ missions:
     startups:
       - pass.engagement.jeune
   - start: 2023-07-02
-    end: 2025-03-11
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:
