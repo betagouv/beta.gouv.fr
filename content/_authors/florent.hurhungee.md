@@ -9,4 +9,6 @@ missions:
     end: 2027-02-01
     status: admin
     employer: France Travail
+    startups:
+      - recrutement-simplifie
 ---

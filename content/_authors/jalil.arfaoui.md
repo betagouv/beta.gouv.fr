@@ -6,7 +6,7 @@ link: https://jalil.arfaoui.net/
 github: JalilArfaoui
 missions:
   - start: 2024-02-22
-    end: 2025-12-31
+    end: 2025-06-30
     status: independent
     employer: INOPS
     startups:
@@ -17,4 +17,7 @@ competences:
   - Développement Frontend
   - Développement Full-stack
   - JavaScript/TypeScript
+  - DevOps
+  - PHP
 ---
+J’écris du code comme un artisan façonne son ouvrage : avec soin, exigence et le souci du détail. Pas pour faire joli, mais pour qu’il serve, dure et s’adapte. Après 20 ans à construire des logiciels, je sais que la vraie performance, c’est celle qui a du sens et de l’impact.
