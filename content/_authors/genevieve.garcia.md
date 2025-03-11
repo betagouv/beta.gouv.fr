@@ -12,5 +12,5 @@ missions:
     startups:
       - handicompatible
 github: G-06204-Garcia
-link: https://www.linkedin.com/in/geneviève-charrier-garcia-859a278a/  ou https://www.linkedin.com/in/geneviève-garcia-47443a9a/
+link: https://www.linkedin.com/in/geneviève-charrier-garcia-859a278a
 ---
