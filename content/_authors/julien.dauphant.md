@@ -13,7 +13,7 @@ missions:
       - e-controle
       - plante-et-moi
   - start: 2019-09-01
-    end: 2026-08-31
+    end: 2024-10-30
     status: admin
     employer: DINUM
     startups:

@@ -45,7 +45,7 @@ L'ordonnance n° 2017-1387 du 22 septembre 2017 acte le lancement du Code du Tra
 ## Le problème
 
 Le droit du travail est une matière complexe à appréhender pour un non expert : 
--	Un langage spécifique difficilement accessible 
+-	Un langage spécifique difficilement accessible .
 -	Différentes sources de droit qu’il convient d’articuler pour identifier la réponse qui s’applique dans une situation donnée (Code du travail, conventions collectives, accords d’entreprise, etc.)
 
 

@@ -13,5 +13,5 @@ missions:
     status: independent
 competences: []
 teams:
-  - /teams/francetravail-animation
+  - /teams/francetravail-appui-transverse
 ---

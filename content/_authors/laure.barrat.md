@@ -8,4 +8,6 @@ missions:
     end: 2027-02-01
     status: admin
     employer: Cap Emploi
+    startups:
+      - handicompatible
 ---

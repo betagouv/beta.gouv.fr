@@ -1,6 +1,6 @@
 ---
 link: https://espacesurdemande.anct.gouv.fr/?mtm_campaign=annuaire-se-beta&mtm_source=web&mtm_medium=beta-gouv
-mission: Rendre accessible les espaces publics auprès du grand public
+mission: Simplifier la réservation des salles et équipements publics
 incubator: anct
 title: Espace sur Demande
 contact: servicesnumeriques@anct.beta.gouv.fr
@@ -30,12 +30,13 @@ dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/espacesurdemande-anct
 techno: []
 analyse_risques: true
 ---
-**Espace sur Demande : Rendez vos espaces publics accessibles et simples à gérer**
+**Espace sur Demande : L'outil de réservation des salles et équipements publics**
 
-**Notre Vision** : Rendre l’accès aux espaces publics facile pour les citoyens, entreprises, associations, et agents publics.
+**Notre Vision** : Simplifier la gestion des réservations des espaces publics et l’accès aux espaces publics pour les citoyens, entreprises, associations, et agents publics.
 Espace sur Demande est une plateforme novatrice qui transforme la gestion des espaces publics.
 
-**Notre objectif est simple** : Permettre à chaque citoyen, association ou entreprise de réserver rapidement et facilement un espace public près de chez lui. Qu’il s’agisse d’organiser un événement, une réunion ou une activité communautaire, la réservation d’espaces doit être simple, fluide et transparente pour tous.
+**Notre objectif est simple** : D'un côté, permettre à chaque citoyen, association ou entreprise de réserver rapidement et facilement un espace public près de chez lui. De l'autre, simplifier le travail des acteurs publics dans la gestion des demandes, calendriers des espaces et génération des conventions de mise à disposition. 
+
 
 **Contexte du Projet**
 
@@ -47,7 +48,9 @@ Aujourd’hui, la gestion des réservations d’espaces publics reste un process
 
 **Notre Solution : Un outil numérique pour la location**
 
-Espace sur Demande simplifie l’ensemble du processus de réservation et de mise à disposition d’espaces publics grâce à une plateforme 100 % en ligne. Voici ce que nous offrons :
+Espace sur Demande simplifie l’ensemble du processus de réservation et de mise à disposition de salles et équipements publics grâce à une plateforme 100 % en ligne. 
+
+Voici ce que nous offrons :
 
 • Réservation autonome : En quelques clics, vous pouvez réserver des salles des fêtes, des auditoriums, ou des gymnases.
 
@@ -55,7 +58,12 @@ Espace sur Demande simplifie l’ensemble du processus de réservation et de mis
 
 • Signature électronique sécurisée : Finies les longues attentes pour obtenir une signature.
 
+• Réservation interne : Créez manuellement les créneaux pour les administrés qui souhaitent conserver leurs habitudes, et bloquer des créneaux pour vos propres besoins.
+
+• Chat interne : Échangez directement sur la plateforme avec les locataires pour éviter les échanges par mail.
+
 • Stockage centralisé des documents : Tous les documents et données sont sécurisés et accessibles facilement.
+
 L’ensemble du processus est digitalisé, rendant la gestion des espaces publics plus moderne et efficace, aussi bien pour les collectivités que pour les administrés.
 
 **Stratégie : Une solution pour tous**
@@ -68,4 +76,4 @@ Espace sur Demande vise à se déployer à grande échelle pour permettre aux co
 
 • Lien avec les serrures connectées : Pour automatiser l’accès aux espaces réservés et renforcer la sécurité.
 
-Grâce à Espace sur Demande, la gestion des espaces publics devient intuitive et rapide. Gagnez du temps, simplifiez vos démarches administratives, et offrez un service moderne et pratique à vos administrés.
+Grâce à Espace sur Demande, la gestion des espaces publics devient intuitive et rapide. Gagnez du temps, simplifiez vos démarches administratives, et offrez un service moderne et pratique à vos locataires.

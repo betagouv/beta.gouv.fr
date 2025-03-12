@@ -16,6 +16,6 @@ previously:
   - anotea
   - mobiville
 teams:
-  - /teams/francetravail-animation
+  - /teams/francetravail-l-incubateur-de-france-travail-leads-de-pratiques
 ---
 Passionné par le Design de Service, j'aime co-construire des expériences interactives utilisables satisfaisantes voire mémorables pour nos utilisateurs !
