@@ -5,17 +5,13 @@ github: https://github.com/StartupsPoleEmploi/
 contact: incubateur.00589@francetravail.fr
 logo: logo_francetravail.png
 owner: /organisations/francetravail
-website: 'https://www.francetravail.org/accueil/ '
+website: https://www.francetravail.org/accueil/
 address: 17 avenue de la porte des Lilas 75019
 redirect_from: []
 highlighted_startups:
-  - mes-aides-france-travail
   - la-bonne-boite
-  - competence.validee
-  - ma-communaute-crea
-  - handicompatible
-  - profilence
-  - recrutement-simplifie
+  - mes-evenements-emploi
+  - mes-aides-france-travail
 ---
 Depuis 2015, l'Incubateur de France Travail répond aux problématiques remontées par le terrain et les directions métiers dans la mise en œuvre de l'offre de service de France Travail, en proposant des solutions digitales utiles et utilisées dans une démarche exploratoire axée sur l'usager et l'impact. 
 

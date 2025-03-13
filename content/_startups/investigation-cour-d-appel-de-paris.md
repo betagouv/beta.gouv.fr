@@ -26,6 +26,8 @@ link: ''
 
  **Sponsor** : Marie-Suzanne Le Quéau, procureure générale de la cour d'appel de Paris
 
+**L'investigation est co-portée par l'incubateur Alliance et l'incubateur du ministère de la Justice.**
+
 
 ### Eléments de contexte
 

@@ -8,5 +8,5 @@ missions:
     status: admin
     employer: Pôle Emploi
 teams:
-  - /teams/PE
+  - /teams/francetravail-appui-transverse
 ---

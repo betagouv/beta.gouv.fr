@@ -6,7 +6,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2024-09-13
-    end: 2025-03-09
+    end: 2025-03-31
     status: admin
     employer: Scopyleft
     startups:
