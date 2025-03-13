@@ -27,6 +27,7 @@ phases:
 stats_url: https://labonneboite.francetravail.fr/stats
 thematiques:
   - Travail / Emploi
+techno: []
 ---
 **Le saviez-vous ?**
 

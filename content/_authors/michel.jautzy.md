@@ -11,10 +11,10 @@ competences:
   - JavaScript/TypeScript
 missions:
   - start: 2025-01-02
-    end: 2025-12-31
+    end: 2025-06-10
     status: independent
     employer: DINUM
     startups:
-      - plateforme-agriculteurs
+      - droit-data-gouv-fr-simulateurs-de-droits
 ---
 Entrepreneur passionné de dév web & d'intégration AI.

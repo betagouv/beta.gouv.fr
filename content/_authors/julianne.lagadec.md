@@ -22,6 +22,12 @@ missions:
       - exposition-ij
       - pilotagevoiepro
       - sirius
+  - start: 2025-03-13
+    end: 2025-05-31
+    status: independent
+    employer: PathTech
+    startups:
+      - pass-sport
 previously:
   - voeux-apprentissage
   - dematapprentissage

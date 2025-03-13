@@ -8,4 +8,6 @@ missions:
     end: 2027-01-21
     status: admin
     employer: FRANCE TRAVAIL
+    startups:
+      - ma-communaute-crea
 ---

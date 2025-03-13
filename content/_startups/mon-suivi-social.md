@@ -34,7 +34,7 @@ techno:
   - PostgreSQL
   - Typescript
 analyse_risques: true
-budget_url: https://flax-periwinkle-58c.notion.site/Budget-09ccd2141c15427b98ace25078cbec29?pvs=4
+budget_url: https://incubateurdesterritoires.notion.site/Budget-1b2744bf03dd81c9a005c06c3d14a6d2
 fast:
   promotion: 15
   montant: 160000

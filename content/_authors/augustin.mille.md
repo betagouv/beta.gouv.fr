@@ -1,6 +1,6 @@
 ---
 fullname: Augustin Mille
-role: 'Chargé de déploiement - Plateforme Aides-agri '
+role: Chargé de déploiement
 domaine: Déploiement
 link: https://www.linkedin.com/in/augustin-mille-166625146/
 competences:
