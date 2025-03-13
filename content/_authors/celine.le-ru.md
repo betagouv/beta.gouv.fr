@@ -18,7 +18,7 @@ missions:
     startups:
       - promotion-de-profil-acceleree
   - start: 2023-06-23
-    end: 2025-03-31
+    end: 2024-12-31
     status: service
     employer: OCTO
     startups:
