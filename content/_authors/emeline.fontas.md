@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2025-03-10
     end: 2025-09-12
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - zero-logement-vacant
 ---

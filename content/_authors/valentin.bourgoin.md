@@ -12,8 +12,8 @@ competences:
 missions:
   - start: 2025-04-01
     end: 2026-01-31
-    employer: DJEPVA
     status: independent
+    employer: DJEPVA
     startups:
       - api-engagement
 ---
