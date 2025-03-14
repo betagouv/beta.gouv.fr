@@ -17,7 +17,7 @@ missions:
       - plateforme.rome.4-0
       - travailler.en.france
   - start: 2023-09-01
-    end: 2025-12-28
+    end: 2025-06-14
     status: service
     employer: France travail
     startups:

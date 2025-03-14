@@ -12,7 +12,7 @@ missions:
       - api.gouv.fr
       - datapass
   - start: 2021-12-31
-    end: 2026-03-14
+    end: 2025-03-30
     status: admin
     employer: dinum
     startups:

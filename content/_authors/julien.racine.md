@@ -4,9 +4,11 @@ role: CTO incubateur Pole Emploi
 domaine: Animation
 missions:
   - start: 2016-10-01
-    end: 2021-06-30
+    end: 2025-06-14
     status: admin
     employer: pole-emploi
+    startups:
+      - la-bonne-boite
 avatar: /img/authors/julien.racine.jpg
 previously:
   - memo
