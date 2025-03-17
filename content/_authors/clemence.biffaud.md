@@ -8,6 +8,8 @@ missions:
     end: 2021-11-30
     status: independent
     employer: NUMA
+    startups:
+      - services-web-anct
   - start: 2021-12-01
     end: 2022-10-31
     status: independent
@@ -20,14 +22,14 @@ missions:
     employer: NUMA
     startups:
       - artsducirque
+      - inventaire.zae
       - mission.debroussaillement
       - monprojetsup
   - start: 2024-11-04
-    end: 2025-03-31
+    end: 2025-08-30
     status: independent
     employer: NUMA
     startups:
-      - inventaire.zae
       - je-deviens-etudiant
 competences:
   - Coaching
