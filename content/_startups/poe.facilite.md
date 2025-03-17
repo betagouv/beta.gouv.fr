@@ -9,6 +9,8 @@ accessibility_status: non conforme
 phases:
   - name: construction
     start: 2023-01-19
+  - name: alumni
+    start: 2025-03-11
 thematiques: []
 usertypes: []
 techno: []

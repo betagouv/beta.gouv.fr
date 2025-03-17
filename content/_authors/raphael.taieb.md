@@ -11,7 +11,7 @@ missions:
     startups:
       - mobilic
   - start: 2023-09-01
-    end: 2025-03-31
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:
