@@ -40,10 +40,19 @@ missions:
     employer: Malt
     startups:
       - zero-logement-vacant
+  - start: 2025-02-28
+    end: 2025-06-30
+    status: independent
+    employer: Omnicité
+    startups:
+      - infomedicament
 badges:
   - segur
 competences:
   - Développement Frontend
   - Développement Backend
+  - Machine learning
+  - Data Science
+link: https://www.linkedin.com/in/loicguillois
 ---
-Développeur Web
+Développeur Web, ingénieur IA & Machine Learning
