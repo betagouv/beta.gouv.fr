@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2025-03-18
     end: 2025-09-30
-    employer: Malt
     status: independent
-    startups: []
+    employer: Malt
 ---
 Consultante en communication, stratégie digitale et identité de marque
 +18 ans d'expérience | Spécialisée dans les associations, fondations et startups à impact
