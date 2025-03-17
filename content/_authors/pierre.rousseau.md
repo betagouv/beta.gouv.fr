@@ -12,6 +12,12 @@ missions:
       - benefriches
       - jafer
       - precontentieux.justice
+  - start: 2025-03-17
+    end: 2025-06-17
+    status: independent
+    employer: scopyleft
+    startups:
+      - profilence
 badges:
   - segur
 competences:

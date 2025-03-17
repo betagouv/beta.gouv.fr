@@ -6,7 +6,7 @@ github: telohtrab
 link: http://trab.studio
 missions:
   - start: 2019-05-01
-    end: 2025-03-31
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:

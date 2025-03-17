@@ -10,7 +10,7 @@ competences:
   - Administration Publique
 missions:
   - start: 2024-11-19
-    end: 2025-03-30
+    end: 2025-06-30
     status: independent
     employer: Dynergie
 ---

@@ -1,5 +1,5 @@
 ---
 name: Animation
 incubator: francetravail
-mission: ''
+mission: Equipe d'animation
 ---
