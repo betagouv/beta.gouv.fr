@@ -5,7 +5,7 @@ domaine: Développement
 github: yohanngab
 missions:
   - start: 2023-01-30
-    end: 2025-03-29
+    end: 2025-03-31
     status: independent
     employer: Actimage
     startups:

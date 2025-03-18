@@ -14,5 +14,4 @@ missions:
 competences: []
 teams:
   - /teams/francetravail-animation
-  - /teams/francetravail-appui-transverse
 ---

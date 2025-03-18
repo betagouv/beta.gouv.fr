@@ -1,10 +1,10 @@
 ---
 fullname: John Labuzan 🌞
 domaine: Coaching
-role: Expert FAST, Coach, Growth🎯
+role: Expert FAST, Coach, SEO, Growth🎯
 github: jondu33
 avatar: /img/authors/johnlabuzan.jpeg
-link: https://fair-fair.fr
+link: https://academie-en-ligne.fr
 missions:
   - start: 2023-02-01
     end: 2023-10-31
