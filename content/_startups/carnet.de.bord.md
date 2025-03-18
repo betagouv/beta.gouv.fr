@@ -5,7 +5,7 @@ sponsors:
   - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
-link: https://carnetdebord.inclusion.beta.gouv.fr/
+link: ''
 repository: https://github.com/gip-inclusion/carnet-de-bord
 contact: contact@carnetdebord.inclusion.beta.gouv.fr
 stats: true
@@ -33,19 +33,27 @@ phases:
 thematiques: []
 techno: []
 ---
-**2024 : pause dans le développement du service numérique**
+# **2025 : fermeture définitive de l'application**
 
-**Le développement du produit numérique dans sa forme actuelle est arrêté.** L’équipe continuera d’assurer dans les prochains mois l’accompagnement et le support des utilisateurs actuels, sans évolutions techniques ou fonctionnelles.
+À la suite des engagements pris fin 2023 par le GIP Plateforme de l'inclusion, France Travail et le ministère du Travail (Direction générale à l'emploi et à la formation professionnelle - DGEFP), l'application Carnet de bord a été définitivement fermée en février 2025. 
 
-En lien avec l’incubateur de Pôle emploi et dans le cadre des expérimentations de la [réforme France Travail](https://travail-emploi.gouv.fr/emploi-et-insertion/france-travail/), la promesse de la co-construction d’un service numérique public de suivi de parcours des usagers n’est toutefois pas abandonnée. **C’est donc d’avantage une deuxième mouture de « Carnet de bord » qui se profile avec des discussions et des chantiers d’ores et déjà engagés par l’État. Nous vous communiquerons prochainement sur cette page les contacts des équipes en charge de ce travail.**
+Avant cette fermeture, l'ensemble des territoires expérimentateurs ont pu récupérer les données relatives à l'utilisation du produit : liste de bénéficiaires et d'accompagnateurs, contenu des carnets, etc. Cette fermeture du service numérique a été réalisée après de multiples échanges et communications avec les utilisateurs et après analyse des indicateurs d'activité (l'activité est devenue quasi-nulle à compter de fin 2024).  
+
+3 anciens conseils départementaux utilisateurs - Aveyron, Creuse et Loiret - ont basculé sur l'utilisation de l'application "Suivi de Parcours" de France Travail, cette dernière intégrant un service de consultation des archives de Carnet de bord.  
+
+# **2024 : pause dans le développement du service numérique**
+
+**Le développement du produit numérique dans sa forme actuelle a été arrêté.** L’équipe a continué d’assurer en 2024 l’accompagnement et le support des utilisateurs actuels, sans évolutions techniques ou fonctionnelles.
+
+En lien avec l’incubateur de France Travail et dans le cadre des expérimentations de la [réforme France Travail](https://travail-emploi.gouv.fr/emploi-et-insertion/france-travail/), la promesse de la co-construction d’un service numérique public de suivi de parcours des usagers n'a toutefois pas été abandonnée. **C’est donc d’avantage une deuxième mouture de « Carnet de bord » qui a été imaginée et s'est concrétisée avec l'application France Travail "Suivi de Parcours". 
 
 ## Contexte et constat
 
 **En octobre 2023, un « comité produit » s’est réuni**. Il s’agit d’un événement classique dans l’écosystème [beta.gouv](https://beta.gouv.fr) ayant lieu tous les 6 mois pour tous les produits numériques publics développés en mode « agile » qui, pour rappel, sont engagés dans des cycles de développement fonctionnel courts, dans une itération régulière avec leurs utilisateurs et dans l'évaluation par l’impact.
 
-Ce comité s’inscrivait notamment dans le cadre de la **mise en place d’une nouvelle comitologie produit dans le cadre de France Travail**, réunissant ainsi dans ce cadre des membres de la direction générale de Pôle emploi ou du Haut Commissariat à l’Emploi et à l’Engagement des entreprises.
+Ce comité s’inscrivait notamment dans le cadre de la **mise en place d’une nouvelle comitologie produit dans le cadre de France Travail**, réunissant ainsi dans ce cadre des membres de la direction générale de France Travail ou du Haut Commissariat à l’Emploi et à l’Engagement des entreprises.
 
-L’équipe a dressé un constat de l’usage de Carnet de bord et a établi que **l’[impact attendu](https://metabase.carnetdebord.inclusion.beta.gouv.fr/public/dashboard/81a749aa-6c29-46b2-9ca5-df9d90fd3257) (nombre de consultations, nombre de modification de carnets, etc.) n’était peut-être pas à la hauteur de l’investissement consenti par l’Etat dans son développement.** Il a donc été décidé - non pas d’arrêter le produit - mais de temporiser son activité actuelle en laissant - comme évoqué ci-dessus - uniquement de la ressource sur le seul support courant utilisateur, d’une part, et sur la résolution de bugs le cas échéant, d’autre part.
+L’équipe a dressé un constat de l’usage de Carnet de bord et a établi que **l’[impact attendu](https://metabase.carnetdebord.inclusion.beta.gouv.fr/public/dashboard/81a749aa-6c29-46b2-9ca5-df9d90fd3257) (nombre de consultations, nombre de modification de carnets, etc.) n’était peut-être pas à la hauteur de l’investissement consenti par l’Etat dans son développement.** Il a donc été décidé - non pas d’arrêter brutalement le produit - mais de temporiser son activité actuelle en laissant - comme évoqué ci-dessus - uniquement de la ressource sur le seul support courant utilisateur, d’une part, et sur la résolution de bugs le cas échéant, d’autre part.
 
 ## Quels apprentissages ?
 
@@ -53,21 +61,21 @@ Techniquement, le produit dans sa configuration actuelle atteignait ses limites 
 
 Par ailleurs, sur le cas d’usage majoritaire au sein des expérimentations (l’accompagnement de bénéficiaires du RSA : du téléchargement des flux à la saisie du contrat d’engagement réciproque), **certaines fonctionnalités étaient fortement attendues par les professionnels.**
 
-- L’absence de celles-ci empêchait une bascule intégrale sur Carnet de bord : interconnexion complète avec le SI Pôle emploi, notamment sur le périmètre du diagnostic socio-professionnel ; réalisation d’exports et possibilité de requêtage ; tableaux de pilotage ; gestion complète du CER dans l’outil (édition, validation, téléchargement) ; réalisation de bilans d’accompagnement, possibilités accrues d’échanges entre professionnels ; interconnexion entre les logiciels de gestion et Carnet de bord.
+- L’absence de celles-ci empêchait une bascule intégrale sur Carnet de bord : interconnexion complète avec le SI France Travail, notamment sur le périmètre du diagnostic socio-professionnel ; réalisation d’exports et possibilité de requêtage ; tableaux de pilotage ; gestion complète du CER dans l’outil (édition, validation, téléchargement) ; réalisation de bilans d’accompagnement, possibilités accrues d’échanges entre professionnels ; interconnexion entre les logiciels de gestion et Carnet de bord.
 - En conséquence, ces manques fonctionnels entrainaient bien souvent pour les professionnels des **double-saisies**, voire triple-saisies, expérience très préjudiciable à la rétention des utilisateurs.
 
 Enfin, le **faible nombre d’accompagnateurs** embarqués sur Carnet de bord, notamment en dehors des conseils départementaux, **diminuait fortement la valeur du partage d’informations et la plus-value de Carnet de bord** pour conseillers en insertion et travailleurs sociaux des départements : la promesse d’un gain d’informations sur les usagers obtenu grâce à Carnet de bord n’était pas tenue.
 
 ## Quelle suite pour Carnet de bord et l’idée d’un outil de suivi de parcours ?
 
-Le Haut Commissariat à l’Emploi et à l’Engagement des Entreprises (HC3E) s’est entretenu à l’automne 2023 avec de nombreux départements utilisateurs de Carnet de bord et, dans le cadre de France Travail notamment, est toutefois ressortie **une forte volonté des conseils départementaux de poursuivre la co-construction d’un outil numérique public de parcours des usagers en insertion** (en sus de l’offre déjà proposée par des éditeurs de logiciel ou se matérialisant dans les logiciels « maison »). Un Carnet de bord « V2 » a donc vocation à voir le jour, mobilisant des équipes et technologies différentes. Dans ce cadre, **de premiers chantiers exploratoires sont en cours au sein de Pôle emploi pour reprendre le flambeau du Groupement d’intérêt public (GIP) Plateforme de l’inclusion**. Les équipes concernées peuvent capitaliser sur certains acquis solides de Carnet de bord :
+Le Haut Commissariat à l’Emploi et à l’Engagement des Entreprises (HC3E) s’est entretenu à l’automne 2023 avec de nombreux départements utilisateurs de Carnet de bord et, dans le cadre de France Travail notamment, est toutefois ressortie **une forte volonté des conseils départementaux de poursuivre la co-construction d’un outil numérique public de parcours des usagers en insertion** (en sus de l’offre déjà proposée par des éditeurs de logiciel ou se matérialisant dans les logiciels « maison »). Un Carnet de bord « V2 » a donc vocation à voir le jour, mobilisant des équipes et technologies différentes. Dans ce cadre, **de premiers chantiers exploratoires sont en cours au sein de France Travail pour reprendre le flambeau du Groupement d’intérêt public (GIP) Plateforme de l’inclusion**. Les équipes concernées peuvent capitaliser sur certains acquis solides de Carnet de bord :
 
 - **Une sécurisation juridique poussée** : un [décret](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047318824) a été publié pour encadrer les échanges de données entre tous les acteurs de l’insertion ;
 - **Référentiel de données** : une nomenclature nationale des données de diagnostic socio-professionnel et des éléments de parcours (objectifs et actions) a été co-construite avec les professionnels et peut grandement faciliter les échanges de données (les interconnections techniques entre SI reposant en effet avant tout sur une interopérabilité sémantique) ;
 - **Un mode d’habilitation simple** : une matrice d’habilitation permet la création rapide et autonome de nouvelles structures et professionnels (l’outil est géré au niveau local) ;
 - **Une méthode itérative qui a fait ses preuves** : des échanges réguliers ont permis de bien comprendre ce qui était attendu par les professionnels de l’insertion. Plus particulièrement, l’idée est notamment que les aspects de l’outil qui ne suscitaient pas beaucoup d’engagement de la part des utilisateurs et qui n’étaient pas vraiment plébiscités disparaissent tandis que les fonctionnalités qui suscitaient le plus d’intérêt métier (et celles qui n’existaient pas encore mais qui étaient très attendues) soient améliorées / développées.
 
-## 2021 à 2023 - Archives
+# 2021 à 2023 - Archives
 
 ### Le problème
 

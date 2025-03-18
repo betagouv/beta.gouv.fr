@@ -11,7 +11,7 @@ missions:
     startups:
       - les-emplois
   - start: 2024-06-01
-    end: 2025-03-31
+    end: 2025-08-31
     status: independent
     employer: MALT
     startups:
@@ -22,5 +22,7 @@ competences:
   - Communication
   - Facilitation
   - Croissance
+  - Déploiement
+link: https://www.linkedin.com/in/rodolphe-gagetta-401764a8/
 ---
-La curiosité comme moteur, j'ai l'enthousiasme comme essence.
+Je booste la com des structures engagées. Actuellement pour Transition Écologique des Entreprises.

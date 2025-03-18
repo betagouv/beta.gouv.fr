@@ -15,20 +15,16 @@ usertypes:
 title: MesServicesCyber
 mission: Aider les entités publiques et privées à trouver les solutions répondant à leurs besoins cyber
 incubator: lab-innov-anssi
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2024-09-01
-    end: null
   - name: construction
-    comment: null
     start: 2024-11-15
-    end: null
 events:
   - name: product_launch
-    comment: FIC, Lille
     date: 2025-04-02
+    comment: FIC, Lille
+link: ''
 ---
 ## L'enjeu
 

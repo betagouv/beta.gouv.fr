@@ -9,5 +9,11 @@ missions:
     employer: ADEME
     startups:
       - ecobalyse
+  - start: 2025-03-17
+    end: 2025-09-17
+    status: admin
+    employer: ADEME
+    startups:
+      - ecobalyse
 memberType: beta
 ---

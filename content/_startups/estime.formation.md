@@ -111,5 +111,10 @@ Pour les autres publics, ils ont accès à une page d'information spécifique se
 - Grand Est 
 - Centre Val de Loire
 - Corse
+- Normandie
+- ARA
+- La Réunion
+- Ile de France
+A venir La Bretagne
 
 Durant l'année 2025, nous envisageons d'ouvrir à l'ensemble de la Métropole et aux Départements et Régions d'Outre-Mer.

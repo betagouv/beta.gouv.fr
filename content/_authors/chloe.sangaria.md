@@ -11,5 +11,5 @@ missions:
 memberType: beta
 competences: []
 teams:
-  - /teams/francetravail-appui-transverse
+  - /teams/francetravail-animation
 ---
