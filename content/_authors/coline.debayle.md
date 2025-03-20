@@ -15,6 +15,12 @@ missions:
     employer: NUMA
     startups:
       - economes.de.flux.a.disposition
+  - start: 2025-01-01
+    end: 2025-06-20
+    status: independent
+    employer: Dynergie
+    startups:
+      - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
 memberType: dinum
 competences: []
 ---
