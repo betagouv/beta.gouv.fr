@@ -5,7 +5,7 @@ domaine: Développement
 github: octo-theg
 missions:
   - start: 2023-02-02
-    end: 2025-01-05
+    end: 2025-06-30
     status: service
     employer: OCTO
     startups:

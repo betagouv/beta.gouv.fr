@@ -7,8 +7,8 @@ competences:
 missions:
   - start: 2025-03-14
     end: 2025-10-01
-    employer: Ministère de la justice
     status: admin
+    employer: Ministère de la justice
     startups:
       - mistral-penal
 ---

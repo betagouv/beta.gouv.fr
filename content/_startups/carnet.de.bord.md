@@ -5,7 +5,6 @@ sponsors:
   - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
-link: ''
 repository: https://github.com/gip-inclusion/carnet-de-bord
 contact: contact@carnetdebord.inclusion.beta.gouv.fr
 stats: true
@@ -32,6 +31,7 @@ phases:
     start: 2023-12-01
 thematiques: []
 techno: []
+link: ''
 ---
 # **2025 : fermeture définitive de l'application**
 

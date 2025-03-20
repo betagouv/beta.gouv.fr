@@ -1,17 +1,17 @@
 ---
 fullname: remi prebot
-role: Développement produit insertion.data
-domaine: Déploiement
+role: 'Coach produit & IA - Mon assistant parquet '
+domaine: Coaching
 github: rprebot
 missions:
-  - start: 2021-01-19
+  - start: 2025-03-01
     end: 2025-06-30
     status: independent
-    employer: Octo
+    employer: Dynergie
     startups:
-      - rdv.insertion
+      - investigation-cour-d-appel-de-paris
 badges:
   - segur
 competences: []
 ---
-Data product manager 6 ans d'expérience dans des environnements conseil et start-up sur des problématiques de développement de produits data
+PM data & IA

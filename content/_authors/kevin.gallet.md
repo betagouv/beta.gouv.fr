@@ -18,7 +18,7 @@ competences:
   - UI
 missions:
   - start: 2024-09-17
-    end: 2025-02-28
+    end: 2025-03-31
     status: independent
     employer: Mtes
     startups:
@@ -29,5 +29,12 @@ missions:
     employer: LBC
     startups:
       - je-deviens-etudiant
+  - start: 2025-02-12
+    end: 2025-08-31
+    status: independent
+    employer: LBC
+    startups:
+      - les.bases
+      - suite.d.outils.des.mediateurs.numeriques
 ---
-Developpeur fullstack ayant collaborer dans des entreprises grands comptes et startup
+Développeur fullstack 

@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2025-03-25
     end: 2025-08-25
-    employer: La.zone / Solstice
     status: independent
+    employer: La.zone / Solstice
     startups:
       - portail-rse
 ---
