@@ -9,8 +9,8 @@ competences:
 missions:
   - start: 2025-03-24
     end: 2025-06-24
-    employer: Omnicité
     status: independent
+    employer: Omnicité
     startups:
       - mon-aide-cyber
 ---

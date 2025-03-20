@@ -6,7 +6,7 @@ link: https://cv.mledoux.fr
 github: ledouxm
 missions:
   - start: 2024-03-11
-    end: 2025-03-31
+    end: 2025-07-31
     status: independent
     startups:
       - compte.rendu.vif
