@@ -15,6 +15,18 @@ missions:
     employer: NUMA
     startups:
       - economes.de.flux.a.disposition
+  - start: 2025-01-01
+    end: 2025-04-10
+    status: independent
+    employer: NUMA
+    startups:
+      - etat-sanitaire-des-monuments-historiques-en-mobilite
+  - start: 2025-01-01
+    end: 2025-06-20
+    status: independent
+    employer: Dynergie
+    startups:
+      - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
 memberType: dinum
 competences: []
 ---

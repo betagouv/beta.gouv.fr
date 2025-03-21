@@ -1,10 +1,10 @@
 ---
 fullname: Jennifer Le Cann
-role: UX/UI Designer au sein de la Fabrique Numérique du ministère des Armées
-domaine: Design
+role: Responsable de la Fabrique Numérique du Ministère des Armées par intérim
+domaine: Animation
 missions:
   - start: 2022-09-01
-    end: 2025-08-31
+    end: 2025-12-30
     status: admin
     employer: Ministère des armées
     startups:

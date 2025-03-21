@@ -69,3 +69,8 @@ A ce stade, il n'est pas envisagé de mettre l'outil à disposition des collecti
 - Construction et entraînement d'un modèle (Construction du dataset suffisant pour l’entraînement du modèle, choix d'une approche entre détection simple d'une perte de surface agricole et qualification plus fine, test et validation du modèle : faux positifs, faux négatifs)
 - Travail sur la simplification du passage de la détection de changement d'usage agricole (une surface agricole ne l'est plus) à la notion de détournement d'usage agricole (la perte de surface agricole détectée n'est pas légale).
 - Travail sur l'intégration de l'outil dans la conduite des politiques publiques : déclenchement de l'action publique suite à une détection confirmée, plus-value dans les faits par rapport aux autres sources d'information, capacité à traiter l'aval des détections.
+
+## Post-mortem
+
+Il s'est avéré que la détection des détournements d’usage agricole n’était pas un problème majeur, car les surfaces concernées sont déjà identifiées avec des méthodes existantes. L’impact attendu sur la prévention des détournements s’est avéré limité. Le traitement des cas détectés (et non leur détection) était le véritable enjeu, mais cet axe a été peu étudié lors de l'investigation. Des pistes ont pourtant été soulevées dont la détection d'un possible futur détournement dès la vente d'une parcelle. Enfin, le manque de disponibilité de l’intrapreneur a ralenti l’avancement et compromis la capacité de pivoter vers une solution plus adaptée.
+

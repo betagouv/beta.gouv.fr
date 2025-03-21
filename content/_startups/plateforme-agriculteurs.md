@@ -1,7 +1,7 @@
 ---
 mission: 'Accédez aux meilleures aides pour votre entreprise agricole '
 incubator: agriculture
-title: 'Plateforme Aides Agri '
+title: 'Aides Agri '
 contact: beatrice.neyrac@agriculture.gouv.fr
 accessibility_status: non conforme
 thematiques:
@@ -44,6 +44,7 @@ Un service numérique composé de 2 briques servicielles
 **Pour qui**: agriculteurs
 
 **Autres usagers** : porteurs d’aides et conseillers
+
 
 **Brique servicielle 2** : Mise en relation avec le bon conseiller de proximité
 

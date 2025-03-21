@@ -4,10 +4,11 @@ short_description: Lancé en 2019, cet incubateur encourage l’innovation au se
 owner: /organisations/armees
 logo: logo_fab_num_armee.png
 github: https://github.com/fabnumdef
-contact: mathieu.mahr@beta.gouv.fr?subject=Incubateur
+contact: mathieu.mahr@beta.gouv.fr
 address: 20 bis rue Balard, 75015 Paris
 highlighted_startups:
-    - civils-de-la-defense
-    - anais
-    - metiis
+  - civils-de-la-defense
+  - anais
+  - metiis
+website: https://beta.gouv.fr/incubateurs/fabnumdef.html
 ---
