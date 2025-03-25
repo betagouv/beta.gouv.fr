@@ -1,12 +1,12 @@
 ---
 fullname: Chaïb Martinez
-role: Growth Hacker 🚀 - Mentor
+role: Mentor Impact  🚀
 avatar: https://pbs.twimg.com/profile_images/803636352348725248/c_j2qY7f_400x400.jpg
 link: https://www.linkedin.com/in/chaibmartinez/
 github: chaibax
 missions:
   - start: 2018-06-01
-    end: 2025-12-31
+    end: 2025-09-01
     status: independent
     employer: numa
     startups:
@@ -16,7 +16,7 @@ missions:
       - demarches-simplifiees.fr
       - envergo
       - estime
-      - jeveuxaider
+      - la-bonne-alternance
       - l-immersion-facile
       - metiers-numeriques
       - tchap
@@ -28,6 +28,7 @@ missions:
     employer: numa
     startups:
       - faritas
+      - jeveuxaider
       - la-bonne-alternance
       - sites-faciles
   - start: 2018-06-26

@@ -72,5 +72,5 @@ Nous vous recommandons de nous contacter par email : [data-inclusion@inclusion.g
 
 ### Consommer et réutiliser les données de data·inclusion
 
-Les données de data·inclusion sont mises à disposition en [téléchargement libre](https://www.data.gouv.fr/fr/datasets/6233723c2c1e4a54af2f6b2d/) selon les principes de l'Open Data pour intégration dans votre outil (formats de données Excel, CSV et JSON). Nous mettons également à disposition [une API](https://www.data.inclusion.beta.gouv.fr/api/lapi-data.inclusion) pour la récupération de données en temps réel, à intégrer par vos équipes informatiques ou un prestataire.\
+Les données de data·inclusion sont mises à disposition en [téléchargement libre](https://www.data.gouv.fr/fr/datasets/6233723c2c1e4a54af2f6b2d/) selon les principes de l'Open Data pour intégration dans votre outil (formats de données Excel, CSV et JSON). Nous mettons également à disposition [une API](https://data.inclusion.gouv.fr/acceder-aux-donnees/) pour la récupération de données en temps réel, à intégrer par vos équipes informatiques ou un prestataire.\
 N'hésitez pas à nous contacter pour que nous discutions de votre cas d'usage des données data·inclusion :  [data-inclusion@inclusion.gouv.fr](mailto:data-inclusion@inclusion.gouv.fr)

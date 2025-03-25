@@ -8,4 +8,8 @@ missions:
     status: admin
     startups:
       - andi
+  - start: 2025-03-21
+    end: 2025-06-24
+    status: independent
+    employer: ANCT
 ---
