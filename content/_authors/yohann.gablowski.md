@@ -10,6 +10,7 @@ missions:
     employer: Actimage
     startups:
       - sirius
+      - uai_siret
 memberType: beta
 competences: []
 ---

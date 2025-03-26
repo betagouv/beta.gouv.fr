@@ -9,9 +9,9 @@ competences:
 missions:
   - start: 2025-03-24
     end: 2025-06-24
-    employer: Omnicité
     status: independent
+    employer: Omnicité
     startups:
       - mon-aide-cyber
 ---
-Passionnée par l'univers des start-ups, j'adore être au coeur de projets innovants et utiles aux enjeux de notre société actuelle. J'aide le déploiement de ces projets grâce à mes compétences analytiques, relationnelles et commerciales. 
+ 

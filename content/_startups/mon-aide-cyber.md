@@ -19,7 +19,8 @@ mon_service_securise: true
 repository: https://github.com/betagouv/mon-aide-cyber
 usertypes: []
 techno: []
-link: ''
+link: https://monaide.cyber.gouv.fr/
+stats_url: https://monaide.cyber.gouv.fr/statistiques-utilisation
 ---
 ## En cours de construction
 

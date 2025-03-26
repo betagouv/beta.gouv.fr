@@ -10,4 +10,5 @@ missions:
       - dossierfacile
 memberType: beta
 competences: []
+link: https://fr.linkedin.com/in/laure-mili-rose-877969213
 ---
