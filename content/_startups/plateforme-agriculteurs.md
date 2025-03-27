@@ -28,7 +28,7 @@ Suite à la crise agricole, 70 engagements ont été pris par le gouvernement po
 L’atelier de cadrage du 13 mai 2024 a ensuite fait émerger un premier périmètre à adresser : les démarches administratives de demandes d’aides financières. 
 ## Problème
 
-****De nombreuses aides publiques existent, mais il y a :**** 
+**De nombreuses aides publiques existent, mais il y a :** 
 *   **_Un manque de visibilité_**  : les agriculteurs n'ont pas toujours connaissance de leur
 existence. Ces aides sont portées par une multiplicité d’acteurs dont les rôles sont parfois mal compris.
 * **_Un manque de lisibilité_** : une fois identifiées, les aides ne sont pas toujours faciles

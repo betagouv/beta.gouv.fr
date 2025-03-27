@@ -7,8 +7,8 @@ competences: []
 missions:
   - start: 2025-03-25
     end: 2025-09-30
-    employer: Scopopop
     status: service
+    employer: Scopopop
     startups:
       - mesads
 ---

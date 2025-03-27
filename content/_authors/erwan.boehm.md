@@ -4,7 +4,7 @@ fullname: Erwan Boehm
 role: Développement
 missions:
   - start: 2024-06-12
-    end: 2025-03-28
+    end: 2025-06-28
     status: independent
     employer: LBC
     startups:
@@ -15,5 +15,6 @@ competences:
   - LLM
 memberType: beta
 link: https://github.com/boehm-e/
+github: boehm-e
 ---
-Développeur Full Stack avec appétence pour l'IA et les LLMs
+Développeur Full Stack / IA / LLMs
