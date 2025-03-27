@@ -1,6 +1,6 @@
 ---
 fullname: Laurène Branaa
-role: Chargée de déploiement
+role: Chargée de déploiement / PO
 domaine: Déploiement
 github: lbranaa
 missions:
@@ -20,6 +20,9 @@ previously:
   - datagir
   - nosgestesclimat
 memberType: beta
-competences: []
+competences:
+  - Product strategy
+  - Facilitation
+  - Matomo
 link: https://www.linkedin.com/in/laurene-branaa/
 ---
