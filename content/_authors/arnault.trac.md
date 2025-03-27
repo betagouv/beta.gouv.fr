@@ -11,7 +11,7 @@ missions:
     startups:
       - plusfraichemaville
   - start: 2025-01-15
-    end: 2025-04-15
+    end: 2025-06-30
     status: service
     employer: Malt
     startups:

@@ -30,4 +30,4 @@ competences:
   - JavaScript/TypeScript
   - Python
 ---
-Make it work, make it right, make it fast
+Make it work, make it right, make it fast.
