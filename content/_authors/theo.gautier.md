@@ -2,7 +2,7 @@
 fullname: Théo Gautier
 role: Développeur
 domaine: Développement
-github: octo-theg1
+github: GotchiT2
 missions:
   - start: 2023-02-02
     end: 2025-06-30

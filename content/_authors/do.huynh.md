@@ -12,7 +12,7 @@ missions:
       - demarches-simplifiees.fr
       - jeveuxaider
   - start: 2024-03-18
-    end: 2025-12-31
+    end: 2025-03-31
     status: independent
     employer: Actimage
     startups:
@@ -29,6 +29,12 @@ missions:
     employer: Malt
     startups:
       - monprojetsup
+  - start: 2025-03-17
+    end: 2025-06-30
+    status: independent
+    employer: ut/7
+    startups:
+      - tdb-apprentissage
 badges:
   - segur
 link: https://www.linkedin.com/in/huynhdoo/

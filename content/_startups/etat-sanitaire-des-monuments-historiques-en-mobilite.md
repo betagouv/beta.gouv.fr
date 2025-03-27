@@ -10,16 +10,13 @@ techno: []
 title: Etat Sanitaire des Monuments Historiques en mobilité
 mission: 'Faciliter la rédaction, l''édition, le stockage et le partage d''un compte-rendu en mobilité lors de la visite d''un Monument Historique. '
 incubator: culture
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-01-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-03-21
+link: ''
 ---
 ## Contexte
 

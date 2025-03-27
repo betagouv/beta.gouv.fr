@@ -6,8 +6,8 @@ competences: []
 missions:
   - start: 2025-03-24
     end: 2026-02-28
-    employer: CGI
     status: service
+    employer: CGI
     startups:
       - pass-sport
 ---

@@ -4,10 +4,8 @@ domaine: Design
 role: Designer transverse
 missions:
   - start: 2021-09-01
-    end: 2025-03-28
+    end: 2025-08-28
     status: independent
-    startups:
-      - collectif_objets
 competences:
   - UX
   - UI
