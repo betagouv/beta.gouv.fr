@@ -14,7 +14,7 @@ contact: thomas.glatt@beta.gouv.fr
 thematiques: []
 usertypes: []
 techno: []
-link: ''
+link: https://github.com/betagouv/seves
 ---
 ## Le contexte
 Aujourd'hui, lorsqu'un évènement sanitaire survient, ce sont les directions départementales (DDecPP) , les directions régionales (SRAL) et l'administration centrale (MUS) qui sont en charge de décrire, suivre, diffuser l'information et d'accompagner les acteurs vers une maitrise des risques. Ces évènements peuvent survenir dans 3 domaines :  la sécurité sanitaire des aliments, la santé des végétaux et la santé des animaux. 
