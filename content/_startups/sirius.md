@@ -9,6 +9,8 @@ phases:
     start: 2022-12-01
   - name: transfer
     start: 2024-12-31
+  - name: alumni
+    start: 2025-03-31
 repository: https://github.com/mission-apprentissage/sirius
 contact: contact-sirius@inserjeunes.beta.gouv.fr
 usertypes:

@@ -8,9 +8,11 @@ missions:
     status: admin
     startups:
       - andi
-  - start: 2025-03-21
-    end: 2025-06-24
+  - start: 2025-03-24
+    end: 2025-06-27
     status: independent
-    employer: ANCT
+    employer: Malt
 competences: []
+link: https://www.linkedin.com/in/ga%C3%ABlle-tld/
 ---
+Responsable du Guichet Territoires pour la transition écologique au sein de l'Incubateur des Territoires (ANCT)

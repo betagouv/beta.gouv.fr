@@ -11,8 +11,8 @@ competences:
 missions:
   - start: 2025-03-25
     end: 2025-06-24
-    employer: LBC
     status: independent
+    employer: LBC
     startups:
       - mon-devis-sans-oublis
 ---

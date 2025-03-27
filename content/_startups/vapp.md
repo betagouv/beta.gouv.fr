@@ -1,11 +1,11 @@
 ---
 mission: Simplifier la recherche d'aide et l'applicabilité des projets portés par les collectivités
 incubator: mtes
-title: VAPP
+title: louis.pinot.de.Villechenon@beta.gouv.fr
 contact: ian.metelski@indre.gouv.fr
 accessibility_status: non conforme
 phases:
-  - name: construction
+  - name: investigation
     start: 2024-04-04
 thematiques:
   - Territoires
@@ -17,8 +17,19 @@ usertypes:
 techno:
   - typescript
   - ia
+  - LLM
 repository: https://github.com/betagouv/VApp
-link: ''
+link: https://vapp.beta.gouv.fr/
+stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=147&period=day&date=yesterday#?period=month&date=2025-03-26&idSite=147&category=Dashboard_Dashboard&subcategory=1
+events:
+  - name: committee
+    date: 2024-06-28
+    comment: Comité de mi-investigation
+  - name: product_launch
+    date: 2024-10-27
+  - name: committee
+    date: 2024-12-11
+    comment: Prolongement de l'investigation jusqu'à mi avril
 ---
 # Contexte
 
