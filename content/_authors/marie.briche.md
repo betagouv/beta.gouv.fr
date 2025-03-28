@@ -1,6 +1,6 @@
 ---
 fullname: Marie Briche
-domaine: Intraprenariat
+domaine: Déploiement
 role: Responsable du déploiement
 github: Marie-briche
 missions:
