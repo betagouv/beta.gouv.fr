@@ -1,7 +1,7 @@
 ---
 fullname: Jérémie Gisserot
-role: Développeur Créatif
-domaine: Développement
+role: UX/UI & Développeur Fullstack
+domaine: Produit
 github: ledjay
 link: https://jeremie-gisserot.net
 competences:
@@ -14,12 +14,10 @@ competences:
   - PHP
 missions:
   - start: 2024-09-09
-    end: 2025-04-30
+    end: 2025-06-30
     status: independent
     employer: Diair
     startups:
       - refugies.info
 ---
-Je suis un développeur créatif freelance senior, entrepreneur et fier papa de 3 superstars basé à Rennes.
-
-Je suis dans l'industrie du web depuis plus de 20 ans maintenant, et je suis ravi d'avoir pu me réinventer et apprendre de nouveaux trucs à chaque fois que les règles du jeu ont changé.
+Développeur front-end senior et designer UX/UI, j’interviens au croisement du produit, du design system, de l’accessibilité et de l'impact. Avec plus de 15 ans d’expérience, j’aime faire le lien entre intention créative et exécution technique, en gardant toujours les besoins des utilisateurs et utilisatrices à l'esprit.
