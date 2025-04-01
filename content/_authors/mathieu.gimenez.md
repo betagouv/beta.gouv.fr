@@ -11,18 +11,14 @@ missions:
     employer: DGALN
     startups:
       - aigle
+      - bat-id
       - boris
-      - detournement-de-terres-agricoles
       - docurba
       - dossierfacile
-      - envergo
-      - guichet-unique-de-la-haie-envergo-agricole
-      - mediation.logement
       - mon-devis-sans-oublis
       - mon-diagnostic-artificialisation
       - otelo
       - pitchou
-      - trait-de-cote
       - zero-logement-vacant
 memberType: dinum
 competences:

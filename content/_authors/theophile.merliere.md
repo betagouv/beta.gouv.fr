@@ -7,7 +7,7 @@ missions:
     status: independent
     employer: Living Data
   - start: 2024-10-01
-    end: 2025-03-31
+    end: 2025-06-30
     status: service
     employer: Living Data
     startups:

@@ -4,7 +4,7 @@ role: Product Manager - Chargé de déploiement
 domaine: Produit
 missions:
   - start: 2023-08-29
-    end: 2025-04-30
+    end: 2025-09-30
     status: independent
     employer: Omnicité
     startups:

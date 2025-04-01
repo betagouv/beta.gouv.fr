@@ -2,7 +2,7 @@
 fullname: Julien Dauphant
 role: Directeur de Produit Cloud
 link: https://www.linkedin.com/in/juliendauphant/
-github: jdauphant
+github: jdauphant-dinum
 missions:
   - start: 2016-11-03
     end: 2019-08-31

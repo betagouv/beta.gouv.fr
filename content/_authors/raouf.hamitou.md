@@ -18,4 +18,3 @@ missions:
     startups:
       - mobilic
 ---
-Customer Success Manager

@@ -11,4 +11,5 @@ missions:
     employer: DGALN
     startups:
       - histologe
+      - stop-punaises
 ---

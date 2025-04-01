@@ -1,7 +1,7 @@
 ---
 fullname: Vincent Agnano
 domaine: Développement
-role: Accompagnant numérique
+role: Accompagnement numérique
 github: vinyll
 avatar: https://vinyll.github.io/images/avatar.jpg
 link: https://vinyll.neomad.org
@@ -21,6 +21,12 @@ missions:
     employer: Fabrique Numérique des Ministères Sociaux
     startups:
       - egalite.professionnelle
+  - start: 2021-03-31
+    end: 2025-09-30
+    status: service
+    employer: Omnicité
+    startups:
+      - services-web-anct
   - start: 2021-05-24
     end: 2023-02-17
     status: service
@@ -28,13 +34,13 @@ missions:
     startups:
       - services-web-anct
   - start: 2024-06-25
-    end: 2025-04-30
+    end: 2025-03-31
     status: service
     employer: Scopopop
     startups:
       - 1-jeune-1-arbre
   - start: 2024-08-25
-    end: 2025-04-06
+    end: 2025-03-31
     status: service
     employer: Little Big Connexion
     startups:
