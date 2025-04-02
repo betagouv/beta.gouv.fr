@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2025-03-29
     end: 2025-07-31
-    employer: Dynergie
     status: independent
+    employer: Dynergie
     startups:
       - access-sol
 ---

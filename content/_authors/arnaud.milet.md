@@ -6,11 +6,20 @@ link: https://d-sidd.github.io/
 github: arnaudmilet
 missions:
   - start: 2023-06-26
-    end: 2025-04-30
+    end: 2025-08-30
     status: independent
     startups:
       - cestquilepro
       - exposition-ij
 memberType: beta
-competences: []
+competences:
+  - data analyst
+  - Data Science
+  - Metabase
+  - PHP
+  - Docker
+  - JavaScript/TypeScript
+  - PostgreSQL
+  - Python
+  - R
 ---

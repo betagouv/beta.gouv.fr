@@ -24,12 +24,15 @@ phases:
     end: 2023-03-01
   - name: construction
     start: 2023-03-01
-  - name: alumni
+  - name: transfer
     start: 2024-07-01
 thematiques:
   - Formation
 usertypes:
   - etablissement-scolaire
+techno:
+  - ruby
+  - rails
 ---
 ## Contexte
 
