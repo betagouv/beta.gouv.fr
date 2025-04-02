@@ -17,6 +17,8 @@ phases:
     start: 2020-06-04
   - name: acceleration
     start: 2022-01-01
+  - name: transfer
+    start: 2025-01-01
 dashlord_url: https://dashlord.incubateur.net/url/opentermsarchive-org/
 accessibility_status: non conforme
 thematiques:
@@ -36,7 +38,7 @@ techno:
 
 [Open Terms Archive](https://opentermsarchive.org/fr/) est un commun numérique qui archive publiquement les documents contractuels des fournisseurs de services en ligne, les rend lisibles, met en valeur les changements et fait circuler ceux-ci au sein de sa communauté pour analyse.
 
-L'archive publique suit en **mars 2025** un total de **1597 documents de 800 services**, dont les grandes plateformes « gatekeepers » comme Facebook, Twitter, TikTok…
+L'archive publique suit en **mars 2025** un total de **1598 documents de plus de 800 services**, dont les grandes plateformes « gatekeepers » comme Facebook, Twitter, TikTok…
 
 Ces documents regroupent des communautés autour de plusieurs instances thématiques, qui réunissent des services et des acteurs intéressés à les surveiller, selon leur secteur d'activité, leur langue et leur juridiction.
 
@@ -69,11 +71,12 @@ Enfin, la société civile (associations de protection des consommateurs, de la 
 Ce coût à l'entrée bénéficie aux acteurs les moins vertueux, qui exploitent les données personnelles des citoyennes et des citoyens, ne respectent pas les règles du jeu, ou mettent en place des clauses abusives.
 
 ## Métriques d'impact
+*Chiffres à jour au 31 mars 2025*
 
 Le modèle d'impact d'Open Terms Archives est présenté sur une [page dédiée](https://opentermsarchive.org/fr/impact/). 
 Le nombre de services et documents suivis, la juridiction, et la langue de chaque collection fédérée sont présentés sur la page [Collections](https://opentermsarchive.org/fr/collections/).
 
-Open Terms Archive suit **1597** documents en mars 2025.
+Open Terms Archive suit **1598** documents à travers **10** collections fédérées en mars 2025.
 
 > À titre de comparaison, nous suivions 1253 en documents en novembre 2022 et 367 en mars 2021.
 
@@ -81,15 +84,15 @@ Ces documents sont classés selon une taxonomie de **43** types définis collect
 
 > La normalisation des documents contractuels en types uniformes, indépendants du nom des documents (par exemple réunir « Conditions d'utilisation », « Terms of use », « Conditions d'usage » sous un seul terme), rend possible la comparaison des services entre eux et permet d’estimer l'étendue de la couverture légale.
 
-Ces documents décrivent les pratiques de **800** services répartis sur plusieurs industries, langues et juridictions.
+Ces documents décrivent les pratiques de plus de **800** services répartis sur plusieurs industries, langues et juridictions.
 
 > La séparation des services par instances thématiques (applications de rencontre, plateformes systémiques, vente en ligne française…) permet de réunir des communautés d'intérêt qui renforcent leur pouvoir collectif autour de l'outil technique.
 
-Plus de 250 analyses humaines publiées sous forme de tweets et de brèves, ainsi que des notifications de détection de modification de documents, distribuées à 173 personnes par mail et à 833 abonnés sur Twitter.
+Plus de **47** [memos](https://opentermsarchive.org/fr/memos/), des courts articles proposant une vulgarisation et contextualisation de changements identifiés avec Open Terms Archive, ont été publiés. 
 
 > Nous ne nous focalisons pas pour le moment sur le déploiement auprès du grand public, car le plus grand effet de levier dans l'état actuel de nos ressources est atteint par le partenariat avec des acteurs spécialisés ayant déjà un public établi.
 
-Open Terms Archive fédère un écosystème de 34 contributeurs en novembre 2022 répartis dans plusieurs entités, étatiques ou non, qui contribuent à l'amélioration du moteur et ont fait émerger 6 réutilisations qui valorisent les données produites.
+Open Terms Archive fédère un écosystème de **58** contributeurs en mars 2025 répartis dans plusieurs entités, étatiques ou non, qui contribuent à l'amélioration du moteur et ont fait émerger **8** réutilisations qui valorisent les données produites.
 
 Ces indicateurs quantitatifs permettent de mesurer la couverture de l'outil et l'intérêt qu'il génère. L'impact, lui, se trouve en premier lieu de manière qualitative, par l'intermédiaire de nos réutilisateurs :
 

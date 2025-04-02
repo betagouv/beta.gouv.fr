@@ -20,7 +20,7 @@ phases:
   - name: transfer
     start: 2024-12-31
   - name: alumni
-    start: 2025-03-31
+    start: 2025-03-03
 thematiques:
   - Inclusion numérique
 mon_service_securise: true

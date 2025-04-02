@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2025-04-01
     end: 2025-06-28
-    employer: Malt - Octo Technology
     status: independent
+    employer: Malt - Octo Technology
     startups:
       - api-engagement
 ---

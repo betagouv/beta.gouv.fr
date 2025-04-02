@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2025-04-07
     end: 2025-07-01
-    employer: Scopyleft
     status: independent
+    employer: Scopyleft
     startups:
       - nosgestesclimat
 ---
