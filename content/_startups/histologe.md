@@ -2,14 +2,14 @@
 mission: Accélérer la résolution des situations de mal logement des usagers en accompagnant les territoires
 incubator: mtes
 repository: https://github.com/MTES-MCT/histologe
-contact: contact@histologe.info
-stats_url: https://histologe.beta.gouv.fr/statistiques
-title: Histologe
+contact: formulaire-contact@signal-logement.beta.gouv.fr
+stats_url: https://signal-logement.beta.gouv.fr/stats
+title: Signal Logement (ex:Histologe)
 sponsors:
   - /organisations/anct
   - /organisations/dhup
   - /organisations/dinum
-link: https://histologe.beta.gouv.fr
+link: https://signal-logement.beta.gouv.fr/
 stats: true
 phases:
   - name: investigation
@@ -45,14 +45,14 @@ Résultat : des décisions et  délais de résolution "dégradés".
 
 ## La solution
 
-Histologe, plateforme numérique fédérant et coordonnant les acteurs à l'échelle d'un territoire, permet à l’occupant (ou au propriétaire) de signaler en ligne sa situation à l'ensemble des services compétents, en une seule démarche.
+**Signal Logement**, plateforme numérique fédérant et coordonnant les acteurs à l'échelle d'un territoire, permet à l’occupant (ou au propriétaire) de signaler en ligne sa situation à l'ensemble des services compétents, en une seule démarche.
 
-Intermédiaire simple et efficace, la plateforme Histologe permet également de mesurer la criticité du signalement afin de lancer des alertes précises et documentées vers les partenaires en capacité d’intervenir, pour une prise en charge accélérée et efficiente.
+Intermédiaire simple et efficace, la plateforme Signal Logement permet également de mesurer la criticité du signalement afin de lancer des alertes précises et documentées vers les partenaires en capacité d’intervenir, pour une prise en charge accélérée et efficiente.
 
-En fédérant les acteurs autour d'un outil unique Histologe facilite, accélère et sécurise les échanges entre les différentes administrations pour plus d'efficacité.
+En fédérant les acteurs autour d'un outil unique Signal Logement facilite, accélère et sécurise les échanges entre les différentes administrations pour plus d'efficacité.
 
-Enfin, en tant qu'outil central, Histologe participe à la construction d'un observatoire du mal logement aidant au pilotage de cette politique publique prioritaire.
+Enfin, en tant qu'outil central, Signal Logement participe à la construction d'un observatoire du mal logement aidant au pilotage de cette politique publique prioritaire.
 
 ## Territoires concernés
 
-70 départements déjà couverts : La liste des territoires est accessible sur la page Statistiques du service.
+80 départements déjà couverts : La liste des territoires est accessible sur la page Statistiques du service.

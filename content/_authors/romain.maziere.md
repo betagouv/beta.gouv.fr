@@ -10,7 +10,7 @@ missions:
     startups:
       - bat-id
   - start: 2024-08-26
-    end: 2025-04-30
+    end: 2025-06-30
     status: independent
     employer: SIGMAZ Consilium
     startups:
@@ -27,5 +27,6 @@ competences:
   - Matomo
   - PostgreSQL
   - Sécurité informatique
+  - Metabase
 memberType: beta
 ---

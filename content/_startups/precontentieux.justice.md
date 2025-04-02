@@ -18,6 +18,7 @@ usertypes: []
 techno:
   - symfony
   - php
+  - react
 ---
 ## Contexte
 
@@ -36,4 +37,17 @@ L’objectif de notre produit est de réduire ces délais de traitement en créa
 
 ## Stratégie
 
-Notre produit, actuellement en phase de construction, sera expérimenté dans 8 départements pilotes pour des demandes d'indemnisation concernant des bris de portes dans le cadre d'une opération de police judiciaire. Cette phase d'expérimentation permettra une amélioration continue du produit grâce aux retours des utilisateurs.
+Notre produit, actuellement en phase de construction, est expérimenté dans 8 départements pilotes pour des demandes d'indemnisation concernant des bris de portes dans le cadre d'une opération de police judiciaire. Cette phase d'expérimentation permet une amélioration continue du produit grâce aux retours des utilisateurs.
+
+L'état du déploiement actuel:
+
+| Département | Nombre de dossiers déposés
+| --- | --- |
+| 83 - Var | 4 |
+| 13 - Bouches-du-Rhône | 17 |
+| 59 - Nord | 16 |
+| 33 - Gironde | 3 |
+| 67 - Bas-Rhin | 5 |
+| 77 - Seine-et-Marne | 9 |
+| 35 - Ille-et-Vilaine | 0 |
+| 69 - Rhône | 11 |

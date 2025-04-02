@@ -11,9 +11,9 @@ competences:
   - PostgreSQL
 missions:
   - start: 2025-04-01
-    end: 2026-01-31
+    end: 2025-10-01
     status: independent
-    employer: DJEPVA
+    employer: Malt - Octo Technology
     startups:
       - api-engagement
 ---

@@ -9,7 +9,7 @@ accessibility_status: non conforme
 phases:
   - name: acceleration
     start: 2024-01-01
-link: https://selexpert.anje-justice.fr/
+link: https://selexpert.sites.beta.gouv.fr/
 repository: https://git.anje-justice.fr/selexpert
 stats: true
 stats_url: https://selexpert.anje-justice.fr/stats

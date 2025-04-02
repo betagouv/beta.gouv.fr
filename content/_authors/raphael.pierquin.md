@@ -7,7 +7,7 @@ link: https://ut7.fr/
 github: raphaelpierquin
 missions:
   - start: 2018-03-13
-    end: 2025-03-31
+    end: 2025-04-30
     status: service
     employer: /ut7
     startups:

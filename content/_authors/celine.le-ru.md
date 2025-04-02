@@ -24,7 +24,7 @@ missions:
     startups:
       - la-bonne-boite
   - start: 2025-02-10
-    end: 2025-04-30
+    end: 2025-08-31
     status: service
     employer: OCTO
     startups:

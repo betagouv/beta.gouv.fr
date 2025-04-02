@@ -30,6 +30,8 @@ phases:
     start: 2022-04-01
   - name: transfer
     start: 2023-10-04
+  - name: success
+    start: 2025-04-01
 fast:
   promotion: 12
   montant: 30000

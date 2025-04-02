@@ -10,7 +10,6 @@ missions:
     status: admin
     employer: DINUM
     startups:
-      - acceslibre
       - data-dsn
       - facil-emploi-public
       - france.nation.verte.agir
