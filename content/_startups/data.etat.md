@@ -76,14 +76,18 @@ L'équipe travaille pour un écosystème qui vise à :
 ➡️ Grâce à des outils en no-code et low-code (data visualisation, cartographie, tableaux dynamiques,... ), Data-État démocratise l’accès aux données pour les agents n’ayant pas de compétences avancées en analyse de données.
 
 ➡️ L’interconnexion avec des services comme Démarches Simplifiées ou Data Subvention enrichit son efficacité et évite la multiplication des demandes à différents services.
+
 ✅Simplification
 
 ### Un projet tourné vers l’avenir et l’expansion nationale
 ➡️ En 2025, le projet vise une montée en charge vers d’autres régions et un lien intégré avec les instances nationales, pour une généralisation des bonnes pratiques en matière de pilotage des dépenses publiques.
+
 ✅ Reproductibilité
 
 
-➡️ Data-État repose sur des logiciels libres et souverains, garantissant interopérabilité et autonomie.
+
+> Data-État repose sur des logiciels libres et souverains, garantissant interopérabilité, autonomie et sécurisée.
+
 
 ## Mesure d’impact et autres indicateurs
 
@@ -93,8 +97,10 @@ L'équipe anticipe divers impacts :
 
 ➡️ En facilitant l'accès aux données financières et en limitant la médiation, l’outil optimise les ressources humaines et accélère les prises de décision.
 
-*90,91 % des utilisateurs sont satisfaits ou très satisfaits de leur expérience (1)
-91 % recommanderait DATA-ETAT à un collègue (1)*
+*90,91 % des utilisateurs sont satisfaits ou très satisfaits de leur expérience, 91 % recommanderait DATA-ETAT à un collègue (1)*
+
+> "En quelques clics, on a déjà tout un tas d’information là où avant il nous fallait plusieurs jours pour arriver à collecter. Quand on arrivait à les collecter. Donc, c'est un vrai progrès, je pense" (2)
+
 
 ✅ Impact sur la qualité de vie et le service public :
 
@@ -102,7 +108,12 @@ L'équipe anticipe divers impacts :
 
 *82 % des sondés estiment gagner du temps, 37 % gagner une journée ou plus de temps de travail (1)*
 
-*(1) Enquête oct 2024 (11 répondants), une nouvelle enquête va être lancée en avril 2025.*
+> "DATA-ETAT permet de voir par ligne rapidement sans attendre les extractions CHORUS. Donc gain de temps et charge de travail en moins pour les collègues qui étaient chargés de faire les extractions" (2)
+
+
+*(1) Enquête oct 2024, une nouvelle enquête va être lancée en avril 2025.*
+
+*(2) Atelier utilisateur mars 2025*
 
 ## Stratégie
 
