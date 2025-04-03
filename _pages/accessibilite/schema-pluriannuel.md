@@ -4,6 +4,12 @@ permalink: /accessibilite/schema-pluriannuel
 title: Schéma pluriannuel 2024 - 2027
 sidebar: sidebar-schema-a11y.html
 hero_title: "Schéma pluriannuel 2024 - 2027"
+breadcrumbs:
+    - title: Accueil
+      link: /
+    - title: Accessibilité
+      link: /accessibilite
+    - title: Schéma pluriannuel 2024 - 2027
 ---
 
 *Date de publication : 04/01/2024*
@@ -549,8 +555,42 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
 </table>
 </div>
 
+<div class="fr-card fr-enlarge-link fr-card--sm fr-card--horizontal fr-mb-8v">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+      <h5 class="fr-card__title">
+        <a href="/accessibilite/evaluation-2024">Évaluation de l'accessibilité 2024</a>
+      </h5>
+      <p class="fr-card__desc">Analyse manuelle sur un échantillon de services numériques</p>
+      <div class="fr-card__start">
+      </div>
+      <div class="fr-card__end">
+        <p class="fr-card__detail fr-icon-calendar-line">Publié début 2025</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 <h3 id="plan-2025">Plan d'action 2025</h3>
 
-<p>En cours de rédaction</p>
+#### Pour tous les périmètres
+
+- Capitaliser sur notre catalogue existant en proposant le contenu dans de nouveaux formats
+- Créer de nouveaux contenus de formations (Mobile, PDF...) pour la communauté
+
+#### Périmètre 1 (produits internes à beta.gouv.fr)
+
+- Rendre nos outils totalement conforme (Générateur de Déclaration d'accessibilité)
+- Améliorer l'accessibilité de nos outils interne (Espace Membre)
+
+#### Périmètre 2 (produits incubés à la DINUM)
+
+- Proposer du mentorat régulier
+- Accompagner les équipes à élaborer une stratégie de mise en accessibilité, et améliorer la qualité d'accessibilité
+
+#### Périmètre 3 (produits incubés dans le réseau)
+
+- Continuer nos actions de formations et d'accompagnement auprès du réseau
+- [Évaluer l’accessibilité numérique d’un échantillon de services numériques du portefeuille](/accessibilite/evaluation-2024)
 
 
