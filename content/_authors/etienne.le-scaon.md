@@ -1,6 +1,6 @@
 ---
 fullname: Etienne Le Scaon
-role: EIG / Directeur Produit
+role: Intrapreneur / Directeur Produit
 domaine: Produit
 link: https://www.linkedin.com/in/lescaon/
 competences:

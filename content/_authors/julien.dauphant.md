@@ -2,7 +2,7 @@
 fullname: Julien Dauphant
 role: Directeur de Produit Cloud
 link: https://www.linkedin.com/in/juliendauphant/
-github: jdauphant
+github: jdauphant-dinum
 missions:
   - start: 2016-11-03
     end: 2019-08-31
@@ -13,7 +13,7 @@ missions:
       - e-controle
       - plante-et-moi
   - start: 2019-09-01
-    end: 2026-08-31
+    end: 2024-10-30
     status: admin
     employer: DINUM
     startups:
@@ -25,7 +25,6 @@ missions:
       - monprojetsup
       - pass-sport
       - tchap
-      - webinaire
   - start: 2024-11-01
     end: 2027-01-01
     status: admin

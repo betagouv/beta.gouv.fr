@@ -5,7 +5,7 @@ domaine: Animation
 competences: []
 missions:
   - start: 2024-07-17
-    end: 2025-04-30
+    end: 2025-06-18
     status: independent
     employer: PathTech
     startups:

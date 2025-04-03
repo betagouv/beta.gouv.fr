@@ -7,7 +7,7 @@ thematiques:
 usertypes:
   - etat
   - inspecteurs de l'igedd
-title: Inspecteur Augmenté
+title: Inspection Augmentée
 mission: Permettre à l’IGEDD de gagner en efficacité et en qualité dans ses productions, faire évoluer les métiers et les compétences de l’inspection grâce aux apports de l’intelligence artificielle.
 incubator: mtes
 sponsors:
@@ -18,6 +18,7 @@ phases:
 events:
   - name: product_launch
     date: 2024-11-29
+techno: []
 link: ''
 ---
 ## Contexte
@@ -25,7 +26,7 @@ link: ''
 L’Inspection générale de l’environnement et du développement durable (IGEDD) conseille le Gouvernement dans les domaines de l’environnement, du climat, du développement durable, de la transition écologique, du logement, de l’urbanisme, de la politique de la ville, de l’aménagement du territoire, du paysage, de la construction, de l’énergie, des transports, des risques naturels et technologiques et de la mer.
 L’IGEDD exerce également une [mission d’autorité environnementale (Ae)](https://www.igedd.developpement-durable.gouv.fr/l-autorite-environnementale-r145.html) grâce à sa formation nationale et à ses [missions régionales (MRAe)](https://www.mrae.developpement-durable.gouv.fr). 
 Enfin, par délégation du secrétariat général du ministère de la transition écologique, l’IGEDD exerce également des missions d’évaluation et d’accompagnement des cadres supérieurs de l’Etat, conformément à l’ordonnance du 2 juin 2021 portant réforme de l’encadrement supérieur de l’Etat.
-Dans un contexte d’augmentation de son plan de charge (exigences européennes en matière d’évaluation environnementale des projets, évaluation des cadres supérieurs de l’Etat), le projet « inspecteur augmenté » de l’IGEDD a pour objectif de permettre à l’IGEDD d’améliorer la qualité de ses productions et son efficacité globale grâce à l’apport des technologies d’IA. Le projet comporte par conséquent une dimension managériale de transformation des métiers de l’inspection et de développement des compétences en lien avec l’usage des IA. 
+Dans un contexte d’augmentation de son plan de charge (exigences européennes en matière d’évaluation environnementale des projets, évaluation des cadres supérieurs de l’Etat), le projet « inspection augmentée » de l’IGEDD a pour objectif de permettre à l’IGEDD d’améliorer la qualité de ses productions et son efficacité globale grâce à l’apport des technologies d’IA. Le projet comporte par conséquent une dimension managériale de transformation des métiers de l’inspection et de développement des compétences en lien avec l’usage des IA. 
 
 Il comprend une phase d’analyse des besoins, une phase de tests, et un accompagnement de ses agents au fur et à mesure du déploiement.
 
@@ -49,4 +50,4 @@ L’analyse des besoins a été réalisée auprès d’une vingtaine de bêta-te
 Les résultats des beta-testeurs sur l’appui aux comptes rendus confirment les gains de temps substantiels supérieurs, avec donc d’importants gains d’efficacité globale unitaires si l’on valorise le coût pour l’Etat du temps passé par les agents, de l’ordre de quelques dizaines de fois le coût monétaire des licences. 
 Pour les outils documentaires ouverts ou sur base de confiance, l’expérimentation est encore en cours. Les premiers tests permettent toutefois d’entrevoir des gains significatifs tant en efficacité qu’en qualité pour faciliter l’instruction de gros documents : recherche facilitée, informations sourcées. 
 La maîtrise des risques associés aux publications d’éléments protégés par le secret est aussi un enjeu de vigilance majeure. 
-C’est notamment une des raisons pour lesquelles le projet « inspecteur augmenté » n’est pas appréhendé uniquement sous un angle technique mais s’accompagne d’un volet managérial, impliquant la prise en considération des facteurs humains, juridiques et environnementaux.
+C’est notamment une des raisons pour lesquelles le projet « inspection augmentée » n’est pas appréhendé uniquement sous un angle technique mais s’accompagne d’un volet managérial, impliquant la prise en considération des facteurs humains, juridiques et environnementaux.

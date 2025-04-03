@@ -1,7 +1,7 @@
 ---
 mission: Faciliter le travail des agents publics en charge de la gestion des subventions de l'État aux collectivités locales
 incubator: dinum
-title: Gestion des subventions locales
+title: 'Turgot '
 contact: melanie.ercole@dgcl.gouv.fr
 accessibility_status: non conforme
 sponsors:
@@ -26,7 +26,7 @@ link: ''
 ---
 ## La start-up
 
-La start-up d’État « Gestion des subventions locales » est portée par la **direction générale des collectivités locales (DGCL)** pour le compte du Ministère chargé des Collectivités territoriales et de la Ruralité. Elle est portée par **l’incubateur des services numériques (DINUM)** et applique la méthodologie Beta.
+La start-up d’État " Turgot" est portée par la **direction générale des collectivités locales (DGCL)** pour le compte du Ministère chargé des Collectivités territoriales et de la Ruralité. Elle est portée par **l’incubateur des services numériques (DINUM)** et applique la méthodologie Beta.
 
 ## Le contexte
 
@@ -37,6 +37,14 @@ Chaque année, l’État accorde **2 milliards d’euros** de subventions aux co
 Face à l’augmentation continue du nombre de dossiers, il devient critique de faciliter le travail des agents publics chargés de l’instruction, de la programmation et du suivi administratif et financier des dossiers. La start-up vise à développer un **service destiné à ces agents** des services décentralisés de l'État.
 
 La phase d’investigation s’est tenue au premier semestre 2024 et a permis de valider le lancement du produit, en se concentrant en premier lieu sur la phase de **programmation des subventions**.
+
+## Impact 
+
+* Permettre un démarrage plus rapide des investissements portés par les collectivités : notre objectif est donc de **diminuer le nombre de jours moyen entre le dépôt du dossier et attribution finale de la subvention.**
+* Simplifier le travail des instructeurs et améliorer leur efficacité : notre objectif est donc de  **d'avoir un maximum de préféctures utilisatrices du produit et diminuer le taux de recours aux outils alternatifs (excel, calc..) ainsi que pour chaque utilisateur, diminuer le temps de traitement des dossiers.**
+* Rendre accessible et fiabiliser l’information en central pour mieux piloter les dotations : notre objectif est donc de **publier plus rapidement les bilans de dotations.**
+
+
 
 ## L’équipe
 

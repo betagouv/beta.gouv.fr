@@ -16,6 +16,7 @@ phases:
 events:
   - name: product_launch
     date: 2025-01-24
+techno: []
 link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
@@ -47,6 +48,3 @@ La centralisation des réponses dans un outil simple, facile d’accès et rapid
 
 L'évaluation de l’impact sur le quotidien des conseillers. 
 
-## Stratégie
-
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?

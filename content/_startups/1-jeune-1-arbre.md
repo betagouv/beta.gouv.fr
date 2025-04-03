@@ -22,6 +22,8 @@ phases:
     start: 2024-05-14
   - name: construction
     start: 2024-08-12
+  - name: alumni
+    start: 2025-02-28
 link: https://1jeune1arbre.beta.gouv.fr/
 techno:
   - express
@@ -30,6 +32,8 @@ techno:
   - web-components
   - javascript
 repository: https://github.com/betagouv/1jeune1arbre/
+budget_url: https://github.com/betagouv/1jeune1arbre/wiki
+stats_url: https://github.com/betagouv/1jeune1arbre/wiki
 ---
 # **Simplifier la plantation d'arbres par les scolaires**
 

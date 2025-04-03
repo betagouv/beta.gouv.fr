@@ -9,6 +9,8 @@ phases:
     start: 2022-12-01
   - name: transfer
     start: 2024-12-31
+  - name: alumni
+    start: 2025-03-31
 repository: https://github.com/mission-apprentissage/sirius
 contact: contact-sirius@inserjeunes.beta.gouv.fr
 usertypes:
@@ -52,7 +54,7 @@ Afin de s’inscrire dans le parcours de l’ensemble des usagers ciblés par no
 - Nous avons défini des terrains propices pour tester différents modes d’exposition de cette nouvelle donnée et mesurer la pertinence et l’impact de notre action. Un échantillon de collégiens, de jeunes en prépa apprentissage, de professionnels de l’orientation et de CFA a été constitué pour permettre de proposer une première offre de témoignages pertinents.
 
 
-Sirius bénéficie d’un appui interministériel :
+Sirius a bénéficié d’un appui interministériel :
 - La Délégation générale à l'Emploi et à la Formation professionnelle *(administration du ministère du Travail, de la Santé et de la Solidarité)* finance l’expérimentation et apporte un soutien technique et organisationnel au projet.
 - L’ONISEP *(établissement public dépendant du ministère de l'Éducation nationale et de la Jeunesse et du ministère de l’Enseignement supérieur et de la Recherche)* pilote la réalisation et pourrait être un repreneur pérenne de la solution.
 - La mission interministérielle InserJeunes assure un cadre stratégique et méthodologique à l’équipe. Elle apporte des expertises transverses indispensable au bon déroulé de l’expérimentation *(déploiement, environnement de travail, etc…).* Elle accompagne [d’autres produits](https://beta.gouv.fr/startups/?incubateur=mission-inserjeunes) ayant pour objectif d’éclairer les choix d’orientation des jeunes pour faciliter leur insertion professionnelle, contribuant ainsi à ce que notre réponse soit cohérente avec les besoins des usagers.
@@ -72,3 +74,10 @@ Sirius bénéficie d’un appui interministériel :
 **Auprès des prescripteurs (familles, prof principaux, psyen...) - effet induit :**
 
 - Compléter le niveau d'information, pour les accompagner dans leur rôle de conseil et de prescription auprès des jeunes
+
+## Évolution du contexte et arrêt des financements
+En janvier 2024, le Ministre déléguée chargée de l'Enseignement et de la Formation professionnels est dissous. La DGEFP n'a alors plus la légitimité d'adresser les problématiques d’orientation, mais l’impact potentiel du produit est toujours jugés pertinent et le financement est reconduit lors du comité d’investissement de mai 2025.
+
+La mission interministérielle InserJeunes s’arrête à la fin de l’année 2024, ce qui marque un arrêt de l’animation interministérielle autour du produit Sirius.
+
+Face aux contraintes budgétaires de 2025, la DGEFP décide de ne pas poursuivre les financements du produit dont le volet aide à l’orientation n’est plus dans son périmètre direct.

@@ -1,6 +1,6 @@
 ---
 fullname: Hélène Dubourdieu
-role: PO / Responsable déploiement
+role: Responsable déploiement / support
 domaine: Support
 github: HeleneDubourdieu
 missions:
@@ -10,7 +10,7 @@ missions:
     startups:
       - snu
   - start: 2024-10-07
-    end: 2025-03-31
+    end: 2025-06-30
     status: independent
     startups:
       - icare-complements-alimentaires

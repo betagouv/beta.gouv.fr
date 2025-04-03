@@ -1,6 +1,6 @@
 ---
 title: Aquapreneur
-mission: Le portail qui accompagne les entrepreneur.e.s aquacoles
+mission: Le portail qui accompagne les entrepreneurs et entrepreneuses aquacoles
 sponsors:
   - /organisations/agriculture
   - /organisations/dgampa
@@ -22,8 +22,13 @@ thematiques:
 usertypes:
   - entreprise
   - collectivite-territoriale
-techno: []
-link: ''
+techno:
+  - sveltekit
+  - 'R '
+  - typescript
+link: https://aquapreneur.beta.gouv.fr
+repository: https://github.com/MTES-MCT/aquapreneur
+dashlord_url: https://dashlord.mte.incubateur.net/startup/aquaculteurs.marins
 ---
 ## Contexte
 

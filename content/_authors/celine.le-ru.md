@@ -18,13 +18,13 @@ missions:
     startups:
       - promotion-de-profil-acceleree
   - start: 2023-06-23
-    end: 2025-03-31
+    end: 2024-12-31
     status: service
     employer: OCTO
     startups:
       - la-bonne-boite
   - start: 2025-02-10
-    end: 2025-04-30
+    end: 2025-08-31
     status: service
     employer: OCTO
     startups:

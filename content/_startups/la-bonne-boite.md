@@ -24,9 +24,12 @@ phases:
     start: 2015-05-01
   - name: acceleration
     start: 2023-01-19
+  - name: success
+    start: 2024-12-01
 stats_url: https://labonneboite.francetravail.fr/stats
 thematiques:
   - Travail / Emploi
+techno: []
 ---
 **Le saviez-vous ?**
 

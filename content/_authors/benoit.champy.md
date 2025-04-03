@@ -10,6 +10,8 @@ missions:
     status: admin
     employer: DINUM
     startups:
+      - data-dsn
+      - facil-emploi-public
       - france.nation.verte.agir
       - pass-sport
       - reperer.identifier.victimes.teh
@@ -18,7 +20,6 @@ teams:
 badges:
   - segur
 competences:
-  - UI
   - UX
   - Coaching
   - Facilitation

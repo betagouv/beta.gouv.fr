@@ -4,7 +4,7 @@ fullname: Bastien Baret
 role: Développement
 missions:
   - start: 2024-06-17
-    end: 2025-12-31
+    end: 2025-03-17
     status: independent
     employer: LBC
     startups:

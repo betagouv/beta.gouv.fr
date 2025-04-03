@@ -1,7 +1,7 @@
 ---
 fullname: Arnaud Robin
 role: Directeur produit de La Suite numérique
-domaine: Coaching
+domaine: Produit
 github: arnaud-robin
 missions:
   - start: 2023-09-01

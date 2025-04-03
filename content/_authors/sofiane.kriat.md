@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: skriat
 missions:
   - start: 2024-02-21
-    end: 2025-03-31
+    end: 2025-06-30
     status: admin
     employer: IGN
     startups:

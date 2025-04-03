@@ -1,7 +1,7 @@
 ---
 fullname: Julianne Lagadec
-role: 'Nouvelle mission en cours de démarrage '
-domaine: Autre
+role: Directrice de projet pass Sport
+domaine: Intraprenariat
 github: Julianne-Lagadec
 link: https://fr.linkedin.com/in/julianne-lagadec
 missions:
@@ -22,6 +22,12 @@ missions:
       - exposition-ij
       - pilotagevoiepro
       - sirius
+  - start: 2025-03-13
+    end: 2025-05-31
+    status: independent
+    employer: PathTech
+    startups:
+      - pass-sport
 previously:
   - voeux-apprentissage
   - dematapprentissage

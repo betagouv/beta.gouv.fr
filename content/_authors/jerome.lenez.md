@@ -5,9 +5,9 @@ role: Product Manager
 github: jlenez
 missions:
   - start: 2021-08-02
-    end: 2025-08-30
+    end: 2025-09-05
     status: independent
-    employer: DIRISI
+    employer: Ministères Sociaux
     startups:
       - athena
       - reva

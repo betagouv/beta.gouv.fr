@@ -11,12 +11,16 @@ missions:
     startups:
       - acceslibre
       - accesscite
+      - apilos
       - camino
+      - envergo
+      - guichet-unique-de-la-haie-envergo-agricole
       - histologe
-      - mon-diagnostic-artificialisation
       - oilhi
       - prelevements.deau
       - recommandations-collaboratives
+      - sain-eau
+      - stop-punaises
       - urbanvitaliz
       - vigieau
 competences:

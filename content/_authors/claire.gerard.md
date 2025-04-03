@@ -16,10 +16,11 @@ missions:
     startups:
       - mesaidesreno
   - start: 2025-01-01
-    end: 2025-03-31
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:
       - mesaidesreno
+competences: []
 ---
 UX/UI/designer

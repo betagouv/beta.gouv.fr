@@ -32,10 +32,13 @@ L’audit de conformité au RGAA version 4.2 réalisé en août 2024 par la soci
 
 Critère 4.9 : *Pour chaque média non temporel ayant une alternative, cette alternative est-elle pertinente ?*
 
-
 La page [Indicateurs](/stats) propose des graphiques accompagnés d'une transcription. Cette transcription n'intègre pas toutes les données disponibles. Cependant, nous avons tenté de rentre l'information accessible en proposant : 
 - un résumé de chaque graphique
 - le téléchargement des données brutes au format CSV.
+
+Critère 13.3 : *Dans chaque page web, chaque document bureautique en téléchargement possède-t-il, si nécessaire, une version accessible (hors cas particuliers) ?*
+
+Le [livre blanc](/content/docs/livre_blanc_2024.pdf) (mis en ligne après l'audit) n'a actuellement pas d'alternative accessible.
 
 #### Contenus non soumis à l’obligation d’accessibilité
 

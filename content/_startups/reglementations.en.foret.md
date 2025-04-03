@@ -21,7 +21,7 @@ usertypes:
   - entreprise
   - etat
 techno: []
-link: ''
+link: https://foreg.beta.gouv.fr/
 ---
 **Contexte**
 
