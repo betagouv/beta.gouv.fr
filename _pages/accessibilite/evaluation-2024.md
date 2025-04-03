@@ -541,7 +541,7 @@ Nous mettons la grille d'évaluation manuelle à disposition : n'hésitez pas à
   <div class="fr-card__body">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-        <a hreflang="en" data-fr-assess-file="bytes" download href="#">Télécharger la grille d'évaluation</a>
+        <a hreflang="en" data-fr-assess-file="bytes" download href="/content/docs/grille-vierge-inspection-rapide-accessibilite-2025.ods">Télécharger la grille d'évaluation</a>
       </h3>
     </div>
   </div>
