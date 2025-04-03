@@ -39,7 +39,6 @@ Sur notre panel de 26 produits (soit 13 % de notre portefeuille global), le nive
   <figcaption class="fr-content-media__caption">Répartition de l'échantillon par niveau d'accessibilité</figcaption>
 </figure>
 
-<!-- TODO corriger le menu -->
 <div class="fr-table fr-table--no-caption">
 	<div class="fr-table__wrapper">
     	<div class="fr-table__container">
@@ -543,7 +542,7 @@ Nous mettons la grille d'évaluation manuelle à disposition : n'hésitez pas à
   <div class="fr-card__body">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-        <a hreflang="en" data-fr-assess-file="bytes" download href="TODO">Télécharger la grille d'évaluation</a>
+        <a hreflang="en" data-fr-assess-file="bytes" download href="#">Télécharger la grille d'évaluation</a>
       </h3>
     </div>
   </div>
