@@ -16,6 +16,8 @@ missions:
     end: 2025-05-31
     status: independent
     employer: Dynergie
+    startups:
+      - referentiel-national-des-zones-d-activites-economiques
 github: mferaga
 link: https://www.linkedin.com/in/feraga/
 competences:
@@ -25,5 +27,6 @@ competences:
   - Croissance
   - Coaching
   - SEM
+  - Intrapreneur(se)
 ---
 Aujourd'hui Coach, j'étais par le passé (2016-2018) ambassadeur et facilitateur des Startups d’État via un attributaire. J'ai contribué à l'embarquement des équipes et accompagné des réinternalisations (ANHA, PIX...). Je suis par ailleurs architecte transverse à la DNUM des Ministères Sociaux où je combats chaque jour le "1 loi <=> 1 appli". J'ai à cœur la simplification : faire moins de produits numériques pour les faire mieux!

@@ -11,7 +11,7 @@ missions:
     startups:
       - nosgestesclimat
   - start: 2024-07-19
-    end: 2026-01-01
+    end: 2025-10-01
     status: independent
     employer: Malt
     startups:
@@ -26,4 +26,5 @@ competences:
   - ReScript
   - OCaml
   - Publicodes
+  - Flutter
 ---

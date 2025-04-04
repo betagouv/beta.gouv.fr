@@ -1,13 +1,15 @@
 ---
 fullname: Zacharia Haryouli
-role: Chargé de mission reforme de la VAE
+role: Responsable affaires juridiques
 domaine: Autre
-competences: []
+competences:
+  - Administration Publique
+  - Droit / Affaires juridiques
 missions:
-  - start: 2025-04-02
+  - start: 2025-04-07
     end: 2025-09-07
-    employer: Opteamis
     status: independent
+    employer: Opteamis
     startups:
       - reva
 ---

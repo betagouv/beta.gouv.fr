@@ -20,8 +20,6 @@ events:
   - name: fast
     date: 2024-01-01
     comment: Montant de 300000€ pour la promotion 14
-  - name: national_impact
-    date: 2025-03-14
 phases:
   - name: investigation
     start: 2020-09-01

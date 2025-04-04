@@ -1,15 +1,22 @@
 ---
 fullname: Nicolas Bretécher
 role: Développeur web
-domaine: Animation
+domaine: Développement
 github: nicobret
 link: https://github.com/nicobret
 missions:
   - start: 2022-07-01
     end: 2025-07-31
     status: service
-    employer: Le Collectif
+    employer: Selego
     startups:
       - snu
-competences: []
+competences:
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - ElasticSearch
+  - PostgreSQL
+  - MongoDB
+  - React
+  - NextJS
 ---

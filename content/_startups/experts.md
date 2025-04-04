@@ -1,6 +1,6 @@
 ---
 title: seLEXpert
-mission: Conçu pour les magistrats, les greffiers et les experts, seLEXpert permet une meilleure gestion des procédures grâce à la pré-sélection et la désignation dématérialisées du bon expert, en un temps limité.
+mission: Conçu pour les magistrats, les greffiers et les experts, seLEXpert permet de réduire les délais de justice grâce à la sélection éclairée et la désignation dématérialisées des experts judiciaires.
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -49,3 +49,7 @@ Un outil permettant la sélection éclairée et la désignation rapide des exper
 ## Déploiement
 
 SeLEXpert est actuellement utilisé dans près de la moitié des Cours d'appel de France et ambitionne à terme une couverture nationale. 
+
+
+	
+

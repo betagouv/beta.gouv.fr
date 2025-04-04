@@ -15,6 +15,8 @@ phases:
 events:
   - name: product_launch
     date: 2025-01-22
+usertypes: []
+techno: []
 link: ''
 ---
 ## Contexte
@@ -29,7 +31,21 @@ Ce faible taux reflète un problème majeur : des outils fragmentés, complexes 
 
 Pour surmonter ces obstacles, certaines agences développent des pratiques locales, comme l’utilisation d’un tableau blanc physique pour recenser les besoins des entreprises, mais cela reste limité et non partagé à l’échelle du réseau pour l’emploi.
 
-## Solution
+## Objectifs
 
-L'irritant rencontré est en phase d'investigation et la solution reste à déterminer.
+	•	Structurer et centraliser la démarche de promotion de profil
+	•	Réduire le temps de traitement pour les conseillers
+	•	Offrir un suivi plus efficace des profils envoyés aux employeurs
 
+# Premiers enseignements de la phase d’investigation
+
+La phase d’investigation, menée à travers notamment des entretiens utilisateurs avec les conseillers France Travail, a permis d’identifier plusieurs enjeux clés :
+
+	•	Un manque de suivi structuré : Aucun outil ne permet actuellement de suivre efficacement les promotions de profils réalisées.
+	•	Un processus trop fragmenté : La nécessité de naviguer entre plusieurs logiciels et de réaliser jusqu’à 65 étapes ralentit la démarche et crée une charge importante.
+	•	Un besoin de centralisation et d’automatisation : Les conseillers expriment le besoin d’un outil unique qui leur permettrait de gagner du temps, d’éviter les ressaisies inutiles et d’améliorer la mise en relation entre demandeurs et employeurs.
+	•	Un manque de retours sur l’impact des promotions : Aujourd’hui, il est difficile pour un conseiller de savoir si un profil promu a réellement généré un contact ou une embauche.
+
+Ces constats confirment la nécessité de développer une solution intuitive et efficace, qui simplifiera le travail des conseillers et optimisera la mise en relation entre demandeurs et employeurs.
+
+## L’aventure ne fait que commencer… à suivre
