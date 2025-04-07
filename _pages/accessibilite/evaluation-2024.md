@@ -20,6 +20,9 @@ Pour accompagner cet effort, le Pôle Numérique Inclusif (PNI) de [beta.gouv.fr
 *   Faire monter en compétence les membres de la communauté
 *   Inclure l’accessibilité dans les pratiques
 
+*[PNI]: Pôle Numérique Inclusif
+
+
 Dans cette optique, nous (le Pôle Numérique Inclusif) avons étudié l’accessibilité numérique d’un panel de services numériques du portefeuille, et souhaitons communiquer sur les apprentissages observés. Nous avons opté pour une méthode d'évaluation allégée (expliquée plus bas), plus rapide que l'audit RGAA, pour pouvoir tirer des apprentissages de notre gros portefeuille (plus de 200 services numériques) en un temps limité.
 
 Cette étude vise à encourager l’**amélioration de l’accessibilité** au sein des produits [beta.gouv.fr](http://beta.gouv.fr). Elle n’a pas pour but d’évaluer la conformité RGAA des services étudiés.
@@ -216,6 +219,8 @@ Nous remarquons aussi que, bien que très peu de services utilisent de la vidéo
 Enfin, nous avons considéré ces chiffres au regard de l'utilisation du Design Système de l'État (DSFR) :
 * Contrairement à ce que l’on l’observe habituellement sur les évaluations d’accessibilité à grande échelle (comme [l’étude de WebAIM Million](https://webaim.org/projects/million/)), **les erreurs de contrastes ne sont pas majoritaires**. Nous faisons l’hypothèse que c’est un bénéfice de l’usage du DSFR.
 * Nous sommes cependant surpris de constater **autant de problèmes au niveau des formulaires**. L’usage du DSFR ne semble pas suffire à éviter les erreurs d'accessibilité sur ces éléments centraux à l'expérience utilisateur, malgré la documentation accessibilité.
+
+*[DSFR]: Design System de l'État
 
 <div class="fr-callout fr-icon-draft-line fr-callout--blue-ecume fr-mt-4w">
   <h4 class="fr-callout__title">Nos apprentissages</h4>
@@ -469,9 +474,13 @@ Comme dans les audits d'ergonomie, notre notation reflète le **degré de sévé
   <figcaption class="fr-content-media__caption">Aperçu de la grille d'évaluation</figcaption>
 </figure>
 
+
+
 #### Évaluation du niveau d'accessibilité
 
 Effectuer cette inspection nous a permis d'apprécier, pour chacun des services, si l'accessibilité était correctement, moyennement, peu ou pas prise en compte. Cette inspection a été menée, en regard croisé, par deux expertes du Pôle Numérique Inclusif, coutumières de l'évaluation experte de l'accessibilité. Mais contrairement à l'audit RGAA, la méthode ici adoptée ne permet pas d'établir une formule de calcul pertinente. De plus, exprimer le niveau d'accessibilité observé de façon chiffrée ne nous était pas utile. Nous avons donc **exprimé une appréciation** **globale** du niveau d'accessibilité de chaque service, en des termes simples :
+
+*[RGAA]: Référentiel Général d'Amélioration de l'Accessibilité
 
 <div class="fr-table fr-table--no-caption">
 	<div class="fr-table__wrapper">
