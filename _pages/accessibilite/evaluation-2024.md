@@ -54,22 +54,22 @@ Sur notre panel de 26 produits (soit 13 % de notre portefeuille global), le nive
 				  </thead>
 				  <tbody>
 				    <tr>
-				      <td><strong>Correct</strong></td>
+				      <th scope="row">Correct</th>
 				      <td>11 produits&nbsp;(42 %)</td>
 				      <td>La démarche d’accessibilité est entamée. Le service est prêt à s’engager vers la conformité via un audit RGAA.</td>
 				    </tr>
 				    <tr>
-				      <td><strong>Moyen</strong></td>
+				      <th scope="row>Moyen</th>
 				      <td>7 produits&nbsp;(27 %)</td>
 				      <td>Le service a encore des lacunes d’accessibilité, mais les bases sont présentes.</td>
 				    </tr>
 				    <tr>
-				      <td><strong>Faible</strong></td>
+				      <th scope="row>Faible</th>
 				      <td>5 produits&nbsp;(19 %)</td>
 				      <td>Des erreurs basiques, facilement évitables (par exemple via des tests automatiques), sont en production.</td>
 				    </tr>
 				    <tr>
-				      <td><strong>Très</strong> <strong>faible</strong></td>
+				      <th scope="row>Très faible</th>
 				      <td>4 produits&nbsp;(12 %)</td>
 				      <td>L’accessibilité n’est pas ou peu prise en compte.</td>
 				    </tr>
