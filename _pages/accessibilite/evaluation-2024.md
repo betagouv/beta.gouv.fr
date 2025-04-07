@@ -117,70 +117,70 @@ Pour comprendre les problèmes d'accessibilité auxquels les usagers et usagère
 </thead>
 <tbody>
 <tr>
-<td>Navigation</td>
+<th scope="row">Navigation</th>
 <td>139</td>
 <td>53</td>
 <td>312</td>
 <td>0</td>
 </tr>
 <tr>
-<td>Images</td>
+<th scope="row">Images</th>
 <td>106</td>
 <td>45</td>
 <td>48</td>
 <td>136</td>
 </tr>
 <tr>
-<td>Formulaires</td>
+<th scope="row">Formulaires</th>
 <td>65</td>
 <td>48</td>
 <td>54</td>
 <td>85</td>
 </tr>
 <tr>
-<td>Titres</td>
+<th scope="row">Titres</th>
 <td>52</td>
 <td>19</td>
 <td>178</td>
 <td>3</td>
 </tr>
 <tr>
-<td>Titre de page</td>
+<th scope="row">Titre de page</th>
 <td>43</td>
 <td>11</td>
 <td>114</td>
 <td>0</td>
 </tr>
 <tr>
-<td>Contrastes</td>
+<th scope="row">Contrastes</th>
 <td>19</td>
 <td>16</td>
 <td>49</td>
 <td>0</td>
 </tr>
 <tr>
-<td>Zoom texte</td>
+<th scope="row">Zoom texte</th>
 <td>9</td>
 <td>27</td>
 <td>66</td>
 <td>66</td>
 </tr>
 <tr>
-<td>Langue</td>
+<th scope="row">Langue</th>
 <td>11</td>
 <td>0</td>
 <td>73</td>
 <td>0</td>
 </tr>
 <tr>
-<td>Intitulés</td>
+<th scope="row">Intitulés</th>
 <td>7</td>
 <td>8</td>
 <td>69</td>
 <td>0</td>
 </tr>
 <tr>
-<td>Vidéos &amp; animations</td>
+<th scope="row">Vidéos &amp; animations</th>
 <td>11</td>
 <td>0</td>
 <td>0</td>
