@@ -19,13 +19,12 @@ sponsors:
   - /organisations/banque-des-territoires
 phases:
   - name: investigation
-    comment: null
     start: 2024-12-20
-    end: null
 events:
   - name: other
-    comment: Restitution de l'investigation auprès de l'IGN et de la Banque des Territoires
     date: 2025-03-13
+    comment: Restitution de l'investigation auprès de l'IGN et de la Banque des Territoires
+link: ''
 ---
 ## Contexte
 
