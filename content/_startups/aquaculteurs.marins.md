@@ -6,7 +6,7 @@ sponsors:
   - /organisations/dgampa
   - /organisations/mtes
 incubator: mtes
-contact: sandrine.ouvrard@mer.gouv.fr
+contact: aquapreneur@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation

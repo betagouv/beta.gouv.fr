@@ -76,7 +76,7 @@ Sirius a bénéficié d’un appui interministériel :
 - Compléter le niveau d'information, pour les accompagner dans leur rôle de conseil et de prescription auprès des jeunes
 
 ## Évolution du contexte et arrêt des financements
-En janvier 2024, le Ministre déléguée chargée de l'Enseignement et de la Formation professionnels est dissous. La DGEFP n'a alors plus la légitimité d'adresser les problématiques d’orientation, mais l’impact potentiel du produit est toujours jugés pertinent et le financement est reconduit lors du comité d’investissement de mai 2025.
+En janvier 2024, le Ministre déléguée chargée de l'Enseignement et de la Formation professionnels est dissous. La DGEFP n'a alors plus la légitimité d'adresser les problématiques d’orientation, mais l’impact potentiel du produit est toujours jugés pertinent et le financement est reconduit lors du comité d’investissement de mai 2024.
 
 La mission interministérielle InserJeunes s’arrête à la fin de l’année 2024, ce qui marque un arrêt de l’animation interministérielle autour du produit Sirius.
 

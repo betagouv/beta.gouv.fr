@@ -38,7 +38,7 @@ techno:
 
 [Open Terms Archive](https://opentermsarchive.org/fr/) est un commun numérique qui archive publiquement les documents contractuels des fournisseurs de services en ligne, les rend lisibles, met en valeur les changements et fait circuler ceux-ci au sein de sa communauté pour analyse.
 
-L'archive publique suit en **mars 2025** un total de **1598 documents de plus de 800 services**, dont les grandes plateformes « gatekeepers » comme Facebook, Twitter, TikTok…
+L'archive publique suit en **avril 2025** un total de **1598 documents de 800 services**, dont les grandes plateformes « gatekeepers » comme Facebook, Twitter, TikTok…
 
 Ces documents regroupent des communautés autour de plusieurs instances thématiques, qui réunissent des services et des acteurs intéressés à les surveiller, selon leur secteur d'activité, leur langue et leur juridiction.
 
@@ -71,12 +71,12 @@ Enfin, la société civile (associations de protection des consommateurs, de la 
 Ce coût à l'entrée bénéficie aux acteurs les moins vertueux, qui exploitent les données personnelles des citoyennes et des citoyens, ne respectent pas les règles du jeu, ou mettent en place des clauses abusives.
 
 ## Métriques d'impact
-*Chiffres à jour au 31 mars 2025*
+*Chiffres à jour au 02 avril 2025*
 
 Le modèle d'impact d'Open Terms Archives est présenté sur une [page dédiée](https://opentermsarchive.org/fr/impact/). 
 Le nombre de services et documents suivis, la juridiction, et la langue de chaque collection fédérée sont présentés sur la page [Collections](https://opentermsarchive.org/fr/collections/).
 
-Open Terms Archive suit **1598** documents à travers **10** collections fédérées en mars 2025.
+Open Terms Archive suit **1598** documents à travers **10** collections fédérées en avril 2025.
 
 > À titre de comparaison, nous suivions 1253 en documents en novembre 2022 et 367 en mars 2021.
 
@@ -84,11 +84,11 @@ Ces documents sont classés selon une taxonomie de **43** types définis collect
 
 > La normalisation des documents contractuels en types uniformes, indépendants du nom des documents (par exemple réunir « Conditions d'utilisation », « Terms of use », « Conditions d'usage » sous un seul terme), rend possible la comparaison des services entre eux et permet d’estimer l'étendue de la couverture légale.
 
-Ces documents décrivent les pratiques de plus de **800** services répartis sur plusieurs industries, langues et juridictions.
+Ces documents décrivent les pratiques de **800** services répartis sur plusieurs industries, langues et juridictions.
 
 > La séparation des services par instances thématiques (applications de rencontre, plateformes systémiques, vente en ligne française…) permet de réunir des communautés d'intérêt qui renforcent leur pouvoir collectif autour de l'outil technique.
 
-Plus de **47** [memos](https://opentermsarchive.org/fr/memos/), des courts articles proposant une vulgarisation et contextualisation de changements identifiés avec Open Terms Archive, ont été publiés. 
+**83** [memos](https://opentermsarchive.org/fr/memos/), des courts articles proposant une vulgarisation et contextualisation de changements identifiés avec Open Terms Archive, ont été publiés. 
 
 > Nous ne nous focalisons pas pour le moment sur le déploiement auprès du grand public, car le plus grand effet de levier dans l'état actuel de nos ressources est atteint par le partenariat avec des acteurs spécialisés ayant déjà un public établi.
 
