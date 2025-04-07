@@ -340,72 +340,72 @@ Nous nous sommes inspirées des [Easy Checks](https://www.w3.org/WAI/test-evalua
     <button type="button" class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-id">Voir tous les points de contrôles</button>
   </p>
   <div id="accordion-id" class="fr-collapse">
-<ul>
-  <li>Langue
     <ul>
-      <li>Présence et pertinence de la langue principale de la page</li>
+      <li>Langue
+        <ul>
+          <li>Présence et pertinence de la langue principale de la page</li>
+        </ul>
+      </li>
+      <li>Titre des pages
+        <ul>
+          <li>Intitulé de la balise <code class="language-plaintext highlighter-rouge">title</code> unique</li>
+          <li>Intitulé de la balise <code class="language-plaintext highlighter-rouge">title</code> pertinent</li>
+        </ul>
+      </li>
+      <li>Images
+        <ul>
+          <li>Présence d’un attribut <code class="language-plaintext highlighter-rouge">alt</code> pour chaque balise <code class="language-plaintext highlighter-rouge">img</code></li>
+          <li>Absence d’alternative aux images décoratives</li>
+          <li>Alternative pour chaque image informative</li>
+          <li>Description détaillée de chaque contenu riche</li>
+        </ul>
+      </li>
+      <li>Hiérarchie des titres
+        <ul>
+          <li>Au moins un hN</li>
+          <li>Pas de saut de niveau</li>
+          <li>Hiérarchie des titres reflétant la page</li>
+        </ul>
+      </li>
+      <li>Contrastes
+        <ul>
+          <li>Rapport de contraste des textes et des composants graphiques avec leur arrière-plan</li>
+        </ul>
+      </li>
+      <li>Zoom texte
+        <ul>
+          <li>Lisibilité des textes lorsque les caractères sont agrandis de 200 %</li>
+          <li>Absence d’images-texte</li>
+        </ul>
+      </li>
+      <li>Navigation
+        <ul>
+          <li>Cohérence de l’ordre de tabulation</li>
+          <li>Visibilité du focus</li>
+          <li>Pas de piège au clavier</li>
+          <li>Lien d’évitement « Aller au contenu » fonctionnel</li>
+          <li>Présence de deux systèmes de navigation</li>
+        </ul>
+      </li>
+      <li>Intitulés (pour lecteur d’écran)
+        <ul>
+          <li>Pertinence des intitulés de liens &amp; boutons</li>
+        </ul>
+      </li>
+      <li>Formulaires
+        <ul>
+          <li>Présence et pertinence des étiquettes de formulaires</li>
+          <li>Champs obligatoires indiqués</li>
+          <li>Intitulé explicite pour chaque bouton de formulaire</li>
+        </ul>
+      </li>
+      <li>Vidéos et animations
+        <ul>
+          <li>Présence de sous-titres ou transcription pertinentes pour les vidéos informatives</li>
+          <li>Mouvement ou clignotement peuvent être stoppés</li>
+        </ul>
+      </li>
     </ul>
-  </li>
-  <li>Titre des pages
-    <ul>
-      <li>Intitulé de la balise <code class="language-plaintext highlighter-rouge">title</code> unique</li>
-      <li>Intitulé de la balise <code class="language-plaintext highlighter-rouge">title</code> pertinent</li>
-    </ul>
-  </li>
-  <li>Images
-    <ul>
-      <li>Présence d’un attribut <code class="language-plaintext highlighter-rouge">alt</code> pour chaque balise <code class="language-plaintext highlighter-rouge">img</code></li>
-      <li>Absence d’alternative aux images décoratives</li>
-      <li>Alternative pour chaque image informative</li>
-      <li>Description détaillée de chaque contenu riche</li>
-    </ul>
-  </li>
-  <li>Hiérarchie des titres
-    <ul>
-      <li>Au moins un hN</li>
-      <li>Pas de saut de niveau</li>
-      <li>Hiérarchie des titres reflétant la page</li>
-    </ul>
-  </li>
-  <li>Contrastes
-    <ul>
-      <li>Rapport de contraste des textes et des composants graphiques avec leur arrière-plan</li>
-    </ul>
-  </li>
-  <li>Zoom texte
-    <ul>
-      <li>Lisibilité des textes lorsque les caractères sont agrandis de 200 %</li>
-      <li>Absence d’images-texte</li>
-    </ul>
-  </li>
-  <li>Navigation
-    <ul>
-      <li>Cohérence de l’ordre de tabulation</li>
-      <li>Visibilité du focus</li>
-      <li>Pas de piège au clavier</li>
-      <li>Lien d’évitement « Aller au contenu » fonctionnel</li>
-      <li>Présence de deux systèmes de navigation</li>
-    </ul>
-  </li>
-  <li>Intitulés (pour lecteur d’écran)
-    <ul>
-      <li>Pertinence des intitulés de liens &amp; boutons</li>
-    </ul>
-  </li>
-  <li>Formulaires
-    <ul>
-      <li>Présence et pertinence des étiquettes de formulaires</li>
-      <li>Champs obligatoires indiqués</li>
-      <li>Intitulé explicite pour chaque bouton de formulaire</li>
-    </ul>
-  </li>
-  <li>Vidéos et animations
-    <ul>
-      <li>Présence de sous-titres ou transcription pertinentes pour les vidéos informatives</li>
-      <li>Mouvement ou clignotement peuvent être stoppés</li>
-    </ul>
-  </li>
-</ul>
   </div>
 </section>
 
@@ -435,22 +435,22 @@ Comme dans les audits d'ergonomie, notre notation reflète le **degré de sévé
             </tr>
           </thead>
           <tbody>
-            <tr id="table-14-row-key-1" data-row-key="1">
-              <th scope="row">Problème bloquant <small>(majeur)</small></td>
+            <tr>
+              <th scope="row">Problème bloquant <small>(majeur)</small></th>
               <td>❌</td>
               <td>Erreur(s) entravant le parcours et/ou présentant un grand nombre d'occurrences sur une même page. Nous avons choisi de retenir le nombre de problèmes bloquants comme indicateur significatif, à suivre d'année en année</td>
             </tr>
-            <tr id="table-14-row-key-2" data-row-key="2">
-              <th scope="row">Problème gênant <small>(mineur)</small></td>
+            <tr>
+              <th scope="row">Problème gênant <small>(mineur)</small></th>
               <td>⚠️</td>
               <td>Erreur(s) présente(s), mais non critique(s) sur le parcours, causant des difficultés.</td>
             </tr>
-            <tr id="table-14-row-key-3" data-row-key="3">
+            <tr>
               <th scope="row">Pas de problème</th>
               <td>✅</td>
               <td>Pas de défaut identifié.</td>
             </tr>
-            <tr id="table-14-row-key-4" data-row-key="4">
+            <tr>
               <th scope="row">Non concerné</th>
               <td>NA</td>
               <td>La page ne contient pas d'élément concerné par le point de contrôle.</td>
@@ -499,7 +499,7 @@ Effectuer cette inspection nous a permis d'apprécier, pour chacun des services,
 				      <td>Des erreurs basiques, facilement évitables (par exemple via des tests automatiques), sont en production.</td>
 				    </tr>
 				    <tr>
-				      <td><strong>Très</strong> <strong>faible</strong></td>
+				      <td><strong>Très faible</strong></td>
 				      <td>L’accessibilité n’est pas ou peu prise en compte.</td>
 				    </tr>
 				  </tbody>
