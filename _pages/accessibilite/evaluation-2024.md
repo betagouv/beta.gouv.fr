@@ -220,9 +220,9 @@ Enfin, nous avons considéré ces chiffres au regard de l'utilisation du Design 
 <div class="fr-callout fr-icon-draft-line fr-callout--blue-ecume">
   <p class="fr-callout__title">Nos apprentissages</p>
   <ul>
-    <li><b>Certains problèmes sont très présents sur notre échantillon</b>, notamment ceux relatifs à la navigation, aux images ou aux formulaires, trop souvent implémentées de manière problématique pour les utilisateurices.</li>
-    <li><b>Les vidéos et animations sont toujours problématiques</b> bien que peux utilisées.</li>
-    <li><b>L'usage du DSFR semble atténuer certaines erreurs fréquentes</b>, tel que les contrastes de couleurs.</li>
+    <li><strong>Certains problèmes sont très présents sur notre échantillon</strong>, notamment ceux relatifs à la navigation, aux images ou aux formulaires, trop souvent implémentées de manière problématique pour les utilisateurices.</li>
+    <li><strong>Les vidéos et animations sont toujours problématiques</strong> bien que peux utilisées.</li>
+    <li><strong>L'usage du DSFR semble atténuer certaines erreurs fréquentes</strong>, tel que les contrastes de couleurs.</li>
   </ul>
 </div>
 
