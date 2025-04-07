@@ -6,7 +6,7 @@ avatar: https://avatars3.githubusercontent.com/Benjamin-Doberset?s=600
 github: Benjamin-Doberset
 missions:
   - start: 2021-06-28
-    end: 2024-02-18
+    end: 2025-02-19
     status: admin
     employer: La Fabrique Numérique
   - start: 2024-02-19
