@@ -436,22 +436,22 @@ Comme dans les audits d'ergonomie, notre notation reflète le **degré de sévé
           </thead>
           <tbody>
             <tr id="table-14-row-key-1" data-row-key="1">
-              <td><b>Problème bloquant</b> (majeur)</td>
+              <th scope="row">Problème bloquant <small>(majeur)</small></td>
               <td>❌</td>
               <td>Erreur(s) entravant le parcours et/ou présentant un grand nombre d'occurrences sur une même page. Nous avons choisi de retenir le nombre de problèmes bloquants comme indicateur significatif, à suivre d'année en année</td>
             </tr>
             <tr id="table-14-row-key-2" data-row-key="2">
-              <td><b>Problème gênant</b> (mineur)</td>
+              <th scope="row">Problème gênant <small>(mineur)</small></td>
               <td>⚠️</td>
               <td>Erreur(s) présente(s), mais non critique(s) sur le parcours, causant des difficultés.</td>
             </tr>
             <tr id="table-14-row-key-3" data-row-key="3">
-              <td>Pas de problème</td>
+              <th scope="row">Pas de problème</th>
               <td>✅</td>
               <td>Pas de défaut identifié.</td>
             </tr>
             <tr id="table-14-row-key-4" data-row-key="4">
-              <td>Non concerné</td>
+              <th scope="row">Non concerné</th>
               <td>NA</td>
               <td>La page ne contient pas d'élément concerné par le point de contrôle.</td>
             </tr>
