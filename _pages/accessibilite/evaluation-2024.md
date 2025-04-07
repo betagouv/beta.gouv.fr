@@ -24,7 +24,7 @@ Dans cette optique, nous (le Pôle Numérique Inclusif) avons étudié l’acces
 
 Cette étude vise à encourager l’**amélioration de l’accessibilité** au sein des produits [beta.gouv.fr](http://beta.gouv.fr). Elle n’a pas pour but d’évaluer la conformité RGAA des services étudiés.
 
-*Cette analyse a été effectuée en janvier-février 2025. Elle ne tient pas compte des changements qui ont pu être effectués depuis.*
+<p class="fr-text--sm">Cette analyse a été effectuée en janvier-février 2025. Elle ne tient pas compte des changements qui ont pu être effectués depuis.</p>
 
 ## Résultats de l’étude
 
