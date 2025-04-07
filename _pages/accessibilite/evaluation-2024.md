@@ -509,7 +509,7 @@ Effectuer cette inspection nous a permis d'apprécier, pour chacun des services,
 	</div>
 </div>
 
-*Note : Le niveau maximum est **correct**. Nous considérons que notre méthode d'évaluation n’est pas suffisamment exhaustive pour permettre de confirmer un « bon » niveau d’accessibilité.*
+<p class="fr-text--sm">Note : Le niveau maximum est <strong>correct</strong>. Nous considérons que notre méthode d'évaluation n’est pas suffisamment exhaustive pour permettre de confirmer un « bon » niveau d’accessibilité.</p>
 
 Sans surprise, nous constatons une corrélation entre le nombre de problèmes bloquants et la qualité globale du site :
 
