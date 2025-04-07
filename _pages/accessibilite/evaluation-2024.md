@@ -23,7 +23,7 @@ Pour accompagner cet effort, le Pôle Numérique Inclusif (PNI) de [beta.gouv.fr
 *[PNI]: Pôle Numérique Inclusif
 
 
-Dans cette optique, nous (le Pôle Numérique Inclusif) avons étudié l’accessibilité numérique d’un panel de services numériques du portefeuille, et souhaitons communiquer sur les apprentissages observés. Nous avons opté pour une méthode d'évaluation allégée (expliquée plus bas), plus rapide que l'audit RGAA, pour pouvoir tirer des apprentissages de notre gros portefeuille (plus de 200 services numériques) en un temps limité.
+Dans cette optique, nous (le Pôle Numérique Inclusif) avons étudié l’accessibilité numérique d’un panel de services numériques du portefeuille, et souhaitons communiquer sur les apprentissages observés. Nous avons opté pour une méthode d'évaluation allégée (expliquée plus bas), plus rapide que l'audit RGAA, pour pouvoir tirer des apprentissages de notre vase portefeuille (plus de 200 services numériques) en un temps limité.
 
 Cette étude vise à encourager l’**amélioration de l’accessibilité** au sein des produits [beta.gouv.fr](http://beta.gouv.fr). Elle n’a pas pour but d’évaluer la conformité RGAA des services étudiés.
 
@@ -208,7 +208,7 @@ Parmi les problèmes les plus fréquents, trois catégories se distinguent :
     *   Le lien d'évitement « Aller au contenu » est souvent absent ou dysfonctionnel.
 2. Les alternatives aux **images** sont trop souvent défectueuses, complexifiant l'accès à l'information, par exemple pour les personnes aveugles : 
     *   Des images informatives n'ont pas l'alternative textuelle, les privant de l'information qu'elles véhiculent.
-    *   Des images décoratives possèdent une alternative textuelle, rendant trop verbeuse si pas inintelligible la vocalisation de la page.
+    *   Des images décoratives possèdent une alternative textuelle, rendant trop verbeuse, voir non intelligible, la vocalisation de la page.
 3. Les **formulaires** ne respectant pas les bonnes pratiques d’accessibilité sont difficiles à utiliser pour tout le monde. Par exemple :
     *   Certains champs de formulaires n’ont pas de libellés : c'est une erreur bloquante, car elle ne permet pas de comprendre quelle information doit être saisie.
     *   Les champs obligatoires ne sont pas toujours clairement indiqués, ce qui complexifie l’expérience utilisateur.
@@ -218,7 +218,7 @@ Nous remarquons aussi que, bien que très peu de services utilisent de la vidéo
 
 Enfin, nous avons considéré ces chiffres au regard de l'utilisation du Design Système de l'État (DSFR) :
 * Contrairement à ce que l’on l’observe habituellement sur les évaluations d’accessibilité à grande échelle (comme [l’étude de WebAIM Million](https://webaim.org/projects/million/)), **les erreurs de contrastes ne sont pas majoritaires**. Nous faisons l’hypothèse que c’est un bénéfice de l’usage du DSFR.
-* Nous sommes cependant surpris de constater **autant de problèmes au niveau des formulaires**. L’usage du DSFR ne semble pas suffire à éviter les erreurs d'accessibilité sur ces éléments centraux à l'expérience utilisateur, malgré la documentation accessibilité.
+* Nous sommes cependant surpris de constater **autant de problèmes au niveau des formulaires**. L’usage du DSFR ne semble pas suffire à éviter les erreurs d'accessibilité sur ces éléments centraux à l'expérience utilisateur, malgré la mise à disposition de documentation sur l'accessibilité des formulaires.
 
 *[DSFR]: Design System de l'État
 
@@ -256,7 +256,7 @@ La récurrence de ces erreurs au sein de l'incubateur nous invite à prioriser d
 
 L'audit de conformité RGAA n'est pas praticable dans notre cas, compte tenu du volume de services, de leur nature inachevée et de sa méthodologie comptant un trop grand jeu de tests : cela nous aurait pris beaucoup trop de temps au risque, en outre, d'un résultat non pertinent pour nos produits qui évoluent constamment. Nous avions besoin d'une **évaluation ponctuelle**, rapide à obtenir.
 
-Nous avons donc opté pour une **inspection manuelle rapide** sur un **panel** **représentatif** de notre portefeuille, dans le but de nous donner une **tendance du niveau d’accessibilité** des services incubés chez beta.gouv.fr. Par ailleurs, nous voulions que cette inspection soit peu chronophage et **reproductible** d’année en année.
+Nous avons donc opté pour une **inspection manuelle rapide** sur un **panel** **représentatif** de notre portefeuille, dans le but de nous donner une **tendance du niveau d’accessibilité** des services incubés chez [beta.gouv.fr](http://beta.gouv.fr). Par ailleurs, nous voulions que cette inspection soit peu chronophage et **reproductible** d’année en année.
 
 ### Panel des services inspectés
 
@@ -420,7 +420,7 @@ Comparativement à un audit RGAA, cette liste de contrôle n'est pas exhaustive 
 
 #### Notation des problèmes
 
-Le but du Pôle Numérique Inclusif étant d'améliorer l'accès aux services pour les usagers et usagères, nous avons adopté une **approche centrée utilisateur** dans notre évaluation en nuançant la sévérité des erreurs d'accessibilité identifiées relativement au parcours utilisateur. Notre but était d'identifier les **points bloquants sur le parcours** dans ces pages.
+Le but du Pôle Numérique Inclusif étant d'améliorer l'accès aux services pour les usagers et usagères, nous avons adopté une **approche centrée utilisateur** dans notre évaluation en nuançant la sévérité des erreurs d'accessibilité identifiées relatives au parcours utilisateur. Notre but était d'identifier les **points bloquants sur le parcours** dans ces pages.
 
 En effet, un même défaut d'accessibilité n'a pas le même impact selon qu'il est en début de parcours ou niché dans une fonctionnalité secondaire. Par exemple, un champ de saisie non accessible dans le formulaire de login permettant d'accéder au service est un problème *majeur*, bloquant l'usager ou l'usagère, tandis que ce même défaut est *mineur* dans un formulaire de recueil d'avis (à plus forte raison s'il existe d'autre moyen de contacter le service).
 
