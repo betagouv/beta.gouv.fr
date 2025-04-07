@@ -81,7 +81,7 @@ Sur notre panel de 26 produits (soit 13 % de notre portefeuille global), le nive
 </div>
 
 <div class="fr-callout fr-icon-draft-line fr-callout--blue-ecume">
-  <p class="fr-callout__title">Nos apprentissages</p>
+  <h4 class="fr-callout__title">Nos apprentissages</h4>
   <ul>
     <li><strong>La majorité de nos produits est sur la bonne voie.</strong> Nous avons identifié des problèmes d’accessibilité sur tous les services, mais ceux-ci étant en évolution constante, l'accessibilité pourra être améliorée chemin faisant.</li>
     <li><strong>Un tiers des produits a un niveau faible ou très faible.</strong> Il reste encore une grosse marge d’amélioration, au sein de l'incubateur, pour réduire cette proportion.</li>
@@ -218,7 +218,7 @@ Enfin, nous avons considéré ces chiffres au regard de l'utilisation du Design 
 *   Nous sommes cependant surpris de constater **autant de problèmes au niveau des formulaires**. L’usage du DSFR ne semble pas suffire à éviter les erreurs d'accessibilité sur ces éléments centraux à l'expérience utilisateur, malgré la documentation accessibilité. 
 
 <div class="fr-callout fr-icon-draft-line fr-callout--blue-ecume">
-  <p class="fr-callout__title">Nos apprentissages</p>
+  <h4 class="fr-callout__title">Nos apprentissages</h4>
   <ul>
     <li><strong>Certains problèmes sont très présents sur notre échantillon</strong>, notamment ceux relatifs à la navigation, aux images ou aux formulaires, trop souvent implémentées de manière problématique pour les utilisateurices.</li>
     <li><strong>Les vidéos et animations sont toujours problématiques</strong> bien que peux utilisées.</li>
@@ -236,7 +236,7 @@ Nous avons par ailleurs répertorié les problèmes bloquants les plus courants,
 La récurrence de ces erreurs au sein de l'incubateur nous invite à prioriser des actions de formation en rapport.
 
 <div class="fr-callout fr-icon-draft-line fr-callout--blue-ecume">
-  <p class="fr-callout__title">Nos apprentissages</p>
+  <h4 class="fr-callout__title">Nos apprentissages</h4>
   <ul>
   	<li><b>Tous les services ont au moins un problème bloquant.</b> Certains sites peuvent en cumuler plus d’une vingtaine.</li>
   	<li><b>Certains problèmes sont présents sur plus de la moitié de notre échantillon</b> : liens d'évitement, alternatives textuelles ou sytème de navigation manquants.</li>
