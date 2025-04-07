@@ -70,7 +70,7 @@ Sur notre panel de 26 produits (soit 13 % de notre portefeuille global), le nive
 				    </tr>
 				    <tr>
 				      <th scope="row">Très faible</th>
-				      <td>4 produits&nbsp;(12&nbsp;%)</td>
+				      <td>3 produits&nbsp;(12&nbsp;%)</td>
 				      <td>L’accessibilité n’est pas ou peu prise en compte.</td>
 				    </tr>
 				  </tbody>
@@ -90,7 +90,7 @@ Sur notre panel de 26 produits (soit 13 % de notre portefeuille global), le nive
 
 ### Problèmes les plus fréquents
 
-Pour comprendre les problèmes d'accessibilité auxquels les usagers et usagères sont le plus souvent confrontés le graphique suivant décompte le nombre total d'erreurs d'accessibilité identifiées sur l'ensemble des pages de notre panel de services :
+Pour comprendre les problèmes d'accessibilité auxquels les usagers et usagères sont le plus souvent confrontés, le graphique suivant décompte le nombre total d'erreurs d'accessibilité identifiées sur l'ensemble des pages de notre panel de services :
 
 <div class="fr-content-media fr-content-media--sm">
   <div class="fr-content-media__img">
@@ -200,7 +200,7 @@ Pour comprendre les problèmes d'accessibilité auxquels les usagers et usagère
 
 Parmi les problèmes les plus fréquents, trois catégories se distinguent :
 1. La **navigation** cause le plus de difficultés, avec notamment :
-    *   Un seul système de navigation proposé, généralement la barre de nav principale, sans recherche ni plan de site.
+    *   Un seul système de navigation proposé, généralement la barre de navigation principale, sans recherche ni plan de site.
     *   La navigation au clavier est laborieuse : ordre incohérent, piège au clavier…
     *   Le lien d'évitement « Aller au contenu » est souvent absent ou dysfonctionnel.
 2. Les alternatives aux **images** sont trop souvent défectueuses, complexifiant l'accès à l'information, par exemple pour les personnes aveugles : 
@@ -292,7 +292,7 @@ Ces services constituent de plus un panel varié et représentatif du portefeuil
 Pour chaque service numérique, nous avons suivi la démarche suivante :
 
 1.  constitution d'un échantillon réduit de 3 pages ;
-2.  inspection manuelle de 26 points de contrôle sur chaque page ;
+2.  inspection manuelle de 24 points de contrôle sur chaque page ;
 3.  évaluation du niveau d’accessibilité ;
 4.  communication à l’équipe concernée des principaux défauts identifiés.
 
@@ -333,7 +333,7 @@ Pour que notre inspection reste rapide, reproductible et pertinente, nous avons 
 *   suffisamment variés (pour être représentatifs de la diversité des problèmes)
 *   pérenne (qui reste pertinent dans la durée, quelque soit le référentiel en vigueur)
 
-Nous nous sommes inspiré des [Easy Checks](https://www.w3.org/WAI/test-evaluate/easy-checks/) de la Web Accessibility Initiative du W3C, qui ont l'avantage de proposer une dizaine de vérifications faciles donnant un premier aperçu de l'accessibilité web. Afin de constituer une grille d'évaluation maniable, nous avons eu besoin de décomposer certains de ces gestes en points de contrôles élémentaires (unitaires et discriminants). Nous avons consécutivement retenu une liste de **24 points de contrôle**, répartis en 10 catégories, testés dans cet ordre :
+Nous nous sommes inspirées des [Easy Checks](https://www.w3.org/WAI/test-evaluate/easy-checks/) de la Web Accessibility Initiative du W3C, qui ont l'avantage de proposer une dizaine de vérifications faciles donnant un premier aperçu de l'accessibilité web. Afin de constituer une grille d'évaluation maniable, nous avons eu besoin de décomposer certains de ces gestes en points de contrôles élémentaires (unitaires et discriminants). Nous avons consécutivement retenu une liste de **24 points de contrôle**, répartis en 10 catégories, testés dans cet ordre :
 
 <section class="fr-accordion fr-mb-2v">
   <p class="fr-accordion__title">
@@ -425,12 +425,12 @@ Comme dans les audits d'ergonomie, notre notation reflète le **degré de sévé
   <div class="fr-table__wrapper">
     <div class="fr-table__container">
       <div class="fr-table__content">
-        <table id="table-14">
+        <table>
           <caption>Description des différents types de problèmes</caption>
           <thead>
             <tr>
               <th>Type de problème</th>
-              <th>Icône </th>
+              <th>Icône</th>
               <th>Description</th>
             </tr>
           </thead>
@@ -521,7 +521,7 @@ Sans surprise, nous constatons une corrélation entre le nombre de problèmes bl
 
 {%- capture alt -%}
 <ul>
-	<li>Les services évalués « corrects » présentent 3 et 16 problèmes bloquants,</li>
+	<li>Les services évalués « corrects » présentent entre 3 et 16 problèmes bloquants,</li>
 	<li>ceux « moyens », entre 7 et 17 problèmes bloquants,</li>
 	<li>les autres, « faibles » et « très faibles », comptent entre 19 et 29 problèmes bloquants.</li>
 </ul>
@@ -533,9 +533,11 @@ Sans surprise, nous constatons une corrélation entre le nombre de problèmes bl
 
 Nous avons construit ce protocole pour répondre à nos besoins d'évaluation rapide de l'accessibilité d'un grand nombre de services. Nous en tirons des apprentissages satisfaisants puisqu'ils nous permettent d'orienter nos prochaines actions.
 
-C’est la première fois que nous réalisons une telle évaluation. Celle-ci constitue donc un « point de départ » car nous souhaitons refaire l’exercice dans un an, en suivant le même protocole, pour comparer : notre souhait est d'observer une progression. Tous les services devraient atteindre un niveau « correct » d’accessibilité en cours d’incubation, afin de prétendre à la conformité totale en fin d’incubation.
+C’est la première fois que nous réalisons une telle évaluation. Celle-ci constitue donc un « point de départ » car nous souhaitons refaire l’exercice dans un an, en suivant le même protocole, pour comparer : notre souhait est d'observer une progression. 
 
-Nous mettons la grille d'évaluation manuelle à disposition : n'hésitez pas à l'utiliser dans votre organisation si cela s'y prête : 
+Tous les services devraient atteindre un niveau « correct » d’accessibilité en cours d’incubation, afin de prétendre à la conformité totale en fin d’incubation.
+
+Nous mettons la grille d'évaluation manuelle à disposition, n'hésitez pas à l'utiliser dans votre organisation si cela s'y prête : 
 
 <div class="fr-card fr-enlarge-link fr-card--download fr-card--sm">
   <div class="fr-card__body">
