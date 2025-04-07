@@ -467,7 +467,7 @@ Comme dans les audits d'ergonomie, notre notation reflète le **degré de sévé
   </div>
 </div>
 
-<figure role="group" class="fr-content-media fr-content-media--sm" aria-label="Aperçu de la grille d'évaluation">
+<figure role="group" aria-label="Aperçu de la grille d'évaluation">
   <div class="fr-content-media__img">
     <img class="fr-responsive-img" src="/img/accessibilite/beta-bilan-a11y-2024-grid.png" alt="Screenshot de la grille d'évaluation" />
   </div>
