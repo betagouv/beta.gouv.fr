@@ -18,7 +18,13 @@ thematiques:
 usertypes:
   - Etudiants
   - Boursiers
-techno: []
+techno:
+  - python
+  - django
+  - circleci
+  - git
+  - yaml
+  - json
 repository: https://github.com/betagouv/mle-front
 link: ''
 ---
