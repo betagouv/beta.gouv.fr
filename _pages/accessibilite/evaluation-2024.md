@@ -83,8 +83,8 @@ Sur notre panel de 26 produits (soit 13 % de notre portefeuille global), le nive
 <div class="fr-callout fr-icon-draft-line fr-callout--blue-ecume">
   <p class="fr-callout__title">Nos apprentissages</p>
   <ul>
-    <li><b>La majorité de nos produits est sur la bonne voie.</b> Nous avons identifié des problèmes d’accessibilité sur tous les services, mais ceux-ci étant en évolution constante, l'accessibilité pourra être améliorée chemin faisant.</li>
-    <li><b>Un tiers des produits a un niveau faible ou très faible.</b> Il reste encore une grosse marge d’amélioration, au sein de l'incubateur, pour réduire cette proportion.</li>
+    <li><strong>La majorité de nos produits est sur la bonne voie.</strong> Nous avons identifié des problèmes d’accessibilité sur tous les services, mais ceux-ci étant en évolution constante, l'accessibilité pourra être améliorée chemin faisant.</li>
+    <li><strong>Un tiers des produits a un niveau faible ou très faible.</strong> Il reste encore une grosse marge d’amélioration, au sein de l'incubateur, pour réduire cette proportion.</li>
   </ul>
 </div>
 
