@@ -214,10 +214,10 @@ Parmi les problèmes les plus fréquents, trois catégories se distinguent :
 Nous remarquons aussi que, bien que très peu de services utilisent de la vidéo ou des animations, lorsque c'est le cas, c'est toujours de façon problématique pour les usagers et usagères.
 
 Enfin, nous avons considéré ces chiffres au regard de l'utilisation du Design Système de l'État (DSFR) :
-*   Contrairement à ce que l’on l’observe habituellement sur les évaluations d’accessibilité à grande échelle (comme [l’étude de WebAIM Million](https://webaim.org/projects/million/)), **les erreurs de contrastes ne sont pas majoritaires**. Nous faisons l’hypothèse que c’est un bénéfice de l’usage du DSFR.
-*   Nous sommes cependant surpris de constater **autant de problèmes au niveau des formulaires**. L’usage du DSFR ne semble pas suffire à éviter les erreurs d'accessibilité sur ces éléments centraux à l'expérience utilisateur, malgré la documentation accessibilité. 
+* Contrairement à ce que l’on l’observe habituellement sur les évaluations d’accessibilité à grande échelle (comme [l’étude de WebAIM Million](https://webaim.org/projects/million/)), **les erreurs de contrastes ne sont pas majoritaires**. Nous faisons l’hypothèse que c’est un bénéfice de l’usage du DSFR.
+* Nous sommes cependant surpris de constater **autant de problèmes au niveau des formulaires**. L’usage du DSFR ne semble pas suffire à éviter les erreurs d'accessibilité sur ces éléments centraux à l'expérience utilisateur, malgré la documentation accessibilité.
 
-<div class="fr-callout fr-icon-draft-line fr-callout--blue-ecume">
+<div class="fr-callout fr-icon-draft-line fr-callout--blue-ecume fr-mt-4w">
   <h4 class="fr-callout__title">Nos apprentissages</h4>
   <ul>
     <li><strong>Certains problèmes sont très présents sur notre échantillon</strong>, notamment ceux relatifs à la navigation, aux images ou aux formulaires, trop souvent implémentées de manière problématique pour les utilisateurices.</li>
@@ -335,7 +335,7 @@ Pour que notre inspection reste rapide, reproductible et pertinente, nous avons 
 
 Nous nous sommes inspirées des [Easy Checks](https://www.w3.org/WAI/test-evaluate/easy-checks/) de la Web Accessibility Initiative du W3C, qui ont l'avantage de proposer une dizaine de vérifications faciles donnant un premier aperçu de l'accessibilité web. Afin de constituer une grille d'évaluation maniable, nous avons eu besoin de décomposer certains de ces gestes en points de contrôles élémentaires (unitaires et discriminants). Nous avons consécutivement retenu une liste de **24 points de contrôle**, répartis en 10 catégories, testés dans cet ordre :
 
-<section class="fr-accordion fr-mb-2v">
+<section class="fr-accordion fr-mb-3w">
   <p class="fr-accordion__title">
     <button type="button" class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-id">Voir tous les points de contrôles</button>
   </p>
