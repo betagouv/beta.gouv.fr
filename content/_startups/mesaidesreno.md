@@ -19,6 +19,9 @@ phases:
     start: 2024-02-15
 thematiques:
   - Écologie
+fast:
+  promotion: 16
+  montant: 200000
 usertypes: []
 stats_url: https://mesaidesreno.beta.gouv.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/mesaidesreno-beta-gouv-fr/
