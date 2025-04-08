@@ -9,6 +9,12 @@ missions:
     employer: Malt
     startups:
       - jeveuxaider
+  - start: 2024-02-01
+    end: 2025-09-09
+    status: independent
+    employer: Omnicité
+    startups:
+      - mon.espace.collectivite
   - start: 2025-01-16
     end: 2025-03-31
     status: independent

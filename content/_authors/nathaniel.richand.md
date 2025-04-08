@@ -23,6 +23,11 @@ missions:
     employer: Malt
     startups:
       - l-application-du-cej
+  - start: 2025-04-07
+    end: 2025-07-07
+    status: independent
+    startups:
+      - romin
 badges:
   - segur
 competences:

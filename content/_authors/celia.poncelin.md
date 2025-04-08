@@ -10,7 +10,6 @@ competences:
 missions:
   - start: 2025-03-26
     end: 2025-09-30
-    employer: Malt
     status: independent
-    startups: []
+    employer: Malt
 ---
