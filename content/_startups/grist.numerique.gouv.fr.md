@@ -9,6 +9,9 @@ phases:
     start: 2024-03-15
   - name: construction
     start: 2024-09-01
+fast:
+  promotion: 16
+  montant: 200000
 thematiques:
   - Administratif
   - Outil technique
