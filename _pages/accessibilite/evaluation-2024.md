@@ -520,7 +520,7 @@ Sans surprise, nous constatons une corrélation entre le nombre de problèmes bl
 
 <div class="fr-content-media fr-content-media--sm">
   <figure class="fr-content-media__img">
-    <img class="fr-responsive-img fr-ratio-16x9" src="/img/accessibilite/beta-bilan-a11y-2024-problems-dots.png" alt="Graphique montrant le nombre problèmes bloquants selon la qualité du site - décrit ci-après" />
+    <img class="fr-responsive-img fr-ratio-3x2" src="/img/accessibilite/beta-bilan-a11y-2024-problems-dots.png" alt="Graphique montrant le nombre problèmes bloquants selon la qualité du site - décrit ci-après" />
     <figcaption class="fr-content-media__caption">Nombre de problèmes bloquants selon la qualité du site </figcaption>
   </figure>
 </div>
@@ -528,8 +528,8 @@ Sans surprise, nous constatons une corrélation entre le nombre de problèmes bl
 {%- capture alt -%}
 <ul>
   <li>Les services évalués « corrects » présentent entre 3 et 16 problèmes bloquants,</li>
-  <li>ceux « moyens », entre 7 et 17 problèmes bloquants,</li>
-  <li>les autres, « faibles » et « très faibles », comptent entre 19 et 29 problèmes bloquants.</li>
+  <li>ceux « moyens », entre 7 et 25 problèmes bloquants,</li>
+  <li>les autres, « faibles » et « très faibles », comptent entre 15 et 35 problèmes bloquants.</li>
 </ul>
 {%- endcapture -%}
 {% include transcription.html id="problems-dots" title="Nombre de problèmes bloquants selon la qualité du site" alt=alt %}
