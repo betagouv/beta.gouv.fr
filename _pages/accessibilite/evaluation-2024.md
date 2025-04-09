@@ -95,111 +95,108 @@ Sur notre panel de 26 produits (soit 13 % de notre portefeuille global), le nive
 
 Pour comprendre les problèmes d'accessibilité auxquels les usagers et usagères sont le plus souvent confrontés, le graphique suivant décompte le nombre total d'erreurs d'accessibilité identifiées sur l'ensemble des pages de notre panel de services :
 
-<div class="fr-content-media fr-content-media--sm">
+<figure class="fr-content-media fr-content-media--sm">
   <div class="fr-content-media__img">
     <img class="fr-responsive-img fr-ratio-16x9" src="/img/accessibilite/beta-bilan-a11y-2024-problems.png" alt="Fréquences des problèmes d'accessibilité - décrite ci-après" />
   </div>
-  <span class="fr-content-media__caption">Fréquences des problèmes d'accessibilité</span>
+  <figcaption class="fr-content-media__caption">Fréquences des problèmes d'accessibilité</figcaption>
+</figure>
 
 {%- capture alt -%}
-
 <div class="fr-table fr-table--no-caption" id="table-14-component">
   <div class="fr-table__wrapper">
     <div class="fr-table__container">
       <div class="fr-table__content">
-		<table>
-			<caption>Détail de fréquence des problèmes d'accessibilités</caption>
-      <thead>
-        <tr>
-          <th>Problème d'accessibilité</th>
-          <th>Problèmes bloquants</th>
-          <th>Problèmes gênants</th>
-          <th>Pas de problème</th>
-          <th>Non concerné</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th scope="row">Navigation</th>
-          <td>139</td>
-          <td>53</td>
-          <td>312</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <th scope="row">Images</th>
-          <td>106</td>
-          <td>45</td>
-          <td>48</td>
-          <td>136</td>
-        </tr>
-        <tr>
-          <th scope="row">Formulaires</th>
-          <td>65</td>
-          <td>48</td>
-          <td>54</td>
-          <td>85</td>
-        </tr>
-        <tr>
-          <th scope="row">Titres</th>
-          <td>52</td>
-          <td>19</td>
-          <td>178</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <th scope="row">Titre de page</th>
-          <td>43</td>
-          <td>11</td>
-          <td>114</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <th scope="row">Contrastes</th>
-          <td>19</td>
-          <td>16</td>
-          <td>49</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <th scope="row">Zoom texte</th>
-          <td>9</td>
-          <td>27</td>
-          <td>66</td>
-          <td>66</td>
-        </tr>
-        <tr>
-          <th scope="row">Langue</th>
-          <td>11</td>
-          <td>0</td>
-          <td>73</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <th scope="row">Intitulés</th>
-          <td>7</td>
-          <td>8</td>
-          <td>69</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <th scope="row">Vidéos &amp; animations</th>
-          <td>11</td>
-          <td>0</td>
-          <td>0</td>
-          <td>157</td>
-        </tr>
-      </tbody>
-    </table>
+    		<table>
+    			<caption>Détail de fréquence des problèmes d'accessibilités</caption>
+          <thead>
+            <tr>
+              <th>Problème d'accessibilité</th>
+              <th>Problèmes bloquants</th>
+              <th>Problèmes gênants</th>
+              <th>Pas de problème</th>
+              <th>Non concerné</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Navigation</th>
+              <td>139</td>
+              <td>53</td>
+              <td>312</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <th scope="row">Images</th>
+              <td>106</td>
+              <td>45</td>
+              <td>48</td>
+              <td>136</td>
+            </tr>
+            <tr>
+              <th scope="row">Formulaires</th>
+              <td>65</td>
+              <td>48</td>
+              <td>54</td>
+              <td>85</td>
+            </tr>
+            <tr>
+              <th scope="row">Titres</th>
+              <td>52</td>
+              <td>19</td>
+              <td>178</td>
+              <td>3</td>
+            </tr>
+            <tr>
+              <th scope="row">Titre de page</th>
+              <td>43</td>
+              <td>11</td>
+              <td>114</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <th scope="row">Contrastes</th>
+              <td>19</td>
+              <td>16</td>
+              <td>49</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <th scope="row">Zoom texte</th>
+              <td>9</td>
+              <td>27</td>
+              <td>66</td>
+              <td>66</td>
+            </tr>
+            <tr>
+              <th scope="row">Langue</th>
+              <td>11</td>
+              <td>0</td>
+              <td>73</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <th scope="row">Intitulés</th>
+              <td>7</td>
+              <td>8</td>
+              <td>69</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <th scope="row">Vidéos &amp; animations</th>
+              <td>11</td>
+              <td>0</td>
+              <td>0</td>
+              <td>157</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
   </div>
 </div>
-</div>
-</div>
-
 {%- endcapture -%}
 {% include transcription.html id="frequence-problems" title="Fréquences des problèmes d'accessibilité" alt=alt %}
-
-</div>
 
 Parmi les problèmes les plus fréquents, trois catégories se distinguent :
 1. La **navigation** cause le plus de difficultés, avec notamment :
@@ -273,11 +270,12 @@ Ces services constituent de plus un panel varié et représentatif du portefeuil
 * Ils proviennent de 13 incubateurs différents du [réseau beta.gouv.fr](https://beta.gouv.fr/incubateurs/).
 * Ces services ont plusieurs cibles utilisatrices : les particuliers, les collectivités territoriales, les services de l’État, les entreprises et professionnels ou encore les associations :
 
-<div class="fr-content-media fr-content-media--sm">
+<figure class="fr-content-media fr-content-media--sm">
   <div class="fr-content-media__img">
     <img class="fr-responsive-img fr-ratio-16x9" src="/img/accessibilite/beta-bilan-a11y-2024-cibles.png" alt="Cible utilisatrice des produits audités - décrit ci-après" />
   </div>
-  <span class="fr-content-media__caption">Cible utilisatrice des produits audités</span>
+  <figcaption class="fr-content-media__caption">Cible utilisatrice des produits audités</figcaption>
+</figure>
 
 {%- capture alt -%}
 <ul>
@@ -290,7 +288,6 @@ Ces services constituent de plus un panel varié et représentatif du portefeuil
 {%- endcapture -%}
 {% include transcription.html id="cibles" title="Cible utilisatrice des produits audités" alt=alt %}
 
-</div>
 
 ### Protocole d'évaluation
 
@@ -312,11 +309,12 @@ Pour chacun de ces services, nous avons identifié les 3 pages les plus pertinen
 
 Nous avons ainsi inspecté un total de 78 pages réparties comme suit :
 
-<div class="fr-content-media fr-content-media--sm">
+<figure class="fr-content-media fr-content-media--sm">
   <div class="fr-content-media__img">
     <img class="fr-responsive-img" src="/img/accessibilite/beta-bilan-a11y-2024-pages.png" alt="Type de pages auditées - décrit ci-après" />
   </div>
-  <span class="fr-content-media__caption">Type de pages auditées</span>
+  <figcaption class="fr-content-media__caption">Type de pages auditées</figcaption>
+</figure>
 
 {%- capture alt -%}
 <ul>
@@ -327,8 +325,6 @@ Nous avons ainsi inspecté un total de 78 pages réparties comme suit :
 </ul>
 {%- endcapture -%}
 {% include transcription.html id="types-pages" title="Types de pages auditées" alt=alt %}
-
-</div>
 
 #### Points de contrôle
 
@@ -522,12 +518,12 @@ Effectuer cette inspection nous a permis d'apprécier, pour chacun des services,
 
 Sans surprise, nous constatons une corrélation entre le nombre de problèmes bloquants et la qualité globale du site :
 
-<div class="fr-content-media fr-content-media--sm">
+<figure class="fr-content-media fr-content-media--sm">
   <div class="fr-content-media__img">
     <img class="fr-responsive-img fr-ratio-16x9" src="/img/accessibilite/beta-bilan-a11y-2024-problems-dots.png" alt="Graphique montrant le nombre problèmes bloquants selon la qualité du site - décrit ci-après" />
-    <span class="fr-content-media__caption">Nombre problèmes bloquants selon la qualité du site </span>
+    <figcaption class="fr-content-media__caption">Nombre problèmes bloquants selon la qualité du site </figcaption>
   </div>
-
+</figure>
 {%- capture alt -%}
 <ul>
 	<li>Les services évalués « corrects » présentent entre 3 et 16 problèmes bloquants,</li>
@@ -536,7 +532,13 @@ Sans surprise, nous constatons une corrélation entre le nombre de problèmes bl
 </ul>
 {%- endcapture -%}
 {% include transcription.html id="problems-dots" title="Nombre de problèmes bloquants selon la qualité du site" alt=alt %}
-</div>
+
+#### Communication à l'équipe concernée
+
+Nous avons envoyé un rapport, succinct mais personnalisé, à chaque équipe évaluée, en listant notamment :
+*   Les problèmes les plus marquants rencontrés sur le site
+*   Nos recommandations à l'équipe, en précisant des ressources de références en français.
+
 
 ### Conclusion
 
