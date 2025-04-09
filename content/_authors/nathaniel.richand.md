@@ -1,6 +1,6 @@
 ---
 fullname: Nathaniel Richand
-role: coach agile
+role: coach produit
 domaine: Coaching
 link: http://www.agiletribu.com
 github: nrichand
@@ -26,6 +26,7 @@ missions:
   - start: 2025-04-07
     end: 2025-07-07
     status: independent
+    employer: Dynergie
     startups:
       - romin
 badges:
