@@ -38,8 +38,8 @@ Sur notre panel de 26 produits (soit 13 % de notre portefeuille global), le nive
 <div role="group" class="fr-content-media fr-content-media--sm" aria-label="Répartition de l'échantillon par niveau d'accessibilité">
   <figure class="fr-content-media__img">
     <img class="fr-responsive-img fr-ratio-16x9" src="/img/accessibilite/beta-bilan-a11y-2024-results.png" alt="Répartition de l'échantillon par niveau d'accessibilité" />
+    <figcaption class="fr-content-media__caption">Répartition de l'échantillon par niveau d'accessibilité</figcaption>
   </figure>
-  <figcaption class="fr-content-media__caption">Répartition de l'échantillon par niveau d'accessibilité</figcaption>
 </div>
 
 <div class="fr-table fr-table--no-caption">
@@ -98,8 +98,8 @@ Pour comprendre les problèmes d'accessibilité auxquels les usagers et usagère
 <div class="fr-content-media fr-content-media--sm">
   <figure class="fr-content-media__img">
     <img class="fr-responsive-img fr-ratio-16x9" src="/img/accessibilite/beta-bilan-a11y-2024-problems.png" alt="Fréquences des problèmes d'accessibilité - décrite ci-après" />
+    <figcaption class="fr-content-media__caption">Fréquences des problèmes d'accessibilité</figcaption>
   </figure>
-  <figcaption class="fr-content-media__caption">Fréquences des problèmes d'accessibilité</figcaption>
 </div>
 
 {%- capture alt -%}
@@ -273,8 +273,8 @@ Ces services constituent de plus un panel varié et représentatif du portefeuil
 <div class="fr-content-media fr-content-media--sm">
   <figure class="fr-content-media__img">
     <img class="fr-responsive-img fr-ratio-16x9" src="/img/accessibilite/beta-bilan-a11y-2024-cibles.png" alt="Cible utilisatrice des produits audités - décrit ci-après" />
+    <figcaption class="fr-content-media__caption">Cible utilisatrice des produits audités</figcaption>
   </figure>
-  <figcaption class="fr-content-media__caption">Cible utilisatrice des produits audités</figcaption>
 </div>
 
 {%- capture alt -%}
@@ -312,8 +312,8 @@ Nous avons ainsi inspecté un total de 78 pages réparties comme suit :
 <div class="fr-content-media fr-content-media--sm">
   <figure class="fr-content-media__img">
     <img class="fr-responsive-img" src="/img/accessibilite/beta-bilan-a11y-2024-pages.png" alt="Type de pages auditées - décrit ci-après" />
+    <figcaption class="fr-content-media__caption">Type de pages auditées</figcaption>
   </figure>
-  <figcaption class="fr-content-media__caption">Type de pages auditées</figcaption>
 </div>
 
 {%- capture alt -%}
@@ -466,8 +466,8 @@ Comme dans les audits d'ergonomie, notre notation reflète le **degré de sévé
 <div role="group" aria-label="Aperçu de la grille d'évaluation">
   <figure class="fr-content-media__img">
     <img class="fr-responsive-img" src="/img/accessibilite/beta-bilan-a11y-2024-grid.png" alt="Screenshot de la grille d'évaluation" />
+    <figcaption class="fr-content-media__caption">Aperçu de la grille d'évaluation</figcaption>
   </figure>
-  <figcaption class="fr-content-media__caption">Aperçu de la grille d'évaluation</figcaption>
 </div>
 
 
