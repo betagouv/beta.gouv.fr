@@ -20,7 +20,11 @@ fast:
 thematiques:
   - Justice
 usertypes: []
-techno: []
+techno:
+  - angular
+  - java
+  - spring
+  - postgreSQL
 ---
 ## Problème
 
