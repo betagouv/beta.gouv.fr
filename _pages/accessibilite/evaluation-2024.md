@@ -35,12 +35,12 @@ Cette étude vise à encourager l’**amélioration de l’accessibilité** au s
 
 Sur notre panel de 26 produits (soit 13 % de notre portefeuille global), le niveau d’accessibilité se réparti ainsi :
 
-<figure role="group" class="fr-content-media fr-content-media--sm" aria-label="Répartition de l'échantillon par niveau d'accessibilité">
-  <div class="fr-content-media__img">
+<div role="group" class="fr-content-media fr-content-media--sm" aria-label="Répartition de l'échantillon par niveau d'accessibilité">
+  <figure class="fr-content-media__img">
     <img class="fr-responsive-img fr-ratio-16x9" src="/img/accessibilite/beta-bilan-a11y-2024-results.png" alt="Répartition de l'échantillon par niveau d'accessibilité" />
-  </div>
+  </figure>
   <figcaption class="fr-content-media__caption">Répartition de l'échantillon par niveau d'accessibilité</figcaption>
-</figure>
+</div>
 
 <div class="fr-table fr-table--no-caption">
 	<div class="fr-table__wrapper">
@@ -95,12 +95,12 @@ Sur notre panel de 26 produits (soit 13 % de notre portefeuille global), le nive
 
 Pour comprendre les problèmes d'accessibilité auxquels les usagers et usagères sont le plus souvent confrontés, le graphique suivant décompte le nombre total d'erreurs d'accessibilité identifiées sur l'ensemble des pages de notre panel de services :
 
-<figure class="fr-content-media fr-content-media--sm">
-  <div class="fr-content-media__img">
+<div class="fr-content-media fr-content-media--sm">
+  <figure class="fr-content-media__img">
     <img class="fr-responsive-img fr-ratio-16x9" src="/img/accessibilite/beta-bilan-a11y-2024-problems.png" alt="Fréquences des problèmes d'accessibilité - décrite ci-après" />
-  </div>
+  </figure>
   <figcaption class="fr-content-media__caption">Fréquences des problèmes d'accessibilité</figcaption>
-</figure>
+</div>
 
 {%- capture alt -%}
 <div class="fr-table fr-table--no-caption" id="table-14-component">
@@ -270,12 +270,12 @@ Ces services constituent de plus un panel varié et représentatif du portefeuil
 * Ils proviennent de 13 incubateurs différents du [réseau beta.gouv.fr](https://beta.gouv.fr/incubateurs/).
 * Ces services ont plusieurs cibles utilisatrices : les particuliers, les collectivités territoriales, les services de l’État, les entreprises et professionnels ou encore les associations :
 
-<figure class="fr-content-media fr-content-media--sm">
-  <div class="fr-content-media__img">
+<div class="fr-content-media fr-content-media--sm">
+  <figure class="fr-content-media__img">
     <img class="fr-responsive-img fr-ratio-16x9" src="/img/accessibilite/beta-bilan-a11y-2024-cibles.png" alt="Cible utilisatrice des produits audités - décrit ci-après" />
-  </div>
+  </figure>
   <figcaption class="fr-content-media__caption">Cible utilisatrice des produits audités</figcaption>
-</figure>
+</div>
 
 {%- capture alt -%}
 <ul>
@@ -309,12 +309,12 @@ Pour chacun de ces services, nous avons identifié les 3 pages les plus pertinen
 
 Nous avons ainsi inspecté un total de 78 pages réparties comme suit :
 
-<figure class="fr-content-media fr-content-media--sm">
-  <div class="fr-content-media__img">
+<div class="fr-content-media fr-content-media--sm">
+  <figure class="fr-content-media__img">
     <img class="fr-responsive-img" src="/img/accessibilite/beta-bilan-a11y-2024-pages.png" alt="Type de pages auditées - décrit ci-après" />
-  </div>
+  </figure>
   <figcaption class="fr-content-media__caption">Type de pages auditées</figcaption>
-</figure>
+</div>
 
 {%- capture alt -%}
 <ul>
@@ -463,12 +463,12 @@ Comme dans les audits d'ergonomie, notre notation reflète le **degré de sévé
   </div>
 </div>
 
-<figure role="group" aria-label="Aperçu de la grille d'évaluation">
-  <div class="fr-content-media__img">
+<div role="group" aria-label="Aperçu de la grille d'évaluation">
+  <figure class="fr-content-media__img">
     <img class="fr-responsive-img" src="/img/accessibilite/beta-bilan-a11y-2024-grid.png" alt="Screenshot de la grille d'évaluation" />
-  </div>
+  </figure>
   <figcaption class="fr-content-media__caption">Aperçu de la grille d'évaluation</figcaption>
-</figure>
+</div>
 
 
 
@@ -518,17 +518,18 @@ Effectuer cette inspection nous a permis d'apprécier, pour chacun des services,
 
 Sans surprise, nous constatons une corrélation entre le nombre de problèmes bloquants et la qualité globale du site :
 
-<figure class="fr-content-media fr-content-media--sm">
-  <div class="fr-content-media__img">
+<div class="fr-content-media fr-content-media--sm">
+  <figure class="fr-content-media__img">
     <img class="fr-responsive-img fr-ratio-16x9" src="/img/accessibilite/beta-bilan-a11y-2024-problems-dots.png" alt="Graphique montrant le nombre problèmes bloquants selon la qualité du site - décrit ci-après" />
-    <figcaption class="fr-content-media__caption">Nombre problèmes bloquants selon la qualité du site </figcaption>
-  </div>
-</figure>
+    <figcaption class="fr-content-media__caption">Nombre de problèmes bloquants selon la qualité du site </figcaption>
+  </figure>
+</div>
+
 {%- capture alt -%}
 <ul>
-	<li>Les services évalués « corrects » présentent entre 3 et 16 problèmes bloquants,</li>
-	<li>ceux « moyens », entre 7 et 17 problèmes bloquants,</li>
-	<li>les autres, « faibles » et « très faibles », comptent entre 19 et 29 problèmes bloquants.</li>
+  <li>Les services évalués « corrects » présentent entre 3 et 16 problèmes bloquants,</li>
+  <li>ceux « moyens », entre 7 et 17 problèmes bloquants,</li>
+  <li>les autres, « faibles » et « très faibles », comptent entre 19 et 29 problèmes bloquants.</li>
 </ul>
 {%- endcapture -%}
 {% include transcription.html id="problems-dots" title="Nombre de problèmes bloquants selon la qualité du site" alt=alt %}
