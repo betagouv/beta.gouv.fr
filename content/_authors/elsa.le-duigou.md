@@ -18,7 +18,6 @@ missions:
     status: admin
     employer: dinum
     startups:
-      - albert-france-service
       - api.prevention
       - infomedicament
       - medistock

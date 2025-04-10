@@ -15,12 +15,10 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: construction
-    comment: null
     start: 2024-06-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-04-09
+link: ''
 ---
 Cette fiche est uniquement un placeholder temporaire

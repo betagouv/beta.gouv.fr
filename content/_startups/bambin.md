@@ -16,7 +16,8 @@ thematiques:
   - Santé
 usertypes:
   - collectivite-territoriale
-techno: []
+techno:
+  - postgresSQL / postgis
 sponsors:
   - /organisations/cerema
 events:

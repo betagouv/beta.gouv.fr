@@ -112,7 +112,7 @@ Ces projets peuvent être portés par des collectivités territoriales ou des OP
 
 - définir des **indicateurs d’impact au service de la transition écologique**
 - publier ou consolider son code en **open source**
-- **amorcer son déploiement au national **pour être utilisé par d'autres territoires
+- **amorcer son déploiement au national** pour être utilisé par d'autres territoires
 
 
 ---

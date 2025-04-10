@@ -9,6 +9,4 @@ missions:
     end: 2027-11-30
     status: admin
     employer: ALLiaNCE
-    startups:
-      - albert-france-service
 ---
