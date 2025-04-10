@@ -223,7 +223,7 @@ Enfin, nous avons considéré ces chiffres au regard de l'utilisation du Design 
   <h4 class="fr-callout__title">Nos apprentissages</h4>
   <ul>
     <li><strong>Certains problèmes sont très présents sur notre échantillon</strong>, notamment ceux relatifs à la navigation, aux images ou aux formulaires, trop souvent implémentées de manière problématique pour les utilisateurices.</li>
-    <li><strong>Les vidéos et animations sont toujours problématiques</strong> bien que peux utilisées.</li>
+    <li><strong>Les vidéos et animations sont toujours problématiques</strong> bien que peu utilisées.</li>
     <li><strong>L'usage du DSFR semble atténuer certaines erreurs fréquentes</strong>, tel que les contrastes de couleurs.</li>
   </ul>
 </div>
@@ -241,7 +241,7 @@ La récurrence de ces erreurs au sein de l'incubateur nous invite à prioriser d
   <h4 class="fr-callout__title">Nos apprentissages</h4>
   <ul>
   	<li><b>Tous les services ont au moins un problème bloquant.</b> Certains sites peuvent en cumuler plus d’une vingtaine.</li>
-  	<li><b>Certains problèmes sont présents sur plus de la moitié de notre échantillon</b> : liens d'évitement, alternatives textuelles ou sytème de navigation manquants.</li>
+  	<li><b>Certains problèmes sont présents sur plus de la moitié de notre échantillon</b> : liens d'évitement, alternatives textuelles ou système de navigation manquants.</li>
   </ul>
 </div>
 
