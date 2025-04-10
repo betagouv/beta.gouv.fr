@@ -25,6 +25,7 @@ techno:
   - java
   - spring
   - postgreSQL
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#seLEXpert
 ---
 ## Problème
 
