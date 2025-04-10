@@ -8,6 +8,4 @@ missions:
     end: 2025-11-01
     status: admin
     employer: DINUM
-    startups:
-      - albert-france-service
 ---

@@ -1,14 +1,23 @@
 ---
 analyse_risques: false
-mon_service_securise: false
+mon_service_securise: true
 contact: datalma@beta.gouv.fr
-repository: https://gitlab.com/datalab5084531/datalma
+repository: https://github.com/orgs/betagouv/teams/datalma/repositories
 thematiques:
   - Administratif
   - Open-Data
 usertypes:
   - etat
-techno: []
+techno:
+  - Dagster
+  - DBT
+  - Python
+  - Postgresql
+  - S3
+  - DSFR
+  - React
+  - vite
+  - typescript
 title: Datalma
 mission: Appuyer les décisions prises par la Présidence, le Premier Ministre et les ministères sur des données pertinentes & récentes.
 incubator: dinum
@@ -25,8 +34,8 @@ events:
     comment: Restitution de l'investigation
   - name: committee
     date: 2025-02-04
-    comment: premier comité de l'équipe EIGs
-link: https://www.datalma.fr
+    comment: Premier comité d'investissement mené par l'équipe EIGs
+link: https://datalma.fr
 ---
 ## Contexte
 En 2023, la Présidence de la République crée le DataLab, équipe chargée du développement d’outils d’analyse de données et de la transformation numérique (automatisations, IA…) au sein de la Présidence, afin d’aider les agents de l’Élysée dans leur quotidien. Le DataLab a notamment travaillé sur un outil d’analyse textométrique ou sur la création d’un équivalent de “ChatGPT” interne calibré pour les besoins de la Présidence…

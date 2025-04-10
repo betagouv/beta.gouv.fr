@@ -1,15 +1,15 @@
 ---
 title: data·inclusion
-mission: Créer un référentiel commun de toutes les données de l’offre d’insertion des territoires
+mission: Recenser toute l'offre d'insertion sociale et professionnelle de France
 sponsors:
   - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
-link: https://api.data.inclusion.gouv.fr/api/v0/docs#/
+link: https://data.inclusion.gouv.fr/
 repository: https://github.com/gip-inclusion/data-inclusion
 contact: data-inclusion@inclusion.gouv.fr
 stats: true
-stats_url: https://metabase.data.inclusion.gouv.fr/public/dashboard/77beb1ed-42c3-4f2a-bdee-5e8378699485
+stats_url: https://data.inclusion.gouv.fr/nos-indicateurs/
 phases:
   - name: investigation
     start: 2022-03-17
@@ -39,38 +39,31 @@ dashlord_url: https://dashlord.incubateur.net/url/api-data-inclusion-beta-gouv-f
 
 Dans le contexte du service public de l’insertion et de l’emploi, de la mise en oeuvre du SPIE, et de l'expérimentation de France Travail, un sujet revient de manière prégnante : l’accès à des données fiables sur les dispositifs et l’offre d’insertion au niveau national et sur chaque territoire.
 
-Si un grand nombre d’outils existent, dont plusieurs financés par la dépense publique - portails locaux ou nationaux, annuaires d’associations, éditeurs de logiciels, etc. -, **les données elles-mêmes circulent mal d’un outil à l’autre et un grand nombre d’acteurs sont contraints de “réinventer la roue” à leur échelle ou de voir leurs bases de données devenir peu à peu obsolètes.**
+Si un grand nombre d’outils existent, dont plusieurs financés par la dépense publique, portails locaux ou nationaux, annuaires d’associations, éditeurs de logiciels, **les données elles-mêmes circulent mal d’un outil à l’autre et un grand nombre d’acteurs sont contraints de “réinventer la roue” à leur échelle ou de voir leurs bases de données devenir peu à peu obsolètes.**
 
 *Le Ministère du Travail, de l'Emploi et de l'Insertion a lancé la création d’un patrimoine commun de l’offre d’insertion en open data où chaque acteur pourra partager son offre de services en matière d’insertion, et récupérer les données des autres.*
 
 ## Notre service
 
-data·inclusion est une **démarche collective** visant à créer **un référentiel commun** de toutes les données de l’offre d’insertion des territoires afin de permettre à tous les services numériques recensant et mettant en visibilité leur offre d’être **interopérables** et de **mutualiser les efforts** de recensement et de mise à jour.
+data·inclusion est le commun numérique de l'offre d'insertion. Nous recensons, grâce à nos 16 producteurs de données, plus de 100.000 structures proposant près de 150.000 services d'insertion sur des thématiques variées (mobilité, garde d'enfant, numérique, etc).
 
-### **Les objectifs de data·inclusion :**
+### **Les objectifs de data·inclusion**
 
-* Un accompagnateur ou un usager doit accéder facilement à l’ensemble de l'offre connue sur un territoire, quel que soit l’outil en ligne utilisé qui variera nécessairement selon le contexte et ses besoins
+* Un professionnel de l'insertion ou un usager doit accéder facilement à l’ensemble de l'offre sur son territoire, quel que soit l’outil numérique utilisé
 * Une structure ne doit pas saisir ou partager plus d'une fois ses données - c’est la condition pour qu’elle joue le jeu du patrimoine commun et accepte de mettre à jour les données clés qui la concerne.
 
-### **Qui est concerné par data·inclusion ?**
+### **Qui sont les utilisateurs de data·inclusion ?**
 
-D’une part les producteurs de données. Représentent l'ensemble des sites dédiés au recensement et à la mise à jour de l'offre d'insertion. Site local porté par un département, outil national porté par une administration, producteurs de catalogues (Action logement, AFPA..)
+D’une part les **producteurs de données** représentant l'ensemble des sites dédiés à la saisie de l'offre d'insertion : site local porté par un département, outil national porté par une administration, producteurs de catalogues (Action logement, AFPA, etc).
 
-D'autre part les consommateurs de données. Toute personne qui souhaite accéder à l'ensemble des données afin de les afficher sur un service numérique ou dans un logiel interne. Des acteurs publics qui souhaitent analyser les données, des têtes de réseaux qui veulent accéder à l'offre des membres de leur organisation, des personnes en charge du développement de logiciels, de sites internet, de cartographies..
-
-Mais aussi, les offreurs de services, porteurs de solution qui ont désormais un point d’accès unique pour partager leur offre de services et gagner en visibilité auprès des différents publics qu’ils accompagnent.
-
-Et enfin, les accompagnateurs qui ont des trésors de ressources et bases de données sur les solutions à leur territoire. S’ils contribuent au patrimoine commun, la promesse est de pouvoir utiliser des outils à jour et de gagner du temps en mutualisant nos forces pour le travail fastidieux de collecte et mise à jour des données.
+D'autre part les **consommateurs de données**  qui accédent aux données data·inclusion que l'on distingue en deux catégories : 
+- "Mobilisation" : les données sont affichées dans des annuaires d'insertion, des outils de mobilisation ou de suivi de parcours à destination des professionnels de l'insertion ou directement des usagers ;
+- "Pilotage" : les données sont utilisées à des fins d'analyse budgétaire ou d'études sur les territoires.
 
 ## Comment contribuer au patrimoine commun ?
 
 ### Mettre vos données à disposition sur data·inclusion
-
-Les modalités de mise à disposition de vos données pour intégration dans data·inclusion peuvent être très différentes selon l'outil que vous utilisez et la structure de vos données.
-
-Nous vous recommandons de nous contacter par email : [data-inclusion@inclusion.gouv.fr](mailto:data-inclusion@inclusion.gouv.fr).
+Les modalités diffèrent selon vos compétences techniques et le volume de données à intégrer. Rendez-vous sur [notre page dédiée](https://data.inclusion.gouv.fr/partager-vos-donnees/).
 
 ### Consommer et réutiliser les données de data·inclusion
-
-Les données de data·inclusion sont mises à disposition en [téléchargement libre](https://www.data.gouv.fr/fr/datasets/6233723c2c1e4a54af2f6b2d/) selon les principes de l'Open Data pour intégration dans votre outil (formats de données Excel, CSV et JSON). Nous mettons également à disposition [une API](https://data.inclusion.gouv.fr/acceder-aux-donnees/) pour la récupération de données en temps réel, à intégrer par vos équipes informatiques ou un prestataire.\
-N'hésitez pas à nous contacter pour que nous discutions de votre cas d'usage des données data·inclusion :  [data-inclusion@inclusion.gouv.fr](mailto:data-inclusion@inclusion.gouv.fr)
+Deux choix s'offrent à vous : consommer via notre API ou télécharger nos fichiers de données en accès ouvert. Suivez les étapes sur [notre page dédiée](https://data.inclusion.gouv.fr/acceder-aux-donnees/).
