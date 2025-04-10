@@ -5,7 +5,7 @@ role: Lead-technique
 github: antoinebigard
 missions:
   - start: 2018-09-17
-    end: 2027-04-27
+    end: 2025-03-09
     status: independent
     employer: ut7
     startups:
@@ -19,6 +19,14 @@ missions:
       - pilotagevoiepro
       - sirius
       - tdb-apprentissage
+  - start: 2025-03-10
+    end: 2025-07-09
+    status: independent
+    employer: ut7
+    startups:
+      - lex-base
+      - portail-greffe-gestion-des-audiences
+      - portail-greffe-gestion-des-dossiers
 previously:
   - pop
 competences:

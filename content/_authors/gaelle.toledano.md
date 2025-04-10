@@ -17,4 +17,4 @@ missions:
 competences: []
 link: https://www.linkedin.com/in/ga%C3%ABlle-tld/
 ---
-Chargée de portefeuille pour le Guichet territorial pour la Transition écologique au sein de l'Incubateur des Territoires (ANCT)
+Chargée de portefeuille 

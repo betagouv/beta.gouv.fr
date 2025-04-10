@@ -1,5 +1,5 @@
 ---
-mission: Piloter et de gérer efficacement les délais et la bonne continuité des rendez-vous des bénéficiaires du RSA
+mission: Piloter et gérer efficacement les délais et la bonne continuité des rendez-vous des bénéficiaires du RSA
 sponsors:
   - /organisations/francetravail
   - /organisations/mtei
@@ -66,4 +66,4 @@ rdv-insertion aura réussi sa mission si :
 
 Retrouvez notre page statistiques [ici](https://www.rdv-insertion.fr/stats).
 
-Notre **[carte de suivi](https://betagouv.github.io/stats-data-insertion/)** permet de suivre l'avancée de **nos travaux** dans chaque département, et de connaître le degré de maturité du conseil départemental dans l’intégration et l’exploitation des flux de données existants.
+Notre **[carte de suivi](https://www.rdv-insertion.fr/stats/deployment_map)** permet de suivre l'avancée de **nos travaux** dans chaque département, et de connaître le degré de maturité du conseil départemental dans l’intégration et l’exploitation des flux de données existants.

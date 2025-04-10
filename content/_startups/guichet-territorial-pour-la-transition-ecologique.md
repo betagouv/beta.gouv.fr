@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: contactincubateur@anct.gouv.fr
+contact: numerique.responsable@anct.gouv.fr
 link: https://incubateur.anct.gouv.fr/offre/guichet-cohesion-territoires-FINDPE
 thematiques:
   - Écologie
@@ -44,9 +44,9 @@ Elle insiste sur un point structurant : **la réussite de cette stratégie dépe
 
 Dans ce cadre, l’État a créé un Fonds d’investissement “Numérique et données pour la planification écologique” (FINDPE). **L’ANCT, en partenariat avec la DINUM et le SGPE, s’est vue confier la mission de mettre en œuvre un guichet d'accompagnement spécifiquement dédié aux collectivités territoriales**.
 
-Objectif : transformer des solutions prometteuses en communs numériques publics, utiles à tous les territoires.
+Objectif : transformer des solutions locales impactantes, en leur permettant d’être déployées sur tout le territoire.
 
-> *« L’ANCT se voit confier la mise en œuvre du Guichet Territorial pour la transition écologique, destiné à dentifier, soutenir et accompagner le passage à l’échelle de services numériques à impact écologique, portés localement par des collectivités territoriales ou leurs opérateurs. »* (extrait de la convention FINDPE 2024, liant l'ANCT, la DINUM et le SGPE)
+> *« L’ANCT se voit confier la mise en œuvre du Guichet Territorial pour la transition écologique, destiné à identifier, soutenir et accompagner le passage à l’échelle de services numériques à impact écologique, portés localement par des collectivités territoriales ou leurs opérateurs. »* (extrait de la convention FINDPE 2024, liant l'ANCT, la DINUM et le SGPE)
 
 
 ## Problème
@@ -55,7 +55,7 @@ De nombreuses collectivités développent des outils numériques utiles à la tr
 
 Mais **ces initiatives, bien que prometteuses, restent souvent locales et isolées**. Il manque **un cadre transverse pour les identifier, les renforcer, les mettre en cohérence et les faire essaimer**. 
 
-Les obstacles sont multiples : manque de ressources humaines ou financières, difficulté à structurer un passage à l’open source ou à la mutualisation, manque de relais techniques ou institutionnels pour accompagner les porteurs, invisibilité nationale malgré une preuve d’impact locale.
+Les obstacles sont multiples : manque de ressources humaines ou financières, difficulté à structurer un passage à l’open source ou à la mutualisation, manque de relais techniques ou institutionnels pour accompagner les porteurs, invisibilité nationale malgré une preuve d’impact locale, manque de ressources pour maintenir et pérenniser les services développés
 
 
 ## Solution
@@ -65,7 +65,7 @@ Le Guichet territorial pour la transition écologique vise à **identifier, fina
 Ce guichet vise notamment à :
 * **repérer des solutions numériques locales utiles à la transition écologique**
 * **accompagner leur structuration**, leur essaimage et leur passage à l'échelle
-* les inscrire dans une logique de **communs numériques ouverts**
+* les inscrire dans une logique **d'outils numériques numériques ouverts et partagés**
 
 Ces projets peuvent être portés par des collectivités territoriales ou des OPSN, et concerner : 
 * des collectivités territoriales, EPCI, régions, départements…
@@ -79,20 +79,21 @@ Ces projets peuvent être portés par des collectivités territoriales ou des OP
 
 ###### **1. Candidature et sélection**
 
-- Dépôt d'un dossier via un appel à manifestation d'intérêt sur Démarches simplifiées
+- Dépôt d'un dossier via un appel à manifestation d'intérêt sur [Démarches simplifiées](https://www.demarches-simplifiees.fr/commencer/appel-a-manifestation-d-interet-guichet-territoria)
 - Analyse selon 4 critères : impact écologique, passage à l’échelle, open source, portage local.
 * Jury de sélection des projets sélectionnés (ANCT, DINUM, SGPE, experts)
 * Les projets sélectionnés entrent en phase d’investigation.
 
 
 ###### 2. Investigation  (jusqu’à 8 semaines) 
-* Coaching produit pour clarifier la proposition de valeur, analyser les cas d'usages et freins à l’essaimage
-* Préparation à l’entrée en accélération (ou non)
+* Coaching produit pour clarifier la proposition de valeur, analyser les cas d'usages et freins à l’essaimage, selon la méthode Beta.gouv
+* Préparation à l’entrée en accélération (ou non), selon les conclusions de l’investigation
 
 
-###### 3. Accélération
+###### 3. Accélération (durée à déterminer)
 - Mise en place d’une équipe produit dédiée au passage à l'échelle du service
 - Amélioration, déploiement, ouverture du service (selon les besoins)
+- Reconduction des moyens d’accompagnement tous les 6 mois, sous réserve de la preuve d'impact 
 - Préparation de la phase de transfert / atterrissage du service
 
 
@@ -105,13 +106,13 @@ Ces projets peuvent être portés par des collectivités territoriales ou des OP
 #### Objectifs à 6 mois
 
 
-**Usage :** accompagner 2 à 5 produits dans leur passage à l’échelle
+**Usage :** accompagner un portefeuille de produits dans leur passage à l’échelle
 
 **Impact :** chaque produit devra : 
 
 - définir des **indicateurs d’impact au service de la transition écologique**
 - publier ou consolider son code en **open source**
-- démontrer sa **réutilisabilité par d’autres territoires**.
+- **amorcer son déploiement au national **pour être utilisé par d'autres territoires
 
 
 ---

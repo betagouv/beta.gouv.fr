@@ -1,6 +1,6 @@
 ---
 fullname: Noellie Pilandon
-role: 'Cheffe de produits '
+role: Cheffe de produits
 domaine: Produit
 competences:
   - Product strategy
@@ -9,4 +9,6 @@ missions:
     end: 2027-11-30
     status: admin
     employer: ALLiaNCE
+    startups:
+      - albert-france-service
 ---
