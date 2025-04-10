@@ -240,8 +240,8 @@ La récurrence de ces erreurs au sein de l'incubateur nous invite à prioriser d
 <div class="fr-callout fr-icon-draft-line fr-callout--blue-ecume">
   <h4 class="fr-callout__title">Nos apprentissages</h4>
   <ul>
-  	<li><b>Tous les services ont au moins un problème bloquant.</b> Certains sites peuvent en cumuler plus d’une vingtaine.</li>
-  	<li><b>Certains problèmes sont présents sur plus de la moitié de notre échantillon</b> : liens d'évitement, alternatives textuelles ou système de navigation manquants.</li>
+  	<li><strong>Tous les services ont au moins un problème bloquant.</strong> Certains sites peuvent en cumuler plus d’une vingtaine.</li>
+  	<li><strong>Certains problèmes sont présents sur plus de la moitié de notre échantillon</strong> : liens d'évitement, alternatives textuelles ou système de navigation manquants.</li>
   </ul>
 </div>
 
