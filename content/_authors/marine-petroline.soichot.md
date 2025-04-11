@@ -10,4 +10,6 @@ missions:
     status: independent
     employer: Numa
 github: MarinePetroline
+teams:
+  - /teams/communaute-dinum
 ---
