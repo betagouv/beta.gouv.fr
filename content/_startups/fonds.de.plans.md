@@ -22,7 +22,7 @@ techno:
 events:
   - name: committee
     date: 2025-01-17
-link: ''
+link: https://fab-geocommuns.github.io/carte-facile-site/
 ---
 ## Contexte
 
