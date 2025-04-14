@@ -55,17 +55,17 @@ De nombreuses collectivités développent des outils numériques utiles à la tr
 
 Mais **ces initiatives, bien que prometteuses, restent souvent locales et isolées**. Il manque **un cadre transverse pour les identifier, les renforcer, les mettre en cohérence et les faire essaimer**. 
 
-Les obstacles sont multiples : manque de ressources humaines ou financières, difficulté à structurer un passage à l’open source ou à la mutualisation, manque de relais techniques ou institutionnels pour accompagner les porteurs, invisibilité nationale malgré une preuve d’impact locale, manque de ressources pour maintenir et pérenniser les services développés
+Les obstacles sont multiples : manque de ressources humaines ou financières, difficulté à structurer un passage à l’open source ou à la mutualisation, manque de relais techniques ou institutionnels pour accompagner les porteurs, invisibilité nationale malgré une preuve d’impact locale, manque de ressources pour maintenir et pérenniser les services développés.
 
 
 ## Solution
 
-Le Guichet territorial pour la transition écologique vise à **identifier, financer et accompagner des solutions numériques locales à fort impact écologique**, pour leur permettre de changer d’échelle, de s’ouvrir, et d’être réutilisées par d’autres territoires.
+Le Guichet territorial pour la Transition écologique vise à **identifier, financer et accompagner des solutions numériques locales à fort impact écologique**, pour leur permettre de changer d’échelle, de s’ouvrir, et d’être réutilisées par d’autres territoires.
 
 Ce guichet vise notamment à :
-* **repérer des solutions numériques locales utiles à la transition écologique**
+* repérer des **solutions numériques locales utiles à la transition écologique**
 * **accompagner leur structuration**, leur essaimage et leur passage à l'échelle
-* les inscrire dans une logique **d'outils numériques numériques ouverts et partagés**
+* les inscrire dans une logique **d'outils numériques ouverts et partagés**
 
 Ces projets peuvent être portés par des collectivités territoriales ou des OPSN, et concerner : 
 * des collectivités territoriales, EPCI, régions, départements…
@@ -80,39 +80,39 @@ Ces projets peuvent être portés par des collectivités territoriales ou des OP
 ###### **1. Candidature et sélection**
 
 - Dépôt d'un dossier via un appel à manifestation d'intérêt sur [Démarches simplifiées](https://www.demarches-simplifiees.fr/commencer/appel-a-manifestation-d-interet-guichet-territoria)
-- Analyse selon 4 critères : impact écologique, passage à l’échelle, open source, portage local.
+- Analyse selon 4 critères : impact écologique, passage à l’échelle, open source, portage local
 * Jury de sélection des projets sélectionnés (ANCT, DINUM, SGPE, experts)
 * Les projets sélectionnés entrent en phase d’investigation.
 
 
 ###### 2. Investigation  (jusqu’à 8 semaines) 
 * Coaching produit pour clarifier la proposition de valeur, analyser les cas d'usages et freins à l’essaimage, selon la méthode Beta.gouv
-* Préparation à l’entrée en accélération (ou non), selon les conclusions de l’investigation
+* Préparation à l’entrée en accélération (ou non), selon les conclusions de l’investigation.
 
 
 ###### 3. Accélération (durée à déterminer)
-- Mise en place d’une équipe produit dédiée au passage à l'échelle du service
+- Mise en place d’une équipe produit dédiée au passage à l'échelle du service ;
 - Amélioration, déploiement, ouverture du service (selon les besoins)
-- Reconduction des moyens d’accompagnement tous les 6 mois, sous réserve de la preuve d'impact 
-- Préparation de la phase de transfert / atterrissage du service
+- Reconduction des moyens d’accompagnement tous les 6 mois, sous réserve de la preuve d'impact
+- Préparation de la phase de transfert / atterrissage du service.
 
 
 ###### 4. Transfert / Atterrissage
 - Passage à une structure pérenne (collectivité, opérateur public, commun...)
-- Suivi des mesures d'impact et amélioration continue
+- Suivi des mesures d'impact et amélioration continue.
 
 ---
 
 #### Objectifs à 6 mois
 
 
-**Usage :** accompagner un portefeuille de produits dans leur passage à l’échelle
+**Usage :** accompagner un portefeuille de produits dans leur passage à l’échelle.
 
 **Impact :** chaque produit devra : 
 
 - définir des **indicateurs d’impact au service de la transition écologique**
 - publier ou consolider son code en **open source**
-- **amorcer son déploiement au national** pour être utilisé par d'autres territoires
+- **amorcer son déploiement au national** pour être utilisé par d'autres territoires.
 
 
 ---

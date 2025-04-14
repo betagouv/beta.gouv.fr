@@ -18,4 +18,4 @@ missions:
       - france-numerique-ensemble
 competences: []
 ---
-Développeur fullstack
+Développeur pragmatique

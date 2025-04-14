@@ -13,11 +13,18 @@ missions:
     employer: Brigade d'intervention numérique
     startups:
       - demarches-simplifiees.fr
+      - docs
+      - droit-data-gouv-fr-simulateurs-de-droits
       - grist.numerique.gouv.fr
+      - messagerie
       - moncomptepro
       - notifications-v2
       - pass-sport
       - proconnect
+      - rdv-service-public
+      - sites-faciles
       - suite-numerique
       - tchap
+      - visio
+github: cyberbaloo
 ---

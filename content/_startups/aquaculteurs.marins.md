@@ -32,7 +32,7 @@ dashlord_url: https://dashlord.mte.incubateur.net/startup/aquaculteurs.marins
 ---
 ## Contexte
 
-En 2021, la production aquacole française s’élève à 194 000 tonnes en ventes finales⁠ et représente 811M€ de CA plaçant la France comme leader européen (UE) pour sa production d'huîtres, d'algues et de salmonidés. Fort de cet ancrage, le Secrétariat d’État chargé de la mer et le Ministère de l'Agriculture et de la Souveraineté Alimentaire portent l'ambition commune de développer durablement ces filières aquacoles. Pour ce faire, l'administration a identifié deux leviers d'action principaux : simplifier les procédures administratives et simplifier l'installation/l'accès aux parcelles du domaine public maritime (DPM). Ce portage politique interministériel a été matérialisé dans le Plan Aquacultures d'Avenir.
+En 2021, la production aquacole française s’élève à 194 000 tonnes en ventes finales⁠ et représente 811M€ de CA plaçant la France comme leader européen (UE) pour sa production d'huîtres, d'algues et de salmonidés. Fort de cet ancrage, le Ministère de la transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche, et le Ministère de l'Agriculture et de la Souveraineté Alimentaire portent l'ambition commune de développer durablement ces filières aquacoles. Pour ce faire, l'administration a identifié deux leviers d'action principaux : simplifier les procédures administratives et simplifier l'installation/l'accès aux parcelles du domaine public maritime (DPM). Ce portage politique interministériel a été matérialisé dans le Plan Aquacultures d'Avenir.
 
 ## Problème
 
@@ -42,15 +42,15 @@ Les producteurs et productrices aquacoles sont confrontés à de multiples décl
 * une mauvaise saisie des données,
 * une vue parcellaire et biaisée de l’état de la filière.
 
-Le domaine public maritime étant soumis à de nombreux usages, l'accès aux concessions et l'installation de nouveaux aquaculteur.rice.s demeurent difficiles freinant ainsi le développement de ces filières.
+Le domaine public maritime étant soumis à de nombreux usages, l'accès aux concessions et l'installation de nouveaux aquaculteurs et aquacultrices demeurent difficiles freinant ainsi le développement de ces filières.
 
 ## Solution
 
-Grâce au portail des Aquapreneur.e.s, chaque entreprise exploitant sur le domaine publique maritime (DPM) pourra effectuer toutes ses démarches administratives aquacoles sur un outil unique (ex: Déclaration de données, gestion des concessions, etc.).
+Grâce à Aquapreneur, chaque entreprise exploitant sur le domaine publique maritime (DPM) pourra effectuer toutes ses démarches administratives aquacoles sur un outil unique (ex: Déclaration de données, gestion des concessions, etc.).
 
 ## Bénéficiaires
 
-* Entreprises aquacoles marines (usagers),
+* Entreprises aquacoles, notamment marines (usagers),
 * Services de l'administration, 
 * Établissements ayant des missions de service publics,
 * Structures professionnelles et interprofession (données agrégées plus précises).
@@ -74,7 +74,11 @@ Cet outil embarquera plusieurs composantes, à savoir :
 * un service cartographique de l'état des concessions de cultures marines;
 * un onglet actualités.
 
+Après la prise en compte des tests utilisateurs réalisés en 2024, Aquapreneur vise à simplifier leurs déclarations en réduisant la charge administrative des producteurs aquacoles au minimum en réutilisant les données existantes dans d'autres systèmes d'information.
+
 ## Prochains jalons
 
 * tests usagers début février 2024;
 * présentation des apprentissages en mars 2024.
+* tests usagers septembre 2025
+* tests usagers avril 2025

@@ -5,7 +5,7 @@ domaine: Développement
 github: Guitguitou
 missions:
   - start: 2022-03-07
-    end: 2025-04-03
+    end: 2025-09-30
     status: service
     employer: Captive
     startups:

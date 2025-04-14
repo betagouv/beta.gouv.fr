@@ -5,7 +5,7 @@ role: Développement
 github: Louifine
 missions:
   - start: 2024-04-15
-    end: 2025-03-31
+    end: 2025-10-14
     status: independent
     employer: LittleBigConnection
     startups:
