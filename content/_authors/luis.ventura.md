@@ -6,13 +6,13 @@ link: https://www.luisventura.me
 github: Lawiss
 missions:
   - start: 2022-06-22
-    end: 2025-03-31
+    end: 2025-07-12
     status: independent
     employer: Malt
     startups:
       - trackdechets
   - start: 2024-05-13
-    end: 2025-04-27
+    end: 2025-07-12
     status: independent
     employer: Scopopop
     startups:
@@ -21,5 +21,7 @@ competences:
   - Data Science
   - Machine learning
   - Metabase
+  - Ingénierie des Données
+  - Visualisation de Données
 ---
 In pizza and data I trust!
