@@ -19,6 +19,9 @@ thematiques:
   - Administratif
   - Entreprises
   - Territoires
+fast:
+  promotion: 16
+  montant: 200000
 usertypes:
   - entreprise
   - collectivite-territoriale
