@@ -1,7 +1,7 @@
 ---
 fullname: Claire Laurenziani
 role: Chargée de déploiement et d’animation de communauté
-domaine: Animation
+domaine: Déploiement
 link: http://clcommunication.fr
 missions:
   - start: 2023-05-22
@@ -11,7 +11,7 @@ missions:
     startups:
       - themis
   - start: 2024-03-25
-    end: 2025-03-31
+    end: 2025-05-31
     status: independent
     employer: ANCT
     startups:

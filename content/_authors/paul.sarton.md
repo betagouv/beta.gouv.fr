@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: NUMA
   - start: 2024-12-02
-    end: 2025-04-16
+    end: 2025-06-29
     status: independent
     employer: NUMA
     startups:

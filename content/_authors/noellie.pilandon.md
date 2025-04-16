@@ -1,6 +1,6 @@
 ---
 fullname: Noellie Pilandon
-role: 'Cheffe de produits '
+role: Cheffe de produits
 domaine: Produit
 competences:
   - Product strategy
