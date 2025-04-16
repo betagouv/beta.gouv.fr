@@ -1,5 +1,5 @@
 ---
-mission: Résoudre les blocages administratifs complexes et/ou urgents
+mission: Résoudre les blocages administratifs complexes et/ou urgents des citoyens
 incubator: anct
 repository: https://github.com/betagouv/aplus
 contact: contact@aplus.beta.gouv.fr

@@ -1,5 +1,5 @@
 ---
-mission: Accélérer les rendez-vous des usagers en insertion et diminuer le taux d'absentéisme
+mission: Piloter et gérer efficacement les délais et la bonne continuité des rendez-vous des bénéficiaires du RSA
 sponsors:
   - /organisations/francetravail
   - /organisations/mtei
@@ -31,18 +31,25 @@ techno: []
 ---
 ## Le problème
 
-Les parcours d’insertion sont longs et peu suivis :
+En 2021, l'équipe rdv-insertion constate que les parcours d’insertion sont longs et peu suivis :
 
-- Fort taux d’absentéisme aux rendez-vous contractuels du parcours (ex : les rendez-vous RSA pilotés par les CD)
+- Fort taux d’absentéisme aux rendez-vous contractuels du parcours (ex : 50% en moyenne selon l'OARSA en 2019)
 - Délais trop longs (ex : délai moyen d’orientation des BRSA de 95 jours en 2019)
 - Risque de rupture de parcours post-signature CER élevé
 
+Depuis la promulgation de la Loi Plein Emploi en 2023, des enjeux complémentaires apparaissent : 
+- Nécessité de partage de données via API entre les conseils départementaux et France Travail
+- Gestion de flux entrants et sortants de BRSA entre les conseils départementaux et les agences France Travail
+
 ## Notre service
 
-Remplacer la convocation par courrier aux rendez-vous d’insertion par une invitation (mail et SMS) à prendre rendez-vous. L’usager peut alors choisir le créneau qui lui convient le mieux.
+Mis à disposition des conseils départementaux en charge du versement de l'allocation RSA et de l'accompagnement des bénéficiaires, le service permet :
 
-Permettre aux agents de gérer une liste d’invitations, sur plusieurs motifs de RDV (ex : orientation, accompagnement, action spécifique d’insertion, suivi en IAE) et pour plusieurs types d’organisations (ex : CD, MDS, PLIE, Mission locale, associations, SIAE)
-.
+1. D'importer un flux de bénéficiaires du RSA (émis par la CAF) afin de les inviter (par mail/sms/courrier) à choisir le plus rapidement possible un créneau de rendez-vous, quel que soit le motif : orientation, signature du contrat d'engagement, accompagnement, action spécifique d’insertion, suivi en IAE, suspension etc...
+2. De s'assurer de la prise des rendez-vous ainsi que de la bonne tenue des ces derniers (rappels SMS) grâce à une interface de suivi et de pilotage où les rendez-vous sont classés en listes selon leur motif et pourvus d'un statut mis à jour automatiquement.
+3. De communiquer, dès la fin de l'entretien d'orientation, la date et l'heure du prochain rendez-vous au bénéficiaire du RSA grâce à une vue instantanée sur les créneaux disponibles à venir.
+3. De garantir la continuité des parcours d'accompagnement grâce à la prescription de rendez-vous entre partenaires du RPE (CD, délégataires, partenaires FT)
+4. De partager les données de rendez-vous produites par le service grâce à notre API, afin d'alimenter les dossiers usagers au sein des logiciels d'action sociale et de parcours ainsi que des outils France Travail.
 
 ## Nos usagers
 
@@ -51,7 +58,7 @@ Permettre aux agents de gérer une liste d’invitations, sur plusieurs motifs d
 
 ## Notre impact
 
-data.insertion aura réussi sa mission si :
+rdv-insertion aura réussi sa mission si :
 
 1. les délais avant l'orientation des BRSA (95 jours selon \[l'enquête OARSA 2019 (tableau A6)] de la DREES) et de l'orientation jusqu'à l'accompagnement ont été réduits (53 jours en moyenne entre l'orientation et la signature d'un contrat d'engagement réciproque (CER) selon la même enquête) ;
 2. un plus grand nombre de personnes en insertion sont accompagnées ;
@@ -59,4 +66,4 @@ data.insertion aura réussi sa mission si :
 
 Retrouvez notre page statistiques [ici](https://www.rdv-insertion.fr/stats).
 
-Notre **[carte de suivi](https://betagouv.github.io/stats-data-insertion/)** permet de suivre l'avancée de **nos travaux** dans chaque département, et de connaître le degré de maturité du conseil départemental dans l’intégration et l’exploitation des flux de données existants.
+Notre **[carte de suivi](https://www.rdv-insertion.fr/stats/deployment_map)** permet de suivre l'avancée de **nos travaux** dans chaque département, et de connaître le degré de maturité du conseil départemental dans l’intégration et l’exploitation des flux de données existants.
