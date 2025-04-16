@@ -1,6 +1,6 @@
 ---
 fullname: Magali Migeon
-role: Intrapreneuse AIGLE
+role: Intrapreneuse AIGLE et LUCCA
 domaine: Intraprenariat
 missions:
   - start: 2023-04-24
@@ -9,6 +9,7 @@ missions:
     employer: DDTM 34/DIR
     startups:
       - aigle
+      - lucca
 memberType: autre
 link: https://www.linkedin.com/in/magali-migeon-740265aa/
 competences:

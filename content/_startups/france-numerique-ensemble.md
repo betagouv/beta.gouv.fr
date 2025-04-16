@@ -7,10 +7,10 @@ incubator: anct
 redirect_from:
   - /startups/conseiller-numerique
 phases:
-  - name: construction
-    start: 2021-06-01
   - name: investigation
     start: 2024-02-05
+  - name: construction
+    start: 2024-12-10
 link: https://inclusion-numerique.anct.gouv.fr/
 repository: https://github.com/anct-cnum
 stats: false
@@ -18,6 +18,7 @@ contact: conseiller-numerique@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
   - particulier
+  - etat
 accessibility_status: partiellement conforme
 thematiques:
   - Inclusion numérique

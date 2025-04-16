@@ -1,6 +1,6 @@
 ---
 fullname: Eliott Dugois
-role: Guichet FTAP data
+role: Alliance
 domaine: Produit
 competences: []
 missions:

@@ -20,7 +20,7 @@ missions:
       - eva
       - homologation
   - start: 2023-06-15
-    end: 2025-02-28
+    end: 2025-05-31
     status: service
     employer: omnicite
     startups:
