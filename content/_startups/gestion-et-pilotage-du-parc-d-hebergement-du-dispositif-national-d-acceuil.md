@@ -1,7 +1,7 @@
 ---
-mission: 'Améliorer la mise à disposition de places d''hébergement aux demandeurs d''asile '
+mission: Faciliter le travail des agents publics en charge de la gestion du parc d’hébergement des demandeurs d’asile
 incubator: dinum
-title: 'Conventions d''hébergement asile simplifiées '
+title: Place d'Asile
 contact: thibault.desjardins@beta.gouv.fr
 thematiques:
   - Administratif
@@ -14,7 +14,7 @@ phases:
   - name: investigation
     start: 2024-05-14
   - name: construction
-    start: 2024-12-10
+    start: 2025-01-15
 mon_service_securise: false
 techno: []
 events:

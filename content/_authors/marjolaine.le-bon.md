@@ -11,7 +11,7 @@ missions:
     startups:
       - apilos
   - start: 2024-04-01
-    end: 2025-04-30
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:

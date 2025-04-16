@@ -16,8 +16,6 @@ phases:
     start: 2021-09-01
   - name: construction
     start: 2022-02-01
-  - name: transfer
-    start: 2023-02-01
   - name: acceleration
     start: 2023-05-01
 mon_service_securise: true
@@ -29,6 +27,7 @@ usertypes:
   - collectivite-territoriale
 techno:
   - next.js
+budget_url: https://lesbases.anct.gouv.fr/budget
 ---
 ## Contexte
 

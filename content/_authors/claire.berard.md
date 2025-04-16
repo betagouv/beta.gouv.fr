@@ -14,13 +14,16 @@ missions:
     startups:
       - juri-gpt
   - start: 2025-01-14
-    end: 2027-12-31
-    status: independent
+    end: 2025-10-09
+    status: admin
+    employer: MI / Fabrique numérique DTNUM
 memberType: autre
 link: https://www.linkedin.com/in/claire-berard/
 competences:
   - Communication
   - Coaching
   - Administration Publique
+teams:
+  - /teams/lab-mi
 ---
-Chargée de mission coaching agile et communication innovation - Facilitatrice d'ateliers d'intelligence collective
+Chargée de mission coaching agile et communication innovation et facilitatrice d'ateliers de design thinking à la DTNUM - MI

@@ -29,6 +29,7 @@ thematiques:
 mon_service_securise: true
 usertypes:
   - collectivite-territoriale
+techno: []
 ---
 ## Pas d'adresse, pas de chocolat
 
@@ -50,7 +51,7 @@ La loi 3DS a consacré le rôle des communes dans l'adressage de leur territoire
 
 
 
-Aujourd'hui, **plus de 19 000 communes** ont déjà publié leur Base Adresse Locale, plus de 67% de la population est couverte. Votre commune est-elle couverte ?
+Aujourd'hui, **plus de 24 500 communes** ont déjà publié leur Base Adresse Locale, plus de 79% de la population est couverte. Votre commune est-elle couverte ?
 
 📍 Pour [suivre le déploiement des Bases Adresses Locales](https://adresse.data.gouv.fr/deploiement-bal) en France
 

@@ -641,3 +641,9 @@ iframe.graph.h300 {
 iframe.graph.h800 {
   height: 800px;
 }
+
+/* Introduit dans une nouvelle version du DSFR */
+.fr-content-media + .fr-transcription {
+  margin-bottom: 2.5rem;
+  margin-top: -1rem;
+}

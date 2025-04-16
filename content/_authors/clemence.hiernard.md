@@ -11,7 +11,7 @@ missions:
     startups:
       - territoires-en-transitions
   - start: 2022-11-07
-    end: 2025-04-30
+    end: 2025-05-31
     status: independent
     startups:
       - ma-cantine-egalim
