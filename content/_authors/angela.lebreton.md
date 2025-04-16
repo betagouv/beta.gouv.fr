@@ -10,7 +10,7 @@ missions:
     startups:
       - jeveuxaider
   - start: 2024-02-01
-    end: 2025-09-09
+    end: 2025-09-26
     status: independent
     employer: Omnicité
     startups:

@@ -28,9 +28,10 @@ competences:
   - Helm
   - Airbyte
   - Kestra
+  - Architecture hexagonale
 missions:
   - start: 2024-09-23
-    end: 2025-04-30
+    end: 2025-10-01
     status: service
     employer: Little Big Connection
     startups:

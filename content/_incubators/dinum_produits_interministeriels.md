@@ -5,7 +5,7 @@ owner: /organisations/dinum
 website: https://numerique.gouv.fr/
 logo: logo_dinum.png
 github: https://github.com/betagouv/
-contact: https://www.numerique.gouv.fr/contact/
+contact: secretariat.opi@numerique.gouv.fr
 address: 20 avenue de Ségur, Paris 7e
 redirect_from:
   - /incubateurs/api_dinsic
