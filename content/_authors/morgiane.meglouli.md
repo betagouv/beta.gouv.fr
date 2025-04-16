@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/morgianemeglouli/
 competences: []
 missions:
   - start: 2024-12-16
-    end: 2025-04-30
+    end: 2025-05-30
     status: independent
     employer: Numa
     startups:
