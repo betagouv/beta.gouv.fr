@@ -18,13 +18,13 @@ competences:
   - UI
 missions:
   - start: 2024-09-17
-    end: 2025-03-31
+    end: 2025-09-30
     status: independent
     employer: Mtes
     startups:
       - otelo
   - start: 2024-11-25
-    end: 2025-03-31
+    end: 2025-09-30
     status: independent
     employer: LBC
     startups:

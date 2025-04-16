@@ -20,7 +20,7 @@ missions:
     startups:
       - reva
   - start: 2024-12-16
-    end: 2025-05-16
+    end: 2025-10-16
     status: independent
 previously:
   - exposition-ij

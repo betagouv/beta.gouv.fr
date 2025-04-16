@@ -34,7 +34,7 @@ missions:
     status: independent
     employer: Malt
   - start: 2025-02-11
-    end: 2025-06-30
+    end: 2025-08-30
     status: independent
     employer: Dynergie
     startups:
