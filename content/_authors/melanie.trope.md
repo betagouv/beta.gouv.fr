@@ -11,4 +11,5 @@ missions:
 memberType: autre
 teams:
   - /teams/accelerema-animation
+competences: []
 ---

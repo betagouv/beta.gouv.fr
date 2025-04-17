@@ -16,7 +16,7 @@ missions:
     startups:
       - 1-jeune-1-arbre
   - start: 2024-11-12
-    end: 2025-04-30
+    end: 2025-07-01
     status: service
     employer: NUMA
     startups:

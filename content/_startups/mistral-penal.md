@@ -7,7 +7,7 @@ sponsors:
   - /organisations/sous-direction-de-l-organisation-judiciaire-et-de-l-innovation-oji-4-direction-des-services-judiciaires
 incubator: justice
 contact: maxime.gammaire@justice.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 redirect_from:
   - /startups/T2BJustice
 events:
@@ -49,6 +49,7 @@ techno:
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 link: https://mistralpenal.beta.gouv.fr/
 stats_url: https://mistralpenal.beta.gouv.fr/nos-statistiques/les-statistiques-dusage/
+repository: https://github.com/betagouv/Mistral-penal
 ---
 ## **Contexte**
 

@@ -12,6 +12,12 @@ missions:
     employer: Scopyleft
     startups:
       - sndv_maritime
+  - start: 2025-04-16
+    end: 2025-07-16
+    status: independent
+    employer: Malt
+    startups:
+      - envirogend
 previously:
   - e-controle
   - aides-territoires
