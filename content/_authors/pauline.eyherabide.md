@@ -11,7 +11,7 @@ missions:
     startups:
       - france-numerique-ensemble
   - start: 2021-10-28
-    end: 2025-04-30
+    end: 2025-07-31
     status: independent
     employer: Scopyleft
     startups:
