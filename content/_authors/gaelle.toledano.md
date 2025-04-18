@@ -1,6 +1,6 @@
 ---
 fullname: Gaëlle Toledano
-role: Chargée de portefeuille
+role: Chargée de portefeuille Guichet territorial Transition écologique
 domaine: Produit
 missions:
   - start: 2019-05-02

@@ -1,5 +1,5 @@
 ---
-title: Métiers du Numérique
+title: 'Métiers du Numérique '
 mission: Promouvoir les emplois numériques de l'État pour y attirer les meilleurs talents
 sponsors:
   - /organisations/dinum

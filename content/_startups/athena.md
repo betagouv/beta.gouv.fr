@@ -1,5 +1,5 @@
 ---
-title: Athéna
+title: ATHENA
 mission: Logiciel de planification et de gestion de crise
 sponsors:
   - /organisations/sgdsn
