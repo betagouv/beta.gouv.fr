@@ -18,6 +18,6 @@ competences:
   - Développement Frontend
   - Développement Backend
 memberType: beta
-fullname: Florent FAYOLLE
+fullname: Florent Fayolle
 role: Développeur
 ---

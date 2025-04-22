@@ -29,6 +29,8 @@ phases:
     end: 2021-03-08
   - name: acceleration
     start: 2021-11-01
+  - name: transfer
+    start: 2025-05-01
 accessibility_status: non conforme
 fast:
   promotion: 14

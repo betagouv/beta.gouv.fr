@@ -5,11 +5,17 @@ role: Développeur
 github: clementnumericite
 missions:
   - start: 2021-03-16
-    end: 2025-12-31
+    end: 2025-01-31
     status: independent
     employer: Octo
     startups:
       - pass.engagement.jeune
+  - start: 2025-04-03
+    end: 2025-06-30
+    status: service
+    employer: Scopyleft
+    startups:
+      - bambin
 previously:
   - aides.jeunes
 competences:
