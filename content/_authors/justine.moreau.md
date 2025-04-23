@@ -6,7 +6,11 @@ missions:
   - start: 2022-10-01
     end: 2025-09-30
     status: admin
+    employer: La plateforme de l'inclusion
     startups:
-      - carnet.de.bord
+      - les-emplois
+competences:
+  - UX
+  - UI
 ---
-UI/UX  designer , passionnée de sport 🏃🏻‍♀️ et de photographie 📸.
+UI/UX  designer 

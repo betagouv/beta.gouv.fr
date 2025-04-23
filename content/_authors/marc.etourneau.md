@@ -9,7 +9,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2024-08-05
-    end: 2025-05-05
+    end: 2025-08-05
     status: service
     employer: Ippon
     startups:

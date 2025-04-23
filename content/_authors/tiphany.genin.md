@@ -10,5 +10,6 @@ missions:
       - potentiel
 github: TiphanyG
 memberType: beta
+competences: []
 ---
-Chargée de mission en charge de l'éolien terrestre et Intrapreneuse Potentiel - Ministère chargé de l'énergie
+Cheffe de projet éolien terrestre et Intrapreneuse Potentiel - Ministère chargé de l'énergie

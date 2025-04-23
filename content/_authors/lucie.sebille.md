@@ -4,7 +4,7 @@ fullname: Lucie Sebille
 role: 'Product Designer '
 missions:
   - start: 2024-05-28
-    end: 2025-04-01
+    end: 2025-07-23
     status: independent
     employer: Malt
     startups:

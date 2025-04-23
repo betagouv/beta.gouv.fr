@@ -3,7 +3,7 @@ link: https://espacesurdemande.anct.gouv.fr/?mtm_campaign=annuaire-se-beta&mtm_s
 mission: Simplifier la réservation des salles et équipements publics
 incubator: anct
 title: Espace sur Demande
-contact: servicesnumeriques@anct.beta.gouv.fr
+contact: yasmina.hafidi@anct.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/anct
@@ -29,6 +29,7 @@ usertypes:
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/espacesurdemande-anct-gouv-fr/
 techno: []
 analyse_risques: true
+budget_url: https://incubateurdesterritoires.notion.site/Budget-2024-Espace-sur-demande-1dd744bf03dd809786a4c082e9afa885
 ---
 **Espace sur Demande : L'outil de réservation des salles et équipements publics**
 

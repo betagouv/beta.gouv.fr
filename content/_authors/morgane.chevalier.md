@@ -16,4 +16,6 @@ competences:
   - Design stratégique
   - Design graphique
 link: https://www.linkedin.com/in/morgane-chevalier-11b9b968/
+teams:
+  - /teams/dinum-produits-interministeriels-accompagnement-interministeriel-de-communs-numeriques
 ---
