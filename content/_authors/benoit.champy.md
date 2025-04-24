@@ -10,6 +10,7 @@ missions:
     status: admin
     employer: DINUM
     startups:
+      - cnr
       - data-dsn
       - facil-emploi-public
       - france.nation.verte.agir

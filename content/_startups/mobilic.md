@@ -39,7 +39,8 @@ events:
     date: 2024-09-28
     comment: Homologation sécurité
 mon_service_securise: true
-techno: []
+techno:
+  - java
 analyse_risques: true
 budget_url: https://pad.numerique.gouv.fr/s/WYougVwWu#Mobilic
 ---

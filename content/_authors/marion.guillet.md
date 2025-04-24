@@ -1,6 +1,6 @@
 ---
 fullname: Marion Guillet
-role: Product Owner
+role: Product Manager
 domaine: Produit
 github: guilletmarion
 missions:
@@ -13,4 +13,5 @@ missions:
 previously:
   - la-bonne-boite
 competences: []
+link: https://www.linkedin.com/in/marion-guillet-nantes/
 ---

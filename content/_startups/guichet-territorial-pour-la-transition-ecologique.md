@@ -74,8 +74,7 @@ Ces projets peuvent être portés par des collectivités territoriales ou des OP
 
 ---
 
-## Le parcours d'un projet accompagné 
-
+## Le parcours d'un projet accompagné
 
 ###### **1. Candidature et sélection**
 

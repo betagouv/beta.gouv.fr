@@ -2,7 +2,8 @@
 fullname: Philippe Martinez
 role: Dev
 domaine: Développement
-competences: []
+competences:
+  - Développement Full-stack
 missions:
   - start: 2025-04-09
     end: 2025-09-25
