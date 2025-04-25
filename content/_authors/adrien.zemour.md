@@ -29,6 +29,7 @@ badges:
 teams:
   - /teams/accelerema-responsable-de-portefeuille
   - /teams/ademe
+  - /teams/atelier_meae
   - /teams/dinum-incubateur
 competences: []
 ---

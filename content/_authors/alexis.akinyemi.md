@@ -13,6 +13,18 @@ missions:
       - exposition-ij
       - la-bonne-alternance
       - pilotage.de.linclusion
+  - start: 2025-04-23
+    end: 2025-10-01
+    status: independent
+    employer: Malt
+    startups:
+      - gps
+  - start: 2025-04-23
+    end: 2025-09-30
+    status: independent
+    employer: Malt
+    startups:
+      - gps
 previously:
   - eva
 competences: []

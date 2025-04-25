@@ -18,6 +18,11 @@ missions:
     status: admin
     startups:
       - l-immersion-facile
+  - start: 2024-11-01
+    end: 2025-09-30
+    status: admin
+    startups:
+      - gps
 badges:
   - segur
 competences: []

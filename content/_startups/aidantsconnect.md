@@ -17,13 +17,15 @@ stats: true
 stats_url: https://aidantsconnect.beta.gouv.fr/stats/
 contact: contactaidantsconnect@beta.gouv.fr
 usertypes:
-  - etat
-  - particulier
+  - association
+  - collectivite-territoriale
 dashlord_url: https://dashlord.incubateur.net/url/aidantsconnect-beta-gouv-fr/
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 thematiques:
   - Social
   - Inclusion numérique
+budget_url: https://aidantsconnect.beta.gouv.fr/budget/
+techno: []
 ---
 ## Contexte
 

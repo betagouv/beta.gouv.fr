@@ -10,6 +10,8 @@ contact: agentsenintervention@anct.beta.gouv.fr
 accessibility_status: partiellement conforme
 thematiques:
   - Collectivités
+  - Outil technique
+  - Territoires
 stats: true
 events:
   - name: product_launch
@@ -23,7 +25,10 @@ usertypes:
   - collectivite-territoriale
 analyse_risques: true
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/
-techno: []
+techno:
+  - typescript
+  - php
+  - symfony
 ---
 ## Contexte
 
@@ -49,11 +54,11 @@ Les petites collectivités sont souvent dépourvues d’outils numériques de ge
 
 ## Solution
 
-Agents en intervention est une solution numérique gratuite conçue avec et pour les collectivités, afin de **faciliter la coordination des interventions techniques** sur le terrain. 
+Agents en intervention est une solution numérique conçue avec et pour les collectivités, afin de **faciliter la coordination des interventions techniques** sur le terrain. 
 
 L’outil est disponible sur Mobile et Desktop.
 
-lI est utilisable pour les collectivités dont les **équipes techniques ne sont pas équipées de smartphones**, en partie ou totalité.
+lI est utilisable également pour les collectivités dont les **équipes techniques ne sont pas équipées de smartphones**, en partie ou totalité.
 
 
 
@@ -61,8 +66,9 @@ lI est utilisable pour les collectivités dont les **équipes techniques ne son
 
 * Créer et assigner tous types de demandes d’interventions sur un ou plusieurs agents. 
 * Faciliter le suivi de l’activité grâce à un statut d’intervention partagé en temps réel.
-* Visualiser les photos des interventions terminées.
+* Coordonner grâce à un planning proposant une vue complète et par agents
 * Garder un historique de toutes les interventions.
+* Recevoir des notifications liées aux statuts des interventions de terrain.
 * Reporter facilement des statistiques de service à son équipe ou ses Élus.
 
 
@@ -82,6 +88,4 @@ Agents en Intervention est inspiré de SILAB, une initiative locale développée
 
 L'outil a ensuite été conçu par l’Incubateur des Territoires de l'ANCT en coopération avec des dizaines d’équipes techniques pour qu'il puisse être mis à disposition de l’ensemble des collectivités gratuitement et sur simple demande.\
 \
-A﻿près une campagne de Beta Test fin 2023 conduite avec 15 collectivités, l'outil a été mise en service en expérimentation en janvier 2024. En Mai 2024, il regroupe environ 500 agents sur le territoire national et a permis de suivre et créer près de 1500 interventions sur l'espace public.
-
-L'objectif est de toucher au moins 150 agents publics pour leur faire gagner 50% de leur temps de planification et suivi des résolutions d'interventions.
+A﻿près une campagne de Beta Test fin 2023 conduite avec 15 collectivités, l'outil a été mise en service en expérimentation en janvier 2024. En Mai 2025, il regroupe 350 collectivités inscrites pour plus de 2500 agents connectés sur le territoire national et a permis de suivre et créer plus de 40 000 interventions sur l'espace public.

@@ -19,33 +19,49 @@ usertypes: []
 techno: []
 link: ''
 ---
-## Contexte
 
-Profilence est une **solution nationale, simple et collaborative** qui optimise la promotion des profils des demandeurs d'emploi pour améliorer leur insertion professionnelle en utilisant une pratique harmonisée.
+## Contexte 🔎
 
-## Problème
+**Profilence** est une solution nationale, simple et collaborative qui **optimise la promotion des profils des demandeurs d'emploi afin de favoriser leur insertion professionnelle.** Elle repose sur une pratique harmonisée à l’échelle du réseau France Travail, en réponse au besoin d’**accéder efficacement au marché caché de l’emploi**, qui représente environ **70 % des opportunités**.
 
-1 900 000 demandeurs d'emploi autorisent la promotion de leur profil, ce qui signifie que leur conseiller peut transmettre directement leur CV à une entreprise, sans diffusion d'une offre d'emploi. Cependant, seulement 45 000 profils ont été promus au moins une fois, soit à peine 2 % des profils autorisés, et seulement 0,8 % des demandeurs inscrits. C’est un chiffre faible, alors que la promotion de profil est une réponse aux opportunités du marché caché, qui représente 70 % du marché de l’emploi.
+## Problème 🚨
 
-Ce faible taux reflète un problème majeur : des outils fragmentés, complexes et mal adaptés. Actuellement, pour promouvoir un profil, les conseillers doivent utiliser trois logiciels différents qui ne communiquent pas entre eux. De plus, il est difficile de suivre, d’évaluer ou de mesurer l’impact des actions de promotion.
+Aujourd’hui, **1 900 000 demandeurs d’emploi** ont autorisé la promotion de leur profil, permettant à leur conseiller de transmettre leur CV à une entreprise sans qu’une offre ne soit publiée. Pourtant,** seulement 45 000 profils ont été promus au moins une fois,** soit **à peine 2 % des profils autorisés**, et **0,8 % de l’ensemble des inscrits**.
+❌ Ce décalage met en évidence plusieurs freins :
+* 🧩 **Outils fragmentés et complexes** : Trois logiciels à mobiliser, sans interconnexion.
+* 📉 **Manque de traçabilité et de mesure** : Impossible de suivre les promotions ou d’en évaluer l’impact.
+* 🗂️ P**ratiques locales non uniformisées** : Tableaux blancs, bacs à profils papier… utiles mais isolés.
 
-Pour surmonter ces obstacles, certaines agences développent des pratiques locales, comme l’utilisation d’un tableau blanc physique pour recenser les besoins des entreprises, mais cela reste limité et non partagé à l’échelle du réseau pour l’emploi.
 
-## Objectifs
+## Objectifs 🎯
 
- - Structurer et centraliser la démarche de promotion de profil
- - Réduire le temps de traitement pour les conseillers
- - Offrir un suivi plus efficace des profils envoyés aux employeurs
+* 🔄 **Structurer et centraliser la promotion de profil.**
+* ⏱️ **Réduire le temps de traitement pour les conseillers**.
+* 📊 **Améliorer le suivi des profils** transmis aux employeurs.
+* 🎯 Renforcer l’**efficacité de la mise en relation** avec les entreprises.
 
-# Premiers enseignements de la phase d’investigation
+## Enseignements de la phase d’investigation 🧠 
 
-La phase d’investigation, menée à travers notamment des entretiens utilisateurs avec les conseillers France Travail, a permis d’identifier plusieurs enjeux clés :
+Des entretiens menés avec des conseillers France Travail (CDDE et CDE) ont permis de faire émerger des constats clés :
 
- - Un manque de suivi structuré : Aucun outil ne permet actuellement de suivre efficacement les promotions de profils réalisées.
- - Un processus trop fragmenté : La nécessité de naviguer entre plusieurs logiciels et de réaliser jusqu’à 65 étapes ralentit la démarche et crée une charge importante.
-  - Un besoin de centralisation et d’automatisation : Les conseillers expriment le besoin d’un outil unique qui leur permettrait de gagner du temps, d’éviter les ressaisies inutiles et d’améliorer la mise en relation entre demandeurs et employeurs.
- - Un manque de retours sur l’impact des promotions : Aujourd’hui, il est difficile pour un conseiller de savoir si un profil promu a réellement généré un contact ou une embauche.
+* 🧱** Un processus trop long et dispersé** : Jusqu’à 65 étapes ! Des ressaisies, des pertes d’infos, une grande complexité.
+* 🧭 **Un besoin fort de centralisation** : Un outil unique est attendu pour gagner en fluidité et en efficacité.
+* 👀 **Un manque de suivi structuré** : Pas de visibilité sur les promotions faites, ni sur leur statut.
+* 🤷 **Peu de retours sur l’impact** : Difficile de savoir si une promotion aboutit à un contact ou une embauche.
+* 🛠️ **Des pratiques bricolées mais inspirantes** : Des systèmes D (tableaux, pochettes, bacs…) montrent l’envie d’agir… mais restent limités.
 
-Ces constats confirment la nécessité de développer une solution intuitive et efficace, qui simplifiera le travail des conseillers et optimisera la mise en relation entre demandeurs et employeurs.
+##  Protocole d'expérimentation envisagé 🚀
 
-## L’aventure ne fait que commencer… à suivre
+Profilence ambitionne de transformer la promotion de profil en une pratique :
+
+*  🧾**Simple **: Formulaire unique.
+* 📍 **Structurée **: Un tableau de bord clair pour suivre les actions.
+* 🤝 **Collaborative **: Processus partagé entre conseillers emploi et entreprise.
+* 🧪 **Expérimentale et agile** : Testée dans trois agences pilotes avec cette procédure simplifiée (Microsoft Forms + tableau partagé).
+
+
+## Conclusion
+
+Les enseignements de l’investigation confirment la pertinence de Profilence : un outil co-construit avec les conseillers, qui répond à leurs irritants quotidiens, tout en valorisant les profils des demandeurs d’emploi.
+
+### L’aventure ne fait que commencer… et elle s’écrit avec le terrain.

@@ -4,6 +4,7 @@ role: Intrapreneuse
 domaine: Intraprenariat
 competences:
   - Intrapreneur(se)
+  - Administration Publique
 missions:
   - start: 2023-02-06
     end: 2024-11-06
@@ -17,4 +18,5 @@ missions:
     employer: ANCT
     startups:
       - aidantsconnect
+link: https://www.linkedin.com/in/estelle-patat-02427013a/
 ---
