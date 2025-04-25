@@ -6,7 +6,7 @@ sponsors:
   - /organisations/mtei
   - /organisations/mtfp
 incubator: gip-inclusion
-contact: annaelle.garcia@beta.gouv.fr
+contact: annaelle.garcia@inclusion.gouv.fr
 accessibility_status: non conforme
 stats: true
 stats_url: https://mon-recap.inclusion.beta.gouv.fr/statistiques/
@@ -40,7 +40,7 @@ Parmi eux, 89% sont en situation de non-recours subi, de non-orientation ou de n
 
 Mettre à disposition des personnes en difficulté d’insertion socio-professionnelle un carnet de note, Mon Récap, qui leur permet de s'organiser dans leurs parcours et gagner en autonomie.
 
-**Si vous accompagnez des personnes susceptibles d'utiliser des carnets, [découvrez notre site](https://mon-recap.inclusion.beta.gouv.fr/) ou [commandez gratuitement des carnets](https://tally.so/r/mRMDWl?reseau=0&source=sitegipbeta)**
+**Si vous accompagnez des personnes susceptibles d'utiliser des carnets, [découvrez notre site](https://mon-recap.inclusion.beta.gouv.fr/) ou [commandez  des carnets](https://tally.so/r/mRMDWl?reseau=0&source=sitegipbeta)**
 
 
 

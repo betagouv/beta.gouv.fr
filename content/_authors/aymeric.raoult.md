@@ -23,7 +23,7 @@ missions:
       - acces-cible
       - medistock
   - start: 2024-12-02
-    end: 2025-04-30
+    end: 2025-09-30
     status: independent
     employer: Malt Octo
     startups:
