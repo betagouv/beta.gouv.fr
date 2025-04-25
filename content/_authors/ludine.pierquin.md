@@ -12,4 +12,5 @@ missions:
     startups:
       - droit-data-gouv-fr-simulateurs-de-droits
 github: enidul
+link: https://www.linkedin.com/in/ludine-pierquin-06969021b/
 ---

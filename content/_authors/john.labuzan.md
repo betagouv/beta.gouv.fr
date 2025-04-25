@@ -12,12 +12,24 @@ missions:
     employer: Numa
     startups:
       - signalement
+  - start: 2024-03-04
+    end: 2025-07-24
+    status: independent
+    employer: Malt
+    startups:
+      - services-web-anct
   - start: 2024-04-01
     end: 2025-05-10
     status: independent
     employer: Numa
     startups:
       - sante-psy-etudiant
+  - start: 2024-11-22
+    end: 2025-07-24
+    status: independent
+    employer: La zone
+    startups:
+      - portail-rse
 previously:
   - aides-territoires
   - jeveuxaider
@@ -28,10 +40,8 @@ previously:
 competences:
   - UX
   - Coaching
-  - Communication
   - Product strategy
   - Croissance
-  - Facilitation
   - SEO
   - SEM
   - Product design

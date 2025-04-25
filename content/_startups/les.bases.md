@@ -1,6 +1,6 @@
 ---
 link: https://lesbases.anct.gouv.fr/
-dashlord_url: https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/lesbases-anct-gouv-fr/
+dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/lesbases-anct-gouv-fr/
 mission: Faciliter le partage de ressources & de communs pour les acteurs de l'inclusion numérique
 repository: https://github.com/inclusion-numerique/la-base
 incubator: anct

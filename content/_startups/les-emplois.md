@@ -2,10 +2,11 @@
 title: Emplois de l'inclusion
 mission: Faciliter la mise en relation avec les employeurs solidaires
 sponsors:
+  - /organisations/dgefp
   - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
-contact: assistance@inclusion.beta.gouv.fr
+contact: emplois@inclusion.gouv.fr
 link: https://emplois.inclusion.beta.gouv.fr/
 repository: http://github.com/gip-inclusion/les-emplois
 rgpd:
@@ -74,9 +75,10 @@ thematiques:
   - Social
 analyse_risques: true
 mon_service_securise: true
-budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?tab=t.0
+budget_url: https://gip-inclusion.notion.site/Budget-des-Emplois-de-l-inclusion-page-publique-18b5f321b604801b9e20de9dd4f821c7?pvs=4
 stats_url: https://inclusion.beta.gouv.fr/presentation/impact-de-la-plateforme-de-linclusion/
-techno: []
+techno:
+  - django
 ---
 ## Une question ou un besoin d'aide dans l'utilisation du service ?
 Voici un lien direct vers l'assistance : [aide.emplois.inclusion.beta.gouv.fr](https://aide.emplois.inclusion.beta.gouv.fr/)
