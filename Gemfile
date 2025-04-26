@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-ruby '3.4.1'
+ruby file: '.ruby-version'
 
 gem 'base64'
 gem 'csv'

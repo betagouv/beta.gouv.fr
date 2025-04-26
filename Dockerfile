@@ -1,10 +1,10 @@
-FROM ruby:3.4.1-slim
+FROM ruby:3.4.3-slim
 
-RUN apt-get update && apt-get install -y --no-install-recommends nodejs npm build-essential
+RUN apt-get update && apt-get install -y --no-install-recommends nodejs npm build-essential libyaml-dev
 
 # minimise rebuilds by isolating Bundler and its files
 WORKDIR /bundler
-COPY Gemfile.lock Gemfile .
+COPY .ruby-version Gemfile.lock Gemfile .
 RUN bundle install
 
 # idem for NPM, except we have to be in the app folder because our
