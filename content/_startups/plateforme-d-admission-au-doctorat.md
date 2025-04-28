@@ -17,13 +17,11 @@ sponsors:
   - /organisations/mesr
 phases:
   - name: investigation
-    comment: null
     start: 2025-04-01
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2025-06-25
+link: ''
 ---
 ## Contexte
 

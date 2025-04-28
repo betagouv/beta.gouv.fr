@@ -1,13 +1,13 @@
 ---
-title: Emplois de l'inclusion
-mission: Faciliter la mise en relation avec les employeurs solidaires
+title: 'DORA '
+mission: chargée de déploiement DORA national
 sponsors:
   - /organisations/dgefp
   - /organisations/francetravail
   - /organisations/mtei
 incubator: gip-inclusion
-contact: emplois@inclusion.gouv.fr
-link: https://emplois.inclusion.beta.gouv.fr/
+contact: dora@inclusion.gouv.fr
+link: https://dora.inclusion.beta.gouv.fr/
 repository: http://github.com/gip-inclusion/les-emplois
 rgpd:
   responsable: DGEFP
@@ -60,7 +60,7 @@ phases:
   - name: construction
     start: 2019-06-10
   - name: acceleration
-    start: 2020-07-10
+    start: 2025-09-10
 events:
   - name: national_impact
     date: 2021-12-31
@@ -73,6 +73,7 @@ accessibility_status: partiellement conforme
 thematiques:
   - Travail / Emploi
   - Social
+  - Territoires
 analyse_risques: true
 mon_service_securise: true
 budget_url: https://gip-inclusion.notion.site/Budget-des-Emplois-de-l-inclusion-page-publique-18b5f321b604801b9e20de9dd4f821c7?pvs=4

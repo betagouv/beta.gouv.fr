@@ -1,5 +1,5 @@
 ---
-link: https://monespacecollectivite.incubateur.anct.gouv.fr/
+link: https://monespacecollectivite.anct.gouv.fr/
 mission: Réunir en un seul endroit collectivités et Etat Local pour accélérer les projets et leur impact sur le territoire.
 repository: https://github.com/betagouv/recoco-portails
 incubator: anct
@@ -16,11 +16,11 @@ phases:
     start: 2023-10-09
   - name: construction
     start: 2023-11-01
-  - name: acceleration
-    start: 2024-02-01
 accessibility_status: non conforme
 thematiques:
   - Collectivités
+usertypes: []
+techno: []
 ---
 ## Contexte
 
@@ -67,5 +67,10 @@ Objectifs 31 décembre :
 
 - Interconnexion démarches simplifiées V2 (DECIL/DETR/FNADT)
 - Déploiement d’autres cas d’usage (PICT, CRTE et d’autres programmes et plans ANCT)
+
+## Statistiques au 31/12/2024
+
+* +1700% d'utilisateurs en 9 mois : de 100 à 1 800 utilisateurs
+* +700% de projets déposés en 9 mois : de 100 à 800 projets
 
 Email de contact : monespacecollectivite@anct.gouv.fr
