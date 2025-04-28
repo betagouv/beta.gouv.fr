@@ -30,6 +30,9 @@ thematiques:
   - Collectivités
   - Administratif
 mon_service_securise: true
+fast:
+  promotion: 16
+  montant: 200000
 techno:
   - next.js
   - node

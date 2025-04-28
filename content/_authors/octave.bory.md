@@ -6,7 +6,7 @@ github: octavemelusyn
 link: https://fr.linkedin.com/in/octavebory
 missions:
   - start: 2021-01-08
-    end: 2025-07-15
+    end: 2025-10-14
     status: independent
     employer: NUMA
     startups:
@@ -24,8 +24,6 @@ badges:
   - segur
 competences:
   - Coaching
-  - Gestion de Produit
-  - Croissance
 teams:
   - /teams/fast-dinum
 ---

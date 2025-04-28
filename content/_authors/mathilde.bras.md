@@ -6,7 +6,7 @@ github: MathildeBras
 missions:
   - start: 2023-03-06
     end: 2026-12-31
-    status: service
+    status: admin
     startups:
       - languia
 teams:

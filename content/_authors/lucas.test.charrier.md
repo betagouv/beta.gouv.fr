@@ -10,4 +10,5 @@ missions:
     employer: Scopyleft
     startups:
       - anct-pni-9
+      - metiers-numeriques
 ---

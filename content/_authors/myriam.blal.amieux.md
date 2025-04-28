@@ -12,4 +12,10 @@ missions:
     employer: LBC
     startups:
       - tacct
+  - start: 2025-03-31
+    end: 2025-08-29
+    status: independent
+    employer: Scopyleft
+    startups:
+      - nosgestesclimat
 ---

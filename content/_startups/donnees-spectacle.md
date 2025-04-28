@@ -12,11 +12,13 @@ phases:
 usertypes:
   - particulier
 thematiques:
-  - Patrimoine
+  - Spectacle vivant
 repository: https://github.com/betagouv/assistant-declaration
 link: https://assistant-declaration.beta.gouv.fr
 dashlord_url: https://dashlord.incubateur.net/url/assistant-declaration-beta-gouv-fr/
 techno: []
+sponsors:
+  - /organisations/dgca
 ---
 ## Contexte
 

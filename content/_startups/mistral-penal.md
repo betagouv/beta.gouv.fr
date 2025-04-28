@@ -2,10 +2,12 @@
 title: Mistral Pénal
 mission: Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ
 sponsors:
+  - /organisations/direction-de-programme-procedure-penale-numerique
   - /organisations/mj
+  - /organisations/sous-direction-de-l-organisation-judiciaire-et-de-l-innovation-oji-4-direction-des-services-judiciaires
 incubator: justice
 contact: maxime.gammaire@justice.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 redirect_from:
   - /startups/T2BJustice
 events:
@@ -24,13 +26,16 @@ events:
   - name: committee
     date: 2024-11-07
     comment: Premières preuves d'impact. Première phase de déploiement
+  - name: committee
+    date: 2025-04-04
+    comment: Premiers déploiements effectués - Finalisation de la phase de construction actée fin juin 2025
 phases:
   - name: investigation
     start: 2022-06-29
     end: 2023-03-30
   - name: construction
     comment: Construction du MVP et test utilisateur sur des cas vidéos
-    start: 2023-03-30
+    start: 2025-04-04
 thematiques:
   - Justice
 analyse_risques: true
@@ -38,9 +43,13 @@ usertypes:
   - greffier/greffière
   - Magistrat
   - Directeur des services de greffe judiciaires
-techno: []
+techno:
+  - angular
+  - symfony
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
-link: ''
+link: https://mistralpenal.beta.gouv.fr/
+stats_url: https://mistralpenal.beta.gouv.fr/nos-statistiques/les-statistiques-dusage/
+repository: https://github.com/betagouv/Mistral-penal
 ---
 ## **Contexte**
 

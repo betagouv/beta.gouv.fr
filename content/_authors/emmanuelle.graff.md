@@ -1,6 +1,6 @@
 ---
 fullname: Emmanuelle Graff
-role: Responsable des opérations
+role: Responsable de coordination administrative et financière
 domaine: Animation
 missions:
   - start: 2023-12-01

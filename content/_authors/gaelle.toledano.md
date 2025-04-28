@@ -1,6 +1,6 @@
 ---
-fullname: Gaelle Toledano
-role: Chargée de portefeuille
+fullname: Gaëlle Toledano
+role: Chargée de portefeuille Guichet territorial Transition écologique
 domaine: Produit
 missions:
   - start: 2019-05-02
@@ -12,7 +12,9 @@ missions:
     end: 2025-06-27
     status: independent
     employer: Malt
+    startups:
+      - guichet-territorial-pour-la-transition-ecologique
 competences: []
 link: https://www.linkedin.com/in/ga%C3%ABlle-tld/
 ---
-Responsable du Guichet Territoires pour la transition écologique au sein de l'Incubateur des Territoires (ANCT)
+Chargée de portefeuille 

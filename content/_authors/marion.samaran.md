@@ -1,5 +1,5 @@
 ---
-fullname: Marion Recurt Samaran
+fullname: 'Marion Recurt '
 role: Chargée de déploiement
 domaine: Animation
 link: https://www.linkedin.com/in/marion-samaran/

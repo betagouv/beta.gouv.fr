@@ -1,8 +1,8 @@
 ---
 fullname: Boris AIMÉ-BAUDERLIQUE
-role: Déploiement
+role: 'Déploiement / Communication '
 domaine: Déploiement
-link: http://boris-aimebauderlique.fr/
+link: https://boris-aimebauderlique.fr/expertises/beta-gouv/france-vae-charge-de-deploiement/
 competences:
   - Croissance
   - Communication

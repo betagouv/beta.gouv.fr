@@ -4,21 +4,31 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2015-05-01
-    end: 2024-12-31
+    end: 2019-06-30
     status: admin
-    employer: pole-emploi
+    employer: Pole emploi
+    startups:
+      - la-bonne-alternance
+      - la-bonne-boite
+      - memo
+  - start: 2019-07-01
+    end: 2025-10-23
+    status: admin
+    employer: GIP Plateforme de l'inclusion
     startups:
       - les-emplois
-  - start: 2024-09-01
-    end: 2027-08-30
-    status: admin
-    employer: pole-emploi
 previously:
   - la-bonne-boite
   - memo
   - la-bonne-alternance
 teams:
   - /teams/gip-inclusion
-competences: []
+competences:
+  - Intrapreneur(se)
+  - Facilitation
+  - Administration Publique
+  - Coaching
+  - Product strategy
+link: https://www.linkedin.com/in/eric-barthélémy-intrapreneur
 ---
 Un leitmotiv: Mon action permet-elle à un demandeur d’emploi de retrouver un travail ?

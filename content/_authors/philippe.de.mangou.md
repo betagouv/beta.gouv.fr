@@ -14,12 +14,10 @@ competences:
   - Product strategy
   - Facilitation
   - Croissance
-  - Développement Full-stack
   - DevOps
-  - PHP
-  - Ruby
   - Coaching
   - Communication
+  - Sécurité informatique
 memberType: beta
 github: philippedemangoubeta
 ---

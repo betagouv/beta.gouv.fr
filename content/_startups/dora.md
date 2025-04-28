@@ -3,7 +3,7 @@ mission: Recenser, mettre en visibilité et faciliter la prescription de service
 incubator: gip-inclusion
 repository: https://github.com/gip-inclusion/dora/
 contact: contact@dora.inclusion.beta.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 usertypes:
   - association
   - entreprise
@@ -30,8 +30,15 @@ thematiques:
   - Travail / Emploi
   - Open-Data
 techno: []
+fast:
+  promotion: 16
+  montant: 200000
 mon_service_securise: true
 budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?tab=t.0
+analyse_risques: false
+events:
+  - name: fast
+    date: 2025-03-01
 ---
 ## Le problème
 

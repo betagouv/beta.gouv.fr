@@ -1,6 +1,6 @@
 ---
 link: https://lesbases.anct.gouv.fr/
-dashlord_url: https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/lesbases-anct-gouv-fr/
+dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/lesbases-anct-gouv-fr/
 mission: Faciliter le partage de ressources & de communs pour les acteurs de l'inclusion numérique
 repository: https://github.com/inclusion-numerique/la-base
 incubator: anct
@@ -16,8 +16,6 @@ phases:
     start: 2021-09-01
   - name: construction
     start: 2022-02-01
-  - name: transfer
-    start: 2023-02-01
   - name: acceleration
     start: 2023-05-01
 mon_service_securise: true
@@ -29,6 +27,7 @@ usertypes:
   - collectivite-territoriale
 techno:
   - next.js
+budget_url: https://lesbases.anct.gouv.fr/budget
 ---
 ## Contexte
 

@@ -24,7 +24,11 @@ events:
   - name: product_launch
     date: 2025-04-02
     comment: FIC, Lille
-link: ''
+link: https://messervices.cyber.gouv.fr/
+repository: https://github.com/betagouv/anssi-portail
+stats_url: https://messervices.cyber.gouv.fr/statistiques
+dashlord_url: https://dashlord.incubateur.net/url/messervices-cyber-gouv-fr/
+techno: []
 ---
 ## L'enjeu
 

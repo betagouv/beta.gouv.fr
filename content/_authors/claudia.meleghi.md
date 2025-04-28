@@ -1,10 +1,10 @@
 ---
 domaine: Autre
 fullname: Claudia MELEGHI
-role: Autre
+role: Chargée de publication
 missions:
   - start: 2024-06-04
-    end: 2025-12-31
+    end: 2025-10-04
     status: independent
     employer: Diair
     startups:

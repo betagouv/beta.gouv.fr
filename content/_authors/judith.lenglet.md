@@ -12,5 +12,5 @@ missions:
 previously:
   - trackdechets
 teams:
-  - /teams/accelerateur-initiatives-citoyennes
+  - /teams/dinum-produits-interministeriels-accompagnement-interministeriel-de-communs-numeriques
 ---
