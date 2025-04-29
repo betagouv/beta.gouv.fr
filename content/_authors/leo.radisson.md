@@ -4,7 +4,7 @@ role: Product manager
 domaine: Produit
 missions:
   - start: 2022-02-14
-    end: 2025-12-31
+    end: 2025-03-07
     status: independent
     startups:
       - la-bonne-alternance

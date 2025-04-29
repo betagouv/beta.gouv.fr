@@ -6,8 +6,8 @@ competences: []
 missions:
   - start: 2025-04-15
     end: 2025-10-15
-    employer: Ministère des Sports
     status: admin
+    employer: Ministère des Sports
     startups:
       - pass-sport
 ---

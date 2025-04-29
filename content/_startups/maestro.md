@@ -10,9 +10,7 @@ phases:
   - name: investigation
     start: 2023-05-12
   - name: construction
-    start: 2024-02-26
-  - name: acceleration
-    start: 2024-10-21
+    start: 2025-05-21
 repository: https://github.com/betagouv/maestro
 thematiques:
   - Agriculture
@@ -21,6 +19,8 @@ usertypes:
   - etat
 techno: []
 link: https://maestro.beta.gouv.fr/
+analyse_risques: true
+mon_service_securise: true
 ---
 ## Contexte
 
