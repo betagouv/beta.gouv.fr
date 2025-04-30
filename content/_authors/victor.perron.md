@@ -5,21 +5,21 @@ domaine: Développement
 github: vperron
 missions:
   - start: 2022-01-24
-    end: 2025-06-20
+    end: 2025-09-30
     status: independent
     employer: Malt
     startups:
       - data-inclusion
       - dora
-      - les-emplois
       - pilotage.de.linclusion
 competences:
   - Développement Backend
   - Développement Frontend
   - Développement Full-stack
   - DevOps
-  - Data Science
   - Python
   - PostgreSQL
+  - Data Engineering
+link: https://www.linkedin.com/in/victorperron/
 ---
 Développeur Python/Django & frontend & data engineering & devops

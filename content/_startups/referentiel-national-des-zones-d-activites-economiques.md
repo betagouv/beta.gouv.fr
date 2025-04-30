@@ -20,10 +20,15 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-12-20
+  - name: alumni
+    start: 2025-04-30
 events:
   - name: other
     date: 2025-03-13
     comment: Restitution de l'investigation auprès de l'IGN et de la Banque des Territoires
+  - name: committee
+    date: 2025-04-30
+    comment: Fin de l'investigation
 link: ''
 ---
 ## Contexte
@@ -83,10 +88,13 @@ Focus sur les moyens et gros projets d’implantation
 ## Conclusions
 **Nous ne recommandons pas de lancer un nouveau produit BetaGouv** :
 - les freins identifiés à la réutilisation du foncier et la centralisation des données des zones éco ne seront pas levés par la seule mise en œuvre d’un service public numérique.
-- pas d’irritant au sens BetaGouv clairement identifié. Pas de mesure objective d'impact / succès / échec pour démarrer ou arrêter un service public numérique.
+- pas d’irritant au sens BetaGouv identifié. Pas de mesure objective d'impact / succès / échec pour démarrer ou arrêter un service public numérique.
 
-**Autres pistes éventuelles :**
+**Autres suites considérées :**
 - Poursuivre l'investigation (dans ou hors BetaGouv) sur une autre région pour confirmer les enseignements
 - Enrichir DevEco pour permettre aux EPCI de publier les données des ZAE à d’autres acteurs, de gérer la vacance ?
-- Étendre RNB aux terrains puis aux sites économiques
-- Projet classique (cf. 1ère investigation ZAE) en lien avec FranceFoncier+
+- Projet classique d'urbanisation de la données
+
+**SUITE RETENUE 30/04/2025 :**
+- **PAS DE PRODUIT BETAGOUV**
+- **PROJET CLASSIQUE IGN+BDT SUR l'URBANISATION DE LA DONNÉE**
