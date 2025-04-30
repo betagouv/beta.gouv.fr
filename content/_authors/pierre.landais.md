@@ -7,9 +7,8 @@ competences: []
 missions:
   - start: 2024-11-01
     end: 2027-11-22
-    employer: DG Trésor
     status: admin
-    startups: []
+    employer: DG Trésor
 ---
 Ingénieur du corps de l'Industrie et des Mines.
 Responsable Data&IA au sein de la DG Trésor, MEF

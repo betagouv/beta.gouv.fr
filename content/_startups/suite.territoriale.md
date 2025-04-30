@@ -17,6 +17,7 @@ link: https://suiteterritoriale.anct.gouv.fr/
 thematiques: []
 usertypes: []
 techno: []
+repository: https://github.com/suitenumerique/st-home/tree/main
 ---
 ## Contexte
 

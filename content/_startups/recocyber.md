@@ -16,13 +16,11 @@ sponsors:
   - /organisations/anssi
 phases:
   - name: investigation
-    comment: null
     start: 2025-04-22
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-04-22
+link: ''
 ---
 
 

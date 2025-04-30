@@ -10,8 +10,6 @@ missions:
     employer: scopyleft
     startups:
       - benefriches
-      - jafer
-      - precontentieux.justice
   - start: 2025-03-17
     end: 2025-06-17
     status: independent

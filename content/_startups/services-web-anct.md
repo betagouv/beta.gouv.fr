@@ -1,8 +1,8 @@
 ---
 analyse_risques: false
 mon_service_securise: true
-contact: john.labuzan@beta.gouv.fr
-link: https://agence-cohesion-territoires.gouv.fr/
+contact: info@anct.gouv.fr
+link: https://anct.gouv.fr/
 thematiques:
   - Collectivités
 usertypes:
@@ -25,6 +25,9 @@ phases:
 events:
   - name: product_launch
     date: 2024-10-23
+accessibility_status: partiellement conforme
+repository: https://gitlab.com/incubateur-territoires/startups/site-web-anct/anct.gouv.fr
+dashlord_url: https://dashlord.incubateur.anct.gouv.fr/
 ---
 ## Contexte
 
