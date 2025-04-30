@@ -21,6 +21,12 @@ missions:
     employer: Solstice
     startups:
       - seves
+  - start: 2025-05-05
+    end: 2025-07-31
+    status: independent
+    employer: ScopyLeft
+    startups:
+      - agents.en.intervention
 previously:
   - tremplin
   - workinfrance

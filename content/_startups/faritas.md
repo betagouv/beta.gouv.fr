@@ -1,6 +1,6 @@
 ---
 title: FARITAS
-mission: FAciliter le Recouvrement de l’Impôt et de la TAxe de Séjour.
+mission: FAciliter le Recouvrement de l’Impôt et de la TAxe de Séjour
 sponsors:
   - /organisations/dgfip
 incubator: fabrique-dgfip
@@ -44,11 +44,14 @@ events:
   - name: other
     date: 2024-06-30
     comment: Fin de 1ère campagne de dépôt
-stats_url: https://beta.gouv.fr/startups/faritas.html#Indicateurs-publics
+  - name: other
+    date: 2025-01-01
+    comment: Extension à de nouveaux acteurs, enrichissement des fonctionnalités
+stats_url: https://beta.gouv.fr/startups/faritas.html#:~:text=1%20million%20d%E2%80%99euros-,Indicateurs%20d%E2%80%99usage,-85%25%20du%20territoire
 mon_service_securise: true
-link: ''
+link: https://faritas.beta.gouv.fr/
 ---
-## Le problème: une inefficience dans la collecte et le reversement de la taxe de séjour par les plateformes numériques
+## Le problème : une inefficience dans la collecte et le reversement de la taxe de séjour par les plateformes numériques
 
 En 2019, le législateur a décidé de placer les plateformes numériques de réservation au cœur de la chaîne fiscale de la taxe de séjour en les rendant **intermédiaires collecteurs** de cette taxe pour les collectivités locales. Chaque plateforme est donc tenue, tous les 6 mois, d'adresser à chaque collectivité délibérante une déclaration listant l'intégralité des perceptions de taxe effectuées et reverser les montants collectés au comptable public référent pour chacune de ces collectivités (art. L.2333-34 du CGCT).
 
@@ -56,7 +59,7 @@ En pratique, l'**absence de standardisation** des déclarations de taxe de séjo
 
 Côté Direction générale des Finances publiques (DGFiP), les comptables publics ne disposent pas de pièces justificatives fiables pour **sécuriser les versements** opérés par les plateformes numériques et ainsi **s’assurer de la bonne application des délibérations locales** et du rattachement des séjours déclarés aux bonnes collectivités.
 
-## La solution: un service numérique centralisé qui simplifie les démarches pour tous les acteurs impliqués dans cette chaîne fiscale
+## La solution : un service numérique centralisé qui simplifie les démarches pour tous les acteurs impliqués dans cette chaîne fiscale
 
 Pour pallier aux difficultés rencontrées par les différents acteurs, l’offre de service FARITAS propose une solution centralisée qui s’articule autour d’une **interface de télédéclaration unique de la taxe de** **séjour** à l’attention des plateformes numériques de réservation, enrichie de modules d’analyse.
 
@@ -67,7 +70,7 @@ Une fois le dépôt accompli, les plateformes numériques reçoivent une notific
 De leur côté, les collectivités territoriales délibérantes en matière de taxe de séjour peuvent accéder aux déclarations des plateformes de réservation pour les séjours les concernant directement depuis le **Portail de la gestion publique**. Elles peuvent télécharger ces déclarations pour les intégrer à leur logiciel de gestion et disposer des mêmes rapports d’analyse tant sur la conformité réglementaire de la déclaration que sur la liquidation de la taxe elle-même.
 
 
-## Le parcours: de la phase d'investigation au passage à l'échelle
+## Le parcours : de la phase d'investigation au passage à l'échelle
 
 Le projet FARITAS a été retenu en juin 2021 dans le cadre de l’appel à candidatures lancé par la *Fabrique numérique de la DGFiP* auprès de l’ensemble de ses agents.
 
@@ -98,6 +101,9 @@ La construction du projet FARITAS est guidée par plusieurs indicateurs d’impa
 *  mesurer l'**amélioration de la qualité fiscale** (diminution du taux de non-conformité des déclaration, diminution des erreurs de liquidation de la taxe).
 
 ## Indicateurs d'impact et d'usage
+
+Retrouvez les principaux indicateurs du service sur le [site officiel FARITAS](https://faritas.beta.gouv.fr/).
+
 ### 2024
 
 **Indicateur d'impact**
