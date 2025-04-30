@@ -17,10 +17,6 @@ missions:
     employer: GIP Plateforme de l'inclusion
     startups:
       - les-emplois
-previously:
-  - la-bonne-boite
-  - memo
-  - la-bonne-alternance
 teams:
   - /teams/gip-inclusion
 competences:
