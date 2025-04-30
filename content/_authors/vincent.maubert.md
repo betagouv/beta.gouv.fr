@@ -12,7 +12,7 @@ missions:
     startups:
       - camino
   - start: 2024-11-26
-    end: 2025-06-01
+    end: 2025-08-31
     status: independent
     employer: Malt
     startups:

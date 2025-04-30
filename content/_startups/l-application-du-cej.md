@@ -4,7 +4,7 @@ mission: Aider les jeunes les plus éloignés de l'emploi à trouver leur voie
 sponsors:
   - /organisations/dgefp
   - /organisations/francetravail
-incubator: sgmas
+incubator: francetravail
 repository: https://github.com/SocialGouv/pass_emploi_app
 contact: contact@pass-emploi.beta.gouv.fr
 usertypes:
@@ -21,6 +21,8 @@ phases:
     end: 2022-03-30
   - name: acceleration
     start: 2022-03-01
+  - name: transfer
+    start: 2025-03-31
 accessibility_status: partiellement conforme
 thematiques:
   - Travail / Emploi

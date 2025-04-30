@@ -10,20 +10,20 @@ usertypes:
   - particulier
   - etablissement-scolaire
 techno: []
-title: Plateforme d'admission au Doctorat
-mission: Faciliter le processus d'admission au doctorat
+title: Plateforme d'admission en Doctorat
+mission: Faciliter le processus d'admission en doctorat
 incubator: dinum
 sponsors:
+  - /organisations/dgesip
+  - /organisations/direction-generale-de-la-recherche-et-de-l-innovation
   - /organisations/mesr
 phases:
   - name: investigation
-    comment: null
     start: 2025-04-01
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2025-06-25
+link: ''
 ---
 ## Contexte
 
@@ -43,6 +43,7 @@ Qui en souffre ?
 - Étudiants français issus de formations non académiques habituelles
 - Étudiants étrangers
 - Candidats sans réseau académique établi
+- Chercheurs en laboratoire
 
 Conséquences :
 - Découragement des candidats potentiels
@@ -60,9 +61,11 @@ Bénéficiaires :
 - Les services administratifs des écoles doctorales, en réduisant la charge de travail liée à l'accompagnement des candidats 
 - Les structures portant les contrats de travail des futurs doctorants
 
-## Objectifs à 6 mois
+## Méthodologie d'investigation
+- Travail sur la problématique et les cibles
+- Qualification des parties prenantes / Interviews / Priorisation des points de souffrance
+- Reproblématisation
+- Définition de la proposition de valeur
+- Design de la solution / Parcours utilisateurs / faisabilité technique
 
-Objectif **d'usage** à 6 mois : en cours de réflexion
-
-Objectif **d'impact** à 6 mois : en cours de réflexion
-
+Rendez-vous en 2025 ! 

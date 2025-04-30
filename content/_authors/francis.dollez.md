@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2025-04-16
     end: 2025-06-30
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - domifa
 ---

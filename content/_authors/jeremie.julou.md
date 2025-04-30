@@ -14,6 +14,12 @@ missions:
     employer: Dynergie
     startups:
       - access-sol
+  - start: 2025-04-01
+    end: 2025-07-31
+    status: independent
+    employer: Dynergie
+    startups:
+      - plateforme-d-admission-au-doctorat
 ---
 Binôme d'entrepreneurs pop, je les à se développer en complétant leur équipe.
 Dans la scène startup depuis une 15aine d'années et j'ai eu l'occasion de travailler avec moult entrepreneurs. 
