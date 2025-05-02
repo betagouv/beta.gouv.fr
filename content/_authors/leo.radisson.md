@@ -8,10 +8,17 @@ missions:
     status: independent
     startups:
       - la-bonne-alternance
+  - start: 2025-03-10
+    end: 2025-07-09
+    status: independent
+    employer: ut7
+    startups:
+      - lex-base
+      - portail-greffe-gestion-des-audiences
+      - portail-greffe-gestion-des-dossiers
 badges:
   - segur
 competences: []
 teams:
   - /teams/mission-apprentissage
 ---
-Product Manager à la Bonne Alternance

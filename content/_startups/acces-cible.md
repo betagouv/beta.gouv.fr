@@ -30,30 +30,88 @@ events:
 ---
 ## Contexte
 
-L’[ordonnance de transposition du 6 septembre 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048049674) a défini de nouvelles missions de l’Arcom en créant l’[article 47-1 de la loi n°2005-102](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048050174) qui précise : « Afin de faciliter le contrôle de ces obligations, elle peut mettre en œuvre des méthodes proportionnées de **collecte automatisée** de données publiquement accessibles. »
+Plusieurs entités ont des obligations en matière d’accessibilité numérique. Sont notamment concernés, en tout ou partie, par le RGAA :
 
-Cette investigation vise à doter cette autorité de contrôle d’un service automatisé de contrôle et à accompagner les administrations responsables de services numériques dans leur mise en conformité avec le RGAA en mettant ce même service à leur disposition.
+- les administrations des trois fonctions publiques, dont les collectivités territoriales et l’État, ses services déconcentrés et ses opérateurs ;
+- les organisations délégataires d’une mission de service public ou sous contrôle d’une administration ;
+- les entreprises dont le chiffre d’affaires en France est supérieur à 250 millions d’euros.
 
-## Problème
+Le constat : un (très) faible nombre de services numériques respectent ces obligations, malgré le risque de sanction.
 
-Comment permettre à l’Arcom d’exercer efficacement ses missions de contrôle dans un contexte de moyens humains, techniques, etc. limités ?
+## Problème(s)
 
-## Les usagers
+Notre enjeu : améliorer l’accessibilité des services numériques à travers leur mise en conformité.
 
-D’une part, l’autorité de contrôle chargée de faire respecter l’accessibilité des sites publics n’est aujourd’hui pas outillée.
+L’[ordonnance de transposition du 6 septembre 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048049674) définit de nouvelles missions pour l’Arcom en créant l’[article 47-1 de la loi n°2005-102](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048050174), qui précise :
 
-De l’autre, des organisations devant respecter RGAA et qui n’ont pas les moyens de s’autocontrôler afin d’améliorer l’accessibilité de leurs services numériques.
+> « Afin de faciliter le contrôle de ces obligations, elle peut mettre en œuvre des méthodes proportionnées de collecte automatisée de données publiquement accessibles. »
+> 
 
-Sont notamment concernés en tout ou partie par le RGAA :
+Malgré des obligations légales strictes, l’accessibilité numérique reste insuffisamment respectée. L’autorité de contrôle n’a pas les outils nécessaires pour assurer le suivi des mises en conformité, et les organisations concernées manquent de moyens pour s’auto-évaluer vis à vis du RGAA
 
-- les administrations des trois fonctions publiques dont les collectivités territoriales et l’État, ses services déconcentrés et ses opérateurs ;
-- les organisations délégataires d’une mission de service public ou sous contrôle d’une administration ;
-- les entreprises dont le chiffre d’affaires en France est supérieur à 250 millions d’euros ;
+## Notre hypothèse de travail
 
-## Ce que nous avons appris en phase d’investigation
+Pour accélérer leur mise en conformité, il faut permettre aux services numériques de visualiser simplement le respect de leurs obligations légales en tout ou partie et d’en suivre l’évolution.
 
-Les besoins exprimés par l’Arcom et, outre leur intérêt pour le principe de l’outil, ceux des assujettis (administrations, opérateurs, délégataires de service publics… ).
+## Nos leviers d’action
 
-## Ce que nous devons apprendre en phase de construction ?
+### **Levier 1 : Renforcer le contrôle et accélérer la mise en conformité**
 
-L’objectif de créer un produit minimum viable en identifiant **a)** les fonctionnalités nécessaires à l’Arcom en itérant fréquemment et **b)** celles pour les organisations assujetties (administrations, opérateurs, délégataires de service publics… ).
+**Objectif** : Augmenter le nombre de mises en conformité du fait de la généralisation des contrôles.
+
+**Comment ?** 
+
+En renforçant les capacités de l’Arcom pour :
+
+- **Détecter** automatiquement les sites non conformes ;
+- **Notifier** les responsables de la situation et des risques encourus ;
+- **Suivre** les actions de mise en conformité et, si nécessaire, engager des sanctions.
+
+### Levier 2 : Faciliter l’autocontrôle par les responsables de portefeuille et chefs de produits numériques
+
+**Objectif** : Encourager les équipes en charge des services numériques à prendre en main leur conformité.
+
+**Comment ?** En leur donnant les moyens de :
+
+- **Prendre conscience** de leurs obligations en matière d’accessibilité numérique ;
+- **Identifier rapidement** les points d’amélioration prioritaires ;
+- **Découvrir** des moyens de formation.
+
+Afin de :
+
+- **Définir un plan d’action concret**, avec des étapes claires et réalisables ;
+- **Mettre en œuvre les corrections nécessaires** et suivre leur progression ;
+- **Réaliser un auto-contrôle régulier** pour garantir une amélioration continue ;
+- **Améliorer leurs compétences** dans le domaine de l’accessibilité numérique.
+
+## Notre solution
+
+**Accès Cible** est un service numérique permettant de vérifier automatiquement le respect :
+
+- des obligations de transparence en matière d’accessibilité numérique ;
+- d’une partie des critères de conformité à l’accessibilité.
+
+## Nos objectifs d’impact
+
+Nous piloterons :
+
+- le nombre de services informés par l’Arcom ;
+- le nombre de services auto-contrôlés ;
+- le nombre de plans d’action définis (déclaratif) ;
+- l’évolution, dans le temps (à intervalle régulier), du taux d’accessibilité des services ayant réalisé un test.
+
+Un échantillon de contrôle (services non testés par Accès’Cible) sera également réalisé pour évaluer l’impact du dispositif.
+
+## Construction #1
+
+Les efforts portent sur la construction d’un produit minimum viable en collaboration avec l’Arcom. 
+
+Les premiers retours sont encourageants (potentiel de multiplier par quatre le nombre de sites suivis, gain de temps pour contribuer au reporting européen), mais le produit nécessite encore quelques évolutions.
+
+## Construction #2
+
+Les objectifs : 
+
+- Finalisation du MVP
+- Prise en main par l’ARCOM
+- Adaptation de l’outil pour l’auto-contrôle
