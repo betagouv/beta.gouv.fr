@@ -12,7 +12,7 @@ missions:
     startups:
       - recosante
   - start: 2024-06-03
-    end: 2025-03-11
+    end: 2025-10-01
     status: independent
     employer: Malt
     startups:

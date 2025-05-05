@@ -3,7 +3,7 @@ link: https://espacesurdemande.anct.gouv.fr/?mtm_campaign=annuaire-se-beta&mtm_s
 mission: Simplifier la réservation des salles et équipements publics
 incubator: anct
 title: Espace sur Demande
-contact: yasmina.hafidi@anct.gouv.fr
+contact: espacesurdemande@incubateur.anct.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/anct

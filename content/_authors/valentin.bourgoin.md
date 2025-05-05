@@ -11,7 +11,7 @@ competences:
   - PostgreSQL
 missions:
   - start: 2025-04-01
-    end: 2025-10-01
+    end: 2025-11-01
     status: independent
     employer: Malt - Octo Technology
     startups:

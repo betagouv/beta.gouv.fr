@@ -1,6 +1,6 @@
 ---
 fullname: Philippe Martinez
-role: Dev
+role: Développeur
 domaine: Développement
 competences:
   - Développement Full-stack

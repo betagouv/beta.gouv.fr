@@ -10,5 +10,7 @@ missions:
     end: 2026-10-22
     status: admin
     employer: DINUM
+teams:
+  - /teams/al-lia-nce-animation
 ---
 Au sein de l’incubateur ALLiaNCE, je pilote l’animation de la communauté, la coordination des événements associés, ainsi que la stratégie de communication.

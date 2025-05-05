@@ -10,8 +10,7 @@ competences:
 missions:
   - start: 2025-05-01
     end: 2028-04-30
-    employer: 'Ministère des Armées '
     status: admin
-    startups: []
+    employer: 'Ministère des Armées '
 ---
 Product Manager & UX Researcher
