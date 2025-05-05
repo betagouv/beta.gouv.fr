@@ -9,6 +9,8 @@ missions:
     end: 2023-10-20
     status: independent
     employer: octo
+    startups:
+      - les-emplois
   - start: 2023-10-23
     end: 2025-06-30
     status: independent

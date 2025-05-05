@@ -22,7 +22,6 @@ missions:
       - plateforme-d-admission-au-doctorat
 ---
 Binôme d'entrepreneurs pop, je les à se développer en complétant leur équipe.
-Dans la scène startup depuis une 15aine d'années et j'ai eu l'occasion de travailler avec moult entrepreneurs. 
-Spécialiste des méthodes du Design Thinking et du Lean Startup (entre autre !), j'interviens avec vous et vos équipes pour travailler la stratégie de développement, le produit, le marché. 
+Spécialiste des méthodes du Design Thinking et du Lean Startup, je travaille avec vous et vos équipes pour définir la stratégie de développement, le produit, le marché. 
 La solitude est la première barrière qui freine les porteurs à se lancer ou les empêche de se développer rapidement.
 C'est là que j'interviens! 
