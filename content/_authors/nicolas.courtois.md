@@ -25,13 +25,13 @@ missions:
     startups:
       - monprojetsup
   - start: 2024-06-24
-    end: 2025-01-31
+    end: 2025-09-30
     status: independent
     employer: Malt
     startups:
       - maestro
   - start: 2024-12-02
-    end: 2026-02-02
+    end: 2025-09-30
     status: independent
     employer: ' '
     startups:

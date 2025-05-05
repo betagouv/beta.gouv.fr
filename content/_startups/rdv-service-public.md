@@ -12,7 +12,7 @@ stats: true
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#RDV-Services-Publics
 dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
 analyse_risques: true
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 thematiques:
   - Collectivités
   - Social
@@ -35,7 +35,9 @@ phases:
     start: 2018-01-18
   - name: acceleration
     start: 2019-04-01
-techno: []
+techno:
+  - ruby
+  - rails
 mon_service_securise: true
 ---
 ## Qui sommes-nous ?
