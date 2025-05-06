@@ -11,12 +11,20 @@ missions:
     employer: /ut7
     startups:
       - tdb-apprentissage
+  - start: 2025-05-06
+    end: 2025-09-05
+    status: independent
+    employer: Scopyleft
+    startups:
+      - ma-cantine-egalim
 memberType: beta
 previously:
   - tdb-apprentissage
 competences:
   - Metabase
-  - PostgreSQL
-  - Data Science
+  - Dataviz
+  - SQL
+  - Tableaux de bord
+  - Analyse Exploratoire
 ---
-Analyser des données, lire des romans et manger des croziflettes. SQL, MongoDB, Metabase...
+Analyser des données, lire des romans et manger des croziflettes.
