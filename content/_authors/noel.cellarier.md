@@ -15,8 +15,8 @@ competences:
 missions:
   - start: 2025-04-29
     end: 2025-10-29
-    employer: LBC
     status: admin
+    employer: LBC
     startups:
       - sain-eau
 ---

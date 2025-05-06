@@ -29,84 +29,95 @@ phases:
     start: 2017-10-01
   - name: acceleration
     start: 2019-07-01
+mon_service_securise: true
+dashlord_url: https://dashlord.incubateur.net/url/aplus-beta-gouv-fr/disponibilite/
 ---
-## Avec Administration+, aucun blocage ne vous résiste
+# **Administration+**
 
-**Administration+**, c’est une plateforme qui **met en relation des aidants** comme des travailleurs sociaux **avec des agents d’organismes publics** comme la Caf. Ensemble, ils luttent contre **l’urgence sociale**. Pour cela, ils règlent rapidement et efficacement des **blocages inextricables** dans les dossiers des usagers. Administration+, **c’est le service public VIP pour tous !**
+Résoudre les blocages administratifs complexes et/ou urgents des citoyens
 
-## Une Startup d’État basée sur des histoires vraies
+[aplus.beta.gouv.fr](http://aplus.beta.gouv.fr)
 
-En 2017, **Zohra Lebel-Sedki** était en poste à la Direction de l’Information Légale et Administrative (DILA). Elle décide de participer à un **challenge intrapreneurial** organisé par la DINSIC et beta.gouv.fr. Elle se base sur son expérience professionnelle. Pendant plus de trois ans, elle a répondu aux messages du site service-public.fr. Elle a constaté que **de nombreux usagers étaient bloqués dans leurs démarches administratives**. Désespérés, ils pouvaient passer d’un comportement agressif à une posture d’abandon total de leurs droits.
+[Produit en accélération](https://beta.gouv.fr/approche/acceleration)
 
-Elle remporte le challenge. **La Startup d’État alors appelée « A+ » est lancée en septembre 2017**. Après plusieurs itérations, Zohra s’est concentrée sur les **blocages inextricables** : ces situations où l’usager a beau se manifester auprès d’un travailleur social, quelque chose est bloqué et les moyens de communication classiques ne suffisent plus pour éviter de tomber dans la précarité. La plateforme a été lancée en expérimentation dès décembre 2017 sur Argenteuil (Val-d'Oise, 95). **Le premier cas concret a été réglé en une semaine**.
+## Un problème qui peut toucher tout le monde : être privé de ses droits à cause de blocages administratifs
 
-> J’ai été surprise de l'accueil de mon projet : les administrations sont bienveillantes avec un tel dispositif qui vient en complément de leurs services ! Ce qui m’a poussée à faire ce choix, c’est que les blocages inextricables ne sont pas une charge de travail en plus pour les organismes. Ces dossiers ne sont pas des dossiers supplémentaires : ce sont des dossiers courants, urgents, d’usagers bien réels, qui un jour ou l’autre arriveront sur les bureaux des administrations. La question, c’est de savoir : préférons-nous que ces dossiers arrivent plus rapidement pour avoir une prise en charge immédiate ne pénalisant pas l’usager ? Ou bien est ce qu’on attend que la situation se gangrène, que les conséquences empirent et que le dossier parte en contentieux ?
+En 2017, **Zohra Lebel-Sedki** était en poste à la Direction de l’Information Légale et Administrative (DILA). Elle décide de participer à un **challenge intrapreneurial** organisé par la DINSIC et [beta.gouv.fr](http://beta.gouv.fr). Elle se base sur son expérience professionnelle. Pendant plus de trois ans, elle a répondu aux messages du site [service-public.fr](http://service-public.fr). Elle a constaté que **de nombreux usagers étaient bloqués dans leurs démarches administratives**. Désespérés, ils pouvaient passer d’un comportement agressif à une posture d’abandon total de leurs droits.
 
-*Zohra Lebel-Sedki, cheffe de produit Administration+*
+**La Startup d’État alors appelée « A+ » est lancée en septembre 2017**. La plateforme a été lancée en expérimentation dès décembre 2017 sur Argenteuil (Val-d’Oise, 95). **Le premier cas concret a été réglé en une semaine**.
 
-## Comment fonctionne Administration+
+*(suggestion CLP pour ce bloc : changement ordre des phrases + tout au présent pour simplifier la lecture)*
 
-Administration+ est **une messagerie sécurisée** réservée aux travailleurs sociaux et agents d’opérateurs de l’État (CPAM, DDFIP, MSA, Caf, etc.). Il s’agit d’une plateforme qui permet de résoudre les blocages administratifs inextricables. Pour une raison inconnue, ces blocages n’arrivent pas à être traités par les canaux d’informations classiques. Ils doivent cependant être résolus en urgence pour éviter de faire basculer l’usager dans la précarité.
+En 2017, **Zohra Lebel-Sedki** est en poste à la Direction de l’Information Légale et Administrative (DILA). Chaque jour, elle répond aux messages des usagers du site [service-public.fr](http://service-public.fr). Son constat : **de nombreux citoyens sont bloqués dans leurs démarches administratives**. Désespérés, ils passent parfois d’un comportement agressif à une posture d’abandon total de leurs droits. Zohra décide de participer à un **challenge intrapreneurial** organisé par la DINSIC et [beta.gouv.fr](http://beta.gouv.fr) pour trouver une solution à ce problème.
 
-**L’usager en situation de fragilité sociale** (perte de mobilité, illectronisme, illettrisme, handicap, hospitalisation, etc.) **n’a pas directement accès à Administration+**. C’est son travailleur social, avec son autorisation (mandat), qui utilise la plateforme pour répondre à son problème.
+**En septembre 2017, la Startup d’État alors appelée « A+ » est lancée. **La première expérimentation a lieu à Argenteuil (Val-d’Oise, 95) dès décembre 2017. **Le premier cas concret a été réglé en une semaine**.
 
-Concrètement, un travailleur social **Aidant+** utilise la plateforme pour signaler un blocage dans le dossier d’une personne. La demande est qualifiée et transmise à ou aux organismes compétents. Le référent dans l’administration instructrice, l’**Agent+**, prend connaissance de la situation. Il peut à son tour contacter d’autres Agents+ lorsque le problème est kafkaïen. Une fois le blocage identifié et corrigé, l’Agent+ avise aussitôt l’Aidant+.
+« J’ai été surprise de l’accueil de ce projet : les administrations sont bienveillantes avec un tel dispositif, qui vient en complément de leurs services ! Ce qui m’a poussé à faire ce choix, c’est que les blocages inextricables ne sont pas une charge de travail en plus pour les organismes. Ces dossiers ne sont pas des dossiers supplémentaires : ce sont des dossiers courants, urgents, de citoyens bien réels, qui un jour ou l’autre arriveront sur les bureaux des administrations. La question, c’est de savoir : préférons-nous que ces dossiers arrivent plus rapidement pour avoir une prise en charge immédiate ne pénalisant pas l’usager, ou bien est ce qu’on attend que la situation se gangrène, que les conséquences empirent et que le dossier parte en contentieux ? »
 
-![Schéma des intéractions entre Aidants+ et Agents+](/img/startups/aplus/schema-aidants-agents.png)
+*Zohra Lebel-Sedki, fondatrice du projet Administration+*
 
-La facilité d’utilisation et la sécurité sont primordiales pour Administration+. L’accès à la plateforme s’effectue depuis les boites mails professionnelles des utilisateurs. Aucun logiciel supplémentaire n’est à installer. La connexion est personnelle et confidentielle : seuls l’Aidant+ et les Agents+ saisis lors d’une demande ont accès à son contenu et aux informations personnelles concernant l’usager.
+## La solution : une messagerie entre aidants et administrations pour résoudre ces blocages
 
-## Administration+, on en parle !
+### Qu'est-ce que Administration+ ?
 
-> Une telle expérimentation, complémentaire des médiations institutionnelles, notamment parce qu’elle est au contact direct des publics fragiles, peut avoir un effet positif pour l’accès aux droits et aux services publics des personnes les plus vulnérables. Et on peut également y voir une occasion pour les médiateurs de se recentrer sur leur cœur de métier
+**Administration+** est une messagerie sécurisée **mettant en relation des aidants**, comme les Conseillers France services et les travailleurs sociaux, **avec des agents d’organismes publics** comme la Caf.\
+Ensemble, ils règlent rapidement les blocages administratifs urgents ou inextricables des citoyens, luttant ainsi contre le non-recours aux droits.\
+**Administration+ simplifie les relations entre administrations pour faciliter la vie des citoyens !**
 
-*Médiation accomplie ? Discours et pratiques de la médiation entre citoyens et administrations*, [rapport France Stratégie, 2 juillet 2019](https://www.strategie.gouv.fr/publications/mediation-accomplie-discours-pratiques-de-mediation-entre-citoyens-administrations).
+### Comment fonctionne Administration+
 
-## État du déploiement
+Administration+ est une** messagerie sécurisée** réservée aux conseillers France services, à quelques travailleurs sociaux et agents d’opérateurs de l’État (CPAM, DDFIP, MSA, Caf, etc.), qui permet de résoudre les blocages administratifs inextricables et urgents des citoyens. Pour des raisons diverses, ces blocages ne sont pas traités par les canaux d’informations classiques. Ils doivent cependant être résolus en urgence pour éviter de faire basculer le citoyen dans la précarité.
 
-### Décembre 2017
+**Le citoyen en situation de fragilité sociale** (perte de mobilité, illectronisme, illettrisme, handicap, hospitalisation, etc.) **n’a pas directement accès à Administration+** : c’est un conseiller France service, ou un travailleur social qui utilise la plateforme pour répondre à son problème avec son autorisation (mandat).
 
-* Argenteuil (Val-d'Oise) : premier territoire à utiliser Administration+. En un an, plus de 300 situations critiques ont été traitées. Les Agents+ ont jugé pertinentes les demandes des Aidants+ à près de 90%.
+Concrètement, un **Aidant** utilise la plateforme pour signaler un blocage dans le dossier d’un citoyen. La demande est qualifiée et transmise à ou aux administrations compétentes. Le(s) référent(s) de l’administration compétente, l’**Instructeur**, prend connaissance de la situation. Il peut à son tour contacter d’autres Instructeurs lorsque le problème concerne différentes administrations. Une fois le blocage identifié et corrigé, l’Instructeur avise aussitôt l’Aidant ou le citoyen.
 
-### Mars 2018
+**Administration+ repose sur 3 principes clés :**
 
-* Nice (Alpes-Maritimes)
+*   Confidentialité
+*   Simplicité
+*   Traçabilité
 
-### Juin 2018
+L’accès à l'outil s’effectue depuis les boites e-mails professionnelles des agents ; aucun logiciel supplémentaire n’est à installer. Seuls l’Aidant et les Instructeurs saisis lors d’une demande ont accès à son contenu et aux informations personnelles concernant le citoyen. Les demandes sont historisées pour faciliter le suivi.
 
-* Cahors (Lot) dans le cadre de [l’expérimentation “Carte Blanche”](https://www.modernisation.gouv.fr/nos-actions/carte-blanche) de la direction interministérielle de la transformation publique (DITP)
+** **
 
-### Février 2019
+## L'impact d'Administration+ dans la vie des citoyens
 
-* Cagnes-sur-Mer (Alpes Maritime)
+La valeur ajoutée d’Administration+ tient dans la rapidité de résolution des blocages, qui génère un réel gain de temps par rapport aux voies habituelles.
 
-### Mars 2019
+Administration+ c'est avant tout une communauté d'agents publics et d'aidants professionnels (conseiller France services et travailleurs sociaux) engagés pour faire remonter les blocages des citoyens :
 
-* Cœur-de-Perche (Orne) dans le cadre de [l'expérimentation “Service Public +”](https://www.modernisation.gouv.fr/nos-actions/les-services-publics) de la DITP
+*   Près de 8000 utilisateurs actifs de la messagerie
+*   Plus de 12000 demandes ouvertes (1 demande = 1 blocage urgent) chaque mois
 
-### Avril 2019
+Chaque demande ouverte dans la messagerie est l'opportunité de résoudre rapidement un blocage urgent avant que la situation du citoyen ne s'envenime : exclusion sociale, difficultés financières...
 
-* Marseille (Bouches-du-Rhône) avec la participation du [Lab Zéro](https://www.lelabzero.fr/)
-* Béthune (Pas-de-Calais) dans le cadre de l'expérimentation “Service Public +” de la DITP
+Par conséquent la métrique phare du produit est le nombre de demandes résolues en moins de 7 jours.
 
-### Mai 2019
+*   3/4 des demandes sont résolues en moins de 7 jours
 
-* Lyon (Rhône), Quartier des États-Unis, dans le cadre de l'expérimentation “Service Public +” de la DITP
+Chaque demande résolue en moins de 7 jours est une situation de non-recours aux droits évitée.
 
-### De novembre 2019 à aujourd'hui
+## Temps forts du déploiement national
 
-* Administration+ équipe l'ensemble des France services depuis la première vague de labellisation. L'ensemble du territoire est couvert depuis 2020 avec l'ouverture des France services du Territoire de Belfort.
+Lancé en décembre 2017 à Argenteuil (Val-d’Oise), Administration+ a permis de traiter plus de 300 situations critiques dès sa première année.\
+Entre mars 2018 et mai 2019, l’outil a été déployé dans plusieurs territoires, dont Nice, Cahors, Cagnes-sur-Mer, Cœur-de-Perche, Marseille, Béthune et Lyon, dans le cadre des expérimentations « Carte Blanche » et « Service Public + » menées par la DITP, en lien avec le Lab Zéro.\
+Fin 2019, le dispositif s’est étendu aux structures France services, avec déploiement national intensif, aboutissant à une couverture totale entre 2020 et 2024.\
+En juillet 2024, l’Incubateur des territoires de l’ANCT reprend le produit, suivi par un renforcement de l’équipe dédiée. Début 2025, des webinaires d’accompagnement sont lancés pour les utilisateurs et une expérimentation démarre dans trois CCAS pilotes (Rennes, Lille et Vannes) intégrés au programme Territoire Zéro Non-Recours.
 
-### Et d'autres à venir...
+**Et d’autres à venir…**
 
-Administration+ se développe et tisse de nombreux partenariats afin de pouvoir proposer l'outil au plus grand nombre d'Aidants et d'Agents. Notre objectif ? Une couverture à 100% de celles et ceux qui peuvent aider à impacter positivement la vie des usagers !
+Administration+ se développe et tisse de nombreux partenariats afin de pouvoir proposer l’outil au plus grand nombre d’Aidants et d’administrations. Notre objectif ? Une couverture à 100% de celles et ceux qui peuvent aider à impacter positivement la vie des citoyens !
 
-## Vous souhaitez rejoindre la communauté Administration+ ?
+## **Vous souhaitez rejoindre la communauté Administration+ ?**
 
-Vous êtes au contact des usagers, vous êtes sur un des territoires déjà ouvert et vous souhaitez avoir accès à la plateforme ?
+Vous êtes au contact des citoyens et vous souhaitez avoir accès à la plateforme ?
 
-Vous supervisez une ou plusieurs équipes de travailleurs sociaux ou apparentés, vous souhaitez rejoindre la communauté ?
+Vous supervisez une ou plusieurs équipes de travailleurs sociaux ou apparentés et souhaitez rejoindre la communauté ?
 
-Vous travaillez auprès d’un opérateur public, vous souhaitez participer au déploiement national d’Administration+ ?
+Vous entretenez des relations de proximité avec les administrations de votre territoire ?
+
+Vous travaillez auprès d’une administration publique et souhaitez participer au déploiement national d’Administration+ ?
 
 [Contactez-nous !](mailto:contact@aplus.beta.gouv.fr?subject=Contact%20Site%20Beta%20Gouv)

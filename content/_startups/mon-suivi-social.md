@@ -11,7 +11,7 @@ sponsors:
   - /organisations/anct
 link: https://monsuivisocial.incubateur.anct.gouv.fr/
 stats: false
-dashlord_url: https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/monsuivisocial-incubateur-anct-gouv-fr/
+dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/monsuivisocial-incubateur-anct-gouv-fr/
 phases:
   - name: investigation
     start: 2021-06-01

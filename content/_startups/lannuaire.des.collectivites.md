@@ -26,6 +26,11 @@ events:
   - name: fast
     date: 2024-01-01
     comment: Montant de 300000€ pour la promotion 13
+analyse_risques: true
+mon_service_securise: true
+stats_url: https://collectivite.fr/stats
+usertypes: []
+techno: []
 ---
 ## Contexte
 
