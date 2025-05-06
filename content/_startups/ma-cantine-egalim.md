@@ -17,15 +17,17 @@ link: https://ma-cantine.agriculture.gouv.fr
 repository: https://github.com/betagouv/ma-cantine
 stats: true
 stats_url: https://ma-cantine.agriculture.gouv.fr/statistiques-plateforme
-budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow
+budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Ma%20cantine
 contact: contact@egalim.beta.gouv.fr
 usertypes:
   - entreprise
+  - particulier
+  - collectivite-territoriale
+  - etat
 fast:
   promotion: 13
   montant: 250000
 thematiques:
-  - Santé
   - Administratif
   - Alimentation
 accessibility_status: partiellement conforme
@@ -82,6 +84,6 @@ dans cet échantillon, une part de produits bio estimée à 13% en moyenne en 20
 Pour plus d'informations, consulter le rapport annuel 2023
 [Pour plus d'informations, consulter le rapport annuel 2023](https://894795896-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MSCF7Mdc8yfeIjMxMZr%2Fuploads%2FbEQa5jADHE8lP17X4lg4%2FBilan%20statistique%20EGALIM%202023_macantine.pdf?alt=media&token=2b11edf6-0b82-4d1c-8cea-ce2ab95d712f) ou les [statistiques de la plateforme](https://ma-cantine-metabase.cleverapps.io/public/dashboard/3dab8a21-c4b9-46e1-84fa-7ba485ddfbbb)
 
-## Vous souhaitez nous aider, participer à ce produit ? 
+## Vous souhaitez nous aider, participer à ce produit ?
 
 Que vous soyez un acteur de la restauration collective, un·e convive ou simplement curieux·se, vos retours et avis sont toujours bons à prendre et nous serions ravi·e·s d'échanger avec vous ! N'hésitez pas à nous contacter via notre adresse de contact : contact@egalim.beta.gouv.fr !
