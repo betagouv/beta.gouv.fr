@@ -1,6 +1,6 @@
 ---
 fullname: Victor Delavaud
-role: Chef de pôle adjoint
+role: Responsable des relations institutionnelles IA
 domaine: Autre
 link: https://www.linkedin.com/in/victordelavaud/
 competences:
@@ -8,10 +8,10 @@ competences:
   - Droit / Affaires juridiques
   - Administration Publique
 missions:
-  - start: 2023-12-18
-    end: 2026-12-18
+  - start: 2023-12-01
+    end: 2026-12-01
     status: admin
     employer: DINUM
 teams:
-  - /teams/al-lia-nce-animation
+  - /teams/al-lia-nce-transverse
 ---
