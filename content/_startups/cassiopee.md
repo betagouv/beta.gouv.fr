@@ -4,7 +4,7 @@ mission: Optimiser les parcours de formation des officiers souhaitant revenir à
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
-contact: mathieu.mahr@beta.gouv.fr
+contact: jennifer.le-cann@beta.gouv.fr
 phases:
   - name: investigation
     comment: Définition des acteurs et exploration des besoins utilisateurs. Réalisation de prototypes, tests utilisateurs, définition de la vision du projet et approfondissement des besoins du futur système.
@@ -17,6 +17,8 @@ phases:
     start: 2022-06-06
   - name: transfer
     start: 2024-03-25
+  - name: success
+    start: 2025-06-30
 usertypes:
   - etat
 thematiques:

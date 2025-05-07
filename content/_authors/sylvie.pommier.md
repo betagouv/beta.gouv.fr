@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2025-03-28
     end: 2025-09-28
-    employer: DGESIP-DGRI
     status: admin
+    employer: DGESIP-DGRI
     startups:
       - plateforme-d-admission-au-doctorat
 ---
