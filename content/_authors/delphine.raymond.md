@@ -13,11 +13,17 @@ missions:
       - cadransolaire
       - potentiel
   - start: 2023-05-01
-    end: 2025-06-30
+    end: 2025-10-31
     status: independent
     employer: Malt + Dynergie
     startups:
       - longuevieauxobjets
+  - start: 2025-01-01
+    end: 2025-05-31
+    status: independent
+    employer: Dynergie
+    startups:
+      - plus-frais-au-travail
 badges:
   - segur
 competences:

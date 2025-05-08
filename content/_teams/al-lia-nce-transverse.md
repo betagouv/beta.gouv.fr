@@ -1,5 +1,5 @@
 ---
-name: Responsable de portefeuille
+name: Transverse
 incubator: L'incubateur IA de l'État
 mission: ''
 ---

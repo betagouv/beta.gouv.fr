@@ -14,7 +14,6 @@ techno:
   - Scala
   - Play Framework
   - PostgreSQL
-  - Atos Worldine
   - OpenShift
   - Brevo
 title: Administration+
@@ -31,6 +30,10 @@ phases:
     start: 2019-07-01
 mon_service_securise: true
 dashlord_url: https://dashlord.incubateur.net/url/aplus-beta-gouv-fr/disponibilite/
+events:
+  - name: committee
+    date: 2025-02-05
+    comment: Comité d'investissement
 ---
 # **Administration+**
 
@@ -42,15 +45,9 @@ Résoudre les blocages administratifs complexes et/ou urgents des citoyens
 
 ## Un problème qui peut toucher tout le monde : être privé de ses droits à cause de blocages administratifs
 
-En 2017, **Zohra Lebel-Sedki** était en poste à la Direction de l’Information Légale et Administrative (DILA). Elle décide de participer à un **challenge intrapreneurial** organisé par la DINSIC et [beta.gouv.fr](http://beta.gouv.fr). Elle se base sur son expérience professionnelle. Pendant plus de trois ans, elle a répondu aux messages du site [service-public.fr](http://service-public.fr). Elle a constaté que **de nombreux usagers étaient bloqués dans leurs démarches administratives**. Désespérés, ils pouvaient passer d’un comportement agressif à une posture d’abandon total de leurs droits.
-
-**La Startup d’État alors appelée « A+ » est lancée en septembre 2017**. La plateforme a été lancée en expérimentation dès décembre 2017 sur Argenteuil (Val-d’Oise, 95). **Le premier cas concret a été réglé en une semaine**.
-
-*(suggestion CLP pour ce bloc : changement ordre des phrases + tout au présent pour simplifier la lecture)*
-
 En 2017, **Zohra Lebel-Sedki** est en poste à la Direction de l’Information Légale et Administrative (DILA). Chaque jour, elle répond aux messages des usagers du site [service-public.fr](http://service-public.fr). Son constat : **de nombreux citoyens sont bloqués dans leurs démarches administratives**. Désespérés, ils passent parfois d’un comportement agressif à une posture d’abandon total de leurs droits. Zohra décide de participer à un **challenge intrapreneurial** organisé par la DINSIC et [beta.gouv.fr](http://beta.gouv.fr) pour trouver une solution à ce problème.
 
-**En septembre 2017, la Startup d’État alors appelée « A+ » est lancée. **La première expérimentation a lieu à Argenteuil (Val-d’Oise, 95) dès décembre 2017. **Le premier cas concret a été réglé en une semaine**.
+**En septembre 2017, la Startup d’État alors appelée « A+ » est lancée. La première expérimentation a lieu à Argenteuil (Val-d’Oise, 95) dès décembre 2017. Le premier cas concret a été réglé en une semaine.**
 
 « J’ai été surprise de l’accueil de ce projet : les administrations sont bienveillantes avec un tel dispositif, qui vient en complément de leurs services ! Ce qui m’a poussé à faire ce choix, c’est que les blocages inextricables ne sont pas une charge de travail en plus pour les organismes. Ces dossiers ne sont pas des dossiers supplémentaires : ce sont des dossiers courants, urgents, de citoyens bien réels, qui un jour ou l’autre arriveront sur les bureaux des administrations. La question, c’est de savoir : préférons-nous que ces dossiers arrivent plus rapidement pour avoir une prise en charge immédiate ne pénalisant pas l’usager, ou bien est ce qu’on attend que la situation se gangrène, que les conséquences empirent et que le dossier parte en contentieux ? »
 
@@ -60,17 +57,15 @@ En 2017, **Zohra Lebel-Sedki** est en poste à la Direction de l’Information L
 
 ### Qu'est-ce que Administration+ ?
 
-**Administration+** est une messagerie sécurisée **mettant en relation des aidants**, comme les Conseillers France services et les travailleurs sociaux, **avec des agents d’organismes publics** comme la Caf.\
+**Administration+** est une messagerie sécurisée **mettant en relation des aidants**, comme les Conseillers France services et les travailleurs sociaux, **avec des agents d’organismes publics** comme la CAF, la CPAM, la MSA, la CNAV/CARSAT, la DGFIP, France Travail...\
 Ensemble, ils règlent rapidement les blocages administratifs urgents ou inextricables des citoyens, luttant ainsi contre le non-recours aux droits.\
 **Administration+ simplifie les relations entre administrations pour faciliter la vie des citoyens !**
 
 ### Comment fonctionne Administration+
 
-Administration+ est une** messagerie sécurisée** réservée aux conseillers France services, à quelques travailleurs sociaux et agents d’opérateurs de l’État (CPAM, DDFIP, MSA, Caf, etc.), qui permet de résoudre les blocages administratifs inextricables et urgents des citoyens. Pour des raisons diverses, ces blocages ne sont pas traités par les canaux d’informations classiques. Ils doivent cependant être résolus en urgence pour éviter de faire basculer le citoyen dans la précarité.
-
 **Le citoyen en situation de fragilité sociale** (perte de mobilité, illectronisme, illettrisme, handicap, hospitalisation, etc.) **n’a pas directement accès à Administration+** : c’est un conseiller France service, ou un travailleur social qui utilise la plateforme pour répondre à son problème avec son autorisation (mandat).
 
-Concrètement, un **Aidant** utilise la plateforme pour signaler un blocage dans le dossier d’un citoyen. La demande est qualifiée et transmise à ou aux administrations compétentes. Le(s) référent(s) de l’administration compétente, l’**Instructeur**, prend connaissance de la situation. Il peut à son tour contacter d’autres Instructeurs lorsque le problème concerne différentes administrations. Une fois le blocage identifié et corrigé, l’Instructeur avise aussitôt l’Aidant ou le citoyen.
+Concrètement, un **Aidant** utilise la messagerie pour signaler un blocage dans le dossier d’un citoyen. La demande est qualifiée et transmise à ou aux administrations compétentes. Le(s) référent(s) de l’administration compétente, l’**Instructeur**, prend connaissance de la situation. Il peut à son tour contacter d’autres Instructeurs lorsque le problème concerne différentes administrations. Une fois le blocage identifié et corrigé, l’Instructeur avise aussitôt l’Aidant et/ou le citoyen.
 
 **Administration+ repose sur 3 principes clés :**
 
@@ -86,18 +81,16 @@ L’accès à l'outil s’effectue depuis les boites e-mails professionnelles de
 
 La valeur ajoutée d’Administration+ tient dans la rapidité de résolution des blocages, qui génère un réel gain de temps par rapport aux voies habituelles.
 
-Administration+ c'est avant tout une communauté d'agents publics et d'aidants professionnels (conseiller France services et travailleurs sociaux) engagés pour faire remonter les blocages des citoyens :
+Une importante communauté d'agents publics et d'aidants professionnels (conseiller France services et travailleurs sociaux) sont engagés pour faire remonter les blocages des citoyens :
 
 *   Près de 8000 utilisateurs actifs de la messagerie
-*   Plus de 12000 demandes ouvertes (1 demande = 1 blocage urgent) chaque mois
+*   Plus de 12000 demandes ouvertes chaque mois (1 demande = 1 blocage urgent)
 
-Chaque demande ouverte dans la messagerie est l'opportunité de résoudre rapidement un blocage urgent avant que la situation du citoyen ne s'envenime : exclusion sociale, difficultés financières...
+Chaque demande ouverte dans la messagerie est l'opportunité de résoudre rapidement la situation du citoyen avant qu'elle s'envenime : exclusion sociale, difficultés financières...
 
-Par conséquent la métrique phare du produit est le nombre de demandes résolues en moins de 7 jours.
+Par conséquent la métrique phare du produit est le **nombre de demandes résolues en moins de 7 jours**, équivalent au nombre de non-recours aux droits évités.
 
-*   3/4 des demandes sont résolues en moins de 7 jours
-
-Chaque demande résolue en moins de 7 jours est une situation de non-recours aux droits évitée.
+*   3/4 des demandes sont résolues en moins de 7 jours !
 
 ## Temps forts du déploiement national
 
@@ -108,7 +101,8 @@ En juillet 2024, l’Incubateur des territoires de l’ANCT reprend le produit, 
 
 **Et d’autres à venir…**
 
-Administration+ se développe et tisse de nombreux partenariats afin de pouvoir proposer l’outil au plus grand nombre d’Aidants et d’administrations. Notre objectif ? Une couverture à 100% de celles et ceux qui peuvent aider à impacter positivement la vie des citoyens !
+Administration+ se développe et tisse de nombreux partenariats afin de pouvoir proposer l’outil au plus grand nombre d’Aidants et d’administrations.\
+Notre objectif ? Une couverture à 100% de celles et ceux qui peuvent aider à impacter positivement la vie des citoyens !
 
 ## **Vous souhaitez rejoindre la communauté Administration+ ?**
 

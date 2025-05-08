@@ -5,7 +5,7 @@ github: EmilienGuillemot
 domaine: Déploiement
 missions:
   - start: 2021-07-08
-    end: 2025-12-31
+    end: 2025-10-31
     status: independent
     employer: INETUM - LBC
     startups:

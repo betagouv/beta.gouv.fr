@@ -11,6 +11,12 @@ missions:
     startups:
       - sirius
       - uai_siret
+  - start: 2025-06-02
+    end: 2025-11-03
+    status: independent
+    employer: ut7
+    startups:
+      - tdb-apprentissage
 memberType: beta
 competences: []
 ---
