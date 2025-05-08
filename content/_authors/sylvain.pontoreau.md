@@ -6,7 +6,7 @@ link: https://github.com/spontoreau
 github: spontoreau
 missions:
   - start: 2023-02-14
-    end: 2025-07-03
+    end: 2025-05-02
     status: independent
     employer: Malt
     startups:

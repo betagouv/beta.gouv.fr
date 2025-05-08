@@ -1,7 +1,7 @@
 ---
 fullname: Juliette Palumbo
 domaine: Produit
-role: UX Researcher, Facilitatrice
+role: UX Researcher, Design de service, Facilitatrice
 github: juliette-pal
 missions:
   - start: 2020-09-01
@@ -9,7 +9,7 @@ missions:
     status: service
     employer: lazone/scopyleft
   - start: 2021-07-01
-    end: 2025-05-30
+    end: 2025-09-30
     status: service
     employer: lazone/scopyleft
     startups:
@@ -22,8 +22,8 @@ missions:
       - equipements-bio
 competences:
   - UX
-  - Gestion de Produit
   - Coaching
-  - Communication
+  - Facilitation
+  - Product design
 link: https://www.linkedin.com/in/juliettepalumbo/
 ---

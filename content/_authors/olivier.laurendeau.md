@@ -9,7 +9,7 @@ competences:
   - PostgreSQL
 missions:
   - start: 2024-08-12
-    end: 2025-04-02
+    end: 2025-07-02
     status: independent
     employer: Scopylefft
 ---
