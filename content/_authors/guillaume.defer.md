@@ -6,6 +6,7 @@ link: https://www.linkedin.com/in/guillaumedefer/
 competences:
   - Administration Publique
   - Croissance
+  - Metabase
 missions:
   - start: 2024-10-07
     end: 2028-11-01

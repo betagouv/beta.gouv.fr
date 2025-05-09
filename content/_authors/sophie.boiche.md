@@ -9,8 +9,9 @@ competences:
 missions:
   - start: 2025-05-06
     end: 2025-11-05
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - territoires-en-transitions
 ---
+J’aime simplifier les choses compliquées, créer du lien, profiter des échanges qui durent et marcher longtemps. 
