@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: mathieu.mahr@beta.gouv.fr
+contact: jennifer.le-cann@beta.gouv.fr
 thematiques:
   - management
   - qualité
@@ -13,8 +13,10 @@ title: ORIANE
 mission: Systématiser le management de la qualité au sein de la DGA (MinArm)
 incubator: fabnumdef
 phases:
-  - name: alumni
+  - name: investigation
     start: 2024-04-30
+  - name: construction
+    start: 2024-08-01
 events:
   - name: product_launch
     date: 2024-08-23

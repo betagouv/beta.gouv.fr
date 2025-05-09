@@ -11,7 +11,7 @@ usertypes:
   - association
 title: Recocyber
 mission: Démocratiser les conseils cyber de l'ANSSI en apportant à toutes les questions cyber des spécialistes et des informaticien/nes
-incubator: ALLiaNCE
+incubator: L'incubateur IA de l'État
 sponsors:
   - /organisations/anssi
 phases:

@@ -8,7 +8,7 @@ link: https://snu.gouv.fr/
 repository: https://github.com/betagouv/service-national-universel
 contact: contact@snu.gouv.fr
 stats: true
-stats_url: https://data.snu.gouv.fr/public/dashboard/9331f066-bc6d-4e32-a481-4831e1ec5174?date=thisyear&d%25C3%25A9partement=
+stats_url: https://data.snu.gouv.fr/public/dashboard/ee539381-3bf4-4c0f-90de-e1aa0b81b41b
 phases:
   - name: investigation
     start: 2020-04-01
@@ -26,6 +26,7 @@ thematiques:
   - Education
 analyse_risques: false
 techno: []
+mon_service_securise: true
 ---
 **Contexte**
 
