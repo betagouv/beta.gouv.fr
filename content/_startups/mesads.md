@@ -1,6 +1,6 @@
 ---
-title: Mes autorisations de stationnement
-mission: Faciliter la constitution d'une base des licences de taxis en France
+title: MesADS, l'outil de référence du secteur taxi
+mission: Faciliter la gestion des taxis en France
 sponsors:
   - /organisations/dgitm
 incubator: mtes
@@ -9,6 +9,8 @@ phases:
     start: 2020-07-21
   - name: construction
     start: 2021-11-01
+  - name: acceleration
+    start: 2023-01-11
 link: https://mesads.beta.gouv.fr/
 repository: https://github.com/mesadsfr/mesads
 contact: equipe@mesads.beta.gouv.fr
@@ -21,23 +23,49 @@ thematiques:
   - Transports
 techno: []
 ---
-## Problème investigué
+##  Le défi (2022)
 
-A ce jour, les 12 000 gestionnaires d'autorisations de stationnement de taxis (ADS) ne disposent d’aucun outil informatique dédié pour tenir à jour un registre des ADS délivrées, à l’exception des plus importantes d’entre elles (préfecture de police de Paris, métropole de Lyon et ville de Marseille). Le recensement des ADS de 2016, piloté par la DSCR, a permis de mettre en lumière des pratiques archaïques (tenu de registres manuscrits) et des anomalies dans la gestion des ADS (ADS en exploitation non connues par les gestionnaires, ADS non exploitées, absence d’arrêtés pour l’attribution des ADS, etc.), principalement dues à la méconnaissance d'une réglementation ancienne et complexe. 
-Alors même que la profession de taxi est réglementée, l’administration locale comme centrale, sont dans l’incapacité de donner une mesure exacte du nombre de taxis en circulation, ne disposent pas de données sur leurs caractéristiques comme le nombre de taxis PMR et propres, ainsi que sur les titulaires et les exploitants de ces autorisations administratives. Les outils réglementaires qui permettent d'améliorer le service à l'usager sont peu utilisés : régulation du nombre de véhicules PMR, propre, mise en place de services à des horaires spécifiques, etc. Le partage de la connaissance du secteur et de sa réglementation est indispensable pour piloter plus efficacement le secteur, et pour mettre en place des politiques de modernisation et de sécurisation plus ambitieuses.
+Dans un secteur réglementé comptant 60 000 taxis en France, les 17 000 gestionnaires d'Autorisations De Stationnement (ADS) au sein des collectivités territoriales font face à :
+-	Une réglementation complexe et mal maîtrisée
+-	Des procédures administratives hétérogènes
+-	Un manque de transparence (listes d'attente non publiées)
+-	Une absence de vision globale du secteur
+Cette disparité de gestion sur le territoire national nuit à tous les acteurs : collectivités, chauffeurs et usagers.
 
-## Solution envisagée
 
-L’investigation menée auprès des acteurs locaux du secteur a permis de confirmer l’existence de problèmes récurrents dans la gestion des ADS. Les gestionnaires d’ADS sont confrontés à des incertitudes sur la réglementation et les procédures administratives en vigueur pour la gestion courante de ces autorisations. Dans les faits, cette confusion provoque une hétérogénéité des pratiques de la part des gestionnaires et des préfectures.
+## Notre solution
+MesADS est la première plateforme nationale qui centralise et harmonise la gestion administrative du secteur des taxis en France.
 
-La phase d’investigation a permis de dresser une première liste des fonctionnalités prioritaires, pour répondre aux besoins des utilisateurs finaux et des parties prenantes :  
+Notre mission : Accompagner les collectivités territoriales dans leurs obligations légales concernant les autorisations de stationnement (délivrance, transfert, renouvellement, retrait) tout en garantissant transparence et équité pour les professionnels.
 
-* Pour guider les gestionnaires, le produit devra comporter un workflow, permettant de baliser les procédures relatives à la gestion de ces autorisations. Ce workflow contribuera également à clarifier aux conducteurs de taxis l’ensemble des démarches à effectuer auprès des gestionnaires. 
-* Le produit devra comporter une fonctionnalité d’édition semi-automatisée des arrêtés relatifs aux ADS pour assister les gestionnaires dans la rédaction de ces actes. 
-* Pour rappeler aux professionnels taxis les démarches à effectuer périodiquement, un système d’alertes devra être intégré à l’outil, notamment pour les divers renouvellements de droits. 
-* Dans la philosophie de « dites-le nous une fois » (DLNUF), la sécurisation de la gestion des ADS aura pour finalité de fournir aux conducteurs de taxis un service d’ « autorité certifiante », pour éviter la représentation des mêmes justificatifs auprès d’autres administrations, pour attester de la régularité de leur activité (conventionnement auprès l’Assurance maladie, remboursement de la TICPE, connexion obligatoire à le.taxi) 
-* Les données recueillies dans le cadre de la gestion courante des ADS pourront être accessibles aux préfectures et à l’administration centrale pour le pilotage (local et national) du secteur.
+Nos fonctionnalités clés :
+-	Gestion complète des  autorisations de stationnement pour les collectivités
+-	Centralisation des démarches administratives
+-	Répertoire de véhicules de remplacement (depuis 2024)
+-	Gestion transparente des listes d'attente (nouveau 2025)
 
-## Lancement du produit dans le cadre de la Startup d'Etat le.taxi
+MesADS connecte administrations et professionnels pour une gestion fluide, équitable et conforme à la réglementation.
 
-Fin 2021, la DGITM décide de confier les travaux autour de cet outil de gestion des ADS [à l'équipe de la Startup d'Etat le.taxi](https://beta.gouv.fr/startups/le-taxi.html).
+## Impact concret
+Au-delà de la simplification administrative, MesADS transforme le secteur :
+
+Pour les collectivités (35 000) :
+-	Sécurité juridique renforcée
+-	Réduction des contentieux
+-	Conformité réglementaire assurée
+
+Pour les chauffeurs (plus de 60 000) :
+-	Égalité de traitement garantie
+-	Transparence des procédures
+-	Accès simplifié à la profession
+
+Pour les politiques publiques :
+-	Données fiables pour le pilotage du secteur
+-	Levier pour les transitions écologiques et d'accessibilité
+-	Gouvernance nationale harmonisée
+
+Aujourd'hui : Plus de 52 000  autorisations de stationnement déjà enregistrées
+
+Objectifs 2025 :
+-	95% des autorisations de stationnement enregistrées sur l'ensemble du territoire national
+-	100% de données fiables pour les départements

@@ -12,6 +12,6 @@ missions:
     status: admin
     employer: DINUM
 teams:
-  - /teams/al-lia-nce-animation
+  - /teams/al-lia-nce-transverse
 link: https://www.linkedin.com/in/alebernard/
 ---
