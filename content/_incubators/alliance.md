@@ -2,7 +2,8 @@
 address: 20 Av. de Ségur, 75007 Paris
 contact: alliance@numerique.gouv.fr
 title: ALLiaNCE
-website: https://alliance.numerique.gouv.fr/
+website: https://alliance.numerique.gouv.fr
+logo: logo_alliance.png
 highlighted_startups:
   - albert-api
   - investigation-cour-d-appel-de-paris
