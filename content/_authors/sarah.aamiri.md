@@ -8,8 +8,9 @@ competences:
 missions:
   - start: 2025-05-05
     end: 2025-08-29
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - datalma
+github: sarah-aamiri
 ---

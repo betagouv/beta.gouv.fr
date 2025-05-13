@@ -1,6 +1,6 @@
 ---
 fullname: Antoine Dupuy
-role: Lead Business Developer, Responsable de déploiement
+role: 'Lead Business Developer, Responsable de déploiement '
 domaine: Déploiement
 missions:
   - start: 2022-09-26
@@ -9,6 +9,8 @@ missions:
     employer: Omnicité
     startups:
       - homologation
+      - mes-services-cyber
+      - mon-aide-cyber
 badges:
   - segur
 competences: []

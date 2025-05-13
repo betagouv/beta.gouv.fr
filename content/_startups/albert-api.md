@@ -12,7 +12,7 @@ techno:
   - fastapi
 title: Albert API
 mission: Fournir des services d'IA générative aux administrations
-incubator: ALLiaNCE
+incubator: alliance
 sponsors:
   - /organisations/dinum
 phases:
