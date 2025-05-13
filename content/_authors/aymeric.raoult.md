@@ -5,7 +5,7 @@ role: Coach
 github: AymericRlt
 missions:
   - start: 2021-01-04
-    end: 2025-04-30
+    end: 2025-06-30
     status: service
     employer: Numa
     startups:
@@ -16,7 +16,7 @@ missions:
       - non-recours-spie
       - qualite-eau
   - start: 2024-02-21
-    end: 2025-06-30
+    end: 2025-10-30
     status: service
     employer: Dynergie
     startups:

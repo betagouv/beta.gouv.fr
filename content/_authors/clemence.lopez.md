@@ -12,6 +12,22 @@ missions:
     end: 2026-09-01
     status: admin
     employer: Dinum
+    startups:
+      - 1-eleve-1-stage
+      - application-perseverance
+      - cestquilepro
+      - compte.ressources
+      - exposition-ij
+      - je-deviens-etudiant
+      - lutte.contre.le.harcelement.en.milieu.scolaire
+      - monlyceepro
+      - monprojetsup
+      - parasport
+      - pass-sport
+      - pilotagevoiepro
+      - plateforme-d-admission-au-doctorat
+      - sante-psy-etudiant
+      - valorisation.des.stages.pro
 previously:
   - tchap
   - mon-diagnostic-artificialisation
@@ -24,4 +40,5 @@ badges:
 teams:
   - /teams/dinum-incubateur
   - /teams/menj-responsable-de-portefeuille
+competences: []
 ---

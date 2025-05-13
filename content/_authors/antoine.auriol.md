@@ -4,7 +4,7 @@ role: UX
 domaine: Produit
 missions:
   - start: 2023-11-01
-    end: 2025-06-10
+    end: 2025-04-08
     status: admin
     startups:
       - poe.facilite

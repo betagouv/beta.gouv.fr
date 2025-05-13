@@ -19,7 +19,7 @@ events:
     date: 2021-12-31
 link: https://labonnealternance.apprentissage.beta.gouv.fr
 repository: https://github.com/mission-apprentissage/labonnealternance
-stats_url: https://labonnealternance.apprentissage.beta.gouv.fr/stats
+stats_url: https://labonnealternance.apprentissage.beta.gouv.fr/statistiques
 stats: true
 contact: labonnealternance@apprentissage.beta.gouv.fr
 redirect_from:
@@ -40,10 +40,10 @@ thematiques:
   - Formation
 techno: []
 ---
-**La bonne alternance a été initiée au sein de l'incubateur de Pôle Emploi et incubée au sein de la mission interministérielle pour l’apprentissage de 2020 à 2024.**
+**La bonne alternance a été initiée au sein de l'incubateur de Pôle Emploi, incubée au sein de la mission interministérielle pour l’apprentissage de 2020 à 2024 et est désormais éditée par la Délégation générale à l’emploi et à la formation professionnelle (DGEFP)**
 
 
-[La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) est un service destiné à faciliter la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises. D’abord développé par Pôle emploi, le service La bonne alternance a été repris en 2020 par la Mission interministérielle pour l’apprentissage dans l’objectif de renforcer l'accompagnement des jeunes intéressés par l'apprentissage, ainsi que des CFA et recruteurs accueillant des apprentis.
+[La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) est un service destiné à faciliter les entrées en alternance en simplifiant la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises et grâce à un accompagnement des jeunes intéressés par l'apprentissage, ainsi que des CFA et recruteurs accueillant des apprentis.
 
 ## Le constat
 

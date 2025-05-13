@@ -17,12 +17,9 @@ sponsors:
   - /organisations/ademe
 phases:
   - name: investigation
-    comment: null
     start: 2025-01-01
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2025-05-07
 ---
 ## Contexte 👀

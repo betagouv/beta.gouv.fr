@@ -3,7 +3,7 @@ analyse_risques: false
 mon_service_securise: false
 contact: juliette.dixmier@beta.gouv.fr
 repository: https://github.com/numerique-gouv/sites-faciles
-link: https://sites-faciles.beta.numerique.gouv.fr/
+link: https://sites-faciles.beta.numerique.gouv.fr
 thematiques:
   - Outil technique
   - Inclusion numérique
@@ -18,7 +18,11 @@ sponsors:
 phases:
   - name: construction
     start: 2024-01-01
-techno: []
+techno:
+  - python
+  - wagtail
+  - django
+accessibility_status: non conforme
 ---
 ## **Contexte**
 

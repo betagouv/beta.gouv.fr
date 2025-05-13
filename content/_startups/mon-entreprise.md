@@ -26,10 +26,16 @@ stats: true
 contact: contact@mon-entreprise.beta.gouv.fr
 usertypes:
   - entreprise
+  - particulier
+  - association
 stats_url: https://mon-entreprise.urssaf.fr/stats
 accessibility_status: partiellement conforme
 thematiques: []
-techno: []
+techno:
+  - react
+  - publicodes
+  - typescript
+  - redux
 ---
 ## Le drame
 En 2021, on a observé une augmentation de 16 % de créations d’auto-entreprises, et de 24 % des créations de sociétés, pour atteindre le chiffre record d’un million de nouvelles entreprises.
