@@ -17,17 +17,23 @@ missions:
     startups:
       - apilos
   - start: 2024-06-03
-    end: 2025-06-02
+    end: 2025-10-03
     status: independent
     employer: 'Octo Malt '
     startups:
       - envergo
   - start: 2024-06-03
-    end: 2025-06-02
+    end: 2025-10-03
     status: independent
     employer: Octo Malt
     startups:
       - guichet-unique-de-la-haie-envergo-agricole
+  - start: 2025-04-24
+    end: 2025-07-24
+    status: independent
+    employer: Scopopop x La Zone
+    startups:
+      - docurba
 badges:
   - segur
 link: https://www.linkedin.com/in/camille-canaple/

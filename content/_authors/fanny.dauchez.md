@@ -1,7 +1,7 @@
 ---
 fullname: Fanny Dauchez
 domaine: Déploiement
-role: Responsable partenariat
+role: Chargée de déploiement
 github: FannyDauchez
 link: https://www.linkedin.com/in/fanny-dauchez-9b466461/
 missions:
@@ -18,6 +18,8 @@ missions:
   - start: 2022-05-01
     end: 2025-10-31
     status: admin
+    startups:
+      - data-inclusion
 teams:
   - /teams/gip-inclusion
 previously:

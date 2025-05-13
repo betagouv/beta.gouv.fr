@@ -17,5 +17,5 @@ missions:
     startups:
       - aplus
 ---
-CPO chez Administration+, je mets mes 13ans d'expérience en gestion de produit numérique au service de l'impact social.
+CPO chez Administration+, je mets mes 15 ans d'expérience en gestion de produit numérique au service de l'impact social.
 Ex-iGraal, M6 Digital, Atolls

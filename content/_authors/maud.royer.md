@@ -17,6 +17,12 @@ missions:
     employer: Omnicité
     startups:
       - infomedicament
+  - start: 2025-04-01
+    end: 2025-05-31
+    status: service
+    employer: Recoco
+    startups:
+      - recommandations-collaboratives
 memberType: beta
 competences:
   - Administration Système
