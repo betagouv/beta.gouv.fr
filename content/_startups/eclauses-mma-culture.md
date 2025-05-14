@@ -18,17 +18,14 @@ sponsors:
   - /organisations/mission-ministerielle-des-achats-ministere-de-la-culture
 phases:
   - name: investigation
-    comment: null
     start: 2025-02-01
-    end: null
   - name: construction
-    comment: null
     start: 2025-04-23
-    end: null
 events:
   - name: committee
-    comment: Validation du passage en construction
     date: 2025-04-23
+    comment: Validation du passage en construction
+link: ''
 ---
 
 

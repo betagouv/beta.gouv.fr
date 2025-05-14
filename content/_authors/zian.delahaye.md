@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2025-05-14
     end: 2025-08-30
-    employer: BlackFox Partners
     status: service
+    employer: BlackFox Partners
     startups:
       - homologation
 ---

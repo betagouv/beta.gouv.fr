@@ -60,7 +60,7 @@ Les obstacles sont multiples : manque de ressources humaines ou financières, di
 
 ## Solution
 
-Le Guichet territorial pour la Transition écologique vise à **identifier, financer et accompagner des solutions numériques locales à fort impact écologique**, pour leur permettre de changer d’échelle, de s’ouvrir, et d’être réutilisées par d’autres territoires.
+Le Guichet territorial pour la Transition écologique vise à **identifier et accompagner des solutions numériques locales à fort impact écologique**, pour leur permettre de changer d’échelle, de s’ouvrir, et d’être réutilisées par d’autres territoires.
 
 Ce guichet vise notamment à :
 * repérer des **solutions numériques locales utiles à la transition écologique**
