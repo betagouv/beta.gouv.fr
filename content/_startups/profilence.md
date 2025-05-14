@@ -12,9 +12,14 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-01-22
+  - name: construction
+    start: 2025-05-13
 events:
   - name: product_launch
     date: 2025-01-22
+  - name: committee
+    date: 2025-05-12
+    comment: de fin d'investigation // ✅ GO pour l'expérimentation
 usertypes: []
 techno: []
 link: ''
@@ -44,7 +49,7 @@ Aujourd’hui, **1 900 000 demandeurs d’emploi** ont autorisé la promotion de
 
 Des entretiens menés avec des conseillers France Travail ont permis de faire émerger des constats clés :
 
-* 🧱 **Un processus trop long et dispersé** : Jusqu’à 65 étapes ! Des ressaisies, des pertes d’infos, une grande complexité.
+* 🧱 **Un processus trop long et dispersé** : Jusqu’à 45 étapes ! Des ressaisies, des pertes d’infos, une grande complexité.
 * 🧭 **Un besoin fort de centralisation** : Un outil unique est attendu pour gagner en fluidité et en efficacité.
 * 👀 **Un manque de suivi structuré** : Pas de visibilité sur les promotions faites, ni sur leur statut.
 * 🤷 **Peu de retours sur l’impact** : Difficile de savoir si une promotion aboutit à un contact ou une embauche.
@@ -62,6 +67,6 @@ Profilence ambitionne de transformer la promotion de profil en une pratique faci
 
 ## Conclusion
 
-Les enseignements de l’investigation confirment la pertinence de Profilence : un outil co-construit avec les conseillers, qui répond à leurs irritants quotidiens, tout en valorisant les profils des demandeurs d’emploi.
+Les enseignements de l’investigation confirment la pertinence de Profilence : un outil co-construit avec les conseillers, qui répond à leurs irritants quotidiens, tout en valorisant les profils des demandeurs d’emploi. 
 
 ### L’aventure ne fait que commencer… et elle s’écrit avec le terrain.

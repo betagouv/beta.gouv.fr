@@ -6,8 +6,8 @@ competences: []
 missions:
   - start: 2025-05-12
     end: 2025-10-31
-    employer: Scopyleft
     status: independent
+    employer: Scopyleft
     startups:
       - ma-cantine-egalim
 ---

@@ -9,7 +9,6 @@ thematiques:
   - Inclusion numérique
 usertypes:
   - etat
-  - association
 stats_url: https://aplus.beta.gouv.fr/stats
 techno:
   - Scala
@@ -36,21 +35,16 @@ events:
     date: 2025-02-05
     comment: Comité d'investissement
 ---
-# **Administration+**
-
-Résoudre les blocages administratifs complexes et/ou urgents des citoyens
-
-[aplus.beta.gouv.fr](http://aplus.beta.gouv.fr)
-
-[Produit en accélération](https://beta.gouv.fr/approche/acceleration)
-
 ## Un problème qui peut toucher tout le monde : être privé de ses droits à cause de blocages administratifs
+
 En 2017, **Zohra Lebel-Sedki** est en poste à la Direction de l’Information Légale et Administrative (DILA). Chaque jour, elle répond aux messages des usagers du site [service-public.fr](http://service-public.fr). Son constat : **de nombreux citoyens sont bloqués dans leurs démarches administratives**. Désespérés, ils passent parfois d’un comportement agressif à une posture d’abandon total de leurs droits. Zohra décide de participer à un **challenge intrapreneurial** organisé par la DINSIC et [beta.gouv.fr](http://beta.gouv.fr) pour trouver une solution à ce problème.
 
 **En septembre 2017, la Startup d’État alors appelée « A+ » est lancée. La première expérimentation a lieu à Argenteuil (Val-d’Oise, 95) dès décembre 2017. Le premier cas concret a été réglé en une semaine.**
 
 « J’ai été surprise de l’accueil de ce projet : les administrations sont bienveillantes avec un tel dispositif, qui vient en complément de leurs services ! Ce qui m’a poussé à faire ce choix, c’est que les blocages inextricables ne sont pas une charge de travail en plus pour les organismes. Ces dossiers ne sont pas des dossiers supplémentaires : ce sont des dossiers courants, urgents, de citoyens bien réels, qui un jour ou l’autre arriveront sur les bureaux des administrations. La question, c’est de savoir : préférons-nous que ces dossiers arrivent plus rapidement pour avoir une prise en charge immédiate ne pénalisant pas l’usager, ou bien est ce qu’on attend que la situation se gangrène, que les conséquences empirent et que le dossier parte en contentieux ? »\
 *Zohra Lebel-Sedki, fondatrice du projet Administration+*
+
+
 
 ## La solution : une messagerie entre aidants et administrations pour résoudre ces blocages
 
@@ -75,6 +69,7 @@ Concrètement, un **Aidant** utilise la messagerie pour signaler un blocage dans
 L’accès à l'outil s’effectue depuis les boites e-mails professionnelles des agents ; aucun logiciel supplémentaire n’est à installer. Seuls l’Aidant et les Instructeurs saisis lors d’une demande ont accès à son contenu et aux informations personnelles concernant le citoyen. Les demandes sont historisées pour faciliter le suivi.
 
 ** **
+
 
 ## L'impact d'Administration+ dans la vie des citoyens
 
@@ -102,6 +97,7 @@ En juillet 2024, l’Incubateur des territoires de l’ANCT reprend le produit, 
 
 Administration+ se développe et tisse de nombreux partenariats afin de pouvoir proposer l’outil au plus grand nombre d’Aidants et d’administrations.\
 Notre objectif ? Une couverture à 100% de celles et ceux qui peuvent aider à impacter positivement la vie des citoyens !
+
 
 ## **Vous souhaitez rejoindre la communauté Administration+ ?**
 

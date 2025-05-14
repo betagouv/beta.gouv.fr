@@ -42,7 +42,7 @@ Nos fonctionnalités clés :
 -	Gestion complète des  autorisations de stationnement pour les collectivités
 -	Centralisation des démarches administratives
 -	Répertoire de véhicules de remplacement (depuis 2024)
--	Gestion transparente des listes d'attente (nouveau 2025)
+-	Gestion transparente des listes d'attente (nouveauté 2025)
 
 MesADS connecte administrations et professionnels pour une gestion fluide, équitable et conforme à la réglementation.
 
