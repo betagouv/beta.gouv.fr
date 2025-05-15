@@ -10,7 +10,7 @@ missions:
     startups:
       - pass-sport
   - start: 2024-10-03
-    end: 2025-08-30
+    end: 2025-10-30
     status: independent
     employer: AccesLibre
     startups:
