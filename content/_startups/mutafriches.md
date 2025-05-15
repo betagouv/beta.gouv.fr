@@ -9,6 +9,7 @@ thematiques:
 usertypes:
   - collectivite-territoriale
   - entreprise
+techno: []
 title: Mutafriches
 mission: Définir la mutabilité d'un site pour accélérer sa reconversion
 incubator: ademe
@@ -16,14 +17,19 @@ sponsors:
   - /organisations/dgaln
 phases:
   - name: investigation
+    comment: null
     start: 2025-01-06
+    end: null
   - name: construction
+    comment: null
     start: 2025-05-07
+    end: null
 events:
   - name: committee
+    comment: ''
     date: 2025-05-07
-techno: []
-link: ''
+redirect_from:
+  - /startups/friche-reboost
 ---
 ## Constats
 En France, ce sont en moyenne **23 000 hectares** de terres agricoles ou naturelles qui sont urbanisés annuellement, l’équivalent de **15 000 stades de France**. Et c’est encore plus important si on considère le phénomène dans le temps, en **10 ans,** c'est l’équivalent de la superficie de **l’ile de la Réunion** qui a été urbanisée.

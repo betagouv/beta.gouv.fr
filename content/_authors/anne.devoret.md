@@ -36,7 +36,7 @@ missions:
     status: independent
     employer: Dynergie
     startups:
-      - friche-reboost
+      - mutafriches
 badges:
   - segur
 competences: []

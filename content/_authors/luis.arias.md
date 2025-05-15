@@ -4,7 +4,7 @@ fullname: Luis Arias
 role: Développement
 missions:
   - start: 2024-06-17
-    end: 2025-06-14
+    end: 2027-06-14
     status: admin
     employer: DINUM
     startups:
