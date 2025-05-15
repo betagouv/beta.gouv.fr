@@ -9,6 +9,7 @@ contact: enfantsduspectacle@fabrique.social.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - etat
+  - entreprise
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/enfants-du-spectacle-fabrique-social-gouv-fr/
 link: https://enfants-du-spectacle.fabrique.social.gouv.fr/
 phases:
@@ -18,7 +19,8 @@ phases:
   - name: construction
     start: 2021-07-01
     end: 2022-09-01
-thematiques: []
+thematiques:
+  - Travail / Emploi
 techno: []
 stats_url: https://metabase-enfants-du-spectacle.fabrique.social.gouv.fr/public/dashboard/70ae0640-d606-419a-83c9-fe6b0069049d
 ---

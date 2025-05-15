@@ -5,9 +5,9 @@ domaine: Développement
 github: tyjak
 missions:
   - start: 2020-08-28
-    end: 2024-06-30
+    end: 2025-06-30
     status: service
-    employer: Pôle emploi
+    employer: France Travail
     startups:
       - encyclopedie-des-metiers
       - estime.formation
@@ -21,7 +21,6 @@ missions:
     status: service
     employer: France travail
     startups:
-      - estime.formation
       - mes-aides-france-travail
       - travailler.en.france
 competences: []

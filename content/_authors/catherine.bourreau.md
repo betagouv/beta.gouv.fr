@@ -12,7 +12,7 @@ missions:
     startups:
       - tdb-apprentissage
   - start: 2025-03-10
-    end: 2025-06-13
+    end: 2025-09-30
     status: independent
     employer: ut7
     startups:
