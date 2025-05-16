@@ -10,13 +10,13 @@ missions:
     startups:
       - chauffage-urbain
   - start: 2024-11-18
-    end: 2025-05-18
+    end: 2025-03-31
     status: independent
     employer: MALT
     startups:
       - data-subvention
   - start: 2025-02-10
-    end: 2025-05-10
+    end: 2025-10-15
     status: independent
     employer: Omnicité
     startups:

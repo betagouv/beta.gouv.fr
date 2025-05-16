@@ -4,7 +4,7 @@ fullname: Nicolas Planchenault
 role: Produit
 missions:
   - start: 2024-06-12
-    end: 2025-05-31
+    end: 2025-10-30
     status: independent
     employer: Ademe
     startups:
