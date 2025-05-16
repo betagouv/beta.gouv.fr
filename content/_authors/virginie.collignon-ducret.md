@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-02-22
-    end: 2025-05-30
+    end: 2025-06-30
     status: independent
     employer: Ministère de la justice
     startups:

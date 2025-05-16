@@ -7,7 +7,7 @@ thematiques:
   - Administratif
 usertypes:
   - etat
-title: Projet NEO
+title: NEO
 mission: Simplifier la programmation des missions d'une escadre de l'AAE
 incubator: fabnumdef
 phases:
@@ -17,6 +17,7 @@ events:
   - name: other
     date: 2025-02-24
     comment: validation de nouveaux process avec l'équipe produit
+techno: []
 link: ''
 ---
 ## Contexte

@@ -1,6 +1,6 @@
 ---
 fullname: Anna LEFOULON
-role: Intrapreneuse FrichesReeBoost
+role: Intrapreneuse Mutafriches
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/anna-lefoulon-449719107/
 competences:

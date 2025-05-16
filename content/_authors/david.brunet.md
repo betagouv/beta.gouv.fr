@@ -5,7 +5,7 @@ domaine: Développement
 competences: []
 missions:
   - start: 2024-09-09
-    end: 2025-05-31
+    end: 2025-11-16
     status: admin
     employer: ANDV
     startups:

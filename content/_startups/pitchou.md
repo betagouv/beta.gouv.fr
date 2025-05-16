@@ -15,8 +15,13 @@ phases:
 thematiques:
   - Écologie
 usertypes: []
-techno: []
-link: ''
+techno:
+  - svelte
+  - node
+  - postgresql
+  - API démarches-simplifiées
+link: https://pitchou.beta.gouv.fr/
+repository: https://github.com/betagouv/pitchou
 ---
 ## Contexte
 

@@ -5,7 +5,7 @@ role: Développeur
 github: pYassine
 missions:
   - start: 2020-03-15
-    end: 2025-05-31
+    end: 2025-09-03
     status: independent
     employer: malt
     startups:

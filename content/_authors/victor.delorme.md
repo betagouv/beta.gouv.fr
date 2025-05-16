@@ -4,7 +4,7 @@ fullname: Victor Delorme
 role: Déploiement
 missions:
   - start: 2024-05-21
-    end: 2025-05-31
+    end: 2025-10-31
     status: independent
     employer: MALT
     startups:

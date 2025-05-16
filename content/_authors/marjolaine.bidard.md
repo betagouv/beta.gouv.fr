@@ -1,11 +1,11 @@
 ---
 fullname: Marjolaine Bidard
-role: Product Designer
+role: Senior Product Designer
 domaine: Design
 link: https://www.linkedin.com/in/marjobidard/
 missions:
   - start: 2020-10-01
-    end: 2025-05-31
+    end: 2025-10-31
     status: independent
     employer: Pole emploi
     startups:
@@ -27,4 +27,5 @@ competences:
   - Facilitation
   - Product strategy
 ---
-Product UX strategy, UX research, Experience designer Freelance
+Product Designer engagée, je crois au pouvoir du design pour transformer les organisations et créer des services utile utilisable et utilisé.
+Expertise en Product Discovery, UX Strategy, Product Design et Design Ops.

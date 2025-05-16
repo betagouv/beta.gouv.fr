@@ -8,6 +8,11 @@ missions:
     status: independent
     startups:
       - envergo
+  - start: 2025-05-19
+    end: 2025-08-16
+    status: independent
+    startups:
+      - jeveuxaider
 memberType: autre
 ---
 Chargée de déploiement

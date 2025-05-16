@@ -37,4 +37,7 @@ competences:
   - Développement Frontend
   - Développement Backend
   - JavaScript/TypeScript
+teams:
+  - /teams/fabrique-dgfip-animation
+  - /teams/fabrique-dgfip-responsable-de-portefeuille
 ---

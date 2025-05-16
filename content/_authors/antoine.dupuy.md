@@ -15,5 +15,6 @@ badges:
   - segur
 competences: []
 link: https://www.linkedin.com/in/antoine-dupuy-49061758/
+github: antoinegandoulf
 ---
 Responsable du pôle Déploiement au Laboratoire de l'Innovation de l'ANSSI et MonServiceSécurisé
