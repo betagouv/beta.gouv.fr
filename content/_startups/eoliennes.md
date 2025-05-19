@@ -8,9 +8,11 @@ phases:
   - name: investigation
     start: 2020-04-01
 stats: false
-contact: mathieu.mahr@beta.gouv.fr
+contact: dirisi-fabnum.expert.fct@def.gouv.fr
 thematiques:
   - Administratif
+usertypes: []
+techno: []
 link: ''
 ---
 ## Contexte

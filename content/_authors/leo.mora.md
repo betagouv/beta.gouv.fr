@@ -1,6 +1,6 @@
 ---
 fullname: Léo Mora
-role: Lead Dev
+role: Tech Lead / Lead Dev / Architecte Logiciel
 domaine: Développement
 link: https://github.com/Yoshiin
 github: yoshiin
@@ -16,9 +16,19 @@ missions:
       - oscars
       - osirispn
       - rapace
+      - stargate
       - tchap
       - usine-chatbots
-competences: []
+competences:
+  - Développement Full-stack
+  - DevOps
+  - Docker
+  - JavaScript/TypeScript
+  - Machine learning
+  - Python
+  - Développement Backend
+  - Développement Frontend
+  - Sécurité informatique
 teams:
   - /teams/fabnumdef
 ---

@@ -7,7 +7,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2025-02-24
-    end: 2025-12-31
+    end: 2025-05-19
     status: service
     employer: Omnicité
     startups:

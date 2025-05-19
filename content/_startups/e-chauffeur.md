@@ -15,7 +15,7 @@ usertypes:
   - etat
 repository: https://gitlab.com/fabnum-minarm/e-chauffeur/
 stats: false
-contact: romain.perroud@def.gouv.fr
+contact: dirisi-fabnum.expert.fct@def.gouv.fr
 thematiques:
   - Transports
 techno: []

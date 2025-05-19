@@ -4,7 +4,7 @@ fullname: Christian  Tonye
 role: Développeur Sénior
 missions:
   - start: 2024-05-13
-    end: 2025-05-31
+    end: 2025-08-30
     status: independent
     employer: MALT
     startups:

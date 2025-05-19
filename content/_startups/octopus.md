@@ -4,7 +4,7 @@ mission: Optimiser la préparation des missions de transport et soutien logistiq
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
-contact: mathieu.mahr@beta.gouv.fr
+contact: dirisi-fabnum.expert.fct@def.gouv.fr
 phases:
   - name: investigation
     start: 2021-03-20

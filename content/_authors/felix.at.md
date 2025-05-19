@@ -27,4 +27,3 @@ competences:
   - Tableaux de bord
   - Analyse Exploratoire
 ---
-Analyser des données, lire des romans et manger des croziflettes.

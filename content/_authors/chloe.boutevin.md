@@ -10,7 +10,7 @@ missions:
     startups:
       - manifnationales
   - start: 2024-07-01
-    end: 2025-06-01
+    end: 2025-10-30
     status: independent
     employer: Ministère de l'Intérieur
     startups:

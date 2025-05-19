@@ -5,9 +5,9 @@ domaine: Déploiement
 github: anoukjn
 missions:
   - start: 2021-05-25
-    end: 2025-05-31
+    end: 2025-10-30
     status: independent
-    employer: Little big connection
+    employer: Malt
     startups:
       - recommandations-collaboratives
       - urbanvitaliz

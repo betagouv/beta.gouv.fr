@@ -16,7 +16,7 @@ phases:
 usertypes:
   - etat
 stats: false
-contact: mathieu.mahr@beta.gouv.fr
+contact: dirisi-fabnum.expert.fct@def.gouv.fr
 thematiques: []
 techno: []
 link: ''

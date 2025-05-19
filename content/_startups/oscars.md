@@ -4,7 +4,7 @@ mission: Optimiser le processus de mise en formation de l'armée de Terre
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
-contact: sophie.larroumet@beta.gouv.fr
+contact: dirisi-fabnum.expert.fct@def.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
