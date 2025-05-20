@@ -15,8 +15,12 @@ phases:
     start: 2025-01-24
 events:
   - name: product_launch
-    date: 2025-01-24
+    date: 2025-01-23
+  - name: committee
+    date: 2025-05-20
 techno: []
+sponsors:
+  - /organisations/francetravail
 link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 

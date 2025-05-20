@@ -14,6 +14,9 @@ events:
   - name: committee
     date: 2024-07-22
     comment: Comité d'investissement
+  - name: committee
+    date: 2025-02-04
+    comment: Comité d'investissement
 link: https://boris.beta.gouv.fr
 repository: https://github.com/MTES-MCT/boris
 stats: false
@@ -23,12 +26,12 @@ thematiques:
   - Social
   - Logement
   - Administratif
-stats_url: https://boris.beta.gouv.fr/statistiques
+stats_url: https://boris.beta.gouv.fr/notre-mission#statistiques
 dashlord_url: https://dashlord.mte.incubateur.net/url/boris-beta-gouv-fr/
 usertypes:
   - particulier
 techno: []
-budget_url: https://boris.beta.gouv.fr/statistiques
+budget_url: https://boris.beta.gouv.fr/notre-mission#statistiques
 ---
 <h2>2,4 millions</h2>
 

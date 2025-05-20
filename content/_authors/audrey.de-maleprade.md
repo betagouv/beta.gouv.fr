@@ -5,7 +5,7 @@ domaine: Produit
 github: Audrey-Avenel
 missions:
   - start: 2022-02-03
-    end: 2025-12-31
+    end: 2025-05-20
     status: independent
     employer: Malt
     startups:

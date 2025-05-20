@@ -1,11 +1,11 @@
 ---
 fullname: Samir Benfares
-role: Product Owner
+role: Développeur Fullstack
 domaine: Développement
 github: sbenfares
 missions:
   - start: 2020-01-22
-    end: 2025-09-30
+    end: 2025-03-31
     status: independent
     employer: ut7
     startups:
@@ -15,6 +15,12 @@ missions:
       - tdb-apprentissage
       - uai_siret
       - voeux-apprentissage
+  - start: 2025-05-20
+    end: 2025-08-20
+    status: independent
+    employer: Little Big Connection
+    startups:
+      - mon-devis-sans-oublis
 competences:
   - Développement Full-stack
   - JavaScript/TypeScript
