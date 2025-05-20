@@ -18,7 +18,7 @@ usertypes:
   - etat
   - Action de l'Etat en Mer
 stats: false
-contact: equipe@anais.beta.gouv.fr
+contact: dirisi-fabnum.expert.fct@def.gouv.fr
 link: https://anais.beta.gouv.fr/
 dashlord_url: https://dashlord.incubateur.net/url/anais-beta-gouv-fr/
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow

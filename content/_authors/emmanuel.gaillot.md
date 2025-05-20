@@ -25,6 +25,12 @@ missions:
     employer: omnicite
     startups:
       - oots.once-only.technical.system
+  - start: 2025-05-19
+    end: 2025-10-31
+    status: independent
+    employer: Malt
+    startups:
+      - carbure
 competences: []
 ---
 Programmeur extrême & codexhibitionniste.

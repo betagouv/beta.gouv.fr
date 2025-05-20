@@ -9,7 +9,7 @@ competences:
   - java
 missions:
   - start: 2024-09-09
-    end: 2025-12-31
+    end: 2025-10-31
     status: independent
     employer: Octo-Malt
     startups:

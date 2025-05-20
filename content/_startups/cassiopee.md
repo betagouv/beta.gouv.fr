@@ -4,7 +4,7 @@ mission: Optimiser les parcours de formation des officiers souhaitant revenir à
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
-contact: jennifer.le-cann@beta.gouv.fr
+contact: dirisi-fabnum.expert.fct@def.gouv.fr
 phases:
   - name: investigation
     comment: Définition des acteurs et exploration des besoins utilisateurs. Réalisation de prototypes, tests utilisateurs, définition de la vision du projet et approfondissement des besoins du futur système.

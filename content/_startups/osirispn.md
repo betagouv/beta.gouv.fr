@@ -4,7 +4,7 @@ mission: Fluidifier et anticiper les flux de formation des élèves pilotes
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
-contact: mathieu.mahr@beta.gouv.fr
+contact: dirisi-fabnum.expert.fct@def.gouv.fr
 phases:
   - name: investigation
     start: 2021-03-20
@@ -15,6 +15,7 @@ usertypes:
   - etat
 thematiques:
   - Formation
+techno: []
 link: ''
 ---
 ## Contexte

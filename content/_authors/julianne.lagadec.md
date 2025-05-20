@@ -23,9 +23,8 @@ missions:
       - pilotagevoiepro
       - sirius
   - start: 2025-03-13
-    end: 2025-05-31
-    status: independent
-    employer: PathTech
+    end: 2025-10-31
+    status: admin
     startups:
       - pass-sport
 previously:

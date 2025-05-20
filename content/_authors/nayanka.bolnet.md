@@ -12,7 +12,7 @@ missions:
     startups:
       - mon-suivi-social
   - start: 2025-02-01
-    end: 2025-06-03
+    end: 2025-09-03
     status: independent
     employer: Omnicité
     startups:

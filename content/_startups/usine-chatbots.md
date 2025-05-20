@@ -5,7 +5,7 @@ sponsors:
   - /organisations/armees
 incubator: fabnumdef
 link: https://chatbot.fabnum.fr/
-contact: fabrique-chatbots@beta.gouv.fr
+contact: dirisi-fabnum.expert.fct@def.gouv.fr
 stats: true
 repository: https://github.com/fabnumdef/fabrique-chatbot
 phases:
@@ -20,6 +20,8 @@ phases:
 usertypes:
   - etat
 stats_url: https://chatbot.fabnum.fr//stats
+thematiques: []
+techno: []
 ---
 ## Contexte
 

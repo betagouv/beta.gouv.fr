@@ -27,6 +27,7 @@ competences:
   - Administration Publique
 teams:
   - /teams/fabrique-dgfip-animation
+  - /teams/fabrique-dgfip-responsable-de-portefeuille
 ---
 Attachée principale d'administration 
 Ex - intrapreneur des 1000 premiers jours 

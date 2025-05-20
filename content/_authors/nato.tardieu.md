@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/nato-tardieu-68666512b/
 competences: []
 missions:
   - start: 2025-03-24
-    end: 2025-05-31
+    end: 2025-10-30
     status: service
     employer: Malt
     startups:

@@ -12,4 +12,6 @@ missions:
     employer: Scopyleft
     startups:
       - faritas
+teams:
+  - /teams/fabrique-dgfip-responsable-de-portefeuille
 ---

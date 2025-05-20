@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: jennifer.le-cann@beta.gouv.fr
+contact: dirisi-fabnum.expert.fct@def.gouv.fr
 thematiques:
   - management
   - qualité
