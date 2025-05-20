@@ -9,20 +9,15 @@ usertypes:
 title: One Vision
 mission: Offrir une vision globale et unifiée des dettes et crédits des usagers
 incubator: fabrique-dgfip
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2023-09-19
-    end: null
   - name: construction
-    comment: null
     start: 2025-04-11
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2025-04-11
+link: ''
 ---
 ## Contexte
 

@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: juliette.dixmier@beta.gouv.fr
+contact: sites-faciles@beta.gouv.fr
 repository: https://github.com/numerique-gouv/sites-faciles
 link: https://sites-faciles.beta.numerique.gouv.fr
 thematiques:
@@ -23,6 +23,7 @@ techno:
   - wagtail
   - django
 accessibility_status: non conforme
+stats_url: https://sites-faciles.beta.numerique.gouv.fr/statistiques/
 ---
 ## **Contexte**
 

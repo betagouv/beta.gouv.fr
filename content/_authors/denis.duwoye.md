@@ -14,7 +14,7 @@ missions:
     status: admin
     employer: EIG
     startups:
-      - facil-emploi-public
+      - csplab
 link: https://www.linkedin.com/in/dduwoye/
 github: dduwoyebeta
 ---

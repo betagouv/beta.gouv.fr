@@ -30,7 +30,6 @@ missions:
       - faritas
       - jeveuxaider
       - la-bonne-alternance
-      - sites-faciles
   - start: 2018-06-26
     end: 2024-09-01
     status: independent
@@ -43,6 +42,12 @@ missions:
     employer: Numa
     startups:
       - datalma
+  - start: 2024-05-01
+    end: 2025-10-20
+    status: independent
+    employer: Numa
+    startups:
+      - sites-faciles
 badges:
   - segur
 domaine: Coaching
@@ -57,6 +62,7 @@ competences:
   - Matomo
   - Metabase
   - Communication
+  - Croissance
 teams:
   - /teams/fast-dinum
 ---
