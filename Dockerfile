@@ -1,4 +1,4 @@
-FROM ruby:3.4.3-slim
+FROM ruby:3.4.4-slim
 
 RUN apt-get update && apt-get install -y --no-install-recommends nodejs npm build-essential libyaml-dev
 
