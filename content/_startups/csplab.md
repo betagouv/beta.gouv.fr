@@ -21,6 +21,8 @@ phases:
     start: 2024-03-18
     end: null
 events: []
+redirect_from:
+  - /startups/facil-emploi-public
 ---
 ## Contexte
 
