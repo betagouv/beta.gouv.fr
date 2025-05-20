@@ -18,13 +18,21 @@ usertypes:
   - collectivite-territoriale
 techno:
   - postgresSQL / postgis
+  - dbt
+  - react
+  - python
+  - strapi
 sponsors:
   - /organisations/cerema
 events:
   - name: committee
     date: 2024-07-03
     comment: Comité de fin d'investigation. Validé pour poursuite / construction MVP
-link: ''
+  - name: product_launch
+    date: 2025-05-12
+    comment: Lancement du MVP
+link: https://diagbruit.beta.gouv.fr/
+repository: https://github.com/betagouv/diagbruit.beta.gouv.fr
 ---
 ## Contexte
 

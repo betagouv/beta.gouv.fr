@@ -9,6 +9,12 @@ missions:
     employer: DINUM
     startups:
       - ma-cantine-egalim
+  - start: 2025-05-05
+    end: 2025-09-30
+    status: independent
+    employer: Opteamis
+    startups:
+      - monsuivipsy
 memberType: beta
 link: https://www.linkedin.com/in/mathilde-charras-62947748/
 competences:

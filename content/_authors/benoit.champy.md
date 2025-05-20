@@ -11,8 +11,8 @@ missions:
     employer: DINUM
     startups:
       - cnr
+      - csplab
       - data-dsn
-      - facil-emploi-public
       - france.nation.verte.agir
       - pass-sport
       - reperer.identifier.victimes.teh

@@ -11,7 +11,7 @@ missions:
     startups:
       - territoires-en-transitions
   - start: 2024-07-01
-    end: 2025-05-30
+    end: 2025-09-30
     status: independent
     startups:
       - pitchou

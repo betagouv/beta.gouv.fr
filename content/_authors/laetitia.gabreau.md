@@ -22,6 +22,12 @@ missions:
     employer: Malt
     startups:
       - infoparquet
+  - start: 2025-05-20
+    end: 2025-10-31
+    status: independent
+    employer: Malt
+    startups:
+      - chauffage-urbain
 badges:
   - segur
 competences:

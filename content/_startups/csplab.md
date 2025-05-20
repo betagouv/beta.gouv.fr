@@ -9,7 +9,7 @@ usertypes:
   - etat
   - collectivite-territoriale
 techno: []
-title: Facil’Emploi Public
+title: CSPLab
 mission: Accompagner le travail des employeurs de la fonction publique
 incubator: dinum
 sponsors:
@@ -17,11 +17,12 @@ sponsors:
   - /organisations/mtfp
 phases:
   - name: investigation
+    comment: null
     start: 2024-03-18
+    end: null
+events: []
 redirect_from:
-  - /startups/parcours.rh
-  - /startups/parcours.rh.html
-link: ''
+  - /startups/facil-emploi-public
 ---
 ## Contexte
 
