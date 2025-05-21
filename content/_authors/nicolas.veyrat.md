@@ -1,6 +1,6 @@
 ---
 fullname: Nicolas Veyrat
-role: Product Designer à MonServiceSécurisé
+role: Product Designer
 domaine: Design
 link: https://www.linkedin.com/in/nicolasveyrat/
 competences:
@@ -13,5 +13,6 @@ missions:
     status: independent
     employer: Omnicité
     startups:
-      - homologation
+      - mes-services-cyber
+      - mon-aide-cyber
 ---

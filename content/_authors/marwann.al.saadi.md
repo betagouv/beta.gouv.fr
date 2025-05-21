@@ -10,6 +10,16 @@ missions:
     status: independent
     startups:
       - snu
+  - start: 2025-05-21
+    end: 2025-07-21
+    status: independent
+    employer: ut7
+    startups:
+      - grist.numerique.gouv.fr
 memberType: beta
+competences:
+  - Croissance
+  - Communication
+  - Metabase
 ---
 Growth marketer

@@ -19,13 +19,21 @@ phases:
 usertypes:
   - particulier
   - association
+  - etablissement-scolaire
+  - etat
 dashlord_url: https://dashlord.incubateur.net/url/www-snu-gouv-fr/
 accessibility_status: non conforme
 thematiques:
   - Jeunesse
   - Education
 analyse_risques: false
-techno: []
+techno:
+  - react
+  - nestjs
+  - express
+  - mongodb
+  - postgres
+  - elasticsearch
 mon_service_securise: true
 ---
 **Contexte**
