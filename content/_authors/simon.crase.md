@@ -8,7 +8,9 @@ competences:
   - Data Science
 missions:
   - start: 2024-11-18
-    end: 2025-02-14
+    end: 2025-12-14
     status: admin
     employer: GIP MDS
+    startups:
+      - data-dsn
 ---

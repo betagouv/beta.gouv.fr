@@ -4,7 +4,7 @@ fullname: Philippe de Mangou
 role: Responsable Technique
 missions:
   - start: 2024-05-15
-    end: 2025-07-31
+    end: 2025-08-21
     status: independent
     employer: MALT
     startups:

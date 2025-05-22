@@ -4,7 +4,7 @@ role: Responsable de portefeuille
 domaine: Animation
 missions:
   - start: 2023-10-02
-    end: 2028-08-31
+    end: 2025-08-31
     status: admin
     employer: MEAE
 memberType: dinum

@@ -13,4 +13,6 @@ previously:
   - octopus
 competences:
   - Sécurité informatique
+teams:
+  - /teams/gip-inclusion
 ---
