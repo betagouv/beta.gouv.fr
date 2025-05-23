@@ -5,7 +5,7 @@ domaine: Développement
 github: hfroot
 missions:
   - start: 2020-12-22
-    end: 2025-06-22
+    end: 2025-09-22
     status: independent
     employer: Malt
     startups:

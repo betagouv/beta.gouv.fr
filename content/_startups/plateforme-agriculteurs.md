@@ -1,5 +1,5 @@
 ---
-mission: 'Accédez aux meilleures aides pour votre entreprise agricole '
+mission: 'Découvrez les meilleures aides pour votre entreprise agricole '
 incubator: agriculture
 title: 'Aides Agri '
 contact: beatrice.neyrac@agriculture.gouv.fr
@@ -19,6 +19,9 @@ techno:
   - python
   - django
   - PostgreSQL
+mon_service_securise: true
+repository: https://github.com/betagouv/aides-agri
+dashlord_url: https://dashlord.incubateur-agriculture.beta.gouv.fr/url/aides-agri-beta-gouv-fr/
 link: ''
 ---
 ## Contexte

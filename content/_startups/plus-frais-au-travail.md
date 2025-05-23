@@ -46,7 +46,7 @@ L’**adaptation** est un **sujet difficile** à appréhender par les **entrepri
 
 **Plus frais au travail** est un service dédié pour les **entreprises** avec une **vision intégrée climat - santé - travail** dans une **France à +2,7°C à 2050** (TRACC).
 
-Le 1er objectif de ce service est de sensibiliser les entreprises (impact des vagues de chaleur et canicules et conséquences sur la santé et sécurité au travail) et de les orienter vers les solutions les plus efficaces et les moins coûteuses.
+Le 1er objectif de ce service est de sensibiliser les entreprises (impact des vagues de chaleur et canicules et conséquences sur la santé et sécurité au travail) et de les orienter vers les solutions les plus efficaces et les plus vertueuses.
 
 Il s’insère dans une **stratégie globale** : via la problématique du rafraîchissement, l'objectif final est d'**amener les entreprises vers un [parcours d’adaptation au changement climatique complet](https://agirpourlatransition.ademe.fr/entreprises/strategie-adaptation/changement-climatique)** (sur toute leur chaîne de valeur).
 

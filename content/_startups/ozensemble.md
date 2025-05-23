@@ -12,6 +12,8 @@ phases:
     end: 2023-01-12
   - name: acceleration
     start: 2023-01-12
+  - name: alumni
+    start: 2025-04-30
 link: https://ozensemble.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/ozensemble
 stats: true
@@ -19,7 +21,7 @@ contact: ozensemble@fabrique.social.gouv.fr
 usertypes:
   - particulier
 stats_url: https://ozensemble.fabrique.social.gouv.fr/stats
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 fast:
   promotion: 14
   montant: 220000
@@ -29,6 +31,7 @@ events:
   - name: fast
     date: 2024-01-01
     comment: Montant de 220000€ pour la promotion 14
+techno: []
 ---
 ##  Le contexte : 
 

@@ -10,8 +10,8 @@ competences:
 missions:
   - start: 2024-09-09
     end: 2025-10-31
-    status: independent
     employer: Octo-Malt
+    status: independent
     startups:
       - territoires-en-transitions
 ---

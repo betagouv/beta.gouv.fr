@@ -1,5 +1,5 @@
 ---
-mission: Lutter contre le travail illégal dans le secteur des transports légers
+mission: Lutter contre le travail dissimulé dans le transport routier léger
 incubator: mtes
 repository: https://github.com/MTES-MCT/mobilic
 contact: contact@mobilic.beta.gouv.fr
@@ -38,9 +38,13 @@ events:
   - name: other
     date: 2024-09-28
     comment: Homologation sécurité
+  - name: other
+    date: 2025-03-06
+    comment: 'Parution de l''arrêté: Mobilic devient la seule solution 100% numérique conforme'
 mon_service_securise: true
 techno:
-  - java
+  - python
+  - react
 analyse_risques: true
 budget_url: https://pad.numerique.gouv.fr/s/WYougVwWu#Mobilic
 ---
@@ -62,23 +66,26 @@ Cette non-utilisation a des conséquences fortes :
 
 * **travail dissimulé** représentant jusqu’à 10% des salariés du secteur ;
 * **fraude fiscale** et sociale estimée à plusieurs centaines de millions d’euros chaque année ;
-* enjeux de **santé et sécurité routière** et concurrence déloyale pour les entreprises vertueuses.
+* enjeux de **santé et sécurité routière**, et
+* concurrence déloyale pour les entreprises vertueuses.
 
 ➡️ Un rapport de l’Observatoire du Travail Dissimulé rapporte au titre de l’année 2016 que, dans le secteur du transport, un quart des établissements contrôlés est en situation de fraude ou d'irrégularité.
 
-Le recours aux VUL explose (+6,5% d’immatriculations en France en 2019 selon l’association des constructeurs européens d’automobiles), car ils ne sont pas soumis à la réglementation applicable aux poids lourds de plus de 3,5 tonnes ce qui les rend plus compétitifs, ce qui accentue le problème constaté.
+➡️ Le recours aux VUL explose (+6,5% d’immatriculations en France en 2019 selon l’association des constructeurs européens d’automobiles), car ils ne sont pas soumis à la réglementation applicable aux poids lourds de plus de 3,5 tonnes ce qui les rend plus compétitifs, ce qui accentue le problème constaté.
 
 ## Solution
 
-Notre mission est de lutter contre le travail illégal dans le transport routier léger. Notre stratégie pour y parvenir ? Faciliter la mise en conformité des entreprises du secteur tout en agissant sur le cadre réglementaire
+Notre mission est de lutter contre le travail illégal dans le transport routier léger. 
+
+Notre stratégie pour y parvenir ? Faciliter la mise en conformité des entreprises du secteur tout en agissant sur le cadre réglementaire.
 
 **Mobilic est la plateforme numérique gouvernementale de suivi du temps de travail dans le transport routier léger.**
 
 Développée en collaboration avec les entreprises du secteur et les corps de contrôle de l’État, notre outil se compose :
 
-* D'une application web destinée aux salariés conducteurs, permettant l’enregistrement du temps de travail adapté à un usage en mobilité, et aux gestionnaires, permettant la gestion de ces temps de travail ;
-* D'une interface de contrôle calculant automatiquement les dépassements de seuils ;
-* D'une API pour répondre au besoin d'interfaçage des applications métier/RH des entreprises.
+* D'une **application web** destinée aux salariés conducteurs, permettant l’enregistrement du temps de travail adapté à un usage en mobilité ; et destinée également aux gestionnaires, leur permettant la gestion de ces temps de travail ;
+* D'une **interface de contrôle** destinée aux contrôleurs, calculant automatiquement les dépassements de seuils et détectant ainsi les potentielles infractions ;
+* D'une **API** pour répondre au besoin d'interfaçage des applications métier/RH des entreprises.
 
 ![https://mobilic.beta.gouv.fr/](/img/netlifycms/mobilic-workflow.png)
 
@@ -86,11 +93,12 @@ Développée en collaboration avec les entreprises du secteur et les corps de co
 
 Nous avons établi le certificat Mobilic en juillet 2023. Le certificat atteste qu'une entreprise a un **taux élevé de conformité à la  réglementation** en matière de temps de travail et, qu’elle **utilise Mobilic de manière conforme** (enregistrement du temps de travail au maximum en temps réel, validation régulière des données, modifications exceptionnelles des données du salarié par son employeur).
 
-L'indicateur que nous suivons désormais pour mesurer l'impact de Mobilic est le **nombre d'entreprises certifiées**, c'est-à-dire, les entreprises qui ont un taux élevé de conformité à la réglementation.
+L'indicateur que nous suivons désormais pour mesurer l'impact de Mobilic est le **nombre d'entreprises certifiées**, c'est-à-dire, les entreprises qui ont un taux élevé de conformité à la réglementation. 
 
-Sur 30 000 entreprises concernées par la réglementation, nous estimons à 12 000 celles auprès de qui Mobilic s'adresse en premier lieu (déménagement et transport de marchandises).
+Sur 30 000 entreprises concernées par la réglementation, nous estimons à 12 000 celles auprès de qui Mobilic s'adresse en premier lieu (déménagement et transport de marchandises). Début mai 2025, **329** d'entre elles recevaient le certificat Mobilic.
 
-**➡️ Notre objectif est d'arriver à 500 entreprises certifiées d'ici décembre 2024.**
+**➡️ Notre objectif est d'arriver à 2 000 entreprises certifiées lors du calcul du 1er novembre 2025
+.**
 
 La croissance anticipée repose sur :
 

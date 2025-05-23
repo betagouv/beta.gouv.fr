@@ -1,6 +1,6 @@
 ---
 title: DiaLog
-mission: Faciliter l'intégration de la réglementation poids lourds dans les GPS routiers
+mission: Faciliter l'intégration de la réglementation routière dans les applications de mobilité
 sponsors:
   - /organisations/dgitm
 incubator: mtes

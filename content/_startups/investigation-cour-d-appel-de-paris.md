@@ -14,6 +14,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-02-04
+  - name: construction
+    start: 2025-05-06
 events:
   - name: product_launch
     date: 2025-02-14
@@ -29,19 +31,33 @@ link: ''
 **L'investigation est co-portée par l'incubateur Alliance et l'incubateur du ministère de la Justice.**
 
 
-### Eléments de contexte
+### Le contexte
 
 **Le temps de préparation des dossiers par les magistrats du parquet, incluant notamment une phase d’étude et de rédaction d’actes dans un certain nombre d’hypothèses, comporte des étapes particulièrement chronophages générant des délais supplémentaires dans le traitement des affaires pénales**.
 
 A plus forte raison pour des contentieux de masse, les magistrats du parquet peuvent consacrer un temps conséquent à accomplir des tâches répétitives et à faible valeur ajoutée dans des dossiers sans grande complexité.
 
+### Les problèmes identifiés
 
-### La solution
+La phase d’investigation a notamment permis de mettre en évidence les problème suivants :
 
-**La start up d’Etat se fixe l’objectif de créer un assistant virtuel du magistrat du parquet pour l’aide à la décision et l’assistance à la rédaction.**
+* les magistrats ne disposent pas de suffisamment de temps pour prendre connaissance de leurs dossiers avant les audiences ;
 
-Pour les 445 magistrats du parquet du ressort de la cour d’appel de Paris, deux cas d’usage pilotes ont été identifiés :
+* ils doivent rédiger des synthèses volumineuses pour lesquelles le résumé des faits est particulièrement chronophage, sans plus value particulière de leur part.
 
-* Plusieurs contentieux de masse font l’objet d’un traitement en temps réel reposant sur des critères précisément fixés par les procureurs de la République. L’exemple le plus évocateur en la matière est celui du contentieux routier, pour lequel l’orientation procédurale décidée par le magistrat du parquet repose sur une politique pénale clairement définie à partir de critères tels que le taux d’alcoolémie du mis en cause, la présence d’infractions connexes ou l’existence d’antécédents judiciaires. L’outil proposé a vocation à extraire de ces dossiers les informations pertinentes pour proposer une orientation au magistrat, lequel validerait ensuite la décision.
+Il apparait donc utile de moderniser les outils mis à disposition de la justice, afin de répondre à une politique prioritaire du gouvernement : **réduire le temps de traitement des procédures, notamment pénales.**
 
-* Que ce soit pour la rédaction de requêtes à destination du juge des libertés et de la détention ou de réquisitoires définitifs, les magistrats du parquet sont amenés à rédiger de nombreuses synthèses factuelles de procédures ou de pièces de procédures pénales. L’outil proposé est destiné à faciliter ce travail en proposant des projets de rédaction.
+### La solution en construction
+
+Le produit Mon assistant parquet en cours de construction vise à offrir les fonctionnalités suivantes : 
+
+* Télécharger une ou plusieurs procédures nativement numériques ou numérisées sur l’interface dédiée ;
+
+* Détecter la nature des infractions sur lesquelles se porte l’enquête ;
+
+* Permettre une vue rapide du dossier en recherchant les réponses à une liste de questions prédéfinies selon la nature des infractions ;
+
+* Permettre une vue approfondie du dossier en affichant dans une liseuse PDF la ou les sources de la réponse et en surlignant les passages pertinents ;
+
+* Permettre aux utilisateurs d’interroger eux-mêmes la procédure.
+

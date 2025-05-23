@@ -6,7 +6,7 @@ sponsors:
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 repository: https://github.com/OpenTermsArchive/
 contact: contact@opentermsarchive.org
-stats_url: https://stats.data.gouv.fr/index.php?idSite=179
+stats_url: https://opentermsarchive.org/fr/statistiques/
 budget_url: https://opentermsarchive.org/fr/budget
 link: https://opentermsarchive.org/fr/
 stats: true
@@ -33,6 +33,7 @@ techno:
   - git
   - Node.js
   - json
+mon_service_securise: false
 ---
 [Open Terms Archive](https://opentermsarchive.org/fr/) est un outil libre et ouvert de suivi et d’archivage des évolutions des conditions générales d’utilisation des principaux fournisseurs de services en ligne qui vise à rééquilibrer le rapport de force avec les grandes plateformes.
 
