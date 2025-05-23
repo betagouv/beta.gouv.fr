@@ -20,7 +20,13 @@ events:
     comment: Comité de fin de la 1ère phase de construction
   - name: committee
     date: 2024-01-18
-    comment: Comité de fin de la 2e phase de construction
+    comment: Comité de fin de la 2nde phase de construction
+  - name: committee
+    date: 2024-12-10
+    comment: Comité de fin de la 1ère phase d'accélération
+  - name: committee
+    date: 2025-06-24
+    comment: Comité de fin de la 2nde phase d'accélération
 phases:
   - name: investigation
     start: 2022-06-29
@@ -72,8 +78,8 @@ La documentation méthodologique, accessible en permanence, offre une prise de r
 
 **ROMIN est en ligne et accessible aux premiers utilisateurs depuis avril 2023**. Leurs retours permettent des ajustements et le développement de nouvelles fonctionnalités adaptées à leurs besoins de terrain comme celui de profiter de retours d’expérience ainsi que de la mise en lien avec des collaborateurs à même de développer leurs savoir-faire.
 
-ROMIN donne accès à près de 70 outils ciblés et ce volume continue de grandir en permanence. Sous peu, au-delà des outils mobilisables en entretien individuel, il donnera accès aux différents programmes connus et valorisera les supports dont l’impact positif a été démontré. 
+ROMIN donne accès à plus de 70 outils ciblés et ce volume continue de grandir en permanence. Au-delà des outils mobilisables en entretien individuel, il donne accès aux différents programmes connus et valorise les supports dont l’impact positif a été démontré. 
 
-Une cinquantaine de SPIP participent à l’expérimentation de ROMIN. Le déploiement de la solution numérique à l'échelle nationale mobilisera de plus en plus nos meilleurs ambassadeurs sur le terrain, en directions interrégionales et au sein de l'administration centrale.
+ROMIN couvrant plus de 70% du territoire national, le déploiement de la solution numérique mobilise de plus en plus nos meilleurs ambassadeurs sur le terrain, en directions interrégionales et au sein de l'administration centrale.
 
-**L’impact de ROMIN se mesure via les données statistiques de consultation auxquelles sont combinées les retours qualitatifs de nos utilisateurs**. Au-delà, les professionnel.les chargés du soutien technique (directeur.ice pénitentiaire d’insertion et de probation, psychologues en SPIP et unités de soutien métier) contribueront à mesurer notre participation globale à l’application du modèle efficace à la prévention de la récidive.
+**L’impact de ROMIN se mesure via les données statistiques de consultation auxquelles sont combinées les retours qualitatifs de nos utilisateurs**. Au-delà, les professionnel.les chargés du soutien technique (directeur.ice pénitentiaire d’insertion et de probation, psychologues en SPIP et unités de soutien métier) contribue à mesurer notre participation globale à l’application du modèle efficace à la prévention de la récidive.

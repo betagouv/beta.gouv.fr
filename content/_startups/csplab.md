@@ -17,12 +17,10 @@ sponsors:
   - /organisations/mtfp
 phases:
   - name: investigation
-    comment: null
     start: 2024-03-18
-    end: null
-events: []
 redirect_from:
   - /startups/facil-emploi-public
+link: ''
 ---
 ## Contexte
 

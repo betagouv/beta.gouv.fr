@@ -12,4 +12,4 @@ missions:
     startups:
       - mesads
 ---
-J'ai choisi de devenir chargée de déploiement pour des Start up d'État afin d'avoir un impact positif sur le monde de demain, que ce soit sur le plan social ou environnemental. 
+Je suis chargée de déploiement au sein de la communauté Beta.gouv dans le but d'avoir un impact positif sur le monde de demain, que ce soit sur le plan social ou environnemental

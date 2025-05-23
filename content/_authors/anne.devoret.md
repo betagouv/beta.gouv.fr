@@ -32,7 +32,7 @@ missions:
     startups:
       - tabula
   - start: 2025-01-01
-    end: 2025-04-30
+    end: 2025-11-01
     status: independent
     employer: Dynergie
     startups:

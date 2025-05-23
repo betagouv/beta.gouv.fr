@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: anne.devoret@beta.gouv.fr
+contact: anna.lefoulon@ademe.fr
 thematiques:
   - Territoires
   - Écologie
