@@ -1,7 +1,7 @@
 ---
 fullname: Rémi Boureau Lienard
-role: Chef de projets numériques
-domaine: Produit
+role: 'Responsable informatique '
+domaine: Intraprenariat
 link: https://fr.linkedin.com/in/r%C3%A9mi-boureau-li%C3%A9nard
 competences:
   - Facilitation
