@@ -15,13 +15,12 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2025-01-22
-    end: null
 events:
   - name: committee
-    comment: Passage en comité d'investissement ALLiaNCE
     date: 2025-05-22
+    comment: Passage en comité d'investissement ALLiaNCE
+link: ''
 ---
 ## Contexte
 
