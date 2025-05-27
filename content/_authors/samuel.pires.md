@@ -6,7 +6,7 @@ link: https://samuelpires.fr
 github: sam-pires
 missions:
   - start: 2023-10-01
-    end: 2025-06-30
+    end: 2025-09-15
     status: independent
     employer: Malt
     startups:

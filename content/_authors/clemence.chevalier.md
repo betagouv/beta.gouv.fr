@@ -10,8 +10,10 @@ missions:
       - mes-aides-france-travail
       - travailler.en.france
   - start: 2024-01-01
-    end: 2024-06-30
+    end: 2025-10-30
     status: admin
+    startups:
+      - pass.engagement.jeune
 previously:
   - mes-aides-france-travail
   - travailler.en.france

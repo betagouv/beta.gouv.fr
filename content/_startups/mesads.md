@@ -22,6 +22,7 @@ accessibility_status: non conforme
 thematiques:
   - Transports
 techno: []
+budget_url: https://pad.numerique.gouv.fr/Y2X3rmejSYmGcX8TSb-K7g#
 ---
 ##  Le défi (2022)
 

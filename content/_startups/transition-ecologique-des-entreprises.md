@@ -16,6 +16,8 @@ phases:
     end: 2023-03-30
   - name: construction
     start: 2023-03-30
+  - name: acceleration
+    start: 2025-03-01
 techno:
   - Vue.js
   - TypeScript
@@ -38,6 +40,9 @@ events:
     comment: Comité d'investissement
   - name: committee
     date: 2024-06-26
+    comment: Comité d'investissement
+  - name: committee
+    date: 2025-02-14
     comment: Comité d'investissement
 mon_service_securise: true
 ---

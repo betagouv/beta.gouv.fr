@@ -10,7 +10,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-03-25
-    end: 2025-06-24
+    end: 2025-07-31
     status: independent
     employer: LBC
     startups:

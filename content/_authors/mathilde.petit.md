@@ -17,11 +17,17 @@ missions:
     startups:
       - cartobio
   - start: 2024-09-13
-    end: 2025-12-31
+    end: 2025-04-30
     status: independent
     employer: Scopyleft
     startups:
       - equipements-bio
+  - start: 2025-05-26
+    end: 2025-10-31
+    status: independent
+    employer: Solstice
+    startups:
+      - seves
 competences:
   - Coaching
   - Croissance

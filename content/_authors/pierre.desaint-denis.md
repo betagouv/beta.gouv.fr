@@ -10,7 +10,7 @@ competences:
   - Communication
 missions:
   - start: 2025-03-10
-    end: 2025-06-10
+    end: 2025-10-10
     status: independent
     employer: Malt
     startups:

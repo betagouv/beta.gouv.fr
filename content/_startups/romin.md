@@ -72,7 +72,7 @@ Afin de garantir la captation du bon outil, ROMIN me guide dans les phases amont
 ROMIN s’intègre à l’environnement professionnel des agents et constitue un équipement supplémentaire de soutien technique, en coordination avec les solutions existantes.
 
 La communauté professionnelle échange et parfait les outils et fonctionnalités partagés.
-La documentation méthodologique, accessible en permanence, offre une prise de recul aux professionnel.les garantissant un effet maximisé de l'accompagnement structuré de la personne condamnée.
+La documentation méthodologique, accessible en permanence, offre une prise de recul aux professionnel·les garantissant un effet maximisé de l'accompagnement structuré de la personne condamnée.
 
 ## Prochaines étapes
 
@@ -82,4 +82,4 @@ ROMIN donne accès à plus de 70 outils ciblés et ce volume continue de grandir
 
 ROMIN couvrant plus de 70% du territoire national, le déploiement de la solution numérique mobilise de plus en plus nos meilleurs ambassadeurs sur le terrain, en directions interrégionales et au sein de l'administration centrale.
 
-**L’impact de ROMIN se mesure via les données statistiques de consultation auxquelles sont combinées les retours qualitatifs de nos utilisateurs**. Au-delà, les professionnel.les chargés du soutien technique (directeur.ice pénitentiaire d’insertion et de probation, psychologues en SPIP et unités de soutien métier) contribue à mesurer notre participation globale à l’application du modèle efficace à la prévention de la récidive.
+**L’impact de ROMIN se mesure via les données statistiques de consultation auxquelles sont combinées les retours qualitatifs de nos utilisateurs**. Au-delà, les professionnel·les chargé·es du soutien technique (directeur·ice pénitentiaire d’insertion et de probation, psychologues en SPIP et unités de soutien métier) contribuent à mesurer notre participation globale à l’application du modèle efficace à la prévention de la récidive.
