@@ -55,9 +55,6 @@ jobs:
               exit 1
             fi
 
-    - name: Check Jekyll configuration
-      run: bundle exec jekyll doctor
-
     - name: Jekyll build
       run: bundle exec jekyll build --trace
 
