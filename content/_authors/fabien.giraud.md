@@ -13,4 +13,6 @@ missions:
 memberType: beta
 competences: []
 github: FabGir
+teams:
+  - /teams/anssi
 ---

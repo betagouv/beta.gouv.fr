@@ -16,5 +16,7 @@ badges:
 competences: []
 link: https://www.linkedin.com/in/antoine-dupuy-49061758/
 github: antoinegandoulf
+teams:
+  - /teams/anssi
 ---
 Responsable du pôle Déploiement au Laboratoire de l'Innovation de l'ANSSI et MonServiceSécurisé
