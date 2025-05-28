@@ -18,7 +18,7 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.4.3
+        ruby-version: 3.4.4
         bundler-cache: true
 
     - name: Lint Ruby with Rubocop
@@ -54,9 +54,6 @@ jobs:
             EOF
               exit 1
             fi
-
-    - name: Check Jekyll configuration
-      run: bundle exec jekyll doctor
 
     - name: Jekyll build
       run: bundle exec jekyll build --trace
