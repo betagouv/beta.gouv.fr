@@ -24,7 +24,7 @@ missions:
     status: independent
     employer: Codeurs en Liberté
   - start: 2024-11-12
-    end: 2025-06-24
+    end: 2025-08-26
     status: independent
     employer: Codeurs en Liberté
 previously:

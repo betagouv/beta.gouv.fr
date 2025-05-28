@@ -4,7 +4,7 @@ role: Rédactrice
 domaine: Autre
 missions:
   - start: 2023-04-09
-    end: 2025-06-25
+    end: 2025-10-25
     status: independent
     startups:
       - plusfraichemaville

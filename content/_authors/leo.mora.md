@@ -11,6 +11,7 @@ missions:
     employer: Ministère des Armées
     startups:
       - airvam
+      - ca-se
       - cassiopee
       - octopus
       - oscars

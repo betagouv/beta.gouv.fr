@@ -17,7 +17,7 @@ missions:
     startups:
       - collectif_objets
   - start: 2024-03-05
-    end: 2025-04-30
+    end: 2025-10-31
     status: independent
     employer: NUMA
     startups:
@@ -29,11 +29,17 @@ missions:
     startups:
       - brav-eau
   - start: 2025-02-03
-    end: 2025-05-31
+    end: 2025-06-30
     status: independent
     employer: NUMA
     startups:
       - durabilite-de-la-biomasse
+  - start: 2025-02-03
+    end: 2025-10-31
+    status: independent
+    employer: NUMA
+    startups:
+      - eclauses-mma-culture
 incubator: culture
 badges:
   - segur

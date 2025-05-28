@@ -4,7 +4,7 @@ mission: Trouver rapidement le bon professionnel pour les majeurs à protéger
 sponsors:
   - /organisations/dgcs
 incubator: sgmas
-link: https://emjpm.fabrique.social.gouv.fr
+link: https://emjpm.pjm.social.gouv.fr/login
 repository: https://github.com/SocialGouv/emjpm
 contact: support.emjpm@fabrique.social.gouv.fr
 stats: true
@@ -19,7 +19,7 @@ phases:
     start: 2018-04-01
   - name: acceleration
     start: 2020-09-01
-  - name: transfer
+  - name: success
     start: 2022-09-01
 usertypes:
   - etat

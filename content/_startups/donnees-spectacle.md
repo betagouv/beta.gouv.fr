@@ -1,16 +1,19 @@
 ---
-mission: Faciliter l'extraction des données renseignées dans SIBIL pour les déclarants.
+mission: 'Simplifier les formalités déclaratives des entrepreneurs du spectacle '
 incubator: culture
-title: Assistant données spectacle vivant
+title: Assistant pour les déclarations du spectacle
 contact: ateliernumerique.snum@culture.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2024-01-15
   - name: construction
-    start: 2024-04-09
+    start: 2024-05-01
 usertypes:
   - particulier
+  - entreprise
+  - collectivite-territoriale
+  - association
 thematiques:
   - Spectacle vivant
 repository: https://github.com/betagouv/assistant-declaration
@@ -38,9 +41,9 @@ Enfin, il y a autant d’obligations pour les petites structures que pour les gr
 
 **La solution à l’étude est un assistant pour les déclarations des entreprises du spectacle.** Il permet à ceux qui déclarent des données du spectacle vivant dans SIBIL de ré-utiliser leurs propres données dans un format adapté à une nouvelle formalité. 
 
-**Usagers initiaux :** labels et structures subventionnées
+**Usagers initiaux :** diffuseurs ou organisateurs de spectacles 
 
-**Usagers secondaires** :  tous les entrepreneurs de spectacle qui déclarent des données de billetteries
+**Usagers secondaires** :  tous les entrepreneurs de spectacle qui déclarent des données
 
 ## Vision
 
@@ -54,8 +57,6 @@ Les travaux de construction de l’assistant permettront de contribuer à cette 
 
 ## Stratégie
 
-Une premier prototype sera réalisé manuellement pour comparer les données dont dispose le ministère avec celles des autre procédures administratives.
-
-Puis un premier outil numérique sans développement spécifique sera testé à parti de logiciels existants. 
-
-Enfin un premier bilan et proposition de service numérique dédié le cas échéant.
+Un premier outil numérique à l’aide de GRIST a permis de valider la réutilisation des données des logiciels de billetteries des éditeurs. 
+Une première version d’un outil web est en cours de test auprès d’un panel de 150 diffuseurs de spectacle
+Des propositions d’amélioration du produit seront élaborées avec l’aide de l’écosystème composé : des entrepreneurs du spectacle (700 volontaires pour co construire le produit), des éditeurs de logiciels de billetteries et des organismes collecteurs des données.
