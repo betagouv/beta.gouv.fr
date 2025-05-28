@@ -4,7 +4,7 @@ fullname: François David
 role: Développement
 missions:
   - start: 2024-04-24
-    end: 2025-05-31
+    end: 2025-06-20
     status: independent
     employer: Malt
     startups:

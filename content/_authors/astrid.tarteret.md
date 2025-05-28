@@ -18,7 +18,7 @@ missions:
     end: 2026-02-02
     status: admin
     startups:
-      - vigieau
+      - partageons-l-eau
 memberType: beta
 competences: []
 ---
