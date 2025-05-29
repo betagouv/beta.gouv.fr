@@ -12,8 +12,14 @@ missions:
     startups:
       - aidantsconnect
   - start: 2025-01-01
-    end: 2025-08-29
+    end: 2025-06-01
     status: independent
+  - start: 2025-06-02
+    end: 2025-08-28
+    status: independent
+    employer: La Zone
+    startups:
+      - seves
 competences:
   - Développement Frontend
   - Développement Backend

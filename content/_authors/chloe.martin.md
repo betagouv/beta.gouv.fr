@@ -8,10 +8,10 @@ competences:
   - Product strategy
 missions:
   - start: 2024-10-04
-    end: 2025-06-30
+    end: 2025-05-30
     status: independent
     employer: Scopyleft
     startups:
       - nosgestesclimat
 ---
-Je suis Product Manager / Product Marketing Manager freelance, spécialisée dans le secteur viticole🍇🤖 J’aide les éditeurs de logiciels et d'applications à créer des outils pratiques et durables.
+Je suis Product Manager / Product Marketing Manager freelance, spécialisée dans le secteur viticole🍇🤖 
