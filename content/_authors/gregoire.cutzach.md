@@ -3,7 +3,7 @@ domaine: Développement
 fullname: Grégoire Cutzach
 role: Développement
 missions:
-  - start: 2024-10-01
+  - start: 2024-05-01
     end: 2025-09-01
     status: independent
     employer: ut7
