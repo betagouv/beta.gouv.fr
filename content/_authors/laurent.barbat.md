@@ -24,11 +24,17 @@ missions:
     startups:
       - tacct
   - start: 2024-09-16
-    end: 2025-12-31
+    end: 2025-02-28
     status: independent
     employer: Dynergie
     startups:
       - 1-jeune-1-arbre
+  - start: 2025-04-30
+    end: 2025-11-20
+    status: independent
+    employer: Omnicité
+    startups:
+      - csplab
 competences:
   - Product strategy
   - Coaching

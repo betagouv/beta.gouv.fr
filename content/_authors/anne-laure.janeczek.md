@@ -7,8 +7,8 @@ competences:
 missions:
   - start: 2024-01-26
     end: 2026-06-01
-    employer: Ministère de la Culture
     status: admin
+    employer: Ministère de la Culture
     startups:
       - donnees-spectacle
 ---

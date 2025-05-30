@@ -12,5 +12,7 @@ missions:
       - inclusion.connect
 competences:
   - Gestion de Produit
+teams:
+  - /teams/gip-inclusion-developpement
 ---
 Entrepreneure fan de sports aquatiques

@@ -13,7 +13,7 @@ missions:
       - visam
       - zam
   - start: 2022-06-01
-    end: 2025-05-31
+    end: 2025-08-31
     status: independent
     employer: Scopyleft
     startups:
