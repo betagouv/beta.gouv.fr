@@ -15,7 +15,7 @@ competences:
   - Administration Système
 missions:
   - start: 2024-11-20
-    end: 2025-06-29
+    end: 2025-09-01
     status: service
     employer: Malt
     startups:

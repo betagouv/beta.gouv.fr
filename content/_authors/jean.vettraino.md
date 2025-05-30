@@ -13,4 +13,5 @@ missions:
       - l-immersion-facile
 teams:
   - /teams/gip-inclusion
+  - /teams/gip-inclusion-developpement
 ---

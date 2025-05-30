@@ -12,6 +12,8 @@ missions:
     end: 2025-09-30
     status: independent
     employer: Malt
+teams:
+  - /teams/gip-inclusion-developpement
 ---
 Consultante en communication, stratégie digitale et identité de marque
 +18 ans d'expérience | Spécialisée dans les associations, fondations et startups à impact

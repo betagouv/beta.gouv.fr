@@ -36,7 +36,7 @@ missions:
 badges:
   - segur
 teams:
-  - /teams/gip-inclusion
+  - /teams/gip-inclusion-developpement
 competences:
   - Facilitation
   - Product strategy

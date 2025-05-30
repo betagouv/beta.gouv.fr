@@ -12,4 +12,6 @@ missions:
     end: 2025-09-30
     status: independent
     employer: Malt
+teams:
+  - /teams/gip-inclusion-developpement
 ---
