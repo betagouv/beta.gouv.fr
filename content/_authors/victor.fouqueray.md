@@ -9,7 +9,7 @@ competences:
   - No-Code
 missions:
   - start: 2024-11-14
-    end: 2025-06-01
+    end: 2025-06-30
     status: service
     employer: Scopopop
     startups:

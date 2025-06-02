@@ -11,7 +11,6 @@ missions:
     employer: DINUM
     startups:
       - comobi
-      - mon-entreprise
   - start: 2017-10-02
     end: 2023-12-31
     status: independent

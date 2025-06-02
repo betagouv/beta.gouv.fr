@@ -17,7 +17,7 @@ missions:
     startups:
       - eimis
   - start: 2024-06-01
-    end: 2025-06-30
+    end: 2025-10-30
     status: independent
     employer: Malt
     startups:

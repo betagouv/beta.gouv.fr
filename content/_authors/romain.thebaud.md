@@ -5,7 +5,7 @@ domaine: Développement
 github: pitiscarf
 missions:
   - start: 2023-11-28
-    end: 2025-07-01
+    end: 2025-11-01
     status: independent
     employer: malt
     startups:

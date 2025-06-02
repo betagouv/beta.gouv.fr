@@ -24,7 +24,7 @@ missions:
       - données-et-territoires
       - umap
   - start: 2024-04-01
-    end: 2025-06-30
+    end: 2025-08-31
     status: independent
     employer: LBC
     startups:

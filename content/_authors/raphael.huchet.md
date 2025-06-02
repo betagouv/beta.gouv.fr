@@ -21,6 +21,12 @@ missions:
       - mano
       - monpsy
       - tdb-apprentissage
+  - start: 2025-06-02
+    end: 2025-10-01
+    status: independent
+    employer: Fabnum
+    startups:
+      - codedutravail
 incubator: sgmas
 competences:
   - Développement Frontend

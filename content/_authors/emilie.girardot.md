@@ -4,7 +4,7 @@ role: Ux Designer
 domaine: Design
 missions:
   - start: 2023-03-01
-    end: 2025-05-31
+    end: 2025-09-30
     status: service
     startups:
       - estime.formation

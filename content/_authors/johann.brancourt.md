@@ -1,10 +1,10 @@
 ---
 domaine: Développement
 fullname: Johann Brancourt
-role: Développeur full stack
+role: Développeur full stack - Architecte
 missions:
   - start: 2024-03-25
-    end: 2025-06-30
+    end: 2025-11-30
     status: independent
     employer: Malt
     startups:

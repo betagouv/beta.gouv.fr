@@ -11,7 +11,7 @@ competences:
   - JavaScript/TypeScript
 missions:
   - start: 2024-10-14
-    end: 2025-06-30
+    end: 2025-10-13
     status: independent
     employer: Scopyleft
     startups:

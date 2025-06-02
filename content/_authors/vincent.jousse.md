@@ -6,7 +6,7 @@ link: https://vincent.jousse.org
 github: vjousse
 missions:
   - start: 2021-12-06
-    end: 2024-06-06
+    end: 2025-09-02
     status: independent
     employer: Octo
     startups:

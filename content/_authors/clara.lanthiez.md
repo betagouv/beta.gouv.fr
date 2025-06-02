@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: Scopyleft
   - start: 2025-01-06
-    end: 2025-06-30
+    end: 2025-09-30
     status: independent
     employer: Malt
     startups:

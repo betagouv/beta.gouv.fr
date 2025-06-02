@@ -5,7 +5,7 @@ role: Product manager
 github: amaurydubot
 missions:
   - start: 2021-03-01
-    end: 2025-08-31
+    end: 2026-09-30
     status: admin
     startups:
       - rdv.insertion

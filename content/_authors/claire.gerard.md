@@ -16,11 +16,15 @@ missions:
     startups:
       - mesaidesreno
   - start: 2025-01-01
-    end: 2025-06-30
+    end: 2025-09-02
     status: independent
     employer: Malt
     startups:
       - mesaidesreno
-competences: []
+competences:
+  - UX
+  - UI
+github: dgedj
+link: https://www.linkedin.com/in/gerardclaire/
 ---
 UX/UI/designer

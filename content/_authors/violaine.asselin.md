@@ -5,7 +5,7 @@ domaine: Produit
 github: Vioasselin
 missions:
   - start: 2018-04-01
-    end: 2025-06-30
+    end: 2025-11-30
     status: independent
     employer: independant
     startups:

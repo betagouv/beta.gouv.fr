@@ -5,13 +5,13 @@ role: Développeur
 github: clementnumericite
 missions:
   - start: 2021-03-16
-    end: 2025-01-31
+    end: 2025-01-01
     status: independent
-    employer: Octo
+    employer: Numéricité
     startups:
       - pass.engagement.jeune
   - start: 2025-04-03
-    end: 2025-06-30
+    end: 2025-10-31
     status: service
     employer: Scopyleft
     startups:

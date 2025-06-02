@@ -33,6 +33,13 @@ missions:
     employer: Malt
     startups:
       - annuaire-entreprises
+  - start: 2025-03-03
+    end: 2025-10-31
+    status: independent
+    employer: malt
+    startups:
+      - aides-territoires
+      - mon.espace.collectivite
 previously:
   - france-numerique-ensemble
   - maintenant

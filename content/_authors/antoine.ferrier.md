@@ -5,13 +5,13 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/aferrierb/
 missions:
   - start: 2023-06-01
-    end: 2025-06-30
+    end: 2025-11-30
     status: independent
     employer: Malt
     startups:
       - envergo
   - start: 2024-09-01
-    end: 2025-06-30
+    end: 2025-11-30
     status: independent
     employer: Malt
     startups:

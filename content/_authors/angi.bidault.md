@@ -11,7 +11,7 @@ missions:
     startups:
       - ecobalyse
   - start: 2024-06-10
-    end: 2026-01-13
+    end: 2025-03-31
     status: independent
     employer: SEVES
     startups:

@@ -10,7 +10,7 @@ missions:
     startups:
       - ecobalyse
   - start: 2024-06-10
-    end: 2025-10-20
+    end: 2025-03-31
     status: independent
     employer: LBC
     startups:
