@@ -1,6 +1,6 @@
 ---
 fullname: Gaëlle Maurugeon
-role: Coach
+role: Coach/Mentor
 domaine: Coaching
 link: https://www.linkedin.com/in/gaelle-maurugeon/
 missions:
@@ -11,12 +11,18 @@ missions:
     startups:
       - snu
   - start: 2025-01-20
-    end: 2025-06-30
+    end: 2025-07-31
     status: independent
     employer: NUMA
     startups:
       - aides-territoires
       - mon.espace.collectivite
+  - start: 2025-05-07
+    end: 2025-10-31
+    status: independent
+    employer: NUMA
+    startups:
+      - transition-ecologique-des-entreprises
 memberType: beta
 competences:
   - Facilitation

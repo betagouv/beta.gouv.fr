@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/regnermartin/
 github: martinregner
 missions:
   - start: 2019-01-10
-    end: 2025-06-30
+    end: 2026-06-30
     status: admin
     employer: ADEME
 teams:

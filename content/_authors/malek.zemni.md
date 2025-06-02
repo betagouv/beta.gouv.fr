@@ -5,7 +5,7 @@ domaine: Développement
 github: mzem
 missions:
   - start: 2021-10-20
-    end: 2025-06-30
+    end: 2025-10-31
     status: service
     employer: OCTO
     startups:

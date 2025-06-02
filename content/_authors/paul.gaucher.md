@@ -5,10 +5,11 @@ domaine: Développement
 github: pomarom
 missions:
   - start: 2024-01-08
-    end: 2025-06-08
+    end: 2025-12-02
     status: independent
     startups:
       - tdb-apprentissage
 memberType: beta
-competences: []
+competences:
+  - Développement Full-stack
 ---

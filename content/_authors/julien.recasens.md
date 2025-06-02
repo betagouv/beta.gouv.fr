@@ -16,12 +16,12 @@ missions:
     startups:
       - pass-sport
   - start: 2024-09-02
-    end: 2025-02-28
+    end: 2025-07-01
     status: independent
     startups:
       - mon-diagnostic-artificialisation
   - start: 2024-12-03
-    end: 2025-06-30
+    end: 2025-04-10
     status: independent
     startups:
       - zero-logement-vacant

@@ -5,7 +5,7 @@ domaine: Développement
 github: Michaelvilleneuve
 missions:
   - start: 2023-07-17
-    end: 2025-06-17
+    end: 2025-10-17
     status: independent
     startups:
       - rdv.insertion

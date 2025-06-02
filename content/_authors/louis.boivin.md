@@ -6,7 +6,7 @@ competences:
   - Data Science
 missions:
   - start: 2024-11-04
-    end: 2025-06-30
+    end: 2025-07-30
     status: independent
     employer: Malt
     startups:

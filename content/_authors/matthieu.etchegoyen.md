@@ -24,9 +24,9 @@ missions:
     startups:
       - recommandations-collaboratives
   - start: 2025-01-01
-    end: 2025-06-30
+    end: 2025-08-30
     status: independent
-    employer: LittleBig Connection
+    employer: LittleBig Connection / Malt
     startups:
       - recommandations-collaboratives
 memberType: beta

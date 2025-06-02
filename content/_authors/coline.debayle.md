@@ -4,7 +4,7 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2023-11-06
-    end: 2025-06-30
+    end: 2025-10-01
     status: independent
     employer: NUMA
     startups:
@@ -22,12 +22,13 @@ missions:
     startups:
       - etat-sanitaire-des-monuments-historiques-en-mobilite
   - start: 2025-01-01
-    end: 2025-06-20
+    end: 2025-10-12
     status: independent
     employer: Dynergie
     startups:
       - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
 memberType: dinum
 competences: []
+link: https://www.linkedin.com/in/coline-debayle-45855522/
 ---
 Entrepreneur à impact depuis toujours !

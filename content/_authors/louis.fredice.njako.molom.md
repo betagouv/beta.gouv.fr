@@ -13,7 +13,7 @@ competences:
   - JavaScript/TypeScript
 missions:
   - start: 2025-01-06
-    end: 2025-07-01
+    end: 2025-11-29
     status: independent
     employer: Malt
     startups:

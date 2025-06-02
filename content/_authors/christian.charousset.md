@@ -5,7 +5,7 @@ domaine: Déploiement
 github: chrischarousset
 missions:
   - start: 2021-12-13
-    end: 2025-06-30
+    end: 2025-11-01
     status: independent
     employer: DINUM
     startups:

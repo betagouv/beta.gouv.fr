@@ -1,7 +1,7 @@
 ---
 fullname: Thomas Glatt
 domaine: Coaching
-role: Coach / PO / Dev
+role: Coach & Responsable produit
 github: tglatt
 missions:
   - start: 2019-01-01

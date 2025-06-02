@@ -1,7 +1,7 @@
 ---
 fullname: Do  Huynh
 role: ML engineer, data-analyst, data scientist
-domaine: Développement
+domaine: Data
 missions:
   - start: 2022-10-01
     end: 2024-06-30
@@ -29,8 +29,8 @@ missions:
     employer: Malt
     startups:
       - monprojetsup
-  - start: 2025-03-17
-    end: 2025-06-30
+  - start: 2025-04-01
+    end: 2025-10-31
     status: independent
     employer: ut/7
     startups:

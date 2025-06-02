@@ -16,10 +16,10 @@ competences:
   - Développement Frontend
 missions:
   - start: 2025-01-20
-    end: 2025-06-15
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:
       - tous.a.bord
 ---
-Data analyst pendant 6 ans puis data scientist pendant 3 ans, je suis passé au développement web et mobile il y a 7 ans. Aujourd'hui, j'aime développer des applications de manière agile, en particulier celles avec de nouvelles technologies, qui sont axées sur les données et qui font la différence dans des domaines qui ont du sens pour moi (écologie, éducation, social...)
+Développeuse fullstack avec une spécialité dans les produits data

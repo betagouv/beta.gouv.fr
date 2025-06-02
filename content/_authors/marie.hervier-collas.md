@@ -5,7 +5,7 @@ role: Intraprenariat
 avatar: /img/authors/marie.hervier-collas.jpg
 missions:
   - start: 2024-04-04
-    end: 2025-07-01
+    end: 2025-11-01
     status: admin
     startups:
       - carte-verte

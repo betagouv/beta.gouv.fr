@@ -12,7 +12,7 @@ missions:
       - 1000.premiers.jours.blues
       - archifiltre
   - start: 2025-01-21
-    end: 2025-07-01
+    end: 2025-10-15
     status: independent
     employer: Malt
     startups:

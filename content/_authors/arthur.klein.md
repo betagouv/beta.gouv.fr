@@ -16,12 +16,17 @@ missions:
     startups:
       - icare-complements-alimentaires
   - start: 2025-01-02
-    end: 2025-06-30
+    end: 2025-09-30
     status: independent
     employer: Numa
     startups:
       - audiodescription
 memberType: beta
-competences: []
+competences:
+  - Product design
+  - Product strategy
+  - UX
+  - Coaching
+link: https://www.linkedin.com/in/arthur-klein/
 ---
 Designer et coach
