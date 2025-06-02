@@ -16,17 +16,14 @@ sponsors:
   - /organisations/dgeb
 phases:
   - name: investigation
-    comment: null
     start: 2024-12-02
-    end: null
   - name: construction
-    comment: null
     start: 2025-04-09
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-05-26
+techno: []
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

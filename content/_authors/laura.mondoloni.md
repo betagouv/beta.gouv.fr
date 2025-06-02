@@ -23,4 +23,6 @@ missions:
 memberType: beta
 github: LauraMondoloni31
 competences: []
+teams:
+  - /teams/anssi
 ---
