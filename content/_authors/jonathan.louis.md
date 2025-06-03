@@ -1,11 +1,11 @@
 ---
 fullname: Jonathan Louis
 domaine: Déploiement
-role: Chargé de déploiement
+role: Chargé de déploiement SEO
 github: Jonathan2051
 missions:
   - start: 2020-07-20
-    end: 2025-06-30
+    end: 2025-09-30
     status: independent
     employer: Octo puis Opteamis
     startups:
@@ -23,7 +23,7 @@ missions:
     startups:
       - tchap
   - start: 2022-09-01
-    end: 2025-06-30
+    end: 2025-10-30
     status: independent
     employer: Malt
     startups:
@@ -35,7 +35,7 @@ missions:
     startups:
       - deveco
   - start: 2025-02-01
-    end: 2025-04-30
+    end: 2025-10-30
     status: independent
     employer: Data.gouv.fr
     startups:

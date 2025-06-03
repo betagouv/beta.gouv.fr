@@ -21,8 +21,11 @@ phases:
 thematiques:
   - Travail / Emploi
   - Formation
-usertypes: []
-techno: []
+usertypes:
+  - particulier
+techno:
+  - angular
+  - java
 events:
   - name: product_launch
     date: 2023-10-23

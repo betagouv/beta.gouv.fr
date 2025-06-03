@@ -4,7 +4,7 @@ fullname: Ugo Parment
 role: Autre
 missions:
   - start: 2024-04-17
-    end: 2025-06-30
+    end: 2025-12-01
     status: independent
     employer: Malt
     startups:

@@ -21,6 +21,12 @@ missions:
     employer: NUMA
     startups:
       - icare-complements-alimentaires
+  - start: 2025-05-15
+    end: 2025-11-14
+    status: service
+    employer: NUMA
+    startups:
+      - plusfraichemaville
 memberType: beta
 link: https://www.linkedin.com/in/m%C3%A9laniebriand/
 competences:

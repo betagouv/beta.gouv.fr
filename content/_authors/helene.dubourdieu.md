@@ -1,6 +1,6 @@
 ---
 fullname: Hélène Dubourdieu
-role: Responsable déploiement / support
+role: Responsable support
 domaine: Support
 github: HeleneDubourdieu
 missions:
@@ -14,5 +14,10 @@ missions:
     status: independent
     startups:
       - icare-complements-alimentaires
+  - start: 2025-06-03
+    end: 2025-09-03
+    status: independent
+    startups:
+      - la-bonne-alternance
 competences: []
 ---

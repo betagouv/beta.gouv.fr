@@ -33,6 +33,12 @@ missions:
     employer: dynergie
     startups:
       - envirogend
+  - start: 2025-05-02
+    end: 2025-09-03
+    status: independent
+    employer: Little Big Connection
+    startups:
+      - resultats-elections-fpt
 competences:
   - Coaching
   - Product strategy
