@@ -9,6 +9,7 @@ usertypes:
   - Préfectures
 techno:
   - python
+  - grist
 title: Résultats Elections FPT
 mission: Saisir et centraliser les résultats des élections professionnelles dans la fonction publique territoriale
 incubator: dinum
@@ -16,13 +17,11 @@ sponsors:
   - /organisations/direction-generale-des-collectivites-locales
 phases:
   - name: construction
-    comment: null
     start: 2025-04-30
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-01-01
+link: ''
 ---
 ## Contexte
 

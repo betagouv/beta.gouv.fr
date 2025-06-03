@@ -11,8 +11,7 @@ competences:
 missions:
   - start: 2025-06-02
     end: 2025-08-03
-    employer: 'Ministère des Armées '
     status: admin
-    startups: []
+    employer: 'Ministère des Armées '
 ---
 Design de service, innovation responsable & UX

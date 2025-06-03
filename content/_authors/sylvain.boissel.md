@@ -6,7 +6,7 @@ link: https://boissel.dev
 github: ash-crow
 missions:
   - start: 2022-01-21
-    end: 2025-05-30
+    end: 2025-12-01
     status: independent
     employer: Malt
     startups:

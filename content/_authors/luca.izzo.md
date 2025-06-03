@@ -11,6 +11,5 @@ missions:
     status: admin
     employer: MTE
     startups:
-      - carbure
       - durabilite-de-la-biomasse
 ---

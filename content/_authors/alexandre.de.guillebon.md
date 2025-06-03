@@ -13,10 +13,11 @@ competences:
   - Docker
 missions:
   - start: 2025-01-13
-    end: 2025-06-29
+    end: 2025-11-30
     status: independent
     employer: Malt
     startups:
       - datalma
+      - partageons-l-eau
 github: Olecck
 ---

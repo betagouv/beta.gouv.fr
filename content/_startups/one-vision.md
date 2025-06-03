@@ -17,23 +17,42 @@ phases:
 events:
   - name: committee
     date: 2025-04-11
+techno: []
+sponsors:
+  - /organisations/dgfip
 link: ''
 ---
 ## Contexte
 
-Quel est le contexte de ta Startup d'État ?
+En cours de rédaction
 
 ## Problème
 
-Les problèmes que vous avez identifiés ou vos hypothèses de problèmes ? Qui en souffre ? Quelles sont les conséquences de ces problèmes ?
+En cours de rédaction
 
 ## Solution
 
-Décris ta solution en quelques lignes ? Qui seront les bénéficiaires ?
+En cours de rédaction
 
-## Objectifs à 6 mois
+## Objectifs à 6 mois: lancer une expérimentation pour mesurer l'impact de l'outil
 
-Objectif **d'usage** à 6 mois : quel usage chiffré visez-vous ?
+L'expérimentation se déroulera sur une période d'environ un mois sur les départements de Charente-Maritime, du Val d'Oise et de l'Essonne auprès des agents:
+* des Services de Gestion Comptable (SGC),
+* des Services des Impôts des Entreprises (SIE),
+* des trésoreries Amendes,
+* des services de recouvrements de produits divers en direction.
+---
+L'expérimentation couvrira le périmètre des personnes morales de droit privé en exploitant les données:
 
-Objectif **d'impact** à 6 mois : quel impact chiffré vous permettra de dire que votre première phase de construction a été un succès ?
+**au niveau des sources débitrices** (ce que l'entreprise doit à l’État):
+* amendes,
+* restes à recouvrer du Secteur Public Local (loyer, etc...) (SPL),
+* restes à recouvrer côté Impôts des Professionnels (Cotisation Foncière des Entreprises, etc..),
+* recettes non fiscales (Recette des activités industrielles et commerciales, etc...).
+
+**au niveau des sources créditrices** (ce que l’État doit à l'entreprise):
+* de Taxe sur la Valeur Ajoutée (TVA),
+* des excédents de versements (trop perçu de CVAE, etc...),
+* de l'Impôt sur les sociétés (IS).
+
 

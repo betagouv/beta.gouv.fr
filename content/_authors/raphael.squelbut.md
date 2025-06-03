@@ -11,10 +11,11 @@ missions:
     startups:
       - signaux-faibles
   - start: 2024-04-16
-    end: 2025-06-30
+    end: 2025-10-30
     status: service
     employer: SHODO
     startups:
+      - messagerie
       - suite-numerique
 memberType: beta
 previously:
