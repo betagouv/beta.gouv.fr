@@ -7,8 +7,8 @@ competences:
 missions:
   - start: 2024-06-21
     end: 2025-11-30
-    employer: Fabnum
     status: admin
+    employer: Fabnum
     startups:
       - viz-eau
 ---

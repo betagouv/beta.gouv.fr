@@ -5,16 +5,13 @@ contact: Lucile.Gauchet@developpement-durable.gouv.fr
 title: Viz'eau
 mission: Investigation sur l'eau
 incubator: mtes
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-06-03
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-06-03
+link: ''
 ---
 En cours de rédaction.
 
