@@ -1,8 +1,8 @@
 ---
 mission: Évaluez vos aides à la rénovation en 5 minutes en fonction de votre situation et de votre projet
 incubator: dinum
-title: Mes aides Réno
-contact: mael.inizan@beta.gouv.fr
+title: Mes Aides Réno
+contact: louis.laroche@beta.gouv.fr
 accessibility_status: non conforme
 link: https://mesaidesreno.beta.gouv.fr
 repository: https://github.com/betagouv/reno
@@ -11,6 +11,7 @@ techno:
   - React
   - publi.codes
 sponsors:
+  - /organisations/anah
   - /organisations/dinum
 phases:
   - name: investigation
@@ -19,12 +20,15 @@ phases:
     start: 2024-02-15
 thematiques:
   - Écologie
+  - Logement
 fast:
   promotion: 16
   montant: 200000
-usertypes: []
+usertypes:
+  - particulier
 stats_url: https://mesaidesreno.beta.gouv.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/mesaidesreno-beta-gouv-fr/
+budget_url: https://beta.gouv.fr/startups/mesaidesreno.html#notre-budget
 ---
 ## Contexte
 
@@ -86,3 +90,22 @@ Le service est disponible sur un plateforme dédié (https://mesaidesreno.beta.g
 👉  Nombre d’intégrations des données par des services tiers : **5 intégrations par des services tiers** (publics ou privés)
  
 👉  Conversion : **10% de prise de rdv** avec un conseiller France Rénov’ suite à une simulation
+
+## Notre budget
+### Financement
+2024 : 
+*  SGPE (FINDPE) : 296 957 €
+*  DINUM : 81 804 €
+
+2025 : 
+* ANAH : 249 000 €
+* DINUM (FAST) : 200 000 €
+
+### Allocation
+
+| | 2024 | 2025 |
+| --- | --- | --- |
+| Développement | 200 122 € | (en cours) |
+| Design | 23 188 € | (en cours) |
+| Déploiement | 54 432 € | (en cours) |
+

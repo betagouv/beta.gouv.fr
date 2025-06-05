@@ -1,5 +1,5 @@
 ---
-mission: 'Découvrez les meilleures aides pour votre entreprise agricole '
+mission: 'Orienter les agriculteurs vers les dispositifs les plus pertinents pour leur exploitation : aide financière, formation, accompagnement...'
 incubator: agriculture
 title: 'Aides Agri '
 contact: beatrice.neyrac@agriculture.gouv.fr
@@ -22,7 +22,11 @@ techno:
 mon_service_securise: true
 repository: https://github.com/betagouv/aides-agri
 dashlord_url: https://dashlord.incubateur-agriculture.beta.gouv.fr/url/aides-agri-beta-gouv-fr/
-link: ''
+link: https://aides-agri.beta.gouv.fr/
+events:
+  - name: other
+    date: 2025-06-05
+    comment: Lancement du MVP
 ---
 ## Contexte
 
@@ -36,7 +40,7 @@ L’atelier de cadrage du 13 mai 2024 a ensuite fait émerger un premier périm�
 existence. Ces aides sont portées par une multiplicité d’acteurs dont les rôles sont parfois mal compris.
 * **_Un manque de lisibilité_** : une fois identifiées, les aides ne sont pas toujours faciles
 à comprendre ;
-* Un sentiment de **_manque d’accompagnement humain_** dans des parcours qui
+* Un sentiment de **_manque d’accompagnement_** dans des parcours qui
 peuvent être complexes.
 
 
@@ -47,15 +51,14 @@ peuvent être complexes.
 
 **Conséquences** :  
 * une difficulté à identifier / solliciter les aides adéquates face à la diversité des dispositifs proposés. 
-
 * un manque de visibilité sur les conseillers adéquats à solliciter, en fonction du projet. 
 
 
 ## Solution
 
 Aides Agri est une plateforme digitale qui **permet aux exploitants d’identifier et d’activer facilement des solutions adaptées** (financières, techniques...) grâce à : 
-* **_une analyse précise de leurs besoins_**
-* **_une présentation pédagogique des aides_**
-* **_une mise en relation avec le bon conseiller par téléphone_** ou un aiguillage vers le dépôt de dossier.
+* **_une centralisation des aides publiques à destination des agriculteurs mises à jour_**
+* **_une sélection personnalisée de dispositifs adaptée à leur situation en seulement 4 étapes_**
+* **_une orientation vers les interlocuteurs pertinents pour déposer votre dossier_** 
 
 Ainsi, en fonction de leurs besoins et de leur profil, plusieurs aides pourront être proposées, avec le cas échéant un aiguillage vers les bons guichets et/ou interlocuteurs.

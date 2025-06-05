@@ -11,7 +11,7 @@ missions:
     startups:
       - pilotage.de.linclusion
   - start: 2022-09-01
-    end: 2025-08-31
+    end: 2027-04-30
     status: admin
     employer: gip-inclusion
     startups:

@@ -13,9 +13,16 @@ incubator: culture
 phases:
   - name: investigation
     start: 2025-01-01
+  - name: construction
+    start: 2025-07-07
 events:
-  - name: product_launch
-    date: 2025-03-21
+  - name: committee
+    date: 2025-04-10
+  - name: other
+    date: 2025-05-14
+    comment: 'Il a été décidé d''intégrer les besoins détectés lors de l''investigation dans un produit existant et en accélération : CR Vif'
+sponsors:
+  - /organisations/dgpat
 link: ''
 ---
 ## Contexte
@@ -39,7 +46,6 @@ Nous imaginons un service de rédaction de comptes-rendus en mobilité qui gén�
 
 ## Objectifs à 6 mois
 Nous envisageons une expérimentation sur une zone géographique délimitée.
-
 Objectifs d'usage : 25 comptes-rendus réalisés sur la plateforme
 
 Objectif d'impact à 6 mois :
