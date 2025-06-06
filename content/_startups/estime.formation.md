@@ -54,6 +54,8 @@ events:
   - name: other
     date: 2024-07-22
     comment: Ouvertures parcours avec estimation du montant de rémunération uniquement pour les bénéficiaires de l'ACEJ
+analyse_risques: false
+repository: https://git.beta.francetravail.fr/open-source/estime-formation
 ---
 > ⚠️ Il est également disponible dans le guide des simulateurs sur le site France Travail
 

@@ -1,11 +1,11 @@
 ---
-domaine: Développement
+domaine: Produit
 github: yostyle
 missions:
   - start: 2023-08-21
-    end: 2025-05-31
-    status: independent
-    employer: Malt
+    end: 2025-08-31
+    status: admin
+    employer: DINUM
     startups:
       - suite-numerique
       - tchap
@@ -18,7 +18,7 @@ competences:
   - Matrix
 memberType: beta
 fullname: Yoan Pintas
-role: Architecte Technique Mobile - Référent Matrix
+role: Chef de produit Tchap - Expert Matrix
 link: https://www.linkedin.com/in/yoan-pintas-51280783/
 ---
 Passionné par les nouvelles technologies et voyageurs.
