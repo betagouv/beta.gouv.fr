@@ -59,6 +59,8 @@ En pratique, l'**absence de standardisation** des déclarations de taxe de séjo
 
 Côté Direction générale des Finances publiques (DGFiP), les comptables publics ne disposent pas de pièces justificatives fiables pour **sécuriser les versements** opérés par les plateformes numériques et ainsi **s’assurer de la bonne application des délibérations locales** et du rattachement des séjours déclarés aux bonnes collectivités.
 
+> [> Demander un accès au service](https://faritas.beta.gouv.fr/)
+
 ## La solution : un service numérique centralisé qui simplifie les démarches pour tous les acteurs impliqués dans cette chaîne fiscale
 
 Pour pallier aux difficultés rencontrées par les différents acteurs, l’offre de service FARITAS propose une solution centralisée qui s’articule autour d’une **interface de télédéclaration unique de la taxe de** **séjour** à l’attention des plateformes numériques de réservation, enrichie de modules d’analyse.
@@ -69,6 +71,7 @@ Une fois le dépôt accompli, les plateformes numériques reçoivent une notific
 
 De leur côté, les collectivités territoriales délibérantes en matière de taxe de séjour peuvent accéder aux déclarations des plateformes de réservation pour les séjours les concernant directement depuis le **Portail de la gestion publique**. Elles peuvent télécharger ces déclarations pour les intégrer à leur logiciel de gestion et disposer des mêmes rapports d’analyse tant sur la conformité réglementaire de la déclaration que sur la liquidation de la taxe elle-même.
 
+> [> Demander un accès au service](https://faritas.beta.gouv.fr/)
 
 ## Le parcours : de la phase d'investigation au passage à l'échelle
 
@@ -93,12 +96,17 @@ Le législateur a voté dans la **loi de finances pour 2024** promulguée le 30 
 Le service FARITAS a été ouvert aux collectivités territoriales en mai 2024 sur le Portail de la gestion publique puis aux opérateurs numériques en juin 2024 sur www.impots.gouv.fr.
 
 
+> [> Demander un accès au service](https://faritas.beta.gouv.fr/)
+
 ## L'impact : simplification de la gestion de la taxe de séjour et meilleure qualité fiscale
 
 La construction du projet FARITAS est guidée par plusieurs indicateurs d’impact, qui permettent d’ajuster les fonctionnalités à développer et de garantir la bonne adéquation du produit aux attentes de ses utilisateurs. Ces indicateurs s'attacheront à :
 * quantifier la **pénétration du service** qui reste facultatif dans le cadre de cette expérimentation législative (nombre d'utilisateurs actifs, volume de taxe traité)
 * objectiver la **simplification de la gestion** de cette taxe (gain de temps pour les agents des collectivités comme pour les déclarants).
 *  mesurer l'**amélioration de la qualité fiscale** (diminution du taux de non-conformité des déclaration, diminution des erreurs de liquidation de la taxe).
+
+> [> Demander un accès au service](https://faritas.beta.gouv.fr/)
+
 
 ## Indicateurs d'impact et d'usage
 
@@ -127,4 +135,4 @@ Retrouvez les principaux indicateurs du service sur le [site officiel FARITAS](h
 | 2022 | 250 000 € | Prototypage et tests produit
 | 2023 | 400 000 € | Mise en production à l'échelle nationale, amélioration continue
 | 2024 | 30 000 € | Accélération, déploiement, mise en conformité aux standards beta.gouv.fr
-| 2024 | 60 000 € | Fonds accessibilité
+| 2024 | 60 000 € | Fonds accessibilité 
