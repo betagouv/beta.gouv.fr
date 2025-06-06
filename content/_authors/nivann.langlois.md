@@ -6,7 +6,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/nivann-langlois-6b9134b8/
 missions:
   - start: 2022-02-21
-    end: 2025-07-14
+    end: 2025-06-04
     status: independent
     employer: Malt
     startups:
