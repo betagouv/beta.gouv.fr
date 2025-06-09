@@ -17,16 +17,14 @@ sponsors:
   - /organisations/dgca
 phases:
   - name: investigation
-    comment: null
     start: 2025-01-15
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2025-04-07
   - name: end
-    comment: Le comité d'investissement a orienté le produit vers d'autres pistes que celles d'une incubation.
     date: 2025-04-07
+    comment: Le comité d'investissement a orienté le produit vers d'autres pistes que celles d'une incubation.
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
