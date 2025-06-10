@@ -21,6 +21,12 @@ missions:
     employer: Little Big Connection
     startups:
       - mon-devis-sans-oublis
+  - start: 2025-06-09
+    end: 2025-11-30
+    status: independent
+    employer: La Zone / Fairness
+    startups:
+      - mutafriches
 competences:
   - Développement Full-stack
   - JavaScript/TypeScript

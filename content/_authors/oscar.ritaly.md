@@ -14,5 +14,10 @@ competences:
   - Croissance
   - Communication
   - Intrapreneur(se)
+  - déploiement
+  - biz dev
+  - impact
+  - CIO
+  - EIG
 link: https://www.linkedin.com/in/oritaly/
 ---

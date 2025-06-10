@@ -8,6 +8,7 @@ missions:
     status: admin
     employer: DINUM
     startups:
+      - mon-assistant-ia
       - refugies.info
 link: https://www.linkedin.com/in/luisarias/
 github: kaaloo

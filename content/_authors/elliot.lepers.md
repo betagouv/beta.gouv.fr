@@ -12,7 +12,7 @@ competences:
   - Facilitation
 missions:
   - start: 2024-12-02
-    end: 2025-06-30
+    end: 2025-09-30
     status: independent
     employer: Numa
 ---
