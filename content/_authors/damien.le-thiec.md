@@ -5,7 +5,7 @@ role: Product Manager
 github: damienlethiec
 missions:
   - start: 2022-09-12
-    end: 2025-07-10
+    end: 2025-07-31
     status: independent
     employer: Malt
     startups:

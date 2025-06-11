@@ -15,5 +15,11 @@ missions:
     employer: LBC
     startups:
       - mon-devis-sans-oublis
+  - start: 2025-06-10
+    end: 2025-10-09
+    status: independent
+    employer: MALT
+    startups:
+      - plusfraichemaville
 ---
 Product Designer avec un background marketing et +10 ans d’expérience.

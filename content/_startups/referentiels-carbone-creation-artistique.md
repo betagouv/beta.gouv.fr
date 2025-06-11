@@ -17,18 +17,18 @@ sponsors:
   - /organisations/dgca
 phases:
   - name: investigation
-    comment: null
     start: 2025-01-15
-    end: null
+  - name: alumni
+    start: 2025-04-08
 events:
   - name: committee
-    comment: ''
     date: 2025-04-07
   - name: end
-    comment: Le comité d'investissement a orienté le produit vers d'autres pistes que celles d'une incubation.
     date: 2025-04-07
+    comment: Le comité d'investissement a orienté le produit vers d'autres pistes que celles d'une incubation.
+link: ''
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
+
 
 ## Contexte
 
@@ -45,14 +45,14 @@ Depuis 2023, la Mission transition écologique de la création (MTEC) au sein de
 
 L’hypothèse initiale était qu’il manquait un outil public simple et rapide permettant aux structures culturelles de réaliser une estimation carbone fiable en amont de leur plan d’action, sans nécessairement passer par un bilan complet.
 
-**L’objectif de l’investigation était d’étudier la faisabilité :
-**- d’une méthode d’estimation simplifiée à partir de quelques variables administratives disponibles ;
+**L’objectif de l’investigation était d’étudier la faisabilité :**
+- d’une méthode d’estimation simplifiée à partir de quelques variables administratives disponibles ;
 - d’un accompagnement outillé permettant de prioriser les actions de réduction et d’orienter vers les dispositifs d’appui existants.
 
 ## Solution
 
-**L’investigation conduite par la DGCA a consisté à :
-**- cartographier les outils existants (ROF, AFO, SEEDS, Fairly, etc.) et leurs limites pour les structures du champ création artistique ;
+**L’investigation conduite par la DGCA a consisté à :**
+- cartographier les outils existants (ROF, AFO, SEEDS, Fairly, etc.) et leurs limites pour les structures du champ création artistique ;
 - identifier qu’une estimation initiale peut être produite à partir d’une dizaine de variables accessibles par les administrateurs de structures ;
 - confirmer que le besoin principal n’est pas le bilan lui-même mais la priorisation et l’orientation vers les ressources adaptées après ce premier cadrage ;
 - observer que les démarches de diagnostic environnemental fonctionnent mieux lorsqu’elles sont collectives et accompagnées ;

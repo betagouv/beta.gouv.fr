@@ -9,7 +9,7 @@ missions:
     startups:
       - la-bonne-alternance
   - start: 2025-03-10
-    end: 2025-07-09
+    end: 2025-10-31
     status: independent
     employer: ut7
     startups:

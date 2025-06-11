@@ -1,5 +1,5 @@
 ---
-analyse_risques: false
+analyse_risques: true
 mon_service_securise: true
 contact: virgile.deville@beta.gouv.fr
 repository: https://github.com/suitenumerique/docs
@@ -21,9 +21,12 @@ sponsors:
 phases:
   - name: construction
     start: 2024-01-31
+  - name: acceleration
+    start: 2025-06-01
 events:
   - name: product_launch
     date: 2024-10-01
+accessibility_status: partiellement conforme
 ---
 ## Contexte
 

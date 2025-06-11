@@ -9,6 +9,10 @@ missions:
     status: admin
     startups:
       - besoins.opco
+      - clara
+      - dematapprentissage
+      - la-bonne-alternance
+      - tdb-apprentissage
   - start: 2025-05-27
     end: 2025-11-01
     status: independent

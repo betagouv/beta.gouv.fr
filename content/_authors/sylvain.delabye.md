@@ -5,7 +5,7 @@ domaine: Développement
 github: syldb
 missions:
   - start: 2023-12-04
-    end: 2025-06-30
+    end: 2025-08-31
     status: independent
     employer: Octo&#x2F;Malt
     startups:
