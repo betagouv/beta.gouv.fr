@@ -34,6 +34,7 @@ techno:
   - Node.js
   - json
 mon_service_securise: false
+impact_url: https://opentermsarchive.org/fr/impact/
 ---
 [Open Terms Archive](https://opentermsarchive.org/fr/) est un outil libre et ouvert de suivi et d’archivage des évolutions des conditions générales d’utilisation des principaux fournisseurs de services en ligne qui vise à rééquilibrer le rapport de force avec les grandes plateformes.
 

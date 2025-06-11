@@ -34,6 +34,7 @@ techno:
 budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?tab=t.0
 mon_service_securise: true
 dashlord_url: https://dashlord.incubateur.net/url/api-data-inclusion-beta-gouv-fr/
+impact_url: https://data.inclusion.gouv.fr/nos-indicateurs/
 ---
 ## Le problème
 

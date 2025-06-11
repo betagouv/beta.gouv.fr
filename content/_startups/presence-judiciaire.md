@@ -14,13 +14,11 @@ sponsors:
   - /organisations/tribunal-judiciaire-de-chalon-sur-saone
 phases:
   - name: investigation
-    comment: null
     start: 2025-06-11
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2025-07-10
+link: ''
 ---
 ## Contexte
 

@@ -47,6 +47,7 @@ techno:
   - react
 analyse_risques: true
 budget_url: https://pad.numerique.gouv.fr/s/WYougVwWu#Mobilic
+impact_url: https://mobilic.beta.gouv.fr/stats
 ---
 Pour répondre aux exigences du droit du travail, **les employeurs ont l’obligation de suivre le temps de travail de leurs conducteurs**. Dans le secteur des transports routiers, les conducteurs étant mobiles, le décompte de leur temps de travail ne peut pas se faire au siège de leur entreprise. Il est donc fait par les conducteurs à l’aide d’un dispositif qu’ils emportent avec eux.
 

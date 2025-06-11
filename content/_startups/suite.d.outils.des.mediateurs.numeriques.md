@@ -27,6 +27,7 @@ link: https://coop-numerique.anct.gouv.fr/
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/coop-numerique-anct-gouv-fr/
 analyse_risques: false
 stats_url: https://coop-numerique.anct.gouv.fr/statistiques
+impact_url: https://coop-numerique.anct.gouv.fr/statistiques
 ---
 ## Contexte
 

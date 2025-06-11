@@ -31,6 +31,7 @@ mon_service_securise: true
 stats_url: https://collectivite.fr/stats
 usertypes: []
 techno: []
+impact_url: https://collectivite.fr/stats
 ---
 ## Contexte
 

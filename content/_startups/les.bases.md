@@ -28,6 +28,7 @@ usertypes:
 techno:
   - next.js
 budget_url: https://lesbases.anct.gouv.fr/budget
+impact_url: https://lesbases.anct.gouv.fr/statistiques
 ---
 ## Contexte
 

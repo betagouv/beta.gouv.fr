@@ -34,6 +34,7 @@ events:
   - name: committee
     date: 2025-02-05
     comment: Comité d'investissement
+impact_url: https://statistiques.aplus.beta.gouv.fr/public/dashboard/faca8f39-78f4-40df-aa9a-15ae19cca8a5
 ---
 ## Un problème qui peut toucher tout le monde : être privé de ses droits à cause de blocages administratifs
 
