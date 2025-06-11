@@ -35,6 +35,9 @@ mon_service_securise: true
 ---
 Recommandations-collaboratives fait avancer les demandes & dossiers complexes en structurant le conseil et la collaboration. C’est un outil de mise en relation et de conseil humain entre des demandeurs et des réseaux de conseillers.
 
+Recommandations-collaboratives (Reco-co) est un produit numérique commun permettant de soutenir l'action de conseil sur des projets opérationnels d'une ou plusieurs administrations en collaboration, au service d'une cible (collectivité ou autre) en déficit d'ingéniérie, perdue dans l'écosystème d'outils/solutions/financements relatifs à sa question.
+Reco-co permet d'organiser cette relation de conseil avec le dépôt de la demande et sa qualification (état des lieux), le mécanisme de conversations et de recommandations émises par les agents conseillers (mono ou multi administration) avec la capitalisation via des fiches ressources réutilisables, et le suivi dans le temps du déblocage de l'entité conseillée (retours d'impact sur le conseil, nouvelle question sur un nouveau blocage, etc.). Ce faisant, Reco-co augmente l'efficacité de l'écosystème de conseil tout en permettant l'évaluation de l'impact des dispositifs lancés.
+
 ## Le problème 
 
 Les porteurs de projet ont des difficultés à faire avancer leurs projets par manque d’ingénierie en interne. Souvent, ils ne savent pas par où s’y prendre, quels acteurs peuvent les aider, quels financements leur sont accessibles etc. Ils sont alors souvent bloqués ou limités, dans la définition du projet ou dans sa maturation, ce qui en outre les défavorise dans l’obtention de fonds.
