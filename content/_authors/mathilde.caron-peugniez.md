@@ -16,8 +16,6 @@ missions:
     startups:
       - mobilic
 memberType: beta
-teams:
-  - /teams/mtes
 competences:
   - Intrapreneur(se)
   - Droit / Affaires juridiques

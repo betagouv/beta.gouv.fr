@@ -9,8 +9,6 @@ missions:
     end: 2023-08-22
     status: admin
     employer: IGN
-teams:
-  - /teams/fab-geocommuns
 memberType: beta
 ---
 Fabricant de géocommuns

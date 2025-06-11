@@ -12,8 +12,6 @@ missions:
       - proconnect
       - suite-numerique
 memberType: beta
-teams:
-  - /teams/fast-dinum
 competences:
   - Data Science
   - Administration Publique

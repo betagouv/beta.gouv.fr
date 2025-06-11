@@ -8,7 +8,5 @@ missions:
     status: admin
     startups:
       - versementgetorix
-teams:
-  - /teams/culture
 ---
 Archiviste et en charge de la carte archéologique au Service régional d'archéologie de Bretagne

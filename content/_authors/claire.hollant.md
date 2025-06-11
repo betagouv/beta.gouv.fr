@@ -10,5 +10,4 @@ missions:
     employer: 'Malt '
     startups:
       - aides-territoires
-teams: []
 ---

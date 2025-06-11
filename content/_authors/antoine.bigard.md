@@ -35,7 +35,5 @@ competences:
   - Product strategy
   - Développement Full-stack
   - DevOps
-teams:
-  - /teams/mission-apprentissage
 link: https://www.linkedin.com/in/antoine-bigard/
 ---

@@ -27,6 +27,4 @@ competences:
   - Communication
   - Croissance
   - Coaching
-teams:
-  - /teams/lab-mi
 ---

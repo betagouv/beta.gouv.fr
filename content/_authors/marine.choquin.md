@@ -14,6 +14,4 @@ missions:
       - lannuaire.des.collectivites
 competences:
   - Administration Publique
-teams:
-  - /teams/anct
 ---

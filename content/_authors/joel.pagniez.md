@@ -19,6 +19,4 @@ previously:
 competences:
   - Coaching
   - Développement
-teams:
-  - /teams/lab-mi
 ---

@@ -14,6 +14,4 @@ missions:
 competences:
   - Communication
   - Product strategy
-teams:
-  - /teams/gip-inclusion
 ---

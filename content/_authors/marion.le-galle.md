@@ -12,7 +12,5 @@ missions:
       - labonneplace
       - mes.aides.a.lembauche
       - polex
-teams:
-  - /teams/francetravail-animation
 ---
 Agent à la DSI de Nantes - Incubateur Startup Pôle emploi Design graphique & Thinking. Worshops, conception Users experiences. “Fail often, fail fast,” ― Donald A. Norman

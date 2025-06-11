@@ -20,8 +20,6 @@ missions:
     status: admin
     startups:
       - data-inclusion
-teams:
-  - /teams/gip-inclusion
 previously:
   - les-emplois
   - place-de-marche-inclusion

@@ -15,8 +15,6 @@ missions:
     startups:
       - droit-data-gouv-fr-simulateurs-de-droits
 memberType: beta
-teams:
-  - /teams/animation-dinum
 link: https://www.linkedin.com/in/yowamuzadi/
 competences:
   - Intrapreneur(se)

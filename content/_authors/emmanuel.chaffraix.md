@@ -12,14 +12,13 @@ competences:
 missions:
   - start: 2025-05-21
     end: 2025-09-11
-    employer: omnicité
     status: independent
+    employer: omnicité
     startups:
       - agents.en.intervention
       - deveco
       - services-web-anct
       - suite.territoriale
-teams: []
 ---
 Passionné par le développement depuis l'age de 15 ans, j'ai travaillé au sein de grand groupe avant de créer différentes startups.
 

@@ -10,5 +10,4 @@ missions:
     employer: Numih France
     startups:
       - data.etat
-teams: []
 ---

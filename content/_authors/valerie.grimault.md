@@ -9,7 +9,5 @@ missions:
     status: admin
     employer: DNUM
 memberType: autre
-teams:
-  - /teams/animation-atelier_meae
 ---
 Docteure en psychologie, ingénieure en machine learning
