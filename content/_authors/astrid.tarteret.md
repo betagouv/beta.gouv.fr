@@ -21,4 +21,5 @@ missions:
       - partageons-l-eau
 memberType: beta
 competences: []
+github: AstridT-git
 ---

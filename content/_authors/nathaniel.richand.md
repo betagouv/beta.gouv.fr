@@ -12,13 +12,13 @@ missions:
     startups:
       - signalement
   - start: 2022-04-01
-    end: 2025-06-30
+    end: 2025-11-30
     status: independent
     employer: Opteamis
     startups:
       - reva
   - start: 2024-09-03
-    end: 2025-05-30
+    end: 2025-09-30
     status: independent
     employer: Malt
     startups:
