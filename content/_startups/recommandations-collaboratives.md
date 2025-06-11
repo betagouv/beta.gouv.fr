@@ -13,7 +13,6 @@ usertypes:
 stats_url: https://recommandations-collaboratives.beta.gouv.fr/stats-impact/
 title: Recommandations-collaboratives
 sponsors:
-  - /organisations/anct
   - /organisations/cerema
   - /organisations/dgaln
   - /organisations/dinum

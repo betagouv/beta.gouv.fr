@@ -27,7 +27,5 @@ badges:
   - segur
 competences:
   - Administration Publique
-teams:
-  - /teams/dinum
 ---
 J'essaie de faire quelque chose pour l'humanité en luttant contre la pauvreté

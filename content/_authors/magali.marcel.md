@@ -14,6 +14,4 @@ previously:
 competences:
   - Administration Publique
   - Gestion de Produit
-teams:
-  - /teams/fabrique-dgfip-responsable-de-portefeuille
 ---

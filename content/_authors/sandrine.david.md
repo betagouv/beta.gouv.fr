@@ -12,6 +12,4 @@ missions:
 incubator: francetravail
 competences:
   - Gestion de Produit
-teams:
-  - /teams/francetravail-animation
 ---

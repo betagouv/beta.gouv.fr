@@ -21,7 +21,5 @@ missions:
 badges:
   - segur
 github: jihanehrz
-teams:
-  - /teams/animation-dinum
 competences: []
 ---

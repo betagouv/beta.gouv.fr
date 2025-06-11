@@ -17,7 +17,5 @@ missions:
     employer: GIP Plateforme de l'inclusion
     startups:
       - place-de-marche-inclusion
-teams:
-  - /teams/gip-inclusion
 competences: []
 ---

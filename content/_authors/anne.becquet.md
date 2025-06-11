@@ -34,8 +34,6 @@ missions:
       - lex-base
       - portail-greffe-gestion-des-audiences
       - portail-greffe-gestion-des-dossiers
-teams:
-  - /teams/mission-apprentissage
 link: https://www.linkedin.com/in/annebecquet
 competences:
   - Communication

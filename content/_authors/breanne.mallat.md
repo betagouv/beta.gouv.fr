@@ -18,7 +18,5 @@ missions:
     employer: Dinum
     startups:
       - tous.a.bord
-teams:
-  - /teams/animation-dinum
 competences: []
 ---

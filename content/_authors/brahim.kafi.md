@@ -12,6 +12,4 @@ missions:
       - mes-aides-france-travail
 competences:
   - Gestion de Produit
-teams:
-  - /teams/francetravail-animation
 ---

@@ -15,6 +15,5 @@ missions:
     employer: Malt
     startups:
       - datalma
-teams: []
 ---
 Passionnée de data & de surf

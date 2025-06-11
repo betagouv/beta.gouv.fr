@@ -22,8 +22,6 @@ missions:
     employer: Ministère de la Transition Ecologique
 previously:
   - trackdechets
-teams:
-  - /teams/mtes
 link: https://www.linkedin.com/in/julieta-barado/
 competences:
   - Administration Publique

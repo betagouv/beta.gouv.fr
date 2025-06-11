@@ -17,8 +17,6 @@ missions:
     employer: GIP Plateforme de l'inclusion
     startups:
       - les-emplois
-teams:
-  - /teams/gip-inclusion
 competences:
   - Intrapreneur(se)
   - Facilitation
