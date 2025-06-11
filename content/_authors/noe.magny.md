@@ -6,8 +6,8 @@ competences: []
 missions:
   - start: 2025-06-01
     end: 2025-11-30
-    employer: Numih France
     status: admin
+    employer: Numih France
     startups:
       - data.etat
 teams: []

@@ -22,11 +22,11 @@ techno:
 mon_service_securise: true
 repository: https://github.com/betagouv/aides-agri
 dashlord_url: https://dashlord.incubateur-agriculture.beta.gouv.fr/url/aides-agri-beta-gouv-fr/
-link: ''
 events:
   - name: other
     date: 2025-06-05
     comment: Lancement du MVP
+link: ''
 ---
 ## Contexte
 
