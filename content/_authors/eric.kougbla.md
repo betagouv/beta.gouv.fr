@@ -1,0 +1,14 @@
+---
+fullname: Eric KOUGBLA
+role: Opérateur de validation
+domaine: Autre
+competences: []
+missions:
+  - start: 2025-06-11
+    end: 2025-09-30
+    employer: DINUM
+    status: independent
+    startups:
+      - dossierfacile
+teams: []
+---

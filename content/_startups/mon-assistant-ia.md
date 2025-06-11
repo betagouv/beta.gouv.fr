@@ -19,17 +19,13 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2025-03-10
-    end: null
   - name: construction
-    comment: null
     start: 2025-05-02
-    end: null
 events:
   - name: product_launch
-    comment: 'Ouverture beta aux agents de la DINUM '
     date: 2025-05-02
+    comment: 'Ouverture beta aux agents de la DINUM '
 ---
 # 🎯 Notre Vision
 

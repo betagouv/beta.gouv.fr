@@ -6,7 +6,7 @@ github: shamzic
 link: https://www.linkedin.com/in/shamery/
 missions:
   - start: 2022-09-05
-    end: 2025-06-30
+    end: 2025-09-30
     status: independent
     employer: Malt
     startups:
@@ -14,6 +14,10 @@ missions:
 badges:
   - segur
 competences:
-  - Développement Frontend
+  - DevOps
+  - Développement Full-stack
+  - Accessibilité
+  - Matomo
+  - UI
 ---
 Développeur web, basketteur et cycliste engagé dans la transition écologique
