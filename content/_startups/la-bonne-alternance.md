@@ -39,6 +39,7 @@ thematiques:
   - Education
   - Formation
 techno: []
+impact_url: https://labonnealternance.apprentissage.beta.gouv.fr/statistiques
 ---
 **La bonne alternance a été initiée au sein de l'incubateur de Pôle Emploi, incubée au sein de la mission interministérielle pour l’apprentissage de 2020 à 2024 et est désormais éditée par la Délégation générale à l’emploi et à la formation professionnelle (DGEFP)**
 

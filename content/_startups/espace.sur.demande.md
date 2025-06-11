@@ -30,6 +30,7 @@ dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/espacesurdemande-anct
 techno: []
 analyse_risques: true
 budget_url: https://incubateurdesterritoires.notion.site/Budget-2024-Espace-sur-demande-1dd744bf03dd809786a4c082e9afa885
+impact_url: https://espacesurdemande.anct.gouv.fr/statistiques
 ---
 **Espace sur Demande : L'outil de réservation des salles et équipements publics**
 

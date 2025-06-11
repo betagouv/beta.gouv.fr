@@ -80,6 +80,7 @@ budget_url: https://gip-inclusion.notion.site/Budget-des-Emplois-de-l-inclusion-
 stats_url: https://inclusion.beta.gouv.fr/presentation/impact-de-la-plateforme-de-linclusion/
 techno:
   - django
+impact_url: https://emplois.inclusion.beta.gouv.fr/stats/
 ---
 ## Une question ou un besoin d'aide dans l'utilisation du service ?
 Voici un lien direct vers l'assistance : [aide.emplois.inclusion.beta.gouv.fr](https://aide.emplois.inclusion.beta.gouv.fr/)

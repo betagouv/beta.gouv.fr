@@ -50,6 +50,7 @@ budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 link: https://mistralpenal.beta.gouv.fr/
 stats_url: https://mistralpenal.beta.gouv.fr/nos-statistiques/les-statistiques-dusage/
 repository: https://github.com/betagouv/Mistral-penal
+impact_url: https://mistralpenal.beta.gouv.fr/nos-statistiques/les-statistiques-dimpact/
 ---
 ## **Contexte**
 

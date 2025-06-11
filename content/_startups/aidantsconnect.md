@@ -26,6 +26,7 @@ thematiques:
   - Inclusion numérique
 budget_url: https://aidantsconnect.beta.gouv.fr/budget/
 techno: []
+impact_url: https://aidantsconnect.beta.gouv.fr/stats/
 ---
 ## Contexte
 

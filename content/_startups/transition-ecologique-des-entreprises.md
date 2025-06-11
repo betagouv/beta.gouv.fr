@@ -45,6 +45,7 @@ events:
     date: 2025-02-14
     comment: Comité d'investissement
 mon_service_securise: true
+impact_url: https://mission-transition-ecologique.beta.gouv.fr/stats
 ---
 Le service public Transition Écologique des Entreprises est un guichet d'accueil, d'aide et d'accompagnement dans la transition écologique des entreprises.
 

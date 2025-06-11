@@ -33,6 +33,7 @@ thematiques:
   - Social
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 techno: []
+impact_url: https://domifa.fabrique.social.gouv.fr/stats/impact
 ---
 ## Qu’est-ce que la domiciliation ? 
 

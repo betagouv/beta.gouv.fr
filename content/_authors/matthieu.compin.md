@@ -5,7 +5,7 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2024-10-02
-    end: 2026-04-30
+    end: 2024-12-31
     status: admin
     employer: Armées
     startups:

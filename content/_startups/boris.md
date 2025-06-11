@@ -32,6 +32,7 @@ usertypes:
   - particulier
 techno: []
 budget_url: https://boris.beta.gouv.fr/notre-mission#statistiques
+impact_url: https://boris.beta.gouv.fr/notre-mission#statistiques
 ---
 <h2>2,4 millions</h2>
 
