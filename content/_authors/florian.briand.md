@@ -21,7 +21,7 @@ missions:
     startups:
       - romin
   - start: 2024-11-01
-    end: 2025-06-15
+    end: 2025-07-15
     status: independent
     employer: Dynergie
     startups:

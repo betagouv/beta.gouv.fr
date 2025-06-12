@@ -13,9 +13,11 @@ competences:
   - Facilitation
 missions:
   - start: 2024-10-01
-    end: 2025-06-30
+    end: 2025-09-30
     status: independent
     employer: malt
+    startups:
+      - services-web-anct
 ---
 Architecte et lead développeur web avec 15 ans d'expérience. Adepte des approches DRY et LEAN.
 Formateur et consultant technique.
