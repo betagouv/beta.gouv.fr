@@ -10,9 +10,9 @@ competences:
   - Développement Frontend
 missions:
   - start: 2024-07-15
-    end: 2025-07-11
+    end: 2025-12-11
     status: independent
-    employer: Mon Entreprise Portage
+    employer: Tiqa
     startups:
       - mon-entreprise
 ---
