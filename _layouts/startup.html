@@ -118,7 +118,7 @@ layout: default
               {% capture stats_impact %}
               <li>
                 {% if page.impact_url %}
-                <a class="fr-link fr-link--icon-left fr-icon-line-chart-line " href="{% if page.impact_url %}{{ page.impact_url }}{% endif %}">
+                <a class="fr-link fr-link--icon-left fr-icon-line-chart-line " href="{{ page.impact_url }}">
                   Statistiques d'impact
                 </a>
                 {% else %}
