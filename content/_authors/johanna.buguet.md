@@ -10,8 +10,10 @@ competences:
   - Product strategy
 missions:
   - start: 2025-06-02
-    end: 2025-08-03
+    end: 2028-05-31
     status: admin
     employer: 'Ministère des Armées '
+    startups:
+      - projet-neo
 ---
 Design de service, innovation responsable & UX
