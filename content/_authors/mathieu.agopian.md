@@ -1,7 +1,7 @@
 ---
 fullname: Mathieu Agopian
 domaine: Développement
-role: Développeur
+role: Insatiable Curieux
 github: magopian
 link: https://agopian.info/
 missions:

@@ -11,7 +11,7 @@ missions:
     startups:
       - ellesfontlaculture
   - start: 2023-05-02
-    end: 2025-06-30
+    end: 2025-08-31
     status: independent
     employer: Fairness
     startups:

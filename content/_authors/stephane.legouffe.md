@@ -6,7 +6,7 @@ github: slegouffe
 link: https://www.linkedin.com/in/stéphane-legouffe-7a43065b
 missions:
   - start: 2018-03-08
-    end: 2025-06-30
+    end: 2025-11-30
     status: independent
     employer: Scopyleft
     startups:

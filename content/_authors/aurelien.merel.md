@@ -5,15 +5,23 @@ domaine: Développement
 github: am-beta
 missions:
   - start: 2021-03-01
-    end: 2025-06-30
+    end: 2025-12-10
     status: independent
     employer: Codeurs en Liberté
     startups:
       - api-entreprise
       - api-particulier
+      - bat-id
       - datapass
-      - oots.once-only.technical.system
 previously:
   - demarches-simplifiees.fr
-competences: []
+competences:
+  - Administration Système
+  - DevOps
+  - Sécurité informatique
+  - ElasticSearch
+  - PostgreSQL
+  - Metabase
+  - Python
+  - Ruby
 ---

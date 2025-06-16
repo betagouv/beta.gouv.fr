@@ -4,7 +4,7 @@ role: Développeur
 domaine: Développement
 missions:
   - start: 2023-05-22
-    end: 2025-06-30
+    end: 2025-08-31
     status: service
     employer: OCTO
     startups:

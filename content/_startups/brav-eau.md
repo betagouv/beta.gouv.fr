@@ -14,6 +14,11 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-04-04
+techno: []
+events:
+  - name: other
+    date: 2025-06-13
+    comment: Décision d'arrêt des développements en comité de fin d'investigation
 link: ''
 ---
 ## Contexte
@@ -30,5 +35,6 @@ Notre solution s'adresse aux communes et inter-communalités. Elle consiste en u
 
 ## Stratégie
 
-Nous ciblons les communes et intercommunalités du Bassin Seine Normandie qui sont déjà engagées dans un processus de diagnostic de vulnérabilité inondation pour comprendre comment les aider à passer à l'action.
+Nous ciblons les communes et inter-communalités du Bassin Seine Normandie qui sont déjà engagées dans un processus de diagnostic de vulnérabilité inondation pour comprendre comment les aider à passer à l'action.
 Nous visons de diviser par deux le coût humain et financier des prochains aléas d'inondation sur les communes ayant mis en place des actions de prévention grâce à notre outil.
+

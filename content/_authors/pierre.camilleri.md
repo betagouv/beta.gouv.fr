@@ -17,6 +17,12 @@ missions:
     end: 2024-05-30
     status: independent
     employer: Malt
+  - start: 2025-05-12
+    end: 2025-10-20
+    status: independent
+    employer: Scopyleft
+    startups:
+      - signaux-faibles
 previously:
   - signaux-faibles
   - transition-ecologique-des-entreprises
