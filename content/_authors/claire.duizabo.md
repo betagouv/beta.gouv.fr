@@ -4,7 +4,7 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2023-01-09
-    end: 2024-12-28
+    end: 2025-11-28
     status: independent
     employer: Numa
     startups:

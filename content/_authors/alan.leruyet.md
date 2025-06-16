@@ -11,11 +11,11 @@ missions:
     startups:
       - memo
   - start: 2020-04-01
-    end: 2025-06-30
+    end: 2025-12-12
     status: independent
     employer: mission-apprentissage
     startups:
       - la-bonne-alternance
 competences: []
 ---
-Développeur full-stack, single page app monomaniac
+Développeur full-stack
