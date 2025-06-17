@@ -1,6 +1,6 @@
 ---
 fullname: Jihane Herizi
-role: 'Coach agile DINUM (OPI / CAMPUS) '
+role: 'Coach agile DINUM (CAMPUS) '
 domaine: Coaching
 missions:
   - start: 2017-10-11
@@ -15,7 +15,7 @@ missions:
       - mon-entreprise
       - pass-culture
   - start: 2025-01-21
-    end: 2025-07-16
+    end: 2025-12-01
     status: independent
     employer: Malt
 badges:

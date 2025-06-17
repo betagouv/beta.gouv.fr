@@ -14,12 +14,14 @@ missions:
       - tdb-apprentissage
       - uai_siret
   - start: 2024-09-06
-    end: 2025-06-30
+    end: 2025-09-30
     status: independent
     employer: Mission interministérielle pour l'apprentissage
     startups:
       - la-bonne-alternance
+      - tdb-apprentissage
 competences:
   - UX
   - UI
+  - Product design
 ---

@@ -11,11 +11,17 @@ missions:
     startups:
       - annuaire-entreprises
   - start: 2024-02-08
-    end: 2025-06-30
+    end: 2025-03-30
     status: independent
     employer: DINUM
     startups:
       - proconnect
+  - start: 2025-03-31
+    end: 2025-09-30
+    status: independent
+    employer: DINUM
+    startups:
+      - opi-cloud
 memberType: autre
 competences:
   - Docker

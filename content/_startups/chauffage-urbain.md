@@ -5,7 +5,7 @@ sponsors:
   - /organisations/ademe
   - /organisations/dgec
   - /organisations/drieat
-incubator: mtes
+incubator: ademe
 link: https://france-chaleur-urbaine.beta.gouv.fr/
 repository: https://github.com/betagouv/france-chaleur-urbaine
 contact: france-chaleur-urbaine@developpement-durable.gouv.fr
@@ -19,6 +19,8 @@ phases:
     start: 2020-12-01
   - name: acceleration
     start: 2022-07-01
+  - name: transfer
+    start: 2025-05-14
 usertypes:
   - particulier
   - collectivite-territoriale
