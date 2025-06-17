@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-06-04
     end: 2026-06-04
-    employer: ANDV
     status: admin
+    employer: ANDV
     startups:
       - sndv_maritime
-teams: []
 ---
