@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2025-06-16
     end: 2025-11-15
-    employer: Little Big Connexion
     status: independent
+    employer: Little Big Connexion
     startups:
       - pitchou
-teams: []
 ---

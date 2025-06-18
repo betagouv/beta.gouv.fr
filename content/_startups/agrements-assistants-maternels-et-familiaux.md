@@ -13,13 +13,11 @@ sponsors:
   - /organisations/gip-france-enfance-protegee
 phases:
   - name: investigation
-    comment: null
     start: 2025-05-06
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-06-16
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

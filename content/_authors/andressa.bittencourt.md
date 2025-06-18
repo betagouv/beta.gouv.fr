@@ -1,10 +1,10 @@
 ---
-domaine: Autre
+domaine: Déploiement
 fullname: Andressa BITTENCOURT
-role: Autre
+role: Responsable déploiement et communication
 missions:
   - start: 2024-06-04
-    end: 2025-12-31
+    end: 2025-12-01
     status: independent
     employer: Diair
     startups:
@@ -14,4 +14,4 @@ competences:
   - Communication
 memberType: beta
 ---
-J'accompagne les structures publiques et de l’ESS dans leurs besoins en communication 360° : stratégie de communication ; stratégie éditoriale ; relation presse ; gestion de projet communication.
+J’accompagne des projets à fort impact social en alliant stratégie de communication et coordination multi-acteurs, avec une expertise en formation utilisateurs et mobilisation des parties prenantes. Je suis particulièrement sensible aux enjeux de droits humains et d’inclusion, ainsi qu’aux défis liés au numérique responsable et à la transition écologique.
