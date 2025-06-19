@@ -6,6 +6,12 @@ missions:
   - start: 2022-01-13
     end: 2025-03-28
     status: independent
+  - start: 2025-06-18
+    end: 2025-10-31
+    status: independent
+    employer: PathTech
+    startups:
+      - pass-sport
 incubator: dinum
 previously:
   - dematapprentissage

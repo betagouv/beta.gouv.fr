@@ -23,10 +23,14 @@ missions:
     employer: NUMA
     startups:
       - transition-ecologique-des-entreprises
+  - start: 2025-06-03
+    end: 2025-11-30
+    status: independent
+    employer: Malt
 memberType: beta
 competences:
   - Facilitation
   - Product strategy
   - Coaching
 ---
-Coach Produit passionnée de product management, design thinking et intelligence collective, et co-fondatrice d'une association de découverte de la tech pour les filles
+Coach Produit passionnée de product management, organisation d'équipe, design thinking et intelligence collective, et co-fondatrice d'une association de découverte de la tech pour les filles

@@ -26,5 +26,6 @@ missions:
 previously:
   - signaux-faibles
   - transition-ecologique-des-entreprises
+competences: []
 ---
 Data Full Stack

@@ -4,7 +4,7 @@ role: Lead Product manager
 domaine: Produit
 missions:
   - start: 2023-10-10
-    end: 2026-10-09
+    end: 2030-12-09
     status: admin
     employer: 'DIRISI - Ministère des Armées '
     startups:

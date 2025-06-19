@@ -29,6 +29,12 @@ missions:
     employer: OCTO
     startups:
       - ma-cantine-egalim
+  - start: 2025-06-03
+    end: 2025-12-02
+    status: service
+    employer: OCTO
+    startups:
+      - reglementations.en.foret
 competences:
   - Gestion de Produit
   - UX
