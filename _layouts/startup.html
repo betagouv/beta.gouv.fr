@@ -129,9 +129,9 @@ layout: default
               </li>
               {% endcapture %}
               {% if page.impact_url %}
-                {%- assign transparence_success = transparence_success | append: impact_url -%}
+                {%- assign transparence_success = transparence_success | append: stats_impact -%}
               {% else %}
-                {%- assign transparence_warning = transparence_warning | append: impact_url -%}
+                {%- assign transparence_warning = transparence_warning | append: stats_impact -%}
               {% endif %}
               {% capture link_risques %}
               <li>
