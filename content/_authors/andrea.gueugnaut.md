@@ -5,7 +5,7 @@ domaine: Développement
 github: Falinor
 missions:
   - start: 2022-10-17
-    end: 2025-06-30
+    end: 2025-10-31
     status: independent
     employer: Malt
     startups:

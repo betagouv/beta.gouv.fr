@@ -5,9 +5,9 @@ role: Chargée de déploiement
 github: ameliequillet
 missions:
   - start: 2021-03-22
-    end: 2025-07-31
+    end: 2025-11-10
     status: independent
-    employer: LBC
+    employer: Malt
     startups:
       - recommandations-collaboratives
       - urbanvitaliz

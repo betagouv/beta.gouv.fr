@@ -50,6 +50,7 @@ events:
 stats_url: https://beta.gouv.fr/startups/faritas.html#:~:text=1%20million%20d%E2%80%99euros-,Indicateurs%20d%E2%80%99usage,-85%25%20du%20territoire
 mon_service_securise: true
 link: https://faritas.beta.gouv.fr/
+impact_url: https://faritas.beta.gouv.fr/
 ---
 ## Le problème : une inefficience dans la collecte et le reversement de la taxe de séjour par les plateformes numériques
 

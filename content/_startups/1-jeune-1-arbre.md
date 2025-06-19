@@ -34,6 +34,7 @@ techno:
 repository: https://github.com/betagouv/1jeune1arbre/
 budget_url: https://github.com/betagouv/1jeune1arbre/wiki
 stats_url: https://github.com/betagouv/1jeune1arbre/wiki
+impact_url: https://github.com/betagouv/1jeune1arbre/wiki
 ---
 # **Simplifier la plantation d'arbres par les scolaires**
 

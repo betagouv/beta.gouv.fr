@@ -29,6 +29,7 @@ usertypes:
 stats_url: https://mesaidesreno.beta.gouv.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/mesaidesreno-beta-gouv-fr/
 budget_url: https://beta.gouv.fr/startups/mesaidesreno.html#notre-budget
+impact_url: https://mesaidesreno.beta.gouv.fr/stats
 ---
 ## Contexte
 

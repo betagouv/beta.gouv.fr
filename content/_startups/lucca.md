@@ -26,8 +26,8 @@ events:
 
 ## Contexte
 
-30 000, c’est le nombre de parcelles occupées illégalement dans le seul département de l’Hérault. Soit environ 30 000 hectares (trois fois la surface de Paris) concernés par ce fléau : des habitats permanents ou temporaires dans les espaces agricoles, naturels et forestiers inconstructibles et le plus souvent à risques inondation ou feux de forêt. 
-Ce phénomène, appelé aussi cabanisation, détournement d'usage ou encore mitage selon les régions,  s'étend de plus en plus dans les territoires. 
+Les constructions et installations illégales, appelé aussi "cabanisation" ou "détournement d'usage" s'étendent sur le territoire français non urbain, dégradent les espaces naturels et agricoles et exposent les personnes aux risques naturels inondation et feux de forêt. 
+On estime à 30 000,  le nombre de parcelles occupées illégalement dans le seul département de l'Hérault, soit environ 3 fois la surface de Paris, par des m
 
 ## Problème
 
@@ -36,7 +36,7 @@ Ce phénomène a de nombreuses conséquences néfastes, notamment
 - Il dégrade les espaces naturels, agricoles ou forestiers ainsi que les paysages et favorise la pollution des sols et de l’eau (déversement d’eaux usées, absence de collecte de déchets…).
  -Il  entraîne le gaspillage des terres agricoles (pollution, pression foncière, mitage…) et réduit les capacités de production.
 
-Il constitue un délit, dont le 1er acte est le PV, dont la qualité rédactionnelle conditionne les suites pénales, administratives ou civiles et au final le succès de la remise à l'état naturel des parcelles. 
+- **Il constitue un délit, dont le 1er acte est le PV, dont la qualité rédactionnelle conditionne les suites pénales, administratives ou civiles et au final le succès de la remise à l'état naturel des parcelles.** 
 
 Or la rédaction d'un PV est complexe et nécessite rigueur et bonne connaissance de la réglementation pour les agents assermentés et commissionnés à cet effet. Les procédures peuvent être longues et les acteurs nombreux. 
 
@@ -44,7 +44,7 @@ Or la rédaction d'un PV est complexe et nécessite rigueur et bonne connaissanc
 ## Solution
 
 LUCCA est un outil numérique qui :
--  sécurise la procédure
+- sécurise la procédure
 - facilite la rédaction du PV (respect des étapes, système de mots clés et proposition de rédaction, aide au choix des natinfs...)
 - édite automatiquement les courriers ou les pièces des modalités de contrôles
 - permet le suivi des procédures (historiques, données partagées entre services de l'Etat et collectivités) 

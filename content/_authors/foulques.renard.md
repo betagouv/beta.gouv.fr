@@ -10,4 +10,6 @@ missions:
     end: 2028-12-18
     status: admin
     employer: Dinum
+    startups:
+      - depenses-eclairees
 ---

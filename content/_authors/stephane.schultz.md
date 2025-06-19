@@ -5,7 +5,7 @@ domaine: Coaching
 link: https://15marches.fr
 missions:
   - start: 2022-03-30
-    end: 2025-07-16
+    end: 2025-09-16
     status: service
     employer: numa
     startups:

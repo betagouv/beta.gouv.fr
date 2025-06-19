@@ -27,7 +27,7 @@ missions:
       - uai_siret
       - voeux-apprentissage
   - start: 2025-01-01
-    end: 2025-06-30
+    end: 2025-12-30
     status: admin
     startups:
       - api-and-communs-numeriques-de-la-cour-de-cassation

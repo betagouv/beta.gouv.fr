@@ -9,6 +9,12 @@ missions:
     employer: Dinum
     startups:
       - acceslibre
-competences: []
+      - mon-devis-sans-oublis
+competences:
+  - Coaching
+  - Croissance
+  - Communication
 ---
-Futur président de la République ou acteur de cinéma :)
+Entrepreneur passionné et engagé sur des sujets de durabilité.
+Coach pour des startups et grands groupes : stratégie de déploiement, process, réorganisation, sales
+Adore le management

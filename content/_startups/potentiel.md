@@ -11,7 +11,7 @@ usertypes:
   - collectivite-territoriale
   - entreprise
   - etat
-stats_url: https://potentiel.beta.gouv.fr/stats.html
+stats_url: https://potentiel.beta.gouv.fr/statistiques-publiques
 stats: true
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/potentiel-beta-gouv-fr/
 phases:
@@ -36,6 +36,7 @@ techno:
   - sentry
   - chai
   - cucumber
+impact_url: https://potentiel.beta.gouv.fr/statistiques-publiques
 ---
 ##  Introduction - contexte
 
