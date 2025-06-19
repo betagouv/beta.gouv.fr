@@ -115,6 +115,24 @@ layout: default
               {% else %}
                 {%- assign transparence_warning = transparence_warning | append: stats -%}
               {% endif %}
+              {% capture stats_impact %}
+              <li>
+                {% if page.impact_url %}
+                <a class="fr-link fr-link--icon-left fr-icon-line-chart-line " href="{{ page.impact_url }}">
+                  Statistiques d'impact
+                </a>
+                {% else %}
+                <a class="fr-link fr-link--icon-left fr-icon-line-chart-line" role="link" aria-disabled="true">
+                  Statistiques d'impact (non disponible)
+                </a>
+                {% endif %}
+              </li>
+              {% endcapture %}
+              {% if page.impact_url %}
+                {%- assign transparence_success = transparence_success | append: impact_url -%}
+              {% else %}
+                {%- assign transparence_warning = transparence_warning | append: impact_url -%}
+              {% endif %}
               {% capture link_risques %}
               <li>
                 <a class="fr-link fr-icon-warning-line fr-link--icon-left" href="#" role="link" 
