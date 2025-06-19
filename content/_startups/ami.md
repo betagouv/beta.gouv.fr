@@ -20,12 +20,9 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2025-03-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-06-17
 ---
 ## Vie administrative complexe pour les utilisateurs et leurs aidants

@@ -9,10 +9,9 @@ competences:
 missions:
   - start: 2025-02-01
     end: 2025-11-30
-    employer: INRAE
     status: admin
+    employer: INRAE
     startups:
       - access-sol
-teams: []
 ---
 pédologue, spécialisée en gestion de données pédologiques

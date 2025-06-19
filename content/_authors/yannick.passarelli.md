@@ -1,6 +1,6 @@
 ---
 fullname: Yannick Passarelli
-role: Data Analyst
+role: Co responsable du produit Pilotage de l'inclusion; Lead Data
 domaine: Data
 github: YannickPassa
 missions:

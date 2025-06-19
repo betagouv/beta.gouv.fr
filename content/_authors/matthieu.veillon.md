@@ -17,6 +17,4 @@ missions:
     startups:
       - communs-de-la-transition-ecologique-des-collectivites
 ---
-Développeur fullstack senior avec un passé en gestion de projets / scrum master, j’ai acquis une expérience riche à l’intersection des dynamiques d’équipe, des besoins clients et des compétences techniques. Stack : TS, React, Node, React-query, Redux
-
-Au plaisir de discuter
+Développeur fullstack senior (TS, React, Node, Next, Nest...) 

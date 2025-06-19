@@ -8,6 +8,7 @@ missions:
     status: admin
     employer: 'DIRISI - Ministère des Armées '
     startups:
+      - apax
       - ca-se
       - rapace
 memberType: beta
