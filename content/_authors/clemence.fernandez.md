@@ -1,6 +1,6 @@
 ---
 fullname: Clémence Fernandez
-role: Développeuse Fullstack à Pichou
+role: Développeuse Fullstack
 domaine: Développement
 link: https://www.linkedin.com/in/clemencefernandez
 competences:

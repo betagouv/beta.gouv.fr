@@ -1,6 +1,6 @@
 ---
 fullname: Julien Gabet
-role: Chef de projet événementiel et animation de communauté ALLiaNCE
+role: Responsable d'animation de la communauté IA de l'État
 domaine: Animation
 link: https://www.linkedin.com/in/julien-gabet-b1a2101a8/
 competences:

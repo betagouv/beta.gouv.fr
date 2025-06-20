@@ -13,10 +13,9 @@ competences:
 missions:
   - start: 2025-06-18
     end: 2025-11-30
-    employer: UT7
     status: independent
+    employer: UT7
     startups:
       - languia
-teams: []
 ---
 Développeur JS/TS/Python, contributeur aux logiciels libres YunoHost et au plugin livechat PeerTube, originellement designer graphique, intérêt particulier pour le dev d'interfaces, l’UI/UX et l’accessibilité.

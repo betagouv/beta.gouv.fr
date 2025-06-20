@@ -29,17 +29,23 @@ missions:
     startups:
       - brav-eau
   - start: 2025-02-03
-    end: 2025-06-30
-    status: independent
-    employer: NUMA
-    startups:
-      - durabilite-de-la-biomasse
-  - start: 2025-02-03
     end: 2025-10-31
     status: independent
     employer: NUMA
     startups:
       - eclauses-mma-culture
+  - start: 2025-02-03
+    end: 2025-06-30
+    status: independent
+    employer: NUMA
+    startups:
+      - durabilite-de-la-biomasse
+  - start: 2025-06-17
+    end: 2025-09-19
+    status: independent
+    employer: NUMA
+    startups:
+      - dalo-assist-usagers-et-contentieux
 incubator: culture
 badges:
   - segur
