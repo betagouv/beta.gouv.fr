@@ -4,7 +4,7 @@
 
 ### Startups et membres
 
-La modification des données relatives aux membres, produits ou incubateurs est réservé aux membres de la communauté beta.gouv.fr.
+La modification des données relatives aux membres, produits ou incubateurs est réservée aux membres de la communauté beta.gouv.fr.
 
 Ces modifications doivent se faire via l'[espace membre](https://espace-membre.incubateur.net/dashboard).
 
