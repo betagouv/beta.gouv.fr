@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-05-26
     end: 2025-08-25
-    employer: AIFE
     status: admin
+    employer: AIFE
     startups:
       - depenses-eclairees
-teams: []
 ---

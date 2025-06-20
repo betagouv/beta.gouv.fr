@@ -9,9 +9,8 @@ competences:
 missions:
   - start: 2025-06-17
     end: 2025-11-30
-    employer: PathTech
     status: independent
+    employer: PathTech
     startups:
       - pass-sport
-teams: []
 ---

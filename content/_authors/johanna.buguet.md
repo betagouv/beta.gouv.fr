@@ -14,6 +14,7 @@ missions:
     status: admin
     employer: 'Ministère des Armées '
     startups:
+      - apax
       - projet-neo
 ---
 Design de service, innovation responsable & UX

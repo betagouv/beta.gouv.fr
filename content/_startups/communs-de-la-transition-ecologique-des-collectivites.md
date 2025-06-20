@@ -8,7 +8,7 @@ thematiques:
 usertypes:
   - collectivite-territoriale
   - etat
-title: Communs de la transition écologique des collectivités
+title: matthieu.veillon@beta.gouv.fr
 mission: Maximiser l’impact global des services numériques publics pour la transition écologique des collectivités
 incubator: dinum
 sponsors:
@@ -97,5 +97,7 @@ L’ensemble des services pertinents de cet écosystème sont visés par les com
 **Impact** : 
 
 La métrique de pilotage principale, la north star, suivie est le nombre de nouvelles utilisations de services numériques de l’écosystème public permise par notre produit.
+
+[Une page statistique](https://les-communs-transition-ecologique-api-staging.osc-fr1.scalingo.io/statistics/) est disponible pour suivre les principaux indicateurs de succès. 
 
 A terme, l’impact des communs sera mesuré à travers le succès global de l’écosystème connecté dans l’accélération des projets de collectivités pour la transition écologique.

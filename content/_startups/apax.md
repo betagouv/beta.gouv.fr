@@ -13,21 +13,15 @@ sponsors:
   - /organisations/armees
 phases:
   - name: investigation
-    comment: null
     start: 2024-02-18
-    end: null
   - name: construction
-    comment: null
     start: 2025-06-18
-    end: null
   - name: transfer
-    comment: null
     start: 2026-09-30
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-09-18
+link: ''
 ---
 ## Contexte
 
