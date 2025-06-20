@@ -76,7 +76,7 @@ Se rendre sur Docurba : [http://docurba.beta.gouv.fr/](http://docurba.beta.gouv.
 
 Notre objectif est de devenir la plateforme de référence pour accompagner à grande échelle la territorialisation de la planification écologique dans les documents d’urbanisme.
 
-**En octobre 2024, 50% des DDT(M)/DEAL utilisent Docurba quotidiennement, et 359 territoires y suivent leurs procédures de documents d'urbanisme.**
+**En juin 2025, 80% des DDT(M)/DEAL utilisent Docurba quotidiennement, et 679 territoires y suivent leurs procédures de documents d'urbanisme.**
 
 Nos statistiques via ce lien : [Statistiques de Docurba](https://docurba.beta.gouv.fr/stats)
 
