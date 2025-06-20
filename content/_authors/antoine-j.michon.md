@@ -12,10 +12,9 @@ competences:
 missions:
   - start: 2025-07-01
     end: 2025-10-01
-    employer: Scopopop
     status: service
+    employer: Scopopop
     startups:
       - mesads
-teams: []
 ---
 Développeur full stack, j'aime python, django et les jeux de société.
