@@ -10,7 +10,7 @@ missions:
     startups:
       - france-numerique-ensemble
   - start: 2024-03-01
-    end: 2025-07-22
+    end: 2026-04-30
     status: admin
     startups:
       - france-numerique-ensemble

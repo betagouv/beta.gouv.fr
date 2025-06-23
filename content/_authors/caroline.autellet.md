@@ -12,5 +12,8 @@ missions:
     end: 2028-04-30
     status: admin
     employer: 'Ministère des Armées '
+    startups:
+      - ca-se
+      - projet-neo
 ---
 Product Manager & UX Researcher

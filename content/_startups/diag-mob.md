@@ -5,16 +5,13 @@ contact: baptiste.eisele@developpement-durable.gouv.fr
 title: Diag'Mob
 mission: Réduire l'impact des déplacements domicile - travail des agents publics
 incubator: mtes
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-06-20
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-06-20
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

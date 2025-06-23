@@ -1,7 +1,7 @@
 ---
 fullname: Elliot Huvey
 role: Opérateur validation de dossiers
-domaine: Autre
+domaine: Support
 competences: []
 missions:
   - start: 2025-05-20
