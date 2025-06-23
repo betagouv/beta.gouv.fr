@@ -8,7 +8,7 @@ thematiques:
 usertypes:
   - collectivite-territoriale
   - etat
-title: matthieu.veillon@beta.gouv.fr
+title: Les Communs de la transition écologique des collectivités
 mission: Maximiser l’impact global des services numériques publics pour la transition écologique des collectivités
 incubator: dinum
 sponsors:
@@ -25,6 +25,8 @@ events:
 techno:
   - typescript
 repository: https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites
+stats_url: https://les-communs-transition-ecologique-api-staging.osc-fr1.scalingo.io/statistics/
+impact_url: https://les-communs-transition-ecologique-api-staging.osc-fr1.scalingo.io/statistics/
 link: ''
 ---
 ## Problème
