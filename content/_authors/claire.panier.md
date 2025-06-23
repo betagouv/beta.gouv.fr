@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2025-06-17
     end: 2025-11-19
-    employer: N/A
     status: admin
+    employer: N/A
     startups:
       - dalo-assist-usagers-et-contentieux
-teams: []
 ---
