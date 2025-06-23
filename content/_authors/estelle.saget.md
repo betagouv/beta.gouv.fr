@@ -9,7 +9,9 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - agrements-assistants-maternels-et-familiaux
       - apilos
+      - data-dsn
       - l-application-du-cej
   - start: 2023-12-31
     end: 2027-12-30

@@ -13,10 +13,6 @@ missions:
     end: 2025-11-30
     status: independent
     employer: ut7
-    startups:
-      - lex-base
-      - portail-greffe-gestion-des-audiences
-      - portail-greffe-gestion-des-dossiers
 memberType: beta
 competences:
   - Développement Backend

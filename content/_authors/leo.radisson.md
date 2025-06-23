@@ -12,10 +12,6 @@ missions:
     end: 2025-10-31
     status: independent
     employer: ut7
-    startups:
-      - lex-base
-      - portail-greffe-gestion-des-audiences
-      - portail-greffe-gestion-des-dossiers
 badges:
   - segur
 competences: []

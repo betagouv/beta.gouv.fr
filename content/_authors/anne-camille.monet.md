@@ -17,11 +17,6 @@ missions:
     end: 2025-11-01
     status: independent
     employer: ut7
-    startups:
-      - api-and-communs-numeriques-de-la-cour-de-cassation
-      - lex-base
-      - portail-greffe-gestion-des-audiences
-      - portail-greffe-gestion-des-dossiers
 incubator: mission-apprentissage
 previously:
   - clara
