@@ -5,6 +5,7 @@ title: Pitchou (Espèces protégées)
 contact: pitchou@beta.gouv.fr
 accessibility_status: non conforme
 sponsors:
+  - /organisations/deb
   - /organisations/dgaln
 phases:
   - name: investigation

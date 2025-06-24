@@ -5,6 +5,7 @@ sponsors:
   - /organisations/ademe
   - /organisations/cstb
   - /organisations/dgaln
+  - /organisations/dhup
   - /organisations/dinum
   - /organisations/ign
 incubator: fab-geocommuns

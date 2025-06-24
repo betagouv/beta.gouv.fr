@@ -1,5 +1,5 @@
 ---
-fullname: Cédric Haas
+fullname: ATHENA
 role: Intrapreneur
 domaine: Intraprenariat
 competences:

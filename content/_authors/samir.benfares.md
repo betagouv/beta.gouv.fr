@@ -16,7 +16,7 @@ missions:
       - uai_siret
       - voeux-apprentissage
   - start: 2025-05-20
-    end: 2025-08-20
+    end: 2025-09-01
     status: independent
     employer: Little Big Connection
     startups:
