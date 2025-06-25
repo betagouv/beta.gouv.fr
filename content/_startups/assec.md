@@ -2,8 +2,8 @@
 title: ASSEC
 mission: Optimiser la réponse collective du monde agricole et des services de l'État au problème de pénurie d'eau en période de sécheresse
 sponsors:
+  - /organisations/deb
   - /organisations/dgaln
-  - /organisations/dgeb
 incubator: mtes
 events:
   - name: end

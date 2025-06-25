@@ -10,6 +10,7 @@ title: Sain'Eau
 mission: 'Réduire l''impact des systèmes d''assainissement sur les masses d''eau. '
 incubator: mtes
 sponsors:
+  - /organisations/deb
   - /organisations/dgaln
 phases:
   - name: investigation
@@ -19,6 +20,7 @@ phases:
 events:
   - name: product_launch
     date: 2025-03-03
+techno: []
 link: ''
 ---
 ## Contexte

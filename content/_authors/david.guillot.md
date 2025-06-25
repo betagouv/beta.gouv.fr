@@ -12,7 +12,7 @@ competences:
   - Accessibilité
 missions:
   - start: 2025-01-22
-    end: 2025-06-27
+    end: 2025-12-25
     status: independent
     employer: Malt
     startups:

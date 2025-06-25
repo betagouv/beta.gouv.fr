@@ -8,6 +8,7 @@ accessibility_status: partiellement conforme
 sponsors:
   - /organisations/ddtm34
   - /organisations/dgaln
+  - /organisations/dhup
 phases:
   - name: investigation
     start: 2023-05-01
