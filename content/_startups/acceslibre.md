@@ -2,7 +2,8 @@
 title: Acceslibre
 mission: Collecter puis diffuser les données d'accessibilité des établissements publics
 sponsors:
-  - /organisations/mtes
+  - /organisations/dgaln
+  - /organisations/dhup
 incubator: mtes
 link: https://acceslibre.beta.gouv.fr
 repository: https://github.com/MTES-MCT/acceslibre

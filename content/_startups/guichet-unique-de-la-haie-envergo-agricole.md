@@ -21,8 +21,9 @@ title: Guichet unique de la haie (Envergo agricole)
 mission: Simplifier la prise en compte de la réglementation sur les haies pour mieux les préserver
 incubator: mtes
 sponsors:
+  - /organisations/agriculture
+  - /organisations/deb
   - /organisations/dgaln
-  - /organisations/dgpe
 phases:
   - name: investigation
     start: 2024-05-01

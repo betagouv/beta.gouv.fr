@@ -22,6 +22,10 @@ phases:
 events:
   - name: product_launch
     date: 2025-04-09
+sponsors:
+  - /organisations/ddtm34
+  - /organisations/dgaln
+  - /organisations/dhup
 ---
 
 ## Contexte
