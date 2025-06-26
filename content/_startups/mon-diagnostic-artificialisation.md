@@ -9,7 +9,9 @@ usertypes:
   - etat
 title: Mon Diagnostic Artificialisation
 sponsors:
+  - /organisations/deb
   - /organisations/dgaln
+  - /organisations/dhup
 link: https://mondiagartif.beta.gouv.fr/?mtm_campaign=REFERALL&mtm_kwd=BETA_GOUV
 stats: true
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/startup/sparte/

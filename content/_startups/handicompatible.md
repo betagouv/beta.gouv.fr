@@ -8,9 +8,17 @@ incubator: francetravail
 phases:
   - name: investigation
     start: 2025-01-22
+  - name: construction
+    start: 2025-06-18
 events:
   - name: product_launch
     date: 2025-01-22
+  - name: committee
+    date: 2025-05-12
+    comment: '  Acceptation d''une phase exploratoire complémentaire'
+  - name: committee
+    date: 2025-06-17
+    comment: '  Acceptation du passage en phase d''expérimentation'
 thematiques: []
 usertypes:
   - particulier
@@ -20,14 +28,11 @@ link: ''
 ---
 **Contexte de la problématique**
 
-Aujourd’hui les demandeurs d’emploi en situation de handicap subissent donc toujours une discrimination à l’emploi. 
-La rédaction des offres d’emploi et l’organisation actuelle de la Méthode de Recrutement par Simulation conduisent à l'éviction car elles ne tiennent pas compte de la compatibilité et de l’accessibilité des demandeurs d’emploi  au regard de la spécificité de leurs situations de handicap.
+Aujourd’hui les demandeurs d’emploi en situation de handicap subissent toujours une discrimination à l’emploi importante.
+Evaluer les contraintes du poste (métier, offre d'emploi) et traduire leur situation de santé en besoins de poste, en environnements de travail favorables n'est pas évident.  Ainsi, il est difficile pour eux et leurs conseillers·ère de déterminer les emplois et les offres compatibles avec leur situation de handicap afin de  postuler  et accèdent à un emploi durable.
 
 
 
 **Pistes de solution**
 
-Rendre handicompatible l’offre de service du Réseau Pour l'Emploi (offres d’emploi et Méthode de recrutement par simulation) afin d’établir l’équité dans le retour à l’emploi des demandeurs d’emploi en situation de handicap. 
-* Exprimer les offres en termes d’handicompatibilité : intensité des tâches à exécuter, exigences physiques et mentales liées au poste, accessibilité, aménagement, environnement sonore et visuel….
-* Repenser la Méthode de Recrutement par Simulation pour la rendre plus inclusive, signaler un besoin d'aménagement des tests lors de l'inscription proposer un aménagement des séances de tests.
-
+Handicompatible est une solution numérique qui permet aux personnes en situation de handicap de lever, avec l'aide de leur conseiller, les freins liés au handicap en leur permettant d'analyser la compatibilité entre les offres d'emploi et leurs contraintes, afin qu'ils puissent prendre une décision éclairée par rapport à celles-ci, être aidé dans l'acte de candidater et accéder à un emploi pérenne.

@@ -13,4 +13,5 @@ missions:
       - rapace
 memberType: beta
 competences: []
+link: https://www.linkedin.com/in/c%C3%A9cile-pawlak-01b67a46/
 ---

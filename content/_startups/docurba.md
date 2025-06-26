@@ -3,6 +3,7 @@ title: Docurba
 mission: Faciliter l'élaboration et le suivi des documents d'urbanisme en améliorant les échanges entre les collectivités et l'État
 sponsors:
   - /organisations/dgaln
+  - /organisations/dhup
 incubator: mtes
 link: https://docurba.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/Docurba

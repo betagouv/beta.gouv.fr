@@ -16,10 +16,10 @@ competences:
   - Développement Frontend
 missions:
   - start: 2025-01-20
-    end: 2025-06-30
+    end: 2025-07-30
     status: independent
     employer: Malt
     startups:
       - tous.a.bord
 ---
-Développeuse fullstack avec une spécialité dans les produits data
+Développeuse fullstack avec une spécialisation dans les produits data
