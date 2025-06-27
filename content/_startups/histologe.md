@@ -6,9 +6,8 @@ contact: formulaire-contact@signal-logement.beta.gouv.fr
 stats_url: https://signal-logement.beta.gouv.fr/stats
 title: Signal Logement (ex:Histologe)
 sponsors:
-  - /organisations/anct
+  - /organisations/dgaln
   - /organisations/dhup
-  - /organisations/dinum
 link: https://signal-logement.beta.gouv.fr/
 stats: true
 phases:

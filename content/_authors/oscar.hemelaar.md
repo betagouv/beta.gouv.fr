@@ -8,5 +8,7 @@ missions:
     end: 2025-12-31
     status: service
 competences: []
+teams:
+  - /teams/anct
 ---
 DevOps

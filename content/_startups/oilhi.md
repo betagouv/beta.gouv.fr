@@ -4,7 +4,6 @@ mission: Faciliter le traitement des cas d'habitat indigne
 sponsors:
   - /organisations/dgaln
   - /organisations/dhup
-  - /organisations/ditp
 incubator: mtes
 link: https://www.oilhi.beta.gouv.fr/?utm_source=partenaire&utm_medium=referral&utm_campaign=site-beta-gouv&utm_id=%237
 contact: marie-laurence.leterme@pas-de-calais.gouv.fr

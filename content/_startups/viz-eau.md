@@ -20,6 +20,7 @@ usertypes:
   - etat
 techno: []
 sponsors:
+  - /organisations/deb
   - /organisations/dgaln
 link: ''
 ---

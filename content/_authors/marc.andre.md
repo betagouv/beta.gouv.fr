@@ -4,7 +4,7 @@ role: Product Owner
 domaine: Produit
 missions:
   - start: 2021-09-01
-    end: 2025-06-30
+    end: 2025-12-27
     status: independent
     employer: /ut7
     startups:

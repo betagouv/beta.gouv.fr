@@ -30,4 +30,6 @@ missions:
       - proconnect
       - suite-numerique
       - suite.territoriale
+teams:
+  - /teams/anct
 ---
