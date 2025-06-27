@@ -19,6 +19,8 @@ missions:
       - deveco
       - services-web-anct
       - suite.territoriale
+teams:
+  - /teams/anct
 ---
 Passionné par le développement depuis l'age de 15 ans, j'ai travaillé au sein de grand groupe avant de créer différentes startups.
 

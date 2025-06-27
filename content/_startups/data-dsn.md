@@ -1,10 +1,11 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: estelle.saget@beta.gouv.fr
+contact: data-dsn@beta.gouv.fr
 thematiques:
   - Open-Data
   - Travail / Emploi
+  - Social
 usertypes:
   - Administrations
   - État
@@ -24,7 +25,7 @@ events:
     date: 2025-03-17
     comment: Comité de fin d'investigation - Passage en construction
 techno: []
-link: ''
+link: https://data-dsn.beta.gouv.fr
 ---
 ## Contexte
 

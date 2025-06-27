@@ -16,6 +16,8 @@ missions:
     employer: EIG
     startups:
       - aplus
+teams:
+  - /teams/anct
 ---
 CPO chez Administration+, je mets mes 15 ans d'expérience en gestion de produit numérique au service de l'impact social.
 Ex-iGraal, M6 Digital, Atolls

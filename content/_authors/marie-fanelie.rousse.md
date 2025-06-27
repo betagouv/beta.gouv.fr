@@ -1,17 +1,17 @@
 ---
-fullname: Claire PANIER
-role: Co-intrapreneure à DALO Assist'
+fullname: Marie-Fanélie Rousse
+role: Co-Intrapreneuse
 domaine: Intraprenariat
-link: https://www.linkedin.com/in/claire-panier-aa8895105/
 competences:
-  - Intrapreneur(se)
-  - Administration Publique
+  - Communication
   - Droit / Affaires juridiques
+  - Administration Publique
 missions:
   - start: 2025-06-17
     end: 2025-11-19
-    status: admin
     employer: N/A
+    status: admin
     startups:
       - dalo-assist-usagers-et-contentieux
+teams: []
 ---

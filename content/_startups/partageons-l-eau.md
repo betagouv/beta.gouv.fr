@@ -13,7 +13,8 @@ title: Partageons l'eau
 mission: 'Faciliter un partage de l''eau transparent, tenant compte des besoins des usagers en respectant les objectifs de bon état des masses d’eau '
 incubator: mtes
 sponsors:
-  - /organisations/dgeb
+  - /organisations/deb
+  - /organisations/dgaln
 phases:
   - name: investigation
     start: 2024-12-02

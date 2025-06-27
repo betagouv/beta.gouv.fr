@@ -2,7 +2,9 @@
 title: EnvErgo
 mission: Améliorer la prise en compte de l'environnement dans les projets d'aménagement
 sponsors:
+  - /organisations/deb
   - /organisations/dgaln
+  - /organisations/dhup
 incubator: mtes
 link: https://envergo.beta.gouv.fr
 repository: https://github.com/MTES-MCT/envergo

@@ -6,6 +6,8 @@ incubator: mtes
 title: Stop-Punaises
 contact: notifications@stop-punaises.gouv.fr
 sponsors:
+  - /organisations/dgaln
+  - /organisations/dhup
   - /organisations/mtes
 phases:
   - name: construction
