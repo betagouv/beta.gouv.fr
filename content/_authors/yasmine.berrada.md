@@ -10,15 +10,18 @@ missions:
     employer: Ippon/LLL
     startups:
       - aidess
-      - aides-territoires
       - e-controle
-      - je-deviens-etudiant
-      - trackdechets
   - start: 2023-02-06
-    end: 2025-06-30
+    end: 2025-08-31
     status: independent
     employer: Malt
     startups:
       - aides.jeunes
+  - start: 2024-10-01
+    end: 2024-12-31
+    status: independent
+    employer: Ippon
+    startups:
+      - je-deviens-etudiant
 competences: []
 ---

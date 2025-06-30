@@ -14,7 +14,7 @@ missions:
       - aides-territoires
       - place-de-marche-inclusion
   - start: 2024-08-05
-    end: 2025-06-30
+    end: 2025-10-31
     status: service
     employer: Scopyleft
     startups:
@@ -22,8 +22,7 @@ missions:
 badges:
   - segur
 competences:
-  - Développement Frontend
-  - Développement Backend
-  - Administration Système
+  - Développement Full-stack
+  - Python
 ---
 Développeur full-stack, j'aime les communs, apprendre (& faire), le vélo et les pingouins.

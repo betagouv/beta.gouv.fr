@@ -9,7 +9,7 @@ missions:
     startups:
       - andi
   - start: 2025-03-24
-    end: 2025-06-27
+    end: 2025-09-30
     status: independent
     employer: Malt
     startups:

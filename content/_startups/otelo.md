@@ -6,6 +6,7 @@ contact: luc.bercegol@developpement-durable.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/dgaln
+  - /organisations/dhup
 phases:
   - name: investigation
     start: 2023-05-01

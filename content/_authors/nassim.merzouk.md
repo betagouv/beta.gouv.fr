@@ -11,7 +11,7 @@ missions:
     startups:
       - jeveuxaider
   - start: 2022-09-01
-    end: 2025-06-30
+    end: 2025-10-30
     status: independent
     employer: MALT
     startups:
@@ -29,6 +29,12 @@ missions:
     employer: Dynergie
     startups:
       - territoires-en-transitions
+  - start: 2025-04-01
+    end: 2025-08-30
+    status: independent
+    employer: Mednum
+    startups:
+      - refugies.info
 link: https://www.linkedin.com/in/merzouknassim/
 competences:
   - Croissance

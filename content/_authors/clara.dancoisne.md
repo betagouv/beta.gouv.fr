@@ -2,12 +2,10 @@
 fullname: Clara Dancoisne
 role: 'Chargée de déploiement '
 domaine: Déploiement
-competences:
-  - Facilitation
-  - Droit / Affaires juridiques
+competences: []
 missions:
   - start: 2024-07-16
-    end: 2025-06-30
+    end: 2025-11-03
     status: independent
     employer: Malt
     startups:

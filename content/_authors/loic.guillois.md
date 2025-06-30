@@ -35,13 +35,13 @@ missions:
     startups:
       - pass.engagement.jeune
   - start: 2023-07-02
-    end: 2025-06-30
+    end: 2025-09-30
     status: independent
     employer: Malt
     startups:
       - zero-logement-vacant
   - start: 2025-02-28
-    end: 2025-06-30
+    end: 2025-09-30
     status: independent
     employer: Omnicité
     startups:

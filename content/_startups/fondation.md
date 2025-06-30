@@ -68,7 +68,7 @@ Notre vision est de faire de Fondation le socle numérique d'un CSM plus fort et
 
 * Alice Maintigneux - Intrapreneure, Secrétaire Générale Adjointe du CSM
 * Rémi Boureau-Lienard - Co-intrapreneur, Responsable Numérique du CSM
-* Maxime Naulleau - Développeur Lead
+* Alexis Ebrard - Développeur senior
 * Alexandra Le Borgne - Coach produit
 
 
