@@ -19,7 +19,10 @@ title: Mon Devis Sans Oublis
 mission: Fluidifier l'instruction des aides en limitant les allers-retours sur les devis lors de l'instruction des dossiers de demandes d'aides à la rénovation énergétique pour les logements des particuliers
 incubator: mtes
 sponsors:
+  - /organisations/agence-national-de-l-habitat
   - /organisations/dgaln
+  - /organisations/dgec
+  - /organisations/dhup
 phases:
   - name: investigation
     start: 2023-11-27

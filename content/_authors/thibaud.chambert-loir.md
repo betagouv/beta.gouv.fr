@@ -5,7 +5,7 @@ github: thibaud-cl
 role: Intrapreneur
 missions:
   - start: 2021-01-18
-    end: 2025-05-30
+    end: 2026-12-31
     status: admin
     employer: Agence Nationale de Cohésion des Territoires
     startups:

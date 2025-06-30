@@ -13,4 +13,6 @@ competences:
   - Sécurité informatique
   - Administration Système
 link: https://www.linkedin.com/in/fbusi
+teams:
+  - /teams/anct
 ---

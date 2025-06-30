@@ -30,11 +30,13 @@ missions:
       - geo.data.gouv.fr
       - transport
   - start: 2024-10-01
-    end: 2025-02-15
+    end: 2025-06-30
     status: independent
     employer: Malt
+    startups:
+      - data.gouv.fr
   - start: 2025-02-11
-    end: 2025-08-30
+    end: 2025-10-31
     status: independent
     employer: Dynergie
     startups:

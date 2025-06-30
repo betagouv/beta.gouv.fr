@@ -15,5 +15,7 @@ missions:
     startups:
       - aides-territoires
       - mon.espace.collectivite
+teams:
+  - /teams/anct
 ---
 Depuis 30 ans dans les collectivités territoriales ; direction d'un opérateur public de services numérique (Soluris) ; 15 ans conseiller numérique pour l'Association des Maires de France ; membre de nombreux réseaux nationaux du numérique territorial (Déclic, Adullact, FNCCR, Interconnectés, SNDGCT...).

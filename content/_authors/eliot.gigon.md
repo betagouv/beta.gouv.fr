@@ -16,4 +16,6 @@ missions:
 link: https://www.linkedin.com/feed/
 competences:
   - Intrapreneur(se)
+teams:
+  - /teams/anct
 ---

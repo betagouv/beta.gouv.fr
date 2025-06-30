@@ -4,7 +4,7 @@ fullname: Erwan Boehm
 role: Développement
 missions:
   - start: 2024-06-12
-    end: 2025-06-28
+    end: 2025-09-26
     status: independent
     employer: LBC
     startups:
