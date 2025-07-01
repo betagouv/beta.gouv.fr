@@ -1,7 +1,7 @@
 ---
-fullname: maud corcoral
-role: Chargée de déploiement
-domaine: Déploiement
+fullname: Maud Corcoral
+role: Chargée de Modération, d’Animation et d’Assistance aux Utilisateurs
+domaine: Animation
 missions:
   - start: 2023-10-09
     end: 2024-01-15
@@ -9,10 +9,11 @@ missions:
     startups:
       - envergo
   - start: 2025-05-19
-    end: 2025-08-16
+    end: 2025-12-01
     status: independent
     startups:
       - jeveuxaider
 memberType: autre
+competences: []
 ---
-Chargée de déploiement
+Chargée de Modération, d’Animation et d’Assistance aux Utilisateurs

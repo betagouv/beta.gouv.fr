@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://t-incognita.fr/
 missions:
   - start: 2024-01-08
-    end: 2025-07-31
+    end: 2025-11-28
     status: independent
     employer: Little Big Connection
     startups:

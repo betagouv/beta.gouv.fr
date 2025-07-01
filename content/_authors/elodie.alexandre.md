@@ -1,6 +1,6 @@
 ---
 fullname: Elodie Alexandre
-role: ' Freelances en customer care, gestion de tickets support, assistance administratif.'
+role: Operatrice de validation
 domaine: Support
 competences:
   - Administration Publique
@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-06-27
     end: 2025-09-30
-    employer: DINUM
     status: independent
+    employer: DINUM
     startups:
       - dossierfacile
-teams: []
 ---

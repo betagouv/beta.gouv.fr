@@ -5,7 +5,7 @@ role: Chargé de support et contenu SPIP
 github: Valentinedelanouvelle
 missions:
   - start: 2023-03-23
-    end: 2025-08-31
+    end: 2025-12-24
     status: independent
     employer: LBC
     startups:
