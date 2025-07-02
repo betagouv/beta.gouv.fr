@@ -31,8 +31,13 @@ events:
   - name: product_launch
     date: 2025-05-12
     comment: Lancement du MVP
+  - name: committee
+    date: 2025-06-10
+    comment: Financements complémentaires pour continuer la construction jusqu'en Janvier 2026
 link: https://diagbruit.beta.gouv.fr/
 repository: https://github.com/betagouv/diagbruit.beta.gouv.fr
+stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=212&period=day&date=yesterday#?period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=1
+impact_url: https://diagbruit.fr/stats
 ---
 ## Contexte
 

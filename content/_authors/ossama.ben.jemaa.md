@@ -14,7 +14,7 @@ competences:
   - Communication
 missions:
   - start: 2024-12-12
-    end: 2025-12-31
+    end: 2024-12-31
     status: independent
     employer: Fairness
     startups:

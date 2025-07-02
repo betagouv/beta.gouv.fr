@@ -10,7 +10,7 @@ link: https://covoiturage.beta.gouv.fr/
 repository: https://github.com/betagouv/preuve-covoiturage
 contact: contact@covoiturage.beta.gouv.fr
 stats: true
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 analyse_risques: true
 analyse_risques_url: https://covoiturage.beta.gouv.fr/.well-known/security-policy.txt
 usertypes:

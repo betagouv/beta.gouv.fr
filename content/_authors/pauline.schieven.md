@@ -1,6 +1,6 @@
 ---
 fullname: Pauline Schieven
-role: Chargée de déploiement pour Données & Territoires - Confiance dans la donnée (ANCT)
+role: Chargée de déploiement - Confiance dans la donnée
 domaine: Déploiement
 link: https://www.linkedin.com/in/paulineschieven/
 competences: []

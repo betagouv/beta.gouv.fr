@@ -1,14 +1,14 @@
 ---
-fullname: Damien METIVIER
-role: Intrapreneur à DALO Assist'
+fullname: Myriam Laafou
+role: Investigateur
 domaine: Intraprenariat
-competences:
-  - Intrapreneur(se)
+competences: []
 missions:
   - start: 2025-06-17
     end: 2025-11-19
-    status: admin
     employer: N/A
+    status: admin
     startups:
       - dalo-assist-usagers-et-contentieux
+teams: []
 ---

@@ -26,7 +26,7 @@ missions:
     startups:
       - collectif_objets
   - start: 2024-05-27
-    end: 2025-08-01
+    end: 2025-12-30
     status: independent
     employer: Scopyleft
     startups:

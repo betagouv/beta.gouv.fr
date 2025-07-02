@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2023-11-07
-    end: 2025-07-31
+    end: 2025-11-30
     status: admin
     startups:
       - monprojetsup

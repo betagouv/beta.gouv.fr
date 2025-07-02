@@ -22,7 +22,7 @@ usertypes:
   - etablissement-scolaire
   - etat
 dashlord_url: https://dashlord.incubateur.net/url/www-snu-gouv-fr/
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 thematiques:
   - Jeunesse
   - Education

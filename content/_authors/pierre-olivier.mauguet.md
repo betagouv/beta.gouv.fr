@@ -33,6 +33,10 @@ missions:
     employer: malt
     startups:
       - pacoupa
+  - start: 2025-03-01
+    end: 2025-12-31
+    status: admin
+    employer: DGFiP
 competences:
   - Développement Frontend
   - Développement Backend

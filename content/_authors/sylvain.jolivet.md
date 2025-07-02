@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2025-06-01
     end: 2025-11-30
-    employer: GIP Numih France
     status: admin
+    employer: GIP Numih France
     startups:
       - data.etat
-teams: []
 ---

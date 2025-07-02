@@ -4,7 +4,7 @@ domaine: Support
 role: 'Coordinatrice du pôle assistance utilisateurs et animation territorial '
 missions:
   - start: 2022-12-06
-    end: 2025-07-31
+    end: 2025-10-31
     status: independent
     employer: Dinum-malt
     startups:

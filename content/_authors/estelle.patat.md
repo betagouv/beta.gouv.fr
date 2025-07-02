@@ -19,4 +19,6 @@ missions:
     startups:
       - aidantsconnect
 link: https://www.linkedin.com/in/estelle-patat-02427013a/
+teams:
+  - /teams/anct
 ---

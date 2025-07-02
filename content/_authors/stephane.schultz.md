@@ -12,5 +12,7 @@ missions:
       - dialogue
 competences:
   - Product strategy
+  - Coaching
+  - Croissance
 ---
 Je prends des trains à travers les plaines

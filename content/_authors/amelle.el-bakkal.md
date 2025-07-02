@@ -11,7 +11,7 @@ missions:
     startups:
       - l-application-du-cej
   - start: 2025-04-17
-    end: 2025-07-31
+    end: 2025-10-02
     status: service
     employer: Octo
     startups:
@@ -25,5 +25,6 @@ competences:
   - Accessibilité
   - Coaching
   - JavaScript/TypeScript
+  - UI
 ---
 Développeuse multipassionnée, pour un numérique inclusif, divers et accessible 🌸🌱

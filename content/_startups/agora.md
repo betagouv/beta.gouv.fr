@@ -7,7 +7,7 @@ sponsors:
   - /organisations/ditp
 incubator: dinum
 contact: penelope.liot@beta.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 phases:
   - name: investigation
     start: 2022-12-01

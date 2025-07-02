@@ -1,7 +1,7 @@
 ---
 fullname: Juliette MALLEJAC
-role: 'Support et Modération à Jeveuxaider.gouv '
-domaine: Support
+role: 'Chargée de Modération, d''Animation et d''Assistance aux utilisateurs '
+domaine: Animation
 competences: []
 missions:
   - start: 2025-06-23

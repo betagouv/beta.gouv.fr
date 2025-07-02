@@ -13,4 +13,4 @@ missions:
 memberType: beta
 competences: []
 ---
-Designer de service, UX UI, illustratrice
+Designer de service, UX UI

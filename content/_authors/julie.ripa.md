@@ -1,7 +1,7 @@
 ---
 fullname: Julie Ripa
 domaine: Intraprenariat
-role: Intrapreneuse Tchap
+role: Intrapreneuse Tchap et CODIR Suite Numérique
 github: julie-ri
 missions:
   - start: 2021-03-16
@@ -18,14 +18,16 @@ missions:
       - dotations-locales
       - lannuaire.des.collectivites
   - start: 2023-11-13
-    end: 2025-11-13
+    end: 2027-11-13
     status: admin
     employer: DINUM
     startups:
+      - suite-numerique
       - tchap
 badges:
   - segur
 competences:
   - Administration Publique
+link: https://www.linkedin.com/in/julie-ripa-5a993899/
 ---
-J'essaie de faire quelque chose pour l'humanité en luttant contre la pauvreté
+Je cours beaucoup

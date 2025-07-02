@@ -22,7 +22,7 @@ missions:
       - leximpact
       - openfisca
   - start: 2024-06-09
-    end: 2025-06-30
+    end: 2025-09-30
     status: independent
     employer: Malt
     startups:

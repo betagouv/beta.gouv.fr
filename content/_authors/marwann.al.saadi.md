@@ -11,7 +11,7 @@ missions:
     startups:
       - snu
   - start: 2025-05-21
-    end: 2025-07-21
+    end: 2025-09-30
     status: independent
     employer: ut7
     startups:

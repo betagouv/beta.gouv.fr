@@ -16,7 +16,6 @@ missions:
     startups:
       - aidantsconnect
       - cartographie.nationale
-      - data-inclusion
       - france-numerique-ensemble
       - suite.d.outils.des.mediateurs.numeriques
 ---

@@ -3,7 +3,7 @@ mission: Rendre le parcours des déchets plus vertueux
 incubator: mtes
 repository: https://github.com/MTES-MCT/trackdechets
 contact: contact@trackdechets.beta.gouv.fr
-accessibility_status: partiellement conforme
+accessibility_status: non conforme
 usertypes:
   - entreprise
   - etat

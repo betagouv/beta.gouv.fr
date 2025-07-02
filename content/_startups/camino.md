@@ -4,7 +4,7 @@ incubator: mtes
 repository: https://gitlab-forge.din.developpement-durable.gouv.fr/pub/pnm-public/camino
 contact: camino@beta.gouv.fr
 analyse_risques: true
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 usertypes:
   - particulier
   - collectivite-territoriale
@@ -25,7 +25,11 @@ phases:
   - name: acceleration
     start: 2023-06-15
 thematiques: []
-techno: []
+techno:
+  - typescript
+  - docker
+  - ansible
+  - tsx
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 ---
 ## Le problème
