@@ -11,4 +11,6 @@ missions:
       - deveco
 memberType: beta
 competences: []
+teams:
+  - /teams/anct
 ---

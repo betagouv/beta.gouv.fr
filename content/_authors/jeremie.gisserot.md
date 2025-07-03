@@ -14,7 +14,7 @@ competences:
   - PHP
 missions:
   - start: 2024-09-09
-    end: 2025-07-30
+    end: 2025-09-30
     status: independent
     employer: Diair
     startups:

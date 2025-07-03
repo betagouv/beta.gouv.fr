@@ -7,7 +7,7 @@ incubator: FabNum-MI
 link: https://basegun.interieur.gouv.fr/
 repository: https://github.com/datalab-mi/Basegun
 contact: basegun@interieur.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 phases:
   - name: investigation
     start: 2022-03-02

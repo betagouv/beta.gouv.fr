@@ -4,7 +4,7 @@ role: intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2022-06-24
-    end: 2025-07-31
+    end: 2025-12-24
     status: admin
     startups:
       - romin

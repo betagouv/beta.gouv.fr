@@ -9,7 +9,6 @@ missions:
     status: independent
     employer: Ministères Sociaux
     startups:
-      - athena
       - reva
 competences:
   - Gestion de Produit

@@ -13,18 +13,16 @@ missions:
       - la-bonne-boite
       - les-emplois
   - start: 2020-01-01
-    end: 2022-12-01
+    end: 2025-05-31
     status: independent
     employer: 'Octo '
     startups:
       - data-inclusion
-      - dora
   - start: 2022-12-01
     end: 2026-01-30
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:
-      - data-inclusion
       - dora
 competences:
   - Gestion de Produit

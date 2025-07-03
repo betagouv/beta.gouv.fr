@@ -6,7 +6,7 @@ missions:
   - start: 2024-05-06
     end: 2025-11-30
     status: independent
-    employer: Little Big Connection
+    employer: Telescoop
     startups:
       - tacct
 memberType: beta

@@ -12,8 +12,10 @@ redirect_from:
 phases:
   - name: construction
     start: 2022-04-01
-  - name: alumni
-    start: 2025-12-31
+  - name: acceleration
+    start: 2023-06-01
+  - name: transfer
+    start: 2025-01-01
 repository: https://github.com/mission-apprentissage/trajectoires-pro
 stats_url: https://statistiques.exposition.inserjeunes.beta.gouv.fr/
 stats: true

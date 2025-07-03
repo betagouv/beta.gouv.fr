@@ -4,7 +4,7 @@ fullname: Bruno Chiocchia
 role: Autre
 missions:
   - start: 2024-04-10
-    end: 2026-08-28
+    end: 2027-08-28
     status: admin
     employer: MEN
     startups:

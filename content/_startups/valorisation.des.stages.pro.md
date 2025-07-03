@@ -10,7 +10,7 @@ repository: https://github.com/betagouv/aplypro
 contact: aplypro@beta.gouv.fr
 analyse_risques: true
 analyse_risques_url: https://pad.numerique.gouv.fr/PN0XQ98MQSWDMyhAS_dE6g
-accessibility_status: partiellement conforme
+accessibility_status: non conforme
 events:
   - name: committee
     date: 2023-02-03

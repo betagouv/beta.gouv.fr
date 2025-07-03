@@ -5,7 +5,7 @@ domaine: Développement
 github: GotchiT2
 missions:
   - start: 2023-02-02
-    end: 2025-07-31
+    end: 2025-09-30
     status: service
     employer: OCTO
     startups:

@@ -1,5 +1,5 @@
 ---
-accessibility_status: totalement conforme
+accessibility_status: non conforme
 analyse_risques: false
 mon_service_securise: true
 contact: peate@dxo-design.fr

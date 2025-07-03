@@ -14,6 +14,7 @@ usertypes:
   - association
   - etat
   - collectivité
+  - Agents publics
 stats_url: https://blog.datasubvention.beta.gouv.fr/statistiques/
 budget_url: https://datasubvention.beta.gouv.fr/budgets/
 phases:

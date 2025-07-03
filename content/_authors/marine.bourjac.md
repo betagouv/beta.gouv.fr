@@ -4,7 +4,7 @@ role: Marketing relationnel
 domaine: Déploiement
 missions:
   - start: 2023-09-26
-    end: 2025-07-31
+    end: 2025-10-31
     status: independent
     employer: Malt
     startups:
