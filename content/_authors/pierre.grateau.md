@@ -9,7 +9,7 @@ competences:
   - Coaching
 missions:
   - start: 2024-10-28
-    end: 2025-07-31
+    end: 2025-12-31
     status: independent
     employer: Scopyleft
     startups:

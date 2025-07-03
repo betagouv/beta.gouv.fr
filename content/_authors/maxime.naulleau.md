@@ -31,7 +31,7 @@ competences:
   - Architecture hexagonale
 missions:
   - start: 2024-09-23
-    end: 2025-10-01
+    end: 2025-06-20
     status: service
     employer: Little Big Connection
     startups:

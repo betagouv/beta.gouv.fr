@@ -1,7 +1,7 @@
 ---
 domaine: Déploiement
 fullname: Inès Chaïbi
-role: Chargée de déploiement
+role: Chargée de relations externes
 missions:
   - start: 2024-05-02
     end: 2025-12-31

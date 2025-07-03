@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-06-02
     end: 2028-05-31
-    employer: Ministère agriculture
     status: admin
+    employer: Ministère agriculture
     startups:
       - services-web-anct
-teams: []
 ---
