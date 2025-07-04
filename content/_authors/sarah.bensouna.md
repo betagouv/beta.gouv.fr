@@ -1,14 +1,15 @@
 ---
 fullname: Sarah Bensouna
-role: Opératrice de validation
-domaine: Déploiement
+role: Opératrice experte et chargée de support
+domaine: Support
 missions:
   - start: 2022-07-10
-    end: 2025-06-30
+    end: 2025-12-31
     status: independent
     startups:
       - dossierfacile
 badges:
   - segur
+competences: []
 ---
-Amoureuse de voyages, de poutine et de chocolat
+
