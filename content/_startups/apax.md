@@ -1,11 +1,11 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: cecile.pawlak@beta.gouv.fr
+contact: dirisi-fabnum.expert.fct@def.gouv.fr
 thematiques:
   - Santé
 usertypes:
-  - 'Médecins des forces et psyhiatres '
+  - Médecoins des forces et psychiatres
 title: APAX
 mission: L’enjeu est de mieux accompagner les patients militaires notamment ceux souffrant de trouble de stress post-traumatique (TSPT)  en rendant la prescription médicamenteuse plus précise, plus tolérable et plus efficace.
 incubator: fabnumdef
@@ -16,11 +16,10 @@ phases:
     start: 2024-02-18
   - name: construction
     start: 2025-06-18
-  - name: transfer
-    start: 2026-09-30
 events:
   - name: product_launch
-    date: 2026-09-18
+    date: 2026-08-03
+techno: []
 link: ''
 ---
 ## Contexte

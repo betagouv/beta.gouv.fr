@@ -11,9 +11,8 @@ competences:
 missions:
   - start: 2025-06-30
     end: 2025-10-30
-    employer: Octo/Malt
     status: independent
+    employer: Octo/Malt
     startups:
       - jeveuxaider
-teams: []
 ---
