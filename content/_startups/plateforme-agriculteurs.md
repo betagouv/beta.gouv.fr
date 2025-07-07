@@ -23,14 +23,16 @@ mon_service_securise: true
 repository: https://github.com/betagouv/aides-agri
 dashlord_url: https://dashlord.incubateur-agriculture.beta.gouv.fr/url/aides-agri-beta-gouv-fr/
 events:
-  - name: other
-    date: 2025-06-05
+  - name: product_launch
+    date: 2025-06-30
     comment: Lancement du MVP
-link: ''
+  - name: committee
+    date: 2025-07-04
+link: https://aides-agri.beta.gouv.fr
 ---
 ## Contexte
 
-Suite à la crise agricole, 70 engagements ont été pris par le gouvernement pour simplifier et améliorer le quotidien des agriculteurs. Une réunion avec les professionnels du 15 mars 2024 (CSO) a permis de faire ressortir le **besoin de faciliter et simplifier les démarches pour les agriculteurs** , en leur permettant de disposer d’informations contextuelles sur les démarches administratives. 
+Suite à la crise agricole, 70 engagements ont été pris par le gouvernement pour simplifier et améliorer le quotidien des agriculteurs. Une réunion avec les professionnels du 15 mars 2024 (CSO) a permis de faire ressortir le **besoin de faciliter et simplifier les démarches pour les agriculteurs**, en leur permettant de disposer d’informations contextuelles sur les démarches administratives. 
 
 L’atelier de cadrage du 13 mai 2024 a ensuite fait émerger un premier périmètre à adresser : les démarches administratives de demandes d’aides financières. 
 ## Problème
@@ -45,8 +47,8 @@ peuvent être complexes.
 
 
 **Par ailleurs, cela provoque un accès inégal aux aides, en fonction du profil des agriculteurs** : 
-* Ces dispositifs restent méconnus ou peu accessibles d’une partie significative des agriculteurs, en particulier de ceux peu connectés aux réseaux agricoles (interpro, etc) 
-* Le travail de recherche d’aides, chronophage, pénalise les agriculteurs avec le moins de ressources (compétences, financiers et temps)
+* Ces dispositifs restent méconnus ou peu accessibles d’une partie significative des agriculteurs, en particulier de ceux peu connectés aux réseaux agricoles (syndicats, chambres, coopératives, etc.) 
+* Le travail de recherche d’aides, chronophage, pénalise les agriculteurs avec le moins de ressources (compétences, financiers et temps).
 
 
 **Conséquences** :  

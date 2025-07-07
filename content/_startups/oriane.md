@@ -7,6 +7,7 @@ thematiques:
   - qualité
   - iso 9001
 usertypes:
+  - Agents de la qualité
   - etat
 techno: []
 title: ORIANE
@@ -19,7 +20,7 @@ phases:
     start: 2024-08-01
 events:
   - name: product_launch
-    date: 2024-08-23
+    date: 2026-01-22
 link: ''
 ---
 ## Contexte

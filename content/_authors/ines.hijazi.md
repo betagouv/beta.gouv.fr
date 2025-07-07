@@ -24,11 +24,16 @@ missions:
       - psyenfantado
       - sante-psy-etudiant
   - start: 2023-04-02
-    end: 2025-09-30
+    end: 2024-12-30
     status: independent
     employer: malt
     startups:
       - data-inclusion
+  - start: 2023-04-02
+    end: 2025-09-30
+    status: independent
+    employer: malt
+    startups:
       - dora
       - mon-recap
       - pilotage.de.linclusion
