@@ -6,7 +6,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-03-10
-    end: 2027-03-10
+    end: 2025-05-31
     status: admin
     employer: 'Ministère des Armées '
     startups:

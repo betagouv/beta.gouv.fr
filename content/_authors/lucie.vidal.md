@@ -16,6 +16,10 @@ missions:
     employer: Scopyleft
     startups:
       - anais
+  - start: 2025-07-01
+    end: 2025-12-31
+    status: independent
+    employer: Malt
 memberType: autre
 competences:
   - Product design
