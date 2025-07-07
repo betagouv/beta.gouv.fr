@@ -7,8 +7,6 @@ competences:
 missions:
   - start: 2025-07-03
     end: 2025-10-03
-    employer: MASA
     status: admin
-    startups: []
-teams: []
+    employer: MASA
 ---

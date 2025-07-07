@@ -11,14 +11,12 @@ competences:
   - JavaScript/TypeScript
   - Android
   - Rust
-  - Intrapreneur(se)
 missions:
   - start: 2025-07-07
     end: 2025-10-03
-    employer: DINUM
     status: independent
+    employer: DINUM
     startups:
       - suite-numerique
       - tchap
-teams: []
 ---
