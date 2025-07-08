@@ -17,22 +17,27 @@ phases:
 events:
   - name: committee
     date: 2025-04-11
-techno: []
+techno:
+  - bash
+  - git
+  - python
+  - sql
 sponsors:
   - /organisations/dgfip
 link: ''
 ---
-## Contexte
+## Contexte et problématique
 
-En cours de rédaction
-
-## Problème
-
-En cours de rédaction
+Afin d'améliorer le recouvrement dans les services, de nombreux outils ont été développés en local, sans aucune sécurité tant au niveau des croisements de données que sur les solutions techniques utilisées.
+Ce besoin d'outillage devient incontournable aussi bien au vu des attentes des agents que sur les probabilités de recouvrement qu'offrirait ce genre d'outil à grande échelle.
 
 ## Solution
 
-En cours de rédaction
+La construction du socle national du service numérique One Vision prend appui sur une première version développée et utilisée au niveau local depuis 2016 mais qui en l’état reste fragile, confrontée à des contraintes et des limites techniques.
+
+Cette seconde version doit démontrer la faisabilité technique d’un outil d’envergure nationale afin de mettre à la disposition des agents du recouvrement une vision synthétique et fiable du redevable professionnel, aidant ainsi à la décision.
+
+Afin de limiter le coût de développement du POC One Vision, ce dernier sera développé dans la partie expérimentale du Datalake, un espace sécurisé visé par la CNIL sous le pilotage de l'équipe Data Solutions et de l'intrapreneur et la restitution auprès des agents se fera via de la Dataviz.
 
 ## Objectifs à 6 mois: lancer une expérimentation pour mesurer l'impact de l'outil
 

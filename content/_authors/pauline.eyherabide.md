@@ -11,12 +11,13 @@ missions:
     startups:
       - france-numerique-ensemble
   - start: 2021-10-28
-    end: 2025-07-31
+    end: 2025-10-31
     status: independent
     employer: Scopyleft
     startups:
       - ma-cantine-egalim
 competences:
   - Communication
+  - SEO
 link: https://www.linkedin.com/in/paulineeyherabide/
 ---

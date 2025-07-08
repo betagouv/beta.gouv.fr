@@ -2,8 +2,8 @@
 analyse_risques: false
 mon_service_securise: false
 contact: contact-assistant@numerique.gouv.fr
-link: https://ia.numerique.gouv.fr/
-stats_url: https://ia.numerique.gouv.fr/stats
+link: https://albert.numerique.gouv.fr/
+stats_url: https://albert.numerique.gouv.fr/stats
 thematiques:
   - Administratif
   - Outil technique

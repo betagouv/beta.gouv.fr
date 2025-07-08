@@ -4,16 +4,27 @@ mission: Dérisquage de projet par l'évaluation environnementale et développem
 sponsors:
   - /organisations/mtes
 incubator: mtes
-link: https://evalpro.vercel.app/
+link: https://www.mon-projet-accompagne.fr/
 repository: https://github.com/cron6502/evalpro
 contact: joel.figueres@beta.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 phases:
   - name: investigation
     comment: 'Dénomination initiale du projet : "Décisions rendues au cas par cas" - Fin de la phase d''investigation programmée en septembre 2023'
     start: 2023-04-24
+  - name: construction
+    start: 2025-02-03
 thematiques:
   - Écologie
+usertypes:
+  - particulier
+  - association
+techno:
+  - rails
+  - java
+  - php
+  - html
+  - css
 ---
 ## Contexte
 
@@ -56,3 +67,12 @@ Initier une offre de service en "conseil amont" aux particuliers et professionne
 Intégrer au moins 20% des dossiers de demandes d'autorisations d'urbanisme pouvant échapper à l'évaluation environnementale soit un volume estimé à près de 25 dossiers,
 
 Évaluer et caractériser les besoins en "conseil amont" des particuliers et des professionnels.
+
+## Résultats obtenus nouvelles cibles et attentes
+
+**Accroche du concept** : 51 dossiers traités sur 6 mois appuyé de deux versions produit, intérêt des professionnels.
+**Attentes** : possibilités d'automatisation, d'élargissement de zones d'investigations, autres services à offrir en matière d'accompagnement "projet".
+
+## Réponse ?
+
+ un second MVP > **mon-projet-accompagne.fr** lancé en février 2025 intégrant un requêteur en ligne également utilisé en réunions professionnelles au titre du "nouveau conseil au territoire".
