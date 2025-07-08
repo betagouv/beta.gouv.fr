@@ -5,20 +5,24 @@ contact: nicolas.beaupied@cerema.fr
 thematiques:
   - Écologie
   - Territoires
-  - Collectivités
 usertypes:
-  - collectivite-territoriale
+  - etat
 title: Adaptation au Changement Climatique (ACC)
-mission: Guider et outiller les collectivités selon leurs besoins dans leurs démarches d’adaptation au changement climatique
+mission: Faciliter et augmenter grâce à l'IA le conseil humain des référents Adaptation au Changement Climatique auprès des collectivités.
 incubator: accelerema
 sponsors:
+  - /organisations/ademe
   - /organisations/cerema
 phases:
   - name: investigation
     start: 2024-10-10
+  - name: construction
+    start: 2025-07-07
 events:
   - name: product_launch
     date: 2024-11-13
+techno:
+  - SofIA
 link: ''
 ---
 
@@ -29,22 +33,18 @@ Le 3ème Plan National d’Adaptation au Changement Climatique (PNACC) a été l
 Ainsi, les opérateurs de l’État concernés, et notamment le Cerema, doivent déployer une offre commune en expertise et ingénierie pour accompagner les collectivités désireuses de s’engager dans une démarche d’adaptation au changement climatique, à partir de 2025.
 
 
-## Problème
-
-L'adaptation est un sujet qui peut être anxiogène et sur lequel peu de données existent. Les collectivités sont en première ligne sur les démarches à effectuer et ne savent pas toujours comment procéder.
-
 ## Problématique
-Comment guider et outiller les collectivités selon leurs besoins dans leurs démarches d’adaptation au changement climatique ?
 
-## Investigation
+L'investigation a démontré que les collectivités plébiscitent le conseil humain des Référents Adaptation pour répondre à leurs questions et faciliter leurs démarches. Or les ressources sur l'ACC sont variées, dispersées et évoluent rapidement. Enfin l'aspect systémique du sujet implique une connaissance large nécessaire pour répondre aux demandes des collectivités. 
 
-Pour proposer un service pertinent et efficace qui réponde pleinement aux attentes des territoires, il est nécessaire de mieux connaître les réels besoins des collectivités sur le terrain.
 
-L’investigation a pour but de répondre aux questions suivantes : 
+## Le produit
+Le Booster Conseil est un outil qui a pour vocation de faciliter et accélérer le conseil humain fourni aux collectivités par les référents de la Mission Adaptation, en centralisant la connaissance autour des sujets de l’ACC. Cet outil se base sur l’IA SofIA, développé par l’Ademe, le Cerema et le CGDD.
 
-- Quelle est la réalité des collectivités face à l'adaptation au changement climatique ?
-- Quels sont leurs besoins concrets pour s'organiser autour de l'adaptation au changement climatique ?
-- Existe-t-il des blocages et comment les contourner ?
-- Comment les aider à passer de l’information à l’action ?
-- Qui sont les acteurs de l'écosystème (publics, privés, associatifs) qui traitent le sujet ?
-- Quelles sont les initiatives déjà prises dont on pourrait s'inspirer ?
+**L'objectif de notre expérimentation ces 6 prochains mois est de vérifier que l’IA est un outil efficace pour accompagner les référents dans leurs démarches de conseil.**
+
+L’équipe est composée de l’intrapreneur, d’une coach et d'un.e futur.e chargé.e de déploiement. Nous travaillons en étroite collaboration avec l’équipe SofIA et le partenaire technique externe chargé du développement de l’IA.
+
+
+
+
