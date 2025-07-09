@@ -10,7 +10,7 @@ missions:
     startups:
       - workinfrance
   - start: 2021-11-01
-    end: 2025-07-31
+    end: 2025-12-31
     status: independent
     employer: Scopopop
     startups:

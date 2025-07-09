@@ -5,10 +5,11 @@ domaine: Produit
 link: https://www.linkedin.com/in/eliseprevot/
 missions:
   - start: 2022-11-16
-    end: 2025-09-30
+    end: 2025-12-31
     status: independent
     employer: BetaGouv
     startups:
+      - rdv.insertion
       - refugies.info
 badges:
   - segur
