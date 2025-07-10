@@ -8,10 +8,9 @@ competences:
 missions:
   - start: 2025-07-07
     end: 2026-07-07
-    employer: Ministère de l'Agriculture et de la Souveraineté Alimentaire
     status: admin
+    employer: Ministère de l'Agriculture et de la Souveraineté Alimentaire
     startups:
       - aquaculteurs.marins
-teams: []
 ---
 Fraîchement diplômé de l'école d'ingénieurs de Purpan, où je me suis spécialisé en aquaculture, je commence désormais à me former au traitement des données statistiques. 
