@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: DINUM
   - start: 2024-09-02
-    end: 2027-09-02
+    end: 2025-09-02
     status: admin
     employer: DINUM
     startups:

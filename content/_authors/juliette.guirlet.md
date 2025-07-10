@@ -5,7 +5,7 @@ domaine: Data
 github: juguirlet
 missions:
   - start: 2024-01-03
-    end: 2025-12-31
+    end: 2025-07-10
     status: independent
     employer: ADEME
     startups:
