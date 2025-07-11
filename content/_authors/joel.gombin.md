@@ -12,9 +12,8 @@ competences:
 missions:
   - start: 2025-07-01
     end: 2025-10-01
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - dialogue
-teams: []
 ---

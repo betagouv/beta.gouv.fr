@@ -10,4 +10,7 @@ missions:
     startups:
       - monitorfish
 memberType: autre
+link: https://www.linkedin.com/in/pierre-catala-8490ba168/
+competences: []
 ---
+Chef adjoint du Centre d'appui au contrôle de l'environnement marin (CACEM)
