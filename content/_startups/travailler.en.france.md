@@ -5,7 +5,7 @@ sponsors:
   - /organisations/francetravail
 incubator: francetravail
 contact: travailler-en-france@beta.francetravail.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 stats: true
 stats_url: https://travailler-en-france.beta.francetravail.fr/stats
 phases:
@@ -16,7 +16,7 @@ thematiques:
 usertypes:
   - particulier
 techno: []
-link: ''
+link: https://travailler-en-france.beta.francetravail.fr/Entreprise
 ---
 **Contexte**
 
