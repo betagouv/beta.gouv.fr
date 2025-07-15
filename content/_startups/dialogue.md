@@ -30,6 +30,7 @@ techno:
   - python
   - javascript
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+dashlord_url: https://dashlord.mte.incubateur.net/url/dialog-beta-gouv-fr/
 ---
 # Le problème
 

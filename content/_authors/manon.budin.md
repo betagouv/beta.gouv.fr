@@ -7,6 +7,8 @@ competences:
   - Ruby
   - JavaScript/TypeScript
   - Développement Full-stack
+  - React
+  - Rails
 missions:
   - start: 2025-07-07
     end: 2025-10-07
