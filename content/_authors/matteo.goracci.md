@@ -4,13 +4,13 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-09-12
-    end: 2025-08-15
+    end: 2025-12-31
     status: independent
     employer: ANCT
     startups:
       - aidantsconnect
   - start: 2025-03-25
-    end: 2025-07-01
+    end: 2025-07-31
     status: independent
     employer: La Fabrique
     startups:

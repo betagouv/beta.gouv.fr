@@ -1,6 +1,6 @@
 ---
 title: Pass Sport
-mission: Permettre et faciliter la pratique sportive des 6-30 ans bénéficiaires de l'Allocation de Rentrée Scolaire (ARS), ou de l'Allocation Adulte Handicapé (AAH), de l’allocation d’éducation de l’enfant handicapé (AEEH) ou d'une bourse étudiante.
+mission: Une aide financière pour encourager la pratique sportive des jeunes
 incubator: dinum
 contact: clemence.lopez@beta.gouv.fr
 sponsors:
@@ -25,28 +25,4 @@ usertypes:
 techno: []
 budget_url: https://www.pass.sports.gouv.fr/v2/budget
 ---
-## Contexte
-
-L'égal accès à la pratique sportive souffre de divers freins parmi lesquels la disponibilité des équipements, l'accessibilité physique, le rapport individuel à l'effort mais aussi le coût de la pratique. Face à ce constat, le ministère des sports a lancé en 2021 le dispositif pass'sport qui vise à résoudre ce dernier frein financier. Toutefois, le dispositif peine à atteindre son objectif, à savoir permettre à 2 millions de jeunes de commencer une pratique sportive. 
-
-## Problème
-
-Le dispositif a été créé de toutes pièces en 2021 dans un temps très restreint. Il souffre ainsi de plusieurs problèmes qui concourent à la non-réalisation de l'objectif notamment le formatage manuel de plusieurs bases de données de fournisseurs différents et l'utilisation unique du support mail pour l'envoi des codes. Par ailleurs, la communication déployée pour ce dispositif, bien qu'importante, ne permet pas de toucher pleinement la cible des bénéficiaires qui peine à s'acculturer à cette aide et à son fonctionnement. Enfin, le fonctionnement entièrement numérique du dispositif est un frein tant pour le public éligible que pour les associations dont la maîtrise de l'outil numérique est parfois balbutiante. 
-
-
-## Stratégie
-
-Le public cible du pass'sport est très divers, il regroupe les enfants bénéficiaires de l'allocation de rentrée scolaire ou de l'allocation d'éducation de l'enfant handicapé ainsi que les étudiants boursiers et les jeunes adultes bénéficiaires de l'allocation adulte handicapé. Aussi, il convient de mobiliser divers réseaux afin d'entrer en contact avec chacun d'entre eux : réseaux sociaux, établissements scolaires, réseaux personnels. L'objectif est de rencontrer l'ensemble des classes d'âges visées afin de prendre en compte la diversité de leurs pratiques et usages.
-
-## Impact et résultat du dispositif pass Sport 2024-2025
-Voici les résultats d'un sondage en ligne proposé par l'équipe à un échantillon de 400 000 éligibles ayant eu recouru ou non au pass Sport.
-- **13 778 répondants** (93,5% parents / 6,5% étudiants boursiers)
-
-> **IMPACT : 37% des répondants "parents" déclarent qu'ils n'auraient pas inscrit leurs enfants à une activité sportive sans l'aide du pass Sport** (34% pour les étudiants boursiers)
-
-- 80% des répondants réutilisent le pass Sport d'année en année
-- Évaluation globale du dispositif : 4,6/5
-- Évaluation simplicité du dispositf : 4,7/5
-- Score NPS 77 (82% de promoteurs et 5% de détracteurs)
-- Principale raison de non recours : Les clubs n'acceptent pas le pass Sport
-- Principales pistes d'améliorations proposées : Augmenter l'aide, élargir à tous le dispositif, faciliter l'acceptation du pass par les clubs.
+En cours de refonte - le dispositif évolue en 2025.

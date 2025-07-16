@@ -1,6 +1,6 @@
 ---
 fullname: Maud Ba
-role: Data Analyst à La bonne alternance
+role: Data Analyst
 domaine: Data
 link: https://www.linkedin.com/in/dorisemba/
 competences:
