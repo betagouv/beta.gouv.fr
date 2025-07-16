@@ -27,10 +27,11 @@ usertypes:
 techno:
   - No code
   - Ksaar
+budget_url: https://beta.gouv.fr/startups/mediation.logement.html#budget
 ---
 # Hibernation
 
-> La Startup Médiation Logement est en ❄️ **hibernation** ❄️. Si vous êtes agent de l'État et que vous vous intéressez à ce sujet écrivez un email aux personnes dans la partie contact.
+> La Startup Médiation Logement est en ❄️ **hibernation** ❄️. Si vous êtes agent de l'État et que vous vous intéressez à ce sujet vous pouvez écrire un email aux personnes renseignées dans la partie contact.
 
 # Contexte
 
@@ -164,13 +165,12 @@ Voici quelques pistes dans l'éventualité où une équipe souhaiterait reprendr
 
 # Contacts
 Si vous êtes agent de l'État et que vous vous intéressez à ce sujet écrivez un email aux personnes concernées par votre demande.
-| Rôle | Contact |
+|Rôle|Contact|
 | --- | --- |
-| Incubateur (par défaut) | samuel.goldszmidt@beta.gouv.fr |
+| Incubateur | samuel.goldszmidt@beta.gouv.fr |
 | Documentation | louis.laroche@beta.gouv.fr |
 | Code | aurelien.cadiou@beta.gouv.fr |
 
- 
 
 # Remerciements ✌️
 

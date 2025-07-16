@@ -1,6 +1,6 @@
 ---
 fullname: Elodie ROYANT
-role: Developpeuse à Tous à Bord
+role: Developpeuse à Aidants Connect
 domaine: Développement
 github: Atheane
 link: https://www.linkedin.com/in/elodie-royant-472b00b/
@@ -15,11 +15,11 @@ competences:
   - Développement Backend
   - Développement Frontend
 missions:
-  - start: 2025-01-20
-    end: 2025-07-30
+  - start: 2025-07-15
+    end: 2025-10-15
     status: independent
     employer: Malt
     startups:
-      - tous.a.bord
+      - aidantsconnect
 ---
 Développeuse fullstack avec une spécialisation dans les produits data

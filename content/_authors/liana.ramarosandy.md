@@ -1,6 +1,6 @@
 ---
 fullname: Liana Ramarosandy
-role: Spécialiste Carbone
+role: Spécialiste Donnée Carbone
 domaine: Autre
 competences: []
 missions:
