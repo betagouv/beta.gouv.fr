@@ -11,7 +11,7 @@ missions:
     startups:
       - nosgestesclimat
   - start: 2024-09-29
-    end: 2025-08-30
+    end: 2025-12-30
     status: independent
     employer: LBC
     startups:

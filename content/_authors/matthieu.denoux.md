@@ -1,8 +1,12 @@
 ---
 fullname: Matthieu Denoux
-role: Developpeur
+role: Lead Tech
 domaine: Développement
-competences: []
+competences:
+  - Administration Système
+  - Développement Full-stack
+  - DevOps
+  - Python
 missions:
   - start: 2025-07-08
     end: 2025-12-31
@@ -10,4 +14,5 @@ missions:
     employer: ANCT
     startups:
       - guichet-territorial-pour-la-transition-ecologique
+link: https://www.linkedin.com/in/matthieu-denoux/
 ---
