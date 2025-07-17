@@ -17,6 +17,12 @@ missions:
     employer: Codeurs en Liberté
     startups:
       - conseillers-entreprises
+  - start: 2025-07-16
+    end: 2025-12-31
+    status: independent
+    employer: Codeurs en Liberté
+    startups:
+      - conseillers-entreprises
 competences:
   - Développement Frontend
   - Développement Backend

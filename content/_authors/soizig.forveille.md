@@ -5,7 +5,7 @@ domaine: Design
 link: https://falafouik.com/
 missions:
   - start: 2023-09-27
-    end: 2025-07-31
+    end: 2025-12-31
     status: independent
     employer: Opteamis
     startups:
@@ -13,4 +13,4 @@ missions:
 memberType: beta
 competences: []
 ---
-Designer UXUI
+Product designer à forte appétence UI et Design system
