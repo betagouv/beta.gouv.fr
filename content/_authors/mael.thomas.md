@@ -19,7 +19,7 @@ missions:
       - mon-entreprise
       - nosgestesclimat
   - start: 2024-01-01
-    end: 2025-07-31
+    end: 2025-12-31
     status: independent
     startups:
       - mesaidesreno
