@@ -9,4 +9,6 @@ missions:
     end: 2027-11-30
     status: admin
     employer: DINUM
+teams:
+  - /teams/al-lia-nce-transverse
 ---
