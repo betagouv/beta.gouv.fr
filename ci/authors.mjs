@@ -15,6 +15,7 @@ const domaines = [
   "Produit",
   "Support",
   "Data",
+  "Attributaire",
   "Autre",
 ];
 
