@@ -50,7 +50,8 @@ module Jekyll
           'Animation' => [],
           'Produit' => [],
           'Data' => [],
-          'Support' => []
+          'Support' => [],
+          'Attributaire' => []
         },
         'domaine' => {
           'Déploiement' => 0,
@@ -62,7 +63,8 @@ module Jekyll
           'Animation' => 0,
           'Produit' => 0,
           'Data' => 0,
-          'Support' => 0
+          'Support' => 0,
+          'Attributaire' => 0
         },
         'total' => 0
       }
