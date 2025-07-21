@@ -51,7 +51,7 @@ module Jekyll
           'Produit' => [],
           'Data' => [],
           'Support' => [],
-          'Attributaire' => 0
+          'Attributaire' => []
         },
         'domaine' => {
           'Déploiement' => 0,
