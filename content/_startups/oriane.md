@@ -18,6 +18,8 @@ phases:
     start: 2024-04-30
   - name: construction
     start: 2024-08-01
+  - name: alumni
+    start: 2025-07-24
 events:
   - name: product_launch
     date: 2026-01-22

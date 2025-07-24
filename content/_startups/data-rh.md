@@ -16,6 +16,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-07-11
+  - name: alumni
+    start: 2025-07-24
 events:
   - name: product_launch
     date: 2024-07-11

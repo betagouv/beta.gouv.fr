@@ -18,6 +18,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-11-13
+  - name: alumni
+    start: 2025-07-24
 events:
   - name: committee
     date: 2024-07-03

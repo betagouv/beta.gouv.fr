@@ -18,6 +18,11 @@ missions:
     startups:
       - inventaireoeuvres
       - tout-est-permis
+  - start: 2025-07-24
+    end: 2025-12-31
+    status: independent
+    startups:
+      - partageons-l-eau
 badges:
   - segur
 competences: []
