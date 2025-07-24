@@ -24,7 +24,7 @@ missions:
     startups:
       - tchap
   - start: 2025-01-30
-    end: 2025-08-21
+    end: 2025-09-30
     status: service
     employer: Scop&co
     startups:
@@ -32,6 +32,11 @@ missions:
 memberType: autre
 previously:
   - tchap
-competences: []
+competences:
+  - Administration Système
+  - DevOps
+  - Docker
+  - Kubernetes
+  - Développement Backend
 ---
 DevOps chez scop&co

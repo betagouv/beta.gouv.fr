@@ -24,4 +24,6 @@ competences:
   - PostgreSQL
   - Python
 memberType: beta
+teams:
+  - /teams/al-lia-nce-transverse
 ---

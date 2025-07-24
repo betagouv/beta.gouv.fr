@@ -20,9 +20,8 @@ techno:
   - ProConnect
 title: PeATE
 mission: Parapheur Electronique de l'Administration Territoriale de l'Etat
-incubator: dinum_produits_interministeriels
+incubator: dinum
 sponsors:
-  - /organisations/dinum
   - /organisations/ditp
   - /organisations/ministere-de-l-interieur-et-des-outre-mer-direction-des-ressources-humaines
   - /organisations/secretariat-general-aux-affaires-regionales-sgar-bretagne
@@ -31,10 +30,8 @@ phases:
     start: 2022-05-01
   - name: construction
     start: 2023-03-01
-  - name: acceleration
-    start: 2024-09-01
 events:
-  - name: product_launch
+  - name: other
     date: 2023-03-01
     comment: Mise en production locale pour expérimentation de généralisation
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#PeATE

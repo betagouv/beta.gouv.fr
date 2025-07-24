@@ -11,6 +11,8 @@ phases:
     end: 2021-06-01
   - name: construction
     start: 2021-06-01
+  - name: alumni
+    start: 2025-07-24
 usertypes:
   - etat
 thematiques:
