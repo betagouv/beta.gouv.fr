@@ -14,13 +14,11 @@ sponsors:
   - /organisations/dgal
 phases:
   - name: investigation
-    comment: null
     start: 2025-07-18
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-07-18
+link: ''
 ---
 ## Contexte
 

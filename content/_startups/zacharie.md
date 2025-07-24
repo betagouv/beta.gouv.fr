@@ -23,6 +23,8 @@ redirect_from:
   - /startups/tracabilite.gibier.sauvage
   - /startups/tracabilite.gibier.sauvage.html
 repository: https://github.com/betagouv/zacharie
+stats_url: https://zacharie.beta.gouv.fr/stats
+impact_url: https://zacharie.beta.gouv.fr/stats
 ---
 ## Contexte
 

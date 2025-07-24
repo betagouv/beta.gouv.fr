@@ -10,6 +10,8 @@ phases:
     end: 2019-11-30
   - name: construction
     start: 2019-11-30
+  - name: alumni
+    start: 2025-07-24
 usertypes:
   - etat
 stats: false
