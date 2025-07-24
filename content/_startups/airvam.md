@@ -13,6 +13,8 @@ phases:
     start: 2021-06-01
   - name: acceleration
     start: 2023-01-23
+  - name: alumni
+    start: 2025-07-24
 usertypes:
   - etat
 thematiques:

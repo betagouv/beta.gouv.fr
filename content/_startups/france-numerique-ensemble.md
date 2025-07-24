@@ -11,7 +11,7 @@ phases:
     start: 2024-02-05
   - name: construction
     start: 2024-12-10
-link: https://inclusion-numerique.anct.gouv.fr/
+link: https://mon.inclusion-numerique.anct.gouv.fr/
 repository: https://github.com/anct-cnum
 stats: false
 contact: conseiller-numerique@anct.gouv.fr

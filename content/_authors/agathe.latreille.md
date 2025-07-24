@@ -1,28 +1,29 @@
 ---
 fullname: Agathe Latreille
 domaine: Intraprenariat
-role: Product Manager
+role: 'Product Manager - Lead Business Developer '
 github: Agathe-SW
 missions:
   - start: 2016-11-01
-    end: 2019-12-26
+    end: 2019-09-26
     status: admin
     employer: pole-emploi
     startups:
       - la-bonne-alternance
       - la-bonne-boite
-      - les-emplois
-  - start: 2020-01-01
-    end: 2025-05-31
+  - start: 2019-10-01
+    end: 2025-12-31
     status: independent
     employer: 'Octo '
     startups:
-      - data-inclusion
-  - start: 2022-12-01
+      - la.communaute.de.linclusion
+      - les-emplois
+  - start: 2021-01-25
     end: 2026-01-30
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:
+      - data-inclusion
       - dora
 competences:
   - Gestion de Produit
@@ -30,6 +31,6 @@ competences:
   - Administration Publique
   - Intrapreneur(se)
   - Product strategy
-link: https://www.linkedin.com/in/agathe-latreille-a75359139/
+link: https://www.linkedin.com/in/agathe-latreille/
 ---
 Tech enthousiaste, je m'exprime principalement en Gif et en Meme. Portée par la collaboration, la solidarité et la bienveillance.

@@ -14,9 +14,13 @@ incubator: agriculture
 phases:
   - name: investigation
     start: 2024-06-05
+  - name: alumni
+    start: 2024-09-30
 events:
   - name: end
     date: 2024-09-05
+sponsors:
+  - /organisations/dgaln
 link: ''
 ---
 ## Contexte

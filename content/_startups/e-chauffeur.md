@@ -11,6 +11,8 @@ phases:
     start: 2019-09-01
   - name: acceleration
     start: 2020-09-01
+  - name: alumni
+    start: 2025-07-24
 usertypes:
   - etat
 repository: https://gitlab.com/fabnum-minarm/e-chauffeur/

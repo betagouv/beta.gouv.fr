@@ -17,6 +17,8 @@ phases:
     start: 2021-01-01
   - name: transfer
     start: 2022-06-01
+  - name: alumni
+    start: 2025-07-24
 usertypes:
   - etat
 stats_url: https://chatbot.fabnum.fr//stats

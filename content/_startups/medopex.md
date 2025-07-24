@@ -8,6 +8,8 @@ phases:
   - name: investigation
     start: 2019-04-01
     end: 2019-06-30
+  - name: alumni
+    start: 2025-07-24
 stats: false
 contact: dirisi-fabnum.expert.fct@def.gouv.fr
 thematiques: []
