@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2025-07-21
     end: 2025-12-31
-    employer: Malt
     status: service
+    employer: Malt
     startups:
       - guichet-territorial-pour-la-transition-ecologique
-teams: []
 ---

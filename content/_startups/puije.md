@@ -7,6 +7,8 @@ incubator: fabnumdef
 phases:
   - name: investigation
     start: 2020-05-26
+  - name: alumni
+    start: 2025-07-24
 stats: false
 contact: dirisi-fabnum.expert.fct@def.gouv.fr
 thematiques:

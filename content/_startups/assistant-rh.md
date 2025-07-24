@@ -13,17 +13,13 @@ sponsors:
   - /organisations/dgafp
 phases:
   - name: investigation
-    comment: null
     start: 2025-01-01
-    end: null
   - name: construction
-    comment: null
     start: 2025-09-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-07-21
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
