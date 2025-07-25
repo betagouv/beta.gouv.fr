@@ -18,6 +18,8 @@ incubator: fabnumdef
 phases:
   - name: investigation
     start: 2024-01-15
+  - name: alumni
+    start: 2025-07-24
 events:
   - name: other
     date: 2024-08-23

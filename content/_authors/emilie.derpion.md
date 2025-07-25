@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-08-01
     end: 2026-08-01
-    employer: 'MInistère de l''intérieur - DGEF - DA '
     status: admin
+    employer: 'MInistère de l''intérieur - DGEF - DA '
     startups:
       - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
-teams: []
 ---

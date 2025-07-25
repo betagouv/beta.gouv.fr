@@ -9,11 +9,10 @@ competences:
 missions:
   - start: 2025-07-28
     end: 2025-09-14
-    employer: DINUM
     status: independent
+    employer: DINUM
     startups:
       - dossierfacile
-teams: []
 ---
 Avec 7 ans d'expérience en gestion de projets, j'accompagne les équipes à réussir leur projets de transformation numérique et organisationnelle. J'ai eu l'opportunité de piloter de nombreux projets et mis en place des stratégies et des outils de travail pour soutenir les transformations de mes clients.
 

@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-09-01
     end: 2025-12-31
-    employer: DGAFP
     status: admin
+    employer: DGAFP
     startups:
       - assistant-rh
-teams: []
 ---
