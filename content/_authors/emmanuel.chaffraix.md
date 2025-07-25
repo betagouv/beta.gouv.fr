@@ -26,4 +26,4 @@ github: echaffraix
 ---
 Passionné par le développement depuis l'age de 15 ans, j'ai travaillé au sein de grand groupe avant de créer différentes startups.
 
-Polyvalent, je co-construit, développe, déploie des produits.
+Polyvalent, je co-construis, développe, déploie des produits. J'interviens au sein de l'équipe transverse de l'incubateur des territoires de l'ANCT.

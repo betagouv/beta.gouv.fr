@@ -9,6 +9,12 @@ missions:
     employer: LBC
     startups:
       - scienceinfuse
+  - start: 2025-06-02
+    end: 2025-10-25
+    status: independent
+    employer: Malt
+    startups:
+      - mon-devis-sans-oublis
 competences:
   - Développement Full-stack
   - IA

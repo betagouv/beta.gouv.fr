@@ -5,14 +5,15 @@ domaine: Déploiement
 github: pbbouzin
 missions:
   - start: 2023-10-15
-    end: 2025-10-31
+    end: 2025-12-31
     status: independent
-    employer: Mission interministérielle pour l'apprentissage
+    employer: Mission apprentissage (DGEFP)
     startups:
       - tdb-apprentissage
 memberType: beta
 link: https://www.linkedin.com/in/pbbouzin/
 competences:
   - Communication
+  - Croissance
 ---
-Convaincu par les services publics, orienté déploiement et support usagers.
+Déploiement et support usagers.
