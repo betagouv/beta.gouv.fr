@@ -13,6 +13,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-05-20
+  - name: alumni
+    start: 2024-07-31
 analyse_risques: false
 mon_service_securise: false
 techno: []
@@ -54,4 +56,4 @@ Trois problèmes majeurs ont été identifiés lors de cette procédure :
 
 ## Stratégie
 
-L’objectif est de déployer ces solutions dans un premier temps avec des organismes certificateurs et SRAL volontaires, puis sur tout le territoire d’ici fin 2024 si les résultats sont concluants. Fin 2025, un bilan de l’expérimentation sera réalisé pour évaluer l’impact, la possibilité d’étendre davantage le processus “Dites-le-nous-une-fois” dans les procédures, et statuer sur l’utilisation du logiciel Approbation.
+L’objectif est de déployer ces solutions dans un premier temps avec des organismes certificateurs et SRAL volontaires. Le point d'étape de fin d'année 2024 a été concluant pour les usagers et les services instructeurs et la solution a été déployée sur neuf régions. Le déploiement national sera proposé sur tout le territoire d’ici fin 2025. Un bilan de l’expérimentation sera réalisé pour évaluer l’impactà cette même période pour analyser la possibilité d’étendre davantage le processus “Dites-le-nous-une-fois” dans les procédures, et statuer sur l’utilisation du logiciel Approbation.
