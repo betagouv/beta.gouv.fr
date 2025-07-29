@@ -9,12 +9,11 @@ competences:
 missions:
   - start: 2025-07-29
     end: 2025-10-28
-    employer: Omnicité
     status: independent
+    employer: Omnicité
     startups:
       - homologation
       - mes-services-cyber
       - mon-aide-cyber
-teams: []
 ---
 Développeur Frontend, Intégrateur Web HTML CSS JavaScript.

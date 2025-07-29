@@ -11,6 +11,15 @@ missions:
     employer: Scopopop
     startups:
       - preuve-de-covoiturage
-competences: []
+  - start: 2025-06-17
+    end: 2025-10-31
+    status: independent
+    employer: Numa
+    startups:
+      - diag-mob
+competences:
+  - Product strategy
+  - Coaching
+  - Croissance
 ---
 Passionné par les algues, les sujets d’impact et les enjeux de transition écologique, mes expertises sont le management de produit, la recherche d'impact et l'accompagnement de startup.
