@@ -9,16 +9,13 @@ usertypes:
 title: Réglementation Nitrates
 mission: Faciliter la compréhension et l’application de la réglementation Nitrates pour les agriculteurs et les conseillers agricoles
 incubator: agriculture
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-07-02
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-07-25
+link: ''
 ---
 ## Contexte
 
