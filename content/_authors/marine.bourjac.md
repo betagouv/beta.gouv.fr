@@ -20,4 +20,4 @@ competences:
   - stratégie marketing
   - emailing
 ---
-En mission marketing pour la SUE du Service National Universel et basée à Bordeaux :)
+En mission marketing depuis Bordeaux pour le Service National Universel
