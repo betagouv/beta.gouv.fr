@@ -3,7 +3,7 @@ domaine: Développement
 github: fflorent
 missions:
   - start: 2023-05-30
-    end: 2025-08-30
+    end: 2025-10-31
     status: independent
     employer: Omnicité
     startups:

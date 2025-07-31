@@ -23,7 +23,7 @@ missions:
     startups:
       - ma-cantine-egalim
   - start: 2023-11-01
-    end: 2025-08-30
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:

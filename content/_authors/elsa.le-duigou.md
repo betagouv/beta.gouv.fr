@@ -19,7 +19,9 @@ missions:
     employer: dinum
     startups:
       - api.prevention
+      - depenses-eclairees
       - infomedicament
+      - investigation-cour-d-appel-de-paris
       - medistock
       - teleconsultation-ald
       - tous.a.bord
