@@ -4,7 +4,7 @@ fullname: Benjamin Hardy
 role: Coaching
 missions:
   - start: 2024-04-04
-    end: 2025-08-31
+    end: 2025-12-31
     status: independent
     employer: NUMA
     startups:

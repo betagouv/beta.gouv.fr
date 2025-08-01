@@ -1,6 +1,6 @@
 ---
 fullname: Nicolas Sagon
-role: Développeur Full stack java Vue.js chez Dossier facile
+role: Développeur Full stack java / python/ Vue.js chez Dossier facile
 domaine: Développement
 github: https://github.com/nicolasSagon
 link: https://www.linkedin.com/in/nicolas-sagon-522391109/
@@ -11,7 +11,7 @@ competences:
   - JavaScript/TypeScript
 missions:
   - start: 2025-02-03
-    end: 2025-08-02
+    end: 2025-10-31
     status: independent
     employer: Malt
     startups:

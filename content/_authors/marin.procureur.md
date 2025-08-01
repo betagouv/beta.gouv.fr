@@ -6,7 +6,7 @@ link: https://norra.fr
 github: faxaq
 missions:
   - start: 2024-01-08
-    end: 2025-08-29
+    end: 2025-10-31
     status: independent
     employer: UT7
     startups:

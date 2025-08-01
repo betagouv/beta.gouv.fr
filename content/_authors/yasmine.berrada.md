@@ -12,7 +12,7 @@ missions:
       - aidess
       - e-controle
   - start: 2023-02-06
-    end: 2025-08-31
+    end: 2025-09-30
     status: independent
     employer: Malt
     startups:

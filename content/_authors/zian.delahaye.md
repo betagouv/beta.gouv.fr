@@ -7,7 +7,7 @@ competences:
   - Sécurité informatique
 missions:
   - start: 2025-05-14
-    end: 2025-08-30
+    end: 2025-12-21
     status: service
     employer: BlackFox Partners
     startups:

@@ -1,6 +1,6 @@
 ---
 fullname: Christophe CADILHAC
-role: Lead Tech
+role: Développeur full stack
 domaine: Développement
 github: cadichris
 missions:

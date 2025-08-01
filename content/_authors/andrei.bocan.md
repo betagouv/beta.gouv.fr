@@ -11,13 +11,13 @@ missions:
     startups:
       - dora
   - start: 2022-09-01
-    end: 2025-08-31
+    end: 2027-04-30
     status: admin
     employer: gip-inclusion
     startups:
       - dora
   - start: 2025-02-01
-    end: 2025-08-31
+    end: 2027-04-30
     status: admin
     employer: gip-inclusion
     startups:

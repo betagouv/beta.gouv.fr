@@ -4,7 +4,7 @@ fullname: Benjamin KIEGER
 role: Déploiement
 missions:
   - start: 2024-07-02
-    end: 2025-08-31
+    end: 2026-01-30
     status: independent
     employer: /ut7
     startups:

@@ -10,7 +10,7 @@ competences:
   - Machine learning
 missions:
   - start: 2025-06-10
-    end: 2025-08-31
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:

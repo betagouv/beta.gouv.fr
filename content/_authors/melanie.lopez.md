@@ -4,7 +4,7 @@ fullname: Mélanie LOPEZ
 role: Équipe studio support
 missions:
   - start: 2024-05-02
-    end: 2025-08-31
+    end: 2025-12-31
     status: independent
     employer: DINUM
     startups:

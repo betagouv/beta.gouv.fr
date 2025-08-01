@@ -10,8 +10,19 @@ missions:
     status: service
     employer: La Zone - Scopyleft
     startups:
-      - icare-complements-alimentaires
       - ma-cantine-egalim
+  - start: 2024-10-01
+    end: 2024-12-20
+    status: independent
+    employer: Malt
+    startups:
+      - icare-complements-alimentaires
+  - start: 2025-08-01
+    end: 2025-11-01
+    status: service
+    employer: Malt
+    startups:
+      - rapportnav
 memberType: beta
 competences: []
 ---
