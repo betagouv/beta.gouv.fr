@@ -12,13 +12,13 @@ missions:
     startups:
       - les-emplois
   - start: 2023-10-23
-    end: 2025-06-30
+    end: 2025-07-31
     status: independent
     employer: Malt
     startups:
       - dora
   - start: 2024-08-15
-    end: 2025-08-31
+    end: 2025-12-31
     status: independent
     employer: Solstice
     startups:

@@ -3,6 +3,7 @@ title: Orion
 mission: Contribuer à la transformation de la carte des formations des lycées professionnels
 sponsors:
   - /organisations/dgesco
+  - /organisations/menjs
 incubator: dinum
 phases:
   - name: investigation
@@ -22,12 +23,16 @@ usertypes:
   - etat
   - collectivite-territoriale
 dashlord_url: https://dashlord.incubateur.net/url/orion-inserjeunes-beta-gouv-fr/
-link: https://orion.inserjeunes.beta.gouv.fr/
+link: https://orion.education.gouv.fr/
 thematiques:
   - Formation
   - Jeunesse
   - Travail / Emploi
-techno: []
+techno:
+  - react
+  - NodeJS
+  - Fastify
+  - docker
 accessibility_status: partiellement conforme
 events:
   - name: product_launch
