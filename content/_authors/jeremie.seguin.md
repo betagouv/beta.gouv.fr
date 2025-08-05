@@ -5,8 +5,9 @@ domaine: Déploiement
 github: JeremieSeguin
 missions:
   - start: 2022-12-01
-    end: 2025-08-31
+    end: 2025-10-31
     status: independent
+    employer: Telescoop
     startups:
       - mon-diagnostic-artificialisation
 memberType: beta

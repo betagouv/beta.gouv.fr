@@ -5,7 +5,7 @@ role: Coach
 github: AymericRlt
 missions:
   - start: 2021-01-04
-    end: 2025-06-30
+    end: 2025-10-30
     status: service
     employer: Numa
     startups:
@@ -23,7 +23,7 @@ missions:
       - acces-cible
       - medistock
   - start: 2024-12-02
-    end: 2025-09-30
+    end: 2026-01-30
     status: independent
     employer: Malt Octo
     startups:

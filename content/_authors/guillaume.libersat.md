@@ -5,9 +5,9 @@ link: http://sigill.org
 github: glibersat
 missions:
   - start: 2021-05-10
-    end: 2025-08-31
+    end: 2026-01-28
     status: independent
-    employer: Little Big Connexion
+    employer: Malt
     startups:
       - recommandations-collaboratives
       - urbanvitaliz
