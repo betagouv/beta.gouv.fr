@@ -22,11 +22,12 @@ missions:
       - monpsy
       - tdb-apprentissage
   - start: 2025-06-02
-    end: 2025-10-01
+    end: 2025-10-31
     status: independent
     employer: Fabnum
     startups:
       - codedutravail
+      - monsuivipsy
 incubator: sgmas
 competences:
   - Développement Frontend

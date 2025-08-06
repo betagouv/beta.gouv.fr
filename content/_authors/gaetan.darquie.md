@@ -6,7 +6,7 @@ link: https://www.shinsen.fr
 github: gdarquie
 missions:
   - start: 2023-07-03
-    end: 2025-09-01
+    end: 2025-12-31
     status: independent
     employer: DINUM
     startups:

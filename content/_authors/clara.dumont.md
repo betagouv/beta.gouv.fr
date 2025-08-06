@@ -5,7 +5,7 @@ domaine: Produit
 link: https://www.linkedin.com/in/clara-dumont-964894121/
 missions:
   - start: 2021-03-29
-    end: 2025-12-31
+    end: 2026-01-31
     status: independent
     employer: Malt
     startups:
@@ -14,4 +14,3 @@ previously:
   - dossierfacile
 competences: []
 ---
-Entrepreneure, photographe, engagée dans les enjeux de l'ESS et les questions d'innovation sociale, je n'ai qu'une tête mais de multiples casquettes !

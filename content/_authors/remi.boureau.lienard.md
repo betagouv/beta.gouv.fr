@@ -16,7 +16,7 @@ competences:
   - Administration Système
 missions:
   - start: 2024-09-16
-    end: 2025-08-31
+    end: 2027-08-31
     status: admin
     employer: Conseil Supérieur de la Magistrature
     startups:

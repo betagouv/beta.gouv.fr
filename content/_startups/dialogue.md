@@ -15,6 +15,8 @@ phases:
     end: 2022-10-18
   - name: construction
     start: 2022-10-18
+  - name: acceleration
+    start: 2025-01-01
 thematiques:
   - Transports
   - Open-Data
