@@ -18,7 +18,7 @@ missions:
     startups:
       - aldo
   - start: 2023-06-12
-    end: 2025-07-31
+    end: 2026-01-28
     status: independent
     employer: Numa
     startups:

@@ -1,7 +1,7 @@
 ---
 fullname: Matti Schneider
 role: Directeur produit et collaboration
-domaine: Autre
+domaine: Produit
 github: MattiSG
 avatar: https://gravatar.com/avatar/81ee62724136cc42065a0af37aa0edc1.jpg?s=512
 link: https://mattischneider.fr
@@ -43,7 +43,7 @@ missions:
     startups:
       - disinfo
   - start: 2021-10-25
-    end: 2025-09-01
+    end: 2025-12-31
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
     startups:

@@ -12,11 +12,17 @@ missions:
     startups:
       - sndv_maritime
   - start: 2024-11-27
-    end: 2025-09-04
+    end: 2025-10-17
     status: independent
     employer: Scopyleft
     startups:
       - ma-cantine-egalim
+  - start: 2025-08-01
+    end: 2026-01-01
+    status: independent
+    employer: Little Big Connection
+    startups:
+      - resultats-elections-fpt
 competences:
   - Développement Frontend
   - JavaScript/TypeScript

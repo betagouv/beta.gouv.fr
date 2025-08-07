@@ -5,11 +5,11 @@ role: Recherche UX
 github: caroline-lawson
 missions:
   - start: 2021-01-26
-    end: 2025-08-31
+    end: 2025-12-31
     status: independent
     employer: /UT7
     startups:
-      - notifications-v2
+      - ami
 competences:
   - UX
 previously:

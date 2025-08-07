@@ -36,6 +36,10 @@ events:
   - name: committee
     date: 2024-07-04
     comment: Comité final TechMIUp
+  - name: committee
+    date: 2024-11-27
+  - name: committee
+    date: 2025-06-02
 link: ''
 ---
 ## Contexte
@@ -52,4 +56,4 @@ Outil fondé sur l'IA générative, JuriGPT est solution fondée sur l’intelli
 
 ## Stratégie
 
-L'initiative JuriGPT est fondée sur une démarche de start-up d’État. Une démarche d'investigation et d'écoute auprès des utilisateurs cibles a confirmé l'hypothèse initiale (02/24-04/24). Un premier PoC a été élaboré (04/24-07/24) et l'utilité de la solution a été validée. L'objectif de l'équipe JuriGPT est aujourd'hui d'aboutir à un MVP en décembre 2024, avec des perspectives de passage à l'échelle courant 2025 pour une population totale de 500 agents répartis en CERT-CIV, missions de proximité et administration centrale (MI-DSR).
+L'initiative JuriGPT est fondée sur une démarche de start-up d’État. Une démarche d'investigation et d'écoute auprès des utilisateurs cibles a confirmé l'hypothèse initiale (02/24-04/24). Un premier PoC a été élaboré (04/24-07/24) et l'utilité de la solution a été validée. L'objectif de l'équipe JuriGPT est aujourd'hui d'aboutir à un MVP (cycles de tests fin 2024 et juin-juillet 2025), avec des perspectives de passage à l'échelle courant 2025 pour une population totale de 500 agents répartis en CERT-CIV, missions de proximité et administration centrale (MI-DSR).
