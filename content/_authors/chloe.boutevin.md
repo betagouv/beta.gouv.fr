@@ -10,7 +10,7 @@ missions:
     startups:
       - manifnationales
   - start: 2024-07-01
-    end: 2025-10-30
+    end: 2025-12-30
     status: independent
     employer: Ministère de l'Intérieur
     startups:
@@ -21,6 +21,12 @@ missions:
     employer: Ministère de l'Intérieur
     startups:
       - data.etat
+  - start: 2025-07-01
+    end: 2025-11-01
+    status: independent
+    employer: La Ruche Numérique
+    startups:
+      - transparence-prix
 memberType: beta
 competences: []
 ---

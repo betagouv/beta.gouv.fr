@@ -11,7 +11,7 @@ missions:
     startups:
       - simone-and-co
   - start: 2021-12-01
-    end: 2025-08-01
+    end: 2026-01-30
     status: independent
     employer: Pathtech
     startups:

@@ -10,6 +10,12 @@ missions:
     employer: TelesCoop
     startups:
       - data-subvention
+  - start: 2025-08-07
+    end: 2025-11-07
+    status: service
+    employer: TelesCoop
+    startups:
+      - recommandations-collaboratives
 badges:
   - segur
 competences: []

@@ -20,4 +20,3 @@ previously:
   - openfisca
 competences: []
 ---
-Data and Python lover

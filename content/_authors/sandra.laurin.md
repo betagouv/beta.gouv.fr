@@ -6,8 +6,8 @@ link: https://www.linkedin.com/in/sandralaurin/
 competences:
   - Product design
 missions:
-  - start: 2025-04-07
-    end: 2025-07-31
+  - start: 2025-07-30
+    end: 2026-01-30
     status: independent
     employer: Scopyleft
     startups:

@@ -6,7 +6,7 @@ github: patrick-produit
 link: https://www.linkedin.com/in/plambret/
 missions:
   - start: 2021-04-22
-    end: 2025-08-31
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:
@@ -22,5 +22,6 @@ competences:
   - Gestion de Produit
   - Coaching
   - Product strategy
+  - Facilitation
 ---
 J'aide les équipes à avoir un maximum d'impact en un minimum d'effort
