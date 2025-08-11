@@ -6,8 +6,6 @@ competences: []
 missions:
   - start: 2025-07-29
     end: 2025-12-29
-    employer: MIOM
     status: admin
-    startups: []
-teams: []
+    employer: MIOM
 ---

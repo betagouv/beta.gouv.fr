@@ -1,6 +1,6 @@
 ---
 fullname: Léo Mora
-role: Tech Lead / Lead Dev / Architecte Logiciel
+role: Tech Lead / Architecte Logiciel
 domaine: Développement
 link: https://github.com/Yoshiin
 github: yoshiin
@@ -16,6 +16,7 @@ missions:
       - octopus
       - oscars
       - osirispn
+      - projet-neo
       - rapace
       - stargate
       - tchap

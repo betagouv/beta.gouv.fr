@@ -14,13 +14,11 @@ sponsors:
   - /organisations/direction-generale-des-etrangers-en-france
 phases:
   - name: investigation
-    comment: null
     start: 2025-07-31
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-07-31
+link: ''
 ---
 **Le texte ci-dessous est un placeholder brouillon généré par IA. Les intrapreneurs vont mettre à jour la fiche rapidement.**
 
