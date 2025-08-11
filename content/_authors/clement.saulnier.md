@@ -9,7 +9,7 @@ competences:
   - Product design
 missions:
   - start: 2025-05-05
-    end: 2025-09-05
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:

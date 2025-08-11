@@ -18,16 +18,11 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2025-07-29
-    end: null
   - name: construction
-    comment: null
     start: 2025-07-29
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-07-29
 ---
 Le texte ci-dessous est un placeholder brouillon généré par IA. L'équipe de l'incubateur en charge du produit s'engage à mettre à jour la fiche rapidement selon les standards du numérique de l'Etat. 

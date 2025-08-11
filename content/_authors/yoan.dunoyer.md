@@ -8,6 +8,12 @@ missions:
     end: 2026-01-30
     status: admin
     employer: Ministère de la Justice
+  - start: 2025-08-05
+    end: 2025-12-31
+    status: admin
+    employer: Incubateurs
+    startups:
+      - mon-suivi-justice
 teams:
   - /teams/justice
 badges:

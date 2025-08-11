@@ -12,7 +12,7 @@ competences:
   - Slack
 missions:
   - start: 2025-02-20
-    end: 2025-09-03
+    end: 2025-12-31
     status: independent
     employer: Pathtech
     startups:
