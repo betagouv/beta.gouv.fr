@@ -4,7 +4,7 @@ role: Développeuse
 domaine: Développement
 missions:
   - start: 2021-01-10
-    end: 2025-11-27
+    end: 2026-01-27
     status: service
     employer: TelesCoop
     startups:
