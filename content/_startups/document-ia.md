@@ -17,16 +17,14 @@ sponsors:
   - /organisations/mtes
 phases:
   - name: construction
-    comment: null
     start: 2025-07-31
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-07-31
   - name: other
-    comment: Financement FTAP IA
     date: 2025-07-31
+    comment: Financement FTAP IA
+link: ''
 ---
 Dans **les dossiers de rénovation énergétique des bâtiments** comme dans les dossiers **de logements locatifs**, la performance des politiques publiques est freinée par un même obstacle structurel : la non-conformité des pièces justificatives qui génère des aller-retours entre le bénéficiaire et l'administration.
 

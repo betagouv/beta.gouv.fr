@@ -9,10 +9,9 @@ competences:
 missions:
   - start: 2025-08-01
     end: 2025-12-31
-    employer: LBC
     status: independent
+    employer: LBC
     startups:
       - mistral-penal
-teams: []
 ---
 Développeur full-stack avec supplément accessibilité, engagé pour l'intérêt général, et fan de vélo.

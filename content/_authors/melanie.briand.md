@@ -16,7 +16,7 @@ missions:
     startups:
       - 1-jeune-1-arbre
   - start: 2024-11-12
-    end: 2025-07-01
+    end: 2025-11-28
     status: service
     employer: NUMA
     startups:
@@ -27,6 +27,13 @@ missions:
     employer: NUMA
     startups:
       - plusfraichemaville
+  - start: 2025-06-23
+    end: 2025-12-23
+    status: service
+    employer: NUMA
+    startups:
+      - monitorfish
+      - rapportnav
 memberType: beta
 link: https://www.linkedin.com/in/m%C3%A9laniebriand/
 competences:

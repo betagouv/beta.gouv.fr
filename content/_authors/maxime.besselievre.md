@@ -10,10 +10,9 @@ competences:
 missions:
   - start: 2023-10-01
     end: 2025-12-29
-    employer: MIOM
     status: admin
+    employer: MIOM
     startups:
       - reponse
-teams: []
 ---
 Attaché de l'administration de l’État au MI, compétent en conduite de projet.

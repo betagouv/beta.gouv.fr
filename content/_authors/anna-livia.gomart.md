@@ -10,11 +10,17 @@ missions:
     end: 2021-03-12
     status: independent
     employer: octo
+    startups:
+      - aidantsconnect
+      - api.gouv.fr
+      - api-particulier
+      - openfisca
   - start: 2021-03-15
     end: 2027-03-14
     status: admin
     employer: dinum
     startups:
+      - ami
       - droit-data-gouv-fr-simulateurs-de-droits
       - grist.numerique.gouv.fr
       - notifications-v2

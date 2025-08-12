@@ -5,6 +5,12 @@ domaine: Design
 github: supersuperflux
 missions:
   - start: 2022-09-19
+    end: 2023-01-06
+    status: independent
+    employer: Inops
+    startups:
+      - mon-entreprise
+  - start: 2023-01-09
     end: 2025-09-30
     status: independent
     employer: ADEME
@@ -25,4 +31,4 @@ teams:
   - /teams/ademe
 link: https://www.linkedin.com/in/lauradussier-design/
 ---
-Designeuse & dessinatrice, j’accompagne des entreprises, associations et startups du service public vers une des expériences usagers ou collaborateurices accessibles et pleines de panache. 
+Designeuse et dessinatrice, j’accompagne des entreprises, des associations et des startups du service public dans la conception d'expériences web et mobiles utilisables, accessibles et pleines de panache.

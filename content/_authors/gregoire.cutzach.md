@@ -4,7 +4,7 @@ fullname: Grégoire Cutzach
 role: Développement
 missions:
   - start: 2024-05-01
-    end: 2025-09-01
+    end: 2025-12-31
     status: independent
     employer: ut7
     startups:

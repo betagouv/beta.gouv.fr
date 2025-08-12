@@ -9,18 +9,16 @@ usertypes:
 techno: []
 title: Réponse +
 mission: Informer et orienter les étrangers sur leur situation administratives et leur démarches
-incubator: fabnumdef
+incubator: FabNum-MI
 sponsors:
   - /organisations/direction-generale-des-etrangers-en-france
 phases:
   - name: investigation
-    comment: null
     start: 2025-07-31
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-07-31
+link: ''
 ---
 **Le texte ci-dessous est un placeholder brouillon généré par IA. Les intrapreneurs vont mettre à jour la fiche rapidement.**
 

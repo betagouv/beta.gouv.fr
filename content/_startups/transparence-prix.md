@@ -5,16 +5,13 @@ contact: chloe.boutevin@beta.gouv.fr
 title: Transparence prix
 mission: Garantir une meilleure transparence des prix dans la filière des fruits et légumes pour les professionnels et le grand public
 incubator: agriculture
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-07-01
-    end: null
 events:
   - name: other
-    comment: ''
     date: 2025-08-08
+link: ''
 ---
 
 
