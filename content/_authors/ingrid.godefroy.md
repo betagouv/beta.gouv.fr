@@ -27,6 +27,12 @@ missions:
     employer: Malt
     startups:
       - qualicharge
+  - start: 2025-08-11
+    end: 2025-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - nomad
 link: https://www.linkedin.com/in/ingridgodefroy/
 competences:
   - Croissance
