@@ -13,9 +13,9 @@ missions:
       - visam
       - zam
   - start: 2022-06-01
-    end: 2025-08-31
+    end: 2025-11-30
     status: independent
-    employer: Scopyleft
+    employer: Omnicité
     startups:
       - données-et-territoires
 competences:

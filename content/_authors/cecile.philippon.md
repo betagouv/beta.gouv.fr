@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-08-11
     end: 2025-11-11
-    employer: ut7
     status: service
+    employer: ut7
     startups:
       - ami
-teams: []
 ---
