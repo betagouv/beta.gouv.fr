@@ -13,7 +13,7 @@ competences:
   - Accessibilité
 missions:
   - start: 2024-10-22
-    end: 2025-09-30
+    end: 2026-01-30
     status: independent
     employer: Numa
     startups:
