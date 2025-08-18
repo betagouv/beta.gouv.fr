@@ -17,7 +17,7 @@ missions:
     status: independent
     employer: Scopyleft
   - start: 2024-12-02
-    end: 2025-09-15
+    end: 2026-02-15
     status: independent
     employer: /ut7
     startups:

@@ -6,9 +6,9 @@ link: https://www.linkedin.com/in/albanfournierecobalyse/
 avatar: /img/authors/alban.fournier.jpg
 missions:
   - start: 2022-06-01
-    end: 2025-09-01
+    end: 2026-01-01
     status: independent
-    employer: Little Big Connection
+    employer: Pathtech
     startups:
       - ecobalyse
 badges:
