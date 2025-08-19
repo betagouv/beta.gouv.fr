@@ -6,7 +6,7 @@ github: marc-gavanier
 link: https://www.linkedin.com/in/marc-gavanier
 missions:
   - start: 2021-09-15
-    end: 2025-09-16
+    end: 2026-01-31
     status: independent
     employer: Octo
     startups:
@@ -20,6 +20,10 @@ competences:
   - Développement Backend
   - UI
   - Administration Système
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - Docker
+  - DevOps
 previously:
   - france-numerique-ensemble
 ---

@@ -15,5 +15,5 @@ missions:
     startups:
       - archeolog-ia
 ---
-Ingénieur de recherche, docteur en archéologie, je suis spécialisé dans l'étude des dynamiques d’occupations des sites archéologiques dans leur environnement et l'utilisation des méthodes de l'archéologie numérique. Au quotidien j'assure des missions de coordination de l’activité archéologique, de prescription et de contrôle scientifique.
+Ingénieur de recherche, docteur en archéologie, je suis spécialisé dans l'étude des dynamiques d’occupations des sites archéologiques dans leur environnement et l'utilisation des méthodes de l'archéologie numérique. Au quotidien j'assure des missions de coordination de l’activité archéologique, de recherche et de contrôle scientifique.
 https://cv.hal.science/jonhattan-vidal 

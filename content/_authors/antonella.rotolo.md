@@ -4,7 +4,7 @@ role: Intrapreneure
 domaine: Intraprenariat
 missions:
   - start: 2022-09-01
-    end: 2025-08-31
+    end: 2025-11-19
     status: admin
     startups:
       - pop

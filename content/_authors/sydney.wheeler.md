@@ -1,6 +1,6 @@
 ---
 fullname: Sydney Wheeler
-role: Chargée de déploiement
+role: Chargée de déploiement | Data.Subvention | Open Terms Archive
 domaine: Déploiement
 missions:
   - start: 2023-01-30

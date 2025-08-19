@@ -5,7 +5,7 @@ domaine: Développement
 github: emilschn
 missions:
   - start: 2022-07-11
-    end: 2025-09-15
+    end: 2025-12-15
     status: independent
     employer: Scopyleft
     startups:
