@@ -5,7 +5,7 @@ domaine: Design
 link: https://www.linkedin.com/in/asifrisvan/
 missions:
   - start: 2023-06-22
-    end: 2025-09-05
+    end: 2025-12-31
     status: independent
     startups:
       - pilotagevoiepro

@@ -7,11 +7,11 @@ missions:
   - start: 2017-05-03
     end: 2022-06-30
     status: service
-    employer: octo
+    employer: OCTO Technology
   - start: 2022-11-01
-    end: 2025-09-01
+    end: 2026-02-14
     status: service
-    employer: octo
+    employer: OCTO Technology
 previously:
   - l-application-du-cej
   - acceslibre

@@ -7,7 +7,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2024-09-17
-    end: 2025-09-17
+    end: 2027-09-17
     status: admin
     employer: Conseil Supérieur de la Magistrature
     startups:

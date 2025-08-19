@@ -2,7 +2,7 @@
 fullname: Vincent Porte
 role: Developpeur
 domaine: Développement
-link: https://www.swiloh.com
+link: https://fr.linkedin.com/in/vincentporte
 github: vincentporte
 missions:
   - start: 2022-01-17

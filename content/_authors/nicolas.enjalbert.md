@@ -6,16 +6,14 @@ github: nenj
 link: https://www.linkedin.com/in/nicolas-enjalbert/
 missions:
   - start: 2021-04-08
-    end: 2024-08-31
+    end: 2025-08-31
     status: independent
     employer: Malt
     startups:
       - data-inclusion
-      - envergo
-      - guichet-unique-de-la-haie-envergo-agricole
       - rdv.insertion
   - start: 2024-09-01
-    end: 2025-09-01
+    end: 2026-08-31
     status: admin
     employer: DINUM
     startups:

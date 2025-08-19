@@ -1,7 +1,7 @@
 ---
 fullname: Kivilcim Nazli
-role: 'Opérateur de validation '
-domaine: Autre
+role: Opérateur de validation  / Chargé de support
+domaine: Support
 link: https://www.linkedin.com/in/kivilcim-nazli-986303128/
 competences:
   - Communication

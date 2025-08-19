@@ -35,6 +35,8 @@ phases:
     start: 2022-11-17
   - name: acceleration
     start: 2024-01-18
+  - name: transfer
+    start: 2025-06-24
 usertypes:
   - etat
 stats_url: https://romin.beta.gouv.fr/stats
@@ -59,27 +61,31 @@ Cette implémentation exige pour les professionnel.les de pouvoir visualiser la 
 
 **Afin de conforter les agents quant à l’efficacité de leurs interventions et valoriser leur engagement, ROMIN partage les solutions d'intervention de la communauté des professionnel.les en SPIP.**
 
-## Solution en construction/accélération
+## Solution en cours de pérennisation
 
 En pratique : je suis conseiller pénitentiaire d’insertion et de probation (CPIP), j’évalue le profil de la personne condamnée que j’accompagne puis nous définissons ensemble un plan d’accompagnement. 
 
 Quels outils vais-je utiliser pour chacun des facteurs de risque à travailler ? 
 Je consulte ROMIN 💻 ! 1 seul critère à renseigner : le facteur de risque de récidive. 
 
-J’accède à l’ensemble des outils d’intervention répertoriés. Je consulte la fiche-outil, je prends connaissance du temps nécessaire à la mise en œuvre, du mode d’emploi et je télécharge les supports nécessaires.
-Afin de garantir la captation du bon outil, ROMIN me guide dans les phases amont à l'intervention par l'aide en ligne à la planification de l'accompagnement et, sous peu, à l'exploration du profil de risque de récidive.
+J’accède à l’ensemble des outils d’intervention répertoriés, qu'ils soient mobilisables en entretien individuel, en action collective ou même les deux. Je consulte la fiche-outil, je prends connaissance du temps nécessaire à la mise en œuvre, du mode d’emploi et je télécharge les supports nécessaires.
+Pour accéder au bon outil, ROMIN me guide dans les phases amont à l'intervention par l'aide à l'évaluation du risque de récidive puis la planification de l'accompagnement.
 
 ROMIN s’intègre à l’environnement professionnel des agents et constitue un équipement supplémentaire de soutien technique, en coordination avec les solutions existantes.
 
 La communauté professionnelle échange et parfait les outils et fonctionnalités partagés.
-La documentation méthodologique, accessible en permanence, offre une prise de recul aux professionnel·les garantissant un effet maximisé de l'accompagnement structuré de la personne condamnée.
+La documentation méthodologique, accessible en permanence, offre une prise de recul aux professionnel·les garantissant un effet maximisé pour l'accompagnement de la personne condamnée.
+
+A l'horizon de l'été 2026, l'administration de la solution ROMIN sera confiée aux professionnel.les de la sous-direction Insertion-Probation de la DAP. La Startup d'Etat œuvre actuellement au transfert des données et savoir-faire garantissant le succès du produit et la satisfaction des professionnel.les utilisateur.ices.
 
 ## Prochaines étapes
 
-**ROMIN est en ligne et accessible aux premiers utilisateurs depuis avril 2023**. Leurs retours permettent des ajustements et le développement de nouvelles fonctionnalités adaptées à leurs besoins de terrain comme celui de profiter de retours d’expérience ainsi que de la mise en lien avec des collaborateurs à même de développer leurs savoir-faire.
+**ROMIN est en ligne et accessible aux premiers utilisateurs depuis avril 2023**. Leurs retours permettent des ajustements et le développement de nouvelles fonctionnalités adaptées à leurs besoins de terrain comme celui de profiter de retours d’expérience ainsi que de la mise en lien avec des collaborateur.ices à même de développer leurs savoir-faire.
 
-ROMIN donne accès à plus de 70 outils ciblés et ce volume continue de grandir en permanence. Au-delà des outils mobilisables en entretien individuel, il donne accès aux différents programmes connus et valorise les supports dont l’impact positif a été démontré. 
+ROMIN donne accès à plus de 80 outils ciblés et ce volume continue de grandir en permanence.
 
-ROMIN couvrant plus de 70% du territoire national, le déploiement de la solution numérique mobilise de plus en plus nos meilleurs ambassadeurs sur le terrain, en directions interrégionales et au sein de l'administration centrale.
+ROMIN couvrant plus de 75% du territoire national, le déploiement de la solution numérique mobilise de plus en plus nos meilleurs ambassadeurs sur le terrain, en directions interrégionales et au sein de l'administration centrale.
 
-**L’impact de ROMIN se mesure via les données statistiques de consultation auxquelles sont combinées les retours qualitatifs de nos utilisateurs**. Au-delà, les professionnel·les chargé·es du soutien technique (directeur·ice pénitentiaire d’insertion et de probation, psychologues en SPIP et unités de soutien métier) contribuent à mesurer notre participation globale à l’application du modèle efficace à la prévention de la récidive.
+**L’impact de ROMIN se mesure via les données statistiques de consultation auxquelles sont combinées les retours qualitatifs de nos utilisateur.ices consulté.es à échéance régulière**. 
+
+Tout en poursuivant la distribution de ROMIN auprès des derniers services pénitentiaires d'insertion et de probation, l'équipe ROMIN organise le transfert de l'administration du produit en mobilisant les diverses parties prenantes autour des enjeux produit (technique), humains (ressources humaines, gouvernance), documentaires et financier. L'ambition est claire : maximiser l'impact de ROMIN, dans la durée, dans l'intérêt du service public pénitentiaire.
