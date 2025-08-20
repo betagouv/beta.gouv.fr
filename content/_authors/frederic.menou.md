@@ -6,7 +6,7 @@ link: https://frederic.menou.me
 github: ptitfred
 missions:
   - start: 2024-03-18
-    end: 2025-09-18
+    end: 2026-02-20
     status: independent
     employer: Pathtech
     startups:

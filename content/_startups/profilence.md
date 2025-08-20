@@ -19,54 +19,69 @@ events:
     date: 2025-01-22
   - name: committee
     date: 2025-05-12
-    comment: de fin d'investigation // ✅ GO pour l'expérimentation
-usertypes: []
+    comment: 'de fin d''investigation // ✅ GO pour l''expérimentation '
+usertypes:
+  - entreprise
 techno: []
 link: ''
 ---
+## Contexte 🔎  
+**Profilence** est une solution nationale, simple et collaborative, qui optimise la **promotion des profils des demandeurs d’emploi** pour favoriser leur insertion professionnelle.  
 
-## Contexte 🔎
+Elle propose une pratique **harmonisée à l’échelle du réseau France Travail et du Réseau pour l’Emploi (RPE)**, afin de faciliter l’accès au **marché caché de l’emploi** (environ 70 % des opportunités).  
 
-**Profilence** est une solution nationale, simple et collaborative qui **optimise la promotion des profils des demandeurs d'emploi afin de favoriser leur insertion professionnelle.** Elle repose sur une pratique harmonisée à l’échelle du réseau France Travail, en réponse au besoin d’**accéder efficacement au marché caché de l’emploi**, qui représente environ **70 % des opportunités**.
+---
+## Problème 🚨  
+Aujourd’hui, **1,9 million** de demandeurs d’emploi ont autorisé la promotion de leur profil, permettant à leur conseiller de transmettre leur CV à une entreprise même sans offre publiée.  
+👉 Pourtant, seuls **45 000 profils** ont été promus au moins une fois, soit **2 % des profils autorisés** et seulement **0,8 % des inscrits**.  
 
-## Problème 🚨
+Ce faible volume révèle plusieurs freins :  
+- 🧩 **Outils éclatés et complexes** : 3 logiciels à mobiliser, sans interconnexion.  
+- 📉 **Pas de traçabilité ni de mesure** : impossible de suivre les promotions ou d’en évaluer l’impact.  
+- 🗂️ **Pratiques locales non uniformisées** : tableaux blancs, pochettes, bacs à profils… utiles mais isolés et sans vision partagée.  
 
-Aujourd’hui, **1 900 000 demandeurs d’emploi** ont autorisé la promotion de leur profil, permettant à leur conseiller de transmettre leur CV à une entreprise sans qu’une offre ne soit publiée. Pourtant, seulement **45 000 profils ont été promus** au moins une fois, soit **à peine 2 % des profils autorisés**, et **0,8 % de l’ensemble des inscrits**.
-❌ Ce décalage met en évidence plusieurs freins :
-* 🧩 **Outils fragmentés et complexes** : Trois logiciels à mobiliser, sans interconnexion.
-* 📉 **Manque de traçabilité et de mesure** : Impossible de suivre les promotions ou d’en évaluer l’impact.
-* 🗂️ **Pratiques locales non uniformisées** : Tableaux blancs, bacs à profils papier… utiles mais isolés.
+---
 
+## Objectifs 🎯  
+- 🔄 **Centraliser** et harmoniser la promotion de profil.  
+- ⏱️ **Simplifier** le parcours pour réduire le temps de traitement.  
+- 📊 **Donner de la visibilité** : suivi structuré des profils transmis.  
+- 🚀 **Renforcer l’efficacité** de la mise en relation avec les entreprises.  
 
-## Objectifs 🎯
+---
 
-* 🔄 **Structurer et centraliser la promotion de profil.**
-* ⏱️ **Réduire le temps de traitement pour les conseillers**.
-* 📊 **Améliorer le suivi des profils** transmis aux employeurs.
-* 🎯 Renforcer l’**efficacité de la mise en relation** avec les entreprises.
+## Enseignements de la phase d’investigation 🧠  
+Les entretiens avec des conseillers France Travail ont mis en évidence :  
+- 🧱 Un processus trop long : jusqu’à **45 étapes**, ressaisies et pertes d’infos.  
+- 🧭 Une attente forte d’un **outil unique et centralisé**.  
+- 👀 Un **manque de suivi structuré** : pas de visibilité sur les promotions ni leur statut.  
+- 🤷 Peu de retours sur l’impact : difficile de savoir si une promotion aboutit à un contact ou une embauche.  
+- 🛠️ Des pratiques bricolées mais révélatrices (tableaux, bacs papier…), preuve de l’envie d’agir mais sans cadre commun.  
 
-## Enseignements de la phase d’investigation 🧠 
+---
 
-Des entretiens menés avec des conseillers France Travail ont permis de faire émerger des constats clés :
+## Bilan de l’expérimentation (phase de pré-construction) 🧪  
+L’expérimentation a été menée dans **3 agences France Travail pilotes** ainsi qu’en **Mission Locale** (partenaire du RPE) avec uniquement un formulaire et un tableau excel partagé.
 
-* 🧱 **Un processus trop long et dispersé** : Jusqu’à 45 étapes ! Des ressaisies, des pertes d’infos, une grande complexité.
-* 🧭 **Un besoin fort de centralisation** : Un outil unique est attendu pour gagner en fluidité et en efficacité.
-* 👀 **Un manque de suivi structuré** : Pas de visibilité sur les promotions faites, ni sur leur statut.
-* 🤷 **Peu de retours sur l’impact** : Difficile de savoir si une promotion aboutit à un contact ou une embauche.
-* 🛠️ **Des pratiques bricolées mais inspirantes** : Des systèmes D (tableaux, pochettes, bacs…) montrent l’envie d’agir… mais restent limités.
+### ✅ Points positifs  
+- **Adoption rapide et massive** des conseillers : jusqu’à 78 % d’utilisateurs (67 % actifs en Mission Locale).  
+- **Un volume de promotions supérieur aux pratiques habituelles** : 113 promotions réalisées, soit **+136 % vs agences témoins**.  
+- **Un impact concret sur la relation entreprises** : 8 recrutements, 6 profils conservés, et **40 % de retours employeurs** (45/113), avec un délai moyen de 12 jours.  
 
-##  Protocole d'expérimentation envisagé 🚀
+### ⚠️ Points à améliorer  
+- **Obtenir plus de retours employeurs** : 60 à 80 % des promotions restent sans réponse.  
+- **Mieux transformer les promotions en recrutements** : taux de conversion de 6,5 % (recrutements seuls) à 11,2 % (recrutements + conservés), avec une forte variabilité entre agences (3 à 11 %).  
+- **Améliorer la qualité et le ciblage du vivier** : 54 % des profils du vivier promus, avec un profil favorable identifié (<35 ans, permis B, CV <3 mois, entretien récent, métiers en tension).  
 
-Profilence ambitionne de transformer la promotion de profil en une pratique facilitante pour tous, dont le protocole d'expérimentation envisagé repose sur 4 piliers :
+---
 
-*  🧾**Simple**: Formulaire unique.
-* 📍  **Structurée**: Un tableau de bord clair pour suivre les actions.
-* 🤝 **Collaborative**: Processus partagé entre conseillers qui accompagnent les demandeurs d'emploi et conseillers en charge de la relation avec les entreprises.
-* 🧪 **Expérimentale et agile** : Testée dans trois agences pilotes avec cette procédure simplifiée (Formulaire + tableau partagé).
+## Conclusion ✨  
+L’expérimentation confirme la pertinence de **Profilence** :  
+- La solution est **simple à prendre en main**,  
+- Elle **génère beaucoup plus de promotions** qu’actuellement,  
+- Et elle produit déjà **des résultats concrets** en termes de retours employeurs et de recrutements.  
 
+L’implication d’une **Mission Locale** démontre également la capacité de Profilence à être **interopérable au sein du Réseau pour l’Emploi**.  
 
-## Conclusion
-
-Les enseignements de l’investigation confirment la pertinence de Profilence : un outil co-construit avec les conseillers, qui répond à leurs irritants quotidiens, tout en valorisant les profils des demandeurs d’emploi. 
-
-### L’aventure ne fait que commencer… et elle s’écrit avec le terrain.
+👉 Les priorités pour la suite : améliorer le taux de retour employeur, renforcer la conversion en recrutements et affiner le ciblage du vivier.  
+Ces enseignements guideront la **phase de construction**, prévue à partir de septembre 2025. 
