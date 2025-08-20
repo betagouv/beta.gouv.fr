@@ -15,6 +15,18 @@ missions:
     employer: FairnessCoop
     startups:
       - vigieau
+  - start: 2025-08-20
+    end: 2026-02-20
+    status: independent
+    employer: Malt
+    startups:
+      - vert.impact
+  - start: 2025-08-20
+    end: 2026-02-20
+    status: independent
+    employer: Malt
+    startups:
+      - vert.impact
 memberType: beta
 competences: []
 ---
