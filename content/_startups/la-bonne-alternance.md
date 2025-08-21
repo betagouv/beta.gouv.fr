@@ -45,6 +45,7 @@ techno:
   - next.js
 impact_url: https://labonnealternance.apprentissage.beta.gouv.fr/statistiques
 analyse_risques: true
+budget_url: https://grist.numerique.gouv.fr/o/docs/h7xXmXegXiZB/Budget-La-bonne-alternance
 ---
 **La bonne alternance a été initiée au sein de l'incubateur de Pôle Emploi, puis incubée au sein de la Mission interministérielle pour l’apprentissage de 2020 à 2024 et est désormais éditée par la Délégation générale à l’emploi et à la formation professionnelle (DGEFP)**
 
