@@ -1,6 +1,6 @@
 ---
 fullname: Delphine Raymond
-domaine: Coaching
+domaine: Produit
 role: Coach Produit et Product Manager
 github: delphineray
 link: https://www.linkedin.com/in/delphineraymond/
@@ -19,7 +19,7 @@ missions:
     startups:
       - longuevieauxobjets
   - start: 2025-01-01
-    end: 2025-05-31
+    end: 2025-12-30
     status: independent
     employer: Dynergie
     startups:
