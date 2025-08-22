@@ -1,7 +1,7 @@
 ---
 fullname: Charlotte Lecuit
 domaine: Produit
-role: bizdev
+role: bizdev-produit
 github: charlottelecuit
 missions:
   - start: 2018-05-14
@@ -32,6 +32,12 @@ missions:
     employer: Malt
     startups:
       - monprojetsup
+  - start: 2025-09-01
+    end: 2026-02-02
+    status: independent
+    employer: UT7
+    startups:
+      - donnees-spectacle
 competences:
   - Gestion de Produit
   - Croissance
