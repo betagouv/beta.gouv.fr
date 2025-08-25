@@ -7,7 +7,7 @@ competences:
   - Droit / Affaires juridiques
 missions:
   - start: 2025-04-07
-    end: 2025-09-07
+    end: 2026-02-02
     status: independent
     employer: Opteamis
     startups:

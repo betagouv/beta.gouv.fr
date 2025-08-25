@@ -7,7 +7,7 @@ avatar: /img/authors/johnlabuzan.jpeg
 link: https://academie-en-ligne.fr
 missions:
   - start: 2022-11-20
-    end: 2025-09-24
+    end: 2025-11-24
     status: independent
     employer: Malt
     startups:

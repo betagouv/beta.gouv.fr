@@ -26,6 +26,7 @@ techno:
   - data
   - django
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+dashlord_url: https://dashlord.incubateur.net/url/api-qualicharge-beta-gouv-fr-api-v1-docs/
 link: ''
 ---
 ## Contexte

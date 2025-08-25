@@ -25,19 +25,19 @@ link: http://www.protect-envi.beta.gouv.fr/
 ---
 ## Contexte
 
-Le commandement pour l'environnement et la santé (CESAN) de la Gendarmerie nationale a été créé en 2023 pour animer et coordonner l'action de l'institution dans le domaine de la lutte contre les atteintes à l'environnement et à la santé publique. Le CESAN développe également des outils pour mieux équiper les gendarmes et les acteurs de la police de l'environnement, comme par exemple l'application Enviro'Gend disponible pour tous les gendarmes et qui permet d'accéder à un annuaire des acteurs de l'environnement et à des fiches réflexes.
+Le commandement pour l'environnement et la santé (CESAN) de la Gendarmerie nationale a été créé en 2023 pour animer et coordonner l'action de l'institution dans le domaine de la lutte contre les atteintes à l'environnement et à la santé publique. Le CESAN développe également des outils pour mieux équiper les gendarmes et les acteurs de la police de l'environnement.
 En avril 2024, le CESAN se rapproche de la DINUM pour mener une investigation autour de la lutte contre les atteintes à l'environnement.
 
 En bref, la criminalité environnementale, c'est :
-* 5 à 7% d’augmentation des infractions environnementales par an (4e sources de revenus criminels) ;
+* La 4e source de revenus criminels (et 5 à 7% d’augmentation des infractions environnementales par an) ;
 * 51,5 milliards € dépensés par la France pour protéger l’environnement ;
-* Plus de 3.000 infractions environnementales répertoriées (20% des natures d’infractions) réparties dans 15 codes différents ;
-* Seulement 1% des affaires jugées par les tribunaux concernent l'environnement
+* Seulement 1% des affaires jugées par les tribunaux concernent l'environnement (alors que 20% des infractions existant dans le droit français concernent l'environnement).
 
 ## Problème
 
 Sur le grand nombre d'atteintes à l'environnement (décharge sauvages, pollutions de rivières, atteintes aux espèces, atteintes aux espaces naturels, etc.), toutes ne sont pas signalées et très peu aboutissent à des sanctions ou mesures de réparation.
-Les gendarmes, déployés sur tout le territoire, forment une ressource importante pour la prise en compte du contentieux. Même si plus de 4.000 d'entre eux sont formés au traitement des infractions environnementales, la complexité du contentieux peut entraîner des difficultés à apporter une réponse efficace à chaque situation. Par ailleurs, de très nombreux services publics sont compétents en matière environnementale (ONF, OFB, DREAL, DDPP, collectivités locales, etc.). 
+En particulier, les dépôts sauvages sont omniprésents (plus d'1 million de tonnes par an selon l'association *Gestes propres*) et représentent un coût important pour les collectivités (environ 60.000€/an/commune selon l'ADEME). Pourtant, très peu d'auteurs de dépôts sont sanctionnés, notamment en raison de la méconnaissance de la procédure administrative au niveau des collectivités.
+ 
 
 ## Principaux obstacles : 
 
