@@ -12,6 +12,8 @@ missions:
     end: 2026-10-01
     status: admin
     employer: DINUM
+    startups:
+      - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
 previously:
   - aplus
   - conseillers-entreprises
@@ -22,8 +24,10 @@ badges:
 competences:
   - Croissance
   - Administration Publique
+  - Coaching
 teams:
   - /teams/dinum-incubateur
   - /teams/francetravail-animation
   - /teams/francetravail-responsable-de-portefeuille
+link: https://www.linkedin.com/in/desjardinsthibault/
 ---

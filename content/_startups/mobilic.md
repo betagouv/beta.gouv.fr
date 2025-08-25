@@ -3,7 +3,7 @@ mission: Lutter contre le travail dissimulé dans le transport routier léger
 incubator: mtes
 repository: https://github.com/MTES-MCT/mobilic
 contact: contact@mobilic.beta.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 usertypes:
   - entreprise
 stats_url: https://mobilic.beta.gouv.fr/stats
@@ -37,7 +37,7 @@ events:
     comment: Montant de 300 000€ pour la promotion 13
   - name: other
     date: 2024-09-28
-    comment: Homologation sécurité
+    comment: Homologation sécurité de 6 mois
   - name: other
     date: 2025-03-06
     comment: 'Parution de l''arrêté: Mobilic devient la seule solution 100% numérique conforme'
@@ -76,7 +76,7 @@ Cette non-utilisation a des conséquences fortes :
 
 ## Solution
 
-Notre mission est de lutter contre le travail illégal dans le transport routier léger. 
+Notre mission est de lutter contre le travail dissimulé dans le transport routier léger. 
 
 Notre stratégie pour y parvenir ? Faciliter la mise en conformité des entreprises du secteur tout en agissant sur le cadre réglementaire.
 
@@ -86,20 +86,19 @@ Développée en collaboration avec les entreprises du secteur et les corps de co
 
 * D'une **application web** destinée aux salariés conducteurs, permettant l’enregistrement du temps de travail adapté à un usage en mobilité ; et destinée également aux gestionnaires, leur permettant la gestion de ces temps de travail ;
 * D'une **interface de contrôle** destinée aux contrôleurs, calculant automatiquement les dépassements de seuils et détectant ainsi les potentielles infractions ;
-* D'une **API** pour répondre au besoin d'interfaçage des applications métier/RH des entreprises.
+* D'une **API**  permettant d'habiliter des applications métiers/RH des entreprises à collecter le décompte du temps de travail mais en certifiant la donnée dans Mobilic.
 
 ![https://mobilic.beta.gouv.fr/](/img/netlifycms/mobilic-workflow.png)
 
 ## Impact
 
-Nous avons établi le certificat Mobilic en juillet 2023. Le certificat atteste qu'une entreprise a un **taux élevé de conformité à la  réglementation** en matière de temps de travail et, qu’elle **utilise Mobilic de manière conforme** (enregistrement du temps de travail au maximum en temps réel, validation régulière des données, modifications exceptionnelles des données du salarié par son employeur).
+Nous avons établi le certificat Mobilic en juillet 2023. Le certificat atteste qu'une entreprise a un **taux élevé de conformité à la réglementation** en matière de temps de travail et, qu’elle **utilise Mobilic de manière conforme** (enregistrement du temps de travail au maximum en temps réel, validation régulière des données, modifications exceptionnelles des données du salarié par son employeur).
 
 L'indicateur que nous suivons désormais pour mesurer l'impact de Mobilic est le **nombre d'entreprises certifiées**, c'est-à-dire, les entreprises qui ont un taux élevé de conformité à la réglementation. 
 
-Sur 30 000 entreprises concernées par la réglementation, nous estimons à 12 000 celles auprès de qui Mobilic s'adresse en premier lieu (déménagement et transport de marchandises). Début mai 2025, **329** d'entre elles recevaient le certificat Mobilic.
+Sur 30 000 entreprises concernées par la réglementation, nous estimons à 12 000 celles auprès de qui Mobilic s'adresse en premier lieu (déménagement et transport de marchandises). Début août 2025, **354** d'entre elles recevaient le certificat Mobilic.
 
-**➡️ Notre objectif est d'arriver à 2 000 entreprises certifiées lors du calcul du 1er novembre 2025
-.**
+**➡️ Notre objectif est d'arriver à 2 000 entreprises certifiées lors du calcul du 1er novembre 2025.**
 
 La croissance anticipée repose sur :
 

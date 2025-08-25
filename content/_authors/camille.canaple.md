@@ -1,6 +1,6 @@
 ---
 fullname: Camille Canaple
-role: 'Designer '
+role: 'Product designer '
 domaine: Design
 github: cami-na
 missions:
@@ -23,13 +23,13 @@ missions:
     startups:
       - envergo
   - start: 2024-06-03
-    end: 2025-10-03
+    end: 2025-07-31
     status: independent
     employer: Octo Malt
     startups:
       - guichet-unique-de-la-haie-envergo-agricole
   - start: 2025-04-24
-    end: 2025-07-24
+    end: 2025-10-31
     status: independent
     employer: Scopopop x La Zone
     startups:
