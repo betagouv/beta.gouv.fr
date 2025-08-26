@@ -21,6 +21,8 @@ phases:
     start: 2024-03-01
   - name: acceleration
     start: 2024-10-18
+  - name: alumni
+    start: 2025-08-26
 techno: []
 link: https://react.beta.gouv.fr
 ---

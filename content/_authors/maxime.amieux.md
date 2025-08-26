@@ -10,7 +10,7 @@ missions:
     startups:
       - reva
   - start: 2024-07-01
-    end: 2025-07-31
+    end: 2025-12-31
     status: independent
     employer: DINUM/Malt
     startups:

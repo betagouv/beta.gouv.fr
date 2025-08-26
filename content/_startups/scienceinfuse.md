@@ -11,6 +11,8 @@ phases:
     start: 2023-04-11
   - name: acceleration
     start: 2025-01-01
+  - name: success
+    start: 2025-09-01
 stats: false
 contact: science-infuse@universcience.fr
 usertypes:

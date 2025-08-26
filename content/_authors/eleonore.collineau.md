@@ -4,7 +4,7 @@ role: Intrapreneuse
 domaine: Intraprenariat
 missions:
   - start: 2024-02-19
-    end: 2025-08-30
+    end: 2026-08-30
     status: admin
     startups:
       - zacharie

@@ -8,7 +8,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2024-10-28
-    end: 2025-12-01
+    end: 2026-02-01
     status: independent
     employer: Scopyleft
     startups:

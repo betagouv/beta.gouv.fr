@@ -2,7 +2,7 @@
 analyse_risques: false
 mon_service_securise: false
 contact: delphine.raymond.ext@ademe.fr
-link: https://plus-fraiche-ma-boite.sites.beta.gouv.fr/
+link: https://plusfraisautravail.beta.gouv.fr/
 thematiques:
   - Écologie
 usertypes:
@@ -18,6 +18,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-01-01
+  - name: construction
+    start: 2025-09-01
 events:
   - name: committee
     date: 2025-05-07

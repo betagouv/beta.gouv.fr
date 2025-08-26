@@ -18,4 +18,4 @@ competences:
   - Intrapreneur(se)
   - Administration Publique
 ---
-Egalement chargée de mission lutte contre la cabanisation à la DDTM 34 et du déploiement de l'outil numérique  LUCCA (https://www.cabanisation34.fr/)
+Egalement chargée de mission lutte contre la cabanisation à la DDTM 34
