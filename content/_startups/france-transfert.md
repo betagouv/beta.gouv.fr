@@ -24,6 +24,8 @@ events:
   - name: product_launch
     date: 2025-01-31
 techno: []
+repository: https://github.com/suitenumerique
+stats_url: https://superset.beta.numerique.gouv.fr/superset/dashboard/lasuite/
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

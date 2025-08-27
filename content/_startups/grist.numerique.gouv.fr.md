@@ -73,3 +73,10 @@ en cartographier les usages, et identifier les pratiques les plus vertueuses.
 
 On priorisera ensuite les actions qui soutiendront au mieux l'adoption de ces
 pratiques vertueuses. 
+
+## Objectifs à 6 mois
+
+### Objectif d’usage à 6 mois : 
+Quel usage chiffré visez-vous ?
+### Objectif d’impact à 6 mois : 
+Quel impact vous permettra de dire que votre première phase de construction a été un succès ?
