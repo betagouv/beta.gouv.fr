@@ -8,13 +8,13 @@ on:
     - cron: "0 0 1 * *" # every 1st day of month
 
 jobs:
-  test:
+  analyze:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
 
       - name: Run diff
-        run: ./ci/git-analyser.sh ./content/_startups 30 out.md
+        run: ./ci/git-analyser.sh -d ./content/_startups 30 out.md
 
       - name: Show diff
         run: cat out.md
