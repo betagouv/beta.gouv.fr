@@ -123,10 +123,10 @@ log_verbose "Calcul de la date de début d'analyse..."
 # Calcul de la date de début
 if [[ "$OSTYPE" == "darwin"* ]]; then
     # macOS
-    START_DATE=$(date -v-${DAYS}d +"%d-%m-%Y")
+    START_DATE=$(date -v-${DAYS}d +"%Y-%m-%d")
 else
     # Linux
-    START_DATE=$(date -d "$DAYS days ago" +"%d-%m-%Y")
+    START_DATE=$(date -d "$DAYS days ago" +"%Y-%m-%d")
 fi
 
 log_verbose "Date de début: $START_DATE"
