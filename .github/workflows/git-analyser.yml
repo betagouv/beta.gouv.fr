@@ -1,0 +1,44 @@
+name: Diff the startups content
+
+on:
+  push: # tmp
+    branches: ["*"]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *" # every 1st day of month
+
+jobs:
+  analyze:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Run diff
+        run: ./ci/git-analyser.sh -d ./content/_startups 30 out.md
+
+      - name: Show diff
+        run: cat out.md
+
+      - name: Create issue
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const path = require('path');  
+            const issueBody = fs.readFileSync('./out.md', 'utf8').toString(); 
+            try {
+              const response = await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: "Nouveaux changements sur les fiches startups",
+                body: issueBody,
+                labels: ['automated']
+              });
+              console.log(`Created issue #${response.data.number}: ${issueTitle}`);
+            } catch (error) {
+              console.error('Error creating issue:', error);
+              throw error;
+            }
