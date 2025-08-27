@@ -11,7 +11,9 @@ jobs:
   analyze:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Run diff
         run: ./ci/git-analyser.sh -d ./content/_startups 30 out.md
