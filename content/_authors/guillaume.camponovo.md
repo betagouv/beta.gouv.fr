@@ -13,3 +13,4 @@ missions:
     startups:
       - profilence
 ---
+En mission à l'incubateur de France Travail depuis février 2025

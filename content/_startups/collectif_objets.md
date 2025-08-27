@@ -19,6 +19,8 @@ phases:
     end: 2022-09-28
   - name: acceleration
     start: 2022-09-28
+  - name: success
+    start: 2025-07-15
 thematiques:
   - Patrimoine
 accessibility_status: non conforme

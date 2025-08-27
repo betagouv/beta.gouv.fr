@@ -28,7 +28,7 @@ missions:
     startups:
       - envirogend
   - start: 2025-02-11
-    end: 2025-07-30
+    end: 2025-12-31
     status: independent
     employer: dynergie
     startups:

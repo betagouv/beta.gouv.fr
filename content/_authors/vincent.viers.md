@@ -30,7 +30,7 @@ missions:
     startups:
       - pilotage.de.linclusion
   - start: 2024-09-02
-    end: 2025-09-02
+    end: 2026-09-02
     status: admin
     employer: DINUM
     startups:

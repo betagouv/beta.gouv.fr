@@ -5,12 +5,17 @@ title: Protect'Envi
 contact: arthur.ribeiro-de-carvalho@gendarmerie.interieur.gouv.fr
 accessibility_status: non conforme
 sponsors:
+  - /organisations/anct
+  - /organisations/dinum
+  - /organisations/ditp
   - /organisations/interieur
 phases:
   - name: investigation
     start: 2024-04-26
   - name: construction
     start: 2025-01-01
+  - name: acceleration
+    start: 2025-09-01
 thematiques:
   - Écologie
   - Territoires
@@ -22,22 +27,25 @@ usertypes:
 techno: []
 budget_url: https://pad.numerique.gouv.fr/s/gm96E3s_h
 link: http://www.protect-envi.beta.gouv.fr/
+events:
+  - name: committee
+    date: 2025-07-04
+    comment: Validation et financement des phases suivantes du produit
 ---
 ## Contexte
 
-Le commandement pour l'environnement et la santé (CESAN) de la Gendarmerie nationale a été créé en 2023 pour animer et coordonner l'action de l'institution dans le domaine de la lutte contre les atteintes à l'environnement et à la santé publique. Le CESAN développe également des outils pour mieux équiper les gendarmes et les acteurs de la police de l'environnement, comme par exemple l'application Enviro'Gend disponible pour tous les gendarmes et qui permet d'accéder à un annuaire des acteurs de l'environnement et à des fiches réflexes.
-En avril 2024, le CESAN se rapproche de la DINUM pour mener une investigation autour de la lutte contre les atteintes à l'environnement.
+Le commandement pour l'environnement et la santé (CESAN) de la Gendarmerie nationale a été créé en 2023 pour animer et coordonner l'action de l'institution dans le domaine de la lutte contre les atteintes à l'environnement et à la santé publique. Le CESAN développe également des outils pour mieux équiper les gendarmes et les acteurs de la police de l'environnement.
 
 En bref, la criminalité environnementale, c'est :
-* 5 à 7% d’augmentation des infractions environnementales par an (4e sources de revenus criminels) ;
+* La 4e source de revenus criminels (et 5 à 7% d’augmentation des infractions environnementales par an) ;
 * 51,5 milliards € dépensés par la France pour protéger l’environnement ;
-* Plus de 3.000 infractions environnementales répertoriées (20% des natures d’infractions) réparties dans 15 codes différents ;
-* Seulement 1% des affaires jugées par les tribunaux concernent l'environnement
+* Seulement 1% des affaires jugées par les tribunaux concernent l'environnement (alors que 20% des infractions existant dans le droit français concernent l'environnement).
 
 ## Problème
 
-Sur le grand nombre d'atteintes à l'environnement (décharge sauvages, pollutions de rivières, atteintes aux espèces, atteintes aux espaces naturels, etc.), toutes ne sont pas signalées et très peu aboutissent à des sanctions ou mesures de réparation.
-Les gendarmes, déployés sur tout le territoire, forment une ressource importante pour la prise en compte du contentieux. Même si plus de 4.000 d'entre eux sont formés au traitement des infractions environnementales, la complexité du contentieux peut entraîner des difficultés à apporter une réponse efficace à chaque situation. Par ailleurs, de très nombreux services publics sont compétents en matière environnementale (ONF, OFB, DREAL, DDPP, collectivités locales, etc.). 
+Sur le grand nombre d'atteintes à l'environnement (dépôts sauvages, décharges illégales, pollutions, atteintes aux espèces, atteintes aux espaces naturels, etc.), toutes ne sont pas signalées et très peu aboutissent à des sanctions ou mesures de réparation.
+En particulier, les dépôts sauvages sont omniprésents (plus d'1 million de tonnes par an selon l'association *Gestes propres*) et représentent un coût important pour les collectivités (environ 60.000€/an/commune selon l'ADEME). Pourtant, très peu d'auteurs de dépôts sont sanctionnés, que ce soit par des procédures administratives ou judiciaires.
+ 
 
 ## Principaux obstacles : 
 
@@ -56,6 +64,11 @@ L'investigation menée a permis de faire émerger plusieurs pistes de solutions 
 - Une aide personnalisée à la procédure (parcours "pas à pas", etc.) ;
 - Une plateforme de centralisation et de gestion de signalement des atteintes complexes.
 
+A la suite de l'investigation, les dépôts sauvages ont été identifiés comme la problématique prioritaire. Un premier outil a été développé pour accompagner les collectivités face aux dépôts sauvages et leur permet de :
+- Rédiger leur procédure administrative ;
+- Recevoir un accompagnement personnalisé.
+
+
 
 ## Stratégie
 
@@ -69,16 +82,15 @@ collectivités, associations, etc.).
 Les entretiens ont permis de faire émerger les différents problèmes mais aussi les bonnes pratiques locales inspirantes. Une veille a été réalisée sur des outils inspirants (Aigle, AC Déchets, Sentinelles de la Nature, Parcours signaler une maltraitance animale).
 
 ### Construction
-**Services :**
-Le budget contraint pour construire ce service numérique a été une opportunité pour capitaliser sur des outils existants dans la phase de construction.
-- La plateforme de gestion de signalement sera construite via un portail dédié   [Recommandations-Collaboratives](https://recommandations-collaboratives.beta.gouv.fr/) sous le domaine [ProtectEnvi](http://www.protect-envi.beta.gouv.fr/) ;
-- Les canaux de discussion (Tchap ou autre) seront augmentés de briques Nocode via Grist ou N8N ;
-- Un outil d'accompagnement des élus sera développé.
 
 **Thématique :**
-L'équipe a décidé de se concentrer dans un premier temps sur la thématique déchets (dépôts sauvages, décharges illégales) qui constitue une grande préoccupation des élus et des citoyens et représente le plus grand nombre d'atteintes à l'environnement.
+L'équipe a décidé de se concentrer dans un premier temps sur la thématique des dépôts sauvages, qui constitue une grande préoccupation pour les élus et les citoyens, et représente le plus grand nombre d'atteintes à l'environnement.
 
 **Territoires :**
 Une première phase de test se déroule dans les Yvelines (78) au 1er semestre 2025.
-L'objectif est de construire rapidement un prototype sur un périmètre restreint avant d'élargir à d'autres territoires et thématiques.
+Un prototype a été co-conçu avec les utilisateurs cibles, puis validé. Dans un second temps, un outil a été développé et déployé sur cette base. Il a d'ores et déjà été adopté par plusieurs communes, et permis d'initier de premières procédures administratives pour dépôts sauvages.
 
+### Accélération
+
+**Objectifs :**
+La phase d'accélération de déroule au 2e semestre 2025. L'équipe-projet se concentrera sur le déploiement de l'outil dans 2 départements pilotes (Yvelines + un département à confirmer), afin de confirmer l'impact de l'outil.

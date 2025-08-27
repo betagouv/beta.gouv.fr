@@ -18,9 +18,12 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-01-31
+  - name: construction
+    start: 2025-08-26
 events:
   - name: product_launch
     date: 2025-01-31
+techno: []
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
@@ -41,6 +44,10 @@ Transférez des fichiers lourds
 
 à compléter
 
-## Stratégie
+## Objectifs à 6 mois
 
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ? à compléter
+### Objectif d’usage à 6 mois : 
+Quel usage chiffré visez-vous ?
+### Objectif d’impact à 6 mois : 
+Quel impact vous permettra de dire que votre première phase de construction a été un succès ?
+

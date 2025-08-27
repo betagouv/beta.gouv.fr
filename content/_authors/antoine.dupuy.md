@@ -4,7 +4,7 @@ role: 'Lead Business Developer, Responsable de déploiement '
 domaine: Déploiement
 missions:
   - start: 2022-09-26
-    end: 2025-09-25
+    end: 2026-02-26
     status: independent
     employer: Omnicité
     startups:

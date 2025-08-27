@@ -7,6 +7,12 @@ missions:
     end: 2027-02-01
     status: admin
     employer: Ministère de l'Intérieur et des Outre-mer
+    startups:
+      - basegun
+      - data-demineur
+      - formsformulaire
+      - reponse
+      - vie.chere
 memberType: dinum
 competences:
   - UX
