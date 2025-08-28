@@ -10,8 +10,8 @@ competences:
   - Python
   - JavaScript/TypeScript
 missions:
-  - start: 2025-01-02
-    end: 2025-08-26
+  - start: 2025-08-27
+    end: 2025-12-31
     status: independent
     employer: DINUM
     startups:

@@ -20,6 +20,7 @@ usertypes:
   - etat
   - collectivite-territoriale
 techno: []
+stats_url: https://stats.beta.numerique.gouv.fr/
 ---
 ## Contexte
 

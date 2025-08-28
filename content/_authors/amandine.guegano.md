@@ -1,13 +1,12 @@
 ---
 fullname: Amandine Guegano
-role: Designer & coach
-domaine: Design
+role: 'Coach & designer '
+domaine: Coaching
 link: https://www.linkedin.com/in/amandine-guegano/
 competences:
-  - UX
-  - UX research
-  - Product strategy
   - Coaching
+  - Product strategy
+  - UX research
 missions:
   - start: 2024-05-06
     end: 2025-09-30
@@ -34,3 +33,4 @@ missions:
     startups:
       - ca-se
 ---
+designer de service

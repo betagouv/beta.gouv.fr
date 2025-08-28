@@ -27,10 +27,16 @@ phases:
 events:
   - name: committee
     date: 2024-12-04
+  - name: committee
+    date: 2025-07-22
 techno:
-  - nuxt.js
+  - adonis
   - python
-link: ''
+  - vue.js
+link: https://aides.beta.numerique.gouv.fr/
+repository: https://github.com/betagouv/aides-simplifiees-app
+stats_url: https://aides.beta.numerique.gouv.fr/statistiques
+impact_url: https://aides.beta.numerique.gouv.fr/statistiques
 ---
 ## Contexte
 

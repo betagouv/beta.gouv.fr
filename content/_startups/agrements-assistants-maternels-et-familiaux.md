@@ -7,7 +7,7 @@ thematiques:
 usertypes:
   - Services PMI des départements
 title: Agréments Assistants Maternels et Familiaux
-mission: Suivre la validité des agréments des assistants maternels et assistants familiaux à l'échelle nationale
+mission: Sécuriser la protection des enfants en donnant aux départements un accès national, simple et fiable à la validité des agréments des Assistants Maternels et Familiaux
 incubator: dinum
 sponsors:
   - /organisations/gip-france-enfance-protegee

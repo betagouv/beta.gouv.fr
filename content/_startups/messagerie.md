@@ -33,6 +33,7 @@ techno:
   - open-xchange
 accessibility_status: partiellement conforme
 repository: https://gitlab.mim-libre.fr/dimail/
+stats_url: https://superset.beta.numerique.gouv.fr/superset/dashboard/lasuite/
 ---
 ## Contexte
 
@@ -57,3 +58,10 @@ Plusieurs axes:
 - la constitution d'un commun numérique pour éprouver le produit face aux différents usages
 - la mise à disposition de services en self-care aux agents publics
 - la mise en place d'APIs et interface de gestion pour introduire les fonctionnalités de gestion collaborative.
+
+## Objectifs à 6 mois
+
+### Objectif d’usage à 6 mois : 
+Quel usage chiffré visez-vous ?
+### Objectif d’impact à 6 mois : 
+Quel impact vous permettra de dire que votre première phase de construction a été un succès ?

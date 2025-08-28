@@ -2,7 +2,8 @@
 fullname: Mathieu Borrell
 role: DevSecOps
 domaine: Développement
-competences: []
+competences:
+  - Sécurité informatique
 missions:
   - start: 2025-06-02
     end: 2025-12-31

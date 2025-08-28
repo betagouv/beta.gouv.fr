@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/celine-neuman/
 missions:
   - start: 2024-03-18
-    end: 2025-06-15
+    end: 2025-12-31
     status: independent
     employer: ANCT
     startups:

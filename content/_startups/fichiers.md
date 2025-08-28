@@ -13,17 +13,13 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2025-08-26
-    end: null
   - name: construction
-    comment: null
     start: 2025-08-26
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-08-26
+link: ''
 ---
 La description ci-dessous est un brouillon, en cours de finalisation.
 

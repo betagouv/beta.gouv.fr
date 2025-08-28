@@ -45,6 +45,7 @@ events:
   - name: committee
     date: 2025-01-21
     comment: Communication des premiers résultats + exploration des modèles de financement
+impact_url: https://carte-verte.beta.gouv.fr/stats
 ---
 ## Contexte
 Carte Verte s’inscrit dans un objectif de politique publique de réduction de l’empreinte environnementale des français et pose le constat suivant : l’empreinte environnementale de la consommation (“je mange”, “j’achète”) des citoyens est trop élevée et peu de dispositifs existent pour l’abaisser (contrairement aux champs des transports et du logement).

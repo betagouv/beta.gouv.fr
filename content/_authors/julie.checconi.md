@@ -5,7 +5,7 @@ domaine: Design
 link: https://www.studioletandem.com
 missions:
   - start: 2023-09-18
-    end: 2025-09-30
+    end: 2025-05-19
     status: independent
     employer: Ademe
     startups:
