@@ -3,7 +3,7 @@ domaine: Produit
 github: yostyle
 missions:
   - start: 2023-08-21
-    end: 2025-08-31
+    end: 2026-12-31
     status: admin
     employer: DINUM
     startups:
