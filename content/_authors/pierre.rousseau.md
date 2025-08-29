@@ -10,8 +10,8 @@ missions:
     employer: scopyleft
     startups:
       - benefriches
-  - start: 2025-03-17
-    end: 2025-06-17
+  - start: 2025-06-18
+    end: 2025-12-20
     status: independent
     employer: scopyleft
     startups:

@@ -12,13 +12,11 @@ sponsors:
   - /organisations/direction-generale-de-l-enseignement-et-de-la-recherche
 phases:
   - name: investigation
-    comment: null
     start: 2025-06-25
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-08-26
+link: ''
 ---
 
 ## Contexte

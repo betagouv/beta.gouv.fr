@@ -25,6 +25,7 @@ phases:
 events:
   - name: product_launch
     date: 2024-08-12
+stats_url: https://superset.beta.numerique.gouv.fr/superset/dashboard/lasuite/
 ---
 ## Contexte
 

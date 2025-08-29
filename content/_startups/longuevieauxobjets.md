@@ -42,6 +42,7 @@ techno:
   - python
   - django
 mon_service_securise: true
+impact_url: https://longuevieauxobjets.ademe.fr/stats
 ---
 ## Contexte 👀
 

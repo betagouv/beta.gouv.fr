@@ -44,6 +44,7 @@ events:
 fast:
   promotion: 15
   montant: 30000
+impact_url: https://plusfraichemaville.fr/stats
 ---
 ## Contexte
 

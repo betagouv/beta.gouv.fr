@@ -12,9 +12,15 @@ missions:
     startups:
       - aides.jeunes
   - start: 2022-01-04
-    end: 2025-09-05
+    end: 2025-05-31
     status: independent
     employer: Scopyleft
+  - start: 2025-06-02
+    end: 2025-12-31
+    status: independent
+    employer: Optimeas
+    startups:
+      - monsuivipsy
 previously:
   - aides.jeunes
 memberType: beta

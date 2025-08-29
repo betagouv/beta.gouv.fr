@@ -7,7 +7,7 @@ teams:
   - /teams/ademe
 missions:
   - start: 2024-04-08
-    end: 2025-09-26
+    end: 2025-11-28
     status: independent
     employer: LaZone/Pathtech (ADEME)
 link: https://www.linkedin.com/in/jessicagauzi/

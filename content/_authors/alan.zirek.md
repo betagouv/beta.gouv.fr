@@ -5,7 +5,7 @@ domaine: Développement
 github: alanzirek
 missions:
   - start: 2023-12-01
-    end: 2025-12-01
+    end: 2025-06-02
     status: independent
     employer: LittleBig Connection
     startups:
