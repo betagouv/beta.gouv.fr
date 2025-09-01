@@ -9,7 +9,7 @@ competences:
   - Product strategy
 missions:
   - start: 2024-09-17
-    end: 2025-12-31
+    end: 2026-02-28
     status: independent
     employer: Opteamis
     startups:

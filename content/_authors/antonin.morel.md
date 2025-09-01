@@ -11,7 +11,7 @@ missions:
     startups:
       - acceslibre
   - start: 2024-06-20
-    end: 2025-10-01
+    end: 2026-03-01
     status: independent
     employer: Little Big Connection
     startups:

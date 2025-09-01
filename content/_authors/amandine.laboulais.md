@@ -5,7 +5,7 @@ domaine: Design
 link: https://amandinelaboulais.com/
 missions:
   - start: 2023-06-20
-    end: 2025-10-01
+    end: 2026-02-06
     status: independent
     employer: Omnicité
     startups:

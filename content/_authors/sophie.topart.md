@@ -7,7 +7,7 @@ competences:
   - JavaScript/TypeScript
 missions:
   - start: 2022-09-12
-    end: 2025-09-11
+    end: 2026-09-11
     status: admin
     employer: Ministère des Armées
     startups:

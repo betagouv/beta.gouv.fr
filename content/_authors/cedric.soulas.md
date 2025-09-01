@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: octo
   - start: 2022-12-01
-    end: 2025-09-30
+    end: 2026-02-28
     status: independent
     employer: opteamis
     startups:
@@ -22,7 +22,7 @@ missions:
     startups:
       - mission-transition-ecologique
   - start: 2024-10-25
-    end: 2025-09-30
+    end: 2026-02-28
     status: independent
     employer: Malt
     startups:

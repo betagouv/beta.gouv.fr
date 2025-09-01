@@ -4,7 +4,7 @@ fullname: Hadrien Pélissier
 role: Dev @ LANGU:IA
 missions:
   - start: 2024-06-05
-    end: 2025-10-01
+    end: 2026-02-01
     status: independent
     employer: UT7
     startups:
@@ -14,7 +14,6 @@ link: https://fr.linkedin.com/in/hadrienpelissier
 competences:
   - Développement Full-stack
   - DevOps
-  - Machine learning
   - JavaScript/TypeScript
   - Sécurité informatique
   - Administration Système

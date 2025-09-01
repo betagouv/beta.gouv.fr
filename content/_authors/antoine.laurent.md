@@ -5,7 +5,7 @@ role: Développeur
 github: tonial
 missions:
   - start: 2022-06-07
-    end: 2025-09-30
+    end: 2026-02-27
     status: independent
     employer: Malt
     startups:

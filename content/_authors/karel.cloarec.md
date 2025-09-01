@@ -78,7 +78,7 @@ missions:
     startups:
       - la.communaute.de.linclusion
   - start: 2024-06-10
-    end: 2025-07-01
+    end: 2026-02-28
     status: independent
     employer: Malt
     startups:

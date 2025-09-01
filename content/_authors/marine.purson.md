@@ -1,6 +1,6 @@
 ---
 fullname: Marine Purson
-role: Responsable des relations institutionnelles
+role: Responsable adjointe du pôle Animation, opérations et expertises
 domaine: Animation
 github: marinepurson2
 missions:

@@ -9,7 +9,7 @@ competences:
   - UX research
 missions:
   - start: 2024-05-06
-    end: 2025-09-30
+    end: 2026-02-28
     status: independent
     employer: Malt
     startups:

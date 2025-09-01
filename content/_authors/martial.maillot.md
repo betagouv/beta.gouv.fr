@@ -5,13 +5,13 @@ domaine: Développement
 github: m-maillot
 missions:
   - start: 2021-02-08
-    end: 2025-09-30
+    end: 2026-01-31
     status: independent
     employer: opteamis
     startups:
       - codedutravail
   - start: 2025-03-01
-    end: 2025-09-30
+    end: 2025-12-31
     status: independent
     employer: little big connection
     startups:

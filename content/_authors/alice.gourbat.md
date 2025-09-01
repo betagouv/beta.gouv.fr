@@ -17,11 +17,17 @@ missions:
     startups:
       - sndv_maritime
   - start: 2024-10-24
-    end: 2025-09-05
+    end: 2025-02-15
     status: independent
     employer: Little Big Connection
     startups:
       - mon-devis-sans-oublis
+  - start: 2025-09-01
+    end: 2026-03-01
+    status: independent
+    employer: Ominicité
+    startups:
+      - csplab
 competences:
   - UX
   - Facilitation

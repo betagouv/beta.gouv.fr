@@ -1,6 +1,6 @@
 ---
 fullname: Laura Dussier
-role: Designer Transverse / Lead Designer
+role: Designer Transverse
 domaine: Design
 github: supersuperflux
 missions:
@@ -11,7 +11,7 @@ missions:
     startups:
       - mon-entreprise
   - start: 2023-01-09
-    end: 2025-09-30
+    end: 2026-02-28
     status: independent
     employer: ADEME
 previously:
