@@ -59,10 +59,6 @@ En particulier, les dépôts sauvages sont omniprésents (plus d'1 million de to
 - Les suites données au signalement ne sont pas connues. 
 
 ## Solution
-L'investigation menée a permis de faire émerger plusieurs pistes de solutions qui sont testées lors de la première phase de construction :
-- Un canal d'échange instantané thématique réunissant les acteurs concernés par un territoire pour agir rapidement et facilement sur les atteintes mineures ;
-- Une aide personnalisée à la procédure (parcours "pas à pas", etc.) ;
-- Une plateforme de centralisation et de gestion de signalement des atteintes complexes.
 
 A la suite de l'investigation, les dépôts sauvages ont été identifiés comme la problématique prioritaire. Un premier outil a été développé pour accompagner les collectivités face aux dépôts sauvages et leur permet de :
 - Rédiger leur procédure administrative ;
