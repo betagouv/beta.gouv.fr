@@ -15,7 +15,7 @@ missions:
     startups:
       - qualicharge
   - start: 2024-09-12
-    end: 2025-09-30
+    end: 2025-10-30
     status: independent
     employer: LittleBig Connection
     startups:
@@ -28,4 +28,5 @@ competences:
   - Communication
   - Croissance
   - Accessibilité
+  - Product strategy
 ---

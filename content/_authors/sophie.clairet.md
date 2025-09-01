@@ -13,13 +13,13 @@ missions:
       - bases.adresses.locales
       - umap
   - start: 2024-05-01
-    end: 2025-06-30
+    end: 2025-12-31
     status: independent
     employer: LittleBigConnection
     startups:
       - umap
   - start: 2025-01-06
-    end: 2025-09-30
+    end: 2026-02-28
     status: independent
     employer: Malt
     startups:
@@ -33,4 +33,4 @@ competences:
   - Déploiement
 github: C-Sophie
 ---
-Géographe de formation, xp presse spécialisée, administration centrale, collectivité territoriale, SE
+Géographe PhD. Expériences passées : presse spécialisée (géopolitique), administration centrale (ANSSI), collectivité territoriale (Cabinet du Maire de Metz, SE (Base Adresse Nationale, Bases Adresses Locales, uMap, Panoramax)

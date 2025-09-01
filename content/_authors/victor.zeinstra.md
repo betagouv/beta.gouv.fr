@@ -4,7 +4,7 @@ domaine: Développement
 role: Développeur
 missions:
   - start: 2022-06-13
-    end: 2025-09-01
+    end: 2025-12-31
     status: independent
     employer: Opteamis
     startups:

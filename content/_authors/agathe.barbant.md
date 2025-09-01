@@ -11,5 +11,11 @@ missions:
     employer: Scopopop
     startups:
       - mesads
+  - start: 2025-09-08
+    end: 2026-02-28
+    status: independent
+    employer: Little Big Connection
+    startups:
+      - emile
 ---
 Je suis chargée de déploiement au sein de la communauté Beta.gouv dans le but d'avoir un impact positif sur le monde de demain, que ce soit sur le plan social ou environnemental

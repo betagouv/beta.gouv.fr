@@ -6,8 +6,8 @@ github: KadKersani
 competences:
   - Développement Full-stack
 missions:
-  - start: 2025-06-18
-    end: 2025-10-18
+  - start: 2025-06-23
+    end: 2025-12-18
     status: independent
     employer: Malt
     startups:

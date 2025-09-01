@@ -16,16 +16,13 @@ missions:
   - start: 2023-05-01
     end: 2024-08-31
     status: independent
-    employer: Opteemis
+    employer: Opteamis
     startups:
       - reva
-  - start: 2024-12-16
-    end: 2025-08-31
-    status: independent
   - start: 2025-09-01
     end: 2026-01-30
     status: independent
-    employer: la zone
+    employer: path tech
     startups:
       - ecobalyse
 previously:

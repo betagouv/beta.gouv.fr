@@ -4,7 +4,7 @@ role: Chargée de support
 domaine: Support
 missions:
   - start: 2024-01-26
-    end: 2025-09-30
+    end: 2026-02-28
     status: independent
     employer: DINUM
     startups:

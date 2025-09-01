@@ -11,7 +11,7 @@ missions:
     startups:
       - signalement
   - start: 2021-11-18
-    end: 2025-09-30
+    end: 2025-12-31
     status: independent
     startups:
       - acceslibre

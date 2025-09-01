@@ -16,7 +16,7 @@ missions:
     startups:
       - icare-complements-alimentaires
   - start: 2025-01-02
-    end: 2025-09-30
+    end: 2025-12-31
     status: independent
     employer: Numa
     startups:

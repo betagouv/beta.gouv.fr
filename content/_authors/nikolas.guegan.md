@@ -9,7 +9,7 @@ competences:
   - Déploiement
 missions:
   - start: 2025-02-10
-    end: 2025-09-30
+    end: 2025-12-31
     status: independent
     employer: LittleBigConnection
     startups:
