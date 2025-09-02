@@ -6,7 +6,7 @@ missions:
   - start: 2024-03-01
     end: 2024-05-30
     status: independent
-    employer: Path-tech
+    employer: Path Tech
     startups:
       - ecobalyse
   - start: 2024-06-10

@@ -12,11 +12,11 @@ mission: |+
 
   Afin de répondre aux attentes croissantes du réseau et d’améliorer la structuration des services numériques, La Fabrique déploie trois axes de services complémentaires :
 
-  * <strong>Incubation des services numériques</strong> : identification et accompagnement des projets innovants à fort impact, en capitalisant sur l’expertise des intrapreneurs et des bureaux métiers.
+  <strong>Incubation des services numériques</strong> : identification et accompagnement des projets innovants à fort impact, en capitalisant sur l’expertise des intrapreneurs et des bureaux métiers.
 
-  <strong>- Expertise et accompagnement</strong>: qualification des besoins, structuration des projets et mise en place d’indicateurs d’impact pour assurer une meilleure allocation des ressources.
+  <strong>Expertise et accompagnement</strong>: qualification des besoins, structuration des projets et mise en place d’indicateurs d’impact pour assurer une meilleure allocation des ressources.
 
-  **- Veille et innovation **: identification des opportunités technologiques et sourcer les innovations externes ou interministérielles.
+  <strong>Veille et innovation</strong>: identification des opportunités technologiques et sourcer les innovations externes ou interministérielles.
 
   La Fabrique s’inscrit dans une dynamique d’évolution continue visant à consolider son positionnement comme un incubateur structurant et stratégique pour la DGFIP. Son action, fondée sur l’innovation, l’impact et la pérennisation des services, en fait un levier essentiel pour la modernisation de la DGFIP.
 

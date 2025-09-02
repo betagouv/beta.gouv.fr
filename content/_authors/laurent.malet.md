@@ -15,7 +15,5 @@ competences:
   - Finances publiques
   - Fiscalité
   - Tourisme
-teams:
-  - /teams/fabrique-dgfip-responsable-de-portefeuille
 ---
 Inspecteur Traveller
