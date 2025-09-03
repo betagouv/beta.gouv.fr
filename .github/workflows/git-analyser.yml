@@ -19,7 +19,7 @@ jobs:
           fetch-depth: 0
 
       - name: Run diff
-        run: ./ci/git-analyser.sh ./content/_startups 30 startups.md
+        run: ./ci/git-analyzer.sh ./content/_startups 30 startups.md
 
       - name: Show diff
         run: cat startups.md
