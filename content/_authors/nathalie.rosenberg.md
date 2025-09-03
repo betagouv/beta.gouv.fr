@@ -10,7 +10,6 @@ missions:
     status: independent
     employer: ut7
     startups:
-      - cestquilepro
       - exposition-ij
       - pilotagevoiepro
   - start: 2023-05-01
@@ -20,7 +19,7 @@ missions:
     startups:
       - reva
   - start: 2025-09-01
-    end: 2026-01-30
+    end: 2025-12-31
     status: independent
     employer: path tech
     startups:

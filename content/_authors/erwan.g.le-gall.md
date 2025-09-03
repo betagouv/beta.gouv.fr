@@ -5,7 +5,7 @@ github: Erwan-G-le-Gall
 role: Intraprenariat
 missions:
   - start: 2024-07-02
-    end: 2025-10-02
+    end: 2026-03-31
     status: admin
     employer: DINUM
     startups:

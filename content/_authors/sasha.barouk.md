@@ -7,8 +7,6 @@ competences: []
 missions:
   - start: 2025-08-28
     end: 2027-06-30
-    employer: 'Ministère des Armées '
     status: admin
-    startups: []
-teams: []
+    employer: 'Ministère des Armées '
 ---

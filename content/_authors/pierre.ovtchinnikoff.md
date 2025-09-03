@@ -1,6 +1,6 @@
 ---
 fullname: Pierre Ovtchinnikoff
-role: CPO à seLEXpert
+role: CPO
 domaine: Produit
 competences:
   - Croissance
@@ -14,9 +14,8 @@ competences:
 missions:
   - start: 2025-09-01
     end: 2026-08-31
-    employer: DINUM
     status: admin
+    employer: DINUM
     startups:
       - experts
-teams: []
 ---
