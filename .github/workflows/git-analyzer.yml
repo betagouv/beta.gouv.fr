@@ -1,0 +1,33 @@
+name: Diff the startups content
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 1" # every monday
+
+permissions:
+  contents: read
+
+jobs:
+  analyze:
+    permissions:
+      contents: write
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Run diff
+        run: ./ci/git-analyzer.sh ./content/_startups 30 startups.md
+
+      - name: Show diff
+        run: cat startups.md
+
+      - name: Convert to HTML
+        run: npx markdown-to-html-cli startups.md --output "gh-pages"
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: gh-pages
