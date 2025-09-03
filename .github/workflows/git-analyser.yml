@@ -1,8 +1,6 @@
 name: Diff the startups content
 
 on:
-  push: # tmp
-    branches: ["*"]
   workflow_dispatch:
   schedule:
     - cron: "0 0 1 * *" # every 1st day of month
