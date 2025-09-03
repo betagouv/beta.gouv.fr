@@ -30,5 +30,4 @@ competences:
   - Gestion de Produit
   - Coaching
 ---
-J’aime créer et faire grandir des produits numériques, afin d'apporter toujours plus de valeur à leurs utilisateurs, et augmenter leur impact positif 🌳.
-J'aide les équipes produit, quelque soit leur taille, à se structurer et à se renforcer.
+💚 Créer des produits numériques, apporter plus de valeur aux utilisateurs et augmenter leur impact 🌳

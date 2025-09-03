@@ -15,12 +15,13 @@ usertypes:
   - association
   - etablissement-scolaire
 techno:
-  - JavaScript
   - TypeScript
   - React
+  - Next
+  - Node
   - PostgreSQL
   - Docker
-  - CSS
+  - Kubernetes
 title: C'est qui le pro ?
 mission: Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien
 incubator: dinum
@@ -34,6 +35,8 @@ phases:
     start: 2023-09-11
   - name: construction
     start: 2024-03-04
+  - name: acceleration
+    start: 2025-09-01
 stats_url: https://cestquilepro.inserjeunes.beta.gouv.fr/stats
 ---
 ## Un service de la mission interministérielle Inserjeunes
@@ -67,6 +70,4 @@ Pour cela, nous souhaitons :
 
 ## Notre calendrier
 
-- Second semestre 2024 : développement du MVP et tests dans 5 à 10 établissements en régions Île-de-France et Bretagne
-- Premier semestre 2025 : consolidation de la solution numérique et déploiement national
-- Second semestre 2025 : intégration aux outils et dispositifs nationaux, dont Avenir(s), et régionaux
+- Second semestre 2025 : consolidation de la solution numérique et déploiement national
