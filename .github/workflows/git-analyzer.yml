@@ -3,7 +3,7 @@ name: Diff the startups content
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 1 * *" # every 1st day of month
+    - cron: "0 0 * * 1" # every monday
 
 permissions:
   contents: read
