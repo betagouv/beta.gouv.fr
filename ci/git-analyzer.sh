@@ -176,8 +176,6 @@ else
             echo "" >> "$REPORT_FILE"
             
             # Informations sur le fichier
-            LAST_COMMIT_DATE=$(git log -1 --format="%ad" --date=format:'%d-%m-%Y' -- "$file" 2>/dev/null || echo "N/A")
-            LAST_AUTHOR=$(git log -1 --format="%an" -- "$file" 2>/dev/null || echo "N/A")
             FILE_COMMITS=$(git log --since="$START_DATE" --oneline -- "$file" | wc -l)
             
             cat >> "$REPORT_FILE" << EOF
