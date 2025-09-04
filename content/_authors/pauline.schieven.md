@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/paulineschieven/
 competences: []
 missions:
   - start: 2024-12-10
-    end: 2025-09-10
+    end: 2025-12-10
     status: independent
     employer: Omnicite
     startups:

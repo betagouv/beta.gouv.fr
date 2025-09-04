@@ -1,7 +1,7 @@
 ---
 fullname: Célia Poncelin
 role: Chargée de communication
-domaine: Développement
+domaine: Déploiement
 link: https://www.linkedin.com/in/celiaponcelin/
 competences:
   - Croissance

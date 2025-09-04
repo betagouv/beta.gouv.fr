@@ -15,12 +15,9 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: construction
-    comment: null
     start: 2025-09-03
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-09-03
 ---
 # **EvalAP, c’est quoi ?**

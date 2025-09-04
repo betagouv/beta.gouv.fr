@@ -1,7 +1,7 @@
 ---
 fullname: Nolwenn MELCHIOR
-role: Chargée de projets
-domaine: Animation
+role: Chargée de déploiement
+domaine: Déploiement
 competences:
   - Administration Publique
   - Communication

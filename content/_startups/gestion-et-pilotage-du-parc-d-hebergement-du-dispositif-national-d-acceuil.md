@@ -16,12 +16,23 @@ phases:
   - name: construction
     start: 2025-01-15
 mon_service_securise: false
-techno: []
+techno:
+  - next.js
+  - css
+  - eslint
+  - git
+  - html
+  - react
+  - sql
+  - tailwindcss
+  - typescript
 events:
   - name: committee
     date: 2024-10-18
     comment: Premier comité d'investissement avec la Direction de l'Asile
 link: https://www.placedasile.beta.gouv.fr/
+accessibility_status: partiellement conforme
+repository: https://github.com/betagouv/place-asile
 ---
 ## Contexte
 

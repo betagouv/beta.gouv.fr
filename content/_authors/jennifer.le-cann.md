@@ -10,13 +10,13 @@ missions:
     startups:
       - cassiopee
   - start: 2023-01-01
-    end: 2024-08-31
+    end: 2026-12-31
     status: admin
     employer: Ministère des Armées
     startups:
       - oscars
   - start: 2024-06-01
-    end: 2025-01-31
+    end: 2025-02-28
     status: admin
     employer: Ministère des Armées
     startups:
