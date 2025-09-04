@@ -25,6 +25,7 @@ redirect_from:
 repository: https://github.com/betagouv/zacharie
 stats_url: https://zacharie.beta.gouv.fr/stats
 impact_url: https://zacharie.beta.gouv.fr/stats
+budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Zacharie
 ---
 ## Contexte
 

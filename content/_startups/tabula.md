@@ -16,6 +16,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-07-22
+  - name: alumni
+    start: 2025-06-30
 events:
   - name: committee
     date: 2024-11-20
@@ -65,3 +67,4 @@ Dans les exigences réglementaires, où sont les points d’attention les plus f
 **Expérimentation**
 
 La mise en place d'une solution dans [Grist](https://lasuite.numerique.gouv.fr/services/grist) est expérimentée au premier trimestre 2025.
+L'expérimentation continue avec la Direction du Numérique.

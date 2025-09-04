@@ -4,7 +4,7 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2023-11-06
-    end: 2025-10-01
+    end: 2025-07-31
     status: independent
     employer: NUMA
     startups:
@@ -22,7 +22,7 @@ missions:
     startups:
       - etat-sanitaire-des-monuments-historiques-en-mobilite
   - start: 2025-01-01
-    end: 2025-10-12
+    end: 2026-02-28
     status: independent
     employer: Dynergie
     startups:

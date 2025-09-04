@@ -1,6 +1,6 @@
 ---
 fullname: Kevin Barnoin
-role: Développeur
+role: Lead Développeur
 domaine: Développement
 github: kevbarns
 missions:
@@ -8,6 +8,9 @@ missions:
     end: 2025-12-31
     status: independent
     startups:
+      - api.apprentissage
+      - boite.aux.lettres
       - catalogue-apprentissage
       - la-bonne-alternance
+competences: []
 ---
