@@ -7,7 +7,7 @@ competences:
 missions:
   - start: 2025-06-02
     end: 2025-12-31
-    status: service
+    status: independent
     employer: UT7
     startups:
       - la-bonne-alternance

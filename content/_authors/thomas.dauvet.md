@@ -5,7 +5,7 @@ domaine: Produit
 github: tdauvet89
 missions:
   - start: 2023-09-18
-    end: 2025-10-06
+    end: 2026-02-28
     status: independent
     startups:
       - ma-cantine-egalim

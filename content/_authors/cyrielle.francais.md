@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2025-09-01
     end: 2026-08-31
-    employer: DINUM
     status: admin
+    employer: DINUM
     startups:
       - sante-psy-etudiant
-teams: []
 ---

@@ -10,7 +10,7 @@ missions:
     startups:
       - bat-id
   - start: 2024-08-26
-    end: 2025-10-31
+    end: 2025-12-31
     status: independent
     employer: SIGMAZ Consilium
     startups:

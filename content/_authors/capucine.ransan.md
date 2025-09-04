@@ -1,6 +1,6 @@
 ---
 fullname: Capucine RANSAN
-role: Alternance UX-UI
+role: Designer UX-UI junior
 domaine: Design
 link: https://www.linkedin.com/in/capucine-ransan/
 competences:
@@ -8,9 +8,9 @@ competences:
   - UI
 missions:
   - start: 2025-09-01
-    end: 2026-02-28
-    employer: 'Ministère des Armées '
+    end: 2027-08-27
     status: admin
-    startups: []
-teams: []
+    employer: 'Ministère des Armées '
+    startups:
+      - projet-neo
 ---
