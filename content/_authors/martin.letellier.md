@@ -14,5 +14,15 @@ missions:
     status: admin
     startups:
       - mon-devis-sans-oublis
+  - start: 2025-08-22
+    end: 2026-08-31
+    status: admin
+    startups:
+      - fonds-prevention-argile
+  - start: 2025-08-22
+    end: 2026-08-31
+    status: admin
+    startups:
+      - document-ia
 github: martin-letellier
 ---

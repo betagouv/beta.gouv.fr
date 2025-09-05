@@ -42,7 +42,7 @@ techno:
 analyse_risques: false
 mon_service_securise: true
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#
-stats_url: https://superset.databretagne.fr/superset/dashboard/9/?standalone=3&native_filters_key=T0NMSR7Ujfy_ztcp9MgFYpk4KULKnvyg98bd3rXBPjDtMELnkBWvzE4z7Hgn2cjR
+stats_url: https://superset.dataregion.fr/superset/dashboard/3d080144-845a-4a34-a072-cb470db23fe7/?permalink_key=BW8zxaWB6qr#HEADER-UJGm2fq59q
 dashlord_url: https://dashlord.incubateur.net/url/budget-databretagne-fr/
 events:
   - name: other

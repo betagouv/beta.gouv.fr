@@ -14,7 +14,7 @@ missions:
       - mon-suivi-justice
       - preuve-de-covoiturage
   - start: 2023-12-30
-    end: 2025-09-30
+    end: 2025-06-30
     status: admin
     employer: DINUM
     startups:

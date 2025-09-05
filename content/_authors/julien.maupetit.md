@@ -11,6 +11,12 @@ missions:
     employer: MALT
     startups:
       - qualicharge
+  - start: 2025-09-04
+    end: 2026-02-28
+    status: independent
+    employer: Omnicité
+    startups:
+      - csplab
 memberType: beta
 competences:
   - DevOps

@@ -4,7 +4,7 @@ domaine: Produit
 role: Product Manager
 missions:
   - start: 2022-10-03
-    end: 2025-10-02
+    end: 2025-09-05
     status: admin
     employer: Ministère des armées
     startups:

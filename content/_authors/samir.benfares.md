@@ -27,6 +27,12 @@ missions:
     employer: La Zone / Fairness
     startups:
       - mutafriches
+  - start: 2025-08-22
+    end: 2025-11-22
+    status: independent
+    employer: LittleBigConnection
+    startups:
+      - fonds-prevention-argile
 competences:
   - Développement Full-stack
   - JavaScript/TypeScript
