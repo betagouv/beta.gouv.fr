@@ -9,9 +9,8 @@ competences:
 missions:
   - start: 2025-08-25
     end: 2025-11-28
-    employer: Scopyleft
     status: service
+    employer: Scopyleft
     startups:
       - faritas
-teams: []
 ---
