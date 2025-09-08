@@ -23,8 +23,13 @@ missions:
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:
-      - data-inclusion
       - dora
+  - start: 2021-01-25
+    end: 2025-05-31
+    status: independent
+    employer: Plateforme de l'inclusion
+    startups:
+      - data-inclusion
 competences:
   - Gestion de Produit
   - Communication

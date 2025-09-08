@@ -18,5 +18,6 @@ competences:
   - Coaching
   - Facilitation
   - Product strategy
+github: audrey-p784
 ---
 Cheffe de bureau BAOT

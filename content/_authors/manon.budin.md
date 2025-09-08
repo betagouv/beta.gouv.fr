@@ -11,7 +11,7 @@ competences:
   - Rails
 missions:
   - start: 2025-07-07
-    end: 2025-10-07
+    end: 2025-12-07
     status: independent
     employer: LittleBIG Connection
     startups:

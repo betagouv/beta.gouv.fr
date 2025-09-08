@@ -18,13 +18,11 @@ sponsors:
   - /organisations/dgpr
 phases:
   - name: investigation
-    comment: null
     start: 2025-08-22
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-09-05
+link: ''
 ---
 [A COMPLETER]
 
