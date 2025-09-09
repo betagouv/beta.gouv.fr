@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: guillaume.camponovo@francetravail.fr
+contact: profilence@beta.francetravail.fr
 thematiques:
   - Travail / Emploi
 title: Profilence
