@@ -18,4 +18,10 @@ missions:
     employer: Malt
     startups:
       - data-subvention
+  - start: 2025-09-09
+    end: 2025-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - data-subvention
 ---

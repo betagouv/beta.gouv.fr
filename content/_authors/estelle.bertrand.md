@@ -15,5 +15,6 @@ missions:
     employer: Malt
     startups:
       - datalma
+github: estellebertrand
 ---
 Passionnée de data & de surf

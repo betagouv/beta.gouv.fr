@@ -31,6 +31,8 @@ phases:
     start: 2021-11-01
   - name: transfer
     start: 2025-05-01
+  - name: success
+    start: 2025-07-01
 accessibility_status: non conforme
 fast:
   promotion: 14

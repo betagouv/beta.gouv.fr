@@ -10,9 +10,16 @@ competences:
   - Docker
   - JavaScript/TypeScript
   - PostgreSQL
+  - DevOps
+  - Administration Système
+  - Matomo
+  - Sécurité informatique
+  - MongoDb
+  - React
+  - NextJS
 missions:
   - start: 2023-10-01
-    end: 2025-09-30
+    end: 2026-06-30
     status: admin
     employer: Ministère des Armées
     startups:
