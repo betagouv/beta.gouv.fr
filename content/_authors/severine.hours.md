@@ -12,5 +12,6 @@ missions:
     end: 2026-01-14
     status: admin
     employer: EIG
+github: shours
 ---
 Parcours entrepreneurial et marketing

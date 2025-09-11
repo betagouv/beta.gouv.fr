@@ -1,7 +1,7 @@
 ---
 fullname: Valentin Vermeulen
-role: Developpeur
-domaine: Développement
+role: Responsable produit
+domaine: Produit
 competences: []
 missions:
   - start: 2025-07-08

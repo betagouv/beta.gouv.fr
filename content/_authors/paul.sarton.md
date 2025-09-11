@@ -4,11 +4,11 @@ fullname: Paul  Sarton
 role: Coach Aquapreneur + Activateur territorial
 missions:
   - start: 2024-07-04
-    end: 2025-02-28
+    end: 2026-03-01
     status: independent
     employer: NUMA
   - start: 2024-12-02
-    end: 2025-11-30
+    end: 2025-09-01
     status: independent
     employer: NUMA
     startups:

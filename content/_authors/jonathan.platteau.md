@@ -13,6 +13,8 @@ missions:
 competences:
   - Développement Frontend
   - Développement Backend
+  - JavaScript/TypeScript
+  - Développement Full-stack
 memberType: beta
 role: Développeur Full-Stack
 ---

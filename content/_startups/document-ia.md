@@ -24,6 +24,7 @@ events:
   - name: other
     date: 2025-07-31
     comment: Financement FTAP IA
+repository: https://github.com/betagouv/document-ia
 link: ''
 ---
 Dans **les dossiers de rénovation énergétique des bâtiments** comme dans les dossiers **de logements locatifs**, la performance des politiques publiques est freinée par un même obstacle structurel : la non-conformité des pièces justificatives qui génère des aller-retours entre le bénéficiaire et l'administration.
