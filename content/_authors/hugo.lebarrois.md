@@ -25,4 +25,10 @@ missions:
     employer: Ground
     startups:
       - sain-eau
+  - start: 2025-09-08
+    end: 2025-12-08
+    status: independent
+    employer: Ground
+    startups:
+      - viz-eau
 ---

@@ -11,4 +11,6 @@ missions:
       - carbure
 link: https://www.linkedin.com/in/esteban-gauthier-939811175/
 memberType: beta
+competences:
+  - Intrapreneur(se)
 ---

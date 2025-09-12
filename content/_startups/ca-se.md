@@ -8,17 +8,29 @@ usertypes:
   - etat
   - Action de l'état dans l'espace
 techno: []
-title: CaSE
-mission: CaSE a pour objectif d’automatiser le processus de visualisation de la situation spatiale de façon dynamique et interactive avec une gestion particulière des différents flux de données et de leurs représentations au profit des utilisateurs finaux
+title: TBS-NG
+mission: TBS-NG pour Tableau de bord spatial nouvelle génération a pour objectif d’automatiser le processus de visualisation de la situation spatiale de façon dynamique et interactive avec une gestion particulière des différents flux de données et de leurs représentations au profit des utilisateurs finaux
 incubator: fabnumdef
 sponsors:
   - /organisations/armees
 phases:
   - name: investigation
     start: 2024-12-02
+  - name: construction
+    start: 2025-09-01
+  - name: acceleration
+    start: 2025-11-01
+  - name: alumni
+    start: 2026-02-28
 events:
   - name: product_launch
-    date: 2024-11-07
+    date: 2024-11-06
+  - name: committee
+    date: 2025-05-07
+    comment: Réserves à travailler (budget et capacité d'embauche de freelance)
+  - name: committee
+    date: 2025-07-10
+    comment: GO du comité pour un KO le 01/09/2025
 link: ''
 ---
 CaSE pour Cartographie et Synthèse Espace
@@ -29,8 +41,8 @@ A ce jour, le Commandement de l'Espace (CDE) dispose d'un Tableau de Bord Spatia
 ## Problème
 
 Ce TBS est une image statique conçue via le logiciel Powerpoint.
-Les opérations de mise à jour sont fastidieuses et chronophage pour l'ensemble des experts. 
-La facilité de partage et de suivi entre sites ne sont pas optimal. 
+Les opérations de mise à jour sont fastidieuses et chronophages pour l'ensemble des experts. 
+La facilité de partage et de suivi entre sites n'est pas optimale. 
 
 ## Solution
 

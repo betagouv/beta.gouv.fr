@@ -16,7 +16,7 @@ missions:
     startups:
       - pass-sport
   - start: 2024-09-02
-    end: 2025-09-30
+    end: 2025-07-31
     status: independent
     startups:
       - mon-diagnostic-artificialisation

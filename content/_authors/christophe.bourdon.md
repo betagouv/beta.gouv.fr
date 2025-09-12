@@ -9,5 +9,11 @@ missions:
     employer: Direction des sports
     startups:
       - pass-sport
+  - start: 2025-09-10
+    end: 2025-10-10
+    status: independent
+    employer: PathTech
+    startups:
+      - pass-sport
 memberType: beta
 ---

@@ -11,7 +11,7 @@ missions:
     startups:
       - themis
   - start: 2024-03-25
-    end: 2025-05-31
+    end: 2025-12-31
     status: independent
     employer: ANCT
     startups:

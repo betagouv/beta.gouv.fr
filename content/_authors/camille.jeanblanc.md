@@ -10,7 +10,7 @@ missions:
       - gps
       - l-application-du-cej
   - start: 2024-06-03
-    end: 2026-01-01
+    end: 2025-04-30
     status: independent
     startups:
       - data-inclusion
