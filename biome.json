@@ -15,7 +15,13 @@
     "useIgnoreFile": true
   },
   "files": {
-    "ignore": ["api/*", "compteur_smiirl.json", "lozad.min.js", "fuse.js*"]
+    "ignore": [
+      "api/*",
+      "compteur_smiirl.json",
+      "lozad.min.js",
+      "fuse.js*",
+      "_layouts/*.json"
+    ]
   },
   "formatter": {
     "indentStyle": "space"
