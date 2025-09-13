@@ -89,6 +89,9 @@ collections:
     permalink: /startups/:title.html
   organisations:
   teams:
+  api_startups:
+    output: true
+    permalink: /startups/:title.json
 
 defaults:
   - scope:
@@ -130,3 +133,8 @@ defaults:
       path: "img/incubators"
     values:
       incubators_img: true
+  - scope:
+      path: ""
+      type: "api_startups"
+    values:
+      layout: api_startup
