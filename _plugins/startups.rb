@@ -8,6 +8,26 @@ module Jekyll
   module StartupsApiHelper
     module_function
 
+    def normalize_missions(raw)
+      return [] if raw.nil?
+
+      missions = raw
+      missions = missions.values if missions.is_a?(Hash)
+      missions = [missions] unless missions.is_a?(Array)
+      missions.compact
+    end
+
+    def to_date(obj)
+      return nil if obj.nil?
+      return obj if obj.is_a?(Date)
+
+      begin
+        Date.parse(obj.to_s)
+      rescue StandardError
+        nil
+      end
+    end
+
     def blank_bucket
       { 'active_members' => [], 'previous_members' => [], 'expired_members' => [] }
     end
@@ -19,8 +39,8 @@ module Jekyll
     end
 
     def build_membership_index(site)
-      result = {},
-               authors = site.collections['authors']
+      result = {}
+      authors = site.collections['authors']
       now = Date.today
 
       authors.docs.each do |author|
@@ -28,7 +48,11 @@ module Jekyll
 
         author['startups']&.each do |slug|
           result[slug] ||= blank_bucket
-          if author.data['missions']&.last&.[]('end')&.<= now
+
+          missions = normalize_missions(author['missions'])
+          last_end = to_date(missions.last&.[]('end'))
+
+          if last_end && last_end <= now
             result[slug]['expired_members'] << author_id
           else
             result[slug]['active_members'] << author_id
@@ -39,16 +63,19 @@ module Jekyll
           result[slug]['previous_members'] << author_id
         end
 
-        next unless author['missions']
-
-        author['missions'].each do |mission|
+        missions = normalize_missions(author['missions'])
+        missions.each do |mission|
           next unless mission['startups']
 
           mission['startups'].each do |slug|
             result[slug] ||= blank_bucket
-            if !mission['end'] || ((mission['start'] <= now) && (mission['end'] >= now))
+
+            start_date = to_date(mission['start'])
+            end_date   = to_date(mission['end'])
+
+            if end_date.nil? || (start_date && start_date <= now && end_date && end_date >= now)
               result[slug]['active_members'] << author_id
-            elsif mission['end'] <= now
+            elsif end_date && end_date <= now
               result[slug]['expired_members'] << author_id
             end
           end
@@ -70,26 +97,32 @@ module Jekyll
       authors.docs.each do |author|
         author_id = author.id.gsub('/authors/', '')
         if author['startups']&.include?(slug)
-          if author.data['missions']&.last&.[]('end')&.<= now
+          missions = normalize_missions(author['missions'])
+          last_end = to_date(missions.last&.[]('end'))
+          if last_end && last_end <= now
             bucket['expired_members'] << author_id
           else
             bucket['active_members'] << author_id
           end
         end
+
         bucket['previous_members'] << author_id if author['previously']&.include?(slug)
 
-        next unless author['missions']
-
-        author['missions'].each do |mission|
+        missions = normalize_missions(author['missions'])
+        missions.each do |mission|
           next unless mission['startups']&.include?(slug)
 
-          if !mission['end'] || ((mission['start'] <= now) && (mission['end'] >= now))
+          start_date = to_date(mission['start'])
+          end_date   = to_date(mission['end'])
+
+          if end_date.nil? || (start_date && start_date <= now && end_date && end_date >= now)
             bucket['active_members'] << author_id
-          elsif mission['end'] <= now
+          elsif end_date && end_date <= now
             bucket['expired_members'] << author_id
           end
         end
       end
+
       bucket['active_members'].uniq!
       bucket['previous_members'].uniq!
       bucket['expired_members'].uniq!
