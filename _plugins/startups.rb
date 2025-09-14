@@ -8,6 +8,18 @@ module Jekyll
   module StartupsApiHelper
     module_function
 
+    def raw_markdown_from(doc)
+      # lit le fichier tel quel (suivra le symlink)
+      raw = File.read(doc.path, mode: 'r:UTF-8')
+
+      # enlève le front matter si présent
+      if raw =~ Jekyll::Document::YAML_FRONT_MATTER_REGEXP
+        raw.sub(Jekyll::Document::YAML_FRONT_MATTER_REGEXP, '')
+      else
+        raw
+      end
+    end
+
     def normalize_missions(raw)
       return [] if raw.nil?
 
@@ -129,7 +141,7 @@ module Jekyll
       bucket
     end
 
-    def build_startup(site, slug, membership_index: nil)
+    def build_startup(site, slug, membership_index: nil, full: false)
       slug = normalize_key(slug)
       return nil if slug.nil? || slug.empty?
 
@@ -145,6 +157,27 @@ module Jekyll
       record['active_members'] = members['active_members']
       record['previous_members'] = members['previous_members']
       record['expired_members'] = members['expired_members']
+
+      if doc && full
+        extra_fields = %w[
+          mission
+          link
+          incubator
+          accessibility_status
+          stats_url
+          budget_url
+          impact_url
+          dashlord_url
+          redirect_from
+          usertypes
+          techno
+          mon_service_securise
+        ]
+        extra_fields.each do |field|
+          record[field] = doc[field]
+        end
+        record['content'] = raw_markdown_from(doc)
+      end
 
       record
     end
@@ -168,7 +201,6 @@ module Jekyll
   end
   # rubocop:enable Metrics/ModuleLength
 
-  # full index (legacy behavior)
   class RenderStartupsApi < Liquid::Tag
     def render(context)
       site = context.registers[:site]
@@ -177,22 +209,31 @@ module Jekyll
     end
   end
 
-  # single startup: {% render_startup_api ma-startup %}
   class RenderStartupApi < Liquid::Tag
     def initialize(tag_name, markup, tokens)
       super
-      @key = markup.to_s.strip
+      @markup = markup.to_s.strip
     end
 
     def render(context)
       site = context.registers[:site]
-      key = StartupsApiHelper.normalize_key(@key)
-      record = StartupsApiHelper.build_startup(site, key) # ad-hoc membership for one slug
+
+      key =
+        if @markup.empty?
+          (context['page']['slug'] ||
+           context['page']['id'].to_s.split('/').last).to_s
+        else
+          rendered = Liquid::Template.parse("{{ #{@markup} }}").render!(context).to_s.strip
+          rendered = @markup if rendered.empty?
+          rendered
+        end
+
+      key = StartupsApiHelper.normalize_key(key)
+      record = StartupsApiHelper.build_startup(site, key, full: true)
       JSON.pretty_generate(record || { 'error' => "startup not found: #{key}" })
     end
   end
 
-  # unchanged filter
   module FastFilter
     def fast_promotion(startups, promotion, sort_order = nil)
       laureates = startups.filter { |startup| startup.data.dig('fast', 'promotion') == promotion }

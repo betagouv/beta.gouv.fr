@@ -30,28 +30,24 @@ future: true
 
 lang: fr
 
-include: [
-  "_pages",
-  "_redirects",
-  "_headers",
-  ".well-known"
-]
-exclude: [
-  "README.md",
-  "CONTRIBUTING.md",
-  "lib",
-  "vendor",
-  "ci",
-  "Gemfile",
-  "Gemfile.lock",
-  "Makefile",
-  "docker-compose.yml",
-  "requirements.txt",
-  "Procfile",
-  "package.json",
-  "package-lock.json",
-  "spec"
-]
+include: ["_pages", "_redirects", "_headers", ".well-known"]
+exclude:
+  [
+    "README.md",
+    "CONTRIBUTING.md",
+    "lib",
+    "vendor",
+    "ci",
+    "Gemfile",
+    "Gemfile.lock",
+    "Makefile",
+    "docker-compose.yml",
+    "requirements.txt",
+    "Procfile",
+    "package.json",
+    "package-lock.json",
+    "spec",
+  ]
 
 empty_placeholder: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
 
@@ -68,8 +64,7 @@ excerpt_separator: <!--more-->
 
 # Collections
 
-collections_dir:
-  content
+collections_dir: content
 
 collections:
   authors:
@@ -91,7 +86,6 @@ collections:
   teams:
   api_startups:
     output: true
-    permalink: /startups/:title.json
 
 defaults:
   - scope:
@@ -138,3 +132,4 @@ defaults:
       type: "api_startups"
     values:
       layout: api_startup
+      permalink: /startups/:title.json
