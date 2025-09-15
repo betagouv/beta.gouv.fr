@@ -15,10 +15,17 @@ missions:
     end: 2025-12-31
     status: service
     employer: NUMA
+  - start: 2025-09-11
+    end: 2026-01-11
+    status: service
+    employer: Malt
+    startups:
+      - ecobalyse
 previously:
   - preuve-de-covoiturage
   - api-particulier
 competences:
   - Droit / Affaires juridiques
+  - Coaching
 ---
 Le droit c'est tordu.

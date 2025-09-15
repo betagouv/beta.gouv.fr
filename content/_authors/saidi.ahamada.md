@@ -5,7 +5,7 @@ domaine: Développement
 github: sfinx13
 missions:
   - start: 2022-08-08
-    end: 2025-09-16
+    end: 2025-12-09
     status: independent
     employer: Scopyleft
     startups:

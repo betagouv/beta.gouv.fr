@@ -1,6 +1,6 @@
 ---
 fullname: Pierre Ovtchinnikoff
-role: CPO
+role: CPO EIG
 domaine: Produit
 competences:
   - Croissance

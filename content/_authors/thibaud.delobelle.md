@@ -1,15 +1,16 @@
 ---
 fullname: Thibaud DELOBELLE
-role: Coach transition numérique
-domaine: Coaching
+role: Expert Grist / Coach transition numérique
+domaine: Développement
 link: https://oriatec.fr
 github: Thibaud-DT
 missions:
   - start: 2022-06-02
-    end: 2025-09-22
+    end: 2025-10-22
     status: independent
     employer: Numa
     startups:
       - eclauses-mma-culture
+competences: []
 ---
-Consultant en transition numérique
+Expert Grist / Consultant en transition numérique

@@ -16,7 +16,7 @@ missions:
       - uai_siret
       - voeux-apprentissage
   - start: 2025-05-20
-    end: 2025-09-01
+    end: 2026-01-01
     status: independent
     employer: Little Big Connection
     startups:
@@ -28,7 +28,7 @@ missions:
     startups:
       - mutafriches
   - start: 2025-08-22
-    end: 2025-11-22
+    end: 2026-01-01
     status: independent
     employer: LittleBigConnection
     startups:

@@ -9,40 +9,42 @@ thematiques:
 usertypes:
   - particulier
   - etat
-techno: []
-title: Fonds prévention argile
+techno:
+  - react
+  - next.js
+  - dsfr
+  - tailwindcss
+  - typescript
+title: Fonds Prévention Argile
 mission: Créer un parcours de dépôt et d'instruction de dossier fluide et en partie automatisable
 incubator: mtes
 sponsors:
   - /organisations/dgaln
   - /organisations/dgpr
 phases:
-  - name: investigation
-    comment: null
+  - name: construction
     start: 2025-08-22
-    end: null
 events:
   - name: product_launch
-    comment: ''
-    date: 2025-09-05
+    date: 2025-10-01
+link: ''
 ---
-[A COMPLETER]
-
 ## Contexte
 
-Quel est le contexte de ta Startup d'État ?
+L'État lance un fonds de prévention du phénomène de retrait-gonflement des argiles. Nous lançons une phase expérimentale de ce fonds sur 11 département et nous accompagnons la DHUP et la DGPR pour la mise en place de la plateforme de dépôt et d'instruction de dossier pour ce fonds de prévention. 
 
 ## Problème
 
-Les problèmes que vous avez identifiés ou vos hypothèses de problèmes ? Qui en souffre ? Quelles sont les conséquences de ces problèmes ?
+Les démarches pour les demandes de subvention sont souvent très fastidieuses et les délais sont très longs. 
+Nous allons essayer de proposer une autre solution de dépôt et d'instruction de dossier de subvention en utilisant les différentes données / outils à notre disposition pour proposer le parcours le plus fluide et optimisé possible.
 
 ## Solution
 
-Décris ta solution en quelques lignes ? Qui seront les bénéficiaires ?
+Grâce à Démarches simplifiées, Mon Devis Sans Oublis, La Base de Données Nationale des Bâtiments, le Référentiel National des Bâtiments, Mes aides rénos et toutes les APIs à notre disposition, nous allons proposer une plateforme permettant   : 
 
-## Objectifs à 6 mois
+- un parcours fluide et une récupération automatique d'un maximum de données nécessaire à instruire un dossier 
+- d'optimiser le parcours d'instruction en automatisant le maximum de vérifications nécessaires. 
+- D'apporter de la lutte anti-fraude par design. 
+- le pilotage de la politique publique grâce à une donnée structurée permettant une analyse fine des dossiers et des travaux de prévention 
 
-Objectif **d'usage** à 6 mois : quel usage chiffré visez-vous ?
-
-Objectif **d'impact** à 6 mois : quel impact chiffré vous permettra de dire que votre première phase de construction a été un succès ?
 
