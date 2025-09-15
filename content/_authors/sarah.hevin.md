@@ -30,5 +30,7 @@ competences:
   - Facilitation
   - UX writing
   - UXresearch
+teams:
+  - /teams/accelerema-animation
 ---
 Designer transverse pour l'incubateur du Cerema "Accélérema"

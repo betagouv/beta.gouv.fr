@@ -8,20 +8,15 @@ usertypes:
 title: JACEPAIR
 mission: 'faciliter la recherche juridique '
 incubator: alliance
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-05-15
-    end: null
   - name: construction
-    comment: null
     start: 2025-09-15
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-09-12
+link: ''
 ---
 ## Problème
 

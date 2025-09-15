@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2025-09-05
     end: 2025-12-31
-    employer: FabNum-MI      DTNUM SDID/BAOT
     status: service
+    employer: FabNum-MI      DTNUM SDID/BAOT
     startups:
       - reponse
-teams: []
 ---
