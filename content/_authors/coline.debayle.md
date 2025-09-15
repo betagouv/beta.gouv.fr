@@ -30,5 +30,6 @@ missions:
 memberType: dinum
 competences: []
 link: https://www.linkedin.com/in/coline-debayle-45855522/
+github: Colinedebayle
 ---
 Entrepreneur à impact depuis toujours !

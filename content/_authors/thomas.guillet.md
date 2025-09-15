@@ -39,5 +39,7 @@ previously:
 badges:
   - segur
 competences: []
+teams:
+  - /teams/accelerema-animation
 ---
 Tout faire pour les humain·e·s
