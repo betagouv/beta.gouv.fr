@@ -1,0 +1,16 @@
+---
+fullname: Edouard Foussier
+role: AI Engineer
+domaine: Développement
+competences:
+  - Machine learning
+  - Python
+missions:
+  - start: 2025-09-08
+    end: 2025-12-31
+    employer: Scopyleft
+    status: independent
+    startups:
+      - assistant-rh
+teams: []
+---

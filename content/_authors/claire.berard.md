@@ -13,8 +13,14 @@ missions:
     employer: MIOM / DTNUM
     startups:
       - juri-gpt
-  - start: 2025-01-14
-    end: 2025-10-09
+  - start: 2024-11-01
+    end: 2025-09-03
+    status: admin
+    employer: MI / Fabrique numérique DTNUM
+    startups:
+      - formation-civique
+  - start: 2025-09-04
+    end: 2025-12-11
     status: admin
     employer: MI / Fabrique numérique DTNUM
 memberType: autre
@@ -25,5 +31,6 @@ competences:
   - Administration Publique
 teams:
   - /teams/lab-mi
+github: clairebrrd
 ---
-Chargée de mission coaching agile et communication innovation et facilitatrice d'ateliers de design thinking à la DTNUM - MI
+Chargée de mission coaching agile et communication innovation - facilitatrice d'ateliers de design thinking à la DTNUM - MI

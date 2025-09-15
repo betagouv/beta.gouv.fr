@@ -10,16 +10,22 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-03-25
-    end: 2025-09-30
+    end: 2025-12-10
     status: independent
     employer: LBC
     startups:
       - mon-devis-sans-oublis
   - start: 2025-06-10
-    end: 2025-10-09
+    end: 2025-12-10
     status: independent
     employer: MALT
     startups:
       - plusfraichemaville
+  - start: 2025-09-12
+    end: 2025-12-12
+    status: independent
+    employer: LBC
+    startups:
+      - fonds-prevention-argile
 ---
 Product Designer avec un background marketing et +10 ans d’expérience.

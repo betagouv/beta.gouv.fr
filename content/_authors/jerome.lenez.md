@@ -5,7 +5,7 @@ role: Product Manager
 github: jlenez
 missions:
   - start: 2021-08-02
-    end: 2025-12-02
+    end: 2026-02-28
     status: independent
     employer: Ministères Sociaux
     startups:
