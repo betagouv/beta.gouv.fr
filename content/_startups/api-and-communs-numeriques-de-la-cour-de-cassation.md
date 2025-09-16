@@ -16,17 +16,13 @@ sponsors:
   - /organisations/cour-de-cassation
 phases:
   - name: investigation
-    comment: null
     start: 2025-03-03
-    end: null
   - name: construction
-    comment: null
     start: 2025-06-16
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-09-15
+link: ''
 ---
 ## Contexte
 

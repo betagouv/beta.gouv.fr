@@ -1,6 +1,6 @@
 ---
 fullname: Frédéric Vergez
-role: Développeur senior
+role: Tech|Lead|Dev
 domaine: Développement
 link: https://www.linkedin.com/in/fredericvergez/
 github: ikarius
@@ -29,6 +29,9 @@ competences:
   - PostgreSQL
   - Python
   - Metabase
+  - Docker
 ---
-Développeur / architecte ayant longuement pratiqué Java avant de passer à des choses plus sérieuses comme Clojure, Python ou Go.
-Appétence pour les base de données (Postgresql/Postgis et MongoDB), les systèmes de messaging et le traitement de données géographiques.
+Architecte | CTO | dev senior
+Dans cette ordre de préférence, ex swiss-knife, s'amuse :
+- beaucoup à monter des architectures SI, des équipes de dev, et créer des émulateurs et des jeux en Go | Zig | Clojure
+- un peu moins en Python | Django et à faire le fullstack, mais si c'est pour être utile... 

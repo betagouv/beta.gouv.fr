@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2025-09-10
     end: 2026-02-28
-    employer: Accenture
     status: service
+    employer: Accenture
     startups:
       - l-application-du-cej
-teams: []
 ---

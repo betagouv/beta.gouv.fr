@@ -17,6 +17,12 @@ missions:
     end: 2025-11-01
     status: independent
     employer: ut7
+  - start: 2025-06-16
+    end: 2025-12-31
+    status: independent
+    employer: /ut7
+    startups:
+      - portail-greffe-de-la-cour-de-cassation
 incubator: mission-apprentissage
 previously:
   - clara
