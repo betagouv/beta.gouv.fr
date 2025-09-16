@@ -2,11 +2,23 @@
 
 require 'json'
 require 'date'
+require 'liquid'
 
 module Jekyll
   # rubocop:disable Metrics/ModuleLength
   module StartupsApiHelper
     module_function
+
+    def screenshot_helper(site)
+      @screenshot_helper ||= begin
+        helper = Object.new.extend(Jekyll::ScreenshotFilter)
+        helper
+      end
+      # Mettre à jour le contexte à chaque appel (utile si `site` change entre pages)
+      ctx = Liquid::Context.new({}, {}, { site: site })
+      @screenshot_helper.instance_variable_set(:@context, ctx)
+      @screenshot_helper
+    end
 
     def raw_markdown_from(doc)
       # lit le fichier tel quel (suivra le symlink)
@@ -177,6 +189,7 @@ module Jekyll
           record[field] = doc[field]
         end
         record['content'] = raw_markdown_from(doc)
+        record['screenshot'] = screenshot_helper(site).screenshot(doc)
       end
 
       record
