@@ -24,6 +24,8 @@ phases:
     start: 2018-01-01
   - name: acceleration
     start: 2023-06-15
+  - name: success
+    start: 2024-06-15
 thematiques: []
 techno:
   - typescript

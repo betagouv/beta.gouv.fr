@@ -6,9 +6,9 @@ competences: []
 missions:
   - start: 2025-09-09
     end: 2025-10-27
-    employer: OCTO
     status: service
+    employer: OCTO
     startups:
       - plateforme-agriculteurs
-teams: []
+github: octheo
 ---

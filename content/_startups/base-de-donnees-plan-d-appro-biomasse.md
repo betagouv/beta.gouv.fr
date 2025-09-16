@@ -10,20 +10,21 @@ usertypes:
 title: Base de données plan d'appro' Biomasse
 mission: Faciliter la production d’avis solides, traçables et comparables sur les plans biomasse.
 incubator: agriculture
-sponsors: []
+sponsors:
+  - /organisations/agriculture
+  - /organisations/direction-regionale-de-l-agriculture-de-l-alimentation-et-de-la-foret-de-la-nouvelle-aquitaine
 phases:
   - name: investigation
-    comment: null
     start: 2025-07-01
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2025-10-17
+techno: []
+link: ''
 ---
 ## Contexte
 
-Aujourd’hui, les agents des CRB (Cellules régionales Biomasse) n'ont pas les moyens de produire des avis solides, traçables et comparables, car **ils manquent d’un socle commun d'information fiable** sur les projets.
+Aujourd’hui, les agents des CRB (Cellules Régionales Biomasse) n'ont pas les moyens de produire des avis solides, traçables et comparables, car **ils manquent d’un socle commun d'information fiable** sur les projets.
 
 Résultat : **instruction lente, expertise fragilisée, décisions atomisées, pression croissante.**
 

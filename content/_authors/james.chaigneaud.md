@@ -11,10 +11,9 @@ competences:
 missions:
   - start: 2025-09-09
     end: 2025-12-09
-    employer: Ruche Numérique
     status: admin
+    employer: Ruche Numérique
     startups:
       - demarches-simplifiees.fr
       - grist.numerique.gouv.fr
-teams: []
 ---
