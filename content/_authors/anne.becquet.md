@@ -23,7 +23,10 @@ missions:
     status: admin
     employer: DINUM
     startups:
+      - api-and-communs-numeriques-de-la-cour-de-cassation
       - catalogue-apprentissage
+      - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne
+      - portail-greffe-de-la-cour-de-cassation
       - uai_siret
       - voeux-apprentissage
   - start: 2025-01-01

@@ -12,7 +12,7 @@ competences:
   - Développement Backend
 missions:
   - start: 2025-08-26
-    end: 2025-11-27
+    end: 2025-12-15
     status: independent
     employer: ScopyLeft
 ---

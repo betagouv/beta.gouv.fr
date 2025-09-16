@@ -1,6 +1,6 @@
 ---
 fullname: Clara Dumont
-role: Product owner
+role: Directrice de produit - EIG
 domaine: Produit
 link: https://www.linkedin.com/in/clara-dumont-964894121/
 missions:

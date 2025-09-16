@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2022-06-29
-    end: 2025-04-29
+    end: 2026-12-28
     status: admin
     startups:
       - experts

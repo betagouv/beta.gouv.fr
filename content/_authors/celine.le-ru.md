@@ -35,6 +35,12 @@ missions:
     employer: OCTO
     startups:
       - reglementations.en.foret
+  - start: 2025-07-01
+    end: 2025-12-12
+    status: service
+    employer: OCTO
+    startups:
+      - base-de-donnees-plan-d-appro-biomasse
 competences:
   - Gestion de Produit
   - UX

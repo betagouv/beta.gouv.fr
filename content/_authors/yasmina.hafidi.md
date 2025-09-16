@@ -1,6 +1,6 @@
 ---
 fullname: Yasmina Hafidi
-role: 'Cheffe de projet-intrapreneuse '
+role: Cheffe de projet-intrapreneuse Start ups d’Etat et territoires
 domaine: Intraprenariat
 missions:
   - start: 2021-08-16
@@ -26,4 +26,5 @@ competences:
   - Administration Publique
 teams:
   - /teams/anct
+link: https://www.linkedin.com/feed/
 ---

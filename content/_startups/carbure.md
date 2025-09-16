@@ -18,8 +18,10 @@ stats: true
 contact: guillaume.caillou@developpement-durable.gouv.fr
 usertypes:
   - etat
+  - entreprise
 thematiques:
   - Écologie
+  - Transports
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 techno: []
 analyse_risques: true

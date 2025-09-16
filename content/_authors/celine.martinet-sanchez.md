@@ -22,6 +22,12 @@ missions:
     employer: malt
     startups:
       - les-emplois
+  - start: 2025-09-05
+    end: 2026-03-06
+    status: independent
+    employer: La zone
+    startups:
+      - docurba
 competences: []
 ---
 Développeuse curieuse. Amatrice de blagues pas drôles, de gens trop enthousiastes et d'idées folles.
