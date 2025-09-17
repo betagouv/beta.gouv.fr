@@ -8,6 +8,8 @@ missions:
     end: 2027-02-18
     status: admin
     employer: DINUM
+    startups:
+      - espace-membre
 memberType: beta
 teams:
   - /teams/dinum-incubateur

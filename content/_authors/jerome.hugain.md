@@ -6,7 +6,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-06-17
-    end: 2025-09-25
+    end: 2025-10-31
     status: admin
     employer: Fabrique du Numérique
 ---

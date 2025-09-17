@@ -15,24 +15,20 @@ sponsors:
   - /organisations/cour-de-cassation
 phases:
   - name: investigation
-    comment: null
     start: 2025-03-03
-    end: null
   - name: construction
-    comment: null
     start: 2025-06-16
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2025-06-12
+link: ''
 ---
 ## Contexte
 
 La Cour de cassation, en tant que plus haute juridiction de l'ordre judiciaire français, traite et produit un volume considérable de documents juridiques, notamment :
-●	Les arrêts rendus par la Cour (En 2023, la Cour de cassation a rendu 13 223 arrêts, et 8 498 ordonnances) ;
-●	Les travaux préparatoires – rapports du conseiller rapporteur (un rapport dans les 2/3 des pourvois), avis des avocats généraux (un avis dans environ 6.000 pourvois par an en matière pénale et dans les principales affaires en matière civile), avis et projet d’arrêts du conseiller rapporteur (ces documents, couverts par le secret, sont en nombre identique aux rapports) ;
-●	Les analyses et mémoires du Service de Documentation, des Études et du Rapport (SDER), qui comprennent à la fois les analyses juridiques proposées par la Cour pour son fonctionnement juridictionnel, mais également les études réalisées sur demandes des juridictions du fond et des divers partenaires.
+* Les arrêts rendus par la Cour (En 2023, la Cour de cassation a rendu 13 223 arrêts, et 8 498 ordonnances) ;
+* Les travaux préparatoires – rapports du conseiller rapporteur (un rapport dans les 2/3 des pourvois), avis des avocats généraux (un avis dans environ 6.000 pourvois par an en matière pénale et dans les principales affaires en matière civile), avis et projet d’arrêts du conseiller rapporteur (ces documents, couverts par le secret, sont en nombre identique aux rapports) ;
+* Les analyses et mémoires du Service de Documentation, des Études et du Rapport (SDER), qui comprennent à la fois les analyses juridiques proposées par la Cour pour son fonctionnement juridictionnel, mais également les études réalisées sur demandes des juridictions du fond et des divers partenaires.
 
 Sont également concernés tous les documents associés aux procédures liées à la formation des pourvois : demandes d’aide juridictionnelle, demandes de certificats de non pourvoi, etc.
 La Cour de cassation héberge également de nombreuses commissions juridictionnelles dont les données et documents de procédure sont également concernés.
@@ -63,10 +59,10 @@ Une revue des modèles existants va être réalisée afin d’harmoniser les pra
 
 ## Indicateurs d'impact
 Les indicateurs de succès incluent :
-●	Un accès plus rapide et facile aux dossiers, à la jurisprudence et aux travaux préparatoires de l’ensemble des affaires : réduction du temps d’affichage des dossiers sur le portail greffe (mesure du temps actuel comparée à celle du temps post mise en production).
-●	Le temps gagné sur la vérification des données et la saisie informatique par le personnel de la Cour de cassation. Pour un dossier de pourvoi, cet impact pourra être évalué à différents moments clés de son traitement, retenus en raison du rôle majeur de l’usage du produit numérique dans le travail réalisé (mesure du temps actuel comparée à celle réalisée post mise en production).
-●	Le temps gagné pour le traitement de demandes telles que la demande de certificat de non-pourvoi (objectif d’une division par un facteur moyen de 3 du temps actuel comparé à celui post mise en production). 
-●	Le temps gagné via de nouveaux mécanismes de recherche et d’assistance à l’analyse juridique ou via une aide à la décision pour des cas similaires (+ déploiement dans les TGI et CA).
-●	Un accès plus rapide et facile aux dossiers et à la jurisprudence : réduction du temps d’affichage des dossiers sur le portail greffe (mesure du temps actuel vs mesure du temps post mise en production).
-●	La réduction de la sollicitation du service informatique par le greffe (mesure du nombre d’interventions du service informatique pour débloquer des situations, évaluée à 12% des demandes en comparaison d’un nombre d'interventions post mise en production ciblé à moins de 5%).
+* Un accès plus rapide et facile aux dossiers, à la jurisprudence et aux travaux préparatoires de l’ensemble des affaires : réduction du temps d’affichage des dossiers sur le portail greffe (mesure du temps actuel comparée à celle du temps post mise en production).
+* Le temps gagné sur la vérification des données et la saisie informatique par le personnel de la Cour de cassation. Pour un dossier de pourvoi, cet impact pourra être évalué à différents moments clés de son traitement, retenus en raison du rôle majeur de l’usage du produit numérique dans le travail réalisé (mesure du temps actuel comparée à celle réalisée post mise en production).
+* Le temps gagné pour le traitement de demandes telles que la demande de certificat de non-pourvoi (objectif d’une division par un facteur moyen de 3 du temps actuel comparé à celui post mise en production). 
+* Le temps gagné via de nouveaux mécanismes de recherche et d’assistance à l’analyse juridique ou via une aide à la décision pour des cas similaires (+ déploiement dans les TGI et CA).
+* Un accès plus rapide et facile aux dossiers et à la jurisprudence : réduction du temps d’affichage des dossiers sur le portail greffe (mesure du temps actuel vs mesure du temps post mise en production).
+* La réduction de la sollicitation du service informatique par le greffe (mesure du nombre d’interventions du service informatique pour débloquer des situations, évaluée à 12% des demandes en comparaison d’un nombre d'interventions post mise en production ciblé à moins de 5%).
 
