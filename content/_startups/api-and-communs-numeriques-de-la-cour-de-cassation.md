@@ -16,17 +16,13 @@ sponsors:
   - /organisations/cour-de-cassation
 phases:
   - name: investigation
-    comment: null
     start: 2025-03-03
-    end: null
   - name: construction
-    comment: null
     start: 2025-06-16
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-09-15
+link: ''
 ---
 ## Contexte
 
@@ -40,19 +36,19 @@ La Cour de cassation sert à la fois des utilisateurs internes (magistrats, gref
 Les interfaces qui assurent actuellement ces fonctions sont le fruit de développements successifs exploitant des technologies hétérogènes, partiellement obsolètes et peu documentées. En conséquence, la technicité et le temps requis pour la maintenance de l’ensemble de ces interfaces n’a cessé de croître pour atteindre une masse critique venant largement obérer la capacité à innover de la juridiction pour mieux répondre aux besoins de ses usagers. Ces interfaces nécessitent en outre d'être adaptées aux standards et usages actuels des différents consommateurs d'une donnée structurée, enrichie et fiable.
 
 Aujourd'hui les difficultés suivantes sont observées :
-●	Décentralisation des données à exploiter :
+* Décentralisation des données à exploiter :
 L’ensemble des outils du système d‘information juridictionnel de la Cour de cassation consomment et/ou délivrent des données utiles aux traitements globaux de ses activités. La complexité technique et fonctionnelle des interfaces qui assurent ces échanges est proportionnelle à leur diversité et leurs spécificités. Le besoin d’adaptabilité requis par les processus juridictionnels et les différents acteurs de la Cour vient davantage complexifier la structure hétérogène du système.
-●	Evolutivité / Administration limitée :
+* Évolutivité / Administration limitée :
 Les données sont consommées et/ou restituées sous de multiples formats et modalités ce qui en rend l’administration et, parfois, l’usage, très complexe. 
 
 Plusieurs applications s’interfacent au système d'information juridictionnel de la Cour de cassation pour répondre à différents usages et ont été développées avec des temporalités différentes :
-•	COMAVO : Interface d’échange de données et de documents entre NOMOS et le SI de l’ordre des avocats aux conseils, « E-Pourvoi ».
-•	JURINET : Publication et recherche de décisions (Cour de cassation) et de documents d’instruction préparatoire accessibles pour les besoins de leur activité juridictionnelle aux magistrats de l’ordre judiciaire et de l’ordre administratif.
-•	JURICA : Publication et recherche des décisions des cours d’appel en matière civile accessible pour les besoins de leur activité juridictionnelle aux magistrats de l’ordre judiciaire et de l’ordre administratif.
-•	JUDILIBRE : Publication et recherche de décisions pseudonymisées de l’ensemble des juridictions judiciaires accessible au public et référencée en données ouvertes (open data).
-•	SITE INTERNET DE LA COUR : plusieurs fonctionnalités sont offertes aux utilisateurs justiciables, dont la possibilité d’accéder au statut d’un dossier (pour un justiciable donné), d’effectuer une demande d’aide juridictionnelle, de demander la production d’un certificat de non pourvoi ou de consulter le calendrier des audiences civiles et pénales.
-•	Plateforme hubmail de Docaposte/Sefas : service d’imprimante virtuelle permettant la rematérialisation et l’envoi postal de courriers de procédure.
-•	BOBI (SAP BusinessObject business intelligence) : infocentre offrant une liste d’états paramétrés pour être librement exécutés par les utilisateurs avec quelques variables.
+* COMAVO : Interface d’échange de données et de documents entre NOMOS et le SI de l’ordre des avocats aux conseils, « E-Pourvoi ».
+* JURINET : Publication et recherche de décisions (Cour de cassation) et de documents d’instruction préparatoire accessibles pour les besoins de leur activité juridictionnelle aux magistrats de l’ordre judiciaire et de l’ordre administratif.
+* JURICA : Publication et recherche des décisions des cours d’appel en matière civile accessible pour les besoins de leur activité juridictionnelle aux magistrats de l’ordre judiciaire et de l’ordre administratif.
+* JUDILIBRE : Publication et recherche de décisions pseudonymisées de l’ensemble des juridictions judiciaires accessible au public et référencée en données ouvertes (open data).
+* SITE INTERNET DE LA COUR : plusieurs fonctionnalités sont offertes aux utilisateurs justiciables, dont la possibilité d’accéder au statut d’un dossier (pour un justiciable donné), d’effectuer une demande d’aide juridictionnelle, de demander la production d’un certificat de non pourvoi ou de consulter le calendrier des audiences civiles et pénales.
+* Plateforme hubmail de Docaposte/Sefas : service d’imprimante virtuelle permettant la rematérialisation et l’envoi postal de courriers de procédure.
+* BOBI (SAP BusinessObject business intelligence) : infocentre offrant une liste d’états paramétrés pour être librement exécutés par les utilisateurs avec quelques variables.
 
 Cette liste n’est pas exhaustive et la diversité de ces outils illustre la complexité que représente la gestion des interfaces au sein du SI juridictionnel de la Cour de cassation.
 Le produit décrit dans cette fiche devra permettre de considérablement réduire la complexité que représente la maintenance de ces interfaces tout en permettant de diversifier, fiabiliser et enrichir les données échangées.
@@ -73,14 +69,14 @@ Enfin, en troisième et dernier lieu, les travaux facilitant le pilotage de l'ac
 **Indicateurs d'impact**
 
 Ces chantiers auront un impact avéré s’ils permettent aux utilisateurs :
-●	de gagner du temps dans la conception ou l’amélioration de leurs applications interfacées au bénéfice de leurs utilisateurs finaux communs (mesure par questionnaire sur le temps gagné à utiliser l’API de la Cour de cassation par rapport au temps de recherche d’informations, ou de collecte et maintenance des bases de données en propre) ;
-●	de consommer des données qui ne leur étaient jusque-là pas accessibles pour concevoir de nouvelles applications et services propres à aider les acteurs de l'écosystème : requérants, avocats et juridictions (mesure par questionnaire sur les usages de l’API) ;
-●	d'améliorer l’indexation et la recherche de données et documents (mesure des temps passés actuels vs temps passés post mise en production) ;
-●	de mesurer la pertinence des résultats remontés via analyse : taux de pertinence actuels vs taux de pertinence des résultats futurs.
+* de gagner du temps dans la conception ou l’amélioration de leurs applications interfacées au bénéfice de leurs utilisateurs finaux communs (mesure par questionnaire sur le temps gagné à utiliser l’API de la Cour de cassation par rapport au temps de recherche d’informations, ou de collecte et maintenance des bases de données en propre) ;
+* de consommer des données qui ne leur étaient jusque-là pas accessibles pour concevoir de nouvelles applications et services propres à aider les acteurs de l'écosystème : requérants, avocats et juridictions (mesure par questionnaire sur les usages de l’API) ;
+* d'améliorer l’indexation et la recherche de données et documents (mesure des temps passés actuels vs temps passés post mise en production) ;
+* de mesurer la pertinence des résultats remontés via analyse : taux de pertinence actuels vs taux de pertinence des résultats futurs.
 
 Elle aura un impact supplémentaire si elle est utilisée en masse :
-●	Nombre d’accès à l’API ;
-●	Nombre d’utilisateurs actifs ;
-●	Statistiques du statut de l’API ;
-●	Nombre d’accès à la documentation ;
-●	Nombre d’exports de jeux de données proposés par l’API.
+* Nombre d’accès à l’API ;
+* Nombre d’utilisateurs actifs ;
+* Statistiques du statut de l’API ;
+* Nombre d’accès à la documentation ;
+* Nombre d’exports de jeux de données proposés par l’API.

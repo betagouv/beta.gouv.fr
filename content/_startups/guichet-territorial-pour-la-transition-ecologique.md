@@ -19,7 +19,7 @@ sponsors:
   - /organisations/dinum
   - /organisations/sgpe
 phases:
-  - name: investigation
+  - name: acceleration
     start: 2024-12-01
 events:
   - name: product_launch
@@ -113,6 +113,13 @@ Ces projets peuvent être portés par des collectivités territoriales ou des OP
 - publier ou consolider son code en **open source**
 - **amorcer son déploiement au national** pour être utilisé par d'autres territoires.
 
+---
+
+## Quels sont les produits accompagnés par le Guichet territorial FINDPE ? 
+
+Produits en accélération (ayant validé leur phase d'investigation) : 
+
+- **TerriSTORY®**: il s'agit d'une plateforme numérique open source conçue pour accompagner les territoires dans leur transition écologique. Portée par AURA-EE (Agence régionale de l'énergie et de l'environnement Auvergne-Rhône-Alpes), elle permet aux collectivités de diagnostiquer leur situation, construire des trajectoires de transition et piloter les impacts de leurs politiques locales. TerriSTORY® met à disposition un socle commun de données fiables et multithématiques, de simulateurs et de tableaux de bord, pour faciliter une action publique plus stratégique, transversale et partagée.
 
 ---
 

@@ -25,6 +25,9 @@ missions:
     status: independent
     startups:
       - zero-logement-vacant
+  - start: 2025-09-16
+    end: 2025-12-16
+    status: independent
 memberType: beta
 link: https://www.linkedin.com/in/julien-recasens/
 competences:
