@@ -15,17 +15,13 @@ sponsors:
   - /organisations/cour-de-cassation
 phases:
   - name: investigation
-    comment: null
     start: 2025-03-03
-    end: null
   - name: construction
-    comment: null
     start: 2025-06-16
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2025-06-12
+link: ''
 ---
 ## Contexte
 
@@ -39,7 +35,7 @@ La Cour de cassation tient, en moyenne, une cinquantaine d’audiences par semai
 
 ## Problème
 
-LConcernant la gestion des dossiers :
+Concernant la gestion des dossiers :
 
 Aucune erreur ne doit être possible dans le respect des diligences, des formalités et des délais (logique du zéro défaut), afin que les décisions puissent être rendues en qualité, au terme d’une procédure respectant les délais impartis.   
 Les natures particulières et spécifiques des différentes procédures dont la Cour de cassation a la charge sont complexes et très spécifiques. Actuellement, les nombreuses vérifications d’intégrité et de cohérence alourdissent la charge des personnels de la Cour, à commencer par le greffe, avec pour effets d’allonger les délais de traitement et d’accroître les stocks d’affaires en cours, ce qui amplifie les problèmes rencontrés (i.e. la Cour a connu jusqu’à présent un accroissement tendanciel de la durée des affaires).
@@ -74,9 +70,9 @@ De plus, l’outil doit être capable d’identifier les éléments essentiels d
 ## Stratégie
 
 Le portail vise à améliorer la gestion des dossiers par les personnels de la Cour de cassation. Les indicateurs de succès seront réellement connus à l’issue de l’investigation. Néanmoins, nous estimons qu’ils pourraient inclure : 
-●	Une nette accélération des temps de traitements des dossiers par le greffe.
-●	Une ouverture à la réorganisation de l’activité du greffe sur son cœur d’exercice.
-●	Une amélioration de la fiabilité de l’état du stock et des circuits procéduraux exécutés (procédures au fond, procédures particulières, audiencement, gestion des pièces, gestion des décisions).
+* Une nette accélération des temps de traitements des dossiers par le greffe.
+* Une ouverture à la réorganisation de l’activité du greffe sur son cœur d’exercice.
+* Une amélioration de la fiabilité de l’état du stock et des circuits procéduraux exécutés (procédures au fond, procédures particulières, audiencement, gestion des pièces, gestion des décisions).
 
 Ce portail permet également la création des audiences (infos, compositions, dossiers affectés) et la consultation des données nécessaires à leur préparation.
 Outre la gestion du planning d’audiences, l’outil permet d’adapter les compositions de la formation qui juge, prenant en compte tous les cas procéduraux particuliers, et les changements de composition des formations de jugement. L’outil analyse les informations essentielles du dossier pour suggérer des dossiers à des types d’audiences et des types de formation qui répondent au mieux à la problématique juridique instruite.
@@ -85,9 +81,9 @@ Enfin, les fonctionnalités du produit permettant de gérer le rôle d’audienc
 ## Indicateurs d'impact
 Le portail vise à améliorer la gestion des dossiers par les personnels de la Cour de cassation. Les indicateurs de succès seront précisément connus à l’issue de l’investigation.
 Néanmoins, nous estimons qu’ils pourraient inclure :
-●	Le temps gagné sur la vérification des données et la saisie informatique par le personnel de la Cour de cassation. Pour un dossier de pourvoi, cet impact pourra être évalué à différents moments clés de son traitement, retenus en raison du rôle majeur de l’usage du produit numérique dans le travail réalisé (mesure du temps actuel comparée à celle réalisée post mise en production).
-●	Le temps gagné pour le traitement de demandes telles que la demande de certificat de non-pourvoi (objectif d’une division par un facteur moyen de 3 du temps actuel comparé à celui post mise en production). 
-●	Le temps gagné via de nouveaux mécanismes de recherche et d’assistance à l’analyse juridique ou via une aide à la décision pour des cas similaires (+ déploiement dans les tribunaux de grande instance et cours d’appel).
-●	Un accès plus rapide et facile aux dossiers : réduction du temps d’affichage des dossiers sur le portail greffe (mesure du temps actuel comparée à la mesure du temps post mise en production ; nombre de clics par diligence).
-●	La réduction de la sollicitation du service informatique par le greffe (nombre d’interventions du service informatique pour débloquer des situations avant et après mise en production).
+* Le temps gagné sur la vérification des données et la saisie informatique par le personnel de la Cour de cassation. Pour un dossier de pourvoi, cet impact pourra être évalué à différents moments clés de son traitement, retenus en raison du rôle majeur de l’usage du produit numérique dans le travail réalisé (mesure du temps actuel comparée à celle réalisée post mise en production).
+* Le temps gagné pour le traitement de demandes telles que la demande de certificat de non-pourvoi (objectif d’une division par un facteur moyen de 3 du temps actuel comparé à celui post mise en production). 
+* Le temps gagné via de nouveaux mécanismes de recherche et d’assistance à l’analyse juridique ou via une aide à la décision pour des cas similaires (+ déploiement dans les tribunaux de grande instance et cours d’appel).
+* Un accès plus rapide et facile aux dossiers : réduction du temps d’affichage des dossiers sur le portail greffe (mesure du temps actuel comparée à la mesure du temps post mise en production ; nombre de clics par diligence).
+* La réduction de la sollicitation du service informatique par le greffe (nombre d’interventions du service informatique pour débloquer des situations avant et après mise en production).
 

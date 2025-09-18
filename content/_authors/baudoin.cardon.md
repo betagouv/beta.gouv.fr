@@ -7,11 +7,11 @@ competences:
   - Croissance
 missions:
   - start: 2024-11-29
-    end: 2025-03-31
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:
-      - envergo
+      - bambin
 ---
 Création et application de plans d’action visant à intégrer des pratiques durables dans votre modèle d'affaires, garantissant ainsi un impact positif sur l’environnement tout en stimulant votre croissance !
 

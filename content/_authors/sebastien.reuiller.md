@@ -19,7 +19,7 @@ missions:
     startups:
       - cnr
   - start: 2023-06-26
-    end: 2025-09-30
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:
