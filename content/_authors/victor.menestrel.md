@@ -11,10 +11,9 @@ competences:
 missions:
   - start: 2025-09-15
     end: 2025-12-31
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - datalma
-teams: []
 ---
 Ingénieur passionné par l'IA et la Data.

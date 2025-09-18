@@ -8,7 +8,7 @@ thematiques:
 usertypes:
   - etat
 title: Base de données plan d'appro' Biomasse
-mission: Faciliter la production d’avis solides, traçables et comparables sur les plans biomasse.
+mission: Faciliter la production d’avis solides, traçables et comparables sur les plans d'approvisionnement biomasse
 incubator: agriculture
 sponsors:
   - /organisations/agriculture
@@ -24,29 +24,38 @@ link: ''
 ---
 ## Contexte
 
-Aujourd’hui, les agents des CRB (Cellules Régionales Biomasse) n'ont pas les moyens de produire des avis solides, traçables et comparables, car **ils manquent d’un socle commun d'information fiable** sur les projets.
+La biomasse se définit en écologie comme la masse totale d'organismes vivants dans un lieu déterminé à un moment donné. Pour l'humanité, ce sont des ressources présentes dans la nature mobilisées depuis toujours pour différents usages indispensables : alimentation, énergie, matériau, fertilisation des sols. Cela intègre des ressources aussi diverses que le bois, les cultures, les déchets ainsi que tous les co-produits liés à ces filières.
+
+L'usage énergétique de la biomasse est particulièrement mis en avant ces dernières années, car celle-ci est considérée comme une source d'énergie renouvelable, locale, alternative aux énergies fossiles, pour autant que le principe de la durabilité des ressources naturelles soit respecté. Mais les autres usages de la biomasse ne doivent pas être occultés car ils relèvent directement des enjeux de souveraineté alimentaire, de séquestration carbone et de préservation de la biodiversité.
+En 2024, le secrétariat général à la planification écologique indiquait : *"Nos ressources en biomasses sont multiples et renouvelables, mais contraintes en quantité et sont essentielles à la transition écologique sous de multiples formes, pouvant conduire à des conflits d’usage."*
+
+En outre, il faut tenir compte d'un contexte climatique incertain qui impacte l'agriculture et la forêt ainsi que de la sensibilité sociétale sur l'exploitation des ressources naturelles.
+
+L'Etat français déploie différents dispositifs d'aides publiques promouvant l'utilisation de la biomasse à usage énergétique et matériau. Il est demandé aux porteurs de projet d'inclure dans leur dossier un plan d'approvisionnement, décrivant quelles ressources ils prévoient de mobiliser et dans quelles quantités.
+Pour étudier la faisabilité de ces plans d'approvisionnement, l'Etat a créé les Cellules Régionales Biomasse (CRB), groupe de travail inter-administration intégrant l'ADEME, chargées à partir de leur analyse de proposer un avis au Préfet de région.
+
+Aujourd’hui, les agents des CRB peinent à produire des avis solides, traçables et comparables, car **ils manquent d’un socle commun d'information fiable** sur les projets.
 
 Résultat : **instruction lente, expertise fragilisée, décisions atomisées, pression croissante.**
 
 ## Problème
 
-Les membres des Cellules Régionales Biomasse peinent à instruire les plans d’approvisionnement de façon fluide, fiable et équitable, car les données sont éparpillées, imprécises, et inaccessibles dans le temps.
-
 ⚠️ **Quatre fragilités majeures menacent la crédibilité des analyses CRB et les avis qui en découlent :**
 
-- ⚖️ **Administratif** : procédure peu encadrée, formalisme incomplet des avis, absence de traçabilité des réserves et des justifications → fragilité en cas de contestation, perte de l’historique, risque de contentieux.
-- ⚡**Technique :** niveau variable de fiabilité des éléments de base pour l’analyse, pas toujours sourcé. Approches différentes selon les CRB → inégalités de traitement des projets candidats au niveau national
-- 🌍 **Impact sur les ressources et les filières** : aucune vision cumulative ou synthétique → impossible de mesurer l’effet global des projets (pas de vision exhaustive, conflits d’usage, zones de tension), surtout dans le cas de projets inter-régionaux. Manque de visibilité également préjudiciable pour d’autres politiques où les services de l’Etat sont impliqués.
-- ⏳ **Opérationnel** : un temps considérable perdu à reconstituer les dossiers, relancer les porteurs, recalculer les volumes, ou organiser le travail en inter-région → charge qui ralentit les travaux sur la transition énergétique, travail fastidieux, perte de sens pour les agents.
+- ⚖️ **Administratif** : procédure peu encadrée, absence de traçabilité des réserves et des justifications → fragilité en cas de contestation, perte de l’historique, risque de contentieux.
+- ⚡**Technique :** niveau variable de fiabilité des éléments de base pour l’analyse. Approches différentes selon les CRB → inégalités de traitement des projets candidats au niveau national
+- 🌍 **Impact sur les ressources et les filières** : aucune vision cumulative ou synthétique → difficile de mesurer l’effet global des projets  surtout dans le cas de projets inter-régionaux. Manque de visibilité également préjudiciable pour d’autres politiques de l'Etat.
+- ⏳ **Opérationnel** : un temps considérable perdu à reconstituer les dossiers, des historiques ou organiser le travail en inter-région → charge qui ralentit les travaux sur la transition énergétique, travail fastidieux, perte de sens pour les agents.
 
 Ces difficultés ne sont pas théoriques : elles alimentent des controverses publiques, où la parole de l’État a été fragilisée.
 
 
 ## Solution
 
-Notre réponse n’est pas de “créer un outil” mais de **permettre aux CRB de remplir plus facilement leurs missions** :
+Notre objectif est d'aider les CRB à remplir plus facilement leurs missions
+:
 
-- compléter les dispositifs de suivi des ressources biomasse et mieux anticiper les tensions sur la ressource,
+- compléter les dispositifs de suivi des ressources biomasse en permettant de mobiliser plus facilement les informations contenues dans les plans d'approvisionnement et ainsi mieux anticiper les tensions sur les ressources,
 - fiabiliser les analyses et proposition d’avis des CRB,
 - et renforcer la crédibilité des politiques publiques.
 

@@ -16,12 +16,12 @@ missions:
     startups:
       - seves
   - start: 2025-07-18
-    end: 2025-10-18
+    end: 2025-12-31
     status: independent
     employer: Scopyleft
     startups:
       - ma-cantine-egalim
-link: https://www.linkedin.com/in/angelique-bidault/
+link: http://angi-design.fr/
 competences:
   - UX
   - Product design

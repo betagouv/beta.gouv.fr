@@ -4,9 +4,9 @@ role: Développeur principal
 domaine: Développement
 missions:
   - start: 2020-10-12
-    end: 2020-12-31
+    end: 2025-12-22
     status: independent
     employer: Octo
     startups:
-      - france-numerique-ensemble
+      - depenses-eclairees
 ---

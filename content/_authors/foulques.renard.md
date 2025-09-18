@@ -1,6 +1,6 @@
 ---
 fullname: Foulques Renard
-role: Directeur de projet sécurisation des budgets
+role: Responsable de produit
 domaine: Produit
 link: https://www.linkedin.com/in/foulques-renard-17ab65164/
 competences:

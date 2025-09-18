@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-05-01
     end: 2026-05-30
-    employer: ANCT
     status: admin
+    employer: ANCT
     startups:
       - guichet-territorial-pour-la-transition-ecologique
-teams: []
 ---
