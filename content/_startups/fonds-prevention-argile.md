@@ -44,7 +44,8 @@ Grâce à Démarches simplifiées, Mon Devis Sans Oublis, La Base de Données Na
 
 - un parcours fluide et une récupération automatique d'un maximum de données nécessaire à instruire un dossier 
 - d'optimiser le parcours d'instruction en automatisant le maximum de vérifications nécessaires. 
-- D'apporter de la lutte anti-fraude par design. 
+
+
 - le pilotage de la politique publique grâce à une donnée structurée permettant une analyse fine des dossiers et des travaux de prévention 
 
 

@@ -15,4 +15,6 @@ missions:
     end: 2025-12-15
     status: independent
     employer: ScopyLeft
+    startups:
+      - espace-membre
 ---
