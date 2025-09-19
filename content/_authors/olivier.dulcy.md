@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2025-09-18
     end: 2026-03-17
-    employer: Scopyleft
     status: independent
+    employer: Scopyleft
     startups:
       - document-ia
-teams: []
 ---
