@@ -13,7 +13,7 @@ missions:
       - moncomptepro
       - suite-numerique
   - start: 2024-09-16
-    end: 2025-09-29
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:

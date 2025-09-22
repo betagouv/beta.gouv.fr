@@ -27,11 +27,17 @@ missions:
     startups:
       - dora
   - start: 2025-02-20
-    end: 2025-10-21
+    end: 2025-09-30
     status: independent
     employer: Malt
     startups:
       - aquaculteurs.marins
+  - start: 2025-09-08
+    end: 2026-03-09
+    status: independent
+    employer: Pathtech
+    startups:
+      - ecobalyse
 link: https://www.linkedin.com/in/cedric-rossi/
 competences: []
 ---

@@ -60,6 +60,17 @@ impact_url: https://candidat.francetravail.fr/simulation-ressources-formation/st
 ---
 > ⚠️ Il est également disponible dans le guide des simulateurs sur le site France Travail
 
+**Impact**
+
+💡 160 000 simulations déjà réalisées depuis le lancement.
+
+💡 +10 fois plus d’actions en moyenne dans le parcours de formation, allant de l'inscription à des formations à la réalisation d’immersions après avoir utilisé le simulateur.
+
+💡 30 à 40 minutes gagnées en moyenne par accompagnement, permettant aux conseillers de se concentrer sur leur cœur de mission.
+
+💡 Des échanges plus fluides, plus clairs et plus concrets avec les usagers, favorisant la sécurisation de leur parcours
+
+
 **Contexte**
 
 La formation professionnelle des demandeurs d’emploi est un enjeu stratégique pour France Travail.
@@ -83,12 +94,12 @@ Un simulateur permettant d'estimer l'impact d'une rémunération de formation su
 
 Pour obtenir une estimation, il suffit de remplir le formulaire du simulateur et vous obtiendrez instantanément une projection détaillée des ressources du bénéficiaires s'il rentre en formation.
 
-Ce simulateur permet d'accéder à 3 niveaux de simulation selon le degré de maturité du projet de formation:
+Le simulateur permet d'accéder à 3 niveaux de simulation selon le degré de maturité du projet de formation:
 * une estimation simplifiée du montant de rémunération uniquement
 * une estimation détaillée du montant de la rémunération de formation et des allocations 
 *  une estimation personnalisée du montant de la rémunération de formation, des allocations et des aides pour un projet de formation défini
 
-Pour les simulations détaillées et simplifiées, le résultat indiquera jusqu'à 10 aides et allocations selon la situation du foyer (RSA, ASS, Prime d'activité, Aide au logement, aide à la mobilité ....)
+Pour les simulations détaillées et simplifiées, le résultat indiquera jusqu'à 10 aides et allocations selon la situation du foyer (ARE, RSA, ASS, Prime d'activité, Aide au logement, aide à la mobilité ....)
 
  Il y a également la possibilité en fin de simulation d'être redirigé vers d'autres services en lien avec le projet de formation ( Trouver ma formation, Immersion Facilitée, Mes Aides, Mes évènements Emploi, Mon enfant.fr, le site de la Région et Métier Scope)
 
@@ -104,12 +115,12 @@ Dans le cadre de l'expérimentation RSA, le service a tout d'abord été ouvert 
 
 Depuis le 15/04/2024, Estime Formation est directement accessible aux allocataires depuis le guide des simulateurs. En complément de l'ouverture aux bénéficiaires du RSA, de l'ASS et les personnes sans ressource qui ont un projet de formation, le simulateur permet également de se projeter financièrement lorsqu'on a pas de projet de formation.
 Pour les bénéficiaires de l'ACEJ, ils peuvent accéder à la simulation leur permettant d'obtenir le moment de leur rémunération.
-
-Nous envisageons d'ouvrir le simulateur pour les formations à temps partiel et aux bénéficiaires de l'ARE ainsi que les personnes percevant déjà la prime d'activité.
+Depuis Septembre 2025, les bénéficiaires de l'ARE ont la possibilité d'effectuer une simulation.
+Nous envisageons d'ouvrir le simulateur pour les formations à temps partiel et pour les personnes percevant déjà la prime d'activité.
 
 Pour les autres publics, ils ont accès à une page d'information spécifique selon leur situation.
 
-*Ouvert actuellement sur les 9 régions :*
+*Ouvert actuellement sur les 14 régions :*
 - Haut de France
 - Pays de la Loire
 - Région Sud PACA
@@ -123,6 +134,6 @@ Pour les autres publics, ils ont accès à une page d'information spécifique se
 - ARA
 - La Réunion
 - Ile de France
-A venir La Bretagne
+- Bretagne
 
-Durant l'année 2025, nous envisageons d'ouvrir à l'ensemble de la Métropole et aux Départements et Régions d'Outre-Mer.
+Premier semestre 2026, nous envisageons d'ouvrir à l'ensemble des Départements et Régions d'Outre-Mer.

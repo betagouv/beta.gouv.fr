@@ -13,75 +13,88 @@ phases:
   - name: investigation
     start: 2025-01-22
   - name: construction
-    start: 2025-05-13
+    start: 2025-09-16
 events:
   - name: product_launch
     date: 2025-01-22
   - name: committee
     date: 2025-05-12
     comment: 'de fin d''investigation // ✅ GO pour l''expérimentation '
+  - name: committee
+    date: 2025-09-16
+    comment: ✅ Go pour la construction
 usertypes:
   - entreprise
 techno: []
 link: ''
 ---
-## Contexte 🔎  
-**Profilence** est une solution nationale, simple et collaborative, qui optimise la **promotion des profils des demandeurs d’emploi** pour favoriser leur insertion professionnelle.  
+### 🚀 Contexte
 
-Elle propose une pratique **harmonisée à l’échelle du réseau France Travail et du Réseau pour l’Emploi (RPE)**, afin de faciliter l’accès au **marché caché de l’emploi** (environ 70 % des opportunités).  
+Profilence est une solution nationale, simple et collaborative, qui optimise la promotion des profils des demandeurs d’emploi afin de favoriser leur insertion professionnelle.  
 
----
-## Problème 🚨  
-Aujourd’hui, **1,9 million** de demandeurs d’emploi ont autorisé la promotion de leur profil, permettant à leur conseiller de transmettre leur CV à une entreprise même sans offre publiée.  
-👉 Pourtant, seuls **45 000 profils** ont été promus au moins une fois, soit **2 % des profils autorisés** et seulement **0,8 % des inscrits**.  
-
-Ce faible volume révèle plusieurs freins :  
-- 🧩 **Outils éclatés et complexes** : 3 logiciels à mobiliser, sans interconnexion.  
-- 📉 **Pas de traçabilité ni de mesure** : impossible de suivre les promotions ou d’en évaluer l’impact.  
-- 🗂️ **Pratiques locales non uniformisées** : tableaux blancs, pochettes, bacs à profils… utiles mais isolés et sans vision partagée.  
+Elle propose une pratique harmonisée à l’échelle du réseau **France Travail** et du **Réseau pour l’Emploi (RPE)**, incluant **Cap Emploi**, pour faciliter l’accès au marché caché de l’emploi (environ 70 % des opportunités).
 
 ---
 
-## Objectifs 🎯  
-- 🔄 **Centraliser** et harmoniser la promotion de profil.  
-- ⏱️ **Simplifier** le parcours pour réduire le temps de traitement.  
-- 📊 **Donner de la visibilité** : suivi structuré des profils transmis.  
-- 🚀 **Renforcer l’efficacité** de la mise en relation avec les entreprises.  
+### ❌ Le problème
+
+Aujourd’hui :
+
+- 1,9 million de demandeurs d’emploi ont autorisé la promotion de leur profil.  
+- Mais seuls **45 000 profils** ont été promus au moins une fois (~2 %), soit **0,8 %** des inscrits.  
+- Les freins identifiés : outils disparates et peu interconnectés, absence de traçabilité et de visibilité, pratiques locales non uniformisées (tableaux papier, classements manuels, etc.).
 
 ---
 
-## Enseignements de la phase d’investigation 🧠  
-Les entretiens avec des conseillers France Travail ont mis en évidence :  
-- 🧱 Un processus trop long : jusqu’à **45 étapes**, ressaisies et pertes d’infos.  
-- 🧭 Une attente forte d’un **outil unique et centralisé**.  
-- 👀 Un **manque de suivi structuré** : pas de visibilité sur les promotions ni leur statut.  
-- 🤷 Peu de retours sur l’impact : difficile de savoir si une promotion aboutit à un contact ou une embauche.  
-- 🛠️ Des pratiques bricolées mais révélatrices (tableaux, bacs papier…), preuve de l’envie d’agir mais sans cadre commun.  
+### 🎯 Nos objectifs
+
+- Centraliser et harmoniser la promotion des profils.  
+- Réduire le temps de traitement et simplifier le parcours pour les conseillers.  
+- Assurer la traçabilité des promotions, avec des indicateurs de suivi et de mesure d’impact.  
+- Renforcer la mise en relation efficace avec les entreprises.
 
 ---
 
-## Bilan de l’expérimentation (phase de pré-construction) 🧪  
-L’expérimentation a été menée dans **3 agences France Travail pilotes** ainsi qu’en **Mission Locale** (partenaire du RPE) avec uniquement un formulaire et un tableau excel partagé.
+### 🔎 Ce que nous avons appris
 
-### ✅ Points positifs  
-- **Adoption rapide et massive** des conseillers : jusqu’à 78 % d’utilisateurs (67 % actifs en Mission Locale).  
-- **Un volume de promotions supérieur aux pratiques habituelles** : 113 promotions réalisées, soit **+136 % vs agences témoins**.  
-- **Un impact concret sur la relation entreprises** : 8 recrutements, 6 profils conservés, et **40 % de retours employeurs** (45/113), avec un délai moyen de 12 jours.  
-
-### ⚠️ Points à améliorer  
-- **Obtenir plus de retours employeurs** : 60 à 80 % des promotions restent sans réponse.  
-- **Mieux transformer les promotions en recrutements** : taux de conversion de 6,5 % (recrutements seuls) à 11,2 % (recrutements + conservés), avec une forte variabilité entre agences (3 à 11 %).  
-- **Améliorer la qualité et le ciblage du vivier** : 54 % des profils du vivier promus, avec un profil favorable identifié (<35 ans, permis B, CV <3 mois, entretien récent, métiers en tension).  
+- Le processus actuel peut compter jusqu’à **45 étapes**, incluant des saisies multiples et des pertes d’informations.  
+- Les conseillers expriment une forte attente pour un **outil unique et centralisé**.  
+- Manque de suivi formalisé des promotions et de leur résultat (embauche, retour, etc.).  
+- Existence de pratiques bricolées témoignant d’un besoin réel mais sans cadre commun.  
 
 ---
 
-## Conclusion ✨  
-L’expérimentation confirme la pertinence de **Profilence** :  
-- La solution est **simple à prendre en main**,  
-- Elle **génère beaucoup plus de promotions** qu’actuellement,  
-- Et elle produit déjà **des résultats concrets** en termes de retours employeurs et de recrutements.  
+### 🧪 Bilan de l’expérimentation
 
-L’implication d’une **Mission Locale** démontre également la capacité de Profilence à être **interopérable au sein du Réseau pour l’Emploi**.  
+Expérimentée dans **3 agences France Travail pilotes** et en **Mission Locale** (partenaire du RPE), avec un formulaire simple et un tableau Excel partagé.
 
-👉 Les priorités pour la suite : améliorer le taux de retour employeur, renforcer la conversion en recrutements et affiner le ciblage du vivier.  
-Ces enseignements guideront la **phase de construction**, prévue à partir de septembre 2025. 
+**✅ Points positifs :**
+- Adoption rapide : jusqu’à **78 %** des conseillers l’utilisent, et **67 %** en Mission Locale.  
+- Volume de promotions plus élevé : **+136 %** par rapport aux pratiques standards dans les agences témoins (113 promotions réalisées).  
+- Des premiers résultats concrets : 8 recrutements, 6 profils conservés, et 40 % de retours de la part des employeurs, dans un délai moyen de 12 jours.
+
+**⚠️ Points à améliorer :**
+- Recueillir davantage de retours de la part des employeurs.  
+- Améliorer le taux de conversion des promotions en recrutements.  
+- Affiner le ciblage des profils du vivier pour maximiser l’efficacité.
+
+---
+
+### ✅ Ce que confirme l’expérimentation
+
+- Profilence répond bien à un besoin réel : simplicité, adoption rapide, plus de promotions.  
+- Des premiers résultats concrets sont déjà mesurables (retours, recrutements).  
+- L’outil pourra être déployé à plus grande échelle, dans un cadre modernisé et plus efficace.
+---
+
+### 🧱 Prochaine étape : une première brique en dur
+
+Nous entamons maintenant la **construction de la première version robuste de l’outil**, destinée à être **livrée au premier semestre 2026** pour une utilisation initiale par les **agents France Travail et Cap Emploi**.  
+
+Cette “brique en dur” comprendra :
+- Un module centralisé de promotion de profils, avec interface unique, traçabilité et tableaux de bord intégrés.  
+- La possibilité de suivre chaque promotion (état, retour entreprise, suite donnée).  
+- Un processus simplifié pour les conseillers, réduisant les étapes et les ressaisies.
+
+En parallèle, l’expérimentation autour de la **partie vivier** se poursuit :  
+analyse des profils les plus mobilisés, test de critères de ciblage affinés, et retours qualitatifs pour enrichir le futur outil complet.
