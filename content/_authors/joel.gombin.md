@@ -11,7 +11,7 @@ competences:
   - Administration Publique
 missions:
   - start: 2025-07-01
-    end: 2025-10-01
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:

@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2025-09-16
     end: 2025-12-31
-    employer: Scopyleft
     status: service
+    employer: Scopyleft
     startups:
       - assistant-rh
-teams: []
 ---
