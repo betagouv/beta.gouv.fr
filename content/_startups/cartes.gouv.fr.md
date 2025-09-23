@@ -11,9 +11,13 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-03-01
+  - name: alumni
+    start: 2024-07-01
 thematiques:
   - Open-Data
   - Outil technique
+usertypes: []
+techno: []
 ---
 ## Contexte
 

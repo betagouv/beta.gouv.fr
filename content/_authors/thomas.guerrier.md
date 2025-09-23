@@ -8,6 +8,9 @@ missions:
     end: 2026-02-28
     status: admin
     employer: Ministère de la Justice
+    startups:
+      - jafer
+      - precontentieux.justice
 teams:
   - /teams/justice
 badges:

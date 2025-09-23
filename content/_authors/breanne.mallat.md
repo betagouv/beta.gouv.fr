@@ -1,7 +1,7 @@
 ---
 fullname: Bréanne Mallat
-role: Responsable de portefeuille Agriculture
-domaine: Animation
+role: Coach - Ruche numérique
+domaine: Coaching
 github: bmallat
 missions:
   - start: 2020-07-12
@@ -18,5 +18,9 @@ missions:
     employer: Dinum
     startups:
       - tous.a.bord
+  - start: 2025-09-23
+    end: 2026-03-23
+    status: independent
+    employer: NUMA
 competences: []
 ---

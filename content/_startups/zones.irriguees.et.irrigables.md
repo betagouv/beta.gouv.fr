@@ -10,6 +10,8 @@ phases:
   - name: investigation
     start: 2023-09-04
     end: 2024-01-04
+  - name: alumni
+    start: 2025-03-23
 thematiques:
   - Écologie
   - Agriculture
