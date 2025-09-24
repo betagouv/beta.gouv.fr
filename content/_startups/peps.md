@@ -16,13 +16,15 @@ phases:
 events:
   - name: end
     date: 2021-09-01
-link: https://rex-agri.agroecologie.org/
+link: https://agroecologie.org/retour-experience
 repository: https://github.com/betagouv/peps
 stats: true
 stats_url: https://rex-agri.agroecologie.org/stats
 contact: support@agricultureduvivant.org
 usertypes:
   - entreprise
+thematiques: []
+techno: []
 ---
 ## Le constat
 

@@ -35,7 +35,7 @@ events:
   - name: committee
     date: 2025-02-04
     comment: Premier comité d'investissement mené par l'équipe EIGs
-link: https://datalma.fr
+link: https://datalma.beta.gouv.fr
 ---
 ## Contexte
 En 2023, la Présidence de la République crée le DataLab, équipe chargée du développement d’outils d’analyse de données et de la transformation numérique (automatisations, IA…) au sein de la Présidence, afin d’aider les agents de l’Élysée dans leur quotidien. Le DataLab a notamment travaillé sur un outil d’analyse textométrique ou sur la création d’un équivalent de “ChatGPT” interne calibré pour les besoins de la Présidence…

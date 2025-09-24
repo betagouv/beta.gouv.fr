@@ -41,6 +41,7 @@ events:
     date: 2024-06-18
   - name: committee
     date: 2024-12-11
+impact_url: https://referentielnationaldesbatiments.notion.site/Tableau-de-pilotage-de-l-impact-RNB-20143ec9d11e8093ba71c915956d8aea?pvs=74
 ---
 ## Problème
 

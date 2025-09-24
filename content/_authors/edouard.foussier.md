@@ -12,4 +12,5 @@ missions:
     employer: Scopyleft
     startups:
       - assistant-rh
+github: edouardfoussier
 ---

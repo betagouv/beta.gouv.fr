@@ -15,5 +15,11 @@ missions:
     employer: PathTech
     startups:
       - pass-sport
+  - start: 2025-09-22
+    end: 2025-10-22
+    status: independent
+    employer: PathTech
+    startups:
+      - pass-sport
 memberType: beta
 ---
