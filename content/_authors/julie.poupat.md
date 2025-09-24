@@ -7,6 +7,10 @@ competences:
   - Product design
   - UX
   - Product strategy
+  - Accessibilité
+  - UI
+  - SEO
+  - Intrapreneur(se)
 missions:
   - start: 2025-08-12
     end: 2025-11-14
