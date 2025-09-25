@@ -11,7 +11,7 @@ missions:
       - la-bonne-alternance
       - la-bonne-boite
   - start: 2019-09-01
-    end: 2025-09-31
+    end: 2025-09-30
     status: independent
     employer: octo
     startups:
