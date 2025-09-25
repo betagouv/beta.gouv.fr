@@ -7,10 +7,9 @@ competences: []
 missions:
   - start: 2025-09-23
     end: 2026-03-23
-    employer: MALT
     status: independent
+    employer: MALT
     startups:
       - jeveuxaider
-teams: []
 ---
 Chef de projet avec un parcours dans le conseil et les start ups, passionnée d'art, de voyage et de stand up !

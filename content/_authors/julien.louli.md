@@ -1,6 +1,6 @@
 ---
 fullname: Julien Louli
-role: Chargé de déploiement
+role: Product Owner / Business Developer
 domaine: Déploiement
 missions:
   - start: 2023-10-04
@@ -12,4 +12,4 @@ missions:
 memberType: beta
 competences: []
 ---
-Chargé de déploiement
+PO / Bizdev / support
