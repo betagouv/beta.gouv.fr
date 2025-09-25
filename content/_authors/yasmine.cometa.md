@@ -4,8 +4,8 @@ role: intrapreneure Data.Subvention
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/yasmine-cometa/
 missions:
-  - start: 2022-10-17
-    end: 2025-10-17
+  - start: 2022-10-01
+    end: 2025-10-01
     status: admin
     employer: DJEPVA - MIN EDUC
     startups:

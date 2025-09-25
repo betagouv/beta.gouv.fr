@@ -8,8 +8,8 @@ competences:
 missions:
   - start: 2025-09-15
     end: 2026-12-19
-    employer: Incubateur Justice
     status: admin
+    employer: Incubateur Justice
     startups:
       - experts
       - investigation-cour-d-appel-de-paris
@@ -18,5 +18,4 @@ missions:
       - precontentieux.justice
       - rdv.mjd
       - romin
-teams: []
 ---
