@@ -9,4 +9,6 @@ missions:
     employer: Octo
     startups:
       - depenses-eclairees
+github: trecouvr
+competences: []
 ---
