@@ -9,7 +9,7 @@ usertypes:
   - etat
   - collectivite-territoriale
   - association
-title: Recocyber
+title: MesQuestionsCyber
 mission: Démocratiser les conseils cyber de l'ANSSI en apportant à toutes les questions cyber des spécialistes et des informaticien/nes
 incubator: alliance
 sponsors:

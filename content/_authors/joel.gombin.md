@@ -2,7 +2,7 @@
 fullname: Joël Gombin
 role: Explorateur d'IA à DiaLog
 domaine: Data
-github: https://github.com/joelgombin
+github: joelgombin
 link: https://www.linkedin.com/in/jgombin/
 competences:
   - Data Science

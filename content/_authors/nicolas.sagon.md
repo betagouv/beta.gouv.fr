@@ -2,7 +2,7 @@
 fullname: Nicolas Sagon
 role: Développeur Full stack java / python/ Vue.js chez Dossier facile
 domaine: Développement
-github: https://github.com/nicolasSagon
+github: nicolasSagon
 link: https://www.linkedin.com/in/nicolas-sagon-522391109/
 competences:
   - Développement Full-stack

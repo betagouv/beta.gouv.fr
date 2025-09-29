@@ -1,6 +1,6 @@
 ---
 fullname: Xavier Maso
-role: RSSI/Développeur
+role: RSSI
 domaine: Autre
 github: Pamplemousse
 link: https://www.xaviermaso.com/
@@ -16,4 +16,6 @@ missions:
       - mes-services-cyber
       - mon-aide-cyber
       - nis2
+      - recocyber
 ---
+Hacking et mathématiques, contributeurs aux communs, basé à Bordeaux.

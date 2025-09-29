@@ -9,7 +9,12 @@ missions:
     status: admin
     employer: ANSSI
     startups:
+      - cyber-en-jeux
+      - demain-specialiste-cyber
       - homologation
+      - mes-services-cyber
+      - recocyber
 teams:
   - /teams/anssi
+competences: []
 ---

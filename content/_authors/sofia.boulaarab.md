@@ -20,6 +20,12 @@ missions:
     startups:
       - la-bonne-alternance
       - tdb-apprentissage
+  - start: 2025-05-05
+    end: 2025-12-29
+    status: independent
+    employer: Cour de cassation
+    startups:
+      - api-and-communs-numeriques-de-la-cour-de-cassation
 competences:
   - UX
   - UI

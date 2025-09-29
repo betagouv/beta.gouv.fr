@@ -8,7 +8,7 @@ competences:
   - Croissance
 missions:
   - start: 2025-03-25
-    end: 2025-10-27
+    end: 2026-01-31
     status: independent
     employer: La.zone / Solstice
     startups:

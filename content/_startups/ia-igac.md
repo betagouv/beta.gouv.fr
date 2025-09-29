@@ -13,13 +13,20 @@ sponsors:
   - /organisations/mc
 phases:
   - name: investigation
-    comment: null
     start: 2025-01-15
-    end: null
+  - name: construction
+    start: 2025-04-08
+  - name: alumni
+    start: 2025-07-21
 events:
   - name: committee
-    comment: Attente de la mise à disposition Assistant IA sur SecNumCloud
+    date: 2025-04-08
+    comment: 'Restitution de l''investigation : décision de tester plusieurs approches en lien avec la DINUM'
+  - name: committee
     date: 2025-07-17
+    comment: Attente de la mise à disposition Assistant IA sur SecNumCloud
+techno: []
+link: ''
 ---
 ## Contexte
 
