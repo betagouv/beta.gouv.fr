@@ -9,8 +9,12 @@ missions:
     status: admin
     employer: Ministère de la Justice
     startups:
+      - experts
+      - investigation-cour-d-appel-de-paris
       - jafer
+      - mistral-penal
       - precontentieux.justice
+      - romin
 teams:
   - /teams/justice
 badges:
