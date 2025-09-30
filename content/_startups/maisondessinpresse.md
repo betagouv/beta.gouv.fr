@@ -7,9 +7,9 @@ sponsors:
 phases:
   - name: investigation
     start: 2022-04-01
-  - name: alumni
-    start: 2023-04-09
   - name: construction
+    start: 2023-04-09
+  - name: alumni
     start: 2023-04-16
 stats: false
 contact: ateliernumerique.snum@culture.gouv.fr

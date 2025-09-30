@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-09-26
     end: 2026-03-25
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - trackdechets
-teams: []
 ---

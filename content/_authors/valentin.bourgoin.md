@@ -2,7 +2,7 @@
 fullname: Valentin Tilly Bourgoin
 role: Développeur full-stack sénior
 domaine: Développement
-github: https://github.com/valentinbourgoin
+github: valentinbourgoin
 link: https://www.linkedin.com/in/valentinbourgoin/
 competences:
   - Développement Full-stack

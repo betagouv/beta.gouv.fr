@@ -6,7 +6,7 @@ link: https://fr.linkedin.com/in/vincentporte
 github: vincentporte
 missions:
   - start: 2022-01-17
-    end: 2025-12-31
+    end: 2025-10-05
     status: independent
     employer: Malt
     startups:

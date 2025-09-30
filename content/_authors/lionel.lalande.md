@@ -11,5 +11,6 @@ missions:
     status: service
     employer: Omnicité
     startups:
+      - demain-specialiste-cyber
       - mes-services-cyber
 ---
