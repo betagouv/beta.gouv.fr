@@ -6,7 +6,7 @@ link: https://ananda-nono.io/
 github: K4ST0R
 missions:
   - start: 2023-02-13
-    end: 2025-11-01
+    end: 2026-01-31
     status: independent
     startups:
       - cestquilepro

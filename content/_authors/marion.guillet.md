@@ -5,7 +5,7 @@ domaine: Produit
 github: guilletmarion
 missions:
   - start: 2019-10-21
-    end: 2025-10-30
+    end: 2025-12-31
     status: independent
     employer: UT7
     startups:

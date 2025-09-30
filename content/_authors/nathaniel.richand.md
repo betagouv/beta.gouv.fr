@@ -24,7 +24,7 @@ missions:
     startups:
       - l-application-du-cej
   - start: 2025-04-07
-    end: 2025-07-07
+    end: 2025-12-31
     status: independent
     employer: Dynergie
     startups:

@@ -16,10 +16,9 @@ competences:
 missions:
   - start: 2025-09-26
     end: 2026-01-30
-    employer: Fairness
     status: independent
+    employer: Fairness
     startups:
       - dialogue
-teams: []
 ---
-CTO & Tech Lead, avec une sécialisation data
+CTO & Tech Lead, avec une spécialisation data

@@ -2,7 +2,7 @@
 fullname: Maxence Haouari
 role: Data Engineer chez Trackdechets
 domaine: Data
-github: https://github.com/maxenceh
+github: maxenceh
 competences:
   - Data Science
 missions:
