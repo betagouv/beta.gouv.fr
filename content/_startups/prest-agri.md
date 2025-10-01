@@ -14,13 +14,11 @@ sponsors:
   - /organisations/service-du-numerique-du-ministere-de-l-agriculture-et-de-la-souverainete-alimentaire
 phases:
   - name: investigation
-    comment: null
     start: 2025-07-30
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-09-28
+link: ''
 ---
 Simplifier les démarches des agents du Ministère de l’agriculture permettra de faciliter l’instruction des dossiers. Cette simplification est également un outil d’aide à la décision et au pilotage des politiques publiques en matière d’action sociale.
 

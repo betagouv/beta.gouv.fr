@@ -17,7 +17,7 @@ missions:
     startups:
       - eimis
   - start: 2024-06-01
-    end: 2025-10-30
+    end: 2026-01-31
     status: independent
     employer: Malt
     startups:
@@ -28,6 +28,5 @@ competences:
   - Communication
   - Gestion de Produit
   - Croissance
-  - Intrapreneur(se)
   - Product strategy
 ---

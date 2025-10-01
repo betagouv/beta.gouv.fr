@@ -1,6 +1,6 @@
 ---
 fullname: David Guillot
-role: Développeur Plateforme Aides Agri
+role: Développeur Aides Agri
 domaine: Développement
 github: David-Guillot
 link: https://david.guillot.me/
