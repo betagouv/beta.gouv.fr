@@ -1,6 +1,6 @@
 ---
 fullname: Hubert Moncenis
-role: Développeur
+role: Développeur fullstack Typescript
 domaine: Développement
 github: HubM
 missions:
@@ -16,5 +16,7 @@ competences:
   - UI
   - JavaScript/TypeScript
   - PostgreSQL
+  - Développement Backend
+  - Développement Frontend
+  - Metabase
 ---
-Développeur fullstack javascript

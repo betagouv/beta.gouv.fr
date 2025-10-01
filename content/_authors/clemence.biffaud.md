@@ -31,6 +31,12 @@ missions:
     employer: NUMA
     startups:
       - je-deviens-etudiant
+  - start: 2025-07-01
+    end: 2025-10-31
+    status: independent
+    employer: Dynergie
+    startups:
+      - reglementation-nitrates
 competences:
   - Coaching
 ---

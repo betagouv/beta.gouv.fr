@@ -30,7 +30,7 @@ missions:
       - tchap
       - visio
   - start: 2025-05-16
-    end: 2026-01-31
+    end: 2026-03-31
     status: service
     employer: Brigade d'intervention numérique
     startups:
