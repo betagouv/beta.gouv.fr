@@ -1,7 +1,7 @@
 ---
 fullname: Fanny Dauchez
 domaine: Déploiement
-role: Chargée de déploiement
+role: Responsable produit
 github: FannyDauchez
 link: https://www.linkedin.com/in/fanny-dauchez-9b466461/
 missions:
@@ -16,7 +16,7 @@ missions:
     end: 2023-12-30
     status: independent
   - start: 2022-05-01
-    end: 2025-10-31
+    end: 2027-05-31
     status: admin
     startups:
       - data-inclusion

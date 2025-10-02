@@ -1,6 +1,6 @@
 ---
 analyse_risques: false
-mon_service_securise: false
+mon_service_securise: true
 contact: sites-faciles@beta.gouv.fr
 repository: https://github.com/numerique-gouv/sites-faciles
 link: https://sites-faciles.beta.numerique.gouv.fr
@@ -22,8 +22,9 @@ techno:
   - python
   - wagtail
   - django
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 stats_url: https://sites-faciles.beta.numerique.gouv.fr/statistiques/
+dashlord_url: https://dashlord.incubateur.net/startup/sites-faciles/
 ---
 ## **Contexte**
 

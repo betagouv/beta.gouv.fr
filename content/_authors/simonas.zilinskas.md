@@ -12,7 +12,7 @@ competences:
   - Product design
 missions:
   - start: 2024-12-09
-    end: 2025-10-31
+    end: 2026-01-01
     status: independent
     employer: ut7
     startups:

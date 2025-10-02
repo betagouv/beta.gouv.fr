@@ -1,10 +1,10 @@
 ---
 domaine: Développement
 fullname: Benjamin  Levesque
-role: Développement
+role: Développeur
 missions:
   - start: 2024-06-17
-    end: 2025-10-31
+    end: 2026-03-31
     status: independent
     employer: Malt
     startups:

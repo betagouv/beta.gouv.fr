@@ -6,12 +6,11 @@ link: https://www.linkedin.com/in/victor-ravenel/
 github: vicobz
 missions:
   - start: 2023-01-24
-    end: 2026-07-30
+    end: 2026-02-28
     status: independent
     employer: Malt / Octo
     startups:
       - faritas
-      - snu
 memberType: beta
 competences: []
 teams:

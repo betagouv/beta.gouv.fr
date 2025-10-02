@@ -3,8 +3,8 @@ fullname: Morgane Boudin
 role: UX/UI Designer
 domaine: Design
 missions:
-  - start: 2025-04-01
-    end: 2025-09-30
+  - start: 2024-03-01
+    end: 2026-03-31
     status: independent
     employer: DINUM
     startups:

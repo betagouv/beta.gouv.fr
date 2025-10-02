@@ -23,7 +23,7 @@ missions:
     startups:
       - infoparquet
   - start: 2025-05-20
-    end: 2025-10-31
+    end: 2026-01-10
     status: independent
     employer: Malt
     startups:

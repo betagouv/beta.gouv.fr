@@ -28,6 +28,8 @@ missions:
   - start: 2023-10-01
     end: 2026-09-30
     status: admin
+    startups:
+      - espace-membre
 competences:
   - UX
   - UI
