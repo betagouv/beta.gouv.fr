@@ -9,6 +9,12 @@ missions:
     employer: ut7
     startups:
       - pilotagevoiepro
+  - start: 2025-10-06
+    end: 2026-01-06
+    status: independent
+    employer: La Zone
+    startups:
+      - tacct
 memberType: beta
 link: https://www.linkedin.com/in/oriana-berthomieu/
 competences:

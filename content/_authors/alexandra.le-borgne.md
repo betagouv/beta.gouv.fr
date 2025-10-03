@@ -5,7 +5,7 @@ domaine: Coaching
 github: Alexandra-LB
 missions:
   - start: 2021-04-23
-    end: 2025-11-01
+    end: 2026-03-31
     status: independent
     employer: NUMA
     startups:

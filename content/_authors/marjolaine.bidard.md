@@ -5,7 +5,7 @@ domaine: Design
 link: https://www.linkedin.com/in/marjobidard/
 missions:
   - start: 2020-10-01
-    end: 2025-10-31
+    end: 2025-12-31
     status: independent
     employer: Pole emploi
     startups:

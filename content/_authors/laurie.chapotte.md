@@ -10,6 +10,7 @@ missions:
     employer: Ministère de la Culture
     startups:
       - compte.rendu.vif
+      - donnees-spectacle
       - ellesfontlaculture
 teams:
   - /teams/culture

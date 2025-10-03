@@ -4,10 +4,11 @@ role: Marketing relationnel
 domaine: Déploiement
 missions:
   - start: 2023-09-26
-    end: 2025-10-31
+    end: 2026-03-31
     status: independent
     employer: Malt
     startups:
+      - je-deviens-etudiant
       - snu
 memberType: beta
 link: https://www.linkedin.com/in/marinebourjac/
@@ -19,5 +20,8 @@ competences:
   - business development
   - stratégie marketing
   - emailing
+  - Communication
+  - SEO
+  - stratégie communication
 ---
-En mission marketing depuis Bordeaux pour le Service National Universel
+Spécialiste marketing et communication basée à Bordeaux

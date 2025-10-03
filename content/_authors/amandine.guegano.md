@@ -32,5 +32,11 @@ missions:
     employer: Malt
     startups:
       - ca-se
+  - start: 2025-07-01
+    end: 2025-10-31
+    status: independent
+    employer: Dynergie
+    startups:
+      - prest-agri
 ---
 designer de service

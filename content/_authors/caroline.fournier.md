@@ -11,6 +11,12 @@ missions:
     startups:
       - chauffage-urbain
       - infomedicament
+  - start: 2025-07-01
+    end: 2025-11-30
+    status: independent
+    employer: Dynergie
+    startups:
+      - agreste
 previously:
   - mon-suivi-social
 competences:

@@ -14,9 +14,13 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2024-06-26
+  - name: alumni
+    start: 2025-01-23
 events:
   - name: product_launch
     date: 2024-11-13
+  - name: end
+    date: 2025-01-23
 link: ''
 ---
 ## Contexte

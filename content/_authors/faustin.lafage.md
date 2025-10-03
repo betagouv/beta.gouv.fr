@@ -7,7 +7,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-07-07
-    end: 2026-07-07
+    end: 2028-07-07
     status: admin
     employer: Ministère de l'Agriculture et de la Souveraineté Alimentaire
     startups:
