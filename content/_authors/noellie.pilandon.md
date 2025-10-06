@@ -9,6 +9,9 @@ missions:
     end: 2027-11-30
     status: admin
     employer: DINUM
+    startups:
+      - assistant-rh
+      - jacepair
 teams:
   - /teams/al-lia-nce-transverse
 ---

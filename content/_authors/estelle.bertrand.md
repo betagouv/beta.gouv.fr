@@ -1,6 +1,6 @@
 ---
 fullname: Estelle Bertrand
-role: Data à Datalma
+role: Data
 domaine: Data
 link: https://www.linkedin.com/in/estellebertrand-data-analytics
 competences:

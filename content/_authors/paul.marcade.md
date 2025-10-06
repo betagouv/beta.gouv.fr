@@ -5,7 +5,7 @@ role: Coach
 github: PaulMarcade
 missions:
   - start: 2020-03-19
-    end: 2026-02-10
+    end: 2026-03-10
     status: independent
     employer: Malt
     startups:
@@ -16,4 +16,6 @@ previously:
   - mediature
 competences:
   - Coaching
+  - Croissance
+  - Product strategy
 ---

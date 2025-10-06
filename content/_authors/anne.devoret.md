@@ -20,9 +20,9 @@ missions:
       - la.communaute.de.linclusion
       - phytophare
   - start: 2024-02-14
-    end: 2025-09-20
+    end: 2025-12-31
     status: independent
-    employer: OCTO
+    employer: MALT
     startups:
       - zacharie
   - start: 2024-07-23
@@ -32,7 +32,7 @@ missions:
     startups:
       - tabula
   - start: 2025-01-01
-    end: 2025-11-01
+    end: 2025-12-31
     status: independent
     employer: Dynergie
     startups:

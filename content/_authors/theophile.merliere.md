@@ -6,8 +6,13 @@ missions:
     end: 2023-04-30
     status: independent
     employer: Living Data
+    startups:
+      - api-geo
+      - ban
+      - bases.adresses.locales
+      - geo.data.gouv.fr
   - start: 2024-10-01
-    end: 2025-09-30
+    end: 2025-12-31
     status: service
     employer: Living Data
     startups:

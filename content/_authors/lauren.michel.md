@@ -34,7 +34,7 @@ missions:
     startups:
       - annuaire-entreprises
   - start: 2025-03-03
-    end: 2025-10-31
+    end: 2026-03-31
     status: independent
     employer: malt
     startups:

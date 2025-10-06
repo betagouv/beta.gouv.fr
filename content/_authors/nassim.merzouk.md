@@ -11,13 +11,13 @@ missions:
     startups:
       - jeveuxaider
   - start: 2022-09-01
-    end: 2025-10-30
+    end: 2026-03-31
     status: independent
     employer: MALT
     startups:
       - api-engagement
   - start: 2024-10-03
-    end: 2025-10-01
+    end: 2026-03-31
     status: independent
     employer: NUMA
     startups:

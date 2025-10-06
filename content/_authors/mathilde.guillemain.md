@@ -5,7 +5,7 @@ domaine: Design
 link: https://poulpux.com
 missions:
   - start: 2021-08-02
-    end: 2025-10-31
+    end: 2026-02-28
     status: independent
     employer: Scopyleft
     startups:
@@ -20,6 +20,6 @@ competences:
   - UX
   - Product design
   - Product strategy
-github: https://github.com/mathildepoulpux
+github: mathildepoulpux
 ---
 UX Designer & cheffe de produit J'aime les jeux de mots et le vert menthe !

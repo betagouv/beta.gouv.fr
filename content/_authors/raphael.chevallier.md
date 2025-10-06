@@ -13,7 +13,7 @@ competences:
   - Rust
 missions:
   - start: 2025-07-07
-    end: 2025-10-03
+    end: 2026-03-07
     status: independent
     employer: DINUM
     startups:

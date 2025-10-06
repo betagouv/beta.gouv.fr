@@ -11,9 +11,9 @@ missions:
     startups:
       - infrastructures.numeriques
   - start: 2024-05-01
-    end: 2025-03-31
+    end: 2026-04-01
     status: independent
-    employer: Happy Dev
+    employer: UT7
     startups:
       - fonds.de.plans
 badges:
