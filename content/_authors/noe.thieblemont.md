@@ -11,11 +11,10 @@ competences:
 missions:
   - start: 2025-09-01
     end: 2025-12-30
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - suite.territoriale
-teams: []
 ---
 Freelance spécialisé collectivités territoriales depuis 2023, j'ai travaillé à la coordination du programme ANSM de l'ANCT et au déploiement de La Suite territoriale. 
 ✅ Déploiement ✅ Support ✅ Communication ✅ Politiques publiques.

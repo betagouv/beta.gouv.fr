@@ -14,8 +14,10 @@ phases:
     start: 2024-01-01
   - name: transfer
     start: 2024-12-01
+  - name: success
+    start: 2025-10-31
 repository: https://github.com/mission-apprentissage/tjp-pilotage
-stats_url: https://orion.inserjeunes.beta.gouv.fr/statistiques
+stats_url: https://orion.education.gouv.fr/statistiques
 stats: true
 contact: orion@inserjeunes.beta.gouv.fr
 usertypes:
@@ -41,6 +43,7 @@ events:
   - name: committee
     date: 2024-06-20
     comment: Décision de transférer le service à l'administration
+impact_url: https://orion.education.gouv.fr/statistiques
 ---
 ## Orion, un service de la mission interministérielle Inserjeunes
 

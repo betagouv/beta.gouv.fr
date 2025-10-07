@@ -2,7 +2,7 @@
 fullname: Antoine J Michon
 role: Développeur à MesADS
 domaine: Développement
-github: https://github.com/antoinehashbang
+github: antoinehashbang
 link: https://www.linkedin.com/in/antoine-michon-912649137/
 competences:
   - Développement Full-stack

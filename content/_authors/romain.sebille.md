@@ -5,10 +5,11 @@ domaine: Développement
 github: rsebille
 missions:
   - start: 2022-04-20
-    end: 2025-11-02
+    end: 2026-02-01
     status: independent
     employer: Malt
     startups:
+      - dora
       - les-emplois
       - pilotage.de.linclusion
 competences:

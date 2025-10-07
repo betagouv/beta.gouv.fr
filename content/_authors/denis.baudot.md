@@ -8,6 +8,8 @@ missions:
     end: 2027-12-31
     status: admin
     employer: DINUM
+    startups:
+      - espace-membre
 previously:
   - nosgestesclimat
   - cnr

@@ -17,7 +17,7 @@ missions:
     startups:
       - cartobio
   - start: 2022-06-21
-    end: 2025-09-30
+    end: 2026-01-31
     status: service
     employer: lazone/solstice
   - start: 2025-01-06
@@ -30,6 +30,17 @@ link: https://détour.studio
 previously:
   - cartobio
   - data.gouv.fr
-competences: []
+competences:
+  - JavaScript/TypeScript
+  - Accessibilité
+  - Développement Full-stack
+  - DevOps
+  - Matomo
+  - Docker
+  - ElasticSearch
+  - PostgreSQL
+  - UI
+  - Metabase
+  - Communication
 ---
 Vivre un futur désirable.

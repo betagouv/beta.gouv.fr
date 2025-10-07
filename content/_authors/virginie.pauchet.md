@@ -5,7 +5,7 @@ domaine: Support
 competences: []
 missions:
   - start: 2025-05-06
-    end: 2025-11-05
+    end: 2026-03-31
     status: independent
     employer: PathTech
     startups:

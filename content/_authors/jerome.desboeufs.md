@@ -31,7 +31,7 @@ missions:
       - geo.data.gouv.fr
       - urbaclic
   - start: 2022-12-01
-    end: 2025-03-31
+    end: 2025-12-31
     status: service
     employer: Living Data
     startups:

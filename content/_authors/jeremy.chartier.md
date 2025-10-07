@@ -6,7 +6,9 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-07-03
-    end: 2025-10-03
+    end: 2025-10-31
     status: admin
     employer: MASA
+    startups:
+      - reglementation-nitrates
 ---

@@ -18,7 +18,7 @@ missions:
     startups:
       - icare-complements-alimentaires
   - start: 2025-08-01
-    end: 2025-11-01
+    end: 2026-03-02
     status: service
     employer: Malt
     startups:

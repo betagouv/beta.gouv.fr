@@ -10,8 +10,8 @@ missions:
     startups:
       - collectif_objets
   - start: 2025-01-06
-    end: 2026-03-31
-    status: admin
+    end: 2025-10-31
+    status: independent
     employer: LittleBig Connection
     startups:
       - acces-cible
