@@ -14,4 +14,4 @@ competences: []
 teams:
   - /teams/anssi
 ---
-Lead Dev du Lab de l'ANSSI. https://cyber.gouv.fr/
+Dev full stack au Lab de l'ANSSI. https://cyber.gouv.fr/

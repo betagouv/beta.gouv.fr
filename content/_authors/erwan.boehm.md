@@ -15,6 +15,12 @@ missions:
     employer: Malt
     startups:
       - mon-devis-sans-oublis
+  - start: 2025-09-22
+    end: 2025-12-31
+    status: independent
+    employer: Scopyleft
+    startups:
+      - document-ia
 competences:
   - Développement Full-stack
   - IA

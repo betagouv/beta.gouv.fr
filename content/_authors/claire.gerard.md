@@ -16,7 +16,7 @@ missions:
     startups:
       - mesaidesreno
   - start: 2025-01-01
-    end: 2025-10-30
+    end: 2025-12-30
     status: independent
     employer: Malt
     startups:

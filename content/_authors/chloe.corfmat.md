@@ -1,7 +1,7 @@
 ---
 domaine: Développement
 fullname: Chloé Corfmat
-role: Développement
+role: Développement & Accessibilité numérique
 missions:
   - start: 2024-07-01
     end: 2025-12-30
@@ -9,6 +9,12 @@ missions:
     employer: UT7
     startups:
       - audiodescription
+  - start: 2025-09-15
+    end: 2026-01-31
+    status: independent
+    employer: Scopyleft
+    startups:
+      - signaux-faibles
 competences:
   - Accessibilité
   - Développement Backend

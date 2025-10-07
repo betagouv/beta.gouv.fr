@@ -14,7 +14,7 @@ competences:
   - UX
 missions:
   - start: 2025-04-29
-    end: 2025-10-29
+    end: 2025-12-31
     status: admin
     employer: LBC
     startups:

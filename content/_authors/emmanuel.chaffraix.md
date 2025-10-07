@@ -6,7 +6,6 @@ link: https://www.linkedin.com/in/emmanuelchaffraix
 competences:
   - DevOps
   - Développement Full-stack
-  - Docker
   - Kubernetes
   - PostgreSQL
 missions:

@@ -34,6 +34,12 @@ missions:
     startups:
       - monitorfish
       - rapportnav
+  - start: 2025-06-25
+    end: 2025-10-06
+    status: service
+    employer: Dynergie
+    startups:
+      - open-agri
 memberType: beta
 link: https://www.linkedin.com/in/m%C3%A9laniebriand/
 competences:

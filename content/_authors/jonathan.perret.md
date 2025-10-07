@@ -5,7 +5,7 @@ domaine: Développement
 github: jonathanperret
 missions:
   - start: 2021-12-17
-    end: 2025-10-01
+    end: 2026-01-01
     status: service
     employer: /ut7
     startups:

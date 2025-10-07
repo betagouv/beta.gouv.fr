@@ -21,7 +21,9 @@ phases:
 events:
   - name: product_launch
     date: 2025-02-26
-link: ''
+link: https://albert.sites.beta.gouv.fr/
+repository: https://github.com/etalab-ia/OpenGateLLM
+stats_url: https://albert.sites.beta.gouv.fr/about/metrics/
 ---
 ## Contexte
 

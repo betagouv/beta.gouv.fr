@@ -39,12 +39,13 @@ phases:
     start: 2025-06-24
 usertypes:
   - etat
-stats_url: https://romin.beta.gouv.fr/stats
+stats_url: https://romin.beta.gouv.fr/stats?source=externe
 stats: true
 thematiques:
   - Justice
 dashlord_url: https://dashlord.incubateur.net/url/dashlord-romin-app-cc-anje-justice-fr/
 techno: []
+impact_url: https://romin.beta.gouv.fr/stats?source=externe
 link: ''
 ---
 ## Contexte

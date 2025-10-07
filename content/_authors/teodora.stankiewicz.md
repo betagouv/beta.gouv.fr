@@ -5,7 +5,7 @@ domaine: Design
 github: Teodora-Stanki
 missions:
   - start: 2023-03-28
-    end: 2025-10-22
+    end: 2026-03-22
     status: independent
     employer: Scopyleft
     startups:
@@ -14,5 +14,6 @@ memberType: beta
 competences:
   - Product design
   - UX
+  - UI
 ---
 Product Designer

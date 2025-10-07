@@ -5,7 +5,7 @@ domaine: Déploiement
 github: anoukjn
 missions:
   - start: 2021-05-25
-    end: 2025-10-30
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:

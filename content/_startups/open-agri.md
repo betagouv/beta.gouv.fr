@@ -16,11 +16,12 @@ phases:
 events:
   - name: product_launch
     date: 2025-08-26
+usertypes: []
+techno: []
 link: ''
 ---
 
 ## Contexte
-.
 Le programme national de développement agricole et rural (PNDAR) permet d’orienter les actions des acteurs du développement agricole et rural vers des objectifs prioritaires pour l’agriculture française, avec son instrument financier dédié, le Compte d’affectation spéciale développement agricole et rural (CASDAR) qui finance annuellement de l’ordre de 150M€ de programmes et de projets de recherche et développement agricole et rural .
 Le PNDAR vise à intensifier et massifier la transition agro-écologique en soutenant la diffusion et l'adoption des approches innovantes éprouvées par les agriculteurs, ainsi qu'une ambition renouvelée dans la conception d'innovations de rupture.
 
