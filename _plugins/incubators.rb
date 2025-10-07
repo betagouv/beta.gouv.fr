@@ -15,7 +15,9 @@ module Jekyll
       end.reverse
 
       # Place 'dinum' at the top
-      (sorted_incubators.partition { |incubator| incubator.id == '/incubateurs/dinum' }).flatten
+      sorted_incubators
+        .partition { |incubator| incubator.id == '/incubateurs/dinum' }
+        .flatten
     end
 
     def filter_incubators_with_active_startups(incubators, startups)
