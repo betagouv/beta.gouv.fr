@@ -1,7 +1,7 @@
 ---
 mission: Rendre les sites et services numériques accessibles à toutes et à tous
 incubator: dinum
-title: Acces cible
+title: Accès cible
 contact: acces-cible@beta.gouv.fr
 thematiques:
   - Inclusion numérique

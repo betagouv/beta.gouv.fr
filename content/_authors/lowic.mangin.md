@@ -2,7 +2,7 @@
 fullname: Lowic Mangin
 role: Développeur spécialisé en accessibilité
 domaine: Développement
-github: https://github.com/logic-fabric
+github: logic-fabric
 competences:
   - Développement Frontend
   - UX

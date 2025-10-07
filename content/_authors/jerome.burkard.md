@@ -5,9 +5,9 @@ domaine: Développement
 github: jeromebu
 missions:
   - start: 2021-07-16
-    end: 2025-10-31
+    end: 2026-03-31
     status: independent
-    employer: La plateforme de l'inclusion
+    employer: France travail
     startups:
       - l-immersion-facile
 competences: []

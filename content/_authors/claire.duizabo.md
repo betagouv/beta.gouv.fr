@@ -16,7 +16,7 @@ missions:
     startups:
       - plateforme-agriculteurs
   - start: 2025-05-06
-    end: 2026-02-01
+    end: 2025-10-01
     status: independent
     employer: MALT
     startups:

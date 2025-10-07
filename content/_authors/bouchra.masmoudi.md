@@ -8,4 +8,6 @@ missions:
     end: 2025-11-12
     status: admin
     employer: La Ruche numérique
+    startups:
+      - prest-agri
 ---

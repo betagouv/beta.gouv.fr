@@ -12,5 +12,6 @@ missions:
 badges:
   - segur
 competences: []
+link: https://www.linkedin.com/in/vivien-blondat-582512b0/
 ---
 Slasheur, passionné d'histoire, grimpeur du dimanche [7A], curieux de toutes connaissances, j'adore apprendre et expérimenter, allant d'expérience en expérience [...]

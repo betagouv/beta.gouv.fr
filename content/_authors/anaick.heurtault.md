@@ -18,4 +18,6 @@ missions:
       - precontentieux.justice
       - rdv.mjd
       - romin
+teams:
+  - /teams/justice
 ---

@@ -14,4 +14,5 @@ missions:
     employer: Scopyleft
     startups:
       - document-ia
+github: odulcy
 ---

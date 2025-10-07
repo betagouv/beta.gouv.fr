@@ -29,7 +29,7 @@ missions:
     startups:
       - guichet-unique-de-la-haie-envergo-agricole
   - start: 2025-04-24
-    end: 2025-10-31
+    end: 2025-12-31
     status: independent
     employer: Scopopop x La Zone
     startups:

@@ -23,6 +23,10 @@ missions:
     end: 2025-12-11
     status: independent
     employer: ut7
+    startups:
+      - api-and-communs-numeriques-de-la-cour-de-cassation
+      - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne
+      - portail-greffe-de-la-cour-de-cassation
 previously:
   - pop
 competences:

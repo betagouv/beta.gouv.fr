@@ -6,7 +6,7 @@ github: rap2hpoutre
 link: https://raph.site
 missions:
   - start: 2018-06-25
-    end: 2019-09-30
+    end: 2021-01-04
     status: independent
     employer: octo
     startups:
@@ -22,7 +22,7 @@ missions:
       - monpsy
       - tdb-apprentissage
   - start: 2025-06-02
-    end: 2025-10-31
+    end: 2025-11-30
     status: independent
     employer: Fabnum
     startups:

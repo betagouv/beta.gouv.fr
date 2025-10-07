@@ -1,6 +1,6 @@
 ---
-title: La Fabrique des géocommuns
-short_description: Lancée en décembre 2021, cet incubateur accompagne les services s’appuyant sur des <span class="fr-text--bold">données géolocalisées</span>.
+title: La Fabrique de la donnée territoriale
+short_description: Lancé en octobre 2025, cet incubateur accompagne les services s’appuyant sur l'harmonisation <span class="fr-text--bold">données territoriales</span> pour répondre aux enjeux des politiques publiques.
 owner: /organisations/ign
 logo: logo_fabrique_geocommuns.png
 website: https://fabrique-de-la-donnee-territoriale.beta.gouv.fr/
@@ -12,4 +12,4 @@ highlighted_startups:
   - vues-immersives-libres
   - bat-id
 ---
-Lancée en décembre 2021, la Fabrique des géocommuns accompagne différents produits dont le service s'appuie sur les données géolocalisées. L'ambition de la Fabrique est de faire émerger de nouveaux services publics numériques centrés autour d'usages concrets.
+Inauguré en Octobre, la Fabrique de la donnée territoriale accompagne différents produits dont le service s'appuie sur l'harmonisation des données territoriales. Cet incubateur s'inscrit dans la suite de la Fabrique des Géocommuns, incubateur de l'IGN, en embarquant dans son pilotage les représentants des collectivités territoriales et les pilotes nationaux de la politique de la donnée.

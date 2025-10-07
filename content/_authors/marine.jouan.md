@@ -1,7 +1,7 @@
 ---
 fullname: Marine Jouan
-role: Chargée de déploiement / referent territorial
-domaine: Déploiement
+role: Référente
+domaine: Autre
 missions:
   - start: 2021-10-27
     end: 2025-12-30

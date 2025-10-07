@@ -6,7 +6,7 @@ thematiques: []
 usertypes: []
 techno: []
 title: 'DPM - Facile '
-mission: 'Facilité la gestion du DPM naturel face aux enjeux du changement climatique '
+mission: 'Faciliter la gestion du DPM naturel face aux enjeux du changement climatique '
 incubator: mtes
 sponsors:
   - /organisations/dgaln

@@ -16,6 +16,12 @@ missions:
     employer: Scopyleft
     startups:
       - ma-cantine-egalim
+  - start: 2025-10-14
+    end: 2026-03-31
+    status: independent
+    employer: Solstice
+    startups:
+      - seves
 competences:
   - Communication
   - SEO

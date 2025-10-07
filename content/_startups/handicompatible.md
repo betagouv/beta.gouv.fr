@@ -2,7 +2,7 @@
 analyse_risques: false
 mon_service_securise: false
 contact: lbarrat@capemploi69.org
-title: HANDICOMPATIBLE
+title: INCLU+
 mission: Rendre accessible l'offre de service du RPE afin de rétablir l'équité dans le retour à l'emploi des personnes en situation de handicap
 incubator: francetravail
 phases:

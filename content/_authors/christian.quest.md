@@ -30,5 +30,7 @@ competences:
   - Administration Système
   - PostgreSQL
   - Data Science
+teams:
+  - /teams/fab-geocommuns
 ---
 Data addict, open, maker et récidiviste
