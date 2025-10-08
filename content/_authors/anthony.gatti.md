@@ -25,4 +25,8 @@ badges:
   - segur
 competences:
   - Gestion de Produit
+  - Administration Publique
+  - Croissance
+  - Facilitation
+  - Metabase
 ---

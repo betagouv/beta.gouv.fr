@@ -34,4 +34,3 @@ competences:
 teams:
   - /teams/fabnumdef
 ---
-JavaScript frontend/backend developer. React lover.

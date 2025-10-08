@@ -12,9 +12,8 @@ competences:
 missions:
   - start: 2025-10-07
     end: 2026-04-07
-    employer: Little Big Connection
     status: service
+    employer: Little Big Connection
     startups:
       - fondation
-teams: []
 ---

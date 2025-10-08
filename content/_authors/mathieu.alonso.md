@@ -11,6 +11,12 @@ missions:
     employer: Omnicite
     startups:
       - lannuaire.des.collectivites
+  - start: 2025-07-07
+    end: 2026-01-08
+    status: independent
+    employer: Malt
+    startups:
+      - services-web-anct
 incubator: anct
 competences:
   - Gestion de Produit
