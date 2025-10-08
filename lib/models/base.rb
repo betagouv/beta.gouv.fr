@@ -9,6 +9,9 @@ module Beta
   # instantiate all the files in the "FOLDER_IDENTIFIER" of the child
   # class.
   class Base
+    # points to an actual Jekyll document when initialized with one
+    attr_reader :document
+
     include ActiveModel::AttributeAssignment
 
     class << self
@@ -32,6 +35,19 @@ module Beta
 
       def all
         @all ||= fetch_all
+      end
+
+      def from_document(document)
+        id = File.basename(
+          document.relative_path.delete_prefix(self::FOLDER_IDENTIFIER),
+          '.md'
+        )
+
+        new(document.data.merge('id' => id)).tap do |klass|
+          klass.instance_eval do
+            @document = document
+          end
+        end
       end
 
       private
