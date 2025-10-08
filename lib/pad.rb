@@ -11,7 +11,7 @@ require_relative 'models/startup'
 Startup
   .all
   .select do |startup|
-  startup.members.count { |m| m.role.downcase.include?('coach') } == 1
+  startup.members.none? { |m| m.role.downcase.include?('coach') }
 end
 
 # -- exemple 2 : trouver les startups incubées à la DINUM en construction avec un seul développeur
@@ -19,7 +19,7 @@ Startup
   .all
   .filter { |s| s.incubator == 'dinum' }
   .filter { |s| s.in_construction? } # rubocop:disable Style/SymbolProc
-  .filter { |s| s.members.count { |member| member.domaine == 'Développement' } == 1 }
+  .filter { |s| s.members.one? { |member| member.domaine == 'Développement' } }
 
 # -- exmple 3 : trouver tout les coaches qui ont plus de 3 startups passées (i.e n'y travaillent plus)
 Member
