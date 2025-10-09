@@ -43,6 +43,7 @@ sponsors:
   - /organisations/dinum
   - /organisations/mc
 dashlord_url: https://dashlord.incubateur.net/url/www-comparia-beta-gouv-fr/
+impact_url: https://metabase.comparia.beta.gouv.fr/public/dashboard/8d5418a6-40cb-4cdb-8384-101ee6cca0be?tab=6-temps-long
 ---
 ## Le problème
 

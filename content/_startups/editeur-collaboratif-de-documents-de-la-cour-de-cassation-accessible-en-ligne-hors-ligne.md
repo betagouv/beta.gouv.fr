@@ -64,5 +64,5 @@ Les indicateurs de succès incluent :
 * Le temps gagné pour le traitement de demandes telles que la demande de certificat de non-pourvoi (objectif d’une division par un facteur moyen de 3 du temps actuel comparé à celui post mise en production). 
 * Le temps gagné via de nouveaux mécanismes de recherche et d’assistance à l’analyse juridique ou via une aide à la décision pour des cas similaires (+ déploiement dans les TGI et CA).
 * Un accès plus rapide et facile aux dossiers et à la jurisprudence : réduction du temps d’affichage des dossiers sur le portail greffe (mesure du temps actuel vs mesure du temps post mise en production).
-* La réduction de la sollicitation du service informatique par le greffe (mesure du nombre d’interventions du service informatique pour débloquer des situations, évaluée à 12% des demandes en comparaison d’un nombre d'interventions post mise en production ciblé à moins de 5%).
+* La réduction de la sollicitation du service informatique par le greffe (mesure du nombre d’interventions du service informatique pour débloquer des situations, évaluée à 31% des demandes en comparaison d’un nombre d'interventions post mise en production ciblé à moins de 5%).
 

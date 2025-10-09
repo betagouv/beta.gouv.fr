@@ -8,16 +8,13 @@ techno: []
 title: EvalIA
 mission: L’IA au service de l’ Évaluation Environnementale
 incubator: mtes
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-06-17
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-10-06
+link: ''
 ---
 ## Contexte
 

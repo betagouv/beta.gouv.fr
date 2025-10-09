@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2025-10-06
     end: 2026-01-06
-    employer: DINUM
     status: admin
+    employer: DINUM
     startups:
       - communs-de-la-transition-ecologique-des-collectivites
-teams: []
 ---

@@ -1,5 +1,5 @@
 ---
-fullname: Yannis Hadjoudj
+fullname: Yannis Hadjoujd
 role: AI Engineer
 domaine: Data
 link: https://www.linkedin.com/in/yannishadjoudj

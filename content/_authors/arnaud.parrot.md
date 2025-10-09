@@ -8,8 +8,6 @@ competences:
 missions:
   - start: 2025-10-01
     end: 2028-09-30
-    employer: Ministère de l'Intérieur
     status: admin
-    startups: []
-teams: []
+    employer: Ministère de l'Intérieur
 ---

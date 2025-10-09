@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-10-01
     end: 2026-04-04
-    employer: Solstice
     status: independent
+    employer: Solstice
     startups:
       - portail-rse
-teams: []
 ---

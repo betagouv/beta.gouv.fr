@@ -11,7 +11,7 @@ competences:
   - Communication
 missions:
   - start: 2024-07-05
-    end: 2025-12-31
+    end: 2026-03-31
     status: independent
     employer: Omnicité
     startups:

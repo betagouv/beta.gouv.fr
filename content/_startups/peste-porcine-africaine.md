@@ -17,13 +17,11 @@ sponsors:
   - /organisations/dgal
 phases:
   - name: construction
-    comment: null
     start: 2025-06-07
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-10-30
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

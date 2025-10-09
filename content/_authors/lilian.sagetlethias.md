@@ -13,19 +13,12 @@ missions:
       - archifiltre
       - egalite.professionnelle
       - maison.de.lautisme
-  - start: 2023-01-01
-    end: 2023-12-21
-    status: independent
-    employer: Opteamis
-    startups:
-      - archifiltre
-      - egalite.professionnelle
   - start: 2023-09-01
     end: 2023-12-31
     status: independent
     employer: Octo/Malt (MinArm)
   - start: 2023-11-06
-    end: 2025-11-06
+    end: 2026-04-07
     status: independent
     employer: LaZone/Pathtech (ADEME)
 incubator: ademe

@@ -24,7 +24,7 @@ missions:
     startups:
       - transition-ecologique-des-entreprises
   - start: 2025-06-03
-    end: 2025-11-30
+    end: 2026-03-31
     status: independent
     employer: Malt
 memberType: beta
