@@ -1,16 +1,16 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: jean-baptiste.demaison@ssi.gouv.fr
+contact: lab-innov@ssi.gouv.fr
 thematiques:
   - Sécurité informatique
 usertypes:
-  - entreprise
   - etat
   - collectivite-territoriale
   - association
+  - entreprise
 title: MesQuestionsCyber
-mission: Démocratiser les conseils cyber de l'ANSSI en apportant à toutes les questions cyber des spécialistes et des informaticien/nes
+mission: Démocratiser les conseils cyber de l'ANSSI en apportant des réponses à toutes les questions cyber des spécialistes et des informaticien/nes
 incubator: alliance
 sponsors:
   - /organisations/anssi
@@ -21,17 +21,16 @@ phases:
     start: 2025-09-03
 events:
   - name: product_launch
-    date: 2025-04-22
+    date: 2025-04-21
 techno: []
 link: ''
 ---
-
 
 ## L’irritant
 
 **Du point de vue des bénéficiaires**
 
-*   Les spécialistes numérique / SSI / cabinets de conseils utilisent les guides de l’ANSSI mais rencontrent souvent des difficultés à trouver les informations pertinentes (et ne connaissent pas les guides par cœur) tels que les responsables de la sécurité des systèmes d'information, architectes, adminstrateurs/ices, spécialistes cyberdéfense, etc. dont le nombre est aujourd'hui évalué à 52 000 en France aujourd'hui (source : demainspecialistecyber.fr).
+*   Les spécialistes numérique / SSI / cabinets de conseils utilisent les guides de l’ANSSI mais rencontrent souvent des difficultés à trouver les informations pertinentes (et ne connaissent pas les guides par cœur) tels que les responsables de la sécurité des systèmes d'information, architectes, administrateurs/ices, spécialistes cyberdéfense, etc. dont le nombre est aujourd'hui évalué à 52 000 en France aujourd'hui (source : demainspecialistecyber.fr).
 *   Plus généralement, d’autres bénéficiaires moins experts sont démunis quand il s'agit de savoir "comment" mettre en œuvre les mesures de sécurité proposées par l'ANSSI ou imposées par la réglementation. Ils/elles ignorent parfois même l’existence des sources d’information que sont les guides de l’ANSSI. Ces bénéficiaires se comptent par dizaines de milliers de responsables informatiques et autres équipes informatiques (2 282 collectivités de +5 000 habitants, 1 253 EPCI, 159 000 PME, 6 400 ETI).
 
 **Du point de vue de l’État**
@@ -44,7 +43,7 @@ link: ''
 Un service numérique (site et API) permettant aux bénéficiaires de l’ANSSI d’obtenir des réponses à des questions sur les bonnes pratiques / recommandations de l’ANSSI concernant la mise en œuvre de mesures de sécurité pouvant prendre des formes diverses selon le contexte de chaque système d'information :
 
 *   A partir des guides de l’ANSSI (+80 publications) et réponses préexistantes déjà apportées par l'ANSSI à des questions de bénéficiaires par "conseil cyber", ouvrant potentiellement la voie à l'intégration d'autres sources sélectionnées par l'ANSSI (publications cyber d'autres acteurs publics, articles de recherche en libre d'accès, guides de l'agence européenne pour la cybersécurité - ENISA, etc.).
-*   Sous la forme de réponses énoncées en langage naturel par l'IA susceptibles d'être doublées de précisions "maîtrisées" de l'ANSSI en réponse aux questions les plus fréquemment posées. [Elsa : surérogatoire, mais si on a des précisions sur les questions les plus fréquemment posées je trouve ça bien pour incarner le sujet] [JB : est-ce que ça te va ? J'ai mis "précisions" plutôt que "réponses"]
+*   Sous la forme de réponses énoncées en langage naturel par l'IA susceptibles d'être doublées de précisions "maîtrisées" de l'ANSSI en réponse aux questions les plus fréquemment posées.
 *   Avec les références précises associées à chaque élément de réponse proposé, permettant à un utilisateur d’aller consulter la source directement.
 
 ## La stratégie de mise en marché

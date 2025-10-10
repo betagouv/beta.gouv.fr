@@ -11,7 +11,7 @@ missions:
     startups:
       - data-subvention
   - start: 2025-08-07
-    end: 2025-11-07
+    end: 2026-01-08
     status: service
     employer: TelesCoop
     startups:

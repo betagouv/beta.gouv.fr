@@ -12,7 +12,7 @@ missions:
     status: independent
     employer: Ministère des affaires sociales
   - start: 2025-06-25
-    end: 2025-10-30
+    end: 2026-03-30
     status: independent
     employer: Ruche numérique
 memberType: beta

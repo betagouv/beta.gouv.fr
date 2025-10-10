@@ -7,11 +7,10 @@ competences: []
 missions:
   - start: 2025-09-15
     end: 2025-12-15
-    employer: DINUM
     status: admin
+    employer: DINUM
     startups:
       - collectif_objets
-teams: []
 ---
 J’ai pu accompagner des sociétés en tant que Teach lead et CTO dans des domaines très diverses (Dating @ Meetic, Santé @ Mondocteur.fr, Tourisme @ Dayuse.com, Marketplace @ Selency). J'ai également été co-fondateurs de plusieurs startups, notamment à impact (microDON et Alacaza).
 Toutes expériences m'ont permis de développer une expertise solide dans la gestion technique et la direction de projets complexes. 

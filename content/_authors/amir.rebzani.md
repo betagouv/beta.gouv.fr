@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2025-10-06
     end: 2026-01-06
-    employer: DINUM
     status: service
+    employer: DINUM
     startups:
       - data-dsn
-teams: []
 ---
