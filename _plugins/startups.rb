@@ -1,86 +1,255 @@
 # frozen_string_literal: true
 
-module Jekyll
-  class RenderStartupsApi < Liquid::Tag
-    def render(context)
-      result = {}
-      authors = context.registers[:site].collections['authors']
-      now = Date.today
-      authors.docs.each do |author|
-        author['startups']&.each do |startup|
-          unless result[startup]
-            result[startup] = {
-              'active_members' => [],
-              'previous_members' => [],
-              'expired_members' => []
-            }
-          end
-          if author.data['missions']&.last&.[]('end')&.<= now
-            result[startup]['expired_members'].push(author.id.gsub('/authors/', ''))
-          else
-            result[startup]['active_members'].push(author.id.gsub('/authors/', ''))
-          end
-        end
-        author['previously']&.each do |previous_startup|
-          unless result[previous_startup]
-            result[previous_startup] = {
-              'active_members' => [],
-              'previous_members' => [],
-              'expired_members' => []
-            }
-          end
-          result[previous_startup]['previous_members'].push(author.id.gsub('/authors/', ''))
-        end
-        next unless author['missions']
+require 'json'
+require 'date'
+require 'liquid'
 
-        author['missions'].each do |mission|
+module Jekyll
+  # rubocop:disable Metrics/ModuleLength
+  module StartupsApiHelper
+    module_function
+
+    def screenshot_helper(site)
+      @screenshot_helper ||= begin
+        helper = Object.new.extend(Jekyll::ScreenshotFilter)
+        helper
+      end
+      # Mettre à jour le contexte à chaque appel (utile si `site` change entre pages)
+      ctx = Liquid::Context.new({}, {}, { site: site })
+      @screenshot_helper.instance_variable_set(:@context, ctx)
+      @screenshot_helper
+    end
+
+    def raw_markdown_from(doc)
+      # lit le fichier tel quel (suivra le symlink)
+      raw = File.read(doc.path, mode: 'r:UTF-8')
+
+      # enlève le front matter si présent
+      if raw =~ Jekyll::Document::YAML_FRONT_MATTER_REGEXP
+        raw.sub(Jekyll::Document::YAML_FRONT_MATTER_REGEXP, '')
+      else
+        raw
+      end
+    end
+
+    def normalize_missions(raw)
+      return [] if raw.nil?
+
+      missions = raw
+      missions = missions.values if missions.is_a?(Hash)
+      missions = [missions] unless missions.is_a?(Array)
+      missions.compact
+    end
+
+    def to_date(obj)
+      return nil if obj.nil?
+      return obj if obj.is_a?(Date)
+
+      begin
+        Date.parse(obj.to_s)
+      rescue StandardError
+        nil
+      end
+    end
+
+    def blank_bucket
+      { 'active_members' => [], 'previous_members' => [], 'expired_members' => [] }
+    end
+
+    def normalize_key(key)
+      return nil if key.nil?
+
+      key.to_s.sub(%r{^/api/startups/}, '').sub(%r{^/startups/}, '')
+    end
+
+    def build_membership_index(site)
+      result = {}
+      authors = site.collections['authors']
+      now = Date.today
+
+      authors.docs.each do |author|
+        author_id = author.id.gsub('/authors/', '')
+
+        author['startups']&.each do |slug|
+          result[slug] ||= blank_bucket
+
+          missions = normalize_missions(author['missions'])
+          last_end = to_date(missions.last&.[]('end'))
+
+          if last_end && last_end <= now
+            result[slug]['expired_members'] << author_id
+          else
+            result[slug]['active_members'] << author_id
+          end
+        end
+        author['previously']&.each do |slug|
+          result[slug] ||= blank_bucket
+          result[slug]['previous_members'] << author_id
+        end
+
+        missions = normalize_missions(author['missions'])
+        missions.each do |mission|
           next unless mission['startups']
 
-          mission['startups'].each do |startup|
-            unless result[startup]
-              result[startup] = {
-                'active_members' => [],
-                'previous_members' => [],
-                'expired_members' => []
-              }
-            end
-            if !mission['end'] || ((mission['start'] <= now) && (mission['end'] >= now))
-              result[startup]['active_members'].push(author.id.gsub('/authors/', ''))
-            elsif mission['end'] <= now
-              result[startup]['expired_members'].push(author.id.gsub('/authors/', ''))
+          mission['startups'].each do |slug|
+            result[slug] ||= blank_bucket
+
+            start_date = to_date(mission['start'])
+            end_date   = to_date(mission['end'])
+
+            if end_date.nil? || (start_date && start_date <= now && end_date && end_date >= now)
+              result[slug]['active_members'] << author_id
+            elsif end_date && end_date <= now
+              result[slug]['expired_members'] << author_id
             end
           end
         end
       end
-      startups = context.registers[:site].collections['startups']
+      result.each_value do |bucket|
+        bucket['active_members'].uniq!
+        bucket['previous_members'].uniq!
+        bucket['expired_members'].uniq!
+      end
+      result
+    end
+
+    def build_membership_for_slug(site, slug)
+      bucket = blank_bucket
+      authors = site.collections['authors']
+      now = Date.today
+
+      authors.docs.each do |author|
+        author_id = author.id.gsub('/authors/', '')
+        if author['startups']&.include?(slug)
+          missions = normalize_missions(author['missions'])
+          last_end = to_date(missions.last&.[]('end'))
+          if last_end && last_end <= now
+            bucket['expired_members'] << author_id
+          else
+            bucket['active_members'] << author_id
+          end
+        end
+
+        bucket['previous_members'] << author_id if author['previously']&.include?(slug)
+
+        missions = normalize_missions(author['missions'])
+        missions.each do |mission|
+          next unless mission['startups']&.include?(slug)
+
+          start_date = to_date(mission['start'])
+          end_date   = to_date(mission['end'])
+
+          if end_date.nil? || (start_date && start_date <= now && end_date && end_date >= now)
+            bucket['active_members'] << author_id
+          elsif end_date && end_date <= now
+            bucket['expired_members'] << author_id
+          end
+        end
+      end
+
+      bucket['active_members'].uniq!
+      bucket['previous_members'].uniq!
+      bucket['expired_members'].uniq!
+      bucket
+    end
+
+    def build_startup(site, slug, membership_index: nil, full: false)
+      slug = normalize_key(slug)
+      return nil if slug.nil? || slug.empty?
+
+      startups = site.collections['startups']
+      doc = startups.docs.find { |s| s.id.gsub('/startups/', '') == slug }
+      members = membership_index ? (membership_index[slug] || blank_bucket) : build_membership_for_slug(site, slug)
+      record = {}
+      record['id'] = slug
+      record['name'] = doc ? doc['title'] : nil
+      record['repository'] = doc ? doc['repository'] : nil
+      record['contact'] = doc ? doc['contact'] : nil
+      record['phases'] = doc ? doc['phases'] : nil
+      record['active_members'] = members['active_members']
+      record['previous_members'] = members['previous_members']
+      record['expired_members'] = members['expired_members']
+
+      if doc && full
+        extra_fields = %w[
+          mission
+          link
+          incubator
+          accessibility_status
+          stats_url
+          budget_url
+          impact_url
+          dashlord_url
+          redirect_from
+          usertypes
+          techno
+          mon_service_securise
+        ]
+        extra_fields.each do |field|
+          record[field] = doc[field]
+        end
+        record['content'] = raw_markdown_from(doc)
+        record['screenshot'] = screenshot_helper(site).screenshot(doc)
+      end
+
+      record
+    end
+
+    def build_index(site)
+      result = {}
+      membership_index = build_membership_index(site)
+      startups = site.collections['startups']
       startups.docs.each do |startup|
         startupId = startup.id.gsub('/startups/', '')
-        unless result[startupId]
-          result[startupId] = {
-            'active_members' => [],
-            'previous_members' => [],
-            'expired_members' => []
-          }
-        end
-        result[startupId]['id'] = startupId
-        result[startupId]['name'] = startup['title']
-        result[startupId]['repository'] = startup['repository']
-        result[startupId]['contact'] = startup['contact']
-        result[startupId]['phases'] = startup['phases']
-        result[startupId]['active_members'] = result[startupId]['active_members'].uniq
-        result[startupId]['previous_members'] = result[startupId]['previous_members'].uniq
-        result[startupId]['expired_members'] = result[startupId]['expired_members'].uniq
+        result[startupId] = build_startup(site, startupId, membership_index: membership_index)
       end
+      membership_index.each_key do |slug|
+        next if result.key?(slug)
+
+        result[slug] = build_startup(site, slug, membership_index: membership_index)
+      end
+
+      result
+    end
+  end
+  # rubocop:enable Metrics/ModuleLength
+
+  class RenderStartupsApi < Liquid::Tag
+    def render(context)
+      site = context.registers[:site]
+      result = StartupsApiHelper.build_index(site)
       JSON.pretty_generate(result)
+    end
+  end
+
+  class RenderStartupApi < Liquid::Tag
+    def initialize(tag_name, markup, tokens)
+      super
+      @markup = markup.to_s.strip
+    end
+
+    def render(context)
+      site = context.registers[:site]
+
+      key =
+        if @markup.empty?
+          (context['page']['slug'] ||
+           context['page']['id'].to_s.split('/').last).to_s
+        else
+          rendered = Liquid::Template.parse("{{ #{@markup} }}").render!(context).to_s.strip
+          rendered = @markup if rendered.empty?
+          rendered
+        end
+
+      key = StartupsApiHelper.normalize_key(key)
+      record = StartupsApiHelper.build_startup(site, key, full: true)
+      JSON.pretty_generate(record || { 'error' => "startup not found: #{key}" })
     end
   end
 
   module FastFilter
     def fast_promotion(startups, promotion, sort_order = nil)
-      laureates = startups.filter do |startup|
-        startup.data.dig('fast', 'promotion') == promotion
-      end
-
+      laureates = startups.filter { |startup| startup.data.dig('fast', 'promotion') == promotion }
       return laureates if sort_order.nil?
 
       laureates.sort_by { |l| l.data.dig('fast', sort_order) }
@@ -89,5 +258,5 @@ module Jekyll
 end
 
 Liquid::Template.register_filter(Jekyll::FastFilter)
-
 Liquid::Template.register_tag('render_startups_api', Jekyll::RenderStartupsApi)
+Liquid::Template.register_tag('render_single_startup_api', Jekyll::RenderStartupApi)
