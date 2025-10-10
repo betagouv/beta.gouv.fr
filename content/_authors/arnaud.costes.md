@@ -12,9 +12,8 @@ competences:
 missions:
   - start: 2025-10-09
     end: 2026-01-31
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - api-engagement
-teams: []
 ---
