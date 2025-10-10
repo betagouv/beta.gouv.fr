@@ -7,6 +7,7 @@ missions:
     end: 2025-12-31
     status: service
     startups:
+      - monitorfish
       - rapportnav
 memberType: attributaire
 competences:

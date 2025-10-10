@@ -16,13 +16,11 @@ sponsors:
   - /organisations/msjop
 phases:
   - name: investigation
-    comment: null
     start: 2025-09-19
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-10-08
+link: ''
 ---
 ## Contexte
 

@@ -1,6 +1,6 @@
 ---
-title: La Fabrique Numérique de l'Ecologie (MTE-MCT)
-short_description: Lancé en 2017, cet incubateur a pour mission de soutenir les services en faveur de l’<span class="fr-text--bold">écologie et des territoires</span>.
+title: La Fabrique Numérique de l'Ecologie (MTE)
+short_description: Lancé en 2017, cet incubateur a pour mission de soutenir les services en faveur de l’<span class="fr-text--bold">aménagement du territoire et la transition écologique</span>.
 owner: /organisations/mtes
 logo: logo_fabnum_mtes.png
 github: https://github.com/MTES-MCT/
@@ -19,4 +19,4 @@ Lancée en 2017, l'incubateur du pôle ministériel Transition écologique - Coh
 - des directions inter-régionales de la mer (DIRM)
 - des directions interdépartementales des routes (DIR).
 
-Sa mission : accompagner, soutenir et porter les intrapreneurs des ministères en charge de **l’écologie et des territoires**.
+Sa mission : accompagner, soutenir et porter les intrapreneurs des ministères en charge de **l'aménagement du territoire et de la transition écologique**.
