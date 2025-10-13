@@ -1,6 +1,6 @@
 ---
 fullname: Gael Giffard
-role: Product Owner
+role: Product Manager
 domaine: Produit
 competences: []
 missions:
@@ -9,5 +9,6 @@ missions:
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:
-      - l-immersion-facile
+      - dora
+      - les-emplois
 ---

@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2025-10-08
     end: 2026-01-08
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - envirogend
-teams: []
 ---

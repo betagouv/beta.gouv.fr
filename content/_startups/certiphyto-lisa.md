@@ -10,7 +10,7 @@ usertypes:
   - Administration
   - Agriculteur
   - Organisme de formation
-title: Certiphyto - LISA
+title: Certiphyto - LENA
 mission: Faciliter les démarches du Certiphyto
 incubator: agriculture
 sponsors:
@@ -18,13 +18,12 @@ sponsors:
   - /organisations/direction-generale-de-l-enseignement-et-de-la-recherche
 phases:
   - name: investigation
-    comment: null
     start: 2025-10-09
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-10-09
+techno: []
+link: ''
 ---
 Contexte
 

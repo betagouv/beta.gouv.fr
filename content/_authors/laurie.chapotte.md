@@ -12,8 +12,6 @@ missions:
       - compte.rendu.vif
       - donnees-spectacle
       - ellesfontlaculture
-teams:
-  - /teams/culture
 link: https://www.linkedin.com/in/lauriechapotte/
 competences: []
 ---
