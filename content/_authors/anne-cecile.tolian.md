@@ -8,7 +8,7 @@ competences:
   - Product strategy
 missions:
   - start: 2025-07-02
-    end: 2025-10-02
+    end: 2025-12-02
     status: independent
     employer: Dynergie
 ---

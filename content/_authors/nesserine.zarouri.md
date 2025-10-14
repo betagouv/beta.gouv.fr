@@ -5,7 +5,7 @@ domaine: Produit
 github: NesserineZarouri
 missions:
   - start: 2022-04-12
-    end: 2025-11-12
+    end: 2026-03-31
     status: independent
     employer: SCOPYLEFT
     startups:

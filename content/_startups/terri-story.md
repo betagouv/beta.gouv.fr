@@ -12,22 +12,25 @@ usertypes:
 title: TerriSTORY
 mission: Rendre TerriSTORY® accessible à un plus grand nombre de territoires, quels que soient leur taille ou leur niveau d’expertise
 incubator: anct
-sponsors: []
+sponsors:
+  - /organisations/anct
+  - /organisations/dinum
+  - /organisations/sgpe
 phases:
   - name: investigation
-    comment: null
-    start: 2025-10-13
-    end: null
+    start: 2025-04-18
+  - name: construction
+    start: 2025-07-01
 events:
   - name: product_launch
-    comment: ''
     date: 2025-10-13
+repository: https://gitlab.com/terristory/terristory
+techno: []
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
 ## Contexte
 
-Face à l'urgence climatique et aux obligations réglementaires croissantes (PCAET, SRADDET, SNBC), les collectivités territoriales doivent piloter leur transition écologique avec des données fiables et actualisées. Lancée en 2018 en Auvergne-Rhône-Alpes par AURA-EE, TerriSTORY est une plateforme open source co-construite avec les territoires, aujourd'hui déployée dans 6 régions et utilisée par plus de 11 500 acteurs territoriaux. Elle entame désormais une nouvelle étape de son développement : son essaimage à l’échelle nationale. L’ambition est claire : faire de TerriSTORY un commun numérique de référence, accessible à tous les territoires, et interopérable avec l’écosystème des services publics numériques.
+Face à l'urgence climatique et aux obligations réglementaires croissantes (PCAET, SRADDET, SNBC), les collectivités territoriales doivent piloter leur transition écologique avec des données fiables et actualisées. Lancée en 2018 en Auvergne-Rhône-Alpes par AURA-EE, TerriSTORY est une plateforme open source co-construite avec les territoires, déployée dans 6 régions et utilisée par plus de 11 500 acteurs territoriaux. Soutenue par le Fonds d’investissement “Numérique et données pour la planification écologique” [(FINDPE)](https://beta.gouv.fr/startups/guichet-territorial-pour-la-transition-ecologique.html), elle entame désormais une nouvelle étape de son développement : son essaimage à l’échelle nationale. L’ambition est claire : faire de TerriSTORY un commun numérique de référence, accessible à tous les territoires, et interopérable avec l’écosystème des services publics numériques.
 
 ## Problème
 

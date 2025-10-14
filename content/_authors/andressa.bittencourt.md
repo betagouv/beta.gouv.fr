@@ -9,6 +9,12 @@ missions:
     employer: Diair
     startups:
       - refugies.info
+  - start: 2025-10-01
+    end: 2026-01-31
+    status: independent
+    employer: Malt
+    startups:
+      - domifa
 link: https://www.linkedin.com/in/andressa-bittencourt-09030098/
 competences:
   - Communication

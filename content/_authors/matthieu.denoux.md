@@ -14,5 +14,6 @@ missions:
     employer: ANCT
     startups:
       - guichet-territorial-pour-la-transition-ecologique
+      - terri-story
 link: https://www.linkedin.com/in/matthieu-denoux/
 ---

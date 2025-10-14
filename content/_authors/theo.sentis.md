@@ -12,4 +12,5 @@ missions:
     employer: Malt
     startups:
       - guichet-territorial-pour-la-transition-ecologique
+      - terri-story
 ---
