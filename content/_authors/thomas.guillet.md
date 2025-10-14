@@ -22,11 +22,17 @@ missions:
   - start: 2021-12-01
     end: 2024-09-01
     status: independent
-    employer: Codeurs en Liberté
+    employer: Codeureuses en Liberté
   - start: 2024-11-12
-    end: 2025-11-11
+    end: 2026-01-01
     status: independent
-    employer: Codeurs en Liberté
+    employer: Codeureuses en Liberté
+    startups:
+      - peste-porcine-africaine
+  - start: 2025-09-15
+    end: 2026-03-01
+    status: independent
+    employer: Codeureuses en Liberté
 previously:
   - aides.jeunes
   - je-deviens-etudiant

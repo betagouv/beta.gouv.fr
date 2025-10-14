@@ -8,7 +8,6 @@ competences:
   - Data Science
   - Développement Full-stack
   - JavaScript/TypeScript
-  - Machine learning
   - PostgreSQL
   - Python
   - Docker
@@ -16,7 +15,7 @@ competences:
   - Développement Frontend
 missions:
   - start: 2025-07-15
-    end: 2025-10-15
+    end: 2026-01-15
     status: independent
     employer: Malt
     startups:

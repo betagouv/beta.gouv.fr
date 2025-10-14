@@ -8,10 +8,9 @@ competences:
 missions:
   - start: 2025-10-10
     end: 2026-04-10
-    employer: Scopopop
     status: independent
+    employer: Scopopop
     startups:
       - acceslibre
-teams: []
 ---
 Forte de plusieurs expériences en CRM, je maitrise les outils CRM pour faire grandir et fidéliser une communauté
