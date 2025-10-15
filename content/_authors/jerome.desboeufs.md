@@ -54,6 +54,18 @@ missions:
     employer: Living Data
     startups:
       - prelevements.deau
+  - start: 2025-10-01
+    end: 2026-03-31
+    status: service
+    employer: Living Data
+    startups:
+      - viz-eau
+  - start: 2025-10-01
+    end: 2026-03-31
+    status: service
+    employer: Living Data
+    startups:
+      - sain-eau
 competences:
   - Croissance
   - Product strategy

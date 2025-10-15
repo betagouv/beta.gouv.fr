@@ -7,7 +7,7 @@ missions:
     end: 2025-03-28
     status: independent
   - start: 2025-06-18
-    end: 2025-10-31
+    end: 2025-12-30
     status: independent
     employer: PathTech
     startups:

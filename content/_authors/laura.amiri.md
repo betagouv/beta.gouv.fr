@@ -10,6 +10,7 @@ missions:
     startups:
       - guichet-territorial-pour-la-transition-ecologique
       - nosgestesclimat
+      - terri-story
       - territoires-en-transitions
 badges:
   - segur

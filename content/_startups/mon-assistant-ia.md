@@ -26,35 +26,52 @@ events:
   - name: product_launch
     date: 2025-05-02
     comment: 'Ouverture beta aux agents de la DINUM '
+  - name: other
+    date: 2025-10-22
+    comment: Lancement de la nouvelle plateforme en expérimentation fermée
+repository: https://github.com/suitenumerique/conversations#
 ---
-# 🎯 Notre Vision
+## 🧭 Assistant IA : fin de la phase 1 de l'expérimentation et suite du projet
 
-> Améliorer l'efficacité de l'Etat en accélérant l'exécution des tâches métiers des agents publics grâce à l'intelligence artificielle.
+Bonjour à toutes et à tous,
 
-# 📊 Métriques
+L’expérimentation de **l’Assistant IA sous sa forme actuelle** touche à sa fin. Le plateforme disponible sur <https://albert.numerique.gouv.fr> va donc fermer ses portes prochainement.\
+Ces derniers mois nous ont permis de collecter de précieuses données et retours d’usage — autant d’enseignements qui nourrissent la création d’un outil plus **robuste**, **mieux adapté aux besoins identifiés pour la fonction publique d'état**.
 
-* ⭐ Fréquence d'utilisation moyenne par semaine
+Nous avions besoin de vos retours d'utilisation de cet outil pour valider les hypothèses de besoin d'outils d'IA générative de ce genre pour l'administration. Vous avez été au rendez-vous et nous vous en remercions !
 
-* Evaluations des réponses utile / non utile
+Grâce à vous, nous passons à **la phase 2 🚀 de l'Assistant IA 🤖**
 
-Les métriques d'impact pourront différer pour les compagnons selon les cas d'usage.
+### 🚧 Et maintenant ?
 
-# 🚀 Stratégie
+Un **nouvel Assistant IA** est en cours de développement, dans la continuité de la version actuelle, pleinement intégré à l'écosystème de [La Suite Numérique](https://lasuite.numerique.gouv.fr/), construit par et pour des agents publics.\
+Celui-ci sera :
 
-> Déployer un assistant IA conversationnel **éthique**, **souverain, personnalisable**, capable de répondre de manière pertinente à 85% des requêtes tout en garantissant la fiabilité des sources et le respect des normes, pour les agents publics de la fonction publique d'Etat, dans l'optique d'améliorer l'efficacité l'Etat d'une manière générale.
+* en expérimentation **restreinte** à partir du 22 octobre 2025,
 
-Pour répondre à cette stratégie, trois axes :
+* en expérimentation **ouverte&#x20;**&#xE0; partir de janvier 2026.
 
-1. Déployer une IA souveraine, généraliste de qualité pour des tâches simples [en commençant au sein de la DINUM] pour améliorer l'efficacité des agents pris individuellement
+Là ou la première expérimentation avait pour but de valider le besoin, celle-ci permettra de valider les choix techniques retenus et de commencer le déploiement plus large aux agents publics
 
-2. Personnaliser les agents IA sur les tâches métiers pour améliorer l'efficacité des Administrations et leurs outils [GPTs privés ou publics]
+#### 🗼 Les points phares de la nouvelle version :
 
-3. Rendre autonome les agents plus experts sur la spécialisation de leurs agents IA pour bénéficier pleinement des capacités de l'intelligence artificielle
+* Une recherche internet plus poussée
 
-🎯 **Objectif été 2025** : Ouvrir l'Assistant IA à la DINUM ✅ et à certaines populations restreintes accompagnées par ALLiaNCE - Valider la pertinence de l'Assistant IA sur 3 cas d’usages d’ALLiaNCE
+* Des modèles plus performants
 
-*Périmètre envisageable : (RH / Cybersécurité / Campus Numérique)*
+* Un meilleur contrôle des données et de leur utilisation
 
-# 💡 Solution
+* Une démarche d'homologation facilitée par la maîtrise de toute la chaîne de conception du produit
 
-Notre Assistant IA conversationnel est spécialement conçu pour les agents de la fonction publique d'État, leur offrant un outil souverain et sécurisé pour accélérer leurs tâches quotidiennes grâce à l'intelligence artificielle.
+### 🕓 Fermeture de la plateforme actuelle
+
+La plateforme actuelle devrait fermer **le 22 octobre 2025**, pour pouvoir pleinement expérimenter et tester la nouvelle version.
+
+### 💫 Vous avez utilisé régulièrement l'Assistant IA ?
+
+Nous serions reconnaissant de récupérer vos retours, rdv sur le canal Tchap de l'Assistant IA pour trouver le lien du formulaire de retours.
+
+Merci à toutes et tous pour vos échanges, vos idées, vos tests et votre bienveillance tout au long de cette aventure 🙏\
+La suite s’annonce passionnante, et nous avons hâte de continuer à la construire avec vous.
+
+Les informations sur la suite du projet viendront sur ce canal dans les prochains jours.

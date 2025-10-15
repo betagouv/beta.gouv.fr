@@ -1,6 +1,6 @@
 ---
 fullname: Romaric Haldenwang
-role: CTO à DossierFacile
+role: EIG-CTO
 domaine: Développement
 github: Rhmaric
 link: https://fr.linkedin.com/in/romaric-haldenwang

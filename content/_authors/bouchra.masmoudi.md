@@ -10,4 +10,5 @@ missions:
     employer: La Ruche numérique
     startups:
       - prest-agri
+link: https://www.linkedin.com/in/bouchra-masmoudi-29b43731?trk=contact-info
 ---

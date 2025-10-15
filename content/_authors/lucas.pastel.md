@@ -15,6 +15,12 @@ missions:
     employer: Malt
     startups:
       - dora
+  - start: 2025-10-15
+    end: 2026-02-28
+    status: independent
+    employer: Octo
+    startups:
+      - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
 previously:
   - la.communaute.de.linclusion
 competences: []

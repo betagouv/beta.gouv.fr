@@ -43,7 +43,7 @@ techno:
 ## Contexte et enjeux
 
 15 millions de Français prennent chaque jour au moins un repas hors de leur domicile, dont plus de la moitié en restauration collective. Cette spécificité française fait de la restauration collective un passage obligé pour de nombreux français.
-Au total, ce sont près de 100 000 structures de restauration collective, publiques ou privées, qui distribuent plus de 3,5 milliards de repas par an. Compte tenu de l’importance de ce secteur, il est essentiel d’en faire un levier de premier plan dans la transformation de notre modèle alimentaire.
+Au total, ce sont près de 85 000 structures de restauration collective, publiques ou privées, qui distribuent plus de 3,5 milliards de repas par an. Compte tenu de l’importance de ce secteur, il est essentiel d’en faire un levier de premier plan dans la transformation de notre modèle alimentaire.
 
 **La restauration collective est un levier puissant pour faire évoluer les pratiques alimentaires, réduire les inégalités et recréer de la valeur ajoutée pour les filières de qualité, notamment l'agriculture biologique.**
 
@@ -59,12 +59,10 @@ Ainsi, l’enjeu principal pour la plateforme « ma cantine » reste de poursu
 
 ## "Mieux manger de la crèche à l'EHPAD" : ma-cantine, plateforme nationale pour une transition alimentaire en restauration collective
 
-**
 3 objectifs : 
 1. Accompagner la transformation des pratiques en outillant les gestionnaires pour le pilotage de leurs achats, le suivi et la réduction du gaspillage,..
 2. Permettre une fluidification des remontées de données quanti et qualitatives pour objectiver les avancées du secteur et aider le pilotage de la politique publique
 3. Accroître la transparence et la communication aux convives du secteur
-**
 
 pour répondre à ces objectifs, les fonctionnalités et servis rendus sont nombreux et en évolution constante : 
 - Accompagnement pour comprendre les obligations légales (EGalim, Anti-gaspillage, Climat et Résilience)
@@ -77,9 +75,8 @@ La plateforme vise à répondre aux besoins des utilisateurs de manière inclusi
 
 ## En chiffres : 
 
-- 38 374 : nombre de cantines inscrites, soit près de 50% du volume total estimé des établissements
-- 10k : le nombre de sites de restauration ayant remonté leurs données d'approvisionnement
-dans cet échantillon, une part de produits bio estimée à 13% en moyenne en 2022
+- 56 809 : nombre de cantines inscrites en octobre 2025, soit près de 65% du volume total estimé des établissements
+- 34k : le nombre de sites de restauration ayant remonté leurs données d'approvisionnement en 2025. Dans cet échantillon, une part de produits bio estimée à 12,2%.
 
 Pour plus d'informations, consulter le rapport annuel 2023
 [Pour plus d'informations, consulter le rapport annuel 2023](https://894795896-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MSCF7Mdc8yfeIjMxMZr%2Fuploads%2FbEQa5jADHE8lP17X4lg4%2FBilan%20statistique%20EGALIM%202023_macantine.pdf?alt=media&token=2b11edf6-0b82-4d1c-8cea-ce2ab95d712f) ou les [statistiques de la plateforme](https://ma-cantine-metabase.cleverapps.io/public/dashboard/3dab8a21-c4b9-46e1-84fa-7ba485ddfbbb)

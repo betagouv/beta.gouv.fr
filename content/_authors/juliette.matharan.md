@@ -4,8 +4,9 @@ role: Chargée de déploiement
 domaine: Déploiement
 link: https://www.linkedin.com/in/juliettematharan/
 competences:
-  - Communication
   - Croissance
+  - Communication
+  - Product strategy
 missions:
   - start: 2025-03-25
     end: 2026-01-31

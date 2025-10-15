@@ -44,6 +44,9 @@ events:
   - name: committee
     date: 2025-02-14
     comment: Comité d'investissement
+  - name: committee
+    date: 2025-10-02
+    comment: Comité d'investissement
 mon_service_securise: true
 impact_url: https://mission-transition-ecologique.beta.gouv.fr/stats
 ---

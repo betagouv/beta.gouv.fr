@@ -17,6 +17,12 @@ missions:
     employer: Living Data
     startups:
       - prelevements.deau
+  - start: 2025-10-14
+    end: 2026-03-31
+    status: service
+    employer: Living Data
+    startups:
+      - viz-eau
 previously:
   - datapass
   - geo.data.gouv.fr

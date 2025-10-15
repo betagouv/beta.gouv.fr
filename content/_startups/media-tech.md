@@ -6,10 +6,11 @@ repository: https://github.com/etalab-ia/mediatech
 link: https://huggingface.co/collections/AgentPublic/mediatech-68309e15729011f49ef505e8
 thematiques:
   - Intelligence artificielle
+  - Open-Data
 usertypes:
   - etat
 title: MediaTech
-mission: Un outil open source conçu pour convertir automatiquement les données publiques brutes des administrations en ressources fiables et prêtes à l’usage pour l’intelligence artificielle.
+mission: MediaTech est une librairie de jeux de données publiques pré-traités et vectorisés, conçus pour être immédiatement exploitable dans des projets d’intelligence artificielle.
 incubator: alliance
 sponsors:
   - /organisations/dinum
@@ -19,45 +20,55 @@ phases:
 events:
   - name: product_launch
     date: 2025-09-03
+techno:
+  - PostgreSQL
+  - python
+  - docker
+  - airflow
 ---
-# MediaTech, c’est quoi ?
+## **Contexte**
 
-Un **outil open source** développé pour **transformer des données publiques brutes** (issues d’administrations) en **données prêtes à l’emploi pour l’intelligence artificielle** de manière automatisée.
+L’administration française dispose d’une **richesse considérable de données publiques**, issues de multiples sources (Légifrance, CNIL, data.gouv.fr, etc.). Cependant, **exploiter ces données pour développer des solutions d’intelligence artificielle reste un défi majeur** : les données sont souvent dispersées, hétérogènes, non nettoyées et nécessitent un pré-traitement long et coûteux avant d’être utilisables par les équipes IA.
 
-### **À quoi ça sert concrètement ?**
+Dans un contexte où l’État cherche à **accélérer l’adoption de l’IA** dans ses administrations, il devient essentiel de fournir un accès simplifié à des jeux de données publics de qualité.
 
-* **Télécharger** automatiquement des jeux de données publics (ex : Service-Public.fr, Légifrance…)
+## **Problème**
 
-* **Nettoyer, structurer et vectoriser** ces données (pour qu’elles soient comprises par une IA ou utiles pour de la recherche sémantique)
+Avant MediaTech, les équipes souhaitant développer une application basée sur des données publiques (moteur de recherche, chatbot, outil d’analyse, etc.) devaient :
 
-* **Les stocker** dans une base de données PostgreSQL
+- rechercher les jeux de données sur différentes plateformes,
+- les télécharger et les nettoyer manuellement,
+- les transformer en formats exploitables pour les modèles IA,
+- et construire elles-mêmes la chaîne de vectorisation ou d’indexation.
 
-* **Les exporter** facilement (en fichiers Parquet, vers Hugging Face, Albert API etc.)
+Ce processus mobilise **des semaines de travail technique, crée des redondances entre administrations, et freine le passage à l’échelle des projets IA publics**.
 
-### **Pourquoi c’est utile ?**
+En parallèle, **les jeux de données disponibles ne sont pas toujours compatibles avec les besoins des modèles modernes** (LLM, RAG, embeddings, etc.), ce qui limite leur réutilisation et leur valeur.
 
-* Les données publiques sont souvent **difficiles à exploiter directement**.
+## **Solution**
 
-* MEDIATECH les rend **accessibles, normalisées et prêtes** pour :
+**MediaTech** apporte une réponse directe à ces obstacles.
 
-  * des chatbots publics,
+Il s’agit d’une **librairie de jeux de données publics pré-traités et vectorisés**, **prêts à être utilisés pour les projets d’intelligence artificielle de l’administration**.
 
-  * des moteurs de recherche augmentés (RAG),
+Les données y sont :
+- nettoyées, structurées et homogénéisées,
+- vectorisées pour un usage immédiat dans des moteurs de recherche sémantiques ou des modèles de langage,
+- hébergées sur des plateformes accessibles et souveraines, comme data.gouv.fr
+ et Hugging Face.
 
-  * ou toute application IA dans l’administration.
+L’ensemble du projet est **open source, disponible sur le GitHub d’Étalab, et ouvert à la contribution communautaire** (ajouts de jeux de données, signalement d’erreurs, suggestions).
 
-### **Côté technique :**
+## Où trouver ces données ?
 
-* L’exécution des différentes pipelines de données est possible directement depuis le Airflow instancié dans la VM
+Aujourd'hui, 9 jeux de données sont à disposition sur :
 
-* Tout est aussi pilotable en ligne de commande (`mediatech`) ou avec un script (`update.sh`)
+* **[Hugging Face](https://huggingface.co/collections/AgentPublic/mediatech-68309e15729011f49ef505e8)**, la première plateforme communautaire de l'intelligence artificielle dans le monde.
 
-* Utilise Airflow + Docker + PostgreSQL + Python
+* **[data.gouv.fr](http://data.gouv.fr)**, la plateforme de diffusion de données publiques de l'État français.
 
-* Compatible avec Hugging Face pour la publication de datasets
+## Objectif à 6 mois
 
-* *Met à jour automatiquement ces collections publiques présentes sur Albert API (à venir)*
+Prochainement, l'objectif est que les jeux de données soient disponibles su&#x72;**&#x20;[Albert API](https://alliance.numerique.gouv.fr/produit/albert/)&#x20;**, l'outil développé par l'État français pour centraliser, sécuriser et simplifier l'usage de modèles d'IA générative de manière souveraine au sein de l'administration.
 
-### **En résumé :**
 
-MEDIATECH, c’est **l’usine de traitement automatisée des données publiques** **vectorisées&#x20;**: elle prépare les données et s'assure de leur mise à jour pour qu’on puisse enfin **les utiliser intelligemment** dans les services publics boostés à l’IA.
