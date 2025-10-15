@@ -9,12 +9,19 @@ missions:
     status: admin
     employer: Ministère de la Justice
     startups:
+      - a-just
       - experts
+      - fondation
+      - infoparquet
       - investigation-cour-d-appel-de-paris
       - jafer
       - mistral-penal
+      - mon-suivi-justice
       - precontentieux.justice
+      - presence-judiciaire
+      - rdv.mjd
       - romin
+      - themis
 teams:
   - /teams/justice
 badges:

@@ -9,6 +9,11 @@ missions:
     employer: ANCT
     startups:
       - monstage
+  - start: 2024-06-01
+    end: 2024-10-01
+    status: admin
+    startups:
+      - 1-eleve-1-stage
   - start: 2024-10-01
     end: 2029-12-14
     status: admin
@@ -21,6 +26,17 @@ missions:
     employer: ANCT
     startups:
       - rdv-service-public
+  - start: 2025-05-05
+    end: 2025-10-30
+    status: admin
+    startups:
+      - agents.en.intervention
+  - start: 2025-06-16
+    end: 2026-01-30
+    status: admin
+    employer: ANCT
+    startups:
+      - services-web-anct
 competences:
   - Intrapreneur(se)
   - Administration Publique
