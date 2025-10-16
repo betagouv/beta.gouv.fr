@@ -11,10 +11,9 @@ competences:
 missions:
   - start: 2025-10-13
     end: 2026-01-31
-    employer: ut7
     status: independent
+    employer: ut7
     startups:
       - cestquilepro
-teams: []
 ---
 Entrepreneure engagée dans l’innovation sociale, je développe des projets à impact dans les domaines de l’éducation, de la coopération territoriale et de la transition démocratique. Forte d’une expérience à la croisée de l’intelligence collective, de la conception de dispositifs participatifs et de l’entrepreneuriat, je mets mon expertise au service de projets qui favorisent l’apprentissage, l’inclusion et la transformation des organisations.

@@ -37,7 +37,7 @@ phases:
     start: 2024-03-04
   - name: acceleration
     start: 2025-09-01
-stats_url: https://cestquilepro.inserjeunes.beta.gouv.fr/stats
+stats_url: https://statistiques.cestquilepro.inserjeunes.beta.gouv.fr/
 ---
 ## Un service de la mission interministérielle Inserjeunes
 

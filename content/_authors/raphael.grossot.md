@@ -10,8 +10,6 @@ missions:
     employer: Malt
     startups:
       - france-numerique-ensemble
-teams:
-  - /teams/agriculture-equipe-transverse
 link: https://raphaelgrossot.com
 competences:
   - UX

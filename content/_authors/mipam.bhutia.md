@@ -5,7 +5,7 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2024-09-16
-    end: 2025-10-31
+    end: 2026-01-15
     status: admin
     employer: ANSM
     startups:

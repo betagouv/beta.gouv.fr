@@ -6,7 +6,7 @@ thematiques:
   - Entreprises
   - Travail / Emploi
 title: Ma communauté Créa
-mission: Aider les entrepreneurs à développer leur activité
+mission: Aider les demandeurs d'emploi entrepreneurs à sortir de leur isolement grâce aux échanges entre pairs
 incubator: francetravail
 phases:
   - name: investigation
@@ -14,6 +14,7 @@ phases:
 events:
   - name: committee
     date: 2025-10-14
+    comment: Passage en expérimentation
 usertypes:
   - Entrepreneurs inscrits à France Travail
 techno: []
@@ -24,10 +25,11 @@ Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de sui
 
 ## Problème
 
-50% des entreprises ont cessé 5 ans après leur démarrage. Ce chiffre est impactant pour France Travail car la moitié de ces entrepreneurs passent par nos services. Il n'existe aujourd'hui pas d'offre de service nationale et digitale pour aider et accompagner ce public. De plus, ces entrepreneurs peuvent se sentir isolés, ce qui n'aide pas au développement de leur entreprise.
+Les entrepreneurs inscrits à France Travail se sentent seuls face à leur difficulté de gestion d'entreprise. Ils ne sont pas accompagnés et n'ont parfois personne avec qui échanger sur leurs problèmes. Ils peuvent ainsi se retrouver bloqués dans certaines situations et arrêter de développer leur chiffre d'affaires.  
+
 
 ## Solution
 
-L'idée serait de créer une application et/ou plateforme digitale qui puisse les accompagner sur plusieurs champs comme le coaching, l'orientation vers les bons sites et également une communauté qui pourrait s'entraider. 
+L'idée serait de créer une application et/ou plateforme digitale qui puisse permettre aux DE d'échanger entre eux afin de les aider à résoudre leurs difficultés et trouver du soutien. 
 
 

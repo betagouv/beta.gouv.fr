@@ -8,10 +8,9 @@ competences:
 missions:
   - start: 2024-11-01
     end: 2025-12-30
-    employer: Atelier numérique
     status: admin
+    employer: Atelier numérique
     startups:
       - archeolog-ia
-teams: []
 ---
 Ingénieur géomètre et archéologue, je suis spécialisé dans les applications de la géomatique à l'archéologie : acquisition, traitement, analyse et diffusion de la donnée géographique.

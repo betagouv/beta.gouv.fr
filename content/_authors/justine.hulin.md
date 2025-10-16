@@ -9,8 +9,6 @@ competences:
 missions:
   - start: 2025-09-01
     end: 2026-04-14
-    employer: DNE
     status: admin
-    startups: []
-teams: []
+    employer: DNE
 ---
