@@ -26,7 +26,7 @@ dashlord_url: https://dashlord.incubateur.net/url/histologe-beta-gouv-fr/
 accessibility_status: non conforme
 thematiques:
   - Logement
-analyse_risques: false
+analyse_risques: true
 mon_service_securise: true
 techno: []
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view

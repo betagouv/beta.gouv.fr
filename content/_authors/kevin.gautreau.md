@@ -10,7 +10,7 @@ competences:
   - Gitlab CI
 missions:
   - start: 2024-08-26
-    end: 2025-09-30
+    end: 2026-01-16
     status: independent
     employer: malt
     startups:

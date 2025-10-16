@@ -13,12 +13,6 @@ missions:
     end: 2026-01-31
     status: independent
     employer: Incubateur des territoires - ANCT
-    startups:
-      - agents.en.intervention
-      - deveco
-      - données-et-territoires
-      - services-web-anct
-      - suite.territoriale
 teams:
   - /teams/anct
 github: echaffraix

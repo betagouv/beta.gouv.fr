@@ -8,9 +8,9 @@ competences:
 missions:
   - start: 2025-10-14
     end: 2026-01-15
-    employer: Malt/Octo
     status: independent
+    employer: Malt/Octo
     startups:
       - plusfraichemaville
-teams: []
+link: https://www.linkedin.com/in/alexiabuclet/
 ---

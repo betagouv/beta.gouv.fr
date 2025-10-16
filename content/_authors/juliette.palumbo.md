@@ -15,7 +15,7 @@ missions:
     startups:
       - cartobio
   - start: 2024-12-16
-    end: 2025-10-17
+    end: 2026-03-17
     status: service
     employer: lazone/scopyleft
     startups:

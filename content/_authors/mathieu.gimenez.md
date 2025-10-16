@@ -15,6 +15,8 @@ missions:
       - boris
       - docurba
       - dossierfacile
+      - fonds-prevention-argile
+      - lucca
       - mon-devis-sans-oublis
       - mon-diagnostic-artificialisation
       - otelo
