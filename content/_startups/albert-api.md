@@ -27,18 +27,24 @@ stats_url: https://albert.sites.beta.gouv.fr/about/metrics/
 ---
 ## Contexte
 
-Les progrès récents de l'IA ont un potentiel transformateur dans l'administration.
-La sortie de ChatGPT marque un tournant significatif, et les IA continuent de progresser rapidement. Pourtant, ChatGPT ou l'API OpenAI sur laquelle il s'appuie ne permet pas aujourd'hui de traiter des informations confidentielles, sur modèles libres, et sans dépendance à un acteur tiers.
+L’État souhaite rendre les capacités d’IA générative accessibles à ses services et produits numériques internes.
 
-## Problème
+Cependant, les outils accessibles (ChatGPT, API de fournisseurs externes) présentent **des limites pour l'administration française** : dépendance à des acteurs privés, risques de fuite d’informations sensibles, difficultés de conformité et de souveraineté.
 
-Comment matérialiser le potentiel transformateur de l'IA générative de façon souveraine, sécurisée, tout en mutualisant les coûts et les compétences ?
+## Problèmes
+
+1. Les administrations qui recourent à des API externes (OpenAI, etc.) prennent **le risque de divulgation et de dépendance technologique**.
+
+2. Chaque produit numérique de l’État tente de recréer son propre "backend IA" (gestion de modèles, infrastructure GPU, scalabilité), **ce qui génère des coûts redondants**.
+
+3. Certains services n’ont **pas les compétences** ou **les ressources** pour intégrer des modèles IA, d’autres **passent beaucoup de temps à choisir ou déployer des modèles open source**.
+
+4. **Les données publiques ou internes manipulées sont sensibles** : il faut garantir la confidentialité, l’authentification, la traçabilité et un environnement sécurisé (SecNumCloud, etc.).
 
 ## Solution
 
-Albert API propose des services d'IA génératives sous forme de boîte à outils à destination des produits numériques à impact dans l'administration.
-Intégralement sur environnement sécurisé secnumcloud, l'API héberge des modèles openweights (Llama, Mistral, Qwen...) afin d'offrir les fonctionnalités d'IA avancée à nos utilisateurs (appel à un modèle de langage, connexion à une base documentaire...).
+**Albert API** est une infrastructure publique de services d’intelligence artificielle générative, développée par la DINUM pour permettre aux administrations d’expérimenter, construire et opérer des produits numériques à impact, en s’appuyant sur des modèles d’IA performants, dans un cadre souverain, sécurisé et mutualisé.
 
-## Stratégie
+**Albert API** propose une interface simple (compatible OpenAI), permettant d’accéder à des [modèles open source](https://albert.sites.beta.gouv.fr/solutions/models/) (ex : Llama, Mistral, etc), mais aussi à des services avancés (RAG, OCR, classification, vectorisation de documents…) directement utilisables dans les produits publics.
 
-Ouverte à tous les produits numériques de l'Etat en version freemium, et en partenariat privilégié avec les produits à impact (Beta, AllIAnce, La Suite Numérique), Albert API vise à maximiser l'impact transformateur de l'IA générative dans l'administration, tout en mutualisant les ressources (en particulier GPU), les talents et fonctionnalités génériques qui peuvent servir à plusieurs produits et administration (par exemple, RAG-as-a-service).
+L'outil est  déjà utilisé dans **plus de 70 projets publics** et traite plus de **100 000 requêtes hebdomadaires**.

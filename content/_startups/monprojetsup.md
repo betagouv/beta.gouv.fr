@@ -18,7 +18,7 @@ link: https://monprojetsup.fr/
 thematiques:
   - Jeunesse
   - Education
-stats_url: https://monprojetsup.fr/stats/
+stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=152&period=week&date=yesterday#?period=week&date=yesterday&category=Dashboard_Dashboard&subcategory=1
 repository: https://github.com/betagouv/monprojetsup
 budget_url: https://monprojetsup.fr/budget/
 dashlord_url: https://dashlord.incubateur.net/url/monprojetsup-fr/
@@ -35,6 +35,7 @@ techno:
 events:
   - name: product_launch
     date: 2024-12-10
+impact_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=152&period=week&date=yesterday#?period=week&date=yesterday&category=Dashboard_Dashboard&subcategory=1
 ---
 ## Contexte
 

@@ -9,11 +9,10 @@ competences:
   - Python
 missions:
   - start: 2025-07-08
-    end: 2025-12-31
-    status: independent
+    end: 2026-01-31
+    status: admin
     employer: ANCT
     startups:
-      - guichet-territorial-pour-la-transition-ecologique
       - terri-story
 link: https://www.linkedin.com/in/matthieu-denoux/
 ---

@@ -9,6 +9,8 @@ phases:
     start: 2023-06-02
   - name: construction
     start: 2023-11-01
+  - name: transfer
+    start: 2025-10-03
 link: https://compl-alim.beta.gouv.fr/accueil
 repository: https://github.com/betagouv/complements-alimentaires
 stats: false
@@ -20,6 +22,8 @@ thematiques:
 techno:
   - django
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Compl%27Alim
+accessibility_status: partiellement conforme
+impact_url: https://compl-alim.beta.gouv.fr/stats/
 ---
 Cette startup d'Etat est sponsorisée par la Direction Générale de l'alimentation au ministère de l'agriculture.
 La startup est également lauréate du guichet FTAP "valorisation et exploitation" des données, fonds porté par la DINUM et ETALAB. Ce co-financement permet à la startup d'entamer le chantier de fiabilisation de la base de données substances grâce à des logiques de NLP et branchement de sources de données externes (ANSES, avis EFSA, catalogue novel food...).
@@ -93,4 +97,4 @@ Arthur Klein, designer de services
 Notre code est en open source ici : https://github.com/betagouv/complements-alimentaires
 
 
-Nous contacter : emmanuelle.miralles@agriculture.gouv.fr, caroline.viste-martin@agriculture.gouv.fr et jennifer.stephan@beta.gouv.fr
+Nous contacter : emmanuelle.miralles@agriculture.gouv.fr
