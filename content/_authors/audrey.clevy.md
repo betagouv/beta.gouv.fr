@@ -2,7 +2,7 @@
 fullname: Audrey Clevy
 role: Data Scientist MLOps
 domaine: Data
-github: https://github.com/etalab-ia/evalap
+github: AudreyCLEVY
 competences:
   - Data Science
 missions:
