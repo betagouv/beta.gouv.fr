@@ -14,3 +14,5 @@ missions:
       - plusfraichemaville
 link: https://www.linkedin.com/in/alexiabuclet/
 ---
+UX Designer / Product Manager spécialisée en Impact.
+Psychologue cognitiviste de formation avec 15 ans d'expérience dans la tech.

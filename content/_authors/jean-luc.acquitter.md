@@ -15,6 +15,4 @@ missions:
     startups:
       - ban
 ---
-Délégué Régional de l'IGN pour la Bretagne et les Pays de la Loire, pendant 10 ans, j'étais l'interlocuteur privilégié des acteurs et communautés d'utilisateurs des GéoData de l'IGN, des sphères publiques et privées de ces 2 territoires du Grand Ouest.
-Partenariats, collaboration, Géocommuns, openData, co-production, échanges, accompagnement utilisateurs sont les piliers de mon activité.
-Auparavant, j'ai occupé le poste de responsable régional de la diffusion du catalogue des cartes papiers de l'IGN pour le grand Ouest. Gestion, formation et accompagnement commercial du réseau de distribution (commerciaux et points de ventes) du catalogue de cartes papiers de l'IGN
+Accompagnement, communication , coordination, amélioration de la Base Adresse Nationale (BAN)

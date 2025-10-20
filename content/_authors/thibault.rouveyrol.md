@@ -6,7 +6,7 @@ link: https://www.kime.tech
 github: Clrk
 missions:
   - start: 2022-08-23
-    end: 2025-12-29
+    end: 2026-02-28
     status: service
     employer: LittleBigConnection
     startups:

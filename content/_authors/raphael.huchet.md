@@ -22,7 +22,7 @@ missions:
       - monpsy
       - tdb-apprentissage
   - start: 2025-06-02
-    end: 2025-11-30
+    end: 2026-03-30
     status: independent
     employer: Fabnum
     startups:
