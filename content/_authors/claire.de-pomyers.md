@@ -7,7 +7,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-06-25
-    end: 2025-10-31
+    end: 2026-06-30
     status: admin
     employer: La Ruche Numérique
 ---
