@@ -14,6 +14,12 @@ missions:
     employer: Malt
     startups:
       - transition-ecologique-des-entreprises
+  - start: 2025-09-02
+    end: 2025-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - datalma
 badges:
   - segur
 competences: []

@@ -27,7 +27,7 @@ phases:
 events:
   - name: product_launch
     date: 2025-10-01
-link: ''
+link: https://fonds-prevention-argile.beta.gouv.fr
 ---
 ## Contexte
 
