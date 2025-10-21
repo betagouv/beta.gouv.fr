@@ -89,4 +89,4 @@ Un prototype a été co-conçu avec les utilisateurs cibles, puis validé. Dans 
 ### Accélération
 
 **Objectifs :**
-La phase d'accélération de déroule au 2e semestre 2025. L'équipe-projet se concentrera sur le déploiement de l'outil dans 2 départements pilotes (Yvelines + un département à confirmer), afin de confirmer l'impact de l'outil.
+La phase d'accélération se déroule au 2e semestre 2025. L'équipe-projet se concentrera sur le déploiement de l'outil dans 2 départements pilotes (Yvelines + un département à confirmer), afin de confirmer l'impact de l'outil.

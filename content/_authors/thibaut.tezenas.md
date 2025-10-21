@@ -6,7 +6,7 @@ link: https://github.com/ttdm
 github: ttdm
 missions:
   - start: 2024-03-18
-    end: 2025-11-04
+    end: 2026-03-31
     status: independent
     employer: Malt
     startups:

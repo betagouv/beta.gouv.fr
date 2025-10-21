@@ -5,7 +5,7 @@ domaine: Développement
 github: xavfernandez
 missions:
   - start: 2022-11-14
-    end: 2025-12-04
+    end: 2026-04-06
     status: independent
     employer: Malt
     startups:

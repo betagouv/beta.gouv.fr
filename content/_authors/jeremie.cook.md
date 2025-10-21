@@ -20,17 +20,17 @@ missions:
       - preuve-de-covoiturage
       - resorption-bidonvilles
   - start: 2019-07-02
-    end: 2025-10-31
+    end: 2026-03-31
     status: independent
     employer: Malt
     startups:
-      - agora
       - france.nation.verte.agir
   - start: 2023-03-29
     end: 2024-04-26
     status: independent
     employer: Scopyleft
     startups:
+      - agora
       - nosgestesclimat
 domaine: Design
 competences:

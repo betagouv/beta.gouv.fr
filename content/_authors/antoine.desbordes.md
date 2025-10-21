@@ -25,6 +25,12 @@ missions:
     employer: Malt
     startups:
       - vues-immersives-libres
+  - start: 2025-11-16
+    end: 2026-04-16
+    status: independent
+    employer: Malt
+    startups:
+      - vues-immersives-libres
 competences: []
 ---
 Rust & transport & Panoramax
