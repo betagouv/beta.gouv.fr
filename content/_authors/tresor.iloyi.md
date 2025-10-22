@@ -8,10 +8,11 @@ competences:
   - Développement Frontend
 missions:
   - start: 2025-07-29
-    end: 2025-10-28
+    end: 2026-03-31
     status: independent
     employer: Omnicité
     startups:
+      - demain-specialiste-cyber
       - homologation
       - mes-services-cyber
       - mon-aide-cyber
