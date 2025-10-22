@@ -10,4 +10,6 @@ missions:
     employer: Préfecture Loire Atlantique
     startups:
       - data.etat
+link: https://www.linkedin.com/in/c%C3%A9line-renolleau-304a8787/
 ---
+Spécialiste des projets numériques et des données territoriales, j’interviens à la croisée des technologies web, des bases de données et du pilotage des politiques publiques.

@@ -97,7 +97,7 @@ L'équipe anticipe divers impacts :
 
 ➡️ En facilitant l'accès aux données financières et en limitant la médiation, l’outil optimise les ressources humaines et accélère les prises de décision.
 
-*90,91 % des utilisateurs sont satisfaits ou très satisfaits de leur expérience, 91 % recommanderait DATA-ETAT à un collègue (1)*
+*76% des répondants sont satisfaits ou très satisfaits de leur expérience, 86% recommanderaient DATA-ETAT à un collègue (1)*
 
 > "En quelques clics, on a déjà tout un tas d’information là où avant il nous fallait plusieurs jours pour arriver à collecter. Quand on arrivait à les collecter. Donc, c'est un vrai progrès, je pense" (2)
 
@@ -106,12 +106,12 @@ L'équipe anticipe divers impacts :
 
 ➡️ Les agents gagnent un temps considérable dans la recherche et l’analyse des financements publics, améliorant ainsi le dialogue territorial.
 
-*82 % des sondés estiment gagner du temps, 37 % gagner une journée ou plus de temps de travail (1)*
+*65% des répondants estiment gagner du temps, parmi eux 62% indiquent gagner plus d'une demi-journée de temps de travail par mois (1)*
 
 > "DATA-ETAT permet de voir par ligne rapidement sans attendre les extractions CHORUS. Donc gain de temps et charge de travail en moins pour les collègues qui étaient chargés de faire les extractions" (2)
 
 
-*(1) Enquête oct 2024, une nouvelle enquête va être lancée en avril 2025.*
+*(1) Enquête avril 2025.*
 
 *(2) Atelier utilisateur mars 2025*
 

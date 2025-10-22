@@ -15,9 +15,9 @@ missions:
     startups:
       - access-sol
   - start: 2025-04-01
-    end: 2025-07-31
+    end: 2026-03-31
     status: independent
-    employer: Dynergie
+    employer: NUMA
     startups:
       - plateforme-d-admission-au-doctorat
 ---
