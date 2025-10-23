@@ -17,7 +17,7 @@ title: Conseillers-Entreprises
 sponsors:
   - /organisations/dge
   - /organisations/dgefp
-link: https://conseillers-entreprises.service-public.fr
+link: https://conseillers-entreprises.service-public.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/conseillers-entreprises-service-public-fr/
 events:
@@ -35,12 +35,12 @@ phases:
     end: 2022-06-20
   - name: success
     start: 2022-06-21
-stats_url: https://conseillers-entreprises.service-public.fr/stats
+stats_url: https://conseillers-entreprises.service-public.gouv.fr/stats
 techno: []
 ---
 **TPE PME, vous avez un projet, une difficulté ou une question du quotidien ? Échanger avec LE conseiller qui peut vous aider.**
 
-Le service public [Conseillers-Entreprises](https://conseillers-entreprises.service-public.fr) permet à l’État et à l’ensemble des organismes publics et parapublics de développer leur rôle de conseil auprès des TPE & PME.
+Le service public [Conseillers-Entreprises](https://conseillers-entreprises.service-public.gouv.fr) permet à l’État et à l’ensemble des organismes publics et parapublics de développer leur rôle de conseil auprès des TPE & PME.
 
 ## Le problème : des entrepreneurs isolés, des administrations cloisonnées
 
@@ -82,4 +82,4 @@ L’ensemble des évolutions du service sont guidées par l’impact, afin de s�
 
 ## Contactez-nous
 
-[L’équipe](https://conseillers-entreprises.service-public.fr/equipe) se tient à votre disposition. Pour toute question sur le service, écrivez-nous à l’adresse [contact@conseillers-entreprises.service-public.fr](mailto:contact@conseillers-entreprises.service-public.fr)
+[L’équipe](https://conseillers-entreprises.service-public.gouv.fr/equipe) se tient à votre disposition. Pour toute question sur le service, écrivez-nous à l’adresse [contact@conseillers-entreprises.service-public.fr](mailto:contact@conseillers-entreprises.service-public.fr)

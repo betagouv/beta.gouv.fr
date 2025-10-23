@@ -7,6 +7,35 @@ missions:
     end: 2026-08-31
     status: admin
     employer: Ministère de la transition écologique
+    startups:
+      - acceslibre
+      - aigle
+      - boris
+      - carbure
+      - dialogue
+      - docurba
+      - dossierfacile
+      - ecobalyse
+      - emile
+      - envergo
+      - guichet-unique-de-la-haie-envergo-agricole
+      - histologe
+      - lucca
+      - mesads
+      - mobilic
+      - mon-devis-sans-oublis
+      - monitorfish
+      - oilhi
+      - otelo
+      - partageons-l-eau
+      - pitchou
+      - potentiel
+      - prelevements.deau
+      - preuve-de-covoiturage
+      - qualicharge
+      - rapportnav
+      - transport
+      - zero-logement-vacant
 previously:
   - mobilic
 github: gaspardbetagouv
