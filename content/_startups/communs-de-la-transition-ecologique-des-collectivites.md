@@ -25,7 +25,7 @@ events:
 techno:
   - typescript
 repository: https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites
-stats_url: https://les-communs-transition-ecologique-api-staging.osc-fr1.scalingo.io/statistics/
+stats_url: https://les-communs-transition-ecologique-api-prod.osc-fr1.scalingo.io/statistics/
 impact_url: https://les-communs-transition-ecologique-api-staging.osc-fr1.scalingo.io/statistics/
 link: ''
 ---
