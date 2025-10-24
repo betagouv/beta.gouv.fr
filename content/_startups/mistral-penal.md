@@ -7,7 +7,7 @@ sponsors:
   - /organisations/sous-direction-de-l-organisation-judiciaire-et-de-l-innovation-oji-4-direction-des-services-judiciaires
 incubator: justice
 contact: maxime.gammaire@justice.gouv.fr
-accessibility_status: partiellement conforme
+accessibility_status: non conforme
 redirect_from:
   - /startups/T2BJustice
 events:
@@ -29,6 +29,8 @@ events:
   - name: committee
     date: 2025-04-04
     comment: Premiers déploiements effectués - Finalisation de la phase de construction actée fin juin 2025
+  - name: committee
+    date: 2025-07-01
 phases:
   - name: investigation
     start: 2022-06-29
@@ -36,6 +38,8 @@ phases:
   - name: construction
     comment: Construction du MVP et test utilisateur sur des cas vidéos
     start: 2025-04-04
+  - name: acceleration
+    start: 2025-07-01
 thematiques:
   - Justice
 analyse_risques: true
