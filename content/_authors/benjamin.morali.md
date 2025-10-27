@@ -28,3 +28,4 @@ competences:
   - Python
 link: https://www.linkedin.com/in/benjamin-morali/
 ---
+Développeur full-stack, très motivé par les projets à impact social et environnemental. Je suis particulièrement soucieux des sujets d'éco-conception et d'accessibilité dans mes projets. Contactez-moi sur Mattermost : @benjamin.morali

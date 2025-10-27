@@ -5,16 +5,13 @@ contact: noellie.pilandon.ext@mail.numerique.gouv.fr
 title: MILEVA
 mission: Automatisez l’assistance RH grâce à une IA générative qui aide les gestionnaires à formuler rapidement des réponses précises aux questions des agents en s’appuyant sur la base documentaire du ministère.
 incubator: alliance
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-10-23
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-10-23
+link: ''
 ---
 ## Problème
 

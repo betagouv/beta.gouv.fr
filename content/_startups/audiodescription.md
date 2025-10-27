@@ -9,14 +9,22 @@ phases:
     start: 2024-01-15
   - name: construction
     start: 2024-04-15
+  - name: acceleration
+    start: 2025-07-04
 thematiques:
   - Démocratie
   - Inclusion numérique
   - Patrimoine
+  - Cinéma
 usertypes:
   - particulier
+  - handicap
+  - déficients visuels
 techno: []
 link: https://audiodescription.beta.gouv.fr/
+repository: https://github.com/betagouv/audiodescription
+sponsors:
+  - /organisations/mc
 ---
 ## Plateforme dédiée à l’audiodescription
 
