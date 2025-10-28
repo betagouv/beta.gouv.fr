@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/n-kat-reseaux/
 missions:
   - start: 2022-07-11
-    end: 2026-01-31
+    end: 2026-03-31
     status: independent
     startups:
       - jeveuxaider

@@ -46,13 +46,13 @@ Cette situation génère des coûts cachés et une sous-utilisation des capacit�
 
 ## Solution
 
-**LIAne **: un agent intelligent intégré à démarches simplifiées qui accélère l'élaboration de démarches nativement simplifiées, dans une perspective de simplification des démarches pour les usagers, et d'assistance à l'instruction et au support usagers.
+**LIAne** : un agent intelligent intégré à démarches simplifiées qui accélère l'élaboration de démarches nativement simplifiées, dans une perspective de simplification des démarches pour les usagers, et d'assistance à l'instruction et au support usagers.
 
 **Simplification & SimpliScore**
 
-*  LIAne ** analyse les démarches et suggère des mesures de simplification en s'appuyant sur le guide de la DITP, supprime les redondances grâce aux informations d'authentification et aux API (France Connect, Pro Connect, API Entreprise), et introduit le **SimpliScore**, indicateur de qualité des démarches.
+**LIAne** analyse les démarches et suggère des mesures de simplification en s'appuyant sur le guide de la DITP, supprime les redondances grâce aux informations d'authentification et aux API (France Connect, Pro Connect, API Entreprise), et introduit le **SimpliScore**, indicateur de qualité des démarches.
 
-* Dans son itération la plus aboutie, **LIAne **créé et traite une démarche simple à partir d'un unique prompt.
+* Dans son itération la plus aboutie, **LIAne** créé et traite une démarche simple à partir d'un unique prompt.
 
 **Pièce justificatives :**
 

@@ -17,6 +17,7 @@ missions:
       - guichet-unique-de-la-haie-envergo-agricole
       - histologe
       - oilhi
+      - partageons-l-eau
       - prelevements.deau
       - recommandations-collaboratives
       - sain-eau

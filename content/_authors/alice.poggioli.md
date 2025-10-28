@@ -12,4 +12,6 @@ missions:
     employer: Scopyleft
     startups:
       - ma-cantine-egalim
+github: AlicePoggioli
+link: https://www.alicepoggioli.fr/
 ---
