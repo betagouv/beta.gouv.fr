@@ -7,7 +7,7 @@ avatar: /img/authors/johnlabuzan.jpeg
 link: https://academie-en-ligne.fr
 missions:
   - start: 2022-11-20
-    end: 2025-11-24
+    end: 2026-01-27
     status: independent
     employer: Malt
     startups:
@@ -31,11 +31,17 @@ missions:
     startups:
       - sante-psy-etudiant
   - start: 2024-11-22
-    end: 2025-09-24
+    end: 2026-01-27
     status: independent
     employer: La zone
     startups:
       - portail-rse
+  - start: 2025-07-01
+    end: 2026-01-27
+    status: independent
+    employer: Malt
+    startups:
+      - a-just
 previously:
   - aides-territoires
   - jeveuxaider

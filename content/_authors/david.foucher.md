@@ -5,7 +5,7 @@ domaine: Développement
 github: tyjak
 missions:
   - start: 2020-08-28
-    end: 2025-06-30
+    end: 2026-03-30
     status: service
     employer: France Travail
     startups:
@@ -23,6 +23,13 @@ missions:
     startups:
       - mes-aides-france-travail
       - travailler.en.france
-competences: []
+competences:
+  - Administration Système
+  - Sécurité informatique
+  - SEO
+  - Metabase
+  - DevOps
+  - Docker
+link: https://mamot.fr/@tyjak
 ---
-Passionné par les technologies respectueuses de la biosphère.
+Geek, passionné et critique de nos technologies modernes. Lecteur de I. Illitch, J. Uexkull, B. Stiegler, B. de Bodinat, G. Pruvost...

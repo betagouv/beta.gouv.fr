@@ -12,4 +12,10 @@ missions:
     employer: MALT
     startups:
       - plateforme-agriculteurs
+  - start: 2025-10-27
+    end: 2026-03-31
+    status: independent
+    employer: Scopyleft
+    startups:
+      - ma-cantine-egalim
 ---
