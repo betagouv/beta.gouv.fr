@@ -6,7 +6,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-07-03
-    end: 2025-10-31
+    end: 2026-06-18
     status: admin
     employer: MASA
     startups:
