@@ -6,7 +6,7 @@ github: poissoj
 competences: []
 missions:
   - start: 2024-09-23
-    end: 2025-10-31
+    end: 2025-11-03
     status: independent
     employer: Malt
     startups:

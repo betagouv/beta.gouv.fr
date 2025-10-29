@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2024-01-01
     end: 2025-12-31
-    employer: Ministère de la Culture
     status: admin
+    employer: Ministère de la Culture
     startups:
       - audiodescription
-teams: []
 ---
