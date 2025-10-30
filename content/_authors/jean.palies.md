@@ -7,7 +7,7 @@ competences:
   - JavaScript/TypeScript
 missions:
   - start: 2025-01-06
-    end: 2025-10-31
+    end: 2025-11-28
     status: independent
     employer: Malt
 github: JeanPalies

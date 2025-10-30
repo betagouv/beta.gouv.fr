@@ -4,7 +4,7 @@ role: Opérateur de validation
 domaine: Autre
 missions:
   - start: 2023-07-17
-    end: 2024-12-31
+    end: 2026-03-31
     status: independent
     employer: DossierFacile
     startups:

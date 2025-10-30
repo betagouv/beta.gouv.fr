@@ -1,15 +1,16 @@
 ---
 fullname: Christian Charousset
 role: Chargé de déploiement
-domaine: Déploiement
+domaine: Data
 github: chrischarousset
 missions:
   - start: 2021-12-13
-    end: 2025-11-01
+    end: 2026-03-31
     status: independent
     employer: DINUM
     startups:
       - longuevieauxobjets
+      - trackdechets
 previously:
   - trackdechets
 badges:

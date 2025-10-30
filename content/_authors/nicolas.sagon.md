@@ -12,11 +12,16 @@ competences:
   - Python
 missions:
   - start: 2025-02-03
-    end: 2025-10-31
+    end: 2025-12-30
     status: independent
     employer: Malt
     startups:
-      - document-ia
       - dossierfacile
+  - start: 2025-09-02
+    end: 2026-04-30
+    status: independent
+    employer: Scopyleft
+    startups:
+      - document-ia
 ---
 Développeur mobile ayant évolué vers du full stack. Je suis spécialisé sur la stack Java / Kotlin.
