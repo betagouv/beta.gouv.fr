@@ -14,7 +14,6 @@ missions:
       - csplab
       - data-dsn
       - datalma
-      - france.nation.verte.agir
       - la.bonne.renov
       - pass-sport
       - reperer.identifier.victimes.teh

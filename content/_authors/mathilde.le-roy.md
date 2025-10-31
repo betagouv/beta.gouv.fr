@@ -10,6 +10,7 @@ missions:
     end: 2026-01-06
     status: admin
     startups:
+      - france.nation.verte.agir
       - impact.co2
       - nosgestesclimat
 ---

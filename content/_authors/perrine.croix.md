@@ -4,7 +4,7 @@ role: Product Designer
 domaine: Design
 missions:
   - start: 2024-02-20
-    end: 2024-09-30
+    end: 2025-03-28
     status: independent
     employer: pass Sport
     startups:

@@ -12,10 +12,9 @@ competences:
 missions:
   - start: 2025-10-14
     end: 2025-12-31
-    employer: Living Data
     status: service
+    employer: Living Data
     startups:
       - prelevements.deau
       - viz-eau
-teams: []
 ---

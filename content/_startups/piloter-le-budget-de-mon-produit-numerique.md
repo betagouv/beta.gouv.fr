@@ -14,16 +14,11 @@ sponsors:
   - /organisations/agriculture
 phases:
   - name: investigation
-    comment: null
     start: 2024-11-04
-    end: null
   - name: construction
-    comment: null
     start: 2025-02-03
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2024-11-04
 ---
 ## Problème
