@@ -16,7 +16,7 @@ missions:
     startups:
       - icare-complements-alimentaires
   - start: 2025-08-18
-    end: 2025-12-02
+    end: 2026-04-02
     status: independent
     employer: Opteamis
     startups:
@@ -24,4 +24,5 @@ missions:
 badges:
   - segur
 github: Fantine-py
+competences: []
 ---
