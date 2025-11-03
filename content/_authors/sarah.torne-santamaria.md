@@ -1,7 +1,7 @@
 ---
 fullname: Sarah Torné-Santamaria
-role: Rédactrice des aides
-domaine: Autre
+role: Rédactrice et chargée de communication
+domaine: Déploiement
 link: https://www.linkedin.com/in/sarah-torne-content-manager/
 competences:
   - Communication

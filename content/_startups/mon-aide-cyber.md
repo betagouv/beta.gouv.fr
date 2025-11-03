@@ -1,7 +1,7 @@
 ---
 mission: Aider les entités publiques et privées à passer de la sensibilisation à l'action
 incubator: lab-innov-anssi
-contact: monaidecyber@ssi.gouv.fr
+contact: contact@monaidecyber.beta.gouv.fr
 title: MonAideCyber
 sponsors:
   - /organisations/anssi
@@ -25,7 +25,7 @@ stats_url: https://monaide.cyber.gouv.fr/statistiques-utilisation
 ## En cours de construction
 
 **Vous êtes intéressé(e) par notre projet ?
-N’hésitez pas à [nous contacter](mailto:monaidecyber@ssi.gouv.fr) !**
+N’hésitez pas à [nous contacter](mailto:contact@monaidecyber.beta.gouv.fr) !**
 
 ## LE PROBLEME
 

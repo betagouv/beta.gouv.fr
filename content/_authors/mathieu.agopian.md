@@ -30,7 +30,7 @@ missions:
     startups:
       - data.gouv.fr
   - start: 2025-03-01
-    end: 2025-12-01
+    end: 2026-05-01
     status: independent
     employer: ut7 - la zone
     startups:

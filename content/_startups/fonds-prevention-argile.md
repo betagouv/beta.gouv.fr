@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: martin.letellier@beta.gouv.fr
+contact: contact@fonds-prevention-argile.beta.gouv.fr
 thematiques:
   - Écologie
   - Logement
@@ -26,12 +26,17 @@ phases:
     start: 2025-08-22
 events:
   - name: product_launch
-    date: 2025-10-01
+    date: 2025-09-30
 link: https://fonds-prevention-argile.beta.gouv.fr
 ---
+## Pour faire sa demande d'aide au fonds de prévention argile
+
+Merci de vous rendre sur le site [https://fonds-prevention-argile.beta.gouv.fr/](https://fonds-prevention-argile.beta.gouv.fr/) pour vérifier votre éligibilité au fonds et faire votre demande d'aide. 
+
+
 ## Contexte
 
-L'État lance un fonds de prévention du phénomène de retrait-gonflement des argiles. Nous lançons une phase expérimentale de ce fonds sur 11 département et nous accompagnons la DHUP et la DGPR pour la mise en place de la plateforme de dépôt et d'instruction de dossier pour ce fonds de prévention. 
+L'État lance un fonds expérimental de prévention du phénomène de retrait-gonflement des argiles. Cette première phase expérimentale se passe dans 11 départements et nous accompagnons la DHUP et la DGPR pour la mise en place de la plateforme de dépôt et d'instruction de dossier. 
 
 ## Problème
 
@@ -47,5 +52,3 @@ Grâce à Démarches simplifiées, Mon Devis Sans Oublis, La Base de Données Na
 
 
 - le pilotage de la politique publique grâce à une donnée structurée permettant une analyse fine des dossiers et des travaux de prévention 
-
-

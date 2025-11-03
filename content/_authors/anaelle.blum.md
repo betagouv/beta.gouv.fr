@@ -4,9 +4,9 @@ role: Chef de projet déploiement
 domaine: Déploiement
 missions:
   - start: 2021-11-02
-    end: 2025-11-30
+    end: 2026-04-30
     status: independent
-    employer: B-NEXT
+    employer: FREELANCE.COM
     startups:
       - l-application-du-cej
 competences: []

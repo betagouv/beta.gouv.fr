@@ -15,9 +15,11 @@ missions:
     status: independent
     employer: Malt
   - start: 2023-12-20
-    end: 2025-12-01
+    end: 2026-04-18
     status: independent
     employer: Little Big Connection
+    startups:
+      - pitchou
 startups:
   - pitchou
   - sppnaut
