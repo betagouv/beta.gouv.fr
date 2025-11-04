@@ -23,7 +23,7 @@ techno:
   - typescript
 mon_service_securise: true
 repository: https://github.com/gristlabs/grist-core
-link: https://lasuite.numerique.gouv.fr/services/grist
+link: https://lasuite.numerique.gouv.fr/produits/grist
 sponsors:
   - /organisations/anct
   - /organisations/dinum
@@ -32,8 +32,12 @@ events:
   - name: product_launch
     date: 2022-07-01
     comment: Première instance et premiers commits par l'équipe Données et Territoires de l'ANCT.
+  - name: other
+    date: 2024-12-18
+    comment: Homologation de sécurité de l'instance DINUM.
 stats_url: https://stats.beta.numerique.gouv.fr/indicators/grist
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/grist-incubateur-anct-gouv-fr-o-docs/best-practices/
+impact_url: https://stats.moncomptepro.beta.gouv.fr/public/dashboard/0b9964c6-754c-48b1-b1ac-2ed1a226d28a
 ---
 ## Le drame
 
@@ -55,9 +59,9 @@ structurer, manipuler, visualiser, diffuser et faire réutiliser ses données.
 Aujourd'hui, les agents qui utilisent déjà Grist se constituent en communautés
 de pratiques enthousiastes.
 
-Certaines usages émergent sur Grist, telles que modéliser ses propres
-processus de gestion de l'information, ou encore partager de modèles de
-documents.
+Certains usages émergent sur Grist, tels que modéliser ses propres
+processus de gestion de l'information, ou encore partager des modèles de
+documents et les partager sur [le forum communautaire](https://forum.grist.libre.sh).
 
 Si ces pratiques vertueuses se diffusent, alors l'usage de Grist permettra aux
 agents de faire vivre et circuler leurs données de manière efficace, flexible,
@@ -65,18 +69,26 @@ pérenne et souveraine.
 
 ## Notre stratégie
 
-Des premières instances de Grist sont déjà déployées.
 
-Dans un premier temps, il s'agit d'explorer les communautés d'utilisateur·ices
-et de découvrir la manière dont ces agents s'emparent de l'outil, pour
-en cartographier les usages, et identifier les pratiques les plus vertueuses.
+Notre stratégie consiste à **déployer** (et faire déployer) des instances souveraines, à **contribuer** au code de grist-core pour assurer la pérénité et la sécurité de l'outil, et à **structurer des communatés** d'utilisateurs et de contributeurs autour du produit.
 
-On priorisera ensuite les actions qui soutiendront au mieux l'adoption de ces
-pratiques vertueuses. 
+### Déployer
+
+Des premières instances de Grist sont déjà déployées et opérées depuis 3 ans -- au sein de la Suite Numérique pour les agents publics et via l'incubateur de l'ANCT pour les collectivités de moins de 3500 habitants. Plusieurs dizaines d'instances auto-hébergées existent également au sein de l'administration et dans des collectivités de toutes tailles.
+
+ ### Contribuer
+
+Nous contribuons du code à Grist sans forker depuis 3 ans, [plusieurs centaines de PR](https://github.com/gristlabs/grist-core/pulls?q=is%3Apr++label%3Agouv.fr+) ont déjà été mergées et l'administration française est aujourd'hui la première contributrice du projet avec l'éditeur historique. La DINUM finance également le programme de bug bounty qui bénéficie à l'ensemble de la communauté d'utilisateurs de Grist et participe activement à la traduction de l'outil et de sa documentation en français.
+
+### Structurer des communautés
+
+L'équipe Grist.Gouv tient à disposition des utilisateurs francophones de Grist une variété de [ressources](https://lasuite.numerique.gouv.fr/services/grist) (forum, webinaires, documentation, modèles...).
+
+Nous organisons également des clubs utilisateurs et des évènements comme le [Grist Paris Summit](https://lasuite.numerique.gouv.fr/grist-paris-summit-2024).
+
+Enfin, nous travaillons à enourager l'utilisation et la contribution à Grist au delà de nos frontières et notamment auprès de nos partenaires européens.
 
 ## Objectifs à 6 mois
 
 ### Objectif d’usage à 6 mois : 
-Quel usage chiffré visez-vous ?
-### Objectif d’impact à 6 mois : 
-Quel impact vous permettra de dire que votre première phase de construction a été un succès ?
+20,000 utilisateurs actifs mensuels (+33%) et 5 nouvelles instances souveraines (dans l'administration, les collectivités, ou hébergées en UE pour le privé) (~+10% ?).

@@ -38,6 +38,7 @@ budget_url: https://incubateurdesterritoires.notion.site/Budget-1b2744bf03dd81c9
 fast:
   promotion: 15
   montant: 160000
+impact_url: https://monsuivisocial.incubateur.anct.gouv.fr/statistiques
 ---
 ## 🏗 Contexte/problème
 

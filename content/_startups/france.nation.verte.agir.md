@@ -1,11 +1,11 @@
 ---
-title: France Nation Verte / J'agis
-mission: Accompagner les citoyens de manière personnalisée dans la transition écologique
+title: J'agis
+mission: J’agis aide chaque citoyen à trouver et réaliser des actions simples, concrètes et efficaces pour contribuer à la transition écologique
 sponsors:
   - /organisations/sgpe
-incubator: dinum
+incubator: ademe
 link: https://jagis.beta.gouv.fr
-contact: contact@agir.beta.gouv.fr
+contact: contact@jagis.beta.gouv.fr
 accessibility_status: non conforme
 repository: https://github.com/betagouv/agir-back
 phases:

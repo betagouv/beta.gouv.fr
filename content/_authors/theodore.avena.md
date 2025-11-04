@@ -4,7 +4,7 @@ role: Chargé de déploiement, Responsable simulateur
 domaine: Déploiement
 missions:
   - start: 2023-05-15
-    end: 2025-11-30
+    end: 2026-04-30
     status: independent
     employer: malt
     startups:

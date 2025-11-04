@@ -4,7 +4,7 @@ role: Customer Success
 domaine: Animation
 missions:
   - start: 2022-06-20
-    end: 2025-12-01
+    end: 2026-03-31
     status: independent
     employer: Malt
     startups:
