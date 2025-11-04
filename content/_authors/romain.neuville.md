@@ -5,7 +5,7 @@ domaine: Développement
 github: Holist
 missions:
   - start: 2022-09-01
-    end: 2025-12-01
+    end: 2026-03-31
     status: independent
     employer: Octo
     startups:

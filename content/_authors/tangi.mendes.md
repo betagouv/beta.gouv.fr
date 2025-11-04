@@ -10,4 +10,10 @@ missions:
     employer: octo
     startups:
       - snu
+  - start: 2025-11-04
+    end: 2026-05-04
+    status: independent
+    employer: Fairness
+    startups:
+      - zacharie
 ---
