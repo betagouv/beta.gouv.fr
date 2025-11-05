@@ -10,7 +10,7 @@ usertypes:
 techno:
   - python
 title: DocumentIA
-mission: Automatiser le traitement des pièces justificatives pour accélérer les démarches administratives et éliminer les aller-retours entre les usagers et les instructeurs, en déployant d'abord la solution sur deux démarches pilotes du MTE.
+mission: Automatiser le traitement des pièces justificatives pour accélérer les démarches administratives et éliminer les aller-retours entre les usagers et les instructeurs
 incubator: alliance
 sponsors:
   - /organisations/dinum
@@ -29,11 +29,11 @@ link: ''
 ---
 Document-IA est une solution **générique, souveraine** et **sécurisée** d'**analyse automatique** de **pièces justificatives**. Ce produit est portée par l'incubateur [ALLiaNCE](https://alliance.numerique.gouv.fr/) de la DINUM et pensé comme un commun numérique.
 
-> Vous êtes un acteur de l'État et vous souhaitez bénéficier de la solution Document-IA ? Contactez l'équipe en charge de son déploiement en complétant ce [formulaire](https://grist.numerique.gouv.fr/o/document-ia/forms/3ovXs271FKtb8P22apK3eB/4) 👈
-
 Consultez la [liste des pièces justificatives](https://github.com/betagouv/document-ia/tree/develop/document-ia-worker/src/document_ia_worker/core/prompt/document_type) actuellement compatibles avec Document-IA
 
-> Vous êtes développeur et vous souhaitez consulter la documentation technique ? Consultez la section dédiée "📖 Comment utiliser Document-IA ?"
+**Vous êtes un acteur de l'État** et vous souhaitez bénéficier de la solution Document-IA ? Contactez l'équipe en charge de son déploiement en complétant ce [formulaire](https://grist.numerique.gouv.fr/o/document-ia/forms/3ovXs271FKtb8P22apK3eB/4) 👈
+
+**Vous êtes développeur** et vous souhaitez consulter la documentation technique ? Consultez la section dédiée "📖 Comment utiliser Document-IA ?"
 
 ---
 

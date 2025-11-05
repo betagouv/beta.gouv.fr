@@ -1,5 +1,5 @@
 ---
-fullname: cécile freyd-foucault
+fullname: Cécile Freyd-Foucault
 role: UX designer
 domaine: Design
 github: cecilefreyd
@@ -10,5 +10,10 @@ missions:
     employer: Benext
     startups:
       - l-application-du-cej
+  - start: 2025-11-04
+    end: 2026-02-04
+    status: service
+    employer: Octo
+competences: []
 ---
 Designeuse qui aime les design system, l'accessibilité et travailler avec les développeurs

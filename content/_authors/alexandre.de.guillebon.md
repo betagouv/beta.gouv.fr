@@ -13,7 +13,7 @@ competences:
   - Docker
 missions:
   - start: 2025-01-13
-    end: 2025-11-30
+    end: 2026-04-30
     status: independent
     employer: Malt
     startups:
