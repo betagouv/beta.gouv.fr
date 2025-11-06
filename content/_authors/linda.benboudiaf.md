@@ -1,7 +1,7 @@
 ---
 fullname: Linda Benboudiaf
 role: Data
-domaine: Développement
+domaine: Data
 github: linda-benboudiaf
 link: https://www.linkedin.com/in/lindabenboudiaf/
 competences:

@@ -16,4 +16,9 @@ missions:
     employer: Fairness
     startups:
       - zacharie
+competences:
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - PostgreSQL
+  - UI
 ---
