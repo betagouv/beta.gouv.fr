@@ -14,6 +14,7 @@ missions:
     employer: DINUM
     startups:
       - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
+      - refugies.info
 previously:
   - aplus
   - conseillers-entreprises

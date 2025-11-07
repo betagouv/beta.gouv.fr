@@ -23,6 +23,8 @@ phases:
 events:
   - name: committee
     date: 2025-05-07
+  - name: committee
+    date: 2025-11-21
 redirect_from:
   - /startups/friche-reboost
 repository: https://github.com/incubateur-ademe/mutafriches

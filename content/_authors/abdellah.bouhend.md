@@ -16,7 +16,7 @@ missions:
     startups:
       - france.nation.verte.agir
   - start: 2025-02-01
-    end: 2025-11-30
+    end: 2026-01-31
     status: independent
     employer: malt
     startups:

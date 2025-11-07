@@ -3,7 +3,7 @@ mission: Interroger à l'aveugle deux modèles de langage conversationnels sur d
 incubator: culture
 title: Compar:IA
 contact: contact@comparia.beta.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 phases:
   - name: investigation
     start: 2024-01-15
@@ -38,6 +38,9 @@ events:
   - name: other
     date: 2025-02-07
     comment: Journée compar:IA - Bibliothèque nationale de France
+  - name: other
+    date: 2025-11-04
+    comment: Première publication du classement comparIA issu des votes à l'aveugle des utilisateurs de la plateforme
 stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=126#?period=month&date=2024-10-11&category=Dashboard_Dashboard&subcategory=1
 sponsors:
   - /organisations/dinum
@@ -56,7 +59,7 @@ L’amélioration de la qualité des modèles de langage conversationnels sur le
 
 ## Le service
 
-Le site <https://comparia.beta.gouv.fr> permet de tester et comparer les réponses de deux agents conversationnels piochés parmi plus d’une vingtaine de modèles open source comme propriétaires et de différentes tailles. Une fois le choix de préférence exprimé sur l'un ou l'autre des modèles, l'identité des modèles est révélée à l'utilisateur, accompagnée d'informations sur les caractéristiques des modèles et leur impact environnemental.
+Le site <https://comparia.beta.gouv.fr> permet de tester et comparer à l'aveugle les réponses de deux agents conversationnels piochés parmi une grande diversité (plus d’une quarantaine de modèles open source comme propriétaires et de différentes tailles). Après avoir voté, l'identité des modèles est révélée à l'utilisateur, accompagnée d'informations détaillées sur les caractéristiques des modèles et leur impact environnemental.
 
 Les questions posées et données de préférence collectées alimentent des jeux de données repartagés en open source, dans l’idée de constituer un commun numérique qui favorise l'observation des usages et la qualité des modèles sur les usages francophones. Ces données constituent une ressource rare pour l'écosystème car elles sont en français et reflètent les usages réels des utilisateurs dans des contextes d'utilisation non contraints.
 
@@ -71,23 +74,23 @@ Le service sert ainsi un double objectif:
 *   **Former** les citoyens à l'utilisation des systèmes d'IA conversationnelle et les sensibiliser à divers enjeux : le pluralisme des modèles, leur impact environnemental, les biais culturels et linguistiques qu'ils comportent.
 *   Publier les jeux de données de question et de préférence pour faciliter l'**observation des usages** et **améliorer la qualité des systèmes d'IA **conversationnelles sur les usages **francophones**
 
-Ouvert au public en octobre 2024, le site compte plus de 150 000 visiteurs uniques. Le jeu de données de questions compte plus de 200 000 lignes et le jeu de données de préférence plus de 90000 lignes (chiffres actualisés le 16 avril 2025).
+Ouvert au public en octobre 2024, le site compte plus de 300 000 visiteurs uniques. Le jeu de données de questions compte plus de 300 000 lignes et le jeu de données de préférence plus de 160000 lignes (chiffres actualisés le 7 novembre 2025).
 
 
 ## La stratégie
 
 La mesure d'impact de compar:IA réside dans le nombre de questions et de préférence collectées, reflétant à la fois la fréquentation du site et la volumétrie des jeux de données partagés.
 
-Les jeux de données ont d'ores et déjà atteint une volumétrie conséquente: **100 000 votes et plus de 200 000 questions**. A titre de comparaison, la part du français dans le jeu de données “[lmsys-chat-1m](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)” qui fait autorité sur les enjeux d’alignement est de 1,5%, soit moins de 20 000 conversations en français. Les jeux de données compar:IA constituent une ressource rare et exploitable à la fois par les acteurs industriels et académiques (machine learning et sciences humaines et sociales).
+Les jeux de données ont d'ores et déjà atteint une volumétrie conséquente: **160 000 votes et plus de 500 000 questions**. A titre de comparaison, la part du français dans le jeu de données “[lmsys-chat-1m](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)” qui fait autorité sur les enjeux d’alignement est de 1,5%, soit moins de 20 000 conversations en français. Les jeux de données compar:IA constituent une ressource rare et exploitable à la fois par les acteurs industriels et académiques (machine learning et sciences humaines et sociales).
 
 Pour assurer une **fréquentation assidue de la plateforme** et faire grandir la volumétrie des jeux de données, plusieurs leviers de croissance et d'accélération du service ont été activés **depuis le lancement du service en octobre 2024**:
 
 * **Diversification des partenariats de diffusion** et **intégration de comparIA dans différents formats de sensibilisation et formation à l'IA générative**. 
   * En plus de PIX, des partenariats et collaborations sont en cours de développement avec les acteurs suivants: CNNUM, CLEMI, Campus du numérique, CAIRE, Latitudes, Datactivist, La Fresque de l'IA, UNESCO. Les contacts sont également pris avec le Réseau Canopé, BPI France Université, l'Institut Français.
-  * Conception et diffusion d'un support de médiation facilitant l'utilisation de comparIA dans des contextes de formation professionnelle et/ou d'enseignement.
+  * Conception et diffusion de l'outil de médiation "Les Duels de l'IA" pour faciliter l'utilisation de comparIA dans des contextes de formation professionnelle et/ou d'enseignement: 
 * **Développement de nouvelles fonctionnalités** selon l'évolution des usages et des besoins et dans le cadre de **projets mutualisés avec des acteurs partenaires**:
-    *   L'intégration d'une **fonctionnalité de classement des modèles issu des données de préférence collectées** fait l'objet d'un chantier en cours en partenariat avec le **PEReN** (travaux débutés en 03/2025).
-    *   des synergies sont à construire avec le projet **ALBERT** afin par exemple de mettre comparIA au service du test et de l'évaluation des systèmes conversationnels spécialisés développés au Datalab.
+    *   L'intégration d'un ** classement des modèles à partir des données de préférence collectées**, construit en partenariat avec le **PEReN**, et rendu public en 11/2025. Une mise à jour hebdomadaire est prévue pour garantir la fraicheur du classement. 
+    *   des synergies peuvent être établies avec Etalab afin par exemple de mettre comparIA au service des besoins de tests et d'évaluation des systèmes conversationnels dans la cadre de projets portés au sein de la sphère publique.
 * **Intégration continue de nouveaux modèles**: évolution de la plateforme en fonction des nouvelles capacités des modèles pour faciliter leur compréhension auprès des utilisateurs (ex: modèles de raisonnement)
 
 Les indicateurs de résultat permettant d’évaluer l’atteinte des objectifs du projet, d’ici octobre 2025, sont les suivants: 

@@ -13,7 +13,4 @@ missions:
     end: 2025-12-09
     status: admin
     employer: Ruche Numérique
-    startups:
-      - demarches-simplifiees.fr
-      - grist.numerique.gouv.fr
 ---
