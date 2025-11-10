@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2025-11-04
     end: 2026-05-04
-    employer: DAP
     status: admin
+    employer: DAP
     startups:
       - romin
-teams: []
 ---

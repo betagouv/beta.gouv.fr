@@ -16,15 +16,22 @@ missions:
     startups:
       - sndv_maritime
   - start: 2024-09-02
-    end: 2026-10-31
+    end: 2026-02-10
     status: independent
     employer: Scopyleft
     startups:
       - nosgestesclimat
+  - start: 2025-10-01
+    end: 2026-02-10
+    status: independent
+    employer: Dynergie
+    startups:
+      - envirogend
 badges:
   - segur
 competences:
   - Administration Publique
   - Communication
   - Croissance
+  - Coaching
 ---

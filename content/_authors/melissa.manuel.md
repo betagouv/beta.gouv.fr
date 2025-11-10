@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2025-05-01
     end: 2026-01-01
-    employer: Opteamis
     status: independent
+    employer: Opteamis
     startups:
       - monsuivipsy
-teams: []
 ---

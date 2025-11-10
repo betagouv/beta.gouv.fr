@@ -5,7 +5,7 @@ domaine: Développement
 github: smdsgn
 missions:
   - start: 2022-11-17
-    end: 2025-11-28
+    end: 2026-03-31
     status: independent
     employer: Telescoop
     startups:
