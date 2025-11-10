@@ -11,7 +11,7 @@ missions:
     startups:
       - pass-culture
   - start: 2025-09-07
-    end: 2025-12-31
+    end: 2025-10-02
     status: service
     employer: OCTO
     startups:
