@@ -27,6 +27,12 @@ events:
   - name: committee
     date: 2024-10-07
     comment: Poursuite
+  - name: committee
+    date: 2025-03-19
+    comment: Poursuite
+  - name: committee
+    date: 2025-10-06
+    comment: Poursuite
 ---
 ## Contexte
 

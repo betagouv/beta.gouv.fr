@@ -22,7 +22,7 @@ missions:
     startups:
       - mon-devis-sans-oublis
   - start: 2025-06-09
-    end: 2025-11-30
+    end: 2025-12-31
     status: independent
     employer: La Zone / Fairness
     startups:
