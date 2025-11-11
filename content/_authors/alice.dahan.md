@@ -10,7 +10,7 @@ competences:
   - Développement Frontend
 missions:
   - start: 2024-07-15
-    end: 2025-12-11
+    end: 2026-04-14
     status: independent
     employer: Tiqa
     startups:
