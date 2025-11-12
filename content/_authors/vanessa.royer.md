@@ -1,6 +1,6 @@
 ---
 fullname: Vanessa Royer
-role: Opératrice validation
+role: Opératrice validation et support client.
 domaine: Autre
 missions:
   - start: 2023-07-02
@@ -10,5 +10,7 @@ missions:
     startups:
       - dossierfacile
 memberType: beta
+link: https://www.linkedin.com/feed/
+competences: []
 ---
-Vanessa, community manager, accro auc réseaux sociaux.
+

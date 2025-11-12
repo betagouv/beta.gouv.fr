@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: CSPEGF
 missions:
   - start: 2023-07-02
-    end: 2025-11-10
+    end: 2026-04-10
     status: service
     employer: Incubateur France Travail
 memberType: beta

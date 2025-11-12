@@ -10,8 +10,8 @@ repository: https://github.com/incubateur-ademe/carte-verte
 accessibility_status: non conforme
 dashlord_url: https://dashlord.incubateur.ademe.fr/startup/carte-verte
 stats: true
-stats_url: https://carte-verte.beta.gouv.fr/stats
-budget_url: https://carte-verte.beta.gouv.fr/budget
+stats_url: https://notion.incubateur.ademe.fr/carte-verte-stats
+budget_url: https://notion.incubateur.ademe.fr/carte-verte-budget
 analyse_risques: true
 analyse_risques_url: https://github.com/incubateur-ademe/carte-verte/blob/main/SECURITY.md
 phases:
@@ -45,7 +45,10 @@ events:
   - name: committee
     date: 2025-01-21
     comment: Communication des premiers résultats + exploration des modèles de financement
-impact_url: https://carte-verte.beta.gouv.fr/stats
+  - name: other
+    date: 2025-06-30
+    comment: Fin de l'expérimentation à Angers
+impact_url: https://notion.incubateur.ademe.fr/carte-verte-stats
 ---
 ## Contexte
 Carte Verte s’inscrit dans un objectif de politique publique de réduction de l’empreinte environnementale des français et pose le constat suivant : l’empreinte environnementale de la consommation (“je mange”, “j’achète”) des citoyens est trop élevée et peu de dispositifs existent pour l’abaisser (contrairement aux champs des transports et du logement).

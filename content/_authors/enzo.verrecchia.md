@@ -16,4 +16,5 @@ missions:
     employer: Ministère de la Justice
     startups:
       - a-just
+github: verzocchia
 ---

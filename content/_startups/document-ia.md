@@ -10,7 +10,7 @@ usertypes:
 techno:
   - python
 title: DocumentIA
-mission: Automatiser le traitement des pièces justificatives pour accélérer les démarches administratives et éliminer les aller-retours entre les usagers et les instructeurs, en déployant d'abord la solution sur deux démarches pilotes du MTE.
+mission: Automatiser le traitement des pièces justificatives pour accélérer les démarches administratives et éliminer les aller-retours entre les usagers et les instructeurs
 incubator: alliance
 sponsors:
   - /organisations/dinum
@@ -27,120 +27,98 @@ events:
 repository: https://github.com/betagouv/document-ia
 link: ''
 ---
-Dans **les dossiers de rénovation énergétique des bâtiments** comme dans les dossiers **de logements locatifs**, la performance des politiques publiques est freinée par un même obstacle structurel : la non-conformité des pièces justificatives qui génère des aller-retours entre le bénéficiaire et l'administration.
+Document-IA est une solution **générique, souveraine** et **sécurisée** d'**analyse automatique** de **pièces justificatives**. Ce produit est portée par l'incubateur [ALLiaNCE](https://alliance.numerique.gouv.fr/) de la DINUM et pensé comme un commun numérique.
 
-**Mon Devis sans Oublis** (rénovation énergétique) :
+Consultez la [liste des pièces justificatives](https://github.com/betagouv/document-ia/tree/develop/document-ia-worker/src/document_ia_worker/core/prompt/document_type) actuellement compatibles avec Document-IA
 
-* **70 % des dossiers MPR à l’ANAH sont bloqués** à cause de devis ou factures non conformes.
+**Vous êtes un acteur de l'État** et vous souhaitez bénéficier de la solution Document-IA ? Contactez l'équipe en charge de son déploiement en complétant ce [formulaire](https://grist.numerique.gouv.fr/o/document-ia/forms/3ovXs271FKtb8P22apK3eB/4) 👈
 
-* Cela entraîne des allers-retours entre particuliers, artisans et instructeurs, ce qui augmente drastiquement les délais d'instructions.
+**Vous êtes développeur** et vous souhaitez consulter la documentation technique ? Consultez la section dédiée "📖 Comment utiliser Document-IA ?"
 
-* La réglementation est **complexe et en constante évolution**, rendant son suivi difficile pour les différents acteurs.
+---
 
-* **Conséquences :** retards, abandons de projets, baisse du nombre d’artisans RGE, tensions de trésorerie, image de marque dégradée.
+### ⚡️ Enjeux
 
-* **Résultat :** les objectifs ne sont pas atteints — **5 millions de passoires thermiques** restent à rénover.
+Chaque demande de subvention, chaque démarche entre l’administration et un particulier ou une entreprise contient des pièces justificatives. 
+L’analyse manuelle pose les problèmes suivants : 
 
-**DossierFacile** (logement locatif) :
+- **Chronophage**
+*L’analyse manuelle est un goulot d’étranglement qui agrandit fortement le délai d’instruction et le temps de réponse à l’usager.*
+- **Coût élevé** 
+*Le coût humain pour lire des pièces justificatives et récupérer des données est très élevé et pèse sur la balance de l’État.*
+- **Non standardisée**
+*La lecture manuelle dépend de la compréhension et de l’expérience de l’instructeur. Cela pose un problème d’équité entre les dossiers. Cela provoque également des allers-retours inutiles entre les parties prenantes.*
+- **Erreurs de lecture**
+*Les pièces justificatives ne sont pas toujours normées. Il peut être compliqué de savoir où chercher une donnée et une lecture manuelle peut facilement passer à côté d'une information importante.*
 
-* En 2024, **828 000 dossiers ont été traités**, dont **442 000 refusés** (soit plus de 50 %).
+---
 
-* La majorité des refus sont dus à des documents :
+### 💡 Produit
 
-  * **flous, illisibles ou tronqués**
+DocumentIA veut permettre à tout agent créant une démarche entre l’administration et un particulier ou une entreprise de définir un **workflow d’analyse de pièces justificatives.** 
 
-  * qui ne sont plus en cours de validité
+L’objectif est de faire **gagner du temps à l’instructeur**, d’apporter une **première réponse en direct** de l’État à l’usager et d’avoir de la donnée structurée permettant un **pilotage plus précis**.
 
-  * qui ne correspondent pas à la **catégorie** attendue
+---
 
-  * dont le **bénéficiaire** ne correspond à celui du dossier
+### 🛠️ Fonctionnalités
 
-* Le système OCR et le moteur de règles en place sont limités à certains modèles de documents et détectent mal les erreurs.
+Document-IA déploie les fonctionnalités principales suivantes :
 
-* **Entre 70 et 80% des raisons de refus pourraient être automatisées**. L'instruction de dossiers "simples" (ex: CDI sans garant) pourrait entièrement être automatisée.
+- **Détection de flou**
+*S’assurer qu’une pièce justificative est lisible ou demander à l’utilisateur de la modifier avant l’envoi à un instructeur humain.*
+- **Catégorisation**
+*Si une carte d’identité est demandée, il faut s’assurer que le document déposé est bien une carte d’identité dès le dépôt plutôt que d’attendre l’analyse manuelle et un aller-retour avec l'instructeur.*
+- **Extraction**
+*Transformer un pdf en un ensemble de données structurées utilisables et utiles permet d’automatiser un bon nombre de vérifications et un pilotage plus précis.*
+- **Conformité**
+*Une première vérification automatique de la conformité permet de faire un retour en direct à l’utilisateur afin qu’il s’assure d’avoir les bonnes informations sur sa pièce. Nous pourrons filtrer dès le dépôt et envoyer en instruction uniquement les dossiers complets et propres.*
 
-* Les délais lors d'aller-retours avec les instructeurs sont significatifs **1er quartile : 14h32 ; Médiane : 26h39 ; 3e quartile : 68h35.**
+---
 
-* **Conséquences :&#x20;**&#x43;es délais causent parfois la perte d’un logement pour les candidats.
+### 📖 Comment utiliser Document-IA ?
 
-En 6 mois, l'équipe de Mon Devis Sans Oublis a analysé 6000 devis et a développé une brique d'analyse documentaire relativement fiable, et l'équipe de Dossier Facile cherche encore à trouver d'automatisation de traitement documentaire qui convient à son cas d'usage.
+Document-IA est une solution interrogeable par API. Une intégration technique est nécessaire afin d'intégrer ses fonctionnalités dans un produit numérique.
 
-### 🚀 La bonne idée : document IA
+[Lien vers la documentation API](https://api.staging.document-ia.beta.gouv.fr/redoc)
 
-Plus largement, l'**analyse documentaire** (et la transformation d'un document en un ensemble de données structurées) et le **traitement de documents&#x20;**(souvent scannés) intéressent de nombreuses administrations (France travail, l'OFPRAH, les caisses de santé etc.). Ces solutions sont appelées des IDP, pour Intelligent Document Processing.
+Le code source de la solution Document-IA est également entièrement accessible en source ouverte en suivant ce [lien](https://github.com/betagouv/document-ia) 👈
 
-**Mon Devis Sans Oublis**
+---
 
-Nous lançons le développement d’une **nouvelle plateforme de dépôt de dossiers d’aide à la prévention du retrait-gonflement des argiles (RGA)**, adossée à **Démarches Simplifiées**.
+### 📊 Impact
 
-Ce dispositif, doté d’une enveloppe expérimentale de **30 millions d’euros**, sera déployé sur **4 à 5 départements** et s’inspire des règles de **MaPrimeRénov’**.
+Parmi les produits identifiés pour un déploiement à grande échelle, 3 démarches pilotes ont été sélectionnées pour la mise en oeuvre de la solution Document-IA 
 
-En combinant **Mon Devis Sans Oublis** à Démarches Simplifiées, nous pourrons apporter une **première réponse automatisée sur la conformité du dossier**, sans attendre une instruction manuelle.
+**[Dossier facile](https://www.dossierfacile.logement.gouv.fr/)** (accès au logement) :
 
-Nous proposons une expérimentation en deux volets :
+DossierFacile traite un volume mensuel de plus de 700 000 pièces justificatives.
 
-* **Créer une démarche RGA centrée sur l’utilisateur**, intégrant des pré-contrôles automatisés pour accélérer et fluidifier le parcours, avec une première évaluation en quelques minutes.
 
-* **De concert avec Dossier facile, développer et intégrer une brique de traitement automatisé de documents** directement dans Démarches Simplifiées, pour tester sa capacité à détecter automatiquement les pièces non conformes.
+**[Démarches Simplifiées](https://www.demarches-simplifiees.fr/)** (digitalisation de démarches) :
 
-L'objectif de ce nouveau projet est de renforcer notre brique OCR avec un deuxième cas d'usage (MaPrimeRenov' puis RGA) afin de valider qu'elle peut être utile sur plusieurs verticales. Mais aussi de montrer que le numérique peut aider à avoir des démarches moins orientées guichet où l'utilisateur doit attendre plusieurs semaines qu'un instructeur analyse son dossier.
+Démarches Simplifiées permet la digitalisation de démarches administratives. Ces démarches comprennent de nombreux justificatifs sous la forme de documents. Plus de 10 millions de justificatifs d'identité et de domicile ont été déposés sur la plateforme depuis sa création.
 
-**Dossier facile**
+**[Mon Devis sans Oublis](https://mon-devis-sans-oublis.beta.gouv.fr/)** (rénovation énergétique) :
 
-Nous souhaitons aujourd’hui mettre en oeuvre une brique technologique plus performante que le simple OCR que nous utilisons aujourd’hui afin de:
+Dans **les dossiers de rénovation énergétique des bâtiments**, la performance des politiques publiques est freinée par un même obstacle structurel : la non-conformité des pièces justificatives qui génère des aller-retours entre le bénéficiaire et l'administration.
+* **70 % des dossiers MaPrimeRenov sont bloqués** à cause de devis ou factures non conformes.
 
-* **Classifier plus précisément les pièces justificatives d’un dossier afin de pouvoir caractériser leur type et rejeter automatiquement les documents flous, tronqués, incomplets, illisibles ou les documents non pertinents.**
+---
 
-* **Extraire de manière automatique des pièces justificatives les informations qui sont nécessaires à leur évaluation. Afin de pouvoir effectuer la validation de règles métiers sur leur contenu.**
+### 🔒 Sécurité
 
-* Fournir un outil d'aide à la décision pour les opérateurs pour leur faire gagner en efficacité de traitement.
+L'instance DINUM de Document-IA accessible à l'adresse suivante : [api.document-ia.beta.gouv.fr](https://api.document-ia.beta.gouv.fr/api/v1/health) est hébergée dans un environnement certifié **SecNumCloud** sur l'hébergeur Cloud français [Outscale](https://fr.outscale.com/).
 
-* Automatiser le traitement de certains documents d'un dossier. Voire pour certain dossier simple, automatiser intégralement leur validation.
+Les modèles LLMs utilisés dans le cadre du traitement Document-IA sont hébergés et opérés par [AlbertAPI](https://albert.sites.beta.gouv.fr/) en environnement certifié **SecNumCloud** également. Il s'agit de la seule dépendance externe de Document-IA.
 
-DossierFacile traite un volume mensuel de plus de 700 000 documents, ce qui permettra d'avoir des résultats concrets et observables rapidement, et pouvoir faire évoluer la solution en conséquence pour maximiser l'impact.
+- Une fois les résultats d'analyse récupérés, Document-IA ne conservent aucune trace des données issues de l'analyse de vos documents
+- Document-IA n'envoie aucune des données issues de l'analyse de vos documents sur Internet ou ne les partage avec des partenaires.
 
-### 📊 Pari d'impact à 6 mois : principaux bénéfices et indicateurs clés d'impact mesurable
+---
 
-**Mon Devis Sans Oublis**
+### ⚙️ Technologie
 
-La première version de la démarche pour l'aide RGA sera mise en ligne d'ici mi Septembre.\
-Nous pourrons ensuite la faire évoluer petit à petit pour automatiser certains pré-contrôles grâce aux intégrations que nous mettrons en place sur Démarches Simplifiées.
-
-**Les objectifs d'impact sont alors les suivants :**
-
-* Au moins 50 dossiers d'aide traités sur le dispositif de prévention RGA
-
-* Au moins 1 autre démarche utilise notre brique de lecture de document via Démarches simplifiées
-
-**Dossier facile**
-
-Développer une brique d'intelligence documentaire comprenant un OCR, de la classification et de l'extraction qui permette de **rejeter automatiquement les documents flous, non pertinents et de déclencher la vérification de règles métiers simples**.
-
-Sur les 3 catégories de documents les plus refusés, automatiser les vérifications suivantes :
-
-* Le document est-il flou ?
-
-* Le document est-il bien de la catégorie attendue ?
-
-* Est-ce que le nom et prénom indiqué sur le document correspondent bien au bénéficiaire du dossier
-
-* Est-ce que le document est en cours de validité ?
-
-**Les objectifs d'impact sont alors les suivants :**
-
-Pour les 3 catégories de documents sélectionnées :
-
-* Réduire de 40% les raisons de refus sur ces catégories de documents
-
-De manière générique :
-
-* Amélioration détection de flou : réduire de 90% les refus manuels parce qu'un usager a transmis un document flou.
-
-* Amélioration de la catégorisation de documents : réduire de 70% les refus manuels parce qu'un usager a transmis un document qui ne correspond pas à la catégorie attendue.
-
-### ⚙️ Technologie et mise en œuvre
-
-Un outil générique, clé en main (ie directement utilisable par une administration) pensé pour devenir un commun numérique au sein de l'Etat.
 
 Les fonctionnalités suivantes sont envisagées en vision cible :
 
@@ -158,11 +136,10 @@ Les fonctionnalités suivantes sont envisagées en vision cible :
 
 * **Console d'administration** : permettre à nos utilisateurs d'être autonome dans la création et la configuration de leur workflow d'automatisation de documents.
 
-Elles feront l'objet d'une priorisation lors de la construction d'un premier démonstrateur (MVP).
 
-En fonction de la stratégie technique suivie, cette solution mettra en oeuvre les technologies suivantes :
+Cette solution met en oeuvre les technologies suivantes :
 
-* **Image processing :&#x20;**&#x41;lgorithmes de traitements d'image et modèles ML fine-tuned
+* **Image processing :** Algorithmes de traitements d'image et modèles ML fine-tuned
 
 * **OCR** : Algorithmes et librairies open-source auto-hébergés
 

@@ -5,7 +5,7 @@ domaine: Développement
 github: numew
 missions:
   - start: 2023-11-06
-    end: 2025-12-02
+    end: 2026-02-03
     status: independent
     employer: Scopyleft
     startups:

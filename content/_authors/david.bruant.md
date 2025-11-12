@@ -18,7 +18,7 @@ missions:
       - recosante
       - urbanvitaliz
   - start: 2023-12-20
-    end: 2025-11-30
+    end: 2026-05-02
     status: independent
     employer: LBC
     startups:

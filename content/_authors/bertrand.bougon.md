@@ -9,6 +9,8 @@ missions:
     end: 2025-12-12
     status: independent
     startups:
+      - demain-specialiste-cyber
+      - mes-services-cyber
       - mon-aide-cyber
 memberType: beta
 competences: []

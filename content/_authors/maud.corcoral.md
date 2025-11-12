@@ -9,7 +9,7 @@ missions:
     startups:
       - envergo
   - start: 2025-05-19
-    end: 2025-12-01
+    end: 2026-02-15
     status: independent
     startups:
       - jeveuxaider

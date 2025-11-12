@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2023-06-01
-    end: 2025-12-01
+    end: 2026-12-01
     status: admin
     employer: MASA
     startups:

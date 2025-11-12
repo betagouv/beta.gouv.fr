@@ -1,7 +1,7 @@
 ---
 fullname: Sarah Torné-Santamaria
-role: Rédactrice des aides
-domaine: Autre
+role: Rédactrice et chargée de communication
+domaine: Déploiement
 link: https://www.linkedin.com/in/sarah-torne-content-manager/
 competences:
   - Communication
@@ -12,4 +12,10 @@ missions:
     employer: MALT
     startups:
       - plateforme-agriculteurs
+  - start: 2025-10-27
+    end: 2026-03-31
+    status: independent
+    employer: Scopyleft
+    startups:
+      - ma-cantine-egalim
 ---

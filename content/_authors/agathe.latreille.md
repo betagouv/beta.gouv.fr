@@ -25,8 +25,8 @@ missions:
     startups:
       - dora
   - start: 2021-01-25
-    end: 2025-05-31
-    status: independent
+    end: 2026-01-31
+    status: admin
     employer: Plateforme de l'inclusion
     startups:
       - data-inclusion
@@ -36,6 +36,7 @@ competences:
   - Administration Publique
   - Intrapreneur(se)
   - Product strategy
+  - Facilitation
 link: https://www.linkedin.com/in/agathe-latreille/
 ---
 Tech enthousiaste, je m'exprime principalement en Gif et en Meme. Portée par la collaboration, la solidarité et la bienveillance.

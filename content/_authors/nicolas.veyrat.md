@@ -9,10 +9,9 @@ competences:
   - UX
 missions:
   - start: 2024-12-09
-    end: 2025-11-01
+    end: 2026-04-30
     status: independent
     employer: Omnicité
     startups:
       - mes-services-cyber
-      - mon-aide-cyber
 ---

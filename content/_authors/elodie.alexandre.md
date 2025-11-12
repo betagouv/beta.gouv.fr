@@ -6,8 +6,8 @@ competences:
   - Administration Publique
   - Communication
 missions:
-  - start: 2025-06-27
-    end: 2025-12-31
+  - start: 2025-10-01
+    end: 2026-03-31
     status: independent
     employer: DINUM
     startups:

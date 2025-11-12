@@ -53,7 +53,7 @@ missions:
     startups:
       - medistock
   - start: 2024-12-01
-    end: 2025-11-01
+    end: 2026-05-01
     status: service
     employer: Dynergie
     startups:

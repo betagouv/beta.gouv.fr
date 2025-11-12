@@ -1,7 +1,7 @@
 ---
 contact: contact@inserjeunes.beta.gouv.fr
 repository: https://github.com/mission-apprentissage/c-est-qui-le-pro/
-link: https://cestquilepro.inserjeunes.beta.gouv.fr/
+link: https://futurpro.inserjeunes.beta.gouv.fr/
 stats: false
 dashlord_url: https://dashlord.incubateur.net/url/cestquilepro-inserjeunes-beta-gouv-fr/
 redirect_from:
@@ -22,7 +22,7 @@ techno:
   - PostgreSQL
   - Docker
   - Kubernetes
-title: C'est qui le pro ?
+title: Futur Pro
 mission: Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien
 incubator: dinum
 sponsors:
@@ -37,7 +37,7 @@ phases:
     start: 2024-03-04
   - name: acceleration
     start: 2025-09-01
-stats_url: https://statistiques.cestquilepro.inserjeunes.beta.gouv.fr/
+stats_url: https://statistiques.futurpro.inserjeunes.beta.gouv.fr/
 ---
 ## Un service de la mission interministérielle Inserjeunes
 
