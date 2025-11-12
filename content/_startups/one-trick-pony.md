@@ -16,24 +16,21 @@ techno:
   - html
   - java
   - python
-title: One Trick Pony
+title: connecteur de données entre Démarches Simplifiées et Grist - "One Trick Pony"
 mission: Simplifier l’extraction, l’analyse et la diffusion des données issues des démarches simplifiées vers Grist pour les agents publics
 incubator: agriculture
 sponsors:
   - /organisations/agriculture
+  - /organisations/anct
 phases:
   - name: investigation
-    comment: null
     start: 2024-10-01
-    end: null
   - name: construction
-    comment: null
     start: 2025-11-10
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-11-28
+link: ''
 ---
 ## Contexte
 
@@ -48,6 +45,7 @@ Aujourd’hui, pour exploiter les données issues de **Démarches Simplifiées**
 - réaliser des **exports manuels** longs et sources d’erreurs ;
 - **croiser et vérifier** des données dans des tableurs complexes ;
 - dépendre d’autres équipes (data, SI, support) pour obtenir des analyses fiables.
+- avoir des outils hétérogènes qui ne sont pas partageables entre agents
 
 Ces contraintes limitent la réactivité des services publics et rendent difficile la production d’indicateurs de pilotage ou de suivi.
 

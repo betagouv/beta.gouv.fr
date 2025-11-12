@@ -23,7 +23,7 @@ missions:
     startups:
       - qualite-eau
   - start: 2022-06-30
-    end: 2025-12-31
+    end: 2026-01-31
     status: service
     employer: Malt Octo
     startups:
@@ -35,7 +35,7 @@ missions:
     startups:
       - mobicouts
   - start: 2023-01-02
-    end: 2025-10-30
+    end: 2026-01-30
     status: service
     employer: Numa
     startups:
