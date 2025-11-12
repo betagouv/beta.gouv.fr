@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-11-04
     end: 2026-03-04
-    employer: Scopopop
     status: independent
+    employer: Scopopop
     startups:
       - preuve-de-covoiturage
-teams: []
 ---

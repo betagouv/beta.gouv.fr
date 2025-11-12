@@ -13,4 +13,6 @@ missions:
     end: 2025-12-09
     status: admin
     employer: Ruche Numérique
+    startups:
+      - one-trick-pony
 ---
