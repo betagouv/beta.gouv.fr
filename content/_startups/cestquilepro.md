@@ -3,7 +3,7 @@ contact: contact@inserjeunes.beta.gouv.fr
 repository: https://github.com/mission-apprentissage/c-est-qui-le-pro/
 link: https://futurpro.inserjeunes.beta.gouv.fr/
 stats: false
-dashlord_url: https://dashlord.incubateur.net/url/cestquilepro-inserjeunes-beta-gouv-fr/
+dashlord_url: https://dashlord.incubateur.net/url/futurpro-inserjeunes-beta-gouv-fr/
 redirect_from:
   - /startup/investigation-ij
   - /startups/investigationIJ
