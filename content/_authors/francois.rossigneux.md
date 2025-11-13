@@ -10,7 +10,7 @@ competences:
   - Développement Frontend
 missions:
   - start: 2024-08-01
-    end: 2026-08-01
+    end: 2025-06-30
     status: independent
     employer: Malt
     startups:

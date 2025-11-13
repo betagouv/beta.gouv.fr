@@ -1,6 +1,6 @@
 ---
 fullname: Maxime Amieux
-role: Déploiement Mes Aides Réno
+role: Déploiement Fonds de Prévention Argile
 domaine: Déploiement
 missions:
   - start: 2023-05-09
@@ -15,6 +15,12 @@ missions:
     employer: DINUM/Malt
     startups:
       - mesaidesreno
+  - start: 2025-11-06
+    end: 2026-02-13
+    status: independent
+    employer: LBC
+    startups:
+      - fonds-prevention-argile
 memberType: beta
 link: https://www.linkedin.com/in/maxamieux/
 competences: []

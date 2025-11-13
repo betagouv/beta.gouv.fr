@@ -1,6 +1,6 @@
 ---
 fullname: Mélissa Manuel
-role: Product Designer à Jardin Mental
+role: Product Designer
 domaine: Design
 link: https://www.linkedin.com/in/melissa-manuel/
 competences:
