@@ -1,6 +1,6 @@
 ---
 fullname: Clémence Chevalier
-role: UX/UI designer
+role: Product designer
 domaine: Design
 missions:
   - start: 2022-11-03
@@ -14,7 +14,13 @@ missions:
     status: admin
     startups:
       - pass.engagement.jeune
+  - start: 2025-01-07
+    end: 2026-02-14
+    status: independent
+    startups:
+      - tdb-apprentissage
 previously:
   - mes-aides-france-travail
   - travailler.en.france
+competences: []
 ---

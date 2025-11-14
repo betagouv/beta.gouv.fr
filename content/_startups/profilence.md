@@ -25,8 +25,14 @@ events:
     comment: ✅ Go pour la construction
 usertypes:
   - entreprise
-techno: []
-link: ''
+  - particulier
+techno:
+  - baserow
+  - n8n
+  - webflow
+link: https://profilence.beta.francetravail.fr
+accessibility_status: partiellement conforme
+stats_url: https://profilence.beta.francetravail.fr/statistiques
 ---
 ### 🚀 Contexte
 
@@ -96,5 +102,4 @@ Cette “brique en dur” comprendra :
 - La possibilité de suivre chaque promotion (état, retour entreprise, suite donnée).  
 - Un processus simplifié pour les conseillers, réduisant les étapes et les ressaisies.
 
-En parallèle, l’expérimentation autour de la **partie vivier** se poursuit :  
-analyse des profils les plus mobilisés, test de critères de ciblage affinés, et retours qualitatifs pour enrichir le futur outil complet.
+En parallèle, l’expérimentation autour de la **partie vivier** se poursuit avec un test en cours dans l'agglomération de Blois auprès du RPE : France Travail, Cap emploi & Mission locale. Durant 2 mois, l'objectif est de réaliser + de 150 promotions de profil grâce à une solution en low code.
