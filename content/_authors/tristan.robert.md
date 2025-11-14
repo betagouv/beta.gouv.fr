@@ -13,7 +13,7 @@ missions:
     startups:
       - filharmonic
   - start: 2020-09-01
-    end: 2025-12-31
+    end: 2026-12-31
     status: admin
     employer: MTES-MCT
 previously:
