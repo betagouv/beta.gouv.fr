@@ -2,7 +2,7 @@
 mission: 'Orienter les agriculteurs vers les dispositifs les plus pertinents pour leur exploitation : aide financière, formation, accompagnement...'
 incubator: agriculture
 title: 'Aides Agri '
-contact: beatrice.neyrac@agriculture.gouv.fr
+contact: aides-agri@beta.gouv.fr
 accessibility_status: non conforme
 thematiques:
   - Agriculture
