@@ -9,7 +9,7 @@ competences:
   - Enseignement Supérieur
 missions:
   - start: 2025-03-28
-    end: 2025-09-28
+    end: 2026-06-30
     status: admin
     employer: DGESIP-DGRI
     startups:

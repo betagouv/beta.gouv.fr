@@ -2,7 +2,7 @@
 fullname: Nathan VASSE
 role: Développeur Full-stack sur Fichiers
 domaine: Développement
-github: https://github.com/NathanVss
+github: NathanVss
 link: https://www.linkedin.com/in/nathanvss/
 competences:
   - Développement Full-stack
@@ -15,7 +15,7 @@ competences:
   - Python
 missions:
   - start: 2025-04-07
-    end: 2025-08-31
+    end: 2026-01-31
     status: independent
     employer: Malt
     startups:

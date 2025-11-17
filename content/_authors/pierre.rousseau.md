@@ -14,8 +14,6 @@ missions:
     end: 2025-12-20
     status: independent
     employer: scopyleft
-    startups:
-      - profilence
 badges:
   - segur
 competences:

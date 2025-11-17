@@ -10,7 +10,7 @@ competences:
   - UI
 missions:
   - start: 2024-12-09
-    end: 2025-12-31
+    end: 2025-10-31
     status: independent
     employer: LBC
     startups:

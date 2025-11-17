@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2025-11-12
     end: 2026-05-12
-    employer: DINUM
     status: independent
+    employer: DINUM
     startups:
       - dossierfacile
-teams: []
 ---

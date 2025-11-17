@@ -4,7 +4,7 @@ fullname: Fatma BOUHEJBA
 role: Business developer à Réfugiés.info
 missions:
   - start: 2023-09-01
-    end: 2025-12-01
+    end: 2027-06-30
     status: admin
     employer: La Mednum
     startups:
