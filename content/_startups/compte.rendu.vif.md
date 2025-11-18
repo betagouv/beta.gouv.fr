@@ -9,14 +9,28 @@ phases:
     start: 2023-01-15
   - name: construction
     start: 2023-10-15
+  - name: acceleration
+    start: 2025-09-01
 repository: https://github.com/betagouv/compte-rendu-vif/
 thematiques:
   - Patrimoine
   - Outil technique
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
-usertypes: []
+usertypes:
+  - etat
+  - particulier
 techno: []
 link: https://compte-rendu-vif.beta.gouv.fr/
+sponsors:
+  - /organisations/dgpat
+events:
+  - name: product_launch
+    date: 2023-01-09
+  - name: committee
+    date: 2024-04-08
+  - name: other
+    date: 2025-04-10
+    comment: décision de mutualiser la construction avec de nouveaux modules
 ---
 
 ## Contexte
@@ -32,4 +46,10 @@ La solution à l'étude est un compte rendu à base de clauses pré-rédigées s
 
 ## Stratégie
 
-Après un MVP fait grâce à une application no-code testé dans plusieurs Unités départementales de l'architecture et du patrimoine (UDAP) de la région Nouvelle Aquitaine, les résultats sont très positifs de la part des usagers et des agents. L'équipe est maintenant en phase de construction  avec le développement d'un produit ad-hoc.
+En 2023, un MVP réalisé grâce à une application no-code a été testé dans plusieurs Unités départementales de l'architecture et du patrimoine (UDAP) de la région Nouvelle Aquitaine. Au vu des résultats positifs de la part des usagers et des agents, une application a été développée en 2024, et déployée au niveau national durant l'année 2025. 
+
+## Impact
+
+CR Vif a démontré son impact à plusieurs titres : 
+- Une expérience facilitée pour les agents, via des fonctionnalités très utiles : le mode hors ligne, l'accès mobile, l'annotation de photos en direct et la génération de comptes rendus chartés. Certaines fonctionnalités sont aujourd'hui réutilisées par d'autres équipes au sein du Service du numérique
+- Les usages en mobilité se démultipliant pour les agents de terrain en DRAC, des opportunités de mutualisation et de déploiement ont été identifiées. Une deuxième brique est en cours de construction pour la réalisation de constats d'états sanitaires (voir [ici](https://beta.gouv.fr/startups/etat-sanitaire-des-monuments-historiques-en-mobilite.html)). L'enjeu est de proposer un environnement unifié (forme de suite) sur plusieurs missions des agents.

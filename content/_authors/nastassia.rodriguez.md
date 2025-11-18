@@ -11,7 +11,7 @@ missions:
       - l-immersion-facile
 badges:
   - segur
-github: NastassiaRodriguez ·
+github: NastassiaRodriguez
 link: https://www.linkedin.com/in/nastassiarodriguez/
 competences:
   - Communication
