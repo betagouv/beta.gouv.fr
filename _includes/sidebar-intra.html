@@ -1,37 +1,5 @@
 <nav class="fr-sidemenu" role="navigation" aria-label="Menu latéral">
     <div class="fr-sidemenu__inner">
-        <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
-        <div class="fr-collapse" id="fr-sidemenu-wrapper">
-            <ul class="fr-sidemenu__list">
-                <li class="fr-sidemenu__item {% if page.url contains '/approche/formation' %}fr-sidemenu__item--active{% endif %}">
-                    <button class="fr-sidemenu__btn" aria-expanded="{% if page.url contains '/approche/formation' %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-formation">Les formations</button>
-                    <div class="fr-collapse" id="fr-sidemenu-item-formation">
-                        <ul class="fr-sidemenu__list">
-                            <li class="fr-sidemenu__item {% if page.url == '/approche/formation' %}fr-sidemenu__item--active{% endif %}">
-                                <a class="fr-sidemenu__link" href="/approche/formation" target="_self">La formation Alpha</a>
-                            </li>
-
-                            <li class="fr-sidemenu__item {% if page.url contains '/approche/formation/mooc' %}fr-sidemenu__item--active{% endif %}">
-                                <button class="fr-sidemenu__btn" aria-expanded="{% if page.url contains '/approche/formation/mooc' %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-mooc">La formation en ligne</button>
-                                <div class="fr-collapse" id="fr-sidemenu-item-mooc">
-                                    <ul class="fr-sidemenu__list">
-                                        <li class="fr-sidemenu__item {% if page.url == '/approche/formation/mooc' %}fr-sidemenu__item--active{% endif %}">
-                                            <a class="fr-sidemenu__link" href="/approche/formation/mooc" target="_self">Présentation</a>
-                                        </li>
-
-                                        {% assign mooc = site.mooc | sort: 'order' %}
-                                        {% for sequence in mooc %}
-                                        <li class="fr-sidemenu__item {% if page.url == sequence.url %}fr-sidemenu__item--active{% endif %}">
-                                            <a class="fr-sidemenu__link" href="{{ sequence.url }}" target="_self">{{ forloop.index }} - {{ sequence.label }}</a>
-                                        </li>
-                                        {% endfor %}
-                                    </ul>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </li>
-            </ul>
-        </div>
+        
     </div>
 </nav>
