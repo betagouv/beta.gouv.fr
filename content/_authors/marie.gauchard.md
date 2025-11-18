@@ -10,13 +10,12 @@ competences:
 missions:
   - start: 2025-11-17
     end: 2026-02-17
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - france.nation.verte.agir
       - impact.co2
       - nosgestesclimat
-teams: []
 ---
 Ergonome de formation, je travaille en tant qu'UX designer et designer de service depuis plus de 10 ans. Je suis attachée aux projets autour de l'environnement, de la simplification administrative (pour les agents autant que pour le grand public) et de l'inclusion.
 

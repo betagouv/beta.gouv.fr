@@ -5,7 +5,7 @@ domaine: Développement
 github: marcwadai
 missions:
   - start: 2024-03-04
-    end: 2025-11-30
+    end: 2026-04-30
     status: independent
     employer: dinum
     startups:

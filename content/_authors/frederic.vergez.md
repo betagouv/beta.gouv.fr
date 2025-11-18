@@ -32,7 +32,7 @@ competences:
   - Docker
 ---
 Architecte | CTO | dev senior
-
-Dans cette ordre de préférence, ex swiss-knife, s'amuse :
+---
+Ex Swiss-Knife, s'amuse :
 - beaucoup à monter des architectures SI, des équipes de dev, et créer des émulateurs et des jeux en Go | Zig | Clojure
-- un peu moins en Python | Django et à faire le fullstack, mais si c'est pour être utile... 
+- un peu moins en Python | Django et à faire le fullstack, mais si c'est temporaire et pour être utile... 

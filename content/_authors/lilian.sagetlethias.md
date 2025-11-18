@@ -40,4 +40,4 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
 ---
-CTO Incubateurs de l'ADEME & du MASA | <br/> ex-Coach Tech Incubateur @SocialGouv | <br/> ex-CTO @Simbel | <br/> [Paris Deno](https://deno.paris) organizer
+CTO Incubateur de l'ADEME <br/>| ex-CTO Incubateur MASA <br/>| ex-Coach Tech Incubateur @SocialGouv <br/>| ex-CTO @Simbel <br/>| [Paris Deno](https://deno.paris) organizer

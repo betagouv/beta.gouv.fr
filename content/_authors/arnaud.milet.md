@@ -8,6 +8,7 @@ missions:
   - start: 2023-06-26
     end: 2026-01-30
     status: independent
+    employer: UT7
     startups:
       - cestquilepro
       - exposition-ij
