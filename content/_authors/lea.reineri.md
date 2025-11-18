@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2025-11-10
     end: 2026-02-28
-    employer: Inetum
     status: service
+    employer: Inetum
     startups:
       - plateforme-d-admission-au-doctorat
-teams: []
 ---

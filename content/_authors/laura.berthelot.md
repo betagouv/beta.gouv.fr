@@ -10,9 +10,9 @@ missions:
     startups:
       - espace.sur.demande
   - start: 2024-01-01
-    end: 2024-12-31
+    end: 2025-12-31
     status: independent
-    employer: LBC
+    employer: Omnicité
     startups:
       - agents.en.intervention
 memberType: beta
