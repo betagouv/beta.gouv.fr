@@ -16,9 +16,6 @@ server {
   location ~ ^/startup/(.*)$ {
     return 301 $scheme://$host/startups/$1;
   }
-  location ~ ^/alpha/mooc/(.*)$ {
-    return 301 $scheme://$host/approche/formation/mooc/$1;
-  }
 
   # Location block for /assets/ with caching
   location ~* ^/assets/ {
