@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2025-07-01
     end: 2026-03-31
-    employer: FabNum-MI      DTNUM SDID
     status: service
+    employer: FabNum-MI      DTNUM SDID
     startups:
       - astree
-teams: []
 ---

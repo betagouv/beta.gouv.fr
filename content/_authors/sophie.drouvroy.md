@@ -34,6 +34,12 @@ missions:
     status: service
     employer: Brigade d'intervention numérique
     startups:
+      - ami
+      - docs
+      - messagerie
+      - proconnect
       - suite-numerique
+      - tchap
+      - visio
 github: cyberbaloo
 ---

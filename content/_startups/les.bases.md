@@ -27,7 +27,7 @@ usertypes:
   - collectivite-territoriale
 techno:
   - next.js
-budget_url: https://lesbases.anct.gouv.fr/budget
+budget_url: https://docs.numerique.gouv.fr/docs/2445dd98-d303-4c7b-b4ba-7690b59ea3d4/
 impact_url: https://lesbases.anct.gouv.fr/statistiques
 ---
 ## Contexte
