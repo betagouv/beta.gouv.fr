@@ -31,6 +31,7 @@ usertypes:
   - collectivite-territoriale
 techno: []
 impact_url: https://lab.base-adresse-locale.incubateur.anct.gouv.fr/
+dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/adresse-data-gouv-fr-bases-locales/
 ---
 ## Pas d'adresse, pas de chocolat
 
@@ -42,7 +43,7 @@ La loi 3DS a consacré le rôle des communes dans l'adressage de leur territoire
 
 **Le programme Bases Adresses Locales** propose des outils pour permettre aux communes de toute taille de mettre à jour leurs adresses simplement et d'alimenter la [Base Adresse Nationale](https://beta.gouv.fr/startups/ban.html), base officielle des adresses en France appartenant au Service Public de la Donnée.
 
-* 🔧 **Outils :** [Mes Adresses](https://mes-adresses.data.gouv.fr/) pour toutes les communes sans aucun prérequis, [autres méthodes](https://adresse.data.gouv.fr/gerer-mes-adresses) pour publier sa BAL
+* 🔧 **Outils :** [Mes Adresses](https://mes-adresses.data.gouv.fr/) pour toutes les communes sans aucun prérequis, [autres méthodes](https://adresse.data.gouv.fr/gerer-mes-adresses) pour publier sa BAL.  [Mes Signalements](https://signalement.adresse.data.gouv.fr/) pour permettre aux organismes et aux particuliers de contribuer à améliorer l'adressage
 * 🗓️ **Formations :** un [webinaire](https://adresse.data.gouv.fr/formation-en-ligne) par semaine à destination des communes
 * 🙌 **Animation :** la [charte](https://adresse.data.gouv.fr/communaute/charte-base-adresse-locale) des communes partenaire et des organismes accompagnants
 * 📚 **[Documentation](https://adresse.data.gouv.fr/documentation-bal)**

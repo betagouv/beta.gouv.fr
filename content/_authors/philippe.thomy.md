@@ -4,7 +4,7 @@ fullname: Philippe Thomy
 role: Data
 missions:
   - start: 2024-07-01
-    end: 2025-12-31
+    end: 2026-04-30
     status: independent
     employer: Malt
     startups:

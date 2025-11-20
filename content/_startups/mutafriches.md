@@ -9,7 +9,9 @@ thematiques:
 usertypes:
   - collectivite-territoriale
   - entreprise
-techno: []
+  - etat
+techno:
+  - typescript
 title: Mutafriches
 mission: Définir la mutabilité d'un site pour accélérer sa reconversion
 incubator: ademe
@@ -28,7 +30,7 @@ events:
 redirect_from:
   - /startups/friche-reboost
 repository: https://github.com/incubateur-ademe/mutafriches
-link: ''
+link: https://mutafriches.beta.gouv.fr/
 ---
 ## Constats
 En France, ce sont en moyenne **23 000 hectares** de terres agricoles ou naturelles qui sont urbanisés annuellement, l’équivalent de **15 000 stades de France**. Et c’est encore plus important si on considère le phénomène dans le temps, en **10 ans,** c'est l’équivalent de la superficie de **l’ile de la Réunion** qui a été urbanisée.
@@ -37,64 +39,58 @@ En parallèle, on estime le stock de friche en France à environ **150 000 hecta
 
 Dans un contexte général de raréfaction des ressources et d'évolution des exigences réglementaires (ZAN), le sol/foncier devient une **ressource stratégique**. Les friches, souvent délaissées de par leur "complexité de réhabilitation", apparaissent comme de **réelles opportunités.**
 
-## Contexte
-Mutafriches, outil initial produit par l’ADEME, vise à révéler ces **opportunités.** Il s’agit d’un outil **d’aide à la décision** qui éclaire les **usages potentiels** les plus adaptés à une friche donnée. Il contribue aux réflexions relatives à un projet **de reconversion**, de manière **factuelle et objective,** sur la base de caractéristiques (qualitatives ou chiffrées) du site et de son environnement.  
-
-
-
 ## Problème
 Malgré une tension croissante sur la ressource foncière et un stock important de friches à réhabiliter, il existe actuellement une **décorrélation** entre la capacité de remobilisation des sites en friches et leur réhabilitation effective. 
 
 Les accompagnements publics mis en œuvre (financements, outils, méthodes …) ne semblent pas suffire à impulser une dynamique de reconversion suffisante en quantité mais aussi en qualité : **le bon usage au bon endroit**. 
 
 
-## Cadrage de l’investigation
+## Principaux enseignements de l'investigation
 
-Nos hypothèses de travail pour débuter l'investigation touchaient aux facteurs limitants la reconversion du point de vue des collectivités locales. 
+L’investigation a permis de confirmer que les facteurs les plus déterminants pour la reconversion sont :
 
-**Un manque d’intégration stratégique** : les politiques fiscales, économiques et stratégiques n’encouragent pas suffisamment la sobriété foncière ni la reconquête des friches. Lui sont préféré les modèles d’aménagement “classiques” de la fabrique de la ville. et des logiques d’opportunité 
+- l’accès à un **financement**,  
+- l’**attractivité** du territoire,  
+- la présence ou non de **pollution** sur le site,  
+- la **volonté politique** portée par les élus.
 
+D’autres facteurs importants ont été identifiés :
 
-**Un parcours complexe** : accompagnement morcelé, démarches administratives lourdes, manque de ressources et de retours d’expérience, difficulté à identifier les acteurs, temps de latence. 
+- la **maîtrise foncière**,  
+- l’accès à l’**ingénierie** au sein des collectivités et via des partenaires externes (EPF, bureaux d’études, etc.).
 
+Enfin, des facteurs moins déterminants mais à prendre en compte complètent le tableau :
 
-**Un modèle économique à réinventer** : coûts élevés, faible rentabilité à court terme, absence d’argument économique clair en utilisant les  modèles d’aménagement   “classiques”. 
+- l’accès aux **outils d’ingénierie** mis à disposition par l’État,  
+- la **connaissance du foncier** en lien avec la stratégie foncière du territoire,  
+- la **démographie**.
 
-**Un terrain souvent complexe** : manque d’attractivité locale, porteurs privés  absents, problématiques de site (pollution, risques, etc.)
+Ces enseignements guident aujourd’hui la **conception** de la nouvelle brique Mutafriches.
 
-**→ Quel rôle de la mutabilité pour leur résolution ?**
-
-
-## Enseignements principaux
-Les facteurs les plus déterminants à la reconversion se sont confirmés être l'**accès à un financement**, l'**attractivité** du territoire, la présence ou non de **pollution** sur le site et enfin la **volonté politique** portées par les élus. 
-
-D'autres facteurs importants ont été notés comme la maitrise foncière, l'accès à l'ingénierie au sein des collectivités mais aussi via des partenaires externes (EPF, bureau d'études, etc.) 
-
-Enfin, les facteurs moins déterminants mais également à noter sont l'accès aux outils d'ingénierie mis à disposition par l'État, la connaissance du foncier en articulation avec la stratégie foncière du territoire et enfin la démographie. 
-
-## Problématisation
-**→** Comment pousser les acteurs des friches — collectivités et porteurs de projet — à porter un nouveau regard sur les friches dites dévaluées et révéler leur valeur potentielle ? 
-
-**→** Comment faciliter la rencontre entre des collectivités et des porteurs de projets (publics, para-publics ou privés) dans des territoires en déprise ?
-
-**→** Comment créer des ponts pour mettre en cohérence l’écosystème institutionnel ?
 
 ## Solution
-Dans les territoires en déprise, les friches peinent à attirer des porteurs de projet. Perçues comme peu attractives pour des usages traditionnels (habitat, activités économiques, etc.), elles restent inexploitées.
 
-**Mutafriches est une brique fonctionnelle qui calcule un indice de mutabilité unique et partagé**. Cette brique s’implémente sur les outils “friches” (à commencer par Bénéfriches) et évalue la capacité du site à accueillir des usages donnés, selon ces caractéristiques (surface, niveau de pollution, raccordements, etc.) et son environnement local.
+ **Mutafriches** est une **brique fonctionnelle intégrable** (API et iframe) qui calcule un **indice de mutabilité** unique et partagé.  
 
-L’indice de mutabilité produit permet aux collectivités de considérer des usages émergents comme la renaturation, le photovoltaïque, la méthanisation ou les data-centers.
-Une fois qualifiées, les friches peuvent être référencées et rendues visibles auprès des porteurs de projet adaptés à chaque type d’usage.
+Cette brique a vocation à :
 
-À terme, cette brique fonctionnelle pourra être intégrée à l’ensemble de l’écosystème des outils friches ainsi que les inventaires territoriaux et in fine l’écosystème de solutions privées (logiciel de planification).  
+- s’implémenter dans les outils « friches » existants (à commencer par [Bénéfriches](https://benefriches.ademe.fr/)),  
+- évaluer la capacité d’un site à accueillir différents usages, au regard de ses caractéristiques (surface, niveau de pollution, raccordements, etc.) et de son environnement local.
+
+L’**indice de mutabilité** que nous concevons doit permettre aux collectivités de considérer des usages émergents (renaturation, photovoltaïque, etc.) en plus des usages plus classiques (logements et commerces, équipements culturels et touristiques, industrie, etc.)
+
+Par ailleurs, Mutrafriches offre un module de qualification de parcelle avancé (informations de parcelles, données d'environnement et de risques), intégrable séparément. 
+
+## Devenir intégrateur
+Nous sommes en continuelle recherche d'intégrateurs. Pour intégrer Mutafriches dans votre service, contactez un membre de l'équipe.  
+
 
 ## Feuille de route construction
 
 | Mois | Objectif clé |
 |------|--------------|
-| Mai‑juin | Spécifier et fiabiliser l’algorithme |
-| Juillet-août | Développer et lancer le MVP (v 0.1) sur Bénéfriches |
-| Septembre-octobre | Amélioration continue, spécifications et création d'une iframe pour intégration facilitée| 
-| Octobre-novembre | Tests d'intégrations partenaires auprès de partenaires (Cartofriches, UrbanVitaliz)  |
-|Décembre | Lancement des intégrations, mesures d’impact & comité d’investissement | 
+| Janvier-février | Fiabilisation de l'algorithme |
+| Mars-avril |Intégrations outils friches |
+| Avril-Mai | Fonctionnalité de sélection multi-sites| 
+| Mai-juin| Tests d'intégrations auprès outils locaux (observatoires)  |
+
