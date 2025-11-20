@@ -25,25 +25,16 @@ link: https://audiodescription.beta.gouv.fr/
 repository: https://github.com/betagouv/audiodescription
 sponsors:
   - /organisations/mc
+budget_url: https://audiodescription.beta.gouv.fr/budget
+stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=196&period=day&date=yesterday#?period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=1
+impact_url: https://audiodescription.beta.gouv.fr/stats
 ---
-## Plateforme dédiée à l’audiodescription
+## Portail de l’audiodescription
 
-**La plateforme du ministère de la Culture dédiée à l’audiodescription fournit aux usagers en situation de handicap visuel et à leurs proches un accès à un catalogue de films audiodécrits et à un ensemble de ressources informatives sur l’audiodescription.**
+Lancé en 2025 par le ministère de la Culture, le Portail de l’audiodescription est un service public numérique dédié aux personnes en situation de handicap visuel, à leurs proches, ainsi qu’aux professionnels du secteur du cinéma. Il vise à faciliter l’accès aux œuvres cinématographiques audiodécrites en centralisant, au sein d’un site web adossé à une lettre d’information par email, une offre éditorialisée de plus de 2800 films disponibles en version audiodécrite.
 
-**Le problème** 
+Accessible à toutes et tous, quelle que soit sa perception visuelle, le portail permet de rechercher des films par mots-clés, thématiques, genres ou sélections spéciales — notamment les œuvres récompensées par le Prix Marius de l’audiodescription. Chaque fiche de film redirige vers les différentes solutions partenaires de visionnage en ligne (VOD, SVOD), parmi lesquelles Arte.tv, france•tv, TF1+, CANAL+, LaCinetek et Orange VOD. Cette liste est amenée à s’enrichir progressivement. Une partie du catalogue est constituée de films accessibles gratuitement, disponibles pour une durée limitée et renouvelés régulièrement, qui sont mis en avant dès la page d’accueil du Portail.
 
-L’audiodescription est une technique qui permet aux personnes en situation de handicap visuel d’accéder aux œuvres du spectacle vivant, du cinéma et de l’audiovisuel. Depuis quelques années, le cinéma et l’audiovisuel se sont engagés dans une importante mise en œuvre de ce dispositif, et l’offre de films dotés d’une audiodescription de qualité s’accroît d’année en année. Cependant, l’information qui permet aux personnes en situation de handicap visuel, à leur famille, aux aidants et accompagnants de connaitre l’existence et la disponibilité de l’audiodescription est fragmentaire, partielle, et dispersée, constituant ainsi un frein à l’inclusion et à l’exercice de leurs droits culturels à égalité avec les autres membres de la société.
+Conçu avec et pour les publics déficients visuels, le Portail de l’audiodescription répond à un besoin d’accessibilité culturelle en remédiant à la dispersion actuelle de l’information. Il propose également un centre de ressources pédagogiques et de sensibilisation à destination du grand public et des professionnels.
 
-**Le service**
-
-La plateforme consiste en un catalogue de films audiodécrits lisibles directement, ou bien renvoyant vers une plateforme de diffusion tierce. Ce catalogue est consultable par recherche ou via des entrées par thématique, par réalisateur ou réalisatrice, par année, ou encore par sélection avec par exemple le prix Marius de l’audiodescription. Il est utilisable en autonomie par toutes et tous, quelle que soit sa perception visuelle.
-
-Le catalogue est doublé d’un centre de ressources informatives sur l’audiodescription qui ouvrent d’ailleurs sur les autres champs d’intervention de cette technique au-delà du cinéma, comme par exemple le spectacle vivant. 
-
-**La stratégie d’expérimentation**
-
-L’un des principaux défis du projet est la constitution d’un catalogue suffisamment fourni et varié pour répondre à la diversité des envies et préférences cinématographiques des usagers. Cela implique un travail de coordination de différents acteurs de l’écosystème et le bon traitement de la question des droits d’auteur associés — l’audiodescription n’y étant pas soumise en soi, contrairement à l’œuvre à laquelle elle est associée. 
-
-La première version de la plateforme présentera un catalogue initial limité mais suffisant pour mesurer dès que possible la pertinence du service et en co-construire les fonctionnalités avec les usagers. Des usagers en situation de handicap visuel contribueront à la conception et l’amélioration continue de la plateforme afin d’en garantir la totale accessibilité.
-
-Cette esquisse servira également de prototype pour établir le bon modèle opérationnel pour la plateforme en termes d’hébergement de films audiodécrits et de référencement de plateformes tierces.
+Porté par le ministère de la Culture en partenariat avec le Centre national du cinéma et de l’image animée (CNC), ce projet s’inscrit dans la feuille de route de la Conférence nationale du handicap de 2023. Il bénéficie du soutien du Comité interministériel du handicap (CIH) et du Conseil national consultatif des personnes handicapées (CNCPH), et a été développé au sein de l’incubateur de l’Atelier numérique du ministère, en co-construction permanente avec des usagers, des associations représentatives, et des professionnels de l’audiodescription.
