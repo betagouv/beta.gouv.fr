@@ -42,4 +42,4 @@ competences:
   - Matomo
   - Croissance
 ---
-Coach agile: passionné par les produits, la tech, la data, les gens
+Coach produit : j'aime cocréer des écosystèmes humains de qualité permettant la réalisation de produit à impact.

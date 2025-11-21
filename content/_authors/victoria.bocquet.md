@@ -11,7 +11,7 @@ missions:
       - pv.facile
       - trait-de-cote
   - start: 2025-01-01
-    end: 2026-04-21
+    end: 2025-04-21
     status: independent
     employer: Numa
     startups:

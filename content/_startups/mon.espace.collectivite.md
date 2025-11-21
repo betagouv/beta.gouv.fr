@@ -9,8 +9,10 @@ redirect_from:
   - /startups/mon.espae.collectivite
 sponsors:
   - /organisations/anct
+  - /organisations/dinum
   - /organisations/mctrct
   - /organisations/mtes
+  - /organisations/sgpe
 phases:
   - name: investigation
     start: 2023-10-09
@@ -19,6 +21,7 @@ phases:
 accessibility_status: non conforme
 thematiques:
   - Collectivités
+  - Territoires
 usertypes:
   - collectivite-territoriale
 techno:
@@ -27,10 +30,11 @@ techno:
 analyse_risques: false
 mon_service_securise: true
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/monespacecollectivite-anct-gouv-fr/
+stats_url: https://mon-espace-collectivite-metabase.osc-secnum-fr1.scalingo.io/dashboard/3
 ---
 ## Contexte
 
-Annoncée par le président de la République lors de la Conférence nationale des territoires en 2017 et créée par la loi du 22 juillet 2019, l’Agence nationale de la cohésion des territoires (ANCT) a été mise en place le 1er janvier 2020 pour assurer un rôle de « fabrique à projets » afin de permettre aux collectivités de mener à bien leurs projets. 
+L’Agence nationale de la cohésion des territoires (ANCT) a été mise en place le 1er janvier 2020 pour assurer un rôle de « fabrique à projets » afin de permettre aux collectivités de mener à bien leurs projets. 
 
 Pour y arriver, il est fourni à son réseau d’acteurs de l’Etat déconcentré un service numérique facilitant le fléchage, le suivi et le pilotage des projets aux collectivités.
 
@@ -49,9 +53,9 @@ Mon Espace Collectivité est un service d’accompagnement sur mesure pour les p
 1. La collectivité initie son projet
 
 2. Un binôme Direction Départementale du Territoire (DDT) et Préfecture est averti des intentions de son territoire. Il les visualise, priorise et l'affecte aux bonnes personnes selon la thématique du projet
-3. Chaque projet fait l'objet d'une fiche qui regroupe toutes les informations et actions réalisées autour d'un état des lieux, conversations et fichiers rattachés. Chaque membre peut inviter à son tour d'autres acteurs pour suivre et débloquer le projet.
+3. Chaque projet fait l'objet d'une fiche qui regroupe toutes les informations et actions réalisées autour d'un état des lieux, conversations et fichiers rattachés. D'autres acteurs peuvent être ensuite associés pour suivre et faire avancer le projet.
 
-4. A chaque blocage, la collectivité reçoit des recommandations personnalisées d'ingénierie,  de financement ou de services experts de la thématique projet. Chaque blocage fait l'objet de recommandations pour arriver à la concrétisation du projet et son évaluation d'impact.
+4. A chaque étape, la collectivité reçoit des propositions personnalisées d'ingénierie,  de financement ou d'accompagnement par des services experts de la thématique projet. Chaque blocage fait l'objet de recommandations pour arriver à la concrétisation du projet et son évaluation d'impact.
 
 ## Stratégie
 
@@ -72,7 +76,8 @@ Objectifs 30 juin
 Objectifs 31 décembre :
 
 - Interconnexion démarches simplifiées V2 (DECIL/DETR/FNADT)
-- Déploiement d’autres cas d’usage (PICT, CRTE et d’autres programmes et plans ANCT)
+- Intégration de l'ensemble des projets des CRTE de France
+- Déploiement d’autres cas d’usage (ingénierie et d’autres programmes et plans ANCT)
 
 ## Statistiques au 31/12/2024
 

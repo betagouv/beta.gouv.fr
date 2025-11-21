@@ -12,12 +12,18 @@ missions:
     startups:
       - chauffage-urbain
   - start: 2022-10-01
-    end: 2026-02-28
+    end: 2023-12-31
     status: independent
     employer: PathTech
     startups:
       - ban
       - bases.adresses.locales
+  - start: 2024-01-01
+    end: 2026-02-21
+    status: independent
+    employer: PathTech
+    startups:
+      - ban
 competences:
   - Développement Frontend
   - Développement Backend
