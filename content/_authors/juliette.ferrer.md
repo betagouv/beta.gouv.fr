@@ -11,8 +11,6 @@ competences:
 missions:
   - start: 2025-11-19
     end: 2026-02-19
-    employer: Octo
     status: service
-    startups: []
-teams: []
+    employer: Octo
 ---
