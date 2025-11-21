@@ -1,7 +1,7 @@
 ---
 link: https://monespacecollectivite.anct.gouv.fr/
 mission: Réunir en un seul endroit collectivités et Etat Local pour accélérer les projets et leur impact sur le territoire.
-repository: https://github.com/betagouv/recoco-portails
+repository: https://gitlab.com/incubateur-territoires/startups/mon-espace-collectivite/mon-espace-collectivite
 incubator: anct
 title: Mon espace collectivité
 contact: monespacecollectivite@anct.gouv.fr
@@ -19,8 +19,14 @@ phases:
 accessibility_status: non conforme
 thematiques:
   - Collectivités
-usertypes: []
-techno: []
+usertypes:
+  - collectivite-territoriale
+techno:
+  - next.js
+  - typescript
+analyse_risques: false
+mon_service_securise: true
+dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/monespacecollectivite-anct-gouv-fr/
 ---
 ## Contexte
 

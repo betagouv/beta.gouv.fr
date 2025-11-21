@@ -12,7 +12,7 @@ link: https://aides-territoires.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/aides-territoires-symfony
 contact: aides-territoires@beta.gouv.fr
 stats: true
-dashlord_url: https://dashlord.mte.incubateur.net/url/aides-territoires-beta-gouv-fr/
+dashlord_url: https://dashlord.incubateur.net/url/aides-territoires-beta-gouv-fr/
 analyse_risques: true
 accessibility_status: partiellement conforme
 usertypes:
@@ -28,6 +28,8 @@ thematiques:
   - Territoires
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 techno: []
+mon_service_securise: true
+impact_url: https://aides-territoires.beta.gouv.fr/impact/
 ---
 ## Le problème
 
