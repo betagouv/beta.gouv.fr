@@ -25,12 +25,13 @@ phases:
     start: 2022-01-31
   - name: acceleration
     start: 2024-04-01
-analyse_risques: false
+analyse_risques: true
 mon_service_securise: true
 techno: []
 fast:
   promotion: 15
   montant: 150000
+impact_url: https://deveco.incubateur.anct.gouv.fr/stats
 ---
 ## Le contexte
 

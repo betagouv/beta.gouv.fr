@@ -7,6 +7,8 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2024-04-04
+  - name: construction
+    start: 2025-09-01
 sponsors:
   - /organisations/dgec
 thematiques: []

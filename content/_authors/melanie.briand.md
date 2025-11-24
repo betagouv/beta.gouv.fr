@@ -16,13 +16,13 @@ missions:
     startups:
       - 1-jeune-1-arbre
   - start: 2024-11-12
-    end: 2025-11-28
+    end: 2026-04-03
     status: service
     employer: NUMA
     startups:
       - icare-complements-alimentaires
   - start: 2025-05-15
-    end: 2025-11-14
+    end: 2025-12-31
     status: service
     employer: NUMA
     startups:
