@@ -1,7 +1,7 @@
 ---
 fullname: Virgile Deville
-role: Coach Produit
-domaine: Coaching
+role: PM
+domaine: Produit
 link: https://www.linkedin.com/in/virgiledeville/
 github: virgile-dev
 missions:
@@ -12,7 +12,7 @@ missions:
     startups:
       - umap
   - start: 2024-12-01
-    end: 2026-02-28
+    end: 2026-04-30
     status: independent
     employer: Numa
     startups:

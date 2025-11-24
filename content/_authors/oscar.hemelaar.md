@@ -5,7 +5,7 @@ domaine: Autre
 github: ohemelaar
 missions:
   - start: 2022-03-21
-    end: 2025-12-31
+    end: 2025-10-15
     status: service
 competences: []
 teams:
