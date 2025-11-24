@@ -11,6 +11,8 @@ phases:
     start: 2023-07-03
   - name: construction
     start: 2024-04-01
+  - name: acceleration
+    start: 2024-11-15
 thematiques:
   - Outil technique
   - Inclusion numérique
@@ -21,7 +23,7 @@ usertypes:
 techno:
   - next.js
 mon_service_securise: true
-budget_url: https://coop-numerique.anct.gouv.fr/budget
+budget_url: https://docs.numerique.gouv.fr/docs/88e3bfdf-4a7a-4331-8d13-3778dbb3ec5b/
 repository: https://github.com/inclusion-numerique/coop-mediation-numerique
 link: https://coop-numerique.anct.gouv.fr/
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/coop-numerique-anct-gouv-fr/

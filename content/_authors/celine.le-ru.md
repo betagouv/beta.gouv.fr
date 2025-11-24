@@ -24,13 +24,13 @@ missions:
     startups:
       - la-bonne-boite
   - start: 2025-02-10
-    end: 2025-08-31
+    end: 2026-04-30
     status: service
     employer: OCTO
     startups:
       - ma-cantine-egalim
   - start: 2025-06-03
-    end: 2025-12-02
+    end: 2026-01-31
     status: service
     employer: OCTO
     startups:

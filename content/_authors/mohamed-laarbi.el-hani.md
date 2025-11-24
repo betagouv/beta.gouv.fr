@@ -12,9 +12,8 @@ competences:
 missions:
   - start: 2025-11-18
     end: 2026-03-31
-    employer: DINUM
     status: service
+    employer: DINUM
     startups:
       - plateforme-d-admission-au-doctorat
-teams: []
 ---

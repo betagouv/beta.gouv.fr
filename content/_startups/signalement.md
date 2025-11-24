@@ -42,6 +42,8 @@ fast:
   promotion: 12
   montant: 300000
 thematiques: []
+analyse_risques: true
+impact_url: https://signal.conso.gouv.fr/fr/stats
 ---
 ## Trop d'anomalies aujourd'hui ne sont pas remontées
 

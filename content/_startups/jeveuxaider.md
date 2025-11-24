@@ -24,6 +24,8 @@ phases:
     start: 2020-03-02
   - name: acceleration
     start: 2020-10-05
+  - name: transfer
+    start: 2025-11-02
 stats_url: https://www.jeveuxaider.gouv.fr/stats
 thematiques:
   - Social

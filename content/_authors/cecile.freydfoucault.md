@@ -1,6 +1,6 @@
 ---
 fullname: Cécile Freyd-Foucault
-role: UX designer
+role: Product design - accessibilité
 domaine: Design
 github: cecilefreyd
 missions:
