@@ -9,6 +9,11 @@ missions:
     status: independent
     startups:
       - aides.jeunes
+  - start: 2025-03-20
+    end: 2025-12-31
+    status: independent
+    startups:
+      - agents.en.intervention
 memberType: beta
 link: https://www.linkedin.com/in/jeremy-pastouret/
 competences:

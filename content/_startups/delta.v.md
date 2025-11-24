@@ -42,4 +42,6 @@ Ce domaine réglementaire est également compliqué à gérer pour les agents de
 - mettre à disposition du grand public un service simple, accessible et intuitif pour qu'il soit en mesure de s'informer et de ramener des biens achetés à l'étranger en France en parfaite connaissance de cause ;
 - rendre le passage de la frontière plus serein et plus simple pour les usagers en proposant un simulateur d'achats.
 
-A terme, nous souhaitons aller encore plus loin en dématérialisant le processus de déclaration des marchandises achetées par les voyageurs lors de leur séjour à l'étranger et le paiement des éventuels droits et taxes dûs à ce titre.
+## Arrêt de la startup d’état et pérennisation du service :
+La collaboration sous forme de startup d'etat s'est terminée en 2024.
+Le service est actuellement en cours d’internalisation dans les outils SI de la DGDDI avec une mise en production prévue pour début 2026. Le front a notamment été revu pour intégrer les exigences DSFR et RGAA.
