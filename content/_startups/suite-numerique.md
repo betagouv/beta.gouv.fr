@@ -1,13 +1,13 @@
 ---
-title: Suite numérique
+title: LaSuite
 mission: Réunir les outils du quotidien des agents publics
 sponsors:
   - /organisations/dinum
 incubator: dinum_produits_interministeriels
-repository: https://github.com/numerique-gouv/
-contact: lasuite@modernisation.gouv.fr
+repository: https://github.com/suitenumerique/
+contact: lasuite@numerique.gouv.fr
 stats: false
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 phases:
   - name: investigation
     start: 2023-05-01
@@ -20,7 +20,9 @@ usertypes:
   - etat
   - collectivite-territoriale
 techno: []
-stats_url: https://stats.beta.numerique.gouv.fr/
+stats_url: https://superset.beta.numerique.gouv.fr/superset/dashboard/lasuite/
+analyse_risques: true
+mon_service_securise: false
 ---
 ## Contexte
 
@@ -31,18 +33,10 @@ La Suite est déployée par l'[Opérateur de Produits Interministériels de la D
 ## Solution
 La Suite contient d'ores et déjà les services suivants :
 * [Tchap](https://beta.gouv.fr/startups/tchap.html), la messagerie instantanée
-* [France Transfert](https://beta.gouv.fr/startups/france-transfert.html), pour le transfert de fichiers lourds
-* Webinaire, Webconf et [Audioconf](https://beta.gouv.fr/startups/audioconf.html), pour audio et vidéo conférences
 * [Visio](https://beta.gouv.fr/startups/visio.html), pour des visios rapides
-* [Resana](https://beta.gouv.fr/startups/resana.html), pour le stockage de fichiers
-* [Grist](https://beta.gouv.fr/startups/grist.numerique.gouv.fr.html), pour gérer des bases de données
 * [Docs](https://beta.gouv.fr/startups/docs.html), pour de l'édition collaborative de documents textes
+* [Grist](https://beta.gouv.fr/startups/grist.numerique.gouv.fr.html), pour gérer des bases de données
+* [Fichiers](https://fichiers.numerique.gouv.fr), pour le stockage et l'édition collaborative de fichiers 
+*  [France Transfert](https://beta.gouv.fr/startups/france-transfert.html), pour le transfert de fichiers lourds
+* [Audioconf](https://beta.gouv.fr/startups/audioconf.html), pour audio conférences
 * [Messagerie](https://beta.gouv.fr/startups/messagerie.html), pour mail et agendas synchronisés, avec OpenExchange
-
-Une fois complète, la suite comprendra des services de : 
-
-* Annuaire, y compris dans différents ministères
-* Stockage de fichiers
-* Edition collaborative
-* Kanban 
-* Documentation

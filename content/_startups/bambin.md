@@ -23,6 +23,7 @@ techno:
   - python
   - strapi
 sponsors:
+  - /organisations/anct
   - /organisations/cerema
 events:
   - name: committee
@@ -34,6 +35,9 @@ events:
   - name: committee
     date: 2025-06-10
     comment: Financements complémentaires pour continuer la construction jusqu'en Janvier 2026
+  - name: committee
+    date: 2025-11-20
+    comment: Comité d'investigation FINDPE. Le guichet va contribuer au financement du produit
 link: https://diagbruit.beta.gouv.fr/
 repository: https://github.com/betagouv/diagbruit.beta.gouv.fr
 stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=212&period=day&date=yesterday#?period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=1
@@ -47,14 +51,15 @@ Par ailleurs, il existe un grand nombre d’indicateurs et documents techniques 
 
 ## Problème
 
+En tant que chargé de mission bruit, je constate que les recommandations des documents d'urbanismes ne sont pas toujours appliquées.  
 En tant qu’instructeur droit des sols, je ne dispose pas de suffisamment de temps et de connaissances technique pour intégrer le bruit dans mes recommandations.  
-En tant qu'élu, sans soutien pédagogique, je peine à m’approprier les diagnostics, dont les résultats sont parfois contradictoires avec les plaintes formulées par les habitants.
+En tant qu'élu, sans soutien pédagogique, je peine à m’approprier les diagnostics, dont les résultats sont parfois contradictoires avec les plaintes formulées par les habitants.  
 
 ## Solution
 
 Sur les territoires couverts par une carte de bruit, les instructeurs bénéficient d’un diagnostic flash qui leur indique le niveau de risque sonore (faible, moyen, fort) sur la parcelle considérée. ils peuvent copier-coller ce diagnostic dans les documents qu’ils émettent à destination des collectivités ou des porteurs de projet.  
 
-Ce diagnostic est basé sur un ensemble de données en cours de réflexions. À date (liste non exhaustive) : cartes de bruit grandes infrastructures et agglomération, classements sonores, signalements, retours d’expériences d’aménagement, mesures de bruit… 
+Ce diagnostic est basé sur un ensemble de données en cours de réflexions. À date (liste non exhaustive) : cartes de bruit grandes infrastructures et agglomération, classements sonores, plan d'exposition au bruit.
 
 ## Stratégie
 
@@ -69,6 +74,7 @@ Les retours utilisateurs pourront amener à faire évoluer cette liste.
 
 ## Impacts recherchés
 
-L’impact terrain recherché est l’ajustement d’un projet suite à une recommandation d'un instructeur ADS.
+L’impact terrain recherché est l’ajustement d’un projet par son porteur. Cet ajustement peut intervenir à la suite d'une recommandation d'un instructeur ADS, d'un élu ou par une action volontariste.
 
-Des impacts intermédiaires pourraient se traduire par le nombre de recommandations émises sur la base fournie par le produit ou le nombre d’études acoustiques complémentaires demandées suite à consultation du diagnostic.
+
+Les impacts intermédiaires sont le nombre de diagnostics créés ainsi que le nombre de diagnostics transmis aux porteurs de projets. Le nombre d’études acoustiques complémentaires demandées suite à consultation du diagnostic serait également un très bon indicateur.

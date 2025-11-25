@@ -65,7 +65,11 @@ Suite à la remise de deux rapports d’évaluation et de mesure d’impacts à 
 
 L’équipe a donc lancé en juillet 2023 une dernière et 3eme phase dite de préfiguration du service public avec 220 certifications disponibles et plus de 500 architectes Accompagnateurs de Parcours qui permettent d’accompagner près de 5000 usagers par mois. Reva a donc disparu au profit de France VAE. Cette 3eme phrase a permis de continuer d’itérer pour améliorer le service aux usagers, éprouver la plateforme, mais également alimenter la réflexion du Ministère du Travail en vue d’écrire le décret d’application de la loi qui a été publié au JO le  28 décembre 2023.
 
-La période de préfiguration de France VAE va se dérouler une grande partie de l’année 2024, ce qui permettra à l’équipe de poursuivre son travail d’itération afin de contribuer à l’écriture des Arrêtés de mise en oeuvre du service public et de sa généralisation en 2025.
+La période de préfiguration de France VAE s'est déroulée une grande partie de l’année 2024, ce qui a permis à l’équipe de poursuivre son travail d’itération afin de contribuer à l’écriture d’un décret d’application et d’un arrêté de mise en œuvre du service public et de sa généralisation qui ont été publiés en juillet 2025.
+
+Depuis mars 2025, toutes les certifications accessibles à la VAE ont été intégrées progressivement sur la plateforme France VAE. Seul le ministère de l’Enseignement supérieur a prévu son arrivée sur le portail début 2026.
+
+En mai 2025, l’équipe a lancé une mesure de son impact auprès d’un panel représentatif de 3 000 d’usagers de la plateforme : 84% estime qu’ils n’ont rencontrés aucune difficulté à l’utilisation de France VAE, 85% que la plateforme fonctionne bien et que les étapes du parcours VAE sont compréhensibles. Enfin  84% d’entre eux considèrent que les informations à leurs dispositions sont claires et précises.
 
 La réforme de la VAE a été intégrée comme une politique prioritaire du Gouvernement.
 

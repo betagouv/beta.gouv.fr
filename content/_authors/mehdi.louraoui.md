@@ -17,6 +17,12 @@ missions:
     employer: Octo/Malt (Plus Fraîche Ma Ville)
     startups:
       - plusfraichemaville
+  - start: 2025-11-03
+    end: 2026-02-25
+    status: independent
+    employer: Malt
+    startups:
+      - terri-story
 incubator: ademe
 competences:
   - Développement Frontend
