@@ -16,13 +16,13 @@ missions:
     startups:
       - zero-logement-vacant
   - start: 2024-11-05
-    end: 2025-12-31
+    end: 2026-04-30
     status: independent
     employer: Malt
     startups:
       - data-subvention
   - start: 2024-11-12
-    end: 2025-08-31
+    end: 2025-02-28
     status: independent
     employer: TelesCoop
     startups:

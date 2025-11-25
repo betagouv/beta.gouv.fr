@@ -11,9 +11,9 @@ missions:
     startups:
       - urbanvitaliz
   - start: 2021-06-30
-    end: 2025-12-31
+    end: 2026-05-24
     status: independent
-    employer: LBC
+    employer: Malt
     startups:
       - recommandations-collaboratives
       - urbanvitaliz

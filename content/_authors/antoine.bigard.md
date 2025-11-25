@@ -20,7 +20,7 @@ missions:
       - sirius
       - tdb-apprentissage
   - start: 2025-03-10
-    end: 2025-12-11
+    end: 2026-02-28
     status: independent
     employer: ut7
     startups:

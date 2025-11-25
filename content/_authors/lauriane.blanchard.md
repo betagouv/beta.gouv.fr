@@ -14,6 +14,7 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - bambin
       - guichet-territorial-pour-la-transition-ecologique
       - terri-story
 ---

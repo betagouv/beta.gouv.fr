@@ -6,7 +6,7 @@ github: octavemelusyn
 link: https://fr.linkedin.com/in/octavebory
 missions:
   - start: 2021-01-08
-    end: 2026-03-15
+    end: 2026-05-21
     status: independent
     employer: NUMA
     startups:
