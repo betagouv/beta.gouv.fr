@@ -5,7 +5,7 @@ domaine: Produit
 github: VeroniqueR75
 missions:
   - start: 2024-02-23
-    end: 2025-12-25
+    end: 2026-12-31
     status: admin
     employer: URSSAF Caisse nationale
     startups:

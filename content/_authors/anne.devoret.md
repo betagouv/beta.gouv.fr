@@ -2,7 +2,7 @@
 fullname: Anne Devoret
 role: Coach
 domaine: Coaching
-link: https://annedevoret.fr/
+link: https://www.linkedin.com/in/anne-devoret-50988b93/
 missions:
   - start: 2022-06-29
     end: 2024-12-28
@@ -39,6 +39,8 @@ missions:
       - mutafriches
 badges:
   - segur
-competences: []
+competences:
+  - Coaching
+  - Product design
 ---
-Designer
+Coach et designer de service, passionnée par le pilotage par l'impact

@@ -22,6 +22,10 @@ usertypes:
   - collectivite-territoriale
 accessibility_status: partiellement conforme
 techno: []
+events:
+  - name: committee
+    date: 2025-03-28
+    comment: Décision de mettre le produit en maintenance
 ---
 ## Contexte
 Face à la prolifération des punaises de lit constatée ces dernières années, le gouvernement a publié un Plan Interministériel de Lutte contre les Punaises de Lit, devant permettre d'étudier et lutter contre ce fléau.

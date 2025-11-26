@@ -9,7 +9,7 @@ competences:
   - Administration Publique
 missions:
   - start: 2025-10-01
-    end: 2026-04-01
+    end: 2027-01-04
     status: admin
     employer: IGN
     startups:

@@ -10,6 +10,7 @@ missions:
     status: independent
     startups:
       - compte.rendu.vif
+      - etat-sanitaire-des-monuments-historiques-en-mobilite
 memberType: beta
 competences: []
 ---

@@ -6,11 +6,10 @@ link: https://gfay.dev/
 github: MaGOs92
 missions:
   - start: 2023-03-13
-    end: 2025-12-31
+    end: 2026-02-28
     status: independent
     employer: DINUM
     startups:
-      - ban
       - bases.adresses.locales
 memberType: beta
 competences:

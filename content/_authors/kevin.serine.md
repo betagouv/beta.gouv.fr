@@ -5,7 +5,7 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2024-12-26
-    end: 2025-12-26
+    end: 2026-12-26
     status: admin
     employer: DINUM
     startups:

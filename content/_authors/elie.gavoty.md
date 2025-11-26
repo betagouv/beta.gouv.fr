@@ -17,6 +17,12 @@ missions:
     employer: UT7
     startups:
       - collectif_objets
+  - start: 2025-11-25
+    end: 2026-02-28
+    status: independent
+    employer: UT7
+    startups:
+      - languia
 ---
 Elie Gavoty passionné de développement logiciel et d’administration système depuis une dizaine d’années, se reconnaît dans l’impératif du DevOps de rapprocher ces deux univers trop souvent séparés. Son parcours de développeur backend l’a amené à expérimenter de l’intérieur d’une équipe les blocages techniques et humains liés à la trop grande spécialisation et au manque de formation.
 

@@ -18,6 +18,8 @@ phases:
     start: 2023-12-15
   - name: construction
     start: 2024-02-15
+  - name: transfer
+    start: 2025-10-07
 thematiques:
   - Écologie
   - Logement
@@ -30,6 +32,10 @@ stats_url: https://mesaidesreno.beta.gouv.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/mesaidesreno-beta-gouv-fr/
 budget_url: https://beta.gouv.fr/startups/mesaidesreno.html#notre-budget
 impact_url: https://mesaidesreno.beta.gouv.fr/stats
+events:
+  - name: committee
+    date: 2025-10-07
+    comment: Décision de transfert total à l'Anah
 ---
 ## Contexte
 
