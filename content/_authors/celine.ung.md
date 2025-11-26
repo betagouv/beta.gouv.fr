@@ -5,9 +5,9 @@ domaine: Développement
 github: celineung
 missions:
   - start: 2023-06-19
-    end: 2025-12-19
+    end: 2026-05-19
     status: independent
-    employer: Malt
+    employer: Freelance.com
     startups:
       - l-immersion-facile
 memberType: autre

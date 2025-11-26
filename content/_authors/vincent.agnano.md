@@ -22,7 +22,7 @@ missions:
     startups:
       - egalite.professionnelle
   - start: 2021-03-31
-    end: 2026-02-28
+    end: 2024-02-28
     status: service
     employer: Omnicité
     startups:

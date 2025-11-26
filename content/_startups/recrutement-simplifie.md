@@ -13,6 +13,8 @@ incubator: francetravail
 phases:
   - name: investigation
     start: 2025-01-24
+  - name: alumni
+    start: 2025-11-25
 events:
   - name: product_launch
     date: 2025-01-23
@@ -51,4 +53,11 @@ L'identification des sollicitations les plus fréquentes post-recrutement. ​
 La centralisation des réponses dans un outil simple, facile d’accès et rapide pour les conseillers entreprise. ​
 
 L'évaluation de l’impact sur le quotidien des conseillers. 
+
+**Et la suite après l'expérimentation ?**
+
+Le produit s’arrête parce que les hypothèses clés n’ont pas été validées : 
+l’expérimentation n’a montré aucun impact réel sur les TPE/TPA, avec très peu d’engagement, très peu d’usage des aides (IF/POEI) et aucun effet sur les ruptures précoces. Les clics sont largement en dessous des objectifs, et les employeurs expérimentés majoritaires n’y trouvent pas de valeur. La proposition de valeur ne correspond pas à la réalité terrain et la North Star Metric n’a pas bougé. Les Conseillers à Dominante Entreprise voient un intérêt, mais limité : un outil complémentaire, pas un levier qui transforme leurs pratiques.
+ 
+
 

@@ -73,13 +73,13 @@ Ces enseignements guident aujourd’hui la **conception** de la nouvelle brique 
  **Mutafriches** est une **brique fonctionnelle intégrable** (API et iframe) qui calcule un **indice de mutabilité** unique et partagé.  
 
 Cette brique a vocation à :
+- évaluer la capacité d’un site à accueillir différents usages, au regard de ses caractéristiques (surface, niveau de pollution, raccordements, etc.) et de son environnement local, 
+- s’implémenter dans **les outils « friches » existants** (à commencer par [Bénéfriches](https://benefriches.ademe.fr/)) et **les observatoires locaux de friches**,  
 
-- s’implémenter dans les outils « friches » existants (à commencer par [Bénéfriches](https://benefriches.ademe.fr/)),  
-- évaluer la capacité d’un site à accueillir différents usages, au regard de ses caractéristiques (surface, niveau de pollution, raccordements, etc.) et de son environnement local.
 
-L’**indice de mutabilité** que nous concevons doit permettre aux collectivités de considérer des usages émergents (renaturation, photovoltaïque, etc.) en plus des usages plus classiques (logements et commerces, équipements culturels et touristiques, industrie, etc.)
+L’**indice de mutabilité** que nous concevons doit permettre aux collectivités de considérer des **usages émergents** (renaturation, photovoltaïque, etc.) en plus des usages plus classiques (logements et commerces, équipements culturels et touristiques, industrie, etc.)
 
-Par ailleurs, Mutrafriches offre un module de qualification de parcelle avancé (informations de parcelles, données d'environnement et de risques), intégrable séparément. 
+Par ailleurs, Mutrafriches offre **un module de qualification de parcelle avancé** (informations de parcelles, données d'environnement et de risques), intégrable séparément. 
 
 ## Devenir intégrateur
 Nous sommes en continuelle recherche d'intégrateurs. Pour intégrer Mutafriches dans votre service, contactez un membre de l'équipe.  
@@ -91,6 +91,12 @@ Nous sommes en continuelle recherche d'intégrateurs. Pour intégrer Mutafriches
 |------|--------------|
 | Janvier-février | Fiabilisation de l'algorithme |
 | Mars-avril |Intégrations outils friches |
-| Avril-Mai | Fonctionnalité de sélection multi-sites| 
+| Avril-mai | Fonctionnalité de sélection multi-sites| 
 | Mai-juin| Tests d'intégrations auprès outils locaux (observatoires)  |
 
+## Budget
+
+| Année | Budget |
+|------|--------------|
+| 2025 | 85 000 €  |
+| 2026 | 170 000€ (prévisionnel) |
