@@ -24,6 +24,9 @@ techno:
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Compl%27Alim
 accessibility_status: partiellement conforme
 impact_url: https://compl-alim.beta.gouv.fr/stats/
+events:
+  - name: committee
+    date: 2025-10-03
 ---
 Cette startup d'Etat est sponsorisée par la Direction Générale de l'alimentation au ministère de l'agriculture.
 La startup est également lauréate du guichet FTAP "valorisation et exploitation" des données, fonds porté par la DINUM et ETALAB. Ce co-financement permet à la startup d'entamer le chantier de fiabilisation de la base de données substances grâce à des logiques de NLP et branchement de sources de données externes (ANSES, avis EFSA, catalogue novel food...).

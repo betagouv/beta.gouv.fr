@@ -22,6 +22,9 @@ link: https://maestro.beta.gouv.fr/
 analyse_risques: true
 mon_service_securise: true
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Maestro
+events:
+  - name: committee
+    date: 2025-10-03
 ---
 ## Contexte
 

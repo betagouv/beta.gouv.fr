@@ -35,6 +35,8 @@ events:
   - name: fast
     date: 2024-01-01
     comment: Montant de 250000€ pour la promotion 13
+  - name: committee
+    date: 2025-10-03
 techno:
   - vue
   - django

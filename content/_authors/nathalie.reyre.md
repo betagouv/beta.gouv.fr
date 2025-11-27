@@ -29,6 +29,12 @@ missions:
     employer: Inop's
     startups:
       - l-immersion-facile
+  - start: 2026-01-01
+    end: 2026-05-01
+    status: admin
+    employer: France Travail
+    startups:
+      - l-immersion-facile
 badges:
   - segur
 competences:

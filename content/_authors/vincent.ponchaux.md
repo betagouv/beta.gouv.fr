@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2025-08-26
     end: 2026-05-19
-    employer: Dossier Facile
     status: independent
+    employer: Dossier Facile
     startups:
       - dossierfacile
-teams: []
 ---
