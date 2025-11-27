@@ -25,6 +25,8 @@ events:
   - name: product_launch
     date: 2025-03-03
     comment: Lancement du module Santé des végétaux
+  - name: committee
+    date: 2025-10-03
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=S%C3%A8ves
 ---
 ## Le contexte

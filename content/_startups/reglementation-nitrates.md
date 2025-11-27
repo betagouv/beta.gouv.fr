@@ -12,9 +12,14 @@ incubator: agriculture
 phases:
   - name: investigation
     start: 2025-07-02
+  - name: construction
+    start: 2026-01-05
 events:
   - name: product_launch
     date: 2025-07-25
+  - name: committee
+    date: 2025-10-17
+techno: []
 link: ''
 ---
 ## Contexte

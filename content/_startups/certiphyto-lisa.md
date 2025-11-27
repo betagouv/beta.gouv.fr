@@ -19,9 +19,13 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-10-09
+  - name: construction
+    start: 2026-01-06
 events:
   - name: product_launch
     date: 2025-10-09
+  - name: committee
+    date: 2025-10-10
 techno: []
 link: ''
 ---

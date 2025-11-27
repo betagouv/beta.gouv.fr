@@ -28,7 +28,6 @@ missions:
 incubator: ademe
 teams:
   - /teams/ademe
-  - /teams/agriculture-equipe-transverse
 previously:
   - archifiltre
   - egalite.professionnelle

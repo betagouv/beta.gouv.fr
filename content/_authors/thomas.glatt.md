@@ -16,7 +16,7 @@ missions:
     startups:
       - mon-suivi-social
   - start: 2024-10-17
-    end: 2025-08-30
+    end: 2026-02-27
     status: independent
     employer: Solstice
     startups:

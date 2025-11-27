@@ -15,11 +15,12 @@ incubator: agriculture
 sponsors:
   - /organisations/direction-generale-de-l-enseignement-et-de-la-recherche
 phases:
-  - name: investigation
+  - name: alumni
     start: 2025-07-01
 events:
   - name: product_launch
     date: 2025-10-09
+techno: []
 link: ''
 ---
 Contexte
