@@ -4,11 +4,22 @@ mon_service_securise: false
 contact: anne-karen.logerais@interieur.gouv.fr
 thematiques:
   - Administratif
-  - Outil technique
+  - Juridique
+  - Immatriculation
 usertypes:
-  - etat
+  - CERT-CIV
+  - Préfectures
+  - Missions de proximité
+  - Administration centrale
+  - DSR
 techno:
   - python
+  - langchain
+  - LLM
+  - RAG
+  - IA générative
+  - Hermes3
+  - chatbot
 title: JuriGPT
 mission: 'Faciliter par l''intelligence artificielle l''analyse juridique en droit de l''immatriculation '
 incubator: FabNum-MI
@@ -25,7 +36,7 @@ events:
   - name: committee
     date: 2023-11-22
     comment: |-
-      Innvoathon du MI et lancement de l'initiative au sein de TechMIUp 2023-2024
+      Innovathon du MI et lancement de l'initiative au sein de TechMIUp 2023-2024
       Présentation de JuriGPT auprès du SG MI et du DTNUM (Novembre 2023)
   - name: committee
     date: 2024-02-10
@@ -40,7 +51,13 @@ events:
     date: 2024-11-27
   - name: committee
     date: 2025-06-02
-link: ''
+    comment: Comité de préparation de l'expérimentation
+  - name: committee
+    date: 2025-10-29
+    comment: Bilan consolidé de l'expérimentation
+link: https://jurigpt.c1.cloud-pi-native.com/
+stats_url: en cours
+impact_url: en cours
 ---
 ## Contexte
 
@@ -56,4 +73,4 @@ Outil fondé sur l'IA générative, JuriGPT est solution fondée sur l’intelli
 
 ## Stratégie
 
-L'initiative JuriGPT est fondée sur une démarche de start-up d’État. Une démarche d'investigation et d'écoute auprès des utilisateurs cibles a confirmé l'hypothèse initiale (02/24-04/24). Un premier PoC a été élaboré (04/24-07/24) et l'utilité de la solution a été validée. L'objectif de l'équipe JuriGPT est aujourd'hui d'aboutir à un MVP (cycles de tests fin 2024 et juin-juillet 2025), avec des perspectives de passage à l'échelle courant 2025 pour une population totale de 500 agents répartis en CERT-CIV, missions de proximité et administration centrale (MI-DSR).
+L'initiative JuriGPT est fondée sur une démarche de start-up d’État. Une démarche d'investigation et d'écoute auprès des utilisateurs cibles a confirmé l'hypothèse initiale (02/24-04/24). Un premier PoC a été élaboré (04/24-07/24) et l'utilité de la solution a été validée. L'objectif de l'équipe JuriGPT est aujourd'hui d'aboutir à un MVP (cycles de tests fin 2024 et juin-juillet 2025), avec des perspectives de passage à l'échelle début 2026 pour une population totale de 500 agents répartis en CERT-CIV, missions de proximité et administration centrale (MI-DSR).
