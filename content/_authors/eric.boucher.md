@@ -11,10 +11,8 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2025-01-01
-    end: 2025-12-31
+    end: 2026-12-31
     status: admin
     employer: SGPE
-    startups:
-      - france.nation.verte.agir
 ---
 Entrepreneur et développeur

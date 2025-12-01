@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Evajuliab
 missions:
   - start: 2023-06-21
-    end: 2025-12-31
+    end: 2026-05-30
     status: independent
     employer: Malt
     startups:

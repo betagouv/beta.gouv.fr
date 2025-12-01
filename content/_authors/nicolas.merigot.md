@@ -1,11 +1,11 @@
 ---
 fullname: Nicolas Mérigot
-role: Développeur
+role: DevOps
 domaine: Développement
 github: nmrgt
 missions:
   - start: 2019-01-28
-    end: 2025-12-31
+    end: 2026-03-01
     status: independent
     employer: Scopopop
     startups:

@@ -3,7 +3,7 @@ title: Civils de la Défense
 mission: Recruter simplement des agents civils sous contrat
 sponsors:
   - /organisations/armees
-incubator: fabnumdef
+incubator: kube
 phases:
   - name: investigation
     start: 2018-06-01

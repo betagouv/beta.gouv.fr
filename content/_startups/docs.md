@@ -26,6 +26,8 @@ phases:
 events:
   - name: product_launch
     date: 2024-10-01
+  - name: fast
+    date: 2025-10-01
 accessibility_status: partiellement conforme
 stats_url: https://superset.beta.numerique.gouv.fr/superset/dashboard/lasuite/
 ---

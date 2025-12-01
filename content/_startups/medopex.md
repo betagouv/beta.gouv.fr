@@ -3,7 +3,7 @@ title: MedOpex
 mission: Garantir l'accès à des ressources fiables pour les médecins en opération extérieure
 sponsors:
   - /organisations/armees
-incubator: fabnumdef
+incubator: kube
 phases:
   - name: investigation
     start: 2019-04-01

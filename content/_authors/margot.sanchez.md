@@ -29,7 +29,7 @@ missions:
     status: admin
     employer: DINUM
   - start: 2025-01-01
-    end: 2025-12-31
+    end: 2026-06-30
     status: admin
     employer: ADEME
 previously:

@@ -3,7 +3,7 @@ title: Air VAM
 mission: Gérer facilement les passagers des vols aériens militaires (VAM)
 sponsors:
   - /organisations/armees
-incubator: fabnumdef
+incubator: kube
 contact: dirisi-fabnum.expert.fct@def.gouv.fr
 phases:
   - name: investigation

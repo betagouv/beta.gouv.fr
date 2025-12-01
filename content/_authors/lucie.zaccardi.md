@@ -1,15 +1,23 @@
 ---
 fullname: Lucie Zaccardi
-role: Lead PM
+role: Responsable de portefeuilles de produits numériques
 domaine: Produit
 link: https://www.linkedin.com/in/lucie-zaccardi-4a14b6150/
 missions:
-  - start: 2023-05-02
-    end: 2025-06-10
+  - start: 2023-05-01
+    end: 2025-11-30
     status: admin
     employer: France Travail
+  - start: 2025-12-01
+    end: 2027-12-01
+    status: admin
+    employer: DINUM
 memberType: beta
 teams:
   - /teams/francetravail-l-incubateur-de-france-travail-leads-de-pratiques
+competences:
+  - Product strategy
+  - Coaching
+  - Intrapreneur(se)
 ---
-Lead Product Manager à l'incubateur et la PDO de France Travail.
+Responsables de portefeuilles Vie Associative, Sport et Culture

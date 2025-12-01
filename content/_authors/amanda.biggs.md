@@ -15,13 +15,13 @@ missions:
     startups:
       - nosgestesclimat
   - start: 2025-06-01
-    end: 2025-12-31
+    end: 2026-03-31
     status: independent
     employer: Malt
     startups:
       - transition-ecologique-des-entreprises
   - start: 2025-07-01
-    end: 2025-12-31
+    end: 2026-05-31
     status: independent
     employer: Malt
     startups:

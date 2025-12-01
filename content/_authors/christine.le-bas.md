@@ -8,7 +8,7 @@ competences:
   - agronomie
 missions:
   - start: 2025-02-01
-    end: 2025-12-31
+    end: 2026-12-31
     status: admin
     employer: INRAE
     startups:

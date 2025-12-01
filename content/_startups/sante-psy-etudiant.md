@@ -12,6 +12,8 @@ stats_url: https://santepsy.etudiant.gouv.fr/stats
 events:
   - name: product_launch
     date: 2021-03-11
+  - name: fast
+    date: 2025-10-01
 phases:
   - name: construction
     start: 2021-03-01

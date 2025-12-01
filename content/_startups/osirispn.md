@@ -3,7 +3,7 @@ title: Osiris PN
 mission: Fluidifier et anticiper les flux de formation des élèves pilotes
 sponsors:
   - /organisations/armees
-incubator: fabnumdef
+incubator: kube
 contact: dirisi-fabnum.expert.fct@def.gouv.fr
 phases:
   - name: investigation

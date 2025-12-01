@@ -6,7 +6,7 @@ github: patrick-produit
 link: https://www.linkedin.com/in/plambret/
 missions:
   - start: 2021-04-22
-    end: 2025-12-31
+    end: 2026-05-31
     status: independent
     employer: Malt
     startups:

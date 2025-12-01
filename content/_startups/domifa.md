@@ -7,6 +7,8 @@ incubator: sgmas
 events:
   - name: national_impact
     date: 2023-12-31
+  - name: fast
+    date: 2025-10-01
 phases:
   - name: investigation
     start: 2018-01-15

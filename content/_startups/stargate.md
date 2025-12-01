@@ -3,7 +3,7 @@ title: STARGATE
 mission: Repenser l'accès aux bases de défense
 sponsors:
   - /organisations/armees
-incubator: fabnumdef
+incubator: kube
 phases:
   - name: investigation
     start: 2019-10-01
