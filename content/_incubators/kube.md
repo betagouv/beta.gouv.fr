@@ -4,6 +4,7 @@ contact: dirisi-fabnum.expert.fct@def.gouv.fr
 github: https://github.com/fabnumdef
 title: Le KUBE, incubateur du ministère des Armées
 website: https://beta.gouv.fr/incubateurs/fabnumdef.html
+logo: logo_beta.png
 highlighted_startups:
   - anais
   - cassiopee
