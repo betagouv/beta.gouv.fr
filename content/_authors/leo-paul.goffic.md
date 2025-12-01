@@ -1,6 +1,6 @@
 ---
 fullname: Léo-Paul Goffic
-role: CTO
+role: Développeur
 domaine: Développement
 link: https://fr.linkedin.com/in/leogoffic
 competences:
@@ -8,7 +8,7 @@ competences:
   - UX
 missions:
   - start: 2025-01-15
-    end: 2025-12-31
+    end: 2026-01-15
     status: admin
     employer: EIG
     startups:

@@ -10,13 +10,13 @@ missions:
     startups:
       - aidess
   - start: 2024-04-08
-    end: 2025-12-08
+    end: 2026-12-31
     status: admin
     employer: Dinum
     startups:
       - data.etat
   - start: 2024-09-02
-    end: 2025-12-28
+    end: 2026-12-31
     status: admin
     employer: DINUM / MIOM / DITP
     startups:

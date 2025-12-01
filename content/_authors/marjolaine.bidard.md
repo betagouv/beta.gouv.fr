@@ -4,8 +4,8 @@ role: Senior Product Designer
 domaine: Design
 link: https://www.linkedin.com/in/marjobidard/
 missions:
-  - start: 2020-10-01
-    end: 2025-12-31
+  - start: 2024-01-01
+    end: 2026-05-31
     status: independent
     employer: Pole emploi
     startups:

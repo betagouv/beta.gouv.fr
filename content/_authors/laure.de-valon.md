@@ -16,7 +16,7 @@ missions:
     startups:
       - maestro
   - start: 2024-10-10
-    end: 2025-12-30
+    end: 2026-03-15
     status: independent
     employer: Numa
     startups:

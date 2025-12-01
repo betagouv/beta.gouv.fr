@@ -12,7 +12,7 @@ usertypes:
 techno: []
 title: ORIANE
 mission: Systématiser le management de la qualité au sein de la DGA (MinArm)
-incubator: fabnumdef
+incubator: kube
 phases:
   - name: investigation
     start: 2024-04-30

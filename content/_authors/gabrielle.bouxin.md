@@ -1,12 +1,12 @@
 ---
-fullname: Gabrielle (Bouxin) de Lassus
+fullname: Gabrielle de Lassus
 domaine: Produit
-role: Head of Product
+role: Responsable produit
 link: https://www.linkedin.com/in/gabrielle-de-lassus-286410a3/
 github: Gabrielle-Bxn
 missions:
   - start: 2020-06-24
-    end: 2026-05-03
+    end: 2026-05-28
     status: independent
     startups:
       - snu

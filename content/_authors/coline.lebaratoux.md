@@ -5,7 +5,7 @@ domaine: Design
 github: ColineLebaratoux
 missions:
   - start: 2023-05-15
-    end: 2025-12-30
+    end: 2026-06-01
     status: independent
     employer: Malt
     startups:

@@ -35,6 +35,9 @@ budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDb
 mon_service_securise: true
 dashlord_url: https://dashlord.incubateur.net/url/api-data-inclusion-beta-gouv-fr/
 impact_url: https://data.inclusion.gouv.fr/nos-indicateurs/
+events:
+  - name: fast
+    date: 2025-10-01
 ---
 ## Le problème
 

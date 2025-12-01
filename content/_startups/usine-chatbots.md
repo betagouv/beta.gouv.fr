@@ -3,7 +3,7 @@ title: Usine à chatbots
 mission: Automatiser la conception de chatbots
 sponsors:
   - /organisations/armees
-incubator: fabnumdef
+incubator: kube
 link: https://chatbot.fabnum.fr/
 contact: dirisi-fabnum.expert.fct@def.gouv.fr
 stats: true

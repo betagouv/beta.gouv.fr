@@ -45,6 +45,8 @@ events:
     date: 2024-06-03
   - name: committee
     date: 2024-11-13
+  - name: fast
+    date: 2025-10-01
 ---
 ## Contexte
 
