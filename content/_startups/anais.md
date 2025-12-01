@@ -4,7 +4,7 @@ mission: Maîtriser notre espace maritime
 sponsors:
   - /organisations/dgddi
   - /organisations/ministere-des-armees-etat-major-de-la-marine
-incubator: fabnumdef
+incubator: kube
 phases:
   - name: investigation
     start: 2019-04-05

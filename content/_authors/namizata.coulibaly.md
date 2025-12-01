@@ -4,7 +4,7 @@ domaine: Animation
 role: Chargée de support transverse
 missions:
   - start: 2022-09-05
-    end: 2025-12-11
+    end: 2026-03-31
     status: independent
     employer: ANCT
     startups:

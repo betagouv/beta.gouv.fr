@@ -1,5 +1,5 @@
 ---
-fullname: Alice POGGIOLI
+fullname: Alice Poggioli
 role: Chargé de déploiement
 domaine: Déploiement
 competences:

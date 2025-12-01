@@ -3,7 +3,7 @@ title: Smart remisage
 mission: Suivre la consommation de batteries pour optimiser leur recharge et maintenance
 sponsors:
   - /organisations/armees
-incubator: fabnumdef
+incubator: kube
 phases:
   - name: investigation
     start: 2019-03-01

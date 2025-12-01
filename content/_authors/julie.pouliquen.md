@@ -5,7 +5,7 @@ domaine: Produit
 github: juliepouliquen
 missions:
   - start: 2023-05-02
-    end: 2025-12-31
+    end: 2026-06-01
     status: independent
     employer: Scopyleft
     startups:

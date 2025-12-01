@@ -3,7 +3,7 @@ analyse_risques: false
 mon_service_securise: false
 contact: lbarrat@capemploi69.org
 title: INCLU+
-mission: Rendre accessible l'offre de service du RPE afin de rétablir l'équité dans le retour à l'emploi des personnes en situation de handicap
+mission: "Inclu+ est une solution numérique  qui permet aux personnes en situation de handicap de lever, avec l'aide de leur conseiller,\_les freins liés au handicap dans le cadre de leur insertion professionnelle."
 incubator: francetravail
 phases:
   - name: investigation
@@ -19,11 +19,15 @@ events:
   - name: committee
     date: 2025-06-17
     comment: '  Acceptation du passage en phase d''expérimentation'
-thematiques: []
+thematiques:
+  - Travail / Emploi
+  - handicap
 usertypes:
   - particulier
   - entreprise
-techno: []
+  - conseiller en insertion professionnel
+techno:
+  - IA
 link: ''
 ---
 **Contexte de la problématique**

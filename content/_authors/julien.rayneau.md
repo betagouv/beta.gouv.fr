@@ -5,8 +5,9 @@ role: Coach
 github: jrayneau
 missions:
   - start: 2018-04-10
-    end: 2025-12-31
+    end: 2026-06-01
     status: independent
+    employer: Malt
     startups:
       - conseillers-entreprises
       - signaux-faibles
@@ -17,4 +18,5 @@ badges:
   - segur
 competences:
   - Coaching
+link: https://www.linkedin.com/in/julienrayneau/
 ---

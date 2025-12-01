@@ -10,7 +10,7 @@ usertypes:
 techno: []
 title: TBS-NG
 mission: TBS-NG pour Tableau de bord spatial nouvelle génération a pour objectif d’automatiser le processus de visualisation de la situation spatiale de façon dynamique et interactive avec une gestion particulière des différents flux de données et de leurs représentations au profit des utilisateurs finaux
-incubator: fabnumdef
+incubator: kube
 sponsors:
   - /organisations/armees
 phases:

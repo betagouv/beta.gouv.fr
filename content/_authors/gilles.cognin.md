@@ -5,7 +5,7 @@ domaine: Développement
 github: superfeedboy
 missions:
   - start: 2024-01-02
-    end: 2025-12-31
+    end: 2026-05-31
     status: service
     employer: AFD.TECH / Octo
     startups:

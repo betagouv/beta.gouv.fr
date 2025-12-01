@@ -5,7 +5,7 @@ role: UX Designer
 github: anna-tlc
 missions:
   - start: 2022-02-01
-    end: 2025-12-31
+    end: 2026-12-31
     status: admin
     employer: DTNUM
     startups:

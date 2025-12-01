@@ -5,7 +5,7 @@ domaine: Développement
 github: JulianaJM
 missions:
   - start: 2022-12-05
-    end: 2025-12-31
+    end: 2026-03-31
     status: independent
     employer: Malt
     startups:

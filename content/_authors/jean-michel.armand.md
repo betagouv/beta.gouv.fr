@@ -10,7 +10,7 @@ missions:
     startups:
       - voir-et-localiser
   - start: 2020-10-28
-    end: 2025-12-31
+    end: 2026-06-01
     status: independent
     employer: Malt
     startups:

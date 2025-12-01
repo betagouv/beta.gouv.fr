@@ -12,9 +12,9 @@ missions:
     startups:
       - demarches-simplifiees.fr
   - start: 2019-12-06
-    end: 2025-12-15
+    end: 2026-06-01
     status: independent
-    employer: octo
+    employer: Scopopop
     startups:
       - demarches-simplifiees.fr
 competences: []

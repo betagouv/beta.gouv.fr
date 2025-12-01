@@ -5,7 +5,7 @@ domaine: Développement
 competences: []
 missions:
   - start: 2025-09-16
-    end: 2025-12-31
+    end: 2026-02-28
     status: service
     employer: Scopyleft
     startups:

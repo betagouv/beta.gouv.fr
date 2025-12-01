@@ -33,6 +33,9 @@ techno:
   - javascript
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 dashlord_url: https://dashlord.mte.incubateur.net/url/dialog-beta-gouv-fr/
+events:
+  - name: fast
+    date: 2025-10-01
 ---
 # Le problème
 

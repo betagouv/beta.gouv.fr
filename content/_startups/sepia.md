@@ -3,7 +3,7 @@ title: SEPIA
 mission: Accélérer les interventions de la police du ciel
 sponsors:
   - /organisations/armees
-incubator: fabnumdef
+incubator: kube
 phases:
   - name: investigation
     start: 2019-01-25

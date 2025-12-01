@@ -4,7 +4,7 @@ role: PO / Responsable Ouverture des données de mobilités
 domaine: Produit
 missions:
   - start: 2022-10-17
-    end: 2025-12-31
+    end: 2026-05-30
     status: independent
     startups:
       - transport
