@@ -9,7 +9,7 @@ usertypes:
   - etat
 title: NEO
 mission: Simplifier la programmation des missions d'une escadre de l'AAE
-incubator: fabnumdef
+incubator: kube
 phases:
   - name: investigation
     start: 2024-11-18

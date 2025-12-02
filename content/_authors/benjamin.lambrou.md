@@ -18,7 +18,7 @@ missions:
     startups:
       - asso.cie
   - start: 2025-03-17
-    end: 2025-12-31
+    end: 2026-06-01
     status: independent
     employer: Inops
     startups:

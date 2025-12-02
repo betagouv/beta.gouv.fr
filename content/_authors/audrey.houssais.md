@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/audrey-houssais/
 github: AudreyH49
 missions:
   - start: 2021-12-13
-    end: 2025-12-31
+    end: 2026-06-01
     status: independent
     employer: Little Big Connection
     startups:

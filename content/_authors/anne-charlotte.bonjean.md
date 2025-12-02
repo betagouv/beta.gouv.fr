@@ -7,7 +7,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2024-11-18
-    end: 2025-12-31
+    end: 2027-12-31
     status: admin
     employer: Malt
     startups:

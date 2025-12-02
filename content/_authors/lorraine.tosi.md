@@ -6,7 +6,7 @@ link: https://qyall.fr
 github: ltosi
 missions:
   - start: 2023-08-25
-    end: 2025-12-31
+    end: 2026-05-30
     status: independent
     employer: Pathtech
     startups:
@@ -14,5 +14,7 @@ missions:
 memberType: autre
 competences:
   - Product design
+  - design
+  - UX
 ---
 UX Designer - Ergonome
