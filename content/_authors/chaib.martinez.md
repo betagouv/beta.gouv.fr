@@ -63,6 +63,7 @@ competences:
   - Metabase
   - Communication
   - Croissance
+  - Intrapreneur(se)
 teams:
   - /teams/fast-dinum
 ---

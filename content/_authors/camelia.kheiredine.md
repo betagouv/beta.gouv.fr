@@ -1,6 +1,6 @@
 ---
 fullname: Camélia Kheiredine
-role: 'Responsable éditoriale '
+role: Responsable éditorial
 domaine: Produit
 competences: []
 missions:

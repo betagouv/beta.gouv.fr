@@ -16,5 +16,7 @@ missions:
       - homologation
       - mes-services-cyber
       - mon-aide-cyber
+teams:
+  - /teams/anssi
 ---
 Développeur Frontend, Intégrateur Web HTML CSS JavaScript.

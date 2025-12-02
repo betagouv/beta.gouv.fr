@@ -18,7 +18,7 @@ usertypes:
   - entreprise
   - etat
 stats_url: https://mesads.beta.gouv.fr/chiffres-cles
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 thematiques:
   - Transports
 techno: []
@@ -69,4 +69,4 @@ Aujourd'hui : Plus de 52 000  autorisations de stationnement déjà enregistrée
 
 Objectifs 2025 :
 -	95% des autorisations de stationnement enregistrées sur l'ensemble du territoire national
--	100% de données fiables pour les départements
+-	100% de données fiables pour les départements pionniers

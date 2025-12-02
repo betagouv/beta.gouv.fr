@@ -30,11 +30,16 @@ events:
   - name: committee
     date: 2025-01-15
     comment: 3ème comité d'investissement
+  - name: committee
+    date: 2025-06-18
+    comment: 4ème comité d'investissement
 phases:
   - name: investigation
     start: 2023-01-01
   - name: construction
     start: 2023-06-01
+  - name: acceleration
+    start: 2025-05-05
 thematiques:
   - Écologie
 stats_url: https://longuevieauxobjets.ademe.fr/stats

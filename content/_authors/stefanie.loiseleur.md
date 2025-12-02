@@ -19,4 +19,6 @@ missions:
       - homologation
 memberType: beta
 competences: []
+teams:
+  - /teams/anssi
 ---

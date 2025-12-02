@@ -4,7 +4,7 @@ role: Chargée de déploiement - Je Deviens Etudiant
 domaine: Autre
 missions:
   - start: 2024-11-25
-    end: 2026-01-01
+    end: 2026-06-01
     status: service
     employer: Beta Gouv
     startups:

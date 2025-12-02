@@ -1,7 +1,7 @@
 ---
 fullname: Paul Burgun
-role: Responsable du FAST et responsable de portefeuille Justice (jusqu'à fin 2024).
-domaine: Animation
+role: Directeur impact et déploiement de la Suite Numérique (CIO)
+domaine: Déploiement
 github: paulburgun
 missions:
   - start: 2021-01-04
@@ -21,9 +21,15 @@ missions:
     status: admin
     employer: DINUM
   - start: 2024-11-22
-    end: 2027-11-22
+    end: 2025-09-01
     status: admin
     employer: DINUM
+  - start: 2025-09-01
+    end: 2028-09-01
+    status: admin
+    employer: DINUM (La Suite)
+    startups:
+      - suite-numerique
 badges:
   - segur
 teams:
@@ -32,5 +38,6 @@ link: https://www.linkedin.com/in/paul-burgun/
 competences:
   - Croissance
   - Coaching
+  - Administration Publique
 ---
-J'aide les équipe à augmenter leur impact.
+Atteindre 1M d'agents publics sur la Suite Numérique.
