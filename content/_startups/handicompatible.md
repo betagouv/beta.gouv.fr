@@ -30,13 +30,13 @@ techno:
   - IA
 link: ''
 ---
-**Contexte de la problématique**
+**👨🏼‍🦯‍➡️Contexte de la problématique**
 
 Aujourd’hui les demandeurs d’emploi en situation de handicap subissent toujours une discrimination à l’emploi importante.
 Evaluer les contraintes du poste (métier, offre d'emploi) et traduire leur situation de santé en besoins de poste, en environnements de travail favorables n'est pas évident.  Ainsi, il est difficile pour eux et leurs conseillers·ère de déterminer les emplois et les offres compatibles avec leur situation de handicap afin de  postuler  et accèdent à un emploi durable.
 
 
 
-**Pistes de solution**
+** 👨🏼‍🚀Pistes de solution**
 
 Handicompatible est une solution numérique qui permet aux personnes en situation de handicap de lever, avec l'aide de leur conseiller, les freins liés au handicap en leur permettant d'analyser la compatibilité entre les offres d'emploi et leurs contraintes, afin qu'ils puissent prendre une décision éclairée par rapport à celles-ci, être aidé dans l'acte de candidater et accéder à un emploi pérenne.

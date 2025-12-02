@@ -13,4 +13,6 @@ missions:
     employer: Omnicité
     startups:
       - mes-services-cyber
+teams:
+  - /teams/anssi
 ---

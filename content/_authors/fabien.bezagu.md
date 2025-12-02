@@ -13,4 +13,6 @@ github: fbezagu
 competences:
   - Développement Full-stack
 memberType: beta
+teams:
+  - /teams/anssi
 ---

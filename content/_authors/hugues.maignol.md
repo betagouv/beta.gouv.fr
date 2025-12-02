@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/huguesmaignol/
 github: hugues-m
 missions:
   - start: 2022-09-06
-    end: 2025-12-31
+    end: 2026-03-31
     status: independent
     employer: ANCT
     startups:

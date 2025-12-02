@@ -4,9 +4,9 @@ domaine: Coaching
 role: Coach
 missions:
   - start: 2020-02-20
-    end: 2026-02-20
-    status: service
-    employer: Ippon
+    end: 2026-02-22
+    status: independent
+    employer: Malt
 competences:
   - Coaching
 previously:

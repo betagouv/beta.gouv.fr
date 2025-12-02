@@ -1,7 +1,7 @@
 ---
 fullname: Mathis Robin
 role: Déploiement, support & succès utilisateur
-domaine: Déploiement
+domaine: Support
 link: https://www.linkedin.com/in/mathisrobin/
 missions:
   - start: 2023-02-13
@@ -11,7 +11,7 @@ missions:
     startups:
       - apilos
   - start: 2024-01-01
-    end: 2026-01-01
+    end: 2026-06-01
     status: independent
     employer: OPTEAMIS
     startups:
@@ -24,5 +24,6 @@ competences:
   - Croissance
   - UX
   - Communication
+  - Product design
 ---
 Je suis un support-héros 🦸‍♂️

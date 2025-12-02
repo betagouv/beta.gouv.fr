@@ -14,9 +14,13 @@ phases:
     start: 2023-09-19
   - name: construction
     start: 2025-04-11
+  - name: acceleration
+    start: 2025-11-26
 events:
   - name: committee
     date: 2025-04-11
+  - name: committee
+    date: 2025-11-26
 techno:
   - bash
   - git

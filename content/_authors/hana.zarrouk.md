@@ -15,4 +15,6 @@ competences:
   - Product design
   - UX
   - UI
+teams:
+  - /teams/anssi
 ---

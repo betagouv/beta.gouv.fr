@@ -8,11 +8,10 @@ competences:
 missions:
   - start: 2025-12-08
     end: 2026-06-01
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - l-immersion-facile
-teams: []
 ---
 Hello ! 
 Guillaume, basé à Grenoble, 7 ans d'expérience en PO/PM :) 
