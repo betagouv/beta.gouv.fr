@@ -4,7 +4,7 @@ domaine: Déploiement
 role: Chargée de déploiement
 missions:
   - start: 2023-04-13
-    end: 2025-12-29
+    end: 2026-02-28
     status: independent
     employer: ANCT
     startups:

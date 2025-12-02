@@ -7,7 +7,7 @@ link: https://www.linkedin.com/in/f%C3%A9lix-veith-energy-and-climate-engineer/
 github: fe51
 missions:
   - start: 2023-01-03
-    end: 2025-12-31
+    end: 2026-06-01
     status: independent
     employer: INETUM - LBC
     startups:

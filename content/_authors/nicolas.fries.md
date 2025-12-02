@@ -11,7 +11,7 @@ missions:
     startups:
       - cmachance
   - start: 2022-03-28
-    end: 2025-12-31
+    end: 2026-02-28
     status: independent
     employer: Malt
     startups:

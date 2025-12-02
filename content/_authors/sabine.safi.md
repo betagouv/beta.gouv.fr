@@ -5,9 +5,9 @@ domaine: Produit
 github: sabinesafi
 missions:
   - start: 2019-02-04
-    end: 2025-12-31
+    end: 2026-05-30
     status: independent
-    employer: LittleBig Connection
+    employer: Malt
     startups:
       - recommandations-collaboratives
   - start: 2023-07-01

@@ -1,12 +1,12 @@
 ---
 fullname: Charlotte  Choplin
-domaine: Déploiement
-role: Bizdev
+domaine: Produit
+role: PO
 link: https://www.charlottechoplin.com
 github: Charlottecho
 missions:
   - start: 2021-11-08
-    end: 2025-12-31
+    end: 2026-05-31
     status: independent
     employer: Octo
     startups:

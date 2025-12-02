@@ -3,7 +3,7 @@ title: Octopus
 mission: Optimiser la préparation des missions de transport et soutien logistique (armée de l'Air et de l'Espace)
 sponsors:
   - /organisations/armees
-incubator: fabnumdef
+incubator: kube
 contact: dirisi-fabnum.expert.fct@def.gouv.fr
 phases:
   - name: investigation

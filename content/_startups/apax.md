@@ -8,7 +8,7 @@ usertypes:
   - Médecoins des forces et psychiatres
 title: APAX
 mission: L’enjeu est de mieux accompagner les patients militaires notamment ceux souffrant de trouble de stress post-traumatique (TSPT)  en rendant la prescription médicamenteuse plus précise, plus tolérable et plus efficace.
-incubator: fabnumdef
+incubator: kube
 sponsors:
   - /organisations/armees
 phases:

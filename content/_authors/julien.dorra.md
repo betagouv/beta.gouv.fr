@@ -11,6 +11,11 @@ missions:
     employer: Malt
     startups:
       - donnees-spectacle
+  - start: 2025-12-01
+    end: 2026-03-01
+    status: independent
+    startups:
+      - mon-assistant-ia
 memberType: beta
 competences: []
 ---

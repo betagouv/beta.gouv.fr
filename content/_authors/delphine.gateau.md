@@ -1,16 +1,18 @@
 ---
 fullname: Delphine Gateau
-role: Chargée de déploiement + Support Tchap
-domaine: Déploiement
+role: Responsable produit + Chargée de déploiement
+domaine: Produit
 github: Delphgateau
 missions:
   - start: 2022-12-20
-    end: 2025-12-31
+    end: 2026-05-31
     status: independent
     employer: Malt
     startups:
       - tchap
 memberType: beta
-competences: []
+competences:
+  - Product strategy
+  - Croissance
 ---
-Biz dev pour Tchap
+Responsable produit et Biz dev pour Tchap

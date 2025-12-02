@@ -36,6 +36,8 @@ events:
     comment: Lancement de la 1ere version en Beta restreinte
   - name: committee
     date: 2025-01-28
+  - name: fast
+    date: 2025-10-01
 ---
 ## Contexte
 

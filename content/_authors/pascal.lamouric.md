@@ -1,12 +1,12 @@
 ---
 fullname: Pascal Lamouric
 domaine: Développement
-role: Product Engineer
+role: Ingénieur Produit
 github: pskl
 link: https://pascal.cc
 missions:
   - start: 2024-03-21
-    end: 2025-12-31
+    end: 2026-03-31
     status: independent
     employer: Scopopop
     startups:

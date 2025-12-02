@@ -6,7 +6,7 @@ link: https://linkedin.com/in/naybnet
 github: naybnet
 missions:
   - start: 2024-03-11
-    end: 2025-12-31
+    end: 2026-02-28
     status: independent
     employer: Scopyleft/Omnicité
     startups:

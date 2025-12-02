@@ -5,7 +5,7 @@ domaine: Développement
 link: https://www.a-r-t.ong
 missions:
   - start: 2023-01-01
-    end: 2023-06-30
+    end: 2026-09-29
     status: admin
     startups:
       - compte.rendu.vif

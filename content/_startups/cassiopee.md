@@ -3,7 +3,7 @@ title: Cassiopée
 mission: Optimiser les parcours de formation des officiers souhaitant revenir à la vie civile
 sponsors:
   - /organisations/armees
-incubator: fabnumdef
+incubator: kube
 contact: dirisi-fabnum.expert.fct@def.gouv.fr
 phases:
   - name: investigation

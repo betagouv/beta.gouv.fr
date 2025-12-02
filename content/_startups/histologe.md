@@ -31,6 +31,9 @@ mon_service_securise: true
 techno: []
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 impact_url: https://signal-logement.beta.gouv.fr/stats
+events:
+  - name: fast
+    date: 2025-10-01
 ---
 ## Problème
 
