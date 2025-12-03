@@ -4,7 +4,7 @@ role: Marketing relationnel - Growth Hacking et Data Analyses
 domaine: Animation
 missions:
   - start: 2024-02-12
-    end: 2025-12-31
+    end: 2026-05-31
     status: independent
     employer: Octo
     startups:
