@@ -2,7 +2,7 @@
 fullname: Anne Devoret
 role: Coach
 domaine: Coaching
-link: https://annedevoret.fr/
+link: https://www.linkedin.com/in/anne-devoret-50988b93/
 missions:
   - start: 2022-06-29
     end: 2024-12-28
@@ -20,7 +20,7 @@ missions:
       - la.communaute.de.linclusion
       - phytophare
   - start: 2024-02-14
-    end: 2025-12-31
+    end: 2026-05-29
     status: independent
     employer: MALT
     startups:
@@ -32,13 +32,15 @@ missions:
     startups:
       - tabula
   - start: 2025-01-01
-    end: 2025-12-31
+    end: 2026-05-29
     status: independent
     employer: Dynergie
     startups:
       - mutafriches
 badges:
   - segur
-competences: []
+competences:
+  - Coaching
+  - Product design
 ---
-Designer
+Coach et designer de service, passionnée par le pilotage par l'impact

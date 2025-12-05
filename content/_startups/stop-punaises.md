@@ -12,6 +12,10 @@ sponsors:
 phases:
   - name: construction
     start: 2022-05-14
+  - name: acceleration
+    start: 2023-10-28
+  - name: alumni
+    start: 2025-11-28
 thematiques:
   - Santé
   - Logement
@@ -22,9 +26,20 @@ usertypes:
   - collectivite-territoriale
 accessibility_status: partiellement conforme
 techno: []
+events:
+  - name: product_launch
+    date: 2023-01-01
+    comment: 1er territoire couvert - Bouches du Rhône
+  - name: other
+    date: 2023-12-31
+    comment: 100% du territoire couvert
+  - name: committee
+    date: 2025-03-28
+    comment: Décision de mettre le produit en maintenance
+mon_service_securise: false
 ---
 ## Contexte
-Face à la prolifération des punaises de lit constatée ces dernières années, le gouvernement a publié un Plan Interministériel de Lutte contre les Punaises de Lit, devant permettre d'étudier et lutter contre ce fléau.
+Face à la prolifération des punaises de lit constatée ces dernières années, le gouvernement a publié  en mars 2022 un Plan Interministériel de Lutte contre les Punaises de Lit, devant permettre d'étudier et lutter contre ce fléau.
 
 ## Problème
 
@@ -37,3 +52,6 @@ Et jusqu'à présent, peu de données sont exploitables par les acteurs publics 
 Stop-punaises permet d'accompagner les usagers en qualifiant le niveau d'infestation du logement, et en leur permettant d'obtenir les protocoles de préparation et traitement des logements ou d'être mis en relation avec l'ensemble des entreprises labellisées de leur département en une seule démarche.
 
 Ces signalements participeront à constituer une base de données solide pour accompagner les décideurs publics
+
+
+NB: Suite à l'absence d'accélération des infestations sur le territoire, il a été décidé de maintenir le produit dans son état actuel

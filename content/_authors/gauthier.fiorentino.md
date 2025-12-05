@@ -4,7 +4,7 @@ role: Expert accessibilité / Dev front
 domaine: Développement
 missions:
   - start: 2022-10-17
-    end: 2025-12-31
+    end: 2026-01-31
     status: service
     employer: OCTO Technology
   - start: 2025-03-14

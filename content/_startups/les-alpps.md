@@ -3,7 +3,7 @@ title: Les Alpps
 mission: Sécuriser les sorties en montagne
 sponsors:
   - /organisations/armees
-incubator: fabnumdef
+incubator: kube
 phases:
   - name: investigation
     start: 2019-08-01

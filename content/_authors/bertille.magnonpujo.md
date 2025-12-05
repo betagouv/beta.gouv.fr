@@ -1,6 +1,6 @@
 ---
 fullname: Bertille MAGNON-PUJO
-domaine: Produit
+domaine: Déploiement
 role: Chargée de déploiement - Assistance utilisateurs
 github: bertillemp
 link: https://www.linkedin.com/in/bertille-magnon-pujo/
@@ -12,11 +12,15 @@ missions:
     startups:
       - snu
   - start: 2024-10-15
-    end: 2025-12-31
+    end: 2026-02-28
     status: independent
     employer: Scopyleft
     startups:
       - mon-suivi-social
 competences:
   - Communication
+  - support
+  - documentation
+  - assistance utilisateur
+  - ticketing
 ---

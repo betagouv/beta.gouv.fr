@@ -10,6 +10,7 @@ missions:
     employer: NUMA
     startups:
       - compte.rendu.vif
+      - etat-sanitaire-des-monuments-historiques-en-mobilite
 badges:
   - segur
 previously:

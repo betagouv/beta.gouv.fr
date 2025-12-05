@@ -6,7 +6,7 @@ link: https://lucasjouin.com/
 github: LuluFreeDesign
 missions:
   - start: 2023-07-03
-    end: 2025-12-31
+    end: 2026-05-31
     status: independent
     employer: Malt
     startups:
@@ -18,7 +18,7 @@ missions:
     startups:
       - aquaculteurs.marins
   - start: 2024-01-08
-    end: 2025-12-31
+    end: 2026-05-31
     status: independent
     employer: Malt
     startups:

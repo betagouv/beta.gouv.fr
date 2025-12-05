@@ -1,19 +1,22 @@
 ---
 fullname: Marion Gros
-domaine: Design
-role: UX designer
+domaine: Produit
+role: Product Manager
 github: marionholis
-link: https://www.holis.design
+link: https://www.linkedin.com/in/marion-gros-81661725/
 missions:
   - start: 2021-05-03
-    end: 2025-12-31
-    status: service
-    employer: OCTO
+    end: 2026-05-30
+    status: admin
+    employer: GIP Plateforme de l'inclusion
     startups:
       - les-emplois
 badges:
   - segur
 competences:
   - UX
+  - Product design
+  - Product strategy
 ---
-UX Designer & researcher
+Product Manager & Designer 
+Responsable de la mission "Orienter et accompagner les usagers" 

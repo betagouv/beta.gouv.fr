@@ -18,4 +18,10 @@ missions:
     employer: Scopyleft
     startups:
       - nosgestesclimat
+  - start: 2025-11-25
+    end: 2026-05-07
+    status: independent
+    employer: Malt
+    startups:
+      - plus-frais-au-travail
 ---

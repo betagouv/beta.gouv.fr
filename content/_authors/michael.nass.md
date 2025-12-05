@@ -1,6 +1,6 @@
 ---
 fullname: Michaël NASS
-role: Ingénieur Full-Stack
+role: Ingénieur Full-Stack et Lead Dev
 domaine: Développement
 competences:
   - Développement Full-stack
@@ -15,7 +15,7 @@ competences:
   - Administration Système
 missions:
   - start: 2024-11-20
-    end: 2025-12-31
+    end: 2026-03-03
     status: service
     employer: Malt
     startups:

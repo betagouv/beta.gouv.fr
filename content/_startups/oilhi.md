@@ -20,6 +20,7 @@ stats_url: https://statsoilhi.glide.page/
 usertypes:
   - collectivite-territoriale
 techno: []
+budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 ---
 # Contexte
 

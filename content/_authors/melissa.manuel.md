@@ -9,7 +9,7 @@ competences:
   - UI
 missions:
   - start: 2025-05-01
-    end: 2026-01-01
+    end: 2026-03-01
     status: independent
     employer: Opteamis
     startups:

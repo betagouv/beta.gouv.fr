@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/timotheegillet/
 competences: []
 missions:
   - start: 2025-02-03
-    end: 2025-12-31
+    end: 2026-02-28
     status: independent
     employer: Little Big Connexion
     startups:

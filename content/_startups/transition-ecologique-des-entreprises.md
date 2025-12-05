@@ -1,5 +1,5 @@
 ---
-title: Transition Écologique des Entreprises
+title: Transition écologique des entreprises
 mission: Guider les entreprises dans leur transition écologique
 sponsors:
   - /organisations/ademe
@@ -50,7 +50,7 @@ events:
 mon_service_securise: true
 impact_url: https://mission-transition-ecologique.beta.gouv.fr/stats
 ---
-Le service public Transition Écologique des Entreprises est un guichet d'accueil, d'aide et d'accompagnement dans la transition écologique des entreprises.
+Le service public Transition écologique des entreprises est un guichet d'accueil, d'aide et d'accompagnement dans la transition écologique des entreprises.
 
 ## Problèmes
 
@@ -72,23 +72,30 @@ Surtout que les dispositifs d’aide à la transition écologique des entreprise
 
 Cette situation rend illisible pour le chef d’entreprise, a fortiori de TPE/PME, le parcours à effectuer pour réaliser une démarche de transition écologique de son entreprise. Or, rien que pour la décarbonation, les analyses sectorielles, menées sur l’industrie et l’économie de proximité, montrent que près de 2 millions d’entreprises devront verdir leur activité à un degré plus ou moins poussé pour atteindre les objectifs de la SNBC - Stratégie Nationale Bas Carbone.
 
-Enfin, même par bonne volonté, l'entreprise ne peut pas toujours agir seule. Les transformatoins doivent se situer à un niveau supérieur, à une échelle locale, sectoriele ou réglementaire, dont les dirigeants ont une influence partielle.
+Enfin, même par bonne volonté, l'entreprise ne peut pas toujours agir seule. Les transformations doivent se situer à un niveau supérieur, à une échelle locale, sectorielle ou réglementaire, dont les dirigeants ont une influence partielle.
 
-## Solution : Un espace d'accueil numérique et un parcours raccourci pour aider les entreprises dans leurs actions
+## Solution : Un point d’entrée numérique vers les aides à la transition écologique des entreprises
 
-La startup d'État permettra au plus grand nombre d’entreprises, via un outil d’auto-diagnostic en ligne, d’évaluer leur situation et de réaliser une première orientation « automatique » vers des dispositifs d'aides associées à leur situation et contexte (sectoriel, économique...) ou, pour les situations les plus complexes, vers des interlocuteurs et/ou programmes mis en œuvre par les opérateurs publics.
+La startup d'État accompagne les entreprises dans leur transition environnementale. Elle permet de :
 
-Nous repartirons de la plateforme [Mission Transition](https://mission-transition.beta.gouv.fr/) de l'EcoLab du CGDD afin de bénéficier des travaux porté et initié par l'[équipe d'entrepreneurs d'intrét général](https://eig.etalab.gouv.fr/defis/france-transition/).
+- découvrir des idées de projets et d’actions de transition écologique pour votre entreprise.
+- identifier la bonne aide pour votre entreprise (accompagnements, études, formations, financements…) issue de l’ensemble des partenaires publics.
+- contacter un conseiller pour vous accompagner dans vos démarches.
 
-La Startup d'Etat est portée par l'ADEME à travers son [incubateur](https://beta.gouv.fr/startups/?incubateur=ademe) et co-piloté par la DGE, le CGDD et suit la [politique prioritaire du gouvernement](https://www.legifrance.gouv.fr/download/pdf/circ?id=45366) de "Réussir la transition écologique et aller vers la neutralité carbone".
+La plateforme est le fruit d’une coopération entre plusieurs opérateurs publics : l’ADEME à travers son [incubateur](https://beta.gouv.fr/startups/?incubateur=ademe), Bpifrance, CCI France, CMA France, l’OFB et d'autres acteurs publics sous le pilotage du ministère de la Transition écologique, du ministère de l’Économie et des Finances, du Secrétariat général à la planification écologique, et du Commissariat général au développement durable. La plateforme suit la [politique prioritaire du gouvernement](https://www.legifrance.gouv.fr/download/pdf/circ?id=45366) de "Réussir la transition écologique et aller vers la neutralité carbone".
+
+Au lancement, nous nous sommes appuyés sur [Mission Transition](https://mission-transition.beta.gouv.fr/) de l'EcoLab du CGDD afin de bénéficier des travaux porté et initié par l'[équipe d'entrepreneurs d'intérêt général](https://eig.etalab.gouv.fr/defis/france-transition/).
 
 ### Notre ambition à moyen terme
 
 - Recenser, structurer et rendre plus accessible les offres, les actions, les dispositifs d'aides et les programmes proposés par les opérateurs publics
-- Remettre sur pied une équipe afin de développer un module d'auto-diagnostic permettant de faciliter la recherche de dispositif d'aide adapté à l'entreprise
-- Collaborer avec les entités locales (directions régionales de l'ADEME, conseil régional, CCI, CMA) afin de déployer le service au plus grand nombre à une échelle locale (région par région) et/ou sectorielle et, orienter potentiellement les entreprises vers un interlocuteur à travers le service [conseillers-entreprises](https://conseillers-entreprises.service-public.fr).
-- Apporter un service aux opérateurs (ADEME, BPI, CDC...), à commencer par des statistiques, ayant des offres aux entreprises afin de mieux les cibler et d'avoir également une vision d'ensemble sur les dispositifs existants.
+- Faciliter la recherche de dispositifs d'aide adaptés à l'entreprise et l'aider à passer à l'action
+- Collaborer avec les entités locales (directions régionales de l'ADEME, conseils régionaux, CCI, CMA) afin de déployer le service au plus grand nombre à une échelle locale et sectorielle et, orienter potentiellement les entreprises vers un interlocuteur à travers le service [conseillers-entreprises](https://conseillers-entreprises.service-public.fr).
+- Apporter un service aux opérateurs (ADEME, Bpifrance, CDC...), à commencer par des statistiques, ayant des offres aux entreprises afin de mieux les cibler et d'avoir également une vision d'ensemble sur les dispositifs existants.
 
-**Mesure d'actionnabilité** : Entreprise qui a été réorienté, a candidaté et a bénéficié d'une aide d'un opérateur public à travers la plateforme
+**Mesure d'actionnabilité** : 
+- Indicateur 1 : Nombre d'entreprises qui ont été réorientées
+- Indicateur 2 : Nombre d’entreprises qui initient une action en autonomie (ayant téléchargé du contenu depuis la fiche projet ou s'étant rendue vers le site d'un opérateur pour faire sa demande d'aide ou obtenir son dispositif)
+- Indicateur 3 : Nombre d'entreprises qui passent à l'action avec Conseillers-Entreprises
 
 **Mesure d'impact** : Augmenter le nombre d’entreprises qui bascule dans la transition écologique à travers les aides publiques

@@ -8,7 +8,7 @@ sidebar: sidebar-fast.html
 # Sélection au FAST
 
 <p class="fr-text--lead">
-Le 16ème appel à projet du Fonds d’accélération des Startups d’État et de Territoire est ouvert jusqu'au 5 décembre 2024. Plus de 1,5 million d'euros seront accordés aux produits numériques qui souhaitent augmenter leur impact et passer à l'échelle.
+Le 17ème appel à projet du Fonds d’accélération des Startups d’État et de Territoire s'est ouvert jusqu'au 6 juin 2025. Plus de 1,2 million d'euros ont été accordés aux produits numériques qui souhaitaient augmenter leur impact et passer à l'échelle.
  </p>
 
 ## Critères de sélection
@@ -46,15 +46,14 @@ Les services numériques publics doivent bénéficier d’un **soutien** fort de
 
 ## Répartition du budget
 
-L’enveloppe budgétaire du FAST est de 4 millions d’euros en 2023. Cette somme est ensuite répartie entre les lauréats :
+L’enveloppe budgétaire du FAST est de 2,5 millions d’euros en 2025. Cette somme est ensuite répartie entre les lauréats :
 
 1. **Tous les lauréats** bénéficient d’un *accompagnement en accélération*, d’une valeur de 30 000 €.
 2. **Certains lauréats** bénéficient en plus d’un *co-financement*, selon le budget restant.
 
 ## Annonce des lauréats
 
-L’annonce des lauréats se fait un mois après la clôture des dossiers, la première quinzaine de janvier 2024. Les candidats sauront alors si :
-
+L’annonce des lauréats se fait un mois après la clôture des dossiers. Les candidats savent alors si :
 - leur profil a été retenu
 - combien de fonds leur seront alloués
 - accompagnement d’expert avec ou sans co-financement

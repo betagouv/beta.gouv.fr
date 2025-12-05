@@ -13,7 +13,7 @@ missions:
       - visam
       - zam
   - start: 2022-06-01
-    end: 2025-11-30
+    end: 2026-05-31
     status: independent
     employer: Omnicité
     startups:

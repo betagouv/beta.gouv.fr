@@ -24,6 +24,12 @@ missions:
     employer: Malt
     startups:
       - vues-immersives-libres
+  - start: 2025-11-24
+    end: 2026-03-01
+    status: independent
+    employer: Scopopop
+    startups:
+      - viz-eau
 badges:
   - segur
 competences:
@@ -33,4 +39,4 @@ competences:
   - Déploiement
 github: C-Sophie
 ---
-Géographe PhD. Expériences passées : presse spécialisée (géopolitique), administration centrale (ANSSI), collectivité territoriale (Cabinet du Maire de Metz, SE (Base Adresse Nationale, Bases Adresses Locales, uMap, Panoramax)
+Géographe PhD. Expériences passées : presse spécialisée (géopolitique), administration centrale (ANSSI), collectivité territoriale (Cabinet du Maire de Metz, SE (Base Adresse Nationale, Bases Adresses Locales, uMap, Panoramax, Viz'eau)

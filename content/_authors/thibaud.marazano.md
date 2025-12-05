@@ -25,5 +25,7 @@ competences:
   - PostgreSQL
   - Sécurité informatique
   - UI
+teams:
+  - /teams/anssi
 ---
 Développeur le jour, musicien la nuit.

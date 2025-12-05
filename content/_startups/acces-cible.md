@@ -5,6 +5,7 @@ title: Accès cible
 contact: acces-cible@beta.gouv.fr
 thematiques:
   - Inclusion numérique
+  - Outil technique
 usertypes:
   - etat
   - entreprise
@@ -20,7 +21,7 @@ phases:
     start: 2024-10-07
 techno:
   - Ruby on Rails
-link: https://acces-cible.incubateur.net/
+link: https://acces-cible.beta.gouv.fr/
 repository: https://github.com/betagouv/acces-cible/
 dashlord_url: https://dashlord.incubateur.net/url/acces-cible-beta-gouv-fr/
 events:
@@ -120,4 +121,5 @@ Les objectifs :
 
 - Finalisation du MVP
 - Prise en main par l’ARCOM
+- Embarquement des administrations intéressées
 - Adaptation de l’outil pour l’auto-contrôle

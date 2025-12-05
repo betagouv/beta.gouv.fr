@@ -8,8 +8,8 @@ sponsors:
   - /organisations/mctrct
   - /organisations/mtes
 incubator: anct
-link: https://aides-territoires.beta.gouv.fr/
-repository: https://github.com/MTES-MCT/aides-territoires-symfony
+link: https://aides-territoires.fr/
+repository: https://gitlab.com/incubateur-territoires/startups/mon-espace-collectivite/aides-territoires
 contact: aides-territoires@beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/aides-territoires-beta-gouv-fr/
@@ -26,7 +26,7 @@ phases:
 stats_url: https://aides-territoires.beta.gouv.fr/stats/
 thematiques:
   - Territoires
-budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+budget_url: https://docs.numerique.gouv.fr/docs/b586afeb-2e34-4ff6-8678-ba00cfe2a279/
 techno: []
 mon_service_securise: true
 impact_url: https://aides-territoires.beta.gouv.fr/impact/

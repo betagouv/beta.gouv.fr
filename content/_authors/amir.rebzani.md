@@ -10,4 +10,5 @@ missions:
     employer: DINUM
     startups:
       - data-dsn
+github: octomir
 ---

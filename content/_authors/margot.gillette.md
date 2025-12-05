@@ -1,10 +1,10 @@
 ---
-domaine: Design
+domaine: Intraprenariat
 fullname: Margot Gillette
-role: Designer
+role: Co-chef de projet + Designer
 missions:
   - start: 2021-03-01
-    end: 2025-12-31
+    end: 2026-05-31
     status: service
     employer: Diair
     startups:

@@ -10,7 +10,7 @@ link: https://zerologementvacant.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/zero-logement-vacant
 contact: contact@zerologementvacant.beta.gouv.fr
 dashlord_url: https://dashlord.incubateur.net/
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 stats_url: https://zerologementvacant.beta.gouv.fr/statistiques
 stats: true
 budget_url: https://docs.google.com/spreadsheets/d/1rki0Wlrk4hCL0WC8mlHcRlj8rk7iCZ4ed3lyxSa_yec/edit#gid=300205456
@@ -31,10 +31,12 @@ usertypes:
   - etat
 mon_service_securise: true
 techno: []
+analyse_risques: true
+impact_url: https://zerologementvacant.beta.gouv.fr/statistiques
 ---
 ## Faire de la vacance structurelle une ressource pour les territoires
 
-1,1 millions de logements sont vacants depuis au moins deux ans dans le parc privé en France (source LOVAC 2022). Au-delà de ces logements déjà vacants, 1,6 millions de passoires énergétiques locatives du parc privé (DPE F et G) risquent de basculer dans la vacance avec l'interdiction progressive à la relocation (la loi climat et résilence) .
+1,35 millions de logements sont vacants depuis au moins deux ans dans le parc privé en France (source LOVAC 2025). Au-delà de ces logements déjà vacants, 1,6 millions de passoires énergétiques locatives du parc privé (DPE F et G) risquent de basculer dans la vacance avec l'interdiction progressive à la relocation (la loi climat et résilence) .
 
 Cette vacance structurelle pénalise les personnes qui cherchent à se loger, dégrade le bâti et contribue à la désaffection des centres-villes
 
@@ -61,28 +63,8 @@ Les principales fonctionnalités de l'outil :
 - Rédiger des courriers et organiser le publipostage pour envoyer une campagne de courriers postaux aux propriétaires ciblés ;
 - Mettre à jour les fiches logement et propriétaires afin de fiabiliser la donnée partagée et d'assurer une continuité de l'information sur le territoire.
 
-## Les grandes dates
-
-* 2021 : première version prototypée en no-code pour tester la proposition de valeur auprès d'une vingtaine de collectivités lauréates d'un AMI
-* 2022 : développement de la solution open-source pour préparer un déploiement à plus large échelle France entière (novembre 2022) 
-* 2024 : intégration des données passoires énergétiques pour intégrer la prévention de la vacance
-
 ## Impact de la solution
 
 L’impact principal porte sur la remise sur le marché des logements en situation de vacance structurelle. Le processus de remise sur le marché étant long (1 à 4 ans), nous suivons les logements sortis et en cours de sortis de la vacance.
 
 L'outil a d'autres externalités positives sur la ZAN et les économies carbone en particulier.
-
-## Objectifs et indicateurs pour juillet 2024
-
-# Objectif 1 : renforcer la capacité opérationnelle des chargés d'habitat utilisateurs
-* Nombre de visites par mois ;
-* Nombre d'exports réalisés.
-
-## Objectif 2 : ZLV comme outil d'administration partagé du parc privé
-* Nombre de mises à jour de fiches logement & propriétaire
-* Bases de données intégrées (Lovac millésime 2024, DPE/BDNB, RNIC, CoproFF, etc.)
-
-## Objectif 3 : engager des collectivités dans la lutte
-* Nombre d'organisations inscrites à ZLV
-* Taux d'utilisateurs qui se sont connectés à ZLV dans les 3 derniers mois

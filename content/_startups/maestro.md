@@ -17,11 +17,16 @@ thematiques:
   - Outil technique
 usertypes:
   - etat
+  - collectivite-territoriale
 techno: []
 link: https://maestro.beta.gouv.fr/
 analyse_risques: true
 mon_service_securise: true
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Maestro
+events:
+  - name: committee
+    date: 2025-10-03
+stats_url: https://maestro.beta.gouv.fr/statistiques-publiques/
 ---
 ## Contexte
 
@@ -45,20 +50,20 @@ L'équipe est en compensation maximum et cela met en danger le fonctionnement du
 
 Certains domaines du dispositif ne bénéficient que d'un système d'information à plat (excel) avec ce que cela entraine de manque d'efficience et de qualité des données.
 
-## Solution
-
-L'investigation a eu pour but d'identifier comment beta.gouv pouvait participer à la transition numérique du SI en place. L'équipe beta accompagnée de deux intrapreneuses du BGIR ont donc investigué les angles d'attaque possible pour amorcer un changement dans le respect de la méthode beta.
-
-La solution consiste à **outiller un périmètre restreint mais représentatif des actions du dispositif PSPC : la Production Primaire Végétale**, qui est en demande d'un support numérique. 
-
 
 ## Stratégie
-Lancée en février 2024, la SE maestro a pour objectif à 6 mois de déterminer si le processus peut être **soutenu de bout en bout** par un outil numérique de manière simple et efficace.
+Maestro a pour objectif de devenir l'outil unique des PSPC sur la chaine alimentaire dès 2027.
+L'outil  permet d’interfacer tous les acteurs sur toute la boucle PSPC et plus particulièrement : 
+* la saisie et la consultation de la programmation
+* la saisie des prélèvements et des résultats d’analyses
+* la mise en circulation et l’accès en temps réel aux données
+* une meilleure fluidité et fiabilité des données
+* une valorisation des données plus fiable et rapide.
 
-Fin septembre 2024, nous aurons réussi si :
 
-- nous arrivons à réaliser une boucle programmation / prélèvement / analyse entre les différents acteurs au cours d'un pilote en conditions réelles;
-- nous obtenons une donnée de qualité en sortie.
+## Déploiement
+Maestro se construit petit à petit, en suivant la temporalité des programmations annuelles. Sur 11 domaines des PSPC, 3 seront lancés en 2026, 8 en pilote et l'ensemble sera disponible pour la programmation 2027.
 
 
-Nous contacter : diane.cuzzucoli@agriculture.gouv.fr ; jerome.rivals@beta.gouv.fr; laure.de-valon@beta.gouv.fr ; manon@maestro.beta.gouv.fr
+
+Nous contacter : diane.cuzzucoli@agriculture.gouv.fr ; manon@maestro.beta.gouv.fr

@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2024-01-08
-    end: 2025-12-15
+    end: 2026-06-02
     status: independent
     employer: Opteamis
     startups:

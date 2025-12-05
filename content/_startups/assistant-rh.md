@@ -76,9 +76,7 @@ L’objectif est d’obtenir une amélioration sensible du service rendu aux age
 
 Pour l’expérimentation, on pose l’hypothèse que chaque agent RH des SGCD
 pourra gagner 5 à 10% de temps de travail grâce à la recherche automatique de
-sources et la formulation de réponses. Sur une équipe de 20 agents RH dans
-plusieurs SGCD, cet outil permettra de redéployer 2 agents permettant de faire
-gagner en qualité les réponses fournies.
+sources et la formulation de réponses. 
 
 Hypothèses : 
 

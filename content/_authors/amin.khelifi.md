@@ -1,7 +1,7 @@
 ---
 fullname: Amin Khelifi
 role: Ingénieur MLOps / DevOps
-domaine: Déploiement
+domaine: Développement
 competences:
   - DevOps
   - Kubernetes

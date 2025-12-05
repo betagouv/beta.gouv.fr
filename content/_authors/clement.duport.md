@@ -10,5 +10,12 @@ missions:
     employer: GIP Plateforme de l’inclusion
     startups:
       - l-immersion-facile
+  - start: 2025-12-01
+    end: 2026-06-01
+    status: independent
+    employer: France Travail
+    startups:
+      - l-immersion-facile
+competences: []
 ---
 Développeur Fullstack

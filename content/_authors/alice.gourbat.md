@@ -28,6 +28,12 @@ missions:
     employer: Ominicité
     startups:
       - csplab
+  - start: 2025-10-24
+    end: 2026-03-02
+    status: independent
+    employer: Scopopop
+    startups:
+      - mesads
 competences:
   - UX
   - Facilitation

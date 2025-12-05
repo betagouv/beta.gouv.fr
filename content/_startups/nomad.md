@@ -21,7 +21,7 @@ techno:
   - react
 title: NOMAD
 mission: Permettre à tous les agents de bénéficier d'espaces de vie au travail, partout en France.
-incubator: fabnumdef
+incubator: kube
 sponsors:
   - /organisations/armees
 phases:

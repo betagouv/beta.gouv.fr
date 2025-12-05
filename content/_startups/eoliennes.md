@@ -3,7 +3,7 @@ title: Éoliennes
 mission: Accélérer l’instruction relative au traitement de dossiers obstacles pour l’Armée de l’air
 sponsors:
   - /organisations/armees
-incubator: fabnumdef
+incubator: kube
 phases:
   - name: investigation
     start: 2020-04-01

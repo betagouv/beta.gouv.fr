@@ -1,6 +1,6 @@
 ---
 link: https://monespacecollectivite.anct.gouv.fr/
-mission: Réunir en un seul endroit collectivités et Etat Local pour accélérer les projets et leur impact sur le territoire.
+mission: Réunir en un seul endroit collectivités et Etat local pour accélérer les projets et leur impact sur le territoire.
 repository: https://gitlab.com/incubateur-territoires/startups/mon-espace-collectivite/mon-espace-collectivite
 incubator: anct
 title: Mon espace collectivité
@@ -30,7 +30,9 @@ techno:
 analyse_risques: false
 mon_service_securise: true
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/monespacecollectivite-anct-gouv-fr/
-stats_url: https://mon-espace-collectivite-metabase.osc-secnum-fr1.scalingo.io/dashboard/3
+stats_url: https://mon-espace-collectivite-metabase.osc-secnum-fr1.scalingo.io/public/dashboard/30b3844d-9b0e-44ee-b4ff-caa0301c962a
+budget_url: https://docs.numerique.gouv.fr/docs/2a5be127-124d-4c99-b5ff-9733b398ef73/
+impact_url: https://docs.numerique.gouv.fr/docs/92140bd1-9cb0-4b2a-a4a9-090f9d2ae6e7/
 ---
 ## Contexte
 
@@ -79,9 +81,5 @@ Objectifs 31 décembre :
 - Intégration de l'ensemble des projets des CRTE de France
 - Déploiement d’autres cas d’usage (ingénierie et d’autres programmes et plans ANCT)
 
-## Statistiques au 31/12/2024
-
-* +1700% d'utilisateurs en 9 mois : de 100 à 1 800 utilisateurs
-* +700% de projets déposés en 9 mois : de 100 à 800 projets
 
 Email de contact : monespacecollectivite@anct.gouv.fr

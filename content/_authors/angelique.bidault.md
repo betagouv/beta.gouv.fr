@@ -16,7 +16,7 @@ missions:
     startups:
       - seves
   - start: 2025-07-18
-    end: 2025-12-31
+    end: 2026-03-30
     status: independent
     employer: Scopyleft
     startups:

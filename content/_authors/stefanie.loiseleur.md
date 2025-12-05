@@ -11,6 +11,14 @@ missions:
     employer: Ippon Technologies, Omnicité
     startups:
       - homologation
+  - start: 2026-01-01
+    end: 2026-05-01
+    status: independent
+    employer: Omnicité
+    startups:
+      - homologation
 memberType: beta
 competences: []
+teams:
+  - /teams/anssi
 ---

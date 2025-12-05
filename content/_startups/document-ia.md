@@ -17,7 +17,7 @@ sponsors:
   - /organisations/mtes
 phases:
   - name: construction
-    start: 2025-07-31
+    start: 2025-09-15
 events:
   - name: product_launch
     date: 2025-07-31
@@ -29,7 +29,7 @@ link: ''
 ---
 Document-IA est une solution **générique, souveraine** et **sécurisée** d'**analyse automatique** de **pièces justificatives**. Ce produit est portée par l'incubateur [ALLiaNCE](https://alliance.numerique.gouv.fr/) de la DINUM et pensé comme un commun numérique.
 
-Consultez la [liste des pièces justificatives](https://github.com/betagouv/document-ia/tree/develop/document-ia-worker/src/document_ia_worker/core/prompt/document_type) actuellement compatibles avec Document-IA
+Consultez la [liste des pièces justificatives](https://github.com/betagouv/document-ia/tree/develop/document-ia-schemas/src/document_ia_schemas) actuellement compatibles avec Document-IA
 
 **Vous êtes un acteur de l'État** et vous souhaitez bénéficier de la solution Document-IA ? Contactez l'équipe en charge de son déploiement en complétant ce [formulaire](https://grist.numerique.gouv.fr/o/document-ia/forms/3ovXs271FKtb8P22apK3eB/4) 👈
 

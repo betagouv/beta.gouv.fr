@@ -1,6 +1,6 @@
 ---
 fullname: Lucie Vidal
-role: UX Designer
+role: UX/UI Designer
 domaine: Design
 link: https://www.lucievidal.xyz/
 missions:
@@ -17,7 +17,7 @@ missions:
     startups:
       - anais
   - start: 2025-07-01
-    end: 2025-12-31
+    end: 2026-05-31
     status: independent
     employer: Malt
 memberType: autre

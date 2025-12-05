@@ -14,7 +14,7 @@ usertypes:
 techno: []
 title: RAPACE
 mission: Téléassistance médicale en réalité mixte
-incubator: fabnumdef
+incubator: kube
 phases:
   - name: investigation
     start: 2024-01-15

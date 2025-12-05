@@ -12,7 +12,7 @@ missions:
     startups:
       - carto-services-publics
   - start: 2025-06-17
-    end: 2025-11-30
+    end: 2026-02-28
     status: independent
     employer: Numa
     startups:

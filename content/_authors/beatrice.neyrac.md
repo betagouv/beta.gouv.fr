@@ -4,7 +4,7 @@ role: Intrapreneuse
 domaine: Intraprenariat
 missions:
   - start: 2024-07-01
-    end: 2025-12-31
+    end: 2026-06-30
     status: admin
     startups:
       - plateforme-agriculteurs
