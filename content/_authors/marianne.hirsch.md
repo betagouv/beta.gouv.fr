@@ -23,7 +23,5 @@ competences:
   - Product strategy
   - UX
   - UI
-teams:
-  - /teams/mission-inserjeunes
 ---
 🌻

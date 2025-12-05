@@ -1,6 +1,6 @@
 ---
 fullname: Jennifer Le Cann
-role: Responsable de la Fabrique Numérique du Ministère des Armées
+role: Responsable du KUBE, incubateur du ministère des Armées
 domaine: Animation
 missions:
   - start: 2022-09-01

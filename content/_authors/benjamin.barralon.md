@@ -13,8 +13,6 @@ missions:
       - exposition-ij
       - pilotagevoiepro
       - sirius
-teams:
-  - /teams/mission-inserjeunes
 badges:
   - segur
 competences: []
