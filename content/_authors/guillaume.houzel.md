@@ -15,6 +15,4 @@ missions:
       - tdb-apprentissage
       - uai_siret
       - voeux-apprentissage
-teams:
-  - /teams/mission-inserjeunes
 ---
