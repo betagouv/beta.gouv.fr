@@ -21,5 +21,6 @@
 /guide.pdf /content/docs/guide.pdf
 
 # Redirection de l'ancienne page de recrutement
-
 /postuler/ /contact/
+
+/incubateurs/fabnumdef /incubateurs/kube
