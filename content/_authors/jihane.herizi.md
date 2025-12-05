@@ -15,7 +15,7 @@ missions:
       - mon-entreprise
       - pass-culture
   - start: 2025-01-21
-    end: 2025-12-01
+    end: 2025-02-28
     status: independent
     employer: Malt
 badges:
