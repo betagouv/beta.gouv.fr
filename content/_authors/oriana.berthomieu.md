@@ -10,7 +10,7 @@ missions:
     startups:
       - pilotagevoiepro
   - start: 2025-10-06
-    end: 2026-01-06
+    end: 2026-04-30
     status: independent
     employer: La Zone
     startups:

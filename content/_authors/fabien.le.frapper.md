@@ -6,7 +6,7 @@ link: https://fabien.cool
 github: fabienheureux
 missions:
   - start: 2024-06-24
-    end: 2025-12-23
+    end: 2026-06-01
     status: independent
     employer: Malt
     startups:

@@ -5,8 +5,8 @@ role: Coach produit transverse
 link: https://www.linkedin.com/in/mael-inizan/
 missions:
   - start: 2021-01-11
-    end: 2025-12-31
-    status: independent
+    end: 2027-12-31
+    status: admin
     employer: NUMA
     startups:
       - collectif_objets

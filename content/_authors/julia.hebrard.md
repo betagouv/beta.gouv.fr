@@ -6,8 +6,6 @@ competences: []
 missions:
   - start: 2025-12-05
     end: 2026-03-31
-    employer: MEAE
     status: admin
-    startups: []
-teams: []
+    employer: MEAE
 ---
