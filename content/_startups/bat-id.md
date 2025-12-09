@@ -1,5 +1,5 @@
 ---
-title: RNB, le Référentiel National des Bâtiments (ex Bat-ID)
+title: RNB, le Référentiel National des Bâtiments
 mission: Référencer l’intégralité des bâtiments du territoire français au sein d’un géocommun
 sponsors:
   - /organisations/ademe
@@ -8,6 +8,7 @@ sponsors:
   - /organisations/dhup
   - /organisations/dinum
   - /organisations/ign
+  - /organisations/sgpe
 incubator: fab-geocommuns
 contact: rnb@beta.gouv.fr
 phases:
@@ -26,8 +27,16 @@ stats: true
 thematiques:
   - Open-Data
   - Patrimoine
-usertypes: []
-techno: []
+  - Écologie
+  - Logement
+usertypes:
+  - etat
+  - collectivite-territoriale
+  - entreprise
+techno:
+  - django
+  - react
+  - NextJS
 events:
   - name: committee
     date: 2022-11-09
@@ -41,12 +50,16 @@ events:
     date: 2024-06-18
   - name: committee
     date: 2024-12-11
+  - name: committee
+    date: 2025-06-24
+  - name: committee
+    date: 2025-12-10
 impact_url: https://referentielnationaldesbatiments.notion.site/Tableau-de-pilotage-de-l-impact-RNB-20143ec9d11e8093ba71c915956d8aea?pvs=74
+stats_url: https://rnb.beta.gouv.fr/stats
 ---
-## Problème
+## Problème : le cloisonnement de l'information bâtimentaire
 
 “_Du fait d’un écosystème atomisé, la production de l’information géolocalisée dans la sphère publique se traduit par un usage sous-optimal des deniers publics._” Rapport d'Information, Sénat, Commission des Finances pour l'IGN, 5 Octobre 2022
-
 
 Parmi ces données géolocalisées, l'information relative au bâtiment se démarque par l'absence de référentiel. Le concept de bâtiment ne faisant pas consensus, les acteurs travaillent en silos répondant chacun à leur propre vision du bâtiment…
 
@@ -56,16 +69,19 @@ Ainsi, les données géolocalisées actuelles ne permettent pas un pilotage sati
 
 ## Solution : Le Référentiel National des Bâtiments
 
-La création d'un référentiel unique des bâtiments, en lien avec les autres référentiels (adresses, locaux, parcelles) existants est nécessaire pour passer d'un “écosystème atomisé” à un fonctionnement en réseau.
+C’est dans ce contexte qu’a vu le jour le projet, initialement appelé BatID, d'abord au sein du [programme EIG](https://eig.etalab.gouv.fr/defis/batid/), pour co-construire avec l’ensemble des parties prenantes le Référentiel National des Bâtiments (RNB).
 
-C’est dans ce contexte qu’a vu le jour le projet, initialement appelé BatID, d'abord au sein du [programme EIG](https://eig.etalab.gouv.fr/defis/batid/), pour co-construire avec l’ensemble des parties prenantes le Référentiel National des Bâtiments (RNB), à destination des acteurs publics comme privés. Ce référentiel sera alimenté par les processus administratifs existants afin d’aboutir à une mise à jour en continue des bases de données socles.
+Le Référentiel National des Bâtiments (RNB) est un service public numérique, qui répertorie l'ensemble des bâtiments du territoire et leur associe un identifiant unique et pérenne. Une fois attribué au bâtiment, cet identifiant pivot, appelé ID-RNB, permet de simplifier le croisement et les échanges de données bâtimentaires entre les administrations publiques, les collectivités et les acteurs privés.
 
-## Stratégie
+Le RNB unifie ainsi la connaissance portant sur chaque bâtiment, tout en améliorant la qualité des données du bâtiment dont disposent les différents acteurs, pour opérer le suivi et la gestion de leur parc immobilier.
+
+## Stratégie : Co-construire un géocommun et une future donnée de référence
 
 La stratégie du RNB repose sur deux approches complémentaires :
 
-D'une part, expérimenter au maximum afin d'embarquer les acteurs, démontrer les usages, en créant les boucles de rétroaction de l'alimentation du référentiel.
-De l'autre, co-construire une gouvernance commune aux parties prenantes, afin de susciter l'adhésion et créer le cadre favorable à la vie du référentiel.
+- D'une part, expérimenter au maximum afin d'embarquer les acteurs, démontrer les usages, en créant les boucles de rétroaction de l'alimentation du référentiel. Aujourd'hui, le RNB répond à des politiques publiques prioritaires du Gouvernement et dispose de cas d'usage interministériels (sport, éducation, rénovation énergétique des bâtiments...)
+
+- De l'autre, co-construire une gouvernance commune aux parties prenantes, afin de susciter l'adhésion et créer le cadre favorable à la vie du référentiel.
 L'approche expérimentale permet de cerner précisément les besoins et points de friction à l'émergence du projet, grâce à une vision terrain et à la mise en œuvre technique. La démarche de co-construction, permet de fédérer les acteurs pour rendre possible l'interopérabilité à l'échelle nationale en permettant le partage et l'échange de données.
 
 L'objectif à terme : aboutir à un modèle de gouvernance pérenne, pour faire de cette future donnée de référence un véritable géo-commun.

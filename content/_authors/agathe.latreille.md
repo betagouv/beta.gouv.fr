@@ -19,13 +19,13 @@ missions:
       - la.communaute.de.linclusion
       - les-emplois
   - start: 2021-01-25
-    end: 2026-01-30
+    end: 2025-12-20
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:
       - dora
   - start: 2021-01-25
-    end: 2026-01-31
+    end: 2025-12-20
     status: admin
     employer: Plateforme de l'inclusion
     startups:
