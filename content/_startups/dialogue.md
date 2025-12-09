@@ -17,6 +17,9 @@ phases:
     start: 2022-10-18
   - name: acceleration
     start: 2025-01-01
+fast:
+  promotion: 17
+  montant: 150000
 thematiques:
   - Transports
   - Open-Data
