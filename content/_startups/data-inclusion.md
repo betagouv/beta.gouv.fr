@@ -17,6 +17,9 @@ phases:
     start: 2022-06-30
   - name: acceleration
     start: 2024-11-18
+fast:
+  promotion: 17
+  montant: 160000
 usertypes:
   - collectivite-territoriale
   - entreprise
