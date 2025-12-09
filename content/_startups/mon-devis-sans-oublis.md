@@ -28,6 +28,9 @@ phases:
     start: 2023-11-27
   - name: construction
     start: 2024-10-01
+fast:
+  promotion: 17
+  montant: 100000
 stats_url: https://mon-devis-sans-oublis.beta.gouv.fr/statistiques
 dashlord_url: https://dashlord.mte.incubateur.net/url/mon-devis-sans-oublis-beta-gouv-fr/
 events:
