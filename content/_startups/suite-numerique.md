@@ -13,6 +13,9 @@ phases:
     start: 2023-05-01
   - name: construction
     start: 2023-08-01
+fast:
+  promotion: 17
+  montant: 200000
 thematiques:
   - Outil technique
 link: https://lasuite.numerique.gouv.fr/
