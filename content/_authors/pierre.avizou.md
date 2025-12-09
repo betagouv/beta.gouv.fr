@@ -4,7 +4,7 @@ fullname: Pierre Avizou
 role: Développement
 missions:
   - start: 2024-04-24
-    end: 2025-12-31
+    end: 2026-02-27
     status: independent
     employer: Opteamis
     startups:
