@@ -5,9 +5,9 @@ domaine: Développement
 github: am-beta
 missions:
   - start: 2021-03-01
-    end: 2025-12-10
+    end: 2026-05-10
     status: independent
-    employer: Codeurs en Liberté
+    employer: Codeureuses en Liberté
     startups:
       - api-entreprise
       - api-particulier

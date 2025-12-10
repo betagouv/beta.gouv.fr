@@ -35,12 +35,13 @@ techno:
   - json
 mon_service_securise: false
 impact_url: https://opentermsarchive.org/fr/impact/
+analyse_risques: true
 ---
 [Open Terms Archive](https://opentermsarchive.org/fr/) est un outil libre et ouvert de suivi et d’archivage des évolutions des conditions générales d’utilisation des principaux fournisseurs de services en ligne qui vise à rééquilibrer le rapport de force avec les grandes plateformes.
 
 [Open Terms Archive](https://opentermsarchive.org/fr/) est un commun numérique qui archive publiquement les documents contractuels des fournisseurs de services en ligne, les rend lisibles, met en valeur les changements et fait circuler ceux-ci au sein de sa communauté pour analyse.
 
-L'archive publique suit en **avril 2025** un total de **1598 documents de 800 services**, dont les grandes plateformes « gatekeepers » comme Facebook, Twitter, TikTok…
+L'archive publique suit en **décembre 2025** un total de **1695 documents de 833 services**, dont les grandes plateformes « gatekeepers » comme Facebook, Twitter, TikTok…
 
 Ces documents regroupent des communautés autour de plusieurs instances thématiques, qui réunissent des services et des acteurs intéressés à les surveiller, selon leur secteur d'activité, leur langue et leur juridiction.
 
@@ -73,28 +74,31 @@ Enfin, la société civile (associations de protection des consommateurs, de la 
 Ce coût à l'entrée bénéficie aux acteurs les moins vertueux, qui exploitent les données personnelles des citoyennes et des citoyens, ne respectent pas les règles du jeu, ou mettent en place des clauses abusives.
 
 ## Métriques d'impact
-*Chiffres à jour au 02 avril 2025*
+*Chiffres à jour au 10 décembre 2025*
 
-Le modèle d'impact d'Open Terms Archives est présenté sur une [page dédiée](https://opentermsarchive.org/fr/impact/). 
-Le nombre de services et documents suivis, la juridiction, et la langue de chaque collection fédérée sont présentés sur la page [Collections](https://opentermsarchive.org/fr/collections/).
+* Le modèle d'impact d'Open Terms Archives est présenté sur une [page dédiée](https://opentermsarchive.org/fr/impact/). 
+* Le suivi des métriques d'impact est présenté sur la page [Statistiques](https://opentermsarchive.org/fr/statistiques/).
+* Le nombre de services et documents suivis, la juridiction, et la langue de chaque collection fédérée sont présentés sur la page [Collections](https://opentermsarchive.org/fr/collections/).
 
-Open Terms Archive suit **1598** documents à travers **10** collections fédérées en avril 2025.
+Open Terms Archive suit **1695** documents à travers **10** collections fédérées en décembre 2025.
 
-> À titre de comparaison, nous suivions 1253 en documents en novembre 2022 et 367 en mars 2021.
+> À titre de comparaison, nous suivions 1253 en documents en novembre 2022, 367 en mars 2021, et 1598 en avril 2025
 
 Ces documents sont classés selon une taxonomie de **43** types définis collectivement.
 
 > La normalisation des documents contractuels en types uniformes, indépendants du nom des documents (par exemple réunir « Conditions d'utilisation », « Terms of use », « Conditions d'usage » sous un seul terme), rend possible la comparaison des services entre eux et permet d’estimer l'étendue de la couverture légale.
 
-Ces documents décrivent les pratiques de **800** services répartis sur plusieurs industries, langues et juridictions.
+Ces documents décrivent les pratiques de **833** services répartis sur plusieurs industries, langues et juridictions.
 
 > La séparation des services par instances thématiques (applications de rencontre, plateformes systémiques, vente en ligne française…) permet de réunir des communautés d'intérêt qui renforcent leur pouvoir collectif autour de l'outil technique.
 
-**83** [memos](https://opentermsarchive.org/fr/memos/), des courts articles proposant une vulgarisation et contextualisation de changements identifiés avec Open Terms Archive, ont été publiés. 
+**101** [memos](https://opentermsarchive.org/fr/memos/), des courts articles proposant une vulgarisation et contextualisation de changements identifiés avec Open Terms Archive, ont été publiés. 
+
+**1** rapport de tendance, un article analysant des tendances observées à travers de multiples changements identifiés avec Open Terms Archive sur un temps défini.
 
 > Nous ne nous focalisons pas pour le moment sur le déploiement auprès du grand public, car le plus grand effet de levier dans l'état actuel de nos ressources est atteint par le partenariat avec des acteurs spécialisés ayant déjà un public établi.
 
-Open Terms Archive fédère un écosystème de **58** contributeurs en mars 2025 répartis dans plusieurs entités, étatiques ou non, qui contribuent à l'amélioration du moteur et ont fait émerger **8** réutilisations qui valorisent les données produites.
+Open Terms Archive fédère un écosystème de **58** contributeurs en mars 2025 répartis dans plusieurs entités, étatiques ou non, qui contribuent à l'amélioration du moteur et ont fait émerger **10** réutilisations qui valorisent les données produites.
 
 Ces indicateurs quantitatifs permettent de mesurer la couverture de l'outil et l'intérêt qu'il génère. L'impact, lui, se trouve en premier lieu de manière qualitative, par l'intermédiaire de nos réutilisateurs :
 

@@ -5,7 +5,7 @@ domaine: Développement
 github: procorbin
 missions:
   - start: 2022-06-20
-    end: 2025-12-29
+    end: 2026-06-30
     status: admin
     employer: DNUM
     startups:
