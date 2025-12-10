@@ -9,9 +9,8 @@ competences:
 missions:
   - start: 2025-12-08
     end: 2026-06-08
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - terri-story
-teams: []
 ---

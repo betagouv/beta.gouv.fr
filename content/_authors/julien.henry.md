@@ -9,8 +9,7 @@ missions:
     employer: MALT
     startups:
       - dossierfacile
-competences:
-  - Communication
+competences: []
 memberType: beta
 ---
-Nouvel arrivant dans la communauté Beta Gouv auprès de Dossier Facile en tant qu'opérateur.
+Nouvel arrivant au sein de la communauté Beta Gouv depuis le 3 juin 2024 auprès de Dossier Facile en tant qu'opérateur Support.

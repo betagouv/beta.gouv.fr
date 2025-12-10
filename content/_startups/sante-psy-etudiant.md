@@ -1,36 +1,42 @@
 ---
-title: Santé Psy Étudiant
-mission: Dispositif dédié aux étudiants de l'enseignement supérieur, SPE permet à un étudiant de bénéficier de consultations avec des psychologues validés par les services médicaux des universités sans avance de frais.
-sponsors:
-  - /organisations/dgesip
-incubator: dinum
-link: https://santepsy.etudiant.gouv.fr/
-repository: https://github.com/betagouv/sante-psy/
+accessibility_status: non conforme
 contact: support-santepsyetudiant@beta.gouv.fr
+repository: https://github.com/betagouv/sante-psy/
+link: https://santepsy.etudiant.gouv.fr/
 stats: true
 stats_url: https://santepsy.etudiant.gouv.fr/stats
-events:
-  - name: product_launch
-    date: 2021-03-11
-  - name: fast
-    date: 2025-10-01
-phases:
-  - name: construction
-    start: 2021-03-01
-  - name: acceleration
-    start: 2021-09-01
-fast:
-  promotion: 17
-  montant: 100000
-usertypes:
-  - particulier
-  - entreprise
 dashlord_url: https://dashlord.incubateur.net/url/santepsy-etudiant-gouv-fr/
-accessibility_status: non conforme
 thematiques:
   - Santé
   - Jeunesse
+usertypes:
+  - particulier
+  - entreprise
 techno: []
+title: Santé Psy Étudiant
+mission: Dispositif dédié aux étudiants de l'enseignement supérieur, SPE permet à un étudiant de bénéficier de consultations avec des psychologues validés par les services médicaux des universités sans avance de frais.
+incubator: dinum
+sponsors:
+  - /organisations/dgesip
+phases:
+  - name: construction
+    comment: null
+    start: 2021-03-01
+    end: null
+  - name: acceleration
+    comment: null
+    start: 2021-09-01
+    end: null
+events:
+  - name: product_launch
+    comment: null
+    date: 2021-03-11
+  - name: fast
+    comment: ''
+    date: 2025-10-01
+fast:
+  promotion: 17
+  montant: 100000
 ---
 ## Contexte
 

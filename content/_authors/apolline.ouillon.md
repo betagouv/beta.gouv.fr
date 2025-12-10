@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-12-03
     end: 2026-06-04
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - suite-numerique
-teams: []
 ---

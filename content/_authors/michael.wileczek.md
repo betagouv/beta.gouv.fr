@@ -1,6 +1,6 @@
 ---
 fullname: Michaël Wileczek
-role: Consultant cybersécurité / RSSI
+role: Consultant cybersécurité, RSSI, AMOA SSI, Homologation RGS, SMSI, PSSI
 domaine: Autre
 github: Michael-MWI
 missions:
@@ -26,5 +26,7 @@ link: https://fr.linkedin.com/in/mwik
 competences:
   - Sécurité informatique
   - Administration Système
+  - Facilitation
+  - Product strategy
 ---
 Consultant cybersécurité depuis 1998, fan de concerts indie et de voyages

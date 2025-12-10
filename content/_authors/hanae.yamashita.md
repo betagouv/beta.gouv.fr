@@ -10,9 +10,10 @@ missions:
     startups:
       - potentiel
   - start: 2025-08-18
-    end: 2025-12-31
+    end: 2026-03-09
     status: independent
     employer: Octo Malt
     startups:
       - potentiel
+competences: []
 ---
