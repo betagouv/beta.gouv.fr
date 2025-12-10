@@ -34,6 +34,9 @@ events:
   - name: fast
     comment: ''
     date: 2025-10-01
+fast:
+  promotion: 17
+  montant: 100000
 ---
 ## Contexte
 
