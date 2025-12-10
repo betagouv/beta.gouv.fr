@@ -31,9 +31,6 @@ thematiques:
   - Santé
   - Jeunesse
 techno: []
-fast:
-  promotion: 15
-  montant: 30000
 ---
 ## Contexte
 
