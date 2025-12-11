@@ -5,9 +5,10 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/jean-fran%C3%A7ois-labrousse-518505139/
 competences:
   - Product strategy
+  - Croissance
 missions:
   - start: 2025-07-22
-    end: 2026-01-10
+    end: 2026-03-31
     status: independent
     employer: MALT
     startups:
