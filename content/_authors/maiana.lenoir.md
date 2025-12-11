@@ -13,7 +13,7 @@ missions:
     startups:
       - recommandations-collaboratives
   - start: 2025-06-12
-    end: 2026-02-20
+    end: 2026-04-20
     status: independent
     employer: LittleBig Connexion
     startups:

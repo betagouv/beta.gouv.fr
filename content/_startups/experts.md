@@ -48,13 +48,13 @@ Un outil permettant la sélection éclairée et la désignation rapide des exper
 
 ## Impact
 
-- Moins de 10 % de missions refusées par les experts
+- Moins de 7 % de missions refusées par les experts
 - Un délai de réponse des experts réduit à 18 heures en moyenne
 - 70 % de désignations effectives en moins de 72 heures
 
 ## Déploiement
 
-SeLEXpert est actuellement utilisé dans près de la moitié des Cours d'appel de France et ambitionne à terme une couverture nationale. 
+SeLEXpert est actuellement utilisé dans 29 Cours d'appel de France et ambitionne à terme une couverture nationale. 
 
 
 	

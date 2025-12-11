@@ -20,19 +20,13 @@ sponsors:
   - /organisations/dgesip
 phases:
   - name: construction
-    comment: null
     start: 2021-03-01
-    end: null
   - name: acceleration
-    comment: null
     start: 2021-09-01
-    end: null
 events:
   - name: product_launch
-    comment: null
     date: 2021-03-11
   - name: fast
-    comment: ''
     date: 2025-10-01
 fast:
   promotion: 17

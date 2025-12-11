@@ -37,6 +37,8 @@ techno:
   - chai
   - cucumber
 impact_url: https://potentiel.beta.gouv.fr/statistiques-publiques
+analyse_risques: true
+mon_service_securise: true
 ---
 ##  Introduction - contexte
 
@@ -121,22 +123,23 @@ L’objectif, dans un premier temps, a été de dématérialiser l’ensemble de
 
 ### Sur les projets suivis
 
-* 11 161 projets dont 7 632 lauréats
-* 21,07 GW en puissance cumulée
-* 3 883 demandes des porteurs de projet réalisées sur Potentiel
+* 13 646 projets dont  9412 lauréats
+* 32,3 GW en puissance cumulée
+* 7015 demandes des porteurs de projet réalisées sur Potentiel
 
 ### Sur les statistiques utilisateurs
 
-* 2 123 porteurs de projet inscrits
-* 1 527 connexions en moyenne par mois
+* 3213 porteurs de projet inscrits
+* près de 2000 connexions en moyenne par mois
 
 ### Un temps moyen d’instruction des demandes divisé par 3
 ![](https://docs.potentiel.beta.gouv.fr/~gitbook/image?url=https:%2F%2F341821779-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MK-BGgj_eN7FsxQv8fl%252Fuploads%252FhDpAaLnlNrlLHhfO3HZR%252Fimage.png%3Falt=media%26token=c9f030ca-e873-42a6-9d25-fb0299007ce7&width=400&dpr=3&quality=100&sign=7fed0d74dfaff35b657cda428b6dc6b82f8994720dc6fcba3d418b18681fd86d)
 
 ### La possibilité de mettre en place des mesures d’urgences afin de sauver un maximum de projets
 
-* 4,19 GW de puissance cumulée des projets ayant choisis l’instruction selon des cahiers des charges modificatifs
-* 1,05 GW avec le processus automatisé d'abandon pour recandidature
+A début 2025 :
+* 3,35 GW de puissance cumulée pour les projets ayant bénéficié des 18 mois d'achèvement supplémentaires
+* 1,7 GW avec le processus automatisé d'abandon pour recandidature
 
 ## Le budget
 
@@ -145,14 +148,14 @@ L’objectif, dans un premier temps, a été de dématérialiser l’ensemble de
 - 2022 : Financée par le budget de l'année 2021
 - 2023 : 507 822 € de la DGEC
 - 2024 : 881 063 € de la DGEC
+- 2025 : 637 408 € de la DGEC
 
 *Direction générale de l'Énergie et du Climat (Ministère en charge de l'énergie)
 
 ## La feuille de route
 
-* Devenir le pôle central pour la gestion administrative des projets d’EnR électriques et de gaz renouvelable soumis à appel d’offres en France avec l’intégration de nouvelles énergies : 
-Biométhane (désignation et modification) puis reprise de l’historique ⇒ Potentiel va simplifier et accélérer le développement du biométhane, 60 projets historiques + désignation de 15 projets / an
-Petite hydroélectricité…
+* Devenir le pôle central pour la gestion administrative des projets d’EnR électriques soumis à appel d’offres en France avec l’intégration de nouvelles énergies ou de nouveaux appels d'offres : 
+Petite hydroélectricité, appel d'offres Petit PV, appel d'offres PPE3
 * La migration de toutes les fonctionnalités sur un nouveau socle technique permettant les futurs échanges automatisés
 * Faciliter l’interopérabilité avec tous les acteurs afin d’augmenter et d’accélérer les projets en service en développant les connexions API avec nos partenaires 
 * Implémenter l’ensemble des étapes de développement des projets, de la notification à leur mise en service : récupération automatique des projets CRE , finalisation du processus de gestion des garanties financières et leur renouvellement (de la désignation d'un projet jusqu'à la main-levée)..., récupération automatique des dates de mise en service
