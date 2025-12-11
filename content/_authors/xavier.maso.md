@@ -7,7 +7,7 @@ link: https://www.xaviermaso.com/
 competences: []
 missions:
   - start: 2025-07-08
-    end: 2026-01-07
+    end: 2026-04-07
     status: service
     employer: Omnicité
     startups:
