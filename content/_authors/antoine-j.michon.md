@@ -11,7 +11,7 @@ competences:
   - PostgreSQL
 missions:
   - start: 2025-07-01
-    end: 2025-12-31
+    end: 2026-03-31
     status: service
     employer: Scopopop
     startups:

@@ -8,9 +8,10 @@ competences:
   - Product design
   - UI
   - Facilitation
+  - recherche utilisateur
 missions:
   - start: 2025-01-06
-    end: 2025-12-26
+    end: 2026-06-11
     status: service
     employer: France Travail
     startups:

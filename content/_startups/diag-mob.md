@@ -2,7 +2,7 @@
 analyse_risques: false
 mon_service_securise: false
 contact: baptiste.eisele@developpement-durable.gouv.fr
-title: Diag'Mob
+title: Mon Diag'Mob
 mission: Réduire l'impact des déplacements domicile - travail des agents publics
 incubator: mtes
 phases:
@@ -37,14 +37,14 @@ Ainsi, l'autosolisme reste le mode de transport principal pour les agents de la 
 
 ## Solution
 
-Ma solution est de cartographier les itinéraires des agents volontaires et de proposer des solutions de déplacements alternatives à la voiture en solitaire.
+La solution est de cartographier les itinéraires des agents volontaires et de proposer des solutions de déplacements alternatives à la voiture en solitaire.
 En déployant un sondage à destination des agents volontaires sur le territoire d'expérimentation, ils saisissent :
 *  leur ville de domiciliation 
 * leur adresse de travail 
 * horaires de travail
 * informations de contact, 
 
-Ma solution analyse les agents ayant une partie du trajet en commun et avec des horaires compatibles, puis nous effectuons une mise en relation et un suivi de la création de l'équipage covoiturage ou vélo, ainsi qu'un rappel pour demander le Forfait Mobilités Durables 
+La solution analyse les agents ayant une partie du trajet en commun et avec des horaires compatibles, puis nous effectuons une mise en relation et un suivi de la création de l'équipage covoiturage ou vélo, ainsi qu'un rappel pour demander le Forfait Mobilités Durables 
 
 ## Objectifs à 3 mois pour la fin d'investigation
 

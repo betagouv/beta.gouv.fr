@@ -7,9 +7,8 @@ competences: []
 missions:
   - start: 2025-12-09
     end: 2026-03-09
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - lucca
-teams: []
 ---

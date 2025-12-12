@@ -7,7 +7,7 @@ thematiques:
   - Agriculture
 usertypes:
   - etat
-title: Base de données plan d'appro' Biomasse
+title: Approbiom - Système national d’enregistrement et d’instruction des plans d’approvisionnement biomasse
 mission: Faciliter la production d’avis solides, traçables et comparables sur les plans d'approvisionnement biomasse
 incubator: agriculture
 sponsors:
@@ -20,7 +20,7 @@ phases:
     start: 2026-01-05
 events:
   - name: committee
-    date: 2025-10-17
+    date: 2025-10-28
 techno: []
 link: ''
 ---

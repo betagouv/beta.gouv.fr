@@ -6,7 +6,7 @@ github: jadynekena
 link: https://jadynekena.com
 missions:
   - start: 2022-10-10
-    end: 2025-12-31
+    end: 2026-06-11
     status: independent
     employer: Ut7
     startups:

@@ -4,7 +4,7 @@ role: chargée de suivi qualité / bizdev
 domaine: Développement
 missions:
   - start: 2023-04-03
-    end: 2026-02-28
+    end: 2026-03-12
     status: independent
     employer: MALT
     startups:
