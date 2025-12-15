@@ -14,6 +14,11 @@ missions:
     status: independent
     startups:
       - data-inclusion
+  - start: 2025-12-15
+    end: 2026-05-15
+    status: independent
+    startups:
+      - la-bonne-alternance
 memberType: beta
 competences: []
 ---

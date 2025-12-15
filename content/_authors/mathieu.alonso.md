@@ -6,13 +6,13 @@ role: Product Manager
 link: https://www.linkedin.com/in/mathieualonso/
 missions:
   - start: 2023-09-11
-    end: 2026-01-31
+    end: 2026-02-28
     status: independent
     employer: Omnicite
     startups:
       - lannuaire.des.collectivites
   - start: 2025-07-07
-    end: 2026-01-08
+    end: 2026-02-28
     status: independent
     employer: Malt
     startups:

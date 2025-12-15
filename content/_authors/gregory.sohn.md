@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/gregorysohn/
 competences: []
 missions:
   - start: 2025-09-15
-    end: 2025-12-15
+    end: 2026-09-15
     status: admin
     employer: DINUM
     startups:

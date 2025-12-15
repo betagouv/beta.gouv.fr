@@ -12,6 +12,11 @@ usertypes:
   - etat
 techno:
   - typescript
+  - nestjs
+  - react
+  - vite
+  - github actions
+  - git
 title: Mutafriches
 mission: Définir la mutabilité d'un site pour accélérer sa reconversion
 incubator: ademe

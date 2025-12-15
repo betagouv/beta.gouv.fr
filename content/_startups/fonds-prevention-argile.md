@@ -28,6 +28,7 @@ events:
   - name: product_launch
     date: 2025-09-30
 link: https://fonds-prevention-argile.beta.gouv.fr
+repository: https://github.com/MTES-MCT/fonds-prevention-argile
 ---
 ## Pour faire sa demande d'aide au fonds de prévention argile
 

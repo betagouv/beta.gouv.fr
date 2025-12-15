@@ -1,10 +1,10 @@
 ---
 fullname: Soumaya Leghmari
 role: Chargée de communication
-domaine: Déploiement
+domaine: Autre
 missions:
   - start: 2023-12-12
-    end: 2025-12-31
+    end: 2026-05-31
     status: independent
     employer: DINUM
     startups:
@@ -18,4 +18,5 @@ competences:
   - Communication
   - Croissance
   - Droit / Affaires juridiques
+link: https://www.linkedin.com/in/sleghmari/
 ---
