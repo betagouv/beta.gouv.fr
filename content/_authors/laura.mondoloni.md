@@ -4,7 +4,7 @@ role: Product Manager du Laboratoire d'innovation publique de l'ANSSI, incubateu
 domaine: Produit
 missions:
   - start: 2023-12-14
-    end: 2026-01-01
+    end: 2026-06-01
     status: independent
     startups:
       - homologation

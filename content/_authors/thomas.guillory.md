@@ -9,7 +9,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2025-10-06
-    end: 2026-01-06
+    end: 2026-10-05
     status: admin
     employer: DINUM
     startups:

@@ -29,7 +29,7 @@ link: ''
 ---
 Document-IA est une solution **générique, souveraine** et **sécurisée** d'**analyse automatique** de **pièces justificatives**. Ce produit est portée par l'incubateur [ALLiaNCE](https://alliance.numerique.gouv.fr/) de la DINUM et pensé comme un commun numérique.
 
-Consultez la [liste des pièces justificatives](https://github.com/betagouv/document-ia/tree/develop/document-ia-schemas/src/document_ia_schemas) actuellement compatibles avec Document-IA
+Consultez la [liste des pièces justificatives](https://github.com/betagouv/document-ia/tree/sandbox/document-ia-schemas/src/document_ia_schemas) actuellement compatibles avec Document-IA
 
 **Vous êtes un acteur de l'État** et vous souhaitez bénéficier de la solution Document-IA ? Contactez l'équipe en charge de son déploiement en complétant ce [formulaire](https://grist.numerique.gouv.fr/o/document-ia/forms/3ovXs271FKtb8P22apK3eB/4) 👈
 
@@ -114,6 +114,8 @@ Les modèles LLMs utilisés dans le cadre du traitement Document-IA sont héberg
 
 - Une fois les résultats d'analyse récupérés, Document-IA ne conservent aucune trace des données issues de l'analyse de vos documents
 - Document-IA n'envoie aucune des données issues de l'analyse de vos documents sur Internet ou ne les partage avec des partenaires.
+
+*Pour en savoir plus, vous pouvez solliciter l'équipe pour disposer du Dossier d'Architecture Technique (DAT) précisant les mesures de sécurité prises.*
 
 ---
 

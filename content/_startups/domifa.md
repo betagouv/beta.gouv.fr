@@ -19,6 +19,9 @@ phases:
     end: 2023-01-17
   - name: success
     start: 2023-01-17
+fast:
+  promotion: 17
+  montant: 200000
 link: https://domifa.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/domifa
 stats: true

@@ -22,7 +22,7 @@ missions:
     startups:
       - data-subvention
   - start: 2024-11-12
-    end: 2025-02-28
+    end: 2025-12-31
     status: independent
     employer: TelesCoop
     startups:

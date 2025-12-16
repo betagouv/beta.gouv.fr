@@ -7,7 +7,7 @@ competences:
   - Data Science
 missions:
   - start: 2025-05-26
-    end: 2025-12-25
+    end: 2026-06-25
     status: admin
     employer: AIFE
     startups:

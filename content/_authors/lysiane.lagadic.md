@@ -4,13 +4,13 @@ fullname: Lysiane Lagadic
 role: Designer
 missions:
   - start: 2024-06-20
-    end: 2025-12-31
+    end: 2026-03-14
     status: independent
     employer: Malt
     startups:
       - suite.territoriale
   - start: 2024-10-29
-    end: 2025-12-31
+    end: 2026-03-14
     status: independent
     employer: Omnicité
     startups:

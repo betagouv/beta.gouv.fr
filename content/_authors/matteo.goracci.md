@@ -10,7 +10,7 @@ missions:
     startups:
       - aidantsconnect
   - start: 2025-03-25
-    end: 2025-07-31
+    end: 2026-01-30
     status: independent
     employer: La Fabrique
     startups:

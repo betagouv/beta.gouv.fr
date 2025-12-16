@@ -22,6 +22,9 @@ phases:
     start: 2022-10-17
   - name: acceleration
     start: 2023-11-06
+fast:
+  promotion: 17
+  montant: 100000
 stats_url: https://panoramax.fr/stats
 stats: true
 accessibility_status: non conforme

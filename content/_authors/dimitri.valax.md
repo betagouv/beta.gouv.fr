@@ -12,7 +12,7 @@ competences:
   - Mobile
 missions:
   - start: 2025-05-26
-    end: 2025-12-31
+    end: 2026-01-07
     status: independent
     employer: Malt
     startups:

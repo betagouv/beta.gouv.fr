@@ -4,7 +4,7 @@ role: Product Owner / Business Developer
 domaine: Déploiement
 missions:
   - start: 2023-10-04
-    end: 2025-12-26
+    end: 2026-06-11
     status: independent
     employer: Little Big Connection
     startups:
@@ -12,4 +12,4 @@ missions:
 memberType: beta
 competences: []
 ---
-PO / Bizdev / support
+Product Owner / Bizdev / Support

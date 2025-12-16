@@ -9,10 +9,11 @@ competences:
   - Coaching
 missions:
   - start: 2025-01-15
-    end: 2026-01-14
+    end: 2027-01-14
     status: admin
     employer: EIG
     startups:
       - data-dsn
+github: etiennels
 ---
 Entrepreneur dans le numérique depuis 2013, en particulier dans le domaine des logiciels d'entreprise. J'ai rejoint la 7ème promotion EIG en janvier 2025.

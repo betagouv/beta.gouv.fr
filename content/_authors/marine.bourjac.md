@@ -1,15 +1,20 @@
 ---
 fullname: Marine Bourjac
-role: Marketing relationnel
+role: Communication et partenariats
 domaine: Déploiement
 missions:
   - start: 2023-09-26
-    end: 2026-03-31
+    end: 2025-10-01
+    status: independent
+    employer: Malt
+    startups:
+      - snu
+  - start: 2025-10-02
+    end: 2026-05-30
     status: independent
     employer: Malt
     startups:
       - je-deviens-etudiant
-      - snu
 memberType: beta
 link: https://www.linkedin.com/in/marinebourjac/
 competences:
@@ -23,5 +28,6 @@ competences:
   - Communication
   - SEO
   - stratégie communication
+  - partenariats
 ---
 Spécialiste marketing et communication basée à Bordeaux
