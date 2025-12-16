@@ -27,6 +27,9 @@ events:
   - name: committee
     date: 2025-06-24
     comment: Comité de fin de la 2nde phase d'accélération
+  - name: committee
+    date: 2025-12-10
+    comment: Comité de fin de la 1ère phase de pérennisation
 phases:
   - name: investigation
     start: 2022-06-29
@@ -44,7 +47,9 @@ stats: true
 thematiques:
   - Justice
 dashlord_url: https://dashlord.incubateur.net/url/dashlord-romin-app-cc-anje-justice-fr/
-techno: []
+techno:
+  - nuxt.js
+  - vue
 impact_url: https://romin.beta.gouv.fr/stats?source=externe
 link: ''
 ---
@@ -83,9 +88,9 @@ A l'horizon de l'été 2026, l'administration de la solution ROMIN sera confiée
 
 **ROMIN est en ligne et accessible aux premiers utilisateurs depuis avril 2023**. Leurs retours permettent des ajustements et le développement de nouvelles fonctionnalités adaptées à leurs besoins de terrain comme celui de profiter de retours d’expérience ainsi que de la mise en lien avec des collaborateur.ices à même de développer leurs savoir-faire.
 
-ROMIN donne accès à plus de 80 outils ciblés et ce volume continue de grandir en permanence.
+ROMIN donne accès à plus de 100 outils ciblés et ce volume continue de grandir en permanence.
 
-ROMIN couvrant plus de 75% du territoire national, le déploiement de la solution numérique mobilise de plus en plus nos meilleurs ambassadeurs sur le terrain, en directions interrégionales et au sein de l'administration centrale.
+ROMIN couvrant plus de 85% du territoire national, le déploiement de la solution numérique mobilise de plus en plus nos meilleurs ambassadeurs sur le terrain, en directions interrégionales et au sein de l'administration centrale.
 
 **L’impact de ROMIN se mesure via les données statistiques de consultation auxquelles sont combinées les retours qualitatifs de nos utilisateur.ices consulté.es à échéance régulière**. 
 

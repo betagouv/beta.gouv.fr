@@ -14,7 +14,7 @@ competences:
   - Sécurité informatique
 missions:
   - start: 2025-04-01
-    end: 2025-12-31
+    end: 2026-06-01
     status: independent
     employer: Malt
     startups:

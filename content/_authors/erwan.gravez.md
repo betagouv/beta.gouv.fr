@@ -4,7 +4,7 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2024-05-29
-    end: 2025-12-31
+    end: 2026-03-16
     status: independent
     employer: malt
     startups:

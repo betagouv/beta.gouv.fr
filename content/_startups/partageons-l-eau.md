@@ -24,6 +24,8 @@ events:
   - name: product_launch
     date: 2025-05-26
 techno: []
+repository: https://github.com/betagouv/partageonsleau/tree/main
+impact_url: http://partageonsleau-metabase.osc-fr1.scalingo.io/public/dashboard/91ec0e3c-8711-4796-9fc8-e204b3c67e6c
 link: ''
 ---
 ## Contexte

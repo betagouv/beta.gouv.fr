@@ -30,7 +30,7 @@ missions:
       - pass.engagement.jeune
       - visam
   - start: 2022-03-14
-    end: 2025-12-31
+    end: 2026-12-31
     status: admin
     employer: dinum
     startups:
