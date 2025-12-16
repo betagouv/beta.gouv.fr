@@ -10,7 +10,7 @@ competences:
   - Product design
 missions:
   - start: 2025-09-09
-    end: 2025-12-09
+    end: 2026-03-30
     status: admin
     employer: Ruche Numérique
     startups:

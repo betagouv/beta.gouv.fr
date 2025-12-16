@@ -5,7 +5,8 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2025-07-29
-    end: 2025-12-29
+    end: 2026-12-29
     status: admin
     employer: MIOM
+link: https://formation-civique.interieur.gouv.fr
 ---

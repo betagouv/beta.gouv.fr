@@ -6,11 +6,22 @@ github: LucienMLD
 avatar: https://avatars3.githubusercontent.com/LucienMLD?s=600
 missions:
   - start: 2018-03-14
-    end: 2025-12-30
+    end: 2019-06-30
     status: independent
-    employer: octo
+    employer: La Zone
+    startups:
+      - dossiersco
+  - start: 2019-11-12
+    end: 2026-03-12
+    status: independent
+    employer: Malt
     startups:
       - conseillers-entreprises
+  - start: 2025-01-12
+    end: 2025-12-31
+    status: independent
+    employer: Malt
+    startups:
       - sites-faciles
 previously:
   - open-academie
