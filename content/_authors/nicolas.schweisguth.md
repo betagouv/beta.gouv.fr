@@ -5,13 +5,15 @@ domaine: Produit
 github: schweisguthn
 missions:
   - start: 2021-11-08
-    end: 2025-12-31
+    end: 2026-05-31
     status: independent
     employer: Malt
     startups:
       - datapass
 badges:
   - segur
-competences: []
+competences:
+  - Croissance
+  - Facilitation
 ---
 Toujours patient et de bonne humeur, sauf quand l'Olympique Lyonnais joue.

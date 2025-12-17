@@ -8,7 +8,9 @@ competences:
   - Data Science
 missions:
   - start: 2025-10-22
-    end: 2026-01-22
+    end: 2027-01-22
     status: admin
     employer: OFB
+    startups:
+      - coop-biodiv
 ---

@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2025-12-15
     end: 2026-05-12
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - je-deviens-etudiant
-teams: []
 ---

@@ -9,7 +9,7 @@ competences:
   - Product strategy
 missions:
   - start: 2025-09-02
-    end: 2025-12-31
+    end: 2026-03-31
     status: independent
     employer: LittleBig Connection
     startups:

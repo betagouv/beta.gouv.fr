@@ -7,7 +7,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2024-12-22
-    end: 2025-12-31
+    end: 2026-05-30
     status: independent
     employer: Incubateur Ministère de la justice
     startups:

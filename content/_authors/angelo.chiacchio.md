@@ -6,10 +6,11 @@ link: https://www.nodesign.net/
 github: areox-net
 missions:
   - start: 2021-07-15
-    end: 2026-01-15
+    end: 2026-06-15
     status: service
     employer: Nodesign.net
     startups:
+      - suite-numerique
       - tchap
 competences: []
 ---

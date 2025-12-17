@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/megdabentout/
 github: megdabentout
 missions:
   - start: 2023-01-09
-    end: 2025-12-31
+    end: 2026-03-31
     status: independent
     employer: Plateforme de l'inclusion
     startups:

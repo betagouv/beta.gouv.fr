@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2025-12-15
     end: 2026-03-15
-    employer: DINUM
     status: admin
+    employer: DINUM
     startups:
       - refugies.info
-teams: []
 ---

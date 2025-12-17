@@ -7,16 +7,12 @@ missions:
     end: 2019-12-31
     status: independent
     employer: Codeurs en Liberté
-  - start: 2020-01-01
-    end: 2024-12-31
-    status: independent
-    employer: NUMA
   - start: 2024-12-31
     end: 2025-12-31
     status: service
     employer: NUMA
   - start: 2025-09-11
-    end: 2026-01-11
+    end: 2026-06-11
     status: service
     employer: Malt
     startups:
