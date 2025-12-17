@@ -48,6 +48,12 @@ missions:
     employer: Pathtech
     startups:
       - ecobalyse
+  - start: 2026-01-01
+    end: 2026-03-31
+    status: independent
+    employer: Malt
+    startups:
+      - ecobalyse
 competences:
   - Développement Full-stack
   - Elm

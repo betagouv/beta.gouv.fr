@@ -4,7 +4,7 @@ role: Chargé de déploiement BAN
 domaine: Déploiement
 missions:
   - start: 2023-05-01
-    end: 2025-12-31
+    end: 2026-07-01
     status: admin
     employer: IGN
     startups:
@@ -12,4 +12,4 @@ missions:
 memberType: beta
 competences: []
 ---
-Nantaisbreton, marin, cartographe et accessoirement IGN !
+Nantais breton, marin, cartographe et accessoirement IGN !

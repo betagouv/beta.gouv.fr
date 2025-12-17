@@ -1,14 +1,24 @@
 ---
-fullname: Samy Ghribi
+fullname: Samy GHRIBI
 role: Developpeur
 domaine: Développement
-competences: []
+competences:
+  - Développement Full-stack
+  - Développement Backend
+  - Développement Frontend
+  - Administration Système
+  - DevOps
+  - Docker
+  - PHP
+  - JavaScript/TypeScript
+  - PostgreSQL
 missions:
   - start: 2025-12-15
     end: 2026-02-28
-    employer: Little Big Connection
     status: independent
+    employer: Little Big Connection
     startups:
       - partageons-l-eau
-teams: []
+github: sghribi
+link: https://www.linkedin.com/in/ghribi
 ---

@@ -1,6 +1,6 @@
 ---
 title: Facili-TACCT
-mission: Accompagner les collectivités pour une meilleure appropriation de leur diagnostic de vulnérabilité.
+mission: Aider chaque territoire à initier ou renforcer sa démarche d’adaptation au changement climatique.
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -15,6 +15,12 @@ events:
     comment: Comité de fin d'investigation 2
   - name: committee
     date: 2024-07-09
+  - name: product_launch
+    date: 2024-12-17
+  - name: committee
+    date: 2025-01-15
+  - name: committee
+    date: 2025-08-26
 phases:
   - name: investigation
     start: 2023-02-01
@@ -37,7 +43,7 @@ techno:
 dashlord_url: https://dashlord.incubateur.ademe.fr/startup/tacct
 mon_service_securise: true
 budget_url: https://facili-tacct.beta.gouv.fr/budget
-stats_url: https://facili-tacct.beta.gouv.fr/stats
+stats_url: https://facili-tacct.beta.gouv.fr/statistiques
 ---
 ## Contexte
 
