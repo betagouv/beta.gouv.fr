@@ -13,15 +13,11 @@ techno:
 title: Datafoncier
 mission: Faciliter la connaissance du foncier
 incubator: accelerema
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-12-16
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-12-16
 ---
 ## Contexte

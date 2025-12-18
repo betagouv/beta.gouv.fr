@@ -73,4 +73,4 @@ L’objectif de Nos Gestes Climat est d’être diffusé facilement au niveau in
 
 Un autre axe de diffusion sont les médias Web déjà existants (sites d'associations, médias, blogs, administrations, etc.) via une intégration en quelques clics sous forme d’iframe. Des dizaines d'intégrations ont d’ores et déjà été réalisées.
 
-Nos Gestes Climat compte aujourd’hui plus de deux million de tests réalisés (décembre 2024) et s'est imposé comme un calculateur de référence !
+Nos Gestes Climat compte aujourd’hui plus de 2,7 millions de tests réalisés (décembre 2025) et s'est imposé comme un calculateur de référence !

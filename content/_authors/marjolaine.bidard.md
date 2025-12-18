@@ -16,6 +16,12 @@ missions:
     employer: Pole emploi
     startups:
       - travailler.en.france
+  - start: 2025-09-19
+    end: 2026-03-30
+    status: independent
+    employer: La ruche numérique
+    startups:
+      - one-trick-pony
 previously:
   - estime
   - mes-evenements-emploi

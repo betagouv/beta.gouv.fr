@@ -4,7 +4,7 @@ fullname: Andressa BITTENCOURT
 role: Consultante en communication
 missions:
   - start: 2024-06-04
-    end: 2025-12-31
+    end: 2026-02-28
     status: independent
     employer: Diair
     startups:
