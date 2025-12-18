@@ -57,6 +57,53 @@ layout: default
             <a class="fr-link fr-link--icon-left fr-icon-mail-line" href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a></em>
             {% endif %}
           </p>
+
+          <div class="fr-my-2w startup-evaluation">
+            <h6>Standards de qualité</h6>
+
+            {% assign evaluation = site.evaluations[startup_id] %}
+
+            {% if evaluation %}
+              <p class="fr-text--sm fr-text--dimmed">
+                beta.gouv.fr définit des standards de qualité. Les
+                indicateurs suivants montrent comment l’équipe les met
+                en œuvre. Ces informations sont déclaratives.
+              </p>
+
+              <ul class="standards">
+                {% for result in evaluation["conformity"] %}
+                  <li>
+                    <span class="category">{{ result.first | humanize }}</span>
+                    {% if result.last %}
+                      <progress max="100" value="{{ result.last | round }}">{{ result.last | round }}</progress>
+                      <span class="score">
+                        {% if result.last == 100 %}
+                          <strong>{{ result.last | round }}%</strong>
+                        {% else %}
+                          {{ result.last | round }}%
+                        {% endif %}
+                      </span>
+                    {% else %}
+                      <span class="fr-text--dimmed blank">non renseigné</span>
+                    {% endif %}
+                  </li>
+                {% endfor %}
+              </ul>
+            {% else %}
+              <p>
+                L'évaluation des standards de beta.gouv.fr n'a pas
+                encore été réalisée sur ce produit.
+              </p>
+            {% endif %}
+
+            <a
+                class="fr-text--sm"
+                href="https://standards.incubateur.net"
+                title="Le site des standards de beta.gouv.fr">
+              En savoir plus sur les standards
+            </a>
+          </div>
+
           {% unless phase.status == 'investigation' %}
           <div class="fr-py-1w">
             <b>Transparence</b>
@@ -135,7 +182,7 @@ layout: default
               {% endif %}
               {% capture link_risques %}
               <li>
-                <a class="fr-link fr-icon-warning-line fr-link--icon-left" href="#" role="link" 
+                <a class="fr-link fr-icon-warning-line fr-link--icon-left" href="#" role="link"
                     aria-disabled="{% if page.analyse_risques %}false{% else %}true{% endif %}"
                 >
                   Analyse de risque

@@ -84,9 +84,7 @@ RSpec/SpecFilePathFormat:
     - '**/spec/routing/**/*'
     - 'spec/lib/models/member_spec.rb'
     - 'spec/lib/models/startup_spec.rb'
-    - 'spec/plugins/community_spec.rb'
-    - 'spec/plugins/money_spec.rb'
-    - 'spec/plugins/startup_spec.rb'
+    - 'spec/plugins/**'
 
 # Offense count: 1
 # This cop supports safe autocorrection (--autocorrect).
