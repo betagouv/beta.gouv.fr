@@ -686,8 +686,8 @@ ul.standards progress {
 
 ::-webkit-progress-value {
   background-color: var(--background-action-high-blue-france);
-  border-top-left-radius: 10px;
-  border-bottom-left-radius: 10px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
 }
 
 progress::-moz-progress-bar {
