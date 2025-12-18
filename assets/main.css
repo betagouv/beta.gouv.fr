@@ -679,8 +679,19 @@ ul.standards progress {
   min-width: 0;
 }
 
-progress::-moz-progress-bar, progress::-webkit-progress-value {
-  background: var(--background-action-high-blue-france);
+::-webkit-progress-bar {
+  background-color: #DDD;
+  border-radius: 3px;
+}
+
+::-webkit-progress-value {
+  background-color: var(--background-action-high-blue-france);
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+progress::-moz-progress-bar {
+  background-color: var(--background-action-high-blue-france);
 }
 
 ul.standards .score {
