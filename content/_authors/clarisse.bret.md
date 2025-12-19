@@ -14,6 +14,11 @@ missions:
     status: independent
     startups:
       - aquaculteurs.marins
+  - start: 2025-11-25
+    end: 2026-01-10
+    status: independent
+    startups:
+      - otelo
 memberType: beta
 competences: []
 ---
