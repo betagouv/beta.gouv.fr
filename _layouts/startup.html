@@ -166,11 +166,11 @@ layout: default
               <li>
                 {% if page.impact_url %}
                 <a class="fr-link fr-link--icon-left fr-icon-line-chart-line " href="{{ page.impact_url }}">
-                  Statistiques d'impact
+                  Matrice d'impact
                 </a>
                 {% else %}
                 <a class="fr-link fr-link--icon-left fr-icon-line-chart-line" role="link" aria-disabled="true">
-                  Statistiques d'impact (non disponible)
+                  Matrice d'impact (non disponible)
                 </a>
                 {% endif %}
               </li>
@@ -229,19 +229,11 @@ layout: default
     {% if page.phases %}
     <h2>En quelques dates</h2>
     <div class="startup-timeline">
-      {%- assign investigated=page.phases | where: 'name', 'investigation' | first %}
-      {%- assign constructed=page.phases | where: 'name', 'construction' | first %}
-      {%- assign accelerated=page.phases | where: 'name', 'acceleration' | first %}
-      {%- assign transfered=page.phases | where: 'name', 'transfer' | first %}
-      {%- assign succeeded=page.phases | where: 'name', 'success' | first %}
-      {%- assign finished=page.phases | where: 'name', 'alumni' | first %}
-      {% if investigated %}<p class="active"><b>Investigation</b><br/>{{ investigated.start | french_long_date }}</p>{% else %}<p><b>Investigation</b></p>{% endif %}
-      {% if constructed %}<p class="active"><b>Construction</b><br/>{{ constructed.start | french_long_date }}</p>{% elsif finished==nil %}<p><b>Construction</b></p>{% endif %}
-      {% if accelerated %}<p class="active"><b>Accélération</b><br/>{{ accelerated.start | french_long_date }}</p>{% elsif finished==nil %}<p><b>Accélération</b></p>{% endif %}
-      {% if transfered %}<p class="active"><b>Transfert</b><br/>{{ transfered.start | french_long_date }}</p>{% elsif succeeded==nil and  finished==nil %}<p><b>Transfert</b></p>{% endif %}
-      {% if succeeded %}<p class="success"><b>Pérennisé</b><br/>{{ succeeded.start | french_long_date }}</p>{% elsif finished==nil %}<p><b>Pérennisé</b></p>{% endif %}
-      {% if finished %}<p class="finished"><b>Partenariat terminé</b><br/>{{ finished.start | french_long_date }}</p>{% endif %}
-    </div>
+      {% for phase in page.phases %}
+        <p>
+          <strong>{{ phase.name | humanize }}</strong><br />
+          {{ phase.start | french_long_date }}
+      {% endfor %}
     {% endif %}
   </div>
 </div>
