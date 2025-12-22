@@ -1,7 +1,7 @@
 ---
 fullname: Jérôme Lenez
 domaine: Produit
-role: Product Manager
+role: Product Owner
 github: jlenez
 missions:
   - start: 2021-08-02
@@ -17,4 +17,4 @@ previously:
   - civils-de-la-defense
 link: https://www.linkedin.com/in/jeromelenez/
 ---
-Product Manager
+Product Owner

@@ -5,8 +5,11 @@ domaine: Produit
 github: Eugenie
 missions:
   - start: 2023-06-25
-    end: 2024-06-30
+    end: 2026-04-30
     status: service
     employer: DTNUM/SDID
+    startups:
+      - astree
+      - basegun
 memberType: autre
 ---
