@@ -1,6 +1,6 @@
 ---
 fullname: Audrey HOUSSAIS
-role: Chargée de relations institutionnelles
+role: EIG CIO & Relations institutionnelles
 domaine: Déploiement
 link: https://www.linkedin.com/in/audrey-houssais/
 github: AudreyH49
@@ -20,6 +20,11 @@ badges:
   - segur
 previously:
   - apilos
-competences: []
+competences:
+  - Droit / Affaires juridiques
+  - Communication
+  - Déploiement
+  - Impact
+  - Administration Publique
 ---
 J'aime contribuer et faire avancer les causes et les innovations
