@@ -6,7 +6,7 @@ github: joeffreya
 link: https://www.linkedin.com/in/joeffrey-arruyer-5392a744
 missions:
   - start: 2017-12-09
-    end: 2025-12-31
+    end: 2026-06-09
     status: service
     employer: NUMA
 previously:

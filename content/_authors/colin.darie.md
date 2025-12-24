@@ -5,7 +5,7 @@ domaine: Développement
 github: colinux
 missions:
   - start: 2022-07-04
-    end: 2025-12-31
+    end: 2026-06-22
     status: independent
     employer: DINUM
     startups:

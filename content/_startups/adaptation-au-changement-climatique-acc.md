@@ -7,7 +7,7 @@ thematiques:
   - Territoires
 usertypes:
   - etat
-title: Adaptation au Changement Climatique (ACC)
+title: Booster Conseil
 mission: Faciliter et augmenter grâce à l'IA le conseil humain des référents Adaptation au Changement Climatique auprès des collectivités.
 incubator: accelerema
 sponsors:
@@ -21,6 +21,8 @@ phases:
 events:
   - name: product_launch
     date: 2024-11-13
+  - name: committee
+    date: 2025-11-26
 techno:
   - SofIA
 link: ''
@@ -28,7 +30,7 @@ link: ''
 
 ## Contexte
 
-Le 3ème Plan National d’Adaptation au Changement Climatique (PNACC) a été lancé le vendredi 25 octobre par le Premier ministre et mis en consultation pendant 2 mois (voir [site dédié](https://consultation-pnacc.ecologie.gouv.fr/)). Une des mesures phares de ce plan est la **Mission Adaptation**, un guichet unique d’ingénierie pour les collectivités, qui a déjà été annoncée par la Ministre, Agnès Pannier-Runacher (voir [fiche PNACC consacrée](https://consultation-pnacc.ecologie.gouv.fr/sites/default/files/2024-10/Mesure25%20-%20Territoires%20-%20accompagnement.pdf)). 
+Le 3ème Plan National d’Adaptation au Changement Climatique (PNACC) a été lancé le vendredi 25 octobre 2024 par le Premier ministre et mis en consultation pendant 2 mois (voir [site dédié](https://consultation-pnacc.ecologie.gouv.fr/)). Une des mesures phares de ce plan est la **Mission Adaptation**, un guichet unique d’ingénierie pour les collectivités, qui a déjà été annoncée par la Ministre, Agnès Pannier-Runacher (voir [fiche PNACC consacrée](https://consultation-pnacc.ecologie.gouv.fr/sites/default/files/2024-10/Mesure25%20-%20Territoires%20-%20accompagnement.pdf)). 
 
 Ainsi, les opérateurs de l’État concernés, et notamment le Cerema, doivent déployer une offre commune en expertise et ingénierie pour accompagner les collectivités désireuses de s’engager dans une démarche d’adaptation au changement climatique, à partir de 2025.
 
