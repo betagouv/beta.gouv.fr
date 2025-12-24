@@ -9,7 +9,7 @@ competences:
   - Coaching
 missions:
   - start: 2025-01-15
-    end: 2026-01-14
+    end: 2027-01-14
     status: admin
     employer: EIG
 github: shours
