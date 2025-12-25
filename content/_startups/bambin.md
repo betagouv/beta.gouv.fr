@@ -45,14 +45,21 @@ impact_url: https://diagbruit.fr/stats
 ---
 ## Contexte
 
-L’exposition à un niveau sonore trop élevé est un enjeu sanitaire majeur (effets sur l’audition, le comportement, et le sommeil). La règlementation permet de traiter et éviter les cas les plus extrêmes, mais les seuils de prise en compte sont très éloignés des préconisations de l’Organisation Mondiale de la Santé.   
+L’exposition à un niveau sonore trop élevé est un enjeu sanitaire majeur (effets sur l’audition, le comportement, et le sommeil). La règlementation permet de traiter et éviter les cas les plus extrêmes, mais les seuils de prise en compte ([article 7](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006053526/)) sont très éloignés des [préconisations de l’Organisation Mondiale de la Santé](https://iris.who.int/server/api/core/bitstreams/71c1d252-463d-40a9-842e-5126d7fdbdec/content).   
+| Source | Seuil critique reglementaire| Seuil d'impact sanitaire|
+| --- | --- | --- |
+| Route | 68 dB (Lden)| 53 dB (Lden)|
+| Voie ferrée (hors LGV)| 73 dB (Lden)| 54 dB (Lden)|
+| Aéroport| 55 dB (Lden)| 45 dB (Lden)|
 
 Par ailleurs, il existe un grand nombre d’indicateurs et documents techniques différents (réglementation Française ou Européenne ; concernant les transports, les activités, le voisinage, etc).
 
 ## Problème
 
 En tant que chargé de mission bruit, je constate que les recommandations des documents d'urbanismes ne sont pas toujours appliquées.  
+
 En tant qu’instructeur droit des sols, je ne dispose pas de suffisamment de temps et de connaissances technique pour intégrer le bruit dans mes recommandations.  
+
 En tant qu'élu, sans soutien pédagogique, je peine à m’approprier les diagnostics, dont les résultats sont parfois contradictoires avec les plaintes formulées par les habitants.  
 
 ## Solution
@@ -64,6 +71,7 @@ Ce diagnostic est basé sur un ensemble de données en cours de réflexions. À 
 ## Stratégie
 
 La phase d’investigation a été menée auprès d’un panel de Métropoles, de gestionnaires, de porteur de politiques publiques, d’associations, d’agences ou organismes de recherche et de producteurs de données.  
+
 Elle vise les organismes qui répondent “non” à la question “*Selon vous, actuellement sur votre territoire, prenez vous suffisamment en compte le bruit lors de l'analyse d'un projet d'aménagement ou de construction ?”*.  
 
 La construction de la solution va être phasée selon les sources d'informations à prendre en compte : 
