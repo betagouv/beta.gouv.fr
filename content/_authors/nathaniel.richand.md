@@ -12,19 +12,19 @@ missions:
     startups:
       - signalement
   - start: 2022-04-01
-    end: 2025-11-30
+    end: 2026-06-19
     status: independent
     employer: Opteamis
     startups:
       - reva
   - start: 2024-09-03
-    end: 2025-09-30
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:
       - l-application-du-cej
   - start: 2025-04-07
-    end: 2025-12-31
+    end: 2026-06-19
     status: independent
     employer: Dynergie
     startups:

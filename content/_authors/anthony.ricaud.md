@@ -12,7 +12,7 @@ missions:
     startups:
       - sppnaut
   - start: 2024-09-30
-    end: 2026-03-01
+    end: 2026-06-15
     status: independent
     employer: Lazone
     startups:

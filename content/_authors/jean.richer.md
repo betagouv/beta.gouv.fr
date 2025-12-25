@@ -10,5 +10,6 @@ missions:
     startups:
       - compte.rendu.vif
 memberType: dinum
+competences: []
 ---
 architecte des bâtiments de France à la DRAC Nouvelle-Aquitaine et chercheur au laboratoire ACS de l'ENSAPM
