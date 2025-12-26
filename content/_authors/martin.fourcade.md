@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: octo
   - start: 2021-11-15
-    end: 2025-12-31
+    end: 2026-06-01
     status: independent
     employer: scopopop
     startups:

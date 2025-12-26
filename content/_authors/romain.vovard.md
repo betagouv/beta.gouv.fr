@@ -8,7 +8,7 @@ competences:
   - Accessibilité
 missions:
   - start: 2025-08-01
-    end: 2025-12-31
+    end: 2026-03-31
     status: independent
     employer: LBC
     startups:

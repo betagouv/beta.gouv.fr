@@ -7,13 +7,18 @@ link: https://ut7.fr/
 github: raphaelpierquin
 missions:
   - start: 2018-03-13
-    end: 2025-12-20
+    end: 2026-06-19
+    status: service
+    employer: /ut7
+    startups:
+      - grist.numerique.gouv.fr
+      - notifications-v2
+  - start: 2021-06-01
+    end: 2024-12-01
     status: service
     employer: /ut7
     startups:
       - données-et-territoires
-      - grist.numerique.gouv.fr
-      - notifications-v2
   - start: 2022-03-17
     end: 2024-08-03
     status: service
@@ -33,6 +38,8 @@ previously:
   - culture_amateurs
   - dumas
   - sppnaut
-competences: []
+competences:
+  - Coaching
+  - Facilitation
 ---
 Coach des startups, des papillons et des abeilles aux pieds libres.

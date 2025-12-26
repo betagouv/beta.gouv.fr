@@ -15,6 +15,8 @@ phases:
     start: 2022-09-30
   - name: acceleration
     start: 2023-10-01
+  - name: alumni
+    start: 2025-12-30
 thematiques:
   - Collectivités
   - Écologie

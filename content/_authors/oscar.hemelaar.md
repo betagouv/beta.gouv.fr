@@ -21,7 +21,5 @@ missions:
     startups:
       - opi-cloud
 competences: []
-teams:
-  - /teams/anct
 ---
 DevOps
