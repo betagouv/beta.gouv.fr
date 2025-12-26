@@ -5,7 +5,7 @@ domaine: Autre
 github: laetitiasanogo
 missions:
   - start: 2023-10-12
-    end: 2025-12-31
+    end: 2026-05-31
     status: independent
     employer: DINUM
     startups:
