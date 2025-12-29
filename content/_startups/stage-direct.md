@@ -12,13 +12,11 @@ sponsors:
   - /organisations/ecole-nationale-de-la-magistrature
 phases:
   - name: investigation
-    comment: null
     start: 2025-12-02
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-12-18
+link: ''
 ---
 ## Contexte
 

@@ -3,15 +3,15 @@ analyse_risques: false
 mon_service_securise: true
 contact: sites-faciles@beta.gouv.fr
 repository: https://github.com/numerique-gouv/sites-faciles
-link: https://sites-faciles.beta.numerique.gouv.fr
+link: https://sites.beta.gouv.fr/?mtm_campaign=betabouv
 thematiques:
   - Outil technique
   - Inclusion numérique
   - Sécurité informatique
 usertypes:
   - etat
-title: Sites Faciles
-mission: Faciliter la création de sites internet et la gestion de leur contenu pour les administrations centrales
+title: Sites Conformes
+mission: Créez un site aux standards de l'État
 incubator: dinum_produits_interministeriels
 sponsors:
   - /organisations/dinum
@@ -23,8 +23,9 @@ techno:
   - wagtail
   - django
 accessibility_status: partiellement conforme
-stats_url: https://sites-faciles.beta.numerique.gouv.fr/statistiques/
+stats_url: https://sites.beta.gouv.fr/statistiques/
 dashlord_url: https://dashlord.incubateur.net/startup/sites-faciles/
+impact_url: https://sites.beta.gouv.fr/statistiques/sites-actuellement-en-ligne/
 ---
 ## **Contexte**
 
