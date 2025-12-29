@@ -13,7 +13,7 @@ missions:
       - travailler.en.france
       - zen
   - start: 2025-01-29
-    end: 2025-12-31
+    end: 2026-06-26
     status: independent
     employer: UT7
     startups:

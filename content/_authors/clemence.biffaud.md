@@ -37,6 +37,12 @@ missions:
     employer: Dynergie
     startups:
       - reglementation-nitrates
+  - start: 2025-12-02
+    end: 2026-03-29
+    status: independent
+    employer: NUMA
+    startups:
+      - stage-direct
 competences:
   - Coaching
 ---
