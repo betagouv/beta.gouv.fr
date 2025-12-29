@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/valentin-brel-8b400888/
 missions:
   - start: 2021-01-25
-    end: 2023-06-30
+    end: 2026-06-22
     status: independent
     employer: Octo
 previously:
@@ -14,4 +14,6 @@ previously:
 badges:
   - segur
 github: valentinbrel
+teams:
+  - /teams/anct
 ---

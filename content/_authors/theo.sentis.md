@@ -7,7 +7,7 @@ competences:
   - Croissance
 missions:
   - start: 2025-07-15
-    end: 2025-12-19
+    end: 2026-01-18
     status: independent
     employer: Malt
     startups:

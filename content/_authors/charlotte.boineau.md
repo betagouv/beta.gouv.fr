@@ -5,7 +5,7 @@ domaine: Data
 competences: []
 missions:
   - start: 2025-01-22
-    end: 2025-12-22
+    end: 2026-06-22
     status: admin
     startups:
       - sante-psy-etudiant

@@ -1,14 +1,15 @@
 ---
-title: ASTREE
-mission: 'Aider au traitement des contentieux de masse ou sériel '
+title: Astrée
+mission: Assistant IA d'aide au traitement des requêtes contentieuses de masse et sériel
 sponsors:
   - /organisations/interieur
 incubator: FabNum-MI
 contact: arnaud.deloit@interieur.gouv.fr
 accessibility_status: non conforme
 events:
-  - name: committee
-    date: 2023-06-20
+  - name: product_launch
+    date: 2025-12-04
+    comment: Partage du produit minimum viable aux utilisateurs
 phases:
   - name: investigation
     start: 2023-01-16
@@ -17,34 +18,38 @@ phases:
     start: 2024-05-02
 thematiques:
   - Administratif
-usertypes: []
-techno: []
+usertypes:
+  - etat
+techno:
+  - python
 link: ''
 ---
 ## Contexte
-
-L’Etat est confronté à des contentieux dits de masse. Cela a conduit à réfléchir aux outils qui pourraient être mis en œuvre pour apporter un soutien aux services devant faire face à des contentieux de masse ou sériel.
+L’État est confronté à une augmentation continue et significative des contentieux, notamment ceux qualifiés de masse ou sériels. Cette évolution exerce une pression croissante sur les services juridiques, confrontés à des volumes de dossiers toujours plus importants. Dans ce contexte, les capacités de traitement des services sont fortement sollicitées, rendant nécessaire la mise en place de dispositifs de soutien afin d'automatiser, sécuriser et optimiser la gestion de ces contentieux.
 
 ## Problème
 
-Les contentieux de masse ou sériel génèrent **un flux important de requêtes.** Elles sont pour une partie d’entre-elles répétitives et stéréotypés. Leur instruction implique la mise en œuvre de tâches chronophages et répétitives qui peuvent placer les services en difficultés. En effet, la charge et le volume de requêtes qui pèsent sur eux, **génèrent des difficultés à faire face au volume important de dossiers. De plus, les services n’ont plus le temps de prendre du recul sur leur activité globale et de développer une vision stratégique.** 
+Les contentieux de masse ou sériels génèrent un afflux constant de requêtes, dont une part importante présente un caractère répétitif et standardisé. Leur instruction repose sur l’exécution de tâches majoritairement manuelles et chronophages à faible valeur juridique, mobilisant durablement les équipes. Cette charge opérationnelle fragilise les services, qui peinent à absorber le volume croissant de dossiers dans des délais maîtrisés et à prendre du recul sur leur activité global et de développer une vision stratégique leur action.
 
 ## Solution
 
-La phase d’investigation a permis de confirmer que, dans un certain nombre de cas, il s’agit d’un **traitement de requêtes stéréotypées qui génèrent des tâches chronophages et répétées pour les rédacteurs.** 
+Astrée est une brique d’intelligence artificielle conçue pour automatiser, fiabiliser et optimiser le traitement des contentieux, en s’intégrant à un SI pour être au cœur des processus d’instruction afin d’accompagner les services juridiques tout au long du cycle de vie des dossiers.
 
-La solution Astree permettrait donc d’automatiser un certain nombre de tâches afin de **rendre l’instruction des dossiers répétitifs et stéréotypés plus efficiente**. L’objectif étant d’**automatiser les tâches à faible valeur ajoutée et générer un gain de temps** dans l’instruction des requêtes. 
+Astrée répond à plusieurs besoins clés structurés en fonctionnalités complémentaires :
+
+* **Identification et qualification des dossiers entrants** : analyse automatisée des requêtes afin de faciliter leur orientation, leur priorisation et leur catégorisation.
+
+* **Production d’une synthèse structurée du dossier** : extraction et consolidation des informations essentielles, comparaison de pièces, détection des faits et des éléments saillants du contentieux.
+
+* **Assistance à la rédaction juridique** : génération d’un brouillon de mémoire en défense fondé sur l’analyse du dossier et des éléments disponibles, destiné à être relu, enrichi et validé par l’expertise humaine.
+
+En automatisant ces tâches répétitives et chronophages, Astrée permet de recentrer les équipes sur l’analyse juridique à forte valeur ajoutée. Elle contribue ainsi à une amélioration significative des délais de traitement, de la qualité des productions et de la capacité des services à piloter leur activité de manière plus stratégique.
+
 
 ## Stratégie
 
-**L’objectif est de développer l’outil Astree en deux temps.** 
+La stratégie de déploiement d’Astrée repose sur une approche itérative et pragmatique, fondée sur l’évaluation continue de son impact auprès des utilisateurs, l’agilité et l’amélioration continue. Une première version du produit a été remis aux utilisateurs le 4/12/2025. Chaque évolution fonctionnelle est progressivement déployée, testée et ajustée afin de garantir son adéquation aux usages opérationnels.
 
-Dans un premier temps, il s’agirait de **développer la fonctionnalité de l'outil qui permettrait la constitution automatique d’un bordereau pièces**.
+La trajectoire d'évolution d'Astrée repose sur l'enrichissement fonctionnel progressif de ses modules clés, en particulier la fiche de synthèse et l'assistance à la rédaction du mémoire en défense, afin de dégager du temps pour l'analyse juridique à forte valeur ajoutée. A terme, Astrée pourrait constituer un commun numérique et être intégré en tant que module IA des Systèmes d'Information existants.
 
-* * Identification des faits et moyens d’une requête
-  * Identification des pièces nécessaires à la défense 
-  * Saisine des services ou des outils 
-
-**La constitution du bordereau de pièce étant une tâche chronophage ayant peu de valeur ajoutée,** une telle fonctionnalité permettra aux rédacteurs de dégager du temps pour des tâches plus complexes. 
-
-**Dans un second temps, il s’agirait de développer une fonctionnalité qui permettrait de constituer une fiche de synthèse** afin d’accompagner les rédacteurs dans la rédaction d’une requête.
+Les évolutions sont co-construites avec les utilisateurs métier, en administration centrale comme en préfecture, dans le cadre d'ateliers de type "design thinking" visant à qualifier les besoins, veiller à garantir la conformité des fonctionnalités et sécuriser la planification et l'évaluation des développements.
