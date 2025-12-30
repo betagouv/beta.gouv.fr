@@ -5,7 +5,7 @@ domaine: Développement
 github: MrJimmyChevallier
 missions:
   - start: 2022-04-18
-    end: 2026-01-01
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:

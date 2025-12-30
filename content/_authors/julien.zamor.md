@@ -11,9 +11,8 @@ competences:
 missions:
   - start: 2025-12-19
     end: 2026-03-19
-    employer: Numa
     status: independent
+    employer: Numa
     startups:
       - docurba
-teams: []
 ---
