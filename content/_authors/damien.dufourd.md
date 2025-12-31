@@ -5,17 +5,19 @@ domaine: Coaching
 github: damiendufourd
 missions:
   - start: 2018-09-30
-    end: 2025-03-31
+    end: 2025-12-31
     status: independent
     startups:
       - allo62
       - api.apprentissage
       - catalogue-apprentissage
+      - cestquilepro
       - cmachance
       - conseilregionaljeunesbretagne
       - data-inclusion
       - diagoriente
       - dora
+      - exposition-ij
       - generateur.de.contrat.d.apprentissage
       - gladpourtous
       - idquart
@@ -25,6 +27,7 @@ missions:
       - nis2
       - pau-partage
       - peps
+      - pilotagevoiepro
       - refugies.info
       - reuni
       - simone-and-co
@@ -32,17 +35,14 @@ missions:
       - themis
       - trait-d-union
   - start: 2024-09-03
-    end: 2026-01-30
+    end: 2026-06-30
     status: independent
     startups:
       - api-and-communs-numeriques-de-la-cour-de-cassation
-      - cestquilepro
       - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne
-      - exposition-ij
       - histologe
       - homologation
       - la-bonne-alternance
-      - pilotagevoiepro
       - portail-greffe-de-la-cour-de-cassation
       - stop-punaises
       - tdb-apprentissage
