@@ -7,7 +7,7 @@ avatar: /img/authors/johnlabuzan.jpeg
 link: https://academie-en-ligne.fr
 missions:
   - start: 2022-11-20
-    end: 2026-01-27
+    end: 2026-04-07
     status: independent
     employer: Malt
     startups:
@@ -37,7 +37,7 @@ missions:
     startups:
       - portail-rse
   - start: 2025-07-01
-    end: 2026-01-27
+    end: 2026-04-30
     status: independent
     employer: Malt
     startups:
@@ -60,4 +60,4 @@ competences:
 teams:
   - /teams/fast-dinum
 ---
-Product design, Marketing digital, SEO, SEA, TikTok 🤘
+Product design, Marketing digital, SEO, SEA🤘

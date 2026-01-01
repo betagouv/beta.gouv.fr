@@ -30,6 +30,10 @@ missions:
     employer: Scopopop
     startups:
       - viz-eau
+  - start: 2025-12-01
+    end: 2026-03-31
+    status: independent
+    employer: DYNERGIE
 badges:
   - segur
 competences:
@@ -39,4 +43,4 @@ competences:
   - Déploiement
 github: C-Sophie
 ---
-Géographe PhD. Expériences passées : presse spécialisée (géopolitique), administration centrale (ANSSI), collectivité territoriale (Cabinet du Maire de Metz, SE (Base Adresse Nationale, Bases Adresses Locales, uMap, Panoramax, Viz'eau)
+Géographe PhD. en mission pour les programmes Panoramax, Chemins ruraux et communaux (Fabrique de la Donnée territoriale de l'IGN) et Viz’eau (Fabrique numérique de l’Écologie). Perso : GeoSophie.eu & Insidemap.eu. Expériences passées : SE (Base Adresse Nationale, Bases Adresses Locales, uMap), collectivité territoriale (Cabinet du Maire de Metz), administration centrale (ANSSI), presse spécialisée (géopolitique).

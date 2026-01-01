@@ -18,19 +18,19 @@ missions:
     startups:
       - aldo
   - start: 2023-06-12
-    end: 2026-01-28
+    end: 2026-06-30
     status: independent
-    employer: Numa
+    employer: Dynergie
     startups:
       - tacct
   - start: 2024-09-16
     end: 2025-02-28
     status: independent
-    employer: Dynergie
+    employer: Telescoop
     startups:
       - 1-jeune-1-arbre
   - start: 2025-04-30
-    end: 2025-11-20
+    end: 2025-08-31
     status: independent
     employer: Omnicité
     startups:
@@ -40,6 +40,7 @@ competences:
   - Coaching
   - Product design
   - Facilitation
+  - UX
 previously:
   - attractivite.des.territoires
   - aldo
