@@ -11,7 +11,7 @@ missions:
     startups:
       - lannuaire.des.collectivites
   - start: 2023-12-11
-    end: 2026-01-31
+    end: 2026-03-31
     status: independent
     employer: UT7
     startups:

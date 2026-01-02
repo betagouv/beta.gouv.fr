@@ -9,7 +9,7 @@ competences:
   - Python
 missions:
   - start: 2025-07-08
-    end: 2026-01-31
+    end: 2026-02-28
     status: admin
     employer: ANCT
     startups:
