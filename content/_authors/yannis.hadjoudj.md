@@ -1,5 +1,5 @@
 ---
-fullname: Yannis Hadjoujd
+fullname: Yannis Hadjoudj
 role: AI Engineer
 domaine: Data
 link: https://www.linkedin.com/in/yannishadjoudj
@@ -14,4 +14,6 @@ missions:
     end: 2025-12-31
     status: service
     employer: Scopyleft
+    startups:
+      - jacepair
 ---
