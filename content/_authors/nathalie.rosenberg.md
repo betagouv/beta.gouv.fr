@@ -24,6 +24,10 @@ missions:
     employer: path tech
     startups:
       - ecobalyse
+  - start: 2026-01-05
+    end: 2026-05-29
+    status: independent
+    employer: path tech
 previously:
   - exposition-ij
 competences:

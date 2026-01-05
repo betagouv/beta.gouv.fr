@@ -30,7 +30,7 @@ missions:
     startups:
       - je-deviens-etudiant
   - start: 2025-02-12
-    end: 2025-12-31
+    end: 2026-02-28
     status: independent
     employer: LBC
     startups:

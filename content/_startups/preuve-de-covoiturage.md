@@ -34,8 +34,6 @@ phases:
     end: 2021-09-01
   - name: acceleration
     start: 2021-09-01
-  - name: transfer
-    start: 2025-01-01
 fast:
   promotion: 12
   montant: 300000

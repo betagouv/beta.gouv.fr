@@ -8,8 +8,6 @@ missions:
     end: 2026-12-31
     status: admin
     employer: DTNUM
-    startups:
-      - juri-gpt
   - start: 2023-11-20
     end: 2024-09-20
     status: admin

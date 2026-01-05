@@ -1,15 +1,15 @@
 ---
 fullname: Céline Bagault
-role: Chargée de relation
+role: Responsable édito
 domaine: Déploiement
 github: celinebagault
 missions:
   - start: 2023-10-09
-    end: 2026-02-02
+    end: 2026-07-02
     status: independent
     startups:
       - transition-ecologique-des-entreprises
 memberType: beta
 competences: []
 ---
-Et puis j'écris aussi.
+Et puis j'écris pour moi aussi.

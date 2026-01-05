@@ -5,10 +5,11 @@ domaine: Développement
 github: francoisfreitag
 missions:
   - start: 2022-09-05
-    end: 2026-01-01
+    end: 2026-04-05
     status: independent
     employer: Malt
     startups:
+      - la.communaute.de.linclusion
       - les-emplois
 previously:
   - carnet.de.bord

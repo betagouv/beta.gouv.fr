@@ -4,7 +4,7 @@ domaine: Déploiement
 role: Chargée de déploiement
 missions:
   - start: 2023-04-13
-    end: 2026-02-28
+    end: 2025-12-19
     status: independent
     employer: ANCT
     startups:
@@ -15,6 +15,12 @@ missions:
     employer: ANCT
     startups:
       - agents.en.intervention
+  - start: 2026-01-05
+    end: 2026-06-29
+    status: independent
+    employer: Malt
+    startups:
+      - jeveuxaider
 memberType: beta
 competences:
   - Croissance

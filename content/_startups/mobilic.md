@@ -6,6 +6,7 @@ contact: contact@mobilic.beta.gouv.fr
 accessibility_status: partiellement conforme
 usertypes:
   - entreprise
+  - etat
 stats_url: https://mobilic.beta.gouv.fr/stats
 title: Mobilic
 sponsors:
@@ -41,6 +42,9 @@ events:
   - name: other
     date: 2025-03-06
     comment: 'Parution de l''arrêté: Mobilic devient la seule solution 100% numérique conforme'
+  - name: other
+    date: 2025-12-22
+    comment: Homologation de sécurité ferme de 3 ans
 mon_service_securise: true
 techno:
   - python
@@ -96,9 +100,9 @@ Nous avons établi le certificat Mobilic en juillet 2023. Le certificat atteste 
 
 L'indicateur que nous suivons désormais pour mesurer l'impact de Mobilic est le **nombre d'entreprises certifiées**, c'est-à-dire, les entreprises qui ont un taux élevé de conformité à la réglementation. 
 
-Sur 30 000 entreprises concernées par la réglementation, nous estimons à 12 000 celles auprès de qui Mobilic s'adresse en premier lieu (déménagement et transport de marchandises). Début août 2025, **354** d'entre elles recevaient le certificat Mobilic.
+Sur 30 000 entreprises concernées par la réglementation, nous estimons à 12 000 celles auprès de qui Mobilic s'adresse en premier lieu (déménagement et transport de marchandises). Une refonte du certificat Mobilic est intervenue au cours de l'année 2025 pour accompagner les entreprises dans les diverses étapes les menant à un taux élevé de conformité, **1 373** d'entre elles recevaient le certificat Mobilic lors du calcul du 1er novembre 2025.
 
-**➡️ Notre objectif est d'arriver à 2 000 entreprises certifiées lors du calcul du 1er novembre 2025.**
+**➡️ Notre objectif 2025 était d'arriver à 2 000 entreprises certifiées lors du calcul du 1er novembre 2025.**
 
 La croissance anticipée repose sur :
 

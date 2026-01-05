@@ -6,7 +6,7 @@ link: https://freesteph.info
 github: freesteph
 missions:
   - start: 2022-04-07
-    end: 2025-12-31
+    end: 2026-12-31
     status: admin
     employer: DINUM
     startups:

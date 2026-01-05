@@ -9,6 +9,12 @@ missions:
     employer: Ademe
     startups:
       - ecobalyse
+  - start: 2026-01-01
+    end: 2026-04-01
+    status: independent
+    employer: Ademe
+    startups:
+      - ecobalyse
 link: https://www.linkedin.com/in/nicolas-planchenault-46559a58/
 memberType: beta
 competences: []

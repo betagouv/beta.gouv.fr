@@ -45,6 +45,7 @@ events:
 link: https://www.placedasile.beta.gouv.fr/
 accessibility_status: partiellement conforme
 repository: https://github.com/betagouv/place-asile
+stats_url: https://www.placedasile.beta.gouv.fr/usage
 ---
 ## Contexte  
 

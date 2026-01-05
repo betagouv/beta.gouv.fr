@@ -6,7 +6,7 @@ competences:
   - business development
 missions:
   - start: 2025-02-26
-    end: 2025-12-30
+    end: 2026-01-31
     status: independent
     employer: LittleBigConnection
     startups:

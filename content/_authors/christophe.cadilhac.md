@@ -5,7 +5,7 @@ domaine: Développement
 github: cadichris
 missions:
   - start: 2022-10-03
-    end: 2026-01-31
+    end: 2026-06-30
     status: independent
     employer: Omnicité
     startups:

@@ -4,7 +4,7 @@ role: Chargé de déploiement senior
 domaine: Déploiement
 missions:
   - start: 2024-03-05
-    end: 2025-12-30
+    end: 2026-06-30
     status: independent
     employer: Fairness
     startups:

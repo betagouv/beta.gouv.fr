@@ -14,9 +14,12 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-04-04
+  - name: alumni
+    start: 2026-01-05
 events:
   - name: other
     date: 2025-01-17
+techno: []
 link: ''
 ---
 ## Contexte

@@ -9,7 +9,7 @@ missions:
     startups:
       - envergo
   - start: 2024-07-15
-    end: 2025-01-15
+    end: 2026-01-01
     status: independent
     startups:
       - envergo
@@ -18,5 +18,8 @@ missions:
     status: independent
     startups:
       - envergo
+  - start: 2026-01-05
+    end: 2026-04-05
+    status: independent
 competences: []
 ---

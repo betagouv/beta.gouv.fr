@@ -74,7 +74,7 @@ Cette absence de base de données nationale et de référence sur le bâtiment e
 - **des difficultés de croisement & une qualité variable** entre les jeux de données et outils rattachés à l'adresse, au logement ou parfois à la parcelle cadastrale ;
 - **des ralentissements et des coûts importants dans la conduite d'actions publiques et territoriales** (ex : BDD couteuses à maintenir et/ou informations partagées tardivement)
 
-L'objet bâtiment apparaît alors comme le maillon manquant au socle de données géolocalisées pour relier les concepts d'adresses - bâtiment - locaux et parcelles et permettre un pilotage satisfaisant des politiques publiques ; en particulier celles qui concernent la rénovation énergétique, qui nécessitent une vision exhaustive, représentative, actualisée et partagée du parc.
+L'objet bâtiment apparaît alors comme le maillon manquant au socle de données géolocalisées pour relier les concepts d'adresses - bâtiments - locaux et parcelles et permettre un pilotage satisfaisant des politiques publiques ; en particulier celles qui concernent la rénovation énergétique, qui nécessitent une vision exhaustive, représentative, actualisée et partagée du parc.
 
 ## Solution :  rendre efficace et commune l'identification des bâtiments et l'échange d'informations les concernant
 
@@ -108,7 +108,7 @@ Il s’agit ici de démontrer la valeur du RNB, d’identifier les freins et pro
  Il s’agit ici d’expérimenter “l’édition collaborative” en ouvrant le RNB, aux contributeurs désireux de partager leur connaissance sur leur territoire, en leur permettant d'**alimenter, corriger et enrichir directement le RNB**. 
 
 - D’une part, les outils et les modalités d’édition sont co-construits avec une vision terrain permettant de faciliter leur mise en oeuvre technique et de fédérer les parties prenantes, autour du RNB.
-- D’autre part, l’élaboration des règles de gouvernance est rendue possible grâce à la co-construction avec les experts de la donnée géomatique (administrations, collectivités…), réunis dans le cadre du groupe de travail Bâti du [Conseil National de l’Information Géolocalisée](https://cnig.gouv.fr/gt-bati-a25939.html) (CNIG) ; et dont [le standard bâtiment](https://cnig.gouv.fr/gt-bati-a25939.html) est en cours de conception.
+- D’autre part, l’élaboration des règles de gouvernance est rendue possible grâce à la co-construction avec les experts de la donnée géomatique (administrations, collectivités…), réunis dans le cadre du groupe de travail Bâti du [Conseil National de l’Information Géolocalisée](https://cnig.gouv.fr/gt-bati-a25939.html) (CNIG) ; et dont [le standard bâtiment](https://rnb.beta.gouv.fr/definition) est en cours de conception.
 
 
 ###### 3° Renforcer l’impact systémique du RNB, en lui conférant une base juridique, en tant que future donnée de référence

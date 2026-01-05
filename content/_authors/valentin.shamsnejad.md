@@ -13,7 +13,7 @@ missions:
     startups:
       - valorisation.des.stages.pro
   - start: 2024-06-03
-    end: 2025-12-31
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:

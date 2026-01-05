@@ -6,7 +6,7 @@ link: https://www.pierrelemee.fr
 github: pierrelemee
 missions:
   - start: 2022-09-19
-    end: 2025-12-31
+    end: 2026-06-30
     status: independent
     startups:
       - precontentieux.justice

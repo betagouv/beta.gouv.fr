@@ -11,7 +11,7 @@ missions:
     startups:
       - mps
   - start: 2020-09-01
-    end: 2025-12-31
+    end: 2026-03-31
     status: independent
     employer: octo, malt
     startups:

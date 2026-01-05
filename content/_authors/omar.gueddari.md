@@ -7,7 +7,7 @@ missions:
   - start: 2025-09-16
     end: 2026-02-28
     status: service
-    employer: Scopyleft
+    employer: Scopyleft - Inop's -UGAP
     startups:
       - assistant-rh
 github: OmarGUEDDARI
