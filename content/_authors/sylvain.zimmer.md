@@ -23,7 +23,7 @@ competences:
   - Coaching
 missions:
   - start: 2025-01-15
-    end: 2025-12-31
+    end: 2027-01-15
     status: admin
     employer: EIG
     startups:

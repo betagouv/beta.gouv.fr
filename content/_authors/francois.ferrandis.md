@@ -10,6 +10,12 @@ missions:
     employer: Scopyleft
     startups:
       - rdv-service-public
-competences: []
+competences:
+  - Ruby
+  - Développement Backend
+  - Développement Full-stack
+  - Metabase
+  - PostgreSQL
+  - Sécurité informatique
 ---
 Développeur web

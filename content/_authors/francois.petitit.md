@@ -15,6 +15,5 @@ missions:
     status: service
     employer: OCTO
     startups:
-      - data-dsn
       - messagerie
 ---

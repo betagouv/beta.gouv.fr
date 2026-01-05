@@ -4,7 +4,7 @@ role: Intrapreneure
 domaine: Intraprenariat
 missions:
   - start: 2023-01-03
-    end: 2026-07-31
+    end: 2026-12-31
     status: admin
     startups:
       - tacct

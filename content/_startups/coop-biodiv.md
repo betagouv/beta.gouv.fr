@@ -24,13 +24,13 @@ link: ''
 
 L’effondrement de la biodiversité et les pressions qu'elle subit sont largement documentés :
 
-* 30% des oiseaux des champs ont déjà disparu en France en 15 ans
+* 30% des oiseaux des champs ont déjà disparu en France en 15 ans ;
 
-* 72% du territoire hexagonal est exposé à un niveau élevé de pollution lumineuse
+* 72% du territoire hexagonal est exposé à un niveau élevé de pollution lumineuse ;
 
-*  75 % des écosystèmes terrestres et 66 % des milieux marins sont altérés par l’action de l’homme
+*  75 % des écosystèmes terrestres et 66 % des milieux marins sont altérés par l’action de l’homme ;
 
-* 65 758 ha sont artificialisés en moyenne par an
+* L’artificialisation des sols est la 1ère cause de l’érosion de la biodiversité et 65 758 ha sont artificialisés en moyenne par an.
 
 (*source ONB, Rapport Planète vivante, IPBES)*
 

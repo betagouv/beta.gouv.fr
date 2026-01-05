@@ -5,7 +5,7 @@ link: http://sigill.org
 github: glibersat
 missions:
   - start: 2021-05-10
-    end: 2026-01-28
+    end: 2026-06-28
     status: independent
     employer: Malt
     startups:

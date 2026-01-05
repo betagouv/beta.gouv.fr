@@ -8,7 +8,7 @@ competences:
   - Administration Publique
 missions:
   - start: 2024-09-02
-    end: 2026-01-31
+    end: 2026-06-30
     status: admin
     employer: CRB TI LAB / DITP / DINUM
     startups:

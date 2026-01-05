@@ -5,7 +5,7 @@ domaine: Coaching
 competences: []
 missions:
   - start: 2025-09-08
-    end: 2026-01-01
+    end: 2026-07-02
     status: service
     employer: Numéricité
 ---

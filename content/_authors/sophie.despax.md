@@ -17,7 +17,7 @@ missions:
     startups:
       - bases.adresses.locales
   - start: 2025-02-06
-    end: 2026-01-06
+    end: 2026-03-06
     status: independent
     employer: référentiel national des bâtiments
     startups:

@@ -11,7 +11,7 @@ missions:
     startups:
       - signaux-faibles
   - start: 2024-04-16
-    end: 2025-12-30
+    end: 2026-06-30
     status: service
     employer: SHODO
     startups:

@@ -4,7 +4,7 @@ role: Co Product Manager/intra
 domaine: Intraprenariat
 missions:
   - start: 2022-03-01
-    end: 2026-01-31
+    end: 2026-07-31
     status: admin
     employer: France Travail
     startups:

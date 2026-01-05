@@ -5,7 +5,7 @@ role: Product Manager
 github: maxime-lecoq
 missions:
   - start: 2021-04-05
-    end: 2026-01-31
+    end: 2026-06-30
     status: independent
     employer: Soltice
     startups:

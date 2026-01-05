@@ -5,13 +5,14 @@ role: Développement
 github: Louifine
 missions:
   - start: 2024-04-15
-    end: 2026-01-14
+    end: 2026-06-30
     status: independent
-    employer: LittleBigConnection
+    employer: Malt
     startups:
       - recommandations-collaboratives
 competences:
   - Accessibilité
   - Développement Frontend
+  - JavaScript/TypeScript
 memberType: beta
 ---

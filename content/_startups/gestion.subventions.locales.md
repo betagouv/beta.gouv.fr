@@ -15,8 +15,10 @@ phases:
 thematiques:
   - Collectivités
   - Administratif
+  - Territoires
 usertypes:
   - etat
+  - collectivite-territoriale
 techno:
   - django
   - python
@@ -53,6 +55,6 @@ L’équipe est composée de :
 - Pierre et Mélanie, intrapreneurs ;
 - Chloé, coach ;
 - Thibault, responsable de portefeuille ;
-- Clarie, UX designer ;
+- Clarie, UX designeuse ;
 - Agnès, développeuse.
 - Maxime, développeur

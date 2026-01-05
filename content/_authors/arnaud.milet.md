@@ -6,7 +6,7 @@ link: https://d-sidd.github.io/
 github: arnaudmilet
 missions:
   - start: 2023-06-26
-    end: 2026-01-30
+    end: 2026-04-30
     status: independent
     employer: UT7
     startups:

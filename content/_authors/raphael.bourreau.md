@@ -11,7 +11,7 @@ competences:
   - Product design
 missions:
   - start: 2025-02-01
-    end: 2026-01-31
+    end: 2027-01-31
     status: admin
     employer: EIG
     startups:

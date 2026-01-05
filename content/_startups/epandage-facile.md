@@ -13,7 +13,7 @@ usertypes:
 sponsors:
   - /organisations/dgpr
 phases:
-  - name: investigation
+  - name: alumni
     start: 2024-04-22
 techno: []
 events:
