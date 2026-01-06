@@ -77,9 +77,6 @@ collections:
     output: true
     permalink: /incubateurs/:title.html
   intras:
-  mooc:
-    output: true
-    permalink: /approche/formation/mooc/:title.html
   phases:
   fasts:
     output: true
@@ -97,12 +94,6 @@ defaults:
     values:
       layout: job
       title: Recrutement
-  - scope:
-      path: ""
-      type: "mooc"
-    values:
-      layout: with-sidebar
-      sidebar: sidebar-approche.html
   - scope:
       path: ""
       type: "fasts"
