@@ -27,6 +27,7 @@ beta.gouv.fr est à la fois une structure, un incubateur et un réseau d’incub
 beta.gouv.fr gère en interne les produits suivants :
 - Le **site beta.gouv.fr**
 - L’**espace membre** (intranet)
+- L'outil **[Standards](https://standards.incubateur.net/)**
 - Le site **[EIG](https://www.eig.numerique.gouv.fr/)**
 - Le site **[Accélérateur d'initiatives citoyennes](https://communs.beta.gouv.fr/)**
 - Le tableau de bord **[Dashlord](https://dashlord.incubateur.net/)**
@@ -571,26 +572,104 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
   </div>
 </div>
 
-<h3 id="plan-2025">Plan d'action 2025</h3>
+<h3 id="bilan-2024">Bilan 2025</h3>
 
-#### Pour tous les périmètres
+<div class="fr-table fr-table--no-caption">
+<table>
+    <caption>Plan d'action de la mise en accessibilité</caption>
+    <thead>
+        <tr>
+            <th>
+                <p><strong>Action</strong></p>
+            </th>
+            <th>
+                <p><strong>Statut</strong></p>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">
+                <p><strong>Pour tous les périmètres</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Capitaliser sur notre catalogue existant en proposant le contenu dans de nouveaux formats</p>
+            </td>
+            <td>
+                <p><strong>À continuer.</strong> La majorité de nos formats d'ateliers et webinaires sont maintenant aussi disponibles sous forme de <a href="https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite">documentation</a>.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Créer de nouveaux contenus de formations pour la communauté</p>
+            </td>
+            <td>
+                <p><strong>Fait.</strong> Nous avons produit deux nouvelles documentations : <a href="Apps mobiles et accessibilité">Apps mobiles et accessibilité</a>, <a href="https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/pdf-et-accessibilite">PDF et Accessibilité</a>).</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p><strong>Périmètre 1 (produits internes à beta.gouv.fr)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Rendre le <a href="https://betagouv.github.io/a11y-generateur-declaration/">Générateur de déclaration d'accessibilité</a></p>
+            </td>
+            <td>
+                <p><strong>Fait partiellement.</strong> Nous avons fait des correctifs d'accessibilité sur le Générateur de Déclaration d'accessibilité totalement conforme (94 % de conformité RGAA).</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Améliorer l'accessibilité de nos outils interne</p>
+            </td>
+            <td>
+                <p><strong>En cours. </strong> Plusieurs audits partiels et correctifs d'accessibilité ont été menés sur l'<a href="https://espace-membre.incubateur.net/dashboard">Espace Membre</a> et sur l'outil d'auto-évaluation <a href="https://standards.incubateur.net/">Standards</a>.</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p><strong>Périmètre 2 (produits incubés à la DINUM)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Proposer du mentorat régulier</p>
+            </td>
+            <td>
+                <p><strong>En cours.</strong> Un budget a été débloqué et nous avons constitué une équipe. Les travaux seront lancés en 2026.</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p><strong>Périmètre 3 (produits incubés dans le réseau)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Accompagner les équipes</p>
+            </td>
+            <td>
+                <p><strong>À continuer.</strong> Nous avons accompagné/aidé 58 équipes différentes.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Continuer nos actions de formations et d'accompagnement auprès du réseau</p>
+            </td>
+            <td>
+                <p><strong>À continuer.</strong> Nous avons animé 36 sessions de webinaires (239 personnes présentes) et mené 2 ateliers à destination des incubateurs.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
-- Capitaliser sur notre catalogue existant en proposant le contenu dans de nouveaux formats
-- Créer de nouveaux contenus de formations (Mobile, PDF...) pour la communauté
 
-#### Périmètre 1 (produits internes à beta.gouv.fr)
+<h3 id="plan-2025">Plan d'action 2026</h3>
 
-- Rendre nos outils totalement conforme (Générateur de Déclaration d'accessibilité)
-- Améliorer l'accessibilité de nos outils interne (Espace Membre)
-
-#### Périmètre 2 (produits incubés à la DINUM)
-
-- Proposer du mentorat régulier
-- Accompagner les équipes à élaborer une stratégie de mise en accessibilité, et améliorer la qualité d'accessibilité
-
-#### Périmètre 3 (produits incubés dans le réseau)
-
-- Continuer nos actions de formations et d'accompagnement auprès du réseau
-- [Évaluer l’accessibilité numérique d’un échantillon de services numériques du portefeuille](/accessibilite/evaluation-2024)
-
-
+*En cours de rédaction*
