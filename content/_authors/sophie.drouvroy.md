@@ -14,30 +14,16 @@ missions:
     startups:
       - pass-sport
   - start: 2024-11-14
-    end: 2025-05-31
+    end: 2026-05-29
     status: service
     employer: Brigade d'intervention numérique
     startups:
-      - demarches-simplifiees.fr
       - docs
       - droit-data-gouv-fr-simulateurs-de-droits
       - messagerie
-      - moncomptepro
       - proconnect
       - rdv-service-public
       - sites-faciles
-      - suite-numerique
-      - tchap
-      - visio
-  - start: 2025-05-16
-    end: 2026-03-31
-    status: service
-    employer: Brigade d'intervention numérique
-    startups:
-      - ami
-      - docs
-      - messagerie
-      - proconnect
       - suite-numerique
       - tchap
       - visio

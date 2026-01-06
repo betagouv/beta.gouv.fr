@@ -4,7 +4,7 @@ fullname: Céline Vanhautère
 role: Produit
 missions:
   - start: 2024-06-24
-    end: 2026-02-28
+    end: 2026-07-06
     status: independent
     startups:
       - tacct

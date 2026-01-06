@@ -1,6 +1,6 @@
 ---
 fullname: Elodie ROYANT
-role: Developpeuse à Aidants Connect
+role: Developpeuse à CSPLab
 domaine: Développement
 github: Atheane
 link: https://www.linkedin.com/in/elodie-royant-472b00b/
@@ -15,7 +15,7 @@ competences:
   - Développement Frontend
 missions:
   - start: 2025-07-15
-    end: 2026-01-15
+    end: 2025-12-31
     status: independent
     employer: Malt
     startups:

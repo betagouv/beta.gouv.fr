@@ -10,7 +10,7 @@ missions:
     startups:
       - dossierfacile
   - start: 2024-09-11
-    end: 2025-12-30
+    end: 2026-06-30
     status: independent
     employer: Administration+
     startups:
