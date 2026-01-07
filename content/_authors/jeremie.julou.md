@@ -9,7 +9,7 @@ competences:
   - Croissance
 missions:
   - start: 2025-03-29
-    end: 2026-01-31
+    end: 2026-01-30
     status: independent
     employer: Dynergie
     startups:

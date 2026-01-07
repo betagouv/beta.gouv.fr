@@ -11,7 +11,7 @@ missions:
     startups:
       - dossierfacile
   - start: 2025-03-31
-    end: 2026-02-04
+    end: 2026-07-04
     status: independent
     employer: Scopopop
     startups:

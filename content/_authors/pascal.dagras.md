@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/pascal-dagras-b5052169/
 avatar: img/authors/pascal.dagras.jpg
 missions:
   - start: 2021-07-12
-    end: 2025-12-31
+    end: 2026-04-05
     status: admin
     employer: CGDD
     startups:

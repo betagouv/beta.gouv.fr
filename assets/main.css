@@ -647,3 +647,59 @@ iframe.graph.h800 {
   margin-bottom: 2.5rem;
   margin-top: -1rem;
 }
+
+ul.standards {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.standards li {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+ul.standards .category {
+  flex: 0 0 46%;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+ul.standards progress {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 1.5rem;
+  border: 0;
+  background: #DDD;
+  border-radius: 3px;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+::-webkit-progress-bar {
+  background-color: #DDD;
+  border-radius: 3px;
+}
+
+::-webkit-progress-value {
+  background-color: var(--background-action-high-blue-france);
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+progress::-moz-progress-bar {
+  background-color: var(--background-action-high-blue-france);
+}
+
+ul.standards .score {
+  flex: 0 0 auto;
+  min-width: 2rem;
+  text-align: right;
+}
+
+.fr-text--dimmed {
+  color: #666;
+}

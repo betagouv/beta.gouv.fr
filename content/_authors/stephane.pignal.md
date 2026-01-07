@@ -5,7 +5,7 @@ domaine: Déploiement
 github: stephane-pignal
 missions:
   - start: 2024-03-04
-    end: 2026-01-31
+    end: 2026-06-30
     status: service
     employer: Pathtech
     startups:

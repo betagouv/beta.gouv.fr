@@ -5,7 +5,7 @@ domaine: Produit
 competences: []
 missions:
   - start: 2025-08-18
-    end: 2026-01-28
+    end: 2026-03-30
     status: independent
     employer: Opteamis
     startups:

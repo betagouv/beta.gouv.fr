@@ -21,6 +21,12 @@ missions:
     employer: Malt
     startups:
       - aigle
+  - start: 2025-11-27
+    end: 2026-02-28
+    status: independent
+    employer: Malt
+    startups:
+      - lucca
 badges:
   - segur
 competences:

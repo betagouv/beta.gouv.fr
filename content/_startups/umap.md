@@ -8,6 +8,8 @@ incubator: anct
 phases:
   - name: construction
     start: 2023-05-01
+  - name: alumni
+    start: 2025-12-31
 link: https://umap.incubateur.anct.gouv.fr/
 repository: https://github.com/umap-project/umap/
 stats: false
@@ -23,6 +25,7 @@ usertypes:
   - collectivite-territoriale
   - etablissement-scolaire
   - etat
+techno: []
 ---
 ## Pourquoi uMap ?
 

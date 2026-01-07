@@ -18,7 +18,7 @@ missions:
     startups:
       - dora
   - start: 2024-08-15
-    end: 2025-12-31
+    end: 2026-01-31
     status: independent
     employer: Solstice
     startups:

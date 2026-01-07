@@ -10,8 +10,12 @@ phases:
   - name: investigation
     start: 2023-05-01
     end: 2023-09-06
+  - name: alumni
+    start: 2023-12-31
 thematiques:
   - Mer
+usertypes: []
+techno: []
 link: ''
 ---
 ## Contexte

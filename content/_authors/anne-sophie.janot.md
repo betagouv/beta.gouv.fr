@@ -5,7 +5,7 @@ domaine: Produit
 link: https://www.linkedin.com/in/annesophiejanot/
 missions:
   - start: 2023-08-07
-    end: 2026-04-30
+    end: 2026-05-30
     status: independent
     employer: Malt
     startups:

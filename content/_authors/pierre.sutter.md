@@ -15,7 +15,7 @@ competences:
   - DevOps
 missions:
   - start: 2025-09-26
-    end: 2026-01-30
+    end: 2026-06-30
     status: independent
     employer: Fairness
     startups:

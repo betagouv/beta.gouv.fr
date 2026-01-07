@@ -5,7 +5,7 @@ role: Lead Technique
 github: moroine
 missions:
   - start: 2023-06-05
-    end: 2025-12-31
+    end: 2025-09-30
     status: independent
     employer: UT7
     startups:

@@ -8,6 +8,4 @@ missions:
     end: 2025-09-21
     status: admin
     employer: ANCT
-teams:
-  - /teams/anct
 ---

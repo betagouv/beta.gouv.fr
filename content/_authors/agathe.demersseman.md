@@ -5,10 +5,9 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2024-10-09
-    end: 2026-03-09
-    employer: Médiathèque du patrimoine et de la photographie
+    end: 2026-03-31
     status: admin
+    employer: Médiathèque du patrimoine et de la photographie
     startups:
       - pop
-teams: []
 ---

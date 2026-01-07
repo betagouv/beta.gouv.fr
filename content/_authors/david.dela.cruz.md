@@ -11,7 +11,7 @@ missions:
     startups:
       - boite.aux.lettres
   - start: 2025-06-30
-    end: 2025-12-30
+    end: 2026-07-05
     status: independent
     employer: ut7
     startups:

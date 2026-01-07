@@ -11,11 +11,17 @@ missions:
     startups:
       - snu
   - start: 2025-05-21
-    end: 2025-12-31
+    end: 2025-09-30
     status: independent
     employer: ut7
     startups:
       - grist.numerique.gouv.fr
+  - start: 2026-01-04
+    end: 2026-04-05
+    status: independent
+    employer: Malt
+    startups:
+      - suite-numerique
 memberType: beta
 competences:
   - Croissance

@@ -13,7 +13,7 @@ missions:
     startups:
       - pass-sport
   - start: 2025-03-03
-    end: 2025-12-31
+    end: 2026-04-05
     status: independent
     employer: Malt
     startups:

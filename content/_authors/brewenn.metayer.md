@@ -5,7 +5,7 @@ role: Responsable de l'ouverture des données
 github: Brewennn
 missions:
   - start: 2024-04-08
-    end: 2025-12-31
+    end: 2026-06-01
     status: independent
     employer: Pathtech
     startups:

@@ -4,7 +4,7 @@ role: EIG CIO
 domaine: Intraprenariat
 missions:
   - start: 2023-03-28
-    end: 2025-01-31
+    end: 2026-06-30
     status: independent
     startups:
       - vigieau

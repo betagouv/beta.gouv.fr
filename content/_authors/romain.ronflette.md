@@ -24,4 +24,5 @@ competences:
   - Product strategy
   - UI
   - Facilitation
+  - Coaching
 ---

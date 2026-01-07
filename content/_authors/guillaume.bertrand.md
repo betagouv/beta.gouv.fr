@@ -10,7 +10,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-03-25
-    end: 2026-02-03
+    end: 2026-04-05
     status: independent
     employer: LBC
     startups:
@@ -22,7 +22,7 @@ missions:
     startups:
       - plusfraichemaville
   - start: 2025-09-12
-    end: 2026-02-03
+    end: 2026-04-05
     status: independent
     employer: LBC
     startups:

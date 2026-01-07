@@ -5,7 +5,7 @@ domaine: Coaching
 link: https://www.linkedin.com/in/dboucardplanel/
 missions:
   - start: 2023-04-24
-    end: 2025-12-31
+    end: 2026-06-30
     status: independent
     employer: Ground
     startups:

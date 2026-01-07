@@ -61,4 +61,4 @@ Enfin, en tant qu'outil central, Signal Logement participe à la construction d'
 
 ## Territoires concernés
 
-80 départements déjà couverts : La liste des territoires est accessible sur la page Statistiques du service.
+87 départements déjà couverts : La liste des territoires est accessible sur la page Statistiques du service.

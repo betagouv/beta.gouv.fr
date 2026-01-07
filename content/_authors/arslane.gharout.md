@@ -5,7 +5,7 @@ domaine: Déploiement
 github: arslanegharout
 missions:
   - start: 2023-05-17
-    end: 2025-12-31
+    end: 2026-06-16
     status: independent
     employer: malt
     startups:

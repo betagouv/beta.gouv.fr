@@ -13,7 +13,7 @@ missions:
       - disinfo
       - open-terms-archive
   - start: 2021-10-13
-    end: 2025-12-31
+    end: 2026-01-31
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
     startups:

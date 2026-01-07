@@ -68,11 +68,12 @@ Inspiré du principe « pollueur-payeur », le dispositif de REP implique que le
 
 Pour les **collectivités, associations, entreprises et médias**, Longue vie aux objets met à disposition des **outils numériques gratuits de sensibilisation au tri et à la consommation responsable** qui valorisent les acteurs de l'économie sur chaque territoire.
 
-Deux outils sont disponibles :
-* **[L'assistant au tri "Que faire de mes objets & déchets"](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv)**, avec une **approche conseil**, aide les citoyens à **comprendre le cycle de vie des objets, pour cesser de les jeter**. Les citoyens sont guidés pour se désencombrer de façon responsable.
-* **[La carte des acteurs de l'économie circulaire](https://longuevieauxobjets.ademe.fr/lacarte/?mtm_campaign=FicheBetaGouv)**, avec une **approche géolocalisée**, met en avant les **solutions locales pour prolonger la vie de ses objets**. Les citoyens découvrent de bonnes adresses autour de chez eux pour mieux consommer.
+Trois outils sont disponibles :
+* [L'assistant au tri "Que faire de mes objets & déchets"](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv), avec une approche conseil, aide les citoyens à comprendre le cycle de vie des objets, pour cesser de les jeter. Les citoyens sont guidés pour se désencombrer de façon responsable.
+* [La carte des acteurs de l'économie circulaire](https://longuevieauxobjets.ademe.fr/lacarte/?mtm_campaign=FicheBetaGouv), avec une approche géolocalisée, met en avant les solutions locales pour prolonger la vie de ses objets. Les citoyens découvrent de bonnes adresses autour de chez eux pour mieux consommer.
+* [Les données des acteurs de l'économie circulaire](https://www.data.gouv.fr/datasets/acteurs-de-leconomie-circulaire-longue-vie-aux-objets), accessibles en open-data, pour que les données puissent être réutilisées facilement.
 
-Nous allons rendre progressivement toutes nos  **[données accessibles en open-data](https://longuevieauxobjets.ademe.fr/reutiliser-nos-donnees/?mtm_campaign=FicheBetaGouv)** pour qu'elles puissent être réutilisées facilement.
+
 
 Nous souhaitons devenir la **référence nationale des solutions de tri et de consommation responsable**, en valorisant les acteurs de l’économie circulaire et en diffusant nos outils gratuitement.
 
@@ -98,11 +99,6 @@ Nous prévoyons un déploiement progressif de nos outils sur les sites des colle
 Longue vie aux objets est un service numérique conçu selon l’**approche Startup d’État et piloté par l’impact**.
 
 Pour mesurer l'impact de nos outils, nous nous fixons des objectifs et des indicateurs.
-
-Nos 3 principaux objectifs sont :
-* **Fiabiliser et enrichir les données**
-* **Démultiplier la réutilisation de nos outils** (avec un focus sur les collectivités en 2024)
-* **Orienter nos utilisateurs vers les pratiques les plus responsables** 
 
 Notre **indicateur principal "étoile du nord"** est le **nombre de visiteurs orientés mensuellement**, soit les visiteurs qui ont réellement eu des interactions avec un de nos outils (consultation d'une fiche produit ou d'un lieu sur la carte). 
 

@@ -19,7 +19,7 @@ missions:
       - 1000.jours
       - fiche.commune.entreprise.fce
   - start: 2022-10-08
-    end: 2025-12-31
+    end: 2026-03-31
     status: independent
     employer: Littlebigconnection
     startups:

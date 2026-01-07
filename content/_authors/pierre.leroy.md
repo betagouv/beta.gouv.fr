@@ -11,7 +11,7 @@ competences:
   - Machine learning
 missions:
   - start: 2025-08-26
-    end: 2025-12-31
+    end: 2026-05-26
     status: service
     employer: Omnicité
     startups:

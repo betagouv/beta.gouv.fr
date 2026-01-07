@@ -17,7 +17,7 @@ missions:
     startups:
       - collectif_objets
   - start: 2024-03-05
-    end: 2026-01-31
+    end: 2026-06-30
     status: independent
     employer: NUMA
     startups:

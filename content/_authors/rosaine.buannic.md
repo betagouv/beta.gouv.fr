@@ -14,6 +14,9 @@ missions:
     employer: malt
     startups:
       - infrastructures.numeriques
+  - start: 2026-01-01
+    end: 2026-06-01
+    status: independent
 memberType: beta
 competences: []
 ---

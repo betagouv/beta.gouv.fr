@@ -21,10 +21,19 @@ missions:
       - api.prevention
       - depenses-eclairees
       - infomedicament
-      - investigation-cour-d-appel-de-paris
       - medistock
       - teleconsultation-ald
       - tous.a.bord
+  - start: 2025-09-01
+    end: 2028-12-31
+    status: admin
+    employer: dinum
+    startups:
+      - assistant-rh
+      - document-ia
+      - investigation-cour-d-appel-de-paris
+      - jacepair
+      - languia
 previously:
   - collectif_objets
 badges:

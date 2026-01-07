@@ -10,7 +10,7 @@ competences:
   - Communication
 missions:
   - start: 2025-10-13
-    end: 2026-01-31
+    end: 2026-04-30
     status: independent
     employer: ut7
     startups:

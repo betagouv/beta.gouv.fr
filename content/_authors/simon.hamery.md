@@ -6,7 +6,7 @@ github: Shamzic
 link: https://www.linkedin.com/in/shamery/
 missions:
   - start: 2022-09-05
-    end: 2025-12-31
+    end: 2026-06-05
     status: independent
     employer: Malt
     startups:
@@ -21,4 +21,4 @@ competences:
   - UI
   - UX
 ---
-Développeur web, basketteur et cycliste engagé dans la transition écologique
+Développeur engagé dans la transition écologique
