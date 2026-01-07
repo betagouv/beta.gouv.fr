@@ -572,7 +572,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
   </div>
 </div>
 
-<h3 id="bilan-2024">Bilan 2025</h3>
+<h3 id="bilan-2025">Bilan 2025</h3>
 
 <div class="fr-table fr-table--no-caption">
 <table>
