@@ -13,7 +13,7 @@ missions:
     startups:
       - sndv_maritime
   - start: 2025-04-16
-    end: 2026-01-31
+    end: 2026-04-30
     status: independent
     employer: Malt
     startups:

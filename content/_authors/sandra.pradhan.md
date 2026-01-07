@@ -8,7 +8,7 @@ competences:
   - Business development
 missions:
   - start: 2025-06-17
-    end: 2025-12-31
+    end: 2026-02-28
     status: independent
     employer: PathTech
     startups:

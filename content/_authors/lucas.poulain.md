@@ -15,4 +15,10 @@ missions:
     employer: Malt
     startups:
       - droit-data-gouv-fr-simulateurs-de-droits
+  - start: 2025-12-15
+    end: 2026-02-27
+    status: independent
+    employer: Omnicité
+    startups:
+      - csplab
 ---

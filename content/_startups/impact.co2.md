@@ -42,6 +42,10 @@ events:
     date: 2024-06-11
   - name: committee
     date: 2024-12-10
+  - name: committee
+    date: 2025-06-17
+  - name: committee
+    date: 2025-12-08
 ---
 ## Problème 👀
 

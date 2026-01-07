@@ -5,7 +5,7 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2025-08-01
-    end: 2026-01-31
+    end: 2026-06-30
     status: admin
     employer: SGAR PACA
 ---

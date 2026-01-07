@@ -1,8 +1,8 @@
 ---
 fullname: Juliette Dixmier
-domaine: Déploiement
+domaine: Produit
 github: JDixmier
-role: PO / Chargée de déploiement
+role: Responsable de produit
 missions:
   - start: 2021-08-23
     end: 2022-10-14
@@ -17,7 +17,7 @@ missions:
     startups:
       - eimis
   - start: 2024-06-01
-    end: 2026-01-31
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:
@@ -25,8 +25,8 @@ missions:
 badges:
   - segur
 competences:
-  - Communication
-  - Gestion de Produit
-  - Croissance
   - Product strategy
+  - Facilitation
+  - Communication
+  - Matomo
 ---

@@ -1,6 +1,6 @@
 ---
 fullname: Elsa Le Duigou
-role: Responsable portefeuille Santé, Solidarités, Cybersécurité et IA
+role: Responsable de l'accompagnement des ministères (ALLiaNCE)
 domaine: Animation
 github: pouredfromamold
 missions:
@@ -44,3 +44,4 @@ teams:
 link: https://www.linkedin.com/in/elsa-le-duigou-869bb311b/
 competences: []
 ---
+J'aide les administrations quand elles ont des cas d'usage IA adhérents à leur gestes métiers. 
