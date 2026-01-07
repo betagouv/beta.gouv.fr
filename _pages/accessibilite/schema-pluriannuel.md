@@ -607,7 +607,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
                 <p>Créer de nouveaux contenus de formations pour la communauté</p>
             </td>
             <td>
-                <p><strong>Fait.</strong> Nous avons produit deux nouvelles documentations : <a href="Apps mobiles et accessibilité">Apps mobiles et accessibilité</a>, <a href="https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/pdf-et-accessibilite">PDF et Accessibilité</a>).</p>
+                <p><strong>Fait.</strong> Nous avons produit deux nouvelles documentations : <a href="https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/bonnes-pratiques-daccessibilite-des-app-mobile">Apps mobiles et accessibilité</a>, <a href="https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/pdf-et-accessibilite">PDF et Accessibilité</a>).</p>
             </td>
         </tr>
         <tr>
