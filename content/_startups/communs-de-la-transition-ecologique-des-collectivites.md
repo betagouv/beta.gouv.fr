@@ -1,15 +1,15 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: jean.perret@beta.gouv.fr
+contact: thomas.guillory@numerique.gouv.fr
 thematiques:
   - Écologie
   - Collectivités
 usertypes:
   - collectivite-territoriale
   - etat
-title: Les Communs de la transition écologique des collectivités
-mission: Maximiser l’impact global des services numériques publics pour la transition écologique des collectivités
+title: API Projets Collectivités
+mission: Faire circuler les données des projets de transition écologique entre les services publics numériques
 incubator: dinum
 sponsors:
   - /organisations/dinum
@@ -22,6 +22,7 @@ phases:
 events:
   - name: product_launch
     date: 2024-10-16
+    comment: V1 (base de données + widget)
 techno:
   - typescript
 repository: https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites
@@ -29,77 +30,76 @@ stats_url: https://les-communs-transition-ecologique-api-prod.osc-fr1.scalingo.i
 impact_url: https://les-communs-transition-ecologique-api-prod.osc-fr1.scalingo.io/statistics/
 link: ''
 ---
-## Problème
+### Problème
 
-Les collectivités territoriales sont un maillon essentiel de la transition écologique française. La déclinaison des objectifs nationaux de réductions des émission carbones et de préservation de la biodiversité repose sur les actions mises en oeuvre par ces acteurs territoriaux. 
+Les collectivités territoriales sont accompagnées par plus d'une centaine de services numériques publics pour mener leurs projets de transition écologique. Ces services sont portés par des acteurs publics variés — ADEME, ANCT, Cerema, Banque des Territoires, ministères — et chacun apporte une expertise spécifique. Par exemple : Territoires en Transition pour la planification climat, Mon Espace Collectivité pour l'accompagnement des projets locaux, Cartofriches pour l'identification des friches, Ma Cantine pour la transition alimentaire, Aquagir pour la gestion de l'eau, et bien d'autres.
 
-De nombreux services numériques publics permettent d’accompagner les collectivités dans le diagnostic, la mise en oeuvre, le suivi de plan d’actions et l’accélération de projets de territoires.
+**Le constat, côté collectivités** : chaque service demande de re-saisir les mêmes informations — nom du projet, porteur, avancement, budget, territoire concerné. Une même collectivité peut déclarer le même projet sur 3, 4 ou 5 plateformes différentes. En plus de cette re-saisie, le parcours utilisateur n'est pas pensé de manière cohérente entre ces plateformes : systèmes d'authentification multiples, vocabulaires différents pour parler des mêmes concepts...
 
-Pourtant, cette offre de services souffre d’un manque de **lisibilité** et **d’interopérabilité** auprès des collectivités : 
+**Le constat, côté équipes produits** : chaque service développe sa propre base de projets, sans lien avec les autres. Les équipes aimeraient enrichir leurs données avec celles d'autres services, mais aucune infrastructure commune n'existe pour le permettre. Les possibilités seraient pourtant nombreuses :
 
-- Il est difficile pour une collectivité d’identifier les services numériques les plus pertinents pour accélérer la mise en oeuvre de ses projets
-- Il est laborieux de devoir toujours re-renseigner les mêmes informations à chaque nouvelle inscription à un nouveau service numérique.
+* **Orienter** : en amont, rediriger une collectivité vers les services les plus pertinents selon la nature de son projet
 
-Dans l’objectif d’augmenter l’impact global de ces services numériques pour les collectivités, la Direction interministérielle du numérique (DINUM) et le Secrétariat Générale à la planification écologique (SGPE) ont conduit une mission de convergence des services pour la transition écologique des collectivités financés par le Fonds d’investissement « Numérique et Données » pour la Planification écologique (FINDPE) en 2024. 
+* **Contextualiser** : savoir dans quel plan territorial s'inscrit un projet (PCAET, CRTE...), quels diagnostics ont été réalisés, quel est le plan de financement global
 
-Les conclusions de cette mission ont fait émerger le besoin :
+* **Simplifier** : éviter à l'usager de ressaisir des informations déjà connues ailleurs
 
-- d’une **coordination renforcée des roadmaps** de chaque produit pour garantir une véritable complémentarité des services
-- de **Simplifier** l’expérience des collectivités et favoriser le **dites-le-nous-une-fois** entre les services disponibles
-## Solution
+***
 
-Dans la continuité de cette mission de convergence et afin de simplifier et connecter cet écosystème de services numériques publics pour la transition écologique des collectivités, le SGPE et la DINUM ont lancé la construction de produits numériques incubés à l’Incubateur des services numériques de la DINUM : 
+### Solution
 
-- Une **base de données de *projets de collectivités* de référence**. Cette base s’appuie sur un schema de données commun à l’ADEME, l’ANCT, le CGDD, le SGPE et la DINUM pour catégoriser ces projets. Un outil de qualification automatique permet de catégoriser les projets de collectivités dans ce référentiel.
-- Un **widget d'aiguillage** permettant aux collectivités d'accéder aux services les plus pertinents en fonction de leurs projets . Ce widget a vocation à intégrer des services existants, à commencer par Mon Espace Collectivité, le guichet unique des collectivités.
+Nous construisons une infrastructure de partage de données entre les services numériques de la transition écologique.
 
-Ainsi, chaque collectivité retrouvera facilement les informations renseignées de manière fragmentaires à travers les différents services. De même, l’usager en collectivité découvrira de façon centralisée les services numériques pertinents.
+Concrètement :
 
-Ces deux produits composent la startup d’Etat des communs de la Transition écologique des collectivités. Concrètement, il s’agit d’un ensemble d’API et de composants d’interfaces pour s’intégrer dans d’autres applications déployées. Ce n’es donc pas une nouvelle URL pour les collectivités, mais  plutôt un “liant” entre services existants.
+* **Un schéma de données commun** pour décrire les projets de collectivités, co-construit avec l'ADEME, l'ANCT, le Cerema, l'IGN, le CGDD, la DINUM et le SGPE
 
-En favorisant la coopération entre services portés par des administrations différentes ( Ademe, ANCT, Cerema, Ministère de la transition écologique, etc…), les communs de la Transition écologique des collectivités jouent pleinement leur rôle interministériel. 
+* **Une API** permettant aux services de partager leurs données projet et de construire des parcours utilisateurs qui évitent la ressaisie
 
-Si les communs de la transition écologique des collectivités constituent la pierre angulaire de cet écosystème, leur efficacité repose sur des bonnes pratiques adoptées progressivement par les services numériques bénéficiaires : 
+* **Des données projet enrichies** : chaque projet peut être complété par les services partenaires — plan territorial dans lequel il s'inscrit (PCAET, CRTE...), diagnostics réalisés, avancement, financement. L'API permet de récupérer ces informations de manière unifiée.
 
-- Dites-le-nous-une-fois :
-    - L’adoption d’un **service d’authentification unique, Pro connect**, pour faciliter le partage d’informations entre services et diminuer la friction pour l’usager
-    - la catégorisation des projets de territoires selon un même schema de données (présenté ci-dessus). Il s’agit de parler le même langage entre services.
-    - le partage de ces projets dans la base de données de *projets de collectivités* de référence tenu par la DINUM et le SGPE
-- Etat plateforme :
-    - La connexion au widget pour orienter l’usager dans son parcours
-    - La création et le maintien d’API pour interfacer les produits numériques entre eux
-- Le partage de règles de bonne conduite :
-    - Capitaliser sur la richesse de l’écosystème avant de développer un nouveau service
-    - Penser d’abord tout nouveau service comme un module interopérable avec l’écosystème plutôt que comme nouvelle interface utilisateur
-    - faire des services numériques bien identifiés, qui ont fait la preuve de leur impact, le socle de l’écosystème
+* **Des briques de découverte** pour aider les collectivités à identifier les services pertinents pour leurs projets (module d'aiguillage, annuaire, ou autres formats à expérimenter)
 
-## Stratégie
+Ce n'est pas un nouveau site pour les collectivités. C'est une couche technique qui connecte les services existants, pour que l'information circule sans que l'usager ait à la ressaisir.
 
-**Développement des communs** :
+***
 
-Un premier POC (produit minimum viable) a été réalisé pendant l’été 2024. La construction des Communs a débuté en octobre 2024. 
+### Pour qui ?
 
-SGPE, DINUM, CGDD, Ademe, ANCT se sont accordés schema de données de *projets de collectivités* fin 2024.  
+**Usagers principaux** : les équipes produits des services numériques publics de la transition écologique des collectivités, qui peuvent enrichir leurs données et proposer des parcours plus fluides à leurs utilisateurs
 
-Un premier service de qualification et une base de données des projets de collectivités seront disponibles début 2025. Il s’agira d’accompagner les différents services de l’écosystème dans l’intégration de ce référentiel commun et la connexion à cette base de données.
+**Bénéficiaires finaux** : les agents de collectivités, élus et chargés de mission, qui gagnent du temps et retrouvent leurs projets d'un service à l'autre
 
-Une première version du widget d’aiguillage et d’accès aux différents services de l’écosytème sera mise en ligne en janvier 2025. Mon Espace Collectivité intègrera nativement ce widget dès le premier trimestre 2025. 
+***
 
-**Déploiement** :
+### Stratégie
 
-Le succès des communs de la transition écologique des collectivités repose sur deux pilliers : 
+Nous sommes en phase d'expérimentation. L'enjeu est de démontrer la valeur de l'interopérabilité sur des cas d'usage concrets avant de généraliser.
 
-- l’intégration et la connexion de la base de données et du widget par les services à impact de l’écosystème
-- la capacité du ou des services qui intègrent le widget à se déployer auprès des collectivités
+**Premier cas d'usage pilote (en cours) : Territoires en Transitions et Mon Espace Collectivité**
 
-Dans la première partie de l’année 2025, l’équipe des communs aura donc pour mission d’accompagner les premiers services numériques publics à intégrer les communs. 
+L'objectif est de faire circuler les données projet entre les deux services :
 
-L’ensemble des services pertinents de cet écosystème sont visés par les communs. Impliqués depuis le début de la mission de convergence, les services financés par le FINDPE sont les premiers à se connecter aux communs et devront entraîner les autres services de l’écosystème. 
+* Identifier les objets communs à afficher et synchroniser des deux côtés
 
-**Impact** : 
+* Permettre de rattacher un projet à un plan territorial (PCAET, CRTE...) depuis Mon Espace Collectivité
 
-La métrique de pilotage principale, la north star, suivie est le nombre de nouvelles utilisations de services numériques de l’écosystème public permise par notre produit.
+* Afficher l'avancement de l'accompagnement des projets dans Territoires en Transitions
 
-[Une page statistique](https://les-communs-transition-ecologique-api-staging.osc-fr1.scalingo.io/statistics/) est disponible pour suivre les principaux indicateurs de succès. 
+Ce pilote teste la synchronisation de données entre deux plateformes et nous permet de nous confronter aux difficultés concrètes que cela peut poser.
 
-A terme, l’impact des communs sera mesuré à travers le succès global de l’écosystème connecté dans l’accélération des projets de collectivités pour la transition écologique.
+**Prochaines étapes :**
+
+* Trouver et travailler d'autres cas d'usage pilotes, représentant des défis différents (par exemple : enrichissement de la donnée d'un projet avec des diagnostics)
+
+* Mesurer l'adoption et l'utilité réelle de la base de données partagée et de l'API
+
+* Itérer sur le schéma de données en fonction des retours terrain
+
+***
+
+### Impact
+
+L'indicateur principal suivi (susceptible d'évoluer) :
+
+* **Nombre de projets consultés avec des données enrichies par au moins un service partenaire**

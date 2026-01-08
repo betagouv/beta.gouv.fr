@@ -17,11 +17,17 @@ missions:
     status: independent
     employer: Scopyleft
   - start: 2024-12-02
-    end: 2026-02-15
+    end: 2025-12-19
     status: independent
     employer: /ut7
     startups:
       - donnees-spectacle
+  - start: 2026-01-05
+    end: 2026-07-05
+    status: independent
+    employer: /ut7
+    startups:
+      - suite-numerique
 previously:
   - mediature
   - mon.espace.collectivite

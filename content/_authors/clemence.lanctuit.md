@@ -4,7 +4,7 @@ domaine: Design
 role: Product Designer
 missions:
   - start: 2022-01-13
-    end: 2025-03-28
+    end: 2026-02-28
     status: independent
   - start: 2025-06-18
     end: 2025-12-30

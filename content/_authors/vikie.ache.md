@@ -10,8 +10,14 @@ missions:
     employer: Agglomération de Pau Béarn Pyrénées
     startups:
       - simone-and-co
+  - start: 2020-09-01
+    end: 2026-06-30
+    status: independent
+    employer: Scopyleft
+    startups:
+      - histologe
   - start: 2021-12-01
-    end: 2026-01-30
+    end: 2026-06-30
     status: independent
     employer: Pathtech
     startups:

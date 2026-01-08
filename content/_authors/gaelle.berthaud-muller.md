@@ -6,7 +6,7 @@ github: hannaeko
 competences: []
 missions:
   - start: 2025-09-03
-    end: 2026-02-06
+    end: 2026-05-29
     status: independent
     employer: Little Big Connection
     startups:

@@ -4,7 +4,7 @@ role: Chargé(e) de Support Utilisateurs et Animation de Communauté
 domaine: Animation
 missions:
   - start: 2022-02-28
-    end: 2026-01-31
+    end: 2026-06-30
     status: independent
     startups:
       - jeveuxaider
