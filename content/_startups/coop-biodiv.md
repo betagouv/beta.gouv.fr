@@ -45,7 +45,7 @@ Dans le cadre de leurs missions l'Office Français de la Biodiversité et ses pa
 
 Aujourd’hui, malgré la diversité des initiatives proposées, le cercle des collectivités passant à l'action ou intégrant les enjeux de biodiversité dans leurs projets peine à s'élargir. Invisibilisation de la biodiversité, manque d'accompagnement dans les parcours, complexité des solutions, couts impliqués pour passer à l'action, manque de volonté et de soutient populaire, difficulté à mesurer et communiquer sur les bénéfices collectifs engendrés... autant de raisons pressenties mais à confirmer pour envisager des réponses pertinentes.
 
-Comment aider les agents et élus des collectivités locales à se saisir des ressources existantes sur la biodiversité en actions concrètes efficaces et opérationnelles sur leur territoire ?
+Comment aider les agents et élus des collectivités locales à se saisir des ressources existantes sur la biodiversité pour développer des actions concrètes efficaces et opérationnelles sur leur territoire ?
 
 
 

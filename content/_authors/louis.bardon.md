@@ -1,6 +1,6 @@
 ---
-fullname: louis Bardon
-role: Conseil senior en transformation numérique (conseil interne,Business developpement, Avant vente, makerting,..)
+fullname: Louis Bardon
+role: Conseil senior en transformation numérique (Conseil interne, Business developpement, Avant vente, Marketing,..)
 domaine: Coaching
 missions:
   - start: 2022-08-05
@@ -8,5 +8,8 @@ missions:
     status: admin
     employer: DINUM/ACE/BIN
 link: Http://www.fr.LinkedIn/in/louis-bardon
-competences: []
+competences:
+  - Coaching
+  - Product strategy
+  - Administration Publique
 ---
