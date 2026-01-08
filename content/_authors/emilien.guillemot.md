@@ -1,6 +1,6 @@
 ---
 fullname: Emilien Guillemot
-role: Chargé des relations extérieures
+role: Business Development Lead
 github: EmilienGuillemot
 domaine: Déploiement
 missions:
@@ -10,6 +10,7 @@ missions:
     employer: INETUM - LBC
     startups:
       - bat-id
+      - recosante
 badges:
   - segur
 previously:

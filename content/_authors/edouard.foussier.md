@@ -7,7 +7,7 @@ competences:
   - Python
 missions:
   - start: 2025-09-08
-    end: 2025-12-31
+    end: 2026-02-28
     status: independent
     employer: Scopyleft
     startups:

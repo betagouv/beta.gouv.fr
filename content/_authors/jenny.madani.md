@@ -8,7 +8,7 @@ competences:
   - Coaching
 missions:
   - start: 2025-07-02
-    end: 2025-12-31
+    end: 2026-04-30
     status: independent
     employer: DINUM
     startups:

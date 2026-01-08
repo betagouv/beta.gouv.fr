@@ -9,6 +9,7 @@ competences:
   - Croissance
   - UX
   - Product design
+  - Facilitation
 missions:
   - start: 2025-02-01
     end: 2027-01-31

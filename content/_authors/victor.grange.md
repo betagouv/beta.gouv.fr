@@ -27,18 +27,24 @@ missions:
     employer: NUMA
     startups:
       - envirogend
-  - start: 2025-02-11
-    end: 2025-12-31
+  - start: 2025-01-01
+    end: 2025-12-01
     status: independent
     employer: dynergie
     startups:
       - envirogend
   - start: 2025-05-02
-    end: 2025-10-31
+    end: 2026-06-30
     status: independent
     employer: Little Big Connection
     startups:
       - resultats-elections-fpt
+  - start: 2025-12-01
+    end: 2026-06-30
+    status: independent
+    employer: Malt
+    startups:
+      - envirogend
 competences:
   - Coaching
   - Product strategy

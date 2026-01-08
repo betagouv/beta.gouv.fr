@@ -13,7 +13,7 @@ dashlord_url: https://dashlord.incubateur.net/
 accessibility_status: partiellement conforme
 stats_url: https://zerologementvacant.beta.gouv.fr/statistiques
 stats: true
-budget_url: https://docs.google.com/spreadsheets/d/1rki0Wlrk4hCL0WC8mlHcRlj8rk7iCZ4ed3lyxSa_yec/edit#gid=300205456
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/8
 phases:
   - name: investigation
     start: 2020-03-15
@@ -29,10 +29,14 @@ thematiques:
 usertypes:
   - collectivite-territoriale
   - etat
+  - particulier
 mon_service_securise: true
 techno: []
 analyse_risques: true
 impact_url: https://zerologementvacant.beta.gouv.fr/statistiques
+events:
+  - name: committee
+    date: 2025-09-04
 ---
 ## Faire de la vacance structurelle une ressource pour les territoires
 

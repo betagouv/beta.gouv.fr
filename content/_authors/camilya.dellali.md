@@ -18,10 +18,12 @@ missions:
     startups:
       - demarches-simplifiees.fr
   - start: 2025-08-05
-    end: 2026-02-05
+    end: 2026-06-30
     status: independent
     employer: Scopopop
     startups:
       - demarches-simplifiees.fr
-competences: []
+competences:
+  - Administration Publique
+  - Croissance
 ---

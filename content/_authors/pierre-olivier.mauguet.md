@@ -34,7 +34,7 @@ missions:
     startups:
       - pacoupa
   - start: 2025-03-01
-    end: 2025-12-31
+    end: 2026-12-31
     status: admin
     employer: DGFiP
 competences:

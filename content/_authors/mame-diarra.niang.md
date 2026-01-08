@@ -5,7 +5,7 @@ domaine: Autre
 competences: []
 missions:
   - start: 2023-09-05
-    end: 2026-08-09
+    end: 2026-01-06
     status: admin
     employer: Ademe
     startups:

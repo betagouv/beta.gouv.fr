@@ -11,7 +11,7 @@ missions:
     startups:
       - jeveuxaider
   - start: 2022-09-01
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: MALT
     startups:
@@ -22,7 +22,9 @@ missions:
     employer: NUMA
     startups:
       - 1-eleve-1-stage
+      - experts
       - monstage
+      - ozensemble
   - start: 2025-01-01
     end: 2025-03-31
     status: independent
@@ -30,7 +32,7 @@ missions:
     startups:
       - territoires-en-transitions
   - start: 2025-04-01
-    end: 2025-08-30
+    end: 2026-01-07
     status: independent
     employer: Mednum
     startups:

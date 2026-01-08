@@ -1,6 +1,6 @@
 ---
 fullname: Elvire Baltus
-role: Chargée de développement
+role: 'Envergo - Chargée d''études et déploiement '
 domaine: Développement
 missions:
   - start: 2024-01-08
@@ -21,5 +21,7 @@ missions:
   - start: 2026-01-05
     end: 2026-04-05
     status: independent
+    startups:
+      - envergo
 competences: []
 ---

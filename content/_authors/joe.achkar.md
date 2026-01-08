@@ -13,7 +13,7 @@ missions:
       - api-engagement
       - snu
   - start: 2020-05-18
-    end: 2026-01-31
+    end: 2026-06-30
     status: independent
     employer: Malt - Octo Technology
     startups:

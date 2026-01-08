@@ -32,10 +32,13 @@ impact_url: https://selexpert.anje-justice.fr/stats
 
 Dans le cadre d’une procédure judiciaire, 40 % des missions sont refusées par les experts, faute de disponibilité ou d’adéquation avec leurs domaines de compétence. En résultent une charge de travail supplémentaire pour les magistrats et les greffiers, et donc des retards importants sur le démarrage des procédures pour le justiciable.
 
-## Objectifs
+## Objectif
 
-- Permettre une meilleure gestion des procédures grâce à la pré-sélection et la désignation dématérialisées du bon expert, en un temps limité.
-- Réduire les délais des justice.
+Réduire les délais de justice :
+
+- en permettant une meilleure gestion des procédures grâce à la pré-sélection et la désignation dématérialisées du bon expert, en un temps limité
+- en facilitant le travail quotidien des agents des juridictions et en leur faisant gagner du temps
+- en fluidifiant les relations et les échanges entre les juridictions et les experts
 
 ## Solution
 
@@ -48,7 +51,7 @@ Un outil permettant la sélection éclairée et la désignation rapide des exper
 
 ## Impact
 
-- Moins de 7 % de missions refusées par les experts
+- Moins de 6 % de missions refusées par les experts
 - Un délai de réponse des experts réduit à 18 heures en moyenne
 - 70 % de désignations effectives en moins de 72 heures
 
