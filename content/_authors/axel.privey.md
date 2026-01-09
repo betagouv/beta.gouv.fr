@@ -16,6 +16,12 @@ missions:
     employer: Agence Nationale des Données de Voyage
     startups:
       - andv-aerien
+  - start: 2025-01-01
+    end: 2026-07-08
+    status: admin
+    employer: DNGCD
+    startups:
+      - anais
   - start: 2025-02-10
     end: 2025-12-31
     status: admin

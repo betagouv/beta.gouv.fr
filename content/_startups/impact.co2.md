@@ -1,6 +1,6 @@
 ---
 title: Impact CO2
-mission: Le site internet qui vulgarise et valorise les données environnementales de l'ADEME
+mission: La bibliothèque de ressources numériques pour communiquer sur l’impact carbone, à partir de l'expertise ADEME.
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -47,88 +47,99 @@ events:
   - name: committee
     date: 2025-12-08
 ---
+[Impact CO₂](https://impactco2.fr) est le service public numérique de référence pour diffuser, à grande échelle, les ordres de grandeur carbone auprès de millions de citoyens via les médias, les entreprises, les collectivités et les services publics.
+
 ## Problème 👀
 
-L’environnement est un **sujet fort et complexe**, de plus en plus adressé sur la scène publique et médiatique, au risque de se retrouver parfois noyé sous un flot d’actualités qui ne facilite pas sa bonne compréhension par le grand public.
-
-Sur la **thématique de l'impact carbone**, une démarche de compréhension et d'appropriation des données scientifiques est nécessaire pour tous les acteurs qui diffusent de l’information et sensibilisent les citoyens et citoyennes (médias, entreprises, politiques, associations, Éducation, etc.).
-
-Sans expertise ou connaissance forte sur le sujet, cela implique une barrière à l'entrée et un **travail chronophage de retraitement des données** - lorsqu'elles sont accessibles ouvertement et gratuitement - pour les exploiter afin d’en retirer des enseignements à diffuser à leurs cibles directes.
-
-En outre, face à la **pluralité des canaux d’information et des formats de communication**, ces acteurs, qui sont des accélérateurs de la transition écologique, témoignent d'une difficulté à trouver les bonnes ressources adaptées à leur contenu. Or toute la pertinence et la validité des messages diffusés dépendent de l’accès à une **information scientifique de qualité, ouverte, sourcée, à jour et fiabilisée**.
+L’impact environnemental est de plus en plus présent dans le débat public, mais reste **difficile à comprendre et à hiérarchiser** pour le grand public. Sur la question de **l’empreinte carbone**, la compréhension des données scientifiques et des ordres de grandeur est un **pré-requis indispensable** pour informer et sensibiliser efficacement les citoyens, et éviter les idées pré-conçues ou les intuitions qui peuvent être erronées. 
 
 L’exemple du numérique est relativement parlant : multiplié par des milliards d’envois, l’impact des e-mails à l’échelle planétaire est nécessairement important. Pour autant, cette information, même chiffrée en tonnes de CO2e, détourne les citoyens des enjeux de taille : garder son smartphone le plus longtemps possible si l’on reste dans le secteur du numérique, ou manger moins de viande si l’on élargit le spectre (30 To de mails stockés 1 an émettent autant que 1 repas au bœuf).
 
-Cette (re)mise en perspective des chiffres dans leur contexte, et leur intelligibilité pour des usages "grand public", est un élément clé de la mobilisation collective. Pouvoir s’emparer rapidement des sujets de la transition écologique grâce à des **ressources à la fois pédagogiques, paramétrables et contextualisées** est donc aujourd’hui un enjeu-clé pour tous ces acteurs.
+Les acteurs qui diffusent ces informations (médias, entreprises, collectivités, associations, éducation) font face à une **forte barrière à l’entrée** : complexité des données, manque de temps et d’expertise pour les retraiter, difficulté à identifier des ressources à la fois pédagogiques, adaptées à leurs formats et **scientifiquement fiables**. 
+
+Dans ce contexte, **la fiabilité, la traçabilité et l’actualisation des données** sont déterminantes. Elles relèvent pleinement de la mission de **l’ADEME**. L’absence de repères validés expose à des messages mal interprétés, mal hiérarchisés, voire à des risques de simplification excessive ou de greenwashing.
+
+Disposer de **référentiels carbone clairs, mis en perspective et portés par la caution scientifique de l’ADEME** est donc un enjeu clé pour permettre une sensibilisation efficace et cohérente des citoyens à l’échelle nationale.
 
 ## Solution 💡
 
-[impactCO2.fr](http://impactco2.fr/) ambitionne d'être une **bibliothèque de ressources de référence** pour les acteurs qui sont à la recherche de contenus informatifs didactiques et fiabilisés sur l’empreinte carbone :
+[impactCO2.fr](http://impactco2.fr/) est la **bibliothèque de ressources numériques de référence** qui  permet aux **professionnels** de communiquer facilement et efficacement sur l’impact carbone à partir des données et expertises de l’ADEME, afin de **sensibiliser les citoyens aux enjeux climatiques**.
 
+Ces ressources s’adressent à une large palette d’acteurs professionnels intéressés pour relayer les outils Impact CO2 sur leurs sites :
+* **Entreprises** (Directions RSE des grands groupes, ETI, PME, start-ups, ,…) ;
+* **Associations, ONG** (événementiel, acteurs liés au climat, ,…) ;
 * **Médias** (grand public, spécialisés,…) ;
-* **Entreprises** (pôles RSE, directions de l’engagement, startups *Green Tech*,…) ;
-* **Associations** (festivals culturels, challenges citoyens,…)
-* **Pouvoirs publics** (Secrétariat général à la Planification écologique via France Nation Verte,…).
+* **Acteurs publics** (Ministères, agences publiques, collectivités, offices du tourisme, ,…)
 
-Les ressources disponibles sur Impact CO2 se présentent sous différentes formes : **simulateurs, comparateurs, graphiques, infographies**, etc.
+Impact CO2 propose plus de **25 ressources / outils numériques** différents en libre accès sur son site, qui se présentent sous différentes formes : **simulateurs, comparateurs, graphiques, infographies, etc**. 
 
-Nos objectifs pour nos relais sont :
-
-* **Vulgariser l’information environnementale** et communiquer les bons ordres de grandeur relatifs à l’empreinte carbone ;
-* **Tracer, enrichir et valoriser les données sources utilisées** afin de garantir la validité des calculs et leur mise à disposition ;
-* **Outiller et fidéliser nos réutilisateurs** avec des ressources personnalisables sur un large panel de thématiques (Alimentation, Transport, Numérique, Chauffage, etc.) ;
-* **Faciliter la diffusion et/ou l’intégration de nos ressources** à de nouveaux contenus de sensibilisation.
+Chaque outil est pensé pour pouvoir **s’intégrer simplement dans les supports numériques des professionnels de manière autonome**, sans que cela ne requiert la moindre compétence technique. Il est systématiquement accompagné du mode d’emploi pour l’intégration, et de **contenus pédagogiques type FAQ** pour comprendre les données présentées, les sources, etc. 
 
 Les données sur lesquelles sont basées les ressources sont en *open data* : [jeux de données ouverts de l'ADEME](https://data.ademe.fr/), [études de l'ADEME](https://librairie.ademe.fr/), [base Empreinte](https://base-empreinte.ademe.fr/) et [base Agribalyse](https://agribalyse.ademe.fr/). Le code source du site et la méthodologie de calcul sont entièrement open source et accessibles sur notre [repo GitHub](https://github.com/datagir/impactco2).
 
-## Stratégie 📈
+## Cibles et objectifs 🎯
+La cible d’Impact CO2 est double : 
+* **Une cible BtoB = les relais** : ce sont les organisations qui relaient les outils Impact CO2 au sein de leurs ressources et supports numériques ;
+* **Une cible BtoC = les citoyens** : ce sont les utilisateurs finaux des outils Impact CO2, à qui s’adresse le contenu des différents formats développés, qu’ils consultant via les intégrations sur les sites des relais.
 
-[Impact CO2](http://impactco2.fr/) rassemble aujourd'hui **près d’1 000 000 visites** depuis son lancement en février 2021, et bénéficie d’une visibilité grandissante auprès des acteurs publics et privés. L'impact recherché est donc d’accroître l'utilisation et le partage du site et des contenus proposés, ceci afin d’**accélérer la diffusion de l'information environnementale pour nos relais et le grand public** (approche B2B2C).
 
-L'approche est simple :
+Les objectifs d’Impact CO2 auprès des **acteurs relais** sont les suivants : 
+* **Mettre à disposition des référentiels carbone fiables et pédagogiques**, pour diffuser des ordres de grandeur clairs et scientifiquement robustes à partir de l’expertise de l’ADEME ;
+* **Garantir la transparence et la traçabilité des données et des méthodes**, afin de sécuriser les usages et renforcer la crédibilité des messages diffusés ;
+* **Outiller les acteurs relais avec des ressources sectorielles, personnalisables et prêtes à l’intégration** (transport, alimentation, numérique, livraison, chauffage…), adaptées à leurs contextes éditoriaux ou métiers ;
+* **Faciliter le déploiement à grande échelle de contenus de sensibilisation**, en s’intégrant simplement aux parcours et supports existants des relais.
 
-* **Développer des kits de diffusion** à destination des cibles prioritaires pour faciliter la prise en main et la diffusion des ressources disponibles sur le site (partages, téléchargements, *iframe*, etc.) ;
-* **Entrer en contact avec des journalistes de médias grand public et spécialisés** à l’audience importante, et être à l’écoute de leurs besoins d’outillage au regard de leur calendrier éditorial ;
-* **Toucher les pôles RSE**, directions de l’Engagement ou directions Communication des grands groupes et startups Green Tech ayant entrepris un virage écologique ou désireux de le faire ;
-* **Proposer des formats innovants** pour les créateurs et créatrices de contenus qui abordent l’écologie par les sujets du quotidien auprès d'une cible citoyenne (Instagram, YouTube, etc.).
+
+
+Les objectifs d’Impact CO2 auprès de **sa cible finale, à savoir les citoyens** : 
+* **Aider à comprendre les ordres de grandeur de l’empreinte carbone des gestes du quotidien**, en mettant en perspective les impacts pour mieux hiérarchiser les enjeux ;
+* **Rendre l’information carbone accessible, fiable et compréhensible**, grâce à des outils pédagogiques, transparents et fondés sur des données publiques de référence ;
+* **Donner des repères utiles pour éclairer les choix du quotidien**, sans culpabilisation, en reliant les chiffres carbone à des situations concrètes ;
+* **S’inscrire dans un parcours citoyen plus large, en facilitant le passage de la compréhension à l’action** via les autres services publics de la transition écologique.
+
+
+## Déploiement  📈
+
+Impact CO2 s'appuie aujourd’hui sur **plus de 250 sites relais** (voir la [Galerie des exemples](https://impactco2.fr/doc/exemples?activity=all&tool=all)), incluant une grande diversité d’acteurs. La stratégie de déploiement est centrée en priorité sur les acteurs ayant une communauté importante en nombre, avec un fort niveau d’engagement et un intérêt par rapport aux thématiques des outils Impact CO2. Parmi les relais phares par catégories d’acteurs, on compte : 
+* **Entreprises** : Le Figaro Immobilier, La Redoute, FNAC - Darty, Cegid, La Poste, AppartCity…
+* **Associations / ONG** : La Fresque du Climat, Greenpeace, Oxfam, Réseau Action Climat, … 
+* **Médias** : France Info, France TV, Le Monde, ID Info Durable, Sud Ouest, Ouest France, … 
+* **Acteurs culturels / sportifs, événementiels** : Stade de France, Rock en Seine, Salon de l’Agriculture, Centre des Monuments Nationaux, Cinémas CGR, Opéra de Paris, …
+* **Acteurs publics** : Ministère de l’économie et des finances, Ministère des Sports, Ministère de l’Agriculture, etudiant.gouv.fr, nombreuses collectivités et offices du tourisme, …
+
+En termes d'utilisateurs finaux, Impact CO2 génère **plus de 4 500 000 visites et vues par an de ses outils** (chiffre 2025, +50% vs. 2024), et bénéficie d’une visibilité grandissante auprès du grand public. L'impact recherché est donc d’accroître l'utilisation et le partage du site et des contenus proposés, ceci afin d’accélérer la diffusion de l'information environnementale pour nos relais et le grand public (approche B2B2C).
 
 ## Impact 🎯
 
-Impact CO2 est un service numérique conçu selon l’**approche Startup d’État** et piloté par l’impact.
+Impact CO2 est un service numérique conçu selon l’approche Startup d’État et piloté par l’impact.
 
-### Indicateur Étoile du Nord ⭐
 
-* Nombre d’utilisations de nos ressources (vues, téléchargements, partages et intégrations *iframe).*
 
-### Métriques de suivi 🖋️
+###### Indicateur Étoile du Nord ⭐
 
-* **Visites** :
 
-  * Nombre de visites par semaine/mois ;
-  * Nombre de visites depuis le lancement ;
-  * Durée des visites sur le site ;
-  * Taux d'interaction avec les simulateurs.
-* **Téléchargements / intégrations** :
 
-  * Nombre de vues et likes des kits de diffusion ;
-  * Nombre de téléchargement des infographies ;
-  * Nombre de téléchargement des simulations ;
-  * Taux d’*iframisation*.
-* **Réutilisateurs** :
+* Nombre d’utilisations de nos ressources (visites, vues, téléchargements, et intégrations iframe).
 
-  * Nombre de réutilisateurs des ressources ;
-  * Nombre de mentions d’Impact CO2.
-* **Satisfaction utilisateur** :
 
-  * Taux de satisfaction des utilisateurs ;
-  * Nombre de likes sur une page de ressource (ex. : Kit Média).
-* **Réseaux sociaux** :
 
-  * Nombre d’abonnés ;
-  * Taux d’engagement ;
-  * Nombre d’impressions et de partages des posts ;
-  * Nombre de mentions d’Impact CO2.
+###### Métriques de suivi 🖋️
 
-Aujourd'hui, une grande partie de ces métriques d’usage et d’impact sont suivies grâce aux **outils Matomo et Hotjar**, et une partie d’entre elles est déjà disponible sur la [page de statistiques de Datagir](https://datagir.ademe.fr/stats/) (menu déroulant “Impact CO2”). Suite à la fin de Datagir et sa séparation en 2 Startups d'État distinctes, nous souhaitons refondre cette page existante et l'intégrer au site Impact CO2.
+**Visites :**
 
-Un **comité d'investissement**, instance de pilotage principal d'un produit numérique dans le programme beta.gouv.fr, aura lieu tous les 6 mois pour faire le point sur l'impact obtenu par l'équipe et arbitrer sur les objectifs et les investissements consentis pour la poursuite du service.
+* Nombre de vues des iFrames intégrés sur les sites tiers (au global et pour chaque outil, suivi mensuel, annuel et cumul depuis la création de la start up)
+* Nombre de visites sur le site impactCO2.fr 
+* Part des vues iFrames dans le nombre global de visites générées (trafic généré sur nos outils sans budget d’acquisition BtoC)
+
+**Interactions :**
+
+* Taux d’interactions avec nos outils (nature de l’indicateur variable selon les outils : Clic, saisie, réalisation du quiz, …)
+
+**Satisfaction utilisateur :**
+* BtoB : enquêtes de satisfaction auprès de nos relais (questionnaire)
+* BtoC : NPS & enquête de satisfaction utilisateurs finaux (en cours de mise en place)
+
+
+Aujourd'hui, une grande partie de ces métriques d’usage et d’impact sont suivies grâce à **Matomo**, et accessibles sur la [page Statistiques](https://impactco2.fr/stats) publique depuis le “footer” du site impactCO2.fr. 
+
+**Un comité d'investissement**, instance de pilotage principal d'un produit numérique dans le programme beta.gouv.fr, a lieu tous les 6 mois pour faire le point sur l'impact obtenu par l'équipe et arbitrer sur les objectifs et les investissements consentis pour la poursuite du service.

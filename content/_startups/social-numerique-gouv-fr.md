@@ -22,16 +22,11 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2023-09-01
-    end: null
   - name: construction
-    comment: null
     start: 2025-01-17
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2023-10-01
 ---
 > social.numerique.gouv.fr n'est pas une start-up d'État mais un projet porté directement par la DINUM dans l'Opérateur de Produits Interministériels.
