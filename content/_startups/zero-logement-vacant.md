@@ -33,7 +33,7 @@ usertypes:
 mon_service_securise: true
 techno: []
 analyse_risques: true
-impact_url: https://zerologementvacant.beta.gouv.fr/statistiques
+impact_url: https://docs.numerique.gouv.fr/docs/868b62f1-f65f-45b9-8cbe-179481ee713a/
 events:
   - name: committee
     date: 2025-09-04
@@ -71,4 +71,4 @@ Les principales fonctionnalités de l'outil :
 
 L’impact principal porte sur la remise sur le marché des logements en situation de vacance structurelle. Le processus de remise sur le marché étant long (1 à 4 ans), nous suivons les logements sortis et en cours de sortis de la vacance.
 
-L'outil a d'autres externalités positives sur la ZAN et les économies carbone en particulier.
+L'outil a d'autres externalités positives sur les économies carbone et le ZAN en particulier.

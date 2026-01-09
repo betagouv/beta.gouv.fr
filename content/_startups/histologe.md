@@ -32,7 +32,7 @@ thematiques:
 analyse_risques: true
 mon_service_securise: true
 techno: []
-budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/7
 impact_url: https://signal-logement.beta.gouv.fr/stats
 events:
   - name: fast

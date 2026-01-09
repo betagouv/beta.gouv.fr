@@ -7,10 +7,9 @@ competences:
 missions:
   - start: 2026-01-02
     end: 2026-04-02
-    employer: Telescoop
     status: service
+    employer: Telescoop
     startups:
       - proconnect
       - suite-numerique
-teams: []
 ---

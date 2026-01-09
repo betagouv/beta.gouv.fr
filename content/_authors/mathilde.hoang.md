@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/mathilde-hoang-01a72a88/
 competences: []
 missions:
   - start: 2024-07-05
-    end: 2025-12-31
+    end: 2026-06-30
     status: independent
     employer: INOPS
     startups:

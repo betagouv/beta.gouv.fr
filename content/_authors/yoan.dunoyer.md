@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: Ministère de la Justice
   - start: 2025-08-05
-    end: 2025-12-31
+    end: 2026-12-31
     status: admin
     employer: Incubateurs
     startups:
@@ -18,5 +18,6 @@ teams:
   - /teams/justice
 badges:
   - segur
+competences: []
 ---
 Développeur, Responsable technique
