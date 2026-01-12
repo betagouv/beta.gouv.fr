@@ -10,7 +10,7 @@ missions:
     startups:
       - refugies.info
   - start: 2024-09-01
-    end: 2026-02-13
+    end: 2026-06-13
     status: independent
     employer: MALT
     startups:
@@ -26,6 +26,12 @@ missions:
     status: independent
     startups:
       - data-inclusion
+  - start: 2025-10-06
+    end: 2026-06-05
+    status: independent
+    employer: Numa
+    startups:
+      - domifa
 teams:
   - /teams/fast-dinum
 competences:

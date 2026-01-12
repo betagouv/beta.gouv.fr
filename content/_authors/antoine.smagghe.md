@@ -9,10 +9,9 @@ competences:
 missions:
   - start: 2026-01-12
     end: 2026-06-11
-    employer: Fairness
     status: independent
+    employer: Fairness
     startups:
       - dialogue
-teams: []
 ---
 Artisan du web, je compose des applications éco-conçues en PHP & JavaScript.

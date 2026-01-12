@@ -26,7 +26,7 @@ techno:
   - spring
   - postgreSQL
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#seLEXpert
-impact_url: https://selexpert.anje-justice.fr/stats
+impact_url: https://docs.numerique.gouv.fr/docs/687ceb61-b8d9-407c-9a1a-e7d373657504/
 ---
 ## Problème
 
