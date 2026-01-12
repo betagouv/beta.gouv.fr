@@ -9,6 +9,18 @@ missions:
     employer: Direction de l'environnement, de l'aménagement et du logement de La Réunion
     startups:
       - prelevements.deau
+  - start: 2026-01-01
+    end: 2026-06-30
+    status: admin
+    employer: Direction de l'environnement, de l'aménagement et du logement de La Réunion
+    startups:
+      - partageons-l-eau
+  - start: 2026-01-01
+    end: 2026-06-30
+    status: admin
+    employer: Direction de l'environnement, de l'aménagement et du logement de La Réunion
+    startups:
+      - partageons-l-eau
 memberType: beta
 competences: []
 ---

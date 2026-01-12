@@ -10,7 +10,7 @@ missions:
     startups:
       - acceslibre
   - start: 2022-02-02
-    end: 2025-12-31
+    end: 2026-12-15
     status: admin
     employer: dinum
     startups:
