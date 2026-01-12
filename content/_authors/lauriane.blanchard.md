@@ -16,6 +16,5 @@ missions:
     startups:
       - bambin
       - guichet-territorial-pour-la-transition-ecologique
-      - terri-story
 ---
 Product Designer UX /UI - TerriStory à Lyon

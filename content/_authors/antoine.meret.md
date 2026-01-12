@@ -11,6 +11,4 @@ missions:
     end: 2026-06-08
     status: independent
     employer: Malt
-    startups:
-      - terri-story
 ---

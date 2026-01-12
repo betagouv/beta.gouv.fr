@@ -12,7 +12,5 @@ missions:
     end: 2026-02-28
     status: admin
     employer: ANCT
-    startups:
-      - terri-story
 link: https://www.linkedin.com/in/matthieu-denoux/
 ---
