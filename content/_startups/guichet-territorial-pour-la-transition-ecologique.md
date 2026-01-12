@@ -35,6 +35,8 @@ events:
     date: 2025-06-01
     comment: Accompagnement des projets
 techno: []
+redirect_from:
+ - /startups/terri-story
 ---
 ## Contexte et mission
 
