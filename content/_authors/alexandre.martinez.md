@@ -1,16 +1,17 @@
 ---
 fullname: Alexandre Martinez
-role: Chargé de déploiement
-domaine: Déploiement
+role: Intrapreneur
+domaine: Intraprenariat
 missions:
   - start: 2023-09-01
     end: 2026-05-01
-    status: independent
+    status: admin
     startups:
       - deveco
 memberType: beta
 link: https://www.linkedin.com/in/alexandre-martinez-2097b3189/
-competences: []
+competences:
+  - Intrapreneur(se)
 teams:
   - /teams/anct
 ---

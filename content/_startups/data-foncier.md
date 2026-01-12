@@ -10,7 +10,7 @@ usertypes:
   - collectivite-territoriale
 techno:
   - django
-title: Datafoncier
+title: Datafoncier actionnabilité
 mission: Faciliter la connaissance du foncier
 incubator: accelerema
 phases:
@@ -22,25 +22,69 @@ events:
 ---
 ## Contexte
 
-Le Cerema, établissement public à la fois national et local, accompagne l’État, les collectivités et les entreprises pour adapter les territoires au défi climatique, dans 6 domaines d’activité : aménagement et stratégies territoriales, bâtiment, mobilités, infrastructures de transport, environnement et risques, mer et littoral. Il relève des ministères chargés de l’Aménagement du territoire et de la Transition écologique.
+La mission de Datafoncier est de soutenir une décision publique éclairée et objectivée par la donnée foncière.
+
+En mettant à disposition des données, des ressources et des services adaptés, Datafoncier aide les acteurs publics à **mieux comprendre les dynamiques foncières** et à **prendre des décisions plus informées**.
+
+Concrètement, cela passe par :
+
+- La **transformation et l’enrichissement** de données brutes, essentiellement d’origine fiscale pour les rendre directement exploitables
+- Une **diffusion encadrée** selon les droits et les profils d’usagers
+- Un **accompagnement** à l’appropriation des utilisateurs et encourager les usages (documentation, formations, webinaires, animation de communauté)
+- Une **intégration dans les outils métiers** (observatoires, SIG) et services (Zero Logement Vacant, UrbanSimul, etc.) pour un usage opérationnel au quotidien
+- Un travail de **recherche et développement** dans les cas d’usages des données (encadrement de thèse, partenariat avec monde de la recherche, études expérimentales, etc.)
+
+**L’ouverture de Datafoncier à l’ensemble des acteurs publics : une montée en puissance progressive**
+
+Créé en **2010**, Datafoncier répondait à l’origine aux besoins des **experts techniques de l’État** en matière de données foncières.
+
+À partir de **2020**, le service amorce un **changement d’échelle**, en s’ouvrant progressivement à un public bien plus large : collectivités territoriales, agences d’urbanisme, établissements publics, etc. L’objectif : permettre à tous les acteurs publics de mieux comprendre et piloter les dynamiques foncières sur leurs territoires.
+
+Cette ouverture se traduit concrètement par une croissance continue du nombre de bénéficiaires : **près de 4 000 organismes sont aujourd’hui référencés.**
+
+Pour accompagner cette évolution, Datafoncier a industrialisé ses processus de diffusion et a renforcé ses actions d’appui : développement de guides, formations, webinaires, animation de communautés d’usagers… autant de leviers pour faciliter l’appropriation des données et encourager leur usage opérationnel.
+
+Le lancement récent du **Portail des données foncières** marque une nouvelle étape : en six mois seulement, **plus de 7 000 utilisateurs** s’y sont connectés, illustrant l’**intérêt croissant** pour le service et la pertinence des données proposées.
 
 ## Problème
 
-Pour comprendre et aménager leur territoire, les collectivités ont besoin d'accéder à des ressources incontournables: données, outils, études.
+Malgré une dynamique d’ouverture et de fréquentation en hausse, un **décalage persiste entre le potentiel d’acteurs publics concernés et ceux qui mobilisent activement le service**. Le niveau d’appropriation reste très variable selon les types de structures, leur taille et leur capacité à exploiter les données foncières.
 
-## Solution
+Dans ce contexte, **les EPCI constituent une maille stratégique** pour observer les usages et renforcer l’appropriation des données foncières. Ils **portent une large part des politiques publiques d’aménagement**, de l’habitat à la planification territoriale, et disposent dans la majorité des cas d’une **capacité d’ingénierie minimale** leur permettant d’exploiter les données proposées. A l’interface entre besoins opérationnels et orientations nationales, leur positionnement apparait **pertinent pour cibler l’accompagnement et évaluer l’impact des outils proposés**.
 
-**Une plateforme dédiée à l'exploitation des données foncières pour les acteurs publics**
+Au 1er janvier 2025, environ **200 EPCI** étaient considérés comme « actifs » (au moins un téléchargement ou une utilisation d’un service dans les trois derniers mois), ce qui reste **modeste au regard des 1 250 EPCI existants**. L’usage est concentré, principalement, dans les territoires **urbains ou métropolitains**, mieux dotés en ressources techniques. 
 
-Accédez à des référentiels prêts à l'emploi, enrichis et actualisés, pour analyser et gérer efficacement le foncier de votre territoire.
-Simplifiez vos décisions grâce à des données fiables et structurées, et construisez une stratégie foncière durable adaptée à vos enjeux locaux.
+Ce constat souligne la **nécessité d’identifier les freins** rencontrés par les utilisateurs peu fréquents afin d’adapter l’offre et les modalités d’accompagnement aux besoins réels des territoires.
 
-**Un portail pour accéder à l’éco-système des données foncières**
+De fin 2024 à début 2025, une phase d’investigation approfondie a été menée pour mieux comprendre les **usages réels** ainsi que les **freins rencontrés** par les différents utilisateurs. Cette démarche a combiné des **enquêtes qualitatives et quantitatives**, des **entretiens ciblés** auprès d’utilisateurs majoritairement au sein d’EPCI et l’**analyse des métriques d’usage** sur le portail.
 
-A l'aide du Portail Données foncières, vous pouvez demander l'accès aux données, les télécharger et également bénéficier d'une suite d'outils puissants comme UrbanSimul et Zero Logement Vacant, conçus pour simuler, visualiser et optimiser vos choix d'aménagement.
+L’investigation a permis de distinguer **trois grandes catégories de structures utilisatrices** :
 
-**DataFoncier propose:**
+1. **Des structures bien embarquées** : principalement des services de l’État ou des grands EPCI urbains, disposant de ressources techniques suffisantes pour intégrer les données brutes à leurs propres outils et SIG.
+2. **Des structures éloignées du service** : souvent des petits EPCI ruraux, peu dotés en ingénierie, qui ont besoin d’**outils prêts à l’emploi** et de **formats accessibles**.
+3. **Des structures intermédiaires**: présentant des disparités internes importantes, avec certains services moteurs et d'autres à mobiliser.
 
-- des données: fichiers Fonciers, les données DV3F, le référentiel foncier "présumé" public (RFP), les données LOVAC (sur les logements vacants), CoproFF (sur les copropriétés), ainsi que les modalités d’accès à ces différentes données.
-- le lien vers les outils et applications associés : UrbanVitaliz, pour faciliter la revalorisation de certains fonciers (friches), UrbanSimul, pour faciliter le repérage de foncier et la territorialisation des stratégies foncières, Zéro logement vacant (ZLV), en lien avec les données LOVAC, pour aider à remobiliser les logements vacants, le Portail de l'artificialisation des sols (site de l'Observatoire de l'artificialisation des sols), pour suivre et se renseigner sur la consommation des espaces naturels, agricoles et forestiers, Dynmark, pour explorer les dynamiques des marchés immobiliers, Cartoviz LOVAC, un outil de cartographie des données sur la vacance des logements (LOVAC)…
-- les usages des données foncières avec, en plus d'un point Dataviz, des études et analyses en matière économique : repérage de friches d’activités, caractérisation du tissu économique local… ; de consommation d’espaces et d’occupation du sol : étude sur l’artificialisation et ses déterminants, évaluation de la consommation d’espace… ; d’approche par propriétaires (ex : sur la valorisation du foncier ferroviaire); de formes urbaines et de densité, de logement et d’habitat
+L’investigation a également mis en évidence **cinq profils d’utilisateurs** aux besoins et pratiques différentes qui évoluent au sein de ces typologie de structures  :
+
+1. **Les élus et décideurs**, en quête de repères clairs, de données synthétiques et contextualisées pour appuyer les arbitrages. 
+2. **Les utilisateurs en consultation**, qui accèdent ponctuellement à la donnée sans aller jusqu’à son exploitation (secrétaires de mairie, utilisateur occasionnel).
+3. **Les commanditaires d’études**, qui cherchent à cadrer ou orienter des travaux qui seront portés par d’autres (services de la donnée, bureaux d’études, prestataires).
+4. **Les chargés de mission ou d’études thématiques**, qui intègrent les données dans une logique métier (urbanisme, habitat, risques, mobilité, etc.).
+5. **Les géomaticiens ou experts de la donnée**, qui maîtrisent les formats complexes et les croisements de bases de donnée.
+
+La **maturité dans l’usage** ne dépend pas uniquement de la **taille de la structure**, mais aussi de sa **culture de la donnée**, de son **organisation interne** et de ses **priorités**. 
+
+### Solution
+
+Suite à cette investigation, un besoin de vision stratégique claire a émergé afin de prioriser à la fois les typologies de structures et d’utilisateurs à cibler en priorité pour ainsi maitriser les efforts investis. 
+L’équipe a choisi de définir Datafoncier comme une **ressource clef pour les services métiers** des collectivités et de l'État facilitant un approfondissement de l’analyse thématique pour servir les orientations stratégiques des territoires. 
+
+Ce choix cible ****un public déjà en demande, **les chargés d’études thématiques des collectivités**, tout en s'alignant de manière réaliste avec les ressources disponibles pour l'équipe Datafoncier. 
+
+La feuille de route de Datafoncier s’organise désormais autour de **trois axes prioritaires** visant à l’amélioration concrète du service pour les acteurs publics :
+
+- **Rendre les données actionnables** : faciliter la mobilisation des jeux de données par les thématiciens dans leurs analyses et expliciter les liens entre données, outils disponibles et cas d’usage concrets.
+- **Rendre visible la fiabilité des données** : aider les usagers à apprécier le niveau de fiabilité des données en fonction des usages envisagés.
+- **Clarifier le parcours d’accès** : simplifier la navigation et l’accès aux données pour des profils d’utilisateurs et des finalités variées.
+
+Cette feuille de route, conçue comme **évolutive**, sera ajustée au fil du temps en fonction **des résultats observés et des retours des utilisateurs**, dans une logique d’**amélioration continue**.
