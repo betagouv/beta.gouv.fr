@@ -21,8 +21,6 @@ missions:
     end: 2026-02-25
     status: independent
     employer: Malt
-    startups:
-      - terri-story
 incubator: ademe
 competences:
   - Développement Frontend

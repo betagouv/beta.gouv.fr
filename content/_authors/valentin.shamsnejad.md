@@ -13,9 +13,18 @@ missions:
     startups:
       - valorisation.des.stages.pro
   - start: 2024-06-03
-    end: 2026-06-30
+    end: 2025-01-05
     status: independent
     employer: Malt
+    startups:
+      - api-entreprise
+      - api.gouv.fr
+      - api-particulier
+      - datapass
+  - start: 2025-02-05
+    end: 2026-02-05
+    status: admin
+    employer: DINUM
     startups:
       - api-entreprise
       - api.gouv.fr

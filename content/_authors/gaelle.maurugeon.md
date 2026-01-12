@@ -24,9 +24,19 @@ missions:
     startups:
       - transition-ecologique-des-entreprises
   - start: 2025-06-03
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: Malt
+  - start: 2026-01-01
+    end: 2026-06-30
+    status: independent
+    employer: Numa
+  - start: 2026-01-01
+    end: 2026-06-30
+    status: independent
+    employer: Numa
+    startups:
+      - bambin
 memberType: beta
 competences:
   - Facilitation

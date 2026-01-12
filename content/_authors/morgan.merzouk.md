@@ -9,6 +9,12 @@ missions:
     employer: Malt
     startups:
       - mesaidesreno
+  - start: 2026-01-12
+    end: 2026-06-30
+    status: independent
+    employer: Malt
+    startups:
+      - chauffage-urbain
 github: morganmerzouk
 competences:
   - Développement Full-stack
