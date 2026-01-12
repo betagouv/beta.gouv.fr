@@ -11,17 +11,14 @@ sponsors:
   - /organisations/cour-d-appel-de-paris
 phases:
   - name: investigation
-    comment: null
     start: 2025-07-01
-    end: null
   - name: construction
-    comment: null
     start: 2026-01-09
-    end: null
 events:
   - name: committee
-    comment: budget alloué pour  6 mois à compter du 01/01/2026
     date: 2025-12-08
+    comment: budget alloué pour  6 mois à compter du 01/01/2026
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
