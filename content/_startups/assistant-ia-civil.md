@@ -4,7 +4,7 @@ thematiques:
   - Justice
 usertypes:
   - etat
-title: assistant IA civil
+title: 'Mon assistant civil '
 mission: synthèse des conclusions et pré rédaction de l'exposé du litige
 incubator: justice
 sponsors:
@@ -18,6 +18,7 @@ events:
   - name: committee
     date: 2025-12-08
     comment: budget alloué pour  6 mois à compter du 01/01/2026
+techno: []
 link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 

@@ -1,6 +1,6 @@
 ---
 fullname: Emeline Girondin
-role: Chargée de déploiement
+role: 'Chargée de déploiement et support '
 domaine: Autre
 missions:
   - start: 2023-02-16
