@@ -18,9 +18,9 @@ shortcuts:
   - label: Documentation
     external: true
     url: https://doc.incubateur.net
-  - label: Blog
+  - label: Standards
     external: true
-    url: https://blog.beta.gouv.fr
+    url: https://standards.beta.gouv.fr/
 fast:
   - label: Sélection au FAST
     target: /fast/sélection
