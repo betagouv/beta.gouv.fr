@@ -1,6 +1,6 @@
 ---
 fullname: Maryline ARAUJO
-role: Gestionnaire innovation
+role: Coordinatrice innovation
 domaine: Autre
 missions:
   - start: 2024-01-16
@@ -10,4 +10,5 @@ missions:
 memberType: beta
 teams:
   - /teams/justice
+competences: []
 ---

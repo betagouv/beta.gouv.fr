@@ -4,7 +4,7 @@ role: Intrapreneure
 domaine: Intraprenariat
 missions:
   - start: 2022-05-31
-    end: 2026-02-28
+    end: 2026-01-14
     status: admin
     employer: ADEME
     startups:

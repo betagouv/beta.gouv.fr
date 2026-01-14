@@ -12,4 +12,3 @@ missions:
     startups:
       - guichet-unique-de-la-haie-envergo-agricole
 ---
-Diplômé Sciences Po en politiques environnementales. Consultant thématiques agricoles et alimentaires. Spécialisé sur les interactions agriculture/aménagement du territoire.

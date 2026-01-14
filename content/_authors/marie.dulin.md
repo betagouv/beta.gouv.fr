@@ -11,7 +11,7 @@ missions:
     startups:
       - mistral-penal
   - start: 2025-01-27
-    end: 2025-12-31
+    end: 2026-07-01
     status: independent
     employer: LBC
     startups:

@@ -9,6 +9,12 @@ missions:
     employer: Malt
     startups:
       - snu
+  - start: 2026-01-15
+    end: 2026-04-30
+    status: independent
+    employer: Scopyleft
+    startups:
+      - ma-cantine-egalim
 memberType: beta
 competences: []
 ---
