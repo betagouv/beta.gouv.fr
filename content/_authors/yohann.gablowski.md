@@ -12,7 +12,7 @@ missions:
       - sirius
       - uai_siret
   - start: 2025-06-02
-    end: 2026-01-31
+    end: 2026-03-31
     status: independent
     employer: ut7
     startups:

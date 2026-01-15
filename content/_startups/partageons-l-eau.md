@@ -82,19 +82,18 @@ Partageons l’eau vise à **mieux mesurer pour mieux partager l’eau**, en sou
 
 Le service repose sur un **triptyque indissociable** :
 
-1. **Une infrastructure numérique comprenant** : 
-
-- Une plateforme de suivi des volumes prélevés et des autorisations tous usages confondus, par sous bassin versant
-- Un outil de visualisation accessible aux SAGE, services de l’État et usagers, pour suivre les prélèvements individuels et collectifs, comparer consommations réelles et volumes autorisés, objectiver les efforts et les marges de manœuvre de chacun.
-- Une logique “dites-le-nous une fois”, interopérable avec les outils existants (BNPE, outils OUGC, outils de modélisation).
-
-2. **Un levier de dialogue et de concertation** -
+1. **Un levier de dialogue et de concertation** -
 La donnée comme support de médiation, au service du dialogue local.
 Des ateliers de co-construction réunissant l’ensemble des usagers (agriculteurs, industriels, eau potable, services de l’État, collectivités).
 La production de cadres de confiance favorisant l’adhésion et l’engagement collectif.
 
-3. **Un portage politique** - 
+2. **Un portage politique** - 
 Un service porté par l’État, en lien étroit avec la DEB, les préfets et les partenaires du Système d’Information sur l’Eau. Une articulation avec les évolutions réglementaires (télérelève, autorisations, seuils, interopérabilité).
+
+3. **Une infrastructure numérique comprenant** : 
+- Une plateforme de suivi des volumes prélevés et des autorisations tous usages confondus, par sous bassin versant
+- Un outil de visualisation accessible aux SAGE, services de l’État et usagers, pour suivre les prélèvements individuels et collectifs, comparer consommations réelles et volumes autorisés, objectiver les efforts et les marges de manœuvre de chacun.
+- Une logique “dites-le-nous une fois”, interopérable avec les outils existants (BNPE, outils OUGC, outils de modélisation).
 
 ## 🚀 La stratégie pour y parvenir
 

@@ -6,11 +6,17 @@ github: desoindx
 link: https://epicse.fr/
 missions:
   - start: 2021-05-03
-    end: 2025-12-31
+    end: 2026-06-30
     status: independent
     employer: ScopyLeft
     startups:
       - impact.co2
+  - start: 2025-06-01
+    end: 2026-06-30
+    status: independent
+    employer: Pathtech
+    startups:
+      - ecobalyse
 previously:
   - aides.jeunes
   - sante-psy-etudiant

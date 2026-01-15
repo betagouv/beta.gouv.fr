@@ -31,7 +31,7 @@ events:
     date: 2025-01-15
     comment: 3ème comité d'investissement
   - name: committee
-    date: 2025-06-18
+    date: 2025-06-10
     comment: 4ème comité d'investissement
 phases:
   - name: investigation
@@ -47,7 +47,7 @@ techno:
   - python
   - django
 mon_service_securise: true
-impact_url: https://longuevieauxobjets.ademe.fr/stats
+impact_url: https://longuevieauxobjets.ademe.fr/stats/matrice-impact/
 ---
 ## Contexte 👀
 
@@ -90,7 +90,7 @@ La carte a été mise en avant lors de la campagne de communication de l’ADEME
 
 Comme point d’entrée unique pour les citoyens, l'assistant au tri “Que faire de mes objets & déchets” est connu depuis 10 ans, relayé chaque année par les [campagnes ministérielles sur l'Info-tri](https://www.ecologie.gouv.fr/info-tri) et mentionné sur les étiquettes de nombreux objets, pour toucher le maximum de citoyens. 
 
-Nous prévoyons un déploiement progressif de nos outils sur les sites des collectivités pour toucher leurs usagers, en commençant par les collectivités de tailles petite et moyenne, n’ayant pas de solutions numériques ou incomplètes sur ce sujet.
+Un déploiement progressif de nos outils a été fait auprès des collectivités pour toucher leurs usagers, en commençant par les collectivités de tailles petite et moyenne, n’ayant pas de solutions numériques ou incomplètes sur ce sujet.
 
 
 
@@ -100,9 +100,9 @@ Longue vie aux objets est un service numérique conçu selon l’**approche Star
 
 Pour mesurer l'impact de nos outils, nous nous fixons des objectifs et des indicateurs.
 
-Notre **indicateur principal "étoile du nord"** est le **nombre de visiteurs orientés mensuellement**, soit les visiteurs qui ont réellement eu des interactions avec un de nos outils (consultation d'une fiche produit ou d'un lieu sur la carte). 
+Notre **indicateur principal "étoile du nord"** est le **nombre de visiteurs orientés mensuellement**, soit les visiteurs qui ont consulté des recommandations sur un objet ou déchet dans l'assistant au tri ou d'un lieu sur la carte.
 
-Tous nos indicateurs peuvent être suivis sur le [site de notre startup](https://longuevieauxobjets.ademe.fr/stats/).
+Tous nos indicateurs peuvent être suivis sur le [site de notre startup](https://longuevieauxobjets.ademe.fr/stats/), ainsi que notre [matrice d'impact](https://longuevieauxobjets.ademe.fr/stats/matrice-impact/).
 
 Aujourd’hui, nos métriques d’impact et d'usage sont suivies grâce aux outils Posthog, Matomo et Metabase.
 

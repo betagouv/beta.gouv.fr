@@ -13,7 +13,7 @@ dashlord_url: https://dashlord.incubateur.net/
 accessibility_status: partiellement conforme
 stats_url: https://zerologementvacant.beta.gouv.fr/statistiques
 stats: true
-budget_url: https://docs.google.com/spreadsheets/d/1rki0Wlrk4hCL0WC8mlHcRlj8rk7iCZ4ed3lyxSa_yec/edit#gid=300205456
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/8
 phases:
   - name: investigation
     start: 2020-03-15
@@ -29,10 +29,14 @@ thematiques:
 usertypes:
   - collectivite-territoriale
   - etat
+  - particulier
 mon_service_securise: true
 techno: []
 analyse_risques: true
-impact_url: https://zerologementvacant.beta.gouv.fr/statistiques
+impact_url: https://docs.numerique.gouv.fr/docs/868b62f1-f65f-45b9-8cbe-179481ee713a/
+events:
+  - name: committee
+    date: 2025-09-04
 ---
 ## Faire de la vacance structurelle une ressource pour les territoires
 
@@ -67,4 +71,4 @@ Les principales fonctionnalités de l'outil :
 
 L’impact principal porte sur la remise sur le marché des logements en situation de vacance structurelle. Le processus de remise sur le marché étant long (1 à 4 ans), nous suivons les logements sortis et en cours de sortis de la vacance.
 
-L'outil a d'autres externalités positives sur la ZAN et les économies carbone en particulier.
+L'outil a d'autres externalités positives sur les économies carbone et le ZAN en particulier.

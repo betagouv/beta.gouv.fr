@@ -1,6 +1,6 @@
 ---
 title: Basegun
-mission: Identifier et classer instantanément une arme sur le terrain
+mission: Identifier et classer instantanément la catégorie légale d'une arme, sur le terrain
 sponsors:
   - /organisations/interieur
 incubator: FabNum-MI
@@ -19,27 +19,32 @@ phases:
     start: 2023-10-01
   - name: alumni
     start: 2025-07-24
-thematiques: []
-usertypes: []
-techno: []
+thematiques:
+  - Administratif
+  - Outil technique
+usertypes:
+  - etat
+techno:
+  - docker
+  - kubernetes
+  - python
+  - vue
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 ---
 ## Contexte
 
 On estime à environ 20 000 le nombre d’armes saisies par les FSI chaque année, dont 15 à 20% sont mal ou non identifiées.
-Cela engendre des erreurs de catégorisation légale des armes, ce qui influe sur le niveau de permis du possesseur, les conditions de transports, etc.
+Cela engendre des erreurs de catégorisation légale des armes, ce qui influe sur niveau de permis du possesseur attendu par les forces de l'ordre, les conditions de transports, etc.
 Elles ont pour conséquence :
-- une absence de poursuites pénales pour des personnes détenant illégalement des armes
-
-- à l’inverse, des poursuites pénales, une dépossession d’armes ou une interdiction de posséder des armes injustifiées
+- une absence de poursuites pénales pour des personnes détenant illégalement des armes dangereuses
+- à l’inverse, des poursuites pénales, une dépossession d’armes ou une interdiction injustifiée de posséder des armes
 
 *Source: SCAE 2022 (rassemblement statistiques DGPN, PP et DGGN)*
 
 
 
 ## Problème
-
-La méthode actuelle d’identification des armes sur le terrain est chronophage, soumise à interprétation et génératrice d’erreurs. En effet, les agents procèdent de trois façons souvent combinées :
+La méthode actuelle d’identification des armes sur le terrain est complexe, chronophage, soumise à interprétation et génératrice d’erreurs. En effet, les agents procèdent de trois façons souvent combinées :
 
 * Ils et elles tentent des rapprochements visuels à partir de recherches internet/intranet autonomes
 * Ils et elles interrogent leurs collègues ou un armurier privé
@@ -53,7 +58,7 @@ Basegun est un outil permettant de classifier automatiquement une arme à feu d�
 
 Elle permet de vérifier si une arme est factice.
 
-Elle proposera également des tutoriels permettant de mettre en sécurité les différents type d'armes rencontrés sur le terrain lors de saisies par les FSI.
+Elle propose également des tutoriels permettant de guider la mise en sécurité des différents type d'armes rencontrés sur le terrain lors de saisies par les FSI.
 
 
 

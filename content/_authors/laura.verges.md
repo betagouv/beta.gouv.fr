@@ -4,7 +4,7 @@ domaine: Autre
 link: https://laboiteaecrire.fr/
 missions:
   - start: 2023-02-14
-    end: 2026-01-31
+    end: 2026-06-30
     status: independent
     employer: La Startup d'État Engagement Civique
     startups:

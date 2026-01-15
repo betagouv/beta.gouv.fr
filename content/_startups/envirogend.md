@@ -24,13 +24,16 @@ thematiques:
 usertypes:
   - collectivite-territoriale
   - etat
-techno: []
+techno:
+  - django
+  - vuejs
 budget_url: https://pad.numerique.gouv.fr/s/gm96E3s_h
 link: http://www.protect-envi.beta.gouv.fr/
 events:
   - name: committee
     date: 2025-07-04
     comment: Validation et financement des phases suivantes du produit
+repository: https://github.com/betagouv/depots-sauvages
 ---
 ## Contexte
 

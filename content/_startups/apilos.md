@@ -41,7 +41,7 @@ phases:
   - name: acceleration
     start: 2022-04-27
     end: 2022-06-30
-  - name: alumni
+  - name: success
     start: 2025-11-25
 thematiques:
   - Social

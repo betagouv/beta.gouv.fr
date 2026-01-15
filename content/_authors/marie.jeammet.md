@@ -1,6 +1,6 @@
 ---
-fullname: Marie Pupo Jeammet
-role: Développeuse web
+fullname: Marie PUPO JEAMMET
+role: Développeuse
 domaine: Développement
 github: mjeammet
 missions:
@@ -16,8 +16,10 @@ missions:
     status: admin
     employer: DINUM
     startups:
+      - social-numerique-gouv-fr
       - suite-numerique
 badges:
   - segur
+competences: []
 ---
-Développeuse web. À quand les justices sociales et climatiques ?
+À quand les justices sociales et climatiques ?

@@ -35,6 +35,8 @@ events:
     date: 2025-06-01
     comment: Accompagnement des projets
 techno: []
+redirect_from:
+ - /startups/terri-story
 ---
 ## Contexte et mission
 
@@ -71,6 +73,18 @@ Ces projets peuvent être portés par des collectivités territoriales ou des OP
 * des collectivités territoriales, EPCI, régions, départements…
 * des intrapreneurs ou structures de l'écosystème publics porteurs de solutions
 * des acteurs engagés dans des communs numériques environnementaux
+
+---
+
+## Quels sont les produits accompagnés par le Guichet territorial FINDPE ? 
+
+**Produits en accélération** (ayant validé leur phase d'investigation) : 
+
+- **[TerriSTORY®](https://terristory.fr/)**: il s'agit d'une plateforme numérique open source conçue pour accompagner les territoires dans leur transition écologique. Portée par AURA-EE (Agence régionale de l'énergie et de l'environnement Auvergne-Rhône-Alpes), elle permet aux collectivités de diagnostiquer leur situation, construire des trajectoires de transition et piloter les impacts de leurs politiques locales. TerriSTORY® met à disposition un socle commun de données fiables et multithématiques, de simulateurs et de tableaux de bord, pour faciliter une action publique plus stratégique, transversale et partagée.
+
+- **[diagBruit](https://diagbruit.beta.gouv.fr/)** : produit porté par Bordeaux Métropole et incubée à l’Accelerama (Cerema), diagBruit propose un outil de diagnostic sonore à destination des instructeurs en autorisation du droit des sols (ADS). Grâce à une interface simple inspirée du “nutriscore du bruit”, la solution permet de mieux évaluer l’exposition sonore des projets immobiliers en lien avec le Plan local d’urbanisme (PLU), et de recommander des améliorations aux promoteurs. Elle vise à intégrer plus systématiquement le risque bruit dans les projets de construction. 
+
+- **[Protect'Envi](https://protect-envi.beta.gouv.fr/)**: service porté par la Communauté de communes Gally Mauldre (78) et le Commandement pour l’environnement et la santé (CESAN) de la Gendarmerie nationale, incubée à la DINUM. Protect’envi est une solution numérique qui accompagne les collectivités dans la lutte contre les dépôts sauvages en simplifiant les démarches administratives et judiciaires. De la constatation de l’infraction jusqu’à l’envoi des documents officiels (rapports, arrêtés, lettres), l’outil automatise la procédure, tout en assurant une traçabilité rigoureuse.
 
 ---
 
@@ -112,14 +126,6 @@ Ces projets peuvent être portés par des collectivités territoriales ou des OP
 - définir des **indicateurs d’impact au service de la transition écologique**
 - publier ou consolider son code en **open source**
 - **amorcer son déploiement au national** pour être utilisé par d'autres territoires.
-
----
-
-## Quels sont les produits accompagnés par le Guichet territorial FINDPE ? 
-
-Produits en accélération (ayant validé leur phase d'investigation) : 
-
-- **TerriSTORY®**: il s'agit d'une plateforme numérique open source conçue pour accompagner les territoires dans leur transition écologique. Portée par AURA-EE (Agence régionale de l'énergie et de l'environnement Auvergne-Rhône-Alpes), elle permet aux collectivités de diagnostiquer leur situation, construire des trajectoires de transition et piloter les impacts de leurs politiques locales. TerriSTORY® met à disposition un socle commun de données fiables et multithématiques, de simulateurs et de tableaux de bord, pour faciliter une action publique plus stratégique, transversale et partagée.
 
 ---
 

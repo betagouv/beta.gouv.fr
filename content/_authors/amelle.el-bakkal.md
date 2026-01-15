@@ -11,7 +11,7 @@ missions:
     startups:
       - l-application-du-cej
   - start: 2025-04-17
-    end: 2025-08-29
+    end: 2025-09-05
     status: service
     employer: Octo
     startups:
@@ -20,6 +20,10 @@ missions:
     end: 2025-12-31
     status: independent
     employer: Malt
+  - start: 2025-12-11
+    end: 2026-07-06
+    status: independent
+    employer: 'DNUM '
 badges:
   - segur
 competences:

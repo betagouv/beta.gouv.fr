@@ -1,6 +1,6 @@
 ---
 fullname: Gladys Diandoki
-role: UX writer
+role: Coach
 domaine: Design
 github: Gladysdit
 missions:
@@ -14,5 +14,15 @@ missions:
     employer: MEAE
 badges:
   - segur
+link: https://www.linkedin.com/in/gladysdiandoki/
+competences:
+  - UX
+  - Architecture d'information
+  - OOUX
+  - Content Design
+  - Knowledge Graph
+  - Accessibilité
+  - Intelligence Artificielle
+  - Conversation Design
 ---
-Je suis UX Writer et Content Designer au sein de l’équipe de Designers Transverses.
+Je suis UX et Coach avec quelques expertises : Content Designer,  IA, Architecture d'info et Accessibilité.

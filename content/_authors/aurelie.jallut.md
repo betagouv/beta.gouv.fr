@@ -6,7 +6,7 @@ github: Aurelie-J
 link: http://www.marquedefabrique.net
 missions:
   - start: 2022-04-15
-    end: 2025-12-30
+    end: 2026-03-31
     status: independent
     employer: Scopyleft, Omnicité
     startups:

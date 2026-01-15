@@ -13,7 +13,7 @@ competences:
   - Coaching
 missions:
   - start: 2025-09-23
-    end: 2025-12-31
+    end: 2026-04-06
     status: independent
     employer: Start The Fuck Up
 ---

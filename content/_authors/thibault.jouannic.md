@@ -6,8 +6,9 @@ link: https://www.miximum.fr
 github: thibault
 missions:
   - start: 2018-08-01
-    end: 2026-06-28
+    end: 2026-06-12
     status: independent
+    employer: Malt
     startups:
       - envergo
 previously:

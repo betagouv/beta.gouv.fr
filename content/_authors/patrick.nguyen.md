@@ -4,13 +4,13 @@ fullname: Patrick Tai Nguyen
 role: Fullstack Software Engineer
 missions:
   - start: 2024-04-15
-    end: 2026-01-31
+    end: 2026-02-28
     status: independent
     employer: Pathtech
     startups:
       - pass-sport
   - start: 2024-11-14
-    end: 2026-03-31
+    end: 2026-04-07
     status: independent
     employer: scopopop
     startups:

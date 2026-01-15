@@ -27,11 +27,15 @@ phases:
     start: 2024-04-01
 analyse_risques: true
 mon_service_securise: true
-techno: []
+techno:
+  - JavaScript/TypeScript
+  - Elm
+  - PostgreSQL
+  - ElasticSearch
 fast:
   promotion: 15
   montant: 150000
-impact_url: https://deveco.incubateur.anct.gouv.fr/stats
+impact_url: https://docs.numerique.gouv.fr/docs/6490e347-fc8f-426b-a3f9-1451a4a6a430/
 budget_url: https://docs.numerique.gouv.fr/docs/7580c3c1-6f3f-4de9-bdd0-5e71482ce8d2/
 ---
 ## 📊 **Constat**

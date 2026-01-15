@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2023-11-07
-    end: 2025-11-30
+    end: 2026-04-30
     status: admin
     startups:
       - monprojetsup
@@ -25,4 +25,4 @@ competences:
   - Python
   - Facilitation
 ---
-Hugo Gimbert est chercheur en informatique au CNRS et chargé de mission auprès du MESR avec le rôle de chef de projet de la startup d’état MonProjetSup.
+Hugo Gimbert est chercheur en informatique au CNRS et chargé de mission auprès du MESR.
