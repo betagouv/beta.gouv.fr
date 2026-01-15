@@ -620,7 +620,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
                 <p>Rendre le <a href="https://betagouv.github.io/a11y-generateur-declaration/">Générateur de déclaration d'accessibilité</a> conforme</p>
             </td>
             <td>
-                <p><strong>Fait partiellement.</strong> Nous avons fait des correctifs d'accessibilité sur le Générateur de Déclaration d'accessibilité totalement conforme (94 % de conformité RGAA).</p>
+                <p><strong>Fait partiellement.</strong> Nous avons fait des correctifs d'accessibilité sur l'outil (pour atteindre 94 % de conformité RGAA).</p>
             </td>
         </tr>
         <tr>
