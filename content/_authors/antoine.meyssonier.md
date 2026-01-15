@@ -10,6 +10,7 @@ missions:
     status: admin
     employer: non applicable
     startups:
+      - assistant-ia-civil
       - investigation-cour-d-appel-de-paris
 ---
 Chargé de mission pour le numérique auprès des chefs de la cour d'appel de Paris. 

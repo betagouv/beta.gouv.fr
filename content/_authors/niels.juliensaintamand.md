@@ -1,6 +1,6 @@
 ---
 fullname: Niels JULIEN-SAINT-AMAND
-role: Business développeur
+role: Responsable Territorial
 domaine: Déploiement
 missions:
   - start: 2022-04-25
@@ -10,5 +10,7 @@ missions:
     startups:
       - conseillers-entreprises
 competences: []
+link: https://www.linkedin.com/in/niels-julien-saint-amand/
 ---
-Chargé déploiement, suivi qualité, compétences marketing & gestion
+Responsable du service Conseillers-Entreprises Service Public pour les régions : Auvergne-Rhône-Alpes, Grand Est et Normandie.
+Responsable de la communication du service sur les réseaux sociaux.

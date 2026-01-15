@@ -16,7 +16,7 @@ missions:
     startups:
       - mon-devis-sans-oublis
   - start: 2025-09-22
-    end: 2025-12-31
+    end: 2026-06-30
     status: independent
     employer: Scopyleft
     startups:

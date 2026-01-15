@@ -21,6 +21,12 @@ missions:
     employer: Malt
     startups:
       - mesaidesreno
+  - start: 2025-11-19
+    end: 2026-04-13
+    status: independent
+    employer: Malt
+    startups:
+      - communs-de-la-transition-ecologique-des-collectivites
 competences:
   - UX
   - UI

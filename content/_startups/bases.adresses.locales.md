@@ -53,7 +53,17 @@ La loi 3DS a consacré le rôle des communes dans l'adressage de leur territoire
 
 
 
-Aujourd'hui, **plus de 26 000 communes** ont déjà publié leur Base Adresse Locale, plus de 83% de la population est couverte. Votre commune est-elle couverte ?
+Chiffre décembre 2025 : 
+* **plus de 26 000 communes** ont déjà publié leur Base Adresse Locale, soit plus de 83% de la population qui est couverte, 
+* 81%  de ces communes (21 000) utilisent Mes Adresses, **1 200 gestionnaires de BAL se connectent chaque jour** sur l’outil Mes Adresses,
+* 20% des BAL sont mises à jour chaque mois, **2.1 M d’adresses en plus** depuis le lancement,
+* **13 500 signalements** ont été déposés en 6 mois, dont la moitié ont déjà été traités.
+
+La plus-value d'une base adresse nationale de qualité est estimée à 0,5% du PIB (*source : [Addressing the world – An address for everyone](https://www.upu.int/en/publications/addressing/addressing-the-world-an-address-for-everyone), Universal Postal Union*)
+
+  
+  
+Votre commune est-elle couverte ?
 
 📍 Pour [suivre le déploiement des Bases Adresses Locales](https://adresse.data.gouv.fr/deploiement-bal) en France
 

@@ -11,4 +11,5 @@ missions:
       - reva
 memberType: beta
 competences: []
+github: pierreavizou
 ---

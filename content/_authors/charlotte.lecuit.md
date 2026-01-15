@@ -33,7 +33,7 @@ missions:
     startups:
       - monprojetsup
   - start: 2025-09-01
-    end: 2026-02-02
+    end: 2026-03-31
     status: independent
     employer: UT7
     startups:
