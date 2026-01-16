@@ -34,6 +34,8 @@ missions:
     end: 2026-03-31
     status: independent
     employer: DYNERGIE
+    startups:
+      - chemins-en-commun
 badges:
   - segur
 competences:

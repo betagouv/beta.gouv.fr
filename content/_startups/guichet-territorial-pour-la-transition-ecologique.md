@@ -36,7 +36,7 @@ events:
     comment: Accompagnement des projets
 techno: []
 redirect_from:
- - /startups/terri-story
+  - /startups/terri-story
 ---
 ## Contexte et mission
 

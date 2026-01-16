@@ -5,7 +5,7 @@ domaine: Déploiement
 github: JeremieSeguin
 missions:
   - start: 2022-12-01
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: Telescoop
     startups:
@@ -14,5 +14,6 @@ memberType: beta
 previously:
   - mon-diagnostic-artificialisation
 competences: []
+link: https://bonimpact.bzh
 ---
 J'aime travailler en collectif et faire des km à vélos.

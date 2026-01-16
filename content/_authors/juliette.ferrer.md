@@ -13,4 +13,5 @@ missions:
     end: 2026-02-19
     status: service
     employer: Octo
+github: octojufe
 ---

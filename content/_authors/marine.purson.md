@@ -1,6 +1,6 @@
 ---
 fullname: Marine Purson
-role: Responsable adjointe du pôle Animation, opérations et expertises
+role: Responsable du pôle animation beta.gouv.fr
 domaine: Animation
 github: marinepurson2
 missions:

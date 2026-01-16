@@ -2,7 +2,7 @@
 analyse_risques: false
 mon_service_securise: false
 contact: magali.migeon@herault.gouv.fr
-link: https://cabanisation34.fr/
+link: https://lucca.din.developpement-durable.gouv.fr/
 thematiques:
   - Collectivités
   - Écologie
@@ -31,18 +31,20 @@ sponsors:
 ## Contexte
 
 Les constructions et installations illégales, appelé aussi "cabanisation" ou "détournement d'usage" s'étendent sur le territoire français non urbain, dégradent les espaces naturels et agricoles et exposent les personnes aux risques naturels inondation et feux de forêt. 
-On estime à 30 000,  le nombre de parcelles occupées illégalement dans le seul département de l'Hérault, soit environ 3 fois la surface de Paris, par des m
+On estime à 30 000,  le nombre de parcelles occupées illégalement dans le seul département de l'Hérault, soit environ 3 fois la surface de Paris.
 
 ## Problème
 
-Ce phénomène a de nombreuses conséquences néfastes, notamment
+Ce phénomène a de nombreuses conséquences sur les territoires,  notamment
 - Il expose les personnes aux risques d’inondation et de feux de forêts, sans possibilité d’intervention des secours (accès difficile, habitation non légale et par conséquent non connue).
 - Il dégrade les espaces naturels, agricoles ou forestiers ainsi que les paysages et favorise la pollution des sols et de l’eau (déversement d’eaux usées, absence de collecte de déchets…).
  -Il  entraîne le gaspillage des terres agricoles (pollution, pression foncière, mitage…) et réduit les capacités de production.
+Elle expose les personnes aux risques d’inondation et de feux de forêts, sans possibilité d’intervention des secours (accès difficile, habitation non légale et par conséquent non connue).
 
-- **Il constitue un délit, dont le 1er acte est le PV, dont la qualité rédactionnelle conditionne les suites pénales, administratives ou civiles et au final le succès de la remise à l'état naturel des parcelles.** 
 
-Or la rédaction d'un PV est complexe et nécessite rigueur et bonne connaissance de la réglementation pour les agents assermentés et commissionnés à cet effet. Les procédures peuvent être longues et les acteurs nombreux. 
+**Il constitue un délit, dont le 1er acte est le PV, dont la qualité rédactionnelle conditionne les suites pénales, administratives ou civiles et au final le succès de la remise à l'état naturel des parcelles.** 
+
+**Or la rédaction d'un PV est complexe et nécessite rigueur et bonne connaissance de la réglementation pour les agents assermentés et commissionnés à cet effet. Les procédures peuvent être longues et les acteurs nombreux**. 
 
 
 ## Solution
@@ -55,9 +57,14 @@ LUCCA est un outil numérique qui :
 
 Il est destiné aux agents assermentés au code de l'urbanisme ( agents de collectivités, de l'Etat, force de l'ordre, policiers municipaux...). Il est accessible du bureau ou sur le terrain directement (tablette). 
 
-## Objectifs à 6 mois
+## Déploiement
+LUCCA est opérationnel dans 5 départements et est utilisé par une centaine de collectivité. A titre d'exemple, dans l'Hérault, près de 25 communes l'utilisent, 500 contrôles et près de 300 PV ont été réalisés en 2025. 
 
-Objectif **d'usage** à 6 mois : utilisation par 5 départements et 50 collectivités
+##2026
+L'objectif est d'augmenter son impact en :
+ - déployant à près de 150 nouvelles collectivités 
+ - en structurant l'acquisition par de nouveaux formats et canaux et en augmentant l'adhérence, en améliorant le par
+- en développant une nouvelle fonctionnalité : les astreintes administratives et en(police administrative complémentaire à la procédure pénale)
+ - en se connectant avec AIGLE (https://beta.gouv.fr/startups/aigle.html), l'outil complémentaires qui détecte les parcelles suspectes
 
-Objectif **d'impact** à 6 mois : 150 PV rédigés
-
+La sécurité sera renforcée ainsi que les conformités à la protection des données 
