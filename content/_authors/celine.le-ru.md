@@ -30,13 +30,13 @@ missions:
     startups:
       - ma-cantine-egalim
   - start: 2025-06-03
-    end: 2026-01-31
+    end: 2025-12-31
     status: service
     employer: OCTO
     startups:
       - reglementations.en.foret
   - start: 2025-07-01
-    end: 2025-12-12
+    end: 2025-12-31
     status: service
     employer: OCTO
     startups:

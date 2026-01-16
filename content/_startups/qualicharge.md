@@ -1,10 +1,10 @@
 ---
 title: QualiCharge
-mission: Améliorer la qualité globale du service de recharge pour véhicules électriques en analysant les données de supervision
+mission: ' La plateforme des données de recharge et des certificats TIRUERT électrique'
 sponsors:
   - /organisations/mtes
 incubator: mtes
-contact: nicolas.forget@developpement-durable.gouv.fr
+contact: contact@qualicharge.beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
@@ -20,14 +20,17 @@ usertypes:
   - particulier
   - etat
   - association
+  - entreprise
+  - collectivite-territoriale
 techno:
   - python
   - api
   - data
   - django
+  - fastapi
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 dashlord_url: https://dashlord.incubateur.net/url/api-qualicharge-beta-gouv-fr-api-v1-docs/
-link: ''
+link: https://www.qualicharge.beta.gouv.fr/
 ---
 ## Contexte
 

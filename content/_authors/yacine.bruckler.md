@@ -7,7 +7,7 @@ competences:
   - Communication
 missions:
   - start: 2025-10-10
-    end: 2026-04-10
+    end: 2026-07-16
     status: independent
     employer: Scopopop
     startups:

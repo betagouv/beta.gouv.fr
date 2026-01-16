@@ -1,7 +1,7 @@
 ---
 fullname: Sophie Clairet
 domaine: Déploiement
-role: Chargée de déploiement
+role: Chargée de déploiement Panoramax, Viz'eau et Coach Chemins en commun
 link: https://geosophie.eu
 missions:
   - start: 2020-09-01
@@ -45,4 +45,4 @@ competences:
   - Déploiement
 github: C-Sophie
 ---
-Géographe PhD. en mission pour les programmes Panoramax, Chemins ruraux et communaux (Fabrique de la Donnée territoriale de l'IGN) et Viz’eau (Fabrique numérique de l’Écologie). Perso : GeoSophie.eu & Insidemap.eu. Expériences passées : SE (Base Adresse Nationale, Bases Adresses Locales, uMap), collectivité territoriale (Cabinet du Maire de Metz), administration centrale (ANSSI), presse spécialisée (géopolitique).
+Géographe PhD. en mission pour les programmes Panoramax, Chemins en commun (Fabrique de la Donnée territoriale de l'IGN) et Viz’eau (Fabrique numérique de l’Écologie).
