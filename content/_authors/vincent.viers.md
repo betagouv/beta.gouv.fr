@@ -30,11 +30,17 @@ missions:
     startups:
       - pilotage.de.linclusion
   - start: 2024-09-02
-    end: 2026-09-02
+    end: 2026-01-01
     status: admin
     employer: DINUM
     startups:
       - grist.numerique.gouv.fr
+  - start: 2026-01-05
+    end: 2026-07-01
+    status: independent
+    employer: Omnicité
+    startups:
+      - infomedicament
 competences:
   - Intrapreneur(se)
   - Product design

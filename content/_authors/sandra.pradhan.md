@@ -13,4 +13,5 @@ missions:
     employer: PathTech
     startups:
       - pass-sport
+link: https://www.linkedin.com/in/sandra-pradhan-01b9a83a5/
 ---

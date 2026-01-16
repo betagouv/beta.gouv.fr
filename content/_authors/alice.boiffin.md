@@ -7,10 +7,9 @@ competences:
 missions:
   - start: 2026-01-13
     end: 2027-08-31
-    employer: Ministère chargé de la Mer et de la Pêche
     status: admin
+    employer: Ministère chargé de la Mer et de la Pêche
     startups:
       - monitorfish
-teams: []
 ---
 Cheffe du CACEM depuis le 01/05/2024. Reprise de l'intraprenariat pour MonitorEnv en janvier 2026.

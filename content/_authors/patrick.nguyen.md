@@ -10,7 +10,7 @@ missions:
     startups:
       - pass-sport
   - start: 2024-11-14
-    end: 2026-04-07
+    end: 2026-07-16
     status: independent
     employer: scopopop
     startups:

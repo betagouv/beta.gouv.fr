@@ -13,16 +13,13 @@ techno: []
 title: Chemins en commun
 mission: Faciliter la conservation des chemins ruraux et voies communales
 incubator: fab-geocommuns
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-12-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-01-15
+link: ''
 ---
 ## Contexte
 
