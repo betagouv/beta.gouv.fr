@@ -21,4 +21,5 @@ badges:
 previously:
   - recosante
 competences: []
+link: https://www.linkedin.com/in/emilienguillemot/
 ---

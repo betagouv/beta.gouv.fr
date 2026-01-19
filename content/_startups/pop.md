@@ -12,6 +12,10 @@ phases:
     start: 2023-01-01
   - name: acceleration
     start: 2024-01-01
+  - name: transfer
+    start: 2026-04-06
+  - name: success
+    start: 2026-12-18
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop
 stats: true
@@ -27,6 +31,7 @@ thematiques:
 accessibility_status: non conforme
 techno: []
 analyse_risques: false
+stats_url: https://audience.communication.gouv.fr/sites?ministere=da1d6275-6710-485d-a249-282cac69dfe7&type_site&site=338&type_periode=periode_predefinie&periode=mois_glissant
 ---
 Mis en ligne en 2018 dans le cadre d'une start-up d'Etat, POP donne accès à huit bases de données du ministère de la Culture, dont certaines ont été créées dès les années 1980. 
 En étroite collaboration avec les services métiers, le service du Numérique du ministère de la Culture travaille à une refonte de POP depuis 2023. 
