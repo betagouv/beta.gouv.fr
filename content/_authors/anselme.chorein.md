@@ -4,7 +4,7 @@ fullname: Anselme Chorein
 role: Développeur Fullstack senior
 missions:
   - start: 2024-03-25
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:

@@ -2,7 +2,7 @@
 title: Medistock
 mission: Améliorer le flux de gestion des stocks de médicaments pour éviter les ruptures
 incubator: dinum
-contact: elsa.le-duigou@beta.gouv.fr
+contact: joelle.chong@beta.gouv.fr
 sponsors:
   - /organisations/ansm
 phases:
@@ -12,8 +12,19 @@ phases:
     start: 2024-07-01
 thematiques:
   - Santé
-usertypes: []
-techno: []
+usertypes:
+  - etat
+techno:
+  - Talend
+  - Mendix
+  - java
+events:
+  - name: committee
+    date: 2025-01-17
+  - name: committee
+    date: 2025-04-09
+  - name: committee
+    date: 2025-11-14
 link: ''
 ---
 ## **Contexte**

@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/laure-elise-magdelain-45637796/?originalSubdom
 competences: []
 missions:
   - start: 2025-02-05
-    end: 2026-02-28
+    end: 2026-06-30
     status: independent
     employer: Fairness
     startups:

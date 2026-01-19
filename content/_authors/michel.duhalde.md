@@ -7,9 +7,8 @@ competences: []
 missions:
   - start: 2026-01-16
     end: 2026-07-01
-    employer: DGALN
     status: admin
+    employer: DGALN
     startups:
       - boris
-teams: []
 ---

@@ -30,12 +30,33 @@ phases:
     start: 2022-05-01
   - name: construction
     start: 2023-03-01
+  - name: alumni
+    start: 2026-01-19
 events:
-  - name: other
-    date: 2023-03-01
-    comment: Mise en production locale pour expérimentation de généralisation
+  - name: end
+    date: 2025-01-19
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#PeATE
 ---
+Post-mortem
+
+Cette fiche ne décrit pas un projet ayant réellement été conduit en mode startup d’État.
+Le produit présenté est issu d’un partenariat ponctuel entre une administration et un acteur privé, sans qu’une transformation en startup d’État n’ait jamais abouti.
+
+Si une réflexion a existé à un moment pour envisager une inscription dans le cadre Beta.gouv.fr , celle-ci n’a pas été mise en œuvre :
+
+aucun comité d’investissement n’a été organisé,
+
+aucun objectif d’impact n’a été formalisé,
+
+aucune équipe produit dédiée n’a été constituée pour opérer le service,
+
+aucune dépense n’a été engagée dans le cadre des marchés BETA.gouv.
+
+Le projet n’a donc jamais été incubé ni opéré selon la méthodologie des startups d’État.
+La fiche a été créée de manière prématurée et n’est plus d’actualité en tant que projet actif.
+
+Elle est conservée en partenariat terminé à des fins d’historique et de transparence, mais ne reflète pas un produit développé ou financé dans le cadre de Beta.gouv.fr
+
 ## Contexte
 
 Une initiative du SGAR Bretagne pour trouver une méthode et une solution numérique ENFIN adaptée aux usages concret dont interministériels de l'Administration Territoriales de l’État (ATE). Grâce au méthodologie et au cadre du laboratoire d'innovation TI Lab, une expérimentation d'usage avec des designers en immersion dans les services a pu être lancée durant l'été 2022. Suite aux résultats, "un livre de recette des conditions de réussite du déploiement du parapheur électronique" a été réalisé et une solution a pu être adaptée et évoluée au vu des besoins. 
