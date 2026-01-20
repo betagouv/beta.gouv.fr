@@ -13,6 +13,7 @@ missions:
     status: admin
     employer: DINUM
     startups:
+      - envirogend
       - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
       - refugies.info
 previously:

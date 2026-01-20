@@ -32,7 +32,7 @@ Dans un contexte de pression accrue sur la ressource en eau et de changement cli
 Les traitements de l'eau brute étant couteux, la protection de la ressource en eau à la source constitue une solution durable qu'il convient de privilégier systématiquement. 
 
 ## Problème 
-Les démarches de protection de la ressource en eau s'inscrivent essentiellement dans une approche incitative et non réglementaire. Elles sont pilotés par les collectivités qui exploitent les captages d'eau potable. Il s'agit de convaincre les acteurs de s'emparer du sujet et de faire évoluer les pratiques problématiques. 
+Les démarches de protection de la ressource en eau s'inscrivent essentiellement dans une approche incitative et non réglementaire. Elles sont pilotées par les collectivités qui exploitent les captages d'eau potable. Il s'agit de convaincre les acteurs de s'emparer du sujet et de faire évoluer les pratiques problématiques. 
 C'est une démarche complexe reposant : 
 * sur un diagnostic de la situation (identification du territoire d'intervention, des pressions exercées ..) 
 * et l'élaboration d'une stratégie efficiente de protection partagés entre les différents acteurs impliqués (collectivités, services de l'état, financeur, agriculteurs .... ). 

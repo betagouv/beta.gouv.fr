@@ -40,5 +40,6 @@ competences:
   - Product design
   - Accessibilité
   - UI
+github: AliceGourbat
 ---
 UX/UI designer • Product designer 

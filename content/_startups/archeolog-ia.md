@@ -25,6 +25,7 @@ phases:
 events:
   - name: product_launch
     date: 2025-04-28
+repository: https://github.com/betagouv/archeologia-pipeline
 link: ''
 ---
 

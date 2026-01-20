@@ -13,9 +13,12 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-02-13
+  - name: construction
+    start: 2026-01-20
 events:
-  - name: product_launch
-    date: 2025-02-13
+  - name: committee
+    date: 2026-01-16
+    comment: La création d'une plateforme unifiée d'accès aux données sols à fait consensus
 usertypes: []
 techno: []
 link: ''
@@ -43,38 +46,29 @@ Questions pour l’investigation, afin de maximiser l’impact in finé :
 
 ## Stratégie
 
-**Début d'investigation : février 2025**
+**Début de construction : janvier 2026**
 
-Dans cette investigation, un binômage Data scientist / coach, est mis en place.
+Access-Sol est une plateforme web et API qui :
+* centralise l’accès aux principales données de sols existantes,
+* harmonise leur présentation et leurs modalités d’accès,
+* propose des outils de recherche, de consultation et de réutilisation,
+* facilite l’émergence de cas d’usage opérationnels.
 
----
+**Cibles prioritaires**
 
-La stratégie d’Access-Sol s’appuie sur une démarche d’investigation structurée pour valider l’opportunité d’une plateforme nationale harmonisée d’accès aux données de sols IGCS.
+La phase de construction se concentre sur un nombre restreint de cibles, sélectionnées pour leur besoin immédiat et leur capacité à tester rapidement le produit.
 
-**Comprendre les besoins et usages**
+* Bureaux d’études en environnement (cible principale) : utilisateurs intensifs des données de sols dans les études réglementaires et environnementales, confrontés à une forte dispersion des sources et à des formats hétérogènes.
 
-Immersion auprès de l’écosystème (INRAE, partenaires, utilisateurs finaux) pour cartographier les pratiques et identifier les irritants majeurs liés à la dispersion et à l’hétérogénéité des données.
+* Collectivités territoriales et services techniques : acteurs de la planification, de l’aménagement et de la gestion des risques, ayant besoin d’un accès fiable et simplifié aux données.
 
-Entretiens et observations pour recueillir les attentes, usages réels et cas d’usage prioritaires.
+* Services de l’État et opérateurs publics : producteurs et utilisateurs de données de sols, en recherche de solutions de mutualisation et de standardisation de l’accès aux données.
 
-**Co-construire la solution**
 
-Formalisation collective des problèmes à résoudre lors d’ateliers avec les parties prenantes.
+**Approche et méthodologie**
 
-Exploration de pistes de solutions (centralisation, outils de visualisation, harmonisation des formats) et prototypage rapide.
-
-Tests de valeur auprès d’un panel d’utilisateurs pour prioriser les fonctionnalités et lever les freins à l’adoption.
-
-**Préparer la décision** 
-
-Synthèse des enseignements et recommandations présentées au comité d’investissement (GIS Sol, ADEME, CEREMA, Beta.gouv).
-
-Prise en compte des enjeux d’embarquement de l’écosystème, de la diversité des partenaires et des attentes politiques pour maximiser l’adhésion.
-
----
-
-**Enjeux clés :**
-
-Passer d’un patchwork départemental à une plateforme nationale harmonisée.
-
-Favoriser l’ouverture, la valorisation et la réutilisation des données de sols au service de la recherche, des territoires et des politiques publiques.
+Le produit est développé selon l’approche Startup d’État (beta.gouv) :
+* développement rapide d’un MVP,
+* itérations courtes basées sur les retours utilisateurs,
+* priorisation guidée par l’usage réel et l’impact observé,
+* respect des standards beta.gouv (qualité, sécurité, accessibilité, ouverture).

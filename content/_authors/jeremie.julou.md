@@ -9,9 +9,9 @@ competences:
   - Croissance
 missions:
   - start: 2025-03-29
-    end: 2026-01-30
+    end: 2026-06-30
     status: independent
-    employer: Dynergie
+    employer: INRAE
     startups:
       - access-sol
   - start: 2025-04-01
