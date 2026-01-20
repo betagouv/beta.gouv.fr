@@ -70,7 +70,7 @@ La DINUM finance un pôle d’expertise transverse qui s’adresse aux équipes 
 
 En 2026, le Pôle Numérique Inclusif comporte 4 personnes à temps partiel, expertes en accessibilité pluridisciplinaires (UX, dev, accompagnement…).
 
-Sa mission est détaillée dans la section [Politique d'accessibilité](#politique-daccessibilite).
+Sa mission est détaillée dans la section *Politique d'accessibilité*.
 
 ### Aides externes
 
