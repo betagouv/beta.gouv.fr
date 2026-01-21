@@ -23,6 +23,7 @@ mission: Parapheur Electronique de l'Administration Territoriale de l'Etat
 incubator: dinum
 sponsors:
   - /organisations/ditp
+  - /organisations/menjs
   - /organisations/ministere-de-l-interieur-et-des-outre-mer-direction-des-ressources-humaines
   - /organisations/secretariat-general-aux-affaires-regionales-sgar-bretagne
 phases:
@@ -30,32 +31,24 @@ phases:
     start: 2022-05-01
   - name: construction
     start: 2023-03-01
-  - name: alumni
-    start: 2026-01-19
+  - name: success
+    start: 2026-01-01
 events:
-  - name: end
-    date: 2025-01-19
+  - name: other
+    date: 2026-01-01
+    comment: 'En production et modèle économique commun numérique de l''administration de l’État (ATE + rectorats) réalisé. '
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#PeATE
 ---
-Post-mortem
+##Statut du projet : création d'un commun numérique de l'administration déconcentrée et pérennisé 
 
-Cette fiche ne décrit pas un projet ayant réellement été conduit en mode startup d’État.
-Le produit présenté est issu d’un partenariat ponctuel entre une administration et un acteur privé, sans qu’une transformation en startup d’État n’ait jamais abouti.
+Ce projet est passé en production en 2025 et a permis de construire un commun numérique de l'administration déconcentrée portée par 22 organisations relevant de l'éducation nationale (rectorats) et de l'Administration Territoriale de l’État (SGARs, préfectures, DREAL, DRAAF...). 
 
-Si une réflexion a existé à un moment pour envisager une inscription dans le cadre Beta.gouv.fr , celle-ci n’a pas été mise en œuvre :
+Un modèle économique et un partenariat avec l'éditeur technique ont été définis et permet à la solution d'être financée jusqu'à fin février 2027 (tour de table des financements annuel). La solution finalise sa "pro-connexion" et s'interconnectera avec les solutions de la suite numériques notamment GRIST, RESANA et DOCS.
 
-aucun comité d’investissement n’a été organisé,
+Au 23 décembre 2025 (source : https://www.parapheur-peate.fr/) + de 43 000 parapheurs ont été totalement dématérialisés grâce à PeATE et cela a permis l'économie de + de 12 tonnes CO2 (équivalent de 250 000 pages papier imprimées). 
 
-aucun objectif d’impact n’a été formalisé,
-
-aucune équipe produit dédiée n’a été constituée pour opérer le service,
-
-aucune dépense n’a été engagée dans le cadre des marchés BETA.gouv.
-
-Le projet n’a donc jamais été incubé ni opéré selon la méthodologie des startups d’État.
-La fiche a été créée de manière prématurée et n’est plus d’actualité en tant que projet actif.
-
-Elle est conservée en partenariat terminé à des fins d’historique et de transparence, mais ne reflète pas un produit développé ou financé dans le cadre de Beta.gouv.fr
+*(fin de la phase initiée start-up d’État)*
+ 
 
 ## Contexte
 

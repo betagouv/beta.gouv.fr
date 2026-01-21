@@ -22,7 +22,7 @@ missions:
       - api-particulier
       - datapass
   - start: 2025-02-05
-    end: 2026-02-05
+    end: 2026-04-21
     status: admin
     employer: DINUM
     startups:
