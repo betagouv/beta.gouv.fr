@@ -19,6 +19,7 @@ phases:
 events:
   - name: product_launch
     date: 2025-12-16
+budget_url: https://grist.numerique.gouv.fr/o/accelerema/iAp8fug7Pzv4/Budget/p/23?embed=true&Produit_=Datafoncier%20actionnabilit%C3%A9
 ---
 ## Contexte
 

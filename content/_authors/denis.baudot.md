@@ -1,6 +1,6 @@
 ---
 fullname: Denis Baudot
-role: Mentor/Référent tech ISN/FAST
+role: 'CTO Ruche numérique '
 domaine: Développement
 github: dxb
 missions:
@@ -10,6 +10,10 @@ missions:
     employer: DINUM
     startups:
       - espace-membre
+  - start: 2026-01-19
+    end: 2026-06-20
+    status: admin
+    employer: 'MAASA / Ruche numérique '
 previously:
   - nosgestesclimat
   - cnr
@@ -20,6 +24,7 @@ previously:
 badges:
   - segur
 teams:
+  - /teams/agriculture-equipe-transverse
   - /teams/dinum-incubateur
 competences:
   - Développement Full-stack

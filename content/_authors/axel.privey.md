@@ -16,16 +16,12 @@ missions:
     employer: Agence Nationale des Données de Voyage
     startups:
       - andv-aerien
-  - start: 2025-01-01
+  - start: 2025-02-10
     end: 2026-07-08
     status: admin
-    employer: DNGCD
+    employer: Direction Nationale Garde-Côtes des Douanes
     startups:
       - anais
-  - start: 2025-02-10
-    end: 2025-12-31
-    status: admin
-    employer: Direction Nationale Garde-Côtes des Douanes
 competences:
   - Gestion de système d'information
   - Product strategy
