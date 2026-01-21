@@ -45,7 +45,19 @@ L'IA pourra être une aide à la relecture formelle et de fond.
 
 ## Objectifs à 6 mois
 
-Test des modèles de LLM et construction de l'interface 
+- Sélection et déploiement du modèle
 
- 
+Évaluer et choisir un LLM open-source adapté aux besoins juridiques
+Déployer le modèle sur l'infrastructure Justice en garantissant sécurité et confidentialité
 
+- Adaptation au domaine juridique
+
+Optimiser le modèle LLM pour créer une IA spécifique (RAG et / ou fine-tuning) en fonction des tests initiaux
+
+- Développement de l'application
+
+Concevoir une interface et des fonctionnalités adaptées au "workflow" spécifique des juges civilistes 
+
+- Validation impact
+
+Valider la mesure d'impact (temps gagné) par un test grandeur nature auprès de 20 à 30 magistrats beta-testeurs

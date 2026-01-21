@@ -1,6 +1,6 @@
 ---
 fullname: Lucas Poulain
-role: Designer développeur à aides-simplifiées
+role: Designer développeur
 domaine: Design
 github: ShallowRed
 link: https://www.linkedin.com/in/lucas-poulain-81a229171/
@@ -10,7 +10,7 @@ competences:
   - Développement Frontend
 missions:
   - start: 2024-12-09
-    end: 2026-02-28
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:
@@ -22,3 +22,4 @@ missions:
     startups:
       - csplab
 ---
+Designer développeur intervenant sur des projets numériques d’intérêt général, principalement pour des acteurs publics. Ma pratique est à la croisée du design et du développement web, avec une attention particulière portée à la sobriété, l’accessibilité et la convivialité des usages.
