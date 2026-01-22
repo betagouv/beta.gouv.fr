@@ -5,7 +5,7 @@ domaine: Déploiement
 competences: []
 missions:
   - start: 2024-09-09
-    end: 2026-01-31
+    end: 2026-02-10
     status: service
     employer: Little Big Connection
     startups:

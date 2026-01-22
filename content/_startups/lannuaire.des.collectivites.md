@@ -31,7 +31,7 @@ mon_service_securise: true
 stats_url: https://collectivite.fr/stats
 usertypes: []
 techno: []
-impact_url: https://collectivite.fr/stats
+impact_url: https://docs.numerique.gouv.fr/docs/f615131f-02b6-4fa2-a1e7-33eb670f29db/
 ---
 ## Contexte
 
@@ -56,3 +56,4 @@ Créer une page web pour chaque commune est la solution qui permet de répondre 
 * Présenter les services de la ville, ses associations, ses équipements, etc. pour les habitants.
 * Transmettre des informations à jour, diffuser des alertes en temps réel : évènements, alerte canicule ou intempéries, restrictions d’eau, etc. 
 * Insuffler un mouvement vers l’open data pour toutes les communes et construire une culture solide autour de la donnée et de ses usages (collectes et mises à jour régulières)
+* En 2026, l'Annuaire des collectivités s'inscrit dans La Suite Territoriale.

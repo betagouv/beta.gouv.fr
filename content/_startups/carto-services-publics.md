@@ -18,6 +18,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-10-01
+  - name: alumni
+    start: 2025-12-15
 events:
   - name: product_launch
     date: 2024-10-01
@@ -36,3 +38,6 @@ La réalisation depuis 2017 de Schémas départementaux d'amélioration de l'acc
 
 Le chantier est relativement similaire à d'autres travaux qui ont pu être menés sur la donnée adresse ou bâtiment. Si un identifiant unique des services publics appuyé sur une définition partagée est une solution séduisante, il ne résout par la problématique de la circulation des données et de la gouvernance des différents référentiels entretenus par l'Etat (Annuaire du Service public, Répertoire FINESS...).
 L'investigation doit permettre de mieux comprendre les contextes réels des producteurs à l'échelle nationale et locale, des agrégateurs de données, et des utilisateurs finaux de ces bases et proposer des scénarios opérationnels privilégiant l'impact.
+
+## Suites
+L'investigation menée sur la base de données a démontré l'intérêt de développer un commun permettant une meilleure circulation des informations. Ce projet sera porté la Direction de l'information légale et administrative (DILA) et aura pour vocation de rassembler de nombreux partenaires.

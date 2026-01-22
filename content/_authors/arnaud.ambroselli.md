@@ -24,7 +24,7 @@ missions:
     startups:
       - recosante
   - start: 2024-08-01
-    end: 2026-01-01
+    end: 2026-06-30
     status: independent
     employer: Little Big Connection
     startups:

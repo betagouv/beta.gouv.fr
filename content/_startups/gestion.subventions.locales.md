@@ -24,6 +24,13 @@ techno:
   - python
   - graphql
 repository: https://github.com/betagouv/gestion-des-subventions-locales
+events:
+  - name: product_launch
+    date: 2026-01-13
+    comment: Lancement auprès d'une trentaine de préfecture
+  - name: other
+    date: 2026-12-19
+    comment: Homologation de sécurité
 link: ''
 ---
 ## La start-up

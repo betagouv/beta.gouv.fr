@@ -7,7 +7,7 @@ competences:
   - PostgreSQL
 missions:
   - start: 2024-11-01
-    end: 2025-12-30
+    end: 2026-06-30
     status: admin
     employer: Atelier numérique
     startups:

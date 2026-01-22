@@ -23,6 +23,7 @@ mission: Parapheur Electronique de l'Administration Territoriale de l'Etat
 incubator: dinum
 sponsors:
   - /organisations/ditp
+  - /organisations/menjs
   - /organisations/ministere-de-l-interieur-et-des-outre-mer-direction-des-ressources-humaines
   - /organisations/secretariat-general-aux-affaires-regionales-sgar-bretagne
 phases:
@@ -30,12 +31,25 @@ phases:
     start: 2022-05-01
   - name: construction
     start: 2023-03-01
+  - name: success
+    start: 2026-01-01
 events:
   - name: other
-    date: 2023-03-01
-    comment: Mise en production locale pour expérimentation de généralisation
+    date: 2026-01-01
+    comment: 'En production et modèle économique commun numérique de l''administration de l’État (ATE + rectorats) réalisé. '
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#PeATE
 ---
+##Statut du projet : création d'un commun numérique de l'administration déconcentrée et pérennisé 
+
+Ce projet est passé en production en 2025 et a permis de construire un commun numérique de l'administration déconcentrée portée par 22 organisations relevant de l'éducation nationale (rectorats) et de l'Administration Territoriale de l’État (SGARs, préfectures, DREAL, DRAAF...). 
+
+Un modèle économique et un partenariat avec l'éditeur technique ont été définis et permet à la solution d'être financée jusqu'à fin février 2027 (tour de table des financements annuel). La solution finalise sa "pro-connexion" et s'interconnectera avec les solutions de la suite numériques notamment GRIST, RESANA et DOCS.
+
+Au 23 décembre 2025 (source : https://www.parapheur-peate.fr/) + de 43 000 parapheurs ont été totalement dématérialisés grâce à PeATE et cela a permis l'économie de + de 12 tonnes CO2 (équivalent de 250 000 pages papier imprimées). 
+
+*(fin de la phase initiée start-up d’État)*
+ 
+
 ## Contexte
 
 Une initiative du SGAR Bretagne pour trouver une méthode et une solution numérique ENFIN adaptée aux usages concret dont interministériels de l'Administration Territoriales de l’État (ATE). Grâce au méthodologie et au cadre du laboratoire d'innovation TI Lab, une expérimentation d'usage avec des designers en immersion dans les services a pu être lancée durant l'été 2022. Suite aux résultats, "un livre de recette des conditions de réussite du déploiement du parapheur électronique" a été réalisé et une solution a pu être adaptée et évoluée au vu des besoins. 

@@ -19,11 +19,17 @@ missions:
     startups:
       - estime
   - start: 2023-07-12
-    end: 2026-02-20
+    end: 2025-12-20
     status: independent
     employer: UT7
     startups:
       - pilotagevoiepro
+  - start: 2026-01-20
+    end: 2026-04-21
+    status: independent
+    employer: UT7
+    startups:
+      - la-bonne-alternance
 previously:
   - la-bonne-formation
   - estime

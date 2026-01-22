@@ -11,7 +11,7 @@ missions:
     startups:
       - l-application-du-cej
   - start: 2025-11-04
-    end: 2026-02-04
+    end: 2026-06-30
     status: service
     employer: Octo
 competences: []

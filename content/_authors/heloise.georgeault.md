@@ -9,7 +9,7 @@ missions:
     startups:
       - preuve-de-covoiturage
   - start: 2025-09-26
-    end: 2025-12-31
+    end: 2026-03-28
     status: admin
     employer: DGITM
     startups:

@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: scopyleft
   - start: 2024-02-05
-    end: 2026-02-01
+    end: 2026-04-01
     status: service
     employer: Scopyleft
     startups:

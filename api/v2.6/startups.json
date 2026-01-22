@@ -15,6 +15,7 @@ layout: null
             , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{% if startup.stats %}{{ startup.link | strip }}/stats{% endif %}{% endif %}"
             {% if startup.budget_url %}
             ,"budget_url": "{{ startup.budget_url }}"{% endif %}{% if startup.link %}
+            ,"impact_url": "{{ startup.impact_url }}"
             , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
             , "repository": "{{ startup.repository}}"{% endif %}
             , "contact": "{{startup.contact}}"

@@ -12,7 +12,7 @@ missions:
     startups:
       - lannuaire.des.collectivites
   - start: 2025-07-07
-    end: 2026-02-28
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:
