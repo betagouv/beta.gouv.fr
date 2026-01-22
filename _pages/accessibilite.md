@@ -7,8 +7,10 @@ title: Accessibilité
 **beta.gouv.fr** s’engage à rendre ses services numériques accessibles, conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
 
 À cette fin, beta.gouv.fr met en œuvre la stratégie décrite dans le [Schéma pluriannuel 2024-2027](/accessibilite/schema-pluriannuel) 
+- [Bilan 2023](/accessibilite/schema-pluriannuel#bilan-2023)
 - [Bilan 2024](/accessibilite/schema-pluriannuel#bilan-2024)
-- [Plan d'action 2025](/accessibilite/schema-pluriannuel#plan-2025)
+- [Bilan 2025](/accessibilite/schema-pluriannuel#bilan-2025)
+- [Plan d'action 2026](/accessibilite/schema-pluriannuel#plan-2026)
 
 ## Déclaration de conformité partielle au RGAA
 
