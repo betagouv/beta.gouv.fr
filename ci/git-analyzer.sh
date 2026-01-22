@@ -172,16 +172,19 @@ else
             log_verbose "Traitement du fichier: $file"
             FILE_NAME=$(basename -s .md $file)
             echo "" >> "$REPORT_FILE"
-            echo "### 📄 [$FILE_NAME](https://beta.gouv.fr/startups/$FILE_NAME)" >> "$REPORT_FILE"
+            if [[ "$TARGET_DIR" == "_startups" || "$TARGET_DIR" == "./_startups" || "$TARGET_DIR" == *"/_startups" ]]; then
+                echo "### 📄 [$FILE_NAME](https://beta.gouv.fr/startups/$FILE_NAME)" >> "$REPORT_FILE"
+            elif [[ "$TARGET_DIR" == "_authors" || "$TARGET_DIR" == "./_authors" || "$TARGET_DIR" == *"/_authors" ]]; then
+                echo "### 📄 [$FILE_NAME](https://espace-membre.incubateur.net/community/$FILE_NAME)" >> "$REPORT_FILE"
+            else
+                echo "### 📄 $FILE_NAME" >> "$REPORT_FILE"
+            fi
             echo "" >> "$REPORT_FILE"
             
             # Informations sur le fichier
             FILE_COMMITS=$(git log --since="$START_DATE" --oneline -- "$file" | wc -l)
             
             cat >> "$REPORT_FILE" << EOF
-**Dernière modification:** $LAST_COMMIT_DATE  
-#### 🔄 Changements depuis le début de la période
-
 \`\`\`diff
 EOF
             
@@ -195,7 +198,7 @@ EOF
             if [[ -n "$BEFORE_PERIOD_COMMIT" ]]; then
                 # Diff depuis l'état avant la période jusqu'à maintenant
                 log_debug "Génération du diff depuis $BEFORE_PERIOD_COMMIT jusqu'à HEAD"
-                DIFF_OUTPUT=$(git diff "$BEFORE_PERIOD_COMMIT" HEAD -- "$file" 2>/dev/null)
+                DIFF_OUTPUT=$(git diff --no-prefix --word-diff=plain -U0 "$BEFORE_PERIOD_COMMIT" HEAD -- "$file" | grep -v "^---" | grep -v "^+++" | grep -v "^index\s" | grep -v "^diff --git" 2>/dev/null)
                 if [[ -n "$DIFF_OUTPUT" ]]; then
                     echo "$DIFF_OUTPUT" >> "$REPORT_FILE"
                     log_debug "Diff généré avec succès ($(echo "$DIFF_OUTPUT" | wc -l) lignes)"

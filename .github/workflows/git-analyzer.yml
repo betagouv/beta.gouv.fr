@@ -18,13 +18,13 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Run diff
+      - name: Run diff startups
         run: ./ci/git-analyzer.sh ./content/_startups 30 startups.md
 
-      - name: Show diff
-        run: cat startups.md
+      - name: Run diff members
+        run: ./ci/git-analyzer.sh ./content/_authors 30 members.md
 
-      - name: Generate LLM summary
+      - name: Generate LLM summary for startups
         env:
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -38,14 +38,14 @@ jobs:
               "messages": [
                 {
                   "role": "system",
-                  "content": "Tu es un assistant qui résume les changements dans un dépôt Git. Génère un résumé clair et lisible en français des modifications apportées aux fiches startups. Organise le résumé par type de changement (nouvelles startups, mises à jour, suppressions). Met les changements de phase en avant et ne manque aucune info importante. Met toujours le lien de la startup autour de son nom."
+                  "content": "Tu es un assistant qui résume les changements dans un dépôt Git pour le grand public, sans détail technique. Génère un résumé clair et lisible en français des modifications apportées aux fiches startups. Organise le résumé par type de changement (noveaux fichiers, mises à jour, suppressions). Met les changements de phase en avant, ne manque aucune info importante, mentionne les URLs indiquées. Met toujours le lien URL de la startup autour de son nom https://beta.gouv.fr/startups/[id]."
                 },
                 {
                   "role": "user",
                   "content": $content
                 }
               ],
-              "temperature": 0.3
+              "temperature": 0.1
             }')
 
           RESPONSE=$(curl -s "${OPENAI_BASE_URL}/chat/completions" \
@@ -55,6 +55,37 @@ jobs:
 
           echo "$RESPONSE" | jq -r '.choices[0].message.content' > startups-summary.md
 
+      - name: Generate LLM summary for members
+        env:
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          CONTENT=$(cat members.md)
+
+          PAYLOAD=$(jq -n \
+            --arg content "$CONTENT" \
+            '{
+              "model": "mistral-small-3.2-24b-instruct-2506",
+              "messages": [
+                {
+                  "role": "system",
+                  "content": "Tu es un assistant qui résume les changements dans un dépôt Git pour le grand public, sans détail technique. Génère un résumé clair et lisible en français des modifications apportées aux fiches membres. Organise un résumé concis comme suit : \n\n - 🎉 liste des nouveaux membres, missions et startups\n - 📖 changements de rôles\n\nNe prend pas en compte les changements de date et prolongation de mission. Met toujours le lien URL des membres autour de leur nom https://espace-membre.incubateur.net/community/[username]."
+                },
+                {
+                  "role": "user",
+                  "content": $content
+                }
+              ],
+              "temperature": 0.1
+            }')
+
+          RESPONSE=$(curl -s "${OPENAI_BASE_URL}/chat/completions" \
+            -H "Authorization: Bearer ${OPENAI_API_KEY}" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD")
+
+          echo "$RESPONSE" | jq -r '.choices[0].message.content' > members-summary.md
+
       - name: Convert to HTML
         run: |
           mkdir -p gh-pages
@@ -62,6 +93,10 @@ jobs:
           cp startups-summary.md  > ./gh-pages/
           npx markdown-to-html-cli startups.md --output "gh-pages"
           npx markdown-to-html-cli startups-summary.md --output "gh-pages"
+          cp members.md  > ./gh-pages/
+          cp members-summary.md  > ./gh-pages/
+          npx markdown-to-html-cli members.md --output "gh-pages"
+          npx markdown-to-html-cli members-summary.md --output "gh-pages"
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
