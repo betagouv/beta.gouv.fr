@@ -12,7 +12,7 @@ breadcrumbs:
     - title: Schéma pluriannuel 2024 - 2027
 ---
 
-*Date de publication : 04/01/2024*
+*Date de publication : 20/01/2026*
 
 ## Introduction
 
@@ -27,27 +27,27 @@ beta.gouv.fr est à la fois une structure, un incubateur et un réseau d’incub
 beta.gouv.fr gère en interne les produits suivants :
 - Le **site beta.gouv.fr**
 - L’**espace membre** (intranet)
-- Le site **[EIG](https://www.eig.numerique.gouv.fr/)**
-- Le site **[Accélérateur d'initiatives citoyennes](https://communs.beta.gouv.fr/)**
+- L'outil **[Standards](https://standards.incubateur.net/)**
 - Le tableau de bord **[Dashlord](https://dashlord.incubateur.net/)**
 
 Nous sommes aussi responsables de nos publications sur les réseaux sociaux (LinkedIn), dans notre newsletter et sur notre [espace de documentation](https://doc.incubateur.net).
 
 ### Produits accompagnés à l’Incubateur DINUM de beta.gouv.fr
 
-En plus des outils internes, nous accompagnons un petit nombre de services publics numériques. La [liste des produits concernés](https://beta.gouv.fr/startups/?incubateur=dinum) est détaillée sur le site. Début 2024, ce périmètre concerne environ 20 produits.
+En plus des outils internes, nous accompagnons un petit nombre de services publics numériques. La [liste des produits concernés](https://beta.gouv.fr/startups/?incubateur=dinum) est détaillée sur le site. Début 2026, ce périmètre concernait environ 30 produits.
 
 ### Produits incubés dans le réseau beta.gouv.fr
 
-Enfin, en tant que réseau d’incubateur, beta.gouv.fr accompagne de nombreux services publics, dans différents ministères. Spécificité de l’incubation, la liste de ces produits est mouvante, les produits étant incubés un temps limité. La [liste complète](https://beta.gouv.fr/startups/) est disponible sur le site.
+Enfin, en tant que réseau d’incubateur, beta.gouv.fr accompagne de nombreux services publics, dans différents ministères et opérateurs. Spécificité de l’incubation, la liste de ces produits est mouvante, les produits étant incubés un temps limité. La [liste complète](https://beta.gouv.fr/startups/) est disponible sur le site.
 
-Début 2024, ce périmètre concerne environ 150 produits numériques, répartis dans plusieurs incubateurs ministériels.
+Début 2026, ce périmètre concernait environ 250 produits numériques, répartis dans plusieurs incubateurs.
 
 ### Hors périmètre
 
-Les services numériques n’ayant pas rendu n’ayant pas (encore) d’URL accessible en dehors de l’équipe de conception ne sont pas concernés par ce schéma. Ainsi, concernant les produits incubés dans le réseau (niveau 2 et 3), nous considérons hors périmètres les services en investigation (ce ne sont encore pas des services numériques).
-
-Par ailleurs, les services pérennisés ou en fin de partenariat sont aussi hors périmètre (ils ne sont plus incubés chez beta.gouv).
+Nous considérons hors périmètres du schéma pluriannuel :
+- les produits n’ayant pas (encore) d’URL accessible ;
+- les produits en investigation (ce ne sont encore pas des services numériques) ;
+- les produits pérennisés ou en fin de partenariat (ils ne sont plus incubés chez beta.gouv).
 
 ## Ressources humaines et techniques
 
@@ -60,33 +60,32 @@ L’élaboration, le suivi et la mise à jour de ce schéma pluriannuel sont pla
 Sa mission est :
 - de promouvoir l’accessibilité par la diffusion des normes et des bonnes pratiques,
 - d’accompagner les équipes internes par des actions de formation notamment,
-- de contrôler et de veiller à l’application de la loi du 11 février 2005 précitée en procédant, directement ou par l’intermédiaire d’intervenants spécialisés, à des audits réguliers,
-- enfin, d’assurer la prise en charge des demandes des utilisateurs et, de manière générale, la qualité du service rendu aux utilisateurs en situation de handicap.
+- de contrôler et de veiller à l’application de la loi du 11 février 2005.
 
-Pour réaliser ces missions, le référent accessibilité peut s’appuyer sur un pôle d’expertise.
+Pour réaliser ces missions, la référente accessibilité peut s’appuyer sur un pôle d’expertise.
 
-### Pôle numérique inclusif
+### Pôle Numérique Inclusif
 
-Le département de l'Incubateur de Services Numériques de la DINUM met à disposition un Pôle Numérique Inclusif. C’est un pôle d’expertise transverse qui s’adresse aux équipes à l'œuvre.
+La DINUM finance un pôle d’expertise transverse qui s’adresse aux équipes des services incubés.
 
-En 2023, le PNI comporte 3 personnes à temps partiel, expertes en accessibilité pluridisciplinaires (UX, dev, accompagnement…).
+En 2026, le Pôle Numérique Inclusif comporte 4 personnes à temps partiel, expertes en accessibilité pluridisciplinaires (UX, dev, accompagnement…).
 
-Sa mission est détaillée dans les sections suivantes.
+Sa mission est détaillée dans la section *Politique d'accessibilité*.
 
 ### Aides externes
 
-L’équipe interne a beta et les services (niveau 1, 2 et 3) peuvent faire appel aux ressources suivantes :
-- Les **marchés publics**, pour faire appel à des prestataires expert·es en accessibilité (pour faire des audits, ou pour construire les produits).
-- Le **fonds de financement d’accessibilité** de la DINUM.
+Les équipes produits peuvent faire appel aux ressources suivantes :
+- les **marchés publics**, pour faire appel à des prestataires expert·es en accessibilité (pour faire des audits, ou pour construire les produits).
+- le **fonds de financement d’accessibilité** de la DINUM.
 
 ## Moyens techniques
 
-L’incubateur dispose et propose de plusieurs moyens techniques et de l’outillage pour gérer et tester l’accessibilité numérique :
+L’incubateur propose plusieurs moyens techniques et de l’outillage pour gérer et tester l’accessibilité numérique :
 
-- Le **DSFR** (le Design System de l’État), géré par le SIG, et dont l’utilisation est préconisé auprès des équipes,
-- Le **Dashlord**, l’outil de suivi qui donne des mesures sur l’écran d’accueil, à l’usage des équipes,
-- La **documentation**, à destination des équipes de l’incubateur, dont une section entière est dédiée à l’accessibilité,
-- Différents **protocoles de tests** détaillés dans la partie *[Stratégie](#stratégie-de-mise-en-oeuvre)*.
+- Le **DSFR** (le Design System de l’État), géré par le SIG, et dont l’utilisation est préconisé auprès des équipes ;
+- Le **Dashlord**, l’outil de suivi qui donne des mesures sur l’écran d’accueil ;
+- La **documentation**, dont une section entière est dédiée à l’accessibilité ;
+- Différents **protocoles de tests** détaillés dans la partie *[Stratégie](#stratégie-de-mise-en-oeuvre)* ;
 - Un **générateur de déclaration d’accessibilité**, pour faciliter le respect des obligations légales.
 
 Cette liste est vouée à évoluer pour compléter l’outillage de l’incubateur.
@@ -97,11 +96,9 @@ Notre politique est de rendre les équipes **compétentes et autonomes en access
 
 ### Ressources humaines
 
-En terme de **recrutement**, chaque équipe de l’incubateur est autonome dans ses choix. Le Pôle Numérique Inclusif fournit cependant de la documentation et de l’aide au recrutement pour qualifier l’expertise a11y.
+En terme de **recrutement**, chaque équipe de l’incubateur est autonome dans ses choix. Le Pôle Numérique Inclusif fournit cependant de la documentation et de l’aide au recrutement pour qualifier l’expertise en accessibilité numérique.
 
-Le Pôle Numérique Inclusif mène aussi des **actions de formation** :
-- Chaque personne rejoignant le réseau est sensibilisée à l’accessibilité numérique.
-- Des webinaires spécifiques sont proposés régulièrement, pour les développeurs, coachs, designers…
+Le Pôle Numérique Inclusif mène aussi des **actions de formation** : des webinaires spécifiques sont proposés régulièrement, pour les développeurs, coachs, designers…
 
 Enfin, si nécessaire, les équipes peuvent faire appel à des **intervenants externes** pour accélérer la mise en accessibilité.
 
@@ -121,7 +118,7 @@ En terme de moyens, les équipes bénéficient :
 - du **générateur de déclaration d’accessibilité**
 - du **DSFR**, et notamment du composant Pied de page qui inclut la mention de conformité.
 
-Un suivi régulier est fait (mis à jour 3 à 4 fois par an) pour mesurer la progression du parc.
+Un suivi régulier est fait (au moins une fois par an) pour mesurer la progression du parc.
 
 #### Étape 2 : Tests automatisés
 
@@ -129,7 +126,7 @@ Le Pôle Numérique Inclusif aide les équipes à **mettre en place des tests au
 
 Pour ce faire, les équipes bénéficient de **documentation** et **kit techniques**, ainsi que d’accompagnement pour l’écriture de tests automatisés.
 
-Le suivi est fait via le Dashlord.
+Un suivi est possible via le [Dashlord](https://dashlord.incubateur.net/).
 
 #### Étape 3 : Tests manuels
 
@@ -137,7 +134,7 @@ Le Pôle Numérique Inclusif forme les équipes à la prise en compte de l’acc
 
 En terme de moyens, les équipes bénéficient d’**ateliers pratiques** pour apprendre la méthodologie et l’incorporer à leurs process de travail.
 
-Le Pôle Numérique Inclusif conserve un suivi des équipes formées, et de leur maturité sur le sujet.
+Le Pôle Numérique Inclusif conserve un suivi des équipes formées.
 
 #### Étape 4 : Conformité
 
@@ -145,13 +142,13 @@ Le Pôle Numérique Inclusif accompagne les équipes en phase d’accélération
 
 Il propose aux équipes un **pré-audit** pour se préparer à l’audit de conformité. Par ailleurs, le Pôle **facilite les relations avec les prestataires externes** pour mener l’audit de conformité.
 
-Le Pôle Numérique Inclusif garde un suivi des services ayant bénéficié d’un audit de conformité (et leur score).
+Le Pôle Numérique Inclusif garde un suivi des services ayant bénéficié d’un audit de conformité.
 
 ### Contrôle et validation
 
 Pour mesurer l’efficacité de notre stratégie, nous mettons en place les modalités de contrôle suivantes :
 
-Un **suivi régulier** (mis à jour 3 à 4 fois par an) de tous les services incubés chez beta :
+Un **suivi régulier** (au moins une fois par an) de tous les services incubés chez beta :
 - Identification des services ayant bénéficié d’un **audit de conformité**
 - Vérification de la **validité et conformité de la déclaration** et de la mention légale, conformément aux obligations de transparence
 
@@ -351,7 +348,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
 
 <div class="fr-table fr-table--no-caption">
 <table>
-    <caption>Plan d'action de la mise en accessibilité</caption>
+    <caption>Bilan 2024 de la mise en accessibilité</caption>
     <thead>
         <tr>
             <th>
@@ -558,9 +555,9 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
 <div class="fr-card fr-enlarge-link fr-card--sm fr-card--horizontal fr-mb-8v">
   <div class="fr-card__body">
     <div class="fr-card__content">
-      <h5 class="fr-card__title">
+      <h4 class="fr-card__title">
         <a href="/accessibilite/evaluation-2024">Évaluation de l'accessibilité 2024</a>
-      </h5>
+      </h4>
       <p class="fr-card__desc">Analyse manuelle sur un échantillon de services numériques</p>
       <div class="fr-card__start">
       </div>
@@ -571,26 +568,104 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
   </div>
 </div>
 
-<h3 id="plan-2025">Plan d'action 2025</h3>
+<h3 id="bilan-2025">Bilan 2025</h3>
 
-#### Pour tous les périmètres
+<div class="fr-table fr-table--no-caption">
+<table>
+    <caption>Bilan 2025 de la mise en accessibilité</caption>
+    <thead>
+        <tr>
+            <th>
+                <p><strong>Action</strong></p>
+            </th>
+            <th>
+                <p><strong>Statut</strong></p>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">
+                <p><strong>Pour tous les périmètres</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Capitaliser sur notre catalogue existant en proposant le contenu dans de nouveaux formats</p>
+            </td>
+            <td>
+                <p><strong>À continuer.</strong> La majorité de nos formats d'ateliers et webinaires sont maintenant aussi disponibles sous forme de <a href="https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite">documentation</a>.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Créer de nouveaux contenus de formations pour la communauté</p>
+            </td>
+            <td>
+                <p><strong>Fait.</strong> Nous avons produit deux nouvelles documentations : <a href="https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/bonnes-pratiques-daccessibilite-des-app-mobile">Apps mobiles et accessibilité</a>, <a href="https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/pdf-et-accessibilite">PDF et Accessibilité</a>).</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p><strong>Périmètre 1 (produits internes à beta.gouv.fr)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Rendre le <a href="https://betagouv.github.io/a11y-generateur-declaration/">Générateur de déclaration d'accessibilité</a> conforme</p>
+            </td>
+            <td>
+                <p><strong>Fait partiellement.</strong> Nous avons fait des correctifs d'accessibilité sur l'outil (pour atteindre 94 % de conformité RGAA).</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Améliorer l'accessibilité de nos outils interne</p>
+            </td>
+            <td>
+                <p><strong>En cours. </strong> Plusieurs audits partiels et correctifs d'accessibilité ont été menés sur l'<a href="https://espace-membre.incubateur.net/dashboard">Espace Membre</a> et sur l'outil d'auto-évaluation <a href="https://standards.incubateur.net/">Standards</a>.</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p><strong>Périmètre 2 (produits incubés à la DINUM)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Proposer du mentorat régulier</p>
+            </td>
+            <td>
+                <p><strong>En cours.</strong> Un budget a été débloqué et nous avons constitué une équipe. Les travaux seront lancés en 2026.</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p><strong>Périmètre 3 (produits incubés dans le réseau)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Accompagner les équipes</p>
+            </td>
+            <td>
+                <p><strong>À continuer.</strong> Nous avons accompagné/aidé 58 équipes différentes.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Continuer nos actions de formations et d'accompagnement auprès du réseau</p>
+            </td>
+            <td>
+                <p><strong>À continuer.</strong> Nous avons animé 36 sessions de webinaires (239 personnes présentes) et mené 2 ateliers à destination des incubateurs.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
-- Capitaliser sur notre catalogue existant en proposant le contenu dans de nouveaux formats
-- Créer de nouveaux contenus de formations (Mobile, PDF...) pour la communauté
 
-#### Périmètre 1 (produits internes à beta.gouv.fr)
+<h3 id="plan-2026">Plan d'action 2026</h3>
 
-- Rendre nos outils totalement conforme (Générateur de Déclaration d'accessibilité)
-- Améliorer l'accessibilité de nos outils interne (Espace Membre)
-
-#### Périmètre 2 (produits incubés à la DINUM)
-
-- Proposer du mentorat régulier
-- Accompagner les équipes à élaborer une stratégie de mise en accessibilité, et améliorer la qualité d'accessibilité
-
-#### Périmètre 3 (produits incubés dans le réseau)
-
-- Continuer nos actions de formations et d'accompagnement auprès du réseau
-- [Évaluer l’accessibilité numérique d’un échantillon de services numériques du portefeuille](/accessibilite/evaluation-2024)
-
-
+*En cours de rédaction*
