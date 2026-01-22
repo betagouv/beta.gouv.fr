@@ -3,7 +3,7 @@ contact: marie-catherine.gaffinel@justice.fr
 thematiques:
   - Justice
 usertypes:
-  - etat
+  - Etat
 title: 'Mon assistant civil '
 mission: synthèse des conclusions et pré rédaction de l'exposé du litige
 incubator: justice
@@ -18,7 +18,8 @@ events:
   - name: committee
     date: 2025-12-08
     comment: budget alloué pour  6 mois à compter du 01/01/2026
-techno: []
+techno:
+  - LLM
 link: ''
 ---
 ## Contexte

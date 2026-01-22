@@ -9,7 +9,7 @@ competences:
   - DevOps
 missions:
   - start: 2025-09-05
-    end: 2025-12-31
+    end: 2026-03-31
     status: service
     employer: FabNum-MI      DTNUM SDID/BAOT
     startups:

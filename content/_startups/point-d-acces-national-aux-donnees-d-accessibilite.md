@@ -12,7 +12,7 @@ usertypes:
   - association
   - collectivite-territoriale
   - etat
-title: accessibilite.data.gouv.fr
+title: PAUDA (accessibilite.data.gouv.fr)
 mission: Faciliter l'accès, l'ouverture et la réutilisation des données d'accessiblité par tous
 incubator: fab-geocommuns
 sponsors:
@@ -40,11 +40,15 @@ Les données d'accessibilité, lorsqu'elles existent, sont exposées sur différ
 En outre, le manque de consolidation des données d'accessibilité rend difficile le chiffrage de l'avancement des politiques publiques d'accessibilité, ce qui est peu propice à leur financement.
 
 ## Solution
-accessibilite.data.gouv.fr se veut le Point d'Accès National aux données d'accessibilité. Il permettra :
-* de référencer les données existantes pour leur donner plus de visiblité (ex. données d'AccesLibre) ; 
-* d'être le point de dépôt de données détenues par les associations ;
-* d'être le guichet d'entrée pour toutes les recheches sur l'accessibilité, la documentation des normes et standards existants, la visualisation des données disponibles ;
-* de faciliter l'ouverture des données, leur normalisation et leur réutilisation. 
+Le oint d'Accès Unique aux Données d'Accessibilité (PAUDA, accessibilite.data.gouv.fr) sera :
+- Un guichet d’entrée pour les recherches de 
+   - Données d’accessibilité, qui renverra vers les bases de données existantes (AccesLibre, transport.data.gouv.fr, data tourisme, etc.)
+   - Documentation sur les normes / standards existants
+- Un outil de visualisation, voire de modélisation / statistiques sur les données référencées
+- Un lieu de dépôt des données sans « maison » (ex. celles des associations)
+- Et surtout une équipe qui facilitera 
+   - L’ouverture et la réutilisation des données
+   - La normalisation des données en y participant, voire en l’initiant 
 
 ## Stratégie
 Approche servicielle et technique :
