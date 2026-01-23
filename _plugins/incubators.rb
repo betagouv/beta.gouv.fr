@@ -22,7 +22,8 @@ module Jekyll
 
     def filter_incubators_with_active_startups(incubators, startups)
       incubators.select do |incubator|
-        count_incubator_active_startups(incubator, startups).positive?
+        # exclude legacy sgmas
+        incubator.id != "sgmas" && count_incubator_active_startups(incubator, startups).positive?
       end
     end
 
