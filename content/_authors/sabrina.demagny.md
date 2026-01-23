@@ -4,7 +4,7 @@ domaine: Développement
 role: Développeuse Python/Django
 missions:
   - start: 2024-03-22
-    end: 2026-01-31
+    end: 2026-01-22
     status: independent
     employer: Malt
     startups:

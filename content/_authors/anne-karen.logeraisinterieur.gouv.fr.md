@@ -9,7 +9,7 @@ competences:
   - Product strategy
 missions:
   - start: 2023-11-20
-    end: 2026-07-31
+    end: 2026-08-01
     status: admin
     employer: Ministère de l'intérieur
     startups:

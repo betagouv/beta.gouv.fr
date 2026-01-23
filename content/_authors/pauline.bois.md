@@ -10,4 +10,10 @@ missions:
     employer: Scopopop
     startups:
       - aplus
+  - start: 2026-01-22
+    end: 2026-04-22
+    status: independent
+    startups:
+      - agents.en.intervention
+      - espace.sur.demande
 ---

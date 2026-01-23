@@ -19,6 +19,8 @@ events:
 phases:
   - name: construction
     start: 2023-04-03
+  - name: transfer
+    start: 2026-01-01
 stats_url: https://agentsenintervention.anct.gouv.fr/statistiques
 mon_service_securise: true
 usertypes:
