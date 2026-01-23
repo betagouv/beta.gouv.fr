@@ -22,6 +22,7 @@ dashlord_url: https://dashlord.incubateur.net/url/assistant-declaration-beta-gou
 techno: []
 sponsors:
   - /organisations/dgca
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4#a1.s29.r18.c2
 ---
 ## **Contexte**
 

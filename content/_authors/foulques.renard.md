@@ -12,5 +12,5 @@ missions:
     employer: Dinum
     startups:
       - depenses-eclairees
-github: foulques.renard@gmail.com
+github: FoulquesR
 ---

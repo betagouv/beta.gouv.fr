@@ -25,6 +25,7 @@ events:
   - name: committee
     date: 2025-04-23
     comment: Validation du passage en construction
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4#a1.s29.r22.c2
 link: ''
 ---
 

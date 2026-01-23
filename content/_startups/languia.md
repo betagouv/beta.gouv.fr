@@ -47,6 +47,7 @@ sponsors:
   - /organisations/mc
 dashlord_url: https://dashlord.incubateur.net/url/www-comparia-beta-gouv-fr/
 impact_url: http://metabase.comparia.beta.gouv.fr/public/dashboard/8d5418a6-40cb-4cdb-8384-101ee6cca0be
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4#a1.s29.r15.c2
 ---
 ## Le problème
 

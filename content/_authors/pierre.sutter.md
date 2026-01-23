@@ -2,7 +2,7 @@
 fullname: Pierre Sutter
 role: Architecte
 domaine: Développement
-github: psutter05
+github: pierre-sutter
 link: https://www.linkedin.com/in/pierresutter/
 competences:
   - Administration Système
