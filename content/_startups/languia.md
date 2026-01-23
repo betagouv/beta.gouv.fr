@@ -41,12 +41,12 @@ events:
   - name: other
     date: 2025-11-04
     comment: Première publication du classement comparIA issu des votes à l'aveugle des utilisateurs de la plateforme
-stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=126#?period=month&date=2024-10-11&category=Dashboard_Dashboard&subcategory=1
+stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=126&period=day&date=yesterday#?period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=1
 sponsors:
   - /organisations/dinum
   - /organisations/mc
 dashlord_url: https://dashlord.incubateur.net/url/www-comparia-beta-gouv-fr/
-impact_url: https://metabase.comparia.beta.gouv.fr/public/dashboard/8d5418a6-40cb-4cdb-8384-101ee6cca0be?tab=6-temps-long
+impact_url: http://metabase.comparia.beta.gouv.fr/public/dashboard/8d5418a6-40cb-4cdb-8384-101ee6cca0be
 ---
 ## Le problème
 

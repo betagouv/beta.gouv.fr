@@ -2,7 +2,7 @@
 fullname: Mathieu Alonso
 domaine: Produit
 github: mathieualonsobetagouv
-role: Product Manager
+role: Lead Product Manager
 link: https://www.linkedin.com/in/mathieualonso/
 missions:
   - start: 2023-09-11
@@ -17,6 +17,12 @@ missions:
     employer: Malt
     startups:
       - services-web-anct
+  - start: 2026-01-07
+    end: 2026-04-30
+    status: independent
+    employer: Omnicite
+    startups:
+      - suite.territoriale
 incubator: anct
 competences:
   - Gestion de Produit
@@ -25,4 +31,4 @@ competences:
   - Communication
 memberType: autre
 ---
-Product Manager basé à Bordeaux
+Lead Product Manager basé à Bordeaux
