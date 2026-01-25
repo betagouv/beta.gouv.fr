@@ -1,6 +1,6 @@
 ---
 fullname: Anais Tailhade
-role: 'Responsable Support '
+role: 'Coach Support '
 domaine: Support
 github: Anais-Tailhade
 missions:

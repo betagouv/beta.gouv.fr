@@ -26,6 +26,7 @@ events:
   - name: product_launch
     date: 2025-04-28
 repository: https://github.com/betagouv/archeologia-pipeline
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4#a1.s29.r23.c2
 link: ''
 ---
 
