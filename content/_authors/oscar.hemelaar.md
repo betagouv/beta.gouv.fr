@@ -15,9 +15,15 @@ missions:
     startups:
       - grist.numerique.gouv.fr
   - start: 2025-10-14
-    end: 2026-02-25
+    end: 2026-02-01
     status: independent
     employer: Malt
+    startups:
+      - opi-cloud
+  - start: 2026-02-01
+    end: 2026-07-26
+    status: independent
+    employer: Scopopop
     startups:
       - opi-cloud
 competences: []

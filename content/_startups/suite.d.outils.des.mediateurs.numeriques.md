@@ -22,6 +22,8 @@ usertypes:
   - association
 techno:
   - next.js
+  - typescript
+  - css
 mon_service_securise: true
 budget_url: https://docs.numerique.gouv.fr/docs/88e3bfdf-4a7a-4331-8d13-3778dbb3ec5b/
 repository: https://github.com/inclusion-numerique/coop-mediation-numerique

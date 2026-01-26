@@ -29,6 +29,7 @@ accessibility_status: partiellement conforme
 repository: https://gitlab.com/incubateur-territoires/startups/site-web-anct/anct.gouv.fr
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/
 impact_url: https://docs.numerique.gouv.fr/docs/d12d2d52-b43c-4652-a9b2-c4cd3a92665b/
+stats_url: https://anct.gouv.fr/statistiques
 ---
 ## Contexte
 

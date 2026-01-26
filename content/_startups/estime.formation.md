@@ -53,7 +53,10 @@ events:
     comment: 'Ouverture 2nd version du parcours pour les personnes n''ayant pas de projet de formation validé: accès à une estimation du montant de rémunération uniquement'
   - name: other
     date: 2024-07-22
-    comment: Ouvertures parcours avec estimation du montant de rémunération uniquement pour les bénéficiaires de l'ACEJ
+    comment: Ouverture parcours avec estimation du montant de rémunération uniquement pour les bénéficiaires de l'ACEJ
+  - name: other
+    date: 2025-09-01
+    comment: Ouverture parcours de simulation au public ARE
 analyse_risques: false
 repository: https://git.beta.francetravail.fr/open-source/estime-formation
 impact_url: https://candidat.francetravail.fr/simulation-ressources-formation/stats
@@ -62,7 +65,7 @@ impact_url: https://candidat.francetravail.fr/simulation-ressources-formation/st
 
 **Impact**
 
-💡 160 000 simulations déjà réalisées depuis le lancement.
+💡 230 000 simulations déjà réalisées depuis le lancement.
 
 💡 +10 fois plus d’actions en moyenne dans le parcours de formation, allant de l'inscription à des formations à la réalisation d’immersions après avoir utilisé le simulateur.
 
@@ -116,11 +119,10 @@ Dans le cadre de l'expérimentation RSA, le service a tout d'abord été ouvert 
 Depuis le 15/04/2024, Estime Formation est directement accessible aux allocataires depuis le guide des simulateurs. En complément de l'ouverture aux bénéficiaires du RSA, de l'ASS et les personnes sans ressource qui ont un projet de formation, le simulateur permet également de se projeter financièrement lorsqu'on a pas de projet de formation.
 Pour les bénéficiaires de l'ACEJ, ils peuvent accéder à la simulation leur permettant d'obtenir le moment de leur rémunération.
 Depuis Septembre 2025, les bénéficiaires de l'ARE ont la possibilité d'effectuer une simulation.
-Nous envisageons d'ouvrir le simulateur pour les formations à temps partiel et pour les personnes percevant déjà la prime d'activité.
 
 Pour les autres publics, ils ont accès à une page d'information spécifique selon leur situation.
 
-*Ouvert actuellement sur les 14 régions :*
+*Ouvert actuellement sur les 15 régions :*
 - Haut de France
 - Pays de la Loire
 - Région Sud PACA
@@ -135,5 +137,6 @@ Pour les autres publics, ils ont accès à une page d'information spécifique se
 - La Réunion
 - Ile de France
 - Bretagne
+- Martinique
 
 Premier semestre 2026, nous envisageons d'ouvrir à l'ensemble des Départements et Régions d'Outre-Mer.

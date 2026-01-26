@@ -6,10 +6,11 @@ link: http://www.anlci.gouv.fr/
 github: martin-griffault
 missions:
   - start: 2021-09-01
-    end: 2025-12-31
+    end: 2026-12-31
     status: admin
     employer: Agence Nationale de Lutte Contre l'Illettrisme (ANLCI)
     startups:
       - eva
+competences: []
 ---
 Couteau suisse un jour, couteau suisse toujours.
