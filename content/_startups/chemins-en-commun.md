@@ -11,7 +11,7 @@ usertypes:
   - collectivite-territoriale
 techno: []
 title: Chemins en commun
-mission: Faciliter la conservation des chemins ruraux et voies communales
+mission: Faciliter la conservation des chemins ruraux et le recensement des voies communales
 incubator: fab-geocommuns
 phases:
   - name: investigation

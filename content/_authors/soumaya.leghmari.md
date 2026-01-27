@@ -4,7 +4,7 @@ role: Chargée de communication
 domaine: Autre
 missions:
   - start: 2023-12-12
-    end: 2026-05-31
+    end: 2025-02-28
     status: independent
     employer: DINUM
     startups:

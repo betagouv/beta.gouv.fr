@@ -9,10 +9,15 @@ missions:
     status: independent
     employer: Numa
     startups:
-      - bambin
       - bat-id
       - vues-immersives-libres
       - zones.irriguees.et.irrigables
+  - start: 2023-01-24
+    end: 2025-11-20
+    status: independent
+    employer: Numa
+    startups:
+      - bambin
 memberType: autre
 link: https://www.linkedin.com/in/luciatahara/
 competences: []

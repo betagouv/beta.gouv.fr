@@ -11,7 +11,7 @@ missions:
     startups:
       - jafer
   - start: 2025-05-01
-    end: 2026-01-14
+    end: 2026-03-14
     status: independent
     employer: Fabrique des ministères sociaux
     startups:

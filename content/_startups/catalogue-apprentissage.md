@@ -9,7 +9,7 @@ sponsors:
 incubator: mission-apprentissage
 link: https://catalogue.apprentissage.beta.gouv.fr/
 repository: https://github.com/mission-apprentissage/catalogue-apprentissage
-contact: catalogue@apprentissage.beta.gouv.fr
+contact: catalogue-apprentissage@education.gouv.fr
 stats_url: https://catalogue.apprentissage.beta.gouv.fr/stats
 stats: true
 phases:
@@ -24,7 +24,11 @@ usertypes:
   - particulier
 dashlord_url: https://dashlord.incubateur.net/url/catalogue-apprentissage-beta-gouv-fr/
 accessibility_status: non conforme
-thematiques: []
+thematiques:
+  - Travail / Emploi
+  - orientation scolaire
+  - Apprentissage
+  - Formation
 techno: []
 ---
 Créé pour organiser la collecte des formations en apprentissage, le catalogue des formations en apprentissage permet de rendre plus visibles les offres auprès des jeunes et des employeurs.
@@ -43,8 +47,9 @@ Un catalogue des offres de formation en apprentissage a été créé, pour être
 3. Améliorer la qualité de la description des formations et des établissements et assurer la fiabilité des informations ;
 4. Simplifier les démarches pour tous les acteurs et notamment pour les personnels des CFA, en automatisant une partie du recensement et en publiant un catalogue ouvert, accessible à toutes les institutions concourant à l'orientation des jeunes.
 
-Le catalogue des formations peut être consulté sur https://catalogue.apprentissage.beta.gouv.fr/
-Vous pouvez également accéder à la documentation détaillée concernant la collecte de l'offre de formation en Apprentissage réalisée par la Mission ici : https://mission-apprentissage.gitbook.io/catalogue/
+Deux versions du catalogue coexistent : 
+* Une version publique, maintenue depuis 2022 par le réseau des Carif-Oref : https://catalogue-apprentissage.intercariforef.org/
+* Une version réservée notamment aux services académiques d'information et d'orientation pour les besoins de publication sur Parcoursup (post-bac) et sur le service en ligne orientation (post-3e) :   https://catalogue.apprentissage.education.gouv.fr/
 
 ## Les bénéfices attendus
 

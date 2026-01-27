@@ -17,6 +17,12 @@ missions:
     employer: Lazone
     startups:
       - docurba
-competences: []
+competences:
+  - PostgreSQL
+  - Développement Backend
+  - Développement Frontend
+  - Développement Full-stack
+  - Python
+  - UI
 ---
 Développeur full-stack

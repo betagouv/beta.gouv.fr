@@ -11,7 +11,6 @@ missions:
     employer: non applicable
     startups:
       - assistant-ia-civil
-      - investigation-cour-d-appel-de-paris
 ---
 Chargé de mission pour le numérique auprès des chefs de la cour d'appel de Paris. 
 Ancien directeur du projet Axone (système d'archivage électronique du ministère de la justice, intégré au TOP50 des projets DINUM, lauréat d'un financement FTAP).

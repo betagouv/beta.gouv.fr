@@ -9,5 +9,7 @@ missions:
     status: admin
     employer: DINUM
 memberType: dinum
+github: julesjabouille
+competences: []
 ---
 Dark mode only.

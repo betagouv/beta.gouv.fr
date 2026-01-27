@@ -16,6 +16,8 @@ incubator: accelerema
 phases:
   - name: investigation
     start: 2025-12-16
+  - name: construction
+    start: 2026-01-01
 events:
   - name: product_launch
     date: 2025-12-16

@@ -4,7 +4,7 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-09-12
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: ANCT
     startups:
@@ -12,7 +12,7 @@ missions:
   - start: 2025-03-25
     end: 2026-01-30
     status: independent
-    employer: La Fabrique
+    employer: La Fabrique des Ministères Sociaux
     startups:
       - enfants-du-spectacle
 competences: []
