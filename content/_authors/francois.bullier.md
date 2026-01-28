@@ -12,10 +12,9 @@ competences:
 missions:
   - start: 2026-01-22
     end: 2026-04-30
-    employer: Direction Générale des entreprises
     status: independent
+    employer: Direction Générale des entreprises
     startups:
       - portail-rse
-teams: []
 ---
 Fondateur de 360° Client depuis 2012. Expert en Data & IA, je participe activement à la digitalisation des entreprises. N'hésitez pas à me contacter !

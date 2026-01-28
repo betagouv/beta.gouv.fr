@@ -4,9 +4,9 @@ fullname: Grégoire Cutzach
 role: Développement
 missions:
   - start: 2024-05-01
-    end: 2025-12-31
-    status: independent
-    employer: ut7
+    end: 2026-07-20
+    status: admin
+    employer: DINUM
     startups:
       - grist.numerique.gouv.fr
 link: https://www.linkedin.com/in/gr%C3%A9goire-cutzach-497340148/
@@ -18,9 +18,10 @@ competences:
   - JavaScript/TypeScript
 memberType: beta
 ---
-Dev Backend Freelance sur Grist à la DINUM
+Directeur technique de Grist à la DINUM
+Intrapreneur par intérim
 Libriste
-Coordinateur des Journées du Logiciel Libre
+Ex-Coordinateur des Journées du Logiciel Libre
 Administrateur du FAI Illyse
 Administrateur de Grenode AS 51083
 ---

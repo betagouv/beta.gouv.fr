@@ -16,7 +16,7 @@ missions:
     startups:
       - data-subvention
   - start: 2025-02-10
-    end: 2026-03-15
+    end: 2026-06-30
     status: independent
     employer: Omnicité
     startups:

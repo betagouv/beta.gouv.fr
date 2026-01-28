@@ -27,8 +27,11 @@ missions:
     startups:
       - mes-services-cyber
   - start: 2025-10-06
-    end: 2026-01-06
+    end: 2026-04-27
     status: independent
+    employer: Omnicité
+    startups:
+      - recocyber
 memberType: beta
 github: LauraMondoloni31
 competences: []

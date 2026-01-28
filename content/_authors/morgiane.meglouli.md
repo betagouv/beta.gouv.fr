@@ -17,5 +17,11 @@ missions:
     employer: Numa
     startups:
       - dpm-facile
+  - start: 2026-01-01
+    end: 2026-06-30
+    status: independent
+    employer: Numa
+    startups:
+      - carbure
 ---
 Coach produit passionnée par les sujets à impact 

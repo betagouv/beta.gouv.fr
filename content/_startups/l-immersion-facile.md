@@ -3,8 +3,6 @@ title: Immersion facilitée
 mission: Faciliter la réalisation des immersions professionnelles
 sponsors:
   - /organisations/francetravail
-  - /organisations/mtei
-  - /organisations/mtfp
 incubator: gip-inclusion
 link: https://immersion-facile.beta.gouv.fr/
 repository: https://github.com/gip-inclusion/immersion-facile
@@ -35,7 +33,9 @@ thematiques:
   - Travail / Emploi
   - Formation
 mon_service_securise: true
-techno: []
+techno:
+  - react
+  - JS
 dashlord_url: https://dashlord.incubateur.net/url/immersion-facile-beta-gouv-fr/
 ---
 ## Le problème
