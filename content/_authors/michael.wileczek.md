@@ -13,7 +13,7 @@ missions:
       - les-emplois
       - reva
   - start: 2023-10-13
-    end: 2026-02-22
+    end: 2026-07-27
     status: independent
     employer: REVA
     startups:

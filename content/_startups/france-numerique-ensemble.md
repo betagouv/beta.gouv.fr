@@ -11,18 +11,22 @@ phases:
     start: 2024-02-05
   - name: construction
     start: 2024-12-10
+  - name: acceleration
+    start: 2026-01-27
 link: https://mon.inclusion-numerique.anct.gouv.fr/
 repository: https://github.com/anct-cnum
 stats: false
 contact: conseiller-numerique@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
-  - particulier
+  - association
   - etat
 accessibility_status: partiellement conforme
 thematiques:
   - Inclusion numérique
 techno: []
+budget_url: https://docs.numerique.gouv.fr/docs/36daa6cf-49fd-4d94-8547-5c54a0a8e5cc/
+impact_url: https://docs.numerique.gouv.fr/docs/4818222a-3017-4239-8d9e-b6b24ed4ef17/
 ---
 ## Contexte
 

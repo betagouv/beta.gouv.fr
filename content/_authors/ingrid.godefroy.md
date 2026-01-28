@@ -22,13 +22,13 @@ missions:
     startups:
       - monstage
   - start: 2024-10-31
-    end: 2025-12-31
+    end: 2026-04-30
     status: independent
     employer: Malt
     startups:
       - qualicharge
   - start: 2025-08-11
-    end: 2026-03-28
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:

@@ -1,7 +1,7 @@
 ---
 fullname: Adrien Zemour
-role: Responsable de portefeuille Transition Ecologique, Territoires, Culture et Affaires Etrangères
-domaine: Animation
+role: Entrepreneur d'intérêt général
+domaine: Intraprenariat
 link: https://www.linkedin.com/in/adrien-zemour/
 github: AdrienZmr
 missions:
@@ -24,6 +24,12 @@ missions:
     employer: DINUM
     startups:
       - communs-de-la-transition-ecologique-des-collectivites
+  - start: 2026-01-15
+    end: 2026-06-15
+    status: admin
+    employer: DINUM
+    startups:
+      - chauffage-urbain
 badges:
   - segur
 teams:

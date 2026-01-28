@@ -1,12 +1,12 @@
 ---
 fullname: Mathieu Borrell
-role: DevSecOps
+role: Ingénieur système, réseau et sécurité
 domaine: Développement
 competences:
   - Sécurité informatique
 missions:
   - start: 2025-06-02
-    end: 2026-06-23
+    end: 2026-06-27
     status: independent
     employer: UT7
     startups:

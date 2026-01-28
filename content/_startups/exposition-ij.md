@@ -15,7 +15,9 @@ phases:
   - name: acceleration
     start: 2023-06-01
   - name: transfer
-    start: 2025-01-01
+    start: 2025-05-01
+  - name: success
+    start: 2026-01-31
 repository: https://github.com/mission-apprentissage/trajectoires-pro
 stats_url: https://statistiques.exposition.inserjeunes.beta.gouv.fr/
 stats: true
@@ -32,12 +34,6 @@ thematiques:
 dashlord_url: https://dashlord.incubateur.net/url/api-exposition-inserjeunes-beta-gouv-fr/
 techno: []
 ---
-## Un service de la mission interministérielle Inserjeunes
-
-La mission interministérielle InserJeunes, lancée en 2022, visait à faciliter l'insertion professionnelle des jeunes en éclairant leurs choix d’orientation au regard du devenir des formations et en soutenant la transformation de la carte des formations initiales dans la perspective de l’objectif plein emploi. 
-
-La mission interministérielle Inserjeunes s'est terminée fin 2024, ce qui a occasionné le rattachement des services numériques créés à l'incubateur de services numérique de la DINUM en attendant leur pérennisation.  
-
 ## Le problème
 
 Les choix d’orientation sont fondés sur des **informations partielles et subjectives concernant les parcours de formation et le marché de l’emploi**.
@@ -68,26 +64,21 @@ Pour cela, nous :
 
 Nous désirons, via notre action d’exposition auprès du grand public, observer une **modification des choix d’orientation des jeunes**. Nous souhaitons plus particulièrement observer une **diminution du nombre de vœux effectués vers des filières offrant peu de perspectives**.
 
-Nos objectifs autour de la mesure d’impact en 2024 : 
-
-- Grâce à un partenariat renforcé avec la plateforme Affelnet, qui nous permettra de récupérer des données plus fines sur le trafic au sein de la plateforme d’affectation, **une étude statistique sera menée fin S1 - début S2 pour mettre en regard exposition et voeux** et  évaluer plus finement la contribution de notre action.
-- Le chemin global amenant un jeune à réviser ses vœux d’orientation étant long et complexe, nous avons en outre matérialisé et découpé ce parcours (indicateur **vu** → indicateur **compris** → information **priorisée** → **vœu modifié**) et proposé des expériences pour mesurer la conversion entre chaque étape, en vue de l’améliorer.
-
 ## Stratégie de déploiement
 
-Nous avons pour ambition d’exposer les indicateurs InserJeunes au sein **des plus grandes plateformes d’orientation**, c’est à dire sur des sites dors et déjà consultés massivement par les jeunes dans le cadre de leur orientation.
+Nous avons pour ambition d’exposer les indicateurs InserJeunes au sein **des plus grandes plateformes d’orientation**, c’est à dire **sur des sites dors et déjà consultés massivement par les jeunes dans le cadre de leur orientation**.
 
-Nous souhaitons à la fois exposer nos indicateurs : 
+Fin 2025, nos données étaient disponibles : 
 
-- sur **un maximum de plateformes d’orientation**, en proposant une réutilisation extrêmement simple des données (notamment à l’aide d’un widget “clef en main” et d’une API)
-- sur **un maximum de “chemins d’orientation”** au sein de ces plateformes, notamment en augmentant la couverture de nos données
-
-Fin 2023, nos données étaient disponibles : 
-
-- Sur **7 des plus grandes plateformes d’orientation**, dont 3 cibles institutionnelles prioritaires : l’ONISEP, Parcousup et Affelnet
+- Sur **10 plateformes d’orientation et d'affectation**, dont Onisep.fr, Parcoursup et Affelnet
 - À la **maille nationale, régionale et de l’établissement** pour les formations de la **voie professionnelle**, tant pour le scolaire que pour l’apprentissage.
 
-Nos objectifs principaux pour S1-2024 : 
+## Incubation et pérennisation
 
-- Exposer nos données sur **10 des principales plateformes d’orientation**
-- Intégrer progressivement les **données InserSup des formations de l'enseignement supérieur**
+Le service a été développé par la **mission interministérielle InserJeunes**, lancée en 2022, dont la mission était de faciliter l'insertion professionnelle des jeunes en éclairant leurs choix d’orientation au regard du devenir des formations et en soutenant la transformation de la carte des formations initiales dans la perspective de l’objectif plein emploi. 
+
+**Le service a été transféré, au second semestre 2025, vers la Direction du Numérique pour l’Éducation (DNE) pour y être pérennisé.**
+
+L'API est désormais disponible sur [https://api.education.gouv.fr/](https://api.education.gouv.fr/?api_portal=1&api_portal_id=e7010ade-8abc-3e6c-a0f9-4abc53a19df1).
+
+> Pour en savoir plus sur le projet (description, bilan, etc.) rendez-vous sur la [page de documentation dédiée](https://mission-apprentissage.github.io/trajectoires-pro/).
