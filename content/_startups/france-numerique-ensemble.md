@@ -16,7 +16,7 @@ phases:
 link: https://mon.inclusion-numerique.anct.gouv.fr/
 repository: https://github.com/anct-cnum
 stats: false
-contact: conseiller-numerique@anct.gouv.fr
+contact: moninclusionnumerique@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
   - association

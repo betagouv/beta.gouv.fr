@@ -24,6 +24,12 @@ missions:
     employer: Littlebigconnection
     startups:
       - deveco
+  - start: 2025-12-10
+    end: 2026-06-30
+    status: independent
+    employer: Malt
+    startups:
+      - france-numerique-ensemble
 competences:
   - Développement Backend
 ---

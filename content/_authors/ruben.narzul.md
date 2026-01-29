@@ -12,7 +12,7 @@ competences:
   - Inclusion numérique
 missions:
   - start: 2025-01-24
-    end: 2026-04-24
+    end: 2025-07-24
     status: independent
     employer: Malt
     startups:

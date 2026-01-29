@@ -27,6 +27,12 @@ missions:
     employer: ScopyLeft
     startups:
       - agents.en.intervention
+  - start: 2025-12-01
+    end: 2026-06-30
+    status: independent
+    employer: Dynergie
+    startups:
+      - data-foncier
 previously:
   - tremplin
   - workinfrance

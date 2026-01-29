@@ -2,7 +2,7 @@
 accessibility_status: non conforme
 analyse_risques: false
 mon_service_securise: true
-contact: peate@dxo-design.fr
+contact: peate@bretagne.gouv.fr
 link: https://www.parapheur-peate.fr/
 stats_url: https://www.parapheur-peate.fr/
 thematiques:
@@ -38,8 +38,9 @@ events:
     date: 2026-01-01
     comment: 'En production et modèle économique commun numérique de l''administration de l’État (ATE + rectorats) réalisé. '
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#PeATE
+impact_url: https://www.parapheur-peate.fr/documents-cles
 ---
-##Statut du projet : création d'un commun numérique de l'administration déconcentrée et pérennisé 
+**Statut du projet : **création d'un commun numérique de l'administration déconcentrée et pérennisé 
 
 Ce projet est passé en production en 2025 et a permis de construire un commun numérique de l'administration déconcentrée portée par 22 organisations relevant de l'éducation nationale (rectorats) et de l'Administration Territoriale de l’État (SGARs, préfectures, DREAL, DRAAF...). 
 

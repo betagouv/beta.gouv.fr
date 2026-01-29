@@ -81,4 +81,6 @@ Le service a été développé par la **mission interministérielle InserJeunes*
 
 L'API est désormais disponible sur [https://api.education.gouv.fr/](https://api.education.gouv.fr/?api_portal=1&api_portal_id=e7010ade-8abc-3e6c-a0f9-4abc53a19df1).
 
-> Pour en savoir plus sur le projet (description, bilan, etc.) rendez-vous sur la [page de documentation dédiée](https://mission-apprentissage.github.io/trajectoires-pro/).
+---
+
+💡 Pour en savoir plus sur le projet (description, bilan, etc.) rendez-vous sur la [page de documentation dédiée](https://mission-apprentissage.github.io/trajectoires-pro/).

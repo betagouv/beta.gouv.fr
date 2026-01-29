@@ -1,5 +1,5 @@
 ---
-fullname: Osiris Moukoko
+fullname: Osiris Moukoko Priso
 role: Consultant - Coach
 domaine: Coaching
 github: OMoukoko
@@ -8,5 +8,6 @@ missions:
     end: 2026-06-19
     status: service
     employer: NUMA
-competences: []
+competences:
+  - Droit / Affaires juridiques
 ---

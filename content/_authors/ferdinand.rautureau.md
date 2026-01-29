@@ -6,11 +6,12 @@ github: FerdinandRautureau
 missions:
   - start: 2022-06-13
     end: 2024-02-29
-    status: admin
+    status: independent
+    employer: Malt
     startups:
       - france-numerique-ensemble
   - start: 2024-03-01
-    end: 2026-04-30
+    end: 2027-03-01
     status: admin
     startups:
       - france-numerique-ensemble
