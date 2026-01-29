@@ -5,7 +5,7 @@ domaine: Développement
 github: ThomasGuerrier
 missions:
   - start: 2022-05-13
-    end: 2026-02-28
+    end: 2027-01-31
     status: admin
     employer: Ministère de la Justice
     startups:

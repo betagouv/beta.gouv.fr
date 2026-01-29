@@ -9,14 +9,17 @@ accessibility_status: partiellement conforme
 stats: true
 stats_url: https://travailler-en-france.beta.francetravail.fr/stats
 phases:
-  - name: construction
+  - name: acceleration
     start: 2023-01-20
 thematiques:
   - Travail / Emploi
 usertypes:
   - particulier
-techno: []
-link: https://travailler-en-france.beta.francetravail.fr/Entreprise
+  - EPA
+techno:
+  - angular
+  - git
+link: https://travailler-en-france.beta.francetravail.fr
 ---
 **Contexte**
 

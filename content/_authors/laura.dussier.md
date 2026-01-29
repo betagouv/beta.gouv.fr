@@ -11,7 +11,7 @@ missions:
     startups:
       - mon-entreprise
   - start: 2023-01-09
-    end: 2026-02-28
+    end: 2026-03-15
     status: independent
     employer: ADEME
 previously:
