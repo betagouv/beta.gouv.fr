@@ -555,6 +555,14 @@
             },
             "example": ["Agriculture", "Écologie", "Alimentation"]
           },
+          "technos": {
+            "type": "array",
+            "description": "Technologies utilisées par la startup",
+            "items": {
+              "type": "string"
+            },
+            "example": ["PostgreSQL", "NodeJS", "Python"]
+          },
           "dashlord_url": {
             "type": "string",
             "description": "URL du tableau de bord DashLord"

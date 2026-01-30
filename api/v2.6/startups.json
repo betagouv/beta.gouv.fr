@@ -40,6 +40,11 @@ layout: null
                     "{{thematique}}"{% unless forloop.last %},{% endunless %}
                 {% endfor %}
                 ]
+            , "technos": [
+                {% for techno in startup.techno %}
+                    "{{techno}}"{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+                ]
             {% if startup.analyse_risques %}
             , "analyse_risques": "{{ startup.analyse_risques}}"
             {% endif %}
