@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: VBarbosaMSS
 missions:
   - start: 2022-02-01
-    end: 2026-02-28
+    end: 2026-03-31
     status: admin
     employer: ANCT
     startups:
