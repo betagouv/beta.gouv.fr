@@ -5,7 +5,7 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2025-02-03
-    end: 2025-12-31
+    end: 2026-03-31
     status: admin
     employer: Ministère de la Culture
     startups:

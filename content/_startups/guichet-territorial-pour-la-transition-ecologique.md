@@ -64,9 +64,9 @@ Les obstacles sont multiples : manque de ressources humaines ou financières, di
 
 ## Solution
 
-Le Guichet territorial pour la Transition écologique vise à **identifier et accompagner des solutions numériques locales à fort impact écologique**, pour leur permettre de changer d’échelle, de s’ouvrir, et d’être réutilisées par d’autres territoires.
+**Le Guichet territorial pour la Transition écologique est un dispositif d'accompagnement** visant à **identifier et accompagner des solutions numériques locales à fort impact écologique**, pour leur permettre de changer d’échelle, de s’ouvrir, et d’être réutilisées par d’autres territoires.
 
-Ce guichet vise notamment à :
+Ce dispositif vise notamment à :
 * repérer des **solutions numériques locales utiles à la transition écologique**
 * **accompagner leur structuration**, leur essaimage et leur passage à l'échelle
 * les inscrire dans une logique **d'outils numériques ouverts et partagés**
@@ -87,6 +87,63 @@ Ces projets peuvent être portés par des collectivités territoriales ou des OP
 - **[diagBruit](https://diagbruit.beta.gouv.fr/)** : produit porté par Bordeaux Métropole et incubée à l’Accelerama (Cerema), diagBruit propose un outil de diagnostic sonore à destination des instructeurs en autorisation du droit des sols (ADS). Grâce à une interface simple inspirée du “nutriscore du bruit”, la solution permet de mieux évaluer l’exposition sonore des projets immobiliers en lien avec le Plan local d’urbanisme (PLU), et de recommander des améliorations aux promoteurs. Elle vise à intégrer plus systématiquement le risque bruit dans les projets de construction. 
 
 - **[Protect'Envi](https://protect-envi.beta.gouv.fr/)**: service porté par la Communauté de communes Gally Mauldre (78) et le Commandement pour l’environnement et la santé (CESAN) de la Gendarmerie nationale, incubée à la DINUM. Protect’envi est une solution numérique qui accompagne les collectivités dans la lutte contre les dépôts sauvages en simplifiant les démarches administratives et judiciaires. De la constatation de l’infraction jusqu’à l’envoi des documents officiels (rapports, arrêtés, lettres), l’outil automatise la procédure, tout en assurant une traçabilité rigoureuse.
+
+- **[LUCCA](https://lucca.din.developpement-durable.gouv.fr/)** : service porté par la commune de Marsillargues (Hérault) et incubé à la Fabrique Numérique de l’Écologie (MTE), avec le soutien de la DGALN. La solution vise à sécuriser et simplifier la rédaction et le suivi des procédures d’infraction à l’urbanisme, en appui à la protection de l’environnement. Elle accompagne les collectivités dans la production des actes administratifs et judiciaires (procès-verbaux, courriers, suivi des procédures), en lien étroit avec les pratiques de terrain. LUCCA présente une forte complémentarité fonctionnelle avec AIGLE, outil de détection automatique des constructions et installations illégales, et ambitionne d’augmenter le taux de remise en état effective à l’issue des procédures d’infraction.
+
+---
+
+#### Objectifs à 6 mois
+
+
+**Usage :** accompagner un portefeuille de produits dans leur passage à l’échelle.
+
+**Impact :** chaque produit devra : 
+
+- définir des **indicateurs d’impact au service de la transition écologique**
+- publier ou consolider son code en **open source**
+- **amorcer son déploiement au national** pour être utilisé par d'autres territoires.
+
+---
+
+
+#### Impact
+
+Chaque produit accompagné se doit de publier ses mesures d'impact et de renseigner son usage. Voici quelques chiffres à date.
+
+**diagBruit :** 
+Statistiques d'impact : [https://diagbruit.fr/stats](https://diagbruit.fr/stats)
+
+**Protect'Envi :**
+Chiffres du déploiement 
+| Date | 27/01/2026 |
+| --- | --- |
+| Procédures administratives lancées | 40 |
+| Nb amandes prononcées | 7 |
+| Nb dépôts nettoyés | 3 dont 1 de plus de 100m3 |
+| Nb participants webinaires (cumul) | 222 |
+
+
+---
+
+#### Notre cadre d'action
+
+
+###### Ce en quoi nous croyons
+
+- La transition écologique nécessite des outils numériques publics sobres, utiles et réutilisables.
+- Les territoires sont des lieux d’innovation essentiels : notre rôle est de les aider à structurer et diffuser leurs solutions.
+- Nous accompagnons des produits conçus pour être utilisés, documentés, ouverts et partagés.
+- Un produit ne passe à l’échelle que s’il s’inscrit dans un écosystème d’acteurs engagés : intrapreneurs, collectivités, partenaires publics, tous ont un rôle à jouer.
+
+
+###### Ce que nous ne sommes pas
+
+- Un simple guichet de subvention → nous mobilisons des moyens humains pour transformer les produits et accompagner leur passage à l'échelle.
+- Une boîte noire → nos critères sont publics, nos choix documentés. Nous finançons des communs, et non des silos.
+- Un programme techno-centré → le numérique n’est qu’un levier : nous accompagnons des produits qui servent l’action écologique concrète.
+- Un label → nous soutenons des produits utiles et vivants, et non des vitrines.
+- Une initiative réservée aux experts → nous parlons produit et impact, et nous partons toujours des besoins du terrain.
+- Un empilement d’outils → nous visons la cohérence avec les services publics existants et l'interopérabilité.
 
 ---
 
@@ -116,37 +173,3 @@ Ces projets peuvent être portés par des collectivités territoriales ou des OP
 - Passage à une structure pérenne (collectivité, opérateur public, commun...)
 - Suivi des mesures d'impact et amélioration continue.
 
----
-
-#### Objectifs à 6 mois
-
-
-**Usage :** accompagner un portefeuille de produits dans leur passage à l’échelle.
-
-**Impact :** chaque produit devra : 
-
-- définir des **indicateurs d’impact au service de la transition écologique**
-- publier ou consolider son code en **open source**
-- **amorcer son déploiement au national** pour être utilisé par d'autres territoires.
-
----
-
-#### Notre cadre d'action
-
-
-###### Ce en quoi nous croyons
-
-- La transition écologique nécessite des outils numériques publics sobres, utiles et réutilisables.
-- Les territoires sont des lieux d’innovation essentiels : notre rôle est de les aider à structurer et diffuser leurs solutions.
-- Nous accompagnons des produits conçus pour être utilisés, documentés, ouverts et partagés.
-- Un produit ne passe à l’échelle que s’il s’inscrit dans un écosystème d’acteurs engagés : intrapreneurs, collectivités, partenaires publics, tous ont un rôle à jouer.
-
-
-###### Ce que nous ne sommes pas
-
-- Un simple guichet de subvention → nous mobilisons des moyens humains pour transformer les produits et accompagner leur passage à l'échelle.
-- Une boîte noire → nos critères sont publics, nos choix documentés. Nous finançons des communs, et non des silos.
-- Un programme techno-centré → le numérique n’est qu’un levier : nous accompagnons des produits qui servent l’action écologique concrète.
-- Un label → nous soutenons des produits utiles et vivants, et non des vitrines.
-- Une initiative réservée aux experts → nous parlons produit et impact, et nous partons toujours des besoins du terrain.
-- Un empilement d’outils → nous visons la cohérence avec les services publics existants et l'interopérabilité.

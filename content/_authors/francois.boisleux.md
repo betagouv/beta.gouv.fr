@@ -5,7 +5,7 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2025-01-07
-    end: 2025-12-31
+    end: 2026-06-30
     status: admin
     employer: Dynergie
     startups:

@@ -9,6 +9,7 @@ missions:
     employer: Malt
     startups:
       - envergo
+      - guichet-unique-de-la-haie-envergo-agricole
 link: https://dezaunay.fr/
 competences:
   - Développement Full-stack

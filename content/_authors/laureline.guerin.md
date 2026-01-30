@@ -9,7 +9,7 @@ competences:
   - Django
 missions:
   - start: 2025-09-01
-    end: 2026-03-01
+    end: 2026-06-30
     status: independent
     employer: ut7
     startups:
