@@ -2,7 +2,7 @@
 fullname: Samuel Pirès
 role: Product manager
 domaine: Produit
-link: https://samuelpires.fr
+link: https://www.samuelpires.fr
 github: sam-pires
 missions:
   - start: 2023-10-01
@@ -12,6 +12,11 @@ missions:
     startups:
       - archifiltre
 memberType: beta
-competences: []
+competences:
+  - Product strategy
+  - Coaching
+  - Product design
+  - Croissance
+  - Intrapreneur(se)
 ---
 Product manager

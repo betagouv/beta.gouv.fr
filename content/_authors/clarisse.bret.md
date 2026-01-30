@@ -2,10 +2,10 @@
 fullname: Clarisse Bret
 role: Designeuse UX
 domaine: Design
-link: http://clarissebret.me
+link: https://www.linkedin.com/in/clarissebret/
 missions:
   - start: 2023-11-29
-    end: 2026-02-28
+    end: 2026-06-01
     status: independent
     startups:
       - mobilic

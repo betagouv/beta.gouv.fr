@@ -10,6 +10,8 @@ missions:
     employer: Malt
     startups:
       - conseillers-entreprises
+      - monitorfish
+      - rapportnav
       - signaux-faibles
       - transition-ecologique-des-entreprises
 previously:

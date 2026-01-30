@@ -1,6 +1,6 @@
 ---
 fullname: Paula Videira
-role: Responsable support usagers et chargée de communication
+role: Responsable support usagers
 domaine: Support
 missions:
   - start: 2023-10-30
@@ -10,7 +10,7 @@ missions:
     startups:
       - stop-punaises
   - start: 2024-05-21
-    end: 2026-02-28
+    end: 2026-06-30
     status: independent
     employer: PathTech
     startups:

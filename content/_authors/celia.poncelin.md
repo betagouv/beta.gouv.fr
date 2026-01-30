@@ -9,7 +9,7 @@ competences:
   - SEO
 missions:
   - start: 2025-03-26
-    end: 2026-02-28
+    end: 2026-04-30
     status: independent
     employer: Malt
 teams:

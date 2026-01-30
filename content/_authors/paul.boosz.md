@@ -1,6 +1,6 @@
 ---
 fullname: Paul Boosz
-role: Data Analyst
+role: Ingénieur Data
 domaine: Data
 github: paulboosz
 missions:

@@ -4,7 +4,7 @@ fullname: Thibault Tézier
 role: Coaching
 missions:
   - start: 2024-04-12
-    end: 2026-02-28
+    end: 2026-07-01
     status: independent
     startups:
       - aigle

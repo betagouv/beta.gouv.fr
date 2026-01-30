@@ -23,7 +23,7 @@ missions:
     startups:
       - equipements-bio
   - start: 2025-05-26
-    end: 2026-02-28
+    end: 2026-07-10
     status: independent
     employer: Solstice
     startups:

@@ -4,7 +4,7 @@ role: Opérateur de validation - Support utilisateur
 domaine: Autre
 missions:
   - start: 2023-03-08
-    end: 2026-02-28
+    end: 2026-07-29
     status: independent
     employer: Malt
     startups:

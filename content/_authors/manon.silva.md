@@ -29,7 +29,7 @@ missions:
     startups:
       - pacoupa
   - start: 2024-11-18
-    end: 2026-02-28
+    end: 2026-07-28
     status: independent
     employer: Malt
     startups:
