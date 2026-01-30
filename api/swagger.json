@@ -1,0 +1,669 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "beta.gouv.fr API",
+    "description": "API publique permettant d'accéder aux données des startups d'État, des membres, des incubateurs, des organisations et des sponsors de beta.gouv.fr",
+    "version": "2.6.0",
+    "contact": {
+      "name": "beta.gouv.fr",
+      "url": "https://beta.gouv.fr"
+    },
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://beta.gouv.fr/api/v2.6",
+      "description": "Production server"
+    }
+  ],
+  "paths": {
+    "/authors.json": {
+      "get": {
+        "summary": "Liste des membres",
+        "description": "Retourne la liste de tous les membres (auteurs) de la communauté beta.gouv.fr avec leurs informations de profil et missions",
+        "operationId": "getAuthors",
+        "tags": ["Membres"],
+        "responses": {
+          "200": {
+            "description": "Liste des membres",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Author"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/incubators.json": {
+      "get": {
+        "summary": "Liste des incubateurs",
+        "description": "Retourne les incubateurs organisés par domaine, avec leurs startups associées",
+        "operationId": "getIncubators",
+        "tags": ["Incubateurs"],
+        "responses": {
+          "200": {
+            "description": "Incubateurs par domaine",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "$ref": "#/components/schemas/Incubator"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/organisations.json": {
+      "get": {
+        "summary": "Liste des organisations",
+        "description": "Retourne la liste de toutes les organisations partenaires",
+        "operationId": "getOrganisations",
+        "tags": ["Organisations"],
+        "responses": {
+          "200": {
+            "description": "Liste des organisations",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Organisation"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/sponsors.json": {
+      "get": {
+        "summary": "Liste des sponsors",
+        "description": "Retourne les sponsors organisés par identifiant",
+        "operationId": "getSponsors",
+        "tags": ["Sponsors"],
+        "responses": {
+          "200": {
+            "description": "Sponsors par identifiant",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "$ref": "#/components/schemas/Sponsor"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/startups.json": {
+      "get": {
+        "summary": "Liste des startups",
+        "description": "Retourne la liste de toutes les startups d'État au format JSON:API",
+        "operationId": "getStartups",
+        "tags": ["Startups"],
+        "responses": {
+          "200": {
+            "description": "Liste des startups au format JSON:API",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/StartupsResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/startups_details.json": {
+      "get": {
+        "summary": "Détails des startups",
+        "description": "Retourne les détails de toutes les startups avec leurs membres actifs, anciens et expirés",
+        "operationId": "getStartupsDetails",
+        "tags": ["Startups"],
+        "responses": {
+          "200": {
+            "description": "Détails des startups par identifiant",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "$ref": "#/components/schemas/StartupDetails"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/startups.csv": {
+      "get": {
+        "summary": "Liste des startups (CSV)",
+        "description": "Retourne la liste des startups au format CSV avec séparateur point-virgule",
+        "operationId": "getStartupsCsv",
+        "tags": ["Startups"],
+        "responses": {
+          "200": {
+            "description": "Liste des startups au format CSV",
+            "content": {
+              "text/csv": {
+                "schema": {
+                  "type": "string"
+                },
+                "example": "id;name;mission;start;status;incubator;stats;link;repository;accessibility;contact\n1-jeune-1-arbre;\"1 Jeune 1 Arbre\";\"Simplifier la plantation d'arbres par les scolaires\";2024-05-14;construction;agriculture;null;https://1jeune1arbre.beta.gouv.fr/;null;\"\";melanie.briand@beta.gouv.fr"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Author": {
+        "type": "object",
+        "required": ["id", "fullname"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Identifiant unique du membre",
+            "example": "ada.lovelace"
+          },
+          "fullname": {
+            "type": "string",
+            "description": "Nom complet du membre",
+            "example": "Ada Lovelace"
+          },
+          "role": {
+            "type": "string",
+            "description": "Rôle du membre",
+            "example": "Développeur"
+          },
+          "domaine": {
+            "type": "string",
+            "description": "Domaine d'expertise",
+            "enum": ["Développement", "Déploiement", "Design", "Produit", "Coaching", "Autre", "Intraprenariat", "Animation", "Data"],
+            "example": "Développement"
+          },
+          "link": {
+            "type": "string",
+            "description": "Lien vers le profil ou site personnel",
+            "example": "https://github.com/revolunet"
+          },
+          "bio": {
+            "type": "string",
+            "description": "Biographie du membre"
+          },
+          "github": {
+            "type": "string",
+            "description": "Nom d'utilisateur GitHub",
+            "example": "revolunet"
+          },
+          "missions": {
+            "type": "array",
+            "description": "Liste des missions du membre",
+            "items": {
+              "$ref": "#/components/schemas/Mission"
+            }
+          },
+          "startups": {
+            "type": "array",
+            "description": "Liste des identifiants des startups actuelles",
+            "items": {
+              "type": "string"
+            },
+            "example": ["ma-cantine-egalim", "cartobio"]
+          },
+          "previously": {
+            "type": "array",
+            "description": "Liste des identifiants des startups passées",
+            "items": {
+              "type": "string"
+            }
+          },
+          "competences": {
+            "type": "array",
+            "description": "Liste des compétences",
+            "items": {
+              "type": "string"
+            },
+            "example": ["JavaScript", "React", "Node.js"]
+          }
+        }
+      },
+      "Mission": {
+        "type": "object",
+        "required": ["start"],
+        "properties": {
+          "start": {
+            "type": "string",
+            "format": "date",
+            "description": "Date de début de la mission",
+            "example": "2022-01-01"
+          },
+          "end": {
+            "type": "string",
+            "format": "date",
+            "description": "Date de fin de la mission",
+            "example": "2024-12-31"
+          },
+          "status": {
+            "type": "string",
+            "description": "Statut contractuel",
+            "enum": ["independent", "admin", "service"],
+            "example": "independent"
+          },
+          "employer": {
+            "type": "string",
+            "description": "Employeur ou plateforme",
+            "example": "Malt"
+          },
+          "startups": {
+            "type": "array",
+            "description": "Startups associées à cette mission",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "Incubator": {
+        "type": "object",
+        "properties": {
+          "startups": {
+            "type": "array",
+            "description": "Liste des startups de l'incubateur",
+            "items": {
+              "$ref": "#/components/schemas/IncubatorStartup"
+            }
+          }
+        }
+      },
+      "IncubatorStartup": {
+        "type": "object",
+        "required": ["id", "name"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Identifiant unique de la startup",
+            "example": "ma-cantine-egalim"
+          },
+          "name": {
+            "type": "string",
+            "description": "Nom de la startup",
+            "example": "ma cantine"
+          },
+          "pitch": {
+            "type": "string",
+            "description": "Description courte de la startup",
+            "example": "Accompagner les acteurs de la restauration collective"
+          },
+          "repository": {
+            "type": "string",
+            "nullable": true,
+            "description": "URL du dépôt de code source",
+            "example": "https://github.com/betagouv/ma-cantine"
+          },
+          "contact": {
+            "type": "string",
+            "format": "email",
+            "description": "Email de contact",
+            "example": "contact@egalim.beta.gouv.fr"
+          },
+          "phases": {
+            "type": "array",
+            "description": "Phases du cycle de vie de la startup",
+            "items": {
+              "$ref": "#/components/schemas/Phase"
+            }
+          }
+        }
+      },
+      "Phase": {
+        "type": "object",
+        "required": ["name", "start"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Nom de la phase",
+            "enum": ["investigation", "construction", "acceleration", "transfer", "success", "alumni"],
+            "example": "construction"
+          },
+          "start": {
+            "type": "string",
+            "format": "date",
+            "description": "Date de début de la phase",
+            "example": "2023-01-01"
+          },
+          "end": {
+            "type": "string",
+            "format": "date",
+            "description": "Date de fin de la phase",
+            "example": "2024-06-30"
+          }
+        }
+      },
+      "Organisation": {
+        "type": "object",
+        "required": ["id", "name"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Identifiant unique de l'organisation",
+            "example": "anct"
+          },
+          "name": {
+            "type": "string",
+            "description": "Nom complet de l'organisation",
+            "example": "Agence Nationale de la Cohésion des Territoires"
+          },
+          "acronym": {
+            "type": "string",
+            "description": "Acronyme de l'organisation",
+            "example": "ANCT"
+          },
+          "domaine_ministeriel": {
+            "type": "string",
+            "description": "Domaine ministériel de rattachement",
+            "enum": ["agriculture", "environnement", "solidarite-sante", "travail", "interieur", "territoires", "education-et-jeunesse", "culture", "autres"],
+            "example": "territoires"
+          },
+          "type": {
+            "type": "string",
+            "description": "Type d'organisation",
+            "enum": ["administration-centrale", "operateur", "service-deconcentre", "securite-sociale", "autre"],
+            "example": "operateur"
+          }
+        }
+      },
+      "Sponsor": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Nom du sponsor",
+            "example": "Agence de la transition écologique"
+          },
+          "acronym": {
+            "type": "string",
+            "description": "Acronyme du sponsor",
+            "example": "ADEME"
+          },
+          "domaine_ministeriel": {
+            "type": "string",
+            "description": "Domaine ministériel de rattachement",
+            "example": "environnement"
+          },
+          "type": {
+            "type": "string",
+            "description": "Type d'organisation",
+            "example": "operateur"
+          }
+        }
+      },
+      "StartupsResponse": {
+        "type": "object",
+        "properties": {
+          "links": {
+            "type": "object",
+            "properties": {
+              "self": {
+                "type": "string",
+                "description": "URL de la ressource",
+                "example": "https://beta.gouv.fr/startups"
+              }
+            }
+          },
+          "data": {
+            "type": "array",
+            "description": "Liste des startups",
+            "items": {
+              "$ref": "#/components/schemas/StartupResource"
+            }
+          }
+        }
+      },
+      "StartupResource": {
+        "type": "object",
+        "description": "Ressource startup au format JSON:API",
+        "required": ["id", "type", "attributes"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Identifiant unique de la startup",
+            "example": "ma-cantine-egalim"
+          },
+          "type": {
+            "type": "string",
+            "description": "Type de ressource",
+            "enum": ["startup"],
+            "example": "startup"
+          },
+          "attributes": {
+            "$ref": "#/components/schemas/StartupAttributes"
+          },
+          "relationships": {
+            "type": "object",
+            "properties": {
+              "incubator": {
+                "type": "object",
+                "properties": {
+                  "data": {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "example": "incubator"
+                      },
+                      "id": {
+                        "type": "string",
+                        "example": "agriculture"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "StartupAttributes": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Nom de la startup",
+            "example": "ma cantine"
+          },
+          "pitch": {
+            "type": "string",
+            "description": "Description courte",
+            "example": "Accompagner les acteurs de la restauration collective"
+          },
+          "stats_url": {
+            "type": "string",
+            "description": "URL des statistiques publiques",
+            "example": "https://ma-cantine.agriculture.gouv.fr/stats"
+          },
+          "link": {
+            "type": "string",
+            "description": "URL du service",
+            "example": "https://ma-cantine.agriculture.gouv.fr"
+          },
+          "repository": {
+            "type": "string",
+            "description": "URL du dépôt de code source",
+            "example": "https://github.com/betagouv/ma-cantine"
+          },
+          "contact": {
+            "type": "string",
+            "format": "email",
+            "description": "Email de contact",
+            "example": "contact@egalim.beta.gouv.fr"
+          },
+          "content_url_encoded_markdown": {
+            "type": "string",
+            "description": "Contenu markdown encodé en URL"
+          },
+          "events": {
+            "type": "array",
+            "description": "Événements liés à la startup",
+            "items": {
+              "$ref": "#/components/schemas/Event"
+            }
+          },
+          "phases": {
+            "type": "array",
+            "description": "Phases du cycle de vie",
+            "items": {
+              "$ref": "#/components/schemas/Phase"
+            }
+          },
+          "sponsors": {
+            "type": "array",
+            "description": "Liste des identifiants des sponsors",
+            "items": {
+              "type": "string"
+            },
+            "example": ["dgpe", "ademe"]
+          },
+          "thematiques": {
+            "type": "array",
+            "description": "Thématiques couvertes par la startup",
+            "items": {
+              "type": "string"
+            },
+            "example": ["Agriculture", "Écologie", "Alimentation"]
+          },
+          "dashlord_url": {
+            "type": "string",
+            "description": "URL du tableau de bord DashLord"
+          },
+          "accessibility_status": {
+            "type": "string",
+            "description": "Statut de conformité accessibilité",
+            "enum": ["non conforme", "partiellement conforme", "totalement conforme"],
+            "example": "partiellement conforme"
+          }
+        }
+      },
+      "Event": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Nom de l'événement",
+            "enum": ["fast", "national_impact", "end"],
+            "example": "fast"
+          },
+          "date": {
+            "type": "string",
+            "format": "date",
+            "description": "Date de l'événement",
+            "example": "2024-01-01"
+          },
+          "comment": {
+            "type": "string",
+            "description": "Commentaire sur l'événement",
+            "example": "Montant de 230000€ pour la promotion 12"
+          }
+        }
+      },
+      "StartupDetails": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Identifiant unique de la startup",
+            "example": "ma-cantine-egalim"
+          },
+          "name": {
+            "type": "string",
+            "description": "Nom de la startup",
+            "example": "ma cantine"
+          },
+          "repository": {
+            "type": "string",
+            "description": "URL du dépôt de code source"
+          },
+          "contact": {
+            "type": "string",
+            "format": "email",
+            "description": "Email de contact"
+          },
+          "phases": {
+            "type": "array",
+            "description": "Phases du cycle de vie",
+            "items": {
+              "$ref": "#/components/schemas/Phase"
+            }
+          },
+          "active_members": {
+            "type": "array",
+            "description": "Identifiants des membres actuellement actifs",
+            "items": {
+              "type": "string"
+            },
+            "example": ["ada.lovelace", "marie.dupont"]
+          },
+          "previous_members": {
+            "type": "array",
+            "description": "Identifiants des anciens membres",
+            "items": {
+              "type": "string"
+            }
+          },
+          "expired_members": {
+            "type": "array",
+            "description": "Identifiants des membres dont la mission a expiré",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Startups",
+      "description": "Opérations sur les startups d'État"
+    },
+    {
+      "name": "Membres",
+      "description": "Opérations sur les membres de la communauté"
+    },
+    {
+      "name": "Incubateurs",
+      "description": "Opérations sur les incubateurs"
+    },
+    {
+      "name": "Organisations",
+      "description": "Opérations sur les organisations partenaires"
+    },
+    {
+      "name": "Sponsors",
+      "description": "Opérations sur les sponsors"
+    }
+  ]
+}
