@@ -4,7 +4,7 @@ fullname: Antoine Conegero
 role: Développement
 missions:
   - start: 2024-05-06
-    end: 2026-02-28
+    end: 2026-06-30
     status: independent
     employer: Telescoop
     startups:

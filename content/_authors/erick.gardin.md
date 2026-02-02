@@ -9,7 +9,7 @@ competences:
   - Accessibilité
 missions:
   - start: 2025-03-05
-    end: 2026-03-02
+    end: 2026-05-01
     status: independent
     employer: Urssaf
     startups:

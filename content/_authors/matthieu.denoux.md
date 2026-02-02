@@ -9,7 +9,7 @@ competences:
   - Python
 missions:
   - start: 2025-07-08
-    end: 2026-02-28
+    end: 2026-05-31
     status: admin
     employer: ANCT
 link: https://www.linkedin.com/in/matthieu-denoux/

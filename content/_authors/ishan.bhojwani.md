@@ -1,6 +1,6 @@
 ---
 fullname: Ishan Bhojwani
-role: Responsable de beta.gouv.fr
+role: IA dans l'État
 domaine: Animation
 missions:
   - start: 2017-05-23
@@ -11,7 +11,7 @@ missions:
     end: 2018-12-31
     status: independent
   - start: 2019-01-01
-    end: 2026-02-28
+    end: 2027-02-28
     status: admin
     employer: dinum
 github: IshanB
@@ -37,4 +37,4 @@ teams:
   - /teams/dinum-incubateur
 competences: []
 ---
-Chef du département Incubateur de services numériques à la DINUM
+Chef du département Intelligence artificielle dans l'État à la DINUM

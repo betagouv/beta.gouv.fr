@@ -60,7 +60,7 @@ events:
   - name: committee
     date: 2025-12-10
     comment: 'Lancement en phase de transfert pour commencer un début de phase de pérennisation et discussion sur les financements qui restent à pérenniser '
-impact_url: https://referentielnationaldesbatiments.notion.site/Tableau-de-pilotage-de-l-impact-RNB-20143ec9d11e8093ba71c915956d8aea?pvs=74
+impact_url: https://docs.numerique.gouv.fr/docs/048fa61c-0541-4c45-8f58-d8c3e377ac90/
 stats_url: https://rnb.beta.gouv.fr/stats
 ---
 ## Problème : le cloisonnement de l'information bâtimentaire

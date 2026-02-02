@@ -1,7 +1,7 @@
 ---
 fullname: Louis Bardon
-role: Conseil senior en transformation numérique (Conseil interne, Business developpement, Avant vente, Marketing,..)
-domaine: Coaching
+role: Responsable de partenariats et Conseil en transformation numérique (Conseil interne, Biz dev, Avant vente, Marketing, Incubateurs..)
+domaine: Autre
 missions:
   - start: 2022-08-05
     end: 2026-12-31
@@ -13,3 +13,4 @@ competences:
   - Product strategy
   - Administration Publique
 ---
+Conseil interne, Biz dev, Avant vente, Marketing, Incubateurs, Startups d'Etat..

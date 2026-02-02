@@ -10,7 +10,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2025-02-01
-    end: 2026-01-31
+    end: 2027-02-01
     status: admin
     employer: EIG
     startups:

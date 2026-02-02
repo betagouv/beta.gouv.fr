@@ -31,41 +31,52 @@ link: ''
 ---
 ## Contexte
 
-La France compte environ 45 000 monuments historiques (MH ; articles L621 du code du patrimoine) qui constituent le bien commun de la Nation et c'est l'État qui a, à ce titre, la responsabilité de veiller à leur préservation. Cette mission de contrôle scientifique et technique (CST) définie par la circulaire du 1er décembre 2009, est opérée par des experts du ministère de la culture. Elle comporte la réalisation régulière de "constats d'état", qui sont des rapports de visite d'un MH accompagnés d'une couverture photographique. Il s'agit de constat visuel, qui ne rend compte que de l'état apparent du bien protégé, sans recours à aucune technologie. Outre l’établissement de l’état de conservation, la visite permet d’identifier et de prévenir les risques. Les données sont enregistrées dans les applications du ministère de la Culture (logiciel Agrégée) afin de suivre l'évolution dans le temps de chaque monument historique, réaliser les synthèses territoriales ou typologiques, orienter les programmes de restauration, et mettre à jour les données existantes. 
+En 2026, La France compte environ 46 000 monuments historiques (MH) (MH ; articles L621 du code du patrimoine) qui constituent le bien commun de la Nation. La protection au titre des monuments historiques implique une responsabilité partagée entre les propriétaires et la collectivité nationale au regard de sa conservation et de sa transmission aux générations à venir. et c'est l'État qui a, à ce titre, la responsabilité de veiller à leur préservation. Cette mission de contrôle scientifique et technique (CST) définie par la circulaire du 1er décembre 2009, est opérée par des experts du ministère de la culture.
+En application du code du Patrimoine (Article R621-18), le contrôle scientifique et technique assuré par les services de l'État chargés des monuments historiques est destiné à vérifier périodiquement l'état des monuments historiques classés et les conditions de leur conservation de façon que leur pérennité soit assurée. 
+Cette vérification périodique réalisée par les agents du ministère de la Culture comporte la réalisation régulière de "constats d'état", qui sont des rapports de visite d'un MH accompagnés d'une couverture photographique. Il s'agit d’un constat visuel, qui ne rend compte que de l'état apparent du bien protégé, sans recours à aucune technologie. Outre l’établissement de l’état de conservation, la visite permet d’identifier et de prévenir les risques. Les données sont enregistrées dans les applications du ministère de la Culture (logiciel AgrÉgée) afin de suivre l'évolution dans le temps de chaque monument historique, réaliser les synthèses territoriales ou typologiques, orienter les programmes de restauration, et mettre à jour les données existantes.
 
 ## Problème
 Malheureusement, aujourd'hui, les remontées de données ne sont pas optimales :
--  Moins de 2% des monuments historiques ont été renseignés dans Agrégée en 2024 (181 états sanitaires sur un objectif de 8 000/an)
-- La fiabilité des données renseignées lors des bilans quinquennaux est imparfaite.
-- Les visites de monuments historiques ne sont pas assez nombreuses par rapport aux objectifs (dépriorisées par rapport aux autres tâches des ABF et des CRMH)
-- Les rapports, lorsqu'ils sont réalisés, sont très chronophages et fastidieux (multiples ressaisies -calepin + scan -> Word -> Agrégée) et donc souvent reportés (risque de lacunes) ou abandonnés.
-- Ils restent souvent stockés sur le serveur local ou dans l'ordinateur/ les dossiers papier de l'agent, sans remontée d'information ni partage entre services.
-
-Au final, une grande perte d'information sur l'état des monuments historiques en France est à déplorer. Cela ne permet pas de prioriser les visites, d'assurer un suivi efficace, de mieux orienter les programmes de restauration grâce à des synthèses statistiques (niveau départemental, régional et national). Cela fait aussi perdre beaucoup de temps aux agents qui pourrait être mieux mis à profit (Voir mission d’information sénatoriale : « ABF : périmètres et compétences » )
+•	Moins de 2% des monuments historiques ont fait l’objet d’une fiche de visite ou d’un état sanitaire dans AgrÉgée en 2024 (181 états sanitaires sur un objectif de 8 000/an)
+•	La fiabilité des données renseignées lors des bilans périodiques (disponible sur le site du ministère de la Culture) peut en conséquence poser question, même si la connaissance approfondie du parc des MH permet aux agents de donner une évaluation synthétique
+•	Les visites de monuments historiques ne sont pas assez nombreuses par rapport aux objectifs (dépriorisées par rapport aux autres tâches des ABF et des CRMH)
+•	Les rapports, lorsqu'ils sont réalisés, sont très chronophages et fastidieux (multiples ressaisies -calepin + scan -> Word -> AgrÉgée) donc souvent reportés (risque de lacunes) ou abandonnés.
+•	Ils restent souvent stockés sur le serveur local ou dans l'ordinateur/ les dossiers papier de l'agent, sans remontée d'information ni partage entre services.
+Au final, une grande perte d'information sur l'état des monuments historiques en France est à déplorer. Cela ne permet pas de prioriser les visites, d'assurer un suivi efficace, de mieux orienter les programmes de restauration grâce à des synthèses statistiques (niveau départemental, régional et national). Cela fait aussi perdre beaucoup de temps aux agents qui pourrait être mieux mis à profit sur des tâches à plus grande valeur ajoutée (Voir mission d’information sénatoriale : « ABF : périmètres et compétences » )
+L'investigation sur le sujet a montré que les agents pourraient être en mesure de mieux réaliser la mission de CST s'ils étaient équipés d'outils numériques d'aide à la saisie sur le terrain, sans avoir à recopier leurs notes, une fois revenus au bureau. Lors de l'investigation, une première estimation d'impact a été faite :
+•	L'estimation de temps consacré à la tâche divisé par 3 pour réaliser un compte-rendu et avec 
+•	2 fois plus de comptes-rendus réalisés par rapport à une moitié d'année type (référence 2024)
+Le projet est ensuite passé en phase de construction pour réaliser une première solution numérique.
 
 ## Solution
 
-Une solution numérique de saisie des constats d'état en mobilité est proposée. Ce service, disponible aussi hors ligne pour couvrir les zones blanches, permettrait d'éditer, de stocker et de partager ces informations. A l'usage des agents du ministère de la culture, en charge du CST en DRAC (UDAP, CRMH, SRA) et du CMN. A terme, il pourrait éventuellement aussi être mis à disposition des Conservateurs des antiquités et objets d'art (CAOA) , des Architectes urbanistes de l'Etat affectés au sein de l'Opérateur du patrimoine et des projets immobiliers de la culture (OPPIC), d'un établissement public gérant un Domaine national (L621-34 du code du patrimoine) ou auquel le monument historique a été remis en dotation. 
-Le prototype est livré en novembre 2025.
+Une solution numérique de saisie des constats d'état en mobilité est proposée. Ce service, disponible aussi hors ligne pour couvrir les zones blanches, permet d'éditer, de stocker et de partager ces informations. A l'usage des agents du ministère de la culture, en charge du CST en DRAC (UDAP, CRMH, SRA) et du CMN. A terme, il pourrait éventuellement aussi être mis à disposition des conservateurs des monuments historiques et des conservateurs des antiquités et objets d'art (CAOA) pour les objets mobiliers, des architectes urbanistes de l'Etat affectés au sein du centre des monuments nationaux (CMN) et de l'Opérateur du patrimoine et des projets immobiliers de la culture (OPPIC) ou d'un établissement public gérant un Domaine national (L621-34 du code du patrimoine) ou auquel le monument historique a été remis en dotation.
+Le prototype a été livré en novembre 2025 avec des premiers tests positifs en fin d'année 2025, cela a motivé à continuer l'expérimentation et déployer la solution sur le territoire national avec des testeurs volontaires.
 
-## Objectifs pour fin décembre 2025
-Expérimentation sur une zone géographique délimitée.
-Objectifs d'usage : 25 comptes-rendus réalisés avec le prototype
+## Objectifs pour 2026
 
-Objectif à 6 mois (juin 2025) :
+Objectifs immédiats :
+
+•	expérimentation in situ par l'équipe-projet
+•	arrêt d'un nom pour l'outil en février 2026
+•	objectifs d'usage : 25 comptes-rendus réalisés avec le prototype
+•	élargissement du panel de testeurs à 30 agents représentant différentes métiers + un service déconcentré
+•	mise en place du processus d'embarquement
+•	lancement de la campagne d'information via infolettre (DCAT, CRVif), site vitrine, séminaires CRMH et ABF
+++Objectif de déploiement :++
+•	campagne de test sur le panel élargi
+•	poursuite de la campagne d'information et mise en place et animation d'une communauté (webinaire, etc.)
+
+Objectif de développement (amélioration continue) :
+
+•	à court terme (avril 2026) : finalisation du prototype V0, adaptation du formulaire aux constats d'état complexes, envoi sous couvert hiérarchique, alertes autres métiers)
+•	à moyen terme (été 2026) : livraison de la version 1 (intégrant les fonctions de géolocalisation et un formulaire dédié aux constats d'état sur "objets mobiliers MH" )
+•	à long terme (automne 2026) : livraison de la version 2 (élargissement des besoins métiers selon les retours de tests sur V0 et V1 + besoins autres métiers et autres missions de CST)
+
 
 Objectif d'impact :
-- Temps divisé par 3 pour réaliser un compte-rendu.
-- 2 fois plus de comptes-rendus réalisés par rapport à une moitié d'année type (référence 2024)
 
-Objectif de test :
-élargissement du panel de testeurs à 30 agents et un service déconcentré
+•	Temps divisé par 3 pour réaliser un compte-rendu.
 
-Objectif de déploiement :
-- Temps divisé par 3 pour réaliser un compte-rendu.
-- 2 fois plus de comptes-rendus réalisés par rapport à une moitié d'année type (référence 2024)
+•	2 fois plus de comptes-rendus réalisés en 6 mois par rapport à une moitié d'année type (référence 2024)
 
-Objectif de développement 2026 (amélioration continue) : 
-- à court terme (avril 2026) : purge des scories de la version V0, adaptation du formulaire aux constats d'état complexes, envoi sous couvert hiérarchique, alertes autres métiers)
-- à moyen terme (été 2026) : livraison de la version 1 (intégrant les fonctions de géolocalisation et un formulaire dédié aux constats d'état sur "objets mobiliers MH" )
-- à long terme (automne 2026) : livraison de la version 2 (élargissement des besoins métiers selon les retours de tests sur V0 et V1 + besoins autres métiers et autres missions de CST)
