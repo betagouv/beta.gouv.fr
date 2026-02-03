@@ -23,13 +23,13 @@ missions:
     startups:
       - mon-devis-sans-oublis
   - start: 2025-09-01
-    end: 2026-03-01
+    end: 2026-07-31
     status: independent
     employer: Ominicité
     startups:
       - csplab
   - start: 2025-10-24
-    end: 2026-03-02
+    end: 2026-07-31
     status: independent
     employer: Scopopop
     startups:

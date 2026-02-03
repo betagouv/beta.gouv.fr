@@ -9,6 +9,12 @@ missions:
     employer: Ministère de la justice
     startups:
       - mon-suivi-justice
+  - start: 2026-02-09
+    end: 2026-06-30
+    status: independent
+    employer: Little Big Connection
+    startups:
+      - experts
 memberType: beta
 link: https://www.linkedin.com/in/virginie-collignon-ducret-0018bb154/
 competences:

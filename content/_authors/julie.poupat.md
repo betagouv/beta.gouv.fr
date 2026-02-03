@@ -13,7 +13,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-08-12
-    end: 2026-01-31
+    end: 2026-04-30
     status: independent
     employer: Diair
     startups:

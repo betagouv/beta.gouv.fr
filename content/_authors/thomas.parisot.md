@@ -17,7 +17,7 @@ missions:
     startups:
       - cartobio
   - start: 2022-06-21
-    end: 2026-01-31
+    end: 2026-06-12
     status: service
     employer: lazone/solstice
   - start: 2025-01-06

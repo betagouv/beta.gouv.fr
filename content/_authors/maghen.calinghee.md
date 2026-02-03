@@ -5,7 +5,7 @@ domaine: Développement
 github: mcalinghee
 missions:
   - start: 2022-05-16
-    end: 2026-03-03
+    end: 2026-07-02
     status: independent
     employer: Malt
     startups:

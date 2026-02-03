@@ -33,6 +33,7 @@ missions:
     employer: Malt
     startups:
       - envirogend
+      - guichet-territorial-pour-la-transition-ecologique
 badges:
   - segur
 competences:

@@ -15,7 +15,7 @@ missions:
     end: 2025-06-01
     status: independent
   - start: 2025-06-02
-    end: 2026-03-01
+    end: 2026-06-30
     status: independent
     employer: La Zone
     startups:

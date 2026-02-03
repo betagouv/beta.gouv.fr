@@ -33,7 +33,7 @@ analyse_risques: true
 mon_service_securise: true
 techno: []
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/7#a1.s31.r27.c2
-impact_url: https://signal-logement.beta.gouv.fr/stats
+impact_url: https://docs.numerique.gouv.fr/docs/935a047a-263c-42b3-bf2c-babfffc49657/
 events:
   - name: fast
     date: 2025-10-01

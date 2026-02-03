@@ -11,7 +11,7 @@ missions:
     startups:
       - aidantsconnect
   - start: 2024-10-14
-    end: 2026-02-28
+    end: 2026-05-31
     status: independent
     employer: Opteamis
     startups:

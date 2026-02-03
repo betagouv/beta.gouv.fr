@@ -1,7 +1,7 @@
 ---
 fullname: Bertille MAGNON-PUJO
-domaine: Déploiement
-role: Chargée de déploiement - Assistance utilisateurs
+domaine: Support
+role: Lead support
 github: bertillemp
 link: https://www.linkedin.com/in/bertille-magnon-pujo/
 missions:
@@ -17,6 +17,12 @@ missions:
     employer: Scopyleft
     startups:
       - mon-suivi-social
+  - start: 2026-01-05
+    end: 2026-06-30
+    status: independent
+    employer: Omnicite
+    startups:
+      - suite.territoriale
 competences:
   - Communication
   - support

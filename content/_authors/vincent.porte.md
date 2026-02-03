@@ -13,7 +13,7 @@ missions:
       - la.communaute.de.linclusion
       - les-emplois
   - start: 2025-12-17
-    end: 2026-03-17
+    end: 2026-07-31
     status: independent
     startups:
       - csplab

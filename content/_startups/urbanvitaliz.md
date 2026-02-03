@@ -39,6 +39,7 @@ techno:
   - django
 dashlord_url: https://dashlord.incubateur.net/url/urbanvitaliz-fr/
 mon_service_securise: true
+impact_url: https://drive.google.com/file/d/14W_evyxgyaKzyvjD0tXPo_ncs5qOXdJH/view?usp=sharing
 ---
 ## Le problème : beaucoup de friches restent inutilisées pendant qu'on artificialise des sols naturels et agricoles. Les collectivités sont souvent bloquées dans leurs projets de réhabilitation par la complexité à affronter.
 
