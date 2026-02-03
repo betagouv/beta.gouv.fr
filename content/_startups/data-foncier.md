@@ -51,7 +51,11 @@ Cette ouverture se traduit concrètement par une croissance continue du nombre d
 
 Pour accompagner cette évolution, Datafoncier a industrialisé ses processus de diffusion et a renforcé ses actions d’appui : développement de guides, formations, webinaires, animation de communautés d’usagers… autant de leviers pour faciliter l’appropriation des données et encourager leur usage opérationnel.
 
-Le lancement récent du **Portail des données foncières** marque une nouvelle étape : en six mois seulement, **plus de 7 000 utilisateurs** s’y sont connectés, illustrant l’**intérêt croissant** pour le service et la pertinence des données proposées.
+Le lancement récent du **Portail des données foncières** marque une nouvelle étape : en six mois seulement, **plus de 7 000 utilisateurs** s’y sont connectés, illustrant l’**intérêt croissant** pour le service et la pertinence des données proposées. Le portail apporte entre autres:
+
+- l’unification du processus de demande d’accès aux données
+- la gestion décentralisée des droits d’accès au sein des structures
+- la centralisation des jeux de données foncières
 
 ## Problème
 

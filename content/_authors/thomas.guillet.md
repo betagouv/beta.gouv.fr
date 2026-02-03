@@ -24,13 +24,14 @@ missions:
     status: independent
     employer: Codeureuses en Liberté
   - start: 2024-11-12
-    end: 2026-01-01
+    end: 2026-07-31
     status: independent
     employer: Codeureuses en Liberté
     startups:
       - peste-porcine-africaine
+      - piloter-le-budget-de-mon-produit-numerique
   - start: 2025-09-15
-    end: 2026-03-01
+    end: 2026-07-31
     status: independent
     employer: Codeureuses en Liberté
 previously:

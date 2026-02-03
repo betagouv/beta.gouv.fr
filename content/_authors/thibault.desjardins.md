@@ -13,6 +13,8 @@ missions:
     status: admin
     employer: DINUM
     startups:
+      - data.etat
+      - data.gouv.fr
       - envirogend
       - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
       - refugies.info

@@ -82,7 +82,7 @@ ROMIN s’intègre à l’environnement professionnel des agents et constitue un
 La communauté professionnelle échange et parfait les outils et fonctionnalités partagés.
 La documentation méthodologique, accessible en permanence, offre une prise de recul aux professionnel·les garantissant un effet maximisé pour l'accompagnement de la personne condamnée.
 
-A l'horizon de l'été 2026, l'administration de la solution ROMIN sera confiée aux professionnel.les de la sous-direction Insertion-Probation de la DAP. La Startup d'Etat œuvre actuellement au transfert des données et savoir-faire garantissant le succès du produit et la satisfaction des professionnel.les utilisateur.ices.
+A l'horizon de l'été 2026, l'administration de la solution ROMIN sera confiée aux professionnel.les de la sous-direction Insertion-Probation de la DGAP. La Startup d'Etat œuvre actuellement au transfert des données et savoir-faire garantissant le succès du produit et la satisfaction des professionnel.les utilisateur.ices.
 
 ## Prochaines étapes
 
