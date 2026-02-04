@@ -19,6 +19,8 @@ phases:
     start: 2022-01-01
   - name: transfer
     start: 2025-01-01
+  - name: alumni
+    start: 2026-01-31
 dashlord_url: https://dashlord.incubateur.net/url/opentermsarchive-org/
 accessibility_status: non conforme
 thematiques:

@@ -1,6 +1,6 @@
 ---
 fullname: Jordan Quagliatini
-role: Développeur à Fondation
+role: Développeur Full Stack pour le Conseil Supérieur de la Magistrature (CSM)
 domaine: Développement
 github: jquagliatini
 link: https://linkedin.com/in/jordan-quagliatini

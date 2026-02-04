@@ -5,7 +5,7 @@ domaine: Support
 github: YoannMerrien
 missions:
   - start: 2023-11-23
-    end: 2026-02-28
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:

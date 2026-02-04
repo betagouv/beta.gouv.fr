@@ -72,7 +72,7 @@ Parmi ces données géolocalisées, l'information relative au bâtiment se déma
 Cette absence de base de données nationale et de référence sur le bâtiment engendre :
 
 - **des difficultés de croisement & une qualité variable** entre les jeux de données et outils rattachés à l'adresse, au logement ou parfois à la parcelle cadastrale ;
-- **des ralentissements et des coûts importants dans la conduite d'actions publiques et territoriales** (ex : BDD couteuses à maintenir et/ou informations partagées tardivement)
+- **une difficulté à suivre et piloter leurs actions sur leurs parcs bâtimentaires** (ex : BDD coûteuses à maintenir et/ou informations partagées tardivement)
 
 L'objet bâtiment apparaît alors comme le maillon manquant au socle de données géolocalisées pour relier les concepts d'adresses - bâtiments - locaux et parcelles et permettre un pilotage satisfaisant des politiques publiques ; en particulier celles qui concernent la rénovation énergétique, qui nécessitent une vision exhaustive, représentative, actualisée et partagée du parc.
 

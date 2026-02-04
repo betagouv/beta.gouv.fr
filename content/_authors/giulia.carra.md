@@ -5,7 +5,7 @@ role: 'Data analyste / data engineer (plateforme de l''inclusion) '
 github: gcarra
 missions:
   - start: 2024-04-02
-    end: 2026-02-26
+    end: 2026-03-26
     status: independent
     employer: Malt
     startups:
