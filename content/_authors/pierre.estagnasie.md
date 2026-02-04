@@ -4,7 +4,7 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-11-20
-    end: 2026-03-29
+    end: 2026-05-29
     status: independent
     employer: Omnicité
     startups:

@@ -11,7 +11,7 @@ competences:
   - Python
 missions:
   - start: 2025-09-01
-    end: 2026-03-05
+    end: 2026-05-04
     status: independent
     employer: Scopopop
     startups:

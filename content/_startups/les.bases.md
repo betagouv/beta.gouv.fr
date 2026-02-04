@@ -1,7 +1,7 @@
 ---
 link: https://lesbases.anct.gouv.fr/
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/lesbases-anct-gouv-fr/
-mission: Faciliter le partage de ressources & de communs pour les acteurs de l'inclusion numérique
+mission: Faciliter le partage de ressources et communs pour les acteurs du numérique d'intérêt général
 repository: https://github.com/inclusion-numerique/la-base
 incubator: anct
 title: Les Bases du numérique d'intérêt général
@@ -30,7 +30,7 @@ usertypes:
 techno:
   - next.js
 budget_url: https://docs.numerique.gouv.fr/docs/2445dd98-d303-4c7b-b4ba-7690b59ea3d4/
-impact_url: https://lesbases.anct.gouv.fr/statistiques
+impact_url: https://docs.numerique.gouv.fr/docs/824cc655-e3de-44e5-9288-e5e23e3693ee/
 ---
 ## Contexte
 
@@ -43,7 +43,7 @@ publiques…).
 
 ## Problème
 
-Il n’existe pas aujourd’hui d’espace partagé (ou plusieurs, mais non-exhaustifs, ou parfois peu maintenus) répertoriant les dispositifs et ressources de l’inclusion numérique. Or, les professionnels de la médiation numérique, les acteurs locaux et les collectivités territoriales ont besoin d’un lieu dédié au recensement d’outils, de pratiques, de partage des connaissance autour de l’inclusion numérique aujourd'hui disséminés sur internet.
+Il n’existe pas aujourd’hui d’espace pour partager et gérer en commun des ressources sur le numérique d'intérêt général. Or, les professionnels de la médiation numérique, les acteurs associatifs, les collectivités territoriales ont besoin d’un lieu dédié au recensement d’outils, de pratiques, de partage des connaissance autour du numérique d'intérêt général et de l’inclusion numérique aujourd'hui disséminés sur internet.
 
 ## Solution
 

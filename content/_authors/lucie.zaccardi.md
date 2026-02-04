@@ -13,8 +13,6 @@ missions:
     status: admin
     employer: DINUM
 memberType: beta
-teams:
-  - /teams/francetravail-l-incubateur-de-france-travail-leads-de-pratiques
 competences:
   - Product strategy
   - Coaching

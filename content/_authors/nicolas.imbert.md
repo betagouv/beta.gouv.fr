@@ -4,7 +4,7 @@ role: Product Manager
 domaine: Produit
 missions:
   - start: 2023-08-29
-    end: 2026-03-01
+    end: 2026-07-01
     status: independent
     employer: Omnicité
     startups:

@@ -5,7 +5,7 @@ domaine: Développement
 github: clemog
 missions:
   - start: 2021-10-11
-    end: 2026-03-01
+    end: 2026-06-30
     status: independent
     employer: Scopyleft
     startups:

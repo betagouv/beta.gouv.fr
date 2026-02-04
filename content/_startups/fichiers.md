@@ -19,7 +19,8 @@ phases:
 events:
   - name: product_launch
     date: 2025-08-26
-link: ''
+link: https://fichiers.numerique.gouv.fr/
+techno: []
 ---
 La description ci-dessous est un brouillon, en cours de finalisation.
 

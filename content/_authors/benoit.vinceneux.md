@@ -14,5 +14,11 @@ missions:
     employer: Direction interministérielle du numérique
     startups:
       - datalma
-github: benoitvinceneux
+  - start: 2026-01-01
+    end: 2026-05-31
+    status: admin
+    employer: Direction interministérielle du numérique
+    startups:
+      - media-tech
+github: benoitvx
 ---
