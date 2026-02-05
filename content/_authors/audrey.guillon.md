@@ -1,7 +1,7 @@
 ---
 fullname: Audrey Guillon
 domaine: Déploiement
-role: Chargée de déploiement / coach déploiement
+role: 'Chargée de déploiement / coach '
 missions:
   - start: 2022-01-03
     end: 2022-11-01

@@ -8,7 +8,7 @@ competences:
   - Facilitation
 missions:
   - start: 2025-05-05
-    end: 2025-12-30
+    end: 2026-12-30
     status: admin
     employer: Préfécture d'Ille et Vilaine
     startups:

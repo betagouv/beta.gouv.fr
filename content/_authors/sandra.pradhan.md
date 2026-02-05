@@ -3,7 +3,6 @@ fullname: Sandra Pradhan
 role: Chargée de support à pass Sport
 domaine: Support
 competences:
-  - Déploiement
   - Support utilisateurs
   - Business development
 missions:

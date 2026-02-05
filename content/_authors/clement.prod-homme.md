@@ -10,7 +10,7 @@ missions:
     status: service
     employer: Captive
   - start: 2024-06-01
-    end: 2026-03-01
+    end: 2026-07-31
     status: service
     employer: Captive
     startups:

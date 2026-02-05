@@ -37,6 +37,12 @@ missions:
     employer: Numa
     startups:
       - bambin
+  - start: 2026-02-05
+    end: 2026-06-30
+    status: independent
+    employer: Numa
+    startups:
+      - guichet-territorial-pour-la-transition-ecologique
 memberType: beta
 competences:
   - Facilitation
