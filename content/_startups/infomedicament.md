@@ -22,7 +22,7 @@ mon_service_securise: true
 dashlord_url: https://dashlord.incubateur.net/url/infomedicament-beta-gouv-fr/
 budget_url: https://www.notion.so/Budget-Info-M-dicament-2ea9723499b6807e9f70fa0b7dec8146
 stats_url: https://infomedicament.beta.gouv.fr/statistiques
-impact_url: https://infomedicament.beta.gouv.fr/statistiques
+impact_url: https://docs.numerique.gouv.fr/docs/9ded5e2f-5586-4418-b5cd-b792d702efaa/
 ---
 ## Contexte 
 

@@ -21,7 +21,7 @@ missions:
     startups:
       - plateforme-d-admission-au-doctorat
 ---
-Binôme d'entrepreneurs, je les à se développer en complétant leur équipe.
-Spécialiste des méthodes du Design Thinking et du Lean Startup, je travaille avec vous et vos équipes pour définir la stratégie de développement, le produit, le marché. 
+Binôme d'entrepreneurs, je les aide à se développer en complétant leur équipe.
+Spécialiste des méthodes du Design Thinking et du Lean Startup, je travaille avec vous et vos équipes pour définir la stratégie de développement, le produit, les utilisateurs. 
 La solitude est la première barrière qui freine les porteurs à se lancer ou les empêche de se développer rapidement.
 C'est là que j'interviens! 

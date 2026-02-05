@@ -9,7 +9,7 @@ competences:
   - Développement Frontend
 missions:
   - start: 2025-06-16
-    end: 2026-03-07
+    end: 2026-06-30
     status: independent
     employer: Little Big Connexion
     startups:

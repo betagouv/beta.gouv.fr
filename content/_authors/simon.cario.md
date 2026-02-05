@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2026-02-02
     end: 2029-01-31
-    employer: L'Atelier Numérique du Ministère de l'Europe et des Affaires Etrangères
     status: admin
-    startups: []
+    employer: L'Atelier Numérique du Ministère de l'Europe et des Affaires Etrangères
 teams:
-  - /teams//teams/atelier_meae
+  - /teams/atelier_meae
 ---

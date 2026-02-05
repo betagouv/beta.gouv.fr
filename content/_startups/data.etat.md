@@ -15,7 +15,7 @@ phases:
   - name: construction
     start: 2023-03-01
   - name: acceleration
-    start: 2024-05-01
+    start: 2027-05-01
 thematiques:
   - Open-Data
   - Administratif

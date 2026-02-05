@@ -11,7 +11,7 @@ competences:
   - Facilitation
 missions:
   - start: 2025-11-20
-    end: 2026-02-20
+    end: 2026-06-20
     status: independent
     employer: LBC
     startups:

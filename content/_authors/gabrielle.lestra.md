@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-09-01
     end: 2026-12-31
-    employer: ADEME
     status: admin
+    employer: ADEME
     startups:
       - ecobalyse
-teams: []
 ---
