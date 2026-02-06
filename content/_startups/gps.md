@@ -11,6 +11,8 @@ phases:
     start: 2023-12-05
   - name: construction
     start: 2024-11-04
+  - name: success
+    start: 2025-10-01
 thematiques:
   - Travail / Emploi
 repository: https://github.com/gip-inclusion/les-emplois/
@@ -21,26 +23,28 @@ techno:
 accessibility_status: partiellement conforme
 link: ''
 ---
-## Le problème
+### Le problème
 
-Qui est intervenu auprès de la personne que j'accompagne, et qu'est-ce qui a été entrepris ?
+**GPS** est une expérimentation qui vise à briser les silos de l'insertion professionnelle en partageant une information pivot : **qui accompagne qui ?** En permettant aux professionnels de visualiser instantanément les coordonnées des autres accompagnateurs d'un même usager, GPS facilite la coordination et sécurise les transitions de parcours.
 
-Les accompagnateurs socio-professionnels souffrent de ne pas avoir accès aux bonnes informations au bon moment. Résultat, ils perdent du temps, recommencent parfois des démarches déjà lancées par un autre professionnel, et ne parviennent pas assez à collaborer entre eux.
+### 📈 Le bilan de l'expérimentation (2025)
 
-## Notre service
+L'année 2025 a permis de valider l'intuition de départ grâce à un test en conditions réelles :
 
-GPS – le « guide de partage et de suivi » – rassemble sur une seule page les informations essentielles pour comprendre la situation de la personne accompagnée, ainsi que les coordonnées de tous les autres professionnels intervenus auprès de cette personne. **Cette approche encourage les professionnels à s'appeler ou s'écrire directement.**
+- **Sources de données :** Récupération d'un échantillon manuel provenant de **France Travail,** et consolidation avec les données de la **Plateforme de l'inclusion**.
+- **Intégration fluide :** Affichage des contacts directement dans les outils métiers existants (ex: *Les Emplois de l'inclusion*).
+- **Impact validé :** Les retours terrain confirment que l'accès à ces contacts réduit la déperdition d'information et accélère la prise de décision collective.
+    - Du côté des stats, environ 4 000 professionnels consultent chaque mois la liste des pros en lien avec un usager. Ils ont 5 fois plus de chances d’être contactés quand le pro est labellisé comme “référent” (info récupérée de France Travail).
 
-(Un objectif secondaire est de réduire le temps passé par les professionnels dans des tâches de retranscription et de saisie.)
+### 🚀 Prochaines étapes
 
-## Stratégie
+L'enjeu est désormais de passer de la preuve de concept à un service industriel :
 
-Notre déploiement suit une logique d'« aller-vers » : des rencontres en face à face avec les usagers et les professionnels dans nos terrains d'expérimentation.
+1. **Automatisation :** Branchement direct aux flux de données de France Travail pour une mise à jour en temps réel.
+2. **Passage à l'échelle :** Déploiement de l'affichage sur l'ensemble des outils de l'écosystème aux moments critiques du parcours.
+    
+    > Un cas d'usage concret : la fin de contrat
+    Lorsqu'un salarié quitte un chantier d'insertion, sa Chargée d'Insertion Professionnelle (CIP) peut désormais identifier et notifier directement son référent France Travail. Résultat : une transition sans couture et une recherche d'emploi qui démarre sans délai.
+    >
 
-En parallèle, nous contribuons aux efforts de France Travail et du reste du [Réseau pour l'emploi](https://travail-emploi.gouv.fr/ministere/organisation/reseau-pour-lemploi) pour la mise en commun et l'échange de données utiles à l'accompagnement.
-
-## Mesure d'impact
-
-La démarche sera un succès si GPS renforce les échanges entre le service public de l'emploi (ou « SPE », qui regroupe France Travail, les Missions locales, Cap emploi, les Conseils départementaux et leurs délégataires dans l'accompagnement du RSA) et tous les autres acteurs, petits et grands, du [Réseau pour l'emploi](https://travail-emploi.gouv.fr/ministere/organisation/reseau-pour-lemploi).
-
-Nous comptons mesurer la croissance et l'activation du « graphe social » de l'inclusion – les mises en relation et invitation entre professionnels.
+Nous comptons mesurer la croissance et l'activation du « graphe social » de l'inclusion – les mises en relation et invitations entre professionnels.

@@ -31,7 +31,7 @@ Chaque année en France, environ 130 000 personnes sont hospitalisées suite à 
 Tout au long de leur parcours de santé, **les patient.es** recherchent des informations sur internet sur les médicaments, pour se rassurer ou au contraire évaluer eux-mêmes les risques à suivre leurs traitements, contre l'avis des médecins. De plus, ils doivent parcourir de nombreux sites aux informations partielles, payantes ou obsolètes, qui ne leur donnent pas les clés de compréhension nécessaires et à qui ils ne font pas confiance à 72%. La mésinformation et la désinformation peuvent alors mener à du mésusage et à des conséquences graves de santé publique.
 
 
-L'objectif du MVP est de vérifier qu’un accès à des informations fiables, actualisées et claires sur l’usage des médicaments pourrait participer à réduire ces risques.
+L'objectif de https://infomedicament.beta.gouv.fr/ est d'offrir un accès à des informations fiables, actualisées et claires sur l’usage des médicaments pour participer à la réduction de ces risques.
   
 ## Objectifs 
 

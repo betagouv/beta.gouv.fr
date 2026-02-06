@@ -28,3 +28,4 @@ competences:
   - Product strategy
   - Facilitation
 ---
+« On ne pourra bien dessiner le simple qu’après une étude approfondie du complexe. » Gaston Bachelard 
