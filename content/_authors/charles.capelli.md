@@ -8,6 +8,15 @@ missions:
     end: 2027-04-01
     status: admin
     employer: Plateforme de l'inclusion
+    startups:
+      - data-inclusion
+      - dora
+      - gps
+      - la.communaute.de.linclusion
+      - les-emplois
+      - pilotage.de.linclusion
+      - place-de-marche-inclusion
+      - rdv.insertion
 previously:
   - e-chauffeur
   - octopus
