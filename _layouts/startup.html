@@ -37,11 +37,13 @@ layout: default
         <div id="about" class="fr-py-4w fr-px-4w fr-mt-3w">
           <h2>À propos</h2>
           <p>
+            <b>{{ page.title }}</b> 
             {% if phase.status == 'success' %}
-              <b>{{ page.title }}</b> a été portée par {% if incubator.published == false %}{{ incubator.title }}{% else %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% endif %}.
+              a été portée
             {% else %}
-              <b>{{ page.title }}</b> est portée par {% if incubator.published == false %}{{ incubator.title }}{% else %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% endif %}.
+               est portée 
             {% endif %}
+            par {% if incubator and incubator.published != false %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% else %}{{ incubator.title | default: page.incubator }}{% endif %}.
           </p>
           <p>
             Ce service numérique est sponsorisé par
