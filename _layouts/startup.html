@@ -38,9 +38,9 @@ layout: default
           <h2>À propos</h2>
           <p>
             {% if phase.status == 'success' %}
-              <b>{{ page.title }}</b> a été portée par <a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
+              <b>{{ page.title }}</b> a été portée par {% if incubator.published != false %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% else %}{{ incubator.title }}{% endif %}.
             {% else %}
-              <b>{{ page.title }}</b> est portée par <a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
+              <b>{{ page.title }}</b> est portée par {% if incubator.published != false %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% else %}{{ incubator.title }}{% endif %}.
             {% endif %}
           </p>
           <p>
