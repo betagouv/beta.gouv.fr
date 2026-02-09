@@ -50,7 +50,8 @@ module Jekyll
     priority :highest
 
     def generate(site)
-      site.data['all_incubators'] = site.collections['incubators'].docs
+      # Keep a copy of all incubators (including hidden) for filters and lookups
+      site.data['all_incubators'] = site.collections['incubators'].docs.dup
 
       # Remove hidden incubators from output so their pages are not generated
       site.collections['incubators'].docs.reject! { |doc| doc.data.fetch('hidden', false) }
