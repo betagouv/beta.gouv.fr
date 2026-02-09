@@ -10,6 +10,7 @@ missions:
     employer: DGFIP
     startups:
       - faritas
+      - one-vision
   - start: 2020-10-07
     end: 2024-09-30
     status: admin

@@ -11,6 +11,8 @@ phases:
     start: 2024-04-15
   - name: acceleration
     start: 2025-07-04
+  - name: transfer
+    start: 2026-01-27
 thematiques:
   - Démocratie
   - Inclusion numérique
@@ -38,3 +40,5 @@ Accessible à toutes et tous, quelle que soit sa perception visuelle, le portail
 Conçu avec et pour les publics déficients visuels, le Portail de l’audiodescription répond à un besoin d’accessibilité culturelle en remédiant à la dispersion actuelle de l’information. Il propose également un centre de ressources pédagogiques et de sensibilisation à destination du grand public et des professionnels.
 
 Porté par le ministère de la Culture en partenariat avec le Centre national du cinéma et de l’image animée (CNC), ce projet s’inscrit dans la feuille de route de la Conférence nationale du handicap de 2023. Il bénéficie du soutien du Comité interministériel du handicap (CIH) et du Conseil national consultatif des personnes handicapées (CNCPH), et a été développé au sein de l’incubateur de l’Atelier numérique du ministère, en co-construction permanente avec des usagers, des associations représentatives, et des professionnels de l’audiodescription.
+
+Le service est aujourd'hui en cours de pérennisation au sein d'un dispositif conjoint entre les directions métiers du CNC et la ligne de produits grand public du service du numérique du ministère de la Culture.

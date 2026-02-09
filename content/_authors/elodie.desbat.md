@@ -9,6 +9,12 @@ missions:
     employer: Liberte Living-Lab
     startups:
       - inca
+  - start: 2026-02-13
+    end: 2026-08-09
+    status: independent
+    employer: Malt
+    startups:
+      - sylva-san
 badges:
   - segur
 ---

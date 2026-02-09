@@ -13,4 +13,4 @@ missions:
     startups:
       - les-emplois
 ---
-Développeur expérimenté python/Django et formateur IA appliquée au développement logiciel
+Expert python/Django et formateur IA
