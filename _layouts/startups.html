@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign lang = page.lang | default: site.lang | default: "en" %} {% assign phases = site.phases | sort: 'order' %} {% assign phases_with_stopped = site.phases | sort: 'order' %} {% assign incubators = site.incubators %} {% assign organisations = site.organisations %}
+{% assign lang = page.lang | default: site.lang | default: "en" %} {% assign phases = site.phases | sort: 'order' %} {% assign phases_with_stopped = site.phases | sort: 'order' %} {% assign incubators = site.data.all_incubators %} {% assign organisations = site.organisations %}
 
 <script>
   var data = {

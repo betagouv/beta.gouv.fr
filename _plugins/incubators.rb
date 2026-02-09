@@ -46,6 +46,14 @@ module Jekyll
     end
   end
 
+  class AllIncubatorsGenerator < Generator
+    priority :highest
+
+    def generate(site)
+      site.data['all_incubators'] = site.collections['incubators'].docs
+    end
+  end
+
   class RenderIncubatorsApi < Liquid::Tag
     def render(context)
       result = {}
