@@ -5,7 +5,7 @@ domaine: Déploiement
 github: MathieuBonamy
 missions:
   - start: 2022-08-25
-    end: 2026-02-28
+    end: 2026-07-31
     status: independent
     employer: Ministère en charge de l'énergie
     startups:

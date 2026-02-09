@@ -1,6 +1,6 @@
 ---
 fullname: Anthony Ricaud
-role: Développeur
+role: Lead Tech
 domaine: Développement
 link: https://ricaud.me
 github: Rik
@@ -12,7 +12,7 @@ missions:
     startups:
       - sppnaut
   - start: 2024-09-30
-    end: 2026-06-15
+    end: 2026-08-08
     status: independent
     employer: Lazone
     startups:
@@ -24,5 +24,6 @@ competences:
   - Développement Full-stack
   - Python
   - UI
+  - JavaScript/TypeScript
 ---
 Développeur full-stack

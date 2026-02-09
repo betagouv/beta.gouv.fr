@@ -33,7 +33,7 @@ missions:
     startups:
       - aquaculteurs.marins
   - start: 2025-09-08
-    end: 2026-03-09
+    end: 2026-05-08
     status: independent
     employer: Pathtech
     startups:

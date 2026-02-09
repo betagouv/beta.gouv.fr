@@ -23,11 +23,12 @@ missions:
     startups:
       - les-emplois
   - start: 2025-09-05
-    end: 2026-03-06
+    end: 2026-07-31
     status: independent
     employer: La zone
     startups:
       - docurba
-competences: []
+competences:
+  - Développement Backend
 ---
 Développeuse curieuse. Amatrice de blagues pas drôles, de gens trop enthousiastes et d'idées folles.

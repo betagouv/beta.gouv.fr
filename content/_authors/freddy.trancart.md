@@ -10,7 +10,6 @@ missions:
     employer: Atelier Numérique du Ministère de la Culture
     startups:
       - collectif_objets
-      - languia
       - pop
 memberType: autre
 competences:
