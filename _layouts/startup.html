@@ -11,7 +11,7 @@ layout: default
 
 {% comment %} Détection de l'incubateur {% endcomment %}
 {% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
-{% assign incubator = site.incubators | where:'id', incubator_id | first %}
+{% assign incubator = site.data.all_incubators | where:'id', incubator_id | first %}
 
 {% include hero-startup.html startup=page phase=phase %}
 
@@ -38,9 +38,9 @@ layout: default
           <h2>À propos</h2>
           <p>
             {% if phase.status == 'success' %}
-              <b>{{ page.title }}</b> a été portée par {% if incubator.published != false %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% else %}{{ incubator.title }}{% endif %}.
+              <b>{{ page.title }}</b> a été portée par {% if incubator.published == false %}{{ incubator.title }}{% else %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% endif %}.
             {% else %}
-              <b>{{ page.title }}</b> est portée par {% if incubator.published != false %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% else %}{{ incubator.title }}{% endif %}.
+              <b>{{ page.title }}</b> est portée par {% if incubator.published == false %}{{ incubator.title }}{% else %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% endif %}.
             {% endif %}
           </p>
           <p>
