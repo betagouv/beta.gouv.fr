@@ -22,8 +22,7 @@ module Jekyll
 
     def filter_incubators_with_active_startups(incubators, startups)
       incubators.select do |incubator|
-        # exclude legacy sgmas
-        incubator.id != 'sgmas' && count_incubator_active_startups(incubator, startups).positive?
+        !incubator.data.fetch('hidden', false) && count_incubator_active_startups(incubator, startups).positive?
       end
     end
 
@@ -44,6 +43,18 @@ module Jekyll
     # copied from `_plugins/phases.rb` but it's too tricky to reapply the filter in another separated filter
     def get_phase(startup)
       startup['phases'].last['name'] || startup.data['phases']&.last&.[]('name')
+    end
+  end
+
+  class AllIncubatorsGenerator < Generator
+    priority :highest
+
+    def generate(site)
+      # Keep a copy of all incubators (including hidden) for filters and lookups
+      site.data['all_incubators'] = site.collections['incubators'].docs.dup
+
+      # Remove hidden incubators from output so their pages are not generated
+      site.collections['incubators'].docs.reject! { |doc| doc.data.fetch('hidden', false) }
     end
   end
 

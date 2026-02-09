@@ -11,7 +11,7 @@ layout: default
 
 {% comment %} Détection de l'incubateur {% endcomment %}
 {% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
-{% assign incubator = site.incubators | where:'id', incubator_id | first %}
+{% assign incubator = site.data.all_incubators | where:'id', incubator_id | first %}
 
 {% include hero-startup.html startup=page phase=phase %}
 
@@ -37,11 +37,13 @@ layout: default
         <div id="about" class="fr-py-4w fr-px-4w fr-mt-3w">
           <h2>À propos</h2>
           <p>
+            <b>{{ page.title }}</b> 
             {% if phase.status == 'success' %}
-              <b>{{ page.title }}</b> a été portée par <a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
+              a été portée
             {% else %}
-              <b>{{ page.title }}</b> est portée par <a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
+               est portée 
             {% endif %}
+            par {% if incubator and incubator.hidden != true %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% else %}{{ incubator.title | default: page.incubator }}{% endif %}.
           </p>
           <p>
             Ce service numérique est sponsorisé par
