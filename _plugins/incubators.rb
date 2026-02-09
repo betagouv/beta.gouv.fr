@@ -22,7 +22,7 @@ module Jekyll
 
     def filter_incubators_with_active_startups(incubators, startups)
       incubators.select do |incubator|
-        !incubator.data['disabled'] && count_incubator_active_startups(incubator, startups).positive?
+        incubator.data.fetch('published', true) && count_incubator_active_startups(incubator, startups).positive?
       end
     end
 
