@@ -22,7 +22,7 @@ module Jekyll
 
     def filter_incubators_with_active_startups(incubators, startups)
       incubators.select do |incubator|
-        incubator.data.fetch('published', true) && count_incubator_active_startups(incubator, startups).positive?
+        !incubator.data.fetch('hidden', false) && count_incubator_active_startups(incubator, startups).positive?
       end
     end
 
@@ -51,6 +51,9 @@ module Jekyll
 
     def generate(site)
       site.data['all_incubators'] = site.collections['incubators'].docs
+
+      # Remove hidden incubators from output so their pages are not generated
+      site.collections['incubators'].docs.reject! { |doc| doc.data.fetch('hidden', false) }
     end
   end
 

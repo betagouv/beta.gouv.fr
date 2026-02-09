@@ -43,7 +43,7 @@ layout: default
             {% else %}
                est portée 
             {% endif %}
-            par {% if incubator and incubator.published != false %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% else %}{{ incubator.title | default: page.incubator }}{% endif %}.
+            par {% if incubator and incubator.hidden != true %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% else %}{{ incubator.title | default: page.incubator }}{% endif %}.
           </p>
           <p>
             Ce service numérique est sponsorisé par
