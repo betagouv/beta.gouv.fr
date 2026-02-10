@@ -26,6 +26,7 @@ repository: https://pad.numerique.gouv.fr/s/Grt2p3eaS#
 sponsors:
   - /organisations/dgaln
   - /organisations/mtes
+stats_url: https://creapp.top/superset/dashboard/datafoncier-metrics/
 ---
 ## Contexte
 

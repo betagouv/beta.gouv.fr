@@ -9,6 +9,11 @@ missions:
     employer: Malt
     startups:
       - pacoupa
+  - start: 2025-10-01
+    end: 2026-05-01
+    status: independent
+    startups:
+      - data-foncier
 memberType: beta
 competences: []
 ---

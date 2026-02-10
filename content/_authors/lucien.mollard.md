@@ -12,7 +12,7 @@ missions:
     startups:
       - dossiersco
   - start: 2019-11-12
-    end: 2026-03-12
+    end: 2026-07-31
     status: independent
     employer: Malt
     startups:

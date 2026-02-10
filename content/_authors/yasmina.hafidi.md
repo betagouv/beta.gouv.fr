@@ -3,10 +3,9 @@ fullname: Yasmina Hafidi
 role: Cheffe de projet-intrapreneuse Start ups d’Etat et territoires
 domaine: Intraprenariat
 missions:
-  - start: 2021-08-16
-    end: 2024-12-31
+  - start: 2021-09-01
+    end: 2024-09-30
     status: admin
-    employer: ANCT
     startups:
       - monstage
   - start: 2024-06-01
@@ -33,8 +32,9 @@ missions:
     startups:
       - agents.en.intervention
   - start: 2025-06-01
-    end: 2026-03-31
+    end: 2026-06-30
     status: admin
+    employer: ANCT
     startups:
       - services-web-anct
 competences:

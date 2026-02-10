@@ -20,7 +20,7 @@ missions:
     startups:
       - formation-civique
   - start: 2025-09-04
-    end: 2025-12-11
+    end: 2026-06-30
     status: admin
     employer: MI / Fabrique numérique DTNUM
 memberType: autre
