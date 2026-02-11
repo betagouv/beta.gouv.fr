@@ -32,6 +32,7 @@ stats_url: https://collectivite.fr/stats
 usertypes: []
 techno: []
 impact_url: https://docs.numerique.gouv.fr/docs/f615131f-02b6-4fa2-a1e7-33eb670f29db/
+budget_url: https://docs.numerique.gouv.fr/docs/96bd0216-8b47-4c69-86b0-b8217aacc615/
 ---
 ## Contexte
 

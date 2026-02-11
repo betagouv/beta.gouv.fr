@@ -16,7 +16,7 @@ missions:
     startups:
       - mesaidesreno
   - start: 2025-11-06
-    end: 2026-02-13
+    end: 2026-06-30
     status: independent
     employer: LBC
     startups:

@@ -29,7 +29,7 @@ missions:
     startups:
       - recosante
   - start: 2023-03-01
-    end: 2026-03-01
+    end: 2026-05-31
     status: independent
     employer: littlebigconnection+cadresenmission
     startups:
