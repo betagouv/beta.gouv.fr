@@ -7,7 +7,7 @@ competences:
   - Facilitation
   - Coaching
   - Communication
-  - Développement Full-stack
+  - No-Code
 missions:
   - start: 2025-02-01
     end: 2027-02-01

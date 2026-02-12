@@ -2,7 +2,7 @@
 fullname: Amélie Quillet
 domaine: Déploiement
 role: Chargée de déploiement
-github: ameliequillet
+github: ameliequillet-aq
 missions:
   - start: 2021-03-22
     end: 2026-05-10

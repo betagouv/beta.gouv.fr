@@ -16,13 +16,13 @@ missions:
     startups:
       - vigieau
   - start: 2025-08-20
-    end: 2026-02-20
+    end: 2026-02-19
     status: independent
     employer: Malt
     startups:
       - vert.impact
-  - start: 2025-08-20
-    end: 2026-02-20
+  - start: 2026-02-19
+    end: 2026-05-11
     status: independent
     employer: Malt
     startups:

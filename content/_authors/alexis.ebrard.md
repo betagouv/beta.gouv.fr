@@ -13,7 +13,7 @@ competences:
   - JavaScript/TypeScript
 missions:
   - start: 2025-03-25
-    end: 2026-03-31
+    end: 2026-07-28
     status: service
     employer: Little Big Connection
     startups:

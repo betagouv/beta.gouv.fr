@@ -18,7 +18,7 @@ missions:
     startups:
       - plusfraichemaville
   - start: 2025-11-03
-    end: 2026-02-25
+    end: 2026-05-29
     status: independent
     employer: Malt
 incubator: ademe

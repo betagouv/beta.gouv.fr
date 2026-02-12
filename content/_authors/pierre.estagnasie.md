@@ -12,6 +12,4 @@ missions:
       - sirius
 memberType: beta
 competences: []
-teams:
-  - /teams/anssi
 ---

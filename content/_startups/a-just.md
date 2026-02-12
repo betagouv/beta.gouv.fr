@@ -41,8 +41,6 @@ techno: []
 
 ## **Contexte**
 
-[Voir la vidéo de présentation de la démarche](https://vimeo.com/788314426)
-
 La dernière enquête ministérielle sur le fonctionnement de la Justice et la satisfaction des personnes ayant eu un contact direct avec elle a révélé que **95% des français la considéraient trop lente**.
 
 Cette appréciation est confirmée par le baromètre annuel de satisfaction des usagers des services publics, publié en novembre 2019 par l’Institut Paul Delouvrier en partenariat avec la DITP, selon **lequel la priorité aux yeux des usagers du service public de la Justice est la rapidité de jugement des affaires**.
@@ -91,7 +89,7 @@ Or, si la durée de traitement des procédures est particulièrement suivie par 
 
 ## **La solution en construction**
 
-[Voir la vidéo de présentation du produit](https://vimeo.com/788716513)
+[Voir la vidéo de présentation du produit](https://app.videas.fr/embed/media/95519f7a-adc2-413b-bbc4-e6e8c02da747/)
 
 ***Lancement de la phase d'accélération***
 

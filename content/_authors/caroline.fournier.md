@@ -12,7 +12,7 @@ missions:
       - chauffage-urbain
       - infomedicament
   - start: 2025-07-01
-    end: 2025-11-30
+    end: 2026-07-30
     status: independent
     employer: Dynergie
     startups:
