@@ -1,14 +1,14 @@
 ---
 fullname: Aude Zuliani
-role: Chargée de support no-code
+role: Développeuse no-code
 domaine: Data
 competences: []
 missions:
-  - start: 2024-11-18
-    end: 2026-04-06
+  - start: 2026-02-09
+    end: 2026-03-31
     status: independent
-    employer: Omnicité
+    employer: ut7
     startups:
-      - données-et-territoires
+      - grist.numerique.gouv.fr
 github: audez
 ---

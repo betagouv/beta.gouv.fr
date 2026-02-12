@@ -13,4 +13,6 @@ memberType: beta
 link: https://www.linkedin.com/in/cmaritorena/
 competences:
   - Communication
+  - Matomo
+  - Administration Publique
 ---

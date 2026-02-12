@@ -11,8 +11,6 @@ phases:
     start: 2024-02-05
   - name: construction
     start: 2024-12-10
-  - name: acceleration
-    start: 2026-01-27
 link: https://mon.inclusion-numerique.anct.gouv.fr/
 repository: https://github.com/anct-cnum
 stats: false

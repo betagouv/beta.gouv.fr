@@ -30,4 +30,5 @@ missions:
 memberType: beta
 competences: []
 github: swheeler640
+link: https://www.linkedin.com/in/sydney-wheeler/
 ---

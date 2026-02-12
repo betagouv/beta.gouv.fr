@@ -1,6 +1,6 @@
 ---
 fullname: Yohann Gablowski
-role: Développeur
+role: Lead Développeur Fullstack
 domaine: Développement
 github: yohanngab
 missions:
@@ -12,7 +12,7 @@ missions:
       - sirius
       - uai_siret
   - start: 2025-06-02
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: ut7
     startups:
@@ -20,4 +20,4 @@ missions:
 memberType: beta
 competences: []
 ---
-Développeur fullstack
+Lead Développeur Fullstack

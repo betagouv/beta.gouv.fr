@@ -4,7 +4,7 @@ role: Chargée de développement
 domaine: Déploiement
 missions:
   - start: 2024-09-04
-    end: 2026-02-18
+    end: 2026-07-18
     status: independent
     startups:
       - envergo

@@ -21,6 +21,12 @@ missions:
       - infoparquet
       - mon-suivi-justice
       - sndv_maritime
+  - start: 2026-02-12
+    end: 2026-08-12
+    status: independent
+    employer: Dynergie
+    startups:
+      - territoires-en-transitions
 badges:
   - segur
 competences:

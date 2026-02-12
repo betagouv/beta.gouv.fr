@@ -11,6 +11,8 @@ accessibility_status: partiellement conforme
 phases:
   - name: acceleration
     start: 2023-09-25
+  - name: transfer
+    start: 2026-03-02
 fast:
   promotion: 13
   montant: 250000
@@ -39,55 +41,115 @@ techno:
   - react native
   - tailwindcss
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#R%C3%A9fugi%C3%A9sinfo
+impact_url: https://docs.numerique.gouv.fr/docs/a22e78b0-5d1b-4b0a-9c7f-94ec6282c9da/
 ---
-## **Contexte**
+## Contexte et enjeu de politique publique
 
-Chaque année, la France accueille entre 35 000 et 50 000 personnes réfugiées, avec une tendance à la hausse due aux conflits géopolitiques et aux migrations liées au changement climatique. Cependant, leur intégration en France est entravée par des obstacles majeurs.
+Lors de son discours du 27 juillet 2017 à Orléans, **le Président de la République a fait état de son attachement à la tradition humaniste de la France** qui se doit d'héberger puis d'intégrer ceux qui sont venus solliciter sa protection. Ce discours a permis de témoigner à tous les acteurs qui œuvrent au quotidien **en faveur des personnes bénéficiant de protection internationale de la France (BPI) de l'engagement de l'État vers une véritable politique d'intégration.**
+#
 
+L'accueil des personnes réfugiées constitue un engagement républicain fondamental visant à garantir leur pleine intégration. L'accès effectif aux droits et la connaissance des devoirs forment les fondements de la cohésion nationale. **Réduire le non-recours aux droits représente donc un enjeu majeur de la politique publique d'accueil et d'intégration**.
 
-## **Problème**
+Les personnes réfugiées et primo-arrivantes font face à trois obstacles principaux :
 
-Ces problèmes sont principalement:
+1. **L'éparpillement de l'information** et le manque de sources fiables en langue claire
+2. **La barrière linguistique** et la complexité du système administratif français
+3. **Le sous-équipement des professionnels de l'accompagnement** (manque de temps, de formation et d'outils)
+#
 
-1. **Le manque d'information et le non-recours aux droits des personnes réfugiées :** Éparpillement de l'information, barrière de la langue, manque de temps et de compréhension du système administratif français.
-2. **Le manque d'outillage des professionnels de l'accompagnement :** Manque de temps, de formation, et d'outils pour aider les réfugiés.
+[Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) intervient sur le **dernier kilomètre de la politique d'accueil et d'intégration du BOP 104** (Budget Opérationnel de Programme 104 – Intégration et accès à la nationalité française sur délégation de la Direction de l'Intégration et de l'Accès à la Nationalité) en facilitant l'accès à l'information sur les droits, les devoirs, les dispositifs et les démarches pour les personnes primo-arrivantes.
 
+## **La solution : Réfugiés.info**
 
-## **Solution**
+Pour simplifier l'intégration des personnes réfugiées en France, [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) offre **plus de 1 100 fiches d'information simplifiées et traduites** :
 
-Pour simplifier l'intégration des personnes réfugiées en France, Réfugiés.info offre **plus de 1000 fiches d’information simplifiées et traduites** :
-* 100 fiches "démarches" expliquant des procédures administratives complexes (logement social, carte de séjour, inscription à France Travail).
-* 900 fiches “dispositifs” recensant les initiatives locales en faveur des personnes réfugiées (cours de français, formations professionnelles, etc.)
+- **127 fiches "démarches"** expliquant les procédures administratives complexes (logement social, carte de séjour, inscription à France Travail, etc.)
+- **1 010 fiches "dispositifs"** recensant les initiatives locales en faveur des personnes réfugiées (cours de français, formations professionnelles, accompagnement social, etc.)
 
-**Toutes les informations sont disponibles en 7 langues**, couvrant les langues les plus parlées par les personnes protégées en France, grâce à l'engagement de bénévoles et de traducteurs professionnels.
+**Toutes les informations sont disponibles en 7 langues**, couvrant les langues les plus parlées par les personnes protégées en France, grâce à l'engagement de traducteurs professionnels et d'une communauté de bénévoles.
 
 Ces informations sont accessibles via **deux produits complémentaires** :
-1. **Site Internet Collaboratif :** notre site est dédié aux professionnels et permet la création d’information de manière collaborative par les responsables d'organismes publics, des associations, et des bénévoles.
-2. **Application Mobile Native :** notre application mobile est conçue pour répondre aux besoins numériques des réfugiés. Elle propose un accès convivial aux informations, permet l'écoute des fiches pour les utilisateurs en alphabétisation, et facilite le partage d'informations, notamment par SMS pour les accompagnants.
 
+**1. Site web collaboratif**
 
-## **Pourquoi Réfugiés.info est un service numérique à impact national ?**
+Dédié aux professionnels de l'accompagnement, il permet la création d'information de manière collaborative par les responsables d'organismes publics, les associations et les bénévoles.
 
-Réfugiés.info a été nommé service numérique à impact national 2024.
+**2. Application mobile native**
 
-**Réfugiés.info est le service public d’information n°1 pour les étrangers en France en 2024 :**
-* 1,2 million d’utilisateurs uniques ont consulté Réfugiés.info - un chiffre qui double chaque année !
-* Réfugiés.info est le premier résultat sur les moteurs de recherches sur les sujets d’intégration
-* Le service est plébiscité par ses usagers avec une application dans le top 3 des applications publiques les mieux notées (4.6/5)
+Conçue pour les réfugiés, elle offre :
 
-Plus de chiffres sur [notre page statistique juste ici](https://kit.refugies.info/stats/). 
+- Un accès simplifié par le langage clair aux informations
+- La lecture audio des fiches pour les personnes en alphabétisation
+- Le partage d'informations par SMS pour faciliter l'accompagnement
 
-#
-Nous avons également conduit une **mesure d’impact** auprès de tous les usagers du service :
-1. **Réfugiés.info fluidifie le travail des administrations :** moins de sollicitations, dossiers mieux remplis (70% des personnes réfugiées interrogées disent avoir trouvé une réponse sur Réfugiés.info au lieu de la demander à l'administration concernée)
-2. **Réfugiés.info accélère le parcours d’intégration :** 80% des personnes réfugiées disent avoir gagné du temps pour faire leurs démarches grâce à Réfugiés.info (jusqu’à plusieurs mois pour certains)
-3. **Réfugiés.info outille les professionnels et permet de recentrer le travail social sur l’autonomisation des bénéficiaires**
+## **Un service qui a fait ses preuves**
 
-Pour aller plus loin, consultez notre rapport d’impact dans son intégralité : [Réfugiés.info, 5 ans au service de l’information des personnes réfugiées ⭐️📙](https://accueil-integration-refugies.fr/wp-content/uploads/2024/07/Livret-Impact-Refugies.infos-2024.pdf)
+### Service numérique à impact national 2024
 
-## **Et la suite ?**
-**Faire gagner du temps et de l’efficacité aux professionnels et agents de service public grâce à deux projets intégrant l’intelligence artificielle d’État “Albert” :**
-* **Agent conversationnel** : Suggérer rapidement des réponses synthétiques à des questions posées dans une interface dédiée. Une expérimentation a déjà été menée auprès de professionnels de l’accompagnement : ils confirment un intérêt et un enthousiasme pour cette solution qui viendrait faciliter grandement leur travail.
-* **Assistant de rédaction** : Accompagner les associations qui recensent leur dispositif sur la plateforme en améliorant rapidement et efficacement la qualité du contenu rédigé.
+[Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) est le **service public d'information n°1 pour les étrangers en France** :
 
-Réfugiés.info développe ces projets dans le cadre de l’expérimentation IA lancée par la DINUM au mois d’octobre 2024.
+**Usage et audience**
+
+- **1,46 million d'utilisateurs uniques** en 2025 – soit une hausse de +21 % vs 2024
+- **Premier résultat** sur les moteurs de recherche pour les sujets d'intégration en langue étrangère
+- **Plus de 230 000 téléchargements**  de l'application mobile en 4 ans avec une note de 4,1/5 sur les stores
+
+**Satisfaction et utilité**
+
+- **12 700 personnes** ont déclaré avoir trouvé une information utile sur le service en 2025 soit **79 % d'avis positifs** sur les contenus depuis juin 2025
+- **26 447 redirections** vers des services numériques partenaires en décembre 2025
+
+**Efficience exceptionnelle**
+
+- **Coût par personne informée : 0,60 €** en décembre 2025 – soit une amélioration de 33 % par rapport à 2024
+
+*Plus de chiffres sur [notre page statistiques](https://kit.refugies.info/stats/)*
+
+### Impact mesuré et robuste
+
+À ce stade, [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) démontre un **impact intermédiaire robuste** fondé sur trois leviers :
+
+**1. Préparation des démarches administratives**
+
+- 60% des usagers utilisent le service pour préparer une démarche *(chiffre basé sur une étude quantitative menée par Réfugiés.info en 2024)*
+- Plus de 26 000 personnes (20 %) se redirigent vers les services administratifs adéquats (ANEF, ANTS, [Service-public.fr](http://service-public.fr/))
+
+**2. Fluidification du travail des administrations**
+
+- 70 % des personnes réfugiées interrogées ont trouvé une réponse sur [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) au lieu de solliciter l'administration *(chiffre basé sur une étude quantitative menée par Réfugiés.info en 2024)*
+- Meilleure qualité des dossiers transmis et réduction des allers-retours administratifs
+
+**3. Autonomisation des publics et outillage des professionnels**
+
+- 80 % des personnes réfugiées déclarent avoir gagné du temps pour leurs démarches (jusqu'à plusieurs mois pour certains)
+- [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) sert d'outil de formation continue et de veille pour les travailleurs sociaux
+
+*Pour aller plus loin : [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all)[, 5 ans au service de l'information des personnes réfugiées ⭐️📙](https://accueil-integration-refugies.fr/wp-content/uploads/2024/07/Livret-Impact-Refugies.infos-2024.pdf)*
+
+## Les trois piliers de transformation 2026
+
+En 2026, [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) prend une ampleur inédite pour répondre aux enjeux du ministère de l'Intérieur. **Trois chantiers structurants** seront déployés pour maximiser l'impact du service :
+
+### 1. Élargissement du public cible
+
+Le service évolue vers **un outil numérique innovant à impact national pour l'intégration de tous les étrangers primo-arrivants**, aligné avec la politique publique du Ministère de l'Intérieur.
+
+**Objectif :** Élargir progressivement le périmètre des bénéficiaires de la protection internationale (BPI) à l'ensemble des étrangers primo-arrivants, en cohérence avec les besoins territoriaux et les orientations de la DGEF.
+
+### 2. Transformation par l'IA : de producteur à vulgarisateur d'information
+
+[Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) développe une capacité à **récupérer les contenus existants (Service-public.fr, sites ministériels, etc.) pour les rendre accessibles en langage clair et traduits** grâce à une IA interne, tout en continuant à créer l'information manquante.
+
+**Objectif :** Accélérer la production de contenus accessibles et multilingues, réduire les coûts de production, et améliorer la couverture informationnelle.
+
+### 3. Évaluation d'impact approfondie
+
+Un chantier d'**évaluation d'impact renforcé** mobilise la DINUM à travers la présence d'un Chief Impact Officer (CIO) et sera consolidé par le recrutement d'un·e doctorant·e travaillant sur **l'efficacité de l'information traduite dans la lutte contre le non-recours aux droits**.
+
+**Objectif :** Mesurer l'impact final du service notamment l'autonomisation des primo-arrivants, structurer un tableau de bord de pilotage par l'impact, et produire un livret d'impact annuel pour les parties prenantes.
+
+## Vers une pérennisation au sein des services de l'État en 2027
+
+Fort de son impact démontré et de sa reconnaissance comme service numérique à impact national, [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) engage en 2026 un **chantier de pérennisation structuré pour ancrer durablement le service au sein de l'État.**
+
+Ce chantier, piloté conjointement par la DGEF, la DIAN, la DIAIR et la DINUM, repose sur une méthodologie rigoureuse proposé qui séparera diagnostic, construction de scénarios et arbitrage. L'objectif est de **sécuriser la continuité du service pour les années à venir.**
