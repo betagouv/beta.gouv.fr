@@ -5,9 +5,9 @@ domaine: Coaching
 github: jacobvitoux
 link: https://www.linkedin.com/in/jacob-vitoux-023bba3a/
 competences:
-  - Product strategy
-  - Coaching
   - Administration Publique
+  - Coaching
+  - Product strategy
 missions:
   - start: 2024-11-19
     end: 2025-06-30

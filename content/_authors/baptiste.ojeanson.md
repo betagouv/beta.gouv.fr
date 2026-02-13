@@ -6,11 +6,11 @@ link: https://www.linkedin.com/in/bojeanson/
 competences:
   - Data Science
   - Développement Backend
-  - Python
-  - PostgreSQL
-  - Machine learning
-  - Docker
   - DevOps
+  - Docker
+  - Machine learning
+  - PostgreSQL
+  - Python
 missions:
   - start: 2025-07-15
     end: 2025-10-21

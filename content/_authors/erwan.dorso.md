@@ -34,9 +34,9 @@ previously:
   - tchap
 competences:
   - Administration Système
+  - Développement Backend
   - DevOps
   - Docker
   - Kubernetes
-  - Développement Backend
 ---
 DevOps chez scop&co

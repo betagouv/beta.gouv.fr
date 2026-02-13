@@ -18,7 +18,7 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/virginie-collignon-ducret-0018bb154/
 competences:
-  - Droit / Affaires juridiques
-  - Croissance
   - Communication
+  - Croissance
+  - Droit / Affaires juridiques
 ---

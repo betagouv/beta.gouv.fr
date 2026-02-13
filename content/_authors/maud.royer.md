@@ -34,11 +34,11 @@ competences:
   - Administration Système
   - Développement Backend
   - Développement Full-stack
-  - JavaScript/TypeScript
   - DevOps
-  - Python
-  - PostgreSQL
-  - PHP
+  - JavaScript/TypeScript
   - Matomo
+  - PHP
+  - PostgreSQL
+  - Python
 ---
 Développeuse fullstack

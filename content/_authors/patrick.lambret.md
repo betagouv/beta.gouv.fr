@@ -19,9 +19,9 @@ previously:
   - dora
   - data-inclusion
 competences:
-  - Gestion de Produit
   - Coaching
-  - Product strategy
   - Facilitation
+  - Gestion de Produit
+  - Product strategy
 ---
 J'aide les équipes à avoir un maximum d'impact en un minimum d'effort

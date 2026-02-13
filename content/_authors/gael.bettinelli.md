@@ -7,8 +7,8 @@ missions:
     end: 2024-07-05
     status: admin
 competences:
-  - Intrapreneur(se)
   - Administration Publique
+  - Intrapreneur(se)
 memberType: beta
 ---
 Ingénieur forestier de formation, je suis adjoint au chef de service d'appui aux territoires de la DDTM06. 

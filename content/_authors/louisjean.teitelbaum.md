@@ -27,9 +27,9 @@ missions:
     startups:
       - gps
 competences:
-  - UX
   - Coaching
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
+  - UX
 ---
 Bidouilleur, enseignant, designer, développeur.

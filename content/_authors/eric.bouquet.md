@@ -3,11 +3,11 @@ fullname: Eric BOUQUET
 role: Proxy Product Owner
 domaine: Produit
 competences:
-  - Droit / Affaires juridiques
   - Administration Publique
-  - Product strategy
-  - Product design
+  - Droit / Affaires juridiques
   - Intrapreneur(se)
+  - Product design
+  - Product strategy
 missions:
   - start: 2023-01-02
     end: 2027-12-31

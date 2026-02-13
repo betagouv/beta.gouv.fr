@@ -12,17 +12,17 @@ missions:
     startups:
       - camino
 competences:
-  - Développement Full-stack
+  - Accessibilité
+  - Administration Système
   - Développement
   - Développement Backend
   - Développement Frontend
+  - Développement Full-stack
   - DevOps
-  - Administration Système
-  - Sécurité informatique
   - Docker
-  - Accessibilité
   - JavaScript/TypeScript
   - Kubernetes
   - PostgreSQL
+  - Sécurité informatique
   - UI
 ---

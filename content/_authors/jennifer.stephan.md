@@ -31,10 +31,10 @@ missions:
     employer: Ministère de l'agriculture
 link: https://www.linkedin.com/in/stephanjennifer/
 competences:
+  - Administration Publique
+  - Coaching
   - Facilitation
   - Product strategy
-  - Coaching
-  - Administration Publique
 teams:
   - /teams/agriculture-equipe-transverse
 ---

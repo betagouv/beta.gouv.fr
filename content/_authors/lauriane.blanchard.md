@@ -4,10 +4,10 @@ role: Product Designer UX / UI
 domaine: Design
 link: https://www.linkedin.com/in/lauriane-blanchard-b0510936/
 competences:
-  - Product design
-  - UX
-  - UI
   - Accessibilité
+  - Product design
+  - UI
+  - UX
 missions:
   - start: 2025-07-15
     end: 2026-05-31

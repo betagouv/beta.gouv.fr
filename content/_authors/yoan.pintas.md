@@ -10,12 +10,12 @@ missions:
       - suite-numerique
       - tchap
 competences:
-  - Développement Frontend
-  - Sécurité informatique
-  - DevOps
   - Android
+  - Développement Frontend
+  - DevOps
   - iOS
   - Matrix
+  - Sécurité informatique
 memberType: beta
 fullname: Yoan Pintas
 role: Chef de produit Tchap - Expert Matrix

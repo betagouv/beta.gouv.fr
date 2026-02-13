@@ -5,8 +5,8 @@ github: renardpal
 link: https://www.renardpal.com
 domaine: Design
 competences:
-  - UX
   - UI
+  - UX
 missions:
   - start: 2018-11-02
     end: 2019-06-30

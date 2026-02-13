@@ -19,7 +19,7 @@ missions:
 badges:
   - segur
 competences:
-  - UX
   - UI
+  - UX
 ---
 UX designer

@@ -4,9 +4,9 @@ role: Product Owner
 domaine: Produit
 link: https://www.linkedin.com/in/saulnierclement/
 competences:
-  - Product strategy
   - Metabase
   - Product design
+  - Product strategy
 missions:
   - start: 2025-05-05
     end: 2026-06-30

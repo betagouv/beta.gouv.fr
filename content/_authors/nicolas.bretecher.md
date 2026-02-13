@@ -13,10 +13,10 @@ missions:
       - snu
 competences:
   - Développement Full-stack
-  - JavaScript/TypeScript
   - ElasticSearch
-  - PostgreSQL
+  - JavaScript/TypeScript
   - MongoDB
-  - React
   - NextJS
+  - PostgreSQL
+  - React
 ---

@@ -19,9 +19,9 @@ missions:
       - preuve-de-covoiturage
 competences:
   - Data Science
+  - Ingénierie des Données
   - Machine learning
   - Metabase
-  - Ingénierie des Données
   - Visualisation de Données
 ---
 In pizza and data I trust!

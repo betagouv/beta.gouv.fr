@@ -15,17 +15,13 @@ sponsors:
   - /organisations/mtei
 phases:
   - name: investigation
-    comment: null
     start: 2024-07-01
-    end: null
   - name: construction
-    comment: null
     start: 2025-12-01
-    end: null
 events:
   - name: product_launch
-    comment: Lancement du produit auprès de 24 départements (représente 100 agents publics utilisateurs)
     date: 2026-01-01
+    comment: Lancement du produit auprès de 24 départements (représente 100 agents publics utilisateurs)
 ---
 ## Contexte
 

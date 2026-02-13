@@ -18,8 +18,8 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/oriana-berthomieu/
 competences:
-  - Product design
   - Facilitation
+  - Product design
   - UX
 ---
 Slow-food, slow-travel, BD et littérature, podcasts en aléatoire, tiramisù, illustration jeunesse, jardinage du dimanche, cyclisme du samedi

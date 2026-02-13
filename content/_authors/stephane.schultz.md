@@ -11,9 +11,9 @@ missions:
     startups:
       - dialogue
 competences:
-  - Product strategy
   - Coaching
   - Croissance
+  - Product strategy
 github: 15marches
 ---
 Je prends des trains à travers les plaines

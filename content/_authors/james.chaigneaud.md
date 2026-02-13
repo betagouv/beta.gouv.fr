@@ -4,10 +4,10 @@ role: Intrapreneur
 domaine: Intraprenariat
 github: jlllyfish
 competences:
-  - Intrapreneur(se)
-  - UI
   - Communication
+  - Intrapreneur(se)
   - Product design
+  - UI
 missions:
   - start: 2025-09-09
     end: 2026-09-30

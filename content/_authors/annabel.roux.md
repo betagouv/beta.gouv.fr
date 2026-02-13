@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: Numa
 competences:
-  - UX
   - Coaching
   - Communication
+  - UX
 ---
 Designer de services autodidacte et touche à tout, je co-construis des services d'utilité générale avec leurs parties prenantes.

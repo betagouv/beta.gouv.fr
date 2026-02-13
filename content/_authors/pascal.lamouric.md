@@ -13,9 +13,9 @@ missions:
       - valorisation.des.stages.pro
 incubator: dinum
 competences:
-  - Développement Frontend
   - Développement Backend
-  - UX
+  - Développement Frontend
   - Gestion de Produit
+  - UX
 memberType: beta
 ---

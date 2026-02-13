@@ -11,9 +11,9 @@ missions:
       - data.etat
 competences:
   - Administration Publique
-  - Python
   - Coaching
   - Facilitation
   - Product strategy
+  - Python
 ---
 Dans la donnée territoriale et le logiciel libre, avec mes collègues des autres administrations et des collectivités, nous avons pour principe l'équité d'accès, la subsidiarité et la collaboration. Membre fondateur de geOrchestra, chef de projet GéoBretagne, évangélisateur convaincu de Data Etat.

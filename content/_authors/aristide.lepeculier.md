@@ -11,12 +11,12 @@ missions:
     startups:
       - data.etat
 competences:
+  - Administration Système
   - Facilitation
+  - PostgreSQL
   - Product design
   - Product strategy
   - UX
-  - Administration Système
-  - PostgreSQL
 memberType: beta
 link: https://www.linkedin.com/in/lepeculier/
 ---

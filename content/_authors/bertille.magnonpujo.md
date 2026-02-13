@@ -24,9 +24,9 @@ missions:
     startups:
       - suite.territoriale
 competences:
-  - Communication
-  - support
-  - documentation
   - assistance utilisateur
+  - Communication
+  - documentation
+  - Support
   - ticketing
 ---

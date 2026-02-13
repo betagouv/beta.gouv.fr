@@ -17,9 +17,9 @@ memberType: beta
 teams:
   - /teams/anct
 competences:
-  - DevOps
-  - Développement Full-stack
-  - Développement Backend
   - Développement
+  - Développement Backend
+  - Développement Full-stack
+  - DevOps
 ---
 Développeur engagé, facilitateur engageant, créateur d'impact, leadership empathique, mentorat bienveillant.

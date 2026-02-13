@@ -15,14 +15,14 @@ missions:
     employer: GIP Plateforme de l'Inclusion
 competences:
   - Accessibilité
+  - Coaching
   - Développement Backend
   - Développement Frontend
   - Développement Full-stack
   - DevOps
-  - JavaScript/TypeScript
   - Docker
+  - JavaScript/TypeScript
   - PostgreSQL
   - Sécurité informatique
-  - Coaching
 ---
 CTO du GIP de l'Inclusion. Co-founder & ex-CTO du GIP Pix. Coder. Streamer. Speaker. Writer. Papa pupuce.

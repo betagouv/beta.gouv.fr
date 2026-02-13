@@ -17,16 +17,16 @@ missions:
     startups:
       - deveco
 competences:
-  - Développement Frontend
   - Développement Backend
-  - UI
-  - UX
+  - Développement Frontend
   - Développement Full-stack
   - Docker
   - ElasticSearch
   - JavaScript/TypeScript
   - Metabase
   - PostgreSQL
+  - UI
+  - UX
 link: https://www.linkedin.com/in/augustinragon/
 ---
 Développeur full-stack passionné de programmation fonctionnelle. J'aime la musique, la nature, et le fromage.

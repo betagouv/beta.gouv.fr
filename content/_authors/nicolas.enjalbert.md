@@ -21,10 +21,10 @@ missions:
       - guichet-unique-de-la-haie-envergo-agricole
 competences:
   - Coaching
-  - UX
-  - Gestion de Produit
   - Data Science
+  - Gestion de Produit
   - Product strategy
+  - UX
 previously:
   - l-application-du-cej
   - carnet.de.bord

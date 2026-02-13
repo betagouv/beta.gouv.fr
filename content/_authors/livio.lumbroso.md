@@ -33,8 +33,8 @@ badges:
   - segur
 competences:
   - Coaching
-  - Intrapreneur(se)
   - Croissance
+  - Intrapreneur(se)
   - Product strategy
 ---
 Entrepreneur entre 2 projets, particulièrement attiré par les problématiques énergie-climat et les projets à impact social et environnemental 🌳

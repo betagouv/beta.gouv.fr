@@ -19,9 +19,9 @@ missions:
 badges:
   - segur
 competences:
-  - Gestion de Produit
   - Communication
   - Croissance
-  - SEO
+  - Gestion de Produit
   - SEM
+  - SEO
 ---

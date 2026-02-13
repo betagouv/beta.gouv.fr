@@ -14,8 +14,8 @@ previously:
   - e-chauffeur
   - stargate
 competences:
-  - Coaching
-  - Développement Frontend
-  - Développement Backend
   - Administration Système
+  - Coaching
+  - Développement Backend
+  - Développement Frontend
 ---

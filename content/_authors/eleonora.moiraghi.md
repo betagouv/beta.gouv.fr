@@ -6,8 +6,6 @@ competences: []
 missions:
   - start: 2026-02-12
     end: 2026-07-31
-    employer: Ministère de la Culture
     status: admin
-    startups: []
-teams: []
+    employer: Ministère de la Culture
 ---

@@ -13,8 +13,8 @@ missions:
       - sante-psy-etudiant
 memberType: autre
 competences:
-  - Product design
   - design
+  - Product design
   - UX
 ---
 UX Designer - Ergonome

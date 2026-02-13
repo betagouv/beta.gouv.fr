@@ -11,11 +11,11 @@ missions:
       - potentiel
 link: https://fr.linkedin.com/in/violettemrqs
 competences:
+  - Communication
   - Développement Full-stack
-  - UX
+  - Docker
   - JavaScript/TypeScript
   - PostgreSQL
-  - Docker
-  - Communication
+  - UX
 ---
 Développeuse Fullstack TS | Basée sur Lyon | ⛰️⛰️⛰️

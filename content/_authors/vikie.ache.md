@@ -29,15 +29,15 @@ missions:
     startups:
       - zero-logement-vacant
 competences:
-  - Communication
-  - Gestion de Produit
-  - Facilitation
-  - Intrapreneur(se)
-  - SEO
+  - Administration Publique
   - Coaching
-  - Product strategy
+  - Communication
+  - Facilitation
+  - Gestion de Produit
+  - Intrapreneur(se)
   - Matomo
   - Metabase
-  - Administration Publique
+  - Product strategy
+  - SEO
 link: https://www.linkedin.com/in/vikie-ache-896ba1164/
 ---

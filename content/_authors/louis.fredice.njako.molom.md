@@ -4,11 +4,11 @@ role: Tech Lead Fullstack DevOps
 domaine: Développement
 link: https://www.linkedin.com/in/fr-dice/
 competences:
+  - Accessibilité
+  - Développement Backend
+  - Développement Frontend
   - Développement Full-stack
   - DevOps
-  - Développement Frontend
-  - Développement Backend
-  - Accessibilité
   - Docker
   - JavaScript/TypeScript
 missions:

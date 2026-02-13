@@ -5,8 +5,8 @@ domaine: Développement
 github: ssorin
 link: https://www.linkedin.com/in/samuel-sorin/
 competences:
-  - Développement Full-stack
   - Développement Backend
+  - Développement Full-stack
 missions:
   - start: 2024-10-28
     end: 2026-04-26

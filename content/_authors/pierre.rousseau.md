@@ -19,6 +19,6 @@ badges:
   - segur
 competences:
   - Coaching
-  - Gestion de Produit
   - Croissance
+  - Gestion de Produit
 ---

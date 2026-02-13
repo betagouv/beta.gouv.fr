@@ -4,8 +4,8 @@ role: Ingénieur MLOps / DevOps
 domaine: Développement
 competences:
   - DevOps
-  - Kubernetes
   - Docker
+  - Kubernetes
   - Python
 missions:
   - start: 2025-11-12

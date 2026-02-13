@@ -4,9 +4,9 @@ role: Intrapreneur
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/houssine-gartoum-2b598723
 competences:
-  - Intrapreneur(se)
-  - Data Science
   - Administration Publique
+  - Data Science
+  - Intrapreneur(se)
 missions:
   - start: 2024-09-12
     end: 2025-12-31

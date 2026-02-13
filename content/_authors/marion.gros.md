@@ -14,9 +14,9 @@ missions:
 badges:
   - segur
 competences:
-  - UX
   - Product design
   - Product strategy
+  - UX
 ---
 Product Manager & Designer 
 Responsable de la mission "Orienter et accompagner les usagers" 

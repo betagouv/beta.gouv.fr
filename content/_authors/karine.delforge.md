@@ -19,7 +19,7 @@ missions:
     employer: Mission InserJeunes
 competences:
   - Coaching
-  - UX
   - UI
+  - UX
 ---
 Utiliser le design comme une force de changement.

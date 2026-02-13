@@ -14,9 +14,9 @@ missions:
 badges:
   - segur
 competences:
-  - Développement Frontend
-  - Développement Backend
   - Administration Système
+  - Développement Backend
+  - Développement Frontend
   - UI
   - UX
 ---

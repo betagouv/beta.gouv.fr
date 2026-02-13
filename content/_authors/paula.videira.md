@@ -19,6 +19,6 @@ memberType: beta
 link: https://www.linkedin.com/in/paulavideira/
 competences:
   - Communication
-  - support
-  - déploiement
+  - Déploiement
+  - Support
 ---

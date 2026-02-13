@@ -18,7 +18,7 @@ missions:
     startups:
       - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
 competences:
-  - UX
-  - UI
   - Product design
+  - UI
+  - UX
 ---

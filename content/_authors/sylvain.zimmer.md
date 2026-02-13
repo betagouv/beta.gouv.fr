@@ -5,10 +5,10 @@ domaine: Développement
 github: sylvinus
 link: https://sylvainzimmer.com/
 competences:
-  - Product strategy
-  - Croissance
   - Accessibilité
   - Administration Système
+  - Coaching
+  - Croissance
   - Data Science
   - Développement Full-stack
   - DevOps
@@ -16,11 +16,11 @@ competences:
   - ElasticSearch
   - JavaScript/TypeScript
   - Machine learning
-  - Python
-  - UI
-  - Sécurité informatique
   - PostgreSQL
-  - Coaching
+  - Product strategy
+  - Python
+  - Sécurité informatique
+  - UI
 missions:
   - start: 2025-01-15
     end: 2027-01-15

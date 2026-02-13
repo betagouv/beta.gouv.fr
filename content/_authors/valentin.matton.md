@@ -14,6 +14,6 @@ badges:
   - segur
 competences:
   - Développement Backend
-  - Python
   - PostgreSQL
+  - Python
 ---

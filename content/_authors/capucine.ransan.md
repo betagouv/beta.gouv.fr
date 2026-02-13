@@ -4,8 +4,8 @@ role: Designer UX-UI junior
 domaine: Design
 link: https://www.linkedin.com/in/capucine-ransan/
 competences:
-  - UX
   - UI
+  - UX
 missions:
   - start: 2025-09-01
     end: 2027-08-27

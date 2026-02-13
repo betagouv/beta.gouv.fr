@@ -12,8 +12,8 @@ missions:
       - mon-devis-sans-oublis
 competences:
   - Coaching
-  - Croissance
   - Communication
+  - Croissance
 ---
 Entrepreneur passionné et engagé sur des sujets de durabilité.
 Coach pour des startups et grands groupes : stratégie de déploiement, process, réorganisation, sales

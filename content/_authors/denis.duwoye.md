@@ -3,11 +3,11 @@ fullname: Denis Duwoye
 role: EIG CPO
 domaine: Produit
 competences:
-  - Product strategy
-  - Facilitation
   - Coaching
   - Communication
+  - Facilitation
   - No-Code
+  - Product strategy
 missions:
   - start: 2025-02-01
     end: 2027-02-01

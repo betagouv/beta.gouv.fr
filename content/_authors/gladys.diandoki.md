@@ -16,13 +16,13 @@ badges:
   - segur
 link: https://www.linkedin.com/in/gladysdiandoki/
 competences:
-  - UX
-  - Architecture d'information
-  - OOUX
-  - Content Design
-  - Knowledge Graph
   - Accessibilité
-  - Intelligence Artificielle
+  - Architecture d'information
+  - Content Design
   - Conversation Design
+  - Intelligence Artificielle
+  - Knowledge Graph
+  - OOUX
+  - UX
 ---
 Je suis UX et Coach avec quelques expertises : Content Designer,  IA, Architecture d'info et Accessibilité.

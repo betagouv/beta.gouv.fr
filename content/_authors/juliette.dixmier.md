@@ -25,8 +25,8 @@ missions:
 badges:
   - segur
 competences:
-  - Product strategy
-  - Facilitation
   - Communication
+  - Facilitation
   - Matomo
+  - Product strategy
 ---

@@ -12,6 +12,6 @@ missions:
       - la-bonne-alternance
       - sirius
 competences:
-  - UX
   - UI
+  - UX
 ---

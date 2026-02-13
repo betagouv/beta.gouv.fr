@@ -11,8 +11,8 @@ missions:
     startups:
       - reva
 competences:
-  - UX
-  - UI
   - Gestion de Produit
+  - UI
+  - UX
 ---
 Sensible à la valeur que le Design apporte à l'entreprise.

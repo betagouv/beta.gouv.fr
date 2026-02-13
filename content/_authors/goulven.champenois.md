@@ -18,12 +18,12 @@ missions:
 link: https://pro.userland.fr/
 github: goulvench
 competences:
-  - Développement Full-stack
   - Accessibilité
-  - UI
-  - UX
+  - Développement Full-stack
   - DevOps
   - DSFR
+  - UI
+  - UX
 memberType: beta
 ---
 Développeur fullstack formé à l'accessibilité et attentif à l'ergonomie, j'aime écrire du code maintenable et améliorer l'expérience utilisateur•ice. 

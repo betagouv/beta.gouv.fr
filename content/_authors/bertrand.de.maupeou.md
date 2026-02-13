@@ -11,7 +11,7 @@ missions:
 github: bertranddm
 competences:
   - Data Science
-  - Metabase
   - Matomo
+  - Metabase
 memberType: beta
 ---

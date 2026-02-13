@@ -12,9 +12,9 @@ missions:
       - oilhi
 memberType: beta
 competences:
-  - SEO
-  - Croissance
+  - Business Developpement
   - Coaching
   - Communication
-  - BizDev
+  - Croissance
+  - SEO
 ---

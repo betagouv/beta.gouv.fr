@@ -12,8 +12,8 @@ missions:
       - ma-cantine-egalim
 memberType: beta
 competences:
-  - Product strategy
-  - figma
+  - Figma
   - Metabase
+  - Product strategy
 ---
 Product Owner

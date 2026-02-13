@@ -31,12 +31,12 @@ previously:
 link: https://www.linkedin.com/in/jehanne-dussert/
 competences:
   - Accessibilité
+  - Administration Publique
+  - Communication
   - Développement Frontend
   - Développement Full-stack
+  - Facilitation
   - JavaScript/TypeScript
   - Python
-  - Administration Publique
-  - Facilitation
-  - Communication
 ---
 Développeuse full stack, passionnée d'IA et d'accessibilité

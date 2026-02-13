@@ -13,7 +13,7 @@ missions:
       - mon-recap
 memberType: beta
 competences:
+  - Facilitation
   - Product design
   - UX
-  - Facilitation
 ---

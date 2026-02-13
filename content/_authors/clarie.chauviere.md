@@ -4,8 +4,8 @@ role: 'Product Designer '
 domaine: Design
 competences:
   - Product design
-  - UX
   - UI
+  - UX
 missions:
   - start: 2024-09-23
     end: 2026-06-30

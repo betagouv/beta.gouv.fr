@@ -14,7 +14,7 @@ missions:
 badges:
   - segur
 competences:
-  - UX
-  - UI
   - Product design
+  - UI
+  - UX
 ---

@@ -10,8 +10,8 @@ missions:
     startups:
       - snu
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 link: https://selego.co
 ---
 Développeur

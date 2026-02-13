@@ -24,6 +24,6 @@ missions:
     startups:
       - conseillers-entreprises
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---

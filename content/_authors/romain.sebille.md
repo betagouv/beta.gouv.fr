@@ -14,6 +14,6 @@ missions:
       - pilotage.de.linclusion
 competences:
   - Développement Backend
-  - Python
   - PostgreSQL
+  - Python
 ---

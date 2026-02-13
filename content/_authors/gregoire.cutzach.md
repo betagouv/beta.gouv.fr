@@ -12,10 +12,10 @@ missions:
 link: https://www.linkedin.com/in/gr%C3%A9goire-cutzach-497340148/
 github: hexaltation
 competences:
-  - Développement Backend
   - Administration Système
-  - Python
+  - Développement Backend
   - JavaScript/TypeScript
+  - Python
 memberType: beta
 ---
 Directeur technique de Grist à la DINUM

@@ -40,9 +40,9 @@ previously:
   - mobilic
 github: gaspardbetagouv
 competences:
-  - Gestion de Produit
   - Administration Publique
   - Droit / Affaires juridiques
+  - Gestion de Produit
 teams:
   - /teams/mtes
 link: https://linkedin.com/in/gaspard-granger

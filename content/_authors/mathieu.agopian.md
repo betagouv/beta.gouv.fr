@@ -36,7 +36,7 @@ missions:
     startups:
       - ami
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---
 Insatiable Curieux

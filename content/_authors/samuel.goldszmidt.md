@@ -11,9 +11,9 @@ missions:
 teams:
   - /teams/mtes
 competences:
-  - Product strategy
-  - Facilitation
   - Administration Publique
   - Coaching
+  - Facilitation
+  - Product strategy
 ---
 Essaie encore une fois

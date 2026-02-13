@@ -11,10 +11,10 @@ missions:
       - envergo
       - guichet-unique-de-la-haie-envergo-agricole
 competences:
-  - Product strategy
-  - Product design
-  - UX
-  - UI
   - Coaching
+  - Product design
+  - Product strategy
+  - UI
+  - UX
 memberType: beta
 ---

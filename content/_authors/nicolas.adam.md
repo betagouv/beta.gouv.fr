@@ -10,8 +10,8 @@ missions:
     startups:
       - transport
 competences:
-  - Product strategy
-  - Facilitation
   - Coaching
+  - Facilitation
+  - Product strategy
 memberType: beta
 ---

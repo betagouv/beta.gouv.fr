@@ -14,9 +14,9 @@ missions:
 badges:
   - segur
 competences:
-  - DevOps
-  - Développement Full-stack
   - Accessibilité
+  - Développement Full-stack
+  - DevOps
   - Matomo
   - UI
   - UX

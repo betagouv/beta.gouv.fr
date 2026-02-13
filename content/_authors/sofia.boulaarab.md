@@ -27,8 +27,8 @@ missions:
     startups:
       - api-and-communs-numeriques-de-la-cour-de-cassation
 competences:
-  - UX
-  - UI
-  - Product design
   - Architecture d'information
+  - Product design
+  - UI
+  - UX
 ---

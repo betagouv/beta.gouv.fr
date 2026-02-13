@@ -3,8 +3,8 @@ fullname: Stéphane Guillin
 role: Intrapreneur
 domaine: Intraprenariat
 competences:
-  - Intrapreneur(se)
   - Data Science
+  - Intrapreneur(se)
 missions:
   - start: 2025-06-25
     end: 2026-07-31

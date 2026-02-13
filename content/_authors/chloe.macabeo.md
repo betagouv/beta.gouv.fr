@@ -19,10 +19,10 @@ previously:
   - recosante
 link: https://www.linkedin.com/in/chloemacabeo/
 competences:
-  - Facilitation
+  - Coaching
   - Croissance
+  - Facilitation
+  - Matomo
   - Product strategy
   - SEO
-  - Matomo
-  - Coaching
 ---

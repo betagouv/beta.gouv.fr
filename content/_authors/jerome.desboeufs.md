@@ -67,11 +67,11 @@ missions:
     startups:
       - sain-eau
 competences:
+  - Coaching
   - Croissance
-  - Product strategy
+  - Data Engineering
   - Développement Backend
   - JavaScript/TypeScript
-  - Coaching
-  - Data engineering
+  - Product strategy
 ---
 Repenser l'administration avec le numérique pour améliorer le service public

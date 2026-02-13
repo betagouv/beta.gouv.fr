@@ -17,9 +17,9 @@ missions:
       - france-numerique-ensemble
 competences:
   - Administration Publique
+  - Communication
   - Intrapreneur(se)
   - Product strategy
-  - Communication
 teams:
   - /teams/anct
 ---

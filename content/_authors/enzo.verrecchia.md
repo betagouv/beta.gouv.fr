@@ -3,12 +3,12 @@ fullname: Enzo Verrecchia
 role: Data Engineer à A Just
 domaine: Data
 competences:
+  - Administration Publique
   - Data Science
-  - Metabase
   - Docker
+  - Metabase
   - PostgreSQL
   - Python
-  - Administration Publique
 missions:
   - start: 2025-09-15
     end: 2026-03-15

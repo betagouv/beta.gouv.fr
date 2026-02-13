@@ -35,11 +35,11 @@ missions:
     startups:
       - mesads
 competences:
-  - UX
+  - Accessibilité
   - Facilitation
   - Product design
-  - Accessibilité
   - UI
+  - UX
 github: AliceGourbat
 ---
 UX/UI designer • Product designer 

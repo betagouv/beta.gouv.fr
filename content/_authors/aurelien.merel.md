@@ -18,10 +18,10 @@ previously:
 competences:
   - Administration Système
   - DevOps
-  - Sécurité informatique
   - ElasticSearch
-  - PostgreSQL
   - Metabase
+  - PostgreSQL
   - Python
   - Ruby
+  - Sécurité informatique
 ---

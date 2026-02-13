@@ -14,8 +14,8 @@ missions:
 previously:
   - eva
 competences:
-  - Product design
   - Design graphique
+  - Product design
   - UI
 ---
 designer multidisciplinaire, photographe & illustrateur

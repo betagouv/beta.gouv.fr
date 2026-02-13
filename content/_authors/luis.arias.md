@@ -13,15 +13,15 @@ missions:
 link: https://www.linkedin.com/in/luisarias/
 github: kaaloo
 competences:
-  - Product strategy
   - Data Science
   - Développement Full-stack
+  - DevOps
   - ElasticSearch
   - JavaScript/TypeScript
-  - DevOps
   - Machine learning
   - PHP
   - PostgreSQL
+  - Product strategy
   - Python
 memberType: beta
 teams:

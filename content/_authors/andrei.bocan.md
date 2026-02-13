@@ -23,8 +23,8 @@ missions:
     startups:
       - pilotage.de.linclusion
 competences:
+  - Facilitation
   - Product design
   - UX
-  - Facilitation
 ---
 UX / Product Designer

@@ -5,10 +5,10 @@ domaine: Data
 link: https://valentinvieux.my.canva.site/
 competences:
   - Data Science
-  - Machine learning
-  - Docker
-  - Python
   - Développement Backend
+  - Docker
+  - Machine learning
+  - Python
 missions:
   - start: 2025-07-11
     end: 2026-05-02

@@ -12,11 +12,11 @@ missions:
       - 1-eleve-1-stage
       - monstage
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
+  - Product design
   - Ruby
   - UI
-  - Product design
 previously:
   - monstage
 ---

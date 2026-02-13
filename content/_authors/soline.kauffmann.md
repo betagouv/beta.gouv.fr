@@ -3,9 +3,9 @@ fullname: Soline Kauffmann
 role: 'Déploiement telereleve '
 domaine: Déploiement
 competences:
-  - Intrapreneur(se)
-  - Croissance
   - Coaching
+  - Croissance
+  - Intrapreneur(se)
   - Product strategy
 missions:
   - start: 2025-09-02

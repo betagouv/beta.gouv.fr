@@ -10,8 +10,8 @@ missions:
     employer: Numéricité
 memberType: autre
 competences:
-  - Droit / Affaires juridiques
   - Administration Publique
   - Coaching
+  - Droit / Affaires juridiques
 ---
 Coach conformité Numéricité

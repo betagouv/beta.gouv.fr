@@ -10,11 +10,11 @@ missions:
     startups:
       - data-inclusion
 competences:
-  - PHP
   - Développement Backend
-  - Python
-  - ElasticSearch
   - DevOps
+  - ElasticSearch
+  - PHP
+  - Python
 memberType: beta
 link: https://www.linkedin.com/in/hugo-lecuyer-67841a8a/
 github: hlecuyer

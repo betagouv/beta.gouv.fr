@@ -3,8 +3,8 @@ fullname: Noélie EGROT
 role: Opératrice à DossierFacile
 domaine: Autre
 competences:
-  - Droit / Affaires juridiques
   - Administration Publique
+  - Droit / Affaires juridiques
 missions:
   - start: 2025-06-12
     end: 2026-06-30

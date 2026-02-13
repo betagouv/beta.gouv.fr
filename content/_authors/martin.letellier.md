@@ -6,8 +6,8 @@ link: https://www.linkedin.com/in/martin-letellier/
 competences:
   - Intrapreneur(se)
   - Product strategy
-  - UX
   - SEO
+  - UX
 missions:
   - start: 2024-09-01
     end: 2026-08-31

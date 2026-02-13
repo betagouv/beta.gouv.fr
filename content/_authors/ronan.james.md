@@ -17,7 +17,7 @@ previously:
 badges:
   - segur
 competences:
-  - Communication
   - Administration Publique
+  - Communication
 ---
 Acteur de terrain et d'innovation publique, animé par l'envie d'Innover & Servir - Go Carnet de bord !

@@ -26,7 +26,7 @@ previously:
 badges:
   - segur
 competences:
-  - Gestion de Produit
   - Croissance
+  - Gestion de Produit
 ---
 @Plateforme de l'inclusion

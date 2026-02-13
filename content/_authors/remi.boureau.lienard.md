@@ -4,16 +4,16 @@ role: 'Responsable informatique '
 domaine: Intraprenariat
 link: https://fr.linkedin.com/in/r%C3%A9mi-boureau-li%C3%A9nard
 competences:
+  - Accessibilité
+  - Administration Publique
+  - Administration Système
+  - Droit / Affaires juridiques
   - Facilitation
   - Product design
-  - UX
   - Product strategy
-  - Droit / Affaires juridiques
-  - Administration Publique
-  - UI
-  - Accessibilité
   - Sécurité informatique
-  - Administration Système
+  - UI
+  - UX
 missions:
   - start: 2024-09-16
     end: 2027-08-31

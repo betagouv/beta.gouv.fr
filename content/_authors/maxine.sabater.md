@@ -17,8 +17,8 @@ previously:
 badges:
   - segur
 competences:
+  - Administration Publique
   - Communication
   - Croissance
-  - Administration Publique
 link: https://www.linkedin.com/in/maxine-sabater-64333bb0/
 ---

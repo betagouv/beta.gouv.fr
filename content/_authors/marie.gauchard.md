@@ -4,9 +4,9 @@ role: UX designer senior au Pôle citoyen (ADEME)
 domaine: Design
 link: https://www.linkedin.com/in/marie-gauchard/
 competences:
-  - UX
   - Facilitation
   - Product design
+  - UX
 missions:
   - start: 2025-11-17
     end: 2026-05-17

@@ -30,8 +30,8 @@ missions:
 memberType: beta
 competences:
   - Product design
-  - UX
   - UI
+  - UX
 link: https://www.linkedin.com/in/florent-lienard/
 ---
 UX/UI Designer

@@ -11,7 +11,7 @@ missions:
     startups:
       - snu
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---
 Développeur et bricoleur, ou peut-être l'inverse !

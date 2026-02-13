@@ -25,11 +25,11 @@ badges:
   - segur
 link: https://www.linkedin.com/in/sarah-h%C3%A9vin-43a73a14b/
 competences:
+  - Facilitation
   - Product design
   - UX
-  - Facilitation
-  - UX writing
-  - UXresearch
+  - UX Research
+  - UX Writing
 teams:
   - /teams/accelerema-animation
 ---

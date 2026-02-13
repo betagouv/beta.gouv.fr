@@ -27,10 +27,10 @@ missions:
     employer: Dynergie
 memberType: beta
 competences:
+  - Coaching
   - Product design
   - Product strategy
   - UX
-  - Coaching
 link: https://www.linkedin.com/in/arthur-klein/
 ---
 Designer et coach

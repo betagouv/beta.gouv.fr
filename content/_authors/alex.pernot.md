@@ -6,8 +6,8 @@ github: AlexPernot
 link: https://www.linkedin.com/in/alex-pernot/
 competences:
   - Développement Full-stack
-  - JavaScript/TypeScript
   - Docker
+  - JavaScript/TypeScript
   - PostgreSQL
 missions:
   - start: 2025-10-14

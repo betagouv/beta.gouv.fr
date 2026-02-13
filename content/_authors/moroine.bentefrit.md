@@ -24,9 +24,9 @@ missions:
 memberType: beta
 competences:
   - Administration Système
-  - JavaScript/TypeScript
-  - DevOps
-  - Sécurité informatique
   - Développement Full-stack
+  - DevOps
+  - JavaScript/TypeScript
+  - Sécurité informatique
 link: https://www.linkedin.com/in/moroine/
 ---

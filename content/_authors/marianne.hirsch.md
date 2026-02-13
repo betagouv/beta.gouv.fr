@@ -18,10 +18,10 @@ missions:
     startups:
       - datalma
 competences:
-  - Product design
   - Gestion de Produit
+  - Product design
   - Product strategy
-  - UX
   - UI
+  - UX
 ---
 🌻

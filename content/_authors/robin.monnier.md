@@ -5,12 +5,12 @@ domaine: Développement
 github: rmonnier9
 link: https://www.linkedin.com/in/rmonnier9/
 competences:
-  - Développement Full-stack
   - Développement Backend
-  - JavaScript/TypeScript
-  - Python
-  - PostgreSQL
   - Développement Frontend
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - PostgreSQL
+  - Python
 missions:
   - start: 2024-09-30
     end: 2025-09-30

@@ -11,8 +11,8 @@ missions:
       - investigation.d.un.pole.de.competences.numerique
 link: https://fr.linkedin.com/in/st%C3%A9phanie-dubois-a51398190
 competences:
-  - Intrapreneur(se)
   - Administration Publique
+  - Intrapreneur(se)
 ---
 Cheffe du pôle mobilité et parcours 
 Département RH de la filière numérique de l'Etat 

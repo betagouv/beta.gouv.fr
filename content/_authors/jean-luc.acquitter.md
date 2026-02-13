@@ -4,9 +4,9 @@ role: Chargé de déploiement BAN
 domaine: Déploiement
 link: https://www.linkedin.com/in/jean-luc-acquitter-ign/
 competences:
-  - Facilitation
-  - Communication
   - Administration Publique
+  - Communication
+  - Facilitation
 missions:
   - start: 2025-10-01
     end: 2027-01-04

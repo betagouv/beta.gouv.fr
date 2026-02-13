@@ -24,16 +24,16 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/marinebourjac/
 competences:
-  - growth marketing
-  - marketing relationnel
-  - marketing digital
-  - growth hacking
-  - business development
-  - stratégie marketing
-  - emailing
+  - Business Developpement
   - Communication
+  - emailing
+  - growth hacking
+  - growth marketing
+  - marketing digital
+  - marketing relationnel
+  - partenariats
   - SEO
   - stratégie communication
-  - partenariats
+  - stratégie marketing
 ---
 Spécialiste marketing et communication basée à Bordeaux

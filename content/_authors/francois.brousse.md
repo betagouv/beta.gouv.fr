@@ -12,9 +12,9 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/francois-brousse/
 competences:
-  - UX
-  - Product design
   - Accessibilité
+  - Product design
   - UI
+  - UX
 ---
 Designer UX

@@ -31,16 +31,16 @@ previously:
   - cartobio
   - data.gouv.fr
 competences:
-  - JavaScript/TypeScript
   - Accessibilité
+  - Communication
   - Développement Full-stack
   - DevOps
-  - Matomo
   - Docker
   - ElasticSearch
+  - JavaScript/TypeScript
+  - Matomo
+  - Metabase
   - PostgreSQL
   - UI
-  - Metabase
-  - Communication
 ---
 Vivre un futur désirable.

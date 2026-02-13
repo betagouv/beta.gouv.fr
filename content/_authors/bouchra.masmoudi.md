@@ -5,7 +5,7 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2025-07-02
-    end: 2026-03-12
+    end: 2026-06-30
     status: admin
     employer: La Ruche numérique
     startups:

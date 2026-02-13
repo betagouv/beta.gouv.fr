@@ -39,9 +39,9 @@ previously:
   - e-mjpm
   - carnet.de.bord
 competences:
-  - Product strategy
   - Coaching
   - Développement Full-stack
+  - Product strategy
 link: https://www.linkedin.com/in/thomas-glatt-586bb56
 ---
 Faire avancer les projets qui ont du sens - Accompagner les équipes

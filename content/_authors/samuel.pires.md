@@ -13,10 +13,10 @@ missions:
       - archifiltre
 memberType: beta
 competences:
-  - Product strategy
   - Coaching
-  - Product design
   - Croissance
   - Intrapreneur(se)
+  - Product design
+  - Product strategy
 ---
 Product manager

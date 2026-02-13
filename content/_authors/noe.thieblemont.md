@@ -4,8 +4,8 @@ role: Business developer et chargé de support à La Suite territoriale
 domaine: Support
 link: https://www.linkedin.com/in/no%C3%A9-thi%C3%A9blemont-236b75185/
 competences:
-  - Communication
   - Administration Publique
+  - Communication
   - Croissance
   - Support
 missions:

@@ -31,12 +31,12 @@ missions:
     startups:
       - data-inclusion
 competences:
-  - Gestion de Produit
-  - Communication
   - Administration Publique
+  - Communication
+  - Facilitation
+  - Gestion de Produit
   - Intrapreneur(se)
   - Product strategy
-  - Facilitation
 link: https://www.linkedin.com/in/agathe-latreille/
 ---
 Tech enthousiaste, je m'exprime principalement en Gif et en Meme. Portée par la collaboration, la solidarité et la bienveillance.

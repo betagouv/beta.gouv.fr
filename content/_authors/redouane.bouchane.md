@@ -11,8 +11,8 @@ missions:
     startups:
       - demarches-simplifiees.fr
 competences:
-  - Croissance
   - Administration Publique
+  - Croissance
 previously:
   - aplus
 ---

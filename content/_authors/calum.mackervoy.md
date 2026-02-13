@@ -16,9 +16,9 @@ github: calummackervoy
 competences:
   - Développement Backend
   - Développement Full-stack
-  - Python
-  - PostgreSQL
   - JavaScript/TypeScript
+  - PostgreSQL
+  - Python
 memberType: beta
 ---
 Développeur Full-Stack - Django/Python avec JavaScript. Passionné par les logiciels libres et les coopératives, le web sémantique, la création des jeux vidéo en Godot et les jeux de société.

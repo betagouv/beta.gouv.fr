@@ -21,10 +21,10 @@ competences:
   - Développement Backend
   - Développement Frontend
   - Développement Full-stack
-  - JavaScript/TypeScript
   - Elm
-  - ReScript
+  - Flutter
+  - JavaScript/TypeScript
   - OCaml
   - Publicodes
-  - Flutter
+  - ReScript
 ---

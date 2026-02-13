@@ -32,7 +32,7 @@ missions:
       - recommandations-collaboratives
       - urbanvitaliz
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---
 Développeur Python / Django

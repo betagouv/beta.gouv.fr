@@ -27,11 +27,11 @@ previously:
   - mes-evenements-emploi
   - mobiville
 competences:
-  - UX
-  - UI
-  - Research
   - Facilitation
   - Product strategy
+  - Research
+  - UI
+  - UX
 ---
 Product Designer engagée, je crois au pouvoir du design pour transformer les organisations et créer des services utile utilisable et utilisé.
 Expertise en Product Discovery, UX Strategy, Product Design et Design Ops.

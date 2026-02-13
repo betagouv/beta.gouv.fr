@@ -27,7 +27,7 @@ missions:
 badges:
   - segur
 competences:
-  - Gestion de Produit
   - Coaching
+  - Gestion de Produit
 ---
 💚 Créer des produits numériques, apporter plus de valeur aux utilisateurs et augmenter leur impact 🌳

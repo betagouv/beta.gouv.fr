@@ -21,8 +21,8 @@ previously:
 teams:
   - /teams/mtes
 competences:
+  - Administration Système
   - Développement Full-stack
   - DevOps
   - Sécurité informatique
-  - Administration Système
 ---

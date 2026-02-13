@@ -56,9 +56,9 @@ missions:
       - ecobalyse
 competences:
   - Développement Full-stack
-  - Elm
-  - Python
   - Django
+  - Elm
   - JavaScript/TypeScript
+  - Python
 ---
 En quête de sens numérique

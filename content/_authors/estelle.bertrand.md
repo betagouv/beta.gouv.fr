@@ -5,9 +5,9 @@ domaine: Data
 link: https://www.linkedin.com/in/estellebertrand-data-analytics
 competences:
   - Data Science
-  - Python
-  - PostgreSQL
   - Machine learning
+  - PostgreSQL
+  - Python
 missions:
   - start: 2025-06-10
     end: 2026-05-31

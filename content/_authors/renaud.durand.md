@@ -5,11 +5,11 @@ domaine: Animation
 github: neraun
 link: https://www.linkedin.com/in/renauddurand/
 competences:
-  - Sécurité informatique
-  - Ruby
+  - Développement Backend
   - PHP
   - Python
-  - Développement Backend
+  - Ruby
+  - Sécurité informatique
 missions:
   - start: 2025-08-26
     end: 2026-06-30

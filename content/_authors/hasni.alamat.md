@@ -12,6 +12,6 @@ missions:
       - euphrosyne
       - locadocs
 competences:
-  - UX
   - UI
+  - UX
 ---

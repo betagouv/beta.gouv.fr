@@ -20,10 +20,10 @@ missions:
     startups:
       - lannuaire.des.collectivites
 competences:
-  - UX
   - Coaching
-  - UI
   - Product design
+  - UI
+  - UX
 previously:
   - lannuaire.des.collectivites
   - mistral-penal

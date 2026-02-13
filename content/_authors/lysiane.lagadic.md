@@ -17,11 +17,11 @@ missions:
       - lannuaire.des.collectivites
 link: https://www.linkedin.com/in/lysiane-lagadic-56254ba8/
 competences:
-  - Product design
   - Coaching
   - Facilitation
+  - Product design
   - Product strategy
-  - UX
   - UI
+  - UX
 memberType: beta
 ---

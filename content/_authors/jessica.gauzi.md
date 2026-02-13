@@ -12,7 +12,7 @@ missions:
     employer: LaZone/Pathtech (ADEME)
 link: https://www.linkedin.com/in/jessicagauzi/
 competences:
-  - Croissance
   - Communication
+  - Croissance
 memberType: beta
 ---

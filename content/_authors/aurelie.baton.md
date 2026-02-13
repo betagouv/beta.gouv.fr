@@ -11,7 +11,7 @@ missions:
       - dialogue
 link: https://www.linkedin.com/in/aureliebaton/
 competences:
-  - UX
   - UI
+  - UX
 ---
 UX designer, spécialisée écoconception

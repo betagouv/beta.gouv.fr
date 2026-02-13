@@ -4,13 +4,13 @@ role: CPO EIG
 domaine: Produit
 competences:
   - Croissance
-  - Product design
-  - Product strategy
-  - UX
   - Data Science
   - Développement Frontend
   - Machine learning
   - PostgreSQL
+  - Product design
+  - Product strategy
+  - UX
 missions:
   - start: 2025-09-01
     end: 2026-08-31

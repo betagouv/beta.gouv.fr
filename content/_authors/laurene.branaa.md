@@ -21,8 +21,8 @@ previously:
   - nosgestesclimat
 memberType: beta
 competences:
-  - Product strategy
   - Facilitation
   - Matomo
+  - Product strategy
 link: https://www.linkedin.com/in/laurene-branaa/
 ---

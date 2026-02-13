@@ -20,6 +20,6 @@ missions:
     startups:
       - impact.co2
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---

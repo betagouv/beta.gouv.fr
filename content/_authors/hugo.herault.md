@@ -10,6 +10,6 @@ missions:
       - competence.validee
 previously: []
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---

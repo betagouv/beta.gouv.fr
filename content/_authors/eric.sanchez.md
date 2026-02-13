@@ -8,9 +8,9 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
   - Machine learning
+  - Python
   - UI
   - UX
-  - Python
 missions:
   - start: 2024-08-26
     end: 2025-07-31

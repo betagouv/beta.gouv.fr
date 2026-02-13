@@ -17,9 +17,9 @@ missions:
       - potentiel
 link: https://www.linkedin.com/in/%F0%9F%8C%8D-louis-pinot-de-villechenon-914a525b/
 competences:
+  - Coaching
   - Facilitation
   - Product design
   - Product strategy
-  - Coaching
 memberType: beta
 ---

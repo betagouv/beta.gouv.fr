@@ -3,9 +3,9 @@ fullname: François Petitit
 role: Architecte/Manager Services Publics chez OCTO Technology
 domaine: Développement
 competences:
-  - Développement Full-stack
   - Développement Backend
   - Développement Frontend
+  - Développement Full-stack
   - JavaScript/TypeScript
   - PostgreSQL
   - Python

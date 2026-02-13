@@ -3,8 +3,8 @@ fullname: Théo Sentis
 role: Product Manager TerriStory
 domaine: Produit
 competences:
-  - Product strategy
   - Croissance
+  - Product strategy
 missions:
   - start: 2025-07-15
     end: 2026-01-18

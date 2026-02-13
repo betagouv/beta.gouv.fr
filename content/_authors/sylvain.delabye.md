@@ -13,6 +13,6 @@ missions:
 memberType: beta
 competences:
   - Développement Full-stack
-  - Python
   - JavaScript/TypeScript
+  - Python
 ---

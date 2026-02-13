@@ -10,11 +10,11 @@ missions:
     startups:
       - reva
 competences:
-  - Développement Full-stack
   - Administration Système
   - Développement
   - Développement Backend
   - Développement Frontend
+  - Développement Full-stack
   - DevOps
   - Sécurité informatique
 memberType: beta

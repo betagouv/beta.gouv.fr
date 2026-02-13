@@ -23,9 +23,9 @@ missions:
     startups:
       - vigieau
 competences:
-  - UX
-  - UI
   - Coaching
+  - UI
+  - UX
 previously:
   - dossierfacile
   - vigieau

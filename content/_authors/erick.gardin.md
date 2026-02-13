@@ -5,8 +5,8 @@ domaine: Développement
 github: newick
 link: https://entre-quote.com
 competences:
-  - Développement Frontend
   - Accessibilité
+  - Développement Frontend
 missions:
   - start: 2025-03-05
     end: 2026-05-01

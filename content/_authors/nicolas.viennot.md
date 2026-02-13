@@ -18,8 +18,8 @@ missions:
     startups:
       - diag-mob
 competences:
-  - Product strategy
   - Coaching
   - Croissance
+  - Product strategy
 ---
 Passionné par les algues, les sujets d’impact et les enjeux de transition écologique, mes expertises sont le management de produit, la recherche d'impact et l'accompagnement de startup.

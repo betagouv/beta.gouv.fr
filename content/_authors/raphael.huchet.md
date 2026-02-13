@@ -30,6 +30,6 @@ missions:
       - monsuivipsy
 incubator: sgmas
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---

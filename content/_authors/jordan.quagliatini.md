@@ -5,10 +5,10 @@ domaine: Développement
 github: jquagliatini
 link: https://linkedin.com/in/jordan-quagliatini
 competences:
-  - JavaScript/TypeScript
-  - Python
-  - PostgreSQL
   - Développement Full-stack
+  - JavaScript/TypeScript
+  - PostgreSQL
+  - Python
 missions:
   - start: 2025-10-07
     end: 2026-04-07

@@ -3,9 +3,9 @@ fullname: Anne-Karen LOGERAIS
 role: Intrapreneuse JuriGPT / cadre juridique (Ministère de l'intérieur, DSR)
 domaine: Intraprenariat
 competences:
-  - Intrapreneur(se)
   - Administration Publique
   - Droit / Affaires juridiques
+  - Intrapreneur(se)
   - Product strategy
 missions:
   - start: 2023-11-20

@@ -21,10 +21,10 @@ memberType: beta
 previously:
   - tdb-apprentissage
 competences:
-  - Metabase
+  - Analyse de données
   - Dataviz
+  - Metabase
+  - PostgreSQL
   - SQL
   - Tableaux de bord
-  - PostgreSQL
-  - Analyse de données
 ---

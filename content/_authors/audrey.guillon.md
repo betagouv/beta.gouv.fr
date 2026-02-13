@@ -35,7 +35,7 @@ badges:
   - segur
 competences:
   - Administration Publique
+  - Coaching
   - Communication
   - Croissance
-  - Coaching
 ---

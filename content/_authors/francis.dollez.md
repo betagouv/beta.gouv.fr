@@ -5,8 +5,8 @@ domaine: Design
 link: https://www.linkedin.com/in/francis-dollez-productdesign/
 competences:
   - Product design
-  - UX
   - UI
+  - UX
 missions:
   - start: 2025-04-16
     end: 2025-12-31

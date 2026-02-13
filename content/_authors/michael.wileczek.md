@@ -24,9 +24,9 @@ previously:
   - inclusion.connect
 link: https://fr.linkedin.com/in/mwik
 competences:
-  - Sécurité informatique
   - Administration Système
   - Facilitation
   - Product strategy
+  - Sécurité informatique
 ---
 Consultant cybersécurité depuis 1998, fan de concerts indie et de voyages

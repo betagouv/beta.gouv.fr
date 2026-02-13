@@ -13,9 +13,9 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/charlesdufour
 competences:
-  - Développement Full-stack
-  - JavaScript/TypeScript
   - Développement Backend
+  - Développement Full-stack
   - ElasticSearch
+  - JavaScript/TypeScript
 ---
 Développeur et grimpeur du dimanche

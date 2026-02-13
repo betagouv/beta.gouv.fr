@@ -11,7 +11,7 @@ missions:
       - refugies.info
 memberType: beta
 competences:
-  - Rédaction
   - Journalisme
   - Langage clair
+  - Rédaction
 ---

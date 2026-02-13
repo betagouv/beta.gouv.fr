@@ -10,9 +10,9 @@ missions:
     startups:
       - chauffage-urbain
 competences:
-  - SEM
-  - SEO
   - Google Ads
   - SEA
+  - SEM
+  - SEO
 memberType: beta
 ---

@@ -16,10 +16,10 @@ memberType: beta
 competences:
   - data analyst
   - Data Science
-  - Metabase
-  - PHP
   - Docker
   - JavaScript/TypeScript
+  - Metabase
+  - PHP
   - PostgreSQL
   - Python
   - R

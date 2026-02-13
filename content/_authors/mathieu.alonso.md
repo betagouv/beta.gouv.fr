@@ -25,10 +25,10 @@ missions:
       - suite.territoriale
 incubator: anct
 competences:
-  - Gestion de Produit
-  - Product strategy
   - Coaching
   - Communication
+  - Gestion de Produit
+  - Product strategy
 memberType: autre
 ---
 Lead Product Manager basé à Bordeaux

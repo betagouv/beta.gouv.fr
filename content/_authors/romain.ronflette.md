@@ -19,10 +19,10 @@ missions:
 badges:
   - segur
 competences:
-  - UX
+  - Coaching
+  - Facilitation
   - Product design
   - Product strategy
   - UI
-  - Facilitation
-  - Coaching
+  - UX
 ---

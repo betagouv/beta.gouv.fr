@@ -38,8 +38,8 @@ missions:
 badges:
   - segur
 competences:
-  - Gestion de Produit
   - Communication
+  - Gestion de Produit
   - Intrapreneur(se)
   - Product strategy
 ---

@@ -14,9 +14,9 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/raywanserdoun/
 competences:
-  - Grist
-  - No-code
   - Croissance
-  - Product strategy
+  - Grist
   - IA
+  - No-Code
+  - Product strategy
 ---

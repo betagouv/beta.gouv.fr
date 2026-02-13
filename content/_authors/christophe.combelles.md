@@ -13,15 +13,15 @@ missions:
       - ecobalyse
 memberType: beta
 competences:
-  - Développement Full-stack
-  - Python
-  - Matomo
-  - Docker
-  - DevOps
-  - Machine learning
-  - PostgreSQL
-  - Administration Système
-  - Elm
   - ACV
+  - Administration Système
+  - Développement Full-stack
+  - DevOps
+  - Docker
+  - Elm
+  - Machine learning
+  - Matomo
+  - PostgreSQL
+  - Python
 ---
 ingénieur logiciel et cloud spécialisé Open-Source, Cloud, Analyse du Cycle de Vie (ACV) et logiciels de gestion (ERP/PGI)

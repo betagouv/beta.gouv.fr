@@ -22,8 +22,8 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/lbrotel/
 competences:
+  - Facilitation
   - Product design
   - Product strategy
   - UX
-  - Facilitation
 ---

@@ -25,9 +25,9 @@ missions:
 badges:
   - segur
 competences:
-  - Communication
-  - Administration Système
-  - Croissance
   - Administration Publique
+  - Administration Système
+  - Communication
+  - Croissance
 link: https://www.linkedin.com/in/sozek/
 ---

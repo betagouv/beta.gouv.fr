@@ -10,7 +10,7 @@ missions:
     startups:
       - territoires-en-transitions
 competences:
-  - Communication
   - Administration Publique
+  - Communication
   - Croissance
 ---

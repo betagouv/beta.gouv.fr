@@ -9,12 +9,12 @@ missions:
     startups:
       - vapp
 competences:
-  - Intrapreneur(se)
-  - Développement
-  - Développement Frontend
-  - Développement Backend
-  - Développement Full-stack
   - Administration Publique
+  - Développement
+  - Développement Backend
+  - Développement Frontend
+  - Développement Full-stack
+  - Intrapreneur(se)
 memberType: beta
 github: Acrend
 ---

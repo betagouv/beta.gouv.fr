@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Numa
 competences:
-  - UX
   - Coaching
+  - UX
 ---
 À l'ombre des palmiers pour travailler !

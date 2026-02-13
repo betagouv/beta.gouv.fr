@@ -42,11 +42,11 @@ missions:
     startups:
       - base-de-donnees-plan-d-appro-biomasse
 competences:
-  - Gestion de Produit
-  - UX
   - Accessibilité
-  - Product strategy
   - Coaching
+  - Gestion de Produit
+  - Product strategy
+  - UX
 link: https://www.linkedin.com/in/celine-le-ru/
 ---
 Ma boite à outils est dispo sur Figjam : https://www.figma.com/@celine_leru

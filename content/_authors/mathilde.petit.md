@@ -30,8 +30,8 @@ missions:
       - seves
 competences:
   - Coaching
+  - Communication
   - Croissance
   - Product strategy
   - UX
-  - Communication
 ---

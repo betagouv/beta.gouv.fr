@@ -46,10 +46,10 @@ missions:
     startups:
       - brav-eau
 competences:
-  - Développement Frontend
   - Développement Backend
-  - Gestion de Produit
+  - Développement Frontend
   - Développement Full-stack
+  - Gestion de Produit
   - Python
 ---
 Portage des équipes pour l'Incubateur des Territoires (ANCT), développeur, animateur de tiers-lieu en zone rurale.

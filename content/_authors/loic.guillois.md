@@ -49,10 +49,10 @@ missions:
 badges:
   - segur
 competences:
-  - Développement Frontend
-  - Développement Backend
-  - Machine learning
   - Data Science
+  - Développement Backend
+  - Développement Frontend
+  - Machine learning
 link: https://www.linkedin.com/in/loicguillois
 ---
 Développeur Web, ingénieur IA & Machine Learning

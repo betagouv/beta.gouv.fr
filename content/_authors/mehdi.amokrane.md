@@ -5,10 +5,10 @@ domaine: Développement
 github: Daikozi
 link: https://www.linkedin.com/in/amokrane/
 competences:
-  - Développement Frontend
   - Accessibilité
-  - SEO
+  - Développement Frontend
   - JavaScript/TypeScript
+  - SEO
 missions:
   - start: 2024-10-14
     end: 2026-06-30

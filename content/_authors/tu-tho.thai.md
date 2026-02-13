@@ -5,12 +5,12 @@ domaine: Coaching
 github: TuThoThai
 link: https://www.linkedin.com/in/tuthothai/
 competences:
-  - Facilitation
-  - Croissance
-  - Product strategy
+  - Accessibilité
   - Coaching
   - Communication
-  - Accessibilité
+  - Croissance
+  - Facilitation
+  - Product strategy
 missions:
   - start: 2024-10-22
     end: 2026-06-30

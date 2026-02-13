@@ -14,7 +14,7 @@ missions:
 competences:
   - Accessibilité
   - Développement Frontend
-  - UI
   - Python
+  - UI
 ---
 Intégrateur web, développeur ui et front-end pour la plateforme de l'inclusion

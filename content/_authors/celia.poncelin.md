@@ -4,8 +4,8 @@ role: Chargée de communication
 domaine: Déploiement
 link: https://www.linkedin.com/in/celiaponcelin/
 competences:
-  - Croissance
   - Communication
+  - Croissance
   - SEO
 missions:
   - start: 2025-03-26

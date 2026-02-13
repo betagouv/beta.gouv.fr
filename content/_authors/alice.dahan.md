@@ -5,9 +5,9 @@ domaine: Développement
 github: liliced
 link: https://www.linkedin.com/in/alicedahan/
 competences:
-  - Développement Full-stack
   - Développement Backend
   - Développement Frontend
+  - Développement Full-stack
 missions:
   - start: 2024-07-15
     end: 2026-04-14

@@ -13,7 +13,7 @@ missions:
       - benefriches
 memberType: beta
 competences:
-  - Développement Full-stack
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
+  - Développement Full-stack
 ---

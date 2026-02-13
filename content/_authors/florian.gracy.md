@@ -14,7 +14,7 @@ previously:
 badges:
   - segur
 competences:
-  - UX
   - UI
+  - UX
 ---
 Designer d'interface, UX, principalement pour des supports web

@@ -3,13 +3,13 @@ fullname: Victor Soussan
 role: Lead Product Designer à France VAE
 domaine: Design
 competences:
-  - Product design
-  - UX
-  - Product strategy
-  - Intrapreneur(se)
-  - Facilitation
-  - UI
   - Communication
+  - Facilitation
+  - Intrapreneur(se)
+  - Product design
+  - Product strategy
+  - UI
+  - UX
 missions:
   - start: 2024-11-04
     end: 2026-03-31

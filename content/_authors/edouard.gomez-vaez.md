@@ -5,8 +5,8 @@ domaine: Produit
 github: edouard-gv
 link: https://www.linkedin.com/in/edouardgomezvaez/
 competences:
-  - Facilitation
   - Développement Backend
+  - Facilitation
 missions:
   - start: 2025-07-15
     end: 2026-05-29

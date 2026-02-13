@@ -12,7 +12,7 @@ missions:
       - octopus
       - stargate
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---
 Dev @LaFabriqueNumérique entre autres choses

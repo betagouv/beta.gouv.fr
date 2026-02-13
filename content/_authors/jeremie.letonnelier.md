@@ -4,10 +4,10 @@ role: Data Engineer @ Incubateur du MENJ
 domaine: Développement
 link: https://www.linkedin.com/in/jeremie-letonnelier/
 competences:
+  - Administration Publique
   - Data Science
   - PostgreSQL
   - Python
-  - Administration Publique
 missions:
   - start: 2024-05-02
     end: 2027-05-02

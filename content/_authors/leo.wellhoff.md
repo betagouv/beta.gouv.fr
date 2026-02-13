@@ -15,10 +15,10 @@ missions:
 teams:
   - /teams/culture
 competences:
-  - UX
-  - UI
-  - Product design
   - Écoconception
+  - Product design
+  - UI
+  - UX
 memberType: beta
 link: https://www.linkedin.com/in/leowellhoff/
 ---

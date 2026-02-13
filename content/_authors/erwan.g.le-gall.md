@@ -12,8 +12,8 @@ missions:
       - acces-cible
 competences:
   - Accessibilité
-  - PHP
   - Administration Publique
+  - PHP
 memberType: beta
 link: https://design.numerique.gouv.fr/qui-sommes-nous/
 ---

@@ -4,10 +4,10 @@ role: 'Chargée de déploiement '
 domaine: Déploiement
 link: https://www.linkedin.com/in/audreyfortassin/
 competences:
-  - Croissance
-  - Facilitation
   - Coaching
   - Communication
+  - Croissance
+  - Facilitation
 missions:
   - start: 2025-10-13
     end: 2026-04-30

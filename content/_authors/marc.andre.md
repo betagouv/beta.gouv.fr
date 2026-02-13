@@ -14,11 +14,11 @@ badges:
   - segur
 link: https://www.linkedin.com/in/marc75/
 competences:
-  - Product strategy
-  - UX
-  - SEO
   - Communication
   - Croissance
   - Facilitation
   - Product design
+  - Product strategy
+  - SEO
+  - UX
 ---

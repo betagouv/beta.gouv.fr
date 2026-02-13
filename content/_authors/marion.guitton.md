@@ -14,8 +14,8 @@ missions:
 badges:
   - segur
 competences:
-  - UX
   - Product design
   - UI
+  - UX
 ---
 Je design des expériences 🧩 et j'illustre avec des pixels 🖌️ UX/UI Designer et presque toujours en baskets 💪

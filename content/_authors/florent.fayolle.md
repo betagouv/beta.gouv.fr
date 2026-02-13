@@ -9,8 +9,8 @@ missions:
     startups:
       - données-et-territoires
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 memberType: beta
 fullname: Florent Fayolle
 role: Développeur

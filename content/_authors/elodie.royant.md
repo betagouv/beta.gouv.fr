@@ -6,13 +6,13 @@ github: Atheane
 link: https://www.linkedin.com/in/elodie-royant-472b00b/
 competences:
   - Data Science
+  - Développement Backend
+  - Développement Frontend
   - Développement Full-stack
+  - Docker
   - JavaScript/TypeScript
   - PostgreSQL
   - Python
-  - Docker
-  - Développement Backend
-  - Développement Frontend
 missions:
   - start: 2025-07-15
     end: 2025-12-31

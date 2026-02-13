@@ -24,12 +24,12 @@ missions:
     startups:
       - tous.a.bord
 competences:
+  - Communication
+  - Croissance
+  - Facilitation
   - Product design
   - Product strategy
   - UX
-  - Communication
-  - Facilitation
-  - Croissance
 ---
 EIG 7 / CPO
 "Tous à Bord" 

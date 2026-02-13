@@ -23,7 +23,7 @@ previously:
   - chauffage-urbain
   - la.bonne.renov
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---
 Pianiste sur clavier AZERTY

@@ -10,7 +10,7 @@ missions:
       - monlyceepro
 memberType: beta
 competences:
-  - Intrapreneur(se)
   - Communication
+  - Intrapreneur(se)
 ---
 Intrapreneur déterminé à avoir de l'impact. Responsable du Bureau des Entreprises du Lycée Senez à Hénin-Beaumont / Porteur du projet Les Lycées s'Engagent

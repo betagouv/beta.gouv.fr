@@ -15,9 +15,9 @@ previously:
 badges:
   - segur
 competences:
-  - UX
-  - UI
   - Coaching
   - Gestion de Produit
+  - UI
+  - UX
 ---
 Product Strategy, Design Consultant, Entrepreneur (ex-Evaneos)

@@ -45,8 +45,8 @@ missions:
       - guichet-territorial-pour-la-transition-ecologique
 memberType: beta
 competences:
+  - Coaching
   - Facilitation
   - Product strategy
-  - Coaching
 ---
 Coach Produit passionnée de product management, organisation d'équipe, design thinking et intelligence collective, et co-fondatrice d'une association de découverte de la tech pour les filles

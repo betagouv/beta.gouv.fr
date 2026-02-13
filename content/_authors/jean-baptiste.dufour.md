@@ -4,8 +4,8 @@ role: Chargé de déploiement
 domaine: Déploiement
 link: https://www.linkedin.com/in/jb-dufour/
 competences:
-  - Facilitation
   - Croissance
+  - Facilitation
 missions:
   - start: 2024-06-20
     end: 2024-12-31

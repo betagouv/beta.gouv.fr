@@ -12,8 +12,8 @@ missions:
       - refugies.info
 memberType: beta
 competences:
-  - Intrapreneur(se)
   - Administration Publique
   - Croissance
+  - Intrapreneur(se)
 ---
 Chef de projet numérique, et j'adore le no-code !

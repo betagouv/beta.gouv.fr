@@ -3,9 +3,9 @@ fullname: Marie-Agnès Scherrmann
 role: Co-responsable de la Fabrique des géocommuns
 domaine: Produit
 competences:
-  - Product design
   - Administration Publique
   - Communication
+  - Product design
   - Product strategy
 missions:
   - start: 2025-02-03

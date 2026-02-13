@@ -36,8 +36,8 @@ teams:
   - /teams/fast-dinum
 link: https://www.linkedin.com/in/paul-burgun/
 competences:
-  - Croissance
-  - Coaching
   - Administration Publique
+  - Coaching
+  - Croissance
 ---
 Atteindre 1M d'agents publics sur la Suite Numérique.

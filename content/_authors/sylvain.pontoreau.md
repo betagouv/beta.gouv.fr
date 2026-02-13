@@ -13,7 +13,7 @@ missions:
       - potentiel
 memberType: beta
 competences:
-  - JavaScript/TypeScript
   - Développement Backend
+  - JavaScript/TypeScript
 ---
 TypeScript enthusiast, in ❤️ with Behavior Driven Development & Gitmoji fanboy 😎

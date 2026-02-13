@@ -21,8 +21,8 @@ incubator: ademe
 badges:
   - segur
 competences:
+  - Communication
   - Croissance
   - Gestion de Produit
-  - Communication
   - Product strategy
 ---

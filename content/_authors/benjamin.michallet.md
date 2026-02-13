@@ -9,8 +9,8 @@ missions:
     employer: Dinum
 link: https://www.linkedin.com/in/benjamin-michallet-phd-232638164/
 competences:
-  - Coaching
   - Administration Publique
+  - Coaching
   - Data Science
 memberType: autre
 ---

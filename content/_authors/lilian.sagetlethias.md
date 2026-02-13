@@ -34,8 +34,8 @@ previously:
   - maison.de.lautisme
 competences:
   - Coaching
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
   - Développement Full-stack
   - JavaScript/TypeScript
 ---

@@ -4,9 +4,9 @@ role: EIG CIO
 domaine: Autre
 link: https://www.linkedin.com/in/severinehours/
 competences:
+  - Coaching
   - Croissance
   - SEO
-  - Coaching
 missions:
   - start: 2025-01-15
     end: 2027-01-14

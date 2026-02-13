@@ -17,16 +17,16 @@ missions:
       - acceslibre
 link: https://www.linkedin.com/in/patrick-tai-nguyen-836b6248/
 competences:
-  - Développement Full-stack
-  - Développement Frontend
-  - Développement Backend
-  - Matomo
   - Accessibilité
+  - Développement Backend
+  - Développement Frontend
+  - Développement Full-stack
+  - Django
   - Docker
   - JavaScript/TypeScript
-  - Python
+  - Matomo
   - PostgreSQL
-  - Django
+  - Python
 memberType: beta
 ---
 Fullstack Software Engineer

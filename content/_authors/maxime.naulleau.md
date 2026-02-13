@@ -5,30 +5,30 @@ domaine: Développement
 github: Nmaxime
 link: https://www.linkedin.com/in/maxime-naulleau/
 competences:
+  - Airbyte
+  - Architecture hexagonale
+  - Clean architecture
+  - DDD
   - Développement Backend
   - Développement Frontend
   - Développement Full-stack
   - DevOps
   - Docker
-  - Kubernetes
+  - Helm
+  - Infrastructure as  Code
   - JavaScript/TypeScript
+  - Kestra
+  - Kubernetes
   - Metabase
+  - Nest JS
+  - Node JS
   - PostgreSQL
   - Python
-  - Clean architecture
-  - TDD
-  - DDD
-  - Nest JS
   - React
-  - Vite JS
-  - Node JS
-  - Infrastructure as  Code
+  - TDD
   - Terraform
   - Terragrunt
-  - Helm
-  - Airbyte
-  - Kestra
-  - Architecture hexagonale
+  - Vite JS
 missions:
   - start: 2024-09-23
     end: 2025-06-20

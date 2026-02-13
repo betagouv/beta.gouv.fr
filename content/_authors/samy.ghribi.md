@@ -3,14 +3,14 @@ fullname: Samy GHRIBI
 role: Developpeur
 domaine: Développement
 competences:
-  - Développement Full-stack
+  - Administration Système
   - Développement Backend
   - Développement Frontend
-  - Administration Système
+  - Développement Full-stack
   - DevOps
   - Docker
-  - PHP
   - JavaScript/TypeScript
+  - PHP
   - PostgreSQL
 missions:
   - start: 2025-12-15

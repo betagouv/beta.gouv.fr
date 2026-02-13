@@ -6,8 +6,8 @@ github: VictorMenestrel
 link: https://www.linkedin.com/in/victor-menestrel/
 competences:
   - Data Science
-  - Machine learning
   - Facilitation
+  - Machine learning
 missions:
   - start: 2025-09-15
     end: 2025-12-31

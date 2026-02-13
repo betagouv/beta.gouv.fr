@@ -4,9 +4,9 @@ role: Développeur spécialisé en accessibilité
 domaine: Développement
 github: logic-fabric
 competences:
+  - Accessibilité
   - Développement Frontend
   - UX
-  - Accessibilité
 missions:
   - start: 2025-03-05
     end: 2026-06-30

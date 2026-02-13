@@ -39,10 +39,10 @@ missions:
       - refugies.info
 link: https://www.linkedin.com/in/merzouknassim/
 competences:
-  - Croissance
+  - Business Developpement
   - Coaching
   - Communication
+  - Croissance
   - Négociation
-  - Business Developpement
 ---
 Expert en Business Development et Marketing d'Impact Social, j'accompagne freelances, entrepreneurs et organisations dans leur stratégie de développement depuis 2015. Membre actif de la communauté beta.gouv.fr, j'ai collaboré avec de grandes entreprises, des startups, des acteurs publics et des associations, alliant méthode classique et innovation sociale pour créer des opportunités durables.

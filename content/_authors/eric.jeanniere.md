@@ -4,8 +4,8 @@ role: Intrapreneur
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/eric-jeanniere-8b2819148/
 competences:
-  - Intrapreneur(se)
   - Administration Publique
+  - Intrapreneur(se)
 missions:
   - start: 2025-02-12
     end: 2028-04-01

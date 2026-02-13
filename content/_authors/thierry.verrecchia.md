@@ -12,11 +12,11 @@ missions:
     startups:
       - aides-territoires
 competences:
-  - UX
-  - UI
-  - Développement Frontend
-  - Développement Backend
-  - Gestion de Produit
-  - Croissance
   - Coaching
+  - Croissance
+  - Développement Backend
+  - Développement Frontend
+  - Gestion de Produit
+  - UI
+  - UX
 ---

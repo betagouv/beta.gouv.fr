@@ -20,9 +20,9 @@ missions:
     startups:
       - ecobalyse
 competences:
-  - Python
   - Développement Backend
   - Développement Full-stack
   - Elm
+  - Python
   - Rust
 ---

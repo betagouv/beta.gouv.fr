@@ -38,7 +38,7 @@ missions:
       - valorisation.des.stages.pro
 incubator: dinum
 competences:
+  - Administration Publique
   - Coaching
   - Gestion de Produit
-  - Administration Publique
 ---

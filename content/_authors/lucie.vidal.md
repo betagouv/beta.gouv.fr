@@ -22,9 +22,9 @@ missions:
     employer: Malt
 memberType: autre
 competences:
-  - Product design
-  - UX
-  - UI
   - Design graphique
+  - Product design
+  - UI
+  - UX
 ---
 Designer

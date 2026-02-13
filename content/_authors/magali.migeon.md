@@ -13,9 +13,9 @@ missions:
 memberType: autre
 link: https://www.linkedin.com/in/magali-migeon-740265aa/
 competences:
+  - Administration Publique
   - Communication
   - Facilitation
   - Intrapreneur(se)
-  - Administration Publique
 ---
 Egalement chargée de mission lutte contre la cabanisation à la DDTM 34

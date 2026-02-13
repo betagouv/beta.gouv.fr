@@ -11,7 +11,7 @@ missions:
     startups:
       - guichet-entreprises-nc
 competences:
-  - Gestion de Produit
   - Administration Publique
+  - Gestion de Produit
 ---
 Ouverte, optimiste et en quête de solutions pour les entreprises.

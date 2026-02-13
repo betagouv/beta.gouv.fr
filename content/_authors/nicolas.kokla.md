@@ -25,7 +25,7 @@ missions:
     startups:
       - ban
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---
 {\  Mindset: 'Coding better, harder, faster',\  hobby: 'Gamer better, harder, faster'\}

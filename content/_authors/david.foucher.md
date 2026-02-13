@@ -25,11 +25,11 @@ missions:
       - travailler.en.france
 competences:
   - Administration Système
-  - Sécurité informatique
-  - SEO
-  - Metabase
   - DevOps
   - Docker
+  - Metabase
+  - Sécurité informatique
+  - SEO
 link: https://mamot.fr/@tyjak
 ---
 Geek, passionné et critique de nos technologies modernes. Lecteur de I. Illitch, J. Uexkull, B. Stiegler, B. de Bodinat, G. Pruvost...

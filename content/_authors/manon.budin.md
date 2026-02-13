@@ -4,11 +4,11 @@ role: Développeuse
 domaine: Développement
 github: Josyann
 competences:
-  - Ruby
-  - JavaScript/TypeScript
   - Développement Full-stack
-  - React
+  - JavaScript/TypeScript
   - Rails
+  - React
+  - Ruby
 missions:
   - start: 2025-07-07
     end: 2026-06-07

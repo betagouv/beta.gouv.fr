@@ -11,12 +11,12 @@ missions:
     startups:
       - histologe
 competences:
-  - UI
-  - Développement Frontend
-  - Développement Backend
-  - Administration Système
-  - Gestion de Produit
   - Administration Publique
+  - Administration Système
+  - Développement Backend
+  - Développement Frontend
+  - Gestion de Produit
+  - UI
   - UX
 ---
 Responsable technique

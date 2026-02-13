@@ -4,13 +4,13 @@ role: Product Owner chez Réfugiés.info
 domaine: Produit
 link: https://www.linkedin.com/in/juliepoupat/
 competences:
-  - Product design
-  - UX
-  - Product strategy
   - Accessibilité
-  - UI
-  - SEO
   - Intrapreneur(se)
+  - Product design
+  - Product strategy
+  - SEO
+  - UI
+  - UX
 missions:
   - start: 2025-08-12
     end: 2026-04-30

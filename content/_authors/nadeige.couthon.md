@@ -11,6 +11,6 @@ missions:
       - basegun
       - psij
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---

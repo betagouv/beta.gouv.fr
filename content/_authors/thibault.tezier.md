@@ -16,8 +16,8 @@ missions:
 link: https://www.linkedin.com/in/thibault-t%C3%A9zier-67919a51/
 competences:
   - Coaching
-  - Product strategy
-  - Facilitation
   - Croissance
+  - Facilitation
+  - Product strategy
 memberType: beta
 ---

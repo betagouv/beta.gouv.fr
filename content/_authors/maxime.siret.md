@@ -4,11 +4,11 @@ role: Intrapreneur - Chef de produit numérique Point d'Accès National
 domaine: Intraprenariat
 link: https://linkedin.com/in/maximesiret
 competences:
+  - Administration Publique
+  - Communication
+  - Croissance
   - Intrapreneur(se)
   - Product strategy
-  - Communication
-  - Administration Publique
-  - Croissance
 missions:
   - start: 2024-09-02
     end: 2027-09-01

@@ -24,8 +24,8 @@ missions:
       - suite-numerique
 memberType: beta
 competences:
-  - Croissance
   - Communication
+  - Croissance
   - Metabase
 ---
 Growth marketer

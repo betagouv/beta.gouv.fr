@@ -14,8 +14,8 @@ previously:
   - eva
 competences:
   - Coaching
-  - Intrapreneur(se)
   - Croissance
+  - Intrapreneur(se)
 link: https://www.linkedin.com/in/olivier-gerard-75017
 ---
 Un expert des politiques d'emploi/formation  et de leurs écosystèmes. Bonne connaissance du système de la formation professionnelle

@@ -11,13 +11,13 @@ missions:
       - dossierfacile
 memberType: beta
 competences:
-  - Croissance
-  - Communication
-  - Intrapreneur(se)
-  - déploiement
-  - biz dev
-  - impact
+  - Business Developpement
   - CIO
+  - Communication
+  - Croissance
+  - Déploiement
   - EIG
+  - impact
+  - Intrapreneur(se)
 link: https://www.linkedin.com/in/oritaly/
 ---

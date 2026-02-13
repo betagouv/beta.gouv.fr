@@ -5,10 +5,10 @@ domaine: Développement
 competences:
   - Développement Full-stack
   - DevOps
-  - JavaScript/TypeScript
-  - ElasticSearch
   - Docker
+  - ElasticSearch
   - IA
+  - JavaScript/TypeScript
 missions:
   - start: 2024-11-04
     end: 2036-12-31

@@ -10,7 +10,7 @@ missions:
     startups:
       - aplus
 competences:
+  - Administration Système
   - Développement Backend
   - Développement Frontend
-  - Administration Système
 ---

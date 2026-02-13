@@ -25,8 +25,8 @@ missions:
     startups:
       - deveco
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
   - UI
 ---
 Développeur / designer freelance

@@ -21,9 +21,9 @@ missions:
     startups:
       - seves
 competences:
-  - Développement Frontend
   - Développement Backend
-  - DevOps
+  - Développement Frontend
   - Développement Full-stack
+  - DevOps
 ---
 La vie n'est marrante qu'en apprenant. Aussi: chats !

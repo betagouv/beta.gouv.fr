@@ -6,9 +6,9 @@ github: antoinehashbang
 link: https://www.linkedin.com/in/antoine-michon-912649137/
 competences:
   - Développement Full-stack
-  - Python
   - JavaScript/TypeScript
   - PostgreSQL
+  - Python
 missions:
   - start: 2025-07-01
     end: 2026-03-31

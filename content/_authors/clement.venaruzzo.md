@@ -12,7 +12,7 @@ missions:
       - l-application-du-cej
 memberType: autre
 competences:
-  - 'support '
-  - déploiement
-  - customer success management
+  - Customer Success
+  - Déploiement
+  - Support
 ---

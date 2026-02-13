@@ -37,9 +37,9 @@ missions:
 badges:
   - segur
 competences:
-  - Gestion de Produit
   - Administration Publique
   - Croissance
   - Facilitation
+  - Gestion de Produit
   - Metabase
 ---

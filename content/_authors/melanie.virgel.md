@@ -12,10 +12,10 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/melanie-virgel/
 competences:
+  - Animation réseaux sociaux
+  - Business Developpement
   - Communication
   - Conception supports de communication et formation
-  - Animation réseaux sociaux
-  - Tutrice
-  - Business Developpement
   - Formation
+  - Tutrice
 ---

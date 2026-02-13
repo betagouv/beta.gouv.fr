@@ -11,8 +11,8 @@ missions:
       - dossierfacile
 memberType: beta
 competences:
-  - IA
   - Développement Frontend
+  - IA
   - JavaScript/TypeScript
 ---
 Opérateur chez Dossier Facile

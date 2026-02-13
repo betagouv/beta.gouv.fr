@@ -8,10 +8,10 @@ missions:
     end: 2024-09-01
     status: service
 competences:
-  - Développement Frontend
-  - Développement Backend
-  - UI
   - Administration Système
+  - Développement Backend
+  - Développement Frontend
+  - UI
   - UX
 memberType: dinum
 role: Software Engineer

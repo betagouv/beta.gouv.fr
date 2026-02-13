@@ -11,10 +11,10 @@ missions:
       - envergo
 link: https://ugeosphere.com
 competences:
-  - Cartographie
-  - Géomaticien
   - Application web
+  - Cartographie
   - Data Science
+  - Géomaticien
 memberType: autre
 ---
 Ugo Parment, Géomaticien, master en géographie spécialisé en traitement de données spatiales, indépendant depuis 2021.

@@ -20,6 +20,6 @@ previously:
 badges:
   - segur
 competences:
-  - UX
   - UI
+  - UX
 ---

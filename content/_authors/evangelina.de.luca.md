@@ -5,11 +5,11 @@ domaine: Data
 github: deleva
 link: https://www.linkedin.com/in/evangelina-de-luca
 competences:
-  - Facilitation
+  - Coaching
   - Data Science
+  - Facilitation
   - Machine learning
   - Python
-  - Coaching
 missions:
   - start: 2024-09-01
     end: 2025-12-31

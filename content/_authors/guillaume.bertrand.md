@@ -4,10 +4,10 @@ role: Product Designer
 domaine: Design
 link: https://gllm.design
 competences:
-  - Product design
-  - UX
-  - UI
   - Intrapreneur(se)
+  - Product design
+  - UI
+  - UX
 missions:
   - start: 2025-03-25
     end: 2026-04-05

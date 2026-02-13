@@ -23,9 +23,9 @@ missions:
     startups:
       - anais
 competences:
-  - Gestion de système d'information
-  - Product strategy
   - Droit / Affaires juridiques
   - Gestion de Produit
+  - Gestion de système d'information
   - Intrapreneur(se)
+  - Product strategy
 ---

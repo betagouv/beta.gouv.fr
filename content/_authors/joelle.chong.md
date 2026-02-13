@@ -12,10 +12,10 @@ missions:
 memberType: autre
 link: https://www.linkedin.com/in/joelle-chong/
 competences:
+  - Facilitation
   - Intrapreneur(se)
   - Product design
   - Product strategy
-  - Facilitation
   - UX
 ---
 Designer de services à l'ANSM

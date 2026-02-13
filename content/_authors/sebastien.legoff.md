@@ -14,7 +14,7 @@ previously:
   - eac
   - api-engagement
 competences:
+  - Coaching
   - Développement Backend
   - Développement Frontend
-  - Coaching
 ---

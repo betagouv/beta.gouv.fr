@@ -46,13 +46,13 @@ previously:
   - place-de-marche-inclusion
   - eva
 competences:
-  - Gestion de Produit
-  - Coaching
   - Administration Publique
+  - Coaching
   - Communication
-  - Facilitation
-  - Intrapreneur(se)
   - Croissance
+  - Facilitation
+  - Gestion de Produit
+  - Intrapreneur(se)
 link: https://www.linkedin.com/in/lauren-michel-4b5a48116/
 ---
 Startupeuse curieuse et persévérante !

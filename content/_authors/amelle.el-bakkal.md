@@ -27,11 +27,11 @@ missions:
 badges:
   - segur
 competences:
-  - Développement Frontend
-  - Développement Backend
-  - Facilitation
   - Accessibilité
   - Coaching
+  - Développement Backend
+  - Développement Frontend
+  - Facilitation
   - JavaScript/TypeScript
   - UI
   - UX

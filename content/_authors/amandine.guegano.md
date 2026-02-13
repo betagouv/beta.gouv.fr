@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/amandine-guegano/
 competences:
   - Coaching
   - Product strategy
-  - UX research
+  - UX Research
 missions:
   - start: 2024-05-06
     end: 2026-06-30

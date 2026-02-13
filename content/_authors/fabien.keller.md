@@ -11,15 +11,15 @@ missions:
       - ecobalyse
 link: https://www.linkedin.com/in/fabien-keller/
 competences:
-  - Product strategy
+  - Coaching
   - Communication
   - Croissance
-  - UX
   - Data Science
   - Machine learning
-  - Coaching
   - Product design
+  - Product strategy
   - UI
+  - UX
 memberType: beta
 ---
 Entrepreneur dans le secteur des technologies depuis plus de 10 ans et jeune papa ! 

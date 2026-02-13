@@ -13,10 +13,10 @@ missions:
       - aides-territoires
 memberType: beta
 competences:
-  - PHP
-  - JavaScript/TypeScript
-  - Python
   - CSS
   - HTML
+  - JavaScript/TypeScript
+  - PHP
+  - Python
 ---
 Artisan du web

@@ -19,10 +19,10 @@ missions:
       - les-emplois
       - pilotage.de.linclusion
 competences:
-  - Intrapreneur(se)
-  - Facilitation
   - Administration Publique
   - Coaching
+  - Facilitation
+  - Intrapreneur(se)
   - Product strategy
 link: https://www.linkedin.com/in/eric-barthélémy-intrapreneur
 ---

@@ -4,8 +4,8 @@ role: Chargée de déploiement chez MonAideCyber
 domaine: Déploiement
 link: https://www.linkedin.com/in/floriane-gallego/
 competences:
-  - Croissance
   - Communication
+  - Croissance
 missions:
   - start: 2025-03-24
     end: 2026-06-30

@@ -11,7 +11,7 @@ missions:
     startups:
       - mon-entreprise
   - start: 2023-01-09
-    end: 2026-03-15
+    end: 2026-03-01
     status: independent
     employer: ADEME
 previously:
@@ -20,13 +20,13 @@ previously:
   - impact.co2
 incubator: ademe
 competences:
+  - Accessibilité
   - Communication
   - Facilitation
   - Product design
   - Product strategy
-  - UX
-  - Accessibilité
   - UI
+  - UX
 teams:
   - /teams/ademe
 link: https://www.linkedin.com/in/lauradussier-design/

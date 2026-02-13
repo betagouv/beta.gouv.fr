@@ -6,8 +6,8 @@ github: pie-leroy
 link: https://www.linkedin.com/in/pierreleroyfr/
 competences:
   - Data Science
-  - ElasticSearch
   - Docker
+  - ElasticSearch
   - Machine learning
 missions:
   - start: 2025-08-26

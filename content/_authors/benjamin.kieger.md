@@ -11,8 +11,8 @@ missions:
       - la-bonne-alternance
 link: https://www.linkedin.com/in/benjamin-kieger/
 competences:
-  - Croissance
   - Communication
+  - Croissance
   - Product strategy
 memberType: beta
 ---

@@ -10,6 +10,6 @@ missions:
     startups:
       - grist.numerique.gouv.fr
 competences:
-  - UX
   - UI
+  - UX
 ---

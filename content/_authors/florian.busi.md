@@ -9,9 +9,9 @@ missions:
     employer: ANCT
 memberType: beta
 competences:
+  - Administration Système
   - Analyse de risques
   - Sécurité informatique
-  - Administration Système
 link: https://www.linkedin.com/in/fbusi
 teams:
   - /teams/anct

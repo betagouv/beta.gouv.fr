@@ -10,7 +10,7 @@ missions:
     startups:
       - aidantsconnect
 competences:
-  - Croissance
   - Communication
+  - Croissance
 ---
 Chargé de déploiement pour Aidants Connect

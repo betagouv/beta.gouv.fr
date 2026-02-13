@@ -6,8 +6,8 @@ github: lutangar
 link: https://github.com/lutangar
 competences:
   - Développement Full-stack
-  - JavaScript/TypeScript
   - DevOps
+  - JavaScript/TypeScript
   - PHP
 missions:
   - start: 2024-10-01

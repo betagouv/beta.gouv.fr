@@ -50,13 +50,13 @@ previously:
   - apilos
   - nosgestesclimat
 competences:
-  - UX
   - Coaching
-  - Product strategy
   - Croissance
-  - SEO
-  - SEM
   - Product design
+  - Product strategy
+  - SEM
+  - SEO
+  - UX
 teams:
   - /teams/fast-dinum
 ---

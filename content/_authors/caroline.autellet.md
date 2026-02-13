@@ -4,9 +4,9 @@ role: Product Manager
 domaine: Produit
 link: https://www.linkedin.com/in/carolineautellet/
 competences:
+  - Coaching
   - Facilitation
   - Product strategy
-  - Coaching
 missions:
   - start: 2025-05-01
     end: 2028-04-30

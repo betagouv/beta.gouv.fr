@@ -7,7 +7,7 @@ missions:
     end: 2024-12-31
     status: independent
 competences:
-  - Product strategy
   - Communication
+  - Product strategy
 memberType: beta
 ---

@@ -14,8 +14,8 @@ teams:
   - /teams/justice
 competences:
   - Développement Backend
-  - Développement Full-stack
   - Développement Frontend
+  - Développement Full-stack
   - DevOps
   - JavaScript/TypeScript
   - PHP

@@ -15,7 +15,7 @@ missions:
     startups:
       - psij
 competences:
-  - Développement Backend
   - Administration Système
+  - Développement Backend
 ---
 🌸

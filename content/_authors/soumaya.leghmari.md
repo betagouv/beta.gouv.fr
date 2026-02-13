@@ -11,12 +11,12 @@ missions:
       - data-subvention
 memberType: beta
 competences:
-  - SEO
   - Accessibilité
-  - SEM
   - Administration Publique
   - Communication
   - Croissance
   - Droit / Affaires juridiques
+  - SEM
+  - SEO
 link: https://www.linkedin.com/in/sleghmari/
 ---

@@ -4,10 +4,10 @@ role: Chargée de financement européen
 domaine: Développement
 link: https://www.linkedin.com/in/julie-cocagne/?originalSubdomain=fr
 competences:
-  - recherche de financement
+  - développement de partenariats
   - fundraising
   - gestion de projet
-  - développement de partenariats
+  - recherche de financement
 missions:
   - start: 2025-03-27
     end: 2025-06-30
