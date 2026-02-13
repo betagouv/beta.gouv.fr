@@ -22,9 +22,9 @@ teams:
 badges:
   - segur
 competences:
-  - UX
   - Coaching
   - Facilitation
+  - UX
 previously:
   - cnr
   - la.bonne.renov

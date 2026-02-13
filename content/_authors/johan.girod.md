@@ -16,8 +16,8 @@ missions:
     startups:
       - annuaire-entreprises
 competences:
+  - Accessibilité
   - Développement Frontend
   - Gestion de Produit
   - JavaScript/TypeScript
-  - Accessibilité
 ---

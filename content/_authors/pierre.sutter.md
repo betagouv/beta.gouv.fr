@@ -9,10 +9,10 @@ competences:
   - Data Science
   - Développement Backend
   - Développement Frontend
-  - Python
-  - PostgreSQL
-  - JavaScript/TypeScript
   - DevOps
+  - JavaScript/TypeScript
+  - PostgreSQL
+  - Python
 missions:
   - start: 2025-09-26
     end: 2026-06-30

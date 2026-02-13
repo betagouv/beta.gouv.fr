@@ -13,13 +13,13 @@ missions:
 badges:
   - segur
 competences:
-  - Gestion de Produit
-  - Product strategy
-  - Product design
-  - UX
-  - UI
-  - Croissance
-  - Communication
   - Coaching
+  - Communication
+  - Croissance
+  - Gestion de Produit
+  - Product design
+  - Product strategy
+  - UI
+  - UX
 ---
 J'aime voyager, une destination à me recommander ? :)

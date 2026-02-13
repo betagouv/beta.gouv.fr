@@ -19,11 +19,11 @@ badges:
   - segur
 competences:
   - Développement Backend
-  - Développement Full-stack
   - Développement Frontend
-  - PHP
-  - JavaScript/TypeScript
-  - PostgreSQL
+  - Développement Full-stack
   - Facilitation
+  - JavaScript/TypeScript
+  - PHP
+  - PostgreSQL
 ---
 Développeur web

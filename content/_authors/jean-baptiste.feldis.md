@@ -35,8 +35,8 @@ missions:
 link: https://www.linkedin.com/in/jbfeldis/
 github: jbfeldis
 competences:
-  - Développement Backend
   - Développement
+  - Développement Backend
   - Développement Full-stack
   - Ruby
 memberType: beta

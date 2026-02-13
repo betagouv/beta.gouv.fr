@@ -18,12 +18,12 @@ missions:
     startups:
       - docurba
 competences:
-  - PostgreSQL
   - Développement Backend
   - Développement Frontend
   - Développement Full-stack
+  - JavaScript/TypeScript
+  - PostgreSQL
   - Python
   - UI
-  - JavaScript/TypeScript
 ---
 Développeur full-stack

@@ -13,8 +13,8 @@ link: https://www.linkedin.com/in/bastien-baret/
 competences:
   - Développement Full-stack
   - DevOps
-  - Python
-  - PostgreSQL
   - JavaScript/TypeScript
   - Metabase
+  - PostgreSQL
+  - Python
 ---

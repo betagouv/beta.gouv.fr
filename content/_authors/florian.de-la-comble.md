@@ -13,7 +13,7 @@ previously:
   - potentiel
   - dematapprentissage
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---
 Développeur full stack JS

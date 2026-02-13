@@ -36,9 +36,9 @@ missions:
     startups:
       - monitorfish
 competences:
-  - Développement Full-stack
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
+  - Développement Full-stack
 badges:
   - segur
 ---

@@ -13,11 +13,11 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/stephanepignal/
 competences:
+  - Administration Publique
   - Communication
   - Croissance
-  - Metabase
   - Matomo
-  - Administration Publique
+  - Metabase
   - Product strategy
 ---
 En tant que  développeur éco et formateur dans l'industrie, dans l'économie sociale et solidaire et auprès des collectivités territoriale, j'ai toujours un grand plaisir à intégrer des équipes agiles afin de mettre mes savoir-faire et expériences au service de projets digitaux qui ont un intérêt général

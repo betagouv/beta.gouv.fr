@@ -10,10 +10,10 @@ missions:
     employer: Nextmap.io
 memberType: autre
 competences:
-  - DevOps
   - Administration Système
-  - Sécurité informatique
-  - Kubernetes
+  - DevOps
   - Docker
   - ElasticSearch
+  - Kubernetes
+  - Sécurité informatique
 ---

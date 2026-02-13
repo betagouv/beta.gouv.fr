@@ -29,9 +29,9 @@ previously:
   - api-geo
   - ban
 competences:
-  - UX
-  - Développement Frontend
   - Administration Publique
+  - Développement Frontend
+  - UX
 role: Développeur
 fullname: Théophile Merlière
 avatar: https://fr.gravatar.com/avatar/f8ce5d98554aa7d7e31747512b95c06e?size=512

@@ -28,8 +28,8 @@ missions:
     startups:
       - communs-de-la-transition-ecologique-des-collectivites
 competences:
-  - UX
   - UI
+  - UX
 github: dgedj
 link: https://www.linkedin.com/in/gerardclaire/
 ---

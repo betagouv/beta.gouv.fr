@@ -20,10 +20,10 @@ memberType: beta
 previously:
   - apilos
 competences:
-  - Facilitation
-  - Croissance
-  - UX
   - Communication
+  - Croissance
+  - Facilitation
   - Product design
+  - UX
 ---
 Je suis un support-héros 🦸‍♂️

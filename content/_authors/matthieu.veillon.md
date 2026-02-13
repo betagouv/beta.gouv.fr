@@ -5,9 +5,9 @@ domaine: Développement
 github: MatthieuVeillon
 link: https://www.linkedin.com/in/matthieu-veillon/
 competences:
+  - Développement Backend
   - Développement Frontend
   - Développement Full-stack
-  - Développement Backend
   - JavaScript/TypeScript
 missions:
   - start: 2024-10-21

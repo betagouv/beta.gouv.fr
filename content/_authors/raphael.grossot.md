@@ -12,10 +12,10 @@ missions:
       - france-numerique-ensemble
 link: https://raphaelgrossot.com
 competences:
-  - UX
+  - Accessibilité
+  - Facilitation
   - Product design
   - Product strategy
-  - Facilitation
-  - Accessibilité
   - UI
+  - UX
 ---

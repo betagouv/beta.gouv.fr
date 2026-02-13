@@ -5,8 +5,8 @@ domaine: Développement
 competences:
   - Développement Full-stack
   - JavaScript/TypeScript
-  - Python
   - PostgreSQL
+  - Python
 missions:
   - start: 2025-07-21
     end: 2025-12-31

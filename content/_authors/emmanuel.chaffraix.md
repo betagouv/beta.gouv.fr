@@ -4,8 +4,8 @@ role: Tech lead / Devops à l'incubateur des territoires
 domaine: Déploiement
 link: https://www.linkedin.com/in/emmanuelchaffraix
 competences:
-  - DevOps
   - Développement Full-stack
+  - DevOps
   - Kubernetes
   - PostgreSQL
 missions:

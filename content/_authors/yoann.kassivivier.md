@@ -32,11 +32,11 @@ previously:
 badges:
   - segur
 competences:
-  - Intrapreneur(se)
-  - Facilitation
-  - Coaching
-  - Product strategy
   - Administration Publique
+  - Coaching
+  - Facilitation
+  - Intrapreneur(se)
+  - Product strategy
 ---
 PM @API-Engagement
 Ex Intra @JeVeuxAider @SNU @API-Engagement

@@ -9,7 +9,7 @@ missions:
     startups:
       - re-ac-t
 competences:
-  - Intrapreneur(se)
   - Administration Publique
+  - Intrapreneur(se)
 memberType: beta
 ---

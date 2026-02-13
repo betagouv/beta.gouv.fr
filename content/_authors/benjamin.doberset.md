@@ -23,8 +23,8 @@ previously:
 badges:
   - segur
 competences:
-  - Gestion de Produit
   - Croissance
+  - Gestion de Produit
 teams:
   - /teams/communaute-dinum
 ---

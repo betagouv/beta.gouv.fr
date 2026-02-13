@@ -34,14 +34,14 @@ missions:
     startups:
       - fonds-prevention-argile
 competences:
+  - Croissance
   - Développement Full-stack
+  - DevOps
+  - ElasticSearch
   - JavaScript/TypeScript
   - Metabase
-  - Product strategy
-  - ElasticSearch
-  - DevOps
   - PostgreSQL
+  - Product strategy
   - Sécurité informatique
-  - Croissance
 ---
 J'aspire à améliorer le monde en construisant des produits numériques ayant de l'impact.

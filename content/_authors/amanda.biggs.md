@@ -4,9 +4,9 @@ role: SEO et Rédaction Web
 domaine: Déploiement
 link: https://www.linkedin.com/in/amandabiggs/
 competences:
-  - SEO
   - Communication
   - SEM
+  - SEO
 missions:
   - start: 2024-07-29
     end: 2025-12-31

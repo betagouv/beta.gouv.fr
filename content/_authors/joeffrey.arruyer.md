@@ -15,9 +15,9 @@ previously:
   - camino
   - dossierfacile
 competences:
-  - Gestion de Produit
   - Coaching
   - Communication
   - Croissance
+  - Gestion de Produit
 ---
 In your PC, stealing your Internetz

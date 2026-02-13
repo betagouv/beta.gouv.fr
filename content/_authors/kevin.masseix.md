@@ -24,15 +24,15 @@ missions:
       - opi-cloud
 memberType: autre
 competences:
-  - Docker
+  - Développement Backend
   - DevOps
+  - Docker
   - ElasticSearch
   - JavaScript/TypeScript
-  - PHP
-  - Python
-  - Développement Backend
-  - Sécurité informatique
   - Kubernetes
   - Machine learning
+  - PHP
+  - Python
+  - Sécurité informatique
 ---
 DevOps, expert opensearch  SIMD computing

@@ -21,7 +21,7 @@ previously:
   - preuve-de-covoiturage
   - api-particulier
 competences:
-  - Droit / Affaires juridiques
   - Coaching
+  - Droit / Affaires juridiques
 ---
 Le droit c'est tordu.

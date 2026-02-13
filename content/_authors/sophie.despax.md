@@ -4,11 +4,11 @@ role: Graphiste
 domaine: Design
 link: https://despax.eu/
 competences:
-  - UI
-  - UX
-  - Product design
   - Accessibilité
   - Communication
+  - Product design
+  - UI
+  - UX
 missions:
   - start: 2024-10-25
     end: 2025-10-25

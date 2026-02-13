@@ -27,6 +27,6 @@ badges:
 previously:
   - datagir
 competences:
-  - Développement Full-stack
   - Accessibilité
+  - Développement Full-stack
 ---

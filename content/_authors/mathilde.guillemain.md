@@ -17,9 +17,9 @@ missions:
     startups:
       - stop-punaises
 competences:
-  - UX
   - Product design
   - Product strategy
+  - UX
 github: mathildepoulpux
 ---
 UX Designer & cheffe de produit J'aime les jeux de mots et le vert menthe !

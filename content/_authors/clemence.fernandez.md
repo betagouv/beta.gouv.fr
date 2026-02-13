@@ -5,8 +5,8 @@ domaine: Développement
 link: https://www.linkedin.com/in/clemencefernandez
 competences:
   - Développement Backend
-  - Développement Full-stack
   - Développement Frontend
+  - Développement Full-stack
 missions:
   - start: 2025-06-16
     end: 2026-06-30

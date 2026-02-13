@@ -21,9 +21,9 @@ missions:
     startups:
       - equipements-bio
 competences:
-  - UX
   - Coaching
   - Facilitation
   - Product design
+  - UX
 link: https://www.linkedin.com/in/juliettepalumbo/
 ---

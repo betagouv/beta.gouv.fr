@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: NUMA
 competences:
-  - UX
-  - UI
   - Coaching
+  - UI
+  - UX
 ---

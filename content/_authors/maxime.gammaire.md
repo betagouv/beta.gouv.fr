@@ -14,8 +14,8 @@ badges:
   - segur
 link: https://www.linkedin.com/in/maxime-gammaire-73a059270/
 competences:
-  - Intrapreneur(se)
   - Administration Publique
   - Droit / Affaires juridiques
+  - Intrapreneur(se)
 ---
 Directeur des services de greffe judiciaires

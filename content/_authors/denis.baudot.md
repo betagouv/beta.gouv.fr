@@ -29,9 +29,9 @@ teams:
 competences:
   - Développement Full-stack
   - JavaScript/TypeScript
-  - Sécurité informatique
-  - PHP
-  - Metabase
   - Matomo
+  - Metabase
+  - PHP
+  - Sécurité informatique
   - SEO
 ---

@@ -21,10 +21,10 @@ badges:
 previously:
   - apilos
 competences:
-  - Droit / Affaires juridiques
+  - Administration Publique
   - Communication
   - Déploiement
+  - Droit / Affaires juridiques
   - Impact
-  - Administration Publique
 ---
 J'aime contribuer et faire avancer les causes et les innovations

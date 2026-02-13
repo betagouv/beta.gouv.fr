@@ -26,9 +26,9 @@ link: https://www.linkedin.com/in/aurelien-nocoder/
 competences:
   - Communication
   - Croissance
-  - Product strategy
-  - JavaScript/TypeScript
-  - PHP
   - Grist
+  - JavaScript/TypeScript
   - Metabase
+  - PHP
+  - Product strategy
 ---

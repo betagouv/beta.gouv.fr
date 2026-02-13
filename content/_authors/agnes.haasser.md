@@ -28,9 +28,9 @@ missions:
 previously:
   - aidantsconnect
 competences:
-  - Python
   - Accessibilité
-  - Sécurité informatique
   - PHP
+  - Python
+  - Sécurité informatique
 ---
 Développeuse multi-tâches et multi-langages

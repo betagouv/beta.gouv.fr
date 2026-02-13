@@ -21,10 +21,10 @@ previously:
   - rdv-service-public
   - demarches-simplifiees.fr
 competences:
+  - Coaching
   - Développement Backend
   - Développement Frontend
   - Gestion de Produit
-  - Coaching
 link: https://www.linkedin.com/in/damienlethiec/
 ---
 Artisan numérique et polymathe

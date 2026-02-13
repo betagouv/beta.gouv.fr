@@ -11,10 +11,10 @@ missions:
       - nosgestesclimat
 link: https://www.linkedin.com/in/sarah-farnault/
 competences:
-  - UX
+  - Coaching
   - Facilitation
   - Product strategy
-  - Coaching
+  - UX
 memberType: beta
 ---
 Sarah Farnault — Design de Service & UX • Coaching • Formation 

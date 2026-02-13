@@ -6,9 +6,9 @@ github: ericboucher
 link: https://www.linkedin.com/in/ericpboucher/
 competences:
   - Data Science
-  - Python
-  - JavaScript/TypeScript
   - Développement Full-stack
+  - JavaScript/TypeScript
+  - Python
 missions:
   - start: 2025-01-01
     end: 2026-12-31

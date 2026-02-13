@@ -26,10 +26,10 @@ missions:
 competences:
   - Développement Backend
   - Développement Full-stack
+  - Docker
+  - Metabase
   - PostgreSQL
   - Python
-  - Metabase
-  - Docker
 ---
 Architecte | CTO | dev senior
 ---

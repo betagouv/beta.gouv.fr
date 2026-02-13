@@ -34,7 +34,7 @@ missions:
       - nosgestesclimat
 domaine: Design
 competences:
-  - UX
-  - UI
   - Accessibilité
+  - UI
+  - UX
 ---

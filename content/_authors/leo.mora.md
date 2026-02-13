@@ -22,14 +22,14 @@ missions:
       - tchap
       - usine-chatbots
 competences:
+  - Développement Backend
+  - Développement Frontend
   - Développement Full-stack
   - DevOps
   - Docker
   - JavaScript/TypeScript
   - Machine learning
   - Python
-  - Développement Backend
-  - Développement Frontend
   - Sécurité informatique
 teams:
   - /teams/fabnumdef

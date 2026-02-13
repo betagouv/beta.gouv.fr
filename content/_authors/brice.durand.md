@@ -17,6 +17,6 @@ missions:
     startups:
       - collectif_objets
 competences:
-  - Gestion de Produit
   - Développement Full-stack
+  - Gestion de Produit
 ---

@@ -13,8 +13,8 @@ missions:
       - urbanvitaliz
 domaine: Développement
 competences:
+  - Communs
   - Développement
   - DevOps
   - Gouvernance
-  - Communs
 ---

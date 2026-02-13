@@ -8,8 +8,8 @@ missions:
     status: service
     employer: Malt
 competences:
-  - Communication
   - Coaching
+  - Communication
 memberType: beta
 link: https://www.linkedin.com/in/pierricklallemand/
 ---

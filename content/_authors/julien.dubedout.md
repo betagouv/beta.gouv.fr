@@ -18,10 +18,10 @@ missions:
     startups:
       - acces-cible
 competences:
-  - UX
+  - Accessibilité
   - Communication
   - Facilitation
   - Product design
-  - Accessibilité
+  - UX
 ---
 Designer, j'améliore l’expérience des agents et usagers du Service Public

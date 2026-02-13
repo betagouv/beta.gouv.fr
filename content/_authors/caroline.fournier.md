@@ -20,12 +20,12 @@ missions:
 previously:
   - mon-suivi-social
 competences:
-  - UX
-  - Communication
   - Coaching
-  - Product design
+  - Communication
   - Croissance
-  - Product strategy
   - Facilitation
+  - Product design
+  - Product strategy
+  - UX
 ---
 « On ne pourra bien dessiner le simple qu’après une étude approfondie du complexe. » Gaston Bachelard 

@@ -26,9 +26,9 @@ previously:
 badges:
   - segur
 competences:
-  - Croissance
   - Administration Publique
   - Coaching
+  - Croissance
 teams:
   - /teams/dinum-incubateur
   - /teams/francetravail-animation

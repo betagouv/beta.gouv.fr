@@ -5,18 +5,18 @@ domaine: Développement
 github: pgrandne
 link: https://www.linkedin.com/in/grandne/
 competences:
+  - Administration Système
   - Data Science
   - Développement Full-stack
+  - DevOps
   - Docker
   - JavaScript/TypeScript
-  - PostgreSQL
-  - DevOps
-  - Administration Système
   - Matomo
-  - Sécurité informatique
-  - MongoDb
-  - React
+  - MongoDB
   - NextJS
+  - PostgreSQL
+  - React
+  - Sécurité informatique
 missions:
   - start: 2023-10-01
     end: 2026-06-30

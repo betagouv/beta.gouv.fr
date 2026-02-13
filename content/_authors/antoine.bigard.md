@@ -31,8 +31,8 @@ previously:
   - pop
 competences:
   - Administration Système
-  - Product strategy
   - Développement Full-stack
   - DevOps
+  - Product strategy
 link: https://www.linkedin.com/in/antoine-bigard/
 ---

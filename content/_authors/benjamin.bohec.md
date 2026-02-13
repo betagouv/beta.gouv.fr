@@ -12,13 +12,13 @@ missions:
     startups:
       - l-immersion-facile
 competences:
-  - JavaScript/TypeScript
-  - Développement Full-stack
-  - PostgreSQL
-  - Metabase
-  - Matomo
   - Développement Backend
   - Développement Frontend
+  - Développement Full-stack
   - DevOps
+  - JavaScript/TypeScript
+  - Matomo
+  - Metabase
+  - PostgreSQL
 ---
 Développeur TS Fullstack. ATDD / Architecture Hexagonale

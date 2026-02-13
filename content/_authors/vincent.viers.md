@@ -42,15 +42,15 @@ missions:
     startups:
       - infomedicament
 competences:
-  - Intrapreneur(se)
-  - Product design
+  - Administration Publique
+  - Coaching
   - Data Science
   - Développement Backend
+  - Intrapreneur(se)
   - Machine learning
   - Metabase
   - PostgreSQL
+  - Product design
   - Python
-  - Administration Publique
-  - Coaching
 ---
 Data Dévelopeur & coach

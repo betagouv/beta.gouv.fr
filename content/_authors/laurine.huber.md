@@ -20,11 +20,11 @@ missions:
 badges:
   - segur
 competences:
-  - Metabase
   - Data Science
   - dbt
-  - Python
   - Matomo
+  - Metabase
   - PostgreSQL
+  - Python
 ---
 Happy Data Analyste et NLPyste :D

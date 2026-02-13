@@ -15,10 +15,10 @@ missions:
       - vie.chere
 memberType: dinum
 competences:
-  - UX
-  - UI
-  - Product design
   - Facilitation
+  - Product design
+  - UI
+  - UX
 teams:
   - /teams/lab-mi
 ---

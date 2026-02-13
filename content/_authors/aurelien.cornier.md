@@ -9,10 +9,10 @@ missions:
     startups:
       - pv.facile
 competences:
-  - Intrapreneur(se)
+  - Agrivoltaïque
   - DDT 16
   - Énergies renouvelables
+  - Intrapreneur(se)
   - Photovoltaïque
-  - Agrivoltaïque
 memberType: beta
 ---

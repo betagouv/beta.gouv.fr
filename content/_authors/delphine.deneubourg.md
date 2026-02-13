@@ -19,7 +19,7 @@ previously:
 link: https://www.linkedin.com/in/delphine-deneubourg-727014217/?originalSubdomain=fr
 competences:
   - Administration Publique
+  - Communication
   - Droit / Affaires juridiques
   - Intrapreneur(se)
-  - Communication
 ---

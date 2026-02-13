@@ -16,14 +16,14 @@ missions:
 badges:
   - segur
 competences:
-  - Développement Frontend
-  - Développement Backend
-  - UI
   - Administration Système
+  - Développement Backend
+  - Développement Frontend
   - Développement Full-stack
-  - JavaScript/TypeScript
-  - Docker
   - DevOps
+  - Docker
+  - JavaScript/TypeScript
+  - UI
 previously:
   - france-numerique-ensemble
 ---

@@ -12,6 +12,6 @@ missions:
       - aides-territoires
       - deveco
 competences:
-  - Communication
   - Administration Publique
+  - Communication
 ---

@@ -13,7 +13,7 @@ badges:
   - segur
 memberType: beta
 competences:
-  - Product strategy
   - Communication
+  - Product strategy
 ---
 Un peu de lecture, un peu beaucoup d'escalade, quelques balades, et une quantité variable de discussion sur tout et rien ! 

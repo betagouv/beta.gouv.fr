@@ -11,10 +11,10 @@ missions:
       - bat-id
 memberType: beta
 competences:
+  - Accessibilité
+  - Coaching
   - Croissance
   - Facilitation
   - Product strategy
-  - Coaching
-  - Accessibilité
   - UX
 ---

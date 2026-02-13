@@ -11,6 +11,6 @@ missions:
     startups:
       - territoires-en-transitions
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---

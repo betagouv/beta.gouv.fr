@@ -31,7 +31,7 @@ missions:
 badges:
   - segur
 competences:
-  - Gestion de Produit
   - Communication
+  - Gestion de Produit
 ---
 Passionnée par l'innovation sous toutes ses FoRmEs

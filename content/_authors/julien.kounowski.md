@@ -25,9 +25,9 @@ badges:
   - segur
 competences:
   - Administration Publique
+  - Croissance
   - Facilitation
   - Intrapreneur(se)
-  - Croissance
   - Product strategy
 memberType: beta
 link: https://www.linkedin.com/in/kounowski-julien-64885825/

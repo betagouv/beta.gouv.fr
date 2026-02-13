@@ -12,8 +12,8 @@ missions:
       - dora
 memberType: autre
 competences:
+  - Accessibilité
   - Développement Full-stack
   - JavaScript/TypeScript
   - Python
-  - Accessibilité
 ---

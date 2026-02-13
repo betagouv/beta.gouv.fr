@@ -3,16 +3,16 @@ fullname: Michaël NASS
 role: Ingénieur Full-Stack et Lead Dev
 domaine: Développement
 competences:
-  - Développement Full-stack
+  - Administration Système
   - Développement Backend
   - Développement Frontend
-  - Python
-  - PostgreSQL
-  - PHP
-  - JavaScript/TypeScript
+  - Développement Full-stack
   - DevOps
   - Docker
-  - Administration Système
+  - JavaScript/TypeScript
+  - PHP
+  - PostgreSQL
+  - Python
 missions:
   - start: 2024-11-20
     end: 2026-05-01

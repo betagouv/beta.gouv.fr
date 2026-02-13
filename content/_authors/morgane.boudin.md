@@ -12,7 +12,7 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/morgane-boudin/
 competences:
-  - UX
-  - UI
   - Product design
+  - UI
+  - UX
 ---

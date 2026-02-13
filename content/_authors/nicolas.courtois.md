@@ -37,9 +37,9 @@ missions:
     startups:
       - je-deviens-etudiant
 competences:
-  - UX
   - Figma
-  - UI
   - Product design
+  - UI
+  - UX
 ---
 UX/UI Designer

@@ -10,7 +10,7 @@ missions:
     startups:
       - les-emplois
 competences:
-  - UX
   - UI
+  - UX
 ---
 UI/UX  designer 

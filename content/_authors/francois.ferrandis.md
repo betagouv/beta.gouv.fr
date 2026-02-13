@@ -11,11 +11,11 @@ missions:
     startups:
       - rdv-service-public
 competences:
-  - Ruby
   - Développement Backend
   - Développement Full-stack
   - Metabase
   - PostgreSQL
+  - Ruby
   - Sécurité informatique
 ---
 Développeur web

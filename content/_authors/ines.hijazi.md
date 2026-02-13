@@ -43,9 +43,9 @@ badges:
 teams:
   - /teams/gip-inclusion-developpement
 competences:
-  - Facilitation
-  - Product strategy
   - Administration Publique
   - Coaching
   - Communication
+  - Facilitation
+  - Product strategy
 ---

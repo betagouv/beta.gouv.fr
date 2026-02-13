@@ -18,7 +18,7 @@ missions:
 memberType: autre
 link: https://www.linkedin.com/in/perrine-croix/
 competences:
+  - Accessibilité
   - Product design
   - UX
-  - Accessibilité
 ---

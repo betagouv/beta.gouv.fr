@@ -13,10 +13,10 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/alan-zirek/
 competences:
+  - Communication
   - Développement Backend
   - Développement Full-stack
   - JavaScript/TypeScript
   - PostgreSQL
   - Python
-  - Communication
 ---

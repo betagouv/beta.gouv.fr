@@ -5,11 +5,11 @@ domaine: Développement
 github: e-lie
 link: https://eliegavoty.xyz
 competences:
+  - Administration Système
+  - Développement Full-stack
   - DevOps
   - Kubernetes
   - Python
-  - Développement Full-stack
-  - Administration Système
 missions:
   - start: 2024-09-16
     end: 2024-12-31

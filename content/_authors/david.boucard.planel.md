@@ -12,9 +12,9 @@ missions:
       - dossierfacile
 memberType: autre
 competences:
-  - Product strategy
-  - Product design
-  - Croissance
   - Coaching
+  - Croissance
+  - Product design
+  - Product strategy
 ---
 CPO Freelance & Coach Product, spécialiste du lancement de nouveaux produits digitaux. Mon mantra: utiliser la tech pour créer des services qui ont un impact positif.

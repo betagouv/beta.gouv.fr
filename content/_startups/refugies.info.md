@@ -21,6 +21,8 @@ thematiques:
   - Social
   - Administratif
   - Santé
+  - Travail / Emploi
+  - Logement
 events:
   - name: fast
     date: 2024-01-01
@@ -46,7 +48,7 @@ impact_url: https://docs.numerique.gouv.fr/docs/a22e78b0-5d1b-4b0a-9c7f-94ec6282
 ## Contexte et enjeu de politique publique
 
 Lors de son discours du 27 juillet 2017 à Orléans, **le Président de la République a fait état de son attachement à la tradition humaniste de la France** qui se doit d'héberger puis d'intégrer ceux qui sont venus solliciter sa protection. Ce discours a permis de témoigner à tous les acteurs qui œuvrent au quotidien **en faveur des personnes bénéficiant de protection internationale de la France (BPI) de l'engagement de l'État vers une véritable politique d'intégration.**
-#
+
 
 L'accueil des personnes réfugiées constitue un engagement républicain fondamental visant à garantir leur pleine intégration. L'accès effectif aux droits et la connaissance des devoirs forment les fondements de la cohésion nationale. **Réduire le non-recours aux droits représente donc un enjeu majeur de la politique publique d'accueil et d'intégration**.
 

@@ -16,8 +16,8 @@ previously:
   - mon.espace.collectivite
 competences:
   - Développement Full-stack
+  - JavaScript/TypeScript
   - PHP
   - PostgreSQL
-  - JavaScript/TypeScript
 ---
 Développeur mobile et web fullstack

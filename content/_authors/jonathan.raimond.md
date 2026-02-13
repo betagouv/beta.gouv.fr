@@ -15,7 +15,7 @@ missions:
 badges:
   - segur
 competences:
-  - UX
   - UI
+  - UX
 ---
 Passionné par la conception de solutions intuitives et fonctionnelles au service de l'humain.

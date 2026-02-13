@@ -33,12 +33,12 @@ previously:
   - e-inspé
 competences:
   - Développement Backend
-  - Développement Full-stack
   - Développement Frontend
+  - Développement Full-stack
   - DevOps
   - Sécurité informatique
-  - UX
   - UI
+  - UX
 link: https://www.linkedin.com/in/alemangui/
 teams:
   - /teams/agriculture-equipe-transverse

@@ -36,10 +36,10 @@ missions:
     startups:
       - csplab
 competences:
-  - Product strategy
   - Coaching
-  - Product design
   - Facilitation
+  - Product design
+  - Product strategy
   - UX
 previously:
   - attractivite.des.territoires

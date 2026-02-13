@@ -6,9 +6,9 @@ competences:
   - Développement Backend
   - Développement Frontend
   - Développement Full-stack
+  - DevOps
   - Docker
   - PostgreSQL
-  - DevOps
 missions:
   - start: 2025-11-18
     end: 2026-03-31

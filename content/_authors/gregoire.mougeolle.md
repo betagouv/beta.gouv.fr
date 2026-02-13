@@ -12,16 +12,16 @@ missions:
 memberType: autre
 competences:
   - Administration Système
+  - Développement Backend
+  - Développement Frontend
   - Développement Full-stack
   - DevOps
-  - Kubernetes
   - Docker
   - ElasticSearch
+  - JavaScript/TypeScript
+  - Kubernetes
   - Metabase
   - PostgreSQL
-  - Sécurité informatique
-  - Développement Frontend
-  - Développement Backend
-  - JavaScript/TypeScript
   - Python
+  - Sécurité informatique
 ---

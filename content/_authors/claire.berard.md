@@ -26,9 +26,9 @@ missions:
 memberType: autre
 link: https://www.linkedin.com/in/claire-berard/
 competences:
-  - Communication
-  - Coaching
   - Administration Publique
+  - Coaching
+  - Communication
 teams:
   - /teams/lab-mi
 github: clairebrrd

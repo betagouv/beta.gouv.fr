@@ -4,10 +4,10 @@ role: Responsable de contenu
 domaine: Déploiement
 link: https://www.linkedin.com/in/pierre-desaint-denis/
 competences:
-  - UX
+  - Communication
   - Product design
   - Product strategy
-  - Communication
+  - UX
 missions:
   - start: 2025-03-10
     end: 2025-10-10

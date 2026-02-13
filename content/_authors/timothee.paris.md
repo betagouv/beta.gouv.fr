@@ -4,8 +4,8 @@ role: Intrapreneur Jacepair
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/timoth%C3%A9e-paris-735319a2/
 competences:
-  - Droit / Affaires juridiques
   - Administration Publique
+  - Droit / Affaires juridiques
 missions:
   - start: 2025-09-01
     end: 2025-12-31

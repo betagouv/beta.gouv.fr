@@ -6,15 +6,15 @@ github: KGALLET
 link: https://www.linkedin.com/in/kgallet
 competences:
   - Développement Backend
-  - Développement Full-stack
   - Développement Frontend
+  - Développement Full-stack
   - DevOps
   - Docker
-  - JavaScript/TypeScript
-  - Product design
   - ElasticSearch
+  - JavaScript/TypeScript
   - Kubernetes
   - PostgreSQL
+  - Product design
   - UI
 missions:
   - start: 2024-09-17

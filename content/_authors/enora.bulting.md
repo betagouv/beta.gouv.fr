@@ -7,8 +7,8 @@ missions:
     end: 2026-04-08
     status: independent
 competences:
-  - UX
   - UI
+  - UX
 previously:
   - locadocs
 ---

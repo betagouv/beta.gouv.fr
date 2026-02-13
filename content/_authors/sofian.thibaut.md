@@ -12,7 +12,7 @@ missions:
       - mon-diagnostic-artificialisation
 competences:
   - Développement Full-stack
+  - JavaScript/TypeScript
   - UI
   - UX
-  - JavaScript/TypeScript
 ---

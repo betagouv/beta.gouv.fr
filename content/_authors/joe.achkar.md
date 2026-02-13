@@ -19,10 +19,10 @@ missions:
     startups:
       - jeveuxaider
 competences:
-  - Intrapreneur(se)
-  - Coaching
   - Administration Publique
+  - Coaching
   - Déploiement
+  - Intrapreneur(se)
 ---
 Curieux et ouvert d’esprit, je suis passionné par l’innovation, le numérique et la création de services centrés sur l’utilisateur.
 

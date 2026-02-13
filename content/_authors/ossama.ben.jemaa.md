@@ -5,13 +5,13 @@ domaine: Design
 github: ossamabenjemaa
 link: https://www.linkedin.com/in/ossamabenjemaa/
 competences:
-  - UX
-  - UI
-  - Product design
-  - Product strategy
-  - Facilitation
   - Accessibilité
   - Communication
+  - Facilitation
+  - Product design
+  - Product strategy
+  - UI
+  - UX
 missions:
   - start: 2024-12-12
     end: 2024-12-31

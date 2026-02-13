@@ -7,8 +7,8 @@ missions:
     end: 2021-09-30
     status: service
 competences:
-  - UX
   - Coaching
   - Communication
+  - UX
 ---
 Une ex-entrepreuneuse au service des autres !

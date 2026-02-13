@@ -4,8 +4,8 @@ role: responsable de la diffusion des données du GIS Sol
 domaine: Intraprenariat
 link: https://fr.linkedin.com/in/christine-le-bas-6149662b8
 competences:
-  - pédologie
   - agronomie
+  - pédologie
 missions:
   - start: 2025-02-01
     end: 2026-12-31

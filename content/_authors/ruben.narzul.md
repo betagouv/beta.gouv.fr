@@ -8,8 +8,8 @@ competences:
   - Droit / Affaires juridiques
   - Europe
   - Financement
-  - Interopérabilité
   - Inclusion numérique
+  - Interopérabilité
 missions:
   - start: 2025-01-24
     end: 2025-07-24

@@ -14,12 +14,12 @@ previously:
   - mon-recap
   - diagoriente
 competences:
-  - Product design
   - Communication
-  - Print design
-  - Identité de marque
-  - Direction artistique
   - Design
+  - Direction artistique
+  - Identité de marque
+  - Print design
+  - Product design
   - UI
   - UX
 ---

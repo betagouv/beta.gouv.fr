@@ -5,11 +5,11 @@ domaine: Développement
 github: NathanVss
 link: https://www.linkedin.com/in/nathanvss/
 competences:
-  - Développement Full-stack
-  - Développement Frontend
   - Développement Backend
-  - JavaScript/TypeScript
+  - Développement Frontend
+  - Développement Full-stack
   - Docker
+  - JavaScript/TypeScript
   - PHP
   - PostgreSQL
   - Python

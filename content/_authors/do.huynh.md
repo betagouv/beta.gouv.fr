@@ -39,9 +39,9 @@ badges:
   - segur
 link: https://www.linkedin.com/in/huynhdoo/
 competences:
+  - Data Science
   - Machine learning
   - Python
-  - Data Science
 github: huynhdoo
 ---
 Expert du machine learning et de la data-science, je modélise, explicite et intègre toutes solutions à partir de vos données métiers afin de vous faire gagner le temps utile pour ceux et celles qui comptent vraiment.

@@ -23,7 +23,7 @@ missions:
     employer: Malt
 incubator: ademe
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---
 Développeur Fullstack JS

@@ -15,7 +15,7 @@ previously:
 badges:
   - segur
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---
 Développeur full stack

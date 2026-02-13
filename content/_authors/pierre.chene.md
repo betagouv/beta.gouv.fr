@@ -5,8 +5,8 @@ domaine: Développement
 github: pierre-chene44
 link: https://www.linkedin.com/in/pierre-chéné-3234b113b
 competences:
-  - Développement Full-stack
   - Développement Backend
+  - Développement Full-stack
 missions:
   - start: 2025-12-15
     end: 2026-05-12

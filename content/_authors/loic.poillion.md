@@ -10,7 +10,7 @@ missions:
     startups:
       - signaux-faibles
 competences:
-  - Droit / Affaires juridiques
   - Administration Publique
+  - Droit / Affaires juridiques
 memberType: beta
 ---

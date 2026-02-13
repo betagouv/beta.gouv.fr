@@ -10,11 +10,11 @@ missions:
       - prelevements.deau
 github: anislerouge
 competences:
-  - Développement Full-stack
-  - DevOps
+  - Administration Système
+  - Développement
   - Développement Backend
   - Développement Frontend
-  - Développement
-  - Administration Système
+  - Développement Full-stack
+  - DevOps
 memberType: beta
 ---

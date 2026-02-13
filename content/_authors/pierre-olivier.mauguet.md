@@ -38,8 +38,8 @@ missions:
     status: admin
     employer: DGFiP
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
   - JavaScript/TypeScript
 teams:
   - /teams/fabrique-dgfip-animation

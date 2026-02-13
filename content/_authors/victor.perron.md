@@ -13,13 +13,13 @@ missions:
       - dora
       - pilotage.de.linclusion
 competences:
+  - Data Engineering
   - Développement Backend
   - Développement Frontend
   - Développement Full-stack
   - DevOps
-  - Python
   - PostgreSQL
-  - Data Engineering
+  - Python
 link: https://www.linkedin.com/in/victorperron/
 ---
 Développeur Python/Django & frontend & data engineering & devops

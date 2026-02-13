@@ -23,9 +23,9 @@ missions:
       - ma-cantine-egalim
 link: http://angi-design.fr/
 competences:
-  - UX
-  - Product design
   - Communication
+  - Product design
   - UI
+  - UX
 ---
 Service & Product designer freelance basée à Nantes, engagée dans des missions à impact et d'intérêt général. #conseil #ux #direction-créative

@@ -5,8 +5,8 @@ domaine: Développement
 github: elisfainstein
 competences:
   - Développement Full-stack
-  - JavaScript/TypeScript
   - java
+  - JavaScript/TypeScript
 missions:
   - start: 2024-09-09
     end: 2025-10-31

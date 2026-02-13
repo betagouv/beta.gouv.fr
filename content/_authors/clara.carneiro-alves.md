@@ -4,13 +4,13 @@ role: Designer pour NOMAD (UX/UI + aménagement des espaces)
 domaine: Design
 link: https://www.linkedin.com/in/clara-bastide-alves-158b7bb5/
 competences:
-  - Product design
+  - Accessibilité
+  - Communication
   - Facilitation
   - Intrapreneur(se)
-  - UX
+  - Product design
   - UI
-  - Communication
-  - Accessibilité
+  - UX
 missions:
   - start: 2022-09-12
     end: 2027-11-30

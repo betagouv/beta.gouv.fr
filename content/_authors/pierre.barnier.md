@@ -4,9 +4,9 @@ role: Bizdev expérimenté
 domaine: Déploiement
 link: https://www.linkedin.com/in/pierrebarnier
 competences:
+  - Communication
   - Croissance
   - Facilitation
-  - Communication
 missions:
   - start: 2025-12-04
     end: 2026-06-04

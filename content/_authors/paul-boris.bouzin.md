@@ -13,10 +13,10 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/pbbouzin/
 competences:
-  - Déploiement
   - Acquisition
   - Activation
   - Adoption
+  - Déploiement
   - Support
 ---
 Déploiement et support usagers.

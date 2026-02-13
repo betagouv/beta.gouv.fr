@@ -14,8 +14,8 @@ missions:
     employer: DINUM
 memberType: beta
 competences:
-  - Product strategy
   - Coaching
   - Intrapreneur(se)
+  - Product strategy
 ---
 Responsables de portefeuilles Vie Associative, Sport et Culture

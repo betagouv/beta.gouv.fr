@@ -11,7 +11,7 @@ missions:
       - rapportnav
 memberType: attributaire
 competences:
-  - UX
-  - UI
   - Product design
+  - UI
+  - UX
 ---

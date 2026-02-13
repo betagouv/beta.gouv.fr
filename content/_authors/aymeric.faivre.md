@@ -19,6 +19,6 @@ missions:
       - classe-a-12
       - devoirs-faits-communaute
 competences:
-  - UX
   - UI
+  - UX
 ---

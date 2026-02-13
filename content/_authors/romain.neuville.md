@@ -12,8 +12,8 @@ missions:
       - rdv.insertion
 link: https://www.linkedin.com/in/romain-neuville-202839108/
 competences:
+  - Administration Système
   - Développement Full-stack
   - Ruby
-  - Administration Système
 ---
 Développeur Full Stack multi casquettes (Sys/NetAdmin, amateur de jeux de société, danseur...)

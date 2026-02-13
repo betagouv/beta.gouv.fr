@@ -20,10 +20,10 @@ competences:
   - Développement Backend
   - Développement Frontend
   - Développement Full-stack
+  - Drupal
   - JavaScript/TypeScript
   - PHP
   - PostgreSQL
-  - Drupal
 memberType: beta
 github: chloecorfmat
 link: https://www.linkedin.com/in/chloecorfmat/

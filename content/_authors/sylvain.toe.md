@@ -23,7 +23,7 @@ previously:
   - e-controle
   - aides-territoires
 competences:
-  - Développement Backend
   - Administration Système
+  - Développement Backend
   - Développement Frontend
 ---

@@ -17,7 +17,7 @@ missions:
     startups:
       - zacharie
 competences:
-  - Relation usagers
   - Croissance
+  - Relation usagers
 memberType: beta
 ---

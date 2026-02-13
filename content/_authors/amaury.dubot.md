@@ -16,7 +16,7 @@ badges:
   - segur
 competences:
   - Administration Publique
-  - Product strategy
   - Droit / Affaires juridiques
+  - Product strategy
 ---
 PM GIP Plateforme de l'inclusion

@@ -12,9 +12,9 @@ missions:
       - signaux-faibles
 memberType: beta
 competences:
+  - Développement Backend
   - DevOps
   - Docker
-  - Développement Backend
   - PostgreSQL
   - Sécurité informatique
 ---

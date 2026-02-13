@@ -6,9 +6,9 @@ github: MichelJautzy
 link: https://www.linkedin.com/in/bluesquare/
 competences:
   - Développement Full-stack
+  - JavaScript/TypeScript
   - PHP
   - Python
-  - JavaScript/TypeScript
 missions:
   - start: 2025-08-27
     end: 2025-12-31

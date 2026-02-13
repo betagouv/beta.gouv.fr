@@ -24,13 +24,13 @@ missions:
 previously:
   - camino
 competences:
+  - Coaching
+  - Facilitation
+  - Metabase
   - Product design
   - Product strategy
-  - UX
-  - Metabase
-  - Facilitation
-  - Coaching
   - UI
+  - UX
 link: https://www.linkedin.com/in/annalouis/
 ---
 - Senior PM Freelance, ex @Deezer, @Mindsay

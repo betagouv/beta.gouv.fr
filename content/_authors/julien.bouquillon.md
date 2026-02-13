@@ -26,8 +26,8 @@ teams:
 competences:
   - Développement Full-stack
   - DevOps
-  - PostgreSQL
   - JavaScript/TypeScript
+  - PostgreSQL
   - Python
 ---
 Make it work, make it right, make it fast.

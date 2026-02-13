@@ -17,7 +17,7 @@ previously:
   - trackdechets
   - kelrisks
 competences:
-  - UX
-  - Gestion de Produit
   - Croissance
+  - Gestion de Produit
+  - UX
 ---

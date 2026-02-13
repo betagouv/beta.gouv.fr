@@ -5,9 +5,9 @@ domaine: Design
 github: ShallowRed
 link: https://www.linkedin.com/in/lucas-poulain-81a229171/
 competences:
-  - UX
-  - UI
   - Développement Frontend
+  - UI
+  - UX
 missions:
   - start: 2024-12-09
     end: 2026-06-30

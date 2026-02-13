@@ -4,10 +4,10 @@ role: Cheffe de Projet France Travail x Bénéficiaires RSA
 domaine: Déploiement
 link: https://www.linkedin.com/in/lauren-miller-4b8aa577/
 competences:
-  - Facilitation
-  - Croissance
   - Coaching
   - Communication
+  - Croissance
+  - Facilitation
 missions:
   - start: 2025-06-30
     end: 2026-06-30

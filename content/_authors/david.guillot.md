@@ -6,8 +6,8 @@ github: David-Guillot
 link: https://david.guillot.me/
 competences:
   - Développement Full-stack
-  - Python
   - PostgreSQL
+  - Python
 missions:
   - start: 2025-01-22
     end: 2026-03-31

@@ -15,8 +15,8 @@ competences:
   - Data Science
   - Développement Backend
   - Machine learning
+  - Metabase
   - PostgreSQL
   - Python
-  - Metabase
 memberType: beta
 ---

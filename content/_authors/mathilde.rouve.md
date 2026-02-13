@@ -11,11 +11,11 @@ missions:
       - civil.ia
 link: https://www.linkedin.com/in/mathilde-rouve/
 competences:
-  - UX
-  - Product design
-  - Facilitation
-  - Product strategy
   - Accessibilité
+  - Facilitation
+  - Product design
+  - Product strategy
   - UI
+  - UX
 memberType: beta
 ---

@@ -13,9 +13,9 @@ missions:
       - suite-numerique
 memberType: beta
 competences:
-  - Data Science
   - Administration Publique
   - Croissance
+  - Data Science
   - Machine learning
   - Product strategy
 ---

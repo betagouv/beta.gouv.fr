@@ -21,9 +21,9 @@ missions:
 teams:
   - /teams/dinum-incubateur
 competences:
-  - UX
   - Coaching
   - Croissance
   - Gestion de Produit
+  - UX
 ---
 Looking for problems worth solving

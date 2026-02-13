@@ -10,7 +10,7 @@ missions:
     startups:
       - refugies.info
 competences:
-  - UX
   - Product strategy
+  - UX
 memberType: beta
 ---

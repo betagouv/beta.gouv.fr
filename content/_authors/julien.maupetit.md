@@ -19,12 +19,12 @@ missions:
       - csplab
 memberType: beta
 competences:
-  - DevOps
-  - Kubernetes
-  - Python
+  - Data Science
   - Développement Backend
+  - DevOps
   - Docker
   - ElasticSearch
-  - Data Science
+  - Kubernetes
   - PostgreSQL
+  - Python
 ---

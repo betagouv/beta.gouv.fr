@@ -14,7 +14,7 @@ memberType: beta
 link: https://www.linkedin.com/in/coline-lebaratoux
 competences:
   - Product design
-  - UX
   - UI
+  - UX
 ---
 Designer d'expériences engagées

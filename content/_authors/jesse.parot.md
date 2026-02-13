@@ -4,13 +4,13 @@ role: Coach
 domaine: Coaching
 link: https://linkedin.com/in/jesse-parot
 competences:
-  - Facilitation
+  - Coaching
   - Croissance
+  - Facilitation
   - Product design
   - Product strategy
-  - UX
   - UI
-  - Coaching
+  - UX
 missions:
   - start: 2025-09-23
     end: 2026-04-06

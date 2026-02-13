@@ -3,8 +3,8 @@ fullname: Alexia Buclet
 role: Product Owner
 domaine: Produit
 competences:
-  - UX
   - Product strategy
+  - UX
 missions:
   - start: 2025-10-14
     end: 2026-04-30

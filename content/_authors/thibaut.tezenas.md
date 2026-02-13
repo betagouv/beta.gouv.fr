@@ -13,6 +13,6 @@ missions:
       - transition-ecologique-des-entreprises
 memberType: beta
 competences:
-  - Développement Full-stack
   - Data Science
+  - Développement Full-stack
 ---

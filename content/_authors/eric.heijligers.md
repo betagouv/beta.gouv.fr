@@ -55,7 +55,7 @@ missions:
     status: admin
     employer: DINUM
 competences:
-  - Gestion de Produit
   - Administration Publique
   - Coaching
+  - Gestion de Produit
 ---

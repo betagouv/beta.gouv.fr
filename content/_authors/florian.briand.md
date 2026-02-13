@@ -28,10 +28,10 @@ missions:
       - romin
 competences:
   - Coaching
-  - Gestion de Produit
-  - Facilitation
-  - Product strategy
   - Développement Full-stack
+  - Facilitation
+  - Gestion de Produit
+  - Product strategy
 link: https://www.linkedin.com/in/florianbriand
 ---
 Mon parcours assez diversifié (bioinformaticien, développeur dans des startups de santé, entrepreneur ...) m'offre aujourd'hui un recul et des méthodes de travail qui me permettent de contribuer à faire avancer des projets qui ont du sens pour moi.

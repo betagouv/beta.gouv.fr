@@ -16,8 +16,8 @@ competences:
   - Développement Backend
   - Développement Frontend
   - Développement Full-stack
-  - JavaScript/TypeScript
   - DevOps
+  - JavaScript/TypeScript
   - PHP
 ---
 J’écris du code comme un artisan façonne son ouvrage : avec soin, exigence et le souci du détail. Pas pour faire joli, mais pour qu’il serve, dure et s’adapte. Après 20 ans à construire des logiciels, je sais que la vraie performance, c’est celle qui a du sens et de l’impact.

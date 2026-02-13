@@ -6,8 +6,8 @@ github: Luzzzi
 link: https://www.linkedin.com/in/laportelucie/
 competences:
   - Développement Full-stack
-  - Python
   - PostgreSQL
+  - Python
 missions:
   - start: 2025-05-20
     end: 2026-03-31

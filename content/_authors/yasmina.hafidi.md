@@ -38,8 +38,8 @@ missions:
     startups:
       - services-web-anct
 competences:
-  - Intrapreneur(se)
   - Administration Publique
+  - Intrapreneur(se)
 teams:
   - /teams/anct
 link: https://www.linkedin.com/feed/

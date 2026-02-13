@@ -12,10 +12,10 @@ missions:
       - mon-suivi-social
 link: https://www.linkedin.com/in/laetitia-langlois/
 competences:
-  - Développement Frontend
-  - JavaScript/TypeScript
-  - Développement Full-stack
   - Accessibilité
+  - Développement Frontend
+  - Développement Full-stack
+  - JavaScript/TypeScript
 memberType: beta
 ---
 Développeuse <3 front-end et accessibilité. Je travaille pour des projets qui transforment la société de manière positive.

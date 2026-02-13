@@ -11,6 +11,6 @@ missions:
       - civil.ia
 memberType: beta
 competences:
-  - Intrapreneur(se)
   - Agilité
+  - Intrapreneur(se)
 ---

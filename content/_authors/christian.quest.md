@@ -28,8 +28,8 @@ link: https://www.linkedin.com/in/cquest/
 competences:
   - Administration Publique
   - Administration Système
-  - PostgreSQL
   - Data Science
+  - PostgreSQL
 teams:
   - /teams/fab-geocommuns
 ---

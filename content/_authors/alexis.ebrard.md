@@ -3,14 +3,14 @@ fullname: Alexis Ebrard
 role: Développeur Fullstack à Fondation
 domaine: Développement
 competences:
-  - SEO
   - Accessibilité
   - Développement Full-stack
   - Docker
+  - JavaScript/TypeScript
   - Kubernetes
   - PostgreSQL
+  - SEO
   - UI
-  - JavaScript/TypeScript
 missions:
   - start: 2025-03-25
     end: 2026-07-28

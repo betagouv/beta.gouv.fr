@@ -11,11 +11,11 @@ missions:
       - precontentieux.justice
 link: https://www.linkedin.com/in/st%C3%A9phane-tran/
 competences:
+  - Accessibilité
   - Développement Backend
   - Développement Frontend
   - Développement Full-stack
   - DevOps
-  - Accessibilité
   - Docker
   - JavaScript/TypeScript
   - PHP

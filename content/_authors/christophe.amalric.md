@@ -15,11 +15,11 @@ previously:
 badges:
   - segur
 competences:
-  - UX
-  - UI
   - Coaching
-  - Gestion de Produit
   - Communication
   - Croissance
+  - Gestion de Produit
+  - UI
+  - UX
 ---
 Papa (x2), Product Management, Course à pieds, Voyageur (23/197) 🚀 ✈️

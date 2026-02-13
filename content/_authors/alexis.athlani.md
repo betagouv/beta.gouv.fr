@@ -5,7 +5,7 @@ domaine: Développement
 github: alexisig
 missions:
   - start: 2023-10-17
-    end: 2026-03-15
+    end: 2026-07-01
     status: independent
     employer: telescoop
     startups:
@@ -17,7 +17,7 @@ competences:
   - DevOps
   - JavaScript/TypeScript
   - PostgreSQL
-  - Python
   - Product strategy
+  - Python
 link: https://www.linkedin.com/in/alexisathlani/
 ---

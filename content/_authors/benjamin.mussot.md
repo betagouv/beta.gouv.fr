@@ -9,9 +9,9 @@ missions:
     employer: Numa
 link: https://www.linkedin.com/in/benjamin-mussot-51ab5019/
 competences:
-  - Facilitation
-  - Croissance
   - Coaching
+  - Croissance
+  - Facilitation
   - Intrapreneur(se)
   - Product design
 memberType: autre

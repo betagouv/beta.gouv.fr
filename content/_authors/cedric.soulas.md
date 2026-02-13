@@ -22,7 +22,7 @@ missions:
     startups:
       - mission-transition-ecologique
   - start: 2024-10-25
-    end: 2026-02-28
+    end: 2026-03-31
     status: independent
     employer: Malt
     startups:

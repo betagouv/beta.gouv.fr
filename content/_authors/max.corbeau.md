@@ -5,11 +5,11 @@ domaine: Data
 github: maxcorbeau
 link: https://www.linkedin.com/in/maxcorbeau/
 competences:
-  - Développement Backend
-  - Metabase
   - Data Science
+  - Développement Backend
   - Docker
   - ElasticSearch
+  - Metabase
   - PostgreSQL
   - Python
   - Sécurité informatique

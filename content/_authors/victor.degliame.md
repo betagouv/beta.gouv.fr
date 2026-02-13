@@ -12,9 +12,9 @@ link: https://www.linkedin.com/in/victordegliame/
 competences:
   - Data Science
   - Développement Backend
+  - Elixir
   - Machine learning
   - PostgreSQL
   - Python
-  - Elixir
 ---
 Études à EPITA, backend engineer pendant 9 ans principalement aux US, ingénieur Data/IA depuis 2 ans.

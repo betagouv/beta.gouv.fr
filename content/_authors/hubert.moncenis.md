@@ -12,11 +12,11 @@ missions:
       - potentiel
 link: https://hubbb.dev/
 competences:
-  - Développement Full-stack
-  - UI
-  - JavaScript/TypeScript
-  - PostgreSQL
   - Développement Backend
   - Développement Frontend
+  - Développement Full-stack
+  - JavaScript/TypeScript
   - Metabase
+  - PostgreSQL
+  - UI
 ---

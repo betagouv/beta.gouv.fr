@@ -32,6 +32,6 @@ missions:
     startups:
       - vigieau
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---

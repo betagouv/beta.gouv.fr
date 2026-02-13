@@ -12,17 +12,17 @@ memberType: beta
 github: Numero7
 link: https://www.labri.fr/perso/gimbert
 competences:
-  - Intrapreneur(se)
   - Data Science
   - Développement Full-stack
   - DevOps
   - Docker
+  - Facilitation
+  - Intrapreneur(se)
   - JavaScript/TypeScript
-  - PHP
   - Machine learning
   - Matomo
+  - PHP
   - PostgreSQL
   - Python
-  - Facilitation
 ---
 Hugo Gimbert est chercheur en informatique au CNRS et chargé de mission auprès du MESR.

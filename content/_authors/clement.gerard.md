@@ -3,11 +3,11 @@ fullname: Clément GERARD
 role: Product Owner
 domaine: Produit
 competences:
-  - Product strategy
   - Facilitation
+  - Product design
+  - Product strategy
   - UI
   - UX
-  - Product design
 missions:
   - start: 2024-07-01
     end: 2026-02-01

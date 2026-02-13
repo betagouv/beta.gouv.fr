@@ -20,11 +20,11 @@ missions:
 previously:
   - pilotage.de.linclusion
 competences:
-  - Product design
-  - UX
-  - UI
   - Accessibilité
   - Facilitation
+  - Product design
   - Product strategy
+  - UI
+  - UX
 ---
 Je gère l'étude et la conception de produit numérique.

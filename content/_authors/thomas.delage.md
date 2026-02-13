@@ -13,8 +13,8 @@ memberType: beta
 competences:
   - Communication
   - Croissance
-  - SEO
-  - SEM
   - Metabase
+  - SEM
+  - SEO
 link: https://www.linkedin.com/in/thomasdelage/
 ---

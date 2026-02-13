@@ -39,6 +39,6 @@ missions:
     startups:
       - donnees-spectacle
 competences:
-  - Gestion de Produit
   - Croissance
+  - Gestion de Produit
 ---

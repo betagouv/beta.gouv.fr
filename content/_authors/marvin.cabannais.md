@@ -11,7 +11,7 @@ missions:
     startups:
       - monstage
 competences:
-  - UX
-  - UI
   - Communication
+  - UI
+  - UX
 ---

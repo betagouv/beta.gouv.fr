@@ -6,9 +6,9 @@ github: fbullier
 link: https://www.linkedin.com/in/francoisbullier/
 competences:
   - Data Science
+  - Docker
   - Machine learning
   - Python
-  - Docker
 missions:
   - start: 2026-01-22
     end: 2026-04-30

@@ -18,11 +18,11 @@ badges:
 competences:
   - Développement Backend
   - Développement Frontend
-  - DevOps
   - Développement Full-stack
+  - DevOps
   - Docker
   - JavaScript/TypeScript
-  - Python
   - PostgreSQL
+  - Python
 ---
 Envie de créer pour l'interêt général

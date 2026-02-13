@@ -5,11 +5,11 @@ domaine: Développement
 github: raphael-chevallier
 link: https://www.linkedin.com/in/raphaelchevallier
 competences:
+  - Android
   - Développement Backend
   - Développement Frontend
   - Développement Full-stack
   - JavaScript/TypeScript
-  - Android
   - Rust
 missions:
   - start: 2025-07-07

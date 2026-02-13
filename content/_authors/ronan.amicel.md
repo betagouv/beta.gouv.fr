@@ -19,9 +19,9 @@ missions:
     startups:
       - données-et-territoires
 competences:
-  - Développement Full-stack
   - Développement Backend
-  - Python
+  - Développement Full-stack
   - PostgreSQL
+  - Python
 github: ronnix
 ---

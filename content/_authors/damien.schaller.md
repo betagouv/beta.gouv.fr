@@ -11,7 +11,7 @@ missions:
     startups:
       - chauffage-urbain
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---
 Développeur

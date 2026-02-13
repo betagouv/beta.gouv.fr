@@ -4,12 +4,12 @@ role: EIG - CPO / Directeur Produit
 domaine: Produit
 link: https://www.linkedin.com/in/raphaelbourreau/
 competences:
-  - Product strategy
   - Coaching
   - Croissance
-  - UX
-  - Product design
   - Facilitation
+  - Product design
+  - Product strategy
+  - UX
 missions:
   - start: 2025-02-01
     end: 2027-01-31

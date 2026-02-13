@@ -11,10 +11,10 @@ missions:
     startups:
       - espace.sur.demande
 competences:
-  - Développement Frontend
   - Développement Backend
-  - JavaScript/TypeScript
+  - Développement Frontend
   - Développement Full-stack
+  - JavaScript/TypeScript
 memberType: beta
 role: Développeur Full-Stack
 ---

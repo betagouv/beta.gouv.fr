@@ -12,7 +12,7 @@ missions:
 memberType: beta
 competences:
   - Développement Backend
-  - Python
   - PostgreSQL
+  - Python
 link: https://www.linkedin.com/in/fseguin/
 ---

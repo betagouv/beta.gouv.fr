@@ -4,8 +4,8 @@ role: Développeur
 domaine: Développement
 competences:
   - Développement Backend
-  - Développement Full-stack
   - Développement Frontend
+  - Développement Full-stack
   - DevOps
 missions:
   - start: 2025-09-05

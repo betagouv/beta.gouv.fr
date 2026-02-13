@@ -13,9 +13,9 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/redwanezafari/
 competences:
-  - Développement Full-stack
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
+  - Développement Full-stack
   - JavaScript/TypeScript
   - PostgreSQL
 ---

@@ -43,11 +43,11 @@ badges:
   - segur
 domaine: Intraprenariat
 competences:
-  - Coaching
-  - Gestion de Produit
   - Administration Système
-  - Développement Frontend
+  - Coaching
   - Développement Backend
+  - Développement Frontend
+  - Gestion de Produit
   - Sécurité informatique
 ---
 Chercheur en simplicité

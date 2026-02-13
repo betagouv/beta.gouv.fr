@@ -24,9 +24,9 @@ missions:
     startups:
       - seves
 competences:
-  - UX
-  - UI
-  - Product design
-  - Facilitation
   - Accessibilité
+  - Facilitation
+  - Product design
+  - UI
+  - UX
 ---

@@ -3,14 +3,14 @@ fullname: Noël Cellarier
 role: Chargé de mission SI
 domaine: Intraprenariat
 competences:
-  - Intrapreneur(se)
-  - Développement Full-stack
-  - PHP
-  - Python
-  - PostgreSQL
-  - JavaScript/TypeScript
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
+  - Développement Full-stack
+  - Intrapreneur(se)
+  - JavaScript/TypeScript
+  - PHP
+  - PostgreSQL
+  - Python
   - UX
 missions:
   - start: 2025-04-29

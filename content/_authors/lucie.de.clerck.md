@@ -5,8 +5,8 @@ domaine: Coaching
 link: https://www.linkedin.com/in/luciedeclerck/?originalSubdomain=fr
 competences:
   - Coaching
-  - Croissance
   - Communication
+  - Croissance
 missions:
   - start: 2024-09-02
     end: 2025-03-31

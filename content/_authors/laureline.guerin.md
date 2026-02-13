@@ -4,9 +4,9 @@ role: Développeuse
 domaine: Développement
 github: zebuline
 competences:
-  - Python
   - Développement Backend
   - Django
+  - Python
 missions:
   - start: 2025-09-01
     end: 2026-06-30

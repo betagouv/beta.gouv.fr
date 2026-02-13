@@ -3,9 +3,9 @@ fullname: Christophe Chausse
 role: Intrapreneur produits au sein de La Suite numérique
 domaine: Intraprenariat
 competences:
-  - Intrapreneur(se)
   - Administration Publique
   - Droit / Affaires juridiques
+  - Intrapreneur(se)
 missions:
   - start: 2023-09-01
     end: 2026-12-31

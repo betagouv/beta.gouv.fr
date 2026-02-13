@@ -23,9 +23,9 @@ previously:
 badges:
   - segur
 competences:
-  - UX
-  - UI
   - Product design
   - Product strategy
+  - UI
+  - UX
 ---
 Recherche utilisateurs, prototype & design d'interfaces

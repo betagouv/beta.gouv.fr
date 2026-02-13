@@ -12,7 +12,7 @@ missions:
       - 1000.jours
       - 1000.premiers.jours.blues
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---
 Développeur mobile nantais (mais normand pure souche :D )

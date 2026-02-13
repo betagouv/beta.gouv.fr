@@ -11,7 +11,7 @@ missions:
     startups:
       - resorption-bidonvilles
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
   - Gestion de Produit
 ---

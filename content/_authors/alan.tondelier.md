@@ -5,13 +5,13 @@ domaine: Développement
 github: Alan-221b
 link: https://www.linkedin.com/in/alan-tondelier/
 competences:
-  - Développement Full-stack
   - Développement Backend
-  - JavaScript/TypeScript
   - Développement Frontend
-  - PHP
-  - Facilitation
+  - Développement Full-stack
   - Drupal
+  - Facilitation
+  - JavaScript/TypeScript
+  - PHP
 missions:
   - start: 2024-10-01
     end: 2026-04-05

@@ -4,8 +4,8 @@ role: Chargé de déploiement et Conseiller performance et rénovation énergét
 domaine: Déploiement
 link: https://www.linkedin.com/in/clément-brondolin
 competences:
-  - Croissance
   - Communication
+  - Croissance
 missions:
   - start: 2024-09-05
     end: 2024-12-31

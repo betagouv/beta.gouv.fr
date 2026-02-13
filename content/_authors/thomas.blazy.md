@@ -11,8 +11,8 @@ memberType: beta
 badges:
   - segur
 competences:
-  - Gestion de Produit
   - Coaching
   - Communication
   - Croissance
+  - Gestion de Produit
 ---

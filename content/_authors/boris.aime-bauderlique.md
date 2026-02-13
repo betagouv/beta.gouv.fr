@@ -4,8 +4,8 @@ role: 'Déploiement / Communication '
 domaine: Déploiement
 link: https://boris-aimebauderlique.fr/expertises/beta-gouv/france-vae-charge-de-deploiement/
 competences:
-  - Croissance
   - Communication
+  - Croissance
   - Product strategy
 missions:
   - start: 2024-09-17

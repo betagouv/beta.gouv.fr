@@ -13,7 +13,7 @@ previously:
   - candilib
   - basegun
 competences:
-  - Développement Frontend
-  - Développement Backend
   - Agilité
+  - Développement Backend
+  - Développement Frontend
 ---

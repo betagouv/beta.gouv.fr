@@ -4,8 +4,8 @@ role: Product Owner de la squad Régionalisation & Run
 domaine: Produit
 link: https://www.linkedin.com/in/thomasguenard/
 competences:
-  - Product strategy
   - Communication
+  - Product strategy
 missions:
   - start: 2024-08-28
     end: 2025-12-31

@@ -20,9 +20,9 @@ badges:
   - segur
 competences:
   - Communication
-  - Facilitation
   - Croissance
   - Déploiement
+  - Facilitation
 link: https://www.linkedin.com/in/rodolphe-gagetta-401764a8/
 ---
 Je booste la com des structures engagées. Actuellement pour Transition Écologique des Entreprises.

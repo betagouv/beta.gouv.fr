@@ -6,8 +6,8 @@ github: Matteo-OCTO
 link: https://www.linkedin.com/in/matteo-leclercq/
 competences:
   - Développement Frontend
-  - JavaScript/TypeScript
   - Développement Full-stack
+  - JavaScript/TypeScript
 missions:
   - start: 2024-11-27
     end: 2025-12-31

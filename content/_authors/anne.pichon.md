@@ -26,10 +26,10 @@ missions:
     status: admin
     employer: Ministère de l'agriculture
 competences:
-  - Product strategy
   - Coaching
   - Facilitation
   - Product design
+  - Product strategy
 teams:
   - /teams/agriculture-equipe-transverse
 ---

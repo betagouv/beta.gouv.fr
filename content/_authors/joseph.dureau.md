@@ -3,8 +3,8 @@ fullname: Joseph Dureau
 role: CTO
 domaine: Développement
 competences:
-  - Machine learning
   - Data Science
+  - Machine learning
 missions:
   - start: 2025-09-01
     end: 2026-08-31

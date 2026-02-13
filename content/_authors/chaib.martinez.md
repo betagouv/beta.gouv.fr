@@ -53,17 +53,17 @@ badges:
 domaine: Coaching
 competences:
   - Coaching
-  - Gestion de Produit
-  - Développement Frontend
-  - SEO
-  - Product strategy
-  - PHP
-  - SEM
-  - Matomo
-  - Metabase
   - Communication
   - Croissance
+  - Développement Frontend
+  - Gestion de Produit
   - Intrapreneur(se)
+  - Matomo
+  - Metabase
+  - PHP
+  - Product strategy
+  - SEM
+  - SEO
 teams:
   - /teams/fast-dinum
 ---

@@ -5,10 +5,10 @@ domaine: Développement
 github: nicolasabrn
 link: https://www.linkedin.com/in/nicolas-aubrun/
 competences:
-  - Product strategy
   - Développement Full-stack
-  - PHP
   - Metabase
+  - PHP
+  - Product strategy
 missions:
   - start: 2025-01-20
     end: 2026-01-19

@@ -10,7 +10,7 @@ missions:
     startups:
       - partaj
 competences:
-  - Gestion de Produit
   - Administration Publique
+  - Gestion de Produit
 ---
 Rendre le droit plus accessible !

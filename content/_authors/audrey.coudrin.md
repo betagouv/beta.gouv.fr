@@ -4,10 +4,10 @@ role: UX / UI Designer
 domaine: Design
 link: https://www.linkedin.com/in/audrey-coudrin-0689b892/
 competences:
-  - UX
-  - Product design
   - Facilitation
+  - Product design
   - UI
+  - UX
 missions:
   - start: 2024-12-09
     end: 2025-10-31

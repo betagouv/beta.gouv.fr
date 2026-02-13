@@ -19,7 +19,7 @@ missions:
       - maestro
 competences:
   - Développement Full-stack
-  - JavaScript/TypeScript
   - Docker
+  - JavaScript/TypeScript
   - PostgreSQL
 ---

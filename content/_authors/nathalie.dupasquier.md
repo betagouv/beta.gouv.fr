@@ -12,7 +12,7 @@ missions:
     startups:
       - catalogue-apprentissage
 competences:
-  - UX
   - UI
+  - UX
 ---
 (Product) Designer.

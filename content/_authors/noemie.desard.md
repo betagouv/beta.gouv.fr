@@ -10,10 +10,10 @@ missions:
     employer: Malt
 memberType: beta
 competences:
-  - UX
-  - UI
+  - Coaching
   - Communication
   - Gestion de Produit
-  - Coaching
+  - UI
+  - UX
 ---
 UX designer

@@ -25,10 +25,10 @@ missions:
     startups:
       - codedutravail
 competences:
-  - UX
-  - UI
+  - Accessibilité
   - Facilitation
   - Product design
-  - Accessibilité
+  - UI
+  - UX
 ---
 Lead UX Designer en freelance depuis le dernier millénaire.

@@ -13,11 +13,11 @@ missions:
       - pilotagevoiepro
 memberType: beta
 competences:
-  - Développement Full-stack
-  - PostgreSQL
-  - Développement Frontend
   - Développement Backend
-  - JavaScript/TypeScript
+  - Développement Frontend
+  - Développement Full-stack
   - Docker
+  - JavaScript/TypeScript
+  - PostgreSQL
 ---
 Dev React  NodeJS

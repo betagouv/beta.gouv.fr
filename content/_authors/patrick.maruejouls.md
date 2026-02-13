@@ -4,11 +4,11 @@ role: Designer - Product strategist
 domaine: Design
 link: https://www.linkedin.com/in/patrickmaruejouls/
 competences:
+  - Communication
+  - Facilitation
   - Product design
   - Product strategy
   - UX
-  - Communication
-  - Facilitation
 missions:
   - start: 2025-11-20
     end: 2026-06-20

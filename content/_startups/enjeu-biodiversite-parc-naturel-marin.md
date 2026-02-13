@@ -5,20 +5,20 @@ usertypes:
   - association
   - collectivite-territoriale
   - entreprise
-title: Enjeu Biodiversité Parc Naturel Marin
+title: Renforcer l'efficacité des Parcs Naturels Marins
 mission: Améliorer la prise en compte des enjeux de biodiversité dans les aires protégées
 incubator: dinum
 sponsors:
   - /organisations/office-francais-de-la-biodiversite
 phases:
   - name: investigation
-    comment: null
     start: 2026-01-01
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2026-04-01
+thematiques: []
+techno: []
+link: ''
 ---
 ## Contexte
 

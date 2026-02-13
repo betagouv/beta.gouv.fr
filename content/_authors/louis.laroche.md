@@ -23,8 +23,8 @@ missions:
       - suite-numerique
 incubator: mtes
 competences:
-  - Gestion de Produit
   - Coaching
+  - Gestion de Produit
   - Product design
 memberType: beta
 fullname: Louis Laroche

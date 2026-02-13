@@ -18,13 +18,13 @@ missions:
       - benefriches
 link: https://www.linkedin.com/in/stephane-ruhlmann/
 competences:
+  - Coaching
   - Développement
   - Développement Backend
   - Développement Frontend
   - Développement Full-stack
-  - Product strategy
-  - Coaching
   - JavaScript/TypeScript
   - Metabase
   - PostgreSQL
+  - Product strategy
 ---

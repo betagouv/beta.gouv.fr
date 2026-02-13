@@ -12,6 +12,6 @@ previously:
   - codedutravail
   - carnet.de.bord
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 ---

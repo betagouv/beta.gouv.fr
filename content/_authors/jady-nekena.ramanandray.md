@@ -15,10 +15,10 @@ missions:
 previously:
   - exposition-ij
 competences:
-  - Gestion de Produit
-  - Développement Backend
   - Analyse de données
   - Data Science
+  - Développement Backend
+  - Gestion de Produit
   - PostgreSQL
 ---
 Analyste de données le jour. Et la nuit aussi. :)

@@ -11,8 +11,8 @@ missions:
       - refugies.info
 link: https://www.linkedin.com/in/margot-gillette-349a028a/
 competences:
+  - Facilitation
   - Product design
   - UX
-  - Facilitation
 memberType: beta
 ---

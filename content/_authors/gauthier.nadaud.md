@@ -33,8 +33,8 @@ teams:
 link: http://www.linkedin.com/in/gnadaud
 competences:
   - Coaching
+  - Communication
   - Croissance
   - Product strategy
-  - Communication
 ---
 Expert FAST à la DINUM // ex CEO & Founder d'une startup d'objets connectés (Smiirl).

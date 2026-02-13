@@ -4,9 +4,9 @@ role: Intrapreneur Mon Espace Collectivités et Aides Territoires
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/beno%C3%AEt-li%C3%A9nard-0068758a/
 competences:
+  - Administration Publique
   - Intrapreneur(se)
   - Product strategy
-  - Administration Publique
 missions:
   - start: 2025-03-03
     end: 2028-02-28

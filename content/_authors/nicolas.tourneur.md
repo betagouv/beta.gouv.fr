@@ -5,7 +5,7 @@ domaine: Animation
 link: https://www.linkedin.com/in/nicolas-tourneur/
 competences:
   - Coaching
-  - ressources humaines
+  - Ressources humaines
 missions:
   - start: 2025-01-28
     end: 2026-03-31

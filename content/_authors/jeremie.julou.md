@@ -4,9 +4,9 @@ role: Coach
 domaine: Coaching
 link: https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-julou-6ba94115/
 competences:
-  - Facilitation
   - Coaching
   - Croissance
+  - Facilitation
 missions:
   - start: 2025-03-29
     end: 2026-06-30

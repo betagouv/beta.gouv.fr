@@ -13,9 +13,9 @@ missions:
 badges:
   - segur
 competences:
+  - Django
   - PHP
   - Python
-  - Django
   - Symfony
 ---
 Artisan développeur

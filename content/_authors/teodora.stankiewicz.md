@@ -13,7 +13,7 @@ missions:
 memberType: beta
 competences:
   - Product design
-  - UX
   - UI
+  - UX
 ---
 Product Designer

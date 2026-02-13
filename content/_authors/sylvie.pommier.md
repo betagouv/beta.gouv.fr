@@ -5,8 +5,8 @@ domaine: Intraprenariat
 link: https://www.linkedin.com/in/sylvie-pommier/
 competences:
   - Doctorat
-  - Recherche
   - Enseignement Supérieur
+  - Recherche
 missions:
   - start: 2025-03-28
     end: 2026-06-30

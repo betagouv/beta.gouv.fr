@@ -4,8 +4,8 @@ role: Operateur
 domaine: Autre
 link: https://www.linkedin.com/in/oliver-maunoury-1011b2172/
 competences:
-  - sav
   - opérateur
+  - sav
 missions:
   - start: 2023-08-18
     end: 2026-03-23

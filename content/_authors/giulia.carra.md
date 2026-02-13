@@ -11,8 +11,8 @@ missions:
     startups:
       - pilotage.de.linclusion
 competences:
+  - Data Science
   - Développement
   - DevOps
-  - Data Science
 memberType: beta
 ---

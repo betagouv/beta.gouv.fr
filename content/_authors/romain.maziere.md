@@ -20,13 +20,13 @@ missions:
 link: https://sigmaz-consilium.fr/
 github: rmaziere
 competences:
+  - Administration Système
   - Développement Backend
   - DevOps
-  - Administration Système
   - Docker
   - Matomo
+  - Metabase
   - PostgreSQL
   - Sécurité informatique
-  - Metabase
 memberType: beta
 ---

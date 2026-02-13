@@ -11,8 +11,8 @@ missions:
       - api-engagement
 memberType: beta
 competences:
-  - Product strategy
-  - UX
   - Croissance
   - Metabase
+  - Product strategy
+  - UX
 ---

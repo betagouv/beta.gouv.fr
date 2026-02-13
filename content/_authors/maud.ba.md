@@ -4,10 +4,10 @@ role: Data Analyst
 domaine: Data
 link: https://www.linkedin.com/in/dorisemba/
 competences:
+  - Data Science
   - Metabase
   - PostgreSQL
   - Python
-  - Data Science
 missions:
   - start: 2024-11-13
     end: 2026-03-30

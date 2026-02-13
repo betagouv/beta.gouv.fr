@@ -11,7 +11,7 @@ missions:
     startups:
       - demarches-simplifiees.fr
 competences:
-  - Gestion de Produit
   - Croissance
+  - Gestion de Produit
 ---
 Chargée de déploiement

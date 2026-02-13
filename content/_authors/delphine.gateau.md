@@ -12,7 +12,7 @@ missions:
       - tchap
 memberType: beta
 competences:
-  - Product strategy
   - Croissance
+  - Product strategy
 ---
 Responsable produit et Biz dev pour Tchap

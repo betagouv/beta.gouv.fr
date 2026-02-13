@@ -38,9 +38,9 @@ badges:
   - segur
 link: https://www.linkedin.com/in/camille-canaple/
 competences:
+  - Facilitation
   - Product design
   - Product strategy
-  - UX
   - UI
-  - Facilitation
+  - UX
 ---

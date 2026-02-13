@@ -18,7 +18,7 @@ missions:
       - seves
 memberType: beta
 competences:
-  - Python
   - Développement Backend
+  - Python
 ---
 Développeur le jour, coureur le midi, papa la nuit.

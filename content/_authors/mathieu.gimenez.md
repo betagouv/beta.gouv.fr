@@ -24,10 +24,10 @@ missions:
       - zero-logement-vacant
 memberType: dinum
 competences:
-  - Gestion de Produit
   - Coaching
-  - Product strategy
   - Facilitation
+  - Gestion de Produit
+  - Product strategy
 teams:
   - /teams/mtes
 ---

@@ -4,8 +4,8 @@ role: Développeur full-stack sur Mistral Pénal
 domaine: Développement
 link: https://www.linkedin.com/in/rvovard/
 competences:
-  - Développement Full-stack
   - Accessibilité
+  - Développement Full-stack
 missions:
   - start: 2025-08-01
     end: 2026-03-31

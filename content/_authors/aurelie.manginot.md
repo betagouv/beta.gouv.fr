@@ -19,7 +19,7 @@ missions:
       - bpco
 memberType: beta
 competences:
-  - Gestion de Produit
   - Coaching
+  - Gestion de Produit
   - UX
 ---

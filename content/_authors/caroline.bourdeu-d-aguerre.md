@@ -12,8 +12,8 @@ missions:
       - codedutravail
       - monpsy
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 previously:
   - psyenfantado
 ---

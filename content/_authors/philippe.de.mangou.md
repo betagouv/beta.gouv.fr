@@ -11,12 +11,12 @@ missions:
       - snu
 link: https://www.linkedin.com/in/philippe-de-mangou/
 competences:
-  - Product strategy
-  - Facilitation
-  - Croissance
-  - DevOps
   - Coaching
   - Communication
+  - Croissance
+  - DevOps
+  - Facilitation
+  - Product strategy
   - Sécurité informatique
 memberType: beta
 github: philippedemangoubeta

@@ -3,12 +3,12 @@ fullname: Nassim Yazi
 role: Data scientist
 domaine: Data
 competences:
-  - Python
-  - Data Science
   - Data Ingenieur
+  - Data Science
+  - Deep learning
   - Développement Backend
   - Machine learning
-  - Deep learning
+  - Python
 missions:
   - start: 2024-01-03
     end: 2025-09-15

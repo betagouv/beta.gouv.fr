@@ -22,8 +22,8 @@ missions:
       - suite.territoriale
 memberType: dinum
 competences:
-  - Développement Frontend
   - Accessibilité
+  - Développement Frontend
   - UI
   - UX
 ---

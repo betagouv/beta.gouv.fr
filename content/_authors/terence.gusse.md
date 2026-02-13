@@ -6,8 +6,8 @@ github: Quovandius
 competences:
   - Administration Système
   - Data Science
-  - DevOps
   - Développement Backend
+  - DevOps
   - Docker
   - PHP
   - PostgreSQL

@@ -32,18 +32,18 @@ missions:
 badges:
   - segur
 competences:
-  - Développement Full-stack
-  - JavaScript/TypeScript
-  - PostgreSQL
-  - Metabase
-  - Matomo
-  - UI
-  - Sécurité informatique
-  - Docker
-  - Product strategy
-  - SEO
   - Développement Backend
   - Développement Frontend
+  - Développement Full-stack
   - DevOps
+  - Docker
+  - JavaScript/TypeScript
+  - Matomo
+  - Metabase
+  - PostgreSQL
+  - Product strategy
+  - Sécurité informatique
+  - SEO
+  - UI
 ---
 Développeur

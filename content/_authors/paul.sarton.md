@@ -14,10 +14,10 @@ missions:
     startups:
       - aquaculteurs.marins
 competences:
-  - Facilitation
-  - Product strategy
   - Coaching
   - Communication
+  - Facilitation
+  - Product strategy
 memberType: beta
 link: https://www.linkedin.com/in/paul-sarton-08a99381/
 ---

@@ -34,8 +34,8 @@ missions:
     status: admin
 link: https://www.linkedin.com/in/annebecquet
 competences:
-  - Communication
-  - Product strategy
-  - Intrapreneur(se)
   - Coaching
+  - Communication
+  - Intrapreneur(se)
+  - Product strategy
 ---

@@ -31,9 +31,9 @@ missions:
     startups:
       - espace-membre
 competences:
-  - UX
-  - UI
   - Accessibilité
+  - UI
+  - UX
 teams:
   - /teams/communaute-dinum
 previously:

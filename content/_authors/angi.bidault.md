@@ -18,8 +18,8 @@ missions:
       - seves
 memberType: autre
 competences:
+  - Communication
   - Product design
   - UX
-  - Communication
 ---
 Designer basée à Nantes, spécialisée dans les missions à impact.

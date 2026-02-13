@@ -13,9 +13,9 @@ missions:
 previously:
   - france-numerique-ensemble
 competences:
+  - Développement Frontend
   - Gestion de Produit
   - UX
-  - Développement Frontend
 link: https://www.linkedin.com/in/c%C3%A9lestin-leroux-b16862124/
 ---
 préfère le savoir-faire au faire savoir

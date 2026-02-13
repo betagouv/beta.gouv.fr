@@ -22,9 +22,9 @@ previously:
   - jesaisfaire
 competences:
   - Administration Publique
-  - UX
-  - Gestion de Produit
+  - Coaching
   - Communication
   - Croissance
-  - Coaching
+  - Gestion de Produit
+  - UX
 ---

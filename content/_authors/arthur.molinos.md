@@ -11,9 +11,9 @@ missions:
       - territoires-en-transitions
 link: https://www.linkedin.com/in/arthur-molinos/
 competences:
-  - Product design
   - Développement Frontend
   - JavaScript/TypeScript
+  - Product design
   - UI
   - UX
 ---

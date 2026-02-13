@@ -10,8 +10,8 @@ missions:
 link: https://merigoux.ovh
 github: denismerigoux
 competences:
-  - Intrapreneur(se)
   - Développement Backend
+  - Intrapreneur(se)
 memberType: beta
 ---
 Chercheur à l'Institut National de Recherche en Informatique et en Automatique (INRIA), je porte le projet Catala (https://code.gouv.fr/fr/explicabilite/catala/)

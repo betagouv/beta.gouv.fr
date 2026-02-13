@@ -14,8 +14,8 @@ missions:
     end: 2025-05-14
     status: admin
 competences:
-  - Gestion de Produit
-  - Développement Backend
   - Administration Système
+  - Développement Backend
   - Développement Frontend
+  - Gestion de Produit
 ---

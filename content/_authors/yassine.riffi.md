@@ -11,14 +11,14 @@ missions:
     startups:
       - domifa
 competences:
+  - Accessibilité
+  - Angular
   - Développement Backend
   - Développement Frontend
-  - Metabase
   - Développement Full-stack
-  - PostgreSQL
-  - Angular
   - JavaScript/TypeScript
-  - Accessibilité
+  - Metabase
+  - PostgreSQL
 link: https://www.linkedin.com/in/yassiner/
 ---
 Développeur ancré dans le social depuis 10 ans ! J'apporte à la fois un regard technique, mais aussi une connaissance profonde des sujets liées à la précarité, au sans-abrisme et au monde associatif

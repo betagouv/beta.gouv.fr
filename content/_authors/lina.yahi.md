@@ -12,11 +12,11 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/lina-yahi/
 competences:
-  - Coaching
-  - Metabase
-  - Matomo
   - Accessibilité
+  - Coaching
   - Facilitation
+  - Matomo
+  - Metabase
   - Product strategy
 ---
 Ma passion est de placer les utilisateurs au cœur du produit pour façonner des solutions qui ont un impact réel, basées sur les besoins et les usages. 

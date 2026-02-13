@@ -6,10 +6,10 @@ github: dimitrivalax
 link: https://www.linkedin.com/in/dimitri-valax
 competences:
   - Développement Full-stack
-  - JavaScript/TypeScript
-  - PostgreSQL
   - Ionic
+  - JavaScript/TypeScript
   - Mobile
+  - PostgreSQL
 missions:
   - start: 2025-05-26
     end: 2026-01-07

@@ -6,11 +6,12 @@ missions:
   - start: 2022-08-05
     end: 2026-12-31
     status: admin
-    employer: DINUM/ACE/BIN
+    employer: DINUM/ASN
 link: Http://www.fr.LinkedIn/in/louis-bardon
 competences:
+  - Administration Publique
   - Coaching
   - Product strategy
-  - Administration Publique
+github: chetlouis@gmail.com
 ---
 Conseil interne, Biz dev, Avant vente, Marketing, Incubateurs, Startups d'Etat..

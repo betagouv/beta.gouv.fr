@@ -33,13 +33,13 @@ badges:
   - segur
 competences:
   - Coaching
+  - Croissance
   - Data Science
   - Facilitation
-  - SEO
-  - SEM
-  - Product strategy
-  - Metabase
   - Matomo
-  - Croissance
+  - Metabase
+  - Product strategy
+  - SEM
+  - SEO
 ---
 Coach produit : j'aime cocréer des écosystèmes humains de qualité permettant la réalisation de produit à impact.

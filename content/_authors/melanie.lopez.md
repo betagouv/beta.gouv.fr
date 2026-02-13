@@ -16,8 +16,8 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/m%C3%A9lanie-lopez-36130535/
 competences:
-  - Facilitation
   - Croissance
+  - Facilitation
   - Product strategy
 ---
 Artiste dans l'âme, sensible à la chaleur d'un sourire solaire, j'aime partager et expérimenter les émotions, le vivant, les nouvelles contrées et toutes les matières.

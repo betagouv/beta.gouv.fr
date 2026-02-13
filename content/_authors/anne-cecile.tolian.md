@@ -3,8 +3,8 @@ fullname: Anne-Cécile Tolian
 role: Exploration
 domaine: Coaching
 competences:
-  - Facilitation
   - Coaching
+  - Facilitation
   - Product strategy
 missions:
   - start: 2025-07-02

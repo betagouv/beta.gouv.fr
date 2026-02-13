@@ -11,8 +11,8 @@ missions:
       - a-just
 link: https://linkedin.com/in/victordelorme33
 competences:
-  - Facilitation
-  - Croissance
   - Communication
+  - Croissance
+  - Facilitation
 memberType: beta
 ---

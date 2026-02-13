@@ -4,8 +4,8 @@ role: Développeur
 domaine: Data
 competences:
   - Data Science
-  - Product strategy
   - Développement Full-stack
+  - Product strategy
 missions:
   - start: 2025-10-01
     end: 2026-06-01

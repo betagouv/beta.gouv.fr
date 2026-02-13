@@ -4,9 +4,9 @@ role: Chargé de déploiement Senior
 domaine: Déploiement
 link: https://www.linkedin.com/in/pierregrateau/
 competences:
-  - Croissance
-  - Communication
   - Coaching
+  - Communication
+  - Croissance
 missions:
   - start: 2024-10-28
     end: 2026-06-30

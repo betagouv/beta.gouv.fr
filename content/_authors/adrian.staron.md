@@ -3,12 +3,12 @@ fullname: Adrian Staron
 role: UX Designer / Développeur
 domaine: Développement
 competences:
-  - Product design
-  - UX
   - Accessibilité
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
+  - Product design
   - UI
+  - UX
 missions:
   - start: 2026-01-14
     end: 2026-06-14

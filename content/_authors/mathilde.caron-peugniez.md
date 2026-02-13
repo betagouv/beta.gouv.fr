@@ -17,8 +17,8 @@ missions:
       - mobilic
 memberType: beta
 competences:
-  - Intrapreneur(se)
-  - Droit / Affaires juridiques
   - Communication
+  - Droit / Affaires juridiques
+  - Intrapreneur(se)
 link: https://www.linkedin.com/in/mathildecaronpeugniez/
 ---

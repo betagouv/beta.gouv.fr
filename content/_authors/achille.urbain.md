@@ -5,17 +5,17 @@ domaine: Développement
 github: WaldoJeffers
 link: https://www.linkedin.com/in/achilleurbain/
 competences:
-  - Facilitation
-  - Product strategy
-  - UX
   - Développement Backend
-  - Développement Full-stack
   - Développement Frontend
+  - Développement Full-stack
+  - DevOps
+  - Facilitation
   - JavaScript/TypeScript
   - PostgreSQL
-  - DevOps
+  - Product strategy
   - Sécurité informatique
   - UI
+  - UX
 missions:
   - start: 2025-03-10
     end: 2026-02-28

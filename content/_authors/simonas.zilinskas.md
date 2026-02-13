@@ -5,11 +5,11 @@ domaine: Produit
 github: simonaszilinskas
 link: https://www.linkedin.com/in/simonaszilinskas/
 competences:
-  - Product strategy
-  - UX
   - Croissance
   - Facilitation
   - Product design
+  - Product strategy
+  - UX
 missions:
   - start: 2024-12-09
     end: 2025-01-15

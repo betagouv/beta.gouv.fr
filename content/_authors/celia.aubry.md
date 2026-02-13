@@ -12,6 +12,6 @@ missions:
 previously:
   - competence.validee
 competences:
-  - UX
   - UI
+  - UX
 ---

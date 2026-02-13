@@ -17,7 +17,7 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/yowamuzadi/
 competences:
-  - Intrapreneur(se)
   - Administration Publique
+  - Intrapreneur(se)
   - UX
 ---

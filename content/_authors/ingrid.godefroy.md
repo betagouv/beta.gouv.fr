@@ -35,11 +35,11 @@ missions:
       - nomad
 link: https://www.linkedin.com/in/ingridgodefroy/
 competences:
+  - Communication
   - Croissance
   - Facilitation
-  - UX
-  - Metabase
   - Matomo
-  - Communication
+  - Metabase
+  - UX
 ---
 Conseil en innovation & organisation | Gestion de projets & agilité | ⁠Product management & e-marketing

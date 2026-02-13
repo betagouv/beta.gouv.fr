@@ -5,8 +5,8 @@ domaine: Développement
 github: thomasguillory-betagouv
 link: https://www.linkedin.com/in/thomasguillory/
 competences:
-  - Facilitation
   - Développement Full-stack
+  - Facilitation
 missions:
   - start: 2025-10-06
     end: 2026-10-05

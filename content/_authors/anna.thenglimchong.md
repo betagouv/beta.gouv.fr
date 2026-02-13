@@ -28,9 +28,9 @@ previously:
 badges:
   - segur
 competences:
-  - UX
   - Facilitation
   - Product design
+  - UX
 teams:
   - /teams/lab-mi
 ---

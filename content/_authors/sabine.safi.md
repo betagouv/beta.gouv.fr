@@ -29,8 +29,8 @@ previously:
 badges:
   - segur
 competences:
-  - Croissance
-  - Product strategy
-  - Facilitation
   - Coaching
+  - Croissance
+  - Facilitation
+  - Product strategy
 ---

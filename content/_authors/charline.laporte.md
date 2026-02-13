@@ -24,9 +24,9 @@ missions:
     startups:
       - resultats-elections-fpt
 competences:
+  - Accessibilité
   - Développement Frontend
   - JavaScript/TypeScript
-  - Accessibilité
   - UI
 ---
 Développeuse web

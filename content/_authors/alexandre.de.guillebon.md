@@ -5,12 +5,12 @@ domaine: Data
 link: https://www.linkedin.com/in/alexandre-de-guillebon/
 competences:
   - Data Science
-  - Machine learning
-  - Kubernetes
-  - Metabase
-  - Python
-  - PostgreSQL
   - Docker
+  - Kubernetes
+  - Machine learning
+  - Metabase
+  - PostgreSQL
+  - Python
 missions:
   - start: 2025-01-13
     end: 2026-05-15

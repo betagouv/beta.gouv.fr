@@ -12,10 +12,10 @@ missions:
       - transport
 link: https://www.linkedin.com/in/brewenn-m%C3%A9tayer-a951539b/
 competences:
-  - Communication
-  - Facilitation
   - Administration Publique
+  - Communication
   - Droit / Affaires juridiques
+  - Facilitation
   - Product strategy
 ---
 Responsable de l'ouverture des données, je suis intéressé par le monde de la mobilité et du transport du point de vue politique, économique et juridique, mais également curieux de tous les sujets qui touchent notre société.

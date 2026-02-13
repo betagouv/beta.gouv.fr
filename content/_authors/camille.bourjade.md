@@ -4,9 +4,9 @@ role: Content designer senior
 domaine: Design
 link: https://www.linkedin.com/in/camille-bourjade-6a669410/
 competences:
+  - Facilitation
   - Product design
   - UX
-  - Facilitation
 missions:
   - start: 2024-10-07
     end: 2026-04-30

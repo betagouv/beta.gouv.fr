@@ -15,9 +15,9 @@ memberType: autre
 link: https://www.linkedin.com/in/mathildebras
 competences:
   - Administration Publique
-  - Product strategy
   - Coaching
   - Communication
   - Facilitation
+  - Product strategy
 ---
 Numérique d'intérêt général

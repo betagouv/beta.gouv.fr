@@ -12,13 +12,13 @@ missions:
       - grist.numerique.gouv.fr
 memberType: beta
 competences:
-  - Product strategy
-  - Croissance
-  - Python
-  - Metabase
-  - Data Science
   - Communication
+  - Croissance
+  - Data Science
   - Grist
+  - Metabase
+  - Product strategy
+  - Python
   - Roadmap produit
 github: nicolas-imbert
 link: https://www.linkedin.com/in/nicolas-imbert-29b03b83/

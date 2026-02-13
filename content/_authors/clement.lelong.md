@@ -19,8 +19,8 @@ missions:
 previously:
   - aides.jeunes
 competences:
-  - Développement Frontend
   - Développement Backend
+  - Développement Frontend
 link: https://www.linkedin.com/in/cl%C3%A9ment-lelong-6b070b146/
 ---
 Développeur fullstack au service du bien commun

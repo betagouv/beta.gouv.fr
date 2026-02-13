@@ -13,7 +13,7 @@ missions:
       - pilotagevoiepro
 memberType: beta
 competences:
-  - Développement Full-stack
   - Développement Backend
   - Développement Frontend
+  - Développement Full-stack
 ---

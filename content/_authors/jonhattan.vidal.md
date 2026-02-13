@@ -4,9 +4,9 @@ role: Archéologue
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/jonhattan-vidal-62b800326/
 competences:
-  - Intrapreneur(se)
-  - Archéologue
   - Analyse de données spatiales
+  - Archéologue
+  - Intrapreneur(se)
 missions:
   - start: 2024-11-01
     end: 2026-11-30

@@ -25,8 +25,8 @@ badges:
 domaine: Déploiement
 link: https://www.linkedin.com/in/bouti%C3%A9-camara/
 competences:
+  - Accessibilité
   - Communication
   - Croissance
-  - Accessibilité
   - Product strategy
 ---

@@ -4,11 +4,11 @@ role: Data Analyst
 domaine: Data
 link: https://www.linkedin.com/in/fadoua-tarbouchi-003763120/
 competences:
-  - Metabase
+  - DBT
   - Matomo
+  - Metabase
   - Python
   - SQL
-  - DBT
 missions:
   - start: 2026-02-06
     end: 2026-05-06

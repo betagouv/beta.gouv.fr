@@ -13,9 +13,9 @@ link: https://www.linkedin.com/in/guillaume-pichon-05a310140/
 github: GuiPich91
 competences:
   - Développement Full-stack
-  - JavaScript/TypeScript
   - ElasticSearch
-  - PostgreSQL
+  - JavaScript/TypeScript
   - PHP
+  - PostgreSQL
 memberType: beta
 ---
