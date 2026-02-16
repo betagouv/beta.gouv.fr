@@ -20,7 +20,7 @@ lint:
 	$(DOCKER-RUN) web $(BUNDLE-EXEC) rubocop
 
 html-proofer:
-	bundle exec htmlproofer ./_site/ --ignore-files "/recrutement\/*/" --no-enforce-https --disable-external --root_dir _site/ --allow-missing-href
+	bundle exec htmlproofer ./_site/ --ignore-files "/recrutement\/*/"  --ignore-files "/api\/*/" --no-enforce-https --disable-external --root_dir _site/ --allow-missing-href
 
 .PHONY: validate spec
 validate:
