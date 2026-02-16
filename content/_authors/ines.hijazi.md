@@ -30,7 +30,7 @@ missions:
     startups:
       - data-inclusion
   - start: 2023-04-02
-    end: 2026-03-01
+    end: 2026-08-16
     status: independent
     employer: malt
     startups:

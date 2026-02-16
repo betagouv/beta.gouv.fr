@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2026-02-13
     end: 2026-12-10
-    employer: DGCL
     status: admin
+    employer: DGCL
     startups:
       - resultats-elections-fpt
-teams: []
 ---

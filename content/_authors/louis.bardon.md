@@ -12,6 +12,6 @@ competences:
   - Administration Publique
   - Coaching
   - Product strategy
-github: chetlouis@gmail.com
+github: louisBardon
 ---
 Conseil interne, Biz dev, Avant vente, Marketing, Incubateurs, Startups d'Etat..

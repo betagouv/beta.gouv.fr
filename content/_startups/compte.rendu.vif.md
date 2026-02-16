@@ -1,7 +1,7 @@
 ---
 mission: Permettre la réalisation de comptes rendus par des agents - Architectes des Bâtiments de France - lors de leurs rencontres avec les usagers.
 incubator: culture
-title: Compte rendu vif
+title: Patrinotes
 contact: ateliernumerique.snum@culture.gouv.fr
 accessibility_status: non conforme
 phases:
@@ -11,7 +11,7 @@ phases:
     start: 2023-10-15
   - name: acceleration
     start: 2025-09-01
-repository: https://github.com/betagouv/compte-rendu-vif/
+repository: https://github.com/betagouv/patrinotes/
 thematiques:
   - Patrimoine
   - Outil technique
@@ -20,7 +20,7 @@ usertypes:
   - etat
   - particulier
 techno: []
-link: https://compte-rendu-vif.beta.gouv.fr/
+link: https://patrinotes.beta.gouv.fr/
 sponsors:
   - /organisations/dgpat
 events:
@@ -50,6 +50,6 @@ En 2023, un MVP réalisé grâce à une application no-code a été testé dans 
 
 ## Impact
 
-CR Vif a démontré son impact à plusieurs titres : 
+Patrinotes a démontré son impact à plusieurs titres : 
 - Une expérience facilitée pour les agents, via des fonctionnalités très utiles : le mode hors ligne, l'accès mobile, l'annotation de photos en direct et la génération de comptes rendus chartés. Certaines fonctionnalités sont aujourd'hui réutilisées par d'autres équipes au sein du Service du numérique
 - Les usages en mobilité se démultipliant pour les agents de terrain en DRAC, des opportunités de mutualisation et de déploiement ont été identifiées. Une deuxième brique est en cours de construction pour la réalisation de constats d'états sanitaires (voir [ici](https://beta.gouv.fr/startups/etat-sanitaire-des-monuments-historiques-en-mobilite.html)). L'enjeu est de proposer un environnement unifié (forme de suite) sur plusieurs missions des agents.

@@ -9,6 +9,12 @@ missions:
     status: independent
     startups:
       - data-subvention
+  - start: 2026-02-16
+    end: 2026-08-16
+    status: independent
+    employer: Malt
+    startups:
+      - france-numerique-ensemble
 badges:
   - segur
 competences: []

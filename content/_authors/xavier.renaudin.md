@@ -4,7 +4,7 @@ role: Lead développeur
 domaine: Développement
 missions:
   - start: 2024-01-29
-    end: 2026-03-01
+    end: 2026-06-30
     status: independent
     employer: LBC
     startups:

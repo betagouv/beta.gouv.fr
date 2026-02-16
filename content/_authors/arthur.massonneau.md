@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/arthurmassonneau/
 github: ArtMassonneau
 missions:
   - start: 2023-06-24
-    end: 2026-03-15
+    end: 2026-07-14
     status: independent
     employer: Numa
     startups:

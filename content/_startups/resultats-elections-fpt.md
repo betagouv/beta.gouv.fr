@@ -10,7 +10,7 @@ usertypes:
 techno:
   - python
   - grist
-title: Résultats Elections FPT
+title: Résultats Elections FPT 2026
 mission: Saisir et centraliser les résultats des élections professionnelles dans la fonction publique territoriale
 incubator: dinum
 sponsors:
