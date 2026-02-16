@@ -66,6 +66,7 @@ jobs:
       with:
         root: _site
         skip_git_check: true
+        blacklist: api/swagger.html
 
     - name: Lint JSON API pages
       run: bundle exec jsonlint _site/api/v*/*.json
