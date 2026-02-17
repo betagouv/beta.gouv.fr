@@ -7,13 +7,22 @@ missions:
   - start: 2018-04-10
     end: 2026-06-01
     status: independent
-    employer: Malt
+    employer: Dynergie
     startups:
       - conseillers-entreprises
+  - start: 2025-12-15
+    end: 2026-06-01
+    status: independent
+    employer: Numa
+    startups:
       - monitorfish
       - rapportnav
-      - signaux-faibles
-      - transition-ecologique-des-entreprises
+  - start: 2026-02-16
+    end: 2026-05-17
+    status: independent
+    employer: Malt
+    startups:
+      - reglementation-nitrates
 previously:
   - signalement
 badges:

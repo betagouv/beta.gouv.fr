@@ -11,4 +11,6 @@ missions:
     end: 2026-06-08
     status: independent
     employer: Malt
+    startups:
+      - guichet-territorial-pour-la-transition-ecologique
 ---

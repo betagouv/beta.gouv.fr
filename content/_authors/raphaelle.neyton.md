@@ -29,7 +29,7 @@ missions:
     startups:
       - brav-eau
   - start: 2025-02-03
-    end: 2026-01-31
+    end: 2026-03-31
     status: independent
     employer: NUMA
     startups:
@@ -41,7 +41,7 @@ missions:
     startups:
       - durabilite-de-la-biomasse
   - start: 2025-06-17
-    end: 2026-01-31
+    end: 2026-07-31
     status: independent
     employer: NUMA
     startups:
