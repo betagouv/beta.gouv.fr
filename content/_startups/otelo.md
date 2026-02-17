@@ -24,7 +24,7 @@ techno:
   - react
   - python
   - django
-repository: https://github.com/MTES-MCT/otelo-front
+repository: https://github.com/MTES-MCT/otelo
 link: https://otelo.beta.gouv.fr/
 stats_url: https://otelo.beta.gouv.fr/statistiques
 ---
