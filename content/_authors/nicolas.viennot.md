@@ -17,6 +17,18 @@ missions:
     employer: Numa
     startups:
       - diag-mob
+  - start: 2026-02-01
+    end: 2026-05-18
+    status: independent
+    employer: Numa
+    startups:
+      - dpm-facile
+  - start: 2026-02-18
+    end: 2026-05-18
+    status: independent
+    employer: Numa
+    startups:
+      - dpm-facile
 competences:
   - Coaching
   - Croissance

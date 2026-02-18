@@ -5,7 +5,7 @@ domaine: Développement
 github: lwih
 missions:
   - start: 2023-06-19
-    end: 2026-05-30
+    end: 2026-07-31
     status: independent
     employer: DINUM
     startups:

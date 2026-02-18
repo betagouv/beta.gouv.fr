@@ -12,5 +12,7 @@ missions:
     end: 2026-05-31
     status: admin
     employer: ANCT
+    startups:
+      - guichet-territorial-pour-la-transition-ecologique
 link: https://www.linkedin.com/in/matthieu-denoux/
 ---

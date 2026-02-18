@@ -13,5 +13,15 @@ missions:
     employer: Malt
     startups:
       - plusfraichemaville
+  - start: 2026-02-17
+    end: 2026-05-17
+    status: independent
+    startups:
+      - aigle
+  - start: 2026-02-17
+    end: 2026-05-17
+    status: independent
+    startups:
+      - lucca
 ---
  
