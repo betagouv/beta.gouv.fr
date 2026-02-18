@@ -1,6 +1,6 @@
 ---
 fullname: Damien METIVIER
-role: Intrapreneur à DALO Assist'
+role: 'Co-intrapreneur à DAHL''ia '
 domaine: Intraprenariat
 competences:
   - Intrapreneur(se)

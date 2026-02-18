@@ -13,4 +13,3 @@ missions:
     startups:
       - dalo-assist-usagers-et-contentieux
 ---
-Maîtrise d'ouvrage de systèmes d'information logement. Travaille sur un projet de refonte du SI sur le DALO
