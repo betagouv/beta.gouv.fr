@@ -9,7 +9,7 @@ missions:
     startups:
       - aigle
   - start: 2025-04-10
-    end: 2025-07-10
+    end: 2026-07-10
     status: independent
     startups:
       - lucca

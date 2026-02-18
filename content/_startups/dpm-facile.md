@@ -5,7 +5,7 @@ contact: nathalie.manceau@developpement-durable.gouv.fr
 thematiques: []
 usertypes: []
 techno: []
-title: 'DPM - Facile '
+title: ' AMIDOMAR (Ex DPM Facile)'
 mission: 'Faciliter la gestion du DPM naturel face aux enjeux du changement climatique '
 incubator: mtes
 sponsors:
@@ -13,9 +13,14 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-06-17
+  - name: construction
+    start: 2026-01-29
 events:
   - name: product_launch
     date: 2025-06-17
+  - name: committee
+    date: 2026-01-28
+    comment: poursuite du projet
 link: ''
 ---
 ## Contexte
@@ -28,7 +33,7 @@ La gestion et le contrôle des occupations du domaine public maritime naturel (D
 ## Solution
  - **Global** : Apporter de l'information aux porteurs de projets et une homogénéisation des pratiques de demandes
  - **Externe** : Faciliter et améliorer la qualité des demandes pour les porteurs de projet (riverains, communes, associations) et apporter de la transparence dans l'instruction et le suivi des dossiers.
- - **Interne** :  Permettre la prise en compte la complexité des différentes politiques publiques environnementales en lien avec le changement climatiques dans l'instruction des dossiers. 
+ - **Interne** :  Permettre la prise en compte dans l'instruction des dossiers de la complexité des différentes politiques publiques environnementales de protection des espèces et espaces, ainsi que des impacts du changement climatique.
 
 
 

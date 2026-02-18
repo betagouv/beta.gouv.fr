@@ -8,14 +8,14 @@ teams:
   - /teams/gip-inclusion
 missions:
   - start: 2021-03-28
-    end: 2023-02-28
+    end: 2021-07-28
     status: independent
     employer: Numa
     startups:
       - anct-pni-1
-      - anct-pni-42
-  - start: 2021-04-20
-    end: 2021-10-31
+      - anct-pni-4
+  - start: 2022-04-20
+    end: 2022-10-31
     status: independent
     employer: Numa
     startups:

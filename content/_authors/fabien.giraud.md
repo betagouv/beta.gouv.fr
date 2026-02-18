@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/fabien-giraud-52728361/
 missions:
   - start: 2024-03-19
-    end: 2026-03-20
+    end: 2026-07-29
     status: independent
     employer: Omnicité
     startups:

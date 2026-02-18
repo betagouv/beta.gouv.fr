@@ -31,6 +31,7 @@ phases:
 events:
   - name: product_launch
     date: 2025-11-28
+repository: https://github.com/betagouv/OTP-DS-to-Grist
 link: ''
 ---
 ## Contexte

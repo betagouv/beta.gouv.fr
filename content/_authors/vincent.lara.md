@@ -29,6 +29,12 @@ missions:
     employer: Codeurs en Liberté
     startups:
       - données-et-territoires
+  - start: 2026-02-18
+    end: 2026-08-18
+    status: service
+    employer: Codeureuses en liberté
+    startups:
+      - data-dsn
 previously:
   - le-taxi
   - transport
