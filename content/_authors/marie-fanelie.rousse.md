@@ -1,6 +1,6 @@
 ---
 fullname: Marie-Fanélie Rousse
-role: Co-Intrapreneuse
+role: Intrapreneuse DAHL'ia
 domaine: Intraprenariat
 competences:
   - Administration Publique
@@ -8,7 +8,7 @@ competences:
   - Droit / Affaires juridiques
 missions:
   - start: 2025-06-17
-    end: 2026-06-30
+    end: 2026-10-31
     status: admin
     employer: N/A
     startups:
