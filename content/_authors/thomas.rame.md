@@ -27,6 +27,7 @@ missions:
     status: independent
     employer: /ut7
     startups:
+      - projets
       - suite-numerique
 previously:
   - mediature
