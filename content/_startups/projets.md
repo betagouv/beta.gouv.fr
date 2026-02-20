@@ -12,12 +12,9 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: construction
-    comment: null
     start: 2026-01-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-01-01
 ---
 **La description ci-dessous est un placeholder généré par IA. Il sera bientôt remplacé par l'équipe en charge du produit **

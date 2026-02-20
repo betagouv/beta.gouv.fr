@@ -1,5 +1,5 @@
 ---
-fullname: Emilien Guillemot
+fullname: Émilien Guillemot
 role: Business Development Lead
 github: EmilienGuillemot
 domaine: Déploiement

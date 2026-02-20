@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2026-02-23
     end: 2026-06-30
-    employer: DJEPVA
     status: service
+    employer: DJEPVA
     startups:
       - api-engagement
-teams: []
 ---

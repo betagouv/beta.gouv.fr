@@ -118,15 +118,12 @@ Statistiques d'impact : [https://terristory.fr/national/statistiques](https://te
 Statistiques d'impact : [https://diagbruit.fr/stats](https://diagbruit.fr/stats)
 
 - **Protect'Envi :**
+Matrice d'impact (màj 20/02/2026)
 
-Chiffres du déploiement 
-| Date | 27/01/2026 |
-| --- | --- |
-| Procédures administratives lancées | 40 |
-| Nb amandes prononcées | 7 |
-| Nb dépôts nettoyés | 3 dont 1 de plus de 100m3 |
-| Nb participants webinaires (cumul) | 222 |
-
+| Utile | Utilisé | Impactant |
+|--- | --- | --- | 
+| 96 procédures administratives lancées dans 50 collectivités | 3 dépôts nettoyés par les auteurs | 94 auteurs avisés des sanctions encourues | 3 dépôts nettoyés par les auteurs | 
+| Score de satisfaction NPS 8/10 | 9 collectivités ont initié plusieurs procédures | 
 
 ---
 

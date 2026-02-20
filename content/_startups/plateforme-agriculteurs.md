@@ -30,6 +30,7 @@ events:
     date: 2025-07-04
 link: https://aides-agri.beta.gouv.fr
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Aides-Agri
+stats_url: https://aides-agri.beta.gouv.fr/pages/statistiques
 ---
 ## Contexte
 
