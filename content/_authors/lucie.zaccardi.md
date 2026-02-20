@@ -17,5 +17,6 @@ competences:
   - Coaching
   - Intrapreneur(se)
   - Product strategy
+github: Lucie-zaccardi
 ---
 Responsables de portefeuilles Vie Associative, Sport et Culture

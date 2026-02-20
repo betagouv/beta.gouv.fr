@@ -14,6 +14,8 @@ phases:
     end: 2023-09-27
   - name: construction
     start: 2023-09-27
+  - name: alumni
+    start: 2025-09-30
 thematiques:
   - Écologie
   - Mer

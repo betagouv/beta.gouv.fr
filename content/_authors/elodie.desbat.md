@@ -1,7 +1,7 @@
 ---
 fullname: Elodie Desbat
-role: Coach
-domaine: Coaching
+role: UX Designer
+domaine: Design
 missions:
   - start: 2020-11-04
     end: 2022-06-30
@@ -17,5 +17,8 @@ missions:
       - sylva-san
 badges:
   - segur
+competences:
+  - Product design
+  - UX
 ---
-UX / Service Designer depuis 10 ans déjà !
+UX / Service Designer depuis 15 ans déjà !

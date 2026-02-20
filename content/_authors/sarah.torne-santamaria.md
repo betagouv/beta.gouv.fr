@@ -1,6 +1,6 @@
 ---
 fullname: Sarah Torné-Santamaria
-role: Rédactrice et chargée de communication
+role: Chargée de contenus
 domaine: Déploiement
 link: https://www.linkedin.com/in/sarah-torne-content-manager/
 competences:

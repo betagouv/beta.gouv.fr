@@ -24,7 +24,7 @@ thematiques:
   - Education
 techno: []
 link: https://ada.beta.gouv.fr/
-repository: https://github.com/betagouv/science-infuse
+repository: https://github.com/betagouv/ada
 ---
 ## Le problème
 
@@ -81,4 +81,4 @@ Rendez-vous sur [ada.beta.gouv.fr](https://ada.beta.gouv.fr/)
 
 ## Lien vers notre GitHub 
 
-https://github.com/betagouv/science-infuse
+https://github.com/betagouv/ada

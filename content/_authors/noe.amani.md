@@ -13,4 +13,4 @@ missions:
     startups:
       - les-emplois
 ---
-Expert python/Django et formateur IA
+Développeur Python/Django senior et formateur en IA, je conçois des solutions numériques robustes qui font bouger les lignes de l'emploi et de l'inclusion. Mon approche : un mix de rigueur technique, une compréhension métier fine et une dose d'IA pour décupler l'efficacité du service public. Engagé pour une technologie utile, durable et centrée sur l'humain.
