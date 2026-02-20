@@ -31,6 +31,12 @@ missions:
     startups:
       - recommandations-collaboratives
       - urbanvitaliz
+  - start: 2026-02-20
+    end: 2026-06-30
+    status: independent
+    employer: Malt
+    startups:
+      - aidantsconnect
 competences:
   - Développement Backend
   - Développement Frontend

@@ -4,7 +4,7 @@ domaine: Coaching
 role: Coach
 missions:
   - start: 2020-02-20
-    end: 2026-02-22
+    end: 2026-06-30
     status: independent
     employer: Malt
 competences:
