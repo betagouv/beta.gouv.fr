@@ -6,5 +6,5 @@ order: 3
 short_description: |
     L’équipe déploie le service sans cesser de l’améliorer pour en accroître l’impact. 
     A la fin de cette phase, on a démontré que le coût d’acquisition de nouveaux utilisateurs est assez bas, par rapport à l’impact long terme par utilisateur.
-documentation_url: /approche/acceleration
+documentation_url: https://doc.incubateur.net/communaute/gerer-son-produit/la-vie-du-produit/investigation
 ---
