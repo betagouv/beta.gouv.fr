@@ -12,7 +12,7 @@ missions:
     startups:
       - mesads
   - start: 2025-09-08
-    end: 2026-03-16
+    end: 2026-08-23
     status: independent
     employer: Little Big Connection
     startups:

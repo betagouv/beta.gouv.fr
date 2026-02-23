@@ -14,13 +14,11 @@ sponsors:
   - /organisations/djepva
 phases:
   - name: investigation
-    comment: null
     start: 2025-09-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-02-20
+link: ''
 ---
 
 ## Contexte

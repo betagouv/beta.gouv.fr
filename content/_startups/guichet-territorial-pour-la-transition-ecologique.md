@@ -114,15 +114,17 @@ Chaque produit accompagné se doit de publier ses mesures d'impact et de renseig
 Statistiques d'impact : [https://terristory.fr/national/statistiques](https://terristory.fr/national/statistiques)
 
 
+
 - **diagBruit :** 
 Statistiques d'impact : [https://diagbruit.fr/stats](https://diagbruit.fr/stats)
+
 
 - **Protect'Envi :**
 Matrice d'impact (màj 20/02/2026)
 
 | Utile | Utilisé | Impactant |
 |--- | --- | --- | 
-| 96 procédures administratives lancées dans 50 collectivités | 3 dépôts nettoyés par les auteurs | 94 auteurs avisés des sanctions encourues | 3 dépôts nettoyés par les auteurs | 
+| 96 procédures administratives lancées dans 50 collectivités | 50 collectivités ont déposé un signalement sur la plateforme | 3 dépôts nettoyés par les auteurs | 
 | Score de satisfaction NPS 8/10 | 9 collectivités ont initié plusieurs procédures | 
 
 ---

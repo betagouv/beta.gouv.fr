@@ -14,7 +14,7 @@ competences:
   - Python
 missions:
   - start: 2025-09-26
-    end: 2026-03-25
+    end: 2026-05-31
     status: independent
     employer: Malt
     startups:

@@ -1,16 +1,16 @@
 ---
 fullname: Clara Hardy
-domaine: Animation
-role: CHARGÉ(E) D’ANIMATION DU RÉSEAU NATIONAL DES RÉFÉRENTS DÉPARTEMENTAUX ET D’ASSISTANCE AUX UTILISATEURS (RÉFÉRENTS ET STRUCTURES) DE LA PLATEFORME ADMIN
+domaine: Support
+role: CHARGÉE DE DEPLOIEMENT ET SUPPORT
 missions:
   - start: 2023-12-11
-    end: 2026-03-28
+    end: 2026-08-01
     status: independent
     employer: Immersion Facilitée
     startups:
       - l-immersion-facile
-      - snu
 memberType: beta
 competences:
   - Administration Système
+  - Facilitation
 ---

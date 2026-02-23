@@ -8,6 +8,7 @@ missions:
     status: admin
     startups:
       - plateforme-agriculteurs
-competences: []
+competences:
+  - Intrapreneur(se)
 link: https://www.linkedin.com/in/beatriceneyrac/
 ---

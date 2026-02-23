@@ -28,6 +28,12 @@ missions:
     employer: Malt
     startups:
       - icare-complements-alimentaires
+  - start: 2026-02-16
+    end: 2026-08-23
+    status: independent
+    employer: Malt
+    startups:
+      - sylva-san
 previously:
   - peps
   - e-inspé

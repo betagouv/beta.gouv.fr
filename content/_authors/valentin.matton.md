@@ -5,7 +5,7 @@ role: Développeur & Data
 github: vmttn
 missions:
   - start: 2022-03-02
-    end: 2026-02-28
+    end: 2027-04-19
     status: admin
     employer: Plateforme de l'Inclusion
     startups:

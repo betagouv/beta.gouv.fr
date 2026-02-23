@@ -1,14 +1,14 @@
 ---
-title: Longue vie aux objets
+title: Que faire de mes objets et déchets
 mission: Encourager le tri et la consommation responsable pour donner une nouvelle vie aux objets, éviter l'achat neuf et réduire les déchets
 sponsors:
   - /organisations/ademe
 incubator: ademe
-link: https://longuevieauxobjets.ademe.fr
+link: https://quefairedemesdechets.ademe.fr/
 repository: https://github.com/incubateur-ademe/quefairedemesobjets
-contact: longuevieauxobjets@ademe.fr
+contact: quefairedemesdechets@ademe.fr
 stats: false
-budget_url: https://longuevieauxobjets.ademe.fr/budget
+budget_url: https://quefairedemesdechets.ademe.fr/budget
 dashlord_url: https://dashlord.incubateur.ademe.fr/startup/longuevieauxobjets
 analyse_risques: true
 accessibility_status: partiellement conforme
@@ -33,6 +33,9 @@ events:
   - name: committee
     date: 2025-06-10
     comment: 4ème comité d'investissement
+  - name: committee
+    date: 2026-05-22
+    comment: 5ème comité d'investissement
 phases:
   - name: investigation
     start: 2023-01-01
@@ -42,12 +45,12 @@ phases:
     start: 2025-05-05
 thematiques:
   - Écologie
-stats_url: https://longuevieauxobjets.ademe.fr/stats
+stats_url: https://quefairedemesdechets.ademe.fr/stats
 techno:
   - python
   - django
 mon_service_securise: true
-impact_url: https://longuevieauxobjets.ademe.fr/stats/matrice-impact/
+impact_url: https://quefairedemesdechets.ademe.fr/stats/matrice-impact/
 ---
 ## Contexte 👀
 
@@ -64,14 +67,14 @@ Parallèlement, le dispositif des filières de *Responsabilité élargie du pro
 Inspiré du principe « pollueur-payeur », le dispositif de REP implique que les acteurs économiques (fabricants, distributeurs, importateurs) sont responsables de l’ensemble du cycle de vie des produits qu’ils mettent sur le marché : éco-conception des produits, prévention des déchets, allongement de la durée d’usage et gestion de fin de vie.
 
 ## Solution 💡
-[Longue vie aux objets](https://longuevieauxobjets.ademe.fr/?mtm_campaign=FicheBetaGouv) accompagne les **citoyens** au tri et à la consommation responsable, grâce à **des bonnes pratiques et adresses autour de chez eux**, pour éviter l'achat neuf et réduire les déchets.
+[Que faire de mes objets et déchets](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv) accompagne les **citoyens** au tri et à la consommation responsable, grâce à **des bonnes pratiques et adresses autour de chez eux**, pour éviter l'achat neuf et réduire les déchets.
 
-Pour les **collectivités, associations, entreprises et médias**, Longue vie aux objets met à disposition des **outils numériques gratuits de sensibilisation au tri et à la consommation responsable** qui valorisent les acteurs de l'économie sur chaque territoire.
+Pour les **collectivités, associations, entreprises et médias**, Que faire de mes objets et déchets met à disposition des **outils numériques gratuits de sensibilisation au tri et à la consommation responsable** qui valorisent les acteurs de l'économie sur chaque territoire.
 
 Trois outils sont disponibles :
-* [L'assistant au tri "Que faire de mes objets & déchets"](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv), avec une approche conseil, aide les citoyens à comprendre le cycle de vie des objets, pour cesser de les jeter. Les citoyens sont guidés pour se désencombrer de façon responsable.
-* [La carte des acteurs de l'économie circulaire](https://longuevieauxobjets.ademe.fr/lacarte/?mtm_campaign=FicheBetaGouv), avec une approche géolocalisée, met en avant les solutions locales pour prolonger la vie de ses objets. Les citoyens découvrent de bonnes adresses autour de chez eux pour mieux consommer.
-* [Les données des acteurs de l'économie circulaire](https://www.data.gouv.fr/datasets/acteurs-de-leconomie-circulaire-longue-vie-aux-objets), accessibles en open-data, pour que les données puissent être réutilisées facilement.
+* [L'assistant au tri, à la réparation et au réemploi](https://quefairedemesdechets.ademe.fr/?mtm_campaign=FicheBetaGouv), avec une approche conseil, aide les citoyens à comprendre le cycle de vie des objets, pour cesser de les jeter. Les citoyens sont guidés pour se désencombrer de façon responsable.
+* [La carte de la consommation responsable](https://quefairedemesdechets.ademe.fr/nos-outils/carte-consommation-responsable/?mtm_campaign=FicheBetaGouv), avec une approche géolocalisée, met en avant les solutions locales pour consommer de façon plus responsable. Les citoyens découvrent de bonnes adresses autour de chez eux pour mieux consommer.
+* [Les données des acteurs de l'économie circulaire](https://quefairedemesdechets.ademe.fr/nos-outils/donnees-ouvertes/?mtm_campaign=FicheBetaGouv), accessibles en open-data, pour que les données puissent être réutilisées facilement.
 
 
 
@@ -86,7 +89,7 @@ Nos objectifs pour nos relais sont :
 - **Médias** : Donner des pistes d'action concrètes à leurs lecteurs pour réduire leurs déchets en prolongeant la vie de leurs objets.
 - **Associations et entreprises** : Incarner leurs engagements en faveur du réemploi.
 
-La carte a été mise en avant lors de la campagne de communication de l’ADEME “[Epargnons nos ressources](https://epargnonsnosressources.gouv.fr/)” lancée en novembre 2023.
+Nos outils ont été mis en avant lors de la campagne de communication de l’ADEME “[Epargnons nos ressources](https://epargnonsnosressources.gouv.fr/)” lancée en novembre 2023.
 
 Comme point d’entrée unique pour les citoyens, l'assistant au tri “Que faire de mes objets & déchets” est connu depuis 10 ans, relayé chaque année par les [campagnes ministérielles sur l'Info-tri](https://www.ecologie.gouv.fr/info-tri) et mentionné sur les étiquettes de nombreux objets, pour toucher le maximum de citoyens. 
 
@@ -96,13 +99,13 @@ Un déploiement progressif de nos outils a été fait auprès des collectivités
 
 ## Impact 🌎
 
-Longue vie aux objets est un service numérique conçu selon l’**approche Startup d’État et piloté par l’impact**.
+Que faire de mes objets et déchets est un service numérique conçu selon l’**approche Startup d’État et piloté par l’impact**.
 
 Pour mesurer l'impact de nos outils, nous nous fixons des objectifs et des indicateurs.
 
-Notre **indicateur principal "étoile du nord"** est le **nombre de visiteurs orientés mensuellement**, soit les visiteurs qui ont consulté des recommandations sur un objet ou déchet dans l'assistant au tri ou d'un lieu sur la carte.
+Notre **indicateur principal "étoile du nord"** est le **nombre de visiteurs orientés mensuellement**, soit les visiteurs qui ont consulté des recommandations sur un objet ou déchet ou un lieu sur la carte.
 
-Tous nos indicateurs peuvent être suivis sur le [site de notre startup](https://longuevieauxobjets.ademe.fr/stats/), ainsi que notre [matrice d'impact](https://longuevieauxobjets.ademe.fr/stats/matrice-impact/).
+Tous nos indicateurs peuvent être suivis sur le [site de notre startup](https://quefairedemesdechets.ademe.fr/stats/), ainsi que notre [matrice d'impact](https://quefairedemesdechets.ademe.fr/stats/matrice-impact/).
 
 Aujourd’hui, nos métriques d’impact et d'usage sont suivies grâce aux outils Posthog, Matomo et Metabase.
 
