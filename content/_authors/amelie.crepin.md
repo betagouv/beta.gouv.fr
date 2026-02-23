@@ -3,10 +3,10 @@ fullname: Amelie Crepin
 github: ameliecrepin
 role: Intrapreneuse
 domaine: Intraprenariat
-link: https://www.linkedin.com/in/amelie-crepin-361277130
+link: https://www.linkedin.com/in/amelie-crepin
 missions:
   - start: 2023-10-30
-    end: 2025-12-31
+    end: 2027-01-31
     status: admin
     employer: IGN
     startups:
