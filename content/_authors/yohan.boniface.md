@@ -29,5 +29,11 @@ missions:
     employer: LBC
     startups:
       - umap
+  - start: 2026-02-15
+    end: 2026-07-24
+    status: independent
+    employer: Omnicité
+    startups:
+      - infomedicament
 competences: []
 ---

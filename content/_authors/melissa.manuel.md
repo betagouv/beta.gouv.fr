@@ -9,7 +9,7 @@ competences:
   - UX
 missions:
   - start: 2025-05-01
-    end: 2026-03-01
+    end: 2026-06-30
     status: independent
     employer: Opteamis
     startups:

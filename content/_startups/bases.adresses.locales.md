@@ -32,6 +32,7 @@ usertypes:
 techno: []
 impact_url: https://lab.base-adresse-locale.incubateur.anct.gouv.fr/
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/adresse-data-gouv-fr-bases-locales/
+budget_url: https://docs.numerique.gouv.fr/docs/fdfdeae6-8805-40da-95c8-43cee60bf36d/
 ---
 ## Pas d'adresse, pas de chocolat
 

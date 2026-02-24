@@ -1,13 +1,13 @@
 ---
 fullname: Maud Ba
-role: Data Analyst
+role: Analytics Engineer
 domaine: Data
 link: https://www.linkedin.com/in/dorisemba/
 competences:
-  - Data Science
   - Metabase
   - PostgreSQL
   - Python
+  - Matomo
 missions:
   - start: 2024-11-13
     end: 2026-03-30

@@ -33,8 +33,8 @@ techno:
   - PHP/Symfony
   - PostgreSQL
 analyse_risques: true
-budget_url: https://incubateurdesterritoires.notion.site/Budget-2024-Espace-sur-demande-1dd744bf03dd809786a4c082e9afa885
-impact_url: https://espacesurdemande.anct.gouv.fr/statistiques
+budget_url: https://docs.numerique.gouv.fr/docs/ca0fd988-5e63-432f-b7d4-efb08d5c134f/
+impact_url: https://docs.numerique.gouv.fr/docs/939ccf0f-13b5-4993-b88a-cb8747a7adab/
 ---
 
 ### 

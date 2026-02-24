@@ -22,6 +22,7 @@ missions:
     end: 2026-05-17
     status: independent
     startups:
+      - guichet-territorial-pour-la-transition-ecologique
       - lucca
 ---
  

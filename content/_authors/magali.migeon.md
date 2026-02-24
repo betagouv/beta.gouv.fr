@@ -9,6 +9,7 @@ missions:
     employer: DDTM 34/DIR
     startups:
       - aigle
+      - guichet-territorial-pour-la-transition-ecologique
       - lucca
 memberType: autre
 link: https://www.linkedin.com/in/magali-migeon-740265aa/

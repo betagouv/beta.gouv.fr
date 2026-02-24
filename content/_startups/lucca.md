@@ -14,18 +14,23 @@ usertypes:
   - Agents assermentés au code de l'urbanisme
 techno: []
 title: LUCCA
-mission: Faciliter la rédaction et le suivi des PV d'infraction à l'urbanisme pour mieux lutter contre les constructions et installations illégales
+mission: Faciliter la rédaction et le suivi des PV d'infraction à l'urbanisme pour mieux lutter contre les constructions et installations illégales dans les zones naturelles et agricoles pour mieux les préserver
 incubator: mtes
 phases:
   - name: construction
-    start: 2025-04-01
+    start: 2025-08-01
+  - name: acceleration
+    start: 2026-03-01
 events:
-  - name: product_launch
-    date: 2025-04-09
+  - name: other
+    date: 2025-08-01
+    comment: Migration au MATTE
 sponsors:
+  - /organisations/anct
   - /organisations/ddtm34
   - /organisations/dgaln
   - /organisations/dhup
+repository: https://github.com/MTES-MCT/Lucca
 ---
 
 ## Contexte
@@ -57,10 +62,20 @@ LUCCA est un outil numérique qui :
 
 Il est destiné aux agents assermentés au code de l'urbanisme ( agents de collectivités, de l'Etat, force de l'ordre, policiers municipaux...). Il est accessible du bureau ou sur le terrain directement (tablette). 
 
-## Déploiement
-LUCCA est opérationnel dans 5 départements et est utilisé par une centaine de collectivité. A titre d'exemple, dans l'Hérault, près de 25 communes l'utilisent, 500 contrôles et près de 300 PV ont été réalisés en 2025. 
 
-##2026
+## Impact 
+Sur les territoires pilotes
+ - Lucca permet une augmentation très forte du nombre d’actions opérationnelles (exemple 200% de contrôle et PV en plus dans l'Hérault)
+- Une action opérationnelle (courrier préalable, contrôle, PV, mise en demeure administrative, astreintes pénales...) mène dans près 60% des cas à une remise à l’état naturel 
+
+
+## Déploiement
+LUCCA est opérationnel dans 5 départements et est utilisé par une centaine de collectivité. 
+- 115 utilisateurs actifs mensuels  / 5411 contrôles / 3507 PV,
+- dans l'Hérault, près de 25 communes l'utilisent, 500 contrôles et près de 300 PV ont été réalisés en 2025. 
+
+
+## 2026
 L'objectif est d'augmenter son impact en :
  - déployant à près de 150 nouvelles collectivités 
  - en structurant l'acquisition par de nouveaux formats et canaux et en augmentant l'adhérence, en améliorant le par
