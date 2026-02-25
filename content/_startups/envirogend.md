@@ -1,6 +1,6 @@
 ---
 mission: Mieux lutter contre les atteintes à l'environnement
-incubator: dinum
+incubator: anct
 title: Protect'Envi
 contact: arthur.ribeiro-de-carvalho@gendarmerie.interieur.gouv.fr
 accessibility_status: non conforme
@@ -33,7 +33,14 @@ events:
   - name: committee
     date: 2025-07-04
     comment: Validation et financement des phases suivantes du produit
+  - name: committee
+    date: 2025-12-09
+    comment: Validation financement FINDPE
+  - name: committee
+    date: 2026-03-23
+    comment: Comité d'investissement (prévu)
 repository: https://github.com/betagouv/depots-sauvages
+impact_url: https://fichiers.numerique.gouv.fr/explorer/items/files/9615c123-59a4-42df-857f-498e313e401b
 ---
 ## Contexte
 
@@ -87,9 +94,11 @@ L'équipe a décidé de se concentrer dans un premier temps sur la thématique d
 
 **Territoires :**
 Une première phase de test se déroule dans les Yvelines (78) au 1er semestre 2025.
-Un prototype a été co-conçu avec les utilisateurs cibles, puis validé. Dans un second temps, un outil a été développé et déployé sur cette base. Il a d'ores et déjà été adopté par plusieurs communes, et permis d'initier de premières procédures administratives pour dépôts sauvages.
+Un prototype a été co-conçu avec les utilisateurs cibles, puis validé. Dans un second temps, un outil a été développé et déployé sur cette base.
+Au 2e semestre 2025, un déploiement plus large à une dizaine de départements a permis de confirmer l'impact de l'outil, avec plusieurs centaines de communes ayant manifesté leur intérêt pour la démarche et plusieurs dizaines de procédures initiées.
 
 ### Accélération
 
 **Objectifs :**
-La phase d'accélération se déroule au 2e semestre 2025. L'équipe-projet se concentrera sur le déploiement de l'outil dans 2 départements pilotes (Yvelines + un département à confirmer), afin de confirmer l'impact de l'outil.
+Au 1er semestre 2026, nous cherchons à poursuivre la construction du produit (fonctionnalités complémentaires pour l'aide à la rédaction de procédures administratives, agent IA, etc.) et son déploiement progressif à l'échelle nationale (au moins 150 collectivités utilisatrices et 300 procédures lancées).
+

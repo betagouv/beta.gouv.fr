@@ -8,4 +8,5 @@ missions:
     end: 2026-06-08
     status: admin
     employer: dinum
+github: JulieGuyot25
 ---

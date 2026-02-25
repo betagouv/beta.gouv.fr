@@ -7,16 +7,13 @@ usertypes: []
 title: Transports sanitaires
 mission: Pérenniser le système de transports sanitaires en apportant des gains d'efficience, au bénéfice de toutes les parties prenantes. Le bon transport, à un coût soutenable et qui garantit l'accès aux soins.
 incubator: dinum
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-12-15
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-02-24
+link: ''
 ---
 ## Contexte
 

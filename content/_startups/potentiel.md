@@ -1,6 +1,6 @@
 ---
 title: Potentiel
-mission: Faciliter le parcours des producteurs d'énergies renouvelables électriques
+mission: Être un outil central des dispositifs de soutien aux EnR électriques, en facilitant le parcours administratif et en produisant des données stratégiques.
 sponsors:
   - /organisations/ministere-charge-de-l-energie
 incubator: mtes
@@ -36,11 +36,13 @@ techno:
   - sentry
   - chai
   - cucumber
+  - node
+  - csv
 impact_url: https://potentiel.beta.gouv.fr/statistiques-publiques
 analyse_risques: true
 mon_service_securise: true
 ---
-##  Introduction - contexte
+##  Le constat
 
 L’Etat met en œuvre une politique volontariste de soutien au développement des énergies renouvelables (EnR) électriques sous forme d’appel d’offres.
 
@@ -50,7 +52,7 @@ L’objectif est d’atteindre une part de 40% de ces énergies sur le total de 
 
 Notre objectif : Faciliter le parcours des producteurs d'énergies renouvelables électriques
 
-## Les problématiques
+## Les irritants
 
 
 ### Les projets lauréats d’EnR électriques sont soumis à : 

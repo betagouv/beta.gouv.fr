@@ -23,6 +23,7 @@ events:
   - name: product_launch
     date: 2025-04-21
 techno: []
+repository: https://github.com/betagouv/anssi-recommandations-cyber
 link: ''
 ---
 ## L’irritant
