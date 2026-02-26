@@ -12,11 +12,10 @@ missions:
     employer: Malt
     startups:
       - bambin
+      - guichet-territorial-pour-la-transition-ecologique
 ---
-Création et application de plans d’action visant à intégrer des pratiques durables dans votre modèle d'affaires, garantissant ainsi un impact positif sur l’environnement tout en stimulant votre croissance !
+Accompagnement des acteurs publics et privés dans le déploiement à grande échelle de projets à impact, au service de la transition écologique et de l’aménagement du territoire.
 
-Je vous accompagne dans 👇
+Mission : connecter les ambitions du secteur public et du secteur privé pour accélérer la mise en œuvre de solutions durables.
 
-1/ La mise en place de partenariats stratégiques pour booster votre croissance.
-2/ L'acquisition de nouveaux clients
-3/ Le développement national et international de vos activités
+Expertises : business development, marketing, partenariats stratégiques et go to market strategie.

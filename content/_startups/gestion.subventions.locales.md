@@ -31,7 +31,7 @@ events:
   - name: other
     date: 2026-12-19
     comment: Homologation de sécurité
-link: ''
+link: https://turgot.beta.gouv.fr/
 ---
 ## La start-up
 

@@ -6,11 +6,17 @@ github: natoine
 link: https://www.linkedin.com/in/antoineseilles/
 missions:
   - start: 2024-10-01
-    end: 2026-03-24
+    end: 2026-08-24
     status: independent
     employer: Numa
     startups:
       - pitchou
+  - start: 2025-05-12
+    end: 2026-08-26
+    status: independent
+    employer: Numa
+    startups:
+      - urban-simul
 badges:
   - segur
 competences:

@@ -13,6 +13,11 @@ missions:
     status: independent
     startups:
       - lucca
+  - start: 2026-02-26
+    end: 2026-08-26
+    status: independent
+    startups:
+      - guichet-territorial-pour-la-transition-ecologique
 link: https://www.linkedin.com/in/thibault-t%C3%A9zier-67919a51/
 competences:
   - Coaching

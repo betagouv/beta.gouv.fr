@@ -23,6 +23,8 @@ techno:
   - API démarches-simplifiées
 link: https://pitchou.beta.gouv.fr/
 repository: https://github.com/betagouv/pitchou
+budget_url: https://docs.google.com/spreadsheets/d/1E1z_SMXquqVnKvJXy7yKdGk1YPdV58_oaoLxBtf_k7s/edit?usp=sharing
+stats_url: https://pitchou.beta.gouv.fr/stats
 ---
 ## Contexte
 

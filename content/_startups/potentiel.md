@@ -37,136 +37,197 @@ techno:
   - chai
   - cucumber
   - node
-  - csv
 impact_url: https://potentiel.beta.gouv.fr/statistiques-publiques
 analyse_risques: true
 mon_service_securise: true
 ---
-##  Le constat
+## **Potentiel** – Plateforme nationale de pilotage des EnR électriques
+
+**Faciliter le parcours des producteurs d’énergies renouvelables et piloter la transition énergétique en temps réel**
+
+## **🌍 Contexte & Enjeux**
 
 L’Etat met en œuvre une politique volontariste de soutien au développement des énergies renouvelables (EnR) électriques sous forme d’appel d’offres.
 
-L’objectif est d’atteindre une part de 40% de ces énergies sur le total de l’électricité produite à l’horizon 2030. 
+L'objectif est d'atteindre une part de **40 % d’énergies renouvelables électriques produite d’ici 2030**.
 
-**Potentiel** permet de faciliter le suivi de ces projets, de gagner en traçabilité et en efficacité en fluidifiant les échanges entre porteurs de projets, administrations centrales et déconcentrées, acheteurs obligés et régulateurs, puis à terme entre gestionnaires de réseau et organismes de contrôle.
+## **🚧 Constats 2020 et irritants**
 
-Notre objectif : Faciliter le parcours des producteurs d'énergies renouvelables électriques
+**Les projets lauréats d’EnR électriques sont soumis à :**
 
-## Les irritants
+* **De nombreuses procédures administratives** qui engendrent des lourdeurs administratives et contentieux éventuels
 
+* **Des demandes et instructions au format papier**
 
-### Les projets lauréats d’EnR électriques sont soumis à : 
+* **Une multiplicité des acteurs amenés à intervenir sur le projet** : porteurs de projets, administrations centrales et déconcentrées, acheteurs obligés, gestionnaires de réseau etc… ; les informations détenues par chaque acteur intervenant sur le projet sont parcellaires car elles ne sont pas partagées. Cela entraîne un allongement des délais d’instruction dans la mesure où aucun croisement de ces données n’est opéré, incluant par ailleurs des possibilités de contentieux accrues.
 
-* De nombreuses procédures administratives qui engendrent des lourdeurs administratives : candidature, désignation, autorisation d’exploiter, raccordement au réseau, demandes de modifications, contractualisation... ;
-* Des demandes et instructions au format papier ; 
-* Une multiplicité des acteurs amenés à intervenir sur le projet : porteurs de projets, administrations centrales et déconcentrées, acheteurs obligés, gestionnaires de réseau etc… ;
+* **Une durée du développement des projets longue** (de 2 jusqu’à 10 ans)
 
-Les informations détenues par chaque acteur intervenant sur le projet sont parcellaires car elles ne sont pas partagées. Cela entraîne un allongement des délais d’instruction dans la mesure où aucun croisement de ces données n’est opéré, incluant par ailleurs des possibilités de contentieux accrues.
-* Une durée du développement des projets longue (de 2 jusqu’à 10 ans)
+En conclusion, cela entraîne un **manque de suivi global des projets d’EnR** permettant de piloter les dispositifs de soutien et de suivre l’atteinte des objectifs de la PPE.
 
-En conclusion, cela entraîne un manque de suivi global des projets d’EnR permettant de piloter les dispositifs de soutien et de suivre l’atteinte des objectifs de la PPE.
+## **🌟** Notre **raison d’être**
 
-## La solution => Potentiel
+**Être un outil central des dispositifs de soutien aux EnR électriques, en facilitant le parcours administratif et en produisant des données stratégiques.**
 
-Potentiel a vocation à réunir l’ensemble des acteurs de la filière et à rendre accessible, en un lieu unique, les informations détenues par ceux-ci aux différentes phases de développement des projets d’EnR.
+## **🧭&#x20;**&#x4E;otr&#x65;**&#x20;Ambition&#x20;**- vision du succès à 2 ans
 
-L’outil simplifie les démarches, harmonise les pratiques et génère un gain de temps considérable pour tous.
+* ***Être la plateforme de référence***, qui centralise toutes les démarches et données relatives aux projets d’EnR soumis aux appels d’offres/ dispositifs de soutien
 
-### Notre proposition de valeur pour les porteurs de projet
+* *Être un&#x20;****outil stratégique****&#x20;pour le pilotage de la politique énergétique française*
 
-Les porteurs de projets d’EnR répondant aux appels d’offres de l’État souffrent de complexité administrative dans la gestion de leurs projets. 
+## **🎯 Notre Solution : un guichet central**
 
-Potentiel leur offre des fonctionnalités sur mesure visant à faciliter la gestion de leurs projets.
+**Potentiel** est devenu **l’outil&#x20;**&#x71;ui réuni **les acteurs de la filière EnR** électrique et permet de :
 
-### Notre proposition de valeur pour les partenaires et administrations
+✅ **Simplifier** et **gain de temps** dans les démarches administratives des porteurs de projets
 
-Les partenaires et administrations peinent à récupérer les informations liées aux projets d’EnR répondant aux appels d’offres de l’État.
+✅ **Transparence&#x20;**&#x65;t **centralisation** des données pour tous les acteurs (porteurs de projet, administrations centrales et déconcentrées, Gestionnaires de réseau, CRE, ADEME, cocontractants..)
 
-Potentiel permet à tous les acteurs concernés de consulter ces informations grâce à une plateforme unique qui centralise la donnée disponible à tout moment et gagner en :
+✅ **Des interconnexions clés** : CRE (via Démarche Numérique), Enedis (API pour les raccordements), et un **tableau de bord interministériel (RIE)** pour le pilotage de la PPE
 
-* Transparence
-* Gain de temps
-* Suivi des politiques publiques
+✅ **Suivre&#x20;**&#x65;t **Piloter** la **Programmation Pluriannuelle de l’Énergie (PPE)** avec des données en temps réel\
+✅ **Des gains concrets** :
 
-## Les premières étapes - Périmètre de test (2020)
+* **65 % des demandes traitées sans instruction**
+
+* **1,1 GW sauvés** grâce aux abandons pour recandidature
+
+* **80 % des références de raccordement** récupérées automatiquement avec ENEDIS
+
+## **📈 Impact 2025 : Une Année de Croissance et d’Innovation**
+
+### **Gestion de nos utilisateurs**
+
+* Un **support rapide et efficace**, structuré sur 4 piliers : le guide d’utilisation, le ChatBot, les échanges via l’adresse e-mail <contact@potentiel.beta.gouv.fr>, des échanges en visio
+
+* **Recueillir les besoins** et la satisfaction de l’ensemble des usagers par des sondages courts et réguliers sur tous les supports d’échanges (webinaires, newsletters)
+
+* **Communiquer&#x20;**&#x73;ur le produit et ses évolutions via newsletter
+
+* **Présentations et démonstrations** aux différents usagers (ex. point mensuel avec les services de l'état en région)
+
+### **Chiffres clés** :
+
+* **2 161 utilisateurs&#x20;**(porteurs, services de l’État, GRD, etc.)
+
+* **13 667 projets notifiés** (+13,3 % vs 2024), dont **8 790 actifs** (+10,5 % vs 2024) représentan&#x74;**&#x20;29,4 GW,** (+21 % vs 2024)
+
+* **7 496 demandes de modification** (+25 % vs 2024), dont **52 % mécanisées et traitées automatiquement**
+
+* **61 M€ de garanties financières libérés** (+35 % vs 2024) à réinjecter dans de nouveaux projets
+
+### **Réalisations 2025** :
+
+* **Lancement de l’AOS “Petit PV Bâtiement”** (157 lauréats, 43 MWc) pour sauver le segment 100-500 kWc
+
+* **Refonte des statistiques&#x20;**&#x70;our le pilotage et le suivi du développement des EnR
+
+* **Homologation sécurité** obtenue pour 3 ans (juillet 2025)
+
+* **Migration technique&#x20;**&#x64;e l'application finalisée afin d'avoir un **code fiable, sécurisé et maintenable**
+
+## **🚀 Vision 2026 : Vers Plus d’Automatisation et d’Impact**
+
+### **Objectifs stratégiques** :
+
+* **70 à 75 % de demandes instruites sans instruction** (vs 65 % en 2025)
+
+* **100 % des candidatures sur Démarche Numérique** (fiabilité et rapidité)
+
+* **Automatisation des dates d’achèvement** (80 % de couverture via API EDF OA)
+
+* **Automatisation de la gestion des garanties financières**
+
+* **Intégration de la petite hydroélectricité** (30–50 MW/an) et préparation de la **PPE3**
+
+* **Ouverture des données** sur&#x20;****[data.gouv.fr](http://data.gouv.fr)**** pour plus de transparence
+
+* **Interopérabilité renforcée** (API, Démarche Numérique)
+
+* **Pilotage anticipé** avec intégration des délais contentieux et de raccordement
+
+* **Suivi des projets en PPA**..
+
+## 💡 **Axes stratégiques 2026**
+
+### Être la&#x20;plateforme de référence&#x20;*pour les démarches et données relatives aux projets d’EnR soumis aux appels d’offres/ dispositifs de soutien*.
+
+1. **Élargissement du périmètre&#xA0;**
+
+2. **Simplification des démarches&#xA0;**
+
+### *Être un&#x20;****outil stratégique****&#x20;pour le pilotage de la politique énergétique française*.
+
+3. **Renforcement du pilotage : réduire le time to market de la politique publique**
+
+4. **Apporter de l’agilité dans la planification de la politique de l’énergie grâce à des données complètes et fiables**
+
+### **Leviers structurants qui s’inscrivent dans la démarche de pérennisation**
+
+* Travaux sur l’homologation accessibilité
+
+* Démarche continue sur la cybersécurité
+
+## **📊 Transparence & Résultats**
+
+* **[Synthèse du Comité d’investissement de Potentiel du 4 Février 2026](https://docs.potentiel.beta.gouv.fr/nos-realisations-communes/bilan-2025-et-vision-2026)**
+
+* **[Statistiques publiques](https://potentiel.beta.gouv.fr/statistiques-publiques)**
+
+* **[Guide d’utilisation](https://docs.potentiel.beta.gouv.fr/)**
+
+* **[Code source ouvert](https://github.com/MTES-MCT/potentiel)**
+
+## **💬 Témoignages & Retours Utilisateurs**
+
+> **“Potentiel a divisé par 3 nos délais d’instruction** et nous permet de mieux piloter nos projets.” - Porteur de projet EnR
+
+> **"Potentiel est un super outil**, et l'équipe est performante." - DEAL Réunion
+
+> **"Outil de base** pour **collecter les infos nécessaires à la rédaction des contacts."&#x20;**- EDF OA
+
+## **🛠 L’Équipe & Nos soutiens**
+
+* **1 intrapreneuse**, **4 développeurs**, **1 chargé de déploiement**
+
+* **Sponsor et incubateur&#x20;**: DGEC et la Fabrique Numérique de l’Écologie (MTE)
+
+## **📜 L'historique du projet**
+
+### **Les premières étapes (2020)**
 
 L’objectif, dans un premier temps, a été de dématérialiser l’ensemble des interactions entre porteurs de projets et administrations pour assurer une traçabilité des décisions. Les premiers tests lancés en avril 2020 ont visé les candidats des nouveaux appels d’offres. Ce périmètre a permis d’essayer l’outil étape par étape, permettant un développement progressif en suivant l’avancée des porteurs de projets dans leurs démarches.
 
-### Déploiement des étapes de test
+### **Déploiement des étapes de test**
 
-* L’envoi d’emails automatisés à partir de la plateforme pour annoncer les résultats d’une candidature à l’un des appels d’offres (aussi bien pour les lauréats que pour les éliminés) ;
-* La réalisation, pour les lauréats des premières étapes du processus de développement de leur projet ;
-* Une vue d’ensemble de l’avancée de leurs projets pour tous les candidats ;
-* La possibilité pour tous les candidats de faire des demandes de modification pour leurs projets (pour les non lauréats : une demande de recours, pour les lauréats : toute autre demande) ;
-* D’autre part, pour préparer l’importation de l’historique des projets pré-2020, (période allant de 2016 à 2020), l’équipe a recensé les différents paramètres à prendre en compte, les formats et les règles de gestion.
+* L’envoi d’emails automatisés à partir de la plateforme pour annoncer les résultats d’une candidature à l’un des appels d’offres (aussi bien pour les lauréats que pour les éliminés)
 
-## Nos réalisations
+* La réalisation, pour les lauréats des premières étapes du processus de développement de leur projet
 
-### Implémentation des règles métier
+* Une vue d’ensemble de l’avancée de leurs projets pour tous les candidats
+
+* La possibilité pour tous les candidats de faire des demandes de modification pour leurs projets (pour les non lauréats : une demande de recours, pour les lauréats : toute autre demande)
+
+* D’autre part, pour préparer l’importation de l’historique des projets pré-2020, (période allant de 2016 à 2020), l’équipe a recensé les différents paramètres à prendre en compte, les formats et les règles de gestion
+
+## **Nos réalisations**
 
 * Décryptage des règles métier permettant de remplacer l’analyse chronophage, réalisée jusque-là par des agents par une gestion automatique
+
 * Génération automatisée de courriers d’instruction pré-complétés
+
 * Complétude des demandes de modification (suivi de l’instruction pour les porteurs et réponses directement dans l’outil) ceci améliorant les délais de traitement et évitant aux porteurs de perdre du temps dans le développement de leurs projets
+
 * L’ajout des cahiers de charges modificatifs dont ceux publiés en août 2022 qui offre la possibilité d’une augmentation de puissance jusqu’à 140%, une date limite d’achèvement prolongée de 18 mois supplémentaires et la possibilité de vendre de l’électricité sur le marché, en amont du démarrage du contrat de soutien
 
-### Chantiers techniques
 * La mise en place de tableaux de bord concernant les données de la filière afin d’avoir une visibilité sur l’atteinte des objectifs de la programmation pluriannuelle de l’énergie (PPE)
-* L’import de l’historique des projets encore actifs (depuis septembre 2016) pour permettre aux porteurs de pouvoir gérer l’ensemble de leurs projets actifs.
+
+* L’import de l’historique des projets encore actifs (depuis septembre 2016) pour permettre aux porteurs de pouvoir gérer l’ensemble de leurs projets actifs
+
 * Un changement d’architecture technique pour adapter Potentiel aux développements stratégiques décidés
+
 * Basculement vers une autre base de données sur le cloud
+
 * L’intégration d’acteurs supplémentaires de la chaîne de valeur pour améliorer encore les délais de traitement des demandes, centraliser les données et permettre un meilleur pilotage par tous . Ajout des rôles : acheteur obligé, Commission de régulation de l’énergie, ADEME, Caisse des dépôts
 
-### Gestion de nos utilisateurs
-* Affiner les échanges avec nos utilisateurs : Un support rapide et efficace ; communiquer sur le produit et ses évolutions avec la mise en place d’une newsletter (bimestrielle) ; recueillir les besoins et la satisfaction de l’ensemble des usagers par des sondages courts et réguliers sur tous les supports d’échanges (webinaires, newsletters) ;
-* Mise en place d’un support utilisateur structuré sur 3 piliers : le guide d’utilisation ; un ChatBot automatique sur les 10 questions courantes, récurrentes, les échanges via l’adresse e-mail [contact@potentiel.beta.gouv.fr]() ; des échanges en visio ;
-* Présentations et démonstrations aux différents partenaires (gestionnaire de réseaux, commission de régulation de l’énergie, acheteur obligé…) pour le développement des fonctionnalités et envisager les futures interopérabilités pour s’accorder sur le contenu et le format des échanges.
-
-## L’impact
-
-### Sur les projets suivis
-
-* 13 646 projets dont  9412 lauréats
-* 32,3 GW en puissance cumulée
-* 7015 demandes des porteurs de projet réalisées sur Potentiel
-
-### Sur les statistiques utilisateurs
-
-* 3213 porteurs de projet inscrits
-* près de 2000 connexions en moyenne par mois
-
-### Un temps moyen d’instruction des demandes divisé par 3
-![](https://docs.potentiel.beta.gouv.fr/~gitbook/image?url=https:%2F%2F341821779-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MK-BGgj_eN7FsxQv8fl%252Fuploads%252FhDpAaLnlNrlLHhfO3HZR%252Fimage.png%3Falt=media%26token=c9f030ca-e873-42a6-9d25-fb0299007ce7&width=400&dpr=3&quality=100&sign=7fed0d74dfaff35b657cda428b6dc6b82f8994720dc6fcba3d418b18681fd86d)
-
-### La possibilité de mettre en place des mesures d’urgences afin de sauver un maximum de projets
-
-A début 2025 :
-* 3,35 GW de puissance cumulée pour les projets ayant bénéficié des 18 mois d'achèvement supplémentaires
-* 1,7 GW avec le processus automatisé d'abandon pour recandidature
-
-## Le budget
-
-- 2020 : 127 135 € de la DGEC* et 80 400 € issus du programme FAST (Fonds d’accélération des startups d’Etat et de territoires)
-- 2021 : 973 492 € de la DGEC, 422 937 € issus du plan France Relance et 79 812 € de l'ADEME
-- 2022 : Financée par le budget de l'année 2021
-- 2023 : 507 822 € de la DGEC
-- 2024 : 881 063 € de la DGEC
-- 2025 : 637 408 € de la DGEC
-
-*Direction générale de l'Énergie et du Climat (Ministère en charge de l'énergie)
-
-## La feuille de route
-
-* Devenir le pôle central pour la gestion administrative des projets d’EnR électriques soumis à appel d’offres en France avec l’intégration de nouvelles énergies ou de nouveaux appels d'offres : 
-Petite hydroélectricité, appel d'offres Petit PV, appel d'offres PPE3
-* La migration de toutes les fonctionnalités sur un nouveau socle technique permettant les futurs échanges automatisés
-* Faciliter l’interopérabilité avec tous les acteurs afin d’augmenter et d’accélérer les projets en service en développant les connexions API avec nos partenaires 
-* Implémenter l’ensemble des étapes de développement des projets, de la notification à leur mise en service : récupération automatique des projets CRE , finalisation du processus de gestion des garanties financières et leur renouvellement (de la désignation d'un projet jusqu'à la main-levée)..., récupération automatique des dates de mise en service
-* Améliorer la rétention des utilisateurs en ajoutant les fonctionnalités nécessaires au parcours des nouveaux acteurs intégrése
-* Mise à disposition des données publiques (data gouv)
-
-## Notre Vision grâce à Potentiel
-
-* Une baisse des délais de traitement de chaque opération entraîne une diminution du temps entre la désignation et la mise en service et donc la possibilité de faire plus de projets pour chaque porteur
-* Des statistiques à jour et en temps réel pour le suivi de l’atteinte des objectifs de la PPE avec la possibilité d’apporter des modifications aux dispositifs de soutien pour un pilotage efficient et efficace
-
-Et bien plus encore à venir…
+* Refonte de l'authentification pour plus de sécurité et d'ergonomie

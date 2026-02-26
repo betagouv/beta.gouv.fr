@@ -12,5 +12,6 @@ missions:
     employer: Cerema
     startups:
       - bambin
+      - guichet-territorial-pour-la-transition-ecologique
 ---
 Je suis spécialisé sur les questions du bruit et du trafic routier, avec qq compétences en données SIG. Notions de python, SQL, FME. J'aime bien les gâteaux et la course à pied.

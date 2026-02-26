@@ -6,7 +6,7 @@ github: thbar
 link: https://thibautbarrere.com
 missions:
   - start: 2020-11-02
-    end: 2026-05-15
+    end: 2026-07-31
     status: independent
     employer: LoGeek
     startups:

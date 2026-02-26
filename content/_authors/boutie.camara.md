@@ -15,7 +15,7 @@ missions:
     startups:
       - qualicharge
   - start: 2024-09-12
-    end: 2026-02-28
+    end: 2026-06-30
     status: independent
     employer: LittleBig Connection
     startups:

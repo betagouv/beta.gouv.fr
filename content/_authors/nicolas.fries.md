@@ -1,6 +1,6 @@
 ---
 fullname: Nicolas Fries
-role: Développeur
+role: DevOps
 domaine: Développement
 github: pseudonyme21
 missions:
@@ -11,7 +11,7 @@ missions:
     startups:
       - cmachance
   - start: 2022-03-28
-    end: 2026-02-28
+    end: 2026-08-26
     status: independent
     employer: Malt
     startups:

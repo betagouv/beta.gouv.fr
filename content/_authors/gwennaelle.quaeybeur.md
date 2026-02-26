@@ -6,9 +6,9 @@ competences: []
 missions:
   - start: 2026-01-14
     end: 2027-12-31
-    employer: DSJ
     status: admin
+    employer: DSJ
     startups:
       - a-just
-teams: []
+github: Gwennaelleqbr
 ---

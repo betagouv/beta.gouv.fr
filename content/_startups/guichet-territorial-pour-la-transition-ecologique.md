@@ -127,6 +127,18 @@ Matrice d'impact (màj 20/02/2026)
 | 96 procédures administratives lancées dans 50 collectivités | 50 collectivités ont déposé un signalement sur la plateforme | 3 dépôts nettoyés par les auteurs | 
 | Score de satisfaction NPS 8/10 | 9 collectivités ont initié plusieurs procédures | 
 
+- **LUCCA :**
+Matrice d'impact (màj 26/02/2026)
+
+Tous les chiffres [ici](https://docs.numerique.gouv.fr/docs/9dbd4f9c-eff4-4de7-bc55-5ca88bc89bbd/)
+
+Statistiques de déploiement sur [Metabase](https://metabase.aigle.beta.gouv.fr/public/dashboard/415f3672-bac6-4480-a41d-4db730c52325?d%25C3%25A9partements=&date_max=&date_min=&groupes_utilisateurs=)
+
+| Utile | Utilisé | Impactant |
+|--- | --- | --- | 
+| "Près de 50% de temps gagné pour faire un PV" (Lionel, garde-champêtre dans l’Hérault)| 115 groupes utilisateurs (collectivités) | DDTM 34 : + 200% augmentation PV entre 2019 et 2021 | 
+| Score de satisfaction NPS : en cours | + 3000 procès-verbaux | Une action opérationnelle sur une parcelle mène dans 60% des cas à une remise en état
+
 ---
 
 #### Notre cadre d'action

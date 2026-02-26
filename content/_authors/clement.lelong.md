@@ -16,6 +16,7 @@ missions:
     employer: Scopyleft
     startups:
       - bambin
+      - guichet-territorial-pour-la-transition-ecologique
 previously:
   - aides.jeunes
 competences:
