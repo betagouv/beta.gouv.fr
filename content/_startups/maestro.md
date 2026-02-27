@@ -25,8 +25,9 @@ mon_service_securise: true
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Maestro
 events:
   - name: committee
-    date: 2025-10-03
+    date: 2026-04-03
 stats_url: https://maestro.beta.gouv.fr/statistiques-publiques/
+dashlord_url: https://dashlord.incubateur-agriculture.beta.gouv.fr/url/app-maestro-beta-gouv-fr/
 ---
 ## Contexte
 

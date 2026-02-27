@@ -26,7 +26,7 @@ missions:
       - mission.debroussaillement
       - monprojetsup
   - start: 2024-11-04
-    end: 2026-02-28
+    end: 2026-06-30
     status: independent
     employer: NUMA
     startups:

@@ -84,7 +84,7 @@ Ces projets peuvent être portés par des collectivités territoriales ou des OP
 
 - **[TerriSTORY®](https://terristory.fr/)**: il s'agit d'une plateforme numérique open source conçue pour accompagner les territoires dans leur transition écologique. Portée par AURA-EE (Agence régionale de l'énergie et de l'environnement Auvergne-Rhône-Alpes), elle permet aux collectivités de diagnostiquer leur situation, construire des trajectoires de transition et piloter les impacts de leurs politiques locales. TerriSTORY® met à disposition un socle commun de données fiables et multithématiques, de simulateurs et de tableaux de bord, pour faciliter une action publique plus stratégique, transversale et partagée.
 
-- **[diagBruit](https://diagbruit.beta.gouv.fr/)** : produit porté par Bordeaux Métropole et incubée à l’Accelerama (Cerema), diagBruit propose un outil de diagnostic sonore à destination des instructeurs en autorisation du droit des sols (ADS). Grâce à une interface simple inspirée du “nutriscore du bruit”, la solution permet de mieux évaluer l’exposition sonore des projets immobiliers en lien avec le Plan local d’urbanisme (PLU), et de recommander des améliorations aux promoteurs. Elle vise à intégrer plus systématiquement le risque bruit dans les projets de construction. 
+- **[diagBruit](https://diagbruit.beta.gouv.fr/)** : produit porté par Bordeaux Métropole et incubée à l’Accelerama (Cerema), diagBruit propose un outil de diagnostic sonore à destination des instructeurs en autorisation du droit des sols (ADS) et des porteurs de projet. Grâce à une interface simple, la solution permet de mieux évaluer l’exposition sonore (grâce au "sono-score") des projets immobiliers. Basé sur les cartes de bruit stratégiques, le classement sonore et les plan d'exposition au bruit, et en lien avec le Plan local d’urbanisme (PLU), diagBruit fourni un rappel règlementaire efficace et des préconisations à destination des acteurs des territoires. Le projet vise à intégrer plus systématiquement le risque bruit dans les projets de construction pour protégre la santé des populations. 
 
 - **[Protect'Envi](https://protect-envi.beta.gouv.fr/)**: service porté par la Communauté de communes Gally Mauldre (78) et le Commandement pour l’environnement et la santé (CESAN) de la Gendarmerie nationale, incubée à la DINUM. Protect’envi est une solution numérique qui accompagne les collectivités dans la lutte contre les dépôts sauvages en simplifiant les démarches administratives et judiciaires. De la constatation de l’infraction jusqu’à l’envoi des documents officiels (rapports, arrêtés, lettres), l’outil automatise la procédure, tout en assurant une traçabilité rigoureuse.
 
@@ -116,7 +116,9 @@ Statistiques d'impact : [https://terristory.fr/national/statistiques](https://te
 
 
 - **diagBruit :** 
-Statistiques d'impact : [https://diagbruit.fr/stats](https://diagbruit.fr/stats)
+
+    - matrice d'impact : disponible [ici](https://docs.numerique.gouv.fr/docs/c370925a-d67a-4177-a698-f017332dbc95/)
+    - Statistiques d'impact : disponibles [là](https://diagbruit.fr/stats)
 
 
 - **Protect'Envi :**
