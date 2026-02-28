@@ -22,7 +22,7 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - longuevieauxobjets
+      - quefairedemesobjetsetdechets
 memberType: beta
 competences:
   - Product design

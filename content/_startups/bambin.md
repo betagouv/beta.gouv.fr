@@ -40,8 +40,9 @@ events:
     comment: Comité d'investigation FINDPE. Le guichet va contribuer au financement du produit
 link: https://diagbruit.beta.gouv.fr/
 repository: https://github.com/betagouv/diagbruit.beta.gouv.fr
-stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=212&period=day&date=yesterday#?period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=1
-impact_url: https://diagbruit.fr/stats
+stats_url: https://diagbruit.fr/stats
+impact_url: https://docs.numerique.gouv.fr/docs/c370925a-d67a-4177-a698-f017332dbc95/
+budget_url: https://docs.numerique.gouv.fr/docs/2ba84885-8e90-4043-b614-0d5c67a8186f/
 ---
 ## Contexte
 
@@ -60,29 +61,33 @@ En tant que chargé de mission bruit, je constate que les recommandations des do
 
 En tant qu’instructeur droit des sols, je ne dispose pas de suffisamment de temps et de connaissances technique pour intégrer le bruit dans mes recommandations.  
 
-En tant qu'élu, sans soutien pédagogique, je peine à m’approprier les diagnostics, dont les résultats sont parfois contradictoires avec les plaintes formulées par les habitants.  
+En tant qu'élu, sans soutien pédagogique, je peine à m’approprier les diagnostics, dont les résultats sont parfois contradictoires avec les plaintes formulées par les habitants.
+
+En tant que porteur de projet, je ne dispose pas d'un accès facile pour connaitre les obligation règlementaires liées au bruit sur une parcelle.  
 
 ## Solution
 
-Sur les territoires couverts par une carte de bruit, les instructeurs bénéficient d’un diagnostic flash qui leur indique le niveau de risque sonore (faible, moyen, fort) sur la parcelle considérée. ils peuvent copier-coller ce diagnostic dans les documents qu’ils émettent à destination des collectivités ou des porteurs de projet.  
+diagBruit permet aux **porteurs de projets** de concevoir des projets **viables** qui protègent la santé des habitants
 
-Ce diagnostic est basé sur un ensemble de données en cours de réflexions. À date (liste non exhaustive) : cartes de bruit grandes infrastructures et agglomération, classements sonores, plan d'exposition au bruit.
+diagBruit permet aux **instructeurs permis de construire** **d'alerter** les porteurs de projet sur les risques acoustiques sur une parcelle
+
+**Nos bénéfices :**
+
+- Une **alerte** simple sur le risque sonore pour la santé des habitants
+- Un accès fiable et simple à la **réglementation**
+- Des **conseils** concrets, illustrés, applicables
 
 ## Stratégie
 
 La phase d’investigation a été menée auprès d’un panel de Métropoles, de gestionnaires, de porteur de politiques publiques, d’associations, d’agences ou organismes de recherche et de producteurs de données.  
+Elle a mis en lumière la trop grande technicité de la thématique et la complexité de la règlementation associée.
 
-Elle vise les organismes qui répondent “non” à la question “*Selon vous, actuellement sur votre territoire, prenez vous suffisamment en compte le bruit lors de l'analyse d'un projet d'aménagement ou de construction ?”*.  
-
-La construction de la solution va être phasée selon les sources d'informations à prendre en compte : 
-1. Cartes de bruit stratégiques et classement sonore des voies
-2. Mesures et retour d'expérience
-3. Études et recherche en santé et acoustique.  
-Les retours utilisateurs pourront amener à faire évoluer cette liste.
+En 2025, l'équipe a capitalisé sur le travail d'investigation pour tester l'impact direct du terrain par les services d'application droit des sols (ADS). Il en ressort que la thématique bruit ne peut être réglementairement opposable par le biais du PLU (hormis l'inconstructibilité liée aux aérodromes).  
+En 2026, le projet vise donc à conserver l'appui des services ADS pour mieux sensibiliser les porteurs de projet.
 
 ## Impacts recherchés
 
 L’impact terrain recherché est l’ajustement d’un projet par son porteur. Cet ajustement peut intervenir à la suite d'une recommandation d'un instructeur ADS, d'un élu ou par une action volontariste.
 
 
-Les impacts intermédiaires sont le nombre de diagnostics créés ainsi que le nombre de diagnostics transmis aux porteurs de projets. Le nombre d’études acoustiques complémentaires demandées suite à consultation du diagnostic serait également un très bon indicateur.
+La modification d’un projet d’aménagement ou de construction pour minimiser le bruit des riverains, et / ou la prise en compte de l’acoustique au delà de la règlementation dans un projet d’aménagement ou de construction.

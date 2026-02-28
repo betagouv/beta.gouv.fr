@@ -17,7 +17,7 @@ missions:
     status: independent
     employer: Malt + Dynergie
     startups:
-      - longuevieauxobjets
+      - quefairedemesobjetsetdechets
   - start: 2025-01-01
     end: 2026-06-30
     status: independent

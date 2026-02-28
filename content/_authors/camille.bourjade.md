@@ -13,6 +13,6 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - longuevieauxobjets
+      - quefairedemesobjetsetdechets
 ---
 Experte en content design et content ops, je participe à concevoir et améliorer l'expérience des utilisatrices et utilisateurs des solutions sur lesquelles d'interviens. Mon passé d'interprète de conférence me permet de mettre l'accent sur l'essentiel des messages à faire passer, au bon endroit, au bon moment et de la bonne manière. Ce travail permet de gommer toutes les frictions liées aux mots dans nos interfaces. 

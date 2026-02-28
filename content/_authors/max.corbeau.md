@@ -19,6 +19,6 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - longuevieauxobjets
+      - quefairedemesobjetsetdechets
 ---
 20 ans d'expérience dans la tech (réseaux/télécom puis data), spécialisation dans la data depuis 2013 (d’abord analytics engineering puis data engineering).

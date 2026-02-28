@@ -10,6 +10,6 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - longuevieauxobjets
+      - quefairedemesobjetsetdechets
 ---
 Passionné des enjeux de développement/déploiement en lien avec les start-ups de la transition environnementale !

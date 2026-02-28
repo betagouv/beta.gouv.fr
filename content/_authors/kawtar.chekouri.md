@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2025-12-15
     end: 2026-07-30
-    employer: DILA
     status: service
+    employer: DILA
     startups:
       - conseillers-entreprises
-teams: []
 ---
