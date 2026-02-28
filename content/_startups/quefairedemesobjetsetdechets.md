@@ -12,6 +12,7 @@ impact_url: https://quefairedemesdechets.ademe.fr/stats/matrice-impact/
 dashlord_url: https://dashlord.incubateur.ademe.fr/startup/longuevieauxobjets
 redirect_from:
   - /startups/longuevieauxobjets
+  - /startups/quefairedemesobjets
 thematiques:
   - Écologie
 usertypes:
