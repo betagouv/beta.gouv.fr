@@ -2,7 +2,7 @@
 mission: Faciliter le travail des agents publics en charge de la gestion du parc d’hébergement des demandeurs d’asile
 incubator: dinum
 title: Bhasile (anc. Place d'Asile)
-contact: thibault.desjardins@beta.gouv.fr
+contact: contact@placedasile.beta.gouv.fr
 thematiques:
   - Administratif
   - Social
@@ -17,6 +17,8 @@ phases:
   - name: investigation
     start: 2024-05-14
   - name: construction
+    start: 2025-02-01
+  - name: acceleration
     start: 2025-09-01
 mon_service_securise: false
 techno:

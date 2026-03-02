@@ -11,6 +11,12 @@ missions:
     employer: Omnicité
     startups:
       - mon-aide-cyber
+  - start: 2026-03-02
+    end: 2026-06-02
+    status: independent
+    employer: Little Big Connection
+    startups:
+      - agreste
 memberType: beta
 competences: []
 ---

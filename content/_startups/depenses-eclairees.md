@@ -22,6 +22,7 @@ events:
   - name: committee
     date: 2025-05-22
     comment: Passage en comité d'investissement ALLiaNCE
+repository: https://github.com/betagouv/depenses-eclairees
 link: ''
 ---
 ## Contexte

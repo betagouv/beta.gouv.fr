@@ -8,6 +8,14 @@ highlighted_startups:
   - basegun
   - histovec
 owner: /organisations/interieur
-short_description: Créé sous le nom “Lab MI” en janvier 2018, l’incubateur a été rebaptisé en tant que La Fabrique du MIOM en janvier 2024.
+short_description: La Fabrique Numérique du ministère de l’Intérieur est une fabrique de solutions numériques, articulant innovation, ingénierie logicielle, intelligence artificielle et valorisation des données métiers.
+website: ''
 ---
-Créé sous le nom “Lab MI” en janvier 2018, l’incubateur a été rebaptisé en tant que La Fabrique Numérique du Ministère de l'Intérieur en janvier 2024. Sous l'impulsion du flux TechMiup, elle engrange chaque année différentes initiatives. L'édition n°4 du programme TechMiup a permis l'accompagnement de 9 initiatives: Data Démineurs, Data QPV, Forms, Geotop, Ia Accueil, Ia des Titres, JuriGPT, MENTORAT, ReAct.
+Rebaptisée en janvier 2024, la Fabrique Numérique du ministère de l’Intérieur a évolué d’un simple laboratoire exploratoire vers une véritable fabrique de solutions numériques, articulant innovation, ingénierie logicielle, intelligence artificielle et valorisation des données métiers.*
+
+
+Portée par la dynamique du programme TechMiup, elle a accompagné au fil des années un portefeuille croissant d’initiatives ambitieuses ainsi que plusieurs start-up d’État emblématiques telles que Selfim, Astrée, Basegun, JuriGPT, MentorAT, ReAct, IAppel, et bien d’autres.
+
+Désormais, la Fabrique Numérique s’appuie sur une démarche d’Émergence continue et sur un appui technologique rapproché, en lien direct avec le terrain, pour identifier les irritants, tester rapidement des solutions et accélérer l’adoption de l’innovation au sein des métiers. Sa stratégie repose également sur des socles techniques et communs numériques, garants de la frugalité, de la réutilisation et de l’industrialisation maîtrisée.
+
+*Elle incube aussi MIrAI, la plateforme d’IA souveraine du ministère, dont elle assure l’industrialisation, l’acculturation des agents et l’intégration progressive au poste de travail et dans les systèmes métiers.

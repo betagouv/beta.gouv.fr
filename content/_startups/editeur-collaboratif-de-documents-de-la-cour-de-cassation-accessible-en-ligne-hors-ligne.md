@@ -21,6 +21,8 @@ phases:
 events:
   - name: committee
     date: 2025-06-12
+  - name: committee
+    date: 2025-12-03
 link: ''
 ---
 ## Contexte
