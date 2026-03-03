@@ -5,7 +5,7 @@ domaine: Développement
 github: bjlaa
 missions:
   - start: 2022-09-07
-    end: 2026-03-31
+    end: 2026-08-31
     status: independent
     employer: Scopyleft
     startups:

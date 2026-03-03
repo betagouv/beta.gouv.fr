@@ -16,6 +16,12 @@ missions:
     employer: LBC
     startups:
       - seves
+  - start: 2026-04-01
+    end: 2026-08-30
+    status: independent
+    employer: path tech
+    startups:
+      - sante-psy-etudiant
 previously:
   - datagir
   - nosgestesclimat

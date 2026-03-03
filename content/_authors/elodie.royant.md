@@ -21,7 +21,7 @@ missions:
     startups:
       - aidantsconnect
   - start: 2025-09-03
-    end: 2026-03-17
+    end: 2026-06-17
     status: independent
     employer: Omnicity
     startups:

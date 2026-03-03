@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: MartinVeronSSI
 missions:
   - start: 2022-09-27
-    end: 2026-03-31
+    end: 2026-06-30
     status: admin
     employer: ANSSI (SGDSN)
     startups:

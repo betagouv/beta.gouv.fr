@@ -9,15 +9,22 @@ missions:
     status: independent
     employer: octo
   - start: 2024-01-02
+    end: 2026-03-03
+    status: admin
+    employer: DINUM
+    startups:
+      - data.gouv.fr
+  - start: 2024-01-02
     end: 2026-10-01
     status: admin
     employer: DINUM
     startups:
       - data.etat
-      - data.gouv.fr
       - envirogend
       - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
       - refugies.info
+  - start: 2026-03-03
+    end: 2026-06-03
 previously:
   - aplus
   - conseillers-entreprises

@@ -21,7 +21,7 @@ missions:
       - la-bonne-alternance
       - tdb-apprentissage
   - start: 2025-05-05
-    end: 2026-03-31
+    end: 2026-05-31
     status: independent
     employer: Cour de cassation
     startups:

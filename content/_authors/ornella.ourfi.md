@@ -5,13 +5,14 @@ domaine: Développement
 github: ornella452
 missions:
   - start: 2021-05-24
-    end: 2026-03-31
+    end: 2026-04-30
     status: independent
-    employer: Octo
+    employer: React-IT
     startups:
       - france-numerique-ensemble
 badges:
   - segur
-competences: []
+competences:
+  - Développement Full-stack
 ---
 Développeuse Web full stack

@@ -38,6 +38,12 @@ missions:
     employer: UT7
     startups:
       - donnees-spectacle
+  - start: 2026-03-01
+    end: 2026-06-02
+    status: independent
+    employer: Ministère de la Culture
+    startups:
+      - etat-sanitaire-des-monuments-historiques-en-mobilite
 competences:
   - Croissance
   - Gestion de Produit

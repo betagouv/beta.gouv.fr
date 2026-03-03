@@ -1,6 +1,6 @@
 ---
 fullname: Romain Ronflette
-role: Product designer et product manager
+role: Coach, PM et Product designer
 domaine: Produit
 github: RomainRonflette
 missions:
@@ -11,7 +11,7 @@ missions:
     startups:
       - infrastructures.numeriques
   - start: 2024-05-01
-    end: 2026-04-01
+    end: 2026-08-31
     status: independent
     employer: UT7
     startups:
@@ -25,4 +25,5 @@ competences:
   - Product strategy
   - UI
   - UX
+link: https://www.linkedin.com/in/romainronflette/
 ---

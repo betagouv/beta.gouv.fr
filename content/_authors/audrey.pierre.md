@@ -19,5 +19,7 @@ competences:
   - Facilitation
   - Product strategy
 github: audrey-p784
+teams:
+  - /teams/lab-mi
 ---
 Cheffe de bureau BAOT

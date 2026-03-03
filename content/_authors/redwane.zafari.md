@@ -5,11 +5,17 @@ domaine: Développement
 github: rzafari42
 missions:
   - start: 2023-01-20
-    end: 2026-07-31
+    end: 2026-03-31
     status: independent
     employer: MALT
     startups:
       - a-just
+  - start: 2026-02-04
+    end: 2026-08-31
+    status: independent
+    employer: Pathtech
+    startups:
+      - mobilic
 memberType: beta
 link: https://www.linkedin.com/in/redwanezafari/
 competences:

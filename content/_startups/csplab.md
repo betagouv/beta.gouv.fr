@@ -23,6 +23,7 @@ phases:
     start: 2025-06-24
 redirect_from:
   - /startups/facil-emploi-public
+repository: https://github.com/betagouv/csplab
 link: ''
 ---
 # Contexte

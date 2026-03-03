@@ -30,33 +30,27 @@ sponsors:
   - /organisations/ademe
 phases:
   - name: investigation
-    comment: null
     start: 2023-01-01
-    end: null
   - name: construction
-    comment: null
     start: 2023-06-01
-    end: null
   - name: acceleration
-    comment: null
     start: 2025-05-05
-    end: null
 events:
   - name: committee
-    comment: 1er comité d'investissement
     date: 2023-11-14
+    comment: 1er comité d'investissement
   - name: committee
-    comment: 2nd comité d'investissement
     date: 2024-05-30
+    comment: 2nd comité d'investissement
   - name: committee
-    comment: 3ème comité d'investissement
     date: 2025-01-15
+    comment: 3ème comité d'investissement
   - name: committee
-    comment: 4ème comité d'investissement
     date: 2025-06-10
+    comment: 4ème comité d'investissement
   - name: committee
-    comment: 5ème comité d'investissement
     date: 2026-05-22
+    comment: 5ème comité d'investissement
 ---
 ## Contexte 👀
 

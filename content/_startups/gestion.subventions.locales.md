@@ -32,6 +32,7 @@ events:
     date: 2026-12-19
     comment: Homologation de sécurité
 link: https://turgot.beta.gouv.fr/
+dashlord_url: https://dashlord.incubateur.net/url/turgot-beta-gouv-fr/best-practices/
 ---
 ## La start-up
 
