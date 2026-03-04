@@ -1,10 +1,10 @@
 ---
 fullname: Morgane Chevalier
 role: Coach / Designer
-domaine: Coaching
+domaine: Design
 missions:
   - start: 2024-01-12
-    end: 2026-03-31
+    end: 2026-07-31
     status: independent
     employer: DINUM
 memberType: beta

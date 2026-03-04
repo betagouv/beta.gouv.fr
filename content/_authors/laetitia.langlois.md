@@ -5,7 +5,7 @@ role: Développeuse
 github: weblaetitia
 missions:
   - start: 2024-07-01
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: Omnicité
     startups:

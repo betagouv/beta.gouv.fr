@@ -12,7 +12,7 @@ missions:
     startups:
       - tdb-apprentissage
   - start: 2025-05-06
-    end: 2026-03-31
+    end: 2026-08-31
     status: independent
     employer: Scopyleft
     startups:

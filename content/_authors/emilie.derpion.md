@@ -7,7 +7,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-08-01
-    end: 2026-08-01
+    end: 2026-08-31
     status: admin
     employer: 'MInistère de l''intérieur - DGEF - DA '
     startups:

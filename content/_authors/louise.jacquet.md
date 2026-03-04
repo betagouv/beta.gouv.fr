@@ -4,7 +4,7 @@ role: Product designer
 domaine: Design
 missions:
   - start: 2023-11-06
-    end: 2026-02-28
+    end: 2026-09-01
     status: independent
     employer: Opteamis
     startups:

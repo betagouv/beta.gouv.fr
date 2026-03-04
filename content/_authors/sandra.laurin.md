@@ -7,7 +7,7 @@ competences:
   - Product design
 missions:
   - start: 2025-07-30
-    end: 2026-03-31
+    end: 2026-05-30
     status: independent
     employer: Scopyleft
     startups:

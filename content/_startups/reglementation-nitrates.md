@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: jeremy.chartier@beta.gouv.fr
+contact: nitrates@beta.gouv.fr
 thematiques:
   - Agriculture
 usertypes:

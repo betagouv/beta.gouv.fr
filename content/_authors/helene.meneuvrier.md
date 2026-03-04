@@ -5,7 +5,7 @@ domaine: Développement
 github: hmeneuvrier
 missions:
   - start: 2023-01-09
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: Scopyleft
     startups:

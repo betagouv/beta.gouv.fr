@@ -6,11 +6,12 @@ github: octavemelusyn
 link: https://fr.linkedin.com/in/octavebory
 missions:
   - start: 2021-01-08
-    end: 2026-07-04
+    end: 2026-08-28
     status: independent
     employer: NUMA
     startups:
       - portail-rse
+      - rdv.insertion
 previously:
   - acceslibre
   - estime
