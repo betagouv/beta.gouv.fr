@@ -6,7 +6,7 @@ competences:
   - Product design
 missions:
   - start: 2021-10-17
-    end: 2026-03-31
+    end: 2026-08-31
     status: service
     employer: Malt
     startups:

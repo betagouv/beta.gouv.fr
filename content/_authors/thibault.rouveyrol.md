@@ -24,6 +24,10 @@ missions:
     employer: LittleBigConnection
     startups:
       - france-numerique-ensemble
+  - start: 2026-03-02
+    end: 2026-06-02
+    status: independent
+    employer: Malt
 badges:
   - segur
 competences: []

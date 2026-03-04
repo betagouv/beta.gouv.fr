@@ -8,4 +8,6 @@ missions:
     end: 2027-12-06
     status: admin
     employer: MIOM
+teams:
+  - /teams/lab-mi
 ---

@@ -19,13 +19,13 @@ missions:
     startups:
       - umap
   - start: 2025-01-06
-    end: 2026-02-28
+    end: 2026-07-28
     status: independent
     employer: Malt
     startups:
       - vues-immersives-libres
   - start: 2025-11-24
-    end: 2026-03-01
+    end: 2026-06-01
     status: independent
     employer: Scopopop
     startups:

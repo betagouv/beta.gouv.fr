@@ -6,7 +6,7 @@ link: https://www.antoine-augusti.fr
 github: antoineaugusti
 missions:
   - start: 2021-09-01
-    end: 2026-04-02
+    end: 2026-06-03
     status: independent
     employer: Pathtech
     startups:

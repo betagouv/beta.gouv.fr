@@ -14,4 +14,6 @@ missions:
     employer: FabNum-MI      DTNUM SDID/BAOT
     startups:
       - reponse
+teams:
+  - /teams/lab-mi
 ---

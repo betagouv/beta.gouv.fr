@@ -23,6 +23,12 @@ missions:
     employer: DINUM
     startups:
       - vues-immersives-libres
+  - start: 2026-04-01
+    end: 2026-09-01
+    status: admin
+    employer: IGN
+    startups:
+      - vues-immersives-libres
 github: cquest
 link: https://www.linkedin.com/in/cquest/
 competences:

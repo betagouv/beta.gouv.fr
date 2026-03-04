@@ -22,7 +22,7 @@ missions:
     startups:
       - etat-sanitaire-des-monuments-historiques-en-mobilite
   - start: 2025-01-01
-    end: 2026-02-28
+    end: 2026-08-31
     status: independent
     employer: Dynergie
     startups:

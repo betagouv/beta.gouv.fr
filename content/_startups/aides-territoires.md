@@ -10,7 +10,7 @@ sponsors:
 incubator: anct
 link: https://aides-territoires.fr/
 repository: https://gitlab.com/incubateur-territoires/startups/mon-espace-collectivite/aides-territoires
-contact: aides-territoires@beta.gouv.fr
+contact: aides-territoires@incubateur.anct.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/aides-territoires-beta-gouv-fr/
 analyse_risques: true
@@ -26,10 +26,18 @@ phases:
 stats_url: https://aides-territoires.beta.gouv.fr/stats/
 thematiques:
   - Territoires
+  - aides
 budget_url: https://docs.numerique.gouv.fr/docs/b586afeb-2e34-4ff6-8678-ba00cfe2a279/
 techno: []
 mon_service_securise: true
-impact_url: https://aides-territoires.beta.gouv.fr/impact/
+impact_url: https://docs.numerique.gouv.fr/docs/7e4c0733-22ce-4838-9ef7-e7e4b40aeeab/
+events:
+  - name: other
+    date: 2024-11-21
+    comment: Transmission du produit de la DGALN à l'ANCT
+  - name: other
+    date: 2025-07-10
+    comment: 'Remise en construction du produit '
 ---
 ## Le problème
 

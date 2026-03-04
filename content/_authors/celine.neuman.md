@@ -10,6 +10,12 @@ missions:
     employer: ANCT
     startups:
       - suite.territoriale
+  - start: 2026-02-23
+    end: 2026-06-02
+    status: independent
+    employer: Dinum
+    startups:
+      - suite-numerique
 memberType: beta
 competences: []
 ---

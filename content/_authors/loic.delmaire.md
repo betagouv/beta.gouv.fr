@@ -9,9 +9,10 @@ missions:
     status: admin
     employer: dinum
     startups:
+      - api-entreprise
       - mps
   - start: 2020-09-01
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: octo, malt
     startups:
