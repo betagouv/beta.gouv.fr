@@ -7,8 +7,6 @@ competences:
 missions:
   - start: 2026-03-02
     end: 2026-06-02
-    employer: Ministère de la transition écologique
     status: admin
-    startups: []
-teams: []
+    employer: Ministère de la transition écologique
 ---

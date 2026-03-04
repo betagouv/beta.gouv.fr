@@ -9,10 +9,9 @@ competences:
 missions:
   - start: 2026-03-02
     end: 2026-06-02
-    employer: Ut7
     status: independent
+    employer: Ut7
     startups:
       - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne
-teams: []
 ---
 Développeur full stack
