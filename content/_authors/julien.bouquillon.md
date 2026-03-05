@@ -21,6 +21,10 @@ missions:
     end: 2027-12-28
     status: admin
     employer: DINUM
+  - start: 2026-03-04
+    end: 2026-06-04
+    startups:
+      - espace-membre
 teams:
   - /teams/communaute-dinum
 competences:
