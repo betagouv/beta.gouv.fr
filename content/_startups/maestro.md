@@ -18,7 +18,11 @@ thematiques:
 usertypes:
   - etat
   - collectivite-territoriale
-techno: []
+techno:
+  - react
+  - typescript
+  - node
+  - postgresql
 link: https://maestro.beta.gouv.fr/
 analyse_risques: true
 mon_service_securise: true

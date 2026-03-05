@@ -100,3 +100,13 @@ La feuille de route de Datafoncier s’organise désormais autour de **trois axe
 - **Clarifier le parcours d’accès** : simplifier la navigation et l’accès aux données pour des profils d’utilisateurs et des finalités variées.
 
 Cette feuille de route, conçue comme **évolutive**, sera ajustée au fil du temps en fonction **des résultats observés et des retours des utilisateurs**, dans une logique d’**amélioration continue**.
+
+### Métriques d'usage 2025
+
+- 2485 structures publiques avec des droits à jour dont 1 058 EPCI
+enregistrés (84 %),
+- 7 340 téléchargements en 2025 
+- 1240 structures actives sur les 3 derniers mois dont 491 EPCI.
+- 1 638 structures ayant effectué au moins 1 téléchargement en 2025.
+- ≈3 millions d’appels API sur l’année 2025 (API en bêta).
+- 190 000 visites sur datafoncier.cerema.fr en 2025.

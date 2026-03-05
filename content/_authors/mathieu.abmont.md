@@ -7,7 +7,7 @@ competences:
   - Croissance
 missions:
   - start: 2024-10-01
-    end: 2026-06-01
+    end: 2026-09-04
     status: independent
     employer: Scopyleft
     startups:

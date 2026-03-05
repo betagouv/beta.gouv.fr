@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-02-05
     end: 2027-02-05
-    employer: MTE
     status: admin
+    employer: MTE
     startups:
       - reglementation-nitrates
-teams: []
 ---
