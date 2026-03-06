@@ -1,6 +1,6 @@
 ---
 title: Territoires en Transitions
-mission: Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique
+mission: Prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique des collectivités
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -43,7 +43,7 @@ events:
     date: 2023-11-27
   - name: fast
     date: 2024-01-01
-    comment: Montant de 300000€ pour la promotion 14
+    comment: Montant de 150000€ pour la promotion 14
   - name: committee
     date: 2024-11-05
 mon_service_securise: true
@@ -51,21 +51,23 @@ impact_url: https://www.territoiresentransitions.fr/stats
 ---
 ## Contexte
 
-Dans le cadre des programmes d'accompagnement des collectivités dans leurs démarches de transition écologique, l'ADEME (l'Agence la transition écologique) s'est associée à beta.gouv.fr. L'objectif : Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique.
+Pour accélérer la transition écologique des collectivités l'ADEME (l'Agence de la transition écologique) s'est associée à la DINUM dans le cadre du programme beta.gouv.fr. 
+
+L'objectif : Prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique des collectivités.
 
 ## Une transition écologique lente et complexe
 
-Les collectivités ont un rôle central à jouer dans la transition écologique. Elles possèdent les compétences et l'influence sur de nombreuses activités déterminantes pour la réussite de la transition écologique.
+Les collectivités ont un rôle central dans la mise en œuvre de la transition écologique du fait de leurs compétences et influence sur de nombreuses activités à l'échelle du territoire.
 
-Une majorité des collectivités rencontrent des difficultés à mettre en place des actions à la hauteur des enjeux sur leur territoire.
+Une majorité des collectivités rencontrent des difficultés à prioriser et mettre en œuvre des actions à la hauteur des enjeux.
 
-Au-delà des différents blocages politiques, organisationnels et financiers, ces difficultés sont directement liées à la complexité et transversalité des sujets de la transition écologique qui, pourtant, dans leur mise en oeuvre, ne sont portés que par quelques personnes au sein de la collectivité.
+Au-delà des différents blocages politiques, organisationnels et financiers, ces difficultés sont directement liées à la complexité et transversalité des sujets de la transition écologique qui, pourtant, dans leur mise en œuvre, ne sont portés que par quelques personnes au sein de la collectivité.
 
-## Faciliter et accélérer la mise en oeuvre des actions de transition écologique
+## Faciliter et accélérer la mise en œuvre des actions de transition écologique
 
-La plateforme numérique a pour objectifs de faciliter et d'accélérer la mise en oeuvre des actions ayant le plus d'impact pour la réussite de la transition écologique au sein d'une interface permettant  :
+Territoires en Transitions a pour objectifs de faciliter et d'accélérer la priorisation et la mise en œuvre des actions ayant le plus d'impact pour accélérer la transition écologique des collectivités au sein d'une interface permettant de :
 
-* D'accéder aux référentiels d'actions de transition écologique (Climat-Air-Énergie (aussi connu comme la labellisation Cit'ergie) et Économie Circulaire) et de personnaliser leur utilisation
-* De gérer et suivre ses actions et indicateurs de transition écologique
+* Évaluer sa progression avec l'appui des référentiels d'actions de transition écologique 
+* De gérer et suivre la progression des actions & plans et les indicateurs associés
 * De prioriser les actions ayant le plus d'impact
-* De partager la progression des réalisations et des retours d'expériences entre collectivités
+* De faciliter le partage de la progression des réalisations et des retours d'expériences entre collectivités

@@ -5,7 +5,7 @@ domaine: Développement
 github: cparthur
 missions:
   - start: 2022-06-20
-    end: 2026-06-29
+    end: 2026-06-30
     status: independent
     startups:
       - territoires-en-transitions

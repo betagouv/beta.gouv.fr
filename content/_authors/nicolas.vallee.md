@@ -1,7 +1,7 @@
 ---
 fullname: Nicolas Vallée
 domaine: Intraprenariat
-role: Intrapreneur de la transition écologique
+role: 🌍🔥🙈 Coordinateur Exécutif & Opérationnel de Territoires en Transitions
 github: Nickvalley
 link: https://www.linkedin.com/in/nicolasvalleeademe/
 missions:

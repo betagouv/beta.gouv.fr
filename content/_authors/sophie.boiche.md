@@ -8,7 +8,7 @@ competences:
   - Support
 missions:
   - start: 2025-05-06
-    end: 2026-05-31
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:

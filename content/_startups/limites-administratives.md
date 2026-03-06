@@ -10,16 +10,14 @@ usertypes:
 title: Limites administratives
 mission: Faciliter les processus de mise à jour et améliorer l'accès aux données de limites administratives
 incubator: fab-geocommuns
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2026-03-05
-    end: null
 events:
   - name: other
-    comment: Sélection du défi par le comité des partenaires de la Fabrique de la donnée territoriale
     date: 2025-10-07
+    comment: Sélection du défi par le comité des partenaires de la Fabrique de la donnée territoriale
+link: ''
 ---
 ## Problèmes en cours d'investigation (et solutions envisagées)
 
