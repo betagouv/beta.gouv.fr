@@ -1,6 +1,6 @@
 ---
 fullname: Julien HONNART
-role: EIG Mon Transport Santé
+role: EIG Transports Sanitaires
 domaine: Produit
 link: https://www.linkedin.com/in/julienhonnart/
 competences: []

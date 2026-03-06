@@ -11,7 +11,7 @@ competences:
   - PostgreSQL
 missions:
   - start: 2025-10-09
-    end: 2026-04-30
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:

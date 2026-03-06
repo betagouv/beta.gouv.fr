@@ -20,7 +20,7 @@ missions:
       - preuve-de-covoiturage
       - resorption-bidonvilles
   - start: 2019-07-02
-    end: 2026-03-31
+    end: 2026-03-06
     status: independent
     employer: Malt
     startups:

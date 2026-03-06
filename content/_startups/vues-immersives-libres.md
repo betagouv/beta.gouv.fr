@@ -54,6 +54,7 @@ events:
     date: 2025-10-01
   - name: committee
     date: 2025-11-05
+impact_url: https://docs.numerique.gouv.fr/docs/a68dccc5-269d-4bc9-98a1-0fd094f22180/?utm_source=docssharelink&utm_campaign=a68dccc5-269d-4bc9-98a1-0fd094f22180
 ---
 ## Contexte
 
