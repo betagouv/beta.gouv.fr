@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2024-01-03
     end: 2026-05-03
-    employer: Cerema
     status: admin
+    employer: Cerema
     startups:
       - data-foncier
-teams: []
 ---

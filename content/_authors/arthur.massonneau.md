@@ -11,7 +11,8 @@ missions:
     employer: Numa
     startups:
       - boris
+      - geonature
 memberType: autre
 competences: []
 ---
-Coach Fabrique Numérique
+Coach Fabrique Numérique MTE
