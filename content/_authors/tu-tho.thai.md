@@ -1,6 +1,6 @@
 ---
 fullname: Tu-Tho Thai
-role: Coach pour le projet Accessibilité (DIA)
+role: Product owner PAUDA
 domaine: Coaching
 github: TuThoThai
 link: https://www.linkedin.com/in/tuthothai/

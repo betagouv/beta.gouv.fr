@@ -25,7 +25,6 @@ previously:
   - l-application-du-cej
 teams:
   - /teams/dinum-incubateur
-  - /teams/engagement-civique-responsable-de-portefeuille
 link: https://www.linkedin.com/in/estellesaget/
 competences: []
 ---

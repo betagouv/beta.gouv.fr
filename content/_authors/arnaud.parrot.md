@@ -10,6 +10,8 @@ missions:
     end: 2028-09-30
     status: admin
     employer: Ministère de l'Intérieur
+    startups:
+      - reponse
 teams:
   - /teams/lab-mi
 ---

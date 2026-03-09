@@ -3,7 +3,7 @@ title: API Engagement
 mission: Donner plus de visibilité aux offres de bénévolat et de volontariat
 sponsors:
   - /organisations/djepva
-incubator: engagement_civique
+incubator: dinum
 contact: api-engagement@beta.gouv.fr
 stats_url: https://app.api-engagement.beta.gouv.fr/public-stats
 link: https://api-engagement.beta.gouv.fr
@@ -55,9 +55,9 @@ Depuis mars 2022, l'API connaît une accélération significative, répondant au
 
 Depuis 2023, l’API fait l’objet d’un nouvel intérêt de la part de diffuseurs publics d’annonces d’engagement: l’API permettant d’enrichir la proposition de valeur faite à leur utilisateurs. En particulier, les acteurs publics du travail ou de la jeunesse augmentent leurs exigences. Il ne s’agit plus uniquement de leur mettre à disposition des offres d’engagement, mais de leur permettre de suivre et de piloter une plus large palette d'offres d’engagement correspondant plus précisément aux besoins de leurs utilisateurs (phase engagement du SNU, contrat d’engagement des jeunes en Contrat d'Engagement Jeunes, etc.). Plus qu’un guichet de redirections, l’API devient un véritable partenaire public dans la construction d’une offre digitale d’engagement. 
 
-En 2024, l’API contribue activement à la construction de synergies entre les politiques publiques d’engagement civique. Forts de premiers résultats très encourageant sur les candidatures croisées (32 000 candidatures croisées en 2023), les équipes de l’API ont organisé le travail collectif entre JeVeuxAider.gouv.fr, le Service Civique et le Service National Universel autour de la création d’un parcours d’engagement, et de complémentarités entre les dispositifs. Les résultats de ce travail de synergies servent de socle opérationnel aux réflexions sur une vision plus large, interministérielle, des dispositifs d’engagement, menées par la DJEPVA.
+En 2024, l’API a activement contribué à la construction de synergies entre les politiques publiques d’engagement civique. Forts de premiers résultats très encourageant sur les candidatures croisées (32 000 candidatures croisées en 2023), les équipes de l’API ont organisé le travail collectif entre JeVeuxAider.gouv.fr, le Service Civique et le Service National Universel autour de la création d’un parcours d’engagement, et de complémentarités entre les dispositifs. Les résultats de ce travail de synergies servent de socle opérationnel aux réflexions sur une vision plus large, interministérielle, des dispositifs d’engagement, menées par la DJEPVA.
 
 
 ## Impact
 
-À ce jour, l’API Engagement a généré près de 1 900 000 redirections et 90 000 candidatures effectives au profit de plus de 50 plateformes d’engagement (dits annonceurs) dont le Service Civique et JeVeuxAider.gouv.fr, via un réseau de plus de 250 diffuseurs.
+À ce jour, l’API Engagement a généré plus de 232 000 candidatures effectives au profit de plus de 50 plateformes d’engagement (dits annonceurs) dont le Service Civique et JeVeuxAider.gouv.fr, via un réseau de plus de 250 diffuseurs.

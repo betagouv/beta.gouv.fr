@@ -7,7 +7,7 @@ missions:
     end: 2024-12-31
     status: independent
   - start: 2025-01-01
-    end: 2026-02-28
+    end: 2026-06-09
     status: admin
 memberType: beta
 github: fannyblanc
