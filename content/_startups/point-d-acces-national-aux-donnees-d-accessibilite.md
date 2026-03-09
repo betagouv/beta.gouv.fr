@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: tu-tho.thai@beta.gouv.fr
+contact: tu-tho.thai.ext@beta.gouv.fr
 thematiques:
   - Collectivités
   - Inclusion numérique
@@ -13,7 +13,7 @@ usertypes:
   - collectivite-territoriale
   - etat
 title: PAUDA (accessibilite.data.gouv.fr)
-mission: Faciliter l'accès, l'ouverture et la réutilisation des données d'accessiblité par tous
+mission: Faciliter l'accès, l'ouverture et la réutilisation des données d'accessibilité
 incubator: fab-geocommuns
 sponsors:
   - /organisations/delegation-interministerielle-a-l-accessibilite
@@ -26,6 +26,9 @@ events:
   - name: other
     date: 2024-12-20
     comment: Présentation de la solution au 1er cercle
+  - name: other
+    date: 2026-03-30
+    comment: Réunion du comité stratégique (ensemble des parties prenantes)
 techno: []
 link: ''
 ---
@@ -36,11 +39,11 @@ Toute politique publique vient avec son lot d’indicateurs pour en mesure l’i
 * les acteurs de l’écosystème sont multiples et très souvent regroupés au sein d’associations, ce qui peut avoir pour effet de bord une plus grande volatilité des contacts identifiés par la puissance publique.
 
 ## Problème
-Les données d'accessibilité, lorsqu'elles existent, sont exposées sur différents portails de diffusion de données ouvertes. Cela rend difficile leur consultations par l'ensemble des acteurs concernés par les politiques publiques d'accessibilité (pouvoirs publics, associations, développeurs d'application dédiés, financeurs, usagers finaux, etc.).
+Les données d'accessibilité, lorsqu'elles existent, sont exposées sur différents portails de diffusion de données ouvertes. Cela rend difficile leur consultation par l'ensemble des acteurs concernés par les politiques publiques d'accessibilité (pouvoirs publics, associations, développeurs d'application dédiés, financeurs, usagers finaux, etc.).
 En outre, le manque de consolidation des données d'accessibilité rend difficile le chiffrage de l'avancement des politiques publiques d'accessibilité, ce qui est peu propice à leur financement.
 
 ## Solution
-Le oint d'Accès Unique aux Données d'Accessibilité (PAUDA, accessibilite.data.gouv.fr) sera :
+Le Point d'Accès Unique aux Données d'Accessibilité (PAUDA, accessibilite.data.gouv.fr) sera :
 - Un guichet d’entrée pour les recherches de 
    - Données d’accessibilité, qui renverra vers les bases de données existantes (AccesLibre, transport.data.gouv.fr, data tourisme, etc.)
    - Documentation sur les normes / standards existants
@@ -53,6 +56,6 @@ Le oint d'Accès Unique aux Données d'Accessibilité (PAUDA, accessibilite.data
 ## Stratégie
 Approche servicielle et technique :
 * à la fois un catalogue des données existantes, renvoyant vers leurs propriétaires pour les consulter ; 
-* à la fois un accompagnement à l'oubverture des données d'accessibilité. 
+* à la fois un accompagnement à l'ouverture des données d'accessibilité. 
 
 Cette approche sera déclinée selon plusieurs verticales à définir et prioriser (ex. logement, emploi, éducation, etc.)

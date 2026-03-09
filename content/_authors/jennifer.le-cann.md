@@ -4,7 +4,7 @@ role: Responsable du KUBE, incubateur du ministère des Armées
 domaine: Animation
 missions:
   - start: 2022-09-01
-    end: 2024-09-01
+    end: 2026-02-27
     status: admin
     employer: Ministère des Armées
     startups:

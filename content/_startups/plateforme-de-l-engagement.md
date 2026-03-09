@@ -9,7 +9,7 @@ usertypes:
   - collectivite-territoriale
 title: Plateforme de l'engagement
 mission: Recommander la bonne offre d'engagement
-incubator: engagement_civique
+incubator: dinum
 sponsors:
   - /organisations/djepva
 phases:
@@ -18,6 +18,7 @@ phases:
 events:
   - name: product_launch
     date: 2026-02-20
+techno: []
 link: ''
 ---
 

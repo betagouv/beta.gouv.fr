@@ -3,7 +3,7 @@ title: Service National Universel
 mission: Développer la conscience citoyenne des jeunes
 sponsors:
   - /organisations/djepva
-incubator: engagement_civique
+incubator: dinum
 link: https://snu.gouv.fr/
 repository: https://github.com/betagouv/service-national-universel
 contact: contact@snu.gouv.fr

@@ -14,11 +14,11 @@ missions:
 badges:
   - segur
 competences:
-  - Accessibilité
-  - Développement Full-stack
-  - DevOps
+  - Développement Frontend
+  - Vue.js
+  - Nuxt.js
+  - Node.js
   - Matomo
   - UI
-  - UX
 ---
 Développeur engagé dans la transition écologique

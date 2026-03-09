@@ -22,8 +22,11 @@ events:
     date: 2025-07-18
   - name: committee
     date: 2025-10-17
-techno: []
-link: ''
+techno:
+  - vue
+  - django
+link: https://sylvasan.beta.gouv.fr/
+repository: https://github.com/betagouv/sylvasan/
 ---
 ## Contexte
 
