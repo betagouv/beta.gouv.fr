@@ -19,3 +19,4 @@ missions:
     startups:
       - refugies.info
 ---
+UX Designer et Product Owner pour le site, les apps et les logiciels internes de Réfugiés.info

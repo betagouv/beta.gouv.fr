@@ -5,7 +5,7 @@ domaine: Déploiement
 github: manonbouvier
 missions:
   - start: 2022-11-07
-    end: 2026-05-30
+    end: 2026-06-30
     status: independent
     startups:
       - territoires-en-transitions

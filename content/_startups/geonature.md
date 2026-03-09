@@ -23,12 +23,9 @@ sponsors:
   - /organisations/deb
 phases:
   - name: investigation
-    comment: null
     start: 2026-03-05
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-03-05
 ---
 ## Contexte

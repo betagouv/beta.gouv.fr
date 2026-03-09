@@ -5,7 +5,7 @@ domaine: Design
 github: arnaudmorvan
 missions:
   - start: 2023-09-04
-    end: 2025-12-31
+    end: 2026-06-30
     status: independent
     startups:
       - territoires-en-transitions
