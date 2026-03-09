@@ -1,7 +1,7 @@
 ---
-mission: Permettre la réalisation de comptes rendus par des agents - Architectes des Bâtiments de France - lors de leurs rencontres avec les usagers.
+mission: Permettre la réalisation de comptes-rendus par des agents - Architectes des Bâtiments de France - lors de leurs rencontres avec les usagers.
 incubator: culture
-title: Patrinotes
+title: Compte-rendu VIF
 contact: ateliernumerique.snum@culture.gouv.fr
 accessibility_status: non conforme
 phases:
@@ -10,6 +10,8 @@ phases:
   - name: construction
     start: 2023-10-15
   - name: acceleration
+    start: 2025-01-01
+  - name: alumni
     start: 2025-09-01
 repository: https://github.com/betagouv/patrinotes/
 thematiques:
@@ -20,7 +22,7 @@ usertypes:
   - etat
   - particulier
 techno: []
-link: https://patrinotes.beta.gouv.fr/
+link: https://compte-rendu-vif.beta.gouv.fr/
 sponsors:
   - /organisations/dgpat
 events:
@@ -46,10 +48,10 @@ La solution à l'étude est un compte rendu à base de clauses pré-rédigées s
 
 ## Stratégie
 
-En 2023, un MVP réalisé grâce à une application no-code a été testé dans plusieurs Unités départementales de l'architecture et du patrimoine (UDAP) de la région Nouvelle Aquitaine. Au vu des résultats positifs de la part des usagers et des agents, une application a été développée en 2024, et déployée au niveau national durant l'année 2025. 
+En 2023, un MVP réalisé grâce à une application no-code a été testé dans plusieurs Unités départementales de l'architecture et du patrimoine (UDAP) de la région Nouvelle Aquitaine. Au vu des résultats positifs de la part des usagers et des agents, une application a été développée en 2024, et déployée au niveau national durant l'année 2025. L'incubation s'est finie en juillet 2025 et la solution a été intégrée à un autre produit, Patrinotes. Ce produit regroupe plusieurs types de documents réalisés en mobilité lors des missions des agents d'UDAP. L'enjeu est de proposer un environnement unifié (forme de suite) sur plusieurs missions des agents.
 
 ## Impact
 
-Patrinotes a démontré son impact à plusieurs titres : 
+Compte-rendu VIF a démontré son impact à plusieurs titres : 
 - Une expérience facilitée pour les agents, via des fonctionnalités très utiles : le mode hors ligne, l'accès mobile, l'annotation de photos en direct et la génération de comptes rendus chartés. Certaines fonctionnalités sont aujourd'hui réutilisées par d'autres équipes au sein du Service du numérique
-- Les usages en mobilité se démultipliant pour les agents de terrain en DRAC, des opportunités de mutualisation et de déploiement ont été identifiées. Une deuxième brique est en cours de construction pour la réalisation de constats d'états sanitaires (voir [ici](https://beta.gouv.fr/startups/etat-sanitaire-des-monuments-historiques-en-mobilite.html)). L'enjeu est de proposer un environnement unifié (forme de suite) sur plusieurs missions des agents.
+- Les usages en mobilité se démultipliant pour les agents de terrain en DRAC, des opportunités de mutualisation et de déploiement ont été identifiées. Une deuxième brique est en cours de construction pour la réalisation de constats d'états sanitaires qui reprend la solution dans ses grandes fonctionnalités (voir [ici](https://beta.gouv.fr/startups/etat-sanitaire-des-monuments-historiques-en-mobilite.html)).

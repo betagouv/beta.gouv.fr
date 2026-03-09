@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: contact@patrimoine-embarque.beta.gouv.fr
+contact: contact@patrinotes.beta.gouv.fr
 thematiques:
   - Patrimoine
 usertypes:

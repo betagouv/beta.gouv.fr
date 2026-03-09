@@ -5,7 +5,7 @@ domaine: Autre
 link: https://www.carolinebujoli.fr
 missions:
   - start: 2023-07-11
-    end: 2026-04-30
+    end: 2026-08-31
     status: independent
     employer: x
     startups:

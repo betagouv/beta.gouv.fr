@@ -3,7 +3,7 @@ title: JeVeuxAider.gouv.fr
 mission: Encourager l'engagement bénévole partout en France
 sponsors:
   - /organisations/djepva
-incubator: engagement_civique
+incubator: dinum
 link: https://www.jeveuxaider.gouv.fr
 repository: https://github.com/betagouv/jeveuxaider-back
 contact: jeveuxaider@beta.gouv.fr

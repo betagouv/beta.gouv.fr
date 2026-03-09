@@ -14,7 +14,11 @@ sponsors:
   - /organisations/direction-generale-des-etrangers-en-france
 phases:
   - name: investigation
-    start: 2025-07-31
+    start: 2025-01-01
+  - name: construction
+    start: 2026-01-06
+  - name: acceleration
+    start: 2026-03-09
 events:
   - name: product_launch
     date: 2025-07-31

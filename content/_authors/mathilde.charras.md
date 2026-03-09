@@ -10,11 +10,18 @@ missions:
     startups:
       - ma-cantine-egalim
   - start: 2025-05-05
-    end: 2026-06-30
+    end: 2026-03-31
     status: independent
     employer: Opteamis
     startups:
       - monsuivipsy
+  - start: 2026-03-09
+    end: 2026-06-09
+    status: independent
+    employer: MALT
+    startups:
+      - dora
+      - les-emplois
 memberType: beta
 link: https://www.linkedin.com/in/mathilde-charras-62947748/
 competences:

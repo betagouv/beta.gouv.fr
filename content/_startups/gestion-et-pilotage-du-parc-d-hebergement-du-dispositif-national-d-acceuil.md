@@ -52,6 +52,7 @@ accessibility_status: partiellement conforme
 repository: https://github.com/betagouv/bhasile
 stats_url: https://www.bhasile.beta.gouv.fr/
 impact_url: https://www.bhasile.beta.gouv.fr/matrice-impact-bhasile.png
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/7?embed=true&Nom_=Bhasile%20%28ex%20Place%20d%27Asile%29
 ---
 ## Contexte  
 
