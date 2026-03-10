@@ -37,6 +37,12 @@ missions:
     employer: Mednum
     startups:
       - refugies.info
+  - start: 2025-10-01
+    end: 2026-04-30
+    status: independent
+    employer: Numa
+    startups:
+      - mon-recap
 link: https://www.linkedin.com/in/merzouknassim/
 competences:
   - Business Developpement

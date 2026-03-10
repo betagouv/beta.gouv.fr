@@ -15,13 +15,15 @@ usertypes:
   - etat
   - collectivité
   - Agents publics
-stats_url: https://blog.datasubvention.beta.gouv.fr/statistiques/
+stats_url: https://datasubvention.beta.gouv.fr/statistiques/
 budget_url: https://datasubvention.beta.gouv.fr/budgets/
 phases:
   - name: construction
     start: 2022-01-03
   - name: acceleration
-    start: 2024-06-10
+    start: 2023-09-01
+  - name: transfer
+    start: 2026-03-10
 fast:
   promotion: 13
   montant: 280000
@@ -36,6 +38,9 @@ events:
   - name: other
     date: 2024-06-10
     comment: 'Lauréat du FTAP Data : Exploitation et valorisation des données'
+  - name: committee
+    date: 2025-11-25
+    comment: Chantiers engagés vers la pérennisation
 mon_service_securise: true
 techno: []
 ---
@@ -57,7 +62,7 @@ Ces soutiens sont apportés après que les associations les aient demandés, par
 
 Coté Associations : Demander une subvention est une démarche longue répétitive pour une association et consiste souvent à déposer des pièces administratives déjà connues par d’autres autorités publiques : ces sur-sollicitations peuvent générer aussi un sentiment d’incompréhension et de lassitude vis-à-vis des démarches administratives.
 
-Coté administrations :  la dématérialisation des démarches de demande, décision et paiement s'est faite en silo, conduisant à des données éparpillées dans une grande diversité de systèmes d’information, d’instruction, de gestion et de mise en paiement, empêchant d’atteindre un réel « dites-le-nous une fois ».
+Coté Administrations :  la dématérialisation des démarches de demande, décision et paiement s'est faite en silo, conduisant à des données éparpillées dans une grande diversité de systèmes d’information, d’instruction, de gestion et de mise en paiement, empêchant d’atteindre un réel « dites-le-nous une fois ».
 
 Après plusieurs réunions interministérielles en 2021 sur l’enjeu d’améliorer le pilotage des subventions de l’Etat, le Premier ministre a confié à la direction de la jeunesse, de l’éducation populaire et de la vie associative (DJEPVA) et à la direction interministérielle du numérique (DINUM) la responsabilité de bâtir un nouveau service numérique dénommé Data.Subvention, pour collecter et repartager des données consolidées et complètes.
 
@@ -75,11 +80,11 @@ Data.Subvention est donc composée :
 
 - de l'API Data.Subvention : collecte les données dans les différents outils de dématérialisation,  la raffine pour la rendre réutilisable par d'autres plateformes.
 
-- d’un portail qui présente ces données de façon simple à aux agents inscrits sur https://app.datasubvention.beta.gouv.fr/ . 
+- d’un portail qui présente ces données de façon simple aux agents publics inscrits sur https://app.datasubvention.beta.gouv.fr/ . 
 
 Si le portail était envisagé initialement comme une solution temporaire avant intégration de l’API dans des solutions tierces, il reste indispensable pour des administrations dépourvues de solution numérique.
 
-LA mesure d'impact porte sur les économies générées par les gains d temps obtenus lors des instructions de demandes de subventions.
+La mesure d'impact porte sur les économies générées par la part de données des subventions associatives repartagées aux agents.
 
 ## Les étapes de développement
 
@@ -90,12 +95,10 @@ Data‧Subvention est progressivement déployé au plan national et territorial,
 - Octobre 22 à juin 2023 :  2eme phase de construction élargie à 3 nouvelles régions : Bretagne, Hauts-de-France et Nouvelle-Aquitaine : Objectif inscription de la solution dans les services territoriaux‧
 - Juillet 2023 : mise dispo de l'open Data sur GITHUB
 - Septembre 23 à février 24 : passage réussi à l'échelle nationale, avec le soutien du FAST (Fonds d’Accélération des Startups d’État).
+- Mai 2024 : lauréats du FTAP DATA 
+
 
 ## Solution en Consolidation
-
-- Mai 2024 : lauréats du FTAP DATA !
-
-Avec ce soutien, Data.Subvention s'est engagé dans une nouvelle étape afin de faire face à de nouveaux défis.
 
 Il ne pourra y avoir de partage public des données des subventions versées aux associations, sans achèvement de la complétude : récolter et repartager l’ensemble des versements de l’Etat a constitué une grande avancée, mais y adjoindre les données des collectivités et des opérateurs est indispensable pour donner une vision complète.
 

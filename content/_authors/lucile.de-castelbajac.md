@@ -11,9 +11,8 @@ competences:
 missions:
   - start: 2026-03-09
     end: 2026-12-27
-    employer: Direction Générale des entreprises
     status: admin
+    employer: Direction Générale des entreprises
     startups:
       - portail-rse
-teams: []
 ---

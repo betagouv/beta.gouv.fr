@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-04-01
-    end: 2026-05-01
+    end: 2026-09-01
     status: independent
     employer: Inops
     startups:
