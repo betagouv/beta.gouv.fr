@@ -1,6 +1,6 @@
 ---
 fullname: Laurie Chapotte
-role: Responsable du design & co-animatrice incubateur Culture
+role: Responsable du design | Culture
 domaine: Design
 github: lauriechap
 missions:

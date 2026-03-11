@@ -15,7 +15,8 @@ phases:
     start: 2024-03-15
 thematiques:
   - Écologie
-usertypes: []
+usertypes:
+  - etat
 techno:
   - svelte
   - node
@@ -25,6 +26,20 @@ link: https://pitchou.beta.gouv.fr/
 repository: https://github.com/betagouv/pitchou
 budget_url: https://docs.google.com/spreadsheets/d/1E1z_SMXquqVnKvJXy7yKdGk1YPdV58_oaoLxBtf_k7s/edit?usp=sharing
 stats_url: https://pitchou.beta.gouv.fr/stats
+dashlord_url: https://dashlord.incubateur.net/url/pitchou-beta-gouv-fr/
+events:
+  - name: committee
+    date: 2023-11-27
+    comment: fin d'investigation
+  - name: committee
+    date: 2024-07-09
+    comment: construction
+  - name: committee
+    date: 2025-02-14
+    comment: construction
+  - name: committee
+    date: 2025-07-16
+    comment: construction
 ---
 ## Contexte
 

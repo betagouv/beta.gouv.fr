@@ -10,6 +10,12 @@ missions:
     employer: Malt
     startups:
       - jeveuxaider
+  - start: 2026-03-10
+    end: 2026-09-10
+    status: independent
+    employer: Scopyleft
+    startups:
+      - nosgestesclimat
 competences: []
 ---
 Graphic Designer engagée !
