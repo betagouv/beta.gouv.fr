@@ -35,6 +35,10 @@ events:
     date: 2025-10-06
     comment: Poursuite
 ---
+## Préambule
+
+Le produit est en construction et donc en **version beta**. Il évolue régulièrement et outre de nouvelles fonctionnalités des corrections sont apportées aux défauts constatés.
+
 ## Contexte
 
 Plusieurs entités ont des obligations en matière d’accessibilité numérique. Sont notamment concernés, en tout ou partie, par le RGAA :
