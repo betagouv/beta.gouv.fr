@@ -5,7 +5,7 @@ sponsors:
   - /organisations/ademe
 incubator: ademe
 contact: carte-verte@beta.gouv.fr
-link: https://carte-verte.beta.gouv.fr
+link: ''
 repository: https://github.com/incubateur-ademe/carte-verte
 accessibility_status: non conforme
 dashlord_url: https://dashlord.incubateur.ademe.fr/startup/carte-verte

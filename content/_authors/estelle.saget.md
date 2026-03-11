@@ -1,6 +1,6 @@
 ---
 fullname: Estelle Saget
-role: Responsable des portefeuilles Justice, Solidarités, Inclusion et Vie associative
+role: Responsable de partenariats DINUM | Santé et Solidarités
 domaine: Autre
 github: estellesaget
 missions:
