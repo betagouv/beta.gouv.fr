@@ -5,7 +5,6 @@ sponsors:
   - /organisations/ademe
 incubator: ademe
 contact: carte-verte@beta.gouv.fr
-link: ''
 repository: https://github.com/incubateur-ademe/carte-verte
 accessibility_status: non conforme
 dashlord_url: https://dashlord.incubateur.ademe.fr/startup/carte-verte
@@ -49,6 +48,7 @@ events:
     date: 2025-06-30
     comment: Fin de l'expérimentation à Angers
 impact_url: https://notion.incubateur.ademe.fr/carte-verte-stats
+link: ''
 ---
 ## Contexte
 Carte Verte s’inscrit dans un objectif de politique publique de réduction de l’empreinte environnementale des français et pose le constat suivant : l’empreinte environnementale de la consommation (“je mange”, “j’achète”) des citoyens est trop élevée et peu de dispositifs existent pour l’abaisser (contrairement aux champs des transports et du logement).

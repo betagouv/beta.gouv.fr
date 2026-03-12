@@ -6,7 +6,7 @@ github: Shamzic
 link: https://www.linkedin.com/in/shamery/
 missions:
   - start: 2022-09-05
-    end: 2026-06-05
+    end: 2026-08-31
     status: independent
     employer: Malt
     startups:
