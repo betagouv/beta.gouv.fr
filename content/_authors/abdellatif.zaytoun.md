@@ -7,7 +7,7 @@ competences: []
 missions:
   - start: 2024-11-18
     end: 2026-08-31
-    status: service
+    status: independent
     employer: LittleBigConnection
     startups:
       - experts

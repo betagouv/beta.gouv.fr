@@ -7,7 +7,7 @@ competences:
   - Facilitation
 missions:
   - start: 2024-10-18
-    end: 2028-12-18
+    end: 2026-03-16
     status: admin
     employer: Dinum
     startups:

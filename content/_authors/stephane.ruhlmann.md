@@ -11,7 +11,7 @@ missions:
     startups:
       - tdb-apprentissage
   - start: 2023-07-04
-    end: 2026-02-15
+    end: 2026-08-15
     status: independent
     employer: Fairness
     startups:

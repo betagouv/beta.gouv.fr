@@ -1,6 +1,6 @@
 ---
 fullname: Lucie Sevaistre
-role: Digital Content Creator
+role: Graphic Designer
 domaine: Design
 link: https://studiolusse.com/
 missions:

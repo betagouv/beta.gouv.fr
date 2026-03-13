@@ -1,6 +1,6 @@
 ---
 fullname: Jules Jabouille
-role: Cabinet de la DINUM
+role: ETR
 domaine: Déploiement
 link: https://pize.fr
 missions:
@@ -8,8 +8,10 @@ missions:
     end: 2027-07-01
     status: admin
     employer: DINUM
+    startups:
+      - depenses-eclairees
 memberType: dinum
 github: julesjabouille
 competences: []
 ---
-Dark mode only.
+

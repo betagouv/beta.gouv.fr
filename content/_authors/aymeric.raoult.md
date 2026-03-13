@@ -23,7 +23,7 @@ missions:
     startups:
       - qualite-eau
   - start: 2022-06-30
-    end: 2026-01-31
+    end: 2026-08-30
     status: service
     employer: Malt Octo
     startups:

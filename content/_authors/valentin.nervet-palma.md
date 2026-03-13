@@ -8,10 +8,9 @@ competences:
 missions:
   - start: 2026-03-10
     end: 2026-08-31
-    employer: DHUP
     status: admin
+    employer: DHUP
     startups:
       - zero-logement-vacant
-teams: []
 ---
 Géographe de formation, je suis actuellement en M2 en urbanisme des projets au sein de l'Ecole d'Urbanisme de Paris, je réalise mon stage de fin d'étude chez ZLV.

@@ -17,7 +17,7 @@ missions:
     startups:
       - experts
   - start: 2025-03-10
-    end: 2026-07-31
+    end: 2026-03-30
     status: independent
     employer: LBC
     startups:

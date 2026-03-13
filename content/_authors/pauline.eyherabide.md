@@ -17,13 +17,12 @@ missions:
     startups:
       - ma-cantine-egalim
   - start: 2025-10-14
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: Solstice
     startups:
       - seves
 competences:
   - Communication
-  - SEO
 link: https://www.linkedin.com/in/paulineeyherabide/
 ---

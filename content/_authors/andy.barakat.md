@@ -11,6 +11,12 @@ missions:
     startups:
       - vert.impact
       - vigieau
+  - start: 2026-03-12
+    end: 2026-09-12
+    status: independent
+    employer: ANCT
+    startups:
+      - données-et-territoires
 teams:
   - /teams/mtes
 competences: []
