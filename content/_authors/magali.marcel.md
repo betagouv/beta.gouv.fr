@@ -14,4 +14,6 @@ previously:
 competences:
   - Administration Publique
   - Gestion de Produit
+teams:
+  - /teams/dinum-incubateur
 ---

@@ -26,5 +26,5 @@ competences:
   - Croissance
   - Gestion de Produit
 teams:
-  - /teams/communaute-dinum
+  - /teams/dinum-incubateur
 ---

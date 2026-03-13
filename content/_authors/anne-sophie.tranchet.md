@@ -35,7 +35,7 @@ competences:
   - UI
   - UX
 teams:
-  - /teams/communaute-dinum
+  - /teams/dinum-animation-beta-gouv-fr
 previously:
   - cartobio
   - dialogue

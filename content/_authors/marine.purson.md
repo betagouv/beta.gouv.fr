@@ -17,7 +17,7 @@ missions:
     startups:
       - espace-membre
 teams:
-  - /teams/communaute-dinum
+  - /teams/dinum-animation-beta-gouv-fr
 previously:
   - recosante
 link: https://www.linkedin.com/in/marinepurson/

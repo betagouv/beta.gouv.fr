@@ -4,7 +4,7 @@ role: Intrapreneuse
 domaine: Design
 missions:
   - start: 2023-07-18
-    end: 2027-06-30
+    end: 2027-12-31
     status: admin
     employer: ANSM
     startups:

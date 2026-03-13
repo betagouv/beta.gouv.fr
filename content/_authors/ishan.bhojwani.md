@@ -33,8 +33,6 @@ previously:
   - moncomptepro
 badges:
   - segur
-teams:
-  - /teams/dinum-incubateur
 competences: []
 ---
 Chef du département Intelligence artificielle dans l'État à la DINUM

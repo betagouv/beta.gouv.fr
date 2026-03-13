@@ -64,7 +64,5 @@ competences:
   - Product strategy
   - SEM
   - SEO
-teams:
-  - /teams/fast-dinum
 ---
 Transformation (numérique) de l'État . Accélérateur de start-up d'État

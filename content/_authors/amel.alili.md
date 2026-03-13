@@ -26,7 +26,7 @@ previously:
   - dossierfacile
   - tchap
 teams:
-  - /teams/communaute-dinum
+  - /teams/dinum-animation-beta-gouv-fr
 badges:
   - segur
 competences:

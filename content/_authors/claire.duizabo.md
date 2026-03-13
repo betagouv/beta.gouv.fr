@@ -32,8 +32,6 @@ missions:
     employer: Numa
     startups:
       - domifa
-teams:
-  - /teams/fast-dinum
 competences:
   - Coaching
 link: https://www.linkedin.com/in/claireduizabo/

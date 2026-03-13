@@ -32,8 +32,6 @@ missions:
       - suite-numerique
 badges:
   - segur
-teams:
-  - /teams/fast-dinum
 link: https://www.linkedin.com/in/paul-burgun/
 competences:
   - Administration Publique

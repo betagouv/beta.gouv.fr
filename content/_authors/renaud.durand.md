@@ -17,4 +17,6 @@ missions:
     employer: ScopyLeft
     startups:
       - espace-membre
+teams:
+  - /teams/dinum-animation-beta-gouv-fr
 ---

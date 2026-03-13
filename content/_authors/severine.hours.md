@@ -13,5 +13,7 @@ missions:
     status: admin
     employer: EIG
 github: shours
+teams:
+  - /teams/dinum-incubateur
 ---
 Parcours entrepreneurial et marketing

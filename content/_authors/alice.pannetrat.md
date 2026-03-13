@@ -12,7 +12,7 @@ missions:
       - espace-membre
 memberType: beta
 teams:
-  - /teams/dinum-incubateur
+  - /teams/dinum-animation-beta-gouv-fr
 badges:
   - segur
 competences: []
