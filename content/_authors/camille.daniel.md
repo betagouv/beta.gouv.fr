@@ -6,7 +6,7 @@ link: https://yaal.coop
 github: emillumine
 missions:
   - start: 2022-09-06
-    end: 2026-03-31
+    end: 2026-09-15
     status: service
     employer: La Zone
     startups:
@@ -17,5 +17,6 @@ competences:
   - DevOps
   - Metabase
   - Python
+  - PostgreSQL
 ---
 Développeuse et associée de Yaal Coop
