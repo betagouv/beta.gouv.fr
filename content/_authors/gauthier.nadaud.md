@@ -28,8 +28,6 @@ missions:
       - place-de-marche-inclusion
 badges:
   - segur
-teams:
-  - /teams/fast-dinum
 link: http://www.linkedin.com/in/gnadaud
 competences:
   - Coaching

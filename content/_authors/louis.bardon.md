@@ -13,5 +13,7 @@ competences:
   - Coaching
   - Product strategy
 github: louisBardon
+teams:
+  - /teams/dinum-incubateur
 ---
 Conseil interne, Biz dev, Avant vente, Marketing, Incubateurs, Startups d'Etat..

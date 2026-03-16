@@ -13,5 +13,5 @@ missions:
     employer: Direction interministérielle du numérique
 github: dtende
 teams:
-  - /teams/communaute-dinum
+  - /teams/dinum-animation-beta-gouv-fr
 ---

@@ -9,4 +9,6 @@ missions:
     status: admin
     employer: dinum
 github: JulieGuyot25
+teams:
+  - /teams/dinum-incubateur
 ---

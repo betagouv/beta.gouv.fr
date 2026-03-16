@@ -25,7 +25,6 @@ badges:
   - segur
 teams:
   - /teams/agriculture-equipe-transverse
-  - /teams/dinum-incubateur
 competences:
   - Développement Full-stack
   - JavaScript/TypeScript

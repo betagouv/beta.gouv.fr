@@ -11,5 +11,5 @@ memberType: beta
 github: EmmanuelleGraff
 competences: []
 teams:
-  - /teams/dinum-incubateur
+  - /teams/dinum-animation-beta-gouv-fr
 ---

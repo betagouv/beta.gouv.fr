@@ -11,5 +11,5 @@ missions:
     employer: Numa
 github: MarinePetroline
 teams:
-  - /teams/communaute-dinum
+  - /teams/dinum-animation-beta-gouv-fr
 ---

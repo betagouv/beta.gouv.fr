@@ -11,7 +11,7 @@ competences:
   - Ruby
 missions:
   - start: 2025-07-07
-    end: 2026-06-07
+    end: 2026-06-12
     status: independent
     employer: LittleBIG Connection
     startups:

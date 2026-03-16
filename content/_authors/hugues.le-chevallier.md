@@ -10,4 +10,6 @@ missions:
     status: admin
     employer: FAST
 github: hlechevallier-betagouv
+teams:
+  - /teams/dinum-incubateur
 ---

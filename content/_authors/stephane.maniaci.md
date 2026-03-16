@@ -15,6 +15,6 @@ missions:
 badges:
   - segur
 teams:
-  - /teams/communaute-dinum
+  - /teams/dinum-animation-beta-gouv-fr
 ---
 Lead dev à l'Incubateur des Services Numériques (ISN).

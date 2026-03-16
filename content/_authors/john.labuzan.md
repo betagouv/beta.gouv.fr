@@ -57,7 +57,5 @@ competences:
   - SEM
   - SEO
   - UX
-teams:
-  - /teams/fast-dinum
 ---
 Product design, Marketing digital, SEO, SEA🤘

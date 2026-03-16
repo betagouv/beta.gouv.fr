@@ -25,6 +25,4 @@ badges:
   - segur
 competences:
   - Coaching
-teams:
-  - /teams/fast-dinum
 ---
