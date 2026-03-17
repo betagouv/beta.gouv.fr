@@ -11,6 +11,9 @@ missions:
     employer: Malt
     startups:
       - dialogue
+  - start: 2026-03-17
+    end: 2026-06-17
+    status: service
 memberType: beta
 competences: []
 ---

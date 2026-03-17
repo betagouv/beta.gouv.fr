@@ -1,5 +1,5 @@
 ---
-fullname: Noémie Peignier-Pousseo
+fullname: Noémie Peignier
 role: Responsable de l'Atelier numérique du MEAE
 domaine: Animation
 github: PNoemie

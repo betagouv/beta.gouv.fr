@@ -9,6 +9,5 @@ missions:
     startups:
       - handicompatible
       - poe.facilite
-      - profilence
 memberType: beta
 ---

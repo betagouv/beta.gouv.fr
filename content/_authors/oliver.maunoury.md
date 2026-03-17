@@ -8,7 +8,7 @@ competences:
   - sav
 missions:
   - start: 2023-08-18
-    end: 2026-03-23
+    end: 2026-06-30
     status: independent
     employer: DINUM
     startups:
