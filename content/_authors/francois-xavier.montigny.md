@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/fran%C3%A7ois-xavier-montigny-36290920/
 github: fxmontigny
 missions:
   - start: 2025-10-13
-    end: 2026-04-13
+    end: 2026-09-13
     status: independent
     startups:
       - a-just

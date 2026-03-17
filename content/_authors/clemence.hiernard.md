@@ -1,6 +1,6 @@
 ---
 fullname: Clémence Hiernard
-role: Chargée de déploiement
+role: Chargée de support
 domaine: Déploiement
 github: ClemenceHiernard
 missions:

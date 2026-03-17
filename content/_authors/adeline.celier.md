@@ -5,7 +5,7 @@ domaine: Design
 github: AdelineCelier
 missions:
   - start: 2022-01-01
-    end: 2026-03-31
+    end: 2026-08-31
     status: independent
     employer: Malt
     startups:

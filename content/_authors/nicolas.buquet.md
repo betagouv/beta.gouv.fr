@@ -11,9 +11,17 @@ missions:
     employer: Malt
     startups:
       - tchap
+  - start: 2026-01-08
+    end: 2026-06-14
+    status: independent
+    employer: ut/7
+    startups:
+      - ami
 memberType: beta
 previously:
   - tchap
-competences: []
+competences:
+  - Développement mobile
+  - Architecture logicielle
 ---
-Développeur iOS senior, runner
+Lead Dev iOS, architecte logiciel, runner

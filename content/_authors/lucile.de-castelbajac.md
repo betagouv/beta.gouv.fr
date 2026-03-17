@@ -9,7 +9,7 @@ competences:
   - Droit / Affaires juridiques
   - Intrapreneur(se)
 missions:
-  - start: 2026-03-09
+  - start: 2026-03-10
     end: 2026-12-27
     status: admin
     employer: Direction Générale des entreprises
