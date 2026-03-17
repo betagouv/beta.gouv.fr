@@ -37,6 +37,12 @@ missions:
     end: 2026-12-31
     status: admin
     employer: DGFiP
+  - start: 2026-03-16
+    end: 2026-06-16
+    status: admin
+    employer: DGFIP
+    startups:
+      - simul-nr
 competences:
   - Développement Backend
   - Développement Frontend

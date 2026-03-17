@@ -8,7 +8,7 @@ usertypes:
   - etat
 title: Mon assistant pénal
 mission: Accélérer le traitement des dossiers au parquet des juridictions relevant de la Cour d'appel de Paris afin de raccourcir les délais de procédure et optimiser le temps de travail des magistrats.
-incubator: alliance
+incubator: justice
 sponsors:
   - /organisations/mj
   - /organisations/parquet-general-de-paris
