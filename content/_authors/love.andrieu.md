@@ -22,6 +22,12 @@ missions:
     employer: Ministère des Affaires Sociales
     startups:
       - 1000.premiers.jours.blues
+  - start: 2026-03-16
+    end: 2026-06-16
+    status: admin
+    employer: DGFIP
+    startups:
+      - simul-nr
 badges:
   - segur
 competences:

@@ -20,6 +20,12 @@ missions:
     employer: Malt
     startups:
       - suite.territoriale
+  - start: 2026-03-01
+    end: 2026-06-30
+    status: independent
+    employer: OPI
+    startups:
+      - proconnect
 previously:
   - maintenant
   - mpal

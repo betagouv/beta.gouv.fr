@@ -41,6 +41,7 @@ events:
     comment: Comité d'investissement (prévu)
 repository: https://github.com/betagouv/depots-sauvages
 impact_url: https://fichiers.numerique.gouv.fr/explorer/items/files/9615c123-59a4-42df-857f-498e313e401b
+stats_url: https://grist.numerique.gouv.fr/o/cesan-investigation/9bGtbLYmEdEG/Suivi-stats-ProtectEnvi/p/14
 ---
 ## Contexte
 

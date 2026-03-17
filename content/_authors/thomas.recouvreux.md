@@ -4,7 +4,7 @@ role: Développeur principal
 domaine: Développement
 missions:
   - start: 2020-10-12
-    end: 2026-05-27
+    end: 2026-09-16
     status: independent
     employer: Scopyleft
     startups:

@@ -15,6 +15,12 @@ missions:
     employer: NUMA
     startups:
       - eval-ia
+  - start: 2026-03-10
+    end: 2026-09-10
+    status: independent
+    employer: numa
+    startups:
+      - emile
 link: https://www.linkedin.com/in/hardybenjamin
 memberType: beta
 competences:
