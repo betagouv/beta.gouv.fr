@@ -15,10 +15,9 @@ competences:
 missions:
   - start: 2026-03-16
     end: 2026-06-12
-    employer: LittleBIG Connection
     status: independent
+    employer: LittleBIG Connection
     startups:
       - acces-cible
-teams: []
 ---
 Développeur Fullstack Ruby On Rails et React, basé sur Paris mais nomade dans toute la France

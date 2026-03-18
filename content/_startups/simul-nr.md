@@ -18,17 +18,13 @@ sponsors:
   - /organisations/direction-des-impots-des-non-residents
 phases:
   - name: investigation
-    comment: null
     start: 2025-04-11
-    end: null
   - name: construction
-    comment: null
     start: 2025-11-26
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-03-16
+link: ''
 ---
 ## Contexte
 

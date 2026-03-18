@@ -15,21 +15,15 @@ sponsors:
   - /organisations/mefsin
 phases:
   - name: investigation
-    comment: null
     start: 2023-09-01
-    end: null
   - name: construction
-    comment: null
     start: 2024-07-01
-    end: null
   - name: acceleration
-    comment: null
     start: 2026-04-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-02-01
+link: ''
 ---
 
 ## Contexte

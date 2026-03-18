@@ -1,5 +1,5 @@
 ---
-title: Démarches Simplifiées
+title: Démarche Numérique
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
 sponsors:
   - /organisations/dinum
@@ -17,13 +17,13 @@ phases:
     start: 2015-09-15
   - name: success
     start: 2020-07-01
-link: https://www.demarches-simplifiees.fr
-repository: https://github.com/betagouv/tps
+link: https://demarche.numerique.gouv.fr
+repository: https://github.com/demarche-numerique/demarche.numerique.gouv.fr/
 dashlord_url: https://dashlord.incubateur.net/url/www-demarches-simplifiees-fr/
 accessibility_status: partiellement conforme
 analyse_risques_url: https://github.com/demarches-simplifiees/demarches-simplifiees.fr/blob/main/SECURITY.md
 stats: true
-contact: contact@demarches-simplifiees.fr
+contact: contact@demarche.numerique.gouv.fr
 redirect_from:
   - /startups/tps
 usertypes:
@@ -35,8 +35,9 @@ fast:
 thematiques:
   - Outil technique
   - Administratif
+techno: []
 ---
-demarches-simplifiees.fr est une application entièrement en ligne qui permet à tous les organismes assurant des missions de service public de créer des démarches en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.
+demarche.numerique.gouv.fr est une application entièrement en ligne qui permet à tous les organismes assurant des missions de service public de créer des démarches en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.
 
 **Le constat**
 
@@ -50,15 +51,15 @@ Pour les seules démarches des entreprises sous la responsabilité de l’Etat, 
 
 Et si chaque administration fait le choix de développer ses propres outils informatique (au lieu d’utiliser un outil mutualisé comme demarches-simplifiees.fr), ce sont des dizaines de millions d’euros qui seront dépensés en pure perte…
 
-**demarches-simplifiees.fr, c’est pour qui ?**
+**demarche.numerique.gouv.fr, c’est pour qui ?**
 
 Vous travaillez dans un organisme public ? Vous gérez des démarches administratives ? Vous voulez moderniser votre administration ?
 
-demarches-simplifiees.fr est pour vous.
+demarche.numerique.gouv.fr est pour vous.
 
-_Faites gagner du temps à vos usagers, faites économiser de l’argent au contribuable et à votre administration : utilisez demarches-simplifiees.fr !_
+_Faites gagner du temps à vos usagers, faites économiser de l’argent au contribuable et à votre administration : utilisez demarche.numerique.gouv.fr !_
 
-**Pourquoi utiliser demarches-simplifiees.fr ?**
+**Pourquoi utiliser demarche.numerique.gouv.fr ?**
 
 - Parce que c’est **gratuit** (pour tous les organismes assurant des missions de service public - services de l’Etat, opérateurs, collectivités).
 
@@ -84,6 +85,6 @@ _Assemblée Permanente des Chambres des Métiers et de l’Artisanat_ : pré-ins
 
 **Contact**
 
-demarches-simplifiees.fr est développé par l’incubateur de services numériques de la direction interministérielle du numérique (DINUM), rattaché aux services du Premier ministre.
+demarche.numerique.gouv.fr est développé par l’incubateur de services numériques de la direction interministérielle du numérique (DINUM), rattaché aux services du Premier ministre.
 
-Vous voulez en savoir plus ? Vous voulez une démo ? <a href="https://www.demarches-simplifiees.fr/contact">Contactez-nous</a>.
+Vous voulez en savoir plus ? Vous voulez une démo ? <a href="https://demarche.numerique.gouv.fr/contact">Contactez-nous</a>.
