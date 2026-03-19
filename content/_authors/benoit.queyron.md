@@ -11,7 +11,7 @@ missions:
     startups:
       - transport
   - start: 2024-05-27
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: Scopopop
     startups:

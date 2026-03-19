@@ -2,7 +2,7 @@
 fullname: Valentine  Langer
 role: Coach Produit Approbiom
 domaine: Coaching
-github: https://github.com/valentinelanger
+github: valentinelanger
 link: https://www.linkedin.com/in/valentinelanger/
 competences:
   - Product design

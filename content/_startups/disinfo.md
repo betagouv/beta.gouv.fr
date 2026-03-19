@@ -6,7 +6,7 @@ sponsors:
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 repository: https://github.com/ambanum/
 contact: atelier.numerique@diplomatie.gouv.fr
-link: https://disinfo.quaidorsay.fr
+link: ''
 stats: false
 phases:
   - name: investigation
@@ -18,6 +18,8 @@ phases:
     start: 2022-06-30
 usertypes:
   - etat
+thematiques: []
+techno: []
 ---
 ## Internet nous rapproche. Les manipulations de l’information nous éloignent.
 
@@ -31,13 +33,13 @@ Au vu de l’intrication des problèmes et de la multiplicité des acteurs, nous
 
 ### Nous opérons actuellement
 
-1. [Scripta Manent](https://disinfo.quaidorsay.fr/fr/open-terms-archive/scripta-manent?service=AdRoll&typeofdocument=Parent+Organization+Terms), outil en ligne qui permet de mesurer les changements entre deux dates d'un document contractuel de son choix.
+1. Scripta Manent, outil en ligne qui permet de mesurer les changements entre deux dates d'un document contractuel de son choix.
 2. [Bot finder](https://github.com/ambanum/social-networks-bot-finder), un outil de calcul de probabilité qu'un compte Twitter soit un bot.
 3. [Graph Generator](https://github.com/ambanum/social-networks-graph-generator), un outil pour recréer le réseau d'interactions des comptes Twitter sur un hashtag ou un mot (ou groupe de mots) donné.
-4. Une [encyclopédie collaborative](https://disinfo.quaidorsay.fr/encyclopedia) des bonnes pratiques, outils et acteurs de la lutte contre les manipulations de l’information.
+4. Une encyclopédie collaborative des bonnes pratiques, outils et acteurs de la lutte contre les manipulations de l’information.
 
 ### Nous avons également produit
 
-1. Un programme de [détection de comptes Twitter](https://disinfo.quaidorsay.fr/twitter-bot-clusters/fr/) robotisés qui a permis d’identifier plus de 560 000 comptes répartis en plusieurs clusters, démontrant la faible prise en compte du problème par les opérateurs de réseaux sociaux.
-2. Une interface de [classification des publicités politiques](https://disinfo.quaidorsay.fr/political-ads/) passées sur Facebook qui permet à tout‧e citoyen‧ne de voir ces publicités et de les classifier afin de vérifier le respect des règles électorales. Elle a notamment permis de détecter le retrait de 31 % des publicités censées être archivées par Facebook, dont plusieurs annonces illégales, et de constater des comportement similaires dans 11 autres pays européens.
+1. Un programme de détection de comptes Twitter robotisés qui a permis d’identifier plus de 560 000 comptes répartis en plusieurs clusters, démontrant la faible prise en compte du problème par les opérateurs de réseaux sociaux.
+2. Une interface de classification des publicités politiques passées sur Facebook qui permet à tout‧e citoyen‧ne de voir ces publicités et de les classifier afin de vérifier le respect des règles électorales. Elle a notamment permis de détecter le retrait de 31 % des publicités censées être archivées par Facebook, dont plusieurs annonces illégales, et de constater des comportement similaires dans 11 autres pays européens.
 3. Une messagerie instantanée permettant de se synchroniser dans la détection et la qualification d’attaques informationnelles équipé de chatbots facilitant les opérations les plus classiques telles que déterminées par l’usage réel observé dans le chat.

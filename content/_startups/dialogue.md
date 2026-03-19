@@ -39,6 +39,7 @@ dashlord_url: https://dashlord.mte.incubateur.net/url/dialog-beta-gouv-fr/
 events:
   - name: fast
     date: 2025-10-01
+impact_url: https://docs.numerique.gouv.fr/docs/fffe2b81-f062-4695-8157-5c2011ac7b15/
 ---
 # Le problème
 
