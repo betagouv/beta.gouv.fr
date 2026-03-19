@@ -15,6 +15,11 @@ missions:
     status: independent
     startups:
       - annuaire-entreprises
+  - start: 2025-11-03
+    end: 2026-06-30
+    status: independent
+    startups:
+      - nosgestesclimat
 competences:
   - Accessibilité
   - Développement Frontend

@@ -10,9 +10,12 @@ competences:
   - recherche de financement
 missions:
   - start: 2025-03-27
-    end: 2025-06-30
+    end: 2026-07-30
     status: independent
     employer: Malt
+    startups:
+      - data-inclusion
+      - les-emplois
 teams:
   - /teams/gip-inclusion-developpement
 ---

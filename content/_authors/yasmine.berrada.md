@@ -12,7 +12,7 @@ missions:
       - aidess
       - e-controle
   - start: 2023-02-06
-    end: 2025-12-31
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:
@@ -24,7 +24,7 @@ missions:
     startups:
       - je-deviens-etudiant
   - start: 2025-10-01
-    end: 2026-04-01
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:

@@ -11,7 +11,7 @@ competences:
   - Sécurité informatique
 missions:
   - start: 2024-10-07
-    end: 2026-04-03
+    end: 2026-09-19
     status: independent
     employer: Scopopop
     startups:

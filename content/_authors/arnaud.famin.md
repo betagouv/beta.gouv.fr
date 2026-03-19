@@ -9,7 +9,6 @@ missions:
     status: admin
     employer: SG
     startups:
-      - cyberbudget
       - ie
 ---
 Conseils et expertise

@@ -13,4 +13,4 @@ missions:
     startups:
       - aquaculteurs.marins
 ---
-Fraîchement diplômé de l'école d'ingénieurs de Purpan, où je me suis spécialisé en aquaculture, je commence désormais à me former au traitement des données statistiques. 
+Responsable des statistiques aquacoles au Ministère de l'Agriculture. Je transforme la donnée publique en outils concrets pour la filière.

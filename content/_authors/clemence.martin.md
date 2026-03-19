@@ -12,7 +12,7 @@ missions:
       - datagir
       - la.bonne.renov
   - start: 2021-07-05
-    end: 2026-03-21
+    end: 2026-09-19
     status: independent
     employer: 'Scopyleft '
     startups:
