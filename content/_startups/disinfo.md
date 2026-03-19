@@ -6,7 +6,6 @@ sponsors:
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 repository: https://github.com/ambanum/
 contact: atelier.numerique@diplomatie.gouv.fr
-link: ''
 stats: false
 phases:
   - name: investigation
@@ -20,6 +19,7 @@ usertypes:
   - etat
 thematiques: []
 techno: []
+link: ''
 ---
 ## Internet nous rapproche. Les manipulations de l’information nous éloignent.
 
@@ -27,13 +27,13 @@ Les manipulations de l’information visent à fragiliser notre cohésion social
 
 Au sein du bureau de l’Ambassadeur pour le numérique, nous croyons que de telles campagnes sont rendues possibles en premier lieu par l’exploitation de vulnérabilités dans la manière dont l’information est diffusée. De nombreux acteurs à l’intérieur comme à l’extérieur de l’État luttent d’ores et déjà contre ces campagnes. Néanmoins, ils restent trop isolés pour se confronter aux forces que peuvent aligner des adversaires étatiques ou non-étatiques de grande ampleur.
 
-Notre équipe déploie les capacités de la diplomatie numérique, en combinant la production d’outils techniques, leur exploitation en propre en tant que diplomates dans le cyberespace, leur utilisation pour orienter les évolutions règlementaires internationales, et leur diffusion pour fédérer les acteurs autour d’outils et de pratiques communs. Nous construisons ainsi des outils libres et ouverts pour renforcer tous les acteurs publics, privés et de la société civile qui luttent contre les manipulations de l’information, et notamment les régulateurs qui cherchent à garantir la réduction des vulnérabilités chez les grands acteurs privés.
+Notre équipe a déployé les capacités de la diplomatie numérique, en combinant la production d’outils techniques, leur exploitation en propre en tant que diplomates dans le cyberespace, leur utilisation pour orienter les évolutions règlementaires internationales, et leur diffusion pour fédérer les acteurs autour d’outils et de pratiques communs. Nous avons construit ainsi des outils libres et ouverts pour renforcer tous les acteurs publics, privés et de la société civile qui luttent contre les manipulations de l’information, et notamment les régulateurs qui cherchent à garantir la réduction des vulnérabilités chez les grands acteurs privés.
 
-Au vu de l’intrication des problèmes et de la multiplicité des acteurs, nous adoptons une approche en portefeuille : un ensemble d’outils simples et adaptés à différents cas d’usage, que nous faisons évoluer en fonction de leur adoption et de l’évolution de la menace et des opportunités. Notre positionnement diplomatique est renforcé par notre capacité à produire des outils numériques pertinents, et inversement.
+Au vu de l’intrication des problèmes et de la multiplicité des acteurs, nous avons adopté une approche en portefeuille : un ensemble d’outils simples et adaptés à différents cas d’usage, que nous faisions évoluer en fonction de leur adoption et de l’évolution de la menace et des opportunités. Notre positionnement diplomatique a été renforcé par notre capacité à produire des outils numériques pertinents, et inversement.
 
-### Nous opérons actuellement
+### Nous avons opéré 
 
-1. Scripta Manent, outil en ligne qui permet de mesurer les changements entre deux dates d'un document contractuel de son choix.
+1. Scripta Manent, outil en ligne permettant de mesurer les changements entre deux dates d'un document contractuel de son choix.
 2. [Bot finder](https://github.com/ambanum/social-networks-bot-finder), un outil de calcul de probabilité qu'un compte Twitter soit un bot.
 3. [Graph Generator](https://github.com/ambanum/social-networks-graph-generator), un outil pour recréer le réseau d'interactions des comptes Twitter sur un hashtag ou un mot (ou groupe de mots) donné.
 4. Une encyclopédie collaborative des bonnes pratiques, outils et acteurs de la lutte contre les manipulations de l’information.

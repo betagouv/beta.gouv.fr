@@ -9,7 +9,7 @@ link: https://quefairedemesdechets.ademe.fr/
 stats: false
 stats_url: https://quefairedemesdechets.ademe.fr/stats
 impact_url: https://quefairedemesdechets.ademe.fr/stats/matrice-impact/
-dashlord_url: https://dashlord.incubateur.ademe.fr/startup/longuevieauxobjets
+dashlord_url: https://dashlord.incubateur.ademe.fr/startup/quefairedemesobjetsetdechets/
 redirect_from:
   - /startups/longuevieauxobjets
   - /startups/quefairedemesobjets

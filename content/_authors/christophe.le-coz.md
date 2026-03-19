@@ -6,11 +6,10 @@ competences: []
 missions:
   - start: 2026-03-18
     end: 2026-06-18
-    employer: FabNum-MI      DTNUM SDID
     status: admin
+    employer: FabNum-MI      DTNUM SDID
     startups:
       - astree
       - histovec
       - reponse
-teams: []
 ---

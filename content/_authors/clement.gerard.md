@@ -10,7 +10,7 @@ competences:
   - UX
 missions:
   - start: 2024-07-01
-    end: 2026-02-01
+    end: 2026-08-01
     status: service
     employer: FabNum-MI      DTNUM SDID
     startups:
