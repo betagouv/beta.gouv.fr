@@ -34,6 +34,7 @@ thematiques:
 analyse_risques: true
 techno: []
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+impact_url: https://docs.numerique.gouv.fr/docs/0bc028dc-a0a6-45b3-b768-3bb795008b18/?utm_source=docssharelink&utm_campaign=0bc028dc-a0a6-45b3-b768-3bb795008b18
 ---
 ## Le problème : Le manque d’information sur l’accessibilité des lieux
 

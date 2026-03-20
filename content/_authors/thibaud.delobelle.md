@@ -6,7 +6,7 @@ link: https://oriatec.fr
 github: Thibaud-DT
 missions:
   - start: 2022-06-02
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: Numa
     startups:

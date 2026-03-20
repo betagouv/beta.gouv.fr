@@ -41,6 +41,7 @@ thematiques:
 techno:
   - vue
   - java
+impact_url: https://docs.numerique.gouv.fr/docs/b683f41e-9b28-4d16-ba37-220c5c91d9d2/
 ---
 ## DossierFacile.fr devient DossierFacile.logement.gouv.fr !
 

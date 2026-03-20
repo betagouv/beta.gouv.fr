@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-03-02
     end: 2026-06-30
-    employer: IGESR
     status: admin
+    employer: IGESR
     startups:
       - grist.numerique.gouv.fr
-teams: []
 ---
