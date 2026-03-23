@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/marinesoichot/
 competences: []
 missions:
   - start: 2025-01-24
-    end: 2026-05-30
+    end: 2026-07-30
     status: independent
     employer: Numa
 github: MarinePetroline

@@ -3,8 +3,6 @@ title: France Chaleur Urbaine
 mission: Accélérer le raccordement des bâtiments aux réseaux de chaleur
 sponsors:
   - /organisations/ademe
-  - /organisations/dgec
-  - /organisations/drieat
 incubator: ademe
 link: https://france-chaleur-urbaine.beta.gouv.fr/
 repository: https://github.com/betagouv/france-chaleur-urbaine
@@ -17,10 +15,10 @@ phases:
   - name: construction
     comment: lancement du prototype no-code en février 2021
     start: 2020-12-01
-  - name: acceleration
-    start: 2022-07-01
   - name: transfer
     start: 2025-05-14
+  - name: acceleration
+    start: 2026-01-01
 usertypes:
   - particulier
   - collectivite-territoriale
@@ -131,6 +129,8 @@ Ces nouveaux moyens permettent d'élargir le service, qui ne se limite plus aux 
 Mi-2023, France Chaleur Urbaine est lauréat du guichet "Exploitation et valorisation des données" de la DINUM, et voit également le soutien financier de l'ADEME et de la DGEC renouvelé. 
 
 En 2024, il est lauréat du Fonds d'accélération des start-ups d'Etat de la DINUM et du Fonds d'investissement numérique et données pour la planification écologique, piloté par la DINUM en partenariat avec le Secrétariat général à la planification écologique (SGPE). Il continue de bénéficier d'un cofinancement par l'ADEME et la DGEC.
+
+En 2025, France Chaleur Urbaine est transféré à l'ADEME, au sein du service chaleur.  Dans une logique de rapprochement avec Pacoupa, l'équipe produit souhaite faire davantage de pédagogie sur l'ensemble des systèmes de chauffages renouvelables tout en bénéficiant du rapprochement avec l'ADEME pour gagner en exhaustivité dans les données partagées.
 
 ### Stratégie
 

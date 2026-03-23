@@ -18,7 +18,7 @@ missions:
     status: independent
     employer: Octo/Malt (MinArm)
   - start: 2023-11-06
-    end: 2026-04-07
+    end: 2026-09-23
     status: independent
     employer: LaZone/Pathtech (ADEME)
   - start: 2025-02-03

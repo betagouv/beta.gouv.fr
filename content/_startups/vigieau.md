@@ -15,9 +15,13 @@ events:
 phases:
   - name: construction
     start: 2024-01-26
+  - name: alumni
+    start: 2024-09-15
 stats_url: https://vigieau.gouv.fr/stats/
 thematiques:
   - Écologie
+usertypes: []
+techno: []
 ---
 ## Contexte
 

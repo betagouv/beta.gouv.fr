@@ -27,3 +27,5 @@ competences:
   - DevOps
 ---
 La vie n'est marrante qu'en apprenant. Aussi: chats !
+
+Je parle de mon activité de dev sur Mastodon aussi : https://mastodon.social/@christophehenry

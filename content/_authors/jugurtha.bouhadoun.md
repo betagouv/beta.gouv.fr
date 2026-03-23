@@ -1,15 +1,17 @@
 ---
 fullname: Jugurtha BOUHADOUN
-role: Développeur
+role: 'Data Engineer / Développeur '
 domaine: Développement
 github: jbouhadoun
 missions:
   - start: 2024-03-19
-    end: 2025-12-31
+    end: 2026-12-31
     status: admin
     employer: IGN
     startups:
       - ban
+      - bat-id
 memberType: beta
 link: https://www.linkedin.com/in/jugurtha-bouhadoun/
+competences: []
 ---
