@@ -19,7 +19,7 @@ missions:
     startups:
       - trackdechets
   - start: 2024-08-05
-    end: 2026-05-31
+    end: 2026-06-30
     status: independent
     employer: Opteamis
     startups:

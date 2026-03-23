@@ -14,13 +14,12 @@ sponsors:
   - /organisations/dgefp
 phases:
   - name: investigation
-    comment: null
     start: 2026-04-01
-    end: null
 events:
   - name: product_launch
-    comment: Arrivée de l'intra
     date: 2026-03-16
+    comment: Arrivée de l'intra
+link: ''
 ---
 ## 🌱 Contexte
 
