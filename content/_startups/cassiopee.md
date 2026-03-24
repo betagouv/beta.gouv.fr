@@ -17,7 +17,7 @@ phases:
     start: 2022-06-06
   - name: transfer
     start: 2024-03-25
-  - name: success
+  - name: alumni
     start: 2025-06-30
 usertypes:
   - etat

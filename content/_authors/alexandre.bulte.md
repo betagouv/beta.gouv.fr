@@ -11,7 +11,7 @@ missions:
     startups:
       - data.gouv.fr
   - start: 2020-03-01
-    end: 2023-02-28
+    end: 2027-02-28
     status: admin
     employer: dinum
     startups:

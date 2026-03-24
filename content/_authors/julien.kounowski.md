@@ -19,8 +19,6 @@ missions:
     end: 2026-12-31
     status: admin
     employer: DINUM / MIOM / DITP
-    startups:
-      - pe-ate
 badges:
   - segur
 competences:

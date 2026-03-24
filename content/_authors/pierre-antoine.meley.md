@@ -4,7 +4,7 @@ fullname: Pierre-Antoine Meley
 role: Développement
 missions:
   - start: 2024-04-22
-    end: 2026-03-31
+    end: 2026-04-30
     status: independent
     employer: Malt
     startups:
