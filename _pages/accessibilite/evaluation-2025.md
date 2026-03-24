@@ -30,17 +30,17 @@ Dans cette optique, nous (le Pôle Numérique Inclusif) avons étudié l’acces
 Sur un panel de 38 produits (sur les 213 produits de notre portefeuille, soit sur un échantillon de 18 % de nos produits), le niveau d’accessibilité se répartit ainsi :
 
 <div role="group" class="fr-content-media fr-content-media--sm" aria-label="Répartition de l'échantillon par niveau d'accessibilité">
-  <figure>
-    <img src="/img/accessibilite/beta-bilan-a11y-2025-niveaux.png" alt="Répartition de l'échantillon par niveau d'accessibilité" />
-    <figcaption class="fr-content-media__caption">Répartition de l'échantillon par niveau d'accessibilité</figcaption>
-  </figure>
+    <figure>
+        <img src="/img/accessibilite/beta-bilan-a11y-2025-niveaux.png" alt="Répartition de l'échantillon par niveau d'accessibilité" aria-describedby="tableau_repartition_par_niveau_id" />
+        <figcaption class="fr-content-media__caption">Répartition de l'échantillon par niveau d'accessibilité</figcaption>
+    </figure>
 </div>
 
 <div class="fr-table fr-table--no-caption">
 	<div class="fr-table__wrapper">
     	<div class="fr-table__container">
       		<div class="fr-table__content">
-				<table>
+				<table id="tableau_repartition_par_niveau_id">
 				  <caption>Niveau de qualité des sites étudiés</caption>
 				  <thead>
 				    <tr>
@@ -101,10 +101,10 @@ Les usagères et usagers de ces services rencontrent plus de <strong>5,5 problè
 On constate aussi que plus de la moitié de ces problèmes sont bloquants : c'est-à-dire que certaines personnes seront empêchées de naviguer, d'accéder ou de comprendre l'information <strong>plus de 3 fois par page</strong>.
 
 <div role="group" class="fr-content-media fr-content-media--sm" aria-label="Densité de problèmes d'accès par page (pb/p)">
-  <figure>
-    <img src="/img/accessibilite/beta-bilan-a11y-2025-pb-par-page.png" alt="Densité de problèmes d'accès par page (pb/p)" />
-    <figcaption class="fr-content-media__caption">Densité de problèmes d'accès par page (pb/p)</figcaption>
-  </figure>
+    <figure>
+        <img src="/img/accessibilite/beta-bilan-a11y-2025-pb-par-page.png" alt="Densité de problèmes d'accès par page (pb/p)"/>
+        <figcaption class="fr-content-media__caption">Densité de problèmes d'accès par page (pb/p)</figcaption>
+    </figure>
 </div>
 
 {%- capture alt -%}
@@ -142,10 +142,10 @@ Les problèmes les plus fréquemment rencontrés sont :
 Nous avons par ailleurs répertorié les erreurs majoritaires dans notre panel, c'est-à-dire les plus couramment commises par les équipes.
 
 <div role="group" class="fr-content-media fr-content-media--sm" aria-label="Top des erreurs courantes">
-  <figure>
-    <img src="/img/accessibilite/beta-bilan-a11y-2025-erreurs.png" alt="Top des erreurs courantes" />
-    <figcaption class="fr-content-media__caption">Top des erreurs courantes</figcaption>
-  </figure>
+    <figure>
+        <img src="/img/accessibilite/beta-bilan-a11y-2025-erreurs.png" alt="Top des erreurs courantes"/>
+        <figcaption class="fr-content-media__caption">Top des erreurs courantes</figcaption>
+    </figure>
 </div>
 
 {%- capture alt -%}
@@ -157,7 +157,7 @@ Nous avons par ailleurs répertorié les erreurs majoritaires dans notre panel, 
     			<caption>Top des erreurs courantes</caption>
           <thead>
             <tr>
-              <th></th>
+              <th aria-label="Position dans le classement"></th>
               <th>Point de contrôle</th>
               <th>Problèmes bloquants</th>
               <th>Problèmes gênants</th>
