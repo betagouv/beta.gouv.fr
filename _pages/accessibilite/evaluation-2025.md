@@ -120,18 +120,20 @@ Ce graphique en barres montre la densité (nombre de problème par page) par typ
 
 Les problèmes les plus fréquemment rencontrés sont :
 <ol>
-    <li>Plus de <strong>2.5 problèmes de navigation</strong> (dont 1.7 bloquants) par page :</li>
+    <li>Plus de <strong>2.5 problèmes de navigation</strong> (dont 1.7 bloquants) par page :
         <ul>
             <li>La navigation au clavier est souvent laborieuse, avec plus de 2 problèmes par page : focus parfois invisible, manque de cohérence de l'ordre de tabulation et absence de lien d'évitement (1 fois sur 2), ce qui est pénible pour les personnes naviguant sans souris ;</li>
             <li>Un seul moyen de navigation, imposé au lieu de deux requis : 1 fois sur 2, l'unique moyen de navigation est un menu principal (sans recherche ou plan de site) ;</li>
             <li>Diverses difficultés de navigation par titres (0.4 pb/p).</li>
         </ul>
-    <li>Environ <strong>1.8 problèmes de compréhension</strong> (dont 1 bloquant) par page :</li>
+    </li>
+    <li>Environ <strong>1.8 problèmes de compréhension</strong> (dont 1 bloquant) par page :
         <ul>
             <li>Impossibilité d'accéder à une information faute d'alternative correcte aux images, médias & vidéos, quasiment 1 fois par page (0.8 pb/p) ;</li>
             <li>Difficultés de compréhension dû à des titres de page non pertinent (0.5 pb/p, soit 1 page sur 2) ou des intitulés de liens et boutons non explicites (0.3 pb/p) ;</li>
             <li>Parfois langue du document inexacte, ce qui occasionne par exemple une vocalisation de la page en français dans une autre langue, la rendant incompréhensible des personnes utilisant un lecteur d'écran.</li>
         </ul>
+    </li>
     <li>Près de <strong>1 problème de perception</strong> par page (bloquant 1 fois sur 2) : textes illisibles lorsqu'ils sont consultés en gros caractères (0.4 pb/p), contrastes insuffisants (0.3 pb/p) et, très gênant bien que rare dans notre panel : mouvement ou clignotement intrusif (qui ne peut être stoppé).</li>
 </ol>
 
@@ -252,20 +254,22 @@ Nous avons par ailleurs répertorié les erreurs majoritaires dans notre panel, 
 Voici les erreurs commises sur plus de la moitié de notre panel :
 <ol>
     <li><strong>68 % des services présentent des incohérences de titraille</strong> : la hiérarchie des titres ne reflète pas le contenu de la page, des balises sont utilisées non pour leur valeur sémantique de titre mais pour écrire en gros, etc.</li>
-    <li>De nombreux services présentent des déficiences de navigation :</li>
+    <li>De nombreux services présentent des déficiences de navigation :
         <ul>
             <li><strong>61 % n’ont pas de lien d’évitement fonctionnel</strong> (absent ou défectueux). Bien que ce composant soit disponible dans le DSFR, il n'est souvent pas implémenté.</li>
             <li>61 % des services imposent un seul système de navigation (alors que deux sont requis).</li>
             <li>53 % dégradent la visibilité du focus.</li>
         </ul>
+    </li>
     <li><strong>61 % des services perdent en lisibilité en gros caractères</strong> : textes tronqués, éléments fixes (sticky bar) qui recouvrent des contenus, etc. Cela montre que l'affichage en texte agrandi ne fait pas partie des tests usuels.</li>
     <li>La moitié des services ne traitent pas correctement les images non informatives (qui doivent être non seulement dépourvues d'alternative, mais aussi rendues silencieuses). Cela révèle un <strong>manque de maîtrise du codage accessible des images</strong> dans leurs différents formats : les balises <code>img</code> sont le plus souvent pourvues de leur attribut <code>alt</code>, mais les autres formats (<code>svg</code>, etc.) ne sont généralement pas correctement structurés.</li>
-    <li>Enfin, de nombreux services <strong>peinent à proposer des intitulés suffisamment informatifs</strong> :</li>
+    <li>Enfin, de nombreux services <strong>peinent à proposer des intitulés suffisamment informatifs</strong> :
         <ul>
             <li>Nous observons une certaine difficulté à rédiger l'alternative textuelle adéquate (sur 58 % des services) tant pour les images que pour les contenus riches.</li>
             <li>La moitié des services présente des intitulés de liens et boutons peu explicites : c'est le cas lorsqu'une série de liens s'intitulent de façon identique, par exemple « voir le dossier », sans préciser le nom de chaque dossier.</li>
             <li>Souvent identiques, les titres des pages de la moitié des services manquent de précision.</li>
         </ul>
+    </li>
 </ol>
 
 ### Apprentissages
@@ -398,38 +402,44 @@ Nous avons ainsi retenu une liste **27 points de contrôle**, répartis en 9 ca
   </p>
   <div id="accordion-id" class="fr-collapse">
     <ul>
-    <li>Langue</li>
+    <li>Langue
         <ul>
             <li>Présence et pertinence de la langue principale de la page</li>
         </ul>
-    <li>Titre des pages</li>
+    </li>
+    <li>Titre des pages
         <ul>
             <li>Intitulé de la balise <code lang="en">title</code> unique</li>
             <li>Intitulé de la balise <code lang="en">title</code> pertinent</li>
         </ul>
-    <li>Images</li>
+    </li>
+    <li>Images
         <ul>
             <li>Présence d’un attribut <code>alt</code> pour chaque balise <code>img</code></li>
             <li>Absence d’alternative aux images décoratives</li>
             <li>Alternative pour chaque image informative</li>
             <li>Description détaillée de chaque contenu riche</li>
         </ul>
-    <li>Hiérarchie des titres</li>
+    </li>
+    <li>Hiérarchie des titres
         <ul>
             <li>Hiérarchie des titres reflétant la page</li>
         </ul>
-    <li>Contrastes</li>
+    </li>
+    <li>Contrastes
         <ul>
             <li>Rapport de contraste suffisant sur les textes et composants graphiques</li>
             <li>🆕 Implémentation correcte du <span lang="en">Dark Mode / Contrast Switcher</span></li>
         </ul>
-    <li>Zoom texte</li>
+    </li>
+    <li>Zoom texte
         <ul>
             <li>Lisibilité des textes lorsque les caractères sont agrandis de 200 %</li>
             <li>Absence d’images-texte</li>
             <li>🆕 Absence de surcouches d'accessibilité</li>
         </ul>
-    <li>Navigation</li>
+    </li>
+    <li>Navigation
         <ul>
             <li>Cohérence de l’ordre de tabulation</li>
             <li>Visibilité du focus</li>
@@ -439,21 +449,24 @@ Nous avons ainsi retenu une liste **27 points de contrôle**, répartis en 9 ca
             <li>Présence de deux systèmes de navigation</li>
             <li>Pertinence des intitulés de liens & boutons</li>
         </ul>
-    <li>Formulaires</li>
+    </li>
+    <li>Formulaires
         <ul>
             <li>Présence et pertinence des étiquettes de formulaires</li>
             <li>Champs obligatoires indiqués</li>
             <li>Intitulé explicite pour chaque bouton de formulaire</li>
             <li>🆕 Absence de captcha</li>
         </ul>
-    <li>Vidéos et animations</li>
+    </li>
+    <li>Vidéos et animations
         <ul>
             <li>🆕 Pas de son ni de vidéo en autoplay</li>
             <li>Présence de sous-titres ou transcription pertinentes pour les vidéos informatives</li>
             <li>Mouvement ou clignotement peuvent être stoppés</li>
         </ul>
+    </li>
 </ul>
-  </div>
+</div>
 </section>
 Comparativement à un audit RGAA, cette liste de contrôle n’est pas exhaustive : elle ne permet aucunement d’apprécier la conformité. Mais la frugalité de cette méthode d’évaluation a l’avantage d’être opérable en un temps très court : environ 30 minutes par service suffisent à obtenir une **grille d’évaluation** ainsi qu’un aperçu de son niveau d’accessibilité (voir section suivante).
 
