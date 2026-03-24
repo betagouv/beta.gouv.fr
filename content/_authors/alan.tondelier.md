@@ -14,7 +14,7 @@ competences:
   - PHP
 missions:
   - start: 2024-10-01
-    end: 2026-04-05
+    end: 2026-06-30
     status: independent
     employer: malt
     startups:

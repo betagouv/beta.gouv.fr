@@ -10,7 +10,7 @@ thematiques:
 usertypes:
   - collectivite-territoriale
 techno: []
-title: Chemins en commun
+title: Voies locales en commun
 mission: Faciliter la conservation des chemins ruraux et le recensement des voies communales
 incubator: fab-geocommuns
 phases:

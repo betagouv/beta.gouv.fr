@@ -15,6 +15,8 @@ phases:
     end: 2022-11-01
   - name: construction
     start: 2022-11-01
+  - name: alumni
+    start: 2025-03-23
 link: https://www.demarches-simplifiees.fr/commencer/dossier-accessibilite
 thematiques:
   - Administratif
