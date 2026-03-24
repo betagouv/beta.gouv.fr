@@ -16,10 +16,9 @@ competences:
 missions:
   - start: 2023-12-31
     end: 2029-12-31
-    employer: DINUM
     status: admin
+    employer: DINUM
     startups:
       - api.gouv.fr
       - data.gouv.fr
-teams: []
 ---

@@ -34,4 +34,12 @@ missions:
       - annuaire-entreprises
       - moncomptepro
       - proconnect
+  - start: 2026-03-24
+    end: 2026-09-24
+    status: independent
+    employer: La Zone
+    startups:
+      - annuaire-entreprises
+      - data.gouv.fr
+      - proconnect
 ---

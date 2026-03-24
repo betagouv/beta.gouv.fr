@@ -5,7 +5,7 @@ domaine: Déploiement
 competences: []
 missions:
   - start: 2025-05-12
-    end: 2026-03-31
+    end: 2026-09-01
     status: independent
     employer: Scopyleft
     startups:

@@ -27,12 +27,8 @@ sponsors:
   - /organisations/ministere-de-l-interieur-et-des-outre-mer-direction-des-ressources-humaines
   - /organisations/secretariat-general-aux-affaires-regionales-sgar-bretagne
 phases:
-  - name: investigation
+  - name: alumni
     start: 2022-05-01
-  - name: construction
-    start: 2023-03-01
-  - name: success
-    start: 2026-01-01
 events:
   - name: other
     date: 2026-01-01
@@ -40,6 +36,10 @@ events:
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#PeATE
 impact_url: https://www.parapheur-peate.fr/documents-cles
 ---
+Cette fiche aborde un outil numérique n'ayant pas été mené via la méthodologie beta.gouv.fr
+
+______________
+
 **Statut du projet : **création d'un commun numérique de l'administration déconcentrée et pérennisé 
 
 Ce projet est passé en production en 2025 et a permis de construire un commun numérique de l'administration déconcentrée portée par 22 organisations relevant de l'éducation nationale (rectorats) et de l'Administration Territoriale de l’État (SGARs, préfectures, DREAL, DRAAF...). 
