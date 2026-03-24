@@ -5,7 +5,7 @@ domaine: Animation
 competences: []
 missions:
   - start: 2025-06-23
-    end: 2026-02-28
+    end: 2026-07-28
     status: independent
     employer: Malt
     startups:

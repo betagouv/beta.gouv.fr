@@ -11,6 +11,4 @@ missions:
     end: 2026-06-30
     status: admin
     employer: CRB TI LAB / DITP / DINUM
-    startups:
-      - pe-ate
 ---
