@@ -320,7 +320,7 @@ Cela nous rappelle que les ressources favorisant l'accessibilité, comme le DSFR
 
 ### Épilogue
 Nous menons cette étude pour la deuxième année consécutive. Cet exercice nous est très utile pour :
-<ul>
+<ul class="fr-mb-6v">
     <li><strong>Faire un état des lieux de la qualité d'accessibilité</strong> des produits de l'incubateur, plus précis que ce que ce que nous permettrait une analyse avec des tests automatiques.</li>
     <li><strong>Identifier les problématiques récurrentes</strong>, où le Pôle Numérique Inclusif peut mettre de l'énergie pour accompagner les équipes produits de beta.gouv.fr.</li>
     <li><strong>Encourager les équipes à entamer une démarche d'amélioration de l'accessibilité</strong> quand ce n'est pas déjà fait ; en proposant des prochaines actions claires.</li>
@@ -330,7 +330,7 @@ Nous menons cette étude pour la deuxième année consécutive. Cet exercice nou
 ### Annexes
 
 #### Ressources
-<ul>
+<ul class="fr-mb-6v">
     <li><a href="#méthodologie-dévaluation-manuelle-rapide">Méthodologie de l'évaluation manuelle rapide</a></li>
     <li><a href="/accessibilite/evaluation-2024" target="_blank">Résultat de l'évaluation 2024</a></li>
 </ul>
@@ -374,7 +374,7 @@ Nous avons choisi d’inspecter les services numériques de notre portefeuille p
 <ul>
     <li>4 <a href="https://beta.gouv.fr/startups/?national_impact=true" target="_blank">services à <i>impact national</i></a>. Ce sont les services « vitrine » de beta. Ils ont eu un impact significatif sur la vie de centaines de milliers voire de millions de Françaises et de Français.</li>
     <li>17 services <a href="https://beta.gouv.fr/fast/" target="_blank">candidats au FAST</a>. Ces services ont atteint suffisamment de maturité pour souhaiter « passer à l’échelle ». L’enjeu d’accessibilité est donc très important.</li>
-    <li>🆕 17 services phares désignés par les différents <a href="https://beta.gouv.fr/incubateurs/" target="_blank">incubateurs du réseau</a>. Cela nous a permis de nous assurer que chaque incubateur était bien représenté au moins à hauteur de 10 % dans notre panel.</li>
+    <li><span role="img" aria-label="Nouveauté :" >🆕</span> 17 services phares désignés par les différents <a href="https://beta.gouv.fr/incubateurs/" target="_blank">incubateurs du réseau</a>. Cela nous a permis de nous assurer que chaque incubateur était bien représenté au moins à hauteur de 10 % dans notre panel.</li>
 </ul>
 Ainsi, nous avons construit un échantillon de 38 produits (contre 26 l'année dernière).
 
