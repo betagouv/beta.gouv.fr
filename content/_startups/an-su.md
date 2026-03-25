@@ -15,13 +15,11 @@ sponsors:
   - /organisations/direction-du-numerique-pour-l-education
 phases:
   - name: construction
-    comment: null
     start: 2026-03-18
-    end: null
 events:
   - name: product_launch
-    comment: Lancement de l'incubation
     date: 2026-03-18
+    comment: Lancement de l'incubation
 ---
 ## Contexte
 
