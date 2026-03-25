@@ -18,4 +18,4 @@ missions:
       - nosgestesclimat
 competences: []
 ---
-Graphic Designer engagée !
+Graphic designer et illustratrice engagée pour les acteurs de la transition sociale et écologique. Je suis co-autrice et illustratrice de la BD Déclics (Robert Laffont) qui parle de déclics écologiques et de passages à l'action.
