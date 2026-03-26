@@ -5,8 +5,10 @@ domaine: Autre
 link: https://omnicite.fr/
 missions:
   - start: 2022-06-21
-    end: 2025-09-30
+    end: 2026-06-30
     status: service
+    startups:
+      - csplab
 badges:
   - segur
 ---

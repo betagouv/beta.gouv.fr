@@ -7,6 +7,7 @@ contact: contact@refugies.info
 incubator: dinum
 sponsors:
   - /organisations/diair
+  - /organisations/direction-generale-des-etrangers-en-france
 accessibility_status: partiellement conforme
 phases:
   - name: acceleration
@@ -32,6 +33,7 @@ events:
     comment: Lauréat du fonds accessibilité. Montant 292 690€
   - name: national_impact
     date: 2025-02-26
+    comment: Lauréat du Prix du Service Numérique à Impact National 2024
 usertypes:
   - particulier
   - association
@@ -88,7 +90,7 @@ Conçue pour les réfugiés, elle offre :
 
 ### Service numérique à impact national 2024
 
-[Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) est le **service public d'information n°1 pour les étrangers en France** :
+[Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) est le **service public d'information n°1 pour les réfugiés en France** :
 
 **Usage et audience**
 
@@ -103,7 +105,7 @@ Conçue pour les réfugiés, elle offre :
 
 **Efficience exceptionnelle**
 
-- **Coût par personne informée : 0,60 €** en décembre 2025 – soit une amélioration de 33 % par rapport à 2024
+- **Coût par personne informée : 0,60 €** en 2025 – soit une amélioration de 33 % par rapport à 2024
 
 *Plus de chiffres sur [notre page statistiques](https://kit.refugies.info/stats/)*
 
