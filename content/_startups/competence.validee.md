@@ -20,7 +20,7 @@ phases:
     end: 2022-08-31
   - name: transfer
     start: 2023-06-30
-  - name: success
+  - name: alumni
     start: 2023-11-17
 accessibility_status: non conforme
 thematiques: []

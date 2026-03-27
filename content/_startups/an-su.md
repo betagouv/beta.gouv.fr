@@ -1,5 +1,5 @@
 ---
-contact: ansu@beta.gouv.fr
+contact: ansu@numerique.gouv.fr
 link: https://adra.ansu-demo.net/
 thematiques:
   - Inclusion numérique

@@ -8,7 +8,7 @@ competences:
   - Ressources humaines
 missions:
   - start: 2025-01-28
-    end: 2026-04-30
+    end: 2026-06-30
     status: independent
     employer: NUMA
 github: Nicolas-Tourneur35
