@@ -10,7 +10,7 @@ competences:
   - Matomo
 missions:
   - start: 2024-11-13
-    end: 2026-03-30
+    end: 2026-02-28
     status: independent
     employer: /ut7
     startups:
