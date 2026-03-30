@@ -1,6 +1,6 @@
 ---
 fullname: Laura Chevillotte
-role: chargée de support Annuaire des Entreprises
+role: Chargée de support Annuaire des Entreprises et HubEE
 domaine: Support
 link: https://www.linkedin.com/in/laura-chevillotte-971a772b4/
 competences:
@@ -12,11 +12,5 @@ missions:
     employer: PathTech
     startups:
       - pass-sport
-  - start: 2025-03-03
-    end: 2026-04-05
-    status: independent
-    employer: Malt
-    startups:
-      - annuaire-entreprises
 ---
 Freelance Chargée de Support  pour différentes Start-ups depuis avril 2019 

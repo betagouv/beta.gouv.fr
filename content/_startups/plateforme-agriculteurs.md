@@ -1,5 +1,5 @@
 ---
-mission: 'Orienter les agriculteurs vers les dispositifs les plus pertinents pour leur exploitation : aide financière, formation, accompagnement...'
+mission: 'Orienter les agriculteurs vers les dispositifs les plus pertinents selon leur profil et leurs besoins : aide financière, formation, accompagnement...'
 incubator: agriculture
 title: 'Aides Agri '
 contact: aides-agri@beta.gouv.fr
@@ -8,6 +8,7 @@ thematiques:
   - Agriculture
 usertypes:
   - agriculteurices
+  - accompagnants agricoles
 sponsors:
   - /organisations/agriculture
 phases:
@@ -28,6 +29,10 @@ events:
     comment: Lancement du MVP
   - name: committee
     date: 2025-07-04
+    comment: Comité de fin de la 1ère phase d'investigation
+  - name: committee
+    date: 2026-03-13
+    comment: Comité de fin de la 2ème phase d'investigation
 link: https://aides-agri.beta.gouv.fr
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Aides-Agri
 stats_url: https://aides-agri.beta.gouv.fr/pages/statistiques
@@ -41,28 +46,24 @@ L’atelier de cadrage du 13 mai 2024 a ensuite fait émerger un premier périm�
 
 **De nombreuses aides publiques existent, mais il y a :** 
 *   **_Un manque de visibilité_**  : les agriculteurs n'ont pas toujours connaissance de leur
-existence. Ces aides sont portées par une multiplicité d’acteurs dont les rôles sont parfois mal compris.
+existence. Il y a une multiplicité d'aides portées par une multiplicité d’acteurs, dont les rôles sont parfois mal compris.
 * **_Un manque de lisibilité_** : une fois identifiées, les aides ne sont pas toujours faciles
-à comprendre ;
-* Un sentiment de **_manque d’accompagnement_** dans des parcours qui
-peuvent être complexes.
+à comprendre, notamment sur les critères d'éligibilité ;
 
 
-**Par ailleurs, cela provoque un accès inégal aux aides, en fonction du profil des agriculteurs** : 
+**Cela provoque un accès inégal aux aides, en fonction du profil des agriculteurs** : 
 * Ces dispositifs restent méconnus ou peu accessibles d’une partie significative des agriculteurs, en particulier de ceux peu connectés aux réseaux agricoles (syndicats, chambres, coopératives, etc.) 
 * Le travail de recherche d’aides, chronophage, pénalise les agriculteurs avec le moins de ressources (compétences, financiers et temps).
 
 
-**Conséquences** :  
-* une difficulté à identifier / solliciter les aides adéquates face à la diversité des dispositifs proposés. 
-* un manque de visibilité sur les conseillers adéquats à solliciter, en fonction du projet. 
+**Conséquence** :  
+* une difficulté à identifier et solliciter les aides adaptées à sa situation, face à la diversité des dispositifs proposés. 
 
 
 ## Solution
 
-Aides Agri est une plateforme digitale qui **permet aux exploitants d’identifier et d’activer facilement des solutions adaptées** (financières, techniques...) grâce à : 
+Aides Agri est une plateforme digitale qui **permet aux exploitants agricoles et à leurs accompagnants d’identifier et d’activer facilement des solutions adaptées** (financières, techniques...) grâce à : 
 * **_une centralisation des aides publiques à destination des agriculteurs mises à jour_**
-* **_une sélection personnalisée de dispositifs adaptée à leur situation en seulement 4 étapes_**
-* **_une orientation vers les interlocuteurs pertinents pour déposer votre dossier_** 
+* **_une sélection personnalisée de dispositifs adaptée à leur situation, avec filtres par critères_**
 
-Ainsi, en fonction de leurs besoins et de leur profil, plusieurs aides pourront être proposées, avec le cas échéant un aiguillage vers les bons guichets et/ou interlocuteurs.
+Ainsi, en fonction de leurs besoins et de leur profil, plusieurs aides pourront être proposées, avec un aiguillage vers les bons guichets et/ou interlocuteurs.

@@ -7,10 +7,9 @@ competences: []
 missions:
   - start: 2026-04-01
     end: 2026-09-25
-    employer: Dynergie
     status: independent
+    employer: Dynergie
     startups:
       - quefairedemesobjetsetdechets
-teams: []
 ---
 Ex-CEO de Pyxo, startup du réemploi des emballages, j’accompagne aujourd’hui des startups dans leur développement.

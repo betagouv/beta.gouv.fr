@@ -14,7 +14,7 @@ competences:
   - PostgreSQL
 missions:
   - start: 2025-12-15
-    end: 2026-04-29
+    end: 2026-06-30
     status: independent
     employer: Little Big Connection
     startups:

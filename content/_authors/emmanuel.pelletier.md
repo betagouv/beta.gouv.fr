@@ -13,13 +13,20 @@ missions:
       - moncomptepro
       - suite-numerique
   - start: 2024-09-16
-    end: 2026-03-31
+    end: 2026-01-31
     status: independent
     employer: Malt
     startups:
       - grist.numerique.gouv.fr
       - suite-numerique
       - suite.territoriale
+  - start: 2026-02-02
+    end: 2026-06-30
+    status: independent
+    employer: La Zone
+    startups:
+      - grist.numerique.gouv.fr
+      - suite-numerique
 memberType: dinum
 competences:
   - Accessibilité

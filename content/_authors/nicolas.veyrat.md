@@ -9,11 +9,12 @@ competences:
   - UX
 missions:
   - start: 2024-12-09
-    end: 2026-04-30
+    end: 2026-06-28
     status: independent
     employer: Omnicité
     startups:
       - mes-services-cyber
+      - recocyber
 teams:
   - /teams/anssi
 ---

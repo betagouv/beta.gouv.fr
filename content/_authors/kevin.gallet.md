@@ -18,7 +18,7 @@ competences:
   - UI
 missions:
   - start: 2024-09-17
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: Mtes
     startups:
@@ -30,7 +30,7 @@ missions:
     startups:
       - je-deviens-etudiant
   - start: 2025-02-12
-    end: 2026-02-28
+    end: 2026-06-30
     status: independent
     employer: LBC
     startups:

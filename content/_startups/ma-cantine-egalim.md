@@ -16,7 +16,7 @@ phases:
 link: https://ma-cantine.agriculture.gouv.fr
 repository: https://github.com/betagouv/ma-cantine
 stats: true
-stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=78&period=day&date=yesterday#?period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=1
+stats_url: https://ma-cantine-metabase.cleverapps.io/dashboard/93-ma-cantine-statistiques-publiques
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Ma%20cantine
 contact: contact@egalim.beta.gouv.fr
 usertypes:

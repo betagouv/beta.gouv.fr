@@ -10,6 +10,9 @@ usertypes:
 techno:
   - vue
   - postgres
+  - docker
+  - nest
+  - rabbitMQ
 title: Alexi
 mission: Prévenir les impayés et les expulsions de locataires
 incubator: mtes
@@ -26,97 +29,82 @@ events:
   - name: product_launch
     date: 2026-03-04
     comment: Mise en production sur les premiers départements pilotes
+repository: https://gitlab-forge.din.developpement-durable.gouv.fr/pub/pnm-public/alexi
+impact_url: https://docs.numerique.gouv.fr/docs/748cbd31-80cb-47de-863c-808dbf3919d2/
 ---
 ## Contexte
 
-Alexi est une solution portée par la Délégation interministérielle à l’hébergement et à l’accès au logement (Dihal).
+Alexi (Application de Lutte contre les Expulsions et les Impayés locatifs) est une solution portée par la Délégation interministérielle à l’hébergement et à l’accès au logement (Dihal).
 
-Elle s’inscrit dans la politique publique de prévention des expulsions locatives, qui mobilise de nombreux acteurs (préfectures, DDETS(PP), CAF, MSA, collectivités, commissaires de justice, etc.).
+Elle s’inscrit dans la politique publique de prévention des expulsions locatives, avec l'ambition d’agir plus tôt pour éviter les ruptures de parcours.
 
-Alexi vise à sécuriser les bailleurs et les locataires contre les risques liés aux expulsions et aux impayés locatifs.
+Aujourd’hui, les situations d’impayés sont souvent prises en charge trop tard, alors que des solutions existent.
 
----
+Alexi vise ainsi à devenir un service public numérique capable de détecter, orienter et accompagner plus rapidement les locataires et les bailleurs confrontés à un impayé de loyer.
+
+* * *
 
 ## Problème
 
-Plusieurs problèmes structurants ont été identifiés :
+Aujourd’hui, lorsqu’un impayé de loyer survient :
 
-* **Un suivi fragmenté et peu lisible des procédures**
-
-  * Les agents disposent d’une vision partielle des dossiers
-  * Difficulté à reconstituer l’historique et le stade de la procédure
-
-* **Une charge de traitement élevée et peu outillée**
-
-  * Qualification manuelle des actes
-  * Recherche et priorisation des dossiers complexes
-
-* **Une exploitation limitée des données**
-
-  * Difficulté à produire des indicateurs fiables et consolidés
-  * Pilotage local et national peu outillé
-
-* **Des délais de traitement qui nuisent à la prévention**
-
-  * Intervention tardive dans la procédure
-  * Risque accru d’expulsion faute d’anticipation
+- **Les situations sont détectées trop tard**
+    - Signalements à un stade avancé
+    - Marges de prévention réduites
+- **Les locataires et bailleurs ne savent pas vers qui se tourner**
+    - Dispositifs peu lisibles
+    - Parcours d’accès complexe
+- **Les situations sont mal priorisées et peu coordonnées**
+    - Difficulté à identifier les cas à risque
+    - Intervention tardive ou inadaptée
 
 **Qui en souffre :**
 
-* Les agents des services de l’État (DDETS(PP), préfectures)
-* Les acteurs de la prévention (CCAPEX, partenaires locaux)
-* In fine, les ménages en situation d’impayés locatifs
+- Locataires en difficulté
+- Bailleurs confrontés à des impayés
+- Acteurs de la prévention
 
 **Conséquences :**
 
-* Perte de temps opérationnel
-* Moindre efficacité des dispositifs de prévention
-* Décisions moins éclairées faute de données consolidées
+- Aggravation des situations, mettant en difficulté locataires et bailleurs
+- Risque accru d’expulsion et de sans-abrisme
 
----
+* * *
 
 ## Solution
 
-Alexi est une application métier qui permet de :
+Alexi est un service numérique public qui vise à :
 
-* **Centraliser et structurer les dossiers d’impayés locatifs**
-
-  * Réception automatisée des actes de commissaires de justice (via ADEC)
-  * Création et suivi unifié des dossiers
-
-* **Faciliter le traitement par les agents**
-
-  * Outils de recherche et de filtrage avancés
-  * Identification rapide des actes à qualifier
-  * Interface simplifiée et adaptée aux usages métier
-
-* **Améliorer la lisibilité des procédures**
-
-  * Visualisation claire du stade de la procédure
-  * Historique consolidé des événements
-
-* **Renforcer le pilotage**
-
-  * Données exploitables pour le suivi local et national
-  * Meilleure connaissance des flux et des délais
+- **Détecter plus tôt les impayés**
+    - Centralisation des signalements
+    - Qualification du risque
+- **Coordonner les acteurs**
+    
+    - Partage d’information
+- **Orienter vers les bonnes solutions**
+    - Accès simplifié aux dispositifs de prévention
+- **Permettre le signalement direct (cible)**
+    - Par les locataires et bailleurs
 
 **Bénéficiaires :**
 
-* Agents des services de l’État (utilisateurs principaux)
-* Encadrants et pilotes de politiques publiques
-* À terme, l’ensemble des acteurs de la prévention des expulsions
+- Locataires
+- Bailleurs
+- Acteurs de la prévention
 
----
+* * *
 
 ## Objectifs à 6 mois
 
 **Objectif d’usage :**
 
-* 100 % des nouvelles procédures d’impayés locatifs traitées dans Alexi sur les départements déployés
-* ≥ 80 % des agents ciblés connectés et actifs (au moins une action mensuelle)
-* Diminution du temps moyen de qualification des actes (objectif : -30 %)
+- Déployer Alexi sur les premiers territoires et assurer la bascule depuis Exploc (ancien SI)
+- Reprendre les données essentielles d’Exploc et garantir leur accessibilité
+- Accompagner les utilisateurs pour un usage effectif de la solution
 
 **Objectif d’impact :**
 
-* Augmentation de la part de dossiers traités en amont des stades critiques de la procédure
-* Amélioration mesurable de la qualité des données (taux de complétude, fiabilité des indicateurs)
+- Assurer une continuité de service sans rupture pour les usagers
+- Disposer d’un périmètre fonctionnel équivalent à Exploc
+- Améliorer la qualité et la centralisation des données, notamment via l’interconnexion avec la CNAF
+- Mieux détecter et orienter les situations d’impayés dès les premiers signaux
