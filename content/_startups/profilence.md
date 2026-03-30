@@ -39,252 +39,209 @@ stats_url: https://profilence.beta.francetravail.fr/statistiques
 ---
 ## 🚀 Contexte
 
-**Profilence** est une initiative nationale visant à **moderniser et structurer la promotion de profils des demandeurs d’emploi** afin d’accélérer leur mise en relation avec les employeurs.
+**Profilence**, c’est né d’un décalage assez frappant sur le terrain.
 
-Le projet répond à un double enjeu :
+D’un côté, des conseillers qui identifient tous les jours des profils pertinents, parfois même “évidents” pour des entreprises.  
+De l’autre, une réalité chiffrée :
 
-- faciliter l’accès au **marché caché de l’emploi** (environ **70 % des opportunités**)  
-- donner aux conseillers **des outils simples, efficaces et traçables** pour promouvoir des profils auprès des entreprises.
+- **72 % des demandeurs d’emploi autorisent la promotion de leur profil**
+- mais **moins de 2 % sont réellement promus**
 
-Aujourd’hui, **Profilence se structure autour de deux produits complémentaires** :
+Et pourtant, on le sait :  
+**la majorité des opportunités ne passent pas par des offres publiées.**
 
-1. **La refonte de l’outil national de promotion de profil**
-2. **Un module Vivier / Profils recommandés**
-
-Ces deux briques visent à **structurer et industrialiser des pratiques déjà existantes sur le terrain**, mais aujourd’hui peu outillées.
-
----
-
-# 1️⃣ Refonte de l’outil de promotion de profil
-
-L’outil historique de promotion de profil de France Travail est actuellement **en cours de refonte complète**.
-
-L’objectif est de proposer un **outil unique, simple et traçable**, intégré au **SI de France Travail**, afin d’harmoniser les pratiques dans l’ensemble du réseau.
-
-## 📅 Livraison prévue
-
-**Novembre 2026**
-
-Déploiement auprès :
-
-- des agences **France Travail**
-- de **Cap emploi**
-
-Cette première livraison constituera **le premier lot fonctionnel du nouvel outil national de promotion de profil**.
-
-## Fonctionnalités attendues
-
-- une **interface unique pour promouvoir un profil**
-- une **traçabilité complète des promotions**
-- un **suivi des retours employeurs**
-- des **tableaux de bord de pilotage**
-- un **processus simplifié pour les conseillers**
-
-L’objectif est de **réduire fortement la complexité actuelle** et de rendre la promotion de profil **simple, visible et mesurable**.
+Alors la question est vite devenue simple : **Pourquoi un levier aussi puissant est-il aussi peu utilisé ?**
 
 ---
 
-# 2️⃣ Module Vivier / Profils recommandés
+# 🔎 Exploration / investigation
 
-Le second produit de Profilence concerne la **constitution et l’activation de viviers de candidats immédiatement employables**.
+On est allé voir, concrètement, comment ça se passait.
 
-Ce module permettra aux conseillers de :
+Pas dans les outils.   Sur le terrain.
 
-- identifier des **profils mobilisables rapidement**
-- les **mettre en visibilité auprès des entreprises**
-- **suivre leur mobilisation et leur impact**
+Et très vite, on a compris que le problème n’était pas l’envie…  mais la façon de faire.
 
-## Origine
+Promouvoir un profil (le fait d'envoyer le CV d'un candidat à une entreprise sans offre publiée), aujourd’hui, ça peut vouloir dire :
 
-Cette solution a d’abord été **testée en low-code au sein de l’incubateur France Travail**, afin de valider les usages terrain.
+- envoyer un mail à un collègue  
+- partager un CV à l’oral  
+- garder une liste dans un coin d’Excel  
+- ou déposer un CV dans une bannette  
 
-Suite aux résultats obtenus, elle est désormais **en cours de rattachement au SI de France Travail**.
+Chaque conseiller a sa méthode.  
+Chaque agence a ses habitudes.
 
-## 📅 Livraison envisagée
+Mais au final :
 
-**Septembre / octobre 2026**
+- aucune vision globale  
+- très peu de suivi  
+- et beaucoup d’énergie dispersée  
 
-Déploiement prévu dans **plusieurs agences France Travail pilotes**  
-(sous réserve de validation finale).
+Dans certains cas, on monte jusqu’à **40 ou 45 étapes différentes** pour réaliser une promotion.
 
-Sur le plan technique, **les équipes sont prêtes à lancer cette première étape**.
+Autant dire que ça freine.
+
+Et pourtant, derrière tout ça, il y a une réalité très forte :
+
+**La promotion de profil existe déjà partout.  
+Mais elle est invisible, artisanale… et difficile à exploiter.**
 
 ---
 
-# ❌ Le problème
+# 🧪 Première expérimentation : simplifier
 
-Aujourd’hui :
+On a donc décidé de ne pas commencer par construire un outil.
 
-- **1,9 million de demandeurs d’emploi** ont autorisé la promotion de leur profil
-- mais **seuls 45 000 profils ont été promus au moins une fois**
+On a commencé par enlever de la complexité.
 
-Cela représente :
+Juste :
 
-- **environ 2 % des profils autorisés**
-- **0,8 % de l’ensemble des demandeurs d’emploi inscrits**
+- un formulaire  
+- un tableau partagé  
 
-En clair : **la promotion de profil est aujourd’hui très peu utilisée**, malgré son potentiel.
+Rien de plus.
 
-## Les freins identifiés
+Testé dans :
 
-- des **outils multiples et peu interconnectés**
-- une **absence de traçabilité**
-- un **manque de visibilité sur les résultats**
-- des **pratiques locales très hétérogènes**  
-  (tableaux papier, fichiers Excel, échanges informels…)
+- 3 agences France Travail  
+- 1 Mission Locale  
+
+L’objectif n’était pas de faire parfait.  
+C’était de voir si, en simplifiant, l’usage revenait.
+
+Et ça n’a pas mis longtemps.
+
+Les conseillers se sont rapidement approprié la démarche :
+
+- **78 % d’utilisateurs côté France Travail**
+- **67 % côté Mission Locale**
+
+Mais surtout :
+
+- **+136 % de promotions** par rapport à nos agences témoins
+- **113 promotions réalisées**
+- **8 recrutements**
+
+Avec un élément clé :
+
+- **40 % de retours employeurs**
+
+Ce qu’on a vu à ce moment-là, c’est simple :
+
+**Quand on enlève les frictions, les usages reviennent immédiatement.**
+
+## Un tournant important
+
+Cette première expérimentation n’a pas seulement validé un usage.
+
+Elle a permis de repositionner le sujet.
+
+👉 La promotion de profil n’est plus vue comme une pratique isolée  
+👉 mais comme un **enjeu métier structurant**
 
 Résultat :  
-la promotion de profil existe, mais **elle repose souvent sur des pratiques artisanales et peu visibles**.
+le sujet a été repris côté **FT.pro**
 
 ---
 
-# 🎯 Les objectifs de Profilence
+# 🧪 Deuxième expérimentation : le vivier
 
-Profilence vise à :
+Une fois la promotion simplifiée, une autre question s’est posée.
 
-- **centraliser et harmoniser** la promotion de profil
-- **simplifier le travail des conseillers**
-- **réduire le nombre d’étapes et de ressaisies**
-- **assurer une traçabilité complète des promotions**
-- **mesurer l’impact réel des actions menées**
-- **améliorer la mise en relation avec les entreprises**
+**Et si on arrêtait d’attendre le bon moment pour proposer un profil ?**
 
-L’ambition est simple :
+Et si les profils étaient déjà prêts, identifiés, activables ?
 
-**faire de la promotion de profil un levier efficace et mesurable du retour à l’emploi.**
+C’est comme ça qu’est née la deuxième expérimentation, à Blois, avec :
 
----
+- France Travail  
+- Mission Locale  
+- Cap emploi  
 
-# 🔎 Ce que nous avons appris sur le terrain
+L’idée :
 
-L’analyse des pratiques terrain a montré que :
+**constituer un vivier de candidats immédiatement employables**, visible par les conseillers, mobilisable rapidement.
 
-- le processus actuel peut comporter **jusqu’à 45 étapes**
-- les conseillers doivent **multiplier les saisies dans différents outils**
-- les promotions sont **rarement suivies dans le temps**
-- de nombreuses équipes ont créé **leurs propres solutions locales**
+## Ce que ça change concrètement
 
-Ces pratiques témoignent d’un **besoin réel**, mais aussi d’un **manque d’outillage adapté**.
+On ne part plus de zéro à chaque besoin.
 
-Les conseillers expriment clairement **l’attente d’un outil simple, centralisé et visible par tous.**
+On s’appuie sur des profils déjà identifiés, déjà prêts.
 
----
+Et les résultats sont là :
 
-# 🧪 Première expérimentation
+👉 **1 profil sur 13 promu est recruté**  
+(soit **7,6 % de transformation**)
 
-Une première expérimentation a été menée dans :
-
-- **3 agences France Travail**
-- **1 Mission Locale**
-
-Le dispositif reposait sur :
-
-- un **formulaire simplifié**
-- un **tableau partagé**
-
-L’objectif : **tester rapidement les usages et mesurer l’intérêt du dispositif.**
-
-## Résultats
-
-### Adoption
-
-- **78 % des conseillers utilisateurs**
-- **67 % en Mission Locale**
-
-### Activité
-
-- **113 promotions réalisées**
-- **+136 % de promotions** par rapport aux agences témoins
-
-### Résultats concrets
-
-- **8 recrutements**
-- **6 profils conservés par des employeurs**
-- **40 % de retours employeurs**
-- délai moyen de réponse : **12 jours**
-
-Ces résultats montrent que **lorsqu’un outil simple existe, les conseillers s’en saisissent rapidement.**
+Sur un sujet historiquement peu structuré, c’est un signal très fort.
 
 ---
 
-# 🧪 Seconde expérimentation territoriale
+# 📈 Ce que nous avons appris
 
-Une seconde expérimentation est menée **depuis novembre 2025** dans **l’agglomération de Blois**.
+Avec ces deux expérimentations, plusieurs choses sont devenues très claires.
 
-Elle repose sur une **coopération entre plusieurs acteurs du Réseau pour l’Emploi** :
+D’abord, le besoin est réel.  
+Pas théorique. Réel.
 
-- **France Travail**
-- **Mission Locale**
-- **Cap emploi**
+Ensuite, les conseillers ne demandent pas un outil complexe.  
+Ils veulent quelque chose de simple, rapide, utile.
 
-L’objectif est de tester l’usage de **viviers de candidats immédiatement employables**, activés directement auprès d’employeurs du territoire.
+Et surtout :
 
-## Résultat clé
+**dès qu’on simplifie, l’usage décolle.  
+Et dès que l’usage décolle… les résultats suivent.**
 
-**7,6 % des profils proposés et promus ont été recrutés.**
+Mais le vrai enseignement est ailleurs.
 
-Autrement dit :
-
-**1 profil promu sur 13 aboutit à un recrutement.**
-
-Ce résultat confirme que **la combinaison d’un vivier qualifié et d’une promotion ciblée vers les entreprises peut accélérer significativement le retour à l’emploi.**
-
-Cette expérimentation permet également de tester **la coopération opérationnelle entre acteurs du Réseau pour l’Emploi.**
+👉 Ce qu’on construit ici, ce n’est pas juste un outil.  
+👉 C’est une nouvelle manière de rendre visible et collective une pratique qui existait déjà.
 
 ---
 
-# ✅ Ce que confirme l’expérimentation
+# 🧱 Prochaine étape
 
-Les expérimentations montrent que :
+On arrive maintenant à un moment clé du projet.
 
-- le besoin est **réel**
-- l’outil est **rapidement adopté**
-- la promotion de profil **augmente fortement lorsqu’elle est outillée**
-- des **résultats concrets sur l’emploi apparaissent rapidement**
+📅 **Début avril : comité d’investissement**
 
-Profilence constitue donc **une réponse crédible pour structurer et amplifier cette pratique à l’échelle nationale.**
+Objectif : valider le passage en phase de construction dans le SI.
 
----
+## Ce que nous allons construire
 
-# 🧱 Prochaines étapes
+Le produit s’articule autour de deux briques complémentaires.
 
-Le projet entre désormais dans une phase de **construction et d’intégration au SI de France Travail**.
+### 1. Une promotion de profil simple et traçable (reprise par la direction métier FT.pro)
 
-Deux chantiers majeurs sont engagés.
+- un point d’entrée unique  
+- un suivi des actions  
+- une visibilité sur les résultats  
 
-## Refonte de l’outil national de promotion de profil
+### 2. Un vivier activable (développé par l'Incubateur)
 
-📅 **Livraison prévue : novembre 2026**
+- des profils immédiatement mobilisables  
+- une vision partagée entre acteurs  
+- une activation rapide auprès des entreprises  
 
-Objectifs :
+👉 L’ambition est claire :
 
-- simplifier la promotion de profil
-- assurer une traçabilité complète
-- permettre le pilotage de l’activité
-- harmoniser les pratiques dans tout le réseau
-
-## Industrialisation du module Vivier / Profils recommandés
-
-📅 **Livraison envisagée : septembre / octobre 2026**
-
-Objectifs :
-
-- structurer les **viviers de candidats immédiatement employables**
-- faciliter leur **mobilisation auprès des entreprises**
-- **suivre l’impact réel des mises en relation**
-
-La première version sera testée dans **plusieurs agences pilotes**.
+**passer d’une pratique artisanale… à un outil structurant à l’échelle du réseau.**
 
 ---
 
 # 🎯 Ambition
 
-À terme, **Profilence a vocation à devenir un outil structurant du Réseau pour l’Emploi**, permettant :
+À terme, Profilence doit permettre quelque chose de très concret :
 
-- de **mobiliser plus rapidement les candidats**
-- de **répondre plus efficacement aux besoins des entreprises**
-- de **valoriser l’action des conseillers dans la mise en relation**
+- ne plus laisser des profils invisibles  
+- aller plus vite dans la mise en relation  
+- mieux répondre aux besoins des entreprises  
 
-L’objectif est clair :
+Mais surtout :
 
-**faire de la promotion de profil un levier simple, visible et efficace du retour à l’emploi.**
+**redonner de la visibilité à un travail qui existe déjà sur le terrain.**
+
+Parce qu’au fond, le sujet n’est pas de créer quelque chose de nouveau.
+
+C’est de **révéler, structurer et amplifier ce qui fonctionne déjà.**

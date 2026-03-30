@@ -7,6 +7,7 @@ contact: contact@refugies.info
 incubator: dinum
 sponsors:
   - /organisations/diair
+  - /organisations/direction-generale-des-etrangers-en-france
 accessibility_status: partiellement conforme
 phases:
   - name: acceleration
@@ -32,6 +33,7 @@ events:
     comment: Lauréat du fonds accessibilité. Montant 292 690€
   - name: national_impact
     date: 2025-02-26
+    comment: Lauréat du Prix du Service Numérique à Impact National 2024
 usertypes:
   - particulier
   - association
@@ -57,13 +59,12 @@ Les personnes réfugiées et primo-arrivantes font face à trois obstacles princ
 1. **L'éparpillement de l'information** et le manque de sources fiables en langue claire
 2. **La barrière linguistique** et la complexité du système administratif français
 3. **Le sous-équipement des professionnels de l'accompagnement** (manque de temps, de formation et d'outils)
-#
 
-[Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) intervient sur le **dernier kilomètre de la politique d'accueil et d'intégration du BOP 104** (Budget Opérationnel de Programme 104 – Intégration et accès à la nationalité française sur délégation de la Direction de l'Intégration et de l'Accès à la Nationalité) en facilitant l'accès à l'information sur les droits, les devoirs, les dispositifs et les démarches pour les personnes primo-arrivantes.
+Réfugiés.info intervient sur le **dernier kilomètre de la politique d'accueil et d'intégration du BOP 104** (Budget Opérationnel de Programme 104 – Intégration et accès à la nationalité française sur délégation de la Direction de l'Intégration et de l'Accès à la Nationalité) en facilitant l'accès à l'information sur les droits, les devoirs, les dispositifs et les démarches pour les personnes primo-arrivantes.
 
 ## **La solution : Réfugiés.info**
 
-Pour simplifier l'intégration des personnes réfugiées en France, [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) offre **plus de 1 100 fiches d'information simplifiées et traduites** :
+Pour simplifier l'intégration des personnes réfugiées en France, Réfugiés.info offre **plus de 1 100 fiches d'information simplifiées et traduites** :
 
 - **127 fiches "démarches"** expliquant les procédures administratives complexes (logement social, carte de séjour, inscription à France Travail, etc.)
 - **1 010 fiches "dispositifs"** recensant les initiatives locales en faveur des personnes réfugiées (cours de français, formations professionnelles, accompagnement social, etc.)
@@ -75,6 +76,8 @@ Ces informations sont accessibles via **deux produits complémentaires** :
 **1. Site web collaboratif**
 
 Dédié aux professionnels de l'accompagnement, il permet la création d'information de manière collaborative par les responsables d'organismes publics, les associations et les bénévoles.
+
+Site disponible sur ce lien : [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all)
 
 **2. Application mobile native**
 
@@ -88,7 +91,7 @@ Conçue pour les réfugiés, elle offre :
 
 ### Service numérique à impact national 2024
 
-[Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) est le **service public d'information n°1 pour les étrangers en France** :
+Réfugiés.info est le **service public d'information n°1 pour les réfugiés en France** :
 
 **Usage et audience**
 
@@ -103,34 +106,34 @@ Conçue pour les réfugiés, elle offre :
 
 **Efficience exceptionnelle**
 
-- **Coût par personne informée : 0,60 €** en décembre 2025 – soit une amélioration de 33 % par rapport à 2024
+- **Coût par personne informée : 0,60 €** en 2025 – soit une amélioration de 33 % par rapport à 2024
 
-*Plus de chiffres sur [notre page statistiques](https://kit.refugies.info/stats/)*
+*Plus de chiffres sur [notre page statistiques](https://kit.refugies.info/stats/) (en cours de refonte)*
 
 ### Impact mesuré et robuste
 
-À ce stade, [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) démontre un **impact intermédiaire robuste** fondé sur trois leviers :
+À ce stade, Réfugiés.info démontre un **impact intermédiaire robuste** fondé sur trois leviers :
 
 **1. Préparation des démarches administratives**
 
 - 60% des usagers utilisent le service pour préparer une démarche *(chiffre basé sur une étude quantitative menée par Réfugiés.info en 2024)*
-- Plus de 26 000 personnes (20 %) se redirigent vers les services administratifs adéquats (ANEF, ANTS, [Service-public.fr](http://service-public.fr/))
+- Plus de 26 000 personnes (20 %) se redirigent vers les services administratifs adéquats (ANEF, ANTS, Service-public.fr)
 
 **2. Fluidification du travail des administrations**
 
-- 70 % des personnes réfugiées interrogées ont trouvé une réponse sur [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) au lieu de solliciter l'administration *(chiffre basé sur une étude quantitative menée par Réfugiés.info en 2024)*
+- 70 % des personnes réfugiées interrogées ont trouvé une réponse sur Réfugiés.info au lieu de solliciter l'administration *(chiffre basé sur une étude quantitative menée par Réfugiés.info en 2024)*
 - Meilleure qualité des dossiers transmis et réduction des allers-retours administratifs
 
 **3. Autonomisation des publics et outillage des professionnels**
 
 - 80 % des personnes réfugiées déclarent avoir gagné du temps pour leurs démarches (jusqu'à plusieurs mois pour certains)
-- [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) sert d'outil de formation continue et de veille pour les travailleurs sociaux
+- Réfugiés.info sert d'outil de formation continue et de veille pour les travailleurs sociaux
 
 *Pour aller plus loin : [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all)[, 5 ans au service de l'information des personnes réfugiées ⭐️📙](https://accueil-integration-refugies.fr/wp-content/uploads/2024/07/Livret-Impact-Refugies.infos-2024.pdf)*
 
 ## Les trois piliers de transformation 2026
 
-En 2026, [Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) prend une ampleur inédite pour répondre aux enjeux du ministère de l'Intérieur. **Trois chantiers structurants** seront déployés pour maximiser l'impact du service :
+En 2026, Réfugiés.info prend une ampleur inédite pour répondre aux enjeux du ministère de l'Intérieur. **Trois chantiers structurants** seront déployés pour maximiser l'impact du service :
 
 ### 1. Élargissement du public cible
 
@@ -140,7 +143,7 @@ Le service évolue vers **un outil numérique innovant à impact national pour l
 
 ### 2. Transformation par l'IA : de producteur à vulgarisateur d'information
 
-[Réfugiés.info](https://refugies.info/recherche?search=&sort=default&type=all) développe une capacité à **récupérer les contenus existants (Service-public.fr, sites ministériels, etc.) pour les rendre accessibles en langage clair et traduits** grâce à une IA interne, tout en continuant à créer l'information manquante.
+Réfugiés.info développe une capacité à **récupérer les contenus existants (Service-public.fr, sites ministériels, etc.) pour les rendre accessibles en langage clair et traduits** grâce à une IA interne, tout en continuant à créer l'information manquante.
 
 **Objectif :** Accélérer la production de contenus accessibles et multilingues, réduire les coûts de production, et améliorer la couverture informationnelle.
 

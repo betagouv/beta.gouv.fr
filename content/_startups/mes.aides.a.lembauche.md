@@ -20,6 +20,8 @@ phases:
     start: 2022-10-03
   - name: success
     start: 2023-10-20
+  - name: alumni
+    start: 2024-01-01
 analyse_risques: true
 thematiques:
   - Travail / Emploi

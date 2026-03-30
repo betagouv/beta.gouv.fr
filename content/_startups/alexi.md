@@ -17,21 +17,15 @@ sponsors:
   - /organisations/dihal
 phases:
   - name: investigation
-    comment: null
     start: 2025-04-21
-    end: null
   - name: construction
-    comment: null
     start: 2025-07-01
-    end: null
   - name: acceleration
-    comment: null
     start: 2026-03-04
-    end: null
 events:
   - name: product_launch
-    comment: Mise en production sur les premiers départements pilotes
     date: 2026-03-04
+    comment: Mise en production sur les premiers départements pilotes
 ---
 ## Contexte
 

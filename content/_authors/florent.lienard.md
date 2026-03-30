@@ -27,6 +27,12 @@ missions:
     employer: MALT
     startups:
       - sites-faciles
+  - start: 2026-03-27
+    end: 2026-09-27
+    status: independent
+    employer: Malt
+    startups:
+      - nosgestesclimat
 memberType: beta
 competences:
   - Product design
