@@ -4,7 +4,7 @@ fullname: Florian LAINEZ
 role: Déploiement
 missions:
   - start: 2024-03-22
-    end: 2026-04-01
+    end: 2026-09-30
     status: independent
     employer: IGN
     startups:

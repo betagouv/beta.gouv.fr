@@ -5,7 +5,7 @@ domaine: Développement
 github: vdegove
 missions:
   - start: 2023-06-19
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: Pathtech
     startups:

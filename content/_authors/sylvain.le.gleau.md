@@ -6,11 +6,9 @@ link: https://legleau.com
 github: sylvainlg
 missions:
   - start: 2023-05-22
-    end: 2026-03-31
+    end: 2026-06-30
     status: independent
     employer: Scopyleft
-    startups:
-      - agents.en.intervention
 memberType: beta
 previously:
   - mon.espace.collectivite

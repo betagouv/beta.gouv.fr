@@ -32,6 +32,7 @@ events:
   - name: product_launch
     date: 2025-11-28
 repository: https://github.com/betagouv/OTP-DS-to-Grist
+impact_url: https://docs.numerique.gouv.fr/docs/e092692a-3694-4987-9d74-92003bdde3f5/?utm_source=docssharelink&utm_campaign=e092692a-3694-4987-9d74-92003bdde3f5
 link: ''
 ---
 ## Contexte

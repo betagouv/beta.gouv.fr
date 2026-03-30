@@ -7,7 +7,7 @@ incubator: francetravail
 contact: travailler-en-france@beta.francetravail.fr
 accessibility_status: partiellement conforme
 stats: true
-stats_url: https://travailler-en-france.beta.francetravail.fr/stats
+stats_url: https://travailler-en-france.francetravail.fr/stats
 phases:
   - name: acceleration
     start: 2023-01-20
@@ -19,7 +19,7 @@ usertypes:
 techno:
   - angular
   - git
-link: https://travailler-en-france.beta.francetravail.fr
+link: https://travailler-en-france.francetravail.fr
 ---
 **Contexte**
 
