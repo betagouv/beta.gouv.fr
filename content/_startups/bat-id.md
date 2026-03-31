@@ -1,6 +1,6 @@
 ---
 title: RNB, le Référentiel National des Bâtiments
-mission: Référencer l’intégralité des bâtiments du territoire français au sein d’un géocommun
+mission: Rendre efficace et commune l'identification des bâtiments et l'échange d'informations les concernant
 sponsors:
   - /organisations/ademe
   - /organisations/cstb

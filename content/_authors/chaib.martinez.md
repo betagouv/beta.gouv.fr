@@ -43,11 +43,14 @@ missions:
     startups:
       - datalma
   - start: 2024-05-01
-    end: 2026-04-30
+    end: 2026-07-30
     status: independent
     employer: Numa
     startups:
+      - docs
       - sites-faciles
+      - suite-numerique
+      - visio
 badges:
   - segur
 domaine: Coaching

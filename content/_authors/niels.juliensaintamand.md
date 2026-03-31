@@ -4,7 +4,7 @@ role: Responsable Territorial
 domaine: Déploiement
 missions:
   - start: 2022-04-25
-    end: 2026-04-30
+    end: 2026-06-30
     status: independent
     employer: Octo
     startups:
