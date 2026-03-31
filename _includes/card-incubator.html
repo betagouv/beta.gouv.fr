@@ -3,25 +3,21 @@
 {% assign owner = site.organisations | where: 'id', incubator.owner | first %}
 
 <div class="fr-card fr-enlarge-link">
-    <div class="fr-card__body">
-        <h3 class="fr-card__title fr-h6">
-            <a class="fr-card__link" href="{{ incubator.url }}" >{{ incubator.title }}</a>
-        </h3>
-        {% if owner.name %}
-            <p class="fr-card__detail fr-mt-1w">{{ owner.name }}</p>
-        {% endif %}
-        <!-- We use HTML for bold text into short descriptions (easier for now instead of parsing every field with https://www.gatsbyjs.com/plugins/gatsby-plugin-mdx-frontmatter/) -->
-        {% assign short_description = incubator.short_description | strip_newlines | size %}
-        {% if short_description > 0 %}
-            <p class="fr-card__desc">{{ incubator.short_description }}</p>
-        {% endif %}
-    </div>
-    <div class="fr-card__img">
-        <img
-            src="{{ site.empty_placeholder }}"
-            data-src="{{ incubator | incubator_logo }}"
-            alt=""
-            class="fr-responsive-img lozad incubator-logo fr-py-2w fr-px-4w"
-        />
-    </div>
+  <div class="fr-card__body">
+    <h3 class="fr-card__title fr-h6">
+      <a class="fr-card__link" href="{{ incubator.url }}" >{{ incubator.title }}</a>
+    </h3>
+    {% if owner.name %}
+      <p class="fr-card__detail fr-mt-1w">{{ owner.name }}</p>
+    {% endif %}
+    <div class="fr-card__desc">{{ incubator.short_description | markdownify }}</div>
+  </div>
+  <div class="fr-card__img">
+    <img
+        src="{{ site.empty_placeholder }}"
+        data-src="{{ incubator | incubator_logo }}"
+        alt=""
+        class="fr-responsive-img lozad incubator-logo fr-py-2w fr-px-4w"
+    />
+  </div>
 </div>
