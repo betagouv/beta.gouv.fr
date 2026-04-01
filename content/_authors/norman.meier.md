@@ -9,10 +9,9 @@ competences:
 missions:
   - start: 2026-03-30
     end: 2026-06-30
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - monitorfish
-teams: []
 ---
 Développeur freelance passé par 42

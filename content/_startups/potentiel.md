@@ -37,13 +37,14 @@ techno:
   - chai
   - cucumber
   - node
-impact_url: https://potentiel.beta.gouv.fr/statistiques-publiques
+impact_url: https://docs.numerique.gouv.fr/docs/d2a7ec3f-4b4a-42b4-b823-d3626303a734/?utm_source=docssharelink&utm_campaign=d2a7ec3f-4b4a-42b4-b823-d3626303a734
 analyse_risques: true
 mon_service_securise: true
 ---
 ## **Potentiel** – Plateforme nationale de pilotage des EnR électriques
 
 **Faciliter le parcours des producteurs d’énergies renouvelables et piloter la transition énergétique en temps réel**
+
 
 ## **🌍 Contexte & Enjeux**
 

@@ -31,7 +31,7 @@ missions:
     startups:
       - viz-eau
   - start: 2025-12-01
-    end: 2026-03-31
+    end: 2026-04-30
     status: independent
     employer: DYNERGIE
     startups:
