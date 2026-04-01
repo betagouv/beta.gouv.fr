@@ -5,7 +5,7 @@ domaine: Développement
 github: Lealefoulon
 missions:
   - start: 2023-02-27
-    end: 2026-06-30
+    end: 2026-01-31
     status: admin
     startups:
       - dialogue

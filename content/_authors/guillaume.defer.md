@@ -9,7 +9,7 @@ competences:
   - Metabase
 missions:
   - start: 2024-10-07
-    end: 2028-11-01
+    end: 2027-09-30
     status: admin
     employer: DGAL/BPAL
     startups:

@@ -7,7 +7,10 @@ contact: fabriquenumerique@dgfip.finances.gouv.fr
 address: 18 avenue des olympiades, 94 120 Fontenay-sous-Bois (Bâtiment Xylo)
 logo: logo_fabrique_dgfip.png
 short_description: |+
-  La Fabrique numérique est un incubateur rattaché à la <strong>Délégation à la transformation numérique (DTNum)</strong> de la DGFiP. Créée en 2021 et intégrée depuis 2024 au réseau des incubateurs du programme beta.gouv.fr, elle a pour mission de <strong>transformer des idées innovantes en solutions numériques concrètes</strong>, testables et évolutives, avant leur intégration pérenne dans le système d’information (SI) de la DGFiP.
+  <br>
+  ### Qu’est-ce que la Fabrique numérique ?
+
+  La Fabrique numérique est un incubateur rattaché à la <strong>Délégation à la transformation numérique (DTNum)</strong> de la DGFiP. Créée en 2021 et intégrée depuis 2024 au réseau des incubateurs du programme <a href="http://beta.gouv.fr">beta.gouv.fr</a> (DINUM), elle a pour mission de <strong>transformer des idées innovantes en solutions numériques concrètes</strong>, testables et évolutives, avant leur intégration pérenne dans le système d’information (SI) de la DGFiP.
 
 highlighted_startups:
   - simul-nr
@@ -42,3 +45,5 @@ La fabrique numérique encourage une culture de l'**expérimentation** et du **d
 ### 👥 Mode produit
 
 Le **mode produit** de la Fabrique numérique repose sur une approche agile et centrée sur l'utilisateur, inspirée des méthodes des startups.
+
+                                                                                                                                                                                                                                                                                         

@@ -15,7 +15,7 @@ competences:
   - Python
 missions:
   - start: 2025-09-26
-    end: 2026-06-30
+    end: 2026-02-28
     status: independent
     employer: Fairness
     startups:

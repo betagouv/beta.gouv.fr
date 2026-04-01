@@ -10,7 +10,7 @@ phases:
   - name: construction
     start: 2023-11-14
 stats: false
-contact: thomas.glatt@beta.gouv.fr
+contact: support@seves.beta.gouv.fr
 thematiques:
   - Agriculture
 usertypes:
@@ -31,6 +31,7 @@ events:
     date: 2026-02-05
     comment: Lancement du module Alimentaire (évènement Produits & cas + TIAC & plaintes)
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=S%C3%A8ves
+impact_url: https://incubateur-masa.notion.site/Matrice-d-impact-31ede24614be801ea8f0c573dfa6f1ce
 ---
 ## Le contexte
 

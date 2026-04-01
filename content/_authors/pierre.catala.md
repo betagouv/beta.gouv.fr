@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: PierreCatala
 missions:
   - start: 2023-09-01
-    end: 2026-09-01
+    end: 2026-01-31
     status: admin
     startups:
       - monitorfish

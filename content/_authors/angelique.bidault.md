@@ -16,11 +16,17 @@ missions:
     startups:
       - seves
   - start: 2025-07-18
-    end: 2026-04-30
+    end: 2026-09-30
     status: independent
     employer: Scopyleft
     startups:
       - ma-cantine-egalim
+  - start: 2026-01-19
+    end: 2026-04-30
+    status: independent
+    employer: Pathtech
+    startups:
+      - ecobalyse
 link: http://angi-design.fr/
 competences:
   - Communication

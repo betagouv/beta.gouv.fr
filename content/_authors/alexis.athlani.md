@@ -1,6 +1,6 @@
 ---
 fullname: Alexis Athlani
-role: Software Engineer, Géographe
+role: Développeur, Géographe
 domaine: Développement
 github: alexisig
 missions:
@@ -10,6 +10,13 @@ missions:
     employer: telescoop
     startups:
       - mon-diagnostic-artificialisation
+  - start: 2026-04-01
+    end: 2026-09-01
+    status: independent
+    employer: Scopopop
+    startups:
+      - envergo
+      - guichet-unique-de-la-haie-envergo-agricole
 memberType: beta
 competences:
   - Data Science

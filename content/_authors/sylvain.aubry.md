@@ -6,7 +6,7 @@ link: https://sylvainaubry.cargo.site/
 github: SylvainAubry1
 missions:
   - start: 2022-06-27
-    end: 2026-05-31
+    end: 2026-02-27
     status: independent
     employer: Little Big Connection
     startups:
