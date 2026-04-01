@@ -1,6 +1,6 @@
 ---
 fullname: Gabrielle de Lassus
-role: Responsable produit
+role: Responsable produits
 domaine: Produit
 github: Gabrielle-Bxn
 link: https://www.linkedin.com/in/gabrielle-de-lassus-286410a3/
@@ -9,8 +9,9 @@ competences:
   - Gestion de Produit
 missions:
   - start: 2020-06-24
-    end: 2026-05-28
+    end: 2026-09-28
     status: independent
+    employer: Malt
     startups:
       - snu
 ---

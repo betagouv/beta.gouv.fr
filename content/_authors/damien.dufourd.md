@@ -35,13 +35,17 @@ missions:
       - themis
       - trait-d-union
   - start: 2024-09-03
+    end: 2026-04-01
+    status: independent
+    startups:
+      - homologation
+  - start: 2024-09-03
     end: 2026-06-30
     status: independent
     startups:
       - api-and-communs-numeriques-de-la-cour-de-cassation
       - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne
       - histologe
-      - homologation
       - la-bonne-alternance
       - portail-greffe-de-la-cour-de-cassation
       - stop-punaises
