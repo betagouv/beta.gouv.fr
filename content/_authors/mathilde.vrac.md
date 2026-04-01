@@ -4,8 +4,8 @@ role: 'Opératrice de validation '
 domaine: Autre
 competences: []
 missions:
-  - start: 2025-06-16
-    end: 2026-03-23
+  - start: 2025-03-24
+    end: 2026-08-31
     status: independent
     employer: DINUM
     startups:

@@ -11,7 +11,6 @@ missions:
     startups:
       - api-entreprise
       - api-particulier
-      - bat-id
       - datapass
 previously:
   - demarches-simplifiees.fr

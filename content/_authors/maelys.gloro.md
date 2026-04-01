@@ -13,7 +13,5 @@ missions:
     end: 2026-03-31
     status: admin
     employer: SGAR Bretagne et DITP
-    startups:
-      - pe-ate
 competences: []
 ---

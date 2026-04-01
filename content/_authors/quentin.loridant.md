@@ -18,13 +18,13 @@ missions:
     startups:
       - icare-complements-alimentaires
   - start: 2025-08-01
-    end: 2026-04-07
+    end: 2026-06-30
     status: service
     employer: Malt
     startups:
       - rapportnav
   - start: 2026-01-05
-    end: 2026-04-07
+    end: 2026-06-23
     status: independent
     employer: Ut/7
     startups:

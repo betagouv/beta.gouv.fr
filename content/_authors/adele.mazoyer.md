@@ -10,6 +10,4 @@ missions:
     end: 2025-06-30
     status: service
     employer: SGAR Bretagne
-    startups:
-      - pe-ate
 ---

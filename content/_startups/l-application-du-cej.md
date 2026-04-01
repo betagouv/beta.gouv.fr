@@ -23,6 +23,8 @@ phases:
     start: 2022-03-01
   - name: transfer
     start: 2025-03-31
+  - name: alumni
+    start: 2026-01-01
 accessibility_status: partiellement conforme
 thematiques:
   - Travail / Emploi

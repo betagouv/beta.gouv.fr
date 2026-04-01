@@ -31,7 +31,8 @@ techno:
   - typescript
   - php
   - symfony
-impact_url: https://agentsenintervention.anct.gouv.fr/statistiques
+impact_url: https://docs.numerique.gouv.fr/docs/670b001b-e872-4b0a-b4ea-50d84ef8c6e1/?utm_source=docssharelink&utm_campaign=670b001b-e872-4b0a-b4ea-50d84ef8c6e1
+budget_url: https://docs.numerique.gouv.fr/docs/21186dfd-ea5a-4c29-9996-b3b673b3ed42/?utm_source=docssharelink&utm_campaign=21186dfd-ea5a-4c29-9996-b3b673b3ed42
 ---
 ## Contexte
 

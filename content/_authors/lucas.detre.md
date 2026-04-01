@@ -25,7 +25,7 @@ missions:
     startups:
       - pilotagevoiepro
   - start: 2026-01-20
-    end: 2026-04-21
+    end: 2026-06-30
     status: independent
     employer: UT7
     startups:

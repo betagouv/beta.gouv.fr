@@ -1,7 +1,7 @@
 ---
 fullname: Arthur Hatchuel
 domaine: Animation
-role: Conseiller transformation numérique, qualité des services publics et simplification au cabinet du Ministre délégué chargé de la Fonction publique et de la Réforme de l’État
+role: Conseiller transformation numérique, qualité des services publics et simplification au cabinet du Ministre de l'Action et des Comptes publics
 github: hatchuel
 link: https://www.linkedin.com/in/arthur-h-13bb018b/
 missions:
@@ -20,9 +20,13 @@ missions:
     status: admin
     employer: MFPAPS
   - start: 2025-10-29
-    end: 2026-04-29
+    end: 2026-03-03
     status: admin
     employer: MDFP
+  - start: 2026-03-04
+    end: 2026-09-04
+    status: admin
+    employer: MACP
 competences:
   - Gestion de Produit
 previously:

@@ -11,8 +11,12 @@ phases:
     start: 2023-01-20
   - name: success
     start: 2023-10-20
+  - name: alumni
+    start: 2024-01-01
 thematiques:
   - Travail / Emploi
+usertypes: []
+techno: []
 link: ''
 ---
 **Contexte**

@@ -24,7 +24,7 @@ redirect_from:
   - /startups/tracabilite.gibier.sauvage.html
 repository: https://github.com/betagouv/zacharie
 stats_url: https://zacharie.beta.gouv.fr/stats
-impact_url: https://zacharie.beta.gouv.fr/stats
+impact_url: https://zacharie.beta.gouv.fr/stats/matrice-impact
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Zacharie
 ---
 ## Contexte
@@ -105,5 +105,5 @@ d’utilisateurs potentiels.
 | --- | --- |
 | Développement | 58 150 |
 | Déploiement | 27 700 |
-| Coaching | 28 500  |
+| Mentorat | 28 500  |
 | TOTAL | 114 350 |

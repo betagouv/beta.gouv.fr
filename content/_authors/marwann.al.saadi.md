@@ -17,7 +17,7 @@ missions:
     startups:
       - grist.numerique.gouv.fr
   - start: 2026-01-04
-    end: 2026-04-05
+    end: 2026-08-31
     status: independent
     employer: Malt
     startups:

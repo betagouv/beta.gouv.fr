@@ -6,7 +6,7 @@ github: pskl
 link: https://pascal.cc
 missions:
   - start: 2024-03-21
-    end: 2026-06-30
+    end: 2026-09-01
     status: independent
     employer: Scopopop
     startups:

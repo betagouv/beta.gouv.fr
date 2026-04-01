@@ -14,6 +14,5 @@ missions:
     employer: Secrétariat général pour les Affaires régionales (SGAR) Bretagne
     startups:
       - data.etat
-      - pe-ate
 github: https://github.com/Quemiliano
 ---

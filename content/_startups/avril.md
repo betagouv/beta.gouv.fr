@@ -18,6 +18,8 @@ phases:
     start: 2021-06-01
   - name: success
     start: 2022-11-29
+  - name: alumni
+    start: 2023-01-01
 thematiques: []
 techno: []
 link: ''

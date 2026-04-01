@@ -5,7 +5,7 @@ domaine: Déploiement
 github: victorstefanini
 missions:
   - start: 2021-09-02
-    end: 2026-04-06
+    end: 2026-09-17
     status: independent
     employer: Scopopop
     startups:

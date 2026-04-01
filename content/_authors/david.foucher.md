@@ -9,12 +9,8 @@ missions:
     status: service
     employer: France Travail
     startups:
-      - encyclopedie-des-metiers
-      - estime.formation
-      - la-bonne-formation
-      - mes-evenements-emploi
-      - mobiville
-      - plateforme.rome.4-0
+      - handicompatible
+      - mes-aides-france-travail
       - travailler.en.france
   - start: 2023-09-01
     end: 2026-12-12
