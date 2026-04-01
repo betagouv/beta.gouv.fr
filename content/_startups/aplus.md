@@ -1,21 +1,20 @@
 ---
 mission: Résoudre les blocages administratifs complexes et/ou urgents des citoyens
 incubator: anct
-repository: https://github.com/betagouv/aplus
-contact: contact@aplus.beta.gouv.fr
+repository: https://gitlab.com/incubateur-territoires/startups/administration-plus/administration-plus
+contact: support@aplus.beta.gouv.fr
 accessibility_status: non conforme
 thematiques:
   - Social
   - Inclusion numérique
 usertypes:
   - etat
+  - collectivite-territoriale
 stats_url: https://aplus.beta.gouv.fr/stats
 techno:
-  - Scala
-  - Play Framework
   - PostgreSQL
-  - OpenShift
   - Brevo
+  - next.js
 title: Administration+
 sponsors:
   - /organisations/anct
@@ -37,7 +36,7 @@ events:
   - name: committee
     date: 2025-07-16
     comment: Comité d'investissement
-impact_url: https://statistiques.aplus.beta.gouv.fr/public/dashboard/faca8f39-78f4-40df-aa9a-15ae19cca8a5
+impact_url: https://statistiques.aplus.beta.gouv.fr/public/dashboard/d9c5f1bf-a88c-4e2b-a05b-2f2a7f27b09c
 budget_url: https://www.notion.so/incubateurdesterritoires/Budget-public-d-Administration-1e4744bf03dd8022a62bd4970dfe174f
 ---
 ## Un problème qui peut toucher tout le monde : être privé de ses droits à cause de blocages administratifs

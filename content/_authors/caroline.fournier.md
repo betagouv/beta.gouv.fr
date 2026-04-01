@@ -5,11 +5,16 @@ role: coach et designer
 link: https://www.linkedin.com/in/fourniercaroline/
 missions:
   - start: 2021-04-20
-    end: 2026-05-30
+    end: 2026-04-01
     status: independent
     employer: Numa
     startups:
       - chauffage-urbain
+  - start: 2021-04-20
+    end: 2026-05-30
+    status: independent
+    employer: Numa
+    startups:
       - infomedicament
   - start: 2025-07-01
     end: 2026-07-30

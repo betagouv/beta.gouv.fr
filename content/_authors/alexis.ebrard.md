@@ -1,6 +1,6 @@
 ---
 fullname: Alexis Ebrard
-role: Développeur Fullstack à Fondation
+role: Développeur Fullstack à MLE
 domaine: Développement
 competences:
   - Accessibilité
@@ -24,4 +24,5 @@ missions:
     employer: MALT
     startups:
       - je-deviens-etudiant
+github: dakie62
 ---

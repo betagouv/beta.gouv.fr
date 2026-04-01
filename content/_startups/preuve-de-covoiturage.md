@@ -1,5 +1,5 @@
 ---
-title: Registre de preuve de covoiturage
+title: Covoiturage.beta.gouv
 mission: Accompagner le développement du covoiturage au quotidien 🚘
 sponsors:
   - /organisations/ademe
@@ -15,7 +15,7 @@ analyse_risques: true
 analyse_risques_url: https://covoiturage.beta.gouv.fr/.well-known/security-policy.txt
 usertypes:
   - collectivite-territoriale
-stats_url: https://stats.covoiturage.beta.gouv.fr/public/dashboard/2084d346-8e3b-495e-9b10-b4870a35632a
+stats_url: https://covoiturage.beta.gouv.fr/statistiques
 dashlord_url: https://dashlord.incubateur.net/url/covoiturage-beta-gouv-fr/
 events:
   - name: national_impact
@@ -40,9 +40,13 @@ fast:
 thematiques:
   - Écologie
   - Transports
-techno: []
+techno:
+  - next.js
+  - sql
+  - react
+  - SQLMesh
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#Registre-de-preuve-de-covoiturage
-impact_url: https://stats.covoiturage.beta.gouv.fr/public/dashboard/2084d346-8e3b-495e-9b10-b4870a35632a
+impact_url: https://covoiturage.beta.gouv.fr/statistiques
 ---
 Un résumé (2 min de lecture)
 

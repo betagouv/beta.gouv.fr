@@ -101,7 +101,7 @@ La stratégie du RNB repose sur trois approches complémentaires :
 
 Il s’agit ici de démontrer la valeur du RNB, d’identifier les freins et proposer des solutions, afin d’intégrer les ID-RNB dans les SI des acteurs publics et de faire émerger des cas d’usage sur les différents champs de l’action publique (sport, éducation, rénovation énergétique des bâtiments…) :
 
-- Exemple Cas d’usage DPE : **Plus de 6 millions de DPE disposent d’un ID RNB**. Cette intégration a été réalisée par un déploiement de l’équipe RNB sur le flux entrant de DPE (via l’accompagnement des éditeurs de logiciel DPE souhaitant intégrer de manière optionnelle un champ RNB pour enrichir leurs parcours utilisateurs), ainsi que sur le stock en appuyant les équipes techniques de l’Observatoire des DPE-Audit de l’Ademe (rapprochement de leur base open-data réalisé par l’équipe RNB chaque année). Résultats : **Les ID-RNB permettent d’améliorer la géolocalisation des DPE et de planifier l’évolution de la rénovation du parc dans son ensemble.**
+- Exemple Cas d’usage DPE : **Plus de 8 millions de DPE disposent d’un ID RNB**. Cette intégration a été réalisée par un déploiement de l’équipe RNB sur le flux entrant de DPE (via l’accompagnement des éditeurs de logiciel DPE souhaitant intégrer de manière optionnelle un champ RNB pour enrichir leurs parcours utilisateurs), ainsi que sur le stock en appuyant les équipes techniques de l’Observatoire des DPE-Audit de l’Ademe (rapprochement de leur base open-data réalisé par l’équipe RNB chaque année). Résultats : **Les ID-RNB permettent d’améliorer la géolocalisation des DPE et de planifier l’évolution de la rénovation du parc dans son ensemble.**
 
 ###### 2° Disposer d’une donnée bâtimentaire la plus proche du terrain, par l’approche géocommun.
 
@@ -119,8 +119,15 @@ Il s’agit ici d’avancer conjointement avec les équipes responsables au sein
 - A terme, la diffusion d’informations avec d’autres bases de données, permise par une introduction législative ou réglementaire, représentera un gain de temps et de ressources pour les administrations, les collectivités et les acteurs privés (base des diagnostics de performance énergétique, base des autorisations d’urbanisme délivrées, RNC, etc.).
 
 
-> Chiffres : En décembre 2025, le RNB est intégré à plus de **61 bases et processus administratifs** (Fichiers Fonciers du Cerema, Ministère de l’Education…), fait l'objet de **19.5 millions d'appel API** et de **190 000 éditons dans le RNB.**
 
 
-> Gains financiers apportés par le RNB : a) Lors de la création d’un outil étatique de déclaration des consommations énergétique - Montant unitaire : 80.000-100.000€ évité soit 1 mois de temps économisé - Réplicabilité : sur 5 à 10 projets de l’Etat × 90 000 € (moyenne) = **450 000 - 900 000 € de dépenses évitées** b) Lors d’un rapprochement entre 2 bases bâtimentaires - Montant unitaire : 10.000-15.000€ de coûts de rapprochement évité - Réplicabilité : sur 100 communes et administrations = **500 000 à 1 million € de gains financiers**
+## Le Référentiel national des bâtiments, service à impact national 2025
+
+Avant le Référentiel national des bâtiments, il n'existait aucune définition ou donnée standardisée sur le bâtiment en France. Les acteurs publics et privés (administrations, collectivités, éditeurs de logiciels, bailleurs sociaux, etc) devaient composer avec des données éparpillées, des formats de jeux de données hétérogènes et une absence de langage commun sur le bati, ce qui posait des problèmes dans la conduite de l'action publique, par exemple sur la rénovation énergétique.
+
+Aujourd’hui, le Référentiel national des bâtiments (RNB) est un service public numérique, qui répertorie l’ensemble des bâtiments du territoire et leur associe un identifiant unique et pérenne, appelé ID-RNB.
+
+Le service permet une meilleure planification des politiques publiques (logement, rénovation énergétique, accessibilité, etc.) et facilite la coordination entre les acteurs. Pour les collectivités, il offre une vision précise du parc et des leviers d’action. Par exemple, plus de **8 millions de DPE disposent désormais d’un ID RNB**, ce qui permet à une collectivité de planifier plus facilement la rénovation de son parc immobilier.
+
+En décembre 2025, le RNB est intégré à plus de **63 bases** et processus administratifs (Fichiers Fonciers du Cerema, Ministère de l’Education…), comptabilise **23** millions d’appel API et **300 000** éditions **collaboratives** à la base.
 

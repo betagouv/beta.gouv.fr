@@ -11,6 +11,8 @@ phases:
     start: 2023-05-25
   - name: construction
     start: 2024-01-22
+  - name: alumni
+    start: 2026-04-01
 link: https://pacoupa.ademe.fr
 repository: https://github.com/incubateur-ademe/pacoupa
 thematiques:
@@ -64,3 +66,9 @@ Les indicateurs d’impact sont :
 - nombre d’utilisateur-rice-s pour lesquels ce simulateur a été décisif dans leur choix de chauffage décarboné ;
 - nombre d’audits/DTG réalisés à la suite de la présentation en AG des résultats de la simulation ;
 - et idéalement le nombre de systèmes décarbonés installés en copropriété et/ou travaux de rénovation après utilisation du service.
+
+## Mise à jour - mars 2026 : 
+
+Le déploiement du produit n’est plus assuré depuis septembre 2025. Dans une logique de cohérence, l’ADEME souhaite faire converger Pacoupa vers France Chaleur Urbaine, transféré à l’ADEME en 2025. France Chaleur Urbaine s’appuiera sur l’expertise et les ressources construites par Pacoupa pour élargir sa capacité à conseiller sur l’ensemble des systèmes de chauffages décarbonés.
+
+A noter, Pacoupa est aujourd'hui intégré dans l'outil de suivi des copropriétés de l'Agence Parisienne du Climat. Cette dernière continue une forte collaboration avec l'équipe France Chaleur Urbaine.

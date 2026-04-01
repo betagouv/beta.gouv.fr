@@ -10,13 +10,13 @@ missions:
     startups:
       - versementgetorix
   - start: 2023-11-13
-    end: 2026-05-27
+    end: 2026-09-27
     status: independent
     employer: Numa
     startups:
       - maestro
   - start: 2024-10-10
-    end: 2026-03-15
+    end: 2026-05-15
     status: independent
     employer: Numa
     startups:

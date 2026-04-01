@@ -11,7 +11,7 @@ missions:
     startups:
       - recosante
   - start: 2023-02-01
-    end: 2026-07-01
+    end: 2026-09-01
     status: independent
     employer: INETUM - LBC
     startups:

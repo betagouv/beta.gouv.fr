@@ -7,7 +7,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-06-25
-    end: 2026-07-31
+    end: 2026-03-30
     status: admin
     employer: RUCHE NUMERIQUE
     startups:

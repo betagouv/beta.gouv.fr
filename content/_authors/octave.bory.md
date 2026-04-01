@@ -1,7 +1,7 @@
 ---
 fullname: Octave Bory
 domaine: Coaching
-role: Coach senior FAST
+role: Coach senior
 github: octavemelusyn
 link: https://fr.linkedin.com/in/octavebory
 missions:

@@ -1,8 +1,8 @@
 ---
-fullname: Anais Altun
+fullname: Anaïs Altun
 role: Développeuse
 domaine: Développement
-github: alleytuna
+github: anaisalt
 missions:
   - start: 2023-12-04
     end: 2026-08-31
