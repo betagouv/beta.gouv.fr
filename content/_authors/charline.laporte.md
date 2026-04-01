@@ -28,5 +28,7 @@ competences:
   - Développement Frontend
   - JavaScript/TypeScript
   - UI
+  - Grist
+  - Développement Full-stack
 ---
 Développeuse web

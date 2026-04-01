@@ -13,7 +13,7 @@ missions:
     startups:
       - investigation-cour-d-appel-de-paris
   - start: 2025-12-19
-    end: 2026-05-19
+    end: 2026-06-19
     status: independent
     employer: Malt
     startups:

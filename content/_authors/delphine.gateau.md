@@ -5,9 +5,9 @@ domaine: Produit
 github: Delphgateau
 missions:
   - start: 2022-12-20
-    end: 2026-05-31
+    end: 2026-09-30
     status: independent
-    employer: Malt
+    employer: Omnicité
     startups:
       - tchap
 memberType: beta
