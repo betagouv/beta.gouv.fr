@@ -1,6 +1,6 @@
 ---
 fullname: Manon Budin
-role: Développeuse
+role: Lead Développeuse
 domaine: Développement
 github: Josyann
 competences:

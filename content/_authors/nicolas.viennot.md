@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/nicolasviennot/
 github: nicolas-viennot-beta
 missions:
   - start: 2021-08-30
-    end: 2026-05-03
+    end: 2026-07-01
     status: independent
     employer: Scopopop
     startups:
@@ -18,13 +18,13 @@ missions:
     startups:
       - diag-mob
   - start: 2026-02-01
-    end: 2026-05-18
+    end: 2026-07-01
     status: independent
     employer: Numa
     startups:
       - dpm-facile
   - start: 2026-02-18
-    end: 2026-05-18
+    end: 2026-07-01
     status: independent
     employer: Numa
     startups:

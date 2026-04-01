@@ -5,7 +5,7 @@ domaine: Déploiement
 github: pbbouzin
 missions:
   - start: 2023-10-15
-    end: 2026-06-29
+    end: 2026-07-01
     status: independent
     employer: Mission apprentissage (DGEFP)
     startups:
