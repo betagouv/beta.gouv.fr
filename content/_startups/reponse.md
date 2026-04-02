@@ -1,13 +1,14 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: franck.delcroix@hauts-de-seine.gouv.fr
+contact: audrey.pierre@interieur.gouv.fr
 thematiques:
   - Administratif
 usertypes:
   - etat
-techno: []
-title: Réponse +
+techno:
+  - n8n
+title: FPEP Mailbot (anciennement Réponse +)
 mission: Informer et orienter les étrangers sur leur situation administratives et leur démarches
 incubator: FabNum-MI
 sponsors:
@@ -30,7 +31,7 @@ Placeholder:
 
 
 ## Contexte
-Réponse+ est une Startup d'État conçue pour améliorer les démarches administratives pour les étrangers en France, notamment en ce qui concerne les titres de séjour et la naturalisation. Cette initiative vise à identifier et résoudre les irritants rencontrés par les usagers et les agents tout au long du parcours administratif.
+FPEP Mailbot (anciennement Réponse +) est une Startup d'État conçue pour améliorer les démarches administratives pour les étrangers en France, notamment en ce qui concerne les titres de séjour et la naturalisation. Cette initiative vise à identifier et résoudre les irritants rencontrés par les usagers et les agents tout au long du parcours administratif.
 
 ## Problème
 Les démarches administratives pour les étrangers en France sont souvent complexes et génératrices de frustrations. Les principaux problèmes identifiés incluent :
@@ -41,7 +42,7 @@ Manque de coordination : Les interactions entre les différents services (standa
 Les bénéficiaires de cette solution sont les usagers étrangers et les agents administratifs.
 
 ## Solution
-Réponse+ propose une gestion unifiée de la relation usager pour remédier à ces irritants. Les principales actions incluent :
+FPEP Mailbot propose une gestion unifiée de la relation usager pour remédier à ces irritants. Les principales actions incluent :
 
 Rationalisation des points de contact : Optimisation des flux entrants (boîtes mail fonctionnelles).
 Amélioration du traitement des e-mails : Capacité de traitement accrue et réponses personnalisées aux demandes des usagers.
@@ -49,6 +50,10 @@ Renforcement de la communication : Suivi omnicanal des demandes des usagers pour
 
 ## Objectifs à 6 mois
 
-Objectif d'usage : Expérimenter l’optimisation et l’automatisation des réponses par email via les tests des produits « Owi » (93) et « Athena » (78). Co-concevoir une solution relative à la gestion unifiée et omnicanal de la relation usager.
-Objectif d'impact : Réduire de 30% le temps de traitement des demandes par email et améliorer la satisfaction des usagers de 20%.
-Cette fiche produit résume les principales actions et objectifs de Réponse+ pour améliorer les démarches administratives des étrangers en France.
+Après un déploiement réussi dans la préfecture du Nord (59), l'ambition de la solution de traitement des e-mails est de s'étendre sur d'autres préfectures au cours de l'année 2026.
+
+**Objectif d'usage** : Expérimenter l’optimisation et l’automatisation des réponses par email via la solution FPEP Mailbot. Co-concevoir une solution relative à la gestion unifiée et omnicanal de la relation usager.
+
+**Objectif d'impact** : Réduire de 30% le temps de traitement des demandes par email et améliorer la satisfaction des usagers de 20%.
+
+Cette fiche produit résume les principales actions et objectifs de FPEP Mailbot pour améliorer les démarches administratives des étrangers en France.

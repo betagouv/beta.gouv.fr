@@ -34,6 +34,7 @@ techno:
   - python
   - vue
   - javascript
+impact_url: https://www.data.gouv.fr/datasets/indicateurs-dimpact-de-data-gouv-fr
 ---
 ## La mission de data.gouv.fr
 

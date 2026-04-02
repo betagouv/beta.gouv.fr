@@ -1,6 +1,6 @@
 ---
 fullname: Kelly Dansac
-role: Opératrice de validation
+role: Opératrice de validation / chargée de support
 domaine: Autre
 missions:
   - start: 2023-06-05

@@ -30,7 +30,7 @@ missions:
     startups:
       - l-immersion-facile
   - start: 2026-01-01
-    end: 2026-05-01
+    end: 2026-12-31
     status: admin
     employer: France Travail
     startups:
@@ -42,5 +42,6 @@ competences:
   - Gestion de Produit
   - Intrapreneur(se)
   - Product strategy
+  - Coaching
 ---
 Je m'enflamme souvent quand un sujet m'intéresse...

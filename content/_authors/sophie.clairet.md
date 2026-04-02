@@ -45,4 +45,4 @@ competences:
   - Partenariats
 github: C-Sophie
 ---
-Géographe PhD. en mission pour les programmes Panoramax, Chemins en commun (Fabrique de la Donnée territoriale de l'IGN) et Viz’eau (Fabrique numérique de l’Écologie).
+Géographe PhD. en mission pour les programmes Panoramax, Voies locales en commun (Fabrique de la Donnée territoriale de l'IGN) et Viz’eau (Fabrique numérique de l’Écologie).

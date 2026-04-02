@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/guillaumebeliard/
 competences: []
 missions:
   - start: 2025-03-17
-    end: 2026-05-01
+    end: 2026-10-01
     status: independent
     employer: Malt
     startups:

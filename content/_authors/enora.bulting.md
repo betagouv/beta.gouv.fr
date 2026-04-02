@@ -4,7 +4,7 @@ domaine: Design
 role: Designer transverse
 missions:
   - start: 2021-09-01
-    end: 2026-04-08
+    end: 2026-08-01
     status: independent
 competences:
   - UI

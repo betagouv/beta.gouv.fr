@@ -4,7 +4,7 @@ role: Coach produit
 domaine: Coaching
 missions:
   - start: 2022-03-28
-    end: 2026-07-02
+    end: 2025-12-31
     status: independent
     employer: Numa
     startups:

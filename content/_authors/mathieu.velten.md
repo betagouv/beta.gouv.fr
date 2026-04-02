@@ -5,9 +5,9 @@ domaine: Développement
 github: MatMaul
 missions:
   - start: 2023-10-02
-    end: 2026-06-01
+    end: 2026-10-01
     status: independent
-    employer: Malt
+    employer: Omnicité
     startups:
       - tchap
 memberType: beta

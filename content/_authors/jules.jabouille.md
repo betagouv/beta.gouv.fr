@@ -2,7 +2,7 @@
 fullname: Jules Jabouille
 role: ETR
 domaine: Déploiement
-link: https://pize.fr
+link: https://www.linkedin.com/in/julesjabouille/
 missions:
   - start: 2023-03-09
     end: 2027-07-01

@@ -1,6 +1,6 @@
 ---
 fullname: Andrei Bocan
-role: UX / Product Designer
+role: Product Designer
 domaine: Design
 github: gestaltfabrik
 missions:
@@ -11,7 +11,7 @@ missions:
     startups:
       - dora
   - start: 2022-09-01
-    end: 2027-04-30
+    end: 2026-09-30
     status: admin
     employer: gip-inclusion
     startups:
@@ -21,10 +21,12 @@ missions:
     status: admin
     employer: gip-inclusion
     startups:
+      - gps
+      - mon-recap
       - pilotage.de.linclusion
 competences:
   - Facilitation
   - Product design
   - UX
+link: https://www.linkedin.com/in/andreibocan/
 ---
-UX / Product Designer

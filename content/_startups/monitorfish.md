@@ -9,7 +9,7 @@ stats_url: https://metabase.din.developpement-durable.gouv.fr/public/dashboard/0
 title: MonitorFish & MonitorEnv
 sponsors:
   - /organisations/deb
-  - /organisations/dgaln
+  - /organisations/dgampa
   - /organisations/mtes
 stats: true
 phases:

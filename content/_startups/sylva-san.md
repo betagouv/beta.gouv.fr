@@ -16,12 +16,14 @@ phases:
   - name: investigation
     start: 2025-07-18
   - name: construction
-    start: 2026-01-05
+    start: 2026-02-05
 events:
   - name: product_launch
     date: 2025-07-18
   - name: committee
     date: 2025-10-17
+  - name: committee
+    date: 2026-09-01
 techno:
   - vue
   - django
