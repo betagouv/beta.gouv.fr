@@ -12,7 +12,7 @@ missions:
     startups:
       - homologation
   - start: 2026-01-01
-    end: 2026-05-01
+    end: 2026-10-01
     status: independent
     employer: Omnicité
     startups:

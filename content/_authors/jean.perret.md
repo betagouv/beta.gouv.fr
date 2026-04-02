@@ -2,7 +2,7 @@
 domaine: Coaching
 missions:
   - start: 2023-09-08
-    end: 2026-05-01
+    end: 2026-07-01
     status: independent
     employer: Numa
     startups:

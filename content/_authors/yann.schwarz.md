@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-02-09
     end: 2026-08-09
-    employer: IGN
     status: admin
+    employer: IGN
     startups:
       - chemins-en-commun
-teams: []
 ---

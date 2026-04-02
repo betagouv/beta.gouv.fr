@@ -4,7 +4,7 @@ role: Lead Experimentations
 domaine: Animation
 missions:
   - start: 2022-09-18
-    end: 2026-05-31
+    end: 2027-04-30
     status: admin
     startups:
       - les-emplois
@@ -13,17 +13,17 @@ missions:
       - place-de-marche-inclusion
       - rdv.insertion
   - start: 2022-09-18
-    end: 2026-05-31
+    end: 2027-04-30
     status: admin
     startups:
       - data-inclusion
   - start: 2022-09-18
-    end: 2026-05-31
+    end: 2027-04-30
     status: admin
     startups:
       - l-immersion-facile
   - start: 2024-11-01
-    end: 2026-05-31
+    end: 2027-04-30
     status: admin
     startups:
       - gps

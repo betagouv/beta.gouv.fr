@@ -5,7 +5,7 @@ domaine: Développement
 github: mlvernay
 missions:
   - start: 2022-11-15
-    end: 2026-06-16
+    end: 2026-10-02
     status: independent
     employer: Scopopop
     startups:

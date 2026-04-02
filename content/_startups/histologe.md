@@ -62,3 +62,17 @@ Enfin, en tant qu'outil central, Signal Logement participe à la construction d'
 ## Territoires concernés
 
 87 départements déjà couverts : La liste des territoires est accessible sur la page Statistiques du service.
+
+## Services à impact national 2025
+
+**Signal Logement** a été **nommé service numérique à impact national 2026**.
+
+Signal Logement est né en 2020 pour répondre à un constat alarmant : en France, 7 millions de ménages subissent le mal-logement ou vivent dans des conditions très difficiles, ce qui a des impacts durables et parfois irréversibles sur leur sécurité et leur santé.
+ 
+Les dispositifs de signalement sont dispersés, complexes et peu accessibles aux publics les plus vulnérables. Les compétences sont réparties entre acteurs locaux (mairies, associations, services sociaux,…) et services déconcentrés. Ces acteurs manquent d’outils pour se coordonner, centraliser et traiter efficacement ces signalements, ce qui ralentit la résolution des situations.
+ 
+Aujourd’hui, Signal Logement offre une plateforme unique, simple et sécurisée, permettant à tout citoyen ou professionnel de signaler un logement indigne ou une situation de mal-logement. Le service centralise les signalements, les oriente vers les acteurs compétents (DDPP, ADIL, mairies, etc.) et assure un suivi transparent.
+ 
+Avec plus de 96 000 signalements traités depuis son lancement, Signal Logement a permis d’accélérer la prise en charge de tout type de situations , de la plus  urgente à la moins critique, réduisant les délais de traitement des dossiers et améliorant la coordination entre les acteurs. Le service est désormais utilisé par 85 % des pôles départementaux de lutte contre l'habitat indigne, couvrant une large partie du territoire national. Plus de 15 000 foyers ont été sortis du mal logement grâce à Signal logement.
+ 
+Pour les usagers, Signal Logement simplifie la démarche de signalement et offre une visibilité sur l’avancement de leur dossier. Pour les acteurs publics, il constitue un outil précieux de pilotage et de lutte contre l’habitat indigne et dégradé, renforçant ainsi l’efficacité des politiques publiques en matière de logement.

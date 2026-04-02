@@ -15,10 +15,10 @@ sponsors:
   - /organisations/ademe
   - /organisations/cerema
 phases:
-  - name: investigation
-    start: 2024-10-10
   - name: construction
     start: 2025-07-07
+  - name: investigation
+    start: 2025-11-02
 events:
   - name: product_launch
     date: 2024-11-13

@@ -9,7 +9,7 @@ competences:
   - Développement Frontend
 missions:
   - start: 2025-03-05
-    end: 2026-05-01
+    end: 2026-07-01
     status: independent
     employer: Urssaf
     startups:

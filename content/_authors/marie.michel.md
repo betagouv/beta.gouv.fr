@@ -7,7 +7,7 @@ competences:
   - Facilitation
 missions:
   - start: 2025-10-01
-    end: 2026-04-04
+    end: 2026-06-30
     status: independent
     employer: Solstice
     startups:

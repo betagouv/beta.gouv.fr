@@ -13,6 +13,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2026-01-01
+  - name: construction
+    start: 2026-04-02
 events:
   - name: committee
     date: 2026-04-01

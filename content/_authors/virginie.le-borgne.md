@@ -5,7 +5,7 @@ domaine: Déploiement
 github: VirginieLeB
 missions:
   - start: 2022-10-28
-    end: 2024-12-31
+    end: 2026-08-31
     status: independent
     startups:
       - emile

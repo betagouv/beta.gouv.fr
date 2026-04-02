@@ -10,7 +10,7 @@ missions:
     startups:
       - trackdechets
   - start: 2025-10-22
-    end: 2026-05-01
+    end: 2026-10-01
     status: independent
     employer: Malt
     startups:
