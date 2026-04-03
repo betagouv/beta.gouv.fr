@@ -16,7 +16,7 @@ phases:
 link: https://ma-cantine.agriculture.gouv.fr
 repository: https://github.com/betagouv/ma-cantine
 stats: true
-stats_url: https://ma-cantine-metabase.cleverapps.io/dashboard/93-ma-cantine-statistiques-publiques
+stats_url: https://ma-cantine.agriculture.gouv.fr/v2/stats
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Ma%20cantine
 contact: contact@egalim.beta.gouv.fr
 usertypes:
@@ -42,6 +42,7 @@ techno:
   - django
   - python
 impact_url: https://ma-cantine-metabase.cleverapps.io/public/dashboard/0589649a-fabc-4001-82d6-f5f4fc15710d
+dashlord_url: https://dashlord.incubateur-agriculture.beta.gouv.fr/url/ma-cantine-agriculture-gouv-fr/
 ---
 ## Contexte et enjeux
 

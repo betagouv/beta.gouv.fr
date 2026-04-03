@@ -9,7 +9,5 @@ missions:
     status: independent
     employer: DINUM
 memberType: beta
-teams:
-  - /teams/anct
 ---
 Chargée de communication et chineuse de déco

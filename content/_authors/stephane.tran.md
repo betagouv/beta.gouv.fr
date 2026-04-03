@@ -22,7 +22,5 @@ competences:
   - PostgreSQL
   - UI
 github: fasjones
-teams:
-  - /teams/justice
 ---
 Développeur à la Fabrique Innovation au Ministère de la Justice

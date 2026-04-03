@@ -10,7 +10,5 @@ missions:
     startups:
       - deveco
 memberType: beta
-teams:
-  - /teams/anct
 ---
 Numérique et développement éco

@@ -19,4 +19,4 @@ competences:
   - Facilitation
   - Intrapreneur(se)
 ---
-Egalement chargée de mission lutte contre la cabanisation à la DDTM 34
+Spécialiste de la lutte contres les constructions et installations illégales dans les zones naturelles et agricoles 

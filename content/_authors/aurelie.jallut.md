@@ -17,6 +17,11 @@ missions:
     employer: Scopyleft, LittleBigconnexion
     startups:
       - umap
+  - start: 2026-04-03
+    end: 2026-07-15
+    status: independent
+    startups:
+      - point-d-acces-national-aux-donnees-d-accessibilite
 previously:
   - aplus
   - sndv_maritime
@@ -28,4 +33,4 @@ competences:
   - UI
   - UX
 ---
-Recherche utilisateurs, prototype & design d'interfaces
+UX designer & product manager à mes heures, en plus d’aimer prendre soins des utilisateurs et des détails, j’ai un penchant pour la stratégie et les missions transverses

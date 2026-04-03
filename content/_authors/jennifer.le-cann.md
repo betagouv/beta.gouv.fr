@@ -22,7 +22,5 @@ missions:
     startups:
       - oriane
 competences: []
-teams:
-  - /teams/fabnumdef
 ---
 Responsable de l'incubateur du ministère des Armées, UX/UI

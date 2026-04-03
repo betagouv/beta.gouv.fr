@@ -27,8 +27,6 @@ competences:
   - Product strategy
   - UI
   - UX
-teams:
-  - /teams/ademe
 link: https://www.linkedin.com/in/lauradussier-design/
 ---
 Designeuse et dessinatrice, j’accompagne des entreprises, des associations et des startups du service public dans la conception d'expériences web et mobiles utilisables, accessibles et pleines de panache.

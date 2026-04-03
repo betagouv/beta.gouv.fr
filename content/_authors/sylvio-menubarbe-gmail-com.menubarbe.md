@@ -17,11 +17,8 @@ competences:
   - Docker
 missions:
   - start: 2026-04-03
-    end: 2026-09-30
+    end: 2026-04-04
     status: independent
     employer: Malt
-    startups:
-      - aigle
-      - lucca
 ---
 Passionné par l'informatique et le développement, j’aime créer des outils concrets qui simplifient le quotidien et apportent une vraie valeur à leurs utilisateurs.

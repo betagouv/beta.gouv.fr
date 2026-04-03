@@ -4,12 +4,12 @@ role: Développeur
 domaine: Développement
 github: pitiscarf
 missions:
-  - start: 2023-11-28
-    end: 2026-06-30
+  - start: 2026-04-20
+    end: 2026-09-30
     status: independent
     employer: malt
     startups:
-      - snu
+      - docurba
 memberType: beta
 competences: []
 ---

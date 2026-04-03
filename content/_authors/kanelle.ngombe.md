@@ -8,6 +8,4 @@ missions:
     status: admin
     employer: Pole Emploi
 memberType: beta
-teams:
-  - /teams/francetravail-animation
 ---
