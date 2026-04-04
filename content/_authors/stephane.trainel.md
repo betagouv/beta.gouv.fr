@@ -9,6 +9,4 @@ missions:
     startups:
       - monstage
 competences: []
-teams:
-  - /teams/menj-animation
 ---

@@ -12,10 +12,9 @@ competences:
 missions:
   - start: 2026-04-01
     end: 2026-09-30
-    employer: PathTech
     status: service
+    employer: PathTech
     startups:
       - prest-agri
-teams: []
 ---
 Associée chez Multi.coop et ancienne EIG

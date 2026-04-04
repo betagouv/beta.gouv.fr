@@ -10,6 +10,4 @@ missions:
     startups:
       - encyclopedie-des-metiers
       - mes-evenements-emploi
-teams:
-  - /teams/francetravail-responsable-de-portefeuille
 ---

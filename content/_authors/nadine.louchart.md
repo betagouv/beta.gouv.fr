@@ -12,6 +12,4 @@ missions:
 memberType: beta
 link: https://www.linkedin.com/in/nadinelouchart/
 competences: []
-teams:
-  - /teams/mission-apprentissage
 ---
