@@ -15,6 +15,4 @@ missions:
     startups:
       - la-bonne-alternance
       - tdb-apprentissage
-teams:
-  - /teams/mission-apprentissage
 ---

@@ -7,6 +7,4 @@ missions:
     end: 2025-06-14
     status: admin
     employer: Pôle Emploi
-teams:
-  - /teams/francetravail-animation
 ---

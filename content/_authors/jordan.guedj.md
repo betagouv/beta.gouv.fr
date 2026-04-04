@@ -9,9 +9,8 @@ competences:
 missions:
   - start: 2026-04-02
     end: 2026-10-02
-    employer: DINUM
     status: independent
+    employer: DINUM
     startups:
       - datalma
-teams: []
 ---

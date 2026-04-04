@@ -14,8 +14,6 @@ previously:
   - camino
 badges:
   - segur
-teams:
-  - /teams/mtes
 link: https://www.linkedin.com/in/levieuxguillaume/
 ---
 Toujours fan des volcans et de ceux qui vivent dessus.

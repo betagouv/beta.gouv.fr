@@ -7,7 +7,7 @@ competences:
   - Croissance
 missions:
   - start: 2024-07-22
-    end: 2026-07-22
+    end: 2027-04-01
     status: independent
     employer: GIP Plateforme de l'Inclusion
     startups:

@@ -14,7 +14,5 @@ previously:
 badges:
   - segur
 github: valentinbrel
-teams:
-  - /teams/anct
 competences: []
 ---

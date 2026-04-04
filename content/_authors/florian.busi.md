@@ -13,6 +13,4 @@ competences:
   - Analyse de risques
   - Sécurité informatique
 link: https://www.linkedin.com/in/fbusi
-teams:
-  - /teams/anct
 ---

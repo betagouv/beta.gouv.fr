@@ -22,6 +22,13 @@ missions:
     employer: Dynergie
     startups:
       - agreste
+  - start: 2026-04-03
+    end: 2026-10-03
+    status: independent
+    employer: Numa
+    startups:
+      - impact.co2
+      - nosgestesclimat
 previously:
   - mon-suivi-social
 competences:
