@@ -23,6 +23,8 @@ events:
   - name: product_launch
     comment: ''
     date: 2026-01-15
+redirect_from:
+    - /startups/chemins-en-commun
 ---
 ## Contexte
 
