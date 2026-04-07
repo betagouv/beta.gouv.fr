@@ -35,7 +35,7 @@ missions:
     status: independent
     employer: DYNERGIE
     startups:
-      - chemins-en-commun
+      - voies-locales-en-commun
 badges:
   - segur
 competences:

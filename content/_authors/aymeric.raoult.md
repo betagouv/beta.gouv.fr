@@ -35,7 +35,7 @@ missions:
     startups:
       - mobicouts
   - start: 2023-01-02
-    end: 2026-01-30
+    end: 2026-06-30
     status: service
     employer: Numa
     startups:
@@ -47,13 +47,13 @@ missions:
     startups:
       - apilos
   - start: 2024-02-21
-    end: 2025-11-01
+    end: 2026-07-01
     status: service
     employer: Dynergie
     startups:
       - medistock
   - start: 2024-12-01
-    end: 2026-05-01
+    end: 2026-08-01
     status: service
     employer: Dynergie
     startups:

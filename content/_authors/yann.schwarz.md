@@ -9,5 +9,5 @@ missions:
     status: admin
     employer: IGN
     startups:
-      - chemins-en-commun
+      - voies-locales-en-commun
 ---

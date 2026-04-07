@@ -22,5 +22,7 @@ competences:
   - PostgreSQL
   - Python
 link: https://www.linkedin.com/in/victorperron/
+teams:
+  - /teams/gip-inclusion
 ---
 Développeur Python/Django & frontend & data engineering & devops
