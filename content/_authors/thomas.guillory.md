@@ -1,6 +1,6 @@
 ---
 fullname: Thomas Guillory
-role: CTO
+role: Entrepreneur d'Intérêt Général
 domaine: Développement
 github: thomasguillory-betagouv
 link: https://www.linkedin.com/in/thomasguillory/

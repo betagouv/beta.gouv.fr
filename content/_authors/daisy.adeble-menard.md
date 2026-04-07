@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-04-03
     end: 2026-07-03
-    employer: Ministères sociaux
     status: admin
+    employer: Ministères sociaux
     startups:
       - srdt-ia
-teams: []
 ---
