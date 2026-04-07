@@ -69,3 +69,7 @@ Les premières fonctionnalités expérimentées portaient sur :
 Mon Suivi Social a été récompensé lors du Congrès National de l'Union Nationale des Centres Communaux d'Action Sociale (UNCCAS) le 28 mars 2023 à Bourges.
 
 Le 21 novembre 2023 : Mon Suivi Social a également remporté le Prix de l'Innovation au Salon des Maires et des Collectivités Locales dans la catégorie "Numérique Responsable"
+
+## Services à impact national 2025
+**Mon Suivi Social a été nommé Services à impact National 2025 grâce à une couverture nationale** permettant une meilleure prise en charge des bénéficiaires accompagnés dans des structures désormais outillées ! 
+[Pour en savoir plus sur les services à impact national](https://www.numerique.gouv.fr/sinformer/espace-presse/betagouvfr-10-ans-dimpact-et-une-ambition-renouvelee-lincubateur-de-services-numeriques-de-la-dinum-perennise-lagilite-et-institutionnalise-le-mode-produit-au-sein-de-letat/)

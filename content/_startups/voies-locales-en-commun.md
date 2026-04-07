@@ -13,18 +13,15 @@ techno: []
 title: Voies locales en commun
 mission: Faciliter la conservation des chemins ruraux et le recensement des voies communales
 incubator: fab-geocommuns
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2025-12-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-01-15
 redirect_from:
-    - /startups/chemins-en-commun
+  - /startups/chemins-en-commun
+link: ''
 ---
 ## Contexte
 

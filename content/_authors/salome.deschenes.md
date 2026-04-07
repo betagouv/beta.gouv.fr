@@ -11,7 +11,7 @@ missions:
     startups:
       - urbanvitaliz
   - start: 2021-06-30
-    end: 2026-05-24
+    end: 2026-09-30
     status: independent
     employer: Malt
     startups:

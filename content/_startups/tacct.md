@@ -1,5 +1,5 @@
 ---
-title: Facili-TACCT
+title: TACCT
 mission: Aider chaque territoire à initier ou renforcer sa démarche d’adaptation au changement climatique.
 sponsors:
   - /organisations/ademe
@@ -32,7 +32,7 @@ thematiques:
 analyse_risques: true
 analyse_risques_url: https://github.com/incubateur-ademe/facili-tacct/blob/main/SECURITY.md
 repository: https://github.com/incubateur-ademe/facili-tacct
-link: https://facili-tacct.beta.gouv.fr
+link: https://tacct.ademe.fr
 usertypes:
   - collectivite-territoriale
 techno:
@@ -42,8 +42,8 @@ techno:
   - sql
 dashlord_url: https://dashlord.incubateur.ademe.fr/startup/tacct
 mon_service_securise: true
-budget_url: https://facili-tacct.beta.gouv.fr/budget
-stats_url: https://facili-tacct.beta.gouv.fr/statistiques
+budget_url: https://tacct.ademe.fr/budget
+stats_url: https://tacct.ademe.fr/statistiques
 ---
 ## Contexte
 
@@ -59,11 +59,11 @@ Du fait que les effets du changement climatique sont ressentis au niveau local, 
 
 C’est pourtant sur la base d’un diagnostic exposant clairement les enjeux du territoire mais surtout compris et partagé par l’ensemble des parties prenantes (élus, services techniques, acteurs du territoire), que peuvent s’ouvrir des discussions constructives sur les problématiques d’adaptation.
 
-Dans ce cadre, Facili-TACCT, notre solution vise à aider **l’ensemble des parties prenantes à mieux s’approprier leur diagnostic de vulnérabilité.**
+Dans ce cadre, TACCT vise à **aider chaque territoire à initier ou renforcer sa démarche d'adaptation au changement climatique**, en commençant par le diagnostic de vulnérabilité, aboutissement d'un dialogue efficace entre tous les acteurs du territoire.
 
 ## Solution
 
-**Facili-TACCT s’adresse aux chargé.e.s de mission climat dans les collectivités** qui :
+**TACCT s’adresse aux chargé.e.s de mission climat dans les collectivités** qui :
 
 * préparent leur premier PCAET
 * révisent le PCAET réalisé plusieurs années auparavant
@@ -71,20 +71,13 @@ Dans ce cadre, Facili-TACCT, notre solution vise à aider **l’ensemble des par
 
 Les bureaux d’étude pourront également s’appuyer sur les ressources mises à disposition.
 
-Le service Facili-TACCT vise à leur donner les clés pour :
+Le service TACCT a pour but d'aider chaque chargé de mission à :
 
-1. **Préparer un diagnostic de vulnérabilité le plus qualitatif possible**
-2. **Permettre aux élus et services techniques, voire au delà aux parties prenantes, de s’approprier ce diagnostic**
+1. **Comprendre la sensibilité de son territoire**
+2. **Structurer sa démarche d’adaptation**
 
-Pour se faire, Facili-TACCT :
+Pour ce faire, TACCT propose :
 
-* prendra la forme d’un **outil de réflexion sur les thématiques d’adaptation des territoires**.
-* apportera des **données socio-économiques clés mises en valeur et contextualisées** à chaque territoire.
-* mobilisera les chargés de mission climat dans une **communauté de pratique dédiée à l’adaptation** au changement climatique des territoires.
-
-*—*
-
-*Note : Facili-TACCT est un service complémentaire à la plateforme [TACCT](https://tacct.ademe.fr/) :*
-
-* ***La plateforme TACCT propose un accompagnement global aux collectivités** souhaitant s’engager dans un programme ambitieux d’adaptation au changement climatique : diagnostic de vulnérabilité, définition d’une trajectoire d’adaptation et d’un plan d’action, suivi-évaluation.*
-* ***Facili-TACCT apporte une (re)lecture socio-éco du territoire permettant d’enrichir le diagnostic de vulnérabilité**. La collectivité aura toutes les cartes en main pour faire de l’adaptation un thème important de son PCAET, voire poursuivre en s’engageant dans une démarche d’adaptation au long court avec TACCT.*
+* une **plateforme numérique** avec des ressources clés permettant d'enrichir le diagnostic de vulnérabilité : le patch 4°C (mesure 23 du PNACC-3), une boîte à outils et des données socio-économiques thématisées ;
+* une **communauté Adaptation**, à destination des chargés de mission, donnant accès à un espace collaboratif, des webinaires thématiques et des retours d’expériences ;
+* la **méthode TACCT**, méthode de référence pour l’adaptation reconnue par le PNACC-3, qui donne le cadre pour élaborer son diagnostic, sa stratégie (plan d'action) et le suivi-évaluation de la démarche.

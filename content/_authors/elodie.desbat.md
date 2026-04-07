@@ -15,6 +15,12 @@ missions:
     employer: Malt
     startups:
       - sylva-san
+  - start: 2026-03-17
+    end: 2026-09-17
+    status: independent
+    employer: Malt
+    startups:
+      - maestro
 badges:
   - segur
 competences:

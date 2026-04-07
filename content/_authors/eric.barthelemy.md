@@ -12,12 +12,11 @@ missions:
       - la-bonne-boite
       - memo
   - start: 2019-07-01
-    end: 2026-04-23
+    end: 2027-04-27
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:
       - les-emplois
-      - pilotage.de.linclusion
 competences:
   - Administration Publique
   - Coaching

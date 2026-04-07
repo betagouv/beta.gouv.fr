@@ -3,12 +3,12 @@ fullname: Wojciech WOJCIK
 role: Développeur
 domaine: Développement
 missions:
-  - start: 2023-05-22
-    end: 2026-03-31
+  - start: 2025-09-30
+    end: 2026-06-30
     status: service
     employer: OCTO
     startups:
-      - france.nation.verte.agir
+      - agrements-assistants-maternels-et-familiaux
 memberType: beta
 competences: []
 ---
