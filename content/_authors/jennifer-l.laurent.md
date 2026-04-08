@@ -9,9 +9,8 @@ competences:
 missions:
   - start: 2026-01-27
     end: 2026-07-31
-    employer: Opteamis
     status: independent
+    employer: Opteamis
     startups:
       - srdt-ia
-teams: []
 ---

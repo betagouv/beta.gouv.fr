@@ -24,4 +24,10 @@ missions:
     employer: Malt
     startups:
       - plus-frais-au-travail
+  - start: 2026-04-01
+    end: 2026-07-31
+    status: independent
+    employer: Malt
+    startups:
+      - nosgestesclimat
 ---

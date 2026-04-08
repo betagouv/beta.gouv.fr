@@ -9,4 +9,6 @@ missions:
     end: 2026-12-15
     status: admin
     employer: DINUM
+    startups:
+      - transports-sanitaires
 ---
