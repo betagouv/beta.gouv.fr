@@ -90,6 +90,12 @@ lI est utilisable également pour les collectivités dont les **équipes techni
 
 Agents en Intervention est inspiré de SILAB, une initiative locale développée par l'Agglomération du Grand Poitiers pour outiller ses agents d'intervention en mobilité.
 
-L'outil a ensuite été conçu par l’Incubateur des Territoires de l'ANCT en coopération avec des dizaines d’équipes techniques pour qu'il puisse être mis à disposition de l’ensemble des collectivités gratuitement et sur simple demande.\
-\
-A﻿près une campagne de Beta Test fin 2023 conduite avec 15 collectivités, l'outil a été mise en service en expérimentation en janvier 2024. En Mai 2025, il regroupe 350 collectivités inscrites pour plus de 2500 agents connectés sur le territoire national et a permis de suivre et créer plus de 40 000 interventions sur l'espace public.
+L'outil a ensuite été conçu par l’Incubateur des Territoires de l'ANCT en coopération avec des dizaines d’équipes techniques pour qu'il puisse être mis à disposition de l’ensemble des collectivités gratuitement et sur simple demande.
+
+L'Incubateur a investi, au cours des trois dernières années, dans la conception et le développement du produit Agents en intervention. À l'issue de cette phase, l'incubateur des territoires souhaite donner une nouvelle orientation au produit en proposant à des structures de mutualisation de pouvoir instancier elles-mêmes ce produit. L'incubateur des territoires est en train d'identifier et de faciliter ce transfert du produit à ces structures.
+
+Pour les collectivités qui utilisent le produit actuellement, l'incubateur des territoires assure la pérennité de votre usage pour l'année 2026, dans l'attente de pouvoir vous proposer un futur intégrateur (structure de mutualisation ou privée).
+
+A ce stade, l'incubateur des territoires ne déploie plus Agents en Intervention à de nouveaux utilisateurs. Cependant, si vous êtes une collectivité intéressée par l'utilisation de ce produit, l'incubateur vous invite à remplir [ce formulaire](https://grist.incubateur.anct.gouv.fr/o/agents-en-intervention/forms/mXVQsg2iHMP55kmyBpAy6Y/89) afin de vous identifier et d'être mis en relation avec les futurs intégrateurs.
+
+Si vous êtes une structure intéressée par l'instanciation et l'exploitation de la solution, nous vous remercions de bien vouloir nous écrire à l'adresse suivante : agentsenintervention@incubateur.anct.gouv.fr

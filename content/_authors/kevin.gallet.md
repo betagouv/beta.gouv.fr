@@ -1,6 +1,6 @@
 ---
 fullname: Kévin Gallet
-role: Développeur Senior @ OTELO / @Je Deviens Etudiant
+role: Développeur Senior @ OTELO / @Mon Logement Etudiant
 domaine: Développement
 github: KGALLET
 link: https://www.linkedin.com/in/kgallet

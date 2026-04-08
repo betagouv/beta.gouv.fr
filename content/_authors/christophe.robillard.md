@@ -12,6 +12,9 @@ missions:
     employer: LaZone
     startups:
       - demarches-simplifiees.fr
+  - start: 2026-04-07
+    end: 2026-10-07
+    status: independent
 previously:
   - dossiersco
   - mpal
