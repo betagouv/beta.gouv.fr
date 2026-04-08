@@ -13,17 +13,23 @@ missions:
     startups:
       - kelrisks
   - start: 2019-12-15
-    end: 2026-05-31
+    end: 2026-09-30
     status: independent
     employer: Malt
     startups:
       - trackdechets
   - start: 2024-08-05
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
     employer: Opteamis
     startups:
       - codedutravail
+  - start: 2026-04-08
+    end: 2026-07-08
+    status: independent
+    employer: Cober
+    startups:
+      - gestion.subventions.locales
 competences:
   - Accessibilité
   - Facilitation
