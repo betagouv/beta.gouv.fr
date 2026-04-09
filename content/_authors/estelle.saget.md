@@ -18,6 +18,7 @@ missions:
     startups:
       - agrements-assistants-maternels-et-familiaux
       - data-dsn
+      - gestion-de-l-orientation-et-du-placement-des-mineurs-de-l-ase
 badges:
   - segur
 previously:

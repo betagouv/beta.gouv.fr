@@ -24,6 +24,7 @@ phases:
 events:
   - name: product_launch
     date: 2026-03-16
+impact_url: https://docs.numerique.gouv.fr/docs/cbe1e028-4c39-40e2-9bce-110087a1ea51/
 link: ''
 ---
 ## Contexte

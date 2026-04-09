@@ -39,6 +39,9 @@ fast:
   promotion: 15
   montant: 160000
 impact_url: https://www.notion.so/incubateurdesterritoires/Budget-1b2744bf03dd81c9a005c06c3d14a6d2?source=copy_link#2df744bf03dd802b9913ed74b67deedb
+events:
+  - name: national_impact
+    date: 2026-04-02
 ---
 ## 🏗 Contexte/problème
 
