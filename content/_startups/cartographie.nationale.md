@@ -1,5 +1,5 @@
 ---
-title: 'Cartographie nationale '
+title: Cartographie nationale des lieux d'inclusion numérique
 mission: Orienter les publics vers les structures répondant à leur besoin
 sponsors:
   - /organisations/anct
@@ -14,18 +14,26 @@ events:
   - name: product_launch
     date: 2022-11-21
     comment: 'Première utilisation de notre outil de cartographie sur le site des conseillers numériques : https://carte.conseiller-numerique.gouv.fr/'
+  - name: product_launch
+    date: 2026-04-01
+    comment: Lancement de la cartographie V2.
 phases:
   - name: construction
     start: 2022-04-01
   - name: acceleration
     start: 2022-11-01
-  - name: success
+  - name: transfer
     start: 2024-01-30
 stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=277&period=range&date=previous30#?period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1&idSite=277
 analyse_risques: true
 thematiques:
   - Inclusion numérique
-usertypes: []
+  - Open-Data
+usertypes:
+  - particulier
+  - collectivite-territoriale
+  - etat
+  - association
 techno: []
 ---
 ## Contexte
@@ -53,17 +61,8 @@ La cartographie sera accessible sur [un site national](https://cartographie.soci
 
 ## Faciliter l'accompagnement d'un bénéficiaire
 
-L'objectif est d'orienter un bénéficiaire vers la structure qui saura répondre à ses besoins.
-
-Le dispositif se décompose en deux parties :
-
-### Le parcours d'orientation
-
-On commence par recenser son besoin, sa localisation, ses disponibilités, etc. pour filtrer les résultats qui s'afficheront ensuite sur la cartographie et lui proposer uniquement les structures appropriées.
-
-### La cartographie
-
-Elle recense l'offre de médiation numérique sur le territoire concerné. L'utilisateur peut naviguer sur la carte, zoomer sur sa commune, accéder aux informations des structures, prendre rendez-vous directement en ligne, etc.
+L'objectif est d'orienter un bénéficiaire vers la structure qui saura répondre à ses besoins. La cartographie recense l'offre de médiation numérique sur le territoire concerné. L'utilisateur peut naviguer sur la carte, zoomer sur sa commune, accéder aux informations des structures, prendre rendez-vous directement en ligne, etc.
+L'utilisateur peut préciser son besoin, sa localisation, ses disponibilités, etc. pour filtrer les résultats qui s'affichent.
 
 ## Qui peut l'utiliser ?
 

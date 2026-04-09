@@ -11,7 +11,7 @@ missions:
     startups:
       - memo
   - start: 2020-04-01
-    end: 2026-05-08
+    end: 2026-10-08
     status: independent
     employer: mission-apprentissage
     startups:

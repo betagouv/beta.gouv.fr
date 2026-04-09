@@ -10,5 +10,7 @@ missions:
     end: 2026-06-30
     status: admin
     employer: La Ruche Numérique
+    startups:
+      - open-agri
 ---
 Ingénieure agro au départ, j'ai commencé dans le monde du cheval puis ai rejoint le ministère en charge de l'agriculture pour œuvrer à une agriculture plus saine et plus durable. De tempérament curieux, je m'intéresse aussi à l'innovation, l'évaluation, la communication, l'intelligence collective, la facilitation graphique et bien d'autres choses !
