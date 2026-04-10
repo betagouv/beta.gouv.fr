@@ -11,7 +11,7 @@ competences:
   - SQL
 missions:
   - start: 2026-02-06
-    end: 2026-05-06
+    end: 2026-09-30
     status: independent
     employer: ut7
     startups:

@@ -9,6 +9,12 @@ missions:
     employer: MALT / ANCT
     startups:
       - france-numerique-ensemble
+  - start: 2026-04-09
+    end: 2026-07-09
+    status: independent
+    employer: MALT / ANCT
+    startups:
+      - cartographie.nationale
 memberType: beta
 competences: []
 ---

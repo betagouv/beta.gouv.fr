@@ -14,9 +14,14 @@ missions:
     status: independent
     employer: SIGMAZ Consilium
     startups:
-      - cartographie.nationale
       - france-numerique-ensemble
       - suite.d.outils.des.mediateurs.numeriques
+  - start: 2024-08-26
+    end: 2026-04-09
+    status: independent
+    employer: SIGMAZ Consilium
+    startups:
+      - cartographie.nationale
 link: https://sigmaz-consilium.fr/
 github: rmaziere
 competences:

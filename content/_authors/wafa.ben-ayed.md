@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2025-11-17
     end: 2026-09-30
-    employer: Ministère de la Justice
     status: admin
+    employer: Ministère de la Justice
     startups:
       - precontentieux.justice
-teams: []
 ---
