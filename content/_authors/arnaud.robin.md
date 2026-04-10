@@ -18,4 +18,6 @@ competences:
   - Data Science
   - Machine learning
   - Product strategy
+teams:
+  - /teams/dinum_produits_interministeriels
 ---

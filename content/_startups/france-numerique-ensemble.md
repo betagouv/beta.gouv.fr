@@ -45,25 +45,31 @@ Proposer un outillage cohérent à l'ensemble des gestionnaires de la politique 
 - Grand public (consultation de données publiques)
 
 ## Nos produits
+**Mon Inclusion Numérique**
 
-**Site France Numérique Ensemble**
+Permet aux gestionnaires de dispositifs d'inclusion numérique de piloter leurs actions par la donnée.
+
+👉 `https://mon.inclusion-numerique.anct.gouv.fr/`
+
+**Site vitrine de l'inclusion numérique**
 
 Permet la formation de gouvernances France Numérique Ensemble, la construction et le financement de leurs feuilles de route. 
 Donne à voir au grand public un ensemble de données de déploiement de la politiques d'inclusion numérique sur les territoires. 
 
-👉 https://inclusion-numerique.anct.gouv.fr/
+👉 `https://inclusion-numerique.anct.gouv.fr/`
 
-**Site vitrine**
+
+**Site du dispositif Conseiller Numérique**
 
 Permet au candidat et structure de candidater au dispositif soit pour devenir Conseiller numérique ou bien accueillir un conseiller numérique au sein d'une structure. 
 
-👉 https://conseiller-numerique.gouv.fr
+👉 `https://conseiller-numerique.gouv.fr`
 
-**Tableau de pilotage**
+**Tableau de pilotage du dispositif Conseiller Numérique**
 
 Permet au gestionnaire de suivre et piloter l'activité des conseillers numérique sur leur territoire.
 
-👉https://pilotage.conseiller-numerique.gouv.fr/accueil
+👉`https://pilotage.conseiller-numerique.gouv.fr/accueil`
 
 ### Chiffres clés du dispositif 
 **Près de 100 gouvernances France Numérique Ensemble** identifiées, engagées dans la construction de feuilles de routes territoriales de l'inclusion numérique

@@ -4,7 +4,7 @@ role: Développeur/Opérateur
 domaine: Développement
 missions:
   - start: 2023-06-30
-    end: 2026-05-31
+    end: 2026-09-30
     status: independent
     startups:
       - dossierfacile

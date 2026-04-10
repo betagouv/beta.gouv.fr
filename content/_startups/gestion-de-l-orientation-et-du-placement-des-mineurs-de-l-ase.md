@@ -9,13 +9,11 @@ sponsors:
   - /organisations/dgcs
 phases:
   - name: investigation
-    comment: null
     start: 2026-04-08
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-04-08
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

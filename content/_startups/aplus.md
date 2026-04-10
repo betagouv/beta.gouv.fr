@@ -10,7 +10,7 @@ thematiques:
 usertypes:
   - etat
   - collectivite-territoriale
-stats_url: https://aplus.beta.gouv.fr/stats
+stats_url: https://statistiques.aplus.beta.gouv.fr/public/dashboard/e1197300-2108-4a80-9ca4-22e6de51bd42
 techno:
   - PostgreSQL
   - Brevo
