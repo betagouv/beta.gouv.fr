@@ -8,6 +8,11 @@ missions:
     status: admin
     startups:
       - urgencevie
+  - start: 2026-04-13
+    end: 2026-07-13
+    status: admin
+    startups:
+      - m-ir-ai
 github: Fredericdol
 competences: []
 teams:

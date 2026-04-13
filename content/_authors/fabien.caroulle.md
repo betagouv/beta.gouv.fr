@@ -7,4 +7,6 @@ missions:
   - start: 2025-07-01
     end: 2026-12-31
     status: admin
+    startups:
+      - sylva-san
 ---

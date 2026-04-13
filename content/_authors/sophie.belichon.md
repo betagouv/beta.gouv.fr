@@ -7,6 +7,8 @@ missions:
     end: 2026-06-01
     status: admin
     employer: MASA&#x2F;DGAl
+    startups:
+      - seves
 memberType: autre
 competences: []
 ---
