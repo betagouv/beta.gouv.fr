@@ -83,7 +83,7 @@ La plateforme vise à répondre aux besoins des utilisateurs de manière inclusi
 - 34k : le nombre de sites de restauration ayant remonté leurs données d'approvisionnement en 2025. Dans cet échantillon, une part de produits bio estimée à 12,2%.
 
 Pour plus d'informations, consulter le rapport annuel 2023
-[Pour plus d'informations, consulter le rapport annuel 2023](https://894795896-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MSCF7Mdc8yfeIjMxMZr%2Fuploads%2FbEQa5jADHE8lP17X4lg4%2FBilan%20statistique%20EGALIM%202023_macantine.pdf?alt=media&token=2b11edf6-0b82-4d1c-8cea-ce2ab95d712f) ou les [statistiques de la plateforme](https://ma-cantine-metabase.cleverapps.io/public/dashboard/3dab8a21-c4b9-46e1-84fa-7ba485ddfbbb)
+[Pour plus d'informations, consulter le rapport annuel 2023](https://894795896-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MSCF7Mdc8yfeIjMxMZr%2Fuploads%2FbEQa5jADHE8lP17X4lg4%2FBilan%20statistique%20EGALIM%202023_macantine.pdf?alt=media&token=2b11edf6-0b82-4d1c-8cea-ce2ab95d712f) ou les [statistiques de la plateforme](https://ma-cantine.agriculture.gouv.fr/v2/stats)
 
 ## Vous souhaitez nous aider, participer à ce produit ?
 

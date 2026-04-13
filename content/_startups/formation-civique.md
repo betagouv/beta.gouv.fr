@@ -14,12 +14,24 @@ sponsors:
   - /organisations/direction-generale-des-etrangers-en-france
 phases:
   - name: investigation
-    start: 2025-07-31
+    start: 2024-12-01
+  - name: construction
+    start: 2025-03-01
+  - name: acceleration
+    start: 2025-07-01
+  - name: transfer
+    start: 2025-09-01
+  - name: success
+    start: 2025-12-01
 events:
+  - name: committee
+    date: 2025-05-13
+    comment: 'Agrément du SIG '
   - name: product_launch
-    date: 2025-07-31
+    date: 2025-12-02
+    comment: Publication et mise en ligne du site.
 techno: []
-link: ''
+link: https://formation-civique.interieur.gouv.fr/
 ---
 Les intrapreneurs vont mettre à jour la fiche rapidement.
 

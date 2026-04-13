@@ -31,13 +31,13 @@ missions:
     startups:
       - sante-psy-etudiant
   - start: 2024-11-22
-    end: 2026-01-27
+    end: 2026-06-30
     status: independent
     employer: La zone
     startups:
       - portail-rse
   - start: 2025-07-01
-    end: 2026-04-30
+    end: 2026-08-05
     status: independent
     employer: Malt
     startups:

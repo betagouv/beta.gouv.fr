@@ -13,11 +13,16 @@ competences:
   - Python
 missions:
   - start: 2025-01-13
-    end: 2026-07-22
+    end: 2025-12-01
     status: independent
     employer: Malt
     startups:
       - datalma
+  - start: 2025-05-13
+    end: 2026-09-13
+    status: independent
+    employer: Little Big Connection
+    startups:
       - partageons-l-eau
 github: Olecck
 ---

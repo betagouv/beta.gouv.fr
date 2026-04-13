@@ -5,7 +5,7 @@ domaine: Développement
 github: rsebille
 missions:
   - start: 2022-04-20
-    end: 2026-05-01
+    end: 2026-05-29
     status: independent
     employer: Malt
     startups:
