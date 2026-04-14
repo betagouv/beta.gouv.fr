@@ -12,7 +12,7 @@ breadcrumbs:
     - title: Schéma pluriannuel 2024 - 2027
 ---
 
-*Date de publication : 14/04/2026*
+*Date de publication : 04/01/2024, mise à jour le 14/04/2026*
 
 ## Introduction
 
