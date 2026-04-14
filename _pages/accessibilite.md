@@ -6,21 +6,22 @@ title: Accessibilité
 
 **beta.gouv.fr** s’engage à rendre ses services numériques accessibles, conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
 
-À cette fin, beta.gouv.fr met en œuvre la stratégie décrite dans le [Schéma pluriannuel 2024-2027](/accessibilite/schema-pluriannuel) 
-- [Bilan 2023](/accessibilite/schema-pluriannuel#bilan-2023)
-- [Bilan 2024](/accessibilite/schema-pluriannuel#bilan-2024)
-- [Bilan 2025](/accessibilite/schema-pluriannuel#bilan-2025)
-- [Plan d'action 2026](/accessibilite/schema-pluriannuel#plan-2026)
+À cette fin, beta.gouv.fr met en œuvre la stratégie décrite dans le [Schéma pluriannuel 2024-2027](/accessibilite/schema-pluriannuel)
+<ul class="fr-mb-8v">
+    <li><a href="/accessibilite/schema-pluriannuel#bilans">Bilans passés</a></li>
+    <li><a href="/accessibilite/evaluation-2025">Évaluation de l'accessibilité des services 2025</a></li>
+    <li><a href="/accessibilite/schema-pluriannuel#plan-2026">Plan d'action 2026</a></li>
+</ul>
 
 ## Déclaration de conformité partielle au RGAA
 
 *Établie le 9 octobre 2024.*
 
-Cette déclaration d’accessibilité s’applique au site **beta.gouv.fr**. 
+Cette déclaration d’accessibilité s’applique au site **beta.gouv.fr**.
 
 ### État de conformité
 
-beta.gouv.fr est **partiellement conforme** avec le RGAA 4.2. 
+beta.gouv.fr est **partiellement conforme** avec le RGAA 4.2.
 
 ### Résultats des tests
 
@@ -34,7 +35,7 @@ L’audit de conformité au RGAA version 4.2 réalisé en août 2024 par la soci
 
 Critère 4.9 : *Pour chaque média non temporel ayant une alternative, cette alternative est-elle pertinente ?*
 
-La page [Indicateurs](/stats) propose des graphiques accompagnés d'une transcription. Cette transcription n'intègre pas toutes les données disponibles. Cependant, nous avons tenté de rentre l'information accessible en proposant : 
+La page [Indicateurs](/stats) propose des graphiques accompagnés d'une transcription. Cette transcription n'intègre pas toutes les données disponibles. Cependant, nous avons tenté de rentre l'information accessible en proposant :
 - un résumé de chaque graphique
 - le téléchargement des données brutes au format CSV.
 
@@ -95,7 +96,7 @@ Nous essayons de répondre dans les 2 jours ouvrés.
 
 ### Voie de recours
 
-Si vous avez identifié sur ce site web un manquement à la réglementation relative à l’accessibilité numérique (présence de défauts d'accessibilité, absence des obligations déclaratives, etc.) et que : 
+Si vous avez identifié sur ce site web un manquement à la réglementation relative à l’accessibilité numérique (présence de défauts d'accessibilité, absence des obligations déclaratives, etc.) et que :
 - Vous nous avez contacté pour nous en informer.
 - Vous n'avez pas reçu de réponse satisfaisante.
 Alors vous avez la possibilité de :

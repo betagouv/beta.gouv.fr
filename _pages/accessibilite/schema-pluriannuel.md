@@ -12,7 +12,7 @@ breadcrumbs:
     - title: Schéma pluriannuel 2024 - 2027
 ---
 
-*Date de publication : 20/01/2026*
+*Date de publication : 04/01/2024, mise à jour le 14/04/2026*
 
 ## Introduction
 
@@ -78,7 +78,7 @@ Les équipes produits peuvent faire appel aux ressources suivantes :
 - les **marchés publics**, pour faire appel à des prestataires expert·es en accessibilité (pour faire des audits, ou pour construire les produits).
 - le **fonds de financement d’accessibilité** de la DINUM.
 
-## Moyens techniques
+### Moyens techniques
 
 L’incubateur propose plusieurs moyens techniques et de l’outillage pour gérer et tester l’accessibilité numérique :
 
@@ -144,7 +144,7 @@ Il propose aux équipes un **pré-audit** pour se préparer à l’audit de conf
 
 Le Pôle Numérique Inclusif garde un suivi des services ayant bénéficié d’un audit de conformité.
 
-### Contrôle et validation
+## Contrôle et validation
 
 Pour mesurer l’efficacité de notre stratégie, nous mettons en place les modalités de contrôle suivantes :
 
@@ -160,6 +160,7 @@ Nous accompagnons l'**audit de conformité** : nous nous assurons que ça soit p
 
 Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression en regard de nos engagements.
 
+<h2 id="bilans">Bilans</h2>
 ### Bilan 2023
 
 <div class="fr-table fr-table--no-caption">
@@ -562,7 +563,7 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
       <div class="fr-card__start">
       </div>
       <div class="fr-card__end">
-        <p class="fr-card__detail fr-icon-calendar-line">Publié début 2025</p>
+        <p class="fr-card__detail fr-icon-calendar-line">Publiée début 2025</p>
       </div>
     </div>
   </div>
@@ -665,7 +666,33 @@ Enfin, en fin d’année, nous faisons un **bilan annuel** de notre progression 
 </table>
 </div>
 
+<div class="fr-card fr-enlarge-link fr-card--sm fr-card--horizontal fr-mb-8v">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+      <h4 class="fr-card__title">
+        <a href="/accessibilite/evaluation-2025">Évaluation de l'accessibilité 2025</a>
+      </h4>
+      <p class="fr-card__desc">Analyse manuelle sur un échantillon de services numériques</p>
+      <div class="fr-card__start">
+      </div>
+      <div class="fr-card__end">
+        <p class="fr-card__detail fr-icon-calendar-line">Publiée début 2026</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-<h3 id="plan-2026">Plan d'action 2026</h3>
 
-*En cours de rédaction*
+<h2 id="plan-2026">Plan d'action 2026</h2>
+
+Courant 2026, le Pôle Numérique Inclusif compte continuer ses activités de fond :
+- **Accompagner** les équipes et leurs incubateurs ;
+- **Faire monter en compétence** les membres de la communauté ;
+- Inclure l’accessibilité dans les **pratiques**.
+
+L’équipe souhaite aussi traiter des sujets de fonds. Voici les sujets que nous voulons mener courant T1 et T2 2026 :
+- Publier les résultats de l’évaluation menée en 2025 ;
+- Améliorer nos process de suivi ;
+- Expérimenter de nouveaux formats d’animation de la communauté (ex : clinique ouverte) ;
+- Proposer de nouveaux types d’accompagnement (ex : qualification à l’audit) ;
+- Inventer et éprouver de nouveaux moyens de porter/diffuser la connaissance.
