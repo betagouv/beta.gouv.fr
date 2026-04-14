@@ -22,6 +22,10 @@ missions:
     employer: scopyleft
     startups:
       - espace-membre
+  - start: 2026-04-14
+    end: 2026-07-14
+    status: independent
+    employer: scopyleft
 previously:
   - dossierfacile
   - tchap

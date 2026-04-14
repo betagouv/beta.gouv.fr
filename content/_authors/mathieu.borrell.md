@@ -6,7 +6,7 @@ competences:
   - Sécurité informatique
 missions:
   - start: 2025-06-02
-    end: 2026-08-27
+    end: 2026-09-30
     status: independent
     employer: UT7
     startups:

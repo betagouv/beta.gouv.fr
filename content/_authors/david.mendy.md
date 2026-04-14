@@ -1,6 +1,6 @@
 ---
 fullname: David Mendy
-role: Apprenti développeur web
+role: Apprenti développeur full-stack
 domaine: Développement
 github: nutfdt
 missions:
@@ -10,6 +10,7 @@ missions:
     employer: MIOM
     startups:
       - basegun
+      - selfim
 memberType: beta
 competences: []
 ---

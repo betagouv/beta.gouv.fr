@@ -13,7 +13,7 @@ missions:
       - pass-culture
       - pix
   - start: 2024-12-20
-    end: 2026-04-29
+    end: 2026-10-14
     status: independent
     employer: Dynergie
     startups:

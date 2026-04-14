@@ -70,6 +70,6 @@ L’équipe est composée de :
 - Pierre et Mélanie, intrapreneurs ;
 - Chloé, coach ;
 - Thibault, responsable de portefeuille ;
-- Clarie, UX designeuse ;
+- Raphaël, UX designer ;
 - Maud, developpeuse
 - Maxime, développeur
