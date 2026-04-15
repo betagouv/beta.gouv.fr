@@ -4,7 +4,7 @@ mission: Rédiger simplement les compte-rendus de missions des affaires maritime
 sponsors:
   - /organisations/dgampa
 incubator: mtes
-contact: camille.nguyen@mer.gouv.fr
+contact: alexandre.pardoux@mer.gouv.fr
 accessibility_status: non conforme
 repository: https://github.com/MTES-MCT/rapportNav
 phases:
@@ -13,6 +13,10 @@ phases:
     end: 2022-08-16
   - name: construction
     start: 2022-08-16
+thematiques:
+  - Mer
+usertypes: []
+techno: []
 link: ''
 ---
 ## Contexte
