@@ -17,12 +17,6 @@ missions:
     employer: Malt
     startups:
       - datalma
-  - start: 2026-03-23
-    end: 2026-08-30
-    status: independent
-    employer: Malt
-    startups:
-      - piloter-le-budget-de-mon-produit-numerique
 competences:
   - Gestion de Produit
   - Product design

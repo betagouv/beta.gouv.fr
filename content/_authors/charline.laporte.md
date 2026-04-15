@@ -23,6 +23,12 @@ missions:
     employer: Little Big Connection
     startups:
       - resultats-elections-fpt
+  - start: 2026-03-10
+    end: 2026-07-15
+    status: independent
+    employer: NUMA
+    startups:
+      - piloter-le-budget-de-mon-produit-numerique
 competences:
   - Accessibilité
   - Développement Frontend

@@ -5,14 +5,14 @@ role: Coach
 github: pierrerousseau2312
 missions:
   - start: 2021-02-15
-    end: 2026-05-22
+    end: 2026-08-22
     status: independent
     employer: scopyleft
     startups:
       - benefriches
       - precontentieux.justice
   - start: 2025-06-18
-    end: 2026-05-29
+    end: 2026-08-22
     status: independent
     employer: scopyleft
 badges:

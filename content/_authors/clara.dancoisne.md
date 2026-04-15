@@ -5,7 +5,7 @@ domaine: Déploiement
 competences: []
 missions:
   - start: 2024-07-16
-    end: 2026-06-30
+    end: 2026-04-17
     status: independent
     employer: Malt
     startups:

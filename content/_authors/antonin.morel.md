@@ -16,6 +16,12 @@ missions:
     employer: Little Big Connection
     startups:
       - seves
+  - start: 2026-04-15
+    end: 2026-07-15
+    status: independent
+    employer: Inconnu
+    startups:
+      - data-foncier
 memberType: beta
 competences:
   - Développement Backend

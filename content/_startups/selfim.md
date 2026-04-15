@@ -24,17 +24,13 @@ sponsors:
   - /organisations/dsr
 phases:
   - name: construction
-    comment: null
     start: 2017-09-14
-    end: null
   - name: success
-    comment: null
     start: 2023-10-14
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-04-14
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
