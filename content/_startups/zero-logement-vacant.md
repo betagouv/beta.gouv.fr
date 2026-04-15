@@ -21,15 +21,17 @@ phases:
   - name: construction
     start: 2020-07-03
   - name: acceleration
-    start: 2022-07-01
+    start: 2022-11-01
 thematiques:
   - Logement
   - Collectivités
   - Écologie
+  - rénovation
+  - précarité énergétique
 usertypes:
   - collectivite-territoriale
   - etat
-  - particulier
+  - Agence National de l'Habitat (Anah)
 mon_service_securise: true
 techno: []
 analyse_risques: true
@@ -37,6 +39,8 @@ impact_url: https://docs.numerique.gouv.fr/docs/868b62f1-f65f-45b9-8cbe-179481ee
 events:
   - name: committee
     date: 2025-09-04
+  - name: committee
+    date: 2026-06-11
 ---
 ## Faire de la vacance structurelle une ressource pour les territoires
 

@@ -1,7 +1,7 @@
 ---
 fullname: Ludivine Hamoniaux
 role: opératrice de validation
-domaine: Autre
+domaine: Support
 competences: []
 missions:
   - start: 2025-05-26

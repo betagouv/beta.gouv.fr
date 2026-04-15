@@ -20,6 +20,7 @@ missions:
   - start: 2026-04-03
     end: 2026-07-15
     status: independent
+    employer: Crème de la crème
     startups:
       - point-d-acces-national-aux-donnees-d-accessibilite
 previously:
@@ -33,4 +34,4 @@ competences:
   - UI
   - UX
 ---
-UX designer & product manager à mes heures, en plus d’aimer prendre soins des utilisateurs et des détails, j’ai un penchant pour la stratégie et les missions transverses
+UX designer & product manager à mes heures, en plus d’aimer prendre soins des utilisateurs et des détails, j’ai un penchant pour la stratégie et les missions transverses.

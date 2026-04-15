@@ -10,15 +10,11 @@ techno: []
 title: MIrAI
 mission: Redonner du temps  à valeur ajoutée aux agents grâce à l'IA
 incubator: FabNum-MI
-sponsors: []
 phases:
   - name: acceleration
-    comment: null
     start: 2026-01-13
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-05-13
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
