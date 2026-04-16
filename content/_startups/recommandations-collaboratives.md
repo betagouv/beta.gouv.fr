@@ -35,7 +35,7 @@ mon_service_securise: true
 events:
   - name: committee
     date: 2025-11-28
-impact_url: https://docs.google.com/document/d/1Rt8u5hXywPXUCPKrYughG8gRCu-R6vRE/edit?usp=sharing&ouid=116407440001369388234&rtpof=true&sd=true
+impact_url: https://docs.numerique.gouv.fr/docs/f8b7f9c3-25b9-46bc-82e7-c1e0bc0d020c/
 ---
 Recommandations-collaboratives fait avancer les demandes & dossiers complexes en structurant le conseil et la collaboration. C’est un outil de mise en relation et de conseil humain entre des demandeurs et des réseaux de conseillers.
 
