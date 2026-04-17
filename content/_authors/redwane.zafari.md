@@ -5,7 +5,7 @@ domaine: Développement
 github: rzafari42
 missions:
   - start: 2023-01-20
-    end: 2026-03-31
+    end: 2026-05-31
     status: independent
     employer: MALT
     startups:
