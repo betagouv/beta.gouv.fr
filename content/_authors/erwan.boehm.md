@@ -16,11 +16,15 @@ missions:
     startups:
       - mon-devis-sans-oublis
   - start: 2025-09-22
-    end: 2026-06-30
+    end: 2026-04-17
     status: independent
     employer: Scopyleft
     startups:
       - document-ia
+  - start: 2025-09-22
+    end: 2026-06-30
+    status: independent
+    employer: Scopyleft
 competences:
   - Développement Full-stack
   - IA

@@ -19,11 +19,13 @@ missions:
     end: 2026-05-17
     status: independent
     startups:
-      - lucca
-  - start: 2026-02-17
-    end: 2026-05-17
+      - aigle
+  - start: 2026-03-02
+    end: 2026-09-30
     status: independent
+    employer: Scopopop
     startups:
       - aigle
+      - lucca
 ---
 Entrepreneure engagée dans l’innovation sociale, je développe des projets à impact dans les domaines de l’éducation, de la coopération territoriale et de la transition démocratique. Forte d’une expérience à la croisée de l’intelligence collective, de la conception de dispositifs participatifs et de l’entrepreneuriat, je mets mon expertise au service de projets qui favorisent l’apprentissage, l’inclusion et la transformation des organisations.

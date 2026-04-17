@@ -22,6 +22,9 @@ missions:
   - start: 2025-08-22
     end: 2026-08-31
     status: admin
+  - start: 2025-08-22
+    end: 2026-04-17
+    status: admin
     startups:
       - document-ia
 github: martin-letellier
