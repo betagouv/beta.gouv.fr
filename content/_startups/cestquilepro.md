@@ -1,7 +1,7 @@
 ---
 contact: contact@inserjeunes.beta.gouv.fr
 repository: https://github.com/mission-apprentissage/c-est-qui-le-pro/
-link: https://futurpro.inserjeunes.beta.gouv.fr/
+link: https://data.education.gouv.fr/futur-pro/accueil/
 stats: false
 dashlord_url: https://dashlord.incubateur.net/url/futurpro-inserjeunes-beta-gouv-fr/
 redirect_from:
@@ -39,6 +39,8 @@ phases:
     start: 2025-09-01
   - name: transfer
     start: 2025-09-02
+  - name: success
+    start: 2026-03-15
 stats_url: https://statistiques.futurpro.inserjeunes.beta.gouv.fr/
 ---
 ## Un service de la mission interministérielle Inserjeunes
@@ -70,6 +72,8 @@ Pour cela, nous souhaitons :
 - **Réduire le nombre d’orientations vers des filières “bouchées”** via l’accompagnement des accompagnateurs, notamment mettre en avant les filières porteuses et d’avenir ;
 - **Simplifier le travail des accompagnateurs**.
 
-## Notre calendrier
+## Statut du projet
 
-- Second semestre 2025 : consolidation de la solution numérique et déploiement national
+Fin 2025 - début 2026, le projet a été transféré à la Direction du numérique pour l'éducation (DNE) et reconstruit par les équipes de data.education.gouv.fr sur leur plateforme.
+
+Depuis Mars 2026, le produit est disponible sur [data.education.gouv.fr](https://data.education.gouv.fr/futur-pro/accueil/).

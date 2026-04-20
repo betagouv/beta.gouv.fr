@@ -1,12 +1,12 @@
 ---
 title: La Bonne Boite
-mission: Favoriser les candidature spontanées en suggérant les entreprises à fort potentiel d'embauche selon le lieu géographie choisi.
+mission: Favoriser les candidatures spontanées en suggérant des entreprises à fort potentiel d'embauche selon le lieu géographie choisi.
 sponsors:
   - /organisations/francetravail
 incubator: francetravail
 link: https://labonneboite.francetravail.fr/
 repository: 'https://github.com/StartupsPoleEmploi/labonneboite '
-contact: labonneboite@pole-emploi.fr
+contact: labonneboite@francetravail.fr
 accessibility_status: non conforme
 redirect_from:
   - /startups/labonneboite
@@ -37,8 +37,8 @@ Le marché caché de l’emploi représente **plus de 40% des recrutements**
 
 **Le produit :**
 
-Avec La Bonne Boite, ne cherchez plus une offre d'emploi, trouvez plutôt les entreprises qui vont recruter près d'une adresse !
+Avec La Bonne Boite, ne cherchez plus une offre d'emploi, trouvez plutôt les entreprises qui vont recruter près de chez vous !
 
 Mieux qu'un simple annuaire, La Bonne Boite cible les entreprises ayant des perspectives d'embauches élevées. Ce ciblage est obtenu par l'analyse de millions de recrutements sur toutes les entreprises. Pour chaque entreprise à fort potentiel d'embauche, des recommandations permettent de choisir le meilleur canal pour obtenir un rendez-vous.
 
-Depuis novembre 2022, intégration de La bonne boite dans l'application "Mes Offres" de France Travail. L'application identifie les intérêts de l'utilisateur en fonction des offres qu'il a consultées, et propose un carrousel d’entreprises qui recrutent (issues de La Bonne Boite).
+Depuis novembre 2022, intégration de La bonne boite dans l'application "Parcours Emploi" de France Travail. L'application identifie les intérêts de l'utilisateur en fonction des offres qu'il a consultées, et propose un carrousel d’entreprises qui recrutent (issues de La Bonne Boite).

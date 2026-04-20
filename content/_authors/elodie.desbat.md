@@ -26,5 +26,7 @@ badges:
 competences:
   - Product design
   - UX
+  - Facilitation
+link: https://www.linkedin.com/in/desbatelodie/
 ---
 UX / Service Designer depuis 15 ans déjà !
