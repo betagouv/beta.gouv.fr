@@ -5,7 +5,7 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2024-01-03
-    end: 2026-05-03
+    end: 2028-01-03
     status: admin
     startups:
       - data-foncier
