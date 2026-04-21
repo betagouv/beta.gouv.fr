@@ -13,10 +13,10 @@ phases:
 events:
   - name: product_launch
     date: 2026-04-08
+usertypes: []
+techno: []
 link: ''
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
 ## Contexte
 
 La protection de l’enfance en France repose principalement sur l’Aide Sociale à l’Enfance (ASE), mise en œuvre par les départements.
