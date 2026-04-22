@@ -43,6 +43,12 @@ missions:
     employer: NUMA
     startups:
       - stage-direct
+  - start: 2026-04-01
+    end: 2026-09-20
+    status: independent
+    employer: Dynergie
+    startups:
+      - gestion-de-l-orientation-et-du-placement-des-mineurs-de-l-ase
 competences:
   - Coaching
 ---

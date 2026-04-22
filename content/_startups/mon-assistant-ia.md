@@ -2,7 +2,7 @@
 analyse_risques: false
 mon_service_securise: false
 contact: contact-assistant@numerique.gouv.fr
-link: https://albert.numerique.gouv.fr/
+link: https://assistant.numerique.gouv.fr/
 stats_url: https://albert.numerique.gouv.fr/stats
 thematiques:
   - Administratif
@@ -10,8 +10,8 @@ thematiques:
 usertypes:
   - etat
 techno:
-  - svelt
   - python
+  - django
 title: L'assistant IA
 mission: 'Mettre à disposition des agents publics des outils IA dans un environnement souverain et sécurisé '
 incubator: alliance

@@ -43,6 +43,12 @@ missions:
     employer: DGFIP
     startups:
       - simul-nr
+  - start: 2026-04-22
+    end: 2026-07-22
+    status: admin
+    employer: DGFIP
+    startups:
+      - one-vision
 competences:
   - Développement Backend
   - Développement Frontend
