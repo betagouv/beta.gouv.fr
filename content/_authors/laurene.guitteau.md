@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2026-04-17
     end: 2026-07-31
-    employer: LBC
     status: independent
+    employer: LBC
     startups:
       - partageons-l-eau
-teams: []
 ---

@@ -11,6 +11,8 @@ phases:
     start: 2023-10-02
   - name: construction
     start: 2023-12-15
+  - name: acceleration
+    start: 2026-02-16
 repository: https://github.com/betagouv/fondation
 thematiques:
   - Justice
@@ -68,7 +70,8 @@ Notre vision est de faire de Fondation le socle numérique d'un CSM plus fort et
 
 * Alice Maintigneux - Intrapreneure, Secrétaire Générale Adjointe du CSM
 * Rémi Boureau-Lienard - Co-intrapreneur, Responsable Numérique du CSM
-* Alexis Ebrard - Développeur senior
+* Jordan Quagliatini - Développeur senior
+* Julien Maupetit - Mentor technique
 * Alexandra Le Borgne - Coach produit
 
 

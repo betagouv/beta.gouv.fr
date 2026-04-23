@@ -9,6 +9,11 @@ missions:
     status: independent
     startups:
       - jeveuxaider
+  - start: 2026-04-27
+    end: 2026-09-25
+    status: independent
+    startups:
+      - jeveuxaider
 badges:
   - segur
 competences: []

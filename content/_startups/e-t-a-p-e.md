@@ -1,42 +1,38 @@
 ---
-contact: selfim@interieur.gouv.fr
+contact: valerie.savouret.ext@beta.gouv.fr
 thematiques:
-  - Outil technique
+  - Formation
+  - Travail / Emploi
 usertypes:
-  - etat
+  - Salarié
 techno:
-  - css
-  - docker
-  - git
-  - html
-  - github actions
-  - typescript
-  - kubernetes
+  - react
+  - postgresql
+  - nodeJS
   - python
-  - sass
-  - vue
-  - sql
-title: SELFIM
-mission: Outiller la lutte contre la fraude à l'immatriculation
-incubator: FabNum-MI
+  - git
+  - Ci
+  - cd
+title: E.T.A.P.E.
+mission: Faciliter l'accès aux dispositifs de reconversion professionnelle
+incubator: dinum
 sponsors:
-  - /organisations/direction-des-missions-de-l-administration-territoriale-et-de-l-encadrement-superieur
-  - /organisations/dsr
+  - /organisations/dgefp
 phases:
-  - name: construction
-    start: 2017-09-14
-  - name: alumni
-    start: 2023-10-14
+  - name: investigation
+    comment: null
+    start: 2026-04-08
+    end: null
 events:
   - name: product_launch
-    date: 2026-04-14
-link: ''
+    comment: ''
+    date: 2026-04-01
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
 ## Contexte
 
-Quel est le contexte de ta Startup d'État ?
+En cours de rédaction;;;;;;;;;;;;
 
 ## Problème
 
@@ -52,4 +48,3 @@ Objectif **d'usage** à 6 mois : quel usage chiffré visez-vous ?
 
 Objectif **d'impact** à 6 mois : quel impact chiffré vous permettra de dire que votre première phase de construction a été un succès ?
 
-XXXXXXXXXXXXXXXXXXXXXXXX

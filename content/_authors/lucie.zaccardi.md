@@ -18,5 +18,7 @@ competences:
   - Intrapreneur(se)
   - Product strategy
 github: Lucie-zaccardi
+teams:
+  - /teams/dinum-incubateur
 ---
 Responsables de portefeuilles Vie Associative, Sport et Culture

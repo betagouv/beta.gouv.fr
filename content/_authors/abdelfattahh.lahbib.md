@@ -16,16 +16,15 @@ competences:
 missions:
   - start: 2024-10-01
     end: 2026-10-05
-    employer: France travail
     status: service
+    employer: France travail
     startups:
       - la-bonne-boite
   - start: 2025-05-01
     end: 2026-07-17
-    employer: France travail
     status: service
+    employer: France travail
     startups:
       - ma-communaute-crea
-teams: []
 ---
 Artisan du code à l’ère industrielle de l’IA 🤖. 

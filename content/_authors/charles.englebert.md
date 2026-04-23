@@ -14,11 +14,10 @@ competences:
 missions:
   - start: 2025-10-01
     end: 2026-04-30
-    employer: DINUM
     status: independent
+    employer: DINUM
     startups:
       - suite-numerique
-teams: []
 ---
 ingénieur logiciel et data
 

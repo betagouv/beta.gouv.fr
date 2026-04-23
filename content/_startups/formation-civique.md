@@ -15,14 +15,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-12-01
-  - name: construction
+  - name: alumni
     start: 2025-03-01
-  - name: acceleration
-    start: 2025-07-01
-  - name: transfer
-    start: 2025-09-01
-  - name: success
-    start: 2025-12-01
 events:
   - name: committee
     date: 2025-05-13

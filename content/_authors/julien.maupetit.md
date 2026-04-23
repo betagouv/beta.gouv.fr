@@ -12,7 +12,7 @@ missions:
     startups:
       - qualicharge
   - start: 2025-09-04
-    end: 2026-02-28
+    end: 2025-12-01
     status: independent
     employer: Omnicité
     startups:
