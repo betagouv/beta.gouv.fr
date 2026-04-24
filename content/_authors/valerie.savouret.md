@@ -11,5 +11,6 @@ missions:
     end: 2026-06-19
     status: admin
     startups:
+      - e-t-a-p-e
       - si-commun-at-pro
 ---

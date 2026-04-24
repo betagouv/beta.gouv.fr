@@ -39,6 +39,9 @@ events:
   - name: committee
     date: 2026-01-21
     comment: Comité d'investissement
+  - name: national_impact
+    date: 2026-04-02
+    comment: Service à impact national
 impact_url: https://statistiques.aplus.beta.gouv.fr/public/dashboard/d9c5f1bf-a88c-4e2b-a05b-2f2a7f27b09c
 budget_url: https://www.notion.so/incubateurdesterritoires/Budget-public-d-Administration-1e4744bf03dd8022a62bd4970dfe174f
 ---

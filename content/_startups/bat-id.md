@@ -60,6 +60,8 @@ events:
   - name: committee
     date: 2025-12-10
     comment: 'Lancement en phase de transfert pour commencer un début de phase de pérennisation et discussion sur les financements qui restent à pérenniser '
+  - name: national_impact
+    date: 2026-04-02
 impact_url: https://docs.numerique.gouv.fr/docs/048fa61c-0541-4c45-8f58-d8c3e377ac90/
 stats_url: https://rnb.beta.gouv.fr/stats
 ---

@@ -10,10 +10,8 @@ competences:
 missions:
   - start: 2026-04-22
     end: 2026-10-22
-    employer: THIGA
     status: service
-    startups: []
-teams: []
+    employer: THIGA
 ---
 J’ai construit tout au long de ma carrière une solide expertise en Product Management, à la croisée du conseil, de l’opérationnel et de l’accompagnement stratégique. Avant de rejoindre Thiga, j’ai exercé comme Consultant Senior en Business Transformation au sein d’un cabinet de conseil en Management et Systèmes d’Information, puis comme Head of Product dans une start-up spécialisée dans les solutions de reprise et revente de mobiles d’occasion, où j’ai conçu et piloté le développement de produits numériques à fort enjeu business.
 

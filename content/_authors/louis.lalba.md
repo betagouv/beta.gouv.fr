@@ -11,15 +11,13 @@ competences:
 missions:
   - start: 2026-01-28
     end: 2026-04-30
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - les-emplois
   - start: 2026-05-01
     end: 2027-04-18
-    employer: ''
     status: admin
     startups:
       - les-emplois
-teams: []
 ---
