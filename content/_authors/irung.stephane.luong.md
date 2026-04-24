@@ -8,6 +8,7 @@ missions:
     status: independent
     employer: Incubateur France Travail
     startups:
+      - filiere-economique-du-sport
       - mes-aides-france-travail
       - travailler.en.france
 memberType: beta

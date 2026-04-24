@@ -1,6 +1,6 @@
 ---
 fullname: Pauline BOIS
-role: Product Owner
+role: Product Manager
 domaine: Produit
 competences: []
 missions:
@@ -11,7 +11,7 @@ missions:
     startups:
       - aplus
   - start: 2026-01-22
-    end: 2026-04-22
+    end: 2026-07-23
     status: independent
     startups:
       - agents.en.intervention

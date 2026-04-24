@@ -5,7 +5,7 @@ domaine: Autre
 link: https://www.linkedin.com/in/clothilde-madiec-43799a25/
 missions:
   - start: 2023-03-07
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
     startups:
       - api-engagement

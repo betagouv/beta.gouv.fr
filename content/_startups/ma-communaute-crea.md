@@ -11,6 +11,8 @@ incubator: francetravail
 phases:
   - name: investigation
     start: 2025-01-30
+  - name: alumni
+    start: 2025-11-01
 events:
   - name: committee
     date: 2025-10-14
