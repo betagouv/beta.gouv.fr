@@ -46,6 +46,8 @@ events:
     date: 2025-06-17
   - name: committee
     date: 2025-12-08
+  - name: national_impact
+    date: 2026-04-02
 impact_url: https://fichiers.numerique.gouv.fr/explorer/items/files/46c061c2-a3c0-4ff5-97f9-119020b4c406
 ---
 [Impact CO₂](https://impactco2.fr) est le service public numérique de référence pour diffuser, à grande échelle, les ordres de grandeur carbone auprès de millions de citoyens via les médias, les entreprises, les collectivités et les services publics.

@@ -6,6 +6,8 @@ thematiques:
 usertypes:
   - particulier
   - entreprise
+  - organismes de formation
+  - CEP
 techno: []
 title: SI commun AT Pro
 mission: 'Permettre à chaque professionnel qui le désire de réussir sa transition professionnelle '
@@ -34,13 +36,14 @@ La Startup d’État *Transition Pro* vise à simplifier ce parcours en proposan
 ### Les problèmes identifiés
 - **Parcours éclaté** : l’usager doit naviguer entre plusieurs sites, dispositifs et interlocuteurs pour comprendre ses droits et ses options.  
 - **Manque de lisibilité** : les dispositifs (PTP, CPF, VAE, reconversion, certifications…) sont perçus comme opaques et difficiles à comparer.  
-- **Décrochage massif** : beaucoup abandonnent leur projet faute d’accompagnement clair ou d’information fiable.  
+- **Décrochage massif** : beaucoup abandonnent leur projet faute d’accompagnement clair ou d’information fiable et manque de temps puisqu'ils s'agit d'actifs.
 - **Inégalités territoriales** : l’accès à l’information et à l’accompagnement varie fortement selon les régions.
 
 ### Qui en souffre ?
 - Les actifs en reconversion ou en questionnement professionnel.  
 - Les conseillers (CEP, France Travail, Transitions Pro) qui passent beaucoup de temps à réexpliquer les mêmes notions.  
-- Les employeurs qui peinent à orienter leurs salariés vers les bons dispositifs.
+- Les employeurs qui peinent à orienter leurs salariés vers les bons dispositifs, qui sont de fait partie prenantes sans être totalement inclus dans la démarche.
+- Les organismes de formations qui complètent des dossiers conséquences sans garanties d'accord de financement.
 
 ### Conséquences
 - Décisions mal informées, projets abandonnés, perte de temps pour les usagers et les conseillers.  
@@ -56,6 +59,9 @@ A définir suite à l'investigation en cours
 - Les actifs en reconversion ou en réflexion professionnelle.  
 - Les conseillers qui gagnent du temps grâce à un pré‑diagnostic structuré.  
 - Les institutions publiques qui améliorent l’accès à leurs dispositifs.
+- Les employeurs
+- Les organismes de formations
+- Les collaborateurs de Transitions Pro
 
 ---
 

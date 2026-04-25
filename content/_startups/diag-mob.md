@@ -8,9 +8,14 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2025-06-20
+  - name: construction
+    start: 2026-01-15
 events:
   - name: product_launch
     date: 2025-06-20
+  - name: committee
+    date: 2026-01-10
+    comment: Le comité a validé une phase d'expérimentation de 6 mois de la solution
 thematiques:
   - Écologie
   - Transports
@@ -35,19 +40,25 @@ Ceci est conforté par les données sur le périmètre de la fonction publique d
 
 Ainsi, l'autosolisme reste le mode de transport principal pour les agents de la fonction publique, malgré un fort impact environnemental et un coût important pour l'usager. 
 
-## Solution
+## Notre ambition
 
-La solution est de cartographier les itinéraires des agents volontaires et de proposer des solutions de déplacements alternatives à la voiture en solitaire.
-En déployant un sondage à destination des agents volontaires sur le territoire d'expérimentation, ils saisissent :
-*  leur ville de domiciliation 
-* leur adresse de travail 
-* horaires de travail
-* informations de contact, 
-
-La solution analyse les agents ayant une partie du trajet en commun et avec des horaires compatibles, puis nous effectuons une mise en relation et un suivi de la création de l'équipage covoiturage ou vélo, ainsi qu'un rappel pour demander le Forfait Mobilités Durables 
-
-## Objectifs à 3 mois pour la fin d'investigation
-
-Objectif **d'usage** à 3mois : Tester la solution sur plusieurs territoires avec plusieurs centaines d'agents, pour essayer de mettre en relation des agents pour covoiturer et mesurer le nombre d'équipages formés
+Baisser l’impact environnemental des déplacements domicile-travail des agents de la fonction publique, en leur proposant un mode de déplacement alternatif (covoiturage, vélo, TC…) clé en main et un accompagnement personnalisé.
 
 
+## Notre solution
+
+À partir d'un questionnaire sur les habitudes de mobilité adressé aux agents de la fonction publique, Mon Diag'Mob permet de : : 
+- cartographier les trajets et leur impact carbone ;
+- identifier les meilleures alternatives (covoiturage, vélo, TC) selon les distances, temps de trajet et infrastructures disponibles ;
+- apporter à chaque agent une réponse personnalisée et clé en main ;
+mettre en relation directement les agents susceptibles de covoiturer ou de pédaler ensemble ;
+- fournir aux référents mobilité des données agrégées pour piloter leur plan de mobilité (PDM).
+
+En résumé, notre solution vise à accélérer la décarbonation de la mobilité domicile travail en révéler aux usagers finaux des solutions optimisées, personnalisées et "clé en main" pour une mise en pratique immédiate.
+
+## Phase d'expérimentation — janvier à juin 2026
+
+Nous testons actuellement la nouvelle version de Mon Diag'Mob avec pour objectifs :
+- fédérer plusieurs services autour d'un même dispositif pour atteindre l'effet de seuil du covoiturage ;
+- 60 % des agents en voiture seule se voient proposer une alternative crédible ;
+- 6 % d'agents ayant effectivement testé une mobilité alternative.

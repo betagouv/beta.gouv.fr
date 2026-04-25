@@ -12,19 +12,13 @@ usertypes:
 title: Messages
 mission: Faciliter la gestion des boites mails partagées
 incubator: anct
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2026-04-22
-    end: null
   - name: construction
-    comment: null
     start: 2026-04-22
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-04-22
 ---
 DISCLAIMER : la fiche ci-dessous a été généré par IA. C'est un "placeholder" temporaire qui va être prochainement remplacé par l'équipe en charge du produit

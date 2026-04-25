@@ -27,6 +27,9 @@ techno:
   - postgreSQL
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4
 impact_url: https://docs.numerique.gouv.fr/docs/687ceb61-b8d9-407c-9a1a-e7d373657504/
+events:
+  - name: national_impact
+    date: 2026-04-02
 ---
 ## Problème
 

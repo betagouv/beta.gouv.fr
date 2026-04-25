@@ -22,9 +22,11 @@ missions:
     startups:
       - audiodescription
   - start: 2026-01-12
-    end: 2026-04-30
+    end: 2026-09-30
     status: independent
     employer: Dynergie
+    startups:
+      - opera-comique-and-mediation
 memberType: beta
 competences:
   - Coaching

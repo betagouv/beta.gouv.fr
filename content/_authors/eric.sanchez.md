@@ -18,4 +18,10 @@ missions:
     employer: Malt
     startups:
       - snu
+  - start: 2026-04-27
+    end: 2026-07-24
+    status: independent
+    employer: ORDESOFT
+    startups:
+      - e-t-a-p-e
 ---
