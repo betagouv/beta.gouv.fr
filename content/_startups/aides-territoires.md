@@ -37,7 +37,7 @@ events:
     comment: Transmission du produit de la DGALN à l'ANCT
   - name: other
     date: 2025-07-10
-    comment: 'Remise en construction du produit '
+    comment: Remise en construction du produit pour amorcer l'intégration avec Mon Espace Collectivité
 ---
 ## Le problème
 
@@ -75,4 +75,6 @@ Les collectivités disposent en outre d'un outil collaboratif pour travailler en
 
 L’objectif est de consolider la base de données des aides européennes, nationales et locales disponibles sur Aides-territoires, en s’appuyant sur des partenariats ainsi qu'une communauté de contributeurs constituée dans les administrations citées ci-dessus dans le but de répondre au besoin d'exhaustivité des acteurs locaux. (constitution d'un annuaire des aides et des porteurs & d'une cartographie dynamique).
 
-Puis, en capitalisant sur les données des collectivités, cet outil permettra de les réutiliser (*Dites-le nous une fois*) pour faciliter le remplissage des dossiers. Le pré-remplissage est actuellement testé avec les démarches du Fonds Vert. 
+Puis, en capitalisant sur les données des collectivités, cet outil permettra de les réutiliser (*Dites-le nous une fois*) pour faciliter le remplissage des dossiers. Le pré-remplissage est actuellement testé avec les démarches du Fonds Vert et d'étendra courant 2026 aux demandes de DETR/DSIL. 
+
+Fin 2026, Aides-territoires intègrera [https://monespacecollectivite.anct.gouv.fr/](Mon Espace Collectivité). L’objectif : aider les collectivités à activer plus facilement les aides et l’accompagnement dont elles ont besoin pour réussir leurs projets locaux, grâce un parcours fluide, sans ressaisie d’information.
