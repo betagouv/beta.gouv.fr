@@ -17,7 +17,7 @@ phases:
   - name: investigation
     start: 2023-10-09
   - name: construction
-    start: 2023-11-01
+    start: 2026-04-01
 accessibility_status: non conforme
 thematiques:
   - Collectivités
@@ -33,12 +33,14 @@ dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/monespacecollectivite
 stats_url: https://mon-espace-collectivite-metabase.osc-secnum-fr1.scalingo.io/public/dashboard/30b3844d-9b0e-44ee-b4ff-caa0301c962a
 budget_url: https://docs.numerique.gouv.fr/docs/2a5be127-124d-4c99-b5ff-9733b398ef73/
 impact_url: https://docs.numerique.gouv.fr/docs/92140bd1-9cb0-4b2a-a4a9-090f9d2ae6e7/
+events:
+  - name: other
+    date: 2025-11-03
+    comment: Développement d'une nouvelle version (MECv2) dimensionnée pour intégrer tous les projets CRTE de France
 ---
 ## Contexte
 
 L’Agence nationale de la cohésion des territoires (ANCT) a été mise en place le 1er janvier 2020 pour assurer un rôle de « fabrique à projets » afin de permettre aux collectivités de mener à bien leurs projets. 
-
-Pour y arriver, il est fourni à son réseau d’acteurs de l’Etat déconcentré un service numérique facilitant le fléchage, le suivi et le pilotage des projets aux collectivités.
 
 ## Problème
 
@@ -47,6 +49,7 @@ Pour y arriver, il est fourni à son réseau d’acteurs de l’Etat déconcentr
 Double saisie d’une même information
 - Des dizaines de comptes différents éparpillant l’information
 - Multiplication des appels à projet et de la complexité associée
+- Des projets longs à monter et difficiles à suivre collectivement
 
 ## Solution
 
@@ -67,19 +70,20 @@ Mon Espace Collectivité est un service d’accompagnement sur mesure pour les p
 
 - S'intégrer dans l'écosystème grâce à la promesse du "Dites-le nous une fois". Une information = 1 seule saisie en se synchronisant avec d'autres services clés (Démarches simplifiées, Grist, Aides Territoires,...)
 
-- Retrouver les 853 CRTE à un seul endroit. Soit 40 000 projets à accompagner (ingénierie, financement et ambition écologique)
+- Retrouver les 853 CRTE à un seul endroit. Soit plus de 40 000 projets à accompagner (ingénierie, financement et ambition écologique)
 
 Objectifs 30 juin
 
-- Interconnexion avec Démarches Simplifiées : pré-remplissage d’une partie du formulaire de demande de subvention fond vert
-- Interconnexion GRIST : mise à disposition des données de chaque projet dans un tableau en ligne pour reporting et pilotage financier
-- Retour d’expérience des premiers cas d’usage (Village d’Avenir, Plan de transformation des zones commerciales) et des explorations (CRTE - PICT) 
+- Déploiement progressif du guichet unique dans au moins un département par région 
+- Intégration de l'ensemble des 78.000 projets des CRTE (Contrats de réussite de la Transition Ecologique) de France, ouverture aux intercommunalités.
+- Interconnexion avec Démarche Numérique : pré-remplissage d’une partie du formulaire de demande de subvention Fonds Vert 2026 et des dossiers DTER/DSIL.
+ 
 
-Objectifs 31 décembre :
+Objectifs 31 décembre 
 
-- Interconnexion démarches simplifiées V2 (DECIL/DETR/FNADT)
-- Intégration de l'ensemble des projets des CRTE de France
-- Déploiement d’autres cas d’usage (ingénierie et d’autres programmes et plans ANCT)
+- Intégration à Aides-territoires pour fluidifier le parcours des collectivités, sans ressaisie d’information.
+- Interopérabilité avec les autres briques numériques retenues dans le schéma interministériel d'urbanisation des services numériques, dans le respect du schéma de données API Projets des Collectivités.
+- Adaptation de la plateforme à tous les types projets locaux, pour devenir en 2027 le guichet unique de tous les projets locaux.
 
 
 Email de contact : monespacecollectivite@anct.gouv.fr

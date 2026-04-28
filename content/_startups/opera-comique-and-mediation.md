@@ -4,25 +4,23 @@ thematiques:
   - Culture
 usertypes: []
 techno: []
-title: Opéra-Comique & Médiation
-mission: Faciliter la médiation grand public
+title: Patrimoine vivant - Opéra-Comique
+mission: Faciliter la production de contenus de médiation grand public
 incubator: culture
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2026-01-22
-    end: null
   - name: construction
-    comment: null
     start: 2026-04-20
-    end: null
 events:
   - name: committee
-    comment: Passage en construction
     date: 2026-04-20
+    comment: Passage en construction
+link: ''
 ---
-# Médiation & Opéra-Comique
+# Faire vivre le patrimoine de l'Opéra-Comique
+###### Du fonds éditorial à la médiation grand public
+---
 
 **Les équipes de l'Opéra-Comique produisent chaque saison une matière patrimoniale riche — captations, archives, documents de création — qui reste aujourd'hui dispersée et peu réemployée. Cette ressource inexploitée freine la médiation auprès des publics et alourdit la charge éditoriale des équipes. L'enjeu est de permettre à l'Opéra-Comique de capitaliser sur ce patrimoine vivant pour renforcer la découvrabilité de ses œuvres, élargir ses publics et libérer de la capacité créative en interne.**
 
