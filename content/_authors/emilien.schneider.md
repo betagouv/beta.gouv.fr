@@ -5,7 +5,7 @@ domaine: Développement
 github: emilschn
 missions:
   - start: 2022-07-11
-    end: 2026-05-12
+    end: 2026-07-14
     status: independent
     employer: Scopyleft
     startups:
@@ -18,5 +18,6 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
   - PHP
+link: https://www.linkedin.com/in/emilienschneider
 ---
 Développeur web

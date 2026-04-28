@@ -9,7 +9,7 @@ competences:
   - Product strategy
 missions:
   - start: 2025-03-25
-    end: 2026-04-30
+    end: 2026-07-31
     status: independent
     employer: La.zone / Solstice
     startups:
