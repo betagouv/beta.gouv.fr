@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2026-05-04
     end: 2026-10-04
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - dalo-assist-usagers-et-contentieux
-teams: []
 ---
