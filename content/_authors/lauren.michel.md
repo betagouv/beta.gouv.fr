@@ -40,6 +40,10 @@ missions:
     startups:
       - aides-territoires
       - mon.espace.collectivite
+  - start: 2026-04-28
+    end: 2026-06-30
+    status: independent
+    employer: 'docaposte '
 previously:
   - france-numerique-ensemble
   - maintenant

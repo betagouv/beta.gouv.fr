@@ -28,6 +28,11 @@ missions:
     status: admin
     startups:
       - data-rh
+  - start: 2025-05-05
+    end: 2026-07-20
+    status: admin
+    startups:
+      - m-ir-ai
 previously:
   - psij
   - dialogue.operationnel
@@ -36,4 +41,4 @@ teams:
   - /teams/lab-mi
 competences: []
 ---
-Experte UX et interfaces digitales, j'ai accompagné différents clients (secteur public et privé) dans leur transformation numérique durant ces 7 dernières années. Ma vision de l'expérience repose sur une approche à la fois centrée sur l'humain et son environnement, et stratégique pour accompagner l'évolution des organisations.
+Experte UX et interfaces digitales, j'ai accompagné différents clients (secteur public et privé) dans leur transformation numérique durant ces 10 dernières années. Ma vision de l'expérience repose sur une approche à la fois centrée sur l'humain et son environnement, et stratégique pour accompagner l'évolution des organisations.

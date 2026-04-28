@@ -10,7 +10,7 @@ missions:
     startups:
       - mobilic
   - start: 2021-11-01
-    end: 2026-04-30
+    end: 2026-08-31
     status: independent
     employer: Pathtech
     startups:

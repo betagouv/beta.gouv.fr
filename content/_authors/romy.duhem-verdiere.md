@@ -9,7 +9,7 @@ missions:
     status: service
     employer: OCTO Technology
   - start: 2022-11-01
-    end: 2026-05-19
+    end: 2026-10-19
     status: service
     employer: OCTO Technology
 previously:

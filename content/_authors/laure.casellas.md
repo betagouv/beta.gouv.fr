@@ -7,6 +7,18 @@ missions:
     end: 2026-06-25
     status: independent
     employer: ANCT
+  - start: 2026-04-25
+    end: 2026-07-25
+    status: independent
+    employer: ANCT
+    startups:
+      - aides-territoires
+  - start: 2026-04-25
+    end: 2026-07-25
+    status: independent
+    employer: ANCT
+    startups:
+      - mon.espace.collectivite
 link: https://www.linkedin.com/in/laure-casellas/
 github: l-casellas
 competences:

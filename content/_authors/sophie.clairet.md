@@ -1,7 +1,7 @@
 ---
 fullname: Sophie Clairet
 domaine: Déploiement
-role: Chargée de déploiement Panoramax, Viz'eau et Coach Chemins en commun
+role: Chargée de déploiement Panoramax, Viz'eau et Coach Voies locales en commun
 link: https://geosophie.eu
 missions:
   - start: 2020-09-01
@@ -31,7 +31,7 @@ missions:
     startups:
       - viz-eau
   - start: 2025-12-01
-    end: 2026-04-30
+    end: 2026-05-31
     status: independent
     employer: DYNERGIE
     startups:
