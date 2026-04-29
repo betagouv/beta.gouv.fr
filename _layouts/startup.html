@@ -39,9 +39,9 @@ layout: default
           <p>
             <b>{{ page.title }}</b> 
             {% if phase.status == 'success' %}
-              a été portée
+              a été porté
             {% else %}
-               est portée 
+               est porté
             {% endif %}
             par {% if incubator and incubator.hidden != true %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% else %}{{ incubator.title | default: page.incubator }}{% endif %}.
           </p>
