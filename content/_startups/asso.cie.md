@@ -1,6 +1,6 @@
 ---
 mission: Améliorer la solidarité entreprises / associations.
-incubator: dinum
+incubator: DINUM
 title: ASSO'CIE
 contact: esther.teboul@beta.gouv.fr
 phases:

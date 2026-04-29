@@ -1,6 +1,6 @@
 ---
 mission: Permettre aux services en charge du contrôle des frontières, de la lutte contre la fraude et de la sécurité en mer d’exploiter plus facilement les données maritimes.
-incubator: dinum
+incubator: DINUM
 repository: https://gitlab.mim-libre.fr/andv/demonstrateur-moana/moana
 contact: andv-moana@interieur.gouv.fr
 usertypes:

@@ -3,7 +3,7 @@ title: Sirius
 mission: Aider les jeunes dans leurs choix d’orientation en donnant accès aux témoignages des apprentis
 sponsors:
   - /organisations/dgefp
-incubator: dinum
+incubator: DINUM
 phases:
   - name: construction
     start: 2022-12-01

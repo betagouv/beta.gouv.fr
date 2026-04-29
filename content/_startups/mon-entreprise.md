@@ -3,7 +3,7 @@ title: Mon-entreprise
 mission: Guider les créateurs et créatrices d’entreprise.
 sponsors:
   - /organisations/urssaf
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2014-10-01

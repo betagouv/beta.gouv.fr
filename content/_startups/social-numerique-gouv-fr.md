@@ -17,7 +17,7 @@ techno:
   - react
 title: social.numerique.gouv.fr
 mission: Une instance Mastodon pour héberger les comptes des institutions publiques
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/dinum
 phases:

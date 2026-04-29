@@ -1,5 +1,10 @@
 ---
 name: Incubateur
-mission: L’équipe de l'Incubateur de services numériques ou beta.gouv.fr a pour mission de garantir que les opérations du programme se passent correctement, de faire grandir le programme beta.gouv.fr et de diffuser l'approche dans l'ensemble des ministères. Cette équipe fait partie de la Direction interministérielle du numérique (DINUM), mais interagit avec l'ensemble des administrations publiques membres du réseau.
-incubator: dinum
+mission: |-
+  L’équipe du département Accompagnement de services numériques de la DINUM a pour mission de diffuser l'approche beta.gouv.fr, et plus largement le mode produit, dans l'ensemble des ministères.
+
+  Les responsables de partenariat sont chargés d'accompagner la transformation numérique des administrations, par la diffusion du mode produit et l'accompagnement de produits structurants.
+
+  Les coachs accompagnent des produits qui répondent à des enjeux stratégiques de la transformation numérique de l'Etat, notamment en sortie d'incubation.
+incubator: DINUM
 ---

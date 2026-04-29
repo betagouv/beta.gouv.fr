@@ -8,7 +8,7 @@ usertypes:
 techno: []
 title: Coop Biodiv
 mission: Faciliter l'engagement des collectivités territoriales en faveur de la biodiversité
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2025-12-01

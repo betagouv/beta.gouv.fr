@@ -1,6 +1,6 @@
 ---
 mission: Mettre en relation les TPE & PME et le bon interlocuteur
-incubator: dinum
+incubator: DINUM
 repository: https://github.com/betagouv/conseillers-entreprises
 contact: mathieu.gens@beta.gouv.fr
 accessibility_status: partiellement conforme

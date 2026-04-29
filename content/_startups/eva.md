@@ -5,7 +5,7 @@ sponsors:
   - /organisations/anlci
   - /organisations/dgefp
   - /organisations/hcc
-incubator: dinum
+incubator: DINUM
 events:
   - name: national_impact
     date: 2023-12-31

@@ -20,7 +20,7 @@ techno:
   - typescript
 title: Datalma
 mission: Appuyer les décisions prises par la Présidence, le Premier Ministre et les ministères sur des données pertinentes et récentes.
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/pr
 phases:

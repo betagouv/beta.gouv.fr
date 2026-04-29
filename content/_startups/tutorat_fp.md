@@ -3,7 +3,7 @@ title: Tutorat pour les concours de la fonction publique
 mission: Améliorer l'égalité des chances aux concours de la fonction publique grâce au développement du tutorat.
 sponsors:
   - /organisations/dgafp
-incubator: dinum
+incubator: DINUM
 contact: tutorat@beta.gouv.fr
 link: https://www.tutorat.fonction-publique.gouv.fr/
 phases:

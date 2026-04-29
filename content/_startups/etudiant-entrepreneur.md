@@ -3,7 +3,7 @@ title: Étudiant entrepreneur
 mission: Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfices
 sponsors:
   - /organisations/dgesip
-incubator: dinum
+incubator: DINUM
 events:
   - name: end
     date: 2017-12-31

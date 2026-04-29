@@ -1,7 +1,7 @@
 ---
 title: Guichet-entreprises.nc
 mission: Faciliter les démarches administratives des entreprises calédoniennes
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/nouvelle-caledonie
 link: https://guichet-entreprises.nc/

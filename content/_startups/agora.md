@@ -5,7 +5,7 @@ mission: La première appli qui fait dialoguer les citoyens et le Gouvernement
 repository: https://github.com/agora-gouv/agora-app
 sponsors:
   - /organisations/ditp
-incubator: dinum
+incubator: DINUM
 contact: penelope.liot@beta.gouv.fr
 accessibility_status: partiellement conforme
 phases:

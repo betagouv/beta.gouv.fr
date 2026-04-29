@@ -9,7 +9,7 @@ usertypes:
 techno: []
 title: Filière économique du sport
 mission: Animer les acteurs de la filière économique du sport
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/msjop
 phases:

@@ -3,7 +3,7 @@ title: Parasport
 mission: 'Faciliter la pratique sportive pour les personnes en situation de handicap. '
 sponsors:
   - /organisations/msjop
-incubator: dinum
+incubator: DINUM
 contact: florian.foulquier@insep.fr
 accessibility_status: non conforme
 phases:

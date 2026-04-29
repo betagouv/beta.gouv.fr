@@ -12,7 +12,7 @@ techno:
   - grist
 title: Résultats Elections FPT 2026
 mission: Saisir et centraliser les résultats des élections professionnelles dans la fonction publique territoriale
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/direction-generale-des-collectivites-locales
 phases:

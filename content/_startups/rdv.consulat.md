@@ -3,7 +3,7 @@ title: Rdv consulat
 mission: Réduire les difficultés liées aux prises de rendez-vous dans les consulats
 sponsors:
   - /organisations/meae
-incubator: dinum
+incubator: DINUM
 contact: morgan.izquierdo@beta.gouv.fr
 phases:
   - name: investigation

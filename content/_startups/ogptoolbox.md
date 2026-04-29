@@ -3,7 +3,7 @@ title: OGP Toolbox
 mission: Trouver des outils numériques pour améliorer la démocratie
 sponsors:
   - /organisations/dinum
-incubator: dinum
+incubator: DINUM
 events:
   - name: end
     date: 2018-01-01

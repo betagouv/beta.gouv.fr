@@ -6,7 +6,7 @@ sponsors:
   - /organisations/mesr
   - /organisations/mtei
   - /organisations/mtfp
-incubator: dinum
+incubator: DINUM
 link: https://cfas.apprentissage.beta.gouv.fr
 contact: tableau-de-bord@apprentissage.beta.gouv.fr
 stats_url: https://cfas.apprentissage.beta.gouv.fr/stats

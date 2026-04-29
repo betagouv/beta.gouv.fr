@@ -3,7 +3,7 @@ title: PEBA
 mission: Faciliter la lutte contre la fraude sociale et fiscale
 sponsors:
   - /organisations/mefr
-incubator: dinum
+incubator: DINUM
 contact: christine.fournier@finances.gouv.fr
 accessibility_status: non conforme
 phases:

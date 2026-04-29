@@ -3,7 +3,7 @@ title: Les aides de l’Anah
 mission: Accéder rapidement et simplement aux aides à l’habitat privé
 sponsors:
   - /organisations/anah
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2016-05-01

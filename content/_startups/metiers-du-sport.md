@@ -11,7 +11,7 @@ usertypes:
   - particulier
 title: Métiers du Sport
 mission: Faciliter la découverte des métiers et l'orientation vers les bons parcours de formations et certifications
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/msjop
 phases:

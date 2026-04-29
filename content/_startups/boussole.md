@@ -3,7 +3,7 @@ title: Boussole des droits
 mission: Accéder à des conseils professionnels à proximité pour trouver un logement, une formation ou un emploi
 sponsors:
   - /organisations/djepva
-incubator: dinum
+incubator: DINUM
 events:
   - name: end
     date: 2017-06-30

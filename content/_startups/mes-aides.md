@@ -3,7 +3,7 @@ title: Mes Aides
 mission: Évaluer ses droits à 28 aides sociales. En moins de 7 minutes.
 sponsors:
   - /organisations/dinum
-incubator: dinum
+incubator: DINUM
 link: https://mes-aides.gouv.fr
 repository: https://github.com/betagouv/mes-aides-ui
 contact: contact@mes-aides.gouv.fr

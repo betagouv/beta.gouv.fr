@@ -6,7 +6,7 @@ sponsors:
   - /organisations/mesr
   - /organisations/mtei
   - /organisations/mtfp
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2018-03-19

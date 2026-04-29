@@ -30,9 +30,9 @@ missions:
     startups:
       - je-deviens-etudiant
   - start: 2025-02-12
-    end: 2026-06-30
+    end: 2026-04-17
     status: independent
-    employer: LBC
+    employer: LBC puis Malt
     startups:
       - les.bases
       - suite.d.outils.des.mediateurs.numeriques

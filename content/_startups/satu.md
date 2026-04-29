@@ -1,6 +1,6 @@
 ---
 mission: 'Rendre la téléphonie accessible aux personnes sourdes, malentendantes, sourdaveugles et aphasiques. '
-incubator: dinum
+incubator: DINUM
 title: SATU
 contact: laurent.menard@finances.gouv.fr
 accessibility_status: non conforme

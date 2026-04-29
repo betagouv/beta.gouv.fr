@@ -3,7 +3,7 @@ title: E-Inspé
 mission: Améliorer le développement professionnel des enseignants
 sponsors:
   - /organisations/dgesco
-incubator: dinum
+incubator: DINUM
 contact: penelope.liot@beta.gouv.fr
 phases:
   - name: construction

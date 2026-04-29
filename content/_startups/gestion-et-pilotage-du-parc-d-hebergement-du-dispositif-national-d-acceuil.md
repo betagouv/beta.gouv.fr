@@ -1,6 +1,6 @@
 ---
 mission: Faciliter le travail des agents publics en charge de la gestion du parc d’hébergement des demandeurs d’asile
-incubator: dinum
+incubator: DINUM
 title: Bhasile (anc. Place d'Asile)
 contact: contact@placedasile.beta.gouv.fr
 thematiques:

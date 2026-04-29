@@ -1,7 +1,7 @@
 ---
 title: Medistock
 mission: Améliorer le flux de gestion des stocks de médicaments pour éviter les ruptures
-incubator: dinum
+incubator: DINUM
 contact: joelle.chong@beta.gouv.fr
 sponsors:
   - /organisations/ansm

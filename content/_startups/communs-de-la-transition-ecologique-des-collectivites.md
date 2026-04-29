@@ -10,7 +10,7 @@ usertypes:
   - etat
 title: API Projets Collectivités
 mission: Faire circuler les données des projets de transition écologique entre les services publics numériques
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/dinum
   - /organisations/sgpe

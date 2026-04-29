@@ -20,7 +20,7 @@ missions:
       - la.communaute.de.linclusion
       - phytophare
   - start: 2024-02-14
-    end: 2026-05-29
+    end: 2026-09-30
     status: independent
     employer: MALT
     startups:
@@ -32,7 +32,7 @@ missions:
     startups:
       - tabula
   - start: 2025-01-01
-    end: 2026-05-29
+    end: 2026-09-30
     status: independent
     employer: Dynergie
     startups:

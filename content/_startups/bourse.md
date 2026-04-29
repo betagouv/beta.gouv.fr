@@ -4,7 +4,7 @@ mission: Demander et liquider une bourse de collège en ligne
 sponsors:
   - /organisations/dinum
   - /organisations/menjs
-incubator: dinum
+incubator: DINUM
 events:
   - name: end
     date: 2018-01-01

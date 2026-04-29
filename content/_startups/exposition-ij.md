@@ -6,7 +6,7 @@ sponsors:
   - /organisations/mesr
   - /organisations/mtei
   - /organisations/mtfp
-incubator: dinum
+incubator: DINUM
 redirect_from:
   - /startups/expositionIJ
 phases:

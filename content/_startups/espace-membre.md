@@ -13,7 +13,7 @@ usertypes:
 techno: []
 title: Espace Membre
 mission: Diffuser les bonnes pratiques du mode produit à impact dans l'administration
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/dinum
 phases:

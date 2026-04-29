@@ -4,7 +4,7 @@ mission: Faciliter l'accès des jeunes à la culture
 sponsors:
   - /organisations/dgca
   - /organisations/mc
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2017-12-01

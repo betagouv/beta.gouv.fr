@@ -3,7 +3,7 @@ title: Au Compost Mitoyen !
 mission: Faciliter le déploiement de composteurs collectifs et encourager leur utilisation
 sponsors:
   - /organisations/dinum
-incubator: dinum
+incubator: DINUM
 link: http://aucompostmitoyen.fr/
 repository: https://github.com/betagouv/poubellesbattle
 contact: contact@aucompostmitoyen.fr

@@ -3,7 +3,7 @@ title: Classe à 12
 mission: Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.
 sponsors:
   - /organisations/dgesco
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2018-06-01

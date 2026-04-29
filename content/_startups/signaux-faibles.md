@@ -8,7 +8,7 @@ sponsors:
   - /organisations/dgefp
   - /organisations/dgfip
   - /organisations/dinum
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2014-05-15

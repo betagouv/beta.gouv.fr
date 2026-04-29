@@ -3,7 +3,7 @@ title: Mon Logement Etudiant
 mission: Faciliter l'accès au logement et aux droits pour les étudiants
 sponsors:
   - /organisations/mesr
-incubator: dinum
+incubator: DINUM
 contact: clara.merigot@enseignementsup.gouv.fr
 accessibility_status: non conforme
 phases:

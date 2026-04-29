@@ -3,7 +3,7 @@ title: Pix
 mission: Mesurer, développer et valoriser ses compétences numériques.
 sponsors:
   - /organisations/menjs
-incubator: dinum
+incubator: DINUM
 events:
   - name: national_impact
     date: 2019-09-01

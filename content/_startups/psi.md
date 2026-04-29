@@ -3,7 +3,7 @@ title: Prélèvement à la source pour les indépendants
 mission: Simplifier radicalement le règlement des cotisations sociales par les indépendants
 sponsors:
   - /organisations/dinum
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2018-01-01

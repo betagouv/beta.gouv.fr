@@ -1,7 +1,7 @@
 ---
 title: Trait d'Union
 mission: Permettre aux demandeurs d'emploi d'essayer des métiers qui recrutent et forment à côté de chez eux
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/dinum
 events:

@@ -3,7 +3,7 @@ title: Repérer et identifier les situations de traite des êtres humains
 mission: "Garantir\_l’identification, la mise à l’abri et\_la protection des victimes de traite et d’exploitation par leur repérage et leur accompagnement, via notamment la coordination des acteurs et le partage d’informations"
 sponsors:
   - /organisations/dinum
-incubator: dinum
+incubator: DINUM
 contact: benoit.champy@beta.gouv.fr
 usertypes:
   - particulier

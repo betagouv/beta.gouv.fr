@@ -12,7 +12,7 @@ usertypes:
 techno: []
 title: Plateforme d'admission en Doctorat
 mission: Faciliter le processus d'admission en doctorat
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/dgesip
   - /organisations/direction-generale-de-la-recherche-et-de-l-innovation

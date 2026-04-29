@@ -7,11 +7,10 @@ competences:
   - Product strategy
 missions:
   - start: 2025-12-08
-    end: 2026-06-01
+    end: 2026-10-01
     status: independent
     employer: Malt
     startups:
       - l-immersion-facile
 ---
-Hello ! 
-Guillaume, basé à Grenoble, 7 ans d'expérience en PO/PM :) 
+basé à Grenoble, PO

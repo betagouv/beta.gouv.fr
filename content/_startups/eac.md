@@ -3,7 +3,7 @@ title: Plateforme EAC
 mission: Augmenter le nombre d'actions artistiques et culturelles pour les jeunes dans les établissements scolaires
 sponsors:
   - /organisations/mc
-incubator: dinum
+incubator: DINUM
 events:
   - name: end
     date: 2019-12-01

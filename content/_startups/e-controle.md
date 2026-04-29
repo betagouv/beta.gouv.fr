@@ -3,7 +3,7 @@ title: E-contrôle
 mission: Simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées
 sponsors:
   - /organisations/c-comptes
-incubator: dinum
+incubator: DINUM
 events:
   - name: product_launch
     date: 2019-01-15

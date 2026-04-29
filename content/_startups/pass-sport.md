@@ -1,7 +1,7 @@
 ---
 title: Pass Sport
 mission: Une aide financière pour encourager la pratique sportive des jeunes
-incubator: dinum
+incubator: DINUM
 contact: clemence.lopez@beta.gouv.fr
 sponsors:
   - /organisations/menjs

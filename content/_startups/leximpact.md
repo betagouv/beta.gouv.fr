@@ -1,6 +1,6 @@
 ---
 mission: Aider nos parlementaires à estimer les impacts de leurs amendements avant vote.
-incubator: dinum
+incubator: DINUM
 repository: https://git.leximpact.dev/leximpact
 contact: leximpact@an.fr
 usertypes:

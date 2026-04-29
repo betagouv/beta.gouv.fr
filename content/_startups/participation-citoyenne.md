@@ -3,7 +3,7 @@ title: Participation Citoyenne
 mission: Augmenter et démontrer l'impact des démarches de consultation citoyenne
 sponsors:
   - /organisations/ditp
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2020-09-07

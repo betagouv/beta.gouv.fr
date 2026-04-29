@@ -3,7 +3,7 @@ title: API Engagement
 mission: Donner plus de visibilité aux offres de bénévolat et de volontariat
 sponsors:
   - /organisations/djepva
-incubator: dinum
+incubator: DINUM
 contact: api-engagement@beta.gouv.fr
 stats_url: https://app.api-engagement.beta.gouv.fr/public-stats
 link: https://api-engagement.beta.gouv.fr

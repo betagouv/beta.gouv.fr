@@ -3,7 +3,7 @@ title: GPS Usagers
 mission: Orienter les usagers du Calvados vers le bon interlocuteur et le bon moyen de communication
 sponsors:
   - /organisations/anct
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2018-10-01
