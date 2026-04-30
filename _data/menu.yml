@@ -1,6 +1,14 @@
 ---
 title:
 nav:
+  - label: Programme
+    children:
+      - label: Découvrir le programme
+        target: _pages/approche.md
+      - label: Devenir intrapreneur
+        target: _pages/intrapreneur.md
+      - label: Découvrir notre manifeste
+        target: _pages/manifeste.md
   - label: Réseau d'incubateurs
     target: _pages/incubateurs.md
   - label: Services numériques

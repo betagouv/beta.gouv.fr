@@ -13,10 +13,10 @@
 
             <div class="fr-header__navbar">
               <button class="fr-btn--search fr-btn" data-fr-opened="false" aria-controls="header-search" id="fr-btn-search-mobile" title="Rechercher">
-                  Rechercher
+                Rechercher
               </button>
               <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="modal-menu-mobile" aria-haspopup="menu" title="Menu" id="fr-btn-menu-mobile">
-                  Menu
+                Menu
               </button>
             </div>
           </div>
@@ -32,13 +32,13 @@
           <div class="fr-header__tools-links">
             <ul class="fr-btns-group">
               {% for item in site.data.menu.shortcuts %}
-              <li class="fr-shortcuts__item">
-                {% if item.external == true %}
-                  <a class="fr-btn" href="{{ item.url }}" title="{{ item.label }} - nouvelle fenêtre" target="_blank" rel="noopener">{{ item.label }}</a>
-                {% else %}
-                  <a class="fr-btn--{{ item.icon }} fr-btn" href="{{ item.url }}">{{ item.label }}</a>
-                {% endif %}
-              </li>
+                <li class="fr-shortcuts__item">
+                  {% if item.external == true %}
+                    <a class="fr-btn" href="{{ item.url }}" title="{{ item.label }} - nouvelle fenêtre" target="_blank" rel="noopener">{{ item.label }}</a>
+                  {% else %}
+                    <a class="fr-btn--{{ item.icon }} fr-btn" href="{{ item.url }}">{{ item.label }}</a>
+                  {% endif %}
+                </li>
               {% endfor %}
             </ul>
           </div>
@@ -50,11 +50,11 @@
               </button>
               <form id="header-search-main" method="get" action="/recherche" role="search" class="fr-search-bar">
                 <label class="fr-label" for="search">
-                    Recherche
+                  Recherche
                 </label>
                 <input class="fr-input" placeholder="Rechercher" type="search" id="search" name="q">
                 <button class="fr-btn" title="Rechercher">
-                    Rechercher
+                  Rechercher
                 </button>
               </form>
             </div>
@@ -70,30 +70,38 @@
       <button class="fr-link--close fr-link" aria-controls="modal-menu-mobile">Fermer</button>
       <div class="fr-header__menu-links"></div>
       <nav class="fr-nav" id="navigation" role="navigation" aria-label="Menu principal">
-          <ul class="fr-nav__list">
-                  <li class="fr-nav__item">
-                    <button class="fr-nav__btn" aria-expanded="false" aria-controls="menu-program" {% if page.url contains 'approche' %}aria-current="true"{% endif %}>Programme</button>
-                    <div class="fr-collapse fr-menu" id="menu-program">
-                        <ul class="fr-menu__list">
-                            <li>
-                                <a class="fr-nav__link" href="/approche" target="_self">Découvrir le programme</a>
-                            </li>
-                            <li>
-                                <a class="fr-nav__link" href="/devenir-intrapreneur" target="_self">Devenir intrapreneur</a>
-                            </li>
-                            <li>
-                              <a class="fr-nav__link" href="/manifeste" target="_self">Découvrir notre manifeste</a>
-                          </li>
-                        </ul>
-                    </div>
-                </li>
-              {% for item in site.data.menu.nav %}
-              {% assign target = site.pages | where:"path",item.target | first %}
+        <ul class="fr-nav__list">
+          {% for item in site.data.menu.nav %}
+            {% assign target = site.pages | where:"path",item.target | first %}
+            {% unless item.children %}
               <li class="fr-nav__item {% if target and page.url contains target.url %}fr-nav__item--active{% endif %}">
-                  <a class="fr-nav__link" href="{{ target.url }}" {% if target and page.url contains target.url %}aria-current="page"{% endif %}>{{ item.label }}</a>
+                <a class="fr-nav__link" href="{{ target.url }}" {% if target and page.url contains target.url %}aria-current="page"{% endif %}>{{ item.label }}</a>
               </li>
-              {% endfor %}
-          </ul>
+            {% else %}
+              <li class="fr-nav__item">
+                <button
+                    class="fr-nav__btn"
+                    aria-expanded="false"
+                    aria-controls="menu-{{ item.label | slugify }}"
+                    {% if page.url contains 'approche' %}
+                        aria-current="true"
+                    {% endif %}
+                >
+                  {{ item.label }}
+                </button>
+                <div class="fr-collapse fr-menu" id="menu-{{ item.label | slugify }}">
+                  <ul class="fr-menu__list">
+                    {% for child in item.children %}
+                      <li>
+                        <a class="fr-nav__link" href="{{ child.target }}" target="_self">{{ child.label }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              </li>
+            {% endunless %}
+          {% endfor %}
+        </ul>
       </nav>
     </div>
   </div>
