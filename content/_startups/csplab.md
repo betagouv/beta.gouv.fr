@@ -12,7 +12,7 @@ usertypes:
 techno: []
 title: CSPLab
 mission: Aider les candidats à comprendre et à trouver plus facilement leur voie dans le service public
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/dgafp
   - /organisations/mtfp

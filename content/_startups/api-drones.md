@@ -3,7 +3,7 @@ title: API Drones
 mission: Améliorer la connaissance du ciel pour plus de sécurité et d'innovation
 sponsors:
   - /organisations/sgdsn
-incubator: dinum
+incubator: DINUM
 events:
   - name: end
     date: 2018-12-31

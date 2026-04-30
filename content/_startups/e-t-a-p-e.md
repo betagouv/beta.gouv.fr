@@ -15,7 +15,7 @@ techno:
   - cd
 title: E.T.A.P.E.
 mission: Faciliter l'accès aux dispositifs de reconversion professionnelle
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/dgefp
 phases:

@@ -11,7 +11,7 @@ usertypes:
   - État
 title: DataDSN
 mission: Mettre à disposition d’acteurs publics légitimes des données sociales anonymisées ou indicateurs issus de la DSN
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/dinum
   - /organisations/gip-modernisation-des-declarations-sociales

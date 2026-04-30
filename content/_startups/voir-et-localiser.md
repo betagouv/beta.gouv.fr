@@ -4,7 +4,7 @@ mission: Voir et localiser les appelants aux centres d'appels d'urgence
 sponsors:
   - /organisations/ans
   - /organisations/solidarite-sante
-incubator: dinum
+incubator: DINUM
 events:
   - name: end
     date: 2020-01-01

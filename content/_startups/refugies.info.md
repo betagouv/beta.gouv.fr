@@ -4,7 +4,7 @@ mission: Donner de l'information simple et traduite aux personnes réfugiées et
 repository: https://github.com/refugies-info/karfur
 title: Réfugiés.info
 contact: contact@refugies.info
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/diair
   - /organisations/direction-generale-des-etrangers-en-france

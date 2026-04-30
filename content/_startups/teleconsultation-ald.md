@@ -1,7 +1,7 @@
 ---
 title: Téléconsultation ALD
 mission: Renforcer et augmenter l’accès aux soins pour les patients en ALD par la téléconsultation
-incubator: dinum
+incubator: DINUM
 contact: elsa.le-duigou@beta.gouv.fr
 sponsors:
   - /organisations/dgos

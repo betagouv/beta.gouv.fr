@@ -3,7 +3,7 @@ title: Visam
 mission: "Fluidifier le dialogue social de la  «\_Direction des ressources humaines\_» de l’État."
 sponsors:
   - /organisations/dgafp
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2019-12-01

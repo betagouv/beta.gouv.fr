@@ -24,7 +24,7 @@ techno:
   - Kubernetes
 title: Futur Pro
 mission: Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/menjs
   - /organisations/mesr

@@ -3,7 +3,7 @@ title: APLyPro
 mission: Valoriser les périodes de formation en milieu professionnel (PFMP) réalisées par les lycéens et lycéennes pro.
 sponsors:
   - /organisations/dgesco
-incubator: dinum
+incubator: DINUM
 link: https://aplypro.beta.gouv.fr/
 stats_url: https://aplypro.beta.gouv.fr/stats
 repository: https://github.com/betagouv/aplypro

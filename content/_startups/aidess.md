@@ -1,7 +1,7 @@
 ---
 title: AidESS
 mission: Simplifier l'accès aux aides et aux financements publics des structures d'Économie Sociale et Solidaire
-incubator: dinum
+incubator: DINUM
 contact: christophe.trouillard@jscs.gouv.fr
 redirect_from:
   - /startups/AidESS-Relance

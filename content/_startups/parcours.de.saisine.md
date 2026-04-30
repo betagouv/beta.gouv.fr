@@ -3,7 +3,7 @@ title: Parcours de saisine
 mission: Faciliter la saisine du Défenseur des Droits par les usager·e·s, tout en permettant un traitement des dossiers plus efficace par les juristes et les délégué·e·s
 sponsors:
   - /organisations/ddd
-incubator: dinum
+incubator: DINUM
 contact: mael.inizan@beta.gouv.fr
 accessibility_status: non conforme
 phases:

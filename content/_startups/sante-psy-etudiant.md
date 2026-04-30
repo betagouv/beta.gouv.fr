@@ -15,7 +15,7 @@ usertypes:
 techno: []
 title: Santé Psy Étudiant
 mission: Dispositif dédié aux étudiants de l'enseignement supérieur, SPE permet à un étudiant de bénéficier de consultations avec des psychologues validés par les services médicaux des universités sans avance de frais.
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/dgesip
 phases:

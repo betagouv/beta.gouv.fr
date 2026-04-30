@@ -4,7 +4,7 @@ mission: Automatiser l'octroi de la tarification sociale et solidaire des transp
 sponsors:
   - /organisations/dgitm
   - /organisations/mtfp
-incubator: dinum
+incubator: DINUM
 repository: https://github.com/betagouv/tous-a-bord
 contact: tousabord@beta.gouv.fr
 accessibility_status: non conforme

@@ -3,7 +3,7 @@ title: GAP 2.0 (Gestion Archives Papier)
 mission: Améliorer l'accompagnement de la gestion des archives papier
 sponsors:
   - /organisations/anct
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2020-10-13

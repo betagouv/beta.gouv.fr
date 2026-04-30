@@ -3,7 +3,7 @@ title: Devoirs Faits la Communauté
 mission: Faciliter les échanges de pratiques entre pairs autour du dispositif « devoirs faits ».
 sponsors:
   - /organisations/dgesco
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2021-02-01

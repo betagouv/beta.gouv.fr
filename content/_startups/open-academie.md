@@ -3,7 +3,7 @@ title: Open Académie
 mission: Construire le lycée et le collège de demain
 sponsors:
   - /organisations/menjs
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2015-01-01

@@ -9,7 +9,7 @@ usertypes:
   - collectivite-territoriale
 title: Plateforme de l'engagement
 mission: Recommander la bonne offre d'engagement
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/djepva
 phases:

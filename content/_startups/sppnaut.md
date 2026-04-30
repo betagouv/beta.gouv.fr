@@ -4,7 +4,7 @@ mission: Faciliter l'utilisation des publications nautiques en numérisant les d
 sponsors:
   - /organisations/dinum
   - /organisations/shom
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2021-10-07

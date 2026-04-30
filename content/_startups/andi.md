@@ -3,7 +3,7 @@ title: ANDi
 mission: Faciliter l'immersion professionnelle des personnes en situation de handicap
 sponsors:
   - /organisations/cdc
-incubator: dinum
+incubator: DINUM
 events:
   - name: end
     date: 2020-05-15

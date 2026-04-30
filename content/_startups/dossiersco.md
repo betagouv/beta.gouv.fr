@@ -3,7 +3,7 @@ title: DossierSCO
 mission: Inscrire son enfant au collège en quelques clics
 sponsors:
   - /organisations/menjs
-incubator: dinum
+incubator: DINUM
 events:
   - name: end
     date: 2019-09-15

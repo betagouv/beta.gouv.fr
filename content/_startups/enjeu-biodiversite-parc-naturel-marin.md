@@ -7,7 +7,7 @@ usertypes:
   - entreprise
 title: Renforcer l'efficacité des Parcs Naturels Marins
 mission: Améliorer la prise en compte des enjeux de biodiversité dans les aires protégées
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/office-francais-de-la-biodiversite
 phases:

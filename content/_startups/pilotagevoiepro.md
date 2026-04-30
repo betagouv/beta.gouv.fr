@@ -4,7 +4,7 @@ mission: Contribuer à la transformation de la carte des formations des lycées 
 sponsors:
   - /organisations/dgesco
   - /organisations/menjs
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2022-10-01

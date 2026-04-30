@@ -3,7 +3,7 @@ title: Lab Agora
 mission: Améliorer la mise en relation des acteurs qui œuvrent pour l’amélioration de la vie des patients atteints de cancer
 sponsors:
   - /organisations/inca
-incubator: dinum
+incubator: DINUM
 contact: tristan.roue@beta.gouv.fr
 phases:
   - name: investigation

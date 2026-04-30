@@ -3,7 +3,7 @@ title: Mes remboursements simplifiés (MRS)
 mission: Simplifier et accélérer le remboursement des frais d'utilisation de véhicule personnel ou transports en commun.
 sponsors:
   - /organisations/cnam
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2017-10-01

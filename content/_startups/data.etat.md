@@ -2,7 +2,7 @@
 link: https://www.dataregion.fr/
 mission: Partager, visualiser et réutiliser la donnée financière de l’État et ses opérateurs pour mieux piloter les politiques publiques
 repository: https://github.com/dataregion
-incubator: dinum
+incubator: DINUM
 title: Data-État
 contact: julien.kounowski@bretagne.gouv.fr
 accessibility_status: partiellement conforme

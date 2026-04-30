@@ -3,7 +3,7 @@ title: NC Connect
 mission: Simplifier l'accès aux services publics numériques calédoniens
 sponsors:
   - /organisations/nouvelle-caledonie
-incubator: dinum
+incubator: DINUM
 link: https://connect.gouv.nc/
 contact: connect@gouv.nc
 events:

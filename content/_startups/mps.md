@@ -3,7 +3,7 @@ title: Marchés Publics Simplifiés
 mission: Candidater en ligne à un Marché Public avec uniquement son SIRET
 sponsors:
   - /organisations/dinum
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2014-01-01

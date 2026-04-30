@@ -8,7 +8,7 @@ usertypes:
   - etat
 title: Accidents de la route
 mission: Réduire les accidents de la route
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2024-08-09

@@ -1,6 +1,6 @@
 ---
 mission: Faciliter le travail des agents publics en charge de la gestion des subventions de l'État aux collectivités locales
-incubator: dinum
+incubator: DINUM
 title: 'Turgot '
 contact: dgcl-turgot@dgcl.gouv.fr
 accessibility_status: non conforme

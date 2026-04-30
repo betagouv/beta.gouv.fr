@@ -3,7 +3,7 @@ title: Logement de crise
 mission: Faciliter le travail d’attribution du “bon” logement aux déplacés d’Ukraine
 sponsors:
   - /organisations/dihal
-incubator: dinum
+incubator: DINUM
 phases:
   - name: alumni
     start: 2022-06-09

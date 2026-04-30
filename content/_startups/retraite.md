@@ -3,7 +3,7 @@ title: Mes démarches retraite pas à pas
 mission: Obtenir en quelques clics la liste personnalisée de ses démarches de retraite
 sponsors:
   - /organisations/cnav
-incubator: dinum
+incubator: DINUM
 events:
   - name: end
     date: 2016-12-31

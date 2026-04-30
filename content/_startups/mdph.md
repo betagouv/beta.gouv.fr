@@ -3,7 +3,7 @@ title: MDPH en ligne
 mission: Faciliter les demandes de compensation du handicap auprès des MDPH
 sponsors:
   - /organisations/cnsa
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2014-12-01

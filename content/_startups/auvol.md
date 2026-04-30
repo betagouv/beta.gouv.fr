@@ -3,7 +3,7 @@ title: Saisissez au vol !
 mission: Soutenir les agents qui assurent la sécurité aérienne
 sponsors:
   - /organisations/dgac
-incubator: dinum
+incubator: DINUM
 events:
   - name: end
     date: 2019-10-31

@@ -1,7 +1,7 @@
 ---
 title: Cmachance
 mission: Augmenter le nombre d'apprentis dans l'artisanat
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/cma-haut-de-france
 phases:

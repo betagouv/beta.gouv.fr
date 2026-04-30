@@ -3,7 +3,7 @@ title: OuFaAlim'
 mission: Faciliter la vie des acteurs de la lutte contre la précarité alimentaire
 sponsors:
   - /organisations/solidarite-sante
-incubator: dinum
+incubator: DINUM
 contact: julie.ripa@sante.gouv.fr
 phases:
   - name: investigation

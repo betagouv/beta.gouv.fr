@@ -1,6 +1,6 @@
 ---
 mission: 'Accroitre la visibilité mutuelle des entreprises et des territoires pour des implantations optimisées. '
-incubator: dinum
+incubator: DINUM
 title: Implantation des Entreprises
 contact: anne.devoret@beta.gouv.fr
 accessibility_status: non conforme

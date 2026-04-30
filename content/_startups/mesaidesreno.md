@@ -1,6 +1,6 @@
 ---
 mission: Évaluez vos aides à la rénovation en 3 minutes en fonction de votre situation et de votre projet
-incubator: dinum
+incubator: DINUM
 title: Mes Aides Réno
 contact: louis.laroche@beta.gouv.fr
 accessibility_status: non conforme

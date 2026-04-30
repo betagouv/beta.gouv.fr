@@ -1,6 +1,6 @@
 ---
 mission: Pousser de l’information de prévention de manière ciblée aux citoyens et citoyennes pour limiter les risques de maladie
-incubator: dinum
+incubator: DINUM
 title: API Prévention
 contact: aude.nyadanu@beta.gouv.fr
 accessibility_status: non conforme

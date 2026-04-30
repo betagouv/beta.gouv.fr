@@ -11,7 +11,7 @@ usertypes:
 techno: []
 title: SI commun AT Pro
 mission: 'Permettre à chaque professionnel qui le désire de réussir sa transition professionnelle '
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/dgefp
 phases:

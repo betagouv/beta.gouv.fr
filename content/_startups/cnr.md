@@ -4,7 +4,7 @@ mission: 'Consulter citoyens, élus et corps intermédiaires sur les grandes th�
 sponsors:
   - /organisations/ditp
   - /organisations/hcp
-incubator: dinum
+incubator: DINUM
 link: https://conseil-refondation.fr/
 repository: https://github.com/betagouv/CNR
 contact: cnr@beta.gouv.fr

@@ -1,6 +1,6 @@
 ---
 mission: Aider les agents en recherche de mobilité à identifier les opportunités numériques en inter-ministériel
-incubator: dinum
+incubator: DINUM
 title: Parcours interministériel du numérique PINUM
 contact: stephanie.dubois@modernisation.gouv.fr
 accessibility_status: non conforme

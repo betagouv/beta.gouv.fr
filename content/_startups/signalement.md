@@ -3,7 +3,7 @@ title: SignalConso
 mission: Faire baisser le nombre d'anomalies rencontrées par les consommateurs
 sponsors:
   - /organisations/dgccrf
-incubator: dinum
+incubator: DINUM
 phases:
   - name: investigation
     start: 2018-06-18

@@ -1,6 +1,6 @@
 ---
 mission: Favoriser le rapprochement lycées professionnels/entreprises
-incubator: dinum
+incubator: DINUM
 title: MonLycéePro
 contact: charles.herbaut@beta.gouv.fr
 accessibility_status: non conforme

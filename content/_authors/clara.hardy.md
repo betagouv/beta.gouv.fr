@@ -4,7 +4,7 @@ domaine: Support
 role: CHARGÉE DE DEPLOIEMENT ET SUPPORT
 missions:
   - start: 2023-12-11
-    end: 2026-08-01
+    end: 2026-10-01
     status: independent
     employer: Immersion Facilitée
     startups:

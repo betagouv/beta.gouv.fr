@@ -3,7 +3,7 @@ title: Déclare Douane
 mission: Déclarer des marchandises achetées à l'étranger en arrivant en France
 sponsors:
   - /organisations/dgddi
-incubator: dinum
+incubator: DINUM
 contact: julien.ramon@douane.finances.gouv.fr
 usertypes:
   - particulier

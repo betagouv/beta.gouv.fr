@@ -3,7 +3,7 @@ title: Portail RSE
 mission: Un chemin unique pour connaître et répondre à ses obligations RSE
 sponsors:
   - /organisations/dge
-incubator: dinum
+incubator: DINUM
 link: https://portail-rse.beta.gouv.fr/
 repository: https://github.com/betagouv/portail-rse
 contact: contact@portail-rse.beta.gouv.fr

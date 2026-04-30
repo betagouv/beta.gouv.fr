@@ -4,7 +4,7 @@ thematiques:
   - Social
 title: 'Gestion de l''Orientation et du Placement des mineurs de l''ASE '
 mission: Trouver rapidement une solution d’accueil adaptée pour chaque enfant protégé
-incubator: dinum
+incubator: DINUM
 sponsors:
   - /organisations/dgcs
 phases:

@@ -3,7 +3,7 @@ title: Reuni
 mission: Permettre aux agents publics d'accéder simplement aux documents qu'ils recherchent
 sponsors:
   - /organisations/dge
-incubator: dinum
+incubator: DINUM
 events:
   - name: end
     date: 2019-12-01
