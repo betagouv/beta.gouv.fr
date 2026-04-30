@@ -26,7 +26,7 @@ missions:
     startups:
       - usine-chatbots
   - start: 2023-05-01
-    end: 2026-04-30
+    end: 2026-09-30
     status: independent
     employer: Fairness
     startups:

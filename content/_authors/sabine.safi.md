@@ -1,11 +1,11 @@
 ---
 fullname: Sabine Safi
-role: Coach / PO
+role: Product owner
 domaine: Produit
 github: sabinesafi
 missions:
   - start: 2019-02-04
-    end: 2026-05-30
+    end: 2026-10-30
     status: independent
     employer: Malt
     startups:
@@ -33,4 +33,5 @@ competences:
   - Croissance
   - Facilitation
   - Product strategy
+link: https://www.linkedin.com/in/sabinesafi/
 ---

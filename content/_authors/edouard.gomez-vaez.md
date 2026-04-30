@@ -9,7 +9,7 @@ competences:
   - Facilitation
 missions:
   - start: 2025-07-15
-    end: 2026-05-29
+    end: 2026-10-29
     status: service
     employer: /ut7
     startups:

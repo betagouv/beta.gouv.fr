@@ -5,7 +5,7 @@ domaine: Développement
 github: nmrgt
 missions:
   - start: 2019-01-28
-    end: 2026-05-01
+    end: 2026-07-29
     status: independent
     employer: Scopopop
     startups:
