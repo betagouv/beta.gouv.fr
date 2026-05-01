@@ -1,6 +1,6 @@
 ---
 fullname: Miguel MOGOLLON
-role: ' '
+role: ' Responsable du marché Produit - La Manufacture'
 domaine: Attributaire
 missions:
   - start: 2024-02-01

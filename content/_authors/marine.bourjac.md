@@ -10,13 +10,13 @@ missions:
     startups:
       - snu
   - start: 2025-10-02
-    end: 2026-05-30
+    end: 2026-10-30
     status: independent
     employer: Malt
     startups:
       - je-deviens-etudiant
   - start: 2026-01-15
-    end: 2026-03-31
+    end: 2026-10-30
     status: independent
     employer: Scopileft
     startups:
