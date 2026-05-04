@@ -1,0 +1,31 @@
+<nav class="fr-sidemenu" role="navigation" aria-labelledby="sidemenu-accompagnements">
+  <div class="fr-sidemenu__inner">
+    <button aria-expanded="false" aria-controls="sidemenu-wrapper" type="button" class="fr-sidemenu__btn">Dans cette rubrique</button>
+    <div class="fr-collapse" id="sidemenu-wrapper">
+      <p class="fr-sidemenu__title" id="sidemenu-accompagnements"></p>
+      <ul class="fr-sidemenu__list">
+        <li class="fr-sidemenu__item">
+          <button aria-current="true" aria-expanded="true" aria-controls="sidemenu-1" type="button" class="fr-sidemenu__btn">Programme de consolidation</button>
+          <div class="fr-collapse" id="sidemenu-1">
+            <ul class="fr-sidemenu__list">
+              {% for item in site.data.menu.accompagnements %}
+                <li class="fr-sidemenu__item">
+                  <a
+                      href="{{ item.target }}"
+                      class="fr-sidemenu__link"
+                      {% if page.url == item.target %}
+                          aria-current="true"
+                      {% endif %}
+                  >
+
+                    {{ item.label }}
+                  </a>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

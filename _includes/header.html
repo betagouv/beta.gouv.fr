@@ -92,8 +92,9 @@
                 <div class="fr-collapse fr-menu" id="menu-{{ item.label | slugify }}">
                   <ul class="fr-menu__list">
                     {% for child in item.children %}
+                    {% assign target = site.pages | find:"path",child.target %}
                       <li>
-                        <a class="fr-nav__link" href="{{ child.target }}" target="_self">{{ child.label }}</a>
+                        <a class="fr-nav__link" href="{{ target.url }}" target="_self">{{ child.label }}</a>
                       </li>
                     {% endfor %}
                   </ul>
