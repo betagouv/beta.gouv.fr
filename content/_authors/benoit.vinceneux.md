@@ -15,7 +15,7 @@ missions:
     startups:
       - datalma
   - start: 2026-01-01
-    end: 2026-05-31
+    end: 2026-09-30
     status: admin
     employer: Direction interministérielle du numérique
     startups:

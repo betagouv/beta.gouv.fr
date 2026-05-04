@@ -1,6 +1,6 @@
 ---
 title: Aides-territoires
-mission: Accédez aux meilleures aides pour financer et accompagner vos projets locaux
+mission: Accéder aux meilleures aides pour financer et accompagner vos projets locaux
 sponsors:
   - /organisations/anct
   - /organisations/dgaln

@@ -18,7 +18,7 @@ missions:
     startups:
       - conseillers-entreprises
   - start: 2025-07-16
-    end: 2026-06-01
+    end: 2026-11-02
     status: independent
     employer: Codeurs en Liberté
     startups:

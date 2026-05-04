@@ -7,8 +7,6 @@ competences: []
 missions:
   - start: 2026-04-22
     end: 2026-08-31
-    employer: COBER LA FABRIQUE
     status: service
-    startups: []
-teams: []
+    employer: COBER LA FABRIQUE
 ---

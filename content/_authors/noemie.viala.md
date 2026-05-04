@@ -6,7 +6,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2026-01-01
-    end: 2026-07-20
+    end: 2026-10-31
     status: admin
     employer: OFB
     startups:

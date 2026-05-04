@@ -9,6 +9,7 @@ missions:
     status: independent
     startups:
       - api-engagement
+      - plateforme-de-l-engagement
 badges:
   - segur
 competences: []

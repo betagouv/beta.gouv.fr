@@ -9,9 +9,15 @@ missions:
     status: independent
     employer: DINUM
   - start: 2026-01-01
-    end: 2026-04-30
+    end: 2026-05-15
     status: independent
     employer: MEAE
+  - start: 2026-05-04
+    end: 2026-08-04
+    status: independent
+    employer: MEAE
+    startups:
+      - ecco
 badges:
   - segur
 link: https://www.linkedin.com/in/gladysdiandoki/

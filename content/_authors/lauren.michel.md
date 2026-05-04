@@ -37,8 +37,17 @@ missions:
     end: 2026-06-30
     status: independent
     employer: malt
+  - start: 2025-03-03
+    end: 2026-05-02
+    status: independent
+    employer: malt
     startups:
       - aides-territoires
+  - start: 2025-03-03
+    end: 2026-05-02
+    status: independent
+    employer: malt
+    startups:
       - mon.espace.collectivite
   - start: 2026-04-28
     end: 2026-06-30

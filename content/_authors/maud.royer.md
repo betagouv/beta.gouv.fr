@@ -6,7 +6,7 @@ link: https://maudroyer.fr/
 github: jillro
 missions:
   - start: 2023-04-02
-    end: 2024-07-31
+    end: 2026-08-02
     status: independent
     employer: Scopyleft
     startups:
