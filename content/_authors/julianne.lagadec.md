@@ -23,7 +23,7 @@ missions:
       - pilotagevoiepro
       - sirius
   - start: 2025-03-13
-    end: 2026-04-30
+    end: 2026-05-31
     status: admin
     startups:
       - pass-sport

@@ -11,7 +11,7 @@ missions:
     startups:
       - ozensemble
   - start: 2024-06-01
-    end: 2026-05-10
+    end: 2026-11-01
     status: independent
     employer: UT7
     startups:

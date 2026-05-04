@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-09-19
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
     employer: LBC
     startups:
@@ -18,4 +18,5 @@ competences:
   - Conception supports de communication et formation
   - Formation
   - Tutrice
+  - Droit / Affaires juridiques
 ---
