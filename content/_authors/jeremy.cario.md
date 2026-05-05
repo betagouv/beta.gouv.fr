@@ -8,9 +8,7 @@ competences:
 missions:
   - start: 2026-03-09
     end: 2026-09-09
-    employer: DOCAPOSTE LA MANUFACTURE
     status: service
-    startups: []
-teams: []
+    employer: DOCAPOSTE LA MANUFACTURE
 ---
 Directeur de comptes chez Docaposte, je pilote le marché DINUM Beta aux côtés de La Manufacture sur le lot 1 du marché produit

@@ -6,7 +6,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-12-19
-    end: 2026-05-31
+    end: 2026-11-30
     status: admin
     employer: non applicable
     startups:

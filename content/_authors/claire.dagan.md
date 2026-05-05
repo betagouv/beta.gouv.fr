@@ -5,7 +5,7 @@ domaine: Développement
 github: claire2212
 missions:
   - start: 2023-03-29
-    end: 2026-06-01
+    end: 2026-11-01
     status: independent
     employer: Malt
     startups:

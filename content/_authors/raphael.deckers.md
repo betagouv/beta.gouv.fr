@@ -6,7 +6,7 @@ link: https://entropeak.fr
 github: kezakool
 missions:
   - start: 2024-01-15
-    end: 2026-06-01
+    end: 2026-10-31
     status: independent
     employer: Octo
     startups:

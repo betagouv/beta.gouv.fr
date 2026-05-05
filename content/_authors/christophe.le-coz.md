@@ -5,7 +5,7 @@ domaine: Autre
 competences: []
 missions:
   - start: 2026-03-18
-    end: 2026-06-18
+    end: 2026-12-18
     status: admin
     employer: FabNum-MI      DTNUM SDID
     startups:

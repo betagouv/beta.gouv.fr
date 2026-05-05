@@ -1,6 +1,6 @@
 ---
 title: Aidants Connect
-mission: Accompagnez vos usagers en toute sécurité
+mission: Accompagner vos usagers en toute sécurité
 sponsors:
   - /organisations/anct
 incubator: anct

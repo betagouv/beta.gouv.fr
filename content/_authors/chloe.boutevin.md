@@ -27,6 +27,12 @@ missions:
     employer: La Ruche Numérique
     startups:
       - transparence-prix
+  - start: 2026-05-04
+    end: 2027-08-04
+    status: admin
+    employer: Ministère de la Culture
+    startups:
+      - archeolog-ia
 memberType: beta
 competences: []
 ---

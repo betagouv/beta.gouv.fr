@@ -14,13 +14,11 @@ sponsors:
   - /organisations/meae
 phases:
   - name: investigation
-    comment: null
     start: 2026-01-05
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-01-05
+link: ''
 ---
 
 ## Contexte

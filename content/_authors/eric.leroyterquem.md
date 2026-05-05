@@ -5,7 +5,7 @@ role: Développeur web
 github: E-L-T
 missions:
   - start: 2022-09-19
-    end: 2026-05-19
+    end: 2026-10-19
     status: independent
     employer: Dinum
     startups:

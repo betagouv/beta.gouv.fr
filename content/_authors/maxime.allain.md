@@ -1,6 +1,6 @@
 ---
 fullname: Maxime Allain
-role: Développeur | Turgot
+role: Développeur
 domaine: Développement
 github: maximallain
 link: https://www.linkedin.com/in/maxime-allain-497a13b1/
@@ -11,7 +11,7 @@ competences:
   - Python
 missions:
   - start: 2024-12-16
-    end: 2026-05-31
+    end: 2026-09-30
     status: independent
     employer: Scopopop
     startups:
