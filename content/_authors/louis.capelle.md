@@ -12,6 +12,4 @@ missions:
     end: 2026-07-24
     status: independent
     employer: ORDESOFT
-    startups:
-      - e-t-a-p-e
 ---

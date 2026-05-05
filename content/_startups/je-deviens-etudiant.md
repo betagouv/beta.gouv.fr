@@ -1,6 +1,6 @@
 ---
 title: Mon Logement Etudiant
-mission: Faciliter l'accès au logement et aux droits pour les étudiants
+mission: Faciliter l'accès au logement social pour les étudiants
 sponsors:
   - /organisations/mesr
 incubator: dinum
@@ -10,7 +10,9 @@ phases:
   - name: investigation
     start: 2023-10-09
   - name: construction
-    start: 2024-11-05
+    start: 2025-04-01
+  - name: acceleration
+    start: 2026-04-01
 thematiques:
   - Jeunesse
   - Education
@@ -57,3 +59,7 @@ Lancée en novembre 2024, la SE Mon Logement Etudiant a pour objectif à 6 mois 
 - des informations pour préparer leur budget en fonction de leur future ville de résidence.
 
 Nous testerons notre service auprès de futurs étudiants en Ile-de-France et en Auvergne-Rhône-Alpes. Nous mesurerons notre impact via le suivi du Net Promoter Score étudiant (% des futurs étudiants qui sont susceptibles de recommander Mon Logement Etudiant) et via le suivi du % d’étudiants ayant utilisé le simulateur d’aides et déclarant que cela les a aidés à mieux préparer leur budget.
+
+## Impact
+
+En mai 2026, Mon Logement Etudiant référence 640 résidences (hors Crous), soit plus de 58 000 logements sociaux dans plus de 230 villes en France. Le site cumule un total mensuel de plus de 90K visiteurs uniques depuis mars 2026 et nous continuons de nous rendre dans des lycées pour tester le site et l'améliorer en continu. Grâce aux retours usagers, nous avons fait évoluer le produit (espace connecté étudiant, connexion en cours avec Dossier Facile, outil de calcul de budget étudiant,...), faisant passer notre NPS étudiant de +33 (mai 2025 à octobre 2025) à +48 (sur la période novembre 2025 à mars 2026).

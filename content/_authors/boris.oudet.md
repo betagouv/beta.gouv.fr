@@ -5,7 +5,7 @@ domaine: Coaching
 link: https://pathtech.fr/
 missions:
   - start: 2021-10-05
-    end: 2026-06-01
+    end: 2026-11-01
     status: service
     employer: Pathtech
 competences: []

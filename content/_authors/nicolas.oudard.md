@@ -6,10 +6,11 @@ link: https://techilearned.com
 github: kolok
 missions:
   - start: 2021-06-28
-    end: 2026-05-31
+    end: 2026-10-30
     status: independent
     employer: Malt
     startups:
+      - dalo-assist-usagers-et-contentieux
       - quefairedemesobjetsetdechets
 previously:
   - sppnaut
