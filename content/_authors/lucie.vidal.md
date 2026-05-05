@@ -17,14 +17,14 @@ missions:
     startups:
       - anais
   - start: 2025-07-01
-    end: 2026-05-31
+    end: 2026-11-01
     status: independent
     employer: Malt
 memberType: autre
 competences:
-  - Design graphique
   - Product design
   - UI
   - UX
+  - Design graphique
 ---
 Designer

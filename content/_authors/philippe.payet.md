@@ -11,11 +11,10 @@ competences:
 missions:
   - start: 2026-05-04
     end: 2026-08-04
-    employer: DJEPVA
     status: independent
+    employer: DJEPVA
     startups:
       - api-engagement
       - plateforme-de-l-engagement
-teams: []
 ---
 Expert transformation digitale avec plus de 15 ans d'expérience dans le pilotage de projets complexes et l'adoption produit dans le secteur public

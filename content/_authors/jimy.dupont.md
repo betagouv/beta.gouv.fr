@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-04-30
     end: 2026-07-30
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - dossierfacile
-teams: []
 ---

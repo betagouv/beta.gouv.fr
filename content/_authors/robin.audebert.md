@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-05-04
     end: 2026-08-31
-    employer: DGALN
     status: admin
+    employer: DGALN
     startups:
       - dossierfacile
-teams: []
 ---
