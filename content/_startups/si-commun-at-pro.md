@@ -22,6 +22,8 @@ events:
     date: 2026-03-16
     comment: Arrivée de l'intra
 link: ''
+redirect_from:
+  - /startups/e-t-a-p-e
 ---
 ## 🌱 Contexte
 
