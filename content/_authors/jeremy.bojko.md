@@ -5,12 +5,16 @@ domaine: Développement
 github: Jeremy-Bojko
 missions:
   - start: 2024-01-08
-    end: 2026-06-01
+    end: 2026-10-30
     status: independent
     employer: Malt
     startups:
       - recommandations-collaboratives
       - urbanvitaliz
 memberType: beta
-competences: []
+competences:
+  - Développement Frontend
+  - Accessibilité
+  - UI
+  - JavaScript/TypeScript
 ---

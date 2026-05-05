@@ -5,6 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/jérémy-leterme-ba919b244/?skipRedirect=true
 competences:
   - Administration Publique
+  - Droit / Affaires juridiques
 missions:
   - start: 2026-05-04
     end: 2026-10-04
@@ -13,3 +14,4 @@ missions:
     startups:
       - dalo-assist-usagers-et-contentieux
 ---
+Juriste 
