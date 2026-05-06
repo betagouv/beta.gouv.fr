@@ -13,9 +13,11 @@ module Beta
     PHASES = %w[investigation
                 construction
                 acceleration
-                alumni
-                transfer
-                success].freeze
+                perennisation
+                transfere
+                opere
+                abandon
+                abandon-investigation].freeze
 
     PHASES.each do |phase|
       define_method "#{phase}_phase" do

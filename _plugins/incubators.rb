@@ -5,7 +5,7 @@ module Jekyll
   # - investigation
   # - construction
   # - acceleration
-  # - transfer
+  # - perennisation
   #
   # we add an exception to always consider the main incubator at the top of the list
   module ActiveStartupsFilter
@@ -29,14 +29,14 @@ module Jekyll
     def count_incubator_active_startups(incubator, startups)
       startups.count do |startup|
         "/incubateurs/#{startup['incubator']}" === incubator.id &&
-          %w[investigation construction acceleration transfer].include?(get_phase(startup))
+          %w[investigation construction acceleration perennisation].include?(get_phase(startup))
       end
     end
 
     def count_all_active_startups(startups)
       startups.count do |startup|
-        %w[investigation construction acceleration transfer
-           success].include?(get_phase(startup))
+        %w[investigation construction acceleration perennisation
+           transfere opere].include?(get_phase(startup))
       end
     end
 

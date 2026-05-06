@@ -146,7 +146,8 @@ const updateCards = (data) => {
     const grid = phaseElement.getElementsByClassName("startups")[0];
     const documentFragment = document.createDocumentFragment();
     const dataToDisplay = filterCards(data[phase]);
-    if (phase !== "alumni") {
+    const currentPhase = phases.find((p) => p.status === phase);
+    if (!currentPhase || currentPhase.group !== "alumni") {
       count = count + dataToDisplay.length;
     }
     if (!dataToDisplay.length) {
@@ -181,12 +182,11 @@ const updateCards = (data) => {
       phaseCounter.innerText = dataToDisplay.length;
     }
     const phaseLabel = phaseElement.getElementsByClassName("phase-label")[0];
-    if (phaseLabel) {
-      const currentPhase = phases.filter((p) => p.status === phase)[0];
+    if (phaseLabel && currentPhase) {
       const plural = dataToDisplay.length > 1 ? "s" : "";
-      if (currentPhase.status === "success") {
+      if (currentPhase.group === "success") {
         phaseLabel.innerText = `${currentPhase.type_label.toLowerCase()}s`;
-      } else if (currentPhase.status === "alumni") {
+      } else if (currentPhase.group === "alumni") {
         phaseLabel.innerText = currentPhase.label.toLowerCase();
       } else {
         phaseLabel.innerText = currentPhase.type_label + plural;
