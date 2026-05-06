@@ -42,7 +42,7 @@ phases:
   - name: acceleration
     start: 2018-03-04
     end: 2023-01-17
-  - name: success
+  - name: transfere
     start: 2023-01-17
 accessibility_status: non conforme
 thematiques:

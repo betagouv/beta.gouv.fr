@@ -8,7 +8,7 @@ sponsors:
 phases:
   - name: construction
     start: 2023-06-01
-  - name: alumni
+  - name: transfere
     start: 2026-05-02
 thematiques:
   - Sécurité informatique

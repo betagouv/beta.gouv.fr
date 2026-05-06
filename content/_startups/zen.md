@@ -5,15 +5,15 @@ sponsors:
   - /organisations/francetravail
 incubator: francetravail
 phases:
-  - name: investigation
-    start: 2018-04-01
   - name: construction
+    start: 2018-04-01
+  - name: investigation
     start: 2018-04-01
   - name: acceleration
     start: 2019-06-01
-  - name: transfer
+  - name: perennisation
     start: 2020-09-01
-  - name: alumni
+  - name: abandon
     start: 2021-11-01
 link: https://zen.pole-emploi.fr
 stats: false

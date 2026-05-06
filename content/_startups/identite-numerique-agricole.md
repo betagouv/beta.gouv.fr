@@ -13,7 +13,7 @@ usertypes:
 sponsors:
   - /organisations/service-du-numerique-du-ministere-de-l-agriculture-et-de-la-souverainete-alimentaire
 phases:
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-06-18
   - name: investigation
     start: 2025-02-20

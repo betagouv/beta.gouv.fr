@@ -9,9 +9,9 @@ phases:
     start: 2019-01-25
   - name: construction
     start: 2020-01-25
-  - name: transfer
+  - name: perennisation
     start: 2022-09-01
-  - name: alumni
+  - name: abandon
     start: 2024-08-21
 usertypes:
   - etat

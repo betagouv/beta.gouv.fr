@@ -7,9 +7,9 @@ incubator: dinum
 phases:
   - name: construction
     start: 2022-12-01
-  - name: transfer
+  - name: perennisation
     start: 2024-12-31
-  - name: alumni
+  - name: abandon
     start: 2025-03-31
 repository: https://github.com/mission-apprentissage/sirius
 contact: contact-sirius@inserjeunes.beta.gouv.fr

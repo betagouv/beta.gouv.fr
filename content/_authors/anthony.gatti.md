@@ -28,7 +28,7 @@ missions:
     startups:
       - lucca
   - start: 2026-01-19
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
     employer: Malt
     startups:

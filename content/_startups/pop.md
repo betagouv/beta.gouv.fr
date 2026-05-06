@@ -12,9 +12,9 @@ phases:
     start: 2023-01-01
   - name: acceleration
     start: 2024-01-01
-  - name: transfer
+  - name: perennisation
     start: 2026-04-06
-  - name: success
+  - name: transfere
     start: 2026-12-18
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop

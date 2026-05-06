@@ -17,9 +17,9 @@ phases:
     start: 2020-06-04
   - name: acceleration
     start: 2022-01-01
-  - name: transfer
+  - name: perennisation
     start: 2025-01-01
-  - name: alumni
+  - name: transfere
     start: 2026-01-31
 dashlord_url: https://dashlord.incubateur.net/url/opentermsarchive-org/
 accessibility_status: non conforme

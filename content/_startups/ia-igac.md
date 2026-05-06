@@ -16,7 +16,7 @@ phases:
     start: 2025-01-15
   - name: construction
     start: 2025-04-08
-  - name: alumni
+  - name: abandon
     start: 2025-07-21
 events:
   - name: committee

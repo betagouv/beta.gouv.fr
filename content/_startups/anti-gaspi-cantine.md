@@ -7,7 +7,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2020-01-14
-  - name: alumni
+  - name: abandon-investigation
     start: 2021-08-23
 stats: false
 contact: contactincubateur@anct.gouv.fr

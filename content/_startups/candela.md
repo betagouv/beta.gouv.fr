@@ -7,7 +7,7 @@ incubator: fabrique-dgfip
 contact: dtnum.culture-numerique.Innover@dgfip.finances.gouv.fr
 stats: true
 phases:
-  - name: alumni
+  - name: abandon-investigation
     start: 2021-07-09
     end: 2021-10-15
 usertypes:

@@ -13,7 +13,7 @@ phases:
     start: 2023-05-01
   - name: construction
     start: 2023-11-01
-  - name: alumni
+  - name: abandon
     start: 2025-02-07
 link: https://mediationlogement.beta.gouv.fr/
 repository: https://github.com/betagouv/mediation-logement

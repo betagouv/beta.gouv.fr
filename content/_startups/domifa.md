@@ -17,7 +17,7 @@ phases:
   - name: acceleration
     start: 2020-01-01
     end: 2023-01-17
-  - name: success
+  - name: transfere
     start: 2023-01-17
 fast:
   promotion: 17

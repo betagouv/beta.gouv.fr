@@ -11,7 +11,7 @@ phases:
     start: 2023-02-15
   - name: construction
     start: 2024-06-14
-  - name: alumni
+  - name: abandon
     start: 2024-08-01
 thematiques:
   - Formation

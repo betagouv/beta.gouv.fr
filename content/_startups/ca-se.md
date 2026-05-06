@@ -20,7 +20,7 @@ phases:
     start: 2025-09-01
   - name: acceleration
     start: 2025-11-01
-  - name: alumni
+  - name: abandon
     start: 2026-02-28
 events:
   - name: product_launch

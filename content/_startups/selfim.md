@@ -25,7 +25,7 @@ sponsors:
 phases:
   - name: construction
     start: 2017-09-14
-  - name: alumni
+  - name: abandon
     start: 2023-10-14
 events:
   - name: product_launch

@@ -7,7 +7,7 @@ sponsors:
 phases:
   - name: construction
     start: 2020-03-15
-  - name: alumni
+  - name: abandon
     start: 2020-11-30
 link: https://www.cmachance.fr/
 stats: false

@@ -12,7 +12,7 @@ phases:
     end: 2022-11-08
   - name: construction
     start: 2023-12-15
-  - name: alumni
+  - name: abandon
     start: 2024-12-13
 thematiques:
   - Jeunesse

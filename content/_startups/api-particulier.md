@@ -9,7 +9,7 @@ phases:
     start: 2015-01-01
   - name: investigation
     start: 2015-10-11
-  - name: success
+  - name: opere
     start: 2020-01-01
 usertypes:
   - etat

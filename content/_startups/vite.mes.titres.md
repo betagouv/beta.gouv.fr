@@ -9,7 +9,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-12
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-04-01
 thematiques:
   - Administratif

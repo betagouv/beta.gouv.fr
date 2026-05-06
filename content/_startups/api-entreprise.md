@@ -5,11 +5,11 @@ sponsors:
   - /organisations/dinum
 incubator: dinum_produits_interministeriels
 phases:
-  - name: investigation
-    start: 2014-01-01
   - name: construction
     start: 2014-01-01
-  - name: success
+  - name: investigation
+    start: 2014-01-01
+  - name: opere
     start: 2019-09-01
 link: https://entreprise.api.gouv.fr/
 repository: https://github.com/etalab/siade

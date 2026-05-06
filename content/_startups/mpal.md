@@ -5,11 +5,11 @@ sponsors:
   - /organisations/anah
 incubator: dinum
 phases:
-  - name: investigation
-    start: 2016-05-01
   - name: construction
     start: 2016-05-01
-  - name: alumni
+  - name: investigation
+    start: 2016-05-01
+  - name: abandon
     start: 2020-07-01
 link: https://monprojet.anah.gouv.fr/
 stats: true

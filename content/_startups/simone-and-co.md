@@ -8,7 +8,7 @@ phases:
   - name: investigation
     start: 2019-11-01
     end: 2020-01-20
-  - name: alumni
+  - name: abandon-investigation
     start: 2020-01-20
 stats: false
 contact: vikieache@gmail.com

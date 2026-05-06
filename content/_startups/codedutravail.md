@@ -11,7 +11,7 @@ phases:
     start: 2018-05-01
   - name: acceleration
     start: 2019-01-01
-  - name: success
+  - name: opere
     start: 2021-01-01
 link: https://code.travail.gouv.fr
 repository: https://github.com/SocialGouv/code-du-travail-numerique

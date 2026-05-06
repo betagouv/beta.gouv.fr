@@ -28,9 +28,9 @@ phases:
     end: 2022-03-31
   - name: acceleration
     start: 2022-04-01
-  - name: transfer
+  - name: perennisation
     start: 2023-10-04
-  - name: success
+  - name: transfere
     start: 2025-04-01
 fast:
   promotion: 12

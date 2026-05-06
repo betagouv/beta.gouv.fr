@@ -14,7 +14,7 @@ phases:
   - name: construction
     start: 2018-07-01
     end: 2019-12-01
-  - name: alumni
+  - name: abandon
     start: 2019-12-01
 link: https://education-artistique-culturelle.fr
 repository: https://github.com/betagouv/eac

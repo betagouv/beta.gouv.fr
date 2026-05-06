@@ -29,9 +29,9 @@ phases:
     end: 2021-03-08
   - name: acceleration
     start: 2021-11-01
-  - name: transfer
+  - name: perennisation
     start: 2025-05-01
-  - name: success
+  - name: transfere
     start: 2025-07-01
 accessibility_status: non conforme
 fast:

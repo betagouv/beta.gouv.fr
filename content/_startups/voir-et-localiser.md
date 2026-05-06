@@ -15,7 +15,7 @@ phases:
   - name: construction
     start: 2019-01-01
     end: 2019-10-01
-  - name: alumni
+  - name: abandon
     start: 2019-10-01
 contact: contact@voir-et-localiser.beta.gouv.fr
 usertypes:

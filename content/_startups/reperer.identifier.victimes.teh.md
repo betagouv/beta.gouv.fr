@@ -13,7 +13,7 @@ usertypes:
 phases:
   - name: investigation
     start: 2024-02-10
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-09-30
 thematiques: []
 techno: []

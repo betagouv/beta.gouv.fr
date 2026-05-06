@@ -13,7 +13,7 @@ events:
 phases:
   - name: investigation
     start: 2021-05-03
-  - name: alumni
+  - name: abandon-investigation
     start: 2022-01-31
 ---
 ## Arrêt du dispositif

@@ -12,10 +12,7 @@ phases:
   - name: investigation
     start: 2022-01-17
     end: 2022-06-01
-  - name: alumni
-    start: 2022-06-02
-    end: 2023-01-12
-  - name: transfer
+  - name: abandon
     start: 2023-01-12
 link: ''
 ---

@@ -8,7 +8,7 @@ contact: infoparquet@beta.gouv.fr
 phases:
   - name: investigation
     start: 2021-05-31
-  - name: success
+  - name: transfere
     start: 2023-07-20
 usertypes:
   - etat

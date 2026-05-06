@@ -7,7 +7,7 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2020-09-07
-  - name: alumni
+  - name: abandon-investigation
     start: 2020-11-30
 stats: false
 contact: contact@beta.gouv.fr

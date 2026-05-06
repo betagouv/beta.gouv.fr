@@ -12,7 +12,7 @@ phases:
   - name: construction
     start: 2017-01-01
     end: 2017-08-31
-  - name: alumni
+  - name: abandon
     start: 2020-08-01
 events:
   - name: product_launch

@@ -16,7 +16,7 @@ phases:
     start: 2021-12-20
   - name: acceleration
     start: 2024-01-01
-  - name: alumni
+  - name: transfere
     start: 2025-01-22
 thematiques:
   - Administratif

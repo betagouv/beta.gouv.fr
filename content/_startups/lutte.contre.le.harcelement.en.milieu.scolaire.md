@@ -9,7 +9,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2023-12-11
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-06-01
 thematiques:
   - Jeunesse

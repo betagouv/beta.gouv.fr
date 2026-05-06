@@ -11,13 +11,13 @@ usertypes:
 stats_url: https://maintenant.pole-emploi.fr/stats.html
 stats: true
 phases:
-  - name: investigation
-    start: 2016-02-02
   - name: construction
     start: 2016-02-02
-  - name: success
+  - name: investigation
+    start: 2016-02-02
+  - name: transfere
     start: 2022-12-30
-  - name: alumni
+  - name: abandon
     start: 2023-02-08
 ---
 ## Recrutez des gens, pas des CV !

@@ -23,9 +23,9 @@ phases:
     end: 2022-09-20
   - name: acceleration
     start: 2022-09-20
-  - name: transfer
+  - name: perennisation
     start: 2024-08-01
-  - name: alumni
+  - name: transfere
     start: 2024-12-06
 analyse_risques: true
 thematiques:

@@ -18,13 +18,13 @@ events:
   - name: national_impact
     date: 2017-01-01
 phases:
-  - name: investigation
-    start: 2015-05-01
   - name: construction
+    start: 2015-05-01
+  - name: investigation
     start: 2015-05-01
   - name: acceleration
     start: 2023-01-19
-  - name: success
+  - name: transfere
     start: 2024-12-01
 stats_url: https://labonneboite.francetravail.fr/stats
 thematiques:

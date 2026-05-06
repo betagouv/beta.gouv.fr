@@ -15,7 +15,7 @@ phases:
   - name: construction
     start: 2018-12-31
     end: 2019-04-30
-  - name: alumni
+  - name: abandon
     start: 2019-04-30
 stats: false
 contact: jean-michel.coste@developpement-durable.gouv.fr

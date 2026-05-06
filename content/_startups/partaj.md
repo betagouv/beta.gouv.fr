@@ -5,11 +5,11 @@ sponsors:
   - /organisations/mtes
 incubator: mtes
 phases:
-  - name: investigation
-    start: 2019-11-01
   - name: construction
     start: 2019-11-01
-  - name: transfer
+  - name: investigation
+    start: 2019-11-01
+  - name: transfere
     start: 2021-09-01
 link: https://partaj.beta.gouv.fr
 repository: https://github.com/MTES-MCT/partaj

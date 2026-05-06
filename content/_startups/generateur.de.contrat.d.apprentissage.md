@@ -11,7 +11,7 @@ phases:
     start: 2021-01-01
   - name: construction
     start: 2023-09-01
-  - name: alumni
+  - name: abandon
     start: 2024-04-01
 link: https://contrat.apprentissage.beta.gouv.fr/
 thematiques: []
