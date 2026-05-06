@@ -9,9 +9,9 @@ phases:
     start: 2019-05-13
   - name: construction
     start: 2019-09-01
-  - name: transfer
+  - name: perennisation
     start: 2020-12-15
-  - name: alumni
+  - name: transfere
     start: 2021-12-31
 events:
   - name: end

@@ -8,7 +8,7 @@ phases:
   - name: construction
     start: 2020-04-01
     end: 2021-12-31
-  - name: alumni
+  - name: abandon
     start: 2021-12-31
 stats: false
 contact: ateliernumerique@culture.gouv.fr

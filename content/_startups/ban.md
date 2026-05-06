@@ -31,15 +31,15 @@ events:
   - name: committee
     date: 2024-10-16
 phases:
-  - name: investigation
-    start: 2014-06-01
   - name: construction
+    start: 2014-06-01
+  - name: investigation
     start: 2014-06-01
   - name: acceleration
     start: 2018-01-01
-  - name: transfer
+  - name: perennisation
     start: 2021-05-05
-  - name: success
+  - name: transfere
     start: 2023-06-30
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#Base-Adresse-Nationale
 thematiques:

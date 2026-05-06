@@ -20,10 +20,10 @@ phases:
   - name: construction
     start: 2014-05-01
     end: 2017-03-10
-  - name: success
+  - name: transfere
     start: 2017-03-10
     end: 2020-03-03
-  - name: alumni
+  - name: abandon
     start: 2020-03-03
 thematiques: []
 techno: []

@@ -16,7 +16,7 @@ phases:
     start: 2019-09-01
   - name: acceleration
     start: 2021-01-01
-  - name: alumni
+  - name: abandon
     start: 2024-02-29
 usertypes:
   - particulier

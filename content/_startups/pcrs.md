@@ -15,7 +15,7 @@ phases:
     start: 2022-09-30
   - name: acceleration
     start: 2023-10-01
-  - name: alumni
+  - name: abandon
     start: 2025-12-30
 thematiques:
   - Collectivités

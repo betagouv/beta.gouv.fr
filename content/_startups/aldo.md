@@ -12,7 +12,7 @@ phases:
   - name: investigation
     start: 2023-02-23
     end: 2023-06-07
-  - name: alumni
+  - name: abandon-investigation
     start: 2023-06-07
 ---
 ## Contexte

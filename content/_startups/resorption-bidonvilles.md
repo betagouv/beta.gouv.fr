@@ -18,7 +18,7 @@ phases:
     end: 2020-08-31
   - name: acceleration
     start: 2020-09-01
-  - name: transfer
+  - name: transfere
     start: 2021-09-01
 usertypes:
   - collectivite-territoriale

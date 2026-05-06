@@ -19,7 +19,7 @@ phases:
     end: 2021-06-01
   - name: acceleration
     start: 2021-06-01
-  - name: transfer
+  - name: abandon
     start: 2023-06-22
 redirect_from:
   - /startups/ecosante

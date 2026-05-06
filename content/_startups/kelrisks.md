@@ -5,13 +5,13 @@ sponsors:
   - /organisations/mtes
 incubator: mtes
 phases:
-  - name: investigation
-    start: 2018-11-05
   - name: construction
     start: 2018-11-05
-  - name: transfer
+  - name: investigation
+    start: 2018-11-05
+  - name: perennisation
     start: 2020-03-01
-  - name: alumni
+  - name: transfere
     start: 2020-07-10
 events:
   - name: end

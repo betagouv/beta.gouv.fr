@@ -12,7 +12,7 @@ phases:
     start: 2019-05-16
   - name: construction
     start: 2019-09-15
-  - name: alumni
+  - name: abandon
     start: 2020-05-15
 repository: https://github.com/betagouv/andi
 stats: true

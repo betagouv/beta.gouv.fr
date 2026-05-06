@@ -10,7 +10,7 @@ phases:
     start: 2021-10-07
   - name: construction
     start: 2022-01-17
-  - name: alumni
+  - name: abandon
     start: 2023-06-30
 link: https://sppnaut.beta.gouv.fr/
 stats: false

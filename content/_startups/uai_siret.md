@@ -14,10 +14,10 @@ phases:
   - name: construction
     start: 2022-01-01
     end: 2022-08-29
-  - name: transfer
+  - name: perennisation
     start: 2022-08-29
     end: 2022-10-30
-  - name: success
+  - name: transfere
     start: 2022-10-17
 usertypes:
   - etat

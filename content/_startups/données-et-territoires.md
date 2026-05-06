@@ -10,7 +10,7 @@ phases:
     end: 2022-01-01
   - name: construction
     start: 2022-01-01
-  - name: transfer
+  - name: perennisation
     start: 2026-01-01
 link: https://donnees.incubateur.anct.gouv.fr
 repository: https://gitlab.donnees.incubateur.anct.gouv.fr/infrastructure/

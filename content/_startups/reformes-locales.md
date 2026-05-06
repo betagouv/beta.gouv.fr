@@ -8,7 +8,7 @@ phases:
   - name: investigation
     start: 2023-01-13
     end: 2023-05-02
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-04-23
 stats: false
 contact: reformes-locales@anct.gouv.fr

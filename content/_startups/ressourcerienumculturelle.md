@@ -7,7 +7,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2022-04-01
-  - name: alumni
+  - name: abandon-investigation
     start: 2023-04-02
 stats: false
 contact: ateliernumerique.snum@culture.gouv.fr

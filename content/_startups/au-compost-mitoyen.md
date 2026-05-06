@@ -16,7 +16,7 @@ phases:
     start: 2019-06-03
   - name: construction
     start: 2019-09-03
-  - name: alumni
+  - name: abandon
     start: 2021-09-01
 usertypes:
   - particulier

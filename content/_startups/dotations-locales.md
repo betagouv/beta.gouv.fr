@@ -14,7 +14,7 @@ phases:
     end: 2022-07-01
   - name: acceleration
     start: 2022-07-01
-  - name: alumni
+  - name: abandon
     start: 2024-01-01
 usertypes:
   - collectivite-territoriale

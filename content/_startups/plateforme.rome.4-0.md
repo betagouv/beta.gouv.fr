@@ -9,10 +9,8 @@ accessibility_status: non conforme
 phases:
   - name: construction
     start: 2023-01-20
-  - name: success
+  - name: abandon
     start: 2023-10-20
-  - name: alumni
-    start: 2024-01-01
 thematiques:
   - Travail / Emploi
 usertypes: []

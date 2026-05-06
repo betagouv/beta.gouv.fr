@@ -9,9 +9,9 @@ phases:
     start: 2020-04-01
   - name: acceleration
     start: 2022-09-15
-  - name: transfer
+  - name: perennisation
     start: 2023-04-01
-  - name: success
+  - name: transfere
     start: 2023-07-01
 link: https://euphrosyne.beta.gouv.fr/
 repository: https://github.com/betagouv/euphrosyne/

@@ -13,13 +13,13 @@ usertypes:
   - particulier
 stats: true
 phases:
-  - name: investigation
-    start: 2015-05-01
   - name: construction
     start: 2015-05-01
-  - name: success
+  - name: investigation
+    start: 2015-05-01
+  - name: transfere
     start: 2022-11-30
-  - name: alumni
+  - name: abandon
     start: 2023-10-20
 ---
 Objectif atteint pour le premier annuaire complet des formations en France ! La bonne formation a aidé depuis son lancement des millions d'actifs à faire le meilleur choix avec des infos clés par formation : Taux de Retour à l'Emploi, avis des anciens stagiaires, offres d'emploi associées, outil d'immersion pour découvrir un métier avant de se lancer.

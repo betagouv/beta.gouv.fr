@@ -21,10 +21,10 @@ phases:
     end: 2022-12-31
   - name: acceleration
     start: 2023-01-01
-  - name: transfer
+  - name: perennisation
     start: 2023-04-01
     end: 2023-06-30
-  - name: success
+  - name: transfere
     start: 2023-07-01
 ---
 ## **Retour sur l’investigation**

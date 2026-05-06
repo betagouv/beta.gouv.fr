@@ -12,9 +12,9 @@ phases:
     start: 2018-02-28
   - name: acceleration
     start: 2019-07-22
-  - name: transfer
+  - name: perennisation
     start: 2019-07-22
-  - name: success
+  - name: transfere
     start: 2021-05-01
 events:
   - name: national_impact

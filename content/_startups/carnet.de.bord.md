@@ -27,7 +27,7 @@ phases:
   - name: acceleration
     start: 2021-11-01
     end: 2022-04-30
-  - name: alumni
+  - name: abandon
     start: 2023-12-01
 thematiques: []
 techno: []

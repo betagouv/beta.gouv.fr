@@ -5,13 +5,11 @@ sponsors:
   - /organisations/dinum
 incubator: dinum_produits_interministeriels
 phases:
-  - name: investigation
-    start: 2016-01-25
   - name: construction
     start: 2016-01-25
-  - name: success
-    start: 2020-07-01
-  - name: transfer
+  - name: investigation
+    start: 2016-01-25
+  - name: transfere
     start: 2025-01-08
 link: https://api.gouv.fr
 repository: https://github.com/betagouv/api.gouv.fr

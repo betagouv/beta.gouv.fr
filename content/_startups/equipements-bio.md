@@ -21,7 +21,7 @@ phases:
     start: 2024-12-16
   - name: investigation
     start: 2025-05-27
-  - name: alumni
+  - name: abandon-investigation
     start: 2025-11-27
 events:
   - name: product_launch

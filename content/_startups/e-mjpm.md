@@ -19,7 +19,7 @@ phases:
     start: 2018-04-01
   - name: acceleration
     start: 2020-09-01
-  - name: success
+  - name: transfere
     start: 2022-09-01
 usertypes:
   - etat

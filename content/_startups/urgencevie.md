@@ -9,7 +9,7 @@ stats: false
 phases:
   - name: investigation
     start: 2021-05-12
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-08-21
 thematiques:
   - Santé

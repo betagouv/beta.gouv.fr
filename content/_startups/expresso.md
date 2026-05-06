@@ -12,7 +12,7 @@ phases:
     start: 2022-09-01
   - name: acceleration
     start: 2024-04-03
-  - name: alumni
+  - name: abandon
     start: 2024-11-27
 thematiques:
   - Travail / Emploi

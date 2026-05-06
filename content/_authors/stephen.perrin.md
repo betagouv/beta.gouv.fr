@@ -6,7 +6,7 @@ link: https://www.stephenperrin.fr/
 github: stephenfreelance
 missions:
   - start: 2024-01-15
-    end: 2026-05-08
+    end: 2026-11-05
     status: independent
     employer: Le Fabrique
     startups:

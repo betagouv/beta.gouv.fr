@@ -18,9 +18,9 @@ phases:
     end: 2022-03-01
   - name: acceleration
     start: 2022-10-03
-  - name: success
+  - name: transfere
     start: 2023-10-20
-  - name: alumni
+  - name: abandon
     start: 2024-01-01
 analyse_risques: true
 thematiques:

@@ -14,7 +14,7 @@ phases:
   - name: construction
     start: 2019-03-30
     end: 2020-01-01
-  - name: alumni
+  - name: abandon
     start: 2020-01-01
 stats: false
 contact: pierre-yves.darnaudet@ars-sante.fr

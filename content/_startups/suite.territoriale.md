@@ -15,7 +15,7 @@ phases:
     start: 2024-05-29
   - name: acceleration
     start: 2025-06-26
-  - name: success
+  - name: opere
     start: 2026-01-01
 link: https://suiteterritoriale.anct.gouv.fr/
 thematiques:

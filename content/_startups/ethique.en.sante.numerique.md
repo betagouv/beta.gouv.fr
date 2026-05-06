@@ -11,7 +11,7 @@ phases:
     comment: Investigation ko
     start: 2021-09-01
     end: 2022-03-01
-  - name: alumni
+  - name: abandon-investigation
     start: 2022-03-01
 link: ''
 ---

@@ -8,11 +8,11 @@ events:
   - name: end
     date: 2017-12-31
 phases:
-  - name: investigation
-    start: 2016-03-01
   - name: construction
     start: 2016-03-01
-  - name: alumni
+  - name: investigation
+    start: 2016-03-01
+  - name: abandon
     start: 2017-12-31
 link: http://www.opendatalab.fr/urbaclic
 repository: https://github.com/betagouv/urbaclic

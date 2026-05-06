@@ -9,17 +9,17 @@ usertypes:
   - etat
 stats: false
 phases:
+  - name: construction
+    start: 2018-03-01
   - name: investigation
     start: 2018-03-01
     end: 2019-03-01
-  - name: construction
-    start: 2018-03-01
   - name: acceleration
     start: 2019-06-03
-  - name: transfer
+  - name: perennisation
     comment: Audit en cours afin d'évaluer les conditions de la généralisation de Polex à l'ensemble des bureaux de l'éducation routière à partir de la rentrée.
     start: 2021-05-01
-  - name: alumni
+  - name: abandon
     start: 2022-05-02
 link: ''
 ---

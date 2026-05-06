@@ -10,15 +10,15 @@ usertypes:
   - particulier
 stats: true
 phases:
-  - name: investigation
-    start: 2017-05-01
   - name: construction
     start: 2017-05-01
-  - name: transfer
+  - name: investigation
+    start: 2017-05-01
+  - name: perennisation
     start: 2021-06-01
-  - name: success
+  - name: transfere
     start: 2022-11-29
-  - name: alumni
+  - name: abandon
     start: 2023-01-01
 thematiques: []
 techno: []

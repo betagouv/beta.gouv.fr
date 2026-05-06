@@ -12,7 +12,7 @@ phases:
     start: 2019-06-06
   - name: acceleration
     start: 2022-06-06
-  - name: success
+  - name: transfere
     start: 2024-12-20
 link: https://diagoriente.fr/
 repository: https://github.com/betagouv/diagoriente-front

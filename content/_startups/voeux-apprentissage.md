@@ -12,10 +12,10 @@ contact: voeux-affelnet@apprentissage.beta.gouv.fr
 stats_url: https://voeux-affelnet.apprentissage.beta.gouv.fr/stats
 stats: true
 phases:
-  - name: transfer
+  - name: perennisation
     start: 2022-01-01
     end: 2022-06-30
-  - name: success
+  - name: transfere
     start: 2022-07-01
 usertypes:
   - etablissement-scolaire

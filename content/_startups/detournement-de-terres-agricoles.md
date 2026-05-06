@@ -18,7 +18,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-04-08
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-09-12
 techno: []
 link: ''

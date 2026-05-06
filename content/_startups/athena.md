@@ -8,7 +8,7 @@ contact: athena@sgdsn.gouv.fr
 phases:
   - name: investigation
     start: 2021-04-01
-  - name: transfer
+  - name: perennisation
     start: 2022-04-01
   - name: construction
     start: 2022-11-01

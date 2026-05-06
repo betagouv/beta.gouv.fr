@@ -10,7 +10,7 @@ phases:
     end: 2020-01-30
   - name: construction
     start: 2020-01-30
-  - name: alumni
+  - name: abandon
     start: 2020-12-14
 events:
   - name: end

@@ -13,7 +13,7 @@ phases:
   - name: construction
     start: 2019-03-01
     end: 2022-06-30
-  - name: alumni
+  - name: abandon
     start: 2022-06-30
 usertypes:
   - etat

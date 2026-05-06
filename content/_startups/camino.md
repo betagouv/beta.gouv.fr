@@ -18,13 +18,13 @@ link: https://camino.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/camino-beta-gouv-fr/
 phases:
-  - name: investigation
-    start: 2018-01-01
   - name: construction
+    start: 2018-01-01
+  - name: investigation
     start: 2018-01-01
   - name: acceleration
     start: 2023-06-15
-  - name: success
+  - name: transfere
     start: 2024-06-15
 thematiques: []
 techno:

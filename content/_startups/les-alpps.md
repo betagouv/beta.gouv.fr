@@ -5,13 +5,13 @@ sponsors:
   - /organisations/armees
 incubator: kube
 phases:
-  - name: investigation
-    start: 2019-08-01
   - name: construction
     start: 2019-08-01
-  - name: success
+  - name: investigation
+    start: 2019-08-01
+  - name: transfere
     start: 2021-06-01
-  - name: alumni
+  - name: abandon
     start: 2024-08-21
 usertypes:
   - etat
