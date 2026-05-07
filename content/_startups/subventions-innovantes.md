@@ -13,7 +13,7 @@ phases:
   - name: investigation
     start: 2023-05-31
     end: 2023-09-01
-  - name: alumni
+  - name: abandon-investigation
     start: 2023-09-01
 thematiques: []
 techno: []

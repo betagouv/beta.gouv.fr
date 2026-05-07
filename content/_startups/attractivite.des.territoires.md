@@ -10,7 +10,7 @@ events:
   - name: other
     date: 2022-01-11
 phases:
-  - name: alumni
+  - name: abandon-investigation
     start: 2022-01-11
 usertypes:
   - etat

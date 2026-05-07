@@ -11,7 +11,7 @@ phases:
     start: 2023-10-15
   - name: acceleration
     start: 2025-01-01
-  - name: alumni
+  - name: transfere
     start: 2025-09-01
 repository: https://github.com/betagouv/patrinotes/
 thematiques:

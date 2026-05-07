@@ -11,7 +11,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-03-01
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-07-01
 thematiques:
   - Open-Data

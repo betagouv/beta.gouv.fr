@@ -27,7 +27,7 @@ phases:
     start: 2020-09-14
   - name: acceleration
     start: 2021-12-01
-  - name: success
+  - name: opere
     start: 2023-11-01
 thematiques:
   - Collectivités

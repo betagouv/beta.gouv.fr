@@ -9,7 +9,7 @@ phases:
   - name: investigation
     start: 2020-11-15
     end: 2021-03-31
-  - name: alumni
+  - name: abandon-investigation
     comment: Malgré les travaux de la phase d'investigation ayant permis de démontrer un problème et une hypothèse de stratégie à 6 mois, les deux intrapreneurs n'ont malheureusement pas pu être financés et sponsorisés.
     start: 2021-06-04
 usertypes:

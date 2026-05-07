@@ -12,7 +12,7 @@ phases:
     start: 2023-12-01
   - name: construction
     start: 2024-05-01
-  - name: alumni
+  - name: abandon
     start: 2025-01-01
 thematiques:
   - Collectivités

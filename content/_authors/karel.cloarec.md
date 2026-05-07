@@ -60,17 +60,17 @@ missions:
       - frise.cpip
       - rdv.mjd
   - start: 2022-10-01
-    end: 2023-12-01
-    status: independent
-    employer: LBC
-    startups:
-      - monstage
-  - start: 2022-10-01
     end: 2023-02-01
     status: independent
     employer: Octo
     startups:
       - chantiers.agiles
+  - start: 2022-10-01
+    end: 2023-12-01
+    status: independent
+    employer: LBC
+    startups:
+      - monstage
   - start: 2023-01-01
     end: 2023-06-01
     status: independent
@@ -96,11 +96,17 @@ missions:
     startups:
       - tous.a.bord
   - start: 2026-01-19
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
     employer: Malt
     startups:
       - agrements-assistants-maternels-et-familiaux
+  - start: 2026-04-27
+    end: 2026-09-30
+    status: independent
+    employer: Dynergie
+    startups:
+      - pass-sport
 previously:
   - andi
   - urbanvitaliz

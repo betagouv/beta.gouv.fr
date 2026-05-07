@@ -9,7 +9,7 @@ phases:
   - name: investigation
     start: 2019-11-01
     end: 2020-01-31
-  - name: alumni
+  - name: abandon-investigation
     start: 2020-02-01
 usertypes:
   - particulier

@@ -21,7 +21,7 @@ sponsors:
 phases:
   - name: acceleration
     start: 2024-12-01
-  - name: success
+  - name: abandon
     start: 2025-05-31
 events:
   - name: product_launch

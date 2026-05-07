@@ -1,11 +1,11 @@
 ---
 fullname: Magali Marcel
-domaine: Animation
-role: Responsable de portefeuille Agriculture, Economie et Finances publiques.
+domaine: Support
+role: Responsable de partenariat secteur Agriculture, Economie et Finances publiques
 github: magalimarcelgarreau
 missions:
   - start: 2023-10-02
-    end: 2026-06-06
+    end: 2028-06-06
     status: admin
     employer: DINUM
 incubator: dinum
@@ -16,4 +16,5 @@ competences:
   - Gestion de Produit
 teams:
   - /teams/dinum-incubateur
+link: https://www.linkedin.com/in/magali-marcel-garreau/
 ---

@@ -18,7 +18,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-01-15
-  - name: alumni
+  - name: abandon-investigation
     start: 2025-04-08
 events:
   - name: committee

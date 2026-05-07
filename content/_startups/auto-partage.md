@@ -8,7 +8,7 @@ phases:
   - name: investigation
     start: 2020-09-08
     end: 2020-11-30
-  - name: alumni
+  - name: abandon-investigation
     start: 2020-12-01
 stats: false
 contact: contactincubateur@anct.gouv.fr

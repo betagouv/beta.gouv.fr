@@ -8,11 +8,11 @@ events:
   - name: end
     date: 2016-12-31
 phases:
-  - name: investigation
-    start: 2015-10-01
   - name: construction
     start: 2015-10-01
-  - name: alumni
+  - name: investigation
+    start: 2015-10-01
+  - name: abandon
     start: 2016-12-31
 link: https://mesdemarchesretraite.fr
 repository: https://github.com/betagouv/retraite

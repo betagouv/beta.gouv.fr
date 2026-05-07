@@ -11,11 +11,11 @@ events:
     date: 2024-01-01
     comment: Montant de 30000€ pour la promotion 12
 phases:
-  - name: investigation
-    start: 2015-09-15
   - name: construction
     start: 2015-09-15
-  - name: success
+  - name: investigation
+    start: 2015-09-15
+  - name: opere
     start: 2020-07-01
 link: https://demarche.numerique.gouv.fr
 repository: https://github.com/demarche-numerique/demarche.numerique.gouv.fr/

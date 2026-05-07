@@ -17,7 +17,7 @@ phases:
     start: 2022-12-12
   - name: acceleration
     start: 2023-04-04
-  - name: transfer
+  - name: transfere
     start: 2023-12-31
 ---
 ## Le contexte

@@ -5,11 +5,11 @@ sponsors:
   - /organisations/menjs
 incubator: dinum
 phases:
-  - name: investigation
-    start: 2015-01-01
   - name: construction
     start: 2015-01-01
-  - name: alumni
+  - name: investigation
+    start: 2015-01-01
+  - name: transfere
     start: 2020-07-01
 link: https://openacademie.beta.gouv.fr
 repository: https://github.com/betagouv/open-academie

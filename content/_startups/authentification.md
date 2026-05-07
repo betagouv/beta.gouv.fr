@@ -9,7 +9,7 @@ repository: https://github.com/tchapgouv/tchap-identite
 phases:
   - name: construction
     start: 2022-04-01
-  - name: alumni
+  - name: abandon
     start: 2024-01-01
 usertypes:
   - collectivite-territoriale

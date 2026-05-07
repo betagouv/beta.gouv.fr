@@ -9,9 +9,9 @@ missions:
     startups:
       - la-bonne-alternance
   - start: 2025-03-10
-    end: 2026-06-04
+    end: 2026-11-04
     status: independent
-    employer: ut7
+    employer: creme de la creme
     startups:
       - api-and-communs-numeriques-de-la-cour-de-cassation
       - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne

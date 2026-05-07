@@ -11,9 +11,9 @@ phases:
     start: 2020-04-02
   - name: acceleration
     start: 2022-12-31
-  - name: transfer
+  - name: perennisation
     start: 2023-12-31
-  - name: success
+  - name: transfere
     start: 2024-04-23
 link: https://contractuels.civils.defense.gouv.fr/
 repository: https://github.com/betagouv/civilsdeladefense

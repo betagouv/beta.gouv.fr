@@ -5,13 +5,13 @@ sponsors:
   - /organisations/dsr
 incubator: FabNum-MI
 phases:
-  - name: investigation
-    start: 2018-03-01
   - name: construction
+    start: 2018-03-01
+  - name: investigation
     start: 2018-03-01
   - name: acceleration
     start: 2018-07-01
-  - name: success
+  - name: transfere
     start: 2019-07-01
 link: https://histovec.interieur.gouv.fr
 repository: https://github.com/histovec

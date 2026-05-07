@@ -5,11 +5,11 @@ incubator: sgmas
 sponsors:
   - /organisations/dgcs
 phases:
-  - name: investigation
-    start: 2019-06-01
   - name: construction
     start: 2019-06-01
-  - name: alumni
+  - name: investigation
+    start: 2019-06-01
+  - name: abandon
     start: 2020-01-01
 stats: false
 contact: giulia.reboa@jscs.gouv.fr

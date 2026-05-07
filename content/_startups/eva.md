@@ -10,13 +10,13 @@ events:
   - name: national_impact
     date: 2023-12-31
 phases:
-  - name: investigation
-    start: 2018-06-06
   - name: construction
     start: 2018-06-06
-  - name: transfer
+  - name: investigation
+    start: 2018-06-06
+  - name: perennisation
     start: 2021-09-01
-  - name: success
+  - name: transfere
     start: 2023-12-30
 link: https://eva.anlci.gouv.fr/
 repository: https://github.com/betagouv/eva/

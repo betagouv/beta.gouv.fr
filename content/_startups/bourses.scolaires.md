@@ -11,7 +11,7 @@ phases:
     comment: Synthèse des irritants par les utilisateurs et validation des attentes avec solution technique et prototypage du formulaire de demande de bourses à l'aide de Démarches simplifiées
     start: 2022-05-15
     end: 2022-12-06
-  - name: alumni
+  - name: abandon-investigation
     start: 2022-12-07
 link: ''
 ---

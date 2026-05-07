@@ -14,7 +14,7 @@ phases:
     start: 2022-05-14
   - name: acceleration
     start: 2023-10-28
-  - name: alumni
+  - name: transfere
     start: 2025-11-28
 thematiques:
   - Santé

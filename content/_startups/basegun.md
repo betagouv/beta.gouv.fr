@@ -17,7 +17,7 @@ phases:
     end: 2023-06-27
   - name: acceleration
     start: 2023-10-01
-  - name: alumni
+  - name: transfere
     start: 2025-07-24
 thematiques:
   - Administratif

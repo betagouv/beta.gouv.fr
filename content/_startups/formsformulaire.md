@@ -9,7 +9,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-08-21
-  - name: alumni
+  - name: abandon-investigation
     start: 2025-07-24
 thematiques: []
 usertypes: []

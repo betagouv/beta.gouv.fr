@@ -13,7 +13,7 @@ phases:
     start: 2017-12-31
   - name: construction
     start: 2018-04-13
-  - name: alumni
+  - name: abandon
     start: 2018-06-18
 repository: https://github.com/MTES-MCT/assec
 stats: false

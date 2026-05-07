@@ -10,7 +10,7 @@ phases:
     end: 2017-12-31
   - name: construction
     start: 2018-01-01
-  - name: alumni
+  - name: abandon
     start: 2021-04-01
 link: http://workinfrance.fr
 repository: https://github.com/SocialGouv/work-in-france

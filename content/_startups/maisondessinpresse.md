@@ -9,7 +9,7 @@ phases:
     start: 2022-04-01
   - name: construction
     start: 2023-04-09
-  - name: alumni
+  - name: abandon
     start: 2023-04-16
 stats: false
 contact: ateliernumerique.snum@culture.gouv.fr

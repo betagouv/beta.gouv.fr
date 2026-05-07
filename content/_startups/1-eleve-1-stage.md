@@ -23,7 +23,7 @@ sponsors:
 phases:
   - name: acceleration
     start: 2025-01-20
-  - name: transfer
+  - name: transfere
     start: 2025-09-19
 events:
   - name: product_launch

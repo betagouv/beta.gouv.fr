@@ -5,15 +5,15 @@ sponsors:
   - /organisations/urssaf
 incubator: dinum
 phases:
-  - name: investigation
-    start: 2014-10-01
   - name: construction
+    start: 2014-10-01
+  - name: investigation
     start: 2014-10-01
   - name: acceleration
     start: 2019-01-01
-  - name: transfer
+  - name: perennisation
     start: 2019-09-01
-  - name: success
+  - name: transfere
     start: 2020-03-01
 events:
   - name: national_impact

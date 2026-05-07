@@ -5,7 +5,7 @@ sponsors:
   - /organisations/dihal
 incubator: dinum
 phases:
-  - name: alumni
+  - name: abandon-investigation
     start: 2022-06-09
 stats: false
 contact: brigade@beta.gouv.fr

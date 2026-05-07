@@ -12,9 +12,9 @@ phases:
     start: 2023-01-01
   - name: acceleration
     start: 2024-01-01
-  - name: transfer
+  - name: perennisation
     start: 2024-12-01
-  - name: success
+  - name: transfere
     start: 2025-10-31
 repository: https://github.com/mission-apprentissage/tjp-pilotage
 stats_url: https://orion.education.gouv.fr/statistiques

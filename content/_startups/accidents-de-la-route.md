@@ -12,7 +12,7 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2024-08-09
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-10-16
 events:
   - name: end

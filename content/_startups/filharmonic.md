@@ -13,7 +13,7 @@ phases:
   - name: construction
     start: 2018-12-31
     end: 2019-12-01
-  - name: alumni
+  - name: abandon
     start: 2019-12-01
 repository: https://github.com/MTES-MCT/filharmonic
 incubator: mtes

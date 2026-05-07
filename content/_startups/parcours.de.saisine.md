@@ -10,7 +10,7 @@ phases:
   - name: investigation
     start: 2022-07-01
     end: 2022-09-30
-  - name: alumni
+  - name: abandon-investigation
     start: 2022-10-01
 thematiques: []
 usertypes: []

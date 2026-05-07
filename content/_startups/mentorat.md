@@ -12,7 +12,7 @@ phases:
     start: 2023-11-26
   - name: construction
     start: 2024-08-21
-  - name: alumni
+  - name: abandon
     start: 2025-07-24
 sponsors:
   - /organisations/ministere-de-l-interieur-et-des-outre-mer-direction-des-ressources-humaines

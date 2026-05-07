@@ -15,7 +15,7 @@ phases:
     end: 2022-04-04
   - name: construction
     start: 2022-04-05
-  - name: alumni
+  - name: abandon
     start: 2023-06-23
 events:
   - name: product_launch

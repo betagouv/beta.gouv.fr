@@ -7,7 +7,7 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2024-01-15
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-04-08
 usertypes:
   - particulier

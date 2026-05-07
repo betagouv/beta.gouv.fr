@@ -5,15 +5,15 @@ sponsors:
   - /organisations/dgccrf
 incubator: dinum
 phases:
-  - name: investigation
-    start: 2018-06-18
   - name: construction
+    start: 2018-06-18
+  - name: investigation
     start: 2018-06-18
   - name: acceleration
     start: 2020-02-01
-  - name: transfer
+  - name: perennisation
     start: 2020-09-01
-  - name: success
+  - name: transfere
     start: 2022-01-01
 events:
   - name: national_impact

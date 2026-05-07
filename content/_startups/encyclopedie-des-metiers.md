@@ -15,9 +15,9 @@ phases:
   - name: construction
     start: 2021-11-01
     end: 2022-10-16
-  - name: transfer
+  - name: perennisation
     start: 2022-10-16
-  - name: success
+  - name: transfere
     start: 2023-10-19
 accessibility_status: partiellement conforme
 thematiques: []

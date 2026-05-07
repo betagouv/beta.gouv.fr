@@ -22,10 +22,10 @@ phases:
   - name: acceleration
     start: 2020-07-01
     end: 2022-12-16
-  - name: transfer
+  - name: perennisation
     start: 2021-01-01
     end: 2022-05-01
-  - name: success
+  - name: transfere
     start: 2022-12-01
 thematiques: []
 techno: []

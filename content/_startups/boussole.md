@@ -10,7 +10,7 @@ events:
 phases:
   - name: investigation
     start: 2015-12-01
-  - name: alumni
+  - name: abandon-investigation
     start: 2017-06-30
 repository: https://github.com/betagouv/boussole
 stats: false

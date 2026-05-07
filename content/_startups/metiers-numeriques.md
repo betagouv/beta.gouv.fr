@@ -10,7 +10,7 @@ phases:
     end: 2021-05-07
   - name: construction
     start: 2021-05-16
-  - name: alumni
+  - name: abandon
     start: 2023-06-23
 contact: contact@metiers.numerique.gouv.fr
 link: https://metiers.numerique.gouv.fr

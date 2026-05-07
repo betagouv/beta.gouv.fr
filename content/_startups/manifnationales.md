@@ -9,7 +9,7 @@ phases:
     start: 2024-01-15
   - name: construction
     start: 2024-04-15
-  - name: success
+  - name: transfere
     start: 2024-10-01
 usertypes:
   - particulier

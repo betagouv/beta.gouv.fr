@@ -14,7 +14,7 @@ missions:
     startups:
       - pass-sport
   - start: 2024-11-14
-    end: 2026-05-29
+    end: 2026-06-29
     status: service
     employer: Brigade d'intervention numérique
     startups:

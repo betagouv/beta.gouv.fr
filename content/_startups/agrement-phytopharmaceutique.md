@@ -13,7 +13,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-05-20
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-07-31
 analyse_risques: false
 mon_service_securise: false

@@ -8,11 +8,11 @@ events:
   - name: end
     date: 2019-12-01
 phases:
-  - name: investigation
-    start: 2019-01-01
   - name: construction
     start: 2019-01-01
-  - name: alumni
+  - name: investigation
+    start: 2019-01-01
+  - name: transfere
     start: 2019-12-01
 repository: https://github.com/betagouv/trait-d-union
 stats: true

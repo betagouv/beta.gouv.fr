@@ -8,11 +8,11 @@ events:
   - name: national_impact
     date: 2019-09-01
 phases:
-  - name: investigation
-    start: 2016-06-08
   - name: construction
     start: 2016-06-08
-  - name: success
+  - name: investigation
+    start: 2016-06-08
+  - name: transfere
     start: 2019-09-01
 link: https://pix.fr
 repository: https://github.com/1024pix/pix/

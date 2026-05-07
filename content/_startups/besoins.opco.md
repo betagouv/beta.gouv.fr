@@ -12,7 +12,7 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-05-10
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-01-01
 thematiques:
   - Travail / Emploi

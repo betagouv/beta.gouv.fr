@@ -14,9 +14,9 @@ phases:
     start: 2022-04-01
   - name: acceleration
     start: 2023-06-01
-  - name: transfer
+  - name: perennisation
     start: 2025-05-01
-  - name: success
+  - name: transfere
     start: 2026-01-31
 repository: https://github.com/mission-apprentissage/trajectoires-pro
 stats_url: https://statistiques.exposition.inserjeunes.beta.gouv.fr/

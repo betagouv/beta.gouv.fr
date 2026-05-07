@@ -13,7 +13,7 @@ usertypes:
 sponsors:
   - /organisations/dgpr
 phases:
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-04-22
 techno: []
 events:

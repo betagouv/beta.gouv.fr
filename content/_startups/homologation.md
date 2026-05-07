@@ -41,6 +41,7 @@ events:
 analyse_risques: true
 mon_service_securise: true
 techno: []
+impact_url: https://monservicesecurise.cyber.gouv.fr/statistiques
 ---
 ## En phase d'accélération
 

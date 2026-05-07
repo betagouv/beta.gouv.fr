@@ -1,5 +1,5 @@
 ---
-contact: eric.heijligers@beta.gouv.fr
+contact: valerie.savouret.ext@beta.gouv.fr
 thematiques:
   - Formation
   - Travail / Emploi
@@ -9,7 +9,7 @@ usertypes:
   - organismes de formation
   - CEP
 techno: []
-title: SI commun AT Pro
+title: ETAPE
 mission: 'Permettre à chaque professionnel qui le désire de réussir sa transition professionnelle '
 incubator: dinum
 sponsors:

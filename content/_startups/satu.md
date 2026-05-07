@@ -7,7 +7,7 @@ accessibility_status: non conforme
 sponsors:
   - /organisations/dge
 phases:
-  - name: alumni
+  - name: abandon-investigation
     start: 2023-12-11
 thematiques: []
 usertypes: []

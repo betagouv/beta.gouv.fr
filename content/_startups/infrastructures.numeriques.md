@@ -15,7 +15,7 @@ phases:
     start: 2022-05-01
   - name: construction
     start: 2022-11-01
-  - name: success
+  - name: transfere
     start: 2025-11-01
 thematiques:
   - Inclusion numérique

@@ -37,10 +37,8 @@ phases:
     start: 2024-03-04
   - name: acceleration
     start: 2025-09-01
-  - name: transfer
+  - name: transfere
     start: 2025-09-02
-  - name: success
-    start: 2026-03-15
 stats_url: https://statistiques.futurpro.inserjeunes.beta.gouv.fr/
 ---
 ## Un service de la mission interministérielle Inserjeunes

@@ -13,7 +13,7 @@ phases:
     start: 2022-08-23
   - name: construction
     start: 2022-11-01
-  - name: alumni
+  - name: abandon
     start: 2025-03-27
 link: https://tous-a-bord.beta.gouv.fr/
 thematiques:

@@ -5,13 +5,13 @@ sponsors:
   - /organisations/dgos
 incubator: sgmas
 phases:
-  - name: investigation
-    start: 2019-06-15
   - name: construction
+    start: 2019-06-15
+  - name: investigation
     start: 2019-06-15
   - name: acceleration
     start: 2020-11-03
-  - name: transfer
+  - name: transfere
     start: 2021-07-01
 usertypes:
   - etat
