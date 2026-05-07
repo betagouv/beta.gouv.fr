@@ -3,16 +3,13 @@
 module Jekyll
   module PhaseFilter
     def get_phase(startup)
-      startup['phases'].last['name'] || startup.data['phases']&.last&.[]('name')
+      Beta::Startup.from_document(startup).latest_phase
     end
 
     def where_phase(startups, phase)
-      list = []
-      startups.each do |startup|
-        list << startup if get_phase(startup) == phase
+      startups.select do |startup|
+        Beta::Startup.from_document(startup).latest_phase['name'] == phase
       end
-
-      list
     end
   end
 end
