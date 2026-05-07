@@ -19,23 +19,21 @@ module Beta
                 abandon
                 abandon-investigation].freeze
 
-    PHASES.each do |phase|
-      define_method "#{phase}_phase" do
-        phases.find { |p| p['name'] == phase }
-      end
+    ACTIVE_PHASES = %w[
+      investigation
+      construction
+      acceleration
+      perennisation
+      opere
+    ].freeze
 
-      define_method "in_#{phase}?" do
-        # we can't assume an active phase is "one without an end_date"
-        # because we do have startups where the phase is over but not
-        # terminated with an end date (ex: "Pass Culture"). Instead,
-        # the logic here is "a startup is in the phase X if it has
-        # exactly all the phases up to X".
+    def latest_phase
+      phases
+        .max_by { |phase| phase['start'] }
+    end
 
-        # get all the phases upto X
-        upto = PHASES.slice(..PHASES.find_index(phase))
-
-        phases.map { |p| p['name'] }.sort == upto.sort
-      end
+    def active?
+      ACTIVE_PHASES.include?(latest_phase)
     end
 
     def members
