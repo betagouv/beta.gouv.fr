@@ -14,7 +14,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-09-02
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-12-16
 events:
   - name: product_launch

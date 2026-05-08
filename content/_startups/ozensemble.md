@@ -12,7 +12,7 @@ phases:
     end: 2023-01-12
   - name: acceleration
     start: 2023-01-12
-  - name: alumni
+  - name: transfere
     start: 2025-04-30
 link: https://ozensemble.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/ozensemble

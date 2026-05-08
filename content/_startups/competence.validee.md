@@ -18,9 +18,9 @@ phases:
   - name: acceleration
     start: 2021-08-02
     end: 2022-08-31
-  - name: transfer
+  - name: perennisation
     start: 2023-06-30
-  - name: alumni
+  - name: abandon
     start: 2023-11-17
 accessibility_status: non conforme
 thematiques: []

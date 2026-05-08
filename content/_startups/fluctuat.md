@@ -14,7 +14,7 @@ phases:
   - name: construction
     start: 2018-11-26
     end: 2019-09-01
-  - name: alumni
+  - name: abandon
     start: 2019-09-01
 stats: false
 contact: karl.dupart@developpement-durable.gouv.fr

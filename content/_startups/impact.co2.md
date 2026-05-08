@@ -19,7 +19,7 @@ phases:
     start: 2021-02-01
   - name: acceleration
     start: 2022-09-01
-  - name: success
+  - name: perennisation
     comment: Spin-off de Datagir
     start: 2023-06-13
 techno:

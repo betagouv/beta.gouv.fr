@@ -10,11 +10,11 @@ sponsors:
   - /organisations/dinum
 incubator: dinum
 phases:
-  - name: investigation
-    start: 2014-05-15
   - name: construction
     start: 2014-05-15
-  - name: transfer
+  - name: investigation
+    start: 2014-05-15
+  - name: perennisation
     start: 2019-04-01
   - name: acceleration
     start: 2020-03-01

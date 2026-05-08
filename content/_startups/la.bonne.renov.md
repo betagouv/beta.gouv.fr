@@ -18,7 +18,7 @@ phases:
   - name: construction
     start: 2022-11-01
     end: 2023-06-07
-  - name: alumni
+  - name: abandon
     start: 2023-06-07
 thematiques: []
 usertypes: []

@@ -14,7 +14,7 @@ phases:
     start: 2023-01-25
   - name: acceleration
     start: 2023-05-08
-  - name: alumni
+  - name: abandon
     start: 2024-01-01
 link: https://nata.fabrique.social.gouv.fr/
 thematiques:

@@ -17,10 +17,10 @@ phases:
   - name: construction
     start: 2019-04-03
     end: 2019-10-31
-  - name: transfer
+  - name: perennisation
     start: 2019-10-31
     end: 2020-01-03
-  - name: success
+  - name: transfere
     start: 2020-01-03
 thematiques: []
 techno: []

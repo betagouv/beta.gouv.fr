@@ -18,7 +18,7 @@ phases:
   - name: construction
     start: 2021-11-08
     end: 2022-10-06
-  - name: alumni
+  - name: abandon
     start: 2022-10-06
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 thematiques: []

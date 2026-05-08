@@ -27,7 +27,7 @@ events:
   - name: committee
     date: 2024-12-03
 phases:
-  - name: success
+  - name: perennisation
     comment: Spin-off de Datagir
     start: 2022-06-13
 techno:

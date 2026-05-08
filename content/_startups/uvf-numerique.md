@@ -18,7 +18,7 @@ phases:
     comment: Avis non-concluant pour un passage en phase de construction, poursuite dans un cadre local
     start: 2022-06-29
     end: 2022-11-30
-  - name: alumni
+  - name: abandon-investigation
     start: 2022-11-30
 link: ''
 ---

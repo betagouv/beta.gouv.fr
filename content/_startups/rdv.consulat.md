@@ -9,7 +9,7 @@ phases:
   - name: investigation
     start: 2020-10-01
     end: 2021-01-21
-  - name: alumni
+  - name: abandon-investigation
     comment: Choix d'une solution en interne plutôt qu'un lancement de Startup d'Etat
     start: 2021-03-05
 events:

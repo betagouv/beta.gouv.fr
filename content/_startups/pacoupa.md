@@ -11,7 +11,7 @@ phases:
     start: 2023-05-25
   - name: construction
     start: 2024-01-22
-  - name: alumni
+  - name: transfere
     start: 2026-04-01
 link: https://pacoupa.ademe.fr
 repository: https://github.com/incubateur-ademe/pacoupa

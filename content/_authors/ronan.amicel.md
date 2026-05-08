@@ -13,11 +13,17 @@ missions:
       - visam
       - zam
   - start: 2022-06-01
-    end: 2026-05-31
+    end: 2026-02-14
     status: independent
     employer: Omnicité
     startups:
       - données-et-territoires
+  - start: 2026-04-07
+    end: 2026-07-31
+    status: independent
+    employer: Crème de la crème
+    startups:
+      - assistant-ia-civil
 competences:
   - Développement Backend
   - Développement Full-stack

@@ -20,7 +20,7 @@ phases:
     end: 2020-01-02
   - name: acceleration
     start: 2020-01-01
-  - name: alumni
+  - name: transfere
     start: 2023-10-17
 usertypes:
   - entreprise

@@ -5,13 +5,13 @@ sponsors:
   - /organisations/menjs
 incubator: menj
 phases:
-  - name: investigation
-    start: 2018-12-01
   - name: construction
+    start: 2018-12-01
+  - name: investigation
     start: 2018-12-01
   - name: acceleration
     start: 2021-01-01
-  - name: transfer
+  - name: transfere
     start: 2024-04-30
 link: https://www.monstagedetroisieme.fr/
 repository: https://github.com/betagouv/monstage

@@ -8,11 +8,11 @@ events:
   - name: end
     date: 2016-09-30
 phases:
-  - name: investigation
-    start: 2015-01-12
   - name: construction
     start: 2015-01-12
-  - name: alumni
+  - name: investigation
+    start: 2015-01-12
+  - name: abandon
     start: 2016-01-09
 usertypes:
   - etat

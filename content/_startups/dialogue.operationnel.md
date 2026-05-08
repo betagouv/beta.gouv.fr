@@ -8,7 +8,7 @@ contact: igpn-mission-appui-conseil@interieur.gouv.fr
 phases:
   - name: investigation
     start: 2021-09-13
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-08-21
 thematiques: []
 usertypes: []

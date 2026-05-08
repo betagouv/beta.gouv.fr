@@ -5,11 +5,11 @@ sponsors:
   - /organisations/francetravail
 incubator: francetravail
 phases:
-  - name: investigation
-    start: 2018-05-02
   - name: construction
     start: 2018-05-02
-  - name: alumni
+  - name: investigation
+    start: 2018-05-02
+  - name: abandon
     start: 2020-09-16
 link: https://perspectives.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/perspectives

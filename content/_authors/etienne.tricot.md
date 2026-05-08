@@ -1,7 +1,7 @@
 ---
 fullname: Étienne Tricot
-role: Autre
-domaine: Autre
+role: Directeur de mission
+domaine: Produit
 missions:
   - start: 2026-02-02
     end: 2026-07-30

@@ -37,6 +37,11 @@ missions:
     employer: Dynergie
     startups:
       - mutafriches
+  - start: 2026-05-07
+    end: 2026-08-07
+    status: independent
+    startups:
+      - peste-porcine-africaine
 badges:
   - segur
 competences:

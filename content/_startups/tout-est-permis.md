@@ -10,7 +10,7 @@ phases:
     end: 2020-07-07
   - name: construction
     start: 2020-10-01
-  - name: alumni
+  - name: abandon
     start: 2023-10-30
 stats: false
 contact: incubateur@anct.gouv.fr

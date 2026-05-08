@@ -14,7 +14,7 @@ incubator: agriculture
 phases:
   - name: investigation
     start: 2024-06-05
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-09-30
 events:
   - name: end

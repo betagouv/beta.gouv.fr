@@ -55,9 +55,9 @@ rgpd:
   validite_homologation: 2027-02-19T00:00:00.000Z
 stats: true
 phases:
-  - name: investigation
-    start: 2019-06-10
   - name: construction
+    start: 2019-06-10
+  - name: investigation
     start: 2019-06-10
   - name: acceleration
     start: 2020-07-10

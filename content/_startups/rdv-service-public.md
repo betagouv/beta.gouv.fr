@@ -29,9 +29,9 @@ events:
   - name: national_impact
     date: 2022-12-31
 phases:
-  - name: investigation
-    start: 2018-01-18
   - name: construction
+    start: 2018-01-18
+  - name: investigation
     start: 2018-01-18
   - name: acceleration
     start: 2019-04-01

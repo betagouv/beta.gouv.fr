@@ -8,7 +8,7 @@ phases:
   - name: investigation
     start: 2020-04-01
     end: 2021-12-31
-  - name: alumni
+  - name: abandon-investigation
     start: 2021-12-31
 stats: false
 contact: ateliernumerique@culture.gouv.fr

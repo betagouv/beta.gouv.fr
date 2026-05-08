@@ -17,7 +17,7 @@ phases:
     start: 2023-07-01
   - name: construction
     start: 2024-02-01
-  - name: alumni
+  - name: abandon
     start: 2024-05-30
 events:
   - name: end

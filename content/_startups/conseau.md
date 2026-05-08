@@ -8,7 +8,7 @@ phases:
   - name: investigation
     start: 2020-03-15
     end: 2020-06-30
-  - name: alumni
+  - name: abandon-investigation
     start: 2020-06-30
 stats: false
 contact: elise.jacob@developpement-durable.gouv.fr

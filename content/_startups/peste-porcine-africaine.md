@@ -9,7 +9,7 @@ usertypes:
   - etat
 techno:
   - grist
-title: Peste porcine africaine
+title: ODICE
 mission: Outiller et aider à la décision des services pour leur gestion de la peste porcine africaine (PPA)
 incubator: agriculture
 sponsors:

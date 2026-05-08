@@ -17,9 +17,9 @@ phases:
     start: 2022-07-01
   - name: acceleration
     start: 2023-10-01
-  - name: transfer
+  - name: perennisation
     start: 2024-12-31
-  - name: alumni
+  - name: transfere
     start: 2025-03-03
 thematiques:
   - Inclusion numérique

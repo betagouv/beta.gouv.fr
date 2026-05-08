@@ -14,7 +14,7 @@ phases:
     start: 2018-09-01
   - name: acceleration
     start: 2021-01-01
-  - name: transfer
+  - name: perennisation
     start: 2024-10-08
 events:
   - name: national_impact

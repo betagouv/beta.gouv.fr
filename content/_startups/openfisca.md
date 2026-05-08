@@ -8,11 +8,9 @@ phases:
   - name: construction
     start: 2013-10-01
     end: 2020-11-30
-  - name: transfer
+  - name: perennisation
     start: 2020-12-01
-  - name: success
-    start: 2023-11-30
-  - name: alumni
+  - name: transfere
     start: 2024-06-05
 link: https://openfisca.org
 repository: https://github.com/openfisca/openfisca-france

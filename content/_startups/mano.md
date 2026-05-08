@@ -24,7 +24,7 @@ phases:
     end: 2021-07-31
   - name: acceleration
     start: 2021-08-01
-  - name: success
+  - name: transfere
     start: 2024-03-01
 usertypes:
   - association

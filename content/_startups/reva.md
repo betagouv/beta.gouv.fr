@@ -16,7 +16,7 @@ phases:
   - name: acceleration
     start: 2023-07-01
     end: 2024-04-01
-  - name: success
+  - name: transfere
     start: 2024-04-01
 techno:
   - React

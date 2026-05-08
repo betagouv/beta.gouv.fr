@@ -15,7 +15,7 @@ incubator: agriculture
 sponsors:
   - /organisations/direction-generale-de-l-enseignement-et-de-la-recherche
 phases:
-  - name: alumni
+  - name: abandon-investigation
     start: 2025-07-01
 events:
   - name: product_launch

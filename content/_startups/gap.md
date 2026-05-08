@@ -8,7 +8,7 @@ phases:
   - name: investigation
     start: 2020-10-13
     end: 2021-03-01
-  - name: alumni
+  - name: abandon-investigation
     comment: Malgré les travaux de la phase d'investigation ayant permis de démontrer un problème impactant, la startup n'a pas réussi à obtenir un portage administratif ou les financements nécessaires pour passer en phase de contruction.
     start: 2021-03-02
 usertypes:

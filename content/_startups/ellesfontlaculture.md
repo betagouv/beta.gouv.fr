@@ -11,10 +11,10 @@ phases:
   - name: acceleration
     start: 2022-11-01
     end: 2022-12-31
-  - name: transfer
+  - name: perennisation
     start: 2023-01-01
     end: 2023-06-30
-  - name: success
+  - name: transfere
     start: 2023-07-01
 link: https://ellesfontla.culture.gouv.fr/
 repository: https://github.com/betagouv/ellesfontlaphoto

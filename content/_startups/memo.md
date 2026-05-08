@@ -5,11 +5,11 @@ sponsors:
   - /organisations/francetravail
 incubator: francetravail
 phases:
-  - name: investigation
-    start: 2016-01-03
   - name: construction
     start: 2016-01-03
-  - name: alumni
+  - name: investigation
+    start: 2016-01-03
+  - name: abandon
     start: 2020-07-01
 link: https://memo.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/memo

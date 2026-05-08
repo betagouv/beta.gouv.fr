@@ -15,7 +15,7 @@ incubator: dinum_produits_interministeriels
 sponsors:
   - /organisations/dinum
 phases:
-  - name: success
+  - name: opere
     start: 2024-01-01
 events:
   - name: product_launch

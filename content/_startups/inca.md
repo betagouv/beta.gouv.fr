@@ -12,7 +12,7 @@ phases:
   - name: construction
     start: 2021-04-21
     end: 2022-01-10
-  - name: alumni
+  - name: abandon
     start: 2022-01-10
 link: https://lab-agora.softr.app
 repository: https://github.com/betagouv/inca-app

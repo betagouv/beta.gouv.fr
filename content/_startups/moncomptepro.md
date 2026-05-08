@@ -21,7 +21,7 @@ phases:
     start: 2022-06-01
   - name: acceleration
     start: 2022-12-01
-  - name: transfer
+  - name: transfere
     start: 2024-10-01
 thematiques:
   - Sécurité informatique

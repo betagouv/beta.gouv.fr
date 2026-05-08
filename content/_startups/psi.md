@@ -8,7 +8,7 @@ phases:
   - name: investigation
     start: 2018-01-01
     end: 2018-12-31
-  - name: alumni
+  - name: abandon-investigation
     start: 2020-07-01
 stats: false
 contact: pierre.pezziardi@beta.gouv.fr

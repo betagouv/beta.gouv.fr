@@ -14,7 +14,7 @@ phases:
   - name: construction
     start: 2017-11-30
     end: 2019-09-15
-  - name: alumni
+  - name: abandon
     start: 2019-09-15
 link: https://affectionate-easley-2194cc.netlify.com/
 repository: https://github.com/betagouv/dossiersco

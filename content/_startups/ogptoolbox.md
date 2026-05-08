@@ -8,11 +8,11 @@ events:
   - name: end
     date: 2018-01-01
 phases:
-  - name: investigation
-    start: 2016-06-08
   - name: construction
     start: 2016-06-08
-  - name: alumni
+  - name: investigation
+    start: 2016-06-08
+  - name: abandon
     start: 2020-07-01
 link: https://ogptoolbox.org/
 repository: https://github.com/ogptoolbox/ogptoolbox-ui

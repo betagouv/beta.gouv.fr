@@ -5,11 +5,11 @@ sponsors:
   - /organisations/dinum
 incubator: dinum
 phases:
-  - name: investigation
-    start: 2014-01-01
   - name: construction
     start: 2014-01-01
-  - name: alumni
+  - name: investigation
+    start: 2014-01-01
+  - name: abandon-investigation
     start: 2020-07-01
 link: https://mps.apientreprise.fr
 stats: true

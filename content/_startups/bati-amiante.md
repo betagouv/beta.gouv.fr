@@ -7,7 +7,7 @@ sponsors:
 phases:
   - name: investigation
     start: 2020-03-01
-  - name: alumni
+  - name: abandon-investigation
     start: 2020-07-01
 stats: false
 contact: emeric.vercoutre@developpement-durable.gouv.fr

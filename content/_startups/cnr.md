@@ -14,7 +14,7 @@ accessibility_status: partiellement conforme
 phases:
   - name: construction
     start: 2022-10-27
-  - name: alumni
+  - name: transfere
     start: 2023-12-31
 thematiques:
   - Démocratie

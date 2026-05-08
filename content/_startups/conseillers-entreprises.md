@@ -33,7 +33,7 @@ phases:
   - name: acceleration
     start: 2021-09-01
     end: 2022-06-20
-  - name: success
+  - name: transfere
     start: 2022-06-21
 stats_url: https://conseillers-entreprises.service-public.gouv.fr/stats
 techno: []

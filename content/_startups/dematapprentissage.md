@@ -11,10 +11,10 @@ contact: apprentissage@beta.gouv.fr
 stats_url: https://contrat.apprentissage.beta.gouv.fr/stats
 stats: true
 phases:
-  - name: transfer
+  - name: perennisation
     start: 2022-02-01
     end: 2022-06-30
-  - name: success
+  - name: transfere
     start: 2022-07-31
 usertypes:
   - etat

@@ -13,7 +13,7 @@ phases:
     end: 2019-02-28
   - name: construction
     start: 2019-03-01
-  - name: success
+  - name: transfere
     start: 2021-11-17
 usertypes:
   - entreprise

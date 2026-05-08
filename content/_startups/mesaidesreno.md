@@ -19,9 +19,9 @@ phases:
     start: 2023-12-15
   - name: construction
     start: 2024-02-15
-  - name: transfer
+  - name: perennisation
     start: 2025-10-07
-  - name: alumni
+  - name: transfere
     start: 2025-12-18
 thematiques:
   - Écologie

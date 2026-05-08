@@ -24,11 +24,9 @@ phases:
     start: 2019-03-01
   - name: acceleration
     start: 2020-11-17
-  - name: transfer
+  - name: perennisation
     start: 2021-07-01
-  - name: success
-    start: 2022-06-13
-  - name: alumni
+  - name: transfere
     start: 2023-05-03
 thematiques: []
 techno: []

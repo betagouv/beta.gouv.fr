@@ -11,7 +11,7 @@ phases:
   - name: investigation
     start: 2018-12-01
     end: 2019-03-01
-  - name: alumni
+  - name: abandon-investigation
     start: 2019-03-01
 usertypes:
   - etat

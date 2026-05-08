@@ -12,7 +12,7 @@ accessibility_status: partiellement conforme
 phases:
   - name: acceleration
     start: 2023-09-25
-  - name: transfer
+  - name: perennisation
     start: 2026-03-02
 fast:
   promotion: 13
