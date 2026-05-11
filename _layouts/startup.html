@@ -40,7 +40,8 @@ layout: default
           <h2>À propos</h2>
           <p>
             <b>{{ page.title }}</b>
-            {% if phase.group == 'success' or phase.group == 'alumni' %}
+            {% assign past = phase.status | past_phase %}
+            {% if past %}
               a été porté
             {% else %}
                est porté

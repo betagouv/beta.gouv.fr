@@ -45,6 +45,10 @@ module Jekyll
       },
     }.freeze
 
+    def past_phase(phase)
+      phase.include?("abandon")
+    end
+
     def phase_badge_label(phase)
       PHASE_LABELS_MAP[phase][:badge]
     end
