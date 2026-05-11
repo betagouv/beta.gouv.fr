@@ -10,7 +10,7 @@ phases:
   - name: investigation
     start: 2023-06-20
     end: 2023-09-29
-  - name: alumni
+  - name: abandon-investigation
     start: 2023-12-31
 thematiques:
   - Santé

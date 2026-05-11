@@ -12,7 +12,7 @@ phases:
     end: 2023-01-02
   - name: construction
     start: 2023-01-02
-  - name: alumni
+  - name: abandon
     start: 2024-07-01
 redirect_from:
   - /startups/messagerie.instantanee.sante.html

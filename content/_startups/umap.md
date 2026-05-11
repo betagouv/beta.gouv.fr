@@ -8,7 +8,7 @@ incubator: anct
 phases:
   - name: construction
     start: 2023-05-01
-  - name: alumni
+  - name: abandon
     start: 2025-12-31
 link: https://umap.incubateur.anct.gouv.fr/
 repository: https://github.com/umap-project/umap/

@@ -14,13 +14,13 @@ events:
   - name: national_impact
     date: 2020-07-01
 phases:
-  - name: investigation
-    start: 2018-04-01
   - name: construction
     start: 2018-04-01
-  - name: transfer
+  - name: investigation
+    start: 2018-04-01
+  - name: perennisation
     start: 2020-01-01
-  - name: success
+  - name: transfere
     start: 2020-07-01
 thematiques: []
 techno: []

@@ -6,7 +6,7 @@ title: API Apprentissage
 phases:
   - name: construction
     start: 2023-09-01
-  - name: alumni
+  - name: abandon
     start: 2024-04-01
 thematiques:
   - Open-Data

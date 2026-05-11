@@ -5,11 +5,11 @@ sponsors:
   - /organisations/anct
 incubator: dinum
 phases:
-  - name: investigation
-    start: 2018-10-01
   - name: construction
     start: 2018-10-01
-  - name: alumni
+  - name: investigation
+    start: 2018-10-01
+  - name: abandon
     start: 2020-07-01
 link: https://www.calvados.fr/contact
 repository: https://github.com/betagouv/gps-usagers

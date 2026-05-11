@@ -11,7 +11,7 @@ phases:
     start: 2018-05-01
   - name: acceleration
     start: 2018-12-01
-  - name: alumni
+  - name: abandon
     start: 2021-01-15
 link: https://beta.interieur.gouv.fr/candilib/
 repository: https://github.com/LAB-MI/candilibV2

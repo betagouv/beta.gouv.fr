@@ -14,7 +14,7 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2024-06-26
-  - name: alumni
+  - name: abandon-investigation
     start: 2025-01-23
 events:
   - name: product_launch

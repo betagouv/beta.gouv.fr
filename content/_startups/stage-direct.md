@@ -13,9 +13,12 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-12-02
+  - name: construction
+    start: 2026-05-07
 events:
   - name: product_launch
     date: 2025-12-18
+techno: []
 link: ''
 ---
 ## Contexte
@@ -53,4 +56,17 @@ Afin de valider nos hypothèses et quantifier les dysfonctionnements, nous avons
 * **Entretiens individuels DCS :** entretiens approfondis avec un panel représentatif de juridictions pour analyser les méthodes de planification actuelles, les irritants majeurs et les "astuces" de contournement (Excel personnels, notes manuscrites,...).
 
 * **Entretiens Coordinateurs (CRF) :** focus sur les irritants vécus par les CRF et leurs besoins dans la coordination avec les DCS.
+
+# Solution / PMV
+Stage Direct est le service numérique qui redonne du temps et de la disponibilité pour l'accompagnement pédagogique aux DCS, grâce à une solution claire, outillée et partagée de gestion des stages. 
+Le PMV cible en priorité les Directeurs de Centre de Stage (DCS) et s'articule autour de trois briques fonctionnelles :
+- un tableau de bord centralisé : visibilité en temps réel sur l'ensemble des stagiaires suivis (planning, dates clés, état des évaluations attendues ou reçues), mettant fin aux fichiers multiples et aux tableurs parallèles.
+- une génération automatique du planning : à partir des données transmises par l'ENM et des contraintes de la juridiction, le planning est généré automatiquement et reste modifiable manuellement, éliminant le "Tetris" de planification artisanal.
+- une gestion automatisée des évaluations et relances : envoi automatique des liens d'évaluation aux Maîtres de Stage (MDS), relances automatiques tant que l'évaluation n'est pas reçue, et centralisation des évaluations pour faciliter la synthèse finale.
+
+Le pilote terrain est prévu à partir de septembre 2026, sur une région test (2 CRF, une dizaine de DCS, 40 auditeurs de justice).
+
+# Impact recherché
+Stage Direct vise à diviser par deux le temps administratif mensuel consacré par les DCS à la gestion des stages, libérant ainsi 63 heures par DCS et par an - soit 9 journées complètes - au profit de l'accompagnement pédagogique ou de l'activité juridictionnelle. À l'échelle du réseau, cela représente un potentiel de 14 490 heures de temps magistrat réaffectées à haute valeur ajoutée (équivalent de 8,5 ETP).
+
 

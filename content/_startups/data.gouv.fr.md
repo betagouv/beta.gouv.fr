@@ -8,11 +8,11 @@ events:
   - name: national_impact
     date: 2016-01-01
 phases:
-  - name: investigation
-    start: 2013-06-01
   - name: construction
     start: 2013-06-01
-  - name: success
+  - name: investigation
+    start: 2013-06-01
+  - name: opere
     start: 2016-01-01
 link: https://www.data.gouv.fr/
 repository: https://github.com/opendatateam/udata

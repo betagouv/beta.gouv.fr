@@ -11,7 +11,7 @@ phases:
   - name: investigation
     start: 2019-03-01
     end: 2019-08-31
-  - name: alumni
+  - name: abandon-investigation
     start: 2019-10-31
 stats: false
 contact: didier.yvetot@beta.gouv.fr

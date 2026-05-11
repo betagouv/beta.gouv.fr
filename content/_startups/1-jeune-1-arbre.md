@@ -22,7 +22,7 @@ phases:
     start: 2024-05-14
   - name: construction
     start: 2024-08-12
-  - name: alumni
+  - name: abandon
     start: 2025-02-28
 link: https://1jeune1arbre.beta.gouv.fr/
 techno:

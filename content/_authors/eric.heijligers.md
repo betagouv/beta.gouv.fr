@@ -54,6 +54,9 @@ missions:
     end: 2026-12-31
     status: admin
     employer: DINUM
+    startups:
+      - alexi
+      - si-commun-at-pro
 competences:
   - Administration Publique
   - Coaching

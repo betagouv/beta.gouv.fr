@@ -1,6 +1,6 @@
 ---
 fullname: Karine De Percin
-role: intrapreneuse
+role: Intrapreneuse
 domaine: Intraprenariat
 competences: []
 missions:

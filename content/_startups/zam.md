@@ -5,13 +5,13 @@ sponsors:
   - /organisations/dinum
 incubator: dinum
 phases:
-  - name: investigation
-    start: 2018-03-28
   - name: construction
     start: 2018-03-28
-  - name: transfer
+  - name: investigation
+    start: 2018-03-28
+  - name: perennisation
     start: 2020-01-01
-  - name: alumni
+  - name: transfere
     start: 2020-07-01
 repository: https://github.com/betagouv/zam
 stats: false

@@ -10,7 +10,7 @@ phases:
   - name: investigation
     start: 2022-04-04
     end: 2022-11-24
-  - name: alumni
+  - name: abandon-investigation
     start: 2022-11-24
 link: ''
 ---

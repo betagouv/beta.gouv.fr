@@ -8,7 +8,7 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-06-11
-  - name: alumni
+  - name: abandon-investigation
     start: 2023-12-01
 link: ''
 ---

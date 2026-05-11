@@ -12,7 +12,7 @@ accessibility_status: non conforme
 phases:
   - name: construction
     start: 2023-05-01
-  - name: alumni
+  - name: abandon
     start: 2024-04-01
 thematiques:
   - Formation

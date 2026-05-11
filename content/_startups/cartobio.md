@@ -5,15 +5,15 @@ sponsors:
   - /organisations/agence-bio
 incubator: agriculture
 phases:
-  - name: investigation
-    start: 2019-12-19
   - name: construction
+    start: 2019-12-19
+  - name: investigation
     start: 2019-12-19
   - name: acceleration
     start: 2023-05-01
-  - name: transfer
+  - name: perennisation
     start: 2024-06-10
-  - name: success
+  - name: transfere
     start: 2024-07-27
 accessibility_status: non conforme
 link: https://cartobio.agencebio.org

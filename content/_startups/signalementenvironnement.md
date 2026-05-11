@@ -8,7 +8,7 @@ incubator: mtes
 contact: mathieu.bobin@beta.gouv.fr
 accessibility_status: non conforme
 phases:
-  - name: alumni
+  - name: abandon-investigation
     start: 2023-06-04
 link: ''
 ---

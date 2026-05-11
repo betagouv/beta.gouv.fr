@@ -11,15 +11,15 @@ usertypes:
   - particulier
 stats: true
 phases:
-  - name: investigation
-    start: 2017-04-01
   - name: construction
     start: 2017-04-01
-  - name: transfer
+  - name: investigation
+    start: 2017-04-01
+  - name: perennisation
     start: 2019-09-01
-  - name: success
+  - name: abandon
     start: 2022-11-30
-  - name: alumni
+  - name: transfere
     start: 2022-11-30
 ---
 Partenariat terminé, voir désormais [Mes Aides](https://beta.gouv.fr/startups/mes.aides.html).

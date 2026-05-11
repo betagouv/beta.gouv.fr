@@ -7,7 +7,7 @@ incubator: agriculture
 phases:
   - name: investigation
     start: 2023-09-01
-  - name: alumni
+  - name: abandon-investigation
     start: 2024-01-15
 stats: false
 contact: anne.devoret@beta.gouv.fr

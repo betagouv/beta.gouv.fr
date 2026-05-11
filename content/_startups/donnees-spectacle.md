@@ -26,6 +26,7 @@ sponsors:
   - /organisations/dgca
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4#a1.s29.r18.c2
 stats_url: https://assistant-declaration.beta.gouv.fr/impact
+impact_url: https://assistant-declaration.beta.gouv.fr/impact
 ---
 ## **Contexte**
 

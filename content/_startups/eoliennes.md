@@ -7,7 +7,7 @@ incubator: kube
 phases:
   - name: investigation
     start: 2020-04-01
-  - name: alumni
+  - name: abandon-investigation
     start: 2025-07-24
 stats: false
 contact: dirisi-fabnum.expert.fct@def.gouv.fr

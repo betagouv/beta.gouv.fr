@@ -11,7 +11,7 @@ phases:
   - name: construction
     start: 2021-12-31
     end: 2022-06-30
-  - name: alumni
+  - name: abandon
     start: 2022-07-31
 stats: false
 contact: ateliernumerique.snum@culture.gouv.fr

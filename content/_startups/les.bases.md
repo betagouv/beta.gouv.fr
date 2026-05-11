@@ -18,7 +18,7 @@ phases:
     start: 2022-02-01
   - name: acceleration
     start: 2023-05-01
-  - name: success
+  - name: opere
     start: 2026-01-09
 mon_service_securise: true
 thematiques:

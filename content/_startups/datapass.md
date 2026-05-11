@@ -9,7 +9,7 @@ phases:
     start: 2018-02-14
   - name: acceleration
     start: 2018-11-08
-  - name: success
+  - name: opere
     start: 2019-01-08
 link: https://datapass.api.gouv.fr
 repository: https://github.com/betagouv/datapass

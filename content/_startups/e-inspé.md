@@ -8,7 +8,7 @@ contact: penelope.liot@beta.gouv.fr
 phases:
   - name: construction
     start: 2020-06-10
-  - name: alumni
+  - name: abandon
     start: 2021-11-15
 usertypes:
   - etablissement-scolaire

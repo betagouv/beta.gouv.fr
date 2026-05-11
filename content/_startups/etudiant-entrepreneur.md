@@ -8,11 +8,11 @@ events:
   - name: end
     date: 2017-12-31
 phases:
-  - name: investigation
-    start: 2016-06-23
   - name: construction
     start: 2016-06-23
-  - name: alumni
+  - name: investigation
+    start: 2016-06-23
+  - name: abandon
     start: 2017-12-31
 link: https://snee.esr.gouv.fr/
 repository: https://github.com/betagouv/etudiant-entrepreneur

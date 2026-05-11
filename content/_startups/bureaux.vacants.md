@@ -6,7 +6,7 @@ sponsors:
 incubator: mtes
 contact: guillaume.coppe@beta.gouv.fr
 phases:
-  - name: alumni
+  - name: abandon-investigation
     start: 2021-09-10
 link: ''
 ---

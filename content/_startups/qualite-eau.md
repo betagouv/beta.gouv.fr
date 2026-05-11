@@ -11,7 +11,7 @@ phases:
     comment: Investigation KO
     start: 2022-02-26
     end: 2022-04-30
-  - name: alumni
+  - name: abandon-investigation
     start: 2022-05-01
 thematiques: []
 usertypes: []

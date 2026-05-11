@@ -5,11 +5,11 @@ sponsors:
   - /organisations/cnsa
 incubator: dinum
 phases:
-  - name: investigation
-    start: 2014-12-01
   - name: construction
     start: 2014-12-01
-  - name: alumni
+  - name: investigation
+    start: 2014-12-01
+  - name: transfere
     start: 2020-07-01
 link: https://mdphenligne.cnsa.fr
 repository: https://github.com/betagouv/mdph

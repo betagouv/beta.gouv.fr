@@ -15,9 +15,9 @@ phases:
     start: 2020-05-01
   - name: acceleration
     start: 2021-01-01
-  - name: transfer
+  - name: perennisation
     start: 2022-06-01
-  - name: alumni
+  - name: abandon
     start: 2025-07-24
 usertypes:
   - etat

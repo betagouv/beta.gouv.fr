@@ -11,7 +11,7 @@ phases:
     start: 2024-04-15
   - name: acceleration
     start: 2025-07-04
-  - name: transfer
+  - name: perennisation
     start: 2026-01-27
 thematiques:
   - Démocratie

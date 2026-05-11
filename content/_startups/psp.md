@@ -7,7 +7,7 @@ incubator: FabNum-MI
 phases:
   - name: investigation
     start: 2019-11-05
-  - name: alumni
+  - name: abandon-investigation
     start: 2020-07-05
 stats: false
 contact: contact@beta.interieur.gouv.fr

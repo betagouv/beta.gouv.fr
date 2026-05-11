@@ -8,7 +8,7 @@ contact: camille.andrieu@ccomptes.fr
 phases:
   - name: investigation
     start: 2021-09-03
-  - name: alumni
+  - name: abandon-investigation
     start: 2022-03-30
 thematiques: []
 usertypes: []

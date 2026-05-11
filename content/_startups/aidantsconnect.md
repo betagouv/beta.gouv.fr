@@ -5,9 +5,9 @@ sponsors:
   - /organisations/anct
 incubator: anct
 phases:
-  - name: investigation
-    start: 2019-03-13
   - name: construction
+    start: 2019-03-13
+  - name: investigation
     start: 2019-03-13
   - name: acceleration
     start: 2021-03-15

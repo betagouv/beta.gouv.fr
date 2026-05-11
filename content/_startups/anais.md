@@ -6,13 +6,13 @@ sponsors:
   - /organisations/ministere-des-armees-etat-major-de-la-marine
 incubator: kube
 phases:
-  - name: investigation
-    start: 2019-04-05
   - name: construction
     start: 2019-04-05
-  - name: transfer
+  - name: investigation
+    start: 2019-04-05
+  - name: perennisation
     start: 2023-11-13
-  - name: success
+  - name: transfere
     start: 2024-10-21
 usertypes:
   - etat

@@ -22,7 +22,7 @@ missions:
     startups:
       - nosgestesclimat
   - start: 2025-10-01
-    end: 2026-04-30
+    end: 2026-09-30
     status: independent
     employer: Dynergie
     startups:

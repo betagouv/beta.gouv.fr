@@ -18,7 +18,7 @@ incubator: kube
 phases:
   - name: investigation
     start: 2024-01-15
-  - name: alumni
+  - name: abandon-investigation
     start: 2025-07-24
 events:
   - name: other
