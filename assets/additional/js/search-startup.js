@@ -138,7 +138,8 @@ const updateCards = (data) => {
   displayNoDataMessage(false);
   const grid = document.getElementsByClassName("startups")[0];
   const keys = Object.keys(data);
-  let count = 0;
+  let totalCount = 0;
+
   for (let i = 0; i < keys.length; i++) {
     const phase = keys[i];
     const phaseElement = document.getElementById(phase);
@@ -146,11 +147,11 @@ const updateCards = (data) => {
     const grid = phaseElement.getElementsByClassName("startups")[0];
     const documentFragment = document.createDocumentFragment();
     const dataToDisplay = filterCards(data[phase]);
-    const currentPhase = phases.find((p) => p.status === phase);
-    if (!currentPhase || currentPhase.group !== "alumni") {
-      count = count + dataToDisplay.length;
-    }
-    if (!dataToDisplay.length) {
+    const phaseCount = dataToDisplay.length;
+
+    totalCount += phaseCount;
+
+    if (phaseCount === 0) {
       phaseElement.style.display = "none";
       for (const optionElement of optionElements) {
         optionElement.style.display = "none";
@@ -176,22 +177,8 @@ const updateCards = (data) => {
       }
     }
     /* ce code permet de calculer le nombre de start-up dans une phase lors de la recherche par incubateur. Il ne compte pas les start-up lors du chargement de la page start-up */
-    const phaseCounter =
-      phaseElement.getElementsByClassName("phase-counter")[0];
-    if (phaseCounter) {
-      phaseCounter.innerText = dataToDisplay.length;
-    }
-    const phaseLabel = phaseElement.getElementsByClassName("phase-label")[0];
-    if (phaseLabel && currentPhase) {
-      const plural = dataToDisplay.length > 1 ? "s" : "";
-      if (currentPhase.group === "success") {
-        phaseLabel.innerText = `${currentPhase.type_label.toLowerCase()}s`;
-      } else if (currentPhase.group === "alumni") {
-        phaseLabel.innerText = currentPhase.label.toLowerCase();
-      } else {
-        phaseLabel.innerText = currentPhase.type_label + plural;
-      }
-    }
+    phaseElement.querySelector(".phase-counter").innerText = phaseCount;
+
     for (let j = 0; j < dataToDisplay.length; j++) {
       documentFragment.appendChild(dataToDisplay[j].html);
     }
@@ -204,21 +191,13 @@ const updateCards = (data) => {
   }
 
   // Update global search counter
-  for (const counterElement of document.querySelectorAll(
-    ".global-search-counter",
-  )) {
-    counterElement.innerText = count;
-  }
+  document.querySelector(".global-search-counter").innerText = totalCount;
 
-  for (labelElement of document.querySelectorAll(
-    ".global-search-counter-label",
-  )) {
-    labelElement.innerText =
-      count > 1 ? "services numériques" : "service numérique";
+  document.querySelector(".global-search-counter-label").innerText =
+    totalCount > 1 ? "services numériques" : "service numérique";
 
-    if (!count) {
-      displayNoDataMessage(true);
-    }
+  if (!totalCount) {
+    displayNoDataMessage(true);
   }
 };
 

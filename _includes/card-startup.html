@@ -5,9 +5,9 @@
 
 <div class="fr-card fr-enlarge-link">
     <div class="fr-card__body">
-        <h3 class="fr-card__title">
+        <h4 class="fr-card__title">
             <a class="fr-card__link" href="{{ startup.url }}" >{{ startup.title | strip_html }}</a>
-        </h3>
+        </h4>
         {%- if startup.sponsors -%}
             <p class="fr-card__detail">
                 {%- for sponsorId in startup.sponsors -%}
@@ -37,5 +37,3 @@
         {% endif %}
     </div>
 </div>
-
-

@@ -6,8 +6,10 @@ layout: default
 {% assign startup_id = page.id | remove: '/startups/' %}
 
 {% comment %} Détection du status de la startup {% endcomment %}
-{% capture phase_id %}/phases/{{ page.phases.last.name }}{% endcapture %}
-{% assign phase = site.phases | where: "id", phase_id | first %}
+
+{% assign startup = site.startups | find: "id", page.id %}
+{% assign startup_phase = startup | get_phase %}
+{% assign phase = site.phases | find: "status", startup_phase.name %}
 
 {% comment %} Détection de l'incubateur {% endcomment %}
 {% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
@@ -37,7 +39,7 @@ layout: default
         <div id="about" class="fr-py-4w fr-px-4w fr-mt-3w">
           <h2>À propos</h2>
           <p>
-            <b>{{ page.title }}</b> 
+            <b>{{ page.title }}</b>
             {% if phase.group == 'success' or phase.group == 'alumni' %}
               a été porté
             {% else %}

@@ -3,7 +3,7 @@
 module Jekyll
   module PhaseFilter
     def get_phase(startup)
-      Beta::Startup.from_document(startup).latest_phase
+      Beta::Startup.new(startup.to_h).latest_phase
     end
 
     def where_phase(startups, phase)
