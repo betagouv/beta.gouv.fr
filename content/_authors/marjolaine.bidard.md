@@ -22,6 +22,12 @@ missions:
     employer: La ruche numérique
     startups:
       - one-trick-pony
+  - start: 2026-05-11
+    end: 2026-08-11
+    status: independent
+    employer: La ruche numérique
+    startups:
+      - one-trick-pony
 previously:
   - estime
   - mes-evenements-emploi

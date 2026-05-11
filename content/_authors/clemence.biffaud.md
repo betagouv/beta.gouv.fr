@@ -38,7 +38,7 @@ missions:
     startups:
       - reglementation-nitrates
   - start: 2025-12-02
-    end: 2026-03-29
+    end: 2026-09-30
     status: independent
     employer: NUMA
     startups:

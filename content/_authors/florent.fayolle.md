@@ -5,7 +5,7 @@ missions:
   - start: 2023-05-30
     end: 2026-06-11
     status: independent
-    employer: Omnicité
+    employer: Cober x La Manufacture
     startups:
       - données-et-territoires
 competences:

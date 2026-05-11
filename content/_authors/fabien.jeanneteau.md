@@ -9,8 +9,6 @@ competences:
 missions:
   - start: 2026-05-06
     end: 2026-11-20
-    employer: ADEME
     status: admin
-    startups: []
-teams: []
+    employer: ADEME
 ---

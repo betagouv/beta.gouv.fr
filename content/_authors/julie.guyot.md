@@ -5,7 +5,7 @@ domaine: Autre
 competences: []
 missions:
   - start: 2026-01-08
-    end: 2026-06-08
+    end: 2027-02-08
     status: admin
     employer: dinum
 github: JulieGuyot25

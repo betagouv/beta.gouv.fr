@@ -10,11 +10,10 @@ competences:
 missions:
   - start: 2026-04-24
     end: 2026-07-24
-    employer: ut7
     status: independent
+    employer: ut7
     startups:
       - ami
-teams: []
 ---
 Depuis mes premières missions, j’ai toujours cherché à améliorer les conditions de travail de l’équipe par de petits scripts, puis de la CI/CD suivi par de la montée en compétence sur les bonnes pratiques de développement agile comme le craftsmanship (artisanat logiciel, TDD, DDD, etc.) et sur l’organisation agile du travail en équipe (XP, Scrum, Kanban et ateliers d’intelligence collective).
 

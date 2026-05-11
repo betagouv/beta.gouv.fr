@@ -33,6 +33,7 @@ events:
     comment: Homologation de sécurité
 link: https://turgot.beta.gouv.fr/
 dashlord_url: https://dashlord.incubateur.net/url/turgot-beta-gouv-fr/best-practices/
+stats_url: http://stats.turgot.beta.gouv.fr/public/dashboard/c8df8c3f-8ab7-42bc-8f61-7131188ff318
 ---
 ## La start-up
 
@@ -68,7 +69,7 @@ Les objectifs de Turgot pour le S1 2026 :
 L’équipe est composée de :
 
 - Pierre et Mélanie, intrapreneurs ;
-- Chloé, coach ;
+- Benjamin, coach ;
 - Thibault, responsable de portefeuille ;
 - Raphaël, UX designer ;
 - Maud, developpeuse

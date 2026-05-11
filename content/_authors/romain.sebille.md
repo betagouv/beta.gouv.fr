@@ -12,6 +12,12 @@ missions:
       - dora
       - les-emplois
       - pilotage.de.linclusion
+  - start: 2026-05-05
+    end: 2026-08-11
+    status: independent
+    employer: La Zone
+    startups:
+      - suite-numerique
 competences:
   - Développement Backend
   - PostgreSQL

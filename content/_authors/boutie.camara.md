@@ -20,6 +20,12 @@ missions:
     employer: LittleBig Connection
     startups:
       - compte.rendu.vif
+  - start: 2026-05-18
+    end: 2026-10-18
+    status: independent
+    employer: LittleBig Connection
+    startups:
+      - pitchou
 badges:
   - segur
 domaine: Déploiement

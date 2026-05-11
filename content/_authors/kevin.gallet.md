@@ -36,5 +36,11 @@ missions:
     startups:
       - les.bases
       - suite.d.outils.des.mediateurs.numeriques
+  - start: 2026-05-11
+    end: 2026-09-30
+    status: independent
+    employer: Docaposte
+    startups:
+      - stage-direct
 ---
 Développeur fullstack 
