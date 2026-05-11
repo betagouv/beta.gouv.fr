@@ -2,10 +2,8 @@
 status: investigation
 label: Investigation
 type_label: problème
-order: 5
+order: 6
 short_description: |
-    Nous accompagnons un agent public pour investiguer un irritant ou un problème de politique publique.
-    A la fin de cette phase, on a confirmé qu’il y a un problème utilisateur. On a compris le contexte dans lequel ce problème survient ; les solutions alternatives ; les contraintes d’usage.
-    Sont formulés : concept de solution, et la stratégie d’impact associée : cible, taille de “marché”, potentiel d’impact.
+    Nous accompagnons un agent public pour investiguer un irritant ou un problème de politique publique. Cette phase doit permettre de confirmer qu’il y a un problème utilisateur, de comprendre le contexte dans lequel ce problème survient, de connaitre les solutions alternatives et les contraintes d’usage.
 documentation_url: /approche/investigation
 ---
