@@ -34,11 +34,6 @@ module Jekyll
         .map { |startup| Beta::Startup.from_document(startup) }
         .count(&:active?)
     end
-
-    # copied from `_plugins/phases.rb` but it's too tricky to reapply the filter in another separated filter
-    def get_phase(startup)
-      Beta::Startup.from_document(startup).latest_phase
-    end
   end
 
   class AllIncubatorsGenerator < Generator
