@@ -126,8 +126,9 @@ layout: default
             <!-- Les span contenant les class "phase-counter" et "phase-label" permettent d'afficher le counter des startups grâce à des getElementsByClassName dans le fichier javascript dans search-startup.js -->
             <h3>
               <span class="phase-counter">{{ counter }}</span>
-              <span class="phase-label">{{ counter | pluralize: 'service', 'services' }}</span>
-              <span>{{ phase.label | downcase }}</span>
+              <span class="phase-label">
+                {{ phase.status | phase_results_label: counter }}
+              </span>
             </h3>
 
             <div class="fr-grid-row fr-grid-row--gutters startups">

@@ -1,7 +1,6 @@
 ---
 status: construction
 label: Construction
-type_label: service
 order: 5
 short_description: |
     Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.
