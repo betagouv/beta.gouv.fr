@@ -3,7 +3,7 @@
     "lint": "biome check"
   },
   "dependencies": {
-    "@gouvfr/dsfr": "1.11.0"
+    "@gouvfr/dsfr": "1.14.4"
   },
   "devDependencies": {
     "@biomejs/biome": "1.8.3"
