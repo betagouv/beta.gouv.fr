@@ -33,7 +33,7 @@ module Beta
     end
 
     def active?
-      ACTIVE_PHASES.include?(latest_phase)
+      ACTIVE_PHASES.include?(latest_phase['name'])
     end
 
     def members
