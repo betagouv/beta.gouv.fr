@@ -25,7 +25,7 @@
       <select class="fr-select select-phase" id="{{include.prefix}}select-phase">
         <option>Aller à une phase</option>
         {% for phase in phases_with_stopped %}
-        <option value="{{ phase.status }}" class="{{phase.status}}-option">{{ phase.label }}</option>
+        <option value="{{ phase.status }}" class="{{phase.status}}-option">{{ phase.status | phase_badge_label | capitalize }}</option>
         {% endfor %}
       </select>
     </div>

@@ -6,8 +6,10 @@ layout: default
 {% assign startup_id = page.id | remove: '/startups/' %}
 
 {% comment %} Détection du status de la startup {% endcomment %}
-{% capture phase_id %}/phases/{{ page.phases.last.name }}{% endcapture %}
-{% assign phase = site.phases | where: "id", phase_id | first %}
+
+{% assign startup = site.startups | find: "id", page.id %}
+{% assign startup_phase = startup | get_phase %}
+{% assign phase = site.phases | find: "status", startup_phase.name %}
 
 {% comment %} Détection de l'incubateur {% endcomment %}
 {% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
@@ -37,8 +39,9 @@ layout: default
         <div id="about" class="fr-py-4w fr-px-4w fr-mt-3w">
           <h2>À propos</h2>
           <p>
-            <b>{{ page.title }}</b> 
-            {% if phase.status == 'success' %}
+            <b>{{ page.title }}</b>
+            {% assign past = phase.status | past_phase %}
+            {% if past %}
               a été porté
             {% else %}
                est porté
@@ -234,15 +237,17 @@ layout: default
       {%- assign investigated=page.phases | where: 'name', 'investigation' | first %}
       {%- assign constructed=page.phases | where: 'name', 'construction' | first %}
       {%- assign accelerated=page.phases | where: 'name', 'acceleration' | first %}
-      {%- assign transfered=page.phases | where: 'name', 'transfer' | first %}
-      {%- assign succeeded=page.phases | where: 'name', 'success' | first %}
-      {%- assign finished=page.phases | where: 'name', 'alumni' | first %}
+      {%- assign peren=page.phases | where: 'name', 'perennisation' | first %}
+      {%- assign transfere=page.phases | where: 'name', 'transfere' | first %}
+      {%- assign opere=page.phases | where: 'name', 'opere' | first %}
+      {%- assign abandon_phase=page.phases | where: 'name', 'abandon' | first %}
+      {%- assign abandon_invest_phase=page.phases | where: 'name', 'abandon-investigation' | first %}
       {% if investigated %}<p class="active"><b>Investigation</b><br/>{{ investigated.start | french_long_date }}</p>{% else %}<p><b>Investigation</b></p>{% endif %}
-      {% if constructed %}<p class="active"><b>Construction</b><br/>{{ constructed.start | french_long_date }}</p>{% elsif finished==nil %}<p><b>Construction</b></p>{% endif %}
-      {% if accelerated %}<p class="active"><b>Accélération</b><br/>{{ accelerated.start | french_long_date }}</p>{% elsif finished==nil %}<p><b>Accélération</b></p>{% endif %}
-      {% if transfered %}<p class="active"><b>Transfert</b><br/>{{ transfered.start | french_long_date }}</p>{% elsif succeeded==nil and  finished==nil %}<p><b>Transfert</b></p>{% endif %}
-      {% if succeeded %}<p class="success"><b>Pérennisé</b><br/>{{ succeeded.start | french_long_date }}</p>{% elsif finished==nil %}<p><b>Pérennisé</b></p>{% endif %}
-      {% if finished %}<p class="finished"><b>Partenariat terminé</b><br/>{{ finished.start | french_long_date }}</p>{% endif %}
+      {% if constructed %}<p class="active"><b>Construction</b><br/>{{ constructed.start | french_long_date }}</p>{% elsif abandon_invest_phase == nil and abandon_phase == nil %}<p><b>Construction</b></p>{% endif %}
+      {% if accelerated %}<p class="active"><b>Accélération</b><br/>{{ accelerated.start | french_long_date }}</p>{% elsif abandon_invest_phase == nil and abandon_phase == nil %}<p><b>Accélération</b></p>{% endif %}
+      {% if peren %}<p class="active"><b>En pérennisation</b><br/>{{ peren.start | french_long_date }}</p>{% elsif transfere == nil and opere == nil and abandon_invest_phase == nil and abandon_phase == nil %}<p><b>En pérennisation</b></p>{% endif %}
+      {% if transfere %}<p class="success"><b>Sorti du réseau</b><br/>{{ transfere.start | french_long_date }}</p>{% elsif opere %}<p class="success"><b>Opéré dans le réseau</b><br/>{{ opere.start | french_long_date }}</p>{% elsif abandon_invest_phase == nil and abandon_phase == nil %}<p><b>Sortie d'incubation</b></p>{% endif %}
+      {% if abandon_invest_phase %}<p class="finished"><b>Investigation non concluante</b><br/>{{ abandon_invest_phase.start | french_long_date }}</p>{% elsif abandon_phase %}<p class="finished"><b>Service arrêté</b><br/>{{ abandon_phase.start | french_long_date }}</p>{% endif %}
     </div>
     {% endif %}
   </div>

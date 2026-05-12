@@ -12,9 +12,10 @@ layout: default
 {% assign accelerationStartupsCount = incubatorStartups | where_phase: 'acceleration' | size %}
 {% assign inProgressStartupsCount = constructionStartupsCount | plus: accelerationStartupsCount %}
 
-{% assign transferStartupsCount = incubatorStartups | where_phase: 'transfer' | size %}
-{% assign successStartupsCount = incubatorStartups | where_phase: 'success' | size %}
-{% assign nationalsStartupsCount = transferStartupsCount | plus: successStartupsCount %}
+{% assign perennStartupsCount = incubatorStartups | where_phase: 'perennisation' | size %}
+{% assign transfereStartupsCount = incubatorStartups | where_phase: 'transfere' | size %}
+{% assign opereStartupsCount = incubatorStartups | where_phase: 'opere' | size %}
+{% assign nationalsStartupsCount = perennStartupsCount | plus: transfereStartupsCount | plus: opereStartupsCount %}
 
 
 {%- assign teams = site.teams -%}

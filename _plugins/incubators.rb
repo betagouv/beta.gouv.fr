@@ -1,12 +1,6 @@
 # frozen_string_literal: true
 
 module Jekyll
-  # an active startup is considered being either in:
-  # - investigation
-  # - construction
-  # - acceleration
-  # - transfer
-  #
   # we add an exception to always consider the main incubator at the top of the list
   module ActiveStartupsFilter
     def sort_incubators_by_active_startups(incubators, startups)
@@ -27,22 +21,18 @@ module Jekyll
     end
 
     def count_incubator_active_startups(incubator, startups)
-      startups.count do |startup|
-        "/incubateurs/#{startup['incubator']}" === incubator.id &&
-          %w[investigation construction acceleration transfer].include?(get_phase(startup))
-      end
+      incubator_id = incubator.id.delete_prefix('/incubateurs/')
+
+      startups
+        .map    { |startup| Beta::Startup.from_document(startup) }
+        .select { |startup| startup.incubator == incubator_id }
+        .count(&:active?)
     end
 
     def count_all_active_startups(startups)
-      startups.count do |startup|
-        %w[investigation construction acceleration transfer
-           success].include?(get_phase(startup))
-      end
-    end
-
-    # copied from `_plugins/phases.rb` but it's too tricky to reapply the filter in another separated filter
-    def get_phase(startup)
-      startup['phases'].last['name'] || startup.data['phases']&.last&.[]('name')
+      startups
+        .map { |startup| Beta::Startup.from_document(startup) }
+        .count(&:active?)
     end
   end
 
