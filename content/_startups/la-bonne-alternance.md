@@ -23,7 +23,7 @@ link: https://labonnealternance.apprentissage.beta.gouv.fr
 repository: https://github.com/mission-apprentissage/labonnealternance
 stats_url: https://labonnealternance.apprentissage.beta.gouv.fr/statistiques
 stats: true
-contact: labonnealternance@apprentissage.beta.gouv.fr
+contact: contact@labonnealternance.apprentissage.beta.gouv.fr
 redirect_from:
   - /startups/labonnealternance
 usertypes:
@@ -50,14 +50,14 @@ budget_url: https://grist.numerique.gouv.fr/o/docs/h7xXmXegXiZB/Budget-La-bonne-
 **La bonne alternance a été initiée au sein de l'incubateur de Pôle Emploi, puis incubée au sein de la Mission interministérielle pour l’apprentissage de 2020 à 2024 et est désormais éditée par la Délégation générale à l’emploi et à la formation professionnelle (DGEFP)**
 
 
-[La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) est un service destiné à faciliter les entrées en alternance en simplifiant la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises et grâce à un accompagnement des jeunes intéressés par l'apprentissage, ainsi que des CFA et recruteurs accueillant des apprentis.
+[La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) est un service destiné à faciliter les entrées en alternance en simplifiant la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises.
 
 ## Le constat
 
 Une entrée en alternance résulte d’un accord entre un candidat, un employeur et un centre de formation d’apprentis (CFA). Or, jusqu’à présent :
 - Les informations sur l’emploi et la formation n’étaient pas réunies, ce qui compliquait les démarches et provoquait des pertes de temps voire des échecs d’orientation, en particulier pour les jeunes les plus fragiles et les moins renseignés.
 - Les candidats rencontraient des difficultés à trouver les bons outils pour entrer en contact avec un CFA ou avec les employeurs.
-- Les TPE, PME et les CFA qui sourcent des candidats pour le compte d’entreprise peinaient à déposer leurs offres sur plusieurs jobboards coûteux et chronophages.
+- Les TPE, PME et les CFA qui sourcent des candidats pour le compte d’entreprises peinaient à déposer leurs offres sur plusieurs jobboards coûteux et chronophages.
 
 ## La solution
 

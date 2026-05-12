@@ -39,7 +39,7 @@ missions:
     startups:
       - donnees-spectacle
   - start: 2026-03-01
-    end: 2026-06-02
+    end: 2026-08-31
     status: independent
     employer: Ministère de la Culture
     startups:

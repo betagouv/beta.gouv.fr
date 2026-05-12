@@ -23,11 +23,16 @@ missions:
       - monlyceepro
       - monprojetsup
       - parasport
-      - pass-sport
       - pilotagevoiepro
       - plateforme-d-admission-au-doctorat
       - sante-psy-etudiant
       - valorisation.des.stages.pro
+  - start: 2022-03-15
+    end: 2026-05-12
+    status: admin
+    employer: Dinum
+    startups:
+      - pass-sport
 previously:
   - tchap
   - mon-diagnostic-artificialisation

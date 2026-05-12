@@ -2,14 +2,18 @@
 title: Pass Sport
 mission: Une aide financière pour encourager la pratique sportive des jeunes
 incubator: dinum
-contact: clemence.lopez@beta.gouv.fr
+contact: contact@pathtech.on.crisp.email
 sponsors:
-  - /organisations/menjs
+  - /organisations/msjop
 phases:
   - name: investigation
     start: 2023-08-21
   - name: construction
     start: 2024-03-01
+  - name: acceleration
+    start: 2025-03-01
+  - name: perennisation
+    start: 2026-05-12
 accessibility_status: totalement conforme
 thematiques:
   - Santé

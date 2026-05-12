@@ -5,7 +5,7 @@ domaine: Développement
 competences: []
 missions:
   - start: 2025-11-03
-    end: 2030-08-03
+    end: 2026-08-03
     status: admin
     employer: IGN
     startups:

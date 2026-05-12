@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/sandra-chakroun
 github: sandcha
 missions:
   - start: 2017-05-10
-    end: 2024-03-31
+    end: 2026-10-30
     status: independent
     employer: octo
     startups:

@@ -22,7 +22,7 @@ missions:
     startups:
       - vert.impact
   - start: 2026-02-19
-    end: 2026-05-11
+    end: 2026-08-11
     status: independent
     employer: Malt
     startups:

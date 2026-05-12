@@ -6,7 +6,7 @@ github: pli01
 link: https://github.com/pli01
 missions:
   - start: 2018-02-01
-    end: 2021-11-15
+    end: 2026-11-15
     status: admin
     employer: Lab-MI
   - start: 2021-11-15

@@ -5,9 +5,13 @@ domaine: Support
 competences: []
 missions:
   - start: 2025-05-06
-    end: 2026-08-30
+    end: 2026-05-12
     status: independent
     employer: PathTech
     startups:
       - pass-sport
+  - start: 2025-05-06
+    end: 2026-08-30
+    status: independent
+    employer: PathTech
 ---

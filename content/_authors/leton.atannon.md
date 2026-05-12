@@ -11,7 +11,7 @@ competences:
   - JavaScript/TypeScript
 missions:
   - start: 2024-11-04
-    end: 2036-12-31
+    end: 2026-12-31
     status: admin
     employer: sans Objet
     startups:
