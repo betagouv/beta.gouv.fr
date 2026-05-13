@@ -6,6 +6,12 @@ github: benoitchampy
 link: https://www.linkedin.com/in/benoitchampy/
 missions:
   - start: 2022-10-17
+    end: 2026-05-12
+    status: admin
+    employer: DINUM
+    startups:
+      - pass-sport
+  - start: 2022-10-17
     end: 2026-12-31
     status: admin
     employer: DINUM
@@ -16,7 +22,6 @@ missions:
       - datalma
       - enjeu-biodiversite-parc-naturel-marin
       - la.bonne.renov
-      - pass-sport
       - reperer.identifier.victimes.teh
 teams:
   - /teams/dinum-incubateur

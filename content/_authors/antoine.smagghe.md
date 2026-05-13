@@ -8,7 +8,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2026-01-12
-    end: 2026-06-11
+    end: 2026-08-12
     status: independent
     employer: Fairness
     startups:

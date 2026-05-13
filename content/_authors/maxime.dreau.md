@@ -26,7 +26,7 @@ missions:
     startups:
       - tdb-apprentissage
   - start: 2023-11-14
-    end: 2026-05-31
+    end: 2026-11-12
     status: independent
     employer: malt
     startups:

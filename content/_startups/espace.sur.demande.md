@@ -94,8 +94,8 @@ Espace sur Demande vise à se déployer à grande échelle pour permettre aux co
 ### **Nos Fonctionnalités à venir :** 
 
 
-• Paiement en ligne sécurisé : Pour une gestion simplifiée et fluide des réservations.
+• Gestion d’espaces interdépendants : permet la réservation coordonnée de plusieurs espaces liés sur une même demande.
 
-• Lien avec les serrures connectées : Pour automatiser l’accès aux espaces réservés et renforcer la sécurité.
+• Interopérabilité partenaires : permet aux partenaires externes de rendre leurs espaces visibles et réservables sur Espace sur Demande.
 
 Grâce à Espace sur Demande, la gestion des espaces publics devient intuitive et rapide. Gagnez du temps, simplifiez vos démarches administratives, et offrez un service moderne et pratique à vos locataires.

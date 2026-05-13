@@ -7,7 +7,7 @@ competences:
   - DevOps
 missions:
   - start: 2024-09-02
-    end: 2040-01-01
+    end: 2026-12-31
     status: admin
     employer: Éducation nationale
 ---

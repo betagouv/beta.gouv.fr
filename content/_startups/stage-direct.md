@@ -5,7 +5,7 @@ thematiques:
 usertypes:
   - Magistrats
   - DCS
-title: Stage Direct
+title: Suivi Stage
 mission: Améliorer l'encadrement des futurs magistrats en déchargeant les juridictions de la gestion administrative des stages
 incubator: justice
 sponsors:
@@ -58,7 +58,7 @@ Afin de valider nos hypothèses et quantifier les dysfonctionnements, nous avons
 * **Entretiens Coordinateurs (CRF) :** focus sur les irritants vécus par les CRF et leurs besoins dans la coordination avec les DCS.
 
 # Solution / PMV
-Stage Direct est le service numérique qui redonne du temps et de la disponibilité pour l'accompagnement pédagogique aux DCS, grâce à une solution claire, outillée et partagée de gestion des stages. 
+Suivi Stage est le service numérique qui redonne du temps et de la disponibilité pour l'accompagnement pédagogique aux DCS, grâce à une solution claire, outillée et partagée de gestion des stages. 
 Le PMV cible en priorité les Directeurs de Centre de Stage (DCS) et s'articule autour de trois briques fonctionnelles :
 - un tableau de bord centralisé : visibilité en temps réel sur l'ensemble des stagiaires suivis (planning, dates clés, état des évaluations attendues ou reçues), mettant fin aux fichiers multiples et aux tableurs parallèles.
 - une génération automatique du planning : à partir des données transmises par l'ENM et des contraintes de la juridiction, le planning est généré automatiquement et reste modifiable manuellement, éliminant le "Tetris" de planification artisanal.
@@ -67,6 +67,6 @@ Le PMV cible en priorité les Directeurs de Centre de Stage (DCS) et s'articule 
 Le pilote terrain est prévu à partir de septembre 2026, sur une région test (2 CRF, une dizaine de DCS, 40 auditeurs de justice).
 
 # Impact recherché
-Stage Direct vise à diviser par deux le temps administratif mensuel consacré par les DCS à la gestion des stages, libérant ainsi 63 heures par DCS et par an - soit 9 journées complètes - au profit de l'accompagnement pédagogique ou de l'activité juridictionnelle. À l'échelle du réseau, cela représente un potentiel de 14 490 heures de temps magistrat réaffectées à haute valeur ajoutée (équivalent de 8,5 ETP).
+Suivi Stage vise à diviser par deux le temps administratif mensuel consacré par les DCS à la gestion des stages, libérant ainsi 63 heures par DCS et par an - soit 9 journées complètes - au profit de l'accompagnement pédagogique ou de l'activité juridictionnelle. À l'échelle du réseau, cela représente un potentiel de 14 490 heures de temps magistrat réaffectées à haute valeur ajoutée (équivalent de 8,5 ETP).
 
 

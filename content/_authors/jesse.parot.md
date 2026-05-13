@@ -16,5 +16,11 @@ missions:
     end: 2026-06-30
     status: independent
     employer: Start The Fuck Up
+  - start: 2026-05-12
+    end: 2026-08-12
+    status: independent
+    employer: Start The Fuck Up
+    startups:
+      - metiers-du-sport
 ---
 Entrepreneur - Coach

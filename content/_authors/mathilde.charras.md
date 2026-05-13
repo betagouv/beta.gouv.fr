@@ -1,6 +1,6 @@
 ---
 fullname: Mathilde Charras
-role: Lead chargée de déploiement
+role: Bizdev
 domaine: Déploiement
 missions:
   - start: 2023-10-23
@@ -16,7 +16,7 @@ missions:
     startups:
       - monsuivipsy
   - start: 2026-03-09
-    end: 2026-06-09
+    end: 2026-09-30
     status: independent
     employer: MALT
     startups:

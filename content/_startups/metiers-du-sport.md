@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: selim.amara@beta.gouv.fr
+contact: antoine.merlin@sports.gouv.fr
 thematiques:
   - Formation
   - Jeunesse
@@ -20,6 +20,7 @@ phases:
 events:
   - name: product_launch
     date: 2025-10-08
+techno: []
 link: ''
 ---
 ## Contexte

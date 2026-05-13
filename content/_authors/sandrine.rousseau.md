@@ -1,6 +1,6 @@
 ---
 fullname: Sandrine  Rousseau
-role: Intrapreneuse pour Stage Direct
+role: Intrapreneuse pour Suivi Stage
 domaine: Intraprenariat
 competences: []
 missions:
@@ -8,4 +8,6 @@ missions:
     end: 2027-03-02
     status: admin
     employer: Beta Gouv
+    startups:
+      - stage-direct
 ---

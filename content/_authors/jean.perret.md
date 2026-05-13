@@ -13,5 +13,6 @@ memberType: beta
 fullname: Jean Perret
 role: Coach
 link: https://fr.linkedin.com/in/jean-perret-8751857
+github: JPPfr
 ---
 Couteau suisse, développeur usurpateur

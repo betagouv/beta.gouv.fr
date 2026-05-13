@@ -12,7 +12,7 @@ missions:
     status: service
     employer: NUMA
   - start: 2025-09-11
-    end: 2026-06-11
+    end: 2026-11-11
     status: service
     employer: Malt
     startups:
@@ -23,5 +23,6 @@ previously:
 competences:
   - Coaching
   - Droit / Affaires juridiques
+link: https://www.linkedin.com/in/thomas-menant-95171937/
 ---
 Le droit c'est tordu.

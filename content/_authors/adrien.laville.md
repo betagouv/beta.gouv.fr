@@ -6,7 +6,7 @@ github: AdrienLaville
 avatar: https://i.goopics.net/dpgnJ.jpg
 missions:
   - start: 2018-12-01
-    end: 2024-09-30
+    end: 2026-10-31
     status: service
     employer: NUMA
     startups:

@@ -7,7 +7,7 @@ avatar: https://www.gravatar.com/avatar/e8f6f2cce6baadb867e6836fe57b3596?s=512
 link: https://christophe.robiweb.net
 missions:
   - start: 2019-11-01
-    end: 2025-12-31
+    end: 2026-10-31
     status: independent
     employer: LaZone
     startups:

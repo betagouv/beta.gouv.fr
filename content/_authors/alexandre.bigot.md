@@ -7,7 +7,7 @@ competences:
   - Data Science
 missions:
   - start: 2024-12-09
-    end: 2100-01-01
+    end: 2026-12-31
     status: admin
     employer: DTNUM
     startups:
