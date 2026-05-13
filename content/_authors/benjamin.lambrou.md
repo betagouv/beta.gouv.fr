@@ -11,19 +11,19 @@ missions:
       - accesscite
       - asso.cie
       - tacct
-  - start: 2023-10-01
-    end: 2025-06-30
-    status: independent
-    employer: Numa
-    startups:
-      - asso.cie
   - start: 2025-03-17
-    end: 2026-06-01
+    end: 2026-10-31
     status: independent
     employer: Inops
     startups:
       - handicompatible
       - ma-communaute-crea
+  - start: 2026-05-01
+    end: 2026-10-31
+    status: independent
+    employer: Numa
+    startups:
+      - gestion.subventions.locales
 competences: []
 ---
-Coach produit France Travail
+Coach produit 
