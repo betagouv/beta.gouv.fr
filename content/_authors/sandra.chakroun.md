@@ -17,7 +17,7 @@ missions:
       - openfisca
       - reformes-locales
   - start: 2020-01-07
-    end: 2042-12-31
+    end: 2026-12-31
     status: admin
     employer: Assemblée nationale
     startups:

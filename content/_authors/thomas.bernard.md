@@ -18,9 +18,8 @@ competences:
 missions:
   - start: 2023-08-12
     end: 2026-07-31
-    employer: FabNum-MI      DTNUM SDID
     status: independent
+    employer: FabNum-MI      DTNUM SDID
     startups:
       - basegun
-teams: []
 ---

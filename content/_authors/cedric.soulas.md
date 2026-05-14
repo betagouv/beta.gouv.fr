@@ -27,6 +27,12 @@ missions:
     employer: Malt
     startups:
       - mission-transition-ecologique
+  - start: 2026-05-13
+    end: 2026-08-13
+    status: independent
+    employer: Malt
+    startups:
+      - pv.facile
 competences: []
 ---
 Développeur d’applications web et créateur de formations illustrées

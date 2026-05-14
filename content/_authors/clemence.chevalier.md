@@ -15,7 +15,7 @@ missions:
     startups:
       - pass.engagement.jeune
   - start: 2025-01-07
-    end: 2026-06-25
+    end: 2026-09-30
     status: independent
     startups:
       - tdb-apprentissage
