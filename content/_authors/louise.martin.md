@@ -11,5 +11,5 @@ missions:
     end: 2026-05-04
     status: admin
     startups:
-      - reglementation-nitrates
+      - peste-porcine-africaine
 ---

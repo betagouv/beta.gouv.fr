@@ -18,7 +18,7 @@ missions:
       - tremplin
       - zero-logement-vacant
   - start: 2023-12-31
-    end: 2030-12-31
+    end: 2026-12-31
     status: admin
     employer: DINUM
 competences:

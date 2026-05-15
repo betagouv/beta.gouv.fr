@@ -26,7 +26,7 @@ missions:
     startups:
       - ecobalyse
   - start: 2026-01-05
-    end: 2026-06-13
+    end: 2026-11-13
     status: independent
     employer: path tech
 previously:

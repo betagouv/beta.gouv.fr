@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: La Fabrique Numérique
   - start: 2024-02-19
-    end: 2030-05-19
+    end: 2026-12-19
     status: admin
     employer: DINUM
     startups:

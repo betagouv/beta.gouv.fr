@@ -32,9 +32,9 @@ Améliorer de façon fiable, sécurisée et durable le processus des démarches 
 ## Solution
 
 Un outil de gestion de projet dédié aux démarches d’état civil, ayant pour objectifs :
-o Avoir un meilleur traitement suivi des dossiers d'état civil
-o Améliorer la relation avec l’usager qui réalise des démarches d’état civil
-o Identifier les opportunités et axes d’amélioration dans le traitement des démarches d’état civil
+-  Avoir un meilleur traitement suivi des dossiers d'état civil
+-  Améliorer la relation avec l’usager qui réalise des démarches d’état civil
+- Identifier les opportunités et axes d’amélioration dans le traitement des démarches d’état civil
 
 
 ## Objectifs à 6 mois
