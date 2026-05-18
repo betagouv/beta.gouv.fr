@@ -8,10 +8,9 @@ competences:
   - Accessibilité
   - Développement Frontend
   - JavaScript/TypeScript
-  - PHP
   - Product design
   - UI
-  - UX
+  - Développement Full-stack
 missions:
   - start: 2024-09-09
     end: 2026-06-28

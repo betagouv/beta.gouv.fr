@@ -11,7 +11,7 @@ missions:
     startups:
       - cartobio
   - start: 2024-06-17
-    end: 2026-05-30
+    end: 2026-07-31
     status: independent
     employer: UT7
     startups:

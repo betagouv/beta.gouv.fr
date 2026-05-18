@@ -17,12 +17,12 @@ missions:
       - place-de-marche-inclusion
       - zen
   - start: 2020-01-02
-    end: 2025-06-30
+    end: 2024-12-30
     status: independent
     startups:
       - inventaire.friches.agricoles
   - start: 2024-10-01
-    end: 2026-05-31
+    end: 2026-12-31
     status: admin
     employer: Ministère de l'agriculture
 competences:

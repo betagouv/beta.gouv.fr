@@ -12,7 +12,7 @@ missions:
     startups:
       - bat-id
   - start: 2025-12-15
-    end: 2026-06-15
+    end: 2026-12-01
     status: admin
     startups:
       - bat-id

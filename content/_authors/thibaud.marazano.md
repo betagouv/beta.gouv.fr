@@ -6,7 +6,7 @@ link: https://tmzn.me
 github: ThibaudMZN
 missions:
   - start: 2023-02-17
-    end: 2026-06-12
+    end: 2026-09-30
     status: independent
     employer: Omnicité La Zone
     startups:

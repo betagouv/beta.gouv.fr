@@ -10,6 +10,12 @@ missions:
     employer: Telescoop
     startups:
       - mon-diagnostic-artificialisation
+  - start: 2026-04-20
+    end: 2026-11-18
+    status: independent
+    employer: Cober
+    startups:
+      - csplab
 competences:
   - Développement Full-stack
   - JavaScript/TypeScript

@@ -55,7 +55,7 @@ missions:
     startups:
       - prelevements.deau
   - start: 2025-10-01
-    end: 2026-06-30
+    end: 2026-09-30
     status: service
     employer: Living Data
     startups:
