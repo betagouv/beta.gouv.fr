@@ -5,7 +5,7 @@ role: Responsable de l'ouverture des données
 github: Brewennn
 missions:
   - start: 2024-04-08
-    end: 2026-06-01
+    end: 2026-09-01
     status: independent
     employer: Pathtech
     startups:
@@ -17,5 +17,8 @@ competences:
   - Droit / Affaires juridiques
   - Facilitation
   - Product strategy
+  - Data Science
+  - PostgreSQL
+  - Croissance
 ---
 Responsable de l'ouverture des données, je suis intéressé par le monde de la mobilité et du transport du point de vue politique, économique et juridique, mais également curieux de tous les sujets qui touchent notre société.

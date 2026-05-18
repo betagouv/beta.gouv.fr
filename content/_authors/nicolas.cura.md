@@ -9,10 +9,9 @@ competences:
 missions:
   - start: 2026-05-07
     end: 2026-11-07
-    employer: LBC
     status: independent
+    employer: LBC
     startups:
       - pitchou
-teams: []
 ---
 Ingénieur logiciel indépendant
