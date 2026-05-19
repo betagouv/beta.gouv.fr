@@ -4,7 +4,7 @@ fullname: Maelys Gloro
 role: Design
 missions:
   - start: 2024-04-30
-    end: 2026-03-31
+    end: 2026-07-31
     status: admin
     employer: Dinum
     startups:
@@ -13,5 +13,11 @@ missions:
     end: 2026-03-31
     status: admin
     employer: SGAR Bretagne et DITP
+  - start: 2026-05-04
+    end: 2026-10-30
+    status: independent
+    employer: Mednum
+    startups:
+      - refugies.info
 competences: []
 ---

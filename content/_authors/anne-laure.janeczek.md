@@ -6,7 +6,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2024-01-26
-    end: 2026-06-01
+    end: 2026-12-01
     status: admin
     employer: Ministère de la Culture
     startups:

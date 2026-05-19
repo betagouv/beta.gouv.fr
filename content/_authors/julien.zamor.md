@@ -16,7 +16,7 @@ missions:
     startups:
       - docurba
   - start: 2026-03-01
-    end: 2026-06-03
+    end: 2026-08-03
     status: independent
     employer: Fairness
     startups:

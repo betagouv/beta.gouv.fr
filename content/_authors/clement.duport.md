@@ -16,6 +16,12 @@ missions:
     employer: France Travail
     startups:
       - l-immersion-facile
+  - start: 2026-06-01
+    end: 2026-08-30
+    status: independent
+    employer: France Travail
+    startups:
+      - l-immersion-facile
 competences: []
 ---
 Développeur Fullstack

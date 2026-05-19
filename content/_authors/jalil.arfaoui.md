@@ -6,7 +6,7 @@ link: https://jalil.arfaoui.net/
 github: JalilArfaoui
 missions:
   - start: 2024-02-22
-    end: 2026-05-30
+    end: 2026-10-31
     status: independent
     employer: INOPS
     startups:
