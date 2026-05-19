@@ -15,6 +15,13 @@ missions:
     employer: OCTO
     startups:
       - agrements-assistants-maternels-et-familiaux
+  - start: 2026-05-13
+    end: 2026-06-12
+    status: service
+    employer: OCTO
+    startups:
+      - agora
 memberType: beta
 competences: []
+github: WoWo79
 ---

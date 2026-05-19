@@ -11,10 +11,9 @@ competences:
   - Facilitation
 missions:
   - start: 2024-07-05
-    end: 2026-05-29
+    end: 2026-09-30
     status: independent
     employer: Omnicité
     startups:
       - mon.espace.collectivite
 ---
-Juriste engagée dans la valorisation des territoires par le numérique

@@ -1,17 +1,16 @@
 ---
 fullname: Jules SAUR
 domaine: Déploiement
-role: Chargé de déploiement
+role: PO, Chargé de déploiement
 missions:
   - start: 2021-05-10
-    end: 2026-05-31
+    end: 2026-11-18
     status: independent
-    employer: Malt
+    employer: COBER/LaManufacture
     startups:
       - ban
       - bases.adresses.locales
 badges:
   - segur
-competences:
-  - Croissance
+competences: []
 ---

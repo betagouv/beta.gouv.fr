@@ -1,6 +1,6 @@
 ---
 fullname: Nicolas Oudard
-role: Lead Tech Longue vie aux objets
+role: Lead Tech - Developpeur - DevOps
 domaine: Développement
 link: https://techilearned.com
 github: kolok

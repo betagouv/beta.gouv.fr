@@ -7,9 +7,8 @@ competences: []
 missions:
   - start: 2026-05-19
     end: 2026-10-31
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - urbanvitaliz
-teams: []
 ---

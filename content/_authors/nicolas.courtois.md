@@ -31,7 +31,7 @@ missions:
     startups:
       - maestro
   - start: 2024-12-02
-    end: 2026-06-01
+    end: 2026-10-30
     status: independent
     employer: ' '
     startups:

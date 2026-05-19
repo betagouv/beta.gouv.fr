@@ -1,7 +1,7 @@
 ---
 fullname: Jocerand Ducroux
 role: Responsable marché mentorat OCTO
-domaine: Coaching
+domaine: Attributaire
 competences:
   - Coaching
 missions:

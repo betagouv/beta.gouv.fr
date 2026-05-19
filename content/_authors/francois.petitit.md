@@ -1,7 +1,7 @@
 ---
 fullname: François Petitit
 role: Architecte/Manager Services Publics chez OCTO Technology
-domaine: Développement
+domaine: Attributaire
 competences:
   - Développement Backend
   - Développement Frontend
@@ -11,7 +11,7 @@ competences:
   - Python
 missions:
   - start: 2024-12-17
-    end: 2026-05-17
+    end: 2026-11-17
     status: service
     employer: OCTO
     startups:
