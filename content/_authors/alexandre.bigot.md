@@ -7,10 +7,14 @@ competences:
   - Data Science
 missions:
   - start: 2024-12-09
-    end: 2026-12-31
+    end: 2026-05-20
     status: admin
     employer: DTNUM
     startups:
       - astree
+  - start: 2024-12-09
+    end: 2026-12-31
+    status: admin
+    employer: DTNUM
 ---
 Courte bio

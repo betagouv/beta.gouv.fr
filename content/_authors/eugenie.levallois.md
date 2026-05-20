@@ -9,8 +9,13 @@ missions:
     status: service
     employer: DTNUM/SDID
     startups:
-      - astree
       - basegun
+  - start: 2023-06-25
+    end: 2026-05-20
+    status: service
+    employer: DTNUM/SDID
+    startups:
+      - astree
 memberType: autre
 link: https://www.linkedin.com/in/eugenielevallois/
 competences:

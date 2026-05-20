@@ -1,7 +1,7 @@
 ---
 fullname: Raouf HAMITOU
-role: Customer Success manager
-domaine: Support
+role: Chargé de déploiement
+domaine: Déploiement
 link: https://www.linkedin.com/in/raouf-hamitou-ba6633114/
 competences:
   - Airtable
@@ -15,9 +15,9 @@ competences:
   - Trello
 missions:
   - start: 2025-02-20
-    end: 2026-06-30
+    end: 2026-11-20
     status: independent
-    employer: Pathtech
+    employer: Crème de la crème
     startups:
       - mobilic
 ---

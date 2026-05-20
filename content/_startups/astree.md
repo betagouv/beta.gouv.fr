@@ -9,13 +9,15 @@ accessibility_status: non conforme
 events:
   - name: product_launch
     date: 2025-12-04
-    comment: Partage du produit minimum viable aux utilisateurs
+    comment: Mise à disposition d'un produit minimum viable aux utilisateurs
 phases:
   - name: investigation
     start: 2023-01-16
     end: 2023-06-20
   - name: construction
     start: 2024-05-02
+  - name: acceleration
+    start: 2025-12-04
 thematiques:
   - Administratif
 usertypes:

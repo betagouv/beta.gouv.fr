@@ -15,6 +15,8 @@ phases:
     start: 2020-11-02
   - name: acceleration
     start: 2021-06-01
+  - name: perennisation
+    start: 2025-12-01
 usertypes:
   - collectivite-territoriale
   - association

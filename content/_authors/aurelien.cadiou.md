@@ -11,7 +11,7 @@ missions:
     startups:
       - prevention_ruptures_apprentissage
   - start: 2023-06-19
-    end: 2026-07-19
+    end: 2026-04-30
     status: independent
     employer: Pathtech
     startups:
@@ -22,6 +22,12 @@ missions:
     employer: Pathtech
     startups:
       - mediation.logement
+  - start: 2026-05-18
+    end: 2026-11-18
+    status: independent
+    employer: Docaposte
+    startups:
+      - dialogue
 link: https://www.linkedin.com/in/aurelien-nocoder/
 competences:
   - Communication

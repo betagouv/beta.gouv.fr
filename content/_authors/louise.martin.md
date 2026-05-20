@@ -8,7 +8,7 @@ missions:
     end: 2026-12-31
     status: admin
   - start: 2025-06-02
-    end: 2026-05-04
+    end: 2027-05-04
     status: admin
     startups:
       - peste-porcine-africaine

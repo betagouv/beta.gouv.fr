@@ -1,6 +1,6 @@
 ---
-fullname: Jennifer L. Laurent
-role: UX Designer
+fullname: Jennifer Laurent
+role: UX/UI Designer
 domaine: Animation
 competences:
   - UX
@@ -14,4 +14,4 @@ missions:
     startups:
       - srdt-ia
 ---
-Experte Recherche Utilisateurs
+Experte Recherche Utilisateur

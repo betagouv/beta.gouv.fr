@@ -6,7 +6,7 @@ link: https://qyall.fr
 github: ltosi
 missions:
   - start: 2023-08-25
-    end: 2026-05-30
+    end: 2026-10-31
     status: independent
     employer: Pathtech
     startups:
