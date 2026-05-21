@@ -504,16 +504,7 @@ img.lozad {
   max-width: 120px;
 }
 
-.fast-cta {
-  background: var(--artwork-decorative-blue-france);
-}
-
-.fr-tile.tile-highlight {
-  box-shadow: unset;
-  background: transparent;
-}
-
-mark {
+.mark {
   background-color: var(--yellow-tournesol-950-100);
   padding: 0 0.3rem;
   margin: 0 -0.3rem;
@@ -702,4 +693,25 @@ ul.standards .score {
 
 .fr-text--dimmed {
   color: #666;
+}
+
+/* DSFR OVERRIDES - adapted from standards.beta.gouv.fr */
+ul + p, ul + h2 {
+  margin-top: 0.9rem;
+}
+
+li {
+  font-size: 1rem;
+}
+
+p:has(+ ul) {
+  margin-bottom: 0.9rem;
+}
+
+hr + h2 {
+  margin-top: 0.75rem !important;
+}
+
+main section:last-child {
+  padding-bottom: 2rem;
 }

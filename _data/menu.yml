@@ -1,14 +1,24 @@
 ---
 title:
 nav:
+  - label: Programme
+    children:
+      - label: Découvrir le programme
+        target: _pages/approche.md
+      - label: Devenir intrapreneur
+        target: _pages/intrapreneur.md
+      - label: Découvrir notre manifeste
+        target: _pages/manifeste.md
   - label: Réseau d'incubateurs
     target: _pages/incubateurs.md
   - label: Services numériques
     target: _pages/realisations.md
-  - label: FAST
-    target: _pages/fast.md
-  - label: EIG
-    target: _pages/eig.md
+  - label: Accompagnements
+    children:
+      - label: Programme de consolidation
+        target: _pages/accompagnements/programme-de-consolidation.md
+      - label: EIG
+        target: _pages/eig.md
   - label: Communauté
     target: _pages/communaute.md
   - label: Nous rejoindre
@@ -21,6 +31,11 @@ shortcuts:
   - label: Standards
     external: true
     url: https://standards.beta.gouv.fr/
+accompagnements:
+  - label: Contenu du programme
+    target: /accompagnements/programme-de-consolidation/contenu-du-programme
+  - label: Critères de sélection
+    target: /accompagnements/programme-de-consolidation/criteres-de-selection
 fast:
   - label: Sélection au FAST
     target: /fast/sélection
