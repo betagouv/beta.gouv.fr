@@ -1,8 +1,7 @@
 ---
-layout: with-sidebar
 sidebar: sidebar-approche.html
 permalink: /devenir-intrapreneur/decouvrir-le-role-d-intrapreneur
-title: Decouvrir le role d'intrapreneur
+title: Découvrir le role d'intrapreneur
 layout: intrapreneur-role
 breadcrumbs:
     - title: Accueil
