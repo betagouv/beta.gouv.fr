@@ -16,8 +16,10 @@ phases:
   - name: acceleration
     start: 2023-07-01
     end: 2024-04-01
+  - name: perennisation
+    start: 2024-01-01
   - name: transfere
-    start: 2024-04-01
+    start: 2026-12-31
 techno:
   - React
   - TypeScript
@@ -36,7 +38,7 @@ thematiques:
   - Formation
 analyse_risques: true
 mon_service_securise: true
-budget_url: https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2025/projet-loi-finances-les/jaunes-budgetaires-2025-plf-2025
+budget_url: ' Formation professionnelle - Annexe au projet de loi de finances 2026 (PDF, 3.74 Mo)'
 events:
   - name: national_impact
     date: 2025-02-26
@@ -88,3 +90,7 @@ Depuis la mise en place de France VAE qui centralise sur un même espace numéri
 Ces transformations ont un impact particulièrement positif dans les secteurs sanitaire, social et médico-social, où la demande pour des professionnels certifiés est élevée. Les certifications les plus sollicitées incluent le DEES pour les éducateurs spécialisés, le DEAS pour les aides-soignants, et d’autres diplômes essentiels pour le soutien de populations vulnérables.
 
 En facilitant l’accès à la certification pour des milliers de professionnels, France VAE accroît les opportunités d’emploi, souvent à meilleur salaire, mais renforce aussi la culture de reconnaissance des compétences par l’expérience, ouvrant la voie à un système plus inclusif et dynamique pour la certification professionnelle.
+
+
+### Un transfert opéré vers la Caisse des Dépots et de Consignations à partir de septembre 2026
+Initialement prévu par la loi de decembre 2022, France VAE devait faire l'objet d'un transfert au sein d'un GIP. Cette disposition legislative sera prochainement abbrogée au profit de la CDC. France VAE sera integrée au 1er janvier  au sein de la direction de la formation  de la CDC.

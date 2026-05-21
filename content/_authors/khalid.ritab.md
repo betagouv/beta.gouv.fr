@@ -7,8 +7,6 @@ competences:
 missions:
   - start: 2026-05-18
     end: 2026-11-18
-    employer: La Crème de la Crème
     status: service
-    startups: []
-teams: []
+    employer: La Crème de la Crème
 ---

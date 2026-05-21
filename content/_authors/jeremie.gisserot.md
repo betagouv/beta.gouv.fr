@@ -18,5 +18,11 @@ missions:
     employer: Diair
     startups:
       - refugies.info
+  - start: 2026-05-14
+    end: 2026-10-31
+    status: independent
+    employer: MEN
+    startups:
+      - an-su
 ---
 Développeur front-end senior et designer UX/UI, j’interviens au croisement du produit, du design system, de l’accessibilité et de l'impact. Avec plus de 15 ans d’expérience, j’aime faire le lien entre intention créative et exécution technique, en gardant toujours les besoins des utilisateurs et utilisatrices à l'esprit.

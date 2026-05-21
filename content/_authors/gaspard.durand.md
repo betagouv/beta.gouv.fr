@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-05-20
     end: 2026-06-19
-    employer: dinum
     status: admin
+    employer: dinum
     startups:
       - espace-membre
-teams: []
 ---
