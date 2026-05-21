@@ -33,6 +33,12 @@ missions:
     employer: LittleBigConnection
     startups:
       - fonds-prevention-argile
+  - start: 2026-05-19
+    end: 2026-08-19
+    status: independent
+    employer: Octo
+    startups:
+      - peste-porcine-africaine
 competences:
   - Croissance
   - Développement Full-stack

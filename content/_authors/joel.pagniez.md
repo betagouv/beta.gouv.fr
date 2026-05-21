@@ -10,10 +10,15 @@ missions:
     status: admin
     employer: Lab-MI
     startups:
-      - astree
       - data-demineur
       - psij
       - re-ac-t
+  - start: 2019-11-26
+    end: 2026-05-20
+    status: admin
+    employer: Lab-MI
+    startups:
+      - astree
 previously:
   - candilib
 competences:

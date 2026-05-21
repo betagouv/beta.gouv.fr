@@ -6,15 +6,15 @@ link: https://buquet-net.com/
 github: NicolasBuquet
 missions:
   - start: 2023-01-03
-    end: 2026-05-18
+    end: 2026-03-31
     status: independent
     employer: Malt
     startups:
       - tchap
   - start: 2026-01-08
-    end: 2026-06-14
+    end: 2026-11-20
     status: independent
-    employer: ut/7
+    employer: /ut7
     startups:
       - ami
 memberType: beta

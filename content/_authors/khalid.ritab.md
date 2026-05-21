@@ -1,12 +1,14 @@
 ---
-fullname: Stéphanie Peccenini
-role: 'Businesss unit Director '
+fullname: Khalid Ritab
+role: admin de vente
 domaine: Attributaire
 competences:
-  - Communication
+  - adv
 missions:
   - start: 2026-05-18
     end: 2026-11-18
-    status: service
     employer: La Crème de la Crème
+    status: service
+    startups: []
+teams: []
 ---

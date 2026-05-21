@@ -16,8 +16,10 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-07-22
-  - name: abandon-investigation
-    start: 2025-06-30
+  - name: construction
+    start: 2025-12-25
+  - name: transfere
+    start: 2026-06-30
 events:
   - name: committee
     date: 2024-11-20

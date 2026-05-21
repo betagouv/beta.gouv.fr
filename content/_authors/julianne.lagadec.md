@@ -28,7 +28,7 @@ missions:
     startups:
       - pass-sport
   - start: 2025-03-13
-    end: 2026-05-31
+    end: 2026-06-30
     status: admin
 previously:
   - voeux-apprentissage

@@ -4,11 +4,11 @@ fullname: Fabien Bézagu
 role: Développement
 missions:
   - start: 2024-05-30
-    end: 2026-05-31
+    end: 2026-10-30
     status: service
-    employer: Omnicité La Zone
+    employer: Crème de la crème
     startups:
-      - homologation
+      - mes-services-cyber
 github: fbezagu
 competences:
   - Développement Full-stack

@@ -7,9 +7,9 @@ thematiques:
   - Santé
 usertypes:
   - etat
-techno:
-  - grist
-title: ODICE
+  - entreprise
+techno: []
+title: Odicé
 mission: Outiller et aider à la décision des services pour leur gestion de la peste porcine africaine (PPA)
 incubator: agriculture
 sponsors:

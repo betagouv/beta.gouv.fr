@@ -4,9 +4,11 @@ fullname: Soizic Billet
 role: Produit
 missions:
   - start: 2024-04-26
-    end: 2025-12-31
+    end: 2026-08-28
     status: admin
     employer: Gendarmerie nationale
+    startups:
+      - envirogend
 link: https://www.linkedin.com/in/soizic-billet-b28785151/
 competences:
   - Intrapreneur(se)

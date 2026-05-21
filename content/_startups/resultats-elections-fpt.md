@@ -23,6 +23,7 @@ events:
   - name: product_launch
     date: 2026-03-31
 link: https://grist.numerique.gouv.fr/o/dgcl/nSM9tj7KSr5G/ResultatsElectionsFPT
+repository: https://github.com/betagouv/Resultats-Elections-FPT
 ---
 ## Contexte
 

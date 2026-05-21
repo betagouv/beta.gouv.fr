@@ -24,7 +24,7 @@ missions:
     status: independent
     employer: Codeureuses en Liberté
   - start: 2024-11-12
-    end: 2026-05-29
+    end: 2026-05-01
     status: independent
     employer: Codeureuses en Liberté
     startups:

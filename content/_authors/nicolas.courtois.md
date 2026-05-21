@@ -36,6 +36,12 @@ missions:
     employer: ' '
     startups:
       - je-deviens-etudiant
+  - start: 2026-05-19
+    end: 2026-08-19
+    status: independent
+    employer: Docaposte
+    startups:
+      - stage-direct
 competences:
   - Figma
   - Product design
