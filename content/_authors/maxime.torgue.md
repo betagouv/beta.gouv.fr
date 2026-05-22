@@ -17,9 +17,7 @@ competences:
 missions:
   - start: 2026-05-18
     end: 2026-11-18
-    employer: DINUM
     status: admin
-    startups: []
-teams: []
+    employer: DINUM
 ---
 Étudiant en développement avec un intérêt pour le DevOps, l’automatisation, Docker, le scripting et les environnements cloud.
