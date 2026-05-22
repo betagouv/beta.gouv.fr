@@ -1,6 +1,6 @@
 ---
 fullname: Eric Sanchez
-role: Développeur fullstack
+role: Tech Lead
 domaine: Développement
 github: Eric013
 link: https://www.linkedin.com/in/eric-sanchez-tech
@@ -11,6 +11,7 @@ competences:
   - Python
   - UI
   - UX
+  - PostgreSQL
 missions:
   - start: 2024-08-26
     end: 2025-07-31
@@ -18,8 +19,10 @@ missions:
     employer: Malt
     startups:
       - snu
-  - start: 2026-04-27
+  - start: 2026-05-11
     end: 2026-07-24
     status: independent
     employer: ORDESOFT
+    startups:
+      - si-commun-at-pro
 ---
