@@ -20,7 +20,7 @@ missions:
     startups:
       - snu
   - start: 2026-05-11
-    end: 2026-07-24
+    end: 2026-10-31
     status: independent
     employer: ORDESOFT
     startups:
