@@ -6,7 +6,7 @@ github: marionholis
 link: https://www.linkedin.com/in/marion-gros-81661725/
 missions:
   - start: 2021-05-03
-    end: 2026-05-30
+    end: 2027-04-30
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:

@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: AnnaO75
 missions:
   - start: 2022-10-24
-    end: 2026-06-24
+    end: 2026-12-31
     status: admin
     employer: Direction Générale des Entreprises
     startups:

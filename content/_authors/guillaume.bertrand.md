@@ -22,7 +22,7 @@ missions:
     startups:
       - plusfraichemaville
   - start: 2025-09-12
-    end: 2026-06-23
+    end: 2026-09-30
     status: independent
     employer: LBC
     startups:

@@ -5,7 +5,7 @@ domaine: Design
 link: http://delaisement.fr/
 missions:
   - start: 2023-02-06
-    end: 2026-06-14
+    end: 2026-09-07
     status: independent
     employer: GIP PLATEFORME DE L'INCLUSION
     startups:

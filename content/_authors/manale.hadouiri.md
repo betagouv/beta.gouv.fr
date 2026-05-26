@@ -9,7 +9,7 @@ competences:
   - Administration Publique
 missions:
   - start: 2026-02-23
-    end: 2026-06-30
+    end: 2026-05-11
     status: service
     employer: DJEPVA
     startups:

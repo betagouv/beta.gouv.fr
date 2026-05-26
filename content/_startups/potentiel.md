@@ -2,6 +2,7 @@
 title: Potentiel
 mission: Être un outil central des dispositifs de soutien aux EnR électriques, en facilitant le parcours administratif et en produisant des données stratégiques.
 sponsors:
+  - /organisations/dgec
   - /organisations/ministere-charge-de-l-energie
 incubator: mtes
 link: https://potentiel.beta.gouv.fr/
@@ -22,6 +23,8 @@ phases:
     start: 2019-11-30
   - name: acceleration
     start: 2022-01-01
+  - name: opere
+    start: 2026-05-26
 accessibility_status: non conforme
 thematiques:
   - Écologie
