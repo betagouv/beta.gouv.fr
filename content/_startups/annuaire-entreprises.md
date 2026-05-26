@@ -16,6 +16,7 @@ usertypes:
   - particulier
   - entreprise
   - etat
+  - agent public
 incubator: dinum_produits_interministeriels
 link: https://annuaire-entreprises.data.gouv.fr
 repository: https://github.com/etalab/annuaire-entreprises.data.gouv.fr
@@ -34,12 +35,13 @@ fast:
   promotion: 16
   montant: 200000
 techno:
-  - next.js
   - node
   - elasticSearch
   - fastAPI
   - nginx
   - OVH
+  - 'tanstack start '
+impact_url: https://annuaire-entreprises.data.gouv.fr/a-propos/stats
 ---
 ## Le problème :
 

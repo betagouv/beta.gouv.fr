@@ -1,6 +1,6 @@
 ---
 fullname: Christophe Combelles
-role: Ingénieur back-end / data
+role: Ingénieur ACV / data
 domaine: Développement
 github: ccomb
 link: https://www.gorfou.fr
@@ -20,8 +20,8 @@ competences:
   - Docker
   - Elm
   - Machine learning
-  - Matomo
   - PostgreSQL
   - Python
+  - Haskell
 ---
 ingénieur logiciel et cloud spécialisé Open-Source, Cloud, Analyse du Cycle de Vie (ACV) et logiciels de gestion (ERP/PGI)
