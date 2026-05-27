@@ -10,7 +10,7 @@ phases:
     start: 2019-04-05
   - name: investigation
     start: 2019-04-05
-  - name: perennisation
+  - name: consolidation
     start: 2023-11-13
   - name: transfere
     start: 2024-10-21

@@ -19,7 +19,7 @@ phases:
     start: 2023-12-15
   - name: construction
     start: 2024-02-15
-  - name: perennisation
+  - name: consolidation
     start: 2025-10-07
   - name: transfere
     start: 2025-12-18

@@ -21,7 +21,7 @@ phases:
     end: 2022-12-31
   - name: acceleration
     start: 2023-01-01
-  - name: perennisation
+  - name: consolidation
     start: 2023-04-01
     end: 2023-06-30
   - name: transfere

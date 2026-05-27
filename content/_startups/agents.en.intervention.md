@@ -19,7 +19,7 @@ events:
 phases:
   - name: construction
     start: 2023-04-03
-  - name: perennisation
+  - name: consolidation
     start: 2026-01-01
 stats_url: https://agentsenintervention.anct.gouv.fr/statistiques
 mon_service_securise: true

@@ -12,7 +12,7 @@ missions:
     startups:
       - mon-aide-cyber
   - start: 2026-03-02
-    end: 2026-06-02
+    end: 2026-09-30
     status: independent
     employer: Little Big Connection
     startups:

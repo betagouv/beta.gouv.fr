@@ -12,7 +12,7 @@ phases:
     start: 2024-03-01
   - name: acceleration
     start: 2025-03-01
-  - name: perennisation
+  - name: consolidation
     start: 2026-05-12
 accessibility_status: totalement conforme
 thematiques:

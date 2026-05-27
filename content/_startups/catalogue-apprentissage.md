@@ -13,7 +13,7 @@ contact: catalogue-apprentissage@education.gouv.fr
 stats_url: https://catalogue.apprentissage.beta.gouv.fr/stats
 stats: true
 phases:
-  - name: perennisation
+  - name: consolidation
     start: 2020-07-01
     end: 2021-03-31
   - name: transfere

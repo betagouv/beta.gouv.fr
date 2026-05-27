@@ -4,7 +4,7 @@ domaine: Intraprenariat
 role: Intrapreneure
 missions:
   - start: 2021-01-01
-    end: 2026-06-30
+    end: 2026-12-30
     status: admin
     startups:
       - docurba

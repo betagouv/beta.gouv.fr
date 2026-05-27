@@ -9,9 +9,10 @@ missions:
     employer: Omnicité
     startups:
       - oots.once-only.technical.system
-  - start: 2025-02-25
-    end: 2026-06-25
+  - start: 2026-01-01
+    end: 2026-08-31
     status: independent
+    employer: /UT7
     startups:
       - ami
 link: https://www.linkedin.com/in/ca1000-verleye/

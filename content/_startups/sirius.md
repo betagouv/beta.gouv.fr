@@ -7,7 +7,7 @@ incubator: dinum
 phases:
   - name: construction
     start: 2022-12-01
-  - name: perennisation
+  - name: consolidation
     start: 2024-12-31
   - name: abandon
     start: 2025-03-31

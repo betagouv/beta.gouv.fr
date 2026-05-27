@@ -19,7 +19,7 @@ phases:
     end: 2023-01-13
   - name: acceleration
     start: 2023-01-13
-  - name: perennisation
+  - name: consolidation
     start: 2024-01-01
 thematiques:
   - Jeunesse

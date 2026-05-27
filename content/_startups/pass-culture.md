@@ -12,7 +12,7 @@ phases:
     start: 2018-02-28
   - name: acceleration
     start: 2019-07-22
-  - name: perennisation
+  - name: consolidation
     start: 2019-07-22
   - name: transfere
     start: 2021-05-01

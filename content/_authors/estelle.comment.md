@@ -27,7 +27,7 @@ missions:
     startups:
       - tchap
   - start: 2026-03-03
-    end: 2026-06-03
+    end: 2026-09-03
     status: independent
     employer: Little Big Connection
     startups:
