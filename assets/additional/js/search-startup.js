@@ -134,6 +134,9 @@ const startupIsNotInvestigation = (startup) =>
 const startupHasNationalImpact = (startup) =>
   startup.events.find((event) => event.name === "national_impact");
 
+const phaseShouldCount = (phaseName) =>
+  !["transfere", "abandon", "abandon-investigation"].includes(phaseName);
+
 const updateCards = (data) => {
   displayNoDataMessage(false);
   const grid = document.getElementsByClassName("startups")[0];
@@ -149,7 +152,9 @@ const updateCards = (data) => {
     const dataToDisplay = filterCards(data[phase]);
     const phaseCount = dataToDisplay.length;
 
-    totalCount += phaseCount;
+    if (phaseShouldCount(phase)) {
+      totalCount += phaseCount;
+    }
 
     if (phaseCount === 0) {
       phaseElement.style.display = "none";
