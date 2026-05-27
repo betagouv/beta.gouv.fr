@@ -17,7 +17,5 @@ missions:
     employer: ANCT
     startups:
       - données-et-territoires
-teams:
-  - /teams/mtes
 competences: []
 ---

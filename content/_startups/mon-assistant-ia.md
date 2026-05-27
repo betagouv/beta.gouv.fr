@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: contact-assistant@numerique.gouv.fr
+contact: support-assistant@numerique.gouv.fr
 link: https://assistant.numerique.gouv.fr/
 stats_url: https://albert.numerique.gouv.fr/stats
 thematiques:
@@ -18,10 +18,10 @@ incubator: alliance
 sponsors:
   - /organisations/dinum
 phases:
-  - name: investigation
-    start: 2025-03-10
   - name: construction
     start: 2025-05-02
+  - name: investigation
+    start: 2025-10-22
 events:
   - name: product_launch
     date: 2025-05-02
@@ -31,47 +31,97 @@ events:
     comment: Lancement de la nouvelle plateforme en expérimentation fermée
 repository: https://github.com/suitenumerique/conversations#
 ---
-## 🧭 Assistant IA : fin de la phase 1 de l'expérimentation et suite du projet
+# Assistant IA
 
-Bonjour à toutes et à tous,
 
-L’expérimentation de **l’Assistant IA sous sa forme actuelle** touche à sa fin. Le plateforme disponible sur <https://albert.numerique.gouv.fr> va donc fermer ses portes prochainement.\
-Ces derniers mois nous ont permis de collecter de précieuses données et retours d’usage — autant d’enseignements qui nourrissent la création d’un outil plus **robuste**, **mieux adapté aux besoins identifiés pour la fonction publique d'état**.
+[Accéder à Assistant IA](https://assistant.numerique.gouv.fr)
 
-Nous avions besoin de vos retours d'utilisation de cet outil pour valider les hypothèses de besoin d'outils d'IA générative de ce genre pour l'administration. Vous avez été au rendez-vous et nous vous en remercions !
+## Le problème de départ
 
-Grâce à vous, nous passons à **la phase 2 🚀 de l'Assistant IA 🤖**
+L'arrivée de l'intelligence artificielle générative est porteuse de promesses pour améliorer le quotidien des agents publics, mais ces potentiels gains sont freinés par plusieurs irritants : 
 
-### 🚧 Et maintenant ?
+* **Manque de clarté** : les agents ne savent pas quels outils utiliser, selon quelles conditions de confidentialité
+* **Coûts dispersés** : chaque ministère développe, maintient et héberge sa propre infrastructure, doublonnant les investissements
+* **Risques de sécurité** : face à l'absence d'outils adaptés et fiables, certains agents ont recours à des solutions grand public non sécurisées (phénomène du « shadow IA »)
+* **Inégalités d'accès** : tous les agents n'ont pas accès aux mêmes outils, selon leur ministère ou direction
 
-Un **nouvel Assistant IA** est en cours de développement, dans la continuité de la version actuelle, pleinement intégré à l'écosystème de [La Suite Numérique](https://lasuite.numerique.gouv.fr/), construit par et pour des agents publics.\
-Celui-ci sera :
+Une enquête interne (menée auprès de 2 000 agents des Ministères Économiques et Financiers en 2025) a confirmé que **l'utilisation clandestine d'outils d'IA non sécurisés** s'était généralisée, sans cadre de gouvernance, sans garanties de confidentialité, sans conformité avec les obligations des agents publics et de l'administration.
 
-* en expérimentation **restreinte** à partir du 22 octobre 2025,
+**En résumé, les agents publics manquent d'outils d'IA modernes, sécurisés et souverains. La fragmentation ministérielle crée des coûts excessifs et des risques de conformité.**
 
-* en expérimentation **ouverte&#x20;**&#xE0; partir de janvier 2026.
+--- 
 
-Là ou la première expérimentation avait pour but de valider le besoin, celle-ci permettra de valider les choix techniques retenus et de commencer le déploiement plus large aux agents publics
+## Solution
 
-#### 🗼 Les points phares de la nouvelle version :
+En mai 2026, le Premier ministre Sébastien Lecornu a décidé la **convergence de tous les assistants ministériels autour de deux solutions communes**, plus robustes, mieux gouvernées et mieux financées.
 
-* Une recherche internet plus poussée
+**Assistant IA** est la première de ces deux solutions. Lancé en octobre 2025 auprès de 10 000 agents de la direction interministérielle du numérique (DINUM), c'est un **chatbot généraliste polyvalent** destiné à :
 
-* Des modèles plus performants
+- Aider les agents dans leurs tâches quotidiennes répétitives
+- Fournir une alternative fiable aux outils de conversations avec des modèles de langage grand public
+- Traiter des données et documents internes (non classifiés)
 
-* Un meilleur contrôle des données et de leur utilisation
+L'autre solution est GenIAl, développé par le Ministère des Armées, qui est une offre de ré-instanciation et n'est donc pas directement accessible aux agent sans déploiement au niveau de leur administration. 
 
-* Une démarche d'homologation facilitée par la maîtrise de toute la chaîne de conception du produit
+### Fonctionnalités principales
 
-### 🕓 Fermeture de la plateforme actuelle
+Assistant IA offre progressivement :
 
-La plateforme actuelle devrait fermer **le 22 octobre 2025**, pour pouvoir pleinement expérimenter et tester la nouvelle version.
+* **Assistance conversationnelle généraliste** : réponses à des questions, brainstorming, aide rédactionnelle
+* **Transcription de documents** : extraction de contenu et synthèse
+* **Analyse documentaire** : traitement de rapports, dossiers, mémorandums
+* **Création de contenus** : brouillons de courriers, fiches de synthèse
+* **Bibliothèques partagées** : accumulation et organisation de bonnes pratiques inter-agences
 
-### 💫 Vous avez utilisé régulièrement l'Assistant IA ?
+### Stratégie de consolidation
 
-Nous serions reconnaissant de récupérer vos retours, rdv sur le canal Tchap de l'Assistant IA pour trouver le lien du formulaire de retours.
+Plutôt que d'annuler les expérimentations en cours dans les autres ministères (Justice, Intérieur, Environnement, Finances publiques, etc.), l'État intègre les **meilleures briques techniques** développées localement dans **Assistant IA**, garantissant :
 
-Merci à toutes et tous pour vos échanges, vos idées, vos tests et votre bienveillance tout au long de cette aventure 🙏\
-La suite s’annonce passionnante, et nous avons hâte de continuer à la construire avec vous.
+* Une qualité au niveau de l'état de l'art
+* L'absence de perte d'innovation locale
+* Une réutilisation optimale des investissements déjà consentis
+* Une augmentation progressive des capacités de la solution
 
-Les informations sur la suite du projet viendront sur ce canal dans les prochains jours.
+
+
+## À propos
+
+**Assistant IA** est porté par la **direction interministérielle du numérique (DINUM)**.
+
+Ce service numérique est sponsorisé par le **ministère de l'Action et des Comptes publics** (David Amiel) sous l'autorité du Premier ministre Sébastien Lecornu.
+
+[Contacter l'équipe](mailto:support-assistant@numerique.gouv.fr?subject=Assistant%20IA)
+
+---
+
+## Enjeux clés
+
+### Souveraineté et confiance
+
+Assistant IA repose sur des technologies souveraines et sur des partenaires (Mistral) alignés avec les valeurs de l'État. Les agents conservent la confiance que leurs données restent au sein des infrastructures publiques sécurisées.
+
+### Rationalisation financière
+
+La consolidation de ce socle autour de deux offres claires plutôt que la multiplication d'initiatives **réduit drastiquement les coûts opérationnels** (modèles, infrastructure, maintenance) tout en **augmentant la qualité** : en effet, elle advient après plusieurs phases d'expérimentations de plusieurs outils dans les ministères & administrations.
+
+### Fin du shadow IA
+
+En proposant aux agents des outils **performants, accessibles, sécurisés et fiables**, la DINUM et ses partenaires créent un cadre de confiance qui décourage l'utilisation clandestine d'outils non sécurisés.
+
+### Sensibilité des usages
+
+Tous les agents publics (2 millions) bénéficieront d'une offre claire : Assistant IA pour les données non classifiées, ou une ré-instanciation de GenIAl pour les administrations traitant des données sensibles.
+
+
+---
+
+## Impact visé
+
+
+* **Réduction des coûts informatiques** via la mutualisation
+* **Réduction de l'usage clandestin** d'IA dans les 12 mois
+
+
+
+
+*Dernière mise à jour : mai 2026*

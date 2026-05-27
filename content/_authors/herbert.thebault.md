@@ -7,9 +7,8 @@ competences: []
 missions:
   - start: 2026-05-04
     end: 2026-07-24
-    employer: ORDESOFT
     status: independent
+    employer: ORDESOFT
     startups:
       - si-commun-at-pro
-teams: []
 ---
