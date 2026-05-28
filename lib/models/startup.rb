@@ -13,7 +13,7 @@ module Beta
     PHASES = %w[investigation
                 construction
                 acceleration
-                perennisation
+                consolidation
                 transfere
                 opere
                 abandon
@@ -23,7 +23,7 @@ module Beta
       investigation
       construction
       acceleration
-      perennisation
+      consolidation
       opere
     ].freeze
 

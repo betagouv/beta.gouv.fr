@@ -12,10 +12,10 @@ layout: default
 {% assign accelerationStartupsCount = incubatorStartups | where_phase: 'acceleration' | size %}
 {% assign inProgressStartupsCount = constructionStartupsCount | plus: accelerationStartupsCount %}
 
-{% assign perennStartupsCount = incubatorStartups | where_phase: 'perennisation' | size %}
+{% assign consolidationStartupsCount = incubatorStartups | where_phase: 'consolidation' | size %}
 {% assign transfereStartupsCount = incubatorStartups | where_phase: 'transfere' | size %}
 {% assign opereStartupsCount = incubatorStartups | where_phase: 'opere' | size %}
-{% assign nationalsStartupsCount = perennStartupsCount | plus: transfereStartupsCount | plus: opereStartupsCount %}
+{% assign nationalsStartupsCount = consolidationStartupsCount | plus: transfereStartupsCount | plus: opereStartupsCount %}
 
 
 {%- assign teams = site.teams -%}
@@ -164,7 +164,7 @@ layout: default
                             {%- break -%}
                         {%- endif -%}
                     {%- endfor -%}
-            
+
                     {%- if is_author_in_incubator -%}
                         <div class="fr-col-6 fr-col-sm-4 fr-col-md-3 fr-col-lg-3">
                             {%- include card-community.html author=author hide_details=true -%}
@@ -172,7 +172,7 @@ layout: default
                     {%- endif -%}
                 {%- endfor -%}
             </div>
-            
+
             {% if page.contact != nil %}
                 <div class="fr-grid-row">
                     <div class="fr-col">

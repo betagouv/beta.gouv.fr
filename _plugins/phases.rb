@@ -18,10 +18,10 @@ module Jekyll
         singular: 'service en accélération',
         badge: 'en accélération'
       },
-      'perennisation' => {
-        plural: 'services en pérennisation',
-        singular: 'service en pérennisation',
-        badge: 'en pérennisation'
+      'consolidation' => {
+        plural: 'services en consolidation',
+        singular: 'service en consolidation',
+        badge: 'en consolidation'
       },
       'opere' => {
         plural: 'services opérés au sein du réseau',
