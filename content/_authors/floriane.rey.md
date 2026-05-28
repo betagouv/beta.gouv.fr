@@ -7,9 +7,8 @@ competences: []
 missions:
   - start: 2026-06-01
     end: 2026-08-31
-    employer: COBER
     status: independent
+    employer: COBER
     startups:
       - transports-sanitaires
-teams: []
 ---

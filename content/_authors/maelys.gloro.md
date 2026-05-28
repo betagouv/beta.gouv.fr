@@ -7,6 +7,10 @@ missions:
     end: 2026-07-31
     status: admin
     employer: Dinum
+  - start: 2024-04-30
+    end: 2026-05-28
+    status: admin
+    employer: Dinum
     startups:
       - data.etat
   - start: 2024-09-01

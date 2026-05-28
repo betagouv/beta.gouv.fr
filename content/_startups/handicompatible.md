@@ -10,6 +10,8 @@ phases:
     start: 2025-01-22
   - name: construction
     start: 2025-06-18
+  - name: acceleration
+    start: 2026-05-12
 events:
   - name: product_launch
     date: 2025-01-22
@@ -22,6 +24,9 @@ events:
   - name: committee
     date: 2026-02-10
     comment: '  Demande de retravailler la future phase'
+  - name: committee
+    date: 2026-05-11
+    comment: Acceptation du passage en phase de construction/ accélération
 thematiques:
   - Travail / Emploi
   - handicap

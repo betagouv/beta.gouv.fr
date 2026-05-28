@@ -1,7 +1,7 @@
 ---
 fullname: Claire Bérard
-role: Product owner & coach agile
-domaine: Coaching
+role: Product owner & chargée de mission coaching agile
+domaine: Produit
 missions:
   - start: 2022-06-06
     end: 2023-12-31
@@ -24,7 +24,7 @@ missions:
     status: admin
     employer: MI / Fabrique numérique DTNUM
   - start: 2025-10-01
-    end: 2026-07-13
+    end: 2026-12-13
     status: admin
     employer: MI / Fabrique numérique DTNUM
     startups:
@@ -41,4 +41,4 @@ teams:
   - /teams/lab-mi
 github: clairebrrd
 ---
-Chargée de mission coaching agile et communication innovation - facilitatrice d'ateliers de design thinking à la DTNUM - MI
+Product owner innovation et IA / Chargée de mission coaching agile et communication innovation - facilitatrice d'ateliers de design thinking à la DTNUM - MI
