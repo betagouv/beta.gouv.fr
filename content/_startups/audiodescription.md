@@ -11,7 +11,7 @@ phases:
     start: 2024-04-15
   - name: acceleration
     start: 2025-07-04
-  - name: perennisation
+  - name: consolidation
     start: 2026-01-27
 thematiques:
   - Démocratie

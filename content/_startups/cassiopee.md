@@ -15,7 +15,7 @@ phases:
     start: 2021-05-23
   - name: acceleration
     start: 2022-06-06
-  - name: perennisation
+  - name: consolidation
     start: 2024-03-25
   - name: abandon
     start: 2025-06-30

@@ -14,7 +14,7 @@ phases:
     start: 2014-05-15
   - name: investigation
     start: 2014-05-15
-  - name: perennisation
+  - name: consolidation
     start: 2019-04-01
   - name: acceleration
     start: 2020-03-01

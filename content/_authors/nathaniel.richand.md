@@ -12,7 +12,7 @@ missions:
     startups:
       - signalement
   - start: 2022-04-01
-    end: 2026-06-19
+    end: 2026-10-19
     status: independent
     employer: Opteamis
     startups:
@@ -24,7 +24,7 @@ missions:
     startups:
       - l-application-du-cej
   - start: 2025-04-07
-    end: 2026-06-19
+    end: 2026-10-19
     status: independent
     employer: Dynergie
     startups:

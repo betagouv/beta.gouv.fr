@@ -15,7 +15,7 @@ phases:
   - name: construction
     start: 2021-11-01
     end: 2022-10-16
-  - name: perennisation
+  - name: consolidation
     start: 2022-10-16
   - name: transfere
     start: 2023-10-19

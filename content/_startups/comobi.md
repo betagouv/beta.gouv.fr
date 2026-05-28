@@ -9,7 +9,7 @@ phases:
     start: 2018-11-26
   - name: construction
     start: 2019-02-01
-  - name: perennisation
+  - name: consolidation
     start: 2021-11-01
   - name: abandon
     comment: le transfert à l'ANCT n'a pas permis à la l'équipe de montrer un fort intérêt de la part des collectivités. Le produit reste disponible, ainsi que des documents pour présenter le retour d'expérience et les conseils d'usage.

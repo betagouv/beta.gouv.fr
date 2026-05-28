@@ -15,7 +15,7 @@ phases:
   - name: construction
     comment: lancement du prototype no-code en février 2021
     start: 2020-12-01
-  - name: perennisation
+  - name: consolidation
     start: 2025-05-14
   - name: acceleration
     start: 2026-01-01

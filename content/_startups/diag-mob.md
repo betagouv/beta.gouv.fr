@@ -3,7 +3,7 @@ analyse_risques: false
 mon_service_securise: false
 contact: baptiste.eisele@developpement-durable.gouv.fr
 title: Mon Diag'Mob
-mission: Réduire l'impact des déplacements domicile - travail des agents publics
+mission: Réduire l'impact des déplacements domicile - travail des agents de la fonction publique
 incubator: mtes
 phases:
   - name: investigation
@@ -19,11 +19,18 @@ events:
 thematiques:
   - Écologie
   - Transports
+  - Administratif
+  - Territoires
 usertypes:
   - etat
-  - particulier
   - agents de la fonction publique
-techno: []
+techno:
+  - html
+  - python
+  - json
+  - n8n
+  - grist
+repository: https://github.com/bapteis/diagmob-widget/
 link: ''
 ---
 ## Contexte

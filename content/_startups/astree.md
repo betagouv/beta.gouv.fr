@@ -2,6 +2,7 @@
 title: Astrée
 mission: Assistant IA d'aide au traitement des requêtes contentieuses de masse et sériel
 sponsors:
+  - /organisations/direction-des-libertes-publiques-et-des-affaires-juridiques
   - /organisations/interieur
 incubator: FabNum-MI
 contact: arnaud.deloit@interieur.gouv.fr
@@ -24,6 +25,10 @@ usertypes:
   - etat
 techno:
   - python
+  - templating
+  - LLM
+  - RAG
+  - IA Generative
 link: ''
 ---
 ## Contexte

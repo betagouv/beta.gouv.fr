@@ -19,5 +19,7 @@ missions:
     end: 2026-11-18
     status: admin
     employer: DINUM
+    startups:
+      - espace-membre
 ---
 Étudiant en développement avec un intérêt pour le DevOps, l’automatisation, Docker, le scripting et les environnements cloud.

@@ -38,7 +38,7 @@ phases:
     start: 2022-11-17
   - name: acceleration
     start: 2024-01-18
-  - name: perennisation
+  - name: consolidation
     start: 2025-06-24
 usertypes:
   - etat

@@ -15,7 +15,7 @@ phases:
     start: 2017-04-01
   - name: investigation
     start: 2017-04-01
-  - name: perennisation
+  - name: consolidation
     start: 2019-09-01
   - name: abandon
     start: 2022-11-30

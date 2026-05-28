@@ -8,7 +8,7 @@ phases:
   - name: construction
     start: 2013-10-01
     end: 2020-11-30
-  - name: perennisation
+  - name: consolidation
     start: 2020-12-01
   - name: transfere
     start: 2024-06-05

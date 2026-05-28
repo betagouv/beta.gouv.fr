@@ -22,7 +22,7 @@ phases:
     start: 2022-01-03
   - name: acceleration
     start: 2023-09-01
-  - name: perennisation
+  - name: consolidation
     start: 2026-03-10
 fast:
   promotion: 13

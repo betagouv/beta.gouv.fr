@@ -14,7 +14,7 @@ phases:
     start: 2017-10-01
   - name: acceleration
     start: 2018-09-01
-  - name: perennisation
+  - name: consolidation
     start: 2020-09-01
   - name: opere
     start: 2021-03-05

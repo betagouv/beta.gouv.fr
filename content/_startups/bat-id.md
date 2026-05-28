@@ -18,7 +18,7 @@ phases:
     start: 2023-01-01
   - name: acceleration
     start: 2024-01-01
-  - name: perennisation
+  - name: consolidation
     start: 2026-01-01
 link: https://rnb.beta.gouv.fr/
 budget_url: https://rnb-fr.gitbook.io/documentation/budget

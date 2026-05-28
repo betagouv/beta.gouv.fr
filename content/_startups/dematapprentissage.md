@@ -11,7 +11,7 @@ contact: apprentissage@beta.gouv.fr
 stats_url: https://contrat.apprentissage.beta.gouv.fr/stats
 stats: true
 phases:
-  - name: perennisation
+  - name: consolidation
     start: 2022-02-01
     end: 2022-06-30
   - name: transfere
