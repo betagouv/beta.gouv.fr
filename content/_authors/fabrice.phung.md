@@ -4,11 +4,15 @@ fullname: Fabrice Phung
 role: Data
 missions:
   - start: 2024-04-30
-    end: 2027-12-30
+    end: 2026-05-28
     status: admin
     employer: Dinum
     startups:
       - data.etat
+  - start: 2024-04-30
+    end: 2027-12-30
+    status: admin
+    employer: Dinum
 competences:
   - Administration Publique
   - Coaching

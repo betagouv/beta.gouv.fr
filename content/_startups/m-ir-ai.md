@@ -16,6 +16,7 @@ phases:
 events:
   - name: product_launch
     date: 2025-05-13
+repository: https://github.com/IA-Generative
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

@@ -11,7 +11,7 @@ competences:
   - UX
 missions:
   - start: 2026-01-14
-    end: 2026-06-14
+    end: 2026-09-30
     status: service
     employer: Octo
     startups:

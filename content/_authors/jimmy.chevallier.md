@@ -10,6 +10,12 @@ missions:
     employer: Malt
     startups:
       - a-just
+  - start: 2026-06-11
+    end: 2026-11-27
+    status: independent
+    employer: La Crème de la Crème
+    startups:
+      - mobilic
 memberType: beta
 competences: []
 ---

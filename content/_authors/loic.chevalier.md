@@ -53,11 +53,10 @@ competences:
 missions:
   - start: 2026-06-01
     end: 2026-08-31
-    employer: COBER
     status: independent
+    employer: COBER
     startups:
       - transports-sanitaires
-teams: []
 ---
 Je conçois des produits digitaux et systèmes IA pensés pour créer un avantage compétitif réel.
 

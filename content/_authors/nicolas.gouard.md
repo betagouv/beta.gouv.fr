@@ -6,12 +6,17 @@ link: https://nicolasgouard.com
 github: ngouard5
 missions:
   - start: 2023-12-11
-    end: 2026-06-30
+    end: 2026-10-31
+    status: independent
+    employer: Malt
+    startups:
+      - jeveuxaider
+  - start: 2023-12-11
+    end: 2026-03-31
     status: independent
     employer: Malt
     startups:
       - api-engagement
-      - jeveuxaider
 memberType: beta
 competences:
   - Product design

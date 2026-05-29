@@ -17,8 +17,6 @@ competences:
 missions:
   - start: 2026-05-26
     end: 2026-10-26
-    employer: Thiga
     status: service
-    startups: []
-teams: []
+    employer: Thiga
 ---
