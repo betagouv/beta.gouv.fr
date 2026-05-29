@@ -5,7 +5,7 @@ domaine: Produit
 github: aufavart
 missions:
   - start: 2021-05-20
-    end: 2026-05-31
+    end: 2026-11-29
     status: independent
     employer: free
     startups:

@@ -18,8 +18,13 @@ phases:
     start: 2025-09-01
 events:
   - name: product_launch
-    date: 2025-07-21
-techno: []
+    date: 2025-09-01
+  - name: committee
+    date: 2026-02-19
+    comment: '2ème phase de construction validée '
+techno:
+  - python
+repository: https://github.com/DGAFP/assistant-rh
 link: ''
 ---
 ## Contexte

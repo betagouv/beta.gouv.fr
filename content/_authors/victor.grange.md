@@ -34,7 +34,7 @@ missions:
     startups:
       - envirogend
   - start: 2025-05-02
-    end: 2026-06-30
+    end: 2026-10-30
     status: independent
     employer: Little Big Connection
     startups:

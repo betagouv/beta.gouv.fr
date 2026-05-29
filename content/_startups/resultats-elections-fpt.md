@@ -24,6 +24,7 @@ events:
     date: 2026-03-31
 link: https://grist.numerique.gouv.fr/o/dgcl/nSM9tj7KSr5G/ResultatsElectionsFPT
 repository: https://github.com/betagouv/Resultats-Elections-FPT
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques#a1.s29.r49.c2
 ---
 ## Contexte
 

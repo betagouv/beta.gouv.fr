@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: Ministère des affaires sociales
   - start: 2025-06-25
-    end: 2026-05-30
+    end: 2026-11-27
     status: independent
     employer: Ruche numérique
     startups:

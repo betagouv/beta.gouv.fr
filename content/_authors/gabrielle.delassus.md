@@ -9,9 +9,13 @@ competences:
   - Gestion de Produit
 missions:
   - start: 2020-06-24
-    end: 2026-09-28
+    end: 2026-05-29
     status: independent
     employer: Malt
     startups:
       - snu
+  - start: 2020-06-24
+    end: 2026-09-28
+    status: independent
+    employer: Malt
 ---

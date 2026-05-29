@@ -1,7 +1,7 @@
 ---
 fullname: Maxence Haouari
-role: Data Engineer chez Trackdechets
-domaine: Data
+role: Data Engineer chez AssistantIA
+domaine: Développement
 github: maxenceh
 competences:
   - Data Science
@@ -14,9 +14,9 @@ competences:
   - Python
 missions:
   - start: 2025-09-26
-    end: 2026-05-31
+    end: 2026-10-31
     status: independent
     employer: Malt
     startups:
-      - trackdechets
+      - mon-assistant-ia
 ---

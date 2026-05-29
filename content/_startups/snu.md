@@ -14,8 +14,8 @@ phases:
     start: 2020-04-01
   - name: construction
     start: 2020-07-01
-  - name: acceleration
-    start: 2021-01-01
+  - name: abandon
+    start: 2026-05-29
 usertypes:
   - particulier
   - association
@@ -58,4 +58,9 @@ La startup d'Etat vise donc à créer un espace personnel où chacun des jeunes 
 
 Notre souhait est de construire un service adapté aux usages de jeunes de 15 ans et non pas destiné à répondre aux contraintes de l'administration.
 
-En miroir, la startup d'Etat construit une interface de gestion permettant aux structures proposant les missions d'intérêt général de déposer des offres de missions et de les gérer et aux coordinateurs du service national universel (réseau de référents départementaux et régionaux) de se décharger des process administratifs afin de pouvoir être plus disponibles pour appuyer les jeunes qui en expriment le besoin.
+En miroir, la startup d'Etat construit une interface de gestion permettant aux structures proposant les missions d'intérêt général de déposer des offres de missions et de les gérer et aux coordinateurs du service national universel (réseau de référents départementaux et régionaux) de se décharger des process administratifs afin de pouvoir être plus disponibles pour appuyer les jeunes qui en expriment le besoin. 
+
+**Arrêt du SNU**
+
+Par décision des ministères concernés, le SNU s'arrêtera à la fin de l'année 2026. Plusieurs centaines de milliers de jeunes auront participé à ce parcours d'engagement citoyen au cours des années, avec un taux de satisfaction très élevé. 
+D'autres formes d'engagement pour les 16-18 ans seront proposées.

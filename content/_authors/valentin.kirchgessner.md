@@ -7,7 +7,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-09-01
-    end: 2026-06-30
+    end: 2026-12-31
     status: admin
     employer: DGAFP
     startups:
