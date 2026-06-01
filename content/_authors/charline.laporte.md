@@ -18,7 +18,7 @@ missions:
     startups:
       - ma-cantine-egalim
   - start: 2025-08-01
-    end: 2026-09-01
+    end: 2026-10-30
     status: independent
     employer: Little Big Connection
     startups:

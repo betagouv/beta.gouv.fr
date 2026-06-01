@@ -3,7 +3,7 @@ analyse_risques: false
 mon_service_securise: false
 contact: audrey.clevy@numerique.gouv.fr
 repository: https://github.com/etalab-ia/evalap
-link: https://evalap.etalab.gouv.fr/
+link: https://github.com/etalab-ia/evalap
 thematiques:
   - Intelligence artificielle
 usertypes:
@@ -16,9 +16,12 @@ sponsors:
 phases:
   - name: construction
     start: 2025-09-03
+  - name: abandon
+    start: 2026-01-01
 events:
   - name: product_launch
     date: 2025-09-03
+techno: []
 ---
 # **EvalAP, c’est quoi ?**
 
@@ -37,9 +40,9 @@ Elle permet de **tester, comparer et analyser des modèles** (comme Mistrall Sma
 
 ### **Côté technique :**
 
-* Interface publique : [evalap.etalab.gouv.fr](http://evalap.etalab.gouv.fr)
+* [décomissionnée] Interface publique : [evalap.etalab.gouv.fr](http://evalap.etalab.gouv.fr)
 
-* Documentation: [evalap.etalab.gouv.fr/doc](http://evalap.etalab.gouv.fr/doc)
+* [décomissionnée] Documentation: [evalap.etalab.gouv.fr/doc](http://evalap.etalab.gouv.fr/doc)
 
 * Compatible avec des notebooks Jupyter
 

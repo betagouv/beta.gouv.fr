@@ -4,7 +4,7 @@ role: Biz Dev expert de Lutte contre l’Habitat Indigne
 domaine: Produit
 missions:
   - start: 2023-02-01
-    end: 2026-05-31
+    end: 2026-08-31
     status: independent
     startups:
       - oilhi

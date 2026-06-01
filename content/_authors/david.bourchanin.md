@@ -5,12 +5,11 @@ domaine: Design
 github: bourchanin
 missions:
   - start: 2022-04-01
-    end: 2026-05-31
+    end: 2026-09-30
     status: independent
     employer: Malt
     startups:
       - france-numerique-ensemble
-      - reformes-locales
 badges:
   - segur
 competences:

@@ -3,7 +3,7 @@ analyse_risques: false
 mon_service_securise: false
 contact: support-assistant@numerique.gouv.fr
 link: https://assistant.numerique.gouv.fr/
-stats_url: https://albert.numerique.gouv.fr/stats
+stats_url: https://eu.posthog.com/shared/Jm2H2FvJt67m9utAolj3eBxmUIOYsw
 thematiques:
   - Administratif
   - Outil technique

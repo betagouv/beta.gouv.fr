@@ -16,6 +16,9 @@ phases:
 events:
   - name: product_launch
     date: 2025-09-12
+  - name: committee
+    date: 2025-12-15
+techno: []
 link: ''
 ---
 ## Problème
