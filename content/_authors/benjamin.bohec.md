@@ -6,7 +6,7 @@ link: https://sometimesuseful.com/
 github: bbohec
 missions:
   - start: 2022-04-11
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: Freelance.com
     startups:

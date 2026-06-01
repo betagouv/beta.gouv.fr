@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Octo Technology
   - start: 2022-01-03
-    end: 2026-06-30
+    end: 2026-12-01
     status: independent
     employer: Malt
     startups:
@@ -17,5 +17,7 @@ badges:
   - segur
 competences:
   - Communication
+  - Facilitation
+link: https://www.linkedin.com/in/chauvincoralie/
 ---
-Responsable communauté JeVeuxAider.gouv.fr et Fresque du Bénévolat
+Responsable communauté et Fresque du Bénévolat auprès de JeVeuxAider.gouv.fr

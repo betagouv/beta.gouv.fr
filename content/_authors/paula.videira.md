@@ -10,9 +10,9 @@ missions:
     startups:
       - stop-punaises
   - start: 2024-05-21
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
-    employer: PathTech
+    employer: Crème de la Crème
     startups:
       - pass-sport
 memberType: beta
@@ -22,3 +22,5 @@ competences:
   - Déploiement
   - Support
 ---
+Experte support utilisateurs et déploiement
+Si t'as un problème, j'ai deux solutions

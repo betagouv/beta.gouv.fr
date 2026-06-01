@@ -6,11 +6,10 @@ github: Alexis-Akinyemi
 link: https://www.linkedin.com/in/alexis-akinyemi/
 missions:
   - start: 2019-09-26
-    end: 2026-06-30
+    end: 2026-11-30
     status: service
     employer: AD-HOC Lab
     startups:
-      - exposition-ij
       - la-bonne-alternance
       - pilotage.de.linclusion
   - start: 2025-04-23

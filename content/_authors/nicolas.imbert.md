@@ -4,9 +4,9 @@ role: Product Manager
 domaine: Produit
 missions:
   - start: 2023-08-29
-    end: 2026-07-01
+    end: 2026-12-01
     status: independent
-    employer: Omnicité
+    employer: La Manufacture / Cober
     startups:
       - données-et-territoires
       - grist.numerique.gouv.fr
@@ -20,6 +20,7 @@ competences:
   - Product strategy
   - Python
   - Roadmap produit
+  - Superset
 github: nicolas-imbert
 link: https://www.linkedin.com/in/nicolas-imbert-29b03b83/
 ---
