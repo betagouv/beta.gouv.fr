@@ -1,17 +1,13 @@
 ---
 fullname: Marine Choquin
-domaine: Animation
-role: CPO Incubateur des Territoires, Product manager d'Espace sur Demande
+domaine: Attributaire
+role: .
 github: MarineChoquin
 missions:
-  - start: 2020-10-01
-    end: 2024-07-01
-    status: admin
-    employer: ANCT
-    startups:
-      - agents.en.intervention
-      - espace.sur.demande
-      - lannuaire.des.collectivites
+  - start: 2026-06-01
+    end: 2026-12-01
+    status: service
+    employer: THEODO
 competences:
   - Administration Publique
 ---

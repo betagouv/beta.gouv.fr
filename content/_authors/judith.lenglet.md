@@ -11,7 +11,5 @@ missions:
       - umap
 previously:
   - trackdechets
-teams:
-  - /teams/dinum-produits-interministeriels-accompagnement-interministeriel-de-communs-numeriques
 competences: []
 ---

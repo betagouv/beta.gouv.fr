@@ -19,9 +19,9 @@ missions:
       - 1000.jours
       - fiche.commune.entreprise.fce
   - start: 2022-10-08
-    end: 2026-03-31
+    end: 2026-11-01
     status: independent
-    employer: Littlebigconnection
+    employer: Cober
     startups:
       - deveco
   - start: 2025-12-10

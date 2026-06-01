@@ -4,10 +4,11 @@ fullname: Raphaëlle Hakim
 role: Déploiement
 missions:
   - start: 2024-03-25
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: LBC
     startups:
+      - recommandations-collaboratives
       - urbanvitaliz
 memberType: beta
 competences: []

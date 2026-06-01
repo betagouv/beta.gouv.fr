@@ -9,10 +9,11 @@ missions:
     startups:
       - poe.facilite
   - start: 2025-01-01
-    end: 2026-06-30
+    end: 2026-12-31
     status: admin
     employer: France Travail
     startups:
       - estime.formation
 memberType: beta
+competences: []
 ---

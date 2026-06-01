@@ -24,15 +24,15 @@ missions:
     startups:
       - transition-ecologique-des-entreprises
   - start: 2025-06-03
-    end: 2026-06-30
+    end: 2026-07-31
     status: independent
     employer: Malt
   - start: 2026-01-01
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: Numa
   - start: 2026-01-01
-    end: 2026-06-30
+    end: 2026-07-31
     status: independent
     employer: Numa
     startups:
