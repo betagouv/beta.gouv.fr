@@ -9,7 +9,6 @@ missions:
     status: admin
     employer: Ministère de la Justice
     startups:
-      - a-just
       - experts
       - fondation
       - infoparquet
@@ -22,6 +21,12 @@ missions:
       - rdv.mjd
       - romin
       - themis
+  - start: 2022-05-13
+    end: 2026-06-01
+    status: admin
+    employer: Ministère de la Justice
+    startups:
+      - a-just
 teams:
   - /teams/justice
 badges:

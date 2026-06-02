@@ -13,7 +13,7 @@ missions:
     startups:
       - bambin
   - start: 2025-11-20
-    end: 2026-07-01
+    end: 2028-06-07
     status: admin
     employer: Cerema
     startups:

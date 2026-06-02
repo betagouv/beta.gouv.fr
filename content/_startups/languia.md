@@ -11,6 +11,8 @@ phases:
     start: 2024-04-15
   - name: acceleration
     start: 2025-04-16
+  - name: consolidation
+    start: 2026-06-03
 usertypes:
   - particulier
   - etablissement-scolaire
@@ -51,57 +53,51 @@ budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriqu
 ---
 ## Le problème
 
-Les grands modèles de langage (LLM) actuels sont entraînés sur des données essentiellement anglo-saxonnes, ce qui crée des biais linguistiques et culturels dans les résultats qu’ils produisent. Le développement extrêmement rapide des audiences et des usages de ces modèles, vecteurs d'une vision d'une monde non neutre, fait peser un risque sur la place des langues et des cultures française, francophone et européenne dans les imaginaires collectifs de demain. 
+Les grands modèles de langage (LLM) actuels sont entraînés sur des données essentiellement anglo-saxonnes, ce qui crée des biais linguistiques et culturels dans les résultats qu'ils produisent. Le développement extrêmement rapide des audiences et des usages de ces modèles, vecteurs d'une vision d'un monde non neutre, fait peser un risque sur la place des langues et des cultures française, francophone et européenne dans les imaginaires collectifs de demain.
 
-Ces questionnements font écho à un second irritant identifié auprès des fournisseurs de modèles et de services issus de ces modèles : la difficile mise en œuvre de l’évaluation humaine des modèles sur des tâches en français. Cette évaluation humaine, coûteuse et complexe, sur des aspects spécifiques à la culture et la langue française (ou aux langues européennes) est hors de portée de la plupart des fournisseurs de modèle alors que la majorité des corpus d’évaluation existants sont en anglais, présentent un risque de contamination et ne sont pas toujours alignés avec les usages et attentes des utilisateurs.
+Ces questionnements font écho à un second irritant identifié auprès des fournisseurs de modèles et de services issus de ces modèles : la difficile mise en œuvre de l'évaluation humaine des modèles sur des tâches en français. Cette évaluation humaine, coûteuse et complexe, sur des aspects spécifiques à la culture et la langue française (ou aux langues européennes) est hors de portée de la plupart des fournisseurs de modèle alors que la majorité des corpus d'évaluation existants sont en anglais, présentent un risque de contamination et ne sont pas toujours alignés avec les usages et attentes des utilisateurs.
 
-L’amélioration de la qualité des modèles de langage conversationnels sur les usages francophones passe par la mise à disposition de jeux de données de préférence en français pour l’alignement des modèles, ressource actuellement rare pour l’écosystème des acteurs académiques et industriels qui travaillent sur ces sujets.
+L'amélioration de la qualité des modèles de langage conversationnels sur les usages francophones passe par la mise à disposition de jeux de données de préférence en français pour l'alignement des modèles, ressource actuellement rare pour l'écosystème des acteurs académiques et industriels qui travaillent sur ces sujets.
 
 
 ## Le service
 
-Le site <https://comparia.beta.gouv.fr> permet de tester et comparer à l'aveugle les réponses de deux agents conversationnels piochés parmi une grande diversité (plus d’une quarantaine de modèles open source comme propriétaires et de différentes tailles). Après avoir voté, l'identité des modèles est révélée à l'utilisateur, accompagnée d'informations détaillées sur les caractéristiques des modèles et leur impact environnemental.
+Le site <https://comparia.beta.gouv.fr> permet de tester et comparer à l'aveugle les réponses de deux agents conversationnels piochés parmi une grande diversité de modèles (plus de 130 modèles semi-ouverts, open source comme propriétaires et de différentes tailles ont été testés, avec une trentaine à une quarantaine de modèles actifs simultanément). Après avoir voté, l'identité des modèles est révélée à l'utilisateur, accompagnée d'informations détaillées sur les caractéristiques des modèles et leur impact environnemental.
 
-Les questions posées et données de préférence collectées alimentent des jeux de données repartagés en open source, dans l’idée de constituer un commun numérique qui favorise l'observation des usages et la qualité des modèles sur les usages francophones. Ces données constituent une ressource rare pour l'écosystème car elles sont en français et reflètent les usages réels des utilisateurs dans des contextes d'utilisation non contraints.
+Les questions posées et données de préférence collectées alimentent des jeux de données repartagés en open source, sous licence **Etalab 2.0** et **CC-BY 4.0**, dans l'idée de constituer un commun numérique qui favorise l'observation des usages et la qualité des modèles sur les usages francophones. Ces données constituent une ressource rare pour l'écosystème car elles sont en français et reflètent les usages réels des utilisateurs dans des contextes d'utilisation non contraints.
 
-Le site comparIA est gratuit, accessible sans création de compte et répond à un **triple enjeu** :
+Le site compar:IA est gratuit, accessible sans création de compte et répond à un **triple enjeu** :
 
-*   **Donner accès** simplement à une grande **diversité de modèles conversationnels** dans le principe de défense d’un « droit au pluralisme des modèles »
-*   **Informer l’utilisateur** sur les caractéristiques des modèles et leur impact environnemental pour encourager des usages responsables
-*   **Collecter des données** de questions et de préférence et **partager les jeux de données** sous licence ouverte pour en faire bénéficier l’écosystème
+*   **Donner accès** simplement à une grande **diversité de modèles conversationnels** dans le principe de défense d'un « droit au pluralisme des modèles »
+*   **Informer l'utilisateur** sur les caractéristiques des modèles et leur impact environnemental pour encourager des usages responsables
+*   **Collecter des données** de questions et de préférence et **partager les jeux de données** sous licence ouverte pour en faire bénéficier l'écosystème
 
 Le service sert ainsi un double objectif:
 
 *   **Former** les citoyens à l'utilisation des systèmes d'IA conversationnelle et les sensibiliser à divers enjeux : le pluralisme des modèles, leur impact environnemental, les biais culturels et linguistiques qu'ils comportent.
-*   Publier les jeux de données de question et de préférence pour faciliter l'**observation des usages** et **améliorer la qualité des systèmes d'IA **conversationnelles sur les usages **francophones**
+*   Publier les jeux de données de question et de préférence pour faciliter l'**observation des usages** et **améliorer la qualité des systèmes d'IA conversationnelles sur les usages francophones**
 
-Ouvert au public en octobre 2024, le site compte plus de 300 000 visiteurs uniques. Le jeu de données de questions compte plus de 300 000 lignes et le jeu de données de préférence plus de 160000 lignes (chiffres actualisés le 7 novembre 2025).
+Ouvert au public en octobre 2024, le site compte plus de 400 000 visiteurs uniques. Le jeu de données de questions compte plus de 800 000 prompts collectés. compar:IA s'est par ailleurs vu décerner le statut de **bien public numérique (Digital Public Good)** par la Digital Public Goods Alliance en novembre 2025.
+
+Le service évolue désormais d'un service public français vers un **commun numérique multilingue et multi-sectoriel**, conçu pour être déployable par tout gouvernement, secteur ou communauté linguistique. Le Danemark a ainsi lancé son propre déploiement ([ai-arenaen.dk](https://ai-arenaen.dk)) en novembre 2025, première réplication internationale du modèle compar:IA.
 
 
 ## La stratégie
 
 La mesure d'impact de compar:IA réside dans le nombre de questions et de préférence collectées, reflétant à la fois la fréquentation du site et la volumétrie des jeux de données partagés.
 
-Les jeux de données ont d'ores et déjà atteint une volumétrie conséquente: **160 000 votes et plus de 500 000 questions**. A titre de comparaison, la part du français dans le jeu de données “[lmsys-chat-1m](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)” qui fait autorité sur les enjeux d’alignement est de 1,5%, soit moins de 20 000 conversations en français. Les jeux de données compar:IA constituent une ressource rare et exploitable à la fois par les acteurs industriels et académiques (machine learning et sciences humaines et sociales).
+Les jeux de données ont d'ores et déjà atteint une volumétrie conséquente: **plus de 800 000 prompts collectés** et plusieurs centaines de milliers de votes de préférence. A titre de comparaison, la part du français dans le jeu de données "[lmsys-chat-1m](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)" qui fait autorité sur les enjeux d'alignement est de 1,5%, soit moins de 20 000 conversations en français. Les jeux de données compar:IA constituent une ressource rare et exploitable à la fois par les acteurs industriels et académiques (machine learning et sciences humaines et sociales).
 
 Pour assurer une **fréquentation assidue de la plateforme** et faire grandir la volumétrie des jeux de données, plusieurs leviers de croissance et d'accélération du service ont été activés **depuis le lancement du service en octobre 2024**:
 
-* **Diversification des partenariats de diffusion** et **intégration de comparIA dans différents formats de sensibilisation et formation à l'IA générative**. 
-  * En plus de PIX, des partenariats et collaborations sont en cours de développement avec les acteurs suivants: CNNUM, CLEMI, Campus du numérique, CAIRE, Latitudes, Datactivist, La Fresque de l'IA, UNESCO. Les contacts sont également pris avec le Réseau Canopé, BPI France Université, l'Institut Français.
-  * Conception et diffusion de l'outil de médiation "Les Duels de l'IA" pour faciliter l'utilisation de comparIA dans des contextes de formation professionnelle et/ou d'enseignement: 
-* **Développement de nouvelles fonctionnalités** selon l'évolution des usages et des besoins et dans le cadre de **projets mutualisés avec des acteurs partenaires**:
-    *   L'intégration d'un ** classement des modèles à partir des données de préférence collectées**, construit en partenariat avec le **PEReN**, et rendu public en 11/2025. Une mise à jour hebdomadaire est prévue pour garantir la fraicheur du classement. 
-    *   des synergies peuvent être établies avec Etalab afin par exemple de mettre comparIA au service des besoins de tests et d'évaluation des systèmes conversationnels dans la cadre de projets portés au sein de la sphère publique.
-* **Intégration continue de nouveaux modèles**: évolution de la plateforme en fonction des nouvelles capacités des modèles pour faciliter leur compréhension auprès des utilisateurs (ex: modèles de raisonnement)
+* **Diversification des partenariats de diffusion** et **intégration de compar:IA dans différents formats de sensibilisation et formation à l'IA générative**. compar:IA est notamment intégré aux parcours **Pix IA** : Pix intègre compar:IA dans ses modules d'apprentissage sur l'intelligence artificielle, permettant à des centaines de milliers d'élèves de découvrir, comparer et mettre à l'épreuve les IA conversationnelles directement depuis la plateforme. À travers ce partenariat, compar:IA accompagne Pix dans sa mission d'amener **1,5 million d'élèves chaque année** vers un usage éclairé, raisonné et responsable de l'IA générative.
+* **Développement de nouvelles fonctionnalités** selon l'évolution des usages et des besoins et dans le cadre de **projets mutualisés avec des acteurs partenaires** (l'ensemble du code est ouvert et disponible sur [GitHub](https://github.com/betagouv/ComparIA)). Les principaux chantiers en cours visent à rendre la plateforme pleinement réappropriable par d'autres organisations et communautés linguistiques : un **back-office de personnalisation des arènes** (gestion des modèles, des suggestions de prompts, des types de votes et des utilisateurs, configuration du pipeline de publication des données) ; des **modes d'authentification et d'accès configurables** (indispensables aux arènes sectorielles à accès restreint comme compar:IA Santé) ; un **classement « 2.0 » et une cartographie des usages** (classement personnalisé à partir de ses propres votes, analyse thématique des conversations) ; l'**historique des conversations** pour les utilisateurs connectés ; ainsi que la poursuite de l'**internationalisation** de l'interface.
+* **Expansion sectorielle** : une déclinaison **compar:IA Santé** est en cours de développement. Il s'agit d'une arène de comparaison de modèles à l'aveugle réservée aux professionnels de santé vérifiés, destinée à produire des jeux de données de préférence spécifiques au domaine médical. C'est le premier cas concret de la stratégie d'expansion sectorielle du projet.
 
-Les indicateurs de résultat permettant d’évaluer l’atteinte des objectifs du projet, d’ici octobre 2025, sont les suivants: 
+Les indicateurs de résultat permettant d'évaluer l'atteinte des objectifs du projet sont les suivants:
 
-* Réduire les biais culturel des grands modèles de langage grâce à **l'exploitation des jeux de données**: il s'agit d'ici six mois d'avoir qualifié au moins trois réutilisations à impact des jeux de données: 
-  * Par exemple faire en sorte qu'au moins deux grands éditeurs de modèles aient utilisé les jeux de données produits par Compar’IA pour l'entraînement de la version suivante de leur modèle ; 
-  * Observatoire des usages en fonction d'indicateurs et de métriques construites en synergie avec les acteurs pertinents (CNNUM, LaborIA...) facilitant l'analyse des données collectées et facilitant la valorisation des jeux de données auprès des acteurs académiques et industriels.
+* Réduire les biais culturels des grands modèles de langage grâce à **l'exploitation des jeux de données**: il s'agit d'avoir qualifié au moins trois réutilisations à impact des jeux de données.
 
-* **Passage à l’échelle du module Compar’IA sur de nouvelles langues**:
-Un jeu de données est publié dans une langue européenne ou issue de la francophonie (avec une mention d’excellence si la langue européenne est rare). Cible : 50k lignes de questions.  
+* **Passage à l'échelle du module compar:IA sur de nouvelles langues et de nouveaux secteurs**
 
-Les services produits par la start-up s’inscrivent dans les prérogatives des établissements LANGU:IA et ALT-EDIC en cours de structuration.
-
+Les services produits par la start-up s'inscrivent dans les prérogatives des établissements LANGU:IA et ALT-EDIC en cours de structuration.

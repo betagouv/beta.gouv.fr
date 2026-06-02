@@ -4,7 +4,7 @@ role: Développeur / UI Designer
 domaine: Développement
 missions:
   - start: 2022-05-20
-    end: 2026-02-22
+    end: 2026-06-30
     status: admin
     employer: Ministère de la Justice
     startups:

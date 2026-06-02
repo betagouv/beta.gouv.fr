@@ -13,13 +13,13 @@ missions:
       - cadransolaire
       - potentiel
   - start: 2023-05-01
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: Malt + Dynergie
     startups:
       - quefairedemesobjetsetdechets
   - start: 2025-01-01
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: Dynergie
     startups:

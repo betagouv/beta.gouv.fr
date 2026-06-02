@@ -8,6 +8,10 @@ missions:
     end: 2026-06-30
     status: independent
     employer: Malt
+  - start: 2022-04-18
+    end: 2026-06-01
+    status: independent
+    employer: Malt
     startups:
       - a-just
   - start: 2026-06-11

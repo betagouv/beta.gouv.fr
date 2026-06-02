@@ -17,7 +17,7 @@ missions:
     startups:
       - ma-cantine-egalim
   - start: 2025-10-14
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
     employer: Solstice
     startups:

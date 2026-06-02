@@ -12,7 +12,7 @@ competences:
   - Sécurité informatique
 missions:
   - start: 2025-08-26
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: ScopyLeft
     startups:

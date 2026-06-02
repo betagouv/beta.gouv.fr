@@ -5,7 +5,7 @@ domaine: Déploiement
 github: oblab
 missions:
   - start: 2023-04-03
-    end: 2026-07-01
+    end: 2026-10-01
     status: independent
     employer: MALT
     startups:

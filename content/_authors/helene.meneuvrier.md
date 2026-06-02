@@ -5,9 +5,9 @@ domaine: Développement
 github: hmeneuvrier
 missions:
   - start: 2023-01-09
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
-    employer: Scopyleft
+    employer: Crème de la Crème
     startups:
       - histologe
       - stop-punaises

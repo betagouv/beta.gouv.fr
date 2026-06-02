@@ -1,7 +1,7 @@
 ---
 fullname: Noé Thiéblemont
-role: Business developer et chargé de support à La Suite territoriale
-domaine: Support
+role: Business developer de La Suite territoriale en IDF et CVL
+domaine: Déploiement
 link: https://www.linkedin.com/in/no%C3%A9-thi%C3%A9blemont-236b75185/
 competences:
   - Administration Publique

@@ -4,7 +4,7 @@ role: Intrapreneuse
 domaine: Intraprenariat
 missions:
   - start: 2023-05-31
-    end: 2026-06-01
+    end: 2027-03-01
     status: admin
     employer: MASA&#x2F;DGAl
     startups:

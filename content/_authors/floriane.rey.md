@@ -1,6 +1,6 @@
 ---
 fullname: Floriane Rey
-role: Directrice des opérations
+role: Directrice déploiement projet Transports Sanitaires
 domaine: Déploiement
 link: https://www.linkedin.com/in/florianerey
 competences: []

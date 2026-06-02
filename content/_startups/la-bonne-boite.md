@@ -30,6 +30,7 @@ stats_url: https://labonneboite.francetravail.fr/stats
 thematiques:
   - Travail / Emploi
 techno: []
+impact_url: https://docs.numerique.gouv.fr/docs/3a002190-761f-4802-8171-e462e538b712/
 ---
 **Le saviez-vous ?**
 

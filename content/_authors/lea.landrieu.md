@@ -5,7 +5,7 @@ domaine: Déploiement
 github: lealandrieu
 missions:
   - start: 2019-09-05
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: malt
     startups:

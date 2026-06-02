@@ -12,13 +12,13 @@ competences:
   - Python
 missions:
   - start: 2025-02-03
-    end: 2026-05-31
+    end: 2026-08-31
     status: independent
     employer: Malt
     startups:
       - dossierfacile
   - start: 2025-09-02
-    end: 2026-05-31
+    end: 2026-06-30
     status: independent
     employer: Scopyleft
     startups:

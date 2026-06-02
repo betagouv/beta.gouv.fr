@@ -5,9 +5,9 @@ role: Développeuse
 github: weblaetitia
 missions:
   - start: 2024-07-01
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
-    employer: Omnicité
+    employer: Mon Equipe Produit
     startups:
       - mon-suivi-social
 link: https://www.linkedin.com/in/laetitia-langlois/

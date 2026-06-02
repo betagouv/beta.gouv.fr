@@ -11,11 +11,16 @@ missions:
     startups:
       - aidantsconnect
   - start: 2024-10-14
-    end: 2026-05-31
+    end: 2026-11-30
+    status: independent
+    employer: Malt
+    startups:
+      - domifa
+  - start: 2024-10-14
+    end: 2026-03-31
     status: independent
     employer: Opteamis
     startups:
-      - domifa
       - monsuivipsy
 competences: []
 ---

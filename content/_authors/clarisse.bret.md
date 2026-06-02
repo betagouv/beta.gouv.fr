@@ -5,7 +5,7 @@ domaine: Design
 link: https://www.linkedin.com/in/clarissebret/
 missions:
   - start: 2023-11-29
-    end: 2026-06-01
+    end: 2026-10-31
     status: independent
     startups:
       - mobilic
@@ -19,6 +19,11 @@ missions:
     status: independent
     startups:
       - otelo
+  - start: 2026-05-01
+    end: 2026-09-30
+    status: independent
+    startups:
+      - fondation
 memberType: beta
 competences: []
 ---
