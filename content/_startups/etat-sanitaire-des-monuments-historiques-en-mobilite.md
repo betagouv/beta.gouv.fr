@@ -28,6 +28,8 @@ sponsors:
   - /organisations/dgpat
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4#a1.s29.r21.c2
 link: https://patrinotes.beta.gouv.fr/
+repository: https://github.com/betagouv/patrinotes
+stats_url: https://app.patrinotes.beta.gouv.fr/stats
 ---
 ## Contexte
 

@@ -21,14 +21,8 @@ missions:
     employer: Solstice
     startups:
       - seves
-  - start: 2025-05-05
-    end: 2025-10-31
-    status: independent
-    employer: ScopyLeft
-    startups:
-      - agents.en.intervention
   - start: 2025-12-01
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: Dynergie
     startups:

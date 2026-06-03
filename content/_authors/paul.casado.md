@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2026-06-01
     end: 2026-10-15
-    employer: Octo
     status: independent
+    employer: Octo
     startups:
       - assistant-rh
-teams: []
 ---

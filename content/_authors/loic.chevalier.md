@@ -1,6 +1,6 @@
 ---
 fullname: Loïc Chevalier
-role: Directeur Produit et Design pour la Plateforme nationale du transport sanitaire
+role: Directeur Produit et Design - Transports Sanitaires
 domaine: Produit
 link: https://www.linkedin.com/in/loicchevalier/
 competences:

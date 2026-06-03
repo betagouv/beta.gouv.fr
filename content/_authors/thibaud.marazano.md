@@ -12,7 +12,6 @@ missions:
     startups:
       - demain-specialiste-cyber
       - homologation
-      - nis2
 memberType: beta
 competences:
   - Développement Backend

@@ -13,8 +13,6 @@ missions:
       - données-et-territoires
       - pcrs
       - umap
-teams:
-  - /teams/anct
 competences: []
 ---
 Accélérer le déploiement de la fibre optique et des Bases Adresses Locales

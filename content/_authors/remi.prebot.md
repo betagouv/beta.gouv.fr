@@ -5,19 +5,19 @@ domaine: Produit
 github: rprebot
 missions:
   - start: 2024-07-01
-    end: 2026-06-01
+    end: 2026-07-01
     status: independent
     employer: Opteamis
     startups:
       - srdt-ia
   - start: 2025-03-01
-    end: 2025-12-31
+    end: 2026-11-01
     status: independent
     employer: Dynergie
     startups:
       - investigation-cour-d-appel-de-paris
   - start: 2025-07-01
-    end: 2026-04-14
+    end: 2026-07-01
     status: independent
     employer: dynergie
     startups:

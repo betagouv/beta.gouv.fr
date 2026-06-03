@@ -24,7 +24,12 @@ phases:
 redirect_from:
   - /startups/facil-emploi-public
 repository: https://github.com/betagouv/csplab
-link: ''
+link: https://csplab.beta.gouv.fr/
+budget_url: https://docs.numerique.gouv.fr/docs/7e82faf2-e3eb-4f04-980c-7e434cd741b1/
+events:
+  - name: product_launch
+    date: 2026-04-09
+    comment: 'Lancement du produit d''analyse de CV dans sa forme MVP lors du forum «Choisir le service public» à la Maison de la Mutualité '
 ---
 # Contexte
 

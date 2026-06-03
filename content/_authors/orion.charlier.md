@@ -11,6 +11,12 @@ missions:
     employer: Malt
     startups:
       - trackdechets
+  - start: 2026-06-02
+    end: 2026-09-02
+    status: independent
+    employer: Malt
+    startups:
+      - boris
 competences: []
 link: https://www.linkedin.com/in/orion-charlier-4022a646/
 ---

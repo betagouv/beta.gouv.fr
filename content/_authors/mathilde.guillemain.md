@@ -5,9 +5,9 @@ domaine: Design
 link: https://poulpux.com
 missions:
   - start: 2021-08-02
-    end: 2026-06-30
+    end: 2026-10-01
     status: independent
-    employer: Scopyleft
+    employer: LCLDC
     startups:
       - histologe
   - start: 2022-10-03
@@ -16,6 +16,12 @@ missions:
     employer: Scopyleft
     startups:
       - stop-punaises
+  - start: 2026-05-04
+    end: 2026-09-02
+    status: independent
+    employer: Malt
+    startups:
+      - recommandations-collaboratives
 competences:
   - Product design
   - Product strategy

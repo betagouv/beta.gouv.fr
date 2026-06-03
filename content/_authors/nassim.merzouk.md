@@ -11,13 +11,13 @@ missions:
     startups:
       - jeveuxaider
   - start: 2022-09-01
-    end: 2026-06-30
+    end: 2026-07-31
     status: independent
     employer: MALT
     startups:
       - api-engagement
   - start: 2024-10-03
-    end: 2026-03-31
+    end: 2026-09-30
     status: independent
     employer: NUMA
     startups:
@@ -43,6 +43,10 @@ missions:
     employer: Numa
     startups:
       - mon-recap
+  - start: 2026-04-01
+    end: 2026-11-30
+    status: independent
+    employer: Malt
 link: https://www.linkedin.com/in/merzouknassim/
 competences:
   - Business Developpement

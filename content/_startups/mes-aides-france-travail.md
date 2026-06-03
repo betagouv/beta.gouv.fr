@@ -1,6 +1,6 @@
 ---
-title: Mes Aides France Travail
-mission: Le service France travail qui permet aux personnes en insertion de trouver en 3 clics les aides humaines, matérielles et financières pour faciliter leur parcours vers l’emploi
+title: Mes aides France Travail
+mission: Le service France Travail qui permet aux personnes en insertion de trouver en 3 clics les aides humaines, matérielles et financières pour faciliter leur parcours vers l’emploi
 redirect_from:
   - /startups/mes.aides
 sponsors:
@@ -22,9 +22,19 @@ accessibility_status: non conforme
 thematiques:
   - Travail / Emploi
   - Social
-usertypes: []
-techno: []
+  - Administratif
+  - Logement
+  - Agriculture
+  - Santé
+  - Transports
+  - Entreprises
+usertypes:
+  - particulier
+techno:
+  - next.js
+  - react
 stats_url: https://metabase.beta.francetravail.fr/public/dashboard/7eb440d5-4ca4-458f-8b86-5c8e6fead9c0
+impact_url: https://docs.numerique.gouv.fr/docs/89e251dc-2533-4f42-9d80-4c5f68066840/
 ---
 ## Contexte
 

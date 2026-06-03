@@ -6,7 +6,7 @@ github: desoindx
 link: https://epicse.fr/
 missions:
   - start: 2021-05-03
-    end: 2026-06-30
+    end: 2026-12-01
     status: independent
     employer: ScopyLeft
     startups:

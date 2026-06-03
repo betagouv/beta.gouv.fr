@@ -13,7 +13,7 @@ competences:
   - UX
 missions:
   - start: 2025-08-12
-    end: 2026-06-30
+    end: 2026-09-01
     status: independent
     employer: Diair
     startups:

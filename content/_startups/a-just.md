@@ -29,6 +29,8 @@ phases:
     start: 2021-09-01
   - name: acceleration
     start: 2022-11-30
+  - name: consolidation
+    start: 2026-01-01
 fast:
   promotion: 13
   montant: 300000
@@ -126,8 +128,11 @@ A-JUST répond à une attente majeure des citoyens français : la réduction des
 
 Ce faisant, A-JUST encourage un changement culturel profond au sein des juridictions, en promouvant l’adoption d’une culture de pilotage par l’impact et la donnée. Cette approche est désormais intégrée dans le parcours de formation des chefs de greffe et de juridiction, ce qui assure sa diffusion et favorise l’homogénéisation des pratiques.
 
-Avec la création d’une direction de programme “Outils numériques de pilotage des juridictions” rattachée à la Direction des Services Judiciaires (DSJ), A-JUST s’engage dans une phase de pérennisation et de développement consistant notamment à :
-* continuer à élargir son impact en intégrant le pilotage des cours d’appel et des parquets dès 2025 ;
-* servir un fort besoin d’unification de la donnée pour faciliter son usage opérationnel tout en réduisant les tâches chronophages de reporting ;
+**
+#### Phase de pérennisation
+**
 
-pour renforcer ainsi son rôle central dans la modernisation de la direction des tribunaux en France.
+Depuis le 1er janvier 2026, A-JUST est en phase de pérennisation et a été intégré à la direction des services judiciaires (DSJ), et plus précisément au sein de la sous-direction de l'organisation judiciaire et de l'innovation. A ce titre, l'équipe produit s'engage notamment à : 
+* Continuer à élargir son impact en poursuivant le déploiement au sein des cours d'appel 
+* Elargir son périmètre en permettant le pilotage des tribunaux de proximité 
+* Intégrer le pilotage des parquets (ambition 2027) 

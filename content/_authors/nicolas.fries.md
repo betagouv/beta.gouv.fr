@@ -13,7 +13,7 @@ missions:
   - start: 2022-03-28
     end: 2026-08-26
     status: independent
-    employer: Malt
+    employer: OMNICITE
     startups:
       - tchap
 badges:

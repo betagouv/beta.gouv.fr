@@ -15,9 +15,13 @@ phases:
     start: 2022-09-20
   - name: construction
     start: 2023-09-01
+  - name: transfere
+    start: 2025-09-01
 events:
   - name: product_launch
     date: 2023-09-01
+usertypes: []
+techno: []
 ---
 > Lancé avec succès au sein de plusieurs centaines d'établissements en 2023-2024, CyberEnJeux évolue en 2025 en proposant prochainement un service numérique permettant de démultiplier l'accompagnement des enseignants et la valorisation des jeux créés par les élèves. Un partenariat entre l'ANSSI et le ministère de l'Education nationale.
 
