@@ -18,9 +18,9 @@ missions:
     startups:
       - services-web-anct
   - start: 2026-01-07
-    end: 2026-04-30
+    end: 2026-11-30
     status: independent
-    employer: Omnicite
+    employer: Mon Equipe Produit
     startups:
       - suite.territoriale
 incubator: anct
