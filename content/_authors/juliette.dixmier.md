@@ -17,16 +17,12 @@ missions:
     startups:
       - eimis
   - start: 2024-06-01
-    end: 2026-06-30
+    end: 2026-12-02
     status: independent
     employer: Malt
     startups:
       - sites-faciles
 badges:
   - segur
-competences:
-  - Communication
-  - Facilitation
-  - Matomo
-  - Product strategy
+competences: []
 ---

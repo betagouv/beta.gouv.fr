@@ -11,7 +11,7 @@ missions:
     startups:
       - suite.territoriale
   - start: 2026-02-23
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
     employer: Dinum
     startups:

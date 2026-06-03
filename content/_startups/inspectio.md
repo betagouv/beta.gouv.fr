@@ -15,12 +15,9 @@ sponsors:
   - /organisations/mc
 phases:
   - name: investigation
-    comment: null
     start: 2026-02-23
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-05-29
 ---
 ## Contexte

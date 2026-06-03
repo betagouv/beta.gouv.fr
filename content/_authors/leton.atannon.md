@@ -15,10 +15,15 @@ missions:
     status: admin
     employer: sans Objet
     startups:
-      - a-just
       - investigation-cour-d-appel-de-paris
       - jafer
       - precontentieux.justice
       - romin
+  - start: 2024-11-04
+    end: 2026-06-01
+    status: admin
+    employer: sans Objet
+    startups:
+      - a-just
 github: latannon
 ---

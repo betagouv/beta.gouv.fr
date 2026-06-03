@@ -21,7 +21,7 @@ incubator: dinum_produits_interministeriels
 link: https://annuaire-entreprises.data.gouv.fr
 repository: https://github.com/etalab/annuaire-entreprises.data.gouv.fr
 stats: true
-stats_url: https://annuaire-entreprises.data.gouv.fr/stats
+stats_url: https://annuaire-entreprises.data.gouv.fr/a-propos/stats
 budget_url: https://annuaire-entreprises.data.gouv.fr/budget
 dashlord_url: https://dashlord.incubateur.net/url/annuaire-entreprises-data-gouv-fr/
 contact: annuaire-entreprises@data.gouv.fr
@@ -41,7 +41,7 @@ techno:
   - nginx
   - OVH
   - 'tanstack start '
-impact_url: https://annuaire-entreprises.data.gouv.fr/a-propos/stats
+impact_url: https://docs.numerique.gouv.fr/docs/f70b0e8f-ccfb-4050-b879-44bb0099986c/
 ---
 ## Le problème :
 
@@ -64,4 +64,4 @@ Cette complexité entraine une perte de temps, qui pénalise plus particulièrem
 
 ## L’impact :
 
-Consultez notre [page de statistiques](https://annuaire-entreprises.data.gouv.fr/stats).
+Consultez notre [page de statistiques](https://annuaire-entreprises.data.gouv.fr/a-propos/stats).

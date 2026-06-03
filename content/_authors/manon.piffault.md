@@ -20,6 +20,11 @@ missions:
     employer: Malt
     startups:
       - datalma
+  - start: 2026-06-01
+    end: 2026-09-30
+    status: independent
+    startups:
+      - reglementation-nitrates
 badges:
   - segur
 competences: []

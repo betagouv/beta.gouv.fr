@@ -78,6 +78,15 @@ Afin de valider la pertinence et la faisabilité de cette orientation, nous prop
 * Vis-à-vis de la numérisation des démarches : intégrer ProConnect à Démarches Simplifiées et numériser de nouvelles démarches et réduisant le nombre d’informations demandées (10 démarches numérisées au niveau local déployées au niveau national, 10 démarches papier ou statique numérisées dans au moins un territoire, réduction de 20% des données demandées sur ces démarches). 
 * Vis-à-vis des agriculteurs : ProConnect est utilisé par 30% des déclarants des démarches ciblées et au moins 1000 comptes auront été créés dans le secteur agricole. 
 
+____
+**La proposition d'expérimentation n'a pas été suivie à l'issue du comité de fin d'investigation de septembre 2024. L'incubateur la Ruche a relancé le sujet début 2025. Détails ci-dessous.**
+
+
+___
+
+
+
+
 ## Feuille de route envisagée
 
 - demande d’un budget au projet loi finance 2025 par la Ruche porté par le SG/SNUM (sur le Programme 215) au titre des « chantiers simplification » : 500k

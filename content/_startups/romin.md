@@ -1,11 +1,11 @@
 ---
 title: ROMIN
-mission: Faciliter l'application du modèle efficace à la prévention de la récidive
+mission: Faciliter la diffusion d'outils d'intervention efficaces pour la récidive
 sponsors:
   - /organisations/mj
 incubator: justice
 repository: https://github.com/betagouv/romin/
-contact: contact@romin.beta.gouv.fr
+contact: romin.sip-dm-dgap@justice.gouv.fr
 budget_url: https://pad.numerique.gouv.fr/s/WYougVwWu#ROMIN
 accessibility_status: non conforme
 events:
@@ -40,6 +40,8 @@ phases:
     start: 2024-01-18
   - name: consolidation
     start: 2025-06-24
+  - name: transfere
+    start: 2026-06-04
 usertypes:
   - etat
 stats_url: https://romin.beta.gouv.fr/stats?source=externe
@@ -53,45 +55,41 @@ techno:
 impact_url: https://romin.beta.gouv.fr/stats?source=externe
 link: ''
 ---
+
 ## Contexte
 
-Le **ministère de la Justice** ⚖ a enregistré une forte hausse des décisions rendues par les juridictions correctionnelles à partir de 2020. Parmi les délinquants condamnés cette année-là et les suivantes, *plus de 40% étaient en état de récidive*, ce qui signifie qu’ils étaient connus, voire avaient été accompagnés par les Services Pénitentiaires d’Insertion et de Probation ([Les chiffres clés de la justice édition 2023 (p. 21)](https://www.justice.gouv.fr/sites/default/files/2023-10/Chiffres_Cle%CC%81s_2023_En_ligne_0.pdf)).
 
-Depuis 2018, le [Référentiel des Pratiques Opérationnelles 📖](https://journals.openedition.org/criminocorpus/10631), relatif à la méthodologie d’intervention en SPIP, propose la transposition en France du modèle Risque-Besoins-Réceptivité, dont la validité a été [scientifiquement démontrée](https://www.researchgate.net/publication/247523857_Validating_the_Principles_of_Effective_Intervention_A_Systematic_Review_of_the_Contributions_of_Meta-Analysis_in_the_Field_of_Corrections) pour l’accompagnement des personnes condamnées, dans un objectif de prévention de la récidive. 
+Le ministère de la Justice ⚖ a constaté une forte hausse des décisions rendues par les juridictions correctionnelles à partir de 2020. Parmi les personnes condamnées cette année-là et les suivantes, **plus de 44 % étaient en état de récidive**, ce qui signifie qu’elles étaient déjà connues, voire accompagnées, par les Services pénitentiaires d’insertion et de probation (source : [Les chiffres clés de la justice, édition 2023, p. 21](https://www.justice.gouv.fr/sites/default/files/2026-03/Chiffres_Cles_2025_corrV2.pdf)).
+
+Depuis 2018, le [Référentiel des Pratiques Opérationnelles](https://journals.openedition.org/criminocorpus/10631) 📖 propose la transposition en France du modèle **Risque–Besoins–Réceptivité**, dont l’efficacité a été [scientifiquement démontrée](https://www.researchgate.net/publication/247523857_Validating_the_Principles_of_Effective_Intervention_A_Systematic_Review_of_the_Contributions_of_Meta-Analysis_in_the_Field_of_Corrections) pour l’accompagnement des personnes condamnées dans un objectif de prévention de la récidive.
 
 ## Problème
 
-Cette méthodologie suppose une adaptation des pratiques professionnelles en SPIP ainsi que du contexte d’intervention.
+Cette méthodologie implique une adaptation des pratiques professionnelles en SPIP ainsi que du contexte d’intervention. Sa mise en œuvre concrète se heurte toutefois à une difficulté majeure : **l’accès à des outils ciblés, opérationnels, compréhensibles et immédiatement mobilisables**.
 
-Cette implémentation exige pour les professionnel.les de pouvoir visualiser la faisabilité générale de la méthodologie du RPO1. Au-delà de l'acculturation à l'évaluation du risque de récidive, de la guidance pour planifier l'accompagnement et du soutien méthodologique au savoir-être et aux techniques efficaces pour engager et soutenir le changement, ROMIN dynamise l'accompagnement grâce à des outils d’intervention ciblant les facteurs de risque de récidive.
+ROMIN répond à cet enjeu en **centralisant et diffusant des outils d’intervention** ciblant les facteurs de risque de récidive et tenant compte de la réceptivité de la PPSMJ accompagnée. Pour conforter les agents dans l’efficacité de leurs interventions et valoriser leur engagement, ROMIN met également en lumière les solutions d’intervention produites par la communauté professionnelle des SPIP.
 
-**Afin de conforter les agents quant à l’efficacité de leurs interventions et valoriser leur engagement, ROMIN partage les solutions d'intervention de la communauté des professionnel.les en SPIP.**
+## Solution pérennisée au sein de la DGAP
+En pratique : je suis **conseiller pénitentiaire d’insertion et de probation (CPIP)**. J’évalue le profil de la personne condamnée que j’accompagne, puis nous définissons ensemble un plan d’accompagnement.
 
-## Solution en cours de pérennisation
+Quels outils utiliser pour travailler chaque facteur de risque ? Je consulte **ROMIN 💻 : un seul critère à renseigner**, le facteur de risque de récidive.
 
-En pratique : je suis conseiller pénitentiaire d’insertion et de probation (CPIP), j’évalue le profil de la personne condamnée que j’accompagne puis nous définissons ensemble un plan d’accompagnement. 
+J’accède alors à l’ensemble des outils répertoriés, mobilisables en **entretien individuel**, en **action collective**, ou dans les deux formats. Je consulte la fiche-outil, le temps nécessaire à sa mise en œuvre, le mode d’emploi, puis je télécharge les supports utiles.
 
-Quels outils vais-je utiliser pour chacun des facteurs de risque à travailler ? 
-Je consulte ROMIN 💻 ! 1 seul critère à renseigner : le facteur de risque de récidive. 
+ROMIN s’intègre pleinement à l’environnement professionnel des agents et **complète les opportunités d’intervention qualitative déjà existantes**. La communauté professionnelle enrichit en continu les outils et fonctionnalités partagés. La documentation méthodologique, accessible en permanence, offre une prise de recul garantissant un impact maximisé pour l’accompagnement des personnes condamnées.
 
-J’accède à l’ensemble des outils d’intervention répertoriés, qu'ils soient mobilisables en entretien individuel, en action collective ou même les deux. Je consulte la fiche-outil, je prends connaissance du temps nécessaire à la mise en œuvre, du mode d’emploi et je télécharge les supports nécessaires.
-Pour accéder au bon outil, ROMIN me guide dans les phases amont à l'intervention par l'aide à l'évaluation du risque de récidive puis la planification de l'accompagnement.
+Après quatre années d’incubation en startup d’État, ROMIN est, depuis juin 2026, administré au sein de la Direction générale de l’Administration pénitentiaire (DGAP) par le **service de l’insertion et de la probation (SIP)**.
 
-ROMIN s’intègre à l’environnement professionnel des agents et constitue un équipement supplémentaire de soutien technique, en coordination avec les solutions existantes.
+## Parcours de déploiement
+Durant son incubation (de juin 2022 à juin 2026), ROMIN a été progressivement déployé sur l’ensemble du territoire national. Département après département, les professionnels en SPIP des **neuf DISP** et de la **DSPOM** ont été équipés de l’ensemble des fonctionnalités de la solution.
 
-La communauté professionnelle échange et parfait les outils et fonctionnalités partagés.
-La documentation méthodologique, accessible en permanence, offre une prise de recul aux professionnel·les garantissant un effet maximisé pour l'accompagnement de la personne condamnée.
+Chaque année, une présentation de ROMIN est réalisée à l’**ENAP** pour les CPIP en formation initiale. Les nouveaux DPIP bénéficient également d’une sensibilisation aux potentialités de ROMIN, notamment dans le cadre des commissions pluridisciplinaires internes.
 
-A l'horizon de l'été 2026, l'administration de la solution ROMIN sera confiée aux professionnel.les de la sous-direction Insertion-Probation de la DGAP. La Startup d'Etat œuvre actuellement au transfert des données et savoir-faire garantissant le succès du produit et la satisfaction des professionnel.les utilisateur.ices.
+De plus, les utilisateurs peuvent en outre solliciter une **présentation détaillée en distanciel**, en complément des supports vidéo disponibles sur le site.
 
-## Prochaines étapes
+## Gouvernance axée sur la consultation et l’innovation
+Le suivi annuel de l’impact réel de ROMIN et de sa capacité à répondre à sa promesse de valeur est assuré en **comité de pilotage**.
 
-**ROMIN est en ligne et accessible aux premiers utilisateurs depuis avril 2023**. Leurs retours permettent des ajustements et le développement de nouvelles fonctionnalités adaptées à leurs besoins de terrain comme celui de profiter de retours d’expérience ainsi que de la mise en lien avec des collaborateur.ices à même de développer leurs savoir-faire.
+La mise à jour et la dynamisation des outils et contenus du site reposent sur un **comité métiers** trimestriel, réunissant des **professionnels de terrain aux profils pluridisciplinaires**, chargés de valider l’ajout de nouveaux supports, d’actualiser ceux existants ou de retirer ceux devenus obsolètes.
 
-ROMIN donne accès à plus de 100 outils ciblés et ce volume continue de grandir en permanence.
-
-ROMIN couvrant plus de 85% du territoire national, le déploiement de la solution numérique mobilise de plus en plus nos meilleurs ambassadeurs sur le terrain, en directions interrégionales et au sein de l'administration centrale.
-
-**L’impact de ROMIN se mesure via les données statistiques de consultation auxquelles sont combinées les retours qualitatifs de nos utilisateur.ices consulté.es à échéance régulière**. 
-
-Tout en poursuivant la distribution de ROMIN auprès des derniers services pénitentiaires d'insertion et de probation, l'équipe ROMIN organise le transfert de l'administration du produit en mobilisant les diverses parties prenantes autour des enjeux produit (technique), humains (ressources humaines, gouvernance), documentaires et financier. L'ambition est claire : maximiser l'impact de ROMIN, dans la durée, dans l'intérêt du service public pénitentiaire.
+Enfin, un **comité technique** semestriel analyse les retours utilisateurs concernant les besoins d’amélioration fonctionnelle, afin de garantir une expérience optimale.

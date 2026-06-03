@@ -6,9 +6,9 @@ github: sylvaingi
 competences: []
 missions:
   - start: 2025-01-06
-    end: 2026-06-30
+    end: 2026-10-30
     status: independent
-    employer: Omnicite
+    employer: Crème de la crème
     startups:
       - mon.espace.collectivite
 ---

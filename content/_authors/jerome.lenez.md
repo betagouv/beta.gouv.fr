@@ -11,23 +11,23 @@ missions:
     startups:
       - cassiopee
   - start: 2021-08-01
-    end: 2025-07-02
+    end: 2025-07-31
     status: independent
     employer: SGDSN
     startups:
       - athena
-  - start: 2021-08-02
-    end: 2026-06-30
-    status: independent
-    employer: Ministères Sociaux
-    startups:
-      - reva
   - start: 2021-08-10
     end: 2022-10-31
     status: admin
     employer: Ministère des Armées
     startups:
       - civils-de-la-defense
+  - start: 2023-01-02
+    end: 2026-09-30
+    status: independent
+    employer: Ministères Sociaux
+    startups:
+      - reva
 competences:
   - Gestion de Produit
 previously:

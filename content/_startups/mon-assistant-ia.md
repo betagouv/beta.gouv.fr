@@ -18,17 +18,14 @@ incubator: alliance
 sponsors:
   - /organisations/dinum
 phases:
-  - name: construction
-    start: 2025-05-02
   - name: investigation
+    start: 2025-05-02
+  - name: construction
     start: 2025-10-22
 events:
   - name: product_launch
-    date: 2025-05-02
-    comment: 'Ouverture beta aux agents de la DINUM '
-  - name: other
     date: 2025-10-22
-    comment: Lancement de la nouvelle plateforme en expérimentation fermée
+    comment: Lancement de la nouvelle plateforme en expérimentation fermée à 10 000 agents de 8 ministères
 repository: https://github.com/suitenumerique/conversations#
 ---
 # Assistant IA

@@ -28,7 +28,7 @@ missions:
     startups:
       - qualicharge
   - start: 2025-08-11
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: Malt
     startups:

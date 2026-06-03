@@ -15,7 +15,6 @@ missions:
       - homologation
       - mes-services-cyber
       - mon-aide-cyber
-      - nis2
       - recocyber
 teams:
   - /teams/anssi

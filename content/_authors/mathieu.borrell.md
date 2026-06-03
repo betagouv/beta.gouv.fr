@@ -11,6 +11,7 @@ missions:
     employer: UT7
     startups:
       - la-bonne-alternance
+      - tdb-apprentissage
   - start: 2026-02-27
     end: 2026-08-27
     status: independent

@@ -36,7 +36,7 @@ missions:
     startups:
       - grist.numerique.gouv.fr
   - start: 2026-01-05
-    end: 2026-07-01
+    end: 2026-10-01
     status: independent
     employer: Omnicité
     startups:

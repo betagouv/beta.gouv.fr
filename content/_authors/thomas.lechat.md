@@ -8,7 +8,7 @@ competences:
   - JavaScript/TypeScript
 missions:
   - start: 2025-06-23
-    end: 2026-06-27
+    end: 2026-09-30
     status: service
     employer: Omnicité
     startups:

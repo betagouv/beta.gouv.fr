@@ -18,9 +18,9 @@ missions:
     startups:
       - mon-suivi-social
   - start: 2026-01-05
-    end: 2026-06-30
+    end: 2026-08-31
     status: independent
-    employer: Omnicite
+    employer: Crème de la crème
     startups:
       - suite.territoriale
 competences:

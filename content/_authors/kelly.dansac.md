@@ -4,7 +4,7 @@ role: Opératrice de validation / chargée de support
 domaine: Autre
 missions:
   - start: 2023-06-05
-    end: 2026-05-30
+    end: 2026-10-31
     status: independent
     startups:
       - dossierfacile

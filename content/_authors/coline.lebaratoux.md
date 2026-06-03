@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - plus-frais-au-travail
       - transition-ecologique-des-entreprises
 memberType: beta
 link: https://www.linkedin.com/in/coline-lebaratoux
