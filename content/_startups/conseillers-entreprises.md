@@ -37,6 +37,7 @@ phases:
     start: 2022-06-21
 stats_url: https://conseillers-entreprises.service-public.gouv.fr/stats
 techno: []
+impact_url: https://docs.numerique.gouv.fr/docs/4dd95e65-187a-45cc-bafa-adaf9fd8463d/
 ---
 **TPE PME, vous avez un projet, une difficulté ou une question du quotidien ? Échanger avec LE conseiller qui peut vous aider.**
 

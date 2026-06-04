@@ -10,12 +10,17 @@ missions:
     startups:
       - bat-id
   - start: 2024-08-26
+    end: 2026-06-04
+    status: independent
+    employer: SIGMAZ Consilium
+    startups:
+      - suite.d.outils.des.mediateurs.numeriques
+  - start: 2024-08-26
     end: 2026-06-30
     status: independent
     employer: SIGMAZ Consilium
     startups:
       - france-numerique-ensemble
-      - suite.d.outils.des.mediateurs.numeriques
   - start: 2024-08-26
     end: 2026-04-09
     status: independent

@@ -7,17 +7,13 @@ sponsors:
   - /organisations/meae
 phases:
   - name: investigation
-    comment: null
     start: 2025-12-08
-    end: null
   - name: transfere
-    comment: null
     start: 2026-03-11
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-06-02
+link: ''
 ---
 ## Contexte
 

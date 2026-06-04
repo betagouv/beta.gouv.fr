@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/theo-le-magueresse/
 github: theolemague
 missions:
   - start: 2022-08-01
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
     employer: Selego
     startups:
