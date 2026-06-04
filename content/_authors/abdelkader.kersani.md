@@ -18,4 +18,10 @@ missions:
     employer: Malt
     startups:
       - investigation-cour-d-appel-de-paris
+  - start: 2026-06-20
+    end: 2026-12-04
+    status: independent
+    employer: Docaposte
+    startups:
+      - investigation-cour-d-appel-de-paris
 ---

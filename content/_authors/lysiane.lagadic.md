@@ -6,13 +6,13 @@ missions:
   - start: 2024-06-20
     end: 2026-10-30
     status: independent
-    employer: Malt
+    employer: La Manufacture-Docaposte
     startups:
       - suite.territoriale
   - start: 2024-10-29
     end: 2026-10-30
     status: independent
-    employer: Omnicité
+    employer: Malt
     startups:
       - lannuaire.des.collectivites
 link: https://www.linkedin.com/in/lysiane-lagadic-56254ba8/
@@ -24,4 +24,5 @@ competences:
   - UI
   - UX
 memberType: beta
+github: lysianelagadic
 ---

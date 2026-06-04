@@ -13,6 +13,8 @@ phases:
     start: 2024-04-01
   - name: acceleration
     start: 2024-11-15
+  - name: opere
+    start: 2026-03-01
 thematiques:
   - Outil technique
   - Inclusion numérique

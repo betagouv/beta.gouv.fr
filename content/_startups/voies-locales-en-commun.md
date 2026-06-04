@@ -1,5 +1,5 @@
 ---
-contact: sophie.clairet@beta.gouv.fr
+contact: contact@voies-locales.beta.gouv.fr
 thematiques:
   - Territoires
   - Open-Data

@@ -7,9 +7,7 @@ competences: []
 missions:
   - start: 2026-06-01
     end: 2026-11-06
-    employer: THEODO
     status: service
-    startups: []
-teams: []
+    employer: THEODO
 ---
 Responsable de compte pour Theodo

@@ -14,6 +14,12 @@ missions:
     status: independent
     startups:
       - agents.en.intervention
+  - start: 2026-06-01
+    end: 2026-09-03
+    status: independent
+    employer: Mednum
+    startups:
+      - refugies.info
 memberType: beta
 link: https://www.linkedin.com/in/jeremy-pastouret/
 competences:

@@ -18,7 +18,7 @@ missions:
     startups:
       - aldo
   - start: 2023-06-12
-    end: 2026-06-30
+    end: 2026-12-04
     status: independent
     employer: Dynergie
     startups:

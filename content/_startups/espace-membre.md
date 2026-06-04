@@ -3,7 +3,7 @@ analyse_risques: false
 mon_service_securise: false
 contact: julien.bouquillon@beta.gouv.fr
 repository: https://github.com/betagouv/espace-membre-next
-link: https://espace-membre.incubateur.net/startups/create-form
+link: https://espace-membre.beta.gouv.fr
 stats_url: https://beta.gouv.fr/communaute/
 thematiques:
   - Administratif
