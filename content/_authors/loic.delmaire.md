@@ -12,7 +12,7 @@ missions:
       - api-entreprise
       - mps
   - start: 2020-09-01
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
     employer: octo, malt
     startups:

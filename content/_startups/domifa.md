@@ -17,8 +17,6 @@ phases:
   - name: acceleration
     start: 2020-01-01
     end: 2023-01-17
-  - name: transfere
-    start: 2023-01-17
 fast:
   promotion: 17
   montant: 200000
@@ -107,7 +105,7 @@ DomiFa s’adresse aux CCAS, CIAS, communes et tout autre organisme agréé (ass
 Note de satisfaction des structures : 8,9 / 10 (Etude août 2022)
 Note de satisfaction des domiciliés : 4,2 / 5 (Etude décembre 2023)
 
-Avec plus de **600 000 dossiers gérées** et plus de **1500 structures actives** (CCAS, CIAS, associations), DomiFa simplifie et optimise le processus de domiciliation administrative. Grâce à son interface intuitive, la plateforme a permis de **réduire les délais de traitement**, d’améliorer la **sécurité des données** et de **libérer du temps pour l’accompagnement social**. 
+Avec plus de **959 713 dossiers gérées** et plus de **2091 structures actives** (CCAS, CIAS, associations), DomiFa simplifie et optimise le processus de domiciliation administrative. Grâce à son interface intuitive, la plateforme a permis de **réduire les délais de traitement**, d’améliorer la **sécurité des données** et de **libérer du temps pour l’accompagnement social**. 
 
 Les **notifications automatiques** et le **portail domicilié** renforcent la communication avec les bénéficiaires, facilitant leur accès aux droits.
 

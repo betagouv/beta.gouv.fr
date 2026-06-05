@@ -3,11 +3,10 @@ fullname: Maxime Seguin
 role: Archéologue
 domaine: Intraprenariat
 link: https://cv.hal.science/maxime-seguin
-competences:
-  - PostgreSQL
+competences: []
 missions:
   - start: 2024-11-01
-    end: 2026-06-30
+    end: 2026-09-30
     status: admin
     employer: Atelier numérique
     startups:

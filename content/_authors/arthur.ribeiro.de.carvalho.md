@@ -10,6 +10,12 @@ missions:
     startups:
       - envirogend
       - guichet-territorial-pour-la-transition-ecologique
+  - start: 2026-06-05
+    end: 2026-09-05
+    status: admin
+    employer: Gendarmerie nationale
+    startups:
+      - enviro-gend
 competences:
   - Administration Publique
   - Intrapreneur(se)
