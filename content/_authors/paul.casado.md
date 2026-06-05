@@ -8,7 +8,7 @@ competences:
   - Kubernetes
   - Data Science
 missions:
-  - start: 2026-06-01
+  - start: 2026-06-05
     end: 2026-10-15
     status: independent
     employer: Octo

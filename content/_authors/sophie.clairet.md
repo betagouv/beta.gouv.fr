@@ -36,6 +36,12 @@ missions:
     employer: DYNERGIE
     startups:
       - voies-locales-en-commun
+  - start: 2026-06-05
+    end: 2026-09-05
+    status: independent
+    employer: DYNERGIE
+    startups:
+      - viz-eau
 badges:
   - segur
 competences:

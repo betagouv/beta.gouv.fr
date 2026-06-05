@@ -31,9 +31,13 @@ stats_url: https://boris.beta.gouv.fr/notre-mission#statistiques
 dashlord_url: https://dashlord.mte.incubateur.net/url/boris-beta-gouv-fr/
 usertypes:
   - particulier
-techno: []
+techno:
+  - sveltekit
+  - typescript
+  - sentry
+  - vite
 budget_url: https://boris.beta.gouv.fr/notre-mission#statistiques
-impact_url: https://boris.beta.gouv.fr/notre-mission#statistiques
+impact_url: https://boris.beta.gouv.fr/matrice-impact
 ---
 <h2>2,4 millions</h2>
 

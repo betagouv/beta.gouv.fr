@@ -12,7 +12,7 @@ missions:
     startups:
       - demarches-simplifiees.fr
   - start: 2019-12-06
-    end: 2026-06-01
+    end: 2026-11-20
     status: independent
     employer: Scopopop
     startups:
