@@ -177,6 +177,7 @@ else
             
             # Informations sur le fichier
             FILE_COMMITS=$(git log --since="$START_DATE" --oneline -- "$file" | wc -l)
+            LAST_COMMIT_DATE=$(git log --since="$START_DATE" --format="%ad" --date=format:"%d-%m-%Y %H:%M:%S" -1 -- "$file" 2>/dev/null || echo "N/A")
             
             cat >> "$REPORT_FILE" << EOF
 **Dernière modification:** $LAST_COMMIT_DATE  
