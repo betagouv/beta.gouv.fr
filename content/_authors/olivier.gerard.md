@@ -5,7 +5,7 @@ role: Intrapreneur France VAE Chef de projet
 github: OliverGERARD
 missions:
   - start: 2026-01-05
-    end: 2026-07-06
+    end: 2026-10-30
     status: independent
     employer: 'Opteamis '
     startups:

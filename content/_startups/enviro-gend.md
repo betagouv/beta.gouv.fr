@@ -14,30 +14,24 @@ sponsors:
   - /organisations/commandement-pour-l-environnement-et-la-sante
 phases:
   - name: investigation
-    comment: null
     start: 2021-03-01
-    end: null
   - name: construction
-    comment: null
     start: 2022-01-01
-    end: null
   - name: acceleration
-    comment: null
     start: 2023-07-01
-    end: null
 events:
   - name: product_launch
-    comment: 'Lancement de la V1 : 1000 utilisateurs mensuel'
     date: 2023-07-01
+    comment: 'Lancement de la V1 : 1000 utilisateurs mensuel'
   - name: other
-    comment: 'Lancement de la V2 : 1500 utilisateurs mensuel'
     date: 2024-09-01
+    comment: 'Lancement de la V2 : 1500 utilisateurs mensuel'
   - name: other
-    comment: 'Enrichissement du produit passant de la V2.1 à la V2.6 : 2000 utilisateurs mensuel'
     date: 2025-09-01
+    comment: 'Enrichissement du produit passant de la V2.1 à la V2.6 : 2000 utilisateurs mensuel'
   - name: other
-    comment: 'Enrichissement du produit en V2.7 : 2500 utilisateurs mensuel'
     date: 2026-03-01
+    comment: 'Enrichissement du produit en V2.7 : 2500 utilisateurs mensuel'
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

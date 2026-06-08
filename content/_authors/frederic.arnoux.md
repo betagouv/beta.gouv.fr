@@ -4,7 +4,7 @@ fullname: Frédéric Arnoux
 role: Lead Dev / CTO
 missions:
   - start: 2024-04-25
-    end: 2026-06-30
+    end: 2026-12-08
     status: independent
     employer: Malt
     startups:
