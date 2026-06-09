@@ -6,7 +6,7 @@ competences:
   - Coaching
 missions:
   - start: 2024-12-16
-    end: 2026-06-30
+    end: 2026-12-08
     status: service
     employer: OCTO
 ---

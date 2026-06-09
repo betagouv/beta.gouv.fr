@@ -7,6 +7,11 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-12-01
+  - name: abandon-investigation
+    start: 2024-12-01
+thematiques: []
+usertypes: []
+techno: []
 link: ''
 ---
 **Contexte**

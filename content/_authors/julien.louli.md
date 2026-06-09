@@ -4,7 +4,7 @@ role: Product Owner / Business Developer
 domaine: Déploiement
 missions:
   - start: 2023-10-04
-    end: 2026-06-11
+    end: 2026-12-09
     status: independent
     employer: Little Big Connection
     startups:

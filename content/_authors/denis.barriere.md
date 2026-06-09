@@ -2,17 +2,20 @@
 fullname: Denis Barriere
 role: Développement Full-Stack à OneVision
 domaine: Développement
-github: https://github.com/denisbarriere
+github: denisbarriere
 link: https://www.linkedin.com/in/denisbarriere/
 competences:
   - Développement Full-stack
+  - Développement Frontend
+  - Développement Backend
+  - JavaScript/TypeScript
+  - PostgreSQL
 missions:
   - start: 2026-06-08
     end: 2026-12-08
-    employer: Docaposte
     status: independent
+    employer: Docaposte
     startups:
       - one-vision
-teams: []
 ---
-Développeur Full-Stack TypeScript
+Développeur Full-Stack TypeScript senior
