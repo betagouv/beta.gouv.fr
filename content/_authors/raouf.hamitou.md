@@ -15,7 +15,7 @@ competences:
   - Trello
 missions:
   - start: 2025-02-20
-    end: 2026-11-20
+    end: 2026-11-30
     status: independent
     employer: Crème de la crème
     startups:

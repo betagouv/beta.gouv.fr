@@ -1,14 +1,18 @@
 ---
 fullname: Baptiste Larrouy
-role: Data Analyst
+role: Product Data Analyst
 domaine: Data
-competences: []
+competences:
+  - Product strategy
+  - Data Science
+  - Python
 missions:
   - start: 2025-04-28
-    end: 2026-08-28
+    end: 2026-11-30
     status: independent
     employer: Malt
     startups:
+      - icare-complements-alimentaires
       - territoires-en-transitions
 ---
-Ingénieur data analyst
+Data Scientist & Product Manager

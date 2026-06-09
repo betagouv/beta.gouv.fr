@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2024-05-02
     end: 2027-12-31
-    employer: Ministère de l'Interieur
     status: admin
+    employer: Ministère de l'Interieur
     startups:
       - astree
-teams: []
 ---
