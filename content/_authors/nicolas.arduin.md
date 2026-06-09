@@ -5,13 +5,13 @@ domaine: Développement
 competences: []
 missions:
   - start: 2026-01-06
-    end: 2026-04-13
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:
       - dossierfacile
   - start: 2026-04-13
-    end: 2026-07-15
+    end: 2026-12-07
     status: independent
     employer: PAUDA
     startups:

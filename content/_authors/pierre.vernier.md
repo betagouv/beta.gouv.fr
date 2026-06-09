@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2026-06-05
     end: 2026-12-04
-    employer: Crème de la crème
     status: service
+    employer: Crème de la crème
     startups:
       - mes-services-cyber
-teams: []
 ---
