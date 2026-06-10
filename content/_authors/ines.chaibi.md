@@ -1,7 +1,7 @@
 ---
 domaine: Déploiement
 fullname: Inès Chaïbi
-role: Chargée de déploiement et partenariat et Gestion de produit
+role: 'Chargée de déploiement et de partenariat ; Gestion de produit ; '
 missions:
   - start: 2024-05-02
     end: 2026-07-01
@@ -9,6 +9,12 @@ missions:
     employer: LBC
     startups:
       - bat-id
+  - start: 2026-06-05
+    end: 2026-08-31
+    status: independent
+    employer: Crème de la Crème
+    startups:
+      - archeolog-ia
 memberType: beta
 competences:
   - Coaching

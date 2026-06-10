@@ -14,7 +14,7 @@ competences:
   - Accessibilité
 missions:
   - start: 2026-03-16
-    end: 2026-06-12
+    end: 2026-09-10
     status: independent
     employer: LittleBIG Connection
     startups:

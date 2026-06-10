@@ -16,11 +16,17 @@ missions:
     startups:
       - je-deviens-etudiant
   - start: 2026-01-15
-    end: 2026-10-30
+    end: 2026-06-11
     status: independent
     employer: Scopileft
     startups:
       - ma-cantine-egalim
+  - start: 2026-06-10
+    end: 2026-11-10
+    status: independent
+    employer: Malt
+    startups:
+      - chauffage-urbain
 memberType: beta
 link: https://www.linkedin.com/in/marinebourjac/
 competences:
