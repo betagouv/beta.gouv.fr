@@ -18,13 +18,22 @@ missions:
       - protege-toit
       - reperer.identifier.victimes.teh
   - start: 2024-06-01
+    end: 2026-06-11
+    status: independent
+    employer: scopyleft
+  - start: 2024-06-01
     end: 2024-07-01
     status: independent
     employer: scopyleft
     startups:
       - icare-complements-alimentaires
-      - ma-cantine-egalim
       - reperer.identifier.victimes.teh
+  - start: 2024-06-01
+    end: 2026-06-11
+    status: independent
+    employer: scopyleft
+    startups:
+      - ma-cantine-egalim
   - start: 2024-07-01
     end: 2026-11-19
     status: admin
