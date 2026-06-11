@@ -11,7 +11,6 @@ missions:
     status: admin
     employer: DGALN
     startups:
-      - dialogue
       - histologe
       - vert.impact
 ---

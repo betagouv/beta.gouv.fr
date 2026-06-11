@@ -11,9 +11,8 @@ competences:
 missions:
   - start: 2026-06-05
     end: 2026-09-05
-    employer: Little Big Connnection
     status: independent
+    employer: Little Big Connnection
     startups:
       - sain-eau
-teams: []
 ---

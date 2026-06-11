@@ -1,7 +1,7 @@
 ---
 fullname: Vikie Ache
 domaine: Produit
-role: Product Manager ; Responsable communication/partenariats ; Chargée de déploiement/animation - Ex Intrapreneuse Simone & Co
+role: Product Manager ; Responsable communication  - Ex Intrapreneuse Simone & Co
 github: vikieache
 missions:
   - start: 2019-09-01
@@ -11,13 +11,13 @@ missions:
     startups:
       - simone-and-co
   - start: 2020-09-01
-    end: 2026-06-30
+    end: 2026-12-10
     status: independent
     employer: Scopyleft
     startups:
       - histologe
   - start: 2021-12-01
-    end: 2026-06-30
+    end: 2026-12-10
     status: independent
     employer: Pathtech
     startups:

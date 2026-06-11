@@ -21,6 +21,8 @@ phases:
     start: 2020-02-25
   - name: acceleration
     start: 2021-01-01
+  - name: consolidation
+    start: 2025-11-10
 fast:
   promotion: 13
   montant: 300000
@@ -49,19 +51,20 @@ mon_service_securise: true
 techno:
   - python
   - react
+  - flask
 analyse_risques: true
 budget_url: https://pad.numerique.gouv.fr/s/WYougVwWu#Mobilic
 impact_url: https://docs.numerique.gouv.fr/docs/38420afc-e660-477a-a211-70558bfa3a4d/
 ---
-Pour répondre aux exigences du droit du travail, **les employeurs ont l’obligation de suivre le temps de travail de leurs conducteurs**. Dans le secteur des transports routiers, les conducteurs étant mobiles, le décompte de leur temps de travail ne peut pas se faire au siège de leur entreprise. Il est donc fait par les conducteurs à l’aide d’un dispositif qu’ils emportent avec eux.
+Pour répondre aux exigences du droit du travail, **les employeurs ont l’obligation de suivre le temps de travail de leurs salariés**. Dans le secteur des transports routiers, les salariés étant mobiles, le décompte de leur temps de travail ne peut pas se faire au siège de leur entreprise. Il est donc fait par les salariés à l’aide d’un dispositif qu’ils emportent avec eux.
 
 ## Les problèmes actuels
 
-Dans le secteur du transport routier léger (véhicules utilitaires légers (VUL)  de moins de 3.5 tonnes ou de moins de 9 places), **le respect du temps de travail des personnels roulants est historiquement contrôlé au moyen du livret individuel de contrôle (LIC)** au format papier, en application du code des transports.
+Dans le secteur du transport routier léger (véhicules utilitaires légers (VUL)  de moins de 3.5 tonnes ou de moins de 9 places), **le respect du temps de travail des personnels roulants (salariés) est historiquement contrôlé au moyen du livret individuel de contrôle (LIC)** au format papier, en application du code des transports.
 
 Or, ce dispositif était inutilisé ou contourné par un grand nombre d’acteurs, car :
 
-* **pas adapté** à l’activité mobile des salariés ;
+* **pas adapté** à l’activité mobile des salariés  ;
 * la **gestion administrative** de ces LIC est coûteuse et chronophage pour les gestionnaires d’entreprise et les corps de contrôle ;
 * le format papier n’est **ni fiable ni contrôlable** par les corps de contrôle.
 
@@ -71,7 +74,7 @@ Cette non-utilisation a des conséquences fortes :
 
 * **travail dissimulé** représentant jusqu’à 10% des salariés du secteur ;
 * **fraude fiscale** et sociale estimée à plusieurs centaines de millions d’euros chaque année ;
-* enjeux de **santé et sécurité routière**, et
+* enjeux de **santé et sécurité routière**; et
 * concurrence déloyale pour les entreprises vertueuses.
 
 ➡️ Un rapport de l’Observatoire du Travail Dissimulé rapporte au titre de l’année 2016 que, dans le secteur du transport, un quart des établissements contrôlés est en situation de fraude ou d'irrégularité.
@@ -88,7 +91,7 @@ Notre stratégie pour y parvenir ? Faciliter la mise en conformité des entrepri
 
 Développée en collaboration avec les entreprises du secteur et les corps de contrôle de l’État, notre outil se compose :
 
-* D'une **application web** destinée aux salariés conducteurs, permettant l’enregistrement du temps de travail adapté à un usage en mobilité ; et destinée également aux gestionnaires, leur permettant la gestion de ces temps de travail ;
+* D'une **application web** destinée aux salariés, permettant l’enregistrement du temps de travail adapté à un usage en mobilité ; et destinée également aux gestionnaires, leur permettant la gestion de ces temps de travail ;
 * D'une **interface de contrôle** destinée aux contrôleurs, calculant automatiquement les dépassements de seuils et détectant ainsi les potentielles infractions ;
 * D'une **API**  permettant d'habiliter des applications métiers/RH des entreprises à collecter le décompte du temps de travail mais en certifiant la donnée dans Mobilic.
 
@@ -103,12 +106,17 @@ L'indicateur que nous suivons désormais pour mesurer l'impact de Mobilic est le
 Sur 30 000 entreprises concernées par la réglementation, nous estimons à 12 000 celles auprès de qui Mobilic s'adresse en premier lieu (déménagement et transport de marchandises). Une refonte du certificat Mobilic est intervenue au cours de l'année 2025 pour accompagner les entreprises dans les diverses étapes les menant à un taux élevé de conformité, **1 373** d'entre elles recevaient le certificat Mobilic lors du calcul du 1er novembre 2025.
 
 **➡️ Notre objectif 2025 était d'arriver à 2 000 entreprises certifiées lors du calcul du 1er novembre 2025.**
+## Objectifs pour 2026 visant à améliorer notre impact
+Des étapes ont été fixés pour permettre d'accompagner les entreprises vers la mise en conformité et réduire le travail dissimulé. Ces étapes sont exprimées dans un funnel précis et objectivé : 
+* l'acquisition visant à étendre la pénétration de Mobilic dans les secteurs : **+24 % entreprises inscrites**
+*  l'activation afin de faciliter la prise en main de l'outil : **40% des entreprises inscrites effectuent une mission sous 3 semaines**
+* la rétention pour simplifier l'adoption de l'outil : **38% des entreprises activées deviennent utilisatrices**
+* l'impact visant à confirmer la mise en conformité réglementaire : **30% des entreprises utilisatrices sont certifiées "or" ou plus**
+
 
 La croissance anticipée repose sur :
-
 * l'effet levier lié au nombre grandissant de **logiciels métier qui s'interfacent** avec l'API Mobilic ;
 * la **modification de la réglementation** (décret/arrêtés) permettant de faciliter les contrôles ;
 * un **accompagnement** étape par étape des entreprises embarquées (minimiser le taux de perte d'usagers, accélérer la prise en main de l'outil et la vitesse à laquelle elles deviennent certifiées) ;
 * les diverses **actions de déploiement** (feuille de route actuelle).
-
 Pour plus d’information, n'hésitez pas à consulter nos [statistiques publiques ](https://mobilic.beta.gouv.fr/stats)et notre [FAQ](https://faq.mobilic.beta.gouv.fr/).

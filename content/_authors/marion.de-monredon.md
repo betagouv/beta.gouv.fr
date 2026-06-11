@@ -11,11 +11,11 @@ competences:
   - Coaching
 missions:
   - start: 2026-04-13
-    end: 2026-07-10
+    end: 2026-10-31
     status: independent
     employer: DOCAPOSTE / Cober
     startups:
       - csplab
 github: marion-dm
 ---
-Je suis Product Manager freelance. J'aide les équipes à clarifier leur vision, prioriser ce qui compte vraiment et gagner en efficacité — sans ajouter de processus inutiles. Mes terrains de jeu : produits complexes, équipes en construction, contextes où tout reste à structurer. 
+J'aide les équipes à clarifier leur vision, prioriser ce qui compte vraiment et gagner en efficacité — sans ajouter de processus inutiles. Mes terrains de jeu : produits complexes, équipes en construction, contextes où tout reste à structurer. 
