@@ -4,11 +4,14 @@
       <div class="hero__startup-text fr-col-lg-6">
         <h1>{{ include.startup.title | escape }}</h1>
 
-        {% if include.startup.events.last.name == "national_impact" %}
-          <span class="fr-badge fr-badge--success">Service à impact national</span>
-        {% elsif include.startup.fast %}
-          <span class="fr-badge fr-badge--new">Lauréat FAST</span>
-        {% endif %}
+        {% unless include.startup.events == empty %}
+          <ul class="fr-pl-0">
+            {% for event in include.startup.events %}
+              <li style="list-style: none; display: inline-block">{{ event | to_startup_badge }}</li>
+            {% endfor %}
+          </ul>
+        {% endunless %}
+
 
         {% if include.startup.mission %}
           <p class="hero__startup__mission fr-mt-3w fr-h3">
