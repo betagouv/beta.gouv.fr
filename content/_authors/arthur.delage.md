@@ -6,7 +6,7 @@ github: arthurdeleage
 competences: []
 missions:
   - start: 2025-12-09
-    end: 2026-11-07
+    end: 2026-06-13
     status: independent
     employer: Malt
     startups:
