@@ -10,11 +10,15 @@ missions:
     startups:
       - audiodescription
   - start: 2025-09-15
-    end: 2026-09-30
+    end: 2026-06-12
     status: independent
     employer: Scopyleft
     startups:
       - signaux-faibles
+  - start: 2025-09-15
+    end: 2026-09-30
+    status: independent
+    employer: Scopyleft
 competences:
   - Accessibilité
   - Développement Backend
