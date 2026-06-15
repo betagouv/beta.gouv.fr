@@ -8,6 +8,10 @@ missions:
     end: 2026-08-18
     status: independent
     employer: Scopyleft
+  - start: 2023-09-18
+    end: 2026-06-11
+    status: independent
+    employer: Scopyleft
     startups:
       - ma-cantine-egalim
 memberType: beta

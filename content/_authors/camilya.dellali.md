@@ -23,6 +23,12 @@ missions:
     employer: Scopopop
     startups:
       - demarches-simplifiees.fr
+  - start: 2026-06-30
+    end: 2026-12-14
+    status: independent
+    employer: Turbine.coop
+    startups:
+      - demarches-simplifiees.fr
 competences:
   - Administration Publique
   - Croissance

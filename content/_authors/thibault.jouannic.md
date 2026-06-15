@@ -6,11 +6,12 @@ link: https://www.miximum.fr
 github: thibault
 missions:
   - start: 2018-08-01
-    end: 2026-06-12
+    end: 2026-12-12
     status: independent
     employer: Malt
     startups:
       - envergo
+      - guichet-unique-de-la-haie-envergo-agricole
 previously:
   - aides-territoires
 competences: []

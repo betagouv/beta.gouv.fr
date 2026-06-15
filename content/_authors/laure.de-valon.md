@@ -22,7 +22,7 @@ missions:
     startups:
       - adaptation-au-changement-climatique-acc
   - start: 2025-07-18
-    end: 2026-05-27
+    end: 2026-08-31
     status: independent
     employer: Dynergie
     startups:
