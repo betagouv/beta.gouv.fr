@@ -7,9 +7,10 @@ competences:
   - Docker
   - Machine learning
   - Python
+  - LLM
 missions:
   - start: 2025-09-18
-    end: 2026-06-12
+    end: 2026-10-31
     status: independent
     employer: Scopyleft
     startups:

@@ -14,7 +14,8 @@ thematiques:
 link: https://mon-indemnisation.justice.gouv.fr/
 repository: https://github.com/betagouv/mon-indemnisation-justice/
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#PRECONTENTIEUX
-usertypes: []
+usertypes:
+  - particulier
 techno:
   - symfony
   - php
@@ -47,4 +48,5 @@ Ce portail a pour objectif :
 
 ## Stratégie
 
-Notre produit, actuellement en phase d'accélération, a été expérimenté, entre novembre 2024 et mai 2025, dans 8 départements pilotes à savoir les Bouches-du-Rhône (13), la Gironde (33), l’Ille-et-Vilaine (35), le Nord (59), le Bas-Rhin (67), le Rhône (69), la Seine-et-Marne (77) et le Var (83). Cette expérimentation a été étendue à l'ensemble du territoire national mi-juin 2025, avec la police nationale et la gendarmerie nationale. L'expérimentation sera effective avec la préfecture de police courant octobre 2025. Les retours des utilisateurs permettent une amélioration continue du produit.
+Notre produit, actuellement en phase d'accélération, a été expérimenté, entre novembre 2024 et mai 2025, dans 8 départements pilotes à savoir les Bouches-du-Rhône (13), la Gironde (33), l’Ille-et-Vilaine (35), le Nord (59), le Bas-Rhin (67), le Rhône (69), la Seine-et-Marne (77) et le Var (83). Cette expérimentation a été étendue à l'ensemble du territoire national mi-juin 2025, avec la police nationale et la gendarmerie nationale. L'expérimentation sera effective avec la préfecture de police courant Juin 2026 complétant ainsi la couverture des trois forces de l'ordre. Les retours des utilisateurs permettent une amélioration continue du produit. 
+La stratégie du second semestre 2026 porte sur trois axes : consolider le déploiement FDO avec un suivi terrain et une sensibilisation aux bonnes pratiques, enrichir le produit (liaison dossier-déclaration FDO, signature électronique requérant, envoi de SMS post-déclaration), et améliorer le pourcentage de dossiers déposés avec une déclaration FDO associée.

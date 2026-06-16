@@ -18,7 +18,7 @@ missions:
     startups:
       - languia
   - start: 2025-12-15
-    end: 2026-06-15
+    end: 2026-12-15
     status: admin
     employer: EIG
     startups:

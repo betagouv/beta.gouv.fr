@@ -6,7 +6,7 @@ link: https://michael.bitard.fr/
 github: MichaelBitard
 missions:
   - start: 2022-03-07
-    end: 2026-06-30
+    end: 2026-09-15
     status: independent
     employer: Malt
     startups:

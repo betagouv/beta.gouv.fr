@@ -19,7 +19,7 @@ missions:
     startups:
       - aigle
   - start: 2026-02-17
-    end: 2026-05-17
+    end: 2026-10-17
     status: independent
     startups:
       - guichet-territorial-pour-la-transition-ecologique

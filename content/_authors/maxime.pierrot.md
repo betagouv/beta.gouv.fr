@@ -5,7 +5,7 @@ domaine: Développement
 github: pierrax
 missions:
   - start: 2020-06-02
-    end: 2026-06-15
+    end: 2026-11-30
     status: independent
     employer: Little Big Connection
     startups:
