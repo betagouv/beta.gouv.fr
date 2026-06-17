@@ -1,6 +1,6 @@
 ---
 fullname: oriana berthomieu
-role: Product Designer
+role: Product & Service Designer
 domaine: Design
 missions:
   - start: 2023-11-15
@@ -10,9 +10,9 @@ missions:
     startups:
       - pilotagevoiepro
   - start: 2025-10-06
-    end: 2026-09-30
+    end: 2026-12-15
     status: independent
-    employer: La Zone
+    employer: Malt
     startups:
       - tacct
 memberType: beta
@@ -21,5 +21,6 @@ competences:
   - Facilitation
   - Product design
   - UX
+  - service design
 ---
-Slow-food, slow-travel, BD et littérature, podcasts en aléatoire, tiramisù, illustration jeunesse, jardinage du dimanche, cyclisme du samedi
+podcasts en aléatoire, tiramisù, illustration jeunesse, jardinage du dimanche, cyclisme du samedi

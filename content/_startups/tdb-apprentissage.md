@@ -36,6 +36,7 @@ thematiques:
   - Formation
   - Travail / Emploi
 techno: []
+impact_url: https://docs.numerique.gouv.fr/docs/9f270fdc-dd8c-4200-8c7f-f5a73170a6db/
 ---
 **Le tableau de bord de l'apprentissage a été incubé au sein de la mission interministérielle pour l’apprentissage de 2020 à 2024.**
 

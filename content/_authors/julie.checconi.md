@@ -10,6 +10,13 @@ missions:
     employer: Ademe
     startups:
       - plusfraichemaville
+  - start: 2026-06-15
+    end: 2026-09-30
+    status: independent
+    employer: INOPS
+    startups:
+      - dora
+      - les-emplois
 memberType: beta
 competences: []
 ---

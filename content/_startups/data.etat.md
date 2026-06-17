@@ -46,7 +46,7 @@ stats_url: https://superset.dataregion.fr/superset/dashboard/3d080144-845a-4a34-
 dashlord_url: https://dashlord.incubateur.net/url/budget-databretagne-fr/
 events:
   - name: other
-    date: 2024-05-28
+    date: 2026-06-08
     comment: Homologation ANSII pour 2 ans
 impact_url: https://docs.numerique.gouv.fr/docs/2db48083-d675-4df9-9021-25bdcb6dfbac/
 ---

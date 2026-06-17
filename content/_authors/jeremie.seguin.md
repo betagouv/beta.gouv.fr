@@ -5,7 +5,7 @@ domaine: Déploiement
 github: JeremieSeguin
 missions:
   - start: 2022-12-01
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: Telescoop
     startups:

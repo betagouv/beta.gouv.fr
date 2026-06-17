@@ -43,7 +43,7 @@ thematiques:
 techno:
   - typescript
   - next.js
-impact_url: https://labonnealternance.apprentissage.beta.gouv.fr/statistiques
+impact_url: https://docs.numerique.gouv.fr/docs/e996c130-608e-4ca3-a5ca-2bb95989d629/
 analyse_risques: true
 budget_url: https://grist.numerique.gouv.fr/o/docs/h7xXmXegXiZB/Budget-La-bonne-alternance
 ---

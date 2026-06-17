@@ -23,9 +23,9 @@ missions:
     startups:
       - equipements-bio
   - start: 2025-05-26
-    end: 2026-07-10
+    end: 2026-12-11
     status: independent
-    employer: Solstice
+    employer: Solstice, Malt, OCTO (Crème de la Crème)
     startups:
       - seves
 competences:

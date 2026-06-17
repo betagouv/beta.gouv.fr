@@ -17,9 +17,10 @@ competences:
   - JavaScript/TypeScript
 missions:
   - start: 2023-08-12
-    end: 2026-07-31
+    end: 2026-09-16
     status: independent
     employer: FabNum-MI      DTNUM SDID
     startups:
       - basegun
+github: thomashbrnrd
 ---

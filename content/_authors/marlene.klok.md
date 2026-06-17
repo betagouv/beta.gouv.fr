@@ -5,7 +5,7 @@ domaine: Design
 github: marleneklok
 missions:
   - start: 2024-03-06
-    end: 2026-06-16
+    end: 2026-10-31
     status: service
     employer: Scopopop
     startups:

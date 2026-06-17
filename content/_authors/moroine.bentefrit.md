@@ -1,7 +1,7 @@
 ---
 fullname: Moroine Bentefrit
 domaine: Développement
-role: Lead Technique
+role: DevSecOps
 github: moroine
 missions:
   - start: 2023-06-05
@@ -17,6 +17,14 @@ missions:
     end: 2026-06-18
     status: independent
     employer: UT7
+    startups:
+      - api-and-communs-numeriques-de-la-cour-de-cassation
+      - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne
+      - portail-greffe-de-la-cour-de-cassation
+  - start: 2026-05-01
+    end: 2026-12-15
+    status: independent
+    employer: Creme de la Creme
     startups:
       - api-and-communs-numeriques-de-la-cour-de-cassation
       - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne

@@ -52,7 +52,7 @@ competences:
   - No-code / automation ecosystems
 missions:
   - start: 2026-06-01
-    end: 2026-08-31
+    end: 2026-11-28
     status: independent
     employer: COBER
     startups:

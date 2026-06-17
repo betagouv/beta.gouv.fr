@@ -5,7 +5,7 @@ domaine: Design
 github: evaspa
 missions:
   - start: 2023-08-29
-    end: 2026-07-01
+    end: 2026-10-01
     status: independent
     employer: Pathtech
     startups:

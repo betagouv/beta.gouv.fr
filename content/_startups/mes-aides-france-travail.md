@@ -18,6 +18,8 @@ phases:
   - name: acceleration
     start: 2022-10-03
     end: 2025-01-01
+  - name: consolidation
+    start: 2024-01-01
 accessibility_status: non conforme
 thematiques:
   - Travail / Emploi
