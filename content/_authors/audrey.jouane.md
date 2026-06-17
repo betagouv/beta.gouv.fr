@@ -9,10 +9,9 @@ competences:
 missions:
   - start: 2026-06-12
     end: 2026-09-30
-    employer: DINUM
     status: independent
+    employer: DINUM
     startups:
       - dossierfacile
-teams: []
 ---
 Gestionnaire administrative indépendante, spécialisée dans le contrôle documentaire, le traitement de dossiers et le suivi administratif. Expérience en vérification de données, contrôle qualité et relation usagers.

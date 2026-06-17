@@ -9,7 +9,7 @@ competences:
   - UI
 missions:
   - start: 2026-03-02
-    end: 2026-06-30
+    end: 2026-10-31
     status: service
     employer: DJEPVA
     startups:
