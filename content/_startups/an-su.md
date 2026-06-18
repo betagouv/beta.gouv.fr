@@ -10,7 +10,7 @@ usertypes:
 techno: []
 title: AnSu
 mission: Conception de séquences pédagogiques en classe impliquant l'IA générative pour les professeurs et les élèves
-incubator: menj
+incubator: MEN
 sponsors:
   - /organisations/direction-du-numerique-pour-l-education
 phases:

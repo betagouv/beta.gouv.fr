@@ -3,7 +3,7 @@ title: Compte Ressources
 mission: Faciliter l'achat de ressources éducatives par le corps enseignant
 sponsors:
   - /organisations/menjs
-incubator: menj
+incubator: MEN
 contact: caroline.guedan@education.gouv.fr
 accessibility_status: partiellement conforme
 phases:

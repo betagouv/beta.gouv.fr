@@ -6,7 +6,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2026-03-02
-    end: 2026-07-02
+    end: 2026-07-31
     status: admin
     employer: Ministère de la transition écologique
 ---

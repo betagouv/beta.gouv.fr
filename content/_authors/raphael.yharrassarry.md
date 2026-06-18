@@ -13,19 +13,19 @@ missions:
     startups:
       - kelrisks
   - start: 2019-12-15
-    end: 2026-09-30
+    end: 2026-11-30
     status: independent
     employer: Malt
     startups:
       - trackdechets
   - start: 2024-08-05
-    end: 2026-09-30
+    end: 2026-12-17
     status: independent
     employer: Opteamis
     startups:
       - codedutravail
   - start: 2026-04-08
-    end: 2026-07-08
+    end: 2026-12-17
     status: independent
     employer: Cober
     startups:

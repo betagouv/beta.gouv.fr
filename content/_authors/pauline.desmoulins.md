@@ -4,7 +4,7 @@ role: Bizdev
 domaine: Déploiement
 missions:
   - start: 2023-10-30
-    end: 2025-12-30
+    end: 2026-09-30
     status: independent
     startups:
       - place-de-marche-inclusion

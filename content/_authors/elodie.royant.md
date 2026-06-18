@@ -21,9 +21,9 @@ missions:
     startups:
       - aidantsconnect
   - start: 2025-09-03
-    end: 2026-06-17
+    end: 2026-10-31
     status: independent
-    employer: Omnicity
+    employer: Doctapost
     startups:
       - csplab
 ---

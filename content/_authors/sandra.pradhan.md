@@ -7,7 +7,7 @@ competences:
   - Support utilisateurs
 missions:
   - start: 2025-06-17
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: PathTech
     startups:

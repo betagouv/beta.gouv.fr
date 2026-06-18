@@ -2,7 +2,7 @@
 analyse_risques: false
 mon_service_securise: false
 contact: isabelle.le-blond@agriculture.gouv.fr
-link: https://agreste.agriculture.gouv.fr/
+link: https://agreste.beta.gouv.fr/
 title: Agreste
 mission: Alimenter efficacement le débat public avec des données statistiques objectives et fiables et des analyses prospectivistes
 incubator: agriculture
@@ -11,9 +11,18 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-07-01
+  - name: construction
+    start: 2026-03-01
 events:
   - name: product_launch
     date: 2025-08-25
+repository: https://github.com/betagouv/agreste
+thematiques:
+  - Agriculture
+usertypes: []
+techno:
+  - python
+  - django
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

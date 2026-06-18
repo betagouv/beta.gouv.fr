@@ -3,7 +3,7 @@ title: Mon stage de 3e
 mission: Permettre aux élèves de 3e d'accéder à des stages pertinents pour combattre les déterminismes sociaux
 sponsors:
   - /organisations/menjs
-incubator: menj
+incubator: MEN
 phases:
   - name: construction
     start: 2018-12-01
@@ -27,7 +27,7 @@ thematiques:
   - Education
 techno: []
 events:
-  - name: end
+  - name: other
     date: 2025-01-01
     comment: 'Suite à la reprise du produit par l''incubateur de l''Éducation nationale et pour répondre à la commande politique de bénéficier d''une plateforme nationale pour l''ensemble des stages de 3ème et seconde, le produit a pivoté pour devenir 1 élève 1 stage (se rapporter à cette nouvelle fiche produit). '
 ---
