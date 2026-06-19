@@ -1,7 +1,7 @@
 ---
 fullname: Joe Achkar
 role: Responsable des Opérations
-domaine: Déploiement
+domaine: Coaching
 github: JoeACHKAR
 link: https://www.linkedin.com/in/joeachkar/
 missions:
@@ -15,7 +15,7 @@ missions:
   - start: 2020-05-18
     end: 2026-09-30
     status: independent
-    employer: Malt - Octo Technology
+    employer: Malt - Theodo
     startups:
       - jeveuxaider
 competences:

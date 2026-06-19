@@ -7,8 +7,6 @@ competences:
 missions:
   - start: 2026-06-17
     end: 2026-12-31
-    employer: La Fabrique numérique
     status: admin
-    startups: []
-teams: []
+    employer: La Fabrique numérique
 ---

@@ -5,7 +5,7 @@ domaine: Développement
 github: kornifex
 missions:
   - start: 2022-05-03
-    end: 2026-06-30
+    end: 2026-10-31
     status: independent
     employer: Malt
     startups:

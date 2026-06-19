@@ -22,6 +22,8 @@ phases:
     start: 2021-11-19
   - name: acceleration
     start: 2023-05-25
+  - name: transfere
+    start: 2026-07-17
 fast:
   promotion: 12
   montant: 210000
@@ -40,6 +42,7 @@ techno:
   - react
   - django
 mon_service_securise: true
+impact_url: https://docs.numerique.gouv.fr/docs/73723582-db37-4b2c-87cd-77792ab96e27/
 ---
 ## Contexte
 
