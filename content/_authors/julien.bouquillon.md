@@ -18,7 +18,7 @@ missions:
       - maraudes
       - workinfrance
   - start: 2023-12-28
-    end: 2027-12-28
+    end: 2027-12-27
     status: admin
     employer: DINUM
   - start: 2026-03-04

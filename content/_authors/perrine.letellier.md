@@ -5,7 +5,7 @@ domaine: Développement
 github: pletelli
 missions:
   - start: 2023-11-14
-    end: 2026-07-01
+    end: 2026-06-22
     status: independent
     employer: Octo-Malt
     startups:

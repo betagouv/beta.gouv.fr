@@ -40,6 +40,7 @@ events:
   - name: committee
     date: 2025-07-16
     comment: construction
+impact_url: https://pitchou.beta.gouv.fr/stats
 ---
 ## Contexte
 
@@ -70,3 +71,8 @@ Avant d'inciter les instructeurs à réaliser plus de contrôles, il est indispe
 - A terme, de nombreuses fonctionnalités sont envisagées afin de faciliter davantage la gestion de la procédure.
 
 Dès lors que le produit sera adopté par les services instructeurs, car leur apportant suffisamment de valeur au quotidien, l'objectif sera qu'il facilite aussi l'organisation, la planification et le suivi des contrôles.
+
+## Impact
+
+Pitchou vise à avoir un réel impact sur la biodiversité. Cet impact se mesure grâce à la surface d'habitat et à la population d'une espèce. À ce niveau, on mesure le nombre d'utilisateurices ayant fait au moins un contrôle qui produit un retour à la conformité.
+La page statistiques et mesure d'impact de Pitchou : https://pitchou.beta.gouv.fr/stats

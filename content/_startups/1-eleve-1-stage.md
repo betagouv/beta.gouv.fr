@@ -17,7 +17,7 @@ techno:
   - ruby on rails
 title: 1 élève, 1 stage
 mission: Aider les collégiens et lycéens à trouver un stage près de chez eux pour découvrir le monde professionnel, sans déterminisme social.
-incubator: menj
+incubator: MEN
 sponsors:
   - /organisations/bruno-chiocchia
 phases:

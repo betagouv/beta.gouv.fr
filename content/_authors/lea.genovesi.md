@@ -5,7 +5,7 @@ domaine: Coaching
 github: leageno
 missions:
   - start: 2022-06-29
-    end: 2026-07-28
+    end: 2026-12-11
     status: independent
     employer: NUMA
     startups:
