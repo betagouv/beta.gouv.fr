@@ -4,6 +4,7 @@ contact: incubateur-contact@education.gouv.fr
 github: https://gitlab.mim-libre.fr/incubateur
 title: 'L''incubateur de l''Éducation nationale '
 website: https://incubateur.education.gouv.fr/
+logo: logo_MEN.png
 highlighted_startups:
   - an-su
   - 1-eleve-1-stage
