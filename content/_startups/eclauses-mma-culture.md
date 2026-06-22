@@ -26,6 +26,7 @@ events:
     date: 2025-04-23
     comment: Validation du passage en construction
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4#a1.s29.r22.c2
+impact_url: https://eclauses.beta.gouv.fr/ dans le footer consulter le lien vers la page "statistiques"
 link: ''
 ---
 
