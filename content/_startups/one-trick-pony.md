@@ -34,6 +34,7 @@ events:
 repository: https://github.com/betagouv/OTP-DS-to-Grist
 impact_url: https://docs.numerique.gouv.fr/docs/e092692a-3694-4987-9d74-92003bdde3f5/?utm_source=docssharelink&utm_campaign=e092692a-3694-4987-9d74-92003bdde3f5
 link: https://one-trick-pony.beta.gouv.fr/
+stats_url: https://metabase-otp.osc-fr1.scalingo.io/public/dashboard/d6cf793f-498d-41c1-99e9-f5efec43d4c0
 ---
 ## Contexte
 

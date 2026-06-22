@@ -46,6 +46,7 @@ techno:
   - tailwindcss
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#R%C3%A9fugi%C3%A9sinfo
 impact_url: https://docs.numerique.gouv.fr/docs/a22e78b0-5d1b-4b0a-9c7f-94ec6282c9da/
+contact_dinum: thibault.desjardins
 ---
 ## Contexte et enjeu de politique publique
 
