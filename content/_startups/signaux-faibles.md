@@ -17,7 +17,7 @@ phases:
   - name: consolidation
     start: 2019-04-01
   - name: acceleration
-    start: 2020-03-01
+    start: 2025-06-22
 usertypes:
   - etat
 repository: https://github.com/signaux-faibles
@@ -26,7 +26,16 @@ stats_url: https://stats.signaux-faibles.beta.gouv.fr
 contact: contact@signaux-faibles.beta.gouv.fr
 thematiques:
   - Entreprises
-techno: []
+techno:
+  - ruby
+  - terraform
+  - ansible
+  - docker
+  - go
+contact_dinum: magali.marcel
+events:
+  - name: product_launch
+    date: 2017-01-01
 link: ''
 ---
 > Être proactif dans la prévention et l'accompagnement des entreprises en difficulté. 
@@ -48,9 +57,6 @@ Toutefois, lorsque surgit la crise économique et sociale découlant de la pand�
 Le modèle devient, dans le même temps, inadéquat car les règles de l'algorithme de détection reposent sur des données issues d'une période hors-crise. Le recours à l'activité partielle n'est désormais plus un signal faible annonçant un risque de défaillance, il est alors la norme pour la majorité du tissu économique. 
 Le travail de l'équipe se réoriente donc vers le besoin des utilisateurs : disposer d'un outil de suivi et de reporting des entreprises accompagnées. Le produit « Signaux Faibles » se diversifie avec la mise en place du Kanban de suivi, ouvert uniquement aux CRP (Commissaires à la prévention et la restructuration des entreprises en difficulté). 
 
-Dans la période post-crise, les agents ont désormais besoin d'avoir l'information la plus précise pour surveiller l'évolution des entreprises fragilisées par la crise ou ses répliques. Un travail de collecte et de mise en qualité des données financières publiques a été réalisé en 2023. Les agents bénéficient ainsi d'une vue sur l'évolution financière des entreprises et leur positionnement par rapport à leur secteur d'activité. 
+## Signaux Faibles aujourd'hui 
 
-## L'impact : définir les métriques et analyser les résultats
-
-Comme toute Start-up d'État, « Signaux Faibles » a pour enjeu principal de mesurer son impact et de se doter d'outils fiables en minimisant les biais éventuels. 
-Actuellement, une nouvelle évolution visant à répondre au besoin de circulation de l'information collectée par les agents eux-mêmes est en cours. Elle pourrait également permettre de mesurer le nombre d'entreprises accompagnées et les dispositifs activés. 
+Depuis juin 2025, l'outil de suivi des entreprises accompagnées est désormais partagé par l'ensemble des administrations partenaires. Au premier semestre 2026, près de 700 accompagnements d'entreprises ont été initiés.
