@@ -14,10 +14,5 @@ missions:
     employer: Little Big Connexion
     startups:
       - pitchou
-  - start: 2026-04-13
-    end: 2026-09-20
-    status: independent
-    employer: Malt
-    startups:
-      - base-de-donnees-plan-d-appro-biomasse
+github: clemencefrz
 ---

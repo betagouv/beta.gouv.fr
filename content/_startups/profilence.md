@@ -13,7 +13,7 @@ phases:
   - name: investigation
     start: 2025-01-22
   - name: construction
-    start: 2025-09-16
+    start: 2025-05-19
 events:
   - name: product_launch
     date: 2025-01-22
@@ -22,10 +22,15 @@ events:
     comment: 'de fin d''investigation // ✅ GO pour l''expérimentation '
   - name: committee
     date: 2025-09-16
-    comment: ✅ Go pour la construction
+    comment: |-
+      ✅ Transfert de la partie "Promotion de Profil" à une direction métier
+      ✅ Expérimentation complémentaire du vivier
   - name: committee
     date: 2026-01-30
-    comment: Point d'étape pour poursuivre les travaux
+    comment: Point d'étape pour poursuivre les travaux suite au changement de responsable de l'Incubateur
+  - name: committee
+    date: 2026-04-08
+    comment: ✅ GO pour la construction du vivier
 usertypes:
   - entreprise
   - particulier
@@ -36,6 +41,8 @@ techno:
 link: https://profilence.beta.francetravail.fr
 accessibility_status: partiellement conforme
 stats_url: https://profilence.beta.francetravail.fr/statistiques
+contact_dinum: thibault.desjardins
+contact_incubator: chloe.sangaria
 ---
 ## 🚀 Contexte
 
@@ -200,48 +207,65 @@ Mais le vrai enseignement est ailleurs.
 
 ---
 
-# 🧱 Prochaine étape
+## 🧱 Et maintenant ?
 
-On arrive maintenant à un moment clé du projet.
+Le dernier comité d’investissement a validé la poursuite de l’aventure.
 
-📅 **Début avril : comité d’investissement**
+Une étape importante pour Profilence, qui va désormais se concrétiser dans les outils du SI de France Travail.
 
-Objectif : valider le passage en phase de construction dans le SI.
+## 🚀 De l’expérimentation à l’industrialisation
 
-## Ce que nous allons construire
+Ce qui était jusqu’ici un produit incubé va donner naissance à deux solutions complémentaires directement intégrées au SI.
 
-Le produit s’articule autour de deux briques complémentaires.
+### 1. Une nouvelle promotion de profil connectée au SI
+*(Pilotée par la direction Métier FT.Pro avec l'appui de Guillaume, Intrapreneur)*
 
-### 1. Une promotion de profil simple et traçable (reprise par la direction métier FT.pro)
+📅 Livraison prévue : octobre 2026
 
-- un point d’entrée unique  
-- un suivi des actions  
-- une visibilité sur les résultats  
+Cette nouvelle version permettra :
 
-### 2. Un vivier activable (développé par l'Incubateur)
+- Un point d’entrée unique pour les conseillers
+- Un suivi simplifié des promotions réalisées
+- Une meilleure traçabilité des actions
+- Une visibilité renforcée sur les résultats obtenus
 
-- des profils immédiatement mobilisables  
-- une vision partagée entre acteurs  
-- une activation rapide auprès des entreprises  
+Elle sera déployée auprès de l’ensemble des agences France Travail ainsi qu’au sein du réseau Cap emploi.
 
-👉 L’ambition est claire :
+### 2. Un vivier de profils recommandés
+*(Développé par l’Incubateur)*
 
-**passer d’une pratique artisanale… à un outil structurant à l’échelle du réseau.**
+📅 Déploiement progressif à partir de l’automne 2026
 
----
+Connecté au futur portail "SOPHIE" des conseillers de France Travail, ce vivier permettra :
 
-# 🎯 Ambition
+- D’identifier rapidement des profils immédiatement employables
+- De partager ces profils entre les acteurs d’un même territoire
+- De faciliter leur mobilisation auprès des entreprises
+- De renforcer les actions d’intermédiation et d’anticipation des recrutements
 
-À terme, Profilence doit permettre quelque chose de très concret :
+## 🎯 Notre conviction
 
-- ne plus laisser des profils invisibles  
-- aller plus vite dans la mise en relation  
-- mieux répondre aux besoins des entreprises  
+Les conseillers réalisent déjà chaque jour un travail considérable pour rapprocher candidats et entreprises.
 
-Mais surtout :
+Profilence n’a jamais eu vocation à inventer une nouvelle pratique.
 
-**redonner de la visibilité à un travail qui existe déjà sur le terrain.**
+Son objectif est plus simple :
+
+- Rendre visible ce qui fonctionne déjà
+- Faciliter la coopération entre acteurs
+- Donner plus de portée aux actions d’intermédiation
+- Permettre à davantage de demandeurs d’emploi d’accéder aux opportunités du marché caché
 
 Parce qu’au fond, le sujet n’est pas de créer quelque chose de nouveau.
 
-C’est de **révéler, structurer et amplifier ce qui fonctionne déjà.**
+C’est de révéler, structurer et amplifier ce qui fonctionne déjà sur le terrain.
+
+## 🚶‍♂️ D’un produit à deux solutions nationales
+
+En quelques mois, Profilence est passé :
+
+- D’une expérimentation menée avec des conseillers de terrain
+- À une validation en comité d’investissement
+- Puis à l’intégration de ses enseignements dans deux produits connectés au SI
+
+👉 Entre un produit incubé et deux produits intégrés au SI, il n’y avait qu’un pas : **Profilence**.

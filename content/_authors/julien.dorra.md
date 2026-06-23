@@ -21,7 +21,7 @@ missions:
     status: independent
     employer: 'Omnicité '
   - start: 2026-02-14
-    end: 2026-05-26
+    end: 2026-11-30
     status: independent
     employer: 'Omnicité '
     startups:
