@@ -10,16 +10,18 @@ mission: Aider les demandeurs d'emploi entrepreneurs à sortir de leur isolement
 incubator: francetravail
 phases:
   - name: investigation
-    start: 2025-01-30
-  - name: abandon-investigation
-    start: 2025-11-01
+    start: 2026-05-20
 events:
   - name: committee
     date: 2025-10-14
     comment: Passage en expérimentation
+  - name: committee
+    date: 2026-05-20
 usertypes:
   - Entrepreneurs inscrits à France Travail
 techno: []
+contact_dinum: thibault.desjardins
+contact_incubator: chloe.sangaria
 link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 

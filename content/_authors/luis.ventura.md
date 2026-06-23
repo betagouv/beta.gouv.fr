@@ -17,6 +17,12 @@ missions:
     employer: Scopopop
     startups:
       - preuve-de-covoiturage
+  - start: 2026-06-22
+    end: 2026-12-22
+    status: independent
+    employer: Malt
+    startups:
+      - quefairedemesobjetsetdechets
 competences:
   - Data Science
   - Ingénierie des Données
