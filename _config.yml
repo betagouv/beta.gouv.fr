@@ -50,7 +50,9 @@ exclude: [
   "Procfile",
   "package.json",
   "package-lock.json",
-  "spec"
+  "spec",
+  "Dockerfile",
+  "Rakefile"
 ]
 
 empty_placeholder: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
