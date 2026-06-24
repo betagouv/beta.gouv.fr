@@ -6,8 +6,6 @@ competences: []
 missions:
   - start: 2026-06-23
     end: 2026-12-23
-    employer: DOCAPOSTE LA MANUFACTURE
     status: service
-    startups: []
-teams: []
+    employer: DOCAPOSTE LA MANUFACTURE
 ---

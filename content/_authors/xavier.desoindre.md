@@ -12,7 +12,7 @@ missions:
     startups:
       - impact.co2
   - start: 2025-06-01
-    end: 2026-06-30
+    end: 2026-12-01
     status: independent
     employer: Pathtech
     startups:

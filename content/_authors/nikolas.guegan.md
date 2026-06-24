@@ -14,4 +14,10 @@ missions:
     employer: LittleBigConnection
     startups:
       - deveco
+  - start: 2026-06-24
+    end: 2026-09-24
+    status: independent
+    employer: LittleBigConnection
+    startups:
+      - potentiel
 ---

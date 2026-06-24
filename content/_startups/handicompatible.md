@@ -36,6 +36,9 @@ usertypes:
   - conseiller en insertion professionnel
 techno:
   - IA
+impact_url: https://docs.numerique.gouv.fr/docs/d4ff27c7-920c-422c-8212-2806f075de5a/
+contact_dinum: thibault.desjardins
+contact_incubator: chloe.sangaria
 link: ''
 ---
 ## **👨🏼‍🦯‍➡️Contexte général**

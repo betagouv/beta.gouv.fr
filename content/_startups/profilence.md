@@ -14,6 +14,8 @@ phases:
     start: 2025-01-22
   - name: construction
     start: 2025-05-19
+  - name: acceleration
+    start: 2026-04-08
 events:
   - name: product_launch
     date: 2025-01-22
@@ -28,7 +30,7 @@ events:
     comment: Point d'étape pour poursuivre les travaux suite au changement de responsable de l'Incubateur
   - name: committee
     date: 2026-04-08
-    comment: ✅ GO pour la construction du vivier
+    comment: ✅ GO pour l'accélération du vivier (déploiement)
 usertypes:
   - entreprise
   - particulier
@@ -38,9 +40,10 @@ techno:
   - webflow
 link: https://profilence.beta.francetravail.fr
 accessibility_status: partiellement conforme
-stats_url: https://profilence.beta.francetravail.fr/statistiques
+stats_url: https://n8n.beta.francetravail.fr/webhook/profilence-public
 contact_dinum: thibault.desjardins
 contact_incubator: chloe.sangaria
+impact_url: https://docs.numerique.gouv.fr/docs/c7718d0e-4bc5-4712-8e6b-df8b7e899413/
 ---
 ## 🚀 Contexte
 

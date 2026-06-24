@@ -6,7 +6,7 @@ github: ccomb
 link: https://www.gorfou.fr
 missions:
   - start: 2023-01-01
-    end: 2026-06-30
+    end: 2026-12-24
     status: independent
     employer: Pathtech
     startups:
