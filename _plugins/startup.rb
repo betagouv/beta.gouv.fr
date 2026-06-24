@@ -12,6 +12,8 @@ module Jekyll
         type, name = 'new', 'Lauréat FAST'
       when 'national_impact'
         type, name = 'success', 'Service à impact national'
+      when 'eig'
+        type, name = 'info', 'Lauréat EIG'
       else
         return
       end

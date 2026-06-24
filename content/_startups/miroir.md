@@ -18,17 +18,13 @@ sponsors:
   - /organisations/mediatheque-du-patrimoine-et-de-la-photographie
 phases:
   - name: investigation
-    comment: null
     start: 2026-02-01
-    end: null
   - name: construction
-    comment: null
     start: 2028-06-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-06-19
+link: ''
 ---
 
 ## Contexte

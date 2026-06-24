@@ -13,17 +13,13 @@ sponsors:
   - /organisations/dgaln
 phases:
   - name: investigation
-    comment: null
     start: 2023-03-06
-    end: null
   - name: abandon-investigation
-    comment: null
     start: 2023-10-13
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2023-10-13
+link: ''
 ---
 ## Contexte
 

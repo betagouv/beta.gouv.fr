@@ -7,7 +7,7 @@ competences:
   - Administration Publique
 missions:
   - start: 2025-04-01
-    end: 2026-10-31
+    end: 2026-12-21
     status: independent
     employer: Malt - Octo Technology
     startups:

@@ -23,7 +23,7 @@ phases:
     start: 2025-04-21
   - name: construction
     start: 2025-07-01
-  - name: acceleration
+  - name: transfere
     start: 2026-03-04
 events:
   - name: product_launch
