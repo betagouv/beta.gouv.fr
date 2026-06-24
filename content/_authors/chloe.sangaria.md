@@ -8,6 +8,10 @@ missions:
     end: 2026-09-10
     status: service
     employer: Incubateur France Travail
+  - start: 2026-06-23
+    end: 2026-09-23
+    status: service
+    employer: Incubateur France Travail
 memberType: beta
 competences: []
 teams:

@@ -10,7 +10,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2024-09-30
-    end: 2026-06-02
+    end: 2026-10-31
     status: service
     employer: La Zone
     startups:

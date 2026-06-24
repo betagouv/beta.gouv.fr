@@ -47,7 +47,7 @@ events:
   - name: committee
     date: 2024-11-05
 mon_service_securise: true
-impact_url: https://www.territoiresentransitions.fr/stats
+impact_url: https://www.territoiresentransitions.fr/impact
 ---
 ## Contexte
 

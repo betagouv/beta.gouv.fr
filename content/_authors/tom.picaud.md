@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-01-19
     end: 2026-12-18
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - l-immersion-facile
-teams: []
 ---

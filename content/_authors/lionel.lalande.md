@@ -7,7 +7,7 @@ link: https://www.linkedin.com/in/lionellalande/
 competences: []
 missions:
   - start: 2025-07-28
-    end: 2026-09-05
+    end: 2026-11-30
     status: service
     employer: Omnicité
     startups:

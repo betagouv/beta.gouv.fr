@@ -32,6 +32,8 @@ phases:
     start: 2018-03-01
   - name: acceleration
     start: 2019-01-01
+  - name: consolidation
+    start: 2024-10-14
 fast:
   promotion: 13
   montant: 300000
