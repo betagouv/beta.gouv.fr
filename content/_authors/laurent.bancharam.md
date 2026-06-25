@@ -8,9 +8,7 @@ competences:
 missions:
   - start: 2026-06-23
     end: 2026-09-23
-    employer: 'Fabrique numérique '
     status: admin
-    startups: []
-teams: []
+    employer: 'Fabrique numérique '
 ---
 Je suis un Ingénieur de l'écologie ayant découvert le budget.

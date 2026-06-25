@@ -8,9 +8,8 @@ competences: []
 missions:
   - start: 2026-07-06
     end: 2026-10-08
-    employer: Octo
     status: independent
+    employer: Octo
     startups:
       - mes-services-cyber
-teams: []
 ---

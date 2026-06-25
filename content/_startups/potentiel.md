@@ -28,7 +28,7 @@ phases:
 accessibility_status: non conforme
 thematiques:
   - Écologie
-budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 techno:
   - typescript
   - next.js

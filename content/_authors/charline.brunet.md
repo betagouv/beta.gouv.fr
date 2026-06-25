@@ -1,12 +1,12 @@
 ---
 fullname: Charline Brunet
 role: Equipe finance opérationnelle
-domaine: Autre
+domaine: Attributaire
 competences:
   - Administration Publique
 missions:
-  - start: 2024-12-09
-    end: 2025-12-31
+  - start: 2026-06-09
+    end: 2026-12-09
     status: service
     employer: Malt
 ---

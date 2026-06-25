@@ -9,9 +9,8 @@ competences:
 missions:
   - start: 2026-06-17
     end: 2026-12-18
-    employer: La Manufacture (Docaposte) X COBER
     status: independent
+    employer: La Manufacture (Docaposte) X COBER
     startups:
       - zero-logement-vacant
-teams: []
 ---
