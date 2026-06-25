@@ -12,7 +12,7 @@ usertypes:
 techno:
   - python
   - django
-title: L'assistant IA
+title: L'Assistant
 mission: 'Mettre à disposition des agents publics des outils IA dans un environnement souverain et sécurisé '
 incubator: alliance
 sponsors:
@@ -22,16 +22,21 @@ phases:
     start: 2025-05-02
   - name: construction
     start: 2025-10-22
+  - name: acceleration
+    start: 2026-06-16
 events:
   - name: product_launch
     date: 2025-10-22
     comment: Lancement de la nouvelle plateforme en expérimentation fermée à 10 000 agents de 8 ministères
+  - name: other
+    date: 2026-06-16
+    comment: Annonce de la généralisation de L'Assistant aux administrations de l'État et ses organismes de tutelle.
 repository: https://github.com/suitenumerique/conversations#
 ---
-# Assistant IA
+# L'Assistant
 
 
-[Accéder à Assistant IA](https://assistant.numerique.gouv.fr)
+[Accéder à L'Assistant](https://assistant.numerique.gouv.fr)
 
 ## Le problème de départ
 
@@ -83,11 +88,11 @@ Plutôt que d'annuler les expérimentations en cours dans les autres ministères
 
 ## À propos
 
-**Assistant IA** est porté par la **direction interministérielle du numérique (DINUM)**.
+**L'Assistant** est porté par la **direction interministérielle du numérique (DINUM)**.
 
 Ce service numérique est sponsorisé par le **ministère de l'Action et des Comptes publics** (David Amiel) sous l'autorité du Premier ministre Sébastien Lecornu.
 
-[Contacter l'équipe](mailto:support-assistant@numerique.gouv.fr?subject=Assistant%20IA)
+[Contacter l'équipe](mailto:support-assistant@numerique.gouv.fr)
 
 ---
 
@@ -121,4 +126,4 @@ Tous les agents publics (2 millions) bénéficieront d'une offre claire : Assist
 
 
 
-*Dernière mise à jour : mai 2026*
+*Dernière mise à jour : juin 2026*

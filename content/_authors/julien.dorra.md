@@ -21,11 +21,15 @@ missions:
     status: independent
     employer: 'Omnicité '
   - start: 2026-02-14
-    end: 2026-11-30
+    end: 2026-06-25
     status: independent
     employer: 'Omnicité '
     startups:
       - mon-assistant-ia
+  - start: 2026-02-14
+    end: 2026-11-30
+    status: independent
+    employer: 'Omnicité '
 memberType: beta
 competences: []
 ---
