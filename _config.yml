@@ -50,7 +50,13 @@ exclude: [
   "Procfile",
   "package.json",
   "package-lock.json",
-  "spec"
+  "spec",
+  "Dockerfile",
+  "Rakefile",
+  "servers.conf.erb",
+  "redirects.json",
+  "LICENSE.CCBYNCSA.txt",
+  "biome.json"
 ]
 
 empty_placeholder: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
