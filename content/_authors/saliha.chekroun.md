@@ -10,6 +10,18 @@ missions:
     employer: DINUM
     startups:
       - le-taxi
+  - start: 2026-06-25
+    end: 2026-09-25
+    status: independent
+    employer: Docapost
+    startups:
+      - one-trick-pony
+  - start: 2026-06-25
+    end: 2026-09-25
+    status: independent
+    employer: Docapost
+    startups:
+      - one-trick-pony
 badges:
   - segur
 competences:

@@ -20,10 +20,11 @@ phases:
   - name: investigation
     start: 2026-02-01
   - name: construction
-    start: 2028-06-01
+    start: 2026-06-01
 events:
   - name: product_launch
     date: 2026-06-19
+techno: []
 link: ''
 ---
 
@@ -37,7 +38,7 @@ Ces missions sont actuellement menées par plusieurs dizaines de services (admin
 
 ## Solution
 
-Le projet Miroir se veutun outil mutualisé au sein du ministère, connecté à différents types de réservoirs d’images (publics puis privés), intégrant une technologie d'analyse d'image souveraine et sécurisée (indexation sémantique), permettant d'identifier un ou plusieurs biens culturels français et ainsi de faciliter les missions des services patrimoniaux. 
+Le projet Miroir se veut un outil mutualisé au sein du ministère, connecté à différents types de réservoirs d’images (publics puis privés), intégrant une technologie d'analyse d'image souveraine et sécurisée (indexation sémantique), permettant d'identifier un ou plusieurs biens culturels français et ainsi de faciliter les missions des services patrimoniaux. 
 
 ## Objectifs à 6 mois
 

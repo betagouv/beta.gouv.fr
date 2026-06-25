@@ -6,7 +6,7 @@ github: JeremyPinto
 link: https://codeconut.fr
 missions:
   - start: 2017-01-01
-    end: 2026-06-30
+    end: 2026-12-25
     status: independent
     employer: OCTO
     startups:

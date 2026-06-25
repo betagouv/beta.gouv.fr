@@ -9,4 +9,5 @@ missions:
     end: 2026-12-31
     status: admin
     employer: La Fabrique numérique
+link: https://www.linkedin.com/in/olivierdufourneaud/
 ---
