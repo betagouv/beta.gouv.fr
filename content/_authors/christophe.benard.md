@@ -14,5 +14,9 @@ incubator: mtes
 competences:
   - Administration Système
   - Développement Full-stack
+  - DevOps
+  - JavaScript/TypeScript
+  - PostgreSQL
+link: https://www.linkedin.com/in/christophe-benard-2078b4198
 ---
-Intégrateur au SNUM, développeur pour Résorption-Bidonvilles
+Intégrateur à la DNUM, développeur pour Résorption-Bidonvilles
