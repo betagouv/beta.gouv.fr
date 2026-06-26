@@ -4,20 +4,19 @@ usertypes:
   - particulier
   - association
   - etablissement-scolaire
-title: Portail nationale de l'édition accessible et adaptée
+title: Portail national de l'édition accessible et adaptée
 mission: ' Faciliter l’accès à la lecture pour les publics empêchés '
 incubator: culture
 contact_incubator: chloe.boutevin
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2026-07-01
-    end: null
 events:
   - name: other
-    comment: ''
     date: 2026-06-25
+thematiques: []
+techno: []
+link: ''
 ---
 
 
