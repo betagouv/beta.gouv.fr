@@ -16,7 +16,7 @@ missions:
     startups:
       - droit-data-gouv-fr-simulateurs-de-droits
   - start: 2025-12-15
-    end: 2026-06-27
+    end: 2026-12-28
     status: independent
     employer: Omnicité
     startups:
