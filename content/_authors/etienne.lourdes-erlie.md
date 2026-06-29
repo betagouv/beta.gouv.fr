@@ -6,8 +6,6 @@ competences: []
 missions:
   - start: 2026-06-25
     end: 2026-09-25
-    employer: DIRMMEMN
     status: admin
-    startups: []
-teams: []
+    employer: DIRMMEMN
 ---

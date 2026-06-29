@@ -12,6 +12,11 @@ usertypes:
   - association
 techno:
   - python
+  - QGis
+  - detection transformers
+  - Pytorch
+  - google colab
+  - Roboflow
 title: ArchéologIA
 mission: 'Assister la détection des sites archéologiques sur imagerie aérienne par intelligence artificielle. '
 incubator: culture
@@ -27,6 +32,7 @@ events:
     date: 2025-04-28
 repository: https://github.com/betagouv/archeologia-pipeline
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4#a1.s29.r23.c2
+contact_incubator: mathilde.bras
 link: ''
 ---
 
@@ -59,3 +65,30 @@ Les couvertures aériennes nationales constituent une opportunité à saisir pou
 * **Orienter des dynamiques de recherche** scientifique pour investiguer des sujets nouveaux et animer une communauté de chercheurs
 * **Affiner la sensibilité archéologique** par région pour adapter la politique d’archéologie préventive
 
+## Matrice d'impact
+
+| Matrice | Indicateur |
+| --- | --- |
+| **Utilisable** | - Présence du plugin sur le dépôt officiel et installable en 2 clics 
+| | - Flexibilité dans le pipeline de données 
+| | - Taux de contact support 
+| | - Système de notation/évaluation sur QGis |
+| | |
+| **Utilisé** | - Nombre de téléchargements sur le dépôt 
+| | - Nombre d'utilisations 
+| | - Surfaces réalisées (km²) 
+| | - Nombre de SRA utilisateurs/mois 
+| | - Taux de formation LiDAR |
+| | |
+| **Utile** | - Taux d'adoption du LiDAR par les archéologues (sur 300 archéo MC) 
+| | - Nombre d'entités (chercheurs, autres archéologues) ayant adopté le LiDAR |
+| | |
+| **Impactant** | - Taux d'augmentation des surfaces de recherche 
+| | - Nombre de structures supplémentaires repérées 
+| | - Nombre de sorties terrain 
+| | - Taux de patrimoine validé |
+| | |
+| **Efficient** | - Coût à l'utilisation : Budget /nombre d'utilisations ou Budget / surface réalisée 
+| | - Coût à l'utilité : Budget / temps gagné ou ETP 
+| | - Coût à l'impact : Budget / patrimoine ou inventaire validé 
+| | - Coût à l'impact : avant/après sur 1ETP pour X patrimoine validé |
