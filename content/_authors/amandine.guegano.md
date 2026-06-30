@@ -9,7 +9,7 @@ competences:
   - UX Research
 missions:
   - start: 2024-05-06
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: Malt
     startups:
@@ -33,13 +33,13 @@ missions:
     startups:
       - ca-se
   - start: 2025-07-01
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: Dynergie
     startups:
       - prest-agri
   - start: 2025-07-14
-    end: 2026-06-30
+    end: 2026-11-30
     status: independent
     employer: Malt
     startups:

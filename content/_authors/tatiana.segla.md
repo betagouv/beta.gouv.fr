@@ -10,6 +10,4 @@ missions:
     end: 2026-06-30
     status: admin
     employer: dinum
-teams:
-  - /teams/dinum-incubateur
 ---

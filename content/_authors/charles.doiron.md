@@ -12,7 +12,7 @@ missions:
     startups:
       - recosante
   - start: 2025-09-01
-    end: 2026-07-01
+    end: 2026-11-29
     status: independent
     employer: Anct
     startups:

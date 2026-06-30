@@ -30,6 +30,7 @@ budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriqu
 link: https://patrinotes.beta.gouv.fr/
 repository: https://github.com/betagouv/patrinotes
 stats_url: https://app.patrinotes.beta.gouv.fr/stats
+impact_url: https://docs.numerique.gouv.fr/docs/2fb6442b-395b-4693-82ea-68658ab2d0a1/
 ---
 ## Contexte
 

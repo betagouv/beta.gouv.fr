@@ -11,15 +11,15 @@ missions:
     startups:
       - acceslibre
   - start: 2024-06-20
-    end: 2026-07-30
+    end: 2026-09-30
     status: independent
-    employer: Little Big Connection
+    employer: LCDLC
     startups:
       - seves
   - start: 2026-04-15
-    end: 2026-07-15
+    end: 2026-09-30
     status: independent
-    employer: Inconnu
+    employer: MALT
     startups:
       - data-foncier
 memberType: beta

@@ -4,9 +4,9 @@ role: Lead développeur
 domaine: Développement
 missions:
   - start: 2024-01-29
-    end: 2026-06-30
+    end: 2026-12-22
     status: independent
-    employer: LBC
+    employer: COBER
     startups:
       - espace.sur.demande
 memberType: beta

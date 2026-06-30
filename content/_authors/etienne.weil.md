@@ -5,9 +5,9 @@ role: Développeur
 github: fitchMitch
 missions:
   - start: 2020-06-02
-    end: 2026-06-30
+    end: 2026-07-07
     status: independent
-    employer: Little Big Connection
+    employer: Crême de la crême
     startups:
       - 1-eleve-1-stage
       - monstage
