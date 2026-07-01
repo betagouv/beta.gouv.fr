@@ -5,7 +5,7 @@ domaine: Développement
 competences: []
 missions:
   - start: 2025-09-10
-    end: 2026-06-02
+    end: 2026-12-31
     status: service
     employer: Accenture
     startups:

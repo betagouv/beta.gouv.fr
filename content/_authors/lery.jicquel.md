@@ -1,7 +1,7 @@
 ---
 fullname: Léry Jicquel
-domaine: Animation
-role: Co-animateur
+domaine: Coaching
+role: Mentor produit
 github: LeryJ
 missions:
   - start: 2018-09-01
@@ -32,5 +32,6 @@ badges:
 competences:
   - Administration Publique
   - Gestion de Produit
+link: https://fr.linkedin.com/in/l%C3%A9ry-jicquel
 ---
 In Bike I Trust. Toujours en équipe!

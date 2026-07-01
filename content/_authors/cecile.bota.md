@@ -7,8 +7,5 @@ competences:
 missions:
   - start: 2026-06-23
     end: 2027-01-23
-    employer: ''
     status: admin
-    startups: []
-teams: []
 ---

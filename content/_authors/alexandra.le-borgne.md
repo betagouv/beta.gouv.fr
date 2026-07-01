@@ -5,14 +5,14 @@ domaine: Coaching
 github: Alexandra-LB
 missions:
   - start: 2021-04-23
-    end: 2026-08-31
+    end: 2026-12-31
     status: independent
     employer: NUMA
     startups:
       - fondation
       - mesads
       - otelo
-      - scienceinfuse
+      - preuve-de-covoiturage
 previously:
   - culturecheznous
 competences: []

@@ -15,7 +15,7 @@ missions:
     startups:
       - france.nation.verte.agir
   - start: 2026-03-12
-    end: 2026-09-12
+    end: 2026-12-31
     status: independent
     employer: LBC
     startups:

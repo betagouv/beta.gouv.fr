@@ -5,7 +5,7 @@ github: Un3x
 domaine: Développement
 missions:
   - start: 2023-02-20
-    end: 2026-06-01
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:
