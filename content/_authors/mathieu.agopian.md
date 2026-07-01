@@ -30,11 +30,17 @@ missions:
     startups:
       - data.gouv.fr
   - start: 2025-03-01
-    end: 2026-10-01
+    end: 2026-06-04
     status: independent
     employer: ut7 - la zone
     startups:
       - ami
+  - start: 2026-07-01
+    end: 2026-10-01
+    status: independent
+    employer: Groupe Scalian (Skills & Affinity)
+    startups:
+      - suite-numerique
 competences:
   - Développement Backend
   - Développement Frontend

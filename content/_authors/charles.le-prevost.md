@@ -13,7 +13,7 @@ missions:
   - start: 2025-03-31
     end: 2026-12-04
     status: independent
-    employer: Scopopop
+    employer: Malt
     startups:
       - aplus
 competences: []

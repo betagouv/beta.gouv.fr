@@ -6,8 +6,6 @@ competences: []
 missions:
   - start: 2026-06-23
     end: 2026-12-25
-    employer: Paris Habitat
     status: admin
-    startups: []
-teams: []
+    employer: Paris Habitat
 ---

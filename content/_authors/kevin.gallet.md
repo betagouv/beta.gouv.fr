@@ -18,7 +18,7 @@ competences:
   - UI
 missions:
   - start: 2024-09-17
-    end: 2026-06-30
+    end: 2026-12-31
     status: independent
     employer: Mtes
     startups:

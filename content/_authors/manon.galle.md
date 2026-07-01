@@ -1,9 +1,15 @@
 ---
 fullname: Manon Galle
-role: Intrapreneuse Suite inclusion numérique
+role: Chargée de projet numérique, intrapreneuse
 domaine: Intraprenariat
 github: manonGalle
 missions:
+  - start: 2023-11-01
+    end: 2026-07-01
+    status: admin
+    employer: ANCT
+    startups:
+      - suite.d.outils.des.mediateurs.numeriques
   - start: 2023-11-01
     end: 2026-10-31
     status: admin
@@ -11,7 +17,6 @@ missions:
     startups:
       - aplus
       - les.bases
-      - suite.d.outils.des.mediateurs.numeriques
 teams:
   - /teams/anct
 memberType: beta
