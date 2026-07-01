@@ -10,10 +10,16 @@ missions:
     startups:
       - dossierfacile
   - start: 2024-09-11
-    end: 2026-06-30
+    end: 2026-12-31
     status: independent
     employer: Administration+
     startups:
       - aplus
+  - start: 2026-01-01
+    end: 2026-09-30
+    status: independent
+    employer: La Suite Territoriale
+    startups:
+      - suite.territoriale
 competences: []
 ---

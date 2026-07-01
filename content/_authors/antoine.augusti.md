@@ -13,7 +13,7 @@ missions:
       - notifications-v1
       - transport
   - start: 2026-05-04
-    end: 2026-08-04
+    end: 2026-09-30
     status: independent
     employer: Crème de la Crème
     startups:

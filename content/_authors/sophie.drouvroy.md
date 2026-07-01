@@ -14,9 +14,9 @@ missions:
     startups:
       - pass-sport
   - start: 2024-11-14
-    end: 2026-06-29
+    end: 2026-11-30
     status: service
-    employer: Brigade d'intervention numérique
+    employer: Pôle Design et Accessibilité
     startups:
       - docs
       - droit-data-gouv-fr-simulateurs-de-droits

@@ -13,8 +13,6 @@ missions:
     end: 2026-06-30
     status: independent
     employer: Incubateur des territoires - ANCT
-teams:
-  - /teams/anct
 github: echaffraix
 ---
 Passionné par le développement depuis l'age de 15 ans, j'ai travaillé au sein de grand groupe avant de créer différentes startups.

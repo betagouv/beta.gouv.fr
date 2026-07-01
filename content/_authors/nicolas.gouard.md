@@ -6,7 +6,7 @@ link: https://nicolasgouard.com
 github: ngouard5
 missions:
   - start: 2023-12-11
-    end: 2026-10-31
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

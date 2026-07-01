@@ -41,8 +41,13 @@ events:
   - name: committee
     date: 2025-11-25
     comment: Chantiers engagés vers la pérennisation
+  - name: committee
+    date: 2026-06-18
+    comment: Finalisation de l'atterrissage, derniers chantiers d'automatisation, renforcement des moyens RH pour obtenir des données SCDL, investigation sur une fonctionnalité vue territoriale
 mon_service_securise: true
 techno: []
+impact_url: https://datasubvention.beta.gouv.fr/statistiques/
+contact_dinum: lucie.zaccardi
 ---
 ## La valeur de Data.Subvention
 
@@ -82,9 +87,7 @@ Data.Subvention est donc composée :
 
 - d’un portail qui présente ces données de façon simple aux agents publics inscrits sur https://app.datasubvention.beta.gouv.fr/ . 
 
-Si le portail était envisagé initialement comme une solution temporaire avant intégration de l’API dans des solutions tierces, il reste indispensable pour des administrations dépourvues de solution numérique.
-
-La mesure d'impact porte sur les économies générées par la part de données des subventions associatives repartagées aux agents.
+La mesure d'impact porte sur le taux de repartage des données de subventions sur la plateforme et l'API.
 
 ## Les étapes de développement
 
@@ -96,18 +99,15 @@ Data‧Subvention est progressivement déployé au plan national et territorial,
 - Juillet 2023 : mise dispo de l'open Data sur GITHUB
 - Septembre 23 à février 24 : passage réussi à l'échelle nationale, avec le soutien du FAST (Fonds d’Accélération des Startups d’État).
 - Mai 2024 : lauréats du FTAP DATA 
+- Mars 2026 : consolidation et préparation de l'atterrissage au sein de la MSN (Mission des services numériques) de la DJEPVA
 
 
 ## Solution en Consolidation
 
-Il ne pourra y avoir de partage public des données des subventions versées aux associations, sans achèvement de la complétude : récolter et repartager l’ensemble des versements de l’Etat a constitué une grande avancée, mais y adjoindre les données des collectivités et des opérateurs est indispensable pour donner une vision complète.
+Lors du comité du 18 juin 2026, il a été décidé de concentrer nos efforts sur trois axes principaux : exhaustivité, fidélisation, atterrissage.
 
-L'absence de complétude constitue un risque de défiance des citoyens envers la donnée (C’est pas complet = c’est faux).
+1. Exhaustivité : C'est d'abord poursuivre nos travaux pour améliorer le taux de repartage des données, en concentrant nos efforts sur les données des collectivités territoriales et des opérateurs, le périmètre État étant déjà repartagé à 100%.
 
-Nous nous concentrons donc dans cette nouvelle phase au défi de la complétude des données : exhaustivité, intelligibilité et circulation accrue.
+2. Fidélisation : Fidèles à la méthode Produit, nous avons réinterrogé nos utilisateurs (méthode quanti et quali) et avons fait le constat que le moteur de recherche actuel devait être perfectionné. Nous menons également une investigation autour d'une fonctionnalité très attendue, la vue par territoire des subventions.
 
-1. Exhaustivité : C'est d'abord rendre accessibles les données actuelles aux collectivités ou aux opérateurs et intégrer les leurs. C'est aussi développer de nouvelles fonctionnalités adaptées à de nouveaux profils métiers (pilotes / Contrôleurs) en plus des instructeurs.
-
-2. Intelligibilité : rendre notre référentiel de données facile à comprendre et utiliser pour nos fournisseurs et consommateurs,  en lien étroit avec Data.Gouv.
-
-3. Circulation accrue : garantir une donnée la plus fraîche possible pour un réemploi performant par des tiers (Data.Budget.Etat ; Annuaire des Entreprises, Démarches Simplifiées, les divers logiciels de gestion des ministères Subventia, Osiris, Fonjep ...) ou par nous (Portail).
+3. Atterrissage : L'objectif est de permettre à Data.Subvention de maintenir des données à jour, avec le moins d'intervention possible en vue de l'atterrissage. Dans ce but, nous développons une API pour remonter les données issues de différents fournisseurs : Chorus, Osiris et Fonjep. Un parcours de dépôt a également été développé pour autonomiser les collectivités territoriales dans leur intégration des données. 

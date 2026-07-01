@@ -30,9 +30,9 @@ missions:
     startups:
       - monprojetsup
   - start: 2025-04-01
-    end: 2026-06-30
+    end: 2026-12-31
     status: independent
-    employer: ut/7
+    employer: ut/7 - MALT
     startups:
       - tdb-apprentissage
 badges:
@@ -42,6 +42,8 @@ competences:
   - Data Science
   - Machine learning
   - Python
+  - LLM
+  - Agent IA
 github: huynhdoo
 ---
 Expert du machine learning et de la data-science, je modélise, explicite et intègre toutes solutions à partir de vos données métiers afin de vous faire gagner le temps utile pour ceux et celles qui comptent vraiment.

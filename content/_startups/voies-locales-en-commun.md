@@ -22,7 +22,7 @@ events:
     comment: https://docs.numerique.gouv.fr/docs/53f0faa3-3357-4a2a-90b6-2d3c55be7bd3/
 redirect_from:
   - /startups/chemins-en-commun
-link: ''
+link: https://www.voies-locales.beta.gouv.fr/
 ---
 ## Contexte
 

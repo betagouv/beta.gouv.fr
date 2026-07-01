@@ -4,9 +4,9 @@ fullname: Philippe Thomy
 role: Data
 missions:
   - start: 2024-07-01
-    end: 2026-07-30
+    end: 2026-12-30
     status: independent
-    employer: Malt
+    employer: Docaposte
     startups:
       - qualicharge
 link: https://www.linkedin.com/in/philippe-thomy/

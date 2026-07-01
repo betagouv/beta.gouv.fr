@@ -5,7 +5,7 @@ domaine: Développement
 github: anaisalt
 missions:
   - start: 2023-12-04
-    end: 2026-08-31
+    end: 2026-12-31
     status: service
     employer: Pathtech
     startups:

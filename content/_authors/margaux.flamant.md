@@ -7,7 +7,7 @@ competences:
   - Croissance
 missions:
   - start: 2026-04-15
-    end: 2026-07-15
+    end: 2026-09-30
     status: independent
     employer: UT7
     startups:

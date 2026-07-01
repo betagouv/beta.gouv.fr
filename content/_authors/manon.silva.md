@@ -1,6 +1,6 @@
 ---
 fullname: Manon SILVA
-role: BizDev
+role: Chargée de déploiement & support
 domaine: Animation
 link: https://surlavague.co/
 missions:
@@ -29,9 +29,9 @@ missions:
     startups:
       - pacoupa
   - start: 2024-11-18
-    end: 2026-07-28
+    end: 2026-12-01
     status: independent
-    employer: Malt
+    employer: Malt / Crème de la crème
     startups:
       - maestro
 badges:

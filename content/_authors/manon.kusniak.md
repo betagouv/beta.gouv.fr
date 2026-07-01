@@ -5,7 +5,7 @@ domaine: Produit
 competences: []
 missions:
   - start: 2026-01-05
-    end: 2026-07-30
+    end: 2026-12-31
     status: service
     employer: France Travail
     startups:
