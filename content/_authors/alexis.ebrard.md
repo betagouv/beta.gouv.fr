@@ -19,7 +19,7 @@ missions:
     startups:
       - fondation
   - start: 2026-03-23
-    end: 2026-09-01
+    end: 2026-12-31
     status: independent
     employer: MALT
     startups:

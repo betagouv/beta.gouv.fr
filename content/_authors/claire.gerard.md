@@ -22,13 +22,13 @@ missions:
     startups:
       - mesaidesreno
   - start: 2025-11-19
-    end: 2026-06-03
+    end: 2026-10-01
     status: independent
     employer: Malt
     startups:
       - communs-de-la-transition-ecologique-des-collectivites
   - start: 2026-01-01
-    end: 2026-07-26
+    end: 2026-10-01
     status: independent
     employer: Malt
     startups:

@@ -5,9 +5,9 @@ domaine: Développement
 github: vdegove
 missions:
   - start: 2023-06-19
-    end: 2026-06-30
+    end: 2026-12-19
     status: independent
-    employer: Pathtech
+    employer: Crème de la Crème
     startups:
       - transport
 memberType: beta

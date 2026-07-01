@@ -34,6 +34,10 @@ events:
   - name: committee
     date: 2025-10-06
     comment: Poursuite
+  - name: committee
+    date: 2026-06-09
+    comment: Poursuite
+contact_dinum: erwan.g.le-gall
 ---
 ## Préambule
 
@@ -125,5 +129,12 @@ Les objectifs :
 
 - Finalisation du MVP
 - Prise en main par l’ARCOM
+- Embarquement des administrations intéressées
+- Adaptation de l’outil pour l’auto-contrôle
+
+## Construction #3
+
+Les objectifs : 
+
 - Embarquement des administrations intéressées
 - Adaptation de l’outil pour l’auto-contrôle

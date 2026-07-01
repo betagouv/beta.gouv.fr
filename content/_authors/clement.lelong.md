@@ -11,7 +11,7 @@ missions:
     startups:
       - pass.engagement.jeune
   - start: 2025-04-03
-    end: 2026-06-30
+    end: 2026-12-30
     status: service
     employer: Scopyleft
     startups:

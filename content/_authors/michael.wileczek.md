@@ -18,6 +18,15 @@ missions:
     employer: REVA
     startups:
       - reva
+  - start: 2026-06-29
+    end: 2026-09-29
+    status: independent
+  - start: 2026-06-29
+    end: 2026-12-14
+    status: independent
+    employer: Opteamis
+    startups:
+      - reva
 memberType: beta
 previously:
   - les-emplois

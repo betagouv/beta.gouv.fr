@@ -7,6 +7,8 @@ incubator: sgmas
 events:
   - name: national_impact
     date: 2023-12-31
+  - name: eig
+    date: 2025-01-15
   - name: fast
     date: 2025-10-01
 phases:

@@ -19,7 +19,5 @@ missions:
       - l-application-du-cej
 memberType: autre
 competences: []
-teams:
-  - /teams/sgmas
 ---
 Entrepreneur

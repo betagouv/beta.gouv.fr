@@ -1,6 +1,6 @@
 ---
 fullname: Laurie Botte
-role: Chargée de projet
+role: Intrapreneur
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/lauriemb
 competences:

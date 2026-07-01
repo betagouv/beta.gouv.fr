@@ -18,7 +18,7 @@ missions:
     startups:
       - umap
   - start: 2026-04-03
-    end: 2026-07-15
+    end: 2026-12-16
     status: independent
     employer: Crème de la crème
     startups:

@@ -4,12 +4,12 @@ fullname: Christian  Tonye
 role: Développeur Sénior
 missions:
   - start: 2024-05-13
-    end: 2026-06-30
+    end: 2026-12-29
     status: independent
     employer: MALT
     startups:
       - rapportnav
-github: xtiannyeto
+github: offlinetea
 competences:
   - Développement Full-stack
 memberType: beta

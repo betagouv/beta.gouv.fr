@@ -15,8 +15,14 @@ missions:
     employer: OCTO
     startups:
       - agrements-assistants-maternels-et-familiaux
+  - start: 2025-11-25
+    end: 2026-02-28
+    status: service
+    employer: OCTO
+    startups:
+      - plateforme-agriculteurs
   - start: 2026-05-13
-    end: 2026-06-12
+    end: 2026-07-17
     status: service
     employer: OCTO
     startups:

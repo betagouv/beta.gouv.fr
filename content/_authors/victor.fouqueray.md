@@ -9,7 +9,7 @@ competences:
   - Product strategy
 missions:
   - start: 2024-11-14
-    end: 2026-06-30
+    end: 2027-01-01
     status: service
     employer: Scopopop
     startups:
