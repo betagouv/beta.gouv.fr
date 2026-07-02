@@ -11,9 +11,9 @@ missions:
     startups:
       - boite.aux.lettres
   - start: 2025-06-30
-    end: 2026-07-05
+    end: 2026-12-31
     status: independent
-    employer: ut7
+    employer: Octo
     startups:
       - api-and-communs-numeriques-de-la-cour-de-cassation
       - portail-greffe-de-la-cour-de-cassation

@@ -12,6 +12,8 @@ phases:
     end: 2022-12-11
   - name: construction
     start: 2024-09-02
+  - name: abandon
+    start: 2026-07-02
 thematiques:
   - Écologie
   - Agriculture

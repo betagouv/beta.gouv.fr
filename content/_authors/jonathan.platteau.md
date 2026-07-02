@@ -5,7 +5,7 @@ github: flibustier
 link: https://jonathan.pl
 missions:
   - start: 2023-09-18
-    end: 2026-07-29
+    end: 2026-12-31
     status: independent
     employer: DINUM
     startups:

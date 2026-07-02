@@ -7,7 +7,7 @@ competences:
   - Droit / Affaires juridiques
 missions:
   - start: 2025-06-12
-    end: 2026-06-30
+    end: 2026-12-31
     status: independent
     employer: DINUM
     startups:

@@ -6,7 +6,7 @@ competences:
   - DevOps
 missions:
   - start: 2025-09-15
-    end: 2026-07-31
+    end: 2026-12-31
     status: independent
     employer: ut7
     startups:

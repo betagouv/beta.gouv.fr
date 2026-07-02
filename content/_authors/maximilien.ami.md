@@ -10,6 +10,11 @@ missions:
     employer: Opteamis
     startups:
       - codedutravail
+  - start: 2026-07-02
+    end: 2026-10-02
+    status: independent
+    startups:
+      - codedutravail
 memberType: beta
 competences: []
 ---

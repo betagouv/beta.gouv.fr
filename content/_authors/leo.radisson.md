@@ -14,8 +14,6 @@ missions:
     employer: creme de la creme
     startups:
       - api-and-communs-numeriques-de-la-cour-de-cassation
-      - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne
-      - portail-greffe-de-la-cour-de-cassation
 badges:
   - segur
 competences: []

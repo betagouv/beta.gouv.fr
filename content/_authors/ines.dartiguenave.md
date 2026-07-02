@@ -10,6 +10,7 @@ missions:
     employer: NUMA
     startups:
       - docurba
+      - ma-parcelle
       - mon-diagnostic-artificialisation
 competences:
   - Coaching

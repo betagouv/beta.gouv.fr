@@ -12,10 +12,11 @@ competences:
   - Coaching
 missions:
   - start: 2025-01-06
-    end: 2026-09-11
+    end: 2026-12-31
     status: service
     employer: France Travail
     startups:
+      - handicompatible
       - mes-aides-france-travail
       - travailler.en.france
 ---

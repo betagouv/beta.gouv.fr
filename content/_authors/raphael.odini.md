@@ -14,7 +14,7 @@ missions:
       - aides-territoires
       - place-de-marche-inclusion
   - start: 2024-08-05
-    end: 2026-06-30
+    end: 2026-08-31
     status: service
     employer: Scopyleft
     startups:

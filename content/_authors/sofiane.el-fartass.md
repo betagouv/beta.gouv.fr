@@ -9,11 +9,7 @@ competences:
   - Python
 missions:
   - start: 2025-10-01
-    end: 2028-09-30
+    end: 2028-09-29
     status: admin
     employer: 'cour de cassation '
-    startups:
-      - api-and-communs-numeriques-de-la-cour-de-cassation
-      - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne
-      - portail-greffe-de-la-cour-de-cassation
 ---

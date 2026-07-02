@@ -8,7 +8,7 @@ competences:
   - UX
 missions:
   - start: 2024-09-23
-    end: 2026-06-30
+    end: 2026-12-31
     status: independent
     employer: DGCL
     startups:
