@@ -181,6 +181,7 @@ En conclusion, cela entraîne un **manque de suivi global des projets d’EnR** 
 * **[Guide d’utilisation](https://docs.potentiel.beta.gouv.fr/)**
 
 * **[Code source ouvert](https://github.com/MTES-MCT/potentiel)**
+* **[Données Data gouv](https://www.data.gouv.fr/datasets/projets-denergies-renouvelables-soumis-a-appel-doffres-en-france)**
 
 ## **💬 Témoignages & Retours Utilisateurs**
 

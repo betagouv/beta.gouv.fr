@@ -19,13 +19,13 @@ missions:
     startups:
       - nosgestesclimat
   - start: 2025-11-25
-    end: 2026-05-07
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:
       - plus-frais-au-travail
   - start: 2026-04-01
-    end: 2026-07-31
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

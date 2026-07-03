@@ -23,7 +23,7 @@ missions:
     startups:
       - espace-membre
   - start: 2026-04-14
-    end: 2026-07-14
+    end: 2026-12-14
     status: independent
     employer: scopyleft
 previously:

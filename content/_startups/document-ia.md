@@ -27,52 +27,46 @@ events:
 repository: https://github.com/betagouv/document-ia
 link: ''
 ---
-Document-IA est une solution **générique, souveraine** et **sécurisée** d'**analyse automatique** de **pièces justificatives**. Ce produit est portée par l'incubateur [ALLiaNCE](https://alliance.numerique.gouv.fr/) de la DINUM et pensé comme un commun numérique.
+Document-IA est une solution **générique, souveraine** et **sécurisée** d'**analyse automatique** de **documents** et **pièces justificatives**. Ce produit est portée par l'incubateur [ALLiaNCE](https://alliance.numerique.gouv.fr/) de la DINUM et pensé comme un commun numérique.
 
-Consultez la [liste des pièces justificatives](https://github.com/betagouv/document-ia/tree/sandbox/document-ia-schemas/src/document_ia_schemas) actuellement compatibles avec Document-IA
+Consultez la [liste des documents](https://github.com/betagouv/document-ia/tree/sandbox/document-ia-schemas/src/document_ia_schemas) actuellement compatibles avec Document-IA.
 
 **Vous êtes un acteur de l'État** et vous souhaitez bénéficier de la solution Document-IA ? Contactez l'équipe en charge de son déploiement en complétant ce [formulaire](https://grist.numerique.gouv.fr/o/document-ia/forms/biMbLFoRK9yM3LoeNyMQ2E/8) 👈
 
 **Vous êtes développeur** et vous souhaitez consulter la documentation technique ? Consultez la section dédiée "📖 Comment utiliser Document-IA ?"
 
----
-
-### ⚡️ Enjeux
-
-Chaque demande de subvention, chaque démarche entre l’administration et un particulier ou une entreprise contient des pièces justificatives. 
-L’analyse manuelle pose les problèmes suivants : 
-
-- **Chronophage**
-*L’analyse manuelle est un goulot d’étranglement qui agrandit fortement le délai d’instruction et le temps de réponse à l’usager.*
-- **Coût élevé** 
-*Le coût humain pour lire des pièces justificatives et récupérer des données est très élevé et pèse sur la balance de l’État.*
-- **Non standardisée**
-*La lecture manuelle dépend de la compréhension et de l’expérience de l’instructeur. Cela pose un problème d’équité entre les dossiers. Cela provoque également des allers-retours inutiles entre les parties prenantes.*
-- **Erreurs de lecture**
-*Les pièces justificatives ne sont pas toujours normées. Il peut être compliqué de savoir où chercher une donnée et une lecture manuelle peut facilement passer à côté d'une information importante.*
+**Vous êtes développeur** et vous souhaitez analyser un document qui n'est pas encore dans la liste des types de documents compatibles ? Vous pouvez contribuer au projet et proposer l'ajout d'une nouvelle catégorie de document. Voir [CONTRIBUTING.md](https://github.com/betagouv/document-ia/blob/develop/document-ia-schemas/CONTRIBUTING.md)
 
 ---
 
-### 💡 Produit
+### ⚡️ Cas d'usage et bénéfices
 
-DocumentIA veut permettre à tout agent créant une démarche entre l’administration et un particulier ou une entreprise de définir un **workflow d’analyse de pièces justificatives.** 
+**Pour l'usager** : un retour immédiat sur ses pièces
 
-L’objectif est de faire **gagner du temps à l’instructeur**, d’apporter une **première réponse en direct** de l’État à l’usager et d’avoir de la donnée structurée permettant un **pilotage plus précis**.
+- Signalement en direct d'une pièce manquante, illisible ou non conforme, dès le dépôt plutôt qu'après instruction
+- Possibilité de corriger son dossier en session → moins d'allers-retours et une réponse plus rapide de l'administration
+
+**Pour l'instructeur** :  un gain de temps et de fiabilité
+
+- Automatisation des gestes chronophages : catégorisation, extraction, contrôle de conformité
+- Vue enrichie (données extraites + alertes) permettant de se concentrer sur les cas à réelle valeur ajoutée
+
+**Pour l'administration**
+
+- Constitution de bases de données structurées à partir de documents non structurés. Exemple : étude statistique retrospective sur des archives (arrêtés, devis etc)
 
 ---
 
 ### 🛠️ Fonctionnalités
 
-Document-IA déploie les fonctionnalités principales suivantes :
+Document-IA permet de mettre en oeuvre les fonctionnalités suivantes :
 
-- **Détection de flou**
-*S’assurer qu’une pièce justificative est lisible ou demander à l’utilisateur de la modifier avant l’envoi à un instructeur humain.*
 - **Catégorisation**
 *Si une carte d’identité est demandée, il faut s’assurer que le document déposé est bien une carte d’identité dès le dépôt plutôt que d’attendre l’analyse manuelle et un aller-retour avec l'instructeur.*
 - **Extraction**
-*Transformer un pdf en un ensemble de données structurées utilisables et utiles permet d’automatiser un bon nombre de vérifications et un pilotage plus précis.*
+*Transformer un document non structuré en un ensemble de données structurées permettant d’automatiser des vérifications ou de constituer une base de données.*
 - **Conformité**
-*Une première vérification automatique de la conformité permet de faire un retour en direct à l’utilisateur afin qu’il s’assure d’avoir les bonnes informations sur sa pièce. Nous pourrons filtrer dès le dépôt et envoyer en instruction uniquement les dossiers complets et propres.*
+*Une fois les données extraites, il est possible d'effectuer une vérification automatique de la conformité d'un document. Cette vérification permet de faire un retour en direct à l’utilisateur et d'augmenter la qualité des dossiers.*
 
 ---
 
@@ -88,21 +82,16 @@ Le code source de la solution Document-IA est également entièrement accessible
 
 ### 📊 Impact
 
-Parmi les produits identifiés pour un déploiement à grande échelle, 3 démarches pilotes ont été sélectionnées pour la mise en oeuvre de la solution Document-IA 
+Parmi les produits identifiés pour un déploiement à grande échelle, 2 produits pilotes ont été sélectionnés pour la mise en oeuvre de la solution Document-IA 
 
 **[Dossier facile](https://www.dossierfacile.logement.gouv.fr/)** (accès au logement) :
 
 DossierFacile traite un volume mensuel de plus de 700 000 pièces justificatives.
 
 
-**[Démarches Simplifiées](https://www.demarches-simplifiees.fr/)** (digitalisation de démarches) :
+**[Démarche Numérique](https://demarche.numerique.gouv.fr/)** (anciennement DémarchesSimplifiées) :
 
-Démarches Simplifiées permet la digitalisation de démarches administratives. Ces démarches comprennent de nombreux justificatifs sous la forme de documents. Plus de 10 millions de justificatifs d'identité et de domicile ont été déposés sur la plateforme depuis sa création.
-
-**[Mon Devis sans Oublis](https://mon-devis-sans-oublis.beta.gouv.fr/)** (rénovation énergétique) :
-
-Dans **les dossiers de rénovation énergétique des bâtiments**, la performance des politiques publiques est freinée par un même obstacle structurel : la non-conformité des pièces justificatives qui génère des aller-retours entre le bénéficiaire et l'administration.
-* **70 % des dossiers MaPrimeRenov sont bloqués** à cause de devis ou factures non conformes.
+Démarche Numérique permet la digitalisation de démarches administratives. Ces démarches comprennent de nombreux justificatifs sous la forme de documents. Plus de 10 millions de justificatifs d'identité et de domicile ont été déposés sur la plateforme depuis sa création.
 
 ---
 
@@ -121,24 +110,6 @@ Les modèles LLMs utilisés dans le cadre du traitement Document-IA sont héberg
 
 ### ⚙️ Technologie
 
-
-Les fonctionnalités suivantes sont envisagées en vision cible :
-
-* **Image processing** : détection de flou, de contours, d'orientation, lecture QRcode, 2DDOC
-
-* **OCR** : reconnaissance des textes, tableaux, formulaires
-
-* **Classification** : classification du type de document parmi une liste extensible de catégories de documents
-
-* **Extraction** : extraire des informations sous la forme d'un schéma standardisé à partir des résultats de l'OCR
-
-* **Evaluation performance** : à partir d'un dataset définir la précision et le rappel de chaque tâche
-
-* **Moteur de règles** : permettre de déclencher des checks de cohérence sur le document en fonction de règles métier.
-
-* **Console d'administration** : permettre à nos utilisateurs d'être autonome dans la création et la configuration de leur workflow d'automatisation de documents.
-
-
 Cette solution met en oeuvre les technologies suivantes :
 
 * **Image processing :** Algorithmes de traitements d'image et modèles ML fine-tuned
@@ -148,7 +119,3 @@ Cette solution met en oeuvre les technologies suivantes :
 * **Classification / Extraction** : Modèles ML et/ou LLMs
 
 * **Evaluation performance** : Librairies open-source et développement spécifiques
-
-* **Moteur de règles** : Librairies open-source et développement spécifiques
-
-* **Console d'administration** : Framework et librairies open-source, développement spécifiques

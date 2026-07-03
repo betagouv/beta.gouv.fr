@@ -23,7 +23,7 @@ missions:
     startups:
       - les-emplois
   - start: 2025-09-05
-    end: 2026-07-31
+    end: 2026-10-03
     status: independent
     employer: La zone
     startups:

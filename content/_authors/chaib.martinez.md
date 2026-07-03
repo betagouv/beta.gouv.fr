@@ -43,7 +43,7 @@ missions:
     startups:
       - datalma
   - start: 2024-05-01
-    end: 2026-07-30
+    end: 2026-12-16
     status: independent
     employer: Numa
     startups:
