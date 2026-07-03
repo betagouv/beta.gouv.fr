@@ -39,7 +39,7 @@ missions:
   - start: 2026-06-05
     end: 2026-09-05
     status: independent
-    employer: DYNERGIE
+    employer: LittleBigConnection
     startups:
       - viz-eau
 badges:

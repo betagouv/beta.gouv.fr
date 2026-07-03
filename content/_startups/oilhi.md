@@ -6,7 +6,7 @@ sponsors:
   - /organisations/dhup
 incubator: mtes
 link: https://www.oilhi.beta.gouv.fr/?utm_source=partenaire&utm_medium=referral&utm_campaign=site-beta-gouv&utm_id=%237
-contact: marie-laurence.leterme@pas-de-calais.gouv.fr
+contact: contact@oilhi.beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation

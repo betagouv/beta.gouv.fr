@@ -46,6 +46,10 @@ events:
   - name: committee
     date: 2025-06-26
     comment: 'Comité d''investissement #2'
+budget_url: https://docs.numerique.gouv.fr/docs/77a2fd91-bb2e-4751-9b14-907dd6fa8855/
+stats_url: https://suiteterritoriale.anct.gouv.fr/cartographie-deploiement
+impact_url: https://docs.numerique.gouv.fr/docs/d1cdaea5-7212-4955-b343-c9207fefebfe/
+contact_incubator: alexis.boudard
 ---
 ## 🧩 Contexte
 

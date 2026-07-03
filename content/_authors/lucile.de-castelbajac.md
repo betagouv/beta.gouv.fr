@@ -1,6 +1,6 @@
 ---
 fullname: Lucile  DE CASTELBAJAC
-role: Chargée de déploiement
+role: Intrapreneur
 domaine: Intraprenariat
 link: https://fr.linkedin.com/in/lucile-de-castelbajac/fr
 competences:

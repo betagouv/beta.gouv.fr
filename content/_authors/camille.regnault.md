@@ -7,7 +7,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2025-08-15
-    end: 2026-07-16
+    end: 2026-12-16
     status: independent
     employer: Pathtech
 ---

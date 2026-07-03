@@ -13,6 +13,8 @@ phases:
     start: 2025-05-15
   - name: construction
     start: 2025-09-15
+  - name: abandon
+    start: 2026-01-01
 events:
   - name: product_launch
     date: 2025-09-12
