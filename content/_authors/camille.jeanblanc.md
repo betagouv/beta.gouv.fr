@@ -15,7 +15,7 @@ missions:
     startups:
       - data-inclusion
   - start: 2025-12-15
-    end: 2026-04-30
+    end: 2026-10-06
     status: independent
     startups:
       - la-bonne-alternance

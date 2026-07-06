@@ -6,7 +6,7 @@ link: https://pavie.info/
 github: PanierAvide
 missions:
   - start: 2023-01-01
-    end: 2026-08-16
+    end: 2026-10-06
     status: independent
     employer: Malt
     startups:

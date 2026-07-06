@@ -1,11 +1,14 @@
 ---
 title: L'Incubateur de France travail
-short_description: ' l''Incubateur de France Travail accompagne les équipes produit en proposant des solutions digitales centrées sur l''usager et l''impact'
+short_description: |2-
+   l'Incubateur de France Travail accompagne les équipes produit en proposant des solutions digitales centrées sur l'usager et l'impact.
+
+  Notre ambition : construire et développer ensemble des solutions numériques au service de l’emploi.
 github: https://github.com/StartupsPoleEmploi/
-contact: incubateur.00589@francetravail.fr
+contact: chloe.sangaria@francetravail.fr
 logo: logo_francetravail.png
 owner: /organisations/francetravail
-website: https://www.francetravail.org/accueil/
+website: https://www.linkedin.com/company/incubateur-de-france-travail/about/?viewAsMember=true
 address: 17 avenue de la porte des Lilas 75019
 redirect_from: []
 highlighted_startups:
@@ -13,10 +16,23 @@ highlighted_startups:
   - mes-evenements-emploi
   - mes-aides-france-travail
 ---
-Depuis 2015, l'Incubateur de France Travail répond aux problématiques remontées par le terrain et les directions métiers dans la mise en œuvre de l'offre de service de France Travail, en proposant des solutions digitales utiles et utilisées dans une démarche exploratoire axée sur l'usager et l'impact. 
+Depuis 2015, l'Incubateur de France Travail accompagne la transformation de l'action publique en faisant émerger, expérimenter et développer des solutions numériques au service de l'emploi.
 
-Composée de product managers, designers, coachs, experts en acquisition et marketing, l’équipe de l’Incubateur accompagne au quotidien les équipes produit de France Travail en mettant à disposition des méthodes, ressources et expertises pour concevoir et faire évoluer des produits numériques à impact, répondant aux besoins utilisateurs et aux enjeux stratégiques. 
+Notre mission est d'accompagner les équipes produit et les intrapreneurs pour concevoir des services numériques utiles, utilisables et à fort impact, construits avec les utilisateurs et au plus près des réalités du terrain.
 
-L’Incubateur se veut aussi un point d’appui pour l’intrapreneuriat, en offrant un cadre propice pour tester des idées, explorer des pistes et confronter rapidement des solutions aux réalités du terrain.
+Composée de Product Managers, Product Designers, coachs produit, experts en acquisition, marketing et communication, l'équipe de l'Incubateur met à disposition des méthodes, des ressources et une expertise produit pour tester rapidement des idées, les confronter aux usages et les faire évoluer grâce à l'expérimentation continue.
 
-42 produits incubés depuis 2015 parmi plusieurs produits incontournables aujourd’hui sont issu de ce programme (La Bonne Boite, Immersion Facilité, Mes événements emplois...)
+L'Incubateur est également un véritable moteur d'innovation interne. Depuis plus de 10 ans, il accompagne les agents de terrain, leur donne les moyens concrets d'agir et transforme les irritants du quotidien en solutions numériques.
+
+Pour favoriser le passage de l'idée à l'action, l'Incubateur s'appuie notamment sur :
+- Des challenges d'innovation pour faire émerger les idées ;
+- Un accompagnement produit fondé sur les méthodes beta.gouv, les tests utilisateurs et l'itération ;
+- Des ressources permettant de construire, expérimenter et apprendre rapidement.
+
+En quelques chiffres :
+
+- plus de 850 idées déposées lors des différents challenges 
+- En moyenne 4 nouveaux intrapreneurs accompagnés chaque année 
+- 42 produits incubés depuis 2015, dont plusieurs services aujourd'hui largement déployés, comme La Bonne Boîte, Immersion Facilitée, Mes Événements Emploi ou encore La Bonne Alternance.
+
+Notre ambition est simple : construire et développer ensemble des solutions numériques au service de l'emploi.

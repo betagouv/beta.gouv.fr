@@ -18,6 +18,12 @@ missions:
     employer: Dynergie
     startups:
       - referentiel-national-des-zones-d-activites-economiques
+  - start: 2026-07-06
+    end: 2026-10-06
+    status: independent
+    employer: Dynergie
+    startups:
+      - commun-autour-de-la-donnee-entreprise
 github: mferaga
 link: https://www.linkedin.com/in/feraga/
 competences:

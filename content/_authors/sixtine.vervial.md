@@ -11,7 +11,7 @@ competences:
   - Machine learning
   - Metabase
 missions:
-  - start: 2026-06-29
+  - start: 2026-06-22
     end: 2026-09-30
     status: independent
     employer: Crème de la crème

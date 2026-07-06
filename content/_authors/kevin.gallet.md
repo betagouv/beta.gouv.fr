@@ -24,7 +24,7 @@ missions:
     startups:
       - otelo
   - start: 2024-11-25
-    end: 2026-06-01
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

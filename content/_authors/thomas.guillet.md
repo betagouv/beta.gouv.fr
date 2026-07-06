@@ -31,7 +31,7 @@ missions:
       - peste-porcine-africaine
       - piloter-le-budget-de-mon-produit-numerique
   - start: 2025-09-15
-    end: 2026-07-31
+    end: 2026-12-06
     status: independent
     employer: Codeureuses en Liberté
 previously:

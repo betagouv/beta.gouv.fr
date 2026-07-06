@@ -10,9 +10,9 @@ competences:
   - Développement Backend
 missions:
   - start: 2026-04-21
-    end: 2026-09-30
+    end: 2026-11-30
     status: independent
-    employer: Malt
+    employer: Creme de la Creme
     startups:
       - reglementation-nitrates
 ---

@@ -22,19 +22,19 @@ missions:
     startups:
       - mon-devis-sans-oublis
   - start: 2025-06-09
-    end: 2026-07-31
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:
       - mutafriches
   - start: 2025-08-22
-    end: 2026-06-30
+    end: 2026-12-31
     status: independent
     employer: LittleBigConnection
     startups:
       - fonds-prevention-argile
   - start: 2026-05-19
-    end: 2026-08-19
+    end: 2026-10-06
     status: independent
     employer: Octo
     startups:
