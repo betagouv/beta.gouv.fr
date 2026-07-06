@@ -9,9 +9,9 @@ competences:
 missions:
   - start: 2026-07-06
     end: 2026-10-06
-    employer: Crème de la crème
     status: service
+    employer: Crème de la crème
     startups:
       - mes-services-cyber
-teams: []
+github: jomad97
 ---

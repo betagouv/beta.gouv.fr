@@ -8,11 +8,10 @@ competences: []
 missions:
   - start: 2026-07-01
     end: 2026-12-26
-    employer: France Travail
     status: service
+    employer: France Travail
     startups:
       - l-application-du-cej
-teams: []
 ---
 Senior Product Engineer (Software Architecture, Agentic AI, Data) · Accenture title: Data Eng, Mgmt and Governance Specialist (from May 2026) with 10 years of experience in product delivery, engineering strategy, and leading cross-functional teams. I have collaborated with diverse teams in cities including London, Amsterdam, Paris, Lyon, Barcelona, Krakow and Cuzco. [🇬🇧,🇳🇱,🇫🇷,🇪🇸,🇵🇱,🇵🇪]. I specialise in practical software, translating business objectives into product solutions, managing backlogs, and delivering value-driven features for Public Safety, Insurance, Finance, Healthcare, and AI.
 

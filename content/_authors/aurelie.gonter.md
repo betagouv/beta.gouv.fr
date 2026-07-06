@@ -17,7 +17,7 @@ missions:
     startups:
       - dora
   - start: 2025-04-07
-    end: 2026-08-02
+    end: 2026-12-31
     status: independent
     employer: UT7
     startups:

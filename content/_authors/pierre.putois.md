@@ -17,11 +17,6 @@ missions:
     status: admin
     startups:
       - data-inclusion
-  - start: 2022-09-18
-    end: 2027-04-30
-    status: admin
-    startups:
-      - l-immersion-facile
   - start: 2024-11-01
     end: 2027-04-30
     status: admin

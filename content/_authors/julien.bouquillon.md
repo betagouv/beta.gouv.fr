@@ -34,5 +34,6 @@ competences:
   - JavaScript/TypeScript
   - PostgreSQL
   - Python
+  - Kubernetes
 ---
 Make it work, make it right, make it fast.

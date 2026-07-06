@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-01-23
     end: 2026-12-31
-    employer: DINUM
     status: admin
+    employer: DINUM
     startups:
       - suite-numerique
-teams: []
 ---
