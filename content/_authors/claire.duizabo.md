@@ -32,8 +32,14 @@ missions:
     employer: Numa
     startups:
       - domifa
+  - start: 2026-06-23
+    end: 2026-11-30
+    status: independent
+    employer: Numa
 competences:
   - Coaching
+  - Croissance
+  - Communication
 link: https://www.linkedin.com/in/claireduizabo/
 ---
-Experte FAST & Coach 
+Coach

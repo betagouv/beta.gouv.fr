@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2026-07-02
     end: 2026-12-20
-    employer: DGE
     status: admin
+    employer: DGE
     startups:
       - portail-rse
-teams: []
 ---

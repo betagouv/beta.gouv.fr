@@ -1,13 +1,13 @@
 ---
 fullname: Stéphane Blondon
-role: développeur
+role: Développeur
 domaine: Développement
 github: sblondon
 missions:
   - start: 2022-09-06
-    end: 2026-08-30
+    end: 2027-01-01
     status: service
-    employer: La Zone
+    employer: Malt
     startups:
       - portail-rse
 competences: []

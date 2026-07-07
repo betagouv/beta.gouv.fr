@@ -10,7 +10,7 @@ missions:
     startups:
       - resorption-bidonvilles
   - start: 2024-04-23
-    end: 2026-07-19
+    end: 2026-10-23
     status: independent
     employer: Malt
     startups:

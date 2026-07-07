@@ -7,9 +7,9 @@ competences:
   - Product design
 missions:
   - start: 2025-07-30
-    end: 2026-07-31
+    end: 2026-12-30
     status: independent
-    employer: Scopyleft
+    employer: Malt
     startups:
       - nosgestesclimat
 ---
