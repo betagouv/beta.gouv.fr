@@ -32,6 +32,7 @@ techno:
 budget_url: https://docs.google.com/spreadsheets/d/1oIHQ84QFqsGV8r0iqoZhQCcQIi4TGKJYIRNHtw4mLdU/edit?usp=sharing
 repository: https://github.com/MTES-MCT/aigle-api
 dashlord_url: https://dashlord.incubateur.net/url/aigle-beta-gouv-fr/
+impact_url: https://docs.numerique.gouv.fr/docs/af93d7a3-b9a7-49e5-a4cd-e2ba765771c4/
 ---
 ## Contexte
 Les constructions et installations illégales, appelé aussi "cabanisation" ou "détournement d'usage" s'étendent sur le territoire français non urbain. Elles dégradent les espaces naturels et agricoles et exposent les personnes aux risques naturels inondation et feux de forêt. 
@@ -67,9 +68,9 @@ Muni d’une interface cartographique et d'un module de pilotage,  il est pleine
 
 
 ## Déploiement
-AIGLE est présent sur des territoires ciblés dans une dizaine de départements (Gard, Hérault, Somme, Manche, Pyrénées-Atlantiques, Aveyron, Bouches-du-Rhône, Vaucluse, Gironde..., et bientôt  Martinique, Seine-et-Marne,  Haute-Garonne, ....). Une soixantaine de collectivités utilisent l'outils directement. 
+AIGLE est présent sur des territoires ciblés dans une quinzaine  de départements (Gard, Hérault, Somme, Manche, Pyrénées-Atlantiques, Aveyron, Bouches-du-Rhône, Vaucluse, Gironde, Martinique, Seine-et-Marne,  Haute-Garonne, La réunion, ....). Une soixantaine de collectivités utilisent l'outils directement. 
 
-
+Près de 100 groupe utilisateurs actifs par mois 73 groupes utilisateurs actifs par mois
 
 ## 2026
 **Élargir notre impact sur le cas d'usage "lutte contre les constructions illégales** 
@@ -83,7 +84,8 @@ AIGLE est présent sur des territoires ciblés dans une dizaine de départements
 - AIGLE permet de quantifier, qualifier et localiser le problème : exemple dans le département de l'Hérault : 30 000 parcelles ont été détectées par l'outil  comme faisant l'objet de constructions ou d'installations suspectées d'être illégales. Près de 6000 sont en zone à risques fort inondation ou feu de forêt. 
 - Connaître et mesurer le problème permet de déclencher la prise de conscience et la mobilisation des communes :  13 agents formés, 102 courriers envoyés et 110 visites sur le terrain sur 12 communes de test.
 - Détecter au plus tôt permet d’intervenir au plus tôt et de favoriser la simple remise en état plutôt que les longues procédures : 20% de remise en état après simple courrier ou visite sur 20 communes de test.
-
 - Détecter automatiquement les parcelles détournées et les prioriser permet d’être plus efficace sur le terrain : efficacité des visites multiplié par 2
+- Une action opérationnelle (ex. PV) sur une parcelle mène dans 60% des cas à une remise à l’état naturel dans un temps plus ou moins long (calcul fait sur un échantillon) : Potentiel de remise en état naturel : 640 ha en 1 an
+
 
 AIGLE c'est aussi au sein de l'équipe  **la maitrise en régie d'une ingénierie d'IA** en terme de détection sur images

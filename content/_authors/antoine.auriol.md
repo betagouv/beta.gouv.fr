@@ -10,4 +10,6 @@ missions:
       - handicompatible
       - poe.facilite
 memberType: beta
+teams:
+  - /teams/francetravail-l-incubateur-de-france-travail-leads-de-pratiques
 ---

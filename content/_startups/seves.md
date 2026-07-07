@@ -31,7 +31,7 @@ events:
     date: 2026-02-05
     comment: Lancement du module Alimentaire (évènement Produits & cas + TIAC & plaintes)
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=S%C3%A8ves
-impact_url: https://incubateur-masa.notion.site/Matrice-d-impact-31ede24614be801ea8f0c573dfa6f1ce
+impact_url: https://seves-metabase.osc-secnum-fr1.scalingo.io/public/dashboard/e61b18c6-daf1-410d-acb7-d58834e7094d
 ---
 ## Le contexte
 
