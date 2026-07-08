@@ -23,6 +23,18 @@ missions:
     employer: Solstice La Zone
     startups:
       - seves
+  - start: 2025-09-07
+    end: 2026-10-07
+    status: independent
+    employer: malt
+    startups:
+      - guichet-unique-de-la-haie-envergo-agricole
+  - start: 2026-03-02
+    end: 2026-10-07
+    status: independent
+    employer: malt
+    startups:
+      - reglementation-nitrates
 competences:
   - Accessibilité
   - Facilitation

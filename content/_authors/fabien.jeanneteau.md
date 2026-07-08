@@ -8,7 +8,9 @@ competences:
   - Facilitation
 missions:
   - start: 2026-05-06
-    end: 2026-11-20
+    end: 2027-03-31
     status: admin
     employer: ADEME
+teams:
+  - /teams/ademe
 ---

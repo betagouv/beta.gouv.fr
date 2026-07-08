@@ -7,6 +7,12 @@ missions:
     employer: Numa
     startups:
       - communs-de-la-transition-ecologique-des-collectivites
+  - start: 2026-07-08
+    end: 2026-10-08
+    status: independent
+    employer: Numa
+    startups:
+      - coop-biodiv
 competences:
   - Coaching
 memberType: beta

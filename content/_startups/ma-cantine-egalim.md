@@ -41,7 +41,7 @@ techno:
   - vue
   - django
   - python
-impact_url: https://ma-cantine-metabase.cleverapps.io/public/dashboard/0589649a-fabc-4001-82d6-f5f4fc15710d
+impact_url: https://docs.numerique.gouv.fr/docs/15a7071b-ea06-40b6-9127-8c722c124a17/
 dashlord_url: https://dashlord.incubateur-agriculture.beta.gouv.fr/url/ma-cantine-agriculture-gouv-fr/
 ---
 ## Contexte et enjeux

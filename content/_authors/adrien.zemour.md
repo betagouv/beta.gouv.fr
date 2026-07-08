@@ -34,7 +34,6 @@ badges:
   - segur
 teams:
   - /teams/accelerema-responsable-de-portefeuille
-  - /teams/ademe
 competences: []
 ---
 On m'a vu dans le Vercors

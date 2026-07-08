@@ -7,16 +7,13 @@ title: Commun autour de la donnée entreprise
 mission: Faciliter la compréhension de la donnée entreprise
 incubator: dinum
 contact_dinum: magali.marcel
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2026-07-06
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-07-06
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

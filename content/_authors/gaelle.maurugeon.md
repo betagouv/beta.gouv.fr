@@ -48,5 +48,7 @@ competences:
   - Coaching
   - Facilitation
   - Product strategy
+teams:
+  - /teams/ademe
 ---
 Coach Produit passionnée de product management, organisation d'équipe, design thinking et intelligence collective, et co-fondatrice d'une association de découverte de la tech pour les filles

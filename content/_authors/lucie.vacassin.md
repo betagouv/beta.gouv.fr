@@ -1,10 +1,10 @@
 ---
 fullname: Lucie Vacassin
-role: Chargée de développement
+role: 'Chargée d''études '
 domaine: Déploiement
 missions:
   - start: 2024-09-04
-    end: 2026-07-18
+    end: 2026-12-18
     status: independent
     startups:
       - envergo

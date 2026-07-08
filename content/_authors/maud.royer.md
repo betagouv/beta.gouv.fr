@@ -24,7 +24,7 @@ missions:
     startups:
       - recommandations-collaboratives
   - start: 2025-09-08
-    end: 2026-07-31
+    end: 2026-10-31
     status: independent
     employer: Scopopop
     startups:

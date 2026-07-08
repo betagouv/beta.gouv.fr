@@ -18,7 +18,7 @@ missions:
     startups:
       - mon-suivi-social
   - start: 2026-01-05
-    end: 2026-08-31
+    end: 2026-12-31
     status: independent
     employer: Crème de la crème
     startups:

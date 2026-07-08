@@ -1,6 +1,6 @@
 ---
 mission: Mieux lutter contre les atteintes à l'environnement
-incubator: anct
+incubator: dinum
 title: Protect'Envi
 contact: arthur.ribeiro-de-carvalho@gendarmerie.interieur.gouv.fr
 accessibility_status: non conforme
@@ -15,7 +15,7 @@ phases:
   - name: construction
     start: 2025-01-01
   - name: acceleration
-    start: 2025-09-01
+    start: 2025-10-01
 thematiques:
   - Écologie
   - Territoires
@@ -38,10 +38,12 @@ events:
     comment: Validation financement FINDPE
   - name: committee
     date: 2026-03-23
-    comment: Comité d'investissement (prévu)
+    comment: Comité d'investissement
 repository: https://github.com/betagouv/depots-sauvages
-impact_url: https://fichiers.numerique.gouv.fr/explorer/items/files/9615c123-59a4-42df-857f-498e313e401b
+impact_url: https://fichiers.numerique.gouv.fr/explorer/items/0e169879-b1d7-4f7a-bd2c-5c486d52f76e
 stats_url: https://grist.numerique.gouv.fr/o/cesan-investigation/9bGtbLYmEdEG/Suivi-stats-ProtectEnvi/p/14
+contact_dinum: thibault.desjardins
+contact_incubator: thibault.desjardins
 ---
 ## Contexte
 
@@ -100,6 +102,7 @@ Au 2e semestre 2025, un déploiement plus large à une dizaine de départements 
 
 ### Accélération
 
-**Objectifs :**
-Au 1er semestre 2026, nous cherchons à poursuivre la construction du produit (fonctionnalités complémentaires pour l'aide à la rédaction de procédures administratives, agent IA, etc.) et son déploiement progressif à l'échelle nationale (au moins 150 collectivités utilisatrices et 300 procédures lancées).
+Au 1er semestre 2026, nous cherchons à poursuivre la construction du produit (fonctionnalités complémentaires pour l'aide à la rédaction de procédures administratives, agent IA, etc.) et son déploiement progressif à l'échelle nationale.
+
+**Impact au 30 juin 2026 :** 545 procédures réalisées, 26.280€ d'amendes prononcées, 558m3 de dépôts nettoyés, 264 collectivités utilisatrices. 
 
