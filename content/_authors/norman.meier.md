@@ -8,7 +8,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2026-03-30
-    end: 2026-06-30
+    end: 2026-07-30
     status: independent
     employer: Malt
     startups:

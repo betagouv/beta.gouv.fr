@@ -12,25 +12,28 @@ usertypes:
   - Collectivités
   - DDT(M)
   - Agents assermentés au code de l'urbanisme
-techno: []
+techno:
+  - php
 title: LUCCA
 mission: Faciliter la rédaction et le suivi des PV d'infraction à l'urbanisme pour mieux lutter contre les constructions et installations illégales dans les zones naturelles et agricoles pour mieux les préserver
 incubator: mtes
 phases:
   - name: construction
     start: 2025-08-01
-  - name: acceleration
-    start: 2026-03-01
 events:
   - name: other
     date: 2025-08-01
     comment: Migration au MATTE
+  - name: other
+    date: 2026-04-01
+    comment: 'Démarrage réel construction '
 sponsors:
   - /organisations/anct
   - /organisations/ddtm34
   - /organisations/dgaln
   - /organisations/dhup
 repository: https://github.com/MTES-MCT/Lucca
+impact_url: https://docs.numerique.gouv.fr/docs/9dbd4f9c-eff4-4de7-bc55-5ca88bc89bbd/
 ---
 
 ## Contexte
@@ -57,7 +60,7 @@ Elle expose les personnes aux risques d’inondation et de feux de forêts, sans
 LUCCA est un outil numérique qui :
 - sécurise la procédure
 - facilite la rédaction du PV (respect des étapes, système de mots clés et proposition de rédaction, aide au choix des natinfs...)
-- édite automatiquement les courriers ou les pièces des modalités de contrôles
+- édite automatiquement des courriers (au parquet, à la collectivité,  à la DDTM..) et la convocation au contrôle
 - permet le suivi des procédures (historiques, données partagées entre services de l'Etat et collectivités) 
 
 Il est destiné aux agents assermentés au code de l'urbanisme ( agents de collectivités, de l'Etat, force de l'ordre, policiers municipaux...). Il est accessible du bureau ou sur le terrain directement (tablette). 
@@ -70,16 +73,18 @@ Sur les territoires pilotes
 
 
 ## Déploiement
-LUCCA est opérationnel dans 5 départements et est utilisé par une centaine de collectivité. 
+LUCCA est opérationnel dans 7 départements et est utilisé régulièrement  par une centaine de collectivité. 
 - 115 utilisateurs actifs mensuels  / 5411 contrôles / 3507 PV,
-- dans l'Hérault, près de 25 communes l'utilisent, 500 contrôles et près de 300 PV ont été réalisés en 2025. 
+- dans l'Hérault, près de 30 communes l'utilisent, 500 contrôles et près de 300 PV ont été réalisés en 2025. 
+
 
 
 ## 2026
 L'objectif est d'augmenter son impact en :
- - déployant à près de 150 nouvelles collectivités 
- - en structurant l'acquisition par de nouveaux formats et canaux et en augmentant l'adhérence, en améliorant le par
-- en développant une nouvelle fonctionnalité : les astreintes administratives et en(police administrative complémentaire à la procédure pénale)
- - en se connectant avec AIGLE (https://beta.gouv.fr/startups/aigle.html), l'outil complémentaires qui détecte les parcelles suspectes
+ - déployant à près de 300 collectivités
+ - en structurant l'acquisition par de nouveaux formats et canaux et en augmentant l'adhérence, 
+- en améliorant le parcours utilisateurs : en cours
+- en développant une nouvelle fonctionnalité : les astreintes administratives et en (police administrative complémentaire à la procédure pénale) : en cours
+ - en se connectant avec AIGLE (https://beta.gouv.fr/startups/aigle.html), l'outil complémentaires qui détecte les parcelles suspectes : FAIT
 
 La sécurité sera renforcée ainsi que les conformités à la protection des données 

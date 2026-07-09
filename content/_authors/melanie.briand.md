@@ -46,6 +46,12 @@ missions:
     employer: NUMA
     startups:
       - coop-biodiv
+  - start: 2026-07-08
+    end: 2026-10-08
+    status: service
+    employer: NUMA
+    startups:
+      - coop-biodiv
 memberType: beta
 link: https://www.linkedin.com/in/m%C3%A9laniebriand/
 competences:

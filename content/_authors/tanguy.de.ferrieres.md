@@ -24,5 +24,10 @@ missions:
     startups:
       - guichet-territorial-pour-la-transition-ecologique
       - lucca
+  - start: 2026-07-07
+    end: 2026-10-07
+    status: independent
+    startups:
+      - aigle
 ---
  

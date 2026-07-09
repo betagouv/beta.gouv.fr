@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/justine-want/
 competences: []
 missions:
-  - start: 2026-05-19
+  - start: 2026-06-01
     end: 2026-10-31
     status: independent
     employer: Malt

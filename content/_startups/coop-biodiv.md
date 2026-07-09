@@ -12,6 +12,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2025-12-01
+  - name: construction
+    start: 2026-07-01
 events:
   - name: product_launch
     date: 2025-12-16
