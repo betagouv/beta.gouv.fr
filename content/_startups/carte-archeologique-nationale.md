@@ -27,21 +27,15 @@ sponsors:
   - /organisations/mc
 phases:
   - name: investigation
-    comment: null
     start: 2025-09-15
-    end: null
   - name: construction
-    comment: null
     start: 2025-12-08
-    end: null
   - name: acceleration
-    comment: null
     start: 2026-08-17
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-07-07
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

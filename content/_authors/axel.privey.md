@@ -17,7 +17,7 @@ missions:
     startups:
       - andv-aerien
   - start: 2025-02-10
-    end: 2026-07-08
+    end: 2026-12-31
     status: admin
     employer: Direction Nationale Garde-Côtes des Douanes
     startups:

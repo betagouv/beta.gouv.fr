@@ -30,10 +30,16 @@ missions:
     startups:
       - umap
   - start: 2026-02-15
-    end: 2026-07-24
+    end: 2026-12-31
     status: independent
     employer: Omnicité
     startups:
       - infomedicament
+  - start: 2026-07-06
+    end: 2026-12-31
+    status: independent
+    employer: Docaposte
+    startups:
+      - gestion.subventions.locales
 competences: []
 ---

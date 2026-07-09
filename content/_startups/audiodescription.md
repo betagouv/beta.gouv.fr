@@ -27,7 +27,7 @@ link: https://audiodescription.beta.gouv.fr/
 repository: https://github.com/betagouv/audiodescription
 sponsors:
   - /organisations/mc
-budget_url: https://audiodescription.beta.gouv.fr/budget
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 stats_url: https://stats.beta.gouv.fr/index.php?module=CoreHome&action=index&idSite=196&period=day&date=yesterday#?period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=1
 impact_url: https://audiodescription.beta.gouv.fr/stats
 ---

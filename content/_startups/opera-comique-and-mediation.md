@@ -18,6 +18,7 @@ events:
   - name: committee
     date: 2026-04-20
     comment: Passage en construction
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 link: ''
 ---
 # Du fonds éditorial à la médiation grand public
