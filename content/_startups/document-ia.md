@@ -24,6 +24,9 @@ events:
   - name: other
     date: 2025-07-31
     comment: Financement FTAP IA
+  - name: product_launch
+    date: 2026-01-01
+    comment: Premier déploiement dans DossierFacile
 repository: https://github.com/betagouv/document-ia
 link: ''
 ---

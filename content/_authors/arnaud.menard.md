@@ -4,11 +4,12 @@ role: Développeur
 domaine: Développement
 missions:
   - start: 2019-03-14
-    end: 2026-07-08
+    end: 2026-12-31
     status: independent
-    employer: Scopyleft
+    employer: Cober
     startups:
       - anais
 previously:
   - sepia
+competences: []
 ---

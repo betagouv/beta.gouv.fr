@@ -11,6 +11,12 @@ missions:
     startups:
       - homologation
       - mes-services-cyber
+  - start: 2026-07-10
+    end: 2026-10-10
+    status: independent
+    employer: Omnicité
+    startups:
+      - document-ia
 memberType: beta
 competences: []
 github: FabGir

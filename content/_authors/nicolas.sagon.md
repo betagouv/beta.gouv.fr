@@ -23,5 +23,11 @@ missions:
     employer: Scopyleft
     startups:
       - document-ia
+  - start: 2026-07-10
+    end: 2026-10-10
+    status: independent
+    employer: Scopyleft
+    startups:
+      - document-ia
 ---
 Développeur mobile ayant évolué vers du full stack. Je suis spécialisé sur la stack Java / Kotlin.

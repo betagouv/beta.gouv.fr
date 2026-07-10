@@ -12,11 +12,10 @@ competences:
 missions:
   - start: 2026-08-17
     end: 2026-12-17
-    employer: RESAH-MALT
     status: independent
+    employer: RESAH-MALT
     startups:
       - territoires-en-transitions
-teams: []
 ---
 CTO à la demande & Expert Web et Cloud - Lead Developer Senior
 

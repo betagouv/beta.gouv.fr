@@ -23,13 +23,13 @@ missions:
     startups:
       - ma-cantine-egalim
   - start: 2023-11-01
-    end: 2026-06-01
+    end: 2026-09-30
     status: independent
-    employer: Malt
+    employer: La Manufacture
     startups:
       - icare-complements-alimentaires
   - start: 2026-02-16
-    end: 2026-08-23
+    end: 2026-09-30
     status: independent
     employer: Malt
     startups:
