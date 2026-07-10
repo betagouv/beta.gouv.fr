@@ -40,6 +40,8 @@ events:
   - name: committee
     date: 2025-07-16
     comment: construction
+  - name: committee
+    date: 2026-07-08
 impact_url: https://pitchou.beta.gouv.fr/stats
 ---
 ## Contexte
@@ -72,7 +74,15 @@ Avant d'inciter les instructeurs à réaliser plus de contrôles, il est indispe
 
 Dès lors que le produit sera adopté par les services instructeurs, car leur apportant suffisamment de valeur au quotidien, l'objectif sera qu'il facilite aussi l'organisation, la planification et le suivi des contrôles.
 
+## Prochaines étapes
+Les objectifs du projet tels qu'ils ont été décidés suite au dernier comité : 
+* déployer pitchou sur toutes les DREAL et DDT d'ici fin 2026 (remplacement de l'outil Onagre)
+* amélioration de l'efficacité du parcours de contrôle, augmentation de l'impact du produit par augmentation du nombre de contrôles
+* lien avec l'outil Gunenv
+
 ## Impact
 
-Pitchou vise à avoir un réel impact sur la biodiversité. Cet impact se mesure grâce à la surface d'habitat et à la population d'une espèce. À ce niveau, on mesure le nombre d'utilisateurices ayant fait au moins un contrôle qui produit un retour à la conformité.
-La page statistiques et mesure d'impact de Pitchou : https://pitchou.beta.gouv.fr/stats
+Pitchou vise le 0 perte net de biodiversité. Cet impact se mesure grâce à la surface d'habitat et à la population d'une espèce. Pour chaque projet, nous essayons de montrer combien d'individus de l'espèce, de nids, ou quelle surface d'habitat sont préservés. Notre hypothèse est que plus il y a de contrôle des dossiers de dérogation plus il y a de retour à la conformité et moins il y a de perte de biodiversité. L'une de nos métriques est donc de mesurer combien de contrôles sont réalisés.
+
+[La page statistiques et mesure d'impact de Pitchou](https://pitchou.beta.gouv.fr/stats)
+

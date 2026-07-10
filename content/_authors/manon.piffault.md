@@ -9,7 +9,7 @@ missions:
     startups:
       - aidantsconnect
   - start: 2024-07-29
-    end: 2026-06-24
+    end: 2026-10-09
     status: independent
     employer: Malt
     startups:

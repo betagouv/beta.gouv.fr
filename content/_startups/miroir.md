@@ -25,6 +25,7 @@ events:
   - name: product_launch
     date: 2026-06-19
 techno: []
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 link: ''
 ---
 

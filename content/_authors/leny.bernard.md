@@ -21,11 +21,10 @@ competences:
 missions:
   - start: 2026-07-07
     end: 2027-01-07
-    employer: RESAH-MALT
     status: independent
+    employer: RESAH-MALT
     startups:
       - territoires-en-transitions
-teams: []
 ---
 Côté perso:
 - Je suis un heureux papa de 5 enfants (j'ai pas dit que c'était simple tous les jours 😂)
