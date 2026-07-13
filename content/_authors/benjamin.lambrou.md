@@ -16,7 +16,6 @@ missions:
     status: independent
     employer: Inops
     startups:
-      - handicompatible
       - ma-communaute-crea
   - start: 2026-05-01
     end: 2026-10-31

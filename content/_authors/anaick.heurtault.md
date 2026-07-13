@@ -11,6 +11,7 @@ missions:
     status: admin
     employer: Incubateur Justice
     startups:
+      - assistant-ia-civil
       - experts
       - investigation-cour-d-appel-de-paris
       - jafer
@@ -18,6 +19,7 @@ missions:
       - precontentieux.justice
       - rdv.mjd
       - romin
+      - stage-direct
 teams:
   - /teams/justice
 ---

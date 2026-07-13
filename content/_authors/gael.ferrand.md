@@ -5,7 +5,7 @@ domaine: Développement
 github: GaelFerrand
 missions:
   - start: 2022-11-28
-    end: 2026-07-31
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

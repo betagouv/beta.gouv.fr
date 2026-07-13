@@ -12,7 +12,7 @@ missions:
     startups:
       - mon-devis-sans-oublis
   - start: 2026-06-01
-    end: 2026-12-01
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:
