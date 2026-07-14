@@ -4,7 +4,7 @@ role: UX designer
 domaine: Design
 missions:
   - start: 2020-09-07
-    end: 2025-12-31
+    end: 2026-12-31
     status: service
     employer: Pôle emploi
     startups:

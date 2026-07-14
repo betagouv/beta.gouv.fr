@@ -12,13 +12,13 @@ missions:
     startups:
       - tdb-apprentissage
   - start: 2025-05-06
-    end: 2026-10-31
+    end: 2026-12-31
     status: independent
     employer: Scopyleft
     startups:
       - ma-cantine-egalim
   - start: 2026-05-22
-    end: 2026-10-31
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

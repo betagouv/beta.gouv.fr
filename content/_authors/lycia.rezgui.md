@@ -1,7 +1,7 @@
 ---
 fullname: Lycia Rezgui
 github: Lycia-r
-role: Chargée de portefeuille social-santé à la Fabrique Numérique des Ministères Sociaux/ Responsable produit Domifa
+role: Responsable produit Domifa
 domaine: Produit
 missions:
   - start: 2021-01-18

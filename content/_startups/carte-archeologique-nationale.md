@@ -31,14 +31,12 @@ phases:
   - name: construction
     start: 2025-12-08
   - name: acceleration
-    start: 2026-08-17
+    start: 2026-07-06
 events:
   - name: product_launch
     date: 2026-07-07
 link: ''
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
 ## Contexte
 
 La carte archéologique nationale est une mission confiée à l'État par le Code du patrimoine (article L522-5) : rassembler et ordonner, pour l'ensemble du territoire, les données archéologiques disponibles. Elle alimente le porter à connaissance, les zones de présomption de prescription archéologique (ZPPA), l'instruction des dossiers d'aménagement et la recherche. Le produit est la première brique du programme BPR de refonte des applications patrimoniales de la ligne Collections (SNUM, ministère de la Culture), copiloté avec la sous-direction de l'archéologie (SDA).

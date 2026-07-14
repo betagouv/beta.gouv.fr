@@ -10,6 +10,12 @@ missions:
     employer: Malt
     startups:
       - infrastructures.numeriques
+  - start: 2026-07-27
+    end: 2026-10-31
+    status: independent
+    employer: Malt
+    startups:
+      - domifa
 badges:
   - segur
 ---

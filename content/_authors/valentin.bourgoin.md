@@ -11,9 +11,12 @@ competences:
   - Python
 missions:
   - start: 2025-04-01
-    end: 2026-11-30
+    end: 2027-01-10
     status: independent
     employer: Malt - Octo Technology
     startups:
       - api-engagement
+      - plateforme-de-l-engagement
 ---
+Double papa nantais, j'essaye de faire des sites internet qui font du bien aux gens et à la planète. 
+Sinon, j'aime courir (vite) et pédaler (longtemps).

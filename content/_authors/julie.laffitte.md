@@ -7,10 +7,8 @@ competences: []
 missions:
   - start: 2026-07-09
     end: 2026-10-09
-    employer: DOCAPOSTE LA MANUFACTURE
     status: service
-    startups: []
-teams: []
+    employer: DOCAPOSTE LA MANUFACTURE
 ---
 17 ans de conseil SIRH (Expert métier, AMOA, Change)
 Nouvellement en charge de l'administration des ventes (marché DINUM)

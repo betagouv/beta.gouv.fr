@@ -13,7 +13,7 @@ competences:
   - UX
 missions:
   - start: 2025-09-23
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
     employer: Start The Fuck Up
   - start: 2026-05-12
