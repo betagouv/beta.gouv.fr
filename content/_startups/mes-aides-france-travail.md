@@ -37,6 +37,9 @@ techno:
   - react
 stats_url: https://metabase.beta.francetravail.fr/public/dashboard/7eb440d5-4ca4-458f-8b86-5c8e6fead9c0
 impact_url: https://docs.numerique.gouv.fr/docs/89e251dc-2533-4f42-9d80-4c5f68066840/
+budget_url: https://docs.numerique.gouv.fr/docs/c783a7e7-a89f-41b0-83af-541a7539e16c/
+repository: https://git.beta.francetravail.fr/clara
+contact_dinum: thibault.desjardins
 ---
 ## Contexte
 
@@ -54,4 +57,4 @@ Mes Aides répond à cette problématique en créant une plateforme unique pour 
 
 ## Stratégie
 
-Dans un premier temps, nous visons la levée du frein à la mobilité. Aujourd’hui, nous proposons plus de 1800 solutions de mobilités sur notre plateforme à destination des demandeurs d’emploi, avec une stratégie de maillage territorial.
+Dans un premier temps, nous visons la levée du frein à la mobilité. Aujourd’hui, nous proposons plus de 4500 solutions sur notre plateforme à destination des demandeurs d’emploi, avec une stratégie de maillage territorial.

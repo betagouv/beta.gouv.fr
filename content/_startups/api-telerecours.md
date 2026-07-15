@@ -14,13 +14,11 @@ sponsors:
   - /organisations/conseil-d-etat
 phases:
   - name: investigation
-    comment: null
     start: 2026-09-07
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-07-10
+link: ''
 ---
 ## Contexte
 Télérecours est la plateforme du Conseil d'État qui centralise les échanges avec les juridictions administratives ainsi que les données relatives aux contentieux administratifs. Ces données sont utilisées par de nombreux acteurs, notamment les ministères, pour assurer le suivi de leurs procédures contentieuses et alimenter leurs outils métiers.

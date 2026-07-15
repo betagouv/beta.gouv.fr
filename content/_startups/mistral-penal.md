@@ -51,11 +51,11 @@ usertypes:
 techno:
   - angular
   - symfony
-budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+budget_url: https://docs.numerique.gouv.fr/docs/8ed06f6a-d613-4311-a63f-1904f3548985/
 link: https://mistralpenal.beta.gouv.fr/
-stats_url: https://mistralpenal.beta.gouv.fr/nos-statistiques/les-statistiques-dusage/
+stats_url: https://docs.numerique.gouv.fr/docs/8ed06f6a-d613-4311-a63f-1904f3548985/
 repository: https://github.com/betagouv/Mistral-penal
-impact_url: https://mistralpenal.beta.gouv.fr/nos-statistiques/les-statistiques-dimpact/
+impact_url: https://docs.numerique.gouv.fr/docs/8ed06f6a-d613-4311-a63f-1904f3548985/
 ---
 ## **Contexte**
 

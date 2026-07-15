@@ -26,7 +26,7 @@ missions:
     startups:
       - oots.once-only.technical.system
   - start: 2025-05-19
-    end: 2026-07-31
+    end: 2026-08-28
     status: independent
     employer: Malt
     startups:
