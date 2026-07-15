@@ -17,11 +17,13 @@ events:
     comment: Passage en expérimentation
   - name: committee
     date: 2026-05-20
+    comment: 2eme expérimentation
 usertypes:
   - Entrepreneurs inscrits à France Travail
 techno: []
 contact_dinum: thibault.desjardins
 contact_incubator: chloe.sangaria
+impact_url: https://docs.numerique.gouv.fr/docs/d8d0377b-71a5-4632-9b37-b6f799e253e7/
 link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 

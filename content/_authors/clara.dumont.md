@@ -5,6 +5,12 @@ domaine: Produit
 link: https://www.linkedin.com/in/clara-dumont-964894121/
 missions:
   - start: 2021-03-29
+    end: 2023-07-29
+    status: independent
+    employer: Malt
+    startups:
+      - dossierfacile
+  - start: 2022-09-21
     end: 2026-08-31
     status: admin
     employer: Malt

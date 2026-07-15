@@ -8,7 +8,7 @@ missions:
     end: 2026-05-15
     status: admin
   - start: 2026-05-04
-    end: 2026-08-04
+    end: 2026-10-31
     status: admin
     startups:
       - ecco

@@ -3,12 +3,12 @@ title: L'Atelier Numérique du Ministère de l'Europe et des Affaires Etrangère
 short_description: Lancé en janvier 2021, cet incubateur s’engage à faciliter au quotidien les <span class="fr-text--bold">procédures pour les Français et Françaises de l’étranger</span>.
 owner: /organisations/meae
 logo: logo_meae.png
-website:
+website: ''
 contact: atelier.numerique@diplomatie.gouv.fr
 address: 27 rue de la Convention, Paris 15e
 highlighted_startups:
-    - open-terms-archive
-    - expresso
+  - open-terms-archive
+  - ecco
+github: ''
 ---
-
-Lancé en janvier 2021, cet incubateur s’engage à faciliter au quotidien les <span class="fr-text--bold">procédures pour les Français et Françaises de l’étranger</span>.
+Lancé en janvier 2021, cet incubateur s’engage à faciliter au quotidien les <span class="fr-text--bold">procédures pour les Français et Françaises de l’étranger</span> et le travail de ses agents.

@@ -1,9 +1,15 @@
 ---
 fullname: Jessica Kossibale
-role: Développeuse
+role: Développeuse Full Stack
 domaine: Développement
 github: jessicakossibale
-competences: []
+competences:
+  - Développement Frontend
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - UX
+  - UI
+  - Accessibilité
 missions:
   - start: 2024-11-26
     end: 2025-02-28
@@ -12,10 +18,12 @@ missions:
     startups:
       - mon-devis-sans-oublis
   - start: 2026-06-01
-    end: 2026-12-01
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:
       - fondation
 link: https://www.linkedin.com/in/jessicakossibale/
 ---
+Développeuse web & mobile, spécialisée en React, Next.js, React Native et TypeScript.
+Front de spécialité, fullstack quand le produit le demande : je développe l'API que consomment mes écrans (Node.js, NestJS, PostgreSQL).

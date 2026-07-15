@@ -11,8 +11,9 @@ missions:
       - osirispn
       - sepia
   - start: 2026-04-13
-    end: 2026-09-30
+    end: 2026-12-31
     status: independent
+    employer: Malt
     startups:
       - data-subvention
 incubator: fabnumdef

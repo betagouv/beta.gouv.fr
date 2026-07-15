@@ -41,4 +41,4 @@ teams:
   - /teams/lab-mi
 github: clairebrrd
 ---
-Product owner innovation et IA / Chargée de mission coaching agile et communication innovation - facilitatrice d'ateliers de design thinking à la DTNUM - MI
+Product Owner | Coaching produit & agile | Innovation numérique & Transformation publique | IA 
