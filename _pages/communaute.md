@@ -5,6 +5,7 @@ title: Notre communauté
 additional_css:
   - community-chart.css
   - communaute.css
+robots: noindex
 additional_js:
   - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.min.js
   - https://cdn.jsdelivr.net/npm/moment@2.27.0
