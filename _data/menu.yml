@@ -13,12 +13,12 @@ nav:
     target: _pages/incubateurs.md
   - label: Services numériques
     target: _pages/realisations.md
-  - label: Accompagnements
+  - label: Dispositifs
     children:
+      - label: Entrepreneur·e·s d'intérêt général
+        target: _pages/eig.md
       - label: Programme de consolidation
         target: _pages/accompagnements/programme-de-consolidation.md
-      - label: EIG
-        target: _pages/eig.md
   - label: Communauté
     target: _pages/communaute.md
   - label: Nous rejoindre
