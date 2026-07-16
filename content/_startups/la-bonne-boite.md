@@ -6,7 +6,7 @@ sponsors:
 incubator: francetravail
 link: https://labonneboite.francetravail.fr/
 repository: 'https://github.com/StartupsPoleEmploi/labonneboite '
-contact: labonneboite@francetravail.fr
+contact: contact.00040@francetravail.fr
 accessibility_status: non conforme
 redirect_from:
   - /startups/labonneboite
@@ -24,17 +24,20 @@ phases:
     start: 2015-05-01
   - name: acceleration
     start: 2023-01-19
-  - name: transfere
-    start: 2024-12-01
 stats_url: https://labonneboite.francetravail.fr/stats
 thematiques:
   - Travail / Emploi
-techno: []
+techno:
+  - angular
+  - nestjs
+  - python
 impact_url: https://docs.numerique.gouv.fr/docs/3a002190-761f-4802-8171-e462e538b712/
+budget_url: https://docs.numerique.gouv.fr/docs/f2ef74e5-db60-4dc8-a780-e848aa6f2206/
+contact_dinum: thibault.desjardins
 ---
 **Le saviez-vous ?**
 
-Le marché caché de l’emploi représente **plus de 40% des recrutements** ( Sur 7 millions de recrutement , 3 millions s'est fait via la marché caché en 2020)!
+Le marché caché de l’emploi représente **plus de 40% des recrutements** ( Sur 7 millions de recrutement , 3 millions s'est fait via la marché caché en 2025)!
 
 **Le produit :**
 

@@ -8,5 +8,4 @@ missions:
     end: 2026-11-30
     status: independent
     employer: ut7
-    startups: []
 ---

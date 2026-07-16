@@ -7,7 +7,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2024-10-08
-    end: 2026-06-30
+    end: 2027-06-30
     status: admin
     employer: Cerema
     startups:

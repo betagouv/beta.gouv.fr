@@ -12,9 +12,8 @@ competences:
 missions:
   - start: 2026-07-09
     end: 2026-12-31
-    employer: Octo
     status: service
+    employer: Octo
     startups:
       - agrements-assistants-maternels-et-familiaux
-teams: []
 ---

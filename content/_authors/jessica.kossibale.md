@@ -25,5 +25,3 @@ missions:
       - fondation
 link: https://www.linkedin.com/in/jessicakossibale/
 ---
-Développeuse web & mobile, spécialisée en React, Next.js, React Native et TypeScript.
-Front de spécialité, fullstack quand le produit le demande : je développe l'API que consomment mes écrans (Node.js, NestJS, PostgreSQL).

@@ -5,7 +5,7 @@ domaine: Design
 link: https://hanazarrouk.com/
 missions:
   - start: 2024-03-25
-    end: 2026-07-25
+    end: 2026-10-25
     status: independent
     employer: MonServiceSécurisé
     startups:
