@@ -1,5 +1,5 @@
 ---
-contact: lucie.zaccardi@numerique.gouv.fr
+contact: angele.chapoullie@sports.gouv.fr
 thematiques: []
 usertypes:
   - association

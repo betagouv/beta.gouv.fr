@@ -5,7 +5,7 @@ github: '21072021'
 domaine: Animation
 missions:
   - start: 2021-09-01
-    end: 2026-10-31
+    end: 2026-12-29
     status: independent
     employer: Octo
     startups:

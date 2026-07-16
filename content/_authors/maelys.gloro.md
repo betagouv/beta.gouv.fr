@@ -18,7 +18,7 @@ missions:
     status: admin
     employer: SGAR Bretagne et DITP
   - start: 2026-05-04
-    end: 2026-10-30
+    end: 2026-12-31
     status: independent
     employer: Mednum
     startups:

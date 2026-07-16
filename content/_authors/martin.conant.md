@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2026-07-13
     end: 2026-10-13
-    employer: CDLC
     status: independent
+    employer: CDLC
     startups:
       - seves
-teams: []
 ---

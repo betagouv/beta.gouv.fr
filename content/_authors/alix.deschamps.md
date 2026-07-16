@@ -6,7 +6,7 @@ github: alixdeschamps
 competences: []
 missions:
   - start: 2025-10-27
-    end: 2026-03-26
+    end: 2026-12-26
     status: independent
     employer: Malt
     startups:
