@@ -17,4 +17,4 @@ missions:
     startups:
       - la-bonne-alternance
 ---
-Donner du sens à la data pour transformer la vie des alternants. Mon rôle est de convertir nos indicateurs en décisions stratégiques à fort impact social
+ Mon rôle est de convertir nos données en indicateurs qui aident à prendre des décisions stratégiques et opérationnelles à fort impact social
