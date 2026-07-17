@@ -4,10 +4,11 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-09-04
-    end: 2026-07-31
+    end: 2026-12-31
     status: independent
     employer: DINUM
     startups:
+      - suite-numerique
       - tchap
 memberType: beta
 competences: []

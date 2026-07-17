@@ -1,5 +1,5 @@
 ---
-fullname: Anouk DIMET MOHAMMED
+fullname: Anouk Dimet
 role: Product designer
 domaine: Design
 link: https://www.linkedin.com/in/anouk-dimet-162932b1/

@@ -4,7 +4,7 @@ role: Coach / Designer
 domaine: Design
 missions:
   - start: 2024-01-12
-    end: 2026-07-31
+    end: 2026-12-31
     status: independent
     employer: DINUM
 memberType: beta

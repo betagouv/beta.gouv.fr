@@ -10,7 +10,7 @@ incubator: culture
 contact_incubator: chloe.boutevin
 phases:
   - name: investigation
-    start: 2026-07-01
+    start: 2026-06-01
 events:
   - name: other
     date: 2026-06-25

@@ -1,6 +1,6 @@
 ---
 fullname: Mehdi Louraoui
-role: Développeur Fullstack JS
+role: Développeur Fullstack
 domaine: Développement
 link: https://github.com/mehdilouraoui
 github: mehdilouraoui
@@ -21,9 +21,15 @@ missions:
     end: 2026-05-29
     status: independent
     employer: Malt
+  - start: 2026-07-16
+    end: 2027-01-16
+    status: independent
+    employer: Resah/Malt
+    startups:
+      - territoires-en-transitions
 incubator: ademe
 competences:
   - Développement Backend
   - Développement Frontend
 ---
-Développeur Fullstack JS
+Développeur Fullstack 
