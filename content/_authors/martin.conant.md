@@ -12,4 +12,5 @@ missions:
     employer: CDLC
     startups:
       - seves
+github: cosmicomics
 ---

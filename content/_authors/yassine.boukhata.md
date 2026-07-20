@@ -1,5 +1,5 @@
 ---
-fullname: Yassine BOUKHATA
+fullname: Yassine
 role: développeur
 domaine: Développement
 competences: []

@@ -5,6 +5,9 @@ domaine: Design
 link: https://www.linkedin.com/in/ugo-disabatino/
 competences:
   - Product design
+  - UX
+  - UI
+  - Product strategy
 missions:
   - start: 2026-07-03
     end: 2026-10-03

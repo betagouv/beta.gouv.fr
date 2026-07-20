@@ -6,9 +6,10 @@ link: https://www.linkedin.com/in/laure-elise-magdelain-45637796/?originalSubdom
 competences: []
 missions:
   - start: 2025-02-05
-    end: 2027-01-04
+    end: 2027-01-19
     status: independent
     employer: Fairness
     startups:
       - boris
+      - urban-simul
 ---

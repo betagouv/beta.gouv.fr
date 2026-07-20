@@ -21,12 +21,12 @@ phases:
 events:
   - name: product_launch
     date: 2026-02-12
+contact_incubator: perrine.rutkowski
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
 ## Contexte
 
-Depuis 11 ans, le Cerema développer UrbanSimul un outil de cartographie web qui permet de visualiser les données foncières à destination des collectivités pour œuvrer à leur plan d'aménagement dans un objectif de sobriété foncière et de ZAN.
+Depuis 11 ans, le Cerema développe UrbanSimul un outil de cartographie web qui permet de visualiser les données foncières à destination des collectivités pour œuvrer à leur plan d'aménagement dans un objectif de sobriété foncière et de ZAN.
 
 ## Problème
 

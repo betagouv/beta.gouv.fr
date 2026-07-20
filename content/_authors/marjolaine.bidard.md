@@ -5,7 +5,7 @@ domaine: Design
 link: https://www.linkedin.com/in/marjobidard/
 missions:
   - start: 2024-01-01
-    end: 2026-05-31
+    end: 2026-12-31
     status: independent
     employer: Pole emploi
     startups:
@@ -23,7 +23,7 @@ missions:
     startups:
       - one-trick-pony
   - start: 2026-05-11
-    end: 2026-08-11
+    end: 2026-12-11
     status: independent
     employer: La ruche numérique
     startups:

@@ -14,7 +14,12 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - bambin
       - guichet-territorial-pour-la-transition-ecologique
+  - start: 2025-07-15
+    end: 2026-07-20
+    status: independent
+    employer: Malt
+    startups:
+      - bambin
 ---
 Product Designer UX /UI - TerriStory à Lyon
