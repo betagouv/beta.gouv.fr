@@ -16,7 +16,7 @@ missions:
     startups:
       - agents.en.intervention
   - start: 2026-01-05
-    end: 2026-06-29
+    end: 2026-12-29
     status: independent
     employer: Malt
     startups:
