@@ -5,7 +5,7 @@ role: Chargée de déploiement
 github: bettinalbc
 missions:
   - start: 2025-09-01
-    end: 2026-06-30
+    end: 2026-12-31
     status: independent
     employer: Octo/Malt
     startups:
@@ -20,4 +20,4 @@ competences:
   - Communication
 link: https://www.linkedin.com/in/bettinaleblanc/
 ---
-Chargée de déploiement @Booster-Conseil et @Plus fraîche ma ville
+Chargée de déploiement @Plus fraîche ma ville

@@ -32,6 +32,7 @@ events:
     comment: Lancement du module Alimentaire (évènement Produits & cas + TIAC & plaintes)
 budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=S%C3%A8ves
 impact_url: https://seves-metabase.osc-secnum-fr1.scalingo.io/public/dashboard/e61b18c6-daf1-410d-acb7-d58834e7094d
+stats_url: https://seves-metabase.osc-secnum-fr1.scalingo.io/public/dashboard/677dd8f6-0398-4410-956e-64904d8acfa1?tab=16-sant%C3%A9-des-v%C3%A9g%C3%A9taux
 ---
 ## Le contexte
 

@@ -66,15 +66,6 @@ Fondation contribue directement aux missions fondamentales du CSM :
 Notre vision est de faire de Fondation le socle numérique d'un CSM plus fort et plus efficace, pour une justice indépendante et réactive. Le déploiement se fait en phases progressives. Nous visons une application adressant toute la chaîne des nominations d’ici décembre 2025.
 
 
-## L'équipe
-
-* Alice Maintigneux - Intrapreneure, Secrétaire Générale Adjointe du CSM
-* Rémi Boureau-Lienard - Co-intrapreneur, Responsable Numérique du CSM
-* Jordan Quagliatini - Développeur senior
-* Julien Maupetit - Mentor technique
-* Alexandra Le Borgne - Coach produit
-
-
 ## Sponsors
 
 * Xavier Serrier - Secrétaire général du CSM, Sponsor de proximité
