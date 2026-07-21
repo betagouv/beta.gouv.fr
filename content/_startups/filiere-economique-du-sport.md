@@ -18,6 +18,7 @@ phases:
 events:
   - name: product_launch
     date: 2026-04-22
+contact_dinum: lucie.zaccardi
 link: ''
 ---
 

@@ -8,7 +8,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2026-03-02
-    end: 2026-06-02
+    end: 2026-12-21
     status: independent
     employer: Ut7
     startups:

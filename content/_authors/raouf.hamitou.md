@@ -13,9 +13,10 @@ competences:
   - Slack
   - Support client
   - Trello
+  - Brevo
 missions:
   - start: 2025-02-20
-    end: 2026-11-30
+    end: 2026-12-31
     status: independent
     employer: Crème de la crème
     startups:

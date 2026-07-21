@@ -21,6 +21,7 @@ events:
   - name: product_launch
     date: 2025-10-08
 techno: []
+contact_dinum: lucie.zaccardi
 link: ''
 ---
 ## Contexte

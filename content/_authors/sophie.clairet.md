@@ -19,7 +19,7 @@ missions:
     startups:
       - umap
   - start: 2025-01-06
-    end: 2026-07-28
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:
@@ -37,9 +37,15 @@ missions:
     startups:
       - voies-locales-en-commun
   - start: 2026-06-05
-    end: 2026-09-05
+    end: 2026-07-12
     status: independent
     employer: LittleBigConnection
+    startups:
+      - viz-eau
+  - start: 2026-06-22
+    end: 2026-11-30
+    status: independent
+    employer: Creme de la Creme
     startups:
       - viz-eau
 badges:

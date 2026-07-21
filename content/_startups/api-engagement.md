@@ -28,6 +28,7 @@ thematiques:
 techno: []
 repository: https://github.com/betagouv/api-engagement
 impact_url: https://docs.numerique.gouv.fr/docs/160c789f-dad3-47be-a02f-36f31a0dc389/
+contact_dinum: lucie.zaccardi
 ---
 ## Qu'est-ce que l'API Engagement?
 

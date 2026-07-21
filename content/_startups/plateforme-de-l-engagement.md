@@ -21,6 +21,7 @@ events:
   - name: product_launch
     date: 2026-02-20
 techno: []
+contact_dinum: lucie.zaccardi
 link: ''
 ---
 
