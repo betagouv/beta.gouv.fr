@@ -7,7 +7,7 @@ missions:
   - start: 2022-10-01
     end: 2027-10-01
     status: admin
-    employer: DJEPVA - MIN EDUC
+    employer: DJEPVA - Ministère des sports, de la jeunesse et de la vie associative
     startups:
       - data-subvention
 badges:

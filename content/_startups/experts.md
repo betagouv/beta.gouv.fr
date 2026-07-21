@@ -30,6 +30,7 @@ impact_url: https://docs.numerique.gouv.fr/docs/687ceb61-b8d9-407c-9a1a-e7d37365
 events:
   - name: national_impact
     date: 2026-04-02
+contact_dinum: julie.guyot
 ---
 ## Problème
 

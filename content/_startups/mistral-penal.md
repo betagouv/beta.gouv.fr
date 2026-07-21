@@ -56,6 +56,7 @@ link: https://mistralpenal.beta.gouv.fr/
 stats_url: https://docs.numerique.gouv.fr/docs/8ed06f6a-d613-4311-a63f-1904f3548985/
 repository: https://github.com/betagouv/Mistral-penal
 impact_url: https://docs.numerique.gouv.fr/docs/8ed06f6a-d613-4311-a63f-1904f3548985/
+contact_dinum: julie.guyot
 ---
 ## **Contexte**
 

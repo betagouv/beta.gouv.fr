@@ -38,6 +38,8 @@ thematiques:
   - Justice
 mon_service_securise: true
 techno: []
+impact_url: https://docs.numerique.gouv.fr/docs/df246889-09ca-4b6c-999d-109c8f3ca01c/
+contact_dinum: julie.guyot
 ---
 <!--StartFragment-->
 

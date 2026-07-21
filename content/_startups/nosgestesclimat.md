@@ -47,7 +47,7 @@ fast:
 thematiques:
   - Écologie
 mon_service_securise: true
-impact_url: https://nosgestesclimat.fr/stats
+impact_url: https://fichiers.numerique.gouv.fr/explorer/items/files/f07209c5-c12d-413e-b99d-e7603003bf19
 ---
 ## Contexte
 

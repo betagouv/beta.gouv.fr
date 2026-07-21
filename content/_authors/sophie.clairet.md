@@ -37,7 +37,7 @@ missions:
     startups:
       - voies-locales-en-commun
   - start: 2026-06-05
-    end: 2026-07-12
+    end: 2026-06-12
     status: independent
     employer: LittleBigConnection
     startups:
