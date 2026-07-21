@@ -10,13 +10,13 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2024-09-30
-    end: 2026-10-31
+    end: 2026-12-31
     status: service
     employer: La Zone
     startups:
       - boris
   - start: 2024-09-30
-    end: 2026-07-28
+    end: 2026-12-31
     status: service
     employer: La Zone
 ---

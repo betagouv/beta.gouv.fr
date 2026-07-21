@@ -35,6 +35,7 @@ thematiques:
   - Démocratie
 techno: []
 impact_url: https://docs.numerique.gouv.fr/docs/f293217b-89c1-4005-995f-6f11ed694531/
+contact_dinum: lucie.zaccardi
 ---
 ## **🧩 Contexte**
 

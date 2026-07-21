@@ -22,7 +22,7 @@ missions:
       - mon-suivi-justice
       - sndv_maritime
   - start: 2026-02-12
-    end: 2026-08-12
+    end: 2026-12-31
     status: independent
     employer: Dynergie
     startups:

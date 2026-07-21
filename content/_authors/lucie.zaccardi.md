@@ -13,11 +13,15 @@ missions:
     status: admin
     employer: DINUM
   - start: 2026-05-12
-    end: 2026-08-12
+    end: 2026-07-21
     status: admin
     employer: DINUM
     startups:
       - metiers-du-sport
+  - start: 2026-05-12
+    end: 2026-08-12
+    status: admin
+    employer: DINUM
 memberType: beta
 competences:
   - Coaching
