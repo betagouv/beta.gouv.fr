@@ -17,7 +17,7 @@ missions:
     startups:
       - collectif_objets
   - start: 2024-03-05
-    end: 2026-06-30
+    end: 2026-10-30
     status: independent
     employer: NUMA
     startups:
@@ -41,7 +41,7 @@ missions:
     startups:
       - durabilite-de-la-biomasse
   - start: 2025-06-17
-    end: 2026-10-30
+    end: 2026-11-30
     status: independent
     employer: NUMA
     startups:

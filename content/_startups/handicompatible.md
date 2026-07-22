@@ -65,6 +65,7 @@ Go, lancer une expérimentation frugale (Excel + assistant conversationnel IA) p
 1. Repérer **les capacités fonctionnelles**
 2. **Comparer une offre avec un profil**
 3. Identifier **les conditions favorables** d'accès au poste
+
 ---
 ## **🧪L'expérimentation**
 **Nous avons testé à petite échelle en mode A/B testing🔬**

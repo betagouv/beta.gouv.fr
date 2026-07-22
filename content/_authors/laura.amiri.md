@@ -16,6 +16,12 @@ missions:
     startups:
       - guichet-territorial-pour-la-transition-ecologique
       - territoires-en-transitions
+  - start: 2026-07-22
+    end: 2026-12-09
+    status: independent
+    employer: Dynergie, Numa
+    startups:
+      - chauffage-urbain
 badges:
   - segur
 competences: []

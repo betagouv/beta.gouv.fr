@@ -1,5 +1,5 @@
 ---
-fullname: Yassine
+fullname: Yassine Nedja
 role: développeur
 domaine: Développement
 competences: []
