@@ -23,6 +23,7 @@ events:
     date: 2025-06-12
   - name: committee
     date: 2025-12-03
+contact_dinum: julie.guyot
 link: ''
 ---
 ## Contexte

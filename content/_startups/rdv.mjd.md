@@ -14,6 +14,9 @@ phases:
     start: 2022-11-17
 thematiques:
   - Justice
+usertypes: []
+techno: []
+contact_dinum: julie.guyot
 link: ''
 ---
 ## Contexte

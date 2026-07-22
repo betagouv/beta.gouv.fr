@@ -25,6 +25,7 @@ stats_url: https://jafer.beta.gouv.fr/chiffres-cles
 dashlord_url: https://dashlord.incubateur.net/url/jafer-beta-gouv-fr/best-practices/
 budget_url: https://pad.numerique.gouv.fr/s/WYougVwWu#JAFER
 techno: []
+contact_dinum: julie.guyot
 ---
 ## Contexte
 

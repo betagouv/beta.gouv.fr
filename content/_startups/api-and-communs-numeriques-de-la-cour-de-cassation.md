@@ -22,6 +22,7 @@ phases:
 events:
   - name: product_launch
     date: 2025-09-15
+contact_dinum: julie.guyot
 link: ''
 ---
 ## Contexte

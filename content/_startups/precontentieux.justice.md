@@ -21,6 +21,7 @@ techno:
   - php
   - react
 stats_url: https://metabase.mon-indemnisation.anje-justice.fr/public/dashboard/fee3713d-0a50-4b3c-8dd5-1ecea851e1a2
+contact_dinum: julie.guyot
 ---
 ## Contexte
 

@@ -53,6 +53,7 @@ techno:
   - nuxt.js
   - vue
 impact_url: https://romin.beta.gouv.fr/stats?source=externe
+contact_dinum: julie.guyot
 link: ''
 ---
 
