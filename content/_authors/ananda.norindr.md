@@ -11,6 +11,11 @@ missions:
     startups:
       - cestquilepro
       - exposition-ij
+  - start: 2026-07-23
+    end: 2026-10-23
+    status: independent
+    startups:
+      - sami
 memberType: beta
 competences: []
 ---

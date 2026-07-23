@@ -2,7 +2,7 @@
 mission: Améliorer l’orientation des lycéens en amont de Parcoursup
 incubator: dinum
 title: MonProjetSup
-contact: hugo.gimbert@beta.gouv.fr
+contact: laura.setti@onisep.fr
 sponsors:
   - /organisations/mesr
   - /organisations/onisep
@@ -13,6 +13,8 @@ phases:
     start: 2024-03-11
   - name: acceleration
     start: 2024-12-10
+  - name: transfere
+    start: 2025-05-03
 accessibility_status: partiellement conforme
 link: https://monprojetsup.fr/
 thematiques:

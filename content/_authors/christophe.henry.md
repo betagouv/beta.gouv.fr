@@ -20,6 +20,10 @@ missions:
     employer: La Zone
     startups:
       - seves
+  - start: 2026-07-27
+    end: 2026-12-31
+    status: independent
+    employer: Développeur
 competences:
   - Développement Backend
   - Développement Frontend
