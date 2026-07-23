@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: magali.migeon@herault.gouv.fr
+contact: contact@lucca.beta.gouv.fr
 link: https://lucca.din.developpement-durable.gouv.fr/
 thematiques:
   - Collectivités
@@ -34,6 +34,7 @@ sponsors:
   - /organisations/dhup
 repository: https://github.com/MTES-MCT/Lucca
 impact_url: https://docs.numerique.gouv.fr/docs/9dbd4f9c-eff4-4de7-bc55-5ca88bc89bbd/
+stats_url: https://metabase.aigle.beta.gouv.fr/public/dashboard/26a0d1cc-111a-45ec-9f2b-3a0fb79626e1
 ---
 
 ## Contexte

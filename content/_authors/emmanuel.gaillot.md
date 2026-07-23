@@ -26,9 +26,15 @@ missions:
     startups:
       - oots.once-only.technical.system
   - start: 2025-05-19
-    end: 2026-08-28
+    end: 2026-06-30
     status: independent
     employer: Malt
+    startups:
+      - carbure
+  - start: 2026-07-01
+    end: 2026-12-31
+    status: independent
+    employer: La Manufacture - Docaposte
     startups:
       - carbure
 competences: []

@@ -26,6 +26,15 @@ events:
     date: 2024-05-23
   - name: committee
     date: 2024-12-03
+  - name: eig
+    date: 2025-01-07
+    comment: Arrivée d'une EIG comme intrapreneure
+  - name: committee
+    date: 2025-05-21
+  - name: committee
+    date: 2025-12-09
+  - name: committee
+    date: 2026-05-06
 phases:
   - name: consolidation
     comment: Spin-off de Datagir
@@ -47,7 +56,8 @@ fast:
 thematiques:
   - Écologie
 mon_service_securise: true
-impact_url: https://fichiers.numerique.gouv.fr/explorer/items/files/f07209c5-c12d-413e-b99d-e7603003bf19
+impact_url: https://fichiers.numerique.gouv.fr/explorer/items/files/11dd2271-0202-439c-a14e-9bddbfa858cf
+contact_dinum: mathilde.le-roy
 ---
 ## Contexte
 
