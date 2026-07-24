@@ -22,7 +22,7 @@ missions:
     startups:
       - document-ia
   - start: 2025-09-22
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
     employer: Scopyleft
 competences:

@@ -19,19 +19,13 @@ sponsors:
   - /organisations/cerema
 phases:
   - name: investigation
-    comment: null
     start: 2024-09-09
-    end: null
   - name: construction
-    comment: null
     start: 2025-09-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2025-09-17
   - name: committee
-    comment: ''
     date: 2026-03-06
 ---
 ## Contexte

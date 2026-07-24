@@ -69,3 +69,41 @@ Les réponses d'urgence sont parfois nécessaires mais elles ne suffisent pas 
 ## Cible prioritaire 
 Élus et agents de collectivités territoriales (chargés de mission transition écologique, chefs de projet adaptation climatique, responsables urbanisme/aménagement) dans des communes de plus de 5 000 habitants, souvent seuls sur le sujet et sans expertise préalable en rafraîchissement urbain (estimé à ~2 300 agents de collectivités en France). 
 Le service s'adresse aussi aux communes plus petites, moins touchées par l'îlot de chaleur urbain du fait d'une urbanisation moins dense, mais qui doivent tout de même protéger leurs habitants lors des vagues de chaleur.
+
+Cible de déploiement :  **1200 utilisateurs qualifiés d’ici à fin 2027** 
+
+## Nos prochaines étapes :
+
+- Restructuration du produit d’une logique de rétention vers une logique de création de projet guidée = solidifier les fondations du produit et préparer l’accélération
+- Poursuite des accompagnements portés par nos prescripteurs en Direction régionale de l’ADEME : offre complémentaire au service numérique qui permet d’entretenir des relations privilégiées avec nos cibles
+- Accélérer l’acquisition de nouveaux utilisateurs qualifiés
+
+
+
+### Objectifs fixés en Comité d’investissement du 5 mai 2026 :
+
+Objectif 1 : faire connaître PFMV à un maximum d’agents cibles
+
+→ 4 nouveaux prescripteurs / mois
+
+→ 100% des Régions ont un prescripteur actif (hors DR)
+
+Objectif 2 : valider et enrichir le persona
+
+→ 10 rencontres utilisateurs par l’équipe produit
+
+→ +15 retours d’utilisateurs qualifiés utiles dans l’évolution du produit
+
+Objectif 3 : massifier l’utilisation des fonctionnalités clés
+
+→ 40 nouveaux projets simulés par mois (vs 20 aujourd’hui)
+
+→ 65% de nouveaux inscrits ont un projet (vs. 41% aujourd’hui)
+
+Objectif 4 : favoriser la prise de hauteur & le diagnostic
+
+→ 15 téléchargements de la synthèse PFMV / mois
+
+→ +15 signatures de chartes PFMV
+
+
