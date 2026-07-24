@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-07-22
     end: 2026-10-22
-    employer: Incubateur de la Justice
     status: admin
+    employer: Incubateur de la Justice
     startups:
       - stage-direct
-teams: []
 ---

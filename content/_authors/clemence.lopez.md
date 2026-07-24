@@ -21,12 +21,17 @@ missions:
       - je-deviens-etudiant
       - lutte.contre.le.harcelement.en.milieu.scolaire
       - monlyceepro
-      - monprojetsup
       - parasport
       - pilotagevoiepro
       - plateforme-d-admission-au-doctorat
       - sante-psy-etudiant
       - valorisation.des.stages.pro
+  - start: 2022-03-15
+    end: 2026-07-23
+    status: admin
+    employer: Dinum
+    startups:
+      - monprojetsup
   - start: 2022-03-15
     end: 2026-05-12
     status: admin
