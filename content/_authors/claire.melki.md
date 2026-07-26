@@ -7,9 +7,8 @@ competences: []
 missions:
   - start: 2026-08-31
     end: 2026-12-31
-    employer: DJEPVA
     status: independent
+    employer: DJEPVA
     startups:
       - plateforme-de-l-engagement
-teams: []
 ---

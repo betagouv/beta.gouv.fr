@@ -63,12 +63,22 @@ Distinguer ce qui est autorisé de ce qui ne l’est pas dans le domaine des com
 
 Pour assurer une circulation des compléments alimentaires conformes (et donc déclarés), Compl’alim permet de : 
 
-- 🤝 **Autonomiser et responsabiliser les professionnels** du secteur en leur fournissant les ressources et outils nécessaire à une déclaration répondants aux exigences réglementaires
-- 🗂️ **Faciliter et fluidifier l’examen** des déclarations de compléments alimentaires pour les agents de la DGAl leur laissant plus de temps pour la veille réglementaire
-- 🔎Faciliter les **missions de contrôle et d'évaluation du risque** en fluidifiant le partage d’information entre la DGAl et ses services déconcentrés mais aussi l’ANSES et la DGCCRF
-- 🛒 Permettre à tous les acteurs de la chaîne de distribution de s’assurer du niveau de conformité des compléments alimentaires via l’[opendata des déclarations de compléments alimentaires.](https://www.data.gouv.fr/datasets/declarations-de-complements-alimentaires/)
+🤝 Autonomiser et responsabiliser les professionnels du secteur en leur fournissant les ressources et outils
+
+🗂️ Faciliter et fluidifier l’examen des déclarations de compléments alimentaires
+
+🔎Faciliter les missions de contrôle et d'évaluation du risque en fluidifiant le partage d’information
+
 
 Compl’alim est en cours de pérennisation au service des services de la DGAl.
+
+
+### Les prochaines étapes :
+ 
+- Accompagner la consolidation de Compl'alim au sein du portefeuille produit de la DGAL dans un contexte de diffusion progressive de la méthode produit en interne de l'administration
+- Organiser avec La Ruche Numérique le passage en agriculture.gouv.fr
+- Consolider les apprentissages de l'expérimentation sur l'intégration de la lecture d'étiquettes au cœur du process déclaratif et proposer des arbitrages au Comité d'investissement d'octobre 2026.
+
 
 ## **En savoir plus :**
 

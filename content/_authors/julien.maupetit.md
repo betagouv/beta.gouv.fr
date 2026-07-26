@@ -6,7 +6,7 @@ link: https://julien.maupetit.me
 github: jmaupetit
 missions:
   - start: 2024-03-11
-    end: 2026-08-27
+    end: 2026-12-31
     status: independent
     employer: MALT
     startups:
