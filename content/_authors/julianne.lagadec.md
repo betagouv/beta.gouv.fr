@@ -1,7 +1,7 @@
 ---
 fullname: Julianne Lagadec
-role: Directrice de projet pass Sport
-domaine: Intraprenariat
+role: Coach
+domaine: Coaching
 github: Julianne-Lagadec
 link: https://fr.linkedin.com/in/julianne-lagadec
 missions:
@@ -28,8 +28,14 @@ missions:
     startups:
       - pass-sport
   - start: 2025-03-13
-    end: 2026-07-07
+    end: 2026-04-30
     status: admin
+  - start: 2026-07-27
+    end: 2026-10-31
+    status: service
+    employer: Numa
+    startups:
+      - enjeu-biodiversite-parc-naturel-marin
 previously:
   - voeux-apprentissage
   - dematapprentissage

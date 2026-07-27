@@ -6,7 +6,7 @@ link: https://sometimesuseful.com/
 github: bbohec
 missions:
   - start: 2022-04-11
-    end: 2026-11-30
+    end: 2026-09-30
     status: independent
     employer: Freelance.com
     startups:
@@ -21,4 +21,5 @@ competences:
   - Metabase
   - PostgreSQL
 ---
-Développeur TS Fullstack. ATDD / Architecture Hexagonale
+Développeur TS Fullstack & DevOps.
+Tests automatisés et développement dirigé par l'exemple.
