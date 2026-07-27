@@ -1,5 +1,5 @@
 ---
-contact: muriel.bascou@beta.gouv.fr
+contact: muriel.bascou@gard.gouv.fr
 thematiques:
   - Écologie
   - Outil technique
@@ -12,8 +12,8 @@ techno:
   - xml
   - shp
   - dbf
-title: Détection d'ouvrages hydrauliques
-mission: Localiser plus rapidement les effondrements d'ouvrages hydrauliques dans un secteur minier en automatisant par IA pour prévenir les risques
+title: Detection d'ouvrages hydrauliques
+mission: Mieux localiser les effondrements d'ouvrages hydrauliques dans un secteur minier, en automatisant par IA, pour prévenir les risques
 incubator: mtes
 contact_dinum: amel.alili
 contact_incubator: eglantine.schmitt
@@ -21,13 +21,11 @@ sponsors:
   - /organisations/direction-departementale-des-territoires-et-de-la-mer
 phases:
   - name: investigation
-    comment: null
     start: 2026-06-23
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-06-23
+link: https://beta.gouv.fr/startups/detection-d-ouvrages-hydrauliques
 ---
 ## Contexte
 
@@ -48,7 +46,7 @@ Au moins 84 ouvrages ont été déjà recensés, mais le nombre définitif est e
 ## Objectifs à 6 mois
 
 Objectif **d'usage** à 6 mois : 
-- Accompagnement de 12 communes minières appartenant à une SIVU et de 3 communes minières hors SIVU
+- Possibilité d'association avec plusieurs communes minières
 
 Objectif **d'impact** à 6 mois : 
 - Travail partenarial important en ingénierie pour obtenir des financements de création de produit, mais aussi de maintenance à long terme

@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/maximilienami/
 missions:
   - start: 2023-09-01
-    end: 2025-12-31
+    end: 2026-10-02
     status: independent
     employer: Opteamis
     startups:
@@ -19,6 +19,5 @@ memberType: beta
 competences: []
 ---
 Déploiement Tech-for-Good 
-Coach pro certifié (leadership) 
-Formateur de coachs
+Leadership : formateur et coach professionnel certifié
 Sciences Po Lille / HEC Paris Startup 

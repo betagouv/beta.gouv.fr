@@ -9,6 +9,12 @@ missions:
     status: service
     employer: Sopra Steria
   - start: 2022-03-15
+    end: 2026-07-27
+    status: admin
+    employer: Dinum
+    startups:
+      - je-deviens-etudiant
+  - start: 2022-03-15
     end: 2026-09-01
     status: admin
     employer: Dinum
@@ -18,7 +24,6 @@ missions:
       - cestquilepro
       - compte.ressources
       - exposition-ij
-      - je-deviens-etudiant
       - lutte.contre.le.harcelement.en.milieu.scolaire
       - monlyceepro
       - parasport

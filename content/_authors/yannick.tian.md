@@ -8,10 +8,9 @@ competences: []
 missions:
   - start: 2026-07-24
     end: 2026-10-24
-    employer: Crème de la crème
     status: independent
+    employer: Crème de la crème
     startups:
       - services-web-anct
-teams: []
 ---
 Développeur IA

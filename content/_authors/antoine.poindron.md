@@ -5,7 +5,7 @@ domaine: Design
 link: https://www.behance.net/antoinepoindron
 missions:
   - start: 2022-02-07
-    end: 2026-08-25
+    end: 2026-10-27
     status: independent
     employer: Inops
     startups:
