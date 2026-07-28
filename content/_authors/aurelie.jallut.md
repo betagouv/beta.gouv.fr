@@ -33,5 +33,6 @@ competences:
   - Product strategy
   - UI
   - UX
+  - Accessibilité
 ---
 UX designer & product manager à mes heures, en plus d’aimer prendre soins des utilisateurs et des détails, j’ai un penchant pour la stratégie et les missions transverses.

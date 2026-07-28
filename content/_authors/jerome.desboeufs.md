@@ -43,17 +43,17 @@ missions:
     startups:
       - vigieau
   - start: 2024-09-01
-    end: 2024-12-31
-    status: service
-    employer: Living Data
-    startups:
-      - maestro
-  - start: 2024-09-01
     end: 2026-03-31
     status: service
     employer: Living Data
     startups:
       - prelevements.deau
+  - start: 2024-09-01
+    end: 2024-12-31
+    status: service
+    employer: Living Data
+    startups:
+      - maestro
   - start: 2025-10-01
     end: 2026-09-30
     status: service
@@ -66,6 +66,12 @@ missions:
     employer: Living Data
     startups:
       - sain-eau
+  - start: 2026-07-28
+    end: 2026-12-31
+    status: service
+    employer: Living Data
+    startups:
+      - enjeu-biodiversite-parc-naturel-marin
 competences:
   - Coaching
   - Croissance

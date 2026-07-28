@@ -35,4 +35,6 @@ missions:
       - archeolog-ia
 memberType: beta
 competences: []
+teams:
+  - /teams/culture
 ---
