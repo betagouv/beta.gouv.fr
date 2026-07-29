@@ -7,7 +7,7 @@ competences:
   - magistrat du siège
 missions:
   - start: 2025-07-01
-    end: 2026-07-30
+    end: 2026-12-31
     status: admin
     startups:
       - assistant-ia-civil

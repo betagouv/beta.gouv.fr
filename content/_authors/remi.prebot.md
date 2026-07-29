@@ -28,6 +28,12 @@ missions:
     employer: Dynergie
     startups:
       - jacepair
+  - start: 2026-07-28
+    end: 2026-10-28
+    status: independent
+    employer: Dynergie
+    startups:
+      - assistant-ia-civil
 badges:
   - segur
 competences: []
