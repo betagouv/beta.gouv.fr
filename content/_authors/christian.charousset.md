@@ -5,7 +5,7 @@ domaine: Data
 github: chrischarousset
 missions:
   - start: 2021-12-13
-    end: 2026-08-30
+    end: 2026-12-31
     status: independent
     employer: DINUM
     startups:

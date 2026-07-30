@@ -10,7 +10,7 @@ missions:
     startups:
       - nosgestesclimat
   - start: 2024-09-02
-    end: 2026-09-30
+    end: 2026-03-31
     status: independent
     employer: Dynergie, Numa
     startups:

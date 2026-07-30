@@ -16,13 +16,13 @@ missions:
     startups:
       - sndv_maritime
   - start: 2024-09-02
-    end: 2026-07-11
+    end: 2027-01-30
     status: independent
     employer: Scopyleft
     startups:
       - nosgestesclimat
   - start: 2025-10-01
-    end: 2026-09-30
+    end: 2026-11-30
     status: independent
     employer: Dynergie
     startups:

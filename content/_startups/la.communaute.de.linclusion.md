@@ -18,6 +18,8 @@ phases:
     start: 2020-06-01
   - name: acceleration
     start: 2023-04-01
+  - name: consolidation
+    start: 2026-07-30
 usertypes:
   - collectivite-territoriale
   - entreprise
