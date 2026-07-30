@@ -1,6 +1,6 @@
 ---
 fullname: Camille Martin
-role: chargé de mission - intrapreneur
+role: chargé de mission  déploiement affichage environnemental - intrapreneur
 domaine: Intraprenariat
 competences: []
 missions:
@@ -10,5 +10,6 @@ missions:
     employer: CGDD
     startups:
       - ecobalyse
+      - ecopass
 link: https://www.linkedin.com/in/camille-martin-a0254442/
 ---

@@ -1,6 +1,6 @@
 ---
 fullname: Chloé BOUTEVIN
-role: Coach
+role: Responsable produit @Atelier Numérique
 domaine: Coaching
 missions:
   - start: 2024-01-16
@@ -37,4 +37,5 @@ memberType: beta
 competences: []
 teams:
   - /teams/culture
+link: https://www.linkedin.com/in/chlo%C3%A9-boutevin-7a694571/
 ---
