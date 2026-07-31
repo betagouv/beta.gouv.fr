@@ -9,7 +9,7 @@ competences:
   - UX
 missions:
   - start: 2025-05-19
-    end: 2026-08-30
+    end: 2026-12-30
     status: independent
     employer: Scopyleft
     startups:

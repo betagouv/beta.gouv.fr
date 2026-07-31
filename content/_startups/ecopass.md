@@ -19,16 +19,11 @@ sponsors:
   - /organisations/cgdd
 phases:
   - name: investigation
-    comment: null
     start: 2025-03-01
-    end: null
   - name: construction
-    comment: null
     start: 2025-05-31
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-07-29
 ---
 ## Contexte

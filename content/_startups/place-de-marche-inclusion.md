@@ -17,6 +17,8 @@ phases:
     start: 2020-06-30
   - name: acceleration
     start: 2021-06-01
+  - name: consolidation
+    start: 2026-07-30
 usertypes:
   - entreprise
 dashlord_url: https://dashlord.incubateur.net/url/lemarche-inclusion-beta-gouv-fr/

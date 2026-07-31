@@ -28,9 +28,21 @@ missions:
     startups:
       - mission-transition-ecologique
   - start: 2026-05-13
-    end: 2026-08-13
+    end: 2026-06-15
     status: independent
     employer: Malt
+    startups:
+      - pv.facile
+  - start: 2026-06-08
+    end: 2026-10-31
+    status: independent
+    employer: Crème de la crème
+    startups:
+      - mission-transition-ecologique
+  - start: 2026-06-16
+    end: 2026-09-30
+    status: independent
+    employer: Numa
     startups:
       - pv.facile
 competences: []

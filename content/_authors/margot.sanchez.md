@@ -40,7 +40,5 @@ previously:
   - territoires-en-transitions
   - impact.co2
   - agora
-teams:
-  - /teams/ademe
 competences: []
 ---

@@ -30,6 +30,7 @@ stats_url: https://carbure.beta.gouv.fr/stats
 events:
   - name: product_launch
     date: 2021-02-08
+impact_url: https://docs.numerique.gouv.fr/docs/9484bcc0-0f52-4e3a-812d-ef07b7e1d2d0/
 ---
 Les biocarburants, utilisés comme substituts aux carburants fossiles, permettent de réduire de plus de 4% les émissions de gaz à effet de serre du transport en France. 
 
