@@ -15,7 +15,7 @@ missions:
     startups:
       - infrastructures.numeriques
   - start: 2026-01-01
-    end: 2026-08-30
+    end: 2026-12-30
     status: independent
 memberType: beta
 competences: []

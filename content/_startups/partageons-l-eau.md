@@ -10,7 +10,7 @@ usertypes:
   - entreprise
   - collectivite-territoriale
 title: Partageons l'eau
-mission: 'Faciliter un partage de l''eau transparent, tenant compte des besoins des usagers en respectant les objectifs de bon état des masses d’eau '
+mission: Mieux mesurer la ressource et les prélèvements pour favoriser un partage collectif et équitable de l’eau, tous usages confondus
 incubator: mtes
 sponsors:
   - /organisations/deb
@@ -31,77 +31,61 @@ techno:
   - next.js
 repository: https://github.com/betagouv/partageonsleau/tree/main
 impact_url: http://partageonsleau-metabase.osc-fr1.scalingo.io/public/dashboard/91ec0e3c-8711-4796-9fc8-e204b3c67e6c
-link: https://prelevements-deau.beta.gouv.fr
+link: https://partageonsleau.beta.gouv.fr
 stats_url: http://partageonsleau-metabase.osc-fr1.scalingo.io/public/dashboard/91ec0e3c-8711-4796-9fc8-e204b3c67e6c
 ---
 ## 🌍 Contexte
 
-Objectif fixé par la **Directive-cadre sur l’eau** : rétablir le bon état quantitatif et qualitatif des masses d’eau.
+En 2022, 86 % du territoire français a connu des restrictions sécheresse. Au 30 juillet 2026, 63 départements métropolitains sont classés en situation de crise. 
 
-Face à des tensions croissantes sur la ressource en eau, l’État, sous l’impulsion du ministère chargé de l’écologie, en lien avec les agences de l’eau et les préfets coordonnateurs de bassin, a fait le choix de mettre en place des **Projets de Territoire pour la Gestion de l’Eau (PTGE)**.
+D’ici 2050, si rien ne change, ces crises deviendront la norme.
+Il est urgent de mieux anticiper. 
 
-Leur rôle a été renforcé par le **Plan Eau de 2023**, qui en fait un levier central de la politique publique de gestion de l’eau.
+Or, la connaissance fine des prélèvements et de la ressource est la clé de voûte d'une gestion de l'eau équilibrée. 
 
-Sur le terrain, ces démarches territoriales et concertées font faces à des difficultés de mise en oeuvre, alors même qu’elles sont devenues indispensables pour :
-* atteindre les objectifs de bon état des masses d’eau,
-* prévenir les crises sécheresse,
-* et garantir un partage équitable entre les usages.
+A date, nous n'avons pas de vision fine objectives des prélèvements x ressource tous usages confondus. 
+
+Cette situation fragilise grandement la gestion sécheresse, le pilotage des restrictions, le pilotage des SAGE et PTGE, la révision et le suivi des autorisations, l'adhésion des usagers. 
 
 👉 Partageons l’eau est une startup d’État portée par le ministère chargé de l’écologie et la DINUM.
 
-Elle s’inscrit comme un **outil d’appui opérationnel aux PTGE**, en complément des cadres réglementaires existants, pour **fluidifier leur mise en œuvre** et renforcer leur impact.
-
+Son objectif : rendre lisibles, partagées et utilisables les données prélèvement et ressource pour un partage de l'eau plus équitable. 
 
 ## ❗Problème
 
-Les retours des territoires (collectivités porteuses de SAGE/PTGE, services de l’État, préleveurs industriels, agriculteurs, gestionnaires eau potable) convergent sur plusieurs difficultés majeures qui freinent la mise en œuvre effective des PTGE 
+Les retours des territoires (collectivités porteuses de SAGE/PTGE, services de l’État, préleveurs industriels, agriculteurs, gestionnaires eau potable) convergent sur plusieurs difficultés majeures qui freinent la mise en œuvre effective des différentes politiques publiques : 
 
 1. **Un manque de transparence et de vision collective sur les usages de l'eau** -
-Les données de prélèvement sont incomplètes, dispersées et peu accessibles. Elles sont pourtant indispensables pour calculer le volume prélevable, décider de la répartition de l'eau entre préleveurs, suivre le respect des volumes attribués. Il n’existe pas de base de données nationale des volumes prélevés pour un usage de connaissance (la BNPE étant conçue avant tout pour un usage redevances). 
+Les données de prélèvement infra-annuelles sont incomplètes, dispersées et peu accessibles. 
+“On perçoit un manque de transparence et des inégalités de traitement dans le partage de l’eau. Résultat : les discussions locales s’enlisent, faute de vision commune et d’objectivation des données volumes / ressources.” Agriculture 
 
-2. **Une faible adhésion des usagers** -
-Les méthodes de définition des volumes prélevables sont peu lisibles.
-Les efforts déjà réalisés par certains usagers sont mal objectivés.
-La défiance s’installe, rendant les compromis difficiles.
+2. **Une gestion sécheresse à l'aveugle sur les prélèvements** -
+“On arrive en comité sécheresse sans aucune vision sur les prélèvements. Aussi, il est compliqué d’attribuer des autorisations sans avoir une vision fine des prélèvements.” DDT
 
 3. **Une collecte de données des volumes prélevés chronophage** -
 Pour les préleveurs, en particulier agriculteurs : une obligation administrative vécue comme coûteuse et peu utile. Pour les collectivités porteuses de SAGE / PTGE et services de l’État : un temps humain considérable mobilisé pour collecter et fiabiliser la donnée.
+"Oui à l’amélioration de la connaissance des prélèvements à condition que la réglementation soit claire et équitable et que cette remontée d’information soit simple et unique (télérelève + “dites-le-nous une fois”)" Industriel
 
-4. **Des difficultés politiques et techniques pour réviser les autorisations** -
-Absence de bancarisation des autorisations existantes.
-Manque de données fiables sur les consommations réelles.
-Forte sensibilité politique lors des révisions, freinant l’action.
-
-➡️ Conséquence : les discussions locales s’enlisent, les tensions augmentent, et les objectifs des PTGE peinent à se traduire concrètement.
+➡️ Conséquence : les discussions locales s’enlisent, les tensions augmentent
 
 ## Solution
 
-Partageons l’eau vise à **mieux mesurer pour mieux partager l’eau**, en soutenant directement la mise en œuvre des PTGE.
+Partageons l’eau vise à **mieux mesurer pour mieux partager l’eau**
 
 **Usagers** : services de l’état (DDT, DREAL), collectivités porteuses de SAGE/PTGE et prélever (industriels, agriculteurs, gestionnaires eau potable) 
 
 Le service repose sur un **triptyque indissociable** :
 
-1. **Un levier de dialogue et de concertation** -
-La donnée comme support de médiation, au service du dialogue local.
-Des ateliers de co-construction réunissant l’ensemble des usagers (agriculteurs, industriels, eau potable, services de l’État, collectivités).
-La production de cadres de confiance favorisant l’adhésion et l’engagement collectif.
-
-2. **Un portage politique** - 
-Un service porté par l’État, en lien étroit avec la DEB, les préfets et les partenaires du Système d’Information sur l’Eau. Une articulation avec les évolutions réglementaires (télérelève, autorisations, seuils, interopérabilité).
-
-3. **Une infrastructure numérique comprenant** : 
-- Une plateforme de suivi des volumes prélevés et des autorisations tous usages confondus, par sous bassin versant
-- Un outil de visualisation accessible aux SAGE, services de l’État et usagers, pour suivre les prélèvements individuels et collectifs, comparer consommations réelles et volumes autorisés, objectiver les efforts et les marges de manœuvre de chacun.
-- Une logique “dites-le-nous une fois”, interopérable avec les outils existants (BNPE, outils OUGC, outils de modélisation).
+1. Un service numérique unique donnant, par territoire et tous usages confondus, une vision des prélèvements et de la ressource.
+2. Une remontée d'information simples et uniques (« dites-le-nous 1x »), ce qui suppose un déploiement de la télérelève
+3. Un rôle local de médiation / concertation, réunissant légitimité de terrain, compétence de médiation et un mandat clair aux côtés du préfet et garantissant l'engagement et l'adhésion à Partageons l'eau 
 
 ## 🚀 La stratégie pour y parvenir
 
 **À court terme (2025–2026)**
-* Consolidation du service numérique issue des premières expérimentations (La Réunion, SAGE Bièvre Liers Valloire).
-* Accompagnement dédié de 4 à 5 collectivités porteuses de SAGE / PTGE pour conception et mise à disposition d'un kit de mobilisation locale, en lien avec Gest'eau
-*  Mise à disposition de Partageons l'eau auprès des collectivités / services de l'Etat volontaires
+* Déploiement du service numérique sur 5 territoires (La Réunion, SAGE Bièvre Liers Valloire, SAGE Dropt, SAGE Nappes plaine du Roussillon, SAGE Tech Albères, PGRE des Usses, Haute Savoie).
 
 **À moyen terme**
 * Faciliter la révision des autorisations grâce à des données historisées et partagées.
+* Faciliter la gestion sécheresse 
 * Explorer, avec les territoires, des briques d’aide à la répartition dynamique de l’eau, lorsque les conditions de confiance et de données sont réunies.

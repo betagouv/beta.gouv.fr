@@ -5,7 +5,7 @@ role: Gestionnaire de produit pour le service Inclusion Connect
 link: https://www.linkedin.com/in/sonia-perelroizen-90567642/
 missions:
   - start: 2022-11-21
-    end: 2025-11-21
+    end: 2026-10-30
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:

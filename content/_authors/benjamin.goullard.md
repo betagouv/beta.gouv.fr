@@ -4,7 +4,7 @@ role: Déploiement
 domaine: Déploiement
 missions:
   - start: 2024-06-11
-    end: 2026-10-13
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

@@ -30,7 +30,7 @@ missions:
     startups:
       - data-inclusion
   - start: 2023-04-02
-    end: 2026-08-16
+    end: 2027-01-16
     status: independent
     employer: malt
     startups:
@@ -38,6 +38,10 @@ missions:
       - mon-recap
       - pilotage.de.linclusion
       - place-de-marche-inclusion
+  - start: 2026-07-30
+    end: 2027-01-30
+    status: independent
+    employer: numa
 badges:
   - segur
 teams:

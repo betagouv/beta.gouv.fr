@@ -25,7 +25,7 @@ phases:
 events:
   - name: product_launch
     date: 2026-06-23
-link: https://beta.gouv.fr/startups/detection-d-ouvrages-hydrauliques
+link: https://agile.e2.rie.gouv.fr/6047
 ---
 ## Contexte
 

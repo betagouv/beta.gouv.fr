@@ -5,7 +5,7 @@ domaine: Intraprenariat
 link: https://www.linkedin.com/in/luc-nour-allazkani/
 missions:
   - start: 2023-09-13
-    end: 2026-07-30
+    end: 2027-01-31
     status: service
     employer: Lamednum
     startups:
