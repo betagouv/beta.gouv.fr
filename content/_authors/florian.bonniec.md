@@ -5,7 +5,7 @@ domaine: Développement
 github: fbonniec
 missions:
   - start: 2023-08-16
-    end: 2026-08-31
+    end: 2026-11-30
     status: independent
     employer: Opteamis
     startups:
@@ -14,4 +14,4 @@ memberType: beta
 competences: []
 link: https://www.linkedin.com/in/florian-bonniec/
 ---
-Développeur fullstack
+Développeur fullstack, Devops

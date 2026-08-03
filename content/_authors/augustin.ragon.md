@@ -11,7 +11,7 @@ missions:
     startups:
       - carnet.de.bord
   - start: 2022-03-04
-    end: 2026-08-31
+    end: 2026-11-30
     status: independent
     employer: Little Big Connection
     startups:

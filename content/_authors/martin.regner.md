@@ -14,4 +14,6 @@ previously:
   - nosgestesclimat
   - impact.co2
 competences: []
+teams:
+  - /teams/ademe
 ---

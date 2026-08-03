@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/marc-conejero-b2733a6/
 competences: []
 missions:
   - start: 2026-04-22
-    end: 2026-08-31
+    end: 2027-01-28
     status: service
     employer: COBER LA FABRIQUE
 ---

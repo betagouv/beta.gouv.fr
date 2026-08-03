@@ -4,7 +4,7 @@ role: Développeur No-Code
 domaine: Développement
 missions:
   - start: 2022-09-12
-    end: 2026-08-31
+    end: 2027-01-31
     status: independent
     startups:
       - oilhi

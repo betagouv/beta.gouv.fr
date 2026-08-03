@@ -5,7 +5,7 @@ domaine: Développement
 github: alexisig
 missions:
   - start: 2023-10-17
-    end: 2026-07-01
+    end: 2027-01-01
     status: independent
     employer: telescoop
     startups:

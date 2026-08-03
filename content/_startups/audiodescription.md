@@ -13,6 +13,8 @@ phases:
     start: 2025-07-04
   - name: consolidation
     start: 2026-01-27
+  - name: transfere
+    start: 2026-07-10
 thematiques:
   - Démocratie
   - Inclusion numérique
@@ -23,7 +25,7 @@ usertypes:
   - handicap
   - déficients visuels
 techno: []
-link: https://audiodescription.beta.gouv.fr/
+link: https://audiodescription.culture.gouv.fr/
 repository: https://github.com/betagouv/audiodescription
 sponsors:
   - /organisations/mc
@@ -41,4 +43,4 @@ Conçu avec et pour les publics déficients visuels, le Portail de l’audiodesc
 
 Porté par le ministère de la Culture en partenariat avec le Centre national du cinéma et de l’image animée (CNC), ce projet s’inscrit dans la feuille de route de la Conférence nationale du handicap de 2023. Il bénéficie du soutien du Comité interministériel du handicap (CIH) et du Conseil national consultatif des personnes handicapées (CNCPH), et a été développé au sein de l’incubateur de l’Atelier numérique du ministère, en co-construction permanente avec des usagers, des associations représentatives, et des professionnels de l’audiodescription.
 
-Le service est aujourd'hui en cours de pérennisation au sein d'un dispositif conjoint entre les directions métiers du CNC et la ligne de produits grand public du service du numérique du ministère de la Culture.
+Le service est aujourd'hui transféré au CNC avec dispositif de pilotage conjoint entre les directions métiers du CNC et la ligne de produits grand public du service du numérique du ministère de la Culture.

@@ -7,11 +7,11 @@ competences:
   - Machine learning
 missions:
   - start: 2025-09-01
-    end: 2026-08-31
+    end: 2026-10-31
     status: admin
     employer: DINUM
     startups:
-      - a-just
+      - signaux-faibles
 github: jdureau
 link: https://fr.linkedin.com/in/josephdureau/fr
 ---

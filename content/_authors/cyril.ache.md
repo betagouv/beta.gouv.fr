@@ -11,7 +11,7 @@ missions:
     startups:
       - mon-suivi-justice
   - start: 2024-05-02
-    end: 2026-07-31
+    end: 2026-12-31
     status: independent
     employer: LBC
     startups:
