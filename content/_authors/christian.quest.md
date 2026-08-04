@@ -24,13 +24,13 @@ missions:
     startups:
       - vues-immersives-libres
   - start: 2025-10-07
-    end: 2026-06-05
+    end: 2026-12-05
     status: admin
     employer: IGN
     startups:
       - limites-administratives
   - start: 2026-04-01
-    end: 2026-09-01
+    end: 2027-02-01
     status: admin
     employer: IGN
     startups:

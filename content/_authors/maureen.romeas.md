@@ -8,7 +8,7 @@ competences:
   - UX
 missions:
   - start: 2023-10-23
-    end: 2026-07-31
+    end: 2026-11-03
     status: service
     employer: SGAR Bretagne
 ---

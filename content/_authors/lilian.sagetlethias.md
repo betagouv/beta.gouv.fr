@@ -25,6 +25,10 @@ missions:
     end: 2025-09-30
     status: independent
     employer: LaZone/Pathtech (MASA)
+  - start: 2026-07-01
+    end: 2027-01-31
+    status: independent
+    employer: RESAH/Malt (ADEME)
 incubator: ademe
 teams:
   - /teams/ademe

@@ -21,11 +21,12 @@ missions:
       - la-bonne-alternance
       - tdb-apprentissage
   - start: 2025-05-05
-    end: 2026-08-30
+    end: 2026-12-31
     status: independent
     employer: Cour de cassation
     startups:
       - api-and-communs-numeriques-de-la-cour-de-cassation
+      - portail-greffe-de-la-cour-de-cassation
 competences:
   - Architecture d'information
   - Product design

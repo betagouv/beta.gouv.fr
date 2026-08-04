@@ -5,7 +5,7 @@ role: Chargé de déploiement SEO
 github: Jonathan2051
 missions:
   - start: 2020-07-20
-    end: 2026-09-30
+    end: 2026-07-31
     status: independent
     employer: Octo puis Opteamis
     startups:

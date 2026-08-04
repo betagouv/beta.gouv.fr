@@ -21,5 +21,7 @@ missions:
     employer: DINUM
     startups:
       - espace-membre
+teams:
+  - /teams/dinum-animation-beta-gouv-fr
 ---
 Étudiant en développement avec un intérêt pour le DevOps, l’automatisation, Docker, le scripting et les environnements cloud.
