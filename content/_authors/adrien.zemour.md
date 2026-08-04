@@ -25,7 +25,7 @@ missions:
     startups:
       - communs-de-la-transition-ecologique-des-collectivites
   - start: 2026-01-15
-    end: 2026-06-15
+    end: 2027-06-15
     status: admin
     employer: DINUM
     startups:
