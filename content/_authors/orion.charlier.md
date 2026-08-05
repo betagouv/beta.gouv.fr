@@ -12,9 +12,9 @@ missions:
     startups:
       - trackdechets
   - start: 2026-06-02
-    end: 2026-09-02
+    end: 2027-02-02
     status: independent
-    employer: Malt
+    employer: Crème de la crème
     startups:
       - boris
 competences: []

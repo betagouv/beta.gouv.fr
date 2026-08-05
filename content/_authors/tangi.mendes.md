@@ -29,7 +29,7 @@ missions:
     startups:
       - bpco
   - start: 2025-11-04
-    end: 2026-09-04
+    end: 2027-01-31
     status: independent
     employer: Fairness
     startups:

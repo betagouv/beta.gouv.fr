@@ -23,7 +23,7 @@ missions:
     startups:
       - tchap
   - start: 2022-09-01
-    end: 2026-06-30
+    end: 2026-10-30
     status: independent
     employer: Malt
     startups:
@@ -35,7 +35,7 @@ missions:
     startups:
       - deveco
   - start: 2025-02-01
-    end: 2026-06-30
+    end: 2026-09-30
     status: independent
     employer: Data.gouv.fr
     startups:

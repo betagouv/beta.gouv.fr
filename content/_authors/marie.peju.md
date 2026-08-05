@@ -22,11 +22,12 @@ missions:
     startups:
       - vert.impact
   - start: 2026-02-19
-    end: 2026-08-11
+    end: 2026-11-05
     status: independent
     employer: Malt
     startups:
       - vert.impact
 memberType: beta
 competences: []
+link: https://www.linkedin.com/in/marie-p%C3%A9ju-b3033457/
 ---

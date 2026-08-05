@@ -3,9 +3,7 @@ title: transport.data.gouv.fr
 mission: Faciliter l'accès à l’information voyageur pour tous, partout en France, grâce à l’ouverture des données.
 sponsors:
   - /organisations/dgitm
-  - /organisations/dinum
   - /organisations/mtes
-  - /organisations/sgpe
 incubator: mtes
 phases:
   - name: investigation
@@ -43,6 +41,7 @@ techno:
   - postgresql
 stats_url: https://transport.data.gouv.fr/stats
 accessibility_status: partiellement conforme
+dashlord_url: https://dashlord.mte.incubateur.net/url/transport-data-gouv-fr/
 ---
 ## Le problème que résout transport.data.gouv.fr
 

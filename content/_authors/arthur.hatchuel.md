@@ -24,7 +24,7 @@ missions:
     status: admin
     employer: MDFP
   - start: 2026-03-04
-    end: 2026-09-04
+    end: 2026-12-31
     status: admin
     employer: MACP
 competences:
