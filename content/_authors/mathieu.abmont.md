@@ -7,9 +7,9 @@ competences:
   - Croissance
 missions:
   - start: 2024-10-01
-    end: 2026-09-04
+    end: 2027-01-31
     status: independent
-    employer: Scopyleft
+    employer: La crème de la crème
     startups:
       - faritas
 teams:

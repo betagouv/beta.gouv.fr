@@ -5,7 +5,7 @@ domaine: Développement
 github: jenovateurs
 missions:
   - start: 2024-03-20
-    end: 2026-09-01
+    end: 2026-11-05
     status: independent
     startups:
       - aides.jeunes
@@ -15,7 +15,7 @@ missions:
     startups:
       - agents.en.intervention
   - start: 2026-06-01
-    end: 2026-09-03
+    end: 2026-11-05
     status: independent
     employer: Mednum
     startups:
