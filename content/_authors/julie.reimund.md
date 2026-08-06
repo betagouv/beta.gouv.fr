@@ -9,9 +9,8 @@ competences:
 missions:
   - start: 2026-08-03
     end: 2026-12-31
-    employer: OCTO
     status: independent
+    employer: OCTO
     startups:
       - pass-sport
-teams: []
 ---

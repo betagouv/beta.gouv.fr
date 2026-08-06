@@ -8,10 +8,9 @@ competences:
 missions:
   - start: 2026-08-31
     end: 2027-01-25
-    employer: Octo
     status: independent
+    employer: Octo
     startups:
       - demain-specialiste-cyber
       - mes-services-cyber
-teams: []
 ---

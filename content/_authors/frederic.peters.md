@@ -9,9 +9,8 @@ competences:
 missions:
   - start: 2026-07-27
     end: 2026-09-30
-    employer: UT7
     status: independent
+    employer: UT7
     startups:
       - ami
-teams: []
 ---

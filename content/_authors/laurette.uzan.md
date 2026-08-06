@@ -7,9 +7,7 @@ competences: []
 missions:
   - start: 2024-05-01
     end: 2029-12-30
-    employer: ''
     status: admin
     startups:
       - portail-nationale-de-l-edition-accessible-et-adaptee
-teams: []
 ---
