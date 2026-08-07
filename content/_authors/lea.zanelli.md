@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-08-06
     end: 2026-12-31
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - plateforme-agriculteurs
-teams: []
 ---
