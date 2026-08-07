@@ -2,7 +2,7 @@
 analyse_risques: false
 mon_service_securise: false
 contact: contact@lucca.beta.gouv.fr
-link: https://lucca.din.developpement-durable.gouv.fr/
+link: https://www.lucca.beta.gouv.fr/
 thematiques:
   - Collectivités
   - Écologie
