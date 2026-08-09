@@ -37,6 +37,56 @@ YAML
     end
   end
 
+  describe 'incubators' do
+    let(:co_incubated_yml) do
+      <<YAML
+  id: ecopass
+  title: Ecopass
+  incubator: mtes
+  incubators: [mtes, ademe]
+  phases:
+    - name: construction
+      start: 2024-01-01
+YAML
+    end
+
+    let(:co_incubated) { described_class.new(Psych.unsafe_load(co_incubated_yml)) }
+
+    describe '#incubator_ids' do
+      it 'falls back to the single incubator when the product is not co-incubated' do
+        expect(startup.incubator_ids).to eq %w[dinum]
+      end
+
+      it 'returns every incubator of a co-incubated product' do
+        expect(co_incubated.incubator_ids).to eq %w[mtes ademe]
+      end
+
+      it 'returns nothing when the product has no incubator at all' do
+        orphan = described_class.new(Psych.unsafe_load(yml.sub('incubator: dinum', 'title: Orphelin')))
+
+        expect(orphan.incubator_ids).to be_empty
+      end
+    end
+
+    describe '#incubated_by?' do
+      it 'matches the single incubator' do
+        expect(startup).to be_incubated_by('dinum')
+      end
+
+      it 'matches the historical incubator of a co-incubated product' do
+        expect(co_incubated).to be_incubated_by('mtes')
+      end
+
+      it 'matches the additional incubator of a co-incubated product' do
+        expect(co_incubated).to be_incubated_by('ademe')
+      end
+
+      it 'does not match an unrelated incubator' do
+        expect(co_incubated).not_to be_incubated_by('anct')
+      end
+    end
+  end
+
   describe 'members' do
     let(:member) { instance_double(Beta::Member) }
 

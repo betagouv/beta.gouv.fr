@@ -16,6 +16,7 @@ layout: default
           , "type"      : "startup"
           , "phase": "{{ phase.status }}"
           , "incubator_id" : "{{startup.incubator}}"
+          , "incubator_ids" : [{% assign startup_incubators = startup.incubators %}{% unless startup_incubators %}{% assign startup_incubators = startup.incubator | split: ',' %}{% endunless %}{% for startup_incubator in startup_incubators %}"{{ startup_incubator }}"{% unless forloop.last %}, {% endunless %}{% endfor %}]
           , "incubator_title": "{{ incubator.title }}"
           , "sponsors": [{% for sponsorId in startup.sponsors %}
               {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}

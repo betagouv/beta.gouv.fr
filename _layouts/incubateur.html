@@ -5,7 +5,7 @@ layout: default
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
 {% assign incubator_id = page.id | remove: '/incubateurs/' %}
 {% assign owner = site.organisations | where: 'id', page.owner | first %}
-{% assign incubatorStartups = site.startups | where: 'incubator', incubator_id %}
+{% assign incubatorStartups = site.startups | where_incubator: incubator_id %}
 
 {% assign investigationStartupsCount = incubatorStartups | where_phase: 'investigation' | size %}
 {% assign constructionStartupsCount = incubatorStartups | where_phase: 'construction' | size %}

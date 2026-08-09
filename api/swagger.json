@@ -3,7 +3,7 @@
   "info": {
     "title": "beta.gouv.fr API",
     "description": "API publique permettant d'accéder aux données des startups d'État, des membres, des incubateurs, des organisations et des sponsors de beta.gouv.fr",
-    "version": "2.6.0",
+    "version": "2.7.0",
     "contact": {
       "name": "beta.gouv.fr",
       "url": "https://beta.gouv.fr"
@@ -15,7 +15,7 @@
   },
   "servers": [
     {
-      "url": "https://beta.gouv.fr/api/v2.6",
+      "url": "https://beta.gouv.fr/api/v2.7",
       "description": "Production server"
     }
   ],
@@ -467,6 +467,7 @@
             "properties": {
               "incubator": {
                 "type": "object",
+                "description": "Incubateur historique. Pour un produit co-incubé, il s'agit de l'un des incubateurs de `incubators`.",
                 "properties": {
                   "data": {
                     "type": "object",
@@ -478,6 +479,28 @@
                       "id": {
                         "type": "string",
                         "example": "agriculture"
+                      }
+                    }
+                  }
+                }
+              },
+              "incubators": {
+                "type": "object",
+                "description": "Tous les incubateurs du produit. Contient un seul élément pour un produit mono-incubé, plusieurs pour un produit co-incubé.",
+                "properties": {
+                  "data": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "type": {
+                          "type": "string",
+                          "example": "incubator"
+                        },
+                        "id": {
+                          "type": "string",
+                          "example": "agriculture"
+                        }
                       }
                     }
                   }

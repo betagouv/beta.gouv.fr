@@ -6,6 +6,11 @@ const organisationsIds = (await fs.readdir(organisationsPath))
   .filter((path) => path.endsWith(".md"))
   .map((p) => p.replace(/\.md$/, ""));
 
+const incubatorsPath = "./content/_incubators";
+const incubatorsIds = (await fs.readdir(incubatorsPath))
+  .filter((path) => path.endsWith(".md"))
+  .map((p) => p.replace(/\.md$/, ""));
+
 export const schema = z
   .object({
     title: z.string(),
@@ -14,6 +19,10 @@ export const schema = z
       .array(z.enum(organisationsIds.map((id) => `/organisations/${id}`)))
       .optional(),
     incubator: z.string(),
+    // Co-incubation : présent uniquement quand un produit est porté par
+    // plusieurs incubateurs. `incubator` reste la valeur historique et doit
+    // faire partie de cette liste.
+    incubators: z.array(z.enum(incubatorsIds)).min(2).optional(),
     contact: z.string(),
     link: z.string().optional().nullable(),
     repository: z.string().optional().nullable(),

@@ -11,7 +11,9 @@ layout: default
 {% assign startup_phase = startup | get_phase %}
 {% assign phase = site.phases | find: "status", startup_phase.name %}
 
-{% comment %} Détection de l'incubateur {% endcomment %}
+{% comment %} Détection des incubateurs (un produit peut être co-incubé) {% endcomment %}
+{% assign incubator_ghids = page.incubators %}
+{% unless incubator_ghids %}{% assign incubator_ghids = page.incubator | split: ',' %}{% endunless %}
 {% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
 {% assign incubator = site.data.all_incubators | where:'id', incubator_id | first %}
 
@@ -46,7 +48,17 @@ layout: default
             {% else %}
                est porté
             {% endif %}
-            par {% if incubator and incubator.hidden != true %}<a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>{% else %}{{ incubator.title | default: page.incubator }}{% endif %}.
+            par
+            {%- for incubator_ghid in incubator_ghids -%}
+              {%- capture current_incubator_id %}/incubateurs/{{ incubator_ghid }}{% endcapture -%}
+              {%- assign current_incubator = site.data.all_incubators | where:'id', current_incubator_id | first -%}
+              {%- if forloop.index > 1 %}{% if forloop.last %} et {% else %}, {% endif %}{% else %} {% endif -%}
+              {%- if current_incubator and current_incubator.hidden != true -%}
+                <a href="/incubateurs/{{ incubator_ghid }}" title="{{ current_incubator.title }}">{{ current_incubator.title }}</a>
+              {%- else -%}
+                {{- current_incubator.title | default: incubator_ghid -}}
+              {%- endif -%}
+            {%- endfor -%}.
           </p>
           <p>
             Ce service numérique est sponsorisé par
