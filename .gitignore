@@ -19,7 +19,7 @@ _site
 .vscode
 
 # Node
-node_modules/**/*
+node_modules/
 
 # ruby
 vendor
