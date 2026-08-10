@@ -6,6 +6,8 @@ require 'active_support/core_ext/date/calculations'
 require_relative '../../../lib/models/startup'
 require_relative '../../../lib/models/member'
 
+ApiDocument = Struct.new(:relative_path, :data, :content)
+
 describe Beta::Startup do
   subject(:startup) { described_class.new(data) }
 
@@ -65,6 +67,28 @@ YAML
         orphan = described_class.new(Psych.unsafe_load(yml.sub('incubator: dinum', 'title: Orphelin')))
 
         expect(orphan.incubator_ids).to be_empty
+      end
+    end
+
+    describe '#to_api_hash' do
+      before { allow(Beta::Member).to receive(:all).and_return [] }
+
+      def api_hash_for(source)
+        document = ApiDocument.new('_startups/produit.md', Psych.unsafe_load(source), '')
+
+        described_class.from_document(document).to_api_hash
+      end
+
+      it 'exposes a list even for a product with a single incubator' do
+        expect(api_hash_for(yml)[:incubators]).to eq %w[dinum]
+      end
+
+      it 'exposes every incubator of a co-incubated product' do
+        expect(api_hash_for(co_incubated_yml)[:incubators]).to eq %w[mtes ademe]
+      end
+
+      it 'keeps the historical incubator alongside the list' do
+        expect(api_hash_for(co_incubated_yml)['incubator']).to eq 'mtes'
       end
     end
 

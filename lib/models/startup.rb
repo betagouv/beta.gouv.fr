@@ -85,6 +85,10 @@ module Beta
       { name: document.data['title'] }
         .merge(document.data.slice(*API_SINGLE_FIELDS))
         .merge(
+          # Normalized rather than sliced from the frontmatter, which only
+          # carries `incubators` for co-incubated products: consumers always
+          # get a list, whatever the product.
+          incubators: incubator_ids,
           active_members: active_members.map(&:id),
           previous_members: previous_members.map(&:id)
         )
