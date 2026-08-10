@@ -5,7 +5,7 @@ domaine: Produit
 competences: []
 missions:
   - start: 2025-09-01
-    end: 2026-08-31
+    end: 2027-08-31
     status: admin
     employer: DINUM
     startups:

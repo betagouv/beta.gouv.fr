@@ -4,7 +4,7 @@ fullname: Grégoire Cutzach
 role: Développement
 missions:
   - start: 2024-05-01
-    end: 2026-07-20
+    end: 2027-01-11
     status: admin
     employer: DINUM
     startups:
