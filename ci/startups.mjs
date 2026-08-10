@@ -61,6 +61,16 @@ export const schema = z
     }
 
     if (
+      obj.incubators &&
+      obj.incubators.length !== new Set(obj.incubators).size
+    ) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        message: "Duplicated incubators",
+      });
+    }
+
+    if (
       obj.phases.length !==
       Array.from(new Set(obj.phases.map((p) => p.name))).length
     ) {
