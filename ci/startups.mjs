@@ -20,8 +20,9 @@ export const schema = z
       .optional(),
     incubator: z.string(),
     // Co-incubation : présent uniquement quand un produit est porté par
-    // plusieurs incubateurs. `incubator` reste la valeur historique et doit
-    // faire partie de cette liste.
+    // plusieurs incubateurs. L'appartenance de `incubator` à cette liste est
+    // vérifiée plus bas : sans elle, la normalisation côté site ferait
+    // disparaître le produit des pages de son incubateur historique.
     incubators: z.array(z.enum(incubatorsIds)).min(2).optional(),
     contact: z.string(),
     link: z.string().optional().nullable(),
@@ -52,6 +53,13 @@ export const schema = z
     mon_service_securise: z.boolean().optional().nullable(),
   })
   .superRefine((obj, ctx) => {
+    if (obj.incubators && !obj.incubators.includes(obj.incubator)) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        message: `incubator "${obj.incubator}" is missing from incubators`,
+      });
+    }
+
     if (
       obj.phases.length !==
       Array.from(new Set(obj.phases.map((p) => p.name))).length
