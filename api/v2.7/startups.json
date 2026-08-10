@@ -79,7 +79,7 @@ layout: null
 , "included":
     [
     {% for incubator in site.incubators %}
-        { "id"        : "{{ incubator.id | remove:'/incubateurs/approche' }}"
+        { "id"        : "{{ incubator.id | remove:'/incubateurs/' }}"
         , "type"      : "incubator"
         , "attributes":
             { "title"  : "{{ incubator.title }}"

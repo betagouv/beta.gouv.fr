@@ -440,6 +440,27 @@
             "items": {
               "$ref": "#/components/schemas/StartupResource"
             }
+          },
+          "included": {
+            "type": "array",
+            "description": "Incubateurs référencés par les `relationships` des startups, inclus une seule fois plutôt que répétés sur chaque produit. Depuis la version 2.7 l'`id` est l'identifiant nu (`ademe`), ce qui rend les références résolvables. Dans les versions 2.6 et antérieures il restait préfixé (`/incubateurs/ademe`) et ne correspondait donc à aucune référence, ce qui rendait ce bloc inexploitable.",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Identifiant de l'incubateur, sans préfixe.",
+                  "example": "ademe"
+                },
+                "type": {
+                  "type": "string",
+                  "example": "incubator"
+                },
+                "attributes": {
+                  "$ref": "#/components/schemas/Incubator"
+                }
+              }
+            }
           }
         }
       },
