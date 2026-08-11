@@ -12,6 +12,8 @@ phases:
     end: 2022-09-01
   - name: construction
     start: 2022-09-01
+  - name: acceleration
+    start: 2025-11-11
 thematiques:
   - Écologie
   - Transports

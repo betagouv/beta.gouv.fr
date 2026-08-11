@@ -13,6 +13,8 @@ phases:
     start: 2023-04-24
   - name: construction
     start: 2024-04-17
+  - name: abandon
+    start: 2025-12-31
 thematiques:
   - Écologie
 usertypes: []
@@ -52,3 +54,6 @@ Il devient donc essentiel de mettre en place des **solutions qui facilitent la c
 La stratégie consiste à commencer par une **expérimentation sur le territoire de La Réunion**. Cette île tropicale océanique est confrontée à des défis particuliers en matière de gestion de l'eau (intrusions salines, impossibilité d'interconnecter les réseaux avec des territoires voisins...). Elle offre un contexte propice pour tester des approches novatrices. 
 
 En utilisant cette expérience pilote comme base de référence, l'objectif est ensuite de généraliser et d'étendre cette approche à l'ensemble du territoire.
+
+## Avancement
+Depuis le 31/12/2025, les missions de la startup Prélèvements d'eau ont été transférées à la startup Partageons l'eau, afin de faciliter l'extension à d'autres territoires au service du partage de la ressource en eau ([https://beta.gouv.fr/startups/partageons-l-eau.html]()).

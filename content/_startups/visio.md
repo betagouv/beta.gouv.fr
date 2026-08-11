@@ -26,6 +26,7 @@ events:
   - name: product_launch
     date: 2024-08-12
 stats_url: https://superset.beta.numerique.gouv.fr/superset/dashboard/lasuite/
+impact_url: https://docs.numerique.gouv.fr/docs/8e4ffd11-6bca-48f8-88ba-ac7cf310e7da/
 ---
 ## Contexte
 
