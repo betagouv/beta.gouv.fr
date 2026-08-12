@@ -30,6 +30,7 @@ events:
     date: 2025-10-01
 accessibility_status: partiellement conforme
 stats_url: https://superset.beta.numerique.gouv.fr/superset/dashboard/lasuite/
+impact_url: https://docs.numerique.gouv.fr/docs/8ae54676-74d1-4b73-84e2-dc5dc86a7055/
 ---
 ## Contexte
 
