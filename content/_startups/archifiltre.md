@@ -2,19 +2,20 @@
 title: Archifiltre
 mission: Aider les archivistes et les agents des administrations à appréhender et trier des arborescences de fichiers et des messageries complètes.
 sponsors:
+  - /organisations/mc
   - /organisations/service-interministeriel-des-archives-des-france
   - /organisations/solidarite-sante
 incubator: sgmas
-link: https://archifiltre.fabrique.social.gouv.fr
-repository: https://github.com/SocialGouv/archifiltre-docs
-contact: archifiltre@fabrique.social.gouv.fr
+link: https://www.archifiltre.org
+repository: https://github.com/ProgrammeVitam/archifiltre
+contact: archifiltre@culture.gouv.fr
 usertypes:
   - etat
   - collectivite-territoriale
   - entreprise
   - particulier
   - université
-stats_url: https://archifiltre.fabrique.social.gouv.fr/statistiques/
+stats_url: https://archifiltre.org/statistiques/
 stats: true
 events:
   - name: other
@@ -32,6 +33,9 @@ events:
   - name: committee
     date: 2020-06-25
     comment: Passage en comité d'investissement de la Fabrique numérique entérinant le soutien du service interministériel des archives de France
+  - name: other
+    date: 2026-01-01
+    comment: 'Transfert au sein du Programme Vitam au ministère de la Culture '
 phases:
   - name: investigation
     start: 2018-01-07
@@ -52,6 +56,7 @@ techno:
   - typescript
   - electron
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/startup/archifiltre
+contact_incubator: chloe.moser
 ---
 ## Le contexte
 
