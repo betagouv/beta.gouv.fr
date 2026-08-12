@@ -20,6 +20,7 @@ events:
   - name: committee
     date: 2025-10-17
 techno: []
+repository: https://github.com/betagouv/nitrates
 link: ''
 ---
 ## Contexte
