@@ -28,9 +28,6 @@ missions:
     startups:
       - envirogend
       - guichet-territorial-pour-la-transition-ecologique
-  - start: 2026-02-02
-    end: 2026-05-02
-    status: independent
 badges:
   - segur
 competences:
