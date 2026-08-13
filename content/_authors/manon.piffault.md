@@ -25,6 +25,12 @@ missions:
     status: independent
     startups:
       - reglementation-nitrates
+  - start: 2026-08-12
+    end: 2026-12-31
+    status: independent
+    employer: ut7
+    startups:
+      - ami
 badges:
   - segur
 competences: []
