@@ -16,15 +16,11 @@ mission: Garantir un contrôle de légalité des actes d'urbanisme fiable, trac�
 incubator: mtes
 contact_dinum: samuel.goldszmidt
 contact_incubator: samuel.goldszmidt
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2026-06-23
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-08-12
 ---
 ## Contexte
