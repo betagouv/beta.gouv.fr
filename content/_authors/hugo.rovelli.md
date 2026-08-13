@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-08-12
     end: 2027-02-12
-    employer: Creme de la crème
     status: independent
+    employer: Creme de la crème
     startups:
       - vert.impact
-teams: []
 ---
