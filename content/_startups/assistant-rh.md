@@ -7,7 +7,7 @@ thematiques:
 usertypes:
   - etat
 title: Assistant RH
-mission: IA générative permettant aux gestionnaires RH des SGCD de disposer d’une première analyse rapide basée sur un corpus réglementaire à jour.
+mission: IA générative permettant aux gestionnaires RH des SGCD de disposer d’une première analyse rapide basée sur un corpus réglementaire à jour
 incubator: alliance
 sponsors:
   - /organisations/dgafp
@@ -21,7 +21,7 @@ events:
     date: 2025-09-01
   - name: committee
     date: 2026-02-19
-    comment: '2ème phase de construction validée '
+    comment: '1er comité d''investissement : 2ème phase de construction validée '
 techno:
   - python
 repository: https://github.com/DGAFP/assistant-rh
@@ -77,51 +77,32 @@ Face à une question RH, une IA générative permettrait aux gestionnaires RH de
 
 L’objectif est d’obtenir une amélioration sensible du service rendu aux agents de l'ATE, d'améliorer les conditions de travail des gestionnaires RH des SGCD, d’installer les SGCD comme interlocuteur de référence pour toutes les questions RH (quel que soit le ministère dont relève l’agent), et de limiter la saisine des services d’administration centrale.
 
-## Objectifs à 6 mois
+## Objectif à 6 mois : déployer un premier MVP performant en situation réelle
 
-Pour l’expérimentation, on pose l’hypothèse que chaque agent RH des SGCD
-pourra gagner 5 à 10% de temps de travail grâce à la recherche automatique de
-sources et la formulation de réponses. 
+Première itération : 
+* expérimenter sur un périmètre restreint
 
-Hypothèses : 
+* 1 ministère de l'ATE
 
-i) ¼ du temps de travail des SGCD est consacré aux réponses 
+* 7 SGCD volontaires (+ 2 PFRH + 1 DREAL)
 
-ii) l’observation est réplicable entre plusieurs thématiques.
+* une thématique RH à fort enjeu et donc à fort impact (les contractuels)
 
-Indicateurs de résultat permettant d’évaluer l’atteinte des objectifs du projet,
-d’ici décembre 2025 :
-
-● Amélioration de la qualité de vie au travail des agents RH des SGCD
-(amélioration de 20% mesuré dans un questionnaire de satisfaction) ;
-
-● Taux de pertinence des sources supérieur à 65% ;
-
-● Délai de réponse aux agents réduit de 20%.
+Les principaux indicateurs de la première itération : 
+* Taux de pertinence des réponses : 70 %
+* Confiance dans les réponses fournies : 78 %
+* Délai de réponse aux agents : 12 minutes de gain en moyenne par réponse
+* Qualité de vie au travail des gestionnaires RH des SGCD : 86 % (de réponse "Oui, cet outil améliorerait la QVT")
 
 À noter : il existe un potentiel de réduction du nombre de recours administratifs
 (hiérarchiques ou contentieux) grâce à une amélioration de la qualité des réponses
 données par les agents RH des SGCD
 
 
-Selon les résultats observés, les étapes sont les suivantes :
+## Lors du 1er comité d'investissement du 19 février 2026, les orientations suivantes ont été décidées : 
+* 2nde itération de mars à octobre 2026 : étendre le périmètre aux quatre autres ministères de l’ATE (MI, MSO, MASA, MEF) et tester la pertinence de l’outil dans une version interministérielle (en conservant les mêmes testeurs et la même thématique RH) ; la décision d'intégration de l'Assistant RH à l'Assistant IA de la DINUM sera à l'ordre du jour du second comité d'investissement en octobre 2026 ; 
+* 3ème itération de novembre 2026 à mars 2027 : ++en fonction des résultats en version interministérielle et des futurs choix de trajectoire++, élargir à tous les 100 SGCD (1200 gestionnaires RH) et intégrer de nouvelles thématiques RH par incréments successifs (selon les capacités) ;
 
-à 6 mois : expérimenter sur un périmètre dans un premier temps restreint :
-
-* 1 ministère de l'ATE
-
-* 6 SGCD volontaires 
-
-* une thématique RH à fort enjeu et donc à fort impact 
-
-* Créer d'abord un wikiRH, puis définir une stratégie d'IA générative atteignable au vu du corpus collecté.
-
-à 1 an : en fonction des résultats, élargir à tous les ministères de l'ATE en conservant les mêmes SGCD et la même thématique ;
-
-à 18 mois : en fonction de l'impact de la thématique, élargir à tous les 100 SGCD (1200 gestionnaires RH) ;
-
-à 2 ans : élargir à davantage de thématiques ;
-
-à 3 ans : élargir à d'autres ministères hors périmètre ATE.
+Au delà de la généralisation aux gestionnaires des SGCD, il sera étudié en 2027 l'ouverture à d'autres ministères hors périmètre ATE.
 
 Il est important de souligner qu'il s'agit d'un projet qui s'inscrit dans la durée, car il faut que les données soient régulièrement actualisées afin de tenir compte des évolutions législatives et/ou réglementaires en matière RH.
