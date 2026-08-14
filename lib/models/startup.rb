@@ -8,7 +8,7 @@ module Beta
   class Startup < Base
     FOLDER_IDENTIFIER = '_startups'
 
-    interesting :id, :incubator, :title, :phases, :mission, :accessibility_status
+    interesting :id, :incubator, :incubators, :title, :phases, :mission, :accessibility_status
 
     PHASES = %w[investigation
                 construction
@@ -26,6 +26,18 @@ module Beta
       consolidation
       opere
     ].freeze
+
+    # `incubators` is only written for co-incubated products, so it can't be
+    # read directly: `incubator` is the historical single value and is the only
+    # one guaranteed to be there.
+    def incubator_ids
+      ids = Array(incubators).compact
+      ids.empty? ? Array(incubator).compact : ids
+    end
+
+    def incubated_by?(incubator_id)
+      incubator_ids.include?(incubator_id)
+    end
 
     def latest_phase
       phases
@@ -73,6 +85,10 @@ module Beta
       { name: document.data['title'] }
         .merge(document.data.slice(*API_SINGLE_FIELDS))
         .merge(
+          # Normalized rather than sliced from the frontmatter, which only
+          # carries `incubators` for co-incubated products: consumers always
+          # get a list, whatever the product.
+          incubators: incubator_ids,
           active_members: active_members.map(&:id),
           previous_members: previous_members.map(&:id)
         )

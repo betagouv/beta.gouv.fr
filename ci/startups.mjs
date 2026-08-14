@@ -6,6 +6,11 @@ const organisationsIds = (await fs.readdir(organisationsPath))
   .filter((path) => path.endsWith(".md"))
   .map((p) => p.replace(/\.md$/, ""));
 
+const incubatorsPath = "./content/_incubators";
+const incubatorsIds = (await fs.readdir(incubatorsPath))
+  .filter((path) => path.endsWith(".md"))
+  .map((p) => p.replace(/\.md$/, ""));
+
 export const schema = z
   .object({
     title: z.string(),
@@ -14,6 +19,11 @@ export const schema = z
       .array(z.enum(organisationsIds.map((id) => `/organisations/${id}`)))
       .optional(),
     incubator: z.string(),
+    // Co-incubation : présent uniquement quand un produit est porté par
+    // plusieurs incubateurs. L'appartenance de `incubator` à cette liste est
+    // vérifiée plus bas : sans elle, la normalisation côté site ferait
+    // disparaître le produit des pages de son incubateur historique.
+    incubators: z.array(z.enum(incubatorsIds)).min(2).optional(),
     contact: z.string(),
     link: z.string().optional().nullable(),
     repository: z.string().optional().nullable(),
@@ -43,6 +53,23 @@ export const schema = z
     mon_service_securise: z.boolean().optional().nullable(),
   })
   .superRefine((obj, ctx) => {
+    if (obj.incubators && !obj.incubators.includes(obj.incubator)) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        message: `incubator "${obj.incubator}" is missing from incubators`,
+      });
+    }
+
+    if (
+      obj.incubators &&
+      obj.incubators.length !== new Set(obj.incubators).size
+    ) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        message: "Duplicated incubators",
+      });
+    }
+
     if (
       obj.phases.length !==
       Array.from(new Set(obj.phases.map((p) => p.name))).length

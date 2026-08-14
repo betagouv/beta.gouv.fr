@@ -25,8 +25,16 @@ module Jekyll
 
       startups
         .map    { |startup| Beta::Startup.from_document(startup) }
-        .select { |startup| startup.incubator == incubator_id }
+        .select { |startup| startup.incubated_by?(incubator_id) }
         .count(&:active?)
+    end
+
+    # Replaces `where: 'incubator', id`, which misses co-incubated products:
+    # Liquid's `where` can only compare against a single value.
+    def where_incubator(startups, incubator_id)
+      startups.select do |startup|
+        Beta::Startup.from_document(startup).incubated_by?(incubator_id)
+      end
     end
 
     def count_all_active_startups(startups)
@@ -55,22 +63,23 @@ module Jekyll
       incubators = context.registers[:site].collections['incubators']
       Date.today
       startups.docs.each do |startup|
-        incubator = startup['incubator']
-        next unless incubator
+        Beta::Startup.from_document(startup).incubator_ids.each do |incubator|
+          next unless incubator
 
-        unless result[incubator]
-          result[incubator] = {
-            'startups' => []
-          }
+          unless result[incubator]
+            result[incubator] = {
+              'startups' => []
+            }
+          end
+          result[incubator]['startups'].push({
+                                               'id' => startup.id.gsub('/startups/', ''),
+                                               'name' => startup['title'],
+                                               'pitch' => startup['mission'],
+                                               'repository' => startup['repository'],
+                                               'contact' => startup['contact'],
+                                               'phases' => startup['phases']
+                                             })
         end
-        result[incubator]['startups'].push({
-                                             'id' => startup.id.gsub('/startups/', ''),
-                                             'name' => startup['title'],
-                                             'pitch' => startup['mission'],
-                                             'repository' => startup['repository'],
-                                             'contact' => startup['contact'],
-                                             'phases' => startup['phases']
-                                           })
       end
       incubators.docs.each do |incubator|
         incubatorName = incubator.id.gsub('/incubateurs/', '')

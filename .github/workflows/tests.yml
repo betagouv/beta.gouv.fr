@@ -70,6 +70,9 @@ jobs:
     - name: Lint JSON API pages
       run: bundle exec jsonlint _site/api/v*/*.json
 
+    - name: Check JSON:API references
+      run: node ci/tests-api.mjs
+
     - name: Wait for server to start
       run: |
           (bundle exec jekyll serve --no-watch --skip-initial-build)&

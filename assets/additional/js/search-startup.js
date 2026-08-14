@@ -108,7 +108,11 @@ const displayNoDataMessage = (shouldDisplay) => {
 const filterCards = (startups) => {
   return startups
     .filter((startup) =>
-      filters.incubator ? startup.incubator_id === filters.incubator : true,
+      filters.incubator
+        ? (startup.incubator_ids || [startup.incubator_id]).includes(
+            filters.incubator,
+          )
+        : true,
     )
     .filter((startup) =>
       filters.usertypes

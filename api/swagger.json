@@ -3,7 +3,7 @@
   "info": {
     "title": "beta.gouv.fr API",
     "description": "API publique permettant d'accéder aux données des startups d'État, des membres, des incubateurs, des organisations et des sponsors de beta.gouv.fr",
-    "version": "2.6.0",
+    "version": "2.7.0",
     "contact": {
       "name": "beta.gouv.fr",
       "url": "https://beta.gouv.fr"
@@ -15,7 +15,7 @@
   },
   "servers": [
     {
-      "url": "https://beta.gouv.fr/api/v2.6",
+      "url": "https://beta.gouv.fr/api/v2.7",
       "description": "Production server"
     }
   ],
@@ -440,6 +440,27 @@
             "items": {
               "$ref": "#/components/schemas/StartupResource"
             }
+          },
+          "included": {
+            "type": "array",
+            "description": "Incubateurs référencés par les `relationships` des startups, inclus une seule fois plutôt que répétés sur chaque produit. Depuis la version 2.7 l'`id` est l'identifiant nu (`ademe`), ce qui rend les références résolvables. Dans les versions 2.6 et antérieures il restait préfixé (`/incubateurs/ademe`) et ne correspondait donc à aucune référence, ce qui rendait ce bloc inexploitable.",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Identifiant de l'incubateur, sans préfixe.",
+                  "example": "ademe"
+                },
+                "type": {
+                  "type": "string",
+                  "example": "incubator"
+                },
+                "attributes": {
+                  "$ref": "#/components/schemas/Incubator"
+                }
+              }
+            }
           }
         }
       },
@@ -467,6 +488,7 @@
             "properties": {
               "incubator": {
                 "type": "object",
+                "description": "Incubateur historique. Pour un produit co-incubé, il s'agit de l'un des incubateurs de `incubators`.",
                 "properties": {
                   "data": {
                     "type": "object",
@@ -478,6 +500,28 @@
                       "id": {
                         "type": "string",
                         "example": "agriculture"
+                      }
+                    }
+                  }
+                }
+              },
+              "incubators": {
+                "type": "object",
+                "description": "Tous les incubateurs du produit. Contient un seul élément pour un produit mono-incubé, plusieurs pour un produit co-incubé.",
+                "properties": {
+                  "data": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "type": {
+                          "type": "string",
+                          "example": "incubator"
+                        },
+                        "id": {
+                          "type": "string",
+                          "example": "agriculture"
+                        }
                       }
                     }
                   }
