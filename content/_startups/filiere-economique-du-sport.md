@@ -1,13 +1,15 @@
 ---
 contact: angele.chapoullie@sports.gouv.fr
-thematiques: []
+thematiques:
+  - Sport
 usertypes:
   - association
   - entreprise
   - etat
   - collectivite-territoriale
+  - Mouvement sportif
 techno: []
-title: Filière économique du sport
+title: Filière Sport
 mission: Animer les acteurs de la filière économique du sport
 incubator: dinum
 sponsors:
@@ -15,9 +17,13 @@ sponsors:
 phases:
   - name: investigation
     start: 2026-04-23
+  - name: construction
+    start: 2026-07-10
 events:
   - name: product_launch
     date: 2026-04-22
+  - name: committee
+    date: 2026-07-10
 contact_dinum: lucie.zaccardi
 link: ''
 ---

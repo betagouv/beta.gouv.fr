@@ -21,6 +21,12 @@ missions:
     employer: NUMA
     startups:
       - emile
+  - start: 2026-06-23
+    end: 2026-10-31
+    status: independent
+    employer: NUMA
+    startups:
+      - prelex
 link: https://www.linkedin.com/in/hardybenjamin
 memberType: beta
 competences:
