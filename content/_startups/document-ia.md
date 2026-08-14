@@ -28,6 +28,8 @@ events:
     date: 2026-01-01
     comment: Premier déploiement dans DossierFacile
 repository: https://github.com/betagouv/document-ia
+stats_url: https://metabase.document-ia.beta.gouv.fr/public/dashboard/6540a17d-2f64-41b7-88d8-48cfa278108f
+impact_url: https://metabase.document-ia.beta.gouv.fr/public/dashboard/6540a17d-2f64-41b7-88d8-48cfa278108f
 link: ''
 ---
 Document-IA est une solution **générique, souveraine** et **sécurisée** d'**analyse automatique** de **documents** et **pièces justificatives**. Ce produit est portée par l'incubateur [ALLiaNCE](https://alliance.numerique.gouv.fr/) de la DINUM et pensé comme un commun numérique.

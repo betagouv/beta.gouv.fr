@@ -12,7 +12,7 @@ missions:
       - la-bonne-boite
       - memo
   - start: 2019-07-01
-    end: 2027-04-27
+    end: 2026-07-01
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:

@@ -21,7 +21,10 @@ events:
   - name: committee
     date: 2026-01-28
     comment: poursuite du projet
-link: ''
+  - name: committee
+    date: 2026-11-12
+    comment: Date à arrêter
+link: https://amidomar.beta.gouv.fr/
 ---
 ## Contexte
 La gestion et le contrôle des occupations du domaine public maritime naturel (DPMn) dans un contexte où l'impact du changement climatique sur ce domaine est important. 
