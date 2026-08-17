@@ -10,17 +10,17 @@ competences:
   - UX
 missions:
   - start: 2024-09-01
-    end: 2026-08-31
+    end: 2026-05-31
     status: admin
     startups:
       - mon-devis-sans-oublis
   - start: 2025-08-22
-    end: 2026-08-31
+    end: 2027-08-31
     status: admin
     startups:
       - fonds-prevention-argile
   - start: 2025-08-22
-    end: 2026-08-31
+    end: 2027-08-31
     status: admin
   - start: 2025-08-22
     end: 2026-04-17

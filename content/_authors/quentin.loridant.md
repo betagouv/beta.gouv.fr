@@ -24,7 +24,7 @@ missions:
     startups:
       - rapportnav
   - start: 2026-01-05
-    end: 2026-09-01
+    end: 2027-01-27
     status: independent
     employer: Ut/7
     startups:

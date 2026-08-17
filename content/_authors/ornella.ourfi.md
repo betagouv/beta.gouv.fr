@@ -5,9 +5,8 @@ domaine: Développement
 github: ornella452
 missions:
   - start: 2021-05-24
-    end: 2026-08-31
+    end: 2026-10-30
     status: independent
-    employer: React-IT
     startups:
       - france-numerique-ensemble
 badges:

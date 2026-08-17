@@ -20,6 +20,10 @@ techno:
   - angular
   - git
 link: https://travailler-en-france.francetravail.fr
+contact_incubator: hanane.mokhtari
+events:
+  - name: committee
+    date: 2026-05-28
 ---
 **Contexte**
 

@@ -79,7 +79,7 @@ L’objectif est d’obtenir une amélioration sensible du service rendu aux age
 
 ## Objectif à 6 mois : déployer un premier MVP performant en situation réelle
 
-Première itération : 
+Première itération (de septembre 2025 à mars 2026) : 
 * expérimenter sur un périmètre restreint
 
 * 1 ministère de l'ATE
@@ -101,7 +101,7 @@ données par les agents RH des SGCD
 
 ## Lors du 1er comité d'investissement du 19 février 2026, les orientations suivantes ont été décidées : 
 * 2nde itération de mars à octobre 2026 : étendre le périmètre aux quatre autres ministères de l’ATE (MI, MSO, MASA, MEF) et tester la pertinence de l’outil dans une version interministérielle (en conservant les mêmes testeurs et la même thématique RH) ; la décision d'intégration de l'Assistant RH à l'Assistant IA de la DINUM sera à l'ordre du jour du second comité d'investissement en octobre 2026 ; 
-* 3ème itération de novembre 2026 à mars 2027 : ++en fonction des résultats en version interministérielle et des futurs choix de trajectoire++, élargir à tous les 100 SGCD (1200 gestionnaires RH) et intégrer de nouvelles thématiques RH par incréments successifs (selon les capacités) ;
+* 3ème itération de novembre 2026 à mars 2027 : en fonction des résultats en version interministérielle et des futurs choix de trajectoire, élargir à tous les 100 SGCD (1200 gestionnaires RH) et intégrer de nouvelles thématiques RH par incréments successifs (selon les capacités) ;
 
 Au delà de la généralisation aux gestionnaires des SGCD, il sera étudié en 2027 l'ouverture à d'autres ministères hors périmètre ATE.
 

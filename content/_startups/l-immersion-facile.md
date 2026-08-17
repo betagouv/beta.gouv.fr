@@ -28,6 +28,9 @@ phases:
 usertypes:
   - particulier
   - entreprise
+  - etat
+  - association
+  - collectivite-territoriale
 fast:
   promotion: 14
   montant: 300000
@@ -39,6 +42,8 @@ techno:
   - react
   - JS
 dashlord_url: https://dashlord.incubateur.net/url/immersion-facile-beta-gouv-fr/
+impact_url: https://docs.numerique.gouv.fr/docs/a87ab0a2-a4c3-49ea-83b9-73f8eed71f20/
+contact_dinum: nathalie.reyre
 ---
 ## Le problème
 
@@ -58,7 +63,7 @@ Parce qu’il existait autant de formes de bilan qu’il y a de structures accom
 
 ## Notre service
 
-Mettre à disposition des acteurs de l’orientation et de l’insertion professionnelle un commun numérique, “Immersion facilitée” reposant sur deux piliers :
+Mettre à disposition des acteurs du Réseau pour l'emploi et plus largement de tous les acteurs de  l’orientation et de l’insertion professionnelle un commun numérique, “Immersion facilitée” reposant sur deux piliers :
 
 * la dématérialisation de la convention et du bilan
 * une base de terrains d' immersions construite sur un annuaire d’entreprises accueillantes, volontaires pour accueillir en immersion professionnelle sur leurs métiers. Cette base de terrains d'immersion est enrichie par l’appel à des bases existantes (La Bonne Boîte …) pour proposer des entreprises à prospecter prioritairement.
@@ -67,7 +72,7 @@ Mettre à disposition des acteurs de l’orientation et de l’insertion profess
 **Les résultats obtenus :**
 
 * un nombre croissant d’immersions réalisées en année pleine : près de 550 000 en 2025 dont 70% ont été contractualisées sur Immersion Facilitée
-* une baisse significative du délai de validation : le délai moyen de validation sur Immersion Facilitée est de 48h.
+* une baisse significative du délai de validation : le délai moyen de validation sur Immersion Facilitée est de moins de  72h.
 * une baisse significative du délai de démarrage d’une immersion : les demandes de convention sont désormais majoritairement transmises une semaine avant la date de démarrage
 * une baisse significative du taux d’annulation ante immersion
 *  près de 75% des immersions réalisées en 2026 font l'objet d'un bilan complété par l'entreprise. Depuis mai 2026, le bilan est signé et peut être complété par le bénéficiaire. 

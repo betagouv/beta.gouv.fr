@@ -10,19 +10,16 @@ missions:
     status: admin
     employer: DINUM
     startups:
-      - pass-sport
-  - start: 2022-10-17
-    end: 2026-12-31
-    status: admin
-    employer: DINUM
-    startups:
       - cnr
       - csplab
       - data-dsn
       - datalma
       - enjeu-biodiversite-parc-naturel-marin
+      - france.nation.verte.agir
       - la.bonne.renov
+      - pass-sport
       - reperer.identifier.victimes.teh
+      - transports-sanitaires
 teams:
   - /teams/dinum-incubateur
 badges:

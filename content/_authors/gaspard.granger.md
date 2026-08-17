@@ -4,7 +4,7 @@ domaine: Animation
 role: Responsable de portefeuille - Fabrique numérique du MTECT
 missions:
   - start: 2019-11-20
-    end: 2026-08-31
+    end: 2027-08-31
     status: admin
     employer: Ministère de la transition écologique
     startups:
