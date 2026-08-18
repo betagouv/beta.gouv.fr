@@ -1,13 +1,13 @@
 ---
 fullname: Juliette MALLEJAC
-role: 'Chargée de Modération, d''Animation et d''Assistance aux utilisateurs '
-domaine: Animation
+role: Lead Support & Expérience Utilisateurs
+domaine: Support
 competences: []
 missions:
   - start: 2025-06-23
-    end: 2026-10-29
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:
-      - jeveuxaider
+      - api-engagement
 ---
