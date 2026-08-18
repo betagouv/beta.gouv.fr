@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2026-08-14
     end: 2026-11-30
-    employer: Octo
     status: independent
+    employer: Octo
     startups:
       - filiere-economique-du-sport
-teams: []
 ---

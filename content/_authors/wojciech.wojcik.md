@@ -22,7 +22,7 @@ missions:
     startups:
       - plateforme-agriculteurs
   - start: 2026-05-13
-    end: 2026-09-15
+    end: 2026-12-31
     status: service
     employer: OCTO
     startups:

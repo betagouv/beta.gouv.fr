@@ -8,7 +8,7 @@ sponsors:
   - /organisations/mtfp
 incubator: dinum
 link: https://cfas.apprentissage.beta.gouv.fr
-contact: tableau-de-bord@apprentissage.beta.gouv.fr
+contact: tableaudebord@apprentissage.beta.gouv.fr
 stats_url: https://cfas.apprentissage.beta.gouv.fr/stats
 stats: true
 events:
@@ -38,7 +38,7 @@ thematiques:
 techno: []
 impact_url: https://docs.numerique.gouv.fr/docs/9f270fdc-dd8c-4200-8c7f-f5a73170a6db/
 ---
-**Le tableau de bord de l'apprentissage a été incubé au sein de la mission interministérielle pour l’apprentissage de 2020 à 2024.**
+**Le Tableau de bord de l'apprentissage a été incubé au sein de la mission interministérielle pour l’apprentissage de 2020 à 2024.**
 
 ## Constat
 

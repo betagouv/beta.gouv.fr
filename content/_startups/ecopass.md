@@ -25,6 +25,9 @@ phases:
 events:
   - name: product_launch
     date: 2026-07-29
+incubators:
+  - ademe
+  - mtes
 ---
 ## Contexte
 

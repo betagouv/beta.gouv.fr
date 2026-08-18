@@ -16,7 +16,7 @@ missions:
     startups:
       - dora
   - start: 2025-10-15
-    end: 2026-08-31
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

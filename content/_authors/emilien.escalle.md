@@ -11,7 +11,7 @@ competences:
   - Docker
 missions:
   - start: 2026-08-17
-    end: 2026-12-17
+    end: 2026-12-31
     status: independent
     employer: RESAH-MALT
     startups:
