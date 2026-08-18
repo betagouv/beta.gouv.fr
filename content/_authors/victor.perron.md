@@ -5,7 +5,7 @@ domaine: Développement
 github: vperron
 missions:
   - start: 2022-01-24
-    end: 2026-09-16
+    end: 2026-11-18
     status: independent
     employer: Malt
     startups:

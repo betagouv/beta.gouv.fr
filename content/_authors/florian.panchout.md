@@ -11,11 +11,12 @@ missions:
     startups:
       - nosgestesclimat
   - start: 2025-09-04
-    end: 2026-08-31
+    end: 2027-01-30
     status: independent
     employer: Malt
     startups:
       - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
 badges:
   - segur
+competences: []
 ---

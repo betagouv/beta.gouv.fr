@@ -21,7 +21,11 @@ phases:
 events:
   - name: committee
     date: 2025-10-28
-techno: []
+techno:
+  - Grist
+  - react
+repository: https://github.com/betagouv/approbiom
+contact_incubator: denis.baudot
 link: ''
 ---
 ## Contexte

@@ -6,14 +6,14 @@ competences:
   - Sécurité informatique
 missions:
   - start: 2025-06-02
-    end: 2026-11-30
+    end: 2026-12-31
     status: independent
     employer: UT7
     startups:
       - la-bonne-alternance
       - tdb-apprentissage
   - start: 2026-02-27
-    end: 2026-11-30
+    end: 2026-12-31
     status: independent
     employer: UT7
     startups:

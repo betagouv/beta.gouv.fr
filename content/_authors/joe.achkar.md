@@ -13,7 +13,7 @@ missions:
       - api-engagement
       - snu
   - start: 2020-05-18
-    end: 2026-09-30
+    end: 2027-01-31
     status: independent
     employer: Malt - Theodo
     startups:

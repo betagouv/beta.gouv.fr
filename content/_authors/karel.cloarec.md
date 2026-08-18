@@ -96,13 +96,13 @@ missions:
     startups:
       - tous.a.bord
   - start: 2026-01-19
-    end: 2026-09-30
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:
       - agrements-assistants-maternels-et-familiaux
   - start: 2026-04-27
-    end: 2026-09-30
+    end: 2026-12-31
     status: independent
     employer: Dynergie
     startups:

@@ -3,8 +3,8 @@ fullname: Étienne Tricot
 role: Directeur de mission
 domaine: Produit
 missions:
-  - start: 2026-02-02
-    end: 2026-07-30
+  - start: 2026-08-15
+    end: 2026-11-14
     status: service
     employer: OCTO Technology
 memberType: attributaire

@@ -10,7 +10,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2024-07-15
-    end: 2026-09-16
+    end: 2027-02-18
     status: independent
     employer: Tiqa
     startups:
