@@ -23,7 +23,7 @@ missions:
     startups:
       - mediation.logement
   - start: 2026-05-18
-    end: 2026-11-18
+    end: 2026-12-31
     status: independent
     employer: Docaposte
     startups:

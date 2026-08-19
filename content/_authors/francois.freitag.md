@@ -5,7 +5,7 @@ domaine: Développement
 github: francoisfreitag
 missions:
   - start: 2022-09-05
-    end: 2026-09-15
+    end: 2027-01-26
     status: independent
     employer: Malt
     startups:
@@ -15,6 +15,18 @@ previously:
   - carnet.de.bord
   - inclusion.connect
   - la.communaute.de.linclusion
-competences: []
+competences:
+  - Python
+  - PostgreSQL
+  - JavaScript/TypeScript
+  - Développement Full-stack
+  - Développement Backend
+  - Développement Frontend
+  - PHP
+  - Matomo
+  - Sécurité informatique
+  - Administration Système
+  - DevOps
+  - Docker
 ---
 Développeur Python 🐍. Lanceur de 🥏, aussi pour mon 🐕.
