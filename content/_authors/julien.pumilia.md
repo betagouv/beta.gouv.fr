@@ -11,6 +11,18 @@ missions:
     employer: Opteamis
     startups:
       - signalement
+  - start: 2026-08-17
+    end: 2027-02-17
+    status: independent
+    employer: Malt
+    startups:
+      - conseillers-entreprises
+  - start: 2026-08-17
+    end: 2027-02-17
+    status: independent
+    employer: Malt
+    startups:
+      - conseillers-entreprises
 previously:
   - dora
 ---
