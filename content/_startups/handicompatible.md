@@ -3,7 +3,7 @@ analyse_risques: false
 mon_service_securise: false
 contact: lbarrat@capemploi69.org
 title: INCLU+
-mission: "Inclu+ est une solution numérique  qui permet aux personnes en situation de handicap, avec l'aide de leur conseiller,\_de mieux prendre en compte l'impact de leur situation de handicap dans l'élaboration de leur projet professionnel."
+mission: "Inclu+ est un outil d’aide à la décision qui permet aux conseillères et conseillers, avec le chercheur d’emploi en situation de handicap, de mieux prendre en compte l’impact de sa situation de handicap afin de dynamiser son retour à l’emploi.\_"
 incubator: francetravail
 phases:
   - name: investigation
@@ -45,9 +45,9 @@ link: ''
 ---
 ## **👨🏼‍🦯‍➡️Contexte général**
 
-Aujourd’hui les demandeurs d’emploi en situation de handicap subissent toujours une discrimination à l’emploi importante, 12% de taux de chômage. Leur insertion professionnelle est un défi complexe qui nécessite une approche personnalisée.
+Aujourd’hui les demandeurs d’emploi en situation de handicap subissent toujours une discrimination à l’emploi importante, 11,5% de taux de chômage. Leur insertion professionnelle est un défi complexe qui nécessite une approche personnalisée.
 
-Au sein du Réseau Pour l'Emploi (RPE), le public en situation de handicap est accompagné conjointement par France Travail et Cap Emploi et leurs actions sont mobilisées autour d'une offre de service intégrée et mutualisée. Aujourd'hui, c'est plus de 500 000 personnes qui sont accompagné vers le retour à l'emploi, 80% sont accompagné par France Travail et 20% par l'organisme expert sur le champ du handicap, Cap Emploi.
+Au sein du Réseau Pour l'Emploi (RPE), le public en situation de handicap est accompagné conjointement par France Travail et Cap Emploi et leurs actions sont mobilisées autour d'une offre de service intégrée et mutualisée. Aujourd'hui, c'est plus de 500 000 personnes qui sont accompagnés vers le retour à l'emploi, 80% sont accompagné par France Travail et 20% par l'organisme expert sur le champ du handicap, Cap Emploi. C'est pourquoi nous nous sommes associés pour créer Inclu+.
 
 ---
 
@@ -88,7 +88,7 @@ témoins)
 une MER+, 3 des 5 DESH sont en CDI 
 sur le même poste.
 
-**On ne veut pas s'arrêter là, on veut élargir notre proposition de valeur.** Inclure toutes les personnes ayant un projet professionnel défini ou non. Le jury refuse notre demande de deuxième expérimentation❎. 
+**On ne veut pas s'arrêter là, on veut élargir notre proposition de valeur.** Inclure toutes les personnes ayant un projet professionnel défini ou non. Le jury refuse notre demande de deuxième expérimentation et de partir en construction❎. 
 
 **GO, soyons plus ambitieux 🚀 !** Construire sur la valeur déjà 
 prouvée, puis tester la valeur élargie en parallèle.

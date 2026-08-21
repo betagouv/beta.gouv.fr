@@ -5,7 +5,7 @@ domaine: Produit
 github: tdauvet89
 missions:
   - start: 2023-09-18
-    end: 2026-08-18
+    end: 2026-11-19
     status: independent
     employer: Scopyleft
   - start: 2023-09-18

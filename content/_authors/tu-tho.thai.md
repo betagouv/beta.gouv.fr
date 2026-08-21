@@ -13,7 +13,7 @@ competences:
   - Product strategy
 missions:
   - start: 2024-10-22
-    end: 2026-11-30
+    end: 2026-12-30
     status: independent
     employer: Numa
     startups:
