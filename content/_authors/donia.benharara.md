@@ -12,7 +12,7 @@ missions:
     startups:
       - sante-psy-etudiant
   - start: 2025-06-01
-    end: 2026-09-01
+    end: 2026-11-24
     status: service
     employer: Pathtech
     startups:

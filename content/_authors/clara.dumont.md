@@ -11,9 +11,8 @@ missions:
     startups:
       - dossierfacile
   - start: 2022-09-21
-    end: 2026-08-31
+    end: 2027-08-31
     status: admin
-    employer: Malt
     startups:
       - mon-suivi-social
 previously:

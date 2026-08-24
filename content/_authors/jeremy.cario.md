@@ -7,7 +7,7 @@ competences:
   - Communication
 missions:
   - start: 2026-03-09
-    end: 2026-09-09
+    end: 2026-12-31
     status: service
     employer: DOCAPOSTE LA MANUFACTURE
 ---

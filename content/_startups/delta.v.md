@@ -24,7 +24,7 @@ dashlord_url: https://dashlord.incubateur.net/url/declare-douane-beta-gouv-fr/
 repository: https://github.com/betagouv/delta-v
 accessibility_status: non conforme
 techno: []
-link: ''
+link: https://www.douane.gouv.fr/declaredouane/ihm/accueil
 ---
 Déclare Douane est un service à destination de toute personne voyageant à l’étranger.
 
@@ -44,4 +44,4 @@ Ce domaine réglementaire est également compliqué à gérer pour les agents de
 
 ## Arrêt de la startup d’état et pérennisation du service :
 La collaboration sous forme de startup d'etat s'est terminée en 2024.
-Le service est actuellement en cours d’internalisation dans les outils SI de la DGDDI avec une mise en production prévue pour début 2026. Le front a notamment été revu pour intégrer les exigences DSFR et RGAA.
+Le service a été ré-internalisé dans les outils SI de la DGDDI avec une mise en ligne en juillet 2026.
