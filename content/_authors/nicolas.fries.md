@@ -11,7 +11,7 @@ missions:
     startups:
       - cmachance
   - start: 2022-03-28
-    end: 2026-08-26
+    end: 2027-01-31
     status: independent
     employer: OMNICITE
     startups:

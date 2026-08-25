@@ -3,7 +3,7 @@ title: Résorption Bidonvilles
 mission: Connaître, partager et agir pour résorber les bidonvilles
 sponsors:
   - /organisations/dihal
-incubator: mtes
+incubator: (MTE)
 repository: https://github.com/MTES-MCT/resorption-bidonvilles
 contact: contact@resorption-bidonvilles.beta.gouv.fr
 stats_url: https://resorption-bidonvilles.beta.gouv.fr/stats

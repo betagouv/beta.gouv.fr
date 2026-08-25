@@ -11,7 +11,7 @@ usertypes:
   - collectivite-territoriale
 title: Partageons l'eau
 mission: Mieux mesurer la ressource et les prélèvements pour favoriser un partage collectif et équitable de l’eau, tous usages confondus
-incubator: mtes
+incubator: (MTE)
 sponsors:
   - /organisations/deb
   - /organisations/dgaln

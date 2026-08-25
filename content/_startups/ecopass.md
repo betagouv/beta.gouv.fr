@@ -13,7 +13,7 @@ usertypes:
 techno: []
 title: Ecopass
 mission: Permettre à chacun de calculer le coût environnemental des produits textiles
-incubator: mtes
+incubator: (MTE)
 sponsors:
   - /organisations/ademe
   - /organisations/cgdd
@@ -27,7 +27,7 @@ events:
     date: 2026-07-29
 incubators:
   - ademe
-  - mtes
+  - (MTE)
 ---
 ## Contexte
 

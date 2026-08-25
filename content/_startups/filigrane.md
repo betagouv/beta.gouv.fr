@@ -4,7 +4,7 @@ mission: Protéger les personnes de l'usurpation d'identité via leurs documents
 sponsors:
   - /organisations/dgaln
   - /organisations/dhup
-incubator: mtes
+incubator: (MTE)
 link: https://filigrane.beta.gouv.fr/
 repository: https://github.com/mtes-mct/locatio
 contact: contact@filigrane.beta.gouv.fr

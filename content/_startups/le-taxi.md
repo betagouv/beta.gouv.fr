@@ -3,7 +3,7 @@ title: le.taxi
 mission: Un taxi, tout de suite !
 sponsors:
   - /organisations/dgitm
-incubator: mtes
+incubator: (MTE)
 phases:
   - name: investigation
     start: 2015-03-15

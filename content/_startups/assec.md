@@ -4,7 +4,7 @@ mission: Optimiser la réponse collective du monde agricole et des services de l
 sponsors:
   - /organisations/deb
   - /organisations/dgaln
-incubator: mtes
+incubator: (MTE)
 events:
   - name: end
     date: 2018-12-31

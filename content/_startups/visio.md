@@ -22,6 +22,8 @@ phases:
     start: 2024-06-01
   - name: construction
     start: 2024-08-01
+  - name: acceleration
+    start: 2026-01-01
 events:
   - name: product_launch
     date: 2024-08-12

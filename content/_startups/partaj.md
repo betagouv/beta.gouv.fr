@@ -3,7 +3,7 @@ title: PARTAJ
 mission: Faciliter l'accès à une expertise juridique de qualité
 sponsors:
   - /organisations/mtes
-incubator: mtes
+incubator: (MTE)
 phases:
   - name: construction
     start: 2019-11-01

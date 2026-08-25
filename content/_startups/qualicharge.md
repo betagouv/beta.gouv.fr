@@ -3,7 +3,7 @@ title: QualiCharge
 mission: ' La plateforme des données de recharge et des certificats TIRUERT électrique'
 sponsors:
   - /organisations/mtes
-incubator: mtes
+incubator: (MTE)
 contact: contact@qualicharge.beta.gouv.fr
 accessibility_status: non conforme
 phases:

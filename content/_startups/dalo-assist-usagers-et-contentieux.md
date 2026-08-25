@@ -10,7 +10,7 @@ usertypes:
   - etat
 title: DAHL'ia
 mission: Assistant IA pour faciliter le traitement administratif des contentieux DALO et DAHO
-incubator: mtes
+incubator: (MTE)
 sponsors:
   - /organisations/dgaln
   - /organisations/direction-departementale-de-l-emploi-du-travail-et-des-solidarites-du-rhone

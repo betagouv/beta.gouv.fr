@@ -18,7 +18,7 @@ techno:
   - html
 title: Geonature
 mission: Centraliser la collecte, le partage et la valorisation des données faune et flore
-incubator: mtes
+incubator: (MTE)
 sponsors:
   - /organisations/deb
 phases:

@@ -11,7 +11,7 @@ missions:
     startups:
       - a-just
   - start: 2026-02-04
-    end: 2026-08-31
+    end: 2027-01-31
     status: independent
     employer: Pathtech
     startups:

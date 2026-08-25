@@ -9,7 +9,7 @@ usertypes:
   - inspecteurs de l'igedd
 title: Inspection Augmentée
 mission: Permettre à l’IGEDD de gagner en efficacité et en qualité dans ses productions, faire évoluer les métiers et les compétences de l’inspection grâce aux apports de l’intelligence artificielle.
-incubator: mtes
+incubator: (MTE)
 sponsors:
   - /organisations/mtes
 phases:

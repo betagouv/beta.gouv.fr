@@ -50,6 +50,11 @@ missions:
       - docs
       - sites-faciles
       - suite-numerique
+  - start: 2024-05-01
+    end: 2026-08-25
+    status: independent
+    employer: Numa
+    startups:
       - visio
 badges:
   - segur
