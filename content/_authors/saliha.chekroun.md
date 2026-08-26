@@ -16,10 +16,10 @@ missions:
     employer: Docapost
     startups:
       - one-trick-pony
-  - start: 2026-06-25
+  - start: 2026-06-30
     end: 2026-09-25
     status: independent
-    employer: Docapost
+    employer: Docaposte
     startups:
       - one-trick-pony
 badges:

@@ -8,7 +8,7 @@ usertypes:
   - collectivite-territoriale
 title: Achats Public Durables
 mission: Sensibiliser les acheteurs publics à la prise en compte des critères environnementaux
-incubator: mtes
+incubator: (MTE)
 sponsors:
   - /organisations/cgdd
 phases:

@@ -4,7 +4,7 @@ mission: Collecter puis diffuser les données d'accessibilité des établissemen
 sponsors:
   - /organisations/dgaln
   - /organisations/dhup
-incubator: mtes
+incubator: (MTE)
 link: https://acceslibre.beta.gouv.fr
 repository: https://github.com/MTES-MCT/acceslibre
 contact: acceslibre@beta.gouv.fr

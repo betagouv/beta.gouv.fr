@@ -3,7 +3,7 @@ title: Mission Transition Ecologique
 mission: Faciliter la transition écologique des PME-ETI
 sponsors:
   - /organisations/cgdd
-incubator: mtes
+incubator: (MTE)
 phases:
   - name: investigation
     start: 2020-09-01

@@ -16,7 +16,7 @@ techno:
   - php
 title: LUCCA
 mission: Faciliter la rédaction et le suivi des PV d'infraction à l'urbanisme pour mieux lutter contre les constructions et installations illégales dans les zones naturelles et agricoles pour mieux les préserver
-incubator: mtes
+incubator: (MTE)
 phases:
   - name: construction
     start: 2025-08-01

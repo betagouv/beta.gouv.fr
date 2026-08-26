@@ -5,7 +5,7 @@ sponsors:
   - /organisations/deb
   - /organisations/dgaln
   - /organisations/dhup
-incubator: mtes
+incubator: (MTE)
 link: https://envergo.beta.gouv.fr
 repository: https://github.com/MTES-MCT/envergo
 contact: contact@envergo.beta.gouv.fr

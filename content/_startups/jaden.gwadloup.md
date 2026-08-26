@@ -3,7 +3,7 @@ title: Jaden Gwadloup
 mission: Favoriser le développement de jardins partagés en Guadeloupe
 sponsors:
   - /organisations/mtes
-incubator: mtes
+incubator: (MTE)
 contact: meagann.boulassy@beta.gouv.fr
 usertypes:
   - particulier

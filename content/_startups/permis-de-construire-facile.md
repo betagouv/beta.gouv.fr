@@ -4,7 +4,7 @@ mission: Déposer et gérer une demande de permis de construire simplement
 sponsors:
   - /organisations/dgaln
   - /organisations/dhup
-incubator: mtes
+incubator: (MTE)
 events:
   - name: end
     date: 2019-04-30

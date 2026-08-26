@@ -3,7 +3,7 @@ title: DiaLog
 mission: Faciliter l'intégration de la réglementation routière dans les applications de mobilité
 sponsors:
   - /organisations/dgitm
-incubator: mtes
+incubator: (MTE)
 contact: dialog@beta.gouv.fr
 accessibility_status: non conforme
 link: https://dialog.beta.gouv.fr/

@@ -4,7 +4,7 @@ mission: Être un outil central des dispositifs de soutien aux EnR électriques,
 sponsors:
   - /organisations/dgec
   - /organisations/ministere-charge-de-l-energie
-incubator: mtes
+incubator: (MTE)
 link: https://potentiel.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/potentiel
 contact: contact@potentiel.beta.gouv.fr

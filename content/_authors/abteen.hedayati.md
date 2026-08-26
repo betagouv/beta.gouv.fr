@@ -5,6 +5,6 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2026-06-23
-    end: 2026-09-23
+    end: 2027-09-23
     status: admin
 ---
