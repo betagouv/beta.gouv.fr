@@ -1,6 +1,6 @@
 ---
 mission: L'application d'intelligence territoriale pour une stratégie de logement adaptée, durable et inclusive
-incubator: mtes
+incubator: (MTE)
 title: OTELO
 contact: luc.bercegol@developpement-durable.gouv.fr
 accessibility_status: non conforme

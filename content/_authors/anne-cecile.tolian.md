@@ -1,6 +1,6 @@
 ---
 fullname: Anne-Cécile Tolian
-role: Exploration
+role: Coach en construction @MNEMO
 domaine: Coaching
 competences:
   - Coaching
@@ -13,6 +13,10 @@ missions:
     employer: Dynergie
   - start: 2026-01-12
     end: 2026-04-30
+    status: independent
+    employer: Dynergie
+  - start: 2026-04-30
+    end: 2026-12-31
     status: independent
     employer: Dynergie
 ---

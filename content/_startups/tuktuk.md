@@ -3,7 +3,7 @@ title: TukTuk
 mission: Décarboner les trajets courtes distance en ville par des tricycles motorisés
 sponsors:
   - /organisations/dgitm
-incubator: mtes
+incubator: (MTE)
 contact: benjamin.le-tarnec@beta.gouv.fr
 accessibility_status: non conforme
 phases:

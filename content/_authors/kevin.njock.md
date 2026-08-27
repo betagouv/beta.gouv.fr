@@ -9,10 +9,13 @@ missions:
     startups:
       - sante-psy-etudiant
   - start: 2024-08-22
-    end: 2026-09-30
+    end: 2026-08-26
     status: independent
     startups:
       - experts
+  - start: 2024-08-22
+    end: 2026-09-30
+    status: independent
 memberType: beta
 competences: []
 ---

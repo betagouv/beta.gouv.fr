@@ -6,7 +6,7 @@ link: https://codeconut.fr
 github: NVaissaud
 missions:
   - start: 2017-02-14
-    end: 2026-12-01
+    end: 2026-12-31
     status: independent
     employer: MALT
     startups:

@@ -6,7 +6,7 @@ link: https://yaal.coop
 github: emillumine
 missions:
   - start: 2022-09-06
-    end: 2026-09-15
+    end: 2026-12-31
     status: service
     employer: La Zone
     startups:

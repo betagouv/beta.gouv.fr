@@ -3,7 +3,7 @@ title: CadranSolaire
 mission: Accélérer le développement du photovoltaïque
 sponsors:
   - /organisations/mtes
-incubator: mtes
+incubator: (MTE)
 contact: delphine.raymond@beta.gouv.fr
 accessibility_status: non conforme
 phases:

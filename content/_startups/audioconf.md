@@ -12,6 +12,8 @@ phases:
     start: 2020-11-15
   - name: acceleration
     start: 2022-01-01
+  - name: transfere
+    start: 2026-08-26
 usertypes:
   - etat
 accessibility_status: non conforme
@@ -19,6 +21,8 @@ stats_url: https://audioconf.numerique.gouv.fr/stats
 thematiques: []
 techno: []
 ---
+**Le produit a vocation à être intégré à visio.numerique.gouv.fr en 2027.**
+
 ## Contexte
 
 Le service AudioConf a été lancé en décembre 2020 pour permettre aux agents publics de réaliser simplement des conférences téléphoniques.

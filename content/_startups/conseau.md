@@ -3,7 +3,7 @@ title: Cons'eau
 mission: Améliorer la gestion des sécheresses par la maîtrise des prélèvements
 sponsors:
   - /organisations/mtes
-incubator: mtes
+incubator: (MTE)
 phases:
   - name: investigation
     start: 2020-03-15

@@ -5,7 +5,7 @@ sponsors:
   - /organisations/agriculture
   - /organisations/dgampa
   - /organisations/mtes
-incubator: mtes
+incubator: (MTE)
 contact: aquapreneur@beta.gouv.fr
 accessibility_status: non conforme
 phases:

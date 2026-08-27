@@ -13,7 +13,7 @@ techno:
   - typescript
 title: Prélex
 mission: Garantir un contrôle de légalité des actes d'urbanisme fiable, tracé et tenu dans les délais.
-incubator: mtes
+incubator: (MTE)
 contact_dinum: samuel.goldszmidt
 contact_incubator: samuel.goldszmidt
 phases:

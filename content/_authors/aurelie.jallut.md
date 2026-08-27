@@ -23,6 +23,12 @@ missions:
     employer: Crème de la crème
     startups:
       - point-d-acces-national-aux-donnees-d-accessibilite
+  - start: 2026-08-17
+    end: 2026-10-17
+    status: independent
+    employer: OCTO - Ground
+    startups:
+      - enjeu-biodiversite-parc-naturel-marin
 previously:
   - aplus
   - sndv_maritime

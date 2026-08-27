@@ -18,6 +18,8 @@ phases:
     start: 2023-10-09
   - name: construction
     start: 2026-04-01
+  - name: acceleration
+    start: 2026-08-27
 accessibility_status: non conforme
 thematiques:
   - Collectivités

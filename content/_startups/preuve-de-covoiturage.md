@@ -5,7 +5,7 @@ sponsors:
   - /organisations/ademe
   - /organisations/dgitm
   - /organisations/dinum
-incubator: mtes
+incubator: (MTE)
 link: https://covoiturage.beta.gouv.fr/
 repository: https://github.com/covoiturage-gouv-fr/mono
 contact: contact@covoiturage.beta.gouv.fr

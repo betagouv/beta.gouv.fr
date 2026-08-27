@@ -14,7 +14,7 @@ techno:
   - dbf
 title: Detection d'ouvrages hydrauliques
 mission: Mieux localiser les effondrements d'ouvrages hydrauliques dans un secteur minier, en automatisant par IA, pour prévenir les risques
-incubator: mtes
+incubator: (MTE)
 contact_dinum: amel.alili
 contact_incubator: eglantine.schmitt
 sponsors:

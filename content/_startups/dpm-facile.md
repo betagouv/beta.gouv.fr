@@ -7,7 +7,7 @@ usertypes: []
 techno: []
 title: ' AMIDOMAR (Ex DPM Facile)'
 mission: 'Faciliter la gestion du DPM naturel face aux enjeux du changement climatique '
-incubator: mtes
+incubator: (MTE)
 sponsors:
   - /organisations/dgaln
 phases:
@@ -23,7 +23,7 @@ events:
     comment: poursuite du projet
   - name: committee
     date: 2026-11-12
-    comment: Date à arrêter
+    comment: ' Date à arrêter'
 link: https://amidomar.beta.gouv.fr/
 ---
 ## Contexte

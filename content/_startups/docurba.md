@@ -4,7 +4,7 @@ mission: Faciliter l'élaboration et le suivi des documents d'urbanisme en amél
 sponsors:
   - /organisations/dgaln
   - /organisations/dhup
-incubator: mtes
+incubator: (MTE)
 link: https://docurba.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/Docurba
 contact: contact@docurba.beta.gouv.fr

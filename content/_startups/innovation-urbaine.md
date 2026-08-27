@@ -3,7 +3,7 @@ title: Innovation Urbaine
 mission: Favoriser la mise en place de solutions d'innovation urbaine
 sponsors:
   - /organisations/mtes
-incubator: mtes
+incubator: (MTE)
 phases:
   - name: investigation
     start: 2020-09-08

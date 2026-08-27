@@ -1,6 +1,6 @@
 ---
 mission: Accélerer la mise en place de l'affichage environnemental
-incubator: mtes
+incubator: (MTE)
 repository: https://github.com/MTES-MCT/ecobalyse
 contact: ecobalyse@beta.gouv.fr
 redirect_from:
@@ -40,7 +40,7 @@ accessibility_status: non conforme
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 incubators:
   - ademe
-  - mtes
+  - (MTE)
 ---
 ***Quels sont les impacts sur la planète des biens et services produits par les entreprises&nbsp;?***
 

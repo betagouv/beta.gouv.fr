@@ -15,7 +15,7 @@ missions:
     startups:
       - plateforme-agriculteurs
   - start: 2025-02-03
-    end: 2026-08-31
+    end: 2027-08-31
     status: admin
     startups:
       - partageons-l-eau

@@ -3,7 +3,7 @@ title: Rail'up
 mission: Simplifier les demandes de licences d'entreprise ferroviaire
 sponsors:
   - /organisations/dgitm
-incubator: mtes
+incubator: (MTE)
 contact: pauline.delmas@developpement-durable.gouv.fr
 phases:
   - name: investigation
