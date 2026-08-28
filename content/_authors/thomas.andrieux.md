@@ -7,7 +7,7 @@ competences:
   - Product design
 missions:
   - start: 2026-04-01
-    end: 2026-09-30
+    end: 2026-08-14
     status: independent
     employer: ORDESOFT
     startups:

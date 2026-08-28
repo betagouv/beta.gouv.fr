@@ -3,7 +3,7 @@ title: Cobot
 mission: Mettre les petites contributions numériques au service de l'intérêt général
 sponsors:
   - /organisations/dgitm
-incubator: mtes
+incubator: (MTE)
 events:
   - name: end
     date: 2019-09-01

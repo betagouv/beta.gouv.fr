@@ -36,6 +36,7 @@ contact_dinum: magali.marcel
 events:
   - name: product_launch
     date: 2017-01-01
+impact_url: https://docs.numerique.gouv.fr/docs/ec4cbcb2-66fb-46a9-9b51-829ae0da30ef/
 link: ''
 ---
 > Être proactif dans la prévention et l'accompagnement des entreprises en difficulté. 

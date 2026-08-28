@@ -4,7 +4,7 @@ mission: Informer les bénéficiaires potentiels du Bail Réel Solidaire, simule
 sponsors:
   - /organisations/dgaln
   - /organisations/dhup
-incubator: mtes
+incubator: (MTE)
 phases:
   - name: acceleration
     start: 2024-09-02

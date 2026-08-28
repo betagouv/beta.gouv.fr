@@ -17,7 +17,7 @@ techno:
   - typescript
 title: Fonds Prévention Argile
 mission: Créer un parcours de dépôt et d'instruction de dossier fluide et en partie automatisable
-incubator: mtes
+incubator: (MTE)
 sponsors:
   - /organisations/dgaln
   - /organisations/dgpr

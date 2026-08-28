@@ -3,7 +3,7 @@ title: RapportNav
 mission: Rédiger simplement les compte-rendus de missions des affaires maritimes
 sponsors:
   - /organisations/dgampa
-incubator: mtes
+incubator: (MTE)
 contact: alexandre.pardoux@mer.gouv.fr
 accessibility_status: non conforme
 repository: https://github.com/MTES-MCT/rapportNav

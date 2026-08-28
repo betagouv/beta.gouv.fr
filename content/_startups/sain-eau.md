@@ -8,7 +8,7 @@ usertypes:
   - collectivite-territoriale
 title: Sain'Eau
 mission: 'Réduire l''impact des systèmes d''assainissement sur les masses d''eau. '
-incubator: mtes
+incubator: (MTE)
 sponsors:
   - /organisations/deb
   - /organisations/dgaln

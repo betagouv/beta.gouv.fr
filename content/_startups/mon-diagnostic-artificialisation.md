@@ -1,6 +1,6 @@
 ---
 mission: Outiller les territoires pour la sobriété foncière
-incubator: mtes
+incubator: (MTE)
 repository: https://github.com/MTES-MCT/sparte
 contact: contact@mondiagartif.beta.gouv.fr
 analyse_risques: true

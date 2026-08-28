@@ -5,7 +5,7 @@ sponsors:
   - /organisations/agence-national-de-l-habitat
   - /organisations/dgaln
   - /organisations/dhup
-incubator: mtes
+incubator: (MTE)
 link: https://zerologementvacant.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/zero-logement-vacant
 contact: contact@zerologementvacant.beta.gouv.fr

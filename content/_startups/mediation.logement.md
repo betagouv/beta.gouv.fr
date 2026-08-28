@@ -4,7 +4,7 @@ mission: Résoudre les litiges locatifs entre locataires et bailleurs par la mé
 sponsors:
   - /organisations/dgaln
   - /organisations/mtes
-incubator: mtes
+incubator: (MTE)
 contact: contact@mediationlogement.beta.gouv.fr
 stats: false
 accessibility_status: partiellement conforme

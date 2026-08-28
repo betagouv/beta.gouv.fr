@@ -15,7 +15,7 @@ techno:
   - rabbitMQ
 title: Alexi
 mission: Prévenir les impayés et les expulsions de locataires
-incubator: mtes
+incubator: (MTE)
 sponsors:
   - /organisations/dihal
 phases:

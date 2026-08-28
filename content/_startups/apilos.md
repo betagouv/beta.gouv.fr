@@ -3,7 +3,7 @@ title: APiLos
 mission: 'Faciliter l''accès aux logements sociaux par la simplification des conventions. '
 sponsors:
   - /organisations/dgaln
-incubator: mtes
+incubator: (MTE)
 link: https://apilos.logement.gouv.fr
 repository: https://github.com/MTES-MCT/apilos
 contact: equipe@apilos.beta.gouv.fr

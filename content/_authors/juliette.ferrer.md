@@ -10,7 +10,7 @@ competences:
   - UI
 missions:
   - start: 2025-11-19
-    end: 2026-09-19
+    end: 2026-11-19
     status: service
     employer: Octo
 github: octojufe
