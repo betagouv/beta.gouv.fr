@@ -7,7 +7,7 @@ link: https://www.xaviermaso.com/
 competences: []
 missions:
   - start: 2025-07-08
-    end: 2026-09-23
+    end: 2026-08-20
     status: service
     employer: Omnicité
     startups:
@@ -16,7 +16,5 @@ missions:
       - mes-services-cyber
       - mon-aide-cyber
       - recocyber
-teams:
-  - /teams/anssi
 ---
 Hacking et mathématiques, contributeurs aux communs, basé à Bordeaux.

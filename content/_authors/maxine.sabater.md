@@ -8,6 +8,10 @@ missions:
     end: 2026-11-01
     status: independent
     employer: ADEME
+  - start: 2022-11-07
+    end: 2026-08-26
+    status: independent
+    employer: ADEME
     startups:
       - impact.co2
 previously:

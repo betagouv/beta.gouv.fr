@@ -12,7 +12,7 @@ missions:
     startups:
       - tdb-apprentissage
   - start: 2025-03-10
-    end: 2026-09-15
+    end: 2026-12-31
     status: independent
     employer: crème de la crème
     startups:

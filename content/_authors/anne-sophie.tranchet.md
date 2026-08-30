@@ -26,7 +26,7 @@ missions:
     status: independent
     employer: Octo
   - start: 2023-10-01
-    end: 2026-09-30
+    end: 2026-11-24
     status: admin
     startups:
       - espace-membre

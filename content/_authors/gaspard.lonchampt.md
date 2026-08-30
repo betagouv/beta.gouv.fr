@@ -5,7 +5,7 @@ domaine: Développement
 github: gaspard-lonchampt
 missions:
   - start: 2023-09-01
-    end: 2026-08-16
+    end: 2027-01-31
     status: independent
     employer: Omnicité
     startups:

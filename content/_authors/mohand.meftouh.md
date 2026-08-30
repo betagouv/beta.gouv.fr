@@ -1,6 +1,6 @@
 ---
 fullname: Mohand Meftouh
-role: Chargé de déploiement Plateforme de l'engagement
+role: Chargé de déploiement API Engagement
 domaine: Déploiement
 link: https://www.linkedin.com/in/mohand-meftouh/
 competences:
@@ -11,6 +11,6 @@ missions:
     status: independent
     employer: DJEPVA
     startups:
-      - plateforme-de-l-engagement
+      - api-engagement
 ---
-Je rejoins la Plateforme de l'engagement pour développer le réseau de diffuseurs et aider plus de citoyens à trouver leur mission. Convaincu qu'on s'engage mieux quand on croise la bonne mission au bon moment, mon métier est d'aller chercher les partenaires qui rendent ça possible
+Je rejoins l'API Engagement pour développer le réseau de diffuseurs et aider plus de citoyens à trouver leur mission. Convaincu qu'on s'engage mieux quand on croise la bonne mission au bon moment, mon métier est d'aller chercher les partenaires qui rendent ça possible

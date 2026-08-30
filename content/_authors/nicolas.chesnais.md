@@ -12,7 +12,7 @@ competences:
   - UX
 missions:
   - start: 2025-06-18
-    end: 2026-08-16
+    end: 2026-12-31
     status: independent
     employer: UT7
     startups:

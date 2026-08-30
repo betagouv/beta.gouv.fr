@@ -23,7 +23,7 @@ events:
     comment: poursuite du projet
   - name: committee
     date: 2026-11-12
-    comment: Date à arrêter
+    comment: ' Date à arrêter'
 link: https://amidomar.beta.gouv.fr/
 ---
 ## Contexte

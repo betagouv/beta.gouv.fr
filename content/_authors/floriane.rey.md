@@ -14,7 +14,7 @@ competences:
   - Management d'équipe
 missions:
   - start: 2026-06-01
-    end: 2026-08-31
+    end: 2026-12-30
     status: independent
     employer: COBER
     startups:
