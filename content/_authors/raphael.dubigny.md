@@ -15,13 +15,19 @@ missions:
   - start: 2020-09-01
     end: 2023-08-31
     status: admin
-    employer: dinum
+    employer: DINUM
     startups:
       - moncomptepro
   - start: 2023-09-01
     end: 2026-08-31
     status: admin
-    employer: dinum
+    employer: DINUM
+    startups:
+      - proconnect
+  - start: 2026-09-01
+    end: 2050-09-01
+    status: admin
+    employer: DINUM
     startups:
       - proconnect
 competences: []

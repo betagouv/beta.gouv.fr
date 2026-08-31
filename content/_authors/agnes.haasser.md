@@ -25,6 +25,13 @@ missions:
     employer: La Zone
     startups:
       - gestion.subventions.locales
+  - start: 2026-09-01
+    end: 2026-11-30
+    status: independent
+    employer: Malt
+    startups:
+      - envergo
+      - guichet-unique-de-la-haie-envergo-agricole
 previously:
   - aidantsconnect
 competences:

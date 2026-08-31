@@ -14,5 +14,6 @@ missions:
     employer: IGN
     startups:
       - ban
+      - bat-id
 ---
 Accompagnement, communication , coordination, amélioration de la Base Adresse Nationale (BAN)

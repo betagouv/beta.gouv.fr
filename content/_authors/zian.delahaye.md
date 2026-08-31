@@ -7,7 +7,7 @@ competences:
   - Sécurité informatique
 missions:
   - start: 2025-05-14
-    end: 2026-09-30
+    end: 2027-02-28
     status: service
     employer: Lab' ANSSI
     startups:

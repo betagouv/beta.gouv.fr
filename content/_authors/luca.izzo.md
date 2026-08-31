@@ -7,7 +7,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-02-03
-    end: 2026-09-30
+    end: 2027-09-30
     status: admin
     employer: MTE
     startups:

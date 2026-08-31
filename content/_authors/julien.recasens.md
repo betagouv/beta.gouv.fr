@@ -1,6 +1,6 @@
 ---
 fullname: Julien Recasens
-role: Chargé de déploiement - Customer Support Specialist
+role: Déploiement, Onboarding & Support
 domaine: Déploiement
 missions:
   - start: 2024-01-19
@@ -23,14 +23,13 @@ missions:
   - start: 2024-12-03
     end: 2025-04-10
     status: independent
+    employer: Malt
     startups:
       - zero-logement-vacant
-  - start: 2025-09-16
-    end: 2025-12-16
-    status: independent
   - start: 2026-05-11
-    end: 2026-08-26
+    end: 2026-09-30
     status: independent
+    employer: Malt
     startups:
       - les-emplois
 memberType: beta

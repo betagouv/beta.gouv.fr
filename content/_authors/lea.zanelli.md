@@ -10,4 +10,5 @@ missions:
     employer: Malt
     startups:
       - plateforme-agriculteurs
+link: https://www.linkedin.com/in/l%C3%A9a-zanelli-55629015b/?skipRedirect=true
 ---

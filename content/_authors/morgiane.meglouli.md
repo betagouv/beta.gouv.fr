@@ -23,5 +23,11 @@ missions:
     employer: Numa
     startups:
       - carbure
+  - start: 2026-08-31
+    end: 2026-11-30
+    status: independent
+    employer: Numa
+    startups:
+      - durabilite-de-la-biomasse
 ---
 Coach produit passionnée par les sujets à impact 

@@ -4,7 +4,7 @@ role: Responsable territoriale
 domaine: Développement
 missions:
   - start: 2023-04-03
-    end: 2026-09-30
+    end: 2027-02-28
     status: independent
     employer: MALT
     startups:

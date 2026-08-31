@@ -6,7 +6,7 @@ github: mathgim
 link: https://www.linkedin.com/in/mathieugimenez/
 missions:
   - start: 2024-03-18
-    end: 2027-04-01
+    end: 2026-08-14
     status: admin
     employer: DGALN
     startups:
@@ -28,7 +28,5 @@ competences:
   - Facilitation
   - Gestion de Produit
   - Product strategy
-teams:
-  - /teams/mtes
 ---
 Acrobate à impact 🤸‍♂️

@@ -5,7 +5,7 @@ domaine: Produit
 competences: []
 missions:
   - start: 2026-03-24
-    end: 2026-09-24
+    end: 2026-11-24
     status: admin
     employer: DGEC
     startups:

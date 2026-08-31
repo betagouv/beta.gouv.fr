@@ -11,6 +11,12 @@ missions:
     startups:
       - proconnect
       - suite-numerique
+  - start: 2025-09-01
+    end: 2026-11-25
+    status: admin
+    employer: DINUM
+    startups:
+      - visio
 memberType: beta
 competences:
   - Administration Publique

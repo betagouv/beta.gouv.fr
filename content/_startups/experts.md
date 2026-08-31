@@ -7,7 +7,7 @@ incubator: justice
 contact: contact@selexpert.beta.gouv.fr
 accessibility_status: non conforme
 phases:
-  - name: acceleration
+  - name: consolidation
     start: 2024-01-01
 link: https://selexpert.sites.beta.gouv.fr/
 repository: https://git.anje-justice.fr/selexpert

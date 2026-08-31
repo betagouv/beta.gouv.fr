@@ -21,7 +21,7 @@ missions:
     status: independent
     employer: Malt
   - start: 2025-12-11
-    end: 2026-12-06
+    end: 2027-01-30
     status: independent
     employer: 'DNUM '
 badges:

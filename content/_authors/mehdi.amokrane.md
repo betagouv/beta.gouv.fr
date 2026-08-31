@@ -11,7 +11,7 @@ competences:
   - SEO
 missions:
   - start: 2024-10-14
-    end: 2026-08-30
+    end: 2026-12-31
     status: independent
     employer: Scopyleft
     startups:

@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-09-19
-    end: 2026-09-30
+    end: 2026-07-31
     status: independent
     employer: LBC
     startups:

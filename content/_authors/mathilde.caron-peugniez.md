@@ -1,7 +1,7 @@
 ---
-fullname: Mathilde Caron-Peugniez
-role: Intrapreneure
-domaine: Intraprenariat
+fullname: Mathilde Caron Peugniez
+role: Adjointe au responsable de la mission numérique et intrapreneure
+domaine: Animation
 github: macaron2003
 missions:
   - start: 2023-09-04
@@ -15,10 +15,27 @@ missions:
     employer: Ministère de la transition écologique
     startups:
       - mobilic
+  - start: 2026-08-01
+    end: 2026-12-31
+    status: admin
+    employer: Direction générale de l'aménagement, du logement et de la nature
+    startups:
+      - aigle
+      - boris
+      - dalo-assist-usagers-et-contentieux
+      - docurba
+      - dossierfacile
+      - fonds-prevention-argile
+      - lucca
+      - mon-diagnostic-artificialisation
+      - otelo
+      - zero-logement-vacant
 memberType: beta
 competences:
   - Communication
   - Droit / Affaires juridiques
   - Intrapreneur(se)
 link: https://www.linkedin.com/in/mathildecaronpeugniez/
+teams:
+  - /teams/mtes
 ---

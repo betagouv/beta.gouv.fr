@@ -11,6 +11,8 @@ phases:
     start: 2024-05-01
   - name: acceleration
     start: 2026-01-26
+  - name: abandon
+    start: 2026-04-01
 usertypes:
   - particulier
   - entreprise
@@ -60,3 +62,7 @@ Les travaux  itératifs de construction permettront de contribuer à cette visio
 
 Au 1er trimestre 2025, une première version du produit a été testée auprès d’un panel de 150 diffuseurs de spectacle. Elle a constitué une première base pour la co construction du produit avec l’écosystème composé : des entrepreneurs du spectacle, des éditeurs de logiciels de billetteries du spectacle et des organismes collecteurs des données. 
 Au dernier trimestre 2025, une deuxième version du produit a été mise en ligne.  Elle vise la simplification des formalités des diffuseurs (entrepreneurs de spectacles qui gèrent la billetteries) et se limite aux déclarations de droits d’auteurs gérés par la SACEM et la SACD. Elle permet aux utilisateurs de déclarer en un unique formulaire pour les deux organismes.
+
+
+
+L’incubation du produit par l’Atelier numérique a pris fin en avril 2026. Le produit demeure néanmoins maintenu au sein du Service numérique du ministère de la Culture.
