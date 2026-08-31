@@ -5,7 +5,7 @@ domaine: Design
 link: https://falafouik.com/
 missions:
   - start: 2023-09-27
-    end: 2026-09-30
+    end: 2027-01-31
     status: independent
     employer: Opteamis
     startups:

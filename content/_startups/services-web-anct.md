@@ -22,6 +22,8 @@ phases:
     start: 2024-04-01
   - name: construction
     start: 2024-09-02
+  - name: transfere
+    start: 2026-01-01
 events:
   - name: product_launch
     date: 2024-10-23

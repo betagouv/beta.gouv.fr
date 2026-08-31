@@ -1,11 +1,11 @@
 ---
 fullname: Anais Tailhade
-role: 'Coach Support '
+role: 'Lead Support '
 domaine: Support
 github: Anais-Tailhade
 missions:
   - start: 2021-11-18
-    end: 2026-09-30
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

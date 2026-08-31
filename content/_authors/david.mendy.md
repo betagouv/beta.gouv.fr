@@ -5,7 +5,7 @@ domaine: Développement
 github: nutfdt
 missions:
   - start: 2023-09-04
-    end: 2026-08-28
+    end: 2026-08-31
     status: admin
     employer: MIOM
     startups:

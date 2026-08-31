@@ -11,5 +11,11 @@ missions:
     employer: Dynergie
     startups:
       - quefairedemesobjetsetdechets
+  - start: 2026-09-25
+    end: 2027-02-25
+    status: independent
+    employer: Dynergie
+    startups:
+      - quefairedemesobjetsetdechets
 ---
 Ex-CEO de Pyxo, startup du réemploi des emballages, j’accompagne aujourd’hui des startups dans leur développement.

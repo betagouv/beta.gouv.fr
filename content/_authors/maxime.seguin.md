@@ -6,7 +6,7 @@ link: https://cv.hal.science/maxime-seguin
 competences: []
 missions:
   - start: 2024-11-01
-    end: 2026-09-30
+    end: 2027-01-30
     status: admin
     employer: Atelier numérique
     startups:

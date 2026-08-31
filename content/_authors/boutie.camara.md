@@ -21,9 +21,9 @@ missions:
     startups:
       - compte.rendu.vif
   - start: 2026-05-18
-    end: 2026-10-18
+    end: 2027-02-28
     status: independent
-    employer: LittleBig Connection
+    employer: Mon équipe produit
     startups:
       - pitchou
 badges:

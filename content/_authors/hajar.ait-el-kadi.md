@@ -11,9 +11,9 @@ missions:
     startups:
       - openfisca
   - start: 2021-11-22
-    end: 2026-09-30
+    end: 2027-02-28
     status: service
-    employer: Octo
+    employer: Multi
     startups:
       - annuaire-entreprises
 previously:

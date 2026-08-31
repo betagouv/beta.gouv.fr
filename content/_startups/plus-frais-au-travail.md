@@ -23,6 +23,9 @@ phases:
 events:
   - name: committee
     date: 2025-05-07
+  - name: committee
+    date: 2026-05-07
+stats_url: https://plusfraisautravail.beta.gouv.fr/statistiques/
 ---
 ## Contexte 👀
 

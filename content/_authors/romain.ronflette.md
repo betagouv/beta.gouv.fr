@@ -11,13 +11,13 @@ missions:
     startups:
       - infrastructures.numeriques
   - start: 2024-05-01
-    end: 2026-08-31
+    end: 2027-01-31
     status: independent
     employer: UT7
     startups:
       - fonds.de.plans
   - start: 2026-03-16
-    end: 2026-06-16
+    end: 2027-02-24
     status: independent
     employer: DGFIP
     startups:

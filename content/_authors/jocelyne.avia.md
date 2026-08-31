@@ -24,4 +24,4 @@ missions:
       - pass-sport
 link: https://linkedin.com/in/a-jocelyne
 ---
-Chargée de support et relation utilisateurs, j’accompagne les usagers dans l’utilisation de services numériques et assure le traitement et le suivi de leurs demandes jusqu’à leur résolution. Habituée au support multicanal et à la gestion de volumes importants, je contribue également à la remontée des besoins utilisateurs et à l’amélioration continue des produits. J’interviens actuellement au sein de l’équipe Pass Sport sur des missions de support et de déploiement.
+Chargée de support et relation usagers, j’accompagne les usagers dans l’utilisation de services numériques et assure le traitement et le suivi de leurs demandes jusqu’à leur résolution. Habituée au support multicanal et à la gestion de volumes importants, je contribue également à la remontée des besoins utilisateurs et à l’amélioration continue des produits. J’interviens actuellement au sein de l’équipe pass Sport sur des missions de support et de déploiement.

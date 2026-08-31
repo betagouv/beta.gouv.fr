@@ -5,7 +5,7 @@ domaine: Développement
 github: cadichris
 missions:
   - start: 2022-10-03
-    end: 2026-09-30
+    end: 2026-12-31
     status: independent
     employer: Crème de la crème
     startups:

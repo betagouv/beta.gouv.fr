@@ -28,7 +28,7 @@ missions:
     startups:
       - sites-faciles
   - start: 2026-03-27
-    end: 2026-09-27
+    end: 2027-02-28
     status: independent
     employer: Malt
     startups:

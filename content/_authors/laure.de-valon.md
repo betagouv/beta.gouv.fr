@@ -10,7 +10,7 @@ missions:
     startups:
       - versementgetorix
   - start: 2023-11-13
-    end: 2026-09-27
+    end: 2027-02-28
     status: independent
     employer: Numa
     startups:
@@ -22,7 +22,7 @@ missions:
     startups:
       - adaptation-au-changement-climatique-acc
   - start: 2025-07-18
-    end: 2026-08-31
+    end: 2026-12-31
     status: independent
     employer: Dynergie
     startups:

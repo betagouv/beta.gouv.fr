@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2026-08-24
     end: 2026-11-17
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - tdb-apprentissage
-teams: []
 ---

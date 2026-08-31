@@ -16,15 +16,15 @@ missions:
     startups:
       - seves
   - start: 2025-07-18
-    end: 2026-09-30
+    end: 2027-02-28
     status: independent
-    employer: Scopyleft
+    employer: La crème de la crème
     startups:
       - ma-cantine-egalim
   - start: 2026-01-19
-    end: 2026-04-30
+    end: 2027-01-31
     status: independent
-    employer: Pathtech
+    employer: Malt
     startups:
       - ecobalyse
 link: http://angi-design.fr/
@@ -34,4 +34,4 @@ competences:
   - UI
   - UX
 ---
-Service & Product designer freelance basée à Nantes, engagée dans des missions à impact et d'intérêt général. #conseil #ux #direction-créative
+Service & Product designer freelance basée à Nantes, engagée dans des missions à impact et d'intérêt général.

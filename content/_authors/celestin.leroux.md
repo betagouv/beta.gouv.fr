@@ -10,6 +10,12 @@ missions:
     employer: MALT / ANCT
     startups:
       - cartographie.nationale
+  - start: 2026-08-25
+    end: 2027-02-25
+    status: independent
+    employer: Creme de la Creme
+    startups:
+      - portail-greffe-de-la-cour-de-cassation
 previously:
   - france-numerique-ensemble
 competences:
@@ -18,4 +24,3 @@ competences:
   - UX
 link: https://www.linkedin.com/in/c%C3%A9lestin-leroux-b16862124/
 ---
-préfère le savoir-faire au faire savoir

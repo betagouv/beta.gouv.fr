@@ -16,9 +16,9 @@ missions:
     startups:
       - mesaidesreno
   - start: 2025-11-06
-    end: 2026-09-30
+    end: 2026-12-31
     status: independent
-    employer: LBC
+    employer: LBC puis La créme de la crème
     startups:
       - fonds-prevention-argile
 memberType: beta

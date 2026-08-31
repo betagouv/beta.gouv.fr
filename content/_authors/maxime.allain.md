@@ -11,9 +11,9 @@ competences:
   - Python
 missions:
   - start: 2024-12-16
-    end: 2026-09-30
+    end: 2026-12-31
     status: independent
-    employer: Scopopop
+    employer: Mon Equipe Produit
     startups:
       - gestion.subventions.locales
 ---

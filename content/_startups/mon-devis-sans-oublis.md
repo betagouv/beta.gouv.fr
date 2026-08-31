@@ -28,6 +28,8 @@ phases:
     start: 2023-11-27
   - name: construction
     start: 2024-10-01
+  - name: abandon
+    start: 2026-05-31
 fast:
   promotion: 17
   montant: 100000

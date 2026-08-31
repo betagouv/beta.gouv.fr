@@ -33,11 +33,17 @@ missions:
     startups:
       - aquaculteurs.marins
   - start: 2025-09-08
-    end: 2026-09-24
+    end: 2026-06-30
     status: independent
     employer: Pathtech
     startups:
       - ecobalyse
-link: https://www.linkedin.com/in/cedric-rossi/
+  - start: 2026-07-01
+    end: 2026-11-25
+    status: independent
+    employer: Malt
+    startups:
+      - ecobalyse
+link: https://i9n.fr
 competences: []
 ---

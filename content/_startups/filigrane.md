@@ -6,7 +6,7 @@ sponsors:
   - /organisations/dhup
 incubator: mtes
 link: https://filigrane.beta.gouv.fr/
-repository: https://github.com/mtes-mct/locatio
+repository: https://github.com/MTES-MCT/Dossier-Facile-Frontend
 contact: contact@filigrane.beta.gouv.fr
 stats: true
 stats_url: http://51.210.250.115:3000/public/dashboard/199a72cf-6a75-4e28-bc07-103e4409ea07
@@ -20,9 +20,12 @@ phases:
     start: 2022-07-01
   - name: acceleration
     start: 2023-07-01
+  - name: consolidation
+    start: 2026-03-01
 thematiques:
   - Sécurité informatique
   - Outil technique
+techno: []
 ---
 ## DossierFacile lance FiligraneFacile !
 

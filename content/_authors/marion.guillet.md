@@ -5,9 +5,9 @@ domaine: Produit
 github: guilletmarion
 missions:
   - start: 2019-10-21
-    end: 2026-09-30
+    end: 2026-11-30
     status: independent
-    employer: UT7
+    employer: UT7, Crème de la crème, Malt
     startups:
       - la-bonne-alternance
   - start: 2023-01-01

@@ -24,4 +24,10 @@ missions:
     employer: Malt
     startups:
       - quefairedemesobjetsetdechets
+  - start: 2026-08-25
+    end: 2026-11-25
+    status: independent
+    employer: Yooz
+    startups:
+      - benefriches
 ---

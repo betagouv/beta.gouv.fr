@@ -17,7 +17,7 @@ missions:
     startups:
       - datagir
   - start: 2024-10-07
-    end: 2026-09-22
+    end: 2026-12-22
     status: independent
     employer: Malt
     startups:

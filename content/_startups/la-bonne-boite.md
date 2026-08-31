@@ -22,7 +22,7 @@ phases:
     start: 2015-05-01
   - name: investigation
     start: 2015-05-01
-  - name: acceleration
+  - name: consolidation
     start: 2023-01-19
 stats_url: https://labonneboite.francetravail.fr/stats
 thematiques:

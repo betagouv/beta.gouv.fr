@@ -8,11 +8,17 @@ competences:
   - Kubernetes
   - Python
   - LLMOPS
+  - PostgreSQL
+  - Sécurité informatique
+  - Outscale
+  - Qdrant
+  - Redis
+  - Terraform
 missions:
   - start: 2025-11-12
-    end: 2026-10-30
+    end: 2026-12-31
     status: independent
-    employer: Sincro
+    employer: CDC
     startups:
       - assistant-ia-civil
       - investigation-cour-d-appel-de-paris

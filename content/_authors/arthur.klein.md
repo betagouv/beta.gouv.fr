@@ -22,7 +22,7 @@ missions:
     startups:
       - audiodescription
   - start: 2026-01-12
-    end: 2026-09-30
+    end: 2026-11-30
     status: independent
     employer: Dynergie
     startups:
