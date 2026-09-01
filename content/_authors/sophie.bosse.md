@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-08-31
     end: 2026-11-30
-    employer: MALT
     status: independent
+    employer: MALT
     startups:
       - envergo
-teams: []
 ---

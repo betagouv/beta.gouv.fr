@@ -52,8 +52,5 @@ previously:
   - pass-sport
 badges:
   - segur
-teams:
-  - /teams/dinum-incubateur
-  - /teams/menj-responsable-de-portefeuille
 competences: []
 ---
