@@ -11,5 +11,6 @@ missions:
       - demarches-simplifiees.fr
 competences:
   - Administration Système
+github: klephh
 ---
 Un sysadmin qui lit aussi du code, plus ou moins haut niveau.

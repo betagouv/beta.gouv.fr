@@ -6,7 +6,7 @@ github: CoralieCotonPro
 link: https://www.linkedin.com/in/coralie-coton/
 missions:
   - start: 2023-09-18
-    end: 2026-09-01
+    end: 2026-12-01
     status: independent
     employer: Malt
     startups:
@@ -18,19 +18,19 @@ missions:
     startups:
       - ecobalyse
   - start: 2023-12-01
-    end: 2026-09-01
+    end: 2026-12-01
     status: independent
     employer: Solstice La Zone
     startups:
       - seves
   - start: 2025-09-07
-    end: 2026-10-07
+    end: 2026-12-01
     status: independent
     employer: malt
     startups:
       - guichet-unique-de-la-haie-envergo-agricole
   - start: 2026-03-02
-    end: 2026-10-07
+    end: 2026-12-01
     status: independent
     employer: malt
     startups:
