@@ -1,5 +1,5 @@
 ---
-fullname: Jimmy Dupont
+fullname: Jim Dupont
 role: Coordinateur des opérations
 domaine: Autre
 missions:

@@ -16,5 +16,6 @@ missions:
     employer: Scopopop
     startups:
       - demarches-simplifiees.fr
+github: kallix
 ---
 DevOps sur Démarches simplifiées

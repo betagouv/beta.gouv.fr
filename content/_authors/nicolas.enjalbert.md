@@ -13,7 +13,7 @@ missions:
       - data-inclusion
       - rdv.insertion
   - start: 2024-09-01
-    end: 2026-08-31
+    end: 2026-10-31
     status: admin
     employer: DINUM
     startups:

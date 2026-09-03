@@ -14,7 +14,7 @@ missions:
     startups:
       - pass-sport
   - start: 2024-11-14
-    end: 2026-11-30
+    end: 2026-09-04
     status: service
     employer: Pôle Design et Accessibilité
     startups:
@@ -24,6 +24,17 @@ missions:
       - proconnect
       - rdv-service-public
       - sites-faciles
+      - suite-numerique
+      - tchap
+      - visio
+  - start: 2026-09-01
+    end: 2026-12-31
+    status: service
+    employer: Pôle Design et Accessibilité
+    startups:
+      - docs
+      - messagerie
+      - proconnect
       - suite-numerique
       - tchap
       - visio
