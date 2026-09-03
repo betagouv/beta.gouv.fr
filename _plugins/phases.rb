@@ -46,11 +46,10 @@ module Jekyll
     }.freeze
 
     # Liquid won't allow a ?-ending predicate
-    # rubocop:disable Naming/PredicateMethod
+    # rubocop:disable-next Naming/PredicateMethod
     def past_phase(phase)
       phase.include?('abandon')
     end
-    # rubocop:enable Naming/PredicateMethod
 
     def phase_badge_label(phase)
       PHASE_LABELS_MAP[phase][:badge]
