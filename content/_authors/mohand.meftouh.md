@@ -7,7 +7,7 @@ competences:
   - Croissance
 missions:
   - start: 2026-08-24
-    end: 2026-10-20
+    end: 2026-12-31
     status: independent
     employer: DJEPVA
     startups:

@@ -1,6 +1,6 @@
 ---
 fullname: Julianne Lagadec
-role: Coach
+role: Coach produit & conduite du changement
 domaine: Coaching
 github: Julianne-Lagadec
 link: https://fr.linkedin.com/in/julianne-lagadec
@@ -27,19 +27,29 @@ missions:
     status: admin
     startups:
       - pass-sport
-  - start: 2025-03-13
-    end: 2026-04-30
-    status: admin
   - start: 2026-07-27
     end: 2026-10-31
     status: service
     employer: Numa
     startups:
       - enjeu-biodiversite-parc-naturel-marin
+  - start: 2026-08-17
+    end: 2026-12-03
+    status: service
+    employer: Crème de la crème
+    startups:
+      - api-and-communs-numeriques-de-la-cour-de-cassation
+      - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne
+      - portail-greffe-de-la-cour-de-cassation
 previously:
   - voeux-apprentissage
   - dematapprentissage
   - tdb-apprentissage
   - la-bonne-alternance
-competences: []
+competences:
+  - Product strategy
+  - Croissance
+  - Administration Publique
+  - Coaching
+  - Communication
 ---

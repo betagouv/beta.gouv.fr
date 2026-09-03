@@ -9,9 +9,9 @@ competences:
   - Facilitation
 missions:
   - start: 2026-04-01
-    end: 2026-09-01
+    end: 2027-01-14
     status: independent
-    employer: Malt
+    employer: MTE
     startups:
       - aigle
       - lucca

@@ -16,13 +16,11 @@ sponsors:
   - /organisations/operateur-du-patrimoine-et-des-projets-immobiliers-de-la-culture
 phases:
   - name: construction
-    comment: null
     start: 2026-07-01
-    end: null
 events:
   - name: committee
-    comment: ''
     date: 2026-06-04
+link: ''
 ---
 ## Contexte
 

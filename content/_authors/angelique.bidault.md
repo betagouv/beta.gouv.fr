@@ -27,6 +27,12 @@ missions:
     employer: Malt
     startups:
       - ecobalyse
+  - start: 2026-09-03
+    end: 2026-12-03
+    status: independent
+    employer: Malt
+    startups:
+      - ecopass
 link: http://angi-design.fr/
 competences:
   - Communication

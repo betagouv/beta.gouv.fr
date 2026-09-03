@@ -27,9 +27,9 @@ missions:
     startups:
       - tchap
   - start: 2026-03-03
-    end: 2026-10-03
+    end: 2027-03-01
     status: independent
-    employer: Little Big Connection
+    employer: Little Big Connection, puis Malt
     startups:
       - agreste
 competences: []
