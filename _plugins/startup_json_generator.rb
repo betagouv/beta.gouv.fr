@@ -25,7 +25,7 @@ module Jekyll
   class StartupJsonPage < Page
     OUTPUT_PATH = 'api/v3/startups/'
 
-    # rubocop:disable Lint/MissingSuper
+    # rubocop:disable-next Lint/MissingSuper
     def initialize(site, startup)
       @site = site
       @base = site.source
@@ -42,6 +42,5 @@ module Jekyll
                  .to_api_hash
                  .to_json
     end
-    # rubocop:enable Lint/MissingSuper
   end
 end
