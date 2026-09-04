@@ -4,7 +4,7 @@ role: Intrapreneuse AIGLE et LUCCA
 domaine: Intraprenariat
 missions:
   - start: 2023-04-24
-    end: 2026-12-31
+    end: 2027-03-01
     status: admin
     employer: DDTM 34/DIR
     startups:

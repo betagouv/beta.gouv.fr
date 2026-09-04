@@ -7,7 +7,7 @@ link: https://www.linkedin.com/in/christianjennewein/
 competences: []
 missions:
   - start: 2026-05-06
-    end: 2026-12-31
+    end: 2027-03-01
     status: independent
     employer: Malt
     startups:

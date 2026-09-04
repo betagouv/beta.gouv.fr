@@ -17,6 +17,12 @@ missions:
     employer: Malt
     startups:
       - ecobalyse
+  - start: 2026-09-03
+    end: 2026-12-03
+    status: service
+    employer: Malt
+    startups:
+      - ecopass
 previously:
   - preuve-de-covoiturage
   - api-particulier

@@ -11,11 +11,18 @@ missions:
     startups:
       - dotations-locales
   - start: 2023-11-01
-    end: 2026-10-28
+    end: 2026-09-01
     status: independent
     employer: Opteamis
     startups:
       - reva
+  - start: 2026-09-01
+    end: 2026-12-01
+    status: independent
+    employer: Malt
+    startups:
+      - ban
+      - bat-id
 badges:
   - segur
 competences: []

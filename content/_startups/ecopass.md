@@ -24,7 +24,7 @@ phases:
     start: 2025-05-31
 events:
   - name: product_launch
-    date: 2026-07-29
+    date: 2025-10-01
 incubators:
   - ademe
   - mtes

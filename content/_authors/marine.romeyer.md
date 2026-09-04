@@ -14,7 +14,7 @@ missions:
     startups:
       - agents.en.intervention
   - start: 2026-01-01
-    end: 2026-09-29
+    end: 2027-02-26
     status: independent
     employer: Crème de la Crème
     startups:

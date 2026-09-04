@@ -11,7 +11,7 @@ competences:
   - nix
 missions:
   - start: 2026-04-01
-    end: 2026-09-30
+    end: 2026-12-31
     status: service
     employer: PathTech
     startups:

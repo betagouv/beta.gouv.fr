@@ -13,5 +13,11 @@ missions:
     end: 2026-11-19
     status: service
     employer: Octo
+  - start: 2026-09-01
+    end: 2026-12-01
+    status: service
+    employer: Octo
+    startups:
+      - espace-membre
 github: octojufe
 ---
