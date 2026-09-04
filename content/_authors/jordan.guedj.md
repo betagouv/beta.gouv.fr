@@ -1,6 +1,6 @@
 ---
 fullname: Jordan Guedj
-role: OPS datagouv/datalma
+role: OPS datagouv
 domaine: Développement
 github: jordanguedj
 competences:
@@ -11,6 +11,4 @@ missions:
     end: 2026-10-02
     status: independent
     employer: DINUM
-    startups:
-      - datalma
 ---

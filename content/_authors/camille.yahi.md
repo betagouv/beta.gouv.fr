@@ -11,7 +11,7 @@ competences:
   - PostgreSQL
 missions:
   - start: 2026-05-26
-    end: 2026-09-01
+    end: 2027-01-01
     status: independent
     employer: DIAIR
     startups:
