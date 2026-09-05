@@ -1,6 +1,6 @@
 ---
 fullname: Mathieu Abmont
-role: Chargé de déploiement pour Faritas
+role: Chargé de déploiement
 domaine: Déploiement
 link: https://www.linkedin.com/in/mathieu-abmont/
 competences:
@@ -12,6 +12,12 @@ missions:
     employer: La crème de la crème
     startups:
       - faritas
+  - start: 2026-09-01
+    end: 2027-01-31
+    status: independent
+    employer: Octo
+    startups:
+      - data-subvention
 teams:
   - /teams/fabrique-dgfip-responsable-de-portefeuille
 ---

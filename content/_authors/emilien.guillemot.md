@@ -11,11 +11,15 @@ missions:
     startups:
       - recosante
   - start: 2023-02-01
-    end: 2026-12-01
+    end: 2026-09-01
     status: independent
     employer: INETUM - LBC
     startups:
       - bat-id
+  - start: 2023-02-01
+    end: 2026-12-01
+    status: independent
+    employer: INETUM - LBC
 badges:
   - segur
 previously:

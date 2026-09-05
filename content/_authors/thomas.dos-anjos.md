@@ -16,6 +16,12 @@ missions:
     employer: Opteamis
     startups:
       - reva
+  - start: 2026-09-01
+    end: 2026-12-01
+    status: independent
+    employer: Opteamis
+    startups:
+      - bat-id
 badges:
   - segur
 competences: []
