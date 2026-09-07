@@ -13,9 +13,8 @@ competences:
 missions:
   - start: 2025-03-01
     end: 2026-12-31
-    employer: Multi
     status: independent
+    employer: Multi
     startups:
       - annuaire-entreprises
-teams: []
 ---

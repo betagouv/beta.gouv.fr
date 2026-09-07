@@ -17,13 +17,11 @@ sponsors:
   - /organisations/unite-departementale-du-val-de-marne-drihl-ile-de-france
 phases:
   - name: investigation
-    comment: null
     start: 2026-06-25
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-09-03
+link: ''
 ---
 ## Contexte
 

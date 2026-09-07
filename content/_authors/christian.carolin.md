@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2026-09-01
     end: 2026-12-31
-    employer: SEGIC Ingénierie
     status: service
+    employer: SEGIC Ingénierie
     startups:
       - enjeu-biodiversite-parc-naturel-marin
-teams: []
 ---

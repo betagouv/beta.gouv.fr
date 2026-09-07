@@ -5,7 +5,7 @@ role: Développeur Fullstack Js
 link: https://www.fabientafforeau.fr/
 missions:
   - start: 2019-05-14
-    end: 2026-10-01
+    end: 2027-03-01
     status: independent
     startups:
       - bases.adresses.locales

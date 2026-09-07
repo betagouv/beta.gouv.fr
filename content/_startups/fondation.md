@@ -27,6 +27,7 @@ techno:
   - React
   - NestJS
   - NodeJS
+impact_url: https://docs.numerique.gouv.fr/docs/ef6c75dd-dcd3-4af9-9ae3-24578fc15d3c/
 link: ''
 ---
 
@@ -72,10 +73,34 @@ Notre vision est de faire de Fondation le socle numérique d'un CSM plus fort et
 * Christophe Soulard et Rémy Heitz - Chefs de la Cour de cassation et présidents des formations du Conseil supérieur de la magistrature, Sponsors de Fondation
 
 
-## Les indicateurs
+## Un produit en accélération
 
-Pour le printemps 2025, nous visons :
-* 70% des rapports générés via l'outil
-* 8,5/10 de satisfaction utilisateur pour les membres
-* Zéro perte de données dans le processus
+Fondation est toujours en phase d'accélération : le premier parcours, celui du pouvoir de proposition du garde des sceaux, est en production et validé par ses utilisateurs, et l'équipe attaque désormais le parcours du pouvoir de proposition du Conseil, prolongement d'une feuille de route pluriannuelle partagée avec l'administration porteuse
 
+## Impact
+
+UTILISABILITÉ
+
+- Taux de complétion du parcours SG bout en bout (import session, pièces, publication aux membres, export ODJ et PV), par transparence
+- Taux de rapports finalisés dans Fondation rapporté aux rapports affectés, par session
+
+UTILISATION
+
+- Part des transparences gérées de bout en bout dans Fondation par rapport aux outils historiques, trimestriel
+- Part des membres rapporteurs actifs sur la dernière session
+
+UTILITÉ
+
+- Note de satisfaction 1 à 10 par profil, membres et SG, complétée des verbatims
+- Délai moyen entre la publication de la transparence et la mise à disposition des rapports aux membres
+
+IMPACT (accompagnement des mouvements massifs de magistrats)
+
+- Volume annuel de dossiers traités à moyens constants
+- Date de restitution de la grande transparence annuelle, à volume croissant
+- Part des membres déclarant pouvoir instruire l'ensemble des dossiers d'une session avec la même exigence
+
+EFFICIENCE
+
+- Charge de gestion et de préparation cumulée côté SG, en jours-agent estimés, comparée à la situation avant Fondation
+- Nombre d'actions encore réalisées en doublon (Fondation et outil habituel), par profil

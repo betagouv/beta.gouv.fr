@@ -9,7 +9,7 @@ competences:
   - Facilitation
 missions:
   - start: 2026-06-29
-    end: 2026-11-29
+    end: 2027-01-31
     status: independent
     employer: Malt - Theodo
     startups:

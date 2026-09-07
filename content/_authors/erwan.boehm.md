@@ -25,6 +25,12 @@ missions:
     end: 2026-09-30
     status: independent
     employer: Scopyleft
+  - start: 2026-09-07
+    end: 2026-12-07
+    status: independent
+    employer: Scopyleft
+    startups:
+      - mnemo
 competences:
   - Développement Full-stack
   - IA
