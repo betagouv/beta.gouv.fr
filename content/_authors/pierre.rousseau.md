@@ -12,7 +12,7 @@ missions:
       - benefriches
       - precontentieux.justice
   - start: 2025-06-18
-    end: 2026-08-22
+    end: 2026-11-19
     status: independent
     employer: scopyleft
 badges:

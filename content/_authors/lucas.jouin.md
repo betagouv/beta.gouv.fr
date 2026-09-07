@@ -18,7 +18,7 @@ missions:
     startups:
       - aquaculteurs.marins
   - start: 2024-01-08
-    end: 2026-05-31
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

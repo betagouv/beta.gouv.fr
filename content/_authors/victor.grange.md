@@ -49,5 +49,6 @@ missions:
 competences:
   - Coaching
   - Product strategy
+github: vctrio
 ---
 Entrepreneur au service de l'impact - Auteur Documentaire

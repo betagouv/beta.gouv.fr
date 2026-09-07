@@ -9,9 +9,8 @@ competences:
 missions:
   - start: 2024-01-01
     end: 2026-12-31
-    employer: Ut7
     status: independent
+    employer: Ut7
     startups:
       - visio
-teams: []
 ---

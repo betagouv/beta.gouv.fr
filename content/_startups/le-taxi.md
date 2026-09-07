@@ -11,6 +11,8 @@ phases:
     start: 2016-03-15
   - name: acceleration
     start: 2017-03-15
+  - name: abandon
+    start: 2026-01-01
 link: https://le.taxi
 repository: https://github.com/openmaraude/APITaxi
 stats: true

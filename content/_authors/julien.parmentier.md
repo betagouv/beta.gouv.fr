@@ -11,7 +11,7 @@ missions:
     startups:
       - preuve-de-covoiturage
   - start: 2024-02-05
-    end: 2026-08-31
+    end: 2026-11-30
     status: independent
     employer: Pathtech
     startups:

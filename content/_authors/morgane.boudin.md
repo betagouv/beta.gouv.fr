@@ -4,7 +4,7 @@ role: UX/UI Designer
 domaine: Design
 missions:
   - start: 2024-03-01
-    end: 2026-09-01
+    end: 2026-12-31
     status: independent
     employer: DINUM
     startups:

@@ -19,7 +19,7 @@ missions:
     startups:
       - datalma
   - start: 2025-05-13
-    end: 2026-06-28
+    end: 2027-02-28
     status: independent
     employer: Little Big Connection
     startups:

@@ -5,7 +5,7 @@ role: Chargée de déploiement
 github: ameliequillet-aq
 missions:
   - start: 2021-03-22
-    end: 2026-10-30
+    end: 2027-02-28
     status: independent
     employer: Malt
     startups:

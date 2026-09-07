@@ -14,7 +14,7 @@ missions:
       - plusfraichemaville
       - territoires-en-transitions
   - start: 2023-10-02
-    end: 2026-10-01
+    end: 2027-09-01
     status: admin
     employer: DITP
     startups:

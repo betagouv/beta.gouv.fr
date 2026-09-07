@@ -4,17 +4,17 @@ fullname: Thibault Tézier
 role: Coaching
 missions:
   - start: 2024-04-12
-    end: 2026-07-01
+    end: 2027-03-01
     status: independent
     startups:
       - aigle
   - start: 2025-04-10
-    end: 2026-07-10
+    end: 2027-03-01
     status: independent
     startups:
       - lucca
   - start: 2026-02-26
-    end: 2026-08-26
+    end: 2026-12-26
     status: independent
     startups:
       - guichet-territorial-pour-la-transition-ecologique

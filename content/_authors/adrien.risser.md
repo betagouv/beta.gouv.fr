@@ -25,7 +25,7 @@ missions:
     startups:
       - deveco
   - start: 2025-12-10
-    end: 2026-06-30
+    end: 2026-12-02
     status: independent
     employer: Malt
     startups:

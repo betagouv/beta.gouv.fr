@@ -5,7 +5,7 @@ domaine: Design
 link: https://poulpux.com
 missions:
   - start: 2021-08-02
-    end: 2026-10-01
+    end: 2026-12-31
     status: independent
     employer: LCLDC
     startups:
@@ -17,7 +17,7 @@ missions:
     startups:
       - stop-punaises
   - start: 2026-05-04
-    end: 2026-09-02
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

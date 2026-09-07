@@ -5,9 +5,9 @@ domaine: Développement
 github: numew
 missions:
   - start: 2023-11-06
-    end: 2026-09-19
+    end: 2026-12-04
     status: independent
-    employer: Scopyleft
+    employer: CDLC
     startups:
       - histologe
 memberType: beta

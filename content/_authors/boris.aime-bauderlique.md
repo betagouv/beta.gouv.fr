@@ -14,5 +14,6 @@ missions:
     employer: Opteamis
     startups:
       - reva
+github: borisaimebauderlique-betagouv
 ---
 Consultant spécialisé en gestion fonctionnelle de projets web et dispositifs de formation, j'interviens sur la compréhension des attentes utilisateurs, la définition des besoins, la formation des utilisateurs, ainsi que sur la fiabilité et l'ergonomie des produits.

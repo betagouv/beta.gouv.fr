@@ -18,7 +18,7 @@ missions:
     startups:
       - collectif_objets
   - start: 2025-11-25
-    end: 2026-09-28
+    end: 2026-11-27
     status: independent
     employer: UT7
     startups:

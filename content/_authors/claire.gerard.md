@@ -28,7 +28,7 @@ missions:
     startups:
       - communs-de-la-transition-ecologique-des-collectivites
   - start: 2026-01-01
-    end: 2026-10-01
+    end: 2026-12-01
     status: independent
     employer: Malt
     startups:

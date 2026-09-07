@@ -11,9 +11,13 @@ competences:
   - UX
 missions:
   - start: 2026-01-14
-    end: 2026-09-30
+    end: 2026-09-04
     status: service
     employer: Octo
     startups:
       - agrements-assistants-maternels-et-familiaux
+  - start: 2026-01-14
+    end: 2026-09-30
+    status: service
+    employer: Octo
 ---

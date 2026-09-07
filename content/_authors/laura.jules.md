@@ -11,9 +11,8 @@ competences:
 missions:
   - start: 2026-08-17
     end: 2026-12-31
-    employer: France Compétences
     status: independent
+    employer: France Compétences
     startups:
       - si-commun-at-pro
-teams: []
 ---

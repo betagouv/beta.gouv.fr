@@ -17,7 +17,7 @@ missions:
     startups:
       - proconnect
   - start: 2025-03-31
-    end: 2026-08-31
+    end: 2026-12-01
     status: independent
     employer: DINUM
     startups:

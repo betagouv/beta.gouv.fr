@@ -11,13 +11,13 @@ missions:
     startups:
       - monprojetsup
   - start: 2024-11-01
-    end: 2026-09-20
+    end: 2026-12-31
     status: independent
     employer: NUMA
     startups:
       - je-deviens-etudiant
   - start: 2025-12-02
-    end: 2026-09-30
+    end: 2026-10-30
     status: independent
     employer: NUMA
     startups:

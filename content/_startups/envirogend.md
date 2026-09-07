@@ -40,8 +40,8 @@ events:
     date: 2026-03-23
     comment: Comité d'investissement
 repository: https://github.com/betagouv/depots-sauvages
-impact_url: https://fichiers.numerique.gouv.fr/explorer/items/0e169879-b1d7-4f7a-bd2c-5c486d52f76e
-stats_url: https://grist.numerique.gouv.fr/o/cesan-investigation/9bGtbLYmEdEG/Suivi-stats-ProtectEnvi/p/14
+impact_url: https://stopdepotsauvage-stats.osc-secnum-fr1.scalingo.io/public/dashboard/0c3bdff4-a0b2-4ae5-b089-4bac2ee19103
+stats_url: https://stopdepotsauvage-stats.osc-secnum-fr1.scalingo.io/public/dashboard/0c3bdff4-a0b2-4ae5-b089-4bac2ee19103
 contact_dinum: thibault.desjardins
 contact_incubator: thibault.desjardins
 ---

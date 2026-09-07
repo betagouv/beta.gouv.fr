@@ -17,6 +17,12 @@ missions:
     employer: Pathtech
     startups:
       - ecobalyse
+  - start: 2026-09-03
+    end: 2026-12-03
+    status: independent
+    employer: Pathtech
+    startups:
+      - ecopass
 previously:
   - aides.jeunes
   - sante-psy-etudiant

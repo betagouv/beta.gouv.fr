@@ -6,9 +6,9 @@ link: https://datayama.fr
 github: datayama38
 missions:
   - start: 2021-03-03
-    end: 2026-09-01
+    end: 2027-02-01
     status: independent
-    employer: Scopopop
+    employer: Malt
     startups:
       - preuve-de-covoiturage
 competences: []

@@ -13,19 +13,18 @@ sponsors:
   - /organisations/mtes
 phases:
   - name: investigation
-    comment: null
     start: 2026-07-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-08-31
+link: ''
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
 ## Contexte
 
-Les services métiers passent trop de temps pour gérer du budget
+Les services métiers passent trop de temps pour gérer du budget et ne comprennent pas forcément toutes les subtilités... et je les comprends.
+
 
 ## Problème
 En tant qu’opérationnel, je ne connais pas la consommation dans CHORUS Coeur (avec toute sa complexité : avance, IM (intérêt moratoire), facturation et paiement) ce qui me pose des difficultés pour effectuer les rendus budgétaires demandés par ma hiérarchie / et où les cellules budgétaires.

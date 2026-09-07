@@ -2,7 +2,7 @@
 fullname: Benoit Sénard
 role: 'Developpeur de la passerelle Roomkit sur Visio '
 domaine: Développement
-github: https://github.com/bsenard
+github: bsenard
 link: https://www.linkedin.com/in/benoit-senard-721ab721/
 competences:
   - Intrapreneur(se)
@@ -11,11 +11,10 @@ competences:
 missions:
   - start: 2025-09-15
     end: 2026-12-31
-    employer: Ut7
     status: independent
+    employer: Ut7
     startups:
       - visio
-teams: []
 ---
 Ingénieur logiciel et entrepreneur spécialisé dans la VoIP, le WebRTC et les infrastructures de streaming multimédia. Fondateur d'une entreprise experte en solutions vidéo (SFU) acquise par Dolby Laboratories en 2019.
 

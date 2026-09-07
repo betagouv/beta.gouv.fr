@@ -28,6 +28,8 @@ phases:
     start: 2020-09-01
   - name: acceleration
     start: 2022-09-01
+  - name: consolidation
+    start: 2025-02-25
 stats_url: https://acceslibre.beta.gouv.fr/stats
 thematiques:
   - Open-Data

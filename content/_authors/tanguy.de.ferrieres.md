@@ -14,10 +14,11 @@ missions:
     startups:
       - plusfraichemaville
   - start: 2026-02-17
-    end: 2026-05-17
+    end: 2027-03-01
     status: independent
     startups:
       - aigle
+      - lucca
   - start: 2026-02-17
     end: 2026-10-17
     status: independent

@@ -10,7 +10,7 @@ competences:
   - UI
 missions:
   - start: 2025-09-09
-    end: 2026-09-30
+    end: 2026-12-30
     status: admin
     employer: Ruche Numérique
     startups:

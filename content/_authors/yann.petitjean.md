@@ -14,9 +14,9 @@ competences:
   - Accessibilité
 missions:
   - start: 2026-03-16
-    end: 2026-09-10
+    end: 2026-12-31
     status: independent
-    employer: LittleBIG Connection
+    employer: La creme de la creme
     startups:
       - acces-cible
 ---

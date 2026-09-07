@@ -16,6 +16,8 @@ incubator: fab-geocommuns
 phases:
   - name: investigation
     start: 2025-12-01
+  - name: construction
+    start: 2026-04-20
 events:
   - name: committee
     date: 2026-04-21

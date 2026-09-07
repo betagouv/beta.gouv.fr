@@ -8,7 +8,7 @@ competences:
   - Droit / Affaires juridiques
 missions:
   - start: 2026-05-04
-    end: 2026-10-30
+    end: 2026-10-31
     status: independent
     employer: Malt
     startups:

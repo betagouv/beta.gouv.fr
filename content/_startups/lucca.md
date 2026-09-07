@@ -33,7 +33,7 @@ sponsors:
   - /organisations/dgaln
   - /organisations/dhup
 repository: https://github.com/MTES-MCT/Lucca
-impact_url: https://docs.numerique.gouv.fr/docs/9dbd4f9c-eff4-4de7-bc55-5ca88bc89bbd/
+impact_url: https://docs.numerique.gouv.fr/docs/88a58be7-6065-47c1-a6f9-9102e826a308/
 stats_url: https://metabase.aigle.beta.gouv.fr/public/dashboard/26a0d1cc-111a-45ec-9f2b-3a0fb79626e1
 ---
 
