@@ -11,7 +11,7 @@ missions:
     startups:
       - infoparquet
   - start: 2024-06-03
-    end: 2026-08-30
+    end: 2027-03-08
     status: independent
     employer: LBC
     startups:

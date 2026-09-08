@@ -11,11 +11,13 @@ missions:
     startups:
       - memo
   - start: 2020-04-01
-    end: 2026-10-08
+    end: 2027-03-08
     status: independent
-    employer: mission-apprentissage
+    employer: Malt
     startups:
       - la-bonne-alternance
 competences: []
+github: alanlr
+link: https://www.linkedin.com/in/alan-le-ruyet-6963bb54/
 ---
 Développeur full-stack

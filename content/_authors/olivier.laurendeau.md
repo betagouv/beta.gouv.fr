@@ -9,9 +9,9 @@ competences:
   - PostgreSQL
 missions:
   - start: 2024-08-12
-    end: 2026-09-27
+    end: 2027-03-08
     status: independent
-    employer: Scopylefft
+    employer: Creme de la creme
 teams:
   - /teams/anct
 ---

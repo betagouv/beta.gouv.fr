@@ -26,6 +26,8 @@ events:
     date: 2025-04-09
   - name: committee
     date: 2025-11-14
+  - name: committee
+    date: 2026-07-01
 link: ''
 ---
 **Améliorer le flux de gestion des stocks de médicaments pour éviter les ruptures**

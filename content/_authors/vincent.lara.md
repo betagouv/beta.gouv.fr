@@ -30,7 +30,7 @@ missions:
     startups:
       - données-et-territoires
   - start: 2026-02-18
-    end: 2026-08-18
+    end: 2026-12-31
     status: service
     employer: Codeureuses en liberté
     startups:

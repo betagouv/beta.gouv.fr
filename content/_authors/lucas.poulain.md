@@ -21,5 +21,11 @@ missions:
     employer: Omnicité
     startups:
       - csplab
+  - start: 2026-07-01
+    end: 2027-03-01
+    status: independent
+    employer: Multi / La zone
+    startups:
+      - data.gouv.fr
 ---
 Designer développeur intervenant sur des projets numériques d’intérêt général, principalement pour des acteurs publics. Ma pratique est à la croisée du design et du développement web, avec une attention particulière portée à la sobriété, l’accessibilité et la convivialité des usages.

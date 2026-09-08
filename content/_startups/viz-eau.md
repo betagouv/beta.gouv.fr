@@ -18,11 +18,14 @@ thematiques:
 usertypes:
   - collectivite-territoriale
   - etat
-techno: []
+techno:
+  - typescript
+  - react
 sponsors:
   - /organisations/deb
   - /organisations/dgaln
-link: ''
+link: https://vizeau.beta.gouv.fr
+repository: https://github.com/MTES-MCT/vizeau
 ---
 En cours de rédaction.
 

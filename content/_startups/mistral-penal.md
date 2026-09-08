@@ -32,6 +32,10 @@ events:
   - name: committee
     date: 2025-07-01
     comment: 'Passage en accélération '
+  - name: committee
+    date: 2026-01-01
+  - name: committee
+    date: 2026-06-15
 phases:
   - name: investigation
     start: 2022-06-29
@@ -92,33 +96,3 @@ MISTRAL Pénal améliore l’efficience du pilotage de l’activité juridiction
 - **Pour les DSGJ** : amélioration de la qualité des données et gain de temps dans la production des indicateurs, avec des statistiques toujours à jour.
 - **Pour les chefs de juridiction** : accès à des indicateurs plus lisibles et actionnables, pour une organisation optimisée.
 
-## **Apprentissages de la phase de construction #1**
-
-Le MVP a reçu un premier accueil positif des greffiers lors de sa prise en main sur un cas fictif, avec un gain estimé d’au moins **1h30 par semaine** sur le premier périmètre testé.
-
-## **Apprentissages de la phase de construction #2**
-
-Cette phase s’est concentrée sur l’implémentation des éléments de sécurité permettant l’utilisation de MISTRAL Pénal en situation d’audience réelle.
-
-## **Apprentissages de la phase de construction #3**
-
-L’expérimentation à petite échelle auprès de **6 greffiers (5 tribunaux)** a mis en évidence :
-
-- Une solution **simple à utiliser** (note moyenne de **9/10**).
-- Une **forte envie d’adopter MISTRAL Pénal au quotidien** (note moyenne de **8,5/10**).
-
-**Bénéfices constatés** :
-
-- **Préparation d’audience 5 fois plus rapide**, soit un gain de **2h à 2h30 par semaine**, permettant aux greffiers de se concentrer sur des tâches à plus forte valeur ajoutée.
-- **En audience** : gain de temps de quelques minutes, mais surtout **réduction du stress, meilleure concentration sur le contenu des dossiers et diminution du risque d’erreurs**.
-
-Les pistes d’amélioration identifiées laissent envisager **un gain de temps supplémentaire d’au moins 4 heures par semaine et par greffier** :
-
-- **2 heures** grâce aux améliorations de MISTRAL Pénal (saisie complète des décisions et génération automatique des documents de sortie d’audience).
-- **2 heures** grâce à une meilleure communication avec d’autres outils du ministère (hors périmètre d’action de MISTRAL Pénal).
-
-## **Objectifs pour la phase de construction #4**
-
-- **Améliorer le MVP** : gestion du mode hors ligne, saisie des décisions, amélioration continue et optimisation basée sur les retours utilisateurs.
-- **Déployer à plus grande échelle** : au moins **30 greffiers utilisateurs** et plus de **150 audiences couvertes**.
-- **Confirmer les gains de temps** observés.

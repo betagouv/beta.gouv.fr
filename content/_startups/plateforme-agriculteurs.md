@@ -34,8 +34,10 @@ events:
     date: 2026-03-13
     comment: Comité de fin de la 2ème phase d'investigation
 link: https://aides-agri.beta.gouv.fr
-budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Aides-Agri
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 stats_url: https://aides-agri.beta.gouv.fr/pages/statistiques
+contact_dinum: magali.marcel
+contact_incubator: magali.marcel
 ---
 ## Contexte
 
