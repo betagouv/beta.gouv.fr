@@ -1,5 +1,5 @@
 ---
-fullname: Amin Khelifi
+fullname: Amine Khelifi
 role: Ingénieur MLOps / DevOps/Architecte Cloud
 domaine: Développement
 competences:

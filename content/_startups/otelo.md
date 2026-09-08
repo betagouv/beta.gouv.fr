@@ -11,9 +11,9 @@ phases:
   - name: investigation
     start: 2023-05-01
   - name: construction
-    start: 2023-10-10
+    start: 2025-08-31
   - name: acceleration
-    start: 2024-11-01
+    start: 2025-09-01
 thematiques:
   - Collectivités
   - Logement
@@ -27,6 +27,7 @@ techno:
 repository: https://github.com/MTES-MCT/otelo
 link: https://otelo.beta.gouv.fr/
 stats_url: https://otelo.beta.gouv.fr/statistiques
+impact_url: https://docs.numerique.gouv.fr/docs/3be515d5-ead7-4c8c-9b72-ad62efc1fa80/
 ---
 
 ## Le problème auquel on s'attaque
@@ -51,16 +52,14 @@ Face à ces enjeux croisés de mal-logement, d'artificialisation des sols et de 
 
 ## La solution Otelo
 
-
 Une application de calcul des besoins en logements qui révolutionne la planification territoriale :
 
 🔍 Analyse précise et fiable
-
 * Traitement automatisé de millions de données territoriales
 * Méthodologie validée scientifiquement, développé par le Cerema, l’INSEE et la DGALN
 * Accès à des données locales et récentes sur la démographie, l'état du parc de logements, le mal-logement et les enjeux écologiques
 
-🛠️ Scénarios personnalisés et opérationnels
+🛠️ Scénarios personnalisés et opérationnels pour le territoire
 * Construction collaborative de scénarios avec les responsables locaux
 * Comparaison avec les rythmes de construction passés
 * Import d'éléments démographiques réalistes provenant du territoire
@@ -71,68 +70,21 @@ Une application de calcul des besoins en logements qui révolutionne la planific
 * Visualisations claires des projections et impacts
 * Support aux collectivités dans leurs prises de décision
 
-🏘️ Innovations majeures
-* Possibilité d'engagements concrets sur la remobilisation des logements vacants et la résorption du mal-logement
-* Scénarios affinés intégrant des données démographiques précises et comparant avec les historiques de construction
-* Plan d'actions complet pour l'adoption par les parties prenantes (formations, suivi, réseau d'ambassadeurs)
-
-
-## Objectifs et résultats clés visés pour fin 2025
-
-
-📊 Adoption et déploiement
-* 100% des DDT (Directions Départementales des Territoires) utilisant activement Otelo
-* 45+ territoires intégrant Otelo dans leurs documents d'urbanisme
-* 200+ utilisateurs actifs réguliers
-* Développement d'une API et d'interfaces optimisées par un UI designer
-
-🏡 Impact habitat
-* 30 territoires engagés via leurs documents d'urbanisme dans des politiques concrètes
-* 40 000 logements vacants minimum à remobiliser selon les engagements des collectivités
-* 30 000 logements neufs dédiés à la résorption du mal-logement
-
-🌱 Impact environnemental et économique
-* Contribuer à la validation de scénarios démographiques pertinents 80 % des cas
-* Remobiliser les logements vacants à hauteur de (minimum) 10 % du besoin en constructions neuves
-* Contribution mesurable aux objectifs de sobriété foncière
-
-👥 Satisfaction utilisateurs
-* Score de satisfaction maintenu au-dessus de 4,5/5
-* 85%+ de recommandation de l'outil par les utilisateurs
-* 75%+ d'utilisateurs soutenant des scénarios vertueux auprès de leurs élus
-
-
-## Notre impact actuel
-
-📈 Chiffres clés (mars 2025)
-* 41 territoires utilisateurs dont 10 DDT formées et actives, 10 collectivités avec documents en cours, et 5 agences d'urbanisme partenaires
-* Un objectif de 7 600 logements vacants à remobiliser sur les territoires accompagnés (75% des territoires ont choisi des scénarios ambitieux)
-* 14 000 ménages mal-logés pris en compte dans les politiques locales de l’habitat (100% des territoires ont adopté des scénarios ambitieux)
-* 16 documents d'urbanisme déjà influencés par Otelo (estimation basse)
-*
-
-⭐ Satisfaction exceptionnelle
-* 4,8/5 score de satisfaction moyen
-* 92% de taux de réutilisation
-* 85% des utilisateurs recommandent l'outil
-* 76% soutiennent des scénarios vertueux auprès de leurs élus
-
-💬 Témoignages
+💬 Témoignages récents de nos utilisateurs
 * "*Le besoin en stock n'était pas abordé dans le SCOT. Le territoire va démarrer son PLH pour y intégrer aussi les besoins en stock avec OTELO*" - Technicien en agence d’urbanisme
 * "*Grâce à Otelo, nous avons pu justifier une réduction de 30% de nos objectifs de construction.*" - Responsable Habitat en Service déconcentré
 
+✅ Otelo s'inscrit pleinement dans les priorités nationales :
+*  Sobriété foncière - Contribue aux objectifs de sobriété foncière 
+*  Lutte contre la vacance des logements - Identifie et mobilise le potentiel existant
+*  Lutte contre le mal-logement - Intègre cette priorité dans la planification territoriale
 
-Otelo s'inscrit pleinement dans les priorités nationales :
-*  ✅ Sobriété foncière - Contribue aux objectifs de sobriété foncière 
-*  ✅ Lutte contre la vacance des logements - Identifie et mobilise le potentiel existant
-*  ✅ Lutte contre le mal-logement - Intègre cette priorité dans la planification territoriale
-
+🏎️ Un produit en phase d'accélération :
+Otelo est en phase d'accélération : le service est fonctionnel et validé par ses premiers utilisateurs (DDT, collectivités, agences d'urbanisme, bureaux d'études), et l'enjeu actuel est le passage à l'échelle, avec l'extension progressive de la couverture territoriale, un accompagnement des utilisateurs (guide, didacticiel intégré, fiches par profil) et une relation resserrée avec la DGALN pour sécuriser les moyens de ce déploiement.
 
 **Projet porté par beta.gouv.fr, en collaboration avec la DGALN et le Cerema.**
 
 
-
 ## Pour en savoir plus sur notre code :
-
 `https://github.com/MTES-MCT/otelo-back` 
 `https://github.com/MTES-MCT/otelo-front`

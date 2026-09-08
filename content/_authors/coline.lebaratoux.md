@@ -5,13 +5,13 @@ domaine: Design
 github: ColineLebaratoux
 missions:
   - start: 2023-05-15
-    end: 2026-09-30
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:
       - transition-ecologique-des-entreprises
   - start: 2026-05-01
-    end: 2026-11-30
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

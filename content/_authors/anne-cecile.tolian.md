@@ -19,5 +19,11 @@ missions:
     end: 2026-12-31
     status: independent
     employer: Dynergie
+  - start: 2026-09-07
+    end: 2026-12-07
+    status: independent
+    employer: Dynergie
+    startups:
+      - mnemo
 ---
 Designer de formation, entrepreneur pendant + de 10 ans, accompagne les start ups et les grands comptes dans le développement de projets d'innovation ou entrepreneuriaux.

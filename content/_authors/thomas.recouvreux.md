@@ -4,7 +4,7 @@ role: Développeur principal
 domaine: Développement
 missions:
   - start: 2020-10-12
-    end: 2026-12-30
+    end: 2027-01-31
     status: independent
     employer: Crème de la crème
     startups:

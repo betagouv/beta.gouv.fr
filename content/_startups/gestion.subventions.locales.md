@@ -72,5 +72,5 @@ L’équipe est composée de :
 - Benjamin, coach ;
 - Thibault, responsable de portefeuille ;
 - Raphaël, UX designer ;
-- Maud, developpeuse
+- Yohan, developpeur
 - Maxime, développeur
