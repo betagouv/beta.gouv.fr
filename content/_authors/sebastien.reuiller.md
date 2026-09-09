@@ -32,7 +32,7 @@ missions:
       - recommandations-collaboratives
       - urbanvitaliz
   - start: 2026-02-20
-    end: 2026-09-30
+    end: 2027-02-28
     status: independent
     employer: Malt
     startups:

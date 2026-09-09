@@ -1,5 +1,5 @@
 ---
-mission: Libérer du temps pour l'accompagnement social grâce à une solution simple, intuitive et sécurisée.
+mission: 'Améliorer la prise en charge des bénéficiaires de l''action sociale grâce à un outil intuitif '
 incubator: anct
 contact: monsuivisocial@anct.gouv.fr
 accessibility_status: non conforme
@@ -9,6 +9,7 @@ usertypes:
 title: Mon Suivi Social
 sponsors:
   - /organisations/anct
+  - /organisations/ministere-des-affaires-sociales
 link: https://monsuivisocial.incubateur.anct.gouv.fr/
 stats: false
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/monsuivisocial-incubateur-anct-gouv-fr/
@@ -34,14 +35,16 @@ techno:
   - PostgreSQL
   - Typescript
 analyse_risques: true
-budget_url: https://incubateurdesterritoires.notion.site/Budget-1b2744bf03dd81c9a005c06c3d14a6d2
+budget_url: https://monsuivisocial.incubateur.anct.gouv.fr/budget/
 fast:
   promotion: 15
   montant: 160000
-impact_url: https://www.notion.so/incubateurdesterritoires/Budget-1b2744bf03dd81c9a005c06c3d14a6d2?source=copy_link#2df744bf03dd802b9913ed74b67deedb
+impact_url: https://monsuivisocial.incubateur.anct.gouv.fr/matrice-dimpact/
 events:
   - name: national_impact
     date: 2026-04-02
+contact_dinum: clara.dumont
+contact_incubator: alexis.boudard
 ---
 ## 🏗 Contexte/problème
 

@@ -5,7 +5,7 @@ domaine: Coaching
 github: OMoukoko
 missions:
   - start: 2020-10-01
-    end: 2026-08-31
+    end: 2026-09-30
     status: service
     employer: NUMA
 competences:

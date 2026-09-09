@@ -17,6 +17,12 @@ missions:
     employer: Crème de la crème
     startups:
       - boris
+  - start: 2026-09-09
+    end: 2026-12-09
+    status: independent
+    employer: Crème de la crème
+    startups:
+      - infomedicament
 competences: []
 link: https://www.linkedin.com/in/orion-charlier-4022a646/
 ---

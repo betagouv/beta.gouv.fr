@@ -28,11 +28,11 @@ missions:
     status: independent
     employer: Malt
   - start: 2026-01-01
-    end: 2026-11-30
+    end: 2026-12-31
     status: independent
     employer: Numa
   - start: 2026-01-01
-    end: 2026-10-31
+    end: 2026-12-31
     status: independent
     employer: Numa
     startups:

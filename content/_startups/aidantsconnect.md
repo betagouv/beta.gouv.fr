@@ -11,22 +11,29 @@ phases:
     start: 2019-03-13
   - name: acceleration
     start: 2021-03-15
+  - name: consolidation
+    start: 2024-01-01
 link: https://aidantsconnect.beta.gouv.fr
 repository: https://github.com/betagouv/Aidants_Connect
 stats: true
 stats_url: https://aidantsconnect.beta.gouv.fr/stats/
 contact: contactaidantsconnect@beta.gouv.fr
 usertypes:
-  - association
-  - collectivite-territoriale
+  - Associations
+  - Collectivités territoriales
 dashlord_url: https://dashlord.incubateur.net/url/aidantsconnect-beta-gouv-fr/
 accessibility_status: partiellement conforme
 thematiques:
   - Social
   - Inclusion numérique
+  - Démarches administratives
 budget_url: https://aidantsconnect.beta.gouv.fr/budget/
-techno: []
-impact_url: https://aidantsconnect.beta.gouv.fr/stats/
+techno:
+  - django
+  - java
+impact_url: https://docs.numerique.gouv.fr/docs/97efe9da-0c2f-4b76-a868-23fca3d2af3f/
+contact_dinum: estelle.saget
+contact_incubator: marine.jouan
 ---
 ## Contexte
 
@@ -88,7 +95,7 @@ Si ce n’est pas le cas, l’aidant l’aide à en créer un.
 Aidants Connect facilite cet accompagnement sur tous les sites de démarches accessibles via FranceConnect.
 L’ensemble des connexions effectuées sont tracées et stockées.
 
-[Consulter notre tutoriel interactif Aidants Connect](https://www.etsijaccompagnais.fr/tutoriel-aidants-connect)
+[Consulter notre tutoriel interactif Aidants Connect](https://www.figma.com/proto/nLpomUha2sNgBYk1ysMP0C/INTERACTIF---Tutoriel-Aidants-Connect?scaling=scale-down&starting-point-node-id=2608%3A155&node-id=2608-155)
 
 ## Etre habilité Aidants Connect
 
@@ -114,27 +121,21 @@ Le référent Aidants Connect de la structure dépose une demande d'habilitation
 
 [Déposer sa demande d'habilitation](https://aidantsconnect.beta.gouv.fr/habilitation/)
 
-**2) Inscription en formation**
+**2) Réalisation d'une formation**
 
-Suite à la validation de sa demande par Aidants Connect, le référent choisit une date de formation pour chaque aidant et s'inscrit à un webinaire dédié aux référents.
+Suite à la validation de sa demande par Aidants Connect, le référent choisit et organise les modalités de formation pour chaque aidant (via un organisme de formation ou en pair-à-pair). Il s'inscrit à un webinaire dédié aux référents.
 
-**3) Validation de l'inscription**
+**3) Formation des aidants**
 
-L'organisme de formation contacte le référent pour valider l'inscription. La formation est payante, une demande de prise en charge est nécessaire.
+Les aidants suivent la formation Aidants Connect et réalisent un test Pix qui certifie leur habilitation.
 
-[Se renseigner sur les modalités de financement](https://aidantsconnect.beta.gouv.fr/formation/)
+**4) Activation des comptes**
 
-**4) Formation des aidants**
-
-Les aidants suivent la formation Aidants Connect et réalisent un test PIX qui certifie leur habilitation.
-
-**5) Activation des comptes**
-
-Aidants Connect active les comptes des aidants qui peuvent alors réaliser en toute sécurité des démarches en ligne pour le compte d'usagers.
+Aidants Connect active les comptes des aidants. Le référent lie un mode de connexion (générateur de code OTP) pour garantir une double authentification sécurisée. Les aidants peuvent alors réaliser en toute sécurité des démarches en ligne pour le compte d'usagers.
 
 ## Pour aller plus loin
 
-Pour suivre les actualités du service Aidants Connect, [inscrivez-vous à notre newsletter mensuelle](https://aidantsconnect.beta.gouv.fr/). N’hésitez pas à consulter également notre page [ressources](https://aidantsconnect.beta.gouv.fr/ressources/), notre [FAQ](https://aidantsconnect.beta.gouv.fr/faq/) et notre page [témoignages](https://aidantsconnect.beta.gouv.fr/temoignages/Temoignages/) !
+Pour suivre les actualités du service Aidants Connect, [inscrivez-vous à notre newsletter mensuelle](https://aidantsconnect.beta.gouv.fr/). N’hésitez pas à consulter également notre page [ressources](https://aidantsconnect.beta.gouv.fr/ressources/), notre [FAQ](https://aidantsconnect.beta.gouv.fr/faq_public/) et notre page [témoignages](https://aidantsconnect.beta.gouv.fr/temoignages/Temoignages/) !
 
 Vous pouvez suivre aussi toutes nos statistiques en temps réel sur [notre site internet!](https://aidantsconnect.beta.gouv.fr/stats/)
 

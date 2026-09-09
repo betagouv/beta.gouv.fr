@@ -21,20 +21,20 @@ techno:
   - SIG
 title: Carte archéologique nationale
 mission: Ouvrir et moderniser l'inventaire archéologique national
-incubator: dinum
+incubator: culture
 contact_dinum: gregory.sohn
 sponsors:
+  - /organisations/dinum
   - /organisations/mc
 phases:
   - name: investigation
     start: 2025-09-15
   - name: construction
     start: 2025-12-08
-  - name: acceleration
-    start: 2026-07-06
 events:
   - name: product_launch
     date: 2026-07-07
+contact_incubator: chloe.boutevin
 link: ''
 ---
 ## Contexte
