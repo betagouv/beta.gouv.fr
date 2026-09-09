@@ -28,6 +28,7 @@ repository: https://github.com/MTES-MCT/otelo
 link: https://otelo.beta.gouv.fr/
 stats_url: https://otelo.beta.gouv.fr/statistiques
 impact_url: https://docs.numerique.gouv.fr/docs/3be515d5-ead7-4c8c-9b72-ad62efc1fa80/
+budget_url: https://docs.google.com/spreadsheets/d/13i2c7MTxnJhoyArrU0cJzCPAG71k533jXo53oPm35Co/edit?gid=0#gid=0
 ---
 
 ## Le problème auquel on s'attaque

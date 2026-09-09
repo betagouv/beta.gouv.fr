@@ -7,9 +7,9 @@ link: https://www.linkedin.com/in/cedricprezelin/
 competences: []
 missions:
   - start: 2026-07-06
-    end: 2026-10-08
+    end: 2027-01-29
     status: independent
-    employer: Octo
+    employer: Crème de la crème
     startups:
       - mes-services-cyber
 ---

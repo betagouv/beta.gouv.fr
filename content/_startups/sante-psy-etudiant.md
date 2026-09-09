@@ -31,6 +31,7 @@ events:
 fast:
   promotion: 17
   montant: 100000
+impact_url: https://docs.numerique.gouv.fr/docs/8d08cadb-f10b-4e95-84dd-db62fbc2455e/
 ---
 ## Contexte
 

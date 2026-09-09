@@ -47,6 +47,12 @@ events:
   - name: other
     date: 2025-06-30
     comment: Fin de l'expérimentation à Angers
+  - name: committee
+    date: 2026-03-01
+    comment: Comité d'investissement
+  - name: committee
+    date: 2026-09-08
+    comment: Comité de restitution de l'expérimentation
 impact_url: https://notion.incubateur.ademe.fr/carte-verte-stats
 link: ''
 ---

@@ -1,6 +1,6 @@
 ---
 fullname: Fabien Caroulle
-role: Assistant intrapreneur
+role: Intrapreneur
 domaine: Intraprenariat
 competences: []
 missions:
@@ -9,4 +9,5 @@ missions:
     status: admin
     startups:
       - sylva-san
+github: fabifabo75
 ---

@@ -11,9 +11,9 @@ missions:
     startups:
       - mistral-penal
   - start: 2025-01-27
-    end: 2026-10-01
+    end: 2027-03-08
     status: independent
-    employer: LBC
+    employer: LBC / Creme de la Creme
     startups:
       - mistral-penal
 memberType: beta

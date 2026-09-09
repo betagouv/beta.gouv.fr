@@ -5,7 +5,7 @@ domaine: Développement
 github: jonathanfallon
 missions:
   - start: 2018-11-05
-    end: 2026-10-01
+    end: 2026-12-08
     status: independent
     employer: La Zone - Scopopop
     startups:

@@ -58,6 +58,12 @@ missions:
     employer: Dynergie
     startups:
       - acces-cible
+  - start: 2026-09-01
+    end: 2026-10-31
+    status: service
+    employer: Dynergie
+    startups:
+      - gestion-de-l-orientation-et-du-placement-des-mineurs-de-l-ase
 competences:
   - Coaching
   - Facilitation

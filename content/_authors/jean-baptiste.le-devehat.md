@@ -16,5 +16,8 @@ previously:
   - les-emplois
 competences:
   - Intrapreneur(se)
+  - Product design
+  - Product strategy
+  - UX
 ---
 Couteau-suisse en transformation de services

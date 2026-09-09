@@ -17,5 +17,5 @@ missions:
       - recocyber
 teams:
   - /teams/anssi
-github: '@nlsve-beta'
+github: nlsve-beta
 ---

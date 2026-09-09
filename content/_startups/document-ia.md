@@ -18,6 +18,10 @@ sponsors:
 phases:
   - name: construction
     start: 2025-09-15
+  - name: acceleration
+    start: 2026-05-01
+  - name: consolidation
+    start: 2026-09-08
 events:
   - name: product_launch
     date: 2025-07-31
@@ -30,6 +34,8 @@ events:
 repository: https://github.com/betagouv/document-ia
 stats_url: https://metabase.document-ia.beta.gouv.fr/public/dashboard/6540a17d-2f64-41b7-88d8-48cfa278108f
 impact_url: https://metabase.document-ia.beta.gouv.fr/public/dashboard/6540a17d-2f64-41b7-88d8-48cfa278108f
+budget_url: https://beta.gouv.fr/startups/document-ia.html
+contact_dinum: elsa.le-duigou
 link: ''
 ---
 Document-IA est une solution **générique, souveraine** et **sécurisée** d'**analyse automatique** de **documents** et **pièces justificatives**. Ce produit est portée par l'incubateur [ALLiaNCE](https://alliance.numerique.gouv.fr/) de la DINUM et pensé comme un commun numérique.
@@ -124,3 +130,9 @@ Cette solution met en oeuvre les technologies suivantes :
 * **Classification / Extraction** : Modèles ML et/ou LLMs
 
 * **Evaluation performance** : Librairies open-source et développement spécifiques
+
+---
+
+###  💶 Budget
+
+Le produit Document-IA a bénéficié d'un financement FTAP-IA de 150k€ en juillet 2025 permettant la construction d'une première version du produit.
