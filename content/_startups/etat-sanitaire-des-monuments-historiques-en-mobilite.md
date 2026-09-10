@@ -15,6 +15,8 @@ phases:
     start: 2025-01-01
   - name: construction
     start: 2025-11-25
+  - name: acceleration
+    start: 2026-07-01
 events:
   - name: committee
     date: 2025-04-10

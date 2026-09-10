@@ -11,6 +11,12 @@ missions:
     employer: DINUM
     startups:
       - collectif_objets
+  - start: 2026-09-09
+    end: 2026-12-09
+    status: admin
+    employer: DINUM
+    startups:
+      - carte-archeologique-nationale
 ---
 J’ai pu accompagner des sociétés en tant que Teach lead et CTO dans des domaines très diverses (Dating @ Meetic, Santé @ Mondocteur.fr, Tourisme @ Dayuse.com, Marketplace @ Selency). J'ai également été co-fondateurs de plusieurs startups, notamment à impact (microDON et Alacaza).
 Toutes expériences m'ont permis de développer une expertise solide dans la gestion technique et la direction de projets complexes. 

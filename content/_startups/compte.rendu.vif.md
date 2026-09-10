@@ -13,6 +13,8 @@ phases:
     start: 2025-01-01
   - name: transfere
     start: 2025-09-01
+  - name: abandon
+    start: 2026-09-09
 repository: https://github.com/betagouv/patrinotes/
 thematiques:
   - Patrimoine
@@ -34,7 +36,7 @@ events:
     date: 2025-04-10
     comment: décision de mutualiser la construction avec de nouveaux modules
 ---
-
+****
 ## Contexte
 
 Le projet est né d’un double constat : du coté usager, la  compréhension des paroles échangées lors d’un rendez-vous n’est pas toujours juste du fait du vocabulaire technique employé et ainsi laisse à interprétation. Du coté des agents, le besoin de traçabilité des choix fait à propos de projets est important pour avoir un discours consistant et un suivis assuré.

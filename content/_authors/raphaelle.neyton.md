@@ -46,6 +46,12 @@ missions:
     employer: NUMA
     startups:
       - dalo-assist-usagers-et-contentieux
+  - start: 2026-06-25
+    end: 2026-12-09
+    status: independent
+    employer: NUMA
+    startups:
+      - match-hab
 incubator: culture
 badges:
   - segur

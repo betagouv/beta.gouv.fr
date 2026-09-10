@@ -14,10 +14,11 @@ sponsors:
   - /organisations/conseil-d-etat
 phases:
   - name: investigation
-    start: 2026-09-07
+    start: 2026-09-28
 events:
   - name: product_launch
     date: 2026-07-10
+techno: []
 link: ''
 ---
 ## Contexte

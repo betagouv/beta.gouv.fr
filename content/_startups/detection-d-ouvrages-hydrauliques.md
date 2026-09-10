@@ -12,7 +12,7 @@ techno:
   - xml
   - shp
   - dbf
-title: Detection d'ouvrages hydrauliques
+title: Détection d'ouvrages hydrauliques
 mission: Mieux localiser les effondrements d'ouvrages hydrauliques dans un secteur minier, en automatisant par IA, pour prévenir les risques
 incubator: mtes
 contact_dinum: amel.alili

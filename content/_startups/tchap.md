@@ -18,6 +18,8 @@ phases:
     start: 2021-01-01
   - name: acceleration
     start: 2021-03-05
+  - name: opere
+    start: 2025-07-25
 usertypes:
   - collectivite-territoriale
   - etat
@@ -31,6 +33,7 @@ accessibility_status: non conforme
 analyse_risques: true
 stats_url: https://stats.tchap.incubateur.net/public/dashboard/8c6560e3-c27a-487b-b242-eb1636912f1a?instance=&nom_de_domaine=
 techno: []
+impact_url: https://docs.numerique.gouv.fr/docs/987e6fa0-32bc-4229-8aa7-6ab5cb29dff5/
 ---
 ## Contexte
 
