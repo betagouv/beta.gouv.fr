@@ -10,8 +10,9 @@ usertypes:
 techno: []
 title: GPL Connect
 mission: Faciliter le suivi et l'accompagnement des collectivités locales sur les enjeux relatifs aux finances publiques
-incubator: fabrique-dgfip
+incubator: anct
 sponsors:
+  - /organisations/anct
   - /organisations/mefsin
 phases:
   - name: investigation

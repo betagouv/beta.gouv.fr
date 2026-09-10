@@ -3,15 +3,20 @@ analyse_risques: false
 mon_service_securise: false
 contact: sylvie.pommier@beta.gouv.fr
 thematiques:
-  - Jeunesse
   - Formation
   - Travail / Emploi
+  - Entreprises
 usertypes:
   - particulier
+  - entreprise
   - etablissement-scolaire
-techno: []
-title: Plateforme d'admission en Doctorat
-mission: Faciliter le processus d'admission en doctorat
+techno:
+  - Angular 20
+  - Spring Boot 4
+  - PostgreSQL
+  - Java 21
+title: La plateforme nationale du doctorat
+mission: Faciliter le processus d'admission en doctorat, de la définition du sujet de recherche à la poursuite de carrière
 incubator: dinum
 sponsors:
   - /organisations/dgesip
@@ -25,7 +30,12 @@ phases:
 events:
   - name: committee
     date: 2025-06-25
-link: https://doctorat.sites.beta.gouv.fr/
+  - name: product_launch
+    date: 2026-02-09
+    comment: Lancement de la version bêta composée du site vitrine (doctorat.gouv.fr) et de l'outil de mise en relation entre chercheurs et potentiels candidats au doctorat
+link: https://doctorat.gouv.fr/
+contact_dinum: cyprien.cambier
+contact_incubator: lucie.zaccardi
 ---
 ## Contexte
 
@@ -36,16 +46,17 @@ Cela a un impact sur l'attractivité de la France pour les jeunes chercheurs.
 ## Problème
 
 Problèmes identifiés :
-- Manque d'uniformisation des procédures d'inscription entre les universités
-- Complexité des démarches administratives (multiplicité des formulaires, plateformes, documents à fournir)
-- Difficulté d'accès à l'information claire et centralisée
-- Manque d'accompagnement personnalisé, en particulier pour les étudiants internationaux ou ceux sans réseau académique
+- Le doctorat souffre d'un imaginaire collectif défavorable
+- L’écosystème de la recherche française est difficile d’accès
+- L’attractivité du doctorat est pénalisée en France par des démarches d’accès au doctorat, complexes, mal-connues et multi-acteurs
+
 
 Qui en souffre ?
 - Étudiants français issus de formations non académiques habituelles
 - Étudiants étrangers
 - Candidats sans réseau académique établi
 - Chercheurs en laboratoire
+- Entreprises souhaitant développer des projets de recherche partenariale
 
 Conséquences :
 - Découragement des candidats potentiels
@@ -55,9 +66,11 @@ Conséquences :
 
 ## Solution
 
-Le projet vise à construire un écosystème de services numériques complémentaires, articulant information, orientation et admission au doctorat.
+Le Ministère de l'enseignement supérieur, de la recherche et de l'espace lance la plateforme nationale du doctorat, un outil pensé pour faciliter l'admission en doctorat des candidats de tous horizons. Pour : 
+- Informer sur le doctorat
+- Rendre accessibles les sujets de thèses
+- Assister et aiguiller les doctorants
 
-Il repose sur deux briques principales, développées de manière coordonnée durant la phase de construction :
 
 **1# Le site vitrine national du doctorat : doctorat.gouv.fr**
 
@@ -70,19 +83,18 @@ Ce site a pour objectifs de :
 * proposer un service de recherche d’offres de thèses, permettant aux candidats d’identifier des sujets ouverts et d’initier leur candidature,
 * poser un premier référentiel éditorial et UX commun autour du doctorat.
 
-Le site vitrine constitue un premier jalon concret de la phase de construction :
-il permet de livrer rapidement de la valeur aux utilisateurs, de tester des hypothèses d’usage (information, recherche d’offres, premières candidatures) et de préparer l’atterrissage de la future plateforme d’admission.
-Les enseignements issus de sa conception et de ses usages alimenteront directement les choix produit de la plateforme (parcours, contenus, fonctionnalités).
+L'ouverture du site vitrine le 9 février 2026 a constitué un premier jalon concret de la phase de construction : il a permis de livrer rapidement de la valeur aux utilisateurs, de tester des hypothèses d’usage (information, recherche d’offres, premières candidatures) et de préparer l’atterrissage de la future plateforme d’admission.
+Les enseignements issus de sa conception et de ses usages alimentent directement les choix produit de la plateforme (parcours, contenus, fonctionnalités).
 
 **2# Une plateforme nationale d’admission en doctorat**
 
 Une plateforme numérique centralisée permettant de :
-* uniformiser et simplifier les démarches d’admission en doctorat,
-* guider les candidats à chaque étape du parcours (pré-requis, constitution du dossier, candidatures),
-* faciliter les échanges entre candidats, directeurs de thèse, écoles doctorales et services administratifs,
-* outiller les écoles doctorales avec des tableaux de bord de suivi et de gestion des candidatures.
+- faciliter la mise en relation entre chercheurs et potentiels candidats au doctorat (version bêta en ligne depuis le 09/02/2026)
+- uniformiser et simplifier les démarches d’admission en doctorat,
+- guider les candidats à chaque étape du parcours (pré-requis, constitution du dossier, candidatures),
+- faciliter les échanges entre candidats, directeurs de thèse, écoles doctorales et services administratifs,
+- outiller les écoles doctorales avec des tableaux de bord de suivi et de gestion des candidatures.
 
-La première version sera volontairement limitée à un périmètre pilote, afin de tester rapidement les usages et d’itérer à partir des retours des établissements et des candidats.
 
 ## Méthodologie de construction
 La phase de construction repose sur une démarche itérative, centrée utilisateurs et orientée impact, visant à réduire les risques le plus tôt possible.
