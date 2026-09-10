@@ -10,9 +10,16 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2025-12-15
+  - name: construction
+    start: 2026-05-28
 events:
   - name: product_launch
     date: 2026-02-24
+techno: []
+contact_dinum: julien.honnart
+sponsors:
+  - /organisations/cnam
+  - /organisations/dns
 link: ''
 ---
 ## Contexte
