@@ -12,17 +12,20 @@ title: GPL Connect
 mission: Faciliter le suivi et l'accompagnement des collectivités locales sur les enjeux relatifs aux finances publiques
 incubator: fabrique-dgfip
 sponsors:
+  - /organisations/anct
   - /organisations/mefsin
 phases:
   - name: investigation
     start: 2023-09-01
   - name: construction
     start: 2024-07-01
-  - name: acceleration
+  - name: transfere
     start: 2026-04-01
 events:
   - name: product_launch
     date: 2025-02-01
+contact_dinum: magali.marcel
+contact_incubator: love.andrieu
 link: ''
 ---
 
@@ -75,4 +78,6 @@ Si l'extension de l'expérimentation est concluante, on peut envisager un déplo
 ### **Budget** 
 Depuis la création du projet GPL Connect, développé dans une logique frugale et en partenariat avec l'éditeur Deveco, 200 000 euros ont été investis pour un coût de 80 000 euros pour le développement de l'outil seul (sur 2025 et 2026). Le reste de l'enveloppe concerne les dépenses relatives à l'hébergement, au coaching et à l'accompagnement.
 
-
+### **Fin de la start-up**
+Le produit Deveco, porté par l'ANCT, répond pleinement aux usages. 
+GPL connect ne nécessite plus d'équipe dédiée et un contrat avec l'ANCT permet la réutilisation de Deveco pour les besoins de la DGFIP.

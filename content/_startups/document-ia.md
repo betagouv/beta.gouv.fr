@@ -18,10 +18,6 @@ sponsors:
 phases:
   - name: construction
     start: 2025-09-15
-  - name: acceleration
-    start: 2026-05-01
-  - name: consolidation
-    start: 2026-09-08
 events:
   - name: product_launch
     date: 2025-07-31

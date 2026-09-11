@@ -32,6 +32,7 @@ repository: https://github.com/betagouv/sylvasan/
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 impact_url: https://docs.numerique.gouv.fr/docs/8b9fa8fe-5685-4a96-9b73-63b182161282/
 contact_incubator: jennifer.stephan
+stats_url: https://sylvasan.beta.gouv.fr/stats
 ---
 ## Contexte
 
