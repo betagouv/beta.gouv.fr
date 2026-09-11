@@ -10,9 +10,16 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2025-12-15
+  - name: construction
+    start: 2026-05-28
 events:
   - name: product_launch
     date: 2026-02-24
+techno: []
+contact_dinum: julien.honnart
+sponsors:
+  - /organisations/cnam
+  - /organisations/dns
 link: ''
 ---
 ## Contexte
@@ -44,7 +51,7 @@ Le vieillissement de la population, le développement des maladies chroniques et
 
 La capacité de transport de la flotte de près de 70 000 véhicules (40 000 taxis conventionnés, 14 000 VSL et 15 000 ambulances) semble sous-utilisée, avec 20% des transports partagés avec plusieurs patients à bord et près de la moitié des trajets réalisés à vide, sans patient à bord (source : Assurance Maladie et transporteurs).
 
-Dans trois rapports successifs ([2012](https://www.ccomptes.fr/sites/default/files/EzPublish/rapport_securite_sociale_2012_transports_patients.pdf), [2019](https://www.ccomptes.fr/system/files/2019-10/RALFSS-2019-06-transports-programmes-secteurs-sanitaire-medicosocial.pdf) et 2026 à paraître), la Cour des Comptes alerte sur une croissance rapide des dépenses de transport, supérieure à celle des soins, alors même que toutes les demandes de transport ne sont pas satisfaites, s’interrogant sur l’effectivité et l’efficacité de sa régulation. Le transport sanitaire est identifié par l’Assurance Maladie comme un poste d’économies prioritaire afin de pouvoir équilibrer ses comptes, dont la branche maladie accuse un déficit de 17,2 milliards d’euros en 2025 ([LFSS 2026](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000053226389)).
+Dans trois rapports successifs ([2012](https://www.ccomptes.fr/sites/default/files/EzPublish/rapport_securite_sociale_2012_transports_patients.pdf), [2019](https://www.ccomptes.fr/system/files/2019-10/RALFSS-2019-06-transports-programmes-secteurs-sanitaire-medicosocial.pdf) et [2026](https://www.ccomptes.fr/sites/default/files/2026-05/20260527-RALFSS-2026-7-Transports-patients-a-la-charge-de-l-assurance-maladie.pdf)), la Cour des Comptes alerte sur une croissance rapide des dépenses de transport, supérieure à celle des soins, alors même que toutes les demandes de transport ne sont pas satisfaites, s’interrogant sur l’effectivité et l’efficacité de sa régulation. Le transport sanitaire est identifié par l’Assurance Maladie comme un poste d’économies prioritaire afin de pouvoir équilibrer ses comptes, dont la branche maladie accuse un déficit de 17,2 milliards d’euros en 2025 ([LFSS 2026](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000053226389)).
 
 Au-delà des enjeux financiers, les patients comme les soignants ont parfois des difficultés à trouver un transport disponible et adapté. Un transport non disponible ou mal coordonné, ce sont des temps d’attente importants, des retours tardifs à domicile, des rendez-vous manqués, des journées d’hospitalisation qui se prolongent, voire dans certains cas un renoncement aux soins pouvant mettre les patients en danger.
 
@@ -56,9 +63,7 @@ Les transporteurs dénoncent de leur côté les baisses de tarifs de l’Assuran
 
 ## Investigation
 
-Dans un contexte où chaque partie prenante est sous pression, l’objectif de l’investigation est de comprendre en profondeur les problématiques de chacune d’entre elles, afin de proposer des solutions capables d’emporter une adhésion collective.
-
-Des rencontres seront donc organisées avec :
+La phase d’investigation a donné lieu à plus de 100 entretiens réalisés avec l’ensemble des parties prenantes du transport sanitaire :
 
 - les patients et leurs représentants
 - les prescripteurs, soignants et personnels administratifs (en ville et en établissement)
@@ -68,16 +73,36 @@ Des rencontres seront donc organisées avec :
 - les éditeurs de logiciels (plateformes de commandes et ERP transporteurs)
 - les experts et consultants spécialistes des transports sanitaires
 
-Une vision cible sera définie, ainsi que le périmètre d’un premier produit (MVP), qui sera expérimenté sur le terrain dès 2026.
+Cette phase d’investigation menée à la Délégation au Numérique en Santé (DNS) a permis d’identifier et valider 2 enjeux majeurs pour le projet, qui se poursuit à la Caisse Nationale d’Assurance Maladie (CNAM), en lien avec la Direction de la Sécurité Sociale (DSS).
 
-Des indicateurs d’impact seront également fixés afin de suivre précisément les effets des actions entreprises et prioriser la feuille de route.
+## Enjeu 1 : Sécuriser la chaîne du transport
 
-## Ce que nous devons apprendre
+### Simulateur d’éligibilité
 
-- Quels leviers d’optimisation le numérique peut-il apporter dans les transports sanitaires ?
-- Comment réaliser des gains d’efficience, c’est-à-dire augmenter la quantité et la qualité des transports pour un niveau de dépense donné ?
-- La centralisation des demandes de transport peut-elle permettre un développement important du transport partagé ?
-- La centralisation des demandes de transport peut-elle permettre une réduction importante des trajets à réalisés à vide ?
-- La digitalisation du parcours, de la prescription jusqu’à la facturation, est-elle en mesure d’apporter des gains de temps administratifs et de réduire certaines dérives ?
-- Quelle stratégie de déploiement pour répondre aux attentes des différentes parties prenantes et emporter leur adhésion ?
+En réponse à la complexité et à la méconnaissance des règles, sources de tensions récurrentes entre prescripteurs et patients, un simulateur d’éligibilité aux transports sanitaires est en cours de développement. Il sera mis à disposition des prescripteurs, soignants et personnels administratifs, en ville et à l’hôpital. 
 
+Le simulateur permettra d’évaluer rapidement l’éligibilité d’un patient et d’identifier, le cas échéant, le moyen de transport le plus adapté à sa situation, dans le strict respect de la réglementation de l’Assurance Maladie.
+
+Pour tout patient éligible, une prescription électronique pré-remplie sera émise. Dans le cas contraire, une fiche explicative personnalisée pourra être délivrée au patient afin d’objectiver l’application des règles d’éligibilité.
+
+### Prescription électronique
+
+Aujourd’hui, 90% des prescriptions médicales de transport demeurent au format papier, ce qui favorise les risques d’abus et de fraude, tout en nuisant à l’efficacité des soignants et à la productivité des transporteurs.
+
+La généralisation d’une nouvelle prescription électronique de transport visera à simplifier la saisie et l’exploitation des données, garantir l’inaltérabilité du contenu, automatiser les contrôles de facturation et assurer une traçabilité de bout en bout, depuis la prescription médicale jusqu’au paiement.
+
+## Enjeu 2 : Optimiser les flux patients
+
+Aujourd’hui, 90% des commandes de transport s’effectuent en dehors des plateformes de commandes des établissements hospitaliers. Ces commandes sont pour la plupart réalisées par les patients ou leurs aidants, directement auprès des transporteurs. La forte fragmentation de l’offre (5 000 transporteurs sanitaires et 27 000 sociétés de taxis conventionnés) atomise les commandes et limite les opportunités de transport partagé.
+
+Une centralisation accrue de ces commandes permettrait d’atteindre la masse critique nécessaire à une optimisation à plus grande échelle.
+
+Des travaux sont en cours pour mieux quantifier le potentiel d’optimisation, déterminer l’échelle territoriale la plus adaptée pour centraliser les flux, et définir la stratégie la plus pertinente en prenant en compte l’écosystème existant.
+
+## Méthode de travail
+
+L’ensemble des travaux est mené au sein de l’Assurance Maladie afin de garantir leur adéquation aux besoins métiers et la pérennité des développements dans les systèmes d’information.
+
+Les outils développés sont co-construits et testés directement avec les utilisateurs finaux afin de s’assurer qu’ils correspondent aux réalités du terrain en vue de leur déploiement à plus large échelle.
+
+La stratégie est quant à elle construite à partir de données fiables et en échanges constants avec l’ensemble des parties prenantes qui œuvrent tous les jours aux transports sanitaires.

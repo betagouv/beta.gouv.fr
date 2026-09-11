@@ -99,11 +99,11 @@ circuits de valorisation des viandes de gibier sauvage et l’intégralité des 
 d’utilisateurs potentiels.
 
 
-## Budget construction 2024
+## Budget (au 10/09/2026)
 
-| Poste | Total € |
-| --- | --- |
-| Développement | 58 150 |
-| Déploiement | 27 700 |
-| Mentorat | 28 500  |
-| TOTAL | 114 350 |
+| Année | AE (TTC) | CP (TTC) |
+| --- | --- | --- |
+| 2024 |  205 594,21 € |  48 973,94 € |
+| 2025 |  285 477,60 € |  263 216,30 € |
+| 2026 (en cours) |  196 628,33 €  |  196 622,93 € |
+| TOTAL |  687 700,14 € |  508 813,17 € |

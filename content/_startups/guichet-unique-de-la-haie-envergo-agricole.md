@@ -17,13 +17,14 @@ techno:
   - python
   - docker
   - sql
-title: Guichet unique de la haie (Envergo agricole)
+title: Guichet unique de la haie
 mission: Simplifier la prise en compte de la réglementation sur les haies pour mieux les préserver
 incubator: mtes
 sponsors:
   - /organisations/agriculture
   - /organisations/deb
   - /organisations/dgaln
+  - /organisations/dgpe
 phases:
   - name: investigation
     start: 2024-05-01
@@ -32,6 +33,15 @@ phases:
 events:
   - name: product_launch
     date: 2024-11-01
+    comment: 'Lancement en test dans deux départements pilotes : l''Aisne (02) et le Calvados (14)'
+  - name: product_launch
+    date: 2026-10-01
+    comment: Entrée en vigueur du régime unique de la haie, et déploiement au niveau national du produit
+budget_url: https://docs.numerique.gouv.fr/docs/3b624dfb-7940-4e35-9978-0ad0a4ff68e8/#d920ada2-3b9c-4aa3-b5b8-37a009db14ff
+repository: https://github.com/MTES-MCT/envergo
+impact_url: https://docs.numerique.gouv.fr/docs/3b624dfb-7940-4e35-9978-0ad0a4ff68e8/
+dashlord_url: https://dashlord.mte.incubateur.net/url/haie-beta-gouv-fr/
+contact_incubator: yoann.magnin
 ---
 
 
@@ -73,7 +83,7 @@ Bien mis en avant et accompagnés d’une communication efficace, ces dispositif
 
 La présente startup d’État vise à prolonger et généraliser ces dispositifs à l’échelle nationale, tout en surmontant leurs limites actuelles.
 
-Elle s’appuie sur le simulateur réglementaire [Envergo](https://envergo.beta.gouv.fr), [une autre startup d'État beta.gouv.fr](https://beta.gouv.fr/startups/envergo.html) initialement dédié aux projets d’aménagement.
+Elle complète le simulateur réglementaire [Envergo](https://envergo.beta.gouv.fr), [une autre startup d'État beta.gouv.fr](https://beta.gouv.fr/startups/envergo.html) initialement dédié aux projets d’aménagement.
 
 Les résultats attendus : 
 - augmentation du taux de destructions de haie déclarées, et donc instruites

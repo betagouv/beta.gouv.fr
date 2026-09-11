@@ -7,7 +7,7 @@ thematiques:
 usertypes:
   - etat
 techno: []
-title: Constats d'état sur les monuments historiques en mobilité
+title: 'Constats d''état sur les monuments historiques en mobilité '
 mission: 'Faciliter la rédaction, le stockage et le partage du rapport de visite d''un monument historique réalisé dans le cadre du contrôle scientifique et technique. '
 incubator: culture
 phases:
@@ -60,8 +60,6 @@ Le projet est ensuite passé en phase de construction pour réaliser une premiè
 
 Un prototype été livré en novembre 2025, qui permet un service disponible aussi hors ligne pour couvrir les zones blanches, permet d'éditer, de stocker et de partager ces informations. Il est à l'usage des agents du ministère de la culture, en charge du CST en DRAC (UDAP, CRMH, SRA) et du CMN. Les premiers tests positifs en fin d'année 2025 ont motivé la poursuite de l'expérimentation et le déploiement de la solution sur le territoire national avec des testeurs volontaires.
 
-Ce prototype a été rassemblé avec [l'outil Compte-rendu VIF](https://beta.gouv.fr/startups/compte.rendu.vif.html), en un unique outil:  [**Patrinotes**](https://patrinotes.beta.gouv.fr/), dont l'objectif est de permettre d’établir rapidement des documents en mobilité facilitant la bonne compréhension de l’expertise et permettant la fiabilité et la ré-utilisation des informations, sans ressaisie.
-
 ## Objectifs pour 2026
 
 **Objectifs de déploiement**
@@ -81,3 +79,6 @@ Ce prototype a été rassemblé avec [l'outil Compte-rendu VIF](https://beta.gou
 **Objectifs d'impact**
 * 2 fois plus de constats d'états réalisés en 6 mois par rapport à une moitié d'année type (référence 2024 dans AgrÉgée)
 *  Temps divisé par 3 pour réaliser un constat d'état
+
+## Outil fusionné avec Patrinotes
+Ce prototype a été rassemblé avec [l'outil Compte-rendu VIF](https://beta.gouv.fr/startups/compte.rendu.vif.html), en un unique outil:  [**Patrinotes**](https://patrinotes.beta.gouv.fr/), dont l'objectif est de permettre d’établir rapidement des documents en mobilité facilitant la bonne compréhension de l’expertise et permettant la fiabilité et la ré-utilisation des informations, sans ressaisie. 

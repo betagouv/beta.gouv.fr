@@ -22,7 +22,7 @@ accessibility_status: partiellement conforme
 thematiques:
   - Transports
 techno: []
-budget_url: https://pad.numerique.gouv.fr/Y2X3rmejSYmGcX8TSb-K7g#
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 impact_url: https://docs.numerique.gouv.fr/docs/4bb64e22-30cc-4fb9-adc5-40d71be8ae62/
 ---
 ##  Le défi (2022)
