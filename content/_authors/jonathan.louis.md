@@ -23,9 +23,9 @@ missions:
     startups:
       - tchap
   - start: 2022-09-01
-    end: 2026-10-30
+    end: 2026-12-15
     status: independent
-    employer: Malt
+    employer: Malt puis Multi
     startups:
       - annuaire-entreprises
   - start: 2022-11-01
@@ -35,9 +35,9 @@ missions:
     startups:
       - deveco
   - start: 2025-02-01
-    end: 2026-09-30
+    end: 2026-12-15
     status: independent
-    employer: Data.gouv.fr
+    employer: Malt puis Multi
     startups:
       - data.gouv.fr
 competences:

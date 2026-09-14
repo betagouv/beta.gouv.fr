@@ -25,6 +25,7 @@ techno:
   - NodeJS
   - gotenberg
 impact_url: https://docs.numerique.gouv.fr/docs/ef6c75dd-dcd3-4af9-9ae3-24578fc15d3c/
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques
 link: ''
 ---
 

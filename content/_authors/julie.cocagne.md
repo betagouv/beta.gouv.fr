@@ -1,16 +1,19 @@
 ---
 fullname: Julie Cocagne
-role: Chargée de financement européen
-domaine: Développement
+role: Bizdev
+domaine: Déploiement
 link: https://www.linkedin.com/in/julie-cocagne/?originalSubdomain=fr
 competences:
   - développement de partenariats
   - fundraising
   - gestion de projet
   - recherche de financement
+  - Communication
+  - Croissance
+  - Facilitation
 missions:
   - start: 2025-03-27
-    end: 2026-07-30
+    end: 2027-03-01
     status: independent
     employer: Malt
     startups:

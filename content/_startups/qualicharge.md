@@ -33,6 +33,7 @@ techno:
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 dashlord_url: https://dashlord.incubateur.net/url/api-qualicharge-beta-gouv-fr-api-v1-docs/
 link: https://www.qualicharge.beta.gouv.fr/
+impact_url: https://docs.numerique.gouv.fr/docs/9d5560d8-8032-4310-8ee6-b46d7875ac78/
 ---
 ## Contexte
 

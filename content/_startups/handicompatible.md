@@ -7,10 +7,8 @@ mission: "Inclu+ est un outil d’aide à la décision qui permet aux conseillè
 incubator: francetravail
 phases:
   - name: investigation
-    start: 2025-01-22
-  - name: construction
     start: 2025-06-18
-  - name: acceleration
+  - name: construction
     start: 2026-05-12
 events:
   - name: product_launch

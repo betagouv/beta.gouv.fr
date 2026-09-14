@@ -24,6 +24,7 @@ techno:
   - python
   - django
 impact_url: https://docs.numerique.gouv.fr/docs/6e28aa81-3048-4d40-9e00-d63410ea8b09/
+budget_url: https://grist.numerique.gouv.fr/o/agreste/u9TsSp5wUWLm/Agrestes-suivi/p/1
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

@@ -41,6 +41,7 @@ budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
 incubators:
   - ademe
   - mtes
+impact_url: https://docs.numerique.gouv.fr/docs/172637f0-0e30-456a-bd00-331f56b7e8af/
 ---
 ***Quels sont les impacts sur la planète des biens et services produits par les entreprises&nbsp;?***
 

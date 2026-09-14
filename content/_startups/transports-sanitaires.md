@@ -4,7 +4,7 @@ thematiques:
   - Santé
   - Transports
 usertypes: []
-title: Transports sanitaires
+title: Transport Sanitaire
 mission: Pérenniser le système de transports sanitaires en apportant des gains d'efficience, au bénéfice de toutes les parties prenantes. Le bon transport, à un coût soutenable et qui garantit l'accès aux soins.
 incubator: dinum
 phases:
