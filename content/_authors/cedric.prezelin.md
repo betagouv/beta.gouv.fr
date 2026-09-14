@@ -9,7 +9,7 @@ missions:
   - start: 2026-07-06
     end: 2027-01-29
     status: independent
-    employer: Crème de la crème
+    employer: octo
     startups:
       - mes-services-cyber
 ---

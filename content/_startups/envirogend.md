@@ -1,7 +1,7 @@
 ---
 mission: Mieux lutter contre les atteintes à l'environnement
 incubator: dinum
-title: Protect'Envi
+title: Stop Dépôt Sauvage (ex-Protect'Envi)
 contact: arthur.ribeiro-de-carvalho@gendarmerie.interieur.gouv.fr
 accessibility_status: non conforme
 sponsors:
@@ -28,7 +28,7 @@ techno:
   - django
   - vuejs
 budget_url: https://pad.numerique.gouv.fr/s/gm96E3s_h
-link: http://www.protect-envi.beta.gouv.fr/
+link: https://www.stopdepotsauvage.beta.gouv.fr/
 events:
   - name: committee
     date: 2025-07-04

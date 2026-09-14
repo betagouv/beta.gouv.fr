@@ -26,7 +26,7 @@ techno:
 link: https://maestro.beta.gouv.fr/
 analyse_risques: true
 mon_service_securise: true
-budget_url: https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget/p/95?embed=true&Produit_=Maestro
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 events:
   - name: committee
     date: 2026-04-03

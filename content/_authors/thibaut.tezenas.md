@@ -11,6 +11,12 @@ missions:
     employer: Malt
     startups:
       - transition-ecologique-des-entreprises
+  - start: 2026-09-11
+    end: 2026-12-11
+    status: independent
+    employer: Malt
+    startups:
+      - dialogue
 memberType: beta
 competences:
   - Data Science

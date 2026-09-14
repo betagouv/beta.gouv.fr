@@ -18,11 +18,14 @@ sponsors:
 phases:
   - name: investigation
     start: 2024-10-01
-  - name: abandon-investigation
+  - name: abandon
     start: 2025-12-15
 events:
   - name: product_launch
     date: 2024-10-01
+  - name: other
+    date: 2025-12-15
+    comment: Transfert des travaux à la DILA
 techno: []
 link: ''
 ---

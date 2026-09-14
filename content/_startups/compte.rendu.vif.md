@@ -56,4 +56,7 @@ En 2023, un MVP réalisé grâce à une application no-code a été testé dans 
 
 Compte-rendu VIF a démontré son impact à plusieurs titres : 
 - Une expérience facilitée pour les agents, via des fonctionnalités très utiles : le mode hors ligne, l'accès mobile, l'annotation de photos en direct et la génération de comptes rendus chartés. Certaines fonctionnalités sont aujourd'hui réutilisées par d'autres équipes au sein du Service du numérique
-- Les usages en mobilité se démultipliant pour les agents de terrain en DRAC, des opportunités de mutualisation et de déploiement ont été identifiées. Une deuxième brique est en cours de construction pour la réalisation de constats d'états sanitaires qui reprend la solution dans ses grandes fonctionnalités (voir [ici](https://beta.gouv.fr/startups/etat-sanitaire-des-monuments-historiques-en-mobilite.html)).
+- Les usages en mobilité se démultipliant pour les agents de terrain en DRAC, des opportunités de mutualisation et de déploiement ont été identifiées.
+
+## Produit fusionné dans Patrinotes
+Une deuxième brique a été crée pour la réalisation de constats d'états sanitaires qui reprend la solution dans ses grandes fonctionnalités (voir [ici](https://beta.gouv.fr/startups/etat-sanitaire-des-monuments-historiques-en-mobilite.html)). Cela a permit en mars 2026 de fusionner les deux fonctions en un seul produit, [Patrinotes](https://patrinotes.beta.gouv.fr/), qui permet la rédaction de documents en mobilités pour les agents du patrimoine.

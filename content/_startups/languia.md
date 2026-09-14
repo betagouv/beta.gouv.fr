@@ -48,8 +48,10 @@ sponsors:
   - /organisations/dinum
   - /organisations/mc
 dashlord_url: https://dashlord.incubateur.net/url/www-comparia-beta-gouv-fr/
-impact_url: http://metabase.comparia.beta.gouv.fr/public/dashboard/8d5418a6-40cb-4cdb-8384-101ee6cca0be
+impact_url: https://docs.numerique.gouv.fr/docs/f644b309-c600-4e97-915b-df707ffe2952/
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4#a1.s29.r15.c2
+contact_dinum: elsa.le-duigou
+contact_incubator: chloe.boutevin
 ---
 ## Le problème
 

@@ -4,7 +4,7 @@ role: Opératrice validation et support client.
 domaine: Autre
 missions:
   - start: 2023-07-02
-    end: 2026-03-30
+    end: 2027-02-28
     status: independent
     employer: DINUM
     startups:

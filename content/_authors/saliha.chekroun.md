@@ -1,7 +1,7 @@
 ---
 fullname: Saliha Chekroun
 domaine: Déploiement
-role: Cheffe produit
+role: Déploiement / Produit
 github: saaliha
 missions:
   - start: 2021-11-08
@@ -11,17 +11,17 @@ missions:
     startups:
       - le-taxi
   - start: 2026-06-25
-    end: 2026-09-25
+    end: 2026-12-31
     status: independent
     employer: Docapost
     startups:
       - one-trick-pony
-  - start: 2026-06-30
-    end: 2026-09-25
+  - start: 2026-07-02
+    end: 2027-02-28
     status: independent
-    employer: Docaposte
+    employer: Crème de la crème
     startups:
-      - one-trick-pony
+      - mon.espace.collectivite
 badges:
   - segur
 competences:

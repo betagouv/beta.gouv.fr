@@ -21,6 +21,8 @@ phases:
     start: 2025-02-01
   - name: construction
     start: 2025-04-23
+  - name: opere
+    start: 2026-08-30
 events:
   - name: committee
     date: 2025-04-23

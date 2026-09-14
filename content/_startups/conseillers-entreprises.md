@@ -33,11 +33,12 @@ phases:
   - name: acceleration
     start: 2021-09-01
     end: 2022-06-20
-  - name: transfere
+  - name: opere
     start: 2022-06-21
 stats_url: https://conseillers-entreprises.service-public.gouv.fr/stats
 techno: []
 impact_url: https://docs.numerique.gouv.fr/docs/4dd95e65-187a-45cc-bafa-adaf9fd8463d/
+contact_dinum: magali.marcel
 ---
 **TPE PME, vous avez un projet, une difficulté ou une question du quotidien ? Échanger avec LE conseiller qui peut vous aider.**
 

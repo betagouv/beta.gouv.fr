@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: claire.duizabo@beta.gouv.fr
+contact: karel.cloarec@beta.gouv.fr
 thematiques:
   - Jeunesse
 usertypes:
@@ -14,10 +14,15 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-05-06
+  - name: construction
+    start: 2026-09-07
 events:
   - name: product_launch
     date: 2025-06-16
-techno: []
+techno:
+  - eslint
+  - mocha
+repository: https://github.com/betagouv/referentiel-agrements-assistants-maternels-familiaux
 link: ''
 ---
 

@@ -15,7 +15,7 @@ phases:
     start: 2026-03-01
 events:
   - name: product_launch
-    date: 2025-08-25
+    date: 2025-08-24
 repository: https://github.com/betagouv/agreste
 thematiques:
   - Agriculture
@@ -23,6 +23,7 @@ usertypes: []
 techno:
   - python
   - django
+impact_url: https://docs.numerique.gouv.fr/docs/6e28aa81-3048-4d40-9e00-d63410ea8b09/
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
@@ -52,11 +53,24 @@ Ces freins limitent la **visibilité, la compréhension et la réutilisation des
 
 ## Solution
 
-Décris ta solution en quelques lignes ? Qui seront les bénéficiaires ?
+- **Nos utilisateurs**
+    - Agents du MASA (centrale, DRAAF, services statistiques)
+    - Journalistes spécialisés ou généralistes
+    - Professionnels agricoles et représentants de filières
+    - Enseignants, chercheurs et étudiants de l’enseignement agricole
+    - Collectivités, élus locaux, administrations partenaires
+- **Nos objectifs**
+    - Permettre à chacun d’**accéder facilement à des données fiables**, quel que soit son niveau de familiarité avec les statistiques
+    - Renforcer la **transparence publique** sur l’état et l’évolution de l’agriculture française
+    - Favoriser l’**appropriation des données** dans le débat public, les médias, les territoires
+    - Valoriser les analyses prospectives portées par le MASA
+
+
+**Notre solution : ** un site facile à mettre à jour via le CMS Site conforme customisé selon les besoins des agents et des usagers
 
 ## Objectifs à 6 mois
 
-Objectif **d'usage** à 6 mois : quel usage chiffré visez-vous ?
+Objectif **d'usage** à 6 mois : première mise en ligne en parallèle du site actuel agreste.agriculture.fr
 
-Objectif **d'impact** à 6 mois : quel impact chiffré vous permettra de dire que votre première phase de construction a été un succès ?
+Objectif **d'impact** à 6 mois : Mise en ligne de toutes les publications
 

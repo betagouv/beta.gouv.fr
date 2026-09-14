@@ -1,6 +1,6 @@
 ---
 fullname: Ana Andreolla
-role: Chargée de développement
+role: 'Chargée de déploiement '
 domaine: Déploiement
 github: anaandreolla
 missions:
@@ -10,7 +10,7 @@ missions:
     startups:
       - workinfrance
   - start: 2021-11-01
-    end: 2026-06-15
+    end: 2027-01-31
     status: independent
     employer: Scopopop
     startups:

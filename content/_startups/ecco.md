@@ -7,7 +7,7 @@ usertypes:
   - Agents et officiers d'état civil
 techno:
   - Grist
-title: Ecco
+title: ECCO
 mission: ECCO est l'outil de gestion de projet dédié à l’état civil consulaire
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 sponsors:
@@ -15,9 +15,12 @@ sponsors:
 phases:
   - name: investigation
     start: 2026-01-05
+  - name: construction
+    start: 2026-07-20
 events:
   - name: product_launch
     date: 2026-01-05
+contact_incubator: noemie.peignier-pousseo
 link: ''
 ---
 
@@ -32,7 +35,7 @@ Améliorer de façon fiable, sécurisée et durable le processus des démarches 
 ## Solution
 
 Un outil de gestion de projet dédié aux démarches d’état civil, ayant pour objectifs :
--  Avoir un meilleur traitement suivi des dossiers d'état civil
+-  Avoir un meilleur suivi des dossiers d'état civil
 -  Améliorer la relation avec l’usager qui réalise des démarches d’état civil
 - Identifier les opportunités et axes d’amélioration dans le traitement des démarches d’état civil
 

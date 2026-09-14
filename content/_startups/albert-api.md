@@ -17,13 +17,17 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: construction
-    start: 2024-12-02
+    start: 2024-06-01
+  - name: acceleration
+    start: 2025-09-01
+  - name: consolidation
+    start: 2026-09-01
 events:
   - name: product_launch
-    date: 2025-02-26
-link: https://albert.sites.beta.gouv.fr/
+    date: 2025-02-01
+link: https://ia.numerique.gouv.fr/outils-ia/albert-api/
 repository: https://github.com/etalab-ia/OpenGateLLM
-stats_url: https://albert.sites.beta.gouv.fr/about/metrics/
+stats_url: https://ia.numerique.gouv.fr/outils-ia/albert-api/statistiques/
 ---
 ## Contexte
 

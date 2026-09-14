@@ -7,7 +7,7 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-12-01
-  - name: opere
+  - name: abandon-investigation
     start: 2024-12-01
 thematiques:
   - Jeunesse

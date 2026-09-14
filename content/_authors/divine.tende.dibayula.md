@@ -12,6 +12,4 @@ missions:
     status: admin
     employer: Direction interministérielle du numérique
 github: dtende
-teams:
-  - /teams/dinum-animation-beta-gouv-fr
 ---

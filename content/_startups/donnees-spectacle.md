@@ -11,7 +11,7 @@ phases:
     start: 2024-05-01
   - name: acceleration
     start: 2026-01-26
-  - name: abandon
+  - name: opere
     start: 2026-04-01
 usertypes:
   - particulier

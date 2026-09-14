@@ -19,6 +19,11 @@ missions:
     status: independent
     startups:
       - jeveuxaider
+  - start: 2026-09-11
+    end: 2026-12-11
+    status: independent
+    startups:
+      - filiere-economique-du-sport
 badges:
   - segur
 competences: []
