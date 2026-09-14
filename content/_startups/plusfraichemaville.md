@@ -66,6 +66,8 @@ Les réponses d'urgence sont parfois nécessaires mais elles ne suffisent pas 
 - trouver des solutions utiles et s’inspirer d’autres collectivités
 - simuler son projet et le faire connaître
 
+Webinaires de démonstration de Plus Fraiche Ma Ville accessibles en replay [ici](https://plusfraichemaville.fr/webinaires).
+
 ## Cible prioritaire 
 Élus et agents de collectivités territoriales (chargés de mission transition écologique, chefs de projet adaptation climatique, responsables urbanisme/aménagement) dans des communes de plus de 5 000 habitants, souvent seuls sur le sujet et sans expertise préalable en rafraîchissement urbain (estimé à ~2 300 agents de collectivités en France). 
 Le service s'adresse aussi aux communes plus petites, moins touchées par l'îlot de chaleur urbain du fait d'une urbanisation moins dense, mais qui doivent tout de même protéger leurs habitants lors des vagues de chaleur.

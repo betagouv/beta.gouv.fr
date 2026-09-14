@@ -37,7 +37,7 @@ events:
   - name: product_launch
     date: 2026-10-01
     comment: Entrée en vigueur du régime unique de la haie, et déploiement au niveau national du produit
-budget_url: https://docs.numerique.gouv.fr/docs/3b624dfb-7940-4e35-9978-0ad0a4ff68e8/#d920ada2-3b9c-4aa3-b5b8-37a009db14ff
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 repository: https://github.com/MTES-MCT/envergo
 impact_url: https://docs.numerique.gouv.fr/docs/3b624dfb-7940-4e35-9978-0ad0a4ff68e8/
 dashlord_url: https://dashlord.mte.incubateur.net/url/haie-beta-gouv-fr/

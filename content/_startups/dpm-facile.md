@@ -25,6 +25,8 @@ events:
     date: 2026-11-12
     comment: ' Date à arrêter'
 link: https://amidomar.beta.gouv.fr/
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
+impact_url: https://docs.numerique.gouv.fr/docs/313689e2-6cbc-4e6b-bf7b-3d8b0b49425f/
 ---
 ## Contexte
 La gestion et le contrôle des occupations du domaine public maritime naturel (DPMn) dans un contexte où l'impact du changement climatique sur ce domaine est important. 

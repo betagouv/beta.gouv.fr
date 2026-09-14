@@ -12,16 +12,17 @@ phases:
   - name: consolidation
     start: 2023-04-01
   - name: opere
-    start: 2023-07-01
+    start: 2024-01-01
 link: https://euphrosyne.beta.gouv.fr/
 repository: https://github.com/betagouv/euphrosyne/
 stats: false
 contact: claire.pacheco@culture.gouv.fr
 usertypes:
   - particulier
-budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow#-Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 thematiques: []
 techno: []
+impact_url: https://docs.numerique.gouv.fr/docs/5d3f1375-fd7b-4fe0-a304-2a45c47c04ba/
 ---
 ## Contexte
 Portant le nom de l’une des trois grâces, l’accélérateur AGLAE (Accélérateur Grand Louvre d’Analyses Elémentaires) est depuis 1989 le seul accélérateur de particules en Europe entièrement dédié à l’étude du patrimoine. Automatisé, AGLAE est devenu New AGLAE en 2017 dans le cadre du programme investissement d'avenir de l'ANR (ANR-10-EQPX-22). Son nouveau multi-détecteur capable de réaliser de l'imagerie chimique systématique permet d’étudier la composition chimique des oeuvres de musée sans les endommager, et de comprendre leur histoire, leur provenance, les technologies qui ont permis leur création. Les données produites par New AGLAE représentent un trésor encore inaccessible à la communauté européenne des scientifiques, restaurateurs, conservateurs et autres historiens de l’art.

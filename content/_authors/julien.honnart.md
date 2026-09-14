@@ -1,6 +1,6 @@
 ---
 fullname: Julien HONNART
-role: Transports Sanitaires
+role: Directeur du projet Transport Sanitaire
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/julienhonnart/
 competences: []

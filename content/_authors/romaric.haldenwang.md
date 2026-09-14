@@ -13,7 +13,7 @@ missions:
     startups:
       - dossierfacile
   - start: 2025-07-01
-    end: 2026-10-13
+    end: 2027-01-01
     status: admin
     employer: Direction interministérielle du numérique
     startups:

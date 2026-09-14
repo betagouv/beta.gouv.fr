@@ -9,10 +9,8 @@ phases:
     start: 2024-01-15
   - name: construction
     start: 2024-05-01
-  - name: acceleration
-    start: 2026-01-26
   - name: opere
-    start: 2026-04-01
+    start: 2026-05-29
 usertypes:
   - particulier
   - entreprise
@@ -28,7 +26,7 @@ sponsors:
   - /organisations/dgca
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4#a1.s29.r18.c2
 stats_url: https://assistant-declaration.beta.gouv.fr/impact
-impact_url: https://assistant-declaration.beta.gouv.fr/impact
+impact_url: https://fichiers.numerique.gouv.fr/explorer/items/files/61620fd1-89f0-41b9-829b-621cc45938a6
 ---
 ## **Contexte**
 

@@ -30,7 +30,7 @@ budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriqu
 events:
   - name: committee
     date: 2026-04-03
-stats_url: https://maestro.beta.gouv.fr/statistiques-publiques/
+stats_url: https://maestro.beta.gouv.fr/statistiques/
 dashlord_url: https://dashlord.incubateur-agriculture.beta.gouv.fr/url/app-maestro-beta-gouv-fr/
 impact_url: https://docs.numerique.gouv.fr/docs/de4dcc43-a307-4923-972d-d9bf387ac457/
 contact_incubator: jennifer.stephan

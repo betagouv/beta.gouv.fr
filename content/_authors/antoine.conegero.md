@@ -6,7 +6,7 @@ missions:
   - start: 2024-05-06
     end: 2026-11-28
     status: independent
-    employer: Telescoop
+    employer: MALT
     startups:
       - tacct
 memberType: beta
