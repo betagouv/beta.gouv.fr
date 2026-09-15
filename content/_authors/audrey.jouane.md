@@ -8,7 +8,7 @@ competences:
   - traitement de données
 missions:
   - start: 2026-06-12
-    end: 2026-09-30
+    end: 2026-12-30
     status: independent
     employer: DINUM
     startups:

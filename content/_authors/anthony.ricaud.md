@@ -17,11 +17,11 @@ missions:
     employer: Lazone
     startups:
       - docurba
-  - start: 2026-07-24
-    end: 2026-12-31
+  - start: 2026-09-15
+    end: 2026-12-15
     status: independent
     startups:
-      - qualicharge
+      - sppnaut
 competences:
   - Développement Backend
   - Développement Frontend

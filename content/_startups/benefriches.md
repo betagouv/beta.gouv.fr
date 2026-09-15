@@ -39,7 +39,7 @@ events:
     date: 2024-07-11
   - name: committee
     date: 2024-12-16
-impact_url: https://benefriches.ademe.fr/statistiques
+impact_url: https://fichiers.numerique.gouv.fr/explorer/items/files/2af3369f-3e9c-4f98-b387-df00762cc8aa
 ---
 ## Contexte
 Le renouvellement urbain et notamment la reconquête des friches est une opportunité pour atteindre les objectifs de zéro artificialisation nette.

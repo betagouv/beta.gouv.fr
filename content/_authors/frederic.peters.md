@@ -8,7 +8,7 @@ competences:
   - Développement Backend
 missions:
   - start: 2026-07-27
-    end: 2026-09-30
+    end: 2026-12-31
     status: independent
     employer: UT7
     startups:

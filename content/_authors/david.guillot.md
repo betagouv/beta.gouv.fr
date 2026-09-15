@@ -16,4 +16,4 @@ missions:
     startups:
       - plateforme-agriculteurs
 ---
-Développeur web qui aime la simplicité et se sentir utile.
+Développeur web qui aime se sentir utile. Simple > facile. L'IA générative c'est facile mais complexe. Donc je fais pas.

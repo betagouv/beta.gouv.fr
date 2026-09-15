@@ -42,6 +42,9 @@ techno:
 stats_url: https://transport.data.gouv.fr/stats
 accessibility_status: partiellement conforme
 dashlord_url: https://dashlord.mte.incubateur.net/url/transport-data-gouv-fr/
+impact_url: https://docs.numerique.gouv.fr/docs/08f952b9-5d1e-45aa-8434-0a7efcb0be17/
+contact_dinum: louis.bardon
+contact_incubator: eglantine.schmitt
 ---
 ## Le problème que résout transport.data.gouv.fr
 

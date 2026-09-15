@@ -10,13 +10,13 @@ missions:
     startups:
       - inca
   - start: 2026-02-13
-    end: 2026-08-09
+    end: 2027-02-28
     status: independent
     employer: Malt
     startups:
       - sylva-san
   - start: 2026-03-17
-    end: 2026-09-17
+    end: 2027-02-28
     status: independent
     employer: Malt
     startups:

@@ -20,6 +20,8 @@ phases:
     start: 2023-04-01
   - name: consolidation
     start: 2026-07-30
+  - name: abandon
+    start: 2026-09-15
 usertypes:
   - collectivite-territoriale
   - entreprise
@@ -56,3 +58,7 @@ Tous les professionnels de l’inclusion. Comme les conseillers en insertion pro
 - M﻿obilité
 
 https://communaute.inclusion.beta.gouv.fr/
+
+## Décommissionnement
+
+Après [une analyse rétrospective sur les 3 dernières années](https://inclusion.gouv.fr/blog/analyse-retrospective-communaute-inclusion-3-ans/), il a été décidé de décommissionner ce produit.  

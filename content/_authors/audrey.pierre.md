@@ -13,6 +13,12 @@ missions:
       - juri-gpt
       - re-ac-t
       - reponse
+  - start: 2026-09-15
+    end: 2026-12-15
+    status: admin
+    employer: DTNUM
+    startups:
+      - m-ir-ai
 memberType: autre
 competences:
   - Coaching

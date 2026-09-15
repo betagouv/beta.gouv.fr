@@ -1,14 +1,15 @@
 ---
 fullname: Stéphane Liabat
-role: Lead Ops Pass Culture
+role: Responsable Infra et RSSI Pass Culture
 domaine: Autre
 github: sliabat-pass
 missions:
   - start: 2023-04-11
-    end: 2026-09-11
+    end: 2026-12-14
     status: service
     startups:
       - pass-culture
 memberType: beta
+competences: []
 ---
-Lead Ops Pass Culture
+Responsable Infra et RSSI Pass Culture

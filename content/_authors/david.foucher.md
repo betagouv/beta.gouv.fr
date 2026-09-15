@@ -5,18 +5,12 @@ domaine: Développement
 github: tyjak
 missions:
   - start: 2020-08-28
-    end: 2026-03-30
-    status: service
+    end: 2026-12-31
+    status: admin
     employer: France Travail
     startups:
       - handicompatible
-      - mes-aides-france-travail
-      - travailler.en.france
-  - start: 2023-09-01
-    end: 2026-12-12
-    status: admin
-    employer: France travail
-    startups:
+      - ma-communaute-crea
       - mes-aides-france-travail
       - travailler.en.france
 competences:

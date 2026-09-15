@@ -1,6 +1,6 @@
 ---
 fullname: Thibault Desjardins
-domaine: Déploiement
+domaine: Animation
 role: Responsable de portefeuille Travail, Intérieur, Armées.
 github: Tibo-aplus
 missions:
@@ -13,7 +13,7 @@ missions:
     status: admin
     employer: DINUM
   - start: 2024-01-02
-    end: 2026-10-01
+    end: 2028-03-31
     status: admin
     employer: DINUM
     startups:

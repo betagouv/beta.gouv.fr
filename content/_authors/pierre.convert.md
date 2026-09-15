@@ -5,9 +5,13 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2025-11-03
-    end: 2026-11-30
+    end: 2026-09-15
     status: admin
     employer: DGITM
     startups:
       - transport
+  - start: 2025-11-03
+    end: 2026-11-30
+    status: admin
+    employer: DGITM
 ---

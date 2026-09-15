@@ -25,7 +25,7 @@ missions:
     startups:
       - france-numerique-ensemble
   - start: 2026-03-02
-    end: 2026-09-30
+    end: 2026-12-31
     status: independent
     employer: Malt
 badges:

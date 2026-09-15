@@ -1,10 +1,10 @@
 ---
 fullname: Théodore AVENA
-role: Chargé de déploiement, Responsable simulateur
+role: 'Responsable déploiement '
 domaine: Déploiement
 missions:
   - start: 2023-05-15
-    end: 2026-09-30
+    end: 2027-02-28
     status: independent
     employer: malt
     startups:
@@ -13,5 +13,4 @@ missions:
 memberType: autre
 competences: []
 ---
-Chargé de déploiement dans le cadre de l'outil Guichet unique de la haie. 
-Responsable du paramétrage du simulateur pour EnvErgo
+Responsable de déploiement dans le cadre de l'outil Guichet unique de la haie. 

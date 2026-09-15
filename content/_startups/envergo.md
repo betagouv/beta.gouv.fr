@@ -42,6 +42,7 @@ techno:
   - sql
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques#a1.s29.r68.c2
 analyse_risques: true
+impact_url: https://docs.numerique.gouv.fr/docs/03ded0fa-aed8-49b0-8ebf-665b64561c86/
 ---
 ![](/img/netlifycms/envergo.jpg)
 

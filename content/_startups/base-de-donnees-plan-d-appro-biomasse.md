@@ -26,6 +26,8 @@ techno:
   - react
 repository: https://github.com/betagouv/approbiom
 contact_incubator: denis.baudot
+budget_url: https://grist.numerique.gouv.fr/o/approbiom/wLLwtDnAgVMa/Suivi-budget?utm_id=share-doc
+impact_url: https://docs.numerique.gouv.fr/docs/74a48510-42d8-4e1b-be35-2e5543afe884/?utm_source=docssharelink&utm_campaign=74a48510-42d8-4e1b-be35-2e5543afe884
 link: ''
 ---
 ## Contexte
