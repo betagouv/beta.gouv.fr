@@ -49,6 +49,17 @@ YAML
         expect { member.active_startups }.not_to change(member.startups, :count)
       end
     end
+
+    context 'when the active mission is not the last one in the missions array' do
+      before do
+        data['missions'][0]['end'] = Date.current.tomorrow
+        data['missions'] << { 'start' => Date.new(2020, 1, 1), 'end' => Date.new(2021, 1, 1) }
+      end
+
+      it 'is included in active_missions' do
+        expect(member.active_missions).to contain_exactly data['missions'].first
+      end
+    end
   end
 
   describe '#legacy_startups' do

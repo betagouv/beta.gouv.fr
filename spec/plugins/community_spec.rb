@@ -7,84 +7,112 @@ def member_with(name:, end_date: nil, start_date: nil)
   OpenStruct.new(
     data: {
       'fullname' => name,
+      'domaine' => 'Développement',
       'missions' => [
         {
           'start' => start_date,
-          'end' => end_date
+          'end' => end_date,
+          'status' => 'independent'
         }
       ]
     }
   )
 end
 
-describe Jekyll::CommunityFilter do
-  let(:no_end) do
-    member_with(
-      name: 'Alphonse',
-      start_date: Date.new(2000)
-    )
-  end
-
-  let(:with_end) do
-    member_with(
-      name: 'Bernard',
-      end_date: Date.today.next,
-      start_date: Date.new(2001)
-    )
-  end
-
-  let(:alum) do
-    member_with(
-      name: 'Celia',
-      end_date: Date.today.prev_day
-    )
-  end
-
-  let(:members) { [no_end, with_end, alum] }
-
-  it 'can tell current members' do
-    current = template.community(members, 'current')
-
-    expect(current).to contain_exactly(with_end, no_end)
-  end
-
-  it 'can tell past members' do
-    past = template.community(members, 'past')
-
-    expect(past).to contain_exactly alum
-  end
-
-  context 'when the member has an active mission earlier in the missions array' do
-    before do
-      active_mission = { end_date: Date.today.tomorrow }
-
-      alum.data['missions'].prepend(active_mission)
+describe Jekyll do
+  describe Jekyll::CommunityFilter do
+    let(:no_end) do
+      member_with(
+        name: 'Alphonse',
+        start_date: Date.new(2000)
+      )
     end
 
-    it 'counts them as active' do
+    let(:with_end) do
+      member_with(
+        name: 'Bernard',
+        end_date: Date.today.next,
+        start_date: Date.new(2001)
+      )
+    end
+
+    let(:alum) do
+      member_with(
+        name: 'Celia',
+        end_date: Date.today.prev_day
+      )
+    end
+
+    let(:members) { [no_end, with_end, alum] }
+
+    it 'can tell current members' do
       current = template.community(members, 'current')
 
-      expect(current).to include alum
+      expect(current).to contain_exactly(with_end, no_end)
     end
 
-    it 'does not count them as alumni' do
+    it 'can tell past members' do
       past = template.community(members, 'past')
 
-      expect(past).to be_empty
+      expect(past).to contain_exactly alum
+    end
+
+    context 'when the member has an active mission earlier in the missions array' do
+      before do
+        active_mission = { end_date: Date.today.tomorrow }
+
+        alum.data['missions'].prepend(active_mission)
+      end
+
+      it 'counts them as active' do
+        current = template.community(members, 'current')
+
+        expect(current).to include alum
+      end
+
+      it 'does not count them as alumni' do
+        past = template.community(members, 'past')
+
+        expect(past).to be_empty
+      end
+    end
+
+    it 'sorts them by newest mission start by default' do
+      expect(template.community(members, 'current')).to start_with(with_end)
+    end
+
+    it 'can sort them by name' do
+      expect(template.community(members, 'current', 'alpha')).to start_with(no_end)
+    end
+
+    it "can returns a subset of current members with state: 'recent'" do
+      members = Array.new(10).map { member_with(name: 'Foobar') }
+
+      expect(template.community(members, 'recent').size).to eq 3
     end
   end
 
-  it 'sorts them by newest mission start by default' do
-    expect(template.community(members, 'current')).to start_with(with_end)
-  end
+  describe Jekyll::RenderCommunityStatsTag do
+    subject(:tag) do
+      described_class.allocate.tap { |t| t.instance_variable_set(:@input, 'total') }
+    end
 
-  it 'can sort them by name' do
-    expect(template.community(members, 'current', 'alpha')).to start_with(no_end)
-  end
+    let(:context) do
+      authors = Struct.new(:docs).new(members)
+      site = Struct.new(:collections).new({ 'authors' => authors })
 
-  it "can returns a subset of current members with state: 'recent'" do
-    members = Array.new(10).map { member_with(name: 'Foobar') }
+      Liquid::Context.new({}, {}, { site: site })
+    end
 
-    expect(template.community(members, 'recent').size).to eq 3
+    let(:members) do
+      [
+        member_with(name: 'Alphonse', start_date: Date.new(2020), end_date: Date.today.next_day),
+        member_with(name: 'Celia', start_date: Date.new(2020), end_date: Date.today.prev_day)
+      ]
+    end
+
+    it 'counts the members with an active mission' do
+      expect(tag.render(context)).to eq 1
+    end
   end
 end

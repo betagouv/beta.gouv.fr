@@ -69,7 +69,6 @@ module Jekyll
         'total' => 0
       }
       authors = context.registers[:site].collections['authors']
-      now = Date.today
       authors.docs.each do |author|
         next unless author.data['missions']
 
@@ -87,7 +86,7 @@ module Jekyll
                                                                    increment: -1 }
           end
         end
-        if author.data['missions']&.last&.[]('end')&.>= now
+        if Beta::Member.new(author.data).active_missions.any?
           result['domaine'][author.data['domaine']] = result['domaine'][author.data['domaine']] + 1
           result['total'] = result['total'] + 1
         end
