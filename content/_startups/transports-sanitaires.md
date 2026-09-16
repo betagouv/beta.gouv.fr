@@ -1,5 +1,5 @@
 ---
-contact: julien.honnart@numerique.gouv.fr
+contact: contact@transportsanitaire.beta.gouv.fr
 thematiques:
   - Santé
   - Transports

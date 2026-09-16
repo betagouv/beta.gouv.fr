@@ -1,6 +1,6 @@
 ---
 fullname: Maxine Le Pennec
-role: Développeuse
+role: Développeuse et UI/UX design
 domaine: Développement
 github: Maxine-Le-Pennec
 missions:
@@ -19,5 +19,8 @@ missions:
       - viz-eau
 previously:
   - ban
-competences: []
+competences:
+  - UX
+  - UI
+  - Développement Frontend
 ---

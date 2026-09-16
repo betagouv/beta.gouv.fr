@@ -13,13 +13,13 @@ missions:
       - pass-culture
       - pix
   - start: 2024-12-20
-    end: 2026-10-14
+    end: 2025-12-31
     status: independent
     employer: Dynergie
     startups:
       - referentiel-national-des-zones-d-activites-economiques
   - start: 2026-07-06
-    end: 2026-10-06
+    end: 2027-02-28
     status: independent
     employer: Dynergie
     startups:
