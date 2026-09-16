@@ -26,6 +26,8 @@ sponsors:
   - /organisations/dgaln
 link: https://vizeau.beta.gouv.fr
 repository: https://github.com/MTES-MCT/vizeau
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques#a1.s29.r85.c2
+impact_url: https://docs.numerique.gouv.fr/docs/f1316021-a539-44e1-88ce-b006a9b09a3d/
 ---
 En cours de rédaction.
 

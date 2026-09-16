@@ -22,11 +22,21 @@ missions:
     startups:
       - etat-sanitaire-des-monuments-historiques-en-mobilite
   - start: 2025-01-01
-    end: 2026-12-31
+    end: 2027-02-28
     status: independent
     employer: Dynergie
     startups:
       - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
+  - start: 2026-06-25
+    end: 2026-12-12
+    status: independent
+    employer: NUMA
+  - start: 2026-07-01
+    end: 2026-12-14
+    status: independent
+    employer: NUMA
+    startups:
+      - sous-occupation-hlm
 memberType: dinum
 competences: []
 link: https://www.linkedin.com/in/coline-debayle-45855522/

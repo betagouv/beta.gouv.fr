@@ -12,7 +12,7 @@ missions:
       - vert.impact
       - vigieau
   - start: 2026-03-12
-    end: 2026-09-12
+    end: 2027-03-14
     status: independent
     employer: ANCT
     startups:

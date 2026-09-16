@@ -34,7 +34,7 @@ techno:
   - nunjuck
   - python
   - javascript
-budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view
+budget_url: https://doc.dialog.beta.gouv.fr/en-savoir-plus-sur-dialog/budget
 dashlord_url: https://dashlord.mte.incubateur.net/url/dialog-beta-gouv-fr/
 events:
   - name: fast

@@ -8,11 +8,10 @@ competences:
 missions:
   - start: 2026-02-02
     end: 2027-05-28
-    employer: Cour de cassation
     status: admin
+    employer: Cour de cassation
     startups:
       - api-and-communs-numeriques-de-la-cour-de-cassation
       - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne
       - portail-greffe-de-la-cour-de-cassation
-teams: []
 ---

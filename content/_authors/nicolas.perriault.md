@@ -60,6 +60,12 @@ missions:
     employer: Pathtech
     startups:
       - ecobalyse
+  - start: 2026-10-01
+    end: 2026-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - ecobalyse
 competences:
   - Développement Full-stack
   - Django

@@ -21,6 +21,12 @@ missions:
     employer: Malt
     startups:
       - territoires-en-transitions
+  - start: 2026-09-14
+    end: 2027-02-20
+    status: independent
+    employer: Malt
+    startups:
+      - les-emplois
 previously:
   - jeveuxaider
 memberType: beta

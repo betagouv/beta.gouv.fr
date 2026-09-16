@@ -38,6 +38,8 @@ events:
   - name: other
     date: 2024-10-10
     comment: 'Inauguration du premier espace ETAP du MinArm : un espace de travail en flex office réaménagé par l''équipe NOMAD.'
+budget_url: https://docs.google.com/document/d/1YhiUyjjMqOoAsFC-M4rHyse6zsWzKxjDkLOCv-rSrEo/edit?usp=sharing
+impact_url: https://docs.numerique.gouv.fr/docs/f8539162-bf9e-42a9-a5d5-0a7ac709ec58/
 ---
 
 

@@ -30,7 +30,7 @@ mon_service_securise: true
 usertypes:
   - collectivite-territoriale
 techno: []
-impact_url: https://lab.base-adresse-locale.incubateur.anct.gouv.fr/
+impact_url: https://docs.numerique.gouv.fr/docs/64c2d52b-b33e-4a23-a757-99045c8146f8/
 dashlord_url: https://dashlord.incubateur.anct.gouv.fr/url/adresse-data-gouv-fr-bases-locales/
 budget_url: https://docs.numerique.gouv.fr/docs/fdfdeae6-8805-40da-95c8-43cee60bf36d/
 ---

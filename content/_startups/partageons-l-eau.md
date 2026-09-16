@@ -30,9 +30,10 @@ techno:
   - react
   - next.js
 repository: https://github.com/betagouv/partageonsleau/tree/main
-impact_url: http://partageonsleau-metabase.osc-fr1.scalingo.io/public/dashboard/91ec0e3c-8711-4796-9fc8-e204b3c67e6c
+impact_url: https://docs.numerique.gouv.fr/docs/c397dc63-3690-4e3e-b839-c7c2bd43d2e6/
 link: https://partageonsleau.beta.gouv.fr
 stats_url: http://partageonsleau-metabase.osc-fr1.scalingo.io/public/dashboard/91ec0e3c-8711-4796-9fc8-e204b3c67e6c
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 ---
 ## 🌍 Contexte
 

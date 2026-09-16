@@ -53,7 +53,7 @@ link: https://www.bhasile.beta.gouv.fr/
 accessibility_status: partiellement conforme
 repository: https://github.com/betagouv/bhasile
 stats_url: https://www.bhasile.beta.gouv.fr/usage
-impact_url: https://www.bhasile.beta.gouv.fr/matrice-impact-bhasile.png
+impact_url: https://www.bhasile.beta.gouv.fr/usage
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/7?embed=true&Nom_=Bhasile%20%28ex%20Place%20d%27Asile%29
 contact_dinum: thibault.desjardins
 contact_incubator: emilie.derpion
@@ -84,7 +84,7 @@ La conséquence est la difficulté à améliorer la performance de gestion des p
 
 ## Solution
 
-La première brique de l'outil numérique Bhasile (anciennement Place d'Asile) permet de recenser et cartographier toutes les structures du parc d'hébergement financées sur le programme 303 (immigration et asile – action 2, garantie de l’exercice du droit d’asile), soit environ 1 000 structures. Cela comprend tous les CADA, les CPH, les HUDA, les PRADHA, les CAES, que ces structures soient gérées en direct ou sous un CPOM.
+La première brique de l'outil numérique Bhasile (anciennement Place d'Asile) permet de recenser et cartographier toutes les structures du parc d'hébergement financées sur le programme 303 (immigration et asile – action 2, garantie de l’exercice du droit d’asile), soit environ 1 000 structures. Cela comprend les CADA, les CPH, les HUDA, les CAES, que ces structures soient gérées en direct ou sous un CPOM.
 
 Chaque structure possède désormais une fiche avec un grand nombre de données (administratives, financières, d'occupation, calendaires, contractuelles, d'inspection....) alimentées en temps réel. Un historique de 5 ans permet de visualiser l'évolution de ces indicateurs dans le temps. En outre, l'ensemble des documents contractuels et financiers sont stockés dans l'outil pour faciliter la centralisation et la mémoire de service. Enfin une fonctionnalité permets de suivre et d'intégrer les transformations du parc (extension, contraction, transformation HUDA/CADA).
 

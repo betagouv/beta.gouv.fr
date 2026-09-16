@@ -19,6 +19,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-02-03
+  - name: abandon
+    start: 2026-06-01
 events:
   - name: product_launch
     date: 2025-02-27
@@ -69,3 +71,5 @@ Les trois chaînes test seront mobilisées lors des deux étapes, tant pour les 
 L'impact sera mesuré : 
 - à 6 mois : par des verbatims des acteurs de la chaîne exprimant leur satisfaction et les améliorations constatées par rapport au système actuel de transmission/déclaration et la volonté des maillons intermédiaires de réutiliser l'outil pour fiabiliser leurs échanges avec d'autres clients
 - et à terme : par la croissance du nombre d'attestations automatiquement générées par BiomasSécure par les fournisseurs intermédiaires (et non plus téléversées par les opérateurs énergétiques en bout de chaîne) permettant de mesurer les chaînes de valeurs effectivement sécurisées par l'outil
+
+Mise à jour du 1er juin : BiomasSécure est désormais intégré à CarbuRe.

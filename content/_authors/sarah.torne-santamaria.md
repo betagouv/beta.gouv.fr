@@ -19,3 +19,4 @@ missions:
     startups:
       - ma-cantine-egalim
 ---
+Je conçois et structure des contenus pour les services publics numériques. Mes spécialités : stratégie éditoriale, content management, rédaction UX, vulgarisation administrative. Au sein d’Aides Agri, je transforme des dispositifs d’aide complexes en parcours et contenus compréhensibles par les agriculteurs et les personnes qui les accompagnent.

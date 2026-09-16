@@ -1,5 +1,5 @@
 ---
-contact: frederic.dol@interieur.gouv.fr
+contact: claudia.rivera-gomez@interieur.gouv.fr
 link: https://mirai.interieur.gouv.fr
 thematiques:
   - Administratif
@@ -11,12 +11,18 @@ title: MIrAI
 mission: Redonner du temps  à valeur ajoutée aux agents grâce à l'IA
 incubator: FabNum-MI
 phases:
+  - name: construction
+    start: 2024-09-13
   - name: acceleration
-    start: 2026-01-13
+    start: 2025-09-15
 events:
   - name: product_launch
     date: 2025-05-13
+  - name: committee
+    date: 2026-05-26
 repository: https://github.com/IA-Generative
+contact_dinum: thibault.desjardins
+contact_incubator: audrey.pierre
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
@@ -54,7 +60,7 @@ Enfin, MIrAI s’accompagne d’un dispositif d’accompagnement (webinaires, at
 ## Objectifs à 6 mois
 
 Objectif **d’usage** à 6 mois:
-Atteindre 50 000 utilisateurs inscrits (vs ~28 000 aujourd’hui)
+Atteindre 50 000 utilisateurs inscrits (vs ~37 000 aujourd’hui)
 Obtenir une progression de +10 % d’utilisateurs actifs mensuels
 Augmenter la fréquence d’usage grâce à un accès simplifié et des usages mieux accompagnés
 

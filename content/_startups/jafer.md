@@ -26,6 +26,7 @@ dashlord_url: https://dashlord.incubateur.net/url/jafer-beta-gouv-fr/best-practi
 budget_url: https://pad.numerique.gouv.fr/s/WYougVwWu#JAFER
 techno: []
 contact_dinum: julie.guyot
+impact_url: https://fichiers.numerique.gouv.fr/wopi/3d97b67f-1774-4ff8-b02f-349185a3ddf2
 ---
 ## Contexte
 

@@ -12,9 +12,9 @@ missions:
     startups:
       - mon-aide-cyber
   - start: 2026-03-02
-    end: 2026-09-30
+    end: 2027-03-15
     status: independent
-    employer: Little Big Connection
+    employer: Malt
     startups:
       - agreste
 memberType: beta

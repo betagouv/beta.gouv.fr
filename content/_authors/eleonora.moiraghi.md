@@ -5,7 +5,7 @@ domaine: Animation
 competences: []
 missions:
   - start: 2026-02-12
-    end: 2026-07-31
+    end: 2026-12-31
     status: admin
     employer: Ministère de la Culture
 ---
