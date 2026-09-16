@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-04-23
     end: 2026-12-22
-    employer: Ministère des Sports
     status: admin
+    employer: Ministère des Sports
     startups:
       - filiere-economique-du-sport
-teams: []
 ---

@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/jessica-maitte/
 missions:
   - start: 2022-11-02
-    end: 2026-10-31
+    end: 2027-01-31
     status: independent
     startups:
       - api-engagement

@@ -6,7 +6,7 @@ competences:
   - PostgreSQL
 missions:
   - start: 2026-06-17
-    end: 2026-08-30
+    end: 2026-11-30
     status: independent
     employer: DINUM
     startups:
