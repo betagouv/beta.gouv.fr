@@ -27,7 +27,7 @@ usertypes:
   - collectivite-territoriale
 techno: []
 repository: https://gitlab.adullact.net/dgfip/faritas
-budget_url: https://beta.gouv.fr/startups/faritas.html#Budget
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 events:
   - name: other
     date: 2023-03-15

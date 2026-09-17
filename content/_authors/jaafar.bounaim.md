@@ -12,6 +12,12 @@ missions:
       - ia-igac
       - pop
       - qualicharge
+  - start: 2026-09-16
+    end: 2026-12-16
+    status: independent
+    employer: Numa
+    startups:
+      - detection-d-ouvrages-hydrauliques
 competences:
   - Coaching
 ---

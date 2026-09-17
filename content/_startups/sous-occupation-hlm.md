@@ -13,13 +13,12 @@ sponsors:
   - /organisations/ud-75
 phases:
   - name: investigation
-    comment: null
     start: 2026-07-01
-    end: null
 events:
   - name: other
-    comment: Début de l'investigation
     date: 2026-07-01
+    comment: Début de l'investigation
+link: ''
 ---
 ## Contexte
 

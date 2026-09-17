@@ -21,10 +21,12 @@ missions:
     employer: Scopyleft
     startups:
       - document-ia
-  - start: 2025-09-22
-    end: 2026-09-30
+  - start: 2026-04-20
+    end: 2026-06-20
     status: independent
     employer: Scopyleft
+    startups:
+      - qualicharge
   - start: 2026-09-07
     end: 2026-12-07
     status: independent

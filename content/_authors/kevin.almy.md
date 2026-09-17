@@ -8,7 +8,7 @@ competences:
   - Product strategy
 missions:
   - start: 2026-04-24
-    end: 2026-07-24
+    end: 2027-01-31
     status: independent
     employer: ut7
     startups:

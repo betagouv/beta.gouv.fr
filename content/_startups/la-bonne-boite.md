@@ -32,7 +32,7 @@ techno:
   - nestjs
   - python
 impact_url: https://docs.numerique.gouv.fr/docs/3a002190-761f-4802-8171-e462e538b712/
-budget_url: https://docs.numerique.gouv.fr/docs/f2ef74e5-db60-4dc8-a780-e848aa6f2206/
+budget_url: https://grist.numerique.gouv.fr/o/docs/daiQteTTGzwV/Budget-La-Bonne-boite
 contact_dinum: thibault.desjardins
 ---
 **Le saviez-vous ?**

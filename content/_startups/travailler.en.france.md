@@ -24,6 +24,7 @@ contact_incubator: hanane.mokhtari
 events:
   - name: committee
     date: 2026-05-28
+budget_url: https://grist.numerique.gouv.fr/o/docs/
 ---
 **Contexte**
 

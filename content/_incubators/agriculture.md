@@ -6,13 +6,10 @@ logo: logo_beta.png
 address: 78 Rue de Varenne, 75007 Paris
 highlighted_startups:
   - ma-cantine-egalim
-  - cartobio
   - icare-complements-alimentaires
-  - seves
   - zacharie
-  - plateforme-agriculteurs
-  - identite-numerique-agricole
-  - equipements-bio
+  - maestro
+  - one-trick-pony
 contact: jennifer.stephan@agriculture.gouv.fr
 website: https://sites-faciles-incub-masa.osc-fr1.scalingo.io/
 github: ''

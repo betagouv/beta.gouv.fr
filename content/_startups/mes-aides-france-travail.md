@@ -37,7 +37,7 @@ techno:
   - react
 stats_url: https://metabase.beta.francetravail.fr/public/dashboard/7eb440d5-4ca4-458f-8b86-5c8e6fead9c0
 impact_url: https://docs.numerique.gouv.fr/docs/89e251dc-2533-4f42-9d80-4c5f68066840/
-budget_url: https://docs.numerique.gouv.fr/docs/c783a7e7-a89f-41b0-83af-541a7539e16c/
+budget_url: https://grist.numerique.gouv.fr/o/docs/niqH57BzLRAQ/Budget-Mes-Aides-france-Travail
 repository: https://git.beta.francetravail.fr/clara
 contact_dinum: thibault.desjardins
 ---
