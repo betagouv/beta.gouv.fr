@@ -9,10 +9,9 @@ competences:
 missions:
   - start: 2026-09-15
     end: 2026-12-15
-    employer: DOCAPOSTE / Cober
     status: independent
+    employer: DOCAPOSTE / Cober
     startups:
       - csplab
-teams: []
 ---
 Développeur freelance full-stack, en mission sur CSPLab (Django, Vue.js). Plus de 10 ans d'expérience web, orienté IA et agents LLM.

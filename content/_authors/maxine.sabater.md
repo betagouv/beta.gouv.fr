@@ -1,19 +1,13 @@
 ---
 fullname: Maxine Sabater
 domaine: Déploiement
-role: Responsable Déploiement
+role: Responsable Déploiement et Partenariats
 github: maxinesabater
 missions:
   - start: 2022-11-07
-    end: 2026-09-17
+    end: 2026-12-31
     status: independent
     employer: ADEME
-  - start: 2022-11-07
-    end: 2026-08-26
-    status: independent
-    employer: ADEME
-    startups:
-      - impact.co2
 previously:
   - datagir
   - faritas
