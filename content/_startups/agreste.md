@@ -19,12 +19,18 @@ events:
 repository: https://github.com/betagouv/agreste
 thematiques:
   - Agriculture
-usertypes: []
+  - Statistiques
+usertypes:
+  - Particuliers
+  - Agents
 techno:
   - python
   - django
+  - wagtail
 impact_url: https://docs.numerique.gouv.fr/docs/6e28aa81-3048-4d40-9e00-d63410ea8b09/
 budget_url: https://grist.numerique.gouv.fr/o/agreste/u9TsSp5wUWLm/Agrestes-suivi/
+stats_url: https://stats.sites.beta.gouv.fr/share/agreste.beta.gouv.fr?auth=XHGfszkBdxN3AsYFowSHC
+dashlord_url: https://dashlord.incubateur-agriculture.beta.gouv.fr/url/agreste-beta-gouv-fr/
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

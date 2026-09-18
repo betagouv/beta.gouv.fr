@@ -22,7 +22,7 @@ usertypes:
   - etat
 repository: https://github.com/signaux-faibles
 stats: true
-stats_url: https://stats.signaux-faibles.beta.gouv.fr
+stats_url: https://docs.numerique.gouv.fr/docs/69156fea-5757-4541-b2b1-32f01bce71c8/
 contact: contact@signaux-faibles.beta.gouv.fr
 thematiques:
   - Entreprises

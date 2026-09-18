@@ -13,6 +13,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-06-25
+  - name: abandon-investigation
+    start: 2026-09-17
 events:
   - name: product_launch
     date: 2025-08-26

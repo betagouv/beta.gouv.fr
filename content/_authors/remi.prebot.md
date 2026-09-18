@@ -11,25 +11,25 @@ missions:
     startups:
       - srdt-ia
   - start: 2025-03-01
-    end: 2026-11-01
+    end: 2027-01-01
     status: independent
     employer: Dynergie
     startups:
       - investigation-cour-d-appel-de-paris
   - start: 2025-07-01
-    end: 2026-07-01
+    end: 2027-01-01
     status: independent
     employer: dynergie
     startups:
       - assistant-ia-civil
   - start: 2025-12-11
-    end: 2025-12-31
+    end: 2026-01-01
     status: independent
     employer: Dynergie
     startups:
       - jacepair
   - start: 2026-07-28
-    end: 2026-10-28
+    end: 2027-01-01
     status: independent
     employer: Dynergie
     startups:

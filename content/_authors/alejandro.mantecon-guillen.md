@@ -46,6 +46,4 @@ competences:
   - UI
   - UX
 link: https://www.linkedin.com/in/alemangui/
-teams:
-  - /teams/agriculture-equipe-transverse
 ---

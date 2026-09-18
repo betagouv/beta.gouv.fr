@@ -7,9 +7,7 @@ competences:
 missions:
   - start: 2026-09-14
     end: 2026-12-31
-    employer: Louvre
     status: admin
-    startups: []
-teams: []
+    employer: Louvre
 ---
 Documentaliste scientifique au département des arts de l'Islam du Louvre, intrapreneuse pour un projet de suivi du marché de l'art

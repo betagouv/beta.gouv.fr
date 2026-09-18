@@ -29,5 +29,11 @@ missions:
     employer: Numa
     startups:
       - durabilite-de-la-biomasse
+  - start: 2026-09-17
+    end: 2026-12-17
+    status: independent
+    employer: Numa
+    startups:
+      - etat-sanitaire-des-monuments-historiques-en-mobilite
 ---
 Coach produit passionnée par les sujets à impact 

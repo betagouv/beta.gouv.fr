@@ -5,7 +5,7 @@ role: Responsable Déploiement
 github: maxinesabater
 missions:
   - start: 2022-11-07
-    end: 2026-11-01
+    end: 2026-09-17
     status: independent
     employer: ADEME
   - start: 2022-11-07

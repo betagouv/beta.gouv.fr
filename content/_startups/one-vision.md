@@ -26,6 +26,7 @@ techno:
   - sql
 sponsors:
   - /organisations/dgfip
+impact_url: https://docs.numerique.gouv.fr/docs/eb8ad222-1a0e-4dab-9a71-9a3eb2ec14b5/
 link: ''
 ---
 ## Contexte et problématique

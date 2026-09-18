@@ -36,6 +36,12 @@ missions:
     end: 2026-11-30
     status: independent
     employer: Numa
+  - start: 2026-09-16
+    end: 2026-12-16
+    status: independent
+    employer: Numa
+    startups:
+      - monitor-fil-cril
 competences:
   - Coaching
   - Croissance

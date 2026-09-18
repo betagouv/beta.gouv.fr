@@ -13,6 +13,12 @@ missions:
     employer: DGFIP
     startups:
       - simul-nr
+  - start: 2026-09-17
+    end: 2026-12-17
+    status: admin
+    employer: DGFIP
+    startups:
+      - simul-nr
 teams:
   - /teams/fabrique-dgfip-responsable-de-portefeuille
 ---

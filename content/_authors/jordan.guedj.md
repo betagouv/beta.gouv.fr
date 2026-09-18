@@ -8,7 +8,7 @@ competences:
   - DevOps
 missions:
   - start: 2026-04-02
-    end: 2026-10-02
+    end: 2027-02-02
     status: independent
     employer: DINUM
 ---
