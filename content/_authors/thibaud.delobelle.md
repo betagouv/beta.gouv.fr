@@ -6,7 +6,7 @@ link: https://oriatec.fr
 github: Thibaud-DT
 missions:
   - start: 2022-06-02
-    end: 2026-09-30
+    end: 2026-12-30
     status: independent
     employer: Crème de la crème
     startups:
