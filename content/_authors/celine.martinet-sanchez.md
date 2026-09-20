@@ -28,7 +28,14 @@ missions:
     employer: La zone
     startups:
       - docurba
+  - start: 2026-10-03
+    end: 2027-03-18
+    status: independent
+    employer: Crème de la Crème
+    startups:
+      - docurba
 competences:
   - Développement Backend
+  - Python
 ---
 Développeuse curieuse. Amatrice de blagues pas drôles, de gens trop enthousiastes et d'idées folles.

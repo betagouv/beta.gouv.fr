@@ -40,7 +40,7 @@ phases:
     start: 2024-01-18
   - name: consolidation
     start: 2025-06-24
-  - name: transfere
+  - name: opere
     start: 2026-06-04
 usertypes:
   - etat

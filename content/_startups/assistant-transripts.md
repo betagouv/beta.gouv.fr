@@ -16,12 +16,9 @@ sponsors:
   - /organisations/dinum
 phases:
   - name: investigation
-    comment: null
     start: 2026-03-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-09-16
 ---
 

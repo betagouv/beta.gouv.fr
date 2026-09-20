@@ -28,6 +28,8 @@ events:
 link: https://ia.numerique.gouv.fr/outils-ia/albert-api/
 repository: https://github.com/etalab-ia/OpenGateLLM
 stats_url: https://ia.numerique.gouv.fr/outils-ia/albert-api/statistiques/
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/
+impact_url: https://docs.numerique.gouv.fr/docs/ba473cd7-8510-4c52-a346-e45607aeabe8/
 ---
 ## Contexte
 
