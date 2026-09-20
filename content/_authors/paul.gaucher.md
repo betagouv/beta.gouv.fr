@@ -10,7 +10,7 @@ missions:
     startups:
       - tdb-apprentissage
   - start: 2026-02-03
-    end: 2026-10-19
+    end: 2026-12-19
     status: independent
     startups:
       - api-and-communs-numeriques-de-la-cour-de-cassation

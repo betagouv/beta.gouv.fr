@@ -12,4 +12,6 @@ missions:
     end: 2028-12-01
     status: admin
     employer: ADEME
+teams:
+  - /teams/ademe
 ---

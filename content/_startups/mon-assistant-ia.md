@@ -3,7 +3,7 @@ analyse_risques: false
 mon_service_securise: false
 contact: support-assistant@numerique.gouv.fr
 link: https://assistant.numerique.gouv.fr/
-stats_url: https://eu.posthog.com/shared/Jm2H2FvJt67m9utAolj3eBxmUIOYsw
+stats_url: https://eu.posthog.com/shared/0eOF3D2yUetExtteFtxf0v15GsQMnw
 thematiques:
   - Administratif
   - Outil technique
@@ -32,6 +32,8 @@ events:
     date: 2026-06-16
     comment: Annonce de la généralisation de L'Assistant aux administrations de l'État et ses organismes de tutelle.
 repository: https://github.com/suitenumerique/conversations#
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/
+impact_url: https://docs.numerique.gouv.fr/docs/cd742805-5e45-44b5-b046-8bbf43708464/
 ---
 # L'Assistant
 
