@@ -23,7 +23,7 @@ missions:
     startups:
       - civils-de-la-defense
   - start: 2023-01-02
-    end: 2026-09-30
+    end: 2027-02-28
     status: independent
     employer: Ministères Sociaux
     startups:
