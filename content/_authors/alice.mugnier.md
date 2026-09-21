@@ -4,7 +4,7 @@ fullname: Alice MUGNIER
 role: Responsable éditoriale
 missions:
   - start: 2021-01-04
-    end: 2026-11-30
+    end: 2027-01-31
     status: service
     employer: Diair
     startups:

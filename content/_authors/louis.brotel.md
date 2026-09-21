@@ -19,6 +19,12 @@ missions:
     employer: Ruche numérique
     startups:
       - certiphyto-lisa
+  - start: 2026-09-21
+    end: 2026-12-21
+    status: independent
+    employer: Ruche numérique
+    startups:
+      - vert.impact
 memberType: beta
 link: https://www.linkedin.com/in/lbrotel/
 competences:

@@ -18,7 +18,5 @@ missions:
     end: 2026-09-30
     status: admin
     employer: Direction interministérielle du numérique
-    startups:
-      - media-tech
 github: benoitvx
 ---

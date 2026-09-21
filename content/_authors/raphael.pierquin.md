@@ -7,7 +7,7 @@ link: https://ut7.fr/
 github: raphaelpierquin
 missions:
   - start: 2018-03-13
-    end: 2026-09-19
+    end: 2027-03-19
     status: service
     employer: /ut7
     startups:
@@ -22,7 +22,7 @@ missions:
   - start: 2022-03-17
     end: 2024-08-03
     status: service
-    employer: ut7
+    employer: /ut7
     startups:
       - l-immersion-facile
   - start: 2024-01-01
