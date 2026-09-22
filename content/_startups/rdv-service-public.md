@@ -24,7 +24,7 @@ redirect_from:
 usertypes:
   - collectivite-territoriale
   - etat
-stats_url: https://rdv.anct.gouv.fr/stats
+stats_url: https://rdv.numerique.gouv.fr/stats
 events:
   - name: national_impact
     date: 2022-12-31
@@ -40,6 +40,7 @@ techno:
   - rails
 mon_service_securise: true
 impact_url: https://docs.numerique.gouv.fr/docs/dc8f42fe-b9eb-4ef1-9a8d-a58b8d9f03f3/?utm_source=docssharelink&utm_campaign=dc8f42fe-b9eb-4ef1-9a8d-a58b8d9f03f3
+contact_dinum: kevin.serine
 ---
 ## Qui sommes-nous ?
 

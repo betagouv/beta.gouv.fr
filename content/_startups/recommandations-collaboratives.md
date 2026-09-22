@@ -22,6 +22,8 @@ budget_url: https://recommandations-collaboratives.beta.gouv.fr/budget/
 phases:
   - name: acceleration
     start: 2024-07-02
+  - name: consolidation
+    start: 2026-04-01
 thematiques:
   - Collectivités
   - Territoires

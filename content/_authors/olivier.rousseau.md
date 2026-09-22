@@ -10,6 +10,12 @@ missions:
     startups:
       - acceslibre
       - mon-devis-sans-oublis
+  - start: 2026-09-22
+    end: 2026-12-22
+    status: independent
+    employer: Dinum
+    startups:
+      - mon-contenu-accessible-mca
 competences:
   - Coaching
   - Communication

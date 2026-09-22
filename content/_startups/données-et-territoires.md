@@ -10,7 +10,7 @@ phases:
     end: 2022-01-01
   - name: construction
     start: 2022-01-01
-  - name: consolidation
+  - name: opere
     start: 2026-01-01
 link: https://donnees.incubateur.anct.gouv.fr
 repository: https://gitlab.donnees.incubateur.anct.gouv.fr/infrastructure/
@@ -29,6 +29,7 @@ usertypes:
   - etat
 mon_service_securise: false
 techno: []
+contact_incubator: pierre.colle
 ---
 ## C’est quoi Données et Territoires ?
 

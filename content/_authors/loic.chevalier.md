@@ -1,6 +1,6 @@
 ---
 fullname: Loïc Chevalier
-role: Directeur Produit et Design - Transports Sanitaires
+role: Directeur produit et design Transport Sanitaire
 domaine: Produit
 link: https://www.linkedin.com/in/loicchevalier/
 competences:
@@ -52,20 +52,9 @@ competences:
   - No-code / automation ecosystems
 missions:
   - start: 2026-06-01
-    end: 2026-11-28
+    end: 2026-12-31
     status: independent
     employer: COBER
     startups:
       - transports-sanitaires
 ---
-Je conçois des produits digitaux et systèmes IA pensés pour créer un avantage compétitif réel.
-
-Avec After Agency, j’accompagne des organisations où produit, design, data et intelligence artificielle doivent converger pour transformer des opportunités complexes en croissance mesurable.
-
-Au cours des dernières années, j’ai occupé des rôles de direction produit et design chez BlaBlaCar, Klaxit, Turo (ex-Ouicar) ou Rakuten France, avec une approche toujours orientée impact, adoption et scalabilité.
-
-Je développe des systèmes produits où expérience utilisateur, logique métier et couche IA sont conçues comme un seul ensemble cohérent. Mon travail consiste à réduire la friction, accélérer l’adoption et transformer des usages complexes en produits compréhensibles, performants et désirables.
-
-J’interviens également comme Creative Ambassador et External Art Director pour Figma Weave, la plateforme de création et prototypage d’agents IA de Figma, où j’explore des workflows mêlant design génératif, narration visuelle et interfaces conversationnelles.
-
-Mon terrain de jeu : les produits IA et digitaux où design, business et technologie doivent fonctionner comme un seul système.
