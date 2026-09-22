@@ -12,13 +12,13 @@ missions:
     startups:
       - sndv_maritime
   - start: 2024-11-27
-    end: 2026-09-09
+    end: 2027-03-09
     status: independent
-    employer: Scopyleft
+    employer: Crème de la crème
     startups:
       - ma-cantine-egalim
   - start: 2025-08-01
-    end: 2026-10-30
+    end: 2026-12-14
     status: independent
     employer: Little Big Connection
     startups:

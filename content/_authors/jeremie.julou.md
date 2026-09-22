@@ -9,7 +9,7 @@ competences:
   - Facilitation
 missions:
   - start: 2025-03-29
-    end: 2026-10-31
+    end: 2026-12-31
     status: independent
     employer: INRAE
     startups:

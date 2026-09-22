@@ -9,6 +9,11 @@ missions:
     end: 2026-12-31
     status: independent
     employer: Plateforme de l'inclusion
+    startups:
+      - dora
+      - mon-recap
+      - pilotage.de.linclusion
+      - rdv.insertion
 memberType: beta
 competences: []
 ---

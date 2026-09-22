@@ -11,6 +11,9 @@ missions:
     end: 2026-10-22
     status: service
     employer: LA MANUFACTURE (Docaposte & CDC)
+  - start: 2026-09-22
+    end: 2027-03-22
+    status: independent
 memberType: attributaire
 competences: []
 ---

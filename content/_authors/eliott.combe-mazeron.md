@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2024-10-15
     end: 2027-01-01
-    employer: Intrapreneur
     status: admin
+    employer: Intrapreneur
     startups:
       - vert.impact
-teams: []
 ---

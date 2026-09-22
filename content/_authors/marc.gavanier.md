@@ -6,7 +6,7 @@ github: marc-gavanier
 link: https://www.linkedin.com/in/marc-gavanier
 missions:
   - start: 2021-09-15
-    end: 2026-09-30
+    end: 2026-12-22
     status: independent
     employer: Octo
     startups:

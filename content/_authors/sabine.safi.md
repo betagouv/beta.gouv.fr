@@ -5,7 +5,7 @@ domaine: Produit
 github: sabinesafi
 missions:
   - start: 2019-02-04
-    end: 2026-10-30
+    end: 2026-12-30
     status: independent
     employer: Malt
     startups:
