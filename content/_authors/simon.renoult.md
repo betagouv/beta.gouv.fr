@@ -1,6 +1,6 @@
 ---
 fullname: Simon Renoult
-role: CTO à Transports Sanitaires
+role: Directeur technique Transport Sanitaire
 domaine: Développement
 github: simonrenoult
 link: https://www.linkedin.com/in/simonrenoult

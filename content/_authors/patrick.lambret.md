@@ -6,11 +6,15 @@ github: patrick-produit
 link: https://www.linkedin.com/in/plambret/
 missions:
   - start: 2021-04-22
-    end: 2026-11-23
+    end: 2026-09-21
     status: independent
     employer: Malt
     startups:
       - vert.impact
+  - start: 2021-04-22
+    end: 2026-11-23
+    status: independent
+    employer: Malt
 incubator: mtes
 previously:
   - camino
