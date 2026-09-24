@@ -90,6 +90,12 @@ YAML
       it 'keeps the historical incubator alongside the list' do
         expect(api_hash_for(co_incubated_yml)['incubator']).to eq 'mtes'
       end
+
+      # None of the files in `content/_startups` carry an `id` in their
+      # frontmatter: it is derived from the file name by `from_document`.
+      it 'exposes the id of a product whose frontmatter has none' do
+        expect(api_hash_for(yml.sub(/^\s*id:.*\n/, ''))[:id]).to eq 'produit'
+      end
     end
 
     describe '#incubated_by?' do
