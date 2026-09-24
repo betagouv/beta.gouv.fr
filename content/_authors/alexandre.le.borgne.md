@@ -1,7 +1,7 @@
 ---
 fullname: Alexandre LE BORGNE
 role: Coach conformité
-domaine: Autre
+domaine: Attributaire
 link: https://numericite.eu/
 missions:
   - start: 2023-02-20

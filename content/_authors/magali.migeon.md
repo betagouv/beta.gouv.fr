@@ -1,6 +1,6 @@
 ---
 fullname: Magali Migeon
-role: Intrapreneuse AIGLE et LUCCA
+role: Intrapreneure AIGLE et LUCCA
 domaine: Intraprenariat
 missions:
   - start: 2023-04-24

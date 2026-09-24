@@ -6,7 +6,7 @@ sponsors:
   - /organisations/dinum
 incubator: dinum_produits_interministeriels
 link: https://rdv.anct.gouv.fr
-repository: https://github.com/betagouv/rdv-solidarites.fr
+repository: https://github.com/betagouv/rdv-service-public
 contact: support@rdv-service-public.fr
 stats: true
 budget_url: https://pad.numerique.gouv.fr/rHMnemklQm6Sww5yVCI9ow?view#RDV-Service-Public

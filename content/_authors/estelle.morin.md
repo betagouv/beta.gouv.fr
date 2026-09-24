@@ -1,7 +1,7 @@
 ---
 fullname: Estelle Morin
 role: Facilitatrice
-domaine: Autre
+domaine: Attributaire
 link: https://omnicite.fr/
 missions:
   - start: 2022-06-21
@@ -11,5 +11,6 @@ missions:
       - csplab
 badges:
   - segur
+competences: []
 ---
 Conseillère en création et développement d'activité chez Omnicité.

@@ -1,7 +1,7 @@
 ---
 fullname: Christophe  Ponnou-Delaffon
 role: Client OPS
-domaine: Autre
+domaine: Attributaire
 competences: []
 missions:
   - start: 2025-04-01

@@ -9,7 +9,7 @@ competences:
   - Recherche
 missions:
   - start: 2025-03-28
-    end: 2026-06-30
+    end: 2026-12-31
     status: admin
     employer: DGESIP-DGRI
     startups:

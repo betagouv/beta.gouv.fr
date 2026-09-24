@@ -65,30 +65,11 @@ Les couvertures aériennes nationales constituent une opportunité à saisir pou
 * **Orienter des dynamiques de recherche** scientifique pour investiguer des sujets nouveaux et animer une communauté de chercheurs
 * **Affiner la sensibilité archéologique** par région pour adapter la politique d’archéologie préventive
 
-## Matrice d'impact
+## Impact
 
-| Matrice | Indicateur |
-| --- | --- |
-| **Utilisable** | - Présence du plugin sur le dépôt officiel et installable en 2 clics 
-| | - Flexibilité dans le pipeline de données 
-| | - Taux de contact support 
-| | - Système de notation/évaluation sur QGis |
-| | |
-| **Utilisé** | - Nombre de téléchargements sur le dépôt 
-| | - Nombre d'utilisations 
-| | - Surfaces réalisées (km²) 
-| | - Nombre de SRA utilisateurs/mois 
-| | - Taux de formation LiDAR |
-| | |
-| **Utile** | - Taux d'adoption du LiDAR par les archéologues (sur 300 archéo MC) 
-| | - Nombre d'entités (chercheurs, autres archéologues) ayant adopté le LiDAR |
-| | |
-| **Impactant** | - Taux d'augmentation des surfaces de recherche 
-| | - Nombre de structures supplémentaires repérées 
-| | - Nombre de sorties terrain 
-| | - Taux de patrimoine validé |
-| | |
-| **Efficient** | - Coût à l'utilisation : Budget /nombre d'utilisations ou Budget / surface réalisée 
-| | - Coût à l'utilité : Budget / temps gagné ou ETP 
-| | - Coût à l'impact : Budget / patrimoine ou inventaire validé 
-| | - Coût à l'impact : avant/après sur 1ETP pour X patrimoine validé |
+Des indicateurs d'impact ont été définis et sont en cours de collecte à mesure de la construction du produit. Quelques éléments sur la mesure d'impact : 
+- Utilisable : taux de contact au support, note de satisfaction
+- Utilisé : nombre de SRA déployé, nombre d'utilisateur et d'utilisation / mois, surfaces réalisées (km2) 
+- Utile : gain de temps
+- Impactant : nombre de structures supplémentaires repérées, taux de patrimoine validé
+- Efficant : coût à l'utilité (Budget / temps gagné ou ETP), coût à l'impact (Budget / patrimoine ou inventaire validé), coût à l'impact (avant/après sur 1ETP pour X patrimoine validé)

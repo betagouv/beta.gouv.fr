@@ -1,6 +1,6 @@
 ---
 fullname: Joeffrey Arruyer
-domaine: Coaching
+domaine: Attributaire
 role: Coaching produit
 github: joeffreya
 link: https://www.linkedin.com/in/joeffrey-arruyer-5392a744
