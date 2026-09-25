@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2023-03-01
-    end: 2026-12-31
+    end: 2026-09-01
     status: admin
     startups:
       - potentiel

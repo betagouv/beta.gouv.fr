@@ -25,6 +25,7 @@ events:
   - name: committee
     date: 2026-05-28
 budget_url: https://grist.numerique.gouv.fr/o/docs/
+impact_url: https://docs.numerique.gouv.fr/docs/2d3f8588-3688-4e26-8d32-77bb63f2281e/
 ---
 **Contexte**
 

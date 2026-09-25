@@ -5,17 +5,19 @@ domaine: Produit
 github: Eugenie
 missions:
   - start: 2023-06-25
-    end: 2026-07-30
-    status: service
-    employer: DTNUM/SDID
-    startups:
-      - basegun
-  - start: 2023-06-25
-    end: 2026-05-20
+    end: 2026-12-30
     status: service
     employer: DTNUM/SDID
     startups:
       - astree
+      - m-ir-ai
+  - start: 2023-06-25
+    end: 2027-02-20
+    status: service
+    employer: DTNUM/SDID
+    startups:
+      - astree
+      - m-ir-ai
 memberType: autre
 link: https://www.linkedin.com/in/eugenielevallois/
 competences:
