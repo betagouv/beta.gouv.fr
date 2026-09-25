@@ -28,6 +28,12 @@ missions:
     startups:
       - envirogend
       - guichet-territorial-pour-la-transition-ecologique
+  - start: 2026-09-25
+    end: 2026-12-25
+    status: independent
+    employer: Dynergie
+    startups:
+      - portail-rse
 badges:
   - segur
 competences:
