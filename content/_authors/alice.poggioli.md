@@ -7,7 +7,7 @@ competences:
   - Développement Frontend
 missions:
   - start: 2025-10-20
-    end: 2026-10-10
+    end: 2027-02-28
     status: independent
     employer: Scopyleft
     startups:

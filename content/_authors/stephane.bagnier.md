@@ -8,9 +8,8 @@ competences: []
 missions:
   - start: 2026-09-23
     end: 2026-12-31
-    employer: Creme de la creme
     status: independent
+    employer: Creme de la creme
     startups:
       - assistant-ia-civil
-teams: []
 ---

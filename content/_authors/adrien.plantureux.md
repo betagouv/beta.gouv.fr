@@ -4,7 +4,7 @@ domaine: Intraprenariat
 role: Intrapreneur EnvErgo à la fabrique numérique de l'environnement
 missions:
   - start: 2021-04-09
-    end: 2026-12-31
+    end: 2026-09-01
     status: admin
     employer: MTE
     startups:

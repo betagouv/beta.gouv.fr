@@ -5,7 +5,7 @@ domaine: Développement
 competences: []
 missions:
   - start: 2026-01-19
-    end: 2026-12-18
+    end: 2027-01-20
     status: independent
     employer: Malt
     startups:

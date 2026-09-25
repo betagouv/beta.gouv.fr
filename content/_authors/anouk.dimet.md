@@ -7,9 +7,9 @@ competences:
   - Product design
 missions:
   - start: 2026-07-20
-    end: 2026-10-20
+    end: 2026-12-31
     status: independent
-    employer: Octo
+    employer: Creme de la creme
     startups:
       - demain-specialiste-cyber
       - mes-services-cyber
