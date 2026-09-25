@@ -1,7 +1,7 @@
 ---
 fullname: Hélène MENIN
 role: Responsable Financière et Administrative
-domaine: Autre
+domaine: Attributaire
 competences: []
 missions:
   - start: 2021-11-01

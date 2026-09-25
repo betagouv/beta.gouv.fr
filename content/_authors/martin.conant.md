@@ -7,7 +7,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2026-07-13
-    end: 2026-10-13
+    end: 2026-12-23
     status: independent
     employer: CDLC
     startups:

@@ -11,16 +11,13 @@ techno:
 title: Mon contenu Accessible (MCA)
 mission: Accompagner la mise en accessibilité de tous les contenus numériques afin de les rendre simples à produire, à diffuser et à consulter par tout le monde.
 incubator: mtes
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2026-06-24
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-09-22
+link: ''
 ---
 
 ## Contexte

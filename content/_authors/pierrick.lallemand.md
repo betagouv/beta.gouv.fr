@@ -1,10 +1,10 @@
 ---
-domaine: Autre
+domaine: Attributaire
 fullname: Pierrick Lallemand
 role: Autre
 missions:
   - start: 2025-11-25
-    end: 2026-07-31
+    end: 2027-01-30
     status: service
     employer: Malt
 competences:

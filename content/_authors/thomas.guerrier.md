@@ -9,6 +9,7 @@ missions:
     status: admin
     employer: Ministère de la Justice
     startups:
+      - assistant-ia-civil
       - experts
       - fondation
       - infoparquet
@@ -20,6 +21,7 @@ missions:
       - presence-judiciaire
       - rdv.mjd
       - romin
+      - stage-direct
       - themis
   - start: 2022-05-13
     end: 2026-06-01

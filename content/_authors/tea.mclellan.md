@@ -1,7 +1,7 @@
 ---
 fullname: Téa McLellan
 role: 'Responsable de comptes '
-domaine: Autre
+domaine: Attributaire
 competences: []
 missions:
   - start: 2024-09-13

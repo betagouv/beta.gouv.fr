@@ -18,6 +18,8 @@ sponsors:
 phases:
   - name: construction
     start: 2025-09-15
+  - name: acceleration
+    start: 2026-05-01
 events:
   - name: product_launch
     date: 2025-07-31
@@ -38,7 +40,7 @@ Document-IA est une solution **générique, souveraine** et **sécurisée** d'**
 
 Consultez la [liste des documents](https://github.com/betagouv/document-ia/tree/sandbox/document-ia-schemas/src/document_ia_schemas) actuellement compatibles avec Document-IA.
 
-**Vous êtes un acteur de l'État** et vous souhaitez bénéficier de la solution Document-IA ? Contactez l'équipe en charge de son déploiement en complétant ce [formulaire](https://grist.numerique.gouv.fr/o/document-ia/forms/biMbLFoRK9yM3LoeNyMQ2E/8) 👈
+**Vous êtes un acteur de l'État** et vous souhaitez bénéficier de la solution Document-IA ? Prenez contact avec le département [ IA dans l'Etat de la DINUM](https://ia.numerique.gouv.fr/)
 
 **Vous êtes développeur** et vous souhaitez consulter la documentation technique ? Consultez la section dédiée "📖 Comment utiliser Document-IA ?"
 

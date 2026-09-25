@@ -11,7 +11,7 @@ missions:
       - data-inclusion
       - dora
   - start: 2026-04-20
-    end: 2026-10-20
+    end: 2027-03-20
     status: independent
     employer: Little Big Connection
     startups:
