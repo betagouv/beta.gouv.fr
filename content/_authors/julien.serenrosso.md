@@ -12,4 +12,4 @@ missions:
       - trackdechets
 competences: []
 ---
-Développeur front-end
+Développeur fullstack

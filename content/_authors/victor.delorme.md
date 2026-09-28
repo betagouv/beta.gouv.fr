@@ -9,6 +9,12 @@ missions:
     employer: MALT
     startups:
       - a-just
+  - start: 2026-09-07
+    end: 2029-09-07
+    status: admin
+    employer: DINUM
+    startups:
+      - suite-numerique
 link: https://linkedin.com/in/victordelorme33
 competences:
   - Communication

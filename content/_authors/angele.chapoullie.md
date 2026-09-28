@@ -5,7 +5,7 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2026-04-23
-    end: 2026-12-22
+    end: 2027-01-30
     status: admin
     employer: Ministère des Sports
     startups:
