@@ -5,7 +5,7 @@ domaine: Design
 link: https://hugothomas.fr/
 missions:
   - start: 2023-06-01
-    end: 2026-10-31
+    end: 2027-03-01
     status: independent
     employer: Little Big Connection
     startups:

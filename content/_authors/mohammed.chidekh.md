@@ -16,17 +16,16 @@ competences:
 missions:
   - start: 2026-07-27
     end: 2026-12-30
-    employer: France Travail
     status: service
+    employer: France Travail
     startups:
       - ma-communaute-crea
       - profilence
   - start: 2026-09-25
     end: 2026-12-25
-    employer: France Travail
     status: independent
+    employer: France Travail
     startups:
       - ma-communaute-crea
-teams: []
 ---
 Fullstack dev & architecte technique. Construire des systèmes qui marchent. Microservices, DevOps, IA/GenAI."

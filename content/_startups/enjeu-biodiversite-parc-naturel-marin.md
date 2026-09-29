@@ -154,8 +154,13 @@ Permettre&#x20;****aux parties prenantes des PNM****&#x20;d’obtenir la bonne c
 
 * Intrapreneur : Noémie Viala (OFB)
 
-* Coach : Benoit Champy (DINUM)
+* Coach : Julianne Lagadec
+
+
+
 
 Cofinancé par l’Union européenne. Les points de vue et les opinions exprimés sont toutefois ceux des auteurs et ne reflètent pas nécessairement ceux de l’Union européenne ou de CINEA. Ni l’Union européenne ni l’autorité chargée de l’octroi de la subvention ne peuvent en être tenues pour responsables.
+
+
 
 

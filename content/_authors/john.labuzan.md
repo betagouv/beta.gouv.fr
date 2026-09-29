@@ -47,7 +47,7 @@ missions:
     startups:
       - nosgestesclimat
   - start: 2022-11-20
-    end: 2026-10-27
+    end: 2027-01-27
     status: independent
     employer: Malt
     startups:
@@ -81,7 +81,7 @@ missions:
     startups:
       - sante-psy-etudiant
   - start: 2024-11-22
-    end: 2026-10-27
+    end: 2026-12-27
     status: independent
     employer: La zone
     startups:
