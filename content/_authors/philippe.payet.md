@@ -10,7 +10,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2026-05-04
-    end: 2026-11-04
+    end: 2026-09-29
     status: independent
     employer: DJEPVA
     startups:

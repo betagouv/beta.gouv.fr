@@ -18,13 +18,11 @@ sponsors:
   - /organisations/cgdd
 phases:
   - name: investigation
-    comment: null
     start: 2026-09-28
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-09-28
+link: ''
 ---
 ## Contexte
 

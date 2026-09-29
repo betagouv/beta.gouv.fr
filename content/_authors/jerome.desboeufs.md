@@ -55,7 +55,7 @@ missions:
     startups:
       - maestro
   - start: 2025-10-01
-    end: 2026-09-30
+    end: 2026-12-31
     status: service
     employer: Living Data
     startups:

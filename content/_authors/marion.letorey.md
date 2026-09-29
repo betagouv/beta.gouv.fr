@@ -14,6 +14,12 @@ missions:
     employer: LBC
     startups:
       - experts
+  - start: 2026-09-29
+    end: 2026-12-31
+    status: admin
+    employer: DGE
+    startups:
+      - portail-rse
 memberType: beta
 ---
 Chargée de portefeuille à l'incubateur des territoires

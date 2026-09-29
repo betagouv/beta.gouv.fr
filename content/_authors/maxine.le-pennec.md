@@ -12,7 +12,7 @@ missions:
       - pcrs
       - prelevements.deau
   - start: 2025-10-28
-    end: 2026-09-30
+    end: 2026-12-31
     status: independent
     employer: Living Data
     startups:

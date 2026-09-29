@@ -9,25 +9,25 @@ missions:
     startups:
       - homologation
   - start: 2025-02-01
-    end: 2026-01-06
+    end: 2027-02-06
     status: independent
     employer: Omnicité
     startups:
       - demain-specialiste-cyber
   - start: 2025-02-26
-    end: 2025-08-30
+    end: 2027-02-28
     status: independent
     employer: Omnicité
     startups:
       - mon-aide-cyber
   - start: 2025-03-18
-    end: 2025-12-31
+    end: 2027-02-28
     status: independent
     employer: Omnicité
     startups:
       - mes-services-cyber
   - start: 2025-10-06
-    end: 2026-04-27
+    end: 2027-02-27
     status: independent
     employer: Omnicité
     startups:
