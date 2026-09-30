@@ -7,7 +7,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2026-04-20
-    end: 2026-09-30
+    end: 2027-10-30
     status: admin
     employer: Opéra-Comique
     startups:
