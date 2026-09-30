@@ -5,7 +5,7 @@ domaine: Produit
 github: mekaidmekaid
 missions:
   - start: 2023-01-09
-    end: 2026-10-30
+    end: 2027-03-30
     status: independent
     employer: Scopyleft
     startups:

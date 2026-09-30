@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-09-25
     end: 2027-03-25
-    employer: La Turbine
     status: independent
+    employer: La Turbine
     startups:
       - demarches-simplifiees.fr
-teams: []
 ---
