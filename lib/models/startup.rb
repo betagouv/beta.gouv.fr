@@ -82,7 +82,10 @@ module Beta
     ].freeze
 
     def to_api_hash
-      { name: document.data['title'] }
+      # `id` and `name` are listed in API_SINGLE_FIELDS but never appear in the
+      # frontmatter: the id comes from the file name, the name from `title`.
+      # Both have to be set here or they are simply missing from the payload.
+      { id: id, name: document.data['title'] }
         .merge(document.data.slice(*API_SINGLE_FIELDS))
         .merge(
           # Normalized rather than sliced from the frontmatter, which only
