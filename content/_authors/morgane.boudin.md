@@ -1,6 +1,6 @@
 ---
 fullname: Morgane Boudin
-role: UX/UI Designer
+role: Product Designer
 domaine: Design
 missions:
   - start: 2024-03-01

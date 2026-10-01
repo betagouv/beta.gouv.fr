@@ -10,6 +10,4 @@ missions:
     status: independent
     employer: Numa
 github: MarinePetroline
-teams:
-  - /teams/dinum-animation-beta-gouv-fr
 ---

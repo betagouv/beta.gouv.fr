@@ -11,14 +11,14 @@ missions:
     startups:
       - conseillers-entreprises
   - start: 2025-12-15
-    end: 2026-10-30
+    end: 2027-03-30
     status: independent
     employer: Numa
     startups:
       - monitorfish
       - rapportnav
   - start: 2026-02-16
-    end: 2026-10-30
+    end: 2027-03-30
     status: independent
     employer: Malt
     startups:

@@ -11,9 +11,9 @@ missions:
     startups:
       - trackdechets
   - start: 2026-05-26
-    end: 2026-10-31
+    end: 2027-03-31
     status: independent
-    employer: OCTO
+    employer: crèmedelacrème
     startups:
       - seves
 memberType: beta

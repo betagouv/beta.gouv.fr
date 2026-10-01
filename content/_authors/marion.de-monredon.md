@@ -11,7 +11,7 @@ competences:
   - Coaching
 missions:
   - start: 2026-04-13
-    end: 2026-10-31
+    end: 2027-03-31
     status: independent
     employer: DOCAPOSTE / Cober
     startups:

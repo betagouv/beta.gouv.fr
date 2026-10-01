@@ -5,7 +5,7 @@ domaine: Développement
 github: kevbarns
 missions:
   - start: 2020-02-06
-    end: 2026-10-31
+    end: 2027-03-31
     status: independent
     startups:
       - api.apprentissage

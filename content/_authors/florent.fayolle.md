@@ -3,7 +3,7 @@ domaine: Développement
 github: fflorent
 missions:
   - start: 2023-05-30
-    end: 2026-10-31
+    end: 2027-01-01
     status: independent
     employer: Cober x La Manufacture
     startups:

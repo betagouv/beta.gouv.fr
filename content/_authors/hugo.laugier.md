@@ -10,7 +10,7 @@ missions:
     startups:
       - monstage
   - start: 2024-11-12
-    end: 2026-09-28
+    end: 2026-12-31
     status: independent
     employer: ut7/
     startups:

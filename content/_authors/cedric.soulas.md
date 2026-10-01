@@ -34,13 +34,13 @@ missions:
     startups:
       - pv.facile
   - start: 2026-06-08
-    end: 2026-10-31
+    end: 2027-01-31
     status: independent
     employer: Crème de la crème
     startups:
       - mission-transition-ecologique
   - start: 2026-06-16
-    end: 2026-09-30
+    end: 2026-12-31
     status: independent
     employer: Numa
     startups:

@@ -10,17 +10,17 @@ missions:
     startups:
       - sndv_maritime
   - start: 2024-05-02
-    end: 2024-09-27
-    status: independent
-    employer: IPPON
-    startups:
-      - envirogend
-  - start: 2024-05-02
     end: 2024-07-27
     status: independent
     employer: IPPON
     startups:
       - andv-aerien
+  - start: 2024-05-02
+    end: 2024-09-27
+    status: independent
+    employer: IPPON
+    startups:
+      - envirogend
   - start: 2024-11-15
     end: 2025-02-11
     status: independent
@@ -46,6 +46,18 @@ missions:
     startups:
       - envirogend
       - guichet-territorial-pour-la-transition-ecologique
+  - start: 2026-05-01
+    end: 2026-12-30
+    status: independent
+    employer: 'La Manufacture - Cober - Docaposte '
+    startups:
+      - resultats-elections-fpt
+  - start: 2026-06-01
+    end: 2026-12-30
+    status: independent
+    employer: 'La Manufacture - Cober - Docaposte '
+    startups:
+      - envirogend
 competences:
   - Coaching
   - Product strategy

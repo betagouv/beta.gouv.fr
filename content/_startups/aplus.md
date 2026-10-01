@@ -42,7 +42,7 @@ events:
   - name: national_impact
     date: 2026-04-02
     comment: Service à impact national
-impact_url: https://statistiques.aplus.beta.gouv.fr/public/dashboard/d9c5f1bf-a88c-4e2b-a05b-2f2a7f27b09c
+impact_url: https://incubateurdesterritoires.notion.site/impact-administrationplus
 budget_url: https://docs.numerique.gouv.fr/docs/b87717a7-f184-42ca-8fdd-50c0f255f71e/
 ---
 ## Un problème qui peut toucher chacun d'entre nous : être privé de ses droits à cause de blocages administratifs

@@ -5,9 +5,9 @@ github: nicoayci
 domaine: Développement
 missions:
   - start: 2023-02-13
-    end: 2026-10-31
+    end: 2026-12-31
     status: independent
-    employer: Inetum/LBC
+    employer: MEP
     startups:
       - experts
 memberType: beta

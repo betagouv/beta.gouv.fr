@@ -4,7 +4,7 @@ fullname: Lysiane Lagadic
 role: Designer
 missions:
   - start: 2024-06-20
-    end: 2026-10-30
+    end: 2027-03-30
     status: independent
     employer: La Manufacture-Docaposte
     startups:
