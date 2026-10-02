@@ -13,5 +13,6 @@ badges:
   - segur
 link: https://www.linkedin.com/in/julie-guittard-a81520113
 competences: []
+github: JuGuuu
 ---
 Urbaniste / géographe, mais surtout chargée de déploiement au sein de l'équipe Zéro Logement Vacant !

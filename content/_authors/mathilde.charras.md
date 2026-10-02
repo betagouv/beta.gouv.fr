@@ -16,7 +16,7 @@ missions:
     startups:
       - monsuivipsy
   - start: 2026-03-09
-    end: 2026-09-30
+    end: 2027-03-30
     status: independent
     employer: MALT
     startups:
