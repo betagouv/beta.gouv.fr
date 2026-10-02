@@ -30,5 +30,6 @@ competences:
   - Coaching
   - Droit / Affaires juridiques
 link: https://www.linkedin.com/in/thomas-menant-95171937/
+github: ThomasMenant
 ---
 Le droit c'est tordu.

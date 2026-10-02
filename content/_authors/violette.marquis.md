@@ -17,5 +17,6 @@ competences:
   - JavaScript/TypeScript
   - PostgreSQL
   - UX
+github: VioMrqs
 ---
 Développeuse Fullstack TS | Basée sur Lyon | ⛰️⛰️⛰️
