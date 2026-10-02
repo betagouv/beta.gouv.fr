@@ -8,4 +8,10 @@ missions:
     end: 2026-12-25
     status: admin
     employer: Paris Habitat
+  - start: 2026-10-01
+    end: 2027-01-01
+    status: admin
+    employer: Paris Habitat
+    startups:
+      - sous-occupation-hlm
 ---

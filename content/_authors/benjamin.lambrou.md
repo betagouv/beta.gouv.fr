@@ -12,13 +12,13 @@ missions:
       - asso.cie
       - tacct
   - start: 2025-03-17
-    end: 2026-10-31
+    end: 2027-03-31
     status: independent
     employer: Inops
     startups:
       - ma-communaute-crea
   - start: 2026-05-01
-    end: 2026-10-31
+    end: 2027-03-31
     status: independent
     employer: Numa
     startups:

@@ -5,7 +5,7 @@ domaine: Développement
 github: victormours
 missions:
   - start: 2022-02-07
-    end: 2026-10-31
+    end: 2027-03-01
     status: independent
     employer: Scopyleft
     startups:

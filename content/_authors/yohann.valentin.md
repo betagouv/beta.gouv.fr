@@ -6,7 +6,7 @@ link: https://yohannvalentin.com
 github: yvalentin
 missions:
   - start: 2023-10-09
-    end: 2026-10-31
+    end: 2026-12-31
     status: independent
     startups:
       - transition-ecologique-des-entreprises

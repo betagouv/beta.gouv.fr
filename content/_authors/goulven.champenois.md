@@ -4,7 +4,7 @@ fullname: Goulven Champenois
 role: Développement
 missions:
   - start: 2024-04-23
-    end: 2026-09-30
+    end: 2026-11-30
     status: independent
     employer: UT7
     startups:

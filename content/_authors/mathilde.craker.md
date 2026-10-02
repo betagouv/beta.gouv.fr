@@ -15,6 +15,12 @@ missions:
     employer: Scopyleft
     startups:
       - ma-cantine-egalim
+  - start: 2026-10-19
+    end: 2027-03-31
+    status: independent
+    employer: Octo / CDLC
+    startups:
+      - ma-cantine-egalim
 memberType: beta
 competences: []
 ---

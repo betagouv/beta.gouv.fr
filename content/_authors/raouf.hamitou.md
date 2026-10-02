@@ -14,9 +14,10 @@ competences:
   - Support client
   - Trello
   - Brevo
+  - Metabase
 missions:
   - start: 2025-02-20
-    end: 2026-12-31
+    end: 2027-03-30
     status: independent
     employer: Crème de la crème
     startups:

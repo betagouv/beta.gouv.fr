@@ -41,7 +41,7 @@ events:
     comment: Comité d'investissement
 repository: https://github.com/betagouv/depots-sauvages
 impact_url: https://stopdepotsauvage-stats.osc-secnum-fr1.scalingo.io/public/dashboard/0c3bdff4-a0b2-4ae5-b089-4bac2ee19103
-stats_url: https://stopdepotsauvage-stats.osc-secnum-fr1.scalingo.io/public/dashboard/0c3bdff4-a0b2-4ae5-b089-4bac2ee19103
+stats_url: https://stopdepotsauvage-stats.osc-secnum-fr1.scalingo.io/public/dashboard/8cd29112-9497-4f0b-b8b7-1b481e2c46e5
 contact_dinum: thibault.desjardins
 contact_incubator: thibault.desjardins
 ---

@@ -9,6 +9,12 @@ missions:
     status: independent
     startups:
       - recosante
+  - start: 2026-10-01
+    end: 2027-01-01
+    status: independent
+    employer: Numa
+    startups:
+      - icare-complements-alimentaires
 badges:
   - segur
 previously:

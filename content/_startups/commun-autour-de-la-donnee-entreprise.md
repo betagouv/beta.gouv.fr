@@ -13,10 +13,10 @@ phases:
 events:
   - name: product_launch
     date: 2026-07-06
+usertypes: []
+techno: []
 link: ''
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
 ## Contexte
 
 Dans le cadre de la stratégie de rationalisation des produits numériques et de l’optimisation de l’usage des données pour des politiques publiques plus efficaces, un constat partagé émerge :
@@ -32,3 +32,10 @@ exploitation malgré leur caractère critique pour les politiques publiques ;
 - Prioriser les données interministérielles et celles spécifiques au Ministère de l’Économie et des Finances (MEF), avec un focus sur les données à fort enjeu (ex. fiscales, effectifs) ;
 - Analyser les fichiers plats et API pour en améliorer la qualité, l’interopérabilité et l’accès sécurisé ;
 - Proposer une feuille de route pour des chantiers mutualisés, en associant étroitement les acteurs du MEF et les partenaires interministériels
+
+## Méthodologie
+Une trentaine d’entretiens ont été réalisés dans la sphère économie, social, écologie et interministérielle.
+
+## Premiers résultats de l'investigation
+Les entretiens ont montré des besoins récurrents sur le ciblage des entreprises.
+Le produit envisagé serait de reconstituer une base des données d’entreprise en open-data pour proposer des mécanismes de distribution adaptés aux besoin des réutilisateurs : stock complet ou différentiel quotidien, téléchargement unique ou périodique par abonnement, choix des lignes et des colonnes à extraire, enrichissements (ex : géoloc par défaut).

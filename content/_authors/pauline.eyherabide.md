@@ -19,9 +19,15 @@ missions:
   - start: 2025-10-14
     end: 2026-10-31
     status: independent
-    employer: Solstice
+    employer: Crème de la Crème
     startups:
       - seves
+  - start: 2026-10-01
+    end: 2026-12-31
+    status: independent
+    employer: Malt
+    startups:
+      - les-emplois
 competences:
   - Communication
 link: https://www.linkedin.com/in/paulineeyherabide/

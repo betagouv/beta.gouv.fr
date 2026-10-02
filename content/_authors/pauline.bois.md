@@ -11,7 +11,7 @@ missions:
     startups:
       - aplus
   - start: 2026-01-22
-    end: 2026-09-30
+    end: 2027-03-31
     status: independent
     startups:
       - agents.en.intervention

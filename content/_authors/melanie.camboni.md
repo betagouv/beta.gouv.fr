@@ -12,4 +12,4 @@ missions:
 memberType: beta
 competences: []
 ---
-Responsable territoriale chez Conseillers-Entreprises Service Public en charge des régions Centre Val de Loire / Nouvelle Aquitaine / Occitanie / Guadeloupe et Martinique
+Responsable territoriale chez Service Public Conseillers entreprises en charge des régions Centre Val de Loire / Nouvelle Aquitaine / Occitanie / Guadeloupe et Martinique

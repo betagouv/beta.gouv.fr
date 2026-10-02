@@ -4,7 +4,7 @@ fullname: Fabien Bézagu
 role: Développement
 missions:
   - start: 2024-05-30
-    end: 2026-10-30
+    end: 2027-03-30
     status: service
     employer: Crème de la crème
     startups:

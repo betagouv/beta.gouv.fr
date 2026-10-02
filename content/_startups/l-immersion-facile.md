@@ -24,7 +24,9 @@ phases:
   - name: acceleration
     start: 2022-05-31
   - name: consolidation
-    start: 2026-01-01
+    start: 2023-01-01
+  - name: transfere
+    start: 2025-11-01
 usertypes:
   - particulier
   - entreprise
