@@ -9,5 +9,6 @@ missions:
     startups:
       - oilhi
 competences: []
+github: aurelienmigeot
 ---
 Développeur No-Code, Growth

@@ -4,11 +4,10 @@ role: Analytics Engineer
 domaine: Data
 github: ThomGram
 competences:
-  - Data Science
-  - Docker
-  - Machine learning
-  - PostgreSQL
   - Python
+  - PostgreSQL
+  - Data Engineer
+  - Analytics Engineer
 missions:
   - start: 2025-09-01
     end: 2026-12-25

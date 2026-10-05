@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-04-28
-    end: 2026-10-31
+    end: 2027-01-30
     status: independent
     employer: La Manufacture - Docaposte
     startups:

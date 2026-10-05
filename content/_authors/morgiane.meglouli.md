@@ -18,7 +18,7 @@ missions:
     startups:
       - dpm-facile
   - start: 2026-01-01
-    end: 2026-10-31
+    end: 2026-12-31
     status: independent
     employer: Numa
     startups:
@@ -30,7 +30,7 @@ missions:
     startups:
       - durabilite-de-la-biomasse
   - start: 2026-09-17
-    end: 2026-12-17
+    end: 2026-12-31
     status: independent
     employer: Numa
     startups:

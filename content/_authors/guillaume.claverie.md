@@ -13,4 +13,5 @@ missions:
     employer: La Manufacture (Docaposte) X COBER
     startups:
       - zero-logement-vacant
+github: Guillaume351
 ---

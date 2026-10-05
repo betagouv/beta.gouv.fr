@@ -13,5 +13,6 @@ link: https://www.linkedin.com/in/aureliebaton/
 competences:
   - UI
   - UX
+github: aureliebaton
 ---
 UX designer, spécialisée écoconception

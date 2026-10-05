@@ -40,6 +40,12 @@ missions:
       - api-entreprise
       - api-particulier
       - datapass
+  - start: 2026-11-01
+    end: 2027-04-01
+    status: independent
+    employer: Pathtech
+    startups:
+      - datapass
 link: https://www.linkedin.com/in/jbfeldis/
 github: jbfeldis
 competences:
