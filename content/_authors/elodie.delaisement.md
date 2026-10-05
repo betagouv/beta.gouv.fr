@@ -10,6 +10,11 @@ missions:
     employer: GIP PLATEFORME DE L'INCLUSION
     startups:
       - gps
+  - start: 2023-02-06
+    end: 2026-10-05
+    status: independent
+    employer: GIP PLATEFORME DE L'INCLUSION
+    startups:
       - mon-recap
 memberType: beta
 competences:

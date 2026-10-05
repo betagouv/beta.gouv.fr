@@ -46,6 +46,7 @@ techno:
 dashlord_url: https://dashlord.incubateur.net/url/immersion-facile-beta-gouv-fr/
 impact_url: https://docs.numerique.gouv.fr/docs/a87ab0a2-a4c3-49ea-83b9-73f8eed71f20/
 contact_dinum: nathalie.reyre
+contact_incubator: nathalie.reyre
 ---
 ## Le problème
 

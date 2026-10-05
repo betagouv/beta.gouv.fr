@@ -37,6 +37,7 @@ budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDb
 techno:
   - django
 mon_service_securise: true
+contact_incubator: sonia.perelroizen
 ---
 ## Le contexte
 
@@ -53,3 +54,11 @@ Comment peut-on accompagner le développement économique des structures inclusi
 Face aux 6 grandes catégories d'irritants identifiés, une solution de place de marché numérique commune à l'ensemble de l'inclusion et destinée à des acheteurs professionnels (publics ou privés) a été retenue.
 
 Aujourd'hui le produit est en phase de déploiement auprès des différents acheteurs.
+
+## Pour en savoir plus sur Le Marché de l'inclusion
+
+Sur le blog de La plateforme de l'inclusion, des articles permettent d'approfondir certains aspects liés à ce produit. Par exemple : 
+
+- https://inclusion.gouv.fr/blog/pourquoi-le-march%C3%A9-de-linclusion-nest-pas-devenu-payant/
+- https://inclusion.gouv.fr/blog/temoignage-la-poste-marche-inclusion/
+

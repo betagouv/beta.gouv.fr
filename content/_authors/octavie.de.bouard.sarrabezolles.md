@@ -11,5 +11,6 @@ missions:
       - docurba
 memberType: beta
 competences: []
+github: Octaviedebs
 ---
 Chargée de déploiement

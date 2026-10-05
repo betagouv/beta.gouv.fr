@@ -17,12 +17,17 @@ missions:
     startups:
       - dora
   - start: 2025-02-01
+    end: 2026-10-05
+    status: admin
+    employer: gip-inclusion
+    startups:
+      - mon-recap
+  - start: 2025-02-01
     end: 2027-04-30
     status: admin
     employer: gip-inclusion
     startups:
       - gps
-      - mon-recap
       - pilotage.de.linclusion
 competences:
   - Facilitation

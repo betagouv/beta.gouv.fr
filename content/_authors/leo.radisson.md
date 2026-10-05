@@ -9,7 +9,7 @@ missions:
     startups:
       - la-bonne-alternance
   - start: 2025-03-10
-    end: 2026-11-04
+    end: 2027-04-03
     status: independent
     employer: creme de la creme
     startups:

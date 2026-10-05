@@ -5,7 +5,7 @@ domaine: Data
 github: vincentantoine
 missions:
   - start: 2021-12-20
-    end: 2026-10-06
+    end: 2027-04-05
     status: independent
     employer: Malt
     startups:

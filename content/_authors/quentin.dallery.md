@@ -4,7 +4,7 @@ role: Product Manager
 domaine: Produit
 missions:
   - start: 2024-03-06
-    end: 2026-11-30
+    end: 2027-01-31
     status: independent
     employer: DINUM
     startups:

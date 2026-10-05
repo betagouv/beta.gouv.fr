@@ -11,6 +11,18 @@ missions:
     startups:
       - place-de-marche-inclusion
   - start: 2024-01-01
+    end: 2026-10-05
+    status: admin
+    employer: GIP Plateforme de l'inclusion
+    startups:
+      - rdv.insertion
+  - start: 2024-01-01
+    end: 2026-10-05
+    status: admin
+    employer: GIP Plateforme de l'inclusion
+    startups:
+      - mon-recap
+  - start: 2024-01-01
     end: 2026-12-31
     status: admin
     employer: GIP Plateforme de l'inclusion
@@ -18,10 +30,8 @@ missions:
       - dora
       - la.communaute.de.linclusion
       - les-emplois
-      - mon-recap
       - pilotage.de.linclusion
       - place-de-marche-inclusion
-      - rdv.insertion
 badges:
   - segur
 competences:

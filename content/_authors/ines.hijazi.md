@@ -35,9 +35,14 @@ missions:
     employer: malt
     startups:
       - dora
-      - mon-recap
       - pilotage.de.linclusion
       - place-de-marche-inclusion
+  - start: 2023-04-02
+    end: 2026-10-05
+    status: independent
+    employer: malt
+    startups:
+      - mon-recap
   - start: 2026-07-30
     end: 2027-01-30
     status: independent

@@ -24,6 +24,8 @@ missions:
     end: 2027-04-30
     status: admin
     employer: GIP Plateforme de l'inclusion
+    startups:
+      - la-plateforme-de-l-inclusion-produit-unifie
   - start: 2023-03-01
     end: 2025-10-31
     status: admin

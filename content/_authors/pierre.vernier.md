@@ -6,7 +6,7 @@ competences:
   - Croissance
 missions:
   - start: 2026-06-05
-    end: 2026-12-04
+    end: 2027-03-06
     status: service
     employer: Crème de la crème
     startups:
