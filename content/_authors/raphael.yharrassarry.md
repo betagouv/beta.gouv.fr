@@ -13,7 +13,7 @@ missions:
     startups:
       - kelrisks
   - start: 2019-12-15
-    end: 2026-11-30
+    end: 2027-01-31
     status: independent
     employer: Malt
     startups:
@@ -25,7 +25,7 @@ missions:
     startups:
       - codedutravail
   - start: 2026-04-08
-    end: 2026-12-17
+    end: 2027-01-31
     status: independent
     employer: Cober
     startups:

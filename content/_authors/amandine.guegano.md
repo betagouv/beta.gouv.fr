@@ -35,14 +35,18 @@ missions:
   - start: 2025-07-01
     end: 2026-11-30
     status: independent
-    employer: Dynergie
+    employer: Numa
     startups:
       - prest-agri
   - start: 2025-07-14
-    end: 2026-11-30
+    end: 2026-07-31
     status: independent
-    employer: Malt
+    employer: Numa
     startups:
       - piloter-le-budget-de-mon-produit-numerique
+  - start: 2026-04-22
+    end: 2027-01-06
+    status: independent
+    employer: Dynergie
 ---
 designer de service

@@ -18,5 +18,6 @@ missions:
     employer: LittleBig Connexion
     startups:
       - pitchou
+github: Maiana8L
 ---
 Ingé agro souhaitant s'engager sur des projets à impact social ou environnemental

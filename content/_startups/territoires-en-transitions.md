@@ -48,6 +48,7 @@ events:
     date: 2024-11-05
 mon_service_securise: true
 impact_url: https://www.territoiresentransitions.fr/impact
+contact_incubator: martin.regner
 ---
 ## Contexte
 

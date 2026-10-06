@@ -19,7 +19,7 @@ missions:
     startups:
       - refugies.info
   - start: 2026-05-14
-    end: 2026-10-31
+    end: 2027-03-31
     status: independent
     employer: MEN
     startups:

@@ -11,7 +11,7 @@ missions:
     startups:
       - a-just
   - start: 2024-09-09
-    end: 2026-12-31
+    end: 2027-02-14
     status: independent
     startups:
       - mobilic

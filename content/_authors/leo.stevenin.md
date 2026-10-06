@@ -4,7 +4,7 @@ role: Développeur
 domaine: Développement
 missions:
   - start: 2023-11-21
-    end: 2026-06-30
+    end: 2026-12-31
     status: independent
     startups:
       - les-emplois

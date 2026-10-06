@@ -37,6 +37,12 @@ missions:
     employer: Dynergie
     startups:
       - mutafriches
+  - start: 2026-02-02
+    end: 2026-11-27
+    status: independent
+    employer: Dynergie
+    startups:
+      - archeo-data
   - start: 2026-05-07
     end: 2026-12-31
     status: independent

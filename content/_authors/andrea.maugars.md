@@ -17,7 +17,7 @@ competences:
   - UI
 missions:
   - start: 2026-04-07
-    end: 2026-10-06
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

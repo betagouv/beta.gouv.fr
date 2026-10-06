@@ -10,7 +10,7 @@ missions:
     startups:
       - qualicharge
 link: https://www.linkedin.com/in/philippe-thomy/
-github: Qualicharge
+github: loco-philippe
 competences:
   - Data Science
   - Python

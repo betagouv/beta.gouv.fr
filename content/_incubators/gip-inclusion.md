@@ -1,5 +1,5 @@
 ---
-title: Plateforme de l'inclusion
+title: Plateforme de l'inclusion (GIP)
 short_description: Cet opérateur de services numériques vise à <span class="fr-text--bold">faciliter la vie des personnes en insertion</span> et de celles et ceux qui les accompagnent.
 logo: logo_gip_inclusion.svg
 website: https://inclusion.gouv.fr/

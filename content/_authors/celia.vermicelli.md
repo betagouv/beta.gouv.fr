@@ -19,5 +19,6 @@ badges:
   - segur
 link: https://www.linkedin.com/in/celiavermicelli/
 competences: []
+github: CeliaVermicelli
 ---
 Chargée de déploiement

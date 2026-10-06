@@ -11,9 +11,14 @@ missions:
     employer: Plateforme de l'inclusion
     startups:
       - dora
-      - mon-recap
       - pilotage.de.linclusion
       - rdv.insertion
+  - start: 2023-01-09
+    end: 2026-10-05
+    status: independent
+    employer: Plateforme de l'inclusion
+    startups:
+      - mon-recap
 memberType: beta
 competences: []
 ---

@@ -5,7 +5,7 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2025-07-01
-    end: 2026-11-01
+    end: 2026-12-31
     status: admin
     employer: La Fabrique numérique des Finances publiques
     startups:

@@ -5,7 +5,7 @@ domaine: Développement
 github: jeromebu
 missions:
   - start: 2021-07-16
-    end: 2026-10-30
+    end: 2026-12-31
     status: independent
     employer: France travail
     startups:

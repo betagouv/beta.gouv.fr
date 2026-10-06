@@ -8,7 +8,7 @@ competences:
   - Croissance
 missions:
   - start: 2025-03-24
-    end: 2026-12-01
+    end: 2026-10-30
     status: independent
     employer: Octo
     startups:

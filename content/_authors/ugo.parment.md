@@ -1,7 +1,7 @@
 ---
 domaine: Autre
 fullname: Ugo Parment
-role: Autre
+role: Géomaticien
 missions:
   - start: 2024-04-17
     end: 2026-11-06

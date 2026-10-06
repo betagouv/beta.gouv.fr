@@ -17,4 +17,5 @@ missions:
     employer: Malt
     startups:
       - urban-simul
+github: Laure-Magdelain
 ---

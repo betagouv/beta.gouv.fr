@@ -17,12 +17,20 @@ phases:
     start: 2023-09-04
   - name: acceleration
     start: 2024-10-01
+  - name: consolidation
+    start: 2025-10-05
 thematiques:
   - Social
 link: https://mon-recap.inclusion.beta.gouv.fr
-usertypes: []
+usertypes:
+  - particulier
+  - association
+  - entreprise
+  - collectivite-territoriale
 techno: []
 budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?usp=sharing
+impact_url: https://mon-recap.inclusion.beta.gouv.fr/statistiques/
+contact_incubator: annaelle.garcia
 ---
 ## Contexte
 
@@ -42,5 +50,11 @@ Mettre à disposition des personnes en difficulté d’insertion socio-professio
 
 **Si vous accompagnez des personnes susceptibles d'utiliser des carnets, [découvrez notre site](https://mon-recap.inclusion.beta.gouv.fr/) ou [commandez  des carnets](https://tally.so/r/mRMDWl?reseau=0&source=sitegipbeta)**
 
+## Pour en savoir plus sur Mon Récap
 
+Sur le blog de La plateforme de l'inclusion, différents articles permettent de voir les usages concrets du produit (approche qualitative). Par exemple : 
+
+- https://inclusion.gouv.fr/blog/t%C3%A9moignage-le-carnet-mon-r%C3%A9cap-un-levier-dautonomie-num%C3%A9rique-au-c%C5%93ur-de-laccompagnement-social-%C3%A0-strasbourg/
+
+- https://inclusion.gouv.fr/blog/mon-recap-temoignage-conseillere-france-travail/ 
 

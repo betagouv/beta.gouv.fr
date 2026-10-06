@@ -6,7 +6,7 @@ link: https://claire.dhenin.net/
 github: cdhenin
 missions:
   - start: 2023-07-04
-    end: 2026-11-05
+    end: 2027-02-26
     status: independent
     employer: Malt
     startups:

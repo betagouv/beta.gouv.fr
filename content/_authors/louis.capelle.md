@@ -9,7 +9,7 @@ competences:
   - UI
 missions:
   - start: 2026-05-04
-    end: 2026-11-10
+    end: 2027-03-31
     status: independent
     employer: ORDESOFT
 ---

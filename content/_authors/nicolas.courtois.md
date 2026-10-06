@@ -31,13 +31,13 @@ missions:
     startups:
       - maestro
   - start: 2024-12-02
-    end: 2026-10-30
+    end: 2026-12-31
     status: independent
     employer: ' '
     startups:
       - je-deviens-etudiant
   - start: 2026-05-19
-    end: 2026-08-19
+    end: 2026-12-31
     status: independent
     employer: Docaposte
     startups:

@@ -8,7 +8,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2026-05-07
-    end: 2026-11-07
+    end: 2027-02-01
     status: independent
     employer: LBC
     startups:

@@ -25,6 +25,10 @@ missions:
     end: 2026-11-30
     status: independent
     employer: Dynergie
+  - start: 2025-12-01
+    end: 2026-10-06
+    status: independent
+    employer: Dynergie
     startups:
       - data-foncier
 previously:

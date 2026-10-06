@@ -70,3 +70,5 @@ Aides Agri est une plateforme digitale qui **permet aux exploitants agricoles et
 * **_une sélection personnalisée de dispositifs adaptée à leur situation, avec filtres par critères_**
 
 Ainsi, en fonction de leurs besoins et de leur profil, plusieurs aides pourront être proposées, avec un aiguillage vers les bons guichets et/ou interlocuteurs.
+
+**Présentation vidéo du produit** : [https://tube.numerique.gouv.fr/w/dpjAsTSncLo9pyGCPQR3dK](https://tube.numerique.gouv.fr/w/dpjAsTSncLo9pyGCPQR3dK)

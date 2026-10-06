@@ -35,6 +35,6 @@ competences:
   - Product strategy
   - UX
   - Développement Full-stack
-github: https://github.com/stiiig
+github: stiiig
 ---
 Coach @ beta.gouv.fr. 2x fondateur. Profil full-stack : stratégie, produit, code. Je développe en solo des produits propulsés par l'IA.

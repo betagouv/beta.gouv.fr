@@ -5,7 +5,7 @@ domaine: Développement
 github: louptheron
 missions:
   - start: 2021-12-20
-    end: 2026-11-04
+    end: 2027-03-26
     status: independent
     employer: Octo
     startups:

@@ -23,5 +23,6 @@ competences:
   - SEO
   - SEM
   - Data Science
+github: antoinefbattner
 ---
 Transforme la data en accélérateur de développement - GTM Engineer

@@ -1,10 +1,10 @@
 ---
 fullname: Olivier Rousseau
-role: Chargé de Déploiement
-domaine: Déploiement
+role: Coach & Biz Dev Senior
+domaine: Coaching
 missions:
   - start: 2022-11-17
-    end: 2026-11-30
+    end: 2026-12-31
     status: independent
     employer: Dinum
     startups:
