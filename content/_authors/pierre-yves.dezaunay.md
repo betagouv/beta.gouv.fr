@@ -14,6 +14,7 @@ link: https://dezaunay.fr/
 competences:
   - Développement Full-stack
 memberType: beta
+github: pyDez
 ---
 
 

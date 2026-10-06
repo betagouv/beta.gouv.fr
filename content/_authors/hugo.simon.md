@@ -11,5 +11,6 @@ missions:
     status: independent
     employer: GIP Plateforme de l'Inclusion
     startups:
+      - la-plateforme-de-l-inclusion-produit-unifie
       - rdv.insertion
 ---

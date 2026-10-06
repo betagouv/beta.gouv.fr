@@ -9,5 +9,11 @@ missions:
     employer: Ministère de la culture
     startups:
       - pop
+  - start: 2026-10-05
+    end: 2027-01-05
+    status: admin
+    employer: Ministère de la culture
+    startups:
+      - miroir
 memberType: beta
 ---

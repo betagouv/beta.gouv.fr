@@ -5,7 +5,7 @@ domaine: Développement
 github: Jeremy-Bojko
 missions:
   - start: 2024-01-08
-    end: 2026-10-30
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:

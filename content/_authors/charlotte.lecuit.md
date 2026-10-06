@@ -44,6 +44,12 @@ missions:
     employer: Ministère de la Culture
     startups:
       - etat-sanitaire-des-monuments-historiques-en-mobilite
+  - start: 2026-10-06
+    end: 2027-01-06
+    status: independent
+    employer: Ministère de la Culture
+    startups:
+      - data-foncier
 competences:
   - Croissance
   - Gestion de Produit

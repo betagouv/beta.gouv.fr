@@ -28,11 +28,17 @@ missions:
     startups:
       - qualicharge
   - start: 2025-08-11
-    end: 2026-11-30
+    end: 2026-06-30
     status: independent
     employer: Malt
     startups:
       - nomad
+  - start: 2026-08-24
+    end: 2027-02-26
+    status: independent
+    employer: Docapost
+    startups:
+      - signalement
 link: https://www.linkedin.com/in/ingridgodefroy/
 competences:
   - Communication
@@ -42,4 +48,4 @@ competences:
   - Metabase
   - UX
 ---
-Conseil en innovation & organisation | Gestion de projets & agilité | ⁠Product management & e-marketing
+Consultante en transformation numérique | Déploiement de services numériques | Parcours utilisateurs | Secteur public

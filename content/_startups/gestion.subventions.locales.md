@@ -12,6 +12,8 @@ phases:
     start: 2023-12-04
   - name: construction
     start: 2024-10-01
+  - name: acceleration
+    start: 2025-01-01
 thematiques:
   - Collectivités
   - Administratif
@@ -49,6 +51,7 @@ Face à l’augmentation continue du nombre de dossiers, il devient critique de 
 
 La phase d’investigation s’est tenue en 2024 et a permis de valider le lancement du produit, en se concentrant en premier lieu sur la phase de **programmation des subventions**.
 Le produit est actuellement en phase de construction, le déploiement a démarré auprès d’une première vague d’utilisateurs en Janvier 2026 après l'obtention de son homologation pour 1 an.
+Une deuxième vague d'utilisateurs a lieu à partir d'octobre 2026
 
 
 ## Impact 
@@ -57,8 +60,8 @@ Le produit est actuellement en phase de construction, le déploiement a démarr�
 * Simplifier le travail des instructeurs et améliorer leur efficacité : notre objectif est donc de  **d'avoir un maximum de préféctures utilisatrices du produit et diminuer le taux de recours aux outils alternatifs (excel, calc..) ainsi que pour chaque utilisateur, diminuer le temps de traitement des dossiers.**
 * Rendre accessible et fiabiliser l’information en central pour mieux piloter les dotations : notre objectif est donc de **publier plus rapidement les bilans de dotations.**
 
-Les objectifs de Turgot pour le S1 2026 : 
-- Déploiement auprès de 35 préfectures (environ 300 utilisateurs) 
+Les objectifs de Turgot pour le S1 2027 : 
+- Déploiement auprès de 35 préfectures supplémentaires (environ 300 utilisateurs) 
 - NPS > 5
 - Une diminution de 50 % du temps consacré à la programmation pour les agents 
 -Une diminution de 50 % de recours aux outils alternatives (calc etc...)

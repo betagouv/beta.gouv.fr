@@ -4,7 +4,7 @@ fullname: Angélique Bidault
 role: Designer
 missions:
   - start: 2024-03-01
-    end: 2024-05-30
+    end: 2025-12-31
     status: independent
     employer: Path Tech
     startups:
@@ -28,7 +28,7 @@ missions:
     startups:
       - ecobalyse
   - start: 2026-09-03
-    end: 2026-12-03
+    end: 2026-12-31
     status: independent
     employer: Malt
     startups:
@@ -39,5 +39,6 @@ competences:
   - Product design
   - UI
   - UX
+github: AnGi44
 ---
 Service & Product designer freelance basée à Nantes, engagée dans des missions à impact et d'intérêt général.

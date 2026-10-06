@@ -35,9 +35,9 @@ L'objectif de la démarche est de mettre à disposition des données de qualité
 
 Les enjeux pour l'INRAE autour de leurs données :
 
-Rassembler les données sur un seul hub, difficultés pour les usagers de trouver la donnée et donc à la valoriser.
+Rassembler les données sur un seul hub afin de pallier aux difficultés pour les usagers de trouver la donnée et donc à la valoriser.
 
-Trois typologies usagers ont été identifiées, avec deux segments retenus comme prioritaires pour la phase de construction :
+Trois typologies d'usagers ont été identifiées, avec deux segments retenus comme prioritaires pour la phase de construction :
 
 1. Bureaux d'études en environnement et Chambres d'Agriculture : cas d'usage réglementaires et opérationnels (ZAN, diagnostics agronomiques, études d'impact)
 2. Collectivités territoriales : suivi de la qualité des sols et observation des pollutions

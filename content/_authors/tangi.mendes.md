@@ -31,7 +31,7 @@ missions:
   - start: 2025-11-04
     end: 2027-01-31
     status: independent
-    employer: Fairness
+    employer: MonEquipeProduit / Docaposte
     startups:
       - zacharie
 competences:

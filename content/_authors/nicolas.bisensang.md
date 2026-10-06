@@ -10,4 +10,6 @@ missions:
     startups:
       - zero-logement-vacant
 competences: []
+github: nicobsg
+link: https://www.linkedin.com/in/nicolas-bisensang-7004b9a5/
 ---

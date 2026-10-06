@@ -1,6 +1,6 @@
 ---
 fullname: Lahbib Abdelfattah
-role: Développeur / CTO
+role: Développeur
 domaine: Développement
 link: https://www.linkedin.com/in/abdelfattah-lahbib-9a3b2163
 competences:
@@ -15,7 +15,7 @@ competences:
   - ElasticSearch
 missions:
   - start: 2024-10-01
-    end: 2026-10-05
+    end: 2026-12-31
     status: service
     employer: France travail
     startups:
@@ -27,7 +27,7 @@ missions:
     startups:
       - ma-communaute-crea
   - start: 2026-06-23
-    end: 2026-09-23
+    end: 2026-12-31
     status: service
     employer: France travail
     startups:

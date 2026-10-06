@@ -2,7 +2,7 @@
 fullname: Aurélien CADIOU
 role: Chargé de déploiement et développeur no-code
 domaine: Déploiement
-github: aurelienc
+github: AurelienC
 missions:
   - start: 2020-03-01
     end: 2020-09-01

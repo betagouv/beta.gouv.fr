@@ -16,7 +16,7 @@ competences:
   - Coaching
 missions:
   - start: 2026-05-26
-    end: 2026-10-26
+    end: 2027-04-02
     status: service
     employer: Thiga
 ---

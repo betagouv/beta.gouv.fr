@@ -4,7 +4,7 @@ role: Responsable de produit
 domaine: Produit
 missions:
   - start: 2018-07-01
-    end: 2026-11-04
+    end: 2027-04-04
     status: service
     employer: Inops Ippon
     startups:

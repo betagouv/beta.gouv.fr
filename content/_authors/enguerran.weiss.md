@@ -6,7 +6,7 @@ link: https://www.enguerranweiss.fr
 github: enguerranws
 missions:
   - start: 2022-02-14
-    end: 2026-09-29
+    end: 2026-12-31
     status: independent
     employer: Octo
     startups:

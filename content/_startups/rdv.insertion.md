@@ -21,6 +21,8 @@ phases:
     start: 2021-06-02
   - name: acceleration
     start: 2022-01-03
+  - name: consolidation
+    start: 2024-10-05
 thematiques:
   - Travail / Emploi
   - Social
@@ -28,6 +30,7 @@ accessibility_status: non conforme
 mon_service_securise: true
 budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?usp=sharing
 techno: []
+contact_incubator: hugo.simon
 ---
 ## Le problème
 

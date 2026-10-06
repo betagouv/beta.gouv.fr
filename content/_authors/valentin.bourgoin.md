@@ -11,7 +11,7 @@ competences:
   - Python
 missions:
   - start: 2025-04-01
-    end: 2027-01-10
+    end: 2027-03-10
     status: independent
     employer: Malt - Octo Technology
     startups:
