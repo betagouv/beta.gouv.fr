@@ -1,7 +1,7 @@
 ---
 fullname: Manon Piffault
-role: Déploiement
-domaine: Déploiement
+role: Partenariat, impact et stratégie
+domaine: Autre
 missions:
   - start: 2022-09-19
     end: 2024-07-28

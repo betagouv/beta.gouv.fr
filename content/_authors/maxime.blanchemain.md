@@ -10,7 +10,7 @@ competences:
   - Développement Backend
 missions:
   - start: 2026-04-21
-    end: 2026-11-30
+    end: 2027-03-30
     status: independent
     employer: Creme de la Creme
     startups:

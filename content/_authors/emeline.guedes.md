@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2026-10-05
     end: 2026-12-31
-    employer: Ministère des Sports
     status: admin
+    employer: Ministère des Sports
     startups:
       - strategies-nationales
-teams: []
 ---

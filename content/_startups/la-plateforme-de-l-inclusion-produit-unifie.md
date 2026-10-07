@@ -15,15 +15,11 @@ usertypes:
 title: La plateforme de l'inclusion (produit unifié)
 mission: Mettre en relation candidats, employeurs et professionnels de l'insertion au même endroit
 incubator: gip-inclusion
-sponsors: []
 phases:
   - name: investigation
-    comment: null
     start: 2026-10-05
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-10-05
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 

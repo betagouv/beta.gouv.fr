@@ -16,10 +16,14 @@ missions:
     status: admin
     employer: DINUM
     startups:
+      - messagerie
       - social-numerique-gouv-fr
       - suite-numerique
 badges:
   - segur
-competences: []
+competences:
+  - Développement Backend
+  - Développement Full-stack
+  - Python
 ---
 À quand les justices sociales et climatiques ?

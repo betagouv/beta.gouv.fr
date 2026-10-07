@@ -4,7 +4,7 @@ fullname: Ugo Parment
 role: Géomaticien
 missions:
   - start: 2024-04-17
-    end: 2026-11-06
+    end: 2027-03-31
     status: independent
     employer: Malt
     startups:
