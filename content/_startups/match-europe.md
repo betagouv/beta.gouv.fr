@@ -15,12 +15,9 @@ sponsors:
   - /organisations/francetravail
 phases:
   - name: investigation
-    comment: null
     start: 2026-09-04
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-10-07
 ---
 Match Europe est un dispositif public de mise en relation transfrontalière. Il s’appuie sur les services publics de l’emploi, un matching explicable et une validation humaine pour faciliter la rencontre entre candidats et employeurs à l’échelle d’un même bassin économique.

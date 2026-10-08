@@ -9,9 +9,8 @@ competences:
 missions:
   - start: 2026-10-07
     end: 2027-01-07
-    employer: Cober/LaManufacture
     status: service
+    employer: Cober/LaManufacture
     startups:
       - api-telerecours
-teams: []
 ---

@@ -13,5 +13,7 @@ missions:
     startups:
       - demain-specialiste-cyber
       - mes-services-cyber
+teams:
+  - /teams/anssi
 ---
 Senior Product Designer, je suis spécialisée dans les produits SaaS B2B et les outils métier complexes. Après plusieurs années en tant que Lead Product Designer sur des produits RH à forte densité fonctionnelle, j'accompagne aujourd'hui des équipes produit de la stratégie au delivery, avec une attention particulière portée à l'accessibilité et à la collaboration étroite avec les équipes techniques.

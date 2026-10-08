@@ -14,8 +14,6 @@ missions:
     startups:
       - mes-services-cyber
       - mon-aide-cyber
-teams:
-  - /teams/anssi
 github: Floriane-lab
 ---
  

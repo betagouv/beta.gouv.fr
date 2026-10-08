@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2025-05-27
     end: 2026-12-27
-    employer: Cerema
     status: admin
+    employer: Cerema
     startups:
       - urban-simul
-teams: []
 ---
