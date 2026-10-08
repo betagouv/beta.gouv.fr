@@ -16,6 +16,8 @@ phases:
     start: 2022-01-01
   - name: acceleration
     start: 2022-09-01
+  - name: consolidation
+    start: 2025-02-25
 usertypes:
   - collectivite-territoriale
   - etat
@@ -41,15 +43,9 @@ events:
 analyse_risques: true
 mon_service_securise: true
 techno: []
-impact_url: https://monservicesecurise.cyber.gouv.fr/statistiques
+impact_url: https://docs.numerique.gouv.fr/docs/a19d06ec-7b4a-44bc-bc3e-7b092d7f5249/
 ---
-## En phase d'accélération
-
-- **Vous souhaitez découvrir le produit ou un accompagnement dans sa prise en main ? [Contactez notre équipe qui se fera un plaisir de vous accompagner](mailto:support@monservicesecurise.beta.gouv.fr).**
-- **Pour toute autre question sur le projet, propositions de partenariats [contactez-nous à cette adresse](mailto:contact@monservicesecurise.beta.gouv.fr).**
-- **[Accéder à MonServiceSécurisé](https://www.monservicesecurise.cyber.gouv.fr)**
-
-## L'enjeu
+# L'enjeu
 
 Les collectivités territoriales, administrations d'État, établissements et
 autres organismes publics mettent à disposition des usagers de plus en plus
@@ -61,7 +57,7 @@ Se comptant par milliers à l'échelle nationale, ces services numériques sont 
 
 Désireuses de renforcer la sécurité de leurs services numériques (ou « téléservices ») et d'homologuer leur sécurité, conformément à la réglementation (RGS, décret 2022-513, RGPD) de nombreuses entités publiques et en particulier des collectivités, sont aujourd'hui en attente de davantage d'accompagnement.
 
-## La solution
+# La solution
 
 **MonServiceSécurisé est la solution de cybersécurité de l'ANSSI
 pour aider les entités publiques à sécuriser et à homologuer en équipe leurs services numériques**.
@@ -69,7 +65,6 @@ pour aider les entités publiques à sécuriser et à homologuer en équipe leur
 Gratuit, 100% en ligne, MonServiceSécurisé est destiné aussi bien aux professionnels de l’informatique et de la sécurité qu’aux chefs de projets métiers.
 
 Avec MonServiceSécurisé : 
-
 - Identifiez en 3mn les besoins de sécurité d’un service à sécuriser
 - Obtenez une liste de mesures de sécurité personnalisée, adaptée aux besoins identifiés.
 - Construisez un plan d’action cyber de manière collaborative et consultez l’historique des modifications
@@ -78,19 +73,24 @@ Avec MonServiceSécurisé :
 
 Depuis votre tableau de bord :
 - Supervisez l’ensemble de vos services : leurs besoins, leur indice cyber, leur statut d’homologation les prochaines actions à mener.
+- Pilotez vos mesures de sécurité  sur plusieurs services
+- Supervisez au niveau statistiques la sécurité et le statut des homologations de votre périmètre organisationnel.
 - Consultez vos notifications et les recommandations de l’ANSSI
 Téléchargez, dupliquez, partagez à volonté 
 
+Accédez également une formation à l'homologation de sécurité avec MonServiceSécurisé.
+
 [Découvrir MonServiceSécurisé](https://www.monservicesecurise.cyber.gouv.fr/)
 
-## Service à impact national 2024
+# Service à impact national 2024
+
 MonServiceSécurisé a été nommé service numérique à impact national 2024.
 
 MonServiceSécurisé permet aujourd'hui de démultiplier la capacité des entités publiques à : 
-1. **Piloter le renforcement de la sécurité de leurs services** en proposant pour chaque service une évaluation de ses besoins de sécurité et une liste personnalisée de mesures de sécurité à mettre en oeuvre. Depuis son lancement, MonServiceSécurisé a permis de corriger +93 000 “faiblesses” (mesures de sécurité non préalablement mises en œuvre), renforçant d’autant leur protection contre les cybermenaces.
+1. **Piloter le renforcement de la sécurité de leurs services** en proposant pour chaque service une évaluation de ses besoins de sécurité et une liste personnalisée de mesures de sécurité à mettre en oeuvre. Depuis son lancement, MonServiceSécurisé a permis de corriger +304 000 “faiblesses” (mesures de sécurité non préalablement mises en œuvre), renforçant d’autant leur protection contre les cybermenaces. Plus de la moitié de son impact a été réalisé sur la seule année 2025.
 2. **Se mettre en conformité avec la réglementation** (référentiel général de sécurité) en accélérant leur homologation de sécurité, processus essentiel sanctionné par une “décision d’homologation” validant que les services numériques concernés sont suffisamment sécurisés face aux risques contre lesquels une organisation souhaite se protéger, préalable leur mise en opération. MonServiceSécurisé permet de générer un premier dossier d’homologation en quelques minutes, qui constituera la base de la documentation nécessaire pour prouver la conformité d’un service aux exigences de sécurité.
 
-Ayant déjà permis de sécuriser plus de 3 800 services publics numériques, utilisé par la quasi totalité des grandes collectivités en France (Régions, départements, agglomérations, grandes communes, OPSN) et plusieurs ministères, MonServiceSécurisé est devenu un outil de référence. Le tableau de bord statistique intégré est, en outre, particulièrement apprécié pour le suivi de la sécurité des systèmes d’information au sein des ministères, permettant une gestion proactive de la sécurité.
+Ayant déjà permis de sécuriser plus de 9 500 services publics numériques, utilisé par la quasi totalité des grandes collectivités en France (Régions, départements, agglomérations, grandes communes, OPSN) et plusieurs ministères, MonServiceSécurisé est devenu un outil de référence. Le tableau de bord statistique intégré est, en outre, particulièrement apprécié pour le suivi de la sécurité des systèmes d’information au sein des ministères, permettant une gestion proactive de la sécurité.
 
 La cybercriminalité représente un coût annuel substantiel pour la France. L’Agence nationale de la sécurité des systèmes d’information (ANSSI) estime, en outre, que le coût de la réponse à une cyberattaque majeure peut s’élever à plusieurs centaines de milliers, sans inclure le coût de la gestion de ses conséquences sur les données et les processus impactés.
 

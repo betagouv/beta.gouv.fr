@@ -20,6 +20,8 @@ phases:
     start: 2024-09-01
   - name: construction
     start: 2024-11-15
+  - name: acceleration
+    start: 2026-06-14
 events:
   - name: product_launch
     date: 2025-04-02
@@ -33,33 +35,53 @@ impact_url: https://messervices.cyber.gouv.fr/statistiques
 sponsors:
   - /organisations/anssi
 ---
-## L'enjeu
+# L'enjeu
 
 L’ANSSI est appelée à accompagner un nombre toujours plus important de bénéficiaires, notamment dans la perspective de l'entrée en vigueur de la directive NIS2 : c’est pourquoi l’Agence repense ses modes d’action et ses outils en étant à l’écoute des attentes des bénéficiaires. 
 
 Plateforme de l’offre de services de l’ANSSI, MesServicesCyber est destiné à faciliter l'accompagnement de l'ensemble des entités publiques, privées et associatives dans leur montée en maturité cyber.
 
-## La solution
+# La solution
 
-Innovation incubée par le [Lab de l’ANSSI](https://beta.gouv.fr/incubateurs/lab-innov-anssi), MesServicesCyber a été pensé en vue d'**aider l'ensemble des entités publiques et privées à renforcer leur maturité cyber en facilitant la découverte des services et ressources proposés par l’ANSSI et ses partenaires, en fonction de leurs besoins et de leur maturité** .
+Pour faire face à la montée en puissance de ces cyberattaques, l'Agence nationale de la sécurité des systèmes d'information (ANSSI) a mis en place MesServicesCyber, la plateforme publique et gratuite pour aider concrètement entreprises, collectivités et associations à se protéger contre les risques cyber.
 
-Pour cela, MesServicesCyber propose
-   * **Une ressourcerie de solutions cyber personnalisées** incluant
-        * Un catalogue complet de services et ressources proposés par l’ANSSI et certains partenaires publics**, organisé autour des besoins cyber (« sensibiliser », « se former », « sécuriser » et « réagir »).
-        * Des **contacts utiles** (cyber et prestataires) adaptés à chaque entité.
-        * Tous les **financements cyber** pour aider les entreprises et entités publiques dans leurs efforts.
-   * **Un test de maturité cyber** permettant une évaluation rapide et indicative du positionnement global d’une organisation sur les enjeux cyber, pouvant être utile à ces dernières pour se positionner ou aux entités chargées de les accompagner afin de proposer des dispositifs d’accompagnement adaptés. **En fonction des résultats du test
-       * **Deux sélections de services et de ressources « pour se lancer » et « pour approfondir ».**
-       * **La possibilité de demander à bénéficier du diagnostic cyberdépart** : diagnostic proposé par l'ANSSI, adapté aux entités les moins matures, accompagné par un Aidant cyber, à distance ou en présentiel, permettant d'identifier des actions concrètes et simples à mettre en œuvre. 
-   * **Une sélection de services et ressources pour les entités régulées par la directive NIS 2**, organisée autour des grandes obligations prévues par la directive (« s’informer », « s’enregistrer », « gérer les risques », « déclarer les incidents »).
+### 🎲 Des tests pédagogiques
 
-MesServicesCyber propose également :
-* **Un accès authentifié, prenant appui sur [ProConnect](https://www.proconnect.gouv.fr/)**, permettant aux utilisateurs de conserver leurs services et ressources favoris, d’accéder à la liste des services numériques qu’ils utilisent déjà,  et de retrouver les résultats de leur test de maturité et une liste de contacts utiles..
-* **Un bouton d’aide et un service support en ligne** qui sera progressivement accessible depuis d'autres services numériques de l'ANSSI.
+Pour aider les dirigeant(e)s et tous les responsables au sein des organisations à prendre conscience de la nécessité de se préoccuper des risques cyber et de passer l'action, MesServicesCyber propose tout d'abord des [tests cyber gratuits](https://messervices.cyber.gouv.fr/faire-le-test) et ludiques en ligne :
+
+* Un test de maturité cyber pour découvrir en 3mn le niveau de maturité de son organisation sur les questions cyber.
+* Un quiz "vrai faux" sur la menace cyber
+* Un test d'exposition aux cyberattaques pour découvrir à quels risques cyber une organisation est exposée.
+* Une simulation de crise cyber en ligne : choisissez un rôle et testez vos réflexes face à une crise d'origine cyber !
+
+### 🚀 Un parcours de cybersécurité en ligne
+
+Au coeur de MesServicesCyber, pour les organisations ayant décidé de passer à l'action, l'ANSSI propose désormais un **parcours de cybersécurité** en ligne : un programme gratuit destiné à toutes les organisations, qu'elles partent de zéro en matière de cybersécurité ou qu'elles ait déjà commencé à se mettre en ordre de marche et souhaitent approfondir leurs efforts.
+
+Le parcours de cybersécurité s'articule autour de 2 niveaux :
+
+* **Le [niveau cyberdépart](https://messervices.cyber.gouv.fr/parcours-cyberdepart) adapté aux entités les moins matures en cybersécurité et qui souhaitent agir mais ne savent pas par où commencer**
+  * Accessible 
+    * directement en ligne, permettant de découvrir 12 actions simples et immédiatement actionnables accessibles en ligne en 1 clic.
+    * ou en commençant par un échange d'1h gratuit avec un Aidant cyber bénévole en demandant à bénéficier du diagnostic cyberdépart.
+  * Permettant à une entité de valider son "cyberdépart" au bout de 6 mesures déclarées : marqueur de son passage à l'action et de son engagement pour la cybersécurité de leur organisation.
+* **[Le parcours cyber complet](https://messervices.cyber.gouv.fr/parcours-securisation-complet), allant au-delà du premier niveau, avec +50 mesures pour aider les organisations à se protéger contre 5 risques cyber les plus courants.**
+  * Adapté  parcours est également adapté aux organisations concernées par la directive NIS 2 puisqu'il prend appui sur le Référentiel Cyber France (ReCyF), créé pour faciliter leur mise en conformité. Chaque mesure précise sa correspondance avec les exigences NIS2 lorsque c'est pertinent.
+
+### 📚 D'autres ressources utiles sur MesServicesCyber
+
+Au-delà du parcours de cybersécurité, MesServicesCyber accompagne plus globalement les organisations en leur proposant un accès personnalisé :
+* les **guides et recommandations de l'ANSSI**
+* aux **financements cyber** disponibles pour soutenir leurs efforts ;
+* aux **contacts utiles** de proximité pour les orienter ou les assister en cas d'incident (dont le 17Cyber).
+* aux **prestataires** certifiés et labelisés par l'Etat
+
+ **⚖️** Un **[espace dédié aux entités concernées par la directive NIS 2](https://messervices.cyber.gouv.fr/nis2)** qui les guide dans la prise en compte des exigences fixées par la directive.
+
 
 ## L'impact
 
-En termes d'impact, MesServicesCyber contribuera à aider toutes les entités publiques et privées à renforcer leur maturité cyber et en particulier les entités régulées par la directive NIS2, que MesServicesCyber va aider à se placer sur le chemin de la mise en conformité.
+En termes d'impact, MesServicesCyber contribue à aider toutes les entités publiques et privées à renforcer leur maturité cyber et en particulier les entités régulées par la directive NIS2, que MesServicesCyber va aider à se placer sur le chemin de la mise en conformité.
 
 MesServicesCyber va continuer à évoluer afin d'enrichir l'expérience des entités bénéficiaires soutenues par l'Etat dans le renforcement de leur cybersécurité et faciliter leur accompagnement par les acteurs de l'écosystème engagés dans le renforcement de la sécurité numérique.
 

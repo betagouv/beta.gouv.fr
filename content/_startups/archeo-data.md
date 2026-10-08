@@ -16,17 +16,16 @@ sponsors:
   - /organisations/mc
 phases:
   - name: investigation
-    comment: null
     start: 2026-02-02
-    end: null
 events:
   - name: committee
+    date: 2026-05-04
     comment: |
       Comité de fin d'investigation
-    date: 2026-05-04
   - name: committee
-    comment: Comité d'investissement suite à la pré-construction
     date: 2026-11-27
+    comment: Comité d'investissement suite à la pré-construction
+link: ''
 ---
 
 ## Contexte

@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2026-09-28
     end: 2028-09-01
-    employer: DLPAJ
     status: admin
+    employer: DLPAJ
     startups:
       - astree
-teams: []
 ---

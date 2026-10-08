@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2015-05-01
-    end: 2019-06-30
+    end: 2027-12-30
     status: admin
     employer: Pole emploi
     startups:
@@ -24,5 +24,6 @@ competences:
   - Intrapreneur(se)
   - Product strategy
 link: https://www.linkedin.com/in/eric-barthélémy-intrapreneur
+github: Eric54800
 ---
 Un leitmotiv: Mon action permet-elle à un demandeur d’emploi de retrouver un travail ?

@@ -11,4 +11,5 @@ missions:
     employer: Crème de la crème
     startups:
       - mes-services-cyber
+link: https://www.linkedin.com/in/pierre-vernier/
 ---

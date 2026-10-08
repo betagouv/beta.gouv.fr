@@ -2,7 +2,10 @@
 fullname: Sarah Azens
 role: Chargée de déploiement
 domaine: Déploiement
-competences: []
+competences:
+  - Communication
+  - Croissance
+  - Product strategy
 missions:
   - start: 2025-01-06
     end: 2027-02-28

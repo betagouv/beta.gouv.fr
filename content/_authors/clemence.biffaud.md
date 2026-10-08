@@ -17,7 +17,7 @@ missions:
     startups:
       - je-deviens-etudiant
   - start: 2025-12-02
-    end: 2026-10-30
+    end: 2027-01-30
     status: independent
     employer: NUMA
     startups:
