@@ -12,4 +12,6 @@ missions:
     employer: octo
     startups:
       - mes-services-cyber
+teams:
+  - /teams/anssi
 ---

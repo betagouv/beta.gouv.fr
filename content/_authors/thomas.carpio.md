@@ -7,9 +7,7 @@ competences:
 missions:
   - start: 2026-10-07
     end: 2027-01-29
-    employer: MEAE
     status: admin
-    startups: []
-teams: []
+    employer: MEAE
 ---
 Conseiller enjeux globaux à Dakar

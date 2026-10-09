@@ -9,7 +9,7 @@ competences:
   - Communication
 missions:
   - start: 2026-06-08
-    end: 2026-11-06
+    end: 2027-03-26
     status: independent
     employer: DJEPVA
     startups:

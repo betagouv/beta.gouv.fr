@@ -14,4 +14,6 @@ missions:
     startups:
       - mes-services-cyber
 github: jomad97
+teams:
+  - /teams/anssi
 ---

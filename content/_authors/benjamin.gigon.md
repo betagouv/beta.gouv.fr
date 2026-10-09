@@ -15,4 +15,6 @@ missions:
       - mon-aide-cyber
       - nis2
       - recocyber
+teams:
+  - /teams/anssi
 ---

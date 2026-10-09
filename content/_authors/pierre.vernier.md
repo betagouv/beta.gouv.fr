@@ -12,4 +12,6 @@ missions:
     startups:
       - mes-services-cyber
 link: https://www.linkedin.com/in/pierre-vernier/
+teams:
+  - /teams/anssi
 ---

@@ -14,7 +14,7 @@ sponsors:
   - /organisations/conseil-d-etat
 phases:
   - name: investigation
-    start: 2026-09-28
+    start: 2026-10-05
 events:
   - name: product_launch
     date: 2026-07-10

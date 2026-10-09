@@ -22,7 +22,7 @@ techno:
   - react
 stats_url: https://metabase.mon-indemnisation.anje-justice.fr/public/dashboard/fee3713d-0a50-4b3c-8dd5-1ecea851e1a2
 contact_dinum: julie.guyot
-impact_url: https://fichiers.numerique.gouv.fr/explorer/items/files/74bae4f4-e329-41d3-8ce1-ef5e8f406e4c
+impact_url: https://docs.numerique.gouv.fr/docs/8e952508-c09b-473a-9c0c-95390957876c/
 ---
 ## Contexte
 

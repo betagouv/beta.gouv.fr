@@ -55,4 +55,6 @@ previously:
 badges:
   - segur
 competences: []
+teams:
+  - /teams/anssi
 ---
