@@ -1,6 +1,6 @@
 ---
 fullname: Jérôme Desboeufs
-role: Coach tech
+role: Lead dev
 domaine: Développement
 github: jdesboeufs
 missions:
@@ -80,4 +80,3 @@ competences:
   - JavaScript/TypeScript
   - Product strategy
 ---
-Repenser l'administration avec le numérique pour améliorer le service public
