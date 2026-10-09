@@ -13,7 +13,5 @@ missions:
     startups:
       - cyber-en-jeux
       - demain-specialiste-cyber
-teams:
-  - /teams/anssi
 ---
 Chargé de mission cybersécurité, IA et esport à la sous direction de l'innovation, de la formation et des ressources à la Direction générale de l'enseignement scolaire (DGESCO - MENESR)

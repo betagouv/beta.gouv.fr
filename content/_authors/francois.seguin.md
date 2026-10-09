@@ -5,7 +5,7 @@ role: Engineering Manager
 github: francois-seguin
 missions:
   - start: 2020-10-01
-    end: 2026-12-31
+    end: 2027-06-30
     status: admin
     startups:
       - pass-culture
@@ -14,5 +14,7 @@ competences:
   - Développement Backend
   - PostgreSQL
   - Python
+  - DevOps
+  - Sécurité informatique
 link: https://www.linkedin.com/in/fseguin/
 ---

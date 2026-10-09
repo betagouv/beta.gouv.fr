@@ -12,6 +12,11 @@ missions:
     startups:
       - demain-specialiste-cyber
       - homologation
-      - mes-services-cyber
       - recocyber
+  - start: 2026-07-20
+    end: 2026-10-09
+    status: service
+    employer: Crème de la crème
+    startups:
+      - mes-services-cyber
 ---
