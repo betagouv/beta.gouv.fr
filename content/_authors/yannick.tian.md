@@ -7,7 +7,7 @@ link: https://www.linkedin.com/in/yannick-tian
 competences: []
 missions:
   - start: 2026-07-24
-    end: 2026-10-24
+    end: 2027-01-01
     status: independent
     employer: Crème de la crème
 ---

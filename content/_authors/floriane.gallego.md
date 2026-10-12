@@ -8,13 +8,13 @@ competences:
   - Croissance
 missions:
   - start: 2025-03-24
-    end: 2026-10-09
+    end: 2026-11-13
     status: independent
     employer: Octo
     startups:
       - mes-services-cyber
   - start: 2025-03-24
-    end: 2026-10-30
+    end: 2026-11-13
     status: independent
     employer: Octo
     startups:

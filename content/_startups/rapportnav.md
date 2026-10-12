@@ -15,7 +15,8 @@ phases:
     start: 2022-08-16
 thematiques:
   - Mer
-usertypes: []
+usertypes:
+  - etat
 techno: []
 link: ''
 ---

@@ -10,6 +10,12 @@ missions:
     employer: DNUM
     startups:
       - mon-suivi-justice
+  - start: 2026-09-14
+    end: 2027-03-15
+    status: admin
+    employer: DNUM
+    startups:
+      - precontentieux.justice
 teams:
   - /teams/justice
 competences:

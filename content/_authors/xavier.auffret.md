@@ -6,10 +6,11 @@ competences:
   - Product design
 missions:
   - start: 2021-10-17
-    end: 2026-11-30
+    end: 2027-03-31
     status: service
     employer: Malt
     startups:
       - monitorfish
       - rapportnav
+github: xauffret
 ---

@@ -13,7 +13,5 @@ missions:
       - faritas
 memberType: beta
 competences: []
-teams:
-  - /teams/fabrique-dgfip-responsable-de-portefeuille
 ---
 Coach Produit & Tech
