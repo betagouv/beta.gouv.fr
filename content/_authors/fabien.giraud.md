@@ -10,6 +10,11 @@ missions:
     employer: Omnicité
     startups:
       - homologation
+  - start: 2024-03-19
+    end: 2026-10-09
+    status: independent
+    employer: Omnicité
+    startups:
       - mes-services-cyber
   - start: 2026-07-10
     end: 2026-10-10

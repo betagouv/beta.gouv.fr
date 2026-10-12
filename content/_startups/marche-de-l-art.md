@@ -12,13 +12,11 @@ sponsors:
   - /organisations/mc
 phases:
   - name: investigation
-    comment: null
     start: 2026-09-17
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-09-17
+link: ''
 ---
 ## Contexte
 

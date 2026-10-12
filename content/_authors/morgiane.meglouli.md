@@ -36,4 +36,3 @@ missions:
     startups:
       - etat-sanitaire-des-monuments-historiques-en-mobilite
 ---
-Coach produit passionnée par les sujets à impact 

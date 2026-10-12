@@ -9,8 +9,13 @@ missions:
     employer: Omnicité
     startups:
       - homologation
-      - mes-services-cyber
       - mon-aide-cyber
+  - start: 2022-09-26
+    end: 2026-10-09
+    status: independent
+    employer: Omnicité
+    startups:
+      - mes-services-cyber
 badges:
   - segur
 competences: []
