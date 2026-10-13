@@ -26,6 +26,8 @@ events:
     date: 2026-11-27
     comment: Comité d'investissement suite à la pré-construction
 link: ''
+redirect_from:
+  - /startups/archeo-data
 ---
 
 ## Contexte
