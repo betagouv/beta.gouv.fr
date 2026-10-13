@@ -42,7 +42,7 @@ missions:
     status: independent
     employer: Dynergie
     startups:
-      - archeo-data
+      - archeodonnees
   - start: 2026-05-07
     end: 2026-12-31
     status: independent
