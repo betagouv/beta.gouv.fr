@@ -21,7 +21,7 @@ missions:
     startups:
       - aidantsconnect
   - start: 2025-09-03
-    end: 2026-10-31
+    end: 2026-01-31
     status: independent
     employer: Doctapost
     startups:
