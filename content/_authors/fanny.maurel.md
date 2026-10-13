@@ -9,8 +9,13 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - codedutravail
       - impact.co2
       - nosgestesclimat
+  - start: 2026-09-01
+    end: 2027-01-12
+    status: independent
+    employer: Opteamis
+    startups:
+      - codedutravail
 github: Ecolote
 ---

@@ -6,7 +6,7 @@ link: https://linkedin.com/in/julielaffitte
 competences: []
 missions:
   - start: 2026-07-09
-    end: 2026-10-09
+    end: 2027-04-09
     status: service
     employer: DOCAPOSTE LA MANUFACTURE
 ---

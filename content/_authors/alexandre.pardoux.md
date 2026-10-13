@@ -1,6 +1,6 @@
 ---
 fullname: Alexandre  Pardoux
-role: Intrapreneur de Rapport Nav
+role: 'Intrapreneur '
 domaine: Intraprenariat
 competences: []
 missions:

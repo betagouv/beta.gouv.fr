@@ -5,7 +5,7 @@ domaine: Autre
 competences: []
 missions:
   - start: 2025-11-12
-    end: 2026-12-31
+    end: 2027-02-28
     status: independent
     employer: DINUM
     startups:

@@ -10,7 +10,7 @@ missions:
     startups:
       - snu
   - start: 2025-10-02
-    end: 2026-10-30
+    end: 2027-03-31
     status: independent
     employer: Malt
     startups:
@@ -22,7 +22,7 @@ missions:
     startups:
       - ma-cantine-egalim
   - start: 2026-06-10
-    end: 2026-11-10
+    end: 2027-03-31
     status: independent
     employer: Malt
     startups:
