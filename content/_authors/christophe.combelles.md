@@ -8,7 +8,7 @@ missions:
   - start: 2023-01-01
     end: 2026-12-24
     status: independent
-    employer: Pathtech
+    employer: 'Malt '
     startups:
       - ecobalyse
 memberType: beta
