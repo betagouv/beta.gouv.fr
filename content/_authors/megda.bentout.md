@@ -10,15 +10,7 @@ missions:
     status: independent
     employer: Plateforme de l'inclusion
     startups:
-      - dora
-      - pilotage.de.linclusion
-      - rdv.insertion
-  - start: 2023-01-09
-    end: 2026-10-05
-    status: independent
-    employer: Plateforme de l'inclusion
-    startups:
-      - mon-recap
+      - la-plateforme-de-l-inclusion-produit-unifie
 memberType: beta
 competences: []
 ---

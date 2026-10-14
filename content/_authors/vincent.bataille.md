@@ -36,7 +36,7 @@ missions:
     startups:
       - data.gouv.fr
   - start: 2025-02-11
-    end: 2026-10-31
+    end: 2026-12-31
     status: independent
     employer: Dynergie
     startups:

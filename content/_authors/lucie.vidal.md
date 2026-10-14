@@ -17,7 +17,7 @@ missions:
     startups:
       - anais
   - start: 2025-07-01
-    end: 2026-11-01
+    end: 2027-04-01
     status: independent
     employer: Malt
 memberType: autre

@@ -15,10 +15,9 @@ competences:
 missions:
   - start: 2026-10-01
     end: 2027-01-15
-    employer: Ministère de l'Intérieur
     status: admin
+    employer: Ministère de l'Intérieur
     startups:
       - m-ir-ai
-teams: []
 ---
 Experte en intrapreneuriat (création de différents programmes), j'aide à détecter et accompagner les innovations
