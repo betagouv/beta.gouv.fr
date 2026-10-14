@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/laura-pedeau/
 competences: []
 missions:
   - start: 2025-09-23
-    end: 2026-11-30
+    end: 2026-10-16
     status: independent
     employer: MALT
     startups:

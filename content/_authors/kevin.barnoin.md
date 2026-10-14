@@ -4,7 +4,7 @@ role: Lead Développeur
 domaine: Développement
 github: kevbarns
 missions:
-  - start: 2020-02-06
+  - start: 2020-06-01
     end: 2027-03-31
     status: independent
     startups:

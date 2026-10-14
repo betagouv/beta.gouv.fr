@@ -9,7 +9,7 @@ competences:
   - PostgreSQL
 missions:
   - start: 2024-08-12
-    end: 2027-03-08
+    end: 2027-04-13
     status: independent
     employer: Creme de la creme
 teams:

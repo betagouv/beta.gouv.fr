@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2026-10-12
     end: 2027-04-12
-    employer: MALTxTHEODO
     status: independent
+    employer: MALTxTHEODO
     startups:
       - jeveuxaider
-teams: []
 ---
