@@ -13,7 +13,7 @@ missions:
       - les-emplois
       - pilotage.de.linclusion
   - start: 2026-05-05
-    end: 2026-11-12
+    end: 2027-01-30
     status: independent
     employer: La Zone
     startups:

@@ -25,11 +25,15 @@ missions:
     startups:
       - deveco
   - start: 2025-12-10
-    end: 2026-12-02
+    end: 2026-10-15
     status: independent
     employer: Malt
     startups:
       - france-numerique-ensemble
+  - start: 2025-12-10
+    end: 2026-12-02
+    status: independent
+    employer: Malt
 competences:
   - Développement Backend
 ---

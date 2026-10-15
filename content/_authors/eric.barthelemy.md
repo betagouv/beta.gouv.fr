@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2015-05-01
-    end: 2027-12-30
+    end: 2019-06-30
     status: admin
     employer: Pole emploi
     startups:
@@ -12,11 +12,17 @@ missions:
       - la-bonne-boite
       - memo
   - start: 2019-07-01
-    end: 2026-07-01
+    end: 2026-06-30
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:
       - les-emplois
+  - start: 2026-07-01
+    end: 2026-12-31
+    status: admin
+    employer: France Travail
+    startups:
+      - match-europe
 competences:
   - Administration Publique
   - Coaching

@@ -8,9 +8,9 @@ competences:
   - Facilitation
 missions:
   - start: 2025-07-01
-    end: 2026-10-30
+    end: 2027-03-30
     status: independent
-    employer: Malt
+    employer: Mon equipe produit
     startups:
       - precontentieux.justice
 link: https://www.linkedin.com/in/dounia-/
