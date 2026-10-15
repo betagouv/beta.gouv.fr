@@ -61,6 +61,8 @@ phases:
     start: 2019-06-10
   - name: acceleration
     start: 2020-07-10
+  - name: consolidation
+    start: 2026-09-01
 events:
   - name: national_impact
     date: 2021-12-31
@@ -128,3 +130,7 @@ L'ambition est de proposer une solution numérique intégrée permettant de leve
 
 > « Pour l'insertion par l'activité économique, nous porterons à 240 000 le nombre de contrats, il y en a aujourd'hui 140 000.»
 > Emmanuel Macron, Président de la République, Présentation de la stratégie nationale de prévention et de lutte contre la pauvreté, 13 septembre 2018
+
+## Évolution vers l'intégration d'autres services et produits de La plateforme de l'inclusion 
+
+A partir de septembre 2026, Les Emplois de l'inclusion prennent une nouvelle dimension et deviennent La plateforme de l'inclusion (produit unifié). Cf. la nouvelle fiche produit.

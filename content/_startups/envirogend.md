@@ -104,5 +104,5 @@ Au 2e semestre 2025, un déploiement plus large à une dizaine de départements 
 
 Au 1er semestre 2026, nous cherchons à poursuivre la construction du produit (fonctionnalités complémentaires pour l'aide à la rédaction de procédures administratives, agent IA, etc.) et son déploiement progressif à l'échelle nationale.
 
-**Impact au 30 juin 2026 :** 545 procédures réalisées, 26.280€ d'amendes prononcées, 558m3 de dépôts nettoyés, 264 collectivités utilisatrices. 
+**Impact au 15 octobre 2026 :** 1508 procédures réalisées, 315.507€ d'amendes prononcées, 1095m3 de dépôts nettoyés (soit environ 900.000€ économisés), 666 collectivités utilisatrices. 
 
