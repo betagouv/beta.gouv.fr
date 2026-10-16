@@ -14,6 +14,10 @@ missions:
     end: 2027-10-28
     status: admin
     employer: GIP Plateforme de l'Inclusion
+  - start: 2024-10-28
+    end: 2026-10-13
+    status: admin
+    employer: GIP Plateforme de l'Inclusion
     startups:
       - les-emplois
 teams:
