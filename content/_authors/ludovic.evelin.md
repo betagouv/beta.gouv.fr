@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/ludovicevelin/
 competences: []
 missions:
   - start: 2026-07-28
-    end: 2026-11-15
+    end: 2026-11-30
     status: independent
     employer: Malt
     startups:
