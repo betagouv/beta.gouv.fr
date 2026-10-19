@@ -25,6 +25,7 @@ missions:
       - tchap
   - start: 2025-01-30
     end: 2026-10-31
+    end: 2026-10-18
     status: service
     employer: Scop&co
     startups:
