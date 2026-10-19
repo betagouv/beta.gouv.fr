@@ -13,4 +13,4 @@ missions:
     startups:
       - annuaire-entreprises
 ---
-Freelance Chargée de Support  depuis avril 2019 
+ 

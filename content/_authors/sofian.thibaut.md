@@ -11,7 +11,7 @@ missions:
     startups:
       - mon-diagnostic-artificialisation
   - start: 2026-04-20
-    end: 2026-11-18
+    end: 2027-03-30
     status: independent
     employer: Cober
     startups:

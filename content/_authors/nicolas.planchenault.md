@@ -10,7 +10,7 @@ missions:
     startups:
       - ecobalyse
   - start: 2026-01-01
-    end: 2026-12-31
+    end: 2027-03-31
     status: independent
     employer: Ademe
     startups:

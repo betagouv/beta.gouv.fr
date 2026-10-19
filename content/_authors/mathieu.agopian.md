@@ -36,7 +36,7 @@ missions:
     startups:
       - ami
   - start: 2026-07-01
-    end: 2026-11-30
+    end: 2027-01-19
     status: independent
     employer: Groupe Scalian (Skills & Affinity)
     startups:

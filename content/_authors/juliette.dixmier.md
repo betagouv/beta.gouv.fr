@@ -17,11 +17,17 @@ missions:
     startups:
       - eimis
   - start: 2024-06-01
-    end: 2026-12-02
+    end: 2027-03-30
+    status: independent
+    employer: Scopyleft
+    startups:
+      - sites-faciles
+  - start: 2026-09-01
+    end: 2027-02-28
     status: independent
     employer: Malt
     startups:
-      - sites-faciles
+      - aides.jeunes
 badges:
   - segur
 competences: []

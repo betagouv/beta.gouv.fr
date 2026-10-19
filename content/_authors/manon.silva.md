@@ -29,7 +29,7 @@ missions:
     startups:
       - pacoupa
   - start: 2024-11-18
-    end: 2026-12-01
+    end: 2027-03-31
     status: independent
     employer: Malt / Crème de la crème
     startups:

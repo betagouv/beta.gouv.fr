@@ -27,6 +27,10 @@ missions:
     end: 2026-10-31
     status: independent
     employer: Scopopop
+  - start: 2025-09-08
+    end: 2026-10-19
+    status: independent
+    employer: Scopopop
     startups:
       - gestion.subventions.locales
 memberType: beta

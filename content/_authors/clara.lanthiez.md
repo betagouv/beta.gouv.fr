@@ -11,6 +11,12 @@ missions:
     employer: Scopyleft
     startups:
       - lannuaire.des.collectivites
+  - start: 2023-02-01
+    end: 2023-03-31
+    status: independent
+    employer: Little Big Connection
+    startups:
+      - mistral-penal
   - start: 2025-01-06
     end: 2026-12-31
     status: independent
@@ -21,4 +27,5 @@ competences:
   - Product design
   - UI
   - UX
+  - Design de service
 ---

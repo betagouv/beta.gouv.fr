@@ -18,4 +18,4 @@ missions:
       - aplus
 competences: []
 ---
-Expérience et interface utilisateur, UX writing, accessibilité.
+Expérience et interface utilisateur, UX writing, accessibilité, CSM.

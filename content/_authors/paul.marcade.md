@@ -11,9 +11,11 @@ missions:
     startups:
       - a-just
   - start: 2026-06-15
-    end: 2026-12-06
+    end: 2027-04-19
     status: independent
-    employer: Malt
+    employer: MALT
+    startups:
+      - social-numerique-gouv-fr
 previously:
   - mon-suivi-justice
   - anct-pni-38

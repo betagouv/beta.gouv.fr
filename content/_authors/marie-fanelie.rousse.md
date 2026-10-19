@@ -8,7 +8,7 @@ competences:
   - Droit / Affaires juridiques
 missions:
   - start: 2025-06-17
-    end: 2026-10-31
+    end: 2027-05-31
     status: admin
     employer: N/A
     startups:
