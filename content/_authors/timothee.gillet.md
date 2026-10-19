@@ -11,7 +11,12 @@ missions:
     employer: Little Big Connexion
     startups:
       - cartographie.nationale
-      - france-numerique-ensemble
       - les.bases
       - suite.d.outils.des.mediateurs.numeriques
+  - start: 2025-02-03
+    end: 2026-10-15
+    status: independent
+    employer: Little Big Connexion
+    startups:
+      - france-numerique-ensemble
 ---

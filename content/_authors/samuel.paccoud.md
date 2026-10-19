@@ -11,7 +11,5 @@ missions:
     startups:
       - suite-numerique
 memberType: beta
-teams:
-  - /teams/dinum_produits_interministeriels
 ---
 Intrapreneur de la suite numérique.

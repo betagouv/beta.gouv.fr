@@ -22,6 +22,7 @@ events:
 techno: []
 repository: https://github.com/betagouv/nitrates
 link: https://nitrates.beta.gouv.fr/
+stats_url: https://nitrates.beta.gouv.fr/stats/
 ---
 ## Contexte
 
