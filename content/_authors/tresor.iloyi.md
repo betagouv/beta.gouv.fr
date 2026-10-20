@@ -8,7 +8,7 @@ competences:
   - Développement Frontend
 missions:
   - start: 2025-07-29
-    end: 2026-11-30
+    end: 2027-01-31
     status: independent
     employer: Omnicité
     startups:

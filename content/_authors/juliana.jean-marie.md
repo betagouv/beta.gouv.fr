@@ -10,6 +10,12 @@ missions:
     employer: Malt
     startups:
       - trackdechets
+  - start: 2026-10-19
+    end: 2027-02-01
+    status: independent
+    employer: Cober
+    startups:
+      - investigation-cour-d-appel-de-paris
 memberType: beta
 previously:
   - trackdechets

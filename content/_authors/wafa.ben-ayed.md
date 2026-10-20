@@ -9,6 +9,10 @@ missions:
     end: 2030-01-31
     status: admin
     employer: Ministère de la Justice
+  - start: 2025-11-17
+    end: 2026-10-19
+    status: admin
+    employer: Ministère de la Justice
     startups:
       - precontentieux.justice
 ---

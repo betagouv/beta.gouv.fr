@@ -6,7 +6,7 @@ competences:
   - Product design
 missions:
   - start: 2024-12-02
-    end: 2026-04-28
+    end: 2027-12-31
     status: admin
     employer: DNUM/DUT
     startups:

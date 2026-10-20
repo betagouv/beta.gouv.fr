@@ -4,7 +4,7 @@ role: Product Manager
 domaine: Produit
 missions:
   - start: 2023-08-29
-    end: 2026-12-01
+    end: 2027-04-16
     status: independent
     employer: La Manufacture / Cober
     startups:

@@ -10,7 +10,7 @@ missions:
     startups:
       - stop-punaises
   - start: 2024-05-21
-    end: 2026-11-30
+    end: 2026-12-31
     status: independent
     employer: Crème de la Crème
     startups:

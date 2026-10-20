@@ -1,6 +1,6 @@
 ---
 fullname: Raphaël Dubigny
-role: Responsable Produit / Développeur
+role: Directeur Technique ProConnect
 domaine: Développement
 github: rdubigny
 missions:

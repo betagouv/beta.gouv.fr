@@ -5,7 +5,7 @@ domaine: Développement
 github: aminedhobb
 missions:
   - start: 2021-04-06
-    end: 2026-11-09
+    end: 2027-04-18
     status: independent
     employer: Malt/GIP Plateforme de l'Inclusion
     startups:

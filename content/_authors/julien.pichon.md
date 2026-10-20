@@ -5,7 +5,7 @@ domaine: Produit
 competences: []
 missions:
   - start: 2026-05-06
-    end: 2026-11-29
+    end: 2027-03-29
     status: independent
     employer: Creme de la creme
     startups:

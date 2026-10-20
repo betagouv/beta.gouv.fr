@@ -5,7 +5,7 @@ domaine: Produit
 github: Delphgateau
 missions:
   - start: 2022-12-20
-    end: 2026-12-31
+    end: 2027-03-31
     status: independent
     employer: Omnicité
     startups:

@@ -49,7 +49,7 @@ missions:
     startups:
       - mon-recap
   - start: 2026-04-01
-    end: 2026-11-30
+    end: 2027-03-30
     status: independent
     employer: Malt
 link: https://www.linkedin.com/in/merzouknassim/

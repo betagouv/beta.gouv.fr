@@ -9,7 +9,7 @@ competences:
   - UX
 missions:
   - start: 2024-12-09
-    end: 2026-12-15
+    end: 2027-01-19
     status: independent
     employer: Omnicité
     startups:

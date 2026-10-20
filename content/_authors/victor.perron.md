@@ -5,12 +5,13 @@ domaine: Développement
 github: vperron
 missions:
   - start: 2022-01-24
-    end: 2026-11-18
-    status: independent
-    employer: Malt
+    end: 2027-04-16
+    status: admin
+    employer: Plateforme de l'Inclusion
     startups:
       - data-inclusion
       - dora
+      - la-plateforme-de-l-inclusion-produit-unifie
       - les-emplois
       - pilotage.de.linclusion
 competences:

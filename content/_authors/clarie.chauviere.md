@@ -11,6 +11,10 @@ missions:
     end: 2026-12-31
     status: independent
     employer: DGCL
+  - start: 2024-09-23
+    end: 2026-10-19
+    status: independent
+    employer: DGCL
     startups:
       - gestion.subventions.locales
 link: https://www.linkedin.com/in/clarie-c/

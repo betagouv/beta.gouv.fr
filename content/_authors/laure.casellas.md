@@ -4,17 +4,17 @@ fullname: Laure Casellas
 role: Animation
 missions:
   - start: 2024-03-25
-    end: 2026-11-17
+    end: 2027-04-09
     status: independent
     employer: ANCT
   - start: 2026-04-25
-    end: 2026-11-17
+    end: 2027-04-09
     status: independent
     employer: ANCT
     startups:
       - aides-territoires
   - start: 2026-04-25
-    end: 2026-11-17
+    end: 2027-04-09
     status: independent
     employer: ANCT
     startups:

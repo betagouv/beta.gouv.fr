@@ -4,7 +4,7 @@ role: Développeur full-stack
 domaine: Développement
 github: Alezco
 missions:
-  - start: 2022-01-01
+  - start: 2019-09-02
     end: 2022-12-31
     status: service
     employer: Octo

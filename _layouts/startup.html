@@ -25,8 +25,11 @@ layout: default
 {% assign split_by_h2 = content | split:'<h2' %}
 {% assign content = split_by_h2 | join: '<h2 class="fr-my-2w fr-mt-3w"' %}
 
-{% assign split_by_p = content | split:'<p' %}
-{% assign content = split_by_p | join: '<p class="fr-my-2w fr-text"' %}
+{% comment %}'<p ' puis '<p>' (et non '<p') pour ne pas toucher <pre>, <path>, <picture>…{% endcomment %}
+{% assign split_by_p = content | split:'<p ' %}
+{% assign content = split_by_p | join: '<p class="fr-my-2w fr-text" ' %}
+{% assign split_by_p = content | split:'<p>' %}
+{% assign content = split_by_p | join: '<p class="fr-my-2w fr-text">' %}
 
 {% assign split_by_ul = content | split:'<ul' %}
 {% assign content = split_by_ul | join: '<ul class="fr-pl-4w"' %}

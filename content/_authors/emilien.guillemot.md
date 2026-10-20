@@ -17,7 +17,7 @@ missions:
     startups:
       - bat-id
   - start: 2023-02-01
-    end: 2026-12-01
+    end: 2026-12-31
     status: independent
     employer: INETUM - LBC
 badges:

@@ -14,7 +14,7 @@ missions:
     status: service
     employer: Octo
   - start: 2026-09-01
-    end: 2026-12-01
+    end: 2027-02-28
     status: service
     employer: Octo
     startups:

@@ -1,5 +1,5 @@
 ---
-fullname: Opale VRAC
+fullname: VRAC
 role: Opératrice de validation
 domaine: Autre
 competences: []

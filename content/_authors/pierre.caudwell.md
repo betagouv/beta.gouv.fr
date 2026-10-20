@@ -9,11 +9,10 @@ competences:
 missions:
   - start: 2025-09-02
     end: 2026-12-31
-    employer: France Travail
     status: service
+    employer: France Travail
     startups:
       - handicompatible
       - profilence
       - travailler.en.france
-teams: []
 ---
