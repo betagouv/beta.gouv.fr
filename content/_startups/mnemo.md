@@ -15,6 +15,8 @@ incubator: culture
 sponsors:
   - /organisations/operateur-du-patrimoine-et-des-projets-immobiliers-de-la-culture
 phases:
+  - name: investigation
+    start: 2026-02-16
   - name: construction
     start: 2026-07-01
 events:

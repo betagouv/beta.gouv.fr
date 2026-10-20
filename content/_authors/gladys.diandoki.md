@@ -12,6 +12,8 @@ missions:
     end: 2026-05-15
     status: independent
     employer: MEAE
+    startups:
+      - ecco
   - start: 2026-05-04
     end: 2026-10-31
     status: independent

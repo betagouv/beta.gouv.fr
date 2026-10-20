@@ -6,9 +6,10 @@ competences:
   - UX
 missions:
   - start: 2026-04-17
-    end: 2026-07-31
+    end: 2027-04-20
     status: independent
     employer: LBC
     startups:
       - partageons-l-eau
+      - refugies.info
 ---
