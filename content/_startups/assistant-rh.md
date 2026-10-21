@@ -16,12 +16,17 @@ phases:
     start: 2025-01-01
   - name: construction
     start: 2025-09-01
+  - name: acceleration
+    start: 2026-11-01
 events:
   - name: product_launch
     date: 2025-09-01
   - name: committee
     date: 2026-02-19
     comment: '1er comité d''investissement : 2ème phase de construction validée '
+  - name: committee
+    date: 2026-10-15
+    comment: '2ème comité d''investissement : généralisation aux SGCD décidée'
 techno:
   - python
 repository: https://github.com/DGAFP/assistant-rh

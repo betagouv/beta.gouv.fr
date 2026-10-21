@@ -1,7 +1,7 @@
 ---
 fullname: Audrey HOUSSAIS
 role: EIG CIO & Relations institutionnelles
-domaine: Déploiement
+domaine: Intraprenariat
 link: https://www.linkedin.com/in/audrey-houssais/
 github: AudreyH49
 missions:

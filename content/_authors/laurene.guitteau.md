@@ -1,6 +1,6 @@
 ---
 fullname: Laurene Guitteau
-role: Designer de Service @Partageonsl'eau
+role: Designer de Service @Refugiés.info
 domaine: Design
 competences:
   - UX
@@ -11,4 +11,10 @@ missions:
     employer: LBC
     startups:
       - partageons-l-eau
+  - start: 2026-10-14
+    end: 2027-01-21
+    status: independent
+    employer: '--'
+    startups:
+      - refugies.info
 ---

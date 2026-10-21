@@ -6,17 +6,17 @@ link: https://www.linkedin.com/in/timotheegillet/
 competences: []
 missions:
   - start: 2025-02-03
-    end: 2026-12-31
+    end: 2026-10-31
     status: independent
-    employer: Little Big Connexion
+    employer: Malt
     startups:
       - cartographie.nationale
       - les.bases
       - suite.d.outils.des.mediateurs.numeriques
   - start: 2025-02-03
-    end: 2026-10-15
+    end: 2026-10-31
     status: independent
-    employer: Little Big Connexion
+    employer: Malt
     startups:
       - france-numerique-ensemble
 ---

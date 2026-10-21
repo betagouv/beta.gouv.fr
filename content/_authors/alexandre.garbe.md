@@ -5,7 +5,7 @@ domaine: Développement
 github: agarbe
 missions:
   - start: 2022-12-07
-    end: 2026-11-30
+    end: 2027-02-28
     status: independent
     employer: OPTEAMIS
     startups:

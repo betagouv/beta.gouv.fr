@@ -44,7 +44,7 @@ missions:
     startups:
       - simul-nr
   - start: 2026-04-22
-    end: 2026-07-22
+    end: 2026-12-22
     status: admin
     employer: DGFIP
     startups:

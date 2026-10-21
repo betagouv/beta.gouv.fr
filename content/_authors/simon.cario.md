@@ -1,6 +1,6 @@
 ---
 fullname: Simon Cario
-role: Designer, chef de projet UX et incubation
+role: 'Co-responsable de l''Atelier numérique du MEAE '
 domaine: Animation
 link: https://linkedin.com/in/simon-cario
 competences:

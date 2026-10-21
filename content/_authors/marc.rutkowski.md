@@ -10,5 +10,7 @@ missions:
     employer: Octo/Malt
     startups:
       - territoires-en-transitions
-competences: []
+competences:
+  - Développement Full-stack
+  - JavaScript/TypeScript
 ---
