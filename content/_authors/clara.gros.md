@@ -7,8 +7,6 @@ competences: []
 missions:
   - start: 2026-10-19
     end: 2027-01-19
-    employer: OCTO
     status: service
-    startups: []
-teams: []
+    employer: OCTO
 ---

@@ -2,7 +2,7 @@
 mission: Aide au contrôle frontière
 incubator: dinum
 title: ANDV - Aérien
-contact: axel.privey@interieur.gouv.fr
+contact: contact@beta.gouv.fr
 accessibility_status: non conforme
 sponsors:
   - /organisations/sndv

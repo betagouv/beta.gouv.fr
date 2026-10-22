@@ -17,7 +17,7 @@ missions:
     startups:
       - ma-cantine-egalim
   - start: 2025-10-14
-    end: 2026-11-08
+    end: 2026-11-13
     status: independent
     employer: Crème de la Crème
     startups:

@@ -4,7 +4,7 @@ fullname: Margot Gillette
 role: Co-chef de projet et designer de service
 missions:
   - start: 2021-03-01
-    end: 2026-11-30
+    end: 2027-04-20
     status: service
     employer: DIAIR / DIAN
     startups:

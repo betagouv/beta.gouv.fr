@@ -7,7 +7,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-05-01
-    end: 2026-10-30
+    end: 2026-11-15
     status: admin
     employer: ANCT
     startups:
