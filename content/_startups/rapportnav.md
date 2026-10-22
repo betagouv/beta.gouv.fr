@@ -18,6 +18,7 @@ thematiques:
 usertypes:
   - etat
 techno: []
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4
 link: ''
 ---
 ## Contexte

@@ -14,10 +14,9 @@ competences:
 missions:
   - start: 2026-10-20
     end: 2027-01-31
-    employer: Cober
     status: independent
+    employer: Cober
     startups:
       - investigation-cour-d-appel-de-paris
-teams: []
 ---
 Développeur et fan de la tech.

@@ -9,9 +9,8 @@ competences:
 missions:
   - start: 2026-10-19
     end: 2027-03-19
-    employer: Fabnum du MTE
     status: admin
+    employer: Fabnum du MTE
     startups:
       - transport
-teams: []
 ---

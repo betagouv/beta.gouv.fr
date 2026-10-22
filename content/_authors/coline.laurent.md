@@ -2,7 +2,7 @@
 fullname: Coline LAURENT
 role: Chargée de déploiement
 domaine: Déploiement
-link: https://collectif-encore.collective.work/
+link: https://www.linkedin.com/in/coline-laurent-encore-project/
 missions:
   - start: 2024-01-08
     end: 2026-12-31
@@ -11,5 +11,11 @@ missions:
     startups:
       - quefairedemesobjetsetdechets
 memberType: beta
-competences: []
+competences:
+  - Communication
+  - Croissance
+  - Déploiement
+  - Stratégie marketing
+  - Economie Circulaire
+  - Rédaction
 ---

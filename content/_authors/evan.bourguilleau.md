@@ -6,9 +6,8 @@ competences: []
 missions:
   - start: 2026-10-01
     end: 2027-01-21
-    employer: MTE
     status: admin
+    employer: MTE
     startups:
       - boris
-teams: []
 ---

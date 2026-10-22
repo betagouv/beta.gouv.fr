@@ -7,9 +7,8 @@ competences: []
 missions:
   - start: 2026-10-26
     end: 2027-05-13
-    employer: X
     status: admin
+    employer: X
     startups:
       - aidantsconnect
-teams: []
 ---
