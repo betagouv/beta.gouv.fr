@@ -1,0 +1,47 @@
+name: Approbation des exports de l'espace membre
+
+# Chaque soir de semaine, secretariat-bot ouvre une PR auto/changes-* avec
+# les fiches exportées depuis l'espace membre (src/scripts/export-to-www.sh
+# dans betagouv/espace-membre-next) et active son auto-merge. Ce workflow
+# apporte l'approbation requise sur master : la PR se merge seule dès que
+# le check `test` est vert.
+
+on:
+  pull_request:
+    branches: [ master ]
+    types: [ opened, reopened, synchronize ]
+
+permissions:
+  contents: read
+
+jobs:
+  approve:
+    if: >-
+      github.event.pull_request.user.login == 'secretariat-bot'
+      && github.actor == 'secretariat-bot'
+      && github.event.pull_request.head.repo.full_name == github.repository
+      && startsWith(github.head_ref, 'auto/changes-')
+    permissions:
+      pull-requests: write
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Vérifier que la PR ne touche que content/
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          hors_content=$(gh api --paginate "repos/$GITHUB_REPOSITORY/pulls/$PR_NUMBER/files" \
+            --jq '.[] | .filename, (.previous_filename // empty)' | grep -v '^content/' || true)
+          if [ -n "$hors_content" ]; then
+            echo "Fichiers hors de content/, pas d'approbation automatique :"
+            echo "$hors_content"
+            exit 1
+          fi
+
+      - name: Approuver la PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          gh pr review "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --approve \
+            --body "Export automatique de l'espace membre, approuvé par la CI."
