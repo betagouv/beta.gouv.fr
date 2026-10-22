@@ -12,7 +12,7 @@ missions:
     startups:
       - tchap
   - start: 2026-01-08
-    end: 2026-11-20
+    end: 2027-04-21
     status: independent
     employer: /ut7
     startups:

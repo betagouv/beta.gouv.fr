@@ -29,3 +29,4 @@ competences:
   - UX
   - Design de service
 ---
+Intérêt général et design responsable
