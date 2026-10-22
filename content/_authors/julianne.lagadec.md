@@ -28,13 +28,13 @@ missions:
     startups:
       - pass-sport
   - start: 2026-07-27
-    end: 2026-10-31
+    end: 2026-12-31
     status: service
     employer: Numa
     startups:
       - enjeu-biodiversite-parc-naturel-marin
   - start: 2026-08-17
-    end: 2026-12-03
+    end: 2026-12-31
     status: service
     employer: Crème de la crème
     startups:

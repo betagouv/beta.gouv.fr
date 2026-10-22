@@ -18,4 +18,5 @@ missions:
     startups:
       - codedutravail
 github: Ecolote
+link: https://rusee.fr/
 ---

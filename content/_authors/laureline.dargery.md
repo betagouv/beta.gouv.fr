@@ -5,11 +5,10 @@ domaine: Autre
 link: https://www.linkedin.com/in/laureline-dargery/
 competences:
   - Communication
-  - Intrapreneur(se)
   - Facilitation
 missions:
   - start: 2026-06-29
-    end: 2027-01-31
+    end: 2027-01-30
     status: independent
     employer: Malt - Theodo
     startups:

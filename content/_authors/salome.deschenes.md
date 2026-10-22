@@ -1,7 +1,7 @@
 ---
 fullname: Salomé Deschênes
-domaine: Déploiement
-role: Urbaniste et Product manager
+domaine: Produit
+role: Product manager
 github: SalomeDeschenes
 missions:
   - start: 2020-12-30
@@ -21,4 +21,4 @@ competences:
   - Administration Publique
   - Communication
 ---
-Un pied dans l'aménagement, un pied dans le numérique, les deux dans le service public!
+Initialement un pied dans l'aménagement, puis l'autre dans le numérique, les deux dans le service public!
