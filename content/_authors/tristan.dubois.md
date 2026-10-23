@@ -8,9 +8,8 @@ competences:
 missions:
   - start: 2026-10-26
     end: 2027-03-24
-    employer: France Travail
     status: independent
+    employer: France Travail
     startups:
       - l-immersion-facile
-teams: []
 ---
