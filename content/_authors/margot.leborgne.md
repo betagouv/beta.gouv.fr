@@ -16,10 +16,11 @@ competences:
 missions:
   - start: 2026-10-23
     end: 2027-03-31
-    employer: Crème de la crème
     status: independent
+    employer: Crème de la crème
     startups:
       - archeolog-ia
-teams: []
+github: https://github.com/mgtlbn
+link: https://www.linkedin.com/in/margot-leborgne-57704231
 ---
 Chargée de deploiement ArchéologIA

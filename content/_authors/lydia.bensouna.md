@@ -7,7 +7,7 @@ link: https://fr.linkedin.com/in/lydia-bensouna-80544410a
 competences: []
 missions:
   - start: 2026-06-01
-    end: 2026-11-29
+    end: 2026-12-31
     status: independent
     employer: DINUM
     startups:
