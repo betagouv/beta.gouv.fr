@@ -4,7 +4,7 @@ fullname: Florian Aubert
 role: Autre
 missions:
   - start: 2024-05-20
-    end: 2026-11-24
+    end: 2027-03-31
     status: independent
     employer: Opteamis
     startups:

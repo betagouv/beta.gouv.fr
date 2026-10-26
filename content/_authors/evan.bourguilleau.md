@@ -1,8 +1,10 @@
 ---
 fullname: Evan Bourguilleau
-role: Chef de projet aménagement opérationnel et résilience territoriale
-domaine: Autre
-competences: []
+role: Chargé de mission aménagement opérationnel et résilience territoriale
+domaine: Intraprenariat
+competences:
+  - Intrapreneur(se)
+  - Administration Publique
 missions:
   - start: 2026-10-01
     end: 2027-01-21

@@ -10,7 +10,7 @@ missions:
     startups:
       - diagoriente
   - start: 2022-07-11
-    end: 2026-11-29
+    end: 2025-08-30
     status: service
     employer: AD-HOC Lab
     startups:

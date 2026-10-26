@@ -9,6 +9,12 @@ missions:
     employer: Malt
     startups:
       - suite.territoriale
+  - start: 2026-10-19
+    end: 2027-01-26
+    status: independent
+    employer: LaZone
+    startups:
+      - suite-numerique
 github: sdemagny
 competences:
   - Développement
