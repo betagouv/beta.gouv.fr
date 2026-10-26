@@ -13,7 +13,7 @@ missions:
     startups:
       - demarches-simplifiees.fr
   - start: 2026-04-07
-    end: 2026-10-07
+    end: 2027-12-31
     status: independent
 previously:
   - dossiersco
