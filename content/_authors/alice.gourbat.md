@@ -23,7 +23,7 @@ missions:
     startups:
       - mon-devis-sans-oublis
   - start: 2025-09-01
-    end: 2027-01-01
+    end: 2027-03-31
     status: independent
     employer: Docaposte
     startups:

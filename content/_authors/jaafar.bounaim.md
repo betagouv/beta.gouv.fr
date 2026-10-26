@@ -4,11 +4,16 @@ domaine: Coaching
 role: Coach
 missions:
   - start: 2022-01-13
-    end: 2026-10-29
+    end: 2026-10-26
     status: independent
     employer: Numa
     startups:
       - archeolog-ia
+  - start: 2022-01-13
+    end: 2026-10-29
+    status: independent
+    employer: Numa
+    startups:
       - ia-igac
       - pop
       - qualicharge

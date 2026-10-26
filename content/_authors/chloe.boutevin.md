@@ -31,6 +31,10 @@ missions:
     end: 2027-08-04
     status: admin
     employer: Ministère de la Culture
+  - start: 2026-05-04
+    end: 2026-10-26
+    status: admin
+    employer: Ministère de la Culture
     startups:
       - archeolog-ia
 memberType: beta

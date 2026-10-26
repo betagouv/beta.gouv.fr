@@ -10,11 +10,15 @@ missions:
     startups:
       - bat-id
   - start: 2026-06-05
-    end: 2026-11-30
+    end: 2026-10-26
     status: independent
     employer: Crème de la Crème
     startups:
       - archeolog-ia
+  - start: 2026-06-05
+    end: 2026-11-30
+    status: independent
+    employer: Crème de la Crème
 memberType: beta
 competences:
   - Coaching

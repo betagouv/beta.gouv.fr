@@ -4,11 +4,14 @@ mon_service_securise: false
 contact: contact@patrinotes.beta.gouv.fr
 thematiques:
   - Patrimoine
+  - Culture
 usertypes:
-  - etat
+  - Agents d'État
+  - Particuliers
+  - Collectivités
 techno: []
-title: 'Constats d''état sur les monuments historiques en mobilité '
-mission: 'Faciliter la rédaction, le stockage et le partage du rapport de visite d''un monument historique réalisé dans le cadre du contrôle scientifique et technique. '
+title: Patrinotes
+mission: Aider les agents des UDAP et des CRMH à rédiger et partager leurs constats d'état de monuments historiques et comptes-rendus en mobilité, sans ressaisie.
 incubator: culture
 phases:
   - name: investigation
@@ -26,6 +29,8 @@ events:
   - name: committee
     date: 2025-12-05
     comment: validation du prototype et passage en construction de la version V0
+  - name: committee
+    date: 2026-11-26
 sponsors:
   - /organisations/dgpat
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4#a1.s29.r21.c2
@@ -35,51 +40,46 @@ stats_url: https://app.patrinotes.beta.gouv.fr/stats
 impact_url: https://docs.numerique.gouv.fr/docs/2fb6442b-395b-4693-82ea-68658ab2d0a1/
 contact_incubator: chloe.boutevin
 ---
+
+## Description du service
+
+*Patrinotes*, application en mobilité, est conçue pour faciliter les missions des agents des UDAP et des CRMH. Elle vise à améliorer l'accompagnement auprès des propriétaires et des représentants de monuments, le contrôle des travaux dans les sites patrimoniaux et la veille périodique de l'état de conservation des monuments historiques.
+
+### Une aide pour les agents …
+
+Sur le terrain, les agents sont au centre du service rendu qui permet de réaliser trois missions :
+
+- apporter leur expertise et la consigner dans l'outil,
+- la transmettre clairement aux responsables de monuments historiques et aux porteurs de projets,
+- transformer leurs constats et comptes-rendus en données exploitables pour les partager avec l'administration et les consolider dans les outils de gestion.
+
+L'objectif de *Patrinotes* est de faciliter le suivi et le partage des informations afin de libérer du temps aux agents et de leur permettre de se concentrer sur leur cœur de métier : l'expertise patrimoniale.
+
+L'application réduit ainsi le temps passé sur les tâches administratives, comme le partage d'informations entre usagers, agents et services de l'État. Elle facilite également la communication sur le suivi de chantiers et des projets en partenariats avec d'autres acteurs du territoire.
+
+### … Au service des usagers
+
+Les agents du ministère transmettent à la suite de leur visite les préconisations, mesures et actions nécessaires à la protection du patrimoine culturel et à la promotion de la qualité architecturale, urbaine et paysagère. Celles-ci seront mises en œuvre par les usagers : propriétaires, acteurs locaux, porteurs de projets, professionnels de la construction ou de la conservation-restauration, etc.
+
+*Patrinotes* a pour but de produire automatiquement des documents clairs pour les guider dans leurs démarches administratives. L'outil vise à améliorer la compréhension du cadre et des enjeux, à formaliser les avis ou décisions et à renforcer la confiance envers l'État.
+
+## Une bibliothèque de modules
+
+*Patrinotes* peut être comparé à une bibliothèque de modules fonctionnels, appelée à s'enrichir.
+
+Actuellement, le service propose deux modules :
+
+- **Constat d'état** permet de réaliser rapidement des constats d'états sur les monuments historiques. Les données collectées sont transmises au propriétaire, au préfet de département, à la hiérarchie de la DRAC, en administration centrale (SDMHSP, Inspection), et sont conservées dans le système d'information patrimonial (refonte d'AgrEgée en particulier).
+- **Compte-rendu**, qui permet de rendre compte des dires de l'État aux demandeurs rencontrés pour une demande d'autorisation de travaux ou déclaration préalable et d'éviter les quiproquos. Ce service permet aussi d'établir les comptes-rendus de visites ou de chantiers dans le cadre du contrôle scientifique et technique sur les monuments historiques, comptes-rendus qui peuvent être versés dans Patronum.
+
 ## Contexte
 
-En 2026, La France compte environ 46 000 monuments historiques (MH) qui constituent le bien commun de la Nation. La protection au titre des monuments historiques (articles L621 du code du patrimoine) implique une responsabilité partagée entre les propriétaires et la collectivité nationale au regard de la conservation et de la transmission de ce patrimoine aux générations à venir. C'est l'État qui a, à ce titre, la responsabilité de veiller à la préservation des monuments historiques. Cette mission de contrôle scientifique et technique (CST) définie par le code du Patrimoine (article R621-18) et la circulaire du 1er décembre 2009, est assurée par les experts des services du ministère de la Culture chargés des monuments historiques qui doivent vérifier régulièrement l'état de ce patrimoine et les conditions de sa conservation de façon à assurer sa pérennité. 
-Cette vérification périodique comporte la réalisation régulière de "constats d'état", qui sont des rapports de visite d'un MH accompagnés d'une couverture photographique. Il s'agit d’un constat visuel, qui ne rend compte que de l'état apparent du bien protégé, sans recours à aucune technologie. Outre l’établissement de l’état de conservation, la visite permet d’identifier et de prévenir les risques qui pèsent sur les MH. Les données sont enregistrées dans les applications du ministère de la Culture (logiciel AgrÉgée) afin de suivre l'évolution dans le temps de chaque monument historique, réaliser les synthèses territoriales ou typologiques, orienter les programmes de restauration, et mettre à jour les données existantes.
+Le projet est initialement porté par l'Atelier numérique, incubateur du ministère de la Culture, et fait partie de l'écosystème beta.gouv.fr, de la Direction interministérielle du numérique (DINUM).
 
-## Problème
-Aujourd'hui, les remontées de données ne sont pas optimales :
-*  Moins de 2% des monuments historiques ont fait l’objet d’une fiche de visite ou d’un état sanitaire dans AgrÉgée en 2024 (181 états sanitaires sur un objectif de 8 000/an)
-*  La fiabilité des données renseignées lors des bilans périodiques (disponible sur le site du ministère de la Culture) peut en conséquence poser question, même si la connaissance approfondie du parc des MH permet aux agents de donner une évaluation synthétique
-*  Les visites de monuments historiques ne sont pas assez nombreuses par rapport aux objectifs (dépriorisées par rapport aux autres tâches des ABF et des CRMH)
-*  Les rapports, lorsqu'ils sont réalisés, sont très chronophages et fastidieux (multiples ressaisies -calepin + scan -> Word -> AgrÉgée) donc souvent reportés ou abandonnés
-*  Ils restent souvent stockés sur le serveur local ou dans l'ordinateur/ les dossiers papier de l'agent, sans remontée d'information ni partage entre services
+Cet outil est conçu par des agents en DRAC, en collaboration avec le service du numérique (SNUM) du ministère de la Culture, et les experts de la DGPA (service du Patrimoine, sous-direction des monuments historiques et des sites patrimoniaux). Cet outil est inclus dans le système d'information patrimonial en cours de construction.
 
+Il a été initié en 2022 par les agents des UDAP Deux-Sèvres et Landes en créant la fonctionnalité de compte-rendu pour les demandeurs (déjà disponible sous le nom de Compte-rendu VIF) puis a été continué par l'UDAP du Maine-et-Loire pour la création de la fonctionnalité de constat d'état des monuments historiques et l'élargissement du projet aux autres métiers du patrimoine.
 
-**Au final, une grande perte d'information sur l'état des monuments historiques en France est à déplorer. Cela ne permet pas de prioriser les visites, d'assurer un suivi efficace et de mieux orienter les programmes de restauration. Cela fait aussi perdre beaucoup de temps aux agents qui pourrait être mieux mis à profit sur des tâches à plus grande valeur ajoutée (Voir mission d’information sénatoriale : « ABF : périmètres et compétences »)**
+À la suite de la phase exploratoire du 1er trimestre 2025, les retours positifs ont conduit à développer une version ad hoc. La première version du produit, lancée en décembre 2025, est aujourd'hui utilisée par plus de 200 agents actifs.
 
-
-## Solution
-
-L'investigation sur le sujet a montré que les agents pourraient être en mesure de mieux réaliser la mission de CST s'ils étaient équipés d'un outil numérique d'aide à la saisie sur le terrain. Lors de l'investigation, une première estimation d'impact a été faite :
-*  L'estimation de temps consacré à la tâche divisé par 3 pour réaliser un compte-rendu
-*  2 fois plus de comptes-rendus réalisés par rapport à une moitié d'année type (référence 2024)
-Le projet est ensuite passé en phase de construction pour réaliser une première solution numérique.
-
-Un prototype été livré en novembre 2025, qui permet un service disponible aussi hors ligne pour couvrir les zones blanches, permet d'éditer, de stocker et de partager ces informations. Il est à l'usage des agents du ministère de la culture, en charge du CST en DRAC (UDAP, CRMH, SRA) et du CMN. Les premiers tests positifs en fin d'année 2025 ont motivé la poursuite de l'expérimentation et le déploiement de la solution sur le territoire national avec des testeurs volontaires.
-
-## Objectifs pour 2026
-
-**Objectifs de déploiement**
-*  expérimentations in situ par l'équipe-projet
-*  Plus de 50 constats d'état réalisés avec l'outil
-*  élargissement du panel de testeurs à plus de 50 agents représentant différents métiers et d'un service déconcentré
-* poursuite de la campagne d'informations (DCAT, séminaires CRMH et ABF) et mise en place et animation d'une communauté (webinaire, infolettre, etc.) en collaboration avec la Direction Générale du Patrimoine et de l'Architecture
-
-
-**Objectifs de développement**
-
-* à court terme (avril 2026) : finalisation du prototype V0, adaptation du formulaire aux constats d'état complexes, envoi sous couvert hiérarchique, alertes autres métiers
-* à moyen terme (rentrée 2026) : livraison de la version 1 (intégrant les fonctions de géolocalisation et un formulaire dédié aux constats d'état sur "objets mobiliers MH" )
-* à long terme (hiver 2026) : livraison de la version 2 (élargissement des besoins métiers selon les retours de tests sur V0 et V1 et ouverture aux personnes qui pourraient en disposer comme des conservateurs des monuments historiques et des conservateurs des antiquités et objets d'art (CAOA) pour les objets mobiliers, des architectes urbanistes de l'Etat affectés au sein du centre des monuments nationaux (CMN) et de l'Opérateur du patrimoine et des projets immobiliers de la culture (OPPIC) ou d'établissements publics gérant un Domaine national (L621-34 du code du patrimoine) ou auquel le monument historique a été remis en dotation.)
-
-
-**Objectifs d'impact**
-* 2 fois plus de constats d'états réalisés en 6 mois par rapport à une moitié d'année type (référence 2024 dans AgrÉgée)
-*  Temps divisé par 3 pour réaliser un constat d'état
-
-## Outil fusionné avec Patrinotes
-Ce prototype a été rassemblé avec [l'outil Compte-rendu VIF](https://beta.gouv.fr/startups/compte.rendu.vif.html), en un unique outil:  [**Patrinotes**](https://patrinotes.beta.gouv.fr/), dont l'objectif est de permettre d’établir rapidement des documents en mobilité facilitant la bonne compréhension de l’expertise et permettant la fiabilité et la ré-utilisation des informations, sans ressaisie. 
+Cet outil se crée sur la base des besoins exprimés des agents lorsqu'ils sont sur le terrain dans l'exercice de leurs fonctions. C'est donc au fur et à mesure des besoins exprimés et traduits sous forme d'un formulaire/module que ce méga outil se constitue.

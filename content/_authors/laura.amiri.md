@@ -22,6 +22,12 @@ missions:
     employer: Dynergie, Numa
     startups:
       - chauffage-urbain
+  - start: 2026-10-26
+    end: 2027-01-26
+    status: independent
+    employer: Dynergie, Numa
+    startups:
+      - archeolog-ia
 badges:
   - segur
 competences: []

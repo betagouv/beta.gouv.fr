@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Octo Technology
   - start: 2022-01-03
-    end: 2026-12-01
+    end: 2027-01-25
     status: independent
     employer: Malt
     startups:
