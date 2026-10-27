@@ -26,5 +26,6 @@ competences:
   - Croissance
   - Gestion de Produit
 teams:
+  - /teams/dinum-certifcateurs-des-matrices-d-impact
   - /teams/dinum-incubateur
 ---

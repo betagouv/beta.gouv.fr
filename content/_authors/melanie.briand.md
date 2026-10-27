@@ -22,7 +22,7 @@ missions:
     startups:
       - icare-complements-alimentaires
   - start: 2025-05-15
-    end: 2026-11-30
+    end: 2027-03-31
     status: service
     employer: NUMA
     startups:
@@ -41,7 +41,7 @@ missions:
     startups:
       - open-agri
   - start: 2025-12-11
-    end: 2026-11-30
+    end: 2027-03-30
     status: service
     employer: NUMA
     startups:
