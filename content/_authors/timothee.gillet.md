@@ -17,6 +17,10 @@ missions:
     end: 2026-10-31
     status: independent
     employer: Malt
+  - start: 2025-02-03
+    end: 2026-10-27
+    status: independent
+    employer: Malt
     startups:
       - france-numerique-ensemble
 ---

@@ -5,7 +5,7 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2025-04-15
-    end: 2026-06-30
+    end: 2026-12-31
     status: admin
     employer: ATNUM
     startups:

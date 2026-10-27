@@ -45,6 +45,7 @@ missions:
     end: 2026-12-09
     status: admin
 teams:
+  - /teams/dinum-certifcateurs-des-matrices-d-impact
   - /teams/dinum-incubateur
 competences:
   - Coaching

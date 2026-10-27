@@ -1,6 +1,6 @@
 ---
 fullname: Jean-Luc Acquitter
-role: Chargé de déploiement BAN
+role: Chargé de déploiement BAN & RNB
 domaine: Déploiement
 link: https://www.linkedin.com/in/jean-luc-acquitter-ign/
 competences:
