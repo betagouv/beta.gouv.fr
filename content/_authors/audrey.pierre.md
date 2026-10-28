@@ -1,10 +1,10 @@
 ---
 fullname: Audrey PIERRE
-role: Cheffe de bureau des Ux & Coachs
+role: Cheffe de bureau des produits et de la recherche utilisateur
 domaine: Autre
 missions:
   - start: 2023-10-02
-    end: 2027-01-01
+    end: 2027-03-01
     status: admin
     employer: DTNUM
     startups:
@@ -14,7 +14,7 @@ missions:
       - re-ac-t
       - reponse
   - start: 2026-09-15
-    end: 2026-12-15
+    end: 2027-03-15
     status: admin
     employer: DTNUM
     startups:
@@ -28,4 +28,6 @@ github: audrey-p784
 teams:
   - /teams/lab-mi
 ---
-Cheffe de bureau BAOT
+Cheffe de bureau BPRU
+
+

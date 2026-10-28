@@ -16,7 +16,7 @@ missions:
     status: independent
     employer: Scopyleft
   - start: 2025-06-02
-    end: 2026-11-02
+    end: 2027-04-26
     status: independent
     employer: Optimeas
     startups:

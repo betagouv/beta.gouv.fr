@@ -10,7 +10,9 @@ missions:
     employer: Ministère de la transition écologique
     startups:
       - carbure
+      - detection-d-ouvrages-hydrauliques
       - dialogue
+      - sous-occupation-hlm
       - transport
 github: eglantine
 link: https://www.linkedin.com/in/egschmitt/
