@@ -12,7 +12,7 @@ missions:
     status: service
     employer: NUMA
   - start: 2025-09-11
-    end: 2026-11-11
+    end: 2027-04-11
     status: service
     employer: Malt
     startups:

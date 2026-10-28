@@ -5,9 +5,10 @@ domaine: Autre
 github: anoukdansaut
 missions:
   - start: 2022-11-29
-    end: 2026-11-12
+    end: 2027-01-01
     status: independent
     employer: DINUM
 memberType: beta
+competences: []
 ---
-Chargée de communication et chineuse de déco
+

@@ -5,9 +5,9 @@ domaine: Déploiement
 github: arslanegharout
 missions:
   - start: 2023-05-17
-    end: 2026-11-18
+    end: 2027-04-28
     status: independent
-    employer: malt
+    employer: pathtech
     startups:
       - api-entreprise
       - api.gouv.fr

@@ -9,10 +9,11 @@ missions:
     startups:
       - zacharie
   - start: 2026-05-07
-    end: 2026-08-07
+    end: 2026-11-30
     status: admin
     startups:
       - peste-porcine-africaine
 memberType: beta
-competences: []
+competences:
+  - Intrapreneur(se)
 ---

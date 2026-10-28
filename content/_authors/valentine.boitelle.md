@@ -1,6 +1,6 @@
 ---
 fullname: Valentine BOITELLE
-role: Product Owner Innovation & IA
+role: Responsable incubateur
 domaine: Produit
 link: https://linkedin.com/in/valentineboitelle
 competences:
@@ -18,6 +18,7 @@ missions:
     status: admin
     employer: Ministère de l'Intérieur
     startups:
+      - astree
       - m-ir-ai
 ---
 Experte en intrapreneuriat (création de différents programmes), j'aide à détecter et accompagner les innovations
