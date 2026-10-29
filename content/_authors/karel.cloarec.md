@@ -84,7 +84,7 @@ missions:
     startups:
       - aidantsconnect
   - start: 2024-08-16
-    end: 2026-06-30
+    end: 2026-12-31
     status: independent
     employer: NUMA
     startups:

@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/julesjabouille/
 missions:
   - start: 2023-03-09
-    end: 2027-07-01
+    end: 2029-07-01
     status: admin
     employer: DINUM
     startups:

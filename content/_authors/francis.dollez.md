@@ -14,6 +14,12 @@ missions:
     employer: Malt
     startups:
       - domifa
+  - start: 2026-10-29
+    end: 2027-01-29
+    status: independent
+    employer: Malt
+    startups:
+      - agrements-assistants-maternels-et-familiaux
 ---
 Product Designer avec plus de 10 ans d’expérience dans le design.
 J’ai conçu et accompagné le développement de nombreux produits à l’échelle industrielle. 
