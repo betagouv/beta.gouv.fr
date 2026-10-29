@@ -14,6 +14,6 @@ missions:
     end: 2027-03-31
     status: independent
     startups:
-      - agents.en.intervention
       - espace.sur.demande
+      - messages
 ---

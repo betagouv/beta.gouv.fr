@@ -6,7 +6,7 @@ link: https://inseo.fr/
 github: inseo
 missions:
   - start: 2024-03-25
-    end: 2027-02-28
+    end: 2027-04-28
     status: independent
     employer: scopopop
     startups:

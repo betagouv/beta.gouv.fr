@@ -1,6 +1,6 @@
 ---
 fullname: Félix Riousse
-role: Chargé de projet
+role: Intrapreneur
 domaine: Intraprenariat
 link: https://fr.linkedin.com/in/f%C3%A9lix-riousse-20830b282
 competences: []
