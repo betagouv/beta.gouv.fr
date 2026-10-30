@@ -5,9 +5,9 @@ domaine: Développement
 github: alexisig
 missions:
   - start: 2023-10-17
-    end: 2027-01-01
+    end: 2027-04-01
     status: independent
-    employer: telescoop
+    employer: malt
     startups:
       - mon-diagnostic-artificialisation
   - start: 2026-04-01
