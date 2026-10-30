@@ -8,8 +8,6 @@ missions:
     status: admin
     employer: ANCT
 memberType: beta
-teams:
-  - /teams/anct
 link: https://www.linkedin.com/in/benjamin-mittet-brême/
 competences:
   - Administration Publique
