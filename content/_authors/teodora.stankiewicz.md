@@ -5,7 +5,7 @@ domaine: Design
 github: Teodora-Stanki
 missions:
   - start: 2023-03-28
-    end: 2026-12-31
+    end: 2027-01-14
     status: independent
     employer: Scopyleft
     startups:

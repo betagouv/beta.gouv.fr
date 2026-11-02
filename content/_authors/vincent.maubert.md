@@ -12,9 +12,9 @@ missions:
     startups:
       - camino
   - start: 2024-11-26
-    end: 2026-11-30
+    end: 2027-02-02
     status: independent
-    employer: Malt
+    employer: Crèmedelacrème
     startups:
       - maestro
 competences:

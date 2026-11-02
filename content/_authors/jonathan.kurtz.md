@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Jonathankurtz131
 missions:
   - start: 2019-08-28
-    end: 2026-12-31
+    end: 2027-04-30
     status: independent
     employer: Malt
     startups:

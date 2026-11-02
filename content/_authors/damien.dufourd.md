@@ -40,7 +40,7 @@ missions:
     startups:
       - homologation
   - start: 2024-09-03
-    end: 2026-11-30
+    end: 2027-04-30
     status: independent
     startups:
       - api-and-communs-numeriques-de-la-cour-de-cassation

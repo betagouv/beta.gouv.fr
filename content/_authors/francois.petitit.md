@@ -11,7 +11,7 @@ competences:
   - Python
 missions:
   - start: 2024-12-17
-    end: 2026-11-17
+    end: 2027-01-05
     status: service
     employer: OCTO
     startups:

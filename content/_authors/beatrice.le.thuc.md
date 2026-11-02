@@ -4,7 +4,7 @@ role: UX designer
 domaine: Design
 missions:
   - start: 2024-01-15
-    end: 2026-11-30
+    end: 2027-04-30
     status: service
     employer: Beelix
     startups:

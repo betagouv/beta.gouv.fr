@@ -12,7 +12,7 @@ missions:
       - cestquilepro
       - exposition-ij
   - start: 2026-07-23
-    end: 2026-10-23
+    end: 2027-02-28
     status: independent
     startups:
       - sami

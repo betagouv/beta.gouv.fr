@@ -7,14 +7,14 @@ missions:
   - start: 2013-12-01
     end: 2014-05-31
     status: admin
-    employer: dinum
+    employer: sgmap
     startups:
       - api-entreprise
       - mps
   - start: 2020-09-01
-    end: 2026-11-30
+    end: 2027-02-01
     status: independent
-    employer: octo, malt
+    employer: octo, malt, pathtech
     startups:
       - api-entreprise
       - api.gouv.fr

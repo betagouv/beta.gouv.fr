@@ -13,6 +13,10 @@ missions:
     end: 2026-12-15
     status: admin
     employer: dinum
+  - start: 2022-02-02
+    end: 2026-11-02
+    status: admin
+    employer: dinum
     startups:
       - ban
 badges:

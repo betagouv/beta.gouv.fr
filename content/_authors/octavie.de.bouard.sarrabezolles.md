@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-09-04
-    end: 2026-12-01
+    end: 2027-02-28
     status: independent
     employer: Lazone
     startups:

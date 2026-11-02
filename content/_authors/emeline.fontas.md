@@ -10,7 +10,7 @@ missions:
   - start: 2025-03-10
     end: 2027-01-01
     status: independent
-    employer: Malt
+    employer: La manufacture - Mon équipe produit
     startups:
       - zero-logement-vacant
   - start: 2026-04-14

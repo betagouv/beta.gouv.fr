@@ -4,7 +4,7 @@ role: Opératrice de validation
 domaine: Autre
 missions:
   - start: 2021-11-18
-    end: 2026-11-30
+    end: 2027-02-28
     status: independent
     employer: Dossierfacile
     startups:

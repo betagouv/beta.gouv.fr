@@ -16,23 +16,23 @@ missions:
     startups:
       - seves
   - start: 2025-07-18
-    end: 2027-02-28
+    end: 2027-04-28
     status: independent
     employer: La crème de la crème
     startups:
       - ma-cantine-egalim
-  - start: 2026-01-19
-    end: 2027-01-31
-    status: independent
-    employer: Malt
-    startups:
-      - ecobalyse
   - start: 2026-09-03
     end: 2026-12-31
     status: independent
     employer: Malt
     startups:
       - ecopass
+  - start: 2026-10-01
+    end: 2027-04-30
+    status: independent
+    employer: Malt
+    startups:
+      - ecobalyse
 link: http://angi-design.fr/
 competences:
   - Communication

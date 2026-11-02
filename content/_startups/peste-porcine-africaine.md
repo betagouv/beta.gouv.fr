@@ -21,75 +21,69 @@ phases:
 events:
   - name: product_launch
     date: 2025-10-30
-link: ''
+link: https://odice.beta.gouv.fr/
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
 ## Contexte
 
 La peste porcine africaine (PPA) est une maladie animale qui touche les porcs et les sangliers (sauvages ou d’élevage). Elle entraîne des risques sanitaires et socio-économiques majeurs pour la filière porcine.
-
-En cas d’apparition d’un foyer ou d’un cas, l’Union européenne impose des mesures strictes d’éradication (restrictions de mouvements, traitements d’atténuation des viandes, mesures de biosécurité, …). Leur mise en place est complexe et nécessite d’anticiper ces mesures en temps de paix, notamment pour des acteurs non-professionnels (ex. producteurs primaires).
+En cas d’apparition d’un foyer ou d’un cas, la réglementation européenne impose des mesures strictes d’éradication (restrictions de mouvements, traitements d’atténuation des viandes, mesures de biosécurité, …). La complexité des textes applicables aux mouvements de viandes en contexte de PPA rend l’appropriation et l’application des règles difficiles pour les acteurs de terrain.
 
 ## Problème
 
-Pour simplifier l’accès et la compréhension des mesures règlementaires aux agents des services déconcentrés et aux professionnels de la filière, un premier outil sous format Libre Office Calc a été conçu par le Bureau des Etablissements d’Abattage et de Découpe (BEAD). 
-Certaines limites sont identifiées sur cette première version notamment l’usage d’un format versionné posant des problèmes de diffusion et de mise à jour, particulièrement sensible en cas de crise. 
+La gestion de la PPA présente une complexité réglementaire particulièrement importante, liée notamment à l’évolution du zonage, à la multiplicité des restrictions et à la durée potentiellement longue des mesures. Pour les viandes de porcs, cette complexité se traduit par un très grand nombre de situations réglementaires possibles.
+Il en résulte un besoin d’aide à l’interprétation réglementaire, directement opérationnelle, permettant de sécuriser et d’harmoniser la prise de décision concernant les mouvements de viandes.
 
 ## Solution
 
-Conception d’un outil d’aide à la décision sur **Grist** pour :
-
-- centraliser et maintenir à jour les règles et formules au fil de l’évolution réglementaire,
-- automatiser les mesures à mettre en place en fonction des situations,
-- proposer des **formulaires dédiés** et **adaptés** aux abattoirs et aux autres établissements du secteur alimentaire.
-
-Cet outil vise à fournir un appui fiable et immédiatement mobilisable lors de la détection d’un foyer ou d’un cas de PPA sur le territoire national.
+Accompagner la prise en main de ces textes et l’application des mesures en temps de crise par le développement d’un outil numérique permettant de traduire la réglementation en un parcours de décision opérationnel.
+Odicé (outil décisionnel concernant les itinéraires en contexte d’épizootie), un service numérique d’aide à la décision prenant la forme d’un simulateur permettant aux utilisateurs de renseigner les caractéristiques d’une situation spécifique et d’obtenir les conditions de mouvement des viandes de porcs en contexte de PPA.
 
 ### Utilisateurs
 
 - **Administration centrale et locale** (DDecPP, DRAAF, DGAL) ;
-- **Acteurs de terrain** (services vétérinaires, chasseurs) ;
 - **Professionnels de la filière porcine** (établissements du secteur alimentaire).
 
 ### Impact
 
-- Meilleure compréhension et application de la réglementation européenne permettant de sécuriser et maintenir les marchés
-- Simplification des dispositions réglementaires permettant une meilleure réactivité dans la gestion des animaux et des produits en contexte de crise
-- Sensibilisation des différents acteurs pour anticiper les mesures en temps de crise
-- Harmonisation de l’application des exigences réglementaires sur le territoire
-- Meilleure valorisation des viandes et des produits en contexte PPA
+Odicé permet de répondre au besoin identifié, notamment en :
+* **transformant** une **réglementation complexe** en un parcours de **décision simple et opérationnel** ;
+* **harmonisant** l’interprétation et l’application des règles avec une base nationale commune ;
+* **sécurisant les décisions** relatives aux mouvements ;
+* **réduisant** le temps consacré à la recherche d’information et au croisement des dispositions réglementaires ;
+* améliorant l’**autonomie** des professionnels et des agents des services déconcentrés ;
+* **facilitant** l’appropriation de la réglementation ;
+* disposant d'un **socle numérique** pouvant **évoluer** selon les besoins identifiés pour la **gestion de crises sanitaires**.
 
 
 ## Objectifs à 6 mois
 
-## Étapes déjà réalisées
+### Étapes déjà réalisées
 
-- Migration des formules d’un tableur vers Grist
-- Création de formulaires pour deux catégories d’utilisateurs (abattoirs, autres établissements du secteur alimentaire)
-- Améliorations marginales des formules
-- Lecture et interprétation d’une partie de la réglementation européenne
-- Premières expérimentations de modélisation sous forme de logigrammes
+* Développement d’un simulateur concernant le devenir des viandes de porcs en contexte de PPA avec la possibilité d’exporter la simulation en cours ;
+* Création d’une page d’accueil contextualisant l’outil ;
+* Ajout d’un espace documentaire comprenant des informations complémentaires aux règles intégrées dans l’outil.
 
 ---
+### Prochaines étapes
+
+Sous réserve d’un arbitrage positif, la suite du travail sera de :
+* Développer des extensions concernant les mouvements d’animaux, de sous-produits animaux et de viandes en contexte de PPA ;
+* Investiguer sur l’opportunité à étendre davantage la méthode et le champ d’application d’Odicé à d’autres maladies animales de catégorie A ;
+* Homologuer et transférer l’outil au DelSIAL (MAASA) pour sa pérennisation.
 
 ---
+### Retours utilisateurs
 
-## Prochaines étapes
-
-- Livraison du MVP
-- Tests utilisateurs du MVP
-- Amélioration continue
-
----
-
-## Opportunité
-
-Si les tests utilisateurs — voir une situation réelle de crise — démontre le succès du MVP et/ou version ultérieure, l’équipe projette un potentiel de modélisation réutilisable pour d’autres sujets (animaux, sous-produits animaux) et d’autres maladies animales (ex : fièvre aphteuse, influenza aviaire).
+* L’utilité et la facilité générales sont fortement soutenues ;
+* Une forte projection d’usage, avec une valeur collective qui dépasse la seule rapidité de simulation (noté en moyenne 4,9/5). Trois usages se dessinent :
+  * En anticipation : explorer des scénarios et identifier les circuits possibles et les prérequis associés.
+  * En crise : déterminer rapidement les possibilités de mouvement et les conditions associées.
+  * Dans les échanges : partager une lecture commune entre fournisseurs, clients et services de l’État.
+* Une note de recommandation de 4,8/5.
+* Un besoin exprimé par une majorité de testeurs de poursuivre le développement de l’outil pour d’autres mouvements (animaux, sous-produits animaux) ou d’autres maladies.
 
 ---
 
 ## Budget
 
-17 472,85 € TTC
-16 jours de prestation freelance via sous-traitance d’un attributaire du marché.
+13 876,02 € TTC engagés à ce jour pour 15 jours de prestation freelance via sous-traitance d’un attributaire du marché.

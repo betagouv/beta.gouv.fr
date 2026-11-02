@@ -24,13 +24,18 @@ missions:
       - enjeu-biodiversite-parc-naturel-marin
       - pass-sport
       - reperer.identifier.victimes.teh
-      - transports-sanitaires
   - start: 2022-10-17
     end: 2025-09-01
     status: admin
     employer: DINUM
     startups:
       - france.nation.verte.agir
+  - start: 2022-10-17
+    end: 2026-11-02
+    status: admin
+    employer: DINUM
+    startups:
+      - transports-sanitaires
   - start: 2022-10-17
     end: 2025-09-01
     status: admin
