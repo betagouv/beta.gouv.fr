@@ -11,13 +11,13 @@ missions:
     startups:
       - acceslibre
   - start: 2024-06-20
-    end: 2026-11-30
+    end: 2027-04-30
     status: independent
     employer: LCDLC
     startups:
       - seves
   - start: 2026-04-15
-    end: 2026-11-30
+    end: 2027-01-31
     status: independent
     employer: MALT
     startups:

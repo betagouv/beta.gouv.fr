@@ -1,6 +1,6 @@
 ---
 fullname: Muriel LARROUY
-role: Data Stewart - Coordinatrice ouverture des données
+role: Data Stewart - Coordinatrice à la circulation et à l'ouverture des données
 domaine: Animation
 link: https://www.linkedin.com/feed/
 competences:
@@ -11,7 +11,9 @@ missions:
     status: admin
     employer: DGALN
     startups:
+      - bat-id
       - histologe
       - vert.impact
+      - zero-logement-vacant
 ---
-Animation et pilotage de la politique publique d'ouverture des données DGALN
+Animation et pilotage de la politique publique de circulation et d'ouverture des données DGALN

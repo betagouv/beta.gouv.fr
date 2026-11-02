@@ -12,7 +12,7 @@ missions:
     startups:
       - umap
   - start: 2024-12-01
-    end: 2026-12-31
+    end: 2027-04-30
     status: independent
     employer: Numa
     startups:

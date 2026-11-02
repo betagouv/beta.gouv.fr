@@ -5,7 +5,7 @@ domaine: Développement
 competences: []
 missions:
   - start: 2025-06-23
-    end: 2026-11-30
+    end: 2027-04-28
     status: independent
     employer: ut7
 ---

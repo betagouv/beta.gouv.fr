@@ -1,5 +1,5 @@
 ---
-fullname: Jenny Madani
+fullname: Jenny THUILIER
 role: Customer care
 domaine: Autre
 link: https://www.linkedin.com/in/jennymadani64/
@@ -8,7 +8,7 @@ competences:
   - Coaching
 missions:
   - start: 2025-07-02
-    end: 2026-10-30
+    end: 2026-12-31
     status: independent
     employer: DINUM
     startups:

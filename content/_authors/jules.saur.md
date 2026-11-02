@@ -8,8 +8,13 @@ missions:
     status: independent
     employer: COBER/LaManufacture
     startups:
-      - ban
       - bases.adresses.locales
+  - start: 2021-05-10
+    end: 2026-11-02
+    status: independent
+    employer: COBER/LaManufacture
+    startups:
+      - ban
 badges:
   - segur
 competences: []

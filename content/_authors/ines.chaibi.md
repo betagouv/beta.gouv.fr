@@ -10,7 +10,7 @@ missions:
     startups:
       - bat-id
   - start: 2026-06-05
-    end: 2026-10-26
+    end: 2027-04-26
     status: independent
     employer: Crème de la Crème
     startups:

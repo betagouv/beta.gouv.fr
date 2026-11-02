@@ -18,6 +18,4 @@ memberType: beta
 github: fannyblanc
 competences:
   - Communication
-teams:
-  - /teams/agriculture-equipe-transverse
 ---

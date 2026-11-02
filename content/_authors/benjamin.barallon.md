@@ -13,4 +13,5 @@ missions:
     employer: OFB
     startups:
       - coop-biodiv
+      - enjeu-biodiversite-parc-naturel-marin
 ---

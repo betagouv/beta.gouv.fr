@@ -10,7 +10,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2026-05-06
-    end: 2026-11-11
+    end: 2027-02-02
     status: independent
     employer: A-JUST
     startups:
