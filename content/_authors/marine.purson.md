@@ -11,7 +11,7 @@ missions:
     startups:
       - recosante
   - start: 2023-12-04
-    end: 2026-12-03
+    end: 2027-12-31
     status: admin
     employer: DINUM
     startups:

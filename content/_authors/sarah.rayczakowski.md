@@ -11,7 +11,7 @@ competences:
   - Facilitation
 missions:
   - start: 2024-07-05
-    end: 2026-09-30
+    end: 2027-02-26
     status: independent
     employer: Omnicité
     startups:
