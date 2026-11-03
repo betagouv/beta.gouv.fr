@@ -4,7 +4,7 @@ fullname: Aurélien CORNIER
 role: Intrapreneur
 missions:
   - start: 2024-04-04
-    end: 2026-12-31
+    end: 2027-12-31
     status: admin
     startups:
       - pv.facile

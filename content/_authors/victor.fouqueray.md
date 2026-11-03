@@ -12,6 +12,10 @@ missions:
     end: 2027-01-01
     status: service
     employer: Scopopop
+  - start: 2024-11-14
+    end: 2026-11-03
+    status: service
+    employer: Scopopop
     startups:
       - pv.facile
 ---

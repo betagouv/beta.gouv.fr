@@ -2,7 +2,7 @@
 mission: Améliorer le développement des projets photovoltaïques en intervenant plus en amont
 incubator: mtes
 title: BetaWatt
-contact: aurelien.cornier@charente.gouv.fr
+contact: contact@betawatt.beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation

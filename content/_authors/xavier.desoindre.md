@@ -6,21 +6,21 @@ github: desoindx
 link: https://epicse.fr/
 missions:
   - start: 2021-05-03
-    end: 2026-12-01
+    end: 2027-05-01
     status: independent
-    employer: ScopyLeft
+    employer: Malt
     startups:
       - impact.co2
   - start: 2025-06-01
-    end: 2026-12-01
+    end: 2026-06-01
     status: independent
-    employer: Pathtech
+    employer: Malt
     startups:
       - ecobalyse
   - start: 2026-09-03
-    end: 2026-12-03
+    end: 2027-05-01
     status: independent
-    employer: Pathtech
+    employer: Malt
     startups:
       - ecopass
 previously:

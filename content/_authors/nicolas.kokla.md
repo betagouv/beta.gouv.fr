@@ -19,7 +19,7 @@ missions:
       - ban
       - bases.adresses.locales
   - start: 2024-01-01
-    end: 2026-11-16
+    end: 2027-02-16
     status: independent
     employer: PathTech
     startups:

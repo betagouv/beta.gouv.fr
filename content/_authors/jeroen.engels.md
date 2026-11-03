@@ -10,9 +10,8 @@ competences:
 missions:
   - start: 2026-11-02
     end: 2027-03-31
-    employer: Malt
     status: independent
+    employer: Malt
     startups:
       - ecobalyse
-teams: []
 ---

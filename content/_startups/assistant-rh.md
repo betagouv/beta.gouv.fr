@@ -30,6 +30,7 @@ events:
 techno:
   - python
 repository: https://github.com/DGAFP/assistant-rh
+contact_dinum: noellie.pilandon
 link: ''
 ---
 ## Contexte
@@ -82,7 +83,13 @@ Face à une question RH, une IA générative permettrait aux gestionnaires RH de
 
 L’objectif est d’obtenir une amélioration sensible du service rendu aux agents de l'ATE, d'améliorer les conditions de travail des gestionnaires RH des SGCD, d’installer les SGCD comme interlocuteur de référence pour toutes les questions RH (quel que soit le ministère dont relève l’agent), et de limiter la saisine des services d’administration centrale.
 
-## Objectif à 6 mois : déployer un premier MVP performant en situation réelle
+À noter : il existe un potentiel de réduction du nombre de recours administratifs
+(hiérarchiques ou contentieux) grâce à une amélioration de la qualité des réponses
+données par les agents RH des SGCD
+
+Il est important de souligner qu'il s'agit d'un projet qui s'inscrit dans la durée, car il faut que les données soient régulièrement actualisées afin de tenir compte des évolutions législatives et/ou réglementaires en matière RH.
+
+## Phase de préfiguration et objectif à 6 mois : déployer un premier MVP performant en situation réelle 
 
 Première itération (de septembre 2025 à mars 2026) : 
 * expérimenter sur un périmètre restreint
@@ -99,15 +106,29 @@ Les principaux indicateurs de la première itération :
 * Délai de réponse aux agents : 12 minutes de gain en moyenne par réponse
 * Qualité de vie au travail des gestionnaires RH des SGCD : 86 % (de réponse "Oui, cet outil améliorerait la QVT")
 
-À noter : il existe un potentiel de réduction du nombre de recours administratifs
-(hiérarchiques ou contentieux) grâce à une amélioration de la qualité des réponses
-données par les agents RH des SGCD
 
 
-## Lors du 1er comité d'investissement du 19 février 2026, les orientations suivantes ont été décidées : 
-* 2nde itération de mars à octobre 2026 : étendre le périmètre aux quatre autres ministères de l’ATE (MI, MSO, MASA, MEF) et tester la pertinence de l’outil dans une version interministérielle (en conservant les mêmes testeurs et la même thématique RH) ; la décision d'intégration de l'Assistant RH à l'Assistant IA de la DINUM sera à l'ordre du jour du second comité d'investissement en octobre 2026 ; 
-* 3ème itération de novembre 2026 à mars 2027 : en fonction des résultats en version interministérielle et des futurs choix de trajectoire, élargir à tous les 100 SGCD (1200 gestionnaires RH) et intégrer de nouvelles thématiques RH par incréments successifs (selon les capacités) ;
+## Phase de pérennisation : développer la version interministérielle de l'outil 
 
-Au delà de la généralisation aux gestionnaires des SGCD, il sera étudié en 2027 l'ouverture à d'autres ministères hors périmètre ATE.
+Seconde itération (de mars à octobre 2026)
+* établir le périmètre aux 5 ministères de l’ATE (MATTE, MI, MSO, MASA, MEF) et tester la pertinence de l’outil dans une version interministérielle 
+* Conserver les mêmes testeurs et la même thématique RH (les contractuels) 
 
-Il est important de souligner qu'il s'agit d'un projet qui s'inscrit dans la durée, car il faut que les données soient régulièrement actualisées afin de tenir compte des évolutions législatives et/ou réglementaires en matière RH.
+Les principaux indicateurs de la première itération : 
+* Taux de pertinence des réponses : 82 %
+* Confiance dans les réponses fournies : 79 %
+* Délai de réponse aux agents : 11 minutes de gain en moyenne par réponse
+* Qualité de vie au travail des gestionnaires RH des SGCD : 88 % (de réponse "Oui, cet outil améliorerait la QVT")
+
+## Lors du 2ème comité d’investissement du 15 octobre 2026, la généralisation du produit a été arbitrée 
+
+* Lancement de la 3ème itération de novembre 2026 à mars 2027 : 
+* Ouvrir et généraliser l’outil à l’ensemble des SGCD, d’abord sur la gestion des contractuels en multi-ministériel
+* Intégrer de nouvelles thématiques RH par incréments successifs
+* Homologation de l’application, connexion des gestionnaires via ProConnect, nouvelle interface et intégration de l'historique de conversation
+*  Maintien de la trajectoire de convergence vers L'Assistant IA de la DINUM
+
+
+Au delà de la généralisation aux gestionnaires des SGCD, il sera étudié en 2027 l'ouverture aux autres gestionnaires RH des ministères de l'ATE (échelon central, régional, etc.) et à d'autres ministères hors périmètre ATE.
+
+
