@@ -15,7 +15,7 @@ missions:
     startups:
       - snu
   - start: 2020-06-24
-    end: 2027-03-08
+    end: 2027-05-04
     status: independent
     employer: Malt
 ---

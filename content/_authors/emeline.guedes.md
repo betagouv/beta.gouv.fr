@@ -11,4 +11,10 @@ missions:
     employer: Ministère des Sports
     startups:
       - strategies-nationales
+  - start: 2026-11-04
+    end: 2027-02-04
+    status: admin
+    employer: Ministère des Sports
+    startups:
+      - pass-sport
 ---

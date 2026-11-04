@@ -11,7 +11,7 @@ missions:
     startups:
       - dossierfacile
   - start: 2025-03-31
-    end: 2026-12-04
+    end: 2027-02-28
     status: independent
     employer: Malt
     startups:

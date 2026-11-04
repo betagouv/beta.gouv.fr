@@ -35,7 +35,7 @@ missions:
     startups:
       - ma-cantine-egalim
   - start: 2024-07-01
-    end: 2026-11-19
+    end: 2027-03-01
     status: admin
     employer: Ministère de l'agriculture
 link: https://www.linkedin.com/in/stephanjennifer/
