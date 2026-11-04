@@ -24,7 +24,6 @@ missions:
       - droit-data-gouv-fr-simulateurs-de-droits
       - grist.numerique.gouv.fr
       - notifications-v2
-      - oots.once-only.technical.system
 previously:
   - openfisca
   - api.gouv.fr

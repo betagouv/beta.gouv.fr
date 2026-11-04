@@ -7,8 +7,6 @@ missions:
     end: 2025-01-31
     status: independent
     employer: Omnicité
-    startups:
-      - oots.once-only.technical.system
   - start: 2026-01-01
     end: 2026-08-31
     status: independent

@@ -15,7 +15,6 @@ badges:
   - segur
 previously:
   - data.gouv.fr
-  - oots.once-only.technical.system
   - datapass
   - api.gouv.fr
   - api-particulier

@@ -23,8 +23,6 @@ missions:
     end: 2025-05-31
     status: service
     employer: omnicite
-    startups:
-      - oots.once-only.technical.system
   - start: 2025-05-19
     end: 2026-06-30
     status: independent
