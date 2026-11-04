@@ -7,7 +7,7 @@ competences:
   - Communication
 missions:
   - start: 2025-03-01
-    end: 2026-12-01
+    end: 2027-01-31
     status: independent
     employer: Multi
     startups:

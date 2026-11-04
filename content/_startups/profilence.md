@@ -40,13 +40,13 @@ techno:
   - nestjs
   - java
   - Elysia
-link: ''
 accessibility_status: partiellement conforme
 stats_url: https://n8n.beta.francetravail.fr/webhook/stats-pr
 contact_dinum: thibault.desjardins
 contact_incubator: chloe.sangaria
 impact_url: https://docs.numerique.gouv.fr/docs/c7718d0e-4bc5-4712-8e6b-df8b7e899413/
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/p/4#a1.s29.r73.c2
+link: ''
 ---
 
 # 🚀 Profilence : rendre les candidats visibles, créer des opportunités d'emploi

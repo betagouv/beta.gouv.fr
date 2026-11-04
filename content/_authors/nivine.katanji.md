@@ -10,17 +10,12 @@ missions:
     startups:
       - jeveuxaider
   - start: 2026-04-27
-    end: 2027-01-31
+    end: 2026-10-30
     status: independent
     startups:
       - jeveuxaider
-  - start: 2026-04-27
-    end: 2026-12-31
-    status: independent
-    startups:
-      - jeveuxaider
-  - start: 2026-09-11
-    end: 2026-12-11
+  - start: 2026-11-13
+    end: 2026-12-12
     status: independent
     startups:
       - filiere-economique-du-sport

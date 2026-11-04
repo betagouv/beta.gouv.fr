@@ -22,7 +22,6 @@ missions:
       - data-dsn
       - datalma
       - enjeu-biodiversite-parc-naturel-marin
-      - pass-sport
       - reperer.identifier.victimes.teh
   - start: 2022-10-17
     end: 2025-09-01
@@ -30,6 +29,12 @@ missions:
     employer: DINUM
     startups:
       - france.nation.verte.agir
+  - start: 2022-10-17
+    end: 2026-11-04
+    status: admin
+    employer: DINUM
+    startups:
+      - pass-sport
   - start: 2022-10-17
     end: 2026-11-02
     status: admin

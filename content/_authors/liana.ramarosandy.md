@@ -5,7 +5,7 @@ domaine: Autre
 competences: []
 missions:
   - start: 2024-11-12
-    end: 2026-10-31
+    end: 2027-03-31
     status: independent
     employer: Scopyleft
     startups:

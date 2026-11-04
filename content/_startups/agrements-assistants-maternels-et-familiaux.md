@@ -14,6 +14,8 @@ sponsors:
 phases:
   - name: investigation
     start: 2025-05-06
+  - name: construction
+    start: 2026-10-01
 events:
   - name: product_launch
     date: 2025-06-16

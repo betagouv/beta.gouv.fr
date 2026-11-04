@@ -15,6 +15,11 @@ missions:
     status: admin
     startups:
       - mon-suivi-social
+  - start: 2026-10-26
+    end: 2027-03-31
+    status: admin
+    startups:
+      - aplus
 previously:
   - dossierfacile
 competences: []
