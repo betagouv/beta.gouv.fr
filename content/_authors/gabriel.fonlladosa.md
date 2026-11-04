@@ -8,8 +8,6 @@ missions:
     end: 2025-01-31
     status: independent
     employer: Omnicité
-    startups:
-      - oots.once-only.technical.system
 badges:
   - segur
 previously:

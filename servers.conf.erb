@@ -20,6 +20,11 @@ server {
     return 301 $scheme://$host/approche/formation/mooc/$1;
   }
 
+  # The OOTS page moved out of beta.gouv.fr
+  location ~ ^/startups/oots\.once-only\.technical\.system(\.html)?/?$ {
+    return 301 https://oots.infra.data.gouv.fr/;
+  }
+
   # Location block for /assets/ with caching
   location ~* ^/assets/ {
     expires 1d;

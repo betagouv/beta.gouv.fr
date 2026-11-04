@@ -9,8 +9,6 @@ missions:
     end: 2025-02-02
     status: independent
     employer: Omnicite
-    startups:
-      - oots.once-only.technical.system
 memberType: beta
 competences: []
 ---
