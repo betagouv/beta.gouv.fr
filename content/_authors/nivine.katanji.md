@@ -14,7 +14,7 @@ missions:
     status: independent
     startups:
       - jeveuxaider
-  - start: 2026-11-13
+  - start: 2026-10-13
     end: 2026-12-12
     status: independent
     startups:

@@ -23,7 +23,7 @@ missions:
     startups:
       - donnees-spectacle
   - start: 2026-01-05
-    end: 2026-12-05
+    end: 2027-05-05
     status: independent
     employer: /ut7
     startups:
