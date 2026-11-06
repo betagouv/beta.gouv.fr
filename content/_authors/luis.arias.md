@@ -10,6 +10,12 @@ missions:
     startups:
       - document-ia
       - refugies.info
+  - start: 2026-11-06
+    end: 2027-02-06
+    status: admin
+    employer: DINUM
+    startups:
+      - cahiers-citoyens
 link: https://www.linkedin.com/in/luisarias/
 github: kaaloo
 competences:

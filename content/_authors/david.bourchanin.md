@@ -10,6 +10,12 @@ missions:
     employer: Malt
     startups:
       - france-numerique-ensemble
+  - start: 2026-11-06
+    end: 2027-02-06
+    status: independent
+    employer: Malt
+    startups:
+      - cahiers-citoyens
 badges:
   - segur
 competences:
