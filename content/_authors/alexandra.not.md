@@ -13,5 +13,7 @@ missions:
     end: 2026-12-31
     status: service
     employer: Atelier Numérique de la Culture
+    startups:
+      - marche-de-l-art
 link: https://www.linkedin.com/in/alexandra-not
 ---

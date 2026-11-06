@@ -22,6 +22,12 @@ missions:
     end: 2026-08-12
     status: admin
     employer: DINUM
+  - start: 2026-11-06
+    end: 2027-02-06
+    status: admin
+    employer: DINUM
+    startups:
+      - cahiers-citoyens
 memberType: beta
 competences:
   - Coaching
