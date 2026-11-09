@@ -41,13 +41,13 @@ missions:
     startups:
       - durabilite-de-la-biomasse
   - start: 2025-06-17
-    end: 2026-11-30
+    end: 2027-03-31
     status: independent
     employer: NUMA
     startups:
       - dalo-assist-usagers-et-contentieux
   - start: 2026-06-25
-    end: 2026-12-09
+    end: 2027-01-31
     status: independent
     employer: NUMA
     startups:

@@ -9,7 +9,7 @@ phases:
     start: 2021-06-01
   - name: abandon-investigation
     start: 2021-11-01
-link: https:&#x2F;&#x2F;servicerepasmidi.wixsite.com&#x2F;my-site-1
+link: https://servicerepasmidi.wixsite.com/my-site-1
 stats: false
 contact: contactincubateur@anct.gouv.fr
 thematiques: []

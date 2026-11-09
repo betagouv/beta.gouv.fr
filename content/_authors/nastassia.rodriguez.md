@@ -4,9 +4,9 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-04-01
-    end: 2027-01-31
+    end: 2027-04-30
     status: independent
-    employer: Inops
+    employer: La Manufacture - Docaposte
     startups:
       - l-immersion-facile
 badges:

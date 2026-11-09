@@ -22,7 +22,7 @@ missions:
       - editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne
       - portail-greffe-de-la-cour-de-cassation
   - start: 2026-05-01
-    end: 2026-12-15
+    end: 2027-04-09
     status: independent
     employer: Creme de la Creme
     startups:
