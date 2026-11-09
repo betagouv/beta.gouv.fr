@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: NUMA
   - start: 2022-10-24
-    end: 2026-12-09
+    end: 2027-05-09
     status: independent
     employer: Actimage
     startups:

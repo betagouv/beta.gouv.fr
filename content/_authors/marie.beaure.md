@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/mariebeaure/
 competences: []
 missions:
   - start: 2026-09-09
-    end: 2026-12-09
+    end: 2027-03-18
     status: independent
     employer: Octo
     startups:

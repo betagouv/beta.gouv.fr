@@ -3,7 +3,7 @@ accessibility_status: non conforme
 analyse_risques: false
 mon_service_securise: true
 contact: alain.le-gac@education.gouv.fr
-link: 'https://1eleve1stage.education.gouv.fr '
+link: https://1eleve1stage.education.gouv.fr
 thematiques:
   - Entreprises
   - Jeunesse

@@ -5,7 +5,7 @@ role: Biz Dev
 github: NadegeVgr
 missions:
   - start: 2022-09-01
-    end: 2026-10-31
+    end: 2027-05-30
     status: admin
     employer: GIP Plateforme de l'inclusion
     startups:

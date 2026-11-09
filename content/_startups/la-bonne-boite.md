@@ -5,7 +5,7 @@ sponsors:
   - /organisations/francetravail
 incubator: francetravail
 link: https://labonneboite.francetravail.fr/
-repository: 'https://github.com/StartupsPoleEmploi/labonneboite '
+repository: https://github.com/StartupsPoleEmploi/labonneboite
 contact: contact.00040@francetravail.fr
 accessibility_status: non conforme
 redirect_from:

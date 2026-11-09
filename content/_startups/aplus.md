@@ -42,6 +42,9 @@ events:
   - name: national_impact
     date: 2026-04-02
     comment: Service à impact national
+  - name: committee
+    date: 2026-09-16
+    comment: Comité d'investissement
 impact_url: https://incubateurdesterritoires.notion.site/impact-administrationplus
 budget_url: https://docs.numerique.gouv.fr/docs/b87717a7-f184-42ca-8fdd-50c0f255f71e/
 ---

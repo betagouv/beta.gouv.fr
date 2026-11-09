@@ -4,7 +4,7 @@ mission: Faciliter le recrutement en informant l’employeur au bon moment sur l
 sponsors:
   - /organisations/francetravail
 incubator: francetravail
-link: ' https://entreprise.francetravail.fr/detecteureligibiliteaides/ '
+link: https://entreprise.francetravail.fr/detecteureligibiliteaides/
 contact: lea.trecat-linnartz@pole-emploi.fr
 stats: false
 budget_url: ' '

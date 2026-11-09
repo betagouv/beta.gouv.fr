@@ -22,8 +22,15 @@ events:
 techno:
   - eslint
   - mocha
+  - nodejs
+  - knex
+  - hapi
+  - swagger
+  - postgresql
 repository: https://github.com/betagouv/referentiel-agrements-assistants-maternels-familiaux
-link: ''
+link: https://agrements-assistants-maternels-familiaux.osc-fr1.scalingo.io/documentation
+contact_dinum: stephane.maniaci
+contact_incubator: estelle.saget
 ---
 
 ## Contexte

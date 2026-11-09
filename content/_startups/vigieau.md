@@ -5,7 +5,7 @@ sponsors:
   - /organisations/deb
 incubator: mtes
 link: https://vigieau.gouv.fr/
-repository: 'https://github.com/MTES-MCT/secheresse-front; '
+repository: https://github.com/MTES-MCT/secheresse-front;
 contact: astrid.tarteret@beta.gouv.fr
 stats: false
 accessibility_status: partiellement conforme

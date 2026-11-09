@@ -9,7 +9,7 @@ phases:
     start: 2021-06-01
   - name: abandon-investigation
     start: 2021-11-01
-link: https:&#x2F;&#x2F;kwenduparis.wixsite.com&#x2F;equipements-fronton-
+link: https://kwenduparis.wixsite.com/equipements-fronton-
 stats: false
 contact: contactincubateur@anct.gouv.fr
 thematiques: []
