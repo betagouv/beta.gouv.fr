@@ -11,7 +11,7 @@ missions:
     startups:
       - jeveuxaider
   - start: 2026-03-10
-    end: 2026-12-10
+    end: 2027-01-31
     status: independent
     employer: Malt
     startups:
@@ -23,7 +23,7 @@ missions:
     startups:
       - plusfraichemaville
   - start: 2026-06-10
-    end: 2026-12-10
+    end: 2027-01-31
     status: independent
     employer: Malt
     startups:

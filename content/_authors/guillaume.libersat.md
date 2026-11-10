@@ -5,9 +5,9 @@ link: http://sigill.org
 github: glibersat
 missions:
   - start: 2021-05-10
-    end: 2026-12-10
+    end: 2027-05-10
     status: independent
-    employer: scopyleft
+    employer: Malt
     startups:
       - recommandations-collaboratives
       - urbanvitaliz
