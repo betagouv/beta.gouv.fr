@@ -22,7 +22,7 @@ missions:
       - 1-eleve-1-stage
       - monstage
   - start: 2026-03-25
-    end: 2026-06-25
+    end: 2026-12-31
     status: admin
     employer: Éducation nationale
     startups:

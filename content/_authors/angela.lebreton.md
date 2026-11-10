@@ -22,7 +22,7 @@ missions:
     startups:
       - territoires-en-transitions
   - start: 2026-09-14
-    end: 2027-02-20
+    end: 2027-04-01
     status: independent
     employer: Malt
     startups:

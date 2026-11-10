@@ -1,7 +1,7 @@
 ---
 fullname: Vikie Ache
 domaine: Produit
-role: Product Manager ; Responsable communication  - Ex Intrapreneuse Simone & Co
+role: Product Manager - Responsable communication  - Ex Intrapreneuse Simone & Co
 github: vikieache
 missions:
   - start: 2019-09-01
@@ -17,7 +17,7 @@ missions:
     startups:
       - histologe
   - start: 2021-12-01
-    end: 2026-12-10
+    end: 2027-04-10
     status: independent
     employer: Pathtech
     startups:
