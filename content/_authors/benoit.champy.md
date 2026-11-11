@@ -54,8 +54,6 @@ missions:
     employer: DINUM
     startups:
       - france.nation.verte.agir
-teams:
-  - /teams/dinum-incubateur
 badges:
   - segur
 competences:

@@ -8,8 +8,6 @@ competences:
 missions:
   - start: 2026-11-10
     end: 2028-12-08
-    employer: MEN - DAF
     status: admin
-    startups: []
-teams: []
+    employer: MEN - DAF
 ---
