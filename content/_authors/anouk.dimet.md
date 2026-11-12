@@ -7,7 +7,7 @@ competences:
   - Product design
 missions:
   - start: 2026-07-20
-    end: 2026-12-31
+    end: 2027-05-01
     status: independent
     employer: Creme de la creme
     startups:

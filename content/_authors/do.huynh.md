@@ -1,6 +1,6 @@
 ---
 fullname: Do  Huynh
-role: ML engineer, data-analyst, data scientist
+role: ML engineer, data-analyst, data scientist, data-engineer
 domaine: Data
 missions:
   - start: 2022-10-01
@@ -34,6 +34,7 @@ missions:
     status: independent
     employer: ut/7 - MALT
     startups:
+      - la-bonne-alternance
       - tdb-apprentissage
 badges:
   - segur
@@ -44,6 +45,9 @@ competences:
   - Python
   - LLM
   - Agent IA
+  - PostgreSQL
+  - Metabase
+  - Docker
 github: huynhdoo
 ---
-Expert du machine learning et de la data-science, je modélise, explicite et intègre toutes solutions à partir de vos données métiers afin de vous faire gagner le temps utile pour ceux et celles qui comptent vraiment.
+Expert de l'IA et de la data, je modélise, explicite et intègre toutes solutions à partir de vos données métiers afin de vous faire gagner le temps utile pour ceux et celles qui comptent vraiment.
