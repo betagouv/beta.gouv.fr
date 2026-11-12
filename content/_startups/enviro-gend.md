@@ -1,7 +1,7 @@
 ---
 contact: envirogend@gmail.com
 link: https://envirogend.gendarmerie.fr/
-stats_url: https://fichiers.numerique.gouv.fr/wopi/abc69a73-b037-49ec-b9e0-4ff6e347fb25
+stats_url: https://mesure-audience.app.gendarmerie.fr/index.php?module=CoreHome&action=index&idSite=6&period=day&date=yesterday#?period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=1
 thematiques:
   - Écologie
   - Justice
@@ -9,7 +9,7 @@ usertypes:
   - etat
 title: Enviro'Gend
 mission: Faciliter la lutte contre les atteintes à l'environnement
-incubator: FabNum-MI
+incubator: dinum
 sponsors:
   - /organisations/commandement-pour-l-environnement-et-la-sante
 phases:
@@ -34,6 +34,7 @@ events:
     comment: 'Enrichissement du produit en V2.7 : 2500 utilisateurs mensuel'
 impact_url: https://docs.numerique.gouv.fr/docs/bc9b3dad-56d5-4d61-94c0-d73a4ec3a632/
 techno: []
+contact_dinum: thibault.desjardins
 ---
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 

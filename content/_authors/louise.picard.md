@@ -5,7 +5,7 @@ domaine: Intraprenariat
 competences: []
 missions:
   - start: 2025-07-03
-    end: 2026-12-31
+    end: 2027-06-30
     status: admin
     employer: MAASA
     startups:
