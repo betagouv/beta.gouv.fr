@@ -12,6 +12,12 @@ missions:
     end: 2023-11-01
     status: admin
     employer: DINUM
+  - start: 2026-11-10
+    end: 2027-04-10
+    status: independent
+    employer: 'France Travail '
+    startups:
+      - l-application-du-cej
 previously:
   - aplus
   - psi

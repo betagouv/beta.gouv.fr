@@ -1,7 +1,7 @@
 ---
 analyse_risques: false
 mon_service_securise: false
-contact: delphine.raymond.ext@ademe.fr
+contact: plusfraisautravail@ademe.fr
 link: https://plusfraisautravail.beta.gouv.fr/
 thematiques:
   - Écologie
@@ -26,6 +26,9 @@ events:
   - name: committee
     date: 2026-05-07
 stats_url: https://plusfraisautravail.beta.gouv.fr/statistiques/
+repository: https://github.com/incubateur-ademe/plusfraisautravail
+impact_url: https://plusfraisautravail.beta.gouv.fr/statistiques/matrice-dimpact/
+contact_incubator: martin.regner
 ---
 ## Contexte 👀
 
