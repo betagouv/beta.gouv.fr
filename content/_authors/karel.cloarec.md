@@ -96,7 +96,7 @@ missions:
     startups:
       - tous.a.bord
   - start: 2026-01-19
-    end: 2026-12-31
+    end: 2027-02-13
     status: independent
     employer: Malt
     startups:
