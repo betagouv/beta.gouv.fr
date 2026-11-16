@@ -22,7 +22,7 @@ missions:
     startups:
       - inventaire.friches.agricoles
   - start: 2024-10-01
-    end: 2026-12-31
+    end: 2027-05-31
     status: admin
     employer: Ministère de l'agriculture
 competences:

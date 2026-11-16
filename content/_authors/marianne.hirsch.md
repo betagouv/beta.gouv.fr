@@ -21,6 +21,12 @@ missions:
     end: 2026-08-31
     status: independent
     employer: malt
+  - start: 2026-11-16
+    end: 2027-02-16
+    status: independent
+    employer: opérateur de compétence
+    startups:
+      - data.gouv.fr
 competences:
   - Gestion de Produit
   - Product design

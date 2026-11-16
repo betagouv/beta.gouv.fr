@@ -16,7 +16,7 @@ competences:
   - JavaScript/TypeScript
 missions:
   - start: 2026-05-18
-    end: 2026-11-18
+    end: 2029-12-01
     status: admin
     employer: DINUM
     startups:

@@ -8,10 +8,11 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2025-08-01
-    end: 2026-12-15
+    end: 2027-05-16
     status: independent
-    employer: LBC
+    employer: Crème de la Crème
     startups:
       - mistral-penal
+github: rvovard
 ---
 Développeur full-stack avec supplément accessibilité, engagé pour l'intérêt général, et fan de vélo.

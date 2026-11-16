@@ -5,9 +5,9 @@ domaine: Support
 github: YoannMerrien
 missions:
   - start: 2023-11-23
-    end: 2026-12-31
+    end: 2027-03-31
     status: independent
-    employer: Malt
+    employer: La Crème de la Crème
     startups:
       - bases.adresses.locales
       - suite.territoriale

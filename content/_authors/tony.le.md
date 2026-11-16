@@ -7,7 +7,7 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2026-08-14
-    end: 2026-11-30
+    end: 2026-12-31
     status: independent
     employer: Octo
     startups:

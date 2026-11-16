@@ -26,11 +26,12 @@ missions:
     startups:
       - collectif_objets
   - start: 2024-05-27
-    end: 2026-12-07
+    end: 2027-04-01
     status: independent
     employer: Scopyleft
     startups:
       - rdv-service-public
 competences:
   - Développement Full-stack
+  - Ruby
 ---

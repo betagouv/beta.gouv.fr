@@ -14,7 +14,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2022-02-02
-    end: 2026-11-02
+    end: 2027-11-02
     status: admin
     employer: dinum
     startups:

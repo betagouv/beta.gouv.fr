@@ -34,4 +34,10 @@ missions:
     employer: Living Data
     startups:
       - viz-eau
+  - start: 2026-12-15
+    end: 2027-02-16
+    status: service
+    employer: Living Data
+    startups:
+      - viz-eau
 ---

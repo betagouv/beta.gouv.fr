@@ -39,5 +39,6 @@ competences:
   - PHP
   - Python
   - Sécurité informatique
+  - Développement Full-stack
 ---
 Développeuse multi-tâches et multi-langages

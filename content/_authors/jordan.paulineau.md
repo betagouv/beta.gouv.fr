@@ -8,7 +8,7 @@ competences:
   - JavaScript/TypeScript
 missions:
   - start: 2026-07-06
-    end: 2027-02-26
+    end: 2027-04-30
     status: service
     employer: Crème de la crème
     startups:

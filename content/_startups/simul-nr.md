@@ -6,6 +6,7 @@ thematiques:
   - imposition
 usertypes:
   - particulier
+  - agent
 techno:
   - terraform
   - java
@@ -25,6 +26,7 @@ events:
   - name: product_launch
     date: 2026-03-16
 impact_url: https://docs.numerique.gouv.fr/docs/cbe1e028-4c39-40e2-9bce-110087a1ea51/
+budget_url: https://docs.numerique.gouv.fr/docs/fc1d422c-e629-4386-8be1-c91457275f59/
 link: ''
 ---
 ## Contexte
@@ -44,15 +46,10 @@ Cette fiscalité spécifique est complexe, ce qui engendre des incompréhensions
 * Nombreuses réclamations évitables si l'usager pouvait anticiper son imposition
 
 **Constats qualitatifs :**
-
 * Incompréhension et confusion des usagers non-résidents vis-à-vis de leur fiscalité
-
 * Manque d'autonomie des usagers non-résidents dans la gestion de leur fiscalité
-
 * Sollicitation des services de la Direction des Impôts des Non Résidents pour des questions simples, ce qui ralentit le traitement des questions plus complexes
-
 * Rupture d'égalité entre usagers résidents et non-résidents
-
 * Qualité de service rendu à l'usager pouvant être améliorée
 
 
@@ -62,9 +59,9 @@ Créer un outil numérique qui permette aux usagers non-résidents d'effectuer u
 
 ## Public visé
 
-Cible principale: usagers non-résidents ou futurs non-résidents.
+**Cible principale :** usagers non-résidents ou futurs non-résidents.
 
-Cible secondaire: les agents de la Direction des Impôts des Non Résidents afin de simplifier certaines de leurs tâches.
+**Cible secondaire :** les agents de la Direction des Impôts des Non Résidents afin de simplifier certaines de leurs tâches.
 
 
 
@@ -72,15 +69,17 @@ Cible secondaire: les agents de la Direction des Impôts des Non Résidents afin
 ## Objectifs
 
 * **Automne 2026**: avoir atteint l'épopée "Taux moyen" en terme de périmètre fonctionnel
-
 * **Printemps 2027**: avoir un outil le plus complet possible à disposition des usagers non-résidents
 
 ## Phase d'investigation
-
 * Établir un comparatif des solutions techniques possibles pour créer un simulateur de l'impôt sur le revenu
-
 * Choix de la solution technique en fonction des critères principaux (dont sécurité et pérennité)
-
 * Délimiter un premier périmètre fonctionnel à envisager
-
 * Commencer à déterminer le logigramme des questions à poser à l'utilisateur
+
+## Phase de construction
+
+* Construire un produit aux normes du SI DGFiP en fonction des retours utilisateurs lors de la phase d'investigation
+* Construire le produit en mode agile et mode produit en associant les utilisateurs au travers de tests et d'entretien
+* Fournir une première version du simulateur pour fin 2027 puis une évolution progressive des fonctionnalités afin de pouvoir fournir un simulateur abouti pour la campagne IR de 2027.
+* Fournir un bilan suite à cette première phase pour valider l'impact utilisateur

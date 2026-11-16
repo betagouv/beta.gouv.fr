@@ -22,7 +22,7 @@ missions:
     end: 2026-09-29
     status: independent
   - start: 2026-06-29
-    end: 2026-12-14
+    end: 2027-03-14
     status: independent
     employer: Opteamis
     startups:
