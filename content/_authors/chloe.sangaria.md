@@ -1,6 +1,6 @@
 ---
 fullname: Chloé SANGARIA
-role: Appui transverse Incubateur
+role: Responsable animation, partenariats & communication
 domaine: Intraprenariat
 github: CSPEGF
 missions:

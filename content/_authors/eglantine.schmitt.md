@@ -12,6 +12,7 @@ missions:
       - carbure
       - detection-d-ouvrages-hydrauliques
       - dialogue
+      - qualicharge
       - sous-occupation-hlm
       - transport
 github: eglantine

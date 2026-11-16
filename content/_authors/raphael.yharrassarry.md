@@ -25,7 +25,7 @@ missions:
     startups:
       - codedutravail
   - start: 2026-04-08
-    end: 2027-01-31
+    end: 2027-03-31
     status: independent
     employer: Cober
     startups:

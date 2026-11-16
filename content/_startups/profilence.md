@@ -16,6 +16,8 @@ phases:
     start: 2025-05-19
   - name: acceleration
     start: 2026-04-08
+  - name: transfere
+    start: 2026-11-09
 events:
   - name: product_launch
     date: 2025-01-22
@@ -31,6 +33,9 @@ events:
   - name: committee
     date: 2026-04-08
     comment: ✅ GO pour l'accélération du vivier (déploiement)
+  - name: committee
+    date: 2026-11-09
+    comment: Sortie de l'incubateur. Transféré à une direction métier
 usertypes:
   - entreprise
   - particulier

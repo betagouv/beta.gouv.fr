@@ -5,7 +5,7 @@ domaine: Support
 competences: []
 missions:
   - start: 2026-08-31
-    end: 2026-11-30
+    end: 2027-02-28
     status: independent
     employer: MALT
     startups:

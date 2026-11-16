@@ -10,7 +10,7 @@ missions:
     startups:
       - refugies.info
   - start: 2024-09-01
-    end: 2026-10-31
+    end: 2027-04-30
     status: independent
     employer: MALT
     startups:

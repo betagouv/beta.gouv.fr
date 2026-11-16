@@ -4,7 +4,7 @@ domaine: Coaching
 role: Coach
 missions:
   - start: 2022-01-13
-    end: 2026-10-26
+    end: 2026-05-25
     status: independent
     employer: Numa
     startups:
@@ -18,7 +18,7 @@ missions:
       - pop
       - qualicharge
   - start: 2026-09-16
-    end: 2026-12-16
+    end: 2027-02-26
     status: independent
     employer: Numa
     startups:

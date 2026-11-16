@@ -24,7 +24,7 @@ missions:
     startups:
       - je-deviens-etudiant
   - start: 2025-10-01
-    end: 2026-12-01
+    end: 2027-03-01
     status: independent
     employer: Malt
     startups:

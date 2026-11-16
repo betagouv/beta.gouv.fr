@@ -24,7 +24,7 @@ missions:
     startups:
       - point-d-acces-national-aux-donnees-d-accessibilite
   - start: 2026-08-17
-    end: 2026-10-17
+    end: 2027-01-31
     status: independent
     employer: OCTO - Ground
     startups:
