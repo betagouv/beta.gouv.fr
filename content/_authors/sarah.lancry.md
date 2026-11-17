@@ -10,6 +10,12 @@ missions:
     status: independent
     startups:
       - les-emplois
+  - start: 2025-12-31
+    end: 2027-04-17
+    status: admin
+    startups:
+      - la-plateforme-de-l-inclusion-produit-unifie
 previously:
   - andi
+competences: []
 ---

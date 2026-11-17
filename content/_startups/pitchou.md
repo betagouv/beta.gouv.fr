@@ -13,6 +13,8 @@ phases:
     end: 2023-11-27
   - name: construction
     start: 2024-03-15
+  - name: acceleration
+    start: 2026-11-17
 thematiques:
   - Écologie
 usertypes:

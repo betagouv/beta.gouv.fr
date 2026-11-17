@@ -12,13 +12,11 @@ sponsors:
   - /organisations/dgaln
 phases:
   - name: investigation
-    comment: null
     start: 2026-12-01
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-11-16
+link: ''
 ---
 ## Contexte
 
