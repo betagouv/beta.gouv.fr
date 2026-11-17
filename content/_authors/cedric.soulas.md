@@ -32,7 +32,7 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - pv.facile
+      - betawatt
   - start: 2026-06-08
     end: 2027-01-31
     status: independent
@@ -44,7 +44,7 @@ missions:
     status: independent
     employer: Numa
     startups:
-      - pv.facile
+      - betawatt
 competences: []
 ---
 Développeur d’applications web et créateur de formations illustrées

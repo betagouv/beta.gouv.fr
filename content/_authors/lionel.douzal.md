@@ -7,7 +7,7 @@ missions:
     end: 2026-12-01
     status: admin
     startups:
-      - pv.facile
+      - betawatt
 memberType: dinum
 competences: []
 ---

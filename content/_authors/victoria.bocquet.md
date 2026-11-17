@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Numa
     startups:
-      - pv.facile
+      - betawatt
       - trait-de-cote
   - start: 2025-01-01
     end: 2025-04-21

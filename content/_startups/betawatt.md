@@ -3,6 +3,8 @@ mission: Améliorer le développement des projets photovoltaïques en intervenan
 incubator: mtes
 title: BetaWatt
 contact: contact@betawatt.beta.gouv.fr
+redirect_from:
+  - /startups/pv.facile
 accessibility_status: non conforme
 phases:
   - name: investigation

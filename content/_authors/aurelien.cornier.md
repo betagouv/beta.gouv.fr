@@ -7,7 +7,7 @@ missions:
     end: 2027-12-31
     status: admin
     startups:
-      - pv.facile
+      - betawatt
 competences:
   - Agrivoltaïque
   - DDT 16

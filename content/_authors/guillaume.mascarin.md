@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: Fabrique numérique
     startups:
-      - pv.facile
+      - betawatt
 memberType: beta
 competences: []
 ---
