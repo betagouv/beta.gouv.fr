@@ -9,7 +9,10 @@ missions:
     status: admin
     employer: Ministère de la Culture
     startups:
+      - donnees-spectacle
+      - etat-sanitaire-des-monuments-historiques-en-mobilite
       - euphrosyne
+      - mnemo
       - pop
 teams:
   - /teams/culture

@@ -1,20 +1,8 @@
 ---
-mission: Améliorer le développement des projets photovoltaïques en intervenant plus en amont
-incubator: mtes
-title: BetaWatt
+accessibility_status: non conforme
 contact: contact@betawatt.beta.gouv.fr
 redirect_from:
   - /startups/pv.facile
-accessibility_status: non conforme
-phases:
-  - name: investigation
-    start: 2024-04-04
-  - name: construction
-    start: 2025-09-01
-sponsors:
-  - /organisations/dgec
-  - /organisations/direction-departementale-des-territoires-de-la-charente
-  - /organisations/direction-departementale-des-territoires-de-la-haute-garonne
 thematiques:
   - Énergies Renouvelables
   - Photovoltaïque
@@ -23,8 +11,24 @@ usertypes:
   - etat
   - collectivite-territoriale
 techno: []
+title: BetaWatt
+mission: Améliorer le développement des projets photovoltaïques en intervenant plus en amont
+incubator: mtes
 contact_incubator: samuel.goldszmidt
-link: ''
+sponsors:
+  - /organisations/dgec
+  - /organisations/direction-departementale-des-territoires-de-la-charente
+  - /organisations/direction-departementale-des-territoires-de-la-haute-garonne
+phases:
+  - name: investigation
+    comment: null
+    start: 2024-04-04
+    end: null
+  - name: construction
+    comment: null
+    start: 2025-09-01
+    end: null
+events: []
 ---
 ## Contexte
 

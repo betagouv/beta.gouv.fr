@@ -7,9 +7,8 @@ competences:
 missions:
   - start: 2026-05-16
     end: 2027-02-16
-    employer: SOPRA STERIA / CGI France
     status: service
+    employer: SOPRA STERIA / CGI France
     startups:
       - simul-nr
-teams: []
 ---

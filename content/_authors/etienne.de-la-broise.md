@@ -5,9 +5,9 @@ domaine: Développement
 competences: []
 missions:
   - start: 2026-04-16
-    end: 2026-12-08
+    end: 2027-02-28
     status: independent
-    employer: La Zone
+    employer: Crème de la crème
     startups:
       - docurba
 github: edlb

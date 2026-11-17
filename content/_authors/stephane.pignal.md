@@ -5,9 +5,9 @@ domaine: Déploiement
 github: stephane-pignal
 missions:
   - start: 2024-03-04
-    end: 2026-12-02
+    end: 2026-09-15
     status: service
-    employer: Pathtech
+    employer: Pathtech / Creme de la Creme
     startups:
       - transport
 memberType: beta

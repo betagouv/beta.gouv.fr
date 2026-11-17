@@ -5,7 +5,7 @@ domaine: Développement
 github: francois-ferrandis
 missions:
   - start: 2022-04-25
-    end: 2026-12-17
+    end: 2027-03-17
     status: independent
     employer: Scopyleft
     startups:

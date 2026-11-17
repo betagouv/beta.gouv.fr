@@ -1,5 +1,5 @@
 ---
-fullname: Clothilde du Crest Madiec
+fullname: Clothilde du Crest
 role: Growth Hacker
 domaine: Autre
 link: https://www.linkedin.com/in/clothilde-du-crest-43799a25/
@@ -9,6 +9,7 @@ missions:
     status: independent
     startups:
       - api-engagement
+      - plateforme-de-l-engagement
 memberType: beta
 competences: []
 ---

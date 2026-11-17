@@ -15,6 +15,7 @@ missions:
     status: independent
     employer: GIP PLATEFORME DE L'INCLUSION
     startups:
+      - la-plateforme-de-l-inclusion-produit-unifie
       - mon-recap
 memberType: beta
 competences:
