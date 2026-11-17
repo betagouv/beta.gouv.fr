@@ -6,9 +6,9 @@ link: https://www.linkedin.com/in/paulineschieven/
 competences: []
 missions:
   - start: 2024-12-10
-    end: 2026-11-30
+    end: 2027-02-28
     status: independent
-    employer: Omnicite
+    employer: LA MANUFACTURE
     startups:
       - données-et-territoires
 ---

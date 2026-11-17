@@ -23,7 +23,7 @@ missions:
     startups:
       - tchap
   - start: 2022-09-01
-    end: 2026-12-15
+    end: 2027-04-30
     status: independent
     employer: Malt puis Multi
     startups:
@@ -35,7 +35,7 @@ missions:
     startups:
       - deveco
   - start: 2025-02-01
-    end: 2026-12-15
+    end: 2027-03-31
     status: independent
     employer: Malt puis Multi
     startups:

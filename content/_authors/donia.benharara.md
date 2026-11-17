@@ -17,6 +17,12 @@ missions:
     employer: Pathtech
     startups:
       - mobilic
+  - start: 2026-11-30
+    end: 2027-03-30
+    status: service
+    employer: Pathtech
+    startups:
+      - sante-psy-etudiant
 memberType: autre
 competences: []
 ---

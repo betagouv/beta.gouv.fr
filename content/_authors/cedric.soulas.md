@@ -9,6 +9,8 @@ missions:
     end: 2022-11-30
     status: independent
     employer: octo
+    startups:
+      - reva
   - start: 2022-12-01
     end: 2026-08-30
     status: independent
@@ -22,29 +24,29 @@ missions:
     startups:
       - mission-transition-ecologique
   - start: 2024-10-25
-    end: 2026-03-31
+    end: 2026-06-07
     status: independent
     employer: Malt
     startups:
-      - mission-transition-ecologique
+      - vert.impact
   - start: 2026-05-13
     end: 2026-06-15
     status: independent
     employer: Malt
     startups:
-      - pv.facile
+      - betawatt
   - start: 2026-06-08
     end: 2027-01-31
     status: independent
     employer: Crème de la crème
     startups:
-      - mission-transition-ecologique
+      - vert.impact
   - start: 2026-06-16
-    end: 2026-12-31
+    end: 2027-01-31
     status: independent
     employer: Numa
     startups:
-      - pv.facile
+      - betawatt
 competences: []
 ---
-Développeur d’applications web et créateur de formations illustrées
+Product & Software Engineer

@@ -7,7 +7,7 @@ competences:
   - Droit / Affaires juridiques
 missions:
   - start: 2025-09-15
-    end: 2026-12-19
+    end: 2027-10-14
     status: admin
     employer: Incubateur Justice
     startups:

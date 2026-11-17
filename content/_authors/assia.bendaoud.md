@@ -9,3 +9,4 @@ missions:
     status: service
     employer: Malt
 ---
+CS chez MALT 

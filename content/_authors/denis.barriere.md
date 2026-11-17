@@ -12,7 +12,7 @@ competences:
   - PostgreSQL
 missions:
   - start: 2026-06-08
-    end: 2026-12-08
+    end: 2027-02-26
     status: independent
     employer: Docaposte
     startups:

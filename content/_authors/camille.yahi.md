@@ -2,7 +2,7 @@
 fullname: Camille Yahi Saillard
 role: Développeuse à Refugies.info
 domaine: Développement
-link: https://www.linkedin.com/in/camille-yahi-saillard-8677a5a6/
+link: https://www.linkedin.com/in/camille-yahi-saillard-8677a5a6
 competences:
   - Développement Backend
   - Développement Full-stack
@@ -10,6 +10,12 @@ competences:
   - JavaScript/TypeScript
   - PostgreSQL
 missions:
+  - start: 2022-10-03
+    end: 2023-06-16
+    status: independent
+    employer: scopyleft
+    startups:
+      - données-et-territoires
   - start: 2026-05-26
     end: 2027-01-01
     status: independent

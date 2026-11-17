@@ -8,11 +8,10 @@ competences: []
 missions:
   - start: 2026-11-10
     end: 2027-01-31
-    employer: La Manufacture
     status: independent
+    employer: La Manufacture
     startups:
       - compte.rendu.vif
       - donnees-spectacle
       - etat-sanitaire-des-monuments-historiques-en-mobilite
-teams: []
 ---

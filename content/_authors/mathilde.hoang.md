@@ -1,6 +1,6 @@
 ---
 fullname: Mathilde Hoang
-role: 'Responsable de mission '
+role: CPO
 domaine: Produit
 link: https://www.linkedin.com/in/mathilde-hoang-01a72a88/
 competences: []
@@ -9,6 +9,8 @@ missions:
     end: 2027-04-17
     status: admin
     employer: INOPS
+    startups:
+      - la-plateforme-de-l-inclusion-produit-unifie
   - start: 2024-09-02
     end: 2024-10-30
     status: independent

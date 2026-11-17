@@ -8,9 +8,9 @@ competences:
   - Product design
 missions:
   - start: 2024-08-19
-    end: 2026-11-16
+    end: 2027-04-18
     status: independent
-    employer: Inop's
+    employer: Docapost
     startups:
       - l-immersion-facile
 ---
