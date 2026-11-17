@@ -1,6 +1,8 @@
 ---
 accessibility_status: non conforme
 contact: contact@betawatt.beta.gouv.fr
+redirect_from:
+  - /startups/pv.facile
 thematiques:
   - Énergies Renouvelables
   - Photovoltaïque
