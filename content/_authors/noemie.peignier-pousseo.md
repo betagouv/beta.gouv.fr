@@ -1,11 +1,11 @@
 ---
 fullname: Noémie Peignier
-role: Responsable de l'Atelier numérique du MEAE
+role: Co-responsable de l'Atelier numérique du MEAE
 domaine: Animation
 github: PNoemie
 missions:
   - start: 2021-01-01
-    end: 2026-12-31
+    end: 2027-12-31
     status: admin
     employer: MEAE
   - start: 2021-10-18

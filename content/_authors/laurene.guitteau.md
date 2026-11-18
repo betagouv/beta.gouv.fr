@@ -17,4 +17,5 @@ missions:
     employer: '--'
     startups:
       - refugies.info
+link: https://www.linkedin.com/in/lguitteau/
 ---

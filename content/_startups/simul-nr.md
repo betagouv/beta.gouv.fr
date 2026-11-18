@@ -23,10 +23,14 @@ phases:
   - name: construction
     start: 2025-11-26
 events:
+  - name: committee
+    date: 2025-11-26
   - name: product_launch
     date: 2026-03-16
+  - name: committee
+    date: 2026-12-07
 impact_url: https://docs.numerique.gouv.fr/docs/cbe1e028-4c39-40e2-9bce-110087a1ea51/
-budget_url: https://docs.numerique.gouv.fr/docs/fc1d422c-e629-4386-8be1-c91457275f59/
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/
 link: ''
 ---
 ## Contexte

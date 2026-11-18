@@ -26,6 +26,7 @@ events:
     date: 2025-02-01
 contact_dinum: magali.marcel
 contact_incubator: love.andrieu
+budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/
 link: ''
 ---
 
