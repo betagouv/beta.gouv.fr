@@ -1,6 +1,6 @@
 ---
 fullname: Virginie  Lenzi
-role: Intrapreneur
+role: Intrapreneuse
 domaine: Intraprenariat
 competences:
   - Administration Publique

@@ -21,14 +21,10 @@ sponsors:
   - /organisations/direction-departementale-des-territoires-de-la-haute-garonne
 phases:
   - name: investigation
-    comment: null
     start: 2024-04-04
-    end: null
   - name: construction
-    comment: null
     start: 2025-09-01
-    end: null
-events: []
+link: ''
 ---
 ## Contexte
 

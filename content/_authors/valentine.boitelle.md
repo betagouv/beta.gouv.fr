@@ -20,5 +20,11 @@ missions:
     startups:
       - astree
       - m-ir-ai
+  - start: 2026-11-18
+    end: 2027-02-18
+    status: admin
+    employer: Ministère de l'Intérieur
+    startups:
+      - reponse
 ---
 Experte en intrapreneuriat (création de différents programmes), j'aide à détecter et accompagner les innovations

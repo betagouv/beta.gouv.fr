@@ -7,7 +7,7 @@ competences:
   - Intrapreneur(se)
 missions:
   - start: 2025-06-17
-    end: 2026-12-18
+    end: 2027-04-30
     status: admin
     employer: DNUM
     startups:

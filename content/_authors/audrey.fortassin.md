@@ -21,7 +21,7 @@ missions:
     startups:
       - aigle
   - start: 2026-03-02
-    end: 2027-03-01
+    end: 2027-05-17
     status: independent
     employer: Scopopop
     startups:

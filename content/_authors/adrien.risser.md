@@ -31,7 +31,7 @@ missions:
     startups:
       - france-numerique-ensemble
   - start: 2025-12-10
-    end: 2026-12-02
+    end: 2027-02-18
     status: independent
     employer: Malt
 competences:

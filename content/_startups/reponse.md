@@ -23,11 +23,11 @@ phases:
 events:
   - name: product_launch
     date: 2025-07-31
+  - name: other
+    date: 2026-01-06
+    comment: Passage en production et test en préfecture du 59
 link: ''
 ---
-**Le texte ci-dessous est un placeholder brouillon généré par IA. Les intrapreneurs vont mettre à jour la fiche rapidement.**
-
-Placeholder:
 
 
 ## Contexte
