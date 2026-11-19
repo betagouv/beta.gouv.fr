@@ -8,6 +8,7 @@ gem 'base64'
 gem 'csv'
 gem 'google-protobuf'
 gem 'jekyll'
+gem 'ostruct'
 
 gem 'activemodel'
 
