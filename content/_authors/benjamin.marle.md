@@ -8,7 +8,7 @@ competences:
   - Data Science
 missions:
   - start: 2026-06-16
-    end: 2026-12-16
+    end: 2027-05-18
     status: independent
     employer: Docaposte
     startups:

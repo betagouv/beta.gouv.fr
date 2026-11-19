@@ -17,7 +17,7 @@ phases:
     end: 2023-06-20
   - name: construction
     start: 2024-05-02
-  - name: acceleration
+  - name: transfere
     start: 2025-12-04
 thematiques:
   - Administratif
@@ -34,6 +34,9 @@ stats_url: https://fichiers.numerique.gouv.fr/explorer/items/files/1d052a23-a51d
 impact_url: https://fichiers.numerique.gouv.fr/explorer/items/files/6594c7df-1096-4d55-90d6-5e996c973762
 link: ''
 ---
+Ce produit n'a pas été et n'est pas opéré selon la méthode Beta.
+
+
 ## Contexte
 Les services déconcentrés ou d’administration centrale du Ministère de l’Intérieur (MI) instruisent les réponses à apporter aux recours juridictionnels ou non juridictionnels dirigés contre les décisions adoptées dans l’exercice des missions du Ministère.
 

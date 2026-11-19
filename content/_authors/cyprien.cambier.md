@@ -9,6 +9,11 @@ missions:
     status: admin
     employer: EIG
     startups:
-      - 1-eleve-1-stage
       - plateforme-d-admission-au-doctorat
+  - start: 2025-01-15
+    end: 2026-11-19
+    status: admin
+    employer: EIG
+    startups:
+      - 1-eleve-1-stage
 ---

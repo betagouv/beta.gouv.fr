@@ -18,7 +18,7 @@ phases:
     start: 2025-01-01
   - name: construction
     start: 2026-01-06
-  - name: acceleration
+  - name: transfere
     start: 2026-03-09
 events:
   - name: product_launch
@@ -28,6 +28,7 @@ events:
     comment: Passage en production et test en préfecture du 59
 link: ''
 ---
+Ce produit n'a pas été et n'est pas opéré selon la méthode Beta.
 
 
 ## Contexte

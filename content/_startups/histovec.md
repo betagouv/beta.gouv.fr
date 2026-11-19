@@ -22,6 +22,9 @@ usertypes:
 thematiques: []
 techno: []
 ---
+Ce produit n'est plus opéré selon la méthode Beta.
+
+
 ## Le scandale des arnaques aux véhicules d'occasion
 
 Des scandales récurrents nous rappellent qu’acheter une voiture d’occasion n’est pas sans risque.

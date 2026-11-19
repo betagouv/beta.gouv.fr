@@ -8,7 +8,7 @@ competences:
   - Product strategy
 missions:
   - start: 2025-01-06
-    end: 2027-02-28
+    end: 2027-03-31
     status: independent
     employer: Malt
     startups:

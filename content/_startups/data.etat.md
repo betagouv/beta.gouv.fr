@@ -14,8 +14,8 @@ phases:
     start: 2022-11-01
   - name: construction
     start: 2023-03-01
-  - name: acceleration
-    start: 2027-05-01
+  - name: transfere
+    start: 2026-05-01
 thematiques:
   - Open-Data
   - Administratif
@@ -50,6 +50,9 @@ events:
     comment: Homologation ANSII pour 2 ans
 impact_url: https://docs.numerique.gouv.fr/docs/2db48083-d675-4df9-9021-25bdcb6dfbac/
 ---
+Ce produit n'a pas fait l'objet de comité d'investissement et n'est pas opéré selon la méthode Beta.
+
+
 ## Contexte
 
 Lancé suite au plan de Relance avec l'enjeu de ne plus avoir à utiliser AirTable et collecter à un prix très coûteux des formats de données financières de l'Etat et de ses opérateurs parfois non fiables et souvent non interopérables... 

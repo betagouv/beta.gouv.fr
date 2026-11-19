@@ -13,7 +13,7 @@ incubator: FabNum-MI
 phases:
   - name: construction
     start: 2024-09-13
-  - name: acceleration
+  - name: transfere
     start: 2025-09-15
 events:
   - name: product_launch
@@ -26,7 +26,12 @@ contact_incubator: audrey.pierre
 sponsors:
   - /organisations/weill
 ---
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
+Ce produit n'a pas été et n'est pas opéré selon la méthode Beta.
+
+
+
+
+
 
 ## Contexte
 

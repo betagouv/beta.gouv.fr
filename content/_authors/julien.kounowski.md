@@ -9,16 +9,12 @@ missions:
     employer: Dinum
     startups:
       - aidess
-  - start: 2024-04-08
-    end: 2026-12-31
-    status: admin
-    employer: Dinum
-    startups:
-      - data.etat
   - start: 2024-09-02
-    end: 2026-12-31
+    end: 2026-11-20
     status: admin
     employer: DINUM / MIOM / DITP
+    startups:
+      - data.etat
 badges:
   - segur
 competences:

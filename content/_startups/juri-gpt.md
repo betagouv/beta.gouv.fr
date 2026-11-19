@@ -30,7 +30,7 @@ phases:
     start: 2023-11-20
   - name: construction
     start: 2024-04-25
-  - name: acceleration
+  - name: abandon
     start: 2025-03-01
 events:
   - name: committee
@@ -58,6 +58,9 @@ events:
 link: https://jurigpt.c1.cloud-pi-native.com/
 stats_url: https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle_url=765021296Am4AZlBYVD8MMAMzA28LL1A8VWdUdQY/C2QCZwdvCzMOOAAyAGVVYgJmUDVebg==
 ---
+Ce produit n'a pas été et n'est pas opéré selon la méthode Beta.
+
+
 ## Contexte
 
 Lauréate de la promotion TechMIup 2023-2024, l'initiative JuriGPT est une solution d'intelligence artificielle, facile à utiliser, pour trouver rapidement une information juridique, fiable et raisonnée, en droit de l’immatriculation.
