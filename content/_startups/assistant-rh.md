@@ -114,7 +114,7 @@ Seconde itération (de mars à octobre 2026)
 * établir le périmètre aux 5 ministères de l’ATE (MATTE, MI, MSO, MASA, MEF) et tester la pertinence de l’outil dans une version interministérielle 
 * Conserver les mêmes testeurs et la même thématique RH (les contractuels) 
 
-Les principaux indicateurs de la première itération : 
+Les principaux indicateurs de la seconde itération : 
 * Taux de pertinence des réponses : 82 %
 * Confiance dans les réponses fournies : 79 %
 * Délai de réponse aux agents : 11 minutes de gain en moyenne par réponse

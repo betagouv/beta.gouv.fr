@@ -6,10 +6,10 @@ competences: []
 missions:
   - start: 2026-10-19
     end: 2027-05-31
-    employer: MEAE
     status: admin
+    employer: MEAE
     startups:
       - ecco
 teams:
-  - /teams//teams/atelier_meae
+  - /teams/atelier_meae
 ---

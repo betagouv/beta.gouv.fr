@@ -48,10 +48,10 @@ La loi du 7 février 2022 a officiellement confié au GIP France Enfance Protég
 
 ## Solution
 
-Le GIP France Enfance Protégée va permettre la consultation d'une base nationale regroupant l'information départementale sur la validité des agréments
+Le GIP France Enfance Protégée va permettre la consultation d'une base nationale regroupant l'information départementale sur la validité des agréments.
 
 ## Objectifs à 6 mois
 
 Objectif à 6 mois : développement technique de la plateforme
 
-Objectif **d'impact** à 6 mois : premiers utilisateurs en service PMI, qui par la consultation de ce fichier national, pourront atteindre le "0 agrément octroyé à une personne ayant déjà eu un retrait d'agrément pour cause de violences avec suivi pénal"
+Objectif **d'impact** à 6 mois : premiers utilisateurs en service PMI, qui par la consultation de ce fichier national, pourront atteindre le "0 agrément octroyé à une personne ayant déjà eu un retrait d'agrément pour cause de violences avec suivi pénal".

@@ -24,4 +24,10 @@ missions:
     employer: Docaposte
     startups:
       - investigation-cour-d-appel-de-paris
+  - start: 2026-11-19
+    end: 2027-05-19
+    status: independent
+    employer: Docaposte
+    startups:
+      - investigation-cour-d-appel-de-paris
 ---

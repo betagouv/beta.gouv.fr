@@ -4,7 +4,7 @@ domaine: Développement
 role: Administrateur système
 missions:
   - start: 2021-06-15
-    end: 2026-12-02
+    end: 2027-05-13
     status: independent
     employer: La Zone
     startups:
