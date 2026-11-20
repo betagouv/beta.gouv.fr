@@ -5,7 +5,7 @@ domaine: Développement
 competences: []
 missions:
   - start: 2026-01-01
-    end: 2026-12-04
+    end: 2027-02-04
     status: service
     employer: Solstice
     startups:

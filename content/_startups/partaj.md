@@ -11,7 +11,7 @@ phases:
     start: 2019-11-01
   - name: transfere
     start: 2021-09-01
-link: https://partaj.beta.gouv.fr
+link: https://partaj.ecologie.gouv.fr/
 repository: https://github.com/MTES-MCT/partaj
 stats: false
 contact: contact@partaj.beta.gouv.fr

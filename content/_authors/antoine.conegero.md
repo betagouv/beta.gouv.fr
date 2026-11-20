@@ -19,4 +19,5 @@ competences:
   - PostgreSQL
   - Python
   - Sécurité informatique
+github: AntoineConegero
 ---

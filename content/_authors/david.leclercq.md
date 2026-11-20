@@ -1,6 +1,6 @@
 ---
 fullname: David Leclercq
-role: Product Designer
+role: UX Strategist & Product Designer
 domaine: Design
 link: https://www.linkedin.com/in/dleclercq/
 competences:
@@ -12,10 +12,11 @@ competences:
   - Coaching
 missions:
   - start: 2025-01-06
-    end: 2026-12-31
+    end: 2027-04-30
     status: service
     employer: France Travail
     startups:
+      - estime.formation
       - handicompatible
       - mes-aides-france-travail
       - travailler.en.france

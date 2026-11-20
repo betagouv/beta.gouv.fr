@@ -26,7 +26,7 @@ usertypes:
   - particulier
   - association
   - etablissement-scolaire
-link: https://documentation.exposition.inserjeunes.beta.gouv.fr/
+link: ''
 accessibility_status: non conforme
 thematiques:
   - Jeunesse

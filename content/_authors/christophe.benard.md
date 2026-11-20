@@ -5,9 +5,9 @@ role: Développeur
 github: ch-benard
 missions:
   - start: 2020-09-01
-    end: 2026-12-31
+    end: 2027-12-31
     status: admin
-    employer: MTES
+    employer: MTE
     startups:
       - resorption-bidonvilles
 incubator: mtes

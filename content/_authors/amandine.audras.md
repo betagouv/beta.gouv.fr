@@ -35,7 +35,7 @@ missions:
       - moncomptepro
       - proconnect
   - start: 2026-03-24
-    end: 2026-12-31
+    end: 2027-04-30
     status: independent
     employer: La Zone
     startups:

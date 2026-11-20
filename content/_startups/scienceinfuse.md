@@ -23,7 +23,7 @@ thematiques:
   - Sciences
   - Education
 techno: []
-link: https://ada.beta.gouv.fr/
+link: https://ada.universcience.fr/
 repository: https://github.com/betagouv/ada
 ---
 ## Le problème

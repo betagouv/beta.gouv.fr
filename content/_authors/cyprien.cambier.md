@@ -11,9 +11,10 @@ missions:
     startups:
       - plateforme-d-admission-au-doctorat
   - start: 2025-01-15
-    end: 2026-11-19
+    end: 2025-10-31
     status: admin
     employer: EIG
     startups:
       - 1-eleve-1-stage
+github: Cyprien-beta
 ---

@@ -16,12 +16,14 @@ phases:
 events:
   - name: end
     date: 2020-07-10
-link: https://kelrisks.beta.gouv.fr
+link: https://errial.georisques.gouv.fr/
 repository: https://github.com/MTES-MCT/kelrisks
 stats: false
 contact: mathieu.guiot@developpement-durable.gouv.fr
 usertypes:
   - entreprise
+thematiques: []
+techno: []
 ---
 ## La pollution des sols : un risque invisible mais bien réel
 En 2017 près d’un million de transactions foncières ont été opérées. Qu’un projet immobilier soit porté par un particulier, par une société ou une collectivité, il engage l’investisseur sur le long terme et doit être pour cette raison parfaitement sécurisé. 

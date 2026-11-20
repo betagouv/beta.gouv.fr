@@ -11,6 +11,12 @@ missions:
     employer: Malt
     startups:
       - services-web-anct
+  - start: 2026-11-23
+    end: 2027-02-20
+    status: independent
+    employer: Malt
+    startups:
+      - cahiers-citoyens
 ---
 Diplômée en Médias et Management du CELSA et en Philosophie politique, je travaille en freelance depuis septembre 2024. J'accompagne mes clients en conseil, rédaction et production, en créant des stratégies et des contenus adaptés, tout en portant une attention particulière aux enjeux écologiques.
 

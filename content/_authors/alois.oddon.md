@@ -5,7 +5,7 @@ domaine: Développement
 github: alo-is
 missions:
   - start: 2024-02-14
-    end: 2027-01-01
+    end: 2027-03-31
     status: service
     employer: Nextmap.io
 memberType: autre

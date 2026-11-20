@@ -15,4 +15,5 @@ competences:
   - Product design
   - UI
   - UX
+github: morganeboudin-cpu
 ---
