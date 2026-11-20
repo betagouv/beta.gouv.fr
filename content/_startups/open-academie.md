@@ -11,7 +11,7 @@ phases:
     start: 2015-01-01
   - name: transfere
     start: 2020-07-01
-link: https://openacademie.beta.gouv.fr
+link: https://openacademie.fr/
 repository: https://github.com/betagouv/open-academie
 stats: false
 contact: pierre.de-maulmont@ac-paris.fr
@@ -19,6 +19,8 @@ redirect_from:
   - /startups/openacademie
 usertypes:
   - etablissement-scolaire
+thematiques: []
+techno: []
 ---
 Construire le lycée et le collège de demain avec les personnels d'aujourd'hui, en pariant sur l'intelligence locale, l'humilité déterminée, l'action concrète et l'amélioration continue. OpenAcademie est une communauté d'agents de l'éducation nationale qui partage des outils de productivité utiles au quotidien dans la gestion d'un Établissement Public Local d'Enseignement (EPLE).
 

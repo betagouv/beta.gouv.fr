@@ -7,7 +7,7 @@ sponsors:
   - /organisations/mtei
   - /organisations/mtfp
 incubator: mission-apprentissage
-link: https://catalogue.apprentissage.beta.gouv.fr/
+link: https://catalogue-apprentissage.intercariforef.org/
 repository: https://github.com/mission-apprentissage/catalogue-apprentissage
 contact: catalogue-apprentissage@education.gouv.fr
 stats_url: https://catalogue.apprentissage.beta.gouv.fr/stats

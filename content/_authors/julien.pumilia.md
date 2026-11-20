@@ -18,7 +18,7 @@ missions:
     startups:
       - signalement
   - start: 2026-08-17
-    end: 2027-02-17
+    end: 2027-02-19
     status: independent
     employer: Malt
     startups:

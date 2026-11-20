@@ -10,7 +10,7 @@ competences:
   - PostgreSQL
 missions:
   - start: 2025-05-21
-    end: 2027-01-31
+    end: 2027-02-19
     status: independent
     employer: Incubateur des territoires - ANCT
 github: echaffraix

@@ -4,7 +4,7 @@ mission: Diminuer les convocations non-honorées des personnes placées sous mai
 sponsors:
   - /organisations/mj
 incubator: justice
-link: https://mon-suivi-justice.beta.gouv.fr/
+link: https://www.justice.fr/mon-suivi-justice
 repository: https://github.com/betagouv/mon-suivi-justice
 contact: contact@mon-suivi-justice.beta.gouv.fr
 stats: true

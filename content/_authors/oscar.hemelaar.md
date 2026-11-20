@@ -21,7 +21,7 @@ missions:
     startups:
       - opi-cloud
   - start: 2026-02-01
-    end: 2026-11-15
+    end: 2026-12-31
     status: independent
     employer: Scopopop
     startups:

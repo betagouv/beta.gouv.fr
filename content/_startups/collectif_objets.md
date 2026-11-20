@@ -4,7 +4,7 @@ mission: Recenser les objets monuments historiques pour mieux les protéger
 sponsors:
   - /organisations/mc
 incubator: culture
-link: https://collectif-objets.beta.gouv.fr/
+link: https://collectif-objets.culture.gouv.fr/
 repository: https://github.com/betagouv/collectif-objets
 contact: collectifobjets@beta.gouv.fr
 usertypes:

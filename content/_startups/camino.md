@@ -14,7 +14,7 @@ title: Camino
 sponsors:
   - /organisations/deb
   - /organisations/dgaln
-link: https://camino.beta.gouv.fr
+link: https://camino.developpement-durable.gouv.fr/
 stats: true
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/camino-beta-gouv-fr/
 phases:
