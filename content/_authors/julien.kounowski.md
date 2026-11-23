@@ -10,7 +10,7 @@ missions:
     startups:
       - aidess
   - start: 2024-09-02
-    end: 2026-11-20
+    end: 2027-06-20
     status: admin
     employer: DINUM / MIOM / DITP
     startups:

@@ -1,7 +1,7 @@
 ---
 domaine: Développement
 fullname: Grégoire Cutzach
-role: Développement
+role: Directeur technique de Grist au sein de LaSuite
 missions:
   - start: 2024-05-01
     end: 2027-01-11
@@ -19,7 +19,7 @@ competences:
 memberType: beta
 ---
 Directeur technique de Grist à la DINUM
-Intrapreneur par intérim
+Intrapreneur de Grist
 Libriste
 Ex-Coordinateur des Journées du Logiciel Libre
 Administrateur du FAI Illyse

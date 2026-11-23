@@ -8,6 +8,12 @@ missions:
     employer: Cober x La Manufacture
     startups:
       - données-et-territoires
+  - start: 2026-11-23
+    end: 2027-02-23
+    status: independent
+    employer: Cober x La Manufacture
+    startups:
+      - grist.numerique.gouv.fr
 competences:
   - Développement Backend
   - Développement Frontend

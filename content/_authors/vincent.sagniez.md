@@ -10,6 +10,12 @@ missions:
     employer: IGN
     startups:
       - ban
+  - start: 2026-11-23
+    end: 2027-02-23
+    status: admin
+    employer: IGN
+    startups:
+      - bat-id
 competences: []
 ---
 Développeur

@@ -5,7 +5,7 @@ domaine: Développement
 github: RomainDGx
 missions:
   - start: 2023-11-13
-    end: 2026-11-27
+    end: 2027-05-23
     status: service
     employer: La Manufacture
     startups:

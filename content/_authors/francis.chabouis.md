@@ -9,6 +9,10 @@ missions:
     end: 2026-12-31
     status: independent
     employer: Codeurs en Liberté
+  - start: 2020-01-20
+    end: 2026-11-23
+    status: independent
+    employer: Codeurs en Liberté
     startups:
       - bat-id
 previously:

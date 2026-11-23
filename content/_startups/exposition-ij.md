@@ -26,13 +26,13 @@ usertypes:
   - particulier
   - association
   - etablissement-scolaire
-link: ''
 accessibility_status: non conforme
 thematiques:
   - Jeunesse
   - Formation
 dashlord_url: https://dashlord.incubateur.net/url/api-exposition-inserjeunes-beta-gouv-fr/
 techno: []
+link: ''
 ---
 ## Le problème
 

@@ -10,7 +10,7 @@ missions:
     startups:
       - snu
   - start: 2024-03-25
-    end: 2026-12-31
+    end: 2027-02-21
     status: independent
     employer: Malt
 link: https://www.linkedin.com/in/anselmechorein/

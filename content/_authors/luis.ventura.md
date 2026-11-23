@@ -18,7 +18,7 @@ missions:
     startups:
       - preuve-de-covoiturage
   - start: 2026-06-22
-    end: 2026-12-22
+    end: 2027-02-23
     status: independent
     employer: Malt
     startups:

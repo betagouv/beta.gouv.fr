@@ -6,7 +6,7 @@ github: atingaud
 competences: []
 missions:
   - start: 2026-07-08
-    end: 2026-12-04
+    end: 2026-12-18
     status: service
     employer: OCTO
     startups:

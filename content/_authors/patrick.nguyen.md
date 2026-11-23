@@ -4,13 +4,13 @@ fullname: Patrick Tai Nguyen
 role: Fullstack Software Engineer
 missions:
   - start: 2024-04-15
-    end: 2026-12-31
+    end: 2027-02-23
     status: independent
     employer: Octo
     startups:
       - pass-sport
   - start: 2024-11-14
-    end: 2026-12-31
+    end: 2027-02-23
     status: independent
     employer: Octo
     startups:

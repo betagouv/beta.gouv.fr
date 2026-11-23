@@ -34,6 +34,18 @@ missions:
     employer: MonEquipeProduit / Docaposte
     startups:
       - zacharie
+  - start: 2026-11-23
+    end: 2027-02-23
+    status: independent
+    employer: MonEquipeProduit / Docaposte
+    startups:
+      - ban
+  - start: 2026-11-23
+    end: 2027-02-23
+    status: independent
+    employer: MonEquipeProduit / Docaposte
+    startups:
+      - bat-id
 competences:
   - Développement Full-stack
   - JavaScript/TypeScript

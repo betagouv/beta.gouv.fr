@@ -11,6 +11,8 @@ incubator: francetravail
 phases:
   - name: investigation
     start: 2026-05-20
+  - name: abandon-investigation
+    start: 2026-11-18
 events:
   - name: committee
     date: 2025-10-14
@@ -18,6 +20,9 @@ events:
   - name: committee
     date: 2026-05-20
     comment: 2eme expérimentation
+  - name: committee
+    date: 2026-11-18
+    comment: Fin de 2ème expérimentation et fin de l'investigation
 usertypes:
   - Entrepreneurs inscrits à France Travail
 techno: []

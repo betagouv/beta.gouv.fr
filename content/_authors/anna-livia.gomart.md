@@ -22,8 +22,13 @@ missions:
     startups:
       - ami
       - droit-data-gouv-fr-simulateurs-de-droits
-      - grist.numerique.gouv.fr
       - notifications-v2
+  - start: 2021-03-15
+    end: 2026-11-23
+    status: admin
+    employer: dinum
+    startups:
+      - grist.numerique.gouv.fr
 previously:
   - openfisca
   - api.gouv.fr
