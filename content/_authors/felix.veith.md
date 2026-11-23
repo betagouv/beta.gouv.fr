@@ -10,6 +10,10 @@ missions:
     end: 2027-04-30
     status: independent
     employer: INETUM - LBC
+  - start: 2023-01-03
+    end: 2026-11-23
+    status: independent
+    employer: INETUM - LBC
     startups:
       - bat-id
   - start: 2023-09-10

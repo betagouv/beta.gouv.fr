@@ -5,7 +5,7 @@ domaine: Attributaire
 link: https://numericite.eu/
 missions:
   - start: 2023-02-20
-    end: 2026-12-20
+    end: 2027-05-20
     status: service
     employer: Numéricité
 memberType: autre

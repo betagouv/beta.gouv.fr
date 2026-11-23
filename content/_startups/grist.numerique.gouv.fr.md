@@ -10,6 +10,8 @@ phases:
   - name: construction
     start: 2024-09-01
   - name: acceleration
+    start: 2025-03-01
+  - name: transfere
     start: 2026-01-01
 fast:
   promotion: 16

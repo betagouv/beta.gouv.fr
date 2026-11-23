@@ -8,7 +8,7 @@ competences:
   - DevOps
 missions:
   - start: 2026-06-17
-    end: 2026-12-18
+    end: 2027-05-01
     status: independent
     employer: La Manufacture (Docaposte) X COBER
     startups:
