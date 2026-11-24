@@ -13,11 +13,16 @@ missions:
       - notifications-v1
       - transport
   - start: 2026-05-04
-    end: 2026-12-31
+    end: 2027-03-31
     status: independent
-    employer: Crème de la Crème
+    employer: La Manufacture
     startups:
       - csplab
-competences: []
+competences:
+  - Administration Système
+  - Développement Backend
+  - DevOps
+  - Python
+  - Sécurité informatique
 ---
 Politiques publiques, humains, code

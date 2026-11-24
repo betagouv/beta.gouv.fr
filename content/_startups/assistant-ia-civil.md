@@ -13,13 +13,18 @@ phases:
   - name: investigation
     start: 2025-07-01
   - name: construction
-    start: 2026-01-09
+    start: 2026-07-02
 events:
   - name: committee
     date: 2025-12-08
     comment: budget alloué pour  6 mois à compter du 01/01/2026
+  - name: committee
+    date: 2026-07-02
+    comment: budget alloué pour 6 mois à compter du 01/07/2026
 techno:
   - LLM
+contact_dinum: elsa.le-duigou
+contact_incubator: anaick.heurtault
 link: ''
 ---
 ## Contexte
@@ -44,7 +49,7 @@ L'IA permettra d'analyser et résumer les conclusions des parties, d'identifier 
 
 L'IA pourra être une aide à la relecture formelle et de fond.  
 
-## Objectifs à 6 mois
+## Objectifs à 6 mois (1er semestre 2026)
 
 - Sélection et déploiement du modèle
 
@@ -62,3 +67,9 @@ Concevoir une interface et des fonctionnalités adaptées au "workflow" spécifi
 - Validation impact
 
 Valider la mesure d'impact (temps gagné) par un test grandeur nature auprès de 20 à 30 magistrats beta-testeurs
+
+## Objectif 2ème semestre 2026
+
+- déployer l'outil auprès de plus de 150 testeurs
+- améliorer les cas d'usage existant, la fiabilité 
+- ajouter de nouvelles fonctionnalités (Amélioration par IA, source, langage)

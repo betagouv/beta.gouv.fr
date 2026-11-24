@@ -12,7 +12,6 @@ missions:
       - acceslibre
       - accesscite
       - apilos
-      - camino
       - envergo
       - guichet-unique-de-la-haie-envergo-agricole
       - histologe
@@ -24,6 +23,12 @@ missions:
       - stop-punaises
       - urbanvitaliz
       - vigieau
+  - start: 2022-08-24
+    end: 2026-11-24
+    status: admin
+    employer: MTE
+    startups:
+      - camino
 competences:
   - Gestion de Produit
 teams:

@@ -13,4 +13,10 @@ missions:
     employer: Scopyleft
     startups:
       - rdv-service-public
+  - start: 2026-11-24
+    end: 2027-03-31
+    status: independent
+    employer: Crème de la Crème
+    startups:
+      - mobilic
 ---

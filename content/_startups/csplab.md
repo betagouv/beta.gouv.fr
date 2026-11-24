@@ -9,7 +9,13 @@ usertypes:
   - particulier
   - etat
   - collectivite-territoriale
-techno: []
+techno:
+  - python
+  - django
+  - sql
+  - github actions
+  - flask
+  - git
 title: CSPLab
 mission: Aider les candidats à comprendre et à trouver plus facilement leur voie dans le service public
 incubator: dinum
@@ -30,6 +36,7 @@ events:
   - name: product_launch
     date: 2026-04-09
     comment: 'Lancement du produit d''analyse de CV dans sa forme MVP lors du forum «Choisir le service public» à la Maison de la Mutualité '
+contact_dinum: denis.duwoye
 ---
 # Contexte
 

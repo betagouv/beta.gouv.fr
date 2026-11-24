@@ -2,7 +2,7 @@
 mission: Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
 incubator: mtes
 repository: https://gitlab-forge.din.developpement-durable.gouv.fr/pub/pnm-public/camino
-contact: camino@beta.gouv.fr
+contact: Camino@developpement-durable.gouv.fr
 analyse_risques: true
 accessibility_status: partiellement conforme
 usertypes:
@@ -12,8 +12,7 @@ usertypes:
   - etat
 title: Camino
 sponsors:
-  - /organisations/deb
-  - /organisations/dgaln
+  - /organisations/dgec
 link: https://camino.developpement-durable.gouv.fr/
 stats: true
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/camino-beta-gouv-fr/
@@ -25,7 +24,7 @@ phases:
   - name: acceleration
     start: 2023-06-15
   - name: transfere
-    start: 2024-06-15
+    start: 2027-03-14
 thematiques: []
 techno:
   - typescript
