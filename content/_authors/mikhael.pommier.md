@@ -10,7 +10,7 @@ competences:
   - design de services
 missions:
   - start: 2026-07-07
-    end: 2027-01-01
+    end: 2027-03-01
     status: independent
     employer: Malt
     startups:

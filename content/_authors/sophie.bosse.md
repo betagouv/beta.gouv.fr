@@ -10,4 +10,5 @@ missions:
     employer: MALT
     startups:
       - envergo
+github: sophie-bosse
 ---
