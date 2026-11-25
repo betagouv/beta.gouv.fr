@@ -73,3 +73,34 @@ Valider la mesure d'impact (temps gagné) par un test grandeur nature auprès de
 - déployer l'outil auprès de plus de 150 testeurs
 - améliorer les cas d'usage existant, la fiabilité 
 - ajouter de nouvelles fonctionnalités (Amélioration par IA, source, langage)
+
+
+### Code source
+
+Disponible sur le gitlab de l'incubateur justice sur demande (non open-source)
+
+### Budget
+
+250 k € obtenu au dernier comité du 02 juillet 2026 
+
+### Matrice d'impact
+- Le produit est-il utilisable ? 
+
++90 % des utilisateurs trouvent l'interface claire et intutitive
+
+- Le produit est-il utilisé ? 
+
+4 dossiers chargées / magistrat / semaine (moyenne)
+En cours de calcul : taux de rétention
+
+- Le produit est-il utile ? 
+
+En cous de construction : Temps gagné par dossier
+
+### Statistiques d'usage
+
+227 utilisateurs invités pour l'expérimentation
+
+100 utilisateurs réguliers 
+
+
