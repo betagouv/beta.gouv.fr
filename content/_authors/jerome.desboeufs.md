@@ -55,7 +55,7 @@ missions:
     startups:
       - maestro
   - start: 2025-10-01
-    end: 2026-12-31
+    end: 2027-03-31
     status: service
     employer: Living Data
     startups:
@@ -67,7 +67,7 @@ missions:
     startups:
       - sain-eau
   - start: 2026-07-28
-    end: 2026-12-31
+    end: 2027-03-31
     status: service
     employer: Living Data
     startups:

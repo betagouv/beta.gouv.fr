@@ -7,10 +7,9 @@ competences: []
 missions:
   - start: 2026-11-23
     end: 2027-02-23
-    employer: IGN
     status: admin
+    employer: IGN
     startups:
       - ban
       - bat-id
-teams: []
 ---

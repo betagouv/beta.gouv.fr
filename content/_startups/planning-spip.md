@@ -12,13 +12,11 @@ sponsors:
   - /organisations/mj
 phases:
   - name: investigation
-    comment: null
     start: 2026-11-24
-    end: null
 events:
   - name: product_launch
-    comment: ''
     date: 2026-11-13
+link: ''
 ---
 ## Contexte
 

@@ -9,7 +9,7 @@ competences:
   - Data Science
 missions:
   - start: 2026-06-05
-    end: 2026-12-31
+    end: 2027-02-25
     status: independent
     employer: Octo
     startups:

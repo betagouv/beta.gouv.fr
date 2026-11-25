@@ -4,8 +4,7 @@ mon_service_securise: false
 contact: elsa.le-duigou@beta.gouv.fr
 thematiques:
   - Justice
-usertypes:
-  - etat
+usertypes: []
 title: Mon assistant pénal
 mission: Accélérer le traitement des dossiers au parquet des juridictions relevant de la Cour d'appel de Paris afin de raccourcir les délais de procédure et optimiser le temps de travail des magistrats.
 incubator: justice
@@ -14,22 +13,33 @@ sponsors:
   - /organisations/parquet-general-de-paris
 phases:
   - name: investigation
-    start: 2025-02-04
+    start: 2025-07-07
   - name: construction
-    start: 2025-05-06
+    start: 2026-05-19
 events:
   - name: product_launch
-    date: 2025-02-14
+    date: 2025-05-06
+  - name: committee
+    date: 2025-05-30
+    comment: Création de la startup, lancement de la phase de construction
+  - name: committee
+    date: 2025-11-18
+    comment: Prolongation en phase de construction
+  - name: committee
+    date: 2026-05-19
+    comment: Prolongation en phase de construction
 techno: []
+contact_dinum: elsa.le-duigou
+contact_incubator: anaick.heurtault
 link: ''
 ---
 
 
-**Intrapreneur** : Nicolas Dupont-Frugier, substitut placé auprès de la procureure générale de Paris
+**Intrapreneur** : Geoffrey Makan, substitut placé auprès de la procureure générale de Paris
 
  **Sponsor** : Marie-Suzanne Le Quéau, procureure générale de la cour d'appel de Paris
 
-**L'investigation est co-portée par l'incubateur Alliance et l'incubateur du ministère de la Justice.**
+**L'investigation est co-portée par l'incubateur du ministère de la Justice.**
 
 
 ### Le contexte
@@ -61,4 +71,38 @@ Le produit Mon assistant parquet en cours de construction vise à offrir les fon
 * Permettre une vue approfondie du dossier en affichant dans une liseuse PDF la ou les sources de la réponse et en surlignant les passages pertinents ;
 
 * Permettre aux utilisateurs d’interroger eux-mêmes la procédure.
+
+### Code source
+
+Disponible sur le gitlab de l'incubateur justice sur demande (non open-source)
+
+### Budget
+
+180 k € obtenu au dernier comité du 19 mai 2026 
+
+### Matrice d'impact
+- Le produit est-il utilisable ? 
+
++90 % des utilisateurs trouvent l'interface claire et intuitive
+
+- Le produit est-il utilisé ? 
+
+4,3 procédures chargées / magistrat / semaine (moyenne)
+30% taux de rétention
+
+- Le produit est-il utile ? 
+
+En cous de construction : Temps gagné par procédures
+
+### Statistiques d'usage
+
+168 utilisateurs invités pour l'expérimentation
+
+58 utilisateurs réguliers 
+
+
+
+
+
+
 
