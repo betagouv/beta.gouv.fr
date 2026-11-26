@@ -31,4 +31,5 @@ missions:
 competences:
   - Coaching
   - Product strategy
+github: inesdartiguenave
 ---

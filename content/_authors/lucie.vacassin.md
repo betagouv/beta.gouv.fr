@@ -11,4 +11,5 @@ missions:
 memberType: beta
 competences: []
 link: https://www.linkedin.com/in/lucie-vacassin-07b3661ab/
+github: lucievaca1
 ---

@@ -28,7 +28,10 @@ events:
   - name: committee
     date: 2026-05-19
     comment: Prolongation en phase de construction
-techno: []
+techno:
+  - typescript
+  - albert
+  - python
 contact_dinum: elsa.le-duigou
 contact_incubator: anaick.heurtault
 link: ''

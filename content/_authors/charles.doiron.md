@@ -1,8 +1,8 @@
 ---
-fullname: charles doiron
+fullname: Charles d'Oiron
 role: Développeur Full Stack | IA
 domaine: Développement
-link: https://www.linkedin.com/in/charles-d-oiron/
+link: https://www.charlesdoiron.fr
 github: charlesdoiron
 missions:
   - start: 2023-12-29
@@ -40,3 +40,11 @@ competences:
   - Développement Backend
   - Développement Frontend
 ---
+AI engineer, GovTech et entrepreneur. Développeur full-stack depuis 2012 et ancien designer UI/UX.
+
+Aujourd'hui, je n'écris presque plus de code à la main, mais je n'ai jamais autant produit.
+
+Je pilote des agents IA, je construis leurs harnais et des outils personnalisés pour les équipes.
+Je mets toute mon attention à construire des systèmes dignes de confiance, notamment pour l'État. 
+Plus de 160 missions sur Malt.
+https://www.linkedin.com/in/charles-d-oiron/
