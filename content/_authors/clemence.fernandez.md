@@ -9,13 +9,13 @@ competences:
   - Développement Full-stack
 missions:
   - start: 2025-06-16
-    end: 2026-12-26
+    end: 2027-03-31
     status: independent
     employer: Little Big Connexion
     startups:
       - pitchou
   - start: 2026-04-10
-    end: 2026-11-17
+    end: 2027-01-15
     status: independent
     employer: Solstice
     startups:

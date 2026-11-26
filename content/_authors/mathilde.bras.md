@@ -5,7 +5,7 @@ domaine: Coaching
 github: MathildeBras
 missions:
   - start: 2023-03-06
-    end: 2026-12-31
+    end: 2027-12-31
     status: admin
     startups:
       - languia

@@ -34,7 +34,7 @@ missions:
     startups:
       - nomad
   - start: 2026-08-24
-    end: 2027-02-26
+    end: 2027-04-30
     status: independent
     employer: Docapost
     startups:

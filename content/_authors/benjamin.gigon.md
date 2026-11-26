@@ -6,7 +6,7 @@ github: BEGIocto
 competences: []
 missions:
   - start: 2026-09-22
-    end: 2026-12-22
+    end: 2027-04-22
     status: service
     employer: Crème de la Crème
     startups:
