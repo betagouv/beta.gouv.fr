@@ -9,7 +9,10 @@ thematiques:
   - cybersécurité
   - Formation
   - filière
-usertypes: []
+usertypes:
+  - Elèves
+  - Personnel enseignant
+  - parents
 techno: []
 title: DemainSpécialisteCyber
 mission: Former les jeunes à la cybersécurité et susciter des vocations
@@ -28,6 +31,9 @@ events:
 accessibility_status: totalement conforme
 sponsors:
   - /organisations/anssi
+budget_url: https://docs.numerique.gouv.fr/docs/311a32c4-49bf-4733-bd93-e6fc19af115a/
+stats_url: https://docs.numerique.gouv.fr/docs/bf19540d-837f-4ea7-aa02-517142d77949/
+contact_incubator: jean-baptiste.demaison
 ---
 # Le problème
 

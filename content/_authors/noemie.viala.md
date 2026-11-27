@@ -1,6 +1,6 @@
 ---
 fullname: Noémie Viala
-role: Chargé de mission Aires Marines Protégées
+role: Intrapreneure
 domaine: Intraprenariat
 competences:
   - Intrapreneur(se)

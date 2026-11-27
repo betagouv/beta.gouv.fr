@@ -21,7 +21,7 @@ missions:
       - suite-numerique
       - suite.territoriale
   - start: 2026-02-02
-    end: 2026-12-31
+    end: 2027-03-31
     status: independent
     employer: La Zone
     startups:

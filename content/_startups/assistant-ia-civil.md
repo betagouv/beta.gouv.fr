@@ -81,7 +81,9 @@ Disponible sur le gitlab de l'incubateur justice sur demande (non open-source)
 
 ### Budget
 
-250 k € obtenu au dernier comité du 02 juillet 2026 
+73 k € dépensé pour la phase de construction du 07/12/2025 au 01/07/2026 
+
+247 k € obtenu au dernier comité du 02 juillet 2026 pour la phase de construction jusqu'à décembre 2026
 
 ### Matrice d'impact
 - Le produit est-il utilisable ? 

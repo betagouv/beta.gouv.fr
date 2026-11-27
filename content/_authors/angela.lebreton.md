@@ -33,4 +33,3 @@ memberType: beta
 link: https://www.linkedin.com/in/angela-lebreton/
 competences: []
 ---
-Chargée de déploiement

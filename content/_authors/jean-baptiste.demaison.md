@@ -5,7 +5,7 @@ domaine: Animation
 github: jbdemaison
 missions:
   - start: 2020-03-01
-    end: 2026-12-31
+    end: 2027-06-30
     status: admin
     employer: ANSSI
     startups:

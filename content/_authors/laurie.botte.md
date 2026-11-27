@@ -10,7 +10,7 @@ missions:
     end: 2026-09-23
     status: admin
   - start: 2026-09-16
-    end: 2026-12-16
+    end: 2027-02-16
     status: admin
     startups:
       - monitor-fil-cril

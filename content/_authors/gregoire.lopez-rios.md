@@ -5,13 +5,13 @@ role: Chargé de déploiement
 github: glopezrios
 missions:
   - start: 2024-05-13
-    end: 2027-01-01
+    end: 2027-03-01
     status: independent
     employer: Mon Entreprise Portage
     startups:
       - mon-entreprise
   - start: 2024-07-15
-    end: 2027-01-01
+    end: 2027-04-01
     status: independent
     employer: LittleBigConnection
     startups:

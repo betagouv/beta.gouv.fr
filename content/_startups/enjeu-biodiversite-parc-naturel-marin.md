@@ -20,141 +20,94 @@ events:
     date: 2026-04-01
 thematiques: []
 techno: []
+repository: https://github.com/betagouv/pnm
 link: ''
 ---
-**Améliorer la prise en compte des enjeux de biodiversité dans les Parcs Naturels Marins**
 
-**Renforcer l'efficacité des Parcs Naturels Marins**
 
-# **Contexte**
+## Renforcer l'efficacité des Parcs Naturels Marins dans leur mission de protection de biodiversité 
 
-L’effondrement de la biodiversité et les pressions qu'elle subit sont largement documentés : **66% des milieux marins sont détériorés** (source IPBES)
 
-Des chantiers pour lutter contre cet effondrement font partie des politiques prioritaires du gouvernement : protéger la biodiversité et nos ressources.
 
-La Stratégie nationale biodiversité 2030 traduit cette ambition :
+###  **Améliorer la prise en compte des enjeux de biodiversité dans les Parcs Naturels Marins**
 
-* réduire les pressions qui s’exercent sur la biodiversité,
 
-* restaurer la biodiversité dégradée partout où c’est possible,
 
-* mobiliser tous les acteurs,
+#### Constat
 
-* garantir les moyens d’atteindre ces ambitions
 
-L’Office français de la biodiversité participe et pilote des actions clés de cette stratégie, notamment à travers le projet européen LIFE BIODIV FRANCE. Il agit comme un levier de coordination nationale pour transformer les ambitions de la Stratégie nationale pour la biodiversité 2030 en résultats concrets sur le terrain, notamment via les aires protégées et la mobilisation de tous les acteurs.
+Aujourd'hui, **67 % des milieux marins** à l'échelle mondiale sont détériorés à cause des nombreuses pressions exercées par les activités humaines.
 
-En effet les aires protégées et leurs statuts juridiques sont un levier concret pour la préservation de la biodiversité.
+#### Politique publique
 
-À ce titre, pour approfondir et concentrer notre action, nous privilégions une focalisation sur les acteurs intervenant dans les aires protégées et plus particulièrement les Parcs Naturels Marins.
 
-Pourquoi les PNM ? cette catégorie d'aire marine protégée (au nombre de 8 en France) représente un outil majeur et concret pour la gestion du milieu marin et préservation de la biodiversité, notamment grâce à sa gouvernance locale et partagée, permettant de mobiliser les acteurs du territoire. La protection passe indéniablement par une modification des pressions exercées et doit donc s'adresser et intégrer les acteurs à l'origine de ces pressions.
+L’Office français de la biodiversité pilote des chantiers clés pour lutter contre cet effondrement, notamment à travers le projet européen LIFE BIODIV FRANCE qui met en oeuvre la Stratégie nationale biodiversité 2030 :
 
-**En effet, les expériences de protection ont prouvé qu'une gestion par concertation et mobilisation des acteurs locaux était la plus efficace.**
+Réduire les pressions & Mobiliser tous les acteurs via le renforcement de l'efficacité des aires protégées.
 
-Les PNM ont pour objectifs de mieux connaître et protéger la mer ainsi que de soutenir le développement durable des activités maritimes.\
-*Le Conseil de gestion est l’organe de gouvernance du parc naturel marin. Il définit et met en œuvre la politique du parc dans le cadre des orientations de gestion inscrites dans le décret de création du parc et déclinées dans le plan de gestion. Cette gouvernance en mer, décentralisée et participative, est au cœur du fonctionnement du parc.*
+**En effet, dans le milieu marin, les Parcs naturels marins (au nombre de 8 en France) représentent un outil majeur et concret pour atteindre ces ambitions.**
 
-*Le Conseil de gestion est composé de représentants des acteurs du milieu marin : usagers professionnels et de loisirs, élus locaux, associations de protection de l'environnement, experts et services de l’État. Les équipes des PNM mettent en œuvre leur plan de gestion, un projet de territoire à 15 ans, élaboré et adopté par le conseil de gestion. Les sujets traités y sont très divers : de la préservation des milieux naturels jusqu’au patrimoine culturel en passant par l'accompagnement des activités maritimes. Les parcs naturels marins portent ainsi des projets complexes faisant intervenir des acteurs variés et produisant une multitude de données tant sur l’état des milieux et celui des espèces que sur les activités humaines. Le partage et l’appropriation de ces informations par les acteurs constituent un véritable enjeu pour l’efficacité de la gestion de ces aires protégées. En effet, pour atteindre les objectifs de préservation de la biodiversité, fixés par le plan de gestion du PNM, la mobilisation des acteurs pour une bonne prise en compte de ces enjeux dans leurs activités est essentielle.*
+**Situés dans des zones à forts enjeux écologiques et socio-économiques, ils ont pour mission de concilier protection de la biodiversité et activités humaines**
 
-*La stratégie du Parc Naturel Marin est un outil précieux mais se heurte à des freins dans sa mise en œuvre.*
+grâce à : 
 
-# Les acteurs et leurs problèmes
+* une gouvernance locale et partagée, permettant de mobiliser les acteurs du territoire.
+* une feuille de route ambitieuse : le plan de gestion : un projet de territoire à 15 ans
 
-### Les personnes concernées
 
-Les **personnes&#x20;**&#x63;oncernées sont toutes personnes intervenant dans un PNM, avec un projet, une activité impactant la zone, ou impliqué dans la gestion de l’aire protégée.\
-Il peut donc s’agir de 2 catégories :
+#### Problématique
 
--**Acteurs externes à l’OFB&#x20;**&#x69;ntervenant dans les 8 Parcs naturels marins : porteurs de projet, services de l’Etat, universités, associations, partenaires, acteurs professionnels, entreprises, bureaux d’études
 
--**Acteurs internes à l’OFB&#xA0;**: chargés de mission du PNM, géomaticiens, chargés de communication ou tout autre agent de l’OFB nécessitant l’accès aux données du PNM ou au suivi de son activité.
+MAIS la mise en œuvre de cette mission rencontre des freins... 
 
-### L'irritant :
+Un **manque d’accès fluide aux informations essentielles** : réglementations en vigueur, données sur les habitats sensibles, espèces protégées (contexte, spatialisation et indicateurs) ou actions et recommandations du parc.
 
-**Mise en œuvre compliquée du plan de gestion avec les acteurs du territoire**
+En effet, les **porteurs de projet** doivent **identifier** ces éléments pour **adapter leur activité**, mais ces informations sont souvent dispersées, complexes à trouver ou difficiles à interpréter. 
 
-La mise en œuvre des plans de gestion des PNM est partiellement effective et leur avis n'est pas toujours pris en compte
+De même, les PNM, le conseil de gestion et les services de l’État doivent s’appuyer sur ces mêmes données pour **émettre des avis** ou **instruire les dossiers**, mais celles-ci ne sont pas toujours accessibles, actualisées ou centralisées.
 
-Plan de gestion sur une très longue durée contrairement au turn over de certains acteurs donc perte de la vision
+Les acteurs territoriaux n’ont pas, au bon moment, les informations et données à jour nécessaires, fiables et directement exploitables pour intégrer les enjeux du PNM dans leurs actions et décisions.
 
-Beaucoup d'acteurs avec intérêts variés donc concertation complexe
+Cela entraîne des arbitrages hétérogènes, des temps de coordination importants et une mise en œuvre partielle du plan de gestion.
 
-Plan de territoire sur des sujets transverses et techniques : difficile à mettre en œuvre
 
-Document plan de gestion trop long et complexe
+#### Solution
 
-Acteurs locaux peu connaisseurs des enjeux biodiversité
+C'est pour répondre à cette problématique que nous sommes en phase de construction d'un service numérique :
 
-Prise en compte partielle dans les décisions et planification par les parties prenantes
+**Mon Parc marin** est un outil d’aide à l’action et à la décision pour tous les acteurs du territoire des PNM. Il aide **à mieux comprendre et mieux prendre en compte les données du plan de gestion** pour décider et agir collectivement à réduire les pressions sur la biodiversité.
 
-Mauvaise connaissance du plan de gestion par les parties prenantes
+En un mot rendre les données activables !!!
 
-Forte acquisition des connaissances du PNM pour alimenter la compréhension des enjeux de la zone mais un porter à connaissance et une diffusion insuffisante
+--> La protection passe indéniablement par une modification des pressions exercées et doit donc s’adresser et intégrer les acteurs à l’origine de ces pressions.
 
-**Difficulté de compréhension et de prise en compte des enjeux écologiques dans les activités (économiques, loisirs) pour les acteurs locaux**
 
-Sentiment de censurer des projets
+#### Approche
 
-Impact des projets/activités difficile à évaluer
 
-Données du PNM (géographiques et documentaires) difficilement accessibles ou uniquement par l'intermédiaire des agents du PNM + accès aux données géographiques par l'intermédiaire du géomaticien (en interne) - sources d'informations multiples
+Nous commençons par accompagner les acteurs dès l’émergence des projets en PNM : identifier les types de projets, leur localisation, centraliser les données essentielles sur les enjeux du PNM présents et les mesures à prendre pour éviter ou réduire son impact potentiel.
 
-Forte sollicitation de la part des porteurs de projet pour la réalisation d'étude d'impact
+L’objectif de cette première brique numérique est d’anticiper et d’encadrer les projets dès leur conception pour une meilleure prise en compte de la biodiversité.
 
-Articulation difficile entre enjeux économiques et préservation de l'environnement " une posture du PNM plutôt en censeur aval qu'en accompagnement amont des porteurs de projets"
 
-Source : Enquête Evaluation PNM EPMO 2024
+#### Impact 
 
-### Pourquoi agir ?
-
-Pour transformer les parties prenantes des Parcs Naturels Marins en acteurs contribuant au projet commun de préservation de la biodiversité (plan de gestion)
-
-Des acteurs sensibilisés, informés et accompagnés
-
-# Ce que nous devons apprendre
-
-Quels sont les modalités d'instruction des dossiers ?
-
-Comment accompagner les porteurs de projets dans leur étude d'impact sur la biodiversité ?
-
-Comment partager toute la connaissance produite par le PNM et la rendre activable ?
-
-Cartographie des projets/outils pour mutualisation des efforts
-
-* (Recherche) Quels sont les besoins pour que les utilisateurs prennent conscience et comprennent le plan de gestion ?
-
-* (déploiement) Comment assurer qu'un service numérique ai de l'impact sur la problématique identifiée ?
-
-* (déploiement) Comment mettre en commun les problématiques ?
-
-Comment bien mesurer l'efficacité et l'impact d'un service numérique pour les plans de gestion ?
-
-# Nos hypothèses solutions
-
-La biodiversité doit être prise en compte par les acteurs du territoire
-
-Il manque un porter à connaissance des enjeux et données associées :\
-→ Un support en ligne pourrait répondre à ces problématiques\
-→ Un point de centralisation (information / pré-instruction)
-
-Mise en œuvre d'un service numérique permettant de guider simplement nos cibles pour une contribution au plan de gestion ou montage de projet avec des informations contextualisées et vérifiées.
-
-"Pressions"\
-Quel sont les effets d'un projet sur la biodiversité ?
-
-"Soutien / sensibilisation"\
-Résultats des actions - mise en avant de réussite - Activités "durables" - Aspect sociaux économiques du Parc
-
-Permettre&#x20;****aux parties prenantes des PNM****&#x20;d’obtenir la bonne compréhension et prise en compte des enjeux de biodiversité dans leurs activités&#x20;grâce à un support clair d'appui à la décision afin de&#x20;***réduire les pressions qui s'exercent sur la biodiversité.***
+ Pour mesurer son efficacité, nous évaluerons :\
+ -L’accessibilité et la compréhension des informations : temps passé par les porteurs pour trouver les données nécessaires.\
+ -La qualité des dossiers : intégration des enjeux de biodiversité dans les projets soumis aux PNM.\
+% d’avis favorables du Parc dès le premier dépôt - Mesure : avis rendus par le Parc
+ 
+À terme, cette approche pourra être étendue à toute la chaîne de décision.
 
 ## L'équipe
 
 
 
 * Intrapreneur : Noémie Viala (OFB)
-
 * Coach : Julianne Lagadec
+* Dev : Jérôme Desboeufs
+* Design : Aurélie Jallut
+
 
 
 

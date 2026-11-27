@@ -34,7 +34,7 @@ techno:
   - python
 contact_dinum: elsa.le-duigou
 contact_incubator: anaick.heurtault
-link: ''
+link: https://map.app.cc-snc.anje-justice.fr/
 ---
 
 
@@ -81,7 +81,11 @@ Disponible sur le gitlab de l'incubateur justice sur demande (non open-source)
 
 ### Budget
 
-180 k € obtenu au dernier comité du 19 mai 2026 
+153 k € pour la phase de construction du 29/05/2025 au 17/11/2026
+
+175 k € pour la phase de construction du 17/11/2026 au 19/05/2026
+
+183 k € obtenu au dernier comité du 19 mai 2026 à courir jusqu'au comité de décembre 2026
 
 ### Matrice d'impact
 - Le produit est-il utilisable ? 

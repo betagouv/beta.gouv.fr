@@ -44,6 +44,7 @@ analyse_risques: true
 mon_service_securise: true
 techno: []
 impact_url: https://docs.numerique.gouv.fr/docs/a19d06ec-7b4a-44bc-bc3e-7b092d7f5249/
+budget_url: https://docs.numerique.gouv.fr/docs/0400dd32-87a2-4750-be31-16453c1b519f/
 ---
 # L'enjeu
 

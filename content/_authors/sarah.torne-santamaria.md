@@ -1,13 +1,16 @@
 ---
 fullname: Sarah Torné-Santamaria
 role: Chargée de contenus
-domaine: Déploiement
+domaine: Autre
 link: https://www.linkedin.com/in/sarah-torne-content-manager/
 competences:
   - Communication
+  - Rédaction
+  - Langage clair
+  - Stratégie éditoriale
 missions:
   - start: 2025-07-22
-    end: 2026-12-31
+    end: 2027-03-01
     status: independent
     employer: MALT
     startups:
