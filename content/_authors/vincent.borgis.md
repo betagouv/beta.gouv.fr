@@ -15,7 +15,7 @@ missions:
       - monsuivipsy
       - recosante
   - start: 2021-05-03
-    end: 2025-06-16
+    end: 2028-03-31
     status: admin
     employer: DNUM Ministères Sociaux
 teams:

@@ -4,7 +4,7 @@ role: Responsable des Opérations et du Support en mission chez DossierFacile
 domaine: Autre
 missions:
   - start: 2021-03-27
-    end: 2026-12-30
+    end: 2027-04-30
     status: independent
     employer: Malt
     startups:

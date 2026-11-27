@@ -22,8 +22,11 @@ events:
     date: 2026-01-28
     comment: poursuite du projet
   - name: committee
-    date: 2026-11-12
-    comment: ' Date à arrêter'
+    date: 2026-11-09
+    comment: poursuite du projet
+  - name: committee
+    date: 2027-07-01
+    comment: Date prévisionnelle
 link: https://amidomar.beta.gouv.fr/
 budget_url: https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc
 impact_url: https://docs.numerique.gouv.fr/docs/313689e2-6cbc-4e6b-bf7b-3d8b0b49425f/

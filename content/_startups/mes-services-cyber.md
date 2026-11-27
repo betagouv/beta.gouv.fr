@@ -34,6 +34,7 @@ techno: []
 impact_url: https://messervices.cyber.gouv.fr/statistiques
 sponsors:
   - /organisations/anssi
+budget_url: https://docs.numerique.gouv.fr/docs/558c11f1-9da7-4460-a836-599f854e1c3c/
 ---
 # L'enjeu
 

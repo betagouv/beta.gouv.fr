@@ -10,8 +10,10 @@ phases:
     start: 2022-01-01
   - name: construction
     start: 2022-09-01
-  - name: transfere
+  - name: acceleration
     start: 2025-03-01
+  - name: consolidation
+    start: 2026-11-27
 redirect_from:
   - /startups/MonAideCyber
 thematiques:
