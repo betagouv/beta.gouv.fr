@@ -10,9 +10,9 @@ Incubateur des services numériques (ISN) de la Direction interministérielle du
  
 Téléphone : 01 71 21 11 33
 
-## Directrice de la publication
+## Directeur de la publication
  
-Madame Stéphanie SCHAER, directrice interministérielle du numérique
+Monsieur Walter ARNAUD, directeur interministériel du numérique 
 
 ## Hébergement de la plateforme
  
