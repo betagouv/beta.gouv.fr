@@ -162,7 +162,8 @@ EOF
 log_verbose "Analyse des fichiers modifiés..."
 
 # Obtenir la liste des fichiers modifiés dans la période
-MODIFIED_FILES=$(git log --since="$START_DATE" --name-only --pretty=format: -- "$TARGET_DIR" | sort -u | grep -v '^$')
+# `core.quotePath=false` : sinon les noms non ASCII sortent échappés en octal
+MODIFIED_FILES=$(git -c core.quotePath=false log --since="$START_DATE" --name-only --pretty=format: -- "$TARGET_DIR" | sort -u | grep -v '^$')
 
 if [[ -z "$MODIFIED_FILES" ]]; then
     echo "Aucune modification trouvée dans le dossier '$TARGET_DIR' durant les $DAYS derniers jours." >> "$REPORT_FILE"
